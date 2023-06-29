@@ -1,0 +1,29 @@
+23949582|t|The cytogenetic action of ifosfamide, mesna, and their combination on peripheral rabbit lymphocytes: an in vivo/in vitro cytogenetic study.
+23949582|a|Ifosfamide (IFO) is an alkylating nitrogen mustard, administrated as an antineoplasmic agent. It is characterized by its intense urotoxic action, leading to hemorrhagic cystitis. This side effect of IFO raises the requirement for the co-administration with sodium 2-sulfanylethanesulfonate (Mesna) aiming to avoid or minimize this effect. IFO and Mesna were administrated separately on rabbit's lymphocytes in vivo, which were later developed in vitro. Cytogenetic markers for sister chromatid exchanges (SCEs), proliferation rate index (PRI) and Mitotic Index were recorded. Mesna's action, in conjunction with IFO reduces the frequency of SCEs, in comparison with the SCEs recordings obtained when IFO is administered alone. In addition to this, when high concentrations of Mesna were administered alone significant reductions of the PRI were noted, than with IFO acting at the same concentration on the lymphocytes. Mesna significantly reduces IFO's genotoxicity, while when administered in high concentrations it acts in an inhibitory fashion on the cytostatic action of the drug.
+23949582	26	36	ifosfamide	ChemicalEntity	D007069
+23949582	38	43	mesna	ChemicalEntity	D015080
+23949582	81	87	rabbit	OrganismTaxon	9986
+23949582	140	150	Ifosfamide	ChemicalEntity	D007069
+23949582	152	155	IFO	ChemicalEntity	D007069
+23949582	163	190	alkylating nitrogen mustard	ChemicalEntity	D008357
+23949582	297	308	hemorrhagic	DiseaseOrPhenotypicFeature	D006470
+23949582	309	317	cystitis	DiseaseOrPhenotypicFeature	D003556
+23949582	339	342	IFO	ChemicalEntity	D007069
+23949582	397	429	sodium 2-sulfanylethanesulfonate	ChemicalEntity	D015080
+23949582	431	436	Mesna	ChemicalEntity	D015080
+23949582	479	482	IFO	ChemicalEntity	D007069
+23949582	487	492	Mesna	ChemicalEntity	D015080
+23949582	526	532	rabbit	OrganismTaxon	9986
+23949582	716	721	Mesna	ChemicalEntity	D015080
+23949582	752	755	IFO	ChemicalEntity	D007069
+23949582	840	843	IFO	ChemicalEntity	D007069
+23949582	916	921	Mesna	ChemicalEntity	D015080
+23949582	1002	1005	IFO	ChemicalEntity	D007069
+23949582	1059	1064	Mesna	ChemicalEntity	D015080
+23949582	1087	1090	IFO	ChemicalEntity	D007069
+23949582	1093	1105	genotoxicity	DiseaseOrPhenotypicFeature	D030342
+23949582	Positive_Correlation	D007069	D003556	No
+23949582	Positive_Correlation	D007069	D006470	No
+23949582	Positive_Correlation	D007069	D030342	No
+23949582	Negative_Correlation	D015080	D030342	Novel
+23949582	Negative_Correlation	D015080	D007069	Novel

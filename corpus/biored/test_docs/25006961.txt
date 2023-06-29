@@ -1,0 +1,66 @@
+25006961|t|Absence of PKC-alpha attenuates lithium-induced nephrogenic diabetes insipidus.
+25006961|a|Lithium, an effective antipsychotic, induces nephrogenic diabetes insipidus (NDI) in  40% of patients. The decreased capacity to concentrate urine is likely due to lithium acutely disrupting the cAMP pathway and chronically reducing urea transporter (UT-A1) and water channel (AQP2) expression in the inner medulla. Targeting an alternative signaling pathway, such as PKC-mediated signaling, may be an effective method of treating lithium-induced polyuria. PKC-alpha null mice (PKCa KO) and strain-matched wild type (WT) controls were treated with lithium for 0, 3 or 5 days. WT mice had increased urine output and lowered urine osmolality after 3 and 5 days of treatment whereas PKCa KO mice had no change in urine output or concentration. Western blot analysis revealed that AQP2 expression in medullary tissues was lowered after 3 and 5 days in WT mice; however, AQP2 was unchanged in PKCa KO. Similar results were observed with UT-A1 expression. Animals were also treated with lithium for 6 weeks. Lithium-treated WT mice had 19-fold increased urine output whereas treated PKCa KO animals had a 4-fold increase in output. AQP2 and UT-A1 expression was lowered in 6 week lithium-treated WT animals whereas in treated PKCa KO mice, AQP2 was only reduced by 2-fold and UT-A1 expression was unaffected. Urinary sodium, potassium and calcium were elevated in lithium-fed WT but not in lithium-fed PKCa KO mice. Our data show that ablation of PKCa preserves AQP2 and UT-A1 protein expression and localization in lithium-induced NDI, and prevents the development of the severe polyuria associated with lithium therapy.
+25006961	11	20	PKC-alpha	GeneOrGeneProduct	18750
+25006961	32	39	lithium	ChemicalEntity	D008094
+25006961	48	78	nephrogenic diabetes insipidus	DiseaseOrPhenotypicFeature	D018500
+25006961	80	87	Lithium	ChemicalEntity	D008094
+25006961	125	155	nephrogenic diabetes insipidus	DiseaseOrPhenotypicFeature	D018500
+25006961	157	160	NDI	DiseaseOrPhenotypicFeature	D018500
+25006961	173	181	patients	OrganismTaxon	9606
+25006961	244	251	lithium	ChemicalEntity	D008094
+25006961	275	279	cAMP	ChemicalEntity	D000242
+25006961	313	329	urea transporter	GeneOrGeneProduct	27411
+25006961	331	336	UT-A1	GeneOrGeneProduct	27411
+25006961	357	361	AQP2	GeneOrGeneProduct	11827
+25006961	448	451	PKC	GeneOrGeneProduct	18750
+25006961	511	518	lithium	ChemicalEntity	D008094
+25006961	527	535	polyuria	DiseaseOrPhenotypicFeature	D011141
+25006961	537	546	PKC-alpha	GeneOrGeneProduct	18750
+25006961	552	556	mice	OrganismTaxon	10090
+25006961	558	562	PKCa	GeneOrGeneProduct	18750
+25006961	628	635	lithium	ChemicalEntity	D008094
+25006961	659	663	mice	OrganismTaxon	10090
+25006961	760	764	PKCa	GeneOrGeneProduct	18750
+25006961	768	772	mice	OrganismTaxon	10090
+25006961	857	861	AQP2	GeneOrGeneProduct	11827
+25006961	931	935	mice	OrganismTaxon	10090
+25006961	946	950	AQP2	GeneOrGeneProduct	11827
+25006961	968	972	PKCa	GeneOrGeneProduct	18750
+25006961	1012	1017	UT-A1	GeneOrGeneProduct	27411
+25006961	1061	1068	lithium	ChemicalEntity	D008094
+25006961	1082	1089	Lithium	ChemicalEntity	D008094
+25006961	1101	1105	mice	OrganismTaxon	10090
+25006961	1157	1161	PKCa	GeneOrGeneProduct	18750
+25006961	1206	1210	AQP2	GeneOrGeneProduct	11827
+25006961	1215	1220	UT-A1	GeneOrGeneProduct	27411
+25006961	1254	1261	lithium	ChemicalEntity	D008094
+25006961	1300	1304	PKCa	GeneOrGeneProduct	18750
+25006961	1308	1312	mice	OrganismTaxon	10090
+25006961	1314	1318	AQP2	GeneOrGeneProduct	11827
+25006961	1350	1355	UT-A1	GeneOrGeneProduct	27411
+25006961	1391	1397	sodium	ChemicalEntity	D012964
+25006961	1399	1408	potassium	ChemicalEntity	D011188
+25006961	1413	1420	calcium	ChemicalEntity	D002118
+25006961	1438	1445	lithium	ChemicalEntity	D008094
+25006961	1464	1471	lithium	ChemicalEntity	D008094
+25006961	1476	1480	PKCa	GeneOrGeneProduct	18750
+25006961	1484	1488	mice	OrganismTaxon	10090
+25006961	1521	1525	PKCa	GeneOrGeneProduct	18750
+25006961	1536	1540	AQP2	GeneOrGeneProduct	11827
+25006961	1545	1550	UT-A1	GeneOrGeneProduct	27411
+25006961	1590	1597	lithium	ChemicalEntity	D008094
+25006961	1606	1609	NDI	DiseaseOrPhenotypicFeature	D018500
+25006961	1654	1662	polyuria	DiseaseOrPhenotypicFeature	D011141
+25006961	1679	1686	lithium	ChemicalEntity	D008094
+25006961	Association	D002118	D008094	Novel
+25006961	Negative_Correlation	27411	D008094	Novel
+25006961	Association	D011141	18750	Novel
+25006961	Negative_Correlation	11827	18750	Novel
+25006961	Association	D008094	D011188	Novel
+25006961	Association	D008094	D012964	Novel
+25006961	Positive_Correlation	D008094	D011141	No
+25006961	Negative_Correlation	D008094	11827	Novel
+25006961	Positive_Correlation	D008094	D018500	Novel
+25006961	Negative_Correlation	18750	27411	Novel
+25006961	Positive_Correlation	18750	D008094	Novel
+25006961	Positive_Correlation	18750	D018500	Novel

@@ -1,0 +1,25 @@
+27467249|t|Juicer Provides a One-Click System for Analyzing Loop-Resolution Hi-C Experiments
+27467249|a|Hi-C experiments explore the 3D structure of the genome, generating terabases of data to create high-resolution contact maps. Here, we introduce Juicer, an open-source tool for analyzing terabase-scale Hi-C datasets. Juicer allows users without a computational background to transform raw sequence data into normalized contact maps with one click. Juicer produces a hic file containing compressed contact matrices at many resolutions, facilitating visualization and analysis at multiple scales. Structural features, such as loops and domains, are automatically annotated. Juicer is available as open source software at http://aidenlab.org/juicer/.
+27467249	0	6	Juicer	T170	UMLS:C0037589
+27467249	39	48	Analyzing	T062	UMLS:C0936012
+27467249	49	81	Loop-Resolution Hi-C Experiments	T058	UMLS:C0200892
+27467249	82	98	Hi-C experiments	T058	UMLS:C0200892
+27467249	111	123	3D structure	T082	UMLS:C0026377
+27467249	131	137	genome	T017	UMLS:C0017428
+27467249	150	167	terabases of data	T170	UMLS:C0150098
+27467249	227	233	Juicer	T170	UMLS:C0037589
+27467249	238	254	open-source tool	T170	UMLS:C0037589
+27467249	284	297	Hi-C datasets	T170	UMLS:C0150098
+27467249	299	305	Juicer	T170	UMLS:C0037589
+27467249	313	318	users	T098	UMLS:C1706077
+27467249	357	366	transform	T062	UMLS:C1705163
+27467249	367	384	raw sequence data	T170	UMLS:C0026382
+27467249	430	436	Juicer	T170	UMLS:C0037589
+27467249	448	456	hic file	T170	UMLS:C0242193
+27467249	479	495	contact matrices	T082	UMLS:C1704640
+27467249	530	543	visualization	T038	UMLS:C0175631
+27467249	548	556	analysis	T062	UMLS:C0936012
+27467249	577	596	Structural features	T082	UMLS:C0026377
+27467249	606	611	loops	T017	UMLS:C1516509
+27467249	654	660	Juicer	T170	UMLS:C0037589
+27467249	689	697	software	T170	UMLS:C0037585

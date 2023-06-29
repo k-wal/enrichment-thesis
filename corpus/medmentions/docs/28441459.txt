@@ -1,0 +1,102 @@
+28441459|t|Cannabis use is associated with reduced prevalence of non-alcoholic fatty liver disease: A cross-sectional study
+28441459|a|Cannabis use is associated with reduced prevalence of obesity and diabetes mellitus (DM) in humans and mouse disease models. Obesity and DM are a well-established independent risk factor for non-alcoholic fatty liver disease (NAFLD), the most prevalent liver disease globally. The effects of cannabis use on NAFLD prevalence in humans remains ill-defined. Our objective is to determine the relationship between cannabis use and the prevalence of NAFLD in humans. We conducted a population-based case-control study of 5,950,391 patients using the 2014 Healthcare Cost and Utilization Project (HCUP), Nationwide Inpatient Survey (NIS) discharge records of patients 18 years and older. After identifying patients with NAFLD (1% of all patients), we next identified three exposure groups: non-cannabis users (98.04%), non-dependent cannabis users (1.74%), and dependent cannabis users (0.22%). We adjusted for potential demographics and patient related confounders and used multivariate logistic regression (SAS 9.4) to determine the odds of developing NAFLD with respects to cannabis use. Our findings revealed that cannabis users (dependent and non-dependent) showed significantly lower NAFLD prevalence compared to non-users (AOR: 0.82[0.76-0.88]; p<0.0001). The prevalence of NAFLD was 15% lower in non-dependent users (AOR: 0.85[0.79-0.92]; p<0.0001) and 52% lower in dependent users (AOR: 0.49[0.36-0.65]; p<0.0001). Among cannabis users, dependent patients had 43% significantly lower prevalence of NAFLD compared to non-dependent patients (AOR: 0.57[0.42-0.77]; p<0.0001). Our observations suggest that cannabis use is associated with lower prevalence of NAFLD in patients. These novel findings suggest additional molecular mechanistic studies to explore the potential role of cannabis use in NAFLD development.
+28441459	0	12	Cannabis use	T048	C3160814
+28441459	16	31	associated with	T080	C0332281
+28441459	32	50	reduced prevalence	T081	C1518029
+28441459	54	87	non-alcoholic fatty liver disease	T047	C0400966
+28441459	91	112	cross-sectional study	T062	C0010362
+28441459	113	125	Cannabis use	T048	C3160814
+28441459	129	144	associated with	T080	C0332281
+28441459	145	163	reduced prevalence	T081	C1518029
+28441459	167	174	obesity	T047	C0028754
+28441459	179	196	diabetes mellitus	T047	C0011849
+28441459	198	200	DM	T047	C0011849
+28441459	205	211	humans	T016	C0086418
+28441459	216	221	mouse	T015	C0026809
+28441459	222	236	disease models	T050	C0684309
+28441459	238	245	Obesity	T047	C0028754
+28441459	250	252	DM	T047	C0011849
+28441459	288	299	risk factor	T033	C0850664
+28441459	304	337	non-alcoholic fatty liver disease	T047	C0400966
+28441459	339	344	NAFLD	T047	C0400966
+28441459	366	379	liver disease	T047	C0023895
+28441459	394	401	effects	T080	C1280500
+28441459	405	417	cannabis use	T048	C3160814
+28441459	421	426	NAFLD	T047	C0400966
+28441459	427	437	prevalence	T081	C0220900
+28441459	441	447	humans	T016	C0086418
+28441459	456	467	ill-defined	T046	C2047937
+28441459	473	482	objective	T170	C0018017
+28441459	503	515	relationship	T080	C0439849
+28441459	524	536	cannabis use	T048	C3160814
+28441459	545	555	prevalence	T081	C0220900
+28441459	559	564	NAFLD	T047	C0400966
+28441459	568	574	humans	T016	C0086418
+28441459	591	626	population-based case-control study	T062	C0007328
+28441459	640	648	patients	T101	C0030705
+28441459	664	679	Healthcare Cost	T081	C0085552
+28441459	684	703	Utilization Project	T077	C1709701
+28441459	705	709	HCUP	T077	C1709701
+28441459	712	739	Nationwide Inpatient Survey	T170	C0038951
+28441459	741	744	NIS	T170	C0038951
+28441459	746	763	discharge records	T170	C0743221
+28441459	767	775	patients	T101	C0030705
+28441459	779	784	years	T079	C0439234
+28441459	789	794	older	T032	C0001779
+28441459	802	813	identifying	T080	C0205396
+28441459	814	822	patients	T101	C0030705
+28441459	828	833	NAFLD	T047	C0400966
+28441459	845	853	patients	T101	C0030705
+28441459	864	874	identified	T080	C0205396
+28441459	881	896	exposure groups	T098	C1257890
+28441459	898	916	non-cannabis users	T098	C1706077
+28441459	927	955	non-dependent cannabis users	T098	C1706077
+28441459	969	993	dependent cannabis users	T098	C1706077
+28441459	1006	1014	adjusted	T169	C0456081
+28441459	1029	1041	demographics	T090	C0011298
+28441459	1046	1053	patient	T101	C0030705
+28441459	1083	1115	multivariate logistic regression	UnknownType	C0681925
+28441459	1117	1120	SAS	T062	C0871424
+28441459	1143	1147	odds	T081	C0028873
+28441459	1162	1167	NAFLD	T047	C0400966
+28441459	1185	1197	cannabis use	T048	C3160814
+28441459	1203	1211	findings	T033	C0243095
+28441459	1212	1220	revealed	T080	C0443289
+28441459	1226	1234	cannabis	T109,T121	C0024808
+28441459	1235	1240	users	T098	C1706077
+28441459	1242	1251	dependent	T080	C0851827
+28441459	1256	1269	non-dependent	T033	C0243095
+28441459	1292	1297	lower	T082	C0441994
+28441459	1298	1303	NAFLD	T047	C0400966
+28441459	1304	1314	prevalence	T081	C0220900
+28441459	1315	1323	compared	T052	C1707455
+28441459	1327	1336	non-users	T098	C1706077
+28441459	1338	1341	AOR	T081	C0028873
+28441459	1375	1385	prevalence	T081	C0220900
+28441459	1389	1394	NAFLD	T047	C0400966
+28441459	1403	1408	lower	T082	C0441994
+28441459	1412	1431	non-dependent users	T098	C1706077
+28441459	1433	1436	AOR	T081	C0028873
+28441459	1473	1478	lower	T082	C0441994
+28441459	1482	1497	dependent users	T098	C1706077
+28441459	1499	1502	AOR	T081	C0028873
+28441459	1538	1546	cannabis	T109,T121	C0024808
+28441459	1547	1552	users	T098	C1706077
+28441459	1554	1572	dependent patients	T101	C0030705
+28441459	1595	1611	lower prevalence	T081	C1518029
+28441459	1615	1620	NAFLD	T047	C0400966
+28441459	1621	1629	compared	T052	C1707455
+28441459	1633	1655	non-dependent patients	T101	C0030705
+28441459	1657	1660	AOR	T081	C0028873
+28441459	1694	1706	observations	T062	C0302523
+28441459	1720	1732	cannabis use	T048	C3160814
+28441459	1736	1751	associated with	T080	C0332281
+28441459	1752	1768	lower prevalence	T081	C1518029
+28441459	1772	1777	NAFLD	T047	C0400966
+28441459	1781	1789	patients	T101	C0030705
+28441459	1803	1811	findings	T033	C0243095
+28441459	1831	1860	molecular mechanistic studies	T059	C0947630
+28441459	1876	1890	potential role	T080	C3245505
+28441459	1894	1906	cannabis use	T048	C3160814
+28441459	1910	1915	NAFLD	T047	C0400966
+28441459	1916	1927	development	T039	C0243107

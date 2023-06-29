@@ -1,0 +1,45 @@
+28459124|t|Museum specimen data reveal emergence of a plant disease may be linked to increases in the insect vector population
+28459124|a|The emergence rate of new plant diseases is increasing due to novel introductions, climate change, and changes in vector populations, posing risks to agricultural sustainability. Assessing and managing future disease risks depends on understanding the causes of contemporary and historical emergence events. Since the mid-1990s, potato growers in the western United States, Mexico, and Central America have experienced severe yield loss from Zebra Chip disease and have responded by increasing insecticide use to suppress populations of the insect vector, the potato psyllid, Bactericera cockerelli (Hemiptera: Triozidae). Despite the severe nature of Zebra Chip outbreaks, the causes of emergence remain unknown. We tested the hypotheses that 1) B. cockerelli occupancy has increased over the last century in California and 2) such increases are related to climate change, specifically warmer winters. We compiled a dataset of 87,000 museum specimen occurrence records across the order Hemiptera collected between 1900 and 2014. We then analyzed changes in B. cockerelli distribution using a hierarchical occupancy model using changes in background species lists to correct for collecting effort. We found evidence that B. cockerelli occupancy has increased over the last century. However, these changes appear to be unrelated to climate changes, at least at the scale of our analysis. To the extent that species occupancy is related to abundance, our analysis provides the first quantitative support for the hypothesis that B. cockerelli population abundance has increased, but further work is needed to link B. cockerelli population dynamics to Zebra Chip epidemics. Finally, we demonstrate how this historical macro-ecological approach provides a general framework for comparative risk assessment of future pest and insect vector outbreaks. This article is protected by copyright. All rights reserved.
+28459124	43	56	plant disease	T038	UMLS:C0032080
+28459124	91	104	insect vector	T204	UMLS:C0021573
+28459124	91	115	insect vector population	T098	UMLS:C1257890
+28459124	142	156	plant diseases	T038	UMLS:C0032080
+28459124	230	248	vector populations	T098	UMLS:C1257890
+28459124	325	332	disease	T038	UMLS:C0012634
+28459124	445	459	potato growers	T097	UMLS:C0027363
+28459124	467	488	western United States	T082	UMLS:C0041703
+28459124	490	496	Mexico	T082	UMLS:C0025885
+28459124	502	517	Central America	T082	UMLS:C0007674
+28459124	558	576	Zebra Chip disease	T038	UMLS:C0012634
+28459124	610	621	insecticide	T103	UMLS:C0021576
+28459124	638	649	populations	T098	UMLS:C1257890
+28459124	657	670	insect vector	T204	UMLS:C0021573
+28459124	676	690	potato psyllid	T204	UMLS:C1502411
+28459124	692	714	Bactericera cockerelli	T204	UMLS:C1502411
+28459124	716	725	Hemiptera	T204	UMLS:C0018992
+28459124	727	736	Triozidae	T204	UMLS:C1007295
+28459124	768	778	Zebra Chip	T038	UMLS:C0012634
+28459124	863	876	B. cockerelli	T204	UMLS:C1502411
+28459124	926	936	California	T082	UMLS:C0006754
+28459124	1033	1040	dataset	T170	UMLS:C0150098
+28459124	1078	1085	records	T170	UMLS:C0034869
+28459124	1103	1112	Hemiptera	T204	UMLS:C0018992
+28459124	1154	1162	analyzed	T062	UMLS:C0936012
+28459124	1174	1187	B. cockerelli	T204	UMLS:C1502411
+28459124	1209	1237	hierarchical occupancy model	T170	UMLS:C3161035
+28459124	1266	1273	species	T170	UMLS:C1705920
+28459124	1266	1279	species lists	T170	UMLS:C0745732
+28459124	1337	1350	B. cockerelli	T204	UMLS:C1502411
+28459124	1493	1501	analysis	T062	UMLS:C0936012
+28459124	1522	1529	species	T170	UMLS:C1705920
+28459124	1569	1577	analysis	T062	UMLS:C0936012
+28459124	1642	1655	B. cockerelli	T204	UMLS:C1502411
+28459124	1656	1666	population	T098	UMLS:C1257890
+28459124	1727	1740	B. cockerelli	T204	UMLS:C1502411
+28459124	1741	1751	population	T098	UMLS:C1257890
+28459124	1764	1774	Zebra Chip	T038	UMLS:C0012634
+28459124	1764	1784	Zebra Chip epidemics	T038	UMLS:C0277548
+28459124	1819	1855	historical macro-ecological approach	T082	UMLS:C0449445
+28459124	1889	1916	comparative risk assessment	T058	UMLS:C0086930
+28459124	1927	1931	pest	T204	UMLS:C0684063
+28459124	1936	1949	insect vector	T204	UMLS:C0021573

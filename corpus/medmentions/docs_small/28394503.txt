@@ -1,0 +1,39 @@
+28394503|t|Accounting for linkage disequilibrium in genome scans for selection without individual genotypes: The local score approach
+28394503|a|Detecting genomic footprints of selection is an important step in the understanding of evolution. Accounting for linkage disequilibrium in genome scans increases detection power, but haplotype -based methods require individual genotypes and are not applicable on pool-sequenced samples. We propose to take advantage of the local score approach to account for linkage disequilibrium in genome scans for selection, cumulating (possibly small) signals from single markers over a genomic segment, to clearly pinpoint a selection signal. Using computer simulations, we demonstrate that this approach detects selection with higher power than several state-of-the-art single-marker, windowing or haplotype -based approaches. We illustrate this on two benchmark data sets including individual genotypes, for which we obtain similar results with the local score and one haplotype -based approach. Finally, we apply the local score approach to Pool-Seq data obtained from a divergent selection experiment on behaviour in quail and obtain precise and biologically coherent selection signals: while competing methods fail to highlight any clear selection signature, our method detects several regions involving genes known to act on social responsiveness or autistic traits. Although we focus here on the detection of positive selection from multiple population data, the local score approach is general and can be applied to other genome scans for selection or other genomewide analyses such as GWAS.
+28394503	58	67	selection	T038	UMLS:C0036576
+28394503	102	122	local score approach	T062	UMLS:C0036449
+28394503	123	151	Detecting genomic footprints	T062	UMLS:C0282579
+28394503	155	164	selection	T038	UMLS:C0036576
+28394503	210	219	evolution	T038	UMLS:C0015219
+28394503	285	294	detection	T058	UMLS:C1511790
+28394503	386	408	pool-sequenced samples	T201	UMLS:C1509144
+28394503	446	466	local score approach	T062	UMLS:C0036449
+28394503	525	534	selection	T038	UMLS:C0036576
+28394503	564	571	signals	T038	UMLS:C0037080
+28394503	584	591	markers	T038	UMLS:C0017393
+28394503	638	647	selection	T038	UMLS:C0036576
+28394503	648	654	signal	T038	UMLS:C0037080
+28394503	718	725	detects	T033	UMLS:C0442726
+28394503	726	735	selection	T038	UMLS:C0036576
+28394503	784	797	single-marker	T038	UMLS:C0017393
+28394503	877	886	data sets	T170	UMLS:C0150098
+28394503	964	975	local score	T062	UMLS:C0036449
+28394503	1033	1053	local score approach	T062	UMLS:C0036449
+28394503	1057	1070	Pool-Seq data	T170	UMLS:C0282574
+28394503	1097	1106	selection	T038	UMLS:C0036576
+28394503	1107	1117	experiment	T062	UMLS:C0681814
+28394503	1134	1139	quail	T204	UMLS:C0034374
+28394503	1185	1194	selection	T038	UMLS:C0036576
+28394503	1195	1202	signals	T038	UMLS:C0037080
+28394503	1256	1265	selection	T038	UMLS:C0036576
+28394503	1288	1295	detects	T033	UMLS:C0442726
+28394503	1322	1327	genes	T017	UMLS:C0017337
+28394503	1369	1384	autistic traits	T033	UMLS:C4314654
+28394503	1416	1425	detection	T033	UMLS:C0442726
+28394503	1429	1437	positive	T033	UMLS:C1446409
+28394503	1438	1447	selection	T038	UMLS:C0036576
+28394503	1453	1477	multiple population data	T170	UMLS:C0282574
+28394503	1483	1503	local score approach	T062	UMLS:C0036449
+28394503	1560	1569	selection	T038	UMLS:C0036576
+28394503	1579	1598	genomewide analyses	T062	UMLS:C2350277
+28394503	1607	1611	GWAS	T062	UMLS:C2350277

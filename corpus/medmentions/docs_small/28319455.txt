@@ -1,0 +1,23 @@
+28319455|t|Joint model imputation to estimate the treatment effect on long-term survival using auxiliary events
+28319455|a|Clinical trial duration may be a concern in clinical research, especially in cancer trials where the endpoint is overall survival. A surrogate endpoint can be used as an auxiliary variable to analyze the treatment effect earlier. At an early time point, the high number of censored observations can be compensated by the imputation of the unobserved deaths times. We propose to use predictions of the risk of death from a joint model for a recurrent event and a terminal event, which account for disease relapse information. Two imputation methods were compared: sampling from the estimated parametric distribution of the survival time and sampling using its nonparametric estimation. The treatment effect and its standard error were estimated via multiple imputations. The performances of the two methods were compared in terms of bias in the estimates, standard errors, and coverage probability. Both methods were then retrospectively applied to two randomized clinical trials studying the effect of adjuvant chemotherapy in breast cancer patients.
+28319455	39	55	treatment effect	T033	UMLS:C1518681
+28319455	101	115	Clinical trial	T062	UMLS:C0008976
+28319455	145	162	clinical research	T062	UMLS:C0008972
+28319455	178	191	cancer trials	T062	UMLS:C1516640
+28319455	202	210	endpoint	T201	UMLS:C2347784
+28319455	293	300	analyze	T062	UMLS:C0936012
+28319455	305	321	treatment effect	T033	UMLS:C1518681
+28319455	383	395	observations	T062	UMLS:C0302523
+28319455	440	450	unobserved	T033	UMLS:C0243095
+28319455	451	457	deaths	T033	UMLS:C1306577
+28319455	510	515	death	T038	UMLS:C0011065
+28319455	597	612	disease relapse	T038	UMLS:C0277556
+28319455	664	672	sampling	T062	UMLS:C0036150
+28319455	723	736	survival time	T201	UMLS:C2919552
+28319455	741	749	sampling	T062	UMLS:C0036150
+28319455	790	806	treatment effect	T033	UMLS:C1518681
+28319455	899	906	methods	T170	UMLS:C0025663
+28319455	1004	1011	methods	T170	UMLS:C0025663
+28319455	1053	1079	randomized clinical trials	T062	UMLS:C0206034
+28319455	1112	1124	chemotherapy	T058	UMLS:C3665472
+28319455	1128	1141	breast cancer	T038	UMLS:C0006142

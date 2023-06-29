@@ -1,0 +1,50 @@
+27352367|t|Propensity - matched Analysis of Outcomes and Hospital Charges for Anterior Versus Posterior Cervical Fusion for Cervical Spondylotic Myelopathy
+27352367|a|Retrospective analysis of data from the Nationwide Inpatient Sample, a nationally representative, all-payer database of inpatient diagnoses and procedures in the United States. The objective of this study is to compare anterior cervical fusion (ACF) to posterior cervical fusion (PCF) in the treatment of cervical spondylotic myelopathy (CSM). Previous studies used retrospective single - institution level data to quantify outcomes for CSM patients fusion. It is unclear whether ACF or PCF is superior with regards to charges or outcomes for the treatment of CSM. We used Nationwide Inpatient Sample data to compare ACF to PCF in the management of CSM. All patients 18 years or older with a diagnosis of CSM between 1998 and 2011 were included. ACF patients were matched to PCF patients using propensity scores based on patient characteristics (number of levels fused, spine alignment, comorbidities), hospital characteristics, and patient demographics. Multivariable regression was used to measure the effect of treatment assignment on in- hospital charges, length of hospital stay, in-hospital mortality, discharge disposition, and dysphagia diagnosis. From 1998 to 2011, we identified 109,728 hospitalizations with a CSM diagnosis. Of these patients, 45,629 (41.6%) underwent ACF and 14,439 (13.2%) underwent PCF. The PCF cohort incurred an average of $41,683 more in-hospital charges (P<0.001, inflation adjusted to 2011 dollars) and remained in hospital an average of 2.4 days longer (P<0.001) than the ACF cohort. The ACF cohort was just as likely to die in the hospital [odds ratio 0.91; 95% confidence interval (CI), 0.68-1.2], 3.0 times more likely to be discharged to home or self-care (95% CI, 2.9-3.2), and 2.5 times more likely to experience dysphagia (95% CI, 2.0-3.1) than the PCF cohort. In treating CSM, ACF led to lower hospital charges, shorter hospital stays, and an increased likelihood of being discharged to home relative to PCF.
+27352367	13	20	matched	T062	UMLS:C0150103
+27352367	21	29	Analysis	T062	UMLS:C0936012
+27352367	113	144	Cervical Spondylotic Myelopathy	T038	UMLS:C0158242
+27352367	159	167	analysis	T062	UMLS:C0936012
+27352367	185	195	Nationwide	T082	UMLS:C0332464
+27352367	243	261	all-payer database	T170	UMLS:C0242356
+27352367	275	299	diagnoses and procedures	T058	UMLS:C0430022
+27352367	307	320	United States	T082	UMLS:C0041703
+27352367	344	349	study	T062	UMLS:C2603343
+27352367	437	446	treatment	T058	UMLS:C0087111
+27352367	450	481	cervical spondylotic myelopathy	T038	UMLS:C0158242
+27352367	483	486	CSM	T038	UMLS:C0158242
+27352367	498	505	studies	T062	UMLS:C2603343
+27352367	534	545	institution	T092	UMLS:C2607850
+27352367	582	585	CSM	T038	UMLS:C0158242
+27352367	595	601	fusion	T058	UMLS:C1293131
+27352367	692	701	treatment	T058	UMLS:C0087111
+27352367	705	708	CSM	T038	UMLS:C0158242
+27352367	718	728	Nationwide	T082	UMLS:C0332464
+27352367	780	790	management	T058	UMLS:C0376636
+27352367	794	797	CSM	T038	UMLS:C0158242
+27352367	837	846	diagnosis	T058	UMLS:C0430022
+27352367	850	853	CSM	T038	UMLS:C0158242
+27352367	909	916	matched	T062	UMLS:C0150103
+27352367	1048	1056	hospital	T092	UMLS:C0019994
+27352367	1078	1098	patient demographics	T201	UMLS:C1717025
+27352367	1100	1124	Multivariable regression	T170	UMLS:C0034980
+27352367	1159	1168	treatment	T058	UMLS:C0087111
+27352367	1169	1179	assignment	T058	UMLS:C0025114
+27352367	1253	1274	discharge disposition	T201	UMLS:C4019243
+27352367	1280	1289	dysphagia	T038	UMLS:C0011168
+27352367	1290	1299	diagnosis	T058	UMLS:C0430022
+27352367	1342	1358	hospitalizations	T058	UMLS:C0019993
+27352367	1366	1369	CSM	T038	UMLS:C0158242
+27352367	1370	1379	diagnosis	T058	UMLS:C0430022
+27352367	1471	1477	cohort	T098	UMLS:C0599755
+27352367	1596	1604	hospital	T092	UMLS:C0019994
+27352367	1658	1664	cohort	T098	UMLS:C0599755
+27352367	1674	1680	cohort	T098	UMLS:C0599755
+27352367	1703	1706	die	T038	UMLS:C0011065
+27352367	1714	1722	hospital	T092	UMLS:C0019994
+27352367	1810	1828	discharged to home	T058	UMLS:C0184713
+27352367	1832	1841	self-care	T092	UMLS:C0036603
+27352367	1890	1900	experience	T038	UMLS:C0596545
+27352367	1901	1910	dysphagia	T038	UMLS:C0011168
+27352367	1942	1948	cohort	T098	UMLS:C0599755
+27352367	1962	1965	CSM	T038	UMLS:C0158242
+27352367	2063	2081	discharged to home	T058	UMLS:C0184713

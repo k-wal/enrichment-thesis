@@ -1,0 +1,64 @@
+28363626|t|Validating Signs and Symptoms From An Actual Mass Casualty Incident to Characterize An Irritant Gas Syndrome Agent (IGSA) Exposure: A First Step in The Development of a Novel IGSA Triage Algorithm
+28363626|a|Chemical exposures can pose a significant threat to life. Rapid assessment by first responders / emergency nurses is required to reduce death and disability. Currently, no informatics tools for irritant gas syndrome agent s (IGSA) exposures exist to process victims efficiently, continuously monitor for latent signs/symptoms, or make triage recommendations. This study describes the first step in developing ED informatics tools for chemical incidents: validation of signs/symptoms that characterize an IGSA syndrome. Data abstracted from 146 patients treated for chlorine exposure in one emergency department during a 2005 train derailment and 152 patients not exposed to chlorine (a comparison group) were mapped to 93 possible signs/symptoms within 2 tools (WISER and CHEMM-IST) designed to assist emergency responders / emergency nurses with managing hazardous material exposures. Inferential statistics (χ(2)/ Fisher's exact test) and diagnostics tests were used to examine mapped signs/symptoms of persons who were and were not exposed to chlorine. Three clusters of signs/symptoms are statistically associated with an IGSA syndrome (P < .01): respiratory (shortness of breath, wheezing, coughing, and choking); chest discomfort (tightness, pain, and burning), and eye, nose and/or throat (pain, irritation, and burning). The syndrome requires the presence of signs/symptoms from at least 2 of these clusters. The latency period must also be considered for exposed / potentially exposed persons. This study uses actual patient data from a chemical incident to characterize and validate signs/symptoms of an IGSA syndrome. Validating signs/symptoms is the first step in developing new ED informatics tools with the potential to revolutionize the process by which emergency nurses manage triage victims of chemical incidents.
+28363626	0	10	Validating	T062	UMLS:C1519941
+28363626	11	29	Signs and Symptoms	T033	UMLS:C0037088
+28363626	180	186	Triage	T058	UMLS:C0040861
+28363626	187	196	Algorithm	T170	UMLS:C0002045
+28363626	197	215	Chemical exposures	T033	UMLS:C0678803
+28363626	261	271	assessment	T058	UMLS:C0220825
+28363626	294	310	emergency nurses	T097	UMLS:C0557519
+28363626	333	338	death	T038	UMLS:C0011065
+28363626	343	353	disability	T033	UMLS:C0231170
+28363626	369	386	informatics tools	T170	UMLS:C0037589
+28363626	489	496	monitor	T058	UMLS:C1283169
+28363626	508	522	signs/symptoms	T033	UMLS:C0037088
+28363626	532	538	triage	T058	UMLS:C0040861
+28363626	561	566	study	T062	UMLS:C2603343
+28363626	606	608	ED	T092	UMLS:C0562508
+28363626	609	626	informatics tools	T170	UMLS:C0037589
+28363626	651	661	validation	T062	UMLS:C1519941
+28363626	665	679	signs/symptoms	T033	UMLS:C0037088
+28363626	706	714	syndrome	T038	UMLS:C0039082
+28363626	750	757	treated	T058	UMLS:C0087111
+28363626	787	807	emergency department	T092	UMLS:C0562508
+28363626	928	942	signs/symptoms	T033	UMLS:C0037088
+28363626	952	957	tools	T170	UMLS:C0037589
+28363626	959	964	WISER	T170	UMLS:C0037589
+28363626	969	978	CHEMM-IST	T170	UMLS:C0037589
+28363626	999	1019	emergency responders	T097	UMLS:C3178988
+28363626	1022	1038	emergency nurses	T097	UMLS:C0557519
+28363626	1053	1071	hazardous material	T103	UMLS:C0018626
+28363626	1113	1132	Fisher's exact test	T170	UMLS:C0237913
+28363626	1138	1155	diagnostics tests	T058	UMLS:C0086143
+28363626	1184	1198	signs/symptoms	T033	UMLS:C0037088
+28363626	1202	1209	persons	T098	UMLS:C0027361
+28363626	1271	1285	signs/symptoms	T033	UMLS:C0037088
+28363626	1328	1336	syndrome	T038	UMLS:C0039082
+28363626	1361	1380	shortness of breath	T033	UMLS:C0013404
+28363626	1382	1390	wheezing	T033	UMLS:C0043144
+28363626	1392	1400	coughing	T033	UMLS:C0010200
+28363626	1406	1413	choking	T038	UMLS:C0008301
+28363626	1416	1432	chest discomfort	T033	UMLS:C0235710
+28363626	1434	1443	tightness	T033	UMLS:C0232292
+28363626	1445	1449	pain	T033	UMLS:C0008031
+28363626	1455	1462	burning	T033	UMLS:C0740396
+28363626	1469	1472	eye	T017	UMLS:C0015392
+28363626	1474	1478	nose	T017	UMLS:C0028429
+28363626	1486	1492	throat	T017	UMLS:C3665375
+28363626	1494	1498	pain	T033	UMLS:C0030193
+28363626	1516	1523	burning	T033	UMLS:C0085624
+28363626	1530	1538	syndrome	T038	UMLS:C0039082
+28363626	1552	1560	presence	T033	UMLS:C0150312
+28363626	1564	1578	signs/symptoms	T033	UMLS:C0037088
+28363626	1661	1668	exposed	T098	UMLS:C1998203
+28363626	1683	1698	exposed persons	T098	UMLS:C1998203
+28363626	1705	1710	study	T062	UMLS:C2603343
+28363626	1781	1789	validate	T062	UMLS:C1519941
+28363626	1790	1804	signs/symptoms	T033	UMLS:C0037088
+28363626	1816	1824	syndrome	T038	UMLS:C0039082
+28363626	1826	1836	Validating	T062	UMLS:C1519941
+28363626	1837	1851	signs/symptoms	T033	UMLS:C0037088
+28363626	1888	1890	ED	T092	UMLS:C0562508
+28363626	1891	1908	informatics tools	T170	UMLS:C0037589
+28363626	1966	1982	emergency nurses	T097	UMLS:C0557519
+28363626	1990	1996	triage	T058	UMLS:C0040861

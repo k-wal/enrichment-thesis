@@ -1,0 +1,70 @@
+27835851|t|Functional analyses of OcRhS1 and OcUER1 involved in UDP-L-rhamnose biosynthesis in Ornithogalum caudatum
+27835851|a|UDP-L-rhamnose (UDP-Rha) is an important sugar donor for the synthesis of rhamnose -containing compounds in plants. However, only a few enzymes and their encoding genes involved in UDP-Rha biosynthesis are available in plants. Here, two genes encoding rhamnose synthase (RhS) and bi-functional UDP-4-keto-6-deoxy-D-glucose (UDP-4K6DG) 3, 5-epimerase/UDP-4-keto-L-rhamnose (UDP-4KR) 4-keto-reductase (UER) were isolated from Ornithogalum caudatum based on the RNA - Seq data. The OcRhS1 gene has an ORF (open reading frame) of 2019 bp encoding a tri-functional RhS enzyme. In vitro enzymatic assays revealed OcRhS1 can really convert UDP-D-glucose (UDP-Glc) into UDP-Rha via three consecutive reactions. Biochemical evidences indicated that the recombinant OcRhS1 was active in the pH range of 5-11 and over the temperature range of 0-60 °C. The Km value of OcRhS1 for UDP-Glc was determined to be 1.52 × 10(-4) M. OcRhS1 is a multi-domain protein with two sets of cofactor-binding motifs. The cofactors dependent properties of OcRhS1 were thus characterized in this research. Moreover, the N-terminal portion of OcRhS1 (OcRhS1-N) was observed to metabolize UDP-Glc to form intermediate UDP-4K6DG. OcUER1 contains an ORF of 906 bp encoding a polypeptide of 301 aa. OcUER1 shared high similarity with the carboxy-terminal domain of OcRhS1 (OcRhS1-C), suggesting its intrinsic ability of converting UDP-4K6DG into UDP-Rha. It was thus reasonably inferred that UDP-Glc could be bio-transformed into UDP-Rha under the collaborating action of OcRhS1-N and OcUER1. The subsequently biochemical assay verified this notion. Importantly, expression profiles of OcRhS1 and OcUER1 revealed their possible involvement in the biosynthesis of rhamnose -containing polysaccharides in O. caudatum.
+27835851	0	19	Functional analyses	T062	UMLS:C0936012
+27835851	23	29	OcRhS1	T103	UMLS:C0033684
+27835851	34	40	OcUER1	T103	UMLS:C0033684
+27835851	53	67	UDP-L-rhamnose	T103	UMLS:C0609108
+27835851	84	105	Ornithogalum caudatum	T204	UMLS:C0331605
+27835851	106	120	UDP-L-rhamnose	T103	UMLS:C0609108
+27835851	122	129	UDP-Rha	T103	UMLS:C0609108
+27835851	147	158	sugar donor	T103	UMLS:C1254351
+27835851	180	188	rhamnose	T103	UMLS:C0035417
+27835851	201	210	compounds	T103	UMLS:C1706082
+27835851	214	220	plants	T204	UMLS:C0331605
+27835851	242	249	enzymes	T103	UMLS:C0014442
+27835851	269	274	genes	T017	UMLS:C0017337
+27835851	287	294	UDP-Rha	T103	UMLS:C0609108
+27835851	325	331	plants	T204	UMLS:C0331605
+27835851	343	348	genes	T017	UMLS:C0017337
+27835851	358	375	rhamnose synthase	T103	UMLS:C0014442
+27835851	377	380	RhS	T103	UMLS:C0014442
+27835851	386	399	bi-functional	T103	UMLS:C0443560
+27835851	400	428	UDP-4-keto-6-deoxy-D-glucose	T103	UMLS:C0014442
+27835851	430	439	UDP-4K6DG	T103	UMLS:C0014442
+27835851	441	477	3, 5-epimerase/UDP-4-keto-L-rhamnose	T103	UMLS:C0014442
+27835851	479	486	UDP-4KR	T103	UMLS:C0014442
+27835851	488	504	4-keto-reductase	T103	UMLS:C0014442
+27835851	506	509	UER	T103	UMLS:C0014442
+27835851	530	551	Ornithogalum caudatum	T204	UMLS:C0331605
+27835851	565	568	RNA	T103	UMLS:C0035668
+27835851	571	579	Seq data	T170	UMLS:C0026382
+27835851	585	596	OcRhS1 gene	T017	UMLS:C0017337
+27835851	604	607	ORF	T017	UMLS:C0079941
+27835851	609	627	open reading frame	T017	UMLS:C0079941
+27835851	651	676	tri-functional RhS enzyme	T017	UMLS:C1750262
+27835851	687	703	enzymatic assays	T058	UMLS:C2717977
+27835851	713	719	OcRhS1	T103	UMLS:C0033684
+27835851	739	752	UDP-D-glucose	T103	UMLS:C0077887
+27835851	754	761	UDP-Glc	T103	UMLS:C0077887
+27835851	768	775	UDP-Rha	T103	UMLS:C0609108
+27835851	850	868	recombinant OcRhS1	T103	UMLS:C0034861
+27835851	963	969	OcRhS1	T103	UMLS:C0033684
+27835851	974	981	UDP-Glc	T103	UMLS:C0077887
+27835851	1020	1026	OcRhS1	T103	UMLS:C0033684
+27835851	1032	1052	multi-domain protein	T103	UMLS:C2326433
+27835851	1070	1093	cofactor-binding motifs	T038	UMLS:C1323251
+27835851	1099	1108	cofactors	T038	UMLS:C1323251
+27835851	1133	1139	OcRhS1	T103	UMLS:C0033684
+27835851	1172	1180	research	T062	UMLS:C0035168
+27835851	1196	1224	N-terminal portion of OcRhS1	T103	UMLS:C0033684
+27835851	1226	1234	OcRhS1-N	T103	UMLS:C0033684
+27835851	1263	1270	UDP-Glc	T103	UMLS:C0077887
+27835851	1303	1309	OcUER1	T017	UMLS:C0017337
+27835851	1322	1325	ORF	T017	UMLS:C0079941
+27835851	1347	1358	polypeptide	T103	UMLS:C1305923
+27835851	1366	1368	aa	T103	UMLS:C0002520
+27835851	1370	1376	OcUER1	T103	UMLS:C0033684
+27835851	1409	1442	carboxy-terminal domain of OcRhS1	T103	UMLS:C0033684
+27835851	1444	1452	OcRhS1-C	T103	UMLS:C0033684
+27835851	1517	1524	UDP-Rha	T103	UMLS:C0609108
+27835851	1563	1570	UDP-Glc	T103	UMLS:C0077887
+27835851	1601	1608	UDP-Rha	T103	UMLS:C0609108
+27835851	1643	1651	OcRhS1-N	T103	UMLS:C0033684
+27835851	1656	1662	OcUER1	T103	UMLS:C0033684
+27835851	1681	1698	biochemical assay	T058	UMLS:C0005507
+27835851	1734	1753	expression profiles	T033	UMLS:C3463810
+27835851	1757	1763	OcRhS1	T103	UMLS:C0033684
+27835851	1768	1774	OcUER1	T103	UMLS:C0033684
+27835851	1834	1842	rhamnose	T103	UMLS:C0035417
+27835851	1855	1870	polysaccharides	T103	UMLS:C0032594
+27835851	1874	1885	O. caudatum	T204	UMLS:C0331605

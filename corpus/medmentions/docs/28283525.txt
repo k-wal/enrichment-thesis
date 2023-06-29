@@ -1,0 +1,106 @@
+28283525|t|Molecular Viability Testing of UV - Inactivated Bacteria
+28283525|a|The polymerase chain reaction (PCR) is effective at detecting bacterial DNA in samples, but it is unable to differentiate viable bacteria from inactivated cells or free DNA fragments. New PCR -based analytical strategies have been developed to address this limitation. Molecular viability testing (MVT) correlates bacterial viability with the ability to rapidly synthesize species -specific ribosomal RNA precursor (pre-rRNA) in response to brief nutritional stimulation. Previous studies demonstrated that MVT can assess bacterial inactivation by chlorine, serum, and low-temperature pasteurization. Here, we demonstrate that MVT can detect inactivation of Escherichia coli, Aeromonas hydrophila, and Enterococcus faecalis cells by ultraviolet (UV) irradiation. Some UV - inactivated E. coli cells transiently retained the ability to synthesize pre-rRNA post-irradiation (generating false-positive MVT results), but this activity ceased within one hour following UV exposure. Viable but transiently undetectable (by culture) E. coli cells were consistently detected by MVT. An alternative viability testing method, viability PCR (vPCR), correlates viability with cell envelope integrity. This method did not distinguish viable from UV - inactivated bacteria under some conditions, indicating that the inactivated cells retained intact cell envelopes. MVT holds promise as a means to rapidly assess microbial inactivation by UV treatment. IMPORTANCE Ultraviolet (UV) irradiation is increasingly used to disinfect water, food, and other materials for human use. Confirming the effectiveness of UV disinfection remains a challenging task. In particular, microbiological methods that rely on rapid detection of microbial DNA can yield misleading results. This is due to the detection of " remnant " DNA associated with dead microbial cells. This report describes a novel method that rapidly distinguishes living from dead microbial cells after UV disinfection.
+28283525	0	27	Molecular Viability Testing	UnknownType	C0545234
+28283525	31	33	UV	T070	C0041625
+28283525	36	56	Inactivated Bacteria	T007	C0004611
+28283525	61	86	polymerase chain reaction	T063	C0032520
+28283525	88	91	PCR	T063	C0032520
+28283525	96	105	effective	T080	C1704419
+28283525	109	118	detecting	T033	C0442726
+28283525	119	132	bacterial DNA	T114	C0012924
+28283525	136	143	samples	T167	C0370003
+28283525	165	178	differentiate	T169	C2945687
+28283525	179	185	viable	T080	C0443348
+28283525	186	194	bacteria	T007	C0004611
+28283525	200	217	inactivated cells	T007	C0563199
+28283525	226	239	DNA fragments	UnknownType	C0684192
+28283525	245	248	PCR	T063	C0032520
+28283525	256	277	analytical strategies	T170	C0178476
+28283525	314	324	limitation	T169	C0449295
+28283525	326	353	Molecular viability testing	UnknownType	C0545234
+28283525	355	358	MVT	UnknownType	C0545234
+28283525	371	380	bacterial	T007	C0004611
+28283525	381	390	viability	T043	C0007620
+28283525	419	429	synthesize	T052	C1883254
+28283525	430	437	species	T185	C1705920
+28283525	448	461	ribosomal RNA	T114,T123	C0035701
+28283525	462	471	precursor	T114,T123	C0242493
+28283525	473	481	pre-rRNA	T114,T123	C0242493
+28283525	504	515	nutritional	T080	C1521739
+28283525	516	527	stimulation	T070	C1948023
+28283525	564	567	MVT	UnknownType	C0545234
+28283525	572	578	assess	T052	C1516048
+28283525	579	601	bacterial inactivation	T059	C1563771
+28283525	605	613	chlorine	T131,T196	C0008209
+28283525	615	620	serum	T031	C0229671
+28283525	626	641	low-temperature	T070	C0009264
+28283525	642	656	pasteurization	T068	C0597885
+28283525	684	687	MVT	UnknownType	C0545234
+28283525	692	698	detect	T033	C0442726
+28283525	699	711	inactivation	T059	C1563771
+28283525	715	731	Escherichia coli	T007	C0014834
+28283525	733	753	Aeromonas hydrophila	T007	C0085491
+28283525	759	780	Enterococcus faecalis	T007	C0038404
+28283525	781	786	cells	T007	C0563199
+28283525	790	818	ultraviolet (UV) irradiation	T070	C0041625
+28283525	825	827	UV	T070	C0041625
+28283525	830	849	inactivated E. coli	T007	C0014834
+28283525	850	855	cells	T007	C0563199
+28283525	892	902	synthesize	T052	C1883254
+28283525	903	911	pre-rRNA	T114,T123	C0242493
+28283525	912	928	post-irradiation	T079	C1254367
+28283525	941	967	false-positive MVT results	T034	C0205557
+28283525	979	987	activity	T059	C1563771
+28283525	988	994	ceased	T080	C1272693
+28283525	1021	1032	UV exposure	T069	C1710524
+28283525	1034	1040	Viable	T080	C0443348
+28283525	1057	1069	undetectable	T201	C3827727
+28283525	1074	1081	culture	T059	C0430400
+28283525	1083	1090	E. coli	T007	C0014834
+28283525	1091	1096	cells	T007	C0563199
+28283525	1115	1123	detected	T033	C0442726
+28283525	1127	1130	MVT	UnknownType	C0545234
+28283525	1147	1171	viability testing method	UnknownType	C0545234
+28283525	1173	1182	viability	T043	C0007620
+28283525	1183	1186	PCR	T063	C0032520
+28283525	1188	1192	vPCR	T063	C0032520
+28283525	1206	1215	viability	T043	C0007620
+28283525	1221	1234	cell envelope	T026	C0598099
+28283525	1235	1244	integrity	T080	C0205266
+28283525	1278	1284	viable	T080	C0443348
+28283525	1290	1292	UV	T070	C0041625
+28283525	1295	1315	inactivated bacteria	T007	C0004611
+28283525	1359	1376	inactivated cells	T007	C0563199
+28283525	1386	1392	intact	T080	C0205266
+28283525	1393	1407	cell envelopes	T026	C0598099
+28283525	1409	1412	MVT	UnknownType	C0545234
+28283525	1449	1455	assess	T052	C1516048
+28283525	1456	1478	microbial inactivation	T059	C1563771
+28283525	1482	1484	UV	T070	C0041625
+28283525	1485	1494	treatment	T169	C1522326
+28283525	1507	1535	Ultraviolet (UV) irradiation	T070	C0041625
+28283525	1539	1551	increasingly	T169	C0442808
+28283525	1560	1569	disinfect	T061	C0012683
+28283525	1570	1575	water	T167	C0599638
+28283525	1577	1581	food	T168	C0016452
+28283525	1587	1592	other	T080	C0205394
+28283525	1593	1602	materials	T167	C0520510
+28283525	1607	1612	human	T016	C0086418
+28283525	1613	1616	use	T169	C0457083
+28283525	1618	1628	Confirming	T033	C0750484
+28283525	1633	1646	effectiveness	T080	C1280519
+28283525	1650	1652	UV	T070	C0041625
+28283525	1653	1665	disinfection	T061	C0012683
+28283525	1709	1732	microbiological methods	T170	C0450078
+28283525	1752	1761	detection	T033	C0442726
+28283525	1765	1778	microbial DNA	T114,T123	C1291185
+28283525	1800	1807	results	T034	C0456984
+28283525	1828	1837	detection	T033	C0442726
+28283525	1843	1850	remnant	T018	C3272697
+28283525	1853	1856	DNA	T114,T123	C0012854
+28283525	1857	1872	associated with	T080	C0332281
+28283525	1873	1893	dead microbial cells	T043	C0007587
+28283525	1959	1965	living	T025	C1441322
+28283525	1971	1991	dead microbial cells	T043	C0007587
+28283525	1998	2000	UV	T070	C0041625
+28283525	2001	2013	disinfection	T061	C0012683

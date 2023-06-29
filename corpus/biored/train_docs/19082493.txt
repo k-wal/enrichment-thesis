@@ -1,0 +1,47 @@
+19082493|t|Combination of polymorphisms within 5' and 3' untranslated regions of thymidylate synthase gene modulates survival in 5 fluorouracil-treated colorectal cancer patients.
+19082493|a|In the present study we explored the effect of three polymorphisms of the TS gene on overall and progression- free survival of colorectal cancer (CRC) patients subjected to 5FU chemotherapy. A 28 bp variable number of tandem repeats (VNTR), a G/C single nucleotide polymorphism (SNP), and a deletion of 6 bp at position 1494 were studied. The possible combined effect of these DNA polymorphisms on the clinical outcome of patients was also evaluated. A retrospective study was carried out on paraffin-embedded sections from 113 patients diagnosed of advanced CRC. TS genotyping methods were polymerase chain reaction (PCR) for VNTR and PCR, followed by restriction length fragment polymorphism (PCR-RFLP) for SNP and ins/del 6 bp. To study the combined effect of TS polymorphisms, four categories were defined accordingly to the level of expression attributed to SNP and ins/del 6 bp genotypes: C_allele 6-, C_6+/6+, G_allele6- and G_6+/6+. VNTR and ins/del 6 bp genotypes varied with tumour anatomical site: 2R/2R genotype was rare in left-sided tumours (7.0% vs. 26.3% of right-sided and 24.1% of rectal cancers; P<0.01), where the variant allele 6- was very frequent (69.0%). Instead, most patients with right-sided tumours were wild-type homozygous 6+/6+ (63.9%) (P<0.01). Heterozygous 6+/6- genotype was more frequent among tumours classified as C (50.0%) and D (76.5%) Dukes stages (P=0.05). None of the studied polymorphisms alone affected overall or progression-free survival (PFS). C_6+/6+ and G_6+/6+ combined genotypes were respectively associated to the best and worst PFS (P=0.03 when compared with each other), while combinations carrying the allele 6- determined an intermediate evolution that might be indicative of a variable response to chemotherapy. The rate of Dukes B stage tumours was unexpectedly high (59.1%) among patients with the unfavourable G_6+/6+ combination. In our study the combination of high TS expression genotypes G_6+/6+ identifies a group of high risk within CRC patients treated with 5FU.
+19082493	70	90	thymidylate synthase	GeneOrGeneProduct	7298
+19082493	118	132	5 fluorouracil	ChemicalEntity	D005472
+19082493	141	158	colorectal cancer	DiseaseOrPhenotypicFeature	D015179
+19082493	159	167	patients	OrganismTaxon	9606
+19082493	243	245	TS	GeneOrGeneProduct	7298
+19082493	296	313	colorectal cancer	DiseaseOrPhenotypicFeature	D015179
+19082493	315	318	CRC	DiseaseOrPhenotypicFeature	D015179
+19082493	320	328	patients	OrganismTaxon	9606
+19082493	342	345	5FU	ChemicalEntity	D005472
+19082493	362	401	28 bp variable number of tandem repeats	SequenceVariant	c|DUP||28
+19082493	412	415	G/C	SequenceVariant	c|SUB|G||C
+19082493	460	493	deletion of 6 bp at position 1494	SequenceVariant	c|DEL|194|6
+19082493	591	599	patients	OrganismTaxon	9606
+19082493	661	669	paraffin	ChemicalEntity	D010232
+19082493	697	705	patients	OrganismTaxon	9606
+19082493	728	731	CRC	DiseaseOrPhenotypicFeature	D015179
+19082493	733	735	TS	GeneOrGeneProduct	7298
+19082493	886	898	ins/del 6 bp	SequenceVariant	c|INDEL||6
+19082493	932	934	TS	GeneOrGeneProduct	7298
+19082493	1040	1052	ins/del 6 bp	SequenceVariant	c|INDEL||6
+19082493	1119	1131	ins/del 6 bp	SequenceVariant	c|INDEL||6
+19082493	1154	1160	tumour	DiseaseOrPhenotypicFeature	D009369
+19082493	1216	1223	tumours	DiseaseOrPhenotypicFeature	D009369
+19082493	1268	1282	rectal cancers	DiseaseOrPhenotypicFeature	D012004
+19082493	1362	1370	patients	OrganismTaxon	9606
+19082493	1388	1395	tumours	DiseaseOrPhenotypicFeature	D009369
+19082493	1498	1505	tumours	DiseaseOrPhenotypicFeature	D009369
+19082493	1964	1971	tumours	DiseaseOrPhenotypicFeature	D009369
+19082493	2008	2016	patients	OrganismTaxon	9606
+19082493	2097	2099	TS	GeneOrGeneProduct	7298
+19082493	2168	2171	CRC	DiseaseOrPhenotypicFeature	D015179
+19082493	2172	2180	patients	OrganismTaxon	9606
+19082493	2194	2197	5FU	ChemicalEntity	D005472
+19082493	Positive_Correlation	c|INDEL||6	D005472	Novel
+19082493	Association	c|INDEL||6	D015179	Novel
+19082493	Association	D012004	c|INDEL||6	Novel
+19082493	Association	D012004	7298	Novel
+19082493	Positive_Correlation	7298	D005472	Novel
+19082493	Association	7298	D015179	Novel
+19082493	Association	D009369	c|INDEL||6	Novel
+19082493	Association	D009369	7298	Novel
+19082493	Association	c|DEL|194|6	D015179	Novel
+19082493	Association	D015179	c|DUP||28	Novel
+19082493	Negative_Correlation	D015179	D005472	No
+19082493	Association	D015179	c|SUB|G||C	Novel

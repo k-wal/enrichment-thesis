@@ -1,0 +1,76 @@
+15897593|t|Dexrazoxane protects against myelosuppression from the DNA cleavage-enhancing drugs etoposide and daunorubicin but not doxorubicin.
+15897593|a|PURPOSE: The anthracyclines daunorubicin and doxorubicin and the epipodophyllotoxin etoposide are potent DNA cleavage-enhancing drugs that are widely used in clinical oncology; however, myelosuppression and cardiac toxicity limit their use. Dexrazoxane (ICRF-187) is recommended for protection against anthracycline-induced cardiotoxicity. EXPERIMENTAL DESIGN: Because of their widespread use, the hematologic toxicity following coadministration of dexrazoxane and these three structurally different DNA cleavage enhancers was investigated: Sensitivity of human and murine blood progenitor cells to etoposide, daunorubicin, and doxorubicin +/- dexrazoxane was determined in granulocyte-macrophage colony forming assays. Likewise, in vivo, B6D2F1 mice were treated with etoposide, daunorubicin, and doxorubicin, with or without dexrazoxane over a wide range of doses: posttreatment, a full hematologic evaluation was done. RESULTS: Nontoxic doses of dexrazoxane reduced myelosuppression and weight loss from daunorubicin and etoposide in mice and antagonized their antiproliferative effects in the colony assay; however, dexrazoxane neither reduced myelosuppression, weight loss, nor the in vitro cytotoxicity from doxorubicin. CONCLUSION: Although our findings support the observation that dexrazoxane reduces neither hematologic activity nor antitumor activity from doxorubicin clinically, the potent antagonism of daunorubicin activity raises concern; a possible interference with anticancer efficacy certainly would call for renewed attention. Our data also suggest that significant etoposide dose escalation is perhaps possible by the use of dexrazoxane. Clinical trials in patients with brain metastases combining dexrazoxane and high doses of etoposide is ongoing with the aim of improving efficacy without aggravating hematologic toxicity. If successful, this represents an exciting mechanism for pharmacologic regulation of side effects from cytotoxic chemotherapy.
+15897593	0	11	Dexrazoxane	ChemicalEntity	D064730
+15897593	29	45	myelosuppression	DiseaseOrPhenotypicFeature	D001855
+15897593	84	93	etoposide	ChemicalEntity	D005047
+15897593	98	110	daunorubicin	ChemicalEntity	D003630
+15897593	119	130	doxorubicin	ChemicalEntity	D004317
+15897593	145	159	anthracyclines	ChemicalEntity	D018943
+15897593	160	172	daunorubicin	ChemicalEntity	D003630
+15897593	177	188	doxorubicin	ChemicalEntity	D004317
+15897593	197	215	epipodophyllotoxin	ChemicalEntity	D011034
+15897593	216	225	etoposide	ChemicalEntity	D005047
+15897593	318	334	myelosuppression	DiseaseOrPhenotypicFeature	D001855
+15897593	339	355	cardiac toxicity	DiseaseOrPhenotypicFeature	D066126
+15897593	373	384	Dexrazoxane	ChemicalEntity	D064730
+15897593	386	394	ICRF-187	ChemicalEntity	D064730
+15897593	434	447	anthracycline	ChemicalEntity	D018943
+15897593	456	470	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+15897593	530	550	hematologic toxicity	DiseaseOrPhenotypicFeature	D006402
+15897593	581	592	dexrazoxane	ChemicalEntity	D064730
+15897593	688	693	human	OrganismTaxon	9606
+15897593	698	704	murine	OrganismTaxon	10090
+15897593	731	740	etoposide	ChemicalEntity	D005047
+15897593	742	754	daunorubicin	ChemicalEntity	D003630
+15897593	760	771	doxorubicin	ChemicalEntity	D004317
+15897593	776	787	dexrazoxane	ChemicalEntity	D064730
+15897593	878	882	mice	OrganismTaxon	10090
+15897593	901	910	etoposide	ChemicalEntity	D005047
+15897593	912	924	daunorubicin	ChemicalEntity	D003630
+15897593	930	941	doxorubicin	ChemicalEntity	D004317
+15897593	959	970	dexrazoxane	ChemicalEntity	D064730
+15897593	1081	1092	dexrazoxane	ChemicalEntity	D064730
+15897593	1101	1117	myelosuppression	DiseaseOrPhenotypicFeature	D001855
+15897593	1122	1133	weight loss	DiseaseOrPhenotypicFeature	D015431
+15897593	1139	1151	daunorubicin	ChemicalEntity	D003630
+15897593	1156	1165	etoposide	ChemicalEntity	D005047
+15897593	1169	1173	mice	OrganismTaxon	10090
+15897593	1252	1263	dexrazoxane	ChemicalEntity	D064730
+15897593	1280	1296	myelosuppression	DiseaseOrPhenotypicFeature	D001855
+15897593	1298	1309	weight loss	DiseaseOrPhenotypicFeature	D015431
+15897593	1328	1340	cytotoxicity	DiseaseOrPhenotypicFeature	D064420
+15897593	1346	1357	doxorubicin	ChemicalEntity	D004317
+15897593	1422	1433	dexrazoxane	ChemicalEntity	D064730
+15897593	1499	1510	doxorubicin	ChemicalEntity	D004317
+15897593	1548	1560	daunorubicin	ChemicalEntity	D003630
+15897593	1718	1727	etoposide	ChemicalEntity	D005047
+15897593	1778	1789	dexrazoxane	ChemicalEntity	D064730
+15897593	1810	1818	patients	OrganismTaxon	9606
+15897593	1830	1840	metastases	DiseaseOrPhenotypicFeature	D009362
+15897593	1851	1862	dexrazoxane	ChemicalEntity	D064730
+15897593	1881	1890	etoposide	ChemicalEntity	D005047
+15897593	1957	1977	hematologic toxicity	DiseaseOrPhenotypicFeature	D006402
+15897593	2082	2091	cytotoxic	DiseaseOrPhenotypicFeature	D064420
+15897593	Positive_Correlation	D015431	D003630	No
+15897593	Positive_Correlation	D015431	D005047	No
+15897593	Positive_Correlation	D011034	D066126	No
+15897593	Positive_Correlation	D011034	D001855	No
+15897593	Positive_Correlation	D018943	D066126	No
+15897593	Positive_Correlation	D018943	D001855	No
+15897593	Positive_Correlation	D004317	D064420	No
+15897593	Positive_Correlation	D004317	D015431	No
+15897593	Positive_Correlation	D004317	D066126	No
+15897593	Positive_Correlation	D004317	D001855	No
+15897593	Positive_Correlation	D003630	D066126	No
+15897593	Comparison	D003630	D004317	Novel
+15897593	Positive_Correlation	D005047	D066126	No
+15897593	Comparison	D005047	D004317	Novel
+15897593	Positive_Correlation	D001855	D003630	No
+15897593	Positive_Correlation	D001855	D005047	No
+15897593	Negative_Correlation	D064730	D015431	Novel
+15897593	Negative_Correlation	D064730	D006402	No
+15897593	Negative_Correlation	D064730	D066126	No
+15897593	Negative_Correlation	D064730	D018943	No
+15897593	Negative_Correlation	D064730	D003630	Novel
+15897593	Negative_Correlation	D064730	D005047	Novel
+15897593	Negative_Correlation	D064730	D001855	Novel

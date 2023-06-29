@@ -1,0 +1,13 @@
+28493435|t|A Fast Peak-Searching Algorithm for Ultrasonic Elastography
+28493435|a|Tissue axial strain estimation with ultrasound elastography has become a hot field in recent years. However, for keypoints tracking-based elastography algorithms, locating extrema in multimodal ultrasonic radiofrequency signals is still a challenging problem. In this paper, a new method is proposed to locate the local maxima and minima of the RF signals directly without derivation operation. This algorithm can accurately locate extrema even if disturbed peaks resulting from different noise exist. Furthermore, the new algorithm can speed up approximately 79% of the implementation process as compared with the standard cross-correlation method on the same computing platform. In addition, the elastographic signal-to-noise ratio and the contrast-to-noise ratio are also significantly improved with this new method.
+28493435	2	31	Fast Peak-Searching Algorithm	T170	UMLS:C0002045
+28493435	36	59	Ultrasonic Elastography	T058	UMLS:C3163956
+28493435	60	119	Tissue axial strain estimation with ultrasound elastography	T058	UMLS:C2316047
+28493435	183	221	tracking-based elastography algorithms	T170	UMLS:C0002045
+28493435	223	231	locating	T033	UMLS:C0243095
+28493435	311	318	problem	T033	UMLS:C0033213
+28493435	363	369	locate	T033	UMLS:C0243095
+28493435	460	469	algorithm	T170	UMLS:C0002045
+28493435	485	491	locate	T033	UMLS:C0243095
+28493435	583	592	algorithm	T170	UMLS:C0002045
+28493435	675	708	standard cross-correlation method	T062	UMLS:C0242481

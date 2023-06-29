@@ -1,0 +1,57 @@
+27431623|t|Withdrawal of Anticancer Therapy in Advanced Disease Because of Side Effects
+27431623|a|Withdrawal of chemotherapy because of side effects may be due to" problems with toxicity "or" patient refusal "." Problems with toxicity "is intended to secure patient safety and decisions about it are primarily made by the oncologist. On the other hand," patient refusal "is influenced by the degree of distress the patient is experiencing and the patient's preference. Providing sufficient medical information is essential in decision making, because it is a decision made by the patient. In addition, the perception of side effects has changed owing to progress in supportive therapy in recent years. In particular, cancer patients are concerned about changes in appearance. In our study(4/2015 to 3/2016), chemotherapy was withdrawn because of side effects during treatment for solid carcinomas in 8%(4/51)of the patients. Two of these patients experienced liver function disorders, and 2 developed interstitial pneumonitis. Patient refusal was observed in 2%(1/51)of the patients.
+27431623	0	10	Withdrawal	T052	C2349954
+27431623	14	32	Anticancer Therapy	T061	C0920425
+27431623	36	52	Advanced Disease	UnknownType	C0679246
+27431623	64	76	Side Effects	T046	C0879626
+27431623	77	87	Withdrawal	T052	C2349954
+27431623	91	103	chemotherapy	T061	C3665472
+27431623	115	127	side effects	T046	C0879626
+27431623	143	151	problems	T078	C1546466
+27431623	157	165	toxicity	T080	C0040539
+27431623	171	178	patient	T101	C0030705
+27431623	179	186	refusal	T055	C0040809
+27431623	191	199	Problems	T078	C1546466
+27431623	205	213	toxicity	T080	C0040539
+27431623	230	236	secure	T041	C3146231
+27431623	237	251	patient safety	T058	C1113679
+27431623	256	265	decisions	T041	C0679006
+27431623	301	311	oncologist	T097	C0259990
+27431623	333	340	patient	T101	C0030705
+27431623	341	348	refusal	T055	C0040809
+27431623	353	363	influenced	T077	C4054723
+27431623	371	389	degree of distress	T033	C0231303
+27431623	394	401	patient	T101	C0030705
+27431623	405	417	experiencing	T041	C0596545
+27431623	426	435	patient's	T101	C0030705
+27431623	436	446	preference	T078	C0558295
+27431623	448	457	Providing	T052	C1999230
+27431623	469	476	medical	T169	C0205476
+27431623	477	488	information	T078	C1533716
+27431623	492	501	essential	T080	C0205224
+27431623	505	520	decision making	T041	C0011109
+27431623	538	546	decision	T041	C0679006
+27431623	559	566	patient	T101	C0030705
+27431623	599	611	side effects	T046	C0879626
+27431623	616	623	changed	T169	C0392747
+27431623	633	641	progress	T169	C1280477
+27431623	645	663	supportive therapy	T061	C0344211
+27431623	674	679	years	T079	C0439234
+27431623	696	702	cancer	T191	C0006826
+27431623	703	711	patients	T101	C0030705
+27431623	732	739	changes	T169	C0392747
+27431623	743	753	appearance	T032	C0233426
+27431623	787	799	chemotherapy	T061	C3665472
+27431623	804	813	withdrawn	T033	C0424092
+27431623	825	837	side effects	T046	C0879626
+27431623	845	854	treatment	T061	C0087111
+27431623	859	875	solid carcinomas	T191	C0007097
+27431623	894	902	patients	T101	C0030705
+27431623	917	925	patients	T101	C0030705
+27431623	926	937	experienced	T041	C0596545
+27431623	938	952	liver function	T042	C0232741
+27431623	953	962	disorders	T047	C0012634
+27431623	980	1004	interstitial pneumonitis	T047	C0206061
+27431623	1006	1013	Patient	T101	C0030705
+27431623	1014	1021	refusal	T055	C0040809
+27431623	1053	1061	patients	T101	C0030705

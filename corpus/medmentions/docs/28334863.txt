@@ -1,0 +1,97 @@
+28334863|t|Consecutive non-natural PZ nucleobase pairs in DNA impact helical structure as seen in 50 μs molecular dynamics simulations
+28334863|a|Little is known about the influence of multiple consecutive ' non-standard ' (, 6-amino-5-nitro-2(1H)-pyridone, and, 2-amino-imidazo[1,2-a]-1,3,5-triazin-4(8H)-one) nucleobase pairs on the structural parameters of duplex DNA. nucleobase pairs follow standard rules for Watson-Crick base pairing but have rearranged hydrogen bonding donor and acceptor groups. Using the X-ray crystal structure as a starting point, we have modeled the motions of a DNA duplex built from a self-complementary oligonucleotide (5΄-CTTATPPPZZZATAAG-3΄) in water over a period of 50 μs and calculated DNA local parameters, step parameters, helix parameters, and major / minor groove widths to examine how the presence of multiple, consecutive nucleobase pairs might impact helical structure. In these simulations, the - containing DNA duplex exhibits a significantly wider major groove and greater average values of stagger, slide, rise, twist and h-rise than observed for a ' control ' oligonucleotide in which nucleobase pairs are replaced by. The molecular origins of these structural changes are likely associated with at least two differences between and. First, the electrostatic properties of differ from in terms of density distribution and dipole moment. Second, differences are seen in the base stacking of pairs in dinucleotide steps, arising from energetically favorable stacking of the nitro group in with π-electrons of the adjacent base.
+28334863	0	11	Consecutive	T080	C1707491
+28334863	12	23	non-natural	T080	C0522502
+28334863	24	37	PZ nucleobase	T114	C0597101
+28334863	38	43	pairs	T080	C1709450
+28334863	47	50	DNA	T114,T123	C0012854
+28334863	51	57	impact	T080	C4049986
+28334863	58	75	helical structure	T082	C0678594
+28334863	93	123	molecular dynamics simulations	T066	C2717775
+28334863	150	159	influence	T077	C4054723
+28334863	163	171	multiple	T081	C0439064
+28334863	172	183	consecutive	T080	C1707491
+28334863	186	198	non-standard	T080	C0205556
+28334863	204	234	6-amino-5-nitro-2(1H)-pyridone	T114	C0597101
+28334863	241	287	2-amino-imidazo[1,2-a]-1,3,5-triazin-4(8H)-one	T114	C0597101
+28334863	289	305	nucleobase pairs	T114	C0597101
+28334863	313	323	structural	T082	C0678594
+28334863	324	334	parameters	T077	C0549193
+28334863	338	344	duplex	T082	C0444916
+28334863	345	348	DNA	T114,T123	C0012854
+28334863	350	366	nucleobase pairs	T114	C0597101
+28334863	367	373	follow	T169	C4281991
+28334863	374	382	standard	T080	C1442989
+28334863	383	388	rules	T170	C0870077
+28334863	393	418	Watson-Crick base pairing	T044	C0600436
+28334863	439	461	hydrogen bonding donor	T120	C1254355
+28334863	466	481	acceptor groups	T120	C1254355
+28334863	483	488	Using	T169	C1524063
+28334863	493	516	X-ray crystal structure	T059	C0206755
+28334863	558	565	motions	T169	C0687704
+28334863	571	574	DNA	T114,T123	C0012854
+28334863	575	581	duplex	T082	C0444916
+28334863	582	587	built	T169	C1522492
+28334863	595	629	self-complementary oligonucleotide	T114	C0006556
+28334863	631	653	5΄-CTTATPPPZZZATAAG-3΄	T114	C0006556
+28334863	658	663	water	T121,T197	C0043047
+28334863	691	701	calculated	T059	C1443182
+28334863	702	705	DNA	T114,T123	C0012854
+28334863	706	711	local	T082	C0205276
+28334863	712	722	parameters	T077	C0549193
+28334863	724	739	step parameters	T077	C0549193
+28334863	741	746	helix	T082	C1254362
+28334863	747	757	parameters	T077	C0549193
+28334863	763	768	major	T114,T123	C1518157
+28334863	771	783	minor groove	T114,T123	C1513315
+28334863	784	790	widths	T081	C0487742
+28334863	794	801	examine	T169	C4284036
+28334863	810	818	presence	T033	C0150312
+28334863	822	830	multiple	T081	C0439064
+28334863	832	843	consecutive	T080	C1707491
+28334863	844	860	nucleobase pairs	T114	C0597101
+28334863	867	873	impact	T080	C4049986
+28334863	874	891	helical structure	T082	C0678594
+28334863	902	913	simulations	T066	C2717775
+28334863	921	931	containing	T169	C0332256
+28334863	932	935	DNA	T114,T123	C0012854
+28334863	936	942	duplex	T082	C0444916
+28334863	954	967	significantly	T081	C0237881
+28334863	968	973	wider	T082	C0332464
+28334863	974	986	major groove	T114,T123	C1518157
+28334863	991	998	greater	T081	C1704243
+28334863	999	1006	average	T081	C1510992
+28334863	1007	1013	values	T080	C0042295
+28334863	1017	1024	stagger	T169	C0205245
+28334863	1026	1031	slide	T169	C0205245
+28334863	1033	1037	rise	T169	C0205245
+28334863	1039	1044	twist	T082	C0231467
+28334863	1049	1055	h-rise	T169	C0205245
+28334863	1061	1069	observed	T169	C1441672
+28334863	1078	1085	control	T080	C0243148
+28334863	1088	1103	oligonucleotide	T114	C0028953
+28334863	1113	1129	nucleobase pairs	T114	C0597101
+28334863	1134	1145	replaced by	T169	C1299987
+28334863	1151	1160	molecular	T080	C1521991
+28334863	1161	1168	origins	T079	C0439659
+28334863	1178	1188	structural	T082	C0678594
+28334863	1189	1196	changes	T169	C0392747
+28334863	1208	1223	associated with	T080	C0332281
+28334863	1233	1236	two	T081	C0205448
+28334863	1237	1248	differences	T081	C1705241
+28334863	1273	1286	electrostatic	T070	C0376534
+28334863	1287	1297	properties	T080	C0871161
+28334863	1301	1307	differ	T080	C1705242
+28334863	1325	1345	density distribution	T081	C0392762
+28334863	1350	1363	dipole moment	T081	C0596449
+28334863	1373	1384	differences	T081	C1705241
+28334863	1401	1414	base stacking	T044	C1148560
+28334863	1418	1423	pairs	T080	C1709450
+28334863	1427	1439	dinucleotide	T114	C1254348
+28334863	1440	1445	steps	T077	C1261552
+28334863	1474	1483	favorable	T080	C3640814
+28334863	1484	1492	stacking	T044	C1148560
+28334863	1500	1511	nitro group	T080	C0205556
+28334863	1520	1531	π-electrons	T196	C0013852
+28334863	1539	1547	adjacent	T082	C0205117
+28334863	1548	1552	base	T114	C0597101

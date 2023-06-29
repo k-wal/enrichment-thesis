@@ -1,0 +1,46 @@
+27689542|t|Safe Routes to Play? Pedestrian and Bicyclist Crashes Near Parks in Los Angeles
+27689542|a|Areas near parks may present active travelers with higher risks than in other areas due to the confluence of more pedestrians and bicyclists, younger travelers, and the potential for increased traffic volumes. These risks may be amplified in low-income and minority neighborhoods due to generally higher rates of active travel or lack of safety infrastructure. This paper examines active travel crashes near parks and builds on existing research around disparities in park access and extends research from the Safe Routes to School and Safe Routes to Transit movements to parks. We utilized the Green Visions Parks coverage, encompassing Los Angeles County and several other cities in the LA Metropolitan area. We used negative bionomial regression modeling techniques and ten years of geolocated pedestrian and bicyclist crash data to assess the number of active travel injuries within a quarter mile (~400m) buffer around parks. We controlled for differential exposures to active travel using travel survey data and Bayesian smoothing models. Of 1,311,736 parties involved in 608,530 crashes, there were 896,359 injuries and 7317 fatalities. The number of active travel crash injuries is higher within a quarter-mile of a park, with a ratio of 1.52 per 100,000 residents, compared to areas outside that buffer. This higher rate near parks is amplified in neighborhoods with high proportions of minority and low-income residents. Higher traffic levels are highly predictive of active travel crash injuries. Planners should consider the higher risks of active travel near parks and the socioeconomic modification of these risks. Additional traffic calming and safety infrastructure may be needed to provide safe routes to parks.
+27689542	0	4	Safe	T082	UMLS:C0557723
+27689542	5	11	Routes	T082	UMLS:C0449444
+27689542	21	31	Pedestrian	T098	UMLS:C0450063
+27689542	36	45	Bicyclist	T098	UMLS:C1257890
+27689542	68	79	Los Angeles	T082	UMLS:C0024015
+27689542	80	85	Areas	T082	UMLS:C0205146
+27689542	101	108	present	T033	UMLS:C0150312
+27689542	158	163	areas	T082	UMLS:C0205146
+27689542	194	205	pedestrians	T098	UMLS:C0450063
+27689542	210	220	bicyclists	T098	UMLS:C1257890
+27689542	337	345	minority	T098	UMLS:C0026192
+27689542	346	359	neighborhoods	T082	UMLS:C0027569
+27689542	410	439	lack of safety infrastructure	T033	UMLS:C2364372
+27689542	446	451	paper	T170	UMLS:C0282420
+27689542	508	525	existing research	T062	UMLS:C0035168
+27689542	533	544	disparities	T033	UMLS:C1290905
+27689542	553	559	access	T082	UMLS:C0444454
+27689542	572	580	research	T062	UMLS:C0035168
+27689542	590	594	Safe	T082	UMLS:C0557723
+27689542	595	601	Routes	T082	UMLS:C0449444
+27689542	605	611	School	T092	UMLS:C0036375
+27689542	616	620	Safe	T082	UMLS:C0557723
+27689542	621	627	Routes	T082	UMLS:C0449444
+27689542	718	736	Los Angeles County	T082	UMLS:C3829255
+27689542	755	761	cities	T082	UMLS:C0008848
+27689542	769	771	LA	T082	UMLS:C0024015
+27689542	799	848	negative bionomial regression modeling techniques	T170	UMLS:C0026338
+27689542	866	876	geolocated	T082	UMLS:C0450429
+27689542	877	887	pedestrian	T098	UMLS:C0450063
+27689542	892	901	bicyclist	T098	UMLS:C1257890
+27689542	951	959	injuries	T037	UMLS:C3263722
+27689542	1082	1088	survey	T170	UMLS:C0038951
+27689542	1194	1202	injuries	T037	UMLS:C3263722
+27689542	1258	1266	injuries	T037	UMLS:C3263722
+27689542	1343	1352	residents	T098	UMLS:C2347958
+27689542	1366	1371	areas	T082	UMLS:C0205146
+27689542	1437	1450	neighborhoods	T082	UMLS:C0027569
+27689542	1476	1484	minority	T098	UMLS:C0026192
+27689542	1500	1509	residents	T098	UMLS:C2347958
+27689542	1578	1586	injuries	T037	UMLS:C3263722
+27689542	1588	1596	Planners	T097	UMLS:C0334786
+27689542	1747	1761	infrastructure	T170	UMLS:C1998546
+27689542	1787	1791	safe	T082	UMLS:C0557723
+27689542	1792	1798	routes	T082	UMLS:C0449444

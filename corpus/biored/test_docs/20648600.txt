@@ -1,0 +1,103 @@
+20648600|t|High frequency of lamivudine resistance mutations in Brazilian patients co-infected with HIV and hepatitis B.
+20648600|a|This study analyzed the genotype distribution and frequency of lamivudine (LAM) and tenofovir (TDF) resistance mutations in a group of patients co-infected with HIV and hepatitis B virus (HBV). A cross-sectional study of 847 patients with HIV was conducted. Patients provided blood samples for HBsAg detection. The load of HBV was determined using an "in-house" real-time polymerase chain reaction. HBV genotypes/subgenotypes, antiviral resistance, basal core promoter (BCP), and precore mutations were detected by DNA sequencing. Twenty-eight patients with co-infection were identified. The distribution of HBV genotypes among these patients was A (n = 9; 50%), D (n = 4; 22.2%), G (n = 3; 16.7%), and F (n = 2; 11.1%). Eighteen patients were treated with LAM and six patients were treated with LAM plus TDF. The length of exposure to LAM and TDF varied from 4 to 216 months. LAM resistance substitutions (rtL180M + rtM204V) were detected in 10 (50%) of the 20 patients with viremia. This pattern and an accompanying rtV173L mutation was found in four patients. Three patients with the triple polymerase substitution pattern (rtV173L + rtL180M + rtM204V) had associated changes in the envelope gene (sE164D + sI195M). Mutations in the BCP region (A1762T, G1764A) and in the precore region (G1896A, G1899A) were also found. No putative TDF resistance substitution was detected. The data suggest that prolonged LAM use is associated with the emergence of particular changes in the HBV genome, including substitutions that may elicit a vaccine escape phenotype. No putative TDF resistance change was detected after prolonged use of TDF.
+20648600	18	28	lamivudine	ChemicalEntity	D019259
+20648600	63	71	patients	OrganismTaxon	9606
+20648600	72	108	co-infected with HIV and hepatitis B	DiseaseOrPhenotypicFeature	D006509,D015658
+20648600	173	183	lamivudine	ChemicalEntity	D019259
+20648600	185	188	LAM	ChemicalEntity	D019259
+20648600	194	203	tenofovir	ChemicalEntity	D000068698
+20648600	205	208	TDF	ChemicalEntity	D000068698
+20648600	245	253	patients	OrganismTaxon	9606
+20648600	254	296	co-infected with HIV and hepatitis B virus	DiseaseOrPhenotypicFeature	D006509,D015658
+20648600	298	301	HBV	OrganismTaxon	10407
+20648600	335	343	patients	OrganismTaxon	9606
+20648600	349	352	HIV	OrganismTaxon	11676
+20648600	368	376	Patients	OrganismTaxon	9606
+20648600	404	409	HBsAg	ChemicalEntity	D006514
+20648600	433	436	HBV	OrganismTaxon	10407
+20648600	509	512	HBV	OrganismTaxon	10407
+20648600	590	597	precore	GeneOrGeneProduct	944568
+20648600	654	662	patients	OrganismTaxon	9606
+20648600	671	680	infection	DiseaseOrPhenotypicFeature	D007239
+20648600	718	721	HBV	OrganismTaxon	10407
+20648600	744	752	patients	OrganismTaxon	9606
+20648600	840	848	patients	OrganismTaxon	9606
+20648600	867	870	LAM	ChemicalEntity	D019259
+20648600	879	887	patients	OrganismTaxon	9606
+20648600	906	909	LAM	ChemicalEntity	D019259
+20648600	915	918	TDF	ChemicalEntity	D000068698
+20648600	946	949	LAM	ChemicalEntity	D019259
+20648600	954	957	TDF	ChemicalEntity	D000068698
+20648600	987	990	LAM	ChemicalEntity	D019259
+20648600	1019	1024	L180M	SequenceVariant	p|SUB|L|180|M
+20648600	1029	1034	M204V	SequenceVariant	p|SUB|M|204|V
+20648600	1072	1080	patients	OrganismTaxon	9606
+20648600	1086	1093	viremia	DiseaseOrPhenotypicFeature	D014766
+20648600	1130	1135	V173L	SequenceVariant	p|SUB|V|173|L
+20648600	1163	1171	patients	OrganismTaxon	9606
+20648600	1179	1187	patients	OrganismTaxon	9606
+20648600	1204	1214	polymerase	GeneOrGeneProduct	944565
+20648600	1239	1244	V173L	SequenceVariant	p|SUB|V|173|L
+20648600	1249	1254	L180M	SequenceVariant	p|SUB|L|180|M
+20648600	1259	1264	M204V	SequenceVariant	p|SUB|M|204|V
+20648600	1296	1304	envelope	GeneOrGeneProduct	944569
+20648600	1312	1317	E164D	SequenceVariant	p|SUB|E|164|D
+20648600	1321	1326	I195M	SequenceVariant	p|SUB|I|195|M
+20648600	1358	1364	A1762T	SequenceVariant	g|SUB|A|1762|T
+20648600	1366	1372	G1764A	SequenceVariant	g|SUB|G|1764|A
+20648600	1385	1392	precore	GeneOrGeneProduct	944568
+20648600	1401	1407	G1896A	SequenceVariant	g|SUB|G|1896|A
+20648600	1409	1415	G1899A	SequenceVariant	g|SUB|G|1899|A
+20648600	1446	1449	TDF	ChemicalEntity	D000068698
+20648600	1520	1523	LAM	ChemicalEntity	D019259
+20648600	1590	1593	HBV	OrganismTaxon	10407
+20648600	1682	1685	TDF	ChemicalEntity	D000068698
+20648600	1740	1743	TDF	ChemicalEntity	D000068698
+20648600	Association	p|SUB|E|164|D	p|SUB|I|195|M	Novel
+20648600	Association	D015658	944568	Novel
+20648600	Association	D015658	g|SUB|G|1899|A	Novel
+20648600	Association	D015658	g|SUB|G|1896|A	Novel
+20648600	Association	D015658	g|SUB|G|1764|A	Novel
+20648600	Association	D015658	g|SUB|A|1762|T	Novel
+20648600	Association	D015658	p|SUB|I|195|M	Novel
+20648600	Association	D015658	p|SUB|E|164|D	Novel
+20648600	Association	D015658	944569	Novel
+20648600	Association	D015658	944565	Novel
+20648600	Association	D015658	p|SUB|V|173|L	Novel
+20648600	Association	D015658	p|SUB|M|204|V	Novel
+20648600	Association	D015658	p|SUB|L|180|M	Novel
+20648600	Association	D006509	944568	Novel
+20648600	Association	D006509	g|SUB|G|1899|A	Novel
+20648600	Association	D006509	g|SUB|G|1896|A	Novel
+20648600	Association	D006509	g|SUB|G|1764|A	Novel
+20648600	Association	D006509	g|SUB|A|1762|T	Novel
+20648600	Association	D006509	p|SUB|I|195|M	Novel
+20648600	Association	D006509	p|SUB|E|164|D	Novel
+20648600	Association	D006509	944569	Novel
+20648600	Association	D006509	944565	Novel
+20648600	Association	D006509	p|SUB|V|173|L	Novel
+20648600	Association	D006509	p|SUB|M|204|V	Novel
+20648600	Association	D006509	p|SUB|L|180|M	Novel
+20648600	Negative_Correlation	D000068698	D015658	Novel
+20648600	Negative_Correlation	D000068698	D006509	Novel
+20648600	Association	944565	944569	Novel
+20648600	Association	p|SUB|V|173|L	p|SUB|I|195|M	Novel
+20648600	Association	p|SUB|V|173|L	p|SUB|E|164|D	Novel
+20648600	Association	p|SUB|V|173|L	p|SUB|M|204|V	Novel
+20648600	Association	p|SUB|V|173|L	p|SUB|L|180|M	Novel
+20648600	Association	D014766	944565	Novel
+20648600	Association	p|SUB|M|204|V	p|SUB|I|195|M	Novel
+20648600	Association	p|SUB|M|204|V	p|SUB|E|164|D	Novel
+20648600	Association	p|SUB|M|204|V	D014766	Novel
+20648600	Association	p|SUB|L|180|M	p|SUB|I|195|M	Novel
+20648600	Association	p|SUB|L|180|M	p|SUB|E|164|D	Novel
+20648600	Association	p|SUB|L|180|M	D014766	Novel
+20648600	Association	p|SUB|L|180|M	p|SUB|M|204|V	Novel
+20648600	Negative_Correlation	D019259	D015658	Novel
+20648600	Negative_Correlation	D019259	D006509	Novel
+20648600	Comparison	D019259	D000068698	Novel
+20648600	Association	D019259	944565	Novel
+20648600	Negative_Correlation	D019259	p|SUB|V|173|L	Novel
+20648600	Negative_Correlation	D019259	D014766	Novel
+20648600	Negative_Correlation	D019259	p|SUB|M|204|V	Novel
+20648600	Negative_Correlation	D019259	p|SUB|L|180|M	Novel

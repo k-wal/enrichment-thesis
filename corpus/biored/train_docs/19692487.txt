@@ -1,0 +1,60 @@
+19692487|t|Mice lacking mPGES-1 are resistant to lithium-induced polyuria.
+19692487|a|Cyclooxygenase-2 activity is required for the development of lithium-induced polyuria. However, the involvement of a specific, terminal prostaglandin (PG) isomerase has not been evaluated. The present study was undertaken to assess lithium-induced polyuria in mice deficient in microsomal prostaglandin E synthase-1 (mPGES-1). A 2-wk administration of LiCl (4 mmol.kg(-1).day(-1) ip) in mPGES-1 +/+ mice led to a marked polyuria with hyposmotic urine. This was associated with elevated renal mPGES-1 protein expression and increased urine PGE(2) excretion. In contrast, mPGES-1 -/- mice were largely resistant to lithium-induced polyuria and a urine concentrating defect, accompanied by nearly complete blockade of high urine PGE(2) and cAMP output. Immunoblotting, immunohistochemistry, and quantitative (q) RT-PCR consistently detected a significant decrease in aquaporin-2 (AQP2) protein expression in both the renal cortex and medulla of lithium-treated +/+ mice. This decrease was significantly attenuated in the -/- mice. qRT-PCR detected similar patterns of changes in AQP2 mRNA in the medulla but not in the cortex. Similarly, the total protein abundance of the Na-K-2Cl cotransporter (NKCC2) in the medulla but not in the cortex of the +/+ mice was significantly reduced by lithium treatment. In contrast, the dowregulation of renal medullary NKCC2 expression was significantly attenuated in the -/- mice. We conclude that mPGES-1-derived PGE(2) mediates lithium-induced polyuria likely via inhibition of AQP2 and NKCC2 expression.
+19692487	0	4	Mice	OrganismTaxon	10090
+19692487	13	20	mPGES-1	GeneOrGeneProduct	64292
+19692487	38	45	lithium	ChemicalEntity	D008094
+19692487	54	62	polyuria	DiseaseOrPhenotypicFeature	D011141
+19692487	64	80	Cyclooxygenase-2	GeneOrGeneProduct	19225
+19692487	125	132	lithium	ChemicalEntity	D008094
+19692487	141	149	polyuria	DiseaseOrPhenotypicFeature	D011141
+19692487	200	213	prostaglandin	ChemicalEntity	D011453
+19692487	215	217	PG	ChemicalEntity	D011453
+19692487	296	303	lithium	ChemicalEntity	D008094
+19692487	312	320	polyuria	DiseaseOrPhenotypicFeature	D011141
+19692487	324	328	mice	OrganismTaxon	10090
+19692487	342	379	microsomal prostaglandin E synthase-1	GeneOrGeneProduct	64292
+19692487	381	388	mPGES-1	GeneOrGeneProduct	64292
+19692487	416	420	LiCl	ChemicalEntity	D018021
+19692487	451	458	mPGES-1	GeneOrGeneProduct	64292
+19692487	463	467	mice	OrganismTaxon	10090
+19692487	484	492	polyuria	DiseaseOrPhenotypicFeature	D011141
+19692487	556	563	mPGES-1	GeneOrGeneProduct	64292
+19692487	603	609	PGE(2)	ChemicalEntity	D015232
+19692487	634	641	mPGES-1	GeneOrGeneProduct	64292
+19692487	646	650	mice	OrganismTaxon	10090
+19692487	677	684	lithium	ChemicalEntity	D008094
+19692487	693	701	polyuria	DiseaseOrPhenotypicFeature	D011141
+19692487	790	796	PGE(2)	ChemicalEntity	D015232
+19692487	801	805	cAMP	ChemicalEntity	D000242
+19692487	928	939	aquaporin-2	GeneOrGeneProduct	11827
+19692487	941	945	AQP2	GeneOrGeneProduct	11827
+19692487	1006	1013	lithium	ChemicalEntity	D008094
+19692487	1026	1030	mice	OrganismTaxon	10090
+19692487	1086	1090	mice	OrganismTaxon	10090
+19692487	1140	1144	AQP2	GeneOrGeneProduct	11827
+19692487	1234	1256	Na-K-2Cl cotransporter	GeneOrGeneProduct	20495
+19692487	1258	1263	NKCC2	GeneOrGeneProduct	20495
+19692487	1313	1317	mice	OrganismTaxon	10090
+19692487	1347	1354	lithium	ChemicalEntity	D008094
+19692487	1416	1421	NKCC2	GeneOrGeneProduct	20495
+19692487	1473	1477	mice	OrganismTaxon	10090
+19692487	1496	1503	mPGES-1	GeneOrGeneProduct	64292
+19692487	1512	1518	PGE(2)	ChemicalEntity	D015232
+19692487	1528	1535	lithium	ChemicalEntity	D008094
+19692487	1544	1552	polyuria	DiseaseOrPhenotypicFeature	D011141
+19692487	1578	1582	AQP2	GeneOrGeneProduct	11827
+19692487	1587	1592	NKCC2	GeneOrGeneProduct	20495
+19692487	Association	19225	D011141	No
+19692487	Negative_Correlation	11827	D008094	Novel
+19692487	Negative_Correlation	D015232	20495	Novel
+19692487	Negative_Correlation	D015232	11827	Novel
+19692487	Association	D015232	D011141	Novel
+19692487	Association	D015232	D008094	Novel
+19692487	Positive_Correlation	D018021	D015232	Novel
+19692487	Positive_Correlation	D018021	D011141	Novel
+19692487	Positive_Correlation	D018021	64292	Novel
+19692487	Negative_Correlation	D008094	20495	Novel
+19692487	Positive_Correlation	D008094	D011141	No
+19692487	Association	64292	D015232	Novel
+19692487	Positive_Correlation	64292	D011141	Novel
+19692487	Positive_Correlation	64292	D008094	Novel

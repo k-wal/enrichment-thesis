@@ -1,0 +1,18 @@
+28055920|t|Robust DLPP With Nongreedy ℓ₁$-Norm Minimization and Maximization
+28055920|a|Recently, discriminant locality preserving projection based on L1-norm (DLPP-L1) was developed for robust subspace learning and image classification. It obtains projection vectors by greedy strategy, i.e., all projection vectors are optimized individually through maximizing the objective function. Thus, the obtained solution does not necessarily best optimize the corresponding trace ratio optimization algorithm, which is the essential objective function for general dimensionality reduction. It results in insufficient recognition accuracy. To tackle this problem, we propose a nongreedy algorithm to solve the trace ratio formula of DLPP-L1, and analyze its convergence. Experimental results on three databases illustrate the effectiveness of our proposed algorithm.
+28055920	172	189	subspace learning	T038	UMLS:C0023185
+28055920	194	199	image	T170	UMLS:C1704922
+28055920	200	214	classification	T170	UMLS:C0008902
+28055920	227	237	projection	T082	UMLS:C0348018
+28055920	238	245	vectors	T082	UMLS:C0442335
+28055920	249	264	greedy strategy	T062	UMLS:C0035171
+28055920	276	286	projection	T082	UMLS:C0348018
+28055920	287	294	vectors	T082	UMLS:C0442335
+28055920	384	392	solution	T170	UMLS:C1706817
+28055920	446	480	trace ratio optimization algorithm	T170	UMLS:C0002045
+28055920	536	560	dimensionality reduction	T170	UMLS:C0282574
+28055920	589	600	recognition	T038	UMLS:C0237818
+28055920	648	667	nongreedy algorithm	T170	UMLS:C0002045
+28055920	681	700	trace ratio formula	T170	UMLS:C0489829
+28055920	772	781	databases	T170	UMLS:C0242356
+28055920	827	836	algorithm	T170	UMLS:C0002045

@@ -1,0 +1,162 @@
+27799048|t|Prostate external beam radiotherapy combined with high-dose-rate brachytherapy: dose - volume parameters from deformably-registered plans correlate with late gastrointestinal complications
+27799048|a|Derivation of dose - volume correlated with toxicity for multi-modal treatments can be difficult due to the perceived need for voxel-by-voxel dose accumulation. With data available for a single - institution cohort with long follow-up, an investigation was undertaken into rectal dose - volume effects for gastrointestinal toxicities after deformably-registering each phase of a combined external beam radiotherapy (EBRT)/ high-dose-rate (HDR) brachytherapy prostate treatment. One hundred and eighteen patients received EBRT in 23 fractions of 2 Gy and HDR (TG43 algorithm) in 3 fractions of 6.5 Gy. Results for the Late Effects of Normal Tissues - Subjective, Objective, Management and Analytic toxicity assessments were available with a median follow-up of 72 months. The HDR CT was deformably-registered to the EBRT CT. Doses were corrected for dose fractionation. Rectum dose-volume histogram (DVH) parameters were calculated in two ways. (1) Distribution-adding: parameters were calculated after the EBRT dose distribution was 3D-summed with the registered HDR dose distribution. (2) Parameter-adding: the EBRT DVH parameters were added to HDR DVH parameters. Logistic regressions and Mann-Whitney U-tests were used to correlate parameters with late peak toxicity (dichotomised at grade 1 or 2). The 48-80, 40-63 and 49-55 Gy dose regions from distribution-adding were significantly correlated with rectal bleeding, urgency / tenesmus and stool frequency respectively. Additionally, urgency / tenesmus and anorectal pain were associated with the 25-26 Gy and 44-48 Gy dose regions from distribution-adding respectively. Parameter-adding also indicated the low - mid dose region was significantly correlated with stool frequency and proctitis. This study confirms significant dose-histogram effects for gastrointestinal toxicities after including deformable registration to combine phases of EBRT / HDR prostate cancer treatment. The findings from distribution-adding were in most cases consistent with those from parameter-adding. The mid - high dose range and near maximum doses were important for rectal bleeding. The distribution-adding mid - high dose range was also important for stool frequency and urgency / tenesmus. We encourage additional studies in a variety of institutions using a variety of dose accumulation methods with appropriate inter-fraction motion management. NCT NCT00193856. Retrospectively registered 12 September 2005.
+27799048	0	35	Prostate external beam radiotherapy	T061	C2367589
+27799048	36	44	combined	T080	C0205195
+27799048	50	78	high-dose-rate brachytherapy	T061	C0454270
+27799048	80	84	dose	T081	C0178602
+27799048	87	93	volume	T081	C0449468
+27799048	94	104	parameters	T033	C0449381
+27799048	110	137	deformably-registered plans	T170	C0002045
+27799048	138	147	correlate	T080	C1707520
+27799048	153	157	late	T079	C0205087
+27799048	158	188	gastrointestinal complications	T046	C0161819
+27799048	189	199	Derivation	T080	C1441547
+27799048	203	207	dose	T081	C0178602
+27799048	210	216	volume	T081	C0449468
+27799048	217	227	correlated	T080	C1707520
+27799048	233	241	toxicity	T080	C0040539
+27799048	246	268	multi-modal treatments	T061	C0087111
+27799048	276	285	difficult	T080	C0332218
+27799048	316	348	voxel-by-voxel dose accumulation	T059	C0022885
+27799048	355	359	data	T078	C1511726
+27799048	376	382	single	T081	C0205171
+27799048	385	396	institution	T073,T093	C0018704
+27799048	397	403	cohort	T098	C0599755
+27799048	409	413	long	T080	C0205166
+27799048	414	423	follow-up	T058	C1522577
+27799048	428	441	investigation	T169	C1292732
+27799048	462	468	rectal	T082	C0205052
+27799048	469	473	dose	T081	C0178602
+27799048	476	482	volume	T081	C0449468
+27799048	483	490	effects	T080	C1280500
+27799048	495	522	gastrointestinal toxicities	T033	C1142499
+27799048	557	562	phase	T079	C0205390
+27799048	568	576	combined	T080	C0205195
+27799048	577	603	external beam radiotherapy	T061	C2367589
+27799048	605	609	EBRT	T061	C2367589
+27799048	612	646	high-dose-rate (HDR) brachytherapy	T061	C0454270
+27799048	647	665	prostate treatment	T061	C0194790
+27799048	692	700	patients	T101	C0030705
+27799048	710	714	EBRT	T061	C2367589
+27799048	721	730	fractions	T081	C1264633
+27799048	736	738	Gy	T081	C0556636
+27799048	743	746	HDR	T061	C0454270
+27799048	748	762	TG43 algorithm	T170	C0002045
+27799048	769	778	fractions	T081	C1264633
+27799048	786	788	Gy	T081	C0556636
+27799048	790	797	Results	T033	C0683954
+27799048	806	906	Late Effects of Normal Tissues - Subjective, Objective, Management and Analytic toxicity assessments	T170	C0450973
+27799048	929	935	median	T081	C0876920
+27799048	936	945	follow-up	T058	C1522577
+27799048	952	958	months	T079	C0439231
+27799048	964	967	HDR	T061	C0454270
+27799048	968	970	CT	T060	C0040405
+27799048	1004	1008	EBRT	T061	C2367589
+27799048	1009	1011	CT	T060	C0040405
+27799048	1013	1018	Doses	T081	C0178602
+27799048	1024	1033	corrected	T080	C0205202
+27799048	1038	1056	dose fractionation	T061	C0524811
+27799048	1058	1064	Rectum	T023	C0034896
+27799048	1065	1086	dose-volume histogram	T170	C3827011
+27799048	1088	1091	DVH	T170	C3827011
+27799048	1093	1103	parameters	T033	C0449381
+27799048	1109	1119	calculated	T052	C1441506
+27799048	1137	1156	Distribution-adding	T170	C0025663
+27799048	1158	1168	parameters	T033	C0449381
+27799048	1174	1184	calculated	T052	C1441506
+27799048	1195	1199	EBRT	T061	C2367589
+27799048	1200	1204	dose	T081	C0178602
+27799048	1205	1217	distribution	T169	C1704711
+27799048	1252	1255	HDR	T061	C0454270
+27799048	1256	1260	dose	T081	C0178602
+27799048	1261	1273	distribution	T169	C1704711
+27799048	1279	1295	Parameter-adding	T170	C0025663
+27799048	1301	1305	EBRT	T061	C2367589
+27799048	1306	1309	DVH	T170	C3827011
+27799048	1310	1320	parameters	T033	C0449381
+27799048	1326	1331	added	T169	C1524062
+27799048	1335	1338	HDR	T061	C0454270
+27799048	1339	1342	DVH	T170	C3827011
+27799048	1343	1353	parameters	T033	C0449381
+27799048	1355	1375	Logistic regressions	T062	C0206031
+27799048	1380	1400	Mann-Whitney U-tests	T081	C0242927
+27799048	1414	1423	correlate	T080	C1707520
+27799048	1424	1434	parameters	T033	C0449381
+27799048	1440	1444	late	T079	C0205087
+27799048	1445	1449	peak	T080	C0444505
+27799048	1450	1458	toxicity	T080	C0040539
+27799048	1460	1472	dichotomised	T169	C0332849
+27799048	1476	1481	grade	T185	C0441800
+27799048	1518	1520	Gy	T081	C0556636
+27799048	1521	1525	dose	T081	C0178602
+27799048	1526	1533	regions	T082	C0205147
+27799048	1539	1558	distribution-adding	T170	C0025663
+27799048	1564	1577	significantly	T078	C0750502
+27799048	1578	1588	correlated	T080	C1707520
+27799048	1594	1609	rectal bleeding	T046	C0267596
+27799048	1611	1618	urgency	T047	C0085606
+27799048	1621	1629	tenesmus	T184	C0232726
+27799048	1634	1649	stool frequency	T033	C0426642
+27799048	1664	1676	Additionally	T169	C1524062
+27799048	1678	1685	urgency	T047	C0085606
+27799048	1688	1696	tenesmus	T184	C0232726
+27799048	1701	1715	anorectal pain	T184	C0581362
+27799048	1721	1736	associated with	T080	C0332281
+27799048	1747	1749	Gy	T081	C0556636
+27799048	1760	1762	Gy	T081	C0556636
+27799048	1763	1767	dose	T081	C0178602
+27799048	1768	1775	regions	T082	C0205147
+27799048	1781	1800	distribution-adding	T170	C0025663
+27799048	1815	1831	Parameter-adding	T170	C0025663
+27799048	1851	1854	low	T080	C0205251
+27799048	1857	1860	mid	T082	C0444598
+27799048	1861	1865	dose	T081	C0178602
+27799048	1866	1872	region	T082	C0205147
+27799048	1877	1890	significantly	T078	C0750502
+27799048	1891	1901	correlated	T080	C1707520
+27799048	1907	1922	stool frequency	T033	C0426642
+27799048	1927	1936	proctitis	T047	C0033246
+27799048	1943	1948	study	T062	C0681814
+27799048	1949	1957	confirms	T033	C0750484
+27799048	1958	1969	significant	T078	C0750502
+27799048	1970	1984	dose-histogram	T170	C3827011
+27799048	1985	1992	effects	T080	C1280500
+27799048	1997	2024	gastrointestinal toxicities	T033	C1142499
+27799048	2031	2040	including	T169	C0332257
+27799048	2041	2064	deformable registration	T170	C0002045
+27799048	2068	2075	combine	T080	C0205195
+27799048	2076	2082	phases	T079	C0205390
+27799048	2086	2090	EBRT	T061	C2367589
+27799048	2093	2096	HDR	T061	C0454270
+27799048	2097	2112	prostate cancer	T191	C0376358
+27799048	2113	2122	treatment	T061	C0087111
+27799048	2128	2136	findings	T033	C0243095
+27799048	2142	2161	distribution-adding	T170	C0025663
+27799048	2175	2180	cases	T169	C0868928
+27799048	2181	2196	consistent with	T078	C0332290
+27799048	2208	2224	parameter-adding	T170	C0025663
+27799048	2230	2233	mid	T082	C0444598
+27799048	2236	2240	high	T080	C0205250
+27799048	2241	2245	dose	T081	C0178602
+27799048	2246	2251	range	T081	C1514721
+27799048	2256	2260	near	T080	C1706276
+27799048	2261	2268	maximum	T081	C0806909
+27799048	2269	2274	doses	T081	C0178602
+27799048	2280	2289	important	T080	C3898777
+27799048	2294	2309	rectal bleeding	T046	C0267596
+27799048	2315	2334	distribution-adding	T170	C0025663
+27799048	2335	2338	mid	T082	C0444598
+27799048	2341	2345	high	T080	C0205250
+27799048	2346	2350	dose	T081	C0178602
+27799048	2351	2356	range	T081	C1514721
+27799048	2366	2375	important	T080	C3898777
+27799048	2380	2395	stool frequency	T033	C0426642
+27799048	2400	2407	urgency	T047	C0085606
+27799048	2410	2418	tenesmus	T184	C0232726
+27799048	2433	2443	additional	T169	C1524062
+27799048	2444	2451	studies	T062	C2603343
+27799048	2457	2464	variety	T077	C2346866
+27799048	2468	2480	institutions	T078	C1272753
+27799048	2489	2496	variety	T077	C2346866
+27799048	2500	2525	dose accumulation methods	T059	C0022885
+27799048	2543	2575	inter-fraction motion management	T058	C1254363

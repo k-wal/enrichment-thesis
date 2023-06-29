@@ -1,0 +1,15 @@
+15686794|t|Acute low back pain during intravenous administration of amiodarone: a report of two cases.
+15686794|a|Amiodarone represents an effective antiarrhythmic drug for cardioversion of recent-onset atrial fibrillation (AF) and maintenance of sinus rhythm. We briefly describe two patients suffering from recent-onset atrial fibrillation, who experienced an acute devastating low back pain a few minutes after initiation of intravenous amiodarone loading. Notably, this side effect has not been ever reported in the medical literature. Clinicians should be aware of this reaction since prompt termination of parenteral administration leads to complete resolution.
+15686794	6	19	low back pain	DiseaseOrPhenotypicFeature	D017116
+15686794	57	67	amiodarone	ChemicalEntity	D000638
+15686794	92	102	Amiodarone	ChemicalEntity	D000638
+15686794	127	146	antiarrhythmic drug	ChemicalEntity	D000889
+15686794	181	200	atrial fibrillation	DiseaseOrPhenotypicFeature	D001281
+15686794	202	204	AF	DiseaseOrPhenotypicFeature	D001281
+15686794	263	271	patients	OrganismTaxon	9606
+15686794	300	319	atrial fibrillation	DiseaseOrPhenotypicFeature	D001281
+15686794	358	371	low back pain	DiseaseOrPhenotypicFeature	D017116
+15686794	418	428	amiodarone	ChemicalEntity	D000638
+15686794	Positive_Correlation	D017116	D000638	Novel
+15686794	Negative_Correlation	D000889	D001281	No
+15686794	Negative_Correlation	D000638	D001281	No

@@ -1,0 +1,83 @@
+27669157|t|A Patient Registry to Improve Patient Safety: Recording General Neurosurgery Complications
+27669157|a|To improve the transparency of the local health care system, treatment cost was recently referenced to disease related groups. Treatment quality must be legally documented in a patient registry, in particular for the highly specialized treatments provided by neurosurgery departments. In 2013 we have installed a patient registry focused on cranial neurosurgery. Surgeries are characterized by indication, treatment, location and other specific neurosurgical parameters. Preoperative state and postoperative outcome are recorded prospectively using neurological and sociological scales. Complications are graded by their severity in a therapy-oriented complication score system (Clavien-Dindo-Grading system, CDG). Results are presented at the monthly clinical staff meeting. Data acquisition compatible with the clinic workflow permitted to include all eligible patients into the registry. Until December 2015, we have registered 2880 patients that were treated in 3959 surgeries and 8528 consultations. Since the registry is fully operational (August 2014), we have registered 325 complications on 1341 patient discharge forms (24%). In 64% of these complications, no or only pharmacological treatment was required. At discharge, there was a clear correlation of the severity of the complication and the Karnofsky Performance Status (KPS, ρ = -0.3, slope -6 KPS percentage points per increment of CDG) and the length of stay (ρ = 0.4, slope 1.5 days per increment of CDG). While the therapy-oriented complication scores correlate reasonably well with outcome and length of stay, they do not account for new deficits that cannot be treated. Outcome grading and complication severity grading thus serve a complimentary purpose. Overall, the registry serves to streamline and to complete information flow in the clinic, to identify complication rates and trends early for the internal quality monitoring and communication with patients. Conversely, the registry influences clinical practice in that it demands rigorous documentation and standard operating procedures.
+27669157	2	18	Patient Registry	T062	C0920631
+27669157	30	44	Patient Safety	T058	C1113679
+27669157	64	76	Neurosurgery	T061	C0524850
+27669157	77	90	Complications	T046	C0009566
+27669157	126	150	local health care system	T093	C0018696
+27669157	152	166	treatment cost	T081	C0087112
+27669157	194	201	disease	T047	C0012634
+27669157	210	216	groups	T098	C1257890
+27669157	218	227	Treatment	T061	C0087111
+27669157	228	235	quality	T080	C0332306
+27669157	244	262	legally documented	T170	C0681483
+27669157	268	284	patient registry	T062	C0920631
+27669157	327	337	treatments	T061	C0087111
+27669157	350	374	neurosurgery departments	T093	C0587523
+27669157	404	420	patient registry	T062	C0920631
+27669157	432	452	cranial neurosurgery	T061	C0195775
+27669157	454	463	Surgeries	T061	C0543467
+27669157	485	495	indication	T078	C3146298
+27669157	497	506	treatment	T061	C0087111
+27669157	508	516	location	T082	C4041236
+27669157	536	560	neurosurgical parameters	T169	C0038895
+27669157	562	580	Preoperative state	T033	C0178808
+27669157	585	606	postoperative outcome	T080	C0085415
+27669157	640	652	neurological	T170	C0282574
+27669157	657	676	sociological scales	T170	C0282574
+27669157	678	691	Complications	T046	C0009566
+27669157	712	720	severity	T080	C0439793
+27669157	726	768	therapy-oriented complication score system	T170	C0282574
+27669157	770	798	Clavien-Dindo-Grading system	T170	C0282574
+27669157	800	803	CDG	T170	C0282574
+27669157	835	842	monthly	T079	C0332177
+27669157	843	857	clinical staff	T097	C0025106
+27669157	858	865	meeting	T052	C0556656
+27669157	867	871	Data	T078	C1511726
+27669157	872	883	acquisition	T052	C1706701
+27669157	904	910	clinic	T073,T093	C0442592
+27669157	911	919	workflow	T077	C1710679
+27669157	954	962	patients	T101	C0030705
+27669157	972	980	registry	T062	C0920631
+27669157	1027	1035	patients	T101	C0030705
+27669157	1046	1053	treated	T169	C1522326
+27669157	1062	1071	surgeries	T061	C0543467
+27669157	1081	1094	consultations	T058	C0009818
+27669157	1106	1114	registry	T062	C0920631
+27669157	1174	1187	complications	T046	C0009566
+27669157	1196	1213	patient discharge	T058	C0030685
+27669157	1214	1219	forms	T170	C0282574
+27669157	1243	1256	complications	T046	C0009566
+27669157	1269	1294	pharmacological treatment	T061	C0013216
+27669157	1312	1321	discharge	T058	C0030685
+27669157	1360	1368	severity	T080	C0439793
+27669157	1376	1388	complication	T046	C0009566
+27669157	1397	1425	Karnofsky Performance Status	T060	C0206065
+27669157	1427	1430	KPS	T060	C0206065
+27669157	1451	1454	KPS	T060	C0206065
+27669157	1477	1486	increment	T081	C1705117
+27669157	1490	1493	CDG	T170	C0282574
+27669157	1503	1517	length of stay	T079	C0023303
+27669157	1538	1542	days	T079	C0439228
+27669157	1547	1556	increment	T081	C1705117
+27669157	1560	1563	CDG	T170	C0282574
+27669157	1576	1612	therapy-oriented complication scores	T081	C0449820
+27669157	1644	1651	outcome	T169	C1274040
+27669157	1656	1670	length of stay	T079	C0023303
+27669157	1724	1731	treated	T169	C1522326
+27669157	1733	1740	Outcome	T169	C1274040
+27669157	1741	1748	grading	T185	C0441800
+27669157	1753	1765	complication	T046	C0009566
+27669157	1766	1774	severity	T080	C0439793
+27669157	1775	1782	grading	T185	C0441800
+27669157	1832	1840	registry	T062	C0920631
+27669157	1902	1908	clinic	T073,T093	C0442592
+27669157	1922	1934	complication	T046	C0009566
+27669157	1975	1982	quality	T080	C0332306
+27669157	1983	1993	monitoring	T058	C1283169
+27669157	1998	2011	communication	T054	C0009452
+27669157	2017	2025	patients	T101	C0030705
+27669157	2043	2051	registry	T062	C0920631
+27669157	2063	2080	clinical practice	T058	C1254363
+27669157	2109	2122	documentation	T170	C0920316
+27669157	2127	2156	standard operating procedures	T170	C3889288

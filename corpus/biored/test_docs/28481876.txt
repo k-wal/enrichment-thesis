@@ -1,0 +1,47 @@
+28481876|t|Oncogenic activity of amplified miniature chromosome maintenance 8 in human malignancies.
+28481876|a|Miniature chromosome maintenance (MCM) proteins play critical roles in DNA replication licensing, initiation and elongation. MCM8, one of the MCM proteins playing a critical role in DNA repairing and recombination, was found to have overexpression and increased DNA copy number in a variety of human malignancies. The gain of MCM8 is associated with aggressive clinical features of several human cancers. Increased expression of MCM8 in prostate cancer is associated with cancer recurrence. Forced expression of MCM8 in RWPE1 cells, the immortalized but non-transformed prostate epithelial cell line, exhibited fast cell growth and transformation, while knock down of MCM8 in PC3, DU145 and LNCaP cells induced cell growth arrest, and decreased tumour volumes and mortality of severe combined immunodeficiency mice xenografted with PC3 and DU145 cells. MCM8 bound cyclin D1 and activated Rb protein phosphorylation by cyclin-dependent kinase 4 in vitro and in vivo. The cyclin D1/MCM8 interaction is required for Rb phosphorylation and S-phase entry in cancer cells. As a result, our study showed that copy number increase and overexpression of MCM8 may play critical roles in human cancer development.
+28481876	32	66	miniature chromosome maintenance 8	GeneOrGeneProduct	84515
+28481876	70	75	human	OrganismTaxon	9606
+28481876	76	88	malignancies	DiseaseOrPhenotypicFeature	D009369
+28481876	90	122	Miniature chromosome maintenance	GeneOrGeneProduct	84515
+28481876	124	127	MCM	GeneOrGeneProduct	84515
+28481876	215	219	MCM8	GeneOrGeneProduct	84515
+28481876	232	235	MCM	GeneOrGeneProduct	84515
+28481876	384	389	human	OrganismTaxon	9606
+28481876	390	402	malignancies	DiseaseOrPhenotypicFeature	D009369
+28481876	416	420	MCM8	GeneOrGeneProduct	84515
+28481876	480	485	human	OrganismTaxon	9606
+28481876	486	493	cancers	DiseaseOrPhenotypicFeature	D009369
+28481876	519	523	MCM8	GeneOrGeneProduct	84515
+28481876	527	542	prostate cancer	DiseaseOrPhenotypicFeature	D011471
+28481876	562	568	cancer	DiseaseOrPhenotypicFeature	D009369
+28481876	602	606	MCM8	GeneOrGeneProduct	84515
+28481876	610	615	RWPE1	CellLine	CVCL_3791
+28481876	758	762	MCM8	GeneOrGeneProduct	84515
+28481876	766	769	PC3	CellLine	CVCL_4011
+28481876	771	776	DU145	CellLine	CVCL_0105
+28481876	781	786	LNCaP	CellLine	CVCL_0395
+28481876	835	841	tumour	DiseaseOrPhenotypicFeature	D009369
+28481876	883	899	immunodeficiency	DiseaseOrPhenotypicFeature	D007153
+28481876	900	904	mice	OrganismTaxon	10090
+28481876	922	925	PC3	CellLine	CVCL_4011
+28481876	930	935	DU145	CellLine	CVCL_0105
+28481876	943	947	MCM8	GeneOrGeneProduct	84515
+28481876	954	963	cyclin D1	GeneOrGeneProduct	595
+28481876	978	980	Rb	GeneOrGeneProduct	5925
+28481876	1008	1033	cyclin-dependent kinase 4	GeneOrGeneProduct	1019
+28481876	1060	1069	cyclin D1	GeneOrGeneProduct	595
+28481876	1070	1074	MCM8	GeneOrGeneProduct	84515
+28481876	1103	1105	Rb	GeneOrGeneProduct	5925
+28481876	1143	1149	cancer	DiseaseOrPhenotypicFeature	D009369
+28481876	1235	1239	MCM8	GeneOrGeneProduct	84515
+28481876	1267	1272	human	OrganismTaxon	9606
+28481876	1273	1279	cancer	DiseaseOrPhenotypicFeature	D009369
+28481876	Association	5925	1019	Novel
+28481876	Association	595	5925	Novel
+28481876	Association	84515	1019	Novel
+28481876	Association	84515	5925	Novel
+28481876	Bind	84515	595	Novel
+28481876	Association	84515	D007153	No
+28481876	Association	84515	D011471	Novel
+28481876	Association	84515	D009369	Novel

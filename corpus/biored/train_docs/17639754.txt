@@ -1,0 +1,21 @@
+17639754|t|Interaction between warfarin and levofloxacin: case series.
+17639754|a|Warfarin is the most widely used oral anticoagulant and is indicated for many clinical conditions. Levofloxacin, a fluoroquinolone, is one of the most commonly prescribed antibiotics in clinical practice and is effective against Gram-positive, Gram-negative, and atypical bacteria. While small prospective studies have not revealed any significant drug-drug interaction between warfarin and levofloxacin, several case reports have indicated that levofloxacin may significantly potentiate the anticoagulation effect of warfarin. We report 3 cases of serious bleeding complications that appear to be the result of the interaction between warfarin and levofloxacin. Physicians should be aware of this potential interaction and use caution when prescribing levofloxacin to patients taking warfarin.
+17639754	20	28	warfarin	ChemicalEntity	D014859
+17639754	33	45	levofloxacin	ChemicalEntity	D064704
+17639754	60	68	Warfarin	ChemicalEntity	D014859
+17639754	159	171	Levofloxacin	ChemicalEntity	D064704
+17639754	175	190	fluoroquinolone	ChemicalEntity	D024841
+17639754	332	340	bacteria	OrganismTaxon	2
+17639754	438	446	warfarin	ChemicalEntity	D014859
+17639754	451	463	levofloxacin	ChemicalEntity	D064704
+17639754	506	518	levofloxacin	ChemicalEntity	D064704
+17639754	578	586	warfarin	ChemicalEntity	D014859
+17639754	617	625	bleeding	DiseaseOrPhenotypicFeature	D006470
+17639754	696	704	warfarin	ChemicalEntity	D014859
+17639754	709	721	levofloxacin	ChemicalEntity	D064704
+17639754	813	825	levofloxacin	ChemicalEntity	D064704
+17639754	829	837	patients	OrganismTaxon	9606
+17639754	845	853	warfarin	ChemicalEntity	D014859
+17639754	Positive_Correlation	D064704	D014859	Novel
+17639754	Positive_Correlation	D006470	D064704	Novel
+17639754	Positive_Correlation	D006470	D014859	No

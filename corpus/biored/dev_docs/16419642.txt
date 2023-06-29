@@ -1,0 +1,37 @@
+16419642|t|A novel missense mutation, F826Y, in the mineralocorticoid receptor gene in Japanese hypertensives: its implications for clinical phenotypes.
+16419642|a|A gain-of-function mutation resulting in the S810L amino acid substitution in the hormone-binding domain of the mineralocorticoid receptor (MR, locus symbol NR3C2) is responsible for early-onset hypertension that is exacerbated in pregnancy. The objective of this study was to test whether other types of missense mutations in the hormone-binding domain could be implicated in hypertension in Japanese. Here, we screened 942 Japanese patients with hypertension for the S810L mutation in exon 6 in the MR. We did not identify the S810L mutation in our hypertensive population, indicating that S810L does not play a major role in the etiology of essential hypertension in Japanese. However, we identified a novel missense mutation, F826Y, in three patients in a heterozygous state, in addition to four single nucleotide polymorphisms, including one synonymous mutation (L809L). The F826Y mutation is present in the MR hormone-binding domain and might affect the ligand affinity. The F826Y mutation was also identified in 13 individuals (5 hypertensives and 8 normotensives) in a Japanese general population (n=3,655). The allele frequency was 0.00178. The frequencies of the F826Y mutation in the hypertensive population (3/942) and in the hypertensive group (5/ 1,480) and the normotensive group (8/2,175) in the general population were not significantly different, suggesting that this mutation does not greatly affect hypertension. Although it is unclear at present whether or not the F826Y mutation makes a substantial contribution to the mineralocorticoid receptor activity, this missense mutation may contribute, to some extent, to clinical phenotypes through its effects on MR.
+16419642	27	32	F826Y	SequenceVariant	rs13306592
+16419642	41	67	mineralocorticoid receptor	GeneOrGeneProduct	4306
+16419642	85	98	hypertensives	DiseaseOrPhenotypicFeature	D006973
+16419642	187	192	S810L	SequenceVariant	rs41511344
+16419642	254	280	mineralocorticoid receptor	GeneOrGeneProduct	4306
+16419642	282	284	MR	GeneOrGeneProduct	4306
+16419642	299	304	NR3C2	GeneOrGeneProduct	4306
+16419642	337	349	hypertension	DiseaseOrPhenotypicFeature	D006973
+16419642	519	531	hypertension	DiseaseOrPhenotypicFeature	D006973
+16419642	576	584	patients	OrganismTaxon	9606
+16419642	590	602	hypertension	DiseaseOrPhenotypicFeature	D006973
+16419642	611	616	S810L	SequenceVariant	rs41511344
+16419642	643	645	MR	GeneOrGeneProduct	4306
+16419642	671	676	S810L	SequenceVariant	rs41511344
+16419642	693	705	hypertensive	DiseaseOrPhenotypicFeature	D006973
+16419642	734	739	S810L	SequenceVariant	rs41511344
+16419642	786	808	essential hypertension	DiseaseOrPhenotypicFeature	D000075222
+16419642	872	877	F826Y	SequenceVariant	rs13306592
+16419642	888	896	patients	OrganismTaxon	9606
+16419642	1010	1015	L809L	SequenceVariant	rs145670736
+16419642	1022	1027	F826Y	SequenceVariant	rs13306592
+16419642	1055	1057	MR	GeneOrGeneProduct	4306
+16419642	1123	1128	F826Y	SequenceVariant	rs13306592
+16419642	1179	1192	hypertensives	DiseaseOrPhenotypicFeature	D006973
+16419642	1315	1320	F826Y	SequenceVariant	rs13306592
+16419642	1337	1349	hypertensive	DiseaseOrPhenotypicFeature	D006973
+16419642	1380	1392	hypertensive	DiseaseOrPhenotypicFeature	D006973
+16419642	1561	1573	hypertension	DiseaseOrPhenotypicFeature	D006973
+16419642	1628	1633	F826Y	SequenceVariant	rs13306592
+16419642	1683	1709	mineralocorticoid receptor	GeneOrGeneProduct	4306
+16419642	1821	1823	MR	GeneOrGeneProduct	4306
+16419642	Positive_Correlation	rs41511344	D006973	No
+16419642	Association	D000075222	rs145670736	Novel
+16419642	Association	4306	D006973	Novel
+16419642	Association	rs13306592	D006973	Novel

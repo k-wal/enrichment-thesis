@@ -1,0 +1,28 @@
+24100257|t|Takotsubo syndrome (or apical ballooning syndrome) secondary to Zolmitriptan.
+24100257|a|Takotsubo syndrome (TS), also known as broken heart syndrome, is characterized by left ventricle apical ballooning with elevated cardiac biomarkers and electrocardiographic changes suggestive of an acute coronary syndrome (ie, ST-segment elevation, T wave inversions, and pathologic Q waves). We report a case of 54-year-old woman with medical history of mitral valve prolapse and migraines, who was admitted to the hospital for substernal chest pain and electrocardiogram demonstrated 1/2 mm ST-segment elevation in leads II, III, aVF, V5, and V6 and positive troponin I. Emergent coronary angiogram revealed normal coronary arteries with moderately reduced left ventricular ejection fraction with wall motion abnormalities consistent with TS. Detailed history obtained retrospectively revealed that the patient took zolmitriptan sparingly only when she had migraines. But before this event, she was taking zolmitriptan 2-3 times daily for several days because of a persistent migraine headache. She otherwise reported that she is quite active, rides horses, and does show jumping without any limitations in her physical activity. There was no evidence of any recent stress or status migrainosus. Extensive literature search revealed multiple cases of coronary artery vasospasm secondary to zolmitriptan, but none of the cases were associated with TS.
+24100257	0	18	Takotsubo syndrome	DiseaseOrPhenotypicFeature	D054549
+24100257	23	49	apical ballooning syndrome	DiseaseOrPhenotypicFeature	D054549
+24100257	64	76	Zolmitriptan	ChemicalEntity	C089750
+24100257	78	96	Takotsubo syndrome	DiseaseOrPhenotypicFeature	D054549
+24100257	98	100	TS	DiseaseOrPhenotypicFeature	D054549
+24100257	117	138	broken heart syndrome	DiseaseOrPhenotypicFeature	D054549
+24100257	276	299	acute coronary syndrome	DiseaseOrPhenotypicFeature	D054058
+24100257	403	408	woman	OrganismTaxon	9606
+24100257	433	454	mitral valve prolapse	DiseaseOrPhenotypicFeature	D008945
+24100257	459	468	migraines	DiseaseOrPhenotypicFeature	D008881
+24100257	518	528	chest pain	DiseaseOrPhenotypicFeature	D002637
+24100257	782	802	motion abnormalities	DiseaseOrPhenotypicFeature	D009041
+24100257	819	821	TS	DiseaseOrPhenotypicFeature	D054549
+24100257	883	890	patient	OrganismTaxon	9606
+24100257	896	908	zolmitriptan	ChemicalEntity	C089750
+24100257	937	946	migraines	DiseaseOrPhenotypicFeature	D008881
+24100257	986	998	zolmitriptan	ChemicalEntity	C089750
+24100257	1056	1073	migraine headache	DiseaseOrPhenotypicFeature	D008881
+24100257	1130	1136	horses	OrganismTaxon	9796
+24100257	1256	1274	status migrainosus	DiseaseOrPhenotypicFeature	D008881
+24100257	1331	1356	coronary artery vasospasm	DiseaseOrPhenotypicFeature	D003329
+24100257	1370	1382	zolmitriptan	ChemicalEntity	C089750
+24100257	1427	1429	TS	DiseaseOrPhenotypicFeature	D054549
+24100257	Positive_Correlation	D003329	C089750	No
+24100257	Negative_Correlation	C089750	D008881	No
+24100257	Positive_Correlation	D054549	C089750	Novel

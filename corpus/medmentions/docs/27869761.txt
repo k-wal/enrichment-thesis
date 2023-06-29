@@ -1,0 +1,74 @@
+27869761|t|Effect of Fusarium -Derived Metabolites on the Barrier Integrity of Differentiated Intestinal Porcine Epithelial Cells (IPEC-J2)
+27869761|a|The human, animal and plant pathogen Fusarium, which contaminates agricultural commodities worldwide, produces numerous secondary metabolites. An example is the thoroughly-investigated deoxynivalenol (DON), which severely impairs gastrointestinal barrier integrity. However, to date, the toxicological profile of other Fusarium -derived metabolites, such as enniatins, beauvericin, moniliformin, apicidin, aurofusarin, rubrofusarin, equisetin and bikaverin, are poorly characterized. Thus we examined their effects-as metabolites alone and as metabolites in combination with DON -on the intestinal barrier function of differentiated intestinal porcine epithelial cells (IPEC-J2) over 72 h. Transepithelial electrical resistance (TEER) was measured at 24-h intervals, followed by evaluation of cell viability using neutral red (NR) assay. Enniatins A, A1, B and B1, apicidin, aurofusarin and beauvericin significantly reduced TEER. Moniliformin, equisetin, bikaverin and rubrofusarin had no effect on TEER. In the case of apicidin, aurofusarin and beauvericin, TEER reductions were further substantiated by the addition of otherwise no-effect DON concentrations. In all cases, viability was unaffected, confirming that TEER reductions were not due to compromised viability. Considering the prevalence of mycotoxin contamination and the diseases associated with intestinal barrier disruption, consumption of contaminated food or feed may have substantial health implications.
+27869761	10	18	Fusarium	T004	C0016871
+27869761	28	39	Metabolites	T123	C0870883
+27869761	47	64	Barrier Integrity	T080	C1947912
+27869761	83	93	Intestinal	T023	C0021853
+27869761	94	101	Porcine	T015	C0039005
+27869761	102	118	Epithelial Cells	T025	C0014597
+27869761	120	127	IPEC-J2	T025	C0014597
+27869761	133	138	human	T016	C0086418
+27869761	140	146	animal	T008	C0003062
+27869761	151	156	plant	T002	C0032098
+27869761	157	174	pathogen Fusarium	T004	C0016871
+27869761	182	194	contaminates	T169	C0205279
+27869761	195	219	agricultural commodities	T002	C0242775
+27869761	249	270	secondary metabolites	T123	C0870883
+27869761	314	328	deoxynivalenol	T109,T131	C0057445
+27869761	330	333	DON	T109,T131	C0057445
+27869761	351	358	impairs	T169	C1883709
+27869761	359	375	gastrointestinal	T082	C0521362
+27869761	376	393	barrier integrity	T080	C1947912
+27869761	417	438	toxicological profile	T059	C0852616
+27869761	448	456	Fusarium	T004	C0016871
+27869761	466	477	metabolites	T123	C0870883
+27869761	487	496	enniatins	T116,T195	C0059362
+27869761	498	509	beauvericin	T116,T195	C0053065
+27869761	511	523	moniliformin	T109,T131	C0066713
+27869761	525	533	apicidin	T109,T121	C0531691
+27869761	535	546	aurofusarin	T109	C0661658
+27869761	548	560	rubrofusarin	T109,T121	C0084424
+27869761	562	571	equisetin	T109,T121	C0059495
+27869761	576	585	bikaverin	T109	C0053576
+27869761	647	658	metabolites	T123	C0870883
+27869761	672	683	metabolites	T123	C0870883
+27869761	704	707	DON	T109,T131	C0057445
+27869761	716	743	intestinal barrier function	T074	C3688176
+27869761	762	772	intestinal	T023	C0021853
+27869761	773	780	porcine	T015	C0039005
+27869761	781	797	epithelial cells	T025	C0014597
+27869761	799	806	IPEC-J2	T025	C0014597
+27869761	819	834	Transepithelial	T043	C2753390
+27869761	835	856	electrical resistance	T070	C0162535
+27869761	858	862	TEER	T070	C0162535
+27869761	922	936	cell viability	T043	C1516362
+27869761	943	965	neutral red (NR) assay	T059	C1293998
+27869761	967	978	Enniatins A	T116,T195	C0116182
+27869761	980	982	A1	T116,T195	C0059362
+27869761	984	985	B	T116,T195	C0116183
+27869761	990	992	B1	T116,T195	C0059362
+27869761	994	1002	apicidin	T109,T121	C0531691
+27869761	1004	1015	aurofusarin	T109	C0661658
+27869761	1020	1031	beauvericin	T116,T195	C0053065
+27869761	1054	1058	TEER	T070	C0162535
+27869761	1060	1072	Moniliformin	T109,T131	C0066713
+27869761	1074	1083	equisetin	T109,T121	C0059495
+27869761	1085	1094	bikaverin	T109	C0053576
+27869761	1099	1111	rubrofusarin	T109,T121	C0084424
+27869761	1129	1133	TEER	T070	C0162535
+27869761	1150	1158	apicidin	T109,T121	C0531691
+27869761	1160	1171	aurofusarin	T109	C0661658
+27869761	1176	1187	beauvericin	T116,T195	C0053065
+27869761	1189	1193	TEER	T070	C0162535
+27869761	1271	1274	DON	T109,T131	C0057445
+27869761	1305	1314	viability	T043	C1516362
+27869761	1347	1351	TEER	T070	C0162535
+27869761	1352	1362	reductions	T080	C0392756
+27869761	1391	1400	viability	T043	C1516362
+27869761	1432	1441	mycotoxin	T109,T131	C0026955
+27869761	1442	1455	contamination	T078	C2349974
+27869761	1464	1472	diseases	T047	C0012634
+27869761	1489	1507	intestinal barrier	T074	C3688176
+27869761	1508	1518	disruption	T169	C0332453
+27869761	1520	1560	consumption of contaminated food or feed	T033	C0559583
+27869761	1570	1601	substantial health implications	T033	C0243095

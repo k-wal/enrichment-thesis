@@ -1,0 +1,63 @@
+20959502|t|Cerebrospinal fluid penetration of high-dose daptomycin in suspected Staphylococcus aureus meningitis.
+20959502|a|OBJECTIVE: To report a case of methicillin-sensitive Staphylococcus aureus (MSSA) bacteremia with suspected MSSA meningitis treated with high-dose daptomycin assessed with concurrent serum and cerebrospinal fluid (CSF) concentrations. CASE SUMMARY: A 54-year-old male presented to the emergency department with generalized weakness and presumed health-care-associated pneumonia shown on chest radiograph. Treatment was empirically initiated with vancomycin, levofloxacin, and piperacillin/tazobactam. Blood cultures revealed S. aureus susceptible to oxacillin. Empiric antibiotic treatment was narrowed to nafcillin on day 4. On day 8, the patient developed acute renal failure (serum creatinine 1.9 mg/dL, increased from 1.2 mg/dL the previous day and 0.8 mg/dL on admission). The patient's Glasgow Coma Score was 3, with normal findings shown on computed tomography scan of the head 72 hours following an episode of cardiac arrest on day 10. The patient experienced relapsing MSSA bacteremia on day 9, increasing the suspicion for a central nervous system (CNS) infection. Nafcillin was discontinued and daptomycin 9 mg/kg daily was initiated for suspected meningitis and was continued until the patient's death on day 16. Daptomycin serum and CSF trough concentrations were 11.21 ug/mL and 0.52 ug/mL, respectively, prior to the third dose. Lumbar puncture results were inconclusive and no further blood cultures were positive for MSSA. Creatine kinase levels were normal prior to daptomycin therapy and were not reassessed. DISCUSSION: Daptomycin was initiated in our patient secondary to possible nafcillin-induced acute interstitial nephritis and relapsing bacteremia. At a dose of 9 mg/kg, resultant penetration of 5% was higher than in previous reports, more consistent with inflamed meninges. CONCLUSIONS: High-dose daptomycin may be an alternative option for MSSA bacteremia with or without a CNS source in patients who have failed or cannot tolerate standard therapy. Further clinical evaluation in patients with confirmed meningitis is warranted.
+20959502	45	55	daptomycin	ChemicalEntity	D017576
+20959502	69	90	Staphylococcus aureus	OrganismTaxon	1280
+20959502	91	101	meningitis	DiseaseOrPhenotypicFeature	D008581
+20959502	134	145	methicillin	ChemicalEntity	D008712
+20959502	156	177	Staphylococcus aureus	OrganismTaxon	1280
+20959502	185	195	bacteremia	DiseaseOrPhenotypicFeature	D016470
+20959502	216	226	meningitis	DiseaseOrPhenotypicFeature	D008581
+20959502	250	260	daptomycin	ChemicalEntity	D017576
+20959502	426	434	weakness	DiseaseOrPhenotypicFeature	D018908
+20959502	471	480	pneumonia	DiseaseOrPhenotypicFeature	D011014
+20959502	549	559	vancomycin	ChemicalEntity	D014640
+20959502	561	573	levofloxacin	ChemicalEntity	D064704
+20959502	579	602	piperacillin/tazobactam	ChemicalEntity	D000077725
+20959502	628	637	S. aureus	OrganismTaxon	1280
+20959502	653	662	oxacillin	ChemicalEntity	D010068
+20959502	672	682	antibiotic	ChemicalEntity	D000900
+20959502	709	718	nafcillin	ChemicalEntity	D009254
+20959502	743	750	patient	OrganismTaxon	9606
+20959502	761	780	acute renal failure	DiseaseOrPhenotypicFeature	D058186
+20959502	788	798	creatinine	ChemicalEntity	D003404
+20959502	885	892	patient	OrganismTaxon	9606
+20959502	903	907	Coma	DiseaseOrPhenotypicFeature	D003128
+20959502	1021	1035	cardiac arrest	DiseaseOrPhenotypicFeature	D006323
+20959502	1051	1058	patient	OrganismTaxon	9606
+20959502	1086	1096	bacteremia	DiseaseOrPhenotypicFeature	D016470
+20959502	1138	1176	central nervous system (CNS) infection	DiseaseOrPhenotypicFeature	D002494
+20959502	1178	1187	Nafcillin	ChemicalEntity	D009254
+20959502	1209	1219	daptomycin	ChemicalEntity	D017576
+20959502	1262	1272	meningitis	DiseaseOrPhenotypicFeature	D008581
+20959502	1301	1308	patient	OrganismTaxon	9606
+20959502	1311	1316	death	DiseaseOrPhenotypicFeature	D003643
+20959502	1328	1338	Daptomycin	ChemicalEntity	D017576
+20959502	1543	1558	Creatine kinase	GeneOrGeneProduct	1152
+20959502	1587	1597	daptomycin	ChemicalEntity	D017576
+20959502	1643	1653	Daptomycin	ChemicalEntity	D017576
+20959502	1675	1682	patient	OrganismTaxon	9606
+20959502	1705	1714	nafcillin	ChemicalEntity	D009254
+20959502	1729	1751	interstitial nephritis	DiseaseOrPhenotypicFeature	D009395
+20959502	1766	1776	bacteremia	DiseaseOrPhenotypicFeature	D016470
+20959502	1928	1938	daptomycin	ChemicalEntity	D017576
+20959502	1977	1987	bacteremia	DiseaseOrPhenotypicFeature	D016470
+20959502	2020	2028	patients	OrganismTaxon	9606
+20959502	2113	2121	patients	OrganismTaxon	9606
+20959502	2137	2147	meningitis	DiseaseOrPhenotypicFeature	D008581
+20959502	Negative_Correlation	D000900	D011014	No
+20959502	Positive_Correlation	D009254	D009395	No
+20959502	Positive_Correlation	D009254	D016470	No
+20959502	Association	D008712	D016470	No
+20959502	Negative_Correlation	D017576	D009395	No
+20959502	Negative_Correlation	D017576	D016470	Novel
+20959502	Negative_Correlation	D017576	D008581	Novel
+20959502	Positive_Correlation	D058186	D003404	No
+20959502	Negative_Correlation	D011014	D000077725	No
+20959502	Negative_Correlation	D011014	D064704	No
+20959502	Negative_Correlation	D011014	D014640	No
+20959502	Negative_Correlation	D018908	D000077725	No
+20959502	Negative_Correlation	D018908	D064704	No
+20959502	Negative_Correlation	D018908	D014640	No
+20959502	Cotreatment	D064704	D000077725	No
+20959502	Cotreatment	D014640	D000077725	No
+20959502	Cotreatment	D014640	D064704	No

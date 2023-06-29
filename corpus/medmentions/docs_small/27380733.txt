@@ -1,0 +1,23 @@
+27380733|t|Dynamic Contrast-enhanced MR Imaging in Renal Cell Carcinoma: Reproducibility of Histogram Analysis on Pharmacokinetic Parameters
+27380733|a|Pharmacokinetic parameters derived from dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) have been increasingly used to evaluate the permeability of tumor vessel. Histogram metrics are a recognized promising method of quantitative MR imaging that has been recently introduced in analysis of DCE-MRI pharmacokinetic parameters in oncology due to tumor heterogeneity. In this study, 21 patients with renal cell carcinoma (RCC) underwent paired DCE-MRI studies on a 3.0 T MR system. Extended Tofts model and population-based arterial input function were used to calculate kinetic parameters of RCC tumors. Mean value and histogram metrics (Mode, Skewness and Kurtosis) of each pharmacokinetic parameter were generated automatically using ImageJ software. Intra- and inter-observer reproducibility and scan-rescan reproducibility were evaluated using intra-class correlation coefficients (ICCs) and coefficient of variation (CoV). Our results demonstrated that the histogram method (Mode, Skewness and Kurtosis) was not superior to the conventional Mean value method in reproducibility evaluation on DCE-MRI pharmacokinetic parameters (K(trans) &Ve) in renal cell carcinoma, especially for Skewness and Kurtosis which showed lower intra-, inter-observer and scan-rescan reproducibility than Mean value. Our findings suggest that additional studies are necessary before wide incorporation of histogram metrics in quantitative analysis of DCE-MRI pharmacokinetic parameters.
+27380733	0	36	Dynamic Contrast-enhanced MR Imaging	T058	UMLS:C1831914
+27380733	40	60	Renal Cell Carcinoma	T038	UMLS:C0007134
+27380733	170	222	dynamic contrast-enhanced magnetic resonance imaging	T058	UMLS:C1831914
+27380733	224	231	DCE-MRI	T058	UMLS:C1831914
+27380733	293	305	tumor vessel	T038	UMLS:C0027668
+27380733	375	385	MR imaging	T058	UMLS:C0024485
+27380733	435	442	DCE-MRI	T058	UMLS:C1831914
+27380733	473	481	oncology	T091	UMLS:C0278627
+27380733	542	562	renal cell carcinoma	T038	UMLS:C0007134
+27380733	564	567	RCC	T038	UMLS:C0007134
+27380733	586	593	DCE-MRI	T058	UMLS:C1831914
+27380733	613	622	MR system	T074	UMLS:C0336660
+27380733	633	644	Tofts model	T170	UMLS:C0282574
+27380733	649	665	population-based	T062	UMLS:C1709599
+27380733	666	674	arterial	T082	UMLS:C0221464
+27380733	675	689	input function	T170	UMLS:C2986843
+27380733	735	738	RCC	T038	UMLS:C0007134
+27380733	739	745	tumors	T038	UMLS:C0027651
+27380733	1240	1247	DCE-MRI	T058	UMLS:C1831914
+27380733	1293	1313	renal cell carcinoma	T038	UMLS:C0007134
+27380733	1577	1584	DCE-MRI	T058	UMLS:C1831914

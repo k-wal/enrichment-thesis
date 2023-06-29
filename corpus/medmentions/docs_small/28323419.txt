@@ -1,0 +1,50 @@
+28323419|t|The Role of SufS Is Restricted to Fe-S Cluster Biosynthesis in Escherichia coli
+28323419|a|In Escherichia coli, two different systems that are important for the coordinate formation of Fe-S clusters have been identified, namely, the ISC and SUF systems. The ISC system is the housekeeping Fe-S machinery, which provides Fe-S clusters for numerous cellular proteins. The IscS protein of this system was additionally revealed to be the primary sulfur donor for several sulfur-containing molecules with important biological functions, among which are the molybdenum cofactor (Moco) and thiolated nucleosides in tRNA. Here, we show that deletion of central components of the ISC system in addition to IscS leads to an overall decrease in Fe-S cluster enzyme and molybdoenzyme activity in addition to a decrease in the number of Fe-S - dependent thiomodifications of tRNA, based on the fact that some proteins involved in Moco biosynthesis and tRNA thiolation are Fe-S - dependent. Complementation of the ISC deficient strains with the suf operon restored the activity of Fe-S-containing proteins, including the MoaA protein, which is involved in the conversion of 5'GTP to cyclic pyranopterin monophosphate in the fist step of Moco biosynthesis. While both systems share a high degree of similarity, we show that the function of their respective l-cysteine desulfurase IscS or SufS is specific for each cellular pathway. It is revealed that SufS cannot play the role of IscS in sulfur transfer for the formation of 2-thiouridine, 4-thiouridine, or the dithiolene group of molybdopterin, being unable to interact with TusA or ThiI. The results demonstrate that the role of the SUF system is exclusively restricted to Fe-S cluster assembly in the cell.
+28323419	12	16	SufS	T017	UMLS:C3824407
+28323419	34	46	Fe-S Cluster	T017	UMLS:C3824418
+28323419	63	79	Escherichia coli	T007	UMLS:C0014834
+28323419	83	99	Escherichia coli	T007	UMLS:C0014834
+28323419	174	187	Fe-S clusters	T017	UMLS:C3824418
+28323419	222	225	ISC	T017	UMLS:C3824418
+28323419	230	241	SUF systems	T017	UMLS:C3824407
+28323419	247	257	ISC system	T017	UMLS:C3824418
+28323419	265	292	housekeeping Fe-S machinery	T017	UMLS:C1334046
+28323419	309	322	Fe-S clusters	T017	UMLS:C3824418
+28323419	336	353	cellular proteins	T103	UMLS:C0033684
+28323419	359	371	IscS protein	T103	UMLS:C0675681
+28323419	499	519	biological functions	T038	UMLS:C3714634
+28323419	541	560	molybdenum cofactor	T103	UMLS:C0066697
+28323419	562	566	Moco	T103	UMLS:C0066697
+28323419	572	601	thiolated nucleosides in tRNA	T038	UMLS:C2247814
+28323419	622	630	deletion	T038	UMLS:C0162773
+28323419	660	670	ISC system	T017	UMLS:C3824418
+28323419	686	690	IscS	T103	UMLS:C0675681
+28323419	723	735	Fe-S cluster	T017	UMLS:C3824418
+28323419	736	742	enzyme	T103	UMLS:C0014442
+28323419	747	769	molybdoenzyme activity	T038	UMLS:C0243102
+28323419	813	817	Fe-S	T017	UMLS:C3824418
+28323419	830	855	thiomodifications of tRNA	T038	UMLS:C2247814
+28323419	885	893	proteins	T103	UMLS:C0033684
+28323419	906	910	Moco	T103	UMLS:C0066697
+28323419	928	943	tRNA thiolation	T038	UMLS:C2247814
+28323419	948	952	Fe-S	T017	UMLS:C3824418
+28323419	989	992	ISC	T017	UMLS:C3824417
+28323419	1020	1023	suf	T017	UMLS:C3824407
+28323419	1024	1030	operon	T017	UMLS:C0029073
+28323419	1056	1080	Fe-S-containing proteins	T103	UMLS:C0022095
+28323419	1096	1108	MoaA protein	T103	UMLS:C4044190
+28323419	1149	1154	5'GTP	T103	UMLS:C0018353
+28323419	1158	1191	cyclic pyranopterin monophosphate	T103	UMLS:C2934004
+28323419	1212	1216	Moco	T103	UMLS:C0066697
+28323419	1331	1366	l-cysteine desulfurase IscS or SufS	T038	UMLS:C1150999
+28323419	1388	1404	cellular pathway	T038	UMLS:C1704259
+28323419	1426	1430	SufS	T017	UMLS:C3824407
+28323419	1455	1459	IscS	T103	UMLS:C0675681
+28323419	1500	1513	2-thiouridine	T103	UMLS:C0537592
+28323419	1515	1528	4-thiouridine	T103	UMLS:C0039959
+28323419	1557	1570	molybdopterin	T103	UMLS:C0066697
+28323419	1602	1606	TusA	T103	UMLS:C2973840
+28323419	1610	1614	ThiI	T103	UMLS:C1436246
+28323419	1661	1671	SUF system	T017	UMLS:C3824407
+28323419	1701	1722	Fe-S cluster assembly	T017	UMLS:C3824418
+28323419	1730	1734	cell	T017	UMLS:C0007634

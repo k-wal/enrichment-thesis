@@ -1,0 +1,93 @@
+27840175|t|Prognostic significance of intraoperative peritoneal washing cytology for patients with potentially resectable pancreatic ductal adenocarcinoma
+27840175|a|The prognostic significance of intraoperative peritoneal washing cytology (IPWC) in pancreatic ductal adenocarcinoma (PDAC) remains controversial, and the treatment strategy for PDAC patients with positive cytology has not been established. The objective of this study was to evaluate the clinical significance of IPWC in PDAC patients. This study included a retrospective cohort of 166 patients with curatively resected PDAC who underwent IPWC. Overall, 17 patients (10%) had positive cytology (CY+), and 149 (90%) patients were negative (CY-). Tumor location in the pancreatic body and/or tail and pancreatic anterior capsular invasion were independent predictors of a CY+ status (P = 0.012 and 0.041, respectively). The initial recurrence occurred at the peritoneum with a significantly higher frequency in CY+ patients (50%) than in CY- patients (12%) (P = 0.003). The median overall survival (OS) for CY+ patients was 12 months. The OS rates at 1 and 3 years were significantly higher for CY- patients (75.1% and 35.3%, respectively) versus CY+ patients (47.1% and 17.6%, respectively; P = 0.012). However, one CY+ patient survived for 66 months, and another two CY+ patients have survived for more than three years after surgery without evidence of peritoneal recurrence. In the multivariate analysis, the independent predictors of OS were a CY+ status, lymph node metastasis, and adjuvant chemotherapy. This study demonstrates that positive IPWC predicts early peritoneal recurrence and a poor prognosis for PDAC patients. However, a small but not insignificant subset of CY+ patients with PDAC may avoid peritoneal carcinomatosis.
+27840175	0	10	Prognostic	T170	C0220901
+27840175	27	41	intraoperative	T079	C0456904
+27840175	27	69	intraoperative peritoneal washing cytology	T061	C0087111
+27840175	42	52	peritoneal	T029	C0442034
+27840175	74	82	patients	T101	C0030705
+27840175	100	110	resectable	T080	C1514888
+27840175	111	143	pancreatic ductal adenocarcinoma	T191	C1335302
+27840175	148	158	prognostic	T170	C0220901
+27840175	175	189	intraoperative	T079	C0456904
+27840175	175	217	intraoperative peritoneal washing cytology	T061	C0087111
+27840175	190	200	peritoneal	T029	C0442034
+27840175	219	223	IPWC	T061	C0087111
+27840175	228	260	pancreatic ductal adenocarcinoma	T191	C1335302
+27840175	262	266	PDAC	T191	C1335302
+27840175	299	308	treatment	T061	C0087111
+27840175	309	317	strategy	T041	C0679199
+27840175	322	326	PDAC	T191	C1335302
+27840175	327	335	patients	T101	C0030705
+27840175	341	358	positive cytology	T033	C3846509
+27840175	433	454	clinical significance	T033	C2826293
+27840175	458	462	IPWC	T061	C0087111
+27840175	466	470	PDAC	T191	C1335302
+27840175	471	479	patients	T101	C0030705
+27840175	503	516	retrospective	T080	C1514923
+27840175	517	523	cohort	T098	C0599755
+27840175	531	539	patients	T101	C0030705
+27840175	556	564	resected	T080	C1521996
+27840175	565	569	PDAC	T191	C1335302
+27840175	584	588	IPWC	T061	C0087111
+27840175	602	610	patients	T101	C0030705
+27840175	621	638	positive cytology	T033	C3846509
+27840175	640	643	CY+	T033	C3846509
+27840175	660	668	patients	T101	C0030705
+27840175	674	682	negative	T033	C0586825
+27840175	684	687	CY-	T033	C0586825
+27840175	690	695	Tumor	T191	C0027651
+27840175	696	704	location	T082	C0450429
+27840175	712	727	pancreatic body	T023	C0227582
+27840175	735	739	tail	T023	C0227590
+27840175	744	763	pancreatic anterior	T023	C0178784
+27840175	764	781	capsular invasion	T033	C1707265
+27840175	799	809	predictors	T078	C2698872
+27840175	815	818	CY+	T033	C3846509
+27840175	819	825	status	T080	C0449438
+27840175	875	885	recurrence	T067	C0034897
+27840175	902	912	peritoneum	T024	C0031153
+27840175	941	950	frequency	T079	C0376249
+27840175	954	957	CY+	T033	C3846509
+27840175	958	966	patients	T101	C0030705
+27840175	981	984	CY-	T033	C0586825
+27840175	985	993	patients	T101	C0030705
+27840175	1024	1040	overall survival	T081	C4086681
+27840175	1042	1044	OS	T081	C4086681
+27840175	1050	1053	CY+	T033	C3846509
+27840175	1054	1062	patients	T101	C0030705
+27840175	1070	1076	months	T079	C0439231
+27840175	1082	1084	OS	T081	C4086681
+27840175	1085	1090	rates	T081	C1521828
+27840175	1102	1107	years	T079	C0439234
+27840175	1138	1141	CY-	T033	C0586825
+27840175	1142	1150	patients	T101	C0030705
+27840175	1190	1193	CY+	T033	C3846509
+27840175	1194	1202	patients	T101	C0030705
+27840175	1260	1263	CY+	T033	C3846509
+27840175	1264	1271	patient	T101	C0030705
+27840175	1288	1294	months	T079	C0439231
+27840175	1312	1315	CY+	T033	C3846509
+27840175	1316	1324	patients	T101	C0030705
+27840175	1359	1364	years	T079	C0439234
+27840175	1371	1378	surgery	T061	C0543467
+27840175	1399	1409	peritoneal	T029	C0442034
+27840175	1410	1420	recurrence	T067	C0034897
+27840175	1429	1450	multivariate analysis	T081	C0026777
+27840175	1468	1478	predictors	T078	C2698872
+27840175	1482	1484	OS	T081	C4086681
+27840175	1492	1495	CY+	T033	C3846509
+27840175	1496	1502	status	T080	C0449438
+27840175	1504	1514	lymph node	T023	C0024204
+27840175	1515	1525	metastasis	T046	C4255448
+27840175	1531	1552	adjuvant chemotherapy	T061	C0085533
+27840175	1583	1591	positive	T033	C1446409
+27840175	1592	1596	IPWC	T061	C0087111
+27840175	1612	1622	peritoneal	T029	C0442034
+27840175	1623	1633	recurrence	T067	C0034897
+27840175	1640	1654	poor prognosis	T033	C0278252
+27840175	1659	1663	PDAC	T191	C1335302
+27840175	1664	1672	patients	T101	C0030705
+27840175	1723	1726	CY+	T033	C3846509
+27840175	1727	1735	patients	T101	C0030705
+27840175	1741	1745	PDAC	T191	C1335302
+27840175	1756	1781	peritoneal carcinomatosis	T191	C0346990

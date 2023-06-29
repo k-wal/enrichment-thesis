@@ -1,0 +1,63 @@
+19759529|t|The glycine transporter-1 inhibitor SSR103800 displays a selective and specific antipsychotic-like profile in normal and transgenic mice.
+19759529|a|Schizophrenia has been initially associated with dysfunction in dopamine neurotransmission. However, the observation that antagonists of the glutamate N-methyl-D-aspartate (NMDA) receptor produce schizophrenic-like symptoms in humans has led to the idea of a dysfunctioning of the glutamatergic system via its NMDA receptor. As a result, there is a growing interest in the development of pharmacological agents with potential antipsychotic properties that enhance the activity of the glutamatergic system via a modulation of the NMDA receptor. Among them are glycine transporter-1 (GlyT1) inhibitors such as SSR103800, which indirectly enhance NMDA receptor function by increasing the glycine (a co-agonist for the NMDA receptor) levels in the synapse. This study aimed at investigating the potential antipsychotic-like properties of SSR103800, with a particular focus on models of hyperactivity, involving either drug challenge (ie, amphetamine and MK-801) or transgenic mice (ie, NMDA Nr1(neo-/-) and DAT(-/-)). Results showed that SSR103800 (10-30 mg/kg p.o.) blocked hyperactivity induced by the non-competitive NMDA receptor antagonist, MK-801 and partially reversed spontaneous hyperactivity of NMDA Nr1(neo-/-) mice. In contrast, SSR103800 failed to affect hyperactivity induced by amphetamine or naturally observed in dopamine transporter (DAT(-/-)) knockout mice (10-30 mg/kg p.o.). Importantly, both classical (haloperidol) and atypical (olanzapine, clozapine and aripiprazole) antipsychotics were effective in all these models of hyperactivity. However, unlike these latter, SSR103800 did not produce catalepsy (retention on the bar test) up to 30 mg/kg p.o. Together these findings show that the GlyT1 inhibitor, SSR103800, produces antipsychotic-like effects, which differ from those observed with compounds primarily targeting the dopaminergic system, and has a reduced side-effect potential as compared with these latter drugs.
+19759529	4	25	glycine transporter-1	GeneOrGeneProduct	14664
+19759529	36	45	SSR103800	ChemicalEntity	-
+19759529	132	136	mice	OrganismTaxon	10090
+19759529	138	151	Schizophrenia	DiseaseOrPhenotypicFeature	D012559
+19759529	202	210	dopamine	ChemicalEntity	D004298
+19759529	279	325	glutamate N-methyl-D-aspartate (NMDA) receptor	GeneOrGeneProduct	14810
+19759529	334	347	schizophrenic	DiseaseOrPhenotypicFeature	D012559
+19759529	365	371	humans	OrganismTaxon	9606
+19759529	448	461	NMDA receptor	GeneOrGeneProduct	14810
+19759529	667	680	NMDA receptor	GeneOrGeneProduct	14810
+19759529	697	718	glycine transporter-1	GeneOrGeneProduct	14664
+19759529	720	725	GlyT1	GeneOrGeneProduct	14664
+19759529	746	755	SSR103800	ChemicalEntity	-
+19759529	782	795	NMDA receptor	GeneOrGeneProduct	14810
+19759529	823	830	glycine	ChemicalEntity	D005998
+19759529	853	866	NMDA receptor	GeneOrGeneProduct	14810
+19759529	972	981	SSR103800	ChemicalEntity	-
+19759529	1020	1033	hyperactivity	DiseaseOrPhenotypicFeature	D006948
+19759529	1072	1083	amphetamine	ChemicalEntity	D000661
+19759529	1088	1094	MK-801	ChemicalEntity	D016291
+19759529	1110	1114	mice	OrganismTaxon	10090
+19759529	1120	1128	NMDA Nr1	GeneOrGeneProduct	14810
+19759529	1141	1144	DAT	GeneOrGeneProduct	13162
+19759529	1172	1181	SSR103800	ChemicalEntity	-
+19759529	1209	1222	hyperactivity	DiseaseOrPhenotypicFeature	D006948
+19759529	1254	1267	NMDA receptor	GeneOrGeneProduct	14810
+19759529	1280	1286	MK-801	ChemicalEntity	D016291
+19759529	1322	1335	hyperactivity	DiseaseOrPhenotypicFeature	D006948
+19759529	1339	1347	NMDA Nr1	GeneOrGeneProduct	14810
+19759529	1356	1360	mice	OrganismTaxon	10090
+19759529	1375	1384	SSR103800	ChemicalEntity	-
+19759529	1402	1415	hyperactivity	DiseaseOrPhenotypicFeature	D006948
+19759529	1427	1438	amphetamine	ChemicalEntity	D000661
+19759529	1464	1484	dopamine transporter	GeneOrGeneProduct	13162
+19759529	1486	1489	DAT	GeneOrGeneProduct	13162
+19759529	1505	1509	mice	OrganismTaxon	10090
+19759529	1559	1570	haloperidol	ChemicalEntity	D006220
+19759529	1586	1596	olanzapine	ChemicalEntity	C076029
+19759529	1598	1607	clozapine	ChemicalEntity	D003024
+19759529	1612	1624	aripiprazole	ChemicalEntity	C094645
+19759529	1679	1692	hyperactivity	DiseaseOrPhenotypicFeature	D006948
+19759529	1724	1733	SSR103800	ChemicalEntity	-
+19759529	1750	1759	catalepsy	DiseaseOrPhenotypicFeature	D002375
+19759529	1846	1851	GlyT1	GeneOrGeneProduct	14664
+19759529	1863	1872	SSR103800	ChemicalEntity	-
+19759529	1983	1995	dopaminergic	ChemicalEntity	D004298
+19759529	Positive_Correlation	C094645	D002375	No
+19759529	Negative_Correlation	C094645	D006948	Novel
+19759529	Positive_Correlation	D003024	D002375	No
+19759529	Negative_Correlation	D003024	D006948	Novel
+19759529	Positive_Correlation	C076029	D002375	No
+19759529	Negative_Correlation	C076029	D006948	Novel
+19759529	Positive_Correlation	D006220	D002375	No
+19759529	Negative_Correlation	D006220	D006948	Novel
+19759529	Association	D012559	D004298	No
+19759529	Positive_Correlation	D006948	D000661	No
+19759529	Positive_Correlation	D006948	D016291	Novel
+19759529	Association	D006948	14810	Novel
+19759529	Association	14810	D012559	No
+19759529	Negative_Correlation	14810	D016291	Novel
+19759529	Positive_Correlation	D005998	14810	Novel

@@ -1,0 +1,58 @@
+28054422|t|An approach to functionally relevant clustering of the protein universe: Active site profile-based clustering of protein structures and sequences
+28054422|a|Protein function identification remains a significant problem. Solving this problem at the molecular functional level would allow mechanistic determinant identification- amino acids that distinguish details between functional families within a superfamily. Active site profiling was developed to identify mechanistic determinants. DASP and DASP2 were developed as tools to search sequence databases using active site profiling. Here, TuLIP (Two-Level Iterative clustering Process) is introduced as an iterative, divisive clustering process that utilizes active site profiling to separate structurally characterized superfamily members into functionally relevant clusters. Underlying TuLIP is the observation that functionally relevant families (curated by Structure-Function Linkage Database, SFLD) self-identify in DASP2 searches; clusters containing multiple functional families do not. Each TuLIP iteration produces candidate clusters, each evaluated to determine if it self-identifies using DASP2. If so, it is deemed a functionally relevant group. Divisive clustering continues until each structure is either a functionally relevant group member or a singlet. TuLIP is validated on enolase and glutathione transferase structures, superfamilies well-curated by SFLD. Correlation is strong; small numbers of structures prevent statistically significant analysis. TuLIP -identified enolase clusters are used in DASP2 GenBank searches to identify sequences sharing functional site features. Analysis shows a true positive rate of 96%, false negative rate of 4%, and maximum false positive rate of 4%. F-measure and performance analysis on the enolase search results and comparison to GEMMA and SCI-PHY demonstrate that TuLIP avoids the over-division problem of these methods. Mechanistic determinants for enolase families are evaluated and shown to correlate well with literature results.
+28054422	37	47	clustering	T169	C1522242
+28054422	55	71	protein universe	T116,T123	C0033684
+28054422	73	109	Active site profile-based clustering	T169	C1522242
+28054422	113	131	protein structures	T116	C1510464
+28054422	136	145	sequences	T087	C0002518
+28054422	146	162	Protein function	T044	C1527118
+28054422	237	263	molecular functional level	T080	C0935587
+28054422	316	327	amino acids	T116,T121,T123	C0002520
+28054422	361	380	functional families	T078	C1254370
+28054422	390	401	superfamily	T078	C1254370
+28054422	403	424	Active site profiling	T062	C0242481
+28054422	477	481	DASP	T170	C2348167
+28054422	486	491	DASP2	T170	C2348167
+28054422	526	544	sequence databases	T170	C0950141
+28054422	551	572	active site profiling	T062	C0242481
+28054422	580	585	TuLIP	T170	C0025663
+28054422	587	625	Two-Level Iterative clustering Process	T170	C0025663
+28054422	667	685	clustering process	T169	C1522242
+28054422	700	721	active site profiling	T062	C0242481
+28054422	761	772	superfamily	T078	C1254370
+28054422	808	816	clusters	T081	C1704332
+28054422	829	834	TuLIP	T170	C0025663
+28054422	859	889	functionally relevant families	T078	C1254370
+28054422	902	937	Structure-Function Linkage Database	T170	C0242356
+28054422	939	943	SFLD	T170	C0242356
+28054422	962	967	DASP2	T170	C2348167
+28054422	978	986	clusters	T081	C1704332
+28054422	998	1026	multiple functional families	T078	C1254370
+28054422	1040	1045	TuLIP	T170	C0025663
+28054422	1075	1083	clusters	T081	C1704332
+28054422	1141	1146	DASP2	T170	C2348167
+28054422	1170	1197	functionally relevant group	T078	C1254370
+28054422	1208	1218	clustering	T169	C1522242
+28054422	1262	1289	functionally relevant group	T078	C1254370
+28054422	1311	1316	TuLIP	T170	C0025663
+28054422	1333	1340	enolase	T116,T126	C0031691
+28054422	1345	1368	glutathione transferase	T116,T126	C0017837
+28054422	1369	1379	structures	T116,T126	C0596527
+28054422	1381	1394	superfamilies	T078	C1254370
+28054422	1411	1415	SFLD	T170	C0242356
+28054422	1417	1428	Correlation	T080	C1707520
+28054422	1457	1467	structures	T082	C0678594
+28054422	1476	1510	statistically significant analysis	T062	C0871424
+28054422	1512	1517	TuLIP	T170	C0025663
+28054422	1530	1537	enolase	T116,T126	C0031691
+28054422	1538	1546	clusters	T081	C1704332
+28054422	1559	1572	DASP2 GenBank	T170	C0598211
+28054422	1594	1603	sequences	T087	C0002518
+28054422	1748	1757	F-measure	T081	C0079809
+28054422	1762	1782	performance analysis	T062	C0936012
+28054422	1790	1797	enolase	T116,T126	C0031691
+28054422	1831	1836	GEMMA	T170	C0025663
+28054422	1841	1848	SCI-PHY	T170	C0025663
+28054422	1866	1871	TuLIP	T170	C0025663
+28054422	1952	1968	enolase families	T116,T126	C0031691
+28054422	2016	2026	literature	T170	C0023866

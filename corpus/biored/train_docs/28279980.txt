@@ -1,0 +1,61 @@
+28279980|t|GLUT4 Is Not Necessary for Overload-Induced Glucose Uptake or Hypertrophic Growth in Mouse Skeletal Muscle.
+28279980|a|GLUT4 is necessary for acute insulin- and contraction-induced skeletal muscle glucose uptake, but its role in chronic muscle loading (overload)-induced glucose uptake is unknown. Our goal was to determine whether GLUT4 is required for overload-induced glucose uptake. Overload was induced in mouse plantaris muscle by unilateral synergist ablation. After 5 days, muscle weights and ex vivo [(3)H]-2-deoxy-d-glucose uptake were assessed. Overload-induced muscle glucose uptake and hypertrophic growth were not impaired in muscle-specific GLUT4 knockout mice, demonstrating that GLUT4 is not necessary for these processes. To assess which transporters mediate overload-induced glucose uptake, chemical inhibitors were used. The facilitative GLUT inhibitor cytochalasin B, but not the sodium-dependent glucose cotransport inhibitor phloridzin, prevented overload-induced uptake demonstrating that GLUTs mediate this effect. To assess which GLUT, hexose competition experiments were performed. Overload-induced [(3)H]-2-deoxy-d-glucose uptake was not inhibited by d-fructose, demonstrating that the fructose-transporting GLUT2, GLUT5, GLUT8, and GLUT12 do not mediate this effect. To assess additional GLUTs, immunoblots were performed. Overload increased GLUT1, GLUT3, GLUT6, and GLUT10 protein levels twofold to fivefold. Collectively, these results demonstrate that GLUT4 is not necessary for overload-induced muscle glucose uptake or hypertrophic growth and suggest that GLUT1, GLUT3, GLUT6, and/or GLUT10 mediate overload-induced glucose uptake.
+28279980	0	5	GLUT4	GeneOrGeneProduct	20528
+28279980	44	51	Glucose	ChemicalEntity	D005947
+28279980	85	90	Mouse	OrganismTaxon	10090
+28279980	108	113	GLUT4	GeneOrGeneProduct	20528
+28279980	137	144	insulin	GeneOrGeneProduct	3630
+28279980	186	193	glucose	ChemicalEntity	D005947
+28279980	260	267	glucose	ChemicalEntity	D005947
+28279980	321	326	GLUT4	GeneOrGeneProduct	20528
+28279980	360	367	glucose	ChemicalEntity	D005947
+28279980	400	405	mouse	OrganismTaxon	10090
+28279980	498	522	[(3)H]-2-deoxy-d-glucose	ChemicalEntity	D003847
+28279980	569	576	glucose	ChemicalEntity	D005947
+28279980	645	650	GLUT4	GeneOrGeneProduct	20528
+28279980	660	664	mice	OrganismTaxon	10090
+28279980	685	690	GLUT4	GeneOrGeneProduct	20528
+28279980	783	790	glucose	ChemicalEntity	D005947
+28279980	847	851	GLUT	GeneOrGeneProduct	170441,20525,20526,20527,20528,227659,353169,56017,56485
+28279980	862	876	cytochalasin B	ChemicalEntity	D003571
+28279980	890	896	sodium	ChemicalEntity	D012964
+28279980	907	914	glucose	ChemicalEntity	D005947
+28279980	937	947	phloridzin	ChemicalEntity	D010695
+28279980	1002	1007	GLUTs	GeneOrGeneProduct	170441,20525,20526,20527,20528,227659,353169,56017,56485
+28279980	1045	1049	GLUT	GeneOrGeneProduct	170441,20525,20526,20527,20528,227659,353169,56017,56485
+28279980	1051	1057	hexose	ChemicalEntity	D006601
+28279980	1115	1139	[(3)H]-2-deoxy-d-glucose	ChemicalEntity	D003847
+28279980	1168	1178	d-fructose	ChemicalEntity	D005632
+28279980	1225	1230	GLUT2	GeneOrGeneProduct	20526
+28279980	1232	1237	GLUT5	GeneOrGeneProduct	56485
+28279980	1239	1244	GLUT8	GeneOrGeneProduct	56017
+28279980	1250	1256	GLUT12	GeneOrGeneProduct	353169
+28279980	1306	1311	GLUTs	GeneOrGeneProduct	170441,20525,20526,20527,20528,227659,353169,56017,56485
+28279980	1360	1365	GLUT1	GeneOrGeneProduct	20525
+28279980	1367	1372	GLUT3	GeneOrGeneProduct	20527
+28279980	1374	1379	GLUT6	GeneOrGeneProduct	227659
+28279980	1385	1391	GLUT10	GeneOrGeneProduct	170441
+28279980	1473	1478	GLUT4	GeneOrGeneProduct	20528
+28279980	1524	1531	glucose	ChemicalEntity	D005947
+28279980	1579	1584	GLUT1	GeneOrGeneProduct	20525
+28279980	1586	1591	GLUT3	GeneOrGeneProduct	20527
+28279980	1593	1598	GLUT6	GeneOrGeneProduct	227659
+28279980	1607	1613	GLUT10	GeneOrGeneProduct	170441
+28279980	1639	1646	glucose	ChemicalEntity	D005947
+28279980	Association	D012964	D005947	No
+28279980	Negative_Correlation	D005947	D010695	No
+28279980	Negative_Correlation	56485	D003571	No
+28279980	Negative_Correlation	56017	D003571	No
+28279980	Negative_Correlation	353169	D003571	No
+28279980	Positive_Correlation	227659	D005947	Novel
+28279980	Negative_Correlation	227659	D003571	No
+28279980	Association	20528	3630	No
+28279980	Association	20528	D005947	Novel
+28279980	Negative_Correlation	20528	D003571	No
+28279980	Positive_Correlation	20527	D005947	Novel
+28279980	Negative_Correlation	20527	D003571	No
+28279980	Negative_Correlation	20526	D003571	No
+28279980	Positive_Correlation	20525	D005947	Novel
+28279980	Negative_Correlation	20525	D003571	No
+28279980	Positive_Correlation	170441	D005947	Novel
+28279980	Negative_Correlation	170441	D003571	No

@@ -1,0 +1,99 @@
+28241394|t|The empirical Bayes estimators of fine-scale population structure in high gene flow species
+28241394|a|An empirical Bayes (EB) pairwise FST estimator was previously introduced and evaluated for its performance by numerical simulation. In this study, we conducted coalescent simulations and generated genetic population structure mechanistically, and compared the performance of the EBFST with Nei's GST, Nei and Chesser's bias-corrected GST (GST_NC), Weir and Cockerham's θ (θWC) and θ with finite sample correction (θWC_F). We also introduced EB estimators for Hedrick' G'ST and Jost' D. We applied these estimators to publicly available SNP genotypes of Atlantic herring. We also examined the power to detect the environmental factors causing the population structure. Our coalescent simulations revealed that the finite sample correction of θWC is necessary to assess population structure using pairwise FST values. For microsatellite markers, EBFST performed the best among the present estimators regarding both bias and precision under high gene flow scenarios (FST ≤0.032). For 300 SNPs, EBFST had the highest precision in all cases, but the bias was negative and greater than those for GST_NC and θWC_F in all cases. GST_NC and θWC_F performed very similarly at all levels of FST. As the number of loci increased up to 10 000, the precision of GST_NC and θWC_F became slightly better than for EBFST for cases with FST ≥0.004, even though the size of the bias remained constant. The EB estimators described the fine-scale population structure of the herring and revealed that ~56% of the genetic differentiation was caused by sea surface temperature and salinity. The R package finepop for implementing all estimators used here is available on CRAN.
+28241394	4	19	empirical Bayes	T170	C0025663
+28241394	20	30	estimators	T170	C0870077
+28241394	34	65	fine-scale population structure	T090	C0017404
+28241394	69	73	high	T080	C0205250
+28241394	74	83	gene flow	T045	C1565556
+28241394	84	91	species	T185	C1705920
+28241394	95	110	empirical Bayes	T170	C0025663
+28241394	112	114	EB	T170	C0025663
+28241394	116	138	pairwise FST estimator	T170	C0870077
+28241394	187	198	performance	T052	C1882330
+28241394	202	211	numerical	T081	C0243174
+28241394	212	222	simulation	T062	C0679083
+28241394	232	237	study	T062	C2603343
+28241394	252	262	coalescent	T078	C0871935
+28241394	263	274	simulations	T062	C0679083
+28241394	289	317	genetic population structure	T090	C0017404
+28241394	339	347	compared	T052	C1707455
+28241394	352	363	performance	T052	C1882330
+28241394	371	376	EBFST	T170	C1705273
+28241394	382	391	Nei's GST	T062	C0936012
+28241394	393	429	Nei and Chesser's bias-corrected GST	T170	C0237892
+28241394	431	437	GST_NC	T170	C0237892
+28241394	440	462	Weir and Cockerham's θ	T170	C0237892
+28241394	464	467	θWC	T170	C0237892
+28241394	473	504	θ with finite sample correction	T170	C0237892
+28241394	506	511	θWC_F	T170	C0237892
+28241394	533	535	EB	T170	C0025663
+28241394	536	546	estimators	T170	C0870077
+28241394	551	564	Hedrick' G'ST	T170	C0237892
+28241394	569	576	Jost' D	T170	C0237892
+28241394	595	605	estimators	T170	C0870077
+28241394	628	631	SNP	T086	C0752046
+28241394	632	641	genotypes	T032	C0017431
+28241394	645	661	Atlantic herring	T013	C3665362
+28241394	671	679	examined	T033	C0332128
+28241394	684	689	power	T081	C3854080
+28241394	693	699	detect	T033	C0442726
+28241394	704	725	environmental factors	T169	C1516998
+28241394	738	758	population structure	T090	C0017404
+28241394	764	774	coalescent	T078	C0871935
+28241394	775	786	simulations	T062	C0679083
+28241394	787	795	revealed	T080	C0443289
+28241394	805	829	finite sample correction	T169	C1521761
+28241394	833	836	θWC	T170	C0237892
+28241394	853	859	assess	T052	C1516048
+28241394	860	880	population structure	T090	C0017404
+28241394	887	899	pairwise FST	T170	C0600653
+28241394	900	906	values	T080	C0042295
+28241394	912	934	microsatellite markers	T114,T123	C1519302
+28241394	936	941	EBFST	T170	C1705273
+28241394	942	951	performed	T052	C1882330
+28241394	956	960	best	T080	C1522427
+28241394	971	978	present	T033	C0150312
+28241394	979	989	estimators	T170	C0870077
+28241394	1005	1009	bias	T078	C0242568
+28241394	1014	1023	precision	T079	C1547902
+28241394	1030	1034	high	T080	C0205250
+28241394	1035	1044	gene flow	T045	C1565556
+28241394	1045	1054	scenarios	T169	C0683579
+28241394	1056	1059	FST	T170	C0600653
+28241394	1083	1088	EBFST	T170	C1705273
+28241394	1097	1104	highest	T080	C0205250
+28241394	1105	1114	precision	T079	C1547902
+28241394	1137	1141	bias	T078	C0242568
+28241394	1146	1154	negative	T033	C0205160
+28241394	1159	1166	greater	T081	C1704243
+28241394	1182	1188	GST_NC	T170	C0237892
+28241394	1193	1198	θWC_F	T170	C0237892
+28241394	1213	1219	GST_NC	T170	C0237892
+28241394	1224	1229	θWC_F	T170	C0237892
+28241394	1230	1239	performed	T052	C1882330
+28241394	1262	1268	levels	T080	C0441889
+28241394	1272	1275	FST	T170	C0600653
+28241394	1294	1298	loci	T082	C1708726
+28241394	1299	1308	increased	T081	C0205217
+28241394	1327	1336	precision	T079	C1547902
+28241394	1340	1346	GST_NC	T170	C0237892
+28241394	1351	1356	θWC_F	T170	C0237892
+28241394	1364	1384	slightly better than	T033	C3843171
+28241394	1389	1394	EBFST	T170	C1705273
+28241394	1410	1413	FST	T170	C0600653
+28241394	1438	1442	size	T082	C0456389
+28241394	1450	1454	bias	T078	C0242568
+28241394	1455	1472	remained constant	T080	C1948059
+28241394	1478	1480	EB	T170	C0025663
+28241394	1481	1491	estimators	T170	C0870077
+28241394	1506	1537	fine-scale population structure	T090	C0017404
+28241394	1545	1552	herring	T013	C1691760
+28241394	1557	1565	revealed	T080	C0443289
+28241394	1583	1606	genetic differentiation	T045	C0917892
+28241394	1621	1624	sea	T083	C0036493
+28241394	1625	1632	surface	T082	C0205148
+28241394	1633	1644	temperature	T081	C0039476
+28241394	1649	1657	salinity	T034	C1956027
+28241394	1663	1680	R package finepop	T170	C0037589
+28241394	1702	1712	estimators	T170	C0870077
+28241394	1739	1743	CRAN	T073	C2700580

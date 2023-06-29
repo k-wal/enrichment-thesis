@@ -1,0 +1,31 @@
+28423855|t|EHR Improvement Using Incident Reports
+28423855|a|This paper discusses reactive improvement of clinical software using methods for incident analysis. We used the "Five Whys" method because we had only descriptive data and depended on a domain expert for the analysis. The analysis showed that there are two major root causes for EHR software failure, and that they are related to human and organizational errors. A main identified improvement is allocating more resources to system maintenance and user training.
+28423855	0	3	EHR	T073	C4035898
+28423855	4	15	Improvement	T077	C2986411
+28423855	22	38	Incident Reports	T058	C0178896
+28423855	60	68	reactive	T080	C0205332
+28423855	69	80	improvement	T077	C2986411
+28423855	84	92	clinical	T080	C0205210
+28423855	93	101	software	T073,T170	C0037585
+28423855	108	115	methods	T170	C0025663
+28423855	120	128	incident	T067	C1551358
+28423855	129	137	analysis	T062	C0936012
+28423855	151	169	"Five Whys" method	T170	C0025663
+28423855	190	206	descriptive data	T078	C1511726
+28423855	211	219	depended	T169	C3244310
+28423855	225	238	domain expert	T057	C0015325
+28423855	247	255	analysis	T062	C0936012
+28423855	261	269	analysis	T062	C0936012
+28423855	292	295	two	T081	C0205448
+28423855	302	313	root causes	T033	C0566251
+28423855	318	321	EHR	T073	C4035898
+28423855	322	330	software	T073,T170	C0037585
+28423855	331	338	failure	T169	C0231175
+28423855	369	374	human	T016	C0086418
+28423855	379	393	organizational	T080	C0220885
+28423855	394	400	errors	T080	C0743559
+28423855	409	419	identified	T080	C0205396
+28423855	420	431	improvement	T077	C2986411
+28423855	451	460	resources	T078	C0035201
+28423855	464	482	system maintenance	T169	C1883060
+28423855	487	500	user training	T065	C0009616

@@ -1,0 +1,73 @@
+27718505|t|Optimization of techniques for multiple platform testing in small, precious samples such as human chorionic villus sampling
+27718505|a|Multiple testing to understand global changes in gene expression based on genetic and epigenetic modifications is evolving. Chorionic villi, obtained for prenatal testing, is limited, but can be used to understand ongoing human pregnancies. However, optimal storage, processing and utilization of CVS for multiple platform testing have not been established. Leftover CVS samples were flash-frozen or preserved in RNAlater. Modifications to standard isolation kits were performed to isolate quality DNA and RNA from samples as small as 2-5 mg. RNAlater samples had significantly higher RNA yields and quality and were successfully used in microarray and RNA-sequencing (RNA-seq). RNA-seq libraries generated using 200 versus 800-ng RNA showed similar biological coefficients of variation. RNAlater samples had lower DNA yields and quality, which improved by heating the elution buffer to 70 °C. Purification of DNA was not necessary for bisulfite-conversion and genome-wide methylation profiling. CVS cells were propagated and continue to express genes found in freshly isolated chorionic villi. CVS samples preserved in RNAlater are superior. Our optimized techniques provide specimens for genetic, epigenetic and gene expression studies from a single small sample which can be used to develop diagnostics and treatments using a systems biology approach in the prenatal period. © 2016 John Wiley & Sons, Ltd.
+27718505	0	12	Optimization	T052	C2698650
+27718505	16	26	techniques	T169	C0449851
+27718505	31	39	multiple	T081	C0439064
+27718505	40	56	platform testing	T060	C0430678
+27718505	76	83	samples	T167	C0370003
+27718505	92	97	human	T016	C0086418
+27718505	98	123	chorionic villus sampling	T060	C0008509
+27718505	124	132	Multiple	T081	C0439064
+27718505	133	140	testing	T060	C0430678
+27718505	162	169	changes	T169	C0392747
+27718505	173	188	gene expression	T045	C0017262
+27718505	198	205	genetic	T049	C1705285
+27718505	210	220	epigenetic	T045	C1516924
+27718505	221	234	modifications	T045	C1158479
+27718505	248	263	Chorionic villi	T018	C0008508
+27718505	278	294	prenatal testing	T058	C1456692
+27718505	346	351	human	T016	C0086418
+27718505	352	363	pregnancies	T040	C0032961
+27718505	382	389	storage	T169	C1698986
+27718505	421	424	CVS	T060	C0008509
+27718505	429	437	multiple	T081	C0439064
+27718505	438	454	platform testing	T060	C0430678
+27718505	491	494	CVS	T060	C0008509
+27718505	495	502	samples	T167	C0370003
+27718505	508	520	flash-frozen	T068	C1550579
+27718505	537	545	RNAlater	T130	C1882529
+27718505	614	621	quality	T080	C0332306
+27718505	622	625	DNA	T114,T123	C0012854
+27718505	630	633	RNA	T114	C0035668
+27718505	639	646	samples	T167	C0370003
+27718505	667	675	RNAlater	T130	C1882529
+27718505	676	683	samples	T167	C0370003
+27718505	709	712	RNA	T114	C0035668
+27718505	713	719	yields	T081	C0392762
+27718505	724	731	quality	T080	C0332306
+27718505	762	772	microarray	T073	C1709016
+27718505	777	791	RNA-sequencing	T059,T063	C0917793
+27718505	793	800	RNA-seq	T059,T063	C0917793
+27718505	803	810	RNA-seq	T086	C0162327
+27718505	811	820	libraries	T028	C0599776
+27718505	855	858	RNA	T114	C0035668
+27718505	874	897	biological coefficients	T081	C1707429
+27718505	912	920	RNAlater	T130	C1882529
+27718505	921	928	samples	T167	C0370003
+27718505	939	942	DNA	T114,T123	C0012854
+27718505	943	949	yields	T081	C0392762
+27718505	954	961	quality	T080	C0332306
+27718505	1001	1007	buffer	T121,T130	C0006353
+27718505	1018	1037	Purification of DNA	T059	C0872148
+27718505	1060	1080	bisulfite-conversion	T063	C3831347
+27718505	1085	1118	genome-wide methylation profiling	T063	C1880239
+27718505	1120	1123	CVS	T060	C0008509
+27718505	1124	1129	cells	T025	C0007634
+27718505	1170	1175	genes	T028	C0017337
+27718505	1202	1217	chorionic villi	T018	C0008508
+27718505	1219	1222	CVS	T060	C0008509
+27718505	1223	1230	samples	T167	C0370003
+27718505	1244	1252	RNAlater	T130	C1882529
+27718505	1271	1280	optimized	T052	C2698650
+27718505	1281	1291	techniques	T169	C0449851
+27718505	1300	1309	specimens	T167	C0370003
+27718505	1314	1321	genetic	T062	C2827447
+27718505	1323	1333	epigenetic	T091	C1655731
+27718505	1338	1353	gene expression	T045	C0017262
+27718505	1354	1361	studies	T062	C2603343
+27718505	1382	1388	sample	T167	C0370003
+27718505	1382	1388	sample	T167	C0370003
+27718505	1418	1429	diagnostics	T060	C0086143
+27718505	1434	1444	treatments	T061	C0087111
+27718505	1453	1468	systems biology	T091	C1450477
+27718505	1485	1500	prenatal period	UnknownType	C0815085

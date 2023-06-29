@@ -1,0 +1,77 @@
+27825443|t|Natural competence for transformation
+27825443|a|While most molecular biologists are familiar with the artificial transformation of bacteria in the context of laboratory cloning experiments, natural competence for transformation refers to a specific physiological state in which prokaryotes are able to take up genetic material from their surroundings. Occasionally, such absorbed DNA is recombined into the organism's own genome, resulting in natural transformation (Figure 1). As a consequence, natural competence for transformation is considered a primary mode of horizontal gene transfer (HGT) in prokaryotes, together with conjugation (direct cell to cell transfer of DNA via a specialized conjugal pilus) and phage transduction (DNA transfer mediated by viruses). HGT plays a major role in bacterial evolution, and past research has demonstrated that HGT, including natural competence for transformation, contributes to the emergence of pathogens and the spread of virulence factors. Indeed, Frederick Griffith discovered natural competence for transformation in 1928 while he was investigating the exchange of pathogenic traits in pneumococci. Due to the increase in the abundance and spread of multidrug-resistant microbes, research on HGT is even more important today than ever before.
+27825443	0	7	Natural	T169	C0205296
+27825443	8	18	competence	T080	C0086035
+27825443	23	37	transformation	T045	C0040683
+27825443	49	69	molecular biologists	T097	C0260017
+27825443	92	102	artificial	T080	C2004457
+27825443	103	129	transformation of bacteria	T045	C0040683
+27825443	137	144	context	T078	C0449255
+27825443	148	158	laboratory	T073,T093	C0022877
+27825443	159	166	cloning	T062	C0009015
+27825443	167	178	experiments	T062	C0681814
+27825443	180	187	natural	T169	C0205296
+27825443	188	198	competence	T080	C0086035
+27825443	203	217	transformation	T045	C0040683
+27825443	230	238	specific	T080	C0205369
+27825443	239	252	physiological	T169	C0205463
+27825443	253	258	state	T169	C1442792
+27825443	268	279	prokaryotes	T001	C0686817
+27825443	300	316	genetic material	T028	C0440471
+27825443	328	340	surroundings	T082	C1282914
+27825443	361	369	absorbed	T169	C0205245
+27825443	370	373	DNA	T114,T123	C0012854
+27825443	377	387	recombined	T080	C0205195
+27825443	397	407	organism's	T001	C0029235
+27825443	412	418	genome	T028	C0017428
+27825443	433	440	natural	T169	C0205296
+27825443	441	455	transformation	T045	C0040683
+27825443	473	484	consequence	T169	C0686907
+27825443	486	493	natural	T169	C0205296
+27825443	494	504	competence	T080	C0086035
+27825443	509	523	transformation	T045	C0040683
+27825443	540	547	primary	T080	C0205225
+27825443	548	552	mode	T169	C1513371
+27825443	556	580	horizontal gene transfer	T045	C0887912
+27825443	582	585	HGT	T045	C0887912
+27825443	590	601	prokaryotes	T001	C0686817
+27825443	617	628	conjugation	T045	C0009757
+27825443	630	636	direct	T080	C1947931
+27825443	637	641	cell	T025	C0007634
+27825443	645	649	cell	T025	C0007634
+27825443	650	658	transfer	T078	C3244299
+27825443	662	665	DNA	T114,T123	C0012854
+27825443	672	683	specialized	T077	C1704211
+27825443	684	698	conjugal pilus	T026	C0242435
+27825443	704	709	phage	T005	C0004651
+27825443	710	722	transduction	T045	C0040667
+27825443	724	727	DNA	T114,T123	C0012854
+27825443	728	736	transfer	T078	C3244299
+27825443	749	756	viruses	T005	C0042776
+27825443	759	762	HGT	T045	C0887912
+27825443	785	794	bacterial	T080	C0521009
+27825443	795	804	evolution	T045	C0015219
+27825443	810	814	past	T079	C1444637
+27825443	815	823	research	T062	C0035168
+27825443	846	849	HGT	T045	C0887912
+27825443	861	868	natural	T169	C0205296
+27825443	869	879	competence	T080	C0086035
+27825443	884	898	transformation	T045	C0040683
+27825443	900	911	contributes	T052	C1880177
+27825443	932	941	pathogens	T001	C0450254
+27825443	950	956	spread	T080	C0332261
+27825443	960	977	virulence factors	T109,T123,T131	C1136170
+27825443	1017	1024	natural	T169	C0205296
+27825443	1025	1035	competence	T080	C0086035
+27825443	1040	1054	transformation	T045	C0040683
+27825443	1076	1089	investigating	T169	C1292732
+27825443	1094	1102	exchange	T045	C1749881
+27825443	1106	1116	pathogenic	T033	C3816499
+27825443	1117	1123	traits	T032	C0599883
+27825443	1127	1138	pneumococci	T007	C0038410
+27825443	1151	1159	increase	T169	C0442805
+27825443	1167	1176	abundance	T080	C2346714
+27825443	1181	1187	spread	T080	C0332261
+27825443	1191	1219	multidrug-resistant microbes	T007	C4076168
+27825443	1221	1229	research	T062	C0035168
+27825443	1233	1236	HGT	T045	C0887912

@@ -1,0 +1,40 @@
+25983002|t|Inhibition of LDHA suppresses tumor progression in prostate cancer.
+25983002|a|A key hallmark of cancer cells is their altered metabolism, known as Warburg effect. Lactate dehydrogenase A (LDHA) executes the final step of aerobic glycolysis and has been reported to be involved in the tumor progression. However, the function of LDHA in prostate cancer has not been studied. In current study, we observed overexpression of LDHA in the clinical prostate cancer samples compared with benign prostate hyperplasia tissues as demonstrated by immunohistochemistry and real-time qPCR. Attenuated expression of LDHA by siRNA or inhibition of LDHA activities by FX11 inhibited cell proliferation, migration, invasion, and promoted cell apoptosis of PC-3 and DU145 cells. Mechanistically, decreased Warburg effect as demonstrated by reduced glucose consumption and lactate secretion and reduced expression of MMP-9, PLAU, and cathepsin B were found after LDHA knockdown or FX11 treatment in PC-3 and DU145 cells. Taken together, our study revealed the oncogenic role of LDHA in prostate cancer and suggested that LDHA might be a potential therapeutic target.
+25983002	14	18	LDHA	GeneOrGeneProduct	3939
+25983002	30	35	tumor	DiseaseOrPhenotypicFeature	D009369
+25983002	51	66	prostate cancer	DiseaseOrPhenotypicFeature	D011471
+25983002	86	92	cancer	DiseaseOrPhenotypicFeature	D009369
+25983002	153	176	Lactate dehydrogenase A	GeneOrGeneProduct	3939
+25983002	178	182	LDHA	GeneOrGeneProduct	3939
+25983002	274	279	tumor	DiseaseOrPhenotypicFeature	D009369
+25983002	318	322	LDHA	GeneOrGeneProduct	3939
+25983002	326	341	prostate cancer	DiseaseOrPhenotypicFeature	D011471
+25983002	412	416	LDHA	GeneOrGeneProduct	3939
+25983002	433	448	prostate cancer	DiseaseOrPhenotypicFeature	D011471
+25983002	471	498	benign prostate hyperplasia	DiseaseOrPhenotypicFeature	D011470
+25983002	592	596	LDHA	GeneOrGeneProduct	3939
+25983002	623	627	LDHA	GeneOrGeneProduct	3939
+25983002	642	646	FX11	ChemicalEntity	C547455
+25983002	729	733	PC-3	CellLine	CVCL_0035
+25983002	738	743	DU145	CellLine	CVCL_0105
+25983002	820	827	glucose	ChemicalEntity	D005947
+25983002	844	851	lactate	ChemicalEntity	D019344
+25983002	888	893	MMP-9	GeneOrGeneProduct	4318
+25983002	895	899	PLAU	GeneOrGeneProduct	5328
+25983002	905	916	cathepsin B	GeneOrGeneProduct	1508
+25983002	934	938	LDHA	GeneOrGeneProduct	3939
+25983002	952	956	FX11	ChemicalEntity	C547455
+25983002	970	974	PC-3	CellLine	CVCL_0035
+25983002	979	984	DU145	CellLine	CVCL_0105
+25983002	1049	1053	LDHA	GeneOrGeneProduct	3939
+25983002	1057	1072	prostate cancer	DiseaseOrPhenotypicFeature	D011471
+25983002	1092	1096	LDHA	GeneOrGeneProduct	3939
+25983002	Negative_Correlation	C547455	1508	Novel
+25983002	Negative_Correlation	C547455	5328	Novel
+25983002	Negative_Correlation	C547455	4318	Novel
+25983002	Association	3939	D011471	Novel
+25983002	Positive_Correlation	3939	1508	Novel
+25983002	Positive_Correlation	3939	5328	Novel
+25983002	Positive_Correlation	3939	4318	Novel
+25983002	Negative_Correlation	3939	C547455	No
+25983002	Association	3939	D009369	Novel

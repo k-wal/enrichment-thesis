@@ -1,0 +1,88 @@
+28408329|t|Highest dominant frequency and rotor positions are robust markers of driver location during noninvasive mapping of atrial fibrillation: A computational study
+28408329|a|Dominant frequency (DF) and rotor mapping have been proposed as noninvasive techniques to guide localization of drivers maintaining atrial fibrillation (AF). The purpose of this study was to evaluate the robustness of both techniques in identifying atrial drivers noninvasively under the effect of electrical noise or model uncertainties. Inverse - computed DFs and phase maps were obtained from 30 different mathematical AF simulations. Epicardial highest dominant frequency (HDF) regions and rotor location were compared with the same inverse - computed measurements after addition of noise to the ECG, size variations of the atria, and linear or angular deviations in the atrial location inside the thorax. Inverse - computed electrograms (EGMs) individually correlated poorly with the original EGMs in the absence of induced uncertainties (0.45 ± 0.12) and were worse with 10-dB noise (0.22 ± 0.11), 3-cm displacement (0.01 ± 0.02), or 36° rotation (0.02 ± 0.03). However, inverse - computed HDF regions showed robustness against induced uncertainties: from 82% ± 18% match for the best conditions, down to 73% ± 23% for 10-dB noise, 77% ± 21% for 5-cm displacement, and 60% ± 22% for 36° rotation. The distance from the inverse - computed rotor to the original rotor was also affected by uncertainties: 0.8 ± 1.61 cm for the best conditions, 2.4 ± 3.6 cm for 10-dB noise, 4.3 ± 3.2 cm for 4-cm displacement, and 4.0 ± 2.1 cm for 36° rotation. Restriction of rotor detections to the HDF area increased rotor detection accuracy from 4.5 ± 4.5 cm to 3.2 ± 3.1 cm (P <.05) with 0-dB noise. The combination of frequency and phase- derived measurements increases the accuracy of noninvasive localization of atrial rotors driving AF in the presence of noise and uncertainties in atrial location or size.
+28408329	0	26	Highest dominant frequency	T079	C0439603
+28408329	31	46	rotor positions	T082	C0733755
+28408329	92	111	noninvasive mapping	T060	C0259832
+28408329	115	134	atrial fibrillation	T047	C0004238
+28408329	138	157	computational study	T059	C4297010
+28408329	158	176	Dominant frequency	T060	C0430022
+28408329	178	180	DF	T060	C0430022
+28408329	186	199	rotor mapping	T060	C0430022
+28408329	222	244	noninvasive techniques	T060	C0259832
+28408329	254	277	localization of drivers	UnknownType	C0868984
+28408329	290	309	atrial fibrillation	T047	C0004238
+28408329	311	313	AF	T047	C0004238
+28408329	320	341	purpose of this study	UnknownType	C0681832
+28408329	349	357	evaluate	T058	C0220825
+28408329	362	372	robustness	T080	C2986815
+28408329	381	391	techniques	T060	C0430022
+28408329	422	435	noninvasively	T185	C2986496
+28408329	446	452	effect	T080	C1280500
+28408329	456	472	electrical noise	T067	C0028263
+28408329	476	481	model	T170	C3161035
+28408329	482	495	uncertainties	T033	C0087130
+28408329	497	504	Inverse	T080	C0439850
+28408329	507	519	computed DFs	T079	C0439603
+28408329	580	582	AF	T047	C0004238
+28408329	583	594	simulations	T062	C0679083
+28408329	596	606	Epicardial	T082	C0442016
+28408329	607	633	highest dominant frequency	T079	C0439603
+28408329	635	638	HDF	T079	C0439603
+28408329	640	647	regions	T082	C0205146
+28408329	652	666	rotor location	T082	C0205146
+28408329	695	702	inverse	T080	C0439850
+28408329	705	726	computed measurements	T169	C0242485
+28408329	745	750	noise	T067	C0028263
+28408329	758	761	ECG	T060	C1623258
+28408329	786	791	atria	T023	C0018792
+28408329	797	803	linear	T082	C0205132
+28408329	807	814	angular	T082	C0205143
+28408329	815	825	deviations	T082	C0012727
+28408329	833	848	atrial location	T023	C0018792
+28408329	860	866	thorax	T029	C0817096
+28408329	868	875	Inverse	T080	C0439850
+28408329	878	899	computed electrograms	T034	C2350882
+28408329	901	905	EGMs	T034	C2350882
+28408329	920	930	correlated	T080	C1707520
+28408329	956	960	EGMs	T034	C2350882
+28408329	968	975	absence	T169	C0332197
+28408329	979	986	induced	T169	C0205263
+28408329	987	1000	uncertainties	T033	C0087130
+28408329	1041	1046	noise	T067	C0028263
+28408329	1067	1079	displacement	T082	C0012727
+28408329	1102	1110	rotation	T169	C0035868
+28408329	1135	1142	inverse	T080	C0439850
+28408329	1145	1165	computed HDF regions	T082	C0205146
+28408329	1173	1183	robustness	T080	C2986815
+28408329	1200	1213	uncertainties	T033	C0087130
+28408329	1289	1294	noise	T067	C0028263
+28408329	1315	1327	displacement	T082	C0012727
+28408329	1351	1359	rotation	T169	C0035868
+28408329	1365	1373	distance	T081	C0012751
+28408329	1383	1390	inverse	T080	C0439850
+28408329	1393	1407	computed rotor	T169	C0205245
+28408329	1424	1429	rotor	T169	C0205245
+28408329	1451	1464	uncertainties	T033	C0087130
+28408329	1528	1533	noise	T067	C0028263
+28408329	1557	1569	displacement	T082	C0012727
+28408329	1596	1604	rotation	T169	C0035868
+28408329	1621	1626	rotor	T169	C0205245
+28408329	1627	1637	detections	T080	C0205396
+28408329	1645	1653	HDF area	T082	C0205146
+28408329	1654	1663	increased	T081	C0205217
+28408329	1664	1669	rotor	T169	C0205245
+28408329	1670	1679	detection	T080	C0205396
+28408329	1680	1688	accuracy	T080	C0443131
+28408329	1742	1747	noise	T067	C0028263
+28408329	1753	1764	combination	T080	C0205195
+28408329	1768	1777	frequency	T079	C0439603
+28408329	1789	1809	derived measurements	T169	C0242485
+28408329	1824	1832	accuracy	T080	C0443131
+28408329	1836	1847	noninvasive	T185	C2986496
+28408329	1848	1860	localization	T169	C0475264
+28408329	1864	1877	atrial rotors	T169	C0205245
+28408329	1886	1888	AF	T047	C0004238
+28408329	1908	1913	noise	T067	C0028263
+28408329	1918	1931	uncertainties	T033	C0087130
+28408329	1935	1950	atrial location	T023	C0018792
+28408329	1954	1958	size	T082	C0456389

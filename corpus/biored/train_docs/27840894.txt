@@ -1,0 +1,63 @@
+27840894|t|Seven novel and six de novo PHEX gene mutations in patients with hypophosphatemic rickets.
+27840894|a|Inactivating mutations in phosphate-regulating gene with homologies to endopeptidase on the X chromosome (PHEX) have been identified as a cause of X-linked hypophosphatemic rickets (XLH; OMIM 307800). In the present study, we enrolled 43 patients from 18 unrelated families clinically diagnosed with hypophosphatemic rickets and 250 healthy controls. For each available individual, all 22 exons with their exon-intron boundaries of the PHEX gene were directly sequenced. The levels of serum fibroblast growth factor 23 (FGF23) were measured as well. Sequencing analysis detected 17 different PHEX gene mutations, and 7 of these were identified as novel: 3 missense mutations, including c.304G>A (p.Gly102Arg) in exon 3, c.229T>C (p.Cys77Arg) in exon 3 and c.824T>C (p.Leu275Pro) in exon 7; 2 deletion mutations, including c.528delT (p.Glu177LysfsX44) in exon 5 and c.1234delA (p.Ser412ValfsX12) in exon 11; and 2 alternative splicing mutations, including c.436_436+1delAG in intron 4 at splicing donor sites and c.1483-1G>C in intron 13 at splicing acceptor sites. Moreover, 6 mutations were proven to be de novo in 6 sporadic cases and the probands were all females. No mutations were found in the 250 healthy controls. The serum levels of FGF23 varied widely among the patients with XLH, and no significant difference was found when compared with those of the healthy controls. On the whole, the findings of this study provide new insight into the spectrum of PHEX mutations and provide potential evidence of a critical domain in PHEX protein. In addition, the finding of an overlap of the serum FGF23 levels between the patients with XLH and the healthy controls indicates its limited diagnostic value in XLH.
+27840894	28	32	PHEX	GeneOrGeneProduct	5251
+27840894	51	59	patients	OrganismTaxon	9606
+27840894	65	89	hypophosphatemic rickets	DiseaseOrPhenotypicFeature	D063730
+27840894	117	195	phosphate-regulating gene with homologies to endopeptidase on the X chromosome	GeneOrGeneProduct	5251
+27840894	197	201	PHEX	GeneOrGeneProduct	5251
+27840894	238	271	X-linked hypophosphatemic rickets	DiseaseOrPhenotypicFeature	D053098
+27840894	273	276	XLH	DiseaseOrPhenotypicFeature	D053098
+27840894	278	289	OMIM 307800	DiseaseOrPhenotypicFeature	D053098
+27840894	329	337	patients	OrganismTaxon	9606
+27840894	391	415	hypophosphatemic rickets	DiseaseOrPhenotypicFeature	D063730
+27840894	527	531	PHEX	GeneOrGeneProduct	5251
+27840894	582	609	fibroblast growth factor 23	GeneOrGeneProduct	8074
+27840894	611	616	FGF23	GeneOrGeneProduct	8074
+27840894	683	687	PHEX	GeneOrGeneProduct	5251
+27840894	777	785	c.304G>A	SequenceVariant	c|SUB|G|304|A
+27840894	787	798	p.Gly102Arg	SequenceVariant	p|SUB|G|102|R
+27840894	811	819	c.229T>C	SequenceVariant	c|SUB|T|229|C
+27840894	821	831	p.Cys77Arg	SequenceVariant	p|SUB|C|77|R
+27840894	847	855	c.824T>C	SequenceVariant	c|SUB|T|284|C
+27840894	857	868	p.Leu275Pro	SequenceVariant	p|SUB|L|275|P
+27840894	913	922	c.528delT	SequenceVariant	c|DEL|528|T
+27840894	924	940	p.Glu177LysfsX44	SequenceVariant	p|SUB|E|177|K|44
+27840894	956	966	c.1234delA	SequenceVariant	c|DEL|1234|A
+27840894	968	984	p.Ser412ValfsX12	SequenceVariant	p|SUB|S|412|V|12
+27840894	1046	1062	c.436_436+1delAG	SequenceVariant	c|DEL|436_436+1|AG
+27840894	1103	1114	c.1483-1G>C	SequenceVariant	c|SUB|G|1483-1|C
+27840894	1332	1337	FGF23	GeneOrGeneProduct	8074
+27840894	1362	1370	patients	OrganismTaxon	9606
+27840894	1376	1379	XLH	DiseaseOrPhenotypicFeature	D053098
+27840894	1553	1557	PHEX	GeneOrGeneProduct	5251
+27840894	1623	1627	PHEX	GeneOrGeneProduct	5251
+27840894	1689	1694	FGF23	GeneOrGeneProduct	8074
+27840894	1714	1722	patients	OrganismTaxon	9606
+27840894	1728	1731	XLH	DiseaseOrPhenotypicFeature	D053098
+27840894	1799	1802	XLH	DiseaseOrPhenotypicFeature	D053098
+27840894	Positive_Correlation	D053098	c|SUB|G|1483-1|C	Novel
+27840894	Positive_Correlation	D053098	c|SUB|G|304|A	Novel
+27840894	Positive_Correlation	D053098	c|SUB|T|229|C	Novel
+27840894	Positive_Correlation	D053098	c|SUB|T|284|C	Novel
+27840894	Positive_Correlation	D053098	c|DEL|436_436+1|AG	Novel
+27840894	Positive_Correlation	D053098	p|SUB|S|412|V|12	Novel
+27840894	Positive_Correlation	D053098	c|DEL|1234|A	Novel
+27840894	Positive_Correlation	D053098	p|SUB|E|177|K|44	Novel
+27840894	Positive_Correlation	D053098	c|DEL|528|T	Novel
+27840894	Positive_Correlation	D053098	p|SUB|L|275|P	Novel
+27840894	Positive_Correlation	D053098	p|SUB|C|77|R	Novel
+27840894	Positive_Correlation	D053098	p|SUB|G|102|R	Novel
+27840894	Positive_Correlation	D063730	c|SUB|G|1483-1|C	Novel
+27840894	Positive_Correlation	D063730	c|SUB|G|304|A	Novel
+27840894	Positive_Correlation	D063730	c|SUB|T|229|C	Novel
+27840894	Positive_Correlation	D063730	c|SUB|T|284|C	Novel
+27840894	Positive_Correlation	D063730	c|DEL|436_436+1|AG	Novel
+27840894	Positive_Correlation	D063730	p|SUB|S|412|V|12	Novel
+27840894	Positive_Correlation	D063730	c|DEL|1234|A	Novel
+27840894	Positive_Correlation	D063730	p|SUB|E|177|K|44	Novel
+27840894	Positive_Correlation	D063730	c|DEL|528|T	Novel
+27840894	Positive_Correlation	D063730	p|SUB|L|275|P	Novel
+27840894	Positive_Correlation	D063730	p|SUB|C|77|R	Novel
+27840894	Positive_Correlation	D063730	p|SUB|G|102|R	Novel
+27840894	Negative_Correlation	5251	D053098	Novel
+27840894	Association	5251	D063730	No

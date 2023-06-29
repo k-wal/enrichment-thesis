@@ -1,0 +1,83 @@
+27553875|t|Estimation of the HIV-1 backward mutation rate from transmitted drug-resistant strains
+27553875|a|One of the serious threats facing the administration of antiretroviral therapy to human immunodeficiency virus (HIV-1) infected patients is the reported increasing prevalence of transmitted drug resistance. However, given that HIV-1 drug-resistant strains are often less fit than the wild-type strains, it is expected that drug-resistant strains that are present during the primary phase of the HIV-1 infection are replaced by the fitter wild-type strains. This replacement of HIV-1 resistant mutations involves the emergence of wild-type strains by a process of backward mutation. How quickly the replacement happens is dependent on the class of HIV-1 mutation group. We estimate the backward mutation rates and relative fitness of various mutational groups known to confer HIV-1 drug resistance. We do this by fitting a stochastic model to data for individuals who were originally infected by an HIV-1 strain carrying any one of the known drug resistance -conferring mutations and observed over a period of time to see whether the resistant strain is replaced. To do this, we seek a distribution, generated from simulations of the stochastic model, that best describes the observed (clinical data) replacement times of a given mutation. We found that Lamivudine/Emtricitabine -associated mutations have a distinctly higher, backward mutation rate and low relative fitness compared to the other classes (as has been reported before) while protease inhibitors -associated mutations have a slower backward mutation rate and high relative fitness. For the other mutation classes, we found more uncertainty in their estimates.
+27553875	18	23	HIV-1	T005	C0019704
+27553875	24	32	backward	T082	C0439784
+27553875	33	46	mutation rate	T080	C3178846
+27553875	52	78	transmitted drug-resistant	T038	C0013203
+27553875	79	86	strains	T001	C1518614
+27553875	106	113	threats	T078	C0749385
+27553875	143	165	antiretroviral therapy	T061	C1963724
+27553875	169	197	human immunodeficiency virus	T005	C0019704
+27553875	199	204	HIV-1	T005	C0019704
+27553875	206	214	infected	T047	C2363741
+27553875	215	223	patients	T101	C0030705
+27553875	240	261	increasing prevalence	T081	C1512456
+27553875	265	292	transmitted drug resistance	T038	C0013203
+27553875	314	319	HIV-1	T005	C0019704
+27553875	320	334	drug-resistant	T038	C0013203
+27553875	335	342	strains	T001	C1518614
+27553875	371	380	wild-type	T028	C1883559
+27553875	381	388	strains	T001	C1518614
+27553875	410	424	drug-resistant	T038	C0013203
+27553875	425	432	strains	T001	C1518614
+27553875	461	468	primary	T080	C0205225
+27553875	469	474	phase	T079	C0205390
+27553875	482	497	HIV-1 infection	T047	C2363741
+27553875	502	510	replaced	T169	C0559956
+27553875	525	534	wild-type	T028	C1883559
+27553875	535	542	strains	T001	C1518614
+27553875	549	560	replacement	T169	C0559956
+27553875	564	579	HIV-1 resistant	T033	C1836231
+27553875	580	589	mutations	T045	C0026882
+27553875	616	625	wild-type	T028	C1883559
+27553875	626	633	strains	T001	C1518614
+27553875	639	646	process	T067	C1522240
+27553875	650	658	backward	T082	C0439784
+27553875	659	667	mutation	T045	C0026882
+27553875	685	696	replacement	T169	C0559956
+27553875	708	717	dependent	T169	C3244310
+27553875	734	739	HIV-1	T005	C0019704
+27553875	740	748	mutation	T045	C0026882
+27553875	749	754	group	T078	C0441833
+27553875	772	780	backward	T082	C0439784
+27553875	781	795	mutation rates	T080	C3178846
+27553875	828	838	mutational	T045	C0026882
+27553875	839	845	groups	T078	C0441833
+27553875	862	867	HIV-1	T005	C0019704
+27553875	868	883	drug resistance	T038	C0013203
+27553875	909	925	stochastic model	T062	C0871922
+27553875	929	933	data	T078	C1511726
+27553875	938	949	individuals	T098	C0237401
+27553875	970	978	infected	T033	C0439663
+27553875	985	990	HIV-1	T005	C0019704
+27553875	991	997	strain	T001	C1518614
+27553875	1028	1043	drug resistance	T038	C0013203
+27553875	1056	1065	mutations	T045	C0026882
+27553875	1086	1100	period of time	T201	C3259132
+27553875	1120	1129	resistant	T169	C0332325
+27553875	1130	1136	strain	T001	C1518614
+27553875	1140	1148	replaced	T169	C0559956
+27553875	1172	1184	distribution	T169	C1704711
+27553875	1201	1212	simulations	T062	C0679083
+27553875	1220	1236	stochastic model	T062	C0871922
+27553875	1262	1270	observed	T169	C1441672
+27553875	1272	1285	clinical data	T170	C1516606
+27553875	1287	1298	replacement	T169	C0559956
+27553875	1299	1304	times	T081	C1632851
+27553875	1316	1324	mutation	T045	C0026882
+27553875	1340	1364	Lamivudine/Emtricitabine	T109,T195	C1977395
+27553875	1377	1386	mutations	T045	C0026882
+27553875	1413	1421	backward	T082	C0439784
+27553875	1422	1435	mutation rate	T080	C3178846
+27553875	1444	1452	relative	T080	C0205345
+27553875	1453	1460	fitness	T056	C1456706
+27553875	1483	1490	classes	T170	C0456387
+27553875	1527	1546	protease inhibitors	T121	C0033607
+27553875	1559	1568	mutations	T045	C0026882
+27553875	1583	1591	backward	T082	C0439784
+27553875	1592	1605	mutation rate	T080	C3178846
+27553875	1615	1623	relative	T080	C0205345
+27553875	1624	1631	fitness	T056	C1456706
+27553875	1647	1655	mutation	T045	C0026882
+27553875	1656	1663	classes	T170	C0456387
+27553875	1700	1709	estimates	T081	C0750572

@@ -1,0 +1,46 @@
+27779699|t|Differential expression of filamin B splice variants in giant cell tumor cells.
+27779699|a|Giant cell tumor of bone (GCT) is the most commonly reported non-malignant bone tumor in Hong Kong. This kind of tumor usually affects people aged 20-40 years. Also, it is well known for recurrence locally, especially when the tumor cannot be removed completely. Filamins are actin-binding proteins which contain three family members, filamin A, B and C. They are the products of three different genes, FLNA, FLNB and FLNC, which can generate various transcript variants in different cell types. In this study, we focused on the effects of FLNBv2 and FLNBv4 toward GCT cells. The only difference between FLNBv2 and FLNBv4 is that FLNBv4 does not contain hinge 1 region. We found that the relative abundance of FLNBv4 varies among different GCT cell lines while the expression level of FLNBv4 in normal osteoblasts was only marginally detectable. In the functional aspect, overexpression of FLNBv4 led to upregulation of RANKL, OCN, OPG and RUNX2, which are closely related to GCT cell survival and differentiation. Moreover, FLNBv4 can have a negative effect on cell viability of GCT cells when compare with FLNBv2. In conclusion, splicing variants of FLNB are differentially expressed in GCT cells and may play a role in the proliferation and differentiation of tumor cells.
+27779699	27	36	filamin B	GeneOrGeneProduct	2317
+27779699	56	72	giant cell tumor	DiseaseOrPhenotypicFeature	D005870
+27779699	80	104	Giant cell tumor of bone	DiseaseOrPhenotypicFeature	D018212
+27779699	106	109	GCT	DiseaseOrPhenotypicFeature	D005870
+27779699	155	165	bone tumor	DiseaseOrPhenotypicFeature	D001859
+27779699	193	198	tumor	DiseaseOrPhenotypicFeature	D009369
+27779699	307	312	tumor	DiseaseOrPhenotypicFeature	D009369
+27779699	343	351	Filamins	GeneOrGeneProduct	2316,2317,2318
+27779699	356	378	actin-binding proteins	GeneOrGeneProduct	2316,2317,2318
+27779699	415	433	filamin A, B and C	GeneOrGeneProduct	2316,2317,2318
+27779699	483	487	FLNA	GeneOrGeneProduct	2316
+27779699	489	493	FLNB	GeneOrGeneProduct	2317
+27779699	498	502	FLNC	GeneOrGeneProduct	2318
+27779699	620	626	FLNBv2	GeneOrGeneProduct	2317
+27779699	631	637	FLNBv4	GeneOrGeneProduct	2317
+27779699	645	648	GCT	DiseaseOrPhenotypicFeature	D005870
+27779699	684	690	FLNBv2	GeneOrGeneProduct	2317
+27779699	695	701	FLNBv4	GeneOrGeneProduct	2317
+27779699	710	716	FLNBv4	GeneOrGeneProduct	2317
+27779699	790	796	FLNBv4	GeneOrGeneProduct	2317
+27779699	820	823	GCT	DiseaseOrPhenotypicFeature	D005870
+27779699	865	871	FLNBv4	GeneOrGeneProduct	2317
+27779699	970	976	FLNBv4	GeneOrGeneProduct	2317
+27779699	1000	1005	RANKL	GeneOrGeneProduct	8600
+27779699	1007	1010	OCN	GeneOrGeneProduct	632
+27779699	1012	1015	OPG	GeneOrGeneProduct	4982
+27779699	1020	1025	RUNX2	GeneOrGeneProduct	860
+27779699	1056	1059	GCT	DiseaseOrPhenotypicFeature	D005870
+27779699	1105	1111	FLNBv4	GeneOrGeneProduct	2317
+27779699	1160	1163	GCT	DiseaseOrPhenotypicFeature	D005870
+27779699	1188	1194	FLNBv2	GeneOrGeneProduct	2317
+27779699	1232	1236	FLNB	GeneOrGeneProduct	2317
+27779699	1269	1272	GCT	DiseaseOrPhenotypicFeature	D005870
+27779699	1343	1348	tumor	DiseaseOrPhenotypicFeature	D009369
+27779699	Association	860	D005870	Novel
+27779699	Association	4982	D005870	Novel
+27779699	Association	632	D005870	Novel
+27779699	Association	8600	D005870	Novel
+27779699	Association	2317	D009369	Novel
+27779699	Positive_Correlation	2317	860	Novel
+27779699	Positive_Correlation	2317	4982	Novel
+27779699	Positive_Correlation	2317	632	Novel
+27779699	Positive_Correlation	2317	8600	Novel
+27779699	Association	2317	D005870	Novel

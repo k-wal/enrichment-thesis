@@ -1,0 +1,24 @@
+28113841|t|Quantitative Susceptibility Mapping using Structural Feature based Collaborative Reconstruction (SFCR) in the Human Brain
+28113841|a|The reconstruction of MR quantitative susceptibility mapping (QSM) from local phase measurements is an ill posed inverse problem and different regularization strategies incorporating a priori information extracted from magnitude and phase images have been proposed. However, the anatomy observed in magnitude and phase images does not always coincide spatially with that in susceptibility maps, which could give erroneous estimation in the reconstructed susceptibility map. In this paper, we develop a structural feature based collaborative reconstruction (SFCR) method for QSM including both magnitude and susceptibility based information. The SFCR algorithm is composed of two consecutive steps corresponding to complementary reconstruction models, each with a structural feature based l1 norm constraint and a voxel fidelity based l2 norm constraint, which allows both the structure edges and tiny features to be recovered, whereas the noise and artifacts could be reduced. In the M-step, the initial susceptibility map is reconstructed by employing a k-space based compressed sensing model incorporating magnitude prior. In the S-step, the susceptibility map is fitted in spatial domain using weighted constraints derived from the initial susceptibility map from the M-step. Simulations and in vivo human experiments at 7T MRI show that the SFCR method provides high quality susceptibility maps with improved RMSE and MSSIM. Finally, the susceptibility values of deep gray matter are analyzed in multiple head positions, with the supine position most approximate to the gold standard COSMOS result.
+28113841	0	35	Quantitative Susceptibility Mapping	T058	UMLS:C0006117
+28113841	110	115	Human	T204	UMLS:C0086418
+28113841	116	121	Brain	T017	UMLS:C0006104
+28113841	147	182	quantitative susceptibility mapping	T058	UMLS:C0006117
+28113841	184	187	QSM	T058	UMLS:C0006117
+28113841	355	367	phase images	T170	UMLS:C1704922
+28113841	401	408	anatomy	T017	UMLS:C0700276
+28113841	435	447	phase images	T170	UMLS:C1704922
+28113841	696	699	QSM	T058	UMLS:C0006117
+28113841	772	781	algorithm	T170	UMLS:C0002045
+28113841	850	871	reconstruction models	T170	UMLS:C3161035
+28113841	885	903	structural feature	T082	UMLS:C0678594
+28113841	998	1007	structure	T082	UMLS:C0678594
+28113841	1191	1215	compressed sensing model	T170	UMLS:C3161035
+28113841	1401	1412	Simulations	T062	UMLS:C0679083
+28113841	1417	1424	in vivo	T082	UMLS:C1515655
+28113841	1425	1430	human	T204	UMLS:C0086418
+28113841	1431	1442	experiments	T062	UMLS:C0681814
+28113841	1449	1452	MRI	T058	UMLS:C0024485
+28113841	1594	1605	gray matter	T017	UMLS:C0018220
+28113841	1622	1645	multiple head positions	T082	UMLS:C0582540
+28113841	1656	1671	supine position	T082	UMLS:C0038846

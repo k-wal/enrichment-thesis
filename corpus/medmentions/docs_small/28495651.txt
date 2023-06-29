@@ -1,0 +1,37 @@
+28495651|t|Percentile categorization of QT interval as an approach for identifying adult patients at risk for cardiovascular death
+28495651|a|The results from studies of the association of QT prolongation with cardiovascular death (CVD) have been inconsistent. The purpose of this study was to compare the major correction formulas to percentile values of QT for heart rate ranges as to their ability to remove the relationship of QT to heart rate and to predict CVD. Participants were 16,531 veterans who had an initial ECG at the Veterans Affairs Medical Center, Palo Alto, between March 31, 1987, and December 20, 1999, and were followed for CVD. The 4 major correction formulas (Bazett, Fridericia, Framingham, and Hodges) were used to correct QT interval. In addition, the percentiles for heart rate ranges as proposed by Schwartz were calculated. During median follow-up of 17.8 years, 455 CVD events occurred. When compared to the other equations, QTc Bazett had the greatest dependence on heart rate (R(2) = 0.18). The hazard ratio (95% confidence interval) for CVD was 2.08 (1.28-3.9) for the 98th percentile of QT interval by heart rate ranges, 2.05 (1.27-3.33) for QTc Bazett, 1.39 (0.44-4.34) for QTc Fridericia, 1.05 (0.26-4.24) for QTc Hodges, and 1.12 (0.28-4.52) for QTc Framingham. The hazard ratio of QTc Bazett was significantly higher than the other formulas except for the 98th percentile method. The Framingham, Hodges, and Fridericia equations remove the effect of heart rate on QT interval significantly better than the Bazett equation. Using QT-interval percentiles based on heart rate provides a consistent approach both for identifying those whose QT intervals prolong due to drugs or other stressors and for assessing CVD risk.
+28495651	11	25	categorization	T170	UMLS:C0008902
+28495651	29	40	QT interval	T033	UMLS:C1287082
+28495651	47	55	approach	T082	UMLS:C0449445
+28495651	60	71	identifying	T058	UMLS:C0557971
+28495651	99	119	cardiovascular death	T201	UMLS:C2926098
+28495651	167	182	QT prolongation	T033	UMLS:C0151878
+28495651	188	208	cardiovascular death	T201	UMLS:C2926098
+28495651	210	213	CVD	T201	UMLS:C2926098
+28495651	341	351	heart rate	T201	UMLS:C0018810
+28495651	415	425	heart rate	T201	UMLS:C0018810
+28495651	441	444	CVD	T201	UMLS:C2926098
+28495651	446	458	Participants	T098	UMLS:C0679646
+28495651	471	479	veterans	T098	UMLS:C0042610
+28495651	499	502	ECG	T033	UMLS:C0013798
+28495651	510	541	Veterans Affairs Medical Center	T170	UMLS:C0282574
+28495651	543	552	Palo Alto	T082	UMLS:C3827373
+28495651	623	626	CVD	T201	UMLS:C2926098
+28495651	726	737	QT interval	T033	UMLS:C1287082
+28495651	772	782	heart rate	T201	UMLS:C0018810
+28495651	805	813	Schwartz	T204	UMLS:C0086418
+28495651	838	844	median	T082	UMLS:C2939193
+28495651	874	877	CVD	T201	UMLS:C2926098
+28495651	975	985	heart rate	T201	UMLS:C0018810
+28495651	1048	1051	CVD	T201	UMLS:C2926098
+28495651	1099	1110	QT interval	T033	UMLS:C1287082
+28495651	1114	1124	heart rate	T201	UMLS:C0018810
+28495651	1348	1356	formulas	T170	UMLS:C0489829
+28495651	1466	1476	heart rate	T201	UMLS:C0018810
+28495651	1480	1491	QT interval	T033	UMLS:C1287082
+28495651	1545	1556	QT-interval	T033	UMLS:C1287082
+28495651	1578	1588	heart rate	T201	UMLS:C0018810
+28495651	1611	1619	approach	T082	UMLS:C0449445
+28495651	1653	1665	QT intervals	T033	UMLS:C1287082
+28495651	1681	1686	drugs	T058	UMLS:C3687832
+28495651	1724	1727	CVD	T201	UMLS:C2926098

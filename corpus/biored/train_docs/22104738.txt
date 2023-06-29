@@ -1,0 +1,23 @@
+22104738|t|Novel compound heterozygous mutation of MLYCD in a Chinese patient with malonic aciduria.
+22104738|a|A 3-year-old Chinese boy presented with prominent clinical features of malonic aciduria, including developmental delay, short stature, brain abnormalities and massive excretion of malonic acid and methylmalonic acid. Molecular characterization by DNA sequencing analysis and multiplex ligation-dependent probe amplification of the MLYCD gene revealed a heterozygous mutation (c.920T>G, p.Leu307Arg) in the patient and his father and a heterozygous deletion comprising exon 1 in the patient and his mother. The missense mutation (c.920T>G) was not found in 100 healthy controls and has not been reported previously. Our findings expand the number of reported cases and add a novel entry to the repertoire of MLYCD mutations.
+22104738	40	45	MLYCD	GeneOrGeneProduct	23417
+22104738	59	66	patient	OrganismTaxon	9606
+22104738	72	88	malonic aciduria	DiseaseOrPhenotypicFeature	C535702
+22104738	161	177	malonic aciduria	DiseaseOrPhenotypicFeature	C535702
+22104738	189	208	developmental delay	DiseaseOrPhenotypicFeature	D002658
+22104738	210	223	short stature	DiseaseOrPhenotypicFeature	D006130
+22104738	225	244	brain abnormalities	DiseaseOrPhenotypicFeature	D001927
+22104738	270	282	malonic acid	ChemicalEntity	C030290
+22104738	287	305	methylmalonic acid	ChemicalEntity	D008764
+22104738	421	426	MLYCD	GeneOrGeneProduct	23417
+22104738	466	474	c.920T>G	SequenceVariant	c|SUB|T|920|G
+22104738	476	487	p.Leu307Arg	SequenceVariant	p|SUB|L|307|R
+22104738	496	503	patient	OrganismTaxon	9606
+22104738	572	579	patient	OrganismTaxon	9606
+22104738	619	627	c.920T>G	SequenceVariant	c|SUB|T|920|G
+22104738	797	802	MLYCD	GeneOrGeneProduct	23417
+22104738	Association	D008764	C535702	Novel
+22104738	Association	C030290	C535702	Novel
+22104738	Association	C535702	23417	Novel
+22104738	Association	C535702	c|SUB|T|920|G	Novel
+22104738	Association	C535702	p|SUB|L|307|R	Novel

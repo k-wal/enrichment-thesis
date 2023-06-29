@@ -1,0 +1,37 @@
+28263181|t|The cancer Warburg effect may be a testable example of the minimum entropy production rate principle
+28263181|a|Cancer cells consume more glucose by glycolytic fermentation to lactate than by respiration, a characteristic known as the Warburg effect. In contrast with the 34 moles of ATP produced by respiration, fermentation produces two moles of ATP per mole of glucose consumed, which poses a puzzle on the function of the Warburg effect. Productions of free energy (ΔG), enthalpy (ΔH) and entropy (ΔS) per mole linearly vary with the fraction (x) of glucose consumed by fermentation that is frequently estimated around 0.9. Hence, calculation shows that, in respect to pure respiration, the predominant fermentative metabolism decreases around 10% the production of entropy per mole of glucose consumed in cancer cells. We hypothesize that increased fermentation could allow cancer cells to accomplish the Prigogine theorem of the trend to minimize the rate of production of entropy. According the theorem, open cellular systems near the steady state could evolve to minimize the rates of entropy production that may be reached by modified replicating cells producing entropy at low rate. Remarkably, at CO2 concentrations above 930 ppm, glucose respiration produces less entropy than fermentation, which suggests experimental tests to validate the hypothesis of minimization of the rate of entropy production through the Warburg effect.
+28263181	4	10	cancer	T038	UMLS:C0006826
+28263181	11	25	Warburg effect	T038	UMLS:C1520120
+28263181	101	113	Cancer cells	T017	UMLS:C0334227
+28263181	127	134	glucose	T103	UMLS:C0017725
+28263181	138	161	glycolytic fermentation	T038	UMLS:C1158288
+28263181	165	172	lactate	T103	UMLS:C0376261
+28263181	181	192	respiration	T038	UMLS:C0035203
+28263181	224	238	Warburg effect	T038	UMLS:C1520120
+28263181	273	276	ATP	T103	UMLS:C0001480
+28263181	289	300	respiration	T038	UMLS:C0035203
+28263181	302	314	fermentation	T038	UMLS:C0015852
+28263181	337	340	ATP	T103	UMLS:C0001480
+28263181	353	360	glucose	T103	UMLS:C0017725
+28263181	415	429	Warburg effect	T038	UMLS:C1520120
+28263181	504	512	linearly	T082	UMLS:C0205132
+28263181	543	550	glucose	T103	UMLS:C0017725
+28263181	563	575	fermentation	T038	UMLS:C0015852
+28263181	667	678	respiration	T038	UMLS:C0035203
+28263181	696	708	fermentative	T038	UMLS:C0015852
+28263181	709	719	metabolism	T038	UMLS:C0025519
+28263181	779	786	glucose	T103	UMLS:C0017725
+28263181	799	811	cancer cells	T017	UMLS:C0334227
+28263181	843	855	fermentation	T038	UMLS:C0015852
+28263181	868	880	cancer cells	T017	UMLS:C0334227
+28263181	899	916	Prigogine theorem	T170	UMLS:C0282574
+28263181	991	998	theorem	T170	UMLS:C0282574
+28263181	1000	1021	open cellular systems	T017	UMLS:C0007634
+28263181	1124	1132	modified	T033	UMLS:C0184511
+28263181	1145	1150	cells	T017	UMLS:C0007634
+28263181	1197	1200	CO2	T103	UMLS:C0007012
+28263181	1231	1238	glucose	T103	UMLS:C0017725
+28263181	1239	1250	respiration	T038	UMLS:C0035203
+28263181	1278	1290	fermentation	T038	UMLS:C0015852
+28263181	1320	1325	tests	T058	UMLS:C0022885
+28263181	1415	1429	Warburg effect	T038	UMLS:C1520120

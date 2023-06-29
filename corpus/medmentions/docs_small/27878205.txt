@@ -1,0 +1,59 @@
+27878205|t|Iterative Development and Evaluation of a Pharmacogenomic -Guided Clinical Decision Support System for Warfarin Dosing
+27878205|a|Pharmacogenomic -guided dosing has the potential to improve patient outcomes but its implementation has been met with clinical challenges. Our objective was to develop and evaluate a clinical decision support system (CDSS) for pharmacogenomic -guided warfarin dosing designed for physicians and pharmacists. Twelve physicians and pharmacists completed 6 prescribing tasks using simulated patient scenarios in two iterations (development and validation phases) of a newly developed pharmacogenomic -driven CDSS prototype. For each scenario, usability was measured via efficiency, recorded as time to task completion, and participants ' perceived satisfaction which were compared using Kruskal-Wallis and Mann Whitney U tests, respectively. Debrief interviews were conducted and qualitatively analyzed. Usability findings from the first (i.e. development) iteration were incorporated into the CDSS design for the second (i.e. validation) iteration. During the CDSS validation iteration, participants took more time to complete tasks with a median (IQR) of 183 (124-247) seconds versus 101 (73.5-197) seconds in the development iteration (p=0.01). This increase in time on task was due to the increase in time spent in the CDSS corresponding to several design changes. Efficiency differences that were observed between pharmacists and physicians in the development iteration were eliminated in the validation iteration. The increased use of the CDSS corresponded to a greater acceptance of CDSS recommended doses in the validation iteration (4% in the first iteration vs. 37.5% in the second iteration, p<0.001). Overall satisfaction did not change statistically between the iterations but the qualitative analysis revealed greater trust in the second prototype. A pharmacogenomic -guided CDSS has been developed using warfarin as the test drug. The final CDSS prototype was trusted by prescribers and significantly increased the time using the tool and acceptance of the recommended doses. This study is an important step toward incorporating pharmacogenomics into CDSS design for clinical testing.
+27878205	0	9	Iterative	T033	UMLS:C1854293
+27878205	26	36	Evaluation	T058	UMLS:C0220825
+27878205	42	57	Pharmacogenomic	T091	UMLS:C1138555
+27878205	66	98	Clinical Decision Support System	T170	UMLS:C0525070
+27878205	119	134	Pharmacogenomic	T091	UMLS:C1138555
+27878205	246	256	challenges	T058	UMLS:C0805586
+27878205	291	299	evaluate	T058	UMLS:C0220825
+27878205	302	334	clinical decision support system	T170	UMLS:C0525070
+27878205	336	340	CDSS	T170	UMLS:C0525070
+27878205	346	361	pharmacogenomic	T091	UMLS:C1138555
+27878205	399	409	physicians	T097	UMLS:C0031831
+27878205	414	425	pharmacists	T097	UMLS:C0031323
+27878205	434	444	physicians	T097	UMLS:C0031831
+27878205	449	460	pharmacists	T097	UMLS:C0031323
+27878205	532	542	iterations	T033	UMLS:C1854293
+27878205	560	570	validation	T062	UMLS:C1519941
+27878205	600	615	pharmacogenomic	T091	UMLS:C1138555
+27878205	624	628	CDSS	T170	UMLS:C0525070
+27878205	698	706	recorded	T170	UMLS:C0034869
+27878205	739	751	participants	T098	UMLS:C0679646
+27878205	754	763	perceived	T038	UMLS:C0030971
+27878205	764	776	satisfaction	T038	UMLS:C0242428
+27878205	803	842	Kruskal-Wallis and Mann Whitney U tests	T170	UMLS:C0282574
+27878205	896	918	qualitatively analyzed	T058	UMLS:C0022885
+27878205	973	982	iteration	T033	UMLS:C1854293
+27878205	1010	1014	CDSS	T170	UMLS:C0525070
+27878205	1043	1053	validation	T062	UMLS:C1519941
+27878205	1055	1064	iteration	T033	UMLS:C1854293
+27878205	1077	1081	CDSS	T170	UMLS:C0525070
+27878205	1082	1092	validation	T062	UMLS:C1519941
+27878205	1093	1102	iteration	T033	UMLS:C1854293
+27878205	1104	1116	participants	T098	UMLS:C0679646
+27878205	1157	1163	median	T082	UMLS:C0549183
+27878205	1244	1253	iteration	T033	UMLS:C1854293
+27878205	1339	1343	CDSS	T170	UMLS:C0525070
+27878205	1435	1446	pharmacists	T097	UMLS:C0031323
+27878205	1451	1461	physicians	T097	UMLS:C0031831
+27878205	1481	1490	iteration	T033	UMLS:C1854293
+27878205	1514	1524	validation	T062	UMLS:C1519941
+27878205	1525	1534	iteration	T033	UMLS:C1854293
+27878205	1561	1565	CDSS	T170	UMLS:C0525070
+27878205	1606	1610	CDSS	T170	UMLS:C0525070
+27878205	1636	1646	validation	T062	UMLS:C1519941
+27878205	1647	1656	iteration	T033	UMLS:C1854293
+27878205	1674	1683	iteration	T033	UMLS:C1854293
+27878205	1708	1717	iteration	T033	UMLS:C1854293
+27878205	1737	1749	satisfaction	T038	UMLS:C0242428
+27878205	1791	1801	iterations	T033	UMLS:C1854293
+27878205	1810	1830	qualitative analysis	T058	UMLS:C0022885
+27878205	1881	1896	pharmacogenomic	T091	UMLS:C1138555
+27878205	1905	1909	CDSS	T170	UMLS:C0525070
+27878205	1935	1943	warfarin	T103	UMLS:C0043031
+27878205	1956	1960	drug	T103	UMLS:C1254351
+27878205	1972	1976	CDSS	T170	UMLS:C0525070
+27878205	2160	2176	pharmacogenomics	T091	UMLS:C1138555
+27878205	2182	2186	CDSS	T170	UMLS:C0525070
+27878205	2198	2214	clinical testing	T062	UMLS:C1516634

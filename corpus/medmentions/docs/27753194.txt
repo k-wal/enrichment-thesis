@@ -1,0 +1,114 @@
+27753194|t|Assessment of transient elastography in Japanese patients with non-alcoholic fatty liver disease
+27753194|a|Transient elastography (TE) is a non-invasive method for predicting liver fibrosis. However, there are limited data regarding the performance of TE in Japanese patients with non-alcoholic fatty liver disease (NAFLD). We aimed to evaluate the association between liver stiffness measurement (LSM) by TE and liver fibrosis stage, and define a cut-off value for predicting liver fibrosis. A total of 171 Japanese patients with biopsy - proven NAFLD underwent LSM using TE with FibroScan. The area under the receiver operating characteristic curve of LSM and other non-invasive markers of liver fibrosis were compared to determine the most accurate method of predicting liver fibrosis. Liver stiffness measurement significantly correlated with fibrosis stage (P < 0.001). The areas under the receiver operating characteristic curve of LSM for fibrosis stage ≥1 and ≥3 was 0.85 and 0.91, respectively and were higher than those of the aspartate aminotransferase / alanine aminotransferase ratio, aspartate aminotransferase to platelet ratio index, fibrosis-4 index, and NAFLD fibrosis score. The best cut-off values of LSM fibrosis stage ≥1 and ≥3 were 7.2 kPa (sensitivity 78.5%, specificity 78.3%) and 10.0 kPa (sensitivity 89.5%, specificity 87.6%), respectively. The combination of LSM (≥10 kPa) and type IV collagen 7 s (≥6.0 ng/mL) had a specificity of 97.6% for advanced fibrosis. The LSM in patients with high alanine aminotransferase levels or high body mass index was associated with false positive results regarding advanced fibrosis. In NAFLD patients, TE has excellent utility for the assessment of liver fibrosis, particularly for advanced stage cases. The cut-off value of LSM by TE for predicting liver fibrosis stage ≥3 is 10.0 kPa in Japanese NAFLD patients.
+27753194	0	10	Assessment	T052	C1516048
+27753194	14	36	transient elastography	T060	C2748260
+27753194	40	48	Japanese	T098	C1556094
+27753194	49	57	patients	T101	C0030705
+27753194	63	96	non-alcoholic fatty liver disease	T047	C0400966
+27753194	97	119	Transient elastography	T060	C2748260
+27753194	121	123	TE	T060	C2748260
+27753194	130	142	non-invasive	T169	C0205303
+27753194	143	149	method	T059	C0871511
+27753194	154	164	predicting	T078	C0681842
+27753194	165	179	liver fibrosis	T047	C0239946
+27753194	200	207	limited	T169	C0439801
+27753194	208	212	data	T078	C1511726
+27753194	227	238	performance	T052	C1882330
+27753194	242	244	TE	T060	C2748260
+27753194	248	256	Japanese	T098	C1556094
+27753194	257	265	patients	T101	C0030705
+27753194	271	304	non-alcoholic fatty liver disease	T047	C0400966
+27753194	306	311	NAFLD	T047	C0400966
+27753194	317	322	aimed	T078	C1947946
+27753194	326	334	evaluate	T052	C1516048
+27753194	339	350	association	T080	C0439849
+27753194	359	374	liver stiffness	T033	C4034374
+27753194	375	386	measurement	T169	C0242485
+27753194	388	391	LSM	T169	C0242485
+27753194	396	398	TE	T060	C2748260
+27753194	403	423	liver fibrosis stage	T033	C1954435
+27753194	438	451	cut-off value	T081	C1522609
+27753194	456	466	predicting	T078	C0681842
+27753194	467	481	liver fibrosis	T047	C0239946
+27753194	485	490	total	T080	C0439810
+27753194	498	506	Japanese	T098	C1556094
+27753194	507	515	patients	T101	C0030705
+27753194	521	527	biopsy	T060	C0005558
+27753194	530	536	proven	T080	C0456369
+27753194	537	542	NAFLD	T047	C0400966
+27753194	553	556	LSM	T169	C0242485
+27753194	563	565	TE	T060	C2748260
+27753194	571	580	FibroScan	T060	C2748260
+27753194	586	590	area	T082	C0205146
+27753194	601	634	receiver operating characteristic	T081	C0034772
+27753194	635	640	curve	T081	C0376690
+27753194	644	647	LSM	T169	C0242485
+27753194	658	670	non-invasive	T169	C0205303
+27753194	671	678	markers	T074	C2745888
+27753194	682	696	liver fibrosis	T047	C0239946
+27753194	702	710	compared	T052	C1707455
+27753194	733	741	accurate	T080	C0443131
+27753194	742	748	method	T059	C0871511
+27753194	752	762	predicting	T078	C0681842
+27753194	763	777	liver fibrosis	T047	C0239946
+27753194	779	794	Liver stiffness	T033	C4034374
+27753194	795	806	measurement	T169	C0242485
+27753194	807	831	significantly correlated	T080	C1707520
+27753194	837	851	fibrosis stage	T033	C1954435
+27753194	869	874	areas	T082	C0205146
+27753194	885	918	receiver operating characteristic	T081	C0034772
+27753194	919	924	curve	T081	C0376690
+27753194	928	931	LSM	T169	C0242485
+27753194	936	950	fibrosis stage	T033	C1954435
+27753194	1002	1008	higher	T080	C0205250
+27753194	1027	1053	aspartate aminotransferase	T116,T126	C0004002
+27753194	1056	1080	alanine aminotransferase	T116,T126	C0001899
+27753194	1081	1086	ratio	T081	C0456603
+27753194	1088	1114	aspartate aminotransferase	T116,T126	C0004002
+27753194	1118	1126	platelet	T025	C0005821
+27753194	1127	1138	ratio index	T170	C0918012
+27753194	1140	1156	fibrosis-4 index	T170	C4304377
+27753194	1162	1167	NAFLD	T047	C0400966
+27753194	1168	1182	fibrosis score	T081	C1954437
+27753194	1188	1192	best	T080	C1522427
+27753194	1193	1207	cut-off values	T081	C1522609
+27753194	1211	1214	LSM	T169	C0242485
+27753194	1215	1229	fibrosis stage	T033	C1954435
+27753194	1249	1252	kPa	T081	C0439474
+27753194	1254	1265	sensitivity	T081	C0392762
+27753194	1273	1284	specificity	T081	C0037791
+27753194	1301	1304	kPa	T081	C0439474
+27753194	1306	1317	sensitivity	T081	C0392762
+27753194	1325	1336	specificity	T081	C0037791
+27753194	1363	1374	combination	T080	C0205195
+27753194	1378	1381	LSM	T169	C0242485
+27753194	1387	1390	kPa	T081	C0439474
+27753194	1396	1412	type IV collagen	T116,T123	C0009333
+27753194	1436	1447	specificity	T081	C0037791
+27753194	1470	1478	fibrosis	T046	C0016059
+27753194	1484	1487	LSM	T169	C0242485
+27753194	1491	1499	patients	T101	C0030705
+27753194	1505	1509	high	T080	C0205250
+27753194	1510	1534	alanine aminotransferase	T116,T126	C0001899
+27753194	1535	1541	levels	T080	C0441889
+27753194	1545	1549	high	T080	C0205250
+27753194	1550	1565	body mass index	T201	C1305855
+27753194	1570	1585	associated with	T080	C0332281
+27753194	1586	1608	false positive results	T034	C0205557
+27753194	1628	1636	fibrosis	T046	C0016059
+27753194	1641	1646	NAFLD	T047	C0400966
+27753194	1647	1655	patients	T101	C0030705
+27753194	1657	1659	TE	T060	C2748260
+27753194	1664	1673	excellent	T080	C1961136
+27753194	1690	1700	assessment	T052	C1516048
+27753194	1704	1718	liver fibrosis	T047	C0239946
+27753194	1737	1757	advanced stage cases	T169	C0868928
+27753194	1763	1776	cut-off value	T081	C1522609
+27753194	1780	1783	LSM	T169	C0242485
+27753194	1787	1789	TE	T060	C2748260
+27753194	1794	1804	predicting	T078	C0681842
+27753194	1805	1825	liver fibrosis stage	T033	C1954435
+27753194	1837	1840	kPa	T081	C0439474
+27753194	1844	1852	Japanese	T098	C1556094
+27753194	1853	1858	NAFLD	T047	C0400966
+27753194	1859	1867	patients	T101	C0030705

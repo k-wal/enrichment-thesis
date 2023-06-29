@@ -1,0 +1,33 @@
+28334863|t|Consecutive non-natural PZ nucleobase pairs in DNA impact helical structure as seen in 50 μs molecular dynamics simulations
+28334863|a|Little is known about the influence of multiple consecutive ' non-standard ' (, 6-amino-5-nitro-2(1H)-pyridone, and, 2-amino-imidazo[1,2-a]-1,3,5-triazin-4(8H)-one) nucleobase pairs on the structural parameters of duplex DNA. nucleobase pairs follow standard rules for Watson-Crick base pairing but have rearranged hydrogen bonding donor and acceptor groups. Using the X-ray crystal structure as a starting point, we have modeled the motions of a DNA duplex built from a self-complementary oligonucleotide (5΄-CTTATPPPZZZATAAG-3΄) in water over a period of 50 μs and calculated DNA local parameters, step parameters, helix parameters, and major / minor groove widths to examine how the presence of multiple, consecutive nucleobase pairs might impact helical structure. In these simulations, the - containing DNA duplex exhibits a significantly wider major groove and greater average values of stagger, slide, rise, twist and h-rise than observed for a ' control ' oligonucleotide in which nucleobase pairs are replaced by. The molecular origins of these structural changes are likely associated with at least two differences between and. First, the electrostatic properties of differ from in terms of density distribution and dipole moment. Second, differences are seen in the base stacking of pairs in dinucleotide steps, arising from energetically favorable stacking of the nitro group in with π-electrons of the adjacent base.
+28334863	47	50	DNA	T103	UMLS:C0012854
+28334863	58	75	helical structure	T082	UMLS:C0678594
+28334863	313	323	structural	T082	UMLS:C0678594
+28334863	338	344	duplex	T082	UMLS:C0444916
+28334863	345	348	DNA	T103	UMLS:C0012854
+28334863	383	388	rules	T170	UMLS:C0870077
+28334863	393	418	Watson-Crick base pairing	T038	UMLS:C0600436
+28334863	493	516	X-ray crystal structure	T058	UMLS:C0206755
+28334863	571	574	DNA	T103	UMLS:C0012854
+28334863	575	581	duplex	T082	UMLS:C0444916
+28334863	595	629	self-complementary oligonucleotide	T103	UMLS:C0006556
+28334863	631	653	5΄-CTTATPPPZZZATAAG-3΄	T103	UMLS:C0006556
+28334863	658	663	water	T103	UMLS:C0043047
+28334863	691	701	calculated	T058	UMLS:C1443182
+28334863	702	705	DNA	T103	UMLS:C0012854
+28334863	706	711	local	T082	UMLS:C0205276
+28334863	763	768	major	T103	UMLS:C1518157
+28334863	771	783	minor groove	T103	UMLS:C1513315
+28334863	810	818	presence	T033	UMLS:C0150312
+28334863	874	891	helical structure	T082	UMLS:C0678594
+28334863	932	935	DNA	T103	UMLS:C0012854
+28334863	936	942	duplex	T082	UMLS:C0444916
+28334863	968	973	wider	T082	UMLS:C0332464
+28334863	974	986	major groove	T103	UMLS:C1518157
+28334863	1039	1044	twist	T082	UMLS:C0231467
+28334863	1088	1103	oligonucleotide	T103	UMLS:C0028953
+28334863	1178	1188	structural	T082	UMLS:C0678594
+28334863	1401	1414	base stacking	T038	UMLS:C1148560
+28334863	1484	1492	stacking	T038	UMLS:C1148560
+28334863	1520	1531	π-electrons	T103	UMLS:C0013852
+28334863	1539	1547	adjacent	T082	UMLS:C0205117

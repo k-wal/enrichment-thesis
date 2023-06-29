@@ -1,0 +1,91 @@
+27570111|t|Glucose metabolism - weighted imaging with chemical exchange-sensitive MRI of 2-deoxyglucose (2DG) in brain: Sensitivity and biological sources
+27570111|a|Recent proof-of-principle studies have demonstrated the feasibility of measuring the uptake and metabolism of non-labeled 2-deoxy-D-glucose (2DG) by a chemical exchange-sensitive spin-lock (CESL) MRI approach. In order to gain better understanding of this new approach, we performed dynamic in vivo CESL MRI on healthy rat brains with an intravenous injection of 2DG under various conditions at 9.4T. For three 2DG doses of 0.25, 0.5 and 1g/kg, we found that 2DG - CESL signals increased linearly with injection dose at the initial (<20min) but not the later period (>40min) suggesting time-dependent differential weightings of 2DG transport and metabolism. Remaining 2DG - CESL studies were performed with 0.25g/kg 2DG. Since a higher isoflurane level reduces glucose metabolism and increases blood flow, 2DG - CESL was measured under 0.5%, 1.5% and 2.2% isoflurane. The 2DG - CESL signal was reduced at higher isoflurane levels correlating well with the 2DG phosphorylation in the intracellular space. To detect regional heterogeneities of glucose metabolism, 2DG - CESL with 0.33×0.33×1.50mm(3) resolution was obtained, which indeed showed a higher response in the cortex compared to the corpus callosum. Lastly, unlike CESL MRI with the injection of non-transportable mannitol, the 2DG - CESL response decreased with an increased spin-lock pulse power confirming that 2DG - CESL is dominated by chemical exchange processes in the extravascular space. Taken together, our results showed that 2DG - CESL MRI signals mainly indicate glucose transport and metabolism and may be a useful biomarker for metabolic studies of normal and diseased brains.
+27570111	0	18	Glucose metabolism	T044	C0596620
+27570111	21	37	weighted imaging	T060	C0011923
+27570111	43	74	chemical exchange-sensitive MRI	T060	C0024485
+27570111	78	92	2-deoxyglucose	T109	C4049845
+27570111	94	97	2DG	T109	C4049845
+27570111	102	107	brain	T023	C0006104
+27570111	109	120	Sensitivity	T081	C1511883
+27570111	125	135	biological	T080	C0205460
+27570111	136	143	sources	T033	C0449416
+27570111	144	177	Recent proof-of-principle studies	T062	C2603343
+27570111	229	235	uptake	T039	C0243144
+27570111	240	250	metabolism	T040	C0025519
+27570111	266	283	2-deoxy-D-glucose	T109	C4049845
+27570111	285	288	2DG	T109	C4049845
+27570111	295	352	chemical exchange-sensitive spin-lock (CESL) MRI approach	T060	C0024485
+27570111	427	434	dynamic	T169	C0729333
+27570111	435	442	in vivo	T082	C1515655
+27570111	443	451	CESL MRI	T060	C0024485
+27570111	455	462	healthy	T080	C3898900
+27570111	463	466	rat	T015	C0086893
+27570111	467	473	brains	T023	C0006104
+27570111	482	503	intravenous injection	T169	C0021494
+27570111	507	510	2DG	T109	C4049845
+27570111	555	558	2DG	T109	C4049845
+27570111	559	564	doses	T081	C0178602
+27570111	603	606	2DG	T109	C4049845
+27570111	609	613	CESL	T060	C0024485
+27570111	614	621	signals	T067	C1710082
+27570111	622	631	increased	T081	C0205217
+27570111	646	655	injection	T061	C1533685
+27570111	656	660	dose	T081	C0178602
+27570111	772	775	2DG	T109	C4049845
+27570111	776	785	transport	T043	C0005528
+27570111	790	800	metabolism	T040	C0025519
+27570111	812	815	2DG	T109	C4049845
+27570111	818	822	CESL	T060	C0024485
+27570111	860	863	2DG	T109	C4049845
+27570111	873	879	higher	T080	C0205250
+27570111	880	890	isoflurane	T109,T121	C0022180
+27570111	891	896	level	T080	C0441889
+27570111	897	904	reduces	T080	C0392756
+27570111	905	923	glucose metabolism	T044	C0596620
+27570111	928	937	increases	T169	C0442805
+27570111	938	948	blood flow	T039	C0232338
+27570111	950	953	2DG	T109	C4049845
+27570111	956	960	CESL	T060	C0024485
+27570111	965	973	measured	T080	C0444706
+27570111	1000	1010	isoflurane	T109,T121	C0022180
+27570111	1016	1019	2DG	T109	C4049845
+27570111	1022	1026	CESL	T060	C0024485
+27570111	1027	1033	signal	T067	C1710082
+27570111	1038	1045	reduced	T080	C0392756
+27570111	1049	1055	higher	T080	C0205250
+27570111	1056	1066	isoflurane	T109,T121	C0022180
+27570111	1100	1103	2DG	T109	C4049845
+27570111	1104	1119	phosphorylation	T044	C0031715
+27570111	1127	1146	intracellular space	T030	C0682581
+27570111	1158	1182	regional heterogeneities	T102	C0086833
+27570111	1186	1204	glucose metabolism	T044	C0596620
+27570111	1206	1209	2DG	T109	C4049845
+27570111	1212	1216	CESL	T060	C0024485
+27570111	1289	1295	higher	T080	C0205250
+27570111	1312	1318	cortex	T023	C0007776
+27570111	1335	1350	corpus callosum	T023	C0010090
+27570111	1367	1375	CESL MRI	T060	C0024485
+27570111	1385	1394	injection	T061	C1533685
+27570111	1398	1424	non-transportable mannitol	T109,T121	C0024730
+27570111	1430	1433	2DG	T109	C4049845
+27570111	1436	1440	CESL	T060	C0024485
+27570111	1450	1459	decreased	T081	C0205216
+27570111	1468	1477	increased	T081	C0205217
+27570111	1478	1499	spin-lock pulse power	T081	C3854080
+27570111	1516	1519	2DG	T109	C4049845
+27570111	1522	1526	CESL	T060	C0024485
+27570111	1543	1551	chemical	T103	C0220806
+27570111	1552	1560	exchange	T201	C4019011
+27570111	1561	1570	processes	T067	C1522240
+27570111	1578	1597	extravascular space	T082	C1254362
+27570111	1639	1642	2DG	T109	C4049845
+27570111	1645	1653	CESL MRI	T060	C0024485
+27570111	1654	1661	signals	T067	C1710082
+27570111	1678	1695	glucose transport	T043	C0178666
+27570111	1700	1710	metabolism	T044	C0596620
+27570111	1731	1740	biomarker	T201	C0005516
+27570111	1745	1754	metabolic	T169	C0311400
+27570111	1755	1762	studies	T062	C2603343
+27570111	1766	1772	normal	T023	C0006104
+27570111	1777	1785	diseased	T047	C0012634
+27570111	1786	1792	brains	T023	C0006104

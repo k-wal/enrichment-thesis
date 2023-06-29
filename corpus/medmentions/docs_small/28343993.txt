@@ -1,0 +1,41 @@
+28343993|t|Discovering key residues of dengue virus NS2b-NS3-protease: New binding sites for antiviral inhibitors design
+28343993|a|The NS2B-NS3 protease is essential for the Dengue Virus (DENV) replication process. This complex constitutes a target for efficient antiviral discovery because a drug could inhibit the viral polyprotein processing. Furthermore, since the protease is highly conserved between the four Dengue virus serotypes, it is probable that a drug would be equally effective against all of them. In this article, a strategy is reported that allowed us to identify influential residues on the function of the Dengue NS2b-NS3 Protease. Moreover, this is a strategy that could be applied to virtually any protein for the search of alternative influential residues, and for non-competitive inhibitor development. First, we incorporated several features derived from computational alanine scanning mutagenesis, sequence, structure conservation, and other structure -based characteristics. Second, these features were used as variables to obtain a multilayer perceptron model to identify defined groups (clusters) of key residues as possible candidate pockets for binding sites of new leads on the DENV protease. The identified residues included: i) amino acids close to the beta sheet -loop- beta sheet known to be important in its closed conformation for NS2b ii) residues close to the active site, iii) several residues evenly spread on the NS2b-NS3 contact surface, and iv) some inner residues most likely related to the overall stability of the protease. In addition, we found concordance on our list of residues with previously identified amino acids part of a highly conserved peptide studied for vaccine development.
+28343993	28	40	dengue virus	T005	UMLS:C0011315
+28343993	41	58	NS2b-NS3-protease	T103	UMLS:C1612175
+28343993	64	77	binding sites	T103	UMLS:C0005456
+28343993	114	131	NS2B-NS3 protease	T103	UMLS:C1612175
+28343993	153	165	Dengue Virus	T005	UMLS:C0011315
+28343993	167	171	DENV	T005	UMLS:C0011315
+28343993	173	192	replication process	T038	UMLS:C1514849
+28343993	199	206	complex	T017	UMLS:C1167179
+28343993	242	251	antiviral	T103	UMLS:C0003451
+28343993	272	276	drug	T103	UMLS:C1254351
+28343993	295	323	viral polyprotein processing	T038	UMLS:C1159314
+28343993	348	356	protease	T103	UMLS:C1947941
+28343993	367	376	conserved	T082	UMLS:C0009802
+28343993	394	406	Dengue virus	T005	UMLS:C0011315
+28343993	407	416	serotypes	T170	UMLS:C0449943
+28343993	440	444	drug	T103	UMLS:C1254351
+28343993	605	611	Dengue	T005	UMLS:C0011315
+28343993	612	629	NS2b-NS3 Protease	T103	UMLS:C1612175
+28343993	699	706	protein	T103	UMLS:C0033684
+28343993	859	872	computational	T091	UMLS:C0376528
+28343993	873	880	alanine	T103	UMLS:C0001898
+28343993	881	901	scanning mutagenesis	T062	UMLS:C1517890
+28343993	903	911	sequence	T082	UMLS:C0314659
+28343993	913	935	structure conservation	T082	UMLS:C0009802
+28343993	947	956	structure	T082	UMLS:C0678594
+28343993	1039	1066	multilayer perceptron model	T170	UMLS:C0870951
+28343993	1155	1168	binding sites	T103	UMLS:C0005456
+28343993	1189	1193	DENV	T005	UMLS:C0011315
+28343993	1194	1202	protease	T103	UMLS:C1947941
+28343993	1241	1252	amino acids	T103	UMLS:C0002520
+28343993	1266	1276	beta sheet	T082	UMLS:C0162806
+28343993	1284	1294	beta sheet	T082	UMLS:C0162806
+28343993	1324	1343	closed conformation	T082	UMLS:C0033625
+28343993	1348	1352	NS2b	T103	UMLS:C1612175
+28343993	1435	1443	NS2b-NS3	T103	UMLS:C1612175
+28343993	1541	1549	protease	T103	UMLS:C1947941
+28343993	1636	1647	amino acids	T103	UMLS:C0002520
+28343993	1675	1682	peptide	T103	UMLS:C0030956
+28343993	1695	1714	vaccine development	T062	UMLS:C0597634

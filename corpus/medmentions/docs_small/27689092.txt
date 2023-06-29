@@ -1,0 +1,57 @@
+27689092|t|Aberrant LncRNA Expression Profile in a Contusion Spinal Cord Injury Mouse Model
+27689092|a|Long noncoding RNAs (LncRNAs) play a crucial role in cell growth, development, and various diseases related to the central nervous system. However, LncRNA differential expression profiles in spinal cord injury are yet to be reported. In this study, we profiled the expression pattern of LncRNAs using a microarray method in a contusion spinal cord injury (SCI) mouse model. Compared with a spinal cord without injury, few changes in LncRNA expression levels were noted 1 day after injury. The differential changes in LncRNA expression peaked 1 week after SCI and subsequently declined until 3 weeks after injury. Quantitative real-time polymerase chain reaction (qRT-PCR) was used to validate the reliability of the microarray, demonstrating that the results were reliable. Gene ontology (GO) analysis indicated that differentially expressed mRNAs were involved in transport, cell adhesion, ion transport, and metabolic processes, among others. Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis showed that the neuroactive ligand-receptor interaction, the PI3K - Akt signaling pathway, and focal adhesions were potentially implicated in SCI pathology. We constructed a dynamic LncRNA - mRNA network containing 264 LncRNAs and 949 mRNAs to elucidate the interactions between the LncRNAs and mRNAs. Overall, the results from this study indicate for the first time that LncRNAs are differentially expressed in a contusion SCI mouse model.
+27689092	9	15	LncRNA	T103	UMLS:C2982391
+27689092	40	68	Contusion Spinal Cord Injury	T037	UMLS:C0433895
+27689092	69	80	Mouse Model	T038	UMLS:C2986594
+27689092	81	100	Long noncoding RNAs	T103	UMLS:C2982391
+27689092	102	109	LncRNAs	T103	UMLS:C2982391
+27689092	134	145	cell growth	T038	UMLS:C0007595
+27689092	147	158	development	T038	UMLS:C0815089
+27689092	172	180	diseases	T038	UMLS:C0012634
+27689092	196	218	central nervous system	T017	UMLS:C1268141
+27689092	229	235	LncRNA	T103	UMLS:C2982391
+27689092	272	290	spinal cord injury	T037	UMLS:C0037929
+27689092	305	313	reported	T170	UMLS:C0684224
+27689092	346	364	expression pattern	T058	UMLS:C0752248
+27689092	368	375	LncRNAs	T103	UMLS:C2982391
+27689092	384	401	microarray method	T058	UMLS:C1449575
+27689092	407	435	contusion spinal cord injury	T037	UMLS:C0433895
+27689092	437	440	SCI	T037	UMLS:C0433895
+27689092	442	453	mouse model	T038	UMLS:C2986594
+27689092	471	482	spinal cord	T017	UMLS:C0037925
+27689092	491	497	injury	T037	UMLS:C0178314
+27689092	514	520	LncRNA	T103	UMLS:C2982391
+27689092	562	568	injury	T037	UMLS:C0178314
+27689092	598	604	LncRNA	T103	UMLS:C2982391
+27689092	605	615	expression	T038	UMLS:C0017262
+27689092	636	639	SCI	T037	UMLS:C0433895
+27689092	686	692	injury	T037	UMLS:C0178314
+27689092	694	742	Quantitative real-time polymerase chain reaction	T062	UMLS:C3179034
+27689092	744	751	qRT-PCR	T062	UMLS:C3179034
+27689092	797	807	microarray	T062	UMLS:C1522053
+27689092	855	868	Gene ontology	T170	UMLS:C1138831
+27689092	870	872	GO	T170	UMLS:C1138831
+27689092	874	882	analysis	T062	UMLS:C0936012
+27689092	898	922	differentially expressed	T038	UMLS:C0017262
+27689092	923	928	mRNAs	T103	UMLS:C0035696
+27689092	946	955	transport	T038	UMLS:C0005528
+27689092	957	970	cell adhesion	T038	UMLS:C0007577
+27689092	972	985	ion transport	T038	UMLS:C0162585
+27689092	991	1010	metabolic processes	T038	UMLS:C0025519
+27689092	1154	1158	PI3K	T103	UMLS:C0044602
+27689092	1161	1164	Akt	T103	UMLS:C0164786
+27689092	1165	1182	signaling pathway	T038	UMLS:C0037080
+27689092	1188	1203	focal adhesions	T017	UMLS:C0887870
+27689092	1235	1238	SCI	T037	UMLS:C0433895
+27689092	1275	1281	LncRNA	T103	UMLS:C2982391
+27689092	1284	1288	mRNA	T103	UMLS:C0035696
+27689092	1289	1296	network	T038	UMLS:C1720950
+27689092	1312	1319	LncRNAs	T103	UMLS:C2982391
+27689092	1328	1333	mRNAs	T103	UMLS:C0035696
+27689092	1376	1383	LncRNAs	T103	UMLS:C2982391
+27689092	1388	1393	mRNAs	T103	UMLS:C0035696
+27689092	1426	1431	study	T062	UMLS:C2603343
+27689092	1465	1472	LncRNAs	T103	UMLS:C2982391
+27689092	1477	1501	differentially expressed	T038	UMLS:C0017262
+27689092	1507	1520	contusion SCI	T037	UMLS:C0433895
+27689092	1521	1532	mouse model	T038	UMLS:C2986594

@@ -1,0 +1,18 @@
+18441470|t|Complete atrioventricular block secondary to lithium therapy.
+18441470|a|Sinus node dysfunction has been reported most frequently among the adverse cardiovascular effects of lithium. In the present case, complete atrioventricular (AV) block with syncopal attacks developed secondary to lithium therapy, necessitating permanent pacemaker implantation. Serum lithium levels remained under or within the therapeutic range during the syncopal attacks. Lithium should be used with extreme caution, especially in patients with mild disturbance of AV conduction.
+18441470	0	31	Complete atrioventricular block	DiseaseOrPhenotypicFeature	D054537
+18441470	45	52	lithium	ChemicalEntity	D008094
+18441470	62	84	Sinus node dysfunction	DiseaseOrPhenotypicFeature	D012804
+18441470	129	159	adverse cardiovascular effects	DiseaseOrPhenotypicFeature	D018376
+18441470	163	170	lithium	ChemicalEntity	D008094
+18441470	193	229	complete atrioventricular (AV) block	DiseaseOrPhenotypicFeature	D054537
+18441470	235	251	syncopal attacks	DiseaseOrPhenotypicFeature	D013575
+18441470	275	282	lithium	ChemicalEntity	D008094
+18441470	346	353	lithium	ChemicalEntity	D008094
+18441470	419	435	syncopal attacks	DiseaseOrPhenotypicFeature	D013575
+18441470	437	444	Lithium	ChemicalEntity	D008094
+18441470	496	504	patients	OrganismTaxon	9606
+18441470	Positive_Correlation	D013575	D008094	Novel
+18441470	Positive_Correlation	D054537	D008094	Novel
+18441470	Positive_Correlation	D008094	D012804	No
+18441470	Positive_Correlation	D008094	D018376	No

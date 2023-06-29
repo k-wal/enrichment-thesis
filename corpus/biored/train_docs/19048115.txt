@@ -1,0 +1,55 @@
+19048115|t|Neurofibromin 1 (NF1) defects are common in human ovarian serous carcinomas and co-occur with TP53 mutations.
+19048115|a|Ovarian serous carcinoma (OSC) is the most common and lethal histologic type of ovarian epithelial malignancy. Mutations of TP53 and dysfunction of the Brca1 and/or Brca2 tumor-suppressor proteins have been implicated in the molecular pathogenesis of a large fraction of OSCs, but frequent somatic mutations in other well-established tumor-suppressor genes have not been identified. Using a genome-wide screen of DNA copy number alterations in 36 primary OSCs, we identified two tumors with apparent homozygous deletions of the NF1 gene. Subsequently, 18 ovarian carcinoma-derived cell lines and 41 primary OSCs were evaluated for NF1 alterations. Markedly reduced or absent expression of Nf1 protein was observed in 6 of the 18 cell lines, and using the protein truncation test and sequencing of cDNA and genomic DNA, NF1 mutations resulting in deletion of exons and/or aberrant splicing of NF1 transcripts were detected in 5 of the 6 cell lines with loss of NF1 expression. Similarly, NF1 alterations including homozygous deletions and splicing mutations were identified in 9 (22%) of 41 primary OSCs. As expected, tumors and cell lines with NF1 defects lacked mutations in KRAS or BRAF but showed Ras pathway activation based on immunohistochemical detection of phosphorylated MAPK (primary tumors) or increased levels of GTP-bound Ras (cell lines). The TP53 tumor-suppressor gene was mutated in all OSCs with documented NF1 mutation, suggesting that the pathways regulated by these two tumor-suppressor proteins often cooperate in the development of ovarian carcinomas with serous differentiation.
+19048115	0	15	Neurofibromin 1	GeneOrGeneProduct	4763
+19048115	17	20	NF1	GeneOrGeneProduct	4763
+19048115	44	49	human	OrganismTaxon	9606
+19048115	50	75	ovarian serous carcinomas	DiseaseOrPhenotypicFeature	D010051
+19048115	94	98	TP53	GeneOrGeneProduct	7157
+19048115	110	134	Ovarian serous carcinoma	DiseaseOrPhenotypicFeature	D010051
+19048115	136	139	OSC	DiseaseOrPhenotypicFeature	D010051
+19048115	190	219	ovarian epithelial malignancy	DiseaseOrPhenotypicFeature	D002277
+19048115	234	238	TP53	GeneOrGeneProduct	7157
+19048115	262	267	Brca1	GeneOrGeneProduct	672
+19048115	275	280	Brca2	GeneOrGeneProduct	675
+19048115	281	286	tumor	DiseaseOrPhenotypicFeature	D009369
+19048115	381	385	OSCs	DiseaseOrPhenotypicFeature	D010051
+19048115	444	449	tumor	DiseaseOrPhenotypicFeature	D009369
+19048115	565	569	OSCs	DiseaseOrPhenotypicFeature	D010051
+19048115	589	595	tumors	DiseaseOrPhenotypicFeature	D009369
+19048115	638	641	NF1	GeneOrGeneProduct	4763
+19048115	665	682	ovarian carcinoma	DiseaseOrPhenotypicFeature	D010051
+19048115	717	721	OSCs	DiseaseOrPhenotypicFeature	D010051
+19048115	741	744	NF1	GeneOrGeneProduct	4763
+19048115	799	802	Nf1	GeneOrGeneProduct	4763
+19048115	929	932	NF1	GeneOrGeneProduct	4763
+19048115	1002	1005	NF1	GeneOrGeneProduct	4763
+19048115	1070	1073	NF1	GeneOrGeneProduct	4763
+19048115	1097	1100	NF1	GeneOrGeneProduct	4763
+19048115	1208	1212	OSCs	DiseaseOrPhenotypicFeature	D010051
+19048115	1227	1233	tumors	DiseaseOrPhenotypicFeature	D009369
+19048115	1254	1257	NF1	GeneOrGeneProduct	4763
+19048115	1286	1290	KRAS	GeneOrGeneProduct	3845
+19048115	1294	1298	BRAF	GeneOrGeneProduct	673
+19048115	1310	1313	Ras	GeneOrGeneProduct	3845
+19048115	1390	1394	MAPK	GeneOrGeneProduct	5594
+19048115	1404	1410	tumors	DiseaseOrPhenotypicFeature	D009369
+19048115	1435	1438	GTP	ChemicalEntity	D006160
+19048115	1445	1448	Ras	GeneOrGeneProduct	3845
+19048115	1467	1471	TP53	GeneOrGeneProduct	7157
+19048115	1472	1477	tumor	DiseaseOrPhenotypicFeature	D009369
+19048115	1513	1517	OSCs	DiseaseOrPhenotypicFeature	D010051
+19048115	1534	1537	NF1	GeneOrGeneProduct	4763
+19048115	1600	1605	tumor	DiseaseOrPhenotypicFeature	D009369
+19048115	1664	1682	ovarian carcinomas	DiseaseOrPhenotypicFeature	D010051
+19048115	Association	5594	D009369	No
+19048115	Bind	D006160	3845	No
+19048115	Association	D010051	4763	Novel
+19048115	Association	675	D010051	No
+19048115	Association	672	D010051	No
+19048115	Association	D009369	3845	No
+19048115	Association	D009369	675	No
+19048115	Association	D009369	672	No
+19048115	Association	D009369	4763	Novel
+19048115	Association	7157	D010051	Novel
+19048115	Association	7157	D009369	No
+19048115	Association	4763	7157	Novel

@@ -1,0 +1,69 @@
+27528862|t|A proteomic evaluation of urinary changes associated with cardiopulmonary bypass
+27528862|a|The urinary proteome of patients undergoing cardiopulmonary bypass (CPB) may provide important insights into systemic and renal changes associated with the procedure. Such information may ultimately provide a basis to differentiate changes or properties associated with the development of acute kidney injury. While mass spectrometry (MS) analysis offers the potential for in-depth compositional analysis it is often limited in coverage and relative quantitation capacity. The aim of this study was to develop a process flow for the preparation and comparison of the intraoperative urinary proteome. Urines were collected from patients at the start of CPB and 1-h into CPB. Pooled samples (n = 5) from each time point were processed using a modified Filter Assisted Sample Preparation protocol. The resulting peptides were analyzed by 2D-LC-MS / MS and by 1D-LC-MS / MS SWATH (Sequential Window acquisition of All Theoretical fragment ion spectra). The 2D-LC-MS / MS analysis identified 1324 proteins in the two pools, of which 744 were quantifiable. The SWATH approach provided quantitation for 730 proteins, 552 of which overlapped with the common population from the 2D-IDA results. Intensity correlation filtering between the two methods gave 475 proteins for biological interpretation. Proteins displaying greater than threefold changes (>log2 1.59) at 1-hour CPB relative to the initiation of CPB (26 down-regulated and 22 up-regulated) were selected for further analysis. Up-regulated proteins were enriched in GO terms related to humoral immune response, predominantly innate immunity (C4b, lactotransferrin, protein S100-A8, cathelicidin, myeloperoxidase) and extracellular matrix reorganization (e.g. MMP-9). This study describes a scheme for processing urine from patients undergoing CPB for mass spectrometry -based analysis. The introduction of SWATH into the workflow offers a sample and instrument sparing approach to obtaining consistent in-depth sample analysis. The design of the methodology is such that it can be readily applied to large numbers of clinical samples with the potential for automation. The results also suggest that activation of the innate immune responses occur during cardiac bypass surgery.
+27528862	2	22	proteomic evaluation	T058	UMLS:C1327760
+27528862	58	80	cardiopulmonary bypass	T058	UMLS:C0007202
+27528862	93	101	proteome	T103	UMLS:C0751973
+27528862	125	147	cardiopulmonary bypass	T058	UMLS:C0007202
+27528862	149	152	CPB	T058	UMLS:C0007202
+27528862	203	216	renal changes	T033	UMLS:C0184571
+27528862	237	246	procedure	T058	UMLS:C0087111
+27528862	370	389	acute kidney injury	T037	UMLS:C2609414
+27528862	397	414	mass spectrometry	T058	UMLS:C0037813
+27528862	416	418	MS	T058	UMLS:C0037813
+27528862	420	428	analysis	T062	UMLS:C0936012
+27528862	477	485	analysis	T062	UMLS:C0936012
+27528862	570	575	study	T062	UMLS:C0008972
+27528862	671	679	proteome	T103	UMLS:C0751973
+27528862	681	687	Urines	T031	UMLS:C0042036
+27528862	733	736	CPB	T058	UMLS:C0007202
+27528862	750	753	CPB	T058	UMLS:C0007202
+27528862	822	874	modified Filter Assisted Sample Preparation protocol	T058	UMLS:C1720914
+27528862	890	898	peptides	T103	UMLS:C0030956
+27528862	916	924	2D-LC-MS	T058	UMLS:C0872318
+27528862	927	929	MS	T058	UMLS:C0037813
+27528862	937	945	1D-LC-MS	T058	UMLS:C0872318
+27528862	948	950	MS	T058	UMLS:C0037813
+27528862	951	956	SWATH	T058	UMLS:C0022885
+27528862	958	1027	Sequential Window acquisition of All Theoretical fragment ion spectra	T058	UMLS:C0022885
+27528862	1034	1042	2D-LC-MS	T058	UMLS:C0872318
+27528862	1045	1047	MS	T058	UMLS:C0037813
+27528862	1048	1056	analysis	T062	UMLS:C0936012
+27528862	1073	1081	proteins	T103	UMLS:C0033684
+27528862	1093	1098	pools	T201	UMLS:C1509144
+27528862	1136	1150	SWATH approach	T058	UMLS:C0022885
+27528862	1181	1189	proteins	T103	UMLS:C0033684
+27528862	1251	1257	2D-IDA	T170	UMLS:C0449859
+27528862	1267	1288	Intensity correlation	T062	UMLS:C0010101
+27528862	1289	1298	filtering	T062	UMLS:C0242481
+27528862	1315	1322	methods	T170	UMLS:C0449309
+27528862	1332	1340	proteins	T103	UMLS:C0033684
+27528862	1372	1380	Proteins	T103	UMLS:C0033684
+27528862	1446	1449	CPB	T058	UMLS:C0007202
+27528862	1480	1483	CPB	T058	UMLS:C0007202
+27528862	1488	1502	down-regulated	T038	UMLS:C0013081
+27528862	1510	1522	up-regulated	T038	UMLS:C0041904
+27528862	1550	1558	analysis	T062	UMLS:C0936012
+27528862	1560	1572	Up-regulated	T038	UMLS:C0041904
+27528862	1573	1581	proteins	T103	UMLS:C0033684
+27528862	1599	1601	GO	T170	UMLS:C1138831
+27528862	1619	1642	humoral immune response	T038	UMLS:C1155229
+27528862	1675	1678	C4b	T103	UMLS:C1448577
+27528862	1680	1696	lactotransferrin	T103	UMLS:C0022942
+27528862	1698	1713	protein S100-A8	T103	UMLS:C4281719
+27528862	1715	1727	cathelicidin	T103	UMLS:C0671062
+27528862	1729	1744	myeloperoxidase	T103	UMLS:C0027021
+27528862	1750	1770	extracellular matrix	T017	UMLS:C0015350
+27528862	1771	1785	reorganization	T038	UMLS:C1511632
+27528862	1792	1797	MMP-9	T103	UMLS:C0165519
+27528862	1805	1810	study	T062	UMLS:C0008972
+27528862	1834	1844	processing	T058	UMLS:C0037793
+27528862	1845	1850	urine	T031	UMLS:C0042036
+27528862	1876	1879	CPB	T058	UMLS:C0007202
+27528862	1884	1901	mass spectrometry	T058	UMLS:C0037813
+27528862	1909	1917	analysis	T058	UMLS:C0002778
+27528862	1939	1944	SWATH	T058	UMLS:C0022885
+27528862	2035	2059	in-depth sample analysis	T058	UMLS:C1303103
+27528862	2079	2090	methodology	T062	UMLS:C0086912
+27528862	2206	2213	results	T033	UMLS:C0456984
+27528862	2232	2273	activation of the innate immune responses	T038	UMLS:C1817386
+27528862	2287	2309	cardiac bypass surgery	T058	UMLS:C1536078

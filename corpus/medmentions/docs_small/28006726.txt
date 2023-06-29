@@ -1,0 +1,22 @@
+28006726|t|Perfusion deconvolution in DSC-MRI with dispersion-compliant bases
+28006726|a|Perfusion imaging of the brain via Dynamic Susceptibility Contrast MRI (DSC-MRI) allows tissue perfusion characterization by recovering the tissue impulse response function and scalar parameters such as the cerebral blood flow (CBF), blood volume (CBV), and mean transit time (MTT). However, the presence of bolus dispersion causes the data to reflect macrovascular properties, in addition to tissue perfusion. In this case, when performing deconvolution of the measured arterial and tissue concentration time-curves it is only possible to recover the effective, i.e. dispersed, response function and parameters. We introduce Dispersion-Compliant Bases (DCB) to represent the response function in the presence and absence of dispersion. We perform in silico and in vivo experiments, and show that DCB deconvolution outperforms oSVD and the state-of-the-art CPI+VTF techniques in the estimation of effective perfusion parameters, regardless of the presence and amount of dispersion. We also show that DCB deconvolution can be used as a pre-processing step to improve the estimation of dispersion -free parameters computed with CPI+VTF, which employs a model of the vascular transport function to characterize dispersion. Indeed, in silico results show a reduction of relative errors up to 50% for dispersion -free CBF and MTT. Moreover, the DCB method recovers effective response functions that comply with healthy and pathological scenarios, and offers the advantage of making no assumptions about the presence, amount, and nature of dispersion.
+28006726	27	34	DSC-MRI	T058	UMLS:C0024485
+28006726	67	84	Perfusion imaging	T058	UMLS:C2350393
+28006726	92	97	brain	T017	UMLS:C0006104
+28006726	102	137	Dynamic Susceptibility Contrast MRI	T058	UMLS:C0024485
+28006726	139	146	DSC-MRI	T058	UMLS:C0024485
+28006726	155	161	tissue	T017	UMLS:C0040300
+28006726	207	213	tissue	T017	UMLS:C0040300
+28006726	274	293	cerebral blood flow	T033	UMLS:C0428714
+28006726	295	298	CBF	T033	UMLS:C0428714
+28006726	375	380	bolus	T031	UMLS:C0504082
+28006726	419	432	macrovascular	T017	UMLS:C0005847
+28006726	460	466	tissue	T017	UMLS:C0040300
+28006726	538	546	arterial	T082	UMLS:C0221464
+28006726	551	557	tissue	T017	UMLS:C0040300
+28006726	829	836	in vivo	T082	UMLS:C1515655
+28006726	837	848	experiments	T062	UMLS:C0681814
+28006726	1179	1187	computed	T058	UMLS:C1441526
+28006726	1218	1223	model	T170	UMLS:C3161035
+28006726	1231	1258	vascular transport function	T038	UMLS:C1623014
+28006726	1380	1383	CBF	T033	UMLS:C0428714

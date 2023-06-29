@@ -1,0 +1,51 @@
+28508214|t|Efficient Reverse Genetic Systems for Rapid Genetic Manipulation of Emergent and Preemergent Infectious Coronaviruses
+28508214|a|Emergent and preemergent coronaviruses (CoVs) pose a global threat that requires immediate intervention. Rapid intervention necessitates the capacity to generate, grow, and genetically manipulate infectious CoVs in order to rapidly evaluate pathogenic mechanisms, host and tissue permissibility, and candidate antiviral therapeutic efficacy. CoVs encode the largest viral RNA genomes at about 28-32,000 nucleotides in length, and thereby complicate efficient engineering of the genome. Deconstructing the genome into manageable fragments affords the plasticity necessary to rapidly introduce targeted genetic changes in parallel and assort mutated fragments while maximizing genome stability over time. In this protocol we describe a well-developed reverse genetic platform strategy for CoVs that is comprised of partitioning the viral genome into 5-7 independent DNA fragments (depending on the CoV genome), each subcloned into a plasmid for increased stability and ease of genetic manipulation and amplification. Coronavirus genomes are conveniently partitioned by introducing type IIS or IIG restriction enzyme recognition sites that confer directional cloning. Since each restriction site leaves a unique overhang between adjoining fragments, reconstruction of the full-length genome can be achieved through a standard DNA ligation comprised of equal molar ratios of each fragment. Using this method, recombinant CoVs can be rapidly generated and used to investigate host range, gene function, pathogenesis, and candidate therapeutics for emerging and preemergent CoVs both in vitro and in vivo.
+28508214	10	25	Reverse Genetic	T062	UMLS:C1657306
+28508214	93	117	Infectious Coronaviruses	T038	UMLS:C0206750
+28508214	143	156	coronaviruses	T005	UMLS:C0010076
+28508214	158	162	CoVs	T005	UMLS:C0010076
+28508214	209	221	intervention	T058	UMLS:C0017296
+28508214	223	241	Rapid intervention	T058	UMLS:C0017296
+28508214	291	313	genetically manipulate	T062	UMLS:C0017387
+28508214	314	329	infectious CoVs	T038	UMLS:C0206750
+28508214	359	369	pathogenic	T033	UMLS:C3816499
+28508214	382	412	host and tissue permissibility	T038	UMLS:C4277517
+28508214	428	458	antiviral therapeutic efficacy	T058	UMLS:C0280274
+28508214	460	464	CoVs	T005	UMLS:C0010076
+28508214	484	493	viral RNA	T103	UMLS:C0035736
+28508214	494	501	genomes	T017	UMLS:C0017428
+28508214	521	532	nucleotides	T103	UMLS:C0028630
+28508214	577	602	engineering of the genome	T062	UMLS:C0017387
+28508214	604	629	Deconstructing the genome	T062	UMLS:C0017387
+28508214	646	655	fragments	T017	UMLS:C1704681
+28508214	719	734	genetic changes	T038	UMLS:C1705285
+28508214	758	765	mutated	T038	UMLS:C1513776
+28508214	766	775	fragments	T017	UMLS:C1704681
+28508214	793	809	genome stability	T038	UMLS:C1257825
+28508214	829	837	protocol	T170	UMLS:C2348563
+28508214	867	891	reverse genetic platform	T062	UMLS:C1657306
+28508214	905	909	CoVs	T005	UMLS:C0010076
+28508214	948	960	viral genome	T017	UMLS:C0042720
+28508214	1014	1017	CoV	T005	UMLS:C0010076
+28508214	1018	1024	genome	T017	UMLS:C0017428
+28508214	1032	1041	subcloned	T058	UMLS:C0598888
+28508214	1049	1056	plasmid	T103	UMLS:C0032136
+28508214	1071	1080	stability	T038	UMLS:C1257825
+28508214	1118	1131	amplification	T038	UMLS:C0017256
+28508214	1133	1144	Coronavirus	T005	UMLS:C0010076
+28508214	1145	1152	genomes	T017	UMLS:C0017428
+28508214	1197	1205	type IIS	T103	UMLS:C0012906
+28508214	1209	1231	IIG restriction enzyme	T103	UMLS:C0012906
+28508214	1232	1249	recognition sites	T082	UMLS:C1882940
+28508214	1262	1281	directional cloning	T058	UMLS:C0598888
+28508214	1294	1310	restriction site	T082	UMLS:C1882940
+28508214	1354	1363	fragments	T017	UMLS:C1704681
+28508214	1365	1405	reconstruction of the full-length genome	T062	UMLS:C0017387
+28508214	1441	1453	DNA ligation	T038	UMLS:C1155649
+28508214	1494	1502	fragment	T031	UMLS:C0486805
+28508214	1515	1521	method	T170	UMLS:C0025663
+28508214	1601	1614	gene function	T038	UMLS:C0314627
+28508214	1616	1628	pathogenesis	T038	UMLS:C0699748
+28508214	1644	1656	therapeutics	T058	UMLS:C0087111
+28508214	1686	1690	CoVs	T005	UMLS:C0010076
+28508214	1709	1716	in vivo	T082	UMLS:C1515655

@@ -1,0 +1,138 @@
+27752744|t|Incident fracture associated with increased risk of mortality even after adjusting for frailty status in elderly Japanese men: the Fujiwara-kyo Osteoporosis Risk in Men (FORMEN) Cohort Study
+27752744|a|Frail elderly individuals have elevated risks of both fracture and mortality. We found that incident fractures were associated with an increased risk of death even after adjusting for pre-fracture frailty status as represented by physical performance tests and laboratory tests for common geriatric diseases in community-dwelling elderly Japanese men. While fractures reportedly increase the risk of mortality, frailty may complicate this association, generating a false-positive result. We evaluated this association after adjusting for pre-fracture levels of frailty. We examined 1998 community-dwelling ambulatory men aged ≥65 years at baseline in the Fujiwara-kyo Osteoporosis Risk in Men Study for frailty status as represented by activities of daily living (ADL), physical performance tests (grip strength, one-foot standing balance with eyes open, timed 10-m walk), and laboratory sera tests. Participants were then followed for 5 years for incident clinical fractures and death. Effects of incident fracture on death were determined by Cox proportional hazards model with the first fracture during follow-up as a time-dependent predictor and with frailty status indices as covariates. We identified 111 fractures in 99 men and 138 deaths during the follow-up period (median follow-up, 4.5 years). Participants with incident fractures did not have significantly worse frailty statuses, but did show a significantly higher cumulative mortality rate than those without fractures (p = 0.0047). Age-adjusted hazard ratio (HR) of death for incident fracture was 3.57 (95 % confidence interval: 2.05, 6.24). When adjusted for physical performance, this decreased to 2.77 (1.51, 5.06), but remained significant. The HR showed no significant change when adjusted for laboratory test results (3.96 (2.26, 6.94)). Exclusion of deaths within the first 24 months of follow-up did not alter these results. Incident clinical fracture was associated with an elevated risk of death independently of pre-fracture levels of frailty in community-dwelling elderly men.
+27752744	0	8	Incident	T067	C1551358
+27752744	9	17	fracture	T037	C0016658
+27752744	18	33	associated with	T080	C0332281
+27752744	34	43	increased	T081	C0205217
+27752744	44	48	risk	T078	C0035647
+27752744	52	61	mortality	T081	C0205848
+27752744	87	94	frailty	T033	C0424594
+27752744	95	101	status	T080	C0449438
+27752744	105	112	elderly	T098	C0001792
+27752744	113	121	Japanese	T098	C1556094
+27752744	122	125	men	T098	C0025266
+27752744	131	190	Fujiwara-kyo Osteoporosis Risk in Men (FORMEN) Cohort Study	T081	C0009247
+27752744	191	196	Frail	T033	C0871754
+27752744	197	204	elderly	T098	C0001792
+27752744	205	216	individuals	T098	C0237401
+27752744	222	230	elevated	T080	C3163633
+27752744	231	236	risks	T078	C0035647
+27752744	245	253	fracture	T037	C0016658
+27752744	258	267	mortality	T081	C0205848
+27752744	283	291	incident	T067	C1551358
+27752744	292	301	fractures	T037	C0016658
+27752744	307	322	associated with	T080	C0332281
+27752744	326	335	increased	T081	C0205217
+27752744	336	340	risk	T078	C0035647
+27752744	344	349	death	T033	C1306577
+27752744	375	387	pre-fracture	T037	C0016658
+27752744	388	395	frailty	T033	C0424594
+27752744	396	402	status	T080	C0449438
+27752744	421	447	physical performance tests	T060	C0679543
+27752744	452	468	laboratory tests	T059	C0022885
+27752744	480	489	geriatric	T080	C1704440
+27752744	490	498	diseases	T047	C0012634
+27752744	502	520	community-dwelling	T056	C4045975
+27752744	521	528	elderly	T098	C0001792
+27752744	529	537	Japanese	T098	C1556094
+27752744	538	541	men	T098	C0025266
+27752744	549	558	fractures	T037	C0016658
+27752744	570	578	increase	T169	C0442805
+27752744	583	587	risk	T078	C0035647
+27752744	591	600	mortality	T081	C0205848
+27752744	602	609	frailty	T033	C0424594
+27752744	614	624	complicate	T169	C0231242
+27752744	630	641	association	T080	C0439849
+27752744	656	677	false-positive result	T033	C1112254
+27752744	682	691	evaluated	T058	C0220825
+27752744	697	708	association	T080	C0439849
+27752744	729	741	pre-fracture	T037	C0016658
+27752744	742	748	levels	T080	C0441889
+27752744	752	759	frailty	T033	C0424594
+27752744	764	772	examined	T033	C0332128
+27752744	778	796	community-dwelling	T056	C4045975
+27752744	797	807	ambulatory	T169	C0439841
+27752744	808	811	men	T098	C0025266
+27752744	812	816	aged	T032	C0001779
+27752744	821	826	years	T079	C1510829
+27752744	830	838	baseline	T081	C1442488
+27752744	846	889	Fujiwara-kyo Osteoporosis Risk in Men Study	T081	C0009247
+27752744	894	901	frailty	T033	C0424594
+27752744	902	908	status	T080	C0449438
+27752744	927	953	activities of daily living	T056	C0001288
+27752744	955	958	ADL	T056	C0001288
+27752744	961	987	physical performance tests	T060	C0679543
+27752744	989	1002	grip strength	T081	C0429271
+27752744	1004	1044	one-foot standing balance with eyes open	T033	C0516711
+27752744	1046	1061	timed 10-m walk	T060	C2315460
+27752744	1068	1089	laboratory sera tests	T059	C0022885
+27752744	1079	1083	sera	T031	C0229671
+27752744	1091	1103	Participants	T098	C0679646
+27752744	1129	1134	years	T079	C0439234
+27752744	1139	1147	incident	T067	C1551358
+27752744	1148	1156	clinical	T080	C0205210
+27752744	1157	1166	fractures	T037	C0016658
+27752744	1171	1176	death	T033	C1306577
+27752744	1178	1188	Effects of	T080	C1704420
+27752744	1189	1197	incident	T067	C1551358
+27752744	1198	1206	fracture	T037	C0016658
+27752744	1210	1215	death	T033	C1306577
+27752744	1235	1265	Cox proportional hazards model	T081,T170	C0033489
+27752744	1281	1289	fracture	T037	C0016658
+27752744	1297	1306	follow-up	T058	C1522577
+27752744	1312	1336	time-dependent predictor	T078	C2698872
+27752744	1346	1368	frailty status indices	T170	C4075886
+27752744	1372	1382	covariates	T080	C0205556
+27752744	1387	1397	identified	T080	C0205396
+27752744	1402	1411	fractures	T037	C0016658
+27752744	1418	1421	men	T098	C0025266
+27752744	1430	1436	deaths	T033	C1306577
+27752744	1448	1457	follow-up	T058	C1522577
+27752744	1458	1464	period	T079	C1948053
+27752744	1466	1472	median	T082	C2939193
+27752744	1473	1482	follow-up	T058	C1522577
+27752744	1488	1493	years	T079	C0439234
+27752744	1496	1508	Participants	T098	C0679646
+27752744	1514	1522	incident	T067	C1551358
+27752744	1523	1532	fractures	T037	C0016658
+27752744	1537	1565	not have significantly worse	T033	C0243095
+27752744	1566	1573	frailty	T033	C0424594
+27752744	1574	1582	statuses	T080	C0449438
+27752744	1599	1612	significantly	T078	C0750502
+27752744	1613	1619	higher	T080	C0205250
+27752744	1620	1630	cumulative	T080	C1511559
+27752744	1631	1645	mortality rate	T081	C0205848
+27752744	1665	1674	fractures	T037	C0016658
+27752744	1689	1701	Age-adjusted	T081	C4300468
+27752744	1702	1714	hazard ratio	T081	C2985465
+27752744	1716	1718	HR	T081	C2985465
+27752744	1723	1728	death	T033	C1306577
+27752744	1733	1741	incident	T067	C1551358
+27752744	1742	1750	fracture	T037	C0016658
+27752744	1766	1785	confidence interval	T081	C0009667
+27752744	1818	1838	physical performance	T032	C2607857
+27752744	1845	1854	decreased	T081	C0205216
+27752744	1890	1901	significant	T078	C0750502
+27752744	1907	1909	HR	T081	C2985465
+27752744	1917	1938	no significant change	T033	C0442739
+27752744	1957	1980	laboratory test results	T034	C1254360
+27752744	2002	2011	Exclusion	T052	C2828389
+27752744	2015	2021	deaths	T033	C1306577
+27752744	2042	2048	months	T079	C0439231
+27752744	2052	2061	follow-up	T058	C1522577
+27752744	2066	2075	not alter	T033	C0243095
+27752744	2082	2089	results	T034	C0456984
+27752744	2091	2099	Incident	T067	C1551358
+27752744	2100	2108	clinical	T080	C0205210
+27752744	2109	2117	fracture	T037	C0016658
+27752744	2122	2137	associated with	T080	C0332281
+27752744	2141	2149	elevated	T080	C3163633
+27752744	2150	2154	risk	T078	C0035647
+27752744	2158	2163	death	T033	C1306577
+27752744	2164	2177	independently	T033	C1299583
+27752744	2181	2193	pre-fracture	T037	C0016658
+27752744	2194	2200	levels	T080	C0441889
+27752744	2204	2211	frailty	T033	C0424594
+27752744	2215	2233	community-dwelling	T056	C4045975
+27752744	2234	2241	elderly	T098	C0001792
+27752744	2242	2245	men	T098	C0025266

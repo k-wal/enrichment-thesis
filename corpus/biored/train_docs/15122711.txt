@@ -1,0 +1,28 @@
+15122711|t|POLG mutations associated with Alpers' syndrome and mitochondrial DNA depletion.
+15122711|a|Alpers' syndrome is a fatal neurogenetic disorder first described more than 70 years ago. It is an autosomal recessive, developmental mitochondrial DNA depletion disorder characterized by deficiency in mitochondrial DNA polymerase gamma (POLG) catalytic activity, refractory seizures, neurodegeneration, and liver disease. In two unrelated pedigrees of Alpers' syndrome, each affected child was found to carry a homozygous mutation in exon 17 of the POLG locus that led to a Glu873Stop mutation just upstream of the polymerase domain of the protein. In addition, each affected child was heterozygous for the G1681A mutation in exon 7 that led to an Ala467Thr substitution in POLG, within the linker region of the protein.
+15122711	0	4	POLG	GeneOrGeneProduct	5428
+15122711	31	47	Alpers' syndrome	DiseaseOrPhenotypicFeature	D002549
+15122711	52	79	mitochondrial DNA depletion	DiseaseOrPhenotypicFeature	D028361
+15122711	81	97	Alpers' syndrome	DiseaseOrPhenotypicFeature	D002549
+15122711	109	130	neurogenetic disorder	DiseaseOrPhenotypicFeature	D009422
+15122711	215	242	mitochondrial DNA depletion	DiseaseOrPhenotypicFeature	D028361
+15122711	297	317	DNA polymerase gamma	GeneOrGeneProduct	5428
+15122711	319	323	POLG	GeneOrGeneProduct	5428
+15122711	356	364	seizures	DiseaseOrPhenotypicFeature	D012640
+15122711	366	383	neurodegeneration	DiseaseOrPhenotypicFeature	D019636
+15122711	389	402	liver disease	DiseaseOrPhenotypicFeature	D008107
+15122711	434	450	Alpers' syndrome	DiseaseOrPhenotypicFeature	D002549
+15122711	531	535	POLG	GeneOrGeneProduct	5428
+15122711	556	566	Glu873Stop	SequenceVariant	rs121918047
+15122711	689	695	G1681A	SequenceVariant	rs113994095
+15122711	730	739	Ala467Thr	SequenceVariant	rs113994095
+15122711	756	760	POLG	GeneOrGeneProduct	5428
+15122711	Association	D008107	5428	No
+15122711	Association	D019636	5428	No
+15122711	Association	D012640	5428	No
+15122711	Association	rs113994095	D028361	Novel
+15122711	Association	rs113994095	D002549	Novel
+15122711	Association	rs121918047	D028361	Novel
+15122711	Association	D002549	rs121918047	Novel
+15122711	Association	5428	D028361	No
+15122711	Association	5428	D002549	No

@@ -1,0 +1,105 @@
+27723905|t|Improvement in advanced pancreatic cancer survival with novel chemotherapeutic strategies - experience of a community based hospital
+27723905|a|Background: New chemotherapeutic strategies for locally advanced or metastatic pancreatic ductal adenocarcinoma (PDAC) have been shown to improve survival in randomized clinical trials. Little is known about the use of such chemotherapies and their benefit in community-based hospitals. This retrospective study analyzes the overall survival of these patients under " real life conditions " before and after the introduction of FOLFIRINOX in 2011. Methods: We retrospectively identified consecutive patients with PDAC who were treated at our hospital from 2011 to June 2014 (2011+ cohort) and 2004 to 2010 (historical cohort). Patients were included if PDAC was diagnosed in a locally advanced or metastatic state and at least 1 cycle of chemotherapy was given. Survival was assessed until April 2016. Patients with FOLFIRINOX were further analyzed regarding drug administration and side effects. Results: 128 patients met the inclusion criteria. Of the 74 patients in the historical cohort, 62 patients received Gemcitabine. Of the 54 patients diagnosed between 2011 and June 2014, 28 patients received FOLFIRINOX and 22 Gemcitabine as the first-line chemotherapy. Only 34 % of the patients in the historical cohort received a second-line chemotherapy in comparison to 69 % in the 2011+ cohort. Median overall survival (OS) showed a survival of 13.1 months (95 % CI; 11.6 - 14.5) for the 2011+ cohort compared to 9.6 months (95 % CI; 6.1 - 13.1) in the historical group. Conclusion: This study shows a marked improvement in survival of patients diagnosed with locally advanced or metastatic PDAC in a community-based hospital during the past 4 years. The most likely reasons are the use of new polychemotherapies like FOLFIRINOX and the use of second-line chemotherapy.
+27723905	0	11	Improvement	T077	C2986411
+27723905	15	23	advanced	T080	C0205179
+27723905	24	41	pancreatic cancer	T191	C0235974
+27723905	42	50	survival	T081	C0038954
+27723905	56	61	novel	T080	C0205314
+27723905	62	89	chemotherapeutic strategies	T061	C0870057
+27723905	92	102	experience	T041	C0596545
+27723905	108	132	community based hospital	T073,T093	C0020003
+27723905	145	148	New	T080	C0205314
+27723905	149	176	chemotherapeutic strategies	T061	C0870057
+27723905	181	197	locally advanced	T080	C0205179
+27723905	201	211	metastatic	T169	C1522484
+27723905	212	244	pancreatic ductal adenocarcinoma	T191	C1335302
+27723905	246	250	PDAC	T191	C1335302
+27723905	271	278	improve	T033	C0184511
+27723905	279	287	survival	T081	C0038954
+27723905	291	317	randomized clinical trials	T062,T170	C0206034
+27723905	345	351	use of	T169	C1524063
+27723905	357	371	chemotherapies	T061	C3665472
+27723905	382	389	benefit	T081	C0814225
+27723905	393	418	community-based hospitals	T073,T093	C0020003
+27723905	425	444	retrospective study	T062	C0035363
+27723905	445	453	analyzes	T062	C0936012
+27723905	458	474	overall survival	T081	C4086681
+27723905	501	521	real life conditions	T080	C0348080
+27723905	524	530	before	T079	C0332152
+27723905	535	540	after	T079	C0687676
+27723905	545	557	introduction	T169	C0579004
+27723905	561	571	FOLFIRINOX	T061	C0879464
+27723905	593	608	retrospectively	T080	C1514923
+27723905	609	619	identified	T080	C0205396
+27723905	620	631	consecutive	T080	C1707491
+27723905	632	640	patients	T101	C0030705
+27723905	646	650	PDAC	T191	C1335302
+27723905	660	667	treated	T169	C1522326
+27723905	675	683	hospital	T073,T093	C0019994
+27723905	714	720	cohort	T098	C0599755
+27723905	740	757	historical cohort	T098	C2348984
+27723905	760	768	Patients	T101	C0030705
+27723905	774	782	included	T169	C0332257
+27723905	786	790	PDAC	T191	C1335302
+27723905	795	804	diagnosed	T060	C0430022
+27723905	810	826	locally advanced	T080	C0205179
+27723905	830	846	metastatic state	T169	C1522484
+27723905	860	883	1 cycle of chemotherapy	T061	C1302181
+27723905	888	893	given	T077	C1442162
+27723905	895	903	Survival	T081	C0038954
+27723905	908	916	assessed	T052	C1516048
+27723905	923	933	April 2016	T079	C3715024
+27723905	935	943	Patients	T101	C0030705
+27723905	949	959	FOLFIRINOX	T061	C0879464
+27723905	973	981	analyzed	T062	C0936012
+27723905	992	1011	drug administration	T058	C3469597
+27723905	1016	1028	side effects	T046	C0041755
+27723905	1043	1051	patients	T101	C0030705
+27723905	1060	1078	inclusion criteria	T080	C1512693
+27723905	1090	1098	patients	T101	C0030705
+27723905	1106	1123	historical cohort	T098	C2348984
+27723905	1128	1136	patients	T101	C0030705
+27723905	1137	1145	received	T080	C1514756
+27723905	1146	1157	Gemcitabine	T114,T121	C0045093
+27723905	1169	1177	patients	T101	C0030705
+27723905	1178	1187	diagnosed	T060	C0430022
+27723905	1219	1227	patients	T101	C0030705
+27723905	1228	1236	received	T080	C1514756
+27723905	1237	1247	FOLFIRINOX	T061	C0879464
+27723905	1255	1266	Gemcitabine	T114,T121	C0045093
+27723905	1274	1297	first-line chemotherapy	T061	C1302181
+27723905	1316	1324	patients	T101	C0030705
+27723905	1332	1349	historical cohort	T098	C2348984
+27723905	1350	1358	received	T080	C1514756
+27723905	1361	1385	second-line chemotherapy	T061	C1302181
+27723905	1389	1399	comparison	T052	C1707455
+27723905	1421	1427	cohort	T098	C0599755
+27723905	1429	1435	Median	T081	C0876920
+27723905	1436	1452	overall survival	T081	C4086681
+27723905	1454	1456	OS	T081	C4086681
+27723905	1467	1475	survival	T081	C0038954
+27723905	1484	1490	months	T079	C0439231
+27723905	1497	1499	CI	T081	C0009667
+27723905	1528	1534	cohort	T098	C0599755
+27723905	1535	1543	compared	T052	C1707455
+27723905	1564	1566	CI	T081	C0009667
+27723905	1587	1603	historical group	T098	C2348984
+27723905	1622	1627	study	T062	C2603343
+27723905	1636	1642	marked	T080	C1706089
+27723905	1643	1654	improvement	T077	C2986411
+27723905	1658	1666	survival	T081	C0038954
+27723905	1670	1678	patients	T101	C0030705
+27723905	1679	1688	diagnosed	T060	C0430022
+27723905	1694	1710	locally advanced	T080	C0205179
+27723905	1714	1724	metastatic	T169	C1522484
+27723905	1725	1729	PDAC	T191	C1335302
+27723905	1735	1759	community-based hospital	T073,T093	C0020003
+27723905	1760	1766	during	T079	C0347984
+27723905	1771	1783	past 4 years	T079	C4086728
+27723905	1801	1808	reasons	T078	C0392360
+27723905	1817	1823	use of	T169	C1524063
+27723905	1824	1827	new	T080	C0205314
+27723905	1828	1846	polychemotherapies	T061	C2717829
+27723905	1852	1862	FOLFIRINOX	T061	C0879464
+27723905	1871	1877	use of	T169	C1524063
+27723905	1878	1902	second-line chemotherapy	T061	C1302181

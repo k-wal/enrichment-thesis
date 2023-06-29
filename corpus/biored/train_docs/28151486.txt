@@ -1,0 +1,41 @@
+28151486|t|Star-PAP, a poly(A) polymerase, functions as a tumor suppressor in an orthotopic human breast cancer model.
+28151486|a|Star-PAP is a noncanonical poly(A) polymerase and required for the expression of a select set of mRNAs. However, the pathological role of Star-PAP in cancer largely remains unknown. In this study, we observed decreased expression of Star-PAP in breast cancer cell lines and tissues. Ectopic Star-PAP expression inhibited proliferation as well as colony-forming ability of breast cancer cells. In breast cancer patients, high levels of Star-PAP correlated with an improved prognosis. Moreover, by regulating the expression of BIK (BCL2-interacting killer), Star-PAP induced apoptosis of breast cancer cells through the mitochondrial pathway. The growth of breast cancer xenografts in NOD/SCID mice was also inhibited by the doxycycline-induced Star-PAP overexpression. Furthermore, Star-PAP sensitized breast cancer cells to chemotherapy drugs both in vitro and in vivo. In mammary epithelial cells, Star-PAP knockdown partially transformed these cells and induced them to undergo epithelial-mesenchymal transition (EMT). These findings suggested that Star-PAP possesses tumor-suppressing activity and can be a valuable target for developing new cancer therapeutic strategies.
+28151486	0	8	Star-PAP	GeneOrGeneProduct	64852
+28151486	12	30	poly(A) polymerase	GeneOrGeneProduct	64852
+28151486	47	52	tumor	DiseaseOrPhenotypicFeature	D009369
+28151486	81	86	human	OrganismTaxon	9606
+28151486	87	100	breast cancer	DiseaseOrPhenotypicFeature	D001943
+28151486	108	116	Star-PAP	GeneOrGeneProduct	64852
+28151486	135	153	poly(A) polymerase	GeneOrGeneProduct	64852
+28151486	246	254	Star-PAP	GeneOrGeneProduct	64852
+28151486	258	264	cancer	DiseaseOrPhenotypicFeature	D009369
+28151486	341	349	Star-PAP	GeneOrGeneProduct	64852
+28151486	353	366	breast cancer	DiseaseOrPhenotypicFeature	D001943
+28151486	399	407	Star-PAP	GeneOrGeneProduct	64852
+28151486	480	493	breast cancer	DiseaseOrPhenotypicFeature	D001943
+28151486	504	517	breast cancer	DiseaseOrPhenotypicFeature	D001943
+28151486	518	526	patients	OrganismTaxon	9606
+28151486	543	551	Star-PAP	GeneOrGeneProduct	64852
+28151486	633	636	BIK	GeneOrGeneProduct	638
+28151486	638	661	BCL2-interacting killer	GeneOrGeneProduct	638
+28151486	664	672	Star-PAP	GeneOrGeneProduct	64852
+28151486	694	707	breast cancer	DiseaseOrPhenotypicFeature	D001943
+28151486	763	776	breast cancer	DiseaseOrPhenotypicFeature	D001943
+28151486	795	799	SCID	DiseaseOrPhenotypicFeature	D016511
+28151486	800	804	mice	OrganismTaxon	10090
+28151486	831	842	doxycycline	ChemicalEntity	D004318
+28151486	851	859	Star-PAP	GeneOrGeneProduct	64852
+28151486	889	897	Star-PAP	GeneOrGeneProduct	64852
+28151486	909	922	breast cancer	DiseaseOrPhenotypicFeature	D001943
+28151486	1007	1015	Star-PAP	GeneOrGeneProduct	64852
+28151486	1159	1167	Star-PAP	GeneOrGeneProduct	64852
+28151486	1178	1183	tumor	DiseaseOrPhenotypicFeature	D009369
+28151486	1253	1259	cancer	DiseaseOrPhenotypicFeature	D009369
+28151486	Association	D004318	D016511	No
+28151486	Negative_Correlation	D004318	D001943	No
+28151486	Positive_Correlation	D004318	64852	No
+28151486	Association	638	D001943	No
+28151486	Association	638	64852	No
+28151486	Association	64852	D016511	No
+28151486	Association	64852	D001943	Novel
+28151486	Negative_Correlation	64852	D009369	Novel

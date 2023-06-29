@@ -1,0 +1,52 @@
+27233131|t|Impact of cofactor - binding loop mutations on thermotolerance and activity of E. coli transketolase
+27233131|a|Improvement of thermostability in engineered enzymes can allow biocatalysis on substrates with poor aqueous solubility. Denaturation of the cofactor - binding loops of Escherichia coli transketolase (TK) was previously linked to the loss of enzyme activity under conditions of high pH or urea. Incubation at temperatures just below the thermal melting transition, above which the protein aggregates, was also found to anneal the enzyme to give an increased specific activity. The potential role of cofactor - binding loop instability in this process remained unclear. In this work, the two cofactor - binding loops (residues 185-192 and 382-392) were progressively mutated towards the equivalent sequence from the thermostable Thermus thermophilus TK and variants assessed for their impact on both thermostability and activity. Cofactor-binding loop 2 variants had detrimental effects on specific activity at elevated temperatures, whereas the H192P mutation in cofactor-binding loop 1 resulted in a two-fold improved stability to inactivation at elevated temperatures, and increased the critical onset temperature for aggregation. The specific activity of H192P was 3-fold and 19-fold higher than that for wild-type at 60°C and 65°C respectively, and also remained 2.7-4 fold higher after re-cooling from pre-incubations at either 55°C or 60°C for 1h. Interestingly, H192P was also 2-times more active than wild-type TK at 25°C. Optimal activity was achieved at 60°C for H192P compared to 55°C for wild type. These results show that cofactor-binding loop 1, plays a pivotal role in partial denaturation and aggregation at elevated temperatures. Furthermore, a single rigidifying mutation within this loop can significantly improve the enzyme specific activity, as well as the stability to thermal denaturation and aggregation, to give an increased temperature optimum for activity.
+27233131	10	18	cofactor	T103	UMLS:C0178555
+27233131	21	33	binding loop	T082	UMLS:C0682969
+27233131	34	43	mutations	T038	UMLS:C0026882
+27233131	47	62	thermotolerance	T038	UMLS:C3544386
+27233131	67	75	activity	T038	UMLS:C0243102
+27233131	79	86	E. coli	T007	UMLS:C0014834
+27233131	87	100	transketolase	T103	UMLS:C0040709
+27233131	135	153	engineered enzymes	T103	UMLS:C0014442
+27233131	221	233	Denaturation	T038	UMLS:C0033627
+27233131	241	249	cofactor	T103	UMLS:C0178555
+27233131	252	265	binding loops	T082	UMLS:C0682969
+27233131	269	285	Escherichia coli	T007	UMLS:C0014834
+27233131	286	299	transketolase	T103	UMLS:C0040709
+27233131	301	303	TK	T103	UMLS:C0040709
+27233131	342	357	enzyme activity	T038	UMLS:C0243102
+27233131	389	393	urea	T103	UMLS:C0041942
+27233131	395	405	Incubation	T058	UMLS:C0022885
+27233131	481	488	protein	T103	UMLS:C0033684
+27233131	530	536	enzyme	T103	UMLS:C0014442
+27233131	567	575	activity	T038	UMLS:C0243102
+27233131	599	607	cofactor	T103	UMLS:C0178555
+27233131	610	622	binding loop	T082	UMLS:C0682969
+27233131	623	634	instability	T033	UMLS:C1444783
+27233131	691	699	cofactor	T103	UMLS:C0178555
+27233131	702	715	binding loops	T082	UMLS:C0682969
+27233131	717	733	residues 185-192	T082	UMLS:C0002518
+27233131	738	745	382-392	T082	UMLS:C0002518
+27233131	797	805	sequence	T082	UMLS:C0004793
+27233131	828	848	Thermus thermophilus	T007	UMLS:C0085475
+27233131	849	851	TK	T103	UMLS:C0040709
+27233131	856	864	variants	T017	UMLS:C0678941
+27233131	929	952	Cofactor-binding loop 2	T082	UMLS:C0004793
+27233131	953	961	variants	T017	UMLS:C0678941
+27233131	1045	1059	H192P mutation	T038	UMLS:C0026882
+27233131	1063	1086	cofactor-binding loop 1	T082	UMLS:C0004793
+27233131	1258	1263	H192P	T038	UMLS:C0026882
+27233131	1308	1317	wild-type	T017	UMLS:C1883559
+27233131	1407	1422	pre-incubations	T058	UMLS:C0022885
+27233131	1469	1474	H192P	T038	UMLS:C0026882
+27233131	1509	1518	wild-type	T017	UMLS:C1883559
+27233131	1519	1521	TK	T103	UMLS:C0040709
+27233131	1573	1578	H192P	T038	UMLS:C0026882
+27233131	1600	1609	wild type	T017	UMLS:C1883559
+27233131	1635	1658	cofactor-binding loop 1	T082	UMLS:C0004793
+27233131	1692	1704	denaturation	T038	UMLS:C0033627
+27233131	1762	1789	single rigidifying mutation	T038	UMLS:C0026882
+27233131	1802	1806	loop	T082	UMLS:C0004793
+27233131	1837	1861	enzyme specific activity	T038	UMLS:C0243102
+27233131	1899	1911	denaturation	T038	UMLS:C0033627
+27233131	1974	1982	activity	T038	UMLS:C0243102

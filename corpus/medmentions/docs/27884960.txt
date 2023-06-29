@@ -1,0 +1,108 @@
+27884960|t|Can inorganic phosphate explain sag during unfused tetanic contractions of skeletal muscle?
+27884960|a|We test the hypothesis that cytosolic inorganic phosphate (Pi) can account for the contraction - induced reductions in twitch duration which impair summation and cause force to decline (sag) during unfused tetanic contractions of fast-twitch muscle. A five-state model of crossbridge cycling was used to simulate twitch and unfused tetanic contractions. As Pi concentration ([Pi]) was increased from 0 to 30 mmol·L(-1), twitch duration decreased, with progressive reductions in sensitivity to Pi as [Pi] was increased. When unfused tetani were simulated with rising [Pi], sag was most pronounced when initial [Pi] was low, and when the magnitude of [Pi] increase was large. Fast-twitch extensor digitorum longus (EDL) muscles (sag-prone, typically low basal [Pi]) and slow-twitch soleus muscles (sag - resistant, typically high basal [Pi]) were isolated from 14 female C57BL/6 mice. Muscles were sequentially incubated in solutions containing either glucose or pyruvate to create typical and low Pi environments, respectively. Twitch duration was greater (P < 0.05) in pyruvate than glucose in both muscles. Stimuli applied at intervals approximately three times the time to peak twitch tension resulted in sag of 35.0 ± 3.7% in glucose and 50.5 ± 1.4% in pyruvate in the EDL (pyruvate > glucose; P < 0.05), and 3.9 ± 0.3% in glucose and 37.8 ± 2.7% in pyruvate in the soleus (pyruvate > glucose; P < 0.05). The influence of Pi on crossbridge cycling provides a tenable mechanism for sag. Moreover, the low basal [Pi] in fast-twitch relative to slow-twitch muscle has promise as an explanation for the fiber-type dependency of sag.
+27884960	4	23	inorganic phosphate	T121,T197	C0031603
+27884960	32	35	sag	T080	C1511741
+27884960	43	50	unfused	T080	C0205257
+27884960	51	71	tetanic contractions	T039	C0026820
+27884960	75	90	skeletal muscle	T024	C0242692
+27884960	104	114	hypothesis	T078	C1512571
+27884960	120	129	cytosolic	T026	C1383501
+27884960	130	149	inorganic phosphate	T121,T197	C0031603
+27884960	151	153	Pi	T121,T197	C0031603
+27884960	175	186	contraction	T039	C0026820
+27884960	189	196	induced	T169	C0205263
+27884960	197	207	reductions	T070	C0301630
+27884960	211	217	twitch	T033	C0231530
+27884960	218	226	duration	T079	C0449238
+27884960	233	239	impair	T169	C0221099
+27884960	260	265	force	T067	C0441722
+27884960	269	276	decline	T080	C1511741
+27884960	278	281	sag	T080	C1511741
+27884960	290	297	unfused	T080	C0205257
+27884960	298	318	tetanic contractions	T039	C0026820
+27884960	322	340	fast-twitch muscle	T025	C0242873
+27884960	344	360	five-state model	T075	C0026336
+27884960	364	383	crossbridge cycling	T042	C2265877
+27884960	396	404	simulate	T169	C0205173
+27884960	405	411	twitch	T033	C0231530
+27884960	416	423	unfused	T080	C0205257
+27884960	424	444	tetanic contractions	T039	C0026820
+27884960	449	451	Pi	T121,T197	C0031603
+27884960	452	465	concentration	T081	C1446561
+27884960	468	470	Pi	T121,T197	C0031603
+27884960	477	486	increased	T081	C0205217
+27884960	512	518	twitch	T033	C0231530
+27884960	519	527	duration	T079	C0449238
+27884960	528	537	decreased	T081	C0205216
+27884960	544	555	progressive	T169	C0205329
+27884960	556	566	reductions	T061	C0441610
+27884960	570	581	sensitivity	T169	C0332324
+27884960	585	587	Pi	T121,T197	C0031603
+27884960	592	594	Pi	T121,T197	C0031603
+27884960	600	609	increased	T081	C0205217
+27884960	616	623	unfused	T080	C0205257
+27884960	636	645	simulated	T062	C0679083
+27884960	659	661	Pi	T121,T197	C0031603
+27884960	664	667	sag	T080	C1511741
+27884960	677	687	pronounced	T080	C4288581
+27884960	693	700	initial	T079	C0205265
+27884960	702	704	Pi	T121,T197	C0031603
+27884960	710	713	low	T080	C0205251
+27884960	728	737	magnitude	T081	C1704240
+27884960	742	744	Pi	T121,T197	C0031603
+27884960	746	754	increase	T081	C0205217
+27884960	759	764	large	T081	C0549177
+27884960	766	777	Fast-twitch	T033	C0231530
+27884960	778	817	extensor digitorum longus (EDL) muscles	T023	C0224464
+27884960	819	828	sag-prone	T169	C0205245
+27884960	851	853	Pi	T121,T197	C0031603
+27884960	860	871	slow-twitch	T033	C0231530
+27884960	872	886	soleus muscles	T023	C0242694
+27884960	888	891	sag	T080	C1511741
+27884960	894	903	resistant	T039	C1514892
+27884960	927	929	Pi	T121,T197	C0031603
+27884960	937	945	isolated	T169	C0205409
+27884960	954	960	female	T032	C0086287
+27884960	961	973	C57BL/6 mice	T015	C1521751
+27884960	975	982	Muscles	T024	C0026845
+27884960	1001	1010	incubated	T059	C1439852
+27884960	1014	1023	solutions	T167	C0037633
+27884960	1042	1049	glucose	T109,T121,T123	C0017725
+27884960	1053	1061	pyruvate	T109,T123	C0244104
+27884960	1072	1079	typical	T080	C3538928
+27884960	1084	1087	low	T080	C0205251
+27884960	1088	1090	Pi	T121,T197	C0031603
+27884960	1091	1103	environments	T082	C0014406
+27884960	1119	1125	Twitch	T033	C0231530
+27884960	1126	1134	duration	T079	C0449238
+27884960	1161	1169	pyruvate	T109,T123	C0244104
+27884960	1175	1182	glucose	T109,T121,T123	C0017725
+27884960	1191	1198	muscles	T024	C0026845
+27884960	1200	1207	Stimuli	T067	C0234402
+27884960	1208	1215	applied	T169	C4048755
+27884960	1219	1228	intervals	T079	C1272706
+27884960	1267	1271	peak	T080	C0444505
+27884960	1272	1278	twitch	T033	C0231530
+27884960	1279	1286	tension	T033	C1442730
+27884960	1299	1302	sag	T080	C1511741
+27884960	1321	1328	glucose	T109,T121,T123	C0017725
+27884960	1348	1356	pyruvate	T109,T123	C0244104
+27884960	1364	1367	EDL	T023	C0224464
+27884960	1369	1377	pyruvate	T109,T123	C0244104
+27884960	1380	1387	glucose	T109,T121,T123	C0017725
+27884960	1418	1425	glucose	T109,T121,T123	C0017725
+27884960	1445	1453	pyruvate	T109,T123	C0244104
+27884960	1461	1467	soleus	T023	C0242694
+27884960	1469	1477	pyruvate	T109,T123	C0244104
+27884960	1480	1487	glucose	T109,T121,T123	C0017725
+27884960	1517	1519	Pi	T121,T197	C0031603
+27884960	1523	1542	crossbridge cycling	T042	C2265877
+27884960	1554	1571	tenable mechanism	T169	C0441712
+27884960	1576	1579	sag	T080	C1511741
+27884960	1595	1604	low basal	T033	C1389277
+27884960	1606	1608	Pi	T121,T197	C0031603
+27884960	1613	1624	fast-twitch	T033	C0231530
+27884960	1637	1655	slow-twitch muscle	T033	C0231530
+27884960	1674	1685	explanation	T170	C0681841
+27884960	1694	1704	fiber-type	T025	C0242697
+27884960	1719	1722	sag	T080	C1511741

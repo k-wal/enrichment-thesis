@@ -1,0 +1,78 @@
+27404466|t|Predicting Sources of Dissolved Organic Nitrogen to an Estuary from an Agro - Urban Coastal Watershed
+27404466|a|Dissolved organic nitrogen (DON) is the nitrogen (N) -containing component of dissolved organic matter (DOM) and in aquatic ecosystems is part of the biologically-reactive nitrogen pool that can degrade water quality in N - sensitive waters. Unlike inorganic N (nitrate and ammonium) DON is comprised of many different molecules of variable reactivity. Few methods exist to track the sources of DON in watersheds. In this study, DOM excitation-emission matrix (EEM) fluorescence of eight discrete DON sources was measured and modeled with parallel factor analysis (PARAFAC) and the resulting model (" FluorMod ") was fit to 516 EEMs measured in surface waters from the main stem of the Neuse River and its tributaries, located in eastern North Carolina. PARAFAC components were positively correlated to DON concentration and principle components analysis (PCA) was used to confirm separation of the eight sources. Model validation was achieved by measurement of source samples not included in the model development with an error of <10%. Application of FluorMod to surface waters of streams within the Neuse River Basin showed while >70% of DON was attributed to natural sources, non-point sources, such as soil and poultry litter leachates and street runoff, accounted for the remaining 30%. This result was consistent with changes in land use from urbanized Raleigh metropolitan area to the largely agricultural Southeastern coastal plain. Overall, the predicted fraction of non-point DON sources was consistent with previous reports of increased organic N inputs in this river basin, which are suspected of impacting the water quality of its estuary.
+27404466	11	18	Sources	T033	C0449416
+27404466	32	48	Organic Nitrogen	T109	C0576728
+27404466	71	75	Agro	T090	C0001829
+27404466	78	83	Urban	T083	C0442529
+27404466	84	101	Coastal Watershed	T083	C0442542
+27404466	112	128	organic nitrogen	T109	C0576728
+27404466	130	133	DON	T109	C0576728
+27404466	142	154	nitrogen (N)	T123,T196	C0028158
+27404466	167	176	component	T077	C1705248
+27404466	190	204	organic matter	T109	C0029224
+27404466	206	209	DOM	T109	C0029224
+27404466	218	236	aquatic ecosystems	T067	C0563034
+27404466	252	273	biologically-reactive	T123	C0566267
+27404466	274	282	nitrogen	T123,T196	C0028158
+27404466	322	323	N	T123,T196	C0028158
+27404466	326	335	sensitive	T169	C0332324
+27404466	336	342	waters	T121,T197	C0043047
+27404466	351	362	inorganic N	T123,T196	C0028158
+27404466	364	371	nitrate	T104	C0028125
+27404466	376	384	ammonium	T197	C0002611
+27404466	386	389	DON	T109	C0576728
+27404466	443	453	reactivity	UnknownType	C0678596
+27404466	486	493	sources	T033	C0449416
+27404466	497	500	DON	T109	C0576728
+27404466	531	534	DOM	T109	C0029224
+27404466	535	580	excitation-emission matrix (EEM) fluorescence	T059	C0242506
+27404466	599	602	DON	T109	C0576728
+27404466	603	610	sources	T033	C0449416
+27404466	641	665	parallel factor analysis	T081	C0015483
+27404466	667	674	PARAFAC	T081	C0015483
+27404466	694	699	model	T170	C3161035
+27404466	703	711	FluorMod	T170	C3161035
+27404466	730	734	EEMs	T059	C0242506
+27404466	747	754	surface	T082	C0205148
+27404466	755	761	waters	T121,T197	C0043047
+27404466	788	799	Neuse River	T070	C0337050
+27404466	808	819	tributaries	T070	C1254365
+27404466	832	839	eastern	T082	C1707877
+27404466	840	854	North Carolina	T083	C0028407
+27404466	856	863	PARAFAC	T081	C0015483
+27404466	891	901	correlated	T080	C1707520
+27404466	905	908	DON	T109	C0576728
+27404466	909	922	concentration	T081	C1446561
+27404466	927	956	principle components analysis	T081	C0237692
+27404466	958	961	PCA	T081	C0237692
+27404466	1007	1014	sources	T033	C0449416
+27404466	1016	1021	Model	T170	C3161035
+27404466	1022	1032	validation	T062	C1519941
+27404466	1064	1070	source	T033	C0449416
+27404466	1071	1078	samples	T167	C0370003
+27404466	1099	1104	model	T170	C3161035
+27404466	1105	1116	development	T169	C1527148
+27404466	1155	1163	FluorMod	T170	C3161035
+27404466	1175	1181	waters	T121,T197	C0043047
+27404466	1185	1192	streams	T070	C0442540
+27404466	1204	1215	Neuse River	T070	C0337050
+27404466	1243	1246	DON	T109	C0576728
+27404466	1265	1272	natural	T169	C0205296
+27404466	1273	1280	sources	T033	C0449416
+27404466	1292	1299	sources	T033	C0449416
+27404466	1309	1313	soil	T167	C0037592
+27404466	1318	1325	poultry	T012	C0032850
+27404466	1326	1332	litter	T167	C0439861
+27404466	1333	1342	leachates	T131	C1720817
+27404466	1347	1360	street runoff	T073	C0442658
+27404466	1452	1461	urbanized	T068	C0041938
+27404466	1462	1487	Raleigh metropolitan area	T083	C3828412
+27404466	1503	1515	agricultural	T090	C0001829
+27404466	1516	1528	Southeastern	T082	C1711190
+27404466	1529	1542	coastal plain	T082	C0557760
+27404466	1589	1592	DON	T109	C0576728
+27404466	1593	1600	sources	T033	C0449416
+27404466	1651	1660	organic N	T109	C0576728
+27404466	1676	1687	river basin	T070	C0337050
+27404466	1726	1739	water quality	T080	C0597680
+27404466	1747	1754	estuary	T070	C3494468

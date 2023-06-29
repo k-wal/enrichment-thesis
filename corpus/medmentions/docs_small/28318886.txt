@@ -1,0 +1,44 @@
+28318886|t|Airway inflammation phenotype prediction in asthma patients using lung sound analysis with fractional exhaled nitric oxide
+28318886|a|We previously reported the results of lung sound analysis in patients with bronchial asthma and demonstrated that the exhalation -to- inhalation sound pressure ratio in the low frequency range between 100 and 200 Hz (E/I LF) was correlated with the presence of airway inflammation and airway obstruction. We classified asthma patients by airway inflammation phenotype using the induced sputum eosinophil and neutrophil ratio and determined whether this phenotype could be predicted using E/I LF and fractional exhaled nitric oxide values. Steroid-naive bronchial asthma patients were classified into four phenotypes, including " Low inflammation " (35 patients), " Eosinophilic type " (58 patients), " Neutrophilic type " (15 patients), and " Mixed type " (15 patients) based on the results of induced sputum examinations. The E/I LF data and FeNO levels were then evaluated for the four phenotype groups; the prediction powers of these two indices were then analyzed for each phenotype. The median E/I LF value was highest in the " Mixed type " and lowest in the " Low inflammation " group. FeNO differentiated between the " Low inflammation " and " Eosinophilic type " groups, " Low inflammation " and " Neutrophilic type " groups, and " Neutrophilic type " and " Mixed type " (p < 0.0001, p = 0.007, and p = 0.04, respectively). E/I LF differentiated between the " Low inflammation " and " Eosinophilic type " groups (p = 0.006). E/I LF could distinguish the " Mixed type " group from the " Low inflammation " and " Eosinophilic type " groups (p = 0.002). A combination of the E/I LF value and FeNO may be useful for the classification of the airway inflammation phenotype in patients with bronchial asthma.
+28318886	0	6	Airway	T017	UMLS:C0458827
+28318886	7	19	inflammation	T038	UMLS:C0021368
+28318886	44	50	asthma	T038	UMLS:C0004096
+28318886	66	70	lung	T017	UMLS:C0024109
+28318886	71	85	sound analysis	T058	UMLS:C0022885
+28318886	161	165	lung	T017	UMLS:C0024109
+28318886	166	180	sound analysis	T058	UMLS:C0022885
+28318886	198	214	bronchial asthma	T038	UMLS:C0004096
+28318886	241	251	exhalation	T038	UMLS:C0231800
+28318886	257	267	inhalation	T038	UMLS:C0004048
+28318886	384	390	airway	T017	UMLS:C0458827
+28318886	391	403	inflammation	T038	UMLS:C0021368
+28318886	408	426	airway obstruction	T038	UMLS:C0001883
+28318886	442	448	asthma	T038	UMLS:C0004096
+28318886	461	467	airway	T017	UMLS:C0458827
+28318886	468	480	inflammation	T038	UMLS:C0021368
+28318886	501	515	induced sputum	T031	UMLS:C3179346
+28318886	516	526	eosinophil	T017	UMLS:C0014467
+28318886	531	541	neutrophil	T017	UMLS:C0027950
+28318886	662	692	Steroid-naive bronchial asthma	T038	UMLS:C0004096
+28318886	707	717	classified	T170	UMLS:C0008902
+28318886	756	768	inflammation	T038	UMLS:C0021368
+28318886	788	800	Eosinophilic	T033	UMLS:C3687252
+28318886	825	837	Neutrophilic	T038	UMLS:C0021368
+28318886	917	931	induced sputum	T031	UMLS:C3179346
+28318886	932	944	examinations	T058	UMLS:C0582103
+28318886	1064	1071	indices	T170	UMLS:C0918012
+28318886	1082	1090	analyzed	T062	UMLS:C0936012
+28318886	1193	1205	inflammation	T038	UMLS:C0021368
+28318886	1253	1265	inflammation	T038	UMLS:C0021368
+28318886	1274	1286	Eosinophilic	T033	UMLS:C3687252
+28318886	1308	1320	inflammation	T038	UMLS:C0021368
+28318886	1329	1341	Neutrophilic	T038	UMLS:C0021368
+28318886	1363	1375	Neutrophilic	T038	UMLS:C0021368
+28318886	1495	1507	inflammation	T038	UMLS:C0021368
+28318886	1516	1528	Eosinophilic	T033	UMLS:C3687252
+28318886	1621	1633	inflammation	T038	UMLS:C0021368
+28318886	1642	1654	Eosinophilic	T033	UMLS:C3687252
+28318886	1747	1761	classification	T170	UMLS:C0008902
+28318886	1769	1775	airway	T017	UMLS:C0458827
+28318886	1776	1788	inflammation	T038	UMLS:C0021368
+28318886	1816	1832	bronchial asthma	T038	UMLS:C0004096

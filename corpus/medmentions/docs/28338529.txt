@@ -1,0 +1,101 @@
+28338529|t|Dosimetry software Hermes Internal Radiation Dosimetry: from quantitative image reconstruction to voxel -level absorbed dose distribution
+28338529|a|The aim of this work is to validate a software package called Hermes Internal Radiation Dosimetry (HIRD) for internal dose assessment tailored for clinical practice. The software includes all the necessary steps to perform voxel -level absorbed dose calculations including quantitative reconstruction, image coregistration and volume of interest tools. The basics of voxel -level dosimetry methods and implementations to HIRD software are reviewed. Then, HIRD is validated using simulated SPECT / CT data and data from Lu-DOTATATE - treated patients by comparing absorbed kidney doses with OLINDA/EXM -based dosimetry. In addition, electron and photon dose components are studied separately in an example patient case. The simulation study showed that HIRD can reproduce time-activity curves accurately and produce absorbed doses with less than 10% error for the kidneys, liver and spleen. From the patient data, the absorbed kidney doses calculated using HIRD and using OLINDA/EXM were highly correlated (Pearson's correlation coefficient, r=0.98). From Bland-Altman plot analysis, an average absorbed dose difference of -2% was found between the methods. In addition, we found that in Lu-DOTATATE - treated patients, photons can contribute over 10% of the kidney's total dose and is partly because of cross-irradiation from high - uptake lesions close to the kidneys. HIRD is a straightforward voxel -level internal dosimetry software. Its clinical utility was verified with simulated and clinical Lu-DOTATATE - treated patient data. Patient studies also showed that photon contribution towards the total dose can be relatively high and voxel -level dose calculations can be valuable in cases where the target organ is in close proximity to high- uptake organs.
+28338529	0	18	Dosimetry software	T073,T170	C0037585
+28338529	19	54	Hermes Internal Radiation Dosimetry	T073,T170	C0037585
+28338529	61	73	quantitative	T081	C0392762
+28338529	74	94	image reconstruction	T066	C0020912
+28338529	98	103	voxel	T077	C2700259
+28338529	111	124	absorbed dose	T081	C0556643
+28338529	125	137	distribution	T169	C1704711
+28338529	165	173	validate	T090	C0037590
+28338529	176	192	software package	T073,T170	C0037585
+28338529	200	235	Hermes Internal Radiation Dosimetry	T073,T170	C0037585
+28338529	237	241	HIRD	T073,T170	C0037585
+28338529	247	260	internal dose	T081	C2986955
+28338529	261	271	assessment	T058	C0220825
+28338529	285	302	clinical practice	T170	C2986419
+28338529	308	316	software	T073,T170	C0037585
+28338529	361	366	voxel	T077	C2700259
+28338529	374	387	absorbed dose	T081	C0556643
+28338529	388	400	calculations	T052	C1441506
+28338529	411	423	quantitative	T081	C0392762
+28338529	424	438	reconstruction	T066	C0020912
+28338529	465	483	volume of interest	T077	C2986837
+28338529	484	489	tools	T170	C0037589
+28338529	505	510	voxel	T077	C2700259
+28338529	518	535	dosimetry methods	T170	C0025663
+28338529	540	555	implementations	T052	C1708476
+28338529	559	572	HIRD software	T073,T170	C0037585
+28338529	593	597	HIRD	T073,T170	C0037585
+28338529	601	610	validated	T090	C0037590
+28338529	627	632	SPECT	T060	C0040399
+28338529	635	637	CT	T060	C0040405
+28338529	638	642	data	T078	C1511726
+28338529	647	651	data	T078	C1511726
+28338529	657	668	Lu-DOTATATE	T116,T121	C3272344
+28338529	671	678	treated	T169	C1522326
+28338529	679	687	patients	T101	C0030705
+28338529	691	700	comparing	T052	C1707455
+28338529	701	722	absorbed kidney doses	T081	C0556643
+28338529	710	716	kidney	T023	C0022646
+28338529	728	738	OLINDA/EXM	T073,T170	C0037585
+28338529	746	755	dosimetry	T073,T170	C0037585
+28338529	770	778	electron	T196	C0013852
+28338529	783	789	photon	T167	C0086805
+28338529	790	794	dose	T081	C4019308
+28338529	843	850	patient	T101	C0030705
+28338529	851	855	case	T169	C0868928
+28338529	861	877	simulation study	T062	C0679083
+28338529	890	894	HIRD	T073,T170	C0037585
+28338529	909	929	time-activity curves	T081	C2986848
+28338529	930	940	accurately	T080	C0443131
+28338529	953	967	absorbed doses	T081	C0556643
+28338529	987	992	error	T080	C0743559
+28338529	1001	1008	kidneys	T023	C0022646
+28338529	1010	1015	liver	T023	C0023884
+28338529	1020	1026	spleen	T023	C0037993
+28338529	1037	1049	patient data	T170	C2707520
+28338529	1055	1076	absorbed kidney doses	T081	C0556643
+28338529	1064	1070	kidney	T023	C0022646
+28338529	1094	1098	HIRD	T073,T170	C0037585
+28338529	1109	1119	OLINDA/EXM	T073,T170	C0037585
+28338529	1144	1177	Pearson's correlation coefficient	T081	C0871052
+28338529	1193	1219	Bland-Altman plot analysis	T081	C0392762
+28338529	1224	1231	average	T081	C1510992
+28338529	1232	1245	absorbed dose	T081	C0556643
+28338529	1246	1256	difference	T080	C1705242
+28338529	1325	1336	Lu-DOTATATE	T116,T121	C3272344
+28338529	1339	1346	treated	T169	C1522326
+28338529	1347	1355	patients	T101	C0030705
+28338529	1357	1364	photons	T167	C0086805
+28338529	1369	1379	contribute	T052	C1880177
+28338529	1396	1404	kidney's	T023	C0022646
+28338529	1405	1410	total	T080	C0439810
+28338529	1411	1415	dose	T081	C4019308
+28338529	1441	1458	cross-irradiation	T070	C0851346
+28338529	1464	1468	high	T080	C0205250
+28338529	1471	1477	uptake	T039	C0243144
+28338529	1478	1485	lesions	T033	C0221198
+28338529	1486	1491	close	T033	C3810854
+28338529	1499	1506	kidneys	T023	C0022646
+28338529	1508	1512	HIRD	T073,T170	C0037585
+28338529	1518	1533	straightforward	T080	C1272701
+28338529	1534	1539	voxel	T077	C2700259
+28338529	1547	1574	internal dosimetry software	T073,T170	C0037585
+28338529	1615	1624	simulated	T062	C0679083
+28338529	1638	1649	Lu-DOTATATE	T116,T121	C3272344
+28338529	1652	1659	treated	T169	C1522326
+28338529	1660	1667	patient	T101	C0030705
+28338529	1674	1681	Patient	T101	C0030705
+28338529	1707	1713	photon	T167	C0086805
+28338529	1714	1726	contribution	T052	C1880177
+28338529	1739	1744	total	T080	C0439810
+28338529	1745	1749	dose	T081	C4019308
+28338529	1777	1782	voxel	T077	C2700259
+28338529	1790	1794	dose	T081	C0556643
+28338529	1795	1807	calculations	T052	C1441506
+28338529	1843	1849	target	T169	C1521840
+28338529	1850	1855	organ	T023	C0178784
+28338529	1862	1877	close proximity	T082	C1514583
+28338529	1887	1893	uptake	T039	C0243144
+28338529	1894	1900	organs	T023	C0178784

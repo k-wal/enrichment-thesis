@@ -1,0 +1,78 @@
+27688111|t|Prognostic significance of non-HPV16 genotypes in oropharyngeal squamous cell carcinoma
+27688111|a|Recent studies have found that cases with oropharyngeal squamous cell carcinoma (OPSCC) positive for HPV16 genotype have better overall survival compared with cases positive for other HPV genotypes. We sought to further replicate these studies and determine if this relationship is modified by expression of p16 tumor suppressor protein. We identified 238 OPSCC cases from the Carolina Head and Neck Cancer Study (CHANCE) study, a population based case-control study. Tumors that tested positive solely for HPV16 genotype and no other genotypes with PCR were classified as HPV16-positive. Tumors positive for any other high-risk HPV genotype were classified as non-HPV16-positive. Expression of p16 in the tumor was determined with immunohistochemistry. Follow-up time was calculated from the date of diagnosis to date of death or December 31, 2013. Overall survival was compared with the Kaplan-Meier curves and log-rank test. Hazard ratios (HR) adjusted for smoking, alcohol use, sex, race, and age was calculated with the Cox proportional hazard regression. Cases with HPV16-positive OPSCC had better overall survival than cases with non-HPV16-positive OPSCC (log-rank p-value: 0.010). When restricted to OPSCC cases positive for p16 expression, the same trend continued (log-rank p-value: 0.002). In the adjusted model, cases with non-HPV16-positive OPSCC had greater risk of death compared to cases with HPV16-positive tumors (HR: 1.92; 95% CI: 1.03, 3.60). This finding indicates that HPV genotyping carries valuable prognostic significance in addition to p16 status and future survival studies of OPSCC should take into account differing HPV genotypes.
+27688111	0	23	Prognostic significance	T201	C1514474
+27688111	27	46	non-HPV16 genotypes	T032	C0017431
+27688111	50	87	oropharyngeal squamous cell carcinoma	T191	C0280313
+27688111	130	167	oropharyngeal squamous cell carcinoma	T191	C0280313
+27688111	169	174	OPSCC	T191	C0280313
+27688111	176	184	positive	T034	C4288937
+27688111	189	203	HPV16 genotype	T114,T123	C3872681
+27688111	209	215	better	T080	C0332272
+27688111	216	232	overall survival	T081	C4086681
+27688111	233	241	compared	T052	C1707455
+27688111	272	285	HPV genotypes	T114,T123	C0807283
+27688111	308	317	replicate	T080	C1883725
+27688111	370	381	modified by	T080	C0205349
+27688111	382	392	expression	T045	C1171362
+27688111	396	424	p16 tumor suppressor protein	T116,T123	C0249880
+27688111	444	449	OPSCC	T191	C0280313
+27688111	465	500	Carolina Head and Neck Cancer Study	T062	C1516225
+27688111	502	508	CHANCE	T062	C1516225
+27688111	519	554	population based case-control study	T062	C1709599
+27688111	556	562	Tumors	T191	C0027651
+27688111	575	590	positive solely	T034	C4288937
+27688111	595	609	HPV16 genotype	T114,T123	C3872681
+27688111	623	632	genotypes	T032	C0017431
+27688111	638	641	PCR	T063	C0032520
+27688111	647	657	classified	T185	C0008902
+27688111	661	675	HPV16-positive	T034	C4288937
+27688111	677	683	Tumors	T191	C0027651
+27688111	684	696	positive for	T034	C4288937
+27688111	707	716	high-risk	T033	C0332167
+27688111	717	729	HPV genotype	T114,T123	C3872595
+27688111	735	745	classified	T185	C0008902
+27688111	749	767	non-HPV16-positive	T034	C4288937
+27688111	769	779	Expression	T045	C1171362
+27688111	783	786	p16	T116,T123	C0249880
+27688111	794	799	tumor	T191	C0027651
+27688111	804	814	determined	T080	C0521095
+27688111	820	840	immunohistochemistry	T060	C0021044
+27688111	881	898	date of diagnosis	T079	C2316983
+27688111	902	915	date of death	T079	C1148348
+27688111	938	954	Overall survival	T081	C4086681
+27688111	977	996	Kaplan-Meier curves	T081	C1720944
+27688111	1001	1014	log-rank test	T081	C0242928
+27688111	1016	1029	Hazard ratios	T081	C2985465
+27688111	1031	1033	HR	T081	C2985465
+27688111	1048	1055	smoking	T055	C0037369
+27688111	1057	1068	alcohol use	T055	C0001948
+27688111	1070	1073	sex	T032	C0079399
+27688111	1075	1079	race	T098	C0034510
+27688111	1085	1088	age	T032	C0001779
+27688111	1113	1147	Cox proportional hazard regression	T081,T170	C0010235
+27688111	1160	1174	HPV16-positive	T034	C4288937
+27688111	1175	1180	OPSCC	T191	C0280313
+27688111	1185	1191	better	T080	C0332272
+27688111	1192	1208	overall survival	T081	C4086681
+27688111	1225	1243	non-HPV16-positive	T034	C4288937
+27688111	1244	1249	OPSCC	T191	C0280313
+27688111	1296	1301	OPSCC	T191	C0280313
+27688111	1308	1316	positive	T033	C1446409
+27688111	1321	1335	p16 expression	T045	C1171362
+27688111	1346	1351	trend	T079	C1521798
+27688111	1423	1441	non-HPV16-positive	T034	C4288937
+27688111	1442	1447	OPSCC	T191	C0280313
+27688111	1452	1467	greater risk of	T033	C0332167
+27688111	1468	1473	death	T033	C1306577
+27688111	1497	1511	HPV16-positive	T034	C4288937
+27688111	1512	1518	tumors	T191	C0027651
+27688111	1520	1522	HR	T081	C2985465
+27688111	1556	1563	finding	T033	C0243095
+27688111	1564	1573	indicates	T033	C1444656
+27688111	1579	1582	HPV	T005	C0021344
+27688111	1583	1593	genotyping	T059	C2368152
+27688111	1602	1634	valuable prognostic significance	T201	C1514474
+27688111	1650	1653	p16	T116,T123	C0249880
+27688111	1654	1660	status	T080	C0449438
+27688111	1692	1697	OPSCC	T191	C0280313
+27688111	1733	1746	HPV genotypes	T114,T123	C0807283

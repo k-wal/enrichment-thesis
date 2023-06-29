@@ -1,0 +1,55 @@
+19721134|t|The antiarrhythmic effect and possible ionic mechanisms of pilocarpine on animal models.
+19721134|a|This study was designed to evaluate the effects of pilocarpine and explore the underlying ionic mechanism, using both aconitine-induced rat and ouabain-induced guinea pig arrhythmia models. Confocal microscopy was used to measure intracellular free-calcium concentrations ([Ca(2+)](i)) in isolated myocytes. The current data showed that pilocarpine significantly delayed onset of arrhythmias, decreased the time course of ventricular tachycardia and fibrillation, reduced arrhythmia score, and increased the survival time of arrhythmic rats and guinea pigs. [Ca(2+)](i) overload induced by aconitine or ouabain was reduced in isolated myocytes pretreated with pilocarpine. Moreover, M(3)-muscarinic acetylcholine receptor (mAChR) antagonist 4-DAMP (4-diphenylacetoxy-N-methylpiperidine-methiodide) partially abolished the beneficial effects of pilocarpine. These data suggest that pilocarpine produced antiarrhythmic actions on arrhythmic rat and guinea pig models induced by aconitine or ouabain via stimulating the cardiac M(3)-mAChR. The mechanism may be related to the improvement of Ca(2+) handling.
+19721134	59	70	pilocarpine	ChemicalEntity	D010862
+19721134	140	151	pilocarpine	ChemicalEntity	D010862
+19721134	207	216	aconitine	ChemicalEntity	D000157
+19721134	225	228	rat	OrganismTaxon	10116
+19721134	233	240	ouabain	ChemicalEntity	D010042
+19721134	249	259	guinea pig	OrganismTaxon	10141
+19721134	260	270	arrhythmia	DiseaseOrPhenotypicFeature	D001145
+19721134	338	345	calcium	ChemicalEntity	D002118
+19721134	363	369	Ca(2+)	ChemicalEntity	D002118
+19721134	426	437	pilocarpine	ChemicalEntity	D010862
+19721134	469	480	arrhythmias	DiseaseOrPhenotypicFeature	D001145
+19721134	511	551	ventricular tachycardia and fibrillation	DiseaseOrPhenotypicFeature	D017180|D014693
+19721134	561	571	arrhythmia	DiseaseOrPhenotypicFeature	D001145
+19721134	614	624	arrhythmic	DiseaseOrPhenotypicFeature	D001145
+19721134	625	629	rats	OrganismTaxon	10116
+19721134	634	645	guinea pigs	OrganismTaxon	10141
+19721134	648	654	Ca(2+)	ChemicalEntity	D002118
+19721134	679	688	aconitine	ChemicalEntity	D000157
+19721134	692	699	ouabain	ChemicalEntity	D010042
+19721134	749	760	pilocarpine	ChemicalEntity	D010862
+19721134	772	810	M(3)-muscarinic acetylcholine receptor	GeneOrGeneProduct	100379235,24260
+19721134	812	817	mAChR	GeneOrGeneProduct	100379235,24260
+19721134	830	836	4-DAMP	ChemicalEntity	C042375
+19721134	838	885	4-diphenylacetoxy-N-methylpiperidine-methiodide	ChemicalEntity	C042375
+19721134	933	944	pilocarpine	ChemicalEntity	D010862
+19721134	970	981	pilocarpine	ChemicalEntity	D010862
+19721134	1017	1027	arrhythmic	DiseaseOrPhenotypicFeature	D001145
+19721134	1028	1031	rat	OrganismTaxon	10116
+19721134	1036	1046	guinea pig	OrganismTaxon	10141
+19721134	1065	1074	aconitine	ChemicalEntity	D000157
+19721134	1078	1085	ouabain	ChemicalEntity	D010042
+19721134	1114	1124	M(3)-mAChR	GeneOrGeneProduct	100379235,24260
+19721134	1177	1183	Ca(2+)	ChemicalEntity	D002118
+19721134	Negative_Correlation	24260	C042375	No
+19721134	Association	24260	D010042	Novel
+19721134	Association	24260	D000157	Novel
+19721134	Association	24260	D001145	Novel
+19721134	Negative_Correlation	100379235	C042375	No
+19721134	Association	100379235	D010042	Novel
+19721134	Association	100379235	D000157	Novel
+19721134	Association	100379235	D001145	Novel
+19721134	Negative_Correlation	C042375	D010862	Novel
+19721134	Positive_Correlation	D002118	D010042	No
+19721134	Positive_Correlation	D002118	D000157	No
+19721134	Negative_Correlation	D002118	D010862	Novel
+19721134	Positive_Correlation	D001145	D010042	No
+19721134	Positive_Correlation	D001145	D000157	No
+19721134	Association	D010862	24260	Novel
+19721134	Association	D010862	100379235	Novel
+19721134	Negative_Correlation	D010862	D010042	Novel
+19721134	Negative_Correlation	D010862	D000157	Novel
+19721134	Negative_Correlation	D010862	D001145	Novel
+19721134	Negative_Correlation	D010862	D017180|D014693	Novel

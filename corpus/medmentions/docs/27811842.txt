@@ -1,0 +1,108 @@
+27811842|t|Inhibition of MHC-I by Brucella abortus is an early event during infection and involves EGFR pathway
+27811842|a|Brucella abortus is able to persist inside the host despite the development of potent CD8(+) T-cell responses. We have recently reported the ability of B. abortus to inhibit the interferon-γ - induced major histocompatibility complex (MHC)-I cell surface expression on human monocytes. This phenomenon was due to the B. abortus -mediated retention of MHC-I molecules within the Golgi apparatus and was dependent on bacterial viability. However, the implications of bacterial virulence or replicative capacity and the signaling pathways remained unknown. Here we demonstrated that the B. abortus mutant strains RB51 and virB10(-) are able to inhibit MHC-I expression in the same manner as wild-type B. abortus, even though they are unable to persist inside human monocytes for a long period of time. Consistent with this, the phenomenon was triggered early in time and could be observed at 8 h postinfection. At 24 and 48 h, it was even stronger. Regarding the signaling pathway, targeting epidermal growth factor (EGF) receptor (EGFR), ErbB2 (HER2) or inhibition of tumor necrosis factor - α-converting enzyme, one of the enzymes which generates soluble EGF-like ligands, resulted in partial recovery of MHC-I surface expression. Moreover, recombinant EGF and transforming growth factor-α as well as the combination of both were also able to reproduce the B. abortus - induced MHC-I downmodulation. Finally, when infection was performed in the presence of an extracellular signal-regulated kinase 1/2 (Erk1/2) inhibitor, MHC-I surface expression was significantly recovered. Overall, these results describe how B. abortus evades CD8(+) T-cell responses early during infection and exploits the EGFR - ERK signaling pathway to escape from the immune system and favor chronicity.
+27811842	0	10	Inhibition	T052	C3463820
+27811842	14	19	MHC-I	T116,T129	C0019629
+27811842	23	39	Brucella abortus	T007	C0006304
+27811842	46	51	early	T079	C1279919
+27811842	52	57	event	T051	C0441471
+27811842	58	64	during	T079	C0347984
+27811842	65	74	infection	T046	C3714514
+27811842	79	87	involves	T169	C1314939
+27811842	88	100	EGFR pathway	T044	C1155379
+27811842	101	117	Brucella abortus	T007	C0006304
+27811842	148	152	host	T001	C1167395
+27811842	165	176	development	T169	C1527148
+27811842	187	200	CD8(+) T-cell	T025	C0242629
+27811842	201	210	responses	T043	C0007613
+27811842	253	263	B. abortus	T007	C0006304
+27811842	267	274	inhibit	T052	C3463820
+27811842	279	291	interferon-γ	T116,T121,T129	C0021745
+27811842	294	301	induced	T169	C0205263
+27811842	302	342	major histocompatibility complex (MHC)-I	T116,T129	C0019629
+27811842	343	355	cell surface	T026	C0699040
+27811842	356	366	expression	T045	C1171362
+27811842	370	375	human	T016	C0086418
+27811842	376	385	monocytes	T025	C0026473
+27811842	392	402	phenomenon	T067	C1882365
+27811842	407	413	due to	T169	C0678226
+27811842	418	428	B. abortus	T007	C0006304
+27811842	439	448	retention	T043	C1753315
+27811842	452	457	MHC-I	T116,T129	C0019629
+27811842	479	494	Golgi apparatus	T026	C0018042
+27811842	503	512	dependent	T080	C0851827
+27811842	516	535	bacterial viability	T070	C1563772
+27811842	566	585	bacterial virulence	T034	C1829683
+27811842	589	600	replicative	T080	C1883725
+27811842	601	609	capacity	T081	C1516240
+27811842	618	636	signaling pathways	T044	C0037080
+27811842	646	653	unknown	T080	C0439673
+27811842	685	695	B. abortus	T007	C0006304
+27811842	696	710	mutant strains	T001	C1518614
+27811842	711	715	RB51	T007	C2316069
+27811842	720	729	virB10(-)	T033	C1513916
+27811842	742	749	inhibit	T052	C3463820
+27811842	750	755	MHC-I	T116,T129	C0019629
+27811842	756	766	expression	T045	C1171362
+27811842	789	798	wild-type	T028	C1883559
+27811842	799	809	B. abortus	T007	C0006304
+27811842	832	838	unable	T033	C1299582
+27811842	857	862	human	T016	C0086418
+27811842	863	872	monocytes	T025	C0026473
+27811842	879	898	long period of time	T079	C0040223
+27811842	926	936	phenomenon	T067	C1882365
+27811842	941	950	triggered	T080	C1444748
+27811842	951	956	early	T079	C1279919
+27811842	960	964	time	T079	C0040223
+27811842	978	986	observed	T169	C1441672
+27811842	994	1007	postinfection	T046	C0021387
+27811842	1037	1045	stronger	T080	C0442821
+27811842	1061	1078	signaling pathway	T044	C0037080
+27811842	1080	1089	targeting	T044	C1159372
+27811842	1090	1113	epidermal growth factor	T116,T121,T125	C0242275
+27811842	1115	1118	EGF	T116,T121,T125	C0242275
+27811842	1120	1128	receptor	T116,T126,T192	C0034802
+27811842	1130	1134	EGFR	T116,T126,T192	C0034802
+27811842	1137	1142	ErbB2	T116,T126,T192	C0069515
+27811842	1144	1148	HER2	T116,T126,T192	C0069515
+27811842	1153	1163	inhibition	T052	C3463820
+27811842	1167	1188	tumor necrosis factor	T116,T129	C0041368
+27811842	1191	1210	α-converting enzyme	T116,T126	C1569773
+27811842	1223	1230	enzymes	T116,T126	C0014442
+27811842	1255	1271	EGF-like ligands	T116,T123	C3849998
+27811842	1273	1281	resulted	T169	C1274040
+27811842	1285	1292	partial	T081	C0728938
+27811842	1293	1301	recovery	T052	C0237820
+27811842	1305	1310	MHC-I	T116,T129	C0019629
+27811842	1311	1318	surface	T026	C0699040
+27811842	1319	1329	expression	T045	C1171362
+27811842	1341	1356	recombinant EGF	T116	C0034861
+27811842	1361	1389	transforming growth factor-α	T116,T123	C0040688
+27811842	1405	1416	combination	T080	C0205195
+27811842	1443	1452	reproduce	T040	C0035150
+27811842	1457	1467	B. abortus	T007	C0006304
+27811842	1470	1477	induced	T169	C0205263
+27811842	1478	1483	MHC-I	T116,T129	C0019629
+27811842	1484	1498	downmodulation	UnknownType	C0678672
+27811842	1514	1523	infection	T046	C3714514
+27811842	1528	1537	performed	T169	C0884358
+27811842	1545	1553	presence	UnknownType	C0332443
+27811842	1560	1601	extracellular signal-regulated kinase 1/2	T116,T126	C0600388
+27811842	1603	1609	Erk1/2	T116,T126	C0600388
+27811842	1611	1620	inhibitor	T121	C0014432
+27811842	1622	1627	MHC-I	T116,T129	C0019629
+27811842	1628	1635	surface	T026	C0699040
+27811842	1636	1646	expression	T045	C1171362
+27811842	1651	1664	significantly	T078	C0750502
+27811842	1665	1674	recovered	T080	C0521108
+27811842	1691	1698	results	T169	C1274040
+27811842	1712	1722	B. abortus	T007	C0006304
+27811842	1730	1743	CD8(+) T-cell	T025	C0242629
+27811842	1744	1753	responses	T043	C0007613
+27811842	1754	1759	early	T079	C1279919
+27811842	1760	1766	during	T079	C0347984
+27811842	1767	1776	infection	T046	C3714514
+27811842	1794	1798	EGFR	T116,T126,T192	C0034802
+27811842	1801	1804	ERK	T116,T126	C0600388
+27811842	1805	1822	signaling pathway	T044	C0037080
+27811842	1842	1855	immune system	T022	C0020962
+27811842	1866	1876	chronicity	T079	C0547045

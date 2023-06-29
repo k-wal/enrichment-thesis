@@ -1,0 +1,32 @@
+15579441|t|Hypoxia in renal disease with proteinuria and/or glomerular hypertension.
+15579441|a|Despite the increasing need to identify and quantify tissue oxygenation at the cellular level, relatively few methods have been available. In this study, we developed a new hypoxia-responsive reporter vector using a hypoxia-responsive element of the 5' vascular endothelial growth factor untranslated region and generated a novel hypoxia-sensing transgenic rat. We then applied this animal model to the detection of tubulointerstitial hypoxia in the diseased kidney. With this model, we were able to identify diffuse cortical hypoxia in the puromycin aminonucleoside-induced nephrotic syndrome and focal and segmental hypoxia in the remnant kidney model. Expression of the hypoxia-responsive transgene increased throughout the observation period, reaching 2.2-fold at 2 weeks in the puromycin aminonucleoside model and 2.6-fold at 4 weeks in the remnant kidney model, whereas that of vascular endothelial growth factor showed a mild decrease, reflecting distinct behaviors of the two genes. The degree of hypoxia showed a positive correlation with microscopic tubulointerstitial injury in both models. Finally, we identified the localization of proliferating cell nuclear antigen-positive, ED-1-positive, and terminal dUTP nick-end labeled-positive cells in the hypoxic cortical area in the remnant kidney model. We propose here a possible pathological tie between chronic tubulointerstitial hypoxia and progressive glomerular diseases.
+15579441	0	7	Hypoxia	DiseaseOrPhenotypicFeature	D000860
+15579441	11	24	renal disease	DiseaseOrPhenotypicFeature	D007674
+15579441	30	41	proteinuria	DiseaseOrPhenotypicFeature	D011507
+15579441	60	72	hypertension	DiseaseOrPhenotypicFeature	D006973
+15579441	247	254	hypoxia	DiseaseOrPhenotypicFeature	D000860
+15579441	290	297	hypoxia	DiseaseOrPhenotypicFeature	D000860
+15579441	327	361	vascular endothelial growth factor	GeneOrGeneProduct	83785
+15579441	404	411	hypoxia	DiseaseOrPhenotypicFeature	D000860
+15579441	431	434	rat	OrganismTaxon	10116
+15579441	509	516	hypoxia	DiseaseOrPhenotypicFeature	D000860
+15579441	524	539	diseased kidney	DiseaseOrPhenotypicFeature	D007674
+15579441	600	607	hypoxia	DiseaseOrPhenotypicFeature	D000860
+15579441	615	640	puromycin aminonucleoside	ChemicalEntity	D011692
+15579441	649	667	nephrotic syndrome	DiseaseOrPhenotypicFeature	D009404
+15579441	692	699	hypoxia	DiseaseOrPhenotypicFeature	D000860
+15579441	747	754	hypoxia	DiseaseOrPhenotypicFeature	D000860
+15579441	857	882	puromycin aminonucleoside	ChemicalEntity	D011692
+15579441	958	992	vascular endothelial growth factor	GeneOrGeneProduct	83785
+15579441	1079	1086	hypoxia	DiseaseOrPhenotypicFeature	D000860
+15579441	1134	1159	tubulointerstitial injury	DiseaseOrPhenotypicFeature	D007674
+15579441	1264	1268	ED-1	GeneOrGeneProduct	302424
+15579441	1292	1296	dUTP	ChemicalEntity	C027078
+15579441	1336	1343	hypoxic	DiseaseOrPhenotypicFeature	D000860
+15579441	1466	1473	hypoxia	DiseaseOrPhenotypicFeature	D000860
+15579441	1490	1509	glomerular diseases	DiseaseOrPhenotypicFeature	D007674
+15579441	Association	302424	D000860	Novel
+15579441	Association	C027078	D000860	Novel
+15579441	Positive_Correlation	D011692	D009404	No
+15579441	Association	D000860	83785	Novel
+15579441	Association	D000860	D011692	Novel

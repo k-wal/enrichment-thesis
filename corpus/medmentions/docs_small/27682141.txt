@@ -1,0 +1,65 @@
+27682141|t|KAP Surveys and Dengue Control in Colombia: Disentangling the Effect of Sociodemographic Factors Using Multiple Correspondence Analysis
+27682141|a|During the last few decades, several studies have analyzed and described knowledge, attitudes, and practices (KAP) of populations regarding dengue. However, few studies have applied geometric data analytic techniques to generate indices from KAP domains. Results of such analyses have not been used to determine the potential effects of sociodemographic variables on the levels of KAP. The objective was to determine the sociodemographic factors related to different levels of KAP regarding dengue in two hyper-endemic cities of Colombia, using a multiple correspondence analysis (MCA) technique. In the context of a cluster randomized trial, 3,998 households were surveyed in Arauca and Armenia between 2012 and 2013. To generate KAP indexes, we performed a MCA followed by a hierarchical cluster analysis to classify each score in different groups. A quantile regression for each of the score groups was conducted. KAP indexes explained 56.1%, 79.7%, and 83.2% of the variance, with means of 4.2, 1.4, and 3.2 and values that ranged from 1 to 7, 7 and 11, respectively. The highest values of the index denoted higher levels of knowledge and practices. The attitudes index did not show the same relationship and was excluded from the analysis. In the quantile regression, age (0.06; IC: 0.03, 0.09), years of education (0.14; IC: 0.06, 0.22), and history of dengue in the family (0.21; IC: 0.12, 0.31) were positively related to lower levels of knowledge regarding dengue. The effect of such factors gradually decreased or disappeared when knowledge was higher. The practices indexes did not evidence a correlation with sociodemographic variables. These results suggest that the transformation of categorical variables into a single index by the use of MCA is possible when analyzing knowledge and practices regarding dengue from KAP questionnaires. Additionally, the magnitude of the effect of socioeconomic variables on the knowledge scores varies according to the levels of knowledge, suggesting that other factors might be influencing higher levels of knowledge.
+27682141	0	3	KAP	T038	UMLS:C0025361
+27682141	4	11	Surveys	T170	UMLS:C0038951
+27682141	16	22	Dengue	T038	UMLS:C0011311
+27682141	23	30	Control	T058	UMLS:C0920467
+27682141	34	42	Colombia	T082	UMLS:C3245499
+27682141	103	135	Multiple Correspondence Analysis	T062	UMLS:C0936012
+27682141	173	180	studies	T062	UMLS:C0681814
+27682141	186	194	analyzed	T062	UMLS:C0936012
+27682141	209	218	knowledge	T170	UMLS:C0376554
+27682141	220	229	attitudes	T038	UMLS:C0004271
+27682141	235	244	practices	T038	UMLS:C0032893
+27682141	246	249	KAP	T038	UMLS:C0025361
+27682141	254	265	populations	T098	UMLS:C1257890
+27682141	276	282	dengue	T038	UMLS:C0011311
+27682141	297	304	studies	T062	UMLS:C0681814
+27682141	365	372	indices	T170	UMLS:C0918012
+27682141	378	381	KAP	T038	UMLS:C0025361
+27682141	407	415	analyses	T062	UMLS:C0936012
+27682141	517	520	KAP	T038	UMLS:C0025361
+27682141	526	535	objective	T170	UMLS:C0018017
+27682141	613	616	KAP	T038	UMLS:C0025361
+27682141	627	633	dengue	T038	UMLS:C0011311
+27682141	641	661	hyper-endemic cities	T082	UMLS:C0008848
+27682141	665	673	Colombia	T082	UMLS:C3245499
+27682141	683	715	multiple correspondence analysis	T062	UMLS:C0936012
+27682141	717	720	MCA	T062	UMLS:C0936012
+27682141	761	777	randomized trial	T062	UMLS:C0206034
+27682141	801	809	surveyed	T170	UMLS:C0038951
+27682141	813	819	Arauca	T082	UMLS:C0017446
+27682141	824	831	Armenia	T082	UMLS:C0003798
+27682141	867	870	KAP	T038	UMLS:C0025361
+27682141	871	878	indexes	T170	UMLS:C0600653
+27682141	895	898	MCA	T062	UMLS:C0936012
+27682141	913	942	hierarchical cluster analysis	T062	UMLS:C1881045
+27682141	946	954	classify	T170	UMLS:C0008902
+27682141	1053	1056	KAP	T038	UMLS:C0025361
+27682141	1057	1064	indexes	T170	UMLS:C0600653
+27682141	1234	1239	index	T170	UMLS:C0918012
+27682141	1265	1274	knowledge	T170	UMLS:C0376554
+27682141	1279	1288	practices	T038	UMLS:C0032893
+27682141	1294	1309	attitudes index	T170	UMLS:C0918012
+27682141	1371	1379	analysis	T062	UMLS:C0936012
+27682141	1495	1501	dengue	T038	UMLS:C0011311
+27682141	1544	1554	positively	T033	UMLS:C0243095
+27682141	1566	1571	lower	T082	UMLS:C0441994
+27682141	1582	1591	knowledge	T170	UMLS:C0376554
+27682141	1602	1608	dengue	T038	UMLS:C0011311
+27682141	1660	1671	disappeared	T033	UMLS:C0243095
+27682141	1677	1686	knowledge	T170	UMLS:C0376554
+27682141	1703	1712	practices	T038	UMLS:C0032893
+27682141	1713	1720	indexes	T170	UMLS:C0600653
+27682141	1816	1830	transformation	T062	UMLS:C1705163
+27682141	1863	1875	single index	T170	UMLS:C0918012
+27682141	1890	1893	MCA	T062	UMLS:C0936012
+27682141	1897	1905	possible	T033	UMLS:C0332149
+27682141	1921	1930	knowledge	T170	UMLS:C0376554
+27682141	1935	1944	practices	T038	UMLS:C0032893
+27682141	1955	1961	dengue	T038	UMLS:C0011311
+27682141	1967	1970	KAP	T038	UMLS:C0025361
+27682141	1971	1985	questionnaires	T170	UMLS:C0034394
+27682141	2063	2072	knowledge	T170	UMLS:C0376554
+27682141	2114	2123	knowledge	T170	UMLS:C0376554
+27682141	2193	2202	knowledge	T170	UMLS:C0376554

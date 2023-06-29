@@ -1,0 +1,66 @@
+27876505|t|Squamous Cell Carcinoma of the Bladder: A SEER Database Analysis
+27876505|a|Scarce evidence exists regarding the management of squamous cell carcinoma (SCC) of the bladder. This study assessed the epidemiologic and treatment trends of SCC of the bladder. Cases of SCC of the bladder, diagnosed from 1973 to 2013, were identified from the Surveillance, Epidemiology, and End Results (SEER) database. The incidence of SCC of the bladder with respect to time was assessed using the SEER United States population dataset. Relevant baseline characteristics were reported whenever available. Propensity-score matching for nonmetastatic patients receiving or not receiving radical surgery was then performed considering baseline characteristics. Survival analysis in the post - matching cohort was then evaluated using Kaplan-Meier analyses. A total of 5018 patients were identified. The median age group was 70 to 75 years. The incidence of bladder SCC has decreased during the period from 1973 to 2013 (P < .05). For the post - matching cohort, there was a statistically significant difference in cancer - specific and overall survival favoring the radical surgery group compared with radiation therapy or no treatment group (P < .0001 for both endpoints). The overall survival benefit was consistent regardless of the SEER stage (localized or regional). In multivariate analysis of the matched population, radical surgery, less advanced SEER summary stage, and age less than 70 years were associated with a better overall survival. This analysis suggests that for nonmetastatic SCC of the bladder, radical surgery achieves better outcomes compared with radiation therapy. Prospective trials to evaluate formal multimodality bladder -preserving protocols in this histologic subtype are needed.
+27876505	0	23	Squamous Cell Carcinoma	T191	C0007137
+27876505	31	38	Bladder	T023	C0005682
+27876505	42	46	SEER	T093	C0242638
+27876505	47	55	Database	T170	C0242356
+27876505	116	139	squamous cell carcinoma	T191	C0007137
+27876505	141	144	SCC	T191	C0007137
+27876505	153	160	bladder	T023	C0005682
+27876505	186	199	epidemiologic	T169	C0014508
+27876505	204	220	treatment trends	T169	C0039798
+27876505	224	227	SCC	T191	C0007137
+27876505	235	242	bladder	T023	C0005682
+27876505	253	256	SCC	T191	C0007137
+27876505	264	271	bladder	T023	C0005682
+27876505	273	282	diagnosed	T033	C0011900
+27876505	327	370	Surveillance, Epidemiology, and End Results	T093	C0242638
+27876505	372	376	SEER	T093	C0242638
+27876505	405	408	SCC	T191	C0007137
+27876505	416	423	bladder	T023	C0005682
+27876505	468	472	SEER	T093	C0242638
+27876505	473	486	United States	T083	C0041703
+27876505	487	497	population	T081	C0032659
+27876505	498	505	dataset	T170	C0150098
+27876505	516	540	baseline characteristics	T033	C1290922
+27876505	575	591	Propensity-score	T081	C2718044
+27876505	605	618	nonmetastatic	T080	C1518409
+27876505	619	627	patients	T101	C1516213
+27876505	641	654	not receiving	T033	C0746919
+27876505	655	670	radical surgery	T061	C0332316
+27876505	702	726	baseline characteristics	T033	C1290922
+27876505	728	745	Survival analysis	T062	C0038953
+27876505	753	757	post	T079	C0687676
+27876505	760	768	matching	T080	C1708943
+27876505	801	822	Kaplan-Meier analyses	T081	C1720943
+27876505	840	848	patients	T101	C1516213
+27876505	870	880	median age	T098	C2348001
+27876505	924	931	bladder	T023	C0005682
+27876505	932	935	SCC	T191	C0007137
+27876505	1005	1009	post	T079	C0687676
+27876505	1012	1020	matching	T080	C1708943
+27876505	1041	1066	statistically significant	T081	C0237881
+27876505	1081	1087	cancer	T191	C0007137
+27876505	1090	1098	specific	T080	C0205369
+27876505	1103	1119	overall survival	T081	C4086681
+27876505	1133	1148	radical surgery	T061	C0332316
+27876505	1169	1186	radiation therapy	T061	C1522449
+27876505	1190	1202	no treatment	T033	C0746919
+27876505	1245	1261	overall survival	T081	C4086681
+27876505	1262	1269	benefit	T081	C0814225
+27876505	1303	1307	SEER	T093	C0242638
+27876505	1315	1324	localized	T082	C0392752
+27876505	1328	1336	regional	T082	C0205147
+27876505	1342	1363	multivariate analysis	T081	C0026777
+27876505	1391	1406	radical surgery	T061	C0332316
+27876505	1422	1426	SEER	T093	C0242638
+27876505	1499	1515	overall survival	T081	C4086681
+27876505	1549	1562	nonmetastatic	T080	C1518409
+27876505	1563	1566	SCC	T191	C0007137
+27876505	1574	1581	bladder	T023	C0005682
+27876505	1583	1598	radical surgery	T061	C0332316
+27876505	1638	1655	radiation therapy	T061	C1522449
+27876505	1657	1675	Prospective trials	T062	C0033522
+27876505	1695	1708	multimodality	T061	C0920597
+27876505	1709	1716	bladder	T023	C0005682
+27876505	1747	1765	histologic subtype	T191	C0027652

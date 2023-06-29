@@ -1,0 +1,25 @@
+16200390|t|A genetic analysis of serotonergic biosynthetic and metabolic enzymes in migraine using a DNA pooling approach.
+16200390|a|Migraine is a common debilitating primary headache disorder with significant mental, physical and social health implications. The brain neurotransmitter 5-hydroxytryptamine (5-HT; serotonin) is involved in nociceptive pathways and has been implicated in the pathophysiology of migraine. With few genetic studies investigating biosynthetic and metabolic enzymes governing the rate of 5-HT activity and their relationship to migraine, it was the objective of this study to assess genetic variants within the human tryptophan hydroxylase (TPH), amino acid decarboxylase (AADC) and monoamine oxidase A (MAOA) genes in migraine susceptibility. This objective was undertaken using a high-throughput DNA pooling experimental design, which proved to be a very accurate, sensitive and specific method of estimating allele frequencies for single nucleotide polymorphism, insertion deletion and variable number tandem repeat loci. Application of DNA pooling to a wide array of genetic loci provides greater scope in the assessment of population-based genetic association study designs. Despite the application of this high-throughput genotyping method, negative results from the two-stage DNA pooling design used to screen loci within the TPH, AADC and MAOA genes did not support their role in migraine susceptibility.
+16200390	73	81	migraine	DiseaseOrPhenotypicFeature	D008881
+16200390	112	120	Migraine	DiseaseOrPhenotypicFeature	D008881
+16200390	154	171	headache disorder	DiseaseOrPhenotypicFeature	D020773
+16200390	248	264	neurotransmitter	ChemicalEntity	D018377
+16200390	265	284	5-hydroxytryptamine	ChemicalEntity	D012701
+16200390	286	290	5-HT	ChemicalEntity	D012701
+16200390	292	301	serotonin	ChemicalEntity	D012701
+16200390	389	397	migraine	DiseaseOrPhenotypicFeature	D008881
+16200390	495	499	5-HT	ChemicalEntity	D012701
+16200390	535	543	migraine	DiseaseOrPhenotypicFeature	D008881
+16200390	618	623	human	OrganismTaxon	9606
+16200390	624	646	tryptophan hydroxylase	GeneOrGeneProduct	7166
+16200390	648	651	TPH	GeneOrGeneProduct	7166
+16200390	654	678	amino acid decarboxylase	GeneOrGeneProduct	1644
+16200390	680	684	AADC	GeneOrGeneProduct	1644
+16200390	690	709	monoamine oxidase A	GeneOrGeneProduct	4128
+16200390	711	715	MAOA	GeneOrGeneProduct	4128
+16200390	726	734	migraine	DiseaseOrPhenotypicFeature	D008881
+16200390	1340	1343	TPH	GeneOrGeneProduct	7166
+16200390	1345	1349	AADC	GeneOrGeneProduct	1644
+16200390	1354	1358	MAOA	GeneOrGeneProduct	4128
+16200390	1395	1403	migraine	DiseaseOrPhenotypicFeature	D008881
+16200390	Positive_Correlation	D012701	D008881	No

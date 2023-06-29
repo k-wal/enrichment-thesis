@@ -1,0 +1,89 @@
+15036754|t|Organophosphate-induced convulsions and prevention of neuropathological damages.
+15036754|a|Such organophosphorus (OP) compounds as diisopropylfluorophosphate (DFP), sarin and soman are potent inhibitors of acetylcholinesterases (AChEs) and butyrylcholinesterases (BChEs). The acute toxicity of OPs is the result of their irreversible binding with AChEs in the central nervous system (CNS), which elevates acetylcholine (ACh) levels. The protective action of subcutaneously (SC) administered antidotes or their combinations in DFP (2.0 mg/kg BW) intoxication was studied in 9-10-weeks-old Han-Wistar male rats. The rats received AChE reactivator pralidoxime-2-chloride (2PAM) (30.0 mg/kg BW), anticonvulsant diazepam (2.0 mg/kg BW), A(1)-adenosine receptor agonist N(6)-cyclopentyl adenosine (CPA) (2.0 mg/kg BW), NMDA-receptor antagonist dizocilpine maleate (+-MK801 hydrogen maleate) (2.0 mg/kg BW) or their combinations with cholinolytic drug atropine sulfate (50.0 mg/kg BW) immediately or 30 min after the single SC injection of DFP. The control rats received atropine sulfate, but also saline and olive oil instead of other antidotes and DFP, respectively. All rats were terminated either 24 h or 3 weeks after the DFP injection. The rats treated with DFP-atropine showed severe typical OP-induced toxicity signs. When CPA, diazepam or 2PAM was given immediately after DFP-atropine, these treatments prevented, delayed or shortened the occurrence of serious signs of poisoning. Atropine-MK801 did not offer any additional protection against DFP toxicity. In conclusion, CPA, diazepam and 2PAM in combination with atropine prevented the occurrence of serious signs of poisoning and thus reduced the toxicity of DFP in rat.
+15036754	0	15	Organophosphate	ChemicalEntity	D010755
+15036754	24	35	convulsions	DiseaseOrPhenotypicFeature	D012640
+15036754	54	79	neuropathological damages	DiseaseOrPhenotypicFeature	D004194
+15036754	86	102	organophosphorus	ChemicalEntity	D010755
+15036754	104	106	OP	ChemicalEntity	D010755
+15036754	121	147	diisopropylfluorophosphate	ChemicalEntity	D007531
+15036754	149	152	DFP	ChemicalEntity	D007531
+15036754	155	160	sarin	ChemicalEntity	D012524
+15036754	165	170	soman	ChemicalEntity	D012999
+15036754	196	217	acetylcholinesterases	GeneOrGeneProduct	83817
+15036754	219	224	AChEs	GeneOrGeneProduct	83817
+15036754	230	252	butyrylcholinesterases	GeneOrGeneProduct	65036
+15036754	254	259	BChEs	GeneOrGeneProduct	65036
+15036754	272	280	toxicity	DiseaseOrPhenotypicFeature	D064420
+15036754	284	287	OPs	ChemicalEntity	D010755
+15036754	337	342	AChEs	GeneOrGeneProduct	83817
+15036754	395	408	acetylcholine	ChemicalEntity	D000109
+15036754	410	413	ACh	ChemicalEntity	D000109
+15036754	516	519	DFP	ChemicalEntity	D007531
+15036754	594	598	rats	OrganismTaxon	10116
+15036754	604	608	rats	OrganismTaxon	10116
+15036754	618	622	AChE	GeneOrGeneProduct	83817
+15036754	635	657	pralidoxime-2-chloride	ChemicalEntity	D011220
+15036754	659	663	2PAM	ChemicalEntity	D011220
+15036754	697	705	diazepam	ChemicalEntity	D003975
+15036754	722	745	A(1)-adenosine receptor	GeneOrGeneProduct	29290
+15036754	754	780	N(6)-cyclopentyl adenosine	ChemicalEntity	C048599
+15036754	782	785	CPA	ChemicalEntity	C048599
+15036754	803	816	NMDA-receptor	GeneOrGeneProduct	24408
+15036754	828	847	dizocilpine maleate	ChemicalEntity	D016291
+15036754	851	873	MK801 hydrogen maleate	ChemicalEntity	D016291
+15036754	935	951	atropine sulfate	ChemicalEntity	D001285
+15036754	1023	1026	DFP	ChemicalEntity	D007531
+15036754	1040	1044	rats	OrganismTaxon	10116
+15036754	1054	1070	atropine sulfate	ChemicalEntity	D001285
+15036754	1092	1101	olive oil	ChemicalEntity	D000069463
+15036754	1133	1136	DFP	ChemicalEntity	D007531
+15036754	1156	1160	rats	OrganismTaxon	10116
+15036754	1210	1213	DFP	ChemicalEntity	D007531
+15036754	1229	1233	rats	OrganismTaxon	10116
+15036754	1247	1250	DFP	ChemicalEntity	D007531
+15036754	1251	1259	atropine	ChemicalEntity	D001285
+15036754	1282	1284	OP	ChemicalEntity	D010755
+15036754	1293	1301	toxicity	DiseaseOrPhenotypicFeature	D064420
+15036754	1314	1317	CPA	ChemicalEntity	C048599
+15036754	1319	1327	diazepam	ChemicalEntity	D003975
+15036754	1331	1335	2PAM	ChemicalEntity	D011220
+15036754	1364	1367	DFP	ChemicalEntity	D007531
+15036754	1368	1376	atropine	ChemicalEntity	D001285
+15036754	1462	1471	poisoning	DiseaseOrPhenotypicFeature	D011041
+15036754	1473	1481	Atropine	ChemicalEntity	D001285
+15036754	1482	1487	MK801	ChemicalEntity	D016291
+15036754	1536	1539	DFP	ChemicalEntity	D007531
+15036754	1540	1548	toxicity	DiseaseOrPhenotypicFeature	D064420
+15036754	1565	1568	CPA	ChemicalEntity	C048599
+15036754	1570	1578	diazepam	ChemicalEntity	D003975
+15036754	1583	1587	2PAM	ChemicalEntity	D011220
+15036754	1608	1616	atropine	ChemicalEntity	D001285
+15036754	1662	1671	poisoning	DiseaseOrPhenotypicFeature	D011041
+15036754	1693	1701	toxicity	DiseaseOrPhenotypicFeature	D064420
+15036754	1705	1708	DFP	ChemicalEntity	D007531
+15036754	1712	1715	rat	OrganismTaxon	10116
+15036754	Negative_Correlation	D012999	65036	No
+15036754	Negative_Correlation	D012999	83817	No
+15036754	Negative_Correlation	D012524	65036	No
+15036754	Negative_Correlation	D012524	83817	No
+15036754	Negative_Correlation	D001285	D007531	Novel
+15036754	Cotreatment	D003975	D001285	Novel
+15036754	Negative_Correlation	D003975	D007531	Novel
+15036754	Negative_Correlation	D007531	65036	No
+15036754	Negative_Correlation	D007531	83817	No
+15036754	Negative_Correlation	24408	D016291	No
+15036754	Cotreatment	C048599	D001285	Novel
+15036754	Cotreatment	C048599	D003975	Novel
+15036754	Negative_Correlation	C048599	D007531	Novel
+15036754	Positive_Correlation	29290	C048599	No
+15036754	Cotreatment	D011220	D001285	Novel
+15036754	Cotreatment	D011220	D003975	Novel
+15036754	Negative_Correlation	D011220	D007531	Novel
+15036754	Cotreatment	D011220	C048599	Novel
+15036754	Positive_Correlation	83817	D011220	No
+15036754	Association	83817	D000109	No
+15036754	Negative_Correlation	D010755	65036	No
+15036754	Negative_Correlation	D010755	83817	No
+15036754	Association	D010755	D000109	No
+15036754	Association	D010755	D004194	Novel
+15036754	Positive_Correlation	D010755	D012640	Novel

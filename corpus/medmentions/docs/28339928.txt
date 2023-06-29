@@ -1,0 +1,74 @@
+28339928|t|Opioid Use in Chronic Pain Patients with Chronic Kidney Disease: A Systematic Review
+28339928|a|To investigate the prevalence of chronic pain and opioid management among patients with chronic kidney disease (CKD). Systematic review. A systematic search was performed, including citations from 1960 to May 2015. The review highlights methodological quality assessment of the selected studies; prevalence of pain; type, dose, and reason for opioid use; effectiveness of pain control and associated adverse effects of opioids in CKD patients. Twelve of 131 articles met inclusion criteria. There were no randomized controlled trials (RCT) evaluable, and 12 were observational studies. Out of 12 studies, four were of high quality, six were of moderate quality, and the remaining two were low - quality studies. The studies were from different countries with sample size ranging from 10 to 12,782. Several studies showed a high prevalence of chronic uncontrolled pain. The effectiveness of different categories of opioids, dose, duration, and commonly prescribed opioids varied across studies. Based on a systematic review of the current literature, there is fair evidence for the high prevalence of chronic pain among patients with CKD, which is not being effectively managed, probably due to underprescription of analgesics or opioids in the CKD population. Clinicians are in need of additional and well-designed randomized control trials that focus on the indications for opioid therapy, appropriate opioid doses and dosing intervals, outcomes with adequacy of symptom control, and reporting on the incidence of adverse side effects.
+28339928	0	6	Opioid	T109,T121,T131	C0242402
+28339928	14	26	Chronic Pain	T184	C0150055
+28339928	27	35	Patients	T101	C0030705
+28339928	41	63	Chronic Kidney Disease	T047	C1561643
+28339928	67	84	Systematic Review	T170	C1955832
+28339928	104	114	prevalence	T081	C0220900
+28339928	118	130	chronic pain	T184	C0150055
+28339928	135	141	opioid	T109,T121,T131	C0242402
+28339928	142	152	management	T058	C1611232
+28339928	159	167	patients	T101	C0030705
+28339928	173	195	chronic kidney disease	T047	C1561643
+28339928	197	200	CKD	T047	C1561643
+28339928	203	220	Systematic review	T170	C1955832
+28339928	322	355	methodological quality assessment	UnknownType	C0815254
+28339928	372	379	studies	T170	C0085973
+28339928	381	391	prevalence	T081	C0220900
+28339928	395	399	pain	T184	C0030193
+28339928	401	405	type	T080	C0332307
+28339928	407	411	dose	T081	C0678766
+28339928	428	434	opioid	T109,T121,T131	C0242402
+28339928	440	453	effectiveness	T080	C1280519
+28339928	457	469	pain control	T061	C1304888
+28339928	485	500	adverse effects	T046	C0879626
+28339928	504	511	opioids	T109,T121,T131	C0242402
+28339928	515	518	CKD	T047	C1561643
+28339928	519	527	patients	T101	C0030705
+28339928	556	574	inclusion criteria	T080	C1512693
+28339928	590	618	randomized controlled trials	T062,T170	C0282440
+28339928	620	623	RCT	T062,T170	C0282440
+28339928	648	669	observational studies	T170	C3658316
+28339928	681	688	studies	T170	C0085973
+28339928	703	707	high	T080	C0205250
+28339928	708	715	quality	T080	C0332306
+28339928	729	737	moderate	T081	C0439536
+28339928	738	745	quality	T080	C0332306
+28339928	774	777	low	T080	C0205251
+28339928	780	787	quality	T080	C0332306
+28339928	788	795	studies	T170	C0085973
+28339928	801	808	studies	T170	C0085973
+28339928	829	838	countries	T083	C0454664
+28339928	844	855	sample size	T081	C0242618
+28339928	891	898	studies	T170	C0085973
+28339928	913	923	prevalence	T081	C0220900
+28339928	927	934	chronic	T079	C0205191
+28339928	935	952	uncontrolled pain	T184	C0747149
+28339928	999	1006	opioids	T109,T121,T131	C0242402
+28339928	1008	1012	dose	T081	C0678766
+28339928	1014	1022	duration	T081	C0920470
+28339928	1037	1047	prescribed	T058	C0278329
+28339928	1048	1055	opioids	T109,T121,T131	C0242402
+28339928	1070	1077	studies	T170	C0085973
+28339928	1090	1107	systematic review	T170	C1955832
+28339928	1171	1181	prevalence	T081	C0220900
+28339928	1185	1197	chronic pain	T184	C0150055
+28339928	1204	1212	patients	T101	C0030705
+28339928	1218	1221	CKD	T047	C1561643
+28339928	1279	1296	underprescription	UnknownType	C0679863
+28339928	1300	1310	analgesics	T109,T121,T131	C0002771
+28339928	1314	1321	opioids	T109,T121,T131	C0242402
+28339928	1329	1332	CKD	T047	C1561643
+28339928	1333	1343	population	T081	C2361270
+28339928	1345	1355	Clinicians	T097	C0871685
+28339928	1400	1425	randomized control trials	T062,T170	C0282440
+28339928	1460	1466	opioid	T109,T121,T131	C0242402
+28339928	1467	1474	therapy	T061	C0087111
+28339928	1488	1494	opioid	T109,T121,T131	C0242402
+28339928	1495	1500	doses	T081	C0678766
+28339928	1505	1511	dosing	T081	C0678766
+28339928	1512	1521	intervals	T079	C0031084
+28339928	1537	1545	adequacy	T080	C0814633
+28339928	1549	1564	symptom control	T061	C1274136
+28339928	1600	1620	adverse side effects	T046	C0879626

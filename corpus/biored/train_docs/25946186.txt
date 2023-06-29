@@ -1,0 +1,60 @@
+25946186|t|TIPE2 Inhibits Lung Cancer Growth Attributing to Promotion of Apoptosis by Regulating Some Apoptotic Molecules Expression.
+25946186|a|Recent studies found that TIPE2 was involved in cancer development. However, little is known about TIPE2 in lung cancer. Our study aims to clarify the role of TIPE2 in lung carcinogenesis. We examined the expression of TIPE2 in lung squamous cancer (LSC), small cell lung cancer and lung adenocarcinoma (AdC) tissues and found that TIPE2 expression was lost in small cell lung cancer, compared with adjacent non-tumor tissues. Overexpression of TIPE2 significantly inhibited the growth of lung cancer cell H446 in vitro and even suppressed tumor formation in vivo. Flow cytometry analysis found TIPE2 overexpression promoted apoptosis of H446. In TIPE2 over-expression cells, caspase-3, caspase-9, and Bax were significantly up-regulated while Bcl-2 was down-regulated. Moreover, coincident results were shown by immunohistochemistry in tumors from nude mice. TIPE2 inhibited the phosphorylation of Akt, while promoting the phosphorylation of P38, but had no effect on IkBa and ERK pathway. Taken together, TIPE2 promoted lung cancer cell apoptosis through affecting apoptosis-related molecules caspase-3, caspase-9, Bcl-2 and Bax, possibly via regulating P38 and Akt pathways, indicating that TIPE2 might be a novel marker for lung cancer diagnosis and therapy.
+25946186	0	5	TIPE2	GeneOrGeneProduct	79626
+25946186	15	26	Lung Cancer	DiseaseOrPhenotypicFeature	D008175
+25946186	149	154	TIPE2	GeneOrGeneProduct	79626
+25946186	171	177	cancer	DiseaseOrPhenotypicFeature	D009369
+25946186	222	227	TIPE2	GeneOrGeneProduct	79626
+25946186	231	242	lung cancer	DiseaseOrPhenotypicFeature	D008175
+25946186	282	287	TIPE2	GeneOrGeneProduct	79626
+25946186	291	310	lung carcinogenesis	DiseaseOrPhenotypicFeature	D008175
+25946186	342	347	TIPE2	GeneOrGeneProduct	79626
+25946186	351	371	lung squamous cancer	DiseaseOrPhenotypicFeature	D002289
+25946186	373	376	LSC	DiseaseOrPhenotypicFeature	D002289
+25946186	379	401	small cell lung cancer	DiseaseOrPhenotypicFeature	D055752
+25946186	406	425	lung adenocarcinoma	DiseaseOrPhenotypicFeature	D000077192
+25946186	427	430	AdC	DiseaseOrPhenotypicFeature	D000077192
+25946186	455	460	TIPE2	GeneOrGeneProduct	79626
+25946186	484	506	small cell lung cancer	DiseaseOrPhenotypicFeature	D055752
+25946186	535	540	tumor	DiseaseOrPhenotypicFeature	D009369
+25946186	568	573	TIPE2	GeneOrGeneProduct	79626
+25946186	612	623	lung cancer	DiseaseOrPhenotypicFeature	D008175
+25946186	629	633	H446	CellLine	CVCL_1562
+25946186	663	668	tumor	DiseaseOrPhenotypicFeature	D009369
+25946186	718	723	TIPE2	GeneOrGeneProduct	79626
+25946186	761	765	H446	CellLine	CVCL_1562
+25946186	770	775	TIPE2	GeneOrGeneProduct	79626
+25946186	799	808	caspase-3	GeneOrGeneProduct	836
+25946186	810	819	caspase-9	GeneOrGeneProduct	842
+25946186	825	828	Bax	GeneOrGeneProduct	581
+25946186	867	872	Bcl-2	GeneOrGeneProduct	596
+25946186	960	966	tumors	DiseaseOrPhenotypicFeature	D009369
+25946186	977	981	mice	OrganismTaxon	10090
+25946186	983	988	TIPE2	GeneOrGeneProduct	79626
+25946186	1022	1025	Akt	GeneOrGeneProduct	207
+25946186	1066	1069	P38	GeneOrGeneProduct	1432
+25946186	1092	1096	IkBa	GeneOrGeneProduct	4792
+25946186	1101	1104	ERK	GeneOrGeneProduct	5594
+25946186	1130	1135	TIPE2	GeneOrGeneProduct	79626
+25946186	1145	1156	lung cancer	DiseaseOrPhenotypicFeature	D008175
+25946186	1218	1227	caspase-3	GeneOrGeneProduct	836
+25946186	1229	1238	caspase-9	GeneOrGeneProduct	842
+25946186	1240	1245	Bcl-2	GeneOrGeneProduct	596
+25946186	1250	1253	Bax	GeneOrGeneProduct	581
+25946186	1279	1282	P38	GeneOrGeneProduct	1432
+25946186	1287	1290	Akt	GeneOrGeneProduct	207
+25946186	1317	1322	TIPE2	GeneOrGeneProduct	79626
+25946186	1351	1362	lung cancer	DiseaseOrPhenotypicFeature	D008175
+25946186	Association	596	D008175	No
+25946186	Association	581	D008175	Novel
+25946186	Association	842	D008175	No
+25946186	Association	836	D008175	No
+25946186	Association	79626	1432	Novel
+25946186	Association	79626	207	Novel
+25946186	Negative_Correlation	79626	596	Novel
+25946186	Positive_Correlation	79626	581	Novel
+25946186	Positive_Correlation	79626	842	Novel
+25946186	Positive_Correlation	79626	836	Novel
+25946186	Association	79626	D009369	Novel
+25946186	Negative_Correlation	79626	D008175	Novel
+25946186	Negative_Correlation	79626	D055752	Novel

@@ -1,0 +1,98 @@
+27765612|t|Preoperative Albumin Is Predictive of Early Postoperative Morbidity and Mortality in Common Urologic Oncologic Surgeries
+27765612|a|Multiple studies have linked preoperative nutrition status to postoperative outcomes. This relationship has been little studied in urology. We used a standardized, national, risk-adjusted surgical database to evaluate 30- day outcomes of patients undergoing common urologic oncologic procedures as they related to preoperative albumin. The American College of Surgeons National Surgical Quality Improvement Program is a risk-adjusted dataset analyzing preoperative risk factors, demographics, and 30- day outcomes. From 2005 through 2012, we identified a total of 17,805 patients who underwent prostatectomy, nephrectomy, partial nephrectomy, cystectomy, or transurethral resection of bladder tumor (TURBT). Hypoalbuminemic patients were compared with those with normal preoperative albumin, and 30- day outcomes were evaluated. Logistic regression analyses were used to estimate odds ratios for mortality and complication rates. Evaluation of the cohort noted significantly increased overall morbidity, serious morbidity, and mortality in the hypoalbuminemic group (P < .01 for all procedures). Hypoalbuminemia was associated with a significantly higher 30- day mortality in major procedures such as cystectomy, and in smaller procedures such as TURBT (P < .01). Hypoalbuminemia was associated with a 6.4% 30- day mortality in the TURBT group compared with 0.6% in those with normal albumin (P < .0001). These findings remained significant after adjustment for other risk factors. The large sample size, standardized data definitions, and quality control measures of the American College of Surgeons National Surgical Quality Improvement Program database allow for in-depth analysis of subtle but significant differences in outcomes between groups. Serum albumin is a strong predictor of short-term postoperative complications in the urologic oncology patient.
+27765612	0	12	Preoperative	T079	C0445204
+27765612	13	20	Albumin	T116,T123	C0001924
+27765612	24	34	Predictive	T080	C0681890
+27765612	38	43	Early	T079	C1279919
+27765612	44	57	Postoperative	T079	C0032790
+27765612	58	67	Morbidity	T081	C0026538
+27765612	72	81	Mortality	T081	C0205848
+27765612	92	120	Urologic Oncologic Surgeries	T061	C0543467
+27765612	121	137	Multiple studies	T062	C2603343
+27765612	150	162	preoperative	T079	C0445204
+27765612	163	179	nutrition status	T033	C0392209
+27765612	183	196	postoperative	T079	C0032790
+27765612	197	205	outcomes	T169	C1274040
+27765612	212	224	relationship	T080	C0439849
+27765612	252	259	urology	T091	C0042077
+27765612	271	283	standardized	T080	C1442989
+27765612	295	326	risk-adjusted surgical database	T170	C0242356
+27765612	343	346	day	T079	C0439228
+27765612	347	355	outcomes	T169	C1274040
+27765612	359	367	patients	T101	C0030705
+27765612	386	415	urologic oncologic procedures	T061	C0087111
+27765612	435	447	preoperative	T079	C0445204
+27765612	448	455	albumin	T116,T123	C0001924
+27765612	461	489	American College of Surgeons	T094	C1515943
+27765612	490	535	National Surgical Quality Improvement Program	T170	C0150098
+27765612	541	562	risk-adjusted dataset	T170	C0150098
+27765612	573	585	preoperative	T079	C0445204
+27765612	586	598	risk factors	T033	C0035648
+27765612	600	612	demographics	T078	C0011292
+27765612	622	625	day	T079	C0439228
+27765612	626	634	outcomes	T078	C1547647
+27765612	663	673	identified	T080	C0205396
+27765612	692	700	patients	T101	C0030705
+27765612	715	728	prostatectomy	T061	C0033573
+27765612	730	741	nephrectomy	T061	C0027695
+27765612	743	762	partial nephrectomy	T061	C0194086
+27765612	764	774	cystectomy	T061	C0010651
+27765612	779	819	transurethral resection of bladder tumor	T061	C0401496
+27765612	821	826	TURBT	T061	C0401496
+27765612	829	844	Hypoalbuminemic	T047	C0239981
+27765612	845	853	patients	T101	C0030705
+27765612	859	867	compared	T052	C1707455
+27765612	891	903	preoperative	T079	C0445204
+27765612	904	911	albumin	T116,T123	C0001924
+27765612	921	924	day	T079	C0439228
+27765612	925	933	outcomes	T078	C1547647
+27765612	950	978	Logistic regression analyses	UnknownType	C0681925
+27765612	1001	1012	odds ratios	T081	C0028873
+27765612	1017	1026	mortality	T081	C0205848
+27765612	1031	1043	complication	T046	C0009566
+27765612	1044	1049	rates	T081	C1521828
+27765612	1069	1075	cohort	T098	C0599755
+27765612	1096	1105	increased	T081	C0205217
+27765612	1114	1123	morbidity	T081	C0026538
+27765612	1133	1142	morbidity	T081	C0026538
+27765612	1148	1157	mortality	T081	C0205848
+27765612	1165	1180	hypoalbuminemic	T047	C0239981
+27765612	1181	1186	group	T098	C1257890
+27765612	1204	1214	procedures	T061	C0087111
+27765612	1217	1232	Hypoalbuminemia	T047	C0239981
+27765612	1255	1275	significantly higher	T081	C4055637
+27765612	1280	1283	day	T079	C0439228
+27765612	1284	1293	mortality	T081	C0205848
+27765612	1303	1313	procedures	T061	C0087111
+27765612	1322	1332	cystectomy	T061	C0010651
+27765612	1349	1359	procedures	T061	C0087111
+27765612	1368	1373	TURBT	T061	C0401496
+27765612	1385	1400	Hypoalbuminemia	T047	C0239981
+27765612	1405	1420	associated with	T080	C0332281
+27765612	1432	1435	day	T079	C0439228
+27765612	1436	1445	mortality	T081	C0205848
+27765612	1453	1458	TURBT	T061	C0401496
+27765612	1459	1464	group	T098	C1257890
+27765612	1465	1473	compared	T052	C1707455
+27765612	1505	1512	albumin	T116,T123	C0001924
+27765612	1532	1540	findings	T033	C0243095
+27765612	1589	1601	risk factors	T033	C0035648
+27765612	1613	1624	sample size	T081	C0242618
+27765612	1626	1638	standardized	T080	C1442989
+27765612	1639	1643	data	T078	C1511726
+27765612	1644	1655	definitions	T170	C1704788
+27765612	1661	1676	quality control	T169	C0034378
+27765612	1677	1685	measures	T081	C0079809
+27765612	1693	1721	American College of Surgeons	T094	C1515943
+27765612	1722	1767	National Surgical Quality Improvement Program	T170	C0150098
+27765612	1768	1776	database	T170	C0242356
+27765612	1796	1804	analysis	T062	C0936012
+27765612	1846	1854	outcomes	T169	C1274040
+27765612	1863	1869	groups	T098	C1257890
+27765612	1871	1884	Serum albumin	T116	C0036773
+27765612	1897	1906	predictor	T078	C2698872
+27765612	1910	1920	short-term	T079	C0443303
+27765612	1921	1934	postoperative	T079	C0032790
+27765612	1935	1948	complications	T046	C0009566
+27765612	1956	1973	urologic oncology	T061	C0543467
+27765612	1974	1981	patient	T101	C0030705

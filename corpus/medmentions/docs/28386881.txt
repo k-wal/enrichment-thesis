@@ -1,0 +1,66 @@
+28386881|t|Object substitution masking and its relationship with visual crowding
+28386881|a|Object substitution masking (OSM) occurs when the perceptibility of a brief target is reduced by a trailing surround mask typically composed of four dots. Camp et al. (Journal of Experimental Psychology: Human Perception and Performance, 41, 940-957, 2015) found that crowding a target by adding adjacent flankers, in addition to OSM, had a more deleterious effect on performance than expected based on the combined individual effects of crowding and masking alone. The current experiments test why OSM and crowding interact in this way. In three experiments, target -flanker distance is manipulated whilst also varying mask duration in a digit identification task. The OSM effect-as indexed by the performance difference between unmasked and masked conditions -had a quadratic function with respect to target -flanker distance. Results suggest it is OSM affecting crowding rather than the converse: Masking seems to amplify crowding at intermediate target -distractor distances at the edge of the crowding interference zone. These results indicate that OSM and crowding share common mechanisms. The effect of OSM is possibly a consequence of changes to the types of feature detectors which are pooled together for target identification when that target must compete for processing with a trailing mask in addition to competition from adjacent flankers.
+28386881	0	27	Object substitution masking	T041	C0871585
+28386881	36	48	relationship	T080	C0439849
+28386881	54	69	visual crowding	T041	C0042830
+28386881	70	97	Object substitution masking	T041	C0871585
+28386881	99	102	OSM	T041	C0871585
+28386881	120	134	perceptibility	T041	C0042830
+28386881	146	152	target	T042	C0597664
+28386881	169	177	trailing	T048	C0233782
+28386881	187	191	mask	T042	C0597664
+28386881	214	223	four dots	T073	C3273359
+28386881	238	325	Journal of Experimental Psychology: Human Perception and Performance, 41, 940-957, 2015	T073,T170	C0162443
+28386881	338	346	crowding	T041	C0042830
+28386881	349	355	target	T042	C0597664
+28386881	366	374	adjacent	T082	C0205117
+28386881	375	383	flankers	T073	C3273359
+28386881	400	403	OSM	T041	C0871585
+28386881	416	434	deleterious effect	T046	C0879626
+28386881	438	449	performance	T055	C0597198
+28386881	477	485	combined	T080	C0205195
+28386881	486	496	individual	UnknownType	C0815195
+28386881	497	504	effects	T080	C1280500
+28386881	508	516	crowding	T041	C0042830
+28386881	521	528	masking	T041	C0871585
+28386881	548	559	experiments	T062	C0681814
+28386881	569	572	OSM	T041	C0871585
+28386881	577	585	crowding	T041	C0042830
+28386881	586	594	interact	T052	C1881786
+28386881	617	628	experiments	T062	C0681814
+28386881	630	636	target	T042	C0597664
+28386881	630	654	target -flanker distance	T081	C0012751
+28386881	690	694	mask	T041	C0871585
+28386881	695	703	duration	T079	C0449238
+28386881	709	734	digit identification task	T057	C3540678
+28386881	740	743	OSM	T041	C0871585
+28386881	769	780	performance	T055	C0597198
+28386881	781	791	difference	T080	C1705242
+28386881	800	808	unmasked	T169	C0439845
+28386881	813	830	masked conditions	T169	C0439844
+28386881	838	856	quadratic function	T081	C2347976
+28386881	873	879	target	T042	C0597664
+28386881	921	924	OSM	T041	C0871585
+28386881	935	943	crowding	T041	C0042830
+28386881	970	977	Masking	T041	C0871585
+28386881	987	994	amplify	T169	C0442805
+28386881	995	1003	crowding	T041	C0042830
+28386881	1020	1026	target	T042	C0597664
+28386881	1020	1048	target -distractor distances	T081	C0012751
+28386881	1068	1076	crowding	T041	C0042830
+28386881	1077	1094	interference zone	T033	C0422966
+28386881	1124	1127	OSM	T041	C0871585
+28386881	1132	1140	crowding	T041	C0042830
+28386881	1154	1164	mechanisms	T169	C0441712
+28386881	1170	1176	effect	T080	C1280500
+28386881	1180	1183	OSM	T041	C0871585
+28386881	1198	1212	consequence of	T169	C0686907
+28386881	1237	1254	feature detectors	T073	C0180392
+28386881	1265	1280	pooled together	T169	C2349200
+28386881	1285	1291	target	T042	C0597664
+28386881	1292	1306	identification	T041	C0020792
+28386881	1317	1323	target	T042	C0597664
+28386881	1359	1367	trailing	T048	C0233782
+28386881	1368	1372	mask	T042	C0597664
+28386881	1405	1413	adjacent	T082	C0205117
+28386881	1414	1422	flankers	T073	C3273359

@@ -1,0 +1,52 @@
+24632946|t|Disruption of the temporally regulated cloaca endodermal b-catenin signaling causes anorectal malformations.
+24632946|a|The cloaca is temporally formed and eventually divided by the urorectal septum (URS) during urogenital and anorectal organ development. Although congenital malformations, such as anorectal malformations (ARMs), are frequently observed during this process, the underlying pathogenic mechanisms remain unclear. b-Catenin is a critical component of canonical Wnt signaling and is essential for the regulation of cell differentiation and morphogenesis during embryogenesis. The expression of b-catenin is observed in endodermal epithelia, including URS epithelia. We modulated the b-catenin gene conditionally in endodermal epithelia by utilizing tamoxifen-inducible Cre driver line (Shh(CreERT2)). Both b-catenin loss- and gain-of-function (LOF and GOF) mutants displayed abnormal clefts in the perineal region and hypoplastic elongation of the URS. The mutants also displayed reduced cell proliferation in the URS mesenchyme. In addition, the b-catenin GOF mutants displayed reduced apoptosis and subsequently increased apoptosis in the URS epithelium. This instability possibly resulted in reduced expression levels of differentiation markers, such as keratin 1 and filaggrin, in the perineal epithelia. The expression of bone morphogenetic protein (Bmp) genes, such as Bmp4 and Bmp7, was also ectopically induced in the epithelia of the URS in the b-catenin GOF mutants. The expression of the Msx2 gene and phosphorylated-Smad1/5/8, possible readouts of Bmp signaling, was also increased in the mutants. Moreover, we introduced an additional mutation for a Bmp receptor gene: BmprIA. The Shh(CreERT2/+); b-catenin(flox(ex3)/+); BmprIA(flox/-) mutants displayed partial restoration of URS elongation compared with the b-catenin GOF mutants. These results indicate that some ARM phenotypes in the b-catenin GOF mutants were caused by abnormal Bmp signaling. The current analysis revealed the close relation of endodermal b-catenin signaling to the ARM phenotypes. These results are considered to shed light on the pathogenic mechanisms of human ARMs.
+24632946	57	66	b-catenin	GeneOrGeneProduct	12387
+24632946	84	107	anorectal malformations	DiseaseOrPhenotypicFeature	D000071056
+24632946	254	278	congenital malformations	DiseaseOrPhenotypicFeature	D000013
+24632946	288	311	anorectal malformations	DiseaseOrPhenotypicFeature	D000071056
+24632946	313	317	ARMs	DiseaseOrPhenotypicFeature	D000071056
+24632946	418	427	b-Catenin	GeneOrGeneProduct	12387
+24632946	465	468	Wnt	GeneOrGeneProduct	22408
+24632946	597	606	b-catenin	GeneOrGeneProduct	12387
+24632946	686	695	b-catenin	GeneOrGeneProduct	12387
+24632946	752	761	tamoxifen	ChemicalEntity	D013629
+24632946	789	792	Shh	GeneOrGeneProduct	20423
+24632946	809	818	b-catenin	GeneOrGeneProduct	12387
+24632946	921	932	hypoplastic	DiseaseOrPhenotypicFeature	D029502
+24632946	1050	1059	b-catenin	GeneOrGeneProduct	12387
+24632946	1260	1269	keratin 1	GeneOrGeneProduct	16678
+24632946	1274	1283	filaggrin	GeneOrGeneProduct	14246
+24632946	1330	1356	bone morphogenetic protein	GeneOrGeneProduct	12159,12162
+24632946	1358	1361	Bmp	GeneOrGeneProduct	12159,12162
+24632946	1378	1382	Bmp4	GeneOrGeneProduct	12159
+24632946	1387	1391	Bmp7	GeneOrGeneProduct	12162
+24632946	1457	1466	b-catenin	GeneOrGeneProduct	12387
+24632946	1502	1506	Msx2	GeneOrGeneProduct	17702
+24632946	1531	1540	Smad1/5/8	GeneOrGeneProduct	17125,17129,55994
+24632946	1563	1566	Bmp	GeneOrGeneProduct	12159,12162
+24632946	1666	1678	Bmp receptor	GeneOrGeneProduct	12166
+24632946	1685	1691	BmprIA	GeneOrGeneProduct	12166
+24632946	1697	1700	Shh	GeneOrGeneProduct	20423
+24632946	1713	1722	b-catenin	GeneOrGeneProduct	12387
+24632946	1737	1743	BmprIA	GeneOrGeneProduct	12166
+24632946	1826	1835	b-catenin	GeneOrGeneProduct	12387
+24632946	1882	1885	ARM	DiseaseOrPhenotypicFeature	D000071056
+24632946	1904	1913	b-catenin	GeneOrGeneProduct	12387
+24632946	1950	1953	Bmp	GeneOrGeneProduct	12159,12162
+24632946	2028	2037	b-catenin	GeneOrGeneProduct	12387
+24632946	2055	2058	ARM	DiseaseOrPhenotypicFeature	D000071056
+24632946	2146	2151	human	OrganismTaxon	9606
+24632946	2152	2156	ARMs	DiseaseOrPhenotypicFeature	D000071056
+24632946	Association	D013629	20423	No
+24632946	Association	D013629	12387	No
+24632946	Association	12162	12387	Novel
+24632946	Association	12159	12387	Novel
+24632946	Association	D000071056	12162	Novel
+24632946	Association	D000071056	12159	Novel
+24632946	Association	12387	55994	Novel
+24632946	Association	12387	17129	Novel
+24632946	Association	12387	17125	Novel
+24632946	Association	12387	17702	Novel
+24632946	Association	12387	D029502	Novel
+24632946	Association	12387	20423	No
+24632946	Association	12387	D000071056	Novel

@@ -1,0 +1,65 @@
+27858503|t|High-throughput sequencing of two populations of extracellular vesicles provides an mRNA signature that can be detected in the circulation of breast cancer patients
+27858503|a|Extracellular vesicles (EVs) contain a wide range of RNA types with a reported prevalence of non-coding RNA. To date a comprehensive characterization of the protein coding transcripts in EVs is still lacking. We performed RNA-Sequencing (RNA-Seq) of 2 EV populations and identified a small fraction of transcripts that were expressed at significantly different levels in large oncosomes and exosomes, suggesting they may mediate specialized functions. However, these 2 EV populations exhibited a common mRNA signature that, in comparison to their donor cells, was significantly enriched in mRNAs encoding E2F transcriptional targets and histone proteins. These mRNAs are primarily expressed in the S-phase of the cell cycle, suggesting that they may be packaged into EVs during S-phase. In silico analysis using subcellular compartment transcriptome data from the ENCODE cell line compendium revealed that EV mRNAs originate from a cytoplasmic RNA pool. The EV signature was independently identified in plasma of patients with breast cancer by RNA-Seq. Furthermore, several transcripts differentially expressed in EVs from patients versus controls mirrored differential expression between normal and breast cancer tissues. Altogether, this largest high-throughput profiling of EV mRNA demonstrates that EVs carry tumor-specific alterations and can be interrogated as a source of cancer-derived cargo.
+27858503	0	26	High-throughput sequencing	T063	C2936623
+27858503	49	71	extracellular vesicles	T026	C3894683
+27858503	84	88	mRNA	T114,T123	C0035696
+27858503	89	98	signature	T169	C1704864
+27858503	142	155	breast cancer	T191	C0678222
+27858503	156	164	patients	T101	C0030705
+27858503	165	187	Extracellular vesicles	T026	C3894683
+27858503	189	192	EVs	T026	C3894683
+27858503	218	221	RNA	T114	C0035668
+27858503	258	272	non-coding RNA	T114	C0887909
+27858503	298	314	characterization	T052	C1880022
+27858503	322	348	protein coding transcripts	T114	C1519595
+27858503	352	355	EVs	T026	C3894683
+27858503	387	401	RNA-Sequencing	T062	C1328904
+27858503	403	410	RNA-Seq	T062	C1328904
+27858503	417	431	EV populations	T026	C3894683
+27858503	467	478	transcripts	T114	C1519595
+27858503	489	498	expressed	T045	C1515670
+27858503	542	551	oncosomes	T026	C0243092
+27858503	556	564	exosomes	T026	C2350332
+27858503	606	615	functions	T043	C0007613
+27858503	634	648	EV populations	T026	C3894683
+27858503	668	672	mRNA	T114,T123	C0035696
+27858503	673	682	signature	T169	C1704864
+27858503	712	723	donor cells	T025	C0007634
+27858503	755	760	mRNAs	T114,T123	C0035696
+27858503	770	797	E2F transcriptional targets	T116,T123	C0146462
+27858503	802	818	histone proteins	T116,T123	C0019652
+27858503	826	831	mRNAs	T114,T123	C0035696
+27858503	846	855	expressed	T045	C1515670
+27858503	863	870	S-phase	T079	C0080129
+27858503	878	888	cell cycle	T043	C0007586
+27858503	932	935	EVs	T026	C3894683
+27858503	943	950	S-phase	T079	C0080129
+27858503	952	961	In silico	T066	C3489666
+27858503	962	970	analysis	T062	C0936012
+27858503	977	1000	subcellular compartment	T026	C0729605
+27858503	1001	1014	transcriptome	T086	C3178810
+27858503	1015	1019	data	T078	C1511726
+27858503	1029	1035	ENCODE	T170	C0282574
+27858503	1036	1045	cell line	T025	C0007600
+27858503	1071	1073	EV	T026	C3894683
+27858503	1074	1079	mRNAs	T114,T123	C0035696
+27858503	1097	1117	cytoplasmic RNA pool	T114	C2827481
+27858503	1123	1125	EV	T026	C3894683
+27858503	1126	1135	signature	T169	C1704864
+27858503	1168	1174	plasma	T031	C0032105
+27858503	1178	1186	patients	T101	C0030705
+27858503	1192	1205	breast cancer	T191	C0678222
+27858503	1209	1216	RNA-Seq	T062	C1328904
+27858503	1239	1250	transcripts	T114	C1519595
+27858503	1266	1275	expressed	T045	C1515670
+27858503	1279	1282	EVs	T026	C3894683
+27858503	1288	1296	patients	T101	C0030705
+27858503	1335	1345	expression	T045	C1515670
+27858503	1354	1360	normal	T023	C0444070
+27858503	1365	1386	breast cancer tissues	T023	C0444070
+27858503	1413	1438	high-throughput profiling	T063	C2936623
+27858503	1442	1444	EV	T026	C3894683
+27858503	1445	1449	mRNA	T114,T123	C0035696
+27858503	1468	1471	EVs	T026	C3894683
+27858503	1478	1504	tumor-specific alterations	T045	C0026882
+27858503	1544	1564	cancer-derived cargo	T044	C1519628

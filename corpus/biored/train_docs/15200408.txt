@@ -1,0 +1,55 @@
+15200408|t|Lack of major involvement of human uroplakin genes in vesicoureteral reflux: implications for disease heterogeneity.
+15200408|a|BACKGROUND: Primary vesicoureteral reflux (VUR) is a hereditary disorder characterized by the retrograde flow of urine into the ureters and kidneys. It affects about 1% of the young children and is thus one of the most common hereditary diseases. Its associated nephropathy is an important cause of end-stage renal failure in children and adults. Recent studies indicate that genetic ablation of mouse uroplakin (UP) III gene, which encodes a 47 kD urothelial-specific integral membrane protein forming urothelial plaques, causes VUR and hydronephrosis. METHODS: To begin to determine whether mutations in UP genes might play a role in human VUR, we genotyped all four UP genes in 76 patients with radiologically proven primary VUR by polymerase chain reaction (PCR) amplification and sequencing of all their exons plus 50 to 150 bp of flanking intronic sequences. RESULTS: Eighteen single nucleotide polymorphisms (SNPs) were identified, seven of which were missense, with no truncation or frame shift mutations. Since healthy relatives of the VUR probands are not reliable negative controls for VUR, we used a population of 90 race-matched, healthy individuals, unrelated to the VUR patients, as controls to perform an association study. Most of the SNPs were not found to be significantly associated with VUR. However, SNP1 of UP Ia gene affecting a C to T conversion and an Ala7Val change, and SNP7 of UP III affecting a C to G conversion and a Pro154Ala change, were marginally associated with VUR (both P= 0.08). Studies of additional cases yielded a second set of data that, in combination with the first set, confirmed a weak association of UP III SNP7 in VUR (P= 0.036 adjusted for both subsets of cases vs. controls). CONCLUSION: Such a weak association and the lack of families with simple dominant Mendelian inheritance suggest that missense changes of uroplakin genes cannot play a dominant role in causing VUR in humans, although they may be weak risk factors contributing to a complex polygenic disease. The fact that no truncation or frame shift mutations have been found in any of the VUR patients, coupled with our recent finding that some breeding pairs of UP III knockout mice yield litters that show not only VUR, but also severe hydronephrosis and neonatal death, raises the possibility that major uroplakin mutations could be embryonically or postnatally lethal in humans.
+15200408	29	34	human	OrganismTaxon	9606
+15200408	35	44	uroplakin	GeneOrGeneProduct	11045,7380
+15200408	54	75	vesicoureteral reflux	DiseaseOrPhenotypicFeature	C564042
+15200408	137	158	vesicoureteral reflux	DiseaseOrPhenotypicFeature	C564042
+15200408	160	163	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	170	189	hereditary disorder	DiseaseOrPhenotypicFeature	D030342
+15200408	343	362	hereditary diseases	DiseaseOrPhenotypicFeature	D030342
+15200408	379	390	nephropathy	DiseaseOrPhenotypicFeature	D007674
+15200408	416	439	end-stage renal failure	DiseaseOrPhenotypicFeature	D007676
+15200408	513	518	mouse	OrganismTaxon	10090
+15200408	519	537	uroplakin (UP) III	GeneOrGeneProduct	22270
+15200408	647	650	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	655	669	hydronephrosis	DiseaseOrPhenotypicFeature	D006869
+15200408	723	725	UP	GeneOrGeneProduct	11045,7380
+15200408	753	758	human	OrganismTaxon	9606
+15200408	759	762	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	786	788	UP	GeneOrGeneProduct	11045,7380
+15200408	801	809	patients	OrganismTaxon	9606
+15200408	845	848	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	1162	1165	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	1214	1217	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	1298	1301	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	1302	1310	patients	OrganismTaxon	9606
+15200408	1425	1428	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	1447	1452	UP Ia	GeneOrGeneProduct	11045
+15200408	1470	1476	C to T	SequenceVariant	rs373513519
+15200408	1495	1502	Ala7Val	SequenceVariant	rs373513519
+15200408	1523	1529	UP III	GeneOrGeneProduct	7380
+15200408	1542	1548	C to G	SequenceVariant	c|SUB|C||G
+15200408	1566	1575	Pro154Ala	SequenceVariant	p|SUB|P|154|A
+15200408	1616	1619	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	1766	1772	UP III	GeneOrGeneProduct	7380
+15200408	1781	1784	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	1982	1991	uroplakin	GeneOrGeneProduct	11045,7380
+15200408	2037	2040	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	2044	2050	humans	OrganismTaxon	9606
+15200408	2219	2222	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	2223	2231	patients	OrganismTaxon	9606
+15200408	2293	2299	UP III	GeneOrGeneProduct	22270
+15200408	2309	2313	mice	OrganismTaxon	10090
+15200408	2347	2350	VUR	DiseaseOrPhenotypicFeature	C564042
+15200408	2368	2382	hydronephrosis	DiseaseOrPhenotypicFeature	D006869
+15200408	2387	2401	neonatal death	DiseaseOrPhenotypicFeature	D066087
+15200408	2437	2446	uroplakin	GeneOrGeneProduct	11045,7380
+15200408	2505	2511	humans	OrganismTaxon	9606
+15200408	Association	D066087	22270	No
+15200408	Association	p|SUB|P|154|A	C564042	Novel
+15200408	Association	c|SUB|C||G	C564042	Novel
+15200408	Association	7380	C564042	Novel
+15200408	Association	rs373513519	C564042	Novel
+15200408	Association	11045	C564042	Novel
+15200408	Association	22270	D006869	No
+15200408	Association	22270	C564042	No

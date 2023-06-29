@@ -1,0 +1,57 @@
+27890332|t|Impact of hospital transfer on surgical outcomes of intestinal atresia
+27890332|a|Examine effects of hospital transfer into a quaternary care center on surgical outcomes of intestinal atresia. Children <1 yo principally diagnosed with intestinal atresia were identified using the Kids' Inpatient Database (2012). Exposure variable was patient transfer status. Outcomes measured were inpatient mortality, hospital length of stay (LOS) and discharge status. Linearized standard errors, design-based F tests, and multivariable logistic regression were performed. 1672 weighted discharges represented a national cohort. The highest income group and those with private insurance had significantly lower odds of transfer (OR:0.53 and 0.74, p < 0.05). Rural patients had significantly higher transfer rates (OR: 2.73, p < 0.05). Multivariate analysis revealed no difference in mortality (OR:0.71, p = 0.464) or non-home discharge (OR: 0.79, p = 0.166), but showed prolonged LOS (OR:1.79, p < 0.05) amongst transferred patients. Significant differences in hospital LOS and treatment access reveal a potential healthcare gap. Post-acute care resources should be improved for transferred patients.
+27890332	0	6	Impact	T080	C4049986
+27890332	10	27	hospital transfer	T058	C2065834
+27890332	31	48	surgical outcomes	T033	C0544721
+27890332	52	70	intestinal atresia	T047	C0021828
+27890332	79	86	effects	T080	C1280500
+27890332	90	107	hospital transfer	T058	C2065834
+27890332	115	137	quaternary care center	T093	C3658282
+27890332	141	158	surgical outcomes	T033	C0544721
+27890332	162	180	intestinal atresia	T047	C0021828
+27890332	182	190	Children	T100	C0008059
+27890332	194	196	yo	T079	C0439234
+27890332	209	218	diagnosed	T033	C0011900
+27890332	224	242	intestinal atresia	T047	C0021828
+27890332	248	258	identified	T080	C0205396
+27890332	269	293	Kids' Inpatient Database	T170	C0242356
+27890332	302	319	Exposure variable	T080	C0439828
+27890332	324	331	patient	T101	C0030705
+27890332	332	347	transfer status	T033	C0586512
+27890332	349	366	Outcomes measured	T081	C0086749
+27890332	372	381	inpatient	T101	C0021562
+27890332	382	391	mortality	T081	C0021278
+27890332	393	416	hospital length of stay	T079	C3826195
+27890332	418	421	LOS	T079	C3826195
+27890332	427	443	discharge status	T033	C0586514
+27890332	445	471	Linearized standard errors	T081	C1710181
+27890332	473	493	design-based F tests	T170	C0870536
+27890332	499	532	multivariable logistic regression	T062	C0206031
+27890332	538	547	performed	T169	C0884358
+27890332	554	573	weighted discharges	T058	C0030685
+27890332	588	603	national cohort	T098	C0599755
+27890332	609	623	highest income	T033	C0948433
+27890332	624	629	group	T098	C1257890
+27890332	645	662	private insurance	T058	C2347682
+27890332	695	703	transfer	T058	C0030704
+27890332	734	739	Rural	T033	C0240919
+27890332	740	748	patients	T101	C0030705
+27890332	774	782	transfer	T058	C0030704
+27890332	783	788	rates	T081	C1521828
+27890332	811	832	Multivariate analysis	T081	C0026777
+27890332	833	841	revealed	T080	C0443289
+27890332	842	855	no difference	T033	C3842396
+27890332	859	868	mortality	T081	C0021278
+27890332	893	911	non-home discharge	T058	C0030685
+27890332	946	955	prolonged	T079	C0439590
+27890332	956	959	LOS	T079	C3826195
+27890332	988	1008	transferred patients	T101	C0030705
+27890332	1022	1033	differences	T081	C1705241
+27890332	1037	1049	hospital LOS	T079	C3826195
+27890332	1054	1063	treatment	T061	C0087111
+27890332	1071	1077	reveal	T080	C0443289
+27890332	1080	1089	potential	T080	C3245505
+27890332	1090	1100	healthcare	T058	C0086388
+27890332	1106	1121	Post-acute care	T091	C0376635
+27890332	1142	1150	improved	T033	C0184511
+27890332	1155	1175	transferred patients	T101	C0030705

@@ -1,0 +1,117 @@
+27855102|t|Non-inferiority trials: are they inferior? A systematic review of reporting in major medical journals
+27855102|a|To assess the adequacy of reporting of non-inferiority trials alongside the consistency and utility of current recommended analyses and guidelines. Review of randomised clinical trials that used a non-inferiority design published between January 2010 and May 2015 in medical journals that had an impact factor >10 (JAMA Internal Medicine, Archives Internal Medicine, PLOS Medicine, Annals of Internal Medicine, BMJ, JAMA, Lancet and New England Journal of Medicine). Ovid (MEDLINE). We searched for non-inferiority trials and assessed the following: choice of non-inferiority margin and justification of margin; power and significance level for sample size; patient population used and how this was defined; any missing data methods used and assumptions declared and any sensitivity analyses used. A total of 168 trial publications were included. Most trials concluded non-inferiority (132; 79%). The non-inferiority margin was reported for 98% (164), but less than half reported any justification for the margin (77; 46%). While most chose two different analyses (91; 54%) the most common being intention-to-treat (ITT) or modified ITT and per-protocol, a large number of articles only chose to conduct and report one analysis (65; 39%), most commonly the ITT analysis. There was lack of clarity or inconsistency between the type I error rate and corresponding CIs for 73 (43%) articles. Missing data were rarely considered with (99; 59%) not declaring whether imputation techniques were used. Reporting and conduct of non-inferiority trials is inconsistent and does not follow the recommendations in available statistical guidelines, which are not wholly consistent themselves. Authors should clearly describe the methods used and provide clear descriptions of and justifications for their design and primary analysis. Failure to do this risks misleading conclusions being drawn, with consequent effects on clinical practice.
+27855102	0	15	Non-inferiority	T033	C0243095
+27855102	16	22	trials	T062	C0008976
+27855102	33	41	inferior	T082	C0542339
+27855102	45	62	systematic review	T170	C1955832
+27855102	66	75	reporting	T062	C0011000
+27855102	85	101	medical journals	T073,T170	C0162443
+27855102	105	111	assess	T052	C1516048
+27855102	116	124	adequacy	T080	C0205411
+27855102	128	137	reporting	T062	C0011000
+27855102	141	156	non-inferiority	T033	C0243095
+27855102	157	163	trials	T062	C0008976
+27855102	178	189	consistency	T080	C0332529
+27855102	194	201	utility	T080	C3827682
+27855102	205	212	current	T079	C0521116
+27855102	213	224	recommended	T078	C0034866
+27855102	225	233	analyses	T062	C0936012
+27855102	238	248	guidelines	T170	C0162791
+27855102	250	256	Review	T078	C1552617
+27855102	260	270	randomised	T062	C0034656
+27855102	271	286	clinical trials	T062	C0008976
+27855102	299	314	non-inferiority	T033	C0243095
+27855102	315	321	design	T052	C1707689
+27855102	322	331	published	T057	C0034037
+27855102	340	347	January	T080	C3829466
+27855102	357	360	May	T079	C3812381
+27855102	369	385	medical journals	T073,T170	C0162443
+27855102	398	404	impact	T080	C4049986
+27855102	405	411	factor	T169	C1521761
+27855102	417	439	JAMA Internal Medicine	T170	C0282574
+27855102	441	467	Archives Internal Medicine	T170	C0282574
+27855102	469	482	PLOS Medicine	T170	C0282574
+27855102	484	511	Annals of Internal Medicine	T170	C0282574
+27855102	513	516	BMJ	T170	C0282574
+27855102	518	522	JAMA	T170	C0282574
+27855102	524	566	Lancet and New England Journal of Medicine	T170	C0282574
+27855102	569	573	Ovid	T170	C0282574
+27855102	575	582	MEDLINE	T170	C0025141
+27855102	588	596	searched	T052	C1706202
+27855102	601	616	non-inferiority	T033	C0243095
+27855102	617	623	trials	T062	C0008976
+27855102	628	636	assessed	T052	C1516048
+27855102	662	677	non-inferiority	T033	C0243095
+27855102	678	684	margin	T081	C0392762
+27855102	689	702	justification	T033	C0566251
+27855102	706	712	margin	T081	C0392762
+27855102	724	736	significance	T078	C0750502
+27855102	737	742	level	T080	C0441889
+27855102	747	758	sample size	T081	C0242618
+27855102	760	778	patient population	T081	C2361270
+27855102	822	826	data	T078	C1511726
+27855102	827	834	methods	T170	C0025663
+27855102	844	855	assumptions	T080	C0205556
+27855102	873	884	sensitivity	T081	C0036667
+27855102	885	893	analyses	T062	C0936012
+27855102	902	907	total	T080	C0439810
+27855102	915	920	trial	T062	C0008976
+27855102	921	933	publications	T073,T170	C0034036
+27855102	954	960	trials	T062	C0008976
+27855102	971	986	non-inferiority	T033	C0243095
+27855102	1003	1018	non-inferiority	T033	C0243095
+27855102	1019	1025	margin	T081	C0392762
+27855102	1030	1038	reported	T170	C0684224
+27855102	1086	1099	justification	T033	C0566251
+27855102	1108	1114	margin	T080	C0205556
+27855102	1147	1156	different	T080	C1705242
+27855102	1157	1165	analyses	T062	C0936012
+27855102	1185	1191	common	T081	C0205214
+27855102	1198	1216	intention-to-treat	T062	C2718028
+27855102	1218	1221	ITT	T062	C2718028
+27855102	1226	1234	modified	T169	C0392747
+27855102	1235	1238	ITT	T062	C2718028
+27855102	1243	1255	per-protocol	T169	C1698058
+27855102	1265	1271	number	T081	C0237753
+27855102	1275	1283	articles	T170	C1706852
+27855102	1298	1305	conduct	T169	C0205245
+27855102	1310	1316	report	T170	C0684224
+27855102	1321	1329	analysis	T062	C0936012
+27855102	1346	1354	commonly	T081	C0205214
+27855102	1359	1371	ITT analysis	T062	C2718028
+27855102	1383	1387	lack	T080	C0332268
+27855102	1391	1398	clarity	T080	C2963144
+27855102	1402	1415	inconsistency	T080	C0442809
+27855102	1428	1434	type I	T185	C0441729
+27855102	1435	1440	error	T080	C0743559
+27855102	1441	1445	rate	T081	C1521828
+27855102	1464	1467	CIs	T081	C0009667
+27855102	1481	1489	articles	T170	C1706852
+27855102	1491	1498	Missing	T080	C1705492
+27855102	1499	1503	data	T078	C1511726
+27855102	1516	1526	considered	T078	C0750591
+27855102	1564	1574	imputation	T081	C2699638
+27855102	1575	1585	techniques	T169	C0449851
+27855102	1597	1606	Reporting	T062	C0011000
+27855102	1611	1618	conduct	T169	C0205245
+27855102	1622	1637	non-inferiority	T033	C0243095
+27855102	1638	1644	trials	T062	C0008976
+27855102	1648	1660	inconsistent	T080	C0442809
+27855102	1685	1700	recommendations	T078	C0034866
+27855102	1704	1713	available	T169	C0470187
+27855102	1714	1736	statistical guidelines	T170	C0162791
+27855102	1759	1769	consistent	T080	C0332529
+27855102	1782	1789	Authors	T097	C3812881
+27855102	1805	1813	describe	T078	C1552738
+27855102	1818	1825	methods	T170	C0025663
+27855102	1835	1842	provide	T052	C1999230
+27855102	1849	1861	descriptions	T170	C0678257
+27855102	1869	1883	justifications	T033	C0566251
+27855102	1894	1900	design	T062	C0015320
+27855102	1905	1912	primary	T080	C0205225
+27855102	1913	1921	analysis	T062	C0936012
+27855102	1923	1930	Failure	T169	C0231175
+27855102	1959	1970	conclusions	T078	C1707478
+27855102	1989	1999	consequent	T033	C3845876
+27855102	2000	2007	effects	T080	C1280500
+27855102	2011	2028	clinical practice	T062	C0008972

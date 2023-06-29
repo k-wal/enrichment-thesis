@@ -1,0 +1,43 @@
+21615796|t|Interleukin-17F gene polymorphism in patients with chronic immune thrombocytopenia.
+21615796|a|INTRODUCTION: IL-17F is a novel inflammatory cytokine and plays an important role in some autoimmune diseases. We investigated the association between chronic ITP and the frequency of the single-nucleotide polymorphism rs763780 (7488T/C), which causes a His-to-Arg substitution at amino acid 161. PATIENTS AND METHODS: We examined 102 patients (men/women, 40/62; median age, 42) diagnosed with chronic ITP and 188 healthy controls (men/women, 78/110; median age, 38). Genotyping was determined by the polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) technique. RESULTS: Compared with the control group, patients with chronic ITP had a significantly lower frequency of the IL-17F 7488CC genotype (0% vs. 4.8%, P<0.05). The number of IL-17F 7488C alleles among the patients with chronic ITP was also significantly lower than in the control group (8.7% vs. 15.2% OR=0.48, 95%CI=0.27-0.84, P=0.016). Furthermore, patients with the IL-17F 7488TT genotype showed a severe thrombocytopenic state (platelet count<10 10(9) /L) at diagnosis than those with the IL-17F 7488TC genotype (20.9% vs. 0%, P=0.04). CONCLUSION: These findings suggest that the IL-17F 7488 T allele is significantly associated with the development of chronic ITP, suggesting a role for IL-17F in the pathogenesis of chronic ITP.
+21615796	0	15	Interleukin-17F	GeneOrGeneProduct	112744
+21615796	37	45	patients	OrganismTaxon	9606
+21615796	51	82	chronic immune thrombocytopenia	DiseaseOrPhenotypicFeature	D016553
+21615796	98	104	IL-17F	GeneOrGeneProduct	112744
+21615796	116	137	inflammatory cytokine	GeneOrGeneProduct	112744
+21615796	174	193	autoimmune diseases	DiseaseOrPhenotypicFeature	D001327
+21615796	235	246	chronic ITP	DiseaseOrPhenotypicFeature	D016553
+21615796	303	311	rs763780	SequenceVariant	rs763780
+21615796	313	320	7488T/C	SequenceVariant	rs763780
+21615796	338	379	His-to-Arg substitution at amino acid 161	SequenceVariant	rs763780
+21615796	381	389	PATIENTS	OrganismTaxon	9606
+21615796	419	427	patients	OrganismTaxon	9606
+21615796	429	432	men	OrganismTaxon	9606
+21615796	433	438	women	OrganismTaxon	9606
+21615796	478	489	chronic ITP	DiseaseOrPhenotypicFeature	D016553
+21615796	516	519	men	OrganismTaxon	9606
+21615796	520	525	women	OrganismTaxon	9606
+21615796	716	724	patients	OrganismTaxon	9606
+21615796	730	741	chronic ITP	DiseaseOrPhenotypicFeature	D016553
+21615796	785	791	IL-17F	GeneOrGeneProduct	112744
+21615796	792	798	7488CC	SequenceVariant	rs763780
+21615796	845	851	IL-17F	GeneOrGeneProduct	112744
+21615796	852	857	7488C	SequenceVariant	rs763780
+21615796	876	884	patients	OrganismTaxon	9606
+21615796	890	901	chronic ITP	DiseaseOrPhenotypicFeature	D016553
+21615796	1022	1030	patients	OrganismTaxon	9606
+21615796	1040	1046	IL-17F	GeneOrGeneProduct	112744
+21615796	1047	1053	7488TT	SequenceVariant	rs763780
+21615796	1079	1095	thrombocytopenic	DiseaseOrPhenotypicFeature	D011696
+21615796	1164	1170	IL-17F	GeneOrGeneProduct	112744
+21615796	1171	1177	7488TC	SequenceVariant	rs763780
+21615796	1255	1261	IL-17F	GeneOrGeneProduct	112744
+21615796	1262	1268	7488 T	SequenceVariant	rs763780
+21615796	1328	1339	chronic ITP	DiseaseOrPhenotypicFeature	D016553
+21615796	1363	1369	IL-17F	GeneOrGeneProduct	112744
+21615796	1393	1404	chronic ITP	DiseaseOrPhenotypicFeature	D016553
+21615796	Association	112744	D011696	Novel
+21615796	Association	112744	D016553	Novel
+21615796	Association	D001327	112744	No
+21615796	Association	rs763780	D011696	Novel
+21615796	Association	D016553	rs763780	Novel

@@ -1,0 +1,99 @@
+27787906|t|Cerebrospinal fluid biomarkers as a measure of disease activity and treatment efficacy in relapsing-remitting multiple sclerosis
+27787906|a|Cerebrospinal fluid (CSF) biomarkers can reflect different aspects of the pathophysiology of relapsing-remitting multiple sclerosis (RRMS). Understanding the impact of different disease modifying therapies on the CSF biomarker profile may increase their implementation in clinical practice and their appropriateness for monitoring treatment efficacy. This study investigated the influence of first-line (interferon beta) and second-line (natalizumab) therapies on seven CSF biomarkers in RRMS and their correlation with clinical and radiological outcomes. We included 59 RRMS patients and 39 healthy controls. The concentrations of C-X-C motif chemokine 13 (CXCL13), C-C motif chemokine ligand 2 (CCL2), chitinase-3-like protein 1 (CHI3L1), glial fibrillary acidic protein, neurofilament light protein (NFL), and neurogranin were determined by ELISA, and chitotriosidase (CHIT1) was analyzed by spectrofluorometry. RRMS patients had higher levels of NFL, CXCL13, CHI3L1, and CHIT1 than controls (p < 0.001). Subgroup analysis revealed higher NFL, CXCL13 and CHIT1 levels in patients treated with first-line therapy compared to second-line therapy (p = 0.008, p = 0.001 and p = 0.026, respectively). NFL and CHIT1 levels correlated with relapse status, and NFL and CXCL13 levels correlated with the formation of new magnetic resonance imaging lesions. Furthermore, we found an association between inflammatory and degenerative biomarkers. The results indicate that CSF levels of NFL, CXCL13, CHI3L1, and CHIT1 correlate with the clinical and/or radiological disease activity, providing additional dimensions in the assessment of treatment efficacy.
+27787906	0	19	Cerebrospinal fluid	T031	C0007806
+27787906	20	30	biomarkers	T201	C0005516
+27787906	47	63	disease activity	UnknownType	C0544450
+27787906	68	86	treatment efficacy	T080	C0087113
+27787906	90	128	relapsing-remitting multiple sclerosis	T047	C0751967
+27787906	129	148	Cerebrospinal fluid	T031	C0007806
+27787906	150	153	CSF	T031	C0007806
+27787906	155	165	biomarkers	T201	C0005516
+27787906	203	218	pathophysiology	T169	C0031847
+27787906	222	260	relapsing-remitting multiple sclerosis	T047	C0751967
+27787906	262	266	RRMS	T047	C0751967
+27787906	287	293	impact	T080	C4049986
+27787906	307	314	disease	T047	C0012634
+27787906	325	334	therapies	T061	C0087111
+27787906	342	345	CSF	T031	C0007806
+27787906	346	355	biomarker	T201	C0005516
+27787906	356	363	profile	T059	C1979963
+27787906	383	397	implementation	T052	C1708476
+27787906	401	418	clinical practice	T057	C0205897
+27787906	449	459	monitoring	T058	C0150369
+27787906	460	478	treatment efficacy	T080	C0087113
+27787906	485	490	study	T062	C2603343
+27787906	508	517	influence	T077	C4054723
+27787906	521	531	first-line	T061	C1708063
+27787906	533	548	interferon beta	T116,T121,T129	C0015980
+27787906	554	565	second-line	T061	C1710038
+27787906	567	578	natalizumab	T116,T121,T129	C1172734
+27787906	599	602	CSF	T031	C0007806
+27787906	603	613	biomarkers	T201	C0005516
+27787906	617	621	RRMS	T047	C0751967
+27787906	632	643	correlation	T080	C1707520
+27787906	649	657	clinical	T080	C0205210
+27787906	662	674	radiological	T169	C0205483
+27787906	675	683	outcomes	T034	C0587081
+27787906	700	704	RRMS	T047	C0751967
+27787906	705	713	patients	T101	C0030705
+27787906	721	737	healthy controls	T080	C2986479
+27787906	743	757	concentrations	T081	C1446561
+27787906	761	785	C-X-C motif chemokine 13	T116,T129	C0963811
+27787906	787	793	CXCL13	T116,T129	C0963811
+27787906	796	824	C-C motif chemokine ligand 2	T116,T123	C1332831
+27787906	826	830	CCL2	T116,T123	C1332831
+27787906	833	859	chitinase-3-like protein 1	T116,T123	C3872855
+27787906	861	867	CHI3L1	T116,T123	C3872855
+27787906	870	901	glial fibrillary acidic protein	T116,T123	C0017626
+27787906	903	930	neurofilament light protein	T116,T123	C0068590
+27787906	932	935	NFL	T116,T123	C0068590
+27787906	942	953	neurogranin	T116,T123	C0083727
+27787906	973	978	ELISA	T059	C0014441
+27787906	984	999	chitotriosidase	T116,T126	C0253005
+27787906	1001	1006	CHIT1	T116,T126	C0253005
+27787906	1024	1042	spectrofluorometry	T059	C0037802
+27787906	1044	1048	RRMS	T047	C0751967
+27787906	1049	1057	patients	T101	C0030705
+27787906	1062	1068	higher	T080	C0205250
+27787906	1069	1075	levels	T080	C0441889
+27787906	1079	1082	NFL	T116,T123	C0068590
+27787906	1084	1090	CXCL13	T116,T129	C0963811
+27787906	1092	1098	CHI3L1	T116,T123	C3872855
+27787906	1104	1109	CHIT1	T116,T126	C0253005
+27787906	1115	1123	controls	T167	C1550141
+27787906	1137	1145	Subgroup	T185	C1515021
+27787906	1146	1154	analysis	T062	C0936012
+27787906	1164	1170	higher	T080	C0205250
+27787906	1171	1174	NFL	T116,T123	C0068590
+27787906	1176	1182	CXCL13	T116,T129	C0963811
+27787906	1187	1192	CHIT1	T116,T126	C0253005
+27787906	1193	1199	levels	T080	C0441889
+27787906	1203	1211	patients	T101	C0030705
+27787906	1212	1224	treated with	T061	C0332293
+27787906	1225	1243	first-line therapy	T061	C1708063
+27787906	1256	1275	second-line therapy	T061	C1710038
+27787906	1328	1331	NFL	T116,T123	C0068590
+27787906	1336	1341	CHIT1	T116,T126	C0253005
+27787906	1342	1348	levels	T080	C0441889
+27787906	1365	1379	relapse status	T047	C0277556
+27787906	1385	1388	NFL	T116,T123	C0068590
+27787906	1393	1399	CXCL13	T116,T129	C0963811
+27787906	1400	1406	levels	T080	C0441889
+27787906	1444	1470	magnetic resonance imaging	T060	C0024485
+27787906	1471	1478	lesions	T033	C0221198
+27787906	1505	1516	association	T080	C0439849
+27787906	1525	1537	inflammatory	T169	C0333348
+27787906	1542	1554	degenerative	T169	C1880269
+27787906	1555	1565	biomarkers	T201	C0005516
+27787906	1571	1578	results	T169	C1274040
+27787906	1593	1596	CSF	T031	C0007806
+27787906	1597	1603	levels	T080	C0441889
+27787906	1607	1610	NFL	T116,T123	C0068590
+27787906	1612	1618	CXCL13	T116,T129	C0963811
+27787906	1620	1626	CHI3L1	T116,T123	C3872855
+27787906	1632	1637	CHIT1	T116,T126	C0253005
+27787906	1657	1665	clinical	T080	C0205210
+27787906	1673	1685	radiological	T169	C0205483
+27787906	1686	1702	disease activity	UnknownType	C0544450
+27787906	1743	1753	assessment	T058	C0220825
+27787906	1757	1775	treatment efficacy	T080	C0087113

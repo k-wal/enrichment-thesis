@@ -1,0 +1,60 @@
+28148288|t|Metalloprotease-disintegrin ADAM12 actively promotes the stem cell-like phenotype in claudin-low breast cancer.
+28148288|a|BACKGROUND: ADAM12 is upregulated in human breast cancers and is a predictor of chemoresistance in estrogen receptor-negative tumors. ADAM12 is induced during epithelial-to-mesenchymal transition, a feature associated with claudin-low breast tumors, which are enriched in cancer stem cell (CSC) markers. It is currently unknown whether ADAM12 plays an active role in promoting the CSC phenotype in breast cancer cells. METHODS: ADAM12 expression was downregulated in representative claudin-low breast cancer cell lines, SUM159PT and Hs578T, using siRNA transfection or inducible shRNA expression. Cell characteristics commonly associated with the CSC phenotype in vitro (cell migration, invasion, anoikis resistance, mammosphere formation, ALDH activity, and expression of the CD44 and CD24 cell surface markers) and in vivo (tumor formation in mice using limiting dilution transplantation assays) were evaluated. RNA sequencing was performed to identify global gene expression changes after ADAM12 knockdown. RESULTS: We found that sorted SUM159PT cell populations with high ADAM12 levels had elevated expression of CSC markers and an increased ability to form mammospheres. ADAM12 knockdown reduced cell migration and invasion, decreased anoikis resistance, and compromised mammosphere formation. ADAM12 knockdown also diminished ALDEFLUOR(+) and CD44(hi)/CD24(-/lo) CSC-enriched populations in vitro and reduced tumorigenesis in mice in vivo. RNA sequencing identified a significant overlap between ADAM12- and Epidermal Growth Factor Receptor (EGFR)-regulated genes. Consequently, ADAM12 knockdown lowered the basal activation level of EGFR, and this effect was abolished by batimastat, a metalloproteinase inhibitor. Furthermore, incubation of cells with exogenously added EGF prevented the downregulation of CD44(hi)/CD24(-/lo) cell population by ADAM12 knockdown. CONCLUSIONS: These results indicate that ADAM12 actively supports the CSC phenotype in claudin-low breast cancer cells via modulation of the EGFR pathway.
+28148288	0	27	Metalloprotease-disintegrin	GeneOrGeneProduct	8038
+28148288	28	34	ADAM12	GeneOrGeneProduct	8038
+28148288	85	92	claudin	GeneOrGeneProduct	9076
+28148288	97	110	breast cancer	DiseaseOrPhenotypicFeature	D001943
+28148288	124	130	ADAM12	GeneOrGeneProduct	8038
+28148288	149	154	human	OrganismTaxon	9606
+28148288	155	169	breast cancers	DiseaseOrPhenotypicFeature	D001943
+28148288	211	228	estrogen receptor	GeneOrGeneProduct	2099
+28148288	238	244	tumors	DiseaseOrPhenotypicFeature	D009369
+28148288	246	252	ADAM12	GeneOrGeneProduct	8038
+28148288	335	342	claudin	GeneOrGeneProduct	9076
+28148288	347	360	breast tumors	DiseaseOrPhenotypicFeature	D001943
+28148288	384	390	cancer	DiseaseOrPhenotypicFeature	D009369
+28148288	448	454	ADAM12	GeneOrGeneProduct	8038
+28148288	510	523	breast cancer	DiseaseOrPhenotypicFeature	D001943
+28148288	540	546	ADAM12	GeneOrGeneProduct	8038
+28148288	594	601	claudin	GeneOrGeneProduct	9076
+28148288	606	619	breast cancer	DiseaseOrPhenotypicFeature	D001943
+28148288	632	640	SUM159PT	CellLine	CVCL_5423
+28148288	645	651	Hs578T	CellLine	CVCL_0332
+28148288	852	856	ALDH	GeneOrGeneProduct	217
+28148288	889	893	CD44	GeneOrGeneProduct	960
+28148288	898	902	CD24	GeneOrGeneProduct	100133941
+28148288	938	943	tumor	DiseaseOrPhenotypicFeature	D009369
+28148288	957	961	mice	OrganismTaxon	10090
+28148288	1104	1110	ADAM12	GeneOrGeneProduct	8038
+28148288	1152	1160	SUM159PT	CellLine	CVCL_5423
+28148288	1188	1194	ADAM12	GeneOrGeneProduct	8038
+28148288	1288	1294	ADAM12	GeneOrGeneProduct	8038
+28148288	1411	1417	ADAM12	GeneOrGeneProduct	8038
+28148288	1461	1465	CD44	GeneOrGeneProduct	960
+28148288	1470	1474	CD24	GeneOrGeneProduct	100133941
+28148288	1527	1540	tumorigenesis	DiseaseOrPhenotypicFeature	D009369
+28148288	1544	1548	mice	OrganismTaxon	10090
+28148288	1614	1620	ADAM12	GeneOrGeneProduct	8038
+28148288	1626	1658	Epidermal Growth Factor Receptor	GeneOrGeneProduct	1956
+28148288	1660	1664	EGFR	GeneOrGeneProduct	1956
+28148288	1697	1703	ADAM12	GeneOrGeneProduct	8038
+28148288	1752	1756	EGFR	GeneOrGeneProduct	1956
+28148288	1791	1801	batimastat	ChemicalEntity	C080985
+28148288	1805	1822	metalloproteinase	GeneOrGeneProduct	8038
+28148288	1890	1893	EGF	GeneOrGeneProduct	1950
+28148288	1926	1930	CD44	GeneOrGeneProduct	960
+28148288	1935	1939	CD24	GeneOrGeneProduct	100133941
+28148288	1965	1971	ADAM12	GeneOrGeneProduct	8038
+28148288	2024	2030	ADAM12	GeneOrGeneProduct	8038
+28148288	2070	2077	claudin	GeneOrGeneProduct	9076
+28148288	2082	2095	breast cancer	DiseaseOrPhenotypicFeature	D001943
+28148288	2124	2128	EGFR	GeneOrGeneProduct	1956
+28148288	Association	1950	8038	Novel
+28148288	Association	C080985	1956	Novel
+28148288	Negative_Correlation	C080985	8038	No
+28148288	Association	9076	D001943	No
+28148288	Association	8038	2099	No
+28148288	Positive_Correlation	8038	1956	Novel
+28148288	Positive_Correlation	8038	D009369	Novel
+28148288	Association	8038	D001943	Novel
+28148288	Association	8038	9076	Novel

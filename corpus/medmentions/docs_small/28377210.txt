@@ -1,0 +1,45 @@
+28377210|t|Similar patterns of neural activity predict memory function during encoding and retrieval
+28377210|a|Neural networks that span the medial temporal lobe (MTL), prefrontal cortex, and posterior cortical regions are essential to episodic memory function in humans. Encoding and retrieval are supported by the engagement of both distinct neural pathways across the cortex and common structures within the medial temporal lobes. However, the degree to which memory performance can be determined by neural processing that is common to encoding and retrieval remains to be determined. To identify neural signatures of successful memory function, we administered a delayed free-recall task to 187 neurosurgical patients implanted with subdural or intraparenchymal depth electrodes. We developed multivariate classifiers to identify patterns of spectral power across the brain that independently predicted successful episodic encoding and retrieval. During encoding and retrieval, patterns of increased high frequency activity in prefrontal, MTL, and inferior parietal cortices, accompanied by widespread decreases in low frequency power across the brain predicted successful memory function. Using a cross-decoding approach, we demonstrate the ability to predict memory function across distinct phases of the free-recall task. Furthermore, we demonstrate that classifiers that combine information from both encoding and retrieval states can outperform task-independent models. These findings suggest that the engagement of a core memory network during either encoding or retrieval shapes the ability to remember the past, despite distinct neural interactions that facilitate encoding and retrieval.
+28377210	8	16	patterns	T082	UMLS:C0449774
+28377210	44	59	memory function	T038	UMLS:C0025260
+28377210	67	75	encoding	T038	UMLS:C0679058
+28377210	90	105	Neural networks	T017	UMLS:C0242406
+28377210	120	140	medial temporal lobe	T017	UMLS:C0039485
+28377210	142	145	MTL	T017	UMLS:C0039485
+28377210	148	165	prefrontal cortex	T017	UMLS:C0162783
+28377210	171	197	posterior cortical regions	T017	UMLS:C4252868
+28377210	215	239	episodic memory function	T038	UMLS:C0561843
+28377210	243	249	humans	T204	UMLS:C0086418
+28377210	251	259	Encoding	T038	UMLS:C0679058
+28377210	323	338	neural pathways	T017	UMLS:C0027792
+28377210	350	356	cortex	T017	UMLS:C0007776
+28377210	368	378	structures	T082	UMLS:C0678594
+28377210	390	411	medial temporal lobes	T017	UMLS:C0039485
+28377210	442	460	memory performance	T038	UMLS:C1285654
+28377210	518	526	encoding	T038	UMLS:C0679058
+28377210	611	626	memory function	T038	UMLS:C0025260
+28377210	678	691	neurosurgical	T058	UMLS:C0524850
+28377210	701	710	implanted	T058	UMLS:C0021107
+28377210	716	724	subdural	T082	UMLS:C0038541
+28377210	728	744	intraparenchymal	T017	UMLS:C0933845
+28377210	745	761	depth electrodes	T074	UMLS:C0491577
+28377210	776	800	multivariate classifiers	T170	UMLS:C0282574
+28377210	813	821	patterns	T082	UMLS:C0449774
+28377210	851	856	brain	T017	UMLS:C0006104
+28377210	897	914	episodic encoding	T038	UMLS:C0679058
+28377210	937	945	encoding	T038	UMLS:C0679058
+28377210	961	969	patterns	T082	UMLS:C0449774
+28377210	1010	1020	prefrontal	T017	UMLS:C0162783
+28377210	1022	1025	MTL	T017	UMLS:C0039485
+28377210	1031	1057	inferior parietal cortices	T017	UMLS:C0030560
+28377210	1129	1134	brain	T017	UMLS:C0006104
+28377210	1156	1171	memory function	T038	UMLS:C0025260
+28377210	1244	1259	memory function	T038	UMLS:C0025260
+28377210	1341	1352	classifiers	T170	UMLS:C0282574
+28377210	1388	1396	encoding	T038	UMLS:C0679058
+28377210	1433	1456	task-independent models	T170	UMLS:C3161035
+28377210	1511	1525	memory network	T038	UMLS:C0025260
+28377210	1540	1548	encoding	T038	UMLS:C0679058
+28377210	1562	1568	shapes	T082	UMLS:C0332479
+28377210	1573	1601	ability to remember the past	T033	UMLS:C4303539
+28377210	1656	1664	encoding	T038	UMLS:C0679058

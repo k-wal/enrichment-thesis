@@ -1,0 +1,33 @@
+27976741|t|Weighing Scale -Based Pulse Transit Time is a Superior Marker of Blood Pressure than Conventional Pulse Arrival Time
+27976741|a|Pulse transit time (PTT) is being widely pursued for cuff-less blood pressure (BP) monitoring. Most efforts have employed the time delay between ECG and finger photoplethysmography (PPG) waveforms as a convenient surrogate of PTT. However, these conventional pulse arrival time (PAT) measurements include the pre-ejection period (PEP) and the time delay through small, muscular arteries and may thus be an unreliable marker of BP. We assessed a bathroom weighing scale-like system for convenient measurement of ballistocardiography and foot PPG waveforms - and thus PTT through larger, more elastic arteries - in terms of its ability to improve tracking of BP in individual subjects. We measured " scale PTT ", conventional PAT, and cuff BP in humans during interventions that increased BP but changed PEP and smooth muscle contraction differently. Scale PTT tracked the diastolic BP changes well, with correlation coefficient of -0.80 ± 0.02 (mean ± SE) and root-mean-squared-error of 7.6 ± 0.5 mmHg after a best-case calibration. Conventional PAT was significantly inferior in tracking these changes, with correlation coefficien t of -0.60 ± 0.04 and root-mean-squared-error of 14.6 ± 1.5 mmHg (p < 0.05). Scale PTT also tracked the systolic BP changes better than conventional PAT but not to an acceptable level. With further development, scale PTT may permit reliable, convenient measurement of BP.
+27976741	0	14	Weighing Scale	T074	UMLS:C0183106
+27976741	65	79	Blood Pressure	T038	UMLS:C0005823
+27976741	170	210	cuff-less blood pressure (BP) monitoring	T058	UMLS:C0026426
+27976741	262	265	ECG	T058	UMLS:C1623258
+27976741	270	276	finger	T017	UMLS:C0016129
+27976741	277	297	photoplethysmography	T058	UMLS:C0162599
+27976741	299	302	PPG	T058	UMLS:C0162599
+27976741	304	313	waveforms	T033	UMLS:C0428727
+27976741	486	503	muscular arteries	T017	UMLS:C0226002
+27976741	544	546	BP	T038	UMLS:C0005823
+27976741	562	597	bathroom weighing scale-like system	T074	UMLS:C0025080
+27976741	628	648	ballistocardiography	T058	UMLS:C0004700
+27976741	658	661	PPG	T058	UMLS:C0162599
+27976741	662	671	waveforms	T033	UMLS:C0428727
+27976741	708	724	elastic arteries	T017	UMLS:C0226008
+27976741	762	770	tracking	T082	UMLS:C0546881
+27976741	774	776	BP	T038	UMLS:C0005823
+27976741	815	820	scale	T074	UMLS:C0025080
+27976741	850	854	cuff	T017	UMLS:C1550244
+27976741	855	857	BP	T038	UMLS:C0005823
+27976741	861	867	humans	T204	UMLS:C0086418
+27976741	904	906	BP	T038	UMLS:C0005823
+27976741	927	952	smooth muscle contraction	T038	UMLS:C1155937
+27976741	966	971	Scale	T074	UMLS:C0025080
+27976741	976	983	tracked	T082	UMLS:C0546881
+27976741	988	1000	diastolic BP	T201	UMLS:C0428883
+27976741	1196	1204	tracking	T082	UMLS:C0546881
+27976741	1325	1330	Scale	T074	UMLS:C0025080
+27976741	1352	1363	systolic BP	T201	UMLS:C0871470
+27976741	1459	1464	scale	T074	UMLS:C0025080
+27976741	1516	1518	BP	T038	UMLS:C0005823

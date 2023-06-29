@@ -1,0 +1,87 @@
+28077046|t|Rational use of rasburicase for the treatment and management of tumor lysis syndrome
+28077046|a|Purpose There is a lack of high-level evidence identifying meaningful outcomes and the optimal place in therapy of rasburicase in patients with, or at high risk for tumor lysis syndrome. The primary objective of this study was to evaluate and characterize outcomes resulting from an institution-specific guideline emphasizing supportive care, xanthine oxidase inhibitors, and lower doses of rasburicase. Methods In this retrospective chart review, we compared conservative rasburicase dosing, in accordance with newly developed UMHS tumor lysis syndrome guidelines, with aggressive rasburicase in adult patients (≥ 18 years of age) with hematological or solid tumor malignancies, and a uric acid level between 8 and 15 mg/dL. The primary efficacy outcome assessed the difference in the proportion of patients achieving a uric acid level <8 mg/dL within 48 h using a one-sided noninferiority test. The principle safety outcomes analyzed included incidence of acute kidney injury and hemodialysis requirement. Results One hundred sixty-one patients met inclusion criteria and were included in the study. Within 48 h of an elevated uric acid level, treatment was successful in 97.03% of patients in the conservative group, as compared with 98.33% in the aggressive group (difference, 1.3 percentage points; 95% confidence interval [CI], -3.33 to 5.93). Furthermore, there was no difference in the proportion of patients requiring hemodialysis (2.97% vs. 10.0%, p-value 0.079), or incidence of acute kidney injury (4.0% vs. 12.5%, p-value 1.00) between the treatment group and control group, respectively. Conclusions Conservative rasburicase use was noninferior to aggressive rasburicase use in patients with or at high risk for tumor lysis syndrome.
+28077046	9	12	use	T169	C0457083
+28077046	16	27	rasburicase	T116,T121,T126	C0937932
+28077046	36	45	treatment	T061	C0087111
+28077046	50	60	management	T058	C0376636
+28077046	64	84	tumor lysis syndrome	T047	C0041364
+28077046	104	111	lack of	T080	C0332268
+28077046	123	131	evidence	T078	C3887511
+28077046	144	163	meaningful outcomes	T169	C1274040
+28077046	189	196	therapy	T061	C0087111
+28077046	200	211	rasburicase	T116,T121,T126	C0937932
+28077046	215	223	patients	T101	C0030705
+28077046	233	245	at high risk	T033	C0332167
+28077046	250	270	tumor lysis syndrome	T047	C0041364
+28077046	302	307	study	T062	C2603343
+28077046	315	323	evaluate	T058	C0220825
+28077046	328	340	characterize	T052	C1880022
+28077046	341	349	outcomes	T169	C1274040
+28077046	368	398	institution-specific guideline	T170	C0870077
+28077046	411	426	supportive care	T061	C0344211
+28077046	428	455	xanthine oxidase inhibitors	T109,T121	C0302609
+28077046	461	472	lower doses	T081	C0178602
+28077046	476	487	rasburicase	T116,T121,T126	C0937932
+28077046	489	496	Methods	T170	C0025663
+28077046	505	518	retrospective	T080	C1514923
+28077046	519	531	chart review	UnknownType	C0553620
+28077046	536	544	compared	T052	C1707455
+28077046	545	557	conservative	T061	C0459914
+28077046	558	569	rasburicase	T116,T121,T126	C0937932
+28077046	570	576	dosing	T081	C0178602
+28077046	613	617	UMHS	T093	C1708333
+28077046	618	638	tumor lysis syndrome	T047	C0041364
+28077046	639	649	guidelines	T170	C0162791
+28077046	656	666	aggressive	T079	C0580822
+28077046	667	678	rasburicase	T116,T121,T126	C0937932
+28077046	682	687	adult	T100	C0001675
+28077046	688	696	patients	T101	C0030705
+28077046	703	715	years of age	T079	C1510829
+28077046	722	735	hematological	T191	C0376545
+28077046	739	763	solid tumor malignancies	T191	C1698088
+28077046	771	786	uric acid level	T059	C0202239
+28077046	823	831	efficacy	T080	C1280519
+28077046	832	839	outcome	T169	C1274040
+28077046	840	848	assessed	T052	C1516048
+28077046	853	863	difference	T081	C1705241
+28077046	871	881	proportion	T081	C1709707
+28077046	885	893	patients	T101	C0030705
+28077046	906	921	uric acid level	T059	C0202239
+28077046	951	980	one-sided noninferiority test	T170	C0392366
+28077046	996	1011	safety outcomes	T169	C1274040
+28077046	1012	1020	analyzed	T062	C0936012
+28077046	1043	1062	acute kidney injury	T037	C2609414
+28077046	1067	1079	hemodialysis	T061	C0019004
+28077046	1080	1091	requirement	T169	C1514873
+28077046	1093	1100	Results	T169	C1274040
+28077046	1123	1131	patients	T101	C0030705
+28077046	1136	1154	inclusion criteria	T080	C1512693
+28077046	1180	1185	study	T062	C2603343
+28077046	1205	1229	elevated uric acid level	T033	C0041981
+28077046	1231	1240	treatment	T169	C0039798
+28077046	1245	1255	successful	T080	C1272703
+28077046	1269	1277	patients	T101	C0030705
+28077046	1285	1297	conservative	T061	C0459914
+28077046	1298	1303	group	T078	C0441833
+28077046	1336	1346	aggressive	T079	C0580822
+28077046	1347	1352	group	T078	C0441833
+28077046	1393	1412	confidence interval	T081	C0009667
+28077046	1414	1416	CI	T081	C0009667
+28077046	1458	1471	no difference	T033	C3842396
+28077046	1479	1489	proportion	T081	C1709707
+28077046	1493	1501	patients	T101	C0030705
+28077046	1512	1524	hemodialysis	T061	C0019004
+28077046	1543	1550	p-value	T081	C1709380
+28077046	1562	1571	incidence	T081	C0021149
+28077046	1575	1594	acute kidney injury	T037	C2609414
+28077046	1612	1619	p-value	T081	C1709380
+28077046	1638	1653	treatment group	T078	C0441833
+28077046	1658	1671	control group	T096	C0009932
+28077046	1699	1711	Conservative	T061	C0459914
+28077046	1712	1723	rasburicase	T116,T121,T126	C0937932
+28077046	1732	1743	noninferior	T080	C0205556
+28077046	1747	1757	aggressive	T079	C0580822
+28077046	1758	1769	rasburicase	T116,T121,T126	C0937932
+28077046	1777	1785	patients	T101	C0030705
+28077046	1794	1806	at high risk	T033	C0332167
+28077046	1811	1831	tumor lysis syndrome	T047	C0041364

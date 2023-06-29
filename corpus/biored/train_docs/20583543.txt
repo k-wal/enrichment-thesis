@@ -1,0 +1,37 @@
+20583543|t|Molecular diagnosis of 46,XY DSD and identification of a novel 8 nucleotide deletion in exon 1 of the SRD5A2 gene.
+20583543|a|Phenotypic presentation of 46,XY DSD depends on the underlying defects. Defect in androgen action on the target tissues or production of active metabolite share common morphological features. Molecular study may help differentiating these abnormalities with precision. Mutational analysis of androgen receptor (AR) and SRD5A2 genes was performed in 29 patients with 46,XY DSD, by PCR-SSCP. The amplicons that showed an aberrant migration in SSCP were subjected to sequencing. Interestingly, six patients from 4 unrelated families (a pair of sibs, uncle/nephew and other two isolated) were identified with mutations in SRD5A2 gene. In five patients p.R246Q missense mutation was detected, of which four were homozygous and one was compound heterozygous: g.80_87delT CGCGAAG (p.A27fsX132) and p.R246Q. Another patient with isolated micropenis harbored a heterozygous p.G196S missense mutation. No AR gene mutation was detected. In conclusion, our study suggests that p.R246Q mutation is common amongst patients with SRD5A2 gene defect from the Northern states of India. Also, it records a novel deletion in exon 1 of SRD5A2 gene in a patient with severe hypospadias.
+20583543	23	32	46,XY DSD	DiseaseOrPhenotypicFeature	D058490
+20583543	63	84	8 nucleotide deletion	SequenceVariant	c|DEL||8
+20583543	102	108	SRD5A2	GeneOrGeneProduct	6716
+20583543	142	151	46,XY DSD	DiseaseOrPhenotypicFeature	D058490
+20583543	407	424	androgen receptor	GeneOrGeneProduct	367
+20583543	426	428	AR	GeneOrGeneProduct	367
+20583543	434	440	SRD5A2	GeneOrGeneProduct	6716
+20583543	467	475	patients	OrganismTaxon	9606
+20583543	481	490	46,XY DSD	DiseaseOrPhenotypicFeature	D058490
+20583543	610	618	patients	OrganismTaxon	9606
+20583543	733	739	SRD5A2	GeneOrGeneProduct	6716
+20583543	754	762	patients	OrganismTaxon	9606
+20583543	763	770	p.R246Q	SequenceVariant	rs9332967
+20583543	868	887	g.80_87delT CGCGAAG	SequenceVariant	g|DEL|80_87|TCGCGAAG
+20583543	889	900	p.A27fsX132	SequenceVariant	p|FS|A|27||132
+20583543	906	913	p.R246Q	SequenceVariant	rs9332967
+20583543	923	930	patient	OrganismTaxon	9606
+20583543	936	955	isolated micropenis	DiseaseOrPhenotypicFeature	C536649
+20583543	980	987	p.G196S	SequenceVariant	rs121434250
+20583543	1010	1012	AR	GeneOrGeneProduct	367
+20583543	1080	1087	p.R246Q	SequenceVariant	rs9332967
+20583543	1115	1123	patients	OrganismTaxon	9606
+20583543	1129	1135	SRD5A2	GeneOrGeneProduct	6716
+20583543	1230	1236	SRD5A2	GeneOrGeneProduct	6716
+20583543	1247	1254	patient	OrganismTaxon	9606
+20583543	1267	1278	hypospadias	DiseaseOrPhenotypicFeature	D007021
+20583543	Association	D007021	c|DEL||8	Novel
+20583543	Association	C536649	rs121434250	Novel
+20583543	Association	C536649	6716	Novel
+20583543	Association	6716	D007021	Novel
+20583543	Association	D058490	g|DEL|80_87|TCGCGAAG	Novel
+20583543	Association	D058490	p|FS|A|27||132	Novel
+20583543	Association	D058490	rs9332967	Novel
+20583543	Association	D058490	6716	Novel
+20583543	Association	D058490	c|DEL||8	Novel

@@ -1,0 +1,60 @@
+26615423|t|Upregulation of centrosomal protein 55 is associated with unfavorable prognosis and tumor invasion in epithelial ovarian carcinoma.
+26615423|a|Centrosomal protein 55 (CEP55) is a cell cycle regulator implicated in development of certain cancers. However, characteristics of CEP55 expression and its clinical/prognostic significance are unclear in human epithelial ovarian carcinoma (EOC). Therefore, we investigated the expression and clinicopathological significance of CEP55 in patients with EOC and its role in regulating invasion and metastasis of ovarian cell lines. CEP55 mRNA and protein expression levels were detected by quantitative real-time PCR (qRT-PCR), Western blotting, and immunohistochemistry (IHC). Potential associations of CEP55 expression scores with clinical parameters and patient survival were evaluated. CEP55 function was investigated further using RNA interference, wound healing assay, transwell assay, immunofluorescence analysis, qRT-PCR, and Western blotting. CEP55 was significantly upregulated in ovarian cancer cell lines and lesions compared with normal cells and adjacent noncancerous ovarian tissues. In the 213 EOC samples, CEP55 protein levels were positively correlated with clinical stage (P < 0.001), lymph node metastasis (P < 0.001), intraperitoneal metastasis (P < 0.001), tumor recurrence (P < 0.001), differentiation grade (P < 0.001), residual tumor size (P < 0.001), ascites see tumor cells (P = 0.020), and serum CA153 level (P < 0.001). Moreover, patients with aberrant CEP55 protein expression showed tendencies to receive neoadjuvant chemotherapy (P < 0.001) and cytoreductive surgery (P = 0.020). By contrast, no significant correlation was detected between the protein levels and patient age, histological type, or serum CA125, CA199, CA724, NSE, CEA, and b-HCG levels. Patients with high CEP55 protein expression had shorter overall survival and disease-free survival compared with those with low CEP55 expression. Multivariate analysis implicated CEP55 as an independent prognostic indicator for EOC patients. Additionally, downregulation of CEP55 in ovarian cancer cells remarkably inhibited cellular motility and invasion. Aberrant CEP55 expression may predict unfavorable clinical outcomes in EOC patients and play an important role in regulating invasion in ovarian cancer cells. Thus, CEP55 may serve as a prognostic marker and therapeutic target for EOC.
+26615423	16	38	centrosomal protein 55	GeneOrGeneProduct	55165
+26615423	84	89	tumor	DiseaseOrPhenotypicFeature	D009369
+26615423	102	130	epithelial ovarian carcinoma	DiseaseOrPhenotypicFeature	D000077216
+26615423	132	154	Centrosomal protein 55	GeneOrGeneProduct	55165
+26615423	156	161	CEP55	GeneOrGeneProduct	55165
+26615423	226	233	cancers	DiseaseOrPhenotypicFeature	D009369
+26615423	263	268	CEP55	GeneOrGeneProduct	55165
+26615423	336	341	human	OrganismTaxon	9606
+26615423	342	370	epithelial ovarian carcinoma	DiseaseOrPhenotypicFeature	D000077216
+26615423	372	375	EOC	DiseaseOrPhenotypicFeature	D000077216
+26615423	460	465	CEP55	GeneOrGeneProduct	55165
+26615423	469	477	patients	OrganismTaxon	9606
+26615423	483	486	EOC	DiseaseOrPhenotypicFeature	D000077216
+26615423	527	548	metastasis of ovarian	DiseaseOrPhenotypicFeature	D010051
+26615423	561	566	CEP55	GeneOrGeneProduct	55165
+26615423	733	738	CEP55	GeneOrGeneProduct	55165
+26615423	786	793	patient	OrganismTaxon	9606
+26615423	819	824	CEP55	GeneOrGeneProduct	55165
+26615423	981	986	CEP55	GeneOrGeneProduct	55165
+26615423	1020	1034	ovarian cancer	DiseaseOrPhenotypicFeature	D010051
+26615423	1139	1142	EOC	DiseaseOrPhenotypicFeature	D000077216
+26615423	1152	1157	CEP55	GeneOrGeneProduct	55165
+26615423	1233	1254	lymph node metastasis	DiseaseOrPhenotypicFeature	D008207
+26615423	1268	1294	intraperitoneal metastasis	DiseaseOrPhenotypicFeature	D009362
+26615423	1308	1313	tumor	DiseaseOrPhenotypicFeature	D009369
+26615423	1382	1387	tumor	DiseaseOrPhenotypicFeature	D009369
+26615423	1406	1413	ascites	DiseaseOrPhenotypicFeature	D001201
+26615423	1418	1423	tumor	DiseaseOrPhenotypicFeature	D009369
+26615423	1453	1458	CA153	GeneOrGeneProduct	4582
+26615423	1488	1496	patients	OrganismTaxon	9606
+26615423	1511	1516	CEP55	GeneOrGeneProduct	55165
+26615423	1725	1732	patient	OrganismTaxon	9606
+26615423	1766	1771	CA125	GeneOrGeneProduct	94025
+26615423	1773	1778	CA199	GeneOrGeneProduct	94025
+26615423	1780	1785	CA724	GeneOrGeneProduct	94025
+26615423	1787	1790	NSE	GeneOrGeneProduct	2026
+26615423	1792	1795	CEA	GeneOrGeneProduct	1084
+26615423	1801	1806	b-HCG	GeneOrGeneProduct	93659
+26615423	1815	1823	Patients	OrganismTaxon	9606
+26615423	1834	1839	CEP55	GeneOrGeneProduct	55165
+26615423	1943	1948	CEP55	GeneOrGeneProduct	55165
+26615423	1994	1999	CEP55	GeneOrGeneProduct	55165
+26615423	2043	2046	EOC	DiseaseOrPhenotypicFeature	D000077216
+26615423	2047	2055	patients	OrganismTaxon	9606
+26615423	2089	2094	CEP55	GeneOrGeneProduct	55165
+26615423	2098	2112	ovarian cancer	DiseaseOrPhenotypicFeature	D010051
+26615423	2181	2186	CEP55	GeneOrGeneProduct	55165
+26615423	2243	2246	EOC	DiseaseOrPhenotypicFeature	D000077216
+26615423	2247	2255	patients	OrganismTaxon	9606
+26615423	2309	2323	ovarian cancer	DiseaseOrPhenotypicFeature	D010051
+26615423	2337	2342	CEP55	GeneOrGeneProduct	55165
+26615423	2403	2406	EOC	DiseaseOrPhenotypicFeature	D000077216
+26615423	Association	55165	D000077216	Novel
+26615423	Positive_Correlation	55165	D009362	Novel
+26615423	Positive_Correlation	55165	D008207	Novel
+26615423	Positive_Correlation	55165	4582	Novel
+26615423	Positive_Correlation	55165	D009369	No
+26615423	Positive_Correlation	55165	D010051	Novel

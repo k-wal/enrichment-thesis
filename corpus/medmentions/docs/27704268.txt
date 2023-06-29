@@ -1,0 +1,125 @@
+27704268|t|Chemotherapy response and survival of inflammatory breast cancer by hormone receptor - and HER2 -defined molecular subtypes approximation: an analysis from the National Cancer Database
+27704268|a|To study the impact of hormone receptor (HR)- and human epidermal growth factor receptor 2 (HER2)-defined subtypes on survival of inflammatory breast cancer (IBC), and to determine whether sensitivity to neoadjuvant chemotherapy (NAC) varies with subtypes in a large IBC population. We analyzed 593 IBCs with known HR / HER2 statuses between 2010 and 2011 from National Cancer Database. We compared pathologic complete response (pCR) rates among four molecular subtypes by Chi-square test. Overall survival (OS) was compared among four subtypes and patients with or without pCR using log-rank test. Multivariate Cox model was performed to identify the impact of molecular subtype and other prognostic factors on OS. Of the 593 patients included, 231 (39.0 %) patients had HR+/HER2- tumors, 98 (16.5 %) had HR+/HER2+ disease, 112 (18.9 %) were HR-/HER2 + patients, and 152 (25.6 %) had triple-negative subtype. The pCR rates differed significantly by subtype (P < 0.001): HR-/HER2+ showed the highest, and HR+/HER2- exhibited the lowest. Multivariate analysis showed that triple-negative and HR+/HER2- IBCs had significantly worse survival compared with HR+/HER2+ or HR-/HER2+ subtype (P < 0.01 for all comparisons). Additional factors associated with worse OS included more comorbidities, lack or incomplete surgical resection, absence of radiotherapy, lack of hormone therapy, and more advanced stage. IBC is an aggressive heterogeneous disease with distinct molecular subtypes associated with differential outcomes and sensitivities to NAC. Unlike in noninflammatory breast cancer, in IBC HR + disease was not associated with favorable prognosis. Triple-negative and HR+/HER2- subtypes are independent predictors for suboptimal OS in IBC.
+27704268	0	12	Chemotherapy	T061	C3665472
+27704268	13	21	response	T032	C0871261
+27704268	26	34	survival	T169	C0220921
+27704268	38	64	inflammatory breast cancer	T191	C0278601
+27704268	68	84	hormone receptor	T116,T192	C0019929
+27704268	91	95	HER2	T116,T126,T192	C0069515
+27704268	105	114	molecular	T080	C1521991
+27704268	115	123	subtypes	T185	C0449560
+27704268	124	137	approximation	T061	C1283102
+27704268	142	150	analysis	T062	C0936012
+27704268	160	184	National Cancer Database	T170	C0242356
+27704268	188	193	study	T062	C2603343
+27704268	198	204	impact	T080	C4049986
+27704268	208	224	hormone receptor	T116,T192	C0019929
+27704268	226	228	HR	T116,T192	C0019929
+27704268	235	275	human epidermal growth factor receptor 2	T116,T126,T192	C0069515
+27704268	277	281	HER2	T116,T126,T192	C0069515
+27704268	291	299	subtypes	T185	C0449560
+27704268	303	311	survival	T169	C0220921
+27704268	315	341	inflammatory breast cancer	T191	C0278601
+27704268	343	346	IBC	T191	C0278601
+27704268	389	413	neoadjuvant chemotherapy	T061	C4272610
+27704268	415	418	NAC	T061	C4272610
+27704268	432	440	subtypes	T185	C0449560
+27704268	446	451	large	T081	C0549177
+27704268	452	455	IBC	T191	C0278601
+27704268	456	466	population	T098	C1257890
+27704268	471	479	analyzed	T062	C0936012
+27704268	484	488	IBCs	T191	C0278601
+27704268	494	499	known	T080	C0205309
+27704268	500	502	HR	T116,T192	C0019929
+27704268	505	509	HER2	T116,T126,T192	C0069515
+27704268	510	518	statuses	T080	C0449438
+27704268	546	570	National Cancer Database	T170	C0242356
+27704268	575	583	compared	T052	C1707455
+27704268	584	612	pathologic complete response	T033	C4050242
+27704268	614	617	pCR	T033	C4050242
+27704268	619	624	rates	T081	C1521828
+27704268	636	645	molecular	T080	C1521991
+27704268	646	654	subtypes	T185	C0449560
+27704268	658	673	Chi-square test	T170	C0008041
+27704268	675	691	Overall survival	T081	C4086681
+27704268	693	695	OS	T081	C4086681
+27704268	701	709	compared	T052	C1707455
+27704268	716	729	four subtypes	T185	C0449560
+27704268	734	742	patients	T101	C0030705
+27704268	759	762	pCR	T033	C4050242
+27704268	769	782	log-rank test	T170	C0392366
+27704268	784	806	Multivariate Cox model	T075	C0026336
+27704268	811	820	performed	T169	C0884358
+27704268	824	832	identify	T080	C0205396
+27704268	837	843	impact	T080	C4049986
+27704268	847	856	molecular	T080	C1521991
+27704268	857	864	subtype	T185	C0449560
+27704268	875	893	prognostic factors	T201	C1514474
+27704268	897	899	OS	T081	C4086681
+27704268	912	920	patients	T101	C0030705
+27704268	921	929	included	T169	C0332257
+27704268	944	952	patients	T101	C0030705
+27704268	957	966	HR+/HER2-	T034	C0587081
+27704268	967	973	tumors	T191	C0027651
+27704268	991	1000	HR+/HER2+	T034	C3898879
+27704268	1001	1008	disease	T047	C0012634
+27704268	1028	1038	HR-/HER2 +	T034	C0587081
+27704268	1039	1047	patients	T101	C0030705
+27704268	1070	1093	triple-negative subtype	T191	C3539878
+27704268	1099	1102	pCR	T033	C4050242
+27704268	1103	1108	rates	T081	C1521828
+27704268	1109	1117	differed	T081	C1705241
+27704268	1135	1142	subtype	T185	C0449560
+27704268	1156	1165	HR-/HER2+	T034	C0587081
+27704268	1177	1184	highest	T080	C1522410
+27704268	1190	1199	HR+/HER2-	T034	C0587081
+27704268	1214	1220	lowest	T080	C1708760
+27704268	1222	1243	Multivariate analysis	T081	C0026777
+27704268	1256	1271	triple-negative	T191	C3539878
+27704268	1276	1285	HR+/HER2-	T034	C0587081
+27704268	1286	1290	IBCs	T191	C0278601
+27704268	1309	1314	worse	T033	C1457868
+27704268	1315	1323	survival	T169	C0220921
+27704268	1324	1332	compared	T052	C1707455
+27704268	1338	1347	HR+/HER2+	T034	C3898879
+27704268	1351	1368	HR-/HER2+ subtype	T034	C0587081
+27704268	1387	1398	comparisons	T052	C1707455
+27704268	1412	1419	factors	T169	C1521761
+27704268	1420	1435	associated with	T080	C0332281
+27704268	1436	1441	worse	T033	C1457868
+27704268	1442	1444	OS	T081	C4086681
+27704268	1445	1453	included	T169	C0332257
+27704268	1454	1458	more	T081	C0205172
+27704268	1459	1472	comorbidities	T078	C0009488
+27704268	1474	1478	lack	T080	C0332268
+27704268	1482	1492	incomplete	T080	C0205257
+27704268	1493	1511	surgical resection	T061	C0015252
+27704268	1513	1520	absence	T169	C0332197
+27704268	1524	1536	radiotherapy	T061	C1522449
+27704268	1538	1542	lack	T080	C0332268
+27704268	1546	1561	hormone therapy	T061	C0279025
+27704268	1567	1571	more	T081	C0205172
+27704268	1572	1586	advanced stage	T080	C0205179
+27704268	1588	1591	IBC	T191	C0278601
+27704268	1598	1630	aggressive heterogeneous disease	T191	C0079218
+27704268	1636	1644	distinct	T058	C0520259
+27704268	1645	1654	molecular	T080	C1521991
+27704268	1655	1663	subtypes	T185	C0449560
+27704268	1664	1679	associated with	T080	C0332281
+27704268	1680	1692	differential	T080	C1705242
+27704268	1693	1701	outcomes	T081	C0086749
+27704268	1706	1719	sensitivities	T081	C1511883
+27704268	1723	1726	NAC	T061	C4272610
+27704268	1738	1753	noninflammatory	T033	C0442743
+27704268	1754	1767	breast cancer	T191	C0678222
+27704268	1772	1775	IBC	T191	C0278601
+27704268	1776	1778	HR	T116,T192	C0019929
+27704268	1797	1812	associated with	T080	C0332281
+27704268	1823	1832	prognosis	T058	C0033325
+27704268	1834	1849	Triple-negative	T191	C3539878
+27704268	1854	1863	HR+/HER2-	T034	C0587081
+27704268	1864	1872	subtypes	T185	C0449560
+27704268	1889	1899	predictors	T033	C0035648
+27704268	1904	1914	suboptimal	T080	C2984009
+27704268	1915	1917	OS	T081	C4086681
+27704268	1921	1924	IBC	T191	C0278601

@@ -1,0 +1,67 @@
+28235956|t|Genomic complexity and targeted genes in anaplastic thyroid cancer cell lines
+28235956|a|Anaplastic thyroid cancer (ATC) is a highly malignant disease with a very short median survival time. Few studies have addressed the underlying somatic mutations, and the genomic landscape of ATC thus remains largely unknown. In the present study, we have ascertained copy number aberrations, gene fusions, gene expression patterns, and mutations in early- passage cells from ten newly established ATC cell lines using single nucleotide polymorphism (SNP) array analysis, RNA sequencing and whole exome sequencing. The ATC cell line genomes were highly complex and displayed signs of replicative stress and genomic instability, including massive aneuploidy and frequent breakpoints in the centromeric regions and in fragile sites. Loss of heterozygosity involving whole chromosomes was common, but there were no signs of previous near-haploidisation events or chromothripsis. A total of 21 fusion genes were detected, including six predicted in-frame fusions; none were recurrent. Global gene expression analysis showed 661 genes to be differentially expressed between ATC and papillary thyroid cancer cell lines, with pathway enrichment analyses showing downregulation of TP53 signalling as well as cell adhesion molecules in ATC. Besides previously known driver events, such as mutations in BRAF, NRAS, TP53 and the TERT promoter, we identified PTPRD and NEGR1 as putative novel target genes in ATC, based on deletions in six and four cell lines, respectively; the latter gene also carried a somatic mutation in one cell line. Taken together, our data provide novel insights into the tumourigenesis of ATC and may be used to identify new therapeutic targets.
+28235956	0	7	Genomic	T017	UMLS:C0017428
+28235956	23	37	targeted genes	T017	UMLS:C1332838
+28235956	41	66	anaplastic thyroid cancer	T038	UMLS:C0238461
+28235956	67	77	cell lines	T017	UMLS:C0007634
+28235956	78	103	Anaplastic thyroid cancer	T038	UMLS:C0238461
+28235956	105	108	ATC	T038	UMLS:C0238461
+28235956	122	139	malignant disease	T038	UMLS:C0442867
+28235956	222	239	somatic mutations	T038	UMLS:C0544886
+28235956	249	256	genomic	T017	UMLS:C0017428
+28235956	270	273	ATC	T038	UMLS:C0238461
+28235956	358	369	aberrations	T038	UMLS:C0008625
+28235956	371	383	gene fusions	T062	UMLS:C0178648
+28235956	385	409	gene expression patterns	T058	UMLS:C0752248
+28235956	415	424	mutations	T038	UMLS:C0026882
+28235956	435	448	passage cells	T017	UMLS:C0007634
+28235956	476	479	ATC	T038	UMLS:C0238461
+28235956	480	490	cell lines	T017	UMLS:C0007634
+28235956	497	548	single nucleotide polymorphism (SNP) array analysis	T058	UMLS:C3536614
+28235956	550	564	RNA sequencing	T082	UMLS:C0162327
+28235956	569	591	whole exome sequencing	T062	UMLS:C3640077
+28235956	597	600	ATC	T038	UMLS:C0238461
+28235956	601	610	cell line	T017	UMLS:C0007634
+28235956	611	618	genomes	T017	UMLS:C0017428
+28235956	662	673	replicative	T038	UMLS:C0598312
+28235956	674	680	stress	T033	UMLS:C0243095
+28235956	685	704	genomic instability	T038	UMLS:C0919532
+28235956	724	734	aneuploidy	T038	UMLS:C0002938
+28235956	767	786	centromeric regions	T017	UMLS:C2612372
+28235956	794	807	fragile sites	T082	UMLS:C0677504
+28235956	809	831	Loss of heterozygosity	T038	UMLS:C0524869
+28235956	842	859	whole chromosomes	T017	UMLS:C0450238
+28235956	887	889	no	T033	UMLS:C1513916
+28235956	908	934	near-haploidisation events	T038	UMLS:C3828843
+28235956	938	952	chromothripsis	T038	UMLS:C4277538
+28235956	968	980	fusion genes	T017	UMLS:C1533585
+28235956	1020	1036	in-frame fusions	T062	UMLS:C0178648
+28235956	1059	1090	Global gene expression analysis	T062	UMLS:C1880945
+28235956	1102	1107	genes	T017	UMLS:C0017337
+28235956	1129	1138	expressed	T038	UMLS:C0017262
+28235956	1147	1150	ATC	T038	UMLS:C0238461
+28235956	1155	1179	papillary thyroid cancer	T038	UMLS:C0238463
+28235956	1180	1190	cell lines	T017	UMLS:C0007634
+28235956	1197	1224	pathway enrichment analyses	T062	UMLS:C0936012
+28235956	1233	1247	downregulation	T038	UMLS:C0013081
+28235956	1251	1255	TP53	T017	UMLS:C0079419
+28235956	1256	1266	signalling	T038	UMLS:C3537152
+28235956	1278	1301	cell adhesion molecules	T103	UMLS:C0007578
+28235956	1305	1308	ATC	T038	UMLS:C0238461
+28235956	1358	1367	mutations	T038	UMLS:C0026882
+28235956	1371	1375	BRAF	T017	UMLS:C0812241
+28235956	1377	1381	NRAS	T017	UMLS:C0809246
+28235956	1383	1387	TP53	T017	UMLS:C0079419
+28235956	1396	1400	TERT	T017	UMLS:C1367342
+28235956	1401	1409	promoter	T103	UMLS:C0086860
+28235956	1425	1430	PTPRD	T017	UMLS:C1419114
+28235956	1435	1440	NEGR1	T017	UMLS:C1424887
+28235956	1459	1471	target genes	T017	UMLS:C1332838
+28235956	1475	1478	ATC	T038	UMLS:C0238461
+28235956	1489	1498	deletions	T038	UMLS:C0008628
+28235956	1515	1525	cell lines	T017	UMLS:C0007634
+28235956	1552	1556	gene	T017	UMLS:C0017337
+28235956	1572	1588	somatic mutation	T038	UMLS:C0544886
+28235956	1596	1605	cell line	T017	UMLS:C0007634
+28235956	1664	1678	tumourigenesis	T038	UMLS:C0007621
+28235956	1682	1685	ATC	T038	UMLS:C0238461

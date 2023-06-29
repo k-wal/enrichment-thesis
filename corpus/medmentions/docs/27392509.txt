@@ -1,0 +1,95 @@
+27392509|t|Relation of Left Ventricular Mass and Infarct Size in Anterior Wall ST-Segment Elevation Acute Myocardial Infarction (from the EMBRACE STEMI Clinical Trial)
+27392509|a|Biomarker measures of infarct size and myocardial salvage index (MSI) are important surrogate measures of clinical outcomes after a myocardial infarction. However, there is variability in infarct size unaccounted for by conventional adjustment factors. This post hoc analysis of Evaluation of Myocardial Effects of Bendavia for Reducing Reperfusion Injury in Patients With Acute Coronary Events (EMBRACE) ST-Segment Elevation Myocardial Infarction (STEMI) trial evaluates the association between left ventricular (LV) mass and infarct size as assessed by areas under the curve for creatine kinase-MB (CK-MB) and troponin I release over the first 72 hours (CK-MB area under the curve [AUC] and troponin I [TnI] AUC) and the MSI. Patients with first anterior STEMI, occluded left anterior descending artery, and available LV mass measurement in EMBRACE STEMI trial were included (n = 100) (ClinicalTrials.govNCT01572909). MSI, end-diastolic LV mass on day 4 cardiac magnetic resonance, and CK-MB and troponin I concentrations were evaluated by a core laboratory. After saturated multivariate analysis, dominance analysis was performed to estimate the contribution of each independent variable to the predicted variance of each outcome. In multivariate models that included age, gender, body surface area, lesion location, smoking, and ischemia time, LV mass remained independently associated with biomarker measures of infarct size (CK-MB AUC p = 0.02, TnI AUC p = 0.03) and MSI (p = 0.003). Dominance analysis demonstrated that LV mass accounted for 58%, 47%, and 60% of the predicted variances for CK-MB AUC, TnI AUC, and MSI, respectively. In conclusion, LV mass accounts for approximately half of the predicted variance in biomarker measures of infarct size. It should be considered as an adjustment variable in studies evaluating infarct size.
+27392509	12	33	Left Ventricular Mass	T033	C0455825
+27392509	38	50	Infarct Size	T047	C0027051
+27392509	54	116	Anterior Wall ST-Segment Elevation Acute Myocardial Infarction	T047	C3839746
+27392509	135	140	STEMI	T047	C1536220
+27392509	141	155	Clinical Trial	T062	C0008976
+27392509	157	166	Biomarker	T201	C0005516
+27392509	167	175	measures	T081	C0079809
+27392509	179	191	infarct size	T047	C0027051
+27392509	196	220	myocardial salvage index	T081	C0392762
+27392509	222	225	MSI	T081	C0392762
+27392509	251	259	measures	T081	C0079809
+27392509	263	271	clinical	T080	C0205210
+27392509	272	280	outcomes	T169	C1274040
+27392509	289	310	myocardial infarction	T047	C0027051
+27392509	345	357	infarct size	T047	C0027051
+27392509	390	408	adjustment factors	T169	C1521761
+27392509	415	432	post hoc analysis	T081,T170	C0026348
+27392509	450	460	Myocardial	T024	C0027061
+27392509	461	468	Effects	T080	C1280500
+27392509	472	480	Bendavia	T116,T123	C3529756
+27392509	494	512	Reperfusion Injury	T046	C0027055
+27392509	516	524	Patients	T101	C0030705
+27392509	530	551	Acute Coronary Events	T047	C0948089
+27392509	562	604	ST-Segment Elevation Myocardial Infarction	T047	C1536220
+27392509	606	611	STEMI	T047	C1536220
+27392509	613	618	trial	T062	C0008976
+27392509	653	679	left ventricular (LV) mass	T033	C0455825
+27392509	684	696	infarct size	T047	C0027051
+27392509	712	733	areas under the curve	T081	C0376690
+27392509	738	756	creatine kinase-MB	T059	C0523584
+27392509	758	763	CK-MB	T059	C0523584
+27392509	769	779	troponin I	T116,T123	C0077401
+27392509	769	787	troponin I release	T059	C0920210
+27392509	806	811	hours	T079	C0439227
+27392509	813	818	CK-MB	T059	C0523584
+27392509	819	839	area under the curve	T081	C0376690
+27392509	841	844	AUC	T081	C0376690
+27392509	850	860	troponin I	T116,T123	C0077401
+27392509	862	865	TnI	T116,T123	C0077401
+27392509	867	870	AUC	T081	C0376690
+27392509	880	883	MSI	T081	C0392762
+27392509	885	893	Patients	T101	C0030705
+27392509	905	919	anterior STEMI	T047	C3839746
+27392509	921	929	occluded	T169	C1947917
+27392509	930	961	left anterior descending artery	T023	C0226032
+27392509	977	984	LV mass	T033	C0455825
+27392509	985	996	measurement	T169	C0242485
+27392509	1008	1013	STEMI	T047	C1536220
+27392509	1014	1019	trial	T062	C0008976
+27392509	1077	1080	MSI	T081	C0392762
+27392509	1082	1095	end-diastolic	T201	C0442709
+27392509	1096	1103	LV mass	T033	C0455825
+27392509	1113	1139	cardiac magnetic resonance	T060	C0412692
+27392509	1145	1150	CK-MB	T059	C0523584
+27392509	1155	1165	troponin I	T116,T123	C0077401
+27392509	1166	1180	concentrations	T081	C1446561
+27392509	1201	1216	core laboratory	T073,T093	C0022877
+27392509	1234	1255	multivariate analysis	T081	C0026777
+27392509	1257	1275	dominance analysis	T062	C0871424
+27392509	1365	1373	variance	T080	C1711260
+27392509	1394	1413	multivariate models	T081	C0026777
+27392509	1428	1431	age	T032	C0001779
+27392509	1433	1439	gender	T032	C0079399
+27392509	1441	1458	body surface area	T032	C0005902
+27392509	1460	1475	lesion location	T033	C2184261
+27392509	1477	1484	smoking	T055	C0037369
+27392509	1490	1498	ischemia	T046	C0022116
+27392509	1499	1503	time	T079	C0040223
+27392509	1505	1512	LV mass	T033	C0455825
+27392509	1552	1561	biomarker	T201	C0005516
+27392509	1562	1570	measures	T081	C0079809
+27392509	1574	1586	infarct size	T047	C0027051
+27392509	1588	1593	CK-MB	T059	C0523584
+27392509	1594	1597	AUC	T081	C0376690
+27392509	1608	1611	TnI	T116,T123	C0077401
+27392509	1612	1615	AUC	T081	C0376690
+27392509	1630	1633	MSI	T081	C0392762
+27392509	1647	1665	Dominance analysis	T062	C0871424
+27392509	1684	1691	LV mass	T033	C0455825
+27392509	1741	1750	variances	T080	C1711260
+27392509	1755	1760	CK-MB	T059	C0523584
+27392509	1761	1764	AUC	T081	C0376690
+27392509	1766	1769	TnI	T116,T123	C0077401
+27392509	1770	1773	AUC	T081	C0376690
+27392509	1779	1782	MSI	T081	C0392762
+27392509	1813	1820	LV mass	T033	C0455825
+27392509	1870	1878	variance	T080	C1711260
+27392509	1882	1891	biomarker	T201	C0005516
+27392509	1892	1900	measures	T081	C0079809
+27392509	1904	1916	infarct size	T047	C0027051
+27392509	1948	1967	adjustment variable	T169	C1521761
+27392509	1971	1978	studies	T062	C2603343
+27392509	1990	2002	infarct size	T047	C0027051

@@ -1,0 +1,54 @@
+27802781|t|Blood flow in the cerebral venous system: modeling and simulation
+27802781|a|The development of a software platform incorporating all aspects, from medical imaging data, through three-dimensional reconstruction and suitable meshing, up to simulation of blood flow in patient - specific geometries, is a crucial challenge in biomedical engineering. In the present study, a fully three-dimensional blood flow simulation is carried out through a complete rigid macrovascular circuit, namely the intracranial venous network, instead of a reduced order simulation and partial vascular network. The biomechanical modeling step is carefully analyzed and leads to the description of the flow governed by the dimensionless Navier-Stokes equations for an incompressible viscous fluid. The equations are then numerically solved with a free finite element software using five meshes of a realistic geometry obtained from medical images to prove the feasibility of the pipeline. Some features of the intracranial venous circuit in the supine position such as asymmetric behavior in merging regions are discussed.
+27802781	0	10	Blood flow	T039	C0232338
+27802781	18	26	cerebral	T023	C0006104
+27802781	27	40	venous system	T022	C1267406
+27802781	42	50	modeling	T062	C0870071
+27802781	55	65	simulation	T062	C0679083
+27802781	70	81	development	T169	C1527148
+27802781	87	95	software	T073,T170	C0037585
+27802781	96	104	platform	T075	C1710360
+27802781	137	152	medical imaging	T060	C0025086
+27802781	153	157	data	T078	C1511726
+27802781	167	184	three-dimensional	T082	C0450363
+27802781	185	199	reconstruction	T052	C0441655
+27802781	213	220	meshing	T052	C0441655
+27802781	228	238	simulation	T062	C0679083
+27802781	242	252	blood flow	T039	C0232338
+27802781	256	263	patient	T101	C0030705
+27802781	266	274	specific	T080	C0205369
+27802781	275	285	geometries	T082	C1254362
+27802781	313	335	biomedical engineering	T091	C0005539
+27802781	367	384	three-dimensional	T082	C0450363
+27802781	385	395	blood flow	T039	C0232338
+27802781	396	406	simulation	T062	C0679083
+27802781	432	440	complete	T080	C0205197
+27802781	481	493	intracranial	T029	C0524466
+27802781	494	508	venous network	T022	C0226503
+27802781	523	530	reduced	T080	C0392756
+27802781	531	536	order	T080	C0205556
+27802781	537	547	simulation	T062	C0679083
+27802781	552	559	partial	T081	C0728938
+27802781	560	576	vascular network	T017	C3714653
+27802781	582	604	biomechanical modeling	T062	C0870071
+27802781	605	609	step	T077	C1261552
+27802781	623	631	analyzed	T062	C0936012
+27802781	668	672	flow	T039	C0232338
+27802781	689	726	dimensionless Navier-Stokes equations	T077	C0552449
+27802781	749	756	viscous	T080	C0311419
+27802781	757	762	fluid	T167	C1704353
+27802781	768	777	equations	T077	C0552449
+27802781	813	817	free	T080	C1996904
+27802781	818	832	finite element	T170	C3826344
+27802781	833	841	software	T073,T170	C0037585
+27802781	853	859	meshes	T081	C1552983
+27802781	875	883	geometry	T082	C1254362
+27802781	898	912	medical images	T170	C1704254
+27802781	945	953	pipeline	T077	C1254372
+27802781	960	968	features	T080	C2348519
+27802781	976	988	intracranial	T029	C0524466
+27802781	989	1003	venous circuit	T022	C0226503
+27802781	1011	1026	supine position	T082	C0038846
+27802781	1035	1045	asymmetric	T082	C0332514
+27802781	1046	1054	behavior	T053	C0004927
+27802781	1058	1073	merging regions	T029	C0005898

@@ -1,0 +1,75 @@
+27580729|t|Use of Six Sigma Methodology to Reduce Appointment Lead-Time in Obstetrics Outpatient Department
+27580729|a|This paper focuses on the issue of longer appointment lead-time in the obstetrics outpatient department of a maternal-child hospital in Colombia. Because of extended appointment lead-time, women with high-risk pregnancy could develop severe complications in their health status and put their babies at risk. This problem was detected through a project selection process explained in this article and to solve it, Six Sigma methodology has been used. First, the process was defined through a SIPOC diagram to identify its input and output variables. Second, six sigma performance indicators were calculated to establish the process baseline. Then, a fishbone diagram was used to determine the possible causes of the problem. These causes were validated with the aid of correlation analysis and other statistical tools. Later, improvement strategies were designed to reduce appointment lead-time in this department. Project results evidenced that average appointment lead-time reduced from 6,89 days to 4,08 days and the deviation standard dropped from 1,57 days to 1,24 days. In this way, the hospital will serve pregnant women faster, which represents a risk reduction of perinatal and maternal mortality.
+27580729	7	28	Six Sigma Methodology	T080	C4042770
+27580729	32	38	Reduce	T080	C0392756
+27580729	39	50	Appointment	T079	C0003629
+27580729	51	60	Lead-Time	T079	C0040223
+27580729	64	96	Obstetrics Outpatient Department	T093	C0028775
+27580729	123	128	issue	T033	C0033213
+27580729	139	150	appointment	T079	C0003629
+27580729	151	160	lead-time	T079	C0040223
+27580729	168	200	obstetrics outpatient department	T093	C0028775
+27580729	206	229	maternal-child hospital	T093	C0024927
+27580729	233	241	Colombia	T083	C3245499
+27580729	254	262	extended	T169	C0231448
+27580729	263	274	appointment	T079	C0003629
+27580729	275	284	lead-time	T079	C0040223
+27580729	286	291	women	T098	C0043210
+27580729	297	316	high-risk pregnancy	T046	C0242786
+27580729	338	351	complications	T046	C0009566
+27580729	361	374	health status	T080	C0018759
+27580729	389	395	babies	T100	C0021270
+27580729	399	403	risk	T078	C0035647
+27580729	410	417	problem	T033	C0033213
+27580729	422	430	detected	T033	C0442726
+27580729	441	448	project	T062	C0700032
+27580729	449	458	selection	T052	C1707391
+27580729	459	466	process	T067	C1522240
+27580729	485	492	article	T170	C0282420
+27580729	500	505	solve	T077	C2699488
+27580729	510	531	Six Sigma methodology	T080	C4042770
+27580729	541	545	used	T033	C1273517
+27580729	558	565	process	T067	C1522240
+27580729	588	601	SIPOC diagram	T170	C0681494
+27580729	618	623	input	T077	C1708517
+27580729	628	634	output	T077	C1709366
+27580729	635	644	variables	T080	C0439828
+27580729	654	663	six sigma	T080	C4042770
+27580729	664	675	performance	T052	C1882330
+27580729	676	686	indicators	T080	C0525060
+27580729	692	702	calculated	T052	C1441506
+27580729	706	715	establish	T080	C0443211
+27580729	720	727	process	T067	C1522240
+27580729	728	736	baseline	T081	C1442488
+27580729	746	762	fishbone diagram	T170	C0681494
+27580729	798	804	causes	T078	C0085978
+27580729	812	819	problem	T033	C0033213
+27580729	827	833	causes	T078	C0085978
+27580729	839	848	validated	T062	C1519941
+27580729	865	885	correlation analysis	T062,T170	C0010101
+27580729	896	913	statistical tools	T062	C1710191
+27580729	922	933	improvement	T077	C2986411
+27580729	950	958	designed	T052	C1707689
+27580729	962	968	reduce	T080	C0392756
+27580729	969	980	appointment	T079	C0003629
+27580729	981	990	lead-time	T079	C0040223
+27580729	999	1009	department	T093	C0028775
+27580729	1011	1018	Project	T062	C0700032
+27580729	1019	1026	results	T169	C1274040
+27580729	1027	1036	evidenced	T078	C3887511
+27580729	1050	1061	appointment	T079	C0003629
+27580729	1062	1071	lead-time	T079	C0040223
+27580729	1072	1079	reduced	T080	C0392756
+27580729	1090	1094	days	T079	C0439228
+27580729	1103	1107	days	T079	C0439228
+27580729	1116	1134	deviation standard	T081	C0871420
+27580729	1135	1142	dropped	T052	C1705648
+27580729	1153	1157	days	T079	C0439228
+27580729	1166	1170	days	T079	C0439228
+27580729	1189	1197	hospital	T073,T093	C0019994
+27580729	1209	1223	pregnant women	T098	C0033011
+27580729	1224	1230	faster	T080	C0456962
+27580729	1238	1248	represents	T052	C1882932
+27580729	1251	1265	risk reduction	T055	C1137094
+27580729	1269	1278	perinatal	T033	C0701826
+27580729	1283	1301	maternal mortality	T081	C0024923

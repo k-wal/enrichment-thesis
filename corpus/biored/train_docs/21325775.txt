@@ -1,0 +1,43 @@
+21325775|t|A novel apolipoprotein E mutation, ApoE Osaka (Arg158 Pro), in a dyslipidemic patient with lipoprotein glomerulopathy.
+21325775|a|Lipoprotein glomerulopathy (LPG) is a rare disease characterized by the presence of thrombuslike deposition in markedly dilated glomerular capillaries and is often accompanied by an increased serum apolipoprotein E (apoE) level. Several gene mutations of apoE have been reported to be associated with LPG. In the current study, we report an LPG patient with a novel apoE mutation, apoE Osaka. The patient was a 45-year-old man who was hospitalized due to nephrotic syndrome. Light and electron microscopic observations of renal biopsy clearly showed characteristic findings of LPG, including lamellate thrombi in the lumen of dilated glomerular capillaries. His apoE phenotype was apoE3/2 and he had mild dyslipidemia with a mid-band on polyacrylamide gel electrophoresis. It is intriguing that the serum apoE level was within normal limits. We determined the sequence of the apoE gene using direct sequencing of the polymerase chain reaction (PCR) products. ApoE gene analysis showed a nucleotide substitution of G to C at codon 158 of exon 4. This mutation denoted an amino acid substitution of arginine residue for the proline residue at position 158 of apoE. The result of PCR associated with restriction fragment length polymorphism analysis also suggested that this mutation is heterozygous. It is possible that apoE Osaka mutation causes a conformational change of apoE protein and affects the interaction between abnormal apoE-containing lipoproteins and the endothelial cells of glomerular capillaries. The precise mechanism of LPG related with apoE Osaka, however, remains to be elucidated.
+21325775	8	24	apolipoprotein E	GeneOrGeneProduct	348
+21325775	35	39	ApoE	GeneOrGeneProduct	348
+21325775	47	57	Arg158 Pro	SequenceVariant	p|SUB|R|158|P
+21325775	65	77	dyslipidemic	DiseaseOrPhenotypicFeature	D050171
+21325775	78	85	patient	OrganismTaxon	9606
+21325775	91	117	lipoprotein glomerulopathy	DiseaseOrPhenotypicFeature	C567089
+21325775	119	145	Lipoprotein glomerulopathy	DiseaseOrPhenotypicFeature	C567089
+21325775	147	150	LPG	DiseaseOrPhenotypicFeature	C567089
+21325775	317	333	apolipoprotein E	GeneOrGeneProduct	348
+21325775	335	339	apoE	GeneOrGeneProduct	348
+21325775	374	378	apoE	GeneOrGeneProduct	348
+21325775	420	423	LPG	DiseaseOrPhenotypicFeature	C567089
+21325775	460	463	LPG	DiseaseOrPhenotypicFeature	C567089
+21325775	464	471	patient	OrganismTaxon	9606
+21325775	485	489	apoE	GeneOrGeneProduct	348
+21325775	500	504	apoE	GeneOrGeneProduct	348
+21325775	516	523	patient	OrganismTaxon	9606
+21325775	542	545	man	OrganismTaxon	9606
+21325775	574	592	nephrotic syndrome	DiseaseOrPhenotypicFeature	D009404
+21325775	696	699	LPG	DiseaseOrPhenotypicFeature	C567089
+21325775	711	728	lamellate thrombi	DiseaseOrPhenotypicFeature	D013927
+21325775	781	785	apoE	GeneOrGeneProduct	348
+21325775	800	807	apoE3/2	GeneOrGeneProduct	348
+21325775	824	836	dyslipidemia	DiseaseOrPhenotypicFeature	D050171
+21325775	856	870	polyacrylamide	ChemicalEntity	-
+21325775	924	928	apoE	GeneOrGeneProduct	348
+21325775	995	999	apoE	GeneOrGeneProduct	348
+21325775	1078	1082	ApoE	GeneOrGeneProduct	348
+21325775	1133	1152	G to C at codon 158	SequenceVariant	c|SUB|G|CODON158|C
+21325775	1216	1272	arginine residue for the proline residue at position 158	SequenceVariant	p|SUB|R|158|P
+21325775	1276	1280	apoE	GeneOrGeneProduct	348
+21325775	1437	1441	apoE	GeneOrGeneProduct	348
+21325775	1491	1495	apoE	GeneOrGeneProduct	348
+21325775	1549	1553	apoE	GeneOrGeneProduct	348
+21325775	1656	1659	LPG	DiseaseOrPhenotypicFeature	C567089
+21325775	1673	1677	apoE	GeneOrGeneProduct	348
+21325775	Association	c|SUB|G|CODON158|C	C567089	Novel
+21325775	Association	C567089	p|SUB|R|158|P	Novel
+21325775	Positive_Correlation	C567089	348	Novel
+21325775	Association	D050171	p|SUB|R|158|P	Novel
+21325775	Association	348	D050171	Novel

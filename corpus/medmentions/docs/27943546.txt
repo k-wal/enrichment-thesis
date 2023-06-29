@@ -1,0 +1,93 @@
+27943546|t|Effect of race and ethnicity on vildagliptin efficacy: A pooled analysis of phase II and III studies
+27943546|a|To determine the impact of race and ethnicity on the efficacy, body weight and hypoglycaemia incidence with vildagliptin treatment in patients with type 2 diabetes mellitus using patient-level data from the vildagliptin clinical trial programme. Data from 22 randomized, placebo-controlled global and local (Japan, China) registration studies of vildagliptin (50 mg once-daily or twice-daily) of ≥12-week duration were analysed by race (Caucasian [n = 2764] and Asian [n = 2232]) and by ethnicity (Japanese, Chinese, and Indian). The placebo-subtracted differences in the change in glycated haemoglobin (HbA1c) and body weight from baseline to week 12 or week 24 were evaluated by race or ethnicity using repeated measure analysis of unstructured covariance. Hypoglycaemia incidences were summarized using descriptive statistics. The HbA1c reduction from baseline with vildagliptin was similar across the racial / ethnic subgroups (-0.83% ± 0.02% to -1.01% ± 0.05%). Placebo-corrected HbA1c reduction was similar between Caucasian (-0.68% ± 0.03%) and Asian (-0.80% ± 0.03%) patients (P value for interaction = .56); analysis by race and ethnicity showed better efficacy (P < .02) in Japanese patients. Japanese patients were drug-naïve and treated with a single oral anti-diabetes drug only; they showed no response to placebo. Weight neutrality of vildagliptin was demonstrated in all groups (0.47 ± 0.11 kg to -0.29 ± 0.08 kg). Hypoglycaemic events (≥1) were infrequent in all ethnic subgroups. The glycaemic efficacy of vildagliptin was similar in Caucasian and Asian patients. The slightly better efficacy observed in Japanese patients was driven by the absence of placebo effect and might be explained by their earlier stage of diabetes compared to other subgroups.
+27943546	0	6	Effect	T080	C1280500
+27943546	10	14	race	T098	C0034510
+27943546	19	28	ethnicity	T098	C0015031
+27943546	32	44	vildagliptin	T109,T121	C1570906
+27943546	45	53	efficacy	T080	C1280519
+27943546	57	72	pooled analysis	UnknownType	C0814924
+27943546	76	84	phase II	T062	C0282460
+27943546	89	100	III studies	T062	C0282461
+27943546	118	124	impact	T080	C4049986
+27943546	128	132	race	T098	C0034510
+27943546	137	146	ethnicity	T098	C0015031
+27943546	154	162	efficacy	T080	C1280519
+27943546	164	175	body weight	T032	C0005910
+27943546	180	193	hypoglycaemia	T047	C0020615
+27943546	194	203	incidence	T081	C0021149
+27943546	209	221	vildagliptin	T109,T121	C1570906
+27943546	222	231	treatment	T061	C0087111
+27943546	235	243	patients	T101	C0030705
+27943546	249	273	type 2 diabetes mellitus	T047	C0011860
+27943546	280	298	patient-level data	T170	C1516606
+27943546	308	320	vildagliptin	T109,T121	C1570906
+27943546	321	345	clinical trial programme	T062	C0008976
+27943546	347	351	Data	T078	C1511726
+27943546	372	390	placebo-controlled	T062	C1706408
+27943546	391	397	global	T080	C2348867
+27943546	402	407	local	T082	C0205276
+27943546	409	414	Japan	T083	C0022341
+27943546	416	421	China	T083	C0008115
+27943546	423	443	registration studies	T062	C0008972
+27943546	447	459	vildagliptin	T109,T121	C1570906
+27943546	467	477	once-daily	T079	C0556983
+27943546	481	492	twice-daily	T079	C0585361
+27943546	532	536	race	T098	C0034510
+27943546	538	547	Caucasian	T098	C0043157
+27943546	563	568	Asian	T098	C0078988
+27943546	588	597	ethnicity	T098	C0015031
+27943546	599	607	Japanese	T098	C1556094
+27943546	609	616	Chinese	T098	C0152035
+27943546	622	628	Indian	T098	C1524069
+27943546	635	665	placebo-subtracted differences	T078	C0032041
+27943546	683	703	glycated haemoglobin	T116,T123	C0017853
+27943546	705	710	HbA1c	T116,T123	C0017853
+27943546	716	727	body weight	T032	C0005910
+27943546	733	741	baseline	T081	C1442488
+27943546	745	749	week	T079	C0439230
+27943546	756	760	week	T079	C0439230
+27943546	782	786	race	T098	C0034510
+27943546	790	799	ethnicity	T098	C0015031
+27943546	860	873	Hypoglycaemia	T047	C0020615
+27943546	874	884	incidences	T081	C0021149
+27943546	935	940	HbA1c	T116,T123	C0017853
+27943546	941	950	reduction	T061	C0441610
+27943546	956	964	baseline	T081	C1442488
+27943546	970	982	vildagliptin	T109,T121	C1570906
+27943546	1006	1012	racial	T098	C0034510
+27943546	1015	1031	ethnic subgroups	T098	C0015031
+27943546	1068	1085	Placebo-corrected	T078	C0032041
+27943546	1086	1091	HbA1c	T116,T123	C0017853
+27943546	1092	1101	reduction	T061	C0441610
+27943546	1122	1131	Caucasian	T098	C0043157
+27943546	1153	1158	Asian	T098	C0078988
+27943546	1176	1184	patients	T101	C0030705
+27943546	1230	1234	race	T098	C0034510
+27943546	1239	1248	ethnicity	T098	C0015031
+27943546	1263	1271	efficacy	T080	C1280519
+27943546	1285	1293	Japanese	T098	C1556094
+27943546	1294	1302	patients	T101	C0030705
+27943546	1304	1312	Japanese	T098	C1556094
+27943546	1313	1321	patients	T101	C0030705
+27943546	1342	1354	treated with	T061	C0332293
+27943546	1364	1368	oral	T030	C0226896
+27943546	1369	1387	anti-diabetes drug	T121	C1254351
+27943546	1421	1428	placebo	T122	C1696465
+27943546	1430	1436	Weight	T032	C0005910
+27943546	1437	1447	neutrality	T078	C0680444
+27943546	1451	1463	vildagliptin	T109,T121	C1570906
+27943546	1488	1494	groups	T098	C1257890
+27943546	1532	1552	Hypoglycaemic events	T047	C0342312
+27943546	1581	1597	ethnic subgroups	T098	C0015031
+27943546	1603	1612	glycaemic	T109	C0005802
+27943546	1613	1621	efficacy	T080	C1280519
+27943546	1625	1637	vildagliptin	T109,T121	C1570906
+27943546	1653	1662	Caucasian	T098	C0043157
+27943546	1667	1672	Asian	T098	C0078988
+27943546	1673	1681	patients	T101	C0030705
+27943546	1703	1711	efficacy	T080	C1280519
+27943546	1724	1732	Japanese	T098	C1556094
+27943546	1733	1741	patients	T101	C0030705
+27943546	1771	1785	placebo effect	T078	C0032041
+27943546	1835	1843	diabetes	T047	C0011847
+27943546	1862	1871	subgroups	T098	C1257890

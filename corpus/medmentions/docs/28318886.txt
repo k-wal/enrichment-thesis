@@ -1,0 +1,110 @@
+28318886|t|Airway inflammation phenotype prediction in asthma patients using lung sound analysis with fractional exhaled nitric oxide
+28318886|a|We previously reported the results of lung sound analysis in patients with bronchial asthma and demonstrated that the exhalation -to- inhalation sound pressure ratio in the low frequency range between 100 and 200 Hz (E/I LF) was correlated with the presence of airway inflammation and airway obstruction. We classified asthma patients by airway inflammation phenotype using the induced sputum eosinophil and neutrophil ratio and determined whether this phenotype could be predicted using E/I LF and fractional exhaled nitric oxide values. Steroid-naive bronchial asthma patients were classified into four phenotypes, including " Low inflammation " (35 patients), " Eosinophilic type " (58 patients), " Neutrophilic type " (15 patients), and " Mixed type " (15 patients) based on the results of induced sputum examinations. The E/I LF data and FeNO levels were then evaluated for the four phenotype groups; the prediction powers of these two indices were then analyzed for each phenotype. The median E/I LF value was highest in the " Mixed type " and lowest in the " Low inflammation " group. FeNO differentiated between the " Low inflammation " and " Eosinophilic type " groups, " Low inflammation " and " Neutrophilic type " groups, and " Neutrophilic type " and " Mixed type " (p < 0.0001, p = 0.007, and p = 0.04, respectively). E/I LF differentiated between the " Low inflammation " and " Eosinophilic type " groups (p = 0.006). E/I LF could distinguish the " Mixed type " group from the " Low inflammation " and " Eosinophilic type " groups (p = 0.002). A combination of the E/I LF value and FeNO may be useful for the classification of the airway inflammation phenotype in patients with bronchial asthma.
+28318886	0	6	Airway	T023	C0458827
+28318886	7	19	inflammation	T046	C0021368
+28318886	20	29	phenotype	T032	C0031437
+28318886	30	40	prediction	T078	C0681842
+28318886	44	50	asthma	T047	C0004096
+28318886	51	59	patients	T101	C0030705
+28318886	66	70	lung	T023	C0024109
+28318886	71	85	sound analysis	T059	C0022885
+28318886	91	122	fractional exhaled nitric oxide	T121,T123,T197	C3700245
+28318886	161	165	lung	T023	C0024109
+28318886	166	180	sound analysis	T059	C0022885
+28318886	184	192	patients	T101	C0030705
+28318886	198	214	bronchial asthma	T047	C0004096
+28318886	241	251	exhalation	T040	C0231800
+28318886	257	267	inhalation	T040	C0004048
+28318886	268	288	sound pressure ratio	T081	C1442095
+28318886	296	309	low frequency	T079	C0205213
+28318886	340	346	E/I LF	T081	C1442095
+28318886	352	362	correlated	T080	C1707520
+28318886	384	390	airway	T023	C0458827
+28318886	391	403	inflammation	T046	C0021368
+28318886	408	426	airway obstruction	T047	C0001883
+28318886	442	448	asthma	T047	C0004096
+28318886	449	457	patients	T101	C0030705
+28318886	461	467	airway	T023	C0458827
+28318886	468	480	inflammation	T046	C0021368
+28318886	481	490	phenotype	T032	C0031437
+28318886	501	515	induced sputum	T031	C3179346
+28318886	516	526	eosinophil	T025	C0014467
+28318886	531	541	neutrophil	T025	C0027950
+28318886	542	547	ratio	T081	C0456603
+28318886	576	585	phenotype	T032	C0031437
+28318886	595	604	predicted	T078	C0681842
+28318886	611	617	E/I LF	T081	C1442095
+28318886	622	653	fractional exhaled nitric oxide	T121,T123,T197	C3700245
+28318886	654	660	values	T080	C0042295
+28318886	662	692	Steroid-naive bronchial asthma	T047	C0004096
+28318886	693	701	patients	T101	C0030705
+28318886	707	717	classified	T185	C0008902
+28318886	728	738	phenotypes	T032	C0031437
+28318886	752	755	Low	T080	C0205251
+28318886	756	768	inflammation	T046	C0021368
+28318886	775	783	patients	T101	C0030705
+28318886	788	800	Eosinophilic	T033	C3687252
+28318886	801	805	type	T080	C0332307
+28318886	812	820	patients	T101	C0030705
+28318886	825	837	Neutrophilic	T046	C0021368
+28318886	838	842	type	T080	C0332307
+28318886	849	857	patients	T101	C0030705
+28318886	866	876	Mixed type	T080	C0332307
+28318886	883	891	patients	T101	C0030705
+28318886	917	931	induced sputum	T031	C3179346
+28318886	932	944	examinations	T058	C0582103
+28318886	950	956	E/I LF	T081	C1442095
+28318886	957	961	data	T078	C1511726
+28318886	966	970	FeNO	T121,T123,T197	C3700245
+28318886	971	977	levels	T080	C0441889
+28318886	1011	1020	phenotype	T032	C0031437
+28318886	1021	1027	groups	T078	C0441833
+28318886	1033	1043	prediction	T078	C0681842
+28318886	1064	1071	indices	T170	C0918012
+28318886	1082	1090	analyzed	T062	C0936012
+28318886	1100	1109	phenotype	T032	C0031437
+28318886	1115	1121	median	T081	C0876920
+28318886	1122	1128	E/I LF	T081	C1442095
+28318886	1129	1134	value	T080	C0042295
+28318886	1156	1166	Mixed type	T080	C0332307
+28318886	1189	1192	Low	T080	C0205251
+28318886	1193	1205	inflammation	T046	C0021368
+28318886	1208	1213	group	T078	C0441833
+28318886	1215	1219	FeNO	T121,T123,T197	C3700245
+28318886	1249	1252	Low	T080	C0205251
+28318886	1253	1265	inflammation	T046	C0021368
+28318886	1274	1286	Eosinophilic	T033	C3687252
+28318886	1287	1291	type	T080	C0332307
+28318886	1294	1300	groups	T078	C0441833
+28318886	1304	1307	Low	T080	C0205251
+28318886	1308	1320	inflammation	T046	C0021368
+28318886	1329	1341	Neutrophilic	T046	C0021368
+28318886	1342	1346	type	T080	C0332307
+28318886	1349	1355	groups	T078	C0441833
+28318886	1363	1375	Neutrophilic	T046	C0021368
+28318886	1376	1380	type	T080	C0332307
+28318886	1389	1399	Mixed type	T080	C0332307
+28318886	1455	1461	E/I LF	T081	C1442095
+28318886	1491	1494	Low	T080	C0205251
+28318886	1495	1507	inflammation	T046	C0021368
+28318886	1516	1528	Eosinophilic	T033	C3687252
+28318886	1529	1533	type	T080	C0332307
+28318886	1536	1542	groups	T078	C0441833
+28318886	1556	1562	E/I LF	T081	C1442095
+28318886	1587	1597	Mixed type	T080	C0332307
+28318886	1600	1605	group	T078	C0441833
+28318886	1617	1620	Low	T080	C0205251
+28318886	1621	1633	inflammation	T046	C0021368
+28318886	1642	1654	Eosinophilic	T033	C3687252
+28318886	1655	1659	type	T080	C0332307
+28318886	1662	1668	groups	T078	C0441833
+28318886	1684	1695	combination	T080	C0205195
+28318886	1703	1709	E/I LF	T081	C1442095
+28318886	1710	1715	value	T080	C0042295
+28318886	1720	1724	FeNO	T121,T123,T197	C3700245
+28318886	1747	1761	classification	T185	C0008902
+28318886	1769	1775	airway	T023	C0458827
+28318886	1776	1788	inflammation	T046	C0021368
+28318886	1789	1798	phenotype	T032	C0031437
+28318886	1802	1810	patients	T101	C0030705
+28318886	1816	1832	bronchial asthma	T047	C0004096

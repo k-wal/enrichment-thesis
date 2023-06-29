@@ -1,0 +1,45 @@
+28101400|t|Choriocapillaris evaluation in choroideremia using optical coherence tomography angiography
+28101400|a|The choriocapillaris plays an important role in supporting the metabolic demands of the retina. Studies of the choriocapillaris in disease states with optical coherence tomography angiography (OCTA) have proven insightful. However, image artifacts complicate the identification and quantification of the choriocapillaris in degenerative diseases such as choroideremia. Here, we demonstrate a supervised machine learning approach to detect intact choriocapillaris based on training with results from an expert grader. We trained a random forest classifier to evaluate en face structural OCT and OCTA information along with spatial image features. Evaluation of the trained classifier using previously unseen data showed good agreement with manual grading.
+28101400	0	16	Choriocapillaris	T023	C0229143
+28101400	17	27	evaluation	T058	C0220825
+28101400	31	44	choroideremia	T047	C0008525
+28101400	51	91	optical coherence tomography angiography	T060	C0079595
+28101400	96	112	choriocapillaris	T023	C0229143
+28101400	132	136	role	T077	C1705810
+28101400	155	164	metabolic	T169	C0311400
+28101400	165	172	demands	T061	C0441516
+28101400	180	186	retina	T023	C0035298
+28101400	203	219	choriocapillaris	T023	C0229143
+28101400	223	230	disease	T047	C0012634
+28101400	231	237	states	T169	C1442792
+28101400	243	283	optical coherence tomography angiography	T060	C0079595
+28101400	285	289	OCTA	T060	C0079595
+28101400	324	339	image artifacts	T033	C0243095
+28101400	340	350	complicate	T169	C0231242
+28101400	355	369	identification	T080	C0205396
+28101400	374	388	quantification	T081	C1709793
+28101400	396	412	choriocapillaris	T023	C0229143
+28101400	416	437	degenerative diseases	T047	C1285162
+28101400	446	459	choroideremia	T047	C0008525
+28101400	495	511	machine learning	T066	C0376284
+28101400	512	520	approach	T078	C1254370
+28101400	524	530	detect	T033	C0442726
+28101400	531	537	intact	T080	C0205266
+28101400	538	554	choriocapillaris	T023	C0229143
+28101400	564	572	training	T065	C0040607
+28101400	578	585	results	T169	C1274040
+28101400	594	607	expert grader	T097	C1522486
+28101400	612	619	trained	T065	C0683844
+28101400	622	628	random	T080	C0439605
+28101400	629	646	forest classifier	T169	C4291659
+28101400	662	681	face structural OCT	T060	C0920367
+28101400	686	690	OCTA	T060	C0079595
+28101400	691	702	information	T078	C1533716
+28101400	714	727	spatial image	T170	C1704922
+28101400	728	736	features	T080	C2346469
+28101400	756	763	trained	T065	C0683844
+28101400	764	774	classifier	T169	C4291659
+28101400	799	803	data	T078	C1511726
+28101400	816	825	agreement	T080	C0332529
+28101400	831	837	manual	T169	C0175674
+28101400	838	845	grading	T185	C0441800

@@ -1,0 +1,58 @@
+27905930|t|Combinatory optimization of chromosomal integrated mevalonate pathway for β-carotene production in Escherichia coli
+27905930|a|Plasmid expression is a popular method in studies of MVA pathway for isoprenoid production in Escherichia coli. However, heterologous gene expression with plasmid is often not stable and might burden growth of host cells, decreases cell mass and product yield. In this study, MVA pathway was divided into three modules, and two heterologous modules were integrated into the E. coli chromosome. These modules were individually modulated with regulatory parts to optimize efficiency of the pathway in terms of downstream isoprenoid production. MVA pathway modules Hmg1 - erg12 operon and mvaS - mvaA - mavD1 operon were integrated into E. coli chromosome followed by modulation with promoters with varied strength. Along with activation of atoB, a 26% increase of β-carotene production with no effect on cell growth was obtained. With a combinatory modulation of two key enzymes mvas and Hmg1 with degenerate RBS library, β-carotene showed a further increase of 51%. Our study provides a novel strategy for improving production of a target compound through integration and modulation of heterologous pathways in both transcription and translation level. In addition, a genetically hard-coded chassis with both efficient MEP and MVA pathways for isoprenoid precursor supply was constructed in this work.
+27905930	28	39	chromosomal	T017	UMLS:C0008633
+27905930	40	50	integrated	T038	UMLS:C1158478
+27905930	51	69	mevalonate pathway	T038	UMLS:C1622458
+27905930	74	84	β-carotene	T103	UMLS:C0053396
+27905930	99	115	Escherichia coli	T007	UMLS:C0014834
+27905930	116	123	Plasmid	T103	UMLS:C0032136
+27905930	124	134	expression	T038	UMLS:C0017262
+27905930	148	154	method	T170	UMLS:C0025663
+27905930	158	165	studies	T062	UMLS:C2603343
+27905930	169	180	MVA pathway	T038	UMLS:C1622458
+27905930	185	195	isoprenoid	T103	UMLS:C0682996
+27905930	210	226	Escherichia coli	T007	UMLS:C0014834
+27905930	250	265	gene expression	T038	UMLS:C0017262
+27905930	271	278	plasmid	T103	UMLS:C0032136
+27905930	316	322	growth	T038	UMLS:C0007595
+27905930	326	336	host cells	T017	UMLS:C1819995
+27905930	348	352	cell	T017	UMLS:C0007634
+27905930	392	403	MVA pathway	T038	UMLS:C1622458
+27905930	457	464	modules	T038	UMLS:C1959595
+27905930	470	480	integrated	T038	UMLS:C1158478
+27905930	490	497	E. coli	T007	UMLS:C0014834
+27905930	498	508	chromosome	T017	UMLS:C0008633
+27905930	516	523	modules	T038	UMLS:C1959595
+27905930	604	611	pathway	T038	UMLS:C1704259
+27905930	635	645	isoprenoid	T103	UMLS:C0682996
+27905930	658	669	MVA pathway	T038	UMLS:C1622458
+27905930	670	677	modules	T038	UMLS:C1959595
+27905930	678	682	Hmg1	T017	UMLS:C1415615
+27905930	685	690	erg12	T017	UMLS:C1417508
+27905930	691	697	operon	T017	UMLS:C0029073
+27905930	702	706	mvaS	T017	UMLS:C1415616
+27905930	709	713	mvaA	T017	UMLS:C1415615
+27905930	716	721	mavD1	T017	UMLS:C0017337
+27905930	722	728	operon	T017	UMLS:C0029073
+27905930	734	744	integrated	T038	UMLS:C1158478
+27905930	750	757	E. coli	T007	UMLS:C0014834
+27905930	758	768	chromosome	T017	UMLS:C0008633
+27905930	797	806	promoters	T017	UMLS:C0314621
+27905930	840	850	activation	T038	UMLS:C0017255
+27905930	854	858	atoB	T017	UMLS:C1412111
+27905930	878	888	β-carotene	T103	UMLS:C0053396
+27905930	918	929	cell growth	T038	UMLS:C0007595
+27905930	985	992	enzymes	T103	UMLS:C0014442
+27905930	993	997	mvas	T103	UMLS:C0020375
+27905930	1002	1006	Hmg1	T103	UMLS:C0020374
+27905930	1012	1034	degenerate RBS library	T017	UMLS:C0017272
+27905930	1036	1046	β-carotene	T103	UMLS:C0053396
+27905930	1085	1090	study	T062	UMLS:C2603343
+27905930	1154	1162	compound	T103	UMLS:C1706082
+27905930	1171	1182	integration	T038	UMLS:C1158478
+27905930	1214	1222	pathways	T038	UMLS:C1704259
+27905930	1231	1244	transcription	T038	UMLS:C0040649
+27905930	1249	1260	translation	T038	UMLS:C1519614
+27905930	1334	1337	MEP	T038	UMLS:C1157342
+27905930	1342	1354	MVA pathways	T038	UMLS:C1622458
+27905930	1359	1369	isoprenoid	T103	UMLS:C0682996

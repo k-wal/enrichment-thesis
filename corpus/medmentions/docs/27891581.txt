@@ -1,0 +1,75 @@
+27891581|t|Antigen specificity determines anti-red blood cell IgG-Fc alloantibody glycosylation and thereby severity of haemolytic disease of the fetus and newborn
+27891581|a|Haemolytic disease of the fetus and newborn (HDFN) is a severe disease in which fetal red blood cells (RBC) are destroyed by maternal anti-RBC IgG alloantibodies. HDFN is most often caused by anti-D but may also occur due to anti-K, -c - or -E. We recently found N-linked glycosylation of anti-D to be skewed towards low fucosylation, thereby increasing the affinity to IgG-Fc receptor IIIa and IIIb, which correlated with HDFN disease severity. Here, we analysed 230 pregnant women with anti-c, -E or -K alloantibodies from a prospective screening cohort and investigated the type of Fc-tail glycosylation of these antibodies in relation to the trigger of immunisation and pregnancy outcome. Anti-c, -E and -K show - independent of the event that had led to immunisation - a different kind of Fc-glycosylation compared to that of the total IgG fraction, but with less pronounced differences compared to anti-D. High Fc-galactosylation and sialylation of anti-c correlated with HDFN disease severity, while low anti-K Fc-fucosylation correlated with severe fetal anaemia. IgG-Fc glycosylation of anti-RBC antibodies is shaped depending on the antigen. These features influence their clinical potency and may therefore be used to predict severity and identify those needing treatment.
+27891581	0	19	Antigen specificity	T044	C1536991
+27891581	31	70	anti-red blood cell IgG-Fc alloantibody	T116,T129	C0003241
+27891581	71	84	glycosylation	T070	C0017982
+27891581	97	105	severity	T080	C0439793
+27891581	109	152	haemolytic disease of the fetus and newborn	T047	C0014761
+27891581	153	196	Haemolytic disease of the fetus and newborn	T047	C0014761
+27891581	198	202	HDFN	T047	C0014761
+27891581	216	223	disease	T047	C0012634
+27891581	233	238	fetal	T018	C0015965
+27891581	239	254	red blood cells	T025	C0014792
+27891581	256	259	RBC	T025	C0014792
+27891581	265	274	destroyed	T052	C1948029
+27891581	278	314	maternal anti-RBC IgG alloantibodies	T116,T129	C0729663
+27891581	316	320	HDFN	T047	C0014761
+27891581	345	351	anti-D	T116,T129	C0140430
+27891581	371	377	due to	T169	C0678226
+27891581	378	384	anti-K	T116,T129	C0313239
+27891581	386	388	-c	T116,T129	C0432626
+27891581	394	396	-E	T116,T129	C0947659
+27891581	416	438	N-linked glycosylation	T044	C1622430
+27891581	442	448	anti-D	T116,T129	C0140430
+27891581	470	473	low	T080	C0205251
+27891581	474	486	fucosylation	T044	C3271553
+27891581	496	506	increasing	T169	C0442808
+27891581	511	519	affinity	T044	C0003255
+27891581	523	543	IgG-Fc receptor IIIa	T116,T129,T192	C1521898
+27891581	548	552	IIIb	T116,T129,T192	C0966831
+27891581	560	570	correlated	T080	C1707520
+27891581	576	580	HDFN	T047	C0014761
+27891581	581	588	disease	T047	C0012634
+27891581	589	597	severity	T080	C0439793
+27891581	621	635	pregnant women	T098	C0033011
+27891581	641	647	anti-c	T116,T129	C0432626
+27891581	649	651	-E	T116,T129	C0947659
+27891581	655	657	-K	T116,T129	C0313239
+27891581	658	672	alloantibodies	T129	C0022144
+27891581	692	708	screening cohort	T058	C0422390
+27891581	713	725	investigated	T169	C1292732
+27891581	738	759	Fc-tail glycosylation	T044	C0376322
+27891581	769	779	antibodies	T116,T129	C0003241
+27891581	799	806	trigger	T080	C1444748
+27891581	810	822	immunisation	T061	C0020971
+27891581	827	844	pregnancy outcome	T033	C0032972
+27891581	846	852	Anti-c	T116,T129	C0432626
+27891581	854	856	-E	T116,T129	C0947659
+27891581	861	863	-K	T116,T129	C0313239
+27891581	871	885	independent of	T169	C0332291
+27891581	890	895	event	T051	C0441471
+27891581	912	924	immunisation	T061	C0020971
+27891581	929	938	different	T080	C1705242
+27891581	947	963	Fc-glycosylation	T044	C0376322
+27891581	994	997	IgG	T116,T121,T129	C0020852
+27891581	994	1006	IgG fraction	T116,T121,T129	C0020852
+27891581	1057	1063	anti-D	T116,T129	C0140430
+27891581	1070	1088	Fc-galactosylation	T044	C1159287
+27891581	1093	1104	sialylation	T043	C4235385
+27891581	1108	1114	anti-c	T116,T129	C0432626
+27891581	1131	1135	HDFN	T047	C0014761
+27891581	1136	1143	disease	T047	C0012634
+27891581	1144	1152	severity	T080	C0439793
+27891581	1164	1170	anti-K	T116,T129	C0313239
+27891581	1171	1186	Fc-fucosylation	T044	C1159287
+27891581	1187	1197	correlated	T080	C1707520
+27891581	1203	1209	severe	T080	C0205082
+27891581	1210	1223	fetal anaemia	T047	C2349595
+27891581	1225	1245	IgG-Fc glycosylation	T044	C0376322
+27891581	1249	1268	anti-RBC antibodies	T116,T129	C0003241
+27891581	1296	1303	antigen	T129	C0003320
+27891581	1311	1319	features	T080	C2348519
+27891581	1336	1352	clinical potency	T080	C3850123
+27891581	1382	1389	predict	T078	C0681842
+27891581	1390	1398	severity	T080	C0439793
+27891581	1426	1435	treatment	T169	C0039798

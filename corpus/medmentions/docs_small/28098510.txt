@@ -1,0 +1,60 @@
+28098510|t|DT MRI microstructural cortical lesion damage does not explain cognitive impairment in MS
+28098510|a|We combined double inversion recovery (DIR) and diffusion tensor (DT) magnetic resonance imaging (MRI) to quantify the severity of cortical lesion (CL) microstructural tissue abnormalities in a large cohort of relapse - onset multiple sclerosis (MS) patients and its contribution to cognitive dysfunction. DIR, DT, dual-echo, and three-dimensional (3D) T1-weighted scans were acquired from 149 MS patients and 40 controls. Cognitively impaired (CI) patients had ⩾2 abnormal neuropsychological tests. Diffusivity values in CLs, cortex, white matter (WM) lesions, and normal-appearing (NA) WM were assessed. Predictors of cognitive impairment were identified using a random forest analysis. Compared to controls, MS patients had lower normalized brain volume (NBV), gray matter volume (GMV), WM volume, lower fractional anisotropy (FA), and higher mean diffusivity in cortex and normal-appearing white matter (NAWM). A total of 44 (29.5%) patients were CI. Compared to cognitively preserved (CP), CI patients had higher T2 WM lesion volume (LV), lower NBV and GMV, and more severe diffusivity abnormalities in WM lesions, cortex, and NAWM. CL measures did not differ between CI and CP patients. Cortex FA, age, disease duration, T2 WM LV, and GMV best predicted MS -related cognitive impairment (C-statistic = 0.88). " Diffuse " GM and NAWM damage and WM lesions, rather than intrinsic CL damage, contribute to cognitive impairment in MS.
+28098510	0	6	DT MRI	T058	UMLS:C3163713
+28098510	23	31	cortical	T017	UMLS:C0007776
+28098510	32	38	lesion	T038	UMLS:C0221505
+28098510	63	83	cognitive impairment	T038	UMLS:C0338656
+28098510	87	89	MS	T038	UMLS:C0026769
+28098510	102	127	double inversion recovery	T058	UMLS:C0430022
+28098510	129	132	DIR	T058	UMLS:C0430022
+28098510	138	192	diffusion tensor (DT) magnetic resonance imaging (MRI)	T058	UMLS:C3163713
+28098510	221	229	cortical	T017	UMLS:C0007776
+28098510	230	236	lesion	T038	UMLS:C0221505
+28098510	238	240	CL	T038	UMLS:C0221505
+28098510	258	264	tissue	T017	UMLS:C0040300
+28098510	265	278	abnormalities	T017	UMLS:C0221430
+28098510	290	296	cohort	T098	UMLS:C0599755
+28098510	316	334	multiple sclerosis	T038	UMLS:C0026769
+28098510	336	338	MS	T038	UMLS:C0026769
+28098510	373	394	cognitive dysfunction	T038	UMLS:C0338656
+28098510	396	399	DIR	T058	UMLS:C0430022
+28098510	401	403	DT	T058	UMLS:C1537007
+28098510	405	414	dual-echo	T058	UMLS:C0011923
+28098510	420	437	three-dimensional	T082	UMLS:C0450363
+28098510	439	441	3D	T082	UMLS:C0450363
+28098510	443	460	T1-weighted scans	T058	UMLS:C0011923
+28098510	484	486	MS	T038	UMLS:C0026769
+28098510	513	533	Cognitively impaired	T038	UMLS:C0338656
+28098510	535	537	CI	T038	UMLS:C0338656
+28098510	555	563	abnormal	T033	UMLS:C0205161
+28098510	564	588	neuropsychological tests	T058	UMLS:C0027902
+28098510	612	615	CLs	T038	UMLS:C0221505
+28098510	617	623	cortex	T017	UMLS:C0007776
+28098510	625	650	white matter (WM) lesions	T033	UMLS:C2752009
+28098510	656	680	normal-appearing (NA) WM	T017	UMLS:C0682708
+28098510	710	730	cognitive impairment	T038	UMLS:C0338656
+28098510	755	777	random forest analysis	T062	UMLS:C0936012
+28098510	801	803	MS	T038	UMLS:C0026769
+28098510	880	889	WM volume	T033	UMLS:C3278845
+28098510	956	962	cortex	T017	UMLS:C0007776
+28098510	967	996	normal-appearing white matter	T017	UMLS:C0682708
+28098510	998	1002	NAWM	T017	UMLS:C0682708
+28098510	1041	1043	CI	T038	UMLS:C0338656
+28098510	1085	1087	CI	T038	UMLS:C0338656
+28098510	1181	1194	abnormalities	T017	UMLS:C0221430
+28098510	1198	1208	WM lesions	T033	UMLS:C2752009
+28098510	1210	1216	cortex	T017	UMLS:C0007776
+28098510	1222	1226	NAWM	T017	UMLS:C0682708
+28098510	1228	1230	CL	T038	UMLS:C0221505
+28098510	1244	1254	not differ	T033	UMLS:C0243095
+28098510	1283	1289	Cortex	T017	UMLS:C0007776
+28098510	1350	1352	MS	T038	UMLS:C0026769
+28098510	1362	1382	cognitive impairment	T038	UMLS:C0338656
+28098510	1407	1414	Diffuse	T082	UMLS:C0205219
+28098510	1417	1419	GM	T017	UMLS:C0018220
+28098510	1424	1428	NAWM	T017	UMLS:C0682708
+28098510	1440	1450	WM lesions	T033	UMLS:C2752009
+28098510	1464	1473	intrinsic	T082	UMLS:C0205102
+28098510	1474	1476	CL	T038	UMLS:C0221505
+28098510	1499	1519	cognitive impairment	T038	UMLS:C0338656
+28098510	1523	1525	MS	T038	UMLS:C0026769

@@ -1,0 +1,48 @@
+24914936|t|Thyroid hormone receptor a mutation causes a severe and thyroxine-resistant skeletal dysplasia in female mice.
+24914936|a|A new genetic disorder has been identified that results from mutation of THRA, encoding thyroid hormone receptor a1 (TRa1). Affected children have a high serum T3:T4 ratio and variable degrees of intellectual deficit and constipation but exhibit a consistently severe skeletal dysplasia. In an attempt to improve developmental delay and alleviate symptoms of hypothyroidism, patients are receiving varying doses and durations of T4 treatment, but responses have been inconsistent so far. Thra1(PV/+) mice express a similar potent dominant-negative mutant TRa1 to affected individuals, and thus represent an excellent disease model. We hypothesized that Thra1(PV/+) mice could be used to predict the skeletal outcome of human THRA mutations and determine whether prolonged treatment with a supraphysiological dose of T4 ameliorates the skeletal abnormalities. Adult female Thra1(PV/+) mice had short stature, grossly abnormal bone morphology but normal bone strength despite high bone mass. Although T4 treatment suppressed TSH secretion, it had no effect on skeletal maturation, linear growth, or bone mineralization, thus demonstrating profound tissue resistance to thyroid hormone. Despite this, prolonged T4 treatment abnormally increased bone stiffness and strength, suggesting the potential for detrimental consequences in the long term. Our studies establish that TRa1 has an essential role in the developing and adult skeleton and predict that patients with different THRA mutations will display variable responses to T4 treatment, which depend on the severity of the causative mutation.
+24914936	0	26	Thyroid hormone receptor a	GeneOrGeneProduct	21833
+24914936	56	65	thyroxine	ChemicalEntity	D013974
+24914936	76	94	skeletal dysplasia	DiseaseOrPhenotypicFeature	D001848
+24914936	105	109	mice	OrganismTaxon	10090
+24914936	184	188	THRA	GeneOrGeneProduct	7067
+24914936	199	226	thyroid hormone receptor a1	GeneOrGeneProduct	7067
+24914936	228	232	TRa1	GeneOrGeneProduct	7067
+24914936	271	273	T3	ChemicalEntity	D014284
+24914936	274	276	T4	ChemicalEntity	D013974
+24914936	307	327	intellectual deficit	DiseaseOrPhenotypicFeature	D008607
+24914936	332	344	constipation	DiseaseOrPhenotypicFeature	D003248
+24914936	379	397	skeletal dysplasia	DiseaseOrPhenotypicFeature	D001848
+24914936	424	443	developmental delay	DiseaseOrPhenotypicFeature	D002658
+24914936	470	484	hypothyroidism	DiseaseOrPhenotypicFeature	D007037
+24914936	486	494	patients	OrganismTaxon	9606
+24914936	540	542	T4	ChemicalEntity	D013974
+24914936	599	604	Thra1	GeneOrGeneProduct	21833
+24914936	611	615	mice	OrganismTaxon	10090
+24914936	666	670	TRa1	GeneOrGeneProduct	21833
+24914936	764	769	Thra1	GeneOrGeneProduct	21833
+24914936	776	780	mice	OrganismTaxon	10090
+24914936	830	835	human	OrganismTaxon	9606
+24914936	836	840	THRA	GeneOrGeneProduct	7067
+24914936	927	929	T4	ChemicalEntity	D013974
+24914936	946	968	skeletal abnormalities	DiseaseOrPhenotypicFeature	D001847
+24914936	983	988	Thra1	GeneOrGeneProduct	21833
+24914936	995	999	mice	OrganismTaxon	10090
+24914936	1004	1017	short stature	DiseaseOrPhenotypicFeature	D006130
+24914936	1110	1112	T4	ChemicalEntity	D013974
+24914936	1134	1137	TSH	GeneOrGeneProduct	12640,22094
+24914936	1264	1293	resistance to thyroid hormone	DiseaseOrPhenotypicFeature	D018382
+24914936	1319	1321	T4	ChemicalEntity	D013974
+24914936	1481	1485	TRa1	GeneOrGeneProduct	7067
+24914936	1562	1570	patients	OrganismTaxon	9606
+24914936	1586	1590	THRA	GeneOrGeneProduct	7067
+24914936	1636	1638	T4	ChemicalEntity	D013974
+24914936	Negative_Correlation	D002658	D013974	No
+24914936	Negative_Correlation	D007037	D013974	No
+24914936	Association	7067	D003248	No
+24914936	Association	7067	D008607	No
+24914936	Association	7067	D001848	No
+24914936	Negative_Correlation	D013974	22094	Novel
+24914936	Negative_Correlation	D013974	12640	Novel
+24914936	Association	D013974	D001848	Novel
+24914936	Association	21833	D006130	Novel
+24914936	Association	21833	D001848	Novel

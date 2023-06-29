@@ -1,0 +1,53 @@
+19108278|t|The biological properties of the optical isomers of propranolol and their effects on cardiac arrhythmias.
+19108278|a|1. The optical isomers of propranolol have been compared for their beta-blocking and antiarrhythmic activities.2. In blocking the positive inotropic and chronotropic responses to isoprenaline, (+)-propranolol had less than one hundredth the potency of (-)-propranolol. At dose levels of (+)-propranolol which attenuated the responses to isoprenaline, there was a significant prolongation of the PR interval of the electrocardiogram.3. The metabolic responses to isoprenaline in dogs (an increase in circulating glucose, lactate and free fatty acids) were all blocked by (-)-propranolol. (+)-Propranolol had no effect on fatty acid mobilization but significantly reduced the increments in both lactate and glucose.4. Both isomers of propranolol possessed similar depressant potency on isolated atrial muscle taken from guinea-pigs.5. The isomers of propranolol exhibited similar local anaesthetic potencies on an isolated frog nerve preparation at a level approximately three times that of procaine. The racemic compound was significantly less potent than either isomer.6. Both isomers of propranolol were capable of preventing adrenaline-induced cardiac arrhythmias in cats anaesthetized with halothane, but the mean dose of (-)-propranolol was 0.09+/-0.02 mg/kg whereas that of (+)-propranolol was 4.2+/-1.2 mg/kg. At the effective dose level of (+)-propranolol there was a significant prolongation of the PR interval of the electrocardiogram. Blockade of arrhythmias with both isomers was surmountable by increasing the dose of adrenaline.7. Both isomers of propranolol were also capable of reversing ventricular tachycardia caused by ouabain in anaesthetized cats and dogs. The dose of (-)-propranolol was significantly smaller than that of (+)-propranolol in both species but much higher than that required to produce evidence of beta-blockade.8. The implications of these results are discussed.
+19108278	52	63	propranolol	ChemicalEntity	D011433
+19108278	85	104	cardiac arrhythmias	DiseaseOrPhenotypicFeature	D001145
+19108278	132	143	propranolol	ChemicalEntity	D011433
+19108278	285	297	isoprenaline	ChemicalEntity	D007545
+19108278	303	314	propranolol	ChemicalEntity	D011433
+19108278	362	373	propranolol	ChemicalEntity	D011433
+19108278	397	408	propranolol	ChemicalEntity	D011433
+19108278	443	455	isoprenaline	ChemicalEntity	D007545
+19108278	568	580	isoprenaline	ChemicalEntity	D007545
+19108278	584	588	dogs	OrganismTaxon	9615
+19108278	617	624	glucose	ChemicalEntity	D005947
+19108278	626	633	lactate	ChemicalEntity	D019344
+19108278	643	654	fatty acids	ChemicalEntity	D005227
+19108278	680	691	propranolol	ChemicalEntity	D011433
+19108278	697	708	Propranolol	ChemicalEntity	D011433
+19108278	726	736	fatty acid	ChemicalEntity	D005227
+19108278	799	806	lactate	ChemicalEntity	D019344
+19108278	811	818	glucose	ChemicalEntity	D005947
+19108278	838	849	propranolol	ChemicalEntity	D011433
+19108278	924	935	guinea-pigs	OrganismTaxon	10141
+19108278	954	965	propranolol	ChemicalEntity	D011433
+19108278	1095	1103	procaine	ChemicalEntity	D011343
+19108278	1194	1205	propranolol	ChemicalEntity	D011433
+19108278	1233	1243	adrenaline	ChemicalEntity	D004837
+19108278	1252	1271	cardiac arrhythmias	DiseaseOrPhenotypicFeature	D001145
+19108278	1275	1279	cats	OrganismTaxon	9685
+19108278	1299	1308	halothane	ChemicalEntity	D006221
+19108278	1335	1346	propranolol	ChemicalEntity	D011433
+19108278	1389	1400	propranolol	ChemicalEntity	D011433
+19108278	1457	1468	propranolol	ChemicalEntity	D011433
+19108278	1563	1574	arrhythmias	DiseaseOrPhenotypicFeature	D001145
+19108278	1636	1646	adrenaline	ChemicalEntity	D004837
+19108278	1666	1677	propranolol	ChemicalEntity	D011433
+19108278	1709	1732	ventricular tachycardia	DiseaseOrPhenotypicFeature	D017180
+19108278	1743	1750	ouabain	ChemicalEntity	D010042
+19108278	1768	1772	cats	OrganismTaxon	9685
+19108278	1777	1781	dogs	OrganismTaxon	9615
+19108278	1799	1810	propranolol	ChemicalEntity	D011433
+19108278	1854	1865	propranolol	ChemicalEntity	D011433
+19108278	Positive_Correlation	D017180	D010042	No
+19108278	Positive_Correlation	D004837	D001145	No
+19108278	Negative_Correlation	D011433	D010042	Novel
+19108278	Negative_Correlation	D011433	D017180	Novel
+19108278	Negative_Correlation	D011433	D001145	Novel
+19108278	Negative_Correlation	D011433	D004837	Novel
+19108278	Negative_Correlation	D011433	D019344	Novel
+19108278	Negative_Correlation	D011433	D005947	Novel
+19108278	Negative_Correlation	D007545	D011433	Novel
+19108278	Positive_Correlation	D007545	D005227	No
+19108278	Positive_Correlation	D007545	D019344	No
+19108278	Positive_Correlation	D007545	D005947	No

@@ -1,0 +1,40 @@
+17221831|t|The G51S purine nucleoside phosphorylase polymorphism is associated with cognitive decline in Alzheimer's disease patients.
+17221831|a|Alzheimer's disease (AD) is a polygenic and multifactorial complex disease, whose etiopathology is still unclear, however several genetic factors have shown to increase the risk of developing the disease. Purine nucleotides and nucleosides play an important role in the brain. Besides their role in neurotransmission and neuromodulation, they are involved in trophic factor release, apoptosis, and inflammatory responses. These mediators may also have a pivotal role in the control of neurodegenerative processes associated with AD. In this report the distribution of the exonic G/A single nucleotide polymorphism (SNP) in purine nucleoside phosphorylase (PNP) gene, resulting in the amino acid substitution serine to glycine at position 51 (G51S), was investigated in a large population of AD patients (n=321) and non-demented control (n=208). The PNP polymorphism distribution was not different between patients and controls. The polymorphism distribution was also analyzed in AD patients stratified according to differential progressive rate of cognitive decline during a 2-year follow-up. An increased representation of the PNP AA genotype was observed in AD patients with fast cognitive deterioration in comparison with that from patients with slow deterioration rate. Our findings suggest that the G51S PNP polymorphism is associated with a faster rate of cognitive decline in AD patients, highlighting the important role of purine metabolism in the progression of this neurodegenerative disorder.
+17221831	4	8	G51S	SequenceVariant	rs1049564
+17221831	9	40	purine nucleoside phosphorylase	GeneOrGeneProduct	4860
+17221831	73	90	cognitive decline	DiseaseOrPhenotypicFeature	D003072
+17221831	94	113	Alzheimer's disease	DiseaseOrPhenotypicFeature	D000544
+17221831	114	122	patients	OrganismTaxon	9606
+17221831	124	143	Alzheimer's disease	DiseaseOrPhenotypicFeature	D000544
+17221831	145	147	AD	DiseaseOrPhenotypicFeature	D000544
+17221831	522	534	inflammatory	DiseaseOrPhenotypicFeature	D007249
+17221831	653	655	AD	DiseaseOrPhenotypicFeature	D000544
+17221831	703	706	G/A	SequenceVariant	rs1049564
+17221831	747	778	purine nucleoside phosphorylase	GeneOrGeneProduct	4860
+17221831	780	783	PNP	GeneOrGeneProduct	4860
+17221831	832	864	serine to glycine at position 51	SequenceVariant	rs1049564
+17221831	866	870	G51S	SequenceVariant	rs1049564
+17221831	915	917	AD	DiseaseOrPhenotypicFeature	D000544
+17221831	918	926	patients	OrganismTaxon	9606
+17221831	973	976	PNP	GeneOrGeneProduct	4860
+17221831	1029	1037	patients	OrganismTaxon	9606
+17221831	1103	1105	AD	DiseaseOrPhenotypicFeature	D000544
+17221831	1106	1114	patients	OrganismTaxon	9606
+17221831	1172	1189	cognitive decline	DiseaseOrPhenotypicFeature	D003072
+17221831	1252	1255	PNP	GeneOrGeneProduct	4860
+17221831	1284	1286	AD	DiseaseOrPhenotypicFeature	D000544
+17221831	1287	1295	patients	OrganismTaxon	9606
+17221831	1306	1329	cognitive deterioration	DiseaseOrPhenotypicFeature	D003072
+17221831	1359	1367	patients	OrganismTaxon	9606
+17221831	1428	1432	G51S	SequenceVariant	rs1049564
+17221831	1433	1436	PNP	GeneOrGeneProduct	4860
+17221831	1486	1503	cognitive decline	DiseaseOrPhenotypicFeature	D003072
+17221831	1507	1509	AD	DiseaseOrPhenotypicFeature	D000544
+17221831	1510	1518	patients	OrganismTaxon	9606
+17221831	1600	1626	neurodegenerative disorder	DiseaseOrPhenotypicFeature	D019636
+17221831	Association	4860	D000544	Novel
+17221831	Association	D019636	4860	Novel
+17221831	Association	D019636	rs1049564	Novel
+17221831	Association	D003072	4860	Novel
+17221831	Positive_Correlation	rs1049564	D003072	Novel
+17221831	Association	rs1049564	D000544	Novel

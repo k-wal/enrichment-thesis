@@ -1,0 +1,82 @@
+28219982|t|Enhanced Sensitivity to Hyperpolarizing Inhibition in Mesoaccumbal Relative to Nigrostriatal Dopamine Neuron Subpopulations
+28219982|a|Midbrain dopamine neurons recorded in vivo pause their firing in response to reward omission and aversive stimuli. While the initiation of pauses typically involves synaptic or modulatory input, intrinsic membrane properties may also enhance or limit hyperpolarization, raising the question of how intrinsic conductances shape pause s in dopamine neurons. Using retrograde labeling and electrophysiological techniques combined with computational modeling, we examined the intrinsic conductances that shape pauses evoked by current injections and synaptic stimulation in subpopulations of dopamine neurons grouped according to their axonal projections to the nucleus accumbens or dorsal striatum in mice. Testing across a range of conditions and pulse durations, we found that mesoaccumbal and nigrostriatal neurons differ substantially in rebound properties with mesoaccumbal neurons displaying significantly longer delays to spiking following hyperpolarization. The underlying mechanism involves an inactivating potassium (IA) current with decay time constants of up to 225 ms, and small-amplitude hyperpolarization - activated currents (IH), characteristics that were most often observed in mesoaccumbal neurons. Pharmacological block of IA completely abolished rebound delays and, importantly, shortened synaptically evoked inhibitory pauses, thereby demonstrating the involvement of A-type potassium channels in prolonging pauses evoked by GABAergic inhibition. Therefore, these results show that mesoaccumbal and nigrostriatal neurons display differential responses to hyperpolarizing inhibitory stimuli that favors a higher sensitivity to inhibition in mesoaccumbal neurons. These findings may explain, in part, observations from in vivo experiments that ventral tegmental area neurons tend to exhibit longer aversive pauses relative to SNc neurons. SIGNIFICANCE STATEMENT Our study examines rebound, postburst, and synaptically evoked inhibitory pauses in subpopulations of midbrain dopamine neurons. We show that pauses in dopamine neuron firing, evoked by either stimulation of GABAergic input s or hyperpolarizing current injections, are enhanced by a subclass of potassium conductances that are recruited at voltages below spike threshold. Importantly, A-type potassium currents recorded in mesoaccumbal neurons displayed substantially slower inactivation kinetics, which, combined with weaker expression of hyperpolarization - activated currents, lengthened hyperpolarization -induced delays in spiking relative to nigrostriatal neurons. These results suggest that input integration differs among dopamine neurons favoring higher sensitivity to inhibition in mesoaccumbal neurons and may partially explain in vivo observations that ventral tegmental area neurons exhibit longer aversive pauses relative to SNc neurons.
+28219982	54	66	Mesoaccumbal	T017	UMLS:C0027882
+28219982	93	101	Dopamine	T103	UMLS:C0013030
+28219982	102	108	Neuron	T017	UMLS:C0027882
+28219982	124	132	Midbrain	T017	UMLS:C0025462
+28219982	133	141	dopamine	T103	UMLS:C0013030
+28219982	142	149	neurons	T017	UMLS:C0027882
+28219982	159	166	in vivo	T082	UMLS:C1515655
+28219982	289	297	synaptic	T017	UMLS:C0039063
+28219982	301	311	modulatory	T017	UMLS:C2611789
+28219982	319	337	intrinsic membrane	T017	UMLS:C1622009
+28219982	422	431	intrinsic	T082	UMLS:C0205102
+28219982	432	444	conductances	T038	UMLS:C0016989
+28219982	462	470	dopamine	T103	UMLS:C0013030
+28219982	471	478	neurons	T017	UMLS:C0027882
+28219982	486	496	retrograde	T082	UMLS:C0439784
+28219982	497	505	labeling	T058	UMLS:C0022885
+28219982	510	541	electrophysiological techniques	T058	UMLS:C0887874
+28219982	596	605	intrinsic	T082	UMLS:C0205102
+28219982	606	618	conductances	T038	UMLS:C0016989
+28219982	647	654	current	T038	UMLS:C0162585
+28219982	655	665	injections	T058	UMLS:C1533685
+28219982	670	678	synaptic	T017	UMLS:C0039063
+28219982	712	720	dopamine	T103	UMLS:C0013030
+28219982	721	728	neurons	T017	UMLS:C0027882
+28219982	729	736	grouped	T082	UMLS:C0439745
+28219982	756	774	axonal projections	T038	UMLS:C0004462
+28219982	782	799	nucleus accumbens	T017	UMLS:C0028633
+28219982	803	818	dorsal striatum	T017	UMLS:C2333957
+28219982	822	826	mice	T204	UMLS:C0025929
+28219982	869	874	pulse	T201	UMLS:C0232117
+28219982	900	912	mesoaccumbal	T017	UMLS:C0027882
+28219982	931	938	neurons	T017	UMLS:C0027882
+28219982	987	1007	mesoaccumbal neurons	T017	UMLS:C0027882
+28219982	1137	1146	potassium	T103	UMLS:C0032821
+28219982	1148	1150	IA	T103	UMLS:C0063261
+28219982	1152	1159	current	T038	UMLS:C0162585
+28219982	1207	1222	small-amplitude	T082	UMLS:C2346753
+28219982	1253	1261	currents	T038	UMLS:C0162585
+28219982	1263	1265	IH	T038	UMLS:C0162585
+28219982	1317	1337	mesoaccumbal neurons	T017	UMLS:C0027882
+28219982	1364	1366	IA	T103	UMLS:C0063261
+28219982	1431	1443	synaptically	T017	UMLS:C0039063
+28219982	1511	1536	A-type potassium channels	T103	UMLS:C0032824
+28219982	1568	1577	GABAergic	T038	UMLS:C1816494
+28219982	1625	1637	mesoaccumbal	T017	UMLS:C0027882
+28219982	1656	1663	neurons	T017	UMLS:C0027882
+28219982	1783	1803	mesoaccumbal neurons	T017	UMLS:C0027882
+28219982	1811	1819	findings	T033	UMLS:C0243095
+28219982	1860	1867	in vivo	T082	UMLS:C1515655
+28219982	1885	1907	ventral tegmental area	T017	UMLS:C0175405
+28219982	1908	1915	neurons	T017	UMLS:C0027882
+28219982	1939	1954	aversive pauses	T058	UMLS:C0004415
+28219982	1967	1970	SNc	T017	UMLS:C0175412
+28219982	1971	1978	neurons	T017	UMLS:C0027882
+28219982	2007	2012	study	T062	UMLS:C2603343
+28219982	2046	2058	synaptically	T017	UMLS:C0039063
+28219982	2105	2113	midbrain	T017	UMLS:C0025462
+28219982	2114	2122	dopamine	T103	UMLS:C0013030
+28219982	2123	2130	neurons	T017	UMLS:C0027882
+28219982	2155	2163	dopamine	T103	UMLS:C0013030
+28219982	2164	2170	neuron	T017	UMLS:C0027882
+28219982	2211	2220	GABAergic	T038	UMLS:C1816494
+28219982	2248	2255	current	T038	UMLS:C0162585
+28219982	2256	2266	injections	T058	UMLS:C1533685
+28219982	2298	2307	potassium	T103	UMLS:C0032821
+28219982	2308	2320	conductances	T038	UMLS:C0016989
+28219982	2388	2404	A-type potassium	T103	UMLS:C0032824
+28219982	2405	2413	currents	T038	UMLS:C0162585
+28219982	2426	2446	mesoaccumbal neurons	T017	UMLS:C0027882
+28219982	2573	2581	currents	T038	UMLS:C0162585
+28219982	2665	2672	neurons	T017	UMLS:C0027882
+28219982	2733	2741	dopamine	T103	UMLS:C0013030
+28219982	2742	2749	neurons	T017	UMLS:C0027882
+28219982	2795	2815	mesoaccumbal neurons	T017	UMLS:C0027882
+28219982	2842	2849	in vivo	T082	UMLS:C1515655
+28219982	2868	2890	ventral tegmental area	T017	UMLS:C0175405
+28219982	2891	2898	neurons	T017	UMLS:C0027882
+28219982	2914	2929	aversive pauses	T058	UMLS:C0004415
+28219982	2942	2945	SNc	T017	UMLS:C0175412
+28219982	2946	2953	neurons	T017	UMLS:C0027882

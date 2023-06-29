@@ -1,0 +1,51 @@
+27942085|t|Cited references and Medical Subject Headings (MeSH) as two different knowledge representations: clustering and mappings at the paper level
+27942085|a|For the biomedical sciences, the Medical Subject Headings (MeSH) make available a rich feature which cannot currently be merged properly with widely used citing / cited data. Here, we provide methods and routines that make MeSH terms amenable to broader usage in the study of science indicators: using Web-of-Science (WoS) data, one can generate the matrix of citing versus cited documents; using PubMed / MEDLINE data, a matrix of the citing documents versus MeSH terms can be generated analogously. The two matrices can also be reorganized into a 2-mode matrix of MeSH terms versus cited references. Using the abbreviated journal names in the references, one can, for example, address the question whether MeSH terms can be used as an alternative to WoS Subject Categories for the purpose of normalizing citation data. We explore the applicability of the routines in the case of a research program about the amyloid cascade hypothesis in Alzheimer's disease. One conclusion is that referenced journals provide archival structures, whereas MeSH terms indicate mainly variation (including novelty) at the research front. Furthermore, we explore the option of using the citing / cited matrix for main-path analysis as a by-product of the software.
+27942085	0	16	Cited references	T170	C1514811
+27942085	21	45	Medical Subject Headings	T170	C1135584
+27942085	47	51	MeSH	T170	C1135584
+27942085	70	95	knowledge representations	T066	C0022756
+27942085	97	107	clustering	T062	C0009085
+27942085	112	120	mappings	T052	C1283195
+27942085	128	139	paper level	T080	C0441889
+27942085	148	167	biomedical sciences	T091	C1879848
+27942085	173	197	Medical Subject Headings	T170	C1135584
+27942085	199	203	MeSH	T170	C1135584
+27942085	294	300	citing	T170	C0552371
+27942085	303	313	cited data	T170	C0552371
+27942085	332	339	methods	T170	C0025663
+27942085	344	352	routines	T080	C0205547
+27942085	363	367	MeSH	T170	C1135584
+27942085	407	412	study	T062	C2603343
+27942085	416	423	science	T090	C0036397
+27942085	442	467	Web-of-Science (WoS) data	T170	C0282574
+27942085	490	496	matrix	T078	C1511726
+27942085	500	506	citing	T170	C0552371
+27942085	514	529	cited documents	T170	C0034922
+27942085	537	543	PubMed	T170	C1138432
+27942085	546	553	MEDLINE	T170	C0025141
+27942085	562	568	matrix	T078	C1511726
+27942085	576	592	citing documents	T170	C0034922
+27942085	600	604	MeSH	T170	C1135584
+27942085	649	657	matrices	T078	C1511726
+27942085	696	702	matrix	T078	C1511726
+27942085	706	710	MeSH	T170	C1135584
+27942085	724	740	cited references	T170	C1514811
+27942085	764	771	journal	T073,T170	C0162443
+27942085	785	795	references	T170	C1514811
+27942085	848	852	MeSH	T170	C1135584
+27942085	892	903	WoS Subject	T170	C0282574
+27942085	904	914	Categories	T170	C0683312
+27942085	934	945	normalizing	T062	C1882115
+27942085	946	959	citation data	T170	C0552371
+27942085	997	1005	routines	T080	C0205547
+27942085	1023	1039	research program	T062	C0683935
+27942085	1050	1076	amyloid cascade hypothesis	T078	C1512571
+27942085	1080	1099	Alzheimer's disease	T047	C0002395
+27942085	1124	1143	referenced journals	T073,T170	C0162443
+27942085	1181	1185	MeSH	T170	C1135584
+27942085	1208	1217	variation	T080	C0205419
+27942085	1245	1253	research	T062	C0035168
+27942085	1309	1315	citing	T170	C0552371
+27942085	1318	1330	cited matrix	T170	C0552371
+27942085	1335	1353	main-path analysis	T062	C0683963
+27942085	1377	1385	software	T073,T170	C0037585

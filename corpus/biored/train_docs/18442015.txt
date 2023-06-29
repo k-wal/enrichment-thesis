@@ -1,0 +1,72 @@
+18442015|t|Protective effect of verapamil on gastric hemorrhagic ulcers in severe atherosclerotic rats.
+18442015|a|Studies concerning with pathogenesis of gastric hemorrhage and mucosal ulceration produced in atherosclerotic rats are lacking. The aim of this study is to examine the role of gastric acid back-diffusion, mast cell histamine release, lipid peroxide (LPO) generation and mucosal microvascular permeability in modulating gastric hemorrhage and ulcer in rats with atherosclerosis induced by coadministration of vitamin D2 and cholesterol. Additionally, the protective effect of verapamil on this ulcer model was evaluated. Male Wistar rats were challenged intragastrically once daily for 9 days with 1.0 ml/kg of corn oil containing vitamin D2 and cholesterol to induce atherosclerosis. Control rats received corn oil only. After gastric surgery, rat stomachs were irrigated for 3 h with either simulated gastric juice or normal saline. Gastric acid back-diffusion, mucosal LPO generation, histamine concentration, microvascular permeability, luminal hemoglobin content and ulcer areas were determined. Elevated atherosclerotic parameters, such as serum calcium, total cholesterol and low-density lipoprotein concentration were obtained in atherosclerotic rats. Severe gastric ulcers accompanied with increased ulcerogenic factors, including gastric acid back-diffusion, histamine release, LPO generation and luminal hemoglobin content were also observed in these rats. Moreover, a positive correlation of histamine to gastric hemorrhage and to ulcer was found in those atherosclerotic rats. This hemorrhagic ulcer and various ulcerogenic parameters were dose-dependently ameliorated by daily intragastric verapamil. Atherosclerosis could produce gastric hemorrhagic ulcer via aggravation of gastric acid back-diffusion, LPO generation, histamine release and microvascular permeability that could be ameliorated by verapamil in rats.
+18442015	21	30	verapamil	ChemicalEntity	D014700
+18442015	34	60	gastric hemorrhagic ulcers	DiseaseOrPhenotypicFeature	D006471,D013276
+18442015	71	86	atherosclerotic	DiseaseOrPhenotypicFeature	D050197
+18442015	87	91	rats	OrganismTaxon	10116
+18442015	133	151	gastric hemorrhage	DiseaseOrPhenotypicFeature	D006471
+18442015	187	202	atherosclerotic	DiseaseOrPhenotypicFeature	D050197
+18442015	203	207	rats	OrganismTaxon	10116
+18442015	308	317	histamine	ChemicalEntity	D006632
+18442015	327	341	lipid peroxide	ChemicalEntity	D008054
+18442015	343	346	LPO	ChemicalEntity	D008054
+18442015	412	440	gastric hemorrhage and ulcer	DiseaseOrPhenotypicFeature	D006471,D013276
+18442015	444	448	rats	OrganismTaxon	10116
+18442015	454	469	atherosclerosis	DiseaseOrPhenotypicFeature	D050197
+18442015	501	511	vitamin D2	ChemicalEntity	D004872
+18442015	516	527	cholesterol	ChemicalEntity	D002784
+18442015	568	577	verapamil	ChemicalEntity	D014700
+18442015	586	591	ulcer	DiseaseOrPhenotypicFeature	D013276
+18442015	625	629	rats	OrganismTaxon	10116
+18442015	703	711	corn oil	ChemicalEntity	D003314
+18442015	723	733	vitamin D2	ChemicalEntity	D004872
+18442015	738	749	cholesterol	ChemicalEntity	D002784
+18442015	760	775	atherosclerosis	DiseaseOrPhenotypicFeature	D050197
+18442015	785	789	rats	OrganismTaxon	10116
+18442015	799	807	corn oil	ChemicalEntity	D003314
+18442015	837	840	rat	OrganismTaxon	10116
+18442015	964	967	LPO	ChemicalEntity	D008054
+18442015	980	989	histamine	ChemicalEntity	D006632
+18442015	1033	1040	luminal	ChemicalEntity	D010634
+18442015	1041	1051	hemoglobin	GeneOrGeneProduct	25632
+18442015	1064	1069	ulcer	DiseaseOrPhenotypicFeature	D013276
+18442015	1102	1117	atherosclerotic	DiseaseOrPhenotypicFeature	D050197
+18442015	1144	1151	calcium	ChemicalEntity	D002118
+18442015	1159	1170	cholesterol	ChemicalEntity	D002784
+18442015	1175	1198	low-density lipoprotein	ChemicalEntity	D008077
+18442015	1230	1245	atherosclerotic	DiseaseOrPhenotypicFeature	D050197
+18442015	1246	1250	rats	OrganismTaxon	10116
+18442015	1259	1273	gastric ulcers	DiseaseOrPhenotypicFeature	D013276
+18442015	1361	1370	histamine	ChemicalEntity	D006632
+18442015	1380	1383	LPO	ChemicalEntity	D008054
+18442015	1399	1406	luminal	ChemicalEntity	D010634
+18442015	1407	1417	hemoglobin	GeneOrGeneProduct	25632
+18442015	1454	1458	rats	OrganismTaxon	10116
+18442015	1496	1505	histamine	ChemicalEntity	D006632
+18442015	1509	1527	gastric hemorrhage	DiseaseOrPhenotypicFeature	D006471
+18442015	1535	1540	ulcer	DiseaseOrPhenotypicFeature	D013276
+18442015	1560	1575	atherosclerotic	DiseaseOrPhenotypicFeature	D050197
+18442015	1576	1580	rats	OrganismTaxon	10116
+18442015	1587	1604	hemorrhagic ulcer	DiseaseOrPhenotypicFeature	D006471,D013276
+18442015	1696	1705	verapamil	ChemicalEntity	D014700
+18442015	1707	1722	Atherosclerosis	DiseaseOrPhenotypicFeature	D050197
+18442015	1737	1762	gastric hemorrhagic ulcer	DiseaseOrPhenotypicFeature	D006471,D013276
+18442015	1811	1814	LPO	ChemicalEntity	D008054
+18442015	1827	1836	histamine	ChemicalEntity	D006632
+18442015	1905	1914	verapamil	ChemicalEntity	D014700
+18442015	1918	1922	rats	OrganismTaxon	10116
+18442015	Positive_Correlation	D010634	D013276	Novel
+18442015	Positive_Correlation	D006632	D006471	Novel
+18442015	Positive_Correlation	D003314	D050197	No
+18442015	Drug_Interaction	D004872	D002784	No
+18442015	Positive_Correlation	D050197	D008077	No
+18442015	Positive_Correlation	D050197	D008054	Novel
+18442015	Positive_Correlation	D050197	D002118	No
+18442015	Positive_Correlation	D050197	D002784	No
+18442015	Positive_Correlation	D050197	D004872	No
+18442015	Association	D013276	25632	Novel
+18442015	Positive_Correlation	D013276	D006632	Novel
+18442015	Positive_Correlation	D013276	D008054	Novel
+18442015	Positive_Correlation	D006471	D008054	Novel
+18442015	Negative_Correlation	D014700	D013276	Novel
+18442015	Negative_Correlation	D014700	D006471	Novel

@@ -1,0 +1,55 @@
+28232384|t|The E3 Ligase CHIP Mediates p21 Degradation to Maintain Radioresistance
+28232384|a|Lung cancer resists radiotherapy, making it one of the deadliest forms of cancer. Here, we show that human lung cancer cell lines can be rendered sensitive to ionizing radiation (IR) by RNAi knockdown of C-terminus of Hsc70-interacting protein (CHIP / STUB1), a U-box-type E3 ubiquitin ligase that targets a number of stress-induced proteins. Mechanistically, ubiquitin-dependent degradation of the cyclin-dependent kinase (CDK) inhibitor, p21 protein, is reduced by CHIP knockdown, leading to enhanced senescence of cells in response to exposure to IR. Cellular senescence and sensitivity to IR is prevented by CRISPR / Cas9 -mediated deletion of the p21 gene (CDKN1A) in CHIP knockdown cells. Conversely, overexpression of CHIP potentiates p21 degradation and promotes greater radioresistance of lung cancer cells. In vitro and cell -based assays demonstrate that p21 is a novel and direct ubiquitylation substrate of CHIP that also requires the CHIP - associated chaperone HSP70. These data reveal that the inhibition of the E3 ubiquitin ligase CHIP promotes radiosensitivity, thus suggesting a novel strategy for the treatment of lung cancer. Implications: The CHIP - HSP70 - p21 ubiquitylation / degradation axis identified here could be exploited to enhance the efficacy of radiotherapy in patients with non-small cell lung cancer. Mol Cancer Res; 1-9. ©2017 AACR.
+28232384	4	18	E3 Ligase CHIP	T103	UMLS:C1172009
+28232384	28	31	p21	T103	UMLS:C0919418
+28232384	72	83	Lung cancer	T038	UMLS:C0684249
+28232384	92	104	radiotherapy	T058	UMLS:C0948315
+28232384	146	152	cancer	T038	UMLS:C0006826
+28232384	173	178	human	T204	UMLS:C0086418
+28232384	179	190	lung cancer	T038	UMLS:C0684249
+28232384	191	201	cell lines	T017	UMLS:C0007600
+28232384	258	262	RNAi	T038	UMLS:C1136031
+28232384	263	272	knockdown	T062	UMLS:C2350567
+28232384	276	315	C-terminus of Hsc70-interacting protein	T103	UMLS:C1172009
+28232384	317	321	CHIP	T103	UMLS:C1172009
+28232384	324	329	STUB1	T103	UMLS:C1172009
+28232384	334	364	U-box-type E3 ubiquitin ligase	T103	UMLS:C0077678
+28232384	390	413	stress-induced proteins	T103	UMLS:C1336511
+28232384	432	463	ubiquitin-dependent degradation	T038	UMLS:C1157991
+28232384	471	523	cyclin-dependent kinase (CDK) inhibitor, p21 protein	T103	UMLS:C0919418
+28232384	539	543	CHIP	T017	UMLS:C1420492
+28232384	544	553	knockdown	T062	UMLS:C2350567
+28232384	575	594	senescence of cells	T038	UMLS:C0007581
+28232384	610	624	exposure to IR	T037	UMLS:C0479513
+28232384	626	645	Cellular senescence	T038	UMLS:C0007581
+28232384	684	690	CRISPR	T103	UMLS:C3658200
+28232384	693	697	Cas9	T103	UMLS:C3658265
+28232384	708	716	deletion	T038	UMLS:C0017260
+28232384	724	732	p21 gene	T017	UMLS:C0249197
+28232384	734	740	CDKN1A	T017	UMLS:C0249197
+28232384	745	749	CHIP	T017	UMLS:C1420492
+28232384	750	759	knockdown	T062	UMLS:C2350567
+28232384	760	765	cells	T017	UMLS:C0007634
+28232384	779	793	overexpression	T038	UMLS:C1514559
+28232384	797	801	CHIP	T103	UMLS:C1172009
+28232384	814	817	p21	T103	UMLS:C0919418
+28232384	870	881	lung cancer	T038	UMLS:C0684249
+28232384	882	887	cells	T017	UMLS:C0007634
+28232384	902	906	cell	T017	UMLS:C0007634
+28232384	914	920	assays	T058	UMLS:C0005507
+28232384	938	941	p21	T103	UMLS:C0919418
+28232384	964	978	ubiquitylation	T038	UMLS:C1519751
+28232384	992	996	CHIP	T103	UMLS:C1172009
+28232384	1020	1024	CHIP	T103	UMLS:C1172009
+28232384	1038	1047	chaperone	T103	UMLS:C0243041
+28232384	1048	1053	HSP70	T103	UMLS:C0243043
+28232384	1100	1124	E3 ubiquitin ligase CHIP	T103	UMLS:C1172009
+28232384	1193	1202	treatment	T058	UMLS:C0087111
+28232384	1206	1217	lung cancer	T038	UMLS:C0684249
+28232384	1237	1241	CHIP	T103	UMLS:C1172009
+28232384	1244	1249	HSP70	T103	UMLS:C0243043
+28232384	1252	1255	p21	T103	UMLS:C0919418
+28232384	1256	1270	ubiquitylation	T038	UMLS:C1519751
+28232384	1285	1289	axis	T082	UMLS:C1522496
+28232384	1352	1364	radiotherapy	T058	UMLS:C1522449
+28232384	1382	1408	non-small cell lung cancer	T038	UMLS:C0007131

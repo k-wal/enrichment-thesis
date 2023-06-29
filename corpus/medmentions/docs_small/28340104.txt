@@ -1,0 +1,47 @@
+28340104|t|Personalizing lung cancer risk prediction and imaging follow-up recommendations using the National Lung Screening Trial dataset
+28340104|a|To demonstrate a data-driven method for personalizing lung cancer risk prediction using a large clinical dataset. An algorithm was used to categorize nodules found in the first screening year of the National Lung Screening Trial as malignant or nonmalignant. Risk of malignancy for nodules was calculated based on size criteria according to the Fleischner Society recommendations from 2005, along with the additional discriminators of pack-years smoking history, sex, and nodule location. Imaging follow-up recommendations were assigned according to Fleischner size category malignancy risk. Nodule size correlated with malignancy risk as predicted by the Fleischner Society recommendations. With the additional discriminators of smoking history, sex, and nodule location, significant risk stratification was observed. For example, men with ≥60 pack-years smoking history and upper lobe nodules measuring >4 and ≤6 mm demonstrated significantly increased risk of malignancy at 12.4% compared to the mean of 3.81% for similarly sized nodules (P < .0001). Based on personalized malignancy risk, 54% of nodules >4 and ≤6 mm were reclassified to longer-term follow-up than recommended by Fleischner. Twenty-seven percent of nodules ≤4 mm were reclassified to shorter-term follow-up. Using available clinical datasets such as the National Lung Screening Trial in conjunction with locally collected datasets can help clinicians provide more personalized malignancy risk prediction s and follow-up recommendations. By incorporating 3 demographic data points, the risk of lung nodule malignancy within the Fleischner categories can be considerably stratified and more personalized follow-up recommendations can be made.
+28340104	14	25	lung cancer	T038	UMLS:C0684249
+28340104	46	53	imaging	T058	UMLS:C0011923
+28340104	54	63	follow-up	T058	UMLS:C1522577
+28340104	90	127	National Lung Screening Trial dataset	T033	UMLS:C1298641
+28340104	182	193	lung cancer	T038	UMLS:C0684249
+28340104	218	240	large clinical dataset	T033	UMLS:C1298641
+28340104	245	254	algorithm	T170	UMLS:C0002045
+28340104	278	285	nodules	T033	UMLS:C0034079
+28340104	305	314	screening	T058	UMLS:C0199230
+28340104	360	369	malignant	T038	UMLS:C0006826
+28340104	373	385	nonmalignant	T038	UMLS:C0086692
+28340104	387	405	Risk of malignancy	T033	UMLS:C4040945
+28340104	410	417	nodules	T033	UMLS:C0034079
+28340104	473	491	Fleischner Society	T092	UMLS:C0037459
+28340104	534	559	additional discriminators	T170	UMLS:C0439062
+28340104	600	606	nodule	T017	UMLS:C0028259
+28340104	607	615	location	T082	UMLS:C0450429
+28340104	617	624	Imaging	T058	UMLS:C0011923
+28340104	625	634	follow-up	T058	UMLS:C1522577
+28340104	678	688	Fleischner	T092	UMLS:C0037459
+28340104	694	702	category	T170	UMLS:C0683312
+28340104	720	731	Nodule size	T082	UMLS:C0449457
+28340104	784	802	Fleischner Society	T092	UMLS:C0037459
+28340104	829	854	additional discriminators	T170	UMLS:C0683312
+28340104	858	873	smoking history	T033	UMLS:C1519384
+28340104	884	890	nodule	T017	UMLS:C0028259
+28340104	891	899	location	T082	UMLS:C0450429
+28340104	918	932	stratification	T062	UMLS:C1514983
+28340104	1004	1022	upper lobe nodules	T033	UMLS:C0034079
+28340104	1073	1101	increased risk of malignancy	T033	UMLS:C1857701
+28340104	1155	1168	sized nodules	T082	UMLS:C0449457
+28340104	1228	1235	nodules	T017	UMLS:C0028259
+28340104	1312	1322	Fleischner	T092	UMLS:C0037459
+28340104	1348	1355	nodules	T017	UMLS:C0028259
+28340104	1396	1405	follow-up	T058	UMLS:C1522577
+28340104	1423	1440	clinical datasets	T170	UMLS:C0150098
+28340104	1503	1510	locally	T082	UMLS:C1517927
+28340104	1521	1529	datasets	T170	UMLS:C0150098
+28340104	1539	1549	clinicians	T097	UMLS:C0871685
+28340104	1609	1618	follow-up	T058	UMLS:C1522577
+28340104	1684	1714	risk of lung nodule malignancy	T033	UMLS:C4040945
+28340104	1704	1714	malignancy	T038	UMLS:C4282132
+28340104	1726	1736	Fleischner	T092	UMLS:C0037459
+28340104	1737	1747	categories	T170	UMLS:C0683312
+28340104	1801	1810	follow-up	T058	UMLS:C1522577

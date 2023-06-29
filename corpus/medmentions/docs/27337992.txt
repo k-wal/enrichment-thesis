@@ -1,0 +1,48 @@
+27337992|t|Glomerulonephritis With Masked Monotypic Immunoglobulin Deposits and Concurrent Lymphomatous Infiltration
+27337992|a|Kidney injury can be a complication of hematopoietic neoplasia by both direct and indirect mechanisms. Virtually all lymphomas and plasma cell dyscrasias can show kidney involvement, including parenchymal infiltration and by secondary injury. Recently, a unique form of glomerulonephritis with masked monotypic immunoglobulin deposits has been reported, which shows frequent association with hematopoietic neoplasia and a propensity for progressive kidney disease. In many instances, these cases are likely diagnosed as glomerulonephritis with dominant C3 due to the absence of immunoglobulin staining by routine immunofluorescence microscopy. The patient reported here showed lymphomatous infiltration on kidney biopsy and mesangial proliferative glomerulonephritis with dominant staining for C3 without immunoglobulins on initial immunofluorescence; however, monotypic immunoglobulin G κ light chain was revealed after additional immunofluorescence staining was performed on the paraffin-embedded tissue. This patient's case highlights the evolving state of kidney biopsy interpretation and the expanding spectrum of kidney disease in the setting of hematopoietic neoplasia.
+27337992	0	18	Glomerulonephritis	T047	C0017658
+27337992	31	64	Monotypic Immunoglobulin Deposits	T046	C0333585
+27337992	69	79	Concurrent	T079	C0205420
+27337992	80	105	Lymphomatous Infiltration	T191	C2960101
+27337992	106	119	Kidney injury	T037	C0160420
+27337992	129	141	complication	T046	C0009566
+27337992	145	168	hematopoietic neoplasia	T191	C0376544
+27337992	177	183	direct	T080	C1947931
+27337992	188	196	indirect	T080	C0439852
+27337992	197	207	mechanisms	T169	C0441712
+27337992	223	232	lymphomas	T191	C0024299
+27337992	237	259	plasma cell dyscrasias	T047	C1136084
+27337992	269	275	kidney	T023	C0022646
+27337992	276	287	involvement	T169	C1314939
+27337992	299	310	parenchymal	T023	C0227628
+27337992	299	323	parenchymal infiltration	T046	C0332448
+27337992	341	347	injury	T037	C0043251
+27337992	376	394	glomerulonephritis	T047	C0017658
+27337992	407	440	monotypic immunoglobulin deposits	T046	C0333585
+27337992	498	521	hematopoietic neoplasia	T191	C0376544
+27337992	543	554	progressive	T169	C0205329
+27337992	555	569	kidney disease	T047	C0022658
+27337992	613	622	diagnosed	T033	C0011900
+27337992	626	644	glomerulonephritis	T047	C0017658
+27337992	650	658	dominant	T169	C1527180
+27337992	659	661	C3	T047	C4087273
+27337992	684	698	immunoglobulin	T116,T129	C0021027
+27337992	684	707	immunoglobulin staining	T033	C1704680
+27337992	719	748	immunofluorescence microscopy	T059	C0079604
+27337992	754	761	patient	T101	C0030705
+27337992	783	808	lymphomatous infiltration	T191	C2960101
+27337992	812	825	kidney biopsy	T060	C0194073
+27337992	830	872	mesangial proliferative glomerulonephritis	T047	C0221238
+27337992	878	886	dominant	T169	C1527180
+27337992	887	895	staining	T033	C1704680
+27337992	900	902	C3	T047	C4087273
+27337992	911	926	immunoglobulins	T116,T129	C0021027
+27337992	938	956	immunofluorescence	T059	C0079604
+27337992	967	995	monotypic immunoglobulin G κ	T116,T121,T129	C0020852
+27337992	996	1007	light chain	T116,T129	C0021036
+27337992	1038	1065	immunofluorescence staining	T059	C0079604
+27337992	1087	1111	paraffin-embedded tissue	T024	C1519524
+27337992	1118	1127	patient's	T101	C0030705
+27337992	1166	1179	kidney biopsy	T060	C0194073
+27337992	1225	1239	kidney disease	T047	C0022658
+27337992	1258	1281	hematopoietic neoplasia	T191	C0376544

@@ -1,0 +1,76 @@
+28063390|t|Sensitive fluorescent detection of DNA methyltransferase using nicking endonuclease -mediated multiple primers -like rolling circle amplification
+28063390|a|Sensitive and reliable detection of DNA methyltransferase (MTase) is of great significance for both early tumor diagnosis and therapy. In this study, a simple, label -free and sensitive DNA MTase - sensing method was developed on the basis of a nicking endonuclease -mediated multiple primers -like rolling circle amplification (RCA) strategy. In this method, a dumbbell RCA template was prepared by blunt-end ligation of two molecules of hairpin DNA. In addition to the primer - binding sequence, the dumbbell template contained another three important parts: 5'-CCGG-3' sequences in double-stranded stems, nicking endonuclease recognition sites and C-rich sequences in single-stranded loops. The introduction of 5'-CCGG-3' sequences allows the dumbbell template to be destroyed by the restriction endonuclease, HpaII, but is not destroyed in the presence of the target MTase - M.SssI MTase. The introduction of nicking endonuclease recognition sites makes the M.SssI MTase -protected dumbbell template -mediated RCA proceed in a multiple primers -like exponential mode, thus providing the RCA with high amplification efficiency. The introduction of C-rich sequences may promote the folding of amplification products into a G-quadruplex structure, which is specifically recognized by the commercially available fluorescent probe thioflavin T. Improved RCA amplification efficiency and specific fluorescent recognition of RCA products provide the M.SssI MTase - sensing platform with high sensitivity. When a dumbbell template containing four nicking endonuclease sites is used, highly specific M.SssI MTase activity detection can be achieved in the range of 0.008-50U/mL with a detection limit as low as 0.0011U/mL. Simple experimental operation and mix-and-detection fluorescent sensing mode ensures that M.SssI MTase quantitation works well in a real-time RCA mode, thus further simplifying the sensing performance and making high throughput detection possible. The proposed MTase - sensing strategy was also demonstrated to be applicable for screening and evaluating the inhibitory activity of MTase inhibitors.
+28063390	10	31	fluorescent detection	T033	UMLS:C0442726
+28063390	35	56	DNA methyltransferase	T103	UMLS:C0012873
+28063390	63	83	nicking endonuclease	T103	UMLS:C0014230
+28063390	94	110	multiple primers	T103	UMLS:C0206415
+28063390	117	145	rolling circle amplification	T062	UMLS:C0887814
+28063390	169	178	detection	T033	UMLS:C0442726
+28063390	182	203	DNA methyltransferase	T103	UMLS:C0012873
+28063390	205	210	MTase	T103	UMLS:C0025831
+28063390	252	257	tumor	T038	UMLS:C0027651
+28063390	258	267	diagnosis	T033	UMLS:C0011900
+28063390	272	279	therapy	T058	UMLS:C0087111
+28063390	289	294	study	T062	UMLS:C2603343
+28063390	306	311	label	T103	UMLS:C1522485
+28063390	332	341	DNA MTase	T103	UMLS:C0012873
+28063390	344	358	sensing method	T058	UMLS:C0022885
+28063390	391	411	nicking endonuclease	T103	UMLS:C0014230
+28063390	422	438	multiple primers	T103	UMLS:C0206415
+28063390	445	473	rolling circle amplification	T062	UMLS:C0887814
+28063390	475	478	RCA	T062	UMLS:C0887814
+28063390	480	488	strategy	T058	UMLS:C0022885
+28063390	498	504	method	T058	UMLS:C0022885
+28063390	517	520	RCA	T062	UMLS:C0887814
+28063390	546	564	blunt-end ligation	T038	UMLS:C1155649
+28063390	572	581	molecules	T103	UMLS:C0012854
+28063390	585	596	hairpin DNA	T103	UMLS:C0012854
+28063390	617	623	primer	T103	UMLS:C0206415
+28063390	626	642	binding sequence	T082	UMLS:C0004793
+28063390	707	727	5'-CCGG-3' sequences	T082	UMLS:C0004793
+28063390	731	752	double-stranded stems	T082	UMLS:C0004793
+28063390	754	774	nicking endonuclease	T103	UMLS:C0014230
+28063390	775	792	recognition sites	T082	UMLS:C0004793
+28063390	797	813	C-rich sequences	T082	UMLS:C0004793
+28063390	817	838	single-stranded loops	T082	UMLS:C0004793
+28063390	860	880	5'-CCGG-3' sequences	T082	UMLS:C0004793
+28063390	933	957	restriction endonuclease	T103	UMLS:C0012906
+28063390	959	964	HpaII	T103	UMLS:C0059181
+28063390	1017	1022	MTase	T103	UMLS:C0025831
+28063390	1025	1037	M.SssI MTase	T103	UMLS:C0216955
+28063390	1059	1079	nicking endonuclease	T103	UMLS:C0014230
+28063390	1080	1097	recognition sites	T082	UMLS:C0004793
+28063390	1108	1120	M.SssI MTase	T103	UMLS:C0216955
+28063390	1160	1163	RCA	T062	UMLS:C0887814
+28063390	1177	1193	multiple primers	T103	UMLS:C0206415
+28063390	1237	1240	RCA	T062	UMLS:C0887814
+28063390	1251	1264	amplification	T038	UMLS:C0683230
+28063390	1297	1313	C-rich sequences	T082	UMLS:C0004793
+28063390	1330	1337	folding	T038	UMLS:C1511668
+28063390	1341	1363	amplification products	T082	UMLS:C0004793
+28063390	1371	1383	G-quadruplex	T082	UMLS:C1517336
+28063390	1384	1393	structure	T082	UMLS:C0678594
+28063390	1458	1475	fluorescent probe	T103	UMLS:C0016321
+28063390	1476	1488	thioflavin T	T103	UMLS:C0076466
+28063390	1499	1502	RCA	T062	UMLS:C0887814
+28063390	1503	1516	amplification	T038	UMLS:C0683230
+28063390	1541	1564	fluorescent recognition	T033	UMLS:C0442726
+28063390	1568	1571	RCA	T062	UMLS:C0887814
+28063390	1572	1580	products	T082	UMLS:C0004793
+28063390	1593	1605	M.SssI MTase	T103	UMLS:C0216955
+28063390	1608	1615	sensing	T058	UMLS:C0022885
+28063390	1689	1709	nicking endonuclease	T103	UMLS:C0014230
+28063390	1710	1715	sites	T082	UMLS:C0205145
+28063390	1741	1753	M.SssI MTase	T103	UMLS:C0216955
+28063390	1754	1762	activity	T038	UMLS:C0243102
+28063390	1763	1772	detection	T033	UMLS:C0442726
+28063390	1870	1892	experimental operation	T058	UMLS:C0022885
+28063390	1897	1934	mix-and-detection fluorescent sensing	T033	UMLS:C0442726
+28063390	1953	1965	M.SssI MTase	T103	UMLS:C0216955
+28063390	2005	2008	RCA	T062	UMLS:C0887814
+28063390	2044	2051	sensing	T033	UMLS:C0442726
+28063390	2091	2100	detection	T033	UMLS:C0442726
+28063390	2124	2129	MTase	T103	UMLS:C0025831
+28063390	2132	2148	sensing strategy	T058	UMLS:C0022885
+28063390	2192	2201	screening	T058	UMLS:C0220908
+28063390	2244	2260	MTase inhibitors	T103	UMLS:C1997663

@@ -1,0 +1,21 @@
+27606547|t|Cloud-based MOTIFSIM: Detecting Similarity in Large DNA Motif Data Sets
+27606547|a|We developed the cloud-based MOTIFSIM on Amazon Web Services (AWS) cloud. The tool is an extended version from our web-based tool version 2.0, which was developed based on a novel algorithm for detecting similarity in multiple DNA motif data sets. This cloud -based version further allows researchers to exploit the computing resources available from AWS to detect similarity in multiple large-scale DNA motif data sets resulting from the next-generation sequencing technology. The tool is highly scalable with expandable AWS.
+27606547	0	20	Cloud-based MOTIFSIM	T170	UMLS:C0037589
+27606547	22	31	Detecting	T033	UMLS:C0442726
+27606547	52	61	DNA Motif	T082	UMLS:C3178798
+27606547	62	71	Data Sets	T170	UMLS:C0150098
+27606547	89	109	cloud-based MOTIFSIM	T170	UMLS:C0037589
+27606547	150	154	tool	T170	UMLS:C0037589
+27606547	170	177	version	T170	UMLS:C0333052
+27606547	187	213	web-based tool version 2.0	T170	UMLS:C0037589
+27606547	252	261	algorithm	T170	UMLS:C0002045
+27606547	266	275	detecting	T033	UMLS:C0442726
+27606547	299	308	DNA motif	T082	UMLS:C3178798
+27606547	309	318	data sets	T170	UMLS:C0150098
+27606547	338	345	version	T170	UMLS:C0333052
+27606547	361	372	researchers	T097	UMLS:C0035173
+27606547	430	436	detect	T033	UMLS:C0442726
+27606547	472	481	DNA motif	T082	UMLS:C3178798
+27606547	482	491	data sets	T170	UMLS:C0150098
+27606547	511	548	next-generation sequencing technology	T062	UMLS:C2936622
+27606547	554	558	tool	T170	UMLS:C0037589

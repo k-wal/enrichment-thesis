@@ -1,0 +1,103 @@
+28245184|t|An approach for estimating measurement uncertainty in medical laboratories using data from long-term quality control and external quality assessment schemes
+28245184|a|The present study was prompted by the ISO 15189 requirements that medical laboratories should estimate measurement uncertainty (MU). The method used to estimate MU included the: a) identification of quantitative tests, b) classification of tests in relation to their clinical purpose, and c) identification of criteria to estimate the different MU components. Imprecision was estimated using long-term internal quality control (IQC) results of the year 2016, while external quality assessment schemes (EQAs) results obtained in the period 2015-2016 were used to estimate bias and bias uncertainty. A total of 263 measurement procedures (MPs) were analyzed. On the basis of test purpose, in 51 MPs imprecision only was used to estimate MU; in the remaining MPs, the bias component was not estimable for 22 MPs because EQAs results did not provide reliable statistics. For a total of 28 MPs, two or more MU values were calculated on the basis of analyte concentration levels. Overall, results showed that uncertainty of bias is a minor factor contributing to MU, the bias component being the most relevant contributor to all the studied sample matrices. The model chosen for MU estimation allowed us to derive a standardized approach for bias calculation, with respect to the fitness-for-purpose of test results. Measurement uncertainty estimation could readily be implemented in medical laboratories as a useful tool in monitoring the analytical quality of test results since they are calculated using a combination of both the long-term imprecision IQC results and bias, on the basis of EQAs results.
+28245184	3	11	approach	T170	C0025663
+28245184	16	26	estimating	T081	C0750572
+28245184	27	50	measurement uncertainty	T081	C1299354
+28245184	54	74	medical laboratories	T073,T093	C3242770
+28245184	81	85	data	T078	C1511726
+28245184	91	100	long-term	T079	C0443252
+28245184	101	116	quality control	T169	C0034378
+28245184	121	156	external quality assessment schemes	T170	C0282574
+28245184	169	174	study	T062	C2603343
+28245184	195	204	ISO 15189	T170	C0282574
+28245184	205	217	requirements	T169	C1514873
+28245184	223	243	medical laboratories	T073,T093	C3242770
+28245184	251	259	estimate	T081	C0750572
+28245184	260	283	measurement uncertainty	T081	C1299354
+28245184	285	287	MU	T081	C1299354
+28245184	294	300	method	T170	C0025663
+28245184	309	317	estimate	T081	C0750572
+28245184	318	320	MU	T081	C1299354
+28245184	338	352	identification	T080	C0205396
+28245184	356	374	quantitative tests	T170	C0392366
+28245184	379	393	classification	T185	C0008902
+28245184	397	402	tests	T170	C0392366
+28245184	424	432	clinical	T080	C0205210
+28245184	433	440	purpose	T169	C1285529
+28245184	449	463	identification	T080	C0205396
+28245184	467	475	criteria	T078	C0243161
+28245184	479	487	estimate	T081	C0750572
+28245184	502	504	MU	T081	C1299354
+28245184	505	515	components	T077	C1705248
+28245184	517	528	Imprecision	T080	C0443236
+28245184	533	542	estimated	T081	C0750572
+28245184	549	558	long-term	T079	C0443252
+28245184	559	583	internal quality control	T169	C0034378
+28245184	585	588	IQC	T169	C0034378
+28245184	590	597	results	T169	C1274040
+28245184	605	609	year	T079	C0439234
+28245184	622	657	external quality assessment schemes	T170	C0282574
+28245184	659	663	EQAs	T170	C0282574
+28245184	665	672	results	T169	C1274040
+28245184	689	695	period	T079	C1948053
+28245184	719	727	estimate	T081	C0750572
+28245184	728	732	bias	T078	C0242568
+28245184	737	741	bias	T078	C0242568
+28245184	742	753	uncertainty	T033	C0087130
+28245184	770	792	measurement procedures	T169	C0242485
+28245184	794	797	MPs	T169	C0242485
+28245184	804	812	analyzed	T062	C0936012
+28245184	830	834	test	T170	C0392366
+28245184	835	842	purpose	T169	C1285529
+28245184	850	853	MPs	T169	C0242485
+28245184	854	865	imprecision	T080	C0443236
+28245184	883	891	estimate	T081	C0750572
+28245184	892	894	MU	T081	C1299354
+28245184	913	916	MPs	T169	C0242485
+28245184	922	926	bias	T078	C0242568
+28245184	927	936	component	T077	C1705248
+28245184	941	944	not	T033	C1513916
+28245184	945	954	estimable	T081	C0750572
+28245184	962	965	MPs	T169	C0242485
+28245184	974	978	EQAs	T170	C0282574
+28245184	979	986	results	T169	C1274040
+28245184	1012	1022	statistics	T170	C0600673
+28245184	1042	1045	MPs	T169	C0242485
+28245184	1059	1061	MU	T081	C1299354
+28245184	1062	1068	values	T080	C0042295
+28245184	1101	1108	analyte	T167	C0443354
+28245184	1109	1129	concentration levels	T081	C0392762
+28245184	1140	1147	results	T169	C1274040
+28245184	1160	1171	uncertainty	T033	C0087130
+28245184	1175	1179	bias	T078	C0242568
+28245184	1185	1197	minor factor	T169	C1521761
+28245184	1214	1216	MU	T081	C1299354
+28245184	1222	1226	bias	T078	C0242568
+28245184	1227	1236	component	T077	C1705248
+28245184	1284	1291	studied	T062	C2603343
+28245184	1292	1307	sample matrices	T078	C1254370
+28245184	1313	1318	model	T170	C3161035
+28245184	1330	1332	MU	T081	C1299354
+28245184	1333	1343	estimation	T041	C0680844
+28245184	1367	1388	standardized approach	T061	C0475411
+28245184	1393	1397	bias	T078	C0242568
+28245184	1398	1409	calculation	T052	C1441506
+28245184	1431	1450	fitness-for-purpose	T169	C1285529
+28245184	1454	1458	test	T170	C0392366
+28245184	1459	1466	results	T169	C1274040
+28245184	1468	1491	Measurement uncertainty	T081	C1299354
+28245184	1492	1502	estimation	T041	C0680844
+28245184	1535	1555	medical laboratories	T073,T093	C3242770
+28245184	1568	1572	tool	T170	C0025663
+28245184	1576	1586	monitoring	T058	C1283169
+28245184	1591	1609	analytical quality	T080	C0332306
+28245184	1613	1617	test	T170	C0392366
+28245184	1618	1625	results	T169	C1274040
+28245184	1641	1651	calculated	T052	C1441506
+28245184	1684	1693	long-term	T079	C0443252
+28245184	1694	1705	imprecision	T080	C0443236
+28245184	1706	1709	IQC	T169	C0034378
+28245184	1710	1717	results	T169	C1274040
+28245184	1722	1726	bias	T078	C0242568
+28245184	1744	1748	EQAs	T170	C0282574
+28245184	1749	1756	results	T169	C1274040

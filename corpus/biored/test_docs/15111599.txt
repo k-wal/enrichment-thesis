@@ -1,0 +1,23 @@
+15111599|t|CRYBA3/A1 gene mutation associated with suture-sparing autosomal dominant congenital nuclear cataract: a novel phenotype.
+15111599|a|PURPOSE: To identify the genetic defect leading to the congenital nuclear cataract affecting a large five-generation Swiss family. METHODS: Family history and clinical data were recorded. The phenotype was documented by both slit lamp and Scheimpflug photography. One cortical lens was evaluated by electron microscopy after cataract extraction. Lenticular phenotyping and genotyping were performed independently with short tandem repeat polymorphism. Linkage analysis was performed, and candidate genes were PCR amplified and screened for mutations on both strands using direct sequencing. RESULTS: Affected individuals had a congenital nuclear lactescent cataract in both eyes. Linkage was observed on chromosome 17 for DNA marker D17S1857 (lod score: 3.44 at theta = 0). Direct sequencing of CRYBA3/A1, which maps to the vicinity, revealed an in-frame 3-bp deletion in exon 4 (279delGAG). This mutation involved a deletion of glycine-91, cosegregated in all affected individuals, and was not observed in unaffected individuals or in 250 normal control subjects from the same ethnic background. Electron microscopy showed that cortical lens fiber morphology was normal. CONCLUSIONS: The DeltaG91 mutation in CRYBA3/A1 is associated with an autosomal dominant congenital nuclear lactescent cataract. A splice mutation (IVS3+1G/A) in this gene has been reported in a zonular cataract with sutural opacities. These results indicate phenotypic heterogeneity related to mutations in this gene.
+15111599	0	9	CRYBA3/A1	GeneOrGeneProduct	1411
+15111599	55	101	autosomal dominant congenital nuclear cataract	DiseaseOrPhenotypicFeature	C565137
+15111599	147	161	genetic defect	DiseaseOrPhenotypicFeature	D030342
+15111599	177	204	congenital nuclear cataract	DiseaseOrPhenotypicFeature	C565137
+15111599	447	455	cataract	DiseaseOrPhenotypicFeature	D002386
+15111599	749	787	congenital nuclear lactescent cataract	DiseaseOrPhenotypicFeature	C565137
+15111599	917	926	CRYBA3/A1	GeneOrGeneProduct	1411
+15111599	977	990	3-bp deletion	SequenceVariant	c|DEL||3
+15111599	1002	1011	279delGAG	SequenceVariant	c|DEL|279|GAG
+15111599	1039	1061	deletion of glycine-91	SequenceVariant	p|DEL|91|G
+15111599	1311	1319	DeltaG91	SequenceVariant	p|DEL|91|G
+15111599	1332	1341	CRYBA3/A1	GeneOrGeneProduct	1411
+15111599	1364	1421	autosomal dominant congenital nuclear lactescent cataract	DiseaseOrPhenotypicFeature	C565137
+15111599	1442	1451	IVS3+1G/A	SequenceVariant	c|SUB|G|IVS3+1|A
+15111599	1489	1505	zonular cataract	DiseaseOrPhenotypicFeature	C535342
+15111599	Association	p|DEL|91|G	C565137	Novel
+15111599	Association	c|DEL|279|GAG	C565137	Novel
+15111599	Association	c|DEL||3	C565137	Novel
+15111599	Association	c|SUB|G|IVS3+1|A	C535342	Novel
+15111599	Association	C535342	1411	Novel
+15111599	Association	1411	C565137	Novel

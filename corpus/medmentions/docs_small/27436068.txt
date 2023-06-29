@@ -1,0 +1,48 @@
+27436068|t|Do dynamic global vegetation models capture the seasonality of carbon fluxes in the Amazon basin? A data - model intercomparison
+27436068|a|To predict forest response to long-term climate change with high confidence requires that dynamic global vegetation models (DGVMs) be successfully tested against ecosystem response to short-term variations in environmental drivers, including regular seasonal patterns. Here, we used an integrated dataset from four forests in the Brasil flux network, spanning a range of dry-season intensities and lengths, to determine how well four state-of-the-art models (IBIS, ED2, JULES, and CLM3.5) simulated the seasonality of carbon exchanges in Amazonian tropical forests. We found that most DGVMs poorly represented the annual cycle of gross primary productivity (GPP), of photosynthetic capacity (Pc), and of other fluxes and pools. Models simulated consistent dry-season declines in GPP in the equatorial Amazon (Manaus K34, Santarem K67, and Caxiuanã CAX); a contrast to observed GPP increases. Model simulated dry-season GPP reductions were driven by an external environmental factor, ' soil water stress ' and consequently by a constant or decreasing photosynthetic infrastructure (Pc), while observed dry-season GPP resulted from a combination of internal biological (leaf -flush and abscission and increased Pc) and environmental (incoming radiation) causes. Moreover, we found models generally overestimated observed seasonal net ecosystem exchange (NEE) and respiration (Re) at equatorial locations. In contrast, a southern Amazon forest (Jarú RJA) exhibited dry-season declines in GPP and Re consistent with most DGVMs simulations. While water limitation was represented in models and the primary driver of seasonal photosynthesis in southern Amazonia, changes in internal biophysical processes, light-harvesting adaptations (e.g., variations in leaf area index (LAI) and increasing leaf -level assimilation rate related to leaf demography), and allocation lags between leaf and wood, dominated equatorial Amazon carbon flux dynamics and were deficient or absent from current model formulations. Correctly simulating flux seasonality at tropical forests requires a greater understanding and the incorporation of internal biophysical mechanisms in future model developments.
+27436068	3	35	dynamic global vegetation models	T170	UMLS:C3161035
+27436068	84	96	Amazon basin	T082	UMLS:C0017446
+27436068	107	112	model	T170	UMLS:C3161035
+27436068	219	251	dynamic global vegetation models	T170	UMLS:C3161035
+27436068	253	258	DGVMs	T170	UMLS:C3161035
+27436068	338	359	environmental drivers	T082	UMLS:C0014406
+27436068	426	433	dataset	T170	UMLS:C0150098
+27436068	459	478	Brasil flux network	T170	UMLS:C0242356
+27436068	580	586	models	T170	UMLS:C3161035
+27436068	588	592	IBIS	T170	UMLS:C3161035
+27436068	594	597	ED2	T170	UMLS:C3161035
+27436068	599	604	JULES	T170	UMLS:C3161035
+27436068	610	616	CLM3.5	T170	UMLS:C3161035
+27436068	667	676	Amazonian	T082	UMLS:C0017446
+27436068	714	719	DGVMs	T170	UMLS:C3161035
+27436068	857	863	Models	T170	UMLS:C3161035
+27436068	919	936	equatorial Amazon	T082	UMLS:C0017446
+27436068	938	948	Manaus K34	T082	UMLS:C0017446
+27436068	950	962	Santarem K67	T082	UMLS:C0017446
+27436068	968	980	Caxiuanã CAX	T082	UMLS:C0017446
+27436068	1021	1026	Model	T170	UMLS:C3161035
+27436068	1090	1103	environmental	T082	UMLS:C0014406
+27436068	1114	1131	soil water stress	T033	UMLS:C0038435
+27436068	1297	1301	leaf	T204	UMLS:C0242724
+27436068	1313	1323	abscission	T038	UMLS:C1177284
+27436068	1346	1359	environmental	T082	UMLS:C0014406
+27436068	1408	1414	models	T170	UMLS:C3161035
+27436068	1490	1501	respiration	T038	UMLS:C0035203
+27436068	1503	1505	Re	T038	UMLS:C0035203
+27436068	1547	1562	southern Amazon	T082	UMLS:C0017446
+27436068	1622	1624	Re	T038	UMLS:C0035203
+27436068	1646	1651	DGVMs	T170	UMLS:C3161035
+27436068	1652	1663	simulations	T062	UMLS:C0679083
+27436068	1707	1713	models	T170	UMLS:C3161035
+27436068	1767	1784	southern Amazonia	T082	UMLS:C0017446
+27436068	1806	1827	biophysical processes	T038	UMLS:C1511162
+27436068	1829	1845	light-harvesting	T038	UMLS:C1158303
+27436068	1879	1894	leaf area index	T170	UMLS:C0918012
+27436068	1896	1899	LAI	T170	UMLS:C0918012
+27436068	1916	1920	leaf	T204	UMLS:C0242724
+27436068	1928	1940	assimilation	T038	UMLS:C3714634
+27436068	2003	2007	leaf	T204	UMLS:C0242724
+27436068	2012	2016	wood	T204	UMLS:C0032098
+27436068	2028	2045	equatorial Amazon	T082	UMLS:C0017446
+27436068	2109	2114	model	T170	UMLS:C3161035
+27436068	2254	2276	biophysical mechanisms	T038	UMLS:C1148560

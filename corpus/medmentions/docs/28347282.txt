@@ -1,0 +1,90 @@
+28347282|t|Hyperuricemia after orthotopic liver transplantation: divergent associations with progression of renal disease, incident end-stage renal disease, and mortality
+28347282|a|Although hyperuricemia is common after orthotopic liver transplantation (OLT), its relationship to mortality, progressive kidney disease, or the development of end stage renal disease (ESRD) is not well-described. Data from 304 patients undergoing OLT between 1996 and 2010 were used to assess the association of mean serum uric acid (UA) level in the 3- months post-OLT with mortality, doubling of creatinine, and ESRD incidence. Post-OLT survival to event outcomes according to UA level and eGFR was assessed using the Kaplan Meier method and multivariate Cox proportional hazards models. Mean UA level among the 204 patients with an eGFR level ≥60 ml/min/1.73 m(2) was 6.4 mg/dl compared to 7.9 mg/dl among the 100 patients with eGFR <60 (p < 0.0001). During a median of 4.6 years of follow-up, mortality rate, doubling of creatinine, and ESRD incidence were 48.9, 278.2, and 20.7 per 1000 person - years, respectively. In the first 5 years of follow-up, elevated UA was associated with mortality (Hazard Ratio, HR = 1.7; p = 0.045). However, among those with eGFR ≥ 60, UA level did not predict mortality (HR = 1.0; p = 0.95), and among those with eGFR < 60, elevated UA was a strong predictor of mortality (HR = 3.7[1.1, 12.0]; p = 0.03). UA was not associated with ESRD, but was associated with doubling of creatinine among diabetics (HR = 2.2[1.1, 4.3]; p = 0.025). In this post-OLT cohort, hyperuricemia independently predicted mortality, particularly among patients with eGFR < 60, and predicted doubling of creatinine among diabetics.
+28347282	0	13	Hyperuricemia	T047	C0740394
+28347282	20	52	orthotopic liver transplantation	T061	C0400447
+28347282	64	76	associations	T080	C0439849
+28347282	82	93	progression	T046	C0242656
+28347282	97	110	renal disease	T047	C0022658
+28347282	112	120	incident	T067	C1551358
+28347282	121	144	end-stage renal disease	T047	C0022661
+28347282	150	159	mortality	T081	C0178686
+28347282	169	182	hyperuricemia	T047	C0740394
+28347282	199	231	orthotopic liver transplantation	T061	C0400447
+28347282	233	236	OLT	T061	C0400447
+28347282	259	268	mortality	T081	C0178686
+28347282	270	281	progressive	T169	C0205329
+28347282	282	296	kidney disease	T047	C0022658
+28347282	320	343	end stage renal disease	T047	C0022661
+28347282	345	349	ESRD	T047	C0022661
+28347282	374	378	Data	T078	C1511726
+28347282	388	396	patients	T101	C0030705
+28347282	408	411	OLT	T061	C0400447
+28347282	458	469	association	T080	C0439849
+28347282	473	477	mean	T081	C0444504
+28347282	478	483	serum	T031	C0229671
+28347282	484	493	uric acid	T109,T123	C0041980
+28347282	495	497	UA	T109,T123	C0041980
+28347282	499	504	level	T080	C0441889
+28347282	515	521	months	T079	C0439231
+28347282	522	530	post-OLT	T079	C1254367
+28347282	536	545	mortality	T081	C0178686
+28347282	559	569	creatinine	T109,T123	C0010294
+28347282	575	579	ESRD	T047	C0022661
+28347282	591	599	Post-OLT	T079	C1254367
+28347282	640	642	UA	T109,T123	C0041980
+28347282	643	648	level	T080	C0441889
+28347282	653	657	eGFR	T059	C3811844
+28347282	681	700	Kaplan Meier method	T062	C2827659
+28347282	705	749	multivariate Cox proportional hazards models	T081,T170	C0010235
+28347282	751	755	Mean	T081	C0444504
+28347282	756	758	UA	T109,T123	C0041980
+28347282	759	764	level	T080	C0441889
+28347282	779	787	patients	T101	C0030705
+28347282	796	800	eGFR	T059	C3811844
+28347282	801	806	level	T080	C0441889
+28347282	878	886	patients	T101	C0030705
+28347282	892	896	eGFR	T059	C3811844
+28347282	924	930	median	T082	C0549183
+28347282	938	943	years	T079	C0439234
+28347282	947	956	follow-up	T058	C1522577
+28347282	958	972	mortality rate	T081	C0205848
+28347282	986	996	creatinine	T109,T123	C0010294
+28347282	1002	1006	ESRD	T047	C0022661
+28347282	1053	1059	person	T098	C0027361
+28347282	1062	1067	years	T079	C0439234
+28347282	1098	1103	years	T079	C0439234
+28347282	1107	1116	follow-up	T058	C1522577
+28347282	1118	1126	elevated	T080	C3163633
+28347282	1127	1129	UA	T109,T123	C0041980
+28347282	1134	1149	associated with	T080	C0332281
+28347282	1150	1159	mortality	T081	C0178686
+28347282	1161	1173	Hazard Ratio	T081	C2985465
+28347282	1175	1177	HR	T081	C2985465
+28347282	1223	1227	eGFR	T059	C3811844
+28347282	1234	1236	UA	T109,T123	C0041980
+28347282	1237	1242	level	T080	C0441889
+28347282	1259	1268	mortality	T081	C0178686
+28347282	1270	1272	HR	T081	C2985465
+28347282	1312	1316	eGFR	T059	C3811844
+28347282	1323	1331	elevated	T080	C3163633
+28347282	1332	1334	UA	T109,T123	C0041980
+28347282	1348	1357	predictor	T078	C2698872
+28347282	1361	1370	mortality	T081	C0178686
+28347282	1372	1374	HR	T081	C2985465
+28347282	1404	1406	UA	T109,T123	C0041980
+28347282	1415	1430	associated with	T080	C0332281
+28347282	1431	1435	ESRD	T047	C0022661
+28347282	1445	1460	associated with	T080	C0332281
+28347282	1473	1483	creatinine	T109,T123	C0010294
+28347282	1490	1499	diabetics	T047	C0011847
+28347282	1501	1503	HR	T081	C2985465
+28347282	1541	1549	post-OLT	T079	C1254367
+28347282	1550	1556	cohort	T098	C0599755
+28347282	1558	1571	hyperuricemia	T047	C0740394
+28347282	1586	1595	predicted	T078	C0681842
+28347282	1596	1605	mortality	T081	C0178686
+28347282	1626	1634	patients	T101	C0030705
+28347282	1640	1644	eGFR	T059	C3811844
+28347282	1655	1664	predicted	T078	C0681842
+28347282	1677	1687	creatinine	T109,T123	C0010294
+28347282	1694	1703	diabetics	T047	C0011847

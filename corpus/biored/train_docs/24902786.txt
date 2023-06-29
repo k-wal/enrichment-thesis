@@ -1,0 +1,58 @@
+24902786|t|Testosterone ameliorates streptozotocin-induced memory impairment in male rats.
+24902786|a|AIM: To study the effects of testosterone on streptozotocin (STZ)-induced memory impairment in male rats. METHODS: Adult male Wistar rats were intracerebroventricularly (icv) infused with STZ (750 ug) on d 1 and d 3, and a passive avoidance task was assessed 2 weeks after the first injection of STZ. Castration surgery was performed in another group of rats, and the passive avoidance task was assessed 4 weeks after the operation. Testosterone (1 mg.kg(-1).d(-1), sc), the androgen receptor antagonist flutamide (10 mg.kg(-1).d(-1), ip), the estrogen receptor antagonist tamoxifen (1 mg.kg(-1).d(-1), ip) or the aromatase inhibitor letrozole (4 mg.kg(-1).d(-1), ip) were administered for 6 d after the first injection of STZ. RESULTS: STZ administration and castration markedly decreased both STL1 (the short memory) and STL2 (the long memory) in passive avoidance tests. Testosterone replacement almost restored the STL1 and STL2 in castrated rats, and significantly prolonged the STL1 and STL2 in STZ-treated rats. Administration of flutamide, letrozole or tamoxifen significantly impaired the memory in intact rats, and significantly attenuated the testosterone replacement in improving STZ- and castration-induced memory impairment. CONCLUSION: Testosterone administration ameliorates STZ- and castration-induced memory impairment in male Wistar rats.
+24902786	0	12	Testosterone	ChemicalEntity	D013739
+24902786	25	39	streptozotocin	ChemicalEntity	D013311
+24902786	48	65	memory impairment	DiseaseOrPhenotypicFeature	D008569
+24902786	74	78	rats	OrganismTaxon	10116
+24902786	109	121	testosterone	ChemicalEntity	D013739
+24902786	125	139	streptozotocin	ChemicalEntity	D013311
+24902786	141	144	STZ	ChemicalEntity	D013311
+24902786	154	171	memory impairment	DiseaseOrPhenotypicFeature	D008569
+24902786	180	184	rats	OrganismTaxon	10116
+24902786	213	217	rats	OrganismTaxon	10116
+24902786	268	271	STZ	ChemicalEntity	D013311
+24902786	376	379	STZ	ChemicalEntity	D013311
+24902786	434	438	rats	OrganismTaxon	10116
+24902786	513	525	Testosterone	ChemicalEntity	D013739
+24902786	555	572	androgen receptor	GeneOrGeneProduct	367
+24902786	584	593	flutamide	ChemicalEntity	D005485
+24902786	624	641	estrogen receptor	GeneOrGeneProduct	2099
+24902786	653	662	tamoxifen	ChemicalEntity	D013629
+24902786	694	703	aromatase	GeneOrGeneProduct	25147
+24902786	714	723	letrozole	ChemicalEntity	C067431
+24902786	803	806	STZ	ChemicalEntity	D013311
+24902786	817	820	STZ	ChemicalEntity	D013311
+24902786	875	879	STL1	GeneOrGeneProduct	369068
+24902786	903	907	STL2	GeneOrGeneProduct	369140
+24902786	954	966	Testosterone	ChemicalEntity	D013739
+24902786	999	1003	STL1	GeneOrGeneProduct	369068
+24902786	1008	1012	STL2	GeneOrGeneProduct	369140
+24902786	1026	1030	rats	OrganismTaxon	10116
+24902786	1064	1068	STL1	GeneOrGeneProduct	369068
+24902786	1073	1077	STL2	GeneOrGeneProduct	369140
+24902786	1081	1084	STZ	ChemicalEntity	D013311
+24902786	1093	1097	rats	OrganismTaxon	10116
+24902786	1117	1126	flutamide	ChemicalEntity	D005485
+24902786	1128	1137	letrozole	ChemicalEntity	C067431
+24902786	1141	1150	tamoxifen	ChemicalEntity	D013629
+24902786	1195	1199	rats	OrganismTaxon	10116
+24902786	1234	1246	testosterone	ChemicalEntity	D013739
+24902786	1272	1275	STZ	ChemicalEntity	D013311
+24902786	1300	1317	memory impairment	DiseaseOrPhenotypicFeature	D008569
+24902786	1331	1343	Testosterone	ChemicalEntity	D013739
+24902786	1371	1374	STZ	ChemicalEntity	D013311
+24902786	1399	1416	memory impairment	DiseaseOrPhenotypicFeature	D008569
+24902786	1432	1436	rats	OrganismTaxon	10116
+24902786	Positive_Correlation	C067431	D008569	Novel
+24902786	Negative_Correlation	25147	C067431	No
+24902786	Positive_Correlation	D013629	D008569	Novel
+24902786	Negative_Correlation	2099	D013629	No
+24902786	Positive_Correlation	D005485	D008569	Novel
+24902786	Negative_Correlation	367	D005485	No
+24902786	Negative_Correlation	D013311	369140	Novel
+24902786	Negative_Correlation	D013311	369068	Novel
+24902786	Positive_Correlation	D013311	D008569	No
+24902786	Association	D013739	369140	Novel
+24902786	Association	D013739	369068	Novel
+24902786	Negative_Correlation	D013739	D008569	Novel
+24902786	Negative_Correlation	D013739	D013311	Novel

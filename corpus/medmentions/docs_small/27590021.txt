@@ -1,0 +1,87 @@
+27590021|t|International validation of a urinary biomarker panel for identification of active lupus nephritis in children
+27590021|a|Conventional markers of juvenile-onset systemic lupus erythematosus (JSLE) disease activity fail to adequately identify lupus nephritis (LN). While individual novel urine biomarkers are good at detecting LN flares, biomarker panels may improve diagnostic accuracy. The aim of this study was to assess the performance of a biomarker panel to identify active LN in two international JSLE cohorts. Novel urinary biomarkers, namely vascular cell adhesion molecule-1 (VCAM-1), monocyte chemoattractant protein 1 (MCP-1), lipocalin-like prostaglandin D synthase (LPGDS), transferrin (TF), ceruloplasmin, alpha-1-acid glycoprotein (AGP) and neutrophil gelatinase-associated lipocalin (NGAL), were quantified in a cross-sectional study that included participants of the UK JSLE Cohort Study (Cohort 1) and validated within the Einstein Lupus Cohort (Cohort 2). Binary logistic regression modelling and receiver operating characteristic curve analysis [area under the curve (AUC)] were used to identify and assess combinations of biomarkers for diagnostic accuracy. A total of 91 JSLE patients were recruited across both cohorts, of whom 31 (34 %) had active LN and 60 (66 %) had no LN. Urinary AGP, ceruloplasmin, VCAM-1, MCP-1 and LPGDS levels were significantly higher in those patients with active LN than in non - LN patients [all corrected p values (p c) < 0.05] across both cohorts. Urinary TF also differed between patient groups in Cohort 2 (p c = 0.001). Within Cohort 1, the optimal biomarker panel included AGP, ceruloplasmin, LPGDS and TF (AUC 0.920 for active LN identification). These results were validated in Cohort 2, with the same markers resulting in the optimal urine biomarker panel (AUC 0.991). In two international JSLE cohorts, urinary AGP, ceruloplasmin, LPGDS and TF demonstrate an 'excellent' ability for accurately identifying active LN in children.
+27590021	14	24	validation	T062	UMLS:C1519941
+27590021	30	37	urinary	T031	UMLS:C1610733
+27590021	38	47	biomarker	T201	UMLS:C0005516
+27590021	48	53	panel	T058	UMLS:C0022885
+27590021	83	98	lupus nephritis	T038	UMLS:C0024143
+27590021	124	131	markers	T201	UMLS:C0005516
+27590021	135	178	juvenile-onset systemic lupus erythematosus	T038	UMLS:C1274834
+27590021	180	184	JSLE	T038	UMLS:C1274834
+27590021	231	246	lupus nephritis	T038	UMLS:C0024143
+27590021	248	250	LN	T038	UMLS:C0024143
+27590021	276	281	urine	T031	UMLS:C0042036
+27590021	282	292	biomarkers	T201	UMLS:C0005516
+27590021	305	314	detecting	T058	UMLS:C1511790
+27590021	315	317	LN	T038	UMLS:C0024143
+27590021	318	324	flares	T033	UMLS:C1517205
+27590021	326	335	biomarker	T201	UMLS:C0005516
+27590021	336	342	panels	T058	UMLS:C0022885
+27590021	392	397	study	T062	UMLS:C2603343
+27590021	433	442	biomarker	T201	UMLS:C0005516
+27590021	443	448	panel	T058	UMLS:C0022885
+27590021	468	470	LN	T038	UMLS:C0024143
+27590021	492	496	JSLE	T038	UMLS:C1274834
+27590021	497	504	cohorts	T098	UMLS:C0599755
+27590021	512	519	urinary	T031	UMLS:C1610733
+27590021	520	530	biomarkers	T201	UMLS:C0005516
+27590021	539	572	vascular cell adhesion molecule-1	T103	UMLS:C0078056
+27590021	574	580	VCAM-1	T103	UMLS:C0078056
+27590021	583	617	monocyte chemoattractant protein 1	T103	UMLS:C0128897
+27590021	619	624	MCP-1	T103	UMLS:C0128897
+27590021	627	666	lipocalin-like prostaglandin D synthase	T103	UMLS:C0072296
+27590021	668	673	LPGDS	T103	UMLS:C0072296
+27590021	676	687	transferrin	T103	UMLS:C0040679
+27590021	689	691	TF	T103	UMLS:C0040679
+27590021	694	707	ceruloplasmin	T103	UMLS:C0007841
+27590021	709	734	alpha-1-acid glycoprotein	T103	UMLS:C0029297
+27590021	736	739	AGP	T103	UMLS:C0029297
+27590021	745	787	neutrophil gelatinase-associated lipocalin	T103	UMLS:C0215955
+27590021	789	793	NGAL	T103	UMLS:C0215955
+27590021	817	838	cross-sectional study	T062	UMLS:C0010362
+27590021	853	865	participants	T098	UMLS:C0679646
+27590021	873	875	UK	T082	UMLS:C0041700
+27590021	876	880	JSLE	T038	UMLS:C1274834
+27590021	895	903	Cohort 1	T098	UMLS:C0599755
+27590021	930	944	Einstein Lupus	T092	UMLS:C1708333
+27590021	945	951	Cohort	T098	UMLS:C0599755
+27590021	953	961	Cohort 2	T098	UMLS:C0599755
+27590021	971	1000	logistic regression modelling	T062	UMLS:C0206031
+27590021	1132	1142	biomarkers	T201	UMLS:C0005516
+27590021	1182	1186	JSLE	T038	UMLS:C1274834
+27590021	1223	1230	cohorts	T098	UMLS:C0599755
+27590021	1261	1263	LN	T038	UMLS:C0024143
+27590021	1285	1287	LN	T038	UMLS:C0024143
+27590021	1289	1296	Urinary	T031	UMLS:C1610733
+27590021	1297	1300	AGP	T103	UMLS:C0029297
+27590021	1302	1315	ceruloplasmin	T103	UMLS:C0007841
+27590021	1317	1323	VCAM-1	T103	UMLS:C0078056
+27590021	1325	1330	MCP-1	T103	UMLS:C0128897
+27590021	1335	1340	LPGDS	T103	UMLS:C0072296
+27590021	1404	1406	LN	T038	UMLS:C0024143
+27590021	1421	1423	LN	T038	UMLS:C0024143
+27590021	1483	1490	cohorts	T098	UMLS:C0599755
+27590021	1492	1499	Urinary	T031	UMLS:C1610733
+27590021	1500	1502	TF	T103	UMLS:C0040679
+27590021	1543	1551	Cohort 2	T098	UMLS:C0599755
+27590021	1574	1582	Cohort 1	T098	UMLS:C0599755
+27590021	1596	1605	biomarker	T201	UMLS:C0005516
+27590021	1606	1611	panel	T058	UMLS:C0022885
+27590021	1621	1624	AGP	T103	UMLS:C0029297
+27590021	1626	1639	ceruloplasmin	T103	UMLS:C0007841
+27590021	1641	1646	LPGDS	T103	UMLS:C0072296
+27590021	1651	1653	TF	T103	UMLS:C0040679
+27590021	1676	1678	LN	T038	UMLS:C0024143
+27590021	1728	1736	Cohort 2	T098	UMLS:C0599755
+27590021	1752	1759	markers	T201	UMLS:C0005516
+27590021	1785	1790	urine	T031	UMLS:C0042036
+27590021	1791	1800	biomarker	T201	UMLS:C0005516
+27590021	1801	1806	panel	T058	UMLS:C0022885
+27590021	1841	1845	JSLE	T038	UMLS:C1274834
+27590021	1846	1853	cohorts	T098	UMLS:C0599755
+27590021	1855	1862	urinary	T031	UMLS:C1610733
+27590021	1863	1866	AGP	T103	UMLS:C0029297
+27590021	1868	1881	ceruloplasmin	T103	UMLS:C0007841
+27590021	1883	1888	LPGDS	T103	UMLS:C0072296
+27590021	1893	1895	TF	T103	UMLS:C0040679
+27590021	1965	1967	LN	T038	UMLS:C0024143

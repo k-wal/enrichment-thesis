@@ -1,0 +1,42 @@
+15987266|t|Growth-associated protein 43 expression in hippocampal molecular layer of chronic epileptic rats treated with cycloheximide.
+15987266|a|PURPOSE: GAP43 has been thought to be linked with mossy fiber sprouting (MFS) in various experimental models of epilepsy. To investigate how GAP43 expression (GAP43-ir) correlates with MFS, we assessed the intensity (densitometry) and extension (width) of GAP43-ir in the inner molecular layer of the dentate gyrus (IML) of rats subject to status epilepticus induced by pilocarpine (Pilo), previously injected or not with cycloheximide (CHX), which has been shown to inhibit MFS. METHODS: CHX was injected before the Pilo injection in adult Wistar rats. The Pilo group was injected with the same drugs, except for CHX. Animals were killed between 30 and 60 days later, and brain sections were processed for GAP43 immunohistochemistry. RESULTS: Densitometry showed no significant difference regarding GAP43-ir in the IML between Pilo, CHX+Pilo, and control groups. However, the results of the width of the GAP43-ir band in the IML showed that CHX+Pilo and control animals had a significantly larger band (p = 0.03) as compared with that in the Pilo group. CONCLUSIONS: Our current finding that animals in the CHX+Pilo group have a GAP43-ir band in the IML, similar to that of controls, reinforces prior data on the blockade of MFS in these animals. The change in GAP43-ir present in Pilo-treated animals was a thinning of the band to a very narrow layer just above the granule cell layer that is likely to be associated with the loss of hilar cell projections that express GAP-43.
+15987266	0	28	Growth-associated protein 43	GeneOrGeneProduct	29423
+15987266	82	91	epileptic	DiseaseOrPhenotypicFeature	D004827
+15987266	92	96	rats	OrganismTaxon	10116
+15987266	110	123	cycloheximide	ChemicalEntity	D003513
+15987266	134	139	GAP43	GeneOrGeneProduct	29423
+15987266	237	245	epilepsy	DiseaseOrPhenotypicFeature	D004827
+15987266	266	271	GAP43	GeneOrGeneProduct	29423
+15987266	284	289	GAP43	GeneOrGeneProduct	29423
+15987266	381	386	GAP43	GeneOrGeneProduct	29423
+15987266	449	453	rats	OrganismTaxon	10116
+15987266	465	483	status epilepticus	DiseaseOrPhenotypicFeature	D013226
+15987266	495	506	pilocarpine	ChemicalEntity	D010862
+15987266	508	512	Pilo	ChemicalEntity	D010862
+15987266	547	560	cycloheximide	ChemicalEntity	D003513
+15987266	562	565	CHX	ChemicalEntity	D003513
+15987266	614	617	CHX	ChemicalEntity	D003513
+15987266	642	646	Pilo	ChemicalEntity	D010862
+15987266	673	677	rats	OrganismTaxon	10116
+15987266	683	687	Pilo	ChemicalEntity	D010862
+15987266	739	742	CHX	ChemicalEntity	D003513
+15987266	832	837	GAP43	GeneOrGeneProduct	29423
+15987266	925	930	GAP43	GeneOrGeneProduct	29423
+15987266	953	957	Pilo	ChemicalEntity	D010862
+15987266	959	962	CHX	ChemicalEntity	D003513
+15987266	963	967	Pilo	ChemicalEntity	D010862
+15987266	1030	1035	GAP43	GeneOrGeneProduct	29423
+15987266	1067	1070	CHX	ChemicalEntity	D003513
+15987266	1071	1075	Pilo	ChemicalEntity	D010862
+15987266	1168	1172	Pilo	ChemicalEntity	D010862
+15987266	1233	1236	CHX	ChemicalEntity	D003513
+15987266	1237	1241	Pilo	ChemicalEntity	D010862
+15987266	1255	1260	GAP43	GeneOrGeneProduct	29423
+15987266	1387	1392	GAP43	GeneOrGeneProduct	29423
+15987266	1407	1411	Pilo	ChemicalEntity	D010862
+15987266	1597	1603	GAP-43	GeneOrGeneProduct	29423
+15987266	Association	29423	D004827	No
+15987266	Association	D010862	29423	Novel
+15987266	Positive_Correlation	D013226	D010862	No
+15987266	Association	D003513	29423	Novel
+15987266	Negative_Correlation	D004827	D003513	No

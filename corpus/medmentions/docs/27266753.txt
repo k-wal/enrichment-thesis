@@ -1,0 +1,140 @@
+27266753|t|The clinical and economic burden of significant bleeding during lung resection surgery: A retrospective matched cohort analysis of real - world data
+27266753|a|The objective of this retrospective study was to quantify the clinical and economic burden of significant bleeding in lung resection surgery in the US. This study utilized 2009-2012 data from the Premier Perspective Database(TM). Adult patients with primary pulmonary lobectomy or segmentectomy procedures were categorized by the surgical approach (VATS vs open) and primary diagnosis (primary or metastatic lung cancer vs non-lung cancer). Patients requiring ≥3 units of blood products with at least 1 unit of PRBCs: " significant bleeding " cohort; those requiring <3 units: " non-significant bleeding " cohort; and those not requiring blood products: " no bleeding " cohort. A matched cohort analysis was performed between the " significant bleeding " and the " no bleeding cohort " using matching variables: hospital, lung cancer diagnosis, year of surgery, APR-DRG severity score, procedure type and approach, age, and gender. The " All - patient " cohort comprised 21,429 patients: 213 " significant bleeding "; 2,780 " non-significant bleeding "; and 18,436 " no bleeding ". Overall incidence of significant chest bleeding was 0.99%. Patients from " significant bleeding " cohort and " non-significant bleeding " cohort had 2.5 days and 2 days (p < 0.0001) longer length of stay in the hospital compared to those in the " no bleeding " cohort, respectively. Overall, hospital costs for " significant bleeding " cohort were higher than " no bleeding " cohort for those who were covered under Medicare ($59,871 vs $23,641), were ≥76 years of age ($64,010 vs $24,243), had greater severity of illness ($97,813 vs $51,871) and underwent open segmentectomy ($74,220 vs $21,903). Hospital costs for " significant bleeding " cohort and " non-significant bleeding " were significantly higher ($11,589 and $5,280, respectively, p < 0.0001) than no bleeding cohort. Although significant bleeding during lung resection surgery is rare, patients with such complication could stay longer at the hospital and cost an average of $13,103 more than those without.
+27266753	4	12	clinical	T080	C0205210
+27266753	17	25	economic	T169	C0013557
+27266753	26	32	burden	T078	C2828008
+27266753	36	47	significant	T078	C0750502
+27266753	48	56	bleeding	T046	C0019080
+27266753	57	63	during	T079	C0347984
+27266753	64	86	lung resection surgery	T061	C0396565
+27266753	90	127	retrospective matched cohort analysis	T062	C2985505
+27266753	131	135	real	T080	C0205238
+27266753	138	143	world	T098	C2700280
+27266753	144	148	data	T078	C1511726
+27266753	153	162	objective	T080	C1571702
+27266753	171	190	retrospective study	T062	C0035363
+27266753	198	206	quantify	T081	C1709793
+27266753	211	219	clinical	T080	C0205210
+27266753	224	232	economic	T169	C0013557
+27266753	233	239	burden	T078	C2828008
+27266753	243	254	significant	T078	C0750502
+27266753	255	263	bleeding	T046	C0019080
+27266753	267	289	lung resection surgery	T061	C0396565
+27266753	297	299	US	T083	C0041703
+27266753	306	311	study	T062	C2603343
+27266753	312	320	utilized	T169	C1524063
+27266753	331	335	data	T078	C1511726
+27266753	345	377	Premier Perspective Database(TM)	T170	C0242356
+27266753	379	384	Adult	T100	C0001675
+27266753	385	393	patients	T101	C0030705
+27266753	399	426	primary pulmonary lobectomy	T061	C0189497
+27266753	430	454	segmentectomy procedures	T061	C0189488
+27266753	460	471	categorized	T052	C0871968
+27266753	479	496	surgical approach	T169	C0449446
+27266753	498	502	VATS	T061	C0752151
+27266753	506	510	open	T061	C4283938
+27266753	516	533	primary diagnosis	T080	C0332137
+27266753	535	542	primary	T060	C0920688
+27266753	546	568	metastatic lung cancer	T060	C0920688
+27266753	572	587	non-lung cancer	T060	C0430022
+27266753	590	598	Patients	T101	C0030705
+27266753	612	617	units	T081	C0439148
+27266753	621	635	blood products	T121	C0456388
+27266753	641	649	at least	T080	C1524031
+27266753	652	656	unit	T081	C0439148
+27266753	660	665	PRBCs	T116,T121	C2316467
+27266753	669	680	significant	T078	C0750502
+27266753	681	689	bleeding	T046	C0019080
+27266753	692	698	cohort	T098	C0599755
+27266753	719	724	units	T081	C0439148
+27266753	728	743	non-significant	T033	C1273937
+27266753	744	752	bleeding	T046	C0019080
+27266753	755	761	cohort	T098	C0599755
+27266753	787	801	blood products	T121	C0456388
+27266753	805	807	no	T169	C1518422
+27266753	808	816	bleeding	T046	C0019080
+27266753	819	825	cohort	T098	C0599755
+27266753	837	852	cohort analysis	T062	C0086027
+27266753	857	866	performed	T169	C0884358
+27266753	881	892	significant	T078	C0750502
+27266753	893	901	bleeding	T046	C0019080
+27266753	914	916	no	T169	C1518422
+27266753	917	925	bleeding	T046	C0019080
+27266753	926	932	cohort	T098	C0599755
+27266753	941	959	matching variables	UnknownType	C0815175
+27266753	961	969	hospital	T073,T093	C0019994
+27266753	971	992	lung cancer diagnosis	T060	C0920688
+27266753	994	1009	year of surgery	T079	C0439234
+27266753	1011	1033	APR-DRG severity score	T081	C0457451
+27266753	1035	1049	procedure type	T201	C0944777
+27266753	1054	1062	approach	T169	C0449446
+27266753	1064	1067	age	T032	C0001779
+27266753	1073	1079	gender	T032	C0079399
+27266753	1087	1090	All	T081	C0444868
+27266753	1093	1100	patient	T101	C0030705
+27266753	1103	1109	cohort	T098	C0599755
+27266753	1127	1135	patients	T101	C0030705
+27266753	1143	1154	significant	T078	C0750502
+27266753	1155	1163	bleeding	T046	C0019080
+27266753	1175	1190	non-significant	T033	C1273937
+27266753	1191	1199	bleeding	T046	C0019080
+27266753	1216	1218	no	T169	C1518422
+27266753	1219	1227	bleeding	T046	C0019080
+27266753	1231	1238	Overall	T080	C1561607
+27266753	1239	1248	incidence	T081	C0021149
+27266753	1252	1263	significant	T078	C0750502
+27266753	1264	1269	chest	T029	C0817096
+27266753	1270	1278	bleeding	T046	C0019080
+27266753	1290	1298	Patients	T101	C0030705
+27266753	1306	1317	significant	T078	C0750502
+27266753	1318	1326	bleeding	T046	C0019080
+27266753	1329	1335	cohort	T098	C0599755
+27266753	1342	1357	non-significant	T033	C1273937
+27266753	1358	1366	bleeding	T046	C0019080
+27266753	1369	1375	cohort	T098	C0599755
+27266753	1384	1388	days	T079	C0439228
+27266753	1395	1399	days	T079	C0439228
+27266753	1413	1419	longer	T080	C0205166
+27266753	1420	1434	length of stay	T079	C0023303
+27266753	1442	1450	hospital	T073,T093	C0019994
+27266753	1451	1459	compared	T052	C1707455
+27266753	1478	1480	no	T169	C1518422
+27266753	1481	1489	bleeding	T046	C0019080
+27266753	1492	1498	cohort	T098	C0599755
+27266753	1514	1521	Overall	T080	C1561607
+27266753	1523	1537	hospital costs	T081	C0206174
+27266753	1544	1555	significant	T078	C0750502
+27266753	1556	1564	bleeding	T046	C0019080
+27266753	1567	1573	cohort	T098	C0599755
+27266753	1579	1585	higher	T080	C0205250
+27266753	1593	1595	no	T169	C1518422
+27266753	1596	1604	bleeding	T046	C0019080
+27266753	1607	1613	cohort	T098	C0599755
+27266753	1633	1640	covered	T169	C0439844
+27266753	1647	1655	Medicare	T064	C0018717
+27266753	1687	1699	years of age	T079	C1510829
+27266753	1726	1733	greater	T081	C1704243
+27266753	1734	1753	severity of illness	T080	C0521117
+27266753	1794	1807	segmentectomy	T061	C2987624
+27266753	1830	1844	Hospital costs	T081	C0206174
+27266753	1851	1862	significant	T078	C0750502
+27266753	1863	1871	bleeding	T046	C0019080
+27266753	1874	1880	cohort	T098	C0599755
+27266753	1887	1902	non-significant	T033	C1273937
+27266753	1903	1911	bleeding	T046	C0019080
+27266753	1919	1932	significantly	T078	C0750502
+27266753	1933	1939	higher	T080	C0205250
+27266753	1992	1994	no	T169	C1518422
+27266753	1995	2003	bleeding	T046	C0019080
+27266753	2004	2010	cohort	T098	C0599755
+27266753	2021	2032	significant	T078	C0750502
+27266753	2033	2041	bleeding	T046	C0019080
+27266753	2042	2048	during	T079	C0347984
+27266753	2049	2071	lung resection surgery	T061	C0396565
+27266753	2075	2079	rare	T080	C0522498
+27266753	2081	2089	patients	T101	C0030705
+27266753	2100	2112	complication	T046	C0009566
+27266753	2119	2123	stay	T079	C3489408
+27266753	2124	2130	longer	T080	C0205166
+27266753	2138	2146	hospital	T073,T093	C0019994
+27266753	2151	2155	cost	T081	C0206174

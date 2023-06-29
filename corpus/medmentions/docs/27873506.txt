@@ -1,0 +1,83 @@
+27873506|t|Development of a Robotic Colonoscopic Manipulation System, Using Haptic Feedback Algorithm
+27873506|a|Colonoscopy is one of the most effective diagnostic and therapeutic tools for colorectal diseases. We aim to propose a master-slave robotic colonoscopy that is controllable in remote site using conventional colonoscopy. The master and slave robot were developed to use conventional flexible colonoscopy. The robotic colonoscopic procedure was performed using a colonoscope training model by one expert endoscopist and two unexperienced engineers. To provide the haptic sensation, the insertion force and the rotating torque were measured and sent to the master robot. A slave robot was developed to hold the colonoscopy and its knob, and perform insertion, rotation, and two tilting motions of colonoscope. A master robot was designed to teach motions of the slave robot. These measured force and torque were scaled down by one tenth to provide the operator with some reflection force and torque at the haptic device. The haptic sensation and feedback system was successful and helpful to feel the constrained force or torque in colon. The insertion time using robotic system decreased with repeated procedures. This work proposed a robotic approach for colonoscopy using haptic feedback algorithm, and this robotic device would effectively perform colonoscopy with reduced burden and comparable safety for patients in remote site.
+27873506	0	11	Development	T169	C1527148
+27873506	17	57	Robotic Colonoscopic Manipulation System	T170	C1738367
+27873506	65	71	Haptic	T073	C1708324
+27873506	72	80	Feedback	T067	C0015744
+27873506	81	90	Algorithm	T170	C0002045
+27873506	91	102	Colonoscopy	T060	C0009378
+27873506	132	164	diagnostic and therapeutic tools	UnknownType	C0541506
+27873506	169	188	colorectal diseases	T191	C0009404
+27873506	210	230	master-slave robotic	T073	C0336537
+27873506	231	242	colonoscopy	T060	C0009378
+27873506	251	263	controllable	T080	C0243148
+27873506	267	273	remote	T082	C0205157
+27873506	274	278	site	T082	C0205145
+27873506	285	297	conventional	T080	C0439858
+27873506	298	309	colonoscopy	T060	C0009378
+27873506	315	321	master	T073	C0336537
+27873506	326	337	slave robot	T073	C0336537
+27873506	343	352	developed	T169	C1527148
+27873506	360	372	conventional	T080	C0439858
+27873506	373	381	flexible	T080	C0443220
+27873506	382	393	colonoscopy	T060	C0009378
+27873506	399	429	robotic colonoscopic procedure	T061	C0751041
+27873506	452	463	colonoscope	T074	C0180022
+27873506	464	478	training model	T074	C3881670
+27873506	486	492	expert	T080	C0205556
+27873506	493	504	endoscopist	T097	C1522486
+27873506	513	526	unexperienced	T080	C0205556
+27873506	527	536	engineers	T097	C0878517
+27873506	553	559	haptic	T073	C1708324
+27873506	560	569	sensation	T169	C0205245
+27873506	575	584	insertion	T169	C1883719
+27873506	585	590	force	T067	C0441722
+27873506	599	614	rotating torque	T067	C0376590
+27873506	620	628	measured	T080	C0444706
+27873506	645	657	master robot	T073	C0336537
+27873506	661	672	slave robot	T073	C0336537
+27873506	677	686	developed	T169	C1527148
+27873506	699	710	colonoscopy	T060	C0009378
+27873506	719	723	knob	T073	C1708612
+27873506	737	746	insertion	T169	C1883719
+27873506	748	756	rotation	T169	C0035868
+27873506	766	781	tilting motions	T169	C0687704
+27873506	785	796	colonoscope	T074	C0180022
+27873506	800	812	master robot	T073	C0336537
+27873506	817	825	designed	T052	C1707689
+27873506	835	842	motions	T169	C0687704
+27873506	850	861	slave robot	T073	C0336537
+27873506	869	877	measured	T080	C0444706
+27873506	878	883	force	T067	C0441722
+27873506	888	894	torque	T067	C0376590
+27873506	900	911	scaled down	T052	C1947916
+27873506	919	924	tenth	T081	C0205444
+27873506	940	948	operator	T098	C1705275
+27873506	959	975	reflection force	T067	C0441722
+27873506	980	986	torque	T067	C0376590
+27873506	994	1007	haptic device	T073	C1708324
+27873506	1013	1019	haptic	T073	C1708324
+27873506	1020	1029	sensation	T169	C0205245
+27873506	1034	1049	feedback system	T067	C0015744
+27873506	1089	1100	constrained	T077	C1707494
+27873506	1101	1106	force	T067	C0441722
+27873506	1110	1116	torque	T067	C0376590
+27873506	1120	1125	colon	T023	C0009368
+27873506	1131	1140	insertion	T169	C1883719
+27873506	1141	1145	time	T079	C0040223
+27873506	1152	1166	robotic system	T170	C1738367
+27873506	1167	1176	decreased	T081	C0205216
+27873506	1182	1190	repeated	T169	C0205341
+27873506	1191	1201	procedures	T169	C0025664
+27873506	1224	1240	robotic approach	T170	C1738367
+27873506	1245	1256	colonoscopy	T060	C0009378
+27873506	1263	1269	haptic	T073	C1708324
+27873506	1270	1278	feedback	T067	C0015744
+27873506	1279	1288	algorithm	T170	C0002045
+27873506	1299	1313	robotic device	T073	C0336537
+27873506	1340	1351	colonoscopy	T060	C0009378
+27873506	1357	1364	reduced	T080	C0392756
+27873506	1365	1371	burden	T078	C2828008
+27873506	1387	1406	safety for patients	T058	C1113679
+27873506	1410	1416	remote	T082	C0205157
+27873506	1417	1421	site	T082	C0205145

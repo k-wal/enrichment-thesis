@@ -1,0 +1,44 @@
+28126583|t|Time to diagnosis and stage of symptomatic colorectal cancer determined by three different sources of information: A population based retrospective study
+28126583|a|Survival rates from colorectal cancer (CRC) are highly variable in Europe. This variability could potentially be explained by differences in healthcare system delays in diagnosis. However, even when such delays are reduced, the relationship of the diagnostic interval (time from presentation with symptoms to diagnosis) with outcome is uncertain. A total of 795 patients with CRC from 5 regions of Spain were retrospectively examined in this population -based multicenter study. Consecutive incident cases of CRC were identified from pathology services. The total diagnostic interval (TDI) was defined as the time from the first presentation with symptoms to diagnosis based on 3 different sources of information: (i) patient-recorded data (PR - TDI) by interview, (ii) hospital-recorded data (HR - TDI), and (iii) general practitioner-recorded data (GPR - TDI). Concordance correlation coefficients (CCCs) were used to estimate the agreement of 3 different TDIs. The TDIs of patients with different stages of CRC were also compared using the Kruskal-Wallis test. The median TDI was 131days based on patient interview data, 91days based on HR data, and 111days based on GPR data. Overall, the agreement of these TDIs was poor (CCCPR vs HR =0.399, CCCPR vs GPR =0.518, CCCHR vs GPR =0.383). Univariate analysis indicated that the TDI was greater in those with less advanced CRC for all 3 methods of calculation, but this association was only statistically significant for the HR - TDI (p=0.021). There is no evidence that patients with more advanced CRC have longer TDIs. In fact, we found an inverse relationship between the TDI and CRC stage, an example of the " waiting time paradox ". This association may likely be due to the presence of unmeasured confounders as the stage when symptoms appear or the tumour aggressiveness.
+28126583	8	17	diagnosis	T033	UMLS:C0011900
+28126583	43	60	colorectal cancer	T038	UMLS:C1527249
+28126583	91	98	sources	T033	UMLS:C0449416
+28126583	117	127	population	T098	UMLS:C1257890
+28126583	134	153	retrospective study	T062	UMLS:C0035363
+28126583	174	191	colorectal cancer	T038	UMLS:C1527249
+28126583	193	196	CRC	T038	UMLS:C1527249
+28126583	221	227	Europe	T082	UMLS:C0015176
+28126583	295	312	healthcare system	T092	UMLS:C0018696
+28126583	323	332	diagnosis	T033	UMLS:C0011900
+28126583	451	459	symptoms	T033	UMLS:C1457887
+28126583	463	472	diagnosis	T033	UMLS:C0011900
+28126583	530	533	CRC	T038	UMLS:C1527249
+28126583	541	548	regions	T082	UMLS:C0017446
+28126583	552	557	Spain	T082	UMLS:C0037747
+28126583	563	587	retrospectively examined	T062	UMLS:C0035363
+28126583	596	606	population	T098	UMLS:C1257890
+28126583	614	631	multicenter study	T062	UMLS:C1096776
+28126583	663	666	CRC	T038	UMLS:C1527249
+28126583	688	706	pathology services	T092	UMLS:C0587606
+28126583	801	809	symptoms	T033	UMLS:C1457887
+28126583	813	822	diagnosis	T033	UMLS:C0011900
+28126583	844	851	sources	T033	UMLS:C0449416
+28126583	924	946	hospital-recorded data	T170	UMLS:C0019980
+28126583	948	950	HR	T170	UMLS:C0019980
+28126583	969	1003	general practitioner-recorded data	T170	UMLS:C0025102
+28126583	1005	1008	GPR	T170	UMLS:C0025102
+28126583	1164	1167	CRC	T038	UMLS:C1527249
+28126583	1197	1216	Kruskal-Wallis test	T170	UMLS:C1708614
+28126583	1222	1228	median	T082	UMLS:C2939193
+28126583	1294	1296	HR	T170	UMLS:C0019980
+28126583	1324	1327	GPR	T170	UMLS:C0025102
+28126583	1390	1392	HR	T170	UMLS:C0019980
+28126583	1410	1413	GPR	T170	UMLS:C0025102
+28126583	1422	1427	CCCHR	T170	UMLS:C0019980
+28126583	1431	1434	GPR	T170	UMLS:C0025102
+28126583	1527	1530	CRC	T038	UMLS:C1527249
+28126583	1541	1548	methods	T170	UMLS:C0025663
+28126583	1629	1631	HR	T170	UMLS:C0019980
+28126583	1703	1706	CRC	T038	UMLS:C1527249
+28126583	1787	1790	CRC	T038	UMLS:C1527249
+28126583	1937	1945	symptoms	T033	UMLS:C1457887

@@ -1,0 +1,84 @@
+27436524|t|Effects of complex life cycles on genetic diversity: cyclical parthenogenesis
+27436524|a|Neutral patterns of population genetic diversity in species with complex life cycles are difficult to anticipate. Cyclical parthenogenesis (CP), in which organisms undergo several rounds of clonal reproduction followed by a sexual event, is one such life cycle. Many species, including crop pests (aphids), human parasites (trematodes) or models used in evolutionary science (Daphnia), are cyclical parthenogens. It is therefore crucial to understand the impact of such a life cycle on neutral genetic diversity. In this paper, we describe distributions of genetic diversity under conditions of CP with various clonal phase lengths. Using a Markov chain model of CP for a single locus and individual-based simulations for two loci, our analysis first demonstrates that strong departures from full sexuality are observed after only a few generations of clonality. The convergence towards predictions made under conditions of full clonality during the clonal phase depends on the balance between mutations and genetic drift. Second, the sexual event of CP usually resets the genetic diversity at a single locus towards predictions made under full sexuality. However, this single recombination event is insufficient to reshuffle gametic phases towards full-sexuality predictions. Finally, for similar levels of clonality, CP and acyclic partial clonality (wherein a fixed proportion of individuals are clonally produced within each generation) differentially affect the distribution of genetic diversity. Overall, this work provides solid predictions of neutral genetic diversity that may serve as a null model in detecting the action of common evolutionary or demographic processes in cyclical parthenogens (for example, selection or bottlenecks).
+27436524	0	10	Effects of	T080	C1704420
+27436524	11	18	complex	T080	C0439855
+27436524	19	30	life cycles	T079	C0023675
+27436524	34	51	genetic diversity	T070	C0042333
+27436524	53	77	cyclical parthenogenesis	T040	C0030596
+27436524	98	108	population	T098	C1257890
+27436524	109	126	genetic diversity	T070	C0042333
+27436524	130	137	species	T185	C1705920
+27436524	143	150	complex	T080	C0439855
+27436524	151	162	life cycles	T079	C0023675
+27436524	180	190	anticipate	T078	C0681842
+27436524	192	216	Cyclical parthenogenesis	T040	C0030596
+27436524	218	220	CP	T040	C0030596
+27436524	232	241	organisms	T001	C0029235
+27436524	268	274	clonal	T024	C1522642
+27436524	275	287	reproduction	T040	C0035150
+27436524	302	314	sexual event	T053	C0036864
+27436524	328	338	life cycle	T079	C0023675
+27436524	345	352	species	T185	C1705920
+27436524	364	368	crop	T002	C0242775
+27436524	369	374	pests	T008	C0869004
+27436524	376	382	aphids	T204	C0003562
+27436524	385	400	human parasites	T204	C0585165
+27436524	402	412	trematodes	T204	C3889286
+27436524	417	423	models	T170	C3161035
+27436524	432	452	evolutionary science	T091	C0017398
+27436524	454	461	Daphnia	T204	C0010979
+27436524	468	489	cyclical parthenogens	T001	C0029235
+27436524	550	560	life cycle	T079	C0023675
+27436524	572	589	genetic diversity	T070	C0042333
+27436524	618	631	distributions	T169	C1704711
+27436524	635	652	genetic diversity	T070	C0042333
+27436524	659	669	conditions	T080	C0348080
+27436524	673	675	CP	T040	C0030596
+27436524	689	695	clonal	T024	C1522642
+27436524	696	701	phase	T079	C0205390
+27436524	702	709	lengths	T081	C1444754
+27436524	719	737	Markov chain model	T081	C0024828
+27436524	741	743	CP	T040	C0030596
+27436524	750	756	single	T081	C0205171
+27436524	757	762	locus	T082	C1708726
+27436524	784	795	simulations	T062	C0679083
+27436524	800	803	two	T081	C0205448
+27436524	804	808	loci	T082	C1708726
+27436524	854	864	departures	T052	C1706081
+27436524	875	884	sexuality	T053	C0036915
+27436524	915	926	generations	T079	C0079411
+27436524	930	939	clonality	T080	C1704387
+27436524	945	956	convergence	T052	C2700387
+27436524	965	976	predictions	T078	C0681842
+27436524	1007	1016	clonality	T080	C1704387
+27436524	1028	1034	clonal	T024	C1522642
+27436524	1035	1040	phase	T079	C0205390
+27436524	1072	1081	mutations	T045	C0026882
+27436524	1086	1099	genetic drift	T045	C0917892
+27436524	1113	1125	sexual event	T053	C0036864
+27436524	1129	1131	CP	T040	C0030596
+27436524	1151	1168	genetic diversity	T070	C0042333
+27436524	1174	1180	single	T081	C0205171
+27436524	1181	1186	locus	T082	C1708726
+27436524	1195	1206	predictions	T078	C0681842
+27436524	1223	1232	sexuality	T053	C0036915
+27436524	1255	1268	recombination	T045	C0034865
+27436524	1304	1318	gametic phases	T043	C0007613
+27436524	1327	1341	full-sexuality	T053	C0036915
+27436524	1342	1353	predictions	T078	C0681842
+27436524	1386	1395	clonality	T080	C1704387
+27436524	1397	1399	CP	T040	C0030596
+27436524	1412	1419	partial	T081	C0728938
+27436524	1420	1429	clonality	T080	C1704387
+27436524	1461	1472	individuals	T098	C0237401
+27436524	1477	1485	clonally	T080	C1704387
+27436524	1507	1517	generation	T079	C0079411
+27436524	1545	1557	distribution	T169	C1704711
+27436524	1561	1578	genetic diversity	T070	C0042333
+27436524	1614	1625	predictions	T078	C0681842
+27436524	1637	1654	genetic diversity	T070	C0042333
+27436524	1675	1685	null model	T170	C3161035
+27436524	1720	1732	evolutionary	T045	C0015219
+27436524	1736	1747	demographic	T090	C0011298
+27436524	1748	1757	processes	T067	C1522240
+27436524	1761	1782	cyclical parthenogens	T001	C0029235

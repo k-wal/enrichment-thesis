@@ -1,0 +1,30 @@
+19779499|t|Novel CACNA1S mutation causes autosomal dominant hypokalemic periodic paralysis in a South American family.
+19779499|a|Hypokalaemic periodic paralysis (HypoPP) is an autosomal dominant disorder, which is characterized by periodic attacks of muscle weakness associated with a decrease in the serum potassium level. A major disease-causing gene for HypoPP has been identified as CACNA1S, which encodes the skeletal muscle calcium channel alpha-subunit with four transmembrane domains (I-IV), each with six transmembrane segments (S1-S6). To date, all CACNA1S mutations identified in HypoPP patients are located within the voltage-sensor S4 segment. In this study we report a novel CACNA1S mutation in a new region of the protein, the S3 segment of domain III. We characterized a four-generation South American family with HypoPP. Genetic analysis identified a novel V876E mutation in all HypoPP patients in the family, but not in normal family members or 160 control people. Clinical analysis indicates that mutation V876E is associated with a severe outcome as characterized by a very early age of onset, complete penetrance and a severe prognosis including death. These results identify a new mutation in CACNA1S and expand the spectrum of CACNA1S mutations associated with HypoPP.
+19779499	6	13	CACNA1S	GeneOrGeneProduct	779
+19779499	49	79	hypokalemic periodic paralysis	DiseaseOrPhenotypicFeature	D020514
+19779499	108	139	Hypokalaemic periodic paralysis	DiseaseOrPhenotypicFeature	D020514
+19779499	141	147	HypoPP	DiseaseOrPhenotypicFeature	D020514
+19779499	155	182	autosomal dominant disorder	DiseaseOrPhenotypicFeature	D030342
+19779499	230	245	muscle weakness	DiseaseOrPhenotypicFeature	D018908
+19779499	286	295	potassium	ChemicalEntity	D011188
+19779499	336	342	HypoPP	DiseaseOrPhenotypicFeature	D020514
+19779499	366	373	CACNA1S	GeneOrGeneProduct	779
+19779499	393	438	skeletal muscle calcium channel alpha-subunit	GeneOrGeneProduct	779
+19779499	538	545	CACNA1S	GeneOrGeneProduct	779
+19779499	570	576	HypoPP	DiseaseOrPhenotypicFeature	D020514
+19779499	577	585	patients	OrganismTaxon	9606
+19779499	668	675	CACNA1S	GeneOrGeneProduct	779
+19779499	809	815	HypoPP	DiseaseOrPhenotypicFeature	D020514
+19779499	853	858	V876E	SequenceVariant	rs267606698
+19779499	875	881	HypoPP	DiseaseOrPhenotypicFeature	D020514
+19779499	882	890	patients	OrganismTaxon	9606
+19779499	1004	1009	V876E	SequenceVariant	rs267606698
+19779499	1146	1151	death	DiseaseOrPhenotypicFeature	D003643
+19779499	1194	1201	CACNA1S	GeneOrGeneProduct	779
+19779499	1229	1236	CACNA1S	GeneOrGeneProduct	779
+19779499	1263	1269	HypoPP	DiseaseOrPhenotypicFeature	D020514
+19779499	Association	D018908	D011188	No
+19779499	Association	D020514	779	No
+19779499	Association	779	D003643	Novel
+19779499	Positive_Correlation	rs267606698	D020514	Novel
+19779499	Positive_Correlation	D003643	rs267606698	Novel

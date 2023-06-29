@@ -1,0 +1,56 @@
+27325393|t|Molecular serum signature of treatment resistant depression
+27325393|a|A substantial number of patients suffering from major depressive disorder (MDD) do not respond to multiple trials of anti-depressants, develop a chronic course of disease and become treatment resistant. Most of the studies investigating molecular changes in treatment-resistant depression (TRD) have only examined a limited number of molecules and genes. Consequently, biomarkers associated with TRD are still lacking. This study aimed to use recently advanced high-throughput proteomic platforms to identify peripheral biomarkers of TRD defined by two staging models, the Thase and Rush staging model (TRM) and the Maudsley Staging Model (MSM). Serum collected from an inpatient cohort of 65 individuals suffering from MDD was analysed using two different mass spectrometric-based platforms, label-free liquid chromatography mass spectrometry (LC-MS(E)) and selective reaction monitoring (SRM), as well as a multiplex bead based assay. In the LC-MS(E) analysis, proteins involved in the acute phase response and complement activation and coagulation were significantly different between the staging groups in both models. In the multiplex bead-based assay analysis TNF-α levels (log(odds) = -4.95, p = 0.045) were significantly different in the TRM comparison. Using SRM, significant changes of three apolipoproteins A-I (β = 0.029, p = 0.035), M (β = -0.017, p = 0.009) and F (β = -0.031, p = 0.024) were associated with the TRM but not the MSM. Overall, our findings suggest that proteins, which are involved in immune and complement activation, may represent potential biomarkers that could be used by clinicians to identify high-risk patients. Nevertheless, given that the molecular changes between the staging groups were subtle, the results need to be interpreted cautiously.
+27325393	10	15	serum	T031	UMLS:C0229671
+27325393	16	25	signature	T201	UMLS:C0005516
+27325393	29	59	treatment resistant depression	T038	UMLS:C2063866
+27325393	108	133	major depressive disorder	T038	UMLS:C1269683
+27325393	135	138	MDD	T038	UMLS:C1269683
+27325393	167	173	trials	T062	UMLS:C0008976
+27325393	177	193	anti-depressants	T103	UMLS:C0003289
+27325393	213	230	course of disease	T038	UMLS:C0242656
+27325393	242	251	treatment	T058	UMLS:C0087111
+27325393	252	261	resistant	T038	UMLS:C1514892
+27325393	318	348	treatment-resistant depression	T038	UMLS:C2063866
+27325393	350	353	TRD	T038	UMLS:C2063866
+27325393	408	413	genes	T017	UMLS:C0017337
+27325393	429	439	biomarkers	T201	UMLS:C0005516
+27325393	456	459	TRD	T038	UMLS:C2063866
+27325393	521	556	high-throughput proteomic platforms	T091	UMLS:C0872252
+27325393	569	579	peripheral	T082	UMLS:C0205100
+27325393	580	590	biomarkers	T201	UMLS:C0005516
+27325393	594	597	TRD	T038	UMLS:C2063866
+27325393	613	627	staging models	T170	UMLS:C0449394
+27325393	633	661	Thase and Rush staging model	T170	UMLS:C0449394
+27325393	663	666	TRM	T170	UMLS:C0449394
+27325393	676	698	Maudsley Staging Model	T170	UMLS:C0449394
+27325393	700	703	MSM	T170	UMLS:C0449394
+27325393	706	711	Serum	T031	UMLS:C0229671
+27325393	753	764	individuals	T098	UMLS:C0027361
+27325393	780	783	MDD	T038	UMLS:C1269683
+27325393	817	851	mass spectrometric-based platforms	T058	UMLS:C0037813
+27325393	853	903	label-free liquid chromatography mass spectrometry	T058	UMLS:C0872318
+27325393	905	913	LC-MS(E)	T058	UMLS:C0872318
+27325393	969	995	multiplex bead based assay	T058	UMLS:C0020980
+27325393	1004	1021	LC-MS(E) analysis	T058	UMLS:C0872318
+27325393	1023	1031	proteins	T103	UMLS:C0033684
+27325393	1048	1068	acute phase response	T038	UMLS:C0001349
+27325393	1073	1094	complement activation	T038	UMLS:C0009528
+27325393	1099	1110	coagulation	T038	UMLS:C1328723
+27325393	1152	1166	staging groups	T170	UMLS:C0449394
+27325393	1175	1181	models	T170	UMLS:C0449394
+27325393	1190	1216	multiplex bead-based assay	T058	UMLS:C0020980
+27325393	1226	1238	TNF-α levels	T058	UMLS:C1168005
+27325393	1306	1309	TRM	T170	UMLS:C0449394
+27325393	1362	1381	apolipoproteins A-I	T103	UMLS:C0085201
+27325393	1406	1407	M	T103	UMLS:C1438565
+27325393	1436	1437	F	T103	UMLS:C0052208
+27325393	1487	1490	TRM	T170	UMLS:C0449394
+27325393	1503	1506	MSM	T170	UMLS:C0449394
+27325393	1521	1529	findings	T033	UMLS:C0243095
+27325393	1543	1551	proteins	T103	UMLS:C0033684
+27325393	1575	1581	immune	T038	UMLS:C1155000
+27325393	1586	1607	complement activation	T038	UMLS:C0009528
+27325393	1633	1643	biomarkers	T201	UMLS:C0005516
+27325393	1666	1676	clinicians	T097	UMLS:C0871685
+27325393	1689	1698	high-risk	T033	UMLS:C0332167
+27325393	1768	1782	staging groups	T170	UMLS:C0449394

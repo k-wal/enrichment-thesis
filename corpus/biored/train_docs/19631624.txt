@@ -1,0 +1,34 @@
+19631624|t|Learning and memory deficits in ecstasy users and their neural correlates during a face-learning task.
+19631624|a|It has been consistently shown that ecstasy users display impairments in learning and memory performance. In addition, working memory processing in ecstasy users has been shown to be associated with neural alterations in hippocampal and/or cortical regions as measured by functional magnetic resonance imaging (fMRI). Using functional imaging and a face-learning task, we investigated neural correlates of encoding and recalling face-name associations in 20 recreational drug users whose predominant drug use was ecstasy and 20 controls. To address the potential confounding effects of the cannabis use of the ecstasy using group, a second analysis included 14 previously tested cannabis users (Nestor, L., Roberts, G., Garavan, H., Hester, R., 2008. Deficits in learning and memory: parahippocampal hyperactivity and frontocortical hypoactivity in cannabis users. Neuroimage 40, 1328-1339). Ecstasy users performed significantly worse in learning and memory compared to controls and cannabis users. A conjunction analysis of the encode and recall phases of the task revealed ecstasy-specific hyperactivity in bilateral frontal regions, left temporal, right parietal, bilateral temporal, and bilateral occipital brain regions. Ecstasy-specific hypoactivity was evident in the right dorsal anterior cingulated cortex (ACC) and left posterior cingulated cortex. In both ecstasy and cannabis groups brain activation was decreased in the right medial frontal gyrus, left parahippocampal gyrus, left dorsal cingulate gyrus, and left caudate. These results elucidated ecstasy-related deficits, only some of which might be attributed to cannabis use. These ecstasy-specific effects may be related to the vulnerability of isocortical and allocortical regions to the neurotoxic effects of ecstasy.
+19631624	0	28	Learning and memory deficits	DiseaseOrPhenotypicFeature	D007859,D008569
+19631624	32	39	ecstasy	ChemicalEntity	D018817
+19631624	139	146	ecstasy	ChemicalEntity	D018817
+19631624	161	195	impairments in learning and memory	DiseaseOrPhenotypicFeature	D007859,D008569
+19631624	251	258	ecstasy	ChemicalEntity	D018817
+19631624	616	623	ecstasy	ChemicalEntity	D018817
+19631624	693	701	cannabis	ChemicalEntity	D002188
+19631624	713	720	ecstasy	ChemicalEntity	D018817
+19631624	782	790	cannabis	ChemicalEntity	D002188
+19631624	854	885	Deficits in learning and memory	DiseaseOrPhenotypicFeature	D007859,D008569
+19631624	903	916	hyperactivity	DiseaseOrPhenotypicFeature	D006948
+19631624	952	960	cannabis	ChemicalEntity	D002188
+19631624	995	1002	Ecstasy	ChemicalEntity	D018817
+19631624	1087	1095	cannabis	ChemicalEntity	D002188
+19631624	1179	1186	ecstasy	ChemicalEntity	D018817
+19631624	1196	1209	hyperactivity	DiseaseOrPhenotypicFeature	D006948
+19631624	1330	1337	Ecstasy	ChemicalEntity	D018817
+19631624	1471	1478	ecstasy	ChemicalEntity	D018817
+19631624	1483	1491	cannabis	ChemicalEntity	D002188
+19631624	1665	1672	ecstasy	ChemicalEntity	D018817
+19631624	1733	1741	cannabis	ChemicalEntity	D002188
+19631624	1753	1760	ecstasy	ChemicalEntity	D018817
+19631624	1861	1871	neurotoxic	DiseaseOrPhenotypicFeature	D020258
+19631624	1883	1890	ecstasy	ChemicalEntity	D018817
+19631624	Positive_Correlation	D020258	D018817	Novel
+19631624	Positive_Correlation	D018817	D006948	No
+19631624	Positive_Correlation	D018817	D008569	No
+19631624	Association	D018817	D002188	Novel
+19631624	Positive_Correlation	D018817	D007859	No
+19631624	Positive_Correlation	D006948	D002188	Novel
+19631624	Positive_Correlation	D008569	D002188	Novel
+19631624	Positive_Correlation	D007859	D002188	Novel

@@ -1,0 +1,85 @@
+22808010|t|Defining an EPOR- regulated transcriptome for primary progenitors, including Tnfr-sf13c as a novel mediator of EPO- dependent erythroblast formation.
+22808010|a|Certain concepts concerning EPO/EPOR action modes have been challenged by in vivo studies: Bcl-x levels are elevated in maturing erythroblasts, but not in their progenitors; truncated EPOR alleles that lack a major p85/PI3K recruitment site nonetheless promote polycythemia; and Erk1 disruption unexpectedly bolsters erythropoiesis. To discover novel EPO/EPOR action routes, global transcriptome analyses presently are applied to interrogate EPO/EPOR effects on primary bone marrow-derived CFUe-like progenitors. Overall, 160 EPO/EPOR target transcripts were significantly modulated 2-to 21.8-fold. A unique set of EPO-regulated survival factors included Lyl1, Gas5, Pim3, Pim1, Bim, Trib3 and Serpina 3g. EPO/EPOR-modulated cell cycle mediators included Cdc25a, Btg3, Cyclin-d2, p27-kip1, Cyclin-g2 and CyclinB1-IP-1. EPO regulation of signal transduction factors was also interestingly complex. For example, not only Socs3 plus Socs2 but also Spred2, Spred1 and Eaf1 were EPO-induced as negative-feedback components. Socs2, plus five additional targets, further proved to comprise new EPOR/Jak2/Stat5 response genes (which are important for erythropoiesis during anemia). Among receptors, an atypical TNF-receptor Tnfr-sf13c was up-modulated    >5-fold by EPO. Functionally, Tnfr-sf13c ligation proved to both promote proerythroblast survival, and substantially enhance erythroblast formation. The EPOR therefore engages a sophisticated set of transcriptome response circuits, with Tnfr-sf13c deployed as one novel positive regulator of proerythroblast formation.
+22808010	12	16	EPOR	GeneOrGeneProduct	13857
+22808010	77	87	Tnfr-sf13c	GeneOrGeneProduct	72049
+22808010	111	114	EPO	GeneOrGeneProduct	13856
+22808010	178	181	EPO	GeneOrGeneProduct	13856
+22808010	182	186	EPOR	GeneOrGeneProduct	13857
+22808010	241	246	Bcl-x	GeneOrGeneProduct	12048
+22808010	334	338	EPOR	GeneOrGeneProduct	13857
+22808010	365	373	p85/PI3K	GeneOrGeneProduct	18708
+22808010	411	423	polycythemia	DiseaseOrPhenotypicFeature	D011086
+22808010	429	433	Erk1	GeneOrGeneProduct	26417
+22808010	501	504	EPO	GeneOrGeneProduct	13856
+22808010	505	509	EPOR	GeneOrGeneProduct	13857
+22808010	592	595	EPO	GeneOrGeneProduct	13856
+22808010	596	600	EPOR	GeneOrGeneProduct	13857
+22808010	676	679	EPO	GeneOrGeneProduct	13856
+22808010	680	684	EPOR	GeneOrGeneProduct	13857
+22808010	765	768	EPO	GeneOrGeneProduct	13856
+22808010	805	809	Lyl1	GeneOrGeneProduct	17095
+22808010	811	815	Gas5	GeneOrGeneProduct	14455
+22808010	817	821	Pim3	GeneOrGeneProduct	223775
+22808010	823	827	Pim1	GeneOrGeneProduct	18712
+22808010	829	832	Bim	GeneOrGeneProduct	12125
+22808010	834	839	Trib3	GeneOrGeneProduct	228775
+22808010	844	854	Serpina 3g	GeneOrGeneProduct	20715
+22808010	856	859	EPO	GeneOrGeneProduct	13856
+22808010	860	864	EPOR	GeneOrGeneProduct	13857
+22808010	905	911	Cdc25a	GeneOrGeneProduct	12530
+22808010	913	917	Btg3	GeneOrGeneProduct	12228
+22808010	919	928	Cyclin-d2	GeneOrGeneProduct	12444
+22808010	930	938	p27-kip1	GeneOrGeneProduct	12576
+22808010	940	949	Cyclin-g2	GeneOrGeneProduct	12452
+22808010	954	967	CyclinB1-IP-1	GeneOrGeneProduct	239083
+22808010	969	972	EPO	GeneOrGeneProduct	13856
+22808010	1069	1074	Socs3	GeneOrGeneProduct	12702
+22808010	1080	1085	Socs2	GeneOrGeneProduct	216233
+22808010	1095	1101	Spred2	GeneOrGeneProduct	114716
+22808010	1103	1109	Spred1	GeneOrGeneProduct	114715
+22808010	1114	1118	Eaf1	GeneOrGeneProduct	74427
+22808010	1124	1127	EPO	GeneOrGeneProduct	13856
+22808010	1169	1174	Socs2	GeneOrGeneProduct	216233
+22808010	1237	1241	EPOR	GeneOrGeneProduct	13857
+22808010	1242	1246	Jak2	GeneOrGeneProduct	16452
+22808010	1247	1252	Stat5	GeneOrGeneProduct	20850
+22808010	1315	1321	anemia	DiseaseOrPhenotypicFeature	D000740
+22808010	1353	1365	TNF-receptor	GeneOrGeneProduct	72049
+22808010	1366	1376	Tnfr-sf13c	GeneOrGeneProduct	72049
+22808010	1408	1411	EPO	GeneOrGeneProduct	13856
+22808010	1427	1437	Tnfr-sf13c	GeneOrGeneProduct	72049
+22808010	1550	1554	EPOR	GeneOrGeneProduct	13857
+22808010	1634	1644	Tnfr-sf13c	GeneOrGeneProduct	72049
+22808010	Association	20850	D000740	Novel
+22808010	Association	16452	D000740	Novel
+22808010	Positive_Correlation	74427	13856	Novel
+22808010	Positive_Correlation	114715	13856	Novel
+22808010	Positive_Correlation	114716	13856	Novel
+22808010	Association	216233	D000740	Novel
+22808010	Positive_Correlation	216233	13856	No
+22808010	Positive_Correlation	12702	13856	No
+22808010	Association	13856	17095	Novel
+22808010	Association	13856	239083	Novel
+22808010	Association	13856	12452	No
+22808010	Association	13856	12576	No
+22808010	Association	13856	12444	No
+22808010	Association	13856	12228	Novel
+22808010	Association	13856	12530	Novel
+22808010	Association	13856	20715	No
+22808010	Association	13856	228775	No
+22808010	Association	13856	12125	No
+22808010	Association	13856	18712	No
+22808010	Association	13856	223775	No
+22808010	Association	13856	14455	Novel
+22808010	Bind	13856	13857	No
+22808010	Positive_Correlation	72049	13856	Novel
+22808010	Association	13857	18708	No
+22808010	Association	13857	D011086	No
+22808010	Association	13857	D000740	Novel
+22808010	Association	13857	239083	Novel
+22808010	Association	13857	12452	No
+22808010	Association	13857	12576	No
+22808010	Association	13857	12444	No
+22808010	Association	13857	12228	Novel
+22808010	Association	13857	12530	Novel
+22808010	Association	13857	72049	Novel

@@ -1,0 +1,45 @@
+27288403|t|Transcription rate and transcript length drive formation of chromosomal interaction domain boundaries
+27288403|a|Chromosomes in all organisms are highly organized and divided into multiple chromosomal interaction domains, or topological domains. Regions of active, high transcription help establish and maintain domain boundaries, but precisely how this occurs remains unclear. Here, using fluorescence microscopy and chromosome conformation capture in conjunction with deep sequencing (Hi-C), we show that in Caulobacter crescentus, both transcription rate and transcript length, independent of concurrent translation, drive the formation of domain boundaries. We find that long, highly expressed genes do not form topological boundaries simply through the inhibition of supercoil diffusion. Instead, our results support a model in which long, active regions of transcription drive local decompaction of the chromosome, with these more open regions of the chromosome forming spatial gaps in vivo that diminish contacts between DNA in neighboring domains. These insights into the molecular forces responsible for domain formation in Caulobacter likely generalize to other bacteria and possibly eukaryotes.
+27288403	0	13	Transcription	T045	C0040649
+27288403	14	18	rate	T081	C1521828
+27288403	23	33	transcript	T114	C1519595
+27288403	34	40	length	T081	C1444754
+27288403	47	56	formation	T169	C1522492
+27288403	60	101	chromosomal interaction domain boundaries	T026	C1953345
+27288403	102	113	Chromosomes	T026	C0008633
+27288403	121	130	organisms	T001	C0029235
+27288403	142	151	organized	T169	C1300196
+27288403	156	163	divided	T169	C0332849
+27288403	169	177	multiple	T081	C0439064
+27288403	178	209	chromosomal interaction domains	T026	C1953345
+27288403	214	233	topological domains	T026	C1953345
+27288403	259	272	transcription	T045	C0040649
+27288403	301	318	domain boundaries	T026	C1953345
+27288403	358	365	unclear	T033	C3845108
+27288403	379	402	fluorescence microscopy	T059	C0026022
+27288403	459	474	deep sequencing	T063	C2936624
+27288403	499	521	Caulobacter crescentus	T007	C0085449
+27288403	528	541	transcription	T045	C0040649
+27288403	542	546	rate	T081	C1521828
+27288403	551	561	transcript	T114	C1519595
+27288403	562	568	length	T081	C1444754
+27288403	570	584	independent of	T169	C0332291
+27288403	596	607	translation	T045	C1519614
+27288403	619	628	formation	T169	C1522492
+27288403	632	649	domain boundaries	T026	C1953345
+27288403	687	692	genes	T028	C0017337
+27288403	705	727	topological boundaries	T026	C1953345
+27288403	747	757	inhibition	T052	C3463820
+27288403	813	818	model	T170	C0026343
+27288403	852	865	transcription	T045	C0040649
+27288403	931	956	regions of the chromosome	T026	C1953345
+27288403	965	977	spatial gaps	T082	C3887622
+27288403	978	985	in vivo	T082	C1515655
+27288403	1017	1020	DNA	T114,T123	C0012854
+27288403	1036	1043	domains	T026	C1953345
+27288403	1069	1085	molecular forces	T067	C0441722
+27288403	1102	1108	domain	T026	C1953345
+27288403	1109	1118	formation	T169	C1522492
+27288403	1122	1133	Caulobacter	T007	C0085448
+27288403	1161	1169	bacteria	T007	C0004611
+27288403	1183	1193	eukaryotes	T204	C0684063

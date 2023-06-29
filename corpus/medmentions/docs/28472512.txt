@@ -1,0 +1,89 @@
+28472512|t|Chloroplast function and ion regulation in plants growing on saline soils: lessons from halophytes
+28472512|a|Salt stress impacts multiple aspects of plant metabolism and physiology. For instance it inhibits photosynthesis through stomatal limitation, causes excessive accumulation of sodium and chloride in chloroplasts, and disturbs chloroplast potassium homeostasis. Most research on salt stress has focused primarily on cytosolic ion homeostasis with few studies of how salt stress affects chloroplast ion homeostasis. This review asks the question whether membrane-transport processes and ionic relations are differentially regulated between glycophyte and halophyte chloroplasts and whether this contributes to the superior salt tolerance of halophytes. The available literature indicates that halophytes can overcome stomatal limitation by switching to CO2 concentrating mechanisms and increasing the number of chloroplasts per cell under saline conditions. Furthermore, salt entry into the chloroplast stroma may be critical for grana formation and photosystem II activity in halophytes but not in glycophytes. Salt also inhibits some stromal enzymes (e.g. fructose-1,6-bisphosphatase) to a lesser extent in halophyte species. Halophytes accumulate more chloride in chloroplasts than glycophytes and appear to use sodium in functional roles. We propose the molecular identities of candidate transporters that move sodium, chloride and potassium across chloroplast membranes and discuss how their operation may regulate photochemistry and photosystem I and II activity in chloroplasts.
+28472512	0	11	Chloroplast	T026	C0008266
+28472512	12	20	function	T039	C1254359
+28472512	25	39	ion regulation	T043	C1523902
+28472512	43	49	plants	T002	C0032098
+28472512	61	67	saline	T080	C0205556
+28472512	68	73	soils	T167	C0037592
+28472512	88	98	halophytes	T002	C2350261
+28472512	99	110	Salt stress	T043	C1154956
+28472512	111	118	impacts	T080	C4049986
+28472512	119	127	multiple	T081	C0439064
+28472512	128	135	aspects	T080	C0010820
+28472512	139	144	plant	T002	C0032098
+28472512	145	155	metabolism	T040	C0025519
+28472512	160	170	physiology	T039	C0243056
+28472512	188	196	inhibits	T044	C0021469
+28472512	197	211	photosynthesis	T070	C0031764
+28472512	220	228	stomatal	T002	C1955855
+28472512	229	239	limitation	T169	C0449295
+28472512	248	257	excessive	T080	C0442802
+28472512	258	270	accumulation	T033	C4055506
+28472512	274	280	sodium	T123,T196	C0037473
+28472512	285	293	chloride	T196	C0596019
+28472512	297	309	chloroplasts	T026	C0008266
+28472512	324	335	chloroplast	T026	C0008266
+28472512	336	357	potassium homeostasis	T040	C1156280
+28472512	364	372	research	T062	C0035168
+28472512	376	387	salt stress	T043	C1154956
+28472512	400	409	primarily	T080	C0205225
+28472512	413	422	cytosolic	T026	C1383501
+28472512	423	438	ion homeostasis	T039	C1326962
+28472512	463	474	salt stress	T043	C1154956
+28472512	483	494	chloroplast	T026	C0008266
+28472512	495	510	ion homeostasis	T039	C1326962
+28472512	517	523	review	T170	C0282443
+28472512	550	578	membrane-transport processes	T043	C1519624
+28472512	583	598	ionic relations	T039	C0031843
+28472512	618	627	regulated	T038	C1327622
+28472512	636	646	glycophyte	T002	C0032098
+28472512	651	660	halophyte	T002	C2350261
+28472512	661	673	chloroplasts	T026	C0008266
+28472512	719	733	salt tolerance	T043	C1752460
+28472512	737	747	halophytes	T002	C2350261
+28472512	763	773	literature	T170	C0023866
+28472512	789	799	halophytes	T002	C2350261
+28472512	804	812	overcome	T052	C2983310
+28472512	813	821	stomatal	T002	C1955855
+28472512	822	832	limitation	T169	C0449295
+28472512	849	852	CO2	T123,T197	C0007012
+28472512	853	866	concentrating	T052	C2003864
+28472512	867	877	mechanisms	T044	C0678659
+28472512	882	892	increasing	T081	C0205217
+28472512	907	919	chloroplasts	T026	C0008266
+28472512	924	928	cell	T025	C0007634
+28472512	935	952	saline conditions	T080	C0205556
+28472512	967	971	salt	T104	C0036140
+28472512	987	1005	chloroplast stroma	T026	C1166955
+28472512	1013	1021	critical	T080	C1511545
+28472512	1026	1041	grana formation	T043	C3157019
+28472512	1046	1060	photosystem II	T026	C1166978
+28472512	1073	1083	halophytes	T002	C2350261
+28472512	1095	1106	glycophytes	T002	C0032098
+28472512	1118	1126	inhibits	T044	C0021469
+28472512	1132	1139	stromal	T080	C0205556
+28472512	1140	1147	enzymes	T116,T126	C0014442
+28472512	1154	1181	fructose-1,6-bisphosphatase	T116,T126	C0016755
+28472512	1188	1194	lesser	T080	C0547044
+28472512	1205	1214	halophyte	T002	C2350261
+28472512	1215	1222	species	T185	C1705920
+28472512	1224	1234	Halophytes	T002	C2350261
+28472512	1235	1245	accumulate	T033	C4055506
+28472512	1251	1259	chloride	T196	C0596019
+28472512	1263	1275	chloroplasts	T026	C0008266
+28472512	1281	1292	glycophytes	T002	C0032098
+28472512	1311	1317	sodium	T123,T196	C0037473
+28472512	1321	1337	functional roles	T077	C1705810
+28472512	1354	1363	molecular	T080	C1521991
+28472512	1388	1400	transporters	T116,T123	C0596902
+28472512	1411	1417	sodium	T123,T196	C0037473
+28472512	1419	1427	chloride	T196	C0596019
+28472512	1432	1441	potassium	T123,T196	C0032821
+28472512	1449	1470	chloroplast membranes	T026	C1623291
+28472512	1493	1502	operation	T052	C3241922
+28472512	1507	1515	regulate	T038	C1327622
+28472512	1516	1530	photochemistry	T090	C0031739
+28472512	1535	1548	photosystem I	T026	C2244433
+28472512	1553	1555	II	T026	C1166978
+28472512	1568	1580	chloroplasts	T026	C0008266

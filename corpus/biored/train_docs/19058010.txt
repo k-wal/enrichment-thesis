@@ -1,0 +1,59 @@
+19058010|t|Effect of green tea and vitamin E combination in isoproterenol induced myocardial infarction in rats.
+19058010|a|The present study was aimed to investigate the combined effects of green tea and vitamin E on heart weight, body weight, serum marker enzymes, lipid peroxidation, endogenous antioxidants and membrane bound ATPases in isoproterenol (ISO)-induced myocardial infarction in rats. Adult male albino rats, treated with ISO (200 mg/kg, s.c.) for 2 days at an interval of 24 h caused a significant (P<0.05) elevation of heart weight, serum marker enzymes, lipid peroxidation and Ca+2 ATPase level whereas there was a significant (P<0.05) decrease in body weight, endogenous antioxidants, Na+/ K+ ATPase and Mg+2 ATPase levels. Administration of green tea (100 mg/kg/day, p.o.) and vitamin E (100 mg/kg/day, p.o.) together for 30 consecutive days and challenged with ISO on the day 29th and 30th, showed a significant (P<0.05) decrease in heart weight, serum marker enzymes, lipid peroxidation, Ca+2 ATPase and a significant increase in the body weight, endogenous antioxidants, Na+/K+ ATPase and Mg+2 ATPase when compared with ISO treated group and green tea or vitamin E alone treated groups. These findings indicate the synergistic protective effect of green tea and vitamin E during ISO induced myocardial infarction in rats.
+19058010	10	19	green tea	ChemicalEntity	D010936
+19058010	24	33	vitamin E	ChemicalEntity	D014810
+19058010	49	62	isoproterenol	ChemicalEntity	D007545
+19058010	71	92	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+19058010	96	100	rats	OrganismTaxon	10116
+19058010	169	178	green tea	ChemicalEntity	D010936
+19058010	183	192	vitamin E	ChemicalEntity	D014810
+19058010	245	250	lipid	ChemicalEntity	D008055
+19058010	276	288	antioxidants	ChemicalEntity	D000975
+19058010	319	332	isoproterenol	ChemicalEntity	D007545
+19058010	334	337	ISO	ChemicalEntity	D007545
+19058010	347	368	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+19058010	372	376	rats	OrganismTaxon	10116
+19058010	396	400	rats	OrganismTaxon	10116
+19058010	415	418	ISO	ChemicalEntity	D007545
+19058010	550	555	lipid	ChemicalEntity	D008055
+19058010	573	584	Ca+2 ATPase	ChemicalEntity	D000252
+19058010	668	680	antioxidants	ChemicalEntity	D000975
+19058010	682	696	Na+/ K+ ATPase	ChemicalEntity	D000254
+19058010	701	712	Mg+2 ATPase	ChemicalEntity	D017301
+19058010	739	748	green tea	ChemicalEntity	D010936
+19058010	775	784	vitamin E	ChemicalEntity	D014810
+19058010	860	863	ISO	ChemicalEntity	D007545
+19058010	968	973	lipid	ChemicalEntity	D008055
+19058010	988	999	Ca+2 ATPase	ChemicalEntity	D000252
+19058010	1058	1070	antioxidants	ChemicalEntity	D000975
+19058010	1072	1085	Na+/K+ ATPase	ChemicalEntity	D000254
+19058010	1090	1101	Mg+2 ATPase	ChemicalEntity	D017301
+19058010	1121	1124	ISO	ChemicalEntity	D007545
+19058010	1143	1152	green tea	ChemicalEntity	D010936
+19058010	1156	1165	vitamin E	ChemicalEntity	D014810
+19058010	1249	1258	green tea	ChemicalEntity	D010936
+19058010	1263	1272	vitamin E	ChemicalEntity	D014810
+19058010	1280	1283	ISO	ChemicalEntity	D007545
+19058010	1292	1313	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+19058010	1317	1321	rats	OrganismTaxon	10116
+19058010	Positive_Correlation	D014810	D000975	Novel
+19058010	Negative_Correlation	D014810	D000252	Novel
+19058010	Positive_Correlation	D014810	D000254	Novel
+19058010	Positive_Correlation	D014810	D017301	Novel
+19058010	Negative_Correlation	D014810	D008055	Novel
+19058010	Negative_Correlation	D014810	D009203	Novel
+19058010	Negative_Correlation	D014810	D007545	Novel
+19058010	Cotreatment	D010936	D014810	Novel
+19058010	Positive_Correlation	D010936	D000975	Novel
+19058010	Negative_Correlation	D010936	D000252	Novel
+19058010	Positive_Correlation	D010936	D000254	Novel
+19058010	Positive_Correlation	D010936	D017301	Novel
+19058010	Negative_Correlation	D010936	D008055	Novel
+19058010	Negative_Correlation	D010936	D009203	Novel
+19058010	Negative_Correlation	D010936	D007545	Novel
+19058010	Negative_Correlation	D007545	D000975	Novel
+19058010	Positive_Correlation	D007545	D000252	Novel
+19058010	Negative_Correlation	D007545	D000254	Novel
+19058010	Negative_Correlation	D007545	D017301	Novel
+19058010	Association	D007545	D008055	Novel
+19058010	Positive_Correlation	D007545	D009203	No

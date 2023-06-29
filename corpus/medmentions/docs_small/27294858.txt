@@ -1,0 +1,63 @@
+27294858|t|Accuracy of Currently Used Paper Burn Diagram vs a Three-Dimensional Computerized Model
+27294858|a|Burn units have historically used paper diagrams to estimate percent burn; however, unintentional errors can occur. The use of a computer program that incorporates wound mapping from photographs onto a three-dimensional (3D) human diagram could decrease subjectivity in preparing burn diagrams and subsequent calculations of TBSA burned. Analyses were done on 19 burned patients who had an estimated TBSA burned of ≥20%. The patients were admitted to Shriners Hospitals for Children or the University of Texas Medical Branch in Galveston, Texas, from July 2012 to September 2013 for treatment. Digital photographs were collected before the patient's first surgery. Using BurnCase 3D (RISC Software GmbH, Hagenberg, Austria), a burn mapping software, the user traced partial- and full-thickness burns from photographs. The program then superimposed tracings onto a 3D model and calculated percent burned. The results were compared with the Lund and Browder diagrams completed after the first operation. A two-tailed t-test was used to calculate statistical differences. For partial-thickness burns, burn sizes calculated using Lund and Browder diagrams were significantly larger than those calculated using BurnCase 3D (15% difference, P < .01). The opposite was found for full-thickness burns, with burn sizes being smaller when calculated using Lund and Browder diagrams (11% difference, P < .05). In conclusion, substantial differences exist in percent burn estimations derived from BurnCase 3D and paper diagram s. In our studied cohort, paper diagram s were associated with overestimation of partial-thickness burn size and underestimation of full-thickness burn size. Additional studies comparing BurnCase 3D with other commonly used methods are warranted.
+27294858	33	37	Burn	T037	UMLS:C0006434
+27294858	38	45	Diagram	T170	UMLS:C0681494
+27294858	51	68	Three-Dimensional	T082	UMLS:C0450363
+27294858	88	98	Burn units	T092	UMLS:C0006425
+27294858	128	136	diagrams	T170	UMLS:C0681494
+27294858	157	161	burn	T037	UMLS:C0006434
+27294858	217	233	computer program	T170	UMLS:C0037585
+27294858	252	257	wound	T037	UMLS:C0043250
+27294858	290	307	three-dimensional	T082	UMLS:C0450363
+27294858	309	311	3D	T082	UMLS:C0450363
+27294858	313	318	human	T204	UMLS:C0086418
+27294858	319	326	diagram	T170	UMLS:C0681494
+27294858	368	372	burn	T037	UMLS:C0006434
+27294858	373	381	diagrams	T170	UMLS:C0681494
+27294858	418	424	burned	T037	UMLS:C0006434
+27294858	426	434	Analyses	T062	UMLS:C0936012
+27294858	451	457	burned	T037	UMLS:C0006434
+27294858	493	499	burned	T037	UMLS:C0006434
+27294858	527	535	admitted	T058	UMLS:C0184666
+27294858	539	557	Shriners Hospitals	T092	UMLS:C0019994
+27294858	616	632	Galveston, Texas	T082	UMLS:C3830054
+27294858	671	680	treatment	T058	UMLS:C0087111
+27294858	744	751	surgery	T058	UMLS:C0543467
+27294858	759	770	BurnCase 3D	T170	UMLS:C0282574
+27294858	772	790	RISC Software GmbH	T092	UMLS:C0683757
+27294858	803	810	Austria	T082	UMLS:C0004348
+27294858	815	819	burn	T037	UMLS:C0006434
+27294858	828	836	software	T170	UMLS:C0037585
+27294858	842	846	user	T098	UMLS:C1706077
+27294858	882	887	burns	T037	UMLS:C0006434
+27294858	910	917	program	T170	UMLS:C0037585
+27294858	952	954	3D	T082	UMLS:C0450363
+27294858	984	990	burned	T037	UMLS:C0006434
+27294858	1027	1052	Lund and Browder diagrams	T170	UMLS:C0681494
+27294858	1079	1088	operation	T058	UMLS:C0543467
+27294858	1092	1109	two-tailed t-test	T170	UMLS:C0871472
+27294858	1179	1184	burns	T037	UMLS:C0006434
+27294858	1186	1190	burn	T037	UMLS:C0006434
+27294858	1191	1196	sizes	T082	UMLS:C0456389
+27294858	1214	1239	Lund and Browder diagrams	T170	UMLS:C0681494
+27294858	1294	1305	BurnCase 3D	T170	UMLS:C0282574
+27294858	1337	1345	opposite	T082	UMLS:C1521805
+27294858	1375	1380	burns	T037	UMLS:C0006434
+27294858	1387	1391	burn	T037	UMLS:C0006434
+27294858	1392	1397	sizes	T082	UMLS:C0456389
+27294858	1434	1459	Lund and Browder diagrams	T170	UMLS:C0681494
+27294858	1543	1547	burn	T037	UMLS:C0006434
+27294858	1548	1559	estimations	T038	UMLS:C0680844
+27294858	1573	1584	BurnCase 3D	T170	UMLS:C0282574
+27294858	1595	1602	diagram	T170	UMLS:C0681494
+27294858	1613	1627	studied cohort	T098	UMLS:C0599755
+27294858	1635	1642	diagram	T170	UMLS:C0681494
+27294858	1666	1680	overestimation	T038	UMLS:C0680844
+27294858	1702	1706	burn	T037	UMLS:C0006434
+27294858	1707	1711	size	T082	UMLS:C0456389
+27294858	1716	1731	underestimation	T038	UMLS:C0680844
+27294858	1750	1754	burn	T037	UMLS:C0006434
+27294858	1755	1759	size	T082	UMLS:C0456389
+27294858	1772	1779	studies	T062	UMLS:C2603343
+27294858	1790	1801	BurnCase 3D	T170	UMLS:C0282574
+27294858	1827	1834	methods	T170	UMLS:C0025663

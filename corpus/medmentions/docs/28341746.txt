@@ -1,0 +1,112 @@
+28341746|t|Leveraging sequence -based faecal microbial community survey data to identify a composite biomarker for colorectal cancer
+28341746|a|Colorectal cancer (CRC) is the second leading cause of cancer-associated mortality in the USA. The faecal microbiome may provide non-invasive biomarkers of CRC and indicate transition in the adenoma-carcinoma sequence. Re-analysing raw sequence and metadata from several studies uniformly, we sought to identify a composite and generalisable microbial marker for CRC. Raw 16S rRNA gene sequence data sets from nine studies were processed with two pipelines, (1) QIIME closed reference (QIIME-CR) or (2) a strain-specific method herein termed SS-UP (Strain Select, UPARSE bioinformatics pipeline). A total of 509 samples (79 colorectal adenoma, 195 CRC and 235 controls) were analysed. Differential abundance, meta-analysis random effects regression and machine learning analyses were carried out to determine the consistency and diagnostic capabilities of potential microbial biomarkers. Definitive taxa, including Parvimonas micra ATCC 33270, Streptococcus anginosus and yet-to-be-cultured members of Proteobacteria, were frequently and significantly increased in stools from patients with CRC compared with controls across studies and had high discriminatory capacity in diagnostic classification. Microbiome -based CRC versus control classification produced an area under receiver operator characteristic (AUROC) curve of 76.6% in QIIME-CR and 80.3% in SS-UP. Combining clinical and microbiome markers gave a diagnostic AUROC of 83.3% for QIIME-CR and 91.3% for SS-UP. Despite technological differences across studies and methods, key microbial markers emerged as important in classifying CRC cases and such could be used in a universal diagnostic for the disease. The choice of bioinformatics pipeline influenced accuracy of classification. Strain - resolved microbial markers might prove crucial in providing a microbial diagnostic for CRC.
+28341746	0	10	Leveraging	T169	C0457083
+28341746	11	19	sequence	T086	C0004793
+28341746	27	33	faecal	T031	C0015733
+28341746	34	53	microbial community	T001	C1956108
+28341746	54	60	survey	T170	C0038951
+28341746	61	65	data	T078	C1511726
+28341746	69	77	identify	T080	C0205396
+28341746	80	89	composite	T080	C0205199
+28341746	90	99	biomarker	T201	C0005516
+28341746	104	121	colorectal cancer	T191	C1527249
+28341746	122	139	Colorectal cancer	T191	C1527249
+28341746	141	144	CRC	T191	C1527249
+28341746	168	173	cause	T078	C0085978
+28341746	177	204	cancer-associated mortality	T081	C1516192
+28341746	212	215	USA	T083	C0041703
+28341746	221	227	faecal	T031	C0015733
+28341746	228	238	microbiome	T001	C1956108
+28341746	251	263	non-invasive	T169	C0205303
+28341746	264	274	biomarkers	T201	C0005516
+28341746	278	281	CRC	T191	C1527249
+28341746	295	305	transition	T049	C0599156
+28341746	313	330	adenoma-carcinoma	T191	C0001418
+28341746	331	339	sequence	T086	C0004793
+28341746	341	353	Re-analysing	T062	C0936012
+28341746	354	357	raw	T080	C1709843
+28341746	358	366	sequence	T086	C0004793
+28341746	371	379	metadata	T170	C1708992
+28341746	393	400	studies	T059	C0947630
+28341746	425	433	identify	T080	C0205396
+28341746	436	445	composite	T080	C0205199
+28341746	464	480	microbial marker	T201	C0005516
+28341746	485	488	CRC	T191	C1527249
+28341746	490	493	Raw	T080	C1709843
+28341746	494	502	16S rRNA	T114	C3537372
+28341746	503	526	gene sequence data sets	T170	C0026382
+28341746	537	544	studies	T059	C0947630
+28341746	550	559	processed	T067	C1522240
+28341746	569	578	pipelines	T073,T170	C0037585
+28341746	584	606	QIIME closed reference	T073,T170	C0037585
+28341746	608	616	QIIME-CR	T073,T170	C0037585
+28341746	627	649	strain-specific method	T170	C0025663
+28341746	664	669	SS-UP	T073,T170	C0037585
+28341746	671	716	Strain Select, UPARSE bioinformatics pipeline	T073,T170	C0037585
+28341746	734	741	samples	T077	C2347026
+28341746	746	764	colorectal adenoma	T191	C1527249
+28341746	770	773	CRC	T191	C1527249
+28341746	782	790	controls	T096	C0009932
+28341746	797	805	analysed	T062	C0936012
+28341746	807	829	Differential abundance	T062	C0936012
+28341746	831	844	meta-analysis	T062	C0920317
+28341746	845	851	random	T080	C0439605
+28341746	852	859	effects	T080	C1280500
+28341746	860	870	regression	T170	C0034980
+28341746	875	891	machine learning	T066	C0376284
+28341746	892	900	analyses	T062	C0936012
+28341746	935	946	consistency	T080	C0332529
+28341746	951	961	diagnostic	T169	C0348026
+28341746	962	974	capabilities	T080	C2698977
+28341746	978	987	potential	T080	C3245505
+28341746	988	1008	microbial biomarkers	T201	C0005516
+28341746	1021	1025	taxa	T077	C1515221
+28341746	1037	1064	Parvimonas micra ATCC 33270	T007	C0317944
+28341746	1066	1089	Streptococcus anginosus	T007	C0318147
+28341746	1124	1138	Proteobacteria	T007	C0751985
+28341746	1145	1155	frequently	T079	C0332183
+28341746	1160	1173	significantly	T078	C0750502
+28341746	1174	1183	increased	T081	C0205217
+28341746	1187	1193	stools	T031	C0015733
+28341746	1199	1207	patients	T101	C0030705
+28341746	1213	1216	CRC	T191	C1527249
+28341746	1217	1225	compared	T052	C1707455
+28341746	1231	1239	controls	T096	C0009932
+28341746	1247	1254	studies	T062	C0008972
+28341746	1268	1282	discriminatory	T080	C0205235
+28341746	1283	1291	capacity	T081	C1516240
+28341746	1295	1320	diagnostic classification	T170	C0683327
+28341746	1322	1332	Microbiome	T001	C1956108
+28341746	1340	1343	CRC	T191	C1527249
+28341746	1351	1358	control	T096	C0009932
+28341746	1359	1373	classification	T185	C0008902
+28341746	1386	1396	area under	T081	C0376690
+28341746	1397	1443	receiver operator characteristic (AUROC) curve	T081	C0035787
+28341746	1456	1464	QIIME-CR	T073,T170	C0037585
+28341746	1478	1483	SS-UP	T073,T170	C0037585
+28341746	1485	1494	Combining	T080	C0205195
+28341746	1495	1503	clinical	T080	C0008963
+28341746	1508	1526	microbiome markers	T201	C0005516
+28341746	1534	1544	diagnostic	T169	C0348026
+28341746	1545	1550	AUROC	T081	C0035787
+28341746	1564	1572	QIIME-CR	T073,T170	C0037585
+28341746	1587	1592	SS-UP	T073,T170	C0037585
+28341746	1602	1627	technological differences	T170	C0683889
+28341746	1635	1642	studies	T062	C0008972
+28341746	1647	1654	methods	T170	C0025663
+28341746	1660	1677	microbial markers	T201	C0005516
+28341746	1714	1717	CRC	T191	C1527249
+28341746	1718	1723	cases	T077	C1706256
+28341746	1762	1772	diagnostic	T169	C0348026
+28341746	1781	1788	disease	T047	C0012634
+28341746	1804	1818	bioinformatics	T091	C1140694
+28341746	1819	1827	pipeline	T073,T170	C0037585
+28341746	1828	1838	influenced	T077	C4054723
+28341746	1839	1847	accuracy	T080	C0443131
+28341746	1851	1865	classification	T185	C0008902
+28341746	1867	1873	Strain	T001	C1518614
+28341746	1876	1884	resolved	T033	C3714811
+28341746	1885	1902	microbial markers	T201	C0005516
+28341746	1938	1947	microbial	T001	C0599840
+28341746	1948	1958	diagnostic	T169	C0348026
+28341746	1963	1966	CRC	T191	C1527249

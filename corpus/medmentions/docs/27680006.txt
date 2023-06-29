@@ -1,0 +1,81 @@
+27680006|t|Hematological, biochemical, and toxicopathic effects of subchronic acetamiprid toxicity in Wistar rats
+27680006|a|Acetamiprid is one of the most widely used neonicotinoids. This study investigates toxic effects of repeated oral administration of three doses of acetamiprid (1/20, 1/10, and 1/5 of LD50) during 60 days. For this, male Wistar rats were divided into four different groups. Hematological, biochemical, and toxicopathic effects of acetamiprid were evaluated. According to the results, a significant decrease in the body weight gain at the highest dose 1/5 of LD50 of acetamiprid was noticed. An increase in the relative liver weight was also observed at this dose level. The hematological constituents were affected. A significant decrease in RBC, HGB, and HCT in rats treated with higher doses of acetamiprid (1/10 and 1/5 of LD50) was noted. However, a significant increase in WBC and PLT were observed at the same doses. Furthermore, acetamiprid induced liver toxicity measured by the increased activities of aspartate aminotransferase (AST), alanine aminotransferase (ALT), alkaline phosphates (ALPs), and lactate dehydrogenase (LDH) which may be due to the loss of hepatic membrane architecture and hepatocellular damage. In addition, exposure to acetamiprid resulted in a significant decrease in the levels of superoxide dismutase and catalase activities (p ≤ 0.01) with concomitant increase in lipid peroxidation in rat liver. These findings highlight the subchronic hepatotoxicity of acetamiprid.
+27680006	0	13	Hematological	T033	C0243095
+27680006	15	26	biochemical	T033	C0243095
+27680006	32	52	toxicopathic effects	T033	C0243095
+27680006	56	66	subchronic	T080	C4053983
+27680006	67	78	acetamiprid	T109	C1142891
+27680006	79	87	toxicity	T037	C0600688
+27680006	91	102	Wistar rats	T015	C0034716
+27680006	103	114	Acetamiprid	T109	C1142891
+27680006	146	160	neonicotinoids	T131	C1997222
+27680006	173	185	investigates	T169	C1292732
+27680006	186	199	toxic effects	T037	C0600688
+27680006	212	231	oral administration	T169	C1527415
+27680006	241	246	doses	T081	C0178602
+27680006	250	261	acetamiprid	T109	C1142891
+27680006	286	290	LD50	T081	C0023378
+27680006	302	306	days	T079	C0439228
+27680006	318	322	male	T032	C0086582
+27680006	323	334	Wistar rats	T015	C0034716
+27680006	368	374	groups	T078	C0441833
+27680006	376	389	Hematological	T033	C0243095
+27680006	391	402	biochemical	T033	C0243095
+27680006	408	428	toxicopathic effects	T033	C0243095
+27680006	432	443	acetamiprid	T109	C1142891
+27680006	449	458	evaluated	T058	C0220825
+27680006	500	508	decrease	T081	C0547047
+27680006	516	532	body weight gain	T033	C0043094
+27680006	548	552	dose	T081	C0178602
+27680006	560	564	LD50	T081	C0023378
+27680006	568	579	acetamiprid	T109	C1142891
+27680006	596	604	increase	T169	C0442805
+27680006	621	626	liver	T023	C0023884
+27680006	627	633	weight	T081	C0043100
+27680006	660	664	dose	T081	C0178602
+27680006	665	670	level	T080	C0441889
+27680006	676	702	hematological constituents	T167	C0729650
+27680006	732	740	decrease	T081	C0547047
+27680006	744	747	RBC	T025	C0014792
+27680006	749	752	HGB	T116,T123	C0019046
+27680006	758	761	HCT	T033	C0518014
+27680006	765	769	rats	T015	C0034716
+27680006	770	777	treated	T169	C1522326
+27680006	790	795	doses	T081	C0178602
+27680006	799	810	acetamiprid	T109	C1142891
+27680006	828	832	LD50	T081	C0023378
+27680006	868	876	increase	T169	C0442805
+27680006	880	883	WBC	T025	C0023516
+27680006	888	891	PLT	T025	C0005821
+27680006	918	923	doses	T081	C0178602
+27680006	938	949	acetamiprid	T109	C1142891
+27680006	950	972	induced liver toxicity	T047	C4279912
+27680006	989	998	increased	T081	C0205217
+27680006	999	1009	activities	T044	C0243102
+27680006	1013	1039	aspartate aminotransferase	T116,T126	C0004002
+27680006	1041	1044	AST	T116,T126	C0004002
+27680006	1047	1071	alanine aminotransferase	T116,T126	C0001899
+27680006	1073	1076	ALT	T116,T126	C0001899
+27680006	1079	1098	alkaline phosphates	T116,T126	C0002059
+27680006	1100	1104	ALPs	T116,T126	C0002059
+27680006	1111	1132	lactate dehydrogenase	T116,T126	C0022917
+27680006	1134	1137	LDH	T116,T126	C0022917
+27680006	1163	1167	loss	T081	C1517945
+27680006	1171	1200	hepatic membrane architecture	T026	C2331083
+27680006	1205	1226	hepatocellular damage	T046	C0151763
+27680006	1241	1252	exposure to	T080	C0332157
+27680006	1253	1264	acetamiprid	T109	C1142891
+27680006	1291	1299	decrease	T081	C0547047
+27680006	1307	1313	levels	T080	C0441889
+27680006	1317	1337	superoxide dismutase	T116,T121,T126	C0038838
+27680006	1342	1350	catalase	T116,T126	C0007367
+27680006	1351	1361	activities	T044	C0243102
+27680006	1378	1389	concomitant	T079	C0521115
+27680006	1390	1398	increase	T169	C0442805
+27680006	1402	1420	lipid peroxidation	T044	C0023775
+27680006	1424	1427	rat	T015	C0034716
+27680006	1428	1433	liver	T023	C0023884
+27680006	1441	1449	findings	T033	C0243095
+27680006	1464	1474	subchronic	T080	C4053983
+27680006	1475	1489	hepatotoxicity	T037	C0235378
+27680006	1493	1504	acetamiprid	T109	C1142891

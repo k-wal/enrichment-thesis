@@ -1,0 +1,35 @@
+21054465|t|Mutational analysis of CYP2C8 in hypertensive patients using denaturing high performance liquid chromatography.
+21054465|a|WHAT IS KNOWN AND OBJECTIVE: CYP2C8 is involved in the cytochrome P450 (CYP) epoxygenase pathway. Arachidonic acid metabolites such as epoxyeicosatrienenoic acids and hydroxyeicosatetrenoic acids, produced may have a role in hypertension. We aimed to develop a medium through-put method for screening samples of known and new mutations of CYP2C8 using denaturing high performance liquid chromatography (DHPLC). METHODS: DNA samples from 200 subjects (hypertensive patients and healthy controls) were screened for SNPs in CYP2C8 using DHPLC. Genotypes and allelic frequencies of CYP2C8 between the healthy controls and patients with hypertension were compared. RESULTS AND DISCUSSIONS: Six variants were detected and two were new; T deletion at 5063 and substitution of C to T at 33468 in exon 8. Differences in variant frequencies were detected between the controls and hypertensive patients. The controls have significantly higher prevalence of C35322C compared to the patients. The functional significance of the SNP at 35322 requires further study. Having homozygous C35322C could be a protective factor for hypertension. WHAT IS NEW AND CONCLUSION: Denaturing high performance liquid chromatography is useful for population screening to identify new and existing SNPs. A higher frequency of the C35322T SNP was observed among hypertensive patients than control subjects. This potentially important observation requires confirmation and the clinical significance assessed.
+21054465	23	29	CYP2C8	GeneOrGeneProduct	1558
+21054465	33	45	hypertensive	DiseaseOrPhenotypicFeature	D006973
+21054465	46	54	patients	OrganismTaxon	9606
+21054465	141	147	CYP2C8	GeneOrGeneProduct	1558
+21054465	167	200	cytochrome P450 (CYP) epoxygenase	GeneOrGeneProduct	1558
+21054465	210	226	Arachidonic acid	ChemicalEntity	D016718
+21054465	247	274	epoxyeicosatrienenoic acids	ChemicalEntity	-
+21054465	279	307	hydroxyeicosatetrenoic acids	ChemicalEntity	-
+21054465	337	349	hypertension	DiseaseOrPhenotypicFeature	D006973
+21054465	451	457	CYP2C8	GeneOrGeneProduct	1558
+21054465	563	575	hypertensive	DiseaseOrPhenotypicFeature	D006973
+21054465	576	584	patients	OrganismTaxon	9606
+21054465	633	639	CYP2C8	GeneOrGeneProduct	1558
+21054465	690	696	CYP2C8	GeneOrGeneProduct	1558
+21054465	730	738	patients	OrganismTaxon	9606
+21054465	744	756	hypertension	DiseaseOrPhenotypicFeature	D006973
+21054465	842	860	T deletion at 5063	SequenceVariant	c|DEL|5063|T
+21054465	881	896	C to T at 33468	SequenceVariant	c|SUB|C|33468|T
+21054465	982	994	hypertensive	DiseaseOrPhenotypicFeature	D006973
+21054465	995	1003	patients	OrganismTaxon	9606
+21054465	1058	1065	C35322C	SequenceVariant	c|SUB|C|35322|C
+21054465	1082	1090	patients	OrganismTaxon	9606
+21054465	1182	1189	C35322C	SequenceVariant	c|SUB|C|35322|C
+21054465	1223	1235	hypertension	DiseaseOrPhenotypicFeature	D006973
+21054465	1411	1418	C35322T	SequenceVariant	c|SUB|C|35322|T
+21054465	1442	1454	hypertensive	DiseaseOrPhenotypicFeature	D006973
+21054465	1455	1463	patients	OrganismTaxon	9606
+21054465	Association	1558	D006973	Novel
+21054465	Association	D016718	D006973	No
+21054465	Positive_Correlation	c|SUB|C|35322|T	D006973	Novel
+21054465	Association	c|SUB|C|33468|T	D006973	Novel
+21054465	Association	D006973	c|SUB|C|35322|C	Novel
+21054465	Association	c|DEL|5063|T	D006973	Novel

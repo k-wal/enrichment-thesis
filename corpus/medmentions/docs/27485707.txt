@@ -1,0 +1,91 @@
+27485707|t|The role of IGF-1 and the distribution of body fat in decreasing the number of prostate rebiopsies
+27485707|a|To assess the usefulness of IGF-1 and internal organ fat measured by bioelectrical impedance audiometry to avoid rebiopsies in patients with persistently high prostate-specific antigen (PSA) levels. A prospective study was conducted with 92 patients who underwent prostate rebiopsy due to high PSA levels with negative results in the rectal examination and a lack of preneoplastic lesions. The patients previously had their IGF-1 levels measured and had undergone an impedance audiometry test using the abdominal Fat Analyser AB-140 TANITA system. We calculated the receiver operating characteristic (ROC) curves for the PSA levels, % PSA, internal organ fat and IGF-1 and PSA density. Twenty-five patients were diagnosed with prostate cancer. These patients had significantly higher PSA, PSAd and IGF-1 values and a tendency towards higher internal organ fat levels and lower % PSA readings (p=.001, p=.003, p=.001, p=.24 and P=0.28, respectively). The ROC curve showed an area under the curve for IGF-1 and PSA of .82 and .81, respectively. Using the cutoff points for 95% sensitivity and using the 3 criteria as an indication of rebiopsy, 74% of the biopsies would have been spared, leaving undiagnosed only 1 patient with clinically significant cancer - Gleason score >7 (4+3)-. The positive and negative predictive values for the set of variables were higher than for each one separately (PPV: 66/NPV: 63). The cost of both determinations was 82 euros. Our results suggest that measuring IGF-1 could significantly decrease the number of unnecessary rebiopsies in an inexpensive and safe manner.
+27485707	4	8	role	T077	C1705810
+27485707	12	17	IGF-1	T116,T123	C0021665
+27485707	26	38	distribution	T169	C1704711
+27485707	42	50	body fat	T201	C0344335
+27485707	54	64	decreasing	T033	C0442797
+27485707	69	75	number	T081	C0449788
+27485707	79	98	prostate rebiopsies	T060	C0194804
+27485707	102	108	assess	T052	C1516048
+27485707	113	123	usefulness	T080	C3827682
+27485707	127	132	IGF-1	T116,T123	C0021665
+27485707	137	155	internal organ fat	T201	C0344335
+27485707	156	164	measured	T080	C0444706
+27485707	168	191	bioelectrical impedance	T039	C0162536
+27485707	192	202	audiometry	T060	C0004286
+27485707	212	222	rebiopsies	T060	C0005558
+27485707	226	234	patients	T101	C0030705
+27485707	240	252	persistently	T078	C0750508
+27485707	253	296	high prostate-specific antigen (PSA) levels	T033	C4293696
+27485707	300	317	prospective study	T062	C0033522
+27485707	340	348	patients	T101	C0030705
+27485707	363	380	prostate rebiopsy	T060	C0194804
+27485707	409	425	negative results	T033	C1334932
+27485707	433	451	rectal examination	T060	C0199900
+27485707	458	462	lack	T080	C0332268
+27485707	466	479	preneoplastic	T191	C0282313
+27485707	480	487	lesions	T033	C0221198
+27485707	493	501	patients	T101	C0030705
+27485707	523	528	IGF-1	T116,T123	C0021665
+27485707	529	535	levels	T080	C0441889
+27485707	536	544	measured	T080	C0444706
+27485707	566	591	impedance audiometry test	T060	C0001161
+27485707	602	611	abdominal	T029	C0000726
+27485707	612	645	Fat Analyser AB-140 TANITA system	T074	C0025080
+27485707	650	660	calculated	T052	C1441506
+27485707	665	711	receiver operating characteristic (ROC) curves	T081	C0035787
+27485707	720	730	PSA levels	T034	C0428540
+27485707	734	737	PSA	T116,T126,T129	C0138741
+27485707	739	757	internal organ fat	T201	C0344335
+27485707	762	767	IGF-1	T116,T123	C0021665
+27485707	772	775	PSA	T116,T126,T129	C0138741
+27485707	776	783	density	T081	C0178587
+27485707	797	805	patients	T101	C0030705
+27485707	811	820	diagnosed	T033	C0011900
+27485707	826	841	prostate cancer	T191	C0600139
+27485707	849	857	patients	T101	C0030705
+27485707	862	882	significantly higher	T081	C4055637
+27485707	883	886	PSA	T116,T126,T129	C0138741
+27485707	888	892	PSAd	T116,T126,T129	C0138741
+27485707	897	902	IGF-1	T116,T123	C0021665
+27485707	903	909	values	T080	C0042295
+27485707	933	939	higher	T080	C0205250
+27485707	940	958	internal organ fat	T201	C0344335
+27485707	959	965	levels	T080	C0441889
+27485707	970	975	lower	T082	C0441994
+27485707	978	981	PSA	T116,T126,T129	C0138741
+27485707	982	990	readings	T077	C1705179
+27485707	1053	1062	ROC curve	T081	C0035787
+27485707	1073	1077	area	T082	C0205146
+27485707	1088	1093	curve	T081	C0035787
+27485707	1098	1103	IGF-1	T116,T123	C0021665
+27485707	1108	1111	PSA	T116,T126,T129	C0138741
+27485707	1152	1158	cutoff	T169	C1442160
+27485707	1159	1165	points	T081	C1552961
+27485707	1174	1185	sensitivity	T081	C0036667
+27485707	1202	1210	criteria	T078	C0243161
+27485707	1217	1230	indication of	T078	C0392360
+27485707	1231	1239	rebiopsy	T060	C0005558
+27485707	1252	1260	biopsies	T060	C0005558
+27485707	1293	1304	undiagnosed	T033	C1408353
+27485707	1312	1319	patient	T101	C0030705
+27485707	1325	1335	clinically	T080	C0205210
+27485707	1336	1347	significant	T078	C0750502
+27485707	1348	1354	cancer	T191	C0006826
+27485707	1357	1370	Gleason score	T033	C3203027
+27485707	1386	1394	positive	T081	C1514243
+27485707	1399	1425	negative predictive values	T081	C1513918
+27485707	1434	1437	set	T077	C1705195
+27485707	1441	1450	variables	T081	C1705098
+27485707	1456	1467	higher than	T081	C0439093
+27485707	1515	1519	cost	T081	C0010186
+27485707	1528	1542	determinations	T059	C1148554
+27485707	1550	1555	euros	T081	C1533125
+27485707	1561	1568	results	T169	C1274040
+27485707	1582	1591	measuring	T080	C0444706
+27485707	1592	1597	IGF-1	T116,T123	C0021665
+27485707	1604	1626	significantly decrease	T081	C4055638
+27485707	1631	1637	number	T081	C0449788
+27485707	1641	1652	unnecessary	T058	C0376708
+27485707	1653	1663	rebiopsies	T060	C0005558

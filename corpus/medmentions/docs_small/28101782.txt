@@ -1,0 +1,67 @@
+28101782|t|The antineoplastic drug, trastuzumab, dysregulates metabolism in iPSC -derived cardiomyocytes
+28101782|a|The targeted ERBB2 therapy, trastuzumab, has had a tremendous impact on management of patients with HER2+ breast cancer, leading to development and increased use of further HER2 targeted therapies. The major clinical side effect is cardiotoxicity but the mechanism is largely unknown. On the basis that gene expression is known to be altered in multiple models of heart failure, we examined differential gene expression of iPSC -derived cardiomyocytes treated at day 11 with the ERBB2 targeted monoclonal antibody, trastuzumab for 48 h and the small molecule tyrosine kinase inhibitor of EGFR and ERBB2. Transcriptome sequencing was performed on four replicates from each group (48 h untreated, 48 h trastuzumab and 48 h lapatinib) and differential gene expression analyses were performed on each treatment group relative to untreated cardiomyocytes. 517 and 1358 genes were differentially expressed, p < 0.05, respectively in cardiomyocytes treated with trastuzumab and lapatinib. Gene ontology analyses revealed in cardiomyocytes treated with trastuzumab, significant down-regulation of genes involved in small molecule metabolism (p = 3.22 �— 10(-9)) and cholesterol (p = 0.01) and sterol (p = 0.03) processing. We next measured glucose uptake and lactate production in iPSC -derived cardiomyocytes 13 days post-plating, treated with trastuzumab up to 96 h. We observed significantly decreased glucose uptake from the media of iPSC -derived cardiomyocytes treated with trastuzumab as early as 24 h (p = 0.001) and consistently up to 96 h (p = 0.03). Our study suggests dysregulation of cardiac gene expression and metabolism as key elements of ERBB2 signaling that could potentially be early biomarkers of cardiotoxicity.
+28101782	4	23	antineoplastic drug	T103	UMLS:C0003392
+28101782	25	36	trastuzumab	T103	UMLS:C0728747
+28101782	38	50	dysregulates	T033	UMLS:C0243095
+28101782	51	61	metabolism	T038	UMLS:C0025519
+28101782	65	69	iPSC	T017	UMLS:C2717959
+28101782	79	93	cardiomyocytes	T017	UMLS:C0225828
+28101782	98	120	targeted ERBB2 therapy	T058	UMLS:C2985566
+28101782	122	133	trastuzumab	T103	UMLS:C0728747
+28101782	166	176	management	T058	UMLS:C0376636
+28101782	194	213	HER2+ breast cancer	T038	UMLS:C1960398
+28101782	267	271	HER2	T103	UMLS:C0069515
+28101782	272	290	targeted therapies	T058	UMLS:C2985566
+28101782	311	322	side effect	T038	UMLS:C0879626
+28101782	326	340	cardiotoxicity	T037	UMLS:C0876994
+28101782	397	412	gene expression	T038	UMLS:C0017262
+28101782	448	454	models	T170	UMLS:C0026343
+28101782	458	471	heart failure	T038	UMLS:C0018801
+28101782	485	513	differential gene expression	T038	UMLS:C1519516
+28101782	517	521	iPSC	T017	UMLS:C2717959
+28101782	531	545	cardiomyocytes	T017	UMLS:C0225828
+28101782	573	578	ERBB2	T103	UMLS:C1702024
+28101782	588	607	monoclonal antibody	T103	UMLS:C0003250
+28101782	609	620	trastuzumab	T103	UMLS:C0728747
+28101782	638	678	small molecule tyrosine kinase inhibitor	T103	UMLS:C1268567
+28101782	682	686	EGFR	T103	UMLS:C0034802
+28101782	691	696	ERBB2	T103	UMLS:C1702024
+28101782	698	722	Transcriptome sequencing	T058	UMLS:C4086963
+28101782	794	805	trastuzumab	T103	UMLS:C0728747
+28101782	815	824	lapatinib	T103	UMLS:C1506770
+28101782	830	858	differential gene expression	T038	UMLS:C1519516
+28101782	859	867	analyses	T062	UMLS:C0936012
+28101782	929	943	cardiomyocytes	T017	UMLS:C0225828
+28101782	958	963	genes	T017	UMLS:C0017337
+28101782	969	993	differentially expressed	T038	UMLS:C0017262
+28101782	1021	1035	cardiomyocytes	T017	UMLS:C0225828
+28101782	1049	1060	trastuzumab	T103	UMLS:C0728747
+28101782	1065	1074	lapatinib	T103	UMLS:C1506770
+28101782	1076	1089	Gene ontology	T170	UMLS:C1138831
+28101782	1090	1098	analyses	T062	UMLS:C0936012
+28101782	1111	1125	cardiomyocytes	T017	UMLS:C0225828
+28101782	1139	1150	trastuzumab	T103	UMLS:C0728747
+28101782	1164	1179	down-regulation	T038	UMLS:C0013081
+28101782	1183	1188	genes	T017	UMLS:C0017337
+28101782	1201	1226	small molecule metabolism	T038	UMLS:C2752534
+28101782	1252	1263	cholesterol	T103	UMLS:C0008377
+28101782	1279	1285	sterol	T103	UMLS:C0038323
+28101782	1326	1340	glucose uptake	T038	UMLS:C1159527
+28101782	1345	1352	lactate	T103	UMLS:C0376261
+28101782	1367	1371	iPSC	T017	UMLS:C2717959
+28101782	1381	1395	cardiomyocytes	T017	UMLS:C0225828
+28101782	1431	1442	trastuzumab	T103	UMLS:C0728747
+28101782	1491	1505	glucose uptake	T038	UMLS:C1159527
+28101782	1515	1520	media	T103	UMLS:C0010454
+28101782	1524	1528	iPSC	T017	UMLS:C2717959
+28101782	1538	1552	cardiomyocytes	T017	UMLS:C0225828
+28101782	1566	1577	trastuzumab	T103	UMLS:C0728747
+28101782	1651	1656	study	T062	UMLS:C2603343
+28101782	1666	1679	dysregulation	T033	UMLS:C0243095
+28101782	1683	1690	cardiac	T017	UMLS:C0018787
+28101782	1691	1706	gene expression	T038	UMLS:C0017262
+28101782	1711	1721	metabolism	T038	UMLS:C0025519
+28101782	1741	1746	ERBB2	T017	UMLS:C0242957
+28101782	1747	1756	signaling	T038	UMLS:C0037080
+28101782	1789	1799	biomarkers	T201	UMLS:C0005516
+28101782	1803	1817	cardiotoxicity	T037	UMLS:C0876994

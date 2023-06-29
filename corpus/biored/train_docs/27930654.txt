@@ -1,0 +1,55 @@
+27930654|t|Whole-Organism Developmental Expression Profiling Identifies RAB-28 as a Novel Ciliary GTPase Associated with the BBSome and Intraflagellar Transport.
+27930654|a|Primary cilia are specialised sensory and developmental signalling devices extending from the surface of most eukaryotic cells. Defects in these organelles cause inherited human disorders (ciliopathies) such as retinitis pigmentosa and Bardet-Biedl syndrome (BBS), frequently affecting many physiological and developmental processes across multiple organs. Cilium formation, maintenance and function depend on intracellular transport systems such as intraflagellar transport (IFT), which is driven by kinesin-2 and IFT-dynein motors and regulated by the Bardet-Biedl syndrome (BBS) cargo-adaptor protein complex, or BBSome. To identify new cilium-associated genes, we employed the nematode C. elegans, where ciliogenesis occurs within a short timespan during late embryogenesis when most sensory neurons differentiate. Using whole-organism RNA-Seq libraries, we discovered a signature expression profile highly enriched for transcripts of known ciliary proteins, including FAM-161 (FAM161A orthologue), CCDC-104 (CCDC104), and RPI-1 (RP1/RP1L1), which we confirm are cilium-localised in worms. From a list of 185 candidate ciliary genes, we uncover orthologues of human MAP9, YAP, CCDC149, and RAB28 as conserved cilium-associated components. Further analyses of C. elegans RAB-28, recently associated with autosomal-recessive cone-rod dystrophy, reveal that this small GTPase is exclusively expressed in ciliated neurons where it dynamically associates with IFT trains. Whereas inactive GDP-bound RAB-28 displays no IFT movement and diffuse localisation, GTP-bound (activated) RAB-28 concentrates at the periciliary membrane in a BBSome-dependent manner and undergoes bidirectional IFT. Functional analyses reveal that whilst cilium structure, sensory function and IFT are seemingly normal in a rab-28 null allele, overexpression of predicted GDP or GTP locked variants of RAB-28 perturbs cilium and sensory pore morphogenesis and function. Collectively, our findings present a new approach for identifying ciliary proteins, and unveil RAB28, a GTPase most closely related to the BBS protein RABL4/IFT27, as an IFT-associated cargo with BBSome-dependent cell autonomous and non-autonomous functions at the ciliary base.
+27930654	61	67	RAB-28	GeneOrGeneProduct	189429
+27930654	87	93	GTPase	GeneOrGeneProduct	189429
+27930654	114	120	BBSome	GeneOrGeneProduct	260219
+27930654	313	338	inherited human disorders	DiseaseOrPhenotypicFeature	D030342
+27930654	340	352	ciliopathies	DiseaseOrPhenotypicFeature	D000072661
+27930654	362	382	retinitis pigmentosa	DiseaseOrPhenotypicFeature	D012174
+27930654	387	408	Bardet-Biedl syndrome	DiseaseOrPhenotypicFeature	D020788
+27930654	410	413	BBS	DiseaseOrPhenotypicFeature	D020788
+27930654	652	661	kinesin-2	GeneOrGeneProduct	177685
+27930654	670	676	dynein	GeneOrGeneProduct	172041
+27930654	705	762	Bardet-Biedl syndrome (BBS) cargo-adaptor protein complex	GeneOrGeneProduct	260219
+27930654	767	773	BBSome	GeneOrGeneProduct	260219
+27930654	841	851	C. elegans	OrganismTaxon	6239
+27930654	1124	1131	FAM-161	GeneOrGeneProduct	189695
+27930654	1133	1140	FAM161A	GeneOrGeneProduct	84140
+27930654	1154	1162	CCDC-104	GeneOrGeneProduct	112942
+27930654	1164	1171	CCDC104	GeneOrGeneProduct	112942
+27930654	1178	1183	RPI-1	GeneOrGeneProduct	189281
+27930654	1185	1188	RP1	GeneOrGeneProduct	6101
+27930654	1189	1194	RP1L1	GeneOrGeneProduct	94137
+27930654	1315	1320	human	OrganismTaxon	9606
+27930654	1321	1325	MAP9	GeneOrGeneProduct	79884
+27930654	1327	1330	YAP	GeneOrGeneProduct	10413
+27930654	1332	1339	CCDC149	GeneOrGeneProduct	91050
+27930654	1345	1350	RAB28	GeneOrGeneProduct	9364
+27930654	1414	1424	C. elegans	OrganismTaxon	6239
+27930654	1425	1431	RAB-28	GeneOrGeneProduct	189429
+27930654	1478	1496	cone-rod dystrophy	DiseaseOrPhenotypicFeature	D000071700
+27930654	1521	1527	GTPase	GeneOrGeneProduct	189429
+27930654	1639	1642	GDP	ChemicalEntity	D006153
+27930654	1649	1655	RAB-28	GeneOrGeneProduct	189429
+27930654	1707	1710	GTP	ChemicalEntity	D006160
+27930654	1729	1735	RAB-28	GeneOrGeneProduct	189429
+27930654	1782	1788	BBSome	GeneOrGeneProduct	260219
+27930654	1947	1953	rab-28	GeneOrGeneProduct	189429
+27930654	1995	1998	GDP	ChemicalEntity	D006153
+27930654	2002	2005	GTP	ChemicalEntity	D006160
+27930654	2025	2031	RAB-28	GeneOrGeneProduct	189429
+27930654	2188	2193	RAB28	GeneOrGeneProduct	9364
+27930654	2197	2203	GTPase	GeneOrGeneProduct	9364
+27930654	2232	2235	BBS	DiseaseOrPhenotypicFeature	D020788
+27930654	2244	2249	RABL4	GeneOrGeneProduct	11020
+27930654	2250	2255	IFT27	GeneOrGeneProduct	11020
+27930654	2289	2295	BBSome	GeneOrGeneProduct	260219
+27930654	Association	11020	D020788	No
+27930654	Association	9364	11020	No
+27930654	Association	9364	D020788	No
+27930654	Association	D006160	260219	Novel
+27930654	Bind	D006160	189429	No
+27930654	Bind	D006153	189429	No
+27930654	Association	D020788	260219	No
+27930654	Association	189429	D000071700	No
+27930654	Association	189429	260219	Novel

@@ -1,0 +1,79 @@
+27764968|t|The relationship between anthropometry and body composition from computed tomography: The Mediators of Atherosclerosis in South Asians Living in America Study
+27764968|a|Few studies examine the relationships between anthropometry and the body composition measures they approximate, or whether they differ by sex, and no studies have examined these relationships in South Asians living in the US. We conducted a cross-sectional study of 871 participants in the Mediators of Atherosclerosis in South Asians Living in America (MASALA) Study who had BMI < 40 kg/m(2) and underwent abdominal CT scans for measurement of visceral and subcutaneous fat. Linear regression was used to model the associations between anthropometric measures and naturally log-transformed body composition measures. All measures of anthropometry, except height, were significantly associated with visceral fat and had a significant non-linear component (p < .05). The only associations for visceral fat that exhibited significant heterogeneity by sex were waist circumference (% difference in visceral fat slope: women 1.92, men 2.74, p = .007 for interaction) and waist-to-hip ratio (women 25.9, men 717.4, p < .001). Except for height, all measures of anthropometry were significantly associated with subcutaneous fat, had a significant quadratic component, and significant heterogeneity by sex (weight (kg): 2.74 for women, 4.08 for men; BMI (kg/m(2)): 10.3, 14.0; waist circumference (cm): 1.51, 3.36; hip circumference (cm): 2.53, 4.50) with p < .001 for each. In MASALA participants, the relationships of anthropometric measures with visceral and subcutaneous fat appear similar to other race / ethnic groups, but with weaker non-linearity and heterogeneity by sex. Given these results, researchers should consider separate models by sex for US South Asians when approximating subcutaneous fat or when using waist circumference to approximate visceral fat.
+27764968	4	16	relationship	T080	C0439849
+27764968	25	38	anthropometry	T062	C0003188
+27764968	43	59	body composition	T032	C0005885
+27764968	65	84	computed tomography	T060	C0040405
+27764968	103	118	Atherosclerosis	T047	C0004153
+27764968	122	134	South Asians	T098	C1519427
+27764968	135	141	Living	T078	C0376558
+27764968	145	152	America	T083	C0002454
+27764968	183	196	relationships	T080	C0439849
+27764968	205	218	anthropometry	T062	C0003188
+27764968	227	243	body composition	T032	C0005885
+27764968	297	300	sex	T032	C1522384
+27764968	337	350	relationships	T080	C0439849
+27764968	354	366	South Asians	T098	C1519427
+27764968	381	383	US	T083	C0041703
+27764968	400	421	cross-sectional study	T062	C0010362
+27764968	429	441	participants	T098	C0679646
+27764968	462	477	Atherosclerosis	T047	C0004153
+27764968	481	493	South Asians	T098	C1519427
+27764968	494	500	Living	T078	C0376558
+27764968	504	511	America	T083	C0002454
+27764968	512	526	(MASALA) Study	T062	C2603343
+27764968	535	538	BMI	T201	C1305855
+27764968	566	584	abdominal CT scans	T060	C0412620
+27764968	589	600	measurement	T169	C0242485
+27764968	604	612	visceral	T024	C1563740
+27764968	617	633	subcutaneous fat	T024	C0222331
+27764968	635	652	Linear regression	T081	C0023733
+27764968	665	670	model	T170	C3161035
+27764968	696	719	anthropometric measures	T170	C2598146
+27764968	750	766	body composition	T032	C0005885
+27764968	793	806	anthropometry	T062	C0003188
+27764968	815	821	height	T032	C0005890
+27764968	842	857	associated with	T080	C0332281
+27764968	858	870	visceral fat	T024	C1563740
+27764968	881	892	significant	T078	C0750502
+27764968	951	963	visceral fat	T024	C1563740
+27764968	979	990	significant	T078	C0750502
+27764968	991	1004	heterogeneity	T080	C0019409
+27764968	1008	1011	sex	T032	C1522384
+27764968	1017	1036	waist circumference	T201	C0455829
+27764968	1054	1066	visceral fat	T024	C1563740
+27764968	1074	1079	women	T098	C0043210
+27764968	1086	1089	men	T098	C0025266
+27764968	1126	1144	waist-to-hip ratio	T032	C0205682
+27764968	1146	1151	women	T098	C0043210
+27764968	1158	1161	men	T098	C0025266
+27764968	1191	1197	height	T032	C0005890
+27764968	1215	1228	anthropometry	T062	C0003188
+27764968	1248	1263	associated with	T080	C0332281
+27764968	1264	1280	subcutaneous fat	T024	C0222331
+27764968	1288	1299	significant	T078	C0750502
+27764968	1325	1336	significant	T078	C0750502
+27764968	1337	1350	heterogeneity	T080	C0019409
+27764968	1354	1357	sex	T032	C1522384
+27764968	1359	1365	weight	T032	C0005910
+27764968	1381	1386	women	T098	C0043210
+27764968	1397	1400	men	T098	C0025266
+27764968	1402	1405	BMI	T201	C1305855
+27764968	1429	1448	waist circumference	T201	C0455829
+27764968	1467	1484	hip circumference	T201	C0562350
+27764968	1537	1549	participants	T098	C0679646
+27764968	1555	1568	relationships	T080	C0439849
+27764968	1572	1595	anthropometric measures	T170	C2598146
+27764968	1601	1609	visceral	T024	C1563740
+27764968	1614	1630	subcutaneous fat	T024	C0222331
+27764968	1655	1659	race	T098	C0034510
+27764968	1662	1675	ethnic groups	T098	C0015031
+27764968	1686	1692	weaker	T080	C1762617
+27764968	1711	1724	heterogeneity	T080	C0019409
+27764968	1728	1731	sex	T032	C1522384
+27764968	1754	1765	researchers	T097	C0035173
+27764968	1801	1804	sex	T032	C1522384
+27764968	1812	1824	South Asians	T098	C1519427
+27764968	1844	1860	subcutaneous fat	T024	C0222331
+27764968	1875	1894	waist circumference	T201	C0455829
+27764968	1910	1922	visceral fat	T024	C1563740

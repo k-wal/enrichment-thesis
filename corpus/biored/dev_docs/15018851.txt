@@ -1,0 +1,42 @@
+15018851|t|Comparison of sequential cytomegalovirus isolates in a patient with lymphoma and failing antiviral therapy.
+15018851|a|BACKGROUND: Long-term anti-cytomegalovirus (CMV) treatments in immunocompromised patients are hampered by resistance to antiviral drugs. Longitudinal changes in the resistance genotype may depend on changes in selective pressure and the complexity of CMV isolates. OBJECTIVE: To evaluate longitudinal changes in the CMV resistance genotype and phenotype along with strain-specific variability in a patient with non-Hodgkin's lymphoma in whom successive anti-CMV treatments failed. STUDY DESIGN: The resistance phenotype and genotype of seven CMV isolates collected from one patient during a 2-year follow-up period were retrospectively analysed. In parallel, we used glycoprotein B (gB) genotyping, and a- and UL10-13-sequence analysis to study CMV interstrain variability. RESULTS: The patient was infected by at least three CMV strains plus variants of the parental strains. Resistance to ganciclovir, cidofovir and foscarnet was successively detected during the follow-up period. UL97 protein kinase changes responsible for resistance to ganciclovir were initially detected at residues 591 and 592, and then at position 594. Decreased sensitivity to foscarnet coincided with the appearance of amino acid substitution N495K in DNA polymerase, whereas cross-resistance to ganciclovir and cidofovir was due to the L501I substitution. CONCLUSIONS: The CMV isolates obtained from our patient were complex mixtures of strains. Changes in resistance genotypes depended on resistance selective pressure and were not linked to interstrain variation.
+15018851	25	40	cytomegalovirus	OrganismTaxon	10358
+15018851	55	62	patient	OrganismTaxon	9606
+15018851	68	76	lymphoma	DiseaseOrPhenotypicFeature	D008223
+15018851	120	150	Long-term anti-cytomegalovirus	DiseaseOrPhenotypicFeature	D003586
+15018851	152	155	CMV	DiseaseOrPhenotypicFeature	D003586
+15018851	189	197	patients	OrganismTaxon	9606
+15018851	359	362	CMV	DiseaseOrPhenotypicFeature	D003586
+15018851	424	427	CMV	DiseaseOrPhenotypicFeature	D003586
+15018851	506	513	patient	OrganismTaxon	9606
+15018851	519	541	non-Hodgkin's lymphoma	DiseaseOrPhenotypicFeature	D008228
+15018851	566	569	CMV	DiseaseOrPhenotypicFeature	D003586
+15018851	650	653	CMV	DiseaseOrPhenotypicFeature	D003586
+15018851	682	689	patient	OrganismTaxon	9606
+15018851	775	789	glycoprotein B	GeneOrGeneProduct	2813
+15018851	791	793	gB	GeneOrGeneProduct	2813
+15018851	853	856	CMV	DiseaseOrPhenotypicFeature	D003586
+15018851	895	902	patient	OrganismTaxon	9606
+15018851	934	937	CMV	DiseaseOrPhenotypicFeature	D003586
+15018851	999	1010	ganciclovir	ChemicalEntity	D015774
+15018851	1012	1021	cidofovir	ChemicalEntity	D000077404
+15018851	1026	1035	foscarnet	ChemicalEntity	D017245
+15018851	1091	1110	UL97 protein kinase	GeneOrGeneProduct	3077517
+15018851	1149	1160	ganciclovir	ChemicalEntity	D015774
+15018851	1261	1270	foscarnet	ChemicalEntity	D017245
+15018851	1328	1333	N495K	SequenceVariant	p|SUB|N|495|K
+15018851	1381	1392	ganciclovir	ChemicalEntity	D015774
+15018851	1397	1406	cidofovir	ChemicalEntity	D000077404
+15018851	1422	1427	L501I	SequenceVariant	p|SUB|L|501|I
+15018851	1459	1462	CMV	DiseaseOrPhenotypicFeature	D003586
+15018851	1490	1497	patient	OrganismTaxon	9606
+15018851	Association	3077517	D017245	Novel
+15018851	Association	3077517	D000077404	Novel
+15018851	Association	3077517	D015774	Novel
+15018851	Negative_Correlation	D017245	p|SUB|N|495|K	Novel
+15018851	Negative_Correlation	D000077404	p|SUB|L|501|I	Novel
+15018851	Negative_Correlation	D015774	p|SUB|L|501|I	Novel
+15018851	Negative_Correlation	D003586	D017245	No
+15018851	Negative_Correlation	D003586	D000077404	No
+15018851	Negative_Correlation	D003586	D015774	No
+15018851	Association	2813	D003586	No

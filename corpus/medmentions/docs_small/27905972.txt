@@ -1,0 +1,34 @@
+27905972|t|A new parametric model to assess delay and compression of mortality
+27905972|a|A decrease in mortality across all ages causes a shift of the age pattern of mortality, or mortality delay, while differences in the rate of decrease across ages cause a change in the shape of the age-at-death distribution, mortality compression or expansion. Evidence exists for both compression and delay of mortality. Existing parametric models to describe the full age pattern of mortality are not able to capture mortality delay versus mortality compression. More recent models that assess delay versus compression mostly focused on the adult or old ages alone and did not distinguish mortality compression below and above the modal age at death, although they represent different mechanisms. This paper presents a new parametric model that describes the full age pattern of mortality and assesses compression - at different stages of life - and delay of mortality: the CoDe model. The model includes 10 parameters, of which five are constant over time. The five time -varying parameters reflect delay of mortality and compression of mortality in infancy, adolescence, young adulthood, late adulthood, and old age. The model describes infant and background mortality by two simple functions, uses a mixed logistic model with different slopes in adult, middle, and old age, and includes the modal age at death as a parameter to account for the delay in mortality. Applying the CoDe model to age - specific probabilities of death for Japanese, French, American, and Danish men and women between 1950 and 2010 showed a very good fit of the full age pattern of mortality. Delay of mortality explained about two-thirds of the increase in life expectancy at birth, whereas compression of mortality due to mortality declines in young age explained about one-third. No strong compression of mortality in late adulthood age was observed. Mortality compression in old age has had a small negative impact on life expectancy. The CoDe model proved a valid instrument for describing the full age pattern of mortality and for disentangling the effects of mortality delay and compression - at different stages of life - on the increase in life expectancy.
+27905972	6	22	parametric model	T170	UMLS:C3161035
+27905972	134	141	pattern	T082	UMLS:C0449774
+27905972	252	257	shape	T082	UMLS:C0332479
+27905972	265	277	age-at-death	T033	UMLS:C1546180
+27905972	398	415	parametric models	T170	UMLS:C3161035
+27905972	441	448	pattern	T082	UMLS:C0449774
+27905972	544	550	models	T170	UMLS:C3161035
+27905972	619	627	old ages	T098	UMLS:C1999167
+27905972	713	718	death	T033	UMLS:C1306577
+27905972	771	776	paper	T170	UMLS:C1706852
+27905972	792	808	parametric model	T170	UMLS:C3161035
+27905972	837	844	pattern	T082	UMLS:C0449774
+27905972	943	953	CoDe model	T170	UMLS:C3161035
+27905972	959	964	model	T170	UMLS:C3161035
+27905972	1179	1186	old age	T098	UMLS:C1999167
+27905972	1192	1197	model	T170	UMLS:C3161035
+27905972	1272	1292	mixed logistic model	T170	UMLS:C0023965
+27905972	1337	1344	old age	T098	UMLS:C1999167
+27905972	1376	1381	death	T033	UMLS:C1306577
+27905972	1449	1459	CoDe model	T170	UMLS:C3161035
+27905972	1495	1500	death	T033	UMLS:C1306577
+27905972	1505	1513	Japanese	T098	UMLS:C1556094
+27905972	1515	1521	French	T098	UMLS:C1556084
+27905972	1523	1531	American	T098	UMLS:C0596070
+27905972	1537	1543	Danish	T098	UMLS:C1257890
+27905972	1544	1547	men	T098	UMLS:C0025266
+27905972	1552	1557	women	T098	UMLS:C0043210
+27905972	1619	1626	pattern	T082	UMLS:C0449774
+27905972	1725	1730	birth	T038	UMLS:C0005615
+27905972	1927	1934	old age	T098	UMLS:C1999167
+27905972	1991	2001	CoDe model	T170	UMLS:C3161035
+27905972	2056	2063	pattern	T082	UMLS:C0449774

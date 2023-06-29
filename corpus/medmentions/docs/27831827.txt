@@ -1,0 +1,74 @@
+27831827|t|Mitotic entry: The interplay between Cdk1, Plk1 and Bora
+27831827|a|Polo-like kinase 1 (Plk1) is an important mitotic kinase that is crucial for entry into mitosis after recovery from DNA damage -induced cell cycle arrest. Plk1 activation is promoted by the conserved protein Bora (SPAT-1 in C. elegans), which stimulates the phosphorylation of a conserved residue in the activation loop by the Aurora A kinase. In a recent article published in Cell Reports, we show that the master mitotic kinase Cdk1 contributes to Plk1 activation through SPAT-1 / Bora phosphorylation. We identified 3 conserved Sp/Tp residues that are located in the N-terminal, most conserved part, of SPAT-1 / Bora. Phosphorylation of these sites by Cdk1 is essential for Plk1 function in mitotic entry in C. elegans embryos and during DNA damage checkpoint recovery in mammalian cells. Here, using an untargeted Förster Resonance Energy Transfer (FRET) biosensor to monitor Plk1 activation, we provide additional experimental evidence supporting the importance of these phosphorylation sites for Plk1 activation and subsequent mitotic entry after DNA damage. We also briefly discuss the mechanism of Plk1 activation and the potential role of Bora phosphorylation by Cdk1 in this process. As Plk1 is overexpressed in cancer cells and this correlates with poor prognosis, understanding how Bora contributes to Plk1 activation is paramount for the development of innovative therapeutical approaches.
+27831827	0	13	Mitotic entry	T043	C3893712
+27831827	37	41	Cdk1	T116	C2353787
+27831827	43	47	Plk1	T116,T126	C1579259
+27831827	52	56	Bora	T116,T123	C2353085
+27831827	57	75	Polo-like kinase 1	T116,T126	C1579259
+27831827	77	81	Plk1	T116,T126	C1579259
+27831827	99	106	mitotic	T043	C0026255
+27831827	107	113	kinase	T116,T126	C0033640
+27831827	145	152	mitosis	T043	C0026255
+27831827	159	167	recovery	T052	C0237820
+27831827	173	183	DNA damage	T049	C0012860
+27831827	173	183	DNA damage	T049	C0012860
+27831827	193	210	cell cycle arrest	T043	C1155873
+27831827	212	216	Plk1	T116,T126	C1579259
+27831827	217	227	activation	T044	C0014429
+27831827	257	264	protein	T116,T123	C0033684
+27831827	265	269	Bora	T116,T123	C2353085
+27831827	271	291	SPAT-1 in C. elegans	T116,T123	C2975364
+27831827	315	330	phosphorylation	T044	C1158886
+27831827	361	376	activation loop	T169	C0205681
+27831827	384	399	Aurora A kinase	T116,T126	C0971285
+27831827	413	420	article	T170	C1706852
+27831827	434	446	Cell Reports	T170	C0684224
+27831827	472	486	mitotic kinase	T116,T126	C0033640
+27831827	487	491	Cdk1	T116	C2353787
+27831827	507	511	Plk1	T116,T126	C1579259
+27831827	512	522	activation	T044	C0014429
+27831827	531	537	SPAT-1	T116,T123	C2975364
+27831827	540	544	Bora	T116,T123	C2353085
+27831827	545	560	phosphorylation	T044	C1158886
+27831827	565	575	identified	T080	C0205396
+27831827	588	602	Sp/Tp residues	T116,T121,T123	C0002520
+27831827	627	637	N-terminal	T082	C1254362
+27831827	644	658	conserved part	T082	C0449719
+27831827	663	669	SPAT-1	T116,T123	C2975364
+27831827	672	676	Bora	T116,T123	C2353085
+27831827	678	693	Phosphorylation	T044	C1158886
+27831827	703	708	sites	T169	C0205681
+27831827	712	716	Cdk1	T116	C2353787
+27831827	720	729	essential	T080	C0205224
+27831827	734	738	Plk1	T116,T126	C1579259
+27831827	751	764	mitotic entry	T043	C3893712
+27831827	768	778	C. elegans	T204	C0162610
+27831827	779	786	embryos	T018	C0013935
+27831827	798	819	DNA damage checkpoint	T045	C1751194
+27831827	820	828	recovery	T052	C0237820
+27831827	832	847	mammalian cells	T025	C1512977
+27831827	875	925	Förster Resonance Energy Transfer (FRET) biosensor	T075	C0600364
+27831827	937	941	Plk1	T116,T126	C1579259
+27831827	942	952	activation	T044	C0014429
+27831827	976	997	experimental evidence	T078	C3887511
+27831827	1033	1054	phosphorylation sites	T087	C1519063
+27831827	1059	1063	Plk1	T116,T126	C1579259
+27831827	1064	1074	activation	T044	C0014429
+27831827	1090	1103	mitotic entry	T043	C3893712
+27831827	1110	1120	DNA damage	T049	C0012860
+27831827	1110	1120	DNA damage	T049	C0012860
+27831827	1150	1159	mechanism	T169	C0441712
+27831827	1163	1167	Plk1	T116,T126	C1579259
+27831827	1168	1178	activation	T044	C0014429
+27831827	1205	1209	Bora	T116,T123	C2353085
+27831827	1210	1225	phosphorylation	T044	C1158886
+27831827	1229	1233	Cdk1	T116	C2353787
+27831827	1242	1249	process	T067	C1522240
+27831827	1254	1258	Plk1	T116,T126	C1579259
+27831827	1279	1291	cancer cells	T025	C0334227
+27831827	1317	1331	poor prognosis	T033	C0278252
+27831827	1351	1355	Bora	T116,T123	C2353085
+27831827	1371	1375	Plk1	T116,T126	C1579259
+27831827	1376	1386	activation	T044	C0014429
+27831827	1408	1419	development	T169	C1527148
+27831827	1434	1458	therapeutical approaches	T061	C0087111

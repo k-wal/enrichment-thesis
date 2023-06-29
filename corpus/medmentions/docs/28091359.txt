@@ -1,0 +1,72 @@
+28091359|t|Phyto-oestrogens and colorectal cancer risk: a systematic review and dose-response meta-analysis of observational studies
+28091359|a|Epidemiological studies suggest that soya consumption as a source of phyto-oestrogens and isoflavones may be associated with a reduced risk of colorectal cancer. However, findings have not yet been synthesised for all groups of phyto-oestrogens. A meta-analysis was conducted to quantify the association between phyto-oestrogens and colorectal cancer risk. Relevant observational studies published up to June 2016 were identified by searching MEDLINE, EMBASE and Cochrane Library databases. Study-specific relative risks (RR) were pooled in both categorical and dose-response meta-analyses. Out of seventeen identified studies, sixteen were included in the meta-analysis. Comparing the highest with the lowest intake category, inverse associations for phyto-oestrogens overall and by subgroup were observed but were statistically significant in case-controls studies and not in cohort studies. The pooled RR in case-control studies were 0·76 (95 % CI 0·69, 0·84), 0·77 (95 % CI 0·69, 0·85) and 0·70 (95 % CI 0·56, 0·89) for phyto-oestrogens, isoflavones and lignans, respectively, whereas the corresponding pooled RR were 0·95 (95 % CI 0·85, 1·06), 0·94 (95 % CI 0·84, 1·05) and 1·00 (95 % CI 0·64, 1·57) in cohort studies. Dose-response analysis yielded an 8 % reduced risk of colorectal neoplasms for every 20 mg/d increase in isoflavones intake in Asians (pooled RR 0·92; 95 % CI 0·86, 0·97). A non-linear inverse association with colorectal cancer risk was found for lignans intake, but no association for circulating enterolactone concentrations was observed. Thus, study heterogeneity precludes a rigorous conclusion regarding an effect of high exposure to isoflavones on risk of colorectal cancer. Current evidence for an association with lignans exposure is limited. Further prospective studies, particularly evaluating lignans, are warranted to clarify the association between different phyto-oestrogens and colorectal cancer risk.
+28091359	0	16	Phyto-oestrogens	T109,T121,T125	C0071011
+28091359	21	43	colorectal cancer risk	T033	C4229681
+28091359	47	64	systematic review	T170	C1955832
+28091359	69	82	dose-response	T038	C0678790
+28091359	83	96	meta-analysis	T062	C0920317
+28091359	100	121	observational studies	T062	C1518527
+28091359	122	145	Epidemiological studies	T062	C0002783
+28091359	159	163	soya	T168	C1258091
+28091359	164	175	consumption	T052	C2983605
+28091359	191	207	phyto-oestrogens	T109,T121,T125	C0071011
+28091359	212	223	isoflavones	T109,T121	C0022179
+28091359	231	246	associated with	T080	C0332281
+28091359	249	261	reduced risk	T078	C0035647
+28091359	265	282	colorectal cancer	T191	C1527249
+28091359	350	366	phyto-oestrogens	T109,T121,T125	C0071011
+28091359	370	383	meta-analysis	T062	C0920317
+28091359	434	450	phyto-oestrogens	T109,T121,T125	C0071011
+28091359	455	477	colorectal cancer risk	T033	C4229681
+28091359	488	509	observational studies	T062	C1518527
+28091359	510	519	published	T170	C1704324
+28091359	526	530	June	T079	C3829443
+28091359	565	572	MEDLINE	T170	C0025141
+28091359	574	580	EMBASE	T170	C0282574
+28091359	585	611	Cochrane Library databases	T170	C0282574
+28091359	613	642	Study-specific relative risks	T081	C0242492
+28091359	644	646	RR	T081	C0242492
+28091359	684	697	dose-response	T038	C0678790
+28091359	698	711	meta-analyses	T062	C0920317
+28091359	730	748	identified studies	T062	C2603343
+28091359	779	792	meta-analysis	T062	C0920317
+28091359	832	838	intake	T169	C1512806
+28091359	849	869	inverse associations	T077	C1708567
+28091359	874	890	phyto-oestrogens	T109,T121,T125	C0071011
+28091359	906	914	subgroup	T185	C1515021
+28091359	938	963	statistically significant	T081	C0237881
+28091359	967	988	case-controls studies	T062	C0007328
+28091359	1000	1014	cohort studies	T081	C0009247
+28091359	1027	1029	RR	T081	C0242492
+28091359	1033	1053	case-control studies	T062	C0007328
+28091359	1146	1162	phyto-oestrogens	T109,T121,T125	C0071011
+28091359	1164	1175	isoflavones	T109,T121	C0022179
+28091359	1180	1187	lignans	T109	C0064971
+28091359	1236	1238	RR	T081	C0242492
+28091359	1330	1344	cohort studies	T081	C0009247
+28091359	1346	1368	Dose-response analysis	T038	C0678790
+28091359	1384	1396	reduced risk	T078	C0035647
+28091359	1400	1420	colorectal neoplasms	T191	C0009404
+28091359	1451	1462	isoflavones	T109,T121	C0022179
+28091359	1463	1469	intake	T169	C1512806
+28091359	1473	1479	Asians	T098	C0078988
+28091359	1488	1490	RR	T081	C0242492
+28091359	1520	1550	non-linear inverse association	T077	C1708567
+28091359	1556	1578	colorectal cancer risk	T033	C4229681
+28091359	1593	1600	lignans	T109	C0064971
+28091359	1601	1607	intake	T169	C1512806
+28091359	1644	1657	enterolactone	T121,T125	C0045341
+28091359	1658	1672	concentrations	T081	C0392762
+28091359	1693	1698	study	T062	C2603343
+28091359	1699	1712	heterogeneity	T080	C0019409
+28091359	1725	1744	rigorous conclusion	T078	C1707478
+28091359	1768	1781	high exposure	T080	C0332157
+28091359	1785	1796	isoflavones	T109,T121	C0022179
+28091359	1800	1804	risk	T078	C0035647
+28091359	1808	1825	colorectal cancer	T191	C1527249
+28091359	1868	1875	lignans	T109	C0064971
+28091359	1876	1884	exposure	T080	C0332157
+28091359	1905	1924	prospective studies	T062	C0033522
+28091359	1950	1957	lignans	T109	C0064971
+28091359	2018	2034	phyto-oestrogens	T109,T121,T125	C0071011
+28091359	2039	2061	colorectal cancer risk	T033	C4229681

@@ -1,0 +1,68 @@
+28368423|t|Myc enhances B-cell receptor signaling in precancerous B cells and confers resistance to Btk inhibition.
+28368423|a|Dysregulation of the oncogenic transcription factor MYC induces B-cell transformation and is a driver for B-cell non-Hodgkin lymphoma (B-NHL). MYC overexpression in B-NHL is associated with more aggressive phenotypes and poor prognosis. Although genomic studies suggest a link between MYC overexpression and B-cell receptor (BCR) signaling molecules in B-NHL, signaling pathways essential to Myc-mediated B-cell transformation have not been fully elucidated. We utilized intracellular phospho-flow cytometry to investigate the relationship between Myc and BCR signaling in pre-malignant B cells. Utilizing the Eu-myc mouse model, where Myc is overexpressed specifically in B cells, both basal and stimulated BCR signaling were increased in precancerous B lymphocytes from Eu-myc mice compared with wild-type littermates. B cells overexpressing Myc displayed constitutively higher levels of activated CD79a, Btk, Plcg2 and Erk1/2. Notably, Myc-overexpressing B cells maintained elevated BCR signaling despite treatment with ibrutinib, a Bruton's tyrosine kinase inhibitor. Furthermore, PI3K/Akt pathway signaling was also increased in Eu-myc B cells, and this increase was partially suppressed with ibrutinib. In addition, experiments with Btk-null B cells revealed off-target effects of ibrutinib on BCR signaling. Our data show that in pre-malignant B cells, Myc overexpression is sufficient to activate BCR and PI3K/Akt signaling pathways and further enhances signaling following BCR ligation. Therefore, our results indicate that precancerous B cells have already acquired enhanced survival and growth capabilities before transformation, and that elevated MYC levels confer resistance to pharmacologic inhibitors of BCR signaling, which has significant implications for B-NHL treatment.
+28368423	0	3	Myc	GeneOrGeneProduct	17869
+28368423	13	28	B-cell receptor	GeneOrGeneProduct	16019
+28368423	42	54	precancerous	DiseaseOrPhenotypicFeature	D011230
+28368423	89	92	Btk	GeneOrGeneProduct	12229
+28368423	157	160	MYC	GeneOrGeneProduct	17869
+28368423	211	238	B-cell non-Hodgkin lymphoma	DiseaseOrPhenotypicFeature	D016393
+28368423	240	245	B-NHL	DiseaseOrPhenotypicFeature	D016393
+28368423	248	251	MYC	GeneOrGeneProduct	17869
+28368423	270	275	B-NHL	DiseaseOrPhenotypicFeature	D016393
+28368423	390	393	MYC	GeneOrGeneProduct	17869
+28368423	413	428	B-cell receptor	GeneOrGeneProduct	16019
+28368423	430	433	BCR	GeneOrGeneProduct	16019
+28368423	458	463	B-NHL	DiseaseOrPhenotypicFeature	D016393
+28368423	497	500	Myc	GeneOrGeneProduct	17869
+28368423	653	656	Myc	GeneOrGeneProduct	17869
+28368423	661	664	BCR	GeneOrGeneProduct	16019
+28368423	718	721	myc	GeneOrGeneProduct	17869
+28368423	722	727	mouse	OrganismTaxon	10090
+28368423	741	744	Myc	GeneOrGeneProduct	17869
+28368423	813	816	BCR	GeneOrGeneProduct	16019
+28368423	845	857	precancerous	DiseaseOrPhenotypicFeature	D011230
+28368423	880	883	myc	GeneOrGeneProduct	17869
+28368423	884	888	mice	OrganismTaxon	10090
+28368423	949	952	Myc	GeneOrGeneProduct	17869
+28368423	1005	1010	CD79a	GeneOrGeneProduct	12518
+28368423	1012	1015	Btk	GeneOrGeneProduct	12229
+28368423	1017	1022	Plcg2	GeneOrGeneProduct	234779
+28368423	1027	1033	Erk1/2	GeneOrGeneProduct	26413,26417
+28368423	1044	1047	Myc	GeneOrGeneProduct	17869
+28368423	1091	1094	BCR	GeneOrGeneProduct	16019
+28368423	1128	1137	ibrutinib	ChemicalEntity	C551803
+28368423	1141	1165	Bruton's tyrosine kinase	GeneOrGeneProduct	695
+28368423	1190	1194	PI3K	GeneOrGeneProduct	18708
+28368423	1195	1198	Akt	GeneOrGeneProduct	11651
+28368423	1242	1245	myc	GeneOrGeneProduct	17869
+28368423	1303	1312	ibrutinib	ChemicalEntity	C551803
+28368423	1344	1347	Btk	GeneOrGeneProduct	12229
+28368423	1392	1401	ibrutinib	ChemicalEntity	C551803
+28368423	1405	1408	BCR	GeneOrGeneProduct	16019
+28368423	1465	1468	Myc	GeneOrGeneProduct	17869
+28368423	1510	1513	BCR	GeneOrGeneProduct	16019
+28368423	1518	1522	PI3K	GeneOrGeneProduct	18708
+28368423	1523	1526	Akt	GeneOrGeneProduct	11651
+28368423	1587	1590	BCR	GeneOrGeneProduct	16019
+28368423	1638	1650	precancerous	DiseaseOrPhenotypicFeature	D011230
+28368423	1764	1767	MYC	GeneOrGeneProduct	17869
+28368423	1824	1827	BCR	GeneOrGeneProduct	16019
+28368423	1878	1883	B-NHL	DiseaseOrPhenotypicFeature	D016393
+28368423	Association	D016393	16019	Novel
+28368423	Negative_Correlation	11651	C551803	No
+28368423	Positive_Correlation	11651	17869	Novel
+28368423	Association	18708	11651	No
+28368423	Negative_Correlation	18708	C551803	No
+28368423	Positive_Correlation	18708	17869	Novel
+28368423	Negative_Correlation	C551803	695	No
+28368423	Association	C551803	17869	Novel
+28368423	Association	16019	C551803	No
+28368423	Association	16019	D011230	Novel
+28368423	Association	17869	D016393	No
+28368423	Positive_Correlation	17869	26417	Novel
+28368423	Positive_Correlation	17869	26413	Novel
+28368423	Positive_Correlation	17869	234779	Novel
+28368423	Positive_Correlation	17869	12518	Novel
+28368423	Positive_Correlation	17869	12229	Novel
+28368423	Association	17869	D011230	Novel
+28368423	Positive_Correlation	17869	16019	Novel

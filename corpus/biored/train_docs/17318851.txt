@@ -1,0 +1,55 @@
+17318851|t|Interferon regulatory factor 6 (IRF6) and fibroblast growth factor receptor 1 (FGFR1) contribute to human tooth agenesis.
+17318851|a|Phenotypic characteristics expressed in syndromes give clues to the factors involved in the cause of isolated forms of the same defects. We investigated two genes responsible for craniofacial syndromes, FGFR1 and IRF6, in a collection of families with isolated tooth agenesis. Cheek swab samples were obtained for DNA analysis from 116 case/parent trios. Probands had at least one developmentally missing tooth, excluding third molars. In addition, we studied 89 cases and 50 controls from Ohio to replicate any positive findings. Genotyping was performed by kinetic polymerase chain-reaction or TaqMan assays. Linkage disequilibrium analysis and transmission distortion of the marker alleles were performed. The same variants in the IRF6 gene that are associated with isolated orofacial clefts are also associated with human tooth agenesis (rs861019, P = 0.058; rs17015215-V274I, P = 0.0006; rs7802, P = 0.004). Mutations in IRF6 cause Van der Woude and popliteal pterygium syndromes. The craniofacial phenotypic characteristics of these syndromes include oral clefts and preferential tooth agenesis of incisors and premolars, besides pits on the lower lips. Also it appears that preferential premolar agenesis is associated with FGFR1 (P = 0.014) and IRF6 (P = 0.002) markers. There were statistically significant data suggesting that IRF6 interacts not only with MSX1 (P = 0.001), but also with TGFA (P = 0.03).
+17318851	0	30	Interferon regulatory factor 6	GeneOrGeneProduct	3664
+17318851	32	36	IRF6	GeneOrGeneProduct	3664
+17318851	42	77	fibroblast growth factor receptor 1	GeneOrGeneProduct	2260
+17318851	79	84	FGFR1	GeneOrGeneProduct	2260
+17318851	100	105	human	OrganismTaxon	9606
+17318851	106	120	tooth agenesis	DiseaseOrPhenotypicFeature	D000848
+17318851	301	323	craniofacial syndromes	DiseaseOrPhenotypicFeature	D019465
+17318851	325	330	FGFR1	GeneOrGeneProduct	2260
+17318851	335	339	IRF6	GeneOrGeneProduct	3664
+17318851	383	397	tooth agenesis	DiseaseOrPhenotypicFeature	D000848
+17318851	856	860	IRF6	GeneOrGeneProduct	3664
+17318851	900	916	orofacial clefts	DiseaseOrPhenotypicFeature	C566121
+17318851	942	947	human	OrganismTaxon	9606
+17318851	948	962	tooth agenesis	DiseaseOrPhenotypicFeature	D000848
+17318851	964	972	rs861019	SequenceVariant	rs861019
+17318851	985	995	rs17015215	SequenceVariant	rs17015215
+17318851	996	1001	V274I	SequenceVariant	rs2235371
+17318851	1015	1021	rs7802	SequenceVariant	rs7802
+17318851	1048	1052	IRF6	GeneOrGeneProduct	3664
+17318851	1059	1106	Van der Woude and popliteal pterygium syndromes	DiseaseOrPhenotypicFeature	C536528,C562509
+17318851	1179	1190	oral clefts	DiseaseOrPhenotypicFeature	D002972
+17318851	1208	1222	tooth agenesis	DiseaseOrPhenotypicFeature	D000848
+17318851	1258	1280	pits on the lower lips	DiseaseOrPhenotypicFeature	C536528,C562509
+17318851	1353	1358	FGFR1	GeneOrGeneProduct	2260
+17318851	1375	1379	IRF6	GeneOrGeneProduct	3664
+17318851	1459	1463	IRF6	GeneOrGeneProduct	3664
+17318851	1488	1492	MSX1	GeneOrGeneProduct	4487
+17318851	1520	1524	TGFA	GeneOrGeneProduct	7039
+17318851	Association	D019465	2260	No
+17318851	Association	D019465	3664	No
+17318851	Positive_Correlation	rs7802	C562509	Novel
+17318851	Positive_Correlation	rs7802	C536528	Novel
+17318851	Association	rs7802	C566121	Novel
+17318851	Association	rs7802	D000848	Novel
+17318851	Positive_Correlation	rs2235371	C562509	Novel
+17318851	Positive_Correlation	rs2235371	C536528	Novel
+17318851	Association	rs2235371	C566121	Novel
+17318851	Association	rs2235371	D000848	Novel
+17318851	Positive_Correlation	rs17015215	C562509	Novel
+17318851	Positive_Correlation	rs17015215	C536528	Novel
+17318851	Association	rs17015215	C566121	Novel
+17318851	Association	rs17015215	D000848	Novel
+17318851	Positive_Correlation	rs861019	C562509	Novel
+17318851	Positive_Correlation	rs861019	C536528	Novel
+17318851	Association	rs861019	C566121	Novel
+17318851	Association	rs861019	D000848	Novel
+17318851	Association	2260	D000848	Novel
+17318851	Association	3664	7039	Novel
+17318851	Association	3664	4487	Novel
+17318851	Association	3664	C562509	Novel
+17318851	Association	3664	C536528	Novel
+17318851	Association	3664	C566121	Novel
+17318851	Association	3664	D000848	Novel

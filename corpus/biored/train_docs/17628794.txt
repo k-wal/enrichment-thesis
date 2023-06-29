@@ -1,0 +1,27 @@
+17628794|t|Manganese superoxide dismutase (Mn-SOD) gene polymorphisms in urolithiasis.
+17628794|a|Polymorphism in manganese superoxide dismutase gene (Mn-SOD) is a new approach to identify its probable association with urolithiasis. Oxidative stress may be involved in the development of stone formation in the renal system. MnSOD is one of the primary enzymes that directly scavenges potential harmful oxidizing species. A valine (Val) to alanine (Ala) substitution at amino acid 16, occurring in the mitochondrial targeting sequence of the MnSOD gene, has been associated with an increase in urolithiasis risk. This study was conducted to investigate the association of MnSOD gene polymorphism with the risk of urolithiasis. We investigated the MnSOD in 66 stone-forming adults and 72 healthy volunteers. DNA was isolated from peripheral blood and genotyping was performed with PCR-based methods. Then PCR products were cut by BsaW1. Products were run on 3% agarose gel, 246 bp regions were 1-Ala-9, 164 and 82 bp products were determined as 2 Val-9. Chi-square test was used for comparison between patients and controls. In the control group the homozygote Ala allele was significantly higher than in the patient group (P < 0.01). The distribution of Ala/Val and homozygote Val alleles in the patient group was significantly higher than in the control group (P < 0.05). MnSOD genotype determination may provide a tool to identify individuals who are at risk of urolithiasis. This experiment also provides data about antioxidant status and stone formation.
+17628794	0	30	Manganese superoxide dismutase	GeneOrGeneProduct	6648
+17628794	32	38	Mn-SOD	GeneOrGeneProduct	6648
+17628794	62	74	urolithiasis	DiseaseOrPhenotypicFeature	D052878
+17628794	92	122	manganese superoxide dismutase	GeneOrGeneProduct	6648
+17628794	129	135	Mn-SOD	GeneOrGeneProduct	6648
+17628794	197	209	urolithiasis	DiseaseOrPhenotypicFeature	D052878
+17628794	266	281	stone formation	DiseaseOrPhenotypicFeature	D002137
+17628794	303	308	MnSOD	GeneOrGeneProduct	6648
+17628794	402	461	valine (Val) to alanine (Ala) substitution at amino acid 16	SequenceVariant	p|SUB|V|16|A
+17628794	520	525	MnSOD	GeneOrGeneProduct	6648
+17628794	572	584	urolithiasis	DiseaseOrPhenotypicFeature	D052878
+17628794	650	655	MnSOD	GeneOrGeneProduct	6648
+17628794	691	703	urolithiasis	DiseaseOrPhenotypicFeature	D052878
+17628794	725	730	MnSOD	GeneOrGeneProduct	6648
+17628794	737	750	stone-forming	DiseaseOrPhenotypicFeature	D002137
+17628794	938	945	agarose	ChemicalEntity	D012685
+17628794	1079	1087	patients	OrganismTaxon	9606
+17628794	1186	1193	patient	OrganismTaxon	9606
+17628794	1274	1281	patient	OrganismTaxon	9606
+17628794	1351	1356	MnSOD	GeneOrGeneProduct	6648
+17628794	1442	1454	urolithiasis	DiseaseOrPhenotypicFeature	D052878
+17628794	1520	1535	stone formation	DiseaseOrPhenotypicFeature	D002137
+17628794	Positive_Correlation	p|SUB|V|16|A	D052878	Novel
+17628794	Association	D052878	6648	No
+17628794	Association	6648	D002137	No

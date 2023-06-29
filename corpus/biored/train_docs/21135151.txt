@@ -1,0 +1,25 @@
+21135151|t|Impact of CCR5delta32 host genetic background and disease progression on HIV-1 intrahost evolutionary processes: efficient hypothesis testing through hierarchical phylogenetic models.
+21135151|a|The interplay between C-C chemokine receptor type 5 (CCR5) host genetic background, disease progression, and intrahost HIV-1 evolutionary dynamics remains unclear because differences in viral evolution between hosts limit the ability to draw conclusions across hosts stratified into clinically relevant populations. Similar inference problems are proliferating across many measurably evolving pathogens for which intrahost sequence samples are readily available. To this end, we propose novel hierarchical phylogenetic models (HPMs) that incorporate fixed effects to test for differences in dynamics across host populations in a formal statistical framework employing stochastic search variable selection and model averaging. To clarify the role of CCR5 host genetic background and disease progression on viral evolutionary patterns, we obtain gp120 envelope sequences from clonal HIV-1 variants isolated at multiple time points in the course of infection from populations of HIV-1-infected individuals who only harbored CCR5-using HIV-1 variants at all time points. Presence or absence of a CCR5 wt/DD32 genotype and progressive or long-term nonprogressive course of infection stratify the clinical populations in a two-way design. As compared with the standard approach of analyzing sequences from each patient independently, the HPM provides more efficient estimation of evolutionary parameters such as nucleotide substitution rates and d(N)/d(S) rate ratios, as shown by significant shrinkage of the estimator variance. The fixed effects also correct for nonindependence of data between populations and results in even further shrinkage of individual patient estimates. Model selection suggests an association between nucleotide substitution rate and disease progression, but a role for CCR5 genotype remains elusive. Given the absence of clear d(N)/d(S) differences between patient groups, delayed onset of AIDS symptoms appears to be solely associated with lower viral replication rates rather than with differences in selection on amino acid fixation.
+21135151	10	14	CCR5	GeneOrGeneProduct	1234
+21135151	14	21	delta32	SequenceVariant	c|DEL||32
+21135151	73	78	HIV-1	OrganismTaxon	11676
+21135151	206	235	C-C chemokine receptor type 5	GeneOrGeneProduct	1234
+21135151	237	241	CCR5	GeneOrGeneProduct	1234
+21135151	303	308	HIV-1	OrganismTaxon	11676
+21135151	933	937	CCR5	GeneOrGeneProduct	1234
+21135151	1028	1033	gp120	GeneOrGeneProduct	3700
+21135151	1065	1070	HIV-1	OrganismTaxon	11676
+21135151	1130	1139	infection	DiseaseOrPhenotypicFeature	D007239
+21135151	1160	1174	HIV-1-infected	DiseaseOrPhenotypicFeature	D015658
+21135151	1205	1209	CCR5	GeneOrGeneProduct	1234
+21135151	1216	1221	HIV-1	OrganismTaxon	11676
+21135151	1276	1280	CCR5	GeneOrGeneProduct	1234
+21135151	1284	1288	DD32	SequenceVariant	c|DEL||32
+21135151	1352	1361	infection	DiseaseOrPhenotypicFeature	D007239
+21135151	1489	1496	patient	OrganismTaxon	9606
+21135151	1839	1846	patient	OrganismTaxon	9606
+21135151	1975	1979	CCR5	GeneOrGeneProduct	1234
+21135151	2063	2070	patient	OrganismTaxon	9606
+21135151	2096	2100	AIDS	DiseaseOrPhenotypicFeature	D000163
+21135151	Association	c|DEL||32	D015658	Novel
+21135151	Association	1234	D015658	Novel

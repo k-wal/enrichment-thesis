@@ -1,0 +1,68 @@
+28260077|t|Atorvastatin protects against contrast-induced nephropathy via anti-apoptosis by the upregulation of Hsp27 in vivo and in vitro.
+28260077|a|Contrast-induced nephropathy (CIN) is an iatrogenic acute renal failure occurring following the intravascular injection of iodinated radiographic contrast medium. However, the regulatory mechanisms for CIN remain to be fully elucidated. The present study aimed to investigate whether atorvastatin protects against CIN via anti-apoptotic effects by the upregulation of Hsp27 in vivo and in vitro. To determine whether atorvastatin attenuated CIN, the inflammatory response and apoptosis in vivo and in vitro, a rat model of iopamidol-induced CIN was used, and human embryonic proximal tubule (HK2) cell damage was assessed. The rats were assigned into four groups (n=10 per group), as follows: Control rats; rats+atorvastatin; rats + iopamidol; rats+iopamidol+atorvastatin. In vitro, the HK2 cells were treated with iopamidol in the presence or absence of atorvastatin, heat shock protein (Hsp)27 small interfering (si)RNA or pcDNA3.1-Hsp27. The renal tissues were examined histopathologically and collected for western blot analysis. The results showed that atorvastatin ameliorated the apoptosis and deterioration of renal function (P<0.05). Furthermore, atorvastatin reduced the iopamidol-induced activity of B cell lymphoma-2 (Bcl-2)-associated X protein (Bax)/caspase-3 and increased the expression of Bcl-2 in vivo and in vitro. Notably, following treatment with Hsp27 siRNA or pcDNA3.1-Hsp27, it was found that iopamidol enhanced or weakened the upregulation of Bax/caspase-3 and downregulation of Bcl-2 in the HK2 cells, respectively. The results of the present study suggested that atorvastatin protected against contrast-induced renal tubular cell apoptosis through the upregulation of Hsp27 in vivo and in vitro.
+28260077	0	12	Atorvastatin	ChemicalEntity	D000069059
+28260077	30	58	contrast-induced nephropathy	DiseaseOrPhenotypicFeature	D007674
+28260077	101	106	Hsp27	GeneOrGeneProduct	24471
+28260077	129	157	Contrast-induced nephropathy	DiseaseOrPhenotypicFeature	D007674
+28260077	159	162	CIN	DiseaseOrPhenotypicFeature	D007674
+28260077	181	200	acute renal failure	DiseaseOrPhenotypicFeature	D058186
+28260077	331	334	CIN	DiseaseOrPhenotypicFeature	D007674
+28260077	413	425	atorvastatin	ChemicalEntity	D000069059
+28260077	443	446	CIN	DiseaseOrPhenotypicFeature	D007674
+28260077	497	502	Hsp27	GeneOrGeneProduct	24471
+28260077	546	558	atorvastatin	ChemicalEntity	D000069059
+28260077	570	573	CIN	DiseaseOrPhenotypicFeature	D007674
+28260077	579	591	inflammatory	DiseaseOrPhenotypicFeature	D007249
+28260077	639	642	rat	OrganismTaxon	10116
+28260077	652	661	iopamidol	ChemicalEntity	D007479
+28260077	670	673	CIN	DiseaseOrPhenotypicFeature	D007674
+28260077	688	693	human	OrganismTaxon	9606
+28260077	721	724	HK2	CellLine	CVCL_0302
+28260077	756	760	rats	OrganismTaxon	10116
+28260077	830	834	rats	OrganismTaxon	10116
+28260077	836	840	rats	OrganismTaxon	10116
+28260077	841	853	atorvastatin	ChemicalEntity	D000069059
+28260077	855	859	rats	OrganismTaxon	10116
+28260077	862	871	iopamidol	ChemicalEntity	D007479
+28260077	873	877	rats	OrganismTaxon	10116
+28260077	878	887	iopamidol	ChemicalEntity	D007479
+28260077	888	900	atorvastatin	ChemicalEntity	D000069059
+28260077	916	919	HK2	CellLine	CVCL_0302
+28260077	944	953	iopamidol	ChemicalEntity	D007479
+28260077	984	996	atorvastatin	ChemicalEntity	D000069059
+28260077	998	1024	heat shock protein (Hsp)27	GeneOrGeneProduct	3315
+28260077	1063	1068	Hsp27	GeneOrGeneProduct	3315
+28260077	1187	1199	atorvastatin	ChemicalEntity	D000069059
+28260077	1216	1261	apoptosis and deterioration of renal function	DiseaseOrPhenotypicFeature	D007674
+28260077	1285	1297	atorvastatin	ChemicalEntity	D000069059
+28260077	1310	1319	iopamidol	ChemicalEntity	D007479
+28260077	1340	1386	B cell lymphoma-2 (Bcl-2)-associated X protein	GeneOrGeneProduct	24887
+28260077	1388	1391	Bax	GeneOrGeneProduct	24887
+28260077	1393	1402	caspase-3	GeneOrGeneProduct	25402
+28260077	1435	1440	Bcl-2	GeneOrGeneProduct	24224
+28260077	1497	1502	Hsp27	GeneOrGeneProduct	3315
+28260077	1521	1526	Hsp27	GeneOrGeneProduct	3315
+28260077	1546	1555	iopamidol	ChemicalEntity	D007479
+28260077	1597	1600	Bax	GeneOrGeneProduct	581
+28260077	1601	1610	caspase-3	GeneOrGeneProduct	836
+28260077	1633	1638	Bcl-2	GeneOrGeneProduct	596
+28260077	1646	1649	HK2	CellLine	CVCL_0302
+28260077	1719	1731	atorvastatin	ChemicalEntity	D000069059
+28260077	1750	1795	contrast-induced renal tubular cell apoptosis	DiseaseOrPhenotypicFeature	D007674
+28260077	1824	1829	Hsp27	GeneOrGeneProduct	24471
+28260077	Association	3315	596	Novel
+28260077	Association	3315	836	Novel
+28260077	Association	3315	581	Novel
+28260077	Association	D007479	596	Novel
+28260077	Association	D007479	836	Novel
+28260077	Association	D007479	581	Novel
+28260077	Positive_Correlation	D007479	24887	Novel
+28260077	Positive_Correlation	D007479	25402	No
+28260077	Association	D007479	3315	No
+28260077	Positive_Correlation	D007479	D007674	No
+28260077	Positive_Correlation	D000069059	24471	Novel
+28260077	Negative_Correlation	D000069059	24887	Novel
+28260077	Positive_Correlation	D000069059	24224	Novel
+28260077	Negative_Correlation	D000069059	25402	Novel
+28260077	Negative_Correlation	D000069059	D007479	Novel
+28260077	Negative_Correlation	D000069059	D007674	Novel

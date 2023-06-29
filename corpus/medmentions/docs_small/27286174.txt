@@ -1,0 +1,42 @@
+27286174|t|Beyond " Median Waiting Time ": Development and Validation of a Competing Risk Model to Predict Outcomes on the Kidney Transplant Waiting List
+27286174|a|Median historical time to kidney transplant is misleading because it does not convey the competing risks of death or removal from the waiting list. We developed and validated a competing risk model to calculate likelihood of outcomes for kidney transplant candidates and demonstrate how this information differs from median time to transplant. Data were obtained from the US Scientific Registry of Transplant Recipients. The retrospective cohort included 163 636 adults listed for kidney transplant before December 31, 2011. Predictors were age, sex, blood type, calculated panel-reactive antibodies, donation service area, dialysis duration, comorbid conditions, and body mass index. Outcomes were deceased or living donor transplant, death or removal from the list due to deteriorating medical condition, or removal due to other reasons. We calculated hazards for the possible outcomes, then the cumulative incidence function for a given candidate using competing risk methodology. Discrimination and calibration were assessed through C statistics and calibration plots for each cause - specific Cox proportional hazard model. C statistics ranged from 0.64 to 0.73. Calibration plots showed good calibration. The competing risk model shows probability of all possible outcomes for up to 12 years given a candidate's characteristics, contrasted with the median waiting time for that candidate's donation service area. A competing risk model conveys more relevant information than the median waiting time for a given transplant center. This model will be updated to create a calculator reflecting the most recent outcomes and changes in allocation policy. It illustrates the conversations that should be initiated with transplant candidates.
+27286174	48	58	Validation	T062	UMLS:C1519941
+27286174	112	118	Kidney	T017	UMLS:C0022646
+27286174	119	142	Transplant Waiting List	T170	UMLS:C3272315
+27286174	169	186	kidney transplant	T058	UMLS:C0022671
+27286174	251	256	death	T038	UMLS:C0011065
+27286174	260	289	removal from the waiting list	T033	UMLS:C0420299
+27286174	381	398	kidney transplant	T058	UMLS:C0022671
+27286174	399	409	candidates	T098	UMLS:C0524355
+27286174	475	485	transplant	T058	UMLS:C0022671
+27286174	515	537	US Scientific Registry	T170	UMLS:C0034975
+27286174	568	588	retrospective cohort	T062	UMLS:C2985505
+27286174	624	641	kidney transplant	T058	UMLS:C0022671
+27286174	668	678	Predictors	T033	UMLS:C0035648
+27286174	694	704	blood type	T201	UMLS:C1383165
+27286174	706	716	calculated	T058	UMLS:C1443182
+27286174	717	742	panel-reactive antibodies	T058	UMLS:C1141951
+27286174	744	752	donation	T058	UMLS:C0411257
+27286174	753	765	service area	T082	UMLS:C0007403
+27286174	767	775	dialysis	T058	UMLS:C0011946
+27286174	786	805	comorbid conditions	T033	UMLS:C1275743
+27286174	811	826	body mass index	T201	UMLS:C1305855
+27286174	854	866	living donor	T098	UMLS:C0348050
+27286174	867	877	transplant	T058	UMLS:C0022671
+27286174	879	884	death	T038	UMLS:C0011065
+27286174	888	909	removal from the list	T033	UMLS:C0420299
+27286174	953	960	removal	T033	UMLS:C0420299
+27286174	1013	1021	possible	T033	UMLS:C0332149
+27286174	1062	1070	function	T038	UMLS:C0031843
+27286174	1083	1092	candidate	T098	UMLS:C0524355
+27286174	1127	1141	Discrimination	T038	UMLS:C0012632
+27286174	1241	1270	Cox proportional hazard model	T170	UMLS:C0018623
+27286174	1404	1412	possible	T033	UMLS:C0332149
+27286174	1449	1460	candidate's	T098	UMLS:C0524355
+27286174	1527	1538	candidate's	T098	UMLS:C0524355
+27286174	1539	1547	donation	T058	UMLS:C0411257
+27286174	1548	1560	service area	T082	UMLS:C0007403
+27286174	1660	1677	transplant center	T092	UMLS:C1708333
+27286174	1791	1797	policy	T170	UMLS:C0242456
+27286174	1862	1872	transplant	T058	UMLS:C0022671
+27286174	1873	1883	candidates	T098	UMLS:C0524355

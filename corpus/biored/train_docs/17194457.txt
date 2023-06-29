@@ -1,0 +1,53 @@
+17194457|t|Behavioral effects of pubertal anabolic androgenic steroid exposure in male rats with low serotonin.
+17194457|a|The goal of this study was to assess the interactive effects of chronic anabolic androgenic steroid (AAS) exposure and brain serotonin (5-hydroxytryptamine, 5-HT) depletion on behavior of pubertal male rats. Serotonin was depleted beginning on postnatal day 26 with parachlorophenylalanine (PCPA 100 mg/kg, every other day); controls received saline. At puberty (P40), half the PCPA-treated rats and half the saline-treated rats began treatment with testosterone (T, 5 mg/kg, 5 days/week). Behavioral measures included locomotion, irritability, copulation, partner preference, and aggression. Animals were tested for aggression in their home cage, both with and without physical provocation (mild tail pinch). Brain levels of 5-HT and its metabolite, 5-hydroxyindoleacetic acid (5-HIAA), were determined using HPLC. PCPA significantly and substantially depleted 5-HT and 5-HIAA in all brain regions examined. Chronic T treatment significantly decreased 5-HT and 5-HIAA in certain brain areas, but to a much lesser extent than PCPA. Chronic exposure to PCPA alone significantly decreased locomotor activity and increased irritability but had no effect on sexual behavior, partner preference, or aggression. T alone had no effect on locomotion, irritability, or sexual behavior but increased partner preference and aggression. The most striking effect of combining T+PCPA was a significant increase in attack frequency as well as a significant decrease in the latency to attack, particularly following physical provocation. Based on these data, it can be speculated that pubertal AAS users with low central 5-HT may be especially prone to exhibit aggressive behavior.
+17194457	31	58	anabolic androgenic steroid	ChemicalEntity	D045165
+17194457	76	80	rats	OrganismTaxon	10116
+17194457	90	99	serotonin	ChemicalEntity	D012701
+17194457	173	200	anabolic androgenic steroid	ChemicalEntity	D045165
+17194457	202	205	AAS	ChemicalEntity	D045165
+17194457	226	235	serotonin	ChemicalEntity	D012701
+17194457	237	256	5-hydroxytryptamine	ChemicalEntity	D012701
+17194457	258	262	5-HT	ChemicalEntity	D012701
+17194457	303	307	rats	OrganismTaxon	10116
+17194457	309	318	Serotonin	ChemicalEntity	D012701
+17194457	367	390	parachlorophenylalanine	ChemicalEntity	D010134
+17194457	392	396	PCPA	ChemicalEntity	D010134
+17194457	479	483	PCPA	ChemicalEntity	D010134
+17194457	492	496	rats	OrganismTaxon	10116
+17194457	525	529	rats	OrganismTaxon	10116
+17194457	551	563	testosterone	ChemicalEntity	D013739
+17194457	565	566	T	ChemicalEntity	D013739
+17194457	632	644	irritability	DiseaseOrPhenotypicFeature	D001523
+17194457	682	692	aggression	DiseaseOrPhenotypicFeature	D001523
+17194457	718	728	aggression	DiseaseOrPhenotypicFeature	D001523
+17194457	827	831	5-HT	ChemicalEntity	D012701
+17194457	852	878	5-hydroxyindoleacetic acid	ChemicalEntity	D006897
+17194457	880	886	5-HIAA	ChemicalEntity	D006897
+17194457	917	921	PCPA	ChemicalEntity	D010134
+17194457	963	967	5-HT	ChemicalEntity	D012701
+17194457	972	978	5-HIAA	ChemicalEntity	D006897
+17194457	1018	1019	T	ChemicalEntity	D013739
+17194457	1054	1058	5-HT	ChemicalEntity	D012701
+17194457	1063	1069	5-HIAA	ChemicalEntity	D006897
+17194457	1127	1131	PCPA	ChemicalEntity	D010134
+17194457	1153	1157	PCPA	ChemicalEntity	D010134
+17194457	1221	1233	irritability	DiseaseOrPhenotypicFeature	D001523
+17194457	1295	1305	aggression	DiseaseOrPhenotypicFeature	D001523
+17194457	1307	1308	T	ChemicalEntity	D013739
+17194457	1344	1356	irritability	DiseaseOrPhenotypicFeature	D001523
+17194457	1414	1424	aggression	DiseaseOrPhenotypicFeature	D001523
+17194457	1464	1465	T	ChemicalEntity	D013739
+17194457	1466	1470	PCPA	ChemicalEntity	D010134
+17194457	1679	1682	AAS	ChemicalEntity	D045165
+17194457	1706	1710	5-HT	ChemicalEntity	D012701
+17194457	1746	1765	aggressive behavior	DiseaseOrPhenotypicFeature	D001523
+17194457	Positive_Correlation	D045165	D001523	Novel
+17194457	Association	D045165	D012701	No
+17194457	Positive_Correlation	D013739	D001523	Novel
+17194457	Negative_Correlation	D013739	D006897	Novel
+17194457	Negative_Correlation	D013739	D012701	Novel
+17194457	Association	D013739	D010134	Novel
+17194457	Association	D012701	D001523	Novel
+17194457	Positive_Correlation	D010134	D001523	Novel
+17194457	Negative_Correlation	D010134	D006897	Novel
+17194457	Negative_Correlation	D010134	D012701	Novel

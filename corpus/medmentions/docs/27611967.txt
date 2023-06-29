@@ -1,0 +1,86 @@
+27611967|t|Identification of Altered Metabolomic Profiles Following a Panchakarma -based Ayurvedic Intervention in Healthy Subjects: The Self-Directed Biological Transformation Initiative (SBTI)
+27611967|a|The effects of integrative medicine practices such as meditation and Ayurveda on human physiology are not fully understood. The aim of this study was to identify altered metabolomic profiles following an Ayurveda -based intervention. In the experimental group, 65 healthy male and female subjects participated in a 6-day Panchakarma -based Ayurvedic intervention which included herbs, vegetarian diet, meditation, yoga, and massage. A set of 12 plasma phosphatidylcholines decreased (adjusted p < 0.01) post-intervention in the experimental (n = 65) compared to control group (n = 54) after Bonferroni correction for multiple testing; within these compounds, the phosphatidylcholine with the greatest decrease in abundance was PC ae C36:4 (delta = -0.34). Application of a 10% FDR revealed an additional 57 metabolites that were differentially abundant between groups. Pathway analysis suggests that the intervention results in changes in metabolites across many pathways such as phospholipid biosynthesis, choline metabolism, and lipoprotein metabolism. The observed plasma metabolomic alterations may reflect a Panchakarma - induced modulation of metabotypes. Panchakarma promoted statistically significant changes in plasma levels of phosphatidylcholines, sphingomyelins and others in just 6 days. Forthcoming studies that integrate metabolomics with genomic, microbiome and physiological parameters may facilitate a broader systems - level understanding and mechanistic insights into these integrative practices that are employed to promote health and well-being.
+27611967	0	14	Identification	T033	C0243095
+27611967	18	25	Altered	T078	C1515926
+27611967	26	46	Metabolomic Profiles	T091	C1328813
+27611967	59	70	Panchakarma	T061	C1883583
+27611967	78	87	Ayurvedic	T091	C0025122
+27611967	88	100	Intervention	T061	C0184661
+27611967	104	120	Healthy Subjects	T098	C1708335
+27611967	126	176	Self-Directed Biological Transformation Initiative	T093	C1708333
+27611967	178	182	SBTI	T093	C1708333
+27611967	188	198	effects of	T080	C1704420
+27611967	211	229	medicine practices	T091	C3825997
+27611967	238	248	meditation	T041	C0150277
+27611967	253	261	Ayurveda	T091	C0025122
+27611967	265	270	human	T016	C0086418
+27611967	271	281	physiology	T039	C0031843
+27611967	337	345	identify	T033	C0243095
+27611967	346	353	altered	T078	C1515926
+27611967	354	374	metabolomic profiles	T091	C1328813
+27611967	388	396	Ayurveda	T091	C0025122
+27611967	404	416	intervention	T061	C0184661
+27611967	425	443	experimental group	T078	C0441833
+27611967	448	455	healthy	T080	C3898900
+27611967	456	460	male	T032	C0086582
+27611967	465	471	female	T032	C0086287
+27611967	472	480	subjects	T098	C0080105
+27611967	505	516	Panchakarma	T061	C1883583
+27611967	524	533	Ayurvedic	T091	C0025122
+27611967	534	546	intervention	T061	C0184661
+27611967	562	567	herbs	T002	C0025125
+27611967	569	584	vegetarian diet	T033	C0311164
+27611967	586	596	meditation	T041	C0150277
+27611967	598	602	yoga	T056	C2979879
+27611967	608	615	massage	T061	C0024875
+27611967	629	635	plasma	T031	C0032105
+27611967	636	656	phosphatidylcholines	T109,T121,T123	C1959616
+27611967	657	666	decreased	T081	C0205216
+27611967	687	704	post-intervention	T170	C2347647
+27611967	712	724	experimental	T078	C0441833
+27611967	746	759	control group	T096	C0009932
+27611967	775	796	Bonferroni correction	T081	C2347434
+27611967	801	817	multiple testing	T169	C0039593
+27611967	832	841	compounds	T103	C1706082
+27611967	847	866	phosphatidylcholine	T109,T121,T123	C1959616
+27611967	897	906	abundance	T080	C2346714
+27611967	911	916	PC ae	T109,T121,T123	C1959616
+27611967	961	964	FDR	T081	C1880720
+27611967	991	1002	metabolites	T123	C0870883
+27611967	1028	1036	abundant	T080	C2346714
+27611967	1045	1051	groups	T078	C0441833
+27611967	1053	1069	Pathway analysis	T170	C0868995
+27611967	1088	1100	intervention	T061	C0184661
+27611967	1101	1108	results	T169	C1274040
+27611967	1112	1119	changes	T169	C0392747
+27611967	1123	1134	metabolites	T123	C0870883
+27611967	1147	1155	pathways	T077	C1705987
+27611967	1164	1189	phospholipid biosynthesis	T044	C1157377
+27611967	1191	1209	choline metabolism	T044	C1156927
+27611967	1215	1237	lipoprotein metabolism	T044	C1158917
+27611967	1252	1258	plasma	T031	C0032105
+27611967	1259	1270	metabolomic	T123	C0870883
+27611967	1271	1282	alterations	T078	C1515926
+27611967	1297	1308	Panchakarma	T061	C1883583
+27611967	1311	1318	induced	T169	C0205263
+27611967	1319	1329	modulation	T169	C0205245
+27611967	1333	1344	metabotypes	T123	C0870883
+27611967	1346	1357	Panchakarma	T061	C1883583
+27611967	1393	1400	changes	T169	C0392747
+27611967	1404	1410	plasma	T031	C0032105
+27611967	1411	1417	levels	T080	C0441889
+27611967	1421	1441	phosphatidylcholines	T109,T121,T123	C1959616
+27611967	1443	1457	sphingomyelins	T109,T123	C0037906
+27611967	1479	1483	days	T079	C0439228
+27611967	1510	1519	integrate	T169	C0205245
+27611967	1520	1532	metabolomics	T091	C1328813
+27611967	1538	1545	genomic	T091	C0887950
+27611967	1547	1557	microbiome	T001	C1956108
+27611967	1562	1575	physiological	T169	C0205463
+27611967	1576	1586	parameters	T033	C0449381
+27611967	1612	1619	systems	T169	C0449913
+27611967	1622	1627	level	T080	C0441889
+27611967	1678	1689	integrative	T169	C0205245
+27611967	1690	1699	practices	T169	C0205245
+27611967	1729	1735	health	T078	C0018684
+27611967	1740	1750	well-being	T078	C0018684

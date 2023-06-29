@@ -1,0 +1,126 @@
+25979836|t|Gastrointestinal hormones/neurotransmitters and growth factors can activate P21 activated kinase 2 in pancreatic acinar cells by novel mechanisms.
+25979836|a|P-21-activated kinases (PAKs) are serine/threonine kinases comprising six isoforms divided in two groups, group-I (PAK1-3)/group-II (PAK4-6) which play important roles in cell cytoskeletal dynamics, survival, secretion and proliferation and are activated by diverse stimuli. However, little is known about PAKs ability to be activated by gastrointestinal (GI) hormones/neurotransmitters/growth-factors. We used rat pancreatic acini to explore the ability of GI-hormones/neurotransmitters/growth-factors to activate Group-I-PAKs and the signaling cascades involved. Only PAK2 was present in acini. PAK2 was activated by some pancreatic growth-factors [EGF, PDGF, bFGF], by secretagogues activating phospholipase-C (PLC) [CCK, carbachol, bombesin] and by post-receptor stimulants activating PKC [TPA], but not agents only mobilizing cellular calcium or increasing cyclic AMP. CCK-activation of PAK2 required both high- and low-affinity-CCK1-receptor-state activation. It was partially reduced by PKC- or Src-inhibition, but not with PI3K-inhibitors (wortmannin, LY294002) or thapsigargin. IPA-3, which prevents PAK2 binding to small-GTPases partially inhibited PAK2-activation, as well as reduced CCK-induced ERK1/2 activation and amylase release induced by CCK or bombesin. This study demonstrates pancreatic acini, possess only one Group-I-PAK, PAK2. CCK and other GI-hormones/neurotransmitters/growth-factors activate PAK2 via small GTPases (CDC42/Rac1), PKC and SFK but not cytosolic calcium or PI3K. CCK-activation of PAK2 showed several novel features being dependent on both receptor-activation states, having PLC- and PKC-dependent/independent components and small-GTPase-dependent/independent components. These results show that PAK2 is important in signaling cascades activated by numerous pancreatic stimuli which mediate their various physiological/pathophysiological responses and thus could be a promising target for the development of therapies in some pancreatic disorders such as pancreatitis. 
+25979836	0	25	Gastrointestinal hormones	ChemicalEntity	D005768
+25979836	26	43	neurotransmitters	ChemicalEntity	D018377
+25979836	76	98	P21 activated kinase 2	GeneOrGeneProduct	29432
+25979836	147	169	P-21-activated kinases	GeneOrGeneProduct	292756,29431,29432,29433,296078,311450
+25979836	171	175	PAKs	GeneOrGeneProduct	292756,29431,29432,29433,296078,311450
+25979836	181	205	serine/threonine kinases	GeneOrGeneProduct	292756,29431,29432,29433,296078,311450
+25979836	262	268	PAK1-3	GeneOrGeneProduct	29431,29432,29433
+25979836	280	286	PAK4-6	GeneOrGeneProduct	292756,296078,311450
+25979836	453	457	PAKs	GeneOrGeneProduct	292756,29431,29432,29433,296078,311450
+25979836	485	515	gastrointestinal (GI) hormones	ChemicalEntity	D005768
+25979836	516	533	neurotransmitters	ChemicalEntity	D018377
+25979836	558	561	rat	OrganismTaxon	10116
+25979836	605	616	GI-hormones	ChemicalEntity	D005768
+25979836	617	634	neurotransmitters	ChemicalEntity	D018377
+25979836	662	674	Group-I-PAKs	GeneOrGeneProduct	29431,29432,29433
+25979836	717	721	PAK2	GeneOrGeneProduct	29432
+25979836	744	748	PAK2	GeneOrGeneProduct	29432
+25979836	771	796	pancreatic growth-factors	GeneOrGeneProduct	25266,25313,54250
+25979836	798	801	EGF	GeneOrGeneProduct	25313
+25979836	803	807	PDGF	GeneOrGeneProduct	25266
+25979836	809	813	bFGF	GeneOrGeneProduct	54250
+25979836	844	859	phospholipase-C	GeneOrGeneProduct	24655
+25979836	861	864	PLC	GeneOrGeneProduct	24655
+25979836	867	870	CCK	GeneOrGeneProduct	25298
+25979836	872	881	carbachol	ChemicalEntity	D002217
+25979836	883	891	bombesin	ChemicalEntity	D001839
+25979836	936	939	PKC	GeneOrGeneProduct	24681
+25979836	941	944	TPA	ChemicalEntity	D013755
+25979836	987	994	calcium	ChemicalEntity	D002118
+25979836	1009	1019	cyclic AMP	ChemicalEntity	D000242
+25979836	1021	1024	CCK	GeneOrGeneProduct	25298
+25979836	1039	1043	PAK2	GeneOrGeneProduct	29432
+25979836	1081	1094	CCK1-receptor	GeneOrGeneProduct	24889
+25979836	1141	1144	PKC	GeneOrGeneProduct	24681
+25979836	1149	1152	Src	GeneOrGeneProduct	83805
+25979836	1178	1182	PI3K	GeneOrGeneProduct	298947
+25979836	1195	1205	wortmannin	ChemicalEntity	D000077191
+25979836	1207	1215	LY294002	ChemicalEntity	C085911
+25979836	1220	1232	thapsigargin	ChemicalEntity	D019284
+25979836	1234	1239	IPA-3	ChemicalEntity	C541795
+25979836	1256	1260	PAK2	GeneOrGeneProduct	29432
+25979836	1272	1285	small-GTPases	GeneOrGeneProduct	363875,64465
+25979836	1306	1310	PAK2	GeneOrGeneProduct	29432
+25979836	1342	1345	CCK	GeneOrGeneProduct	25298
+25979836	1354	1360	ERK1/2	GeneOrGeneProduct	116590,50689
+25979836	1376	1383	amylase	GeneOrGeneProduct	24203
+25979836	1403	1406	CCK	GeneOrGeneProduct	25298
+25979836	1410	1418	bombesin	ChemicalEntity	D001839
+25979836	1479	1490	Group-I-PAK	GeneOrGeneProduct	29431,29432,29433
+25979836	1492	1496	PAK2	GeneOrGeneProduct	29432
+25979836	1498	1501	CCK	GeneOrGeneProduct	25298
+25979836	1512	1523	GI-hormones	ChemicalEntity	D005768
+25979836	1524	1541	neurotransmitters	ChemicalEntity	D018377
+25979836	1566	1570	PAK2	GeneOrGeneProduct	29432
+25979836	1575	1588	small GTPases	GeneOrGeneProduct	363875,64465
+25979836	1590	1595	CDC42	GeneOrGeneProduct	64465
+25979836	1596	1600	Rac1	GeneOrGeneProduct	363875
+25979836	1603	1606	PKC	GeneOrGeneProduct	24681
+25979836	1611	1614	SFK	GeneOrGeneProduct	83805
+25979836	1633	1640	calcium	ChemicalEntity	D002118
+25979836	1644	1648	PI3K	GeneOrGeneProduct	298947
+25979836	1650	1653	CCK	GeneOrGeneProduct	25298
+25979836	1668	1672	PAK2	GeneOrGeneProduct	29432
+25979836	1762	1765	PLC	GeneOrGeneProduct	24655
+25979836	1771	1774	PKC	GeneOrGeneProduct	24681
+25979836	1812	1824	small-GTPase	GeneOrGeneProduct	363875,64465
+25979836	1883	1887	PAK2	GeneOrGeneProduct	29432
+25979836	2113	2133	pancreatic disorders	DiseaseOrPhenotypicFeature	D010182
+25979836	2142	2154	pancreatitis	DiseaseOrPhenotypicFeature	D010195
+25979836	Positive_Correlation	311450	D018377	Novel
+25979836	Positive_Correlation	311450	D005768	Novel
+25979836	Positive_Correlation	296078	D018377	Novel
+25979836	Positive_Correlation	296078	D005768	Novel
+25979836	Positive_Correlation	29433	D018377	Novel
+25979836	Positive_Correlation	29433	D005768	Novel
+25979836	Positive_Correlation	29431	D018377	Novel
+25979836	Positive_Correlation	29431	D005768	Novel
+25979836	Positive_Correlation	292756	D018377	Novel
+25979836	Positive_Correlation	292756	D005768	Novel
+25979836	Positive_Correlation	24203	25298	No
+25979836	Negative_Correlation	C541795	24203	Novel
+25979836	Negative_Correlation	C541795	50689	Novel
+25979836	Negative_Correlation	C541795	116590	Novel
+25979836	Association	C541795	64465	Novel
+25979836	Association	C541795	363875	Novel
+25979836	Association	C541795	D001839	Novel
+25979836	Negative_Correlation	C541795	25298	Novel
+25979836	Negative_Correlation	C541795	29432	Novel
+25979836	Negative_Correlation	298947	C085911	No
+25979836	Negative_Correlation	298947	D000077191	No
+25979836	Association	24889	25298	No
+25979836	Positive_Correlation	D001839	24203	No
+25979836	Association	25298	83805	Novel
+25979836	Positive_Correlation	25298	50689	No
+25979836	Positive_Correlation	25298	116590	No
+25979836	Association	25298	64465	Novel
+25979836	Association	25298	363875	Novel
+25979836	Association	25298	24681	Novel
+25979836	Association	25298	24655	Novel
+25979836	Association	D018377	83805	Novel
+25979836	Association	D018377	64465	Novel
+25979836	Association	D018377	363875	Novel
+25979836	Association	D018377	24681	Novel
+25979836	Positive_Correlation	D018377	29432	Novel
+25979836	Association	29432	D010195	Novel
+25979836	Association	29432	D010182	Novel
+25979836	Association	29432	83805	Novel
+25979836	Bind	29432	64465	Novel
+25979836	Bind	29432	363875	Novel
+25979836	Association	29432	24889	Novel
+25979836	Positive_Correlation	29432	25266	Novel
+25979836	Positive_Correlation	29432	25313	Novel
+25979836	Positive_Correlation	29432	D001839	Novel
+25979836	Positive_Correlation	29432	D013755	Novel
+25979836	Positive_Correlation	29432	24681	Novel
+25979836	Positive_Correlation	29432	D002217	Novel
+25979836	Positive_Correlation	29432	25298	Novel
+25979836	Positive_Correlation	29432	24655	Novel
+25979836	Positive_Correlation	29432	54250	Novel
+25979836	Association	D005768	83805	Novel
+25979836	Association	D005768	64465	Novel
+25979836	Association	D005768	363875	Novel
+25979836	Association	D005768	24681	Novel
+25979836	Positive_Correlation	D005768	29432	Novel

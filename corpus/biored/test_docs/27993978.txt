@@ -1,0 +1,28 @@
+27993978|t|CenpH regulates meiotic G2/M transition by modulating the APC/CCdh1-cyclin B1 pathway in oocytes.
+27993978|a|Meiotic resumption (G2/M transition) and progression through meiosis I (MI) are two key stages for producing fertilization-competent eggs. Here, we report that CenpH, a component of the kinetochore inner plate, is responsible for G2/M transition in meiotic mouse oocytes. Depletion of CenpH by morpholino injection decreased cyclin B1 levels, resulting in attenuation of maturation-promoting factor (MPF) activation, and severely compromised meiotic resumption. CenpH protects cyclin B1 from destruction by competing with the action of APC/C(Cdh1) Impaired G2/M transition after CenpH depletion could be rescued by expression of exogenous cyclin B1. Unexpectedly, blocking CenpH did not affect spindle organization and meiotic cell cycle progression after germinal vesicle breakdown. Our findings reveal a novel role of CenpH in regulating meiotic G2/M transition by acting via the APC/C(Cdh1)-cyclin B1 pathway.
+27993978	0	5	CenpH	GeneOrGeneProduct	26886
+27993978	58	67	APC/CCdh1	GeneOrGeneProduct	56371
+27993978	68	77	cyclin B1	GeneOrGeneProduct	268697
+27993978	258	263	CenpH	GeneOrGeneProduct	26886
+27993978	355	360	mouse	OrganismTaxon	10090
+27993978	383	388	CenpH	GeneOrGeneProduct	26886
+27993978	392	402	morpholino	ChemicalEntity	D060172
+27993978	423	432	cyclin B1	GeneOrGeneProduct	268697
+27993978	469	496	maturation-promoting factor	GeneOrGeneProduct	268697
+27993978	498	501	MPF	GeneOrGeneProduct	268697
+27993978	560	565	CenpH	GeneOrGeneProduct	26886
+27993978	575	584	cyclin B1	GeneOrGeneProduct	268697
+27993978	634	639	APC/C	GeneOrGeneProduct	56371
+27993978	640	644	Cdh1	GeneOrGeneProduct	56371
+27993978	677	682	CenpH	GeneOrGeneProduct	26886
+27993978	737	746	cyclin B1	GeneOrGeneProduct	268697
+27993978	771	776	CenpH	GeneOrGeneProduct	26886
+27993978	918	923	CenpH	GeneOrGeneProduct	26886
+27993978	980	985	APC/C	GeneOrGeneProduct	56371
+27993978	986	990	Cdh1	GeneOrGeneProduct	56371
+27993978	992	1001	cyclin B1	GeneOrGeneProduct	268697
+27993978	Negative_Correlation	D060172	268697	Novel
+27993978	Association	268697	56371	Novel
+27993978	Association	26886	56371	Novel
+27993978	Negative_Correlation	26886	D060172	No
+27993978	Positive_Correlation	26886	268697	Novel

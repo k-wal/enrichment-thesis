@@ -1,0 +1,23 @@
+17351238|t|A dramatic drop in blood pressure following prehospital GTN administration.
+17351238|a|A male in his sixties with no history of cardiac chest pain awoke with chest pain following an afternoon sleep. The patient did not self medicate. The patient's observations were within normal limits, he was administered oxygen via a face mask and glyceryl trinitrate (GTN). Several minutes after the GTN the patient experienced a sudden drop in blood pressure and heart rate, this was rectified by atropine sulphate and a fluid challenge. There was no further deterioration in the patient's condition during transport to hospital. There are very few documented case like this in the prehospital scientific literature. The cause appears to be the Bezold-Jarish reflex, stimulation of the ventricular walls which in turn decreases sympathetic outflow from the vasomotor centre. Prehospital care providers who are managing any patient with a syncopal episode that fails to recover within a reasonable time frame should consider the Bezold-Jarisch reflex as the cause and manage the patient accordingly.
+17351238	11	33	drop in blood pressure	DiseaseOrPhenotypicFeature	D007022
+17351238	56	59	GTN	ChemicalEntity	D005996
+17351238	125	135	chest pain	DiseaseOrPhenotypicFeature	D002637
+17351238	147	157	chest pain	DiseaseOrPhenotypicFeature	D002637
+17351238	192	199	patient	OrganismTaxon	9606
+17351238	227	234	patient	OrganismTaxon	9606
+17351238	297	303	oxygen	ChemicalEntity	D010100
+17351238	324	343	glyceryl trinitrate	ChemicalEntity	D005996
+17351238	345	348	GTN	ChemicalEntity	D005996
+17351238	377	380	GTN	ChemicalEntity	D005996
+17351238	385	392	patient	OrganismTaxon	9606
+17351238	414	436	drop in blood pressure	DiseaseOrPhenotypicFeature	D007022
+17351238	475	492	atropine sulphate	ChemicalEntity	D001285
+17351238	558	565	patient	OrganismTaxon	9606
+17351238	901	908	patient	OrganismTaxon	9606
+17351238	916	932	syncopal episode	DiseaseOrPhenotypicFeature	D013575
+17351238	1056	1063	patient	OrganismTaxon	9606
+17351238	Negative_Correlation	D002637	D010100	No
+17351238	Negative_Correlation	D002637	D005996	No
+17351238	Negative_Correlation	D007022	D001285	Novel
+17351238	Positive_Correlation	D007022	D005996	Novel

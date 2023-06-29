@@ -1,0 +1,102 @@
+28171688|t|Diagnostic Value and Effect of Bedside Ultrasound in Acute Appendicitis in the Emergency Department
+28171688|a|Early and accurate diagnosis of acute appendicitis (AA) with ultrasound (US) can minimize the morbidity and mortality of the patients. In this regard, US can help emergency physicians (EPs) in the diagnosing process and clinical decision making for AA. Therefore, we primarily aimed to evaluate the effectiveness of point-of-care US (POCUS) in clinical decision making of EPs for the diagnostic evaluation for AA in the emergency department (ED). The study sample consisted of patients aged > 18 years who presented to the ED with abdominal pain and underwent diagnostic evaluation for AA. All patients were examined initially with POCUS by EPs and then with radiology - performed US (RADUS) by radiologists. Pre - and post - POCUS median diagnostic certainty values (MDCVs) for AA were determined with visual analog scale (VAS) scores (0 = not present, 100 = certainly present) by POCUS performers. Definitive diagnoses were determined by surgery, pathologic evaluation of appendectomy specimens, or clinical follow-up results. The sensitivity, specificity, positive likelihood ratio (PLR), and negative likelihood ratio (NLR) for POCUS and RADUS together with pre - and post - POCUS VAS scores for MDCVs were compared. A total of 264 patients were included into the final analysis and 169 (64%) had a diagnosis of AA. The sensitivity, specificity, PLR, and NLR of US examinations were 92.3% (95% confidence interval [CI] = 87.2%-95.8%), 95.8% (89.5%-98.8%), 21.9 (8.4-57.2), and 0.08 (0.05-0.1) for POCUS and 76.9% (69.8-83%), 97.8% (84.9-99.7%), 36.4 (9.25-144.3), and 0.24 (0.18-0.31) for RADUS, respectively. Pre - POCUS and post - POCUS VAS scores for MDCVs were 60 (interquartile range [IQR] = 50-65) and 95 (IQR = 20-98), respectively (p = 0.000). Point-of-care ultrasonography, when performed in ED for the diagnosis of AA, has high sensitivity and specificity and had a positive impact on the clinical decision making of EPs.
+28171688	0	16	Diagnostic Value	T080	C0598285
+28171688	39	49	Ultrasound	T060	C0041618
+28171688	53	71	Acute Appendicitis	T047	C0003615
+28171688	79	99	Emergency Department	T058	C0374899
+28171688	110	128	accurate diagnosis	T080	C0598285
+28171688	132	150	acute appendicitis	T047	C0003615
+28171688	152	154	AA	T047	C0003615
+28171688	161	171	ultrasound	T060	C0041618
+28171688	173	175	US	T060	C0041618
+28171688	194	203	morbidity	T081	C0026538
+28171688	208	217	mortality	T081	C0205848
+28171688	225	233	patients	T101	C0030705
+28171688	251	253	US	T060	C0041618
+28171688	263	272	emergency	T058	C0013961
+28171688	273	283	physicians	T097	C0031831
+28171688	285	288	EPs	T097	C0031831
+28171688	320	344	clinical decision making	T060	C4042877
+28171688	349	351	AA	T047	C0003615
+28171688	416	429	point-of-care	T058	C0282663
+28171688	430	432	US	T060	C0041618
+28171688	434	439	POCUS	T060	C0041618
+28171688	444	468	clinical decision making	T060	C4042877
+28171688	472	475	EPs	T097	C0031831
+28171688	484	505	diagnostic evaluation	T061	C1299715
+28171688	510	512	AA	T047	C0003615
+28171688	520	540	emergency department	T058	C0374899
+28171688	542	544	ED	T058	C0374899
+28171688	577	585	patients	T101	C0030705
+28171688	623	625	ED	T058	C0374899
+28171688	631	645	abdominal pain	T184	C0000737
+28171688	660	681	diagnostic evaluation	T061	C1299715
+28171688	686	688	AA	T047	C0003615
+28171688	694	702	patients	T101	C0030705
+28171688	732	737	POCUS	T060	C0041618
+28171688	741	744	EPs	T097	C0031831
+28171688	759	768	radiology	T091	C0034599
+28171688	771	780	performed	T169	C0884358
+28171688	781	783	US	T060	C0041618
+28171688	785	790	RADUS	T060	C0041618
+28171688	795	807	radiologists	T097	C0334907
+28171688	809	812	Pre	T079	C0332152
+28171688	819	823	post	T079	C0687676
+28171688	826	831	POCUS	T060	C0041618
+28171688	832	866	median diagnostic certainty values	T080	C0598285
+28171688	868	873	MDCVs	T080	C0598285
+28171688	879	881	AA	T047	C0003615
+28171688	903	935	visual analog scale (VAS) scores	T201	C2960751
+28171688	982	987	POCUS	T060	C0041618
+28171688	1000	1020	Definitive diagnoses	T078	C1546485
+28171688	1040	1047	surgery	T061	C0543467
+28171688	1049	1059	pathologic	T169	C1521733
+28171688	1060	1070	evaluation	T058	C0220825
+28171688	1074	1086	appendectomy	T061	C0003611
+28171688	1087	1096	specimens	T058	C3826454
+28171688	1101	1119	clinical follow-up	T058	C3274571
+28171688	1133	1144	sensitivity	T081	C1511883
+28171688	1146	1157	specificity	T081	C1511884
+28171688	1159	1167	positive	T033	C1446409
+28171688	1168	1184	likelihood ratio	T081	C0150102
+28171688	1186	1189	PLR	T081	C0150102
+28171688	1196	1204	negative	T033	C0205160
+28171688	1205	1221	likelihood ratio	T081	C0150102
+28171688	1223	1226	NLR	T081	C0150102
+28171688	1232	1237	POCUS	T060	C0041618
+28171688	1242	1247	RADUS	T060	C0041618
+28171688	1262	1265	pre	T079	C0332152
+28171688	1272	1276	post	T079	C0687676
+28171688	1279	1284	POCUS	T060	C0041618
+28171688	1285	1295	VAS scores	T201	C2960751
+28171688	1336	1344	patients	T101	C0030705
+28171688	1368	1382	final analysis	T078	C1546485
+28171688	1403	1412	diagnosis	T033	C0011900
+28171688	1416	1418	AA	T047	C0003615
+28171688	1424	1435	sensitivity	T081	C1511883
+28171688	1437	1448	specificity	T081	C1511884
+28171688	1450	1453	PLR	T081	C0150102
+28171688	1459	1462	NLR	T081	C0150102
+28171688	1466	1468	US	T060	C0041618
+28171688	1498	1517	confidence interval	T081	C0009667
+28171688	1519	1521	CI	T081	C0009667
+28171688	1601	1606	POCUS	T060	C0041618
+28171688	1693	1698	RADUS	T060	C0041618
+28171688	1714	1717	Pre	T079	C0332152
+28171688	1720	1725	POCUS	T060	C0041618
+28171688	1730	1734	post	T079	C0687676
+28171688	1737	1742	POCUS	T060	C0041618
+28171688	1743	1753	VAS scores	T201	C2960751
+28171688	1758	1763	MDCVs	T080	C0598285
+28171688	1773	1792	interquartile range	T081	C1711350
+28171688	1794	1797	IQR	T081	C1711350
+28171688	1816	1819	IQR	T081	C1711350
+28171688	1856	1869	Point-of-care	T058	C0282663
+28171688	1870	1885	ultrasonography	T060	C0041618
+28171688	1905	1907	ED	T058	C0374899
+28171688	1916	1925	diagnosis	T033	C0011900
+28171688	1929	1931	AA	T047	C0003615
+28171688	1942	1953	sensitivity	T081	C1511883
+28171688	1958	1969	specificity	T081	C1511884
+28171688	2003	2027	clinical decision making	T060	C4042877
+28171688	2031	2034	EPs	T097	C0031831

@@ -1,0 +1,34 @@
+28045933|t|Optimization of Peripheral Vascular Sizing with Conductance Guidewire: Theory and Experiment
+28045933|a|Although the clinical range of interventions for coronary arteries is about 2 to 5 mm, the range of diameters of peripheral vasculature is significantly larger (about 10 mm for human iliac artery). When the vessel diameter is increased, the spacing between excitation electrodes on a conductance sizing device must also increase to accommodate the greater range of vessel diameters. The increase in the excitation electrodes distance, however, causes higher parallel conductance or current losses outside of artery lumen. We have previously shown that the conductance catheter / guidewire excitation electrode distances affects the measurement accuracy for the peripheral artery lumen sizing. Here, we propose a simple solution that varies the detection electrode distances to compensate for parallel conductance losses. Computational models were constructed to simulate the conductance guidewire with various electrodes spacing combinations over a range of peripheral artery lumen diameters and surrounding tissue electrical conductivities. The results demonstrate that the measurement accuracy may be significantly improved by increased detection spacing. Specifically, an optimally configured detection / excitation spacing (i.e., 5-5-5 or an equidistant electrode interval with a detection-to-excitation spacing ratio of 0.3) was shown to accurately predict the lumen diameter (i.e., -10% < error < 10%) over a broad range of peripheral artery dimensions (4 mm < diameter < 10 mm). The computational results were substantiated with both ex-vivo and in-vivo measurements of peripheral arteries. The present results support the accuracy of the conductance technique for measurement of peripheral reference vessel diameter.
+28045933	16	35	Peripheral Vascular	T022	UMLS:C0225806
+28045933	36	42	Sizing	T058	UMLS:C0087111
+28045933	82	92	Experiment	T062	UMLS:C0681814
+28045933	124	137	interventions	T058	UMLS:C0184661
+28045933	142	159	coronary arteries	T017	UMLS:C0205042
+28045933	206	228	peripheral vasculature	T022	UMLS:C0225806
+28045933	270	288	human iliac artery	T017	UMLS:C0020887
+28045933	300	306	vessel	T017	UMLS:C0005847
+28045933	350	371	excitation electrodes	T074	UMLS:C0013812
+28045933	377	402	conductance sizing device	T074	UMLS:C0025080
+28045933	458	464	vessel	T017	UMLS:C0005847
+28045933	496	517	excitation electrodes	T074	UMLS:C0013812
+28045933	601	613	artery lumen	T082	UMLS:C0225997
+28045933	661	669	catheter	T074	UMLS:C0085590
+28045933	682	702	excitation electrode	T074	UMLS:C0013812
+28045933	754	764	peripheral	T082	UMLS:C0205100
+28045933	765	777	artery lumen	T082	UMLS:C0225997
+28045933	778	784	sizing	T058	UMLS:C0087111
+28045933	837	846	detection	T058	UMLS:C1511790
+28045933	847	856	electrode	T074	UMLS:C0013812
+28045933	928	934	models	T170	UMLS:C3161035
+28045933	955	963	simulate	T062	UMLS:C0679083
+28045933	1003	1013	electrodes	T074	UMLS:C0013812
+28045933	1069	1074	lumen	T082	UMLS:C0225997
+28045933	1101	1107	tissue	T017	UMLS:C0040300
+28045933	1196	1218	significantly improved	T033	UMLS:C0184511
+28045933	1232	1241	detection	T058	UMLS:C1511790
+28045933	1289	1298	detection	T058	UMLS:C1511790
+28045933	1351	1360	electrode	T074	UMLS:C0013812
+28045933	1459	1464	lumen	T082	UMLS:C0524461
+28045933	1646	1653	in-vivo	T082	UMLS:C1515655
+28045933	1780	1807	peripheral reference vessel	T017	UMLS:C0150936

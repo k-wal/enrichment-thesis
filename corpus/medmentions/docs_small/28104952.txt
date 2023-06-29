@@ -1,0 +1,57 @@
+28104952|t|Pitfalls in interpretation of FDG PET/CT: Septic pulmonary emboli mimicking metastases in a case of gastric carcinoma
+28104952|a|Inflammatory lesions may sometimes show intense tracer uptake and mimic neoplastic lesions on (18) F-fluoro-deoxyglucose (FDG) positron emission tomography/computed tomography (PET/CT). We report one such false positive case on FDG PET/CT, where septic pulmonary emboli (SPE) mimicked pulmonary metastases. A 45- year-old man with stomach cancer had an indwelling central venous catheter (CVC) in situ while on neoadjuvant chemotherapy. He underwent FDG PET/CT scan for response assessment and the images revealed multiple, intensely FDG avid, peripheral, lung nodules with feeding vessels, which were suspicious for pulmonary metastases. A day later, the patient developed fever with chills and his blood culture showed bacterial growth (Enterobacter cloacae). A provisional diagnosis of SPE from an infected CVC was made. Chemotherapy was withheld, CVC removed, and the catheter tip was sent for bacterial culture. Following a 4-week course of antibiotic treatment, the patient became afebrile. Culture from the CVC tip grew the same organism, as was seen earlier in the patient's blood culture, thus pin-pointing the source of infection in our case. Diagnosis of SPE was clinched when follow-up CT chest done after completion of antibiotic course showed complete resolution of the lung lesions.
+28104952	12	26	interpretation	T170	UMLS:C0459471
+28104952	30	33	FDG	T103	UMLS:C0046056
+28104952	34	40	PET/CT	T058	UMLS:C1699633
+28104952	76	86	metastases	T038	UMLS:C0153676
+28104952	100	117	gastric carcinoma	T038	UMLS:C0699791
+28104952	118	138	Inflammatory lesions	T033	UMLS:C3872830
+28104952	166	172	tracer	T103	UMLS:C1522485
+28104952	173	179	uptake	T038	UMLS:C0243144
+28104952	190	200	neoplastic	T038	UMLS:C0027651
+28104952	201	208	lesions	T033	UMLS:C0221198
+28104952	212	238	(18) F-fluoro-deoxyglucose	T103	UMLS:C0046056
+28104952	240	243	FDG	T103	UMLS:C0046056
+28104952	245	293	positron emission tomography/computed tomography	T058	UMLS:C1699633
+28104952	295	301	PET/CT	T058	UMLS:C1699633
+28104952	307	313	report	T170	UMLS:C0684224
+28104952	323	337	false positive	T033	UMLS:C0205557
+28104952	346	349	FDG	T103	UMLS:C0046056
+28104952	350	356	PET/CT	T058	UMLS:C1699633
+28104952	403	423	pulmonary metastases	T038	UMLS:C0153676
+28104952	440	443	man	T098	UMLS:C0025266
+28104952	449	463	stomach cancer	T038	UMLS:C0699791
+28104952	512	519	in situ	T082	UMLS:C0444498
+28104952	529	540	neoadjuvant	T058	UMLS:C0600558
+28104952	541	553	chemotherapy	T058	UMLS:C3665472
+28104952	568	571	FDG	T103	UMLS:C0046056
+28104952	572	583	PET/CT scan	T058	UMLS:C1699633
+28104952	588	596	response	T033	UMLS:C1704632
+28104952	616	622	images	T170	UMLS:C1704922
+28104952	652	655	FDG	T103	UMLS:C0046056
+28104952	656	660	avid	T103	UMLS:C2986972
+28104952	662	672	peripheral	T082	UMLS:C0205100
+28104952	674	686	lung nodules	T033	UMLS:C0034079
+28104952	692	707	feeding vessels	T017	UMLS:C0229889
+28104952	735	755	pulmonary metastases	T038	UMLS:C0153676
+28104952	792	809	fever with chills	T033	UMLS:C0085594
+28104952	818	831	blood culture	T058	UMLS:C0200949
+28104952	839	855	bacterial growth	T033	UMLS:C0427944
+28104952	857	877	Enterobacter cloacae	T007	UMLS:C0085484
+28104952	919	927	infected	T033	UMLS:C0439663
+28104952	942	954	Chemotherapy	T058	UMLS:C3665472
+28104952	990	1002	catheter tip	T074	UMLS:C0444299
+28104952	1016	1033	bacterial culture	T058	UMLS:C0430402
+28104952	1064	1084	antibiotic treatment	T058	UMLS:C0338237
+28104952	1105	1113	afebrile	T033	UMLS:C0277797
+28104952	1115	1122	Culture	T058	UMLS:C0430402
+28104952	1132	1139	CVC tip	T074	UMLS:C4076189
+28104952	1201	1214	blood culture	T058	UMLS:C0200949
+28104952	1238	1244	source	T033	UMLS:C0449416
+28104952	1248	1257	infection	T038	UMLS:C3714514
+28104952	1271	1280	Diagnosis	T033	UMLS:C0011900
+28104952	1306	1315	follow-up	T058	UMLS:C1522577
+28104952	1316	1318	CT	T058	UMLS:C0040405
+28104952	1319	1324	chest	T082	UMLS:C0817096
+28104952	1350	1360	antibiotic	T103	UMLS:C0003232
+28104952	1402	1414	lung lesions	T033	UMLS:C0577916

@@ -1,0 +1,26 @@
+20080983|t|Normalizing effects of modafinil on sleep in chronic cocaine users.
+20080983|a|OBJECTIVE: The purpose of the present study was to determine the effect of morning-dosed modafinil on sleep and daytime sleepiness in chronic cocaine users. METHOD: Twenty cocaine-dependent participants were randomly assigned to receive modafinil, 400 mg (N=10), or placebo (N=10) every morning at 7:30 a.m. for 16 days in an inpatient, double-blind randomized trial. Participants underwent polysomnographic sleep recordings on days 1 to 3, 7 to 9, and 14 to 16 (first, second, and third weeks of abstinence). The Multiple Sleep Latency Test was performed at 11:30 a.m., 2:00 p.m., and 4:30 p.m. on days 2, 8, and 15. For comparison of sleep architecture variables, 12 healthy comparison participants underwent a single night of experimental polysomnography that followed 1 night of accommodation polysomnography. RESULTS: Progressive abstinence from cocaine was associated with worsening of all measured polysomnographic sleep outcomes. Compared with placebo, modafinil decreased nighttime sleep latency and increased slow-wave sleep time in cocaine-dependent participants. The effect of modafinil interacted with the abstinence week and was associated with longer total sleep time and shorter REM sleep latency in the third week of abstinence. Comparison of slow-wave sleep time, total sleep time, and sleep latency in cocaine-dependent and healthy participants revealed a normalizing effect of modafinil in cocaine-dependent participants. Modafinil was associated with increased daytime sleep latency, as measured by the Multiple Sleep Latency Test, and a nearly significant decrease in subjective daytime sleepiness. CONCLUSIONS: Morning-dosed modafinil promotes nocturnal sleep, normalizes sleep architecture, and decreases daytime sleepiness in abstinent cocaine users. These effects may be relevant in the treatment of cocaine dependence.
+20080983	23	32	modafinil	ChemicalEntity	C048833
+20080983	53	60	cocaine	ChemicalEntity	D003042
+20080983	157	166	modafinil	ChemicalEntity	C048833
+20080983	180	198	daytime sleepiness	DiseaseOrPhenotypicFeature	D012893
+20080983	210	217	cocaine	ChemicalEntity	D003042
+20080983	240	247	cocaine	ChemicalEntity	D003042
+20080983	305	314	modafinil	ChemicalEntity	C048833
+20080983	394	403	inpatient	OrganismTaxon	9606
+20080983	919	926	cocaine	ChemicalEntity	D003042
+20080983	1029	1038	modafinil	ChemicalEntity	C048833
+20080983	1111	1118	cocaine	ChemicalEntity	D003042
+20080983	1157	1166	modafinil	ChemicalEntity	C048833
+20080983	1389	1396	cocaine	ChemicalEntity	D003042
+20080983	1465	1474	modafinil	ChemicalEntity	C048833
+20080983	1478	1485	cocaine	ChemicalEntity	D003042
+20080983	1510	1519	Modafinil	ChemicalEntity	C048833
+20080983	1669	1687	daytime sleepiness	DiseaseOrPhenotypicFeature	D012893
+20080983	1716	1725	modafinil	ChemicalEntity	C048833
+20080983	1797	1815	daytime sleepiness	DiseaseOrPhenotypicFeature	D012893
+20080983	1829	1836	cocaine	ChemicalEntity	D003042
+20080983	1894	1901	cocaine	ChemicalEntity	D003042
+20080983	Positive_Correlation	D012893	D003042	No
+20080983	Association	C048833	D003042	Novel
+20080983	Negative_Correlation	C048833	D012893	Novel

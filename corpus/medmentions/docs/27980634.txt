@@ -1,0 +1,86 @@
+27980634|t|Comparison of multiple single-nucleotide variant association tests in a meta-analysis of Genetic Analysis Workshop 19 family and unrelated data
+27980634|a|Meta-analysis has been widely used in genetic association studies to increase sample size and to improve power, both in the context of single-variant analysis, as well as for gene -based tests. Meta-analysis approaches for haplotype analysis have not been extensively developed and used, and have not been compared with other ways of jointly analysing multiple genetic variants. We propose a novel meta-analysis approach for a gene -based haplotype association test, and compare it with an existing meta-analysis approach of the sequence kernel association test (SKAT), using the unrelated samples and family samples of the Genetic Analysis Workshop 19 data sets. We performed association tests with diastolic blood pressure and restricted our analyses to all variants in exonic regions on all odd chromosomes. Meta-analysis of haplotype results and SKAT identified different genes. The most significantly associated gene identified by SKAT was the ALCAM gene on chromosome 3 with a p value of 7.0 × 10(- 5). Two of the most associated genes identified by the haplotype method were FPGT (p = 6.7 × 10(- 8)) on chromosome 1 and SPARC (p = 3.3 × 10(- 7)) on chromosome 5. Both genes were previously implicated in blood pressure regulation and hypertension. We compared two meta-analysis approaches to jointly analyze multiple variants: SKAT and haplotype tests. The difference in observed results may be because the haplotype method considered all observed haplotypes, whereas SKAT weighted variants inversely to their minor allele frequency, masking the effects of common variants. The two approaches identified different top genes, and appear to be complementary.
+27980634	0	10	Comparison	T052	C1707455
+27980634	14	22	multiple	T081	C0439064
+27980634	23	40	single-nucleotide	T114	C0028630
+27980634	41	48	variant	T028	C0678941
+27980634	49	66	association tests	T060	C3826699
+27980634	72	85	meta-analysis	T062	C0920317
+27980634	89	105	Genetic Analysis	T059	C0796344
+27980634	106	114	Workshop	UnknownType	C0681323
+27980634	118	124	family	T099	C0015576
+27980634	129	138	unrelated	T033	C0445356
+27980634	139	143	data	T078	C1511726
+27980634	144	157	Meta-analysis	T062	C0920317
+27980634	182	209	genetic association studies	T063	C2717878
+27980634	213	221	increase	T169	C0442805
+27980634	222	233	sample size	T081	C0242618
+27980634	249	254	power	T081	C3854080
+27980634	279	302	single-variant analysis	T059	C0796357
+27980634	319	323	gene	T028	C0017337
+27980634	331	336	tests	T059	C0022885
+27980634	338	351	Meta-analysis	T062	C0920317
+27980634	367	376	haplotype	T032	C0018591
+27980634	377	385	analysis	T062	C0936012
+27980634	486	521	analysing multiple genetic variants	T059	C3263354
+27980634	542	555	meta-analysis	T062	C0920317
+27980634	571	575	gene	T028	C0017337
+27980634	583	592	haplotype	T032	C0018591
+27980634	593	609	association test	T060	C3826699
+27980634	643	656	meta-analysis	T062	C0920317
+27980634	673	705	sequence kernel association test	T060	C3826699
+27980634	707	711	SKAT	T060	C3826699
+27980634	724	733	unrelated	T033	C0445356
+27980634	734	741	samples	T167	C0370003
+27980634	746	752	family	T099	C0015576
+27980634	753	760	samples	T167	C0370003
+27980634	768	784	Genetic Analysis	T059	C0796344
+27980634	785	793	Workshop	UnknownType	C0681323
+27980634	797	806	data sets	T170	C0150098
+27980634	821	838	association tests	T060	C3826699
+27980634	844	868	diastolic blood pressure	T201	C0428883
+27980634	873	883	restricted	T169	C0443288
+27980634	904	912	variants	T028	C0678941
+27980634	916	930	exonic regions	T114,T123	C0015295
+27980634	938	953	odd chromosomes	T026	C0008633
+27980634	955	968	Meta-analysis	T062	C0920317
+27980634	972	981	haplotype	T032	C0018591
+27980634	994	998	SKAT	T060	C3826699
+27980634	999	1009	identified	T080	C0205396
+27980634	1010	1019	different	T080	C1705242
+27980634	1020	1025	genes	T028	C0017337
+27980634	1050	1060	associated	T080	C0332281
+27980634	1061	1065	gene	T028	C0017337
+27980634	1066	1076	identified	T080	C0205396
+27980634	1080	1084	SKAT	T060	C3826699
+27980634	1093	1103	ALCAM gene	T028	C1332075
+27980634	1107	1119	chromosome 3	T026	C0008666
+27980634	1127	1134	p value	T081	C1709380
+27980634	1169	1179	associated	T080	C0332281
+27980634	1180	1185	genes	T028	C0017337
+27980634	1186	1196	identified	T080	C0205396
+27980634	1204	1213	haplotype	T032	C0018591
+27980634	1214	1220	method	T170	C0025663
+27980634	1226	1230	FPGT	T028	C1414690
+27980634	1254	1266	chromosome 1	T026	C0008651
+27980634	1271	1276	SPARC	T028	C1420342
+27980634	1300	1312	chromosome 5	T026	C0008668
+27980634	1319	1324	genes	T028	C0017337
+27980634	1355	1380	blood pressure regulation	T040	C0678863
+27980634	1385	1397	hypertension	T047	C0020538
+27980634	1415	1428	meta-analysis	T062	C0920317
+27980634	1459	1467	multiple	T081	C0439064
+27980634	1468	1476	variants	T028	C0678941
+27980634	1478	1482	SKAT	T060	C3826699
+27980634	1487	1496	haplotype	T032	C0018591
+27980634	1497	1502	tests	T059	C0022885
+27980634	1558	1567	haplotype	T032	C0018591
+27980634	1568	1574	method	T170	C0025663
+27980634	1599	1609	haplotypes	T032	C0018591
+27980634	1619	1623	SKAT	T060	C3826699
+27980634	1624	1632	weighted	T081	C0043100
+27980634	1633	1641	variants	T028	C0678941
+27980634	1661	1683	minor allele frequency	T081	C0017270
+27980634	1715	1723	variants	T028	C0678941
+27980634	1744	1754	identified	T080	C0205396
+27980634	1769	1774	genes	T028	C0017337

@@ -1,0 +1,57 @@
+27280293|t|Spatio-Temporal History of HIV-1 CRF35_AD in Afghanistan and Iran
+27280293|a|HIV-1 Circulating Recombinant Form 35_AD (CRF35_AD) has an important position in the epidemiological profile of Afghanistan and Iran. Despite the presence of this clade in Afghanistan and Iran for over a decade, our understanding of its origin and dissemination patterns is limited. In this study, we performed a Bayesian phylogeographic analysis to reconstruct the spatio-temporal dispersion pattern of this clade using eligible CRF35_AD gag and pol sequences available in the Los Alamos HIV database (432 sequences available from Iran, 16 sequences available from Afghanistan, and a single CRF35_AD -like pol sequence available from USA). Bayesian Markov Chain Monte Carlo algorithm was implemented in BEAST v1.8.1. Between-country dispersion rates were tested with Bayesian stochastic search variable selection method and were considered significant where Bayes factor values were greater than three. The findings suggested that CRF35_AD sequences were genetically similar to parental sequences from Kenya and Uganda, and to a set of subtype A1 sequences available from Afghan refugees living in Pakistan. Our results also showed that across all phylogenies, Afghan and Iranian CRF35_AD sequences formed a monophyletic cluster (posterior clade credibility> 0.7). The divergence date of this cluster was estimated to be between 1990 and 1992. Within this cluster, a bidirectional dispersion of the virus was observed across Afghanistan and Iran. We could not clearly identify if Afghanistan or Iran first established or received this epidemic, as the root location of this cluster could not be robustly estimated. Three CRF35_AD sequences from Afghan refugees living in Pakistan nested among Afghan and Iranian CRF35_AD branches. However, the CRF35_AD -like sequence available from USA diverged independently from Kenyan subtype A1 sequences, suggesting it not to be a true CRF35_AD lineage. Potential factors contributing to viral exchange between Afghanistan and Iran could be injection drug networks and mass migration of Afghan refugees and labours to Iran, which calls for extensive preventive efforts.
+27280293	0	23	Spatio-Temporal History	T062	UMLS:C3494293
+27280293	45	56	Afghanistan	T082	UMLS:C0001732
+27280293	61	65	Iran	T082	UMLS:C0022065
+27280293	66	106	HIV-1 Circulating Recombinant Form 35_AD	T005	UMLS:C0019704
+27280293	151	166	epidemiological	T091	UMLS:C0014507
+27280293	178	189	Afghanistan	T082	UMLS:C0001732
+27280293	194	198	Iran	T082	UMLS:C0022065
+27280293	238	249	Afghanistan	T082	UMLS:C0001732
+27280293	254	258	Iran	T082	UMLS:C0022065
+27280293	505	526	gag and pol sequences	T082	UMLS:C0004793
+27280293	544	554	Los Alamos	T082	UMLS:C3829256
+27280293	555	567	HIV database	T170	UMLS:C0950132
+27280293	573	582	sequences	T082	UMLS:C0004793
+27280293	598	602	Iran	T082	UMLS:C0022065
+27280293	607	616	sequences	T082	UMLS:C0004793
+27280293	632	643	Afghanistan	T082	UMLS:C0001732
+27280293	673	685	pol sequence	T082	UMLS:C0004793
+27280293	701	704	USA	T082	UMLS:C0041703
+27280293	707	750	Bayesian Markov Chain Monte Carlo algorithm	T170	UMLS:C0002045
+27280293	770	782	BEAST v1.8.1	T170	UMLS:C0037585
+27280293	834	886	Bayesian stochastic search variable selection method	T170	UMLS:C0034980
+27280293	1007	1016	sequences	T082	UMLS:C0004793
+27280293	1045	1063	parental sequences	T082	UMLS:C0004793
+27280293	1069	1074	Kenya	T082	UMLS:C0022558
+27280293	1079	1085	Uganda	T082	UMLS:C0041573
+27280293	1114	1123	sequences	T082	UMLS:C0004793
+27280293	1139	1145	Afghan	T082	UMLS:C0001732
+27280293	1146	1154	refugees	T098	UMLS:C0034961
+27280293	1165	1173	Pakistan	T082	UMLS:C0030211
+27280293	1228	1234	Afghan	T082	UMLS:C0001732
+27280293	1239	1246	Iranian	T082	UMLS:C0022065
+27280293	1256	1265	sequences	T082	UMLS:C0004793
+27280293	1466	1471	virus	T005	UMLS:C0042776
+27280293	1492	1503	Afghanistan	T082	UMLS:C0001732
+27280293	1508	1512	Iran	T082	UMLS:C0022065
+27280293	1547	1558	Afghanistan	T082	UMLS:C0001732
+27280293	1562	1566	Iran	T082	UMLS:C0022065
+27280293	1602	1610	epidemic	T038	UMLS:C0277548
+27280293	1697	1706	sequences	T082	UMLS:C0004793
+27280293	1712	1718	Afghan	T082	UMLS:C0001732
+27280293	1719	1727	refugees	T098	UMLS:C0034961
+27280293	1728	1737	living in	T082	UMLS:C0337646
+27280293	1738	1746	Pakistan	T082	UMLS:C0030211
+27280293	1760	1766	Afghan	T082	UMLS:C0001732
+27280293	1771	1778	Iranian	T082	UMLS:C0022065
+27280293	1826	1834	sequence	T082	UMLS:C0004793
+27280293	1850	1853	USA	T082	UMLS:C0041703
+27280293	1882	1888	Kenyan	T082	UMLS:C0022558
+27280293	1900	1909	sequences	T082	UMLS:C0004793
+27280293	1994	1999	viral	T005	UMLS:C0042776
+27280293	2017	2028	Afghanistan	T082	UMLS:C0001732
+27280293	2033	2037	Iran	T082	UMLS:C0022065
+27280293	2093	2099	Afghan	T082	UMLS:C0001732
+27280293	2100	2108	refugees	T098	UMLS:C0034961
+27280293	2124	2128	Iran	T082	UMLS:C0022065

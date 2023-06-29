@@ -1,0 +1,77 @@
+27670653|t|Amputation trends for patients with lower extremity ulcers due to diabetes and peripheral artery disease using statewide data
+27670653|a|This study reports all-payer amputation rates using state -based administrative claims data for high- risk patients with lower extremity (LE) ulcers and concomitant peripheral artery disease (PAD), diabetes mellitus (DM), or combination PAD / DM. In addition, we characterize patient factors that affect amputation - free survival. We also attempted to create a measure of a patient's ability to manage chronic diseases or to access appropriate outpatient care for ulcer management by accounting for hospital and emergency department (ED) visits in the preceding 60 days to determine how this also affects amputation - free survival. Patients admitted to nonfederal hospitals, seen in an ED, or treated in an eligible ambulatory surgery center within California from 2005 through 2013 with an International Classification of Diseases, Ninth Revision, Clinical Modification diagnosis code for a disease-specific LE ulcer were identified in the California Office of Statewide Health Planning and Development database. All subsequent hospital, ED, and ambulatory surgery center visits and procedures are captured to identify whether a patient underwent major amputation. Yearly amputation rates were determined to analyze trends. Amputation - free survival for the PAD, DM, and PAD / DM groups was determined. Cox modeling was used to evaluate the effect of patient characteristics. There were 219,547 patients identified with an incident LE ulcer throughout the state. Of these, 131,731 were DM associated, 36,193 were PAD associated, and 51,623 were associated with both PAD and DM. From 2005 to 2013, the number of patients with LE ulcers who required inpatient admission, presented to the ED, or had outpatient procedures was stable. However, there was a statistically significant increase in overall disease -associated amputation rates from 5.1 in 2005 to 13.5 in 2013 (P < .001). Patients with PAD / DM had the greatest increase in amputation rates from 10 per 100 patients with LE ulcer s in 2005 to 28 per 100 patients in 2013 (P < .001). Despite that patients with PAD / DM were 8 years younger than patients with PAD only, they had similar amputation - free survival. Within all age groups, men had worse amputation - free survival than women did. Race did not predict amputation - free survival, but having multiple prior ED or hospital admissions was a significant predictor of worse amputation - free survival. Potentially preventable amputations associated with high- risk diseases are increasing among patients who require inpatient hospital admission, present to the ED, or require outpatient interventional treatment. This trend is most notable among patients with a combination of PAD and DM. Patients with repeated hospitalizations before admission for the LE ulcer had the highest risk of amputation.
+27670653	0	10	Amputation	T058	UMLS:C0002688
+27670653	66	74	diabetes	T038	UMLS:C0011847
+27670653	79	104	peripheral artery disease	T038	UMLS:C1704436
+27670653	111	120	statewide	T082	UMLS:C1301808
+27670653	131	136	study	T062	UMLS:C2603343
+27670653	155	165	amputation	T058	UMLS:C0002688
+27670653	178	183	state	T082	UMLS:C1301808
+27670653	228	232	risk	T058	UMLS:C0086930
+27670653	291	316	peripheral artery disease	T038	UMLS:C1704436
+27670653	318	321	PAD	T038	UMLS:C1704436
+27670653	324	341	diabetes mellitus	T038	UMLS:C0011849
+27670653	343	345	DM	T038	UMLS:C0011849
+27670653	363	366	PAD	T038	UMLS:C1704436
+27670653	369	371	DM	T038	UMLS:C0011849
+27670653	430	440	amputation	T058	UMLS:C0002688
+27670653	529	545	chronic diseases	T038	UMLS:C0008679
+27670653	571	586	outpatient care	T058	UMLS:C0002423
+27670653	591	607	ulcer management	T058	UMLS:C0854626
+27670653	626	634	hospital	T092	UMLS:C0019994
+27670653	639	659	emergency department	T092	UMLS:C0562508
+27670653	661	663	ED	T092	UMLS:C0562508
+27670653	732	742	amputation	T058	UMLS:C0002688
+27670653	781	801	nonfederal hospitals	T092	UMLS:C0019994
+27670653	814	816	ED	T092	UMLS:C0562508
+27670653	821	828	treated	T058	UMLS:C0087111
+27670653	844	869	ambulatory surgery center	T092	UMLS:C1321139
+27670653	877	887	California	T082	UMLS:C0006754
+27670653	919	998	International Classification of Diseases, Ninth Revision, Clinical Modification	T170	UMLS:C1137112
+27670653	1069	1079	California	T082	UMLS:C0006754
+27670653	1090	1140	Statewide Health Planning and Development database	T170	UMLS:C0282574
+27670653	1157	1165	hospital	T092	UMLS:C0019994
+27670653	1167	1169	ED	T092	UMLS:C0562508
+27670653	1175	1200	ambulatory surgery center	T092	UMLS:C1321139
+27670653	1282	1292	amputation	T058	UMLS:C0002688
+27670653	1301	1311	amputation	T058	UMLS:C0002688
+27670653	1353	1363	Amputation	T058	UMLS:C0002688
+27670653	1388	1391	PAD	T038	UMLS:C1704436
+27670653	1393	1395	DM	T038	UMLS:C0011849
+27670653	1401	1404	PAD	T038	UMLS:C1704436
+27670653	1407	1409	DM	T038	UMLS:C0011849
+27670653	1433	1445	Cox modeling	T170	UMLS:C0282574
+27670653	1586	1591	state	T082	UMLS:C1301808
+27670653	1616	1618	DM	T038	UMLS:C0011849
+27670653	1643	1646	PAD	T038	UMLS:C1704436
+27670653	1696	1699	PAD	T038	UMLS:C1704436
+27670653	1704	1706	DM	T038	UMLS:C0011849
+27670653	1788	1797	admission	T058	UMLS:C0184666
+27670653	1816	1818	ED	T092	UMLS:C0562508
+27670653	1928	1935	disease	T038	UMLS:C0012634
+27670653	1948	1958	amputation	T058	UMLS:C0002688
+27670653	2024	2027	PAD	T038	UMLS:C1704436
+27670653	2030	2032	DM	T038	UMLS:C0011849
+27670653	2062	2072	amputation	T058	UMLS:C0002688
+27670653	2198	2201	PAD	T038	UMLS:C1704436
+27670653	2204	2206	DM	T038	UMLS:C0011849
+27670653	2247	2250	PAD	T038	UMLS:C1704436
+27670653	2274	2284	amputation	T058	UMLS:C0002688
+27670653	2325	2328	men	T098	UMLS:C0025266
+27670653	2339	2349	amputation	T058	UMLS:C0002688
+27670653	2371	2376	women	T098	UMLS:C0043210
+27670653	2403	2413	amputation	T058	UMLS:C0002688
+27670653	2457	2459	ED	T092	UMLS:C0562508
+27670653	2463	2482	hospital admissions	T058	UMLS:C0184666
+27670653	2520	2530	amputation	T058	UMLS:C0002688
+27670653	2572	2583	amputations	T058	UMLS:C0002688
+27670653	2606	2610	risk	T058	UMLS:C0086930
+27670653	2611	2619	diseases	T038	UMLS:C0012634
+27670653	2672	2690	hospital admission	T058	UMLS:C0184666
+27670653	2707	2709	ED	T092	UMLS:C0562508
+27670653	2823	2826	PAD	T038	UMLS:C1704436
+27670653	2831	2833	DM	T038	UMLS:C0011849
+27670653	2858	2874	hospitalizations	T058	UMLS:C0019993
+27670653	2882	2891	admission	T058	UMLS:C0184666
+27670653	2925	2929	risk	T058	UMLS:C0086930
+27670653	2933	2943	amputation	T058	UMLS:C0002688

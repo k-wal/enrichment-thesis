@@ -1,0 +1,58 @@
+28105970|t|Classification of Edible Oils Based on ATR-FTIR Spectral Information During a Long Heating Treatment
+28105970|a|Identification of oil type and its QC are important concerns in food control laboratories. Classifying edible oils that have not been used (i.e., unheated) with the aid of vibrational spectroscopy has previously been reported. However, the classification of used (i.e., heat-treated) oils needs special attention. The effect of long heating times on the classification of four kinds of edible oils (canola, corn, frying, and sunflower) based on attenuated total reflectance (ATR)-FTIR spectra was surveyed. The sampling was done on the oils during a 36 h heating process (at 170°C). The ATR-FTIR spectra of the samples were collected in the range of 4000-550 cm-1. Interval extended canonical variates analysis (ECVA), as a variable selection and classification tool, was used to determine the best intervals during the heating procedure for classification. Principal component analysis discriminate analysis, partial least-squares discriminate analysis, and ECVA were performed on the selected intervals and on the total heating time. The effect of autoscaling and mean-centering, as data preprocessing methods, was also investigated. The ECVA method resulted in the best performances for classification, with a 94% cross-validated nonerror rate (one misclassification) for the heating process times of 24-27 and 33-36 h.
+28105970	0	14	Classification	T185	C0008902
+28105970	18	29	Edible Oils	T168	C1517288
+28105970	39	47	ATR-FTIR	T062	C0206055
+28105970	48	68	Spectral Information	T078	C1533716
+28105970	78	100	Long Heating Treatment	T067	C1254366
+28105970	101	115	Identification	T080	C0205396
+28105970	119	122	oil	T168	C1517288
+28105970	123	127	type	T080	C0332307
+28105970	136	138	QC	T169	C0034378
+28105970	165	169	food	T168	C0016452
+28105970	165	190	food control laboratories	T073,T093	C0022877
+28105970	192	203	Classifying	T185	C0008902
+28105970	204	215	edible oils	T168	C1517288
+28105970	247	255	unheated	T169	C0205245
+28105970	273	297	vibrational spectroscopy	T059	C0037812
+28105970	341	355	classification	T185	C0008902
+28105970	371	383	heat-treated	T169	C0205245
+28105970	385	389	oils	T168	C1517288
+28105970	419	425	effect	T080	C1280500
+28105970	429	447	long heating times	T079	C0040223
+28105970	455	469	classification	T185	C0008902
+28105970	487	498	edible oils	T168	C1517288
+28105970	500	506	canola	T109,T168	C0054599
+28105970	508	512	corn	T109,T168	C0010029
+28105970	514	520	frying	T168	C1517288
+28105970	526	535	sunflower	T109,T168	C0075639
+28105970	546	593	attenuated total reflectance (ATR)-FTIR spectra	T062	C0206055
+28105970	598	606	surveyed	T062	C0683942
+28105970	612	620	sampling	T078	C0870078
+28105970	637	641	oils	T168	C1517288
+28105970	656	671	heating process	T067	C1254366
+28105970	688	704	ATR-FTIR spectra	T062	C0206055
+28105970	712	719	samples	T167	C0370003
+28105970	725	734	collected	T169	C1516698
+28105970	766	811	Interval extended canonical variates analysis	T081	C0026777
+28105970	813	817	ECVA	T081	C0026777
+28105970	825	843	variable selection	T080	C0205556
+28105970	848	862	classification	T185	C0008902
+28105970	900	909	intervals	T079	C1272706
+28105970	921	938	heating procedure	T067	C1254366
+28105970	943	957	classification	T185	C0008902
+28105970	959	987	Principal component analysis	T081	C0429865
+28105970	988	1009	discriminate analysis	T081	C0392762
+28105970	1011	1054	partial least-squares discriminate analysis	T081	C0392762
+28105970	1060	1064	ECVA	T081	C0026777
+28105970	1096	1105	intervals	T079	C1272706
+28105970	1117	1135	total heating time	T079	C0040223
+28105970	1151	1162	autoscaling	T033	C0243095
+28105970	1167	1181	mean-centering	T033	C0243095
+28105970	1186	1212	data preprocessing methods	T170	C0025663
+28105970	1223	1235	investigated	T169	C1292732
+28105970	1241	1252	ECVA method	T081	C0026777
+28105970	1291	1305	classification	T185	C0008902
+28105970	1318	1347	cross-validated nonerror rate	T081	C0392762
+28105970	1380	1395	heating process	T067	C1254366
+28105970	1396	1401	times	T079	C0040223

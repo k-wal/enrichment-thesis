@@ -1,0 +1,30 @@
+15464247|t|Influence of interleukin 12B (IL12B) polymorphisms on spontaneous and treatment-induced recovery from hepatitis C virus infection.
+15464247|a|BACKGROUND/AIMS: Interleukin-12 (IL-12) governs the Th1-type immune response, affecting the spontaneous and treatment-induced recovery from HCV-infection. We investigated whether the IL12B polymorphisms within the promoter region (4 bp insertion/deletion) and the 3'-UTR (1188-A/C), which have been reported to influence IL-12 synthesis, are associated with the outcome of HCV infection. METHODS: We analyzed 186 individuals with spontaneous HCV clearance, 501 chronically HCV infected patients, and 217 healthy controls. IL12B 3'-UTR and promoter genotyping was performed by Taqman-based assays with allele-specific oligonucleotide probes and PCR-based allele-specific DNA-amplification, respectively. RESULTS: The proportion of IL12B promoter and 3'-UTR genotypes did not differ significantly between the different cohorts. However, HCV genotype 1-infected patients with high baseline viremia carrying the IL12B 3'-UTR 1188-C-allele showed significantly higher sustained virologic response (SVR) rates (25.3% vs. 46% vs. 54.5% for A/A, A/C and C/C) due to reduced relapse rates (24.2% vs. 12% vs. zero % for A/A, A/C and C/C). CONCLUSIONS: IL12B 3'-UTR 1188-C-allele carriers appear to be capable of responding more efficiently to antiviral combination therapy as a consequence of a reduced relapse rate. No association of IL12B polymorphisms and self-limited HCV infection could be demonstrated.
+15464247	13	28	interleukin 12B	GeneOrGeneProduct	3593
+15464247	30	35	IL12B	GeneOrGeneProduct	3593
+15464247	102	129	hepatitis C virus infection	DiseaseOrPhenotypicFeature	D006526
+15464247	148	162	Interleukin-12	GeneOrGeneProduct	3593
+15464247	164	169	IL-12	GeneOrGeneProduct	3593
+15464247	271	284	HCV-infection	DiseaseOrPhenotypicFeature	D006526
+15464247	314	319	IL12B	GeneOrGeneProduct	3593
+15464247	362	385	4 bp insertion/deletion	SequenceVariant	c|INDEL||4
+15464247	403	411	1188-A/C	SequenceVariant	c|SUB|A|1188|C
+15464247	452	457	IL-12	GeneOrGeneProduct	3593
+15464247	504	517	HCV infection	DiseaseOrPhenotypicFeature	D006526
+15464247	573	576	HCV	OrganismTaxon	11103
+15464247	604	616	HCV infected	DiseaseOrPhenotypicFeature	D006526
+15464247	617	625	patients	OrganismTaxon	9606
+15464247	653	658	IL12B	GeneOrGeneProduct	3593
+15464247	748	763	oligonucleotide	ChemicalEntity	D009841
+15464247	861	866	IL12B	GeneOrGeneProduct	3593
+15464247	966	989	HCV genotype 1-infected	DiseaseOrPhenotypicFeature	D006526
+15464247	990	998	patients	OrganismTaxon	9606
+15464247	1018	1025	viremia	DiseaseOrPhenotypicFeature	D014766
+15464247	1039	1044	IL12B	GeneOrGeneProduct	3593
+15464247	1052	1058	1188-C	SequenceVariant	c|Allele|C|1188
+15464247	1273	1278	IL12B	GeneOrGeneProduct	3593
+15464247	1286	1292	1188-C	SequenceVariant	c|Allele|C|1188
+15464247	1456	1461	IL12B	GeneOrGeneProduct	3593
+15464247	1493	1506	HCV infection	DiseaseOrPhenotypicFeature	D006526
+15464247	Association	D014766	c|Allele|C|1188	Novel
+15464247	Association	D014766	3593	Novel

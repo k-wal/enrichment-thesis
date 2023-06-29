@@ -1,0 +1,51 @@
+28533050|t|Dual-core steered non-rigid registration for multi-modal images via bi-directional image synthesis
+28533050|a|In prostate cancer radiotherapy, computed tomography (CT) is widely used for dose planning purposes. However, because CT has low soft tissue contrast, it makes manual contouring difficult for major pelvic organs. In contrast, magnetic resonance imaging (MRI) provides high soft tissue contrast, which makes it ideal for accurate manual contouring. Therefore, the contouring accuracy on CT can be significantly improved if the contours in MRI can be mapped to CT domain by registering MRI with CT of the same subject, which would eventually lead to high treatment efficacy. In this paper, we propose a bi-directional image synthesis based approach for MRI -to- CT pelvic image registration. First, we use patch-wise random forest with auto-context model to learn the appearance mapping from CT to MRI domain, and then vice versa. Consequently, we can synthesize a pseudo-MRI whose anatomical structures are exactly same with CT but with MRI -like appearance, and a pseudo-CT as well. Then, our MRI -to- CT registration can be steered in a dual manner, by simultaneously estimating two deformation pathways: 1) one from the pseudo-CT to the actual CT and 2) another from actual MRI to the pseudo-MRI. Next, a dual-core deformation fusion framework is developed to iteratively and effectively combine these two registration pathways by using complementary information from both modalities. Experiments on a dataset with real pelvic CT and MRI have shown improved registration performance of the proposed method by comparing it to the conventional registration methods, thus indicating its high potential of translation to the routine radiation therapy.
+28533050	45	63	multi-modal images	T170	UMLS:C1704254
+28533050	83	88	image	T170	UMLS:C1704254
+28533050	102	117	prostate cancer	T038	UMLS:C0376358
+28533050	118	130	radiotherapy	T058	UMLS:C1522449
+28533050	132	151	computed tomography	T058	UMLS:C0040405
+28533050	153	155	CT	T058	UMLS:C0040405
+28533050	217	219	CT	T058	UMLS:C0040405
+28533050	228	239	soft tissue	T017	UMLS:C0225317
+28533050	266	276	contouring	T058	UMLS:C1288294
+28533050	297	310	pelvic organs	T017	UMLS:C0230273
+28533050	325	351	magnetic resonance imaging	T058	UMLS:C0024485
+28533050	353	356	MRI	T058	UMLS:C0024485
+28533050	372	383	soft tissue	T017	UMLS:C0225317
+28533050	435	445	contouring	T058	UMLS:C1288294
+28533050	462	472	contouring	T058	UMLS:C1288294
+28533050	485	487	CT	T058	UMLS:C0040405
+28533050	525	533	contours	T082	UMLS:C0876954
+28533050	537	540	MRI	T058	UMLS:C0024485
+28533050	558	560	CT	T058	UMLS:C0040405
+28533050	583	586	MRI	T058	UMLS:C0024485
+28533050	592	594	CT	T058	UMLS:C0040405
+28533050	715	720	image	T170	UMLS:C1704254
+28533050	750	753	MRI	T058	UMLS:C0024485
+28533050	759	761	CT	T058	UMLS:C0040405
+28533050	762	768	pelvic	T017	UMLS:C0030797
+28533050	803	827	patch-wise random forest	T170	UMLS:C0282574
+28533050	833	851	auto-context model	T170	UMLS:C3161035
+28533050	855	860	learn	T038	UMLS:C0023185
+28533050	889	891	CT	T058	UMLS:C0040405
+28533050	895	898	MRI	T058	UMLS:C0024485
+28533050	962	972	pseudo-MRI	T058	UMLS:C0024485
+28533050	979	1000	anatomical structures	T017	UMLS:C0700276
+28533050	1023	1025	CT	T058	UMLS:C0040405
+28533050	1035	1038	MRI	T058	UMLS:C0024485
+28533050	1063	1072	pseudo-CT	T058	UMLS:C0040405
+28533050	1092	1095	MRI	T058	UMLS:C0024485
+28533050	1101	1103	CT	T058	UMLS:C0040405
+28533050	1221	1230	pseudo-CT	T058	UMLS:C0040405
+28533050	1245	1247	CT	T058	UMLS:C0040405
+28533050	1275	1278	MRI	T058	UMLS:C0024485
+28533050	1286	1296	pseudo-MRI	T058	UMLS:C0024485
+28533050	1486	1497	Experiments	T062	UMLS:C0681814
+28533050	1503	1510	dataset	T170	UMLS:C0150098
+28533050	1521	1527	pelvic	T017	UMLS:C0030797
+28533050	1528	1530	CT	T058	UMLS:C0040405
+28533050	1535	1538	MRI	T058	UMLS:C0024485
+28533050	1600	1606	method	T170	UMLS:C0025663
+28533050	1656	1663	methods	T170	UMLS:C0025663
+28533050	1730	1747	radiation therapy	T058	UMLS:C1522449

@@ -1,0 +1,29 @@
+28268917|t|Automated basal cell carcinoma detection in high-definition optical coherence tomography
+28268917|a|Basal cell carcinoma (BCC) is the most common non-melanoma skin cancer. Conventional diagnosis of BCC requires invasive biopsies. Recently, a high-definition optical coherence tomography (HD-OCT) technique has been developed, which provides a non-invasive in vivo imaging method of skin. Good agreements of BCC features between HD-OCT images and histopathological architecture have been found. Therefore it is possible to automatically detect BCC using HD-OCT. This paper presents a novel BCC detection method that consists of four steps: graph based skin surface segmentation, surface flattening, deep feature extraction and the BCC classification. The effectiveness of the proposed method is well demonstrated on a dataset of 5,040 images. It can therefore serve as an automatic tool for screening BCC.
+28268917	10	30	basal cell carcinoma	T191	C0007117
+28268917	44	88	high-definition optical coherence tomography	T060	C0920367
+28268917	89	109	Basal cell carcinoma	T191	C0007117
+28268917	111	114	BCC	T191	C0007117
+28268917	135	159	non-melanoma skin cancer	T191	C0699893
+28268917	187	190	BCC	T191	C0007117
+28268917	200	208	invasive	T080	C0205281
+28268917	209	217	biopsies	T060	C0005558
+28268917	231	275	high-definition optical coherence tomography	T060	C0920367
+28268917	277	283	HD-OCT	T060	C0920367
+28268917	332	344	non-invasive	T169	C0205303
+28268917	345	367	in vivo imaging method	T059	C1708481
+28268917	371	375	skin	T022	C1123023
+28268917	396	399	BCC	T191	C0007117
+28268917	417	423	HD-OCT	T060	C0920367
+28268917	424	430	images	T078	C1551337
+28268917	435	465	histopathological architecture	T169	C0243140
+28268917	532	535	BCC	T191	C0007117
+28268917	542	548	HD-OCT	T060	C0920367
+28268917	578	581	BCC	T191	C0007117
+28268917	582	598	detection method	T060	C0430022
+28268917	640	652	skin surface	T029	C1180212
+28268917	653	665	segmentation	T058	C0700381
+28268917	667	685	surface flattening	T169	C0016203
+28268917	719	722	BCC	T191	C0007117
+28268917	743	756	effectiveness	T080	C1280519
+28268917	889	892	BCC	T191	C0007117

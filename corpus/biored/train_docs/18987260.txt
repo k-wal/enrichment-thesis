@@ -1,0 +1,65 @@
+18987260|t|Reduced progression of adriamycin nephropathy in spontaneously hypertensive rats treated by losartan.
+18987260|a|BACKGROUND: The aim of the study was to investigate the antihypertensive effects of angiotensin II type-1 receptor blocker, losartan, and its potential in slowing down renal disease progression in spontaneously hypertensive rats (SHR) with adriamycin (ADR) nephropathy. METHODS: Six-month-old female SHR were randomly selected in six groups. Two control groups (SH(6), SH(12)) received vehicle. Groups ADR(6), ADR+LOS(6) and ADR(12), and ADR+LOS(12) received ADR (2 mg/kg/b.w. i.v.) twice in a 3-week interval. Group ADR+LOS(6) received losartan (10 mg/kg/b.w./day by gavages) for 6 weeks and group ADR+LOS(12) for 12 weeks after second injection of ADR. Animals were killed after 6 or 12 weeks, respectively. Haemodynamic measurements were performed on anaesthetized animals, blood and urine samples were taken for biochemical analysis and the left kidney was processed for morphological studies. RESULTS: Short-term losartan treatment, besides antihypertensive effect, improved glomerular filtration rate and ameliorated glomerulosclerosis resulting in decreased proteinuria. Prolonged treatment with losartan showed further reduction of glomerulosclerosis associated with reduced progression of tubular atrophy and interstitial fibrosis, thus preventing heavy proteinuria and chronic renal failure. Losartan reduced uraemia and increased urea clearance in advanced ADR nephropathy in SHR. Histological examination showed that losartan could prevent tubular atrophy, interstitial infiltration and fibrosis in ADR nephropathy. CONCLUSION: Losartan reduces the rate of progression of ADR-induced focal segmental glomerulosclerosis to end-stage renal disease in SHR.
+18987260	23	33	adriamycin	ChemicalEntity	D004317
+18987260	34	45	nephropathy	DiseaseOrPhenotypicFeature	D007674
+18987260	63	75	hypertensive	DiseaseOrPhenotypicFeature	D006973
+18987260	76	80	rats	OrganismTaxon	10116
+18987260	92	100	losartan	ChemicalEntity	D019808
+18987260	186	216	angiotensin II type-1 receptor	GeneOrGeneProduct	24180
+18987260	226	234	losartan	ChemicalEntity	D019808
+18987260	270	283	renal disease	DiseaseOrPhenotypicFeature	D007674
+18987260	313	325	hypertensive	DiseaseOrPhenotypicFeature	D006973
+18987260	326	330	rats	OrganismTaxon	10116
+18987260	342	352	adriamycin	ChemicalEntity	D004317
+18987260	354	357	ADR	ChemicalEntity	D004317
+18987260	359	370	nephropathy	DiseaseOrPhenotypicFeature	D007674
+18987260	504	507	ADR	ChemicalEntity	D004317
+18987260	512	515	ADR	ChemicalEntity	D004317
+18987260	516	519	LOS	ChemicalEntity	D019808
+18987260	527	530	ADR	ChemicalEntity	D004317
+18987260	540	543	ADR	ChemicalEntity	D004317
+18987260	544	547	LOS	ChemicalEntity	D019808
+18987260	561	564	ADR	ChemicalEntity	D004317
+18987260	619	622	ADR	ChemicalEntity	D004317
+18987260	623	626	LOS	ChemicalEntity	D019808
+18987260	639	647	losartan	ChemicalEntity	D019808
+18987260	701	704	ADR	ChemicalEntity	D004317
+18987260	705	708	LOS	ChemicalEntity	D019808
+18987260	752	755	ADR	ChemicalEntity	D004317
+18987260	1020	1028	losartan	ChemicalEntity	D019808
+18987260	1125	1143	glomerulosclerosis	DiseaseOrPhenotypicFeature	D005921
+18987260	1167	1178	proteinuria	DiseaseOrPhenotypicFeature	D011507
+18987260	1205	1213	losartan	ChemicalEntity	D019808
+18987260	1242	1260	glomerulosclerosis	DiseaseOrPhenotypicFeature	D005921
+18987260	1308	1315	atrophy	DiseaseOrPhenotypicFeature	D001284
+18987260	1320	1341	interstitial fibrosis	DiseaseOrPhenotypicFeature	D005355
+18987260	1365	1376	proteinuria	DiseaseOrPhenotypicFeature	D011507
+18987260	1381	1402	chronic renal failure	DiseaseOrPhenotypicFeature	D007676
+18987260	1404	1412	Losartan	ChemicalEntity	D019808
+18987260	1421	1428	uraemia	DiseaseOrPhenotypicFeature	D014511
+18987260	1443	1447	urea	ChemicalEntity	D014508
+18987260	1470	1473	ADR	ChemicalEntity	D004317
+18987260	1474	1485	nephropathy	DiseaseOrPhenotypicFeature	D007674
+18987260	1531	1539	losartan	ChemicalEntity	D019808
+18987260	1562	1569	atrophy	DiseaseOrPhenotypicFeature	D001284
+18987260	1601	1609	fibrosis	DiseaseOrPhenotypicFeature	D005355
+18987260	1613	1616	ADR	ChemicalEntity	D004317
+18987260	1617	1628	nephropathy	DiseaseOrPhenotypicFeature	D007674
+18987260	1642	1650	Losartan	ChemicalEntity	D019808
+18987260	1686	1689	ADR	ChemicalEntity	D004317
+18987260	1698	1732	focal segmental glomerulosclerosis	DiseaseOrPhenotypicFeature	D005923
+18987260	1736	1759	end-stage renal disease	DiseaseOrPhenotypicFeature	D007676
+18987260	Association	D014508	D007674	Novel
+18987260	Negative_Correlation	D019808	D006973	Novel
+18987260	Negative_Correlation	D019808	24180	No
+18987260	Negative_Correlation	D019808	D005923	Novel
+18987260	Negative_Correlation	D019808	D014511	Novel
+18987260	Negative_Correlation	D019808	D007676	Novel
+18987260	Negative_Correlation	D019808	D005355	Novel
+18987260	Negative_Correlation	D019808	D001284	Novel
+18987260	Negative_Correlation	D019808	D011507	Novel
+18987260	Negative_Correlation	D019808	D005921	Novel
+18987260	Negative_Correlation	D019808	D007674	Novel
+18987260	Negative_Correlation	D019808	D004317	Novel
+18987260	Positive_Correlation	D004317	D005923	No
+18987260	Positive_Correlation	D004317	D007674	No

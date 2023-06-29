@@ -1,0 +1,88 @@
+27993971|t|The CD9, CD81, and CD151 EC2 domains bind to the classical RGD-binding site of integrin αvβ3
+27993971|a|Tetraspanins play important roles in normal (e.g., cell adhesion, motility, activation, and proliferation), and pathological conditions (e.g., metastasis and viral infection). Tetraspanins interact with integrins and regulate integrin functions, but the specifics of tetraspanin - integrin interaction are unclear. Using co-immunoprecipitation with integrins as a sole method to detect interaction between integrins and full-length tetraspanins, it has been proposed that the variable region (helices D and E) of the extracellular-2 (EC2) of tetraspanins laterally associate with non-ligand-binding site of integrins. We describe that, using adhesion assays, the EC2 domain of CD81, CD9, and CD151 bound to integrin αvβ3 and this binding was suppressed by cRGDfV, a specific inhibitor of αvβ3, and antibody 7E3 that is mapped to the ligand-binding site of β3. We also present evidence that the specificity loop of β3 directly bound to the EC2 domains. This suggests that the EC2 domains specifically binds to the classical ligand-binding site of αvβ3. αvβ3 was a more effective receptor for the EC2 domains than previously known tetraspanin receptors α3β1, α4β1, and α6β1. Docking simulation predicted that the helices A and B of CD81 EC2 binds to the RGD-binding site of αvβ3. Substituting Lys residues at position 116, 144/148 of CD81 EC2 in the predicted integrin - binding interface reduced the binding of CD81 EC2 to αvβ3, consistent with the docking model. These findings suggest that, in contrast to previous models, the ligand-binding site of integrin αvβ3, a new tetraspanin receptor, binds to the constant region (helices A and B) of the EC2 domain.
+27993971	4	7	CD9	T103	UMLS:C1701084
+27993971	9	13	CD81	T103	UMLS:C1452163
+27993971	19	24	CD151	T103	UMLS:C0389372
+27993971	25	36	EC2 domains	T082	UMLS:C1517050
+27993971	37	41	bind	T038	UMLS:C1167622
+27993971	79	92	integrin αvβ3	T103	UMLS:C1138427
+27993971	93	105	Tetraspanins	T103	UMLS:C3178812
+27993971	144	157	cell adhesion	T038	UMLS:C0007577
+27993971	159	167	motility	T038	UMLS:C0007608
+27993971	169	179	activation	T038	UMLS:C1326120
+27993971	185	198	proliferation	T038	UMLS:C0596290
+27993971	236	246	metastasis	T038	UMLS:C4255448
+27993971	251	266	viral infection	T038	UMLS:C0042769
+27993971	269	281	Tetraspanins	T103	UMLS:C3178812
+27993971	282	290	interact	T038	UMLS:C0007582
+27993971	296	305	integrins	T103	UMLS:C0021701
+27993971	319	327	integrin	T103	UMLS:C0021701
+27993971	328	337	functions	T038	UMLS:C1148560
+27993971	360	371	tetraspanin	T103	UMLS:C3178812
+27993971	374	382	integrin	T103	UMLS:C0021701
+27993971	383	394	interaction	T038	UMLS:C0007582
+27993971	414	436	co-immunoprecipitation	T058	UMLS:C1449705
+27993971	442	451	integrins	T103	UMLS:C0021701
+27993971	479	490	interaction	T038	UMLS:C0007582
+27993971	499	508	integrins	T103	UMLS:C0021701
+27993971	525	537	tetraspanins	T103	UMLS:C3178812
+27993971	610	625	extracellular-2	T082	UMLS:C1517050
+27993971	627	630	EC2	T082	UMLS:C1517050
+27993971	635	647	tetraspanins	T103	UMLS:C3178812
+27993971	673	696	non-ligand-binding site	T103	UMLS:C0005456
+27993971	700	709	integrins	T103	UMLS:C0021701
+27993971	735	743	adhesion	T038	UMLS:C0007577
+27993971	744	750	assays	T058	UMLS:C0005507
+27993971	756	766	EC2 domain	T082	UMLS:C1517050
+27993971	770	774	CD81	T103	UMLS:C1452163
+27993971	776	779	CD9	T103	UMLS:C1701084
+27993971	785	790	CD151	T103	UMLS:C0389372
+27993971	800	813	integrin αvβ3	T103	UMLS:C1138427
+27993971	823	830	binding	T038	UMLS:C1167622
+27993971	849	855	cRGDfV	T103	UMLS:C0762960
+27993971	868	877	inhibitor	T103	UMLS:C0003139
+27993971	881	885	αvβ3	T103	UMLS:C1138427
+27993971	891	903	antibody 7E3	T103	UMLS:C0288672
+27993971	926	945	ligand-binding site	T082	UMLS:C0682969
+27993971	949	951	β3	T103	UMLS:C0245726
+27993971	999	1003	loop	T082	UMLS:C0445022
+27993971	1007	1009	β3	T103	UMLS:C0245726
+27993971	1019	1024	bound	T038	UMLS:C1167622
+27993971	1032	1043	EC2 domains	T082	UMLS:C1517050
+27993971	1068	1079	EC2 domains	T082	UMLS:C1517050
+27993971	1093	1098	binds	T038	UMLS:C1167622
+27993971	1116	1135	ligand-binding site	T082	UMLS:C0682969
+27993971	1139	1143	αvβ3	T103	UMLS:C1138427
+27993971	1145	1149	αvβ3	T103	UMLS:C1138427
+27993971	1171	1179	receptor	T103	UMLS:C0597357
+27993971	1188	1199	EC2 domains	T082	UMLS:C1517050
+27993971	1222	1233	tetraspanin	T103	UMLS:C3178812
+27993971	1234	1243	receptors	T103	UMLS:C0597357
+27993971	1244	1248	α3β1	T103	UMLS:C0246766
+27993971	1250	1254	α4β1	T103	UMLS:C0209606
+27993971	1260	1264	α6β1	T103	UMLS:C0246951
+27993971	1266	1284	Docking simulation	T062	UMLS:C3494273
+27993971	1323	1327	CD81	T103	UMLS:C1452163
+27993971	1328	1331	EC2	T082	UMLS:C1517050
+27993971	1332	1337	binds	T038	UMLS:C1167622
+27993971	1365	1369	αvβ3	T103	UMLS:C1138427
+27993971	1384	1396	Lys residues	T103	UMLS:C0024337
+27993971	1400	1408	position	T082	UMLS:C0733755
+27993971	1425	1429	CD81	T103	UMLS:C1452163
+27993971	1430	1433	EC2	T082	UMLS:C1517050
+27993971	1451	1459	integrin	T103	UMLS:C0021701
+27993971	1462	1469	binding	T038	UMLS:C1167622
+27993971	1492	1499	binding	T038	UMLS:C1167622
+27993971	1503	1507	CD81	T103	UMLS:C1452163
+27993971	1508	1511	EC2	T082	UMLS:C1517050
+27993971	1515	1519	αvβ3	T103	UMLS:C1138427
+27993971	1541	1554	docking model	T062	UMLS:C3494273
+27993971	1562	1570	findings	T033	UMLS:C0243095
+27993971	1585	1596	in contrast	T033	UMLS:C3641828
+27993971	1609	1615	models	T170	UMLS:C0026344
+27993971	1621	1640	ligand-binding site	T082	UMLS:C0682969
+27993971	1644	1657	integrin αvβ3	T103	UMLS:C1138427
+27993971	1665	1676	tetraspanin	T103	UMLS:C3178812
+27993971	1677	1685	receptor	T103	UMLS:C0597357
+27993971	1687	1692	binds	T038	UMLS:C1167622
+27993971	1741	1751	EC2 domain	T082	UMLS:C1517050

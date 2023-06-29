@@ -1,0 +1,12 @@
+28423855|t|EHR Improvement Using Incident Reports
+28423855|a|This paper discusses reactive improvement of clinical software using methods for incident analysis. We used the "Five Whys" method because we had only descriptive data and depended on a domain expert for the analysis. The analysis showed that there are two major root causes for EHR software failure, and that they are related to human and organizational errors. A main identified improvement is allocating more resources to system maintenance and user training.
+28423855	22	38	Incident Reports	T058	UMLS:C0178896
+28423855	93	101	software	T170	UMLS:C0037585
+28423855	108	115	methods	T170	UMLS:C0025663
+28423855	129	137	analysis	T062	UMLS:C0936012
+28423855	151	169	"Five Whys" method	T170	UMLS:C0025663
+28423855	247	255	analysis	T062	UMLS:C0936012
+28423855	261	269	analysis	T062	UMLS:C0936012
+28423855	302	313	root causes	T033	UMLS:C0566251
+28423855	322	330	software	T170	UMLS:C0037585
+28423855	369	374	human	T204	UMLS:C0086418

@@ -1,0 +1,51 @@
+27866868|t|Lack of evidence of lower 30-day all-cause readmission in Medicare beneficiaries with heart failure and reduced ejection fraction discharged on spironolactone
+27866868|a|Therapy with evidence -based heart failure (HF) medications has been shown to be associated with lower risk of 30-day all-cause readmission in patients with HF and reduced ejection fraction (HFrEF). We examined the association of aldosterone antagonist use with 30-day all-cause readmission in this population. Of the 2443 Medicare beneficiaries with HF and left ventricular EF ≤35% discharged home from 106 Alabama hospitals during 1998-2001, 2060 were eligible for spironolactone therapy (serum creatinine ≤2.5 for men and ≤2mg/dl for women, and serum potassium <5mEq/L). After excluding 186 patients already receiving spironolactone on admission, the inception cohort consisted of 1874 patients eligible for a new discharge prescription for spironolactone, of which 329 received one. Using propensity scores for initiation of spironolactone therapy, we assembled a matched cohort of 324 pairs of patients receiving and not receiving spironolactone balanced on 34 baseline characteristics (mean age 72years, 42% women, 33% African American). Thirty-day all-cause readmission occurred in 17% and 19% of matched patients receiving and not receiving spironolactone, respectively (hazard ratio [HR], 0.92; 95% confidence interval [CI], 0.64-1.32; p=0.650). Spironolactone had no association with 30-day all-cause mortality (HR, 0.84; 95% CI, 0.38-1.88; p=0.678) or HF readmission (HR, 0.74; 95% CI, 0.41 1.31; p=0.301). These associations remained unchanged during 12months of post-discharge follow-up. A discharge prescription for spironolactone had no association with 30-day all-cause readmission among older, hospitalized Medicare beneficiaries with HFrEF eligible for spironolactone therapy.
+27866868	43	54	readmission	T058	UMLS:C0030700
+27866868	86	99	heart failure	T038	UMLS:C0018801
+27866868	112	129	ejection fraction	T038	UMLS:C0232174
+27866868	130	140	discharged	T058	UMLS:C0030685
+27866868	144	158	spironolactone	T103	UMLS:C0037982
+27866868	159	166	Therapy	T058	UMLS:C0087111
+27866868	188	201	heart failure	T038	UMLS:C0018801
+27866868	203	205	HF	T038	UMLS:C0018801
+27866868	207	218	medications	T170	UMLS:C4284232
+27866868	287	298	readmission	T058	UMLS:C0030700
+27866868	316	318	HF	T038	UMLS:C0018801
+27866868	323	348	reduced ejection fraction	T033	UMLS:C4022792
+27866868	350	355	HFrEF	T038	UMLS:C0012634
+27866868	361	369	examined	T033	UMLS:C0332128
+27866868	389	411	aldosterone antagonist	T103	UMLS:C0002007
+27866868	438	449	readmission	T058	UMLS:C0030700
+27866868	458	468	population	T098	UMLS:C1257890
+27866868	510	512	HF	T038	UMLS:C0018801
+27866868	517	536	left ventricular EF	T201	UMLS:C0428772
+27866868	542	557	discharged home	T058	UMLS:C0184713
+27866868	567	574	Alabama	T082	UMLS:C0001895
+27866868	575	584	hospitals	T092	UMLS:C0019994
+27866868	626	640	spironolactone	T103	UMLS:C0037982
+27866868	641	648	therapy	T058	UMLS:C0087111
+27866868	650	666	serum creatinine	T033	UMLS:C0600061
+27866868	707	722	serum potassium	T058	UMLS:C0302353
+27866868	780	794	spironolactone	T103	UMLS:C0037982
+27866868	798	807	admission	T058	UMLS:C0030673
+27866868	876	885	discharge	T058	UMLS:C0030685
+27866868	886	898	prescription	T058	UMLS:C0033080
+27866868	903	917	spironolactone	T103	UMLS:C0037982
+27866868	988	1002	spironolactone	T103	UMLS:C0037982
+27866868	1003	1010	therapy	T058	UMLS:C0087111
+27866868	1035	1041	cohort	T098	UMLS:C0599755
+27866868	1095	1109	spironolactone	T103	UMLS:C0037982
+27866868	1184	1200	African American	T098	UMLS:C0085756
+27866868	1224	1235	readmission	T058	UMLS:C0030700
+27866868	1308	1322	spironolactone	T103	UMLS:C0037982
+27866868	1414	1428	Spironolactone	T103	UMLS:C0037982
+27866868	1522	1524	HF	T038	UMLS:C0018801
+27866868	1525	1536	readmission	T058	UMLS:C0030700
+27866868	1634	1658	post-discharge follow-up	T033	UMLS:C1320368
+27866868	1662	1671	discharge	T058	UMLS:C0030685
+27866868	1672	1684	prescription	T058	UMLS:C0033080
+27866868	1689	1703	spironolactone	T103	UMLS:C0037982
+27866868	1745	1756	readmission	T058	UMLS:C0030700
+27866868	1811	1816	HFrEF	T038	UMLS:C0012634
+27866868	1830	1844	spironolactone	T103	UMLS:C0037982
+27866868	1845	1852	therapy	T058	UMLS:C0087111

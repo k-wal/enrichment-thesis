@@ -1,0 +1,53 @@
+19889778|t|Differential impact of immune escape mutations G145R and P120T on the replication of lamivudine-resistant hepatitis B virus e antigen-positive and -negative strains.
+19889778|a|Immune escape variants of the hepatitis B virus (HBV) represent an emerging clinical challenge, because they can be associated with vaccine escape, HBV reactivation, and failure of diagnostic tests. Recent data suggest a preferential selection of immune escape mutants in distinct peripheral blood leukocyte compartments of infected individuals. We therefore systematically analyzed the functional impact of the most prevalent immune escape variants, the sG145R and sP120T mutants, on the viral replication efficacy and antiviral drug susceptibility of common treatment-associated mutants with resistance to lamivudine (LAM) and/or HBeAg negativity. Replication-competent HBV strains with sG145R or sP120T and LAM resistance (rtM204I or rtL180M/rtM204V) were generated on an HBeAg-positive and an HBeAg-negative background with precore (PC) and basal core promoter (BCP) mutants. The sG145R mutation strongly reduced HBsAg levels and was able to fully restore the impaired replication of LAM-resistant HBV mutants to the levels of wild-type HBV, and PC or BCP mutations further enhanced viral replication. Although the sP120T substitution also impaired HBsAg secretion, it did not enhance the replication of LAM-resistant clones. However, the concomitant occurrence of HBeAg negativity (PC/BCP), sP120T, and LAM resistance resulted in the restoration of replication to levels of wild-type HBV. In all clones with combined immune escape and LAM resistance mutations, the nucleotide analogues adefovir and tenofovir remained effective in suppressing viral replication in vitro. These findings reveal the differential impact of immune escape variants on the replication and drug susceptibility of complex HBV mutants, supporting the need of close surveillance and treatment adjustment in response to the selection of distinct mutational patterns.
+19889778	47	52	G145R	SequenceVariant	p|SUB|G|145|R
+19889778	57	62	P120T	SequenceVariant	c|SUB|P|120|T
+19889778	85	95	lamivudine	ChemicalEntity	D019259
+19889778	106	133	hepatitis B virus e antigen	ChemicalEntity	D006513
+19889778	196	213	hepatitis B virus	OrganismTaxon	10407
+19889778	215	218	HBV	OrganismTaxon	10407
+19889778	314	317	HBV	OrganismTaxon	10407
+19889778	622	627	G145R	SequenceVariant	p|SUB|G|145|R
+19889778	633	638	P120T	SequenceVariant	c|SUB|P|120|T
+19889778	774	784	lamivudine	ChemicalEntity	D019259
+19889778	786	789	LAM	ChemicalEntity	D019259
+19889778	798	803	HBeAg	ChemicalEntity	D006513
+19889778	838	841	HBV	OrganismTaxon	10407
+19889778	856	861	G145R	SequenceVariant	p|SUB|G|145|R
+19889778	866	871	P120T	SequenceVariant	c|SUB|P|120|T
+19889778	876	879	LAM	ChemicalEntity	D019259
+19889778	894	899	M204I	SequenceVariant	p|SUB|M|204|I
+19889778	905	910	L180M	SequenceVariant	p|SUB|L|180|M
+19889778	913	918	M204V	SequenceVariant	p|SUB|M|204|V
+19889778	941	946	HBeAg	ChemicalEntity	D006513
+19889778	963	968	HBeAg	ChemicalEntity	D006513
+19889778	994	1001	precore	GeneOrGeneProduct	944568
+19889778	1003	1005	PC	GeneOrGeneProduct	944568
+19889778	1051	1056	G145R	SequenceVariant	p|SUB|G|145|R
+19889778	1083	1088	HBsAg	ChemicalEntity	D006514
+19889778	1154	1157	LAM	ChemicalEntity	D019259
+19889778	1168	1171	HBV	OrganismTaxon	10407
+19889778	1207	1210	HBV	OrganismTaxon	10407
+19889778	1216	1218	PC	GeneOrGeneProduct	944568
+19889778	1286	1291	P120T	SequenceVariant	c|SUB|P|120|T
+19889778	1319	1324	HBsAg	ChemicalEntity	D006514
+19889778	1374	1377	LAM	ChemicalEntity	D019259
+19889778	1435	1440	HBeAg	ChemicalEntity	D006513
+19889778	1453	1455	PC	GeneOrGeneProduct	944568
+19889778	1463	1468	P120T	SequenceVariant	c|SUB|P|120|T
+19889778	1474	1477	LAM	ChemicalEntity	D019259
+19889778	1555	1558	HBV	OrganismTaxon	10407
+19889778	1606	1609	LAM	ChemicalEntity	D019259
+19889778	1657	1665	adefovir	ChemicalEntity	C053001
+19889778	1670	1679	tenofovir	ChemicalEntity	D000068698
+19889778	1868	1871	HBV	OrganismTaxon	10407
+19889778	Association	944568	D006514	Novel
+19889778	Association	944568	D019259	Novel
+19889778	Association	944568	D006513	No
+19889778	Association	c|SUB|P|120|T	D006514	Novel
+19889778	Association	c|SUB|P|120|T	D006513	No
+19889778	Association	D019259	c|SUB|P|120|T	No
+19889778	Association	D019259	D006513	No
+19889778	Negative_Correlation	p|SUB|G|145|R	D006514	Novel
+19889778	Association	p|SUB|G|145|R	D019259	No
+19889778	Association	D006513	p|SUB|G|145|R	No

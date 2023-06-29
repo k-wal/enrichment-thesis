@@ -1,0 +1,69 @@
+27704268|t|Chemotherapy response and survival of inflammatory breast cancer by hormone receptor - and HER2 -defined molecular subtypes approximation: an analysis from the National Cancer Database
+27704268|a|To study the impact of hormone receptor (HR)- and human epidermal growth factor receptor 2 (HER2)-defined subtypes on survival of inflammatory breast cancer (IBC), and to determine whether sensitivity to neoadjuvant chemotherapy (NAC) varies with subtypes in a large IBC population. We analyzed 593 IBCs with known HR / HER2 statuses between 2010 and 2011 from National Cancer Database. We compared pathologic complete response (pCR) rates among four molecular subtypes by Chi-square test. Overall survival (OS) was compared among four subtypes and patients with or without pCR using log-rank test. Multivariate Cox model was performed to identify the impact of molecular subtype and other prognostic factors on OS. Of the 593 patients included, 231 (39.0 %) patients had HR+/HER2- tumors, 98 (16.5 %) had HR+/HER2+ disease, 112 (18.9 %) were HR-/HER2 + patients, and 152 (25.6 %) had triple-negative subtype. The pCR rates differed significantly by subtype (P < 0.001): HR-/HER2+ showed the highest, and HR+/HER2- exhibited the lowest. Multivariate analysis showed that triple-negative and HR+/HER2- IBCs had significantly worse survival compared with HR+/HER2+ or HR-/HER2+ subtype (P < 0.01 for all comparisons). Additional factors associated with worse OS included more comorbidities, lack or incomplete surgical resection, absence of radiotherapy, lack of hormone therapy, and more advanced stage. IBC is an aggressive heterogeneous disease with distinct molecular subtypes associated with differential outcomes and sensitivities to NAC. Unlike in noninflammatory breast cancer, in IBC HR + disease was not associated with favorable prognosis. Triple-negative and HR+/HER2- subtypes are independent predictors for suboptimal OS in IBC.
+27704268	0	12	Chemotherapy	T058	UMLS:C3665472
+27704268	38	64	inflammatory breast cancer	T038	UMLS:C0278601
+27704268	68	84	hormone receptor	T103	UMLS:C0019929
+27704268	91	95	HER2	T103	UMLS:C0069515
+27704268	115	123	subtypes	T170	UMLS:C0449560
+27704268	124	137	approximation	T058	UMLS:C1283102
+27704268	142	150	analysis	T062	UMLS:C0936012
+27704268	160	184	National Cancer Database	T170	UMLS:C0242356
+27704268	188	193	study	T062	UMLS:C2603343
+27704268	208	224	hormone receptor	T103	UMLS:C0019929
+27704268	226	228	HR	T103	UMLS:C0019929
+27704268	235	275	human epidermal growth factor receptor 2	T103	UMLS:C0069515
+27704268	277	281	HER2	T103	UMLS:C0069515
+27704268	291	299	subtypes	T170	UMLS:C0449560
+27704268	315	341	inflammatory breast cancer	T038	UMLS:C0278601
+27704268	343	346	IBC	T038	UMLS:C0278601
+27704268	432	440	subtypes	T170	UMLS:C0449560
+27704268	452	455	IBC	T038	UMLS:C0278601
+27704268	456	466	population	T098	UMLS:C1257890
+27704268	471	479	analyzed	T062	UMLS:C0936012
+27704268	484	488	IBCs	T038	UMLS:C0278601
+27704268	500	502	HR	T103	UMLS:C0019929
+27704268	505	509	HER2	T103	UMLS:C0069515
+27704268	546	570	National Cancer Database	T170	UMLS:C0242356
+27704268	584	612	pathologic complete response	T033	UMLS:C4050242
+27704268	614	617	pCR	T033	UMLS:C4050242
+27704268	646	654	subtypes	T170	UMLS:C0449560
+27704268	658	673	Chi-square test	T170	UMLS:C0008041
+27704268	716	729	four subtypes	T170	UMLS:C0449560
+27704268	759	762	pCR	T033	UMLS:C4050242
+27704268	769	782	log-rank test	T170	UMLS:C0392366
+27704268	857	864	subtype	T170	UMLS:C0449560
+27704268	875	893	prognostic factors	T201	UMLS:C1514474
+27704268	957	966	HR+/HER2-	T033	UMLS:C0587081
+27704268	967	973	tumors	T038	UMLS:C0027651
+27704268	991	1000	HR+/HER2+	T033	UMLS:C3898879
+27704268	1001	1008	disease	T038	UMLS:C0012634
+27704268	1028	1038	HR-/HER2 +	T033	UMLS:C0587081
+27704268	1070	1093	triple-negative subtype	T038	UMLS:C3539878
+27704268	1099	1102	pCR	T033	UMLS:C4050242
+27704268	1135	1142	subtype	T170	UMLS:C0449560
+27704268	1156	1165	HR-/HER2+	T033	UMLS:C0587081
+27704268	1190	1199	HR+/HER2-	T033	UMLS:C0587081
+27704268	1256	1271	triple-negative	T038	UMLS:C3539878
+27704268	1276	1285	HR+/HER2-	T033	UMLS:C0587081
+27704268	1286	1290	IBCs	T038	UMLS:C0278601
+27704268	1309	1314	worse	T033	UMLS:C1457868
+27704268	1338	1347	HR+/HER2+	T033	UMLS:C3898879
+27704268	1351	1368	HR-/HER2+ subtype	T033	UMLS:C0587081
+27704268	1436	1441	worse	T033	UMLS:C1457868
+27704268	1493	1511	surgical resection	T058	UMLS:C0015252
+27704268	1524	1536	radiotherapy	T058	UMLS:C1522449
+27704268	1546	1561	hormone therapy	T058	UMLS:C0279025
+27704268	1588	1591	IBC	T038	UMLS:C0278601
+27704268	1598	1630	aggressive heterogeneous disease	T038	UMLS:C0079218
+27704268	1636	1644	distinct	T058	UMLS:C0520259
+27704268	1655	1663	subtypes	T170	UMLS:C0449560
+27704268	1738	1753	noninflammatory	T033	UMLS:C0442743
+27704268	1754	1767	breast cancer	T038	UMLS:C0678222
+27704268	1772	1775	IBC	T038	UMLS:C0278601
+27704268	1776	1778	HR	T103	UMLS:C0019929
+27704268	1823	1832	prognosis	T058	UMLS:C0033325
+27704268	1834	1849	Triple-negative	T038	UMLS:C3539878
+27704268	1854	1863	HR+/HER2-	T033	UMLS:C0587081
+27704268	1864	1872	subtypes	T170	UMLS:C0449560
+27704268	1889	1899	predictors	T033	UMLS:C0035648
+27704268	1921	1924	IBC	T038	UMLS:C0278601

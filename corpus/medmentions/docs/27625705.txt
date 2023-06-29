@@ -1,0 +1,103 @@
+27625705|t|Gut microbiome alterations in patients with stage 4 hepatitis C
+27625705|a|Hepatitis C virus (HCV) causes debilitating liver diseases, which may progress to cirrhosis and cancer, and claims 500,000 annual lives worldwide. While HCV epidemiology, pathophysiology, and therapy are being deeply studied, rare attention is given to reciprocal interactions between HCV infection, HCV -induced chronic liver diseases, and the human gut microbiome. As Egypt has the world's highest prevalence of HCV infections, we launched this study to monitor differences in the gut microbial community composition of Egyptian HCV patients that may affect, or result from, the patients ' liver state. To this end, we analyzed stool samples from six stage 4 - HCV patients and eight healthy individuals by high-throughput 16S rRNA gene sequencing using Illumina MiSeq. Overall, the alpha-diversity of the healthy persons' gut microbiomes was higher than those of the HCV patients. Whereas members of phylum Bacteroidetes were more abundant in HCV patients, healthy individuals had higher abundance of Firmicutes, Proteobacteria, and Actinobacteria. Genus -level analysis showed differential abundance of Prevotella and Faecalibacterium (higher in HCV patients) vs. Ruminococcus and Clostridium (healthy group), indicating that the higher abundance of Bacteroidetes in HCV patients is most likely due to Prevotella overabundance. The probiotic genus, Bifidobacterium, was only observed in the microbiotas of healthy individuals. To the best of our knowledge, this study provides a first overview of major phyla and genera differentiating stage 4 - HCV patients from healthy individuals and suggests possible microbiome remodeling in chronic hepatitis C, possibly shaped by bacterial translocation as well as the liver's impaired role in digestion and protein synthesis. Future studies will investigate the microbiome composition and functional capabilities in more patients while tracing some potential biomarker taxa (e.g., Prevotella, Faecalibacterium vs. Bifidobacterium).
+27625705	0	14	Gut microbiome	T001	C2985398
+27625705	15	26	alterations	T078	C1515926
+27625705	30	38	patients	T101	C0030705
+27625705	44	51	stage 4	T080	C0205585
+27625705	52	63	hepatitis C	T047	C0019196
+27625705	64	81	Hepatitis C virus	T005	C0220847
+27625705	83	86	HCV	T005	C0220847
+27625705	108	122	liver diseases	T047	C0023895
+27625705	146	155	cirrhosis	T047	C0023890
+27625705	160	166	cancer	T191	C0006826
+27625705	200	209	worldwide	T078	C0043236
+27625705	217	220	HCV	T005	C0220847
+27625705	221	233	epidemiology	T062	C0002783
+27625705	235	250	pathophysiology	T046	C0277785
+27625705	256	263	therapy	T169	C0039798
+27625705	317	340	reciprocal interactions	T040	C0596935
+27625705	349	362	HCV infection	T047	C4288963
+27625705	364	367	HCV	T005	C0220847
+27625705	377	399	chronic liver diseases	T047	C0341439
+27625705	409	414	human	T016	C0086418
+27625705	415	429	gut microbiome	T001	C2985398
+27625705	434	439	Egypt	T083	C0013715
+27625705	448	455	world's	T098	C2700280
+27625705	456	474	highest prevalence	T081	C1512456
+27625705	478	492	HCV infections	T047	C4288963
+27625705	511	516	study	T062	C2603343
+27625705	547	570	gut microbial community	T001	C2985398
+27625705	571	582	composition	T201	C0486616
+27625705	586	594	Egyptian	T098	C0337801
+27625705	595	598	HCV	T005	C0220847
+27625705	599	607	patients	T101	C0030705
+27625705	645	653	patients	T101	C0030705
+27625705	656	661	liver	T023	C0023884
+27625705	662	667	state	T169	C1442792
+27625705	694	707	stool samples	T031	C1550661
+27625705	717	724	stage 4	T080	C0205585
+27625705	727	730	HCV	T005	C0220847
+27625705	731	739	patients	T101	C0030705
+27625705	750	769	healthy individuals	T098	C1708335
+27625705	773	788	high-throughput	T060	C0872186
+27625705	789	813	16S rRNA gene sequencing	T059	C1294197
+27625705	820	834	Illumina MiSeq	T074	C0348000
+27625705	849	864	alpha-diversity	T080	C0282469
+27625705	872	888	healthy persons'	T098	C1708335
+27625705	889	904	gut microbiomes	T001	C2985398
+27625705	909	915	higher	T080	C0205250
+27625705	934	937	HCV	T005	C0220847
+27625705	938	946	patients	T101	C0030705
+27625705	967	987	phylum Bacteroidetes	T007	C0995456
+27625705	1010	1013	HCV	T005	C0220847
+27625705	1014	1022	patients	T101	C0030705
+27625705	1024	1043	healthy individuals	T098	C1708335
+27625705	1048	1054	higher	T080	C0205250
+27625705	1055	1064	abundance	T080	C2346714
+27625705	1068	1078	Firmicutes	T007	C1254144
+27625705	1080	1094	Proteobacteria	T007	C0751985
+27625705	1100	1114	Actinobacteria	T007	C0600148
+27625705	1116	1121	Genus	T185	C1708235
+27625705	1129	1137	analysis	T062	C0936012
+27625705	1158	1167	abundance	T080	C2346714
+27625705	1171	1181	Prevotella	T007	C0242946
+27625705	1186	1202	Faecalibacterium	T007	C1229075
+27625705	1204	1210	higher	T080	C0205250
+27625705	1214	1217	HCV	T005	C0220847
+27625705	1218	1226	patients	T101	C0030705
+27625705	1232	1244	Ruminococcus	T007	C0318074
+27625705	1249	1260	Clostridium	T007	C0009054
+27625705	1262	1275	healthy group	T078	C0441833
+27625705	1298	1304	higher	T080	C0205250
+27625705	1305	1314	abundance	T080	C2346714
+27625705	1318	1331	Bacteroidetes	T007	C0995456
+27625705	1335	1338	HCV	T005	C0220847
+27625705	1339	1347	patients	T101	C0030705
+27625705	1370	1380	Prevotella	T007	C0242946
+27625705	1381	1394	overabundance	T080	C2346714
+27625705	1400	1415	probiotic genus	T007	C0525033
+27625705	1417	1432	Bifidobacterium	T007	C0005380
+27625705	1459	1470	microbiotas	T001	C2985398
+27625705	1474	1493	healthy individuals	T098	C1708335
+27625705	1530	1535	study	T062	C2603343
+27625705	1571	1576	phyla	T185	C1709533
+27625705	1581	1587	genera	T185	C1708235
+27625705	1604	1611	stage 4	T080	C0205585
+27625705	1614	1617	HCV	T005	C0220847
+27625705	1618	1626	patients	T101	C0030705
+27625705	1632	1651	healthy individuals	T098	C1708335
+27625705	1674	1684	microbiome	T001	C1956108
+27625705	1699	1718	chronic hepatitis C	T047	C0524910
+27625705	1739	1762	bacterial translocation	T043	C0282583
+27625705	1778	1785	liver's	T023	C0023884
+27625705	1786	1799	impaired role	T033	C0231410
+27625705	1803	1812	digestion	T040	C0012238
+27625705	1817	1834	protein synthesis	T044	C0597295
+27625705	1872	1882	microbiome	T001	C1956108
+27625705	1883	1894	composition	T201	C0486616
+27625705	1910	1922	capabilities	T080	C2698977
+27625705	1931	1939	patients	T101	C0030705
+27625705	1969	1978	biomarker	T201	C0005516
+27625705	1991	2001	Prevotella	T007	C0242946
+27625705	2003	2019	Faecalibacterium	T007	C1229075
+27625705	2024	2039	Bifidobacterium	T007	C0005380

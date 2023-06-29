@@ -1,0 +1,135 @@
+25277705|t|Leukemia inhibitory factor protects the lung during respiratory syncytial viral infection.
+25277705|a|BACKGROUND: Respiratory syncytial virus (RSV) infects the lung epithelium where it stimulates the production of numerous host cytokines that are associated with disease burden and acute lung injury. Characterizing the host cytokine response to RSV infection, the regulation of host cytokines and the impact of neutralizing an RSV-inducible cytokine during infection were undertaken in this study. METHODS: A549, primary human small airway epithelial (SAE) cells and wild-type, TIR-domain-containing adapter-inducing interferon-b (Trif) and mitochondrial antiviral-signaling protein (Mavs) knockout (KO) mice were infected with RSV and cytokine responses were investigated by ELISA, multiplex analysis and qPCR. Neutralizing anti-leukemia inhibitory factor (LIF) IgG or control IgG was administered to a group of wild-type animals prior to RSV infection. RESULTS AND DISCUSSION: RSV-infected A549 and SAE cells release a network of cytokines, including newly identified RSV-inducible cytokines LIF, migration inhibitory factor (MIF), stem cell factor (SCF), CCL27, CXCL12 and stem cell growth factor beta (SCGF-b). These RSV-inducible cytokines were also observed in the airways of mice during an infection. To identify the regulation of RSV inducible cytokines, Mavs and Trif deficient animals were infected with RSV. In vivo induction of airway IL-1b, IL-4, IL-5, IL-6, IL-12(p40), IFN-g, CCL2, CCL5, CCL3, CXCL1, IP-10/CXCL10, IL-22, MIG/CXCL9 and MIF were dependent on Mavs expression in mice. Loss of Trif expression in mice altered the RSV induction of IL-1b, IL-5, CXCL12, MIF, LIF, CXCL12 and IFN-g. Silencing of retinoic acid-inducible gene-1 (RIG-I) expression in A549 cells had a greater impact on RSV-inducible cytokines than melanoma differentiation-associated protein 5 (MDA5) and laboratory of genetics and physiology 2 (LGP2), and Trif expression. To evaluate the role of LIF in the airways during RSV infection, animals were treated with neutralizing anti-LIF IgG, which enhanced RSV pathology observed with increased airspace protein content, apoptosis and airway hyperresponsiveness compared to control IgG treatment. CONCLUSIONS: RSV infection in the epithelium induces a network of immune factors to counter infection, primarily in a RIG-I dependent manner. Expression of LIF protects the lung from lung injury and enhanced pathology during RSV infection.
+25277705	0	26	Leukemia inhibitory factor	GeneOrGeneProduct	16878,3976
+25277705	52	89	respiratory syncytial viral infection	DiseaseOrPhenotypicFeature	D018357
+25277705	103	130	Respiratory syncytial virus	OrganismTaxon	12814
+25277705	132	135	RSV	OrganismTaxon	12814
+25277705	271	288	acute lung injury	DiseaseOrPhenotypicFeature	D055371
+25277705	335	348	RSV infection	DiseaseOrPhenotypicFeature	D018357
+25277705	417	420	RSV	OrganismTaxon	12814
+25277705	447	456	infection	DiseaseOrPhenotypicFeature	D007239
+25277705	497	501	A549	CellLine	CVCL_0023
+25277705	511	516	human	OrganismTaxon	9606
+25277705	542	545	SAE	CellLine	CVCL_6E24
+25277705	568	619	TIR-domain-containing adapter-inducing interferon-b	GeneOrGeneProduct	106759
+25277705	621	625	Trif	GeneOrGeneProduct	106759
+25277705	631	672	mitochondrial antiviral-signaling protein	GeneOrGeneProduct	228607
+25277705	674	678	Mavs	GeneOrGeneProduct	228607
+25277705	694	698	mice	OrganismTaxon	10090
+25277705	718	721	RSV	OrganismTaxon	12814
+25277705	820	846	leukemia inhibitory factor	GeneOrGeneProduct	3976
+25277705	848	851	LIF	GeneOrGeneProduct	3976
+25277705	930	943	RSV infection	DiseaseOrPhenotypicFeature	D018357
+25277705	969	981	RSV-infected	DiseaseOrPhenotypicFeature	D018357
+25277705	982	986	A549	CellLine	CVCL_0023
+25277705	991	994	SAE	CellLine	CVCL_6E24
+25277705	1060	1063	RSV	OrganismTaxon	12814
+25277705	1084	1087	LIF	GeneOrGeneProduct	3976
+25277705	1089	1116	migration inhibitory factor	GeneOrGeneProduct	4282
+25277705	1118	1121	MIF	GeneOrGeneProduct	4282
+25277705	1124	1140	stem cell factor	GeneOrGeneProduct	4254
+25277705	1142	1145	SCF	GeneOrGeneProduct	4254
+25277705	1148	1153	CCL27	GeneOrGeneProduct	10850
+25277705	1155	1161	CXCL12	GeneOrGeneProduct	6387
+25277705	1166	1194	stem cell growth factor beta	GeneOrGeneProduct	6320
+25277705	1196	1202	SCGF-b	GeneOrGeneProduct	6320
+25277705	1211	1214	RSV	OrganismTaxon	12814
+25277705	1272	1276	mice	OrganismTaxon	10090
+25277705	1287	1296	infection	DiseaseOrPhenotypicFeature	D007239
+25277705	1328	1331	RSV	OrganismTaxon	12814
+25277705	1353	1357	Mavs	GeneOrGeneProduct	228607
+25277705	1362	1366	Trif	GeneOrGeneProduct	106759
+25277705	1404	1407	RSV	OrganismTaxon	12814
+25277705	1437	1442	IL-1b	GeneOrGeneProduct	16176
+25277705	1444	1448	IL-4	GeneOrGeneProduct	16189
+25277705	1450	1454	IL-5	GeneOrGeneProduct	16191
+25277705	1456	1460	IL-6	GeneOrGeneProduct	16193
+25277705	1462	1467	IL-12	GeneOrGeneProduct	16160
+25277705	1468	1471	p40	GeneOrGeneProduct	16160
+25277705	1474	1479	IFN-g	GeneOrGeneProduct	15978
+25277705	1481	1485	CCL2	GeneOrGeneProduct	20296
+25277705	1487	1491	CCL5	GeneOrGeneProduct	20304
+25277705	1493	1497	CCL3	GeneOrGeneProduct	20302
+25277705	1499	1504	CXCL1	GeneOrGeneProduct	14825
+25277705	1506	1511	IP-10	GeneOrGeneProduct	15945
+25277705	1512	1518	CXCL10	GeneOrGeneProduct	15945
+25277705	1520	1525	IL-22	GeneOrGeneProduct	50929
+25277705	1527	1530	MIG	GeneOrGeneProduct	17329
+25277705	1531	1536	CXCL9	GeneOrGeneProduct	17329
+25277705	1541	1544	MIF	GeneOrGeneProduct	17319
+25277705	1563	1567	Mavs	GeneOrGeneProduct	228607
+25277705	1582	1586	mice	OrganismTaxon	10090
+25277705	1596	1600	Trif	GeneOrGeneProduct	106759
+25277705	1615	1619	mice	OrganismTaxon	10090
+25277705	1632	1635	RSV	OrganismTaxon	12814
+25277705	1649	1654	IL-1b	GeneOrGeneProduct	16176
+25277705	1656	1660	IL-5	GeneOrGeneProduct	16191
+25277705	1662	1668	CXCL12	GeneOrGeneProduct	20315
+25277705	1670	1673	MIF	GeneOrGeneProduct	17319
+25277705	1675	1678	LIF	GeneOrGeneProduct	16878
+25277705	1680	1686	CXCL12	GeneOrGeneProduct	20315
+25277705	1691	1696	IFN-g	GeneOrGeneProduct	15978
+25277705	1711	1741	retinoic acid-inducible gene-1	GeneOrGeneProduct	23586
+25277705	1743	1748	RIG-I	GeneOrGeneProduct	23586
+25277705	1764	1768	A549	CellLine	CVCL_0023
+25277705	1799	1802	RSV	OrganismTaxon	12814
+25277705	1828	1873	melanoma differentiation-associated protein 5	GeneOrGeneProduct	64135
+25277705	1875	1879	MDA5	GeneOrGeneProduct	64135
+25277705	1885	1924	laboratory of genetics and physiology 2	GeneOrGeneProduct	79132
+25277705	1926	1930	LGP2	GeneOrGeneProduct	79132
+25277705	1937	1941	Trif	GeneOrGeneProduct	148022
+25277705	1978	1981	LIF	GeneOrGeneProduct	16878
+25277705	2004	2017	RSV infection	DiseaseOrPhenotypicFeature	D018357
+25277705	2063	2066	LIF	GeneOrGeneProduct	16878
+25277705	2087	2090	RSV	OrganismTaxon	12814
+25277705	2240	2253	RSV infection	DiseaseOrPhenotypicFeature	D018357
+25277705	2319	2328	infection	DiseaseOrPhenotypicFeature	D007239
+25277705	2345	2350	RIG-I	GeneOrGeneProduct	23586
+25277705	2383	2386	LIF	GeneOrGeneProduct	16878,3976
+25277705	2410	2421	lung injury	DiseaseOrPhenotypicFeature	D055370
+25277705	2452	2465	RSV infection	DiseaseOrPhenotypicFeature	D018357
+25277705	Association	17319	228607	No
+25277705	Association	17329	228607	No
+25277705	Association	50929	228607	No
+25277705	Association	15945	228607	No
+25277705	Association	14825	228607	No
+25277705	Association	20302	228607	No
+25277705	Association	20304	228607	No
+25277705	Association	20296	228607	No
+25277705	Association	15978	228607	No
+25277705	Association	16160	228607	No
+25277705	Association	16193	228607	No
+25277705	Association	16191	228607	No
+25277705	Association	16189	228607	No
+25277705	Association	16176	228607	No
+25277705	Association	106759	20315	Novel
+25277705	Association	106759	17319	Novel
+25277705	Association	106759	15978	Novel
+25277705	Association	106759	16191	Novel
+25277705	Association	106759	16176	Novel
+25277705	Association	106759	16878	Novel
+25277705	Association	6320	D007239	Novel
+25277705	Association	6387	D007239	Novel
+25277705	Association	10850	D007239	Novel
+25277705	Association	4254	D007239	Novel
+25277705	Association	4282	D007239	Novel
+25277705	Association	23586	6320	Novel
+25277705	Association	23586	6387	Novel
+25277705	Association	23586	10850	Novel
+25277705	Association	23586	4254	Novel
+25277705	Association	23586	4282	Novel
+25277705	Association	23586	D007239	Novel
+25277705	Association	23586	3976	Novel
+25277705	Negative_Correlation	3976	D055370	Novel
+25277705	Association	3976	D007239	Novel
+25277705	Positive_Correlation	3976	D018357	Novel
+25277705	Positive_Correlation	D018357	106759	Novel
+25277705	Positive_Correlation	D018357	228607	No
+25277705	Positive_Correlation	D018357	6320	Novel
+25277705	Positive_Correlation	D018357	6387	Novel
+25277705	Positive_Correlation	D018357	10850	Novel
+25277705	Positive_Correlation	D018357	4254	Novel
+25277705	Positive_Correlation	D018357	4282	Novel
+25277705	Association	D018357	23586	Novel
+25277705	Negative_Correlation	16878	D055370	Novel
+25277705	Association	16878	D018357	Novel

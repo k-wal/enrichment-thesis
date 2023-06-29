@@ -1,0 +1,35 @@
+18182964|t|Clonidine for attention-deficit/hyperactivity disorder: II. ECG changes and adverse events analysis.
+18182964|a|OBJECTIVE: To examine the safety and tolerability of clonidine used alone or with methylphenidate in children with attention-deficit/hyperactivity disorder (ADHD). METHOD: In a 16-week multicenter, double-blind trial, 122 children with ADHD were randomly assigned to clonidine (n = 31), methylphenidate (n = 29), clonidine and methylphenidate (n = 32), or placebo (n = 30). Doses were flexibly titrated up to 0.6 mg/day for clonidine and 60 mg/day for methylphenidate (both with divided dosing). Groups were compared regarding adverse events and changes from baseline to week 16 in electrocardiograms and vital signs. RESULTS: There were more incidents of bradycardia in subjects treated with clonidine compared with those not treated with clonidine (17.5% versus 3.4%; p =.02), but no other significant group differences regarding electrocardiogram and other cardiovascular outcomes. There were no suggestions of interactions between clonidine and methylphenidate regarding cardiovascular outcomes. Moderate or severe adverse events were more common in subjects on clonidine (79.4% versus 49.2%; p =.0006) but not associated with higher rates of early study withdrawal. Drowsiness was common on clonidine, but generally resolved by 6 to 8 weeks. CONCLUSIONS: Clonidine, used alone or with methylphenidate, appears safe and well tolerated in childhood ADHD. Physicians prescribing clonidine should monitor for bradycardia and advise patients about the high likelihood of initial drowsiness.
+18182964	0	9	Clonidine	ChemicalEntity	D003000
+18182964	14	54	attention-deficit/hyperactivity disorder	DiseaseOrPhenotypicFeature	D001289
+18182964	154	163	clonidine	ChemicalEntity	D003000
+18182964	183	198	methylphenidate	ChemicalEntity	D008774
+18182964	216	256	attention-deficit/hyperactivity disorder	DiseaseOrPhenotypicFeature	D001289
+18182964	258	262	ADHD	DiseaseOrPhenotypicFeature	D001289
+18182964	337	341	ADHD	DiseaseOrPhenotypicFeature	D001289
+18182964	368	377	clonidine	ChemicalEntity	D003000
+18182964	388	403	methylphenidate	ChemicalEntity	D008774
+18182964	414	423	clonidine	ChemicalEntity	D003000
+18182964	428	443	methylphenidate	ChemicalEntity	D008774
+18182964	525	534	clonidine	ChemicalEntity	D003000
+18182964	553	568	methylphenidate	ChemicalEntity	D008774
+18182964	757	768	bradycardia	DiseaseOrPhenotypicFeature	D001919
+18182964	794	803	clonidine	ChemicalEntity	D003000
+18182964	841	850	clonidine	ChemicalEntity	D003000
+18182964	1036	1045	clonidine	ChemicalEntity	D003000
+18182964	1050	1065	methylphenidate	ChemicalEntity	D008774
+18182964	1167	1176	clonidine	ChemicalEntity	D003000
+18182964	1272	1282	Drowsiness	DiseaseOrPhenotypicFeature	D006970
+18182964	1297	1306	clonidine	ChemicalEntity	D003000
+18182964	1361	1370	Clonidine	ChemicalEntity	D003000
+18182964	1391	1406	methylphenidate	ChemicalEntity	D008774
+18182964	1453	1457	ADHD	DiseaseOrPhenotypicFeature	D001289
+18182964	1482	1491	clonidine	ChemicalEntity	D003000
+18182964	1511	1522	bradycardia	DiseaseOrPhenotypicFeature	D001919
+18182964	1534	1542	patients	OrganismTaxon	9606
+18182964	1580	1590	drowsiness	DiseaseOrPhenotypicFeature	D006970
+18182964	Negative_Correlation	D008774	D001289	Novel
+18182964	Positive_Correlation	D006970	D003000	No
+18182964	Negative_Correlation	D003000	D001289	Novel
+18182964	Cotreatment	D003000	D008774	Novel
+18182964	Positive_Correlation	D003000	D001919	Novel

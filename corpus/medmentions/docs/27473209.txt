@@ -1,0 +1,104 @@
+27473209|t|Derivation of a Predictive Score for Hemorrhagic Progression of Cerebral Contusions in Moderate and Severe Traumatic Brain Injury
+27473209|a|After traumatic brain injury (TBI), hemorrhagic progression of contusions (HPCs) occurs frequently. However, there is no established predictive score to identify high-risk patients for HPC. Consecutive patients who were hospitalized (2008-2013) with non-penetrating moderate or severe TBI were studied. The primary outcome was HPC, defined by both a relative increase in contusion volume by ≥30 % and an absolute increase by ≥10 mL on serial imaging. Logistic regression models were created to identify independent risk factors for HPC. The HPC Score was then derived based on the final model. Among a total of 286 eligible patients, 61 (21 %) patients developed HPC. On univariate analyses, HPC was associated with older age, higher initial blood pressure, antiplatelet medications, anticoagulants, subarachnoid hemorrhage (SAH) subdural hematoma (SDH), skull fracture, frontal contusion, larger contusion volume, and shorter interval from injury to initial CT. In the final model, SAH (OR 6.33, 95 % CI, 1.80-22.23), SDH (OR 3.46, 95 % CI, 1.39-8.63), and skull fracture (OR 2.67, 95 % CI, 1.28-5.58) were associated with HPC. Based on these factors, the HPC Score was derived (SAH = 2 points, SDH = 1 point, and skull fracture = 1 point). This score had an area under the receiver operating curve of 0.77. Patients with a score of 0-2 had a 4.0 % incidence of HPC, while patients with a score of 3-4 had a 34.6 % incidence of HPC. A simple HPC Score was developed for early risk stratification of HPC in patients with moderate or severe TBI.
+27473209	0	10	Derivation	T080	C1441547
+27473209	16	26	Predictive	T080	C0681890
+27473209	27	32	Score	T081	C0449820
+27473209	37	48	Hemorrhagic	T046	C0019080
+27473209	49	60	Progression	T169	C0449258
+27473209	64	83	Cerebral Contusions	T037	C0750971
+27473209	87	95	Moderate	T037	C3508473
+27473209	100	129	Severe Traumatic Brain Injury	T037	C3508474
+27473209	136	158	traumatic brain injury	T037	C0876926
+27473209	160	163	TBI	T037	C0876926
+27473209	166	177	hemorrhagic	T046	C0019080
+27473209	178	189	progression	T169	C0449258
+27473209	193	203	contusions	T037	C0009938
+27473209	205	209	HPCs	T037	C0009938
+27473209	218	228	frequently	T079	C0332183
+27473209	251	262	established	T080	C0443211
+27473209	263	273	predictive	T080	C0681890
+27473209	274	279	score	T081	C0449820
+27473209	292	301	high-risk	T033	C0332167
+27473209	302	310	patients	T101	C0030705
+27473209	315	318	HPC	T037	C0009938
+27473209	320	331	Consecutive	T080	C1707491
+27473209	332	340	patients	T101	C0030705
+27473209	350	362	hospitalized	T033	C0701159
+27473209	396	404	moderate	T037	C3508473
+27473209	408	418	severe TBI	T037	C3508474
+27473209	437	452	primary outcome	T080	C3274433
+27473209	457	460	HPC	T037	C0009938
+27473209	489	497	increase	T169	C0442805
+27473209	501	510	contusion	T037	C0009938
+27473209	511	517	volume	T081	C0449468
+27473209	534	542	absolute	T080	C0205344
+27473209	543	551	increase	T169	C0442805
+27473209	565	579	serial imaging	UnknownType	C0203640
+27473209	581	607	Logistic regression models	T081,T170	C0023965
+27473209	613	620	created	T052	C1706214
+27473209	645	657	risk factors	T033	C0035648
+27473209	662	665	HPC	T037	C0009938
+27473209	671	674	HPC	T037	C0009938
+27473209	675	680	Score	T081	C0449820
+27473209	690	697	derived	T080	C1441547
+27473209	711	722	final model	T170	C3161035
+27473209	754	762	patients	T101	C0030705
+27473209	774	782	patients	T101	C0030705
+27473209	793	796	HPC	T037	C0009938
+27473209	801	820	univariate analyses	T062	C0683962
+27473209	822	825	HPC	T037	C0009938
+27473209	830	845	associated with	T080	C0332281
+27473209	846	855	older age	T032	C0001779
+27473209	857	886	higher initial blood pressure	T033	C0436789
+27473209	888	912	antiplatelet medications	T121	C0085826
+27473209	914	928	anticoagulants	T121	C0003280
+27473209	930	953	subarachnoid hemorrhage	T047	C0038525
+27473209	955	958	SAH	T047	C0038525
+27473209	960	977	subdural hematoma	T046	C0018946
+27473209	979	982	SDH	T046	C0018946
+27473209	985	999	skull fracture	T037	C0037304
+27473209	1001	1008	frontal	T023	C0016732
+27473209	1009	1018	contusion	T037	C0009938
+27473209	1020	1026	larger	T081	C0549177
+27473209	1027	1036	contusion	T037	C0009938
+27473209	1037	1043	volume	T081	C0449468
+27473209	1049	1065	shorter interval	T079	C1272706
+27473209	1071	1077	injury	T037	C0178314
+27473209	1081	1091	initial CT	T060	C0040405
+27473209	1100	1111	final model	T170	C3161035
+27473209	1113	1116	SAH	T047	C0038525
+27473209	1118	1120	OR	T081	C0028873
+27473209	1132	1134	CI	T081	C0009667
+27473209	1149	1152	SDH	T046	C0018946
+27473209	1154	1156	OR	T081	C0028873
+27473209	1168	1170	CI	T081	C0009667
+27473209	1188	1202	skull fracture	T037	C0037304
+27473209	1204	1206	OR	T081	C0028873
+27473209	1218	1220	CI	T081	C0009667
+27473209	1238	1253	associated with	T080	C0332281
+27473209	1254	1257	HPC	T037	C0009938
+27473209	1274	1281	factors	T169	C1521761
+27473209	1287	1290	HPC	T037	C0009938
+27473209	1291	1296	Score	T081	C0449820
+27473209	1301	1308	derived	T080	C1441547
+27473209	1310	1313	SAH	T047	C0038525
+27473209	1326	1329	SDH	T046	C0018946
+27473209	1345	1359	skull fracture	T037	C0037304
+27473209	1377	1382	score	T081	C0449820
+27473209	1405	1429	receiver operating curve	T081	C0035787
+27473209	1439	1447	Patients	T101	C0030705
+27473209	1455	1460	score	T081	C0449820
+27473209	1480	1489	incidence	T081	C0021149
+27473209	1493	1496	HPC	T037	C0009938
+27473209	1504	1512	patients	T101	C0030705
+27473209	1520	1525	score	T081	C0449820
+27473209	1546	1555	incidence	T081	C0021149
+27473209	1559	1562	HPC	T037	C0009938
+27473209	1573	1576	HPC	T037	C0009938
+27473209	1577	1582	Score	T081	C0449820
+27473209	1607	1611	risk	T078	C0035647
+27473209	1612	1626	stratification	T169	C1514984
+27473209	1630	1633	HPC	T037	C0009938
+27473209	1637	1645	patients	T101	C0030705
+27473209	1651	1659	moderate	T037	C3508473
+27473209	1663	1673	severe TBI	T037	C3508474

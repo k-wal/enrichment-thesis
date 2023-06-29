@@ -1,0 +1,93 @@
+28088177|t|A novel quantitative PCR detects Babesia infection in patients not identified by currently available non-nucleic acid amplification tests
+28088177|a|Ticks transmit Babesia microti, the causative agents of babesiosis in North America and Europe. Babesiosis is now endemic in Northeastern USA and affects people of all ages. Babesia species infect erythrocytes and can be transmitted through blood transfusion. Whole blood and blood products, which are not tested for Babesia, can cause transfusion - transmitted babesiosis (TTB) resulting in severe consequences in the immuno-compromised patients. The purpose of this study was epidemiological evaluation of babesiosis in a tick-infested state. We examined blood samples from 192 patients who visited clinics during the active tick-borne diseases season, using a newly developed qPCR assay that uses the specific molecular beacon probe. Due to the absence of clear symptomology, clinical laboratories did not test 131 samples by IFA, FISH or microscopic examination of Giemsa-stained blood smears. Babesia infection was detected in all age groups by FISH and microscopy; notably patients >40 years of age represented 64% of tested samples and 13% were younger patients. We tested all samples using qPCR and found that 38% were positive for Babesia. Of 28 samples that were positive by FISH, 27 (96%) were also positive by qPCR indicating high congruency between nucleic acid based tests. Interestingly, of 78 asymptomatic samples not tested by FISH, 22 were positive by our qPCR. Direct detection of Babesia relies upon microscopic examination of patient blood smears, which is labor intensive, difficult to scale up, requires specific expertise and is hence, often not performed. In fact, a clinical laboratory examined only 23 of 86 blood samples obtained from two different counties by microscopy. By considering individuals positive for Babesia infection when results from currently available microscopy, FISH or serological tests were positive, we found that our qPCR is highly sensitive (96.2%) and showed a specificity of 70.5% for Babesia. Robust qPCR using specific probes can be highly useful for efficient and appropriate diagnosis of babesiosis in patients in conjunction with conventional diagnostics, or as a stand-alone test, especially for donated blood screening. The use of a nucleic acid amplification test based screening of blood and blood products could prevent TTB.
+28088177	8	24	quantitative PCR	T062	UMLS:C1709846
+28088177	33	40	Babesia	T204	UMLS:C0004572
+28088177	41	50	infection	T038	UMLS:C3714514
+28088177	138	143	Ticks	T204	UMLS:C0040203
+28088177	153	168	Babesia microti	T204	UMLS:C0004574
+28088177	174	190	causative agents	T033	UMLS:C0449411
+28088177	194	204	babesiosis	T038	UMLS:C0004576
+28088177	208	221	North America	T082	UMLS:C0028405
+28088177	226	232	Europe	T082	UMLS:C0015176
+28088177	234	244	Babesiosis	T038	UMLS:C0004576
+28088177	252	259	endemic	T038	UMLS:C0277550
+28088177	263	275	Northeastern	T082	UMLS:C0017446
+28088177	276	279	USA	T082	UMLS:C0041703
+28088177	292	298	people	T098	UMLS:C0027361
+28088177	312	327	Babesia species	T204	UMLS:C0004572
+28088177	335	347	erythrocytes	T017	UMLS:C0014792
+28088177	359	370	transmitted	T038	UMLS:C0242781
+28088177	379	396	blood transfusion	T058	UMLS:C0005841
+28088177	398	409	Whole blood	T031	UMLS:C0370231
+28088177	414	428	blood products	T103	UMLS:C0456388
+28088177	455	462	Babesia	T204	UMLS:C0004572
+28088177	474	485	transfusion	T058	UMLS:C0005841
+28088177	488	499	transmitted	T038	UMLS:C0242781
+28088177	500	510	babesiosis	T038	UMLS:C0004576
+28088177	512	515	TTB	T038	UMLS:C0004576
+28088177	557	575	immuno-compromised	T033	UMLS:C0085393
+28088177	606	611	study	T062	UMLS:C2603343
+28088177	616	642	epidemiological evaluation	T062	UMLS:C0002783
+28088177	646	656	babesiosis	T038	UMLS:C0004576
+28088177	662	681	tick-infested state	T038	UMLS:C0040196
+28088177	686	694	examined	T033	UMLS:C0332128
+28088177	695	708	blood samples	T031	UMLS:C0178913
+28088177	739	746	clinics	T092	UMLS:C0442592
+28088177	765	784	tick-borne diseases	T038	UMLS:C0040196
+28088177	817	827	qPCR assay	T062	UMLS:C1709846
+28088177	851	873	molecular beacon probe	T103	UMLS:C0028630
+28088177	903	915	symptomology	T033	UMLS:C1457887
+28088177	956	963	samples	T031	UMLS:C0178913
+28088177	967	970	IFA	T058	UMLS:C0282647
+28088177	972	976	FISH	T062	UMLS:C0162789
+28088177	980	1003	microscopic examination	T058	UMLS:C0026018
+28088177	1007	1021	Giemsa-stained	T103	UMLS:C0017542
+28088177	1022	1034	blood smears	T058	UMLS:C2238079
+28088177	1036	1043	Babesia	T204	UMLS:C0004572
+28088177	1044	1053	infection	T038	UMLS:C3714514
+28088177	1088	1092	FISH	T062	UMLS:C0162789
+28088177	1097	1107	microscopy	T058	UMLS:C0026018
+28088177	1169	1176	samples	T031	UMLS:C0178913
+28088177	1222	1229	samples	T031	UMLS:C0178913
+28088177	1236	1240	qPCR	T062	UMLS:C1709846
+28088177	1265	1273	positive	T033	UMLS:C1446409
+28088177	1278	1285	Babesia	T204	UMLS:C0004572
+28088177	1293	1300	samples	T031	UMLS:C0178913
+28088177	1311	1319	positive	T033	UMLS:C1446409
+28088177	1323	1327	FISH	T062	UMLS:C0162789
+28088177	1348	1356	positive	T033	UMLS:C1446409
+28088177	1360	1364	qPCR	T062	UMLS:C1709846
+28088177	1400	1424	nucleic acid based tests	T058	UMLS:C0200932
+28088177	1447	1459	asymptomatic	T033	UMLS:C0231221
+28088177	1460	1467	samples	T031	UMLS:C0178913
+28088177	1482	1486	FISH	T062	UMLS:C0162789
+28088177	1496	1504	positive	T033	UMLS:C1446409
+28088177	1512	1516	qPCR	T062	UMLS:C1709846
+28088177	1525	1534	detection	T058	UMLS:C1511790
+28088177	1538	1545	Babesia	T204	UMLS:C0004572
+28088177	1558	1581	microscopic examination	T058	UMLS:C0026018
+28088177	1593	1605	blood smears	T058	UMLS:C2238079
+28088177	1750	1758	examined	T033	UMLS:C0332128
+28088177	1773	1786	blood samples	T031	UMLS:C0178913
+28088177	1815	1823	counties	T082	UMLS:C0454664
+28088177	1827	1837	microscopy	T058	UMLS:C0026018
+28088177	1854	1865	individuals	T098	UMLS:C0237401
+28088177	1866	1874	positive	T033	UMLS:C1446409
+28088177	1879	1886	Babesia	T204	UMLS:C0004572
+28088177	1887	1896	infection	T038	UMLS:C3714514
+28088177	1935	1945	microscopy	T058	UMLS:C0026018
+28088177	1947	1951	FISH	T062	UMLS:C0162789
+28088177	1955	1972	serological tests	T058	UMLS:C0036743
+28088177	1978	1986	positive	T033	UMLS:C1446409
+28088177	2006	2010	qPCR	T062	UMLS:C1709846
+28088177	2077	2084	Babesia	T204	UMLS:C0004572
+28088177	2093	2097	qPCR	T062	UMLS:C1709846
+28088177	2113	2119	probes	T103	UMLS:C0026381
+28088177	2171	2180	diagnosis	T062	UMLS:C1704656
+28088177	2184	2194	babesiosis	T038	UMLS:C0004576
+28088177	2240	2251	diagnostics	T062	UMLS:C1511890
+28088177	2302	2317	blood screening	T058	UMLS:C1511226
+28088177	2332	2363	nucleic acid amplification test	T058	UMLS:C0200932
+28088177	2370	2388	screening of blood	T058	UMLS:C1511226
+28088177	2393	2407	blood products	T103	UMLS:C0456388
+28088177	2422	2425	TTB	T038	UMLS:C0004576

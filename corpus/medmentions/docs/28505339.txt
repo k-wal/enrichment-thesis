@@ -1,0 +1,118 @@
+28505339|t|LabRS: A Rosetta stone for retrospective standardization of clinical laboratory test results
+28505339|a|Clinical laboratories in the United States do not have an explicit result standard to report the 7 billion laboratory tests results they produce each year. The absence of standardized test results creates inefficiencies and ambiguities for secondary data users. We developed and tested a tool to standardize the results of laboratory tests in a large, multicenter clinical data warehouse. Laboratory records, each of which consisted of a laboratory result and a test identifier, from 27 diverse facilities were captured from 2000 through 2015. Each record underwent a standardization process to convert the original result into a format amenable to secondary data analysis. The standardization process included the correction of typos, normalization of categorical result s, separation of inequalities from numbers, and conversion of numbers represented by words (eg, "million") to numerals. Quality control included expert review. We obtained 1.266 × 10 9 laboratory records and standardized 1.252 × 10 9 records (98.9%). Of the unique unstandardized records (78.887 × 10 3), most appeared <5 times (96%, eg, typos), did not have a test identifier (47%), or belonged to an esoteric test with <100 results (2%). Overall, these 3 reasons accounted for nearly all unstandardized results (98%). Current results suggest that the tool is both scalable and generalizable among diverse clinical laboratories. Based on observed trends, the tool will require ongoing maintenance to stay current with new tests and result formats. Future work to develop and implement an explicit standard for test results would reduce the need to retrospective ly standardize test results.
+28505339	0	5	LabRS	T170	C0037589
+28505339	7	22	A Rosetta stone	T170	C0037589
+28505339	27	40	retrospective	T080	C1514923
+28505339	41	56	standardization	T062	C0038136
+28505339	60	92	clinical laboratory test results	T034	C0456984
+28505339	93	114	Clinical laboratories	T073	C1882331
+28505339	122	135	United States	T083	C0041703
+28505339	151	159	explicit	T080	C2963144
+28505339	160	166	result	T034	C0456984
+28505339	167	175	standard	T080	C1442989
+28505339	167	175	standard	T080	C1442989
+28505339	179	185	report	T058	C0700287
+28505339	200	224	laboratory tests results	T034	C0456984
+28505339	230	237	produce	T067	C1522240
+28505339	253	260	absence	T169	C0332197
+28505339	264	281	standardized test	T170	C0237892
+28505339	282	289	results	T034	C0456984
+28505339	290	297	creates	T052	C1706214
+28505339	298	312	inefficiencies	T033	C0231184
+28505339	317	328	ambiguities	T080	C2346729
+28505339	333	342	secondary	T080	C0175668
+28505339	343	347	data	T078	C1511726
+28505339	348	353	users	T098	C1706077
+28505339	358	367	developed	T169	C1527148
+28505339	372	378	tested	T169	C0039593
+28505339	381	385	tool	T170	C0037589
+28505339	389	400	standardize	T062	C0038136
+28505339	405	432	results of laboratory tests	T034	C0456984
+28505339	438	443	large	T081	C0549177
+28505339	445	470	multicenter clinical data	T170	C1516606
+28505339	471	480	warehouse	T073	C0442627
+28505339	482	500	Laboratory records	T170	C4082310
+28505339	531	548	laboratory result	T034	C0456984
+28505339	555	570	test identifier	T170	C2826900
+28505339	580	587	diverse	T080	C1880371
+28505339	588	598	facilities	T073	C1547538
+28505339	604	612	captured	T033	C3669169
+28505339	642	648	record	T170	C0034869
+28505339	661	676	standardization	T062	C0038136
+28505339	677	684	process	T067	C1522240
+28505339	688	695	convert	T169	C0439836
+28505339	700	708	original	T078	C0205313
+28505339	709	715	result	T034	C0456984
+28505339	723	729	format	T170	C1301627
+28505339	730	738	amenable	T080	C3900053
+28505339	742	751	secondary	T080	C0175668
+28505339	752	756	data	T078	C1511726
+28505339	757	765	analysis	T062	C0936012
+28505339	771	786	standardization	T062	C0038136
+28505339	787	794	process	T067	C1522240
+28505339	795	803	included	T052	C2700399
+28505339	808	818	correction	T169	C1947976
+28505339	822	827	typos	T080	C0743559
+28505339	829	842	normalization	T062	C1882115
+28505339	846	857	categorical	T080	C2963144
+28505339	858	864	result	T034	C0456984
+28505339	868	878	separation	T080	C0443299
+28505339	882	894	inequalities	T080	C0242503
+28505339	900	907	numbers	T081	C0237753
+28505339	913	923	conversion	T169	C0439836
+28505339	927	934	numbers	T081	C0237753
+28505339	950	955	words	T170	C0042926
+28505339	975	984	numerals.	T081	C0237753
+28505339	985	1000	Quality control	T169	C0034378
+28505339	1001	1009	included	T052	C2700399
+28505339	1010	1016	expert	T073,T170	C0015324
+28505339	1017	1023	review	T170	C0282443
+28505339	1028	1036	obtained	T169	C1301820
+28505339	1050	1068	laboratory records	T170	C4082310
+28505339	1073	1085	standardized	T170	C0237892
+28505339	1099	1106	records	T170	C0034869
+28505339	1123	1129	unique	T080	C1710548
+28505339	1130	1144	unstandardized	T033	C0243095
+28505339	1145	1152	records	T170	C0034869
+28505339	1170	1174	most	T081	C0205393
+28505339	1175	1183	appeared	T080	C0700364
+28505339	1187	1192	times	T081	C1632851
+28505339	1203	1208	typos	T080	C0743559
+28505339	1226	1241	test identifier	T170	C2826900
+28505339	1267	1275	esoteric	T080	C0332218
+28505339	1276	1280	test	T059	C0022885
+28505339	1291	1298	results	T034	C0456984
+28505339	1305	1312	Overall	T080	C1561607
+28505339	1322	1329	reasons	T078	C0392360
+28505339	1330	1339	accounted	T052	C2986669
+28505339	1355	1369	unstandardized	T033	C0243095
+28505339	1370	1377	results	T034	C0456984
+28505339	1385	1392	Current	T079	C0521116
+28505339	1393	1400	results	T034	C0456984
+28505339	1418	1422	tool	T170	C0037589
+28505339	1431	1439	scalable	T169	C0205245
+28505339	1444	1457	generalizable	T082	C0205246
+28505339	1464	1471	diverse	T080	C1880371
+28505339	1472	1493	clinical laboratories	T073	C1882331
+28505339	1495	1500	Based	T169	C1527178
+28505339	1504	1512	observed	T169	C1441672
+28505339	1525	1529	tool	T170	C0037589
+28505339	1535	1542	require	T169	C1514873
+28505339	1543	1550	ongoing	T078	C0549178
+28505339	1551	1562	maintenance	T052	C0024501
+28505339	1571	1578	current	T079	C0521116
+28505339	1588	1593	tests	T059	C0022885
+28505339	1598	1604	result	T034	C0456984
+28505339	1605	1612	formats	T170	C1301627
+28505339	1614	1620	Future	T079	C0016884
+28505339	1621	1625	work	T057	C0043227
+28505339	1629	1636	develop	T169	C1527148
+28505339	1641	1650	implement	T052	C1708476
+28505339	1654	1662	explicit	T080	C2963144
+28505339	1663	1671	standard	T080	C1442989
+28505339	1676	1688	test results	T034	C0456984
+28505339	1695	1701	reduce	T080	C0392756
+28505339	1706	1710	need	T080	C0027552
+28505339	1714	1727	retrospective	T080	C1514923
+28505339	1731	1747	standardize test	T170	C0237892
+28505339	1748	1755	results	T034	C0456984

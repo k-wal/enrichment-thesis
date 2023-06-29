@@ -1,0 +1,102 @@
+29183288|t|Arginase 1 deletion in myeloid cells affects the inflammatory response in allergic asthma, but not lung mechanics, in female mice.
+29183288|a|BACKGROUND: (Over-)expression of arginase may limit local availability of arginine for nitric oxide synthesis. We investigated the significance of arginase1 (ARG1) for the development of airway hyperresponsiveness (AHR) and lung inflammation in female mice with ovalbumin (OVA)-induced allergic asthma. METHODS: Arg1 was ablated in the lung by crossing Arg1 fl/fl and Tie2Cre tg/- mice. OVA sensitization and challenge were conducted, and AHR to methacholine was determined using the Flexivent system. Changes in gene expression, chemokine and cytokine secretion, plasma IgE, and lung histology were quantified using RT-qPCR, ELISA, and immunohistochemistry, respectively. RESULTS: Arg1 ablation had no influence on the development of OVA-induced AHR, but attenuated OVA-induced increases in expression of Arg2 and Nos2, Slc7a1, Slc7a2, and Slc7a7 (arginine transporters), Il4, Il5 and Il13 (TH2-type cytokines), Ccl2 and Ccl11 (chemokines), Ifng (TH1-type cytokine), Clca3 and Muc5ac (goblet cell markers), and OVA-specific IgE. Pulmonary IL-10 protein content increased, but IL-4, IL-5, IL-13, TNFalpha and IFNgamma content, and lung histopathology, were not affected. Arg1 elimination also decreased number and tightness of correlations between adaptive changes in lung function and inflammatory parameters in OVA/OVA-treated female mice. OVA/OVA-treated female mice mounted a higher OVA-IgE response than males, but the correlation between lung function and inflammation was lower. Arg1-deficient OVA/OVA-treated females differed from males in a more pronounced decline of arginine-metabolizing and -transporting genes, higher plasma arginine levels, a smaller OVA-specific IgE response, and no improvement of peripheral lung function. CONCLUSION: Complete ablation of Arg1 in the lung affects mRNA abundance of arginine-transporting and -metabolizing genes, and pro-inflammatory genes, but not methacholine responsiveness or accumulation of inflammatory cells.
+29183288	0	10	Arginase 1	GeneOrGeneProduct	11846
+29183288	49	61	inflammatory	DiseaseOrPhenotypicFeature	D007249
+29183288	83	89	asthma	DiseaseOrPhenotypicFeature	D001249
+29183288	125	129	mice	OrganismTaxon	10090
+29183288	164	172	arginase	GeneOrGeneProduct	11846
+29183288	218	230	nitric oxide	ChemicalEntity	D009569
+29183288	278	287	arginase1	GeneOrGeneProduct	11846
+29183288	289	293	ARG1	GeneOrGeneProduct	11846
+29183288	355	372	lung inflammation	DiseaseOrPhenotypicFeature	D011014
+29183288	383	387	mice	OrganismTaxon	10090
+29183288	393	402	ovalbumin	GeneOrGeneProduct	66222
+29183288	404	407	OVA	GeneOrGeneProduct	66222
+29183288	426	432	asthma	DiseaseOrPhenotypicFeature	D001249
+29183288	443	447	Arg1	GeneOrGeneProduct	11846
+29183288	484	488	Arg1	GeneOrGeneProduct	11846
+29183288	512	516	mice	OrganismTaxon	10090
+29183288	518	521	OVA	GeneOrGeneProduct	66222
+29183288	577	589	methacholine	ChemicalEntity	D016210
+29183288	702	705	IgE	GeneOrGeneProduct	629822
+29183288	813	817	Arg1	GeneOrGeneProduct	11846
+29183288	866	869	OVA	GeneOrGeneProduct	66222
+29183288	898	901	OVA	GeneOrGeneProduct	66222
+29183288	937	941	Arg2	GeneOrGeneProduct	11847
+29183288	946	950	Nos2	GeneOrGeneProduct	18126
+29183288	952	958	Slc7a1	GeneOrGeneProduct	11987
+29183288	960	966	Slc7a2	GeneOrGeneProduct	11988
+29183288	972	978	Slc7a7	GeneOrGeneProduct	20540
+29183288	980	1001	arginine transporters	GeneOrGeneProduct	11987,11988,20540
+29183288	1004	1007	Il4	GeneOrGeneProduct	16189
+29183288	1009	1012	Il5	GeneOrGeneProduct	16191
+29183288	1017	1021	Il13	GeneOrGeneProduct	16163
+29183288	1023	1041	TH2-type cytokines	GeneOrGeneProduct	16163,16189,16191
+29183288	1044	1048	Ccl2	GeneOrGeneProduct	20296
+29183288	1053	1058	Ccl11	GeneOrGeneProduct	20292
+29183288	1060	1070	chemokines	GeneOrGeneProduct	20292,20296
+29183288	1073	1077	Ifng	GeneOrGeneProduct	15978
+29183288	1079	1096	TH1-type cytokine	GeneOrGeneProduct	15978
+29183288	1099	1104	Clca3	GeneOrGeneProduct	23844
+29183288	1109	1115	Muc5ac	GeneOrGeneProduct	17833
+29183288	1143	1146	OVA	GeneOrGeneProduct	66222
+29183288	1156	1159	IgE	GeneOrGeneProduct	629822
+29183288	1171	1176	IL-10	GeneOrGeneProduct	16153
+29183288	1208	1212	IL-4	GeneOrGeneProduct	16189
+29183288	1214	1218	IL-5	GeneOrGeneProduct	16191
+29183288	1220	1225	IL-13	GeneOrGeneProduct	16163
+29183288	1227	1235	TNFalpha	GeneOrGeneProduct	21926
+29183288	1240	1248	IFNgamma	GeneOrGeneProduct	15978
+29183288	1302	1306	Arg1	GeneOrGeneProduct	11846
+29183288	1417	1429	inflammatory	DiseaseOrPhenotypicFeature	D007249
+29183288	1444	1447	OVA	GeneOrGeneProduct	66222
+29183288	1448	1451	OVA	GeneOrGeneProduct	66222
+29183288	1467	1471	mice	OrganismTaxon	10090
+29183288	1473	1476	OVA	GeneOrGeneProduct	66222
+29183288	1477	1480	OVA	GeneOrGeneProduct	66222
+29183288	1496	1500	mice	OrganismTaxon	10090
+29183288	1518	1521	OVA	GeneOrGeneProduct	66222
+29183288	1522	1525	IgE	GeneOrGeneProduct	629822
+29183288	1593	1605	inflammation	DiseaseOrPhenotypicFeature	D007249
+29183288	1617	1621	Arg1	GeneOrGeneProduct	11846
+29183288	1632	1635	OVA	GeneOrGeneProduct	66222
+29183288	1636	1639	OVA	GeneOrGeneProduct	66222
+29183288	1796	1799	OVA	GeneOrGeneProduct	66222
+29183288	1809	1812	IgE	GeneOrGeneProduct	629822
+29183288	1904	1908	Arg1	GeneOrGeneProduct	11846
+29183288	2002	2014	inflammatory	DiseaseOrPhenotypicFeature	D007249
+29183288	2030	2042	methacholine	ChemicalEntity	D016210
+29183288	2077	2089	inflammatory	DiseaseOrPhenotypicFeature	D007249
+29183288	Positive_Correlation	66222	17833	Novel
+29183288	Positive_Correlation	66222	23844	Novel
+29183288	Positive_Correlation	66222	15978	Novel
+29183288	Positive_Correlation	66222	20292	No
+29183288	Positive_Correlation	66222	20296	No
+29183288	Positive_Correlation	66222	16163	No
+29183288	Positive_Correlation	66222	16191	No
+29183288	Positive_Correlation	66222	16189	No
+29183288	Positive_Correlation	66222	20540	No
+29183288	Positive_Correlation	66222	11988	No
+29183288	Positive_Correlation	66222	11987	No
+29183288	Positive_Correlation	66222	18126	No
+29183288	Positive_Correlation	66222	11847	No
+29183288	Positive_Correlation	629822	66222	No
+29183288	Association	11846	D009569	No
+29183288	Positive_Correlation	11846	66222	Novel
+29183288	Negative_Correlation	11846	16153	Novel
+29183288	Positive_Correlation	11846	629822	Novel
+29183288	Positive_Correlation	11846	17833	Novel
+29183288	Positive_Correlation	11846	23844	Novel
+29183288	Positive_Correlation	11846	15978	Novel
+29183288	Positive_Correlation	11846	20292	Novel
+29183288	Positive_Correlation	11846	20296	Novel
+29183288	Positive_Correlation	11846	16163	Novel
+29183288	Positive_Correlation	11846	16191	Novel
+29183288	Positive_Correlation	11846	16189	Novel
+29183288	Positive_Correlation	11846	20540	Novel
+29183288	Positive_Correlation	11846	11988	Novel
+29183288	Positive_Correlation	11846	11987	Novel
+29183288	Positive_Correlation	11846	18126	Novel
+29183288	Positive_Correlation	11846	11847	Novel
+29183288	Association	11846	D001249	Novel
+29183288	Association	11846	D007249	Novel

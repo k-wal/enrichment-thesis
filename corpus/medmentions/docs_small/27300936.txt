@@ -1,0 +1,40 @@
+27300936|t|Bispectral pairwise interacting source analysis for identifying systems of cross-frequency interacting brain sources from electroencephalographic or magnetoencephalographic signals
+27300936|a|Brain cognitive functions arise through the coordinated activity of several brain regions, which actually form complex dynamical systems operating at multiple frequencies. These systems often consist of interacting subsystems, whose characterization is of importance for a complete understanding of the brain interaction processes. To address this issue, we present a technique, namely the bispectral pairwise interacting source analysis (biPISA), for analyzing systems of cross-frequency interacting brain sources when multichannel electroencephalographic (EEG) or magnetoencephalographic (MEG) data are available. Specifically, the biPISA makes it possible to identify one or many subsystems of cross-frequency interacting sources by decomposing the antisymmetric components of the cross-bispectra between EEG or MEG signals, based on the assumption that interactions are pairwise. Thanks to the properties of the antisymmetric components of the cross-bispectra, biPISA is also robust to spurious interactions arising from mixing artifacts, i.e., volume conduction or field spread, which always affect EEG or MEG functional connectivity estimates. This method is an extension of the pairwise interacting source analysis (PISA), which was originally introduced for investigating interactions at the same frequency, to the study of cross-frequency interactions. The effectiveness of this approach is demonstrated in simulations for up to three interacting source pairs and for real MEG recordings of spontaneous brain activity. Simulations show that the performances of biPISA in estimating the phase difference between the interacting sources are affected by the increasing level of noise rather than by the number of the interacting subsystems. The analysis of real MEG data reveals an interaction between two pairs of sources of central mu and beta rhythms, localizing in the proximity of the left and right central sulci.
+27300936	0	47	Bispectral pairwise interacting source analysis	T062	UMLS:C0936012
+27300936	103	108	brain	T017	UMLS:C0006104
+27300936	109	116	sources	T033	UMLS:C0449416
+27300936	122	145	electroencephalographic	T058	UMLS:C0013819
+27300936	149	172	magnetoencephalographic	T058	UMLS:C0024489
+27300936	181	186	Brain	T017	UMLS:C0006104
+27300936	187	206	cognitive functions	T038	UMLS:C0392335
+27300936	225	245	coordinated activity	T038	UMLS:C0025361
+27300936	257	270	brain regions	T082	UMLS:C1273723
+27300936	571	618	bispectral pairwise interacting source analysis	T062	UMLS:C0936012
+27300936	620	626	biPISA	T062	UMLS:C0936012
+27300936	682	687	brain	T017	UMLS:C0006104
+27300936	688	695	sources	T033	UMLS:C0449416
+27300936	701	737	multichannel electroencephalographic	T058	UMLS:C0013819
+27300936	739	742	EEG	T058	UMLS:C0013819
+27300936	747	770	magnetoencephalographic	T058	UMLS:C0024489
+27300936	772	775	MEG	T058	UMLS:C0024489
+27300936	815	821	biPISA	T062	UMLS:C0936012
+27300936	906	913	sources	T033	UMLS:C0449416
+27300936	965	980	cross-bispectra	T062	UMLS:C0936012
+27300936	989	992	EEG	T058	UMLS:C0013819
+27300936	996	999	MEG	T058	UMLS:C0024489
+27300936	1129	1144	cross-bispectra	T062	UMLS:C0936012
+27300936	1146	1152	biPISA	T062	UMLS:C0936012
+27300936	1285	1288	EEG	T058	UMLS:C0013819
+27300936	1292	1295	MEG	T058	UMLS:C0024489
+27300936	1366	1409	pairwise interacting source analysis (PISA)	T062	UMLS:C0936012
+27300936	1597	1608	simulations	T062	UMLS:C0679083
+27300936	1663	1666	MEG	T058	UMLS:C0024489
+27300936	1709	1720	Simulations	T062	UMLS:C0679083
+27300936	1751	1757	biPISA	T062	UMLS:C0936012
+27300936	1817	1824	sources	T033	UMLS:C0449416
+27300936	1932	1940	analysis	T062	UMLS:C0936012
+27300936	1949	1952	MEG	T058	UMLS:C0024489
+27300936	2002	2009	sources	T033	UMLS:C0449416
+27300936	2028	2040	beta rhythms	T038	UMLS:C0005167
+27300936	2077	2081	left	T082	UMLS:C2949961
+27300936	2086	2105	right central sulci	T082	UMLS:C2951176

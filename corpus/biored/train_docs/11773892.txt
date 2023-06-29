@@ -1,0 +1,65 @@
+11773892|t|End-stage renal disease (ESRD) after orthotopic liver transplantation (OLTX) using calcineurin-based immunotherapy: risk of development and treatment.
+11773892|a|BACKGROUND: The calcineurin inhibitors cyclosporine and tacrolimus are both known to be nephrotoxic. Their use in orthotopic liver transplantation (OLTX) has dramatically improved success rates. Recently, however, we have had an increase of patients who are presenting after OLTX with end-stage renal disease (ESRD). This retrospective study examines the incidence and treatment of ESRD and chronic renal failure (CRF) in OLTX patients. METHODS: Patients receiving an OLTX only from June 1985 through December of 1994 who survived 6 months postoperatively were studied (n=834). Our prospectively collected database was the source of information. Patients were divided into three groups: Controls, no CRF or ESRD, n=748; CRF, sustained serum creatinine >2.5 mg/dl, n=41; and ESRD, n=45. Groups were compared for preoperative laboratory variables, diagnosis, postoperative variables, survival, type of ESRD therapy, and survival from onset of ESRD. RESULTS: At 13 years after OLTX, the incidence of severe renal dysfunction was 18.1% (CRF 8.6% and ESRD 9.5%). Compared with control patients, CRF and ESRD patients had higher preoperative serum creatinine levels, a greater percentage of patients with hepatorenal syndrome, higher percentage requirement for dialysis in the first 3 months postoperatively, and a higher 1-year serum creatinine. Multivariate stepwise logistic regression analysis using preoperative and postoperative variables identified that an increase of serum creatinine compared with average at 1 year, 3 months, and 4 weeks postoperatively were independent risk factors for the development of CRF or ESRD with odds ratios of 2.6, 2.2, and 1.6, respectively. Overall survival from the time of OLTX was not significantly different among groups, but by year 13, the survival of the patients who had ESRD was only 28.2% compared with 54.6% in the control group. Patients developing ESRD had a 6-year survival after onset of ESRD of 27% for the patients receiving hemodialysis versus 71.4% for the patients developing ESRD who subsequently received kidney transplants. CONCLUSIONS: Patients who are more than 10 years post-OLTX have CRF and ESRD at a high rate. The development of ESRD decreases survival, particularly in those patients treated with dialysis only. Patients who develop ESRD have a higher preoperative and 1-year serum creatinine and are more likely to have hepatorenal syndrome. However, an increase of serum creatinine at various times postoperatively is more predictive of the development of CRF or ESRD. New strategies for long-term immunosuppression may be needed to decrease this complication.
+11773892	0	23	End-stage renal disease	DiseaseOrPhenotypicFeature	D007676
+11773892	25	29	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	83	94	calcineurin	GeneOrGeneProduct	5530
+11773892	167	178	calcineurin	GeneOrGeneProduct	5530
+11773892	190	202	cyclosporine	ChemicalEntity	D016572
+11773892	207	217	tacrolimus	ChemicalEntity	D016559
+11773892	239	250	nephrotoxic	DiseaseOrPhenotypicFeature	D007674
+11773892	392	400	patients	OrganismTaxon	9606
+11773892	436	459	end-stage renal disease	DiseaseOrPhenotypicFeature	D007676
+11773892	461	465	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	533	537	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	542	563	chronic renal failure	DiseaseOrPhenotypicFeature	D007676
+11773892	565	568	CRF	DiseaseOrPhenotypicFeature	D007676
+11773892	578	586	patients	OrganismTaxon	9606
+11773892	597	605	Patients	OrganismTaxon	9606
+11773892	797	805	Patients	OrganismTaxon	9606
+11773892	851	854	CRF	DiseaseOrPhenotypicFeature	D007676
+11773892	858	862	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	871	874	CRF	DiseaseOrPhenotypicFeature	D007676
+11773892	892	902	creatinine	ChemicalEntity	D003404
+11773892	925	929	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	1051	1055	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	1092	1096	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	1155	1172	renal dysfunction	DiseaseOrPhenotypicFeature	D007674
+11773892	1184	1187	CRF	DiseaseOrPhenotypicFeature	D007676
+11773892	1197	1201	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	1231	1239	patients	OrganismTaxon	9606
+11773892	1241	1244	CRF	DiseaseOrPhenotypicFeature	D007676
+11773892	1249	1253	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	1254	1262	patients	OrganismTaxon	9606
+11773892	1293	1303	creatinine	ChemicalEntity	D003404
+11773892	1336	1344	patients	OrganismTaxon	9606
+11773892	1350	1370	hepatorenal syndrome	DiseaseOrPhenotypicFeature	D006530
+11773892	1480	1490	creatinine	ChemicalEntity	D003404
+11773892	1627	1637	creatinine	ChemicalEntity	D003404
+11773892	1762	1765	CRF	DiseaseOrPhenotypicFeature	D007676
+11773892	1769	1773	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	1948	1956	patients	OrganismTaxon	9606
+11773892	1965	1969	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	2027	2035	Patients	OrganismTaxon	9606
+11773892	2047	2051	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	2089	2093	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	2109	2117	patients	OrganismTaxon	9606
+11773892	2162	2170	patients	OrganismTaxon	9606
+11773892	2182	2186	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	2246	2254	Patients	OrganismTaxon	9606
+11773892	2297	2300	CRF	DiseaseOrPhenotypicFeature	D007676
+11773892	2305	2309	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	2345	2349	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	2392	2400	patients	OrganismTaxon	9606
+11773892	2429	2437	Patients	OrganismTaxon	9606
+11773892	2450	2454	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	2499	2509	creatinine	ChemicalEntity	D003404
+11773892	2538	2558	hepatorenal syndrome	DiseaseOrPhenotypicFeature	D006530
+11773892	2590	2600	creatinine	ChemicalEntity	D003404
+11773892	2675	2678	CRF	DiseaseOrPhenotypicFeature	D007676
+11773892	2682	2686	ESRD	DiseaseOrPhenotypicFeature	D007676
+11773892	Negative_Correlation	5530	D016559	No
+11773892	Negative_Correlation	5530	D016572	No
+11773892	Positive_Correlation	D006530	D003404	Novel
+11773892	Positive_Correlation	D016559	D007674	No
+11773892	Positive_Correlation	D007676	D003404	Novel
+11773892	Positive_Correlation	D016572	D007674	No

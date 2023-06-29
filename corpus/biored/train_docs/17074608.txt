@@ -1,0 +1,25 @@
+17074608|t|Valproate-induced chorea and encephalopathy in atypical nonketotic hyperglycinemia.
+17074608|a|Nonketotic hyperglycinemia is a disorder of amino acid metabolism in which a defect in the glycine cleavage system leads to an accumulation of glycine in the brain and other body compartments. In the classical form it presents as neonatal apnea, intractable seizures, and hypotonia, followed by significant psychomotor retardation. An important subset of children with nonketotic hyperglycinemia are atypical variants who present in a heterogeneous manner. This report describes a patient with mild language delay and mental retardation, who was found to have nonketotic hyperglycinemia following her presentation with acute encephalopathy and chorea shortly after initiation of valproate therapy.
+17074608	0	9	Valproate	ChemicalEntity	D014635
+17074608	18	24	chorea	DiseaseOrPhenotypicFeature	D002819
+17074608	29	43	encephalopathy	DiseaseOrPhenotypicFeature	D001927
+17074608	56	82	nonketotic hyperglycinemia	DiseaseOrPhenotypicFeature	D020158
+17074608	84	110	Nonketotic hyperglycinemia	DiseaseOrPhenotypicFeature	D020158
+17074608	116	149	disorder of amino acid metabolism	DiseaseOrPhenotypicFeature	D000592
+17074608	175	182	glycine	ChemicalEntity	D005998
+17074608	227	234	glycine	ChemicalEntity	D005998
+17074608	323	328	apnea	DiseaseOrPhenotypicFeature	D001049
+17074608	342	350	seizures	DiseaseOrPhenotypicFeature	D012640
+17074608	356	365	hypotonia	DiseaseOrPhenotypicFeature	D009123
+17074608	391	414	psychomotor retardation	DiseaseOrPhenotypicFeature	D011596
+17074608	453	479	nonketotic hyperglycinemia	DiseaseOrPhenotypicFeature	D020158
+17074608	565	572	patient	OrganismTaxon	9606
+17074608	583	597	language delay	DiseaseOrPhenotypicFeature	D007805
+17074608	602	620	mental retardation	DiseaseOrPhenotypicFeature	D008607
+17074608	644	670	nonketotic hyperglycinemia	DiseaseOrPhenotypicFeature	D020158
+17074608	709	723	encephalopathy	DiseaseOrPhenotypicFeature	D001927
+17074608	728	734	chorea	DiseaseOrPhenotypicFeature	D002819
+17074608	763	772	valproate	ChemicalEntity	D014635
+17074608	Positive_Correlation	D020158	D005998	No
+17074608	Positive_Correlation	D014635	D001927	No
+17074608	Positive_Correlation	D014635	D002819	No

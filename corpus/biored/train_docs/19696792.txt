@@ -1,0 +1,32 @@
+19696792|t|Single nucleotide polymorphism in ABCG2 is associated with irinotecan-induced severe myelosuppression.
+19696792|a|Irinotecan is an anti-neoplastic agent that is widely used for treating colorectal and lung cancers, but often causes toxicities such as severe myelosuppression and diarrhea. In this study, we performed a two-stage case-control association study for irinotecan-induced severe myelosuppression (grades 3 and 4). In the first stage, 23 patients who developed severe myelosuppression and 58 patients who did not develop any toxicity were examined for 170 single nucleotide polymorphisms (SNPs) in 14 genes involved in the metabolism and transport of irinotecan. A total of five SNPs were identified to show the possible association with severe myelosuppression (P(Fisher)<0.01) and were further examined in 7 cases and 20 controls in the second stage of the study. An intronic SNP, rs2622604, in ABCG2 showed P(Fisher)=0.0419 in the second stage and indicated a significant association with severe myelosuppression in the combined study (P(Fisher)=0.000237; P(Corrected)=0.036). Although only limited subjects were investigated, our results suggested that a genetic polymorphism in ABCG2 might alter the transport activity for the drug and elevate the systemic circulation level of irinotecan, leading to severe myelosuppression.
+19696792	34	39	ABCG2	GeneOrGeneProduct	9429
+19696792	59	69	irinotecan	ChemicalEntity	D000077146
+19696792	85	101	myelosuppression	DiseaseOrPhenotypicFeature	D001855
+19696792	103	113	Irinotecan	ChemicalEntity	D000077146
+19696792	175	202	colorectal and lung cancers	DiseaseOrPhenotypicFeature	D008175,D015179
+19696792	221	231	toxicities	DiseaseOrPhenotypicFeature	D064420
+19696792	247	263	myelosuppression	DiseaseOrPhenotypicFeature	D001855
+19696792	268	276	diarrhea	DiseaseOrPhenotypicFeature	D003967
+19696792	353	363	irinotecan	ChemicalEntity	D000077146
+19696792	379	395	myelosuppression	DiseaseOrPhenotypicFeature	D001855
+19696792	437	445	patients	OrganismTaxon	9606
+19696792	467	483	myelosuppression	DiseaseOrPhenotypicFeature	D001855
+19696792	491	499	patients	OrganismTaxon	9606
+19696792	524	532	toxicity	DiseaseOrPhenotypicFeature	D064420
+19696792	650	660	irinotecan	ChemicalEntity	D000077146
+19696792	744	760	myelosuppression	DiseaseOrPhenotypicFeature	D001855
+19696792	882	891	rs2622604	SequenceVariant	rs2622604
+19696792	896	901	ABCG2	GeneOrGeneProduct	9429
+19696792	998	1014	myelosuppression	DiseaseOrPhenotypicFeature	D001855
+19696792	1182	1187	ABCG2	GeneOrGeneProduct	9429
+19696792	1282	1292	irinotecan	ChemicalEntity	D000077146
+19696792	1312	1328	myelosuppression	DiseaseOrPhenotypicFeature	D001855
+19696792	Positive_Correlation	rs2622604	D001855	Novel
+19696792	Positive_Correlation	rs2622604	D000077146	Novel
+19696792	Association	D001855	9429	Novel
+19696792	Positive_Correlation	D000077146	D003967	No
+19696792	Negative_Correlation	D000077146	D015179	No
+19696792	Negative_Correlation	D000077146	D008175	No
+19696792	Positive_Correlation	D000077146	D001855	No
+19696792	Association	D000077146	9429	No

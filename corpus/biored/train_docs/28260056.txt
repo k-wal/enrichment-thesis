@@ -1,0 +1,62 @@
+28260056|t|Insulin-like growth factor 1 receptor-mediated cell survival in hypoxia depends on the promotion of autophagy via suppression of the PI3K/Akt/mTOR signaling pathway.
+28260056|a|Hypoxia is widely accepted as a fundamental biological phenomenon, which is strongly associated with tissue damage and cell viability under stress conditions. Insulin-like growth factor-1 (IGF-1) is known to protect tissues from multiple types of damage, and protect cells from apoptosis. Hypoxia is a regulatory factor of the IGF system, however the role of the IGF-1 receptor (IGF-1R) in hypoxia-induced apoptosis remains unclear. The present study investigated the potential mechanisms associated with IGF-1R-associated apoptosis under hypoxic conditions. Mouse embryonic fibroblasts exhibiting disruption or overexpression of IGF-1R (R- cells and R+ cells) were used to examine the level of apoptosis, autophagy, and production of reactive oxygen species (ROS). The autophagy inhibitor 3-methyladenine was used to assess the effect of autophagy on ROS production and apoptosis under hypoxic conditions. A potential downstream signaling pathway involving phosphatidylinositol 3-kinase (PI3K)/threonine protein kinase B (Akt)/mammalian target of rapamycin (mTOR) was identifiedby western blot analysis. The results demonstrated that hypoxia induced apoptosis, increased ROS production, and promoted autophagy in a time-dependent manner relative to that observed under normoxia. R+ cells exhibited a lower percentage of apoptotic cells, lower ROS production, and higher levels of autophagy when compared to that of R- cells. In addition, inhibition of autophagy led to increased ROS production and a higher percentage of apoptotic cells in the two cell types. Furthermore, IGF-1R is related with PI3K/Akt/mTOR signaling pathway and enhanced autophagy-associated protein expression, which was verified following treatment with the PI3K inhibitor LY294002. These results indicated that IGF-1R may increase cell viability under hypoxic conditions by promoting autophagy and scavenging ROS production, which is closed with PI3K/Akt/mTOR signaling pathway.
+28260056	0	37	Insulin-like growth factor 1 receptor	GeneOrGeneProduct	16001
+28260056	64	71	hypoxia	DiseaseOrPhenotypicFeature	D000860
+28260056	133	137	PI3K	GeneOrGeneProduct	18706
+28260056	138	141	Akt	GeneOrGeneProduct	11651
+28260056	142	146	mTOR	GeneOrGeneProduct	56717
+28260056	166	173	Hypoxia	DiseaseOrPhenotypicFeature	D000860
+28260056	325	353	Insulin-like growth factor-1	GeneOrGeneProduct	16000
+28260056	355	360	IGF-1	GeneOrGeneProduct	16000
+28260056	455	462	Hypoxia	DiseaseOrPhenotypicFeature	D000860
+28260056	493	496	IGF	GeneOrGeneProduct	16000
+28260056	529	543	IGF-1 receptor	GeneOrGeneProduct	16001
+28260056	545	551	IGF-1R	GeneOrGeneProduct	16001
+28260056	556	563	hypoxia	DiseaseOrPhenotypicFeature	D000860
+28260056	671	677	IGF-1R	GeneOrGeneProduct	16001
+28260056	705	712	hypoxic	DiseaseOrPhenotypicFeature	D000860
+28260056	725	730	Mouse	OrganismTaxon	10090
+28260056	796	802	IGF-1R	GeneOrGeneProduct	16001
+28260056	901	924	reactive oxygen species	ChemicalEntity	D017382
+28260056	926	929	ROS	ChemicalEntity	D017382
+28260056	956	971	3-methyladenine	ChemicalEntity	C025946
+28260056	1018	1021	ROS	ChemicalEntity	D017382
+28260056	1053	1060	hypoxic	DiseaseOrPhenotypicFeature	D000860
+28260056	1124	1153	phosphatidylinositol 3-kinase	GeneOrGeneProduct	18706
+28260056	1155	1159	PI3K	GeneOrGeneProduct	18706
+28260056	1161	1187	threonine protein kinase B	GeneOrGeneProduct	11651
+28260056	1189	1192	Akt	GeneOrGeneProduct	11651
+28260056	1194	1223	mammalian target of rapamycin	GeneOrGeneProduct	56717
+28260056	1225	1229	mTOR	GeneOrGeneProduct	56717
+28260056	1301	1308	hypoxia	DiseaseOrPhenotypicFeature	D000860
+28260056	1338	1341	ROS	ChemicalEntity	D017382
+28260056	1510	1513	ROS	ChemicalEntity	D017382
+28260056	1646	1649	ROS	ChemicalEntity	D017382
+28260056	1740	1746	IGF-1R	GeneOrGeneProduct	16001
+28260056	1763	1767	PI3K	GeneOrGeneProduct	18706
+28260056	1768	1771	Akt	GeneOrGeneProduct	11651
+28260056	1772	1776	mTOR	GeneOrGeneProduct	56717
+28260056	1897	1901	PI3K	GeneOrGeneProduct	18706
+28260056	1912	1920	LY294002	ChemicalEntity	C085911
+28260056	1951	1957	IGF-1R	GeneOrGeneProduct	16001
+28260056	1992	1999	hypoxic	DiseaseOrPhenotypicFeature	D000860
+28260056	2049	2052	ROS	ChemicalEntity	D017382
+28260056	2086	2090	PI3K	GeneOrGeneProduct	18706
+28260056	2091	2094	Akt	GeneOrGeneProduct	11651
+28260056	2095	2099	mTOR	GeneOrGeneProduct	56717
+28260056	Association	C025946	D017382	Novel
+28260056	Association	C025946	D000860	Novel
+28260056	Association	D017382	56717	Novel
+28260056	Association	D017382	11651	Novel
+28260056	Association	D017382	18706	Novel
+28260056	Positive_Correlation	D017382	D000860	Novel
+28260056	Negative_Correlation	18706	C085911	No
+28260056	Association	D000860	16000	No
+28260056	Association	D000860	56717	Novel
+28260056	Association	D000860	11651	Novel
+28260056	Association	D000860	18706	Novel
+28260056	Association	16001	D017382	Novel
+28260056	Association	16001	56717	Novel
+28260056	Association	16001	11651	Novel
+28260056	Association	16001	18706	Novel
+28260056	Association	16001	D000860	Novel

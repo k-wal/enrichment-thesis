@@ -1,0 +1,53 @@
+28470421|t|How should the optical tweezers experiment be used to characterize the red blood cell membrane mechanics?
+28470421|a|Stretching red blood cells using optical tweezers is a way to characterize the mechanical properties of their membrane by measuring the size of the cell in the direction of the stretching (axial diameter) and perpendicularly (transverse diameter). Recently, such data have been used in numerous publications to validate solvers dedicated to the computation of red blood cell dynamics under flow. In the present study, different mechanical models are used to simulate the stretching of red blood cells by optical tweezers. Results first show that the mechanical moduli of the membranes have to be adjusted as a function of the model used. In addition, by assessing the area dilation of the cells, the axial and transverse diameters measured in optical tweezers experiments are found to be insufficient to discriminate between models relevant to red blood cells or not. At last, it is shown that other quantities such as the height or the profile of the cell should be preferred for validation purposes since they are more sensitive to the membrane model.
+28470421	15	42	optical tweezers experiment	T062	C1883721
+28470421	54	66	characterize	T052	C1880022
+28470421	71	85	red blood cell	T025	C0014792
+28470421	86	94	membrane	T026	C0596901
+28470421	95	104	mechanics	T070	C0376706
+28470421	106	116	Stretching	T061	C0581717
+28470421	117	132	red blood cells	T025	C0014792
+28470421	139	155	optical tweezers	T062	C1883721
+28470421	168	180	characterize	T052	C1880022
+28470421	185	195	mechanical	T169	C0443254
+28470421	196	206	properties	T080	C0871161
+28470421	216	224	membrane	T026	C0596901
+28470421	228	237	measuring	T080	C0444706
+28470421	242	258	size of the cell	T081	C0162658
+28470421	266	275	direction	T082	C0449738
+28470421	283	293	stretching	T061	C0581717
+28470421	295	309	axial diameter	T081	C3174763
+28470421	315	330	perpendicularly	T077	C3272860
+28470421	332	351	transverse diameter	T081	C0552414
+28470421	369	373	data	T078	C1511726
+28470421	392	400	numerous	T081	C0439064
+28470421	401	413	publications	T073,T170	C0034036
+28470421	451	462	computation	T052	C1880157
+28470421	466	480	red blood cell	T025	C0014792
+28470421	481	489	dynamics	T070	C3826426
+28470421	509	522	present study	T062	C2603343
+28470421	534	544	mechanical	T169	C0443254
+28470421	545	551	models	T075	C0026336
+28470421	577	587	stretching	T061	C0581717
+28470421	591	606	red blood cells	T025	C0014792
+28470421	610	626	optical tweezers	T062	C1883721
+28470421	628	635	Results	T034	C0456984
+28470421	656	673	mechanical moduli	T169	C0443254
+28470421	681	690	membranes	T026	C0596901
+28470421	732	737	model	T075	C0026336
+28470421	779	787	dilation	T033	C0700124
+28470421	795	800	cells	T025	C0007634
+28470421	806	811	axial	T082	C0205131
+28470421	816	836	transverse diameters	T081	C0552414
+28470421	837	845	measured	T080	C0444706
+28470421	849	877	optical tweezers experiments	T062	C1883721
+28470421	894	906	insufficient	T080	C0231180
+28470421	910	922	discriminate	T080	C0205235
+28470421	931	937	models	T075	C0026336
+28470421	950	965	red blood cells	T025	C0014792
+28470421	1006	1016	quantities	T081	C1265611
+28470421	1058	1062	cell	T025	C0007634
+28470421	1073	1082	preferred	T078	C0558295
+28470421	1087	1097	validation	T062	C1519941
+28470421	1127	1136	sensitive	T169	C0332324
+28470421	1144	1158	membrane model	T170	C0596899

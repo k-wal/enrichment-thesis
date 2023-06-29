@@ -1,0 +1,61 @@
+21750150|t|Homozygously deleted gene DACH1 regulates tumor-initiating activity of glioma cells.
+21750150|a|Loss or reduction in function of tumor suppressor genes contributes to tumorigenesis. Here, by allelic DNA copy number analysis using single-nucleotide polymorphism genotyping array and mass spectrometry, we report homozygous deletion in glioblastoma multiformes at chromosome 13q21, where DACH1 gene is located. We found decreased cell proliferation of a series of glioma cell lines by forced expression of DACH1. We then generated U87TR-Da glioma cells, where DACH1 expression could be activated by exposure of the cells to doxycycline. Both ex vivo cellular proliferation and in vivo growth of s.c. transplanted tumors in mice are reduced in U87TR-Da cells with DACH1 expression (U87-DACH1-high), compared with DACH1-nonexpressing U87TR-Da cells (U87-DACH1-low). U87-DACH1-low cells form spheroids with CD133 and Nestin expression in serum-free medium but U87-DACH1-high cells do not. Compared with spheroid-forming U87-DACH1-low cells, adherent U87-DACH1-high cells display lower tumorigenicity, indicating DACH1 decreases the number of tumor-initiating cells. Gene expression analysis and chromatin immunoprecipitation assay reveal that fibroblast growth factor 2 (FGF2/bFGF) is transcriptionally repressed by DACH1, especially in cells cultured in serum-free medium. Exogenous bFGF rescues spheroid-forming activity and tumorigenicity of the U87-DACH1-high cells, suggesting that loss of DACH1 increases the number of tumor-initiating cells through transcriptional activation of bFGF. These results illustrate that DACH1 is a distinctive tumor suppressor, which does not only suppress growth of tumor cells but also regulates bFGF-mediated tumor-initiating activity of glioma cells.
+21750150	26	31	DACH1	GeneOrGeneProduct	1602
+21750150	42	47	tumor	DiseaseOrPhenotypicFeature	D009369
+21750150	71	77	glioma	DiseaseOrPhenotypicFeature	D005910
+21750150	118	123	tumor	DiseaseOrPhenotypicFeature	D009369
+21750150	156	169	tumorigenesis	DiseaseOrPhenotypicFeature	D009369
+21750150	323	335	glioblastoma	DiseaseOrPhenotypicFeature	D005909
+21750150	375	380	DACH1	GeneOrGeneProduct	1602
+21750150	451	457	glioma	DiseaseOrPhenotypicFeature	D005910
+21750150	493	498	DACH1	GeneOrGeneProduct	1602
+21750150	518	526	U87TR-Da	CellLine	CVCL_0022
+21750150	527	533	glioma	DiseaseOrPhenotypicFeature	D005910
+21750150	547	552	DACH1	GeneOrGeneProduct	1602
+21750150	611	622	doxycycline	ChemicalEntity	D004318
+21750150	700	706	tumors	DiseaseOrPhenotypicFeature	D009369
+21750150	710	714	mice	OrganismTaxon	10090
+21750150	730	738	U87TR-Da	CellLine	CVCL_0022
+21750150	750	755	DACH1	GeneOrGeneProduct	1602
+21750150	768	771	U87	CellLine	CVCL_0022
+21750150	772	777	DACH1	GeneOrGeneProduct	1602
+21750150	799	804	DACH1	GeneOrGeneProduct	1602
+21750150	819	827	U87TR-Da	CellLine	CVCL_0022
+21750150	835	838	U87	CellLine	CVCL_0022
+21750150	839	844	DACH1	GeneOrGeneProduct	1602
+21750150	851	854	U87	CellLine	CVCL_0022
+21750150	855	860	DACH1	GeneOrGeneProduct	1602
+21750150	891	896	CD133	GeneOrGeneProduct	8842
+21750150	901	907	Nestin	GeneOrGeneProduct	10763
+21750150	944	947	U87	CellLine	CVCL_0022
+21750150	948	953	DACH1	GeneOrGeneProduct	1602
+21750150	1004	1007	U87	CellLine	CVCL_0022
+21750150	1008	1013	DACH1	GeneOrGeneProduct	1602
+21750150	1034	1037	U87	CellLine	CVCL_0022
+21750150	1038	1043	DACH1	GeneOrGeneProduct	1602
+21750150	1096	1101	DACH1	GeneOrGeneProduct	1602
+21750150	1126	1131	tumor	DiseaseOrPhenotypicFeature	D009369
+21750150	1227	1253	fibroblast growth factor 2	GeneOrGeneProduct	2247
+21750150	1255	1259	FGF2	GeneOrGeneProduct	2247
+21750150	1260	1264	bFGF	GeneOrGeneProduct	2247
+21750150	1300	1305	DACH1	GeneOrGeneProduct	1602
+21750150	1368	1372	bFGF	GeneOrGeneProduct	2247
+21750150	1433	1436	U87	CellLine	CVCL_0022
+21750150	1437	1442	DACH1	GeneOrGeneProduct	1602
+21750150	1479	1484	DACH1	GeneOrGeneProduct	1602
+21750150	1509	1514	tumor	DiseaseOrPhenotypicFeature	D009369
+21750150	1570	1574	bFGF	GeneOrGeneProduct	2247
+21750150	1606	1611	DACH1	GeneOrGeneProduct	1602
+21750150	1629	1634	tumor	DiseaseOrPhenotypicFeature	D009369
+21750150	1686	1691	tumor	DiseaseOrPhenotypicFeature	D009369
+21750150	1717	1721	bFGF	GeneOrGeneProduct	2247
+21750150	1731	1736	tumor	DiseaseOrPhenotypicFeature	D009369
+21750150	1760	1766	glioma	DiseaseOrPhenotypicFeature	D005910
+21750150	Association	2247	D005910	No
+21750150	Association	2247	D009369	No
+21750150	Negative_Correlation	2247	1602	Novel
+21750150	Positive_Correlation	D004318	1602	Novel
+21750150	Association	1602	10763	Novel
+21750150	Association	1602	8842	Novel
+21750150	Association	1602	D005910	Novel
+21750150	Association	1602	D009369	Novel

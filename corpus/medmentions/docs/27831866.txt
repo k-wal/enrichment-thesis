@@ -1,0 +1,98 @@
+27831866|t|A Biomechanical Modeling Guided CBCT Estimation Technique
+27831866|a|Two-dimensional -to- three-dimensional (2D - 3D) deformation has emerged as a new technique to estimate cone-beam computed tomography (CBCT) images. The technique is based on deforming a prior high-quality 3D CT / CBCT image to form a new CBCT image, guided by limited-view 2D projections. The accuracy of this intensity-based technique, however, is often limited in low-contrast image regions with subtle intensity differences. The solved deformation vector fields (DVFs) can also be biomechanical ly unrealistic. To address these problems, we have developed a biomechanical modeling guided CBCT estimation technique (Bio-CBCT-est) by combining 2D - 3D deformation with finite element analysis (FEA)-based biomechanical modeling of anatomical structures. Specifically, Bio-CBCT-est first extracts the 2D - 3D deformation -generated displacement vectors at the high-contrast anatomical structure boundaries. The extracted surface deformation fields are subsequently used as the boundary conditions to drive structure -based FEA to correct and fine-tune the overall deformation fields, especially those at low-contrast regions within the structure. The resulting FEA -corrected deformation fields are then fed back into 2D - 3D deformation to form an iterative loop, combining the benefits of intensity-based deformation and biomechanical modeling for CBCT estimation. Using eleven lung cancer patient cases, the accuracy of the Bio-CBCT-est technique has been compared to that of the 2D - 3D deformation technique and the traditional CBCT reconstruction techniques. The accuracy was evaluated in the image domain, and also in the DVF domain through clinician -tracked lung landmarks.
+27831866	2	15	Biomechanical	T081	C0009563
+27831866	16	24	Modeling	T062	C0870071
+27831866	32	36	CBCT	T060	C1956110
+27831866	37	57	Estimation Technique	T081,T170	C0079305
+27831866	58	73	Two-dimensional	T082	C1705052
+27831866	79	96	three-dimensional	T082	C0450363
+27831866	98	100	2D	T082	C1705052
+27831866	103	105	3D	T082	C0450363
+27831866	107	118	deformation	T080	C2919017
+27831866	140	149	technique	T169	C0449851
+27831866	162	191	cone-beam computed tomography	T060	C1956110
+27831866	193	197	CBCT	T060	C1956110
+27831866	199	205	images	T078	C1551337
+27831866	211	220	technique	T060	C0430022
+27831866	233	242	deforming	T080	C2919017
+27831866	251	263	high-quality	T080	C0332306
+27831866	264	266	3D	T082	C0450363
+27831866	267	269	CT	T060	C0040405
+27831866	272	276	CBCT	T060	C1956110
+27831866	277	282	image	T078	C1551337
+27831866	297	301	CBCT	T060	C1956110
+27831866	302	307	image	T078	C1551337
+27831866	332	334	2D	T082	C1705052
+27831866	335	346	projections	T082	C0348018
+27831866	352	360	accuracy	T080	C0598285
+27831866	385	394	technique	T060	C0430022
+27831866	425	437	low-contrast	T080	C0205556
+27831866	438	443	image	T078	C1551337
+27831866	444	451	regions	T082	C0205146
+27831866	464	485	intensity differences	T034	C0428760
+27831866	498	509	deformation	T080	C2919017
+27831866	510	523	vector fields	T082	C1254362
+27831866	525	529	DVFs	T082	C1254362
+27831866	543	556	biomechanical	T081	C0009563
+27831866	620	633	biomechanical	T081	C0009563
+27831866	634	642	modeling	T062	C0870071
+27831866	650	654	CBCT	T060	C1956110
+27831866	655	675	estimation technique	T081,T170	C0079305
+27831866	677	689	Bio-CBCT-est	T081,T170	C0079305
+27831866	704	706	2D	T082	C1705052
+27831866	709	711	3D	T082	C0450363
+27831866	712	723	deformation	T080	C2919017
+27831866	729	752	finite element analysis	T170	C0600552
+27831866	754	757	FEA	T170	C0600552
+27831866	765	778	biomechanical	T081	C0009563
+27831866	779	787	modeling	T062	C0870071
+27831866	791	812	anatomical structures	T017	C0700276
+27831866	828	840	Bio-CBCT-est	T081,T170	C0079305
+27831866	860	862	2D	T082	C1705052
+27831866	865	867	3D	T082	C0450363
+27831866	868	879	deformation	T080	C2919017
+27831866	891	903	displacement	T082	C0012727
+27831866	904	911	vectors	T082	C0442335
+27831866	919	932	high-contrast	T080	C0205556
+27831866	933	964	anatomical structure boundaries	T017	C3697845
+27831866	970	987	extracted surface	T082	C0205148
+27831866	988	999	deformation	T080	C2919017
+27831866	1000	1006	fields	T082	C1254362
+27831866	1036	1044	boundary	T077	C2327423
+27831866	1045	1055	conditions	T080	C0348080
+27831866	1065	1074	structure	T017	C0700276
+27831866	1082	1085	FEA	T170	C0600552
+27831866	1123	1134	deformation	T080	C2919017
+27831866	1135	1141	fields	T082	C1254362
+27831866	1163	1175	low-contrast	T080	C0205556
+27831866	1176	1183	regions	T082	C0205146
+27831866	1195	1204	structure	T017	C0700276
+27831866	1220	1223	FEA	T170	C0600552
+27831866	1235	1246	deformation	T080	C2919017
+27831866	1247	1253	fields	T082	C1254362
+27831866	1277	1279	2D	T082	C1705052
+27831866	1282	1284	3D	T082	C0450363
+27831866	1285	1296	deformation	T080	C2919017
+27831866	1318	1322	loop	T082	C0445022
+27831866	1338	1346	benefits	T081	C0814225
+27831866	1366	1377	deformation	T080	C2919017
+27831866	1382	1395	biomechanical	T081	C0009563
+27831866	1396	1404	modeling	T062	C0870071
+27831866	1409	1413	CBCT	T060	C1956110
+27831866	1414	1424	estimation	T081,T170	C0079305
+27831866	1439	1450	lung cancer	T191	C0242379
+27831866	1451	1458	patient	T101	C0030705
+27831866	1459	1464	cases	T077	C1706256
+27831866	1470	1478	accuracy	T080	C0598285
+27831866	1486	1498	Bio-CBCT-est	T081,T170	C0079305
+27831866	1499	1508	technique	T060	C0430022
+27831866	1542	1544	2D	T082	C1705052
+27831866	1547	1549	3D	T082	C0450363
+27831866	1550	1561	deformation	T080	C2919017
+27831866	1562	1571	technique	T169	C0449851
+27831866	1592	1596	CBCT	T060	C1956110
+27831866	1628	1636	accuracy	T080	C0598285
+27831866	1658	1663	image	T078	C1551337
+27831866	1688	1691	DVF	T082	C1254362
+27831866	1707	1716	clinician	T097	C0871685
+27831866	1726	1730	lung	T023	C0024109

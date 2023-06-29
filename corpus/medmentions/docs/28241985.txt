@@ -1,0 +1,78 @@
+28241985|t|Cardiogenic shock caused by a left midventricular obstruction during refeeding in a patient with anorexia nervosa
+28241985|a|Refeeding syndrome occurs when reinstating nutrition to severely malnourished patients. It can sometimes be fatal, particularly as a result of cardiac involvement such as congestive heart failure and arrhythmias. The aim of this study was to report a case of cardiogenic shock that occurred during refeeding in a patient with anorexia nervosa (AN). The cardiogenic shock was due to a previously unrecognized mechanism, namely a transient left midventricular obstruction that completely disappeared after treatment. A 46-y-old woman with AN who had followed a carbohydrate - and a fat - deficient diet for >10 y was hospitalized for dyspnea on exertion. She had severely impaired cardiac systolic function on admission and was considered high risk for refeeding syndrome. During a stepwise increase of calories, she showed no electrolyte or mineral abnormalities characteristic of refeeding syndrome. After intravenous administration of a fat emulsion, the patient suffered from cardiogenic shock due to an unexpected mechanism, namely a left midventricular obstruction caused by cardiac hypercontraction, a thickened left ventricular wall, and intravascular volume depletion. With cessation of the fat emulsion and initiation of volume repletion she recovered from shock immediately and her echocardiogram returned to normal by discharge. This case illustrated a novel cause of cardiogenic shock during refeeding and the need for caution during the intravenous administration of a fat emulsion in patients with initial left ventricular systolic dysfunction.
+28241985	0	17	Cardiogenic shock	T046	C0036980
+28241985	30	49	left midventricular	T023	C0445027
+28241985	50	61	obstruction	T046	C0028778
+28241985	69	78	refeeding	T047	C0860549
+28241985	84	91	patient	T101	C0030705
+28241985	97	113	anorexia nervosa	T048	C0003125
+28241985	114	132	Refeeding syndrome	T047	C0860549
+28241985	133	139	occurs	T052	C1709305
+28241985	170	178	severely	T080	C0205082
+28241985	179	191	malnourished	T047	C0162429
+28241985	192	200	patients	T101	C0030705
+28241985	222	227	fatal	T080	C1302234
+28241985	247	253	result	T169	C1274040
+28241985	257	264	cardiac	T023	C0018787
+28241985	265	276	involvement	T169	C1314939
+28241985	285	309	congestive heart failure	T047	C0018802
+28241985	314	325	arrhythmias	T033	C0003811
+28241985	343	348	study	T062	C2603343
+28241985	356	362	report	T058	C0700287
+28241985	365	369	case	T169	C0868928
+28241985	373	390	cardiogenic shock	T046	C0036980
+28241985	396	404	occurred	T052	C1709305
+28241985	412	421	refeeding	T047	C0860549
+28241985	427	434	patient	T101	C0030705
+28241985	440	456	anorexia nervosa	T048	C0003125
+28241985	458	460	AN	T048	C0003125
+28241985	467	484	cardiogenic shock	T046	C0036980
+28241985	509	521	unrecognized	T080	C4288068
+28241985	522	531	mechanism	T169	C0441712
+28241985	542	551	transient	T079	C1254367
+28241985	552	571	left midventricular	T023	C0445027
+28241985	572	583	obstruction	T046	C0028778
+28241985	618	627	treatment	T061	C0087111
+28241985	640	645	woman	T098	C0043210
+28241985	651	653	AN	T048	C0003125
+28241985	673	685	carbohydrate	T109	C0012170
+28241985	694	697	fat	T109,T168	C0012171
+28241985	700	709	deficient	T169	C0011155
+28241985	710	714	diet	T168	C0012155
+28241985	729	741	hospitalized	T033	C0701159
+28241985	746	753	dyspnea	T184	C0013404
+28241985	757	765	exertion	T040	C0015264
+28241985	775	783	severely	T080	C0205082
+28241985	784	792	impaired	T169	C0221099
+28241985	793	818	cardiac systolic function	T042	C1254358
+28241985	822	831	admission	T058	C0184666
+28241985	856	860	risk	T078	C0035647
+28241985	865	883	refeeding syndrome	T047	C0860549
+28241985	903	911	increase	T169	C0442805
+28241985	915	923	calories	T081	C1556156
+28241985	939	950	electrolyte	T121,T197	C0013832
+28241985	954	961	mineral	T197	C0026162
+28241985	962	975	abnormalities	T033	C1704258
+28241985	994	1012	refeeding syndrome	T047	C0860549
+28241985	1020	1064	intravenous administration of a fat emulsion	T109,T121	C0015667
+28241985	1070	1077	patient	T101	C0030705
+28241985	1092	1109	cardiogenic shock	T046	C0036980
+28241985	1131	1140	mechanism	T169	C0441712
+28241985	1151	1170	left midventricular	T023	C0445027
+28241985	1171	1182	obstruction	T046	C0028778
+28241985	1193	1217	cardiac hypercontraction	T046	C0030660
+28241985	1221	1252	thickened left ventricular wall	T046	C0030660
+28241985	1258	1288	intravascular volume depletion	T033	C0750310
+28241985	1295	1304	cessation	T052	C1880019
+28241985	1312	1324	fat emulsion	T109,T121	C0304483
+28241985	1329	1339	initiation	T169	C1704686
+28241985	1343	1359	volume repletion	T033	C0750310
+28241985	1379	1384	shock	T046	C0036974
+28241985	1405	1419	echocardiogram	T170	C2243117
+28241985	1420	1431	returned to	T080	C0332156
+28241985	1442	1451	discharge	T058	C0030685
+28241985	1492	1509	cardiogenic shock	T046	C0036980
+28241985	1517	1526	refeeding	T047	C0860549
+28241985	1563	1607	intravenous administration of a fat emulsion	T109,T121	C0015667
+28241985	1611	1619	patients	T101	C0030705
+28241985	1633	1670	left ventricular systolic dysfunction	T047	C1277187

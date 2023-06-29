@@ -1,0 +1,67 @@
+28065558|t|The availability of community health center services and access to medical care
+28065558|a|Community Health Centers (CHCs) funded by Section 330 of the Public Health Service Act are an essential part of the health care safety net in the US. The Patient Protection and Affordable Care Act expanded the program significantly, but the extent to which the availability of CHCs improve access to care in general is not clear. In this paper, we examine the associations between the availability of CHC services in communities and two key measures of ambulatory care access - having a usual source of care and having any office-based medical visits over a one year period. We pooled six years of data from the Medical Expenditure Panel Survey (2008-2013) and linked it to geographic data on CHCs from Health Resources and Services Administration's Health Center Program Uniform Data System. We also link other community characteristics from the Area Health Resource File and the Dartmouth Institute's data files. The associations between CHC availability and our access measures are estimated with logistic regression models stratified by insurance status. The availability of CHC services was positively associated with both measures of access among those with no insurance coverage. Additionally, it was positively associated with having a usual source of care among those with Medicaid and private insurance. These findings persist after controlling for key individual - and community - level characteristics. Our findings suggest that an enhanced CHC program could be an important resource for supporting the efficacy of expanded Medicaid coverage under the Affordable Care Act and, ultimately, improving access to quality primary care for underserved Americans.
+28065558	4	19	availability of	T169	C0470187
+28065558	20	43	community health center	T073,T093	C0009469
+28065558	44	52	services	T057	C0557854
+28065558	67	79	medical care	T058	C0199168
+28065558	80	104	Community Health Centers	T073,T093	C0009469
+28065558	106	110	CHCs	T073,T093	C0009469
+28065558	122	133	Section 330	T064	C2371787
+28065558	141	166	Public Health Service Act	T089	C0680575
+28065558	196	218	health care safety net	T093	C3661444
+28065558	226	228	US	T083	C0041703
+28065558	234	276	Patient Protection and Affordable Care Act	T089	C2936611
+28065558	290	297	program	T064	C0018106
+28065558	357	361	CHCs	T073,T093	C0009469
+28065558	380	384	care	T052	C1947933
+28065558	481	484	CHC	T073,T093	C0009469
+28065558	485	493	services	T057	C0557854
+28065558	497	508	communities	T096	C0009462
+28065558	533	548	ambulatory care	T058	C0002423
+28065558	549	555	access	T078	C0015472
+28065558	583	587	care	T052	C1947933
+28065558	616	623	medical	T169	C0205476
+28065558	624	630	visits	T053	C0545082
+28065558	638	641	one	T081	C0205447
+28065558	642	646	year	T079	C0439234
+28065558	647	653	period	T079	C1948053
+28065558	665	668	six	T081	C0205452
+28065558	669	674	years	T079	C0439234
+28065558	678	682	data	T078	C1511726
+28065558	692	724	Medical Expenditure Panel Survey	T170	C0282574
+28065558	754	764	geographic	T082	C1517526
+28065558	765	769	data	T078	C1511726
+28065558	773	777	CHCs	T073,T093	C0009469
+28065558	783	829	Health Resources and Services Administration's	T093	C0041720
+28065558	830	871	Health Center Program Uniform Data System	T170	C0282574
+28065558	892	901	community	T096	C0009462
+28065558	927	952	Area Health Resource File	T170	C0282574
+28065558	961	993	Dartmouth Institute's data files	T170	C0282574
+28065558	1020	1023	CHC	T073,T093	C0009469
+28065558	1024	1036	availability	T169	C0470187
+28065558	1080	1099	logistic regression	T062	C0206031
+28065558	1100	1106	models	T170	C3161035
+28065558	1107	1117	stratified	T080	C0205363
+28065558	1121	1137	insurance status	T078	C0376629
+28065558	1143	1158	availability of	T169	C0470187
+28065558	1159	1162	CHC	T073,T093	C0009469
+28065558	1163	1171	services	T057	C0557854
+28065558	1176	1186	positively	T033	C1446409
+28065558	1244	1265	no insurance coverage	T033	C3845078
+28065558	1288	1298	positively	T033	C1446409
+28065558	1340	1344	care	T052	C1947933
+28065558	1362	1370	Medicaid	T064	C0025071
+28065558	1375	1392	private insurance	T064	C3845555
+28065558	1400	1408	findings	T033	C0243095
+28065558	1443	1453	individual	T098	C0237401
+28065558	1460	1469	community	T096	C0009462
+28065558	1472	1477	level	T080	C0441889
+28065558	1478	1493	characteristics	T080	C1521970
+28065558	1499	1507	findings	T033	C0243095
+28065558	1533	1536	CHC	T073,T093	C0009469
+28065558	1595	1603	efficacy	T080	C1280519
+28065558	1616	1624	Medicaid	T064	C0025071
+28065558	1644	1663	Affordable Care Act	T089	C2936611
+28065558	1701	1708	quality	T080	C0332306
+28065558	1709	1721	primary care	T058	C0033137
+28065558	1738	1747	Americans	T098	C0596070

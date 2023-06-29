@@ -1,0 +1,104 @@
+27373893|t|Components of treatment delay in rheumatoid arthritis differ according to autoantibody status: validation of a single-centre observation using national audit data
+27373893|a|To determine whether time to treatment following symptom onset differs between RA patients according to autoantibody status. A single-centre retrospective analysis of a UK early RA inception cohort was first undertaken to identify those components of the patient journey that differed by serological subtype. Data from a UK national audit of early inflammatory arthritis patients was accessed to replicate the key finding. A total of 173 RA patients were diagnosed over a 31- month period, of whom 80 (46%) were ACPA/RF double-seropositive (ACPA(+)/RF(+)), 53 (31%) ACPA(-)/RF(-), 17 (10%) ACPA(+)/RF(-) and 23 (13%) RF(+)/ACPA(-) Overall, ACPA(+)/RF(+) patients experienced significantly longer symptom duration before DMARD initiation. This was accounted for by delays in their presentation to primary care following symptom onset -a finding that was robustly confirmed in an independent dataset of 2192 UK early RA patients. In contrast, ACPA(-)/RF(-) patients were significantly more likely to experience delays in DMARD initiation after presenting to secondary care. Causes of treatment delays in early RA differ according to patients ' autoantibody status. More insidious symptom onset and/or distinct health-seeking behaviours among ACPA(+)/RF(+) patients may contribute to late presentations in primary care, whereas ACPA(-)/RF(-) patients experience delayed diagnosis and treatment in secondary care. These observations inform the research agenda, potentially influencing the design of service delivery for early arthritis patients.
+27373893	14	23	treatment	T061	C0087111
+27373893	24	29	delay	T079	C0205421
+27373893	33	53	rheumatoid arthritis	T047	C0003873
+27373893	54	60	differ	T080	C1705242
+27373893	74	86	autoantibody	T116,T129	C0004358
+27373893	87	93	status	T080	C0449438
+27373893	95	105	validation	T062	C1519941
+27373893	125	136	observation	T169	C1441672
+27373893	137	142	using	T169	C1524063
+27373893	143	151	national	T082	C0681788
+27373893	152	157	audit	T169	C1704775
+27373893	158	162	data	T078	C1511726
+27373893	184	201	time to treatment	T079	C3494202
+27373893	202	211	following	T079	C0332282
+27373893	212	225	symptom onset	T079	C4086878
+27373893	226	233	differs	T080	C1705242
+27373893	242	244	RA	T047	C0003873
+27373893	245	253	patients	T101	C0030705
+27373893	267	279	autoantibody	T116,T129	C0004358
+27373893	280	286	status	T080	C0449438
+27373893	304	317	retrospective	T080	C1514923
+27373893	318	326	analysis	T062	C0936012
+27373893	332	334	UK	T083	C0041700
+27373893	341	343	RA	T047	C0003873
+27373893	344	360	inception cohort	UnknownType	C0150101
+27373893	385	393	identify	T080	C0205396
+27373893	418	425	patient	T101	C0030705
+27373893	426	433	journey	T169	C1280477
+27373893	439	447	differed	T080	C1705242
+27373893	451	462	serological	T169	C0205473
+27373893	463	470	subtype	T185	C0449560
+27373893	472	476	Data	T078	C1511726
+27373893	484	486	UK	T083	C0041700
+27373893	487	495	national	T082	C0681788
+27373893	496	501	audit	T169	C1704775
+27373893	511	533	inflammatory arthritis	T047	C0003864
+27373893	534	542	patients	T101	C0030705
+27373893	547	555	accessed	T082	C0444454
+27373893	559	568	replicate	T080	C1883725
+27373893	577	584	finding	T033	C0243095
+27373893	601	603	RA	T047	C0003873
+27373893	604	612	patients	T101	C0030705
+27373893	618	627	diagnosed	T060	C0430022
+27373893	628	632	over	T079	C0347984
+27373893	639	644	month	T079	C0439231
+27373893	645	651	period	T079	C1948053
+27373893	675	702	ACPA/RF double-seropositive	T034	C1254360
+27373893	704	717	ACPA(+)/RF(+)	T034	C1254360
+27373893	729	742	ACPA(-)/RF(-)	T034	C1254360
+27373893	753	766	ACPA(+)/RF(-)	T034	C1254360
+27373893	780	793	RF(+)/ACPA(-)	T034	C1254360
+27373893	803	816	ACPA(+)/RF(+)	T034	C1254360
+27373893	817	825	patients	T101	C0030705
+27373893	852	858	longer	T080	C0205166
+27373893	859	875	symptom duration	T079	C0436359
+27373893	883	888	DMARD	T121	C0242708
+27373893	889	899	initiation	T169	C1704686
+27373893	927	933	delays	T079	C0205421
+27373893	959	971	primary care	T058	C0033137
+27373893	972	981	following	T079	C0332282
+27373893	982	995	symptom onset	T079	C4086878
+27373893	999	1006	finding	T033	C0243095
+27373893	1025	1034	confirmed	T080	C0521093
+27373893	1041	1052	independent	T169	C0332291
+27373893	1053	1060	dataset	T170	C0150098
+27373893	1069	1071	UK	T083	C0041700
+27373893	1078	1080	RA	T047	C0003873
+27373893	1081	1089	patients	T101	C0030705
+27373893	1104	1126	ACPA(-)/RF(-) patients	T034	C1254360
+27373893	1118	1126	patients	T101	C0030705
+27373893	1172	1178	delays	T079	C0205421
+27373893	1182	1187	DMARD	T121	C0242708
+27373893	1188	1198	initiation	T169	C1704686
+27373893	1219	1233	secondary care	T058	C3494402
+27373893	1235	1241	Causes	T169	C0015127
+27373893	1245	1254	treatment	T061	C0087111
+27373893	1255	1261	delays	T079	C0205421
+27373893	1271	1273	RA	T047	C0003873
+27373893	1274	1280	differ	T080	C1705242
+27373893	1294	1302	patients	T101	C0030705
+27373893	1305	1317	autoantibody	T116,T129	C0004358
+27373893	1318	1324	status	T080	C0449438
+27373893	1331	1340	insidious	T080	C1288298
+27373893	1341	1354	symptom onset	T079	C4086878
+27373893	1371	1396	health-seeking behaviours	T055	C1321107
+27373893	1403	1425	ACPA(+)/RF(+) patients	T034	C1254360
+27373893	1417	1425	patients	T101	C0030705
+27373893	1430	1440	contribute	T052	C1880177
+27373893	1466	1478	primary care	T058	C0033137
+27373893	1488	1510	ACPA(-)/RF(-) patients	T034	C1254360
+27373893	1502	1510	patients	T101	C0030705
+27373893	1522	1539	delayed diagnosis	T080	C2718036
+27373893	1544	1553	treatment	T061	C0087111
+27373893	1557	1571	secondary care	T058	C3494402
+27373893	1579	1591	observations	T169	C1441672
+27373893	1592	1598	inform	T058	C0700287
+27373893	1603	1618	research agenda	T062	C0681798
+27373893	1632	1643	influencing	T077	C4054723
+27373893	1648	1654	design	T052	C1707689
+27373893	1658	1674	service delivery	T058	C0011211
+27373893	1679	1694	early arthritis	T047	C3899278
+27373893	1695	1703	patients	T101	C0030705

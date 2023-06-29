@@ -1,0 +1,55 @@
+27631624|t|A Rational Engineering Strategy for Designing Protein A-Binding Camelid Single-Domain Antibodies
+27631624|a|Staphylococcal protein A (SpA) and streptococcal protein G (SpG) affinity chromatography are the gold standards for purifying monoclonal antibodies (mAbs) in therapeutic applications. However, camelid VHH single-domain Abs (sdAbs or VHHs) are not bound by SpG and only sporadically bound by SpA. Currently, VHHs require affinity tag-based purification, which limits their therapeutic potential and adds considerable complexity and cost to their production. Here we describe a simple and rapid mutagenesis -based approach designed to confer SpA binding upon a priori non-SpA-binding VHHs. We show that SpA binding of VHHs is determined primarily by the same set of residues as in human mAbs, albeit with an unexpected degree of tolerance to substitutions at certain core and non-core positions and some limited dependence on at least one residue outside the SpA interface, and that SpA binding could be successfully introduced into five VHHs against three different targets with no adverse effects on expression yield or antigen binding. Next-generation sequencing of llama, alpaca and dromedary VHH repertoires suggested that species differences in SpA binding may result from frequency variation in specific deleterious polymorphisms, especially Ile57. Thus, the SpA binding phenotype of camelid VHHs can be easily modulated to take advantage of tag-less purification techniques, although the frequency with which this is required may depend on the source species.
+27631624	11	31	Engineering Strategy	T062	UMLS:C0035171
+27631624	46	63	Protein A-Binding	T038	UMLS:C0033618
+27631624	64	71	Camelid	T204	UMLS:C0325202
+27631624	72	96	Single-Domain Antibodies	T103	UMLS:C3494231
+27631624	97	121	Staphylococcal protein A	T103	UMLS:C0038164
+27631624	123	126	SpA	T103	UMLS:C0038164
+27631624	132	155	streptococcal protein G	T103	UMLS:C0075289
+27631624	157	160	SpG	T103	UMLS:C0075289
+27631624	162	185	affinity chromatography	T058	UMLS:C0008551
+27631624	223	244	monoclonal antibodies	T103	UMLS:C0003250
+27631624	246	250	mAbs	T103	UMLS:C0003250
+27631624	255	279	therapeutic applications	T058	UMLS:C0278296
+27631624	290	297	camelid	T204	UMLS:C0325202
+27631624	298	319	VHH single-domain Abs	T103	UMLS:C3494234
+27631624	321	326	sdAbs	T103	UMLS:C3494231
+27631624	330	334	VHHs	T103	UMLS:C3494234
+27631624	353	356	SpG	T103	UMLS:C0075289
+27631624	388	391	SpA	T103	UMLS:C0038164
+27631624	404	408	VHHs	T103	UMLS:C3494234
+27631624	426	448	tag-based purification	T058	UMLS:C0597301
+27631624	513	523	complexity	T058	UMLS:C1292781
+27631624	590	601	mutagenesis	T058	UMLS:C3146302
+27631624	637	640	SpA	T103	UMLS:C0038164
+27631624	641	648	binding	T038	UMLS:C0033618
+27631624	663	683	non-SpA-binding VHHs	T103	UMLS:C3494234
+27631624	698	701	SpA	T103	UMLS:C0038164
+27631624	702	709	binding	T038	UMLS:C0033618
+27631624	713	717	VHHs	T103	UMLS:C3494234
+27631624	776	781	human	T204	UMLS:C0086418
+27631624	782	786	mAbs	T103	UMLS:C0003250
+27631624	837	850	substitutions	T038	UMLS:C0525038
+27631624	954	957	SpA	T103	UMLS:C0038164
+27631624	978	981	SpA	T103	UMLS:C0038164
+27631624	982	989	binding	T038	UMLS:C0033618
+27631624	1033	1037	VHHs	T103	UMLS:C3494234
+27631624	1075	1093	no adverse effects	T033	UMLS:C1513916
+27631624	1097	1107	expression	T038	UMLS:C1171362
+27631624	1117	1132	antigen binding	T038	UMLS:C1148575
+27631624	1134	1160	Next-generation sequencing	T062	UMLS:C2936622
+27631624	1164	1169	llama	T204	UMLS:C0023919
+27631624	1171	1177	alpaca	T204	UMLS:C0002186
+27631624	1182	1191	dromedary	T204	UMLS:C0013127
+27631624	1192	1207	VHH repertoires	T103	UMLS:C1516006
+27631624	1246	1249	SpA	T103	UMLS:C0038164
+27631624	1250	1257	binding	T038	UMLS:C0033618
+27631624	1318	1331	polymorphisms	T038	UMLS:C0032529
+27631624	1361	1364	SpA	T103	UMLS:C0038164
+27631624	1365	1372	binding	T038	UMLS:C0033618
+27631624	1386	1393	camelid	T204	UMLS:C0325202
+27631624	1394	1398	VHHs	T103	UMLS:C3494234
+27631624	1413	1422	modulated	T082	UMLS:C0443264
+27631624	1444	1465	tag-less purification	T058	UMLS:C0597301
+27631624	1547	1561	source species	T033	UMLS:C0449424

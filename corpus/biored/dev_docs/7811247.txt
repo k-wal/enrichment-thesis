@@ -1,0 +1,23 @@
+7811247|t|X-linked adrenoleukodystrophy (ALD): a novel mutation of the ALD gene in 6 members of a family presenting with 5 different phenotypes.
+7811247|a|Fragments of the adrenoleukodystrophy (ALD) cDNA from a patient with adolescent ALD were amplified by polymerase chain reaction and subcloned. Bidirectional sequencing of the entire coding ALD gene disclosed a cytosine to guanine transversion at nucleotide 1451 in exon five, resulting in substitution of proline 484 by arginine. Five of nine siblings of the patient, comprising two cerebral ALD, one adrenomyeloneuropathy, one Addison only as well as the symptomatic mother (all accumulating very long chain fatty acids) carried this mutation, which was not found in the unaffected persons, in five unrelated ALD patients, and in twenty controls. We propose that this missense mutation generated the disease per se as well as the metabolic defect; the different phenotypes, however, must have originated by means of additional pathogenetic factors.. 
+7811247	0	29	X-linked adrenoleukodystrophy	DiseaseOrPhenotypicFeature	D000326
+7811247	31	34	ALD	DiseaseOrPhenotypicFeature	D000326
+7811247	61	64	ALD	GeneOrGeneProduct	215
+7811247	152	172	adrenoleukodystrophy	DiseaseOrPhenotypicFeature	D000326
+7811247	174	177	ALD	DiseaseOrPhenotypicFeature	D000326
+7811247	191	198	patient	OrganismTaxon	9606
+7811247	215	218	ALD	DiseaseOrPhenotypicFeature	D000326
+7811247	324	327	ALD	GeneOrGeneProduct	215
+7811247	345	396	cytosine to guanine transversion at nucleotide 1451	SequenceVariant	rs128624214
+7811247	440	463	proline 484 by arginine	SequenceVariant	rs128624214
+7811247	494	501	patient	OrganismTaxon	9606
+7811247	527	530	ALD	DiseaseOrPhenotypicFeature	D000326
+7811247	536	557	adrenomyeloneuropathy	DiseaseOrPhenotypicFeature	D000326
+7811247	563	570	Addison	DiseaseOrPhenotypicFeature	D000224
+7811247	633	655	long chain fatty acids	ChemicalEntity	D005227
+7811247	745	748	ALD	DiseaseOrPhenotypicFeature	D000326
+7811247	749	757	patients	OrganismTaxon	9606
+7811247	Association	215	D000224	No
+7811247	Association	D000326	215	No
+7811247	Positive_Correlation	rs128624214	D000326	Novel
+7811247	Positive_Correlation	rs128624214	D000224	Novel

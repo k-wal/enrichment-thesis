@@ -1,0 +1,20 @@
+18262054|t|A family with two consecutive nonsense mutations in BMPR1A causing juvenile polyposis.
+18262054|a|We describe a novel germline mutation of BMPR1A in a family with juvenile polyposis and colon cancer. This mutation consists of two consecutive substitutions (735-6 TG>AT) that cause two nonsense mutations (Y245X, G246X), inherited in an autosomal dominant fashion, on one parental chromosome. This mutation caused protein truncation, and represents a novel case of consecutive nonsense mutations in human disease.
+18262054	52	58	BMPR1A	GeneOrGeneProduct	657
+18262054	67	85	juvenile polyposis	DiseaseOrPhenotypicFeature	C537702
+18262054	128	134	BMPR1A	GeneOrGeneProduct	657
+18262054	152	170	juvenile polyposis	DiseaseOrPhenotypicFeature	C537702
+18262054	175	187	colon cancer	DiseaseOrPhenotypicFeature	D003110
+18262054	246	257	735-6 TG>AT	SequenceVariant	c|SUB|TG|735_736|AT
+18262054	294	299	Y245X	SequenceVariant	p|SUB|Y|245|X
+18262054	301	306	G246X	SequenceVariant	p|SUB|G|246|X
+18262054	487	492	human	OrganismTaxon	9606
+18262054	Association	c|SUB|TG|735_736|AT	D003110	Novel
+18262054	Positive_Correlation	c|SUB|TG|735_736|AT	C537702	Novel
+18262054	Association	p|SUB|G|246|X	D003110	Novel
+18262054	Positive_Correlation	p|SUB|G|246|X	C537702	Novel
+18262054	Association	p|SUB|Y|245|X	p|SUB|G|246|X	Novel
+18262054	Association	p|SUB|Y|245|X	D003110	Novel
+18262054	Positive_Correlation	p|SUB|Y|245|X	C537702	Novel
+18262054	Association	657	D003110	No
+18262054	Association	657	C537702	No

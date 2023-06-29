@@ -1,0 +1,68 @@
+16725121|t|Down-regulation of norepinephrine transporter function induced by chronic administration of desipramine linking to the alteration of sensitivity of local-anesthetics-induced convulsions and the counteraction by co-administration with local anesthetics.
+16725121|a|Alterations of norepinephrine transporter (NET) function by chronic inhibition of NET in relation to sensitization to seizures induce by cocaine and local anesthetics were studied in mice. Daily administration of desipramine, an inhibitor of the NET, for 5 days decreased [(3)H]norepinephrine uptake in the P2 fractions of hippocampus but not cortex, striatum or amygdalae. Co-administration of lidocaine, bupivacaine or tricaine with desipramine reversed this effect. Daily treatment of cocaine increased [(3)H]norepinephrine uptake into the hippocampus. Daily administration of desipramine increased the incidence of appearance of lidocaine-induced convulsions and decreased that of cocaine-induced convulsions. Co-administration of lidocaine with desipramine reversed the changes of convulsive activity of lidocaine and cocaine induced by repeated administration of desipramine. These results suggest that down-regulation of hippocampal NET induced by chronic administration of desipramine may be relevant to desipramine-induced sensitization of lidocaine convulsions. Inhibition of Na(+) channels by local anesthetics may regulate desipramine-induced down-regulation of NET function. Repeated administration of cocaine induces up-regulation of hippocampal NET function. Desipramine-induced sensitization of lidocaine seizures may have a mechanism distinct from kindling resulting from repeated administration of cocaine.
+16725121	19	45	norepinephrine transporter	GeneOrGeneProduct	20538
+16725121	92	103	desipramine	ChemicalEntity	D003891
+16725121	154	165	anesthetics	ChemicalEntity	D000777
+16725121	174	185	convulsions	DiseaseOrPhenotypicFeature	D012640
+16725121	240	251	anesthetics	ChemicalEntity	D000777
+16725121	268	294	norepinephrine transporter	GeneOrGeneProduct	20538
+16725121	296	299	NET	GeneOrGeneProduct	20538
+16725121	335	338	NET	GeneOrGeneProduct	20538
+16725121	371	379	seizures	DiseaseOrPhenotypicFeature	D012640
+16725121	390	397	cocaine	ChemicalEntity	D003042
+16725121	408	419	anesthetics	ChemicalEntity	D000777
+16725121	436	440	mice	OrganismTaxon	10090
+16725121	466	477	desipramine	ChemicalEntity	D003891
+16725121	499	502	NET	GeneOrGeneProduct	20538
+16725121	525	545	[(3)H]norepinephrine	ChemicalEntity	D009638
+16725121	648	657	lidocaine	ChemicalEntity	D008012
+16725121	659	670	bupivacaine	ChemicalEntity	D002045
+16725121	674	682	tricaine	ChemicalEntity	C003636
+16725121	688	699	desipramine	ChemicalEntity	D003891
+16725121	741	748	cocaine	ChemicalEntity	D003042
+16725121	759	779	[(3)H]norepinephrine	ChemicalEntity	D009638
+16725121	833	844	desipramine	ChemicalEntity	D003891
+16725121	886	895	lidocaine	ChemicalEntity	D008012
+16725121	904	915	convulsions	DiseaseOrPhenotypicFeature	D012640
+16725121	938	945	cocaine	ChemicalEntity	D003042
+16725121	954	965	convulsions	DiseaseOrPhenotypicFeature	D012640
+16725121	988	997	lidocaine	ChemicalEntity	D008012
+16725121	1003	1014	desipramine	ChemicalEntity	D003891
+16725121	1039	1049	convulsive	DiseaseOrPhenotypicFeature	D012640
+16725121	1062	1071	lidocaine	ChemicalEntity	D008012
+16725121	1076	1083	cocaine	ChemicalEntity	D003042
+16725121	1122	1133	desipramine	ChemicalEntity	D003891
+16725121	1193	1196	NET	GeneOrGeneProduct	20538
+16725121	1234	1245	desipramine	ChemicalEntity	D003891
+16725121	1265	1276	desipramine	ChemicalEntity	D003891
+16725121	1302	1311	lidocaine	ChemicalEntity	D008012
+16725121	1312	1323	convulsions	DiseaseOrPhenotypicFeature	D012640
+16725121	1339	1344	Na(+)	ChemicalEntity	D012964
+16725121	1363	1374	anesthetics	ChemicalEntity	D000777
+16725121	1388	1399	desipramine	ChemicalEntity	D003891
+16725121	1427	1430	NET	GeneOrGeneProduct	20538
+16725121	1468	1475	cocaine	ChemicalEntity	D003042
+16725121	1513	1516	NET	GeneOrGeneProduct	20538
+16725121	1527	1538	Desipramine	ChemicalEntity	D003891
+16725121	1564	1573	lidocaine	ChemicalEntity	D008012
+16725121	1574	1582	seizures	DiseaseOrPhenotypicFeature	D012640
+16725121	1669	1676	cocaine	ChemicalEntity	D003042
+16725121	Negative_Correlation	D012964	D000777	No
+16725121	Association	D012964	D003891	Novel
+16725121	Association	D012964	20538	Novel
+16725121	Positive_Correlation	D008012	D009638	Novel
+16725121	Positive_Correlation	D008012	D012640	No
+16725121	Positive_Correlation	D003042	D009638	Novel
+16725121	Positive_Correlation	D003042	D012640	No
+16725121	Positive_Correlation	D003042	20538	Novel
+16725121	Positive_Correlation	C003636	D009638	Novel
+16725121	Positive_Correlation	D002045	D009638	Novel
+16725121	Positive_Correlation	D000777	D012640	No
+16725121	Association	D000777	D003891	Novel
+16725121	Association	D000777	20538	Novel
+16725121	Positive_Correlation	D003891	D008012	Novel
+16725121	Negative_Correlation	D003891	D003042	Novel
+16725121	Negative_Correlation	D003891	D009638	Novel
+16725121	Positive_Correlation	D003891	D012640	Novel
+16725121	Association	20538	D012640	No
+16725121	Negative_Correlation	20538	D003891	No

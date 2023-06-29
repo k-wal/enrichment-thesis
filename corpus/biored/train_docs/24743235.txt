@@ -1,0 +1,43 @@
+24743235|t|IL-3 and CSF-1 interact to promote generation of CD11c+ IL-10-producing macrophages.
+24743235|a|Unraveling the mechanisms of hematopoiesis regulated by multiple cytokines remains a challenge in hematology. IL-3 is an allergic cytokine with the multilineage potential, while CSF-1 is produced in the steady state with restricted lineage coverage. Here, we uncovered an instructive role of CSF-1 in IL-3-mediated hematopoiesis. CSF-1 significantly promoted IL-3-driven CD11c+ cell expansion and dampened basophil and mast cell generation from C57BL/6 bone marrow. Further studies indicated that the CSF-1/CSF-1R axis contributed significantly to IL-3-induced CD11c+ cell generation through enhancing c-Fos-associated monopoiesis. CD11c+ cells induced by IL-3 or IL-3/CSF-1 were competent in cellular maturation and endocytosis. Both IL-3 and IL-3/CSF-1 cells lacked classical dendritic cell appearance and resembled macrophages in morphology. Both populations produced a high level of IL-10, in addition to IL-1, IL-6 and TNFa, in response to LPS, and were relatively poor T cell stimulators. Collectively, these findings reveal a role for CSF-1 in mediating the IL-3 hematopoietic pathway through monopoiesis, which regulates expansion of CD11c+ macrophages.
+24743235	0	4	IL-3	GeneOrGeneProduct	16187
+24743235	9	14	CSF-1	GeneOrGeneProduct	12977
+24743235	49	54	CD11c	GeneOrGeneProduct	16411
+24743235	56	61	IL-10	GeneOrGeneProduct	16153
+24743235	195	199	IL-3	GeneOrGeneProduct	16187
+24743235	263	268	CSF-1	GeneOrGeneProduct	12977
+24743235	377	382	CSF-1	GeneOrGeneProduct	12977
+24743235	386	390	IL-3	GeneOrGeneProduct	16187
+24743235	415	420	CSF-1	GeneOrGeneProduct	12977
+24743235	444	448	IL-3	GeneOrGeneProduct	16187
+24743235	456	461	CD11c	GeneOrGeneProduct	16411
+24743235	530	537	C57BL/6	CellLine	CVCL_5746
+24743235	586	591	CSF-1	GeneOrGeneProduct	12977
+24743235	592	598	CSF-1R	GeneOrGeneProduct	12978
+24743235	633	637	IL-3	GeneOrGeneProduct	16187
+24743235	646	651	CD11c	GeneOrGeneProduct	16411
+24743235	687	692	c-Fos	GeneOrGeneProduct	14281
+24743235	717	722	CD11c	GeneOrGeneProduct	16411
+24743235	741	745	IL-3	GeneOrGeneProduct	16187
+24743235	749	753	IL-3	GeneOrGeneProduct	16187
+24743235	754	759	CSF-1	GeneOrGeneProduct	12977
+24743235	820	824	IL-3	GeneOrGeneProduct	16187
+24743235	829	833	IL-3	GeneOrGeneProduct	16187
+24743235	834	839	CSF-1	GeneOrGeneProduct	12977
+24743235	972	977	IL-10	GeneOrGeneProduct	16153
+24743235	994	998	IL-1	GeneOrGeneProduct	111343
+24743235	1000	1004	IL-6	GeneOrGeneProduct	16193
+24743235	1009	1013	TNFa	GeneOrGeneProduct	21926
+24743235	1030	1033	LPS	ChemicalEntity	D008070
+24743235	1127	1132	CSF-1	GeneOrGeneProduct	12977
+24743235	1150	1154	IL-3	GeneOrGeneProduct	16187
+24743235	1227	1232	CD11c	GeneOrGeneProduct	16411
+24743235	Positive_Correlation	12978	14281	Novel
+24743235	Positive_Correlation	12977	14281	Novel
+24743235	Bind	12977	12978	No
+24743235	Positive_Correlation	12977	16153	Novel
+24743235	Positive_Correlation	12977	16411	Novel
+24743235	Association	12977	16187	Novel
+24743235	Association	16153	D008070	Novel
+24743235	Positive_Correlation	16187	16153	Novel
+24743235	Positive_Correlation	16187	16411	Novel

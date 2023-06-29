@@ -1,0 +1,60 @@
+27446232|t|Perfusion Angiography in Acute Ischemic Stroke
+27446232|a|Visualization and quantification of blood flow are essential for the diagnosis and treatment evaluation of cerebrovascular diseases. For rapid imaging of the cerebrovasculature, digital subtraction angiography (DSA) remains the gold standard as it offers high spatial resolution. This paper lays out a methodological framework, named perfusion angiography, for the quantitative analysis and visualization of blood flow parameters from DSA images. The parameters, including cerebral blood flow (CBF) and cerebral blood volume (CBV), mean transit time (MTT), time-to-peak (TTP), and T max, are computed using a bolus tracking method based on the deconvolution of the time-density curve on a pixel-by-pixel basis. The method is tested on 66 acute ischemic stroke patients treated with thrombectomy and/or tissue plasminogen activator (tPA) and also evaluated on an estimation task with known ground truth. This novel imaging tool provides unique insights into flow mechanisms that cannot be observed directly in DSA sequences and might be used to evaluate the impact of endovascular interventions more precisely.
+27446232	0	9	Perfusion	T061	C0031001
+27446232	10	21	Angiography	T060	C0002978
+27446232	25	30	Acute	T079	C0205178
+27446232	31	46	Ischemic Stroke	T047	C0948008
+27446232	65	79	quantification	T081	C1709793
+27446232	83	93	blood flow	T039	C0232338
+27446232	98	107	essential	T080	C0205224
+27446232	116	125	diagnosis	T033	C0011900
+27446232	130	150	treatment evaluation	T058	C0557980
+27446232	154	178	cerebrovascular diseases	T047	C0007820
+27446232	184	189	rapid	T080	C0456962
+27446232	190	197	imaging	T060	C0011923
+27446232	205	223	cerebrovasculature	T022	C0225992
+27446232	225	256	digital subtraction angiography	T060	C0002979
+27446232	258	261	DSA	T060	C0002979
+27446232	275	288	gold standard	T080	C0150110
+27446232	302	325	high spatial resolution	T059	C1719039
+27446232	349	373	methodological framework	T077	C1709697
+27446232	381	390	perfusion	T061	C0031001
+27446232	391	402	angiography	T060	C0002978
+27446232	412	433	quantitative analysis	T059	C0200767
+27446232	455	465	blood flow	T039	C0232338
+27446232	466	476	parameters	T033	C0449381
+27446232	482	485	DSA	T060	C0002979
+27446232	486	492	images	T170	C1704922
+27446232	498	508	parameters	T033	C0449381
+27446232	520	539	cerebral blood flow	T033	C0428714
+27446232	541	544	CBF	T033	C0428714
+27446232	550	571	cerebral blood volume	T032	C4277714
+27446232	573	576	CBV	T032	C4277714
+27446232	579	596	mean transit time	T079	C0040223
+27446232	598	601	MTT	T079	C0040223
+27446232	604	616	time-to-peak	T201	C2923471
+27446232	618	621	TTP	T201	C2923471
+27446232	628	633	T max	T081	C2348796
+27446232	639	647	computed	T052	C1880157
+27446232	656	677	bolus tracking method	T061	C1511237
+27446232	691	704	deconvolution	T066	C1707643
+27446232	762	768	method	T170	C0025663
+27446232	785	790	acute	T079	C0205178
+27446232	791	806	ischemic stroke	T047	C0948008
+27446232	807	815	patients	T101	C0030705
+27446232	816	828	treated with	T061	C0332293
+27446232	829	841	thrombectomy	T061	C0162578
+27446232	849	877	tissue plasminogen activator	T116,T123	C0042145
+27446232	879	882	tPA	T116,T123	C0042145
+27446232	893	902	evaluated	T058	C0220825
+27446232	909	919	estimation	T041	C0680844
+27446232	920	924	task	T057	C3540678
+27446232	955	960	novel	T080	C0205314
+27446232	961	973	imaging tool	T074	C1512629
+27446232	990	998	insights	T041	C0233820
+27446232	1009	1019	mechanisms	T169	C0441712
+27446232	1035	1043	observed	T169	C1441672
+27446232	1056	1059	DSA	T060	C0002979
+27446232	1091	1099	evaluate	T058	C0220825
+27446232	1104	1110	impact	T080	C4049986
+27446232	1114	1140	endovascular interventions	T061	C0411282

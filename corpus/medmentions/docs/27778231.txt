@@ -1,0 +1,124 @@
+27778231|t|Identification of potential predictive markers of dexamethasone resistance in childhood acute lymphoblastic leukemia
+27778231|a|Response to dexamethasone (DEXA), as a hallmark drug in the treatment of childhood acute lymphoblastic leukemia (ALL), is one of the pivotal prognostic factors in the prediction of outcome in ALL. Identification of predictive markers of chemoresistance is beneficial to selecting of the best therapeutic protocol with the lowest effect adverse. Hence, we aimed to find drug targets using the 2DE / MS proteomics study of a DEXA - resistant cell line (REH) as a model for poor DEXA responding patients before and after drug treatment. Using the proteomic methods, three differentially expressed proteins were detected, including voltage dependent anion channel 1 (VDAC1), sorting Nexin 3 (SNX3), and prefoldin subunit 6 (PFDN6). We observed low expression of three proteins after DEXA treatment in REH cells. We subsequently verified low expression of resulted proteins at the mRNA level using the quantitative PCR method. These proteins are promising proteins because of their important roles in drug resistance and regulation of apoptosis (VDAC1), protein trafficking (SNX3), and protein folding (PFDN6). Additionally, mRNA expression level of these proteins was assessed in 17 bone marrow samples from children with newly diagnosed ALL and 7 non-cancerous samples as controls. The results indicated that independent of the molecular subtypes of leukemia, mRNA expression of VDAC1, SNX3, and PFDN6 decreased in ALL samples compared with non-cancerous samples particularly in VDAC1 (p < 0.001). Additionally, mRNA expression of three proteins was also declined in high-risk samples compared with standard risk cases. These results demonstrated diagnostic and prognostic value of these proteins in childhood ALL. Furthermore, investigation of protein-protein interaction using STRING database indicated that these proteins involved in the signaling pathway of NR3C1 as dexamethasone target. In conclusion, our proteomic study in DEXA resistant leukemic cells revealed VDAC1, SNX3, and PFDN6 are promising proteins that might serve as potential biomarkers of prognosis and chemotherapy in childhood ALL.
+27778231	0	14	Identification	T080	C0205396
+27778231	28	38	predictive	T080	C0681890
+27778231	39	46	markers	T080	C0008963
+27778231	50	63	dexamethasone	T109,T121	C0011777
+27778231	64	74	resistance	T038	C0013203
+27778231	78	87	childhood	T079	C0231335
+27778231	88	116	acute lymphoblastic leukemia	T191	C0023449
+27778231	117	125	Response	T040	C0683154
+27778231	129	142	dexamethasone	T109,T121	C0011777
+27778231	144	148	DEXA	T109,T121	C0011777
+27778231	156	169	hallmark drug	T121	C1254351
+27778231	177	186	treatment	T169	C0039798
+27778231	190	199	childhood	T079	C0231335
+27778231	200	228	acute lymphoblastic leukemia	T191	C0023449
+27778231	230	233	ALL	T191	C0023449
+27778231	258	276	prognostic factors	T201	C1514474
+27778231	284	305	prediction of outcome	T058	C0033325
+27778231	309	312	ALL	T191	C0023449
+27778231	314	328	Identification	T080	C0205396
+27778231	332	342	predictive	T080	C0681890
+27778231	343	350	markers	T080	C0008963
+27778231	354	369	chemoresistance	T038	C0013203
+27778231	409	429	therapeutic protocol	T061	C0040808
+27778231	446	460	effect adverse	T046	C0879626
+27778231	486	498	drug targets	T074	C0085104
+27778231	509	512	2DE	T059	C0013860
+27778231	515	517	MS	T059	C0037813
+27778231	518	534	proteomics study	T059	C0022885
+27778231	540	544	DEXA	T109,T121	C0011777
+27778231	547	566	resistant cell line	T025	C0007600
+27778231	568	571	REH	T025	C0007600
+27778231	578	583	model	T075	C0026336
+27778231	593	597	DEXA	T109,T121	C0011777
+27778231	609	617	patients	T101	C0030705
+27778231	635	649	drug treatment	T061	C0013216
+27778231	661	678	proteomic methods	T059	C0022885
+27778231	701	710	expressed	T045	C1171362
+27778231	711	719	proteins	T116,T123	C0033684
+27778231	725	733	detected	T033	C0442726
+27778231	745	778	voltage dependent anion channel 1	T116,T123	C0753015
+27778231	780	785	VDAC1	T116,T123	C0753015
+27778231	788	803	sorting Nexin 3	T116,T123	C1741224
+27778231	805	809	SNX3	T116,T123	C1741224
+27778231	816	835	prefoldin subunit 6	T116,T123	C1743484
+27778231	837	842	PFDN6	T116,T123	C1743484
+27778231	861	871	expression	T045	C1171362
+27778231	881	889	proteins	T116,T123	C0033684
+27778231	896	900	DEXA	T109,T121	C0011777
+27778231	901	910	treatment	T169	C0039798
+27778231	914	923	REH cells	T025	C0007600
+27778231	954	964	expression	T045	C1171362
+27778231	977	985	proteins	T116,T123	C0033684
+27778231	993	997	mRNA	T114,T123	C0035696
+27778231	998	1003	level	T080	C0441889
+27778231	1014	1037	quantitative PCR method	T059	C2733022
+27778231	1045	1053	proteins	T116,T123	C0033684
+27778231	1068	1076	proteins	T116,T123	C0033684
+27778231	1104	1109	roles	T077	C1705810
+27778231	1113	1128	drug resistance	T038	C0013203
+27778231	1133	1156	regulation of apoptosis	T043	C1148568
+27778231	1158	1163	VDAC1	T116,T123	C0753015
+27778231	1166	1185	protein trafficking	T043	C0599895
+27778231	1187	1191	SNX3	T116,T123	C1741224
+27778231	1198	1213	protein folding	T044	C0162847
+27778231	1215	1220	PFDN6	T116,T123	C1743484
+27778231	1237	1241	mRNA	T114,T123	C0035696
+27778231	1242	1258	expression level	T081	C3244092
+27778231	1268	1276	proteins	T116,T123	C0033684
+27778231	1281	1289	assessed	T052	C1516048
+27778231	1296	1315	bone marrow samples	T031	C0438737
+27778231	1321	1329	children	T100	C0008059
+27778231	1335	1350	newly diagnosed	T080	C1518321
+27778231	1351	1354	ALL	T191	C0023449
+27778231	1361	1382	non-cancerous samples	T167	C0370003
+27778231	1386	1394	controls	T096	C0009932
+27778231	1442	1460	molecular subtypes	T185	C0449560
+27778231	1464	1472	leukemia	T191	C0023418
+27778231	1474	1478	mRNA	T114,T123	C0035696
+27778231	1479	1489	expression	T045	C1171362
+27778231	1493	1498	VDAC1	T116,T123	C0753015
+27778231	1500	1504	SNX3	T116,T123	C1741224
+27778231	1510	1515	PFDN6	T116,T123	C1743484
+27778231	1529	1532	ALL	T191	C0023449
+27778231	1533	1540	samples	T167	C0370003
+27778231	1555	1576	non-cancerous samples	T167	C0370003
+27778231	1593	1598	VDAC1	T116,T123	C0753015
+27778231	1626	1630	mRNA	T114,T123	C0035696
+27778231	1631	1641	expression	T045	C1171362
+27778231	1651	1659	proteins	T116,T123	C0033684
+27778231	1681	1690	high-risk	T033	C0332167
+27778231	1691	1698	samples	T167	C0370003
+27778231	1713	1721	standard	T080	C1442989
+27778231	1722	1726	risk	T078	C0035647
+27778231	1727	1732	cases	T169	C0868928
+27778231	1761	1771	diagnostic	T169	C0348026
+27778231	1776	1786	prognostic	T170	C0220901
+27778231	1787	1792	value	T080	C0042295
+27778231	1802	1810	proteins	T116,T123	C0033684
+27778231	1814	1823	childhood	T079	C0231335
+27778231	1824	1827	ALL	T191	C0023449
+27778231	1842	1855	investigation	T058	C0220825
+27778231	1859	1886	protein-protein interaction	T044	C0872079
+27778231	1893	1899	STRING	T170	C1547402
+27778231	1900	1908	database	T170	C0242356
+27778231	1930	1938	proteins	T116,T123	C0033684
+27778231	1955	1972	signaling pathway	T044	C0037080
+27778231	1976	1981	NR3C1	T116,T192	C1370369
+27778231	1985	1998	dexamethasone	T109,T121	C0011777
+27778231	1999	2005	target	T033	C0243095
+27778231	2026	2041	proteomic study	T059	C0022885
+27778231	2045	2049	DEXA	T109,T121	C0011777
+27778231	2050	2059	resistant	T038	C0013203
+27778231	2060	2074	leukemic cells	T025	C1517806
+27778231	2084	2089	VDAC1	T116,T123	C0753015
+27778231	2091	2095	SNX3	T116,T123	C1741224
+27778231	2101	2106	PFDN6	T116,T123	C1743484
+27778231	2121	2129	proteins	T116,T123	C0033684
+27778231	2160	2170	biomarkers	T201	C0005516
+27778231	2174	2183	prognosis	T058	C0033325
+27778231	2188	2200	chemotherapy	T061	C3665472
+27778231	2204	2213	childhood	T079	C0231335
+27778231	2214	2217	ALL	T191	C0023449

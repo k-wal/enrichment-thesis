@@ -1,0 +1,94 @@
+28111056|t|Increased morbidity, mortality and length of in-hospital stay for patients with acute coronary syndrome with pre-morbid psychiatric diagnoses
+28111056|a|Psychiatric and cardiac comorbidities form the top two budget categories for health systems in high - income countries with evidence that psychiatric pre-morbidities lead to worse outcomes in patients with acute coronary syndrome (ACS). There are no studies examining this relationship in a national multicentre population level study in the UK, and no studies examining their impact on length of in-hospital stay (LoS) in ACS. Recognizing at-risk populations and reducing LoS in ACS is an essential part of improving patient care and cost-effectiveness. We investigated the impact of psychiatric diagnoses on morbidity, all-cause mortality and LoS amongst 57,668 ACS patients between Jan -2004 and Dec -2014 using the Secure-Anonymized-Information-Linkage (SAIL) databank. Demographics, admissions, cardiac and psychiatric comorbidities were identified using coded data. There were a total of 3857 out of 57,668 patients who had a pre-morbid psychiatric diagnosis. The mean LoS in patients without psychiatric comorbidities was 9.78 days (95% CI: 9.66-9.91). This was higher (p<0.01) in the presence of any psychiatric diagnosis (14.72), dementia (20.87), schizophrenia (15.67), and mood disorders (13.41). Patients with psychiatric comorbidities had worse net adverse cardiac events (HR 1.18, 95% CI: 1.16-1.21) and mortality rates (HR 1.26, 95% CI: 1.23-1.30). Our results demonstrate that psychiatric comorbidities have a significant and clinically important impact on morbidity, mortality and LoS in ACS patients in Wales, UK. Clinicians ' awareness and active management of psychiatric conditions amongst ACS patients is needed to reduce poor outcomes and LoS and ultimately the risk for patients and financial burden for the health-service.
+28111056	10	19	morbidity	T081	C0026538
+28111056	21	30	mortality	T081	C0205848
+28111056	35	61	length of in-hospital stay	T079	C0023303
+28111056	66	74	patients	T101	C0030705
+28111056	80	103	acute coronary syndrome	T047	C0948089
+28111056	109	119	pre-morbid	T079	C1254367
+28111056	120	141	psychiatric diagnoses	T048	C0376338
+28111056	142	153	Psychiatric	T169	C0205487
+28111056	158	165	cardiac	T023	C0018787
+28111056	166	179	comorbidities	T078	C0009488
+28111056	193	196	two	T081	C0205448
+28111056	197	203	budget	T170	C0006347
+28111056	204	214	categories	T170	C0683312
+28111056	219	233	health systems	T064	C1456613
+28111056	237	241	high	T080	C0205250
+28111056	244	250	income	T081	C0021162
+28111056	251	260	countries	T083	C0454664
+28111056	280	291	psychiatric	T169	C0205487
+28111056	292	307	pre-morbidities	T079	C1254367
+28111056	334	342	patients	T101	C0030705
+28111056	348	371	acute coronary syndrome	T047	C0948089
+28111056	373	376	ACS	T047	C0948089
+28111056	415	427	relationship	T080	C0439849
+28111056	433	476	national multicentre population level study	T170	C0282574
+28111056	484	486	UK	T083	C0041700
+28111056	529	555	length of in-hospital stay	T079	C0023303
+28111056	557	560	LoS	T079	C0023303
+28111056	565	568	ACS	T047	C0948089
+28111056	582	589	at-risk	T080	C1444641
+28111056	590	601	populations	T098	C1257890
+28111056	615	618	LoS	T079	C0023303
+28111056	622	625	ACS	T047	C0948089
+28111056	660	672	patient care	T058	C0017313
+28111056	677	695	cost-effectiveness	T081	C0010181
+28111056	727	748	psychiatric diagnoses	T048	C0376338
+28111056	752	761	morbidity	T081	C0026538
+28111056	773	782	mortality	T081	C0205848
+28111056	787	790	LoS	T079	C0023303
+28111056	806	809	ACS	T047	C0948089
+28111056	810	818	patients	T101	C0030705
+28111056	827	830	Jan	T080	C3829466
+28111056	841	844	Dec	T080	C3830550
+28111056	861	898	Secure-Anonymized-Information-Linkage	T170	C0282574
+28111056	900	904	SAIL	T170	C0282574
+28111056	906	914	databank	T170	C0242356
+28111056	916	928	Demographics	T090	C0011298
+28111056	930	940	admissions	T058	C0809949
+28111056	942	949	cardiac	T023	C0018787
+28111056	954	965	psychiatric	T169	C0205487
+28111056	966	979	comorbidities	T078	C0009488
+28111056	1055	1063	patients	T101	C0030705
+28111056	1074	1084	pre-morbid	T079	C1254367
+28111056	1085	1106	psychiatric diagnosis	T048	C0376338
+28111056	1117	1120	LoS	T079	C0023303
+28111056	1124	1132	patients	T101	C0030705
+28111056	1141	1152	psychiatric	T169	C0205487
+28111056	1153	1166	comorbidities	T078	C0009488
+28111056	1176	1180	days	T079	C0439228
+28111056	1186	1188	CI	T081	C0009667
+28111056	1250	1271	psychiatric diagnosis	T048	C0376338
+28111056	1281	1289	dementia	T048	C0497327
+28111056	1299	1312	schizophrenia	T048	C0036341
+28111056	1326	1340	mood disorders	T048	C0525045
+28111056	1350	1358	Patients	T101	C0030705
+28111056	1364	1375	psychiatric	T169	C0205487
+28111056	1376	1389	comorbidities	T078	C0009488
+28111056	1412	1426	cardiac events	T047	C0741923
+28111056	1428	1430	HR	T081	C2985465
+28111056	1441	1443	CI	T081	C0009667
+28111056	1460	1475	mortality rates	T081	C0205848
+28111056	1477	1479	HR	T081	C2985465
+28111056	1490	1492	CI	T081	C0009667
+28111056	1535	1546	psychiatric	T169	C0205487
+28111056	1547	1560	comorbidities	T078	C0009488
+28111056	1584	1594	clinically	T080	C0205210
+28111056	1615	1624	morbidity	T081	C0026538
+28111056	1626	1635	mortality	T081	C0205848
+28111056	1640	1643	LoS	T079	C0023303
+28111056	1647	1650	ACS	T047	C0948089
+28111056	1651	1659	patients	T101	C0030705
+28111056	1663	1668	Wales	T083	C0043015
+28111056	1670	1672	UK	T083	C0041700
+28111056	1674	1684	Clinicians	T097	C0871685
+28111056	1687	1696	awareness	T041	C0004448
+28111056	1722	1733	psychiatric	T169	C0205487
+28111056	1734	1744	conditions	T080	C0348080
+28111056	1753	1756	ACS	T047	C0948089
+28111056	1757	1765	patients	T101	C0030705
+28111056	1791	1799	outcomes	T169	C1274040
+28111056	1804	1807	LoS	T079	C0023303
+28111056	1836	1844	patients	T101	C0030705
+28111056	1874	1888	health-service	T058	C0018747

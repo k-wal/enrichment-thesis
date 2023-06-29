@@ -1,0 +1,49 @@
+27766286|t|Dataset of the molecular dynamics simulations of bilayers consisting of short amyloidogenic peptide VDSWNVLVAG from Bgl2p-glucantransferase of S. cerevisiae cell wall
+27766286|a|The amyloidogenic peptide VDSWNVLVAG from Bgl2p-glucantransferase of Saccharomyces cerevisiae cell wall and its modifying analog VESWNVLVAG were taken for the construction of four types of bilayers which differ by orientation of the peptides in the layers and of the layers relative to each other. These bilayers were used as starting models for the molecular dynamics (MD) at three charge states (neutral, pH3, and pH5). The changes of the fraction of secondary structure during 1 ns simulations were received for 96 MD trajectories. The data article contains the necessary information for the construction of models of β-strands organization in the oligomer structure. These results were used in the associated research article " Structural model of amyloid fibrils for amyloidogenic peptide from Bgl2p-glucantransferase of S. cerevisiae cell wall and its modifying analog. New morphology of amyloid fibrils " (Selivanova et al., 2016) [1].
+27766286	0	7	Dataset	T170	C0150098
+27766286	15	45	molecular dynamics simulations	T066	C2717775
+27766286	49	57	bilayers	T080	C0205556
+27766286	78	99	amyloidogenic peptide	T116	C0030956
+27766286	100	110	VDSWNVLVAG	T087	C0002518
+27766286	116	139	Bgl2p-glucantransferase	T116,T126	C0014442
+27766286	143	156	S. cerevisiae	T004	C0036025
+27766286	157	166	cell wall	T026	C0007623
+27766286	171	192	amyloidogenic peptide	T116	C0030956
+27766286	193	203	VDSWNVLVAG	T087	C0002518
+27766286	209	232	Bgl2p-glucantransferase	T116,T126	C0014442
+27766286	236	260	Saccharomyces cerevisiae	T004	C0036025
+27766286	261	270	cell wall	T026	C0007623
+27766286	289	295	analog	T104	C0243071
+27766286	296	306	VESWNVLVAG	T087	C0002518
+27766286	342	346	four	T081	C0205450
+27766286	356	364	bilayers	T080	C0205556
+27766286	381	392	orientation	T082	C1704322
+27766286	400	408	peptides	T116	C0030956
+27766286	416	422	layers	T080	C0205556
+27766286	434	440	layers	T080	C0205556
+27766286	471	479	bilayers	T080	C0205556
+27766286	502	508	models	T170	C3161035
+27766286	517	535	molecular dynamics	T044	C0596957
+27766286	537	539	MD	T044	C0596957
+27766286	593	600	changes	T169	C0392747
+27766286	620	639	secondary structure	T082	C0162807
+27766286	652	663	simulations	T062	C0679083
+27766286	706	710	data	T078	C1511726
+27766286	711	718	article	T170	C1706852
+27766286	742	753	information	T078	C1533716
+27766286	778	784	models	T170	C3161035
+27766286	788	797	β-strands	T082	C0600383
+27766286	798	810	organization	T169	C1300196
+27766286	818	826	oligomer	T087	C0599219
+27766286	827	836	structure	T082	C0678594
+27766286	844	851	results	T169	C1274040
+27766286	880	896	research article	T170	C1706852
+27766286	899	915	Structural model	T073	C0026349
+27766286	919	934	amyloid fibrils	T116,T123	C1449651
+27766286	939	960	amyloidogenic peptide	T116	C0030956
+27766286	966	989	Bgl2p-glucantransferase	T116,T126	C0014442
+27766286	993	1006	S. cerevisiae	T004	C0036025
+27766286	1007	1016	cell wall	T026	C0007623
+27766286	1035	1041	analog	T104	C0243071
+27766286	1047	1057	morphology	T080	C0332437
+27766286	1061	1076	amyloid fibrils	T116,T123	C1449651

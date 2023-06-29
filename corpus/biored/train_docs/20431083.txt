@@ -1,0 +1,54 @@
+20431083|t|Antithrombotic drug use, cerebral microbleeds, and intracerebral hemorrhage: a systematic review of published and unpublished studies.
+20431083|a|BACKGROUND AND PURPOSE: Cerebral microbleeds (MB) are potential risk factors for intracerebral hemorrhage (ICH), but it is unclear if they are a contraindication to using antithrombotic drugs. Insights could be gained by pooling data on MB frequency stratified by antithrombotic use in cohorts with ICH and ischemic stroke (IS)/transient ischemic attack (TIA). METHODS: We performed a systematic review of published and unpublished data from cohorts with stroke or TIA to compare the presence of MB in: (1) antithrombotic users vs nonantithrombotic users with ICH; (2) antithrombotic users vs nonusers with IS/TIA; and (3) ICH vs ischemic events stratified by antithrombotic use. We also analyzed published and unpublished follow-up data to determine the risk of ICH in antithrombotic users with MB. RESULTS: In a pooled analysis of 1460 ICH and 3817 IS/TIA, MB were more frequent in ICH vs IS/TIA in all treatment groups, but the excess increased from 2.8 (odds ratio; range, 2.3-3.5) in nonantithrombotic users to 5.7 (range, 3.4-9.7) in antiplatelet users and 8.0 (range, 3.5-17.8) in warfarin users (P difference=0.01). There was also an excess of MB in warfarin users vs nonusers with ICH (OR, 2.7; 95% CI, 1.6-4.4; P<0.001) but none in warfarin users with IS/TIA (OR, 1.3; 95% CI, 0.9-1.7; P=0.33; P difference=0.01). There was a smaller excess of MB in antiplatelet users vs nonusers with ICH (OR, 1.7; 95% CI, 1.3-2.3; P<0.001), but findings were similar for antiplatelet users with IS/TIA (OR, 1.4; 95% CI, 1.2-1.7; P<0.001; P difference=0.25). In pooled follow-up data for 768 antithrombotic users, presence of MB at baseline was associated with a substantially increased risk of subsequent ICH (OR, 12.1; 95% CI, 3.4-42.5; P<0.001). CONCLUSIONS: The excess of MB in warfarin users with ICH compared to other groups suggests that MB increase the risk of warfarin-associated ICH. Limited prospective data corroborate these findings, but larger prospective studies are urgently required.
+20431083	0	19	Antithrombotic drug	ChemicalEntity	D005343
+20431083	25	45	cerebral microbleeds	DiseaseOrPhenotypicFeature	D002543
+20431083	51	75	intracerebral hemorrhage	DiseaseOrPhenotypicFeature	D002543
+20431083	159	179	Cerebral microbleeds	DiseaseOrPhenotypicFeature	D002543
+20431083	181	183	MB	DiseaseOrPhenotypicFeature	D002543
+20431083	216	240	intracerebral hemorrhage	DiseaseOrPhenotypicFeature	D002543
+20431083	242	245	ICH	DiseaseOrPhenotypicFeature	D002543
+20431083	306	326	antithrombotic drugs	ChemicalEntity	D005343
+20431083	372	374	MB	DiseaseOrPhenotypicFeature	D002543
+20431083	434	437	ICH	DiseaseOrPhenotypicFeature	D002543
+20431083	442	457	ischemic stroke	DiseaseOrPhenotypicFeature	D002544
+20431083	459	461	IS	DiseaseOrPhenotypicFeature	D002544
+20431083	463	488	transient ischemic attack	DiseaseOrPhenotypicFeature	D002546
+20431083	490	493	TIA	DiseaseOrPhenotypicFeature	D002546
+20431083	590	596	stroke	DiseaseOrPhenotypicFeature	D020521
+20431083	600	603	TIA	DiseaseOrPhenotypicFeature	D002546
+20431083	631	633	MB	DiseaseOrPhenotypicFeature	D002543
+20431083	695	698	ICH	DiseaseOrPhenotypicFeature	D002543
+20431083	742	744	IS	DiseaseOrPhenotypicFeature	D002544
+20431083	745	748	TIA	DiseaseOrPhenotypicFeature	D002546
+20431083	758	761	ICH	DiseaseOrPhenotypicFeature	D002543
+20431083	765	773	ischemic	DiseaseOrPhenotypicFeature	D007511
+20431083	898	901	ICH	DiseaseOrPhenotypicFeature	D002543
+20431083	931	933	MB	DiseaseOrPhenotypicFeature	D002543
+20431083	973	976	ICH	DiseaseOrPhenotypicFeature	D002543
+20431083	986	988	IS	DiseaseOrPhenotypicFeature	D002544
+20431083	989	992	TIA	DiseaseOrPhenotypicFeature	D002546
+20431083	994	996	MB	DiseaseOrPhenotypicFeature	D002543
+20431083	1019	1022	ICH	DiseaseOrPhenotypicFeature	D002543
+20431083	1026	1028	IS	DiseaseOrPhenotypicFeature	D002544
+20431083	1029	1032	TIA	DiseaseOrPhenotypicFeature	D002546
+20431083	1223	1231	warfarin	ChemicalEntity	D014859
+20431083	1287	1289	MB	DiseaseOrPhenotypicFeature	D002543
+20431083	1293	1301	warfarin	ChemicalEntity	D014859
+20431083	1325	1328	ICH	DiseaseOrPhenotypicFeature	D002543
+20431083	1377	1385	warfarin	ChemicalEntity	D014859
+20431083	1397	1399	IS	DiseaseOrPhenotypicFeature	D002544
+20431083	1400	1403	TIA	DiseaseOrPhenotypicFeature	D002546
+20431083	1489	1491	MB	DiseaseOrPhenotypicFeature	D002543
+20431083	1531	1534	ICH	DiseaseOrPhenotypicFeature	D002543
+20431083	1626	1628	IS	DiseaseOrPhenotypicFeature	D002544
+20431083	1629	1632	TIA	DiseaseOrPhenotypicFeature	D002546
+20431083	1756	1758	MB	DiseaseOrPhenotypicFeature	D002543
+20431083	1836	1839	ICH	DiseaseOrPhenotypicFeature	D002543
+20431083	1906	1908	MB	DiseaseOrPhenotypicFeature	D002543
+20431083	1912	1920	warfarin	ChemicalEntity	D014859
+20431083	1932	1935	ICH	DiseaseOrPhenotypicFeature	D002543
+20431083	1975	1977	MB	DiseaseOrPhenotypicFeature	D002543
+20431083	1999	2007	warfarin	ChemicalEntity	D014859
+20431083	2019	2022	ICH	DiseaseOrPhenotypicFeature	D002543
+20431083	Association	D005343	D002543	No
+20431083	Association	D002543	D014859	Novel

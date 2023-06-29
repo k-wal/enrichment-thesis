@@ -1,0 +1,146 @@
+28219982|t|Enhanced Sensitivity to Hyperpolarizing Inhibition in Mesoaccumbal Relative to Nigrostriatal Dopamine Neuron Subpopulations
+28219982|a|Midbrain dopamine neurons recorded in vivo pause their firing in response to reward omission and aversive stimuli. While the initiation of pauses typically involves synaptic or modulatory input, intrinsic membrane properties may also enhance or limit hyperpolarization, raising the question of how intrinsic conductances shape pause s in dopamine neurons. Using retrograde labeling and electrophysiological techniques combined with computational modeling, we examined the intrinsic conductances that shape pauses evoked by current injections and synaptic stimulation in subpopulations of dopamine neurons grouped according to their axonal projections to the nucleus accumbens or dorsal striatum in mice. Testing across a range of conditions and pulse durations, we found that mesoaccumbal and nigrostriatal neurons differ substantially in rebound properties with mesoaccumbal neurons displaying significantly longer delays to spiking following hyperpolarization. The underlying mechanism involves an inactivating potassium (IA) current with decay time constants of up to 225 ms, and small-amplitude hyperpolarization - activated currents (IH), characteristics that were most often observed in mesoaccumbal neurons. Pharmacological block of IA completely abolished rebound delays and, importantly, shortened synaptically evoked inhibitory pauses, thereby demonstrating the involvement of A-type potassium channels in prolonging pauses evoked by GABAergic inhibition. Therefore, these results show that mesoaccumbal and nigrostriatal neurons display differential responses to hyperpolarizing inhibitory stimuli that favors a higher sensitivity to inhibition in mesoaccumbal neurons. These findings may explain, in part, observations from in vivo experiments that ventral tegmental area neurons tend to exhibit longer aversive pauses relative to SNc neurons. SIGNIFICANCE STATEMENT Our study examines rebound, postburst, and synaptically evoked inhibitory pauses in subpopulations of midbrain dopamine neurons. We show that pauses in dopamine neuron firing, evoked by either stimulation of GABAergic input s or hyperpolarizing current injections, are enhanced by a subclass of potassium conductances that are recruited at voltages below spike threshold. Importantly, A-type potassium currents recorded in mesoaccumbal neurons displayed substantially slower inactivation kinetics, which, combined with weaker expression of hyperpolarization - activated currents, lengthened hyperpolarization -induced delays in spiking relative to nigrostriatal neurons. These results suggest that input integration differs among dopamine neurons favoring higher sensitivity to inhibition in mesoaccumbal neurons and may partially explain in vivo observations that ventral tegmental area neurons exhibit longer aversive pauses relative to SNc neurons.
+28219982	9	20	Sensitivity	T169	C0332324
+28219982	24	39	Hyperpolarizing	T201	C0946292
+28219982	40	50	Inhibition	T052	C3463820
+28219982	54	66	Mesoaccumbal	T025	C0027882
+28219982	79	92	Nigrostriatal	UnknownType	C0815010
+28219982	93	101	Dopamine	T109,T121,T123	C0013030
+28219982	102	108	Neuron	T025	C0027882
+28219982	124	132	Midbrain	T023	C0025462
+28219982	133	141	dopamine	T109,T121,T123	C0013030
+28219982	142	149	neurons	T025	C0027882
+28219982	159	166	in vivo	T082	C1515655
+28219982	167	172	pause	T079	C0489607
+28219982	189	197	response	T032	C0871261
+28219982	208	216	omission	T033	C3845736
+28219982	221	237	aversive stimuli	T169	C1510994
+28219982	249	259	initiation	T169	C1704686
+28219982	263	269	pauses	T079	C0489607
+28219982	289	297	synaptic	T026	C0039063
+28219982	301	311	modulatory	T026	C2611789
+28219982	312	317	input	T077	C1708517
+28219982	319	337	intrinsic membrane	T026	C1622009
+28219982	375	392	hyperpolarization	T201	C0946292
+28219982	422	431	intrinsic	T082	C0205102
+28219982	432	444	conductances	T042	C0016989
+28219982	451	456	pause	T079	C0489607
+28219982	462	470	dopamine	T109,T121,T123	C0013030
+28219982	471	478	neurons	T025	C0027882
+28219982	486	496	retrograde	T082	C0439784
+28219982	497	505	labeling	T059	C0022885
+28219982	510	541	electrophysiological techniques	T060	C0887874
+28219982	556	578	computational modeling	T066	C3850009
+28219982	596	605	intrinsic	T082	C0205102
+28219982	606	618	conductances	T042	C0016989
+28219982	630	636	pauses	T079	C0489607
+28219982	637	643	evoked	T080	C1444748
+28219982	647	654	current	T043	C0162585
+28219982	655	665	injections	T061	C1533685
+28219982	670	678	synaptic	T026	C0039063
+28219982	679	690	stimulation	T070	C1948023
+28219982	712	720	dopamine	T109,T121,T123	C0013030
+28219982	721	728	neurons	T025	C0027882
+28219982	729	736	grouped	T082	C0439745
+28219982	756	774	axonal projections	T043	C0004462
+28219982	782	799	nucleus accumbens	T023	C0028633
+28219982	803	818	dorsal striatum	T023	C2333957
+28219982	822	826	mice	T015	C0025929
+28219982	828	835	Testing	T169	C0039593
+28219982	854	864	conditions	T080	C0348080
+28219982	869	874	pulse	T201	C0232117
+28219982	875	884	durations	T079	C0449238
+28219982	900	912	mesoaccumbal	T025	C0027882
+28219982	917	930	nigrostriatal	UnknownType	C0815010
+28219982	931	938	neurons	T025	C0027882
+28219982	987	1007	mesoaccumbal neurons	T025	C0027882
+28219982	1019	1032	significantly	T078	C0750502
+28219982	1068	1085	hyperpolarization	T201	C0946292
+28219982	1102	1111	mechanism	T169	C0441712
+28219982	1124	1136	inactivating	T169	C0544461
+28219982	1137	1146	potassium	T123,T196	C0032821
+28219982	1148	1150	IA	T109,T121	C0063261
+28219982	1152	1159	current	T043	C0162585
+28219982	1165	1185	decay time constants	T081	C2986736
+28219982	1207	1222	small-amplitude	T082	C2346753
+28219982	1223	1240	hyperpolarization	T201	C0946292
+28219982	1243	1252	activated	T052	C1879547
+28219982	1253	1261	currents	T043	C0162585
+28219982	1263	1265	IH	T043	C0162585
+28219982	1268	1283	characteristics	T080	C1521970
+28219982	1317	1337	mesoaccumbal neurons	T025	C0027882
+28219982	1339	1354	Pharmacological	T169	C0205464
+28219982	1364	1366	IA	T109,T121	C0063261
+28219982	1378	1387	abolished	T079	C2746065
+28219982	1431	1443	synaptically	T026	C0039063
+28219982	1444	1450	evoked	T080	C1444748
+28219982	1451	1461	inhibitory	T052	C3463820
+28219982	1462	1468	pauses	T079	C0489607
+28219982	1511	1536	A-type potassium channels	T116,T123	C0032824
+28219982	1551	1557	pauses	T079	C0489607
+28219982	1558	1564	evoked	T080	C1444748
+28219982	1568	1577	GABAergic	T043	C1816494
+28219982	1578	1588	inhibition	T052	C3463820
+28219982	1607	1614	results	T033	C0683954
+28219982	1625	1637	mesoaccumbal	T025	C0027882
+28219982	1642	1655	nigrostriatal	UnknownType	C0815010
+28219982	1656	1663	neurons	T025	C0027882
+28219982	1685	1694	responses	T032	C0871261
+28219982	1698	1713	hyperpolarizing	T201	C0946292
+28219982	1714	1724	inhibitory	T052	C3463820
+28219982	1725	1732	stimuli	T067	C0234402
+28219982	1754	1765	sensitivity	T169	C0332324
+28219982	1769	1779	inhibition	T052	C3463820
+28219982	1783	1803	mesoaccumbal neurons	T025	C0027882
+28219982	1811	1819	findings	T033	C0243095
+28219982	1860	1867	in vivo	T082	C1515655
+28219982	1885	1907	ventral tegmental area	T023	C0175405
+28219982	1908	1915	neurons	T025	C0027882
+28219982	1939	1954	aversive pauses	T061	C0004415
+28219982	1967	1970	SNc	T023	C0175412
+28219982	1971	1978	neurons	T025	C0027882
+28219982	1980	2002	SIGNIFICANCE STATEMENT	T078	C1710187
+28219982	2007	2012	study	T062	C2603343
+28219982	2046	2058	synaptically	T026	C0039063
+28219982	2059	2065	evoked	T080	C1444748
+28219982	2066	2076	inhibitory	T052	C3463820
+28219982	2077	2083	pauses	T079	C0489607
+28219982	2105	2113	midbrain	T023	C0025462
+28219982	2114	2122	dopamine	T109,T121,T123	C0013030
+28219982	2123	2130	neurons	T025	C0027882
+28219982	2145	2151	pauses	T079	C0489607
+28219982	2155	2163	dopamine	T109,T121,T123	C0013030
+28219982	2164	2170	neuron	T025	C0027882
+28219982	2179	2185	evoked	T080	C1444748
+28219982	2196	2207	stimulation	T070	C1948023
+28219982	2211	2220	GABAergic	T043	C1816494
+28219982	2221	2226	input	T077	C1708517
+28219982	2232	2247	hyperpolarizing	T201	C0946292
+28219982	2248	2255	current	T043	C0162585
+28219982	2256	2266	injections	T061	C1533685
+28219982	2298	2307	potassium	T123,T196	C0032821
+28219982	2308	2320	conductances	T042	C0016989
+28219982	2364	2373	threshold	T080	C0449864
+28219982	2388	2404	A-type potassium	T116,T123	C0032824
+28219982	2405	2413	currents	T043	C0162585
+28219982	2426	2446	mesoaccumbal neurons	T025	C0027882
+28219982	2491	2499	kinetics	T070	C0022702
+28219982	2543	2560	hyperpolarization	T201	C0946292
+28219982	2563	2572	activated	T052	C1879547
+28219982	2573	2581	currents	T043	C0162585
+28219982	2594	2611	hyperpolarization	T201	C0946292
+28219982	2651	2664	nigrostriatal	UnknownType	C0815010
+28219982	2665	2672	neurons	T025	C0027882
+28219982	2680	2687	results	T033	C0683954
+28219982	2701	2706	input	T077	C1708517
+28219982	2733	2741	dopamine	T109,T121,T123	C0013030
+28219982	2742	2749	neurons	T025	C0027882
+28219982	2766	2777	sensitivity	T169	C0332324
+28219982	2781	2791	inhibition	T052	C3463820
+28219982	2795	2815	mesoaccumbal neurons	T025	C0027882
+28219982	2842	2849	in vivo	T082	C1515655
+28219982	2868	2890	ventral tegmental area	T023	C0175405
+28219982	2891	2898	neurons	T025	C0027882
+28219982	2914	2929	aversive pauses	T061	C0004415
+28219982	2942	2945	SNc	T023	C0175412
+28219982	2946	2953	neurons	T025	C0027882

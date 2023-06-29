@@ -1,0 +1,59 @@
+28101523|t|Spatial Mnemonic Encoding: Theta Power Decreases and Medial Temporal Lobe BOLD Increases Co-Occur during the Usage of the Method of Loci
+28101523|a|The method of loci is one, if not the most, efficient mnemonic encoding strategy. This spatial mnemonic combines the core cognitive processes commonly linked to medial temporal lobe (MTL) activity: spatial and associative memory processes. During such processes, fMRI studies consistently demonstrate MTL activity, while electrophysiological studies have emphasized the important role of theta oscillations (3-8 Hz) in the MTL. However, it is still unknown whether increases or decreases in theta power co-occur with increased BOLD signal in the MTL during memory encoding. To investigate this question, we recorded EEG and fMRI separately, while human participants used the spatial method of loci or the pegword method, a similarly associative but nonspatial mnemonic. The more effective spatial mnemonic induced a pronounced theta power decrease source localized to the left MTL compared with the nonspatial associative mnemonic strategy. This effect was mirrored by BOLD signal increases in the MTL. Successful encoding, irrespective of the strategy used, elicited decreases in left temporal theta power and increases in MTL BOLD activity. This pattern of results suggests a negative relationship between theta power and BOLD signal changes in the MTL during memory encoding and spatial processing. The findings extend the well known negative relation of alpha / beta oscillations and BOLD signals in the cortex to theta oscillations in the MTL.
+28101523	0	7	Spatial	T038	UMLS:C0814087
+28101523	17	25	Encoding	T038	UMLS:C0679058
+28101523	27	38	Theta Power	T038	UMLS:C0039829
+28101523	53	59	Medial	T082	UMLS:C0205098
+28101523	60	73	Temporal Lobe	T017	UMLS:C0039485
+28101523	74	78	BOLD	T058	UMLS:C1705491
+28101523	122	136	Method of Loci	T058	UMLS:C3898430
+28101523	141	155	method of loci	T058	UMLS:C3898430
+28101523	200	208	encoding	T038	UMLS:C0679058
+28101523	224	231	spatial	T038	UMLS:C0814087
+28101523	254	278	core cognitive processes	T038	UMLS:C0025361
+28101523	298	304	medial	T082	UMLS:C0205098
+28101523	305	318	temporal lobe	T017	UMLS:C0039485
+28101523	320	323	MTL	T017	UMLS:C0039485
+28101523	335	342	spatial	T038	UMLS:C0814087
+28101523	400	404	fMRI	T058	UMLS:C0376335
+28101523	405	412	studies	T062	UMLS:C2603343
+28101523	438	441	MTL	T017	UMLS:C0039485
+28101523	525	543	theta oscillations	T038	UMLS:C0039829
+28101523	560	563	MTL	T017	UMLS:C0039485
+28101523	628	639	theta power	T038	UMLS:C0039829
+28101523	664	668	BOLD	T058	UMLS:C1705491
+28101523	683	686	MTL	T017	UMLS:C0039485
+28101523	694	700	memory	T038	UMLS:C0025260
+28101523	701	709	encoding	T038	UMLS:C0679058
+28101523	753	756	EEG	T058	UMLS:C0013819
+28101523	761	765	fMRI	T058	UMLS:C0376335
+28101523	784	789	human	T204	UMLS:C0086418
+28101523	790	802	participants	T098	UMLS:C0679646
+28101523	812	819	spatial	T038	UMLS:C0814087
+28101523	820	834	method of loci	T058	UMLS:C3898430
+28101523	842	856	pegword method	T058	UMLS:C3898430
+28101523	926	933	spatial	T038	UMLS:C0814087
+28101523	964	975	theta power	T038	UMLS:C0039829
+28101523	1009	1013	left	T082	UMLS:C0205091
+28101523	1014	1017	MTL	T017	UMLS:C0039485
+28101523	1106	1110	BOLD	T058	UMLS:C1705491
+28101523	1135	1138	MTL	T017	UMLS:C0039485
+28101523	1151	1159	encoding	T038	UMLS:C0679058
+28101523	1218	1222	left	T082	UMLS:C0205091
+28101523	1223	1231	temporal	T017	UMLS:C0039485
+28101523	1232	1243	theta power	T038	UMLS:C0039829
+28101523	1261	1264	MTL	T017	UMLS:C0039485
+28101523	1265	1269	BOLD	T058	UMLS:C1705491
+28101523	1345	1356	theta power	T038	UMLS:C0039829
+28101523	1361	1365	BOLD	T058	UMLS:C1705491
+28101523	1388	1391	MTL	T017	UMLS:C0039485
+28101523	1399	1405	memory	T038	UMLS:C0025260
+28101523	1406	1414	encoding	T038	UMLS:C0679058
+28101523	1419	1437	spatial processing	T038	UMLS:C3850026
+28101523	1474	1482	negative	T033	UMLS:C0205160
+28101523	1495	1500	alpha	T038	UMLS:C0039829
+28101523	1503	1520	beta oscillations	T038	UMLS:C0039829
+28101523	1525	1529	BOLD	T058	UMLS:C1705491
+28101523	1545	1551	cortex	T017	UMLS:C0007776
+28101523	1555	1573	theta oscillations	T038	UMLS:C0039829
+28101523	1581	1584	MTL	T017	UMLS:C0039485

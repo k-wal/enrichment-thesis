@@ -1,0 +1,51 @@
+27858503|t|High-throughput sequencing of two populations of extracellular vesicles provides an mRNA signature that can be detected in the circulation of breast cancer patients
+27858503|a|Extracellular vesicles (EVs) contain a wide range of RNA types with a reported prevalence of non-coding RNA. To date a comprehensive characterization of the protein coding transcripts in EVs is still lacking. We performed RNA-Sequencing (RNA-Seq) of 2 EV populations and identified a small fraction of transcripts that were expressed at significantly different levels in large oncosomes and exosomes, suggesting they may mediate specialized functions. However, these 2 EV populations exhibited a common mRNA signature that, in comparison to their donor cells, was significantly enriched in mRNAs encoding E2F transcriptional targets and histone proteins. These mRNAs are primarily expressed in the S-phase of the cell cycle, suggesting that they may be packaged into EVs during S-phase. In silico analysis using subcellular compartment transcriptome data from the ENCODE cell line compendium revealed that EV mRNAs originate from a cytoplasmic RNA pool. The EV signature was independently identified in plasma of patients with breast cancer by RNA-Seq. Furthermore, several transcripts differentially expressed in EVs from patients versus controls mirrored differential expression between normal and breast cancer tissues. Altogether, this largest high-throughput profiling of EV mRNA demonstrates that EVs carry tumor-specific alterations and can be interrogated as a source of cancer-derived cargo.
+27858503	0	26	High-throughput sequencing	T062	UMLS:C2936623
+27858503	49	71	extracellular vesicles	T017	UMLS:C3894683
+27858503	84	88	mRNA	T103	UMLS:C0035696
+27858503	142	155	breast cancer	T038	UMLS:C0678222
+27858503	165	187	Extracellular vesicles	T017	UMLS:C3894683
+27858503	189	192	EVs	T017	UMLS:C3894683
+27858503	218	221	RNA	T103	UMLS:C0035668
+27858503	258	272	non-coding RNA	T103	UMLS:C0887909
+27858503	322	348	protein coding transcripts	T103	UMLS:C1519595
+27858503	352	355	EVs	T017	UMLS:C3894683
+27858503	417	431	EV populations	T017	UMLS:C3894683
+27858503	467	478	transcripts	T103	UMLS:C1519595
+27858503	489	498	expressed	T038	UMLS:C1515670
+27858503	542	551	oncosomes	T017	UMLS:C0243092
+27858503	556	564	exosomes	T017	UMLS:C2350332
+27858503	606	615	functions	T038	UMLS:C0007613
+27858503	634	648	EV populations	T017	UMLS:C3894683
+27858503	668	672	mRNA	T103	UMLS:C0035696
+27858503	712	723	donor cells	T017	UMLS:C0007634
+27858503	755	760	mRNAs	T103	UMLS:C0035696
+27858503	770	797	E2F transcriptional targets	T103	UMLS:C0146462
+27858503	802	818	histone proteins	T103	UMLS:C0019652
+27858503	826	831	mRNAs	T103	UMLS:C0035696
+27858503	846	855	expressed	T038	UMLS:C1515670
+27858503	878	888	cell cycle	T038	UMLS:C0007586
+27858503	932	935	EVs	T017	UMLS:C3894683
+27858503	962	970	analysis	T062	UMLS:C0936012
+27858503	977	1000	subcellular compartment	T017	UMLS:C0729605
+27858503	1001	1014	transcriptome	T082	UMLS:C3178810
+27858503	1029	1035	ENCODE	T170	UMLS:C0282574
+27858503	1036	1045	cell line	T017	UMLS:C0007600
+27858503	1071	1073	EV	T017	UMLS:C3894683
+27858503	1074	1079	mRNAs	T103	UMLS:C0035696
+27858503	1097	1117	cytoplasmic RNA pool	T103	UMLS:C2827481
+27858503	1123	1125	EV	T017	UMLS:C3894683
+27858503	1168	1174	plasma	T031	UMLS:C0032105
+27858503	1192	1205	breast cancer	T038	UMLS:C0678222
+27858503	1239	1250	transcripts	T103	UMLS:C1519595
+27858503	1266	1275	expressed	T038	UMLS:C1515670
+27858503	1279	1282	EVs	T017	UMLS:C3894683
+27858503	1335	1345	expression	T038	UMLS:C1515670
+27858503	1354	1360	normal	T017	UMLS:C0444070
+27858503	1365	1386	breast cancer tissues	T017	UMLS:C0444070
+27858503	1413	1438	high-throughput profiling	T062	UMLS:C2936623
+27858503	1442	1444	EV	T017	UMLS:C3894683
+27858503	1445	1449	mRNA	T103	UMLS:C0035696
+27858503	1468	1471	EVs	T017	UMLS:C3894683
+27858503	1478	1504	tumor-specific alterations	T038	UMLS:C0026882
+27858503	1544	1564	cancer-derived cargo	T038	UMLS:C1519628

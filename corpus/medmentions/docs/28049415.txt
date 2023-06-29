@@ -1,0 +1,85 @@
+28049415|t|Improving protein complex prediction by reconstructing a high-confidence protein-protein interaction network of Escherichia coli from different physical interaction data sources
+28049415|a|Although different protein-protein physical interaction (PPI) datasets exist for Escherichia coli, no common methodology exists to integrate these datasets and extract reliable modules reflecting the existing biological process and protein complexes. Naïve Bayesian formula is the highly accepted method to integrate different PPI datasets into a single weighted PPI network, but detecting proper weights in such network is still a major problem. In this paper, we proposed a new methodology to integrate various physical PPI datasets into a single weighted PPI network in a way that the detected modules in PPI network exhibit the highest similarity to available functional modules. We used the co-expression modules as functional modules, and we shown that direct functional modules detected from Gene Ontology terms could be used as an alternative dataset. After running this integrating methodology over six different physical PPI datasets, orthologous high-confidence interactions from a related organism and two AP-MS PPI datasets gained high weights in the integrated networks, while the weights for one AP-MS PPI dataset and two other datasets derived from public databases have converged to zero. The majority of detected modules shaped around one or few hub protein(s). Still, a large number of highly interacting protein modules were detected which are functionally relevant and are likely to construct protein complexes. We provided a new high confidence protein complex prediction method supported by functional studies and literature mining.
+28049415	0	9	Improving	T080	C1272745
+28049415	10	25	protein complex	T116,T123	C1180347
+28049415	26	36	prediction	T078	C0681842
+28049415	40	54	reconstructing	T170	C0282574
+28049415	57	72	high-confidence	T080	C1704725
+28049415	73	108	protein-protein interaction network	T169	C3178902
+28049415	112	128	Escherichia coli	T007	C0014834
+28049415	144	164	physical interaction	T169	C1704675
+28049415	165	177	data sources	T081	C0011001
+28049415	197	233	protein-protein physical interaction	T044	C0872079
+28049415	235	238	PPI	T044	C0872079
+28049415	240	248	datasets	T170	C0150098
+28049415	259	275	Escherichia coli	T007	C0014834
+28049415	287	298	methodology	T078	C3266812
+28049415	309	318	integrate	T066	C1705422
+28049415	325	333	datasets	T170	C0150098
+28049415	355	362	modules	T077	C1709061
+28049415	387	405	biological process	T038	C3714634
+28049415	410	427	protein complexes	T116,T123	C1180347
+28049415	429	451	Naïve Bayesian formula	T170	C0489829
+28049415	485	494	integrate	T066	C1705422
+28049415	505	508	PPI	T044	C0872079
+28049415	509	517	datasets	T170	C0150098
+28049415	532	540	weighted	T081	C0043100
+28049415	541	552	PPI network	T169	C3178902
+28049415	575	582	weights	T081	C0043100
+28049415	591	598	network	T169	C1882071
+28049415	658	669	methodology	T078	C3266812
+28049415	673	682	integrate	T066	C1705422
+28049415	691	703	physical PPI	T044	C0872079
+28049415	704	712	datasets	T170	C0150098
+28049415	727	735	weighted	T081	C0043100
+28049415	736	747	PPI network	T169	C3178902
+28049415	766	774	detected	T033	C0442726
+28049415	775	782	modules	T077	C1709061
+28049415	786	797	PPI network	T169	C3178902
+28049415	842	852	functional	T169	C0205245
+28049415	853	860	modules	T077	C1709061
+28049415	874	887	co-expression	T061	C0185117
+28049415	888	895	modules	T077	C1709061
+28049415	899	909	functional	T169	C0205245
+28049415	910	917	modules	T077	C1709061
+28049415	944	954	functional	T169	C0205245
+28049415	955	962	modules	T077	C1709061
+28049415	963	971	detected	T033	C0442726
+28049415	977	990	Gene Ontology	T170	C1138831
+28049415	991	996	terms	T078	C1254370
+28049415	1029	1036	dataset	T170	C0150098
+28049415	1057	1068	integrating	T066	C1705422
+28049415	1069	1080	methodology	T078	C3266812
+28049415	1100	1112	physical PPI	T044	C0872079
+28049415	1113	1121	datasets	T170	C0150098
+28049415	1123	1134	orthologous	T080	C1709346
+28049415	1135	1150	high-confidence	T080	C1704725
+28049415	1151	1163	interactions	T169	C1704675
+28049415	1179	1187	organism	T001	C0029235
+28049415	1196	1201	AP-MS	T059	C0037813
+28049415	1202	1205	PPI	T044	C0872079
+28049415	1206	1214	datasets	T170	C0150098
+28049415	1215	1234	gained high weights	T033	C0043094
+28049415	1242	1252	integrated	T066	C1705422
+28049415	1253	1261	networks	T169	C1882071
+28049415	1273	1280	weights	T081	C0043100
+28049415	1289	1294	AP-MS	T059	C0037813
+28049415	1295	1298	PPI	T044	C0872079
+28049415	1299	1306	dataset	T170	C0150098
+28049415	1321	1329	datasets	T170	C0150098
+28049415	1343	1359	public databases	T170	C0242356
+28049415	1400	1408	detected	T033	C0442726
+28049415	1409	1416	modules	T077	C1709061
+28049415	1442	1456	hub protein(s)	T116,T129	C3179452
+28049415	1502	1509	protein	T116,T123	C0033684
+28049415	1510	1517	modules	T077	C1709061
+28049415	1523	1531	detected	T033	C0442726
+28049415	1542	1554	functionally	T169	C0205245
+28049415	1555	1563	relevant	T080	C2347946
+28049415	1582	1591	construct	T185	C2827421
+28049415	1592	1609	protein complexes	T116,T123	C1180347
+28049415	1629	1644	high confidence	T080	C1704725
+28049415	1645	1660	protein complex	T116,T123	C1180347
+28049415	1661	1671	prediction	T078	C0681842
+28049415	1692	1702	functional	T169	C0205245
+28049415	1715	1725	literature	T170	C0023866

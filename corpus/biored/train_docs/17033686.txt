@@ -1,0 +1,41 @@
+17033686|t|A two base pair deletion in the PQBP1 gene is associated with microphthalmia, microcephaly, and mental retardation.
+17033686|a|X-linked mental retardation has been traditionally divided into syndromic (S-XLMR) and non-syndromic forms (NS-XLMR), although the borderlines between these phenotypes begin to vanish and mutations in a single gene, for example PQBP1, can cause S-XLMR as well as NS-XLMR. Here, we report two maternal cousins with an apparently X-linked phenotype of mental retardation (MR), microphthalmia, choroid coloboma, microcephaly, renal hypoplasia, and spastic paraplegia. By multipoint linkage analysis with markers spanning the entire X-chromosome we mapped the disease locus to a 28-Mb interval between Xp11.4 and Xq12, including the BCOR gene. A missense mutation in BCOR was described in a family with Lenz microphthalmia syndrome, a phenotype showing substantial overlapping features with that described in the two cousins. However, no mutation in the BCOR gene was found in both patients. Subsequent mutation analysis of PQBP1, located within the delineated linkage interval in Xp11.23, revealed a 2-bp deletion, c.461_462delAG, that cosegregated with the disease. Notably, the same mutation is associated with the Hamel cerebropalatocardiac syndrome, another form of S-XLMR. Haplotype analysis suggests a germline mosaicism of the 2-bp deletion in the maternal grandmother of both affected individuals. In summary, our findings demonstrate for the first time that mutations in PQBP1 are associated with an S-XLMR phenotype including microphthalmia, thereby further extending the clinical spectrum of phenotypes associated with PQBP1 mutations.
+17033686	32	37	PQBP1	GeneOrGeneProduct	10084
+17033686	62	76	microphthalmia	DiseaseOrPhenotypicFeature	D008850
+17033686	78	90	microcephaly	DiseaseOrPhenotypicFeature	D008831
+17033686	96	114	mental retardation	DiseaseOrPhenotypicFeature	D008607
+17033686	116	143	X-linked mental retardation	DiseaseOrPhenotypicFeature	D038901
+17033686	193	197	XLMR	DiseaseOrPhenotypicFeature	D038901
+17033686	227	231	XLMR	DiseaseOrPhenotypicFeature	D038901
+17033686	344	349	PQBP1	GeneOrGeneProduct	10084
+17033686	363	367	XLMR	DiseaseOrPhenotypicFeature	D038901
+17033686	382	386	XLMR	DiseaseOrPhenotypicFeature	D038901
+17033686	444	484	X-linked phenotype of mental retardation	DiseaseOrPhenotypicFeature	D038901
+17033686	486	488	MR	DiseaseOrPhenotypicFeature	D008607
+17033686	491	505	microphthalmia	DiseaseOrPhenotypicFeature	D008850
+17033686	507	523	choroid coloboma	DiseaseOrPhenotypicFeature	D003103
+17033686	525	537	microcephaly	DiseaseOrPhenotypicFeature	D008831
+17033686	539	555	renal hypoplasia	DiseaseOrPhenotypicFeature	D007674
+17033686	561	579	spastic paraplegia	DiseaseOrPhenotypicFeature	D010264
+17033686	745	749	BCOR	GeneOrGeneProduct	54880
+17033686	779	783	BCOR	GeneOrGeneProduct	54880
+17033686	815	843	Lenz microphthalmia syndrome	DiseaseOrPhenotypicFeature	C537464
+17033686	966	970	BCOR	GeneOrGeneProduct	54880
+17033686	994	1002	patients	OrganismTaxon	9606
+17033686	1036	1041	PQBP1	GeneOrGeneProduct	10084
+17033686	1128	1142	c.461_462delAG	SequenceVariant	rs606231195
+17033686	1230	1265	Hamel cerebropalatocardiac syndrome	DiseaseOrPhenotypicFeature	C537761
+17033686	1285	1289	XLMR	DiseaseOrPhenotypicFeature	D038901
+17033686	1493	1498	PQBP1	GeneOrGeneProduct	10084
+17033686	1524	1528	XLMR	DiseaseOrPhenotypicFeature	D038901
+17033686	1549	1563	microphthalmia	DiseaseOrPhenotypicFeature	D008850
+17033686	1643	1648	PQBP1	GeneOrGeneProduct	10084
+17033686	Association	rs606231195	D038901	Novel
+17033686	Association	rs606231195	C537761	Novel
+17033686	Association	54880	C537464	No
+17033686	Association	D008850	rs606231195	Novel
+17033686	Association	10084	D038901	Novel
+17033686	Association	10084	C537761	Novel
+17033686	Association	10084	D008607	Novel
+17033686	Association	10084	D008831	Novel
+17033686	Association	10084	D008850	Novel

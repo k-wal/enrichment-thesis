@@ -1,0 +1,75 @@
+27489089|t|Mediation Analysis for Health Disparities Research
+27489089|a|Social epidemiologists often seek to determine the mechanisms that underlie health disparities. This work is typically based on mediation procedures that may not be justified with exposures of common interest in social epidemiology. In this analysis, we explored the consequences of using standard approaches, referred to as the difference and generalized product methods, when mediator-outcome confounders are associated with the exposure. We compared these with inverse probability -weighted marginal structural models, the structural transformation method, doubly robust g-estimation of a structural nested model, and doubly robust targeted minimum loss -based estimation. We used data on 900,726 births from 2003 to 2007 in the Penn Moms study, conducted in Pennsylvania, to assess the extent to which breastfeeding prior to hospital discharge explained the racial disparity in infant mortality. Overall, for every 1,000 births, 3.36 more infant deaths occurred among non-Hispanic black women relative to all other women (95% confidence interva l: 2.78, 3.93). Using the difference and generalized product methods to assess the disparity that would remain if everyone breastfed prior to discharge suggested a complete elimination of the disparity (risk difference = -0.87 per 1,000 births; 95% confidence interval: -1.39, -0.35). In contrast, doubly robust methods suggested a reduction in the disparity to 2.45 (95% confidence interva l: 2.20, 2.71) more infant deaths per 1,000 births among non-Hispanic black women. Standard approaches for mediation analysis in health disparities research can yield misleading results.
+27489089	0	18	Mediation Analysis	UnknownType	C0814912
+27489089	23	41	Health Disparities	T033	C1171307
+27489089	42	50	Research	T062	C0035168
+27489089	58	73	epidemiologists	T097	C1516908
+27489089	102	112	mechanisms	T169	C0441712
+27489089	127	145	health disparities	T033	C1171307
+27489089	179	199	mediation procedures	UnknownType	C0814912
+27489089	231	240	exposures	T033	C2015793
+27489089	244	250	common	T081	C0205214
+27489089	251	259	interest	T041	C0543488
+27489089	263	282	social epidemiology	T091	C0814832
+27489089	292	300	analysis	UnknownType	C0814912
+27489089	318	333	consequences of	T169	C0686907
+27489089	340	348	standard	T080	C1442989
+27489089	349	359	approaches	T169	C1292724
+27489089	380	390	difference	T080	C1705242
+27489089	395	422	generalized product methods	T170	C0025663
+27489089	429	457	mediator-outcome confounders	T169	C0009673
+27489089	482	490	exposure	T033	C2015793
+27489089	515	522	inverse	T080	C0439850
+27489089	523	534	probability	T081	C0033204
+27489089	554	571	structural models	T073	C0026349
+27489089	577	609	structural transformation method	T170	C0038208
+27489089	611	617	doubly	T033	C4035881
+27489089	618	624	robust	T080	C2986815
+27489089	625	637	g-estimation	T081	C0681916
+27489089	643	666	structural nested model	T075	C0026336
+27489089	672	678	doubly	T033	C4035881
+27489089	679	685	robust	T080	C2986815
+27489089	695	702	minimum	T080	C1524031
+27489089	703	707	loss	T081	C1517945
+27489089	715	725	estimation	T081	C0681916
+27489089	735	739	data	T078	C1511726
+27489089	751	757	births	T040	C0005615
+27489089	783	798	Penn Moms study	T062	C0681814
+27489089	813	825	Pennsylvania	T083	C0030853
+27489089	857	870	breastfeeding	T040	C0006147
+27489089	871	879	prior to	T079	C0332152
+27489089	880	898	hospital discharge	T058	C0586003
+27489089	913	929	racial disparity	T033	C1171307
+27489089	933	949	infant mortality	T081	C0021278
+27489089	960	969	for every	T080	C1948061
+27489089	976	982	births	T040	C0005615
+27489089	994	1007	infant deaths	T033	C0549159
+27489089	1023	1047	non-Hispanic black women	T098	C1518424
+27489089	1070	1075	women	T098	C0043210
+27489089	1081	1099	confidence interva	T081	C0009667
+27489089	1141	1168	generalized product methods	T170	C0025663
+27489089	1183	1192	disparity	T033	C1171307
+27489089	1223	1232	breastfed	T040	C0006147
+27489089	1233	1241	prior to	T079	C0332152
+27489089	1242	1251	discharge	T058	C0586003
+27489089	1264	1272	complete	T080	C0205197
+27489089	1273	1284	elimination	T080	C0449297
+27489089	1292	1301	disparity	T033	C1171307
+27489089	1303	1318	risk difference	T081	C0392762
+27489089	1337	1343	births	T040	C0005615
+27489089	1349	1368	confidence interval	T081	C0009667
+27489089	1398	1404	doubly	T033	C4035881
+27489089	1405	1411	robust	T080	C2986815
+27489089	1420	1429	suggested	T078	C1705535
+27489089	1432	1441	reduction	T061	C0441610
+27489089	1449	1458	disparity	T033	C1171307
+27489089	1472	1490	confidence interva	T081	C0009667
+27489089	1511	1524	infant deaths	T033	C0549159
+27489089	1535	1541	births	T040	C0005615
+27489089	1548	1572	non-Hispanic black women	T098	C1518424
+27489089	1574	1582	Standard	T080	C1442989
+27489089	1583	1593	approaches	T169	C1292724
+27489089	1598	1616	mediation analysis	UnknownType	C0814912
+27489089	1620	1638	health disparities	T033	C1171307
+27489089	1658	1668	misleading	T080	C3827420
+27489089	1669	1676	results	T169	C1274040

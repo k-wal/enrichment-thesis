@@ -1,0 +1,152 @@
+27871298|t|Socioeconomic variation in incidence of primary and secondary major cardiovascular disease events: an Australian population-based prospective cohort study
+27871298|a|Cardiovascular disease (CVD) disproportionately affects disadvantaged people, but reliable quantitative evidence on socioeconomic variation in CVD incidence in Australia is lacking. This study aimed to quantify socioeconomic variation in rates of primary and secondary CVD events in mid- age and older Australians. Baseline data (2006-2009) from the 45 and Up Study, an Australian cohort involving 267,153 men and women aged ≥ 45, were linked to hospital and death data (to December 2013). Outcomes comprised first event - death or hospital admission - for major CVD combined, as well as myocardial infarction and stroke, in those with and without prior CVD (secondary and primary events, respectively). Cox regression estimated hazard ratios (HRs) for each outcome in relation to education (and income and area-level disadvantage), separately by age group (45-64, 65-79, and ≥ 80 years), adjusting for age and sex, and additional sociodemographic factors. There were 18,207 primary major CVD events over 1,144,845 years of follow-up (15.9/1000 person-years), and 20,048 secondary events over 260,357 years (77.0/1000 person-years). For both primary and secondary events, incidence increased with decreasing education, with the absolute difference between education groups largest for secondary events. Age - sex adjusted hazard ratios were highest in the 45-64 years group: for major CVD s, HR (no qualifications vs university degree) = 1.62 (95% CI: 1.49-1.77) for primary events, and HR = 1.49 (1.34-1.65) for secondary events; myocardial infarction HR = 2.31 (1.87-2.85) and HR = 2.57 (1.90-3.47) respectively; stroke HR = 1.48 (1.16-1.87) and HR = 1.97 (1.42-2.74) respectively. Similar but attenuated results were seen in older age groups, and with income. For area-level disadvantage, CVD gradients were weak and non-significant in older people (> 64 years). Individual-level data are important for quantifying socioeconomic variation in CVD incidence, which is shown to be substantial among both those with and without prior CVD. Findings reinforce the opportunity for, and importance of, primary and secondary prevention and treatment in reducing socioeconomic variation in CVD and consequently the overall burden of CVD morbidity and mortality in Australia.
+27871298	0	23	Socioeconomic variation	T033	C0682194
+27871298	27	36	incidence	T081	C0021149
+27871298	40	47	primary	T047	C0033141
+27871298	52	61	secondary	T047	C0036529
+27871298	62	67	major	T080	C0205164
+27871298	68	90	cardiovascular disease	T047	C0007222
+27871298	91	97	events	T051	C0441471
+27871298	102	112	Australian	T098	C0238711
+27871298	113	129	population-based	T062	C1709599
+27871298	130	154	prospective cohort study	T062	C1709709
+27871298	155	177	Cardiovascular disease	T047	C0007222
+27871298	179	182	CVD	T047	C0007222
+27871298	184	202	disproportionately	T080	C0205350
+27871298	211	224	disadvantaged	T098	C0012613
+27871298	225	231	people	T098	C0027361
+27871298	237	245	reliable	T170	C3858758
+27871298	246	258	quantitative	T081	C0392762
+27871298	259	267	evidence	T078	C3887511
+27871298	271	294	socioeconomic variation	T033	C0682194
+27871298	298	301	CVD	T047	C0007222
+27871298	302	311	incidence	T081	C0021149
+27871298	315	324	Australia	T083	C0004340
+27871298	342	347	study	T062	C2603343
+27871298	357	365	quantify	T081	C1709793
+27871298	366	389	socioeconomic variation	T033	C0682194
+27871298	393	398	rates	T081	C1521828
+27871298	402	409	primary	T047	C0033141
+27871298	414	427	secondary CVD	T047	C0036529
+27871298	428	434	events	T051	C0441471
+27871298	443	446	age	T032	C0001779
+27871298	451	456	older	T098	C0001792
+27871298	457	468	Australians	T098	C0238711
+27871298	470	478	Baseline	T081	C1442488
+27871298	479	483	data	T078	C1511726
+27871298	515	520	Study	T062	C2603343
+27871298	525	535	Australian	T098	C0238711
+27871298	536	542	cohort	T098	C0599755
+27871298	561	564	men	T098	C0025266
+27871298	569	574	women	T098	C0043210
+27871298	575	579	aged	T032	C0001779
+27871298	601	609	hospital	T073,T093	C0019994
+27871298	614	619	death	T040	C0011065
+27871298	620	624	data	T078	C1511726
+27871298	645	653	Outcomes	T057	C0085565
+27871298	670	675	event	T051	C0441471
+27871298	678	683	death	T040	C0011065
+27871298	687	705	hospital admission	T058	C0184666
+27871298	712	717	major	T080	C0205164
+27871298	718	721	CVD	T047	C0007222
+27871298	722	730	combined	T080	C0205195
+27871298	743	764	myocardial infarction	T047	C0027051
+27871298	769	775	stroke	T047	C0038454
+27871298	803	808	prior	T079	C0332152
+27871298	809	812	CVD	T047	C0007222
+27871298	814	823	secondary	T047	C0036529
+27871298	828	835	primary	T047	C0033141
+27871298	836	842	events	T051	C0441471
+27871298	859	873	Cox regression	T062	C0242481
+27871298	884	897	hazard ratios	T081	C2985465
+27871298	899	902	HRs	T081	C2985465
+27871298	913	920	outcome	T057	C0085565
+27871298	936	945	education	T065	C0013621
+27871298	951	957	income	T081	C0021162
+27871298	962	972	area-level	T081	C1708236
+27871298	973	985	disadvantage	T185	C2985113
+27871298	988	998	separately	T080	C0443299
+27871298	1002	1011	age group	T100	C0027362
+27871298	1058	1061	age	T032	C0001779
+27871298	1066	1069	sex	T032	C0079399
+27871298	1086	1102	sociodemographic	T078	C0011292
+27871298	1103	1110	factors	T169	C1521761
+27871298	1130	1137	primary	T047	C0033141
+27871298	1138	1143	major	T080	C0205164
+27871298	1144	1147	CVD	T047	C0007222
+27871298	1148	1154	events	T051	C0441471
+27871298	1179	1188	follow-up	T058	C1522577
+27871298	1226	1235	secondary	T047	C0036529
+27871298	1236	1242	events	T051	C0441471
+27871298	1297	1304	primary	T047	C0033141
+27871298	1309	1318	secondary	T047	C0036529
+27871298	1319	1325	events	T051	C0441471
+27871298	1327	1336	incidence	T081	C0021149
+27871298	1337	1346	increased	T081	C0205217
+27871298	1352	1362	decreasing	T081	C0205216
+27871298	1363	1372	education	T065	C0013621
+27871298	1383	1391	absolute	T080	C0205344
+27871298	1392	1402	difference	T081	C1705241
+27871298	1411	1420	education	T065	C0013621
+27871298	1421	1427	groups	T078	C0441833
+27871298	1440	1449	secondary	T047	C0036529
+27871298	1450	1456	events	T051	C0441471
+27871298	1458	1461	Age	T032	C0001779
+27871298	1464	1467	sex	T032	C0079399
+27871298	1477	1490	hazard ratios	T081	C2985465
+27871298	1523	1528	group	T078	C0441833
+27871298	1534	1539	major	T080	C0205164
+27871298	1540	1543	CVD	T047	C0007222
+27871298	1547	1549	HR	T081	C2985465
+27871298	1551	1568	no qualifications	UnknownType	C0524325
+27871298	1572	1589	university degree	T170	C0542560
+27871298	1603	1605	CI	T081	C0009667
+27871298	1622	1629	primary	T047	C0033141
+27871298	1630	1636	events	T051	C0441471
+27871298	1642	1644	HR	T081	C2985465
+27871298	1668	1677	secondary	T047	C0036529
+27871298	1678	1684	events	T051	C0441471
+27871298	1686	1707	myocardial infarction	T047	C0027051
+27871298	1708	1710	HR	T081	C2985465
+27871298	1734	1736	HR	T081	C2985465
+27871298	1770	1776	stroke	T047	C0038454
+27871298	1777	1779	HR	T081	C2985465
+27871298	1803	1805	HR	T081	C2985465
+27871298	1839	1846	Similar	T080	C2348205
+27871298	1851	1861	attenuated	T080	C0332161
+27871298	1862	1869	results	T034	C0456984
+27871298	1883	1888	older	T098	C0001792
+27871298	1889	1899	age groups	T100	C0027362
+27871298	1910	1916	income	T081	C0021162
+27871298	1922	1932	area-level	T081	C1708236
+27871298	1933	1945	disadvantage	T185	C2985113
+27871298	1947	1950	CVD	T047	C0007222
+27871298	1951	1960	gradients	T081	C0812409
+27871298	1966	1970	weak	T080	C1762617
+27871298	1975	1990	non-significant	T080	C0205556
+27871298	1994	1999	older	T098	C0001792
+27871298	2000	2006	people	T098	C0027361
+27871298	2021	2042	Individual-level data	UnknownType	C0814855
+27871298	2047	2056	important	T080	C3898777
+27871298	2061	2072	quantifying	T081	C1709793
+27871298	2073	2096	socioeconomic variation	T033	C0682194
+27871298	2100	2103	CVD	T047	C0007222
+27871298	2104	2113	incidence	T081	C0021149
+27871298	2182	2187	prior	T079	C0332152
+27871298	2188	2191	CVD	T047	C0007222
+27871298	2193	2201	Findings	T033	C0243095
+27871298	2216	2227	opportunity	T062	C0683937
+27871298	2237	2247	importance	T080	C0205556
+27871298	2252	2259	primary	T061	C0033144
+27871298	2264	2284	secondary prevention	T061	C0679699
+27871298	2289	2298	treatment	T061	C0087111
+27871298	2302	2310	reducing	T080	C0392756
+27871298	2311	2334	socioeconomic variation	T033	C0682194
+27871298	2338	2341	CVD	T047	C0007222
+27871298	2346	2358	consequently	T033	C3845876
+27871298	2363	2370	overall	T080	C1561607
+27871298	2371	2377	burden	T078	C2828008
+27871298	2381	2384	CVD	T047	C0007222
+27871298	2385	2394	morbidity	T081	C0026538
+27871298	2399	2408	mortality	T081	C0178686
+27871298	2412	2421	Australia	T083	C0004340

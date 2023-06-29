@@ -1,0 +1,45 @@
+19370764|t|Identification and molecular characterization of six novel mutations in the UDP-N-acetylglucosamine-1-phosphotransferase gamma subunit (GNPTG) gene in patients with mucolipidosis III gamma.
+19370764|a|Mucolipidosis type III (MLIII) is an autosomal recessive disorder affecting lysosomal hydrolase trafficking. In a study of 10 patients from seven families with a clinical phenotype and enzymatic diagnosis of MLIII, six novel GNPTG gene mutations were identified. These included missense (p.T286M) and nonsense (p.W111X) mutations and a transition in the obligate AG-dinucleotide of the intron 8 acceptor splice site (c.610-2A>G). Three microdeletions were also identified, two of which (c.611delG and c.640_667del28) were located within the coding region whereas one (c.609+28_610-16del) was located entirely within intron 8. RT-PCR analysis of the c.610-2A>G transition demonstrated that the change altered splicing, leading to the production of two distinct aberrantly spliced forms, viz. the skipping of exon 9 (p.G204_K247del) or the retention of introns 8 and 9 (p.G204VfsX28). RT-PCR analysis, performed on a patient homozygous for the intronic deletion (c.609+28_610-16del), failed to detect any GNPTG RNA transcripts. To determine whether c.609+28_610-16del allele-derived transcripts were subject to nonsense-mediated mRNA decay (NMD), patient fibroblasts were incubated with the protein synthesis inhibitor anisomycin. An RT-PCR fragment retaining 43 bp of intron 8 was consistently detected suggesting that the 33-bp genomic deletion had elicited NMD. Quantitative real-time PCR and GNPTG western blot analysis confirmed that the homozygous microdeletion p.G204VfsX17 had elicited NMD resulting in failure to synthesize GNPTG protein. Analysis of the sequences surrounding the microdeletion breakpoints revealed either intrinsic repetitivity of the deleted region or short direct repeats adjacent to the breakpoint junctions. This is consistent with these repeats having mediated the microdeletions via replication slippage and supports the view that the mutational spectrum of the GNPTG gene is strongly influenced by the properties of the local DNA sequence environment.
+19370764	76	134	UDP-N-acetylglucosamine-1-phosphotransferase gamma subunit	GeneOrGeneProduct	84572
+19370764	136	141	GNPTG	GeneOrGeneProduct	84572
+19370764	151	159	patients	OrganismTaxon	9606
+19370764	165	188	mucolipidosis III gamma	DiseaseOrPhenotypicFeature	C565367
+19370764	190	212	Mucolipidosis type III	DiseaseOrPhenotypicFeature	D009081
+19370764	214	219	MLIII	DiseaseOrPhenotypicFeature	D009081
+19370764	227	255	autosomal recessive disorder	DiseaseOrPhenotypicFeature	D030342
+19370764	316	324	patients	OrganismTaxon	9606
+19370764	398	403	MLIII	DiseaseOrPhenotypicFeature	D009081
+19370764	415	420	GNPTG	GeneOrGeneProduct	84572
+19370764	478	485	p.T286M	SequenceVariant	rs193302860
+19370764	501	508	p.W111X	SequenceVariant	rs137852884
+19370764	553	568	AG-dinucleotide	SequenceVariant	rs193302855
+19370764	607	617	c.610-2A>G	SequenceVariant	rs193302855
+19370764	677	686	c.611delG	SequenceVariant	rs193302856
+19370764	691	705	c.640_667del28	SequenceVariant	rs193302859
+19370764	758	776	c.609+28_610-16del	SequenceVariant	c|DEL|609+28_610-16|
+19370764	839	849	c.610-2A>G	SequenceVariant	rs193302855
+19370764	1005	1019	p.G204_K247del	SequenceVariant	p|DEL|204_247|
+19370764	1058	1070	p.G204VfsX28	SequenceVariant	p|FS|G|204|V|28
+19370764	1105	1112	patient	OrganismTaxon	9606
+19370764	1151	1169	c.609+28_610-16del	SequenceVariant	c|DEL|609+28_610-16|
+19370764	1193	1198	GNPTG	GeneOrGeneProduct	84572
+19370764	1237	1255	c.609+28_610-16del	SequenceVariant	c|DEL|609+28_610-16|
+19370764	1335	1342	patient	OrganismTaxon	9606
+19370764	1407	1417	anisomycin	ChemicalEntity	D000841
+19370764	1512	1534	33-bp genomic deletion	SequenceVariant	g|DEL||33
+19370764	1584	1589	GNPTG	GeneOrGeneProduct	84572
+19370764	1656	1668	p.G204VfsX17	SequenceVariant	p|FS|G|204|V|17
+19370764	1721	1726	GNPTG	GeneOrGeneProduct	84572
+19370764	2083	2088	GNPTG	GeneOrGeneProduct	84572
+19370764	Positive_Correlation	p|FS|G|204|V|28	D009081	Novel
+19370764	Positive_Correlation	p|DEL|204_247|	D009081	Novel
+19370764	Positive_Correlation	D009081	p|FS|G|204|V|17	Novel
+19370764	Positive_Correlation	D009081	g|DEL||33	Novel
+19370764	Positive_Correlation	D009081	c|DEL|609+28_610-16|	Novel
+19370764	Positive_Correlation	D009081	rs193302859	Novel
+19370764	Positive_Correlation	D009081	rs193302856	Novel
+19370764	Positive_Correlation	D009081	rs193302855	Novel
+19370764	Positive_Correlation	D009081	rs137852884	Novel
+19370764	Positive_Correlation	D009081	rs193302860	Novel
+19370764	Negative_Correlation	D009081	84572	Novel
+19370764	Association	84572	C565367	Novel

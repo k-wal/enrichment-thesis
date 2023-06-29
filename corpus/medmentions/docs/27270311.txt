@@ -1,0 +1,66 @@
+27270311|t|Direct contact with perivascular tumor cells enhances integrin αvβ3 signaling and migration of endothelial cells
+27270311|a|The secretion of soluble pro-angiogenic factors by tumor cells and stromal cells in the perivascular niche promotes the aggressive angiogenesis that is typical of glioblastoma (GBM). Here, we show that angiogenesis also can be promoted by a direct interaction between brain tumor cells, including tumor cells with cancer stem -like properties (CSCs), and endothelial cells (ECs). As shown in vitro, this direct interaction is mediated by binding of integrin αvβ3 expressed on ECs to the RGD-peptide in L1CAM expressed on CSCs. It promotes both EC network formation and enhances directed migration toward basic fibroblast growth factor. Activation of αvβ3 and bone marrow tyrosine kinase on chromosome X (BMX) is required for migration stimulated by direct binding but not for migration stimulated by soluble factors. RGD-peptide treatment of mice with established intracerebral GBM xenografts significantly reduced the percentage of Sox2 -positive tumor cells and CSCs in close proximity to ECs, decreased integrin αvβ3 and BMX activation and p130CAS phosphorylation in the ECs, and reduced the vessel surface area. These results reveal a previously unrecognized aspect of the regulation of angiogenesis in GBM that can impact therapeutic anti-angiogenic targeting.
+27270311	20	32	perivascular	T023	C0005847
+27270311	33	44	tumor cells	T025	C0597032
+27270311	54	67	integrin αvβ3	T116,T192	C1138427
+27270311	68	77	signaling	T044	C1514762
+27270311	82	91	migration	T043	C1622501
+27270311	95	112	endothelial cells	T025	C0225336
+27270311	117	126	secretion	T043	C1327616
+27270311	138	160	pro-angiogenic factors	T123	C0002976
+27270311	164	175	tumor cells	T025	C0597032
+27270311	180	193	stromal cells	T025	C0162597
+27270311	201	213	perivascular	T023	C0005847
+27270311	233	256	aggressive angiogenesis	T191	C1519670
+27270311	276	288	glioblastoma	T191	C0017636
+27270311	290	293	GBM	T191	C0017636
+27270311	315	327	angiogenesis	T191	C1519670
+27270311	381	386	brain	T023	C0006104
+27270311	387	398	tumor cells	T025	C0597032
+27270311	410	421	tumor cells	T025	C0597032
+27270311	427	438	cancer stem	T025	C1956422
+27270311	457	461	CSCs	T025	C1956422
+27270311	468	485	endothelial cells	T025	C0225336
+27270311	487	490	ECs	T025	C0225336
+27270311	502	510	in vitro	T080	C1533691
+27270311	551	558	binding	T044	C0597358
+27270311	562	575	integrin αvβ3	T116,T192	C1138427
+27270311	576	585	expressed	T045	C0597360
+27270311	589	592	ECs	T025	C0225336
+27270311	600	611	RGD-peptide	T116,T123	C0052350
+27270311	615	620	L1CAM	T116,T123	C0950625
+27270311	621	630	expressed	T045	C1171362
+27270311	634	638	CSCs	T025	C1956422
+27270311	657	659	EC	T025	C0225336
+27270311	660	677	network formation	T043	C0007613
+27270311	700	709	migration	T043	C1622501
+27270311	723	747	fibroblast growth factor	T116,T123	C0016026
+27270311	749	759	Activation	T052	C1879547
+27270311	763	767	αvβ3	T116,T192	C1138427
+27270311	772	815	bone marrow tyrosine kinase on chromosome X	T116,T126	C1384557
+27270311	817	820	BMX	T116,T126	C1453891
+27270311	838	847	migration	T043	C1622501
+27270311	869	876	binding	T044	C0597358
+27270311	889	898	migration	T043	C1622501
+27270311	930	941	RGD-peptide	T116,T123	C0052350
+27270311	942	951	treatment	T169	C1522326
+27270311	955	959	mice	T015	C0025929
+27270311	977	990	intracerebral	T082	C0442111
+27270311	991	994	GBM	T191	C0017636
+27270311	995	1005	xenografts	T122	C0522537
+27270311	1046	1050	Sox2	T116,T123	C0300483
+27270311	1061	1072	tumor cells	T025	C0597032
+27270311	1077	1081	CSCs	T025	C1956422
+27270311	1104	1107	ECs	T025	C0225336
+27270311	1119	1132	integrin αvβ3	T116,T192	C1138427
+27270311	1137	1140	BMX	T116,T126	C1453891
+27270311	1156	1163	p130CAS	T116,T123	C1451358
+27270311	1164	1179	phosphorylation	T044	C1158886
+27270311	1187	1190	ECs	T025	C0225336
+27270311	1208	1214	vessel	T023	C0005847
+27270311	1215	1227	surface area	T082	C0205146
+27270311	1290	1300	regulation	T038	C1327622
+27270311	1304	1316	angiogenesis	T191	C1519670
+27270311	1320	1323	GBM	T191	C0017636
+27270311	1340	1351	therapeutic	T169	C0302350
+27270311	1352	1367	anti-angiogenic	T121,T123	C0596087

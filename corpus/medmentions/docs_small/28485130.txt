@@ -1,0 +1,38 @@
+28485130|t|Fluorescence hyperspectral imaging (fHSI) using a spectrally resolved detector array
+28485130|a|The ability to resolve multiple fluorescent emissions from different biological targets in video rate applications, such as endoscopy and intraoperative imaging, has traditionally been limited by the use of filter-based imaging systems. Hyperspectral imaging (HSI) facilitates the detection of both spatial and spectral information in a single data acquisition, however, instrumentation for HSI is typically complex, bulky and expensive. We sought to overcome these limitations using a novel robust and low cost HSI camera based on a spectrally resolved detector array (SRDA). We integrated this HSI camera into a wide-field reflectance-based imaging system operating in the near-infrared range to assess the suitability for in vivo imaging of exogenous fluorescent contrast agents. Using this fluorescence HSI (fHSI) system, we were able to accurately resolve the presence and concentration of at least 7 fluorescent dyes in solution. We also demonstrate high spectral unmixing precision, signal linearity with dye concentration and at depth in tissue mimicking phantoms, and delineate 4 fluorescent dyes in vivo. Our approach, including statistical background removal, could be directly generalised to broader spectral ranges, for example, to resolve tissue reflectance or autofluorescence and in future be tailored to video rate applications requiring snapshot HSI data acquisition.
+28485130	0	34	Fluorescence hyperspectral imaging	T058	UMLS:C0430022
+28485130	36	40	fHSI	T058	UMLS:C0430022
+28485130	61	69	resolved	T033	UMLS:C3714811
+28485130	70	84	detector array	T074	UMLS:C0025080
+28485130	209	218	endoscopy	T058	UMLS:C0014245
+28485130	223	245	intraoperative imaging	T058	UMLS:C3898703
+28485130	305	321	imaging systems.	T074	UMLS:C0025080
+28485130	322	343	Hyperspectral imaging	T058	UMLS:C0430022
+28485130	345	348	HSI	T058	UMLS:C0430022
+28485130	366	375	detection	T058	UMLS:C1511790
+28485130	384	391	spatial	T082	UMLS:C0037775
+28485130	476	479	HSI	T058	UMLS:C0430022
+28485130	597	600	HSI	T058	UMLS:C0430022
+28485130	601	607	camera	T074	UMLS:C0179533
+28485130	619	653	spectrally resolved detector array	T074	UMLS:C0025080
+28485130	655	659	SRDA	T074	UMLS:C0025080
+28485130	681	684	HSI	T058	UMLS:C0430022
+28485130	685	691	camera	T074	UMLS:C0179533
+28485130	699	709	wide-field	T033	UMLS:C0243095
+28485130	710	727	reflectance-based	T058	UMLS:C1514813
+28485130	810	825	in vivo imaging	T058	UMLS:C1708481
+28485130	839	866	fluorescent contrast agents	T103	UMLS:C0009924
+28485130	879	895	fluorescence HSI	T058	UMLS:C0430022
+28485130	897	901	fHSI	T058	UMLS:C0430022
+28485130	991	1007	fluorescent dyes	T103	UMLS:C0016320
+28485130	1097	1100	dye	T103	UMLS:C0013343
+28485130	1122	1127	depth	T082	UMLS:C0205125
+28485130	1131	1137	tissue	T017	UMLS:C0040300
+28485130	1162	1171	delineate	T033	UMLS:C0243095
+28485130	1174	1190	fluorescent dyes	T103	UMLS:C0016320
+28485130	1191	1198	in vivo	T082	UMLS:C1515655
+28485130	1274	1285	generalised	T082	UMLS:C0205246
+28485130	1338	1344	tissue	T017	UMLS:C0040300
+28485130	1345	1356	reflectance	T058	UMLS:C1514813
+28485130	1360	1376	autofluorescence	T058	UMLS:C0544711
+28485130	1449	1452	HSI	T058	UMLS:C0430022

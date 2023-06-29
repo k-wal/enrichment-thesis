@@ -1,0 +1,67 @@
+17003923|t|Gene polymorphisms implicated in influencing susceptibility to venous and arterial thromboembolism: frequency distribution in a healthy German population.
+17003923|a|Evolvement and progression of cardiovascular diseases affecting the venous and arterial system are influenced by a multitude of environmental and hereditary factors. Many of these hereditary factors consist of defined gene polymorphisms, such as single nucleotide polymorphisms (SNPs) or insertion-deletion polymorphisms, which directly or indirectly affect the hemostatic system. The frequencies of individual hemostatic gene polymorphisms in different normal populations are well defined. However, descriptions of patterns of genetic variability of a larger extent of different factors of hereditary hypercoagulability in single populations are scarce. The aim of this study was i) to give a detailed description of the frequencies of factors of hereditary thrombophilia and their combinations in a German population (n = 282) and ii) to compare their distributions with those reported for other regions. Variants of coagulation factors [factor V 1691G>A (factor V Leiden), factor V 4070A>G (factor V HR2 haplotype), factor VII Arg353Gln, factor XIII Val34Leu, beta-fibrinogen -455G>A, prothrombin 20210G>A], coagulation inhibitors [tissue factor pathway inhibitor 536C>T, thrombomodulin 127G>A], fibrinolytic factors [angiotensin converting enzyme intron 16 insertion/deletion, factor VII-activating protease 1601G>A (FSAP Marburg I), plasminogen activator inhibitor 1-675 insertion/deletion (5G/4G), tissue plasminogen activator intron h deletion/insertion], and other factors implicated in influencing susceptibility to thromboembolic diseases [apolipoprotein E2/E3/E4, glycoprotein Ia 807C>T, methylenetetrahydrofolate reductase 677C>T] were included. The distribution of glycoprotein Ia 807C>T deviated significantly from the Hardy-Weinberg equilibrium, and a comparison with previously published data indicates marked region and ethnicity dependent differences in the genotype distributions of some other factors.
+17003923	63	98	venous and arterial thromboembolism	DiseaseOrPhenotypicFeature	D054556
+17003923	185	208	cardiovascular diseases	DiseaseOrPhenotypicFeature	D002318
+17003923	746	775	hereditary hypercoagulability	DiseaseOrPhenotypicFeature	D019851
+17003923	903	927	hereditary thrombophilia	DiseaseOrPhenotypicFeature	C540694
+17003923	1095	1103	factor V	GeneOrGeneProduct	2153
+17003923	1104	1111	1691G>A	SequenceVariant	c|SUB|G|1691|A
+17003923	1113	1128	factor V Leiden	GeneOrGeneProduct	2153
+17003923	1131	1139	factor V	GeneOrGeneProduct	2153
+17003923	1140	1147	4070A>G	SequenceVariant	c|SUB|A|4070|G
+17003923	1149	1157	factor V	GeneOrGeneProduct	2153
+17003923	1174	1184	factor VII	GeneOrGeneProduct	2155
+17003923	1185	1194	Arg353Gln	SequenceVariant	p|SUB|R|353|Q
+17003923	1196	1207	factor XIII	GeneOrGeneProduct	2162
+17003923	1208	1216	Val34Leu	SequenceVariant	p|SUB|V|34|L
+17003923	1218	1233	beta-fibrinogen	GeneOrGeneProduct	2244
+17003923	1234	1241	-455G>A	SequenceVariant	c|SUB|G|-455|A
+17003923	1243	1254	prothrombin	GeneOrGeneProduct	2147
+17003923	1255	1263	20210G>A	SequenceVariant	c|SUB|G|20210|A
+17003923	1290	1321	tissue factor pathway inhibitor	GeneOrGeneProduct	7035
+17003923	1322	1328	536C>T	SequenceVariant	c|SUB|C|536|T
+17003923	1330	1344	thrombomodulin	GeneOrGeneProduct	7056
+17003923	1345	1351	127G>A	SequenceVariant	c|SUB|G|127|A
+17003923	1376	1405	angiotensin converting enzyme	GeneOrGeneProduct	1636
+17003923	1436	1466	factor VII-activating protease	GeneOrGeneProduct	3026
+17003923	1467	1474	1601G>A	SequenceVariant	c|SUB|G|1601|A
+17003923	1476	1480	FSAP	GeneOrGeneProduct	3026
+17003923	1493	1526	plasminogen activator inhibitor 1	GeneOrGeneProduct	5054
+17003923	1527	1549	675 insertion/deletion	SequenceVariant	c|INDEL|675|
+17003923	1559	1587	tissue plasminogen activator	GeneOrGeneProduct	5327
+17003923	1680	1703	thromboembolic diseases	DiseaseOrPhenotypicFeature	D013923
+17003923	1705	1745	apolipoprotein E2/E3/E4, glycoprotein Ia	GeneOrGeneProduct	22915
+17003923	1746	1752	807C>T	SequenceVariant	c|SUB|C|807|T
+17003923	1754	1789	methylenetetrahydrofolate reductase	GeneOrGeneProduct	4524
+17003923	1790	1796	677C>T	SequenceVariant	c|SUB|C|677|T
+17003923	1833	1848	glycoprotein Ia	GeneOrGeneProduct	22915
+17003923	1849	1855	807C>T	SequenceVariant	c|SUB|C|807|T
+17003923	Association	5327	D054556	Novel
+17003923	Association	1636	D054556	Novel
+17003923	Association	D054556	c|SUB|A|4070|G	Novel
+17003923	Association	D054556	c|SUB|G|1691|A	Novel
+17003923	Association	D054556	2153	Novel
+17003923	Association	D054556	c|INDEL|675|	Novel
+17003923	Association	D054556	5054	Novel
+17003923	Association	D054556	c|SUB|G|1601|A	Novel
+17003923	Association	D054556	3026	Novel
+17003923	Association	D054556	c|SUB|G|127|A	Novel
+17003923	Association	D054556	7056	Novel
+17003923	Association	D054556	c|SUB|C|536|T	Novel
+17003923	Association	D054556	7035	Novel
+17003923	Association	D054556	c|SUB|G|20210|A	Novel
+17003923	Association	D054556	2147	Novel
+17003923	Association	D054556	c|SUB|G|-455|A	Novel
+17003923	Association	D054556	2244	Novel
+17003923	Association	D054556	p|SUB|V|34|L	Novel
+17003923	Association	D054556	2162	Novel
+17003923	Association	D054556	p|SUB|R|353|Q	Novel
+17003923	Association	D054556	2155	Novel
+17003923	Association	D054556	c|SUB|C|677|T	Novel
+17003923	Association	D054556	4524	Novel
+17003923	Association	D054556	c|SUB|C|807|T	Novel
+17003923	Association	D054556	22915	Novel
+17003923	Association	c|SUB|C|677|T	D013923	No
+17003923	Association	4524	D013923	No
+17003923	Association	c|SUB|C|807|T	D013923	No
+17003923	Association	22915	D013923	No

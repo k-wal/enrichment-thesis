@@ -1,0 +1,63 @@
+27172902|t|Cisplatin induces tolerogenic dendritic cells in response to TLR agonists via the abundant production of IL-10, thereby promoting Th2- and Tr1-biased T-cell immunity.
+27172902|a|Although many advantageous roles of cisplatin (cis-diamminedichloroplatinum (II), CDDP) have been reported in cancer therapy, the immunomodulatory roles of cisplatin in the phenotypic and functional alterations of dendritic cells (DCs) are poorly understood. Here, we investigated the effect of cisplatin on the functionality of DCs and the changes in signaling pathways activated upon toll-like receptor (TLR) stimulation. Cisplatin-treated DCs down-regulated the expression of cell surface molecules (CD80, CD86, MHC class I and II) and up-regulated endocytic capacity in a dose-dependent manner. Upon stimulation with various TLR agonists, cisplatin-treated DCs showed markedly increased IL-10 production through activation of the p38 MAPK and NF-kappaB signaling pathways without altering the levels of TNF-alpha and IL-12p70, indicating the cisplatin-mediated induction of tolerogenic DCs. This effect was dependent on the production of IL-10 from DCs, as neither DCs isolated from IL-10-/- mice nor IL-10-neutralized DCs generated tolerogenic DCs. Interestingly, DCs that were co-treated with cisplatin and lipopolysaccharide (LPS) exhibited a decreased immunostimulatory capacity for inducing the proliferation of Th1- and Th17-type T cells; instead, these DCs contributed to Th2-type T cell immunity. Furthermore, in vitro and in vivo investigations revealed a unique T cell population, IL-10-producing CD3+CD4+LAG-3+CD49b+CD25-Foxp3- Tr1 cells, that was significantly increased without altering the Foxp3+ regulatory T cell population. Taken together, our results suggest that cisplatin induces immune-suppressive tolerogenic DCs in TLR agonist-induced inflammatory conditions via abundant IL-10 production, thereby skewing Th cell differentiation towards Th2 and Tr1 cells. This relationship may provide cancer cells with an opportunity to evade the immune system. 
+27172902	0	9	Cisplatin	ChemicalEntity	D002945
+27172902	61	64	TLR	GeneOrGeneProduct	13982
+27172902	105	110	IL-10	GeneOrGeneProduct	16153
+27172902	203	212	cisplatin	ChemicalEntity	D002945
+27172902	214	242	cis-diamminedichloroplatinum	ChemicalEntity	D002945
+27172902	249	253	CDDP	ChemicalEntity	D002945
+27172902	277	283	cancer	DiseaseOrPhenotypicFeature	D009369
+27172902	323	332	cisplatin	ChemicalEntity	D002945
+27172902	462	471	cisplatin	ChemicalEntity	D002945
+27172902	553	571	toll-like receptor	GeneOrGeneProduct	13982
+27172902	573	576	TLR	GeneOrGeneProduct	13982
+27172902	591	600	Cisplatin	ChemicalEntity	D002945
+27172902	670	674	CD80	GeneOrGeneProduct	12519
+27172902	676	680	CD86	GeneOrGeneProduct	12524
+27172902	682	700	MHC class I and II	GeneOrGeneProduct	14961,14972
+27172902	796	799	TLR	GeneOrGeneProduct	13982
+27172902	810	819	cisplatin	ChemicalEntity	D002945
+27172902	858	863	IL-10	GeneOrGeneProduct	16153
+27172902	901	909	p38 MAPK	GeneOrGeneProduct	26416
+27172902	914	923	NF-kappaB	GeneOrGeneProduct	18033
+27172902	974	983	TNF-alpha	GeneOrGeneProduct	21926
+27172902	988	996	IL-12p70	GeneOrGeneProduct	16185
+27172902	1013	1022	cisplatin	ChemicalEntity	D002945
+27172902	1109	1114	IL-10	GeneOrGeneProduct	16153
+27172902	1154	1159	IL-10	GeneOrGeneProduct	16153
+27172902	1163	1167	mice	OrganismTaxon	10090
+27172902	1172	1177	IL-10	GeneOrGeneProduct	16153
+27172902	1266	1275	cisplatin	ChemicalEntity	D002945
+27172902	1280	1298	lipopolysaccharide	ChemicalEntity	D008070
+27172902	1300	1303	LPS	ChemicalEntity	D008070
+27172902	1562	1567	IL-10	GeneOrGeneProduct	16153
+27172902	1578	1581	CD3	GeneOrGeneProduct	12501
+27172902	1582	1585	CD4	GeneOrGeneProduct	12504
+27172902	1586	1591	LAG-3	GeneOrGeneProduct	16768
+27172902	1592	1597	CD49b	GeneOrGeneProduct	16398
+27172902	1598	1602	CD25	GeneOrGeneProduct	16184
+27172902	1603	1608	Foxp3	GeneOrGeneProduct	20371
+27172902	1675	1680	Foxp3	GeneOrGeneProduct	20371
+27172902	1753	1762	cisplatin	ChemicalEntity	D002945
+27172902	1809	1820	TLR agonist	ChemicalEntity	-
+27172902	1829	1841	inflammatory	DiseaseOrPhenotypicFeature	D007249
+27172902	1866	1871	IL-10	GeneOrGeneProduct	16153
+27172902	1981	1987	cancer	DiseaseOrPhenotypicFeature	D009369
+27172902	Association	16153	D009369	Novel
+27172902	Association	16153	D007249	Novel
+27172902	Positive_Correlation	16153	18033	Novel
+27172902	Positive_Correlation	16153	26416	Novel
+27172902	Positive_Correlation	13982	18033	Novel
+27172902	Positive_Correlation	13982	26416	Novel
+27172902	Positive_Correlation	13982	16153	Novel
+27172902	Negative_Correlation	D002945	D009369	No
+27172902	Positive_Correlation	D002945	D007249	Novel
+27172902	Cotreatment	D002945	D008070	Novel
+27172902	Positive_Correlation	D002945	18033	Novel
+27172902	Positive_Correlation	D002945	26416	Novel
+27172902	Positive_Correlation	D002945	16153	Novel
+27172902	Negative_Correlation	D002945	14972	Novel
+27172902	Negative_Correlation	D002945	14961	Novel
+27172902	Negative_Correlation	D002945	12524	Novel
+27172902	Negative_Correlation	D002945	12519	Novel
+27172902	Positive_Correlation	D002945	13982	Novel

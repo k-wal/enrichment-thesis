@@ -1,0 +1,53 @@
+27688476|t|Optimization of Image Reconstruction for (90)Y Selective Internal Radiotherapy on a Lutetium Yttrium Orthosilicate PET/CT System Using a Bayesian Penalized Likelihood Reconstruction Algorithm
+27688476|a|Imaging on a γ-camera with (90)Y after selective internal radiotherapy (SIRT) may allow for verification of treatment delivery but suffers relatively poor spatial resolution and imprecise dosimetry calculation. (90)Y PET/CT imaging is possible on 3-dimensional, time-of-flight machines; however, images are usually poor because of low count statistics and noise. A new PET reconstruction software using a Bayesian penalized likelihood (BPL) reconstruction algorithm (termed Q.Clear) was investigated using phantom and patient scans to optimize the reconstruction for post-SIRT imaging and clarify whether BPL leads to an improvement in clinical image quality using (90)Y. Methods: Phantom studies over an activity range of 0.5-4.2 GBq were performed to assess the contrast recovery, background variability, and contrast-to-noise ratio for a range of BPL and ordered-subset expectation maximization (OSEM) reconstructions on a PET/CT scanner. Patient images after SIRT were reconstructed using the same parameters and were scored and ranked on the basis of image quality, as assessed by visual evaluation, with the corresponding SPECT/CT Bremsstrahlung images by 2 experienced radiologists. Results: Contrast-to-noise ratio was significantly better in BPL reconstructions when compared with OSEM in phantom studies. The patient -derived BPL and matching Bremsstrahlung images scored higher than OSEM reconstructions when scored by radiologists. BPL with a β value of 4,000 was ranked the highest of all images. Deadtime was apparent in the system above a total phantom activity of 3.3 GBq. Conclusion: BPL with a β value of 4,000 is the optimal image reconstruction in PET/CT for confident radiologic reading when compared with other reconstruction parameters for (90)Y imaging after SIRT imaging. Activity in the field of view should be below 3.3 GBq at the time of PET imaging to avoid deadtime losses for this scanner.
+27688476	41	46	(90)Y	T103	UMLS:C0303596
+27688476	47	78	Selective Internal Radiotherapy	T058	UMLS:C1831994
+27688476	115	128	PET/CT System	T074	UMLS:C3882574
+27688476	137	191	Bayesian Penalized Likelihood Reconstruction Algorithm	T170	UMLS:C0002045
+27688476	192	199	Imaging	T058	UMLS:C0011923
+27688476	205	213	γ-camera	T074	UMLS:C0017004
+27688476	219	224	(90)Y	T103	UMLS:C0303596
+27688476	231	262	selective internal radiotherapy	T058	UMLS:C1831994
+27688476	264	268	SIRT	T058	UMLS:C1831994
+27688476	300	318	treatment delivery	T058	UMLS:C2094475
+27688476	380	401	dosimetry calculation	T058	UMLS:C0034621
+27688476	403	408	(90)Y	T103	UMLS:C0303596
+27688476	409	415	PET/CT	T074	UMLS:C3882574
+27688476	416	423	imaging	T058	UMLS:C0011923
+27688476	439	452	3-dimensional	T082	UMLS:C0450363
+27688476	561	564	PET	T058	UMLS:C0032743
+27688476	580	588	software	T170	UMLS:C0037585
+27688476	597	657	Bayesian penalized likelihood (BPL) reconstruction algorithm	T170	UMLS:C0002045
+27688476	666	673	Q.Clear	T170	UMLS:C0282574
+27688476	718	723	scans	T058	UMLS:C0441633
+27688476	759	768	post-SIRT	T058	UMLS:C1831994
+27688476	769	776	imaging	T058	UMLS:C0011923
+27688476	797	800	BPL	T170	UMLS:C0002045
+27688476	857	862	(90)Y	T103	UMLS:C0303596
+27688476	881	888	studies	T062	UMLS:C2603343
+27688476	1042	1045	BPL	T170	UMLS:C0002045
+27688476	1050	1089	ordered-subset expectation maximization	T170	UMLS:C2700035
+27688476	1091	1095	OSEM	T170	UMLS:C2700035
+27688476	1118	1132	PET/CT scanner	T074	UMLS:C3882574
+27688476	1155	1159	SIRT	T058	UMLS:C1831994
+27688476	1194	1204	parameters	T082	UMLS:C0454186
+27688476	1225	1231	ranked	T170	UMLS:C0699794
+27688476	1285	1295	evaluation	T058	UMLS:C0220825
+27688476	1320	1328	SPECT/CT	T058	UMLS:C3472245
+27688476	1368	1380	radiologists	T097	UMLS:C0334907
+27688476	1443	1446	BPL	T170	UMLS:C0002045
+27688476	1482	1486	OSEM	T170	UMLS:C2700035
+27688476	1498	1505	studies	T062	UMLS:C2603343
+27688476	1528	1531	BPL	T170	UMLS:C0002045
+27688476	1586	1590	OSEM	T170	UMLS:C2700035
+27688476	1622	1634	radiologists	T097	UMLS:C0334907
+27688476	1636	1639	BPL	T170	UMLS:C0002045
+27688476	1793	1796	BPL	T170	UMLS:C0002045
+27688476	1860	1866	PET/CT	T074	UMLS:C3882574
+27688476	1940	1950	parameters	T082	UMLS:C0454186
+27688476	1955	1960	(90)Y	T103	UMLS:C0303596
+27688476	1961	1968	imaging	T058	UMLS:C0011923
+27688476	1975	1979	SIRT	T058	UMLS:C1831994
+27688476	1980	1987	imaging	T058	UMLS:C0011923
+27688476	2058	2069	PET imaging	T058	UMLS:C3702050
+27688476	2104	2111	scanner	T074	UMLS:C0183115

@@ -1,0 +1,28 @@
+15000256|t|Single-strand conformation polymorphism analysis of the FMR1 gene in autistic and mentally retarded children in Japan.
+15000256|a|Fragile X syndrome is one of the most common causes of mental retardation in males, and patients with fragile X syndrome occasionally develop autism. It is usually caused by an expansion of the trinucleotide repeat in the 5'-untranslated region of the FMR1 gene, but in a small number of patients deletions and point mutations have been identified. We screened all 17 exons of the FMR1 gene for mutations in 90 autistic or mentally retarded children using polymerase chain reaction (PCR)-single strand conformation polymorphism (SSCP) analysis. No mutations were found in 76 male patients. However, one female patient was heterozygous for a normal allele and a mutant allele with an A to C substitution at nucleotide 879 in exon 9. This mutation was not found in 50 controls. Reverse transcription-PCR revealed that a large proportion of the mutant transcripts were spliced aberrantly, causing premature termination of the protein synthesis. Although uncommon, point mutations in the FMR1 gene may be a cause of autism and mental retardation in Japanese patients.
+15000256	56	60	FMR1	GeneOrGeneProduct	2332
+15000256	69	77	autistic	DiseaseOrPhenotypicFeature	D001321
+15000256	82	99	mentally retarded	DiseaseOrPhenotypicFeature	D008607
+15000256	119	137	Fragile X syndrome	DiseaseOrPhenotypicFeature	D005600
+15000256	174	192	mental retardation	DiseaseOrPhenotypicFeature	D008607
+15000256	207	215	patients	OrganismTaxon	9606
+15000256	221	239	fragile X syndrome	DiseaseOrPhenotypicFeature	D005600
+15000256	261	267	autism	DiseaseOrPhenotypicFeature	D001321
+15000256	371	375	FMR1	GeneOrGeneProduct	2332
+15000256	407	415	patients	OrganismTaxon	9606
+15000256	500	504	FMR1	GeneOrGeneProduct	2332
+15000256	530	538	autistic	DiseaseOrPhenotypicFeature	D001321
+15000256	542	559	mentally retarded	DiseaseOrPhenotypicFeature	D008607
+15000256	699	707	patients	OrganismTaxon	9606
+15000256	729	736	patient	OrganismTaxon	9606
+15000256	802	839	A to C substitution at nucleotide 879	SequenceVariant	rs782013865
+15000256	1103	1107	FMR1	GeneOrGeneProduct	2332
+15000256	1131	1137	autism	DiseaseOrPhenotypicFeature	D001321
+15000256	1142	1160	mental retardation	DiseaseOrPhenotypicFeature	D008607
+15000256	1173	1181	patients	OrganismTaxon	9606
+15000256	Positive_Correlation	rs782013865	D001321	Novel
+15000256	Positive_Correlation	rs782013865	D008607	Novel
+15000256	Association	rs782013865	D005600	Novel
+15000256	Association	2332	D001321	Novel
+15000256	Association	2332	D008607	Novel
+15000256	Association	2332	D005600	No

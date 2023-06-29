@@ -1,0 +1,61 @@
+27725792|t|The Discrepancy between Patient and Clinician Reported Function in Extremity Bone Metastases
+27725792|a|Background. The Musculoskeletal Tumor Society (MSTS) scoring system measures function and is commonly used but criticized because it was developed to be completed by the clinician and not by the patient. We therefore evaluated if there is a difference between patient and clinician reported function using the MSTS score. Methods. 128 patients with bone metastasis of the lower (n = 100) and upper (n = 28) extremity completed the MSTS score. The MSTS score consists of six domains, scored on a 0 to 5 scale and transformed into an overall score ranging from 0 to 100% with a higher score indicating better function. The MSTS score was also derived from clinicians' reports in the medical record. Results. The median age was 63 years (interquartile range [IQR]: 55-71) and the study included 74 (58%) women. We found that the clinicians' MSTS score (median: 65, IQR: 49-83) overestimated the function as compared to the patient perceived score (median: 57, IQR: 40-70) by 8 points (p < 0.001). Conclusion. Clinician reports overestimate function as compared to the patient perceived score. This is important for acknowledging when informing patients about the expected outcome of treatment and for understanding patients' perceptions.
+27725792	4	15	Discrepancy	T033	C1290905
+27725792	24	31	Patient	T101	C0030705
+27725792	36	45	Clinician	T097	C0871685
+27725792	46	54	Reported	T170	C0684224
+27725792	55	63	Function	T042	C0231542
+27725792	77	92	Bone Metastases	T191	C0153690
+27725792	109	160	Musculoskeletal Tumor Society (MSTS) scoring system	T170	C4054451
+27725792	170	178	function	T042	C0231542
+27725792	204	214	criticized	T054	C0870379
+27725792	246	255	completed	T080	C0205197
+27725792	263	272	clinician	T097	C0871685
+27725792	288	295	patient	T101	C0030705
+27725792	310	319	evaluated	T058	C0220825
+27725792	353	360	patient	T101	C0030705
+27725792	365	374	clinician	T097	C0871685
+27725792	375	383	reported	T170	C0684224
+27725792	384	392	function	T042	C0231542
+27725792	403	413	MSTS score	T170	C4054451
+27725792	428	436	patients	T101	C0030705
+27725792	442	457	bone metastasis	T191	C0153690
+27725792	465	470	lower	T023	C0023216
+27725792	485	509	upper (n = 28) extremity	T023	C1140618
+27725792	510	519	completed	T080	C0205197
+27725792	524	534	MSTS score	T170	C4054451
+27725792	540	550	MSTS score	T170	C4054451
+27725792	633	638	score	T081	C0449820
+27725792	676	681	score	T081	C0449820
+27725792	700	708	function	T042	C0231542
+27725792	714	724	MSTS score	T170	C4054451
+27725792	747	758	clinicians'	T097	C0871685
+27725792	759	766	reports	T170	C0684224
+27725792	774	788	medical record	T170	C0025102
+27725792	810	813	age	T032	C0001779
+27725792	821	826	years	T079	C0439234
+27725792	828	847	interquartile range	T081	C1711350
+27725792	849	852	IQR	T081	C1711350
+27725792	870	875	study	T062	C2603343
+27725792	894	899	women	T098	C0043210
+27725792	919	930	clinicians'	T097	C0871685
+27725792	931	941	MSTS score	T170	C4054451
+27725792	955	958	IQR	T081	C1711350
+27725792	967	980	overestimated	T081	C0750572
+27725792	985	993	function	T042	C0231542
+27725792	997	1005	compared	T052	C1707455
+27725792	1013	1020	patient	T101	C0030705
+27725792	1031	1036	score	T081	C0449820
+27725792	1050	1053	IQR	T081	C1711350
+27725792	1099	1108	Clinician	T097	C0871685
+27725792	1109	1116	reports	T170	C0684224
+27725792	1117	1129	overestimate	T081	C0750572
+27725792	1130	1138	function	T042	C0231542
+27725792	1142	1150	compared	T052	C1707455
+27725792	1158	1165	patient	T101	C0030705
+27725792	1176	1181	score	T081	C0449820
+27725792	1224	1233	informing	T058	C0700287
+27725792	1234	1242	patients	T101	C0030705
+27725792	1262	1282	outcome of treatment	T080	C0085415
+27725792	1305	1314	patients'	T101	C0030705
+27725792	1315	1326	perceptions	T041	C0030971

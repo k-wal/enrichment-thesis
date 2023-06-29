@@ -1,0 +1,28 @@
+22836123|t|Late-onset scleroderma renal crisis induced by tacrolimus and prednisolone: a case report.
+22836123|a|Scleroderma renal crisis (SRC) is a rare complication of systemic sclerosis (SSc) but can be severe enough to require temporary or permanent renal replacement therapy. Moderate to high dose corticosteroid use is recognized as a major risk factor for SRC. Furthermore, there have been reports of thrombotic microangiopathy precipitated by cyclosporine in patients with SSc. In this article, we report a patient with SRC induced by tacrolimus and corticosteroids. The aim of this work is to call attention to the risk of tacrolimus use in patients with SSc.
+22836123	11	35	scleroderma renal crisis	DiseaseOrPhenotypicFeature	D007674
+22836123	47	57	tacrolimus	ChemicalEntity	D016559
+22836123	62	74	prednisolone	ChemicalEntity	D011239
+22836123	91	115	Scleroderma renal crisis	DiseaseOrPhenotypicFeature	D007674
+22836123	117	120	SRC	DiseaseOrPhenotypicFeature	D007674
+22836123	148	166	systemic sclerosis	DiseaseOrPhenotypicFeature	D012595
+22836123	168	171	SSc	DiseaseOrPhenotypicFeature	D012595
+22836123	281	295	corticosteroid	ChemicalEntity	D000305
+22836123	341	344	SRC	DiseaseOrPhenotypicFeature	D007674
+22836123	386	412	thrombotic microangiopathy	DiseaseOrPhenotypicFeature	D057049
+22836123	429	441	cyclosporine	ChemicalEntity	D016572
+22836123	445	453	patients	OrganismTaxon	9606
+22836123	459	462	SSc	DiseaseOrPhenotypicFeature	D012595
+22836123	493	500	patient	OrganismTaxon	9606
+22836123	506	509	SRC	DiseaseOrPhenotypicFeature	D007674
+22836123	521	531	tacrolimus	ChemicalEntity	D016559
+22836123	536	551	corticosteroids	ChemicalEntity	D000305
+22836123	610	620	tacrolimus	ChemicalEntity	D016559
+22836123	628	636	patients	OrganismTaxon	9606
+22836123	642	645	SSc	DiseaseOrPhenotypicFeature	D012595
+22836123	Positive_Correlation	D000305	D007674	Novel
+22836123	Positive_Correlation	D057049	D016572	No
+22836123	Negative_Correlation	D016572	D012595	No
+22836123	Negative_Correlation	D016559	D012595	Novel
+22836123	Positive_Correlation	D007674	D011239	Novel
+22836123	Positive_Correlation	D007674	D016559	Novel

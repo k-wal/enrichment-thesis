@@ -1,0 +1,52 @@
+27257613|t|Data set of interactomes and metabolic pathways of proteins differentially expressed in brains with Alzheimer׳s disease
+27257613|a|Alzheimer׳s disease is one of the main causes of dementia in the elderly and its frequency is on the rise worldwide. It is considered the result of complex interactions between genetic and environmental factors, being many of them unknown. Therefore, there is a dire necessity for the identification of novel molecular players for the understanding of this disease. In this data article we determined the protein expression profiles of whole protein extracts from cortex regions of brains from patients with Alzheimer׳s disease in comparison to a normal brain. We identified 721 iTRAQ-labeled polypeptides with more than 95% in confidence. We analyzed all proteins that changed in their expression level and located them in the KEGG metabolic pathways, as well as in the mitochondrial complexes of the electron transport chain and ATP synthase. In addition, we analyzed the over- and sub-expressed polypeptides through IPA software, specifically Core I and Biomarkers I modules. Data in this article is related to the research article "Identification of proteins that are differentially expressed in brains with Alzheimer's disease using iTRAQ labeling and tandem mass spectrometry " (Minjarez et al., 2016) [1].
+27257613	0	8	Data set	T170	C0150098
+27257613	12	24	interactomes	T044	C0872079
+27257613	29	47	metabolic pathways	T169	C1291081
+27257613	51	59	proteins	T116,T123	C0033684
+27257613	75	84	expressed	T045	C1171362
+27257613	88	94	brains	T023	C0006104
+27257613	100	119	Alzheimer׳s disease	T047	C0002395
+27257613	120	139	Alzheimer׳s disease	T047	C0002395
+27257613	169	177	dementia	T048	C0497327
+27257613	185	192	elderly	T098	C0001792
+27257613	201	210	frequency	T079	C0439603
+27257613	226	235	worldwide	T098	C2700280
+27257613	268	275	complex	T080	C0439855
+27257613	276	288	interactions	T169	C1704675
+27257613	297	304	genetic	T080	C0814299
+27257613	309	330	environmental factors	T080	C0686732
+27257613	429	446	molecular players	T116,T123	C0033684
+27257613	477	484	disease	T047	C0002395
+27257613	494	498	data	T078	C1511726
+27257613	499	506	article	T170	C1706852
+27257613	525	543	protein expression	T045	C1171362
+27257613	562	569	protein	T116,T123	C0033684
+27257613	570	578	extracts	T167	C2828366
+27257613	584	608	cortex regions of brains	T029	C0458324
+27257613	614	622	patients	T101	C0030705
+27257613	628	647	Alzheimer׳s disease	T047	C0002395
+27257613	667	679	normal brain	T023	C0006104
+27257613	684	694	identified	T080	C0205396
+27257613	699	712	iTRAQ-labeled	T130	C2986808
+27257613	713	725	polypeptides	T116	C1305923
+27257613	763	771	analyzed	T062	C0936012
+27257613	776	784	proteins	T116,T123	C0033684
+27257613	807	823	expression level	T081	C3244092
+27257613	848	871	KEGG metabolic pathways	T170	C3826812
+27257613	891	946	mitochondrial complexes of the electron transport chain	T026	C1325653
+27257613	951	963	ATP synthase	T116,T126	C0949692
+27257613	981	989	analyzed	T062	C0936012
+27257613	994	1030	over- and sub-expressed polypeptides	T116	C1305923
+27257613	1039	1051	IPA software	T073,T170	C0037585
+27257613	1066	1097	Core I and Biomarkers I modules	T170	C0037589
+27257613	1099	1103	Data	T078	C1511726
+27257613	1112	1119	article	T170	C1706852
+27257613	1138	1146	research	T062	C0035168
+27257613	1147	1154	article	T170	C1706852
+27257613	1174	1182	proteins	T116,T123	C0033684
+27257613	1207	1216	expressed	T045	C1171362
+27257613	1220	1226	brains	T023	C0006104
+27257613	1232	1251	Alzheimer's disease	T047	C0002395
+27257613	1258	1272	iTRAQ labeling	T059	C0022885
+27257613	1277	1301	tandem mass spectrometry	T063	C0599748

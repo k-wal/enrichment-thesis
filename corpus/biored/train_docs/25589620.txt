@@ -1,0 +1,63 @@
+25589620|t|Pharmacogenetic Analysis of INT 0144 Trial: Association of Polymorphisms with Survival and Toxicity in Rectal Cancer Patients Treated with 5-FU and Radiation.
+25589620|a|PURPOSE: We tested whether 18 polymorphisms in 16 genes (GSTP1, COX2, IL10, EGFR, EGF, FGFR4, CCDN1, VEGFR2, VEGF, CXCR2, IL8, MMP3, ICAM1, ERCC1, RAD51, and XRCC3) would predict disease-free survival (DFS), overall survival (OS), and toxicity in the INT0144 trial, which was designed to investigate different postoperative regimens of 5-fluorouracil (5-FU)-based chemoradiation (CRT) in locally advanced rectal cancers: Arm 1 consisted of bolus 5-FU followed by 5-FU protracted venous infusion (PVI) with radiotherapy; arm 2 was induction and concomitant PVI 5-FU with radiotherapy and arm 3 was induction and concomitant bolus 5-FU with radiotherapy. EXPERIMENTAL DESIGN: DNA from 746 stage II/III rectal patients enrolled in the Southwest Oncology Group (SWOG) S9304 phase III trial was analyzed. Genomic DNA was extracted from formalin-fixed, paraffin-embedded (FFPE) tumor tissue. The polymorphisms were analyzed using direct DNA-sequencing or polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP). RESULTS: GSTP1-Ile105Val (rs1695) was significantly associated with DFS and OS and its effect did not vary by treatment arm. The five-year DFS and OS were 53% and 58%, respectively, for G/G, 66% and 72% for G/A, and 57% and 66% for A/A patients. In arm 2, IL8-251A/A genotype (rs4073) was associated with a lower risk of toxicities (P = 0.04). The VEGFR2 H472Q Q/Q genotype (rs1870377) was associated with a higher risk of grade 3-5 proximal upper gastrointestinal tract (PUGIT) mucositis (P = 0.04) in arm 2. However, in arm 1, this genotype was associated with a lower risk of PUGIT mucositis (P = 0.004). CONCLUSION: rs1695 may be prognostic in patients with rectal cancer treated with adjuvant CRT. rs4073 and rs1870377 may exhibit different associations with toxicity, according to the 5-FU schedule.
+25589620	91	99	Toxicity	DiseaseOrPhenotypicFeature	D064420
+25589620	103	116	Rectal Cancer	DiseaseOrPhenotypicFeature	D012004
+25589620	117	125	Patients	OrganismTaxon	9606
+25589620	139	143	5-FU	ChemicalEntity	D005472
+25589620	216	221	GSTP1	GeneOrGeneProduct	2950
+25589620	223	227	COX2	GeneOrGeneProduct	4513
+25589620	229	233	IL10	GeneOrGeneProduct	3586
+25589620	235	239	EGFR	GeneOrGeneProduct	1956
+25589620	241	244	EGF	GeneOrGeneProduct	1950
+25589620	246	251	FGFR4	GeneOrGeneProduct	2264
+25589620	253	258	CCDN1	GeneOrGeneProduct	595
+25589620	260	266	VEGFR2	GeneOrGeneProduct	3791
+25589620	268	272	VEGF	GeneOrGeneProduct	7422
+25589620	274	279	CXCR2	GeneOrGeneProduct	3579
+25589620	281	284	IL8	GeneOrGeneProduct	3576
+25589620	286	290	MMP3	GeneOrGeneProduct	4314
+25589620	292	297	ICAM1	GeneOrGeneProduct	3383
+25589620	299	304	ERCC1	GeneOrGeneProduct	2067
+25589620	306	311	RAD51	GeneOrGeneProduct	5888
+25589620	317	322	XRCC3	GeneOrGeneProduct	7517
+25589620	394	402	toxicity	DiseaseOrPhenotypicFeature	D064420
+25589620	495	509	5-fluorouracil	ChemicalEntity	D005472
+25589620	511	515	5-FU	ChemicalEntity	D005472
+25589620	564	578	rectal cancers	DiseaseOrPhenotypicFeature	D012004
+25589620	605	609	5-FU	ChemicalEntity	D005472
+25589620	622	626	5-FU	ChemicalEntity	D005472
+25589620	719	723	5-FU	ChemicalEntity	D005472
+25589620	788	792	5-FU	ChemicalEntity	D005472
+25589620	866	874	patients	OrganismTaxon	9606
+25589620	990	998	formalin	ChemicalEntity	D005557
+25589620	1006	1014	paraffin	ChemicalEntity	D010232
+25589620	1031	1036	tumor	DiseaseOrPhenotypicFeature	D009369
+25589620	1196	1201	GSTP1	GeneOrGeneProduct	2950
+25589620	1202	1211	Ile105Val	SequenceVariant	rs1695
+25589620	1213	1219	rs1695	SequenceVariant	rs1695
+25589620	1423	1431	patients	OrganismTaxon	9606
+25589620	1443	1446	IL8	GeneOrGeneProduct	3576
+25589620	1446	1453	-251A/A	SequenceVariant	rs4073
+25589620	1464	1470	rs4073	SequenceVariant	rs4073
+25589620	1508	1518	toxicities	DiseaseOrPhenotypicFeature	D064420
+25589620	1535	1541	VEGFR2	GeneOrGeneProduct	3791
+25589620	1542	1547	H472Q	SequenceVariant	rs1870377
+25589620	1562	1571	rs1870377	SequenceVariant	rs1870377
+25589620	1666	1675	mucositis	DiseaseOrPhenotypicFeature	D052016
+25589620	1772	1781	mucositis	DiseaseOrPhenotypicFeature	D052016
+25589620	1807	1813	rs1695	SequenceVariant	rs1695
+25589620	1835	1843	patients	OrganismTaxon	9606
+25589620	1849	1862	rectal cancer	DiseaseOrPhenotypicFeature	D012004
+25589620	1890	1896	rs4073	SequenceVariant	rs4073
+25589620	1901	1910	rs1870377	SequenceVariant	rs1870377
+25589620	1951	1959	toxicity	DiseaseOrPhenotypicFeature	D064420
+25589620	1978	1982	5-FU	ChemicalEntity	D005472
+25589620	Association	rs4073	D005472	Novel
+25589620	Association	rs1695	D012004	Novel
+25589620	Positive_Correlation	rs1870377	D052016	Novel
+25589620	Association	rs1870377	D005472	Novel
+25589620	Association	3791	D052016	Novel
+25589620	Association	3791	D005472	No
+25589620	Association	3576	D005472	No
+25589620	Association	D012004	2950	Novel
+25589620	Negative_Correlation	D005472	D012004	No

@@ -1,0 +1,109 @@
+27636509|t|Interaction of multiple gene variants and their effects on schizophrenia phenotypes
+27636509|a|Schizophrenia is a clinically heterogeneous disorder and may be explained by its complex genetic architecture. Many schizophrenia susceptibility genes were identified but the picture remains unclear due to inconsistent or contradictory genetic association studies. This confusion may, in part, be because symptoms result from the combined interaction of many genes and these interacting genes are associated with specific sub-phenotypes of schizophrenia rather than schizophrenia as a whole. This study investigates the relationship between schizophrenia susceptibility genes and schizophrenia sub-phenotypes by identifying multiple gene variant interactions. Fifty SNPs from 21 genes were genotyped in 235 Australian participants with schizophrenia screened for various phenotypes. Schizophrenia participants were grouped into relevant phenotype clusters using cluster analysis and normalized phenotype cluster scores were calculated for each patient. The relationship between genotypes and normalized phenotype cluster scores were analyzed by linear regression analysis. Three phenotype clusters were identified. There was some overlap in symptoms between phenotype clusters, particularly for depression. However, cluster 1 appears to be characterized by speech disorder and affective behavior symptoms, cluster 2 has predominantly hallucination symptoms and cluster 3 has mainly delusion symptoms. Interaction of five SNPs was found to have an effect on cluster 1 symptoms; ten SNPs on cluster 2 symptoms; and eight SNPs on cluster 3 symptoms. The interaction of specific susceptibility genes is likely to lead to specific clinical sub-phenotypes of schizophrenia. Larger patient cohorts with more extensive clinical data will improve the detection of gene interactions and the resultant schizophrenia clinical phenotypes.
+27636509	0	11	Interaction	T169	C1704675
+27636509	15	23	multiple	T081	C0439064
+27636509	24	37	gene variants	T028	C0678941
+27636509	48	55	effects	T080	C1280500
+27636509	59	72	schizophrenia	T048	C0036341
+27636509	73	83	phenotypes	T032	C0031437
+27636509	84	97	Schizophrenia	T048	C0036341
+27636509	103	113	clinically	T080	C0205210
+27636509	114	136	heterogeneous disorder	T033	C1858576
+27636509	173	193	genetic architecture	T169	C0314603
+27636509	200	213	schizophrenia	T048	C0036341
+27636509	214	228	susceptibility	T201	C0012655
+27636509	229	234	genes	T028	C0017337
+27636509	240	250	identified	T080	C0205396
+27636509	290	302	inconsistent	T080	C0442809
+27636509	306	319	contradictory	T080	C0205556
+27636509	320	347	genetic association studies	T063	C2717878
+27636509	389	397	symptoms	T184	C1457887
+27636509	423	434	interaction	T169	C1704675
+27636509	443	448	genes	T028	C0017337
+27636509	459	470	interacting	T169	C1704675
+27636509	471	476	genes	T028	C0017337
+27636509	481	496	associated with	T080	C0332281
+27636509	497	505	specific	T080	C0205369
+27636509	506	520	sub-phenotypes	T032	C0031437
+27636509	524	537	schizophrenia	T048	C0036341
+27636509	550	563	schizophrenia	T048	C0036341
+27636509	587	599	investigates	T169	C1292732
+27636509	604	616	relationship	T080	C0439849
+27636509	625	638	schizophrenia	T048	C0036341
+27636509	639	653	susceptibility	T201	C0012655
+27636509	654	659	genes	T028	C0017337
+27636509	664	677	schizophrenia	T048	C0036341
+27636509	678	692	sub-phenotypes	T032	C0031437
+27636509	696	707	identifying	T080	C0205396
+27636509	708	716	multiple	T081	C0439064
+27636509	717	729	gene variant	T028	C0678941
+27636509	730	742	interactions	T169	C1704675
+27636509	750	754	SNPs	T086	C0752046
+27636509	763	768	genes	T028	C0017337
+27636509	774	783	genotyped	T059,T063	C3178894
+27636509	791	801	Australian	T098	C0238711
+27636509	802	814	participants	T098	C0679646
+27636509	820	833	schizophrenia	T048	C0036341
+27636509	834	842	screened	T058	C0220908
+27636509	855	865	phenotypes	T032	C0031437
+27636509	867	880	Schizophrenia	T048	C0036341
+27636509	881	893	participants	T098	C0679646
+27636509	912	920	relevant	T080	C2347946
+27636509	921	930	phenotype	T032	C0031437
+27636509	931	939	clusters	T081	C1704332
+27636509	946	962	cluster analysis	T062	C0009085
+27636509	967	977	normalized	T062	C1882115
+27636509	978	987	phenotype	T032	C0031437
+27636509	988	995	cluster	T081	C1704332
+27636509	996	1002	scores	T081	C0449820
+27636509	1028	1035	patient	T101	C0030705
+27636509	1041	1053	relationship	T080	C0439849
+27636509	1062	1071	genotypes	T032	C0017431
+27636509	1076	1086	normalized	T062	C1882115
+27636509	1087	1096	phenotype	T032	C0031437
+27636509	1097	1104	cluster	T081	C1704332
+27636509	1105	1111	scores	T081	C0449820
+27636509	1129	1155	linear regression analysis	T170	C0034980
+27636509	1163	1172	phenotype	T032	C0031437
+27636509	1173	1181	clusters	T081	C1704332
+27636509	1187	1197	identified	T080	C0205396
+27636509	1225	1233	symptoms	T184	C1457887
+27636509	1242	1251	phenotype	T032	C0031437
+27636509	1252	1260	clusters	T081	C1704332
+27636509	1279	1289	depression	T048	C0011570
+27636509	1300	1309	cluster 1	T081	C1704332
+27636509	1341	1356	speech disorder	T047	C0037822
+27636509	1371	1388	behavior symptoms	T184	C2039359
+27636509	1390	1399	cluster 2	T081	C1704332
+27636509	1418	1431	hallucination	T048	C0018524
+27636509	1432	1440	symptoms	T184	C1457887
+27636509	1445	1454	cluster 3	T081	C1704332
+27636509	1466	1474	delusion	T048	C0011253
+27636509	1475	1483	symptoms	T184	C1457887
+27636509	1485	1496	Interaction	T169	C1704675
+27636509	1505	1509	SNPs	T086	C0752046
+27636509	1541	1550	cluster 1	T081	C1704332
+27636509	1551	1559	symptoms	T184	C1457887
+27636509	1565	1569	SNPs	T086	C0752046
+27636509	1573	1582	cluster 2	T081	C1704332
+27636509	1583	1591	symptoms	T184	C1457887
+27636509	1603	1607	SNPs	T086	C0752046
+27636509	1611	1620	cluster 3	T081	C1704332
+27636509	1621	1629	symptoms	T184	C1457887
+27636509	1635	1646	interaction	T169	C1704675
+27636509	1650	1658	specific	T080	C0205369
+27636509	1659	1673	susceptibility	T201	C0012655
+27636509	1674	1679	genes	T028	C0017337
+27636509	1701	1709	specific	T080	C0205369
+27636509	1710	1718	clinical	T080	C0205210
+27636509	1719	1733	sub-phenotypes	T032	C0031437
+27636509	1737	1750	schizophrenia	T048	C0036341
+27636509	1759	1766	patient	T101	C0030705
+27636509	1767	1774	cohorts	T098	C0599755
+27636509	1795	1803	clinical	T080	C0205210
+27636509	1804	1808	data	T078	C1511726
+27636509	1826	1835	detection	T033	C0442726
+27636509	1839	1856	gene interactions	T045	C0596610
+27636509	1875	1888	schizophrenia	T048	C0036341
+27636509	1889	1897	clinical	T080	C0205210
+27636509	1898	1908	phenotypes	T032	C0031437

@@ -1,0 +1,45 @@
+18809400|t|Alpha-lipoic acid prevents mitochondrial damage and neurotoxicity in experimental chemotherapy neuropathy.
+18809400|a|The study investigates if alpha-lipoic acid is neuroprotective against chemotherapy induced neurotoxicity, if mitochondrial damage plays a critical role in toxic neurodegenerative cascade, and if neuroprotective effects of alpha-lipoic acid depend on mitochondria protection. We used an in vitro model of chemotherapy induced peripheral neuropathy that closely mimic the in vivo condition by exposing primary cultures of dorsal root ganglion (DRG) sensory neurons to paclitaxel and cisplatin, two widely used and highly effective chemotherapeutic drugs. This approach allowed investigating the efficacy of alpha-lipoic acid in preventing axonal damage and apoptosis and the function and ultrastructural morphology of mitochondria after exposure to toxic agents and alpha-lipoic acid. Our results demonstrate that both cisplatin and paclitaxel cause early mitochondrial impairment with loss of membrane potential and induction of autophagic vacuoles in neurons. Alpha-lipoic acid exerts neuroprotective effects against chemotherapy induced neurotoxicity in sensory neurons: it rescues the mitochondrial toxicity and induces the expression of frataxin, an essential mitochondrial protein with anti-oxidant and chaperone properties. In conclusion mitochondrial toxicity is an early common event both in paclitaxel and cisplatin induced neurotoxicity. Alpha-lipoic acid protects sensory neurons through its anti-oxidant and mitochondrial regulatory functions, possibly inducing the expression of frataxin. These findings suggest that alpha-lipoic acid might reduce the risk of developing peripheral nerve toxicity in patients undergoing chemotherapy and encourage further confirmatory clinical trials.
+18809400	0	17	Alpha-lipoic acid	ChemicalEntity	D008063
+18809400	27	47	mitochondrial damage	DiseaseOrPhenotypicFeature	D028361
+18809400	52	65	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+18809400	95	105	neuropathy	DiseaseOrPhenotypicFeature	D009422
+18809400	133	150	alpha-lipoic acid	ChemicalEntity	D008063
+18809400	199	212	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+18809400	217	237	mitochondrial damage	DiseaseOrPhenotypicFeature	D028361
+18809400	263	294	toxic neurodegenerative cascade	DiseaseOrPhenotypicFeature	D009410
+18809400	330	347	alpha-lipoic acid	ChemicalEntity	D008063
+18809400	433	454	peripheral neuropathy	DiseaseOrPhenotypicFeature	D010523
+18809400	574	584	paclitaxel	ChemicalEntity	D017239
+18809400	589	598	cisplatin	ChemicalEntity	D002945
+18809400	713	730	alpha-lipoic acid	ChemicalEntity	D008063
+18809400	745	758	axonal damage	DiseaseOrPhenotypicFeature	D020833
+18809400	872	889	alpha-lipoic acid	ChemicalEntity	D008063
+18809400	925	934	cisplatin	ChemicalEntity	D002945
+18809400	939	949	paclitaxel	ChemicalEntity	D017239
+18809400	962	986	mitochondrial impairment	DiseaseOrPhenotypicFeature	D028361
+18809400	1068	1085	Alpha-lipoic acid	ChemicalEntity	D008063
+18809400	1146	1159	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+18809400	1195	1217	mitochondrial toxicity	DiseaseOrPhenotypicFeature	D028361
+18809400	1248	1256	frataxin	GeneOrGeneProduct	2395
+18809400	1351	1373	mitochondrial toxicity	DiseaseOrPhenotypicFeature	D028361
+18809400	1407	1417	paclitaxel	ChemicalEntity	D017239
+18809400	1422	1431	cisplatin	ChemicalEntity	D002945
+18809400	1440	1453	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+18809400	1455	1472	Alpha-lipoic acid	ChemicalEntity	D008063
+18809400	1599	1607	frataxin	GeneOrGeneProduct	2395
+18809400	1637	1654	alpha-lipoic acid	ChemicalEntity	D008063
+18809400	1691	1716	peripheral nerve toxicity	DiseaseOrPhenotypicFeature	D010523
+18809400	1720	1728	patients	OrganismTaxon	9606
+18809400	Positive_Correlation	D002945	D020258	No
+18809400	Positive_Correlation	D002945	D028361	Novel
+18809400	Positive_Correlation	D017239	D020258	No
+18809400	Positive_Correlation	D017239	D028361	Novel
+18809400	Positive_Correlation	D010523	D002945	No
+18809400	Positive_Correlation	D010523	D017239	No
+18809400	Positive_Correlation	D008063	2395	Novel
+18809400	Negative_Correlation	D008063	D020833	Novel
+18809400	Negative_Correlation	D008063	D010523	Novel
+18809400	Association	D008063	D009422	Novel
+18809400	Negative_Correlation	D008063	D020258	Novel
+18809400	Negative_Correlation	D008063	D028361	Novel

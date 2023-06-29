@@ -1,0 +1,29 @@
+16005363|t|Identification of a novel WFS1 mutation (AFF344-345ins) in Japanese patients with Wolfram syndrome.
+16005363|a|Wolfram syndrome (WFS) is an autosomal recessive disorder characterized by early onset diabetes mellitus, progressive optic atrophy, sensorineural deafness and diabetes insipidus. Affected individuals may also have renal tract abnormalities as well as neurogical and psychiatric syndromes. WFS1 encoding a transmembrane protein was identified as the gene responsible for WFS. We report herein a Japanese family, of which two members had this syndrome. In the WFS1 gene of these patients, we identified a novel mutation, a nine nucleotide insertion (AFF344-345ins). In addition, one of these patients had preclinical hypopituitarism, which is an unusual feature of WFS. As only the two family members homozygous for the mutation showed WFS, these data support the notion that this mutation is the cause of WFS.
+16005363	26	30	WFS1	GeneOrGeneProduct	7466
+16005363	41	54	AFF344-345ins	SequenceVariant	p|INS|344_345|AFF
+16005363	68	76	patients	OrganismTaxon	9606
+16005363	82	98	Wolfram syndrome	DiseaseOrPhenotypicFeature	D014929
+16005363	100	116	Wolfram syndrome	DiseaseOrPhenotypicFeature	D014929
+16005363	118	121	WFS	DiseaseOrPhenotypicFeature	D014929
+16005363	129	157	autosomal recessive disorder	DiseaseOrPhenotypicFeature	D030342
+16005363	187	204	diabetes mellitus	DiseaseOrPhenotypicFeature	D003920
+16005363	218	231	optic atrophy	DiseaseOrPhenotypicFeature	D009896
+16005363	233	255	sensorineural deafness	DiseaseOrPhenotypicFeature	D006319
+16005363	260	278	diabetes insipidus	DiseaseOrPhenotypicFeature	D003919
+16005363	315	340	renal tract abnormalities	DiseaseOrPhenotypicFeature	D007674
+16005363	367	388	psychiatric syndromes	DiseaseOrPhenotypicFeature	D001523
+16005363	390	394	WFS1	GeneOrGeneProduct	7466
+16005363	471	474	WFS	DiseaseOrPhenotypicFeature	D014929
+16005363	559	563	WFS1	GeneOrGeneProduct	7466
+16005363	578	586	patients	OrganismTaxon	9606
+16005363	622	647	nine nucleotide insertion	SequenceVariant	c|INS||9
+16005363	649	662	AFF344-345ins	SequenceVariant	p|INS|344_345|AFF
+16005363	691	699	patients	OrganismTaxon	9606
+16005363	716	731	hypopituitarism	DiseaseOrPhenotypicFeature	D007018
+16005363	764	767	WFS	DiseaseOrPhenotypicFeature	D014929
+16005363	835	838	WFS	DiseaseOrPhenotypicFeature	D014929
+16005363	905	908	WFS	DiseaseOrPhenotypicFeature	D014929
+16005363	Positive_Correlation	c|INS||9	D014929	Novel
+16005363	Association	7466	D014929	Novel
+16005363	Positive_Correlation	p|INS|344_345|AFF	D014929	Novel

@@ -1,0 +1,76 @@
+28275119|t|Phase I Dose-Escalation Study of Pilaralisib (SAR245408, XL147) in Combination with Paclitaxel and Carboplatin in Patients with Solid Tumors
+28275119|a|Despite involvement of PI3K pathway activation in tumorigenesis of solid tumors, single-agent PI3K inhibitors have shown modest clinical activity. Preclinical evidence suggests that combining PI3K pathway inhibitors and chemotherapy can enhance antitumor effects .In patients with solid tumors, the PI3K inhibitor pilaralisib had a favorable safety profile but did not enhance the antitumor activity of paclitaxel plus carboplatin .Further clinical evaluation is warranted to identify effective combination strategies with PI3K pathway inhibitors. Pilaralisib (SAR245408) is an oral, pan-class I phosphoinositide 3-kinase (PI3K) inhibitor. This phase I dose-escalation study evaluated the maximum tolerated dose (MTD), safety, pharmacokinetics (PK), and pharmacodynamics of pilaralisib in capsule and tablet formulations, administered in combination with paclitaxel and carboplatin in patients with advanced solid tumors. A 3 + 3 design was used. Pilaralisib was administered once daily (QD); paclitaxel (up to 175 mg/m(2)) and carboplatin (up to area under the curve [AUC] of 6) were administered on day 1 of 21-day cycles. An MTD expansion cohort of patients with endometrial carcinoma was included. Fifty-eight patients were enrolled. Six patients (10.3%) had dose-limiting toxicities, of which only rash (two patients, 3.4%) occurred in more than one patient. The MTD of pilaralisib tablets in combination with paclitaxel and carboplatin was determined to be 200 mg QD. The most frequently reported adverse events (AEs) of any grade were neutropenia (67.2%) and thrombocytopenia (67.2%). PK data showed no interaction between pilaralisib and paclitaxel/carboplatin. Tumor tissue showed moderate inhibition of PI3K and mitogen-activated protein kinase (MAPK) pathways. Seven of 52 evaluable patients had a partial response (PR; 13.5%). Pilaralisib had a favorable safety profile but did not enhance the antitumor activity of paclitaxel plus carboplatin in solid tumors. The Oncologist 2017;22:377-378.
+28275119	0	7	Phase I	T062	UMLS:C0920321
+28275119	24	29	Study	T062	UMLS:C2603343
+28275119	33	44	Pilaralisib	T103	UMLS:C1254351
+28275119	46	55	SAR245408	T103	UMLS:C3657458
+28275119	57	62	XL147	T103	UMLS:C2347424
+28275119	67	110	Combination with Paclitaxel and Carboplatin	T058	UMLS:C0281297
+28275119	128	140	Solid Tumors	T038	UMLS:C0280100
+28275119	191	204	tumorigenesis	T038	UMLS:C0007621
+28275119	208	220	solid tumors	T038	UMLS:C0280100
+28275119	235	250	PI3K inhibitors	T103	UMLS:C4041090
+28275119	269	286	clinical activity	T170	UMLS:C1516654
+28275119	333	356	PI3K pathway inhibitors	T103	UMLS:C4041090
+28275119	361	373	chemotherapy	T058	UMLS:C3665472
+28275119	386	403	antitumor effects	T033	UMLS:C0243095
+28275119	422	434	solid tumors	T038	UMLS:C0280100
+28275119	440	454	PI3K inhibitor	T103	UMLS:C4041090
+28275119	455	466	pilaralisib	T103	UMLS:C1254351
+28275119	483	489	safety	T062	UMLS:C1705187
+28275119	490	497	profile	T058	UMLS:C1979963
+28275119	522	540	antitumor activity	T033	UMLS:C0243095
+28275119	544	571	paclitaxel plus carboplatin	T058	UMLS:C0281297
+28275119	581	600	clinical evaluation	T058	UMLS:C4084924
+28275119	636	647	combination	T103	UMLS:C0013162
+28275119	664	687	PI3K pathway inhibitors	T103	UMLS:C4041090
+28275119	689	700	Pilaralisib	T103	UMLS:C1254351
+28275119	702	711	SAR245408	T103	UMLS:C3657458
+28275119	719	723	oral	T103	UMLS:C1272919
+28275119	725	736	pan-class I	T170	UMLS:C0441885
+28275119	737	779	phosphoinositide 3-kinase (PI3K) inhibitor	T103	UMLS:C4041090
+28275119	786	793	phase I	T062	UMLS:C0920321
+28275119	810	815	study	T062	UMLS:C2603343
+28275119	816	825	evaluated	T058	UMLS:C0220825
+28275119	860	866	safety	T062	UMLS:C1705187
+28275119	868	884	pharmacokinetics	T038	UMLS:C0031327
+28275119	886	888	PK	T038	UMLS:C0031327
+28275119	895	911	pharmacodynamics	T038	UMLS:C0851347
+28275119	915	926	pilaralisib	T103	UMLS:C1254351
+28275119	930	937	capsule	T103	UMLS:C0006935
+28275119	942	948	tablet	T103	UMLS:C0039225
+28275119	949	961	formulations	T103	UMLS:C0013058
+28275119	979	1022	combination with paclitaxel and carboplatin	T058	UMLS:C0281297
+28275119	1049	1061	solid tumors	T038	UMLS:C0280100
+28275119	1088	1099	Pilaralisib	T103	UMLS:C1254351
+28275119	1134	1144	paclitaxel	T103	UMLS:C0144576
+28275119	1169	1180	carboplatin	T103	UMLS:C0079083
+28275119	1283	1289	cohort	T098	UMLS:C0599755
+28275119	1307	1328	endometrial carcinoma	T038	UMLS:C0476089
+28275119	1418	1428	toxicities	T037	UMLS:C0013221
+28275119	1444	1448	rash	T033	UMLS:C0015230
+28275119	1516	1527	pilaralisib	T103	UMLS:C1254351
+28275119	1528	1535	tablets	T103	UMLS:C0039225
+28275119	1539	1582	combination with paclitaxel and carboplatin	T058	UMLS:C0281297
+28275119	1635	1643	reported	T058	UMLS:C0700287
+28275119	1644	1658	adverse events	T038	UMLS:C0877248
+28275119	1660	1663	AEs	T038	UMLS:C0877248
+28275119	1672	1677	grade	T170	UMLS:C0441800
+28275119	1683	1694	neutropenia	T038	UMLS:C0027947
+28275119	1707	1723	thrombocytopenia	T038	UMLS:C0040034
+28275119	1733	1735	PK	T038	UMLS:C0031327
+28275119	1748	1750	no	T033	UMLS:C1513916
+28275119	1751	1762	interaction	T038	UMLS:C0687133
+28275119	1771	1782	pilaralisib	T103	UMLS:C1254351
+28275119	1787	1809	paclitaxel/carboplatin	T058	UMLS:C0281297
+28275119	1811	1823	Tumor tissue	T017	UMLS:C0475358
+28275119	1840	1850	inhibition	T038	UMLS:C0021469
+28275119	1863	1911	mitogen-activated protein kinase (MAPK) pathways	T038	UMLS:C1518102
+28275119	1950	1966	partial response	T033	UMLS:C1521726
+28275119	1968	1970	PR	T033	UMLS:C1521726
+28275119	1980	1991	Pilaralisib	T103	UMLS:C1254351
+28275119	2008	2014	safety	T062	UMLS:C1705187
+28275119	2015	2022	profile	T058	UMLS:C1979963
+28275119	2047	2065	antitumor activity	T033	UMLS:C0243095
+28275119	2069	2096	paclitaxel plus carboplatin	T058	UMLS:C0281297
+28275119	2100	2112	solid tumors	T038	UMLS:C0280100

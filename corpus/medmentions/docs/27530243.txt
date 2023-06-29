@@ -1,0 +1,96 @@
+27530243|t|Drug-drug interactions of cytostatics with regular medicines in lung cancer patients
+27530243|a|Lung cancer patients have a high risk for drug-drug interactions, as they use numerous types of concomitant medicines including antineoplastic agents, cancer treatment co-medication, and medicines aimed at several types of comorbidities. The primary objective of this study is to determine the incidence and the clinical relevance of the drug-drug interactions between antineoplastic agents and regular medication used by lung cancer patients. Secondary objectives are (i) to determine the effectiveness of the medication review by the hospital pharmacists concerned, (ii) to establish which patients are most at risk of drug-drug interactions and (iii) to determine whether physicians comply with advice given by hospital pharmacists. This prospective study was undertaken in a Dutch hospital pharmacy, at Onze Lieve Vrouwe Gasthuis (OLVG), Amsterdam. All lung cancer patients receiving one or more cytotoxic agents during the period 21 June 2010 till 2 December 2014 at OLVG were included. The medication list of the patients was obtained electronically from the community pharmacy and checked for interactions by a hospital pharmacist. Interactions that required intervention according to the national database were the only ones taken into account. Interventions were recorded in the patients ' electronic chart s. All medication reviews were cross-checked and analyzed by an independent pharmacist at the end of the study period. Prevalence and clinical relevance of drug-drug interactions between antineoplastic agents and other types of medication in lung cancer patients. A total of 298 lung cancer patients were included in this study. In 53 patients (18%), a total of 73 interactions with potential clinical relevance were found. The most frequent interaction was between cytostatics and coumarins while the most relevant one was between cisplatin and furosemide. According to statistical analysis, gender as well as the number of drugs prescribed were significant predictors for drug-drug interactions. Eighty-four percent of the interactions were discovered by pharmacists during daily routine. In 92% of the cases, the pulmonary physicians complied with the advice of the pharmacist. Eighteen percent of lung cancer patients treated with cytotoxic therapy had one or more relevant drug-drug interactions. This study shows that medication surveillance by a hospital pharmacist is necessary to prevent possible negative drug-drug interactions. Further research should focus on the clinical outcome of the interactions as well as on interactions between cytostatics and alternative medicines and/or over-the-counter medicines.
+27530243	0	22	Drug-drug interactions	T044	C0687133
+27530243	26	37	cytostatics	T121	C0010858
+27530243	43	60	regular medicines	T121	C0013227
+27530243	64	75	lung cancer	T191	C0242379
+27530243	76	84	patients	T101	C0030705
+27530243	85	96	Lung cancer	T191	C0242379
+27530243	97	105	patients	T101	C0030705
+27530243	127	149	drug-drug interactions	T044	C0687133
+27530243	181	192	concomitant	T079	C0521115
+27530243	193	202	medicines	T121	C0013227
+27530243	213	234	antineoplastic agents	T109,T121	C0003392
+27530243	236	252	cancer treatment	T061	C0920425
+27530243	253	266	co-medication	T121	C0013227
+27530243	272	281	medicines	T121	C0013227
+27530243	272	281	medicines	T121	C0013227
+27530243	308	321	comorbidities	T078	C0009488
+27530243	397	405	clinical	T080	C0205210
+27530243	406	415	relevance	T080	C2347946
+27530243	423	445	drug-drug interactions	T044	C0687133
+27530243	454	475	antineoplastic agents	T109,T121	C0003392
+27530243	480	498	regular medication	T121	C0013227
+27530243	507	518	lung cancer	T191	C0242379
+27530243	519	527	patients	T101	C0030705
+27530243	575	588	effectiveness	T080	C1280519
+27530243	596	606	medication	T121	C0013227
+27530243	621	641	hospital pharmacists	T097	C0402002
+27530243	677	685	patients	T101	C0030705
+27530243	695	702	at risk	T080	C1444641
+27530243	706	728	drug-drug interactions	T044	C0687133
+27530243	760	770	physicians	T097	C0031831
+27530243	799	819	hospital pharmacists	T097	C0402002
+27530243	826	843	prospective study	T062	C0033522
+27530243	864	887	Dutch hospital pharmacy	T058	C0031321
+27530243	892	918	Onze Lieve Vrouwe Gasthuis	T083	C0017446
+27530243	920	924	OLVG	T083	C0017446
+27530243	927	936	Amsterdam	T083	C0017446
+27530243	942	953	lung cancer	T191	C0242379
+27530243	954	962	patients	T101	C0030705
+27530243	985	1001	cytotoxic agents	T121	C0304497
+27530243	1057	1061	OLVG	T083	C0017446
+27530243	1081	1091	medication	T121	C0013227
+27530243	1104	1112	patients	T101	C0030705
+27530243	1150	1168	community pharmacy	T093	C0009478
+27530243	1185	1197	interactions	T044	C0687133
+27530243	1203	1222	hospital pharmacist	T097	C0402002
+27530243	1224	1236	Interactions	T044	C0687133
+27530243	1251	1263	intervention	T061	C0184661
+27530243	1281	1298	national database	T170	C0242356
+27530243	1338	1351	Interventions	T061	C0184661
+27530243	1373	1381	patients	T101	C0030705
+27530243	1384	1400	electronic chart	T170	C0282574
+27530243	1408	1418	medication	T121	C0013227
+27530243	1465	1487	independent pharmacist	T097	C0031323
+27530243	1535	1543	clinical	T080	C0205210
+27530243	1544	1553	relevance	T080	C2347946
+27530243	1557	1579	drug-drug interactions	T044	C0687133
+27530243	1588	1609	antineoplastic agents	T109,T121	C0003392
+27530243	1629	1639	medication	T121	C0013227
+27530243	1643	1654	lung cancer	T191	C0242379
+27530243	1655	1663	patients	T101	C0030705
+27530243	1680	1691	lung cancer	T191	C0242379
+27530243	1692	1700	patients	T101	C0030705
+27530243	1736	1744	patients	T101	C0030705
+27530243	1766	1778	interactions	T044	C0687133
+27530243	1794	1802	clinical	T080	C0205210
+27530243	1803	1812	relevance	T080	C2347946
+27530243	1843	1854	interaction	T044	C0687133
+27530243	1867	1878	cytostatics	T121	C0010858
+27530243	1883	1892	coumarins	T109,T121	C0010207
+27530243	1933	1942	cisplatin	T121,T197	C0008838
+27530243	1947	1957	furosemide	T109,T121	C0016860
+27530243	1972	1992	statistical analysis	T062	C0871424
+27530243	1994	2000	gender	T032	C0079399
+27530243	2026	2042	drugs prescribed	T121	C3166216
+27530243	2048	2070	significant predictors	T078	C2698872
+27530243	2075	2097	drug-drug interactions	T044	C0687133
+27530243	2126	2138	interactions	T044	C0687133
+27530243	2158	2169	pharmacists	T097	C0031323
+27530243	2217	2237	pulmonary physicians	T097	C1555769
+27530243	2270	2280	pharmacist	T097	C0031323
+27530243	2302	2313	lung cancer	T191	C0242379
+27530243	2314	2322	patients	T101	C0030705
+27530243	2336	2353	cytotoxic therapy	T061	C0677881
+27530243	2370	2378	relevant	T080	C2347946
+27530243	2379	2401	drug-drug interactions	T044	C0687133
+27530243	2425	2435	medication	T121	C0013227
+27530243	2454	2473	hospital pharmacist	T097	C0402002
+27530243	2507	2538	negative drug-drug interactions	T046	C0678798
+27530243	2577	2593	clinical outcome	T081	C0086749
+27530243	2601	2613	interactions	T044	C0687133
+27530243	2628	2640	interactions	T044	C0687133
+27530243	2649	2660	cytostatics	T121	C0010858
+27530243	2665	2686	alternative medicines	T091	C0002346
+27530243	2711	2720	medicines	T121	C0013227

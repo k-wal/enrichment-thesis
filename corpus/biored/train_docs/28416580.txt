@@ -1,0 +1,69 @@
+28416580|t|A TSPO ligand attenuates brain injury after intracerebral hemorrhage.
+28416580|a|Intracerebral hemorrhage (ICH) is a devastating disease without effective treatment. After ICH, the immediate infiltration of leukocytes and activation of microglia are accompanied by a rapid up-regulation of the 18-kDa translocator protein (TSPO). TSPO ligands have shown anti-inflammatory and neuroprotective properties in models of CNS injury. In this study, we determined the impact of a TSPO ligand, etifoxine, on brain injury and inflammation in 2 mouse models of ICH. TSPO was up-regulated in Iba1(+) cells from brains of patients with ICH and in CD11b(+)CD45(int) cells from mice subjected to collagenase-induced ICH. Etifoxine significantly reduced neurodeficits and perihematomal brain edema after ICH induction by injection of either autologous blood or collagenase. In collagenase-induced ICH mice, the protection of etifoxine was associated with reduced leukocyte infiltration into the brain and microglial production of IL-6 and TNF-a. Etifoxine improved blood-brain barrier integrity and diminished cell death. Notably, the protective effect of etifoxine was abolished in mice depleted of microglia by using a colony-stimulating factor 1 receptor inhibitor. These results indicate that the TSPO ligand etifoxine attenuates brain injury and inflammation after ICH. TSPO may be a viable therapeutic target that requires further investigations in ICH.-Li, M., Ren, H., Sheth, K. N., Shi, F.-D., Liu, Q. A TSPO ligand attenuates brain injury after intracerebral hemorrhage.
+28416580	2	6	TSPO	GeneOrGeneProduct	12257
+28416580	25	37	brain injury	DiseaseOrPhenotypicFeature	D001927
+28416580	44	68	intracerebral hemorrhage	DiseaseOrPhenotypicFeature	D002543
+28416580	70	94	Intracerebral hemorrhage	DiseaseOrPhenotypicFeature	D002543
+28416580	96	99	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	161	164	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	290	310	translocator protein	GeneOrGeneProduct	12257
+28416580	312	316	TSPO	GeneOrGeneProduct	12257
+28416580	319	323	TSPO	GeneOrGeneProduct	12257
+28416580	348	360	inflammatory	DiseaseOrPhenotypicFeature	D007249
+28416580	405	415	CNS injury	DiseaseOrPhenotypicFeature	D002493
+28416580	462	466	TSPO	GeneOrGeneProduct	12257
+28416580	475	484	etifoxine	ChemicalEntity	C002125
+28416580	489	501	brain injury	DiseaseOrPhenotypicFeature	D001927
+28416580	506	518	inflammation	DiseaseOrPhenotypicFeature	D007249
+28416580	524	529	mouse	OrganismTaxon	10090
+28416580	540	543	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	545	549	TSPO	GeneOrGeneProduct	706
+28416580	570	574	Iba1	GeneOrGeneProduct	199
+28416580	599	607	patients	OrganismTaxon	9606
+28416580	613	616	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	624	629	CD11b	GeneOrGeneProduct	16409
+28416580	632	636	CD45	GeneOrGeneProduct	19264
+28416580	653	657	mice	OrganismTaxon	10090
+28416580	671	682	collagenase	ChemicalEntity	D017364
+28416580	691	694	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	696	705	Etifoxine	ChemicalEntity	C002125
+28416580	728	741	neurodeficits	DiseaseOrPhenotypicFeature	D001927
+28416580	760	771	brain edema	DiseaseOrPhenotypicFeature	D001929
+28416580	778	781	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	835	846	collagenase	ChemicalEntity	D017364
+28416580	851	862	collagenase	ChemicalEntity	D017364
+28416580	871	874	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	875	879	mice	OrganismTaxon	10090
+28416580	899	908	etifoxine	ChemicalEntity	C002125
+28416580	1004	1008	IL-6	GeneOrGeneProduct	16193
+28416580	1013	1018	TNF-a	GeneOrGeneProduct	21926
+28416580	1020	1029	Etifoxine	ChemicalEntity	C002125
+28416580	1130	1139	etifoxine	ChemicalEntity	C002125
+28416580	1157	1161	mice	OrganismTaxon	10090
+28416580	1195	1231	colony-stimulating factor 1 receptor	GeneOrGeneProduct	12978
+28416580	1275	1279	TSPO	GeneOrGeneProduct	12257
+28416580	1287	1296	etifoxine	ChemicalEntity	C002125
+28416580	1308	1320	brain injury	DiseaseOrPhenotypicFeature	D001927
+28416580	1325	1337	inflammation	DiseaseOrPhenotypicFeature	D007249
+28416580	1344	1347	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	1349	1353	TSPO	GeneOrGeneProduct	12257
+28416580	1429	1432	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	1487	1491	TSPO	GeneOrGeneProduct	12257
+28416580	1510	1522	brain injury	DiseaseOrPhenotypicFeature	D001927
+28416580	1529	1553	intracerebral hemorrhage	DiseaseOrPhenotypicFeature	D002543
+28416580	Positive_Correlation	D017364	D002543	No
+28416580	Association	D002543	199	No
+28416580	Association	706	D002543	Novel
+28416580	Positive_Correlation	706	199	Novel
+28416580	Association	12257	D002493	No
+28416580	Association	12257	D002543	Novel
+28416580	Association	12257	D007249	No
+28416580	Association	12257	D001927	No
+28416580	Association	12257	C002125	No
+28416580	Association	C002125	12978	Novel
+28416580	Positive_Correlation	C002125	21926	Novel
+28416580	Positive_Correlation	C002125	16193	Novel
+28416580	Negative_Correlation	C002125	D001929	Novel
+28416580	Negative_Correlation	C002125	D002543	Novel
+28416580	Negative_Correlation	C002125	D007249	Novel
+28416580	Negative_Correlation	C002125	D001927	Novel

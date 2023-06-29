@@ -1,0 +1,87 @@
+27248656|t|Hsp90beta is involved in the development of high salt-diet-induced nephropathy via interaction with various signalling proteins.
+27248656|a|A high-salt diet often leads to a local intrarenal increase in renal hypoxia and oxidative stress, which are responsible for an excess production of pathogenic substances. Here, Wistar Kyoto/spontaneous hypertensive (WKY/SHR) rats fed a high-salt diet developed severe proteinuria, resulting from pronounced renal inflammation, fibrosis and tubular epithelial cell apoptosis. All these were mainly non-pressure-related effects. Hsp90beta, TGF-beta, HIF-1alpha, TNF-alpha, IL-6 and MCP-1 were shown to be highly expressed in response to salt loading. Next, we found that Hsp90beta might play the key role in non-pressure-related effects of salt loading through a series of cellular signalling events, including the NF-kappaB, p38 activation and Bcl-2 inactivation. Hsp90beta was previously proven to regulate the upstream mediators in multiple cellular signalling cascades through stabilizing and maintaining their activities. In our study, 17-dimethylaminoethylamino-17-demethoxygeldanamycin (17-DMAG) or Hsp90beta knockdown dramatically alleviated the high-salt-diet-induced proteinuria and renal damage without altering blood pressure significantly, when it reversed activations of NF-kappaB, mTOR and p38 signalling cascades. Meanwhile, Co-IP results demonstrated that Hsp90beta could interact with and stabilize TAK1, AMPKalpha, IKKalpha/beta, HIF-1alpha and Raptor, whereas Hsp90beta inhibition disrupted this process. In addition, Hsp90beta inhibition-mediated renal improvements also accompanied the reduction of renal oxidative stress. In conclusion, salt loading indeed exhibited non-pressure-related impacts on proteinuria and renal dysfunction in WKY/SHR rats. Hsp90beta inhibition caused the destabilization of upstream mediators in various pathogenic signalling events, thereby effectively ameliorating this nephropathy owing to renal hypoxia and oxidative stress. 
+27248656	0	9	Hsp90beta	GeneOrGeneProduct	301252
+27248656	49	53	salt	ChemicalEntity	D012492
+27248656	67	78	nephropathy	DiseaseOrPhenotypicFeature	D007674
+27248656	136	140	salt	ChemicalEntity	D012492
+27248656	192	205	renal hypoxia	DiseaseOrPhenotypicFeature	D007674
+27248656	332	344	hypertensive	DiseaseOrPhenotypicFeature	D006973
+27248656	355	359	rats	OrganismTaxon	10116
+27248656	371	375	salt	ChemicalEntity	D012492
+27248656	398	409	proteinuria	DiseaseOrPhenotypicFeature	D011507
+27248656	437	455	renal inflammation	DiseaseOrPhenotypicFeature	D007674
+27248656	457	465	fibrosis	DiseaseOrPhenotypicFeature	D005355
+27248656	557	566	Hsp90beta	GeneOrGeneProduct	301252
+27248656	568	577	TGF-beta,	GeneOrGeneProduct	59086
+27248656	578	588	HIF-1alpha	GeneOrGeneProduct	29560
+27248656	590	599	TNF-alpha	GeneOrGeneProduct	24835
+27248656	601	605	IL-6	GeneOrGeneProduct	24498
+27248656	610	615	MCP-1	GeneOrGeneProduct	24770
+27248656	665	669	salt	ChemicalEntity	D012492
+27248656	699	708	Hsp90beta	GeneOrGeneProduct	301252
+27248656	768	772	salt	ChemicalEntity	D012492
+27248656	843	852	NF-kappaB	GeneOrGeneProduct	81736
+27248656	854	857	p38	GeneOrGeneProduct	81649
+27248656	873	878	Bcl-2	GeneOrGeneProduct	24224
+27248656	893	902	Hsp90beta	GeneOrGeneProduct	301252
+27248656	1069	1120	17-dimethylaminoethylamino-17-demethoxygeldanamycin	ChemicalEntity	C448659
+27248656	1122	1129	17-DMAG	ChemicalEntity	C448659
+27248656	1134	1143	Hsp90beta	GeneOrGeneProduct	301252
+27248656	1187	1191	salt	ChemicalEntity	D012492
+27248656	1205	1216	proteinuria	DiseaseOrPhenotypicFeature	D011507
+27248656	1221	1233	renal damage	DiseaseOrPhenotypicFeature	D007674
+27248656	1313	1322	NF-kappaB	GeneOrGeneProduct	81736
+27248656	1324	1328	mTOR	GeneOrGeneProduct	56718
+27248656	1333	1336	p38	GeneOrGeneProduct	81649
+27248656	1401	1410	Hsp90beta	GeneOrGeneProduct	301252
+27248656	1445	1449	TAK1	GeneOrGeneProduct	313121
+27248656	1451	1460	AMPKalpha	GeneOrGeneProduct	65248
+27248656	1462	1475	IKKalpha/beta	GeneOrGeneProduct	309361,84351
+27248656	1477	1487	HIF-1alpha	GeneOrGeneProduct	29560
+27248656	1492	1498	Raptor	GeneOrGeneProduct	287871
+27248656	1508	1517	Hsp90beta	GeneOrGeneProduct	301252
+27248656	1566	1575	Hsp90beta	GeneOrGeneProduct	301252
+27248656	1688	1692	salt	ChemicalEntity	D012492
+27248656	1750	1761	proteinuria	DiseaseOrPhenotypicFeature	D011507
+27248656	1766	1783	renal dysfunction	DiseaseOrPhenotypicFeature	D051437
+27248656	1795	1799	rats	OrganismTaxon	10116
+27248656	1801	1810	Hsp90beta	GeneOrGeneProduct	301252
+27248656	1950	1961	nephropathy	DiseaseOrPhenotypicFeature	D007674
+27248656	1971	1984	renal hypoxia	DiseaseOrPhenotypicFeature	D007674
+27248656	Association	D011507	56718	No
+27248656	Association	D011507	81649	No
+27248656	Association	D011507	81736	No
+27248656	Association	C448659	56718	Novel
+27248656	Negative_Correlation	C448659	D011507	Novel
+27248656	Association	C448659	81649	Novel
+27248656	Association	C448659	81736	Novel
+27248656	Negative_Correlation	C448659	D007674	Novel
+27248656	Association	C448659	D012492	Novel
+27248656	Positive_Correlation	24770	D012492	Novel
+27248656	Positive_Correlation	24498	D012492	Novel
+27248656	Positive_Correlation	24835	D012492	Novel
+27248656	Positive_Correlation	29560	D012492	Novel
+27248656	Positive_Correlation	59086	D012492	Novel
+27248656	Association	D007674	56718	No
+27248656	Association	D007674	81649	No
+27248656	Association	D007674	81736	No
+27248656	Association	D012492	D006973	Novel
+27248656	Positive_Correlation	D012492	D051437	Novel
+27248656	Positive_Correlation	D012492	D011507	Novel
+27248656	Association	D012492	24224	Novel
+27248656	Positive_Correlation	D012492	81649	Novel
+27248656	Positive_Correlation	D012492	81736	Novel
+27248656	Positive_Correlation	D012492	D007674	Novel
+27248656	Association	301252	287871	Novel
+27248656	Association	301252	84351	Novel
+27248656	Association	301252	309361	Novel
+27248656	Association	301252	65248	Novel
+27248656	Association	301252	313121	Novel
+27248656	Association	301252	56718	Novel
+27248656	Association	301252	D011507	Novel
+27248656	Negative_Correlation	301252	24224	Novel
+27248656	Positive_Correlation	301252	81649	Novel
+27248656	Positive_Correlation	301252	81736	Novel
+27248656	Association	301252	29560	Novel
+27248656	Association	301252	D007674	Novel
+27248656	Positive_Correlation	301252	D012492	Novel

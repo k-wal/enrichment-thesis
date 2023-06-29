@@ -1,0 +1,49 @@
+28487818|t|Modeling adsorption of brominated, chlorinated and mixed bromo / chloro-dibenzo-p-dioxins on C60 fullerene using Nano-QSPR
+28487818|a|Many technological implementations in the field of nanotechnology have involved carbon nanomaterials, including fullerenes such as the buckminsterfullerene, C60. The unprecedented properties of such organic nanomaterials (in particular their large surface area) gained extensive attention for their potential use as organic pollutant sorbents. Sorption interactions can be very hazardous and useful at the same time. This work investigates the influence of halogenation by bromine and/or chlorine in dibenzo-p-dioxins on their sorption ability on the C60 fullerene surface. Halogenated dibenzo-p-dioxins (PXDDs, where X = Br or Cl) are ever-present in the environment and accidently produced in many technological processes in only approximately known quantities. If all combinatorial Br and/or Cl dioxin substitution possibilities are present in the environment, the experimental characterization and investigation of sorbent effectiveness is more than difficult. In this work, we have developed a quantitative structure-property relationship (QSPR) model (R(2) = 0.998), predicting the adsorption energy [kcal/mol] for 1,701 PXDDs adsorbed on C60 (PXDD @ C60). Based on the QSPR model reported herein, we concluded that the lowest energy PXDD @ C60 complexes are those that the World Health Organization (WHO) considers to be less dangerous with respect to the aryl hydrocarbon receptor (AhR) toxicity mechanism. Therefore, the effectiveness of fullerenes as sorbent agents may be underestimated as sorption could be less effective for toxic congeners than previously believed.
+28487818	0	8	Modeling	T062	UMLS:C0870071
+28487818	9	19	adsorption	T058	UMLS:C0001674
+28487818	23	33	brominated	T103	UMLS:C1723493
+28487818	35	46	chlorinated	T103	UMLS:C4277576
+28487818	57	62	bromo	T103	UMLS:C1723493
+28487818	65	89	chloro-dibenzo-p-dioxins	T103	UMLS:C4277576
+28487818	93	106	C60 fullerene	T103	UMLS:C0118354
+28487818	203	209	carbon	T103	UMLS:C0007009
+28487818	235	245	fullerenes	T103	UMLS:C0302934
+28487818	258	278	buckminsterfullerene	T103	UMLS:C3665327
+28487818	280	283	C60	T103	UMLS:C3665327
+28487818	447	456	pollutant	T103	UMLS:C0599786
+28487818	596	603	bromine	T103	UMLS:C0006223
+28487818	611	619	chlorine	T103	UMLS:C0008209
+28487818	623	640	dibenzo-p-dioxins	T103	UMLS:C1723493
+28487818	674	687	C60 fullerene	T103	UMLS:C0118354
+28487818	688	695	surface	T082	UMLS:C0205148
+28487818	709	726	dibenzo-p-dioxins	T103	UMLS:C1723493
+28487818	728	733	PXDDs	T103	UMLS:C1723493
+28487818	745	747	Br	T103	UMLS:C0006223
+28487818	751	753	Cl	T103	UMLS:C0008209
+28487818	779	790	environment	T082	UMLS:C0014406
+28487818	795	805	accidently	T033	UMLS:C0243095
+28487818	908	910	Br	T103	UMLS:C0006223
+28487818	918	920	Cl	T103	UMLS:C0008209
+28487818	921	927	dioxin	T103	UMLS:C0012503
+28487818	959	966	present	T033	UMLS:C0150312
+28487818	974	985	environment	T082	UMLS:C0014406
+28487818	1004	1020	characterization	T170	UMLS:C0243175
+28487818	1025	1038	investigation	T058	UMLS:C0220825
+28487818	1174	1179	model	T170	UMLS:C3161035
+28487818	1211	1221	adsorption	T058	UMLS:C0001674
+28487818	1250	1255	PXDDs	T103	UMLS:C1723493
+28487818	1268	1271	C60	T103	UMLS:C3665327
+28487818	1273	1277	PXDD	T103	UMLS:C1723493
+28487818	1280	1283	C60	T103	UMLS:C3665327
+28487818	1304	1309	model	T170	UMLS:C3161035
+28487818	1310	1318	reported	T170	UMLS:C0684224
+28487818	1363	1367	PXDD	T103	UMLS:C1723493
+28487818	1370	1373	C60	T103	UMLS:C3665327
+28487818	1374	1383	complexes	T103	UMLS:C1704241
+28487818	1403	1428	World Health Organization	T092	UMLS:C0043237
+28487818	1430	1433	WHO	T092	UMLS:C0043237
+28487818	1486	1511	aryl hydrocarbon receptor	T103	UMLS:C0052441
+28487818	1513	1516	AhR	T103	UMLS:C0052441
+28487818	1570	1580	fullerenes	T103	UMLS:C0302934
+28487818	1592	1598	agents	T103	UMLS:C0450442

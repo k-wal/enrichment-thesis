@@ -1,0 +1,59 @@
+27708057|t|Systematic mapping of functional enhancer - promoter connections with CRISPR interference
+27708057|a|Gene expression in mammals is regulated by noncoding elements that can affect physiology and disease, yet the functions and target genes of most noncoding elements remain unknown. We present a high-throughput approach that uses clustered regularly interspaced short palindromic repeats (CRISPR) interference (CRISPRi) to discover regulatory elements and identify their target genes. We assess >1 megabase of sequence in the vicinity of two essential transcription factors, MYC and GATA1, and identify nine distal enhancers that control gene expression and cellular proliferation. Quantitative features of chromatin state and chromosome conformation distinguish the seven enhancers that regulate MYC from other elements that do not, suggesting a strategy for predicting enhancer - promoter connectivity. This CRISPRi -based approach can be applied to dissect transcriptional networks and interpret the contributions of noncoding genetic variation to human disease.
+27708057	0	18	Systematic mapping	T062	C0079435
+27708057	22	32	functional	T169	C0205245
+27708057	33	41	enhancer	T114,T123	C0014290
+27708057	44	52	promoter	T114,T123	C2350877
+27708057	53	64	connections	T169	C0205245
+27708057	70	76	CRISPR	T114	C3658200
+27708057	70	89	CRISPR interference	T059	C0200924
+27708057	90	105	Gene expression	T045	C0017262
+27708057	109	116	mammals	T015	C0024660
+27708057	120	129	regulated	T045	C0017263
+27708057	133	151	noncoding elements	T114,T123	C0021920
+27708057	168	178	physiology	T039	C0031843
+27708057	183	190	disease	T047	C0012634
+27708057	200	209	functions	T169	C0542341
+27708057	214	226	target genes	T028	C0017337
+27708057	235	253	noncoding elements	T114,T123	C0021920
+27708057	261	268	unknown	T080	C0439673
+27708057	283	307	high-throughput approach	T170	C0872047
+27708057	318	375	clustered regularly interspaced short palindromic repeats	T114	C3658200
+27708057	318	397	clustered regularly interspaced short palindromic repeats (CRISPR) interference	T059	C0200924
+27708057	377	383	CRISPR	T114	C3658200
+27708057	399	406	CRISPRi	T059	C0200924
+27708057	420	439	regulatory elements	T114,T123	C0021920
+27708057	459	471	target genes	T028	C0017337
+27708057	476	482	assess	T058	C0184514
+27708057	486	494	megabase	T081	C1533164
+27708057	498	506	sequence	T086	C0004793
+27708057	540	561	transcription factors	T116,T123	C0040648
+27708057	563	566	MYC	T116,T123	C1137610
+27708057	571	576	GATA1	T116,T123	C1530719
+27708057	596	602	distal	T082	C0205108
+27708057	603	612	enhancers	T114,T123	C0014290
+27708057	618	625	control	T080	C0243148
+27708057	626	641	gene expression	T045	C0017262
+27708057	646	668	cellular proliferation	T043	C0596290
+27708057	670	682	Quantitative	T081	C0392762
+27708057	683	691	features	T080	C2348519
+27708057	695	704	chromatin	T116	C0008546
+27708057	705	710	state	T169	C1442792
+27708057	715	725	chromosome	T026	C0008633
+27708057	726	738	conformation	T033	C1299941
+27708057	761	770	enhancers	T114,T123	C0014290
+27708057	785	788	MYC	T116,T123	C1137610
+27708057	800	808	elements	T086	C0004793
+27708057	835	843	strategy	T169	C0449851
+27708057	859	867	enhancer	T114,T123	C0014290
+27708057	870	878	promoter	T114,T123	C2350877
+27708057	879	891	connectivity	T169	C0205245
+27708057	898	905	CRISPRi	T059	C0200924
+27708057	913	921	approach	T169	C1292724
+27708057	940	947	dissect	T169	C0205239
+27708057	948	972	transcriptional networks	T044	C1720950
+27708057	977	986	interpret	T169	C1285553
+27708057	991	1004	contributions	T052	C1880177
+27708057	1008	1035	noncoding genetic variation	T070	C0042333
+27708057	1039	1044	human	T016	C0086418
+27708057	1045	1052	disease	T047	C0012634

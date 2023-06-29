@@ -1,0 +1,93 @@
+27393252|t|Parkinson subtype -specific Granger-causal coupling and coherence frequency in the subthalamic area
+27393252|a|Previous work on Parkinson's disease (PD) has indicated a predominantly afferent coupling between affected arm muscle activity and electrophysiological activity within the subthalamic nucleus (STN). So far, no information is available indicating which frequency components drive the afferent information flow in PD patients. Non-directional coupling e.g. by measuring coherence is primarily established in the beta band as well as at tremor frequency. Based on previous evidence it is likely that different subtypes of the disease are associated with different connectivity patterns. Therefore, we determined coherence and causality between local field potentials (LFPs) in the STN and surface electromyograms (EMGs) from the contralateral arm in 18 akinetic-rigid (AR) PD patients and 8 tremor-dominant (TD) PD patients. During the intraoperative recording, patients were asked to lift their forearm contralateral to the recording side. Significantly more afferent connections were detected for the TD patients for tremor -periods and non- tremor -periods combined as well as for only tremor periods. Within the STN 74% and 63% of the afferent connections are associated with coherence from 4-8Hz and 8-12Hz, respectively. However, when considering only tremor -periods significantly more afferent than efferent connections were associated with coherence from 12 to 20Hz across all recording heights. No difference between efferent and afferent connections is seen in the frequency range from 4 to 12Hz for all recording heights. For the AR patients, no significant difference in afferent and efferent connections within the STN was found for the different frequency bands. Still, for the AR patients dorsal of the STN significantly more afferent than efferent connections were associated with coherence in the frequency range from 12 to 16Hz. These results provide further evidence for the differential pathological oscillations and pathways present in AR and TD Parkinson patients.
+27393252	0	9	Parkinson	T047	C0030567
+27393252	10	17	subtype	T185	C0872379
+27393252	28	51	Granger-causal coupling	T062	C0242481
+27393252	56	65	coherence	T041	C3178983
+27393252	83	94	subthalamic	T023	C1281060
+27393252	117	136	Parkinson's disease	T047	C0030567
+27393252	138	140	PD	T047	C0030567
+27393252	172	180	afferent	T082	C0205115
+27393252	181	189	coupling	T169	C1948027
+27393252	207	210	arm	T023	C1269078
+27393252	211	226	muscle activity	T040	C2265874
+27393252	231	260	electrophysiological activity	T040	C2350528
+27393252	272	291	subthalamic nucleus	T023	C1281060
+27393252	293	296	STN	T023	C1281060
+27393252	383	391	afferent	T082	C0205115
+27393252	392	408	information flow	T052	C0021418
+27393252	412	414	PD	T047	C0030567
+27393252	415	423	patients	T101	C0030705
+27393252	468	477	coherence	T041	C3178983
+27393252	510	519	beta band	T026	C0230715
+27393252	534	540	tremor	T184	C0040822
+27393252	541	550	frequency	T079	C0439603
+27393252	607	615	subtypes	T185	C0872379
+27393252	623	630	disease	T047	C0012634
+27393252	635	650	associated with	T080	C0332281
+27393252	661	673	connectivity	T169	C1707489
+27393252	674	682	patterns	T082	C0449774
+27393252	709	718	coherence	T041	C3178983
+27393252	741	763	local field potentials	T040	C2350528
+27393252	765	769	LFPs	T040	C2350528
+27393252	778	781	STN	T023	C1281060
+27393252	794	809	electromyograms	T033	C4085371
+27393252	811	815	EMGs	T033	C4085371
+27393252	826	843	contralateral arm	T082	C0442306
+27393252	850	864	akinetic-rigid	T047	C1446219
+27393252	866	868	AR	T047	C1446219
+27393252	870	872	PD	T047	C0030567
+27393252	873	881	patients	T101	C0030705
+27393252	888	903	tremor-dominant	T047	C0856077
+27393252	905	907	TD	T047	C0856077
+27393252	909	911	PD	T047	C0030567
+27393252	912	920	patients	T101	C0030705
+27393252	933	947	intraoperative	T079	C0456904
+27393252	959	967	patients	T101	C0030705
+27393252	993	1000	forearm	T023	C0016536
+27393252	1001	1014	contralateral	T082	C0442306
+27393252	1057	1065	afferent	T082	C0205115
+27393252	1066	1077	connections	T082	C0449379
+27393252	1100	1102	TD	T047	C0856077
+27393252	1103	1111	patients	T101	C0030705
+27393252	1116	1122	tremor	T184	C0040822
+27393252	1141	1147	tremor	T184	C0040822
+27393252	1186	1192	tremor	T184	C0040822
+27393252	1213	1216	STN	T023	C1281060
+27393252	1236	1244	afferent	T082	C0205115
+27393252	1245	1256	connections	T082	C0449379
+27393252	1261	1276	associated with	T080	C0332281
+27393252	1277	1286	coherence	T041	C3178983
+27393252	1355	1361	tremor	T184	C0040822
+27393252	1390	1398	afferent	T082	C0205115
+27393252	1404	1412	efferent	T082	C0205116
+27393252	1413	1424	connections	T082	C0449379
+27393252	1430	1445	associated with	T080	C0332281
+27393252	1446	1455	coherence	T041	C3178983
+27393252	1524	1532	efferent	T082	C0205116
+27393252	1537	1545	afferent	T082	C0205115
+27393252	1546	1557	connections	T082	C0449379
+27393252	1573	1582	frequency	T080	C1561548
+27393252	1583	1588	range	T081	C1514721
+27393252	1639	1641	AR	T047	C1446219
+27393252	1642	1650	patients	T101	C0030705
+27393252	1681	1689	afferent	T082	C0205115
+27393252	1694	1702	efferent	T082	C0205116
+27393252	1703	1714	connections	T082	C0449379
+27393252	1726	1729	STN	T023	C1281060
+27393252	1758	1773	frequency bands	T082	C0439645
+27393252	1790	1792	AR	T047	C1446219
+27393252	1793	1801	patients	T101	C0030705
+27393252	1802	1808	dorsal	T082	C0205095
+27393252	1816	1819	STN	T023	C1281060
+27393252	1839	1847	afferent	T082	C0205115
+27393252	1853	1861	efferent	T082	C0205116
+27393252	1862	1873	connections	T082	C0449379
+27393252	1879	1894	associated with	T080	C0332281
+27393252	1895	1904	coherence	T041	C3178983
+27393252	2005	2030	pathological oscillations	T169	C1521733
+27393252	2035	2043	pathways	T169	C1521733
+27393252	2055	2057	AR	T047	C1446219
+27393252	2062	2064	TD	T047	C0856077
+27393252	2065	2074	Parkinson	T047	C0030567
+27393252	2075	2083	patients	T101	C0030705

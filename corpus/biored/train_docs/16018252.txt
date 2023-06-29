@@ -1,0 +1,29 @@
+16018252|t|Two novel mutations in SRY gene form Chinese sex reversal XY females.
+16018252|a|The SRY gene (sex determining region on Y chromosome) acts as TDF and is required for regulating male sex determination. SRY represents a transcription factor belonging to the superfamily of genes sharing the HMG-box motif (high-mobility group-box), which acts as DNA binding region. Deletion and inactivating mutations of SRY are among the known causes of XY sex reversal. Here, we described the screening of 10 patients who presented with 46,XY sex reversal for mutations in open reading frame (ORF) of SRY gene. DNA was isolated from blood samples using standard techniques. A 609 bp fragment from the central portion of the SRY gene was amplified, using primers XES-2 and XES-7. The amplified PCR fragments were cloned into the pUCm-T vectors, and direct sequencing were carried out on an ABI 377-3 automated DNA sequencer to detect the mutation. PCR-restriction enzyme digestion was applied to detect the results of DNA sequencing. In two patients,de novo mutations led to an amino acid substitution. An A was replaced by a G in codon 38 upstream of the 5' border outside the HMG box of the SRY gene, resulting in the replacement of the amino acid glutamate by glycine. Another heterozygous T to A transition at the nucleotide position +387 which encodes for a Tyrosine (Tyr) instead of a Term, whereas her father was proven to have the wild-type sequence. These point mutations have been confirmed with PCR-restrict enzyme method. As demonstrated by the Human Gene Mutation Database analysis,homology search, and review of the literature, these two mutations were not described previously and brought the total number of SRY gene nucleotide substitutions (missense/nonsense) to 45. These findings indicated that these amino acid substitutions may be responsible for the sex reversal,not only inside the HMG-box but also outside the HMG-box. The two novel mutations in SRY gene provided valuable information for understanding the molecular mechanism of the patient with 46,XY female sex reversal.
+16018252	23	26	SRY	GeneOrGeneProduct	6736
+16018252	45	60	sex reversal XY	DiseaseOrPhenotypicFeature	OMIM:400044
+16018252	74	77	SRY	GeneOrGeneProduct	6736
+16018252	191	194	SRY	GeneOrGeneProduct	6736
+16018252	393	396	SRY	GeneOrGeneProduct	6736
+16018252	427	442	XY sex reversal	DiseaseOrPhenotypicFeature	OMIM:400044
+16018252	483	491	patients	OrganismTaxon	9606
+16018252	511	529	46,XY sex reversal	DiseaseOrPhenotypicFeature	OMIM:400044
+16018252	575	578	SRY	GeneOrGeneProduct	6736
+16018252	698	701	SRY	GeneOrGeneProduct	6736
+16018252	1014	1022	patients	OrganismTaxon	9606
+16018252	1079	1112	A was replaced by a G in codon 38	SequenceVariant	c|SUB|A|CODON38|G
+16018252	1166	1169	SRY	GeneOrGeneProduct	6736
+16018252	1223	1243	glutamate by glycine	SequenceVariant	p|SUB|E||G
+16018252	1266	1315	T to A transition at the nucleotide position +387	SequenceVariant	c|SUB|T|387|A
+16018252	1336	1368	Tyrosine (Tyr) instead of a Term	SequenceVariant	c|SUB|Y||X
+16018252	1530	1535	Human	OrganismTaxon	9606
+16018252	1697	1700	SRY	GeneOrGeneProduct	6736
+16018252	1846	1858	sex reversal	DiseaseOrPhenotypicFeature	OMIM:400044
+16018252	1944	1947	SRY	GeneOrGeneProduct	6736
+16018252	2032	2039	patient	OrganismTaxon	9606
+16018252	2045	2070	46,XY female sex reversal	DiseaseOrPhenotypicFeature	OMIM:400044
+16018252	Positive_Correlation	OMIM:400044	c|SUB|A|CODON38|G	Novel
+16018252	Association	OMIM:400044	6736	Novel
+16018252	Positive_Correlation	OMIM:400044	c|SUB|Y||X	Novel
+16018252	Positive_Correlation	OMIM:400044	c|SUB|T|387|A	Novel
+16018252	Positive_Correlation	OMIM:400044	p|SUB|E||G	Novel

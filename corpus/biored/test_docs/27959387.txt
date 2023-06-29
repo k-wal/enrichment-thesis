@@ -1,0 +1,80 @@
+27959387|t|Long-term exposure of MCF-7 breast cancer cells to ethanol stimulates oncogenic features.
+27959387|a|Alcohol consumption is a risk factor for breast cancer. Little is known regarding the mechanism, although it is assumed that acetaldehyde or estrogen mediated pathways play a role. We previously showed that long-term exposure to 2.5 mM ethanol (blood alcohol ~0.012%) of MCF-12A, a human normal epithelial breast cell line, induced epithelial mesenchymal transition (EMT) and oncogenic transformation. In this study, we investigated in the human breast cancer cell line MCF-7, whether a similar exposure to ethanol at concentrations ranging up to peak blood levels in heavy drinkers would increase malignant progression. Short-term (1-week) incubation to ethanol at as low as 1-5 mM (corresponding to blood alcohol concentration of ~0.0048-0.024%) upregulated the stem cell related proteins Oct4 and Nanog, but they were reduced after exposure at 25 mM. Long-term (4-week) exposure to 25 mM ethanol upregulated the Oct4 and Nanog proteins, as well as the malignancy marker Ceacam6. DNA microarray analysis in cells exposed for 1 week showed upregulated expression of metallothionein genes, particularly MT1X. Long-term exposure upregulated expression of some malignancy related genes (STEAP4, SERPINA3, SAMD9, GDF15, KRT15, ITGB6, TP63, and PGR, as well as the CEACAM, interferon related, and HLA gene families). Some of these findings were validated by RT-PCR. A similar treatment also modulated numerous microRNAs (miRs) including one regulator of Oct4 as well as miRs involved in oncogenesis and/or malignancy, with only a few estrogen-induced miRs. Long-term 25 mM ethanol also induced a 5.6-fold upregulation of anchorage-independent growth, an indicator of malignant-like features. Exposure to acetaldehyde resulted in little or no effect comparable to that of ethanol. The previously shown alcohol induction of oncogenic transformation of normal breast cells is now complemented by the current results suggesting alcohol's potential involvement in malignant progression of breast cancer.
+27959387	22	27	MCF-7	CellLine	CVCL_0031
+27959387	28	41	breast cancer	DiseaseOrPhenotypicFeature	D001943
+27959387	51	58	ethanol	ChemicalEntity	D000431
+27959387	90	97	Alcohol	ChemicalEntity	D000438
+27959387	131	144	breast cancer	DiseaseOrPhenotypicFeature	D001943
+27959387	215	227	acetaldehyde	ChemicalEntity	D000079
+27959387	231	239	estrogen	ChemicalEntity	D004967
+27959387	326	333	ethanol	ChemicalEntity	D000431
+27959387	341	348	alcohol	ChemicalEntity	D000438
+27959387	361	368	MCF-12A	CellLine	CVCL_3744
+27959387	372	377	human	OrganismTaxon	9606
+27959387	530	535	human	OrganismTaxon	9606
+27959387	536	549	breast cancer	DiseaseOrPhenotypicFeature	D001943
+27959387	560	565	MCF-7	CellLine	CVCL_0031
+27959387	597	604	ethanol	ChemicalEntity	D000431
+27959387	745	752	ethanol	ChemicalEntity	D000431
+27959387	797	804	alcohol	ChemicalEntity	D000438
+27959387	881	885	Oct4	GeneOrGeneProduct	5460
+27959387	890	895	Nanog	GeneOrGeneProduct	79923
+27959387	981	988	ethanol	ChemicalEntity	D000431
+27959387	1005	1009	Oct4	GeneOrGeneProduct	5460
+27959387	1014	1019	Nanog	GeneOrGeneProduct	79923
+27959387	1045	1055	malignancy	DiseaseOrPhenotypicFeature	D009369
+27959387	1063	1070	Ceacam6	GeneOrGeneProduct	4680
+27959387	1157	1172	metallothionein	GeneOrGeneProduct	4501
+27959387	1193	1197	MT1X	GeneOrGeneProduct	4501
+27959387	1249	1259	malignancy	DiseaseOrPhenotypicFeature	D009369
+27959387	1275	1281	STEAP4	GeneOrGeneProduct	79689
+27959387	1283	1291	SERPINA3	GeneOrGeneProduct	12
+27959387	1293	1298	SAMD9	GeneOrGeneProduct	54809
+27959387	1300	1305	GDF15	GeneOrGeneProduct	9518
+27959387	1307	1312	KRT15	GeneOrGeneProduct	3866
+27959387	1314	1319	ITGB6	GeneOrGeneProduct	3694
+27959387	1321	1325	TP63	GeneOrGeneProduct	8626
+27959387	1331	1334	PGR	GeneOrGeneProduct	5241
+27959387	1351	1357	CEACAM	GeneOrGeneProduct	4680
+27959387	1359	1369	interferon	GeneOrGeneProduct	282617
+27959387	1383	1386	HLA	GeneOrGeneProduct	3123
+27959387	1540	1544	Oct4	GeneOrGeneProduct	5460
+27959387	1592	1602	malignancy	DiseaseOrPhenotypicFeature	D009369
+27959387	1620	1628	estrogen	ChemicalEntity	D004967
+27959387	1659	1666	ethanol	ChemicalEntity	D000431
+27959387	1790	1802	acetaldehyde	ChemicalEntity	D000079
+27959387	1857	1864	ethanol	ChemicalEntity	D000431
+27959387	1887	1894	alcohol	ChemicalEntity	D000438
+27959387	2010	2017	alcohol	ChemicalEntity	D000438
+27959387	2070	2083	breast cancer	DiseaseOrPhenotypicFeature	D001943
+27959387	Association	3123	D009369	No
+27959387	Positive_Correlation	3123	D000431	Novel
+27959387	Association	282617	D009369	No
+27959387	Positive_Correlation	282617	D000431	Novel
+27959387	Association	5241	D009369	No
+27959387	Positive_Correlation	5241	D000431	Novel
+27959387	Association	8626	D009369	No
+27959387	Positive_Correlation	8626	D000431	Novel
+27959387	Association	3694	D009369	No
+27959387	Positive_Correlation	3694	D000431	Novel
+27959387	Association	3866	D009369	No
+27959387	Positive_Correlation	3866	D000431	Novel
+27959387	Association	9518	D009369	No
+27959387	Positive_Correlation	9518	D000431	Novel
+27959387	Association	54809	D009369	No
+27959387	Positive_Correlation	54809	D000431	Novel
+27959387	Association	12	D009369	No
+27959387	Positive_Correlation	12	D000431	Novel
+27959387	Association	79689	D009369	No
+27959387	Positive_Correlation	79689	D000431	Novel
+27959387	Association	D009369	4680	No
+27959387	Positive_Correlation	79923	D000438	Novel
+27959387	Positive_Correlation	5460	D000438	Novel
+27959387	Positive_Correlation	D000438	D001943	No
+27959387	Positive_Correlation	D000438	D000431	No
+27959387	Association	D000431	D009369	Novel
+27959387	Positive_Correlation	D000431	4501	Novel
+27959387	Positive_Correlation	D000431	4680	Novel
+27959387	Positive_Correlation	D000431	79923	Novel
+27959387	Positive_Correlation	D000431	5460	Novel
+27959387	Positive_Correlation	D000431	D001943	Novel

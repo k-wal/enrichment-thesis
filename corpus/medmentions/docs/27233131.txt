@@ -1,0 +1,103 @@
+27233131|t|Impact of cofactor - binding loop mutations on thermotolerance and activity of E. coli transketolase
+27233131|a|Improvement of thermostability in engineered enzymes can allow biocatalysis on substrates with poor aqueous solubility. Denaturation of the cofactor - binding loops of Escherichia coli transketolase (TK) was previously linked to the loss of enzyme activity under conditions of high pH or urea. Incubation at temperatures just below the thermal melting transition, above which the protein aggregates, was also found to anneal the enzyme to give an increased specific activity. The potential role of cofactor - binding loop instability in this process remained unclear. In this work, the two cofactor - binding loops (residues 185-192 and 382-392) were progressively mutated towards the equivalent sequence from the thermostable Thermus thermophilus TK and variants assessed for their impact on both thermostability and activity. Cofactor-binding loop 2 variants had detrimental effects on specific activity at elevated temperatures, whereas the H192P mutation in cofactor-binding loop 1 resulted in a two-fold improved stability to inactivation at elevated temperatures, and increased the critical onset temperature for aggregation. The specific activity of H192P was 3-fold and 19-fold higher than that for wild-type at 60°C and 65°C respectively, and also remained 2.7-4 fold higher after re-cooling from pre-incubations at either 55°C or 60°C for 1h. Interestingly, H192P was also 2-times more active than wild-type TK at 25°C. Optimal activity was achieved at 60°C for H192P compared to 55°C for wild type. These results show that cofactor-binding loop 1, plays a pivotal role in partial denaturation and aggregation at elevated temperatures. Furthermore, a single rigidifying mutation within this loop can significantly improve the enzyme specific activity, as well as the stability to thermal denaturation and aggregation, to give an increased temperature optimum for activity.
+27233131	0	6	Impact	T080	C4049986
+27233131	10	18	cofactor	T123	C0178555
+27233131	21	33	binding loop	T087	C0682969
+27233131	34	43	mutations	T045	C0026882
+27233131	47	62	thermotolerance	T039	C3544386
+27233131	67	75	activity	T044	C0243102
+27233131	79	86	E. coli	T007	C0014834
+27233131	87	100	transketolase	T116,T126	C0040709
+27233131	101	112	Improvement	T077	C2986411
+27233131	116	131	thermostability	T070	C0597571
+27233131	135	153	engineered enzymes	T116,T126	C0014442
+27233131	164	176	biocatalysis	T070	C2350294
+27233131	180	190	substrates	T167	C3891814
+27233131	201	208	aqueous	T080	C0599956
+27233131	209	219	solubility	T080	C0037628
+27233131	221	233	Denaturation	T044	C0033627
+27233131	241	249	cofactor	T123	C0178555
+27233131	252	265	binding loops	T087	C0682969
+27233131	269	285	Escherichia coli	T007	C0014834
+27233131	286	299	transketolase	T116,T126	C0040709
+27233131	301	303	TK	T116,T126	C0040709
+27233131	334	338	loss	T081	C1517945
+27233131	342	357	enzyme activity	T044	C0243102
+27233131	364	374	conditions	T080	C0348080
+27233131	378	382	high	T080	C0205250
+27233131	383	385	pH	T081	C0020283
+27233131	389	393	urea	T109,T121,T123	C0041942
+27233131	395	405	Incubation	T059	C0022885
+27233131	409	421	temperatures	T081	C0039476
+27233131	437	463	thermal melting transition	T070	C1254365
+27233131	481	488	protein	T116,T123	C0033684
+27233131	489	499	aggregates	T169	C0332621
+27233131	519	525	anneal	T169	C0205245
+27233131	530	536	enzyme	T116,T126	C0014442
+27233131	548	557	increased	T081	C0205217
+27233131	567	575	activity	T044	C0243102
+27233131	591	595	role	T077	C1705810
+27233131	599	607	cofactor	T123	C0178555
+27233131	610	622	binding loop	T087	C0682969
+27233131	623	634	instability	T033	C1444783
+27233131	691	699	cofactor	T123	C0178555
+27233131	702	715	binding loops	T087	C0682969
+27233131	717	733	residues 185-192	T087	C0002518
+27233131	738	745	382-392	T087	C0002518
+27233131	797	805	sequence	T086	C0004793
+27233131	815	827	thermostable	T080	C0205556
+27233131	828	848	Thermus thermophilus	T007	C0085475
+27233131	849	851	TK	T116,T126	C0040709
+27233131	856	864	variants	T028	C0678941
+27233131	865	873	assessed	T052	C1516048
+27233131	884	890	impact	T080	C4049986
+27233131	899	914	thermostability	T070	C0597571
+27233131	919	927	activity	T052	C0441655
+27233131	929	952	Cofactor-binding loop 2	T086	C0004793
+27233131	953	961	variants	T028	C0678941
+27233131	966	985	detrimental effects	T080	C1280500
+27233131	998	1006	activity	T052	C0441655
+27233131	1010	1018	elevated	T080	C3163633
+27233131	1019	1031	temperatures	T081	C0039476
+27233131	1045	1059	H192P mutation	T045	C0026882
+27233131	1063	1086	cofactor-binding loop 1	T086	C0004793
+27233131	1119	1128	stability	T070	C0597571
+27233131	1132	1144	inactivation	T169	C0544461
+27233131	1148	1156	elevated	T080	C3163633
+27233131	1157	1169	temperatures	T081	C0039476
+27233131	1175	1184	increased	T081	C0205217
+27233131	1189	1215	critical onset temperature	T081	C0039476
+27233131	1220	1231	aggregation	T169	C0332621
+27233131	1246	1254	activity	T052	C0441655
+27233131	1258	1263	H192P	T045	C0026882
+27233131	1287	1293	higher	T080	C0205250
+27233131	1308	1317	wild-type	T028	C1883559
+27233131	1378	1384	higher	T080	C0205250
+27233131	1391	1401	re-cooling	T070	C0678568
+27233131	1407	1422	pre-incubations	T059	C0022885
+27233131	1469	1474	H192P	T045	C0026882
+27233131	1497	1503	active	T169	C0205177
+27233131	1509	1518	wild-type	T028	C1883559
+27233131	1519	1521	TK	T116,T126	C0040709
+27233131	1531	1538	Optimal	T080	C2698651
+27233131	1539	1547	activity	T052	C0441655
+27233131	1573	1578	H192P	T045	C0026882
+27233131	1600	1609	wild type	T028	C1883559
+27233131	1635	1658	cofactor-binding loop 1	T086	C0004793
+27233131	1676	1680	role	T077	C1705810
+27233131	1684	1691	partial	T081	C0728938
+27233131	1692	1704	denaturation	T044	C0033627
+27233131	1709	1720	aggregation	T169	C0332621
+27233131	1724	1732	elevated	T080	C3163633
+27233131	1733	1745	temperatures	T081	C0039476
+27233131	1762	1789	single rigidifying mutation	T045	C0026882
+27233131	1802	1806	loop	T086	C0004793
+27233131	1837	1861	enzyme specific activity	T044	C0243102
+27233131	1878	1887	stability	T070	C0597571
+27233131	1891	1898	thermal	T070	C0018837
+27233131	1899	1911	denaturation	T044	C0033627
+27233131	1916	1927	aggregation	T169	C0332621
+27233131	1940	1949	increased	T081	C0205217
+27233131	1950	1961	temperature	T081	C0039476
+27233131	1962	1969	optimum	T080	C2698651
+27233131	1974	1982	activity	T044	C0243102

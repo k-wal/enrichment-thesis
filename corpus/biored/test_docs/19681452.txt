@@ -1,0 +1,35 @@
+19681452|t|Bilateral haemorrhagic infarction of the globus pallidus after cocaine and alcohol intoxication.
+19681452|a|Cocaine is a risk factor for both ischemic and haemorrhagic stroke. We present the case of a 31-year-old man with bilateral ischemia of the globus pallidus after excessive alcohol and intranasal cocaine use. Drug-related globus pallidus infarctions are most often associated with heroin. Bilateral basal ganglia infarcts after the use of cocaine, without concurrent heroin use, have never been reported. In our patient, transient cardiac arrhythmia or respiratory dysfunction related to cocaine and/or ethanol use were the most likely causes of cerebral hypoperfusion.
+19681452	10	56	haemorrhagic infarction of the globus pallidus	DiseaseOrPhenotypicFeature	D002543,D020520
+19681452	63	70	cocaine	ChemicalEntity	D003042
+19681452	75	82	alcohol	ChemicalEntity	D000431
+19681452	97	104	Cocaine	ChemicalEntity	D003042
+19681452	131	163	ischemic and haemorrhagic stroke	DiseaseOrPhenotypicFeature	D002544,D020521
+19681452	202	205	man	OrganismTaxon	9606
+19681452	221	252	ischemia of the globus pallidus	DiseaseOrPhenotypicFeature	D002545
+19681452	269	276	alcohol	ChemicalEntity	D000431
+19681452	292	299	cocaine	ChemicalEntity	D003042
+19681452	318	345	globus pallidus infarctions	DiseaseOrPhenotypicFeature	D020520
+19681452	377	383	heroin	ChemicalEntity	D003932
+19681452	395	417	basal ganglia infarcts	DiseaseOrPhenotypicFeature	D020520
+19681452	435	442	cocaine	ChemicalEntity	D003042
+19681452	463	469	heroin	ChemicalEntity	D003932
+19681452	508	515	patient	OrganismTaxon	9606
+19681452	527	545	cardiac arrhythmia	DiseaseOrPhenotypicFeature	D001145
+19681452	549	572	respiratory dysfunction	DiseaseOrPhenotypicFeature	D012131
+19681452	584	591	cocaine	ChemicalEntity	D003042
+19681452	599	606	ethanol	ChemicalEntity	D000431
+19681452	642	664	cerebral hypoperfusion	DiseaseOrPhenotypicFeature	D002545
+19681452	Positive_Correlation	D000431	D002545	Novel
+19681452	Positive_Correlation	D000431	D012131	Novel
+19681452	Positive_Correlation	D000431	D001145	Novel
+19681452	Positive_Correlation	D000431	D020520	Novel
+19681452	Positive_Correlation	D000431	D002543	Novel
+19681452	Positive_Correlation	D020520	D003932	No
+19681452	Positive_Correlation	D003042	D020521	No
+19681452	Positive_Correlation	D003042	D002544	No
+19681452	Positive_Correlation	D003042	D002545	Novel
+19681452	Positive_Correlation	D003042	D012131	Novel
+19681452	Positive_Correlation	D003042	D001145	Novel
+19681452	Positive_Correlation	D003042	D020520	Novel
+19681452	Positive_Correlation	D003042	D002543	Novel

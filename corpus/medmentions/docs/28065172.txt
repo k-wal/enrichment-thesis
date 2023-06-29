@@ -1,0 +1,99 @@
+28065172|t|INCORPORATING ENVIRONMENTAL OUTCOMES INTO A HEALTH ECONOMIC MODEL
+28065172|a|Traditional economic evaluations for most health technology assessments (HTAs) have previously not included environmental outcomes. With the growing interest in reducing the environmental impact of human activities, the need to consider how to include environmental outcomes into HTAs has increased. We present a simple method of doing so. We adapted an existing clinical - economic model to include environmental outcomes (carbon dioxide [CO2] emissions) to predict the consequences of adding insulin to an oral antidiabetic (OAD) regimen for patients with type 2 diabetes mellitus (T2DM) over 30 years, from the United Kingdom payer perspective. Epidemiological, efficacy, healthcare costs, utility, and carbon emissions data were derived from published literature. A scenario analysis was performed to explore the impact of parameter uncertainty. The addition of insulin to an OAD regimen increases costs by 2,668 British pounds per patient and is associated with 0.36 additional quality-adjusted life-years per patient. The insulin - OAD combination regimen generates more treatment and disease management - related CO2 emissions per patient (1,686 kg) than the OAD -only regimen (310 kg), but generates fewer emissions associated with treating complications (3,019 kg versus 3,337 kg). Overall, adding insulin to OAD therapy generates an extra 1,057 kg of CO2 emissions per patient over 30 years. The model offers a simple approach for incorporating environmental outcomes into health economic analyses, to support a decision-maker's objective of reducing the environmental impact of health care. Further work is required to improve the accuracy of the approach; in particular, the generation of resource-specific environmental impacts.
+28065172	0	13	INCORPORATING	T169	C0243126
+28065172	14	27	ENVIRONMENTAL	T082	C0014406
+28065172	28	36	OUTCOMES	T081	C0086749
+28065172	44	50	HEALTH	T078	C0018684
+28065172	51	65	ECONOMIC MODEL	T081,T170	C0013554
+28065172	78	98	economic evaluations	T057	C0150099
+28065172	108	137	health technology assessments	T058	C0039423
+28065172	139	143	HTAs	T058	C0039423
+28065172	174	187	environmental	T082	C0014406
+28065172	188	196	outcomes	T081	C0086749
+28065172	227	235	reducing	T080	C0392756
+28065172	240	260	environmental impact	T067	C0282165
+28065172	264	280	human activities	T052	C0020115
+28065172	318	331	environmental	T082	C0014406
+28065172	332	340	outcomes	T081	C0086749
+28065172	346	350	HTAs	T058	C0039423
+28065172	355	364	increased	T081	C0205217
+28065172	429	437	clinical	T080	C0205210
+28065172	440	454	economic model	T081,T170	C0013554
+28065172	466	479	environmental	T082	C0014406
+28065172	480	488	outcomes	T081	C0086749
+28065172	490	504	carbon dioxide	T123,T197	C0007012
+28065172	506	509	CO2	T123,T197	C0007012
+28065172	511	520	emissions	T167	C2349995
+28065172	525	532	predict	T078	C0681842
+28065172	537	552	consequences of	T169	C0686907
+28065172	560	567	insulin	T116,T121,T125	C0021641
+28065172	574	578	oral	T082	C0442027
+28065172	579	591	antidiabetic	T121	C0935929
+28065172	593	596	OAD	T121	C0935929
+28065172	598	605	regimen	T061	C0040808
+28065172	610	618	patients	T101	C0030705
+28065172	624	648	type 2 diabetes mellitus	T047	C0011860
+28065172	650	654	T2DM	T047	C0011860
+28065172	664	669	years	T079	C0439234
+28065172	680	694	United Kingdom	T083	C0041700
+28065172	695	700	payer	T092	C2348942
+28065172	714	729	Epidemiological	T062	C0002783
+28065172	731	739	efficacy	T062	C1707887
+28065172	741	757	healthcare costs	T081	C0085552
+28065172	772	778	carbon	T123,T197	C0007012
+28065172	779	788	emissions	T167	C2349995
+28065172	789	793	data	T078	C1511726
+28065172	799	806	derived	T080	C1441547
+28065172	812	832	published literature	T170	C0023866
+28065172	836	844	scenario	T169	C0683579
+28065172	845	853	analysis	T062	C0936012
+28065172	858	867	performed	T169	C0884358
+28065172	883	889	impact	T080	C4049986
+28065172	893	902	parameter	T077	C0549193
+28065172	903	914	uncertainty	T033	C0087130
+28065172	932	939	insulin	T116,T121,T125	C0021641
+28065172	946	949	OAD	T121	C0935929
+28065172	950	957	regimen	T061	C0040808
+28065172	958	967	increases	T169	C0442805
+28065172	968	973	costs	T081	C0010186
+28065172	1002	1009	patient	T101	C0030705
+28065172	1017	1032	associated with	T080	C0332281
+28065172	1038	1048	additional	T169	C1524062
+28065172	1049	1076	quality-adjusted life-years	T079	C0080071
+28065172	1081	1088	patient	T101	C0030705
+28065172	1094	1101	insulin	T116,T121,T125	C0021641
+28065172	1104	1107	OAD	T121	C0935929
+28065172	1108	1119	combination	T080	C0205195
+28065172	1120	1127	regimen	T061	C0040808
+28065172	1143	1152	treatment	T169	C0039798
+28065172	1157	1175	disease management	T058	C0376636
+28065172	1178	1185	related	T080	C0439849
+28065172	1186	1189	CO2	T123,T197	C0007012
+28065172	1190	1199	emissions	T167	C2349995
+28065172	1204	1211	patient	T101	C0030705
+28065172	1232	1235	OAD	T121	C0935929
+28065172	1242	1249	regimen	T061	C0040808
+28065172	1280	1289	emissions	T167	C2349995
+28065172	1290	1305	associated with	T080	C0332281
+28065172	1306	1314	treating	T169	C1522326
+28065172	1315	1328	complications	T046	C0009566
+28065172	1373	1380	insulin	T116,T121,T125	C0021641
+28065172	1384	1387	OAD	T121	C0935929
+28065172	1388	1395	therapy	T061	C0087111
+28065172	1427	1430	CO2	T123,T197	C0007012
+28065172	1431	1440	emissions	T167	C2349995
+28065172	1445	1452	patient	T101	C0030705
+28065172	1461	1466	years	T079	C0439234
+28065172	1472	1477	model	T075	C0026336
+28065172	1507	1520	incorporating	T169	C0243126
+28065172	1521	1534	environmental	T082	C0014406
+28065172	1535	1543	outcomes	T081	C0086749
+28065172	1549	1555	health	T078	C0018684
+28065172	1556	1573	economic analyses	T057	C0150099
+28065172	1618	1626	reducing	T080	C0392756
+28065172	1631	1651	environmental impact	T067	C0282165
+28065172	1655	1666	health care	T058	C0086388
+28065172	1696	1703	improve	T033	C0184511
+28065172	1708	1716	accuracy	T080	C0443131
+28065172	1753	1763	generation	T052	C3146294
+28065172	1785	1806	environmental impacts	T067	C0282165

@@ -1,0 +1,70 @@
+27924262|t|Mass spectrometric analysis of protein - ligand interactions
+27924262|a|The interactions of small molecules with proteins (protein - ligand interactions) mediate various biological phenomena including signal transduction and protein transcription and translation. Synthetic compounds such as drugs can also bind to target proteins, leading to the inhibition of protein - ligand interactions. These interactions typically accompany association - dissociation equilibrium according to the free energy difference between free and bound states; therefore, the quantitative biophysical analysis of the interactions, which uncovers the stoichiometry and dissociation constant, is important for understanding biological reactions as well as for rational drug development. Mass spectrometry (MS) has been used to determine the precise molecular masses of molecules. Recent advancements in MS enable us to determine the molecular masses of protein - ligand complexes without disrupting the non-covalent interactions through the gentle desolvation of the complexes by increasing the vacuum pressure of a chamber in a mass spectrometer. This method is called MS under non-denaturing conditions or native MS and allows the unambiguous determination of protein - ligand interactions. Under a few assumptions, MS has also been applied to determine the dissociation constants for protein - ligand interactions. The structural information of a protein - ligand interaction, such as the location of the interaction and conformational change in a protein, can also be analyzed using hydrogen / deuterium exchange MS. In this paper, we briefly describe the history, principle, and recent applications of MS for the study of protein - ligand interactions.
+27924262	0	18	Mass spectrometric	T058	UMLS:C0037813
+27924262	19	27	analysis	T062	UMLS:C0936012
+27924262	31	38	protein	T103	UMLS:C0033684
+27924262	41	47	ligand	T103	UMLS:C0023688
+27924262	48	60	interactions	T038	UMLS:C0687133
+27924262	81	96	small molecules	T103	UMLS:C0023688
+27924262	102	110	proteins	T103	UMLS:C0033684
+27924262	112	119	protein	T103	UMLS:C0033684
+27924262	122	128	ligand	T103	UMLS:C0023688
+27924262	129	141	interactions	T038	UMLS:C0687133
+27924262	190	209	signal transduction	T038	UMLS:C0037083
+27924262	214	221	protein	T103	UMLS:C0033684
+27924262	222	235	transcription	T038	UMLS:C0040649
+27924262	240	251	translation	T038	UMLS:C1519614
+27924262	263	272	compounds	T103	UMLS:C1706082
+27924262	281	286	drugs	T103	UMLS:C1254351
+27924262	296	300	bind	T038	UMLS:C1167622
+27924262	304	319	target proteins	T103	UMLS:C0033684
+27924262	350	357	protein	T103	UMLS:C0033684
+27924262	360	366	ligand	T103	UMLS:C0023688
+27924262	367	379	interactions	T038	UMLS:C0687133
+27924262	387	399	interactions	T038	UMLS:C0687133
+27924262	434	446	dissociation	T038	UMLS:C0301643
+27924262	558	569	biophysical	T038	UMLS:C1511162
+27924262	570	578	analysis	T062	UMLS:C0936012
+27924262	586	598	interactions	T038	UMLS:C0687133
+27924262	637	649	dissociation	T038	UMLS:C0301643
+27924262	736	740	drug	T103	UMLS:C1254351
+27924262	754	771	Mass spectrometry	T058	UMLS:C0037813
+27924262	773	775	MS	T058	UMLS:C0037813
+27924262	870	872	MS	T058	UMLS:C0037813
+27924262	920	927	protein	T103	UMLS:C0033684
+27924262	930	936	ligand	T103	UMLS:C0023688
+27924262	937	946	complexes	T103	UMLS:C1180347
+27924262	1015	1026	desolvation	T038	UMLS:C0301643
+27924262	1034	1043	complexes	T103	UMLS:C1180347
+27924262	1083	1090	chamber	T074	UMLS:C3873712
+27924262	1096	1113	mass spectrometer	T074	UMLS:C0183396
+27924262	1120	1126	method	T170	UMLS:C0025663
+27924262	1137	1139	MS	T058	UMLS:C0037813
+27924262	1182	1184	MS	T058	UMLS:C0037813
+27924262	1229	1236	protein	T103	UMLS:C0033684
+27924262	1239	1245	ligand	T103	UMLS:C0023688
+27924262	1246	1258	interactions	T038	UMLS:C0687133
+27924262	1285	1287	MS	T058	UMLS:C0037813
+27924262	1327	1339	dissociation	T038	UMLS:C0301643
+27924262	1354	1361	protein	T103	UMLS:C0033684
+27924262	1364	1370	ligand	T103	UMLS:C0023688
+27924262	1371	1383	interactions	T038	UMLS:C0687133
+27924262	1389	1399	structural	T082	UMLS:C0678594
+27924262	1417	1424	protein	T103	UMLS:C0033684
+27924262	1427	1433	ligand	T103	UMLS:C0023688
+27924262	1434	1445	interaction	T038	UMLS:C0687133
+27924262	1459	1467	location	T082	UMLS:C0450429
+27924262	1475	1486	interaction	T038	UMLS:C0687133
+27924262	1491	1512	conformational change	T038	UMLS:C0301641
+27924262	1518	1525	protein	T103	UMLS:C0033684
+27924262	1539	1547	analyzed	T062	UMLS:C0936012
+27924262	1554	1562	hydrogen	T103	UMLS:C0020275
+27924262	1565	1583	deuterium exchange	T058	UMLS:C1257754
+27924262	1584	1586	MS	T058	UMLS:C0037813
+27924262	1596	1601	paper	T170	UMLS:C0282420
+27924262	1614	1622	describe	T170	UMLS:C0684224
+27924262	1674	1676	MS	T058	UMLS:C0037813
+27924262	1685	1690	study	T062	UMLS:C0008972
+27924262	1694	1701	protein	T103	UMLS:C0033684
+27924262	1704	1710	ligand	T103	UMLS:C0023688
+27924262	1711	1723	interactions	T038	UMLS:C0687133

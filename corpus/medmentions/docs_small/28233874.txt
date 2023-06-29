@@ -1,0 +1,66 @@
+28233874|t|Comprehensive analysis of long non-coding RNAs highlights their spatio-temporal expression patterns and evolutional conservation in Sus scrofa
+28233874|a|Despite modest sequence conservation and rapid evolution, long non-coding RNAs (lncRNAs) appear to be conserved in expression pattern and function. However, analysis of lncRNAs across tissues and developmental stages remains largely uncharacterized in mammals. Here, we systematically investigated the lncRNAs of the Guizhou miniature pig (Sus scrofa), which was widely used as biomedical model. We performed RNA sequencing across 9 organs and 3 developmental skeletal muscle, and developed a filtering pipeline to identify 10,813 lncRNAs (9,075 novel). Conservation patterns analysis revealed that 57% of pig lncRNAs showed homology to humans and mice based on genome alignment. 5,455 lncRNAs exhibited typical hallmarks of regulatory molecules, such as high spatio-temporal specificity. Notably, conserved lncRNAs exhibited higher tissue specificity than pig - specific lncRNAs and were significantly enriched in testis and ovary. Weighted co-expression network analysis revealed a set of conserved lncRNAs that are likely involved in postnatal muscle development. Based on the high degree of similarity in the structure, organization, and dynamic expression of pig lncRNAs compared with human and mouse lncRNAs, we propose that these lncRNAs play an important role in organ physiology and development in mammals. Our results provide a resource for studying animal evolution, morphological complexity, breeding, and biomedical research.
+28233874	14	22	analysis	T062	UMLS:C0936012
+28233874	31	46	non-coding RNAs	T103	UMLS:C0887909
+28233874	80	99	expression patterns	T058	UMLS:C0752248
+28233874	104	115	evolutional	T038	UMLS:C0015219
+28233874	132	142	Sus scrofa	T204	UMLS:C1135183
+28233874	158	166	sequence	T082	UMLS:C0162327
+28233874	190	199	evolution	T038	UMLS:C0015219
+28233874	206	221	non-coding RNAs	T103	UMLS:C0887909
+28233874	223	230	lncRNAs	T103	UMLS:C0887909
+28233874	245	254	conserved	T082	UMLS:C0009802
+28233874	258	276	expression pattern	T058	UMLS:C0752248
+28233874	281	289	function	T038	UMLS:C0031843
+28233874	300	308	analysis	T062	UMLS:C0936012
+28233874	312	319	lncRNAs	T103	UMLS:C0887909
+28233874	327	334	tissues	T017	UMLS:C0040300
+28233874	395	402	mammals	T204	UMLS:C0024660
+28233874	445	452	lncRNAs	T103	UMLS:C0887909
+28233874	460	467	Guizhou	T082	UMLS:C0017446
+28233874	468	481	miniature pig	T204	UMLS:C0024660
+28233874	483	493	Sus scrofa	T204	UMLS:C1135183
+28233874	552	566	RNA sequencing	T058	UMLS:C0917793
+28233874	576	582	organs	T017	UMLS:C0178784
+28233874	603	618	skeletal muscle	T017	UMLS:C0242692
+28233874	636	654	filtering pipeline	T170	UMLS:C0025663
+28233874	674	681	lncRNAs	T103	UMLS:C0887909
+28233874	710	727	patterns analysis	T058	UMLS:C0752248
+28233874	749	752	pig	T204	UMLS:C1135183
+28233874	753	760	lncRNAs	T103	UMLS:C0887909
+28233874	780	786	humans	T204	UMLS:C0086418
+28233874	791	795	mice	T204	UMLS:C0025929
+28233874	805	821	genome alignment	T062	UMLS:C0080143
+28233874	829	836	lncRNAs	T103	UMLS:C0887909
+28233874	941	950	conserved	T082	UMLS:C0009802
+28233874	951	958	lncRNAs	T103	UMLS:C0887909
+28233874	976	994	tissue specificity	T038	UMLS:C2713393
+28233874	1000	1003	pig	T204	UMLS:C1135183
+28233874	1015	1022	lncRNAs	T103	UMLS:C0887909
+28233874	1058	1064	testis	T017	UMLS:C0039597
+28233874	1069	1074	ovary	T017	UMLS:C0029939
+28233874	1085	1098	co-expression	T038	UMLS:C0017262
+28233874	1099	1115	network analysis	T170	UMLS:C0868995
+28233874	1134	1143	conserved	T082	UMLS:C0009802
+28233874	1144	1151	lncRNAs	T103	UMLS:C0887909
+28233874	1190	1208	muscle development	T038	UMLS:C0949649
+28233874	1256	1265	structure	T082	UMLS:C0678594
+28233874	1267	1279	organization	T038	UMLS:C0029237
+28233874	1293	1303	expression	T038	UMLS:C0017262
+28233874	1307	1310	pig	T204	UMLS:C1135183
+28233874	1311	1318	lncRNAs	T103	UMLS:C0887909
+28233874	1333	1338	human	T204	UMLS:C0086418
+28233874	1343	1348	mouse	T204	UMLS:C0025929
+28233874	1349	1356	lncRNAs	T103	UMLS:C0887909
+28233874	1380	1387	lncRNAs	T103	UMLS:C0887909
+28233874	1414	1419	organ	T017	UMLS:C0178784
+28233874	1420	1430	physiology	T091	UMLS:C0031842
+28233874	1435	1446	development	T038	UMLS:C0242290
+28233874	1450	1457	mammals	T204	UMLS:C0024660
+28233874	1463	1470	results	T033	UMLS:C2825142
+28233874	1494	1502	studying	T058	UMLS:C0947630
+28233874	1503	1509	animal	T204	UMLS:C0003062
+28233874	1510	1519	evolution	T038	UMLS:C0015219
+28233874	1521	1534	morphological	T082	UMLS:C0543482
+28233874	1547	1555	breeding	T038	UMLS:C0178477
+28233874	1561	1580	biomedical research	T062	UMLS:C0005540

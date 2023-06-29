@@ -1,0 +1,38 @@
+27473429|t|Parallel-processing continuous-flow device for optimization - free polymerase chain reaction
+27473429|a|A parallel-processing four-station polymerase chain reaction (PCR) device has been developed, which performs continuous-flow PCR without optimization of the annealing temperature. Since the annealing temperature of each station can be controlled independently, the device covers an annealing temperature range of 50-68 °C, which is wide enough to perform PCR for any DNA fragment regardless of its optimum annealing condition. This arrangement lets us continuously obtain an amplified amount of a DNA fragment at least from one of the stations. The device consists of four identical cylindrical stations (diameter 20 mm, height 55 mm). A polytetrafluoroethylene capillary reactor (length 2 m, I.D. 100 μm, O.D. 400 μm) is wound helically up around each station. The whole assembly is designed to minimize the number of heating blocks (for providing temperatures of denaturation, annealing, and extension) to be seven and to shape a compact cube (height 55 mm, base 60 mm × 60 mm). The reproducibility for continuous-flow PCR is reasonably high (run -to- run and station -to- station relative standard deviation of their amplification is lower than 6 % and about 4 %, respectively). Performance on the optimization - free DNA amplification has been evaluated with four DNA samples with different annealing conditions and product sizes (323, 608, 828, and 1101 bp), which has demonstrated that in all cases, PCR is successful at least on one station. In addition, three DNA fragment s with different lengths (323, 1101, and 2836 bp) have been successfully amplified in a segmented - flow mode without the carry-over contamination between segments. This result suggests that this device could serve as the PCR module of a continuous-flow high-throughput on-line total DNA analysis system integrating all necessary modules from cell lysis / DNA extraction to PCR product analysis.
+27473429	67	92	polymerase chain reaction	T062	UMLS:C0032520
+27473429	115	153	four-station polymerase chain reaction	T062	UMLS:C0032520
+27473429	155	158	PCR	T062	UMLS:C0032520
+27473429	218	221	PCR	T062	UMLS:C0032520
+27473429	250	259	annealing	T038	UMLS:C0920681
+27473429	283	292	annealing	T038	UMLS:C0920681
+27473429	375	384	annealing	T038	UMLS:C0920681
+27473429	425	429	wide	T082	UMLS:C0332464
+27473429	448	451	PCR	T062	UMLS:C0032520
+27473429	499	508	annealing	T038	UMLS:C0920681
+27473429	676	687	cylindrical	T082	UMLS:C0205114
+27473429	731	754	polytetrafluoroethylene	T103	UMLS:C0032611
+27473429	755	772	capillary reactor	T074	UMLS:C0376432
+27473429	815	830	wound helically	T082	UMLS:C0231467
+27473429	831	833	up	T082	UMLS:C1282911
+27473429	958	970	denaturation	T038	UMLS:C0301642
+27473429	972	981	annealing	T038	UMLS:C0920681
+27473429	1017	1022	shape	T082	UMLS:C0332479
+27473429	1025	1032	compact	T033	UMLS:C1333134
+27473429	1033	1037	cube	T082	UMLS:C1880194
+27473429	1114	1117	PCR	T062	UMLS:C0032520
+27473429	1213	1226	amplification	T038	UMLS:C0683230
+27473429	1314	1331	DNA amplification	T038	UMLS:C0683230
+27473429	1341	1350	evaluated	T058	UMLS:C0220825
+27473429	1361	1372	DNA samples	T017	UMLS:C0444245
+27473429	1388	1397	annealing	T038	UMLS:C0920681
+27473429	1421	1426	sizes	T082	UMLS:C0456389
+27473429	1499	1502	PCR	T062	UMLS:C0032520
+27473429	1662	1671	segmented	T082	UMLS:C0442059
+27473429	1729	1737	segments	T082	UMLS:C0442059
+27473429	1796	1799	PCR	T062	UMLS:C0032520
+27473429	1917	1921	cell	T017	UMLS:C0007634
+27473429	1922	1927	lysis	T038	UMLS:C0024348
+27473429	1930	1944	DNA extraction	T062	UMLS:C3839098
+27473429	1948	1951	PCR	T062	UMLS:C0032520
+27473429	1960	1968	analysis	T062	UMLS:C0936012

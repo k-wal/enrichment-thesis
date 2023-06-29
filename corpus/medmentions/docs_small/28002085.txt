@@ -1,0 +1,61 @@
+28002085|t|Rates and predictors of injury in a population - based cohort of people living with HIV
+28002085|a|Injuries are responsible for 10% of the global burden of disease; however, the epidemiology of injury among people living with HIV (PLHIV) has not been well elucidated. This study seeks to characterize rates and predictors of injury among PLHIV compared to the general population in British Columbia (BC), Canada. A population - based dataset was created via linkage between the BC Centre for Excellence in HIV/AIDS and PopulationDataBC. PLHIV aged 20 years and older were compared to a random 10% sample of the adult general population. The International Classification of Diseases 9 and 10 codes were used to classify unintentional and intentional injuries based on the external cause of the injury from 1996 to 2013. Generalized estimating equation (GEE) Poisson regression models were fit to estimate the effect of HIV status on rates of unintentional and intentional injury, and to identify correlates of injury among PLHIV. The crude incidence rate of unintentional injury was 18.56/1000 person - years [95% confidence interval (CI) 17.77-19.39] among PLHIV and 8.51/1000 person - years (95% CI 8.42-8.59) in the general population. Among PLHIV, 13.45% of deaths were due to injury, compared to 5.52% of deaths in the general population. In adjusted models, PLHIV were more likely to report unintentional (incidence rate ratio 1.42, 95% CI 1.32-1.52) and intentional injury (incidence rate ratio 1.93, 95% CI 1.70-2.18) compared to the general population. We identified elevated rates of intentional and unintentional injury among PLHIV. Injuries are largely preventable; as such, targeted efforts are needed to decrease the burden of injury - related disability and death among PLHIV.
+28002085	24	30	injury	T037	UMLS:C0178314
+28002085	55	61	cohort	T098	UMLS:C0599755
+28002085	65	71	people	T098	UMLS:C0027361
+28002085	84	87	HIV	T038	UMLS:C0019693
+28002085	88	96	Injuries	T037	UMLS:C0178314
+28002085	145	152	disease	T038	UMLS:C0012634
+28002085	183	189	injury	T037	UMLS:C0178314
+28002085	196	218	people living with HIV	T038	UMLS:C0019693
+28002085	220	225	PLHIV	T038	UMLS:C0019693
+28002085	262	267	study	T062	UMLS:C2603343
+28002085	314	320	injury	T037	UMLS:C0178314
+28002085	327	332	PLHIV	T038	UMLS:C0019693
+28002085	349	367	general population	T098	UMLS:C0683971
+28002085	371	387	British Columbia	T082	UMLS:C0006193
+28002085	389	391	BC	T082	UMLS:C0006193
+28002085	394	400	Canada	T082	UMLS:C0006823
+28002085	423	430	dataset	T170	UMLS:C0150098
+28002085	447	454	linkage	T062	UMLS:C0242239
+28002085	455	462	between	T082	UMLS:C0205103
+28002085	467	503	BC Centre for Excellence in HIV/AIDS	T092	UMLS:C1708333
+28002085	526	531	PLHIV	T038	UMLS:C0019693
+28002085	606	624	general population	T098	UMLS:C0683971
+28002085	644	658	Classification	T170	UMLS:C0008902
+28002085	662	670	Diseases	T038	UMLS:C0012634
+28002085	699	707	classify	T170	UMLS:C0008902
+28002085	708	721	unintentional	T037	UMLS:C0151736
+28002085	726	746	intentional injuries	T037	UMLS:C0151737
+28002085	782	788	injury	T037	UMLS:C0178314
+28002085	808	839	Generalized estimating equation	T170	UMLS:C0026348
+28002085	841	844	GEE	T170	UMLS:C0026348
+28002085	907	910	HIV	T038	UMLS:C0019693
+28002085	930	943	unintentional	T037	UMLS:C0151736
+28002085	948	966	intentional injury	T037	UMLS:C0151737
+28002085	998	1004	injury	T037	UMLS:C0178314
+28002085	1011	1016	PLHIV	T038	UMLS:C0019693
+28002085	1046	1066	unintentional injury	T037	UMLS:C0151736
+28002085	1082	1088	person	T098	UMLS:C0027361
+28002085	1146	1151	PLHIV	T038	UMLS:C0019693
+28002085	1166	1172	person	T098	UMLS:C0027361
+28002085	1207	1225	general population	T098	UMLS:C0683971
+28002085	1233	1238	PLHIV	T038	UMLS:C0019693
+28002085	1250	1256	deaths	T033	UMLS:C1306577
+28002085	1269	1275	injury	T037	UMLS:C0178314
+28002085	1298	1304	deaths	T033	UMLS:C1306577
+28002085	1312	1330	general population	T098	UMLS:C0683971
+28002085	1344	1350	models	T170	UMLS:C0026348
+28002085	1352	1357	PLHIV	T038	UMLS:C0019693
+28002085	1378	1384	report	T058	UMLS:C0700287
+28002085	1385	1398	unintentional	T037	UMLS:C0151736
+28002085	1449	1467	intentional injury	T037	UMLS:C0151737
+28002085	1530	1548	general population	T098	UMLS:C0683971
+28002085	1582	1593	intentional	T037	UMLS:C0151737
+28002085	1598	1618	unintentional injury	T037	UMLS:C0151736
+28002085	1625	1630	PLHIV	T038	UMLS:C0019693
+28002085	1632	1640	Injuries	T037	UMLS:C0178314
+28002085	1729	1735	injury	T037	UMLS:C0178314
+28002085	1746	1756	disability	T033	UMLS:C0231170
+28002085	1761	1766	death	T033	UMLS:C1306577
+28002085	1773	1778	PLHIV	T038	UMLS:C0019693

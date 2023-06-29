@@ -1,0 +1,36 @@
+27773678|t|Heart rate variability: Pre-deployment predictor of post-deployment PTSD symptoms
+27773678|a|Heart rate variability is a physiological measure associated with autonomic nervous system activity. This study hypothesized that lower pre-deployment HRV would be associated with higher post-deployment post-traumatic stress disorder (PTSD) symptoms. Three-hundred-forty-three Army National Guard soldiers enrolled in the Warriors Achieving Resilience (WAR) study were analyzed. The primary outcome was PTSD symptom severity using the PTSD Checklist - Military version (PCL) measured at baseline, 3- and 12- month post-deployment. Heart rate variability predictor variables included: high frequency power (HF) and standard deviation of the normal cardiac inter-beat interval (SDNN). Generalized linear mixed models revealed that the pre-deployment PCL * ln(HF) interaction term was significant (p<0.0001). Pre-deployment SDNN was not a significant predictor of post-deployment PCL. Covariates included age, pre-deployment PCL, race / ethnicity, marital status, tobacco use, childhood abuse, pre-deployment traumatic brain injury, and previous combat zone deployment. Pre-deployment heart rate variability predicts post-deployment PTSD symptoms in the context of higher pre-deployment PCL scores.
+27773678	0	10	Heart rate	T201	UMLS:C0018810
+27773678	68	72	PTSD	T038	UMLS:C0038436
+27773678	73	81	symptoms	T033	UMLS:C1457887
+27773678	82	92	Heart rate	T201	UMLS:C0018810
+27773678	148	172	autonomic nervous system	T022	UMLS:C0004388
+27773678	188	193	study	T062	UMLS:C2603343
+27773678	233	236	HRV	T038	UMLS:C2350828
+27773678	285	315	post-traumatic stress disorder	T038	UMLS:C0038436
+27773678	317	321	PTSD	T038	UMLS:C0038436
+27773678	323	331	symptoms	T033	UMLS:C1457887
+27773678	359	387	Army National Guard soldiers	T097	UMLS:C0524647
+27773678	404	445	Warriors Achieving Resilience (WAR) study	T062	UMLS:C2603343
+27773678	485	489	PTSD	T038	UMLS:C0038436
+27773678	490	497	symptom	T033	UMLS:C1457887
+27773678	517	521	PTSD	T038	UMLS:C0038436
+27773678	522	531	Checklist	T170	UMLS:C0451524
+27773678	534	542	Military	T097	UMLS:C3245458
+27773678	543	550	version	T170	UMLS:C0333052
+27773678	552	555	PCL	T170	UMLS:C0451524
+27773678	613	623	Heart rate	T201	UMLS:C0018810
+27773678	729	747	cardiac inter-beat	T038	UMLS:C0425583
+27773678	777	796	linear mixed models	T170	UMLS:C3161035
+27773678	830	833	PCL	T170	UMLS:C0451524
+27773678	959	962	PCL	T170	UMLS:C0451524
+27773678	1004	1007	PCL	T170	UMLS:C0451524
+27773678	1009	1013	race	T098	UMLS:C0034510
+27773678	1016	1025	ethnicity	T098	UMLS:C0015031
+27773678	1056	1071	childhood abuse	T038	UMLS:C0008060
+27773678	1088	1110	traumatic brain injury	T037	UMLS:C0876926
+27773678	1125	1136	combat zone	T082	UMLS:C1710706
+27773678	1164	1174	heart rate	T201	UMLS:C0018810
+27773678	1212	1216	PTSD	T038	UMLS:C0038436
+27773678	1217	1225	symptoms	T033	UMLS:C1457887
+27773678	1266	1269	PCL	T170	UMLS:C0451524

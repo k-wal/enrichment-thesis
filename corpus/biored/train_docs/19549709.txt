@@ -1,0 +1,40 @@
+19549709|t|Efficacy of everolimus (RAD001) in patients with advanced NSCLC previously treated with chemotherapy alone or with chemotherapy and EGFR inhibitors.
+19549709|a|BACKGROUND: Treatment options are scarce in pretreated advanced non-small-cell lung cancer (NSCLC) patients. RAD001, an oral inhibitor of the mammalian target of rapamycin (mTOR), has shown phase I efficacy in NSCLC. METHODS: Stage IIIb or IV NSCLC patients, with two or fewer prior chemotherapy regimens, one platinum based (stratum 1) or both chemotherapy and epidermal growth factor receptor tyrosine kinase inhibitors (stratum 2), received RAD001 10 mg/day until progression or unacceptable toxicity. Primary objective was overall response rate (ORR). Analyses of markers associated with the mTOR pathway were carried out on archival tumor from a subgroup using immunohistochemistry (IHC) and direct mutation sequencing. RESULTS: Eighty-five patients were enrolled, 42 in stratum 1 and 43 in stratum. ORR was 4.7% (7.1% stratum 1; 2.3% stratum 2). Overall disease control rate was 47.1%. Median progression-free survivals (PFSs) were 2.6 (stratum 1) and 2.7 months (stratum 2). Common > or =grade 3 events were fatigue, dyspnea, stomatitis, anemia, and thrombocytopenia. Pneumonitis, probably or possibly related, mainly grade 1/2, occurred in 25%. Cox regression analysis of IHC scores found that only phospho AKT (pAKT) was a significant independent predictor of worse PFS. CONCLUSIONS: RAD001 10 mg/day was well tolerated, showing modest clinical activity in pretreated NSCLC. Evaluation of RAD001 plus standard therapy for metastatic NSCLC continues.
+19549709	12	22	everolimus	ChemicalEntity	D000068338
+19549709	24	30	RAD001	ChemicalEntity	D000068338
+19549709	35	43	patients	OrganismTaxon	9606
+19549709	58	63	NSCLC	DiseaseOrPhenotypicFeature	D002289
+19549709	132	136	EGFR	GeneOrGeneProduct	1956
+19549709	213	239	non-small-cell lung cancer	DiseaseOrPhenotypicFeature	D002289
+19549709	241	246	NSCLC	DiseaseOrPhenotypicFeature	D002289
+19549709	248	256	patients	OrganismTaxon	9606
+19549709	258	264	RAD001	ChemicalEntity	D000068338
+19549709	291	320	mammalian target of rapamycin	GeneOrGeneProduct	2475
+19549709	322	326	mTOR	GeneOrGeneProduct	2475
+19549709	359	364	NSCLC	DiseaseOrPhenotypicFeature	D002289
+19549709	392	397	NSCLC	DiseaseOrPhenotypicFeature	D002289
+19549709	398	406	patients	OrganismTaxon	9606
+19549709	459	467	platinum	ChemicalEntity	D010984
+19549709	511	559	epidermal growth factor receptor tyrosine kinase	GeneOrGeneProduct	1956
+19549709	593	599	RAD001	ChemicalEntity	D000068338
+19549709	644	652	toxicity	DiseaseOrPhenotypicFeature	D064420
+19549709	745	749	mTOR	GeneOrGeneProduct	2475
+19549709	787	792	tumor	DiseaseOrPhenotypicFeature	D009369
+19549709	895	903	patients	OrganismTaxon	9606
+19549709	1164	1171	fatigue	DiseaseOrPhenotypicFeature	D005221
+19549709	1173	1180	dyspnea	DiseaseOrPhenotypicFeature	D004417
+19549709	1182	1192	stomatitis	DiseaseOrPhenotypicFeature	D013280
+19549709	1194	1200	anemia	DiseaseOrPhenotypicFeature	D000740
+19549709	1206	1222	thrombocytopenia	DiseaseOrPhenotypicFeature	D013921
+19549709	1224	1235	Pneumonitis	DiseaseOrPhenotypicFeature	D011014
+19549709	1364	1367	AKT	GeneOrGeneProduct	207
+19549709	1369	1373	pAKT	GeneOrGeneProduct	207
+19549709	1442	1448	RAD001	ChemicalEntity	D000068338
+19549709	1526	1531	NSCLC	DiseaseOrPhenotypicFeature	D002289
+19549709	1547	1553	RAD001	ChemicalEntity	D000068338
+19549709	1591	1596	NSCLC	DiseaseOrPhenotypicFeature	D002289
+19549709	Association	2475	D002289	No
+19549709	Negative_Correlation	D000068338	2475	No
+19549709	Negative_Correlation	D000068338	D002289	No
+19549709	Association	1956	D002289	No
+19549709	Negative_Correlation	D010984	D002289	No

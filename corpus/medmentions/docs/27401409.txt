@@ -1,0 +1,61 @@
+27401409|t|Development of a Novel Quantitative Structure-Activity Relationship Model to Accurately Predict Pulmonary Absorption and Replace Routine Use of the Isolated Perfused Respiring Rat Lung Model
+27401409|a|We developed and tested a novel Quantitative Structure-Activity Relationship (QSAR) model to better understand the physicochemical drivers of pulmonary absorption, and to facilitate compound design through improved prediction of absorption. The model was tested using a large array of both existing and newly designed compounds. Pulmonary absorption data was generated using the isolated perfused respiring rat lung (IPRLu) model for 82 drug discovery compounds and 17 marketed drugs. This dataset was used to build a novel QSAR model based on calculated physicochemical properties. A further 9 compounds were used to test the model's predictive capability. The QSAR model performed well on the 9 compounds in the " Test set " with a predicted versus observed correlation of R(2) = 0.85, and >65% of compounds correctly categorised. Calculated descriptors associated with permeability and hydrophobicity positively correlated with pulmonary absorption, whereas those associated with charge, ionisation and size negatively correlated. The novel QSAR model described here can replace routine generation of IPRLu model data for ranking and classifying compounds prior to synthesis. It will also provide scientists working in the field of inhaled drug discovery with a deeper understanding of the physicochemical drivers of pulmonary absorption based on a relevant respiratory compound dataset.
+27401409	23	67	Quantitative Structure-Activity Relationship	T081	C0887819
+27401409	68	73	Model	T170	C3161035
+27401409	96	116	Pulmonary Absorption	T042	C3852990
+27401409	148	156	Isolated	T169	C0205409
+27401409	157	165	Perfused	T169	C1549542
+27401409	166	175	Respiring	T039	C0035203
+27401409	176	184	Rat Lung	T023	C1882727
+27401409	185	190	Model	T170	C3161035
+27401409	223	267	Quantitative Structure-Activity Relationship	T081	C0887819
+27401409	269	273	QSAR	T081	C0887819
+27401409	275	280	model	T170	C3161035
+27401409	306	321	physicochemical	T070	C2350461
+27401409	333	353	pulmonary absorption	T042	C3852990
+27401409	373	388	compound design	T090	C0013171
+27401409	406	416	prediction	T078	C0681842
+27401409	420	430	absorption	T067	C2347023
+27401409	436	441	model	T170	C3161035
+27401409	509	518	compounds	T121	C0013227
+27401409	520	540	Pulmonary absorption	T042	C3852990
+27401409	570	578	isolated	T169	C0205409
+27401409	579	587	perfused	T169	C1549542
+27401409	588	597	respiring	T039	C0035203
+27401409	598	606	rat lung	T023	C1882727
+27401409	608	613	IPRLu	T023	C1882727
+27401409	615	620	model	T170	C3161035
+27401409	628	642	drug discovery	T062	C0920472
+27401409	643	652	compounds	T121	C0013227
+27401409	660	674	marketed drugs	T121	C1254351
+27401409	715	719	QSAR	T081	C0887819
+27401409	720	725	model	T170	C3161035
+27401409	746	772	physicochemical properties	T070	C2350461
+27401409	786	795	compounds	T121	C0013227
+27401409	818	825	model's	T170	C3161035
+27401409	837	847	capability	T080	C2698977
+27401409	853	857	QSAR	T081	C0887819
+27401409	858	863	model	T170	C3161035
+27401409	888	897	compounds	T121	C0013227
+27401409	907	915	Test set	T170	C0150098
+27401409	951	962	correlation	T081	C0010100
+27401409	991	1000	compounds	T121	C0013227
+27401409	1063	1075	permeability	T070	C0031164
+27401409	1080	1094	hydrophobicity	T080	C0598629
+27401409	1122	1142	pulmonary absorption	T042	C3852990
+27401409	1174	1180	charge	T080	C0205556
+27401409	1182	1192	ionisation	T067	C0596801
+27401409	1197	1201	size	T082	C0456389
+27401409	1235	1239	QSAR	T081	C0887819
+27401409	1240	1245	model	T170	C3161035
+27401409	1295	1300	IPRLu	T023	C1882727
+27401409	1301	1306	model	T170	C3161035
+27401409	1316	1323	ranking	T170	C0699794
+27401409	1328	1339	classifying	T185	C0008902
+27401409	1340	1349	compounds	T121	C0013227
+27401409	1359	1368	synthesis	T052	C1883254
+27401409	1426	1448	inhaled drug discovery	T062	C0920472
+27401409	1484	1499	physicochemical	T070	C2350461
+27401409	1511	1531	pulmonary absorption	T042	C3852990
+27401409	1564	1572	compound	T121	C0013227
+27401409	1573	1580	dataset	T170	C0150098

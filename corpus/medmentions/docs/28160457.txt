@@ -1,0 +1,82 @@
+28160457|t|Associations between human breast milk hormones and adipocytokines and infant growth and body composition in the first 6 months of life
+28160457|a|Much is to be learnt about human breast milk (HBM). The purpose of this study is to extend our knowledge of HBM by investigating the role of maternal body mass index (BMI), sex and stage of lactation (month 1 vs. 6) on HBM insulin, glucose, leptin, IL-6 and TNF-α and their associations with infant body composition. Thirty-seven exclusively breastfeeding infants (n = 37; 16♀, 21♂), and their mothers (19-47 kg m(-2)) were studied at 1 and 6 months of lactation. Infants had body composition measured (using dual-energy X-ray absorptiometry) and HBM collected. A significant interaction between maternal BMI and infant sex on insulin levels (p = 0.0322) was observed such that insulin was 229% higher in obese mothers nursing female infants than in normal weight mothers nursing female infants and 179% higher than obese mothers nursing male infants. For leptin, a significant association with BMI category was observed (p < 0.0001) such that overweight and obese mothers had 96.5% and 315.1% higher leptin levels than normal weight mothers, respectively. Leptin was also found to have a significant (p = 0.0004) 33.7% decrease from months 1 to 6, controlling for BMI category and sex. A significant inverse relationship between month 1 leptin levels and infant length (p = 0.0257), percent fat (p = 0.0223), total fat mass (p = 0.0226) and trunk fat mass (p = 0.0111) at month 6 was also found. No associations or interactions were observed for glucose, TNF-α or IL-6. These data demonstrate that maternal BMI, infant sex and stage of lactation affect the compositional make-up of insulin and leptin.
+28160457	0	12	Associations	T080	C0439849
+28160457	21	38	human breast milk	T109,T121	C0885503
+28160457	39	47	hormones	T125	C0019932
+28160457	52	66	adipocytokines	T116,T123	C1955907
+28160457	71	84	infant growth	T039	C0205714
+28160457	89	105	body composition	T032	C0005885
+28160457	113	135	first 6 months of life	T033	C3280927
+28160457	163	180	human breast milk	T109,T121	C0885503
+28160457	182	185	HBM	T109,T121	C0885503
+28160457	244	247	HBM	T109,T121	C0885503
+28160457	277	285	maternal	T033	C1858460
+28160457	286	301	body mass index	T201	C1305855
+28160457	303	306	BMI	T201	C1305855
+28160457	309	312	sex	T032	C0079399
+28160457	317	335	stage of lactation	T042	C0022925
+28160457	355	358	HBM	T109,T121	C0885503
+28160457	359	366	insulin	T116,T121,T125	C0021641
+28160457	368	375	glucose	T109,T121,T123	C0017725
+28160457	377	383	leptin	T116,T125	C0299583
+28160457	385	389	IL-6	T116,T129	C0021760
+28160457	394	399	TNF-α	T116,T129	C1456820
+28160457	410	422	associations	T080	C0439849
+28160457	428	434	infant	T100	C0021270
+28160457	435	451	body composition	T032	C0005885
+28160457	478	499	breastfeeding infants	T033	C1623041
+28160457	530	537	mothers	T033	C1623040
+28160457	589	598	lactation	T042	C0022925
+28160457	600	607	Infants	T100	C0021270
+28160457	612	637	body composition measured	T201	C1285593
+28160457	645	677	dual-energy X-ray absorptiometry	T060	C1510486
+28160457	683	686	HBM	T109,T121	C0885503
+28160457	712	723	interaction	T169	C1704675
+28160457	732	740	maternal	T033	C1858460
+28160457	741	744	BMI	T201	C1305855
+28160457	749	759	infant sex	T032	C0079399
+28160457	763	777	insulin levels	T059	C0202098
+28160457	814	837	insulin was 229% higher	T034	C0428405
+28160457	841	846	obese	T047	C0028754
+28160457	847	854	mothers	T099	C0026591
+28160457	863	877	female infants	T033	C2222300
+28160457	886	899	normal weight	T033	C2712185
+28160457	900	907	mothers	T099	C0026591
+28160457	908	915	nursing	T040	C0006147
+28160457	908	915	nursing	T040	C0006147
+28160457	916	930	female infants	T033	C2222300
+28160457	952	957	obese	T047	C0028754
+28160457	958	965	mothers	T099	C0026591
+28160457	974	986	male infants	T033	C2216472
+28160457	992	998	leptin	T116,T125	C0299583
+28160457	1014	1025	association	T080	C0439849
+28160457	1031	1034	BMI	T201	C1305855
+28160457	1080	1090	overweight	T184	C0497406
+28160457	1095	1100	obese	T047	C0028754
+28160457	1101	1108	mothers	T099	C0026591
+28160457	1130	1150	higher leptin levels	T033	C2747815
+28160457	1156	1169	normal weight	T033	C2712185
+28160457	1170	1177	mothers	T099	C0026591
+28160457	1193	1199	Leptin	T116,T125	C0299583
+28160457	1301	1304	BMI	T201	C1305855
+28160457	1318	1321	sex	T032	C0079399
+28160457	1337	1344	inverse	T080	C0439850
+28160457	1345	1357	relationship	T080	C0439849
+28160457	1374	1380	leptin	T116,T125	C0299583
+28160457	1381	1387	levels	T080	C0441889
+28160457	1392	1405	infant length	T033	C0455806
+28160457	1420	1431	percent fat	T033	C0518026
+28160457	1446	1460	total fat mass	T032	C3656665
+28160457	1478	1492	trunk fat mass	T032	C3656665
+28160457	1536	1548	associations	T080	C0439849
+28160457	1552	1564	interactions	T169	C1704675
+28160457	1583	1590	glucose	T109,T121,T123	C0017725
+28160457	1592	1597	TNF-α	T116,T129	C1456820
+28160457	1601	1605	IL-6	T116,T129	C0021760
+28160457	1635	1643	maternal	T033	C1858460
+28160457	1644	1647	BMI	T201	C1305855
+28160457	1649	1655	infant	T100	C0021270
+28160457	1656	1659	sex	T032	C0079399
+28160457	1664	1682	stage of lactation	T042	C0022925
+28160457	1719	1726	insulin	T116,T121,T125	C0021641
+28160457	1731	1737	leptin	T116,T125	C0299583

@@ -1,0 +1,116 @@
+27242395|t|An Efficient and Reliable Statistical Method for Estimating Functional Connectivity in Large Scale Brain Networks Using Partial Correlation
+27242395|a|Currently, network-oriented analysis of fMRI data has become an important tool for understanding brain organization and brain networks. Among the range of network modeling methods, partial correlation has shown great promises in accurately detecting true brain network connections. However, the application of partial correlation in investigating brain connectivity, especially in large-scale brain networks, has been limited so far due to the technical challenges in its estimation. In this paper, we propose an efficient and reliable statistical method for estimating partial correlation in large-scale brain network modeling. Our method derives partial correlation based on the precision matrix estimated via Constrained L1-minimization Approach (CLIME), which is a recently developed statistical method that is more efficient and demonstrates better performance than the existing methods. To help select an appropriate tuning parameter for sparsity control in the network estimation, we propose a new Dens-based selection method that provides a more informative and flexible tool to allow the users to select the tuning parameter based on the desired sparsity level. Another appealing feature of the Dens-based method is that it is much faster than the existing methods, which provides an important advantage in neuroimaging applications. Simulation studies show that the Dens-based method demonstrates comparable or better performance with respect to the existing methods in network estimation. We applied the proposed partial correlation method to investigate resting state functional connectivity using rs-fMRI data from the Philadelphia Neurodevelopmental Cohort (PNC) study. Our results show that partial correlation analysis removed considerable between-module marginal connections identified by full correlation analysis, suggesting these connections were likely caused by global effects or common connection to other nodes. Based on partial correlation, we find that the most significant direct connections are between homologous brain locations in the left and right hemisphere. When comparing partial correlation derived under different sparse tuning parameters, an important finding is that the sparse regularization has more shrinkage effects on negative functional connections than on positive connections, which supports previous findings that many of the negative brain connections are due to non-neurophysiological effects. An R package "DensParcorr" can be downloaded from CRAN for implementing the proposed statistical methods.
+27242395	3	12	Efficient	T080	C0442799
+27242395	17	25	Reliable	T080	C0205556
+27242395	26	44	Statistical Method	T062	C1710191
+27242395	49	59	Estimating	T081	C0750572
+27242395	60	70	Functional	T169	C0205245
+27242395	71	83	Connectivity	T082	C0449379
+27242395	99	104	Brain	T023	C0006104
+27242395	105	113	Networks	T040	C0598941
+27242395	120	127	Partial	T081	C0728938
+27242395	128	139	Correlation	T080	C1707520
+27242395	151	167	network-oriented	T040	C0598941
+27242395	168	176	analysis	T062	C0936012
+27242395	180	184	fMRI	T060	C0376335
+27242395	185	189	data	T078	C1511726
+27242395	204	218	important tool	T073	C2827396
+27242395	237	242	brain	T023	C0006104
+27242395	243	255	organization	T039	C0029237
+27242395	260	265	brain	T023	C0006104
+27242395	266	274	networks	T040	C0598941
+27242395	295	302	network	T040	C0598941
+27242395	303	319	modeling methods	T170	C1554090
+27242395	321	328	partial	T081	C0728938
+27242395	329	340	correlation	T080	C1707520
+27242395	380	389	detecting	T033	C0442726
+27242395	395	400	brain	T023	C0006104
+27242395	401	408	network	T040	C0598941
+27242395	409	420	connections	T082	C0449379
+27242395	450	457	partial	T081	C0728938
+27242395	458	469	correlation	T080	C1707520
+27242395	473	486	investigating	T169	C1292732
+27242395	487	492	brain	T023	C0006104
+27242395	493	505	connectivity	T082	C0449379
+27242395	533	538	brain	T023	C0006104
+27242395	539	547	networks	T040	C0598941
+27242395	584	604	technical challenges	T067	C1710348
+27242395	612	622	estimation	T081	C0750572
+27242395	653	662	efficient	T080	C0442799
+27242395	667	675	reliable	T080	C0205556
+27242395	676	694	statistical method	T062	C1710191
+27242395	699	709	estimating	T081	C0750572
+27242395	710	717	partial	T081	C0728938
+27242395	718	729	correlation	T080	C1707520
+27242395	745	750	brain	T023	C0006104
+27242395	751	758	network	T040	C0598941
+27242395	759	767	modeling	T062	C0870071
+27242395	773	779	method	T170	C0025663
+27242395	788	795	partial	T081	C0728938
+27242395	796	807	correlation	T080	C1707520
+27242395	821	847	precision matrix estimated	T081	C0750572
+27242395	852	888	Constrained L1-minimization Approach	T062	C1710191
+27242395	890	895	CLIME	T062	C1710191
+27242395	928	946	statistical method	T062	C1710191
+27242395	960	969	efficient	T080	C0442799
+27242395	994	1005	performance	T052	C1882330
+27242395	1024	1031	methods	T170	C0025663
+27242395	1063	1079	tuning parameter	T077	C0549193
+27242395	1093	1100	control	T080	C0243148
+27242395	1108	1115	network	T040	C0598941
+27242395	1116	1126	estimation	T081	C0750572
+27242395	1145	1172	Dens-based selection method	T062	C1710191
+27242395	1194	1205	informative	T080	C2986490
+27242395	1210	1218	flexible	T080	C0443220
+27242395	1219	1223	tool	T170	C0037589
+27242395	1257	1273	tuning parameter	T077	C0549193
+27242395	1295	1303	sparsity	T082	C1254362
+27242395	1304	1309	level	T080	C0441889
+27242395	1344	1361	Dens-based method	T062	C1710191
+27242395	1406	1413	methods	T170	C0025663
+27242395	1456	1481	neuroimaging applications	T060	C0679575
+27242395	1483	1501	Simulation studies	T062	C0679083
+27242395	1516	1533	Dens-based method	T062	C1710191
+27242395	1568	1579	performance	T052	C1882330
+27242395	1609	1616	methods	T170	C0025663
+27242395	1620	1627	network	T040	C0598941
+27242395	1628	1638	estimation	T081	C0750572
+27242395	1664	1671	partial	T081	C0728938
+27242395	1672	1683	correlation	T080	C1707520
+27242395	1684	1690	method	T170	C0025663
+27242395	1694	1705	investigate	T169	C1292732
+27242395	1706	1762	resting state functional connectivity using rs-fMRI data	T060	C4288291
+27242395	1772	1822	Philadelphia Neurodevelopmental Cohort (PNC) study	T081	C0009247
+27242395	1828	1835	results	T169	C1274040
+27242395	1846	1853	partial	T081	C0728938
+27242395	1854	1865	correlation	T080	C1707520
+27242395	1866	1874	analysis	T062	C0936012
+27242395	1911	1931	marginal connections	T082	C0449379
+27242395	1951	1971	correlation analysis	T062,T170	C0010101
+27242395	1990	2001	connections	T082	C0449379
+27242395	2049	2059	connection	T082	C0449379
+27242395	2069	2074	nodes	T023	C0746922
+27242395	2085	2092	partial	T081	C0728938
+27242395	2093	2104	correlation	T080	C1707520
+27242395	2147	2158	connections	T082	C0449379
+27242395	2182	2187	brain	T023	C0006104
+27242395	2188	2197	locations	T029	C1515974
+27242395	2205	2209	left	T023	C0228176
+27242395	2214	2230	right hemisphere	T023	C0228175
+27242395	2247	2254	partial	T081	C0728938
+27242395	2255	2266	correlation	T080	C1707520
+27242395	2291	2297	sparse	T082	C1254362
+27242395	2298	2315	tuning parameters	T077	C0549193
+27242395	2381	2398	shrinkage effects	T169	C0332513
+27242395	2402	2410	negative	T033	C0205160
+27242395	2411	2421	functional	T169	C0205245
+27242395	2422	2433	connections	T082	C0449379
+27242395	2442	2450	positive	T033	C1446409
+27242395	2451	2462	connections	T082	C0449379
+27242395	2514	2522	negative	T033	C0205160
+27242395	2523	2528	brain	T023	C0006104
+27242395	2529	2540	connections	T082	C0449379
+27242395	2552	2582	non-neurophysiological effects	T039	C1372849
+27242395	2587	2610	R package "DensParcorr"	T170	C0037589
+27242395	2634	2638	CRAN	T170	C0282574
+27242395	2669	2688	statistical methods	T062	C1710191

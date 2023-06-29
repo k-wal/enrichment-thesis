@@ -1,0 +1,79 @@
+28459124|t|Museum specimen data reveal emergence of a plant disease may be linked to increases in the insect vector population
+28459124|a|The emergence rate of new plant diseases is increasing due to novel introductions, climate change, and changes in vector populations, posing risks to agricultural sustainability. Assessing and managing future disease risks depends on understanding the causes of contemporary and historical emergence events. Since the mid-1990s, potato growers in the western United States, Mexico, and Central America have experienced severe yield loss from Zebra Chip disease and have responded by increasing insecticide use to suppress populations of the insect vector, the potato psyllid, Bactericera cockerelli (Hemiptera: Triozidae). Despite the severe nature of Zebra Chip outbreaks, the causes of emergence remain unknown. We tested the hypotheses that 1) B. cockerelli occupancy has increased over the last century in California and 2) such increases are related to climate change, specifically warmer winters. We compiled a dataset of 87,000 museum specimen occurrence records across the order Hemiptera collected between 1900 and 2014. We then analyzed changes in B. cockerelli distribution using a hierarchical occupancy model using changes in background species lists to correct for collecting effort. We found evidence that B. cockerelli occupancy has increased over the last century. However, these changes appear to be unrelated to climate changes, at least at the scale of our analysis. To the extent that species occupancy is related to abundance, our analysis provides the first quantitative support for the hypothesis that B. cockerelli population abundance has increased, but further work is needed to link B. cockerelli population dynamics to Zebra Chip epidemics. Finally, we demonstrate how this historical macro-ecological approach provides a general framework for comparative risk assessment of future pest and insect vector outbreaks. This article is protected by copyright. All rights reserved.
+28459124	0	6	Museum	T073	C0026863
+28459124	7	15	specimen	T167	C0370003
+28459124	16	20	data	T078	C1511726
+28459124	43	56	plant disease	T047	C0032080
+28459124	74	83	increases	T169	C0442805
+28459124	91	104	insect vector	T204	C0021573
+28459124	91	115	insect vector population	T098	C1257890
+28459124	120	134	emergence rate	T081	C1521828
+28459124	142	156	plant diseases	T047	C0032080
+28459124	160	170	increasing	T169	C0442808
+28459124	199	213	climate change	T070	C2718051
+28459124	219	226	changes	T169	C0392747
+28459124	230	248	vector populations	T098	C1257890
+28459124	257	262	risks	T078	C0035647
+28459124	266	278	agricultural	T090	C0001829
+28459124	266	293	agricultural sustainability	T169	C0205245
+28459124	295	317	Assessing and managing	T052	C0441655
+28459124	325	332	disease	T047	C0012634
+28459124	333	338	risks	T078	C0035647
+28459124	378	422	contemporary and historical emergence events	T051	C0441471
+28459124	445	459	potato growers	T097	C0027363
+28459124	467	488	western United States	T083	C0041703
+28459124	490	496	Mexico	T083	C0025885
+28459124	502	517	Central America	T083	C0007674
+28459124	542	552	yield loss	T081	C0392762
+28459124	558	576	Zebra Chip disease	T047	C0012634
+28459124	610	621	insecticide	T131	C0021576
+28459124	638	649	populations	T098	C1257890
+28459124	657	670	insect vector	T204	C0021573
+28459124	676	690	potato psyllid	T204	C1502411
+28459124	692	714	Bactericera cockerelli	T204	C1502411
+28459124	716	725	Hemiptera	T204	C0018992
+28459124	727	736	Triozidae	T204	C1007295
+28459124	768	778	Zebra Chip	T047	C0012634
+28459124	779	788	outbreaks	T067	C0012652
+28459124	844	854	hypotheses	T078	C1512571
+28459124	863	876	B. cockerelli	T204	C1502411
+28459124	877	886	occupancy	T080	C2827063
+28459124	891	900	increased	T081	C0205217
+28459124	915	922	century	T121,T127	C0719214
+28459124	926	936	California	T083	C0006754
+28459124	974	988	climate change	T070	C2718051
+28459124	1003	1017	warmer winters	T079	C0241737
+28459124	1033	1040	dataset	T170	C0150098
+28459124	1051	1057	museum	T073	C0026863
+28459124	1058	1066	specimen	T167	C0370003
+28459124	1078	1085	records	T170	C0034869
+28459124	1103	1112	Hemiptera	T204	C0018992
+28459124	1154	1162	analyzed	T062	C0936012
+28459124	1174	1187	B. cockerelli	T204	C1502411
+28459124	1209	1237	hierarchical occupancy model	T170	C3161035
+28459124	1266	1273	species	T185	C1705920
+28459124	1266	1279	species lists	T170	C0745732
+28459124	1323	1331	evidence	T078	C3887511
+28459124	1337	1350	B. cockerelli	T204	C1502411
+28459124	1351	1360	occupancy	T080	C2827063
+28459124	1365	1374	increased	T081	C0205217
+28459124	1389	1396	century	T121,T127	C0719214
+28459124	1447	1462	climate changes	T070	C2718051
+28459124	1493	1501	analysis	T062	C0936012
+28459124	1522	1529	species	T185	C1705920
+28459124	1530	1539	occupancy	T080	C2827063
+28459124	1569	1577	analysis	T062	C0936012
+28459124	1626	1636	hypothesis	T078	C1512571
+28459124	1642	1655	B. cockerelli	T204	C1502411
+28459124	1656	1666	population	T098	C1257890
+28459124	1681	1690	increased	T081	C0205217
+28459124	1727	1740	B. cockerelli	T204	C1502411
+28459124	1741	1751	population	T098	C1257890
+28459124	1752	1760	dynamics	T070	C3826426
+28459124	1764	1774	Zebra Chip	T047	C0012634
+28459124	1764	1784	Zebra Chip epidemics	T047	C0277548
+28459124	1819	1855	historical macro-ecological approach	T082	C0449445
+28459124	1889	1916	comparative risk assessment	T058	C0086930
+28459124	1927	1931	pest	T204	C0684063
+28459124	1936	1949	insect vector	T204	C0021573
+28459124	1950	1959	outbreaks	T067	C0012652

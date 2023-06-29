@@ -1,0 +1,25 @@
+27806921|t|Simulating the potential role of media coverage and infected bats in the 2014 Ebola outbreak
+27806921|a|Multiple epidemiological models have been developed to model the transmission dynamics of Ebola virus (EBOV) disease in West Africa in 2014 because the severity of the epidemic is commonly overestimated. A compartmental model that incorporates the media impact and the effect of infected bats was constructed and calibrated using data reported until the end of 2014. The final cumulative number of deaths and confirmed cases were estimated to be 1.0921×10(4) (95% CI 9.7706×10(3)-1.2072×10(4)) and 1.5193×10(4) (95% CI 1.3593×10(4)-1.6795×10(4)), respectively. The epidemic was estimated to end on June 2015, which was similar to the data reported by the World Health Organization. A sensitivity analysis indicated that an increase of either the media impact or the number of infectious bats that are captured daily can increase the cumulative number of confirmed cases / deaths. Of the considered epidemiological parameters, only the media coverage can significantly reduce both the peak time and the value of the cumulative confirmed cases / deaths. Thus, we propose 'the cumulative confirmed cases and deaths ' as another media mechanism. In conclusion, the media impact contributed to the control of the 2014 Ebola outbreak, and infectious bats may be a potential source of the epidemic.
+27806921	0	10	Simulating	T062	UMLS:C0679083
+27806921	52	60	infected	T033	UMLS:C0439663
+27806921	61	65	bats	T204	UMLS:C0008139
+27806921	78	83	Ebola	T038	UMLS:C0282687
+27806921	183	209	Ebola virus (EBOV) disease	T038	UMLS:C0282687
+27806921	213	224	West Africa	T082	UMLS:C0001747
+27806921	299	318	compartmental model	T170	UMLS:C2986731
+27806921	372	380	infected	T033	UMLS:C0439663
+27806921	381	385	bats	T204	UMLS:C0008139
+27806921	502	511	confirmed	T033	UMLS:C0750484
+27806921	732	740	reported	T058	UMLS:C0700287
+27806921	748	773	World Health Organization	T092	UMLS:C0043237
+27806921	777	797	sensitivity analysis	T062	UMLS:C0936012
+27806921	798	807	indicated	T033	UMLS:C1444656
+27806921	880	884	bats	T204	UMLS:C0008139
+27806921	947	956	confirmed	T033	UMLS:C0750484
+27806921	1077	1086	peak time	T033	UMLS:C3840073
+27806921	1119	1128	confirmed	T033	UMLS:C0750484
+27806921	1178	1187	confirmed	T033	UMLS:C0750484
+27806921	1218	1223	media	T170	UMLS:C0009458
+27806921	1306	1311	Ebola	T038	UMLS:C0282687
+27806921	1337	1341	bats	T204	UMLS:C0008139
+27806921	1361	1367	source	T033	UMLS:C0449416

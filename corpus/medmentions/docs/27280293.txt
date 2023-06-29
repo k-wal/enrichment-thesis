@@ -1,0 +1,89 @@
+27280293|t|Spatio-Temporal History of HIV-1 CRF35_AD in Afghanistan and Iran
+27280293|a|HIV-1 Circulating Recombinant Form 35_AD (CRF35_AD) has an important position in the epidemiological profile of Afghanistan and Iran. Despite the presence of this clade in Afghanistan and Iran for over a decade, our understanding of its origin and dissemination patterns is limited. In this study, we performed a Bayesian phylogeographic analysis to reconstruct the spatio-temporal dispersion pattern of this clade using eligible CRF35_AD gag and pol sequences available in the Los Alamos HIV database (432 sequences available from Iran, 16 sequences available from Afghanistan, and a single CRF35_AD -like pol sequence available from USA). Bayesian Markov Chain Monte Carlo algorithm was implemented in BEAST v1.8.1. Between-country dispersion rates were tested with Bayesian stochastic search variable selection method and were considered significant where Bayes factor values were greater than three. The findings suggested that CRF35_AD sequences were genetically similar to parental sequences from Kenya and Uganda, and to a set of subtype A1 sequences available from Afghan refugees living in Pakistan. Our results also showed that across all phylogenies, Afghan and Iranian CRF35_AD sequences formed a monophyletic cluster (posterior clade credibility> 0.7). The divergence date of this cluster was estimated to be between 1990 and 1992. Within this cluster, a bidirectional dispersion of the virus was observed across Afghanistan and Iran. We could not clearly identify if Afghanistan or Iran first established or received this epidemic, as the root location of this cluster could not be robustly estimated. Three CRF35_AD sequences from Afghan refugees living in Pakistan nested among Afghan and Iranian CRF35_AD branches. However, the CRF35_AD -like sequence available from USA diverged independently from Kenyan subtype A1 sequences, suggesting it not to be a true CRF35_AD lineage. Potential factors contributing to viral exchange between Afghanistan and Iran could be injection drug networks and mass migration of Afghan refugees and labours to Iran, which calls for extensive preventive efforts.
+27280293	0	23	Spatio-Temporal History	T062	C3494293
+27280293	27	41	HIV-1 CRF35_AD	T034	C3656358
+27280293	45	56	Afghanistan	T083	C0001732
+27280293	61	65	Iran	T083	C0022065
+27280293	66	106	HIV-1 Circulating Recombinant Form 35_AD	T005	C0019704
+27280293	108	116	CRF35_AD	T034	C3656358
+27280293	151	166	epidemiological	T091	C0014507
+27280293	167	174	profile	T169	C2003903
+27280293	178	189	Afghanistan	T083	C0001732
+27280293	194	198	Iran	T083	C0022065
+27280293	229	234	clade	T001	C0029235
+27280293	238	249	Afghanistan	T083	C0001732
+27280293	254	258	Iran	T083	C0022065
+27280293	314	327	dissemination	T080	C0332261
+27280293	379	412	Bayesian phylogeographic analysis	T081	C0242196
+27280293	432	466	spatio-temporal dispersion pattern	T080	C0332261
+27280293	475	480	clade	T001	C0029235
+27280293	496	504	CRF35_AD	T034	C3656358
+27280293	505	526	gag and pol sequences	T086	C0004793
+27280293	544	554	Los Alamos	T083	C3829256
+27280293	555	567	HIV database	T170	C0950132
+27280293	573	582	sequences	T086	C0004793
+27280293	598	602	Iran	T083	C0022065
+27280293	607	616	sequences	T086	C0004793
+27280293	632	643	Afghanistan	T083	C0001732
+27280293	658	666	CRF35_AD	T034	C3656358
+27280293	673	685	pol sequence	T086	C0004793
+27280293	701	704	USA	T083	C0041703
+27280293	707	750	Bayesian Markov Chain Monte Carlo algorithm	T170	C0002045
+27280293	770	782	BEAST v1.8.1	T073,T170	C0037585
+27280293	834	886	Bayesian stochastic search variable selection method	T170	C0034980
+27280293	925	944	Bayes factor values	T081	C1553908
+27280293	998	1006	CRF35_AD	T034	C3656358
+27280293	1007	1016	sequences	T086	C0004793
+27280293	1045	1063	parental sequences	T086	C0004793
+27280293	1069	1074	Kenya	T083	C0022558
+27280293	1079	1085	Uganda	T083	C0041573
+27280293	1103	1113	subtype A1	T034	C3656358
+27280293	1114	1123	sequences	T086	C0004793
+27280293	1139	1145	Afghan	T083	C0001732
+27280293	1146	1154	refugees	T098	C0034961
+27280293	1165	1173	Pakistan	T083	C0030211
+27280293	1215	1226	phylogenies	T078	C0031797
+27280293	1228	1234	Afghan	T083	C0001732
+27280293	1239	1246	Iranian	T083	C0022065
+27280293	1247	1255	CRF35_AD	T034	C3656358
+27280293	1256	1265	sequences	T086	C0004793
+27280293	1275	1295	monophyletic cluster	T081	C1704332
+27280293	1360	1367	cluster	T081	C1704332
+27280293	1423	1430	cluster	T081	C1704332
+27280293	1434	1447	bidirectional	T080	C1706937
+27280293	1448	1458	dispersion	T080	C0332261
+27280293	1466	1471	virus	T005	C0042776
+27280293	1492	1503	Afghanistan	T083	C0001732
+27280293	1508	1512	Iran	T083	C0022065
+27280293	1547	1558	Afghanistan	T083	C0001732
+27280293	1562	1566	Iran	T083	C0022065
+27280293	1602	1610	epidemic	T047	C0277548
+27280293	1641	1648	cluster	T081	C1704332
+27280293	1688	1696	CRF35_AD	T034	C3656358
+27280293	1697	1706	sequences	T086	C0004793
+27280293	1712	1718	Afghan	T083	C0001732
+27280293	1719	1727	refugees	T098	C0034961
+27280293	1728	1737	living in	T082	C0337646
+27280293	1738	1746	Pakistan	T083	C0030211
+27280293	1760	1766	Afghan	T083	C0001732
+27280293	1771	1778	Iranian	T083	C0022065
+27280293	1779	1787	CRF35_AD	T034	C3656358
+27280293	1811	1819	CRF35_AD	T034	C3656358
+27280293	1826	1834	sequence	T086	C0004793
+27280293	1850	1853	USA	T083	C0041703
+27280293	1882	1888	Kenyan	T083	C0022558
+27280293	1889	1899	subtype A1	T034	C3656358
+27280293	1900	1909	sequences	T086	C0004793
+27280293	1942	1950	CRF35_AD	T034	C3656358
+27280293	1960	1969	Potential	T080	C3245505
+27280293	1970	1977	factors	T169	C1521761
+27280293	1994	1999	viral	T005	C0042776
+27280293	2017	2028	Afghanistan	T083	C0001732
+27280293	2033	2037	Iran	T083	C0022065
+27280293	2075	2089	mass migration	T054	C0600210
+27280293	2093	2099	Afghan	T083	C0001732
+27280293	2100	2108	refugees	T098	C0034961
+27280293	2113	2120	labours	T055	C0022867
+27280293	2124	2128	Iran	T083	C0022065
+27280293	2146	2155	extensive	T080	C0205231
+27280293	2156	2166	preventive	T080	C1456501

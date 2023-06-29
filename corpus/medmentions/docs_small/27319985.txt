@@ -1,0 +1,38 @@
+27319985|t|Acute Kidney Injury Severity and Long-Term Readmission and Mortality After Cardiac Surgery
+27319985|a|Acute kidney injury (AKI) is a common complication after cardiac surgery. While AKI severity is known to be associated with increased risk of short-term outcomes, its long-term impact is less well understood. Adult patients undergoing isolated coronary artery bypass graft surgery at eight centers were enrolled into the Northern New England biomarker registry (n = 1,610). Patients were excluded if they had renal failure (n = 15) or died during index admission (n = 38). Severity of AKI was defined using the Acute Kidney Injury Network (AKIN). We linked our cohort to national Medicare and state all-payer claims to ascertain readmissions and to the National Death Index to ascertain survival. Kaplan-Meier and multivariate Cox proportional hazards modeling was conducted for time to readmission and death over 5 years. Within 5 years, 513 patients (33.8%) had AKI with AKIN stage 1 (29.9%) and stage 2 to 3 (3.9%). There were 620 readmissions (39.9%) and 370 deaths (23.8%). After adjustment, stage 1 AKI patients had a 31% increased risk of readmission (95% confidence interval [CI]: 1.10 to 1.57), whereas stage 2 or 3 patients had a 98% increased risk (95% CI: 1.41 to 2.78) compared with patients having no AKI. Relative to patients without AKI, stage 1 patients had a 56% increased risk of mortality (95% CI: 1.14 to 2.13), whereas stage 2 or 3 patients had a 3.5 times higher risk (95% CI: 2.16 to 5.60). Severity of AKI using the AKIN stage criteria is associated with a significantly increased risk of 5-year readmission and mortality. Our findings suggest that efforts to reduce AKI in the perioperative period may have a significant long-term impact on patients and payers in reducing mortality and health care utilization.
+27319985	0	19	Acute Kidney Injury	T037	UMLS:C2609414
+27319985	43	54	Readmission	T058	UMLS:C0030700
+27319985	75	90	Cardiac Surgery	T058	UMLS:C0018821
+27319985	91	110	Acute kidney injury	T037	UMLS:C2609414
+27319985	112	115	AKI	T037	UMLS:C2609414
+27319985	129	141	complication	T038	UMLS:C0009566
+27319985	148	163	cardiac surgery	T058	UMLS:C0018821
+27319985	171	174	AKI	T037	UMLS:C2609414
+27319985	335	371	coronary artery bypass graft surgery	T058	UMLS:C0010055
+27319985	412	451	Northern New England biomarker registry	T170	UMLS:C0034975
+27319985	500	513	renal failure	T038	UMLS:C0035078
+27319985	526	530	died	T033	UMLS:C1306577
+27319985	538	553	index admission	T058	UMLS:C0030673
+27319985	576	579	AKI	T037	UMLS:C2609414
+27319985	602	629	Acute Kidney Injury Network	T170	UMLS:C0008902
+27319985	631	635	AKIN	T170	UMLS:C0008902
+27319985	684	706	state all-payer claims	T170	UMLS:C0282574
+27319985	720	732	readmissions	T058	UMLS:C0030700
+27319985	744	764	National Death Index	T170	UMLS:C3889680
+27319985	805	851	multivariate Cox proportional hazards modeling	T170	UMLS:C0010235
+27319985	878	889	readmission	T058	UMLS:C0030700
+27319985	894	899	death	T033	UMLS:C1306577
+27319985	955	958	AKI	T037	UMLS:C2609414
+27319985	964	968	AKIN	T170	UMLS:C0008902
+27319985	1025	1037	readmissions	T058	UMLS:C0030700
+27319985	1054	1060	deaths	T033	UMLS:C1306577
+27319985	1096	1099	AKI	T037	UMLS:C2609414
+27319985	1137	1148	readmission	T058	UMLS:C0030700
+27319985	1303	1305	no	T033	UMLS:C1513916
+27319985	1306	1309	AKI	T037	UMLS:C2609414
+27319985	1340	1343	AKI	T037	UMLS:C2609414
+27319985	1518	1521	AKI	T037	UMLS:C2609414
+27319985	1532	1536	AKIN	T170	UMLS:C0008902
+27319985	1612	1623	readmission	T058	UMLS:C0030700
+27319985	1683	1686	AKI	T037	UMLS:C2609414
+27319985	1804	1827	health care utilization	T058	UMLS:C0030672

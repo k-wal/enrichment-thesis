@@ -1,0 +1,121 @@
+28182705|t|Low implementation of Xpert MTB/RIF among HIV / TB co-infected adults in the International epidemiologic Databases to Evaluate AIDS (IeDEA) program
+28182705|a|Xpert MTB/RIF is recommended by the World Health Organization (WHO) as the initial tuberculosis (TB) diagnostic test in individuals suspected of HIV - associated TB. We sought to evaluate field implementation of Xpert among a cohort of HIV / TB co-infected individuals, including availability, utilization and outcomes. Observational cohort study (patient-level data) and cross-sectional study (site-level Xpert availability data). Data were collected at 30 participating International epidemiologic Databases to Evaluate AIDS (IeDEA) sites in 18 countries from January 2012- January 2016. All patients were HIV-infected and diagnosed with TB, either bacteriologically or clinically, and followed until a determination of TB treatment outcome. We used multivariable modified Poisson regression to estimate adjusted relative risk (RR) and 95% confidence intervals for unfavorable TB treatment outcomes. Most sites (63%) had access to Xpert, either in the clinic (13%), in the same facility (20%) or offsite (30%). Among 2722 HIV / TB patients included, median age was 35.4 years and 41% were female; BMI and CD4 count were low. Overall, most patients (76%) received at least one TB test; 45% were positive. Only 4% of all patients were tested using Xpert: 64% were Xpert - positive, 13% showed rifampicin (RIF) resistance and 30% were extrapulmonary (EPTB) or both pulmonary - EPTB. Treatment outcomes were mostly favorable (77%) and we found little association between Xpert use and an unfavorable TB treatment outcome (RR 1.25, 95% CI: 0.83, 1.90). In this cohort, Xpert utilization was low even though the majority of sites had access to the test. Our findings show the need for expanded implementation and further research exploring barriers to use in low-resource settings.
+28182705	0	3	Low	T080	C0205251
+28182705	4	18	implementation	T052	C1708476
+28182705	22	35	Xpert MTB/RIF	T060	C0430022
+28182705	42	45	HIV	T047	C0019693
+28182705	48	50	TB	T047	C0041296
+28182705	51	62	co-infected	T047	C0275524
+28182705	63	69	adults	T100	C0001675
+28182705	77	131	International epidemiologic Databases to Evaluate AIDS	T170	C0282574
+28182705	133	138	IeDEA	T170	C0282574
+28182705	140	147	program	T169	C3484370
+28182705	148	161	Xpert MTB/RIF	T060	C0430022
+28182705	165	176	recommended	T078	C0034866
+28182705	184	209	World Health Organization	T093	C0043237
+28182705	211	214	WHO	T093	C0043237
+28182705	231	243	tuberculosis	T047	C0041296
+28182705	245	247	TB	T047	C0041296
+28182705	249	264	diagnostic test	T060	C0086143
+28182705	268	279	individuals	T098	C0237401
+28182705	280	289	suspected	T078	C0750491
+28182705	293	296	HIV	T047	C0019693
+28182705	299	309	associated	T078	C0750490
+28182705	310	312	TB	T047	C0041296
+28182705	327	335	evaluate	T058	C0220825
+28182705	336	341	field	T077	C1521738
+28182705	342	356	implementation	T052	C1708476
+28182705	360	365	Xpert	T060	C0430022
+28182705	374	380	cohort	T098	C0599755
+28182705	384	387	HIV	T047	C0019693
+28182705	390	392	TB	T047	C0041296
+28182705	393	404	co-infected	T047	C0275524
+28182705	405	416	individuals	T098	C0237401
+28182705	428	440	availability	T169	C0470187
+28182705	442	453	utilization	T169	C0042153
+28182705	458	466	outcomes	T169	C1274040
+28182705	482	494	cohort study	T081	C0009247
+28182705	496	514	patient-level data	T033	C0586019
+28182705	520	541	cross-sectional study	T062	C0010362
+28182705	543	553	site-level	T080	C0441889
+28182705	554	559	Xpert	T060	C0430022
+28182705	560	577	availability data	T033	C4035953
+28182705	580	584	Data	T078	C1511726
+28182705	590	599	collected	T169	C1516698
+28182705	606	619	participating	T169	C0679823
+28182705	620	674	International epidemiologic Databases to Evaluate AIDS	T170	C0282574
+28182705	676	681	IeDEA	T170	C0282574
+28182705	683	688	sites	T082	C0205145
+28182705	695	704	countries	T083	C0454664
+28182705	710	717	January	T080	C3829466
+28182705	724	731	January	T080	C3829466
+28182705	742	750	patients	T101	C0030705
+28182705	756	768	HIV-infected	T047	C0019693
+28182705	773	782	diagnosed	T033	C0011900
+28182705	788	790	TB	T047	C0041296
+28182705	799	816	bacteriologically	T169	C0205465
+28182705	820	830	clinically	T080	C0205210
+28182705	853	866	determination	T080	C0205259
+28182705	870	872	TB	T047	C0041296
+28182705	873	890	treatment outcome	T080	C0085415
+28182705	900	941	multivariable modified Poisson regression	T170	C0034980
+28182705	945	953	estimate	T081	C0750572
+28182705	963	976	relative risk	T081	C0242492
+28182705	978	980	RR	T081	C0242492
+28182705	990	1010	confidence intervals	T081	C0009667
+28182705	1015	1026	unfavorable	T080	C3640815
+28182705	1027	1029	TB	T047	C0041296
+28182705	1030	1048	treatment outcomes	T080	C0085415
+28182705	1055	1060	sites	T082	C0205145
+28182705	1071	1077	access	T082	C0444454
+28182705	1081	1086	Xpert	T060	C0430022
+28182705	1102	1108	clinic	T073,T093	C0442592
+28182705	1128	1136	facility	T073	C1547538
+28182705	1146	1153	offsite	T082	C3828730
+28182705	1172	1175	HIV	T047	C0019693
+28182705	1178	1180	TB	T047	C0041296
+28182705	1181	1189	patients	T101	C0030705
+28182705	1200	1210	median age	T032	C0001779
+28182705	1220	1225	years	T079	C0439234
+28182705	1239	1245	female	T032	C0086287
+28182705	1247	1250	BMI	T201	C1305855
+28182705	1255	1264	CD4 count	T059	C1277791
+28182705	1270	1273	low	T080	C0205251
+28182705	1289	1297	patients	T101	C0030705
+28182705	1304	1312	received	T080	C1514756
+28182705	1326	1333	TB test	T060	C2242734
+28182705	1344	1352	positive	T033	C1446409
+28182705	1369	1377	patients	T101	C0030705
+28182705	1383	1389	tested	T169	C0039593
+28182705	1396	1401	Xpert	T060	C0430022
+28182705	1412	1417	Xpert	T060	C0430022
+28182705	1420	1428	positive	T033	C1446409
+28182705	1441	1451	rifampicin	T109,T195	C0035608
+28182705	1453	1456	RIF	T109,T195	C0035608
+28182705	1458	1468	resistance	T169	C4281815
+28182705	1482	1496	extrapulmonary	T047	C0679362
+28182705	1498	1502	EPTB	T047	C0679362
+28182705	1512	1521	pulmonary	T047	C0041327
+28182705	1524	1528	EPTB	T047	C0679362
+28182705	1530	1548	Treatment outcomes	T080	C0085415
+28182705	1561	1570	favorable	T080	C3640814
+28182705	1597	1608	association	T080	C0439849
+28182705	1617	1622	Xpert	T060	C0430022
+28182705	1634	1645	unfavorable	T080	C3640815
+28182705	1646	1648	TB	T047	C0041296
+28182705	1649	1666	treatment outcome	T080	C0085415
+28182705	1668	1670	RR	T081	C0242492
+28182705	1681	1683	CI	T081	C0009667
+28182705	1706	1712	cohort	T098	C0599755
+28182705	1714	1719	Xpert	T060	C0430022
+28182705	1720	1731	utilization	T169	C0042153
+28182705	1736	1739	low	T080	C0205251
+28182705	1756	1764	majority	T054	C0680220
+28182705	1768	1773	sites	T082	C0205145
+28182705	1778	1784	access	T082	C0444454
+28182705	1792	1796	test	T170	C0392366
+28182705	1802	1810	findings	T033	C0243095
+28182705	1829	1837	expanded	T082	C0205229
+28182705	1838	1852	implementation	T052	C1708476
+28182705	1865	1873	research	T062	C0035168
+28182705	1903	1915	low-resource	T078	C0035201

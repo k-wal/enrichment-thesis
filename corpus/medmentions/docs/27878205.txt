@@ -1,0 +1,105 @@
+27878205|t|Iterative Development and Evaluation of a Pharmacogenomic -Guided Clinical Decision Support System for Warfarin Dosing
+27878205|a|Pharmacogenomic -guided dosing has the potential to improve patient outcomes but its implementation has been met with clinical challenges. Our objective was to develop and evaluate a clinical decision support system (CDSS) for pharmacogenomic -guided warfarin dosing designed for physicians and pharmacists. Twelve physicians and pharmacists completed 6 prescribing tasks using simulated patient scenarios in two iterations (development and validation phases) of a newly developed pharmacogenomic -driven CDSS prototype. For each scenario, usability was measured via efficiency, recorded as time to task completion, and participants ' perceived satisfaction which were compared using Kruskal-Wallis and Mann Whitney U tests, respectively. Debrief interviews were conducted and qualitatively analyzed. Usability findings from the first (i.e. development) iteration were incorporated into the CDSS design for the second (i.e. validation) iteration. During the CDSS validation iteration, participants took more time to complete tasks with a median (IQR) of 183 (124-247) seconds versus 101 (73.5-197) seconds in the development iteration (p=0.01). This increase in time on task was due to the increase in time spent in the CDSS corresponding to several design changes. Efficiency differences that were observed between pharmacists and physicians in the development iteration were eliminated in the validation iteration. The increased use of the CDSS corresponded to a greater acceptance of CDSS recommended doses in the validation iteration (4% in the first iteration vs. 37.5% in the second iteration, p<0.001). Overall satisfaction did not change statistically between the iterations but the qualitative analysis revealed greater trust in the second prototype. A pharmacogenomic -guided CDSS has been developed using warfarin as the test drug. The final CDSS prototype was trusted by prescribers and significantly increased the time using the tool and acceptance of the recommended doses. This study is an important step toward incorporating pharmacogenomics into CDSS design for clinical testing.
+27878205	0	9	Iterative	T033	C1854293
+27878205	10	21	Development	T169	C1527148
+27878205	26	36	Evaluation	T058	C0220825
+27878205	42	57	Pharmacogenomic	T091	C1138555
+27878205	66	98	Clinical Decision Support System	T170	C0525070
+27878205	103	118	Warfarin Dosing	T081	C0366686
+27878205	119	134	Pharmacogenomic	T091	C1138555
+27878205	143	149	dosing	T081	C0178602
+27878205	179	186	patient	T101	C0030705
+27878205	204	218	implementation	T052	C1708476
+27878205	237	245	clinical	T080	C0205210
+27878205	246	256	challenges	T058	C0805586
+27878205	291	299	evaluate	T058	C0220825
+27878205	302	334	clinical decision support system	T170	C0525070
+27878205	336	340	CDSS	T170	C0525070
+27878205	346	361	pharmacogenomic	T091	C1138555
+27878205	370	385	warfarin dosing	T081	C0366686
+27878205	386	394	designed	T052	C1707689
+27878205	399	409	physicians	T097	C0031831
+27878205	414	425	pharmacists	T097	C0031323
+27878205	434	444	physicians	T097	C0031831
+27878205	449	460	pharmacists	T097	C0031323
+27878205	473	484	prescribing	T058	C0278329
+27878205	485	490	tasks	T057	C3540678
+27878205	497	514	simulated patient	T065	C3825675
+27878205	515	524	scenarios	T169	C0683579
+27878205	532	542	iterations	T033	C1854293
+27878205	544	555	development	T169	C1527148
+27878205	560	570	validation	T062	C1519941
+27878205	571	577	phases	T079	C0205390
+27878205	600	615	pharmacogenomic	T091	C1138555
+27878205	624	628	CDSS	T170	C0525070
+27878205	629	638	prototype	T080	C0205556
+27878205	649	657	scenario	T169	C0683579
+27878205	659	668	usability	T170	C1510648
+27878205	673	681	measured	T080	C0444706
+27878205	686	696	efficiency	T081	C0013682
+27878205	698	706	recorded	T170	C0034869
+27878205	710	733	time to task completion	T201	C1316026
+27878205	739	751	participants	T098	C0679646
+27878205	754	763	perceived	T041	C0030971
+27878205	764	776	satisfaction	T041	C0242428
+27878205	803	842	Kruskal-Wallis and Mann Whitney U tests	T170	C0282574
+27878205	896	918	qualitatively analyzed	T059	C0022885
+27878205	920	929	Usability	T170	C1510648
+27878205	960	971	development	T169	C1527148
+27878205	973	982	iteration	T033	C1854293
+27878205	1010	1014	CDSS	T170	C0525070
+27878205	1015	1021	design	T052	C1707689
+27878205	1030	1036	second	T079	C0457385
+27878205	1043	1053	validation	T062	C1519941
+27878205	1055	1064	iteration	T033	C1854293
+27878205	1077	1081	CDSS	T170	C0525070
+27878205	1082	1092	validation	T062	C1519941
+27878205	1093	1102	iteration	T033	C1854293
+27878205	1104	1116	participants	T098	C0679646
+27878205	1127	1149	time to complete tasks	T201	C1316026
+27878205	1157	1163	median	T082	C0549183
+27878205	1187	1194	seconds	T079	C0457385
+27878205	1217	1224	seconds	T079	C0457385
+27878205	1232	1243	development	T169	C1527148
+27878205	1244	1253	iteration	T033	C1854293
+27878205	1269	1277	increase	T169	C0442805
+27878205	1281	1293	time on task	T079	C0871530
+27878205	1309	1317	increase	T169	C0442805
+27878205	1321	1325	time	T079	C0040223
+27878205	1339	1343	CDSS	T170	C0525070
+27878205	1369	1375	design	T052	C1707689
+27878205	1385	1395	Efficiency	T081	C0013682
+27878205	1435	1446	pharmacists	T097	C0031323
+27878205	1451	1461	physicians	T097	C0031831
+27878205	1469	1480	development	T169	C1527148
+27878205	1481	1490	iteration	T033	C1854293
+27878205	1514	1524	validation	T062	C1519941
+27878205	1525	1534	iteration	T033	C1854293
+27878205	1540	1549	increased	T081	C0205217
+27878205	1561	1565	CDSS	T170	C0525070
+27878205	1606	1610	CDSS	T170	C0525070
+27878205	1623	1628	doses	T081	C0178602
+27878205	1636	1646	validation	T062	C1519941
+27878205	1647	1656	iteration	T033	C1854293
+27878205	1674	1683	iteration	T033	C1854293
+27878205	1701	1707	second	T079	C0457385
+27878205	1708	1717	iteration	T033	C1854293
+27878205	1737	1749	satisfaction	T041	C0242428
+27878205	1791	1801	iterations	T033	C1854293
+27878205	1810	1830	qualitative analysis	T059	C0022885
+27878205	1861	1867	second	T079	C0457385
+27878205	1868	1877	prototype	T080	C0205556
+27878205	1881	1896	pharmacogenomic	T091	C1138555
+27878205	1905	1909	CDSS	T170	C0525070
+27878205	1935	1943	warfarin	T109,T121,T131	C0043031
+27878205	1956	1960	drug	T121	C1254351
+27878205	1972	1976	CDSS	T170	C0525070
+27878205	1977	1986	prototype	T080	C0205556
+27878205	2032	2041	increased	T081	C0205217
+27878205	2046	2050	time	T079	C0040223
+27878205	2061	2065	tool	T033	C0871532
+27878205	2100	2105	doses	T081	C0178602
+27878205	2160	2176	pharmacogenomics	T091	C1138555
+27878205	2182	2186	CDSS	T170	C0525070
+27878205	2187	2193	design	T052	C1707689
+27878205	2198	2214	clinical testing	T062	C1516634

@@ -1,0 +1,30 @@
+27802781|t|Blood flow in the cerebral venous system: modeling and simulation
+27802781|a|The development of a software platform incorporating all aspects, from medical imaging data, through three-dimensional reconstruction and suitable meshing, up to simulation of blood flow in patient - specific geometries, is a crucial challenge in biomedical engineering. In the present study, a fully three-dimensional blood flow simulation is carried out through a complete rigid macrovascular circuit, namely the intracranial venous network, instead of a reduced order simulation and partial vascular network. The biomechanical modeling step is carefully analyzed and leads to the description of the flow governed by the dimensionless Navier-Stokes equations for an incompressible viscous fluid. The equations are then numerically solved with a free finite element software using five meshes of a realistic geometry obtained from medical images to prove the feasibility of the pipeline. Some features of the intracranial venous circuit in the supine position such as asymmetric behavior in merging regions are discussed.
+27802781	0	10	Blood flow	T038	UMLS:C0232338
+27802781	18	26	cerebral	T017	UMLS:C0006104
+27802781	27	40	venous system	T022	UMLS:C1267406
+27802781	42	50	modeling	T062	UMLS:C0870071
+27802781	55	65	simulation	T062	UMLS:C0679083
+27802781	87	95	software	T170	UMLS:C0037585
+27802781	137	152	medical imaging	T058	UMLS:C0025086
+27802781	167	184	three-dimensional	T082	UMLS:C0450363
+27802781	228	238	simulation	T062	UMLS:C0679083
+27802781	242	252	blood flow	T038	UMLS:C0232338
+27802781	313	335	biomedical engineering	T091	UMLS:C0005539
+27802781	367	384	three-dimensional	T082	UMLS:C0450363
+27802781	385	395	blood flow	T038	UMLS:C0232338
+27802781	396	406	simulation	T062	UMLS:C0679083
+27802781	481	493	intracranial	T082	UMLS:C0524466
+27802781	494	508	venous network	T022	UMLS:C0226503
+27802781	537	547	simulation	T062	UMLS:C0679083
+27802781	560	576	vascular network	T017	UMLS:C3714653
+27802781	582	604	biomechanical modeling	T062	UMLS:C0870071
+27802781	623	631	analyzed	T062	UMLS:C0936012
+27802781	668	672	flow	T038	UMLS:C0232338
+27802781	833	841	software	T170	UMLS:C0037585
+27802781	898	912	medical images	T170	UMLS:C1704254
+27802781	976	988	intracranial	T082	UMLS:C0524466
+27802781	989	1003	venous circuit	T022	UMLS:C0226503
+27802781	1011	1026	supine position	T082	UMLS:C0038846
+27802781	1035	1045	asymmetric	T082	UMLS:C0332514
+27802781	1058	1073	merging regions	T082	UMLS:C0005898

@@ -1,0 +1,73 @@
+18385794|t|Identification of novel mutations and sequence variants in the SOX2 and CHX10 genes in patients with anophthalmia/microphthalmia.
+18385794|a|PURPOSE: Mutations in the SOX2 and CHX10 genes have been reported in patients with anophthalmia and/or microphthalmia. In this study, we evaluated 34 anophthalmic/microphthalmic patient DNA samples (two sets of siblings included) for mutations and sequence variants in SOX2 and CHX10. METHODS: Conformational sensitive gel electrophoresis (CSGE) was used for the initial SOX2 and CHX10 screening of 34 affected individuals (two sets of siblings), five unaffected family members, and 80 healthy controls. Patient samples containing heteroduplexes were selected for sequence analysis. Base pair changes in SOX2 and CHX10 were confirmed by sequencing bidirectionally in patient samples. RESULTS: Two novel heterozygous mutations and two sequence variants (one known) in SOX2 were identified in this cohort. Mutation c.310 G>T (p. Glu104X), found in one patient, was in the region encoding the high mobility group (HMG) DNA-binding domain and resulted in a change from glutamic acid to a stop codon. The second mutation, noted in two affected siblings, was a single nucleotide deletion c.549delC (p. Pro184ArgfsX19) in the region encoding the activation domain, resulting in a frameshift and premature termination of the coding sequence. The shortened protein products may result in the loss of function. In addition, a novel nucleotide substitution c.*557G>A was identified in the 3'-untranslated region in one patient. The relationship between the nucleotide change and the protein function is indeterminate. A known single nucleotide polymorphism (c. *469 C>A, SNP rs11915160) was also detected in 2 of the 34 patients. Screening of CHX10 identified two synonymous sequence variants, c.471 C>T (p.Ser157Ser, rs35435463) and c.579 G>A (p. Gln193Gln, novel SNP), and one non-synonymous sequence variant, c.871 G>A (p. Asp291Asn, novel SNP). The non-synonymous polymorphism was also present in healthy controls, suggesting non-causality. CONCLUSIONS: These results support the role of SOX2 in ocular development. Loss of SOX2 function results in severe eye malformation. CHX10 was not implicated with microphthalmia/anophthalmia in our patient cohort.
+18385794	63	67	SOX2	GeneOrGeneProduct	6657
+18385794	72	77	CHX10	GeneOrGeneProduct	338917
+18385794	87	95	patients	OrganismTaxon	9606
+18385794	101	113	anophthalmia	DiseaseOrPhenotypicFeature	D000853
+18385794	114	128	microphthalmia	DiseaseOrPhenotypicFeature	D008850
+18385794	156	160	SOX2	GeneOrGeneProduct	6657
+18385794	165	170	CHX10	GeneOrGeneProduct	338917
+18385794	199	207	patients	OrganismTaxon	9606
+18385794	213	225	anophthalmia	DiseaseOrPhenotypicFeature	D000853
+18385794	233	247	microphthalmia	DiseaseOrPhenotypicFeature	D008850
+18385794	280	292	anophthalmic	DiseaseOrPhenotypicFeature	D000853
+18385794	293	307	microphthalmic	DiseaseOrPhenotypicFeature	D008850
+18385794	308	315	patient	OrganismTaxon	9606
+18385794	399	403	SOX2	GeneOrGeneProduct	6657
+18385794	408	413	CHX10	GeneOrGeneProduct	338917
+18385794	501	505	SOX2	GeneOrGeneProduct	6657
+18385794	510	515	CHX10	GeneOrGeneProduct	338917
+18385794	634	641	Patient	OrganismTaxon	9606
+18385794	734	738	SOX2	GeneOrGeneProduct	6657
+18385794	743	748	CHX10	GeneOrGeneProduct	338917
+18385794	797	804	patient	OrganismTaxon	9606
+18385794	897	901	SOX2	GeneOrGeneProduct	6657
+18385794	943	952	c.310 G>T	SequenceVariant	c|SUB|G|310|T
+18385794	954	964	p. Glu104X	SequenceVariant	p|SUB|E|104|X
+18385794	980	987	patient	OrganismTaxon	9606
+18385794	1095	1124	glutamic acid to a stop codon	SequenceVariant	p|SUB|E||X
+18385794	1212	1221	c.549delC	SequenceVariant	rs587776776
+18385794	1223	1240	p. Pro184ArgfsX19	SequenceVariant	rs587776776
+18385794	1476	1485	c.*557G>A	SequenceVariant	rs77677339
+18385794	1538	1545	patient	OrganismTaxon	9606
+18385794	1677	1688	c. *469 C>A	SequenceVariant	rs11915160
+18385794	1694	1704	rs11915160	SequenceVariant	rs11915160
+18385794	1739	1747	patients	OrganismTaxon	9606
+18385794	1762	1767	CHX10	GeneOrGeneProduct	338917
+18385794	1813	1822	c.471 C>T	SequenceVariant	rs35435463
+18385794	1824	1835	p.Ser157Ser	SequenceVariant	rs35435463
+18385794	1837	1847	rs35435463	SequenceVariant	rs35435463
+18385794	1853	1862	c.579 G>A	SequenceVariant	rs182972044
+18385794	1864	1876	p. Gln193Gln	SequenceVariant	rs182972044
+18385794	1931	1940	c.871 G>A	SequenceVariant	rs75395981
+18385794	1942	1954	p. Asp291Asn	SequenceVariant	rs75395981
+18385794	2111	2115	SOX2	GeneOrGeneProduct	6657
+18385794	2147	2151	SOX2	GeneOrGeneProduct	6657
+18385794	2179	2195	eye malformation	DiseaseOrPhenotypicFeature	D005124
+18385794	2197	2202	CHX10	GeneOrGeneProduct	338917
+18385794	2227	2241	microphthalmia	DiseaseOrPhenotypicFeature	D008850
+18385794	2242	2254	anophthalmia	DiseaseOrPhenotypicFeature	D000853
+18385794	2262	2269	patient	OrganismTaxon	9606
+18385794	Association	338917	D008850	No
+18385794	Association	338917	D000853	No
+18385794	Association	6657	D008850	No
+18385794	Association	6657	D000853	No
+18385794	Negative_Correlation	6657	D005124	No
+18385794	Association	rs11915160	D008850	Novel
+18385794	Association	rs11915160	D000853	Novel
+18385794	Association	rs11915160	D005124	Novel
+18385794	Association	rs77677339	D000853	Novel
+18385794	Association	rs77677339	D005124	Novel
+18385794	Association	rs587776776	D008850	Novel
+18385794	Association	rs587776776	D000853	Novel
+18385794	Positive_Correlation	rs587776776	D005124	Novel
+18385794	Association	p|SUB|E||X	D008850	Novel
+18385794	Association	p|SUB|E||X	D000853	Novel
+18385794	Positive_Correlation	p|SUB|E||X	D005124	Novel
+18385794	Association	p|SUB|E|104|X	D008850	Novel
+18385794	Association	p|SUB|E|104|X	D000853	Novel
+18385794	Positive_Correlation	p|SUB|E|104|X	D005124	Novel
+18385794	Association	D008850	rs77677339	Novel
+18385794	Association	c|SUB|G|310|T	D008850	Novel
+18385794	Association	c|SUB|G|310|T	D000853	Novel
+18385794	Positive_Correlation	c|SUB|G|310|T	D005124	Novel

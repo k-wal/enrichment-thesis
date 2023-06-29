@@ -1,0 +1,41 @@
+27708057|t|Systematic mapping of functional enhancer - promoter connections with CRISPR interference
+27708057|a|Gene expression in mammals is regulated by noncoding elements that can affect physiology and disease, yet the functions and target genes of most noncoding elements remain unknown. We present a high-throughput approach that uses clustered regularly interspaced short palindromic repeats (CRISPR) interference (CRISPRi) to discover regulatory elements and identify their target genes. We assess >1 megabase of sequence in the vicinity of two essential transcription factors, MYC and GATA1, and identify nine distal enhancers that control gene expression and cellular proliferation. Quantitative features of chromatin state and chromosome conformation distinguish the seven enhancers that regulate MYC from other elements that do not, suggesting a strategy for predicting enhancer - promoter connectivity. This CRISPRi -based approach can be applied to dissect transcriptional networks and interpret the contributions of noncoding genetic variation to human disease.
+27708057	0	18	Systematic mapping	T062	UMLS:C0079435
+27708057	33	41	enhancer	T103	UMLS:C0014290
+27708057	44	52	promoter	T103	UMLS:C2350877
+27708057	70	76	CRISPR	T103	UMLS:C3658200
+27708057	70	89	CRISPR interference	T058	UMLS:C0200924
+27708057	90	105	Gene expression	T038	UMLS:C0017262
+27708057	109	116	mammals	T204	UMLS:C0024660
+27708057	120	129	regulated	T038	UMLS:C0017263
+27708057	133	151	noncoding elements	T103	UMLS:C0021920
+27708057	168	178	physiology	T038	UMLS:C0031843
+27708057	183	190	disease	T038	UMLS:C0012634
+27708057	214	226	target genes	T017	UMLS:C0017337
+27708057	235	253	noncoding elements	T103	UMLS:C0021920
+27708057	318	375	clustered regularly interspaced short palindromic repeats	T103	UMLS:C3658200
+27708057	318	397	clustered regularly interspaced short palindromic repeats (CRISPR) interference	T058	UMLS:C0200924
+27708057	377	383	CRISPR	T103	UMLS:C3658200
+27708057	399	406	CRISPRi	T058	UMLS:C0200924
+27708057	420	439	regulatory elements	T103	UMLS:C0021920
+27708057	459	471	target genes	T017	UMLS:C0017337
+27708057	498	506	sequence	T082	UMLS:C0004793
+27708057	540	561	transcription factors	T103	UMLS:C0040648
+27708057	563	566	MYC	T103	UMLS:C1137610
+27708057	571	576	GATA1	T103	UMLS:C1530719
+27708057	596	602	distal	T082	UMLS:C0205108
+27708057	603	612	enhancers	T103	UMLS:C0014290
+27708057	626	641	gene expression	T038	UMLS:C0017262
+27708057	646	668	cellular proliferation	T038	UMLS:C0596290
+27708057	695	704	chromatin	T103	UMLS:C0008546
+27708057	715	725	chromosome	T017	UMLS:C0008633
+27708057	726	738	conformation	T033	UMLS:C1299941
+27708057	761	770	enhancers	T103	UMLS:C0014290
+27708057	785	788	MYC	T103	UMLS:C1137610
+27708057	800	808	elements	T082	UMLS:C0004793
+27708057	859	867	enhancer	T103	UMLS:C0014290
+27708057	870	878	promoter	T103	UMLS:C2350877
+27708057	898	905	CRISPRi	T058	UMLS:C0200924
+27708057	948	972	transcriptional networks	T038	UMLS:C1720950
+27708057	1039	1044	human	T204	UMLS:C0086418
+27708057	1045	1052	disease	T038	UMLS:C0012634

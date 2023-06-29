@@ -1,0 +1,30 @@
+19101703|t|Study of a Taiwanese family with oculopharyngeal muscular dystrophy.
+19101703|a|BACKGROUND: Oculopharyngeal muscular dystrophy (OPMD) is a late onset autosomal dominant muscle disorder. OPMD is caused by a short trinucleotide repeat expansion encoding an expanded polyalanine tract in the polyadenylate binding-protein nuclear 1 (PABPN1) gene. We identified and characterized a PABPN1 mutation in a Taiwanese family with OPMD. METHODS: The phenotypic and genotypic characteristics of all subjects were evaluated in a Taiwanese OPMD family. Genetic alterations in the PABPN1 gene were identified using PCR and DNA sequencing. RESULTS: Ten subjects with OPMD (6 symptomatic and 4 asymptomatic) within the Taiwanese family carried a novel mutation in the PABPN1 gene. The normal (GCG)6(GCA)3GCG sequence was replaced by (GCG)6(GCA)(GCG)4(GCA)3GCG due to an insertion of (GCG)4GCA into the normal allele in the Taiwanese OPMD subjects. CONCLUSIONS: In contrast to a single GCG expansion in most of OPMD patients in the literature, an insertion of (GCG)4GCA in the PABPN1 gene was found in the Taiwanese OPMD subjects. The identification of this mutation appears to support the molecular mechanism of unequal cross-over of two PABPN1 alleles.
+19101703	33	67	oculopharyngeal muscular dystrophy	DiseaseOrPhenotypicFeature	D039141
+19101703	81	115	Oculopharyngeal muscular dystrophy	DiseaseOrPhenotypicFeature	D039141
+19101703	117	121	OPMD	DiseaseOrPhenotypicFeature	D039141
+19101703	139	173	autosomal dominant muscle disorder	DiseaseOrPhenotypicFeature	D030342
+19101703	175	179	OPMD	DiseaseOrPhenotypicFeature	D039141
+19101703	253	264	polyalanine	ChemicalEntity	C019529
+19101703	278	317	polyadenylate binding-protein nuclear 1	GeneOrGeneProduct	8106
+19101703	319	325	PABPN1	GeneOrGeneProduct	8106
+19101703	367	373	PABPN1	GeneOrGeneProduct	8106
+19101703	410	414	OPMD	DiseaseOrPhenotypicFeature	D039141
+19101703	516	520	OPMD	DiseaseOrPhenotypicFeature	D039141
+19101703	556	562	PABPN1	GeneOrGeneProduct	8106
+19101703	641	645	OPMD	DiseaseOrPhenotypicFeature	D039141
+19101703	741	747	PABPN1	GeneOrGeneProduct	8106
+19101703	765	832	(GCG)6(GCA)3GCG sequence was replaced by (GCG)6(GCA)(GCG)4(GCA)3GCG	SequenceVariant	c|SUB|(GCG)6(GCA)3GCG||(GCG)6(GCA)(GCG)4(GCA)3GCG
+19101703	843	865	insertion of (GCG)4GCA	SequenceVariant	c|INS|(GCG)4GCA
+19101703	906	910	OPMD	DiseaseOrPhenotypicFeature	D039141
+19101703	983	987	OPMD	DiseaseOrPhenotypicFeature	D039141
+19101703	988	996	patients	OrganismTaxon	9606
+19101703	1019	1041	insertion of (GCG)4GCA	SequenceVariant	c|INS|(GCG)4GCA
+19101703	1049	1055	PABPN1	GeneOrGeneProduct	8106
+19101703	1088	1092	OPMD	DiseaseOrPhenotypicFeature	D039141
+19101703	1211	1217	PABPN1	GeneOrGeneProduct	8106
+19101703	Association	8106	D039141	No
+19101703	Association	C019529	8106	No
+19101703	Association	D039141	C019529	No
+19101703	Positive_Correlation	D039141	c|INS|(GCG)4GCA	Novel
+19101703	Positive_Correlation	D039141	c|SUB|(GCG)6(GCA)3GCG||(GCG)6(GCA)(GCG)4(GCA)3GCG	Novel

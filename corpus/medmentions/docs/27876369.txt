@@ -1,0 +1,49 @@
+27876369|t|Multi-component model of intramural hematoma
+27876369|a|A novel multi-component model is introduced for studying interaction between blood flow and deforming aortic wall with intramural hematoma (IMH). The aortic wall is simulated by a composite structure submodel representing material properties of the three main wall layers. The IMH is described by a poroelasticity submodel which takes into account both the pressure inside hematoma and its deformation. The submodel of the hematoma is fully coupled with the aortic submodel as well as with the submodel of the pulsatile blood flow. Model simulations are used to investigate the relation between the peak wall stress, hematoma thickness and permeability in patients of different age. The results indicate that an increase in hematoma thickness leads to larger wall stress, which is in agreement with clinical data. Further simulations demonstrate that a hematoma with smaller permeability results in larger wall stress, suggesting that blood coagulation in hematoma might increase its mechanical stability. This is in agreement with previous experimental observations of coagulation having a beneficial effect on the condition of a patient with the IMH.
+27876369	0	21	Multi-component model	T075	C0026339
+27876369	25	44	intramural hematoma	T046	C0333200
+27876369	53	74	multi-component model	T075	C0026339
+27876369	93	101	studying	T062	C2603343
+27876369	102	113	interaction	T169	C1704675
+27876369	122	132	blood flow	T039	C0232338
+27876369	137	146	deforming	T033	C1562006
+27876369	147	158	aortic wall	T023	C0507851
+27876369	164	183	intramural hematoma	T046	C0333200
+27876369	185	188	IMH	T046	C0333200
+27876369	195	206	aortic wall	T023	C0507851
+27876369	210	219	simulated	T062	C0679083
+27876369	225	253	composite structure submodel	T075	C0026339
+27876369	267	286	material properties	T080	C0205556
+27876369	305	316	wall layers	T023	C0934502
+27876369	322	325	IMH	T046	C0333200
+27876369	344	367	poroelasticity submodel	T075	C0026339
+27876369	402	410	pressure	T070	C0001876
+27876369	418	426	hematoma	T046	C0018944
+27876369	435	446	deformation	T033	C1562006
+27876369	452	460	submodel	T075	C0026339
+27876369	468	476	hematoma	T046	C0018944
+27876369	503	518	aortic submodel	T075	C0026339
+27876369	539	547	submodel	T075	C0026339
+27876369	555	575	pulsatile blood flow	T067	C0034106
+27876369	577	594	Model simulations	T062	C0679083
+27876369	607	618	investigate	T169	C1292732
+27876369	662	670	hematoma	T046	C0018944
+27876369	685	697	permeability	T070	C0031164
+27876369	701	709	patients	T101	C0030705
+27876369	723	726	age	T032	C0001779
+27876369	769	777	hematoma	T046	C0018944
+27876369	804	815	wall stress	T033	C0038435
+27876369	844	857	clinical data	T170	C1516606
+27876369	867	878	simulations	T062	C0679083
+27876369	898	906	hematoma	T046	C0018944
+27876369	920	932	permeability	T070	C0031164
+27876369	951	962	wall stress	T033	C0038435
+27876369	980	997	blood coagulation	T042	C0005778
+27876369	1001	1009	hematoma	T046	C0018944
+27876369	1029	1049	mechanical stability	T033	C0243095
+27876369	1086	1098	experimental	T080	C1517586
+27876369	1099	1111	observations	T062	C0302523
+27876369	1115	1126	coagulation	T042	C0005778
+27876369	1136	1153	beneficial effect	T080	C1280500
+27876369	1176	1183	patient	T101	C0030705
+27876369	1193	1196	IMH	T046	C0333200

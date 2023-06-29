@@ -1,0 +1,55 @@
+28269712|t|Heart rate variability as a biomarker for sedation depth estimation in ICU patients
+28269712|a|An automated patient-specific system to classify the level of sedation in ICU patients using heart rate variability signal is presented in this paper. ECG from 70 mechanically ventilated adult patients with administered sedatives in an ICU setting were used to develop a support vector machine based system for sedation depth monitoring using several heart rate variability measures. A leave-one-subject-out cross validation was used for classifier training and performance evaluations. The proposed patient-specific system provided a sensitivity, specificity and an AUC of 64%, 84.8% and 0.72, respectively. It is hoped that with the help of additional physiological signals the proposed patient - specific sedation level prediction system could lead to a fully automated multimodal system to assist clinical staff in ICUs to interpret the sedation level of the patient.
+28269712	0	10	Heart rate	T201	C0018810
+28269712	11	22	variability	T077	C2827666
+28269712	28	37	biomarker	T201	C0005516
+28269712	42	56	sedation depth	T033	C0235195
+28269712	57	67	estimation	T081	C0750572
+28269712	71	74	ICU	T073,T093	C0021708
+28269712	75	83	patients	T101	C0030705
+28269712	87	120	automated patient-specific system	T170	C0596139
+28269712	137	154	level of sedation	T033	C2226609
+28269712	158	161	ICU	T073,T093	C0021708
+28269712	162	170	patients	T101	C0030705
+28269712	177	187	heart rate	T201	C0018810
+28269712	188	199	variability	T077	C2827666
+28269712	200	206	signal	T067	C1710082
+28269712	210	219	presented	T078	C0449450
+28269712	228	233	paper	T170	C0282420
+28269712	235	238	ECG	T033	C0013798
+28269712	247	270	mechanically ventilated	T061	C0199470
+28269712	271	276	adult	T100	C0001675
+28269712	277	285	patients	T101	C0030705
+28269712	291	303	administered	T169	C1521801
+28269712	304	313	sedatives	T121	C0036557
+28269712	320	331	ICU setting	T073,T093	C0021708
+28269712	355	377	support vector machine	T081	C2699740
+28269712	395	409	sedation depth	T033	C0235195
+28269712	410	420	monitoring	T058	C1283169
+28269712	435	445	heart rate	T201	C0018810
+28269712	446	457	variability	T077	C2827666
+28269712	458	466	measures	T081	C0079809
+28269712	470	508	leave-one-subject-out cross validation	T062	C0681935
+28269712	522	532	classifier	T169	C4291659
+28269712	533	541	training	T065	C0040607
+28269712	546	557	performance	T052	C1882330
+28269712	558	569	evaluations	T058	C0220825
+28269712	584	607	patient-specific system	T170	C0596139
+28269712	608	616	provided	T052	C1999230
+28269712	619	630	sensitivity	T081	C0036667
+28269712	632	643	specificity	T081	C0037791
+28269712	651	654	AUC	T081	C0376690
+28269712	738	751	physiological	T169	C0205463
+28269712	752	759	signals	T067	C1710082
+28269712	773	780	patient	T101	C0030705
+28269712	783	791	specific	T080	C0205369
+28269712	792	806	sedation level	T033	C2226609
+28269712	807	817	prediction	T078	C0681842
+28269712	818	824	system	T169	C0449913
+28269712	847	874	automated multimodal system	T170	C0596139
+28269712	885	893	clinical	T080	C0205210
+28269712	894	899	staff	T097	C0851286
+28269712	903	907	ICUs	T073,T093	C0021708
+28269712	911	920	interpret	T169	C1285553
+28269712	925	939	sedation level	T033	C2226609
+28269712	947	954	patient	T101	C0030705

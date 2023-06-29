@@ -1,0 +1,43 @@
+27435336|t|Towards next-generation sequencing analytics for foodborne RNA viruses: Examining the effect of RNA input quantity and viral RNA purity
+27435336|a|Detection and identification of viruses in food samples are technically challenging due largely to the low viral copy number in contaminated food items, and the lack of effective culture enrichment methods that are amenable to regulatory applications for many of the common foodborne viruses. Using an Illumina MiSeq platform and two hepatitis A virus (HAV) cell-culture adapted strains as a representative enteric virus species, this study examined the limits of single-stranded RNA (ssRNA) viral detection following next-generation sequencing without pre-amplification of the viral genome. Complete viral genome sequences were obtained from HAV samples of varying purities and with an input as low as 2ng total RNA containing 1.4×10(5) copies of viral RNA. In addition, single nucleotide variations were reproducibly detected over the range of concentrations examined, and their identity confirmed by alternate sequencing technology. In summary, next-generation sequencing technology has the potential for sensitive detection / identification of a viral genome at a low copy number. This study provides a benchmark for metagenomic sequencing application as is required for virus detection in complex food matrices using a culture -independent diagnostic approach.
+27435336	8	44	next-generation sequencing analytics	T062	UMLS:C2936622
+27435336	59	70	RNA viruses	T005	UMLS:C0035691
+27435336	96	99	RNA	T103	UMLS:C0035668
+27435336	119	128	viral RNA	T103	UMLS:C0035736
+27435336	136	145	Detection	T058	UMLS:C1294356
+27435336	150	164	identification	T058	UMLS:C0599616
+27435336	168	175	viruses	T005	UMLS:C0035691
+27435336	243	248	viral	T005	UMLS:C0042776
+27435336	264	287	contaminated food items	T168	UMLS:C0453834
+27435336	315	341	culture enrichment methods	T058	UMLS:C0022885
+27435336	363	386	regulatory applications	T170	UMLS:C2347934
+27435336	420	427	viruses	T005	UMLS:C0035691
+27435336	438	461	Illumina MiSeq platform	T170	UMLS:C3898361
+27435336	470	487	hepatitis A virus	T005	UMLS:C0376325
+27435336	489	492	HAV	T005	UMLS:C0376325
+27435336	494	506	cell-culture	T058	UMLS:C0007585
+27435336	551	556	virus	T005	UMLS:C0042776
+27435336	571	576	study	T062	UMLS:C2603343
+27435336	600	619	single-stranded RNA	T103	UMLS:C3272452
+27435336	621	626	ssRNA	T103	UMLS:C3272452
+27435336	628	643	viral detection	T058	UMLS:C1294356
+27435336	654	680	next-generation sequencing	T062	UMLS:C2936622
+27435336	689	706	pre-amplification	T038	UMLS:C0017256
+27435336	714	726	viral genome	T017	UMLS:C0042720
+27435336	737	749	viral genome	T017	UMLS:C0042720
+27435336	750	759	sequences	T082	UMLS:C0004793
+27435336	779	782	HAV	T005	UMLS:C0376325
+27435336	849	852	RNA	T103	UMLS:C0035668
+27435336	884	893	viral RNA	T103	UMLS:C0035736
+27435336	908	936	single nucleotide variations	T082	UMLS:C0752046
+27435336	1039	1070	alternate sequencing technology	T062	UMLS:C1513384
+27435336	1084	1121	next-generation sequencing technology	T062	UMLS:C2936622
+27435336	1154	1163	detection	T058	UMLS:C1294356
+27435336	1166	1180	identification	T058	UMLS:C0599616
+27435336	1186	1198	viral genome	T017	UMLS:C0042720
+27435336	1226	1231	study	T062	UMLS:C2603343
+27435336	1257	1291	metagenomic sequencing application	T062	UMLS:C1513384
+27435336	1311	1326	virus detection	T058	UMLS:C1294356
+27435336	1338	1342	food	T168	UMLS:C0016452
+27435336	1360	1367	culture	T058	UMLS:C0430400
+27435336	1381	1400	diagnostic approach	T058	UMLS:C0430022

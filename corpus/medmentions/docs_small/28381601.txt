@@ -1,0 +1,73 @@
+28381601|t|A Novel Multiplex PCR Assay for the Detection of Chlorhexidine / Quaternary Ammonium, Mupirocin and Methicillin Resistance Genes with Simultaneous Discrimination of Staphylococcus aureus from Coagulase-Negative Staphylococci
+28381601|a|Methicillin-resistant Staphylococcus aureus (MRSA) is a clinically significant pathogen resistant to a wide variety of antibiotics and responsible for a large number of nosocomial infections worldwide. The Agency for Healthcare Research and Quality and the Centers for Disease Control and Prevention recently recommended to adopt universal mupirocin / chlorhexidine decolonization of all admitted intensive care unit patients, rather than MRSA screening with targeted treatments, which raises the serious concern about the selection of resistance to mupirocin and chlorhexidine in strains of staphylococci. Thus, a simple, rapid, and reliable approach will be paramount in monitoring the resistance prevalence to these agents. We developed a simple multiplex PCR assay capable of screening Staphylococcus isolates for the presence of antiseptic resistance genes for chlorhexidine and quaternary ammonium compounds, as well as mupirocin - and methicillin-resistance genes, while simultaneously discriminating S. aureus from coagulase-negative staphylococci (CoNS). The assay incorporates 7 PCR targets, including staph 16S-rRNA (specifically detecting Staphylococcus sp .), nuc (distinguishing S. aureus from CoNS), mecA (distinguishing MRSA from methicillin-susceptible S. aureus), mupA and mupB (identifying high-level mupirocin resistance), qac and smr (identifying chlorhexidine and quaternary ammonium resistance). Our assay demonstrated 100% sensitivity, specificity and accuracy in a total of 23 variant antiseptic / antibiotic-resistant control strains. Further validation of our assay using 378 randomly selected and previously well-characterized local clinical isolates confirmed its feasibility and practicality. This may prove to be a useful tool for multidrug-resistant staphylococci monitoring in clinical laboratories, particularly in the wake of increased chlorhexidine and mupirocin treatments.
+28381601	18	21	PCR	T062	UMLS:C0032520
+28381601	22	27	Assay	T058	UMLS:C1510438
+28381601	36	45	Detection	T058	UMLS:C1511790
+28381601	49	62	Chlorhexidine	T103	UMLS:C0008196
+28381601	65	84	Quaternary Ammonium	T103	UMLS:C0578399
+28381601	86	95	Mupirocin	T103	UMLS:C0085259
+28381601	165	186	Staphylococcus aureus	T007	UMLS:C0038172
+28381601	192	224	Coagulase-Negative Staphylococci	T007	UMLS:C4176707
+28381601	225	268	Methicillin-resistant Staphylococcus aureus	T007	UMLS:C1265292
+28381601	270	274	MRSA	T007	UMLS:C1265292
+28381601	304	322	pathogen resistant	T038	UMLS:C0853847
+28381601	344	355	antibiotics	T103	UMLS:C0003232
+28381601	394	415	nosocomial infections	T038	UMLS:C0205721
+28381601	431	437	Agency	T092	UMLS:C0237463
+28381601	442	461	Healthcare Research	T062	UMLS:C0018757
+28381601	482	524	Centers for Disease Control and Prevention	T092	UMLS:C0007670
+28381601	565	574	mupirocin	T103	UMLS:C0085259
+28381601	577	590	chlorhexidine	T103	UMLS:C0008196
+28381601	591	605	decolonization	T033	UMLS:C0243095
+28381601	613	621	admitted	T058	UMLS:C0184666
+28381601	622	641	intensive care unit	T092	UMLS:C0021708
+28381601	664	668	MRSA	T007	UMLS:C1265292
+28381601	669	678	screening	T058	UMLS:C1710032
+28381601	693	703	treatments	T058	UMLS:C0087111
+28381601	775	784	mupirocin	T103	UMLS:C0085259
+28381601	789	802	chlorhexidine	T103	UMLS:C0008196
+28381601	806	830	strains of staphylococci	T007	UMLS:C0038172
+28381601	898	908	monitoring	T058	UMLS:C1283169
+28381601	944	950	agents	T103	UMLS:C0450442
+28381601	984	987	PCR	T062	UMLS:C0032520
+28381601	988	993	assay	T058	UMLS:C1510438
+28381601	1005	1014	screening	T058	UMLS:C1710032
+28381601	1015	1029	Staphylococcus	T007	UMLS:C0038172
+28381601	1030	1038	isolates	T103	UMLS:C3494793
+28381601	1047	1055	presence	T033	UMLS:C0150312
+28381601	1059	1069	antiseptic	T103	UMLS:C3536839
+28381601	1091	1104	chlorhexidine	T103	UMLS:C0008196
+28381601	1109	1138	quaternary ammonium compounds	T103	UMLS:C0578399
+28381601	1151	1160	mupirocin	T103	UMLS:C0085259
+28381601	1233	1242	S. aureus	T007	UMLS:C0038172
+28381601	1248	1280	coagulase-negative staphylococci	T007	UMLS:C4176707
+28381601	1282	1286	CoNS	T007	UMLS:C4176707
+28381601	1293	1298	assay	T058	UMLS:C1510438
+28381601	1314	1317	PCR	T062	UMLS:C0032520
+28381601	1337	1342	staph	T007	UMLS:C0038172
+28381601	1343	1351	16S-rRNA	T103	UMLS:C3537372
+28381601	1376	1393	Staphylococcus sp	T007	UMLS:C1265284
+28381601	1398	1401	nuc	T103	UMLS:C1256984
+28381601	1418	1427	S. aureus	T007	UMLS:C0038172
+28381601	1433	1437	CoNS	T007	UMLS:C4176707
+28381601	1440	1444	mecA	T103	UMLS:C1453945
+28381601	1461	1465	MRSA	T007	UMLS:C1265292
+28381601	1471	1504	methicillin-susceptible S. aureus	T007	UMLS:C1635274
+28381601	1507	1511	mupA	T103	UMLS:C1433568
+28381601	1516	1520	mupB	T103	UMLS:C3492938
+28381601	1545	1554	mupirocin	T103	UMLS:C0085259
+28381601	1576	1579	smr	T103	UMLS:C1958907
+28381601	1593	1606	chlorhexidine	T103	UMLS:C0008196
+28381601	1611	1630	quaternary ammonium	T103	UMLS:C0578399
+28381601	1648	1653	assay	T058	UMLS:C1510438
+28381601	1735	1745	antiseptic	T103	UMLS:C3536839
+28381601	1748	1784	antibiotic-resistant control strains	T038	UMLS:C0860039
+28381601	1794	1804	validation	T062	UMLS:C1519941
+28381601	1812	1817	assay	T058	UMLS:C1510438
+28381601	1895	1903	isolates	T103	UMLS:C3494793
+28381601	2007	2020	staphylococci	T007	UMLS:C0038170
+28381601	2021	2031	monitoring	T058	UMLS:C1283169
+28381601	2035	2056	clinical laboratories	T092	UMLS:C1551301
+28381601	2096	2109	chlorhexidine	T103	UMLS:C0008196
+28381601	2114	2123	mupirocin	T103	UMLS:C0085259
+28381601	2124	2134	treatments	T058	UMLS:C0087111

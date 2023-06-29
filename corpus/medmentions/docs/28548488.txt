@@ -1,0 +1,71 @@
+28548488|t|A Fluorescent Split Aptamer for Visualizing RNA-RNA Assembly In Vivo
+28548488|a|RNA-RNA assembly governs key biological processes and is a powerful tool for engineering synthetic genetic circuits. Characterizing RNA assembly in living cells often involves monitoring fluorescent reporter proteins, which are at best indirect measures of underlying RNA-RNA hybridization events and are subject to additional temporal and load constraints associated with translation and activation of reporter proteins. In contrast, RNA aptamers that sequester small molecule dyes and activate their fluorescence are increasingly utilized in genetically encoded strategies to report on RNA - level events. Split-aptamer systems have been rationally designed to generate signal upon hybridization of two or more discrete RNA transcripts, but none directly function when expressed in vivo. We reasoned that the improved physiological properties of the Broccoli aptamer enable construction of a split-aptamer system that could function in living cells. Here we present the Split-Broccoli system, in which self-assembly is nucleated by a thermostable, three-way junction RNA architecture and fluorescence activation requires both strands. Functional assembly of the system approximately follows second-order kinetics in vitro and improves when cotranscribed, rather than when assembled from purified components. Split-Broccoli fluorescence is digital in vivo and retains functional modularity when fused to RNAs that regulate circuit function through RNA-RNA hybridization, as demonstrated with an RNA Toehold switch. Split-Broccoli represents the first functional split-aptamer system to operate in vivo. It offers a genetically encoded and nondestructive platform to monitor and exploit RNA-RNA hybridization, whether as an all- RNA, stand-alone AND gate or as a tool for monitoring assembly of RNA-RNA hybrids.
+28548488	2	27	Fluorescent Split Aptamer	T114	C0599013
+28548488	44	51	RNA-RNA	T114	C0035668
+28548488	52	60	Assembly	T044	C0872376
+28548488	61	68	In Vivo	T082	C1515655
+28548488	69	76	RNA-RNA	T114	C0035668
+28548488	77	85	assembly	T044	C0872376
+28548488	98	118	biological processes	T038	C3714634
+28548488	201	204	RNA	T114	C0035668
+28548488	205	213	assembly	T044	C0872376
+28548488	217	229	living cells	T025	C0007634
+28548488	256	285	fluorescent reporter proteins	T116,T130	C0120285
+28548488	337	358	RNA-RNA hybridization	T059,T063	C0599862
+28548488	359	365	events	T051	C0441471
+28548488	396	425	temporal and load constraints	T033	C0243095
+28548488	442	453	translation	T044	C0597295
+28548488	458	468	activation	T052	C1879547
+28548488	472	489	reporter proteins	T116,T123	C0033684
+28548488	504	516	RNA aptamers	T114	C1567954
+28548488	522	531	sequester	T169	C0333312
+28548488	532	551	small molecule dyes	T130	C0013343
+28548488	556	564	activate	T052	C1879547
+28548488	571	583	fluorescence	T070	C0016315
+28548488	613	624	genetically	T169	C0314603
+28548488	625	632	encoded	T052	C2700640
+28548488	657	660	RNA	T114	C0035668
+28548488	663	668	level	T080	C0441889
+28548488	669	675	events	T051	C0441471
+28548488	677	698	Split-aptamer systems	T114	C0599013
+28548488	720	728	designed	T052	C1707689
+28548488	741	747	signal	T067	C1710082
+28548488	753	766	hybridization	T059	C1300517
+28548488	791	806	RNA transcripts	T114,T123	C1136155
+28548488	840	849	expressed	T045	C0017262
+28548488	850	857	in vivo	T082	C1515655
+28548488	889	913	physiological properties	T039	C1254359
+28548488	921	937	Broccoli aptamer	T114	C0599013
+28548488	963	983	split-aptamer system	T114	C0599013
+28548488	1007	1019	living cells	T025	C0007634
+28548488	1041	1062	Split-Broccoli system	T114	C0599013
+28548488	1073	1086	self-assembly	T044	C0872376
+28548488	1090	1099	nucleated	T080	C1979936
+28548488	1105	1117	thermostable	T169	C0205245
+28548488	1138	1141	RNA	T114	C0035668
+28548488	1159	1171	fluorescence	T070	C0016315
+28548488	1172	1182	activation	T052	C1879547
+28548488	1197	1204	strands	T114	C1704973
+28548488	1206	1225	Functional assembly	T044	C0872376
+28548488	1233	1239	system	T114	C0599013
+28548488	1262	1283	second-order kinetics	T070	C1254365
+28548488	1284	1292	in vitro	T080	C1533691
+28548488	1311	1324	cotranscribed	T045	C0040649
+28548488	1343	1352	assembled	T044	C0872376
+28548488	1367	1377	components	T114	C0035668
+28548488	1379	1406	Split-Broccoli fluorescence	T070	C0016315
+28548488	1418	1425	in vivo	T082	C1515655
+28548488	1438	1459	functional modularity	T169	C0205245
+28548488	1465	1470	fused	T169	C0332466
+28548488	1474	1478	RNAs	T114	C0035668
+28548488	1518	1539	RNA-RNA hybridization	T059,T063	C0599862
+28548488	1565	1583	RNA Toehold switch	T114	C0035668
+28548488	1585	1599	Split-Broccoli	T114	C0599013
+28548488	1632	1652	split-aptamer system	T114	C0599013
+28548488	1664	1671	in vivo	T082	C1515655
+28548488	1685	1696	genetically	T169	C0314603
+28548488	1697	1704	encoded	T052	C2700640
+28548488	1756	1777	RNA-RNA hybridization	T059,T063	C0599862
+28548488	1798	1801	RNA	T114	C0035668
+28548488	1852	1860	assembly	T044	C0872376
+28548488	1864	1879	RNA-RNA hybrids	T059,T063	C0599862

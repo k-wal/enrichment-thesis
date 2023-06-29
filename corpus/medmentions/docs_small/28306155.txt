@@ -1,0 +1,20 @@
+28306155|t|CDF - quantile distributions for modelling random variables on the unit interval
+28306155|a|This paper introduces a two-parameter family of distributions for modelling random variables on the (0,1) interval by applying the cumulative distribution function of one ' parent' distribution to the quantile function of another. Family members have explicit probability density functions, cumulative distribution functions and quantile s in a location parameter and a dispersion parameter. They capture a wide variety of shapes that the beta and Kumaraswamy distributions cannot. They are amenable to likelihood inference, and enable a wide variety of quantile regression models, with predictors for both the location and dispersion parameters. We demonstrate their applicability to psychological research problems and their utility in modelling real data.
+28306155	33	42	modelling	T170	UMLS:C3161035
+28306155	67	80	unit interval	T170	UMLS:C1552654
+28306155	147	156	modelling	T170	UMLS:C3161035
+28306155	187	195	interval	T170	UMLS:C1552654
+28306155	291	299	function	T170	UMLS:C1705273
+28306155	361	370	functions	T170	UMLS:C1705273
+28306155	426	434	location	T082	UMLS:C0450429
+28306155	451	461	dispersion	T082	UMLS:C0332624
+28306155	504	510	shapes	T082	UMLS:C0332479
+28306155	555	561	cannot	T033	UMLS:C0243095
+28306155	584	604	likelihood inference	T170	UMLS:C0023707
+28306155	644	661	regression models	T170	UMLS:C0034980
+28306155	692	700	location	T082	UMLS:C0450429
+28306155	705	715	dispersion	T082	UMLS:C0332624
+28306155	766	779	psychological	T091	UMLS:C0033909
+28306155	780	797	research problems	T062	UMLS:C0242481
+28306155	819	828	modelling	T170	UMLS:C3161035
+28306155	829	838	real data	T170	UMLS:C3272377

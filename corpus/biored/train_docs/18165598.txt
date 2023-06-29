@@ -1,0 +1,54 @@
+18165598|t|The differential effects of bupivacaine and lidocaine on prostaglandin E2 release, cyclooxygenase gene expression and pain in a clinical pain model.
+18165598|a|BACKGROUND: In addition to blocking nociceptive input from surgical sites, long-acting local anesthetics might directly modulate inflammation. In the present study, we describe the proinflammatory effects of bupivacaine on local prostaglandin E2 (PGE2) production and cyclooxygenase (COX) gene expression that increases postoperative pain in human subjects. METHODS: Subjects (n = 114) undergoing extraction of impacted third molars received either 2% lidocaine or 0.5% bupivacaine before surgery and either rofecoxib 50 mg or placebo orally 90 min before surgery and for the following 48 h. Oral mucosal biopsies were taken before surgery and 48 h after surgery. After extraction, a microdialysis probe was placed at the surgical site for PGE2 and thromboxane B2 (TXB2) measurements. RESULTS: The bupivacaine/rofecoxib group reported significantly less pain, as assessed by a visual analog scale, compared with the other three treatment groups over the first 4 h. However, the bupivacaine/placebo group reported significantly more pain at 24 h and PGE2 levels during the first 4 h were significantly higher than the other three treatment groups. Moreover, bupivacaine significantly increased COX-2 gene expression at 48 h as compared with the lidocaine/placebo group. Thromboxane levels were not significantly affected by any of the treatments, indicating that the effects seen were attributable to inhibition of COX-2, but not COX-1. CONCLUSIONS: These results suggest that bupivacaine stimulates COX-2 gene expression after tissue injury, which is associated with higher PGE2 production and pain after the local anesthetic effect dissipates.
+18165598	28	39	bupivacaine	ChemicalEntity	D002045
+18165598	44	53	lidocaine	ChemicalEntity	D008012
+18165598	57	73	prostaglandin E2	GeneOrGeneProduct	5732
+18165598	83	97	cyclooxygenase	GeneOrGeneProduct	4512,4513
+18165598	118	122	pain	DiseaseOrPhenotypicFeature	D010146
+18165598	137	141	pain	DiseaseOrPhenotypicFeature	D010146
+18165598	278	290	inflammation	DiseaseOrPhenotypicFeature	D007249
+18165598	357	368	bupivacaine	ChemicalEntity	D002045
+18165598	378	394	prostaglandin E2	GeneOrGeneProduct	5732
+18165598	396	400	PGE2	GeneOrGeneProduct	5732
+18165598	417	431	cyclooxygenase	GeneOrGeneProduct	4512,4513
+18165598	433	436	COX	GeneOrGeneProduct	4512,4513
+18165598	469	487	postoperative pain	DiseaseOrPhenotypicFeature	D010149
+18165598	491	496	human	OrganismTaxon	9606
+18165598	601	610	lidocaine	ChemicalEntity	D008012
+18165598	619	630	bupivacaine	ChemicalEntity	D002045
+18165598	657	666	rofecoxib	ChemicalEntity	C116926
+18165598	889	893	PGE2	GeneOrGeneProduct	5732
+18165598	898	912	thromboxane B2	ChemicalEntity	D013929
+18165598	914	918	TXB2	ChemicalEntity	D013929
+18165598	947	958	bupivacaine	ChemicalEntity	D002045
+18165598	959	968	rofecoxib	ChemicalEntity	C116926
+18165598	1003	1007	pain	DiseaseOrPhenotypicFeature	D010146
+18165598	1127	1138	bupivacaine	ChemicalEntity	D002045
+18165598	1181	1185	pain	DiseaseOrPhenotypicFeature	D010146
+18165598	1198	1202	PGE2	GeneOrGeneProduct	5732
+18165598	1306	1317	bupivacaine	ChemicalEntity	D002045
+18165598	1342	1347	COX-2	GeneOrGeneProduct	4513
+18165598	1393	1402	lidocaine	ChemicalEntity	D008012
+18165598	1418	1429	Thromboxane	ChemicalEntity	D013931
+18165598	1563	1568	COX-2	GeneOrGeneProduct	4513
+18165598	1578	1583	COX-1	GeneOrGeneProduct	4512
+18165598	1625	1636	bupivacaine	ChemicalEntity	D002045
+18165598	1648	1653	COX-2	GeneOrGeneProduct	4513
+18165598	1676	1689	tissue injury	DiseaseOrPhenotypicFeature	D017695
+18165598	1723	1727	PGE2	GeneOrGeneProduct	5732
+18165598	1743	1747	pain	DiseaseOrPhenotypicFeature	D010146
+18165598	Association	4512	D010149	Novel
+18165598	Negative_Correlation	D013931	4513	Novel
+18165598	Association	4513	D010149	Novel
+18165598	Positive_Correlation	4513	5732	Novel
+18165598	Association	4513	D010146	Novel
+18165598	Positive_Correlation	5732	D010149	Novel
+18165598	Negative_Correlation	C116926	D010146	Novel
+18165598	Positive_Correlation	D002045	D010149	Novel
+18165598	Association	D002045	4512	Novel
+18165598	Association	D002045	D017695	Novel
+18165598	Positive_Correlation	D002045	4513	Novel
+18165598	Positive_Correlation	D002045	5732	Novel
+18165598	Positive_Correlation	D002045	D010146	Novel
+18165598	Cotreatment	D002045	C116926	Novel
+18165598	Comparison	D002045	D008012	Novel

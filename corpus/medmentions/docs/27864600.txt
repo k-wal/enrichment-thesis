@@ -1,0 +1,121 @@
+27864600|t|Comparison of true unenhanced and virtual unenhanced (VUE) attenuation values in abdominopelvic single-source rapid kilovoltage-switching spectral CT
+27864600|a|To assess the agreement between the true non-contrast (TNC) attenuation values of intra-abdominal structures and attenuation values obtained on virtual-unenhanced (VUE) images based on rapid kVp-switching dual-energy CT. The effects of contrast phase and patient characteristics (e.g., BMI, hematocrit, hemoglobin content) on VUE values were also investigated. Ninety four patients who underwent triphasic abdominal CT (liver mass protocol, n = 47; pancreas mass protocol, n = 47) between August 2014 and May 2015 were retrospectively reviewed. Unenhanced series was performed using conventional single-energy mode at 120 kVp. Late arterial and venous phase post-contrast series were obtained utilizing rapid kVp-switching dual-energy CT technique. VUE images were processed off of arterial (VUE-art) and venous (VUE-ven) phase series. Attenuation values of liver, pancreas, kidneys, adrenal glands, muscle, subcutaneous fat, aorta, IVC, and main portal vein were recorded on TNC and VUE sets of images. Attenuation values were compared using univariate linear regression and Student two-tailed paired t test. There was excellent correlation between TNC, VUE-art, and VUE-ven attenuation values across all organs (p < 0.0001). Paired Student t test, however, showed significant difference between TNC and VUE-art attenuation of kidneys, right adrenal gland, paraspinal muscle, and aorta. There was also significant difference between TNC and VUE-ven attenuation of left kidney. Percentage of cases which had >10 HU difference between VUE and TNC for an individual was calculated which ranged between 13% (right kidney) and 42% (right adrenal gland). Although the correlation between VUE and TNC attenuation values was excellent and mean difference between TNC and VUE attenuation values was negligible (ranging between -5.94 HU for paraspinal muscles to 6.2 HU in aorta), intra-patient analysis showed a considerable number of cases which had >10 HU difference between VUE and TNC. VUE-ven generally offered a better approximation of TNC values. Further optimization of post-processing algorithms might be necessary before complete replacement of TNC with VUE images.
+27864600	0	10	Comparison	T052	C1707455
+27864600	14	29	true unenhanced	T170	C1704254
+27864600	34	52	virtual unenhanced	T170	C1704254
+27864600	54	57	VUE	T170	C1704254
+27864600	59	77	attenuation values	T080	C0042295
+27864600	81	95	abdominopelvic	T029	C1508499
+27864600	96	149	single-source rapid kilovoltage-switching spectral CT	T060	C4055114
+27864600	153	159	assess	T052	C1516048
+27864600	186	203	true non-contrast	T170	C1704254
+27864600	205	208	TNC	T170	C1704254
+27864600	210	228	attenuation values	T080	C0042295
+27864600	232	258	intra-abdominal structures	T029	C1268217
+27864600	263	281	attenuation values	T080	C0042295
+27864600	282	290	obtained	T169	C1301820
+27864600	294	325	virtual-unenhanced (VUE) images	T170	C1704254
+27864600	335	369	rapid kVp-switching dual-energy CT	T060	C4055114
+27864600	375	382	effects	T080	C1280500
+27864600	386	400	contrast phase	T033	C0243095
+27864600	405	428	patient characteristics	T201	C0815172
+27864600	436	439	BMI	T201	C1305855
+27864600	441	451	hematocrit	T201	C1542366
+27864600	453	463	hemoglobin	T116,T123	C0019046
+27864600	464	471	content	T077	C0456205
+27864600	476	479	VUE	T170	C1704254
+27864600	480	486	values	T080	C0042295
+27864600	497	509	investigated	T169	C1292732
+27864600	523	531	patients	T101	C0030705
+27864600	546	568	triphasic abdominal CT	T060	C4055114
+27864600	570	589	liver mass protocol	T033	C2220600
+27864600	599	621	pancreas mass protocol	T033	C2220607
+27864600	639	645	August	T080	C3831448
+27864600	655	658	May	T079	C3812381
+27864600	669	693	retrospectively reviewed	T170	C0282443
+27864600	695	705	Unenhanced	T033	C0243095
+27864600	706	712	series	T081	C0205549
+27864600	717	726	performed	T169	C0884358
+27864600	733	764	conventional single-energy mode	T060	C0040405
+27864600	772	775	kVp	T080	C1708610
+27864600	777	790	Late arterial	T082	C0221464
+27864600	795	801	venous	T082	C0348013
+27864600	808	821	post-contrast	T033	C0243095
+27864600	822	828	series	T081	C0205549
+27864600	853	897	rapid kVp-switching dual-energy CT technique	T060	C4055114
+27864600	899	909	VUE images	T170	C1704254
+27864600	915	924	processed	T067	C1522240
+27864600	932	950	arterial (VUE-art)	T170	C1704254
+27864600	955	971	venous (VUE-ven)	T170	C1704254
+27864600	978	984	series	T081	C0205549
+27864600	986	1004	Attenuation values	T080	C0042295
+27864600	1008	1013	liver	T023	C0023884
+27864600	1015	1023	pancreas	T023	C0030274
+27864600	1025	1032	kidneys	T023	C0022646
+27864600	1034	1048	adrenal glands	T023	C0001625
+27864600	1050	1056	muscle	T024	C0026845
+27864600	1058	1074	subcutaneous fat	T024	C0222331
+27864600	1076	1081	aorta	T023	C0003483
+27864600	1083	1086	IVC	T023	C0042458
+27864600	1092	1108	main portal vein	T023	C1183135
+27864600	1126	1129	TNC	T170	C1704254
+27864600	1134	1152	VUE sets of images	T170	C1704254
+27864600	1154	1172	Attenuation values	T080	C0042295
+27864600	1178	1186	compared	T052	C1707455
+27864600	1193	1221	univariate linear regression	T081	C0023733
+27864600	1226	1258	Student two-tailed paired t test	T170	C1709451
+27864600	1270	1279	excellent	T080	C1961136
+27864600	1280	1291	correlation	T080	C1707520
+27864600	1300	1303	TNC	T170	C1704254
+27864600	1305	1312	VUE-art	T170	C1704254
+27864600	1318	1325	VUE-ven	T170	C1704254
+27864600	1326	1344	attenuation values	T080	C0042295
+27864600	1356	1362	organs	T023	C0178784
+27864600	1377	1398	Paired Student t test	T170	C1709451
+27864600	1416	1438	significant difference	T081	C1705241
+27864600	1447	1450	TNC	T170	C1704254
+27864600	1455	1462	VUE-art	T170	C1704254
+27864600	1463	1474	attenuation	T052	C0599946
+27864600	1478	1485	kidneys	T023	C0022646
+27864600	1487	1506	right adrenal gland	T023	C0229559
+27864600	1508	1525	paraspinal muscle	T023	C0448353
+27864600	1531	1536	aorta	T023	C0003483
+27864600	1553	1575	significant difference	T081	C1705241
+27864600	1584	1587	TNC	T170	C1704254
+27864600	1592	1599	VUE-ven	T170	C1704254
+27864600	1600	1611	attenuation	T052	C0599946
+27864600	1615	1626	left kidney	T023	C0227614
+27864600	1684	1687	VUE	T170	C1704254
+27864600	1692	1695	TNC	T170	C1704254
+27864600	1703	1713	individual	T098	C0237401
+27864600	1718	1728	calculated	T052	C1441506
+27864600	1735	1741	ranged	T081	C1514721
+27864600	1755	1767	right kidney	T023	C0227613
+27864600	1778	1797	right adrenal gland	T023	C0229559
+27864600	1813	1824	correlation	T080	C1707520
+27864600	1833	1836	VUE	T170	C1704254
+27864600	1841	1844	TNC	T170	C1704254
+27864600	1845	1863	attenuation values	T080	C0042295
+27864600	1868	1877	excellent	T080	C1961136
+27864600	1882	1886	mean	T081	C0444504
+27864600	1887	1897	difference	T081	C1705241
+27864600	1906	1909	TNC	T170	C1704254
+27864600	1914	1917	VUE	T170	C1704254
+27864600	1918	1936	attenuation values	T080	C0042295
+27864600	1941	1951	negligible	T080	C0332269
+27864600	1982	2000	paraspinal muscles	T023	C0448353
+27864600	2014	2019	aorta	T023	C0003483
+27864600	2022	2044	intra-patient analysis	T062	C0936012
+27864600	2100	2110	difference	T081	C1705241
+27864600	2119	2122	VUE	T170	C1704254
+27864600	2127	2130	TNC	T170	C1704254
+27864600	2132	2139	VUE-ven	T170	C1704254
+27864600	2167	2180	approximation	T080	C0332232
+27864600	2184	2187	TNC	T170	C1704254
+27864600	2188	2194	values	T080	C0042295
+27864600	2204	2216	optimization	T052	C2698650
+27864600	2220	2246	post-processing algorithms	T170	C0002045
+27864600	2273	2281	complete	T080	C0205197
+27864600	2282	2293	replacement	T169	C0559956
+27864600	2297	2300	TNC	T170	C1704254
+27864600	2306	2316	VUE images	T170	C1704254

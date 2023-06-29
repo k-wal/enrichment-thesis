@@ -1,0 +1,54 @@
+18827003|t|A novel point mutation in the amino terminal domain of the human glucocorticoid receptor (hGR) gene enhancing hGR-mediated gene expression.
+18827003|a|CONTEXT: Interindividual variations in glucocorticoid sensitivity have been associated with manifestations of cortisol excess or deficiency and may be partly explained by polymorphisms in the human glucocorticoid receptor (hGR) gene. We studied a 43-yr-old female, who presented with manifestations consistent with tissue-selective glucocorticoid hypersensitivity. We detected a novel, single, heterozygous nucleotide (G --> C) substitution at position 1201 (exon 2) of the hGR gene, which resulted in aspartic acid to histidine substitution at amino acid position 401 in the amino-terminal domain of the hGRalpha. We investigated the molecular mechanisms of action of the natural mutant receptor hGRalphaD401H. METHODS-RESULTS: Compared with the wild-type hGRalpha, the mutant receptor hGRalphaD401H demonstrated a 2.4-fold increase in its ability to transactivate the glucocorticoid-inducible mouse mammary tumor virus promoter in response to dexamethasone but had similar affinity for the ligand (dissociation constant = 6.2 +/- 0.6 vs. 6.1 +/- 0.6 nm) and time to nuclear translocation (14.75 +/- 0.25 vs. 14.25 +/- 1.13 min). The mutant receptor hGRalphaD401H did not exert a dominant positive or negative effect upon the wild-type receptor, it preserved its ability to bind to glucocorticoid response elements, and displayed a normal interaction with the glucocorticoid receptor-interacting protein 1 coactivator. CONCLUSIONS: The mutant receptor hGRalphaD401H enhances the transcriptional activity of glucocorticoid-responsive genes. The presence of the D401H mutation may predispose subjects to obesity, hypertension, and other manifestations of the metabolic syndrome.
+18827003	59	64	human	OrganismTaxon	9606
+18827003	65	88	glucocorticoid receptor	GeneOrGeneProduct	2908
+18827003	90	93	hGR	GeneOrGeneProduct	2908
+18827003	110	113	hGR	GeneOrGeneProduct	2908
+18827003	179	193	glucocorticoid	ChemicalEntity	D005938
+18827003	250	258	cortisol	ChemicalEntity	D006854
+18827003	332	337	human	OrganismTaxon	9606
+18827003	338	361	glucocorticoid receptor	GeneOrGeneProduct	2908
+18827003	363	366	hGR	GeneOrGeneProduct	2908
+18827003	472	486	glucocorticoid	ChemicalEntity	D005938
+18827003	487	503	hypersensitivity	DiseaseOrPhenotypicFeature	D004342
+18827003	558	597	(G --> C) substitution at position 1201	SequenceVariant	c|SUB|G|1201|C
+18827003	614	617	hGR	GeneOrGeneProduct	2908
+18827003	642	708	aspartic acid to histidine substitution at amino acid position 401	SequenceVariant	p|SUB|D|401|H
+18827003	745	753	hGRalpha	GeneOrGeneProduct	2908
+18827003	837	845	hGRalpha	GeneOrGeneProduct	2908
+18827003	845	850	D401H	SequenceVariant	p|SUB|D|401|H
+18827003	897	905	hGRalpha	GeneOrGeneProduct	2908
+18827003	927	935	hGRalpha	GeneOrGeneProduct	2908
+18827003	935	940	D401H	SequenceVariant	p|SUB|D|401|H
+18827003	1010	1024	glucocorticoid	ChemicalEntity	D005938
+18827003	1035	1060	mouse mammary tumor virus	OrganismTaxon	11757
+18827003	1085	1098	dexamethasone	ChemicalEntity	D003907
+18827003	1291	1299	hGRalpha	GeneOrGeneProduct	2908
+18827003	1299	1304	D401H	SequenceVariant	p|SUB|D|401|H
+18827003	1423	1437	glucocorticoid	ChemicalEntity	D005938
+18827003	1501	1546	glucocorticoid receptor-interacting protein 1	GeneOrGeneProduct	23426
+18827003	1593	1601	hGRalpha	GeneOrGeneProduct	2908
+18827003	1601	1606	D401H	SequenceVariant	p|SUB|D|401|H
+18827003	1648	1679	glucocorticoid-responsive genes	GeneOrGeneProduct	2908
+18827003	1701	1706	D401H	SequenceVariant	p|SUB|D|401|H
+18827003	1743	1750	obesity	DiseaseOrPhenotypicFeature	D009765
+18827003	1752	1764	hypertension	DiseaseOrPhenotypicFeature	D006973
+18827003	1798	1816	metabolic syndrome	DiseaseOrPhenotypicFeature	D008659
+18827003	Positive_Correlation	c|SUB|G|1201|C	D005938	Novel
+18827003	Association	D006973	2908	Novel
+18827003	Association	D009765	2908	Novel
+18827003	Association	D005938	D006854	No
+18827003	Association	D005938	D003907	No
+18827003	Bind	D005938	2908	No
+18827003	Positive_Correlation	D005938	D004342	No
+18827003	Positive_Correlation	p|SUB|D|401|H	D008659	Novel
+18827003	Positive_Correlation	p|SUB|D|401|H	D006973	Novel
+18827003	Positive_Correlation	p|SUB|D|401|H	D009765	Novel
+18827003	Association	p|SUB|D|401|H	D003907	No
+18827003	Positive_Correlation	p|SUB|D|401|H	D005938	Novel
+18827003	Association	2908	D008659	Novel
+18827003	Association	2908	23426	No
+18827003	Association	2908	D003907	No
+18827003	Association	D004342	c|SUB|G|1201|C	Novel
+18827003	Association	D004342	p|SUB|D|401|H	Novel
+18827003	Association	D004342	2908	No

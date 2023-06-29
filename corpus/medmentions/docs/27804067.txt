@@ -1,0 +1,115 @@
+27804067|t|Consistent tracer administration profile improves test-retest repeatability of myocardial blood flow quantification with (82)Rb dynamic PET imaging
+27804067|a|Quantification of myocardial blood flow (MBF) and stress / rest flow reserve is used increasingly to diagnose multi-vessel coronary artery disease and micro-vascular disease with PET imaging. However, variability in the measurements may limit physician confidence to direct revascularization therapies based on specific threshold values. This study evaluated the effects of rubidium-82 ((82)Rb) tracer injection profile using a constant - activity-rate (CA) vs a constant - flow-rate (CF) infusion to improve test-retest repeatability of MBF measurements. 22 participants underwent single-session (82)Rb dynamic PET imaging during rest and dipyridamole stress using one of 2 test-retest infusion protocols: CA - CA (n = 12) or CA - CF (n = 10). MBF was quantified using a single-tissue-compartment model (1TCM) and a simplified retention model (SRM). Non-parametric test-retest repeatability coefficients (RPCnp) were compared between groups. Myocardium-to-blood contrast and signal-to-noise ratios of the late uptake images (2 to 6 minutes) were also compared to evaluate standard myocardial perfusion image (MPI) quality. MBF values in the CA - CA group were more repeatable (smaller RPCnp) than the CA - CF group using the 1TCM at rest alone, rest and stress combined, and stress / rest reserve (21% vs 36%, 16% vs 19%, and 20% vs 27%, P < 0.05, respectively), and using the SRM at Rest and Stress alone, Rest and Stress combined, and stress / rest reserve (21% vs 38%, 15% vs 25%, 22% vs 38%, and 23% vs 49%, P < 0.05, respectively). In terms of image quality, myocardium-to-blood contrast and signal-to-noise ratios were not significantly different between groups. Constant - activity-rate 'square-wave' infusion of (82)Rb produces more repeatable tracer injection profiles and decreases the test-retest variability of MBF measurements, when compared to a constant- flow-rate 'bolus' administration of (82)Rb, especially with SRM, and without compromising standard MPI quality.
+27804067	11	17	tracer	T130	C1522485
+27804067	18	40	administration profile	T061	C1533734
+27804067	50	75	test-retest repeatability	T062	C0237828
+27804067	79	100	myocardial blood flow	T042	C2986786
+27804067	101	115	quantification	T081	C1709793
+27804067	121	127	(82)Rb	T121,T130,T196	C0303554
+27804067	128	139	dynamic PET	T060	C0032743
+27804067	140	147	imaging	T060	C0011923
+27804067	148	162	Quantification	T081	C1709793
+27804067	166	187	myocardial blood flow	T042	C2986786
+27804067	189	192	MBF	T042	C2986786
+27804067	198	204	stress	T033	C0038435
+27804067	207	211	rest	T056	C0035253
+27804067	212	224	flow reserve	T201	C1721077
+27804067	233	245	increasingly	T081	C0205217
+27804067	249	257	diagnose	T033	C0011900
+27804067	258	294	multi-vessel coronary artery disease	T047	C1299432
+27804067	299	321	micro-vascular disease	T047	C3495826
+27804067	327	330	PET	T060	C0032743
+27804067	331	338	imaging	T060	C0011923
+27804067	349	360	variability	T077	C2827666
+27804067	368	380	measurements	T169	C0242485
+27804067	422	439	revascularization	T061	C0027056
+27804067	440	449	therapies	T061	C0087111
+27804067	468	484	threshold values	T080	C0042295
+27804067	491	496	study	T062	C0008972
+27804067	497	506	evaluated	T058	C0220825
+27804067	511	518	effects	T080	C1280500
+27804067	522	533	rubidium-82	T121,T130,T196	C0303554
+27804067	535	541	(82)Rb	T121,T130,T196	C0303554
+27804067	543	549	tracer	T130	C1522485
+27804067	550	567	injection profile	T061	C1533685
+27804067	576	584	constant	T080	C1948059
+27804067	587	600	activity-rate	T081	C1521828
+27804067	602	604	CA	T081	C1521828
+27804067	611	619	constant	T080	C1948059
+27804067	622	631	flow-rate	T081	C2826285
+27804067	633	635	CF	T081	C2826285
+27804067	637	645	infusion	T061	C0574032
+27804067	657	682	test-retest repeatability	T062	C0237828
+27804067	686	689	MBF	T042	C2986786
+27804067	690	702	measurements	T169	C0242485
+27804067	707	719	participants	T101	C0030705
+27804067	745	751	(82)Rb	T121,T130,T196	C0303554
+27804067	752	763	dynamic PET	T060	C0032743
+27804067	764	771	imaging	T060	C0011923
+27804067	779	783	rest	T056	C0035253
+27804067	788	807	dipyridamole stress	T060	C2036187
+27804067	823	834	test-retest	T062	C0237828
+27804067	835	853	infusion protocols	T061	C0574032
+27804067	855	857	CA	T081	C1521828
+27804067	860	862	CA	T081	C1521828
+27804067	875	877	CA	T081	C1521828
+27804067	880	882	CF	T081	C2826285
+27804067	893	896	MBF	T042	C2986786
+27804067	901	911	quantified	T081	C1709793
+27804067	920	951	single-tissue-compartment model	T170	C2986731
+27804067	953	957	1TCM	T170	C2986731
+27804067	965	991	simplified retention model	T170	C3161035
+27804067	993	996	SRM	T170	C3161035
+27804067	999	1052	Non-parametric test-retest repeatability coefficients	T081	C1707429
+27804067	1054	1059	RPCnp	T081	C1707429
+27804067	1083	1089	groups	UnknownType	C0681860
+27804067	1091	1119	Myocardium-to-blood contrast	T081	C0392762
+27804067	1124	1146	signal-to-noise ratios	T081	C2986823
+27804067	1166	1172	images	T170	C1704254
+27804067	1181	1188	minutes	T079	C0439232
+27804067	1212	1220	evaluate	T058	C0220825
+27804067	1230	1256	myocardial perfusion image	T170	C1704254
+27804067	1258	1261	MPI	T170	C1704254
+27804067	1263	1270	quality	T080	C0332306
+27804067	1272	1275	MBF	T042	C2986786
+27804067	1290	1292	CA	T081	C1521828
+27804067	1295	1297	CA	T081	C1521828
+27804067	1298	1303	group	UnknownType	C0681860
+27804067	1326	1339	smaller RPCnp	T081	C1707429
+27804067	1350	1352	CA	T081	C1521828
+27804067	1355	1357	CF	T081	C2826285
+27804067	1358	1363	group	UnknownType	C0681860
+27804067	1374	1378	1TCM	T170	C2986731
+27804067	1382	1386	rest	T056	C0035253
+27804067	1394	1398	rest	T056	C0035253
+27804067	1403	1409	stress	T033	C0038435
+27804067	1424	1430	stress	T033	C0038435
+27804067	1433	1437	rest	T056	C0035253
+27804067	1526	1529	SRM	T170	C3161035
+27804067	1533	1537	Rest	T056	C0035253
+27804067	1533	1537	Rest	T056	C0035253
+27804067	1542	1548	Stress	T033	C0038435
+27804067	1556	1560	Rest	T056	C0035253
+27804067	1565	1571	Stress	T033	C0038435
+27804067	1586	1592	stress	T033	C0038435
+27804067	1595	1599	rest	T056	C0035253
+27804067	1698	1711	image quality	T080	C0806487
+27804067	1713	1741	myocardium-to-blood contrast	T081	C0392762
+27804067	1746	1768	signal-to-noise ratios	T081	C2986823
+27804067	1810	1816	groups	UnknownType	C0681860
+27804067	1818	1826	Constant	T080	C1948059
+27804067	1829	1842	activity-rate	T081	C1521828
+27804067	1857	1865	infusion	T061	C0574032
+27804067	1869	1875	(82)Rb	T121,T130,T196	C0303554
+27804067	1901	1907	tracer	T130	C1522485
+27804067	1908	1926	injection profiles	T061	C1533685
+27804067	1931	1940	decreases	T081	C0547047
+27804067	1945	1956	test-retest	T062	C0237828
+27804067	1957	1968	variability	T077	C2827666
+27804067	1972	1975	MBF	T042	C2986786
+27804067	1976	1988	measurements	T169	C0242485
+27804067	2019	2028	flow-rate	T081	C2826285
+27804067	2029	2051	'bolus' administration	T061	C1511237
+27804067	2055	2061	(82)Rb	T121,T130,T196	C0303554
+27804067	2079	2082	SRM	T170	C3161035
+27804067	2118	2129	MPI quality	T080	C0806487

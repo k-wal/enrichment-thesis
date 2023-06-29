@@ -1,0 +1,40 @@
+28454015|t|Air pollution characteristics and health risks in Henan Province, China
+28454015|a|Events of severe air pollution occurred frequently in China recently, thus understanding of the air pollution characteristics and its health risks is very important. In this work, we analyzed a two-year dataset (March 2014 - February 2016) including daily concentrations of six criteria pollutants (PM2.5, PM10, CO, SO2, NO2, and O3) from 18 cities in Henan province. Results reveal the serious air pollution status in Henan province, especially the northern part, and Zhengzhou is the city with the worst air quality. Annual average PM2.5 concentrations exceed the second grade of Chinese Ambient Air Quality Standard (75μg/m(3)) at both 2014 and 2015. PM2.5 is typically the major pollutant, but ozone pollution can be significant during summer. Furthermore, as the commonly used air quality index (AQI) neglects the mutual health effects from multiple pollutants, we introduced the aggregate air quality index (AAQI) and health-risk based air quality index (HAQI) to evaluate the health risks. Results show that based on HAQI, the current AQI system likely significantly underestimate the health risks of air pollution, highlighting that the general public may need stricter health protection measures. The population -weighted two-year average HAQI data further demonstrates that all population in the studied cities in Henan province live with polluted air - 72% of the population is exposed to air that is unhealthy for sensitive people, while 28% of people is exposed to air that can be harmful to healthy people; and the health risks are much greater during winter than during other seasons. Future works should further improve the HAQI algorithm, and validate the links between the clinical / epidemiologic data and the HAQI values.
+28454015	50	64	Henan Province	T082	UMLS:C1514578
+28454015	66	71	China	T082	UMLS:C0008115
+28454015	126	131	China	T082	UMLS:C0008115
+28454015	275	282	dataset	T170	UMLS:C0150098
+28454015	359	369	pollutants	T103	UMLS:C0001869
+28454015	384	386	CO	T103	UMLS:C0007018
+28454015	388	391	SO2	T103	UMLS:C0038777
+28454015	393	396	NO2	T103	UMLS:C0028160
+28454015	402	404	O3	T103	UMLS:C0030106
+28454015	424	438	Henan province	T082	UMLS:C1514578
+28454015	491	505	Henan province	T082	UMLS:C1514578
+28454015	522	535	northern part	T082	UMLS:C1709269
+28454015	541	550	Zhengzhou	T082	UMLS:C0008848
+28454015	558	562	city	T082	UMLS:C0008848
+28454015	755	764	pollutant	T103	UMLS:C0599786
+28454015	770	775	ozone	T103	UMLS:C0030106
+28454015	854	871	air quality index	T170	UMLS:C0918012
+28454015	873	876	AQI	T170	UMLS:C0918012
+28454015	927	937	pollutants	T103	UMLS:C0599786
+28454015	957	984	aggregate air quality index	T170	UMLS:C0918012
+28454015	986	990	AAQI	T170	UMLS:C0918012
+28454015	996	1031	health-risk based air quality index	T170	UMLS:C0918012
+28454015	1033	1037	HAQI	T170	UMLS:C0918012
+28454015	1096	1100	HAQI	T170	UMLS:C0918012
+28454015	1114	1117	AQI	T170	UMLS:C0918012
+28454015	1217	1231	general public	T098	UMLS:C0683971
+28454015	1320	1324	HAQI	T170	UMLS:C0918012
+28454015	1386	1392	cities	T082	UMLS:C0008848
+28454015	1396	1410	Henan province	T082	UMLS:C1514578
+28454015	1484	1493	unhealthy	T033	UMLS:C0243095
+28454015	1508	1514	people	T098	UMLS:C0027361
+28454015	1529	1535	people	T098	UMLS:C0027361
+28454015	1585	1591	people	T098	UMLS:C0027361
+28454015	1712	1716	HAQI	T170	UMLS:C0918012
+28454015	1717	1726	algorithm	T170	UMLS:C0002045
+28454015	1763	1771	clinical	T170	UMLS:C1516606
+28454015	1788	1792	data	T170	UMLS:C0150098
+28454015	1801	1805	HAQI	T170	UMLS:C0918012

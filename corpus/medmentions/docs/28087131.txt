@@ -1,0 +1,86 @@
+28087131|t|Incidence and effect of variant histology on oncological outcomes in patients with bladder cancer treated with radical cystectomy
+28087131|a|We sought to describe incidence of histological variants after radical cystectomy (RC) due to bladder cancer (BCa). Moreover, we investigated survival outcomes accounting for this parameter. We retrospectively evaluated data from 1,067 patients with BCa treated with RC between 1990 and 2013 at a single tertiary care referral center. All specimen were evaluated by dedicated uropathologists. Univariable and multivariable Cox regression analyses tested the effect of different histopathological variant on recurrence, cancer-specific mortality (CSM), and overall mortality (OM) after accounting for all available confounders. Of 1,067 patients, 729 (68.3%) harbored pure urothelial BCa while 338 (31.7%) were found to have a variant. Considering uncommon variants, 21 (2.0%) were sarcomatoid, 10 (0.9%) lymphoepitelial, 19 (1.8%) small cell, 109 (10.2%) squamous, 89 (8.3%) micropapillary, 23 (2.2%) glandular, 34 (3.2%) mixed variants, and 33 (3.1%) were found with other types of variants. With a median follow-up of 6.2 years, 343 recurrence, 365 CSM, and 451 OM were recorded, respectively. At multivariable Cox regression analyses, the presence of small cell variant was associated with higher recurrence (hazard ratio [HR] = 3.47, P<0.001), CSM (HR = 3.30, P<0.04), and OM (HR = 2.97, P<0.003) as compared with pure urothelial cancer. Conversely, no survival differences were recorded considering other histological variants (all P> 0.1). Our study confirms that histological variant is not an infrequent event at RC specimen. However, in our single-center series, only patients found with small cell variant were associated with a negative effect on survival after RC.
+28087131	0	9	Incidence	T081	C0021149
+28087131	14	23	effect of	T080	C1704420
+28087131	24	31	variant	T080	C0205419
+28087131	32	41	histology	T091	C0019638
+28087131	45	65	oncological outcomes	T080	C0085415
+28087131	69	77	patients	T101	C0030705
+28087131	83	97	bladder cancer	T191	C0005684
+28087131	98	105	treated	T169	C1522326
+28087131	111	129	radical cystectomy	T061	C0194401
+28087131	152	161	incidence	T081	C0021149
+28087131	165	177	histological	T169	C0205462
+28087131	178	186	variants	T080	C0205419
+28087131	193	211	radical cystectomy	T061	C0194401
+28087131	213	215	RC	T061	C0194401
+28087131	224	238	bladder cancer	T191	C0005684
+28087131	240	243	BCa	T191	C0005684
+28087131	272	280	survival	T169	C0220921
+28087131	281	289	outcomes	T080	C0085415
+28087131	324	339	retrospectively	T080	C1514923
+28087131	340	349	evaluated	T058	C0220825
+28087131	350	354	data	T078	C1511726
+28087131	366	374	patients	T101	C0030705
+28087131	380	383	BCa	T191	C0005684
+28087131	384	391	treated	T169	C1522326
+28087131	397	399	RC	T061	C0194401
+28087131	427	463	single tertiary care referral center	T073,T093	C0587437
+28087131	469	477	specimen	T167	C0370003
+28087131	483	492	evaluated	T058	C0220825
+28087131	506	521	uropathologists	T097	C1522486
+28087131	523	576	Univariable and multivariable Cox regression analyses	T170	C0034980
+28087131	588	597	effect of	T080	C1704420
+28087131	608	625	histopathological	T169	C0243140
+28087131	626	633	variant	T080	C0205419
+28087131	637	647	recurrence	T067	C0034897
+28087131	649	674	cancer-specific mortality	T081	C1516192
+28087131	676	679	CSM	T081	C1516192
+28087131	686	703	overall mortality	T081	C0205848
+28087131	705	707	OM	T081	C0205848
+28087131	744	755	confounders	T169	C0009673
+28087131	766	774	patients	T101	C0030705
+28087131	797	816	pure urothelial BCa	T191	C0751571
+28087131	856	863	variant	T080	C0205419
+28087131	886	894	variants	T080	C0205419
+28087131	911	922	sarcomatoid	T191	C0205697
+28087131	934	949	lymphoepitelial	T191	C0334254
+28087131	961	971	small cell	T191	C0262584
+28087131	985	993	squamous	T191	C0007137
+28087131	1005	1019	micropapillary	T191	C3472608
+28087131	1031	1040	glandular	T191	C0205854
+28087131	1058	1066	variants	T080	C0205419
+28087131	1113	1121	variants	T080	C0205419
+28087131	1130	1136	median	T081	C0876920
+28087131	1137	1146	follow-up	T058	C1522577
+28087131	1154	1159	years	T079	C0439234
+28087131	1165	1175	recurrence	T067	C0034897
+28087131	1181	1184	CSM	T081	C1516192
+28087131	1194	1196	OM	T081	C0205848
+28087131	1229	1266	multivariable Cox regression analyses	T170	C0034980
+28087131	1284	1302	small cell variant	T191	C0262584
+28087131	1307	1322	associated with	T080	C0332281
+28087131	1330	1340	recurrence	T067	C0034897
+28087131	1342	1354	hazard ratio	T081	C2985465
+28087131	1356	1358	HR	T081	C2985465
+28087131	1378	1381	CSM	T081	C1516192
+28087131	1383	1385	HR	T081	C2985465
+28087131	1407	1409	OM	T081	C0205848
+28087131	1411	1413	HR	T081	C2985465
+28087131	1453	1470	urothelial cancer	T191	C0751571
+28087131	1484	1507	no survival differences	T033	C3842396
+28087131	1540	1552	histological	T169	C0205462
+28087131	1553	1561	variants	T080	C0205419
+28087131	1580	1585	study	T077	C1706256
+28087131	1600	1612	histological	T169	C0205462
+28087131	1613	1620	variant	T080	C0205419
+28087131	1651	1653	RC	T061	C0194401
+28087131	1654	1662	specimen	T167	C0370003
+28087131	1680	1700	single-center series	T093	C1708333
+28087131	1707	1715	patients	T101	C0030705
+28087131	1727	1745	small cell variant	T191	C0262584
+28087131	1751	1766	associated with	T080	C0332281
+28087131	1769	1777	negative	T033	C0205160
+28087131	1778	1784	effect	T080	C1280500
+28087131	1788	1796	survival	T169	C0220921
+28087131	1803	1805	RC	T061	C0194401

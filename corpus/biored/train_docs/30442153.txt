@@ -1,0 +1,123 @@
+30442153|t|Ca2+-dependent endoplasmic reticulum stress correlation with astrogliosis involves upregulation of KCa3.1 and inhibition of AKT/mTOR signaling.
+30442153|a|BACKGROUND: The intermediate-conductance Ca2+-activated K+ channel KCa3.1 was recently shown to control the phenotype switch of reactive astrogliosis (RA) in Alzheimer's disease (AD). METHODS: KCa3.1 channels expression and cell localization in the brains of AD patients and APP/PS1 mice model were measured by immunoblotting and immunostaining. APP/PS1 mice and KCa3.1-/-/APP/PS1 mice were subjected to Morris water maze test to evaluate the spatial memory deficits. Glia activation and neuron loss was measured by immunostaining. Fluo-4AM was used to measure cytosolic Ca2+ level in beta-amyloid (Abeta) induced reactive astrocytes in vitro. RESULTS: KCa3.1 expression was markedly associated with endoplasmic reticulum (ER) stress and unfolded protein response (UPR) in both Abeta-stimulated primary astrocytes and brain lysates of AD patients and APP/PS1 AD mice. The KCa3.1 channel was shown to regulate store-operated Ca2+ entry (SOCE) through an interaction with the Ca2+ channel Orai1 in primary astrocytes. Gene deletion or pharmacological blockade of KCa3.1 protected against SOCE-induced Ca2+ overload and ER stress via the protein kinase B (AKT) signaling pathway in astrocytes. Importantly, gene deletion or blockade of KCa3.1 restored AKT/mechanistic target of rapamycin signaling both in vivo and in vitro. Consistent with these in vitro data, expression levels of the ER stress markers 78-kDa glucose-regulated protein and CCAAT/enhancer-binding protein homologous protein, as well as that of the RA marker glial fibrillary acidic protein were increased in APP/PS1 AD mouse model. Elimination of KCa3.1 in KCa3.1-/-/APP/PS1 mice corrected these abnormal responses. Moreover, glial activation and neuroinflammation were attenuated in the hippocampi of KCa3.1-/-/APP/PS1 mice, as compared with APP/PS1 mice. In addition, memory deficits and neuronal loss in APP/PS1 mice were reversed in KCa3.1-/-/APP/PS1 mice. CONCLUSIONS: Overall, these results suggest that KCa3.1 is involved in the regulation of Ca2+ homeostasis in astrocytes and attenuation of the UPR and ER stress, thus contributing to memory deficits and neuronal loss.
+30442153	0	4	Ca2+	ChemicalEntity	D002118
+30442153	61	73	astrogliosis	DiseaseOrPhenotypicFeature	D005911
+30442153	99	105	KCa3.1	GeneOrGeneProduct	16534,3783
+30442153	124	127	AKT	GeneOrGeneProduct	11651,207
+30442153	128	132	mTOR	GeneOrGeneProduct	2475,56717
+30442153	160	210	intermediate-conductance Ca2+-activated K+ channel	GeneOrGeneProduct	16534,3783
+30442153	211	217	KCa3.1	GeneOrGeneProduct	16534
+30442153	272	293	reactive astrogliosis	DiseaseOrPhenotypicFeature	D005911
+30442153	295	297	RA	DiseaseOrPhenotypicFeature	D005911
+30442153	302	321	Alzheimer's disease	DiseaseOrPhenotypicFeature	D000544
+30442153	323	325	AD	DiseaseOrPhenotypicFeature	D000544
+30442153	337	343	KCa3.1	GeneOrGeneProduct	16534,3783
+30442153	403	405	AD	DiseaseOrPhenotypicFeature	D000544
+30442153	406	414	patients	OrganismTaxon	9606
+30442153	419	422	APP	GeneOrGeneProduct	11820,351
+30442153	423	426	PS1	GeneOrGeneProduct	5663
+30442153	427	431	mice	OrganismTaxon	10090
+30442153	490	493	APP	GeneOrGeneProduct	11820,351
+30442153	494	497	PS1	GeneOrGeneProduct	5663
+30442153	498	502	mice	OrganismTaxon	10090
+30442153	507	513	KCa3.1	GeneOrGeneProduct	16534
+30442153	517	520	APP	GeneOrGeneProduct	11820,351
+30442153	521	524	PS1	GeneOrGeneProduct	5663
+30442153	525	529	mice	OrganismTaxon	10090
+30442153	595	610	memory deficits	DiseaseOrPhenotypicFeature	D008569
+30442153	632	643	neuron loss	DiseaseOrPhenotypicFeature	D009422
+30442153	676	684	Fluo-4AM	ChemicalEntity	C409648
+30442153	715	719	Ca2+	ChemicalEntity	D000069285
+30442153	729	741	beta-amyloid	GeneOrGeneProduct	351
+30442153	743	748	Abeta	GeneOrGeneProduct	351
+30442153	797	803	KCa3.1	GeneOrGeneProduct	16534,3783
+30442153	922	927	Abeta	GeneOrGeneProduct	11820,351
+30442153	979	981	AD	DiseaseOrPhenotypicFeature	D000544
+30442153	982	990	patients	OrganismTaxon	9606
+30442153	995	998	APP	GeneOrGeneProduct	11820,351
+30442153	999	1002	PS1	GeneOrGeneProduct	5663
+30442153	1003	1005	AD	DiseaseOrPhenotypicFeature	D000544
+30442153	1006	1010	mice	OrganismTaxon	10090
+30442153	1016	1022	KCa3.1	GeneOrGeneProduct	16534
+30442153	1068	1072	Ca2+	ChemicalEntity	D000069285
+30442153	1118	1122	Ca2+	ChemicalEntity	D002118
+30442153	1131	1136	Orai1	GeneOrGeneProduct	109305
+30442153	1205	1211	KCa3.1	GeneOrGeneProduct	16534
+30442153	1243	1247	Ca2+	ChemicalEntity	D000069285
+30442153	1279	1295	protein kinase B	GeneOrGeneProduct	11651
+30442153	1297	1300	AKT	GeneOrGeneProduct	11651
+30442153	1377	1383	KCa3.1	GeneOrGeneProduct	16534
+30442153	1393	1396	AKT	GeneOrGeneProduct	11651
+30442153	1397	1428	mechanistic target of rapamycin	GeneOrGeneProduct	56717
+30442153	1546	1578	78-kDa glucose-regulated protein	GeneOrGeneProduct	14828
+30442153	1583	1632	CCAAT/enhancer-binding protein homologous protein	GeneOrGeneProduct	13198
+30442153	1657	1659	RA	DiseaseOrPhenotypicFeature	D005911
+30442153	1667	1698	glial fibrillary acidic protein	GeneOrGeneProduct	14580
+30442153	1717	1720	APP	GeneOrGeneProduct	11820,351
+30442153	1721	1724	PS1	GeneOrGeneProduct	5663
+30442153	1725	1727	AD	DiseaseOrPhenotypicFeature	D000544
+30442153	1728	1733	mouse	OrganismTaxon	10090
+30442153	1756	1762	KCa3.1	GeneOrGeneProduct	16534
+30442153	1766	1772	KCa3.1	GeneOrGeneProduct	16534
+30442153	1776	1779	APP	GeneOrGeneProduct	11820,351
+30442153	1780	1783	PS1	GeneOrGeneProduct	5663
+30442153	1784	1788	mice	OrganismTaxon	10090
+30442153	1856	1873	neuroinflammation	DiseaseOrPhenotypicFeature	D007249
+30442153	1911	1917	KCa3.1	GeneOrGeneProduct	16534
+30442153	1921	1924	APP	GeneOrGeneProduct	11820,351
+30442153	1925	1928	PS1	GeneOrGeneProduct	5663
+30442153	1929	1933	mice	OrganismTaxon	10090
+30442153	1952	1955	APP	GeneOrGeneProduct	11820,351
+30442153	1956	1959	PS1	GeneOrGeneProduct	5663
+30442153	1960	1964	mice	OrganismTaxon	10090
+30442153	1979	1994	memory deficits	DiseaseOrPhenotypicFeature	D008569
+30442153	1999	2012	neuronal loss	DiseaseOrPhenotypicFeature	D009422
+30442153	2016	2019	APP	GeneOrGeneProduct	11820,351
+30442153	2020	2023	PS1	GeneOrGeneProduct	5663
+30442153	2024	2028	mice	OrganismTaxon	10090
+30442153	2046	2052	KCa3.1	GeneOrGeneProduct	16534
+30442153	2056	2059	APP	GeneOrGeneProduct	11820,351
+30442153	2060	2063	PS1	GeneOrGeneProduct	5663
+30442153	2064	2068	mice	OrganismTaxon	10090
+30442153	2119	2125	KCa3.1	GeneOrGeneProduct	16534,3783
+30442153	2159	2163	Ca2+	ChemicalEntity	D000069285
+30442153	2253	2268	memory deficits	DiseaseOrPhenotypicFeature	D008569
+30442153	2273	2286	neuronal loss	DiseaseOrPhenotypicFeature	D009422
+30442153	Association	14580	D000544	Novel
+30442153	Association	109305	16534	Novel
+30442153	Association	D009422	D000069285	Novel
+30442153	Association	D009422	5663	No
+30442153	Association	D009422	351	No
+30442153	Association	D009422	11820	No
+30442153	Association	D009422	16534	Novel
+30442153	Association	D000069285	351	Novel
+30442153	Association	D000069285	D008569	Novel
+30442153	Association	5663	D008569	No
+30442153	Association	351	D008569	No
+30442153	Association	11820	D008569	No
+30442153	Association	D005911	14580	No
+30442153	Association	56717	D005911	Novel
+30442153	Association	2475	D005911	Novel
+30442153	Association	207	D005911	Novel
+30442153	Association	11651	D005911	Novel
+30442153	Association	3783	D000544	No
+30442153	Association	3783	D009422	Novel
+30442153	Association	3783	D008569	Novel
+30442153	Association	3783	D005911	Novel
+30442153	Association	16534	D000544	No
+30442153	Negative_Correlation	16534	14580	Novel
+30442153	Negative_Correlation	16534	13198	Novel
+30442153	Negative_Correlation	16534	14828	Novel
+30442153	Association	16534	D000069285	Novel
+30442153	Association	16534	D008569	Novel
+30442153	Association	16534	D005911	Novel
+30442153	Negative_Correlation	16534	56717	Novel
+30442153	Negative_Correlation	16534	11651	Novel
+30442153	Association	D002118	109305	No
+30442153	Association	D002118	D005911	Novel
+30442153	Association	D002118	56717	Novel
+30442153	Association	D002118	2475	Novel
+30442153	Association	D002118	207	Novel
+30442153	Association	D002118	11651	Novel
+30442153	Association	D002118	3783	Novel
+30442153	Association	D002118	16534	Novel

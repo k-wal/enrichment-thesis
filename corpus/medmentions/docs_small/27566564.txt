@@ -1,0 +1,64 @@
+27566564|t|Altered pH gradient at the plasma membrane of osteosarcoma cells is a key mechanism of drug resistance
+27566564|a|Current therapy of osteosarcoma (OS), the most common primary bone malignancy, is based on a combination of surgery and chemotherapy. Multidrug resistance mediated by P-glycoprotein (P-gp) overexpression has been previously associated with treatment failure and progression of OS, although other mechanisms may also play a role. We considered the typical acidic extracellular pH (pHe) of sarcomas, and found that doxorubicin (DXR) cytotoxicity is reduced in P-gp negative OS cells cultured at pHe 6.5 compared to standard 7.4. Short-time (24-48 hours) exposure to low pHe significantly increased the number and acidity of lysosomes, and the combination of DXR with omeprazole, a proton pump inhibitor targeting lysosomal acidity, significantly enhanced DXR cytotoxicity. In OS xenografts, the combination treatment of DXR and omeprazole significantly reduced tumor volume and body weight loss. The impaired toxicity of DXR at low pHe was not associated with increased autophagy or lysosomal acidification, but rather, as shown by SNARF staining, with a reversal of the pH gradient at the plasma membrane (ΔpHcm), eventually leading to a reduced DXR intracellular accumulation. Finally, the reversal of ΔpHcm in OS cells promoted resistance not only to DXR, but also to cisplatin and methotrexate, and, to a lesser extent, to vincristine. Altogether, our findings show that, in OS cells, short-term acidosis induces resistance to different chemotherapeutic drugs by a reversal of ΔpHcm, suggesting that buffer therapies or regimens including proton pump inhibitors in combination to low concentrations of conventional anticancer agents may offer novel solutions to overcome drug resistance.
+27566564	27	42	plasma membrane	T017	UMLS:C0007603
+27566564	46	58	osteosarcoma	T038	UMLS:C0029463
+27566564	59	64	cells	T017	UMLS:C0007634
+27566564	87	102	drug resistance	T038	UMLS:C0013203
+27566564	111	118	therapy	T058	UMLS:C0087111
+27566564	122	134	osteosarcoma	T038	UMLS:C0029463
+27566564	136	138	OS	T038	UMLS:C0029463
+27566564	157	180	primary bone malignancy	T038	UMLS:C4282132
+27566564	270	284	P-glycoprotein	T103	UMLS:C0242643
+27566564	286	290	P-gp	T103	UMLS:C0242643
+27566564	292	306	overexpression	T038	UMLS:C1514559
+27566564	343	360	treatment failure	T033	UMLS:C0162643
+27566564	365	376	progression	T038	UMLS:C0242656
+27566564	380	382	OS	T038	UMLS:C0029463
+27566564	491	499	sarcomas	T038	UMLS:C1261473
+27566564	516	527	doxorubicin	T103	UMLS:C0013089
+27566564	529	532	DXR	T103	UMLS:C0013089
+27566564	534	546	cytotoxicity	T038	UMLS:C0596402
+27566564	561	565	P-gp	T017	UMLS:C0376623
+27566564	575	577	OS	T038	UMLS:C0029463
+27566564	578	592	cells cultured	T017	UMLS:C0007635
+27566564	714	721	acidity	T033	UMLS:C0368606
+27566564	725	734	lysosomes	T017	UMLS:C0024369
+27566564	759	762	DXR	T103	UMLS:C0013089
+27566564	768	778	omeprazole	T103	UMLS:C0028978
+27566564	782	803	proton pump inhibitor	T103	UMLS:C0358591
+27566564	814	831	lysosomal acidity	T038	UMLS:C1156062
+27566564	856	859	DXR	T103	UMLS:C0013089
+27566564	860	872	cytotoxicity	T038	UMLS:C0596402
+27566564	877	879	OS	T038	UMLS:C0029463
+27566564	880	890	xenografts	T103	UMLS:C0522537
+27566564	896	917	combination treatment	T058	UMLS:C0013218
+27566564	921	924	DXR	T103	UMLS:C0013089
+27566564	929	939	omeprazole	T103	UMLS:C0028978
+27566564	940	961	significantly reduced	T038	UMLS:C3890174
+27566564	979	995	body weight loss	T033	UMLS:C1262477
+27566564	1001	1018	impaired toxicity	T037	UMLS:C0013221
+27566564	1022	1025	DXR	T103	UMLS:C0013089
+27566564	1071	1080	autophagy	T038	UMLS:C0004391
+27566564	1084	1107	lysosomal acidification	T038	UMLS:C1156062
+27566564	1133	1138	SNARF	T103	UMLS:C0084578
+27566564	1139	1147	staining	T058	UMLS:C0487602
+27566564	1191	1206	plasma membrane	T017	UMLS:C0007603
+27566564	1248	1251	DXR	T103	UMLS:C0013089
+27566564	1252	1265	intracellular	T082	UMLS:C0178719
+27566564	1266	1278	accumulation	T033	UMLS:C4055506
+27566564	1314	1316	OS	T038	UMLS:C0029463
+27566564	1317	1322	cells	T017	UMLS:C0007634
+27566564	1355	1358	DXR	T103	UMLS:C0013089
+27566564	1372	1381	cisplatin	T103	UMLS:C0008838
+27566564	1386	1398	methotrexate	T103	UMLS:C0025677
+27566564	1428	1439	vincristine	T103	UMLS:C0042679
+27566564	1480	1482	OS	T038	UMLS:C0029463
+27566564	1483	1488	cells	T017	UMLS:C0007634
+27566564	1501	1509	acidosis	T038	UMLS:C0001122
+27566564	1542	1564	chemotherapeutic drugs	T103	UMLS:C0003392
+27566564	1605	1611	buffer	T103	UMLS:C0006353
+27566564	1612	1621	therapies	T058	UMLS:C0087111
+27566564	1625	1633	regimens	T170	UMLS:C2945654
+27566564	1644	1666	proton pump inhibitors	T103	UMLS:C0358591
+27566564	1720	1737	anticancer agents	T103	UMLS:C0003392
+27566564	1776	1791	drug resistance	T038	UMLS:C0013203

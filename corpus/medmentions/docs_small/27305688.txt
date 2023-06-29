@@ -1,0 +1,35 @@
+27305688|t|Directed Functional Networks in Alzheimer's Disease: Disruption of Global and Local Connectivity Measures
+27305688|a|Techniques available in graph theory can be applied to signals recorded from human brain. In network analysis of EEG signals, the individual nodes are EEG sensor locations and the edges correspond to functional relations between them that are extracted from EEG time series. In this work, we study EEG -based directed functional networks in Alzheimer's disease (AD). To this end, directed connectivity matrices of 25 AD patients and 26 healthy subjects are processed and a number of neurophysiologically meaningful graph theory metrics are studied. Our data show that functional networks of AD brains have significantly reduced global connectivity in alpha and beta bands (P < 0.05). The AD brains have significantly higher local connectivity than healthy controls in alpha and beta bands. This decreased profile in global connectivity can be linked to compensatory increased local connectivity as a result of widespread decline in the long-range connections. We also study resiliency of brain networks against targeted attack to hub nodes and find that AD networks are less resilient than healthy brains in alpha and beta bands.
+27305688	0	28	Directed Functional Networks	T170	UMLS:C0870951
+27305688	32	51	Alzheimer's Disease	T038	UMLS:C0002395
+27305688	183	194	human brain	T017	UMLS:C0006104
+27305688	199	215	network analysis	T062	UMLS:C4277638
+27305688	219	222	EEG	T058	UMLS:C0013819
+27305688	257	260	EEG	T058	UMLS:C0013819
+27305688	268	277	locations	T082	UMLS:C0450429
+27305688	286	291	edges	T082	UMLS:C0205154
+27305688	364	367	EEG	T058	UMLS:C0013819
+27305688	404	407	EEG	T058	UMLS:C0013819
+27305688	415	443	directed functional networks	T170	UMLS:C0870951
+27305688	447	466	Alzheimer's disease	T038	UMLS:C0002395
+27305688	468	470	AD	T038	UMLS:C0002395
+27305688	523	525	AD	T038	UMLS:C0002395
+27305688	542	558	healthy subjects	T098	UMLS:C1708335
+27305688	589	609	neurophysiologically	T038	UMLS:C0700630
+27305688	621	641	graph theory metrics	T170	UMLS:C0681493
+27305688	697	699	AD	T038	UMLS:C0002395
+27305688	700	706	brains	T017	UMLS:C0006104
+27305688	757	762	alpha	T082	UMLS:C0439645
+27305688	767	777	beta bands	T082	UMLS:C0439645
+27305688	794	796	AD	T038	UMLS:C0002395
+27305688	797	803	brains	T017	UMLS:C0006104
+27305688	874	879	alpha	T082	UMLS:C0439645
+27305688	884	894	beta bands	T082	UMLS:C0439645
+27305688	901	918	decreased profile	T033	UMLS:C0243095
+27305688	1094	1108	brain networks	T017	UMLS:C2951780
+27305688	1117	1132	targeted attack	T033	UMLS:C0243095
+27305688	1160	1162	AD	T038	UMLS:C0002395
+27305688	1163	1171	networks	T017	UMLS:C2951780
+27305688	1204	1210	brains	T017	UMLS:C0006104
+27305688	1214	1219	alpha	T082	UMLS:C0439645
+27305688	1224	1234	beta bands	T082	UMLS:C0439645

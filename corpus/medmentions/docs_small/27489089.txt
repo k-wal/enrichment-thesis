@@ -1,0 +1,31 @@
+27489089|t|Mediation Analysis for Health Disparities Research
+27489089|a|Social epidemiologists often seek to determine the mechanisms that underlie health disparities. This work is typically based on mediation procedures that may not be justified with exposures of common interest in social epidemiology. In this analysis, we explored the consequences of using standard approaches, referred to as the difference and generalized product methods, when mediator-outcome confounders are associated with the exposure. We compared these with inverse probability -weighted marginal structural models, the structural transformation method, doubly robust g-estimation of a structural nested model, and doubly robust targeted minimum loss -based estimation. We used data on 900,726 births from 2003 to 2007 in the Penn Moms study, conducted in Pennsylvania, to assess the extent to which breastfeeding prior to hospital discharge explained the racial disparity in infant mortality. Overall, for every 1,000 births, 3.36 more infant deaths occurred among non-Hispanic black women relative to all other women (95% confidence interva l: 2.78, 3.93). Using the difference and generalized product methods to assess the disparity that would remain if everyone breastfed prior to discharge suggested a complete elimination of the disparity (risk difference = -0.87 per 1,000 births; 95% confidence interval: -1.39, -0.35). In contrast, doubly robust methods suggested a reduction in the disparity to 2.45 (95% confidence interva l: 2.20, 2.71) more infant deaths per 1,000 births among non-Hispanic black women. Standard approaches for mediation analysis in health disparities research can yield misleading results.
+27489089	23	41	Health Disparities	T033	UMLS:C1171307
+27489089	42	50	Research	T062	UMLS:C0035168
+27489089	58	73	epidemiologists	T097	UMLS:C1516908
+27489089	127	145	health disparities	T033	UMLS:C1171307
+27489089	251	259	interest	T038	UMLS:C0543488
+27489089	395	422	generalized product methods	T170	UMLS:C0025663
+27489089	577	609	structural transformation method	T170	UMLS:C0038208
+27489089	751	757	births	T038	UMLS:C0005615
+27489089	783	798	Penn Moms study	T062	UMLS:C0681814
+27489089	813	825	Pennsylvania	T082	UMLS:C0030853
+27489089	857	870	breastfeeding	T038	UMLS:C0006147
+27489089	880	898	hospital discharge	T058	UMLS:C0586003
+27489089	913	929	racial disparity	T033	UMLS:C1171307
+27489089	976	982	births	T038	UMLS:C0005615
+27489089	994	1007	infant deaths	T033	UMLS:C0549159
+27489089	1023	1047	non-Hispanic black women	T098	UMLS:C1518424
+27489089	1070	1075	women	T098	UMLS:C0043210
+27489089	1141	1168	generalized product methods	T170	UMLS:C0025663
+27489089	1183	1192	disparity	T033	UMLS:C1171307
+27489089	1223	1232	breastfed	T038	UMLS:C0006147
+27489089	1242	1251	discharge	T058	UMLS:C0586003
+27489089	1292	1301	disparity	T033	UMLS:C1171307
+27489089	1337	1343	births	T038	UMLS:C0005615
+27489089	1432	1441	reduction	T058	UMLS:C0441610
+27489089	1449	1458	disparity	T033	UMLS:C1171307
+27489089	1511	1524	infant deaths	T033	UMLS:C0549159
+27489089	1535	1541	births	T038	UMLS:C0005615
+27489089	1548	1572	non-Hispanic black women	T098	UMLS:C1518424
+27489089	1620	1638	health disparities	T033	UMLS:C1171307

@@ -1,0 +1,49 @@
+27798239|t|Phosphatidylinositol 4-kinase IIb negatively regulates invadopodia formation and suppresses an invasive cellular phenotype.
+27798239|a|The type II phosphatidylinositol 4-kinase (PI4KII) enzymes synthesize the lipid phosphatidylinositol 4-phosphate (PI(4)P), which has been detected at the Golgi complex and endosomal compartments and recruits clathrin adaptors. Despite common mechanistic similarities between the isoforms, the extent of their redundancy is unclear. We found that depletion of PI4KIIa and PI4KIIb using small interfering RNA led to actin remodeling. Depletion of PI4KIIb also induced the formation of invadopodia containing membrane type I matrix metalloproteinase (MT1-MMP). Depletion of PI4KII isoforms also differentially affected trans-Golgi network (TGN) pools of PI(4)P and post-TGN traffic. PI4KIIb depletion caused increased MT1-MMP trafficking to invasive structures at the plasma membrane and was accompanied by reduced colocalization of MT1-MMP with membranes containing the endosomal markers Rab5 and Rab7 but increased localization with the exocytic Rab8. Depletion of PI4KIIb was sufficient to confer an aggressive invasive phenotype on minimally invasive HeLa and MCF-7 cell lines. Mining oncogenomic databases revealed that loss of the PI4K2B allele and underexpression of PI4KIIb mRNA are associated with human cancers. This finding supports the cell data and suggests that PI4KIIb may be a clinically significant suppressor of invasion. We propose that PI4KIIb synthesizes a pool of PI(4)P that maintains MT1-MMP traffic in the degradative pathway and suppresses the formation of invadopodia.
+27798239	0	33	Phosphatidylinositol 4-kinase IIb	GeneOrGeneProduct	55300
+27798239	128	165	type II phosphatidylinositol 4-kinase	GeneOrGeneProduct	55300,55361
+27798239	167	173	PI4KII	GeneOrGeneProduct	55300,55361
+27798239	198	203	lipid	ChemicalEntity	D008055
+27798239	204	236	phosphatidylinositol 4-phosphate	ChemicalEntity	C037178
+27798239	238	244	PI(4)P	ChemicalEntity	C037178
+27798239	332	340	clathrin	GeneOrGeneProduct	1213
+27798239	483	490	PI4KIIa	GeneOrGeneProduct	55361
+27798239	495	502	PI4KIIb	GeneOrGeneProduct	55300
+27798239	538	543	actin	GeneOrGeneProduct	60
+27798239	569	576	PI4KIIb	GeneOrGeneProduct	55300
+27798239	630	670	membrane type I matrix metalloproteinase	GeneOrGeneProduct	4323
+27798239	672	679	MT1-MMP	GeneOrGeneProduct	4323
+27798239	695	701	PI4KII	GeneOrGeneProduct	55300,55361
+27798239	775	781	PI(4)P	ChemicalEntity	C037178
+27798239	804	811	PI4KIIb	GeneOrGeneProduct	55300
+27798239	839	846	MT1-MMP	GeneOrGeneProduct	4323
+27798239	954	961	MT1-MMP	GeneOrGeneProduct	4323
+27798239	1010	1014	Rab5	GeneOrGeneProduct	5868
+27798239	1019	1023	Rab7	GeneOrGeneProduct	338382
+27798239	1069	1073	Rab8	GeneOrGeneProduct	4218
+27798239	1088	1095	PI4KIIb	GeneOrGeneProduct	55300
+27798239	1176	1180	HeLa	CellLine	CVCL_0030
+27798239	1185	1190	MCF-7	CellLine	CVCL_0031
+27798239	1258	1264	PI4K2B	GeneOrGeneProduct	55300
+27798239	1295	1302	PI4KIIb	GeneOrGeneProduct	55300
+27798239	1328	1333	human	OrganismTaxon	9606
+27798239	1334	1341	cancers	DiseaseOrPhenotypicFeature	D009369
+27798239	1397	1404	PI4KIIb	GeneOrGeneProduct	55300
+27798239	1477	1484	PI4KIIb	GeneOrGeneProduct	55300
+27798239	1507	1513	PI(4)P	ChemicalEntity	C037178
+27798239	1529	1536	MT1-MMP	GeneOrGeneProduct	4323
+27798239	Association	55361	60	Novel
+27798239	Association	55361	1213	No
+27798239	Association	55361	D008055	No
+27798239	Association	55361	C037178	Novel
+27798239	Association	C037178	4323	Novel
+27798239	Association	4323	338382	Novel
+27798239	Association	4323	5868	Novel
+27798239	Association	4323	4218	Novel
+27798239	Association	55300	60	Novel
+27798239	Negative_Correlation	55300	D009369	Novel
+27798239	Association	55300	1213	No
+27798239	Association	55300	D008055	No
+27798239	Association	55300	4218	Novel
+27798239	Association	55300	C037178	Novel
+27798239	Association	55300	4323	Novel

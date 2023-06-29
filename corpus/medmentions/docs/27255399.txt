@@ -1,0 +1,95 @@
+27255399|t|Subsolid pulmonary nodule morphology and associated patient characteristics in a routine clinical population
+27255399|a|To determine the presence and morphology of subsolid pulmonary nodules (SSNs) in a non-screening setting and relate them to clinical and patient characteristics. A total of 16,890 reports of clinically obtained chest CT (06/2011 to 11/2014, single-centre) were searched describing an SSN. Subjects with a visually confirmed SSN and at least two thin-slice CTs were included. Nodule volumes were measured. Progression was defined as volume increase exceeding the software interscan variation. Nodule morphology, location, and patient characteristics were evaluated. Fifteen transient and 74 persistent SSNs were included (median follow-up 19.6 [8.3-36.8] months). Subjects with an SSN were slightly older than those without (62 vs. 58 years; p = 0.01), but no gender predilection was found. SSNs were mostly located in the upper lobes. Women showed significantly more often persistent lesions than men (94 % vs. 69 %; p = 0.002). Part-solid lesions were larger (1638 vs. 383 mm(3); p < 0.001) and more often progressive (68 % vs. 38 %; p = 0.02), compared to pure ground-glass nodules. Progressive SSNs were rare under the age of 50 years. Logistic regression analysis did not identify additional nodule parameters of future progression, apart from part-solid nature. This study confirms previously reported characteristics of SSNs and associated factors in a European, routine clinical population. • SSNs in women are significantly more often persistent compared to men. • SSN persistence is not associated with age or prior malignancy. • The majority of (persistent) SSNs are located in the upper lung lobes. • A part-solid nature is associated with future nodule growth. • Progressive solitary SSNs are rare under the age of 50 years.
+27255399	0	25	Subsolid pulmonary nodule	T033	C0034079
+27255399	26	36	morphology	T080	C0332437
+27255399	52	75	patient characteristics	T201	C0815172
+27255399	81	88	routine	T080	C0205547
+27255399	89	97	clinical	T080	C0205210
+27255399	98	108	population	T098	C1257890
+27255399	126	134	presence	T080	C3854307
+27255399	139	149	morphology	T080	C0332437
+27255399	153	179	subsolid pulmonary nodules	T033	C0034079
+27255399	181	185	SSNs	T033	C0034079
+27255399	192	213	non-screening setting	T082	C3176918
+27255399	233	241	clinical	T201	C0683325
+27255399	246	269	patient characteristics	T201	C0815172
+27255399	289	296	reports	T170	C0684224
+27255399	300	310	clinically	T080	C0205210
+27255399	320	328	chest CT	T060	C0202823
+27255399	393	396	SSN	T033	C0034079
+27255399	398	406	Subjects	T098	C0080105
+27255399	414	422	visually	T169	C0234621
+27255399	433	436	SSN	T033	C0034079
+27255399	454	468	thin-slice CTs	T060	C0040405
+27255399	484	490	Nodule	T020	C0028259
+27255399	491	498	volumes	T081	C0449468
+27255399	504	512	measured	T080	C0444706
+27255399	514	525	Progression	T169	C0449258
+27255399	541	547	volume	T081	C0449468
+27255399	571	589	software interscan	T060	C0441633
+27255399	590	599	variation	T080	C0205419
+27255399	601	607	Nodule	T020	C0028259
+27255399	608	618	morphology	T080	C0332437
+27255399	620	628	location	T029	C1515974
+27255399	634	657	patient characteristics	T201	C0815172
+27255399	663	672	evaluated	T058	C0220825
+27255399	682	691	transient	T079	C0205374
+27255399	699	709	persistent	T079	C0205322
+27255399	710	714	SSNs	T033	C0034079
+27255399	737	746	follow-up	T058	C1522577
+27255399	763	769	months	T079	C0439231
+27255399	772	780	Subjects	T098	C0080105
+27255399	789	792	SSN	T033	C0034079
+27255399	843	848	years	T079	C0439234
+27255399	868	874	gender	T032	C0079399
+27255399	875	887	predilection	T078	C0242568
+27255399	899	903	SSNs	T033	C0034079
+27255399	916	923	located	T082	C0450429
+27255399	931	942	upper lobes	T023	C0225756
+27255399	944	949	Women	T098	C0043210
+27255399	957	970	significantly	T078	C0750502
+27255399	982	992	persistent	T079	C0205322
+27255399	993	1000	lesions	T033	C0221198
+27255399	1006	1009	men	T098	C0025266
+27255399	1038	1056	Part-solid lesions	T033	C3826968
+27255399	1116	1127	progressive	T169	C0205329
+27255399	1172	1192	ground-glass nodules	T033	C3826968
+27255399	1194	1205	Progressive	T169	C0205329
+27255399	1206	1210	SSNs	T033	C0034079
+27255399	1231	1234	age	T032	C0001779
+27255399	1241	1246	years	T079	C0439234
+27255399	1248	1276	Logistic regression analysis	UnknownType	C0681925
+27255399	1305	1311	nodule	T020	C0028259
+27255399	1312	1322	parameters	T033	C0449381
+27255399	1333	1344	progression	T169	C0449258
+27255399	1357	1374	part-solid nature	T080	C0449786
+27255399	1381	1386	study	T062	C2603343
+27255399	1416	1431	characteristics	T080	C1521970
+27255399	1435	1439	SSNs	T033	C0034079
+27255399	1455	1462	factors	T169	C1521761
+27255399	1468	1476	European	T098	C0239307
+27255399	1478	1485	routine	T080	C0205547
+27255399	1486	1494	clinical	T080	C0205210
+27255399	1495	1505	population	T098	C1257890
+27255399	1509	1513	SSNs	T033	C0034079
+27255399	1517	1522	women	T098	C0043210
+27255399	1527	1540	significantly	T078	C0750502
+27255399	1552	1562	persistent	T079	C0205322
+27255399	1575	1578	men	T098	C0025266
+27255399	1582	1585	SSN	T033	C0034079
+27255399	1586	1597	persistence	T079	C0205322
+27255399	1621	1624	age	T032	C0001779
+27255399	1628	1633	prior	T079	C0332152
+27255399	1634	1644	malignancy	T191	C4282132
+27255399	1665	1675	persistent	T079	C0205322
+27255399	1677	1681	SSNs	T033	C0034079
+27255399	1701	1717	upper lung lobes	T023	C0225756
+27255399	1723	1740	part-solid nature	T080	C0449786
+27255399	1744	1759	associated with	T080	C0332281
+27255399	1767	1773	nodule	T020	C0028259
+27255399	1774	1780	growth	T042	C1621966
+27255399	1784	1795	Progressive	T169	C0205329
+27255399	1796	1809	solitary SSNs	T191	C2350019
+27255399	1814	1818	rare	T080	C0522498
+27255399	1829	1832	age	T032	C0001779
+27255399	1839	1844	years	T079	C0439234

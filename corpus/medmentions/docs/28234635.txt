@@ -1,0 +1,124 @@
+28234635|t|Liver Inflammation Relates to Decreased Canalicular Bile Transporter Expression in Pediatric Onset Intestinal Failure
+28234635|a|Although liver disease is a major complication of parenteral nutrition (PN) for intestinal failure (IF), its pathogenesis remains unclear. We investigated potential molecular mechanisms of liver injury in pediatric onset IF. Liver expression of canalicular phospholipid (ABCB4), bile acid (ABCB11), and sterol (ABCG5/8) transporters, their upstream regulators LXR and FXR as well as pro-inflammatory cytokines interleukin-6 (IL6) and tumor necrosis factor (TNF) were investigated among patients with IF [age median 3.8 (IQR 1.2 to 11)] in relation to biochemical and histologic liver injury, PN, serum plant sterols, fibroblast growth factor 19, and α-tocopherol. Patients receiving PN currently (n = 18) showed more advanced liver injury than patients after weaning off PN (n = 30). Histologic portal inflammation strongly segregated PN - dependent (44%) from weaned off patients (3%, P = 0.001) and coupled with progression of cholestasis and liver fibrosis. Patients with portal inflammation demonstrated markedly induced liver RNA expression of IL6 and TNF, repression of FXR and its canalicular bile transporter target gene RNA expression, including ABCB4 and ABCB11 as well as decreased protein expression of ABCB11 and ABCB4. Furthermore, upregulation of LXR and ABCG5/8 RNA expression was suppressed in patients with portal inflammation. Current PN, increased serum levels of plant sterols stigmasterol, avenasterol, and sitosterol along with serum citrulline, a marker of enterocyte mass, predicted portal inflammation. In pediatric onset IF, current PN delivery synergistically with intestinal compromise promote liver inflammation, which associates with progression of biochemical and histologic liver injury, while reducing expression of canalicular bile transporters.
+28234635	0	18	Liver Inflammation	T047	C0019158
+28234635	30	39	Decreased	T081	C0205216
+28234635	40	51	Canalicular	T023	C0005393
+28234635	52	68	Bile Transporter	T116,T123	C0618375
+28234635	69	79	Expression	T045	C1171362
+28234635	83	92	Pediatric	T080	C1521725
+28234635	93	98	Onset	T081	C0206132
+28234635	99	117	Intestinal Failure	T047	C0012634
+28234635	127	140	liver disease	T047	C0023895
+28234635	152	164	complication	T046	C0009566
+28234635	168	188	parenteral nutrition	T061	C0030547
+28234635	190	192	PN	T061	C0030547
+28234635	198	216	intestinal failure	T047	C0012634
+28234635	218	220	IF	T047	C0012634
+28234635	227	239	pathogenesis	T046	C0699748
+28234635	260	272	investigated	T169	C1292732
+28234635	283	292	molecular	T080	C1521991
+28234635	293	303	mechanisms	T169	C0441712
+28234635	307	319	liver injury	T037	C0160390
+28234635	323	332	pediatric	T080	C1521725
+28234635	333	338	onset	T081	C0206132
+28234635	339	341	IF	T047	C0012634
+28234635	343	348	Liver	T023	C0023884
+28234635	349	359	expression	T045	C1171362
+28234635	363	374	canalicular	T023	C0005393
+28234635	375	387	phospholipid	T109,T123	C0031676
+28234635	389	394	ABCB4	T116,T123	C1260069
+28234635	397	406	bile acid	T109,T123	C0005390
+28234635	408	414	ABCB11	T116,T123	C1313221
+28234635	421	427	sterol	T109	C0038323
+28234635	429	436	ABCG5/8	T116,T123	C0971221
+28234635	438	450	transporters	T116,T123	C0007292
+28234635	458	477	upstream regulators	T116,T123	C0033684
+28234635	478	481	LXR	T116,T192	C4277606
+28234635	486	489	FXR	T116,T192	C1173940
+28234635	501	527	pro-inflammatory cytokines	T116,T129	C0079189
+28234635	528	541	interleukin-6	T116,T129	C0021760
+28234635	543	546	IL6	T116,T129	C0021760
+28234635	552	573	tumor necrosis factor	T116,T129	C0041368
+28234635	575	578	TNF	T116,T129	C0041368
+28234635	585	597	investigated	T169	C1292732
+28234635	604	612	patients	T101	C0030705
+28234635	618	620	IF	T047	C0012634
+28234635	622	625	age	T032	C0001779
+28234635	638	641	IQR	T081	C1711350
+28234635	669	680	biochemical	T169	C0205474
+28234635	685	695	histologic	T169	C0205462
+28234635	696	708	liver injury	T037	C0160390
+28234635	710	712	PN	T061	C0030547
+28234635	714	719	serum	T031	C0229671
+28234635	720	733	plant sterols	T109,T121,T123	C0031866
+28234635	735	762	fibroblast growth factor 19	T116,T123	C1431711
+28234635	768	780	α-tocopherol	T109,T121,T127	C0969677
+28234635	782	790	Patients	T101	C0030705
+28234635	801	803	PN	T061	C0030547
+28234635	844	856	liver injury	T037	C0160390
+28234635	862	870	patients	T101	C0030705
+28234635	877	884	weaning	T033	C0043084
+28234635	889	891	PN	T061	C0030547
+28234635	902	912	Histologic	T169	C0205462
+28234635	913	932	portal inflammation	T033	C2748698
+28234635	953	955	PN	T061	C0030547
+28234635	958	967	dependent	T169	C3244310
+28234635	979	985	weaned	T033	C0043084
+28234635	990	998	patients	T101	C0030705
+28234635	1032	1043	progression	T046	C0242656
+28234635	1047	1058	cholestasis	T047	C0008370
+28234635	1063	1077	liver fibrosis	T047	C0239946
+28234635	1079	1087	Patients	T101	C0030705
+28234635	1093	1112	portal inflammation	T033	C2748698
+28234635	1143	1148	liver	T023	C0023884
+28234635	1149	1163	RNA expression	T045	C0040649
+28234635	1167	1170	IL6	T028	C1334122
+28234635	1175	1178	TNF	T028	C0812246
+28234635	1180	1190	repression	T045	C0920533
+28234635	1194	1197	FXR	T116,T192	C1173940
+28234635	1206	1217	canalicular	T023	C0005393
+28234635	1218	1234	bile transporter	T116,T123	C0618375
+28234635	1242	1246	gene	T028	C0017337
+28234635	1247	1261	RNA expression	T045	C0040649
+28234635	1273	1278	ABCB4	T028	C1412071
+28234635	1283	1289	ABCB11	T028	C1412070
+28234635	1301	1310	decreased	T081	C0205216
+28234635	1311	1329	protein expression	T045	C1171362
+28234635	1333	1339	ABCB11	T116,T123	C1313221
+28234635	1344	1349	ABCB4	T116,T123	C1260069
+28234635	1364	1376	upregulation	T044	C0041904
+28234635	1380	1383	LXR	T116,T192	C4277606
+28234635	1388	1395	ABCG5/8	T028	C1422255
+28234635	1396	1410	RNA expression	T045	C0040649
+28234635	1415	1425	suppressed	T169	C1260953
+28234635	1429	1437	patients	T101	C0030705
+28234635	1443	1462	portal inflammation	T033	C2748698
+28234635	1472	1474	PN	T061	C0030547
+28234635	1476	1485	increased	T081	C0205217
+28234635	1486	1491	serum	T031	C0229671
+28234635	1492	1498	levels	T080	C0441889
+28234635	1502	1515	plant sterols	T109,T121,T123	C0031866
+28234635	1516	1528	stigmasterol	T109,T123	C0038329
+28234635	1530	1541	avenasterol	T109,T121,T123	C0031866
+28234635	1547	1557	sitosterol	T109,T121	C0220914
+28234635	1569	1574	serum	T031	C0229671
+28234635	1575	1585	citrulline	T116,T121,T123	C0008864
+28234635	1589	1595	marker	T201	C0005516
+28234635	1599	1614	enterocyte mass	T025	C0682610
+28234635	1626	1645	portal inflammation	T033	C2748698
+28234635	1650	1659	pediatric	T080	C1521725
+28234635	1660	1665	onset	T081	C0206132
+28234635	1666	1668	IF	T047	C0012634
+28234635	1678	1680	PN	T061	C0030547
+28234635	1711	1721	intestinal	T023	C0021853
+28234635	1722	1732	compromise	T033	C2945640
+28234635	1741	1759	liver inflammation	T047	C0019158
+28234635	1767	1777	associates	T080	C0332281
+28234635	1783	1794	progression	T046	C0242656
+28234635	1798	1809	biochemical	T169	C0205474
+28234635	1814	1824	histologic	T169	C0205462
+28234635	1825	1837	liver injury	T037	C0160390
+28234635	1845	1853	reducing	T080	C0392756
+28234635	1854	1864	expression	T045	C1171362
+28234635	1868	1879	canalicular	T023	C0005393
+28234635	1880	1897	bile transporters	T116,T123	C0618375

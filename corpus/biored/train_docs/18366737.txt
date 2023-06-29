@@ -1,0 +1,47 @@
+18366737|t|The FH mutation database: an online database of fumarate hydratase mutations involved in the MCUL (HLRCC) tumor syndrome and congenital fumarase deficiency.
+18366737|a|BACKGROUND: Fumarate hydratase (HGNC approved gene symbol - FH), also known as fumarase, is an enzyme of the tricarboxylic acid (TCA) cycle, involved in fundamental cellular energy production. First described by Zinn et al in 1986, deficiency of FH results in early onset, severe encephalopathy. In 2002, the Multiple Leiomyoma Consortium identified heterozygous germline mutations of FH in patients with multiple cutaneous and uterine leiomyomas, (MCUL: OMIM 150800). In some families renal cell cancer also forms a component of the complex and as such has been described as hereditary leiomyomatosis and renal cell cancer (HLRCC: OMIM 605839). The identification of FH as a tumor suppressor was an unexpected finding and following the identification of subunits of succinate dehydrogenase in 2000 and 2001, was only the second description of the involvement of an enzyme of intermediary metabolism in tumorigenesis. DESCRIPTION: The FH mutation database is a part of the TCA cycle gene mutation database (formerly the succinate dehydrogenase gene mutation database) and is based on the Leiden Open (source) Variation Database (LOVD) system. The variants included in the database were derived from the published literature and annotated to conform to current mutation nomenclature. The FH database applies HGVS nomenclature guidelines, and will assist researchers in applying these guidelines when directly submitting new sequence variants online. Since the first molecular characterization of an FH mutation by Bourgeron et al in 1994, a series of reports of both FH deficiency patients and patients with MCUL/HLRRC have described 107 variants, of which 93 are thought to be pathogenic. The most common type of mutation is missense (57%), followed by frameshifts & nonsense (27%), and diverse deletions, insertions and duplications. Here we introduce an online database detailing all reported FH sequence variants. CONCLUSION: The FH mutation database strives to systematically unify all current genetic knowledge of FH variants. We believe that this knowledge will assist clinical geneticists and treating physicians when advising patients and their families, will provide a rapid and convenient resource for research scientists, and may eventually assist in gaining novel insights into FH and its related clinical syndromes.
+18366737	4	6	FH	GeneOrGeneProduct	2271
+18366737	48	66	fumarate hydratase	GeneOrGeneProduct	2271
+18366737	93	97	MCUL	DiseaseOrPhenotypicFeature	C535516
+18366737	99	104	HLRCC	DiseaseOrPhenotypicFeature	C535516
+18366737	106	120	tumor syndrome	DiseaseOrPhenotypicFeature	D009369
+18366737	136	155	fumarase deficiency	DiseaseOrPhenotypicFeature	C538191
+18366737	169	187	Fumarate hydratase	GeneOrGeneProduct	2271
+18366737	217	219	FH	GeneOrGeneProduct	2271
+18366737	236	244	fumarase	GeneOrGeneProduct	2271
+18366737	266	284	tricarboxylic acid	ChemicalEntity	D014233
+18366737	286	289	TCA	ChemicalEntity	D014233
+18366737	389	405	deficiency of FH	DiseaseOrPhenotypicFeature	C538191
+18366737	437	451	encephalopathy	DiseaseOrPhenotypicFeature	D001927
+18366737	475	484	Leiomyoma	DiseaseOrPhenotypicFeature	D007889
+18366737	542	544	FH	GeneOrGeneProduct	2271
+18366737	548	556	patients	OrganismTaxon	9606
+18366737	562	603	multiple cutaneous and uterine leiomyomas	DiseaseOrPhenotypicFeature	C535516
+18366737	606	610	MCUL	DiseaseOrPhenotypicFeature	C535516
+18366737	612	623	OMIM 150800	DiseaseOrPhenotypicFeature	C535516
+18366737	643	660	renal cell cancer	DiseaseOrPhenotypicFeature	D002292
+18366737	733	780	hereditary leiomyomatosis and renal cell cancer	DiseaseOrPhenotypicFeature	C535516
+18366737	782	787	HLRCC	DiseaseOrPhenotypicFeature	C535516
+18366737	789	800	OMIM 605839	DiseaseOrPhenotypicFeature	C535516
+18366737	825	827	FH	GeneOrGeneProduct	2271
+18366737	833	838	tumor	DiseaseOrPhenotypicFeature	D009369
+18366737	1060	1073	tumorigenesis	DiseaseOrPhenotypicFeature	D009369
+18366737	1092	1094	FH	GeneOrGeneProduct	2271
+18366737	1130	1133	TCA	ChemicalEntity	D014233
+18366737	1444	1446	FH	GeneOrGeneProduct	2271
+18366737	1655	1657	FH	GeneOrGeneProduct	2271
+18366737	1723	1736	FH deficiency	DiseaseOrPhenotypicFeature	C538191
+18366737	1737	1745	patients	OrganismTaxon	9606
+18366737	1750	1758	patients	OrganismTaxon	9606
+18366737	1764	1768	MCUL	DiseaseOrPhenotypicFeature	C535516
+18366737	1769	1774	HLRRC	DiseaseOrPhenotypicFeature	C535516
+18366737	2052	2054	FH	GeneOrGeneProduct	2271
+18366737	2090	2092	FH	GeneOrGeneProduct	2271
+18366737	2176	2178	FH	GeneOrGeneProduct	2271
+18366737	2291	2299	patients	OrganismTaxon	9606
+18366737	2447	2449	FH	GeneOrGeneProduct	2271
+18366737	Association	2271	D014233	No
+18366737	Association	2271	C538191	Novel
+18366737	Association	2271	D009369	Novel
+18366737	Association	2271	C535516	Novel
+18366737	Association	2271	D001927	Novel

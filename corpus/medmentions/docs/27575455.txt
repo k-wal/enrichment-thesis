@@ -1,0 +1,89 @@
+27575455|t|Maf1 -mediated regulation of yeast RNA polymerase III is correlated with CCA addition at the 3' end of tRNA precursors
+27575455|a|In eukaryotic cells tRNA synthesis is negatively regulated by the protein Maf1, conserved from yeast to humans. Maf1 from yeast Saccharomyces cerevisiae mediates repression of trna transcription when cells are transferred from medium with glucose to medium with glycerol, a non-fermentable carbon source. The strain with deleted gene encoding Maf1 (maf1Δ) is viable but accumulates tRNA precursors. In this study tRNA precursors were analysed by RNA-Seq and Northern hybridization in wild type strain and maf1Δ mutant grown in glucose medium or upon shift to repressive conditions. A negative effect of maf1Δ mutant on the addition of the auxiliary CCA nucleotides to the 3' end of pre-tRNAs was observed in cells shifted to unfavourable growth conditions. This effect was reduced by overexpression of the yeast CCA1 gene encoding ATP(CTP):tRNA nucleotidyltransferase. The CCA sequence at the 3' end is important for export of tRNA precursors from the nucleus and essential for tRNA charging with amino acids. Data presented here indicate that CCA-addition to intron -containing end-processed tRNA precursors is a limiting step in tRNA maturation when there is no Maf1 mediated RNA polymerase III (Pol III) repression. The correlation between CCA synthesis and Pol III regulation by Maf1 could be important in coordination of tRNA transcription, processing and regulation of translation.
+27575455	0	4	Maf1	T028	C1825934
+27575455	15	25	regulation	T038	C1327622
+27575455	29	34	yeast	T004	C0043393
+27575455	35	53	RNA polymerase III	T116,T126	C0035680
+27575455	57	67	correlated	T080	C1707520
+27575455	73	107	CCA addition at the 3' end of tRNA	T045	C1158763
+27575455	103	118	tRNA precursors	T114,T123	C0041133
+27575455	122	138	eukaryotic cells	T025	C0015161
+27575455	139	153	tRNA synthesis	T045	C1622985
+27575455	157	167	negatively	T033	C0205160
+27575455	168	177	regulated	T038	C1327622
+27575455	185	197	protein Maf1	T116,T123	C0536951
+27575455	214	219	yeast	T004	C0043393
+27575455	223	229	humans	T016	C0086418
+27575455	231	235	Maf1	T028	C1825934
+27575455	241	246	yeast	T004	C0043393
+27575455	247	271	Saccharomyces cerevisiae	T004	C0036025
+27575455	281	291	repression	T045	C0920533
+27575455	295	313	trna transcription	T045	C1158829
+27575455	319	324	cells	T025	C0007634
+27575455	346	352	medium	T130	C0010454
+27575455	358	365	glucose	T109,T121,T123	C0017725
+27575455	369	375	medium	T130	C0010454
+27575455	381	389	glycerol	T109,T121,T123	C0017861
+27575455	393	408	non-fermentable	T044	C0015852
+27575455	409	415	carbon	T196	C0007009
+27575455	416	422	source	T033	C0449416
+27575455	428	434	strain	T001	C1518614
+27575455	440	447	deleted	T033	C2069771
+27575455	448	452	gene	T028	C0017337
+27575455	453	461	encoding	T052	C2700640
+27575455	462	466	Maf1	T028	C1825934
+27575455	468	473	maf1Δ	T028	C1825934
+27575455	478	484	viable	T080	C0443348
+27575455	501	516	tRNA precursors	T114,T123	C0041133
+27575455	526	531	study	T062	C2603343
+27575455	532	547	tRNA precursors	T114,T123	C0041133
+27575455	553	561	analysed	T062	C0936012
+27575455	565	572	RNA-Seq	T059,T063	C0917793
+27575455	577	599	Northern hybridization	T059,T063	C0599862
+27575455	603	612	wild type	T028	C1883559
+27575455	613	619	strain	T001	C1518614
+27575455	624	629	maf1Δ	T028	C1825934
+27575455	630	636	mutant	T028	C0678941
+27575455	646	653	glucose	T109,T121,T123	C0017725
+27575455	654	660	medium	T130	C0010454
+27575455	678	699	repressive conditions	T080	C0348080
+27575455	703	711	negative	T033	C0205160
+27575455	712	718	effect	T080	C1280500
+27575455	722	727	maf1Δ	T028	C1825934
+27575455	728	734	mutant	T028	C0678941
+27575455	742	810	addition of the auxiliary CCA nucleotides to the 3' end of pre-tRNAs	T045	C1158763
+27575455	827	832	cells	T025	C0007634
+27575455	857	863	growth	T040	C0018270
+27575455	864	874	conditions	T080	C0348080
+27575455	881	887	effect	T080	C1280500
+27575455	892	899	reduced	T080	C0392756
+27575455	903	917	overexpression	T045	C1514559
+27575455	925	930	yeast	T004	C0043393
+27575455	931	940	CCA1 gene	T028	C1413163
+27575455	941	949	encoding	T052	C2700640
+27575455	950	986	ATP(CTP):tRNA nucleotidyltransferase	T116,T126	C0077328
+27575455	992	1004	CCA sequence	T086	C0004793
+27575455	1036	1042	export	T067	C0699789
+27575455	1046	1061	tRNA precursors	T114,T123	C0041133
+27575455	1071	1078	nucleus	T026	C0007610
+27575455	1097	1110	tRNA charging	T045	C1327001
+27575455	1116	1127	amino acids	T116,T121,T123	C0002520
+27575455	1129	1133	Data	T078	C1511726
+27575455	1163	1227	CCA-addition to intron -containing end-processed tRNA precursors	T045	C1158763
+27575455	1179	1185	intron	T114,T123	C0021920
+27575455	1233	1246	limiting step	T077	C1261552
+27575455	1250	1265	tRNA maturation	T045	C1158762
+27575455	1283	1287	Maf1	T028	C1825934
+27575455	1297	1315	RNA polymerase III	T116,T126	C0035680
+27575455	1317	1324	Pol III	T116,T126	C0035680
+27575455	1326	1336	repression	T045	C0920533
+27575455	1342	1353	correlation	T080	C1707520
+27575455	1362	1365	CCA	T086	C0004793
+27575455	1366	1375	synthesis	T044	C1157592
+27575455	1380	1387	Pol III	T116,T126	C0035680
+27575455	1388	1398	regulation	T038	C1327622
+27575455	1402	1406	Maf1	T028	C1825934
+27575455	1429	1441	coordination	T169	C0700114
+27575455	1445	1463	tRNA transcription	T045	C1158829
+27575455	1465	1475	processing	T045	C1158762
+27575455	1480	1505	regulation of translation	T043	C1157519

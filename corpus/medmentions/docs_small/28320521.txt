@@ -1,0 +1,96 @@
+28320521|t|Differential miRNA expression analysis during late stage terminal hindgut development in fetal rats
+28320521|a|Terminal hindgut deformity is the leading digestive tract malformation, however, the etiology and pathogenesis remained unknown. To date, gene expression abnormalities were considered the primary cause of these diseases. miRNAs have been found to play an important role in regulating the expression of genes. A total of 24 pregnant rats were randomly divided into two groups. The experimental group (n=12) received 1% ethylenethiourea (125mg/kg) by gavage on gestational day 11, while the control group (n=12) received the same volume of distilled water. From each group, fetal rats were obtained by cesarean section on gestational day 16. For the extraction of total RNA, 1 cm rectum samples were obtained from four fetal rats that had similar weights. Chip hybridization was conducted after poly(A) and biotin were added to the RNA samples, and this was followed by washing, dyeing, and scanning of the chip. Differences identified in the miRNA expression profiles and the target gene analysis results were further analyzed to identify potential regulators of terminal hindgut development. Compared with the control group, 111 miRNAs expressed in the terminal hindgut of the experimental group were up-regulated on gestational day 16, while 117 miRNAs were down-regulated. The ten miRNAs with the greatest differential expression profiles between the experimental and control samples were selected for target gene prediction, pathway analysis, and gene ontology analysis. A subset of these miRNAs was found to be closely related to rat fetus terminal hindgut growth and development. In addition, target gene analysis showed that miR-193 may have an important role in regulating a key gene in anorectal development, Hoxd13. This role was confirmed in a dual luciferase reporter assay when miR-193 was able to inhibit expression of a reporter gene under the control of the 3' untranslated region of the Hoxd13 gene in the human embryonic kidney cell line, 293T. Real-time PCR and Western blotting experiments further showed that the expression of Hoxd13 was significantly lower when miR-193 was highly expressed in rat intestinal epithelial cells. The differences in both sets of experiments were statistically significant compared with the negative control group (P<0.05). These data support an important regulatory role for miRNAs in the expression of target genes during terminal hindgut development in fetal rats. In particular, miR-193 -mediated inhibition of Hoxd13 was found to be significant in rat intestinal epithelial cells.
+28320521	13	38	miRNA expression analysis	T062	UMLS:C1880945
+28320521	57	65	terminal	T082	UMLS:C1705315
+28320521	66	73	hindgut	T017	UMLS:C0231053
+28320521	74	85	development	T038	UMLS:C0678723
+28320521	89	94	fetal	T033	UMLS:C0233217
+28320521	95	99	rats	T204	UMLS:C0086893
+28320521	100	108	Terminal	T082	UMLS:C1705315
+28320521	109	116	hindgut	T017	UMLS:C0231053
+28320521	117	126	deformity	T017	UMLS:C0302142
+28320521	142	157	digestive tract	T022	UMLS:C0017189
+28320521	198	210	pathogenesis	T038	UMLS:C0699748
+28320521	238	267	gene expression abnormalities	T038	UMLS:C1517478
+28320521	311	319	diseases	T038	UMLS:C0012634
+28320521	321	327	miRNAs	T103	UMLS:C1101610
+28320521	373	407	regulating the expression of genes	T038	UMLS:C0017263
+28320521	432	436	rats	T204	UMLS:C0086893
+28320521	468	474	groups	T098	UMLS:C1257890
+28320521	493	498	group	T098	UMLS:C1257890
+28320521	518	534	ethylenethiourea	T103	UMLS:C0015097
+28320521	549	555	gavage	T058	UMLS:C0041281
+28320521	638	653	distilled water	T103	UMLS:C0790233
+28320521	665	670	group	T098	UMLS:C1257890
+28320521	672	677	fetal	T033	UMLS:C0233217
+28320521	678	682	rats	T204	UMLS:C0086893
+28320521	700	716	cesarean section	T058	UMLS:C0007876
+28320521	748	771	extraction of total RNA	T062	UMLS:C3839010
+28320521	778	792	rectum samples	T031	UMLS:C3164985
+28320521	817	822	fetal	T033	UMLS:C0233217
+28320521	823	827	rats	T204	UMLS:C0086893
+28320521	859	872	hybridization	T062	UMLS:C0221902
+28320521	893	900	poly(A)	T103	UMLS:C0032400
+28320521	905	911	biotin	T103	UMLS:C0005575
+28320521	930	933	RNA	T103	UMLS:C0035668
+28320521	989	997	scanning	T058	UMLS:C0441633
+28320521	1041	1046	miRNA	T017	UMLS:C2825314
+28320521	1082	1095	gene analysis	T062	UMLS:C1880945
+28320521	1162	1170	terminal	T082	UMLS:C1705315
+28320521	1171	1178	hindgut	T017	UMLS:C0231053
+28320521	1179	1190	development	T038	UMLS:C0678723
+28320521	1229	1235	miRNAs	T017	UMLS:C2825314
+28320521	1253	1261	terminal	T082	UMLS:C1705315
+28320521	1262	1269	hindgut	T017	UMLS:C0231053
+28320521	1290	1295	group	T098	UMLS:C1257890
+28320521	1301	1313	up-regulated	T038	UMLS:C0041904
+28320521	1347	1353	miRNAs	T103	UMLS:C1101610
+28320521	1359	1373	down-regulated	T038	UMLS:C0013081
+28320521	1383	1389	miRNAs	T017	UMLS:C2825314
+28320521	1511	1515	gene	T017	UMLS:C0017337
+28320521	1528	1544	pathway analysis	T170	UMLS:C0868995
+28320521	1550	1572	gene ontology analysis	T170	UMLS:C1138831
+28320521	1576	1582	subset	T170	UMLS:C1515021
+28320521	1592	1598	miRNAs	T103	UMLS:C1101610
+28320521	1634	1637	rat	T204	UMLS:C0086893
+28320521	1638	1643	fetus	T017	UMLS:C0015965
+28320521	1644	1652	terminal	T082	UMLS:C1705315
+28320521	1653	1660	hindgut	T017	UMLS:C0231053
+28320521	1661	1667	growth	T038	UMLS:C1523713
+28320521	1672	1683	development	T038	UMLS:C0678723
+28320521	1705	1718	gene analysis	T062	UMLS:C1880945
+28320521	1731	1738	miR-193	T103	UMLS:C3657580
+28320521	1769	1790	regulating a key gene	T038	UMLS:C0017263
+28320521	1804	1815	development	T038	UMLS:C0678723
+28320521	1817	1823	Hoxd13	T017	UMLS:C1415687
+28320521	1854	1884	dual luciferase reporter assay	T058	UMLS:C0005507
+28320521	1890	1897	miR-193	T103	UMLS:C3657580
+28320521	1918	1928	expression	T038	UMLS:C0017262
+28320521	1934	1947	reporter gene	T017	UMLS:C0206414
+28320521	1973	1995	3' untranslated region	T082	UMLS:C0600600
+28320521	2003	2014	Hoxd13 gene	T017	UMLS:C1415687
+28320521	2022	2060	human embryonic kidney cell line, 293T	T017	UMLS:C2936239
+28320521	2062	2075	Real-time PCR	T062	UMLS:C1709846
+28320521	2080	2108	Western blotting experiments	T058	UMLS:C0005863
+28320521	2133	2143	expression	T038	UMLS:C1171362
+28320521	2147	2153	Hoxd13	T103	UMLS:C3273506
+28320521	2183	2190	miR-193	T103	UMLS:C3657580
+28320521	2202	2211	expressed	T038	UMLS:C0017262
+28320521	2215	2218	rat	T204	UMLS:C0086893
+28320521	2219	2229	intestinal	T017	UMLS:C0021853
+28320521	2230	2246	epithelial cells	T017	UMLS:C0014597
+28320521	2341	2349	negative	T033	UMLS:C0205160
+28320521	2406	2416	regulatory	T017	UMLS:C0017362
+28320521	2426	2432	miRNAs	T103	UMLS:C1101610
+28320521	2440	2450	expression	T038	UMLS:C0017262
+28320521	2461	2466	genes	T017	UMLS:C0017337
+28320521	2474	2482	terminal	T082	UMLS:C1705315
+28320521	2483	2490	hindgut	T017	UMLS:C0231053
+28320521	2491	2502	development	T038	UMLS:C0678723
+28320521	2506	2511	fetal	T033	UMLS:C0233217
+28320521	2512	2516	rats	T204	UMLS:C0086893
+28320521	2533	2540	miR-193	T103	UMLS:C3657580
+28320521	2565	2571	Hoxd13	T017	UMLS:C1415687
+28320521	2603	2606	rat	T204	UMLS:C0086893
+28320521	2607	2617	intestinal	T017	UMLS:C0021853
+28320521	2618	2634	epithelial cells	T017	UMLS:C0014597

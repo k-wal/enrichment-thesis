@@ -1,0 +1,47 @@
+15957009|t|The selective 5-HT6 receptor antagonist Ro4368554 restores memory performance in cholinergic and serotonergic models of memory deficiency in the rat.
+15957009|a|Antagonists at serotonin type 6 (5-HT(6)) receptors show activity in models of learning and memory. Although the underlying mechanism(s) are not well understood, these effects may involve an increase in acetylcholine (ACh) levels. The present study sought to characterize the cognitive-enhancing effects of the 5-HT(6) antagonist Ro4368554 (3-benzenesulfonyl-7-(4-methyl-piperazin-1-yl)1H-indole) in a rat object recognition task employing a cholinergic (scopolamine pretreatment) and a serotonergic- (tryptophan (TRP) depletion) deficient model, and compared its pattern of action with that of the acetylcholinesterase inhibitor metrifonate. Initial testing in a time-dependent forgetting task employing a 24-h delay between training and testing showed that metrifonate improved object recognition (at 10 and 30 mg/kg, p.o.), whereas Ro4368554 was inactive. Both, Ro4368554 (3 and 10 mg/kg, intraperitoneally (i.p.)) and metrifonate (10 mg/kg, p.o., respectively) reversed memory deficits induced by scopolamine and TRP depletion (10 mg/kg, i.p., and 3 mg/kg, p.o., respectively). In conclusion, although Ro4368554 did not improve a time-related retention deficit, it reversed a cholinergic and a serotonergic memory deficit, suggesting that both mechanisms may be involved in the facilitation of object memory by Ro4368554 and, possibly, other 5-HT(6) receptor antagonists.
+15957009	14	28	5-HT6 receptor	GeneOrGeneProduct	64354
+15957009	40	49	Ro4368554	ChemicalEntity	C507242
+15957009	81	92	cholinergic	ChemicalEntity	D018678
+15957009	97	109	serotonergic	ChemicalEntity	D018490
+15957009	120	137	memory deficiency	DiseaseOrPhenotypicFeature	D008569
+15957009	145	148	rat	OrganismTaxon	10116
+15957009	165	201	serotonin type 6 (5-HT(6)) receptors	GeneOrGeneProduct	64354
+15957009	353	366	acetylcholine	ChemicalEntity	D000109
+15957009	368	371	ACh	ChemicalEntity	D000109
+15957009	461	468	5-HT(6)	GeneOrGeneProduct	64354
+15957009	480	489	Ro4368554	ChemicalEntity	C507242
+15957009	491	545	3-benzenesulfonyl-7-(4-methyl-piperazin-1-yl)1H-indole	ChemicalEntity	C507242
+15957009	552	555	rat	OrganismTaxon	10116
+15957009	592	603	cholinergic	ChemicalEntity	D018678
+15957009	605	616	scopolamine	ChemicalEntity	D012601
+15957009	637	649	serotonergic	ChemicalEntity	D018490
+15957009	652	662	tryptophan	ChemicalEntity	D014364
+15957009	664	667	TRP	ChemicalEntity	D014364
+15957009	749	769	acetylcholinesterase	GeneOrGeneProduct	83817
+15957009	780	791	metrifonate	ChemicalEntity	D014236
+15957009	909	920	metrifonate	ChemicalEntity	D014236
+15957009	985	994	Ro4368554	ChemicalEntity	C507242
+15957009	1015	1024	Ro4368554	ChemicalEntity	C507242
+15957009	1072	1083	metrifonate	ChemicalEntity	D014236
+15957009	1124	1139	memory deficits	DiseaseOrPhenotypicFeature	D008569
+15957009	1151	1162	scopolamine	ChemicalEntity	D012601
+15957009	1167	1170	TRP	ChemicalEntity	D014364
+15957009	1256	1265	Ro4368554	ChemicalEntity	C507242
+15957009	1330	1341	cholinergic	ChemicalEntity	D018678
+15957009	1348	1360	serotonergic	ChemicalEntity	D018490
+15957009	1361	1375	memory deficit	DiseaseOrPhenotypicFeature	D008569
+15957009	1465	1474	Ro4368554	ChemicalEntity	C507242
+15957009	1496	1524	5-HT(6) receptor antagonists	ChemicalEntity	D012702
+15957009	Association	D014236	D014364	Novel
+15957009	Negative_Correlation	D014236	D012601	Novel
+15957009	Negative_Correlation	D014236	D008569	Novel
+15957009	Negative_Correlation	83817	D014236	No
+15957009	Association	64354	D000109	Novel
+15957009	Negative_Correlation	64354	C507242	No
+15957009	Association	D008569	D012702	Novel
+15957009	Negative_Correlation	D008569	D014364	No
+15957009	Positive_Correlation	D008569	D012601	No
+15957009	Association	C507242	D014364	Novel
+15957009	Negative_Correlation	C507242	D012601	Novel
+15957009	Negative_Correlation	C507242	D008569	Novel

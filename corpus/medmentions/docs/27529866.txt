@@ -1,0 +1,86 @@
+27529866|t|Cinobufagin Modulates Human Innate Immune Responses and Triggers Antibacterial Activity
+27529866|a|The traditional Chinese medicine Chan-Su is widely used for treatment of cancer and cardiovascular diseases, but also as a remedy for infections such as furunculosis, tonsillitis and acute pharyngitis. The clinical use of Chan-Su suggests that it has anti-infective effects, however, the mechanism of action is incompletely understood. In particular, the effect on the human immune system is poorly defined. Here, we describe previously unrecognized immunomodulatory activities of cinobufagin (CBG), a major bioactive component of Chan-Su. Using human monocyte-derived dendritic cells (DCs), we show that LPS - induced maturation and production of a number of cytokines was potently inhibited by CBG, which also had a pro-apoptotic effect, associated with activation of caspase-3. Interestingly, CBG triggered caspase-1 activation and significantly enhanced IL-1β production in LPS - stimulated cells. Finally, we demonstrate that CBG upregulates gene expression of the antimicrobial peptides (AMPs) hBD-2 and hBD-3 in DCs, and induces secretion of HNP1 - 3 and hCAP-18/LL-37 from neutrophils, potentiating neutrophil antibacterial activity. Taken together, our data indicate that CBG modulates the inflammatory phenotype of DCs in response to LPS, and triggers an antibacterial innate immune response, thus proposing possible mechanisms for the clinical effects of Chan-Su in anti-infective therapy.
+27529866	0	11	Cinobufagin	T109,T121	C0055767
+27529866	12	21	Modulates	T082	C0443264
+27529866	22	27	Human	T016	C0086418
+27529866	28	51	Innate Immune Responses	T032	C0020969
+27529866	56	64	Triggers	T201	C0032930
+27529866	65	87	Antibacterial Activity	T040	C1516002
+27529866	92	103	traditional	T169	C0443324
+27529866	104	111	Chinese	T083	C0008115
+27529866	112	120	medicine	T121	C0013227
+27529866	121	128	Chan-Su	T109,T121,T123	C0381424
+27529866	148	167	treatment of cancer	T061	C0920425
+27529866	172	195	cardiovascular diseases	T058	C2243057
+27529866	222	232	infections	T046	C3714514
+27529866	241	253	furunculosis	T047	C0016867
+27529866	255	266	tonsillitis	T047	C0040425
+27529866	271	288	acute pharyngitis	T047	C0001344
+27529866	310	317	Chan-Su	T109,T121,T123	C0381424
+27529866	339	361	anti-infective effects	T080	C1280500
+27529866	376	385	mechanism	T169	C0441712
+27529866	389	395	action	T052	C3266814
+27529866	443	449	effect	T080	C1280500
+27529866	457	462	human	T016	C0086418
+27529866	463	476	immune system	T022	C0020962
+27529866	538	554	immunomodulatory	T061	C1963758
+27529866	555	565	activities	T052	C0441655
+27529866	569	580	cinobufagin	T109,T121	C0055767
+27529866	582	585	CBG	T109,T121	C0055767
+27529866	596	615	bioactive component	T167	C3714412
+27529866	619	626	Chan-Su	T109,T121,T123	C0381424
+27529866	634	639	human	T016	C0086418
+27529866	640	656	monocyte-derived	T023	C3891282
+27529866	657	672	dendritic cells	T025	C0011306
+27529866	674	677	DCs	T025	C0011306
+27529866	693	696	LPS	T109	C0023810
+27529866	699	706	induced	T169	C0205263
+27529866	707	717	maturation	UnknownType	C0678730
+27529866	722	732	production	T169	C0205245
+27529866	748	757	cytokines	T116,T129	C0079189
+27529866	762	780	potently inhibited	T080	C0311403
+27529866	784	787	CBG	T109,T121	C0055767
+27529866	806	819	pro-apoptotic	T080	C1516044
+27529866	820	826	effect	T080	C1280500
+27529866	828	843	associated with	T080	C0332281
+27529866	844	854	activation	T044	C0014429
+27529866	858	867	caspase-3	T116,T126	C0291573
+27529866	884	887	CBG	T109,T121	C0055767
+27529866	898	907	caspase-1	T116,T126	C0534519
+27529866	908	918	activation	T044	C0014429
+27529866	923	945	significantly enhanced	T052	C2349975
+27529866	946	951	IL-1β	T116,T129	C0021753
+27529866	952	962	production	T169	C0205245
+27529866	966	969	LPS	T109	C0023810
+27529866	972	982	stimulated	T070	C1948023
+27529866	983	988	cells	T025	C0007634
+27529866	1019	1022	CBG	T109,T121	C0055767
+27529866	1023	1034	upregulates	T044	C0041904
+27529866	1035	1050	gene expression	T045	C0017262
+27529866	1058	1080	antimicrobial peptides	T116,T121	C4084937
+27529866	1082	1086	AMPs	T116,T121	C4084937
+27529866	1088	1093	hBD-2	T116,T121,T129	C0540333
+27529866	1098	1103	hBD-3	T116	C2604787
+27529866	1107	1110	DCs	T025	C0011306
+27529866	1116	1123	induces	T169	C0205263
+27529866	1124	1133	secretion	T038	C0036536
+27529866	1137	1141	HNP1	T116,T121,T129	C0122620
+27529866	1144	1145	3	T116,T121,T129	C0122160
+27529866	1150	1163	hCAP-18/LL-37	T116,T121,T123	C0108282
+27529866	1169	1180	neutrophils	T025	C0027950
+27529866	1195	1205	neutrophil	T025	C0027950
+27529866	1206	1228	antibacterial activity	T040	C1516002
+27529866	1250	1254	data	T078	C1511726
+27529866	1269	1272	CBG	T109,T121	C0055767
+27529866	1273	1282	modulates	T082	C0443264
+27529866	1287	1299	inflammatory	T169	C0333348
+27529866	1300	1309	phenotype	T032	C0031437
+27529866	1313	1316	DCs	T025	C0011306
+27529866	1332	1335	LPS	T109	C0023810
+27529866	1341	1349	triggers	T201	C0032930
+27529866	1353	1366	antibacterial	T195	C0279516
+27529866	1367	1389	innate immune response	T032	C0020969
+27529866	1415	1425	mechanisms	T169	C0441712
+27529866	1434	1450	clinical effects	T080	C1280500
+27529866	1454	1461	Chan-Su	T109,T121,T123	C0381424
+27529866	1465	1487	anti-infective therapy	T061	C1141958

@@ -1,0 +1,54 @@
+17345627|t|Over-expression of BMP4 and BMP5 in a child with axial skeletal malformations and heterotopic ossification: a new syndrome.
+17345627|a|Bone morphogenetic proteins (BMPs) are a highly conserved class of signaling molecules that induce ectopic cartilage and bone formation in vivo. Dysregulated expression of bone morphogenetic protein 4 (BMP4) is found in the cells of patients who have fibrodysplasia ossificans progressiva (FOP), a genetic disorder of axial and appendicular skeletal malformation and progressive heterotopic ossification. Loss of function mutations in the bone morphogenetic protein 5 (bmp5) gene leading to under-expression of BMP5 cause the murine short ear syndrome, characterized by small malformed ears and a broad range of axial skeletal malformations. We found features reminiscent of both the short ear mouse and FOP in a child with malformed external ears, multiple malformations of the axial skeleton, and progressive heterotopic ossification in the neck and back. We examined BMP mRNA expression in transformed lymphocytes by semi-quantitative RT-PCR and protein expression by ELISA assays and immunohistochemistry. Elevated levels of BMP4 and BMP5 mRNA and protein were detected in the patient's cells while levels of BMP2 mRNA were unchanged. Our data suggest that dysregulated expression of BMP4 and BMP5 genes is associated with an array of human axial skeletal abnormalities similar to the short ear mouse and FOP.
+17345627	19	23	BMP4	GeneOrGeneProduct	652
+17345627	28	32	BMP5	GeneOrGeneProduct	653
+17345627	49	77	axial skeletal malformations	DiseaseOrPhenotypicFeature	D001848
+17345627	82	106	heterotopic ossification	DiseaseOrPhenotypicFeature	D009999
+17345627	124	151	Bone morphogenetic proteins	GeneOrGeneProduct	649,650,652,653
+17345627	153	157	BMPs	GeneOrGeneProduct	649,650,652,653
+17345627	223	259	ectopic cartilage and bone formation	DiseaseOrPhenotypicFeature	D001847,D002357
+17345627	296	324	bone morphogenetic protein 4	GeneOrGeneProduct	652
+17345627	326	330	BMP4	GeneOrGeneProduct	652
+17345627	357	365	patients	OrganismTaxon	9606
+17345627	375	412	fibrodysplasia ossificans progressiva	DiseaseOrPhenotypicFeature	D009221
+17345627	414	417	FOP	DiseaseOrPhenotypicFeature	D009221
+17345627	442	486	axial and appendicular skeletal malformation	DiseaseOrPhenotypicFeature	D001848
+17345627	503	527	heterotopic ossification	DiseaseOrPhenotypicFeature	D009999
+17345627	563	591	bone morphogenetic protein 5	GeneOrGeneProduct	653
+17345627	593	597	bmp5	GeneOrGeneProduct	653
+17345627	635	639	BMP5	GeneOrGeneProduct	653
+17345627	650	656	murine	OrganismTaxon	10090
+17345627	657	675	short ear syndrome	DiseaseOrPhenotypicFeature	D004427
+17345627	736	764	axial skeletal malformations	DiseaseOrPhenotypicFeature	D001848
+17345627	818	823	mouse	OrganismTaxon	10090
+17345627	828	831	FOP	DiseaseOrPhenotypicFeature	D009221
+17345627	848	871	malformed external ears	DiseaseOrPhenotypicFeature	D004426
+17345627	873	917	multiple malformations of the axial skeleton	DiseaseOrPhenotypicFeature	D001848
+17345627	935	959	heterotopic ossification	DiseaseOrPhenotypicFeature	D009999
+17345627	994	997	BMP	GeneOrGeneProduct	649,650,652,653
+17345627	1153	1157	BMP4	GeneOrGeneProduct	652
+17345627	1162	1166	BMP5	GeneOrGeneProduct	653
+17345627	1205	1212	patient	OrganismTaxon	9606
+17345627	1237	1241	BMP2	GeneOrGeneProduct	650
+17345627	1312	1316	BMP4	GeneOrGeneProduct	652
+17345627	1321	1325	BMP5	GeneOrGeneProduct	653
+17345627	1363	1368	human	OrganismTaxon	9606
+17345627	1369	1397	axial skeletal abnormalities	DiseaseOrPhenotypicFeature	D001848
+17345627	1423	1428	mouse	OrganismTaxon	10090
+17345627	1433	1436	FOP	DiseaseOrPhenotypicFeature	D009221
+17345627	Association	D002357	650	No
+17345627	Association	D002357	649	No
+17345627	Association	D002357	653	No
+17345627	Association	D002357	652	No
+17345627	Association	D001847	650	No
+17345627	Association	D001847	649	No
+17345627	Association	D001847	653	No
+17345627	Association	D001847	652	No
+17345627	Association	653	D009221	Novel
+17345627	Association	653	D004427	Novel
+17345627	Association	D009999	653	Novel
+17345627	Association	D009999	652	Novel
+17345627	Association	652	D009221	Novel
+17345627	Association	652	D004427	Novel
+17345627	Association	D001848	653	Novel
+17345627	Association	D001848	652	Novel

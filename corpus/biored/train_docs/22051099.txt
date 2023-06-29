@@ -1,0 +1,30 @@
+22051099|t|Variation in the CXCR1 gene (IL8RA) is not associated with susceptibility to chronic periodontitis.
+22051099|a|BACKGROUND: The chemokine receptor 1 CXCR-1 (or IL8R-alpha) is a specific receptor for the interleukin 8 (IL-8), which is chemoattractant for neutrophils and has an important role in the inflammatory response. The polymorphism rs2234671 at position Ex2+860G>C of the CXCR1 gene causes a conservative amino acid substitution (S276T). This single nucleotide polymorphism (SNP) seemed to be functional as it was associated with decreased lung cancer risk. Previous studies of our group found association of haplotypes in the IL8 and in the CXCR2 genes with the multifactorial disease chronic periodontitis. In this study we investigated the polymorphism rs2234671 in 395 Brazilian subjects with and without chronic periodontitis. FINDINGS: Similar distribution of the allelic and genotypic frequencies were observed between the groups (p>0.05). CONCLUSIONS: The polymorphism rs2234671 in the CXCR1 gene was not associated with the susceptibility to chronic periodontitis in the studied Brazilian population.
+22051099	17	22	CXCR1	GeneOrGeneProduct	3577
+22051099	29	34	IL8RA	GeneOrGeneProduct	3577
+22051099	77	98	chronic periodontitis	DiseaseOrPhenotypicFeature	D055113
+22051099	116	143	chemokine receptor 1 CXCR-1	GeneOrGeneProduct	3577
+22051099	148	158	IL8R-alpha	GeneOrGeneProduct	3577
+22051099	191	204	interleukin 8	GeneOrGeneProduct	3576
+22051099	206	210	IL-8	GeneOrGeneProduct	3576
+22051099	287	299	inflammatory	DiseaseOrPhenotypicFeature	D007249
+22051099	327	336	rs2234671	SequenceVariant	rs2234671
+22051099	349	359	Ex2+860G>C	SequenceVariant	rs2234671
+22051099	367	372	CXCR1	GeneOrGeneProduct	3577
+22051099	425	430	S276T	SequenceVariant	rs2234671
+22051099	535	546	lung cancer	DiseaseOrPhenotypicFeature	D008175
+22051099	622	625	IL8	GeneOrGeneProduct	3576
+22051099	637	642	CXCR2	GeneOrGeneProduct	3579
+22051099	681	702	chronic periodontitis	DiseaseOrPhenotypicFeature	D055113
+22051099	751	760	rs2234671	SequenceVariant	rs2234671
+22051099	804	825	chronic periodontitis	DiseaseOrPhenotypicFeature	D055113
+22051099	972	981	rs2234671	SequenceVariant	rs2234671
+22051099	989	994	CXCR1	GeneOrGeneProduct	3577
+22051099	1046	1067	chronic periodontitis	DiseaseOrPhenotypicFeature	D055113
+22051099	Association	3579	D055113	No
+22051099	Association	3576	D007249	No
+22051099	Association	3576	D055113	No
+22051099	Association	3577	D007249	No
+22051099	Bind	3577	3576	No
+22051099	Association	3577	D008175	No
+22051099	Negative_Correlation	rs2234671	D008175	No

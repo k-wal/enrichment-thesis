@@ -1,0 +1,75 @@
+28322784|t|Flaviviridae viruses use a common molecular mechanism to escape nucleoside analogue inhibitors
+28322784|a|The RNA-dependent RNA polymerases of Flaviviridae viruses are crucial for replication. The Flaviviridae polymerase is organized into structural motifs (A-G), with motifs F, A, C and E containing interrogating, priming and catalytic substrate-interacting sites. Modified nucleoside analogues act as antiviral drugs by targeting Flaviviridae polymerases and integrating into the synthesized product causing premature termination. A threonine mutation of a conserved serine residue in motif B of Flaviviridae polymerases renders resistance to 2'-C-methylated nucleoside analogue s. The mechanism how this single mutation causes Flaviviridae viruses to escape nucleoside analogues is not yet known. Given the pivotal position of the serine residue in motif B that supports motif F, we hypothesized the threonine mutation causes alterations in nucleoside exploration within the entry tunnel. Implementing a stochastic molecular software showed the all-atom 2'-C-methylated analogue reaction within the active sites of wild type and serine-threonine mutant polymerases from Hepacivirus and Flavivirus. Compared with the wild type, the serine-threonine mutant polymerases caused a significant decrease of analogue contacts with conserved interrogating residues in motif F and a displacement of metal ion cofactors. The simulations significantly showed that during the analogue exploration of the active site the hydrophobic methyl group in the serine-threonine mutant repels water -mediated hydrogen bonds with the 2'-C-methylated analogue, causing a concentration of bonds at the substrate - interacting sites. Collectively, the data are an insight into a molecular escape mechanism by Flaviviridae viruses from 2'-C-methylated nucleoside analogue inhibitors.
+28322784	0	20	Flaviviridae viruses	T005	C0206510
+28322784	34	53	molecular mechanism	T044	C1148560
+28322784	64	83	nucleoside analogue	T114,T121	C1579410
+28322784	84	94	inhibitors	T120	C0243077
+28322784	99	128	RNA-dependent RNA polymerases	T116,T126	C0035685
+28322784	132	152	Flaviviridae viruses	T005	C0206510
+28322784	169	180	replication	T045	C0598312
+28322784	186	198	Flaviviridae	T005	C0206510
+28322784	199	209	polymerase	T116,T126	C1335439
+28322784	228	251	structural motifs (A-G)	T082	C0752190
+28322784	258	266	motifs F	T087	C1257944
+28322784	268	269	A	T087	C1514562
+28322784	271	272	C	T087	C1514562
+28322784	277	278	E	T087	C1514562
+28322784	290	303	interrogating	T169	C0205245
+28322784	305	312	priming	T045	C1817266
+28322784	317	354	catalytic substrate-interacting sites	T087	C0682969
+28322784	365	385	nucleoside analogues	T114,T121	C1579410
+28322784	393	408	antiviral drugs	T121	C0003451
+28322784	412	421	targeting	T169	C1521840
+28322784	422	434	Flaviviridae	T005	C0206510
+28322784	435	446	polymerases	T116,T126	C1335439
+28322784	484	491	product	T071	C1514468
+28322784	500	521	premature termination	T049	C0544885
+28322784	525	543	threonine mutation	T045	C0026882
+28322784	559	565	serine	T116,T121,T123	C0036720
+28322784	577	584	motif B	T087	C1514562
+28322784	588	600	Flaviviridae	T005	C0206510
+28322784	601	612	polymerases	T116,T126	C1335439
+28322784	621	631	resistance	T169	C4281815
+28322784	635	672	2'-C-methylated nucleoside analogue s	T114,T121	C1579410
+28322784	662	670	analogue	T104	C0243071
+28322784	704	712	mutation	T045	C0026882
+28322784	720	740	Flaviviridae viruses	T005	C0206510
+28322784	751	771	nucleoside analogues	T114,T121	C1579410
+28322784	824	830	serine	T116,T121,T123	C0036720
+28322784	842	849	motif B	T087	C1514562
+28322784	864	871	motif F	T087	C1257944
+28322784	893	911	threonine mutation	T045	C0026882
+28322784	934	944	nucleoside	T114	C0028621
+28322784	1008	1026	molecular software	T170	C0282574
+28322784	1047	1071	2'-C-methylated analogue	T114,T121	C1579410
+28322784	1063	1071	analogue	T104	C0243071
+28322784	1092	1104	active sites	T169	C0205681
+28322784	1108	1117	wild type	T028	C1883559
+28322784	1122	1157	serine-threonine mutant polymerases	T116,T126	C1335439
+28322784	1163	1174	Hepacivirus	T005	C0079500
+28322784	1179	1189	Flavivirus	T005	C0016215
+28322784	1209	1218	wild type	T028	C1883559
+28322784	1224	1259	serine-threonine mutant polymerases	T116,T126	C1335439
+28322784	1293	1301	analogue	T104	C0243071
+28322784	1293	1301	analogue	T104	C0243071
+28322784	1316	1348	conserved interrogating residues	T086	C0009802
+28322784	1352	1359	motif F	T087	C1257944
+28322784	1382	1401	metal ion cofactors	T123	C0178555
+28322784	1407	1418	simulations	T062	C0679083
+28322784	1456	1464	analogue	T104	C0243071
+28322784	1484	1495	active site	T169	C0205681
+28322784	1500	1511	hydrophobic	T080	C0598629
+28322784	1512	1524	methyl group	T109	C0596922
+28322784	1532	1555	serine-threonine mutant	T049	C0596988
+28322784	1563	1568	water	T121,T197	C0043047
+28322784	1579	1593	hydrogen bonds	T070	C0020276
+28322784	1603	1627	2'-C-methylated analogue	T114,T121	C1579410
+28322784	1619	1627	analogue	T104	C0243071
+28322784	1656	1661	bonds	T044	C0813982
+28322784	1669	1678	substrate	T067	C0175921
+28322784	1681	1692	interacting	T169	C1704675
+28322784	1693	1698	sites	T082	C0205145
+28322784	1745	1771	molecular escape mechanism	T044	C1148560
+28322784	1775	1795	Flaviviridae viruses	T005	C0206510
+28322784	1801	1836	2'-C-methylated nucleoside analogue	T114,T121	C1579410
+28322784	1837	1847	inhibitors	T120	C0243077

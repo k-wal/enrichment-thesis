@@ -1,0 +1,70 @@
+28092835|t|Effects of the central potassium ions on the G-quadruplex and stabilizer binding
+28092835|a|Human telomeres undertake the structure of intra-molecular parallel G-quadruplex in the presence of K(+) in eukaryotic cell. Stabilization of the telomere G-quadruplex represents a potential strategy to prevent telomere lengthening by telomerase in cancer therapy. Current work demonstrates that the binding of central K(+) with the parallel G-quadruplex is a coordinated water directed step-wise process. The K(+) above the top G-tetrad is prone to leak into environment and the 5'-adenine quickly flips over the top G-tetrad, leading to the bottom gate of G-tetrads as the only viable pathway of K(+) binding. Present molecular dynamics studies on the two most potent stabilizers RHPS4 and BRACO-19 reveal that the central K(+) has little influence on the binding conformations of the bound stabilizers. But without the central K(+), either RHPS4 or BRACO-19 cannot stabilize the structure of G-quadruplex. The binding strength of stabilizers evaluated by the MM-PBSA method follows the order of BRACO-19 > RHPS4, which agrees with the experimental results. The difference in binding affinities between RHPS4 and BRACO-19 is probably related to the ability to form intramolecular hydrogen bonds and favorable van del Waals interactions with G-quadruplex. In the models that have one central K(+) located at the upper / lower binding site, the corresponding top / bottom stacked stabilizers show more favorable binding affinities, indicating the apparent promoting effect of central K(+) on the stabilizer binding. Our findings provide further insights into the regulatory effect of K(+) on the G-quadruplex targeted binding, which is meaningful to the development of G-quadruplex stabilizers.
+28092835	15	22	central	T082	UMLS:C0205099
+28092835	23	37	potassium ions	T103	UMLS:C0597277
+28092835	45	57	G-quadruplex	T082	UMLS:C1517336
+28092835	62	72	stabilizer	T103	UMLS:C1254351
+28092835	81	86	Human	T204	UMLS:C0086418
+28092835	87	96	telomeres	T017	UMLS:C0085187
+28092835	149	161	G-quadruplex	T082	UMLS:C1517336
+28092835	169	177	presence	T033	UMLS:C0150312
+28092835	181	185	K(+)	T103	UMLS:C0597277
+28092835	189	204	eukaryotic cell	T017	UMLS:C0015161
+28092835	227	235	telomere	T017	UMLS:C0085187
+28092835	236	248	G-quadruplex	T082	UMLS:C1517336
+28092835	292	312	telomere lengthening	T038	UMLS:C3178816
+28092835	316	326	telomerase	T103	UMLS:C0087071
+28092835	330	344	cancer therapy	T058	UMLS:C0920425
+28092835	392	399	central	T082	UMLS:C0205099
+28092835	400	404	K(+)	T103	UMLS:C0597277
+28092835	423	435	G-quadruplex	T082	UMLS:C1517336
+28092835	453	458	water	T103	UMLS:C0043047
+28092835	491	495	K(+)	T103	UMLS:C0597277
+28092835	506	509	top	T082	UMLS:C1704458
+28092835	510	518	G-tetrad	T082	UMLS:C1517336
+28092835	561	571	5'-adenine	T103	UMLS:C0001407
+28092835	595	598	top	T082	UMLS:C1704458
+28092835	599	607	G-tetrad	T082	UMLS:C1517336
+28092835	624	630	bottom	T082	UMLS:C1511276
+28092835	639	648	G-tetrads	T082	UMLS:C1517336
+28092835	679	683	K(+)	T103	UMLS:C0597277
+28092835	701	719	molecular dynamics	T038	UMLS:C0596957
+28092835	720	727	studies	T062	UMLS:C2603343
+28092835	751	762	stabilizers	T103	UMLS:C1254351
+28092835	763	768	RHPS4	T103	UMLS:C1098728
+28092835	773	781	BRACO-19	T103	UMLS:C1122261
+28092835	798	805	central	T082	UMLS:C0205099
+28092835	806	810	K(+)	T103	UMLS:C0597277
+28092835	847	860	conformations	T082	UMLS:C0026377
+28092835	868	885	bound stabilizers	T103	UMLS:C1254351
+28092835	903	910	central	T082	UMLS:C0205099
+28092835	911	915	K(+)	T103	UMLS:C0597277
+28092835	924	929	RHPS4	T103	UMLS:C1098728
+28092835	933	941	BRACO-19	T103	UMLS:C1122261
+28092835	949	958	stabilize	T033	UMLS:C0184512
+28092835	963	972	structure	T082	UMLS:C0678594
+28092835	976	988	G-quadruplex	T082	UMLS:C1517336
+28092835	1014	1025	stabilizers	T103	UMLS:C1254351
+28092835	1043	1057	MM-PBSA method	T170	UMLS:C0025663
+28092835	1079	1087	BRACO-19	T103	UMLS:C1122261
+28092835	1090	1095	RHPS4	T103	UMLS:C1098728
+28092835	1103	1109	agrees	T033	UMLS:C3641827
+28092835	1119	1139	experimental results	T033	UMLS:C2825142
+28092835	1186	1191	RHPS4	T103	UMLS:C1098728
+28092835	1196	1204	BRACO-19	T103	UMLS:C1122261
+28092835	1324	1336	G-quadruplex	T082	UMLS:C1517336
+28092835	1366	1373	central	T082	UMLS:C0205099
+28092835	1374	1378	K(+)	T103	UMLS:C0597277
+28092835	1394	1399	upper	T082	UMLS:C1282910
+28092835	1402	1407	lower	T082	UMLS:C0441994
+28092835	1416	1420	site	T082	UMLS:C0205145
+28092835	1440	1443	top	T082	UMLS:C1704458
+28092835	1446	1452	bottom	T082	UMLS:C1511276
+28092835	1461	1472	stabilizers	T103	UMLS:C1254351
+28092835	1557	1564	central	T082	UMLS:C0205099
+28092835	1565	1569	K(+)	T103	UMLS:C0597277
+28092835	1577	1587	stabilizer	T103	UMLS:C1254351
+28092835	1665	1669	K(+)	T103	UMLS:C0597277
+28092835	1677	1689	G-quadruplex	T082	UMLS:C1517336
+28092835	1750	1762	G-quadruplex	T082	UMLS:C1517336
+28092835	1763	1774	stabilizers	T103	UMLS:C1254351

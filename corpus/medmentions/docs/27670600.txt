@@ -1,0 +1,91 @@
+27670600|t|Risk and Predictors of Variceal Bleeding in Cirrhosis Patients Receiving Primary Prophylaxis With Non-Selective Beta-Blockers
+27670600|a|Prior studies have demonstrated the efficacy of non-selective beta-blockers (NSBB) in preventing first variceal bleeding in patients with cirrhosis. However, little is known about the overall effectiveness of NSBB in routine clinical care. We conducted a retrospective cohort study of cirrhotic patients without prior bleeding who initiated a NSBB (propranolol, nadolol) at any Veterans Administration facility between 2008 and 2013. The primary outcome was variceal bleeding within 12 months. We conducted Cox-proportional hazards analyses to identify demographic, clinical, and NSBB -related (type of NSBB, mean dose, dose change, and heart rate response) factors associated with variceal bleeding. Of 5,775 patients, 678 (11.7%) developed variceal bleeding. Mean daily dose of NSBB was <40 mg in 58.8%, 18.1% had either upward or downward titration in NSBB dose, and 9.8% had hemodynamic response. Patients who were younger, with ascites, greater medical comorbidity, and higher MELD (Model for end-stage liver disease) scores had a higher risk of variceal bleeding. Patients on a higher daily dose (>60 vs. <40 mg, adjusted hazard ratio (HR) 0.64; 95% confidence interval (CI): 0.51-0.81), who had either upward or downward dose titration (adjusted HR 0.69; 95% CI: 0.52-0.90 and 0.64; 95% CI 0.45-0.90, respectively), and those who achieved hemodynamic response (adjusted HR 0.75; 95% CI =0.57-1.0) had lower risk. Approximately 12% of patients bled while being on NSBB for primary prophylaxis. A higher NSBB dose and dose titration were protective; yet most patients did not have the NSBB dose titrated to the recommended levels. Our data highlight the need for careful monitoring of cirrhotic patients on NSBB.
+27670600	0	4	Risk	T078	C0035647
+27670600	9	19	Predictors	T078	C2698872
+27670600	23	40	Variceal Bleeding	T046	C0333106
+27670600	44	53	Cirrhosis	T047	C1623038
+27670600	54	62	Patients	T101	C0030705
+27670600	73	92	Primary Prophylaxis	T170	C0033107
+27670600	98	125	Non-Selective Beta-Blockers	UnknownType	C0360148
+27670600	162	170	efficacy	T080	C1280519
+27670600	174	201	non-selective beta-blockers	UnknownType	C0360148
+27670600	203	207	NSBB	UnknownType	C0360148
+27670600	229	246	variceal bleeding	T046	C0333106
+27670600	250	258	patients	T101	C0030705
+27670600	264	273	cirrhosis	T047	C1623038
+27670600	318	331	effectiveness	T080	C1280519
+27670600	335	339	NSBB	UnknownType	C0360148
+27670600	351	364	clinical care	T058	C0086388
+27670600	381	407	retrospective cohort study	T062	C2985505
+27670600	411	420	cirrhotic	T047	C1623038
+27670600	421	429	patients	T101	C0030705
+27670600	444	452	bleeding	T046	C0019080
+27670600	469	473	NSBB	UnknownType	C0360148
+27670600	475	486	propranolol	T109,T121	C0033497
+27670600	488	495	nadolol	T109,T121	C0027302
+27670600	504	536	Veterans Administration facility	T073,T093	C0020030
+27670600	572	579	outcome	T169	C1274040
+27670600	584	601	variceal bleeding	T046	C0333106
+27670600	612	618	months	T079	C0439231
+27670600	633	666	Cox-proportional hazards analyses	T081,T170	C0033489
+27670600	679	690	demographic	T078	C0011292
+27670600	692	700	clinical	T080	C0205210
+27670600	706	710	NSBB	UnknownType	C0360148
+27670600	729	733	NSBB	UnknownType	C0360148
+27670600	740	744	dose	T081	C0178602
+27670600	746	757	dose change	T061	C0554834
+27670600	763	782	heart rate response	T201	C1997754
+27670600	792	807	associated with	T080	C0332281
+27670600	808	825	variceal bleeding	T046	C0333106
+27670600	836	844	patients	T101	C0030705
+27670600	868	885	variceal bleeding	T046	C0333106
+27670600	892	902	daily dose	T081	C2348070
+27670600	906	910	NSBB	UnknownType	C0360148
+27670600	949	955	upward	T082	C1282911
+27670600	959	967	downward	T082	C0205104
+27670600	968	977	titration	T059	C0162621
+27670600	981	985	NSBB	UnknownType	C0360148
+27670600	986	990	dose	T081	C0178602
+27670600	1005	1025	hemodynamic response	T042	C0019010
+27670600	1027	1035	Patients	T101	C0030705
+27670600	1045	1052	younger	T079	C0332239
+27670600	1059	1066	ascites	T033	C0003962
+27670600	1084	1095	comorbidity	T078	C0009488
+27670600	1108	1112	MELD	T185	C3826979
+27670600	1114	1147	Model for end-stage liver disease	T185	C3826979
+27670600	1149	1155	scores	T170	C1718072
+27670600	1169	1173	risk	T078	C0035647
+27670600	1177	1194	variceal bleeding	T046	C0333106
+27670600	1196	1204	Patients	T101	C0030705
+27670600	1217	1227	daily dose	T081	C2348070
+27670600	1254	1266	hazard ratio	T081	C2985465
+27670600	1268	1270	HR	T081	C2985465
+27670600	1282	1301	confidence interval	T081	C0009667
+27670600	1303	1305	CI	T081	C0009667
+27670600	1335	1341	upward	T082	C1282911
+27670600	1345	1353	downward	T082	C0205104
+27670600	1354	1358	dose	T081	C0178602
+27670600	1359	1368	titration	T059	C0162621
+27670600	1379	1381	HR	T081	C2985465
+27670600	1392	1394	CI	T081	C0009667
+27670600	1420	1422	CI	T081	C0009667
+27670600	1472	1492	hemodynamic response	T042	C0019010
+27670600	1503	1505	HR	T081	C2985465
+27670600	1516	1518	CI	T081	C0009667
+27670600	1540	1544	risk	T078	C0035647
+27670600	1567	1575	patients	T101	C0030705
+27670600	1576	1580	bled	T046	C0019080
+27670600	1596	1600	NSBB	UnknownType	C0360148
+27670600	1605	1624	primary prophylaxis	T170	C0033107
+27670600	1635	1639	NSBB	UnknownType	C0360148
+27670600	1640	1644	dose	T081	C0178602
+27670600	1649	1653	dose	T081	C0178602
+27670600	1654	1663	titration	T059	C0162621
+27670600	1690	1698	patients	T101	C0030705
+27670600	1716	1720	NSBB	UnknownType	C0360148
+27670600	1721	1725	dose	T081	C0178602
+27670600	1726	1734	titrated	T059	C0162621
+27670600	1802	1812	monitoring	T058	C1283169
+27670600	1816	1825	cirrhotic	T047	C1623038
+27670600	1826	1834	patients	T101	C0030705
+27670600	1838	1842	NSBB	UnknownType	C0360148

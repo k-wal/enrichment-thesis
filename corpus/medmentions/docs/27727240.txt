@@ -1,0 +1,83 @@
+27727240|t|Social stress in adolescents induces depression and brain-region-specific modulation of the transcription factor MAX
+27727240|a|MAX is a conserved constitutive small phosphoprotein from a network of transcription factors that are extensively studied in tumorigenesis and whose functions affect cell proliferation, differentiation and death. Inspired by its higher expression during development and in regions involved in emotional behaviors, we hypothesized its involvement in cerebral changes caused by early-life stress. We studied the effects of repeated social stress during adolescence on behaviors and on MAX and its putative partner MYC. Thirty-day-old C57BL/6 male mice underwent brief daily social defeat stress from an adult aggressor for 21 days. Following social stress episodes and housing in social groups after each defeat, adolescent mice exhibit depressive -like, but not anxiety -like behaviors and show higher MAX nuclear immunoreactivity in hippocampal (HC) but not prefrontal cortical (PFC) neurons. Conversely, MAX immunoreactivity is lower in the striatum (ST) of defeated adolescents. The positive correlation between MAX and MYC levels in the PFC revealed disruptions in both the HC and ST. The changes in MAX protein levels are not due to differential gene expression or protein degradation in those regions, suggesting that posttranscriptional modifications occurred. These findings indicate that repeated, brief social defeat in adolescent male mice, combined with group housing, is a useful protocol to study a subtype of depression that is dissociated from generalized (non-social) anxiety. To our knowledge, this is the first report of an association between dysregulation of the MAX - MYC network in the brain and a behavior, suggesting a novel approach for exploiting the neuroplasticity associated with depression.
+27727240	0	13	Social stress	T048	C0871388
+27727240	17	28	adolescents	T100	C0205653
+27727240	37	47	depression	T048	C0011570
+27727240	52	84	brain-region-specific modulation	UnknownType	C0678672
+27727240	92	112	transcription factor	T116,T123	C0040648
+27727240	113	116	MAX	T116,T123	C0127092
+27727240	117	120	MAX	T116,T123	C0127092
+27727240	155	169	phosphoprotein	T116,T123	C0031689
+27727240	188	209	transcription factors	T116,T123	C0040648
+27727240	219	230	extensively	T080	C0205231
+27727240	242	255	tumorigenesis	T191	C0007621
+27727240	283	301	cell proliferation	T043	C0596290
+27727240	303	318	differentiation	T043	C0007589
+27727240	323	328	death	T043	C0007587
+27727240	346	352	higher	T080	C0205250
+27727240	353	363	expression	T045	C1171362
+27727240	371	382	development	T039	C0020119
+27727240	410	419	emotional	T033	C0849912
+27727240	420	429	behaviors	T053	C0004927
+27727240	451	462	involvement	T169	C1314939
+27727240	466	474	cerebral	T023	C0006104
+27727240	475	482	changes	T169	C0392747
+27727240	493	510	early-life stress	T046	C0449430
+27727240	547	560	social stress	T048	C0871388
+27727240	568	579	adolescence	T079	C0001578
+27727240	583	592	behaviors	T053	C0004927
+27727240	600	603	MAX	T116,T123	C0127092
+27727240	629	632	MYC	T116,T123	C0919474
+27727240	649	656	C57BL/6	T015	C1521751
+27727240	657	661	male	T032	C0086582
+27727240	662	666	mice	T015	C0026809
+27727240	683	709	daily social defeat stress	T046	C0449430
+27727240	757	770	social stress	T048	C0871388
+27727240	784	791	housing	T096	C2983613
+27727240	795	808	social groups	T096	C1642385
+27727240	828	843	adolescent mice	T015	C0026809
+27727240	852	862	depressive	T048	C0011581
+27727240	878	885	anxiety	T033	C0003467
+27727240	892	901	behaviors	T053	C0004927
+27727240	911	917	higher	T080	C0205250
+27727240	918	921	MAX	T116,T123	C0127092
+27727240	930	946	immunoreactivity	T044	C0597879
+27727240	950	961	hippocampal	T023	C0019564
+27727240	963	965	HC	T023	C0019564
+27727240	975	1008	prefrontal cortical (PFC) neurons	T025	C0027882
+27727240	1022	1025	MAX	T116,T123	C0127092
+27727240	1026	1042	immunoreactivity	T044	C0597879
+27727240	1059	1067	striatum	T023	C0010097
+27727240	1069	1071	ST	T023	C0010097
+27727240	1085	1096	adolescents	T015	C0026809
+27727240	1131	1134	MAX	T116,T123	C0127092
+27727240	1139	1142	MYC	T116,T123	C0919474
+27727240	1143	1149	levels	T080	C0441889
+27727240	1157	1160	PFC	T025	C0027882
+27727240	1170	1181	disruptions	T169	C0332453
+27727240	1194	1196	HC	T023	C0019564
+27727240	1201	1203	ST	T023	C0010097
+27727240	1220	1223	MAX	T116,T123	C0127092
+27727240	1232	1238	levels	T080	C0441889
+27727240	1254	1282	differential gene expression	T045	C0017262
+27727240	1286	1305	protein degradation	T044	C0597297
+27727240	1340	1373	posttranscriptional modifications	T045	C0035684
+27727240	1390	1398	findings	T169	C2607943
+27727240	1413	1421	repeated	T169	C0205341
+27727240	1457	1461	male	T032	C0086582
+27727240	1462	1466	mice	T015	C0026809
+27727240	1482	1495	group housing	T096	C2983613
+27727240	1509	1517	protocol	T170	C2348563
+27727240	1521	1526	study	T062	C2603343
+27727240	1529	1536	subtype	T185	C0449560
+27727240	1540	1550	depression	T048	C0011570
+27727240	1576	1587	generalized	T082	C0205246
+27727240	1601	1608	anxiety	T033	C0003467
+27727240	1700	1703	MAX	T116,T123	C0127092
+27727240	1706	1709	MYC	T116,T123	C0919474
+27727240	1725	1730	brain	T023	C0006104
+27727240	1737	1745	behavior	T053	C0004927
+27727240	1760	1765	novel	T080	C0205314
+27727240	1794	1809	neuroplasticity	T042	C0027880
+27727240	1810	1825	associated with	T080	C0332281
+27727240	1826	1836	depression	T048	C0011570

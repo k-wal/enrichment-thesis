@@ -1,0 +1,66 @@
+27909142|t|Disease Activity and Increased Risk of Cardiovascular Death among Patients with Psoriatic Arthritis
+27909142|a|Recent studies indicate increased cardiovascular (CV) morbidity and mortality in patients with psoriatic arthritis (PsA), but results are inconsistent. This prompted our investigation of the mortality rate, cause of death, and incidence of acute CV events in patients from northern Sweden with PsA. Patients with established PsA (464) were included. To calculate standardized mortality ratio (SMR) and standardized incidence ratio (SIR) for CV events, data were extracted from the National Causes of Death Register and the National Inpatient Care Register in Sweden, and compared with the general population. The study period was 1995-2011. To study the effect of inflammatory activity, a composite disease activity index (DAI) was used. The SMR (95% CI) for overall mortality and diseases of the circulatory system (International Classification of Diseases, 10th edition; I00-I99) was 1.22 (0.89-1.63) and 1.64 (1.02-2.52), respectively. In regression analysis, DAI was significantly associated with death (OR 1.99, 95% CI 1.41-2.80) when adjusted for age and sex (p < 0.001), and remained significant after stratifying patients into the 2 major causes of death: diseases of the circulatory system and malignant neoplasms. Peripheral and axial disease was associated with death (OR 4.02, 95% CI 1.84-8.84, p < 0.001) compared with peripheral disease only. The SIR (95% CI) for a CV event (myocardial infarction or stroke) was 0.597 (0.40-0.86); this association was only significant in men. Patients with PsA had a small but significant increase in SMR for death due to diseases of the circulatory system compared with the general population. Among patients, death was associated with DAI, as well as axial involvement in combination with peripheral disease, indicating more aggressive disease phenotypes.
+27909142	0	16	Disease Activity	T047	C1384960
+27909142	21	38	Increased Risk of	T033	C0332167
+27909142	39	59	Cardiovascular Death	T046	C0376297
+27909142	66	74	Patients	T101	C0030705
+27909142	80	99	Psoriatic Arthritis	T047	C0003872
+27909142	134	163	cardiovascular (CV) morbidity	T047	C1301700
+27909142	168	177	mortality	T046	C0376297
+27909142	181	189	patients	T101	C0030705
+27909142	195	214	psoriatic arthritis	T047	C0003872
+27909142	216	219	PsA	T047	C0003872
+27909142	291	305	mortality rate	T081	C0205848
+27909142	307	321	cause of death	T033	C0007465
+27909142	346	355	CV events	T033	C1320716
+27909142	359	367	patients	T101	C0030705
+27909142	373	381	northern	T082	C1709269
+27909142	382	388	Sweden	T083	C0038995
+27909142	394	397	PsA	T047	C0003872
+27909142	399	407	Patients	T101	C0030705
+27909142	425	428	PsA	T047	C0003872
+27909142	463	491	standardized mortality ratio	T081	C1710186
+27909142	493	496	SMR	T081	C1710186
+27909142	502	530	standardized incidence ratio	T081	C2828391
+27909142	532	535	SIR	T081	C2828391
+27909142	541	550	CV events	T033	C1320716
+27909142	581	614	National Causes of Death Register	T170	C0282574
+27909142	623	655	National Inpatient Care Register	T170	C0282574
+27909142	659	665	Sweden	T083	C0038995
+27909142	689	707	general population	T098	C0683971
+27909142	764	776	inflammatory	T169	C0333348
+27909142	799	821	disease activity index	T060	C4065474
+27909142	823	826	DAI	T060	C4065474
+27909142	842	845	SMR	T081	C1710186
+27909142	859	876	overall mortality	T081	C0026565
+27909142	881	915	diseases of the circulatory system	T047	C0728936
+27909142	917	957	International Classification of Diseases	T170	C0870733
+27909142	1042	1061	regression analysis	T170	C0034980
+27909142	1063	1066	DAI	T060	C4065474
+27909142	1101	1106	death	T033	C1306577
+27909142	1209	1220	stratifying	T080	C0205363
+27909142	1221	1229	patients	T101	C0030705
+27909142	1247	1262	causes of death	T033	C0007465
+27909142	1264	1298	diseases of the circulatory system	T047	C0728936
+27909142	1303	1322	malignant neoplasms	T191	C0006826
+27909142	1324	1334	Peripheral	T047	C1704436
+27909142	1339	1352	axial disease	T033	C3805913
+27909142	1373	1378	death	T033	C1306577
+27909142	1432	1450	peripheral disease	T047	C1704436
+27909142	1461	1464	SIR	T081	C2828391
+27909142	1480	1488	CV event	T033	C1320716
+27909142	1490	1511	myocardial infarction	T047	C0027051
+27909142	1515	1521	stroke	T037	C0018843
+27909142	1587	1590	men	T098	C0025266
+27909142	1592	1600	Patients	T101	C0030705
+27909142	1606	1609	PsA	T047	C0003872
+27909142	1650	1653	SMR	T081	C1710186
+27909142	1658	1663	death	T033	C1306577
+27909142	1671	1705	diseases of the circulatory system	T047	C0728936
+27909142	1724	1742	general population	T098	C0683971
+27909142	1750	1758	patients	T101	C0030705
+27909142	1760	1765	death	T033	C1306577
+27909142	1786	1789	DAI	T060	C4065474
+27909142	1802	1819	axial involvement	T033	C3805913
+27909142	1840	1858	peripheral disease	T047	C1704436
+27909142	1887	1905	disease phenotypes	T032	C4086242

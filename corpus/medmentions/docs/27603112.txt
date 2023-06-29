@@ -1,0 +1,78 @@
+27603112|t|Binding of Pollutants to Biomolecules: A Simulation Study
+27603112|a|A number of cases around the world have been reported where animals were found dead or dying with symptoms resembling a thiamine (vitamin B) deficiency, and for some of these, a link to pollutants has been suggested. Here, we investigate whether biomolecules involved in thiamin binding and transport could be blocked by a range of different pollutants. We used in silico docking of five compound classes (25 compounds in total) to each of five targets (prion protein, ECF-type ABC transporter, thi-box riboswitch receptor, thiamin pyrophosphokinase, and YKoF protein) and subsequently performed molecular dynamics (MD) simulations to assess the stability of the complexes. The compound classes were thiamin analogues (control), pesticides, veterinary medicines, polychlorinated biphenyls, and dioxins, all of which are prevalent in the environment to some extent. A few anthropogenic compounds were found to bind the ECF-type ABC transporter, but none binds stably to prion protein. For the riboswitch, most compounds remained in their binding pockets during 50 ns of MD simulation, indicating that RNA provides a promiscuous binding site. In both YKoF and thiamin pyrophosphokinase (TPK), most compounds remain tightly bound. However, TPK biomolecules undergo pollutant - induced conformational changes. Although most compounds are found to bind to some of these targets, a larger data set is needed along with more quantitative methods like free energy perturbation calculations before firm conclusions can be drawn. This study is in part a test bed for large-scale quantitative computational screening of interactions between biological entities and pollutant molecules.
+27603112	0	7	Binding	T052	C1145667
+27603112	11	21	Pollutants	T131	C0599786
+27603112	25	37	Biomolecules	T123	C0574031
+27603112	41	57	Simulation Study	T062	C0679083
+27603112	70	75	cases	T169	C0868928
+27603112	87	92	world	T098	C2700280
+27603112	118	125	animals	T008	C0003062
+27603112	131	141	found dead	T033	C0476463
+27603112	145	150	dying	T040	C0184532
+27603112	156	164	symptoms	T184	C1457887
+27603112	178	186	thiamine	T047	C0039841
+27603112	187	209	(vitamin B) deficiency	T047	C0042850
+27603112	244	254	pollutants	T131	C0599786
+27603112	284	295	investigate	T058	C0220825
+27603112	304	316	biomolecules	T123	C0574031
+27603112	329	344	thiamin binding	T044	C1523455
+27603112	349	358	transport	T043	C1159805
+27603112	368	375	blocked	T169	C0332206
+27603112	400	410	pollutants	T131	C0599786
+27603112	420	429	in silico	T066	C3489666
+27603112	430	437	docking	T044	C1522290
+27603112	446	454	compound	T123	C0574031
+27603112	455	462	classes	T170	C0456387
+27603112	467	476	compounds	T123	C0574031
+27603112	512	525	prion protein	T116	C4082486
+27603112	527	551	ECF-type ABC transporter	T026	C3158987
+27603112	553	580	thi-box riboswitch receptor	T114,T123	C2936590
+27603112	582	607	thiamin pyrophosphokinase	T116,T126	C0039850
+27603112	613	625	YKoF protein	T116,T123	C0033684
+27603112	654	689	molecular dynamics (MD) simulations	T066	C2717775
+27603112	704	713	stability	T080	C0205360
+27603112	721	730	complexes	T104	C1704241
+27603112	736	744	compound	T123	C0574031
+27603112	745	752	classes	T170	C0456387
+27603112	758	765	thiamin	T109,T127	C0039840
+27603112	766	775	analogues	T104	C0002776
+27603112	777	784	control	T167	C1550141
+27603112	787	797	pesticides	T131	C0031253
+27603112	799	809	veterinary	T080	C0042614
+27603112	810	819	medicines	T121	C0013227
+27603112	821	846	polychlorinated biphenyls	T109,T131	C0032447
+27603112	852	859	dioxins	T109,T131	C0012503
+27603112	878	887	prevalent	T081	C0220900
+27603112	895	906	environment	T082	C0014406
+27603112	943	952	compounds	T123	C0574031
+27603112	967	971	bind	T044	C1167622
+27603112	976	1000	ECF-type ABC transporter	T026	C3158987
+27603112	1006	1023	none binds stably	T033	C0243095
+27603112	1027	1040	prion protein	T116	C4082486
+27603112	1050	1060	riboswitch	T114,T123	C2936590
+27603112	1067	1076	compounds	T123	C0574031
+27603112	1095	1110	binding pockets	T120	C1254355
+27603112	1127	1140	MD simulation	T066	C2717775
+27603112	1158	1161	RNA	T114	C0035668
+27603112	1185	1197	binding site	T192	C0005456
+27603112	1207	1211	YKoF	T116,T123	C0033684
+27603112	1216	1241	thiamin pyrophosphokinase	T116,T126	C0039850
+27603112	1243	1246	TPK	T116,T126	C0039850
+27603112	1254	1263	compounds	T123	C0574031
+27603112	1271	1284	tightly bound	T052	C1145667
+27603112	1295	1298	TPK	T116,T126	C0039850
+27603112	1299	1311	biomolecules	T123	C0574031
+27603112	1320	1329	pollutant	T131	C0599786
+27603112	1332	1339	induced	T169	C0205263
+27603112	1340	1362	conformational changes	T044	C0301641
+27603112	1378	1387	compounds	T123	C0574031
+27603112	1476	1496	quantitative methods	T062	C1510568
+27603112	1502	1526	free energy perturbation	UnknownType	C0678592
+27603112	1527	1539	calculations	T052	C1441506
+27603112	1552	1563	conclusions	T078	C1707478
+27603112	1583	1588	study	T062	C2603343
+27603112	1627	1639	quantitative	T081	C0034384
+27603112	1640	1663	computational screening	T059	C4297010
+27603112	1667	1679	interactions	T169	C1704675
+27603112	1688	1707	biological entities	T123	C0574031
+27603112	1712	1731	pollutant molecules	T131	C0599786

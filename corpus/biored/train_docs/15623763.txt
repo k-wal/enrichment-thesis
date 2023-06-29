@@ -1,0 +1,73 @@
+15623763|t|TGFBI gene mutations causing lattice and granular corneal dystrophies in Indian patients.
+15623763|a|PURPOSE: To identify mutations in the TGFBI gene in Indian patients with lattice corneal dystrophy (LCD) or granular corneal dystrophy (GCD) and to look for genotype-phenotype correlations. METHODS: Thirty-seven unrelated patients were studied, 18 with LCD and 19 with GCD. The diagnosis of LCD or GCD was made on the basis of clinical and/or histopathological evaluation. Exons and flanking intron sequences of the TGFBI gene were amplified by PCR with specific primers. PCR products were screened by the method of single-strand conformation polymorphism followed by sequencing. Mutations were confirmed by screening at least 100 unrelated normal control subjects. RESULTS: Mutations were identified in 14 of 18 patients with LCD and in all 19 patients with GCD. In LCD, three novel heterozygous mutations found were glycine-594-valine (Gly594Val) in 2 of 18 patients, valine-539-aspartic acid (Val539Asp) in 1 patient, and deletion of valine 624, valine 625 (Val624-Val625del) in 1 patient. In addition, mutation of arginine 124-to-cysteine (Arg124Cys) was found in 8 of 18 patients and histidine 626-to-arginine (His626Arg) in 2 of 18 patients. Atypical clinical features for LCD were noted in patients with the Gly594Val and Val624-Val625del mutations. In GCD, 18 patients with GCD type I had a mutation of arginine 555-to-tryptophan (Arg555Trp) and 1 patient with GCD type III (Reis-Bucklers dystrophy), had the Arg124Leu mutation. Seven novel single-nucleotide polymorphisms (SNPs) were also found, of which a change of leucine 269 to phenylalanine (Leu269Phe) was found in 12 of 18 patients with the Arg555Trp mutation. CONCLUSIONS: Arg124Cys and Arg555Trp appear to be the predominant mutations causing LCD and GCD, respectively, in the population studied. The novel mutations identified in this study are associated with distinct phenotypes.
+15623763	0	5	TGFBI	GeneOrGeneProduct	7045
+15623763	29	69	lattice and granular corneal dystrophies	DiseaseOrPhenotypicFeature	C537881,D003317
+15623763	80	88	patients	OrganismTaxon	9606
+15623763	128	133	TGFBI	GeneOrGeneProduct	7045
+15623763	149	157	patients	OrganismTaxon	9606
+15623763	163	188	lattice corneal dystrophy	DiseaseOrPhenotypicFeature	C537881
+15623763	190	193	LCD	DiseaseOrPhenotypicFeature	C537881
+15623763	198	224	granular corneal dystrophy	DiseaseOrPhenotypicFeature	D003317
+15623763	226	229	GCD	DiseaseOrPhenotypicFeature	D003317
+15623763	312	320	patients	OrganismTaxon	9606
+15623763	343	346	LCD	DiseaseOrPhenotypicFeature	C537881
+15623763	359	362	GCD	DiseaseOrPhenotypicFeature	D003317
+15623763	381	384	LCD	DiseaseOrPhenotypicFeature	C537881
+15623763	388	391	GCD	DiseaseOrPhenotypicFeature	D003317
+15623763	506	511	TGFBI	GeneOrGeneProduct	7045
+15623763	803	811	patients	OrganismTaxon	9606
+15623763	817	820	LCD	DiseaseOrPhenotypicFeature	C537881
+15623763	835	843	patients	OrganismTaxon	9606
+15623763	849	852	GCD	DiseaseOrPhenotypicFeature	D003317
+15623763	857	860	LCD	DiseaseOrPhenotypicFeature	C537881
+15623763	908	926	glycine-594-valine	SequenceVariant	p|SUB|G|594|V
+15623763	928	937	Gly594Val	SequenceVariant	p|SUB|G|594|V
+15623763	950	958	patients	OrganismTaxon	9606
+15623763	960	984	valine-539-aspartic acid	SequenceVariant	p|SUB|V|539|D
+15623763	986	995	Val539Asp	SequenceVariant	p|SUB|V|539|D
+15623763	1002	1009	patient	OrganismTaxon	9606
+15623763	1015	1049	deletion of valine 624, valine 625	SequenceVariant	p|DEL|624_625|VV
+15623763	1051	1067	Val624-Val625del	SequenceVariant	p|DEL|624_625|VV
+15623763	1074	1081	patient	OrganismTaxon	9606
+15623763	1108	1132	arginine 124-to-cysteine	SequenceVariant	rs121909210
+15623763	1134	1143	Arg124Cys	SequenceVariant	rs121909210
+15623763	1166	1174	patients	OrganismTaxon	9606
+15623763	1179	1204	histidine 626-to-arginine	SequenceVariant	p|SUB|H|626|R
+15623763	1206	1215	His626Arg	SequenceVariant	p|SUB|H|626|R
+15623763	1228	1236	patients	OrganismTaxon	9606
+15623763	1269	1272	LCD	DiseaseOrPhenotypicFeature	C537881
+15623763	1287	1295	patients	OrganismTaxon	9606
+15623763	1305	1314	Gly594Val	SequenceVariant	p|SUB|G|594|V
+15623763	1319	1335	Val624-Val625del	SequenceVariant	p|DEL|624_625|VV
+15623763	1350	1353	GCD	DiseaseOrPhenotypicFeature	D003317
+15623763	1358	1366	patients	OrganismTaxon	9606
+15623763	1372	1382	GCD type I	DiseaseOrPhenotypicFeature	C537304
+15623763	1401	1427	arginine 555-to-tryptophan	SequenceVariant	rs121909208
+15623763	1429	1438	Arg555Trp	SequenceVariant	rs121909208
+15623763	1446	1453	patient	OrganismTaxon	9606
+15623763	1459	1471	GCD type III	DiseaseOrPhenotypicFeature	C535476
+15623763	1473	1496	Reis-Bucklers dystrophy	DiseaseOrPhenotypicFeature	C535476
+15623763	1507	1516	Arg124Leu	SequenceVariant	rs121909211
+15623763	1616	1644	leucine 269 to phenylalanine	SequenceVariant	rs199852470
+15623763	1646	1655	Leu269Phe	SequenceVariant	rs199852470
+15623763	1679	1687	patients	OrganismTaxon	9606
+15623763	1697	1706	Arg555Trp	SequenceVariant	rs121909208
+15623763	1730	1739	Arg124Cys	SequenceVariant	rs121909210
+15623763	1744	1753	Arg555Trp	SequenceVariant	rs121909208
+15623763	1801	1804	LCD	DiseaseOrPhenotypicFeature	C537881
+15623763	1809	1812	GCD	DiseaseOrPhenotypicFeature	D003317
+15623763	Association	rs121909208	C537304	Novel
+15623763	Positive_Correlation	rs121909208	D003317	Novel
+15623763	Association	C537304	rs199852470	Novel
+15623763	Association	C537304	7045	Novel
+15623763	Association	C535476	rs121909211	Novel
+15623763	Association	C535476	7045	Novel
+15623763	Association	D003317	rs199852470	Novel
+15623763	Association	D003317	rs121909211	Novel
+15623763	Association	C537881	p|SUB|H|626|R	Novel
+15623763	Positive_Correlation	C537881	rs121909210	Novel
+15623763	Association	C537881	p|DEL|624_625|VV	Novel
+15623763	Association	C537881	p|SUB|V|539|D	Novel
+15623763	Association	C537881	p|SUB|G|594|V	Novel
+15623763	Association	7045	D003317	Novel
+15623763	Association	7045	C537881	Novel

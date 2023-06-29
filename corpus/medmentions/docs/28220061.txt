@@ -1,0 +1,91 @@
+28220061|t|A Model of Induction of Cerebellar Long-Term Depression Including RKIP Inactivation of Raf and MEK
+28220061|a|We report an updated stochastic model of cerebellar Long Term Depression (LTD) with improved realism. Firstly, we verify experimentally that dissociation of Raf kinase inhibitor protein (RKIP) from Mitogen-activated protein kinase kinase (MEK) is required for cerebellar LTD and add this interaction to an earlier published model, along with the known requirement of dissociation of RKIP from Raf kinase. We update Ca(2+) dynamics as a constant-rate influx, which captures experimental input profiles accurately. We improve α-amino-3-hydroxy-5-methyl-4 isoxazolepropionic acid (AMPA) receptor interactions by adding phosphorylation and dephosphorylation of AMPA receptors when bound to glutamate receptor interacting protein (GRIP). The updated model is tuned to reproduce experimental Ca(2+) peak vs. LTD amplitude curves at four different Ca(2+) pulse durations as closely as possible. We find that the updated model is generally more robust with these changes, yet we still observe some sensitivity of LTD induction to copy number of the key signaling molecule Protein kinase C (PKC). We predict natural variability in this number by stochastic diffusion may influence the probabilistic LTD response to Ca(2+) input in Purkinje cell spines and propose this as an extra source of stochasticity that may be important also in other signaling systems.
+28220061	2	7	Model	T075	C0026336
+28220061	11	20	Induction	T169	C0205263
+28220061	24	34	Cerebellar	T023	C0007765
+28220061	35	55	Long-Term Depression	T042	C2610415
+28220061	56	65	Including	T169	C0332257
+28220061	66	70	RKIP	T116,T123	C0300821
+28220061	71	83	Inactivation	T169	C0544461
+28220061	87	90	Raf	T116,T126	C1449849
+28220061	95	98	MEK	T116,T126	C0169101
+28220061	102	108	report	T170	C0684224
+28220061	112	119	updated	T079	C1519814
+28220061	120	136	stochastic model	T062	C0871922
+28220061	140	150	cerebellar	T023	C0007765
+28220061	151	171	Long Term Depression	T042	C2610415
+28220061	173	176	LTD	T042	C2610415
+28220061	183	191	improved	T033	C0184511
+28220061	192	199	realism	T078	C0237815
+28220061	220	234	experimentally	T080	C1517586
+28220061	256	284	Raf kinase inhibitor protein	T116,T123	C0300821
+28220061	286	290	RKIP	T116,T123	C0300821
+28220061	297	336	Mitogen-activated protein kinase kinase	T116,T126	C0169101
+28220061	338	341	MEK	T116,T126	C0169101
+28220061	359	369	cerebellar	T023	C0007765
+28220061	370	373	LTD	T042	C2610415
+28220061	387	398	interaction	T169	C1704675
+28220061	413	422	published	T057	C0034037
+28220061	423	428	model	T075	C0026336
+28220061	451	462	requirement	T169	C1514873
+28220061	482	486	RKIP	T116,T123	C0300821
+28220061	492	502	Raf kinase	T116,T126	C1449849
+28220061	507	513	update	T079	C1519814
+28220061	514	520	Ca(2+)	T121,T196	C0596235
+28220061	521	529	dynamics	T062	C1514544
+28220061	535	555	constant-rate influx	T081	C2986767
+28220061	572	584	experimental	T080	C1517586
+28220061	585	590	input	T077	C1708517
+28220061	591	599	profiles	T081	C0237801
+28220061	600	610	accurately	T080	C0443131
+28220061	615	622	improve	T033	C0184511
+28220061	623	675	α-amino-3-hydroxy-5-methyl-4 isoxazolepropionic acid	T109,T121,T130	C0051318
+28220061	677	681	AMPA	T109,T121,T130	C0051318
+28220061	683	691	receptor	T116,T192	C0597357
+28220061	692	704	interactions	T169	C1704675
+28220061	715	730	phosphorylation	T044	C0031715
+28220061	735	752	dephosphorylation	T044	C1158884
+28220061	756	760	AMPA	T109,T121,T130	C0051318
+28220061	761	770	receptors	T116,T192	C0597357
+28220061	776	781	bound	T044	C1167622
+28220061	785	823	glutamate receptor interacting protein	T116,T123	C0033684
+28220061	825	829	GRIP	T116,T123	C0033684
+28220061	836	843	updated	T079	C1519814
+28220061	844	849	model	T075	C0026336
+28220061	872	884	experimental	T080	C1517586
+28220061	885	891	Ca(2+)	T121,T196	C0596235
+28220061	901	904	LTD	T042	C2610415
+28220061	905	914	amplitude	T082	C2346753
+28220061	930	939	different	T080	C1705242
+28220061	940	946	Ca(2+)	T121,T196	C0596235
+28220061	947	962	pulse durations	T079	C1254367
+28220061	1004	1011	updated	T079	C1519814
+28220061	1012	1017	model	T075	C0026336
+28220061	1036	1042	robust	T080	C2986815
+28220061	1054	1061	changes	T081	C0443172
+28220061	1076	1083	observe	T169	C1441672
+28220061	1089	1100	sensitivity	T081	C1511883
+28220061	1104	1107	LTD	T042	C2610415
+28220061	1108	1117	induction	T169	C0205263
+28220061	1121	1132	copy number	T081	C1707513
+28220061	1144	1162	signaling molecule	T123	C1519315
+28220061	1163	1179	Protein kinase C	T116,T126	C1259877
+28220061	1181	1184	PKC	T116,T126	C1259877
+28220061	1190	1197	predict	T078	C0681842
+28220061	1198	1205	natural	T169	C0205296
+28220061	1206	1217	variability	T077	C2827666
+28220061	1236	1246	stochastic	T081	C0038347
+28220061	1247	1256	diffusion	T070	C0012222
+28220061	1261	1270	influence	T077	C4054723
+28220061	1275	1288	probabilistic	T080	C0205556
+28220061	1289	1292	LTD	T042	C2610415
+28220061	1293	1301	response	T032	C0871261
+28220061	1305	1311	Ca(2+)	T121,T196	C0596235
+28220061	1312	1317	input	T077	C1708517
+28220061	1321	1334	Purkinje cell	T025	C0034143
+28220061	1335	1341	spines	T082	C1254362
+28220061	1346	1353	propose	T080	C1553874
+28220061	1371	1377	source	T033	C0449416
+28220061	1381	1394	stochasticity	T081	C0038347
+28220061	1407	1416	important	T080	C3898777
+28220061	1431	1448	signaling systems	T044	C1148560

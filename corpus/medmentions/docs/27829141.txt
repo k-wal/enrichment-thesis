@@ -1,0 +1,86 @@
+27829141|t|Modelling the influence of temperature and rainfall on malaria incidence in four endemic provinces of Zambia using semiparametric Poisson regression
+27829141|a|Although malaria morbidity and mortality are greatly reduced globally owing to great control efforts, the disease remains the main contributor. In Zambia, all provinces are malaria endemic. However, the transmission intensities vary mainly depending on environmental factors as they interact with the vectors. Generally in Africa, possibly due to the varying perspectives and methods used, there is variation on the relative importance of malaria risk determinants. In Zambia, the role climatic factors play on malaria case rates has not been determined in combination of space and time using robust methods in modelling. This is critical considering the reversal in malaria reduction after the year 2010 and the variation by transmission zones. Using a geoadditive or structured additive semiparametric Poisson regression model, we determined the influence of climatic factors on malaria incidence in four endemic provinces of Zambia. We demonstrate a strong positive association between malaria incidence and precipitation as well as minimum temperature. The risk of malaria was 95% lower in Lusaka (ARR =0.05, 95% CI =0.04-0.06) and 68% lower in the Western Province (ARR =0.31, 95% CI =0.25-0.41) compared to Luapula Province. North-western Province did not vary from Luapula Province. The effects of geographical region are clearly demonstrated by the unique behaviour and effects of minimum and maximum temperatures in the four provinces. Environmental factors such as landscape in urbanised places may also be playing a role.
+27829141	0	9	Modelling	T062	C0870071
+27829141	14	23	influence	T077	C4054723
+27829141	27	38	temperature	T081	C0039476
+27829141	43	51	rainfall	T070	C0034640
+27829141	55	62	malaria	T047	C0024530
+27829141	63	72	incidence	T081	C0021149
+27829141	81	88	endemic	T047	C0277550
+27829141	89	98	provinces	T083	C1514578
+27829141	102	108	Zambia	T083	C0043445
+27829141	115	148	semiparametric Poisson regression	T081	C0023962
+27829141	158	165	malaria	T047	C0024530
+27829141	166	175	morbidity	T081	C0026538
+27829141	180	189	mortality	T081	C0681679
+27829141	210	218	globally	T080	C2348867
+27829141	234	241	control	T061	C0920467
+27829141	242	249	efforts	T040	C0015264
+27829141	255	262	disease	T047	C0024530
+27829141	280	291	contributor	T052	C1880177
+27829141	296	302	Zambia	T083	C0043445
+27829141	308	317	provinces	T083	C1514578
+27829141	322	329	malaria	T047	C0024530
+27829141	330	337	endemic	T169	C0014508
+27829141	352	364	transmission	T046	C0242781
+27829141	402	423	environmental factors	T169	C1516998
+27829141	432	440	interact	T169	C1704675
+27829141	450	457	vectors	T008	C0012656
+27829141	472	478	Africa	T083	C0001737
+27829141	508	520	perspectives	UnknownType	C0814830
+27829141	525	532	methods	T170	C0025663
+27829141	588	595	malaria	T047	C0024530
+27829141	596	600	risk	T078	C0035647
+27829141	601	613	determinants	T169	C0014501
+27829141	618	624	Zambia	T083	C0043445
+27829141	635	651	climatic factors	UnknownType	C0868933
+27829141	660	667	malaria	T047	C0024530
+27829141	668	672	case	T169	C0868928
+27829141	673	678	rates	T081	C0026538
+27829141	721	726	space	T082	C1883067
+27829141	731	735	time	T079	C0040223
+27829141	742	748	robust	T080	C2986815
+27829141	749	756	methods	T170	C0025663
+27829141	760	769	modelling	T062	C0870071
+27829141	779	787	critical	T080	C1511545
+27829141	804	812	reversal	T169	C0443290
+27829141	816	823	malaria	T047	C0024530
+27829141	824	833	reduction	T061	C0441610
+27829141	862	871	variation	T080	C0205419
+27829141	875	887	transmission	T046	C0242781
+27829141	888	893	zones	T082	C1710706
+27829141	903	914	geoadditive	T081	C4046053
+27829141	918	977	structured additive semiparametric Poisson regression model	T081	C0023962
+27829141	997	1006	influence	T077	C4054723
+27829141	1010	1026	climatic factors	UnknownType	C0868933
+27829141	1030	1037	malaria	T047	C0024530
+27829141	1038	1047	incidence	T081	C0021149
+27829141	1056	1063	endemic	T047	C0277550
+27829141	1064	1073	provinces	T083	C1514578
+27829141	1077	1083	Zambia	T083	C0043445
+27829141	1109	1117	positive	T033	C1446409
+27829141	1118	1129	association	T080	C0439849
+27829141	1138	1145	malaria	T047	C0024530
+27829141	1146	1155	incidence	T081	C0021149
+27829141	1160	1173	precipitation	T070	C2584299
+27829141	1185	1204	minimum temperature	T070	C0009264
+27829141	1210	1214	risk	T078	C0035647
+27829141	1218	1225	malaria	T047	C0024530
+27829141	1243	1249	Lusaka	T083	C0043445
+27829141	1251	1254	ARR	T081	C3179139
+27829141	1266	1268	CI	T081	C0009667
+27829141	1302	1318	Western Province	T083	C0043445
+27829141	1320	1323	ARR	T081	C3179139
+27829141	1335	1337	CI	T081	C0009667
+27829141	1362	1378	Luapula Province	T083	C0043445
+27829141	1380	1402	North-western Province	T083	C0043445
+27829141	1421	1437	Luapula Province	T083	C0043445
+27829141	1454	1473	geographical region	T083	C0454689
+27829141	1513	1522	behaviour	T053	C0004927
+27829141	1527	1537	effects of	T080	C1704420
+27829141	1538	1545	minimum	T070	C0009264
+27829141	1550	1570	maximum temperatures	T033	C4060775
+27829141	1583	1592	provinces	T083	C1514578
+27829141	1594	1615	Environmental factors	T169	C1516998
+27829141	1624	1633	landscape	T082	C0870781
+27829141	1637	1653	urbanised places	T083	C0442529

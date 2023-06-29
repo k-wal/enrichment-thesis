@@ -1,0 +1,97 @@
+27407027|t|Risk Factors for Infection After Knee Arthroscopy: Analysis of 595,083 Cases From 3 United States Databases
+27407027|a|To identify and quantify patient- and procedure-related risk factors for post-arthroscopic knee infections using a large dataset. An administrative health care database including 8 years of records from 2 large commercial insurers and Medicare (a 5% random sample) was queried to identify all knee arthroscopies performed on patients aged at least 15 years using Current Procedural Terminology (CPT) codes. Each CPT code was designated as a high- or low-complexity procedure, with the former typically requiring accessory incisions or increased operative time. Deep infections were identified by a CPT code for incision and drainage within 90 days of surgery. Superficial infections were identified by International Classification of Diseases, Ninth Revision infection codes without any record of incision and drainage. Patients were compared based on age, sex, body mass index, tobacco use, presence of diabetes, and Charlson Comorbidity Index. A total of 526,537 patients underwent 595,083 arthroscopic knee procedures. Deep postoperative infections occurred at a rate of 0.22%. Superficial infections occurred at a rate of 0.29%. Tobacco use and morbid obesity were the largest risk factors for deep and superficial infections, respectively (P < .001; relative risk of 1.90 and 2.19, respectively). There were also higher infection rates among patients undergoing relatively high-complexity arthroscopies, men, obese patients, diabetic patients, and younger patients (in order of decreasing relative risk). Increased Charlson Comorbidity Index was associated with superficial and total infections (P < .001). Post-arthroscopic knee infections were more frequent among morbidly obese patients, tobacco users, patients undergoing relatively complex procedures, men, obese patients, diabetic patients, relatively young patients, and patients with increased comorbidity burdens in this study population. This knowledge may allow more informed preoperative counseling, aid surgeons in patient selection, and facilitate infection prevention by targeting individuals with higher inherent risk. Level IV, cross-sectional study.
+27407027	0	12	Risk Factors	T033	C0035648
+27407027	17	26	Infection	T046	C3714514
+27407027	33	49	Knee Arthroscopy	T060	C1304878
+27407027	51	59	Analysis	T062	C0936012
+27407027	71	76	Cases	T169	C0868928
+27407027	84	97	United States	T083	C0041703
+27407027	98	107	Databases	T170	C0242356
+27407027	111	119	identify	T080	C0205396
+27407027	124	132	quantify	T081	C1709793
+27407027	133	141	patient-	T033	C0035648
+27407027	146	176	procedure-related risk factors	T033	C0035648
+27407027	181	198	post-arthroscopic	T079	C1254367
+27407027	199	214	knee infections	T047	C1400580
+27407027	229	236	dataset	T170	C0150098
+27407027	241	276	administrative health care database	T170	C0242356
+27407027	289	294	years	T079	C0439234
+27407027	330	338	insurers	T092	C0021675
+27407027	343	351	Medicare	T064	C0018717
+27407027	358	371	random sample	T062	C0150105
+27407027	401	419	knee arthroscopies	T060	C1304878
+27407027	420	429	performed	T169	C0884358
+27407027	433	441	patients	T101	C0030705
+27407027	442	446	aged	T032	C0001779
+27407027	459	464	years	T079	C0439234
+27407027	471	513	Current Procedural Terminology (CPT) codes	T170	C1136322
+27407027	520	528	CPT code	T170	C1136322
+27407027	549	554	high-	T058	C1292781
+27407027	558	582	low-complexity procedure	T058	C1292781
+27407027	630	639	incisions	T061	C0184898
+27407027	653	667	operative time	T079	C3494201
+27407027	674	684	infections	T046	C3714514
+27407027	706	714	CPT code	T170	C1136322
+27407027	719	727	incision	T061	C0184898
+27407027	732	740	drainage	T061	C0013103
+27407027	751	755	days	T079	C0439228
+27407027	759	766	surgery	T169	C0038895
+27407027	768	790	Superficial infections	T046	C3714514
+27407027	810	882	International Classification of Diseases, Ninth Revision infection codes	T170	C2346503
+27407027	895	901	record	T170	C0034869
+27407027	905	913	incision	T061	C0184898
+27407027	918	926	drainage	T061	C0013103
+27407027	928	936	Patients	T101	C0030705
+27407027	960	963	age	T032	C0001779
+27407027	965	968	sex	T032	C1522384
+27407027	970	985	body mass index	T201	C1305855
+27407027	987	998	tobacco use	T055	C0543414
+27407027	1000	1008	presence	T080	C3854307
+27407027	1012	1020	diabetes	T047	C0011847
+27407027	1026	1052	Charlson Comorbidity Index	T081	C1516737
+27407027	1073	1081	patients	T101	C0030705
+27407027	1100	1128	arthroscopic knee procedures	T060	C1304878
+27407027	1135	1159	postoperative infections	T046	C0392618
+27407027	1189	1211	Superficial infections	T046	C3714514
+27407027	1241	1252	Tobacco use	T055	C0543414
+27407027	1257	1271	morbid obesity	T047	C0028756
+27407027	1289	1301	risk factors	T033	C0035648
+27407027	1306	1310	deep	T046	C3714514
+27407027	1315	1337	superficial infections	T046	C3714514
+27407027	1363	1376	relative risk	T081	C0242492
+27407027	1433	1448	infection rates	T046	C3714514
+27407027	1455	1463	patients	T101	C0030705
+27407027	1486	1515	high-complexity arthroscopies	T060	C1304878
+27407027	1517	1520	men	T098	C0025266
+27407027	1522	1527	obese	T047	C0028754
+27407027	1528	1536	patients	T101	C0030705
+27407027	1538	1546	diabetic	T047	C0011847
+27407027	1547	1555	patients	T101	C0030705
+27407027	1561	1568	younger	T079	C0332239
+27407027	1569	1577	patients	T101	C0030705
+27407027	1602	1615	relative risk	T081	C0242492
+27407027	1628	1654	Charlson Comorbidity Index	T081	C1516737
+27407027	1659	1674	associated with	T080	C0332281
+27407027	1675	1686	superficial	T046	C3714514
+27407027	1691	1707	total infections	T046	C3714514
+27407027	1720	1737	Post-arthroscopic	T079	C1254367
+27407027	1738	1753	knee infections	T047	C1400580
+27407027	1779	1793	morbidly obese	T047	C0028756
+27407027	1794	1802	patients	T101	C0030705
+27407027	1804	1817	tobacco users	T033	C3853727
+27407027	1819	1827	patients	T101	C0030705
+27407027	1850	1868	complex procedures	T058	C1292781
+27407027	1870	1873	men	T098	C0025266
+27407027	1875	1889	obese patients	T101	C0030705
+27407027	1891	1908	diabetic patients	T101	C0030705
+27407027	1921	1935	young patients	T101	C0030705
+27407027	1941	1949	patients	T101	C0030705
+27407027	1965	1976	comorbidity	T078	C0009488
+27407027	1999	2009	population	T081	C0032659
+27407027	2050	2073	preoperative counseling	T058	C0920638
+27407027	2075	2087	aid surgeons	T097	C0582175
+27407027	2091	2108	patient selection	T062	C0242802
+27407027	2125	2145	infection prevention	T061	C0547605
+27407027	2159	2170	individuals	T098	C0237401
+27407027	2183	2196	inherent risk	T078	C0035647
+27407027	2208	2229	cross-sectional study	T062	C0010362

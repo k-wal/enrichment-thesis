@@ -1,0 +1,82 @@
+27659457|t|Prognostic significance of blood pressure response during vasodilator stress Rb-82 positron emission tomography myocardial perfusion imaging
+27659457|a|A drop in blood pressure (BP) or blunted BP response is an established high-risk marker during exercise myocardial perfusion imaging (MPI); however, data are sparse regarding the prognostic value of BP response in patients undergoing vasodilator stress rubidium-82 (Rb-82) Positron Emission Tomography (PET) MPI. From the PET Prognosis Multicenter Registry, a cohort of 3413 patients underwent vasodilator stress Rb-82 PET MPI with dipyridamole or adenosine. We used multivariable Cox proportional hazard regression to analyze the association with mortality of four BP variables: stress minus rest systolic BP (∆SBP), stress minus rest diastolic BP (∆DBP), resting systolic BP (rSBP), and resting diastolic BP (rDBP). Covariates that had univariate P values <.10 were entered into the multivariable model. After median 1.7 years follow-up, 270 patients died. In univariate analyses, ∆SBP (P = .082), rSBP (P = .008), and rDBP (P < .001) were of potential prognostic value (P < .10), but ∆DBP was not (P = .96). After adjustment for other clinical and MPI variables, ∆SBP no longer independently predicted mortality (P = .082); only lower rSBP (P = .026) and lower rDBP (P = .045) remained independently prognostic. In patients undergoing vasodilator stress MPI, only lower resting BP is an independent predictor of mortality along with other clinical and MPI variables; BP response does not appear to add to risk stratification in these patients.
+27659457	0	10	Prognostic	T170	C0220901
+27659457	11	23	significance	T078	C0750502
+27659457	27	50	blood pressure response	T201	C1997183
+27659457	58	140	vasodilator stress Rb-82 positron emission tomography myocardial perfusion imaging	T060	C3525535
+27659457	143	147	drop	T081	C0547047
+27659457	151	165	blood pressure	T040	C0005823
+27659457	167	169	BP	T040	C0005823
+27659457	174	181	blunted	T080	C1997138
+27659457	182	184	BP	T040	C0005823
+27659457	185	193	response	T032	C0871261
+27659457	212	228	high-risk marker	T080	C1514475
+27659457	236	244	exercise	T056	C0015259
+27659457	245	273	myocardial perfusion imaging	T060	C2350390
+27659457	275	278	MPI	T060	C2350390
+27659457	290	294	data	T078	C1511726
+27659457	320	330	prognostic	T170	C0220901
+27659457	331	336	value	T081	C1522609
+27659457	340	342	BP	T040	C0005823
+27659457	343	351	response	T032	C0871261
+27659457	355	363	patients	T101	C0030705
+27659457	375	452	vasodilator stress rubidium-82 (Rb-82) Positron Emission Tomography (PET) MPI	T060	C3525535
+27659457	444	447	PET	T060	C0032743
+27659457	463	466	PET	T060	C0032743
+27659457	467	497	Prognosis Multicenter Registry	T062	C0920631
+27659457	501	507	cohort	T098	C0599755
+27659457	516	524	patients	T101	C0030705
+27659457	535	567	vasodilator stress Rb-82 PET MPI	T060	C3525535
+27659457	573	585	dipyridamole	T109,T121	C0012582
+27659457	589	598	adenosine	T114,T121,T123	C0001443
+27659457	608	656	multivariable Cox proportional hazard regression	T080	C0681923
+27659457	672	688	association with	T080	C0332281
+27659457	689	698	mortality	T081	C0205848
+27659457	707	709	BP	T040	C0005823
+27659457	710	719	variables	T080	C0439828
+27659457	721	727	stress	T033	C2039712
+27659457	734	750	rest systolic BP	T033	C2039694
+27659457	752	756	∆SBP	T060	C1306620
+27659457	759	765	stress	T033	C2183325
+27659457	772	789	rest diastolic BP	T033	C2183311
+27659457	791	795	∆DBP	T060	C1306620
+27659457	798	817	resting systolic BP	T033	C2036238
+27659457	819	823	rSBP	T033	C2036238
+27659457	830	850	resting diastolic BP	T033	C2036196
+27659457	852	856	rDBP	T033	C2036196
+27659457	859	869	Covariates	T080	C0205556
+27659457	879	889	univariate	T080	C0205556
+27659457	892	898	values	T081	C1522609
+27659457	926	945	multivariable model	T081,T170	C0023965
+27659457	953	959	median	T082	C2939193
+27659457	964	969	years	T079	C0439234
+27659457	985	993	patients	T101	C0030705
+27659457	994	998	died	T033	C1306577
+27659457	1003	1022	univariate analyses	T062	C0683962
+27659457	1024	1028	∆SBP	T060	C1306620
+27659457	1041	1045	rSBP	T033	C2036238
+27659457	1062	1066	rDBP	T033	C2036196
+27659457	1096	1106	prognostic	T170	C0220901
+27659457	1107	1112	value	T081	C1522609
+27659457	1128	1132	∆DBP	T060	C1306620
+27659457	1179	1187	clinical	T080	C0205210
+27659457	1192	1195	MPI	T060	C2350390
+27659457	1196	1205	variables	T080	C0439828
+27659457	1207	1211	∆SBP	T060	C1306620
+27659457	1246	1255	mortality	T081	C0205848
+27659457	1279	1283	rSBP	T033	C2036238
+27659457	1305	1309	rDBP	T033	C2036196
+27659457	1344	1354	prognostic	T170	C0220901
+27659457	1359	1367	patients	T101	C0030705
+27659457	1379	1401	vasodilator stress MPI	T060	C2350390
+27659457	1414	1424	resting BP	T033	C0243095
+27659457	1443	1452	predictor	T078	C2698872
+27659457	1456	1465	mortality	T081	C0205848
+27659457	1483	1491	clinical	T080	C0205210
+27659457	1496	1499	MPI	T060	C2350390
+27659457	1500	1509	variables	T080	C0439828
+27659457	1511	1513	BP	T040	C0005823
+27659457	1514	1522	response	T032	C0871261
+27659457	1549	1553	risk	T078	C0035647
+27659457	1554	1568	stratification	T062	C1514983
+27659457	1578	1586	patients	T101	C0030705

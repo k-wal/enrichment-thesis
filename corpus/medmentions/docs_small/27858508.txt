@@ -1,0 +1,65 @@
+27858508|t|Activation of transcription enforces the formation of distinct nuclear bodies in zebrafish embryos
+27858508|a|Nuclear bodies are cellular compartments that lack lipid bilayers and harbor specific RNAs and proteins. Recent proposals that nuclear bodies form through liquid-liquid phase separation leave the question of how different nuclear bodies maintain their distinct identities unanswered. Here we investigate Cajal bodies (CBs), histone locus bodies (HLBs) and nucleoli - involved in assembly of the splicing machinery, histone mRNA 3' end processing, and rRNA processing, respectively - in the embryos of the zebrafish, Danio rerio. We take advantage of the transcriptional silence of the 1-cell embryo and follow nuclear body appearance as zygotic transcription becomes activated. CBs are present from fertilization onwards, while HLB and nucleolar components formed foci several hours later when histone genes and rDNA became active. HLB formation was blocked by transcription inhibition, suggesting nascent histone transcripts recruit HLB components like U7 snRNP. Surprisingly, we found that U7 base-pairing with nascent histone transcripts was not required for localization to HLBs. Rather, the type of Sm ring assembled on U7 determined its targeting to HLBs or CBs; the spliceosomal Sm ring targeted snRNAs to CBs while the specialized U7 Sm-ring localized to HLBs, demonstrating the contribution of protein constituents to the distinction among nuclear bodies. Thus, nucleolar, HLB, and CB components can mix in early embryogenesis when transcription is naturally or artificially silenced. These data support a model in which transcription of specific gene loci nucleates nuclear body components with high specificity and fidelity to perform distinct regulatory functions.
+27858508	0	27	Activation of transcription	T038	UMLS:C0162493
+27858508	63	77	nuclear bodies	T017	UMLS:C0230595
+27858508	81	90	zebrafish	T204	UMLS:C0043457
+27858508	91	98	embryos	T017	UMLS:C0013935
+27858508	99	113	Nuclear bodies	T017	UMLS:C0230595
+27858508	118	139	cellular compartments	T082	UMLS:C2335889
+27858508	150	164	lipid bilayers	T017	UMLS:C0023768
+27858508	185	189	RNAs	T103	UMLS:C0035668
+27858508	194	202	proteins	T103	UMLS:C0033684
+27858508	226	240	nuclear bodies	T017	UMLS:C0230595
+27858508	321	335	nuclear bodies	T017	UMLS:C0230595
+27858508	403	415	Cajal bodies	T017	UMLS:C0751972
+27858508	417	420	CBs	T017	UMLS:C0751972
+27858508	423	443	histone locus bodies	T017	UMLS:C2752281
+27858508	445	449	HLBs	T017	UMLS:C2752281
+27858508	455	463	nucleoli	T017	UMLS:C0007609
+27858508	494	512	splicing machinery	T038	UMLS:C0314666
+27858508	514	544	histone mRNA 3' end processing	T038	UMLS:C1158725
+27858508	550	565	rRNA processing	T038	UMLS:C1156152
+27858508	589	596	embryos	T017	UMLS:C0013935
+27858508	604	613	zebrafish	T204	UMLS:C0043457
+27858508	615	626	Danio rerio	T204	UMLS:C0043457
+27858508	691	697	embryo	T017	UMLS:C0013935
+27858508	709	721	nuclear body	T017	UMLS:C0230595
+27858508	736	743	zygotic	T017	UMLS:C0043544
+27858508	744	757	transcription	T038	UMLS:C0040649
+27858508	777	780	CBs	T017	UMLS:C0751972
+27858508	798	811	fertilization	T038	UMLS:C0015914
+27858508	827	830	HLB	T017	UMLS:C2752281
+27858508	835	844	nucleolar	T017	UMLS:C0007609
+27858508	845	855	components	T017	UMLS:C0243092
+27858508	863	867	foci	T082	UMLS:C0205234
+27858508	893	900	histone	T103	UMLS:C0019652
+27858508	901	906	genes	T017	UMLS:C0017337
+27858508	911	915	rDNA	T103	UMLS:C0012933
+27858508	931	934	HLB	T017	UMLS:C2752281
+27858508	960	984	transcription inhibition	T038	UMLS:C1514673
+27858508	997	1024	nascent histone transcripts	T103	UMLS:C1519595
+27858508	1033	1036	HLB	T017	UMLS:C2752281
+27858508	1037	1047	components	T017	UMLS:C0243092
+27858508	1053	1061	U7 snRNP	T103	UMLS:C0162464
+27858508	1094	1106	base-pairing	T038	UMLS:C0600436
+27858508	1112	1139	nascent histone transcripts	T103	UMLS:C1519595
+27858508	1161	1173	localization	T038	UMLS:C1158693
+27858508	1177	1181	HLBs	T017	UMLS:C2752281
+27858508	1255	1259	HLBs	T017	UMLS:C2752281
+27858508	1263	1266	CBs	T017	UMLS:C0751972
+27858508	1302	1308	snRNAs	T103	UMLS:C0035709
+27858508	1312	1315	CBs	T017	UMLS:C0751972
+27858508	1362	1366	HLBs	T017	UMLS:C2752281
+27858508	1402	1409	protein	T103	UMLS:C0033684
+27858508	1448	1462	nuclear bodies	T017	UMLS:C0230595
+27858508	1470	1479	nucleolar	T017	UMLS:C0007609
+27858508	1481	1484	HLB	T017	UMLS:C2752281
+27858508	1490	1492	CB	T017	UMLS:C0751972
+27858508	1493	1503	components	T017	UMLS:C0243092
+27858508	1521	1534	embryogenesis	T038	UMLS:C0013936
+27858508	1540	1553	transcription	T038	UMLS:C0040649
+27858508	1629	1642	transcription	T038	UMLS:C0040649
+27858508	1655	1664	gene loci	T082	UMLS:C1708726
+27858508	1675	1687	nuclear body	T017	UMLS:C0230595
+27858508	1688	1698	components	T017	UMLS:C0243092
+27858508	1765	1774	functions	T038	UMLS:C0031843

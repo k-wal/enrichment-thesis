@@ -1,0 +1,70 @@
+19811499|t|Independent and cooperative roles of tumor necrosis factor-alpha, nuclear factor-kappaB, and bone morphogenetic protein-2 in regulation of metastasis and osteomimicry of prostate cancer cells and differentiation and mineralization of MC3T3-E1 osteoblast-like cells.
+19811499|a|The molecular mechanisms involved in prostate cancer (PC) metastasis and bone remodeling are poorly understood. We recently reported that phosphoinositide 3-kinase (PI3K)/protein kinase B (Akt) mediates transcriptional regulation and activation of bone morphogenetic protein (BMP)-2 signaling by nuclear factor (NF)-kappaB in bone metastatic prostate cancer cells. In the present study, we demonstrate that NF-kappaB, whether activated by recombinant human tumor necrosis factor (TNF)-alpha or by ectopic expression of the p65 subunit, is involved in extracellular matrix adhesion and invasion of osteotropic PC-3 and C4-2B, but not LNCaP, cells. The enhanced metastatic potential was associated with transcriptional upregulation of osteopontin, osteocalcin, and collagen IA1 in osteotropic PC cells, suggesting their role in osteomimicry of PC cells. Unlike BMP-4, BMP-2 protein enhanced the invasive properties of C4-2B cells, but not in LNCaP cells. Also, this effect was nullified by Noggin. In addition, BMP-2 mediates TNF-alpha-induced invasion of C4-2B cells in a NF-kappaB-dependent fashion. TNF-alpha or conditioned media (CM) of TNF-alpha-stimulated C4-2B cells upregulated BMP-2 and BMP-dependent Smad transcripts and inhibited receptor activator of NF-kappaB ligand transcripts in RAW 264.7 preosteoclast cells, respectively, implying that this factor may contribute to suppression of osteoclastogenesis via direct and paracrine mechanisms. In contrast, CM of TNF-alpha-stimulate or BMP2-stimulated C4-2B cells induced in vitro mineralization of MC3T3-E1 osteoblast cells in a BMP-2-dependent and NF-kappaB-dependent manner, respectively. Taken together, the results suggest that mutual interactions between these factors may be pivotal not only in enhancing the osteomimicry and metastatic potential of PC cells, but also in bone remodeling and in shifting the balance from osteoclastogenesis towards osteoblastogenesis.
+19811499	37	64	tumor necrosis factor-alpha	GeneOrGeneProduct	21926,7124
+19811499	66	87	nuclear factor-kappaB	GeneOrGeneProduct	18033,4790
+19811499	93	121	bone morphogenetic protein-2	GeneOrGeneProduct	12156,650
+19811499	139	149	metastasis	DiseaseOrPhenotypicFeature	D009362
+19811499	170	185	prostate cancer	DiseaseOrPhenotypicFeature	D011471
+19811499	234	242	MC3T3-E1	CellLine	CVCL_0409
+19811499	303	334	prostate cancer (PC) metastasis	DiseaseOrPhenotypicFeature	D009362,D011471
+19811499	404	453	phosphoinositide 3-kinase (PI3K)/protein kinase B	GeneOrGeneProduct	207
+19811499	455	458	Akt	GeneOrGeneProduct	207
+19811499	514	548	bone morphogenetic protein (BMP)-2	GeneOrGeneProduct	650
+19811499	562	588	nuclear factor (NF)-kappaB	GeneOrGeneProduct	4790
+19811499	608	623	prostate cancer	DiseaseOrPhenotypicFeature	D011471
+19811499	673	682	NF-kappaB	GeneOrGeneProduct	4790
+19811499	717	722	human	OrganismTaxon	9606
+19811499	723	756	tumor necrosis factor (TNF)-alpha	GeneOrGeneProduct	7124
+19811499	789	792	p65	GeneOrGeneProduct	5970
+19811499	875	879	PC-3	CellLine	CVCL_0035
+19811499	884	889	C4-2B	CellLine	CVCL_4784
+19811499	899	904	LNCaP	CellLine	CVCL_0395
+19811499	999	1010	osteopontin	GeneOrGeneProduct	6696
+19811499	1012	1023	osteocalcin	GeneOrGeneProduct	632
+19811499	1029	1041	collagen IA1	GeneOrGeneProduct	1277
+19811499	1057	1059	PC	DiseaseOrPhenotypicFeature	D011471
+19811499	1108	1110	PC	DiseaseOrPhenotypicFeature	D011471
+19811499	1125	1130	BMP-4	GeneOrGeneProduct	652
+19811499	1132	1137	BMP-2	GeneOrGeneProduct	650
+19811499	1182	1187	C4-2B	CellLine	CVCL_4784
+19811499	1206	1211	LNCaP	CellLine	CVCL_0395
+19811499	1254	1260	Noggin	GeneOrGeneProduct	9241
+19811499	1275	1280	BMP-2	GeneOrGeneProduct	650
+19811499	1290	1299	TNF-alpha	GeneOrGeneProduct	7124
+19811499	1320	1325	C4-2B	CellLine	CVCL_4784
+19811499	1337	1346	NF-kappaB	GeneOrGeneProduct	4790
+19811499	1366	1375	TNF-alpha	GeneOrGeneProduct	7124
+19811499	1405	1414	TNF-alpha	GeneOrGeneProduct	7124
+19811499	1426	1431	C4-2B	CellLine	CVCL_4784
+19811499	1450	1455	BMP-2	GeneOrGeneProduct	12156
+19811499	1460	1463	BMP	GeneOrGeneProduct	12156
+19811499	1474	1478	Smad	GeneOrGeneProduct	17127
+19811499	1505	1543	receptor activator of NF-kappaB ligand	GeneOrGeneProduct	21943
+19811499	1559	1568	RAW 264.7	CellLine	CVCL_0493
+19811499	1738	1747	TNF-alpha	GeneOrGeneProduct	7124
+19811499	1761	1765	BMP2	GeneOrGeneProduct	650
+19811499	1777	1782	C4-2B	CellLine	CVCL_4784
+19811499	1824	1832	MC3T3-E1	CellLine	CVCL_0409
+19811499	1855	1860	BMP-2	GeneOrGeneProduct	12156
+19811499	1875	1884	NF-kappaB	GeneOrGeneProduct	4790
+19811499	2082	2084	PC	DiseaseOrPhenotypicFeature	D011471
+19811499	Association	207	650	No
+19811499	Association	207	4790	No
+19811499	Association	207	D011471	No
+19811499	Positive_Correlation	1277	D011471	Novel
+19811499	Positive_Correlation	632	D011471	Novel
+19811499	Positive_Correlation	6696	D011471	Novel
+19811499	Association	650	4790	No
+19811499	Association	650	7124	Novel
+19811499	Association	650	D011471	Novel
+19811499	Association	12156	17127	No
+19811499	Association	12156	D011471	Novel
+19811499	Positive_Correlation	4790	5970	Novel
+19811499	Positive_Correlation	4790	7124	Novel
+19811499	Association	4790	D011471	Novel
+19811499	Association	18033	D011471	No
+19811499	Negative_Correlation	7124	21943	Novel
+19811499	Positive_Correlation	7124	17127	Novel
+19811499	Positive_Correlation	7124	12156	Novel
+19811499	Association	7124	D011471	Novel
+19811499	Association	21926	D011471	No

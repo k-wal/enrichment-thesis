@@ -1,0 +1,42 @@
+28011044|t|Association of Radiomics and Metabolic Tumor Volumes in Radiation Treatment of Glioblastoma Multiforme
+28011044|a|To build a framework for investigation of the associations between imaging, clinical target volumes (CTVs), and metabolic tumor volumes (MTVs) features for better understanding of the underlying information in the CTVs and dependencies between these volumes. High-throughput extraction of imaging and metabolomic quantitative features from magnetic resonance imaging (MRI) and magnetic resonance spectroscopic imaging of glioblastoma multiforme (GBM) results in tens of variables per patient. In radiation therapy of GBM the relevant metabolic tumor volumes (MTVs) are related to aberrant levels of N-acetyl aspartate (NAA) and choline (Cho). The corresponding clinical target volumes (CTVs) for radiation therapy are based on contrast-enhanced T1-weighted (CE-T1w) and T2-weighted (T2w)/fluid-attenuated inversion recovery MRI. Necrotic portions, enhancing lesion, and edema were manually contoured on CE-T1w / T2w images for 17 GBM patients. Clinical target volumes and MTVs for NAA (MTVNAA) and Cho (MTVCho) were constructed. Imaging and metabolic features related to size, shape, and signal intensities of the volumes were extracted. Tumors were also scored categorically for 10 semantic imaging traits by a neuroradiologist. All features were investigated for redundancy. Two-way correlations between imaging and CTVs / MTVs features were visualized as heatmaps. Associations between MTVNAA and MTVCho and imaging features were studied using Spearman correlation. Forty-eight imaging features were extracted per patient. Half of the imaging traits were replaced with automatically extracted continuous variables. Twenty features were extracted from CTVs and MTVs. A series of semantic imaging traits were replaced with automatically extracted continuous variables. There were multiple (22) significant correlations of imaging measures with CTVs / MTVNAA, whereas there were only 6 with CTVs / MTVCho. A framework for investigation of codependencies between MRI and magnetic resonance spectroscopic imaging radiomic features and CTVs / MTVs has been established. The MTV for NAA was found to be closely associated with MRI volumes, whereas very few imaging features were related to MTVCho, indicating that Cho provides additional information to imaging.
+28011044	79	102	Glioblastoma Multiforme	T038	UMLS:C1621958
+28011044	128	141	investigation	T058	UMLS:C0220825
+28011044	170	177	imaging	T058	UMLS:C0011923
+28011044	392	399	imaging	T058	UMLS:C0011923
+28011044	404	415	metabolomic	T091	UMLS:C1328813
+28011044	443	469	magnetic resonance imaging	T058	UMLS:C0024485
+28011044	471	474	MRI	T058	UMLS:C0024485
+28011044	480	520	magnetic resonance spectroscopic imaging	T058	UMLS:C1522706
+28011044	524	547	glioblastoma multiforme	T038	UMLS:C1621958
+28011044	549	552	GBM	T038	UMLS:C1621958
+28011044	620	623	GBM	T038	UMLS:C1621958
+28011044	702	720	N-acetyl aspartate	T103	UMLS:C0067684
+28011044	722	725	NAA	T103	UMLS:C0067684
+28011044	731	738	choline	T103	UMLS:C0008405
+28011044	740	743	Cho	T103	UMLS:C0008405
+28011044	830	859	contrast-enhanced T1-weighted	T058	UMLS:C1707501
+28011044	861	867	CE-T1w	T058	UMLS:C1707501
+28011044	873	930	T2-weighted (T2w)/fluid-attenuated inversion recovery MRI	T058	UMLS:C3897397
+28011044	932	949	Necrotic portions	T033	UMLS:C1334928
+28011044	951	967	enhancing lesion	T033	UMLS:C3830314
+28011044	973	978	edema	T033	UMLS:C0013604
+28011044	1006	1012	CE-T1w	T170	UMLS:C1704254
+28011044	1015	1025	T2w images	T170	UMLS:C1704254
+28011044	1033	1036	GBM	T038	UMLS:C1621958
+28011044	1084	1087	NAA	T103	UMLS:C0067684
+28011044	1101	1104	Cho	T103	UMLS:C0008405
+28011044	1132	1139	Imaging	T058	UMLS:C0011923
+28011044	1144	1162	metabolic features	T201	UMLS:C1864620
+28011044	1174	1178	size	T082	UMLS:C0456389
+28011044	1180	1185	shape	T082	UMLS:C0332479
+28011044	1241	1247	Tumors	T038	UMLS:C0027651
+28011044	1315	1331	neuroradiologist	T097	UMLS:C2985415
+28011044	1409	1416	imaging	T170	UMLS:C1704254
+28011044	1550	1570	Spearman correlation	T170	UMLS:C1710141
+28011044	2065	2068	MRI	T058	UMLS:C0024485
+28011044	2073	2113	magnetic resonance spectroscopic imaging	T058	UMLS:C1522706
+28011044	2182	2185	NAA	T103	UMLS:C0067684
+28011044	2226	2229	MRI	T058	UMLS:C0024485
+28011044	2313	2316	Cho	T103	UMLS:C0008405
+28011044	2352	2359	imaging	T058	UMLS:C0011923

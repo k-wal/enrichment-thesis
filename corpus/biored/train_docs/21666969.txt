@@ -1,0 +1,41 @@
+21666969|t|Roles of G1359A polymorphism of the cannabinoid receptor gene (CNR1) on weight loss and adipocytokines after a hypocaloric diet.
+21666969|a|BACKGROUND: A intragenic biallelic polymorphism (1359 G/A) of the CB1 gene resulting in the substitution of the G to A at nucleotide position 1359 in codon 435 (Thr), was reported as a common polymorphism in Caucasian populations. Intervention studies with this polymorphism have not been realized. OBJECTIVE: We decided to investigate the role of the polymorphism (G1359A) of CB1 receptor gene on adipocytokines response and weight loss secondary to a lifestyle modification (Mediterranean hypocaloric diet and exercise) in obese patients. DESIGN: A population of 94 patients with obesity was analyzed. Before and after 3 months on a hypocaloric diet, an anthropometric evaluation, an assessment of nutritional intake and a biochemical analysis were performed. The statistical analysis was performed for the combined G1359A and A1359A as a group and wild type G1359G as second group, with a dominant model. Results: Forty seven patients (50%) had the genotype G1359G (wild type group) and 47 (50%) patients G1359A (41 patients, 43.6%) or A1359A (6 patients, 6.4%) (mutant type group) had the genotype. In wild and mutant type groups, weight, body mass index, fat mass, waist circumference and systolic blood pressure decreased. In mutant type group, resistin (4.15 1.7 ng/ml vs. 3.90 2.1 ng/ml: P < 0.05), leptin (78.4 69 ng/ml vs 66.2 32 ng/ml: P < 0.05) and IL-6 (1.40 1.9 pg/ml vs 0.81 1.5 pg/ml: P < 0.05) levels decreased after dietary treatment. CONCLUSION: The novel finding of this study is the association of the mutant allele (A1359) with a decrease of resistin, leptin and interleukin-6 secondary to weight loss.
+21666969	9	15	G1359A	SequenceVariant	rs1049353
+21666969	36	56	cannabinoid receptor	GeneOrGeneProduct	1268
+21666969	63	67	CNR1	GeneOrGeneProduct	1268
+21666969	72	83	weight loss	DiseaseOrPhenotypicFeature	D015431
+21666969	178	186	1359 G/A	SequenceVariant	rs1049353
+21666969	195	198	CB1	GeneOrGeneProduct	1268
+21666969	241	275	G to A at nucleotide position 1359	SequenceVariant	rs1049353
+21666969	279	294	codon 435 (Thr)	SequenceVariant	rs1049353
+21666969	495	501	G1359A	SequenceVariant	rs1049353
+21666969	506	518	CB1 receptor	GeneOrGeneProduct	1268
+21666969	555	566	weight loss	DiseaseOrPhenotypicFeature	D015431
+21666969	654	659	obese	DiseaseOrPhenotypicFeature	D009765
+21666969	660	668	patients	OrganismTaxon	9606
+21666969	697	705	patients	OrganismTaxon	9606
+21666969	711	718	obesity	DiseaseOrPhenotypicFeature	D009765
+21666969	947	953	G1359A	SequenceVariant	rs1049353
+21666969	958	964	A1359A	SequenceVariant	rs1049353
+21666969	990	996	G1359G	SequenceVariant	rs1049353
+21666969	1058	1066	patients	OrganismTaxon	9606
+21666969	1090	1096	G1359G	SequenceVariant	rs1049353
+21666969	1128	1136	patients	OrganismTaxon	9606
+21666969	1137	1143	G1359A	SequenceVariant	rs1049353
+21666969	1148	1156	patients	OrganismTaxon	9606
+21666969	1168	1174	A1359A	SequenceVariant	rs1049353
+21666969	1178	1186	patients	OrganismTaxon	9606
+21666969	1380	1388	resistin	GeneOrGeneProduct	56729
+21666969	1436	1442	leptin	GeneOrGeneProduct	3952
+21666969	1490	1494	IL-6	GeneOrGeneProduct	3569
+21666969	1667	1672	A1359	SequenceVariant	rs1049353
+21666969	1693	1701	resistin	GeneOrGeneProduct	56729
+21666969	1703	1709	leptin	GeneOrGeneProduct	3952
+21666969	1714	1727	interleukin-6	GeneOrGeneProduct	3569
+21666969	1741	1752	weight loss	DiseaseOrPhenotypicFeature	D015431
+21666969	Association	3569	D015431	No
+21666969	Association	3952	D015431	No
+21666969	Association	56729	D015431	No
+21666969	Association	1268	D009765	No
+21666969	Association	1268	D015431	No
+21666969	Association	rs1049353	D015431	Novel

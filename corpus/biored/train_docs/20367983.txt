@@ -1,0 +1,32 @@
+20367983|t|Mutation analysis in a Chinese family with multiple endocrine neoplasia type 1.
+20367983|a|BACKGROUND: Multiple endocrine neoplasia type 1 (MEN1) is an autosomal dominant cancer syndrome which is caused by germline mutations of the tumor suppressor gene MEN1. This study aimed to identify mutations in a Chinese pedigree with MEN1. METHODS: A large Chinese family with MEN1 was collected. All of the coded regions and their adjacent sequences of the MEN1 gene were amplified and sequenced. RESULTS: In this family, a heterozygous cytosine insertion in exon 10 (c.1546_1547insC) inducing a frame shift mutation of MEN1 was found in the proband and the other two suffering members of his family. This mutation was linked to a novel single nucleotide polymorphism (SNP) in intron 3 (IVS3 + 18C > T). CONCLUSIONS: The mutation in exon 10 of MEN1 gene might induce development of parathyroid hyperplasia and pituitary adenoma and cosegregate with MEN1 syndrome. The significance of the new found IVS3 + 18C > T of MEN1 needs a further investigation.
+20367983	43	78	multiple endocrine neoplasia type 1	DiseaseOrPhenotypicFeature	D018761
+20367983	92	127	Multiple endocrine neoplasia type 1	DiseaseOrPhenotypicFeature	D018761
+20367983	129	133	MEN1	DiseaseOrPhenotypicFeature	D018761
+20367983	141	175	autosomal dominant cancer syndrome	DiseaseOrPhenotypicFeature	D009386
+20367983	221	226	tumor	DiseaseOrPhenotypicFeature	D009369
+20367983	243	247	MEN1	GeneOrGeneProduct	4221
+20367983	315	319	MEN1	DiseaseOrPhenotypicFeature	D018761
+20367983	358	362	MEN1	DiseaseOrPhenotypicFeature	D018761
+20367983	439	443	MEN1	GeneOrGeneProduct	4221
+20367983	519	537	cytosine insertion	SequenceVariant	c|INS||C
+20367983	550	565	c.1546_1547insC	SequenceVariant	c|INS|1546_1547|C
+20367983	602	606	MEN1	GeneOrGeneProduct	4221
+20367983	769	783	IVS3 + 18C > T	SequenceVariant	c|SUB|C|IVS3+18|T
+20367983	826	830	MEN1	GeneOrGeneProduct	4221
+20367983	864	887	parathyroid hyperplasia	DiseaseOrPhenotypicFeature	D006965
+20367983	892	909	pituitary adenoma	DiseaseOrPhenotypicFeature	D010911
+20367983	931	944	MEN1 syndrome	DiseaseOrPhenotypicFeature	D018761
+20367983	980	994	IVS3 + 18C > T	SequenceVariant	c|SUB|C|IVS3+18|T
+20367983	998	1002	MEN1	GeneOrGeneProduct	4221
+20367983	Negative_Correlation	D009369	4221	No
+20367983	Positive_Correlation	c|INS||C	D018761	Novel
+20367983	Positive_Correlation	c|INS||C	D010911	Novel
+20367983	Positive_Correlation	c|INS||C	D006965	Novel
+20367983	Association	4221	D018761	No
+20367983	Association	4221	D010911	No
+20367983	Association	4221	D006965	No
+20367983	Positive_Correlation	c|INS|1546_1547|C	D018761	Novel
+20367983	Positive_Correlation	c|INS|1546_1547|C	D010911	Novel
+20367983	Positive_Correlation	c|INS|1546_1547|C	D006965	Novel
+20367983	Association	c|INS|1546_1547|C	c|SUB|C|IVS3+18|T	Novel

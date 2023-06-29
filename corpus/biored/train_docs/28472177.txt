@@ -1,0 +1,92 @@
+28472177|t|Ubiquitin carboxyl-terminal esterase L1 (UCHL1) is associated with stem-like cancer cell functions in pediatric high-grade glioma.
+28472177|a|Pediatric high-grade gliomas represent 8-12% of all primary tumors of the nervous system in children. Five-year survival for these pediatric aggressive tumors is poor (15-35%) indicating the need to develop better treatments for pediatric high-grade gliomas. In this work we used SF188 and SJ-GBM2 cell lines to study the function of the ubiquitin carboxyl-terminal esterase L1 (UCHL1), a deubiquitinase de-regulated in several cancers, in pediatric high-grade gliomas. UCHL1 depletion in SF188 and SJ-GBM2 glioma cells was associated with decreased cell proliferation and invasion, along with a reduced ability to grow in soft agar and to form spheres (i.e. self-renewal measure). A 70% reduction in Wnt signaling was also observed in the SF188 and SJ-GBM2 UCHL1 knockdowns (KDs) using a TCF-dependent TOPflash reporter assay. Transcriptome comparisons of UCHL1 KDs versus vector control identified a list of 306 differentially expressed genes (at least 2-fold change; p    <0.05) which included genes known to be involved in cancer like ACTA2, POSTN, LIF, FBXL7, FBXW11, GDF15, HEY2, but also potential novel genes such us IGLL5, ABCA4, AQP3, AQP4, CALB1, and ALK. Bioinformatics gene ontology (GO) analysis of these 306 genes revealed significant enrichment in "signal peptides", "extracellular matrix"and "secreted proteins" GO Terms. "Angiogenesis and blood vessel development", "neuron differentiation/development", cell adhesion", and "cell migration" also showed significant enrichment in our GO analysis. Top canonical pathways identified by Ingenuity Pathway Analysis (IPA) included "Clathrin-mediated Endocytosis Signaling" (p = 5.14x10-4), "Virus Entry via Endocytic Pathways" (p = 6.15x 10-4), and "High Mobility Group-Box 1 (HMGB1) Signaling" (p = 6.15x10-4). While FGF2, IL1B, TNF and PDGFB were predicted as top upstream regulators (p    < 2x10-16) of the UCHL1 KD-associated transcriptome. Aberrant expression of UCHL1 in pediatric high-grade gliomas may promote cell invasion, transformation, and self-renewal properties, at least in part, by modulating Wnt/Beta catenin activity. UCHL1 might act as an oncogene in glioma within the gene network that imparts stem-like characteristics to these cancer cells.
+28472177	0	39	Ubiquitin carboxyl-terminal esterase L1	GeneOrGeneProduct	7345
+28472177	41	46	UCHL1	GeneOrGeneProduct	7345
+28472177	77	83	cancer	DiseaseOrPhenotypicFeature	D009369
+28472177	123	129	glioma	DiseaseOrPhenotypicFeature	D005910
+28472177	152	159	gliomas	DiseaseOrPhenotypicFeature	D005910
+28472177	191	197	tumors	DiseaseOrPhenotypicFeature	D009369
+28472177	283	289	tumors	DiseaseOrPhenotypicFeature	D009369
+28472177	381	388	gliomas	DiseaseOrPhenotypicFeature	D005910
+28472177	411	416	SF188	CellLine	CVCL_6948
+28472177	421	428	SJ-GBM2	CellLine	CVCL_M141
+28472177	469	508	ubiquitin carboxyl-terminal esterase L1	GeneOrGeneProduct	7345
+28472177	510	515	UCHL1	GeneOrGeneProduct	7345
+28472177	559	566	cancers	DiseaseOrPhenotypicFeature	D009369
+28472177	592	599	gliomas	DiseaseOrPhenotypicFeature	D005910
+28472177	601	606	UCHL1	GeneOrGeneProduct	7345
+28472177	620	625	SF188	CellLine	CVCL_6948
+28472177	630	637	SJ-GBM2	CellLine	CVCL_M141
+28472177	638	644	glioma	DiseaseOrPhenotypicFeature	D005910
+28472177	759	763	agar	ChemicalEntity	D000362
+28472177	832	835	Wnt	GeneOrGeneProduct	7474
+28472177	871	876	SF188	CellLine	CVCL_6948
+28472177	881	888	SJ-GBM2	CellLine	CVCL_M141
+28472177	889	894	UCHL1	GeneOrGeneProduct	7345
+28472177	920	923	TCF	GeneOrGeneProduct	6934
+28472177	988	993	UCHL1	GeneOrGeneProduct	7345
+28472177	1158	1164	cancer	DiseaseOrPhenotypicFeature	D009369
+28472177	1170	1175	ACTA2	GeneOrGeneProduct	59
+28472177	1177	1182	POSTN	GeneOrGeneProduct	10631
+28472177	1184	1187	LIF	GeneOrGeneProduct	3976
+28472177	1189	1194	FBXL7	GeneOrGeneProduct	23194
+28472177	1196	1202	FBXW11	GeneOrGeneProduct	23291
+28472177	1204	1209	GDF15	GeneOrGeneProduct	9518
+28472177	1211	1215	HEY2	GeneOrGeneProduct	23493
+28472177	1256	1261	IGLL5	GeneOrGeneProduct	100423062
+28472177	1263	1268	ABCA4	GeneOrGeneProduct	24
+28472177	1270	1274	AQP3	GeneOrGeneProduct	360
+28472177	1276	1280	AQP4	GeneOrGeneProduct	361
+28472177	1282	1287	CALB1	GeneOrGeneProduct	793
+28472177	1293	1296	ALK	GeneOrGeneProduct	238
+28472177	1725	1733	Clathrin	GeneOrGeneProduct	1213
+28472177	1843	1868	High Mobility Group-Box 1	GeneOrGeneProduct	3146
+28472177	1870	1875	HMGB1	GeneOrGeneProduct	3146
+28472177	1911	1915	FGF2	GeneOrGeneProduct	2247
+28472177	1917	1921	IL1B	GeneOrGeneProduct	3553
+28472177	1923	1926	TNF	GeneOrGeneProduct	7124
+28472177	1931	1936	PDGFB	GeneOrGeneProduct	5155
+28472177	2003	2008	UCHL1	GeneOrGeneProduct	7345
+28472177	2061	2066	UCHL1	GeneOrGeneProduct	7345
+28472177	2091	2098	gliomas	DiseaseOrPhenotypicFeature	D005910
+28472177	2203	2206	Wnt	GeneOrGeneProduct	7474
+28472177	2207	2219	Beta catenin	GeneOrGeneProduct	1499
+28472177	2230	2235	UCHL1	GeneOrGeneProduct	7345
+28472177	2264	2270	glioma	DiseaseOrPhenotypicFeature	D005910
+28472177	2343	2349	cancer	DiseaseOrPhenotypicFeature	D009369
+28472177	Association	D005910	1499	No
+28472177	Association	D005910	7474	No
+28472177	Association	5155	7345	Novel
+28472177	Association	7124	7345	Novel
+28472177	Association	3553	7345	Novel
+28472177	Association	2247	7345	Novel
+28472177	Association	D009369	238	No
+28472177	Association	D009369	793	No
+28472177	Association	D009369	361	No
+28472177	Association	D009369	360	No
+28472177	Association	D009369	24	No
+28472177	Association	D009369	100423062	No
+28472177	Association	D009369	23493	No
+28472177	Association	D009369	9518	No
+28472177	Association	D009369	23291	No
+28472177	Association	D009369	23194	No
+28472177	Association	D009369	3976	No
+28472177	Association	D009369	10631	No
+28472177	Association	D009369	59	No
+28472177	Association	7345	D005910	Novel
+28472177	Association	7345	1499	Novel
+28472177	Association	7345	D009369	Novel
+28472177	Association	7345	238	Novel
+28472177	Association	7345	793	Novel
+28472177	Association	7345	361	Novel
+28472177	Association	7345	360	Novel
+28472177	Association	7345	24	Novel
+28472177	Association	7345	100423062	Novel
+28472177	Association	7345	23493	Novel
+28472177	Association	7345	9518	Novel
+28472177	Association	7345	23291	Novel
+28472177	Association	7345	23194	Novel
+28472177	Association	7345	3976	Novel
+28472177	Association	7345	10631	Novel
+28472177	Association	7345	59	Novel
+28472177	Positive_Correlation	7474	7345	Novel

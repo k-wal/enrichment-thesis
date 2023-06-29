@@ -1,0 +1,36 @@
+21238926|t|Brat promotes stem cell differentiation via control of a bistable switch that restricts BMP signaling.
+21238926|a|Drosophila ovarian germline stem cells (GSCs) are maintained by Dpp signaling and the Pumilio (Pum) and Nanos (Nos) translational repressors. Upon division, Dpp signaling is extinguished, and Nos is downregulated in one daughter cell, causing it to switch to a differentiating cystoblast (CB). However, downstream effectors of Pum-Nos remain unknown, and how CBs lose their responsiveness to Dpp is unclear. Here, we identify Brain Tumor (Brat) as a potent differentiation factor and target of Pum-Nos regulation. Brat is excluded from GSCs by Pum-Nos but functions with Pum in CBs to translationally repress distinct targets, including the Mad and dMyc mRNAs. Regulation of both targets simultaneously lowers cellular responsiveness to Dpp signaling, forcing the cell to become refractory to the self-renewal signal. Mathematical modeling elucidates bistability of cell fate in the Brat-mediated system, revealing how autoregulation of GSC number can arise from Brat coupling extracellular Dpp regulation to intracellular interpretation.
+21238926	0	4	Brat	GeneOrGeneProduct	35197
+21238926	88	91	BMP	GeneOrGeneProduct	33432
+21238926	103	113	Drosophila	OrganismTaxon	7227
+21238926	167	170	Dpp	GeneOrGeneProduct	33432
+21238926	189	196	Pumilio	GeneOrGeneProduct	41094
+21238926	198	201	Pum	GeneOrGeneProduct	41094
+21238926	207	212	Nanos	GeneOrGeneProduct	42297
+21238926	214	217	Nos	GeneOrGeneProduct	42297
+21238926	260	263	Dpp	GeneOrGeneProduct	33432
+21238926	295	298	Nos	GeneOrGeneProduct	42297
+21238926	430	433	Pum	GeneOrGeneProduct	41094
+21238926	434	437	Nos	GeneOrGeneProduct	42297
+21238926	495	498	Dpp	GeneOrGeneProduct	33432
+21238926	529	540	Brain Tumor	GeneOrGeneProduct	35197
+21238926	542	546	Brat	GeneOrGeneProduct	35197
+21238926	597	600	Pum	GeneOrGeneProduct	41094
+21238926	601	604	Nos	GeneOrGeneProduct	42297
+21238926	617	621	Brat	GeneOrGeneProduct	35197
+21238926	647	650	Pum	GeneOrGeneProduct	41094
+21238926	651	654	Nos	GeneOrGeneProduct	42297
+21238926	674	677	Pum	GeneOrGeneProduct	41094
+21238926	744	747	Mad	GeneOrGeneProduct	33529
+21238926	752	756	dMyc	GeneOrGeneProduct	31310
+21238926	840	843	Dpp	GeneOrGeneProduct	33432
+21238926	986	990	Brat	GeneOrGeneProduct	35197
+21238926	1066	1070	Brat	GeneOrGeneProduct	35197
+21238926	1094	1097	Dpp	GeneOrGeneProduct	33432
+21238926	Negative_Correlation	41094	31310	Novel
+21238926	Negative_Correlation	41094	33529	Novel
+21238926	Association	35197	33432	Novel
+21238926	Negative_Correlation	35197	31310	Novel
+21238926	Negative_Correlation	35197	33529	Novel
+21238926	Association	35197	42297	Novel
+21238926	Association	35197	41094	Novel

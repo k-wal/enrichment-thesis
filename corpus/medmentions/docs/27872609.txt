@@ -1,0 +1,47 @@
+27872609|t|Panitumumab -Associated Encephalopathy after Accidental Intra-arterial Application through Dislocated Central Venous Access Device
+27872609|a|Acute central nervous system (CNS) toxicity and immune -related side effects are increasingly recognized with the use of monoclonal antibodies for cancer therapy. Here, we report a patient who developed of acute-onset encephalopathy and coma, which began shortly after administration of panitumumab for the treatment of metastatic colorectal cancer. Echocardiography revealed that the drug had been infused into the left cardiac ventricle via a dislocated central venous line. Diffusion-weighted magnetic resonance imaging disclosed multiple cortical hyperintensities, which were preferentially located in the frontal lobes. While the neurological condition improved within a few days, the patient died 4 weeks later. It seems likely that the administration of the antibody via the intra-arterial route contributed to the development of this condition. Toxic encephalopathy may be a hitherto unrecognized complication of panitumumab treatment and should be taken into consideration in patients developing CNS symptoms undergoing this therapy.
+27872609	0	11	Panitumumab	T116,T121,T129	C0879427
+27872609	24	38	Encephalopathy	T047	C0085584
+27872609	56	70	Intra-arterial	T169	C1561451
+27872609	71	82	Application	T058	C0185125
+27872609	91	130	Dislocated Central Venous Access Device	T074	C0025080
+27872609	131	136	Acute	T079	C0205178
+27872609	137	159	central nervous system	T022	C3714787
+27872609	161	164	CNS	T022	C3714787
+27872609	166	174	toxicity	T037	C3160947
+27872609	179	185	immune	T169	C0439662
+27872609	195	207	side effects	T046	C0879626
+27872609	252	273	monoclonal antibodies	T116,T129	C0003250
+27872609	278	292	cancer therapy	T061	C0920425
+27872609	312	319	patient	T101	C0030705
+27872609	337	363	acute-onset encephalopathy	T033	C4014441
+27872609	368	372	coma	T047	C0009421
+27872609	400	414	administration	T169	C1621583
+27872609	418	429	panitumumab	T116,T121,T129	C0879427
+27872609	438	447	treatment	T061	C0087111
+27872609	451	479	metastatic colorectal cancer	T191	C0948380
+27872609	481	497	Echocardiography	T060	C0013516
+27872609	516	520	drug	T121	C0013227
+27872609	547	569	left cardiac ventricle	T023	C0225897
+27872609	576	606	dislocated central venous line	T074	C0025080
+27872609	608	653	Diffusion-weighted magnetic resonance imaging	T060	C0598801
+27872609	673	698	cortical hyperintensities	T033	C3149362
+27872609	741	754	frontal lobes	T023	C0016733
+27872609	766	788	neurological condition	T047	C0027765
+27872609	811	815	days	T079	C0439228
+27872609	821	828	patient	T101	C0030705
+27872609	829	833	died	T040	C0011065
+27872609	836	841	weeks	T079	C0439230
+27872609	874	888	administration	T169	C1621583
+27872609	896	904	antibody	T116,T129	C0003241
+27872609	913	933	intra-arterial route	T169	C1561451
+27872609	973	982	condition	T047	C0012634
+27872609	984	1004	Toxic encephalopathy	T037	C0149504
+27872609	1014	1022	hitherto	T079	C0205156
+27872609	1036	1048	complication	T046	C0009566
+27872609	1052	1063	panitumumab	T116,T121,T129	C0879427
+27872609	1064	1073	treatment	T061	C0087111
+27872609	1116	1124	patients	T101	C0030705
+27872609	1136	1139	CNS	T022	C3714787
+27872609	1140	1148	symptoms	T184	C1457887
+27872609	1165	1172	therapy	T061	C0087111

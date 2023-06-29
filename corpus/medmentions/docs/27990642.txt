@@ -1,0 +1,82 @@
+27990642|t|Anemia tolerance during normo -, hypo -, and hypervolemia
+27990642|a|Restrictive intraoperative fluid management has been demonstrated to improve outcome of visceral and lung surgery in several studies. However, subsequent hypovolemia (HOV) may be accompanied by a decrease of anemia tolerance, resulting in increased transfusion needs. We therefore investigated the effect of volume status on anemia tolerance. Eighteen domestic pigs of either sex (mean weight, 23.5 ± 4.8 kg) were anesthetized, ventilated, and randomized into three experimental groups: normovolemia (no intervention), HOV (blood loss of 40% of blood volume), and hypervolemia (HEV; volume infusion of 40% of blood volume). The animals were then hemodiluted until their individual critical hemoglobin concentrations (Hbcrit) were reached by the exchange of whole blood for hydroxyethyl starch (HES; 130:0.4). Subsequently, organ-specific hypoxia was assessed using pimonidazole tissue staining in relevant organs. Hemodynamic and metabolic variables were also investigated. Despite significant differences in exchangeable blood volume, Hbcrit was the same in all groups (2.3 g/dL, NS). During HOV, tissue hypoxia was aggravated in the myocardium, brain, and kidneys, whereas tissue oxygenation of the liver and intestine was not influenced by volume status. HEV increased tissue hypoxia in the lungs, but did not impact tissue oxygenation of other organs. The combination of hemorrhagic HOV with subsequent anemia leads to accentuated tissue hypoxia, revealed by a significant increase in pimonidazole binding at Hbcrit, in heart, lungs, brain, and kidney. The lungs were the only organ that showed increased tissue hypoxia after pretreatment of HES infusion and subsequent anemia by normovolemic hemodilution.
+27990642	0	6	Anemia	T047	C0002871
+27990642	7	16	tolerance	T080	C1704410
+27990642	24	29	normo	T039	C0232091
+27990642	33	37	hypo	T033	C0546884
+27990642	45	57	hypervolemia	T047	C0546817
+27990642	70	84	intraoperative	T058	C0021889
+27990642	85	101	fluid management	T061	C0553741
+27990642	146	154	visceral	T082	C0442045
+27990642	159	171	lung surgery	T061	C0038903
+27990642	212	223	hypovolemia	T033	C0546884
+27990642	225	228	HOV	T033	C0546884
+27990642	266	272	anemia	T047	C0002871
+27990642	273	282	tolerance	T080	C1704410
+27990642	307	318	transfusion	T061	C0005841
+27990642	366	379	volume status	T201	C0005850
+27990642	383	389	anemia	T047	C0002871
+27990642	390	399	tolerance	T080	C1704410
+27990642	410	423	domestic pigs	T015	C1136016
+27990642	434	437	sex	T032	C1522384
+27990642	472	484	anesthetized	T033	C1720436
+27990642	486	496	ventilated	T169	C0231923
+27990642	537	543	groups	T096	C1642385
+27990642	545	557	normovolemia	T039	C0232091
+27990642	577	580	HOV	T033	C0546884
+27990642	582	592	blood loss	T046	C0019080
+27990642	603	615	blood volume	T201	C0005850
+27990642	622	634	hypervolemia	T047	C0546817
+27990642	636	639	HEV	T047	C0546817
+27990642	641	647	volume	T201	C0005850
+27990642	648	656	infusion	T061	C0574032
+27990642	667	679	blood volume	T201	C0005850
+27990642	686	693	animals	T008	C0003062
+27990642	704	715	hemodiluted	T061	C0019009
+27990642	739	773	critical hemoglobin concentrations	T034	C1318517
+27990642	775	781	Hbcrit	T034	C1318517
+27990642	815	826	whole blood	T031	C0370231
+27990642	831	850	hydroxyethyl starch	T109,T121	C0020352
+27990642	852	855	HES	T109,T121	C0020352
+27990642	896	903	hypoxia	T046	C0242184
+27990642	923	935	pimonidazole	T109,T130	C0071072
+27990642	936	951	tissue staining	T059	C0487602
+27990642	964	970	organs	T023	C0003055
+27990642	972	983	Hemodynamic	T042	C0019010
+27990642	988	997	metabolic	T040	C0025519
+27990642	998	1007	variables	T080	C0439828
+27990642	1080	1092	blood volume	T201	C0005850
+27990642	1094	1100	Hbcrit	T034	C1318517
+27990642	1121	1127	groups	T096	C1642385
+27990642	1151	1154	HOV	T033	C0546884
+27990642	1163	1170	hypoxia	T046	C0242184
+27990642	1193	1203	myocardium	T024	C0027061
+27990642	1205	1210	brain	T023	C0006104
+27990642	1216	1223	kidneys	T023	C0022646
+27990642	1233	1251	tissue oxygenation	T042	C0872293
+27990642	1259	1264	liver	T023	C0023884
+27990642	1269	1278	intestine	T023	C0021853
+27990642	1301	1314	volume status	T201	C0005850
+27990642	1316	1319	HEV	T047	C0546817
+27990642	1330	1344	tissue hypoxia	T046	C0242184
+27990642	1352	1357	lungs	T023	C0024109
+27990642	1378	1396	tissue oxygenation	T042	C0872293
+27990642	1406	1412	organs	T023	C0003055
+27990642	1433	1444	hemorrhagic	T046	C0019080
+27990642	1445	1448	HOV	T033	C0546884
+27990642	1465	1471	anemia	T047	C0002871
+27990642	1493	1507	tissue hypoxia	T046	C0242184
+27990642	1547	1559	pimonidazole	T109,T130	C0071072
+27990642	1571	1577	Hbcrit	T034	C1318517
+27990642	1582	1587	heart	T023	C0018787
+27990642	1589	1594	lungs	T023	C0024109
+27990642	1596	1601	brain	T023	C0006104
+27990642	1607	1613	kidney	T023	C0022646
+27990642	1619	1624	lungs	T023	C0024109
+27990642	1639	1644	organ	T023	C0003055
+27990642	1667	1681	tissue hypoxia	T046	C0242184
+27990642	1704	1707	HES	T109,T121	C0020352
+27990642	1708	1716	infusion	T061	C0574032
+27990642	1732	1738	anemia	T047	C0002871
+27990642	1742	1754	normovolemic	T039	C0232091
+27990642	1755	1767	hemodilution	T061	C0019009

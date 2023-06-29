@@ -1,0 +1,70 @@
+27608421|t|Condition - dependent co-regulation of genomic clusters of virulence factors in the grapevine trunk pathogen Neofusicoccum parvum
+27608421|a|The ascomycete Neofusicoccum parvum, one of the causal agents of Botryosphaeria dieback, is a destructive wood - infecting fungus and a serious threat to grape production worldwide. The capability of colonizing woody tissue combined with the secretion of phytotoxic compounds is thought to underlie its pathogenicity and virulence. Here, we describe the repertoire of virulence factors and their transcriptional dynamics as the fungus feeds on different substrates and colonizes the woody stem. We assembled and annotated a highly contiguous genome using single molecule real-time DNA sequencing. Transcriptome profiling by RNA-sequencing determined the genome -wide patterns of expression of virulence factors both in vitro (potato dextrose agar or medium amended with grape wood as substrate) and in planta. Pairwise statistical testing of differential expression followed by co-expression network analysis revealed that physically clustered genes coding for putative virulence functions were induced depending on substrate or stage of plant infection. Co-expressed gene clusters were significantly enriched not only in genes associated with secondary metabolism, but also with cell wall degradation, suggesting that dynamic co-regulation of transcriptional networks contribute to multiple aspects of N. parvum virulence. In most of the co-expressed clusters, all genes shared at least a common motif in their promoter region indicative of co-regulation by the same transcription factor. Co-expression analysis also identified chromatin regulators with correlated expression with inducible clusters of virulence factors, suggesting a complex, multi-layered regulation of the virulence repertoire of N. parvum. This article is protected by copyright. All rights reserved.
+27608421	22	35	co-regulation	T038	UMLS:C1327622
+27608421	39	55	genomic clusters	T017	UMLS:C0017258
+27608421	59	76	virulence factors	T103	UMLS:C1136170
+27608421	84	99	grapevine trunk	T038	UMLS:C0012634
+27608421	109	129	Neofusicoccum parvum	T204	UMLS:C2269732
+27608421	134	144	ascomycete	T204	UMLS:C0003965
+27608421	145	165	Neofusicoccum parvum	T204	UMLS:C2269732
+27608421	178	191	causal agents	T033	UMLS:C0449411
+27608421	195	217	Botryosphaeria dieback	T204	UMLS:C1011772
+27608421	243	252	infecting	T033	UMLS:C0439663
+27608421	253	259	fungus	T204	UMLS:C0016832
+27608421	284	289	grape	T168	UMLS:C0018208
+27608421	301	310	worldwide	T098	UMLS:C2700280
+27608421	330	340	colonizing	T033	UMLS:C4289767
+27608421	341	353	woody tissue	T017	UMLS:C1514137
+27608421	372	381	secretion	T038	UMLS:C0036536
+27608421	396	405	compounds	T103	UMLS:C1706082
+27608421	451	460	virulence	T038	UMLS:C0042765
+27608421	498	515	virulence factors	T103	UMLS:C1136170
+27608421	526	541	transcriptional	T038	UMLS:C0040649
+27608421	558	564	fungus	T204	UMLS:C0016832
+27608421	565	570	feeds	T168	UMLS:C0016452
+27608421	599	608	colonizes	T033	UMLS:C4289767
+27608421	613	623	woody stem	T204	UMLS:C2699642
+27608421	661	671	contiguous	T082	UMLS:C0205283
+27608421	672	678	genome	T017	UMLS:C0017428
+27608421	727	750	Transcriptome profiling	T058	UMLS:C0752248
+27608421	754	768	RNA-sequencing	T058	UMLS:C0917793
+27608421	784	790	genome	T017	UMLS:C0017428
+27608421	797	805	patterns	T082	UMLS:C0449774
+27608421	809	819	expression	T038	UMLS:C0017262
+27608421	823	840	virulence factors	T103	UMLS:C1136170
+27608421	856	862	potato	T168	UMLS:C0032846
+27608421	863	876	dextrose agar	T103	UMLS:C3266617
+27608421	880	886	medium	T103	UMLS:C0010454
+27608421	900	905	grape	T168	UMLS:C0018208
+27608421	932	938	planta	T204	UMLS:C0032098
+27608421	940	968	Pairwise statistical testing	T170	UMLS:C0237913
+27608421	985	995	expression	T038	UMLS:C0017262
+27608421	1008	1038	co-expression network analysis	T062	UMLS:C1880945
+27608421	1064	1079	clustered genes	T017	UMLS:C0017258
+27608421	1080	1086	coding	T082	UMLS:C0017380
+27608421	1100	1109	virulence	T038	UMLS:C0042765
+27608421	1168	1173	plant	T204	UMLS:C0032098
+27608421	1174	1183	infection	T038	UMLS:C3714514
+27608421	1185	1197	Co-expressed	T038	UMLS:C0017262
+27608421	1198	1211	gene clusters	T017	UMLS:C0017258
+27608421	1252	1257	genes	T017	UMLS:C0017337
+27608421	1274	1294	secondary metabolism	T038	UMLS:C0260000
+27608421	1310	1331	cell wall degradation	T038	UMLS:C1157855
+27608421	1357	1370	co-regulation	T038	UMLS:C1327622
+27608421	1374	1398	transcriptional networks	T038	UMLS:C1720950
+27608421	1433	1442	N. parvum	T204	UMLS:C2269732
+27608421	1443	1452	virulence	T038	UMLS:C0042765
+27608421	1469	1481	co-expressed	T038	UMLS:C0017262
+27608421	1482	1490	clusters	T017	UMLS:C0017258
+27608421	1496	1501	genes	T017	UMLS:C0017337
+27608421	1542	1557	promoter region	T103	UMLS:C0033413
+27608421	1572	1585	co-regulation	T038	UMLS:C1327622
+27608421	1598	1618	transcription factor	T103	UMLS:C0040648
+27608421	1620	1642	Co-expression analysis	T062	UMLS:C1880945
+27608421	1659	1668	chromatin	T103	UMLS:C0008546
+27608421	1696	1706	expression	T038	UMLS:C0017262
+27608421	1722	1730	clusters	T017	UMLS:C0017258
+27608421	1734	1751	virulence factors	T103	UMLS:C1136170
+27608421	1789	1799	regulation	T038	UMLS:C1327622
+27608421	1807	1816	virulence	T038	UMLS:C0042765
+27608421	1831	1840	N. parvum	T204	UMLS:C2269732

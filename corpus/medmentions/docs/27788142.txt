@@ -1,0 +1,71 @@
+27788142|t|The Pre-Eclampsia Ontology: A Disease Ontology Representing the Domain Knowledge Specific to Pre-Eclampsia
+27788142|a|Pre-eclampsia (PE) is a clinical syndrome characterized by new-onset hypertension and proteinuria at ≥20 weeks of gestation, and is a leading cause of maternal and perinatal morbidity and mortality. Previous studies have gathered abundant data about PE such as risk factors and pathological findings. However, most of these data are not semantically structured. Clinical data on PE patients are often generated with semantic heterogeneity such as using disparate terminology to describe the same phenomena. In clinical studies, interoperability of heterogenic clinical data is required in various situations. In such a situation, it is necessary to develop an interoperable and standardized semantic framework to research the pathology of PE more comprehensively and to achieve interoperability of heterogenic clinical data of PE patients. In this study, we developed an ontology representing clinical features, treatments, genetic factors, environmental factors, and other aspects of the current knowledge in the domain of PE. We call this pre-eclampsia ontology " PEO ". To achieve interoperability with other ontologies, the core structure of PEO was compliant with the hierarchy of the Basic Formal Ontology (BFO). The PEO incorporates a wide range of key concepts and terms of PE from clinical and biomedical research in structuring the knowledge base that is specific to PE; therefore, PEO is expected to enhance PE -specific information retrieval and knowledge discovery in both clinical and biomedical research fields.
+27788142	4	17	Pre-Eclampsia	T046	C0032914
+27788142	18	26	Ontology	T077	C1707788
+27788142	30	46	Disease Ontology	T077	C1707788
+27788142	93	106	Pre-Eclampsia	T046	C0032914
+27788142	107	120	Pre-eclampsia	T046	C0032914
+27788142	122	124	PE	T046	C0032914
+27788142	131	148	clinical syndrome	T185	C0221444
+27788142	166	188	new-onset hypertension	UnknownType	C0745129
+27788142	193	204	proteinuria	T033	C0033687
+27788142	208	230	≥20 weeks of gestation	T033	C1998040
+27788142	249	254	cause	T169	C0015127
+27788142	258	266	maternal	T033	C3656218
+27788142	271	290	perinatal morbidity	T046	C0848215
+27788142	295	304	mortality	T081	C0205848
+27788142	337	345	abundant	T080	C2346714
+27788142	346	350	data	T078	C1511726
+27788142	357	359	PE	T046	C0032914
+27788142	368	380	risk factors	T033	C0035648
+27788142	385	406	pathological findings	T169	C0205469
+27788142	431	435	data	T078	C1511726
+27788142	469	482	Clinical data	T170	C1516606
+27788142	486	488	PE	T046	C0032914
+27788142	489	497	patients	T101	C0030705
+27788142	523	531	semantic	T078	C0036612
+27788142	532	545	heterogeneity	T080	C0019409
+27788142	560	581	disparate terminology	T170	C0028275
+27788142	603	612	phenomena	T067	C1882365
+27788142	617	633	clinical studies	T062	C0008972
+27788142	655	666	heterogenic	T078	C1512426
+27788142	667	680	clinical data	T170	C1516606
+27788142	704	714	situations	T169	C0868928
+27788142	726	735	situation	T169	C0868928
+27788142	798	806	semantic	T078	C0036612
+27788142	807	816	framework	T077	C1254372
+27788142	820	828	research	T062	C0035168
+27788142	833	842	pathology	T169	C0205469
+27788142	846	848	PE	T046	C0032914
+27788142	905	916	heterogenic	T078	C1512426
+27788142	917	930	clinical data	T170	C1516606
+27788142	934	936	PE	T046	C0032914
+27788142	937	945	patients	T101	C0030705
+27788142	978	986	ontology	T077	C1707788
+27788142	1000	1017	clinical features	T201	C0683325
+27788142	1019	1029	treatments	T061	C0087111
+27788142	1031	1046	genetic factors	T080	C0814299
+27788142	1048	1069	environmental factors	T080	C0686732
+27788142	1081	1088	aspects	T080	C1879746
+27788142	1131	1133	PE	T046	C0032914
+27788142	1148	1161	pre-eclampsia	T046	C0032914
+27788142	1162	1170	ontology	T077	C1707788
+27788142	1173	1176	PEO	T077	C1707788
+27788142	1219	1229	ontologies	T077	C1707788
+27788142	1253	1256	PEO	T077	C1707788
+27788142	1297	1318	Basic Formal Ontology	T090	C1518584
+27788142	1320	1323	BFO	T090	C1518584
+27788142	1330	1333	PEO	T077	C1707788
+27788142	1367	1375	concepts	T078	C0178566
+27788142	1380	1385	terms	T079	C1515273
+27788142	1389	1391	PE	T046	C0032914
+27788142	1397	1405	clinical	T062	C0008972
+27788142	1410	1429	biomedical research	T062	C0005540
+27788142	1484	1486	PE	T046	C0032914
+27788142	1499	1502	PEO	T077	C1707788
+27788142	1518	1525	enhance	T052	C2349975
+27788142	1526	1528	PE	T046	C0032914
+27788142	1539	1560	information retrieval	T057	C0079623
+27788142	1593	1601	clinical	T062	C0008972
+27788142	1606	1625	biomedical research	T062	C0005540
+27788142	1626	1632	fields	UnknownType	C0683945

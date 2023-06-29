@@ -1,0 +1,82 @@
+27621953|t|Intrapartum Cervical Laceration and Subsequent Pregnancy Outcomes
+27621953|a|The objective of this study was to describe pregnancy outcomes, including cervical insufficiency and preterm birth, in the subsequent pregnancy following an intrapartum cervical laceration. Retrospective cohort of women with their first two consecutive singleton pregnancies carried to ≥ 20(0/7) weeks ' gestation within a tertiary health care system from 2002 to 2012. Cervical laceration cases were identified by ICD9 codes and included if suture repair was required. In this study, 55 women were confirmed to have a cervical laceration in the first delivery; 43 lacerations after vaginal delivery (VD) and 12 after cesarean delivery (CD). The median gestational age of the first delivery was 40(0/7) weeks and the median birth weight 3,545 g; these did not differ between VD and CD. In the second pregnancy, 2 of 55 women (4.6%) had a prophylactic cerclage placed; 1 carried to term and the other delivered at 35(6/7) weeks. In total, four women (9.3%) delivered the second pregnancy < 37 weeks: three had a prior term VD and one had a prior 34 weeks VD. There was only one case of recurrent cervical laceration, occurring in the setting of vaginal deliveries. Obstetric cervical lacerations are uncommon. Complications in the following pregnancy were low, despite lack of additional prophylactic cerclage use.
+27621953	0	11	Intrapartum	T079	C0456337
+27621953	12	31	Cervical Laceration	T037	C0007851
+27621953	47	65	Pregnancy Outcomes	T033	C0032972
+27621953	70	79	objective	T170	C0018017
+27621953	88	93	study	T062	C2603343
+27621953	110	128	pregnancy outcomes	T033	C0032972
+27621953	140	162	cervical insufficiency	T047	C1401059
+27621953	167	180	preterm birth	T033	C0151526
+27621953	200	209	pregnancy	T040	C0032961
+27621953	210	219	following	T079	C0332282
+27621953	223	234	intrapartum	T079	C0456337
+27621953	235	254	cervical laceration	T037	C0007851
+27621953	270	276	cohort	T098	C0599755
+27621953	280	285	women	T098	C0043210
+27621953	307	318	consecutive	T080	C1707491
+27621953	319	340	singleton pregnancies	T040	C0341899
+27621953	362	367	weeks	T079	C0439230
+27621953	370	379	gestation	T040	C0032961
+27621953	389	416	tertiary health care system	T093	C0018696
+27621953	436	455	Cervical laceration	T037	C0007851
+27621953	456	461	cases	T077	C1706256
+27621953	467	477	identified	T080	C0205396
+27621953	481	491	ICD9 codes	T170	C1550213
+27621953	496	504	included	T169	C0332257
+27621953	508	521	suture repair	T061	C0087111
+27621953	526	534	required	T169	C1514873
+27621953	544	549	study	T062	C2603343
+27621953	554	559	women	T098	C0043210
+27621953	565	574	confirmed	T033	C0750484
+27621953	585	604	cervical laceration	T037	C0007851
+27621953	618	626	delivery	T040	C0005615
+27621953	631	642	lacerations	T037	C0043246
+27621953	649	665	vaginal delivery	T061	C1541822
+27621953	666	670	(VD)	T061	C1541822
+27621953	684	701	cesarean delivery	T061	C0007876
+27621953	702	706	(CD)	T061	C0007876
+27621953	712	718	median	T081	C0876920
+27621953	719	734	gestational age	T032	C0017504
+27621953	748	756	delivery	T040	C0005615
+27621953	769	774	weeks	T079	C0439230
+27621953	783	789	median	T081	C0876920
+27621953	790	802	birth weight	T032	C0005612
+27621953	826	832	differ	T080	C1705242
+27621953	841	843	VD	T061	C1541822
+27621953	848	850	CD	T061	C0007876
+27621953	866	875	pregnancy	T040	C0032961
+27621953	885	890	women	T098	C0043210
+27621953	904	916	prophylactic	T169	C0445202
+27621953	917	925	cerclage	T061	C0195681
+27621953	936	943	carried	T052	C0206243
+27621953	947	951	term	T040	C0233324
+27621953	966	975	delivered	T033	C0151526
+27621953	987	992	weeks	T079	C0439230
+27621953	997	1002	total	T080	C0439810
+27621953	1009	1014	women	T098	C0043210
+27621953	1022	1031	delivered	T033	C0151526
+27621953	1043	1052	pregnancy	T040	C0032961
+27621953	1058	1063	weeks	T079	C0439230
+27621953	1077	1082	prior	T079	C0332152
+27621953	1083	1087	term	T040	C0233324
+27621953	1088	1090	VD	T061	C1541822
+27621953	1105	1110	prior	T079	C0332152
+27621953	1114	1119	weeks	T079	C0439230
+27621953	1120	1122	VD	T061	C1541822
+27621953	1143	1147	case	T077	C1706256
+27621953	1151	1160	recurrent	T079	C2945760
+27621953	1161	1180	cervical laceration	T037	C0007851
+27621953	1182	1191	occurring	T052	C1709305
+27621953	1199	1206	setting	T169	C0868928
+27621953	1210	1228	vaginal deliveries	T061	C1541822
+27621953	1230	1239	Obstetric	T169	C0205484
+27621953	1240	1260	cervical lacerations	T037	C0007851
+27621953	1265	1273	uncommon	T080	C0522498
+27621953	1275	1288	Complications	T046	C0009566
+27621953	1296	1305	following	T079	C0332282
+27621953	1306	1315	pregnancy	T040	C0032961
+27621953	1321	1324	low	T080	C0205251
+27621953	1334	1338	lack	T080	C0332268
+27621953	1353	1365	prophylactic	T169	C0445202
+27621953	1366	1374	cerclage	T061	C0195681

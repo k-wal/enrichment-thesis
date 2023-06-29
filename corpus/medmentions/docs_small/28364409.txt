@@ -1,0 +1,56 @@
+28364409|t|Metabolomics analysis of anaphylactoid reaction reveals its mechanism in a rat model
+28364409|a|Anaphylactoid reactions, accounting for more than 77% of all immune-mediated immediate hypersensitivity reactions, have become a serious threat to public health, but their effect mechanism is not clear and diagnostic tests are limited. Comprehensive metabolite analysis may reveal the anaphylactoid effect mechanism systematically and provide reference for future diagnostic purposes. Plasma from Brown Norway rats given intravenous injection of saline, compound 48/80 (2.5 mL/kg) or ovalbumin (20 mL/kg) in 20 s for the first time was used to study the effect mechanism of anaphylactoid reactions through metabolomics (UPLC-qTOF-MS/MS). Metabolomics integrated with proteomics data were used to analyze the anaphylactoid pathways by MetaboAnalyst followed by integrated pathway analysis. Thirty metabolites were identified through the METLIN database by MS/MS and 18 of them were confirmed by authentic standards. The results showed that adenosine, histamine, N-acetylhistamine, N(α)-γ-glutamylhistamine, malate and xanthine are important indices for anaphylactoid reactions. It could be concluded that the effect mechanism is mainly composed of histidine metabolism, arachidonic acid metabolism, energy metabolism, purine metabolism and other small molecules through 30 metabolites. Multiple linear regression analysis indicated that not only histamine but also N(α)-γ-glutamylhistamine and arachidonic acid could be used to evaluate anaphylactoid symptoms of animals. Furthermore, the citrate cycle, histidine metabolism and arachidonic acid metabolism could be the main pathways of anaphylactoid reactions as determined by MetaboAnalyst. The results may provide a reference to improve diagnostic accuracy and predict and monitor treatment efficacy in anaphylactoid reactions in the clinical setting.
+28364409	0	12	Metabolomics	T103	UMLS:C0870883
+28364409	13	21	analysis	T062	UMLS:C0936012
+28364409	25	47	anaphylactoid reaction	T038	UMLS:C0340865
+28364409	75	78	rat	T204	UMLS:C0034721
+28364409	79	84	model	T204	UMLS:C0599779
+28364409	85	108	Anaphylactoid reactions	T038	UMLS:C0340865
+28364409	146	198	immune-mediated immediate hypersensitivity reactions	T038	UMLS:C0301918
+28364409	232	245	public health	T058	UMLS:C0699943
+28364409	291	307	diagnostic tests	T058	UMLS:C0086143
+28364409	335	345	metabolite	T103	UMLS:C0870883
+28364409	346	354	analysis	T062	UMLS:C0936012
+28364409	470	476	Plasma	T031	UMLS:C0032105
+28364409	482	499	Brown Norway rats	T204	UMLS:C0034700
+28364409	539	553	compound 48/80	T103	UMLS:C0009574
+28364409	569	578	ovalbumin	T103	UMLS:C0029923
+28364409	629	634	study	T062	UMLS:C2603343
+28364409	659	682	anaphylactoid reactions	T038	UMLS:C0340865
+28364409	691	703	metabolomics	T103	UMLS:C0870883
+28364409	705	720	UPLC-qTOF-MS/MS	T062	UMLS:C0599748
+28364409	723	735	Metabolomics	T103	UMLS:C0870883
+28364409	752	767	proteomics data	T170	UMLS:C0242356
+28364409	781	788	analyze	T062	UMLS:C0936012
+28364409	807	815	pathways	T038	UMLS:C1704259
+28364409	819	832	MetaboAnalyst	T170	UMLS:C0037589
+28364409	856	872	pathway analysis	T170	UMLS:C0868995
+28364409	881	892	metabolites	T103	UMLS:C0870883
+28364409	921	936	METLIN database	T170	UMLS:C0242356
+28364409	940	945	MS/MS	T062	UMLS:C0599748
+28364409	1024	1033	adenosine	T103	UMLS:C0001443
+28364409	1035	1044	histamine	T103	UMLS:C0019588
+28364409	1046	1063	N-acetylhistamine	T103	UMLS:C0067730
+28364409	1065	1089	N(α)-γ-glutamylhistamine	T103	UMLS:C0061063
+28364409	1091	1097	malate	T103	UMLS:C0220873
+28364409	1102	1110	xanthine	T103	UMLS:C0043314
+28364409	1137	1160	anaphylactoid reactions	T038	UMLS:C0340865
+28364409	1232	1252	histidine metabolism	T038	UMLS:C1156823
+28364409	1254	1281	arachidonic acid metabolism	T038	UMLS:C1158360
+28364409	1283	1300	energy metabolism	T038	UMLS:C0014272
+28364409	1357	1368	metabolites	T103	UMLS:C0870883
+28364409	1406	1415	indicated	T033	UMLS:C1444656
+28364409	1430	1439	histamine	T103	UMLS:C0019588
+28364409	1449	1473	N(α)-γ-glutamylhistamine	T103	UMLS:C0061063
+28364409	1478	1494	arachidonic acid	T103	UMLS:C0003695
+28364409	1535	1543	symptoms	T033	UMLS:C1457887
+28364409	1547	1554	animals	T204	UMLS:C0003062
+28364409	1573	1586	citrate cycle	T038	UMLS:C1516586
+28364409	1588	1608	histidine metabolism	T038	UMLS:C1156823
+28364409	1613	1640	arachidonic acid metabolism	T038	UMLS:C1158360
+28364409	1659	1667	pathways	T038	UMLS:C1704259
+28364409	1671	1694	anaphylactoid reactions	T038	UMLS:C0340865
+28364409	1712	1725	MetaboAnalyst	T170	UMLS:C0037589
+28364409	1753	1762	reference	T170	UMLS:C1514811
+28364409	1766	1773	improve	T033	UMLS:C0184511
+28364409	1840	1863	anaphylactoid reactions	T038	UMLS:C0340865

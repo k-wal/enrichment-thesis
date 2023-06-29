@@ -1,0 +1,33 @@
+18410548|t|Aryl hydrocarbon receptor interacting protein (AIP) gene mutation analysis in children and adolescents with sporadic pituitary adenomas.
+18410548|a|OBJECTIVE: Pituitary adenomas occur rarely in childhood and adolescence. Pituitary adenoma predisposition (PAP) has been recently associated with germline mutations in the aryl hydrocarbon receptor interacting protein (AIP) gene. The aim of the study was to examine the proportion of germline AIP mutations in apparently sporadic paediatric pituitary adenomas. DESIGN: Genomic DNA was analysed for mutations in the AIP gene, by PCR amplification and direct sequencing. PATIENTS: A population-based cohort consisting of 36 apparently sporadic paediatric pituitary adenoma patients, referred to two medical centres in Italy, was included in the study. Patients were either less than 18 years at diagnosis, or showed clinical evidence of adenoma development before the age of 18 years. RESULTS: A heterozygous in-frame deletion Y248del (c.742_744delTAC) was identified in one GH-secreting adenoma patient. Loss of heterozygosity (LOH) analysis of tumour DNA revealed the loss of the wild-type allele. First degree relatives carrying the mutation were clinically unaffected. CONCLUSIONS: While mutations were absent in non-GH-secreting adenoma patients, germline AIP mutations can be found in children and adolescents with GH-secreting tumours, even in the absence of family history. The present study reports the AIP mutation analysis results on patients of a single ethnic origin. Clearly, further studies are needed to improve our knowledge on the role of AIP in paediatric pituitary adenomas.
+18410548	0	45	Aryl hydrocarbon receptor interacting protein	GeneOrGeneProduct	9049
+18410548	47	50	AIP	GeneOrGeneProduct	9049
+18410548	117	135	pituitary adenomas	DiseaseOrPhenotypicFeature	D010911
+18410548	148	166	Pituitary adenomas	DiseaseOrPhenotypicFeature	D010911
+18410548	210	227	Pituitary adenoma	DiseaseOrPhenotypicFeature	D010911
+18410548	309	354	aryl hydrocarbon receptor interacting protein	GeneOrGeneProduct	9049
+18410548	356	359	AIP	GeneOrGeneProduct	9049
+18410548	430	433	AIP	GeneOrGeneProduct	9049
+18410548	478	496	pituitary adenomas	DiseaseOrPhenotypicFeature	D010911
+18410548	552	555	AIP	GeneOrGeneProduct	9049
+18410548	606	614	PATIENTS	OrganismTaxon	9606
+18410548	690	707	pituitary adenoma	DiseaseOrPhenotypicFeature	D010911
+18410548	708	716	patients	OrganismTaxon	9606
+18410548	787	795	Patients	OrganismTaxon	9606
+18410548	872	879	adenoma	DiseaseOrPhenotypicFeature	D000236
+18410548	962	969	Y248del	SequenceVariant	rs267606574
+18410548	971	986	c.742_744delTAC	SequenceVariant	rs267606574
+18410548	1010	1030	GH-secreting adenoma	DiseaseOrPhenotypicFeature	D049912
+18410548	1031	1038	patient	OrganismTaxon	9606
+18410548	1081	1087	tumour	DiseaseOrPhenotypicFeature	D009369
+18410548	1256	1276	GH-secreting adenoma	DiseaseOrPhenotypicFeature	D049912
+18410548	1277	1285	patients	OrganismTaxon	9606
+18410548	1296	1299	AIP	GeneOrGeneProduct	9049
+18410548	1356	1376	GH-secreting tumours	DiseaseOrPhenotypicFeature	D049912
+18410548	1447	1450	AIP	GeneOrGeneProduct	9049
+18410548	1480	1488	patients	OrganismTaxon	9606
+18410548	1592	1595	AIP	GeneOrGeneProduct	9049
+18410548	1610	1628	pituitary adenomas	DiseaseOrPhenotypicFeature	D010911
+18410548	Association	D010911	9049	No
+18410548	Association	9049	D049912	Novel
+18410548	Association	rs267606574	D049912	Novel

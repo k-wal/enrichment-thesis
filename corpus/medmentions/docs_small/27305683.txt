@@ -1,0 +1,26 @@
+27305683|t|Quantifying Nonlinear Contributions to Cortical Responses Evoked by Continuous Wrist Manipulation
+27305683|a|Cortical responses to continuous stimuli as recorded using either magneto- or electroencephalography (EEG) have shown power at harmonics of the stimulated frequency, indicating nonlinear behavior. Even though the selection of analysis techniques depends on the linearity of the system under study, the importance of nonlinear contributions to cortical responses has not been formally addressed. The goal of this paper is to quantify the nonlinear contributions to the cortical response obtained from continuous sensory stimulation. EEG was used to record the cortical response evoked by continuous movement of the wrist joint of healthy subjects applied with a robotic manipulator. Multisine stimulus signals (i.e., the sum of several sinusoids) elicit a periodic cortical response and allow to assess the nonlinear contributions to the response. Wrist dynamics (relation between joint angle and torque) were successfully linearized, explaining 99% of the response. In contrast, the cortical response revealed a highly nonlinear relation; where most power (∼ 80 %) occurred at non-stimulated frequencies. Moreover, only 10% of the response could be explained using a nonparametric linear model. These results indicate that the recorded evoked cortical responses are governed by nonlinearities and that linear methods do not suffice when describing the relation between mechanical stimulus and cortical response.
+27305683	39	64	Cortical Responses Evoked	T058	UMLS:C0853990
+27305683	68	97	Continuous Wrist Manipulation	T058	UMLS:C1293270
+27305683	98	116	Cortical responses	T058	UMLS:C0853990
+27305683	120	138	continuous stimuli	T038	UMLS:C0542478
+27305683	164	172	magneto-	T058	UMLS:C0024489
+27305683	176	198	electroencephalography	T058	UMLS:C0013819
+27305683	200	203	EEG	T058	UMLS:C0013819
+27305683	324	332	analysis	T062	UMLS:C0936012
+27305683	359	368	linearity	T082	UMLS:C0205132
+27305683	441	459	cortical responses	T058	UMLS:C0853990
+27305683	497	515	goal of this paper	T170	UMLS:C0018017
+27305683	566	583	cortical response	T058	UMLS:C0853990
+27305683	609	628	sensory stimulation	T058	UMLS:C0150763
+27305683	630	633	EEG	T058	UMLS:C0013819
+27305683	657	681	cortical response evoked	T058	UMLS:C0853990
+27305683	685	723	continuous movement of the wrist joint	T033	UMLS:C0575717
+27305683	833	842	sinusoids	T082	UMLS:C0682624
+27305683	862	879	cortical response	T058	UMLS:C0853990
+27305683	945	959	Wrist dynamics	T058	UMLS:C0454465
+27305683	978	989	joint angle	T082	UMLS:C0022417
+27305683	1020	1030	linearized	T082	UMLS:C0205132
+27305683	1081	1098	cortical response	T058	UMLS:C0853990
+27305683	1334	1359	evoked cortical responses	T058	UMLS:C0853990
+27305683	1400	1406	linear	T082	UMLS:C0205132

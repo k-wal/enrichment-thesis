@@ -1,0 +1,36 @@
+20588063|t|Permeability, ultrastructural changes, and distribution of novel proteins in the glomerular barrier in early puromycin aminonucleoside nephrosis.
+20588063|a|BACKGROUND/AIMS: It is still unclear what happens in the glomerulus when proteinuria starts. Using puromycin aminonucleoside nephrosis (PAN) rats, we studied early ultrastructural and permeability changes in relation to the expression of the podocyte-associated molecules nephrin, a-actinin, dendrin, and plekhh2, the last two of which were only recently discovered in podocytes. METHODS: Using immune stainings, semiquantitative measurement was performed under the electron microscope. Permeability was assessed using isolated kidney perfusion with tracers. Possible effects of ACE inhibition were tested. RESULTS: By day 2, some patchy foot process effacement, but no proteinuria, appeared. The amount of nephrin was reduced in both diseased and normal areas. The other proteins showed few changes, which were limited to diseased areas. By day 4, foot process effacement was complete and proteinuria appeared in parallel with signs of size barrier damage. Nephrin decreased further, while dendrin and plekhh2 also decreased but a-actinin remained unchanged. ACE inhibition had no significant protective effect. CONCLUSIONS: PAN glomeruli already showed significant pathology by day 4, despite relatively mild proteinuria. This was preceded by altered nephrin expression, supporting its pivotal role in podocyte morphology. The novel proteins dendrin and plekhh2 were both reduced, suggesting roles in PAN, whereas a-actinin was unchanged.
+20588063	109	134	puromycin aminonucleoside	ChemicalEntity	D011692
+20588063	135	144	nephrosis	DiseaseOrPhenotypicFeature	D009401
+20588063	219	230	proteinuria	DiseaseOrPhenotypicFeature	D011507
+20588063	245	270	puromycin aminonucleoside	ChemicalEntity	D011692
+20588063	271	280	nephrosis	DiseaseOrPhenotypicFeature	D009401
+20588063	282	285	PAN	DiseaseOrPhenotypicFeature	D009401
+20588063	287	291	rats	OrganismTaxon	10116
+20588063	418	425	nephrin	GeneOrGeneProduct	64563
+20588063	427	436	a-actinin	GeneOrGeneProduct	81634
+20588063	438	445	dendrin	GeneOrGeneProduct	25113
+20588063	451	458	plekhh2	GeneOrGeneProduct	313866
+20588063	725	728	ACE	GeneOrGeneProduct	24310
+20588063	816	827	proteinuria	DiseaseOrPhenotypicFeature	D011507
+20588063	853	860	nephrin	GeneOrGeneProduct	64563
+20588063	1036	1047	proteinuria	DiseaseOrPhenotypicFeature	D011507
+20588063	1104	1111	Nephrin	GeneOrGeneProduct	64563
+20588063	1137	1144	dendrin	GeneOrGeneProduct	25113
+20588063	1149	1156	plekhh2	GeneOrGeneProduct	313866
+20588063	1176	1185	a-actinin	GeneOrGeneProduct	81634
+20588063	1206	1209	ACE	GeneOrGeneProduct	24310
+20588063	1272	1275	PAN	DiseaseOrPhenotypicFeature	D009401
+20588063	1357	1368	proteinuria	DiseaseOrPhenotypicFeature	D011507
+20588063	1399	1406	nephrin	GeneOrGeneProduct	64563
+20588063	1490	1497	dendrin	GeneOrGeneProduct	25113
+20588063	1502	1509	plekhh2	GeneOrGeneProduct	313866
+20588063	1549	1552	PAN	DiseaseOrPhenotypicFeature	D009401
+20588063	1562	1571	a-actinin	GeneOrGeneProduct	81634
+20588063	Positive_Correlation	D011692	D009401	No
+20588063	Association	D009401	25113	Novel
+20588063	Association	D009401	313866	Novel
+20588063	Association	64563	D009401	Novel
+20588063	Association	D011507	25113	Novel
+20588063	Association	D011507	313866	Novel
+20588063	Association	D011507	64563	Novel

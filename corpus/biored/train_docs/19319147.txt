@@ -1,0 +1,41 @@
+19319147|t|Rapid reversal of anticoagulation reduces hemorrhage volume in a mouse model of warfarin-associated intracerebral hemorrhage.
+19319147|a|Warfarin-associated intracerebral hemorrhage (W-ICH) is a severe type of stroke. There is no consensus on the optimal treatment for W-ICH. Using a mouse model, we tested whether the rapid reversal of anticoagulation using human prothrombin complex concentrate (PCC) can reduce hemorrhagic blood volume. Male CD-1 mice were treated with warfarin (2 mg/kg over 24 h), resulting in a mean (+/-s.d.) International Normalized Ratio of 3.5+/-0.9. First, we showed that an intravenous administration of human PCC rapidly reversed anticoagulation in mice. Second, a stereotactic injection of collagenase was administered to induce hemorrhage in the right striatum. Forty-five minutes later, the animals were randomly treated with PCC (100 U/kg) or saline i.v. (n=12 per group). Twenty-four hours after hemorrhage induction, hemorrhagic blood volume was quantified using a photometric hemoglobin assay. The mean hemorrhagic blood volume was reduced in PCC-treated animals (6.5+/-3.1 microL) compared with saline controls (15.3+/-11.2 microL, P=0.015). In the saline group, 45% of the mice developed large hematomas (i.e., >15 microL). In contrast, such extensive lesions were never found in the PCC group. We provide experimental data suggesting PCC to be an effective acute treatment for W-ICH in terms of reducing hemorrhagic blood volume. Future studies are needed to assess the therapeutic potential emerging from our finding for human W-ICH.
+19319147	42	52	hemorrhage	DiseaseOrPhenotypicFeature	D006470
+19319147	65	70	mouse	OrganismTaxon	10090
+19319147	80	88	warfarin	ChemicalEntity	D014859
+19319147	100	124	intracerebral hemorrhage	DiseaseOrPhenotypicFeature	D002543
+19319147	126	134	Warfarin	ChemicalEntity	D014859
+19319147	146	170	intracerebral hemorrhage	DiseaseOrPhenotypicFeature	D002543
+19319147	172	173	W	ChemicalEntity	D014859
+19319147	174	177	ICH	DiseaseOrPhenotypicFeature	D002543
+19319147	199	205	stroke	DiseaseOrPhenotypicFeature	D020521
+19319147	258	259	W	ChemicalEntity	D014859
+19319147	260	263	ICH	DiseaseOrPhenotypicFeature	D002543
+19319147	273	278	mouse	OrganismTaxon	10090
+19319147	348	353	human	OrganismTaxon	9606
+19319147	354	385	prothrombin complex concentrate	ChemicalEntity	C025667
+19319147	387	390	PCC	ChemicalEntity	C025667
+19319147	439	443	mice	OrganismTaxon	10090
+19319147	462	470	warfarin	ChemicalEntity	D014859
+19319147	622	627	human	OrganismTaxon	9606
+19319147	628	631	PCC	ChemicalEntity	C025667
+19319147	668	672	mice	OrganismTaxon	10090
+19319147	710	721	collagenase	ChemicalEntity	D017364
+19319147	749	759	hemorrhage	DiseaseOrPhenotypicFeature	D006470
+19319147	848	851	PCC	ChemicalEntity	C025667
+19319147	920	930	hemorrhage	DiseaseOrPhenotypicFeature	D006470
+19319147	1069	1072	PCC	ChemicalEntity	C025667
+19319147	1201	1205	mice	OrganismTaxon	10090
+19319147	1222	1231	hematomas	DiseaseOrPhenotypicFeature	D006406
+19319147	1312	1315	PCC	ChemicalEntity	C025667
+19319147	1363	1366	PCC	ChemicalEntity	C025667
+19319147	1406	1407	W	ChemicalEntity	D014859
+19319147	1408	1411	ICH	DiseaseOrPhenotypicFeature	D002543
+19319147	1551	1556	human	OrganismTaxon	9606
+19319147	1557	1558	W	ChemicalEntity	D014859
+19319147	1559	1562	ICH	DiseaseOrPhenotypicFeature	D002543
+19319147	Association	D014859	D002543	No
+19319147	Negative_Correlation	C025667	D014859	Novel
+19319147	Negative_Correlation	C025667	D002543	Novel
+19319147	Negative_Correlation	D006470	C025667	Novel
+19319147	Positive_Correlation	D017364	D006470	No

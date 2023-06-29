@@ -1,0 +1,100 @@
+27646139|t|The PLA2 gene mediates the humoral immune responses in Bactrocera dorsalis (Hendel)
+27646139|a|The phospholipase A2 (PLA2) gene encodes the enzyme that catalyzes the hydrolysis of phospholipids (PLs) from the sn-2 position. However, little is known about its role in humoral immune responses. In this study, we investigated the expression profile of PLA2 in different tissues and developmental stages in Bactrocera dorsalis (Hendel), and the results showed that the transcriptional level of PLA2 was high in the egg and mature stage and in the testis tissue. Bacterial infection increased the expression of PLA2, and the highest degree of up-regulation appeared in the fat body. Silencing PLA2 influenced the expression of immune-related genes, including MyD88 and defensin in the Toll pathway and relish and diptericin in the Imd pathway. Moreover, the expression of MyD88 and defensin was down-regulated significantly in the ds-PLA2 group compared with those in the ds-egfp group when B. dorsalis was infected with L. monocytogenes and S. aureus, indicating that PLA2 was involved in the activation of the Toll pathway. Meanwhile, infection with L. monocytogenes and E. coli, which activate the Imd pathway, does not increase the mRNA levels of relish and diptericin in the ds-PLA2 group as severely as it increases those in the ds-egfp group, indicating that the Imd pathway was also repressed after silencing PLA2. Notably, the development of lipid droplets in fat body cells was influenced by silencing PLA2, implying that PLA2 affects the function of fat body tissue. These results suggest that the PLA2 gene may mediate humoral immune responses by reducing lipid storage in fat body cells in B. dorsalis.
+27646139	4	13	PLA2 gene	T028	C0017337
+27646139	27	51	humoral immune responses	T043	C1155229
+27646139	55	83	Bactrocera dorsalis (Hendel)	T204	C1001509
+27646139	88	116	phospholipase A2 (PLA2) gene	T028	C0017337
+27646139	117	124	encodes	T052	C2700640
+27646139	129	135	enzyme	T116,T126	C0014442
+27646139	141	150	catalyzes	T169	C0205245
+27646139	155	165	hydrolysis	T070	C0020291
+27646139	169	182	phospholipids	T109,T123	C0031676
+27646139	184	187	PLs	T109,T123	C0031676
+27646139	198	211	sn-2 position	T082	C0733755
+27646139	248	252	role	T170	C1704326
+27646139	256	280	humoral immune responses	T043	C1155229
+27646139	290	295	study	T062	C2603343
+27646139	300	312	investigated	T169	C1292732
+27646139	317	335	expression profile	T081	C1956267
+27646139	339	343	PLA2	T028	C0017337
+27646139	347	356	different	T080	C1705242
+27646139	357	364	tissues	T024	C0040300
+27646139	369	389	developmental stages	T079	C0870411
+27646139	393	421	Bactrocera dorsalis (Hendel)	T204	C1001509
+27646139	455	470	transcriptional	T045	C0040649
+27646139	471	476	level	T080	C0441889
+27646139	480	484	PLA2	T028	C0017337
+27646139	489	493	high	T080	C0205250
+27646139	501	504	egg	T042	C1254358
+27646139	509	521	mature stage	T042	C1326793
+27646139	533	539	testis	T023	C0039597
+27646139	540	546	tissue	T024	C0040300
+27646139	548	567	Bacterial infection	T047	C0004623
+27646139	582	592	expression	T045	C0017262
+27646139	596	600	PLA2	T028	C0017337
+27646139	628	641	up-regulation	T044	C0041904
+27646139	658	666	fat body	T023	C0015665
+27646139	668	677	Silencing	T045	C0598496
+27646139	678	682	PLA2	T028	C0017337
+27646139	683	693	influenced	T077	C4054723
+27646139	698	708	expression	T045	C0017262
+27646139	712	732	immune-related genes	T028	C0017337
+27646139	744	749	MyD88	T028	C1417530
+27646139	754	762	defensin	T116,T121,T129	C0057256
+27646139	770	782	Toll pathway	T044	C1155478
+27646139	787	793	relish	T116,T123	C0033684
+27646139	798	808	diptericin	T116,T123	C0033684
+27646139	816	827	Imd pathway	T077	C2753278
+27646139	843	853	expression	T045	C0017262
+27646139	857	862	MyD88	T028	C1417530
+27646139	867	875	defensin	T116,T121,T129	C0057256
+27646139	880	894	down-regulated	T044	C0013081
+27646139	916	923	ds-PLA2	T028	C0017337
+27646139	924	929	group	T078	C0441833
+27646139	957	964	ds-egfp	T116,T130	C1258415
+27646139	965	970	group	T078	C0441833
+27646139	976	987	B. dorsalis	T204	C1001509
+27646139	992	1000	infected	T033	C0439663
+27646139	1006	1022	L. monocytogenes	T007	C0023861
+27646139	1027	1036	S. aureus	T007	C0038172
+27646139	1054	1058	PLA2	T028	C0017337
+27646139	1079	1089	activation	T045	C0017255
+27646139	1097	1109	Toll pathway	T044	C1155478
+27646139	1122	1131	infection	T046	C3714514
+27646139	1137	1153	L. monocytogenes	T007	C0023861
+27646139	1158	1165	E. coli	T007	C0014834
+27646139	1173	1181	activate	T169	C1515877
+27646139	1186	1197	Imd pathway	T077	C2753278
+27646139	1208	1216	increase	T169	C0442805
+27646139	1221	1225	mRNA	T114,T123	C0035696
+27646139	1226	1232	levels	T080	C0441889
+27646139	1236	1242	relish	T116,T123	C0033684
+27646139	1247	1257	diptericin	T116,T123	C0033684
+27646139	1265	1272	ds-PLA2	T028	C0017337
+27646139	1273	1278	group	T078	C0441833
+27646139	1297	1306	increases	T169	C0442805
+27646139	1320	1327	ds-egfp	T116,T130	C1258415
+27646139	1328	1333	group	T078	C0441833
+27646139	1355	1366	Imd pathway	T077	C2753278
+27646139	1376	1385	repressed	T169	C0205245
+27646139	1392	1401	silencing	T045	C0598496
+27646139	1402	1406	PLA2	T028	C0017337
+27646139	1421	1432	development	T169	C1527148
+27646139	1436	1450	lipid droplets	T026	C0230704
+27646139	1454	1462	fat body	T023	C0015665
+27646139	1463	1468	cells	T025	C0007634
+27646139	1473	1483	influenced	T077	C4054723
+27646139	1487	1496	silencing	T045	C0598496
+27646139	1497	1501	PLA2	T028	C0017337
+27646139	1517	1521	PLA2	T028	C0017337
+27646139	1534	1542	function	T169	C0542341
+27646139	1546	1554	fat body	T023	C0015665
+27646139	1555	1561	tissue	T024	C0040300
+27646139	1594	1598	PLA2	T028	C0017337
+27646139	1594	1603	PLA2 gene	T028	C0017337
+27646139	1616	1640	humoral immune responses	T043	C1155229
+27646139	1644	1652	reducing	T080	C0392756
+27646139	1653	1666	lipid storage	T043	C1159705
+27646139	1670	1678	fat body	T023	C0015665
+27646139	1679	1684	cells	T025	C0007634
+27646139	1688	1699	B. dorsalis	T204	C1001509

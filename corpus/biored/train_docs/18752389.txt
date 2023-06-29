@@ -1,0 +1,61 @@
+18752389|t|Simvastatin-ezetimibe-induced hepatic failure necessitating liver transplantation.
+18752389|a|Abstract Serum aminotransferase elevations are a commonly known adverse effect of 3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitor (statin) therapy. However, hepatotoxic events have not been widely published with ezetimibe or the combination agent simvastatin-ezetimibe. We describe a 70-year-old Hispanic woman who developed fulminant hepatic failure necessitating liver transplantation 10 weeks after conversion from simvastatin 40 mg/day to simvastatin 10 mg-ezetimibe 40 mg/day. The patient's lipid panel had been maintained with simvastatin for 18 months before the conversion without evidence of hepatotoxicity. A routine laboratory work-up 10 weeks after conversion revealed elevated serum aminotransferase levels. Simvastatinezetimibe and escitalopram (which she was taking for depression) were discontinued, and other potential causes of hepatotoxicity were excluded. A repeat work-up revealed further elevations in aminotransferase levels, and liver biopsy revealed evidence of moderate-to-severe drug toxicity. She underwent liver transplantation with an uneventful postoperative course. Her aminotransferase levels returned to normal by postoperative day 23, and her 2-year follow-up showed no adverse events. Ezetimibe undergoes extensive glucuronidation by uridine diphosphate glucoronosyltransferases (UGT) in the intestine and liver and may have inhibited the glucuronidation of simvastatin hydroxy acid, resulting in increased simvastatin exposure and subsequent hepatotoxicity. To our knowledge, this is the first case report of simvastatin-ezetimibe-induced liver failure that resulted in liver transplantation. We postulate that the mechanism of the simvastatinezetimibe-induced hepatotoxicity is the increased simvastatin exposure by ezetimibe inhibition of UGT enzymes. Clinicians should be aware of potential hepatotoxicity with simvastatin-ezetimibe especially in elderly patients and should carefully monitor serum aminotransferase levels when starting therapy and titrating the dosage.
+18752389	0	21	Simvastatin-ezetimibe	ChemicalEntity	D000069499
+18752389	30	45	hepatic failure	DiseaseOrPhenotypicFeature	D017093
+18752389	92	114	Serum aminotransferase	ChemicalEntity	D001219
+18752389	165	212	3-hydroxy-3-methylglutaryl coenzyme A reductase	GeneOrGeneProduct	3156
+18752389	224	230	statin	ChemicalEntity	D019821
+18752389	250	261	hepatotoxic	DiseaseOrPhenotypicFeature	D056486
+18752389	305	314	ezetimibe	ChemicalEntity	D000069438
+18752389	340	361	simvastatin-ezetimibe	ChemicalEntity	D000069499
+18752389	398	403	woman	OrganismTaxon	9606
+18752389	418	443	fulminant hepatic failure	DiseaseOrPhenotypicFeature	D017114
+18752389	511	522	simvastatin	ChemicalEntity	D019821
+18752389	536	547	simvastatin	ChemicalEntity	D019821
+18752389	554	563	ezetimibe	ChemicalEntity	D000069438
+18752389	579	586	patient	OrganismTaxon	9606
+18752389	589	594	lipid	ChemicalEntity	D008055
+18752389	626	637	simvastatin	ChemicalEntity	D019821
+18752389	694	708	hepatotoxicity	DiseaseOrPhenotypicFeature	D056486
+18752389	783	805	serum aminotransferase	ChemicalEntity	D001219
+18752389	814	834	Simvastatinezetimibe	ChemicalEntity	D000069499
+18752389	839	851	escitalopram	ChemicalEntity	D015283
+18752389	878	888	depression	DiseaseOrPhenotypicFeature	D003866
+18752389	939	953	hepatotoxicity	DiseaseOrPhenotypicFeature	D056486
+18752389	1017	1033	aminotransferase	ChemicalEntity	D000637
+18752389	1099	1112	drug toxicity	DiseaseOrPhenotypicFeature	D064420
+18752389	1195	1211	aminotransferase	ChemicalEntity	D000637
+18752389	1314	1323	Ezetimibe	ChemicalEntity	D000069438
+18752389	1363	1407	uridine diphosphate glucoronosyltransferases	GeneOrGeneProduct	7361
+18752389	1409	1412	UGT	GeneOrGeneProduct	7361
+18752389	1487	1511	simvastatin hydroxy acid	ChemicalEntity	C532833
+18752389	1536	1547	simvastatin	ChemicalEntity	D019821
+18752389	1572	1586	hepatotoxicity	DiseaseOrPhenotypicFeature	D056486
+18752389	1639	1660	simvastatin-ezetimibe	ChemicalEntity	D000069499
+18752389	1669	1682	liver failure	DiseaseOrPhenotypicFeature	D017093
+18752389	1762	1782	simvastatinezetimibe	ChemicalEntity	D000069499
+18752389	1791	1805	hepatotoxicity	DiseaseOrPhenotypicFeature	D056486
+18752389	1823	1834	simvastatin	ChemicalEntity	D019821
+18752389	1847	1856	ezetimibe	ChemicalEntity	D000069438
+18752389	1871	1874	UGT	GeneOrGeneProduct	7361
+18752389	1924	1938	hepatotoxicity	DiseaseOrPhenotypicFeature	D056486
+18752389	1944	1965	simvastatin-ezetimibe	ChemicalEntity	D000069499
+18752389	1988	1996	patients	OrganismTaxon	9606
+18752389	2026	2048	serum aminotransferase	ChemicalEntity	D001219
+18752389	Positive_Correlation	D017114	D000069438	Novel
+18752389	Association	D001219	D056486	Novel
+18752389	Association	D001219	D000069499	Novel
+18752389	Positive_Correlation	D019821	D001219	No
+18752389	Negative_Correlation	D019821	3156	No
+18752389	Association	D019821	7361	Novel
+18752389	Drug_Interaction	D019821	D000069438	Novel
+18752389	Positive_Correlation	D056486	D019821	Novel
+18752389	Association	D056486	7361	Novel
+18752389	Positive_Correlation	D056486	D000069499	Novel
+18752389	Association	C532833	D019821	Novel
+18752389	Positive_Correlation	D000069438	D056486	Novel
+18752389	Association	D000069438	C532833	Novel
+18752389	Negative_Correlation	D000069438	7361	Novel
+18752389	Negative_Correlation	D015283	D003866	No
+18752389	Positive_Correlation	D000069499	D017114	Novel
+18752389	Positive_Correlation	D000069499	D017093	Novel

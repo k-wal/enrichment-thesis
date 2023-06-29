@@ -1,0 +1,55 @@
+17177139|t|A novel mutation (E333D) in the thyroid hormone beta receptor causing resistance to thyroid hormone syndrome.
+17177139|a|Resistance to thyroid hormone (RTH) is an inherited syndrome characterized by elevated serum thyroid hormones (TH), failure to suppress pituitary thyroid stimulating hormone (TSH) secretion, and variable peripheral tissue responsiveness to TH. The disorder is associated with diverse mutations in the thyroid hormone beta receptor (TRbeta). Here, we report a novel natural RTH mutation (E333D) located in the large carboxy-terminal ligand binding domain of TRbeta. The mutation was identified in a 22-year-old French woman coming to medical attention because of an increasing overweight. Biochemical tests showed elevated free thyroxine (T4: 20.8 pg/ml (normal, 8.5-18)) and triiodothyronine (T3: 5.7 pg/ml (normal, 1.4-4)) in the serum, together with an inappropriately nonsuppressed TSH level of 4.7 mU/ml (normal, 0.4-4). Her father and her brother's serum tests also showed biochemical abnormalities consistent with RTH. Direct sequencing of the TRbeta gene revealed a heterozygous transition 1284A>C in exon 9 resulting in substitution of glutamic acid 333 by aspartic acid residue (E333D). Further functional analyses of the novel TRbeta mutant were conducted. We found that the E333D mutation neither significantly affected the affinity of the receptor for T3 nor modified heterodimer formation with retinoid X receptor (RXR) when bound to DNA. However, in transient transfection assays, the E333D TRbeta mutant exhibited impaired transcriptional regulation on two distinct positively regulated thyroid response elements (F2- and DR4-TREs) as well as on the negatively regulated human TSHalpha promoter. Moreover, a dominant inhibition of the wild-type TRbeta counterpart transactivation function was observed on both a positive (F2-TRE) and a negative (TSHalpha) promoter. These results strongly suggest that the E333D TRbeta mutation is responsible for the RTH phenotype in the proposita's family.
+17177139	18	23	E333D	SequenceVariant	p|SUB|E|333|D
+17177139	32	61	thyroid hormone beta receptor	GeneOrGeneProduct	6955
+17177139	70	108	resistance to thyroid hormone syndrome	DiseaseOrPhenotypicFeature	D018382
+17177139	110	139	Resistance to thyroid hormone	DiseaseOrPhenotypicFeature	D018382
+17177139	141	144	RTH	DiseaseOrPhenotypicFeature	D018382
+17177139	203	219	thyroid hormones	ChemicalEntity	D013963
+17177139	221	223	TH	ChemicalEntity	D013963
+17177139	256	283	thyroid stimulating hormone	GeneOrGeneProduct	1081
+17177139	285	288	TSH	GeneOrGeneProduct	1081
+17177139	350	352	TH	ChemicalEntity	D013963
+17177139	411	440	thyroid hormone beta receptor	GeneOrGeneProduct	6955
+17177139	442	448	TRbeta	GeneOrGeneProduct	6955
+17177139	483	486	RTH	DiseaseOrPhenotypicFeature	D018382
+17177139	497	502	E333D	SequenceVariant	p|SUB|E|333|D
+17177139	567	573	TRbeta	GeneOrGeneProduct	6955
+17177139	627	632	woman	OrganismTaxon	9606
+17177139	686	696	overweight	DiseaseOrPhenotypicFeature	D050177
+17177139	737	746	thyroxine	ChemicalEntity	D013974
+17177139	748	750	T4	ChemicalEntity	D013974
+17177139	785	801	triiodothyronine	ChemicalEntity	D014284
+17177139	803	805	T3	ChemicalEntity	D014284
+17177139	895	898	TSH	GeneOrGeneProduct	1081
+17177139	1030	1033	RTH	DiseaseOrPhenotypicFeature	D018382
+17177139	1060	1066	TRbeta	GeneOrGeneProduct	6955
+17177139	1107	1114	1284A>C	SequenceVariant	c|SUB|A|1284|C
+17177139	1154	1188	glutamic acid 333 by aspartic acid	SequenceVariant	p|SUB|E|333|D
+17177139	1198	1203	E333D	SequenceVariant	p|SUB|E|333|D
+17177139	1247	1253	TRbeta	GeneOrGeneProduct	6955
+17177139	1295	1300	E333D	SequenceVariant	p|SUB|E|333|D
+17177139	1374	1376	T3	ChemicalEntity	D014284
+17177139	1417	1436	retinoid X receptor	GeneOrGeneProduct	6256
+17177139	1438	1441	RXR	GeneOrGeneProduct	6256
+17177139	1509	1514	E333D	SequenceVariant	p|SUB|E|333|D
+17177139	1515	1521	TRbeta	GeneOrGeneProduct	6955
+17177139	1696	1701	human	OrganismTaxon	9606
+17177139	1702	1710	TSHalpha	GeneOrGeneProduct	1081
+17177139	1770	1776	TRbeta	GeneOrGeneProduct	6955
+17177139	1871	1879	TSHalpha	GeneOrGeneProduct	1081
+17177139	1931	1936	E333D	SequenceVariant	p|SUB|E|333|D
+17177139	1937	1943	TRbeta	GeneOrGeneProduct	6955
+17177139	1976	1979	RTH	DiseaseOrPhenotypicFeature	D018382
+17177139	Positive_Correlation	c|SUB|A|1284|C	D018382	Novel
+17177139	Positive_Correlation	1081	6955	No
+17177139	Association	D013974	6955	Novel
+17177139	Positive_Correlation	D013974	p|SUB|E|333|D	Novel
+17177139	Association	D014284	6955	Novel
+17177139	Positive_Correlation	D014284	p|SUB|E|333|D	Novel
+17177139	Association	6955	D018382	Novel
+17177139	Positive_Correlation	D018382	D013963	No
+17177139	Association	D018382	1081	No
+17177139	Positive_Correlation	D018382	D013974	No
+17177139	Positive_Correlation	D018382	D014284	No
+17177139	Positive_Correlation	p|SUB|E|333|D	D018382	Novel

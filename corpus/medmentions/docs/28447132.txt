@@ -1,0 +1,98 @@
+28447132|t|High-throughput analysis of sub-visible mAb aggregate particles using automated fluorescence microscopy imaging
+28447132|a|Aggregation of therapeutic proteins is a major concern as aggregates lower the yield and can impact the efficacy of the drug as well as the patient's safety. It can occur in all production stages; thus, it is essential to perform a detailed analysis for protein aggregates. Several methods such as size exclusion high-performance liquid chromatography (SE-HPLC), light scattering, turbidity, light obscuration, and microscopy-based approaches are used to analyze aggregates. None of these methods allows determination of all types of higher molecular weight (HMW) species due to a limited size range. Furthermore, quantification and specification of different HMW species are often not possible. Moreover, automation is a perspective challenge coming up with automated robotic laboratory systems. Hence, there is a need for a fast, high-throughput-compatible method, which can detect a broad size range and enable quantification and classification. We describe a novel approach for the detection of aggregates in the size range 1 to 1000 μm combining fluorescent dyes for protein aggregate labelling and automated fluorescence microscope imaging (aFMI). After appropriate selection of the dye and method optimization, our method enabled us to detect various types of HMW species of monoclonal antibodies (mAbs). Using 10 μmol L(-1) 4,4'-dianilino-1,1'-binaphthyl-5,5'-disulfonate (Bis-ANS) in combination with aFMI allowed the analysis of mAb aggregates induced by different stresses occurring during downstream processing, storage, and administration. Validation of our results was performed by SE-HPLC, UV-Vis spectroscopy, and dynamic light scattering. With this new approach, we could not only reliably detect different HMW species but also quantify and classify them in an automated approach. Our method achieves high-throughput requirements and the selection of various fluorescent dyes enables a broad range of applications.
+28447132	0	24	High-throughput analysis	T060	C0872186
+28447132	28	39	sub-visible	T080	C0205379
+28447132	40	43	mAb	T116,T129	C0003250
+28447132	44	53	aggregate	T080	C0205418
+28447132	54	63	particles	T104	C0597177
+28447132	70	111	automated fluorescence microscopy imaging	T059	C0026022
+28447132	112	123	Aggregation	T169	C0332621
+28447132	127	147	therapeutic proteins	T121	C0872285
+28447132	153	166	major concern	T078	C2699424
+28447132	170	180	aggregates	T080	C0205418
+28447132	181	186	lower	T052	C2003888
+28447132	205	211	impact	T080	C4049986
+28447132	216	224	efficacy	T080	C1280519
+28447132	232	236	drug	T121	C1254351
+28447132	252	268	patient's safety	T061	C1279809
+28447132	290	300	production	T057	C0033268
+28447132	301	307	stages	T079	C1306673
+28447132	321	330	essential	T080	C0205224
+28447132	334	341	perform	T169	C0884358
+28447132	344	361	detailed analysis	T062	C0936012
+28447132	366	384	protein aggregates	T116	C3850144
+28447132	394	401	methods	T170	C0025663
+28447132	410	463	size exclusion high-performance liquid chromatography	T059	C0008562
+28447132	465	472	SE-HPLC	T059	C0008562
+28447132	475	491	light scattering	T067	C0596837
+28447132	493	502	turbidity	T080	C0301633
+28447132	504	521	light obscuration	T059	C0022885
+28447132	527	543	microscopy-based	T059	C0026018
+28447132	567	574	analyze	T062	C0936012
+28447132	575	585	aggregates	T080	C0205418
+28447132	601	608	methods	T170	C0025663
+28447132	616	629	determination	T059	C1148554
+28447132	646	669	higher molecular weight	T080	C1979900
+28447132	671	674	HMW	T080	C1979900
+28447132	676	683	species	T185	C1705920
+28447132	693	705	limited size	T082	C0456389
+28447132	706	711	range	T081	C1514721
+28447132	726	740	quantification	T081	C1709793
+28447132	745	758	specification	T170	C2348235
+28447132	772	775	HMW	T080	C1979900
+28447132	776	783	species	T185	C1705920
+28447132	818	828	automation	T169	C0205554
+28447132	834	855	perspective challenge	T078	C1254370
+28447132	871	907	automated robotic laboratory systems	T074	C0878866
+28447132	881	888	robotic	T090	C0035785
+28447132	938	942	fast	T080	C0456962
+28447132	944	977	high-throughput-compatible method	T170	C0872047
+28447132	989	995	detect	T033	C0442726
+28447132	1004	1008	size	T082	C0456389
+28447132	1009	1014	range	T081	C1514721
+28447132	1026	1040	quantification	T081	C1709793
+28447132	1045	1059	classification	T185	C0008902
+28447132	1098	1107	detection	T033	C0442726
+28447132	1111	1121	aggregates	T080	C0205418
+28447132	1129	1133	size	T082	C0456389
+28447132	1134	1139	range	T081	C1514721
+28447132	1163	1179	fluorescent dyes	T130	C0016320
+28447132	1184	1201	protein aggregate	T116	C3850144
+28447132	1216	1257	automated fluorescence microscope imaging	T059	C0026022
+28447132	1259	1263	aFMI	T059	C0026022
+28447132	1284	1293	selection	T052	C1707391
+28447132	1301	1304	dye	T130	C0013343
+28447132	1309	1315	method	T170	C0025663
+28447132	1316	1328	optimization	T052	C2698650
+28447132	1334	1340	method	T170	C0025663
+28447132	1355	1361	detect	T033	C0442726
+28447132	1379	1382	HMW	T080	C1979900
+28447132	1383	1390	species	T185	C1705920
+28447132	1394	1415	monoclonal antibodies	T116,T129	C0003250
+28447132	1417	1421	mAbs	T116,T129	C0003250
+28447132	1438	1491	L(-1) 4,4'-dianilino-1,1'-binaphthyl-5,5'-disulfonate	T109,T121	C0048876
+28447132	1493	1500	Bis-ANS	T109,T121	C0048876
+28447132	1522	1526	aFMI	T059	C0026022
+28447132	1539	1547	analysis	T062	C0936012
+28447132	1551	1554	mAb	T116,T129	C0003250
+28447132	1555	1565	aggregates	T080	C0205418
+28447132	1566	1573	induced	T169	C0205263
+28447132	1587	1595	stresses	T070	C0038442
+28447132	1613	1634	downstream processing	T052	C1709694
+28447132	1636	1643	storage	T169	C1698986
+28447132	1649	1663	administration	T081	C0001555
+28447132	1708	1715	SE-HPLC	T059	C0008562
+28447132	1717	1736	UV-Vis spectroscopy	T059	C0201693
+28447132	1742	1766	dynamic light scattering	T059	C1882368
+28447132	1819	1825	detect	T033	C0442726
+28447132	1836	1839	HMW	T080	C1979900
+28447132	1840	1847	species	T185	C1705920
+28447132	1857	1865	quantify	T081	C1709793
+28447132	1870	1878	classify	T185	C0008902
+28447132	1890	1899	automated	T169	C0205554
+28447132	1914	1920	method	T170	C0025663
+28447132	1930	1945	high-throughput	T060	C0872186
+28447132	1946	1958	requirements	T169	C1514873
+28447132	1967	1976	selection	T052	C1707391
+28447132	1988	2004	fluorescent dyes	T130	C0016320
+28447132	2021	2026	range	T081	C1514721

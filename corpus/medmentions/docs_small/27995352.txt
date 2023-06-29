@@ -1,0 +1,61 @@
+27995352|t|Diabetes and breast cancer mortality in Black women
+27995352|a|Breast cancer mortality is higher in Black women than in White women. The prevalence of type 2 diabetes mellitus is also higher, yet data on whether diabetes affects breast cancer mortality in this population are lacking. We investigated the relation of diabetes at the time of breast cancer diagnosis to breast cancer mortality in the Black Women's Health Study, a prospective cohort study. 1,621 Black women with invasive breast cancer diagnosed in 1995-2013 were followed by mailed questionnaires and searches of the National Death Index. Multivariable Cox regression analysis was used to compute hazard ratios (HRs) for diabetes in relation to breast cancer mortality and all-cause mortality, with adjustment for age, stage, treatment modality, estrogen receptor (ER) status, and body mass index. There were 368 deaths during follow-up, of which 273 were due to breast cancer. Breast cancer mortality was significantly increased in women who had been diagnosed with diabetes at least 5 years before breast cancer occurrence, HR 1.86 (95% CI 1.20-2.89), with elevations observed for both ER+ and ER- breast cancer. All-cause mortality was also higher in diabetics, with HRs of 1.54 (95% CI 1.12-2.07) overall and 2.26 (95% CI 1.62-3.15) for ≥5-year duration of diabetes relative to non-diabetics. Our results present the first solid evidence of a positive association of type 2 diabetes with breast cancer mortality in Black women. Given the higher prevalence and earlier onset of type 2 diabetes in Black women, it is likely that diabetes contributes to racial disparities in breast cancer mortality.
+27995352	0	8	Diabetes	T038	UMLS:C0011847
+27995352	13	26	breast cancer	T038	UMLS:C0678222
+27995352	40	51	Black women	T098	UMLS:C0043210
+27995352	52	65	Breast cancer	T038	UMLS:C0678222
+27995352	89	100	Black women	T098	UMLS:C0043210
+27995352	109	120	White women	T098	UMLS:C0043210
+27995352	140	164	type 2 diabetes mellitus	T038	UMLS:C0011860
+27995352	201	209	diabetes	T038	UMLS:C0011847
+27995352	218	231	breast cancer	T038	UMLS:C0678222
+27995352	250	260	population	T098	UMLS:C1257890
+27995352	306	314	diabetes	T038	UMLS:C0011847
+27995352	330	343	breast cancer	T038	UMLS:C0678222
+27995352	344	353	diagnosis	T033	UMLS:C0011900
+27995352	357	370	breast cancer	T038	UMLS:C0678222
+27995352	388	401	Black Women's	T098	UMLS:C0043210
+27995352	402	408	Health	T058	UMLS:C0086388
+27995352	409	414	Study	T062	UMLS:C2603343
+27995352	418	442	prospective cohort study	T062	UMLS:C1709709
+27995352	450	461	Black women	T098	UMLS:C0043210
+27995352	476	489	breast cancer	T038	UMLS:C0678222
+27995352	490	499	diagnosed	T033	UMLS:C0011900
+27995352	537	551	questionnaires	T170	UMLS:C0034394
+27995352	572	592	National Death Index	T170	UMLS:C3889680
+27995352	594	631	Multivariable Cox regression analysis	T170	UMLS:C0034980
+27995352	676	684	diabetes	T038	UMLS:C0011847
+27995352	700	713	breast cancer	T038	UMLS:C0678222
+27995352	774	779	stage	T201	UMLS:C1300072
+27995352	781	799	treatment modality	T058	UMLS:C3527083
+27995352	801	818	estrogen receptor	T103	UMLS:C0034804
+27995352	820	822	ER	T103	UMLS:C0034804
+27995352	836	851	body mass index	T201	UMLS:C1305855
+27995352	868	874	deaths	T033	UMLS:C1306577
+27995352	882	891	follow-up	T058	UMLS:C1522577
+27995352	918	931	breast cancer	T038	UMLS:C0678222
+27995352	933	946	Breast cancer	T038	UMLS:C0678222
+27995352	988	993	women	T098	UMLS:C0043210
+27995352	1007	1016	diagnosed	T033	UMLS:C0011900
+27995352	1022	1030	diabetes	T038	UMLS:C0011847
+27995352	1055	1068	breast cancer	T038	UMLS:C0678222
+27995352	1114	1124	elevations	T082	UMLS:C0702240
+27995352	1143	1146	ER+	T033	UMLS:C1719706
+27995352	1151	1154	ER-	T033	UMLS:C1719707
+27995352	1155	1168	breast cancer	T038	UMLS:C0678222
+27995352	1209	1218	diabetics	T033	UMLS:C0241863
+27995352	1316	1324	diabetes	T038	UMLS:C0011847
+27995352	1337	1350	non-diabetics	T033	UMLS:C0241863
+27995352	1356	1363	results	T033	UMLS:C0456984
+27995352	1364	1371	present	T033	UMLS:C0150312
+27995352	1402	1410	positive	T033	UMLS:C1446409
+27995352	1426	1441	type 2 diabetes	T038	UMLS:C0011860
+27995352	1447	1460	breast cancer	T038	UMLS:C0678222
+27995352	1474	1485	Black women	T098	UMLS:C0043210
+27995352	1519	1532	earlier onset	T033	UMLS:C1833334
+27995352	1536	1551	type 2 diabetes	T038	UMLS:C0011860
+27995352	1555	1566	Black women	T098	UMLS:C0043210
+27995352	1586	1594	diabetes	T038	UMLS:C0011847
+27995352	1610	1616	racial	T098	UMLS:C0034510
+27995352	1617	1628	disparities	T033	UMLS:C1171307
+27995352	1632	1645	breast cancer	T038	UMLS:C0678222

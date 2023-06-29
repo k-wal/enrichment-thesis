@@ -1,0 +1,41 @@
+29222418|t|HEB is required for the specification of fetal IL-17-producing gd T cells.
+29222418|a|IL-17-producing gd T (gdT17) cells are critical components of the innate immune system. However, the gene networks that control their development are unclear. Here we show that HEB (HeLa E-box binding protein, encoded by Tcf12) is required for the generation of a newly defined subset of fetal-derived CD73- gdT17 cells. HEB is required in immature CD24+CD73- gd T cells for the expression of Sox4, Sox13, and Rorc, and these genes are repressed by acute expression of the HEB antagonist Id3. HEB-deficiency also affects mature CD73+ gd T cells, which are defective in RORgt expression and IL-17 production. Additionally, the fetal TCRg chain repertoire is altered, and peripheral Vg4 gd T cells are mostly restricted to the IFNg-producing phenotype in HEB-deficient mice. Therefore, our work identifies HEB-dependent pathways for the development of CD73+ and CD73- gdT17 cells, and provides mechanistic evidence for control of the gdT17 gene network by HEB.
+29222418	0	3	HEB	GeneOrGeneProduct	21406
+29222418	47	52	IL-17	GeneOrGeneProduct	16171
+29222418	75	80	IL-17	GeneOrGeneProduct	16171
+29222418	252	255	HEB	GeneOrGeneProduct	21406
+29222418	257	283	HeLa E-box binding protein	GeneOrGeneProduct	21406
+29222418	296	301	Tcf12	GeneOrGeneProduct	21406
+29222418	377	381	CD73	GeneOrGeneProduct	23959
+29222418	396	399	HEB	GeneOrGeneProduct	21406
+29222418	424	428	CD24	GeneOrGeneProduct	12484
+29222418	429	433	CD73	GeneOrGeneProduct	23959
+29222418	468	472	Sox4	GeneOrGeneProduct	20677
+29222418	474	479	Sox13	GeneOrGeneProduct	20668
+29222418	485	489	Rorc	GeneOrGeneProduct	19885
+29222418	548	551	HEB	GeneOrGeneProduct	21406
+29222418	563	566	Id3	GeneOrGeneProduct	15903
+29222418	568	571	HEB	GeneOrGeneProduct	21406
+29222418	603	607	CD73	GeneOrGeneProduct	23959
+29222418	644	649	RORgt	GeneOrGeneProduct	19885
+29222418	665	670	IL-17	GeneOrGeneProduct	16171
+29222418	707	711	TCRg	GeneOrGeneProduct	110067
+29222418	756	759	Vg4	GeneOrGeneProduct	21638
+29222418	800	804	IFNg	GeneOrGeneProduct	15978
+29222418	828	831	HEB	GeneOrGeneProduct	21406
+29222418	842	846	mice	OrganismTaxon	10090
+29222418	879	882	HEB	GeneOrGeneProduct	21406
+29222418	925	929	CD73	GeneOrGeneProduct	23959
+29222418	935	939	CD73	GeneOrGeneProduct	23959
+29222418	1029	1032	HEB	GeneOrGeneProduct	21406
+29222418	Association	15978	21406	Novel
+29222418	Association	21638	15978	Novel
+29222418	Association	21638	21406	Novel
+29222418	Negative_Correlation	19885	15903	Novel
+29222418	Negative_Correlation	20668	15903	Novel
+29222418	Negative_Correlation	20677	15903	Novel
+29222418	Positive_Correlation	21406	19885	Novel
+29222418	Positive_Correlation	21406	20668	Novel
+29222418	Negative_Correlation	21406	15903	Novel
+29222418	Positive_Correlation	21406	20677	Novel
+29222418	Association	21406	16171	Novel

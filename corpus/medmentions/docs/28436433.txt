@@ -1,0 +1,78 @@
+28436433|t|Pathways and Genes Associated with Immune Dysfunction in Sheep Paratuberculosis
+28436433|a|Multibacillary and paucibacillary paratuberculosis are both caused by Mycobacterium avium subspecies paratuberculosis. Multibacillary lesions are composed largely of infected epithelioid macrophages and paucibacillary lesions contain T cells but few bacteria. Multibacillary disease is similar to human lepromatous leprosy, with variable/high levels of antibody and a dysfunctional immune response. Animals with paucibacillary disease have high cell-mediated immunity and variable levels of antibody. This study aims to characterize the immunological dysfunction using TruSeq analysis of the ileocaecal lymph node that drains disease lesions. Immune dysfunction is highlighted by repression of TCR / CD3 genes, T cell co-receptors / co-stimulators, T cell activation and signal-transduction genes. Inflammation was an acute phase response and chronic inflammation, with little evidence of acute inflammation. The high levels of immunoglobulin and plasma cell transcripts is consistent with the anti-MAP antibody responses in paratuberculosis sheep. Also notable was the overwhelming reduction in mast cell transcripts, potentially affecting DC activation of the immune response. This study also shows that there were no fundamental differences in the gene expression patterns in multibacillary and paucibacillary disease, no shift in T cell genes from Th1 to Th2 pattern but rather an incremental decline into immune dysfunction leading to multibacillary pathology.
+28436433	0	8	Pathways	T044	C1704259
+28436433	13	18	Genes	T028	C0017337
+28436433	19	34	Associated with	T080	C0332281
+28436433	35	41	Immune	T022	C0020962
+28436433	42	53	Dysfunction	T046	C0277785
+28436433	57	62	Sheep	T015	C0036945
+28436433	63	79	Paratuberculosis	T047	C0030524
+28436433	80	94	Multibacillary	T033	C0243095
+28436433	99	113	paucibacillary	T033	C0243095
+28436433	114	130	paratuberculosis	T047	C0030524
+28436433	150	197	Mycobacterium avium subspecies paratuberculosis	T007	C0085442
+28436433	199	213	Multibacillary	T033	C0243095
+28436433	214	221	lesions	T033	C0221198
+28436433	246	254	infected	T033	C0439663
+28436433	255	278	epithelioid macrophages	T025	C0014603
+28436433	283	297	paucibacillary	T033	C0243095
+28436433	298	305	lesions	T033	C0221198
+28436433	314	321	T cells	T025	C0039194
+28436433	330	338	bacteria	T007	C0004611
+28436433	340	354	Multibacillary	T033	C0243095
+28436433	355	362	disease	T047	C0012634
+28436433	383	402	lepromatous leprosy	T047	C0023348
+28436433	433	441	antibody	T116,T129	C0003241
+28436433	448	461	dysfunctional	T169	C0031847
+28436433	462	477	immune response	T042	C0301872
+28436433	479	486	Animals	T008	C0003062
+28436433	492	506	paucibacillary	T033	C0243095
+28436433	507	514	disease	T047	C0012634
+28436433	525	547	cell-mediated immunity	T040	C0020966
+28436433	552	567	variable levels	T080	C0441889
+28436433	571	579	antibody	T116,T129	C0003241
+28436433	617	642	immunological dysfunction	T047	C1532237
+28436433	649	655	TruSeq	T170	C0282574
+28436433	656	664	analysis	T062	C0936012
+28436433	672	682	ileocaecal	T082	C0700426
+28436433	683	693	lymph node	T023	C0024204
+28436433	706	713	disease	T047	C0012634
+28436433	714	721	lesions	T033	C0221198
+28436433	723	729	Immune	T022	C0020962
+28436433	730	741	dysfunction	T046	C0277785
+28436433	760	770	repression	T045	C0920533
+28436433	774	777	TCR	T028	C0524889
+28436433	780	789	CD3 genes	T028	C0017337
+28436433	791	810	T cell co-receptors	T116,T129,T192	C0034790
+28436433	813	827	co-stimulators	T116,T121,T129	C3203085
+28436433	829	846	T cell activation	T043	C1155065
+28436433	851	870	signal-transduction	T043	C0037083
+28436433	871	876	genes	T028	C0017337
+28436433	878	890	Inflammation	T046	C0021368
+28436433	898	918	acute phase response	T046	C0001349
+28436433	923	943	chronic inflammation	T046	C0021376
+28436433	969	987	acute inflammation	T033	C0333361
+28436433	1008	1022	immunoglobulin	T116,T129	C0021027
+28436433	1027	1038	plasma cell	T025	C0032112
+28436433	1039	1050	transcripts	T114	C1519595
+28436433	1074	1101	anti-MAP antibody responses	T038	C0003261
+28436433	1105	1121	paratuberculosis	T047	C0030524
+28436433	1122	1127	sheep	T015	C0036945
+28436433	1163	1172	reduction	T080	C0392756
+28436433	1176	1185	mast cell	T025	C0024880
+28436433	1186	1197	transcripts	T114	C1519595
+28436433	1211	1220	affecting	T169	C0392760
+28436433	1221	1257	DC activation of the immune response	T043	C1817431
+28436433	1331	1346	gene expression	T045	C0017262
+28436433	1359	1373	multibacillary	T033	C0243095
+28436433	1378	1392	paucibacillary	T033	C0243095
+28436433	1393	1400	disease	T047	C0012634
+28436433	1414	1420	T cell	T025	C0039194
+28436433	1421	1426	genes	T028	C0017337
+28436433	1432	1435	Th1	T025	C0242632
+28436433	1439	1442	Th2	T025	C0242633
+28436433	1465	1476	incremental	T081	C1705117
+28436433	1490	1496	immune	T022	C0020962
+28436433	1497	1508	dysfunction	T046	C0277785
+28436433	1520	1534	multibacillary	T033	C0243095
+28436433	1535	1544	pathology	T047	C0012634

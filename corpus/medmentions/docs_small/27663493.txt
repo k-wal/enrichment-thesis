@@ -1,0 +1,17 @@
+27663493|t|Biospark: scalable analysis of large numerical datasets from biological simulations and experiments using Hadoop and Spark
+27663493|a|Data-parallel programming techniques can dramatically decrease the time needed to analyze large datasets. While these methods have provided significant improvements for sequencing-based analyses, other areas of biological informatics have not yet adopted them. Here, we introduce Biospark, a new framework for performing data-parallel analysis on large numerical datasets. Biospark builds upon the open source Hadoop and Spark projects, bringing domain-specific features for biology. Source code is licensed under the Apache 2.0 open source license and is available at the project website: https://www.assembla.com/spaces/roberts-lab-public/wiki/Biospark CONTACT: eroberts@jhu.eduSupplementary information: Supplementary data are available at Bioinformatics online.
+27663493	0	8	Biospark	T170	UMLS:C0037589
+27663493	10	27	scalable analysis	T062	UMLS:C0936012
+27663493	72	83	simulations	T062	UMLS:C0679083
+27663493	88	99	experiments	T062	UMLS:C0681814
+27663493	106	122	Hadoop and Spark	T170	UMLS:C0037589
+27663493	219	227	datasets	T170	UMLS:C0150098
+27663493	241	248	methods	T170	UMLS:C0025663
+27663493	292	317	sequencing-based analyses	T058	UMLS:C0162801
+27663493	334	356	biological informatics	T091	UMLS:C1140694
+27663493	403	411	Biospark	T170	UMLS:C0037589
+27663493	419	428	framework	T170	UMLS:C1882937
+27663493	496	504	Biospark	T170	UMLS:C0037589
+27663493	533	549	Hadoop and Spark	T170	UMLS:C0037589
+27663493	569	593	domain-specific features	T170	UMLS:C0920998
+27663493	598	605	biology	T091	UMLS:C0005532

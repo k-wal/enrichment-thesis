@@ -1,0 +1,82 @@
+28268982|t|Acoustic evaluation of pirfenidone on patients with combined pulmonary fibrosis emphysema syndrome
+28268982|a|The combined pulmonary fibrosis emphysema syndrome (CPFES) overall has a poor prognosis with a 5-year survival of 35-80%. Consequently, to evaluate possible positive effects on patients of novel agents as pirfenidone is relevant. However, the efficacy of pirfenidone in CPFES patients is still not well-known. In this study we propose an alternative to evaluate the effects of pirfenidone treatment on CPFES patients via acoustic information. Quantitative analysis of discontinuous adventitious lung sounds (DLS), known as crackles, has been promising to detect and characterize diverse pulmonary pathologies. The present study combines independent components (ICs) analysis of LS and the automated selection of ICs associated with DLS. ICs 's features as fractal dimension, entropy and sparsity produce several clusters by kmeans. Those clusters containing ICs of DLS are exclusively considered to finally estimate the number of DLS per ICs by a time - variant AR modeling. For the evaluation of the effects of pirfenidone, the 2D DLS - ICs spatial distribution in conjunction with the estimated number of DLS events are shown. The methodology is applied to two real cases of CPFES with 6 and 12 months of treatment. The acoustica l evaluation indicates that pirfenidone treatment may not be satisfactory for CPFES patients but further evaluation has to be performed.
+28268982	0	8	Acoustic	T070	C0001166
+28268982	9	19	evaluation	T058	C0220825
+28268982	23	34	pirfenidone	T109,T121	C0298067
+28268982	38	46	patients	T101	C0030705
+28268982	52	98	combined pulmonary fibrosis emphysema syndrome	T047	C3872815
+28268982	103	149	combined pulmonary fibrosis emphysema syndrome	T047	C3872815
+28268982	151	156	CPFES	T047	C3872815
+28268982	172	186	poor prognosis	T033	C0278252
+28268982	201	209	survival	T081	C1709301
+28268982	256	264	positive	T033	C1446409
+28268982	265	272	effects	T080	C1280500
+28268982	276	284	patients	T101	C0030705
+28268982	304	315	pirfenidone	T109,T121	C0298067
+28268982	319	327	relevant	T080	C2347946
+28268982	342	350	efficacy	T080	C0087113
+28268982	354	365	pirfenidone	T109,T121	C0298067
+28268982	369	374	CPFES	T047	C3872815
+28268982	375	383	patients	T101	C0030705
+28268982	393	407	not well-known	T080	C0439673
+28268982	452	460	evaluate	T058	C0220825
+28268982	465	472	effects	T080	C1280500
+28268982	476	487	pirfenidone	T109,T121	C0298067
+28268982	488	497	treatment	T061	C0087111
+28268982	501	506	CPFES	T047	C3872815
+28268982	507	515	patients	T101	C0030705
+28268982	520	540	acoustic information	T070	C0001166
+28268982	542	563	Quantitative analysis	T081	C0034384
+28268982	567	580	discontinuous	T079	C0439599
+28268982	581	605	adventitious lung sounds	T033	C0425542
+28268982	607	610	DLS	T033	C0425542
+28268982	622	630	crackles	T033	C0034642
+28268982	654	660	detect	T033	C0442726
+28268982	665	677	characterize	T052	C1880022
+28268982	686	707	pulmonary pathologies	T047	C0748168
+28268982	736	747	independent	T078	C0085862
+28268982	748	758	components	T078	C1552020
+28268982	760	763	ICs	T078	C1552020
+28268982	765	773	analysis	T062	C1710191
+28268982	777	779	LS	T201	C0035234
+28268982	788	797	automated	T169	C0205554
+28268982	798	807	selection	T052	C1707391
+28268982	811	814	ICs	T078	C1552020
+28268982	815	830	associated with	T080	C0332281
+28268982	831	834	DLS	T033	C0425542
+28268982	836	839	ICs	T078	C1552020
+28268982	855	862	fractal	T077	C0206163
+28268982	863	872	dimension	T081	C0439534
+28268982	874	881	entropy	T067	C0376522
+28268982	886	894	sparsity	T169	C1704711
+28268982	911	919	clusters	T062	C0009085
+28268982	923	929	kmeans	T170	C0002045
+28268982	937	945	clusters	T062	C0009085
+28268982	957	960	ICs	T078	C1552020
+28268982	964	967	DLS	T033	C0425542
+28268982	1006	1014	estimate	T081	C0750572
+28268982	1029	1032	DLS	T033	C0425542
+28268982	1037	1040	ICs	T078	C1552020
+28268982	1046	1050	time	T079	C0040223
+28268982	1053	1060	variant	T080	C0205419
+28268982	1061	1072	AR modeling	UnknownType	C0814919
+28268982	1082	1092	evaluation	T058	C0220825
+28268982	1100	1107	effects	T080	C1280500
+28268982	1111	1122	pirfenidone	T109,T121	C0298067
+28268982	1131	1134	DLS	T033	C0425542
+28268982	1137	1140	ICs	T078	C1552020
+28268982	1141	1161	spatial distribution	T082	C0037775
+28268982	1165	1176	conjunction	T078	C2699427
+28268982	1206	1209	DLS	T033	C0425542
+28268982	1262	1266	real	T080	C0237400
+28268982	1267	1272	cases	T169	C0868928
+28268982	1276	1281	CPFES	T047	C3872815
+28268982	1296	1302	months	T079	C0439231
+28268982	1306	1315	treatment	T061	C0087111
+28268982	1321	1330	acoustica	T070	C0001166
+28268982	1333	1343	evaluation	T058	C0220825
+28268982	1359	1370	pirfenidone	T109,T121	C0298067
+28268982	1371	1380	treatment	T061	C0087111
+28268982	1409	1414	CPFES	T047	C3872815
+28268982	1415	1423	patients	T101	C0030705
+28268982	1436	1446	evaluation	T058	C0220825

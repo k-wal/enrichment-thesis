@@ -1,0 +1,79 @@
+27906594|t|The Relationship Between Thyroid Function and the Prevalence of Type 2 Diabetes Mellitus in Euthyroid Subjects
+27906594|a|Thyroid hormones (THs) are primarily responsible for the regulation of energy balance and metabolism, suggesting that TH levels may contribute to the development of type 2 diabetes mellitus (T2DM). However, few studies have investigated the relationship between TH and T2DM in a general population. The aim of this study was to evaluate whether serum TH levels within the reference range are related to T2DM. A cross-sectional study (n = 15,296) was performed in Tianjin, China. Serum free triiodothyronine (FT3), free thyroxine (FT4), and thyroid-stimulating hormone (TSH) levels were measured by chemiluminescence immunoassay, and T2DM was defined according to the American Diabetes Association criteria. Multiple logistic regression models were used to assess the sex - specific relationships between FT3, FT4, FT3 / FT4 ratios, and TSH quintiles and T2DM. The prevalence of T2DM was 16.2% in males and 7.7% in females. In males, the multivariable-adjusted odds ratios (95% confidence interval) of T2DM for increasing quintiles of FT3, FT4, and FT3 / FT4 ratios were 1.00, 0.75(0.63 to 0.89), 0.70(0.58 to 0.84), 0.63(0.52 to 0.76), 0.56(0.46 to 0.68; P for trend < 0.0001); 1.00, 1.05(0.87 to 1.27), 1.16(0.96 to 1.40), 1.09(0.90 to 1.31), 1.29(1.07 to 1.56; P for trend = 0.01); and 1.00, 0.69(0.58 to 0.83), 0.72(0.60 to 0.86), 0.59(0.48 to 0.71), and 0.55(0.46 to 0.66; P for trend < 0.0001), respectively. Similar results also were observed in females. In contrast, a strong negative correlation between TSH and T2DM was observed in males, but not in females. This study demonstrated that decreased FT3, FT3 / FT4 ratios, and increased FT4 levels are independently related to a higher prevalence of T2DM in both males and females, and TSH is inversely related to T2DM in males only.
+27906594	25	32	Thyroid	T023	C0040132
+27906594	33	41	Function	T169	C0542341
+27906594	50	60	Prevalence	T081	C0033105
+27906594	64	88	Type 2 Diabetes Mellitus	T047	C0011860
+27906594	92	101	Euthyroid	T033	C0117002
+27906594	102	110	Subjects	T098	C0080105
+27906594	111	127	Thyroid hormones	T116,T125	C0040135
+27906594	129	132	THs	T116,T125	C0040135
+27906594	168	181	regulation of	T038	C1327622
+27906594	182	196	energy balance	T040	C0597987
+27906594	201	211	metabolism	T040	C0025519
+27906594	229	238	TH levels	T059	C0430083
+27906594	276	300	type 2 diabetes mellitus	T047	C0011860
+27906594	302	306	T2DM	T047	C0011860
+27906594	335	347	investigated	T169	C1292732
+27906594	373	375	TH	T116,T125	C0040135
+27906594	380	384	T2DM	T047	C0011860
+27906594	398	408	population	T098	C1257890
+27906594	456	461	serum	T031	C0229671
+27906594	462	471	TH levels	T059	C0430083
+27906594	514	518	T2DM	T047	C0011860
+27906594	522	543	cross-sectional study	T062	C0010362
+27906594	574	581	Tianjin	UnknownType	C0681784
+27906594	583	588	China	T083	C0008115
+27906594	590	595	Serum	T031	C0229671
+27906594	596	617	free triiodothyronine	T116,T125	C0370097
+27906594	619	622	FT3	T116,T125	C0370097
+27906594	625	639	free thyroxine	T116,T125	C0312452
+27906594	641	644	FT4	T116,T125	C0312452
+27906594	651	691	thyroid-stimulating hormone (TSH) levels	T034	C0428414
+27906594	709	738	chemiluminescence immunoassay	T059	C3825122
+27906594	744	748	T2DM	T047	C0011860
+27906594	818	826	Multiple	T081	C0439064
+27906594	827	846	logistic regression	T062	C0206031
+27906594	847	853	models	T170	C3161035
+27906594	878	881	sex	T032	C0079399
+27906594	884	892	specific	T080	C0205369
+27906594	893	906	relationships	T080	C0439849
+27906594	915	918	FT3	T116,T125	C0370097
+27906594	920	923	FT4	T116,T125	C0312452
+27906594	925	928	FT3	T116,T125	C0370097
+27906594	931	934	FT4	T116,T125	C0312452
+27906594	935	941	ratios	T081	C0456603
+27906594	947	950	TSH	T116,T121,T125	C0040160
+27906594	951	960	quintiles	T201	C1508496
+27906594	965	969	T2DM	T047	C0011860
+27906594	975	985	prevalence	T081	C0033105
+27906594	989	993	T2DM	T047	C0011860
+27906594	1007	1012	males	T032	C0086582
+27906594	1025	1032	females	T032	C0086287
+27906594	1037	1042	males	T032	C0086582
+27906594	1071	1082	odds ratios	T081	C0028873
+27906594	1088	1107	confidence interval	T081	C0009667
+27906594	1112	1116	T2DM	T047	C0011860
+27906594	1132	1141	quintiles	T201	C1508496
+27906594	1145	1148	FT3	T116,T125	C0370097
+27906594	1150	1153	FT4	T116,T125	C0312452
+27906594	1159	1162	FT3	T116,T125	C0370097
+27906594	1165	1168	FT4	T116,T125	C0312452
+27906594	1169	1175	ratios	T081	C0456603
+27906594	1563	1570	females	T032	C0086287
+27906594	1623	1626	TSH	T116,T121,T125	C0040160
+27906594	1631	1635	T2DM	T047	C0011860
+27906594	1652	1657	males	T032	C0086582
+27906594	1670	1677	females	T032	C0086287
+27906594	1718	1721	FT3	T116,T125	C0370097
+27906594	1723	1726	FT3	T116,T125	C0370097
+27906594	1729	1732	FT4	T116,T125	C0312452
+27906594	1733	1739	ratios	T081	C0456603
+27906594	1755	1765	FT4 levels	T034	C0428418
+27906594	1797	1814	higher prevalence	T081	C1512456
+27906594	1818	1822	T2DM	T047	C0011860
+27906594	1831	1836	males	T032	C0086582
+27906594	1841	1848	females	T032	C0086287
+27906594	1854	1857	TSH	T116,T121,T125	C0040160
+27906594	1882	1886	T2DM	T047	C0011860
+27906594	1890	1895	males	T032	C0086582

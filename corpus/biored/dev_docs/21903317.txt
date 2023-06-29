@@ -1,0 +1,59 @@
+21903317|t|Autosomal dominant mutation in the signal peptide of renin in a kindred with anemia, hyperuricemia, and CKD.
+21903317|a|Homozygous or compound heterozygous mutations in renin (REN) cause renal tubular dysgenesis, which is characterized by death in utero due to kidney failure and pulmonary hypoplasia. The phenotype resembles the fetopathy caused by angiotensin-converting enzyme inhibitor or angiotensin receptor blocker intake during pregnancy. Recently, heterozygous REN mutations were shown to result in early-onset hyperuricemia, anemia, and chronic kidney disease (CKD). To date, only 3 different heterozygous REN mutations have been published. We report mutation analysis of the REN gene in 39 kindreds with hyperuricemia and CKD who previously tested negative for mutations in the UMOD (uromodulin) and HNF1B (hepatocyte nuclear factor 1b) genes. We identified one kindred with a novel thymidine to cytosine mutation at position 28 in the REN complementary DNA, corresponding to a tryptophan to arginine substitution at amino acid 10, which is found within the signal sequence (c.28T>C; p.W10R). On this basis, we conclude that REN mutations are rare events in patients with CKD. Within the kindred, we found affected individuals over 4 generations who carried the novel REN mutation and were characterized by significant anemia, hyperuricemia, and CKD. Anemia was severe and disproportional to the degree of decreased kidney function. Because all heterozygous REN mutations that have been described are localized in the signal sequence, screening of the REN gene for patients with CKD with hyperuricemia and anemia may best be focused on sequencing of exon 1, which encodes the signal peptide.
+21903317	53	58	renin	GeneOrGeneProduct	5972
+21903317	77	83	anemia	DiseaseOrPhenotypicFeature	D000740
+21903317	85	98	hyperuricemia	DiseaseOrPhenotypicFeature	D033461
+21903317	104	107	CKD	DiseaseOrPhenotypicFeature	D051436
+21903317	158	163	renin	GeneOrGeneProduct	5972
+21903317	165	168	REN	GeneOrGeneProduct	5972
+21903317	176	200	renal tubular dysgenesis	DiseaseOrPhenotypicFeature	C537048
+21903317	228	233	death	DiseaseOrPhenotypicFeature	D003643
+21903317	250	264	kidney failure	DiseaseOrPhenotypicFeature	D051437
+21903317	269	289	pulmonary hypoplasia	DiseaseOrPhenotypicFeature	D008171
+21903317	319	328	fetopathy	DiseaseOrPhenotypicFeature	C576203
+21903317	339	378	angiotensin-converting enzyme inhibitor	ChemicalEntity	D000806
+21903317	382	410	angiotensin receptor blocker	ChemicalEntity	D057911
+21903317	459	462	REN	GeneOrGeneProduct	5972
+21903317	509	522	hyperuricemia	DiseaseOrPhenotypicFeature	D033461
+21903317	524	530	anemia	DiseaseOrPhenotypicFeature	D000740
+21903317	536	558	chronic kidney disease	DiseaseOrPhenotypicFeature	D051436
+21903317	560	563	CKD	DiseaseOrPhenotypicFeature	D051436
+21903317	605	608	REN	GeneOrGeneProduct	5972
+21903317	675	678	REN	GeneOrGeneProduct	5972
+21903317	704	717	hyperuricemia	DiseaseOrPhenotypicFeature	D033461
+21903317	722	725	CKD	DiseaseOrPhenotypicFeature	D051436
+21903317	778	782	UMOD	GeneOrGeneProduct	7369
+21903317	784	794	uromodulin	GeneOrGeneProduct	7369
+21903317	800	805	HNF1B	GeneOrGeneProduct	6928
+21903317	807	835	hepatocyte nuclear factor 1b	GeneOrGeneProduct	6928
+21903317	883	928	thymidine to cytosine mutation at position 28	SequenceVariant	c|SUB|T|28|C
+21903317	936	939	REN	GeneOrGeneProduct	5972
+21903317	978	1030	tryptophan to arginine substitution at amino acid 10	SequenceVariant	p|SUB|W|10|R
+21903317	1075	1082	c.28T>C	SequenceVariant	c|SUB|T|28|C
+21903317	1084	1090	p.W10R	SequenceVariant	p|SUB|W|10|R
+21903317	1125	1128	REN	GeneOrGeneProduct	5972
+21903317	1158	1166	patients	OrganismTaxon	9606
+21903317	1172	1175	CKD	DiseaseOrPhenotypicFeature	D051436
+21903317	1268	1271	REN	GeneOrGeneProduct	5972
+21903317	1319	1325	anemia	DiseaseOrPhenotypicFeature	D000740
+21903317	1327	1340	hyperuricemia	DiseaseOrPhenotypicFeature	D033461
+21903317	1346	1349	CKD	DiseaseOrPhenotypicFeature	D051436
+21903317	1351	1357	Anemia	DiseaseOrPhenotypicFeature	D000740
+21903317	1458	1461	REN	GeneOrGeneProduct	5972
+21903317	1552	1555	REN	GeneOrGeneProduct	5972
+21903317	1565	1573	patients	OrganismTaxon	9606
+21903317	1579	1582	CKD	DiseaseOrPhenotypicFeature	D051436
+21903317	1588	1601	hyperuricemia	DiseaseOrPhenotypicFeature	D033461
+21903317	1606	1612	anemia	DiseaseOrPhenotypicFeature	D000740
+21903317	Positive_Correlation	p|SUB|W|10|R	D051436	Novel
+21903317	Positive_Correlation	p|SUB|W|10|R	D000740	Novel
+21903317	Positive_Correlation	p|SUB|W|10|R	D033461	Novel
+21903317	Positive_Correlation	c|SUB|T|28|C	D051436	Novel
+21903317	Positive_Correlation	c|SUB|T|28|C	D000740	Novel
+21903317	Positive_Correlation	c|SUB|T|28|C	D033461	Novel
+21903317	Association	5972	C537048	No
+21903317	Association	5972	D051436	No
+21903317	Association	5972	D000740	No
+21903317	Association	5972	D033461	No
+21903317	Positive_Correlation	C576203	D057911	No
+21903317	Positive_Correlation	C576203	D000806	No

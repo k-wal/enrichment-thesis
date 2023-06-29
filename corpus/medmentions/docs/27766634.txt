@@ -1,0 +1,75 @@
+27766634|t|Reliability of 30-Day Readmission Measures Used in the Hospital Readmission Reduction Program
+27766634|a|To assess the reliability of risk-standardized readmission rates (RSRRs) for medical conditions and surgical procedures used in the Hospital Readmission Reduction Program (HRRP). State Inpatient Databases for six states from 2011 to 2013 were used to identify patient cohorts for the six conditions used in the HRRP, which was augmented with hospital characteristic and HRRP penalty data. Hierarchical logistic regression models estimated hospital -level RSRRs for each condition, the reliability of each RSRR, and the extent to which socioeconomic and hospital factors further explain RSRR variation. We used publicly available data to estimate payments for excess readmissions in hospitals with reliable and unreliable RSRRs. Only RSRRs for surgical procedures exceeded the reliability benchmark for most hospitals, whereas RSRRs for medical conditions were typically below the benchmark. Additional adjustment for socioeconomic and hospital factors modestly explained variation in RSRRs. Approximately 25 percent of payments for excess readmissions were tied to unreliable RSRRs. Many of the RSRRs employed by the HRRP are unreliable, and one quarter of payments for excess readmissions are associated with unreliable RSRRs. Unreliable measures blur the connection between hospital performance and incentives, and threaten the success of the HRRP.
+27766634	0	11	Reliability	T081	C2347947
+27766634	22	42	Readmission Measures	T058	C0030700
+27766634	55	93	Hospital Readmission Reduction Program	T058	C0679897
+27766634	97	103	assess	T058	C0184514
+27766634	108	119	reliability	T081	C2347947
+27766634	123	158	risk-standardized readmission rates	T081	C1521828
+27766634	160	165	RSRRs	T081	C1521828
+27766634	171	189	medical conditions	T033	C3843040
+27766634	194	213	surgical procedures	T061	C0543467
+27766634	226	264	Hospital Readmission Reduction Program	T058	C0679897
+27766634	266	270	HRRP	T058	C0679897
+27766634	273	278	State	T083	C1301808
+27766634	279	288	Inpatient	T101	C0021562
+27766634	289	298	Databases	T170	C0242356
+27766634	307	313	states	T083	C1301808
+27766634	354	369	patient cohorts	T098	C0599755
+27766634	382	392	conditions	T046	C0243082
+27766634	405	409	HRRP	T058	C0679897
+27766634	421	430	augmented	T081	C0205217
+27766634	436	459	hospital characteristic	T080	C1510665
+27766634	464	468	HRRP	T058	C0679897
+27766634	469	481	penalty data	T078	C1511726
+27766634	483	495	Hierarchical	T080	C0205556
+27766634	496	522	logistic regression models	UnknownType	C0681925
+27766634	523	532	estimated	T081	C0750572
+27766634	533	541	hospital	T073,T093	C0019994
+27766634	549	554	RSRRs	T081	C1521828
+27766634	564	573	condition	T046	C0243082
+27766634	579	590	reliability	T081	C2347947
+27766634	599	603	RSRR	T081	C1521828
+27766634	629	642	socioeconomic	T102	C0037464
+27766634	647	663	hospital factors	T080	C1510665
+27766634	680	684	RSRR	T081	C1521828
+27766634	685	694	variation	T080	C0205419
+27766634	723	727	data	T078	C1511726
+27766634	731	739	estimate	T081	C0750572
+27766634	740	748	payments	T081	C0680264
+27766634	760	785	readmissions in hospitals	T058	C0600290
+27766634	791	799	reliable	T170	C3858758
+27766634	804	814	unreliable	T078	C0749770
+27766634	815	820	RSRRs	T081	C1521828
+27766634	827	832	RSRRs	T081	C1521828
+27766634	837	856	surgical procedures	T061	C0543467
+27766634	870	881	reliability	T081	C2347947
+27766634	882	891	benchmark	T081	C0525063
+27766634	901	910	hospitals	T073,T093	C0019994
+27766634	920	925	RSRRs	T081	C1521828
+27766634	930	948	medical conditions	T033	C3843040
+27766634	974	983	benchmark	T081	C0525063
+27766634	996	1006	adjustment	T169	C0456081
+27766634	1011	1024	socioeconomic	T102	C0037464
+27766634	1029	1045	hospital factors	T080	C1510665
+27766634	1065	1074	variation	T080	C0205419
+27766634	1078	1083	RSRRs	T081	C1521828
+27766634	1113	1121	payments	T081	C0680264
+27766634	1133	1145	readmissions	T058	C0600290
+27766634	1159	1169	unreliable	T078	C0749770
+27766634	1170	1175	RSRRs	T081	C1521828
+27766634	1189	1194	RSRRs	T081	C1521828
+27766634	1211	1215	HRRP	T058	C0679897
+27766634	1220	1230	unreliable	T078	C0749770
+27766634	1240	1247	quarter	T081	C2825406
+27766634	1251	1259	payments	T081	C0680264
+27766634	1271	1283	readmissions	T058	C0600290
+27766634	1304	1314	unreliable	T078	C0749770
+27766634	1315	1320	RSRRs	T081	C1521828
+27766634	1322	1332	Unreliable	T078	C0749770
+27766634	1342	1346	blur	T080	C1511231
+27766634	1351	1361	connection	T082	C0449379
+27766634	1370	1378	hospital	T073,T093	C0019994
+27766634	1379	1390	performance	T052	C1882330
+27766634	1395	1405	incentives	T080	C0021147
+27766634	1439	1443	HRRP	T058	C0679897

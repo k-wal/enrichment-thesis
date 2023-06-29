@@ -1,0 +1,75 @@
+28272254|t|Real role of β-blockers in regression of left ventricular mass in hypertension patients: Bayesian network meta-analysis
+28272254|a|Left ventricular hypertrophy (LVH) is commonly present in patients with hypertension (HT). According to the expert consensus document from American, angiotensin-converting enzyme inhibitor (ACEI) and angiotensin receptor blockers (ARBs) were recommended as 1st-line therapeutic drugs. However, none noticed the different efficacy between fat-soluble and selective β1-receptor blockers (FS-β-B) and other β-blockers on regression of LVH before. The aim of this analysis was to compare the efficacy of FS-β-B with the other 4 different classes of antihypertensive drugs (ACEI, ARBs, calcium channel blockers [CCBs], and diuretics) on regression of LVH. Relative trials were identified in the PubMed, Web of Science, OVID EBM Reviews and Cochrane databases, and the relevant papers were examined. We performed both traditional and Bayesian meta-analysis of randomized controlled trials (RCTs) about the regression of LVH. Sensitivity analysis and regression analysis were performed to explore possible sources of heterogeneity. Inconsistency analysis was performed to check whether the analysis of the trials in the network was indeed consistent. A total of 41 RCTs involving 2566 patients with HT and LVH were included in this analysis. Bayesian network meta-analysis indicated no statistically significant differences between these groups: FS-β-B and ACEI (MD, -7.09; 95% CI, -14.99, 1.27); FS-β-B and ARB (MD, -2.66; 95% Cl, -12.02, 6.31). Although FS-β-B showed greater efficacy when compared with diuretic (MD, 13.04; 95% CI, 3.38, 22.59) or CCB (MD, 10.90; 95% CI, 1.98, 19.49). The probabilities of being among the most efficacious treatments were: FS-β-B (72%), ARB (27%), ACEI (0.01%), CCB (0.00%), and diuretic (0.00%). Evidence from our analysis reveals that FS-β-B have potential to become 1st-line therapeutic drugs in HT and LVH patients. However, the real efficacy of FS-β-B on regression of LVH should be confirmed by further large, high quality trials considering the limitation of the study number.
+28272254	13	23	β-blockers	T103	UMLS:C0001645
+28272254	41	62	left ventricular mass	T033	UMLS:C0455825
+28272254	66	78	hypertension	T038	UMLS:C0020538
+28272254	89	105	Bayesian network	T170	UMLS:C0026348
+28272254	106	119	meta-analysis	T062	UMLS:C0920317
+28272254	120	148	Left ventricular hypertrophy	T038	UMLS:C0149721
+28272254	150	153	LVH	T038	UMLS:C0149721
+28272254	192	204	hypertension	T038	UMLS:C0020538
+28272254	206	208	HT	T038	UMLS:C0020538
+28272254	228	253	expert consensus document	T170	UMLS:C1301746
+28272254	259	267	American	T098	UMLS:C0596070
+28272254	269	308	angiotensin-converting enzyme inhibitor	T103	UMLS:C0003015
+28272254	310	314	ACEI	T103	UMLS:C0003015
+28272254	320	349	angiotensin receptor blockers	T103	UMLS:C0815017
+28272254	351	355	ARBs	T103	UMLS:C0815017
+28272254	386	403	therapeutic drugs	T103	UMLS:C0013227
+28272254	458	504	fat-soluble and selective β1-receptor blockers	T103	UMLS:C0304516
+28272254	506	512	FS-β-B	T103	UMLS:C0304516
+28272254	524	534	β-blockers	T103	UMLS:C0001645
+28272254	552	555	LVH	T038	UMLS:C0149721
+28272254	580	588	analysis	T062	UMLS:C0920317
+28272254	620	626	FS-β-B	T103	UMLS:C0304516
+28272254	665	687	antihypertensive drugs	T103	UMLS:C0003364
+28272254	689	693	ACEI	T103	UMLS:C0003015
+28272254	695	699	ARBs	T103	UMLS:C0815017
+28272254	701	725	calcium channel blockers	T103	UMLS:C0006684
+28272254	727	731	CCBs	T103	UMLS:C0006684
+28272254	738	747	diuretics	T103	UMLS:C0012798
+28272254	766	769	LVH	T038	UMLS:C0149721
+28272254	780	786	trials	T062	UMLS:C0008976
+28272254	810	816	PubMed	T170	UMLS:C1138432
+28272254	818	832	Web of Science	T170	UMLS:C2349146
+28272254	834	850	OVID EBM Reviews	T170	UMLS:C0282443
+28272254	855	873	Cochrane databases	T170	UMLS:C0242356
+28272254	892	898	papers	T170	UMLS:C1706852
+28272254	948	956	Bayesian	T170	UMLS:C0026348
+28272254	957	970	meta-analysis	T062	UMLS:C0920317
+28272254	974	1002	randomized controlled trials	T062	UMLS:C0206035
+28272254	1004	1008	RCTs	T062	UMLS:C0206035
+28272254	1034	1037	LVH	T038	UMLS:C0149721
+28272254	1039	1059	Sensitivity analysis	T062	UMLS:C0936012
+28272254	1064	1083	regression analysis	T170	UMLS:C0034980
+28272254	1145	1167	Inconsistency analysis	T062	UMLS:C0936012
+28272254	1203	1211	analysis	T062	UMLS:C0920317
+28272254	1219	1225	trials	T062	UMLS:C0008976
+28272254	1233	1240	network	T170	UMLS:C0026348
+28272254	1278	1282	RCTs	T062	UMLS:C0206035
+28272254	1312	1314	HT	T038	UMLS:C0020538
+28272254	1319	1322	LVH	T038	UMLS:C0149721
+28272254	1345	1353	analysis	T062	UMLS:C0920317
+28272254	1355	1371	Bayesian network	T170	UMLS:C0026348
+28272254	1372	1385	meta-analysis	T062	UMLS:C0920317
+28272254	1459	1465	FS-β-B	T103	UMLS:C0304516
+28272254	1470	1474	ACEI	T103	UMLS:C0003015
+28272254	1510	1516	FS-β-B	T103	UMLS:C0304516
+28272254	1521	1524	ARB	T103	UMLS:C0815017
+28272254	1569	1575	FS-β-B	T103	UMLS:C0304516
+28272254	1619	1627	diuretic	T103	UMLS:C0012798
+28272254	1664	1667	CCB	T103	UMLS:C0006684
+28272254	1756	1766	treatments	T058	UMLS:C0087111
+28272254	1773	1779	FS-β-B	T103	UMLS:C0304516
+28272254	1787	1790	ARB	T103	UMLS:C0815017
+28272254	1798	1802	ACEI	T103	UMLS:C0003015
+28272254	1812	1815	CCB	T103	UMLS:C0006684
+28272254	1829	1837	diuretic	T103	UMLS:C0012798
+28272254	1865	1873	analysis	T062	UMLS:C0920317
+28272254	1887	1893	FS-β-B	T103	UMLS:C0304516
+28272254	1928	1945	therapeutic drugs	T103	UMLS:C0013227
+28272254	1949	1951	HT	T038	UMLS:C0020538
+28272254	1956	1959	LVH	T038	UMLS:C0149721
+28272254	2000	2006	FS-β-B	T103	UMLS:C0304516
+28272254	2024	2027	LVH	T038	UMLS:C0149721
+28272254	2079	2085	trials	T062	UMLS:C0008976

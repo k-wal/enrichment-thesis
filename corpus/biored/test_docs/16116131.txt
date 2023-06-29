@@ -1,0 +1,13 @@
+16116131|t|rTMS of supplementary motor area modulates therapy-induced dyskinesias in Parkinson disease.
+16116131|a|The neural mechanisms and circuitry involved in levodopa-induced dyskinesia are unclear. Using repetitive transcranial magnetic stimulation (rTMS) over the supplementary motor area (SMA) in a group of patients with advanced Parkinson disease, the authors investigated whether modulation of SMA excitability may result in a modification of a dyskinetic state induced by continuous apomorphine infusion. rTMS at 1 Hz was observed to markedly reduce drug-induced dyskinesias, whereas 5-Hz rTMS induced a slight but not significant increase.
+16116131	59	70	dyskinesias	DiseaseOrPhenotypicFeature	D004409
+16116131	74	91	Parkinson disease	DiseaseOrPhenotypicFeature	D010300
+16116131	141	149	levodopa	ChemicalEntity	D007980
+16116131	158	168	dyskinesia	DiseaseOrPhenotypicFeature	D004409
+16116131	294	302	patients	OrganismTaxon	9606
+16116131	317	334	Parkinson disease	DiseaseOrPhenotypicFeature	D010300
+16116131	434	444	dyskinetic	DiseaseOrPhenotypicFeature	D004409
+16116131	473	484	apomorphine	ChemicalEntity	D001058
+16116131	540	564	drug-induced dyskinesias	DiseaseOrPhenotypicFeature	D004409
+16116131	Positive_Correlation	D001058	D004409	Novel
+16116131	Positive_Correlation	D007980	D004409	No

@@ -1,0 +1,56 @@
+27913358|t|Conformational sampling of a biomolecular rugged energy landscape
+27913358|a|The protein structure refinement using conformational sampling is important in hitherto protein studies. In this paper we examined the protein structure refinement by means of potential energy minimization using immune computing as a method of sampling conformations. The method was tested on the x-ray structure and 30 decoys of the mutant of [Leu]Enkephalin, a paradigmatic example of the biomolecular multiple-minima problem. In order to score the refined conformations, we used a standard potential energy function with the OPLSAA force field. The effectiveness of the search was assessed using a variety of methods. The robustness of sampling was checked by the energy yield function which measures quantitatively the number of the peptide decoys residing in an energetic funnel. Furthermore, the potential energy -dependent Pareto fronts were calculated to elucidate dissimilarities between peptide conformations and the native state as observed by x-ray crystallography. Our results showed that the probed potential energy landscape of [Leu]Enkephalin is self-similar on different metric scales and that the local potential energy minima of the peptide decoys are metastable, thus they can be refined to conformations whose potential energy is decreased by approximately -250 kJ/mol.
+27913358	0	23	Conformational sampling	T078	C0870078
+27913358	29	55	biomolecular rugged energy	T081	C1442080
+27913358	56	65	landscape	T082	C0870781
+27913358	70	87	protein structure	T116	C1510464
+27913358	88	98	refinement	T080	C0205556
+27913358	105	128	conformational sampling	T078	C0870078
+27913358	154	161	protein	T116,T123	C0033684
+27913358	154	169	protein studies	T062	C0242481
+27913358	188	196	examined	T033	C0332128
+27913358	201	218	protein structure	T116	C1510464
+27913358	219	229	refinement	T080	C0205556
+27913358	242	258	potential energy	T070	C0678538
+27913358	259	271	minimization	T080	C0205556
+27913358	278	294	immune computing	T170	C0009627
+27913358	300	306	method	T170	C0025663
+27913358	310	318	sampling	T078	C0870078
+27913358	319	332	conformations	T082	C1518960
+27913358	338	344	method	T170	C0025663
+27913358	363	378	x-ray structure	T082	C0678594
+27913358	386	392	decoys	T116	C0030956
+27913358	400	406	mutant	T049	C0596988
+27913358	410	425	[Leu]Enkephalin	T116,T123	C4285073
+27913358	429	449	paradigmatic example	T077	C1707959
+27913358	457	493	biomolecular multiple-minima problem	T033	C0243095
+27913358	525	538	conformations	T082	C1518960
+27913358	550	558	standard	T170	C0038137
+27913358	559	575	potential energy	T070	C0678538
+27913358	576	584	function	T169	C0542341
+27913358	594	612	OPLSAA force field	T170	C0282574
+27913358	650	658	assessed	T052	C1516048
+27913358	678	685	methods	T170	C0025663
+27913358	705	713	sampling	T078	C0870078
+27913358	718	725	checked	T052	C1283174
+27913358	733	754	energy yield function	T080	C0205556
+27913358	761	769	measures	T081	C0079809
+27913358	770	784	quantitatively	T081	C0392762
+27913358	803	817	peptide decoys	T116	C0030956
+27913358	833	849	energetic funnel	T082	C1254362
+27913358	868	884	potential energy	T070	C0678538
+27913358	868	909	potential energy -dependent Pareto fronts	T033	C0243095
+27913358	963	984	peptide conformations	T082	C1518960
+27913358	993	1005	native state	T082	C1254362
+27913358	1021	1042	x-ray crystallography	T059	C0206755
+27913358	1079	1095	potential energy	T070	C0678538
+27913358	1096	1105	landscape	T082	C0870781
+27913358	1109	1124	[Leu]Enkephalin	T116,T123	C4285073
+27913358	1154	1167	metric scales	T081	C0025867
+27913358	1181	1210	local potential energy minima	T080	C0205556
+27913358	1218	1232	peptide decoys	T116	C0030956
+27913358	1237	1247	metastable	T080	C0205556
+27913358	1277	1290	conformations	T082	C1518960
+27913358	1297	1313	potential energy	T070	C0678538
+27913358	1317	1326	decreased	T081	C0205216
+27913358	1330	1343	approximately	T080	C0332232

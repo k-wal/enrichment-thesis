@@ -1,0 +1,129 @@
+28506958|t|Enhancing Comparative Effectiveness Research With Automated Pediatric Pneumonia Detection in a Multi-Institutional Clinical Repository: A PHIS + Pilot Study
+28506958|a|Community-acquired pneumonia is a leading cause of pediatric morbidity. Administrative data are often used to conduct comparative effectiveness research (CER) with sufficient sample sizes to enhance detection of important outcomes. However, such studies are prone to misclassification errors because of the variable accuracy of discharge diagnosis codes. The aim of this study was to develop an automated, scalable, and accurate method to determine the presence or absence of pneumonia in children using chest imaging reports. The multi-institutional PHIS + clinical repository was developed to support pediatric CER by expanding an administrative database of children's hospitals with detailed clinical data. To develop a scalable approach to find patients with bacterial pneumonia more accurately, we developed a Natural Language Processing (NLP) application to extract relevant information from chest diagnostic imaging reports. Domain experts established a reference standard by manually annotating 282 reports to train and then test the NLP application. Findings of pleural effusion, pulmonary infiltrate, and pneumonia were automatically extracted from the reports and then used to automatically classify whether a report was consistent with bacterial pneumonia. Compared with the annotated diagnostic imaging reports reference standard, the most accurate implementation of machine learning algorithms in our NLP application allowed extracting relevant findings with a sensitivity of .939 and a positive predictive value of .925. It allowed classifying reports with a sensitivity of .71, a positive predictive value of .86, and a specificity of .962. When compared with each of the domain experts manually annotating these reports, the NLP application allowed for significantly higher sensitivity (.71 vs .527) and similar positive predictive value and specificity. NLP -based pneumonia information extraction of pediatric diagnostic imaging reports performed better than domain experts in this pilot study. NLP is an efficient method to extract information from a large collection of imaging reports to facilitate CER.
+28506958	10	44	Comparative Effectiveness Research	T062	C2718022
+28506958	50	59	Automated	T169	C0205554
+28506958	60	69	Pediatric	T080	C1521725
+28506958	70	79	Pneumonia	T047	C0032285
+28506958	80	89	Detection	T061	C1511790
+28506958	95	114	Multi-Institutional	T093	C0026738
+28506958	115	123	Clinical	T080	C0205210
+28506958	124	134	Repository	T073	C3847505
+28506958	138	142	PHIS	T170	C0679918
+28506958	145	156	Pilot Study	T062	C0031928
+28506958	157	185	Community-acquired pneumonia	T047	C0694549
+28506958	208	217	pediatric	T080	C1521725
+28506958	218	227	morbidity	T081	C0026538
+28506958	229	243	Administrative	T169	C1292785
+28506958	244	248	data	T078	C1511726
+28506958	275	309	comparative effectiveness research	T062	C2718022
+28506958	311	314	CER	T062	C2718022
+28506958	332	344	sample sizes	T081	C0242618
+28506958	356	365	detection	T033	C0442726
+28506958	369	378	important	T080	C3898777
+28506958	379	387	outcomes	T169	C1274040
+28506958	424	448	misclassification errors	T080	C0743559
+28506958	464	472	variable	T080	C0439828
+28506958	473	481	accuracy	T080	C0443131
+28506958	485	504	discharge diagnosis	T033	C1555319
+28506958	505	510	codes	T170	C0805701
+28506958	552	561	automated	T169	C0205554
+28506958	563	571	scalable	T169	C1513040
+28506958	577	585	accurate	T080	C0443131
+28506958	586	592	method	T170	C0025663
+28506958	596	605	determine	T080	C0521095
+28506958	610	618	presence	T033	C0150312
+28506958	622	629	absence	T169	C0332197
+28506958	633	642	pneumonia	T047	C0032285
+28506958	646	654	children	T100	C0008059
+28506958	661	674	chest imaging	T060	C1531652
+28506958	675	682	reports	T170	C4274373
+28506958	688	707	multi-institutional	T093	C0026738
+28506958	708	712	PHIS	T170	C0679918
+28506958	715	723	clinical	T080	C0205210
+28506958	724	734	repository	T073	C3847505
+28506958	760	769	pediatric	T080	C1521725
+28506958	770	773	CER	T062	C2718022
+28506958	790	804	administrative	T169	C1292785
+28506958	805	813	database	T170	C0242356
+28506958	817	837	children's hospitals	T093	C0020017
+28506958	852	860	clinical	T080	C0205210
+28506958	861	865	data	T078	C1511726
+28506958	880	888	scalable	T169	C1513040
+28506958	901	905	find	T033	C0243095
+28506958	906	914	patients	T101	C0030705
+28506958	920	939	bacterial pneumonia	T047	C0004626
+28506958	972	999	Natural Language Processing	T066	C0027489
+28506958	1001	1004	NLP	T066	C0027489
+28506958	1006	1017	application	T080	C0205556
+28506958	1029	1037	relevant	T080	C2347946
+28506958	1038	1049	information	T078	C1533716
+28506958	1055	1079	chest diagnostic imaging	T060	C1531652
+28506958	1080	1087	reports	T170	C4274373
+28506958	1089	1095	Domain	T169	C1880389
+28506958	1096	1103	experts	T097	C0009817
+28506958	1104	1115	established	T080	C0443211
+28506958	1118	1136	reference standard	T081	C0034925
+28506958	1140	1148	manually	T033	C3842330
+28506958	1149	1159	annotating	T169	C0205245
+28506958	1164	1171	reports	T170	C4274373
+28506958	1199	1202	NLP	T066	C0027489
+28506958	1203	1214	application	T080	C0205556
+28506958	1228	1244	pleural effusion	T047	C0032227
+28506958	1246	1266	pulmonary infiltrate	T033	C0235896
+28506958	1272	1281	pneumonia	T047	C0032285
+28506958	1287	1300	automatically	T033	C3842331
+28506958	1320	1327	reports	T170	C4274373
+28506958	1345	1358	automatically	T033	C3842331
+28506958	1359	1367	classify	T185	C0008902
+28506958	1378	1384	report	T170	C4274373
+28506958	1389	1404	consistent with	T078	C0332290
+28506958	1405	1424	bacterial pneumonia	T047	C0004626
+28506958	1426	1434	Compared	T052	C1707455
+28506958	1454	1472	diagnostic imaging	T060	C0011923
+28506958	1473	1480	reports	T170	C4274373
+28506958	1481	1499	reference standard	T081	C0034925
+28506958	1510	1518	accurate	T080	C0443131
+28506958	1519	1533	implementation	T052	C1708476
+28506958	1537	1553	machine learning	T066	C0376284
+28506958	1554	1564	algorithms	T170	C0002045
+28506958	1572	1575	NLP	T066	C0027489
+28506958	1576	1587	application	T080	C0205556
+28506958	1607	1615	relevant	T080	C2347946
+28506958	1616	1624	findings	T169	C2607943
+28506958	1632	1643	sensitivity	T081	C0036667
+28506958	1658	1666	positive	T033	C1446409
+28506958	1667	1683	predictive value	T080	C1514307
+28506958	1704	1715	classifying	T185	C0008902
+28506958	1716	1723	reports	T170	C4274373
+28506958	1731	1742	sensitivity	T081	C0036667
+28506958	1753	1761	positive	T033	C1446409
+28506958	1762	1778	predictive value	T080	C1514307
+28506958	1793	1804	specificity	T081	C0037791
+28506958	1819	1827	compared	T052	C1707455
+28506958	1845	1851	domain	T169	C1880389
+28506958	1852	1859	experts	T097	C0009817
+28506958	1860	1868	manually	T033	C3842330
+28506958	1869	1879	annotating	T169	C0205245
+28506958	1886	1893	reports	T170	C0025102
+28506958	1899	1902	NLP	T066	C0027489
+28506958	1903	1914	application	T080	C0205556
+28506958	1927	1947	significantly higher	T081	C4055637
+28506958	1948	1959	sensitivity	T081	C0036667
+28506958	1986	1994	positive	T033	C1446409
+28506958	1995	2011	predictive value	T080	C1514307
+28506958	2016	2027	specificity	T081	C0037791
+28506958	2029	2032	NLP	T066	C0027489
+28506958	2040	2049	pneumonia	T047	C0032285
+28506958	2050	2061	information	T078	C1533716
+28506958	2076	2085	pediatric	T080	C1521725
+28506958	2086	2104	diagnostic imaging	T060	C0011923
+28506958	2105	2112	reports	T170	C4274373
+28506958	2113	2122	performed	T169	C0884358
+28506958	2135	2141	domain	T169	C1880389
+28506958	2142	2149	experts	T097	C0009817
+28506958	2158	2169	pilot study	T062	C0031928
+28506958	2171	2174	NLP	T066	C0027489
+28506958	2209	2220	information	T078	C1533716
+28506958	2234	2244	collection	T169	C1516698
+28506958	2248	2263	imaging reports	T170	C4274373
+28506958	2278	2281	CER	T062	C2718022

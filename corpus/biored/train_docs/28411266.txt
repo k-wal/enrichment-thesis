@@ -1,0 +1,31 @@
+28411266|t|Genetic Variation at the Sulfonylurea Receptor, Type 2 Diabetes, and Coronary Heart Disease.
+28411266|a|Despite widespread clinical use in the treatment of type 2 diabetes, the impact of sulfonylurea therapy on cardiovascular outcomes remains uncertain. Studies of naturally occurring genetic variation can be used to anticipate the expected clinical consequences of a pharmacological therapy. A common missense variant in the gene encoding a component of the sulfonylurea receptor (ABCC8 p.A1369S) promotes closure of the target channel of sulfonylurea therapy and is associated with increased insulin secretion, thus mimicking the effects of sulfonylurea therapy. Using individual-level data from 120,286 participants in the UK Biobank and summary association results from four large-scale genome-wide association studies, we examined the impact of this variant on cardiometabolic traits, type 2 diabetes, and coronary heart disease. The p.A1369S variant was associated with a significantly lower risk of type 2 diabetes (odds ratio [OR] 0.93; 95% CI 0.91, 0.95; P = 1.2 x 10(-11)). The variant was associated with increased BMI (+0.062 kg/m(2); 95% CI 0.037, 0.086; P = 8.1 x 10(-7)) but lower waist-to-hip ratio adjusted for BMI, a marker of abdominal fat distribution. Furthermore, p.A1369S was associated with a reduced risk of coronary heart disease (OR 0.98; 95% CI 0.96, 0.99; P = 5.9 x 10(-4)). These results suggest that, despite a known association with increased weight, long-term sulfonylurea therapy may reduce the risk of coronary heart disease.
+28411266	25	46	Sulfonylurea Receptor	GeneOrGeneProduct	6833
+28411266	48	63	Type 2 Diabetes	DiseaseOrPhenotypicFeature	D003924
+28411266	69	91	Coronary Heart Disease	DiseaseOrPhenotypicFeature	D003324
+28411266	145	160	type 2 diabetes	DiseaseOrPhenotypicFeature	D003924
+28411266	176	188	sulfonylurea	ChemicalEntity	D013453
+28411266	449	470	sulfonylurea receptor	GeneOrGeneProduct	6833
+28411266	472	477	ABCC8	GeneOrGeneProduct	6833
+28411266	478	486	p.A1369S	SequenceVariant	rs757110
+28411266	530	542	sulfonylurea	ChemicalEntity	D013453
+28411266	584	591	insulin	GeneOrGeneProduct	3630
+28411266	633	645	sulfonylurea	ChemicalEntity	D013453
+28411266	880	895	type 2 diabetes	DiseaseOrPhenotypicFeature	D003924
+28411266	901	923	coronary heart disease	DiseaseOrPhenotypicFeature	D003324
+28411266	929	937	p.A1369S	SequenceVariant	rs757110
+28411266	996	1011	type 2 diabetes	DiseaseOrPhenotypicFeature	D003924
+28411266	1276	1284	p.A1369S	SequenceVariant	rs757110
+28411266	1323	1345	coronary heart disease	DiseaseOrPhenotypicFeature	D003324
+28411266	1483	1495	sulfonylurea	ChemicalEntity	D013453
+28411266	1527	1549	coronary heart disease	DiseaseOrPhenotypicFeature	D003324
+28411266	Association	6833	D003324	Novel
+28411266	Association	6833	D003924	Novel
+28411266	Association	6833	D013453	No
+28411266	Negative_Correlation	D003924	D013453	No
+28411266	Negative_Correlation	rs757110	D003324	Novel
+28411266	Negative_Correlation	rs757110	D003924	Novel
+28411266	Association	rs757110	D013453	No
+28411266	Negative_Correlation	D013453	D003324	Novel
+28411266	Positive_Correlation	3630	6833	No
+28411266	Positive_Correlation	3630	D013453	Novel

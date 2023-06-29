@@ -1,0 +1,85 @@
+27924038|t|FARNA: knowledgebase of inferred functions of non-coding RNA transcripts
+27924038|a|Non-coding RNA (ncRNA) genes play a major role in control of heterogeneous cellular behavior. Yet, their functions are largely uncharacterized. Current available databases lack in-depth information of ncRNA functions across spectrum of various cells / tissues. Here, we present FARNA, a knowledgebase of inferred functions of 10,289 human ncRNA transcripts (2,734 microRNA and 7,555 long ncRNA) in 119 tissues and 177 primary cells of human. Since transcription factors (TFs) and TF co-factors (TcoFs) are crucial components of regulatory machinery for activation of gene transcription, cellular processes and diseases in which TFs and TcoFs are involved suggest functions of the transcripts they regulate. In FARNA, functions of a transcript are inferred from TFs and TcoFs whose genes co-express with the transcript controlled by these TFs and TcoFs in a considered cell / tissue. Transcripts were annotated using statistically enriched GO terms, pathways and diseases across cells / tissues based on guilt-by-association principle. Expression profiles across cells / tissues based on Cap Analysis of Gene Expression (CAGE) are provided. FARNA, having the most comprehensive function annotation of considered ncRNAs across widest spectrum of human cells / tissues, has a potential to greatly contribute to our understanding of ncRNA roles and their regulatory mechanisms in human. FARNA can be accessed at: http://cbrc.kaust.edu.sa/ farna.
+27924038	0	5	FARNA	T170	C0022752
+27924038	7	20	knowledgebase	T170	C0022752
+27924038	33	42	functions	T045	C0314627
+27924038	46	60	non-coding RNA	T114	C0887909
+27924038	61	72	transcripts	T114	C1519595
+27924038	73	87	Non-coding RNA	T114	C0887909
+27924038	89	94	ncRNA	T114	C0887909
+27924038	96	101	genes	T028	C0017337
+27924038	115	119	role	T077	C1705810
+27924038	123	130	control	T080	C0243148
+27924038	134	147	heterogeneous	T080	C0019409
+27924038	148	165	cellular behavior	T043	C0007613
+27924038	178	187	functions	T045	C0314627
+27924038	235	244	databases	T170	C0242356
+27924038	259	270	information	T078	C1533716
+27924038	274	279	ncRNA	T114	C0887909
+27924038	280	289	functions	T045	C0314627
+27924038	297	305	spectrum	T077	C2827424
+27924038	317	322	cells	T025	C0007634
+27924038	325	332	tissues	T024	C0040300
+27924038	351	356	FARNA	T170	C0022752
+27924038	360	373	knowledgebase	T170	C0022752
+27924038	386	395	functions	T045	C0314627
+27924038	406	411	human	T016	C0086418
+27924038	412	417	ncRNA	T114	C0887909
+27924038	418	429	transcripts	T114	C1519595
+27924038	437	445	microRNA	T114,T123	C1101610
+27924038	461	466	ncRNA	T114	C0887909
+27924038	475	482	tissues	T024	C0040300
+27924038	499	504	cells	T025	C0007634
+27924038	508	513	human	T016	C0086418
+27924038	521	542	transcription factors	T116,T123	C0040648
+27924038	544	547	TFs	T116,T123	C0040648
+27924038	553	566	TF co-factors	T123	C0178555
+27924038	568	573	TcoFs	T123	C0178555
+27924038	601	611	regulatory	T045	C0017263
+27924038	626	636	activation	T045	C0017255
+27924038	640	658	gene transcription	T045	C0040649
+27924038	660	678	cellular processes	T043	C1325880
+27924038	683	691	diseases	T047	C0012634
+27924038	701	704	TFs	T116,T123	C0040648
+27924038	709	714	TcoFs	T123	C0178555
+27924038	736	745	functions	T045	C0314627
+27924038	753	764	transcripts	T114	C1519595
+27924038	770	778	regulate	T038	C1327622
+27924038	783	788	FARNA	T170	C0022752
+27924038	790	799	functions	T045	C0314627
+27924038	805	815	transcript	T114	C1519595
+27924038	834	837	TFs	T116,T123	C0040648
+27924038	842	847	TcoFs	T123	C0178555
+27924038	854	859	genes	T028	C0017337
+27924038	860	870	co-express	T045	C0017262
+27924038	880	890	transcript	T114	C1519595
+27924038	911	914	TFs	T116,T123	C0040648
+27924038	919	924	TcoFs	T123	C0178555
+27924038	941	945	cell	T025	C0007634
+27924038	948	954	tissue	T024	C0040300
+27924038	956	967	Transcripts	T114	C1519595
+27924038	973	982	annotated	T080	C1552720
+27924038	1012	1020	GO terms	T170	C1138831
+27924038	1022	1030	pathways	T077	C1705987
+27924038	1035	1043	diseases	T047	C0012634
+27924038	1051	1056	cells	T025	C0007634
+27924038	1059	1066	tissues	T024	C0040300
+27924038	1108	1127	Expression profiles	T081	C1956267
+27924038	1135	1140	cells	T025	C0007634
+27924038	1143	1150	tissues	T024	C0040300
+27924038	1160	1191	Cap Analysis of Gene Expression	T063	C1880945
+27924038	1193	1197	CAGE	T063	C1880945
+27924038	1213	1218	FARNA	T170	C0022752
+27924038	1236	1249	comprehensive	T080	C1880156
+27924038	1259	1269	annotation	T170	C1706814
+27924038	1284	1290	ncRNAs	T114	C0887909
+27924038	1305	1313	spectrum	T077	C2827424
+27924038	1317	1328	human cells	T034	C0427861
+27924038	1331	1338	tissues	T024	C0040300
+27924038	1346	1355	potential	T080	C3245505
+27924038	1402	1407	ncRNA	T114	C0887909
+27924038	1408	1413	roles	T077	C1705810
+27924038	1424	1445	regulatory mechanisms	T045	C0017263
+27924038	1449	1454	human	T016	C0086418
+27924038	1456	1461	FARNA	T170	C0022752
+27924038	1508	1513	farna	T170	C0022752

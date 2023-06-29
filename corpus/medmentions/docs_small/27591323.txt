@@ -1,0 +1,67 @@
+27591323|t|Circulating Memory CD4+ T Cells Target Conserved Epitopes of Rhinovirus Capsid Proteins and Respond Rapidly to Experimental Infection in Humans
+27591323|a|Rhinovirus (RV) is a major cause of common cold and an important trigger of acute episodes of chronic lung diseases. Antigenic variation across the numerous RV strains results in frequent infections and a lack of durable cross-protection. Because the nature of human CD4(+) T cells that target RV is largely unknown, T cell epitopes of RV capsid proteins were analyzed, and cognate T cells were characterized in healthy subjects and those infected by intranasal challenge. Peptide epitopes of the RV-A16 capsid proteins VP1 and VP2 were identified by peptide / MHC class II tetramer-guided epitope mapping, validated by direct ex vivo enumeration, and interrogated using a variety of in silico methods. Among noninfected subjects, those circulating RV-A16 -specific CD4(+) T cells detected at the highest frequencies targeted 10 unique epitopes that bound to diverse HLA-DR molecules. T cell epitopes localized to conserved molecular regions of biological significance to the virus were enriched for HLA class I and II binding motifs, and constituted both species -specific (RV-A) and pan-species (RV-A, - B, and - C) varieties. Circulating epitope -specific T cells comprised both memory Th1 and T follicular helper cells, and were rapidly expanded and activated after intranasal challenge with RV-A16. Cross-reactivity was evidenced by identification of a common *0401- restricted epitope for RV-A16 and RV-A39 by tetramer-guided epitope mapping and the ability for RV-A16 -specific Th1 cells to proliferate in response to their RV-A39 peptide counterpart. The preferential persistence of high-frequency RV -specific memory Th1 cells that recognize a limited set of conserved epitopes likely arises from iterative priming by previous exposures to different RV strains.
+27591323	12	31	Memory CD4+ T Cells	T017	UMLS:C0039215
+27591323	49	57	Epitopes	T103	UMLS:C0003316
+27591323	61	71	Rhinovirus	T005	UMLS:C0035473
+27591323	72	87	Capsid Proteins	T103	UMLS:C1136102
+27591323	124	133	Infection	T038	UMLS:C3714514
+27591323	137	143	Humans	T204	UMLS:C0086418
+27591323	144	154	Rhinovirus	T005	UMLS:C0035473
+27591323	156	158	RV	T005	UMLS:C0035473
+27591323	180	191	common cold	T038	UMLS:C0009443
+27591323	238	259	chronic lung diseases	T038	UMLS:C0746102
+27591323	261	280	Antigenic variation	T038	UMLS:C0003319
+27591323	301	311	RV strains	T005	UMLS:C0035473
+27591323	332	342	infections	T038	UMLS:C3714514
+27591323	365	381	cross-protection	T038	UMLS:C2717886
+27591323	405	410	human	T204	UMLS:C0086418
+27591323	411	425	CD4(+) T cells	T017	UMLS:C0039215
+27591323	438	440	RV	T005	UMLS:C0035473
+27591323	461	476	T cell epitopes	T103	UMLS:C0282580
+27591323	480	482	RV	T005	UMLS:C0035473
+27591323	483	498	capsid proteins	T103	UMLS:C1136102
+27591323	526	533	T cells	T017	UMLS:C0039194
+27591323	556	572	healthy subjects	T098	UMLS:C1708335
+27591323	583	591	infected	T033	UMLS:C0439663
+27591323	595	615	intranasal challenge	T058	UMLS:C0001560
+27591323	617	624	Peptide	T103	UMLS:C0030956
+27591323	625	633	epitopes	T103	UMLS:C0003316
+27591323	641	647	RV-A16	T005	UMLS:C0318483
+27591323	648	663	capsid proteins	T103	UMLS:C1136102
+27591323	664	667	VP1	T103	UMLS:C0168985
+27591323	672	675	VP2	T103	UMLS:C0208912
+27591323	695	702	peptide	T103	UMLS:C0030956
+27591323	705	717	MHC class II	T103	UMLS:C0019630
+27591323	718	749	tetramer-guided epitope mapping	T058	UMLS:C0242831
+27591323	853	873	noninfected subjects	T098	UMLS:C1708335
+27591323	893	899	RV-A16	T005	UMLS:C0318483
+27591323	910	924	CD4(+) T cells	T017	UMLS:C0039215
+27591323	980	988	epitopes	T103	UMLS:C0003316
+27591323	1011	1017	HLA-DR	T103	UMLS:C0019764
+27591323	1029	1044	T cell epitopes	T103	UMLS:C0282580
+27591323	1058	1085	conserved molecular regions	T082	UMLS:C0009802
+27591323	1120	1125	virus	T005	UMLS:C0042776
+27591323	1200	1207	species	T170	UMLS:C1705920
+27591323	1219	1223	RV-A	T005	UMLS:C1071061
+27591323	1229	1240	pan-species	T204	UMLS:C0008111
+27591323	1242	1246	RV-A	T005	UMLS:C1071061
+27591323	1250	1251	B	T005	UMLS:C1071062
+27591323	1259	1260	C	T005	UMLS:C2290915
+27591323	1285	1292	epitope	T103	UMLS:C0003316
+27591323	1303	1310	T cells	T017	UMLS:C0039194
+27591323	1326	1336	memory Th1	T017	UMLS:C0242632
+27591323	1341	1366	T follicular helper cells	T017	UMLS:C0018894
+27591323	1414	1434	intranasal challenge	T058	UMLS:C0001560
+27591323	1440	1446	RV-A16	T005	UMLS:C0318483
+27591323	1516	1534	restricted epitope	T103	UMLS:C0003316
+27591323	1539	1545	RV-A16	T005	UMLS:C0318483
+27591323	1550	1556	RV-A39	T005	UMLS:C0318506
+27591323	1560	1591	tetramer-guided epitope mapping	T058	UMLS:C0242831
+27591323	1612	1618	RV-A16	T005	UMLS:C0318483
+27591323	1629	1638	Th1 cells	T017	UMLS:C0242632
+27591323	1675	1681	RV-A39	T005	UMLS:C0318506
+27591323	1682	1689	peptide	T103	UMLS:C0030956
+27591323	1750	1752	RV	T005	UMLS:C0035473
+27591323	1763	1779	memory Th1 cells	T017	UMLS:C0242632
+27591323	1822	1830	epitopes	T103	UMLS:C0003316
+27591323	1903	1913	RV strains	T005	UMLS:C0035473

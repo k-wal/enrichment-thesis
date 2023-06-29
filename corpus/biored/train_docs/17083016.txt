@@ -1,0 +1,47 @@
+17083016|t|Genetic polymorphism of the binding domain of surfactant protein-A2 increases susceptibility to meningococcal disease.
+17083016|a|BACKGROUND: Meningococcal disease occurs after colonization of the nasopharynx with Neisseria meningitidis. Surfactant protein (SP)-A and SP-D are pattern-recognition molecules of the respiratory tract that activate inflammatory and phagocytic defences after binding to microbial sugars. Variation in the genes of the surfactant proteins affects the expression and function of these molecules. METHODS: Allele frequencies of SP-A1, SP-A2, and SP-D were determined by polymerase chain reaction in 303 patients with microbiologically proven meningococcal disease, including 18 patients who died, and 222 healthy control subjects. RESULTS: Homozygosity of allele 1A1 of SP-A2 increased the risk of meningococcal disease (odds ratio [OR], 7.4; 95% confidence interval [CI], 1.3-42.4); carriage of 1A5 reduced the risk (OR, 0.3; 95% CI, 0.1-0.97). An analysis of the multiple single-nucleotide polymorphisms in SP-A demonstrated that homozygosity for alleles encoding lysine (in 1A1) rather than glutamine (in 1A5) at amino acid 223 in the carbohydrate recognition domain was associated with an increased risk of meningococcal disease (OR, 6.7; 95% CI, 1.4-31.5). Carriage of alleles encoding lysine at residue 223 was found in 61% of patients who died, compared with 35% of those who survived (OR adjusted for age, 2.9; 95% CI, 1.1-7.7). Genetic variation of SP-A1 and SP-D was not associated with meningococcal disease. CONCLUSIONS: Gene polymorphism resulting in the substitution of glutamine with lysine at residue 223 in the carbohydrate recognition domain of SP-A2 increases susceptibility to meningococcal disease, as well as the risk of death.
+17083016	46	67	surfactant protein-A2	GeneOrGeneProduct	729238
+17083016	96	117	meningococcal disease	DiseaseOrPhenotypicFeature	D008589
+17083016	131	152	Meningococcal disease	DiseaseOrPhenotypicFeature	D008589
+17083016	203	225	Neisseria meningitidis	DiseaseOrPhenotypicFeature	D006069
+17083016	227	252	Surfactant protein (SP)-A	GeneOrGeneProduct	653509,729238
+17083016	257	261	SP-D	GeneOrGeneProduct	6441
+17083016	335	347	inflammatory	DiseaseOrPhenotypicFeature	D007249
+17083016	399	405	sugars	ChemicalEntity	D000073893
+17083016	544	549	SP-A1	GeneOrGeneProduct	653509
+17083016	551	556	SP-A2	GeneOrGeneProduct	729238
+17083016	562	566	SP-D	GeneOrGeneProduct	6441
+17083016	619	627	patients	OrganismTaxon	9606
+17083016	658	679	meningococcal disease	DiseaseOrPhenotypicFeature	D008589
+17083016	694	702	patients	OrganismTaxon	9606
+17083016	707	711	died	DiseaseOrPhenotypicFeature	D003643
+17083016	786	791	SP-A2	GeneOrGeneProduct	729238
+17083016	814	835	meningococcal disease	DiseaseOrPhenotypicFeature	D008589
+17083016	1025	1029	SP-A	GeneOrGeneProduct	653509,729238
+17083016	1082	1146	lysine (in 1A1) rather than glutamine (in 1A5) at amino acid 223	SequenceVariant	c|SUB|Q|223|K
+17083016	1154	1166	carbohydrate	ChemicalEntity	D002241
+17083016	1227	1248	meningococcal disease	DiseaseOrPhenotypicFeature	D008589
+17083016	1307	1328	lysine at residue 223	SequenceVariant	c|Allele|K|223
+17083016	1349	1357	patients	OrganismTaxon	9606
+17083016	1362	1366	died	DiseaseOrPhenotypicFeature	D003643
+17083016	1474	1479	SP-A1	GeneOrGeneProduct	653509
+17083016	1484	1488	SP-D	GeneOrGeneProduct	6441
+17083016	1513	1534	meningococcal disease	DiseaseOrPhenotypicFeature	D008589
+17083016	1600	1636	glutamine with lysine at residue 223	SequenceVariant	c|SUB|Q|223|K
+17083016	1644	1656	carbohydrate	ChemicalEntity	D002241
+17083016	1679	1684	SP-A2	GeneOrGeneProduct	729238
+17083016	1713	1734	meningococcal disease	DiseaseOrPhenotypicFeature	D008589
+17083016	1759	1764	death	DiseaseOrPhenotypicFeature	D003643
+17083016	Bind	6441	D000073893	No
+17083016	Association	6441	D007249	No
+17083016	Bind	653509	D000073893	No
+17083016	Association	653509	D007249	No
+17083016	Association	c|Allele|K|223	D003643	Novel
+17083016	Association	D002241	729238	No
+17083016	Positive_Correlation	c|SUB|Q|223|K	D003643	Novel
+17083016	Association	c|SUB|Q|223|K	D002241	Novel
+17083016	Positive_Correlation	c|SUB|Q|223|K	D008589	Novel
+17083016	Bind	729238	D000073893	No
+17083016	Association	729238	D007249	No
+17083016	Association	729238	D003643	Novel
+17083016	Association	729238	D008589	Novel

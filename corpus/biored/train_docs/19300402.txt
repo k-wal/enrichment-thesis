@@ -1,0 +1,90 @@
+19300402|t|Bradykinin receptors antagonists and nitric oxide synthase inhibitors in vincristine and streptozotocin induced hyperalgesia in chemotherapy and diabetic neuropathy rat model.
+19300402|a|PURPOSE: The influence of an irreversible inhibitor of constitutive NO synthase (L-NOArg; 1.0 mg/kg ip), a relatively selective inhibitor of inducible NO synthase (L-NIL; 1.0 mg/kg ip) and a relatively specific inhibitor of neuronal NO synthase (7-NI; 0.1 mg/kg ip), on antihyperalgesic action of selective antagonists of B2 and B1 receptors: D-Arg-[Hyp3,Thi5,D-Tic7,Oic8] bradykinin (HOE 140; 70 nmol/kg ip) or des Arg10 HOE 140 (70 nmol/kg ip) respectively, in model of diabetic (streptozotocin-induced) and toxic (vincristine-induced) neuropathy was investigated. METHODS: The changes in pain thresholds were determined using mechanical stimuli--the modification of the classic paw withdrawal test described by Randall-Selitto. RESULTS: The results of this paper confirm that inhibition of bradykinin receptors and inducible NO synthase but not neuronal NO synthase activity reduces diabetic hyperalgesia. Pretreatment with L-NOArg and L-NIL but not 7-NI, significantly increases antihyperalgesic activity both HOE 140 and des Arg10 HOE 140. It was also shown that both products of inducible NO synthase and neuronal NO synthase activation as well as bradykinin are involved in hyperalgesia produced by vincristine. Moreover, L-NOArg and 7-NI but not L-NIL intensify antihyperalgesic activity of HOE 140 or des-Arg10HOE 140 in toxic neuropathy. CONCLUSIONS: Results of these studies suggest that B1 and B2 receptors are engaged in transmission of nociceptive stimuli in both diabetic and toxic neuropathy. In streptozotocin-induced hyperalgesia, inducible NO synthase participates in pronociceptive activity of bradykinin, whereas in vincristine-induced hyperalgesia bradykinin seemed to activate neuronal NO synthase pathway. Therefore, concomitant administration of small doses of bradykinin receptor antagonists and NO synthase inhibitors can be effective in alleviation of neuropathic pain, even in hospital care.
+19300402	0	32	Bradykinin receptors antagonists	ChemicalEntity	D065168
+19300402	37	69	nitric oxide synthase inhibitors	ChemicalEntity	C080122,C090663,D019335
+19300402	73	84	vincristine	ChemicalEntity	D014750
+19300402	89	103	streptozotocin	ChemicalEntity	D013311
+19300402	112	124	hyperalgesia	DiseaseOrPhenotypicFeature	D006930
+19300402	145	164	diabetic neuropathy	DiseaseOrPhenotypicFeature	D003929
+19300402	165	168	rat	OrganismTaxon	10116
+19300402	231	255	constitutive NO synthase	GeneOrGeneProduct	24600
+19300402	257	264	L-NOArg	ChemicalEntity	D019335
+19300402	317	338	inducible NO synthase	GeneOrGeneProduct	24599
+19300402	340	345	L-NIL	ChemicalEntity	C090663
+19300402	400	420	neuronal NO synthase	GeneOrGeneProduct	24598
+19300402	422	426	7-NI	ChemicalEntity	C080122
+19300402	498	517	B2 and B1 receptors	GeneOrGeneProduct	25245,81509
+19300402	519	559	D-Arg-[Hyp3,Thi5,D-Tic7,Oic8] bradykinin	ChemicalEntity	C065679
+19300402	561	568	HOE 140	ChemicalEntity	C065679
+19300402	588	605	des Arg10 HOE 140	ChemicalEntity	C078665
+19300402	648	724	diabetic (streptozotocin-induced) and toxic (vincristine-induced) neuropathy	DiseaseOrPhenotypicFeature	D003929,D010523
+19300402	767	771	pain	DiseaseOrPhenotypicFeature	D010146
+19300402	969	989	bradykinin receptors	GeneOrGeneProduct	25245,81509
+19300402	994	1015	inducible NO synthase	GeneOrGeneProduct	24599
+19300402	1024	1044	neuronal NO synthase	GeneOrGeneProduct	24598
+19300402	1062	1083	diabetic hyperalgesia	DiseaseOrPhenotypicFeature	D003920,D006930
+19300402	1103	1110	L-NOArg	ChemicalEntity	D019335
+19300402	1115	1120	L-NIL	ChemicalEntity	C090663
+19300402	1129	1133	7-NI	ChemicalEntity	C080122
+19300402	1190	1197	HOE 140	ChemicalEntity	C065679
+19300402	1202	1219	des Arg10 HOE 140	ChemicalEntity	C078665
+19300402	1261	1282	inducible NO synthase	GeneOrGeneProduct	24599
+19300402	1287	1307	neuronal NO synthase	GeneOrGeneProduct	24598
+19300402	1330	1340	bradykinin	GeneOrGeneProduct	3827
+19300402	1357	1369	hyperalgesia	DiseaseOrPhenotypicFeature	D006930
+19300402	1382	1393	vincristine	ChemicalEntity	D014750
+19300402	1405	1412	L-NOArg	ChemicalEntity	D019335
+19300402	1417	1421	7-NI	ChemicalEntity	C080122
+19300402	1430	1435	L-NIL	ChemicalEntity	C090663
+19300402	1475	1482	HOE 140	ChemicalEntity	C065679
+19300402	1486	1502	des-Arg10HOE 140	ChemicalEntity	C078665
+19300402	1506	1522	toxic neuropathy	DiseaseOrPhenotypicFeature	D010523
+19300402	1575	1594	B1 and B2 receptors	GeneOrGeneProduct	25245,81509
+19300402	1654	1683	diabetic and toxic neuropathy	DiseaseOrPhenotypicFeature	D003929,D010523
+19300402	1688	1702	streptozotocin	ChemicalEntity	D013311
+19300402	1711	1723	hyperalgesia	DiseaseOrPhenotypicFeature	D006930
+19300402	1725	1746	inducible NO synthase	GeneOrGeneProduct	24599
+19300402	1790	1800	bradykinin	GeneOrGeneProduct	3827
+19300402	1813	1824	vincristine	ChemicalEntity	D014750
+19300402	1833	1845	hyperalgesia	DiseaseOrPhenotypicFeature	D006930
+19300402	1846	1856	bradykinin	GeneOrGeneProduct	3827
+19300402	1876	1896	neuronal NO synthase	GeneOrGeneProduct	24598
+19300402	1962	1993	bradykinin receptor antagonists	ChemicalEntity	D065168
+19300402	1998	2020	NO synthase inhibitors	ChemicalEntity	C080122,C090663,D019335
+19300402	2056	2072	neuropathic pain	DiseaseOrPhenotypicFeature	D009437
+19300402	Negative_Correlation	24600	D019335	No
+19300402	Negative_Correlation	D065168	D009437	Novel
+19300402	Association	3827	D006930	Novel
+19300402	Negative_Correlation	D019335	D009437	Novel
+19300402	Association	D019335	D010523	Novel
+19300402	Positive_Correlation	D019335	C078665	Novel
+19300402	Positive_Correlation	D019335	C065679	Novel
+19300402	Association	D003920	81509	Novel
+19300402	Association	D003920	25245	Novel
+19300402	Association	C078665	D010523	No
+19300402	Association	81509	D003929	Novel
+19300402	Association	81509	D010523	Novel
+19300402	Negative_Correlation	81509	C078665	No
+19300402	Negative_Correlation	81509	C065679	No
+19300402	Association	C065679	D010523	No
+19300402	Association	25245	D003929	Novel
+19300402	Association	25245	D010523	Novel
+19300402	Negative_Correlation	25245	C078665	No
+19300402	Negative_Correlation	25245	C065679	No
+19300402	Negative_Correlation	C080122	D009437	Novel
+19300402	Association	C080122	D010523	Novel
+19300402	Association	C080122	C078665	Novel
+19300402	Association	C080122	C065679	Novel
+19300402	Negative_Correlation	24598	C080122	No
+19300402	Association	24598	D006930	Novel
+19300402	Negative_Correlation	C090663	D009437	Novel
+19300402	Positive_Correlation	C090663	C078665	Novel
+19300402	Positive_Correlation	C090663	C065679	Novel
+19300402	Association	24599	3827	Novel
+19300402	Association	24599	D003920	Novel
+19300402	Negative_Correlation	24599	C090663	No
+19300402	Association	24599	D006930	Novel
+19300402	Positive_Correlation	D013311	D006930	No
+19300402	Association	D006930	81509	Novel
+19300402	Association	D006930	25245	Novel
+19300402	Positive_Correlation	D014750	D006930	No

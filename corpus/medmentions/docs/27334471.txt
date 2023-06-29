@@ -1,0 +1,59 @@
+27334471|t|CAGEd-oPOSSUM: motif enrichment analysis from CAGE -derived TSSs
+27334471|a|With the emergence of large-scale Cap Analysis of Gene Expression (CAGE) datasets from individual labs and the FANTOM consortium, one can now analyze the cis-regulatory regions associated with gene transcription at an unprecedented level of refinement. By coupling transcription factor binding site (TFBS) enrichment analysis with CAGE -derived genomic regions, CAGEd-oPOSSUM can identify TFs that act as key regulators of genes involved in specific mammalian cell and tissue types. The webtool allows for the analysis of CAGE -derived transcription start sites (TSSs) either provided by the user or selected from ∼1300 mammalian samples from the FANTOM5 project with pre-computed TFBS predicted with JASPAR TF binding profiles. The tool helps power insights into the regulation of genes through the study of the specific usage of TSSs within specific cell types and/or under specific conditions. The CAGEd-oPOSUM web tool is implemented in Perl, MySQL and Apache and is available at http://cagedop.cmmt.ubc.ca/CAGEd_oPOSSUM CONTACTS: anthony.mathelier@ncmm.uio.no or wyeth@cmmt.ubc.ca Supplementary information: Supplementary data are available at Bioinformatics online.
+27334471	0	13	CAGEd-oPOSSUM	T170	C0037589
+27334471	15	40	motif enrichment analysis	T062	C0936012
+27334471	46	50	CAGE	T170	C0150098
+27334471	60	64	TSSs	T114,T123	C0949639
+27334471	87	146	large-scale Cap Analysis of Gene Expression (CAGE) datasets	T170	C0150098
+27334471	152	167	individual labs	T073,T093	C0022877
+27334471	176	193	FANTOM consortium	T077	C1709701
+27334471	219	241	cis-regulatory regions	T114,T123	C0034987
+27334471	258	276	gene transcription	T045	C0040649
+27334471	283	316	unprecedented level of refinement	T080	C0205556
+27334471	330	363	transcription factor binding site	T044	C3158211
+27334471	365	369	TFBS	T044	C3158211
+27334471	371	390	enrichment analysis	T062	C0936012
+27334471	396	400	CAGE	T170	C0150098
+27334471	410	425	genomic regions	T028	C0598659
+27334471	427	440	CAGEd-oPOSSUM	T170	C0037589
+27334471	445	453	identify	T080	C0205396
+27334471	454	457	TFs	T116,T123	C0040648
+27334471	470	473	key	T077	C1706198
+27334471	474	484	regulators	T077	C1704735
+27334471	488	493	genes	T028	C0017337
+27334471	506	514	specific	T080	C0205369
+27334471	515	529	mammalian cell	T025	C1512977
+27334471	534	546	tissue types	T024	C2713035
+27334471	552	559	webtool	T170	C0037589
+27334471	575	583	analysis	T062	C0936012
+27334471	587	591	CAGE	T170	C0150098
+27334471	601	626	transcription start sites	T114,T123	C0949639
+27334471	628	632	TSSs	T114,T123	C0949639
+27334471	657	661	user	T098	C1706077
+27334471	685	694	mammalian	T015	C0024660
+27334471	695	702	samples	T167	C0370003
+27334471	712	727	FANTOM5 project	T077	C1709701
+27334471	733	745	pre-computed	T052	C1880157
+27334471	746	750	TFBS	T044	C3158211
+27334471	766	792	JASPAR TF binding profiles	T170	C0242356
+27334471	798	802	tool	T170	C0242356
+27334471	815	823	insights	T041	C0233820
+27334471	833	852	regulation of genes	T045	C0017263
+27334471	865	870	study	T062	C2603343
+27334471	878	886	specific	T080	C0205369
+27334471	887	892	usage	T169	C0457083
+27334471	896	900	TSSs	T114,T123	C0949639
+27334471	908	916	specific	T080	C0205369
+27334471	917	927	cell types	T170	C0449475
+27334471	941	960	specific conditions	T080	C0348080
+27334471	966	987	CAGEd-oPOSUM web tool	T170	C0037589
+27334471	1006	1010	Perl	T170	C0037589
+27334471	1012	1017	MySQL	T170	C1710218
+27334471	1022	1028	Apache	T170	C0243030
+27334471	1049	1089	http://cagedop.cmmt.ubc.ca/CAGEd_oPOSSUM	T170	C2349146
+27334471	1100	1129	anthony.mathelier@ncmm.uio.no	T170	C1705961
+27334471	1133	1150	wyeth@cmmt.ubc.ca	T170	C1705961
+27334471	1151	1176	Supplementary information	T170	C2936424
+27334471	1178	1196	Supplementary data	T170	C2936424
+27334471	1214	1228	Bioinformatics	T170	C0282420
+27334471	1229	1235	online	T073,T170	C0029038

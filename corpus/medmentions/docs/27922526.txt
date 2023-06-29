@@ -1,0 +1,86 @@
+27922526|t|Air Pollutant Exposure Within a Few Days of Delivery and Placental Abruption in Japan
+27922526|a|Placental abruption is an emergency obstetric complication. Although the etiology of abruption is not fully understood, acute stimuli, such as ischemia and/or inflammation, are associated with rupture of the decidual artery, resulting in placental separation. Ischemia and inflammation are acute biologic effects of air pollution. Using a case-crossover design, we tested the hypothesis that a short-term increase in exposure to air pollutants is a potential trigger of placental abruption. We received data for western Japan (Kyushu-Okinawa Districts) from the Japan Perinatal Registry Network database. From 2005 to 2010, 821 singleton pregnant women with placental abruption were identified. We assigned daily concentrations of air pollutants, including nitrogen dioxide (NO2), suspended particulate matter, ozone, and sulfur dioxide (SO2), from the nearest monitoring station to the respective delivery hospital of each woman. Because information on the onset day of abruption was not obtained, we assumed the case day to be 1 day before the day of delivery. Exposure to NO2 at 2 days' lag was associated with placental abruption (temperature adjusted odds ratio per 10 ppb increase = 1.4; 95% confidence interval = 1.1, 1.8). The association patterns were similar, when we restricted to participants who delivered by emergency cesarean (1.4, 1.1, 1.9), or who delivered after 35 weeks of gestation (1.4, 1.0, 2.0). There was no association with suspended particulate matter, ozone, or SO2. We observed an association between NO2 exposure at 2 days before the day of delivery and placental abruption in pregnant Japanese women.
+27922526	0	13	Air Pollutant	T131	C0001869
+27922526	14	22	Exposure	T080	C0332157
+27922526	44	52	Delivery	T061	C0011209
+27922526	57	76	Placental Abruption	T046	C0000832
+27922526	80	85	Japan	T083	C0022341
+27922526	86	105	Placental abruption	T046	C0000832
+27922526	112	144	emergency obstetric complication	T046	C0178292
+27922526	159	167	etiology	T169	C1314792
+27922526	171	180	abruption	T046	C0000832
+27922526	206	211	acute	T079	C0205178
+27922526	212	219	stimuli	T067	C0234402
+27922526	229	237	ischemia	T046	C0022116
+27922526	245	257	inflammation	T046	C0021368
+27922526	263	278	associated with	T080	C0332281
+27922526	279	309	rupture of the decidual artery	T047	C0155760
+27922526	324	344	placental separation	T042	C0233170
+27922526	346	354	Ischemia	T046	C0022116
+27922526	359	371	inflammation	T046	C0021368
+27922526	376	381	acute	T079	C0205178
+27922526	382	390	biologic	T080	C0205460
+27922526	391	398	effects	T080	C1280500
+27922526	402	415	air pollution	T069	C0001873
+27922526	425	446	case-crossover design	T062	C4288565
+27922526	462	472	hypothesis	T078	C1512571
+27922526	480	490	short-term	T079	C0443303
+27922526	491	499	increase	T169	C0442805
+27922526	503	511	exposure	T080	C0332157
+27922526	515	529	air pollutants	T131	C0001869
+27922526	535	544	potential	T080	C3245505
+27922526	545	552	trigger	T201	C0032930
+27922526	556	575	placental abruption	T046	C0000832
+27922526	589	593	data	T078	C1511726
+27922526	598	611	western Japan	T083	C0017446
+27922526	613	637	Kyushu-Okinawa Districts	T083	C0017446
+27922526	648	689	Japan Perinatal Registry Network database	T170	C0242356
+27922526	714	723	singleton	T099	C1313913
+27922526	724	738	pregnant women	T098	C0033011
+27922526	744	763	placental abruption	T046	C0000832
+27922526	793	798	daily	T079	C0332173
+27922526	799	813	concentrations	T081	C1265611
+27922526	817	831	air pollutants	T131	C0001869
+27922526	843	859	nitrogen dioxide	T131,T197	C0028160
+27922526	861	864	NO2	T131,T197	C0028160
+27922526	867	895	suspended particulate matter	T131	C1510837
+27922526	897	902	ozone	T103	C0030106
+27922526	908	922	sulfur dioxide	T131,T197	C0038777
+27922526	924	927	SO2	T131,T197	C0038777
+27922526	947	965	monitoring station	T073	C1883167
+27922526	984	992	delivery	T061	C0011209
+27922526	993	1001	hospital	T073,T093	C0019994
+27922526	1010	1015	woman	T098	C0043210
+27922526	1025	1036	information	T078	C1533716
+27922526	1044	1053	onset day	T079	C0449244
+27922526	1057	1066	abruption	T046	C0000832
+27922526	1100	1104	case	T169	C0868928
+27922526	1117	1120	day	T079	C0439228
+27922526	1132	1135	day	T079	C0439228
+27922526	1139	1147	delivery	T061	C0011209
+27922526	1149	1157	Exposure	T080	C0332157
+27922526	1161	1164	NO2	T131,T197	C0028160
+27922526	1184	1199	associated with	T080	C0332281
+27922526	1200	1219	placental abruption	T046	C0000832
+27922526	1221	1232	temperature	T081	C0039476
+27922526	1242	1252	odds ratio	T081	C0028873
+27922526	1264	1272	increase	T169	C0442805
+27922526	1284	1303	confidence interval	T081	C0009667
+27922526	1321	1332	association	T080	C0439849
+27922526	1378	1390	participants	T098	C0679646
+27922526	1395	1404	delivered	T061	C0011209
+27922526	1408	1426	emergency cesarean	T061	C0558380
+27922526	1451	1460	delivered	T061	C0011209
+27922526	1467	1488	35 weeks of gestation	T079	C0233042
+27922526	1516	1530	no association	T033	C1513916
+27922526	1536	1564	suspended particulate matter	T131	C1510837
+27922526	1566	1571	ozone	T103	C0030106
+27922526	1576	1579	SO2	T131,T197	C0038777
+27922526	1596	1607	association	T080	C0439849
+27922526	1616	1619	NO2	T131,T197	C0028160
+27922526	1620	1628	exposure	T080	C0332157
+27922526	1634	1638	days	T079	C0439228
+27922526	1650	1653	day	T079	C0439228
+27922526	1657	1665	delivery	T061	C0011209
+27922526	1670	1689	placental abruption	T046	C0000832
+27922526	1693	1716	pregnant Japanese women	T098	C0033011

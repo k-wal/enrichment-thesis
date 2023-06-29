@@ -1,0 +1,61 @@
+18483878|t|Exaggerated expression of inflammatory mediators in vasoactive intestinal polypeptide knockout (VIP-/-) mice with cyclophosphamide (CYP)-induced cystitis.
+18483878|a|Vasoactive intestinal polypeptide (VIP) is an immunomodulatory neuropeptide distributed in micturition pathways. VIP(-/-) mice exhibit altered bladder function and neurochemical properties in micturition pathways after cyclophosphamide (CYP)-induced cystitis. Given VIP's role as an anti-inflammatory mediator, we hypothesized that VIP(-/-) mice would exhibit enhanced inflammatory mediator expression after cystitis. A mouse inflammatory cytokine and receptor RT2 profiler array was used to determine regulated transcripts in the urinary bladder of wild type (WT) and VIP(-/-) mice with or without CYP-induced cystitis (150 mg/kg; i.p.; 48 h). Four binary comparisons were made: WT control versus CYP treatment (48 h), VIP(-/-) control versus CYP treatment (48 h), WT control versus VIP(-/-) control, and WT with CYP treatment (48 h) versus VIP(-/-) with CYP treatment (48 h). The genes presented represent (1) greater than 1.5-fold change in either direction and (2) the p value is less than 0.05 for the comparison being made. Several regulated genes were validated using enzyme-linked immunoassays including IL-1beta and CXCL1. CYP treatment significantly (p < or = 0.001) increased expression of CXCL1 and IL-1beta in the urinary bladder of WT and VIP(-/-) mice, but expression in VIP(-/-) mice with CYP treatment was significantly (p < or = 0.001) greater (4.2- to 13-fold increase) than that observed in WT urinary bladder (3.6- to 5-fold increase). The data suggest that in VIP(-/-) mice with bladder inflammation, inflammatory mediators are increased above that observed in WT with CYP. This shift in balance may contribute to increased bladder dysfunction in VIP(-/-) mice with bladder inflammation and altered neurochemical expression in micturition pathways.
+18483878	26	38	inflammatory	DiseaseOrPhenotypicFeature	D007249
+18483878	52	85	vasoactive intestinal polypeptide	GeneOrGeneProduct	22353
+18483878	96	99	VIP	GeneOrGeneProduct	22353
+18483878	104	108	mice	OrganismTaxon	10090
+18483878	114	130	cyclophosphamide	ChemicalEntity	D003520
+18483878	132	135	CYP	ChemicalEntity	D003520
+18483878	145	153	cystitis	DiseaseOrPhenotypicFeature	D003556
+18483878	155	188	Vasoactive intestinal polypeptide	GeneOrGeneProduct	22353
+18483878	190	193	VIP	GeneOrGeneProduct	22353
+18483878	268	271	VIP	GeneOrGeneProduct	22353
+18483878	277	281	mice	OrganismTaxon	10090
+18483878	374	390	cyclophosphamide	ChemicalEntity	D003520
+18483878	392	395	CYP	ChemicalEntity	D003520
+18483878	405	413	cystitis	DiseaseOrPhenotypicFeature	D003556
+18483878	421	424	VIP	GeneOrGeneProduct	22353
+18483878	443	455	inflammatory	DiseaseOrPhenotypicFeature	D007249
+18483878	487	490	VIP	GeneOrGeneProduct	22353
+18483878	496	500	mice	OrganismTaxon	10090
+18483878	524	536	inflammatory	DiseaseOrPhenotypicFeature	D007249
+18483878	563	571	cystitis	DiseaseOrPhenotypicFeature	D003556
+18483878	575	580	mouse	OrganismTaxon	10090
+18483878	581	593	inflammatory	DiseaseOrPhenotypicFeature	D007249
+18483878	724	727	VIP	GeneOrGeneProduct	22353
+18483878	733	737	mice	OrganismTaxon	10090
+18483878	754	757	CYP	ChemicalEntity	D003520
+18483878	766	774	cystitis	DiseaseOrPhenotypicFeature	D003556
+18483878	853	856	CYP	ChemicalEntity	D003520
+18483878	875	878	VIP	GeneOrGeneProduct	22353
+18483878	899	902	CYP	ChemicalEntity	D003520
+18483878	939	942	VIP	GeneOrGeneProduct	22353
+18483878	969	972	CYP	ChemicalEntity	D003520
+18483878	997	1000	VIP	GeneOrGeneProduct	22353
+18483878	1011	1014	CYP	ChemicalEntity	D003520
+18483878	1267	1275	IL-1beta	GeneOrGeneProduct	16176
+18483878	1280	1285	CXCL1	GeneOrGeneProduct	14825
+18483878	1287	1290	CYP	ChemicalEntity	D003520
+18483878	1356	1361	CXCL1	GeneOrGeneProduct	14825
+18483878	1366	1374	IL-1beta	GeneOrGeneProduct	16176
+18483878	1408	1411	VIP	GeneOrGeneProduct	22353
+18483878	1417	1421	mice	OrganismTaxon	10090
+18483878	1441	1444	VIP	GeneOrGeneProduct	22353
+18483878	1450	1454	mice	OrganismTaxon	10090
+18483878	1460	1463	CYP	ChemicalEntity	D003520
+18483878	1637	1640	VIP	GeneOrGeneProduct	22353
+18483878	1646	1650	mice	OrganismTaxon	10090
+18483878	1656	1676	bladder inflammation	DiseaseOrPhenotypicFeature	D003556
+18483878	1678	1690	inflammatory	DiseaseOrPhenotypicFeature	D007249
+18483878	1746	1749	CYP	ChemicalEntity	D003520
+18483878	1801	1820	bladder dysfunction	DiseaseOrPhenotypicFeature	D001745
+18483878	1824	1827	VIP	GeneOrGeneProduct	22353
+18483878	1833	1837	mice	OrganismTaxon	10090
+18483878	1843	1863	bladder inflammation	DiseaseOrPhenotypicFeature	D003556
+18483878	Positive_Correlation	D003520	16176	Novel
+18483878	Positive_Correlation	D003520	14825	Novel
+18483878	Association	D003520	D007249	Novel
+18483878	Positive_Correlation	D003520	D003556	No
+18483878	Negative_Correlation	22353	D007249	No
+18483878	Negative_Correlation	22353	D003556	No
+18483878	Association	22353	D003520	No

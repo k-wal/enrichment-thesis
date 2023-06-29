@@ -1,0 +1,18 @@
+28269523|t|Hybrid automata models of cardiac ventricular electrophysiology for real-time computational applications
+28269523|a|Virtual heart models have been proposed for closed loop validation of safety - critical embedded medical devices, such as pacemakers. These models must react in real-time to off-the-shelf medical devices. Real-time performance can be obtained by implementing models in computer hardware, and methods of compiling classes of Hybrid Automata (HA) onto FPGA have been developed. Models of ventricular cardiac cell electrophysiology have been described using HA which capture the complex nonlinear behavior of biological systems. However, many models that have been used for closed-loop validation of pacemakers are highly abstract and do not capture important characteristics of the dynamic rate response. We developed a new HA model of cardiac cells which captures dynamic behavior and we implemented the model in hardware. This potentially enables modeling the heart with over 1 million dynamic cells, making the approach ideal for closed loop testing of medical devices.
+28269523	26	45	cardiac ventricular	T017	UMLS:C0018827
+28269523	46	63	electrophysiology	T058	UMLS:C0430467
+28269523	161	171	validation	T062	UMLS:C1519941
+28269523	202	217	medical devices	T074	UMLS:C0025080
+28269523	227	237	pacemakers	T074	UMLS:C0810633
+28269523	293	308	medical devices	T074	UMLS:C0025080
+28269523	455	459	FPGA	T074	UMLS:C0025080
+28269523	491	515	ventricular cardiac cell	T017	UMLS:C2339371
+28269523	516	533	electrophysiology	T058	UMLS:C0430467
+28269523	688	698	validation	T062	UMLS:C1519941
+28269523	702	712	pacemakers	T074	UMLS:C0810633
+28269523	839	852	cardiac cells	T017	UMLS:C0225828
+28269523	952	960	modeling	T062	UMLS:C0870071
+28269523	965	970	heart	T017	UMLS:C0018787
+28269523	999	1004	cells	T017	UMLS:C0007634
+28269523	1059	1074	medical devices	T074	UMLS:C0025080

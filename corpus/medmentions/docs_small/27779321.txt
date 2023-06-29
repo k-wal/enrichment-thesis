@@ -1,0 +1,45 @@
+27779321|t|Benthic injury dose-response models for polychlorinated biphenyl - contaminated sediment using equilibrium partitioning
+27779321|a|The study goal was to develop a sediment polychlorinated biphenyl (PCB) dose-response model based on benthic invertebrate effects to PCBs. The authors used an equilibrium partitioning (EqP) approach to generate predicted PCB sediment effect concentrations (largely Aroclor 1254) associated with a gradient of toxic effects in benthic organisms from effects observed in aquatic toxicity studies. The present study differs from all other EqP collective sediment investigations in that the authors examined a common dose-response gradient of effects for PCBs rather than a single, protective value. The authors reviewed the chronic aquatic toxicity literature to identify measured aqueous PCB concentrations and associated benthic invertebrate effects. The authors control-normalized the aquatic toxic effect data and expressed results from various studies as a common metric, percent injury. Then, they calculated organic carbon -normalized sediment PCB concentrations (mg/kg organic carbon) from the aqueous PCB toxicity data set using EqP theory based on the US Environmental Protection Agency's (EPIWEB 4.1) derivation of the water-organic carbon partition coefficient (KOC). Lastly, the authors constructed a nonlinear dose-response numerical model for these synoptic sediment PCB concentrations and biological effects: Y = 100/1 + 10(([logEC50-logX] × [Hill slope])) (EC50 = median effective concentration). These models were used to generate "look-up" tables reporting percent injury in benthic biota for a range of Aroclor -specific sediment concentrations. For example, the model using the EPIWEB KOC estimate predicts mean benthic injury of 23.3%, 46.0%, 70.6%, 87.1%, and 95% for hypothetical sediment concentrations of 1 mg/kg, 2 mg/kg, 4 mg/kg, 8 mg/kg, and 16 mg/kg dry weight of Aroclor 1254, respectively (at 1% organic carbon). The authors recommend the model presented for screening but suggest, when possible, determining a site-specific KOC that, along with the tables and equations, allows users to create their own protective dose-response sediment concentration. Environ Toxicol Chem 2017;36:1311-1329. © 2016 SETAC.
+27779321	0	35	Benthic injury dose-response models	T170	UMLS:C0282574
+27779321	40	64	polychlorinated biphenyl	T103	UMLS:C0032447
+27779321	95	119	equilibrium partitioning	T170	UMLS:C0282574
+27779321	124	129	study	T062	UMLS:C2603343
+27779321	161	185	polychlorinated biphenyl	T103	UMLS:C0032447
+27779321	187	190	PCB	T103	UMLS:C0032447
+27779321	192	211	dose-response model	T170	UMLS:C0282574
+27779321	253	257	PCBs	T103	UMLS:C0032447
+27779321	279	318	equilibrium partitioning (EqP) approach	T170	UMLS:C0282574
+27779321	341	344	PCB	T103	UMLS:C0032447
+27779321	385	397	Aroclor 1254	T103	UMLS:C0052391
+27779321	429	442	toxic effects	T037	UMLS:C0600688
+27779321	497	505	toxicity	T037	UMLS:C0600688
+27779321	506	513	studies	T062	UMLS:C2603343
+27779321	527	532	study	T062	UMLS:C2603343
+27779321	556	559	EqP	T170	UMLS:C0282574
+27779321	671	675	PCBs	T103	UMLS:C0032447
+27779321	757	765	toxicity	T037	UMLS:C0600688
+27779321	766	776	literature	T170	UMLS:C0023866
+27779321	806	809	PCB	T103	UMLS:C0032447
+27779321	913	925	toxic effect	T037	UMLS:C0600688
+27779321	966	973	studies	T062	UMLS:C2603343
+27779321	1032	1046	organic carbon	T103	UMLS:C0007011
+27779321	1068	1071	PCB	T103	UMLS:C0032447
+27779321	1094	1108	organic carbon	T103	UMLS:C0007011
+27779321	1127	1130	PCB	T103	UMLS:C0032447
+27779321	1131	1139	toxicity	T037	UMLS:C0600688
+27779321	1140	1148	data set	T170	UMLS:C0150098
+27779321	1155	1158	EqP	T170	UMLS:C0282574
+27779321	1179	1215	US Environmental Protection Agency's	T092	UMLS:C0041712
+27779321	1217	1227	EPIWEB 4.1	T170	UMLS:C0037585
+27779321	1341	1370	dose-response numerical model	T170	UMLS:C0282574
+27779321	1399	1402	PCB	T103	UMLS:C0032447
+27779321	1537	1543	models	T170	UMLS:C0282574
+27779321	1576	1582	tables	T170	UMLS:C1706074
+27779321	1640	1647	Aroclor	T103	UMLS:C0052391
+27779321	1700	1705	model	T170	UMLS:C0282574
+27779321	1716	1722	EPIWEB	T170	UMLS:C0037585
+27779321	1911	1923	Aroclor 1254	T103	UMLS:C0052391
+27779321	1945	1959	organic carbon	T103	UMLS:C0007011
+27779321	1988	1993	model	T170	UMLS:C0282574
+27779321	2060	2073	site-specific	T082	UMLS:C0449604
+27779321	2099	2105	tables	T170	UMLS:C1706074

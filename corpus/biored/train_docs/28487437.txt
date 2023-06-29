@@ -1,0 +1,64 @@
+28487437|t|Hypoglycemic Effect of Combined Ghrelin and Glucagon Receptor Blockade.
+28487437|a|Glucagon receptor (GcgR) blockade has been proposed as an alternative to insulin monotherapy for treating type 1 diabetes since deletion or inhibition of GcgRs corrects hyperglycemia in models of diabetes. The factors regulating glycemia in a setting devoid of insulin and glucagon function remain unclear but may include the hormone ghrelin. Not only is ghrelin release controlled by glucose but also ghrelin has many actions that can raise or reduce falls in blood glucose level. Here, we tested the hypothesis that ghrelin rises to prevent hypoglycemia in the absence of glucagon function. Both GcgR knockout (Gcgr(-/-)) mice and db/db mice that were administered GcgR monoclonal antibody displayed lower blood glucose levels accompanied by elevated plasma ghrelin levels. Although treatment with the pancreatic b-cell toxin streptozotocin induced hyperglycemia and raised plasma ghrelin levels in wild-type mice, hyperglycemia was averted in similarly treated Gcgr(-/-) mice and the plasma ghrelin level was further increased. Notably, administration of a ghrelin receptor antagonist further reduced blood glucose levels into the markedly hypoglycemic range in overnight-fasted, streptozotocin-treated Gcgr(-/-) mice. A lowered blood glucose level also was observed in overnight-fasted, streptozotocin-treated ghrelin receptor-null mice that were administered GcgR monoclonal antibody. These data suggest that when glucagon activity is blocked in the setting of type 1 diabetes, the plasma ghrelin level rises, preventing hypoglycemia.
+28487437	32	39	Ghrelin	GeneOrGeneProduct	58991
+28487437	44	61	Glucagon Receptor	GeneOrGeneProduct	14527
+28487437	72	89	Glucagon receptor	GeneOrGeneProduct	2642
+28487437	91	95	GcgR	GeneOrGeneProduct	2642
+28487437	145	152	insulin	GeneOrGeneProduct	3630
+28487437	178	193	type 1 diabetes	DiseaseOrPhenotypicFeature	D003922
+28487437	226	231	GcgRs	GeneOrGeneProduct	2642
+28487437	241	254	hyperglycemia	DiseaseOrPhenotypicFeature	D006943
+28487437	268	276	diabetes	DiseaseOrPhenotypicFeature	D003920
+28487437	301	309	glycemia	ChemicalEntity	D001786
+28487437	333	340	insulin	GeneOrGeneProduct	3630
+28487437	345	353	glucagon	GeneOrGeneProduct	2641
+28487437	406	413	ghrelin	GeneOrGeneProduct	51738
+28487437	427	434	ghrelin	GeneOrGeneProduct	51738
+28487437	457	464	glucose	ChemicalEntity	D005947
+28487437	474	481	ghrelin	GeneOrGeneProduct	51738
+28487437	533	546	blood glucose	ChemicalEntity	D001786
+28487437	590	597	ghrelin	GeneOrGeneProduct	58991
+28487437	615	627	hypoglycemia	DiseaseOrPhenotypicFeature	D007003
+28487437	646	654	glucagon	GeneOrGeneProduct	14526
+28487437	670	674	GcgR	GeneOrGeneProduct	14527
+28487437	685	689	Gcgr	GeneOrGeneProduct	14527
+28487437	696	700	mice	OrganismTaxon	10090
+28487437	711	715	mice	OrganismTaxon	10090
+28487437	739	743	GcgR	GeneOrGeneProduct	14527
+28487437	780	793	blood glucose	ChemicalEntity	D001786
+28487437	832	839	ghrelin	GeneOrGeneProduct	58991
+28487437	900	914	streptozotocin	ChemicalEntity	D013311
+28487437	923	936	hyperglycemia	DiseaseOrPhenotypicFeature	D006943
+28487437	955	962	ghrelin	GeneOrGeneProduct	58991
+28487437	983	987	mice	OrganismTaxon	10090
+28487437	989	1002	hyperglycemia	DiseaseOrPhenotypicFeature	D006943
+28487437	1036	1040	Gcgr	GeneOrGeneProduct	14527
+28487437	1046	1050	mice	OrganismTaxon	10090
+28487437	1066	1073	ghrelin	GeneOrGeneProduct	58991
+28487437	1132	1148	ghrelin receptor	GeneOrGeneProduct	208188
+28487437	1176	1189	blood glucose	ChemicalEntity	D001786
+28487437	1255	1269	streptozotocin	ChemicalEntity	D013311
+28487437	1278	1282	Gcgr	GeneOrGeneProduct	14527
+28487437	1288	1292	mice	OrganismTaxon	10090
+28487437	1304	1317	blood glucose	ChemicalEntity	D001786
+28487437	1363	1377	streptozotocin	ChemicalEntity	D013311
+28487437	1386	1402	ghrelin receptor	GeneOrGeneProduct	208188
+28487437	1408	1412	mice	OrganismTaxon	10090
+28487437	1436	1440	GcgR	GeneOrGeneProduct	14527
+28487437	1491	1499	glucagon	GeneOrGeneProduct	14526
+28487437	1538	1553	type 1 diabetes	DiseaseOrPhenotypicFeature	D003922
+28487437	1566	1573	ghrelin	GeneOrGeneProduct	58991
+28487437	1598	1610	hypoglycemia	DiseaseOrPhenotypicFeature	D007003
+28487437	Association	14526	D007003	Novel
+28487437	Negative_Correlation	14526	58991	Novel
+28487437	Negative_Correlation	3630	D003922	No
+28487437	Negative_Correlation	58991	D007003	Novel
+28487437	Positive_Correlation	D013311	58991	Novel
+28487437	Positive_Correlation	D013311	D006943	No
+28487437	Association	2642	D006943	No
+28487437	Association	2642	D003922	No
+28487437	Negative_Correlation	D001786	14527	Novel
+28487437	Association	D001786	208188	Novel
+28487437	Negative_Correlation	D001786	D013311	Novel
+28487437	Association	51738	D001786	No
+28487437	Association	51738	D005947	No

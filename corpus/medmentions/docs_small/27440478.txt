@@ -1,0 +1,27 @@
+27440478|t|Multiplexing Fluorescence Anisotropy Using Frequency Encoding
+27440478|a|In this report, a method to multiplex fluorescence anisotropy measurements is described using frequency encoding. As a demonstration of the method, simultaneous competitive immunoassays for insulin and glucagon were performed by measuring the ratio of bound and free Cy5-insulin and FITC-glucagon in the presence of their respective antibodies. A vertically polarized 635 nm laser was pulsed at 73 Hz and used to excite Cy5-insulin, while a vertically polarized 488 nm laser pulsed at 137 Hz excited FITC-glucagon. The total emission was split into parallel and perpendicular polarizations and collected onto separate photomultiplier tubes. The signals from each channel were demodulated using a fast Fourier transform, resolving the contributions from each fluorophore. Anisotropy calculations were carried out using the magnitude of the peaks in the frequency domain. The method produced the expected shape of the calibration curves with limits of detection of 0.6 and 5 nM for insulin and glucagon, respectively. This methodology could readily be expanded to other biological systems and further multiplexed to monitor increased numbers of analytes.
+27440478	43	61	Frequency Encoding	T058	UMLS:C0022885
+27440478	156	174	frequency encoding	T058	UMLS:C0022885
+27440478	235	247	immunoassays	T058	UMLS:C0020980
+27440478	252	259	insulin	T103	UMLS:C0021641
+27440478	264	272	glucagon	T103	UMLS:C0017687
+27440478	314	319	bound	T103	UMLS:C1317461
+27440478	324	340	free Cy5-insulin	T103	UMLS:C0487017
+27440478	345	358	FITC-glucagon	T103	UMLS:C0017687
+27440478	395	405	antibodies	T103	UMLS:C0003241
+27440478	482	493	Cy5-insulin	T103	UMLS:C0021641
+27440478	562	575	FITC-glucagon	T103	UMLS:C0017687
+27440478	638	651	polarizations	T058	UMLS:C0016316
+27440478	725	732	channel	T082	UMLS:C0439799
+27440478	758	780	fast Fourier transform	T170	UMLS:C0002045
+27440478	844	856	calculations	T058	UMLS:C0201805
+27440478	924	930	domain	T082	UMLS:C0205147
+27440478	956	964	expected	T170	UMLS:C1517001
+27440478	965	970	shape	T082	UMLS:C0332479
+27440478	990	996	curves	T082	UMLS:C0205134
+27440478	1012	1021	detection	T033	UMLS:C0442726
+27440478	1042	1049	insulin	T103	UMLS:C0021641
+27440478	1054	1062	glucagon	T103	UMLS:C0017687
+27440478	1112	1120	expanded	T082	UMLS:C0205229
+27440478	1130	1148	biological systems	T022	UMLS:C0460002
+27440478	1153	1160	further	T082	UMLS:C1517331

@@ -1,0 +1,35 @@
+18340638|t|Azathioprine-induced suicidal erythrocyte death.
+18340638|a|BACKGROUND: Azathioprine is widely used as an immunosuppressive drug. The side effects of azathioprine include anemia, which has been attributed to bone marrow suppression. Alternatively, anemia could result from accelerated suicidal erythrocyte death or eryptosis, which is characterized by exposure of phosphatidylserine (PS) at the erythrocyte surface and by cell shrinkage. METHODS: The present experiments explored whether azathioprine influences eryptosis. According to annexin V binding, erythrocytes from patients indeed showed a significant increase of PS exposure within 1 week of treatment with azathioprine. In a second series, cytosolic Ca2+ activity (Fluo3 fluorescence), cell volume (forward scatter), and PS-exposure (annexin V binding) were determined by FACS analysis in erythrocytes from healthy volunteers. RESULTS: Exposure to azathioprine (> or =2 microg/mL) for 48 hours increased cytosolic Ca2+ activity and annexin V binding and decreased forward scatter. The effect of azathioprine on both annexin V binding and forward scatter was significantly blunted in the nominal absence of extracellular Ca2+. CONCLUSIONS: Azathioprine triggers suicidal erythrocyte death, an effect presumably contributing to azathioprine-induced anemia.
+18340638	0	12	Azathioprine	ChemicalEntity	D001379
+18340638	61	73	Azathioprine	ChemicalEntity	D001379
+18340638	139	151	azathioprine	ChemicalEntity	D001379
+18340638	160	166	anemia	DiseaseOrPhenotypicFeature	D000740
+18340638	197	220	bone marrow suppression	DiseaseOrPhenotypicFeature	D001855
+18340638	237	243	anemia	DiseaseOrPhenotypicFeature	D000740
+18340638	353	371	phosphatidylserine	ChemicalEntity	D010718
+18340638	373	375	PS	ChemicalEntity	D010718
+18340638	477	489	azathioprine	ChemicalEntity	D001379
+18340638	525	534	annexin V	GeneOrGeneProduct	308
+18340638	562	570	patients	OrganismTaxon	9606
+18340638	611	613	PS	ChemicalEntity	D010718
+18340638	655	667	azathioprine	ChemicalEntity	D001379
+18340638	699	703	Ca2+	ChemicalEntity	D002118
+18340638	714	719	Fluo3	ChemicalEntity	C059715
+18340638	770	772	PS	ChemicalEntity	D010718
+18340638	783	792	annexin V	GeneOrGeneProduct	308
+18340638	897	909	azathioprine	ChemicalEntity	D001379
+18340638	963	967	Ca2+	ChemicalEntity	D002118
+18340638	981	990	annexin V	GeneOrGeneProduct	308
+18340638	1044	1056	azathioprine	ChemicalEntity	D001379
+18340638	1065	1074	annexin V	GeneOrGeneProduct	308
+18340638	1169	1173	Ca2+	ChemicalEntity	D002118
+18340638	1188	1200	Azathioprine	ChemicalEntity	D001379
+18340638	1275	1287	azathioprine	ChemicalEntity	D001379
+18340638	1296	1302	anemia	DiseaseOrPhenotypicFeature	D000740
+18340638	Positive_Correlation	D000740	D010718	No
+18340638	Association	D010718	308	No
+18340638	Positive_Correlation	D001379	D001855	No
+18340638	Positive_Correlation	D001379	D000740	No
+18340638	Positive_Correlation	D001379	D002118	Novel
+18340638	Association	D001379	308	Novel
+18340638	Positive_Correlation	D001379	D010718	Novel

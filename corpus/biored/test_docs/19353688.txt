@@ -1,0 +1,28 @@
+19353688|t|Pure monosomy and pure trisomy of 13q21.2-31.1 consequent to a familial insertional translocation: exclusion of PCDH9 as the responsible gene for autosomal dominant auditory neuropathy (AUNA1).
+19353688|a|Insertional translocations (IT) are rare structural rearrangements. Offspring of IT balanced carriers are at high risk to have either pure partial trisomy or monosomy for the inserted segment as manifested by "pure" phenotypes. We describe an IT between chromosomes 3 and 13 segregating in a three-generation pedigree. Short tandem repeat (STR) segregation analysis and array-comparative genomic hybridization were used to define the IT as a 25.1 Mb segment spanning 13q21.2-q31.1. The phenotype of pure monosomy included deafness, duodenal stenosis, developmental and growth delay, vertebral anomalies, and facial dysmorphisms; the trisomy was manifested by only minor dysmorphisms. As the AUNA1 deafness locus on 13q14-21 overlaps the IT in the PCDH9 (protocadherin-9) gene region, PCDH9 was investigated as a candidate gene for deafness in both families. Genotyping of STRs and single nucleotide polymorphisms defined the AUNA1 breakpoint as 35 kb 5' to PCDH9, with a 2.4 Mb area of overlap with the IT. DNA sequencing of coding regions in the AUNA1 family and in the retained homologue chromosome in the monosomic patient revealed no mutations. We conclude that AUNA1 deafness does not share a common etiology with deafness associated with monosomy 13q21.2-q31.3; deafness may result from monosomy of PCHD9 or another gene in the IT, as has been demonstrated in contiguous gene deletion syndromes. Precise characterization of the breakpoints of the translocated region is useful to identify which genes may be contributing to the phenotype, either through haploinsufficiency or extra dosage effects, in order to define genotype-phenotype correlations.
+19353688	112	117	PCDH9	GeneOrGeneProduct	5101
+19353688	146	184	autosomal dominant auditory neuropathy	DiseaseOrPhenotypicFeature	C563790
+19353688	186	191	AUNA1	DiseaseOrPhenotypicFeature	C563790
+19353688	716	724	deafness	DiseaseOrPhenotypicFeature	D003638
+19353688	726	743	duodenal stenosis	DiseaseOrPhenotypicFeature	C535720
+19353688	745	775	developmental and growth delay	DiseaseOrPhenotypicFeature	D002658
+19353688	777	796	vertebral anomalies	DiseaseOrPhenotypicFeature	C535781
+19353688	802	821	facial dysmorphisms	DiseaseOrPhenotypicFeature	D019465
+19353688	864	876	dysmorphisms	DiseaseOrPhenotypicFeature	D019465
+19353688	885	890	AUNA1	DiseaseOrPhenotypicFeature	C563790
+19353688	891	899	deafness	DiseaseOrPhenotypicFeature	D003638
+19353688	941	946	PCDH9	GeneOrGeneProduct	5101
+19353688	948	963	protocadherin-9	GeneOrGeneProduct	5101
+19353688	978	983	PCDH9	GeneOrGeneProduct	5101
+19353688	1025	1033	deafness	DiseaseOrPhenotypicFeature	D003638
+19353688	1119	1124	AUNA1	DiseaseOrPhenotypicFeature	C563790
+19353688	1151	1156	PCDH9	GeneOrGeneProduct	5101
+19353688	1241	1246	AUNA1	DiseaseOrPhenotypicFeature	C563790
+19353688	1312	1319	patient	OrganismTaxon	9606
+19353688	1360	1365	AUNA1	DiseaseOrPhenotypicFeature	C563790
+19353688	1366	1374	deafness	DiseaseOrPhenotypicFeature	D003638
+19353688	1413	1421	deafness	DiseaseOrPhenotypicFeature	D003638
+19353688	1462	1470	deafness	DiseaseOrPhenotypicFeature	D003638
+19353688	1499	1504	PCHD9	GeneOrGeneProduct	5101
+19353688	Association	C563790	5101	No
+19353688	Association	D003638	5101	No

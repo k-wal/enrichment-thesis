@@ -1,0 +1,27 @@
+27292643|t|Negative Selection and Chromosome Instability Induced by Mad2 Overexpression Delay Breast Cancer but Facilitate Oncogene-Independent Outgrowth.
+27292643|a|Chromosome instability (CIN) is associated with poor survival and therapeutic outcome in a number of malignancies. Despite this correlation, CIN can also lead to growth disadvantages. Here, we show that simultaneous overexpression of the mitotic checkpoint protein Mad2 with Kras(G12D) or Her2 in mammary glands of adult mice results in mitotic checkpoint overactivation and a delay in tumor onset. Time-lapse imaging of organotypic cultures and pathologic analysis prior to tumor establishment reveals error-prone mitosis, mitotic arrest, and cell death. Nonetheless, Mad2 expression persists and increases karyotype complexity in Kras tumors. Faced with the selective pressure of oncogene withdrawal, Mad2-positive tumors have a higher frequency of developing persistent subclones that avoid remission and continue to grow.
+27292643	23	45	Chromosome Instability	DiseaseOrPhenotypicFeature	D043171
+27292643	57	61	Mad2	GeneOrGeneProduct	56150
+27292643	83	96	Breast Cancer	DiseaseOrPhenotypicFeature	D001943
+27292643	144	166	Chromosome instability	DiseaseOrPhenotypicFeature	D043171
+27292643	168	171	CIN	DiseaseOrPhenotypicFeature	D043171
+27292643	245	257	malignancies	DiseaseOrPhenotypicFeature	D009369
+27292643	285	288	CIN	DiseaseOrPhenotypicFeature	D043171
+27292643	409	413	Mad2	GeneOrGeneProduct	56150
+27292643	419	423	Kras	GeneOrGeneProduct	16653
+27292643	424	428	G12D	GeneOrGeneProduct	16653
+27292643	433	437	Her2	GeneOrGeneProduct	13866
+27292643	465	469	mice	OrganismTaxon	10090
+27292643	530	535	tumor	DiseaseOrPhenotypicFeature	D009369
+27292643	619	624	tumor	DiseaseOrPhenotypicFeature	D009369
+27292643	713	717	Mad2	GeneOrGeneProduct	56150
+27292643	776	780	Kras	GeneOrGeneProduct	16653
+27292643	781	787	tumors	DiseaseOrPhenotypicFeature	D009369
+27292643	847	851	Mad2	GeneOrGeneProduct	56150
+27292643	861	867	tumors	DiseaseOrPhenotypicFeature	D009369
+27292643	Association	13866	D009369	No
+27292643	Association	16653	D009369	No
+27292643	Association	56150	16653	Novel
+27292643	Association	56150	D009369	Novel
+27292643	Association	56150	D001943	Novel
+27292643	Positive_Correlation	D043171	56150	Novel

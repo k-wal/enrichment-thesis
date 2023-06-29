@@ -1,0 +1,53 @@
+27451934|t|Making use of longitudinal information in pattern recognition
+27451934|a|Longitudinal designs are widely used in medical studies as a means of observing within- subject changes over time in groups of subjects, thereby aiming to improve sensitivity for detecting disease effects. Paralleling an increased use of such studies in neuroimaging has been the adoption of pattern recognition algorithms for making individualized predictions of disease. However, at present few pattern recognition methods exist to make full use of neuroimaging data that have been collected longitudinally, with most methods relying instead on cross-sectional style analysis. This article presents a principal component analysis -based feature construction method that uses longitudinal high-dimensional data to improve predictive performance of pattern recognition algorithms. The method can be applied to data from a wide range of longitudinal study designs and permits an arbitrary number of time-points per subject. We apply the method to two longitudinal datasets, one containing subjects with mild cognitive impairment along with healthy controls, the other with early dementia subjects and healthy controls. Across both datasets, we show improvements in predictive accuracy relative to cross-sectional classifiers for discriminating disease subjects from healthy controls on the basis of whole- brain structural magnetic resonance image -based voxels. In addition, we can transfer longitudinal information from one set of subjects to make disease predictions in another set of subjects. The proposed method is simple and, as a feature construction method, flexible with respect to the choice of classifier and image registration algorithm. Hum Brain Mapp, 2016. © 2016 Wiley Periodicals, Inc.
+27451934	14	26	longitudinal	T081	C0086569
+27451934	27	38	information	T078	C1533716
+27451934	42	61	pattern recognition	T041	C1518918
+27451934	62	74	Longitudinal	T081	C0086569
+27451934	102	117	medical studies	T062	C0242481
+27451934	150	157	subject	T098	C0080105
+27451934	189	197	subjects	T098	C0080105
+27451934	251	258	disease	T047	C0012634
+27451934	268	279	Paralleling	T061	C0445183
+27451934	316	328	neuroimaging	T060	C0679575
+27451934	354	384	pattern recognition algorithms	T170	C0002045
+27451934	396	410	individualized	T080	C1881197
+27451934	411	422	predictions	T078	C0681842
+27451934	426	433	disease	T047	C0012634
+27451934	459	486	pattern recognition methods	T170	C0025663
+27451934	513	525	neuroimaging	T060	C0679575
+27451934	556	570	longitudinally	T081	C0086569
+27451934	609	639	cross-sectional style analysis	T062	C0010362
+27451934	665	693	principal component analysis	T081	C0429865
+27451934	709	728	construction method	UnknownType	C0868944
+27451934	739	751	longitudinal	T081	C0086569
+27451934	752	773	high-dimensional data	T081	C0392762
+27451934	785	807	predictive performance	T052	C1882330
+27451934	811	841	pattern recognition algorithms	T170	C0002045
+27451934	898	910	longitudinal	T081	C0086569
+27451934	940	949	arbitrary	T081	C0439183
+27451934	960	971	time-points	T079	C0439547
+27451934	976	983	subject	T098	C0080105
+27451934	1012	1024	longitudinal	T081	C0086569
+27451934	1050	1058	subjects	T098	C0080105
+27451934	1064	1089	mild cognitive impairment	T048	C1270972
+27451934	1101	1117	healthy controls	T080	C2986479
+27451934	1140	1148	dementia	T048	C0497327
+27451934	1149	1157	subjects	T098	C0080105
+27451934	1162	1178	healthy controls	T080	C2986479
+27451934	1226	1245	predictive accuracy	T080	C4035952
+27451934	1258	1273	cross-sectional	T062	C0010362
+27451934	1305	1321	disease subjects	T098	C0080105
+27451934	1327	1343	healthy controls	T080	C2986479
+27451934	1367	1372	brain	T023	C0006104
+27451934	1384	1408	magnetic resonance image	T060	C0412675
+27451934	1416	1422	voxels	T077	C2700259
+27451934	1453	1465	longitudinal	T081	C0086569
+27451934	1466	1477	information	T078	C1533716
+27451934	1494	1502	subjects	T098	C0080105
+27451934	1511	1518	disease	T047	C0012634
+27451934	1519	1530	predictions	T078	C0681842
+27451934	1549	1557	subjects	T098	C0080105
+27451934	1607	1626	construction method	UnknownType	C0868944
+27451934	1628	1636	flexible	T080	C0443220
+27451934	1682	1710	image registration algorithm	T170	C0002045

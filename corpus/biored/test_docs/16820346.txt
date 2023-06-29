@@ -1,0 +1,46 @@
+16820346|t|Atorvastatin prevented and reversed dexamethasone-induced hypertension in the rat.
+16820346|a|To assess the antioxidant effects of atorvastatin (atorva) on dexamethasone (dex)-induced hypertension, 60 male Sprague-Dawley rats were treated with atorva 30 mg/kg/day or tap water for 15 days. Dex increased systolic blood pressure (SBP) from 109 +/- 1.8 to 135 +/- 0.6 mmHg and plasma superoxide (5711 +/- 284.9 saline, 7931 +/- 392.8 U/ml dex, P < 0.001). In this prevention study, SBP in the atorva + dex group was increased from 115 +/- 0.4 to 124 +/- 1.5 mmHg, but this was significantly lower than in the dex-only group (P' < 0.05). Atorva reversed dex-induced hypertension (129 +/- 0.6 mmHg, vs. 135 +/- 0.6 mmHg P' < 0.05) and decreased plasma superoxide (7931 +/- 392.8 dex, 1187 +/- 441.2 atorva + dex, P < 0.0001). Plasma nitrate/nitrite (NOx) was decreased in dex-treated rats compared to saline-treated rats (11.2 +/- 1.08 microm, 15.3 +/- 1.17 microm, respectively, P < 0.05). Atorva affected neither plasma NOx nor thymus weight. Thus, atorvastatin prevented and reversed dexamethasone-induced hypertension in the rat.
+16820346	0	12	Atorvastatin	ChemicalEntity	D000069059
+16820346	36	49	dexamethasone	ChemicalEntity	D003907
+16820346	58	70	hypertension	DiseaseOrPhenotypicFeature	D006973
+16820346	78	81	rat	OrganismTaxon	10116
+16820346	97	108	antioxidant	ChemicalEntity	D000975
+16820346	120	132	atorvastatin	ChemicalEntity	D000069059
+16820346	134	140	atorva	ChemicalEntity	D000069059
+16820346	145	158	dexamethasone	ChemicalEntity	D003907
+16820346	160	163	dex	ChemicalEntity	D003907
+16820346	173	185	hypertension	DiseaseOrPhenotypicFeature	D006973
+16820346	210	214	rats	OrganismTaxon	10116
+16820346	233	239	atorva	ChemicalEntity	D000069059
+16820346	279	282	Dex	ChemicalEntity	D003907
+16820346	371	381	superoxide	ChemicalEntity	D013481
+16820346	426	429	dex	ChemicalEntity	D003907
+16820346	480	486	atorva	ChemicalEntity	D000069059
+16820346	489	492	dex	ChemicalEntity	D003907
+16820346	596	599	dex	ChemicalEntity	D003907
+16820346	624	630	Atorva	ChemicalEntity	D000069059
+16820346	640	643	dex	ChemicalEntity	D003907
+16820346	652	664	hypertension	DiseaseOrPhenotypicFeature	D006973
+16820346	737	747	superoxide	ChemicalEntity	D013481
+16820346	764	767	dex	ChemicalEntity	D003907
+16820346	784	790	atorva	ChemicalEntity	D000069059
+16820346	793	796	dex	ChemicalEntity	D003907
+16820346	818	825	nitrate	ChemicalEntity	D009566
+16820346	826	833	nitrite	ChemicalEntity	D009573
+16820346	835	838	NOx	ChemicalEntity	D009589
+16820346	857	860	dex	ChemicalEntity	D003907
+16820346	869	873	rats	OrganismTaxon	10116
+16820346	901	905	rats	OrganismTaxon	10116
+16820346	976	982	Atorva	ChemicalEntity	D000069059
+16820346	1007	1010	NOx	ChemicalEntity	D009589
+16820346	1036	1048	atorvastatin	ChemicalEntity	D000069059
+16820346	1072	1085	dexamethasone	ChemicalEntity	D003907
+16820346	1094	1106	hypertension	DiseaseOrPhenotypicFeature	D006973
+16820346	1114	1117	rat	OrganismTaxon	10116
+16820346	Negative_Correlation	D009589	D003907	Novel
+16820346	Negative_Correlation	D009573	D003907	Novel
+16820346	Negative_Correlation	D009566	D003907	Novel
+16820346	Positive_Correlation	D003907	D013481	Novel
+16820346	Positive_Correlation	D003907	D006973	No
+16820346	Negative_Correlation	D000069059	D006973	Novel
+16820346	Negative_Correlation	D000069059	D003907	Novel

@@ -1,0 +1,64 @@
+27492044|t|Dysplasia discrimination in intestinal - type neoplasia of the esophagus and colon via digital image analysis
+27492044|a|Determining gastrointestinal tract dysplasia level is clinically important but can be difficult, and given this challenge, we investigated colonic and esophageal dysplastic progression using digital image analysis (IA). Whole slide images were obtained for colonic normal mucosa (NCM), hyperplastic polyps (HP), conventional tubular adenomas (TA), and adenomas with high-grade dysplasia (HGD), and esophageal intestinal metaplasia negative for dysplasia (IM), indefinite for dysplasia (IFD), low-grade dysplasia (LGD), and HGD. Characteristic nuclei were circumscribed, and parameters discriminating groups included nuclear circumference (μm), area (μm(2)), and 15 positive pixel count (PPC) algorithm IA measurements. In colon polyps and esophageal lesions, average nuclear area and circumference ranged 30-108.6 μm(2) and 27.5-48.9 μm, respectively. Differences for average nuclear area and circumference met statistical significance (p < 0.05) between diagnostic groups in the esophagus and colon, except for IM versus IFD nuclear area. Pixel intensity (brightness) separated lesions within both groups with statistical significance except for colonic TAs versus HPs and esophageal LGD versus IM. HGD nuclei in both groups demonstrated more pixel staining heterogeneity than other lesions. Hierarchical clustering and principal component analysis demonstrated that lesions with similar diagnoses tended to cluster together on a low- to high-grade spectrum. Our results confirm that quantitative IA is an effective adjunct reflecting dysplasia in colon polyps and Barrett esophagus lesions. Nuclear area, circumference, and PPC algorithm findings distinguished lesions in a statistically significant manner. This suggests utility for future studies on similar methods, which may provide an adjunctive ancillary technique for pathologists and enhance patient care.
+27492044	0	9	Dysplasia	T038	UMLS:C0334044
+27492044	28	38	intestinal	T017	UMLS:C0021853
+27492044	46	55	neoplasia	T038	UMLS:C0027651
+27492044	63	72	esophagus	T017	UMLS:C0014876
+27492044	77	82	colon	T017	UMLS:C0009368
+27492044	87	109	digital image analysis	T058	UMLS:C2348290
+27492044	122	144	gastrointestinal tract	T022	UMLS:C0017189
+27492044	145	154	dysplasia	T038	UMLS:C0334044
+27492044	155	160	level	T170	UMLS:C0456079
+27492044	249	256	colonic	T017	UMLS:C0009368
+27492044	261	271	esophageal	T082	UMLS:C1522619
+27492044	272	282	dysplastic	T038	UMLS:C0334044
+27492044	301	323	digital image analysis	T058	UMLS:C2348290
+27492044	325	327	IA	T058	UMLS:C2348290
+27492044	336	348	slide images	T170	UMLS:C1704254
+27492044	396	415	hyperplastic polyps	T038	UMLS:C0333983
+27492044	417	419	HP	T038	UMLS:C0333983
+27492044	435	451	tubular adenomas	T038	UMLS:C0334292
+27492044	453	455	TA	T038	UMLS:C0334292
+27492044	462	470	adenomas	T038	UMLS:C0001430
+27492044	476	496	high-grade dysplasia	T038	UMLS:C1333450
+27492044	498	501	HGD	T038	UMLS:C1333450
+27492044	508	540	esophageal intestinal metaplasia	T038	UMLS:C2363785
+27492044	541	549	negative	T033	UMLS:C0205160
+27492044	554	563	dysplasia	T038	UMLS:C0334044
+27492044	565	567	IM	T038	UMLS:C2363785
+27492044	570	594	indefinite for dysplasia	T033	UMLS:C2987259
+27492044	596	599	IFD	T033	UMLS:C2987259
+27492044	602	621	low-grade dysplasia	T038	UMLS:C0586355
+27492044	623	626	LGD	T038	UMLS:C0586355
+27492044	633	636	HGD	T038	UMLS:C1333450
+27492044	726	733	nuclear	T082	UMLS:C0521447
+27492044	754	758	area	T082	UMLS:C0205146
+27492044	775	814	positive pixel count (PPC) algorithm IA	T058	UMLS:C0022885
+27492044	832	844	colon polyps	T017	UMLS:C0009376
+27492044	849	859	esophageal	T082	UMLS:C1522619
+27492044	860	867	lesions	T033	UMLS:C0221198
+27492044	869	889	average nuclear area	T033	UMLS:C0243095
+27492044	978	998	average nuclear area	T033	UMLS:C0243095
+27492044	1090	1099	esophagus	T017	UMLS:C0014876
+27492044	1104	1109	colon	T017	UMLS:C0009368
+27492044	1122	1124	IM	T038	UMLS:C2363785
+27492044	1132	1135	IFD	T033	UMLS:C2987259
+27492044	1189	1196	lesions	T033	UMLS:C0221198
+27492044	1257	1268	colonic TAs	T038	UMLS:C1112503
+27492044	1276	1279	HPs	T038	UMLS:C0333983
+27492044	1284	1298	esophageal LGD	T038	UMLS:C0586355
+27492044	1310	1313	HGD	T038	UMLS:C1333450
+27492044	1394	1401	lesions	T033	UMLS:C0221198
+27492044	1403	1426	Hierarchical clustering	T062	UMLS:C1881045
+27492044	1478	1485	lesions	T033	UMLS:C0221198
+27492044	1499	1508	diagnoses	T033	UMLS:C0011900
+27492044	1595	1610	quantitative IA	T058	UMLS:C0200767
+27492044	1646	1655	dysplasia	T038	UMLS:C0334044
+27492044	1659	1671	colon polyps	T017	UMLS:C0009376
+27492044	1676	1693	Barrett esophagus	T038	UMLS:C0004763
+27492044	1694	1701	lesions	T033	UMLS:C0221198
+27492044	1703	1715	Nuclear area	T033	UMLS:C0243095
+27492044	1736	1749	PPC algorithm	T170	UMLS:C0002045
+27492044	1773	1780	lesions	T033	UMLS:C0221198
+27492044	1937	1949	pathologists	T097	UMLS:C0334866
+27492044	1962	1974	patient care	T058	UMLS:C0017313

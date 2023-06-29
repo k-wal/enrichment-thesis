@@ -1,0 +1,85 @@
+27571883|t|Predictors of neurologic and nonneurologic death in patients with brain metastasis initially treated with upfront stereotactic radiosurgery without whole-brain radiation therapy
+27571883|a|In this study we attempted to discern the factors predictive of neurologic death in patients with brain metastasis treated with upfront stereotactic radiosurgery (SRS) without whole brain radiation therapy (WBRT) while accounting for the competing risk of nonneurologic death. We performed a retrospective single-institution analysis of patients with brain metastasis treated with upfront SRS without WBRT. Competing risks analysis was performed to estimate the subdistribution hazard ratios (HRs) for neurologic and nonneurologic death for predictor variables of interest. Of 738 patients treated with upfront SRS alone, neurologic death occurred in 226 (30.6%), while nonneurologic death occurred in 309 (41.9%). Multivariate competing risks analysis identified an increased hazard of neurologic death associated with diagnosis-specific graded prognostic assessment (DS-GPA) ≤ 2 (P = .005), melanoma histology (P = .009), and increased number of brain metastases (P<.001), while there was a decreased hazard associated with higher SRS dose (P = .004). Targeted agents were associated with a decreased HR of neurologic death in the first 1.5 years (P = .04) but not afterwards. An increased hazard of nonneurologic death was seen with increasing age (P =.03), nonmelanoma histology (P<.001), presence of extracranial disease (P<.001), and progressive systemic disease (P =.004). Melanoma, DS-GPA, number of brain metastases, and SRS dose are predictive of neurologic death, while age, nonmelanoma histology, and more advanced systemic disease are predictive of nonneurologic death. Targeted agents appear to delay neurologic death.
+27571883	0	10	Predictors	T078	C2698872
+27571883	14	24	neurologic	T046	C0006110
+27571883	29	48	nonneurologic death	T033	C1306577
+27571883	52	60	patients	T101	C0030705
+27571883	66	82	brain metastasis	T191	C0220650
+27571883	93	100	treated	T169	C1522326
+27571883	106	139	upfront stereotactic radiosurgery	T061	C0085203
+27571883	148	177	whole-brain radiation therapy	T061	C1520143
+27571883	186	191	study	T062	C2603343
+27571883	220	227	factors	T169	C1521761
+27571883	228	238	predictive	T080	C0681890
+27571883	242	258	neurologic death	T046	C0006110
+27571883	262	270	patients	T101	C0030705
+27571883	276	292	brain metastasis	T191	C0220650
+27571883	293	300	treated	T169	C1522326
+27571883	306	339	upfront stereotactic radiosurgery	T061	C0085203
+27571883	341	344	SRS	T061	C0085203
+27571883	354	383	whole brain radiation therapy	T061	C1520143
+27571883	385	389	WBRT	T061	C1520143
+27571883	416	430	competing risk	T078	C0035647
+27571883	434	453	nonneurologic death	T033	C1306577
+27571883	470	483	retrospective	T080	C1514923
+27571883	484	502	single-institution	T093	C2607850
+27571883	503	511	analysis	T062	C0936012
+27571883	515	523	patients	T101	C0030705
+27571883	529	545	brain metastasis	T191	C0220650
+27571883	546	553	treated	T169	C1522326
+27571883	567	570	SRS	T061	C0085203
+27571883	579	583	WBRT	T061	C1520143
+27571883	585	609	Competing risks analysis	T080	C0814767
+27571883	656	669	hazard ratios	T081	C2985465
+27571883	671	674	HRs	T081	C2985465
+27571883	680	690	neurologic	T046	C0006110
+27571883	695	714	nonneurologic death	T033	C1306577
+27571883	719	728	predictor	T078	C2698872
+27571883	759	767	patients	T101	C0030705
+27571883	768	775	treated	T169	C1522326
+27571883	781	792	upfront SRS	T061	C0085203
+27571883	800	816	neurologic death	T046	C0006110
+27571883	848	867	nonneurologic death	T033	C1306577
+27571883	893	930	Multivariate competing risks analysis	T081	C0026777
+27571883	945	954	increased	T081	C0205217
+27571883	955	961	hazard	T081	C2985465
+27571883	965	981	neurologic death	T046	C0006110
+27571883	998	1045	diagnosis-specific graded prognostic assessment	T170	C0282574
+27571883	1047	1053	DS-GPA	T170	C0282574
+27571883	1071	1079	melanoma	T191	C0025202
+27571883	1080	1089	histology	T059	C0344441
+27571883	1106	1115	increased	T081	C0205217
+27571883	1126	1142	brain metastases	T191	C0220650
+27571883	1171	1180	decreased	T081	C0205216
+27571883	1181	1187	hazard	T081	C2985465
+27571883	1211	1214	SRS	T061	C0085203
+27571883	1215	1219	dose	T081	C0178602
+27571883	1232	1247	Targeted agents	T121	C1254351
+27571883	1271	1280	decreased	T081	C0205216
+27571883	1281	1283	HR	T081	C2985465
+27571883	1287	1303	neurologic death	T046	C0006110
+27571883	1321	1326	years	T079	C0439234
+27571883	1360	1369	increased	T081	C0205217
+27571883	1370	1376	hazard	T081	C2985465
+27571883	1380	1399	nonneurologic death	T033	C1306577
+27571883	1425	1428	age	T032	C0001779
+27571883	1439	1460	nonmelanoma histology	T059	C0344441
+27571883	1483	1503	extracranial disease	T047	C0012634
+27571883	1518	1529	progressive	T169	C0205329
+27571883	1530	1546	systemic disease	T047	C0442893
+27571883	1558	1566	Melanoma	T191	C0025202
+27571883	1568	1574	DS-GPA	T170	C0282574
+27571883	1576	1582	number	T081	C0237753
+27571883	1586	1602	brain metastases	T191	C0220650
+27571883	1608	1611	SRS	T061	C0085203
+27571883	1612	1616	dose	T081	C0178602
+27571883	1621	1631	predictive	T080	C0681890
+27571883	1635	1651	neurologic death	T046	C0006110
+27571883	1659	1662	age	T032	C0001779
+27571883	1664	1685	nonmelanoma histology	T059	C0344441
+27571883	1705	1721	systemic disease	T047	C0442893
+27571883	1726	1736	predictive	T080	C0681890
+27571883	1740	1759	nonneurologic death	T033	C1306577
+27571883	1761	1776	Targeted agents	T121	C1254351
+27571883	1787	1792	delay	T079	C0205421
+27571883	1793	1809	neurologic death	T046	C0006110

@@ -1,0 +1,137 @@
+28074211|t|Safe Practices for Copy and Paste in the EHR. Systematic Review, Recommendations, and Novel Model for Health IT Collaboration
+28074211|a|Copy and paste functionality can support efficiency during clinical documentation, but may promote inaccurate documentation with risks for patient safety. The Partnership for Health IT Patient Safety was formed to gather data, conduct analysis, educate, and disseminate safe practices for safer care using health information technology (IT). To characterize copy and paste events in clinical care, identify safety risks, describe existing evidence, and develop implementable practice recommendations for safe reuse of information via copy and paste. The Partnership 1) reviewed 12 reported safety events, 2) solicited expert input, and 3) performed a systematic literature review (2010 to January 2015) to identify publications addressing frequency, perceptions / attitudes, patient safety risks, existing guidance, and potential interventions and mitigation practices. The literature review identified 51 publications that were included. Overall, 66% to 90% of clinicians routinely use copy and paste. One study of diagnostic errors found that copy and paste led to 2.6% of errors in which a missed diagnosis required patients to seek additional unplanned care. Copy and paste can promote note bloat, internal inconsistencies, error propagation, and documentation in the wrong patient chart. Existing guidance identified specific responsibilities for authors, organizations, and electronic health record (EHR) developers. Analysis of 12 reported copy and paste safety events was congruent with problems identified from the literature review. Despite regular copy and paste use, evidence regarding direct risk to patient safety remains sparse, with significant study limitations. Drawing on existing evidence, the Partnership developed four safe practice recommendations: 1) Provide a mechanism to make copy and paste material easily identifiable; 2) Ensure the provenance of copy and paste material is readily available; 3) Ensure adequate staff training and education; 4) Ensure copy and paste practices are regularly monitored, measured, and assessed.
+28074211	0	4	Safe	T082	C0557723
+28074211	5	14	Practices	T041	C0237607
+28074211	19	33	Copy and Paste	T169	C0205245
+28074211	41	44	EHR	T170	C2362543
+28074211	46	63	Systematic Review	T170	C1955832
+28074211	65	80	Recommendations	T078	C0034866
+28074211	86	91	Novel	T080	C0205314
+28074211	92	97	Model	T170	C3161035
+28074211	102	111	Health IT	T066	C2936756
+28074211	112	125	Collaboration	T054	C0282116
+28074211	126	140	Copy and paste	T169	C0205245
+28074211	141	154	functionality	T169	C0205245
+28074211	167	177	efficiency	T081	C0013682
+28074211	185	193	clinical	T080	C0205210
+28074211	194	207	documentation	T170	C0920316
+28074211	217	224	promote	T052	C0033414
+28074211	225	235	inaccurate	T080	C0443236
+28074211	236	249	documentation	T170	C0920316
+28074211	255	260	risks	T078	C0035647
+28074211	265	279	patient safety	T058	C1113679
+28074211	285	296	Partnership	T092	C1711206
+28074211	301	310	Health IT	T066	C2936756
+28074211	311	325	Patient Safety	T058	C1113679
+28074211	347	351	data	T078	C1511726
+28074211	353	369	conduct analysis	T058	C0509592
+28074211	371	378	educate	T065	C0039401
+28074211	384	395	disseminate	T082	C0205221
+28074211	396	400	safe	T082	C0557723
+28074211	401	410	practices	T041	C0237607
+28074211	415	420	safer	T082	C0557723
+28074211	421	425	care	T052	C1947933
+28074211	432	461	health information technology	T066	C2936756
+28074211	463	465	IT	T066	C2936756
+28074211	471	483	characterize	T052	C1880022
+28074211	484	498	copy and paste	T169	C0205245
+28074211	499	505	events	T051	C0441471
+28074211	509	517	clinical	T080	C0205210
+28074211	518	522	care	T052	C1947933
+28074211	524	532	identify	T080	C0205396
+28074211	533	539	safety	T058	C1113679
+28074211	540	545	risks	T078	C0035647
+28074211	556	564	existing	T077	C2987476
+28074211	565	573	evidence	T078	C3887511
+28074211	579	586	develop	T169	C1527148
+28074211	601	609	practice	T041	C0237607
+28074211	610	625	recommendations	T078	C0034866
+28074211	630	634	safe	T082	C0557723
+28074211	635	640	reuse	T052	C2699072
+28074211	644	655	information	T078	C1533716
+28074211	660	674	copy and paste	T169	C0205245
+28074211	680	691	Partnership	T092	C1711206
+28074211	695	703	reviewed	T080	C1709940
+28074211	707	715	reported	T058	C0700287
+28074211	716	729	safety events	T170	C3699460
+28074211	734	756	solicited expert input	T077	C1708517
+28074211	765	774	performed	T169	C0884358
+28074211	777	805	systematic literature review	T170	C0282441
+28074211	815	822	January	T080	C3829466
+28074211	832	840	identify	T080	C0205396
+28074211	841	853	publications	T073,T170	C0034036
+28074211	865	874	frequency	T079	C0376249
+28074211	876	887	perceptions	T041	C0030971
+28074211	890	899	attitudes	T041	C0004271
+28074211	901	915	patient safety	T058	C1113679
+28074211	916	921	risks	T078	C0035647
+28074211	923	931	existing	T077	C2987476
+28074211	932	940	guidance	T058	C0150600
+28074211	974	984	mitigation	T078	C1706602
+28074211	985	994	practices	T041	C0237607
+28074211	1000	1017	literature review	T170	C0282441
+28074211	1018	1028	identified	T080	C0205396
+28074211	1032	1044	publications	T073,T170	C0034036
+28074211	1055	1063	included	T169	C0332257
+28074211	1088	1098	clinicians	T097	C0871685
+28074211	1099	1108	routinely	T080	C0205547
+28074211	1113	1127	copy and paste	T169	C0205245
+28074211	1133	1138	study	T062	C2603343
+28074211	1142	1159	diagnostic errors	T080	C0011922
+28074211	1171	1185	copy and paste	T169	C0205245
+28074211	1201	1207	errors	T080	C0011922
+28074211	1226	1235	diagnosis	T033	C0011900
+28074211	1236	1244	required	T169	C1514873
+28074211	1245	1253	patients	T101	C0030705
+28074211	1262	1272	additional	T169	C1524062
+28074211	1283	1287	care	T052	C1947933
+28074211	1289	1303	Copy and paste	T169	C0205245
+28074211	1328	1336	internal	T082	C0205102
+28074211	1354	1359	error	T080	C0743559
+28074211	1377	1390	documentation	T170	C0920316
+28074211	1404	1411	patient	T101	C0030705
+28074211	1412	1417	chart	T170	C0684240
+28074211	1419	1427	Existing	T077	C2987476
+28074211	1428	1436	guidance	T058	C0150600
+28074211	1437	1447	identified	T080	C0205396
+28074211	1457	1473	responsibilities	T055	C0678341
+28074211	1478	1485	authors	T097	C3812881
+28074211	1487	1500	organizations	T093	C1708333
+28074211	1506	1530	electronic health record	T170	C2362543
+28074211	1532	1535	EHR	T170	C2362543
+28074211	1549	1557	Analysis	T062	C0936012
+28074211	1564	1572	reported	T058	C0700287
+28074211	1573	1587	copy and paste	T169	C0205245
+28074211	1588	1601	safety events	T170	C3699460
+28074211	1606	1615	congruent	T080	C0439853
+28074211	1621	1629	problems	T078	C1546466
+28074211	1630	1640	identified	T080	C0205396
+28074211	1650	1667	literature review	T170	C0282441
+28074211	1685	1699	copy and paste	T169	C0205245
+28074211	1705	1713	evidence	T078	C3887511
+28074211	1724	1735	direct risk	T078	C0035647
+28074211	1739	1753	patient safety	T058	C1113679
+28074211	1787	1792	study	T062	C2603343
+28074211	1793	1804	limitations	T169	C0449295
+28074211	1817	1825	existing	T077	C2987476
+28074211	1826	1834	evidence	T078	C3887511
+28074211	1840	1851	Partnership	T092	C1711206
+28074211	1852	1861	developed	T169	C1527148
+28074211	1867	1871	safe	T082	C0557723
+28074211	1872	1880	practice	T041	C0237607
+28074211	1881	1896	recommendations	T078	C0034866
+28074211	1911	1920	mechanism	T169	C0441712
+28074211	1929	1943	copy and paste	T169	C0205245
+28074211	1960	1972	identifiable	T080	C0205396
+28074211	1988	1998	provenance	T077	C1709753
+28074211	2002	2016	copy and paste	T169	C0205245
+28074211	2037	2046	available	T169	C0470187
+28074211	2058	2066	adequate	T080	C0205411
+28074211	2067	2081	staff training	T065	C0681113
+28074211	2086	2095	education	T065	C0013621
+28074211	2107	2121	copy and paste	T169	C0205245
+28074211	2122	2131	practices	T041	C0237607
+28074211	2136	2145	regularly	T080	C0205272
+28074211	2146	2155	monitored	T058	C0150369
+28074211	2157	2165	measured	T080	C0444706
+28074211	2171	2179	assessed	T052	C1516048

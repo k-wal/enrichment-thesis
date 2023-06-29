@@ -1,0 +1,59 @@
+23285048|t|Context- and cell-dependent effects of Delta-like 4 targeting in the bone marrow microenvironment.
+23285048|a|Delta-like 4 (Dll4) is a ligand of the Notch pathway family which has been widely studied in the context of tumor angiogenesis, its blockade shown to result in non-productive angiogenesis and halted tumor growth. As Dll4 inhibitors enter the clinic, there is an emerging need to understand their side effects, namely the systemic consequences of Dll4:Notch blockade in tissues other than tumors. The present study focused on the effects of systemic anti-Dll4 targeting in the bone marrow (BM) microenvironment. Here we show that Dll4 blockade with monoclonal antibodies perturbs the BM vascular niche of sub-lethally irradiated mice, resulting in increased CD31(+), VE-Cadherin(+) and c-kit(+) vessel density, and also increased megakaryocytes, whereas CD105(+), VEGFR3(+), SMA(+) and lectin(+) vessel density remained unaltered. We investigated also the expression of angiocrine genes upon Dll4 treatment in vivo, and demonstrate that IGFbp2, IGFbp3, Angpt2, Dll4, DHH and VEGF-A are upregulated, while FGF1 and CSF2 are reduced. In vitro treatment of endothelial cells with anti-Dll4 reduced Akt phosphorylation while maintaining similar levels of Erk 1/2 phosphorylation. Besides its effects in the BM vascular niche, anti-Dll4 treatment perturbed hematopoiesis, as evidenced by increased myeloid (CD11b(+)), decreased B (B220(+)) and T (CD3(+)) lymphoid BM content of treated mice, with a corresponding increase in myeloid circulating cells. Moreover, anti-Dll4 treatment also increased the number of CFU-M and -G colonies in methylcellulose assays, independently of Notch1. Finally, anti-Dll4 treatment of donor BM improved the hematopoietic recovery of lethally irradiated recipients in a transplant setting. Together, our data reveals the hematopoietic (BM) effects of systemic anti-Dll4 treatment result from qualitative vascular changes and also direct hematopoietic cell modulation, which may be favorable in a transplant setting.
+23285048	39	51	Delta-like 4	GeneOrGeneProduct	54485
+23285048	99	111	Delta-like 4	GeneOrGeneProduct	54485
+23285048	113	117	Dll4	GeneOrGeneProduct	54485
+23285048	138	143	Notch	GeneOrGeneProduct	18128
+23285048	207	212	tumor	DiseaseOrPhenotypicFeature	D009369
+23285048	298	303	tumor	DiseaseOrPhenotypicFeature	D009369
+23285048	315	319	Dll4	GeneOrGeneProduct	54485
+23285048	445	449	Dll4	GeneOrGeneProduct	54485
+23285048	450	455	Notch	GeneOrGeneProduct	18128
+23285048	487	493	tumors	DiseaseOrPhenotypicFeature	D009369
+23285048	553	557	Dll4	GeneOrGeneProduct	54485
+23285048	628	632	Dll4	GeneOrGeneProduct	54485
+23285048	727	731	mice	OrganismTaxon	10090
+23285048	756	760	CD31	GeneOrGeneProduct	18613
+23285048	765	776	VE-Cadherin	GeneOrGeneProduct	12562
+23285048	784	789	c-kit	GeneOrGeneProduct	16590
+23285048	852	857	CD105	GeneOrGeneProduct	13805
+23285048	862	868	VEGFR3	GeneOrGeneProduct	14257
+23285048	873	876	SMA	GeneOrGeneProduct	11475
+23285048	884	890	lectin	GeneOrGeneProduct	-
+23285048	990	994	Dll4	GeneOrGeneProduct	54485
+23285048	1035	1041	IGFbp2	GeneOrGeneProduct	16008
+23285048	1043	1049	IGFbp3	GeneOrGeneProduct	16009
+23285048	1051	1057	Angpt2	GeneOrGeneProduct	11601
+23285048	1059	1063	Dll4	GeneOrGeneProduct	54485
+23285048	1065	1068	DHH	GeneOrGeneProduct	13363
+23285048	1073	1079	VEGF-A	GeneOrGeneProduct	22339
+23285048	1103	1107	FGF1	GeneOrGeneProduct	14164
+23285048	1112	1116	CSF2	GeneOrGeneProduct	12981
+23285048	1180	1184	Dll4	GeneOrGeneProduct	54485
+23285048	1193	1196	Akt	GeneOrGeneProduct	11651
+23285048	1249	1256	Erk 1/2	GeneOrGeneProduct	26413,26417
+23285048	1325	1329	Dll4	GeneOrGeneProduct	54485
+23285048	1400	1405	CD11b	GeneOrGeneProduct	16409
+23285048	1424	1428	B220	GeneOrGeneProduct	19264
+23285048	1440	1443	CD3	GeneOrGeneProduct	12501
+23285048	1479	1483	mice	OrganismTaxon	10090
+23285048	1560	1564	Dll4	GeneOrGeneProduct	54485
+23285048	1670	1676	Notch1	GeneOrGeneProduct	18128
+23285048	1692	1696	Dll4	GeneOrGeneProduct	54485
+23285048	1889	1893	Dll4	GeneOrGeneProduct	54485
+23285048	Positive_Correlation	54485	12501	Novel
+23285048	Positive_Correlation	54485	19264	Novel
+23285048	Negative_Correlation	54485	16409	Novel
+23285048	Association	54485	11651	Novel
+23285048	Association	54485	D009369	No
+23285048	Association	54485	18128	Novel
+23285048	Positive_Correlation	54485	12981	Novel
+23285048	Positive_Correlation	54485	14164	Novel
+23285048	Positive_Correlation	54485	22339	Novel
+23285048	Positive_Correlation	54485	13363	Novel
+23285048	Positive_Correlation	54485	11601	Novel
+23285048	Positive_Correlation	54485	16009	Novel
+23285048	Positive_Correlation	54485	16008	Novel
+23285048	Association	54485	16590	Novel
+23285048	Association	54485	12562	Novel
+23285048	Association	54485	18613	Novel

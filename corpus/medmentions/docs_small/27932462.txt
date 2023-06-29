@@ -1,0 +1,71 @@
+27932462|t|Salmonella Co-opts Host Cell Chaperone -mediated Autophagy for Intracellular Growth
+27932462|a|Salmonella enterica are invasive intracellular pathogens that replicate within a membrane - bound compartment inside infected host cells known as the Salmonella - containing vacuole. How Salmonella obtains nutrients for growth within this intracellular niche despite the apparent isolation is currently not known. Recent studies have indicated the importance of glucose and related carbon sources for tissue colonization and intracellular proliferation within host cells during Salmonella infections, although none have been found to be essential. We found that wild-type Salmonella are capable of replicating within infected host cells in the absence of both exogenous sugars and/or amino acids. Furthermore, mutants defective in glucose uptake or dependent upon peptides for growth also showed no significant loss in intracellular replication, suggesting host - derived peptides can supply both carbon units and amino acids. Here, we show that intracellular Salmonella recruit the host proteins LAMP-2A and Hsc73, key components of the host protein turnover pathway known as chaperone -mediated autophagy involved in transport of cytosolic proteins to the lysosome for degradation. Host- derived peptides are shown to provide a significant contribution toward the intracellular growth of Salmonella The results reveal a means whereby intracellular Salmonella gain access to the host cell cytosol from within its membrane - bound compartment to acquire nutrients. Furthermore, this study provides an explanation as to how Salmonella evades activation of autophagy mechanisms as part of the innate immune response.
+27932462	0	10	Salmonella	T007	UMLS:C0036111
+27932462	19	28	Host Cell	T017	UMLS:C1819995
+27932462	29	38	Chaperone	T103	UMLS:C0243041
+27932462	49	58	Autophagy	T038	UMLS:C0004391
+27932462	63	76	Intracellular	T082	UMLS:C0178719
+27932462	84	103	Salmonella enterica	T007	UMLS:C0445750
+27932462	117	130	intracellular	T082	UMLS:C0178719
+27932462	165	173	membrane	T017	UMLS:C0596901
+27932462	182	193	compartment	T082	UMLS:C1948049
+27932462	201	209	infected	T033	UMLS:C0439663
+27932462	210	220	host cells	T017	UMLS:C1819995
+27932462	234	244	Salmonella	T007	UMLS:C0036111
+27932462	258	265	vacuole	T017	UMLS:C0042219
+27932462	271	281	Salmonella	T007	UMLS:C0036111
+27932462	290	299	nutrients	T168	UMLS:C0678695
+27932462	323	342	intracellular niche	T082	UMLS:C0178719
+27932462	364	373	isolation	T058	UMLS:C0220862
+27932462	405	412	studies	T062	UMLS:C2603343
+27932462	418	427	indicated	T033	UMLS:C1444656
+27932462	446	453	glucose	T103	UMLS:C0017725
+27932462	466	472	carbon	T103	UMLS:C0007009
+27932462	473	480	sources	T033	UMLS:C0449416
+27932462	485	491	tissue	T017	UMLS:C0040300
+27932462	492	504	colonization	T033	UMLS:C4289767
+27932462	509	522	intracellular	T082	UMLS:C0178719
+27932462	544	554	host cells	T017	UMLS:C1819995
+27932462	562	583	Salmonella infections	T038	UMLS:C0036117
+27932462	646	655	wild-type	T017	UMLS:C1883559
+27932462	656	666	Salmonella	T007	UMLS:C0036111
+27932462	701	709	infected	T033	UMLS:C0439663
+27932462	710	720	host cells	T017	UMLS:C1819995
+27932462	754	760	sugars	T103	UMLS:C0242209
+27932462	768	779	amino acids	T103	UMLS:C0002520
+27932462	794	801	mutants	T038	UMLS:C0596988
+27932462	815	829	glucose uptake	T038	UMLS:C1159527
+27932462	848	856	peptides	T103	UMLS:C0030956
+27932462	903	916	intracellular	T082	UMLS:C0178719
+27932462	956	964	peptides	T103	UMLS:C0030956
+27932462	981	987	carbon	T103	UMLS:C0007009
+27932462	998	1009	amino acids	T103	UMLS:C0002520
+27932462	1030	1043	intracellular	T082	UMLS:C0178719
+27932462	1044	1054	Salmonella	T007	UMLS:C0036111
+27932462	1072	1080	proteins	T103	UMLS:C0033684
+27932462	1081	1088	LAMP-2A	T103	UMLS:C0125272
+27932462	1093	1098	Hsc73	T103	UMLS:C1527505
+27932462	1104	1114	components	T103	UMLS:C1179435
+27932462	1127	1143	protein turnover	T038	UMLS:C0597297
+27932462	1144	1151	pathway	T038	UMLS:C1704259
+27932462	1161	1170	chaperone	T103	UMLS:C0243041
+27932462	1181	1190	autophagy	T038	UMLS:C0004391
+27932462	1203	1212	transport	T038	UMLS:C0599895
+27932462	1216	1234	cytosolic proteins	T103	UMLS:C1333198
+27932462	1242	1250	lysosome	T017	UMLS:C0024369
+27932462	1255	1266	degradation	T038	UMLS:C0597297
+27932462	1282	1290	peptides	T103	UMLS:C0030956
+27932462	1350	1363	intracellular	T082	UMLS:C0178719
+27932462	1374	1384	Salmonella	T007	UMLS:C0036111
+27932462	1420	1433	intracellular	T082	UMLS:C0178719
+27932462	1434	1444	Salmonella	T007	UMLS:C0036111
+27932462	1450	1456	access	T082	UMLS:C0444454
+27932462	1464	1481	host cell cytosol	T017	UMLS:C2752457
+27932462	1498	1506	membrane	T017	UMLS:C0596901
+27932462	1515	1526	compartment	T082	UMLS:C1948049
+27932462	1538	1547	nutrients	T168	UMLS:C0678695
+27932462	1567	1572	study	T062	UMLS:C2603343
+27932462	1585	1596	explanation	T170	UMLS:C0681841
+27932462	1607	1617	Salmonella	T007	UMLS:C0036111
+27932462	1618	1624	evades	T038	UMLS:C1654934
+27932462	1639	1648	autophagy	T038	UMLS:C0004391

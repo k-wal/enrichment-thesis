@@ -1,0 +1,84 @@
+25622904|t|Inactivation of Sag/Rbx2/Roc2 e3 ubiquitin ligase triggers senescence and inhibits kras-induced immortalization.
+25622904|a|Our recent study showed that SAG/RBX2 E3 ubiquitin ligase regulates apoptosis and vasculogenesis by promoting degradation of NOXA and NF1, and co-operates with Kras to promote lung tumorigenesis by activating NFkappaB and mTOR pathways via targeted degradation of tumor suppressive substrates including IkappaB, DEPTOR, p21 and p27. Here we investigated the role of Sag/Rbx2 E3 ligase in cellular senescence and immortalization of mouse embryonic fibroblasts (MEFs) and report that Sag is required for proper cell proliferation and Kras(G12D)-induced immortalization. Sag inactivation by genetic deletion remarkably suppresses cell proliferation by inducing senescence, which is associated with accumulation of p16, but not p53. Mechanistically, Sag deletion caused accumulation of Jun-B, a substrate of Sag-Fbxw7 E3 ligase and a transcription factor that drives p16 transcription. Importantly, senescence triggered by Sag deletion can be largely rescued by simultaneous deletion of Cdkn2a, the p16 encoding gene, indicating its causal role. Furthermore, Kras(G12D)-induced immortalization can also be abrogated by Sag deletion via senescence induction, which is again rescued by simultaneous deletion of Cdkn2a. Finally, we found that Sag deletion inactivates Kras(G12D) activity and block the MAPK signaling pathway, together with accumulated p16, to induce senescence. Taken together, our results demonstrated that Sag is a Kras(G12D)-cooperating oncogene required for Kras(G12D)-induced immortalization and transformation, and targeting SAG-SCF E3 ligase may, therefore, have therapeutic value for senescence-based cancer treatment.
+25622904	16	19	Sag	GeneOrGeneProduct	19823
+25622904	20	24	Rbx2	GeneOrGeneProduct	19823
+25622904	25	29	Roc2	GeneOrGeneProduct	19823
+25622904	30	49	e3 ubiquitin ligase	GeneOrGeneProduct	19823
+25622904	83	87	kras	GeneOrGeneProduct	16653
+25622904	142	145	SAG	GeneOrGeneProduct	19823
+25622904	146	150	RBX2	GeneOrGeneProduct	19823
+25622904	151	170	E3 ubiquitin ligase	GeneOrGeneProduct	19823
+25622904	238	242	NOXA	GeneOrGeneProduct	58801
+25622904	247	250	NF1	GeneOrGeneProduct	18015
+25622904	273	277	Kras	GeneOrGeneProduct	16653
+25622904	289	307	lung tumorigenesis	DiseaseOrPhenotypicFeature	D008175
+25622904	322	330	NFkappaB	GeneOrGeneProduct	18033
+25622904	335	339	mTOR	GeneOrGeneProduct	56717
+25622904	377	382	tumor	DiseaseOrPhenotypicFeature	D009369
+25622904	416	423	IkappaB	GeneOrGeneProduct	18033
+25622904	425	431	DEPTOR	GeneOrGeneProduct	97998
+25622904	433	436	p21	GeneOrGeneProduct	12575
+25622904	441	444	p27	GeneOrGeneProduct	12576
+25622904	479	482	Sag	GeneOrGeneProduct	19823
+25622904	483	487	Rbx2	GeneOrGeneProduct	19823
+25622904	488	497	E3 ligase	GeneOrGeneProduct	19823
+25622904	544	549	mouse	OrganismTaxon	10090
+25622904	595	598	Sag	GeneOrGeneProduct	19823
+25622904	645	649	Kras	GeneOrGeneProduct	16653
+25622904	650	654	G12D	SequenceVariant	rs121913529
+25622904	681	684	Sag	GeneOrGeneProduct	19823
+25622904	824	827	p16	GeneOrGeneProduct	12578
+25622904	837	840	p53	GeneOrGeneProduct	22059
+25622904	859	862	Sag	GeneOrGeneProduct	19823
+25622904	895	900	Jun-B	GeneOrGeneProduct	16477
+25622904	917	920	Sag	GeneOrGeneProduct	19823
+25622904	921	926	Fbxw7	GeneOrGeneProduct	50754
+25622904	927	936	E3 ligase	GeneOrGeneProduct	19823
+25622904	976	979	p16	GeneOrGeneProduct	12578
+25622904	1032	1035	Sag	GeneOrGeneProduct	19823
+25622904	1096	1102	Cdkn2a	GeneOrGeneProduct	12578
+25622904	1108	1111	p16	GeneOrGeneProduct	12578
+25622904	1168	1172	Kras	GeneOrGeneProduct	16653
+25622904	1173	1177	G12D	SequenceVariant	rs121913529
+25622904	1228	1231	Sag	GeneOrGeneProduct	19823
+25622904	1318	1324	Cdkn2a	GeneOrGeneProduct	12578
+25622904	1349	1352	Sag	GeneOrGeneProduct	19823
+25622904	1374	1378	Kras	GeneOrGeneProduct	16653
+25622904	1379	1383	G12D	SequenceVariant	rs121913529
+25622904	1408	1412	MAPK	GeneOrGeneProduct	26413
+25622904	1458	1461	p16	GeneOrGeneProduct	12578
+25622904	1531	1534	Sag	GeneOrGeneProduct	19823
+25622904	1540	1544	Kras	GeneOrGeneProduct	16653
+25622904	1545	1549	G12D	SequenceVariant	rs121913529
+25622904	1585	1589	Kras	GeneOrGeneProduct	16653
+25622904	1590	1594	G12D	SequenceVariant	rs121913529
+25622904	1654	1657	SAG	GeneOrGeneProduct	19823
+25622904	1658	1661	SCF	GeneOrGeneProduct	50754
+25622904	1662	1671	E3 ligase	GeneOrGeneProduct	19823
+25622904	1732	1738	cancer	DiseaseOrPhenotypicFeature	D009369
+25622904	Association	rs121913529	D009369	No
+25622904	Association	16477	50754	No
+25622904	Association	16477	12578	No
+25622904	Association	D009369	50754	Novel
+25622904	Negative_Correlation	12576	D009369	No
+25622904	Association	12576	16653	No
+25622904	Negative_Correlation	12575	D009369	No
+25622904	Association	12575	16653	No
+25622904	Negative_Correlation	97998	D009369	No
+25622904	Association	97998	16653	No
+25622904	Negative_Correlation	18033	D009369	No
+25622904	Association	18033	16653	No
+25622904	Association	16653	D009369	No
+25622904	Association	16653	D008175	No
+25622904	Association	19823	18015	No
+25622904	Association	19823	58801	No
+25622904	Positive_Correlation	19823	26413	Novel
+25622904	Negative_Correlation	19823	16477	Novel
+25622904	Negative_Correlation	19823	12578	Novel
+25622904	Association	19823	D009369	No
+25622904	Association	19823	D008175	No
+25622904	Association	19823	12576	No
+25622904	Association	19823	12575	No
+25622904	Association	19823	97998	No
+25622904	Association	19823	18033	No
+25622904	Positive_Correlation	19823	16653	Novel

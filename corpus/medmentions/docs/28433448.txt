@@ -1,0 +1,84 @@
+28433448|t|Anemia complicating type 2 diabetes: Prevalence, risk factors and prognosis
+28433448|a|To determine the prevalence, risk factors and prognosis of anemia in representative community-based patients with type 2 diabetes. Data from the Fremantle Diabetes Study Phase II (FDS2; n=1551, mean age 65.7years, 51.9% males) and Busselton Diabetes Study (BDS; n=186, mean age 70.2years, 50.0% males) cohorts, and from 186 matched BDS participants without diabetes, were analyzed. The prevalence of anemia (hemoglobin ≤130g/L males, ≤120g/L females) was determined in each sample. In FDS2, associates of anemia were assessed using multiple logistic regression and Cox proportional hazards modeling identified predictors of death during 4.3±1.2years post-recruitment. The prevalence of anemia at baseline was 11.5% in FDS2 participants, 17.8% in BDS type 2 patients and 5.4% in BDS participants without diabetes. In FDS2, 163 of 178 patients with anemia (91.6%) had at least one other risk factor (serum vitamin B12 <140pmol/L, serum ferritin <30μg/L and/or transferrin saturation <20%, serum testosterone <10nmol/L (males), glitazone therapy, estimated glomerular filtration rate (eGFR) <60mL/min 1.73m(2), malignancy, hemoglobinopathy). More anemic than non-anemic FDS2 patients died (28.7% versus 8.0%; P<0.001). After adjustment for other independent predictors (age as time-scale, male sex, Aboriginality, marital status, smoking, eGFR), anemia was associated with a 57% increase in mortality (P=0.015). Type 2 diabetes at least doubles the risk of anemia but other mostly modifiable risk factors are usually present. Anemia is associated with an increased risk of death after adjustment for other predictors.
+28433448	0	6	Anemia	T047	C0002871
+28433448	7	19	complicating	T169	C1522701
+28433448	20	35	type 2 diabetes	T047	C0011860
+28433448	37	47	Prevalence	T081	C0220900
+28433448	49	61	risk factors	T033	C0035648
+28433448	66	75	prognosis	T058	C0033325
+28433448	93	103	prevalence	T081	C0220900
+28433448	105	117	risk factors	T033	C0035648
+28433448	122	131	prognosis	T058	C0033325
+28433448	135	141	anemia	T047	C0002871
+28433448	145	159	representative	T097	C0030701
+28433448	176	184	patients	T101	C0030705
+28433448	190	205	type 2 diabetes	T047	C0011860
+28433448	221	254	Fremantle Diabetes Study Phase II	T062	C2603343
+28433448	256	260	FDS2	T062	C2603343
+28433448	296	301	males	T032	C0086582
+28433448	307	331	Busselton Diabetes Study	T062	C2603343
+28433448	333	336	BDS	T062	C2603343
+28433448	371	376	males	T032	C0086582
+28433448	378	385	cohorts	T098	C0599755
+28433448	408	411	BDS	T062	C2603343
+28433448	412	424	participants	T098	C0679646
+28433448	433	441	diabetes	T047	C0011847
+28433448	448	456	analyzed	T062	C0936012
+28433448	462	472	prevalence	T081	C0220900
+28433448	476	482	anemia	T047	C0002871
+28433448	484	494	hemoglobin	T116,T123	C0019046
+28433448	503	508	males	T032	C0086582
+28433448	518	525	females	T032	C0086287
+28433448	531	541	determined	T080	C0521095
+28433448	550	556	sample	T031	C0178913
+28433448	561	565	FDS2	T062	C2603343
+28433448	581	587	anemia	T047	C0002871
+28433448	593	601	assessed	T052	C1516048
+28433448	617	636	logistic regression	T062	C0206031
+28433448	641	674	Cox proportional hazards modeling	T081,T170	C0010235
+28433448	686	696	predictors	T033	C0035648
+28433448	700	705	death	T040	C0011065
+28433448	748	758	prevalence	T081	C0220900
+28433448	762	768	anemia	T047	C0002871
+28433448	794	798	FDS2	T062	C2603343
+28433448	799	811	participants	T098	C0679646
+28433448	822	825	BDS	T062	C2603343
+28433448	833	841	patients	T101	C0030705
+28433448	854	857	BDS	T062	C2603343
+28433448	858	870	participants	T098	C0679646
+28433448	879	887	diabetes	T047	C0011847
+28433448	892	896	FDS2	T062	C2603343
+28433448	909	917	patients	T101	C0030705
+28433448	923	929	anemia	T047	C0002871
+28433448	961	972	risk factor	T033	C0035648
+28433448	974	991	serum vitamin B12	T059	C0427408
+28433448	1004	1018	serum ferritin	T033	C0241012
+28433448	1034	1056	transferrin saturation	T059	C1277709
+28433448	1063	1081	serum testosterone	T059	C0428413
+28433448	1093	1098	males	T032	C0086582
+28433448	1101	1110	glitazone	T109,T121	C1257987
+28433448	1111	1118	therapy	T061	C0087111
+28433448	1120	1156	estimated glomerular filtration rate	T059	C3811844
+28433448	1158	1162	eGFR	T059	C3811844
+28433448	1184	1194	malignancy	T191	C4282132
+28433448	1196	1212	hemoglobinopathy	T047	C0019045
+28433448	1220	1226	anemic	T033	C0857322
+28433448	1232	1242	non-anemic	T033	C0857322
+28433448	1243	1247	FDS2	T062	C2603343
+28433448	1248	1256	patients	T101	C0030705
+28433448	1331	1341	predictors	T033	C0035648
+28433448	1372	1385	Aboriginality	T033	C1704258
+28433448	1387	1401	marital status	T102	C0024819
+28433448	1403	1410	smoking	T055	C0037369
+28433448	1412	1416	eGFR	T059	C3811844
+28433448	1419	1425	anemia	T047	C0002871
+28433448	1430	1445	associated with	T080	C0332281
+28433448	1452	1460	increase	T169	C0442805
+28433448	1485	1500	Type 2 diabetes	T047	C0011860
+28433448	1530	1536	anemia	T047	C0002871
+28433448	1565	1577	risk factors	T033	C0035648
+28433448	1590	1597	present	T033	C0150312
+28433448	1599	1605	Anemia	T047	C0002871
+28433448	1609	1624	associated with	T080	C0332281
+28433448	1628	1651	increased risk of death	T033	C2749787
+28433448	1679	1689	predictors	T033	C0035648

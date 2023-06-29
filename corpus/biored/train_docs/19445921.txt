@@ -1,0 +1,50 @@
+19445921|t|Cardioprotective effect of salvianolic acid A on isoproterenol-induced myocardial infarction in rats.
+19445921|a|The present study was designed to evaluate the cardioprotective potential of salvianolic acid A on isoproterenol-induced myocardial infarction in rats. Hemodynamic parameters and lead II electrocardiograph were monitored and recorded continuously. Cardiac marker enzymes and antioxidative parameters in serum and heart tissues were measured. Assay for mitochondrial respiratory function and histopathological examination of heart tissues were performed. Isoproterenol-treated rats showed significant increases in the levels of lactate dehydrogenase, aspartate transaminase, creatine kinase and malondialdehyde and significant decreases in the activities of superoxide dismutase, catalase and glutathione peroxidase in serum and heart. These rats also showed declines in left ventricular systolic pressure, maximum and minimum rate of developed left ventricular pressure, and elevation of left ventricular end-diastolic pressure and ST-segment. In addition, mitochondrial respiratory dysfunction characterized by decreased respiratory control ratio and ADP/O was observed in isoproterenol-treated rats. Administration of salvianolic acid A for a period of 8 days significantly attenuated isoproterenol-induced cardiac dysfunction and myocardial injury and improved mitochondrial respiratory function. The protective role of salvianolic acid A against isoproterenol-induced myocardial damage was further confirmed by histopathological examination. The results of our study suggest that salvianolic acid A possessing antioxidant activity has a significant protective effect against isoproterenol-induced myocardial infarction.
+19445921	27	45	salvianolic acid A	ChemicalEntity	C066201
+19445921	49	62	isoproterenol	ChemicalEntity	D007545
+19445921	71	92	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+19445921	96	100	rats	OrganismTaxon	10116
+19445921	179	197	salvianolic acid A	ChemicalEntity	C066201
+19445921	201	214	isoproterenol	ChemicalEntity	D007545
+19445921	223	244	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+19445921	248	252	rats	OrganismTaxon	10116
+19445921	556	569	Isoproterenol	ChemicalEntity	D007545
+19445921	578	582	rats	OrganismTaxon	10116
+19445921	629	650	lactate dehydrogenase	GeneOrGeneProduct	24533
+19445921	652	674	aspartate transaminase	GeneOrGeneProduct	25721
+19445921	676	691	creatine kinase	GeneOrGeneProduct	24264
+19445921	696	711	malondialdehyde	ChemicalEntity	D008315
+19445921	759	779	superoxide dismutase	GeneOrGeneProduct	24786
+19445921	781	789	catalase	GeneOrGeneProduct	24248
+19445921	794	816	glutathione peroxidase	GeneOrGeneProduct	24404
+19445921	843	847	rats	OrganismTaxon	10116
+19445921	1059	1096	mitochondrial respiratory dysfunction	DiseaseOrPhenotypicFeature	D028361
+19445921	1154	1157	ADP	ChemicalEntity	D000244
+19445921	1176	1189	isoproterenol	ChemicalEntity	D007545
+19445921	1198	1202	rats	OrganismTaxon	10116
+19445921	1222	1240	salvianolic acid A	ChemicalEntity	C066201
+19445921	1289	1302	isoproterenol	ChemicalEntity	D007545
+19445921	1311	1330	cardiac dysfunction	DiseaseOrPhenotypicFeature	D006331
+19445921	1335	1352	myocardial injury	DiseaseOrPhenotypicFeature	D009202
+19445921	1425	1443	salvianolic acid A	ChemicalEntity	C066201
+19445921	1452	1465	isoproterenol	ChemicalEntity	D007545
+19445921	1474	1491	myocardial damage	DiseaseOrPhenotypicFeature	D009202
+19445921	1586	1604	salvianolic acid A	ChemicalEntity	C066201
+19445921	1681	1694	isoproterenol	ChemicalEntity	D007545
+19445921	1703	1724	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+19445921	Negative_Correlation	C066201	D009202	Novel
+19445921	Negative_Correlation	C066201	D006331	Novel
+19445921	Negative_Correlation	C066201	D009203	Novel
+19445921	Negative_Correlation	C066201	D007545	Novel
+19445921	Association	D028361	D000244	Novel
+19445921	Positive_Correlation	D028361	D007545	Novel
+19445921	Negative_Correlation	D007545	24404	Novel
+19445921	Negative_Correlation	D007545	24786	Novel
+19445921	Positive_Correlation	D007545	24264	Novel
+19445921	Positive_Correlation	D007545	25721	Novel
+19445921	Positive_Correlation	D007545	24533	Novel
+19445921	Positive_Correlation	D007545	D009202	Novel
+19445921	Positive_Correlation	D007545	D006331	No
+19445921	Negative_Correlation	D007545	24248	Novel
+19445921	Positive_Correlation	D007545	D008315	Novel
+19445921	Positive_Correlation	D007545	D009203	No

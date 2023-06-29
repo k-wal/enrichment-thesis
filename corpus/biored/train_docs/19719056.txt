@@ -1,0 +1,31 @@
+19719056|t|Dextran-etodolac conjugates: synthesis, in vitro and in vivo evaluation.
+19719056|a|Etodolac (E), is a non-narcotic analgesic and antiinflammatory drug. A biodegradable polymer dextran has been utilized as a carrier for synthesis of etodolac-dextran conjugates (ED) to improve its aqueous solubility and reduce gastrointestinal side effects. An activated moiety, i.e. N-acylimidazole derivative of etodolac (EAI), was condensed with the polysaccharide polymer dextran of different molecular weights (40000, 60000, 110000 and 200000). IR spectral data confirmed formation of ester bonding in the conjugates. Etodolac contents were evaluated by UV-spectrophotometric analysis. The molecular weights were determined by measuring viscosity using the Mark-Howink-Sakurada equation. In vitro hydrolysis of ED was done in aqueous buffers (pH 1.2, 7.4, 9) and in 80% (v/v) human plasma (pH 7.4). At pH 9, a higher rate of etodolac release from ED was observed as compared to aqueous buffer of pH 7.4 and 80% human plasma (pH 7.4), following first-order kinetics. In vivo investigations were performed in animals. Acute analgesic and antiinflammatory activities were ascertained using acetic acid induced writhing model (mice) and carrageenan-induced rat paw edema model, respectively. In comparison to control, E and ED1-ED4 showed highly significant analgesic and antiinflammatory activities (p <0.001). Biological evaluation suggested that conjugates (ED1-ED4) retained comparable analgesic and antiinflammatory activities with remarkably reduced ulcerogenicity as compared to their parent drug--etodolac.
+19719056	0	7	Dextran	ChemicalEntity	D003911
+19719056	8	16	etodolac	ChemicalEntity	D017308
+19719056	73	81	Etodolac	ChemicalEntity	D017308
+19719056	83	84	E	ChemicalEntity	D017308
+19719056	119	140	antiinflammatory drug	ChemicalEntity	D000893
+19719056	166	173	dextran	ChemicalEntity	D003911
+19719056	222	230	etodolac	ChemicalEntity	D017308
+19719056	231	238	dextran	ChemicalEntity	D003911
+19719056	251	253	ED	ChemicalEntity	D003911,D017308
+19719056	357	372	N-acylimidazole	ChemicalEntity	-
+19719056	387	395	etodolac	ChemicalEntity	D017308
+19719056	397	400	EAI	ChemicalEntity	-
+19719056	449	456	dextran	ChemicalEntity	D003911
+19719056	563	568	ester	ChemicalEntity	D004952
+19719056	596	604	Etodolac	ChemicalEntity	D017308
+19719056	789	791	ED	ChemicalEntity	D003911,D017308
+19719056	854	859	human	OrganismTaxon	9606
+19719056	903	911	etodolac	ChemicalEntity	D017308
+19719056	925	927	ED	ChemicalEntity	D003911,D017308
+19719056	989	994	human	OrganismTaxon	9606
+19719056	1165	1176	acetic acid	ChemicalEntity	D019342
+19719056	1201	1205	mice	OrganismTaxon	10090
+19719056	1211	1222	carrageenan	ChemicalEntity	D002351
+19719056	1231	1234	rat	OrganismTaxon	10116
+19719056	1239	1244	edema	DiseaseOrPhenotypicFeature	D004487
+19719056	1292	1293	E	ChemicalEntity	D017308
+19719056	1579	1587	etodolac	ChemicalEntity	D017308
+19719056	Positive_Correlation	D002351	D004487	No
+19719056	Association	D003911	D017308	No

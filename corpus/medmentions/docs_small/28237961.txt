@@ -1,0 +1,70 @@
+28237961|t|Healthcare usage and economic impact of non-treated obesity in Italy: findings from a retrospective administrative and clinical database analysis
+28237961|a|Investigate the prevalence of obesity in Italy and examine its resource consumption and economic impact on the Italian national healthcare system (NHS). Retrospective, observational and real-life study. Data from three health units from Northern (Bergamo, Lombardy), Central (Grosseto, Tuscany) and Southern (Naples, Campania) Italy. All patients aged ≥18 years with at least one recorded body mass index (BMI) measurement between 1 January 2009 and 31 December 2012 were included. Information retrieved from the databases included primary care data, medical prescriptions, specialist consultations and hospital discharge records from 2009-2013. Costs associated with these data were also calculated. Data are presented for two time periods (1 year after BMI measurement and study end). Primary -to estimate health resources consumption and the associated economic impact on the Italian NHS. Secondary -the prevalence and characteristics of subjects by BMI category. 20 159 adult subjects with at least one documented BMI measurement. Subjects with BMI ≥30 kg/m(2) were defined as obese. The prevalence of obesity was 22.2% (N=4471) and increased with age. At the 1-year observation period, obese subjects who did not receive treatment for their obesity experienced longer durations of hospitalisation (median length: 5 days vs 3 days), used more prescription drugs (75.0% vs 57.7%), required more specialised outpatient healthcare (mean number: 5.3 vs 4.4) and were associated with greater costs, primarily owing to prescription drugs and hospital admissions (mean annual cost per year per patient: €460.6 vs €288.0 for drug prescriptions, €422.7 vs € 279.2 for hospitalisations and €283.2 vs €251.7 for outpatient care), compared with normal weight subjects. Similar findings were observed for the period up to data cut-off (mean follow-up of 2.7 years). Untreated obesity has a significant economic impact on the Italian healthcare system, highlighting the need to raise awareness and proactively treat obese subjects.
+28237961	0	10	Healthcare	T058	UMLS:C0086388
+28237961	40	51	non-treated	T033	UMLS:C0332155
+28237961	52	59	obesity	T038	UMLS:C0028754
+28237961	63	68	Italy	T082	UMLS:C0022277
+28237961	100	114	administrative	T033	UMLS:C3845829
+28237961	119	136	clinical database	T170	UMLS:C1516642
+28237961	137	145	analysis	T062	UMLS:C0936012
+28237961	176	183	obesity	T038	UMLS:C0028754
+28237961	187	192	Italy	T082	UMLS:C0022277
+28237961	218	229	consumption	T033	UMLS:C0243095
+28237961	257	264	Italian	T082	UMLS:C0022277
+28237961	265	291	national healthcare system	T170	UMLS:C0282574
+28237961	293	296	NHS	T170	UMLS:C0282574
+28237961	314	327	observational	T062	UMLS:C1518527
+28237961	332	347	real-life study	T062	UMLS:C2603343
+28237961	365	377	health units	T092	UMLS:C1708333
+28237961	383	391	Northern	T082	UMLS:C1709269
+28237961	393	400	Bergamo	T082	UMLS:C0017446
+28237961	402	410	Lombardy	T082	UMLS:C0017446
+28237961	413	420	Central	T082	UMLS:C0205099
+28237961	422	430	Grosseto	T082	UMLS:C0017446
+28237961	432	439	Tuscany	T082	UMLS:C0017446
+28237961	445	453	Southern	T082	UMLS:C1710133
+28237961	455	461	Naples	T082	UMLS:C0017446
+28237961	463	471	Campania	T082	UMLS:C0017446
+28237961	473	478	Italy	T082	UMLS:C0022277
+28237961	535	550	body mass index	T201	UMLS:C1305855
+28237961	552	555	BMI	T201	UMLS:C1305855
+28237961	659	668	databases	T170	UMLS:C0242356
+28237961	697	718	medical prescriptions	T170	UMLS:C1521941
+28237961	720	744	specialist consultations	T058	UMLS:C2090905
+28237961	749	775	hospital discharge records	T170	UMLS:C0743221
+28237961	901	904	BMI	T201	UMLS:C1305855
+28237961	971	982	consumption	T033	UMLS:C0243095
+28237961	1025	1032	Italian	T082	UMLS:C0022277
+28237961	1033	1036	NHS	T170	UMLS:C0282574
+28237961	1087	1095	subjects	T098	UMLS:C0080105
+28237961	1099	1102	BMI	T201	UMLS:C1305855
+28237961	1103	1111	category	T170	UMLS:C0683312
+28237961	1126	1134	subjects	T098	UMLS:C0080105
+28237961	1153	1167	documented BMI	T033	UMLS:C2724372
+28237961	1181	1189	Subjects	T098	UMLS:C0080105
+28237961	1195	1198	BMI	T201	UMLS:C1305855
+28237961	1227	1232	obese	T038	UMLS:C0028754
+28237961	1252	1259	obesity	T038	UMLS:C0028754
+28237961	1317	1328	observation	T062	UMLS:C0302523
+28237961	1337	1342	obese	T038	UMLS:C0028754
+28237961	1343	1351	subjects	T098	UMLS:C0080105
+28237961	1372	1381	treatment	T058	UMLS:C0087111
+28237961	1392	1399	obesity	T038	UMLS:C0028754
+28237961	1432	1447	hospitalisation	T058	UMLS:C0019993
+28237961	1493	1511	prescription drugs	T103	UMLS:C0304227
+28237961	1567	1577	healthcare	T058	UMLS:C0086388
+28237961	1663	1681	prescription drugs	T103	UMLS:C0304227
+28237961	1686	1705	hospital admissions	T058	UMLS:C0184666
+28237961	1767	1785	drug prescriptions	T170	UMLS:C0033081
+28237961	1809	1825	hospitalisations	T058	UMLS:C0019993
+28237961	1851	1866	outpatient care	T058	UMLS:C0002423
+28237961	1883	1896	normal weight	T033	UMLS:C2712185
+28237961	1897	1905	subjects	T098	UMLS:C0080105
+28237961	1978	1987	follow-up	T058	UMLS:C1522577
+28237961	2003	2012	Untreated	T033	UMLS:C0332155
+28237961	2013	2020	obesity	T038	UMLS:C0028754
+28237961	2062	2069	Italian	T082	UMLS:C0022277
+28237961	2070	2087	healthcare system	T170	UMLS:C0282574
+28237961	2120	2129	awareness	T038	UMLS:C0004448
+28237961	2146	2151	treat	T058	UMLS:C0087111
+28237961	2158	2166	subjects	T098	UMLS:C0080105

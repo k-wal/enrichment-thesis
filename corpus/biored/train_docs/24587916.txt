@@ -1,0 +1,50 @@
+24587916|t|Antioxidant effects of bovine lactoferrin on dexamethasone-induced hypertension in rat.
+24587916|a|Dexamethasone- (Dex-) induced hypertension is associated with enhanced oxidative stress. Lactoferrin (LF) is an iron-binding glycoprotein with antihypertensive properties. In this study, we investigated the effect of chronic administration of LF on oxidative stress and hypertension upon Dex administration. Male Wistar rats were treated by Dex (30  u g/kg/day subcutaneously) or saline for 14 days. Oral bovine LF (30, 100, 300 mg/kg) was given from day 8 to 14 in a reversal study. In a prevention study, rats received 4 days of LF treatment followed by Dex and continued during the test period. Systolic blood pressure (SBP) was measured using tail-cuff method. Thymus weight was used as a marker of glucocorticoid activity. Plasma hydrogen peroxide (H2O2) concentration and ferric reducing antioxidant power (FRAP) value were determined. Dexamethasone significantly increased SBP and plasma H2O2 level and decreased thymus and body weights. LF lowered (P < 0.01) and dose dependently prevented (P < 0.001) Dex-induced hypertension. LF prevented body weight loss and significantly reduced the elevated plasma H2O2 and increased FRAP values. Chronic administration of LF strongly reduced the blood pressure and production of ROS and improved antioxidant capacity in Dex-induced hypertension, suggesting the role of inhibition of oxidative stress as another mechanism of antihypertensive action of LF.
+24587916	0	11	Antioxidant	ChemicalEntity	D000975
+24587916	23	29	bovine	OrganismTaxon	9913
+24587916	30	41	lactoferrin	GeneOrGeneProduct	301034
+24587916	45	58	dexamethasone	ChemicalEntity	D003907
+24587916	67	79	hypertension	DiseaseOrPhenotypicFeature	D006973
+24587916	83	86	rat	OrganismTaxon	10116
+24587916	88	101	Dexamethasone	ChemicalEntity	D003907
+24587916	104	107	Dex	ChemicalEntity	D003907
+24587916	118	130	hypertension	DiseaseOrPhenotypicFeature	D006973
+24587916	177	188	Lactoferrin	GeneOrGeneProduct	301034
+24587916	190	192	LF	GeneOrGeneProduct	301034
+24587916	200	204	iron	ChemicalEntity	D007501
+24587916	213	225	glycoprotein	GeneOrGeneProduct	11820
+24587916	331	333	LF	GeneOrGeneProduct	301034
+24587916	358	370	hypertension	DiseaseOrPhenotypicFeature	D006973
+24587916	376	379	Dex	ChemicalEntity	D003907
+24587916	408	412	rats	OrganismTaxon	10116
+24587916	429	432	Dex	ChemicalEntity	D003907
+24587916	493	499	bovine	OrganismTaxon	9913
+24587916	500	502	LF	GeneOrGeneProduct	301034
+24587916	595	599	rats	OrganismTaxon	10116
+24587916	619	621	LF	GeneOrGeneProduct	301034
+24587916	644	647	Dex	ChemicalEntity	D003907
+24587916	791	805	glucocorticoid	ChemicalEntity	D005938
+24587916	823	840	hydrogen peroxide	ChemicalEntity	D006861
+24587916	842	846	H2O2	ChemicalEntity	D006861
+24587916	866	872	ferric	ChemicalEntity	D007501
+24587916	930	943	Dexamethasone	ChemicalEntity	D003907
+24587916	983	987	H2O2	ChemicalEntity	D006861
+24587916	1033	1035	LF	GeneOrGeneProduct	301034
+24587916	1098	1101	Dex	ChemicalEntity	D003907
+24587916	1110	1122	hypertension	DiseaseOrPhenotypicFeature	D006973
+24587916	1124	1126	LF	GeneOrGeneProduct	301034
+24587916	1142	1153	weight loss	DiseaseOrPhenotypicFeature	D015431
+24587916	1200	1204	H2O2	ChemicalEntity	D006861
+24587916	1258	1260	LF	GeneOrGeneProduct	301034
+24587916	1315	1318	ROS	ChemicalEntity	D017382
+24587916	1356	1359	Dex	ChemicalEntity	D003907
+24587916	1368	1380	hypertension	DiseaseOrPhenotypicFeature	D006973
+24587916	1487	1489	LF	GeneOrGeneProduct	301034
+24587916	Positive_Correlation	D003907	D006861	Novel
+24587916	Positive_Correlation	D003907	D006973	No
+24587916	Negative_Correlation	301034	D017382	Novel
+24587916	Negative_Correlation	301034	D015431	Novel
+24587916	Negative_Correlation	301034	D006861	Novel
+24587916	Negative_Correlation	301034	D006973	Novel
+24587916	Negative_Correlation	301034	D003907	Novel
+24587916	Association	D007501	301034	Novel

@@ -1,0 +1,45 @@
+28241394|t|The empirical Bayes estimators of fine-scale population structure in high gene flow species
+28241394|a|An empirical Bayes (EB) pairwise FST estimator was previously introduced and evaluated for its performance by numerical simulation. In this study, we conducted coalescent simulations and generated genetic population structure mechanistically, and compared the performance of the EBFST with Nei's GST, Nei and Chesser's bias-corrected GST (GST_NC), Weir and Cockerham's θ (θWC) and θ with finite sample correction (θWC_F). We also introduced EB estimators for Hedrick' G'ST and Jost' D. We applied these estimators to publicly available SNP genotypes of Atlantic herring. We also examined the power to detect the environmental factors causing the population structure. Our coalescent simulations revealed that the finite sample correction of θWC is necessary to assess population structure using pairwise FST values. For microsatellite markers, EBFST performed the best among the present estimators regarding both bias and precision under high gene flow scenarios (FST ≤0.032). For 300 SNPs, EBFST had the highest precision in all cases, but the bias was negative and greater than those for GST_NC and θWC_F in all cases. GST_NC and θWC_F performed very similarly at all levels of FST. As the number of loci increased up to 10 000, the precision of GST_NC and θWC_F became slightly better than for EBFST for cases with FST ≥0.004, even though the size of the bias remained constant. The EB estimators described the fine-scale population structure of the herring and revealed that ~56% of the genetic differentiation was caused by sea surface temperature and salinity. The R package finepop for implementing all estimators used here is available on CRAN.
+28241394	4	19	empirical Bayes	T170	UMLS:C0025663
+28241394	20	30	estimators	T170	UMLS:C0870077
+28241394	74	83	gene flow	T038	UMLS:C1565556
+28241394	84	91	species	T170	UMLS:C1705920
+28241394	95	110	empirical Bayes	T170	UMLS:C0025663
+28241394	112	114	EB	T170	UMLS:C0025663
+28241394	116	138	pairwise FST estimator	T170	UMLS:C0870077
+28241394	212	222	simulation	T062	UMLS:C0679083
+28241394	232	237	study	T062	UMLS:C2603343
+28241394	263	274	simulations	T062	UMLS:C0679083
+28241394	371	376	EBFST	T170	UMLS:C1705273
+28241394	382	391	Nei's GST	T062	UMLS:C0936012
+28241394	533	535	EB	T170	UMLS:C0025663
+28241394	536	546	estimators	T170	UMLS:C0870077
+28241394	595	605	estimators	T170	UMLS:C0870077
+28241394	628	631	SNP	T082	UMLS:C0752046
+28241394	645	661	Atlantic herring	T204	UMLS:C3665362
+28241394	671	679	examined	T033	UMLS:C0332128
+28241394	693	699	detect	T033	UMLS:C0442726
+28241394	775	786	simulations	T062	UMLS:C0679083
+28241394	887	899	pairwise FST	T170	UMLS:C0600653
+28241394	912	934	microsatellite markers	T103	UMLS:C1519302
+28241394	936	941	EBFST	T170	UMLS:C1705273
+28241394	971	978	present	T033	UMLS:C0150312
+28241394	979	989	estimators	T170	UMLS:C0870077
+28241394	1035	1044	gene flow	T038	UMLS:C1565556
+28241394	1056	1059	FST	T170	UMLS:C0600653
+28241394	1083	1088	EBFST	T170	UMLS:C1705273
+28241394	1146	1154	negative	T033	UMLS:C0205160
+28241394	1272	1275	FST	T170	UMLS:C0600653
+28241394	1294	1298	loci	T082	UMLS:C1708726
+28241394	1389	1394	EBFST	T170	UMLS:C1705273
+28241394	1410	1413	FST	T170	UMLS:C0600653
+28241394	1438	1442	size	T082	UMLS:C0456389
+28241394	1478	1480	EB	T170	UMLS:C0025663
+28241394	1481	1491	estimators	T170	UMLS:C0870077
+28241394	1545	1552	herring	T204	UMLS:C1691760
+28241394	1583	1606	genetic differentiation	T038	UMLS:C0917892
+28241394	1621	1624	sea	T082	UMLS:C0036493
+28241394	1625	1632	surface	T082	UMLS:C0205148
+28241394	1649	1657	salinity	T033	UMLS:C1956027
+28241394	1663	1680	R package finepop	T170	UMLS:C0037589
+28241394	1702	1712	estimators	T170	UMLS:C0870077

@@ -1,0 +1,98 @@
+28158248|t|Modeling the flux of metabolites in the juvenile hormone biosynthesis pathway using generalized additive models and ordinary differential equations
+28158248|a|Juvenile hormone (JH) regulates development and reproductive maturation in insects. The corpora allata (CA) from female adult mosquitoes synthesize fluctuating levels of JH, which have been linked to the ovarian development and are influenced by nutritional signals. The rate of JH biosynthesis is controlled by the rate of flux of isoprenoids in the pathway, which is the outcome of a complex interplay of changes in precursor pools and enzyme levels. A comprehensive study of the changes in enzymatic activities and precursor pool sizes have been previously reported for the mosquito Aedes aegypti JH biosynthesis pathway. In the present studies, we used two different quantitative approaches to describe and predict how changes in the individual metabolic reactions in the pathway affect JH synthesis. First, we constructed generalized additive models (GAMs) that described the association between changes in specific metabolite concentrations with changes in enzymatic activities and substrate concentrations. Changes in substrate concentrations explained 50% or more of the model deviances in 7 of the 13 metabolic steps analyzed. Addition of information on enzymatic activities almost always improved the fitness of GAMs built solely based on substrate concentrations. GAMs were validated using experimental data that were not included when the model was built. In addition, a system of ordinary differential equations (ODE) was developed to describe the instantaneous changes in metabolites as a function of the levels of enzymatic catalytic activities. The results demonstrated the ability of the models to predict changes in the flux of metabolites in the JH pathway, and can be used in the future to design and validate experimental manipulations of JH synthesis.
+28158248	0	8	Modeling	T062	C0870071
+28158248	13	17	flux	T070	C2348693
+28158248	21	32	metabolites	T123	C0870883
+28158248	40	56	juvenile hormone	T125	C0022439
+28158248	57	69	biosynthesis	T038	C0220781
+28158248	70	77	pathway	T044	C1704259
+28158248	84	111	generalized additive models	T075	C0026336
+28158248	116	147	ordinary differential equations	T170	C0282574
+28158248	148	164	Juvenile hormone	T125	C0022439
+28158248	166	168	JH	T125	C0022439
+28158248	180	191	development	T169	C1527148
+28158248	196	219	reproductive maturation	T040	C0036887
+28158248	223	230	insects	T204	C0021585
+28158248	236	250	corpora allata	T023	C0010085
+28158248	252	254	CA	T023	C0010085
+28158248	261	267	female	T032	C0086287
+28158248	268	284	adult mosquitoes	T204	C0026584
+28158248	296	307	fluctuating	T079	C0231241
+28158248	308	314	levels	T080	C0441889
+28158248	318	320	JH	T125	C0022439
+28158248	352	371	ovarian development	T042	C1160265
+28158248	394	405	nutritional	T080	C1521739
+28158248	406	413	signals	T043	C0037083
+28158248	419	423	rate	T081	C1521828
+28158248	427	429	JH	T125	C0022439
+28158248	430	442	biosynthesis	T038	C0220781
+28158248	464	468	rate	T081	C1521828
+28158248	472	476	flux	T070	C2348693
+28158248	480	491	isoprenoids	T109	C0682996
+28158248	499	506	pathway	T044	C1704259
+28158248	555	562	changes	T169	C0392747
+28158248	566	575	precursor	T167	C3891814
+28158248	586	592	enzyme	T116,T126	C0014442
+28158248	593	599	levels	T080	C0441889
+28158248	603	616	comprehensive	T080	C1880156
+28158248	617	622	study	T062	C2603343
+28158248	630	637	changes	T169	C0392747
+28158248	641	661	enzymatic activities	T044	C0243102
+28158248	666	675	precursor	T167	C3891814
+28158248	725	733	mosquito	T204	C0026584
+28158248	734	747	Aedes aegypti	T204	C0322859
+28158248	748	750	JH	T125	C0022439
+28158248	751	763	biosynthesis	T038	C0220781
+28158248	764	771	pathway	T044	C1704259
+28158248	788	795	studies	T062	C2603343
+28158248	819	842	quantitative approaches	UnknownType	C0681919
+28158248	871	878	changes	T169	C0392747
+28158248	897	906	metabolic	T169	C0311400
+28158248	907	916	reactions	T169	C0443286
+28158248	924	931	pathway	T044	C1704259
+28158248	939	941	JH	T125	C0022439
+28158248	942	951	synthesis	T038	C0220781
+28158248	975	1002	generalized additive models	T075	C0026336
+28158248	1004	1008	GAMs	T075	C0026336
+28158248	1049	1056	changes	T169	C0392747
+28158248	1069	1079	metabolite	T123	C0870883
+28158248	1080	1094	concentrations	T081	C0457929
+28158248	1100	1107	changes	T169	C0392747
+28158248	1111	1131	enzymatic activities	T044	C0243102
+28158248	1136	1145	substrate	T167	C3891814
+28158248	1146	1160	concentrations	T081	C0457929
+28158248	1162	1169	Changes	T169	C0392747
+28158248	1173	1182	substrate	T167	C3891814
+28158248	1183	1197	concentrations	T081	C0457929
+28158248	1227	1232	model	T075	C0026336
+28158248	1258	1267	metabolic	T169	C0311400
+28158248	1268	1273	steps	T077	C1261552
+28158248	1274	1282	analyzed	T062	C0936012
+28158248	1311	1331	enzymatic activities	T044	C0243102
+28158248	1359	1366	fitness	T052	C2349186
+28158248	1370	1374	GAMs	T075	C0026336
+28158248	1397	1406	substrate	T167	C3891814
+28158248	1407	1421	concentrations	T081	C0457929
+28158248	1423	1427	GAMs	T075	C0026336
+28158248	1449	1461	experimental	T080	C1517586
+28158248	1462	1466	data	T078	C1511726
+28158248	1541	1572	ordinary differential equations	T170	C0282574
+28158248	1574	1577	ODE	T170	C0282574
+28158248	1623	1630	changes	T169	C0392747
+28158248	1634	1645	metabolites	T123	C0870883
+28158248	1651	1659	function	T169	C0542341
+28158248	1667	1673	levels	T080	C0441889
+28158248	1677	1707	enzymatic catalytic activities	T044	C0243102
+28158248	1713	1720	results	T169	C1274040
+28158248	1753	1759	models	T075	C0026336
+28158248	1771	1778	changes	T169	C0392747
+28158248	1786	1790	flux	T070	C2348693
+28158248	1794	1805	metabolites	T123	C0870883
+28158248	1813	1815	JH	T125	C0022439
+28158248	1816	1823	pathway	T044	C1704259
+28158248	1858	1864	design	T052	C1707689
+28158248	1869	1877	validate	T062	C1519941
+28158248	1878	1890	experimental	T080	C1517586
+28158248	1891	1904	manipulations	T169	C0205245
+28158248	1908	1910	JH	T125	C0022439
+28158248	1911	1920	synthesis	T038	C0220781

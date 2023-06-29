@@ -1,0 +1,90 @@
+27651148|t|Striatal dopamine modulates timing of self-initiated saccades
+27651148|a|The ability to adjust movement timing is essential in daily life. Explorations of the underlying neural mechanisms have reported a gradual increase or decrease in neuronal activity prior to self-timed movements within the cortico - basal ganglia loop. Previous studies in both humans and animals have shown that endogenous dopamine (DA) plays a modulatory role in self-timing. However, the specific site of dopaminergic regulation remains elusive because the systemic application of DA - related substances can directly alter both cortical and subcortical neuronal activities. To investigate the role of striatal DA in self-timing, we locally injected DA receptor agonists or antagonists into the striatum of two female monkeys (Macaca fuscata) while they performed two versions of the memory-guided saccade (MS) task. In the conventional, triggered MS task, animals made a saccade to the location of a previously flashed visual cue in response to the fixation point offset. In the self-timed MS task, monkeys were rewarded for making a self-initiated saccade within a predetermined time interval following the cue. Infusion of a small amount of a D1 or D2 antagonist led to early saccades in the self-timed, but not the triggered MS tasks, while infusion of DA agonists produced no consistent effect. We also found that local administration of nicotinic but not muscarinic acetylcholine receptor agonists and antagonists altered the timing of self-initiated saccades. Our data suggest that the timing of self-initiated movements may be regulated by the balance of signals in the direct and indirect basal ganglia pathways, as well as that between both hemispheres of the brain.
+27651148	0	8	Striatal	T023	C0010097
+27651148	9	17	dopamine	T109,T121,T123	C0013030
+27651148	18	27	modulates	T082	C0443264
+27651148	28	34	timing	T079	C0449243
+27651148	38	52	self-initiated	T033	C0243095
+27651148	53	61	saccades	T042	C0036019
+27651148	84	92	movement	T040	C0026649
+27651148	93	99	timing	T079	C0449243
+27651148	159	165	neural	T025	C0027882
+27651148	166	176	mechanisms	T169	C0441712
+27651148	201	209	increase	T169	C0442805
+27651148	213	221	decrease	T081	C0547047
+27651148	225	233	neuronal	T025	C0027882
+27651148	234	242	activity	T052	C0441655
+27651148	252	262	self-timed	T079	C0449243
+27651148	263	272	movements	T040	C0026649
+27651148	284	291	cortico	T023	C0007776
+27651148	294	307	basal ganglia	T023	C0004781
+27651148	339	345	humans	T016	C0086418
+27651148	350	357	animals	T008	C0003062
+27651148	374	384	endogenous	T169	C0205227
+27651148	385	393	dopamine	T109,T121,T123	C0013030
+27651148	395	397	DA	T109,T121,T123	C0013030
+27651148	407	417	modulatory	UnknownType	C0678672
+27651148	418	422	role	T077	C1705810
+27651148	426	437	self-timing	T079	C0449243
+27651148	469	492	dopaminergic regulation	T042	C1819129
+27651148	545	547	DA	T109,T121,T123	C0013030
+27651148	550	568	related substances	T121	C1254351
+27651148	593	601	cortical	T023	C0007776
+27651148	606	617	subcortical	T023	C0815008
+27651148	618	626	neuronal	T025	C0027882
+27651148	627	637	activities	T052	C0441655
+27651148	666	674	striatal	T023	C0010097
+27651148	675	677	DA	T109,T121,T123	C0013030
+27651148	681	692	self-timing	T079	C0449243
+27651148	705	713	injected	T169	C1720154
+27651148	714	725	DA receptor	T116,T192	C0034798
+27651148	726	734	agonists	T121	C0243192
+27651148	738	749	antagonists	T120	C0243076
+27651148	759	767	striatum	T023	C0010097
+27651148	775	781	female	T032	C0086287
+27651148	782	789	monkeys	T015	C0026447
+27651148	791	805	Macaca fuscata	T015	C1621298
+27651148	848	879	memory-guided saccade (MS) task	T060	C0430022
+27651148	888	900	conventional	T080	C0439858
+27651148	912	919	MS task	T060	C0430022
+27651148	921	928	animals	T008	C0003062
+27651148	936	943	saccade	T042	C0036019
+27651148	984	994	visual cue	T201	C2707266
+27651148	1014	1035	fixation point offset	T033	C0243095
+27651148	1044	1054	self-timed	T079	C0449243
+27651148	1055	1062	MS task	T060	C0430022
+27651148	1064	1071	monkeys	T015	C0026447
+27651148	1099	1113	self-initiated	T033	C0243095
+27651148	1114	1121	saccade	T042	C0036019
+27651148	1145	1158	time interval	T079	C0872291
+27651148	1173	1176	cue	T078	C0010439
+27651148	1178	1186	Infusion	T061	C0574032
+27651148	1210	1212	D1	T116,T192	C0058697
+27651148	1216	1218	D2	T116,T192	C0058698
+27651148	1219	1229	antagonist	T120	C0243076
+27651148	1243	1251	saccades	T042	C0036019
+27651148	1259	1269	self-timed	T079	C0449243
+27651148	1293	1301	MS tasks	T060	C0430022
+27651148	1309	1317	infusion	T061	C0574032
+27651148	1321	1332	DA agonists	T121	C0178601
+27651148	1342	1362	no consistent effect	T080	C1301751
+27651148	1383	1403	local administration	UnknownType	C0678811
+27651148	1407	1416	nicotinic	T109,T121,T127	C0027996
+27651148	1425	1458	muscarinic acetylcholine receptor	T116,T192	C0034826
+27651148	1459	1467	agonists	T121	C0243192
+27651148	1472	1483	antagonists	T120	C0243076
+27651148	1496	1502	timing	T079	C0449243
+27651148	1506	1520	self-initiated	T033	C0243095
+27651148	1521	1529	saccades	T042	C0036019
+27651148	1557	1563	timing	T079	C0449243
+27651148	1567	1581	self-initiated	T033	C0243095
+27651148	1582	1591	movements	T040	C0026649
+27651148	1599	1608	regulated	T038	C1327622
+27651148	1616	1623	balance	T040	C0014653
+27651148	1627	1634	signals	T067	C1710082
+27651148	1642	1648	direct	T080	C1947931
+27651148	1653	1661	indirect	T080	C0439852
+27651148	1662	1675	basal ganglia	T023	C0004781
+27651148	1676	1684	pathways	T044	C1704259
+27651148	1715	1726	hemispheres	T023	C0228174
+27651148	1734	1739	brain	T023	C0006104

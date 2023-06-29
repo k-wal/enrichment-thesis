@@ -1,0 +1,100 @@
+28166758|t|Stromal alterations in ovarian cancers via wavelength dependent Second Harmonic Generation microscopy and optical scattering
+28166758|a|Ovarian cancer remains the most deadly gynecological cancer with a poor aggregate survival rate; however, the specific rates are highly dependent on the stage of the disease upon diagnosis. Current screening and imaging tools are insufficient to detect early lesions and are not capable of differentiating the subtypes of ovarian cancer that may benefit from specific treatments. As an alternative to current screening and imaging tools, we utilized wavelength dependent collagen -specific Second Harmonic Generation (SHG) imaging microscopy and optical scattering measurements to probe the structural differences in the extracellular matrix (ECM) of normal stroma, benign tumors, endometrioid tumors, and low and high-grade serous tumors. The SHG signatures of the emission directionality and conversion efficiency as well as the optical scattering are related to the organization of collagen on the sub-micron size scale and encode structural information. The wavelength dependence of these readouts adds additional characterization of the size and distribution of collagen fibrils / fibers relative to the interrogating wavelengths. We found a strong wavelength dependence of these metrics that are related to significant structural differences in the collagen organization and are consistent with the dualistic classification of type I and II serous tumors. Moreover, type I endometrioid tumors have strongly differing ECM architecture than the serous malignancies. The SHG metrics and optical scattering measurements were used to form a linear discriminant model to classify the tissues, and we obtained high accuracy (>90%) between high-grade serous tumors from the other tissue types. High-grade serous tumors account for ~70% of ovarian cancers, and this delineation has potential clinical applications in terms of supplementing histological analysis, understanding the etiology, as well as development of an in vivo screening tool. SHG and optical scattering measurements provide sub-resolution information and when combined provide superior diagnostic power over clinical imaging modalities. Additionally the measurements are able to delineate the different subtypes of ovarian cancer and may potentially assist in treatment protocols. Understanding the altered collagen assembly can supplement histological analysis and provide new insight into the etiology. These methods could become an in vivo screening tool for earlier detection which is important since ovarian malignancies can metastasize while undetectable by current clinical imaging resolution.
+28166758	0	19	Stromal alterations	T033	C1336512
+28166758	23	38	ovarian cancers	T191	C0029925
+28166758	43	53	wavelength	T081	C0449819
+28166758	54	63	dependent	T080	C0851827
+28166758	64	101	Second Harmonic Generation microscopy	T059	C0026018
+28166758	106	124	optical scattering	T067	C0596837
+28166758	125	139	Ovarian cancer	T191	C0029925
+28166758	164	177	gynecological	T091	C0018417
+28166758	178	184	cancer	T191	C0006826
+28166758	207	220	survival rate	T081	C0038954
+28166758	235	249	specific rates	T081	C2986538
+28166758	261	270	dependent	T080	C0851827
+28166758	291	298	disease	T047	C0012634
+28166758	304	313	diagnosis	T033	C0011900
+28166758	323	332	screening	T058	C0220908
+28166758	337	350	imaging tools	T074	C1512629
+28166758	378	391	early lesions	T033	C0221198
+28166758	435	443	subtypes	T185	C0872379
+28166758	447	461	ovarian cancer	T191	C0029925
+28166758	493	503	treatments	T061	C0087111
+28166758	534	543	screening	T058	C0220908
+28166758	548	561	imaging tools	T074	C1512629
+28166758	575	585	wavelength	T081	C0449819
+28166758	586	595	dependent	T080	C0851827
+28166758	596	604	collagen	T116	C0009325
+28166758	615	666	Second Harmonic Generation (SHG) imaging microscopy	T059	C0026018
+28166758	671	702	optical scattering measurements	T059	C0027692
+28166758	716	726	structural	T116	C1510464
+28166758	727	738	differences	T080	C1705242
+28166758	746	766	extracellular matrix	T024	C0015350
+28166758	768	771	ECM	T024	C0015350
+28166758	783	789	stroma	T023	C0927195
+28166758	791	804	benign tumors	T191	C0086692
+28166758	806	825	endometrioid tumors	T191	C0474809
+28166758	831	834	low	T191	C3839184
+28166758	839	863	high-grade serous tumors	T191	C3839280
+28166758	869	872	SHG	T059	C0026018
+28166758	873	883	signatures	T169	C1704864
+28166758	919	929	conversion	T169	C0439836
+28166758	930	940	efficiency	T081	C0013682
+28166758	956	974	optical scattering	T067	C0596837
+28166758	994	1006	organization	T169	C1300196
+28166758	1010	1018	collagen	T116	C0009325
+28166758	1026	1036	sub-micron	T081	C0439201
+28166758	1037	1047	size scale	T170	C0282574
+28166758	1059	1069	structural	T116	C1510464
+28166758	1070	1081	information	T078	C1533716
+28166758	1087	1097	wavelength	T081	C0449819
+28166758	1098	1108	dependence	T080	C0851827
+28166758	1167	1171	size	T082	C0456389
+28166758	1176	1188	distribution	T169	C1704711
+28166758	1192	1208	collagen fibrils	T024	C1179626
+28166758	1211	1217	fibers	T024	C0225325
+28166758	1248	1259	wavelengths	T081	C0449819
+28166758	1279	1289	wavelength	T081	C0449819
+28166758	1290	1300	dependence	T080	C0851827
+28166758	1310	1317	metrics	T024	C0015350
+28166758	1350	1360	structural	T116	C1510464
+28166758	1361	1372	differences	T080	C1705242
+28166758	1380	1388	collagen	T116	C0009325
+28166758	1389	1401	organization	T169	C1300196
+28166758	1440	1454	classification	T185	C0008902
+28166758	1458	1485	type I and II serous tumors	T191	C0476122
+28166758	1497	1523	type I endometrioid tumors	T191	C0474809
+28166758	1548	1551	ECM	T024	C0015350
+28166758	1574	1593	serous malignancies	T191	C0476122
+28166758	1599	1602	SHG	T059	C0026018
+28166758	1603	1610	metrics	T024	C0015350
+28166758	1615	1646	optical scattering measurements	T059	C0027692
+28166758	1667	1692	linear discriminant model	T170	C3161035
+28166758	1709	1716	tissues	T024	C0040300
+28166758	1763	1787	high-grade serous tumors	T191	C3839280
+28166758	1803	1815	tissue types	T024	C2713035
+28166758	1817	1841	High-grade serous tumors	T191	C3839280
+28166758	1862	1877	ovarian cancers	T191	C0029925
+28166758	1962	1983	histological analysis	UnknownType	C0679557
+28166758	2003	2011	etiology	T169	C1314792
+28166758	2042	2049	in vivo	T062	C0681829
+28166758	2050	2064	screening tool	T058	C0220908
+28166758	2066	2069	SHG	T059	C0026018
+28166758	2074	2105	optical scattering measurements	T059	C0027692
+28166758	2129	2140	information	T078	C1533716
+28166758	2167	2192	superior diagnostic power	T060	C0430022
+28166758	2198	2214	clinical imaging	T060	C0011923
+28166758	2215	2225	modalities	T169	C1275506
+28166758	2244	2256	measurements	T169	C0242485
+28166758	2293	2301	subtypes	T185	C0872379
+28166758	2305	2319	ovarian cancer	T191	C0029925
+28166758	2350	2369	treatment protocols	T061	C0040808
+28166758	2389	2396	altered	T078	C1515926
+28166758	2397	2405	collagen	T116	C0009325
+28166758	2430	2451	histological analysis	UnknownType	C0679557
+28166758	2485	2493	etiology	T169	C1314792
+28166758	2525	2532	in vivo	T062	C0681829
+28166758	2533	2547	screening tool	T058	C0220908
+28166758	2595	2615	ovarian malignancies	T191	C1140680
+28166758	2620	2631	metastasize	T191	C0027627
+28166758	2662	2678	clinical imaging	T060	C0011923

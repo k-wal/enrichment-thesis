@@ -1,0 +1,33 @@
+16904497|t|Cauda equina syndrome after epidural steroid injection: a case report.
+16904497|a|OBJECTIVE: Conventional treatment methods of lumbusacral radiculopathy are physical therapy, epidural steroid injections, oral medications, and spinal manipulative therapy. Cauda equina syndrome is a rare complication of epidural anesthesia. The following case is a report of cauda equina syndrome possibly caused by epidural injection of triamcinolone and bupivacaine. CLINICAL FEATURES: A 50-year-old woman with low back and right leg pain was scheduled for epidural steroid injection. INTERVENTION AND OUTCOME: An 18-gauge Touhy needle was inserted until loss of resistance occurred at the L4-5 level. Spread of the contrast medium within the epidural space was determined by radiographic imaging. After verifying the epidural space, bupivacaine and triamcinolone diacetate were injected. After the injection, there was a reduction in radicular symptoms. Three hours later, she complained of perineal numbness and lower extremity weakness. The neurologic evaluation revealed loss of sensation in the saddle area and medial aspect of her right leg. There was a decrease in the perception of pinprick test. Deep-tendon reflexes were decreased especially in the right leg. She was unable to urinate. The patient's symptoms improved slightly over the next few hours. She had a gradual return of motor function and ability of feeling Foley catheter. All of the symptoms were completely resolved over the next 8 hours. CONCLUSION: Complications associated with epidural steroid injections are rare. Clinical examination and continued vigilance for neurologic deterioration after epidural steroid injections is important.
+16904497	0	21	Cauda equina syndrome	DiseaseOrPhenotypicFeature	D011128
+16904497	37	44	steroid	ChemicalEntity	D013256
+16904497	128	141	radiculopathy	DiseaseOrPhenotypicFeature	D011843
+16904497	173	180	steroid	ChemicalEntity	D013256
+16904497	244	265	Cauda equina syndrome	DiseaseOrPhenotypicFeature	D011128
+16904497	347	368	cauda equina syndrome	DiseaseOrPhenotypicFeature	D011128
+16904497	410	423	triamcinolone	ChemicalEntity	D014221
+16904497	428	439	bupivacaine	ChemicalEntity	D002045
+16904497	474	479	woman	OrganismTaxon	9606
+16904497	485	512	low back and right leg pain	DiseaseOrPhenotypicFeature	D010146,D017116
+16904497	540	547	steroid	ChemicalEntity	D013256
+16904497	808	819	bupivacaine	ChemicalEntity	D002045
+16904497	824	847	triamcinolone diacetate	ChemicalEntity	C030262
+16904497	975	983	numbness	DiseaseOrPhenotypicFeature	D006987
+16904497	988	1012	lower extremity weakness	DiseaseOrPhenotypicFeature	D020335
+16904497	1049	1066	loss of sensation	DiseaseOrPhenotypicFeature	D006987
+16904497	1275	1282	patient	OrganismTaxon	9606
+16904497	1538	1545	steroid	ChemicalEntity	D013256
+16904497	1616	1640	neurologic deterioration	DiseaseOrPhenotypicFeature	D009422
+16904497	1656	1663	steroid	ChemicalEntity	D013256
+16904497	Negative_Correlation	D017116	D013256	No
+16904497	Negative_Correlation	D010146	D013256	No
+16904497	Negative_Correlation	D011843	D013256	No
+16904497	Positive_Correlation	D009422	D013256	Novel
+16904497	Positive_Correlation	C030262	D020335	Novel
+16904497	Positive_Correlation	C030262	D006987	Novel
+16904497	Positive_Correlation	D002045	D020335	Novel
+16904497	Positive_Correlation	D002045	D006987	Novel
+16904497	Positive_Correlation	D011128	D014221	Novel
+16904497	Positive_Correlation	D011128	D002045	Novel
+16904497	Positive_Correlation	D013256	D011128	Novel

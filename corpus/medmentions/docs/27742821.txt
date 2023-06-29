@@ -1,0 +1,35 @@
+27742821|t|HieranoiDB: a database of orthologs inferred by Hieranoid
+27742821|a|HieranoiDB (http://hieranoiDB.sbc.su.se) is a freely available on-line database for hierarchical groups of orthologs inferred by the Hieranoid algorithm. It infers orthologs at each node in a species guide tree with the InParanoid algorithm as it progresses from the leaves to the root. Here we present a database HieranoiDB with a web interface that makes it easy to search and visualize the output of Hieranoid, and to download it in various formats. Searching can be performed using protein description, identifier or sequence. In this first version, orthologs are available for the 66 Quest for Orthologs reference proteomes. The ortholog trees are shown graphically and interactively with marked speciation and duplication nodes that show the inferred evolutionary scenario, and allow for correct extraction of predicted orthologs from the Hieranoid trees.
+27742821	0	10	HieranoiDB	T170	C0950132
+27742821	26	35	orthologs	T028	C1335144
+27742821	48	57	Hieranoid	T170	C0950132
+27742821	58	68	HieranoiDB	T170	C0950132
+27742821	121	137	on-line database	T170	C3841595
+27742821	142	154	hierarchical	T169	C0699032
+27742821	165	174	orthologs	T028	C1335144
+27742821	191	210	Hieranoid algorithm	T170	C0002045
+27742821	222	231	orthologs	T028	C1335144
+27742821	240	244	node	T077	C2697524
+27742821	258	268	guide tree	T170	C0282574
+27742821	278	298	InParanoid algorithm	T170	C0002045
+27742821	339	343	root	T078	C1705917
+27742821	363	382	database HieranoiDB	T170	C0950132
+27742821	461	470	Hieranoid	T170	C0950132
+27742821	544	551	protein	T116,T123	C0033684
+27742821	552	563	description	T170	C0678257
+27742821	565	575	identifier	T170	C0600091
+27742821	579	587	sequence	T087	C0002518
+27742821	612	621	orthologs	T028	C1335144
+27742821	647	652	Quest	T078	C0750565
+27742821	657	666	Orthologs	T028	C1335144
+27742821	677	686	proteomes	T116,T123	C0751973
+27742821	692	700	ortholog	T028	C1335144
+27742821	701	706	trees	T169	C0699032
+27742821	717	728	graphically	T170	C0870616
+27742821	733	746	interactively	T169	C1704675
+27742821	759	769	speciation	T070	C1563692
+27742821	774	785	duplication	T045	C0017261
+27742821	786	791	nodes	T077	C2697524
+27742821	815	836	evolutionary scenario	T045	C3825184
+27742821	884	893	orthologs	T028	C1335144
+27742821	903	918	Hieranoid trees	T170	C0950132

@@ -1,0 +1,250 @@
+27348285|t|Economic Burden of Illness Among Patients with Severe Asthma in a Managed Care Setting
+27348285|a|Despite intensive pharmacotherapy, a considerable number of patients with severe asthma have inadequate disease control. Patients with severe asthma who experience exacerbations consume significant health care resources. To assess health care resource utilization and associated costs among patients with persistent severe asthma who experienced exacerbations compared with patients with persistent but nonsevere asthma. This retrospective analysis of a national administrative claims database identified patients aged ≥ 12 years who had at least 1 medical claim with an asthma diagnosis in 2012 and had continuous medical and pharmacy coverage under a commercial or Medicare Advantage plan from January 1, 2012, to December 31, 2013. Patients were assigned to 1 of 2 mutually exclusive cohorts - persistent asthma (PA) or severe asthma (SA)-according to an established algorithm based on asthma -related health care resource use and pharmacy claims for controller medication. SA patients were required to meet PA criteria and also have evidence of ≥2 asthma exacerbations in 2012. Asthma -related health care resource utilization and costs were computed from asthma medication use (rescue and controller therapy) and medical claims with an asthma diagnosis in the primary position in 2012 and 2013. Adherence to controller therapy was assessed over 365 days by using the proportion of days covered (PDC), starting with the first claim for controller therapy in 2012. Differences between the PA and SA cohorts were analyzed by t-test for continuous variables and chi-square test for categorical variables. Asthma -related costs in 2013 were also analyzed using a generalized linear model with a gamma distribution and log link, adjusted for patient demographics (age, gender, region, and insurance type) and Quan-Charlson comorbidity score. A total of 65,359 patients were included: 63,597 (97.3%) PA patients and 1,762 SA patients (2.7%). Compared with the PA cohort, the SA cohort was older (mean age = 50.8 years vs. 46.5 years, P < 0.001) and had higher mean comorbidity score (1.47 vs. 1.31, P< 0.001). The mean count of all asthma medications fills was 2.2-fold (2012) and 2.1-fold (2013) higher in the SA cohort, compared with the PA cohort (P< 0.001). Mean PDC for all oral and inhaled controller therapy was also higher in the SA cohort compared with the PA cohort (0.80 vs. 0.65, P< 0.001). SA patients had a significantly greater mean count of asthma -related hospitalizations, emergency room visits, and ambulatory visits in 2012 and 2013 (P< 0.001). Unadjusted mean annual asthma -related costs in the SA versus PA cohorts were $6,496 versus $2,739 (P < 0.001) in 2012 and $5,174 versus $1,775 (P< 0.001) in 2013. Higher asthma -related costs were driven by greater mean annual asthma medication costs in 2012 ($4,545 vs. $1,738, P< 0.001) and 2013 ($4,068 vs. $1,348, P< 0.001). Adjusted mean annual asthma -related costs in 2013 were $3,336 greater (cost ratio =2.878, P< 0.001) in the SA cohort, and adjusted mean annual asthma medication costs were $2,672 higher (cost ratio=2.982, P< 0.001) in the SA cohort. Patients with SA who experienced 2 or more exacerbations had 2.1-fold greater use of controller medications across both study years and were more adherent to controller therapy than patients with PA. Despite more intensive pharmacotherapy, SA patients incurred 2.9-fold higher adjusted asthma -related costs and 3-fold higher adjusted asthma medication costs than PA patients. Patients with SA consistently demonstrated a higher rate of health care utilization. Funding for this study (HO-14-14443) was provided by GlaxoSmithKline (GSK). All listed authors meet the criteria for authorship set forth by the International Committee for Medical Journal Editors. Albers, Forshag, and Yancey are employees of GSK and hold stock in GSK. Dalal, Nagar, and Ortega were employees of GSK at the time this research was conducted. Chastek and Korrer are employees of Optum, which received consulting fees from GSK for research related to this study. Study concept and design were contributed by Chastek, Nagar, and Dalal. Korrer took the lead in data collection, along with Chastek, and data interpretation was performed by Chastek, Ortega, Forshag, and Dalal. The manuscript was written by Chastek and Dalal and revised by Albers and Yancy, assisted by the other authors.
+27348285	0	15	Economic Burden	T081	C1512163
+27348285	19	26	Illness	T184	C0221423
+27348285	33	41	Patients	T101	C0030705
+27348285	47	60	Severe Asthma	T033	C0581126
+27348285	74	86	Care Setting	T073,T093	C4034203
+27348285	105	120	pharmacotherapy	T061	C0013216
+27348285	137	143	number	T081	C0237753
+27348285	147	155	patients	T101	C0030705
+27348285	161	174	severe asthma	T033	C0581126
+27348285	180	190	inadequate	T080	C0205412
+27348285	191	198	disease	T047	C0012634
+27348285	199	206	control	T080	C0243148
+27348285	208	216	Patients	T101	C0030705
+27348285	222	235	severe asthma	T033	C0581126
+27348285	240	250	experience	T041	C0596545
+27348285	251	264	exacerbations	T033	C0349790
+27348285	285	306	health care resources	T081	C0683535
+27348285	311	317	assess	T052	C1516048
+27348285	318	338	health care resource	T081	C0683535
+27348285	339	350	utilization	T169	C0042153
+27348285	366	371	costs	T081	C0085123
+27348285	378	386	patients	T101	C0030705
+27348285	392	402	persistent	T079	C0205322
+27348285	403	416	severe asthma	T033	C0581126
+27348285	421	432	experienced	T041	C0596545
+27348285	433	446	exacerbations	T033	C0349790
+27348285	461	469	patients	T101	C0030705
+27348285	475	485	persistent	T079	C0205322
+27348285	500	506	asthma	T047	C0004096
+27348285	513	526	retrospective	T080	C1514923
+27348285	527	535	analysis	T062	C0936012
+27348285	541	580	national administrative claims database	T170	C0242356
+27348285	581	591	identified	T080	C0205396
+27348285	592	600	patients	T101	C0030705
+27348285	601	605	aged	T032	C0001779
+27348285	611	616	years	T079	C0439234
+27348285	636	649	medical claim	UnknownType	C0586198
+27348285	658	664	asthma	T047	C0004096
+27348285	665	674	diagnosis	T033	C0011900
+27348285	702	709	medical	T033	C2136534
+27348285	714	731	pharmacy coverage	T033	C2114292
+27348285	740	750	commercial	T170	C0680536
+27348285	754	777	Medicare Advantage plan	T064	C3844556
+27348285	822	830	Patients	T101	C0030705
+27348285	836	844	assigned	T169	C1516050
+27348285	874	881	cohorts	T098	C0599755
+27348285	884	901	persistent asthma	T047	C3266628
+27348285	903	905	PA	T047	C3266628
+27348285	910	923	severe asthma	T033	C0581126
+27348285	925	927	SA	T033	C0581126
+27348285	957	966	algorithm	T170	C0002045
+27348285	976	982	asthma	T047	C0004096
+27348285	992	1012	health care resource	T081	C0683535
+27348285	1013	1016	use	T169	C0457083
+27348285	1021	1036	pharmacy claims	T033	C2114292
+27348285	1041	1062	controller medication	T121	C0013227
+27348285	1064	1066	SA	T033	C0581126
+27348285	1067	1075	patients	T101	C0030705
+27348285	1093	1097	meet	T067	C1550543
+27348285	1098	1100	PA	T047	C3266628
+27348285	1101	1109	criteria	T078	C0243161
+27348285	1124	1132	evidence	T078	C3887511
+27348285	1139	1159	asthma exacerbations	T033	C0349790
+27348285	1169	1175	Asthma	T047	C0004096
+27348285	1185	1205	health care resource	T081	C0683535
+27348285	1206	1217	utilization	T169	C0042153
+27348285	1222	1227	costs	T081	C0085123
+27348285	1233	1241	computed	T052	C1880157
+27348285	1247	1253	asthma	T047	C0004096
+27348285	1254	1264	medication	T058	C2081612
+27348285	1265	1268	use	T169	C0457083
+27348285	1270	1276	rescue	T169	C0039798
+27348285	1281	1299	controller therapy	T169	C0039798
+27348285	1305	1319	medical claims	UnknownType	C0586198
+27348285	1328	1334	asthma	T047	C0004096
+27348285	1335	1344	diagnosis	T033	C0011900
+27348285	1352	1368	primary position	T082	C0444508
+27348285	1387	1396	Adherence	T169	C1510802
+27348285	1400	1418	controller therapy	T169	C0039798
+27348285	1423	1431	assessed	T052	C1516048
+27348285	1441	1445	days	T079	C0439228
+27348285	1459	1485	proportion of days covered	T079	C1254367
+27348285	1487	1490	PDC	T079	C1254367
+27348285	1517	1522	claim	UnknownType	C0586198
+27348285	1527	1545	controller therapy	T169	C0039798
+27348285	1555	1566	Differences	T080	C1705242
+27348285	1579	1581	PA	T047	C3266628
+27348285	1586	1588	SA	T033	C0581126
+27348285	1589	1596	cohorts	T098	C0599755
+27348285	1602	1610	analyzed	T062	C0936012
+27348285	1614	1620	t-test	T170	C0871472
+27348285	1625	1645	continuous variables	T080	C0439828
+27348285	1650	1665	chi-square test	T170	C0008041
+27348285	1670	1691	categorical variables	T080	C0439828
+27348285	1693	1699	Asthma	T047	C0004096
+27348285	1709	1714	costs	T081	C0085123
+27348285	1733	1741	analyzed	T062	C0936012
+27348285	1762	1774	linear model	T081	C0023732
+27348285	1782	1800	gamma distribution	T081	C1708185
+27348285	1805	1813	log link	T081,T170	C0026348
+27348285	1815	1823	adjusted	T169	C0456081
+27348285	1828	1835	patient	T101	C0030705
+27348285	1836	1848	demographics	T185	C1698647
+27348285	1850	1853	age	T032	C0001779
+27348285	1855	1861	gender	T032	C0079399
+27348285	1863	1869	region	T083	C0017446
+27348285	1875	1889	insurance type	T170	C0680873
+27348285	1895	1926	Quan-Charlson comorbidity score	T081	C0449820
+27348285	1946	1954	patients	T101	C0030705
+27348285	1985	1987	PA	T047	C3266628
+27348285	1988	1996	patients	T101	C0030705
+27348285	2007	2009	SA	T033	C0581126
+27348285	2010	2018	patients	T101	C0030705
+27348285	2027	2035	Compared	T052	C1707455
+27348285	2045	2047	PA	T047	C3266628
+27348285	2048	2054	cohort	T098	C0599755
+27348285	2060	2062	SA	T033	C0581126
+27348285	2063	2069	cohort	T098	C0599755
+27348285	2074	2079	older	T098	C3826770
+27348285	2081	2089	mean age	T032	C0001779
+27348285	2097	2102	years	T079	C0439234
+27348285	2112	2117	years	T079	C0439234
+27348285	2150	2167	comorbidity score	T081	C0449820
+27348285	2217	2223	asthma	T047	C0004096
+27348285	2224	2235	medications	T058	C2081612
+27348285	2296	2298	SA	T033	C0581126
+27348285	2299	2306	cohort,	T098	C0599755
+27348285	2307	2315	compared	T052	C1707455
+27348285	2325	2327	PA	T047	C3266628
+27348285	2328	2334	cohort	T098	C0599755
+27348285	2352	2355	PDC	T079	C1254367
+27348285	2364	2368	oral	T122	C1272919
+27348285	2373	2380	inhaled	T040	C0004048
+27348285	2381	2399	controller therapy	T061	C0087111
+27348285	2423	2425	SA	T033	C0581126
+27348285	2426	2432	cohort	T098	C0599755
+27348285	2433	2441	compared	T052	C1707455
+27348285	2451	2453	PA	T047	C3266628
+27348285	2454	2460	cohort	T098	C0599755
+27348285	2488	2490	SA	T033	C0581126
+27348285	2491	2499	patients	T101	C0030705
+27348285	2520	2538	greater mean count	T081	C1704243
+27348285	2542	2548	asthma	T047	C0004096
+27348285	2558	2574	hospitalizations	T058	C0019993
+27348285	2576	2597	emergency room visits	T058	C0586082
+27348285	2603	2620	ambulatory visits	T033	C4035875
+27348285	2673	2679	asthma	T047	C0004096
+27348285	2689	2694	costs	T081	C0010186
+27348285	2702	2704	SA	T033	C0581126
+27348285	2712	2714	PA	T047	C3266628
+27348285	2715	2722	cohorts	T098	C0599755
+27348285	2821	2827	asthma	T047	C0004096
+27348285	2837	2842	costs	T081	C0010186
+27348285	2878	2884	asthma	T047	C0004096
+27348285	2885	2895	medication	T058	C2081612
+27348285	2896	2901	costs	T081	C0010186
+27348285	2980	2988	Adjusted	T169	C0456081
+27348285	3001	3007	asthma	T047	C0004096
+27348285	3017	3022	costs	T081	C0010186
+27348285	3052	3062	cost ratio	T081	C0392762
+27348285	3088	3090	SA	T033	C0581126
+27348285	3091	3097	cohort	T098	C0599755
+27348285	3103	3111	adjusted	T169	C0456081
+27348285	3124	3130	asthma	T047	C0004096
+27348285	3131	3141	medication	T058	C2081612
+27348285	3142	3147	costs	T081	C0010186
+27348285	3203	3205	SA	T033	C0581126
+27348285	3206	3212	cohort	T098	C0599755
+27348285	3214	3222	Patients	T101	C0030705
+27348285	3228	3230	SA	T033	C0581126
+27348285	3235	3246	experienced	T041	C0596545
+27348285	3257	3270	exacerbations	T033	C0349790
+27348285	3292	3295	use	T169	C0457083
+27348285	3299	3321	controller medications	T061	C0087111
+27348285	3340	3345	years	T079	C0439234
+27348285	3360	3368	adherent	T169	C0334154
+27348285	3372	3390	controller therapy	T169	C0039798
+27348285	3396	3404	patients	T101	C0030705
+27348285	3410	3412	PA	T047	C3266628
+27348285	3437	3452	pharmacotherapy	T061	C0013216
+27348285	3454	3456	SA	T033	C0581126
+27348285	3457	3465	patients	T101	C0030705
+27348285	3491	3499	adjusted	T169	C0456081
+27348285	3500	3506	asthma	T047	C0004096
+27348285	3516	3521	costs	T081	C0010186
+27348285	3540	3548	adjusted	T169	C0456081
+27348285	3549	3555	asthma	T047	C0004096
+27348285	3556	3566	medication	T058	C2081612
+27348285	3567	3572	costs	T081	C0010186
+27348285	3578	3580	PA	T047	C3266628
+27348285	3581	3589	patients	T101	C0030705
+27348285	3591	3599	Patients	T101	C0030705
+27348285	3605	3607	SA	T033	C0581126
+27348285	3608	3620	consistently	T078	C0332290
+27348285	3651	3662	health care	T058	C0086388
+27348285	3663	3674	utilization	T169	C0042153
+27348285	3676	3683	Funding	T081	C0243098
+27348285	3693	3698	study	T062	C2603343
+27348285	3729	3744	GlaxoSmithKline	T093	C1552903
+27348285	3746	3749	GSK	T093	C1552903
+27348285	3763	3770	authors	T097	C3812881
+27348285	3771	3775	meet	T067	C1550543
+27348285	3780	3788	criteria	T078	C0243161
+27348285	3793	3803	authorship	T057	C0004351
+27348285	3821	3872	International Committee for Medical Journal Editors	T096	C2699414
+27348285	3874	3880	Albers	T170	C0805191
+27348285	3882	3889	Forshag	T170	C0805191
+27348285	3895	3901	Yancey	T170	C0805191
+27348285	3906	3915	employees	T097	C0599987
+27348285	3919	3922	GSK	T093	C1552903
+27348285	3941	3944	GSK	T093	C1552903
+27348285	3946	3951	Dalal	T170	C0805191
+27348285	3953	3958	Nagar	T170	C0805191
+27348285	3964	3970	Ortega	T170	C0805191
+27348285	3976	3985	employees	T097	C0599987
+27348285	3989	3992	GSK	T093	C1552903
+27348285	4000	4004	time	T079	C0040223
+27348285	4010	4018	research	T062	C0035168
+27348285	4034	4041	Chastek	T170	C0805191
+27348285	4046	4052	Korrer	T170	C0805191
+27348285	4057	4066	employees	T097	C0599987
+27348285	4070	4075	Optum	T093	C0596660
+27348285	4092	4107	consulting fees	T081	C0015751
+27348285	4113	4116	GSK	T093	C1552903
+27348285	4121	4129	research	T062	C0035168
+27348285	4146	4151	study	T062	C2603343
+27348285	4153	4166	Study concept	T078	C0178566
+27348285	4171	4177	design	T052	C1707689
+27348285	4183	4194	contributed	T052	C1880177
+27348285	4198	4205	Chastek	T170	C0805191
+27348285	4207	4212	Nagar	T170	C0805191
+27348285	4218	4223	Dalal	T170	C0805191
+27348285	4225	4231	Korrer	T170	C0805191
+27348285	4249	4264	data collection	T062	C0010995
+27348285	4277	4284	Chastek	T170	C0805191
+27348285	4290	4309	data interpretation	T081	C0010998
+27348285	4327	4334	Chastek	T170	C0805191
+27348285	4336	4342	Ortega	T170	C0805191
+27348285	4344	4351	Forshag	T170	C0805191
+27348285	4357	4362	Dalal	T170	C0805191
+27348285	4368	4378	manuscript	T073,T170	C0600659
+27348285	4394	4401	Chastek	T170	C0805191
+27348285	4406	4411	Dalal	T170	C0805191
+27348285	4416	4423	revised	T169	C3244319
+27348285	4427	4433	Albers	T170	C0805191
+27348285	4438	4443	Yancy	T170	C0805191
+27348285	4445	4453	assisted	T080	C1269765
+27348285	4467	4474	authors	T097	C3812881

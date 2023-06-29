@@ -1,0 +1,80 @@
+27294526|t|Glycolysis determines dichotomous regulation of T cell subsets in hypoxia
+27294526|a|Hypoxia occurs in many pathological conditions, including chronic inflammation and tumors, and is considered to be an inhibitor of T cell function. However, robust T cell responses occur at many hypoxic inflammatory sites, suggesting that functions of some subsets are stimulated under low oxygen conditions. Here, we investigated how hypoxic conditions influence human T cell functions and found that, in contrast to naive and central memory T cells (TN and TCM), hypoxia enhances the proliferation, viability, and cytotoxic action of effector memory T cells (TEM). Enhanced TEM expansion in hypoxia corresponded to high hypoxia-inducible factor 1α (HIF1α) expression and glycolytic activity compared with that observed in TN and TCM. We determined that the glycolytic enzyme GAPDH negatively regulates HIF1A expression by binding to adenylate-uridylate-rich elements in the 3'-UTR region of HIF1A mRNA in glycolytically inactive TN and TCM. Conversely, active glycolysis with decreased GAPDH availability in TEM resulted in elevated HIF1α expression. Furthermore, GAPDH overexpression reduced HIF1α expression and impaired proliferation and survival of T cells in hypoxia, indicating that high glycolytic metabolism drives increases in HIF1α to enhance TEM function during hypoxia. This work demonstrates that glycolytic metabolism regulates the translation of HIF1A to determine T cell responses to hypoxia and implicates GAPDH as a potential mechanism for controlling T cell function in peripheral tissue.
+27294526	0	10	Glycolysis	T038	UMLS:C0017952
+27294526	48	62	T cell subsets	T017	UMLS:C0080202
+27294526	66	73	hypoxia	T038	UMLS:C0242184
+27294526	74	81	Hypoxia	T038	UMLS:C0242184
+27294526	97	120	pathological conditions	T038	UMLS:C0030660
+27294526	132	152	chronic inflammation	T038	UMLS:C0021376
+27294526	157	163	tumors	T038	UMLS:C0027651
+27294526	205	211	T cell	T017	UMLS:C0039194
+27294526	212	220	function	T038	UMLS:C0007613
+27294526	238	244	T cell	T017	UMLS:C0039194
+27294526	245	254	responses	T038	UMLS:C1318468
+27294526	269	276	hypoxic	T038	UMLS:C0242184
+27294526	290	295	sites	T082	UMLS:C0205145
+27294526	331	338	subsets	T017	UMLS:C0080202
+27294526	360	381	low oxygen conditions	T033	UMLS:C0700292
+27294526	409	416	hypoxic	T038	UMLS:C0242184
+27294526	438	443	human	T204	UMLS:C0086418
+27294526	444	450	T cell	T017	UMLS:C0039194
+27294526	451	460	functions	T038	UMLS:C0007613
+27294526	492	497	naive	T017	UMLS:C3641721
+27294526	502	524	central memory T cells	T017	UMLS:C4289823
+27294526	526	528	TN	T017	UMLS:C3641721
+27294526	533	536	TCM	T017	UMLS:C4289823
+27294526	539	546	hypoxia	T038	UMLS:C0242184
+27294526	560	573	proliferation	T038	UMLS:C0596873
+27294526	575	584	viability	T038	UMLS:C0007620
+27294526	610	633	effector memory T cells	T017	UMLS:C4289596
+27294526	635	638	TEM	T017	UMLS:C4289596
+27294526	650	653	TEM	T017	UMLS:C4289596
+27294526	654	663	expansion	T038	UMLS:C0007595
+27294526	667	674	hypoxia	T038	UMLS:C0242184
+27294526	696	723	hypoxia-inducible factor 1α	T017	UMLS:C1333897
+27294526	725	730	HIF1α	T017	UMLS:C1333897
+27294526	732	742	expression	T038	UMLS:C0017262
+27294526	747	757	glycolytic	T038	UMLS:C0017952
+27294526	798	800	TN	T017	UMLS:C3641721
+27294526	805	808	TCM	T017	UMLS:C4289823
+27294526	833	843	glycolytic	T038	UMLS:C0017952
+27294526	844	856	enzyme GAPDH	T103	UMLS:C3536868
+27294526	878	883	HIF1A	T017	UMLS:C1333897
+27294526	884	894	expression	T038	UMLS:C0017262
+27294526	898	942	binding to adenylate-uridylate-rich elements	T038	UMLS:C1148850
+27294526	950	963	3'-UTR region	T082	UMLS:C0600600
+27294526	967	977	HIF1A mRNA	T017	UMLS:C1333897
+27294526	981	995	glycolytically	T038	UMLS:C0017952
+27294526	1005	1007	TN	T017	UMLS:C3641721
+27294526	1012	1015	TCM	T017	UMLS:C4289823
+27294526	1036	1046	glycolysis	T038	UMLS:C0017952
+27294526	1062	1067	GAPDH	T103	UMLS:C3536868
+27294526	1084	1087	TEM	T017	UMLS:C4289596
+27294526	1109	1114	HIF1α	T017	UMLS:C1333897
+27294526	1115	1125	expression	T038	UMLS:C0017262
+27294526	1140	1145	GAPDH	T103	UMLS:C3536868
+27294526	1146	1160	overexpression	T038	UMLS:C1514559
+27294526	1169	1174	HIF1α	T017	UMLS:C1333897
+27294526	1175	1185	expression	T038	UMLS:C0017262
+27294526	1199	1212	proliferation	T038	UMLS:C0596873
+27294526	1217	1225	survival	T038	UMLS:C0007620
+27294526	1229	1236	T cells	T017	UMLS:C0039194
+27294526	1240	1247	hypoxia	T038	UMLS:C0242184
+27294526	1265	1280	high glycolytic	T038	UMLS:C0017952
+27294526	1281	1291	metabolism	T038	UMLS:C0025519
+27294526	1312	1317	HIF1α	T017	UMLS:C1333897
+27294526	1329	1332	TEM	T017	UMLS:C4289596
+27294526	1333	1341	function	T038	UMLS:C0007613
+27294526	1349	1356	hypoxia	T038	UMLS:C0242184
+27294526	1386	1396	glycolytic	T038	UMLS:C0017952
+27294526	1397	1407	metabolism	T038	UMLS:C0025519
+27294526	1422	1433	translation	T038	UMLS:C1519614
+27294526	1437	1442	HIF1A	T017	UMLS:C1333897
+27294526	1456	1462	T cell	T017	UMLS:C0039194
+27294526	1463	1472	responses	T038	UMLS:C1318468
+27294526	1476	1483	hypoxia	T038	UMLS:C0242184
+27294526	1499	1504	GAPDH	T103	UMLS:C3536868
+27294526	1546	1552	T cell	T017	UMLS:C0039194
+27294526	1553	1561	function	T038	UMLS:C0007613
+27294526	1565	1575	peripheral	T082	UMLS:C0205100
+27294526	1576	1582	tissue	T017	UMLS:C0040300

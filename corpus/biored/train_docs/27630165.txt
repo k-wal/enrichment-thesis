@@ -1,0 +1,56 @@
+27630165|t|Long-Lived CD4+IFN-g+ T Cells rather than Short-Lived CD4+IFN-g+IL-10+ T Cells Initiate Rapid IL-10 Production To Suppress Anamnestic T Cell Responses during Secondary Malaria Infection.
+27630165|a|CD4(+) T cells that produce IFN-g are the source of host-protective IL-10 during primary infection with a number of different pathogens, including Plasmodium spp. The fate of these CD4(+)IFN-g(+)IL-10(+) T cells following clearance of primary infection and their subsequent influence on the course of repeated infections is, however, presently unknown. In this study, utilizing IFN-g-yellow fluorescent protein (YFP) and IL-10-GFP dual reporter mice, we show that primary malaria infection-induced CD4(+)YFP(+)GFP(+) T cells have limited memory potential, do not stably express IL-10, and are disproportionately lost from the Ag-experienced CD4(+) T cell memory population during the maintenance phase postinfection. CD4(+)YFP(+)GFP(+) T cells generally exhibited a short-lived effector rather than effector memory T cell phenotype postinfection and expressed high levels of PD-1, Lag-3, and TIGIT, indicative of cellular exhaustion. Consistently, the surviving CD4(+)YFP(+)GFP(+) T cell-derived cells were unresponsive and failed to proliferate during the early phase of secondary infection. In contrast, CD4(+)YFP(+)GFP(-) T cell-derived cells expanded rapidly and upregulated IL-10 expression during secondary infection. Correspondingly, CD4(+) T cells were the major producers within an accelerated and amplified IL-10 response during the early stage of secondary malaria infection. Notably, IL-10 exerted quantitatively stronger regulatory effects on innate and CD4(+) T cell responses during primary and secondary infections, respectively. The results in this study significantly improve our understanding of the durability of IL-10-producing CD4(+) T cells postinfection and provide information on how IL-10 may contribute to optimized parasite control and prevention of immune-mediated pathology during repeated malaria infections.
+27630165	11	14	CD4	GeneOrGeneProduct	12504
+27630165	15	20	IFN-g	GeneOrGeneProduct	15978
+27630165	54	57	CD4	GeneOrGeneProduct	12504
+27630165	58	63	IFN-g	GeneOrGeneProduct	15978
+27630165	64	69	IL-10	GeneOrGeneProduct	16153
+27630165	94	99	IL-10	GeneOrGeneProduct	16153
+27630165	168	185	Malaria Infection	DiseaseOrPhenotypicFeature	D008288
+27630165	187	190	CD4	GeneOrGeneProduct	12504
+27630165	215	220	IFN-g	GeneOrGeneProduct	15978
+27630165	255	260	IL-10	GeneOrGeneProduct	16153
+27630165	276	285	infection	DiseaseOrPhenotypicFeature	D007239
+27630165	368	371	CD4	GeneOrGeneProduct	12504
+27630165	374	379	IFN-g	GeneOrGeneProduct	15978
+27630165	382	387	IL-10	GeneOrGeneProduct	16153
+27630165	430	439	infection	DiseaseOrPhenotypicFeature	D007239
+27630165	565	570	IFN-g	GeneOrGeneProduct	15978
+27630165	608	613	IL-10	GeneOrGeneProduct	16153
+27630165	632	636	mice	OrganismTaxon	10090
+27630165	659	676	malaria infection	DiseaseOrPhenotypicFeature	D008288
+27630165	685	688	CD4	GeneOrGeneProduct	12504
+27630165	765	770	IL-10	GeneOrGeneProduct	16153
+27630165	828	831	CD4	GeneOrGeneProduct	12504
+27630165	904	907	CD4	GeneOrGeneProduct	12504
+27630165	1062	1066	PD-1	GeneOrGeneProduct	18566
+27630165	1068	1073	Lag-3	GeneOrGeneProduct	16768
+27630165	1079	1084	TIGIT	GeneOrGeneProduct	100043314
+27630165	1149	1152	CD4	GeneOrGeneProduct	12504
+27630165	1269	1278	infection	DiseaseOrPhenotypicFeature	D007239
+27630165	1293	1296	CD4	GeneOrGeneProduct	12504
+27630165	1366	1371	IL-10	GeneOrGeneProduct	16153
+27630165	1400	1409	infection	DiseaseOrPhenotypicFeature	D007239
+27630165	1428	1431	CD4	GeneOrGeneProduct	12504
+27630165	1504	1509	IL-10	GeneOrGeneProduct	16153
+27630165	1555	1572	malaria infection	DiseaseOrPhenotypicFeature	D008288
+27630165	1583	1588	IL-10	GeneOrGeneProduct	16153
+27630165	1654	1657	CD4	GeneOrGeneProduct	12504
+27630165	1820	1825	IL-10	GeneOrGeneProduct	16153
+27630165	1836	1839	CD4	GeneOrGeneProduct	12504
+27630165	1896	1901	IL-10	GeneOrGeneProduct	16153
+27630165	2007	2025	malaria infections	DiseaseOrPhenotypicFeature	D008288
+27630165	Association	15978	D008288	No
+27630165	Association	15978	100043314	Novel
+27630165	Association	15978	16768	Novel
+27630165	Association	15978	18566	Novel
+27630165	Association	16153	D008288	No
+27630165	Association	16153	100043314	Novel
+27630165	Association	16153	16768	Novel
+27630165	Association	16153	18566	Novel
+27630165	Association	12504	D008288	No
+27630165	Association	12504	100043314	Novel
+27630165	Association	12504	16768	Novel
+27630165	Association	12504	18566	Novel
+27630165	Association	12504	15978	No
+27630165	Association	12504	16153	No

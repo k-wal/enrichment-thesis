@@ -1,0 +1,86 @@
+28542641|t|Platelet proteome reveals novel pathways of platelet activation and platelet - mediated immunoregulation in dengue
+28542641|a|Dengue is the most prevalent human arbovirus disease worldwide. Dengue virus (DENV) infection causes syndromes varying from self-limiting febrile illness to severe dengue. Although dengue pathophysiology is not completely understood, it is widely accepted that increased inflammation plays important roles in dengue pathogenesis. Platelets are blood cells classically known as effectors of hemostasis which have been increasingly recognized to have major immune and inflammatory activities. Nevertheless, the phenotype and effector functions of platelets in dengue pathogenesis are not completely understood. Here we used quantitative proteomics to investigate the protein content of platelets in clinical samples from patients with dengue compared to platelets from healthy donors. Our assays revealed a set of 252 differentially abundant proteins. In silico analyses associated these proteins with key molecular events including platelet activation and inflammatory responses, and with events not previously attributed to platelets during dengue infection including antigen processing and presentation, proteasome activity, and expression of histones. From these results, we conducted functional assays using samples from a larger cohort of patients and demonstrated evidence for platelet activation indicated by P-selectin (CD62P) translocation and secretion of granule-stored chemokines by platelets. In addition, we found evidence that DENV infection triggers HLA class I synthesis and surface expression by a mechanism depending on functional proteasome activity. Furthermore, we demonstrate that cell-free histone H2A released during dengue infection binds to platelets, increasing platelet activation. These findings are consistent with functional importance of HLA class I, proteasome subunits, and histones that we found exclusively in proteome analysis of platelets in samples from dengue patients. Our study provides the first in-depth characterization of the platelet proteome in dengue, and sheds light on new mechanisms of platelet activation and platelet - mediated immune and inflammatory responses.
+28542641	0	8	Platelet	T017	UMLS:C0005821
+28542641	9	17	proteome	T103	UMLS:C0751973
+28542641	44	63	platelet activation	T038	UMLS:C0032173
+28542641	68	76	platelet	T017	UMLS:C0005821
+28542641	88	104	immunoregulation	T038	UMLS:C0678889
+28542641	108	114	dengue	T038	UMLS:C0011311
+28542641	115	121	Dengue	T038	UMLS:C0011311
+28542641	144	149	human	T204	UMLS:C0086418
+28542641	168	177	worldwide	T082	UMLS:C0332464
+28542641	179	208	Dengue virus (DENV) infection	T038	UMLS:C0011311
+28542641	216	225	syndromes	T038	UMLS:C0039082
+28542641	253	268	febrile illness	T038	UMLS:C0743841
+28542641	272	285	severe dengue	T038	UMLS:C0019100
+28542641	296	302	dengue	T038	UMLS:C0011311
+28542641	337	347	understood	T038	UMLS:C0162340
+28542641	386	398	inflammation	T038	UMLS:C0021368
+28542641	424	430	dengue	T038	UMLS:C0011311
+28542641	431	443	pathogenesis	T038	UMLS:C0699748
+28542641	445	454	Platelets	T017	UMLS:C0005821
+28542641	459	470	blood cells	T017	UMLS:C0005773
+28542641	505	515	hemostasis	T038	UMLS:C0019116
+28542641	638	656	effector functions	T038	UMLS:C0007613
+28542641	660	669	platelets	T017	UMLS:C0005821
+28542641	673	679	dengue	T038	UMLS:C0011311
+28542641	680	692	pathogenesis	T038	UMLS:C0699748
+28542641	712	722	understood	T038	UMLS:C0162340
+28542641	750	760	proteomics	T058	UMLS:C1327760
+28542641	780	795	protein content	T058	UMLS:C0202202
+28542641	799	808	platelets	T017	UMLS:C0005821
+28542641	821	828	samples	T031	UMLS:C0178913
+28542641	848	854	dengue	T038	UMLS:C0011311
+28542641	867	876	platelets	T017	UMLS:C0005821
+28542641	890	896	donors	T098	UMLS:C0005795
+28542641	902	908	assays	T058	UMLS:C1510438
+28542641	955	963	proteins	T103	UMLS:C0033684
+28542641	975	983	analyses	T062	UMLS:C0936012
+28542641	1001	1009	proteins	T103	UMLS:C0033684
+28542641	1046	1065	platelet activation	T038	UMLS:C0032173
+28542641	1070	1092	inflammatory responses	T038	UMLS:C1155266
+28542641	1139	1148	platelets	T017	UMLS:C0005821
+28542641	1156	1162	dengue	T038	UMLS:C0011311
+28542641	1163	1172	infection	T038	UMLS:C3714514
+28542641	1183	1190	antigen	T103	UMLS:C0003320
+28542641	1220	1239	proteasome activity	T038	UMLS:C1622946
+28542641	1245	1255	expression	T038	UMLS:C1171362
+28542641	1259	1267	histones	T103	UMLS:C0019652
+28542641	1313	1319	assays	T058	UMLS:C1510438
+28542641	1348	1354	cohort	T098	UMLS:C0599755
+28542641	1397	1416	platelet activation	T038	UMLS:C0032173
+28542641	1417	1426	indicated	T033	UMLS:C1444656
+28542641	1430	1440	P-selectin	T103	UMLS:C0134835
+28542641	1442	1447	CD62P	T103	UMLS:C0134835
+28542641	1449	1462	translocation	T038	UMLS:C0599893
+28542641	1467	1476	secretion	T038	UMLS:C0036536
+28542641	1495	1505	chemokines	T103	UMLS:C0282554
+28542641	1509	1518	platelets	T017	UMLS:C0005821
+28542641	1536	1541	found	T033	UMLS:C0150312
+28542641	1556	1570	DENV infection	T038	UMLS:C0011311
+28542641	1592	1601	synthesis	T038	UMLS:C0597295
+28542641	1606	1613	surface	T082	UMLS:C0205148
+28542641	1614	1624	expression	T038	UMLS:C1171362
+28542641	1664	1683	proteasome activity	T038	UMLS:C1622946
+28542641	1718	1739	cell-free histone H2A	T103	UMLS:C0019646
+28542641	1756	1772	dengue infection	T038	UMLS:C0011311
+28542641	1773	1778	binds	T038	UMLS:C1167622
+28542641	1782	1791	platelets	T017	UMLS:C0005821
+28542641	1804	1823	platelet activation	T038	UMLS:C0032173
+28542641	1831	1839	findings	T033	UMLS:C0243095
+28542641	1898	1908	proteasome	T103	UMLS:C0208355
+28542641	1909	1917	subunits	T103	UMLS:C0599220
+28542641	1923	1931	histones	T103	UMLS:C0019652
+28542641	1940	1945	found	T033	UMLS:C0150312
+28542641	1961	1969	proteome	T103	UMLS:C0751973
+28542641	1982	1991	platelets	T017	UMLS:C0005821
+28542641	1995	2002	samples	T031	UMLS:C0178913
+28542641	2008	2014	dengue	T038	UMLS:C0011311
+28542641	2029	2034	study	T062	UMLS:C2603343
+28542641	2087	2095	platelet	T017	UMLS:C0005821
+28542641	2096	2104	proteome	T103	UMLS:C0751973
+28542641	2108	2114	dengue	T038	UMLS:C0011311
+28542641	2153	2172	platelet activation	T038	UMLS:C0032173
+28542641	2177	2185	platelet	T017	UMLS:C0005821
+28542641	2197	2203	immune	T038	UMLS:C0301872
+28542641	2208	2230	inflammatory responses	T038	UMLS:C1155266

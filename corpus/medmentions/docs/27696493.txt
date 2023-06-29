@@ -1,0 +1,76 @@
+27696493|t|Time trends in the health care burden and mortality of acute on chronic liver failure in the United States
+27696493|a|Acute on chronic liver failure (ACLF) is associated with multisystem organ failure and poor prognosis in hospitalized patients with cirrhosis. We aimed to determine time trends in the epidemiology, economic burden, and mortality of ACLF in the United States. The National Inpatient Sample database was queried between 2001 and 2011. ACLF was defined as two or more extrahepatic organ failures in patients with cirrhosis. The primary outcomes were trends in hospitalizations, hospital costs, and inpatient mortality. The number of hospitalizations for cirrhosis in the United States nearly doubled from 371,000 in 2001 to 659,000 in 2011. The prevalence of ACLF among those hospitalizations increased from 1.5% (n = 5,400) to 5% (n = 32,300). The inpatient costs increased 2-fold for cirrhosis ($4.8 billion to $9.8 billion) and 5-fold ($320 million to $1.7 billion) for ACLF. In 2011, the cost per hospitalization for ACLF was 3.5-fold higher than that for cirrhosis ($53,570 versus $15,193). The in-hospital fatality rates decreased from 65% to 50% for ACLF and from 10% to 7% for cirrhosis. The organ failure trends in ACLF showed an increasing proportion of cardiovascular and cerebral and decreasing proportion of respiratory and renal failure. Age, male sex, and the number and types of organ failure were predictors of death in ACLF. Cirrhosis and ACLF represent a substantial and increasing health and economic burden in the United States; these data highlight an urgent need for research on pathophysiological mechanisms and effective therapy as well as for education of health care providers of its importance in the care of patients with cirrhosis. (Hepatology 2016).
+27696493	0	11	Time trends	T079	C1254367
+27696493	19	37	health care burden	T081	C0162698
+27696493	42	51	mortality	T081	C0205848
+27696493	55	85	acute on chronic liver failure	T047	C3850141
+27696493	93	106	United States	T083	C0041703
+27696493	107	137	Acute on chronic liver failure	T047	C3850141
+27696493	139	143	ACLF	T047	C3850141
+27696493	164	189	multisystem organ failure	T046	C0026766
+27696493	199	208	prognosis	T058	C0033325
+27696493	212	233	hospitalized patients	T101	C0870668
+27696493	239	248	cirrhosis	T047	C1623038
+27696493	272	283	time trends	T079	C1254367
+27696493	291	303	epidemiology	T091	C0014507
+27696493	305	320	economic burden	T081	C1512163
+27696493	326	335	mortality	T081	C0205848
+27696493	339	343	ACLF	T047	C3850141
+27696493	351	364	United States	T083	C0041703
+27696493	370	404	National Inpatient Sample database	T170	C0242356
+27696493	409	416	queried	T170	C1522634
+27696493	440	444	ACLF	T047	C3850141
+27696493	472	499	extrahepatic organ failures	T033	C0561718
+27696493	503	511	patients	T101	C0030705
+27696493	517	526	cirrhosis	T047	C1623038
+27696493	564	580	hospitalizations	T058	C0019993
+27696493	582	596	hospital costs	T081	C0206174
+27696493	602	621	inpatient mortality	T081	C0178686
+27696493	637	653	hospitalizations	T058	C0019993
+27696493	658	667	cirrhosis	T047	C1623038
+27696493	675	688	United States	T083	C0041703
+27696493	749	759	prevalence	T081	C0033105
+27696493	763	767	ACLF	T047	C3850141
+27696493	780	796	hospitalizations	T058	C0019993
+27696493	797	806	increased	T081	C0205217
+27696493	853	862	inpatient	T101	C0021562
+27696493	869	878	increased	T081	C0205217
+27696493	890	899	cirrhosis	T047	C1623038
+27696493	977	981	ACLF	T047	C3850141
+27696493	1005	1020	hospitalization	T058	C0019993
+27696493	1025	1029	ACLF	T047	C3850141
+27696493	1064	1073	cirrhosis	T047	C1623038
+27696493	1104	1130	in-hospital fatality rates	T081	C0282250
+27696493	1131	1140	decreased	T081	C0205216
+27696493	1161	1165	ACLF	T047	C3850141
+27696493	1189	1198	cirrhosis	T047	C1623038
+27696493	1204	1224	organ failure trends	T033	C0561718
+27696493	1228	1232	ACLF	T047	C3850141
+27696493	1243	1253	increasing	T081	C0205217
+27696493	1254	1264	proportion	T081	C1709707
+27696493	1268	1282	cardiovascular	T029	C3887460
+27696493	1287	1295	cerebral	T023	C0006104
+27696493	1300	1310	decreasing	T081	C0205216
+27696493	1311	1321	proportion	T081	C1709707
+27696493	1325	1336	respiratory	T047	C1145670
+27696493	1341	1354	renal failure	T047	C0035078
+27696493	1356	1359	Age	T032	C0001779
+27696493	1361	1369	male sex	T032	C0086582
+27696493	1399	1412	organ failure	T033	C0561718
+27696493	1418	1428	predictors	T170	C0683956
+27696493	1432	1437	death	T033	C1306577
+27696493	1441	1445	ACLF	T047	C3850141
+27696493	1447	1456	Cirrhosis	T047	C1623038
+27696493	1461	1465	ACLF	T047	C3850141
+27696493	1494	1504	increasing	T081	C0205217
+27696493	1516	1531	economic burden	T081	C1512163
+27696493	1539	1552	United States	T083	C0041703
+27696493	1594	1602	research	T062	C0035168
+27696493	1606	1624	pathophysiological	T169	C0031847
+27696493	1625	1635	mechanisms	T169	C0441712
+27696493	1640	1657	effective therapy	T061	C0087111
+27696493	1673	1682	education	T065	C0018701
+27696493	1686	1707	health care providers	T097	C0018724
+27696493	1733	1737	care	T058	C0086388
+27696493	1741	1749	patients	T101	C0030705
+27696493	1755	1764	cirrhosis	T047	C1623038

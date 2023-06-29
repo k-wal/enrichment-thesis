@@ -1,0 +1,134 @@
+27352367|t|Propensity - matched Analysis of Outcomes and Hospital Charges for Anterior Versus Posterior Cervical Fusion for Cervical Spondylotic Myelopathy
+27352367|a|Retrospective analysis of data from the Nationwide Inpatient Sample, a nationally representative, all-payer database of inpatient diagnoses and procedures in the United States. The objective of this study is to compare anterior cervical fusion (ACF) to posterior cervical fusion (PCF) in the treatment of cervical spondylotic myelopathy (CSM). Previous studies used retrospective single - institution level data to quantify outcomes for CSM patients fusion. It is unclear whether ACF or PCF is superior with regards to charges or outcomes for the treatment of CSM. We used Nationwide Inpatient Sample data to compare ACF to PCF in the management of CSM. All patients 18 years or older with a diagnosis of CSM between 1998 and 2011 were included. ACF patients were matched to PCF patients using propensity scores based on patient characteristics (number of levels fused, spine alignment, comorbidities), hospital characteristics, and patient demographics. Multivariable regression was used to measure the effect of treatment assignment on in- hospital charges, length of hospital stay, in-hospital mortality, discharge disposition, and dysphagia diagnosis. From 1998 to 2011, we identified 109,728 hospitalizations with a CSM diagnosis. Of these patients, 45,629 (41.6%) underwent ACF and 14,439 (13.2%) underwent PCF. The PCF cohort incurred an average of $41,683 more in-hospital charges (P<0.001, inflation adjusted to 2011 dollars) and remained in hospital an average of 2.4 days longer (P<0.001) than the ACF cohort. The ACF cohort was just as likely to die in the hospital [odds ratio 0.91; 95% confidence interval (CI), 0.68-1.2], 3.0 times more likely to be discharged to home or self-care (95% CI, 2.9-3.2), and 2.5 times more likely to experience dysphagia (95% CI, 2.0-3.1) than the PCF cohort. In treating CSM, ACF led to lower hospital charges, shorter hospital stays, and an increased likelihood of being discharged to home relative to PCF.
+27352367	0	10	Propensity	T081	C2718044
+27352367	13	20	matched	T062	C0150103
+27352367	21	29	Analysis	T062	C0936012
+27352367	33	41	Outcomes	T169	C1274040
+27352367	46	62	Hospital Charges	T081	C0206175
+27352367	67	75	Anterior	UnknownType	C0742204
+27352367	83	108	Posterior Cervical Fusion	UnknownType	C0742206
+27352367	113	144	Cervical Spondylotic Myelopathy	T047	C0158242
+27352367	145	158	Retrospective	T080	C1514923
+27352367	159	167	analysis	T062	C0936012
+27352367	171	175	data	T078	C1511726
+27352367	185	195	Nationwide	T082	C0332464
+27352367	196	205	Inpatient	T101	C0021562
+27352367	206	212	Sample	T167	C0370003
+27352367	243	261	all-payer database	T170	C0242356
+27352367	265	274	inpatient	T101	C0021562
+27352367	275	299	diagnoses and procedures	T060	C0430022
+27352367	307	320	United States	T083	C0041703
+27352367	344	349	study	T062	C2603343
+27352367	356	363	compare	T052	C1707455
+27352367	364	388	anterior cervical fusion	UnknownType	C0742204
+27352367	390	393	ACF	UnknownType	C0742204
+27352367	398	423	posterior cervical fusion	UnknownType	C0742206
+27352367	425	428	PCF	UnknownType	C0742206
+27352367	437	446	treatment	T061	C0087111
+27352367	450	481	cervical spondylotic myelopathy	T047	C0158242
+27352367	483	486	CSM	T047	C0158242
+27352367	489	497	Previous	T079	C0205156
+27352367	498	505	studies	T062	C2603343
+27352367	506	510	used	T169	C1524063
+27352367	511	524	retrospective	T080	C1514923
+27352367	525	531	single	T081	C0205171
+27352367	534	545	institution	T093	C2607850
+27352367	546	556	level data	T078	C1511726
+27352367	560	568	quantify	T081	C1709793
+27352367	569	577	outcomes	T169	C1274040
+27352367	582	585	CSM	T047	C0158242
+27352367	586	594	patients	T101	C0030705
+27352367	595	601	fusion	T061	C1293131
+27352367	609	616	unclear	T033	C3845108
+27352367	625	628	ACF	UnknownType	C0742204
+27352367	632	635	PCF	UnknownType	C0742206
+27352367	639	647	superior	T081	C1704243
+27352367	664	671	charges	T081	C0206175
+27352367	675	683	outcomes	T169	C1274040
+27352367	692	701	treatment	T061	C0087111
+27352367	705	708	CSM	T047	C0158242
+27352367	718	728	Nationwide	T082	C0332464
+27352367	729	738	Inpatient	T101	C0021562
+27352367	739	745	Sample	T167	C0370003
+27352367	746	750	data	T078	C1511726
+27352367	754	761	compare	T052	C1707455
+27352367	762	765	ACF	UnknownType	C0742204
+27352367	769	772	PCF	UnknownType	C0742206
+27352367	780	790	management	T058	C0376636
+27352367	794	797	CSM	T047	C0158242
+27352367	803	811	patients	T101	C0030705
+27352367	812	829	18 years or older	T032	C0001779
+27352367	837	846	diagnosis	T060	C0430022
+27352367	850	853	CSM	T047	C0158242
+27352367	891	894	ACF	UnknownType	C0742204
+27352367	895	903	patients	T101	C0030705
+27352367	909	916	matched	T062	C0150103
+27352367	920	923	PCF	UnknownType	C0742206
+27352367	924	932	patients	T101	C0030705
+27352367	939	956	propensity scores	T081	C2718044
+27352367	966	989	patient characteristics	T201	C0815172
+27352367	991	1013	number of levels fused	T081	C0449952
+27352367	1032	1045	comorbidities	T078	C0009488
+27352367	1048	1056	hospital	T073,T093	C0019994
+27352367	1057	1072	characteristics	T080	C1521970
+27352367	1078	1098	patient demographics	T201	C1717025
+27352367	1100	1124	Multivariable regression	T170	C0034980
+27352367	1129	1133	used	T169	C1524063
+27352367	1137	1144	measure	T081	C0079809
+27352367	1149	1155	effect	T080	C1280500
+27352367	1159	1168	treatment	T061	C0087111
+27352367	1169	1179	assignment	T058	C0025114
+27352367	1187	1203	hospital charges	T081	C0206175
+27352367	1205	1228	length of hospital stay	T079	C0023303
+27352367	1230	1251	in-hospital mortality	T080	C0085556
+27352367	1253	1274	discharge disposition	T201	C4019243
+27352367	1280	1289	dysphagia	T047	C0011168
+27352367	1290	1299	diagnosis	T060	C0430022
+27352367	1323	1333	identified	T080	C0205396
+27352367	1342	1358	hospitalizations	T058	C0019993
+27352367	1366	1369	CSM	T047	C0158242
+27352367	1370	1379	diagnosis	T060	C0430022
+27352367	1390	1398	patients	T101	C0030705
+27352367	1425	1428	ACF	UnknownType	C0742204
+27352367	1458	1461	PCF	UnknownType	C0742206
+27352367	1467	1470	PCF	UnknownType	C0742206
+27352367	1471	1477	cohort	T098	C0599755
+27352367	1490	1497	average	T081	C1510992
+27352367	1509	1513	more	T081	C0205172
+27352367	1514	1533	in-hospital charges	T081	C0206175
+27352367	1544	1553	inflation	T081	C0021398
+27352367	1554	1562	adjusted	T169	C0456081
+27352367	1571	1578	dollars	T081	C0562019
+27352367	1596	1604	hospital	T073,T093	C0019994
+27352367	1608	1615	average	T081	C1510992
+27352367	1623	1627	days	T079	C0439228
+27352367	1628	1634	longer	T080	C0205166
+27352367	1654	1657	ACF	UnknownType	C0742204
+27352367	1658	1664	cohort	T098	C0599755
+27352367	1670	1673	ACF	UnknownType	C0742204
+27352367	1674	1680	cohort	T098	C0599755
+27352367	1703	1706	die	T040	C0011065
+27352367	1714	1722	hospital	T073,T093	C0019994
+27352367	1724	1734	odds ratio	T081	C0028873
+27352367	1745	1764	confidence interval	T081	C0009667
+27352367	1766	1768	CI	T081	C0009667
+27352367	1810	1828	discharged to home	T061	C0184713
+27352367	1832	1841	self-care	T073,T093	C0036603
+27352367	1847	1849	CI	T081	C0009667
+27352367	1890	1900	experience	T041	C0596545
+27352367	1901	1910	dysphagia	T047	C0011168
+27352367	1916	1918	CI	T081	C0009667
+27352367	1938	1941	PCF	UnknownType	C0742206
+27352367	1942	1948	cohort	T098	C0599755
+27352367	1953	1961	treating	T169	C1522326
+27352367	1962	1965	CSM	T047	C0158242
+27352367	1967	1970	ACF	UnknownType	C0742204
+27352367	1978	1983	lower	T080	C0205251
+27352367	1984	2000	hospital charges	T081	C0206175
+27352367	2002	2009	shorter	T081	C1806781
+27352367	2010	2024	hospital stays	T079	C3489408
+27352367	2033	2042	increased	T081	C0205217
+27352367	2043	2053	likelihood	T081	C0033204
+27352367	2063	2081	discharged to home	T061	C0184713
+27352367	2082	2090	relative	T080	C0205345
+27352367	2094	2097	PCF	UnknownType	C0742206

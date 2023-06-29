@@ -1,0 +1,81 @@
+28456571|t|Erythropoietin activates SIRT1 to protect human cardiomyocytes against doxorubicin - induced mitochondrial dysfunction and toxicity
+28456571|a|The hormone erythropoietin (EPO) has been demonstrated to protect against chemotherapy drug doxorubicin (DOX)- induced cardiotoxicity, but the underlying mechanism remains obscure. We hypothesized that silent mating type information regulation 2 homolog 1 (SIRT1), an NAD(+)-dependent protein deacetylase that activates peroxisome proliferator-activated receptor gamma coactivator 1-alpha (PGC-1α), plays a crucial role in regulating mitochondrial function and mediating the beneficial effect of EPO. Our study in human cardiomyocyte AC16 cells showed that DOX - induced cytotoxicity and mitochondrial dysfunction, as manifested by decreased mitochondrial DNA (mtDNA) copy number, mitochondrial membrane potential, and increased mitochondrial superoxide accumulation, can be mitigated by EPO pretreatment. EPO was found to upregulate SIRT1 activity and protein expression to reverse DOX - induced acetylation of PGC-1α and suppression of a suite of PGC-1α - activated genes involved in mitochondrial function and biogenesis, such as nuclear respiratory factor-1 (NRF1), mitochondrial transcription factor A (TFAM), citrate synthase (CS), superoxide dismutase 2 (SOD2), cytochrome c oxidase IV (COXIV), and voltage-dependent anion channel (VDAC). Silencing of SIRT1 via small RNA interference sensitized AC16 cells to DOX - induced cytotoxicity and reduction in mtDNA copy number. Although with SIRT1 silenced, EPO could reverse to some extent DOX - induced mitochondrial superoxide accumulation, loss of mitochondrial membrane potential and ATP depletion, it failed to normalize protein expression of PGC-1α and its downstream genes. Taken together, our results indicated that EPO may activate SIRT1 to enhance mitochondrial function and protect against DOX - induced cardiotoxicity.
+28456571	0	14	Erythropoietin	T103	UMLS:C0014822
+28456571	25	30	SIRT1	T103	UMLS:C1101544
+28456571	42	47	human	T204	UMLS:C0086418
+28456571	48	62	cardiomyocytes	T017	UMLS:C0225828
+28456571	71	82	doxorubicin	T103	UMLS:C0013089
+28456571	93	118	mitochondrial dysfunction	T033	UMLS:C4021734
+28456571	123	131	toxicity	T037	UMLS:C0600688
+28456571	136	143	hormone	T103	UMLS:C0019932
+28456571	144	158	erythropoietin	T103	UMLS:C0014822
+28456571	160	163	EPO	T103	UMLS:C0014822
+28456571	206	218	chemotherapy	T058	UMLS:C3665472
+28456571	219	223	drug	T103	UMLS:C0013227
+28456571	224	235	doxorubicin	T103	UMLS:C0013089
+28456571	237	240	DOX	T103	UMLS:C0013089
+28456571	251	265	cardiotoxicity	T037	UMLS:C0876994
+28456571	334	387	silent mating type information regulation 2 homolog 1	T103	UMLS:C1101544
+28456571	389	394	SIRT1	T103	UMLS:C1101544
+28456571	400	436	NAD(+)-dependent protein deacetylase	T103	UMLS:C1101544
+28456571	452	520	peroxisome proliferator-activated receptor gamma coactivator 1-alpha	T103	UMLS:C1452082
+28456571	522	528	PGC-1α	T103	UMLS:C1452082
+28456571	628	631	EPO	T103	UMLS:C0014822
+28456571	637	642	study	T062	UMLS:C2603343
+28456571	646	651	human	T204	UMLS:C0086418
+28456571	652	665	cardiomyocyte	T017	UMLS:C0225828
+28456571	666	676	AC16 cells	T017	UMLS:C0682523
+28456571	689	692	DOX	T103	UMLS:C0013089
+28456571	703	715	cytotoxicity	T038	UMLS:C0596402
+28456571	720	745	mitochondrial dysfunction	T033	UMLS:C4021734
+28456571	774	791	mitochondrial DNA	T103	UMLS:C0012929
+28456571	793	798	mtDNA	T103	UMLS:C0012929
+28456571	813	845	mitochondrial membrane potential	T038	UMLS:C1720920
+28456571	861	885	mitochondrial superoxide	T103	UMLS:C1743497
+28456571	886	898	accumulation	T033	UMLS:C4055506
+28456571	920	923	EPO	T103	UMLS:C0014822
+28456571	938	941	EPO	T103	UMLS:C0014822
+28456571	955	965	upregulate	T038	UMLS:C0041904
+28456571	966	971	SIRT1	T103	UMLS:C1101544
+28456571	985	1003	protein expression	T038	UMLS:C1171362
+28456571	1015	1018	DOX	T103	UMLS:C0013089
+28456571	1029	1040	acetylation	T038	UMLS:C1521754
+28456571	1044	1050	PGC-1α	T103	UMLS:C1452082
+28456571	1055	1066	suppression	T038	UMLS:C0038855
+28456571	1081	1087	PGC-1α	T103	UMLS:C1452082
+28456571	1100	1105	genes	T017	UMLS:C0017337
+28456571	1165	1193	nuclear respiratory factor-1	T103	UMLS:C1565068
+28456571	1195	1199	NRF1	T103	UMLS:C1565068
+28456571	1202	1238	mitochondrial transcription factor A	T103	UMLS:C0965025
+28456571	1240	1244	TFAM	T103	UMLS:C0965025
+28456571	1247	1263	citrate synthase	T103	UMLS:C0008855
+28456571	1265	1267	CS	T103	UMLS:C0008855
+28456571	1270	1292	superoxide dismutase 2	T103	UMLS:C0968147
+28456571	1294	1298	SOD2	T103	UMLS:C0968147
+28456571	1301	1324	cytochrome c oxidase IV	T103	UMLS:C0010760
+28456571	1326	1331	COXIV	T103	UMLS:C0010760
+28456571	1338	1369	voltage-dependent anion channel	T103	UMLS:C1506024
+28456571	1371	1375	VDAC	T103	UMLS:C1506024
+28456571	1378	1387	Silencing	T038	UMLS:C0598496
+28456571	1391	1396	SIRT1	T017	UMLS:C1423062
+28456571	1407	1423	RNA interference	T038	UMLS:C1136031
+28456571	1424	1445	sensitized AC16 cells	T017	UMLS:C0312864
+28456571	1449	1452	DOX	T103	UMLS:C0013089
+28456571	1463	1475	cytotoxicity	T038	UMLS:C0596402
+28456571	1493	1498	mtDNA	T103	UMLS:C0012929
+28456571	1526	1531	SIRT1	T017	UMLS:C1423062
+28456571	1532	1540	silenced	T038	UMLS:C0598496
+28456571	1542	1545	EPO	T103	UMLS:C0014822
+28456571	1575	1578	DOX	T103	UMLS:C0013089
+28456571	1589	1613	mitochondrial superoxide	T103	UMLS:C1743497
+28456571	1614	1626	accumulation	T033	UMLS:C4055506
+28456571	1636	1668	mitochondrial membrane potential	T038	UMLS:C1720920
+28456571	1673	1676	ATP	T103	UMLS:C0001480
+28456571	1711	1729	protein expression	T038	UMLS:C1171362
+28456571	1733	1739	PGC-1α	T103	UMLS:C1452082
+28456571	1748	1758	downstream	T082	UMLS:C0522506
+28456571	1759	1764	genes	T017	UMLS:C0017337
+28456571	1809	1812	EPO	T103	UMLS:C0014822
+28456571	1826	1831	SIRT1	T103	UMLS:C2720167
+28456571	1886	1889	DOX	T103	UMLS:C0013089
+28456571	1900	1914	cardiotoxicity	T037	UMLS:C0876994

@@ -1,0 +1,56 @@
+27784277|t|Air pollution, neighbourhood and maternal - level factors modify the effect of smoking on birth weight: a multilevel analysis in British Columbia, Canada
+27784277|a|Maternal smoking during pregnancy negatively impacts fetal growth, but the effect is not homogenous across the population. We sought to determine how the relationship between cigarette use and fetal growth is modified by the social and physical environment. Birth records with covariates were obtained from the BC Perinatal Database Registry (N = 232,291). Maternal smoking status was self-reported as the number of cigarettes smoked per day usually at the first prenatal care visit. Census dissemination areas (DAs) were used as neighbourhood - level units and linked to individual births using residential postal codes to assign exposure to particulate air pollution (PM2.5) and neighbourhood - level attributes such as socioeconomic status (SES), proportion of post-secondary education, immigrant density and living in a rural place. Random coefficient models were used with cigarettes /day modeled with a random slope to estimate its between- DA variability and test cross-level interactions with the neighbourhood - level variables on continuous birth weight. A significant negative and non-linear association was found between maternal smoking and birth weight. There was significant between- DA intercept variability in birth weight as well as between- DA slope variability of maternal smoking on birth weight of which 68 and 30 % respectively was explained with the inclusion of DA - level variables and their cross-level interactions. High DA - level SES had a strong positive association with birth weight but the effect was moderated with increased cigarettes /day. Conversely, heavy smokers showed the largest increases in birth weight with rising neighbourhood education levels. Increased levels of PM2.5 and immigrant density were negatively associated with birth weight, but showed positive interactions with increased levels of smoking. Older maternal age and suspected drug or alcohol use both had negative interactions with increased levels of maternal smoking. Maternal smoking had a negative and non-linear dose-response association with birth weight which was highly variable between neighbourhood s and evidence of effect modification with neighbourhood - level factors. These results suggest that focusing exclusively on individual behaviours may have limited success in improving outcomes without addressing the contextual influences at the neighbourhood - level. Further studies are needed to corroborate our findings and to understand how neighbourhood - level attributes interact with smoking to affect birth outcomes.
+27784277	33	41	maternal	T033	UMLS:C1858460
+27784277	106	125	multilevel analysis	T062	UMLS:C0814909
+27784277	129	145	British Columbia	T082	UMLS:C0006193
+27784277	147	153	Canada	T082	UMLS:C0006823
+27784277	154	162	Maternal	T033	UMLS:C1858460
+27784277	178	187	pregnancy	T038	UMLS:C0032961
+27784277	188	198	negatively	T033	UMLS:C0205160
+27784277	207	219	fetal growth	T038	UMLS:C0743925
+27784277	243	253	homogenous	T082	UMLS:C0439713
+27784277	347	359	fetal growth	T038	UMLS:C0743925
+27784277	363	371	modified	T033	UMLS:C3840684
+27784277	390	410	physical environment	T082	UMLS:C0557720
+27784277	465	495	BC Perinatal Database Registry	T170	UMLS:C0242356
+27784277	511	519	Maternal	T033	UMLS:C1858460
+27784277	520	534	smoking status	T201	UMLS:C1519386
+27784277	539	552	self-reported	T062	UMLS:C0681906
+27784277	611	636	first prenatal care visit	T058	UMLS:C1504204
+27784277	645	658	dissemination	T082	UMLS:C0205221
+27784277	659	664	areas	T082	UMLS:C0017446
+27784277	666	669	DAs	T082	UMLS:C0017446
+27784277	726	736	individual	T098	UMLS:C0237401
+27784277	737	743	births	T038	UMLS:C0005615
+27784277	797	808	particulate	T103	UMLS:C1510837
+27784277	944	953	immigrant	T098	UMLS:C0282163
+27784277	1010	1016	models	T170	UMLS:C3161035
+27784277	1048	1055	modeled	T170	UMLS:C3161035
+27784277	1101	1103	DA	T082	UMLS:C0017446
+27784277	1233	1241	negative	T033	UMLS:C0205160
+27784277	1287	1295	maternal	T033	UMLS:C1858460
+27784277	1353	1355	DA	T082	UMLS:C0017446
+27784277	1414	1416	DA	T082	UMLS:C0017446
+27784277	1438	1446	maternal	T033	UMLS:C1858460
+27784277	1541	1543	DA	T082	UMLS:C0017446
+27784277	1603	1605	DA	T082	UMLS:C0017446
+27784277	1631	1639	positive	T033	UMLS:C1446409
+27784277	1743	1756	heavy smokers	T033	UMLS:C0459847
+27784277	1828	1844	education levels	T033	UMLS:C1553770
+27784277	1866	1871	PM2.5	T103	UMLS:C1510837
+27784277	1876	1885	immigrant	T098	UMLS:C0282163
+27784277	1899	1909	negatively	T033	UMLS:C0205160
+27784277	1951	1959	positive	T033	UMLS:C1446409
+27784277	2040	2044	drug	T038	UMLS:C0242510
+27784277	2069	2077	negative	T033	UMLS:C0205160
+27784277	2116	2124	maternal	T033	UMLS:C1858460
+27784277	2134	2142	Maternal	T033	UMLS:C1858460
+27784277	2157	2165	negative	T033	UMLS:C0205160
+27784277	2298	2310	modification	T033	UMLS:C3840684
+27784277	2398	2408	individual	T098	UMLS:C0237401
+27784277	2490	2500	contextual	T038	UMLS:C0237482
+27784277	2550	2557	studies	T062	UMLS:C2603343
+27784277	2588	2596	findings	T033	UMLS:C0243095
+27784277	2604	2614	understand	T038	UMLS:C0162340
+27784277	2677	2683	affect	T038	UMLS:C0001721
+27784277	2684	2698	birth outcomes	T201	UMLS:C1286282

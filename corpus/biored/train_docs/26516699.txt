@@ -1,0 +1,125 @@
+26516699|t|Changes in microRNA (miRNA) expression during pancreatic cancer development and progression in a genetically engineered KrasG12D;Pdx1-Cre mouse (KC) model.
+26516699|a|Differential expression of microRNAs (miRNAs) has been demonstrated in various cancers, including pancreatic cancer (PC). Due to the lack of tissue samples from early-stages of PC, the stage-specific alteration of miRNAs during PC initiation and progression is largely unknown. In this study, we investigated the global miRNA expression profile and their processing machinery during PC progression using the KrasG12D;Pdx1-Cre (KC) mouse model. At 25 weeks, the miRNA microarray analysis revealed significant downregulation of miR-150, miR-494, miR-138, miR-148a, miR-216a, and miR-217 and upregulation of miR-146b, miR-205, miR-31, miR-192, and miR-21 in KC mice compared to controls. Further, expression of miRNA biosynthetic machinery including Dicer, Exportin-5, TRKRA, and TARBP2 were downregulated, while DGCR8 and Ago2 were upregulated in KC mice. In addition, from 10 to 50 weeks of age, stage-specific expression profiling of miRNA in KC mice revealed downregulation of miR-216, miR-217, miR-100, miR-345, miR-141, miR-483-3p, miR-26b, miR-150, miR-195, Let-7b and Let-96 and upregulation of miR-21, miR-205, miR-146b, miR-34c, miR-1273, miR-223 and miR-195 compared to control mice. Interestingly, the differential expression of miRNA in mice also corroborated with the miRNA expression in human PC cell lines and tissue samples; ectopic expression of Let-7b in CD18/HPAF and Capan1 cells resulted in the downregulation of KRAS and MSST1 expression. Overall, the present study aids an understanding of miRNA expression patterns during PC pathogenesis and helps to facilitate the identification of promising and novel early diagnostic/prognostic markers and therapeutic targets. 
+26516699	46	63	pancreatic cancer	DiseaseOrPhenotypicFeature	D010190
+26516699	120	124	Kras	GeneOrGeneProduct	3845
+26516699	124	128	G12D	SequenceVariant	p|SUB|G|12|D
+26516699	129	133	Pdx1	GeneOrGeneProduct	18609
+26516699	138	143	mouse	OrganismTaxon	10090
+26516699	235	242	cancers	DiseaseOrPhenotypicFeature	D009369
+26516699	254	271	pancreatic cancer	DiseaseOrPhenotypicFeature	D010190
+26516699	273	275	PC	DiseaseOrPhenotypicFeature	D010190
+26516699	333	335	PC	DiseaseOrPhenotypicFeature	D010190
+26516699	384	386	PC	DiseaseOrPhenotypicFeature	D010190
+26516699	539	541	PC	DiseaseOrPhenotypicFeature	D010190
+26516699	564	568	Kras	GeneOrGeneProduct	3845
+26516699	568	572	G12D	SequenceVariant	p|SUB|G|12|D
+26516699	573	577	Pdx1	GeneOrGeneProduct	18609
+26516699	587	592	mouse	OrganismTaxon	10090
+26516699	682	689	miR-150	GeneOrGeneProduct	387168
+26516699	691	698	miR-494	GeneOrGeneProduct	723878
+26516699	700	707	miR-138	GeneOrGeneProduct	387156,723956
+26516699	709	717	miR-148a	GeneOrGeneProduct	387166
+26516699	719	727	miR-216a	GeneOrGeneProduct	387212
+26516699	733	740	miR-217	GeneOrGeneProduct	387213
+26516699	761	769	miR-146b	GeneOrGeneProduct	751550
+26516699	771	778	miR-205	GeneOrGeneProduct	387201
+26516699	780	786	miR-31	GeneOrGeneProduct	723895
+26516699	788	795	miR-192	GeneOrGeneProduct	387187
+26516699	801	807	miR-21	GeneOrGeneProduct	387140
+26516699	814	818	mice	OrganismTaxon	10090
+26516699	903	908	Dicer	GeneOrGeneProduct	192119
+26516699	910	920	Exportin-5	GeneOrGeneProduct	72322
+26516699	922	927	TRKRA	GeneOrGeneProduct	18211
+26516699	933	939	TARBP2	GeneOrGeneProduct	21357
+26516699	966	971	DGCR8	GeneOrGeneProduct	94223
+26516699	976	980	Ago2	GeneOrGeneProduct	239528
+26516699	1004	1008	mice	OrganismTaxon	10090
+26516699	1102	1106	mice	OrganismTaxon	10090
+26516699	1134	1141	miR-216	GeneOrGeneProduct	387212
+26516699	1143	1150	miR-217	GeneOrGeneProduct	387213
+26516699	1152	1159	miR-100	GeneOrGeneProduct	723892
+26516699	1161	1168	miR-345	GeneOrGeneProduct	723946
+26516699	1170	1177	miR-141	GeneOrGeneProduct	387159
+26516699	1179	1189	miR-483-3p	GeneOrGeneProduct	723874
+26516699	1191	1198	miR-26b	GeneOrGeneProduct	387219
+26516699	1200	1207	miR-150	GeneOrGeneProduct	387168
+26516699	1209	1216	miR-195	GeneOrGeneProduct	387190
+26516699	1218	1224	Let-7b	GeneOrGeneProduct	387245
+26516699	1229	1235	Let-96	GeneOrGeneProduct	-
+26516699	1256	1262	miR-21	GeneOrGeneProduct	387140
+26516699	1264	1271	miR-205	GeneOrGeneProduct	387201
+26516699	1273	1281	miR-146b	GeneOrGeneProduct	751550
+26516699	1283	1290	miR-34c	GeneOrGeneProduct	723932
+26516699	1292	1300	miR-1273	GeneOrGeneProduct	100422821
+26516699	1302	1309	miR-223	GeneOrGeneProduct	723814
+26516699	1314	1321	miR-195	GeneOrGeneProduct	387190
+26516699	1342	1346	mice	OrganismTaxon	10090
+26516699	1403	1407	mice	OrganismTaxon	10090
+26516699	1455	1460	human	OrganismTaxon	9606
+26516699	1461	1463	PC	DiseaseOrPhenotypicFeature	D010190
+26516699	1517	1523	Let-7b	GeneOrGeneProduct	406884
+26516699	1527	1536	CD18/HPAF	CellLine	CVCL_0313
+26516699	1541	1547	Capan1	CellLine	CVCL_0237
+26516699	1588	1592	KRAS	GeneOrGeneProduct	3845
+26516699	1597	1602	MSST1	GeneOrGeneProduct	-
+26516699	1700	1702	PC	DiseaseOrPhenotypicFeature	D010190
+26516699	Association	406884	3845	Novel
+26516699	Association	387187	D010190	No
+26516699	Association	D010190	723956	No
+26516699	Association	D010190	387156	No
+26516699	Association	D010190	723878	No
+26516699	Association	D010190	p|SUB|G|12|D	No
+26516699	Association	D010190	406884	No
+26516699	Association	D010190	723814	No
+26516699	Association	D010190	100422821	No
+26516699	Association	D010190	723932	No
+26516699	Association	D010190	387245	No
+26516699	Association	D010190	387190	No
+26516699	Association	D010190	387168	No
+26516699	Association	D010190	387219	No
+26516699	Association	D010190	723874	No
+26516699	Association	D010190	387159	No
+26516699	Association	D010190	723946	No
+26516699	Association	D010190	723892	No
+26516699	Association	D010190	239528	No
+26516699	Association	D010190	94223	No
+26516699	Association	D010190	21357	No
+26516699	Association	D010190	18211	No
+26516699	Association	D010190	72322	No
+26516699	Association	D010190	192119	No
+26516699	Association	D010190	387140	No
+26516699	Association	D010190	723895	No
+26516699	Association	D010190	387201	No
+26516699	Association	D010190	751550	No
+26516699	Association	D010190	387213	No
+26516699	Association	D010190	387212	No
+26516699	Association	D010190	387166	No
+26516699	Association	D010190	3845	No
+26516699	Association	3845	723956	Novel
+26516699	Association	3845	387156	Novel
+26516699	Association	3845	723878	Novel
+26516699	Association	3845	723814	Novel
+26516699	Association	3845	100422821	Novel
+26516699	Association	3845	723932	Novel
+26516699	Association	3845	387245	Novel
+26516699	Association	3845	387190	Novel
+26516699	Association	3845	387168	Novel
+26516699	Association	3845	387219	Novel
+26516699	Association	3845	723874	Novel
+26516699	Association	3845	387159	Novel
+26516699	Association	3845	723946	Novel
+26516699	Association	3845	723892	Novel
+26516699	Association	3845	239528	Novel
+26516699	Association	3845	94223	Novel
+26516699	Association	3845	21357	Novel
+26516699	Association	3845	18211	Novel
+26516699	Association	3845	72322	Novel
+26516699	Association	3845	192119	Novel
+26516699	Association	3845	387140	Novel
+26516699	Association	3845	387187	Novel
+26516699	Association	3845	723895	Novel
+26516699	Association	3845	387201	Novel
+26516699	Association	3845	751550	Novel
+26516699	Association	3845	387213	Novel
+26516699	Association	3845	387212	Novel
+26516699	Association	3845	387166	Novel

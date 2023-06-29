@@ -1,0 +1,71 @@
+24911645|t|Behavioral and neurochemical studies in mice pretreated with garcinielliptone FC in pilocarpine-induced seizures.
+24911645|a|Garcinielliptone FC (GFC) isolated from hexanic fraction seed extract of species Platonia insignis Mart. It is widely used in folk medicine to treat skin diseases in both humans and animals as well as the seed decoction has been used to treat diarrheas and inflammatory diseases. However, there is no research on GFC effects in the central nervous system of rodents. The present study aimed to evaluate the GFC effects at doses of 25, 50 or 75 mg/kg on seizure parameters to determine their anticonvulsant activity and its effects on amino acid (r-aminobutyric acid (GABA), glutamine, aspartate and glutathione) levels as well as on acetylcholinesterase (AChE) activity in mice hippocampus after seizures. GFC produced an increased latency to first seizure, at doses 25mg/kg (20.12 + 2.20 min), 50mg/kg (20.95 + 2.21 min) or 75 mg/kg (23.43 + 1.99 min) when compared with seized mice. In addition, GABA content of mice hippocampus treated with GFC75 plus P400 showed an increase of 46.90% when compared with seized mice. In aspartate, glutamine and glutamate levels detected a decrease of 5.21%, 13.55% and 21.80%, respectively in mice hippocampus treated with GFC75 plus P400 when compared with seized mice. Hippocampus mice treated with GFC75 plus P400 showed an increase in AChE activity (63.30%) when compared with seized mice. The results indicate that GFC can exert anticonvulsant activity and reduce the frequency of installation of pilocarpine-induced status epilepticus, as demonstrated by increase in latency to first seizure and decrease in mortality rate of animals. In conclusion, our data suggest that GFC may influence in epileptogenesis and promote anticonvulsant actions in pilocarpine model by modulating the GABA and glutamate contents and of AChE activity in seized mice hippocampus. This compound may be useful to produce neuronal protection and it can be considered as an anticonvulsant agent.
+24911645	40	44	mice	OrganismTaxon	10090
+24911645	61	80	garcinielliptone FC	ChemicalEntity	C573355
+24911645	84	95	pilocarpine	ChemicalEntity	D010862
+24911645	104	112	seizures	DiseaseOrPhenotypicFeature	D012640
+24911645	114	133	Garcinielliptone FC	ChemicalEntity	C573355
+24911645	135	138	GFC	ChemicalEntity	C573355
+24911645	195	217	Platonia insignis Mart	OrganismTaxon	198787
+24911645	263	276	skin diseases	DiseaseOrPhenotypicFeature	D012871
+24911645	285	291	humans	OrganismTaxon	9606
+24911645	357	366	diarrheas	DiseaseOrPhenotypicFeature	D003967
+24911645	371	392	inflammatory diseases	DiseaseOrPhenotypicFeature	D007249
+24911645	427	430	GFC	ChemicalEntity	C573355
+24911645	521	524	GFC	ChemicalEntity	C573355
+24911645	567	574	seizure	DiseaseOrPhenotypicFeature	D012640
+24911645	660	679	r-aminobutyric acid	ChemicalEntity	D005680
+24911645	681	685	GABA	ChemicalEntity	D005680
+24911645	688	697	glutamine	ChemicalEntity	D018698
+24911645	699	708	aspartate	ChemicalEntity	D001224
+24911645	713	724	glutathione	ChemicalEntity	D005978
+24911645	747	767	acetylcholinesterase	GeneOrGeneProduct	11423
+24911645	769	773	AChE	GeneOrGeneProduct	11423
+24911645	787	791	mice	OrganismTaxon	10090
+24911645	810	818	seizures	DiseaseOrPhenotypicFeature	D012640
+24911645	820	823	GFC	ChemicalEntity	C573355
+24911645	863	870	seizure	DiseaseOrPhenotypicFeature	D012640
+24911645	993	997	mice	OrganismTaxon	10090
+24911645	1012	1016	GABA	ChemicalEntity	D005680
+24911645	1028	1032	mice	OrganismTaxon	10090
+24911645	1058	1063	GFC75	ChemicalEntity	C573355
+24911645	1069	1073	P400	ChemicalEntity	D010862
+24911645	1129	1133	mice	OrganismTaxon	10090
+24911645	1138	1147	aspartate	ChemicalEntity	D001224
+24911645	1149	1158	glutamine	ChemicalEntity	D018698
+24911645	1163	1172	glutamate	ChemicalEntity	D018698
+24911645	1245	1249	mice	OrganismTaxon	10090
+24911645	1275	1280	GFC75	ChemicalEntity	C573355
+24911645	1286	1290	P400	ChemicalEntity	D010862
+24911645	1317	1321	mice	OrganismTaxon	10090
+24911645	1335	1339	mice	OrganismTaxon	10090
+24911645	1353	1358	GFC75	ChemicalEntity	C573355
+24911645	1364	1368	P400	ChemicalEntity	D010862
+24911645	1391	1395	AChE	GeneOrGeneProduct	11423
+24911645	1440	1444	mice	OrganismTaxon	10090
+24911645	1472	1475	GFC	ChemicalEntity	C573355
+24911645	1554	1565	pilocarpine	ChemicalEntity	D010862
+24911645	1574	1592	status epilepticus	DiseaseOrPhenotypicFeature	D013226
+24911645	1642	1649	seizure	DiseaseOrPhenotypicFeature	D012640
+24911645	1730	1733	GFC	ChemicalEntity	C573355
+24911645	1805	1816	pilocarpine	ChemicalEntity	D010862
+24911645	1841	1845	GABA	ChemicalEntity	D005680
+24911645	1850	1859	glutamate	ChemicalEntity	D018698
+24911645	1876	1880	AChE	GeneOrGeneProduct	11423
+24911645	1900	1904	mice	OrganismTaxon	10090
+24911645	Negative_Correlation	D001224	D010862	Novel
+24911645	Negative_Correlation	D001224	C573355	Novel
+24911645	Positive_Correlation	D010862	D013226	No
+24911645	Positive_Correlation	D010862	11423	Novel
+24911645	Positive_Correlation	D010862	D012640	No
+24911645	Negative_Correlation	D018698	D010862	Novel
+24911645	Negative_Correlation	D018698	C573355	Novel
+24911645	Positive_Correlation	D005680	D010862	Novel
+24911645	Positive_Correlation	D005680	C573355	Novel
+24911645	Negative_Correlation	C573355	D003967	No
+24911645	Negative_Correlation	C573355	D012871	No
+24911645	Negative_Correlation	C573355	D013226	Novel
+24911645	Cotreatment	C573355	D010862	Novel
+24911645	Positive_Correlation	C573355	11423	Novel
+24911645	Negative_Correlation	C573355	D007249	No
+24911645	Negative_Correlation	C573355	D012640	Novel

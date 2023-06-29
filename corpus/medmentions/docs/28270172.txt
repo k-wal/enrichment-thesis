@@ -1,0 +1,60 @@
+28270172|t|Neoadjuvant FOLFOX chemotherapy combined with radiotherapy followed by radical resection in patients with locally advanced colon cancer
+28270172|a|Patients with locally advanced colon cancer (LACC) have a relatively poor prognosis despite radical resection and adjuvant chemotherapy. This study investigated the treatment efficacy and toxicity of neoadjuvant chemoradiotherapy in patients with LACC. We retrospectively reviewed 36 patients with LACC preoperatively treated with chemotherapy and radiotherapy. Patients were administered chemoradiotherapy, which comprised radiotherapy and neoadjuvant chemotherapy involving a 5-fluorouracil, leucovorin, and oxaliplatin regimen every 2 weeks. Median age was 64 years (45-86 years) and median follow-up period was 23.5 months (5.0-49.1 months). Seven (19.4%) patients developed grade 3 or 4 adverse events during neoadjuvant concurrent chemoradiotherapy. Pathologic responses were not evaluated in two patients who did not undergo radical resection. Of the 34 patients who underwent surgery, nine (26.4%) achieved a pathologic complete response (pCR). The 2- year estimated overall survival and disease-free survival rates were 88.7% and 73.6%, respectively. Our results demonstrated that neoadjuvant chemoradiotherapy is feasible and safe. A prominent pCR rate with an acceptable toxicity profile suggests that the multimodality therapy might be a treatment option for patients with LACC.
+28270172	0	31	Neoadjuvant FOLFOX chemotherapy	T061	C0392943
+28270172	46	58	radiotherapy	T061	C1522449
+28270172	71	88	radical resection	T061	C0728940
+28270172	92	100	patients	T101	C0030705
+28270172	106	135	locally advanced colon cancer	T191	C0007102
+28270172	136	144	Patients	T101	C0030705
+28270172	150	179	locally advanced colon cancer	T191	C0007102
+28270172	181	185	LACC	T191	C0007102
+28270172	210	219	prognosis	T058	C0033325
+28270172	228	245	radical resection	T061	C0728940
+28270172	250	271	adjuvant chemotherapy	T061	C0085533
+28270172	278	283	study	T062	C2603343
+28270172	301	319	treatment efficacy	T080	C0087113
+28270172	324	332	toxicity	T037	C0600688
+28270172	336	365	neoadjuvant chemoradiotherapy	T061	C0436307
+28270172	369	377	patients	T101	C0030705
+28270172	383	387	LACC	T191	C0007102
+28270172	420	428	patients	T101	C0030705
+28270172	434	438	LACC	T191	C0007102
+28270172	454	466	treated with	T061	C0332293
+28270172	467	479	chemotherapy	T061	C3665472
+28270172	484	496	radiotherapy	T061	C1522449
+28270172	498	506	Patients	T101	C0030705
+28270172	525	542	chemoradiotherapy	T061	C0436307
+28270172	560	572	radiotherapy	T061	C1522449
+28270172	577	601	neoadjuvant chemotherapy	T061	C3665472
+28270172	614	628	5-fluorouracil	T114,T121	C0016360
+28270172	630	640	leucovorin	T109,T121,T127	C0023413
+28270172	646	657	oxaliplatin	T109,T121	C0069717
+28270172	658	665	regimen	T061	C0040808
+28270172	674	679	weeks	T079	C0439230
+28270172	681	691	Median age	T100	C0205847
+28270172	699	704	years	T079	C0439234
+28270172	712	717	years	T079	C0439234
+28270172	756	762	months	T079	C0439231
+28270172	773	779	months	T079	C0439231
+28270172	796	804	patients	T101	C0030705
+28270172	828	842	adverse events	T046	C0877248
+28270172	850	861	neoadjuvant	T061	C0600558
+28270172	873	890	chemoradiotherapy	T061	C0436307
+28270172	892	912	Pathologic responses	T033	C4054230
+28270172	939	947	patients	T101	C0030705
+28270172	968	985	radical resection	T061	C0728940
+28270172	997	1005	patients	T101	C0030705
+28270172	1020	1027	surgery	T061	C0543467
+28270172	1053	1081	pathologic complete response	T033	C4050242
+28270172	1083	1086	pCR	T033	C4050242
+28270172	1096	1100	year	T079	C0439234
+28270172	1119	1127	survival	T081	C0038954
+28270172	1132	1153	disease-free survival	T081	C0242793
+28270172	1154	1159	rates	T081	C0038954
+28270172	1226	1255	neoadjuvant chemoradiotherapy	T061	C0436307
+28270172	1290	1293	pCR	T033	C4050242
+28270172	1318	1326	toxicity	T037	C0600688
+28270172	1353	1374	multimodality therapy	T061	C0920596
+28270172	1386	1395	treatment	T061	C0087111
+28270172	1407	1415	patients	T101	C0030705
+28270172	1421	1425	LACC	T191	C0007102

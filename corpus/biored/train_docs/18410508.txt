@@ -1,0 +1,56 @@
+18410508|t|Methamphetamine-induced neurotoxicity and microglial activation are not mediated by fractalkine receptor signaling.
+18410508|a|Methamphetamine (METH) damages dopamine (DA) nerve endings by a process that has been linked to microglial activation but the signaling pathways that mediate this response have not yet been delineated. Cardona et al. [Nat. Neurosci. 9 (2006), 917] recently identified the microglial-specific fractalkine receptor (CX3CR1) as an important mediator of MPTP-induced neurodegeneration of DA neurons. Because the CNS damage caused by METH and MPTP is highly selective for the DA neuronal system in mouse models of neurotoxicity, we hypothesized that the CX3CR1 plays a role in METH-induced neurotoxicity and microglial activation. Mice in which the CX3CR1 gene has been deleted and replaced with a cDNA encoding enhanced green fluorescent protein (eGFP) were treated with METH and examined for striatal neurotoxicity. METH depleted DA, caused microglial activation, and increased body temperature in CX3CR1 knockout mice to the same extent and over the same time course seen in wild-type controls. The effects of METH in CX3CR1 knockout mice were not gender-dependent and did not extend beyond the striatum. Striatal microglia expressing eGFP constitutively show morphological changes after METH that are characteristic of activation. This response was restricted to the striatum and contrasted sharply with unresponsive eGFP-microglia in surrounding brain areas that are not damaged by METH. We conclude from these studies that CX3CR1 signaling does not modulate METH neurotoxicity or microglial activation. Furthermore, it appears that striatal-resident microglia respond to METH with an activation cascade and then return to a surveying state without undergoing apoptosis or migration.
+18410508	0	15	Methamphetamine	ChemicalEntity	D008694
+18410508	24	37	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+18410508	84	104	fractalkine receptor	GeneOrGeneProduct	13051
+18410508	116	131	Methamphetamine	ChemicalEntity	D008694
+18410508	133	137	METH	ChemicalEntity	D008694
+18410508	147	155	dopamine	ChemicalEntity	D004298
+18410508	157	159	DA	ChemicalEntity	D004298
+18410508	408	428	fractalkine receptor	GeneOrGeneProduct	13051
+18410508	430	436	CX3CR1	GeneOrGeneProduct	13051
+18410508	466	470	MPTP	ChemicalEntity	D015632
+18410508	479	496	neurodegeneration	DiseaseOrPhenotypicFeature	D009422
+18410508	500	502	DA	ChemicalEntity	D004298
+18410508	524	534	CNS damage	DiseaseOrPhenotypicFeature	D009422
+18410508	545	549	METH	ChemicalEntity	D008694
+18410508	554	558	MPTP	ChemicalEntity	D015632
+18410508	587	589	DA	ChemicalEntity	D004298
+18410508	609	614	mouse	OrganismTaxon	10090
+18410508	625	638	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+18410508	665	671	CX3CR1	GeneOrGeneProduct	13051
+18410508	688	692	METH	ChemicalEntity	D008694
+18410508	701	714	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+18410508	742	746	Mice	OrganismTaxon	10090
+18410508	760	766	CX3CR1	GeneOrGeneProduct	13051
+18410508	823	857	enhanced green fluorescent protein	ChemicalEntity	C485184
+18410508	859	863	eGFP	ChemicalEntity	C485184
+18410508	883	887	METH	ChemicalEntity	D008694
+18410508	914	927	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+18410508	929	933	METH	ChemicalEntity	D008694
+18410508	943	945	DA	ChemicalEntity	D004298
+18410508	1011	1017	CX3CR1	GeneOrGeneProduct	13051
+18410508	1027	1031	mice	OrganismTaxon	10090
+18410508	1124	1128	METH	ChemicalEntity	D008694
+18410508	1132	1138	CX3CR1	GeneOrGeneProduct	13051
+18410508	1148	1152	mice	OrganismTaxon	10090
+18410508	1249	1253	eGFP	ChemicalEntity	C485184
+18410508	1302	1306	METH	ChemicalEntity	D008694
+18410508	1432	1436	eGFP	ChemicalEntity	C485184
+18410508	1498	1502	METH	ChemicalEntity	D008694
+18410508	1540	1546	CX3CR1	GeneOrGeneProduct	13051
+18410508	1575	1579	METH	ChemicalEntity	D008694
+18410508	1580	1593	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+18410508	1688	1692	METH	ChemicalEntity	D008694
+18410508	Association	C485184	D008694	Novel
+18410508	Association	D015632	D004298	No
+18410508	Positive_Correlation	D015632	D009422	No
+18410508	Association	D015632	D020258	No
+18410508	Association	13051	C485184	Novel
+18410508	Association	13051	D015632	No
+18410508	Association	13051	D004298	No
+18410508	Association	13051	D009422	No
+18410508	Association	D009422	D004298	No
+18410508	Positive_Correlation	D009422	D008694	No
+18410508	Negative_Correlation	D008694	D004298	No
+18410508	Positive_Correlation	D008694	D020258	No

@@ -1,0 +1,87 @@
+28026030|t|Evaluation of left ventricular diastolic function profile in patients with pulmonary hypertension due to heart failure with preserved ejection fraction
+28026030|a|Echocardiography plays an important role in the diagnostic work up of heart failure with preserved ejection fraction (HFpEF). We sought to determine the left ventricular (LV) diastolic profile by echocardiography in patients diagnosed with pulmonary hypertension (PH) due to PH-HFpEF. The study of LV diastolic function by echocardiography has limitations in patients with HFpEF and PH, and certain LV diastolic determinations convey a worse prognosis. We included patients with postcapillary PH and diagnosis of PH-HFpEF. Investigators reviewed Doppler echocardiograms completed within 3 months of the diagnostic right heart catheterization. We included 149 patients with a mean ± standard deviation age of 63 ± 14 years; 58% were women. LV diastolic function profile was determined as normal (41%), grade I (34%), and grade II and grade III (25%). Pulmonary artery pressure and pulmonary vascular resistance were higher and cardiac output lower in patients with LV diastolic dysfunction profile; however, pulmonary artery wedge pressure was not significantly different among grades of LV diastolic function. Although there was an association between the presence of LV diastolic dysfunction profile and long-term survival (P = 0.03), it disappeared when adjusting for age and gender. Right ventricular (RV) dysfunction, paradoxical septal motion, and higher RV systolic pressure remained the only variables significantly associated with poor survival. The profile of LV diastolic dysfunction by conventional echocardiography is highly variable in patients with PH-HFpEF and has no significant impact on long-term survival. A more severe RV function and higher right ventricle systolic pressure were associated with worse survival.
+28026030	0	10	Evaluation	T058	C0220825
+28026030	14	49	left ventricular diastolic function	T042	C0080310
+28026030	61	69	patients	T101	C0030705
+28026030	75	97	pulmonary hypertension	T046	C0020542
+28026030	105	151	heart failure with preserved ejection fraction	T033	C3889077
+28026030	152	168	Echocardiography	T060	C0013516
+28026030	178	187	important	T080	C3898777
+28026030	200	210	diagnostic	T169	C0348026
+28026030	211	218	work up	T060	C0750430
+28026030	222	268	heart failure with preserved ejection fraction	T033	C3889077
+28026030	270	275	HFpEF	T033	C3889077
+28026030	291	300	determine	T080	C0521095
+28026030	305	336	left ventricular (LV) diastolic	T042	C0080310
+28026030	348	364	echocardiography	T060	C0013516
+28026030	368	376	patients	T101	C0030705
+28026030	377	386	diagnosed	T033	C0011900
+28026030	392	414	pulmonary hypertension	T046	C0020542
+28026030	416	418	PH	T046	C0020542
+28026030	427	435	PH-HFpEF	T033	C3889077
+28026030	450	471	LV diastolic function	T042	C0080310
+28026030	475	491	echocardiography	T060	C0013516
+28026030	496	507	limitations	T169	C0449295
+28026030	511	519	patients	T101	C0030705
+28026030	525	530	HFpEF	T033	C3889077
+28026030	535	537	PH	T046	C0020542
+28026030	551	563	LV diastolic	T042	C0080310
+28026030	564	578	determinations	T059	C1148554
+28026030	588	603	worse prognosis	T033	C0278252
+28026030	617	625	patients	T101	C0030705
+28026030	631	647	postcapillary PH	T047	C1283386
+28026030	652	661	diagnosis	T033	C0011900
+28026030	665	673	PH-HFpEF	T033	C3889077
+28026030	675	688	Investigators	T097	C0035173
+28026030	698	721	Doppler echocardiograms	T060	C0013520
+28026030	722	731	completed	T080	C0205197
+28026030	741	747	months	T079	C0439231
+28026030	755	765	diagnostic	T169	C0348026
+28026030	766	793	right heart catheterization	T060	C0189896
+28026030	798	806	included	T169	C0332257
+28026030	811	819	patients	T101	C0030705
+28026030	834	852	standard deviation	T081	C0871420
+28026030	853	856	age	T032	C0001779
+28026030	868	873	years	T079	C0439234
+28026030	884	889	women	T098	C0043210
+28026030	891	912	LV diastolic function	T042	C0080310
+28026030	925	935	determined	T080	C0521095
+28026030	939	945	normal	T080	C0205307
+28026030	953	960	grade I	T185	C0441800
+28026030	972	980	grade II	T185	C0441800
+28026030	985	994	grade III	T185	C0441800
+28026030	1002	1027	Pulmonary artery pressure	T034	C0428642
+28026030	1032	1061	pulmonary vascular resistance	T033	C0456261
+28026030	1067	1073	higher	T080	C0205250
+28026030	1078	1092	cardiac output	T201	C0007165
+28026030	1102	1110	patients	T101	C0030705
+28026030	1116	1148	LV diastolic dysfunction profile	UnknownType	C0745676
+28026030	1159	1190	pulmonary artery wedge pressure	T201	C0034094
+28026030	1213	1222	different	T080	C1705242
+28026030	1229	1235	grades	T185	C0441800
+28026030	1239	1260	LV diastolic function	T042	C0080310
+28026030	1284	1295	association	T080	C0439849
+28026030	1308	1316	presence	T033	C0150312
+28026030	1320	1352	LV diastolic dysfunction profile	UnknownType	C0745676
+28026030	1357	1366	long-term	T079	C0443252
+28026030	1367	1375	survival	T052	C0038952
+28026030	1422	1425	age	T032	C0001779
+28026030	1430	1436	gender	T032	C0079399
+28026030	1438	1472	Right ventricular (RV) dysfunction	T046	C0242707
+28026030	1474	1499	paradoxical septal motion	T184	C2609314
+28026030	1505	1532	higher RV systolic pressure	T033	C1168119
+28026030	1575	1585	associated	T080	C0439849
+28026030	1596	1604	survival	T052	C0038952
+28026030	1610	1617	profile	T169	C2003903
+28026030	1621	1645	LV diastolic dysfunction	UnknownType	C0745676
+28026030	1662	1678	echocardiography	T060	C0013516
+28026030	1701	1709	patients	T101	C0030705
+28026030	1715	1723	PH-HFpEF	T033	C3889077
+28026030	1747	1753	impact	T080	C4049986
+28026030	1757	1766	long-term	T079	C0443252
+28026030	1767	1775	survival	T052	C0038952
+28026030	1784	1790	severe	T080	C0205082
+28026030	1791	1802	RV function	T042	C0080311
+28026030	1807	1847	higher right ventricle systolic pressure	T033	C1168119
+28026030	1853	1868	associated with	T080	C0332281
+28026030	1875	1883	survival	T052	C0038952

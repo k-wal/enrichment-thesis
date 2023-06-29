@@ -1,0 +1,20 @@
+24742750|t|Availability of human induced pluripotent stem cell-derived cardiomyocytes in assessment of drug potential for QT prolongation.
+24742750|a|Field potential duration (FPD) in human-induced pluripotent stem cell-derived cardiomyocytes (hiPS-CMs), which can express QT interval in an electrocardiogram, is reported to be a useful tool to predict K(+) channel and Ca(2+) channel blocker effects on QT interval. However, there is no report showing that this technique can be used to predict multichannel blocker potential for QT prolongation. The aim of this study is to show that FPD from MEA (Multielectrode array) of hiPS-CMs can detect QT prolongation induced by multichannel blockers. hiPS-CMs were seeded onto MEA and FPD was measured for 2min every 10min for 30min after drug exposure for the vehicle and each drug concentration. IKr and IKs blockers concentration-dependently prolonged corrected FPD (FPDc), whereas Ca(2+) channel blockers concentration-dependently shortened FPDc. Also, the multichannel blockers Amiodarone, Paroxetine, Terfenadine and Citalopram prolonged FPDc in a concentration dependent manner. Finally, the IKr blockers, Terfenadine and Citalopram, which are reported to cause Torsade de Pointes (TdP) in clinical practice, produced early afterdepolarization (EAD). hiPS-CMs using MEA system and FPDc can predict the effects of drug candidates on QT interval. This study also shows that this assay can help detect EAD for drugs with TdP potential.
+24742750	16	21	human	OrganismTaxon	9606
+24742750	111	126	QT prolongation	DiseaseOrPhenotypicFeature	D008133
+24742750	162	167	human	OrganismTaxon	9606
+24742750	331	370	K(+) channel and Ca(2+) channel blocker	ChemicalEntity	D002121,D026902
+24742750	509	524	QT prolongation	DiseaseOrPhenotypicFeature	D008133
+24742750	623	638	QT prolongation	DiseaseOrPhenotypicFeature	D008133
+24742750	907	930	Ca(2+) channel blockers	ChemicalEntity	D002121
+24742750	1005	1015	Amiodarone	ChemicalEntity	D000638
+24742750	1017	1027	Paroxetine	ChemicalEntity	D017374
+24742750	1029	1040	Terfenadine	ChemicalEntity	D016593
+24742750	1045	1055	Citalopram	ChemicalEntity	D015283
+24742750	1135	1146	Terfenadine	ChemicalEntity	D016593
+24742750	1151	1161	Citalopram	ChemicalEntity	D015283
+24742750	1191	1209	Torsade de Pointes	DiseaseOrPhenotypicFeature	D016171
+24742750	1211	1214	TdP	DiseaseOrPhenotypicFeature	D016171
+24742750	1447	1450	TdP	DiseaseOrPhenotypicFeature	D016171
+24742750	Positive_Correlation	D015283	D016171	No
+24742750	Positive_Correlation	D016593	D016171	No

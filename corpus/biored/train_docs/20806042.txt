@@ -1,0 +1,27 @@
+20806042|t|A novel mutation in GJA8 causing congenital cataract-microcornea syndrome in a Chinese pedigree.
+20806042|a|PURPOSE: To identify the underlying genetic defect in a four-generation family of Chinese origin with autosomal dominant congenital cataract-microcornea syndrome (CCMC). METHODS: All individuals in the study underwent a full clinical examination and the details of history were collected . Genomic DNA extracted from peripheral blood was amplified by polymerase chain reaction (PCR) method and the exons of all candidate genes were sequenced. RESULTS: Direct sequencing of the encoding regions of the candidate genes revealed a heterozygous mutation c.592C-->T in exon 2 of the gap junction protein, alpha 8 (GJA8) gene. This mutation was responsible for the familial disorder through the substitution of a highly conserved arginine to tryptophan at codon 198 (p.R198W). This change co-segregated with all affected members of the family, but was not detected either in the non-carrier relatives or in the 100 normal controls. CONCLUSIONS: This report is the first to relate p.R198W mutation in GJA8 with CCMC. The result expands the mutation spectrum of GJA8 in associated with congenital cataract and microcornea, and implies that this gene has direct involvement with the development of the lens as well as the other anterior segment of the eye.
+20806042	20	24	GJA8	GeneOrGeneProduct	2703
+20806042	44	73	cataract-microcornea syndrome	DiseaseOrPhenotypicFeature	C538287
+20806042	133	147	genetic defect	DiseaseOrPhenotypicFeature	D030342
+20806042	229	258	cataract-microcornea syndrome	DiseaseOrPhenotypicFeature	C538287
+20806042	260	264	CCMC	DiseaseOrPhenotypicFeature	C538287
+20806042	647	657	c.592C-->T	SequenceVariant	c|SUB|C|592|T
+20806042	675	704	gap junction protein, alpha 8	GeneOrGeneProduct	2703
+20806042	706	710	GJA8	GeneOrGeneProduct	2703
+20806042	821	856	arginine to tryptophan at codon 198	SequenceVariant	p|SUB|R|198|W
+20806042	858	865	p.R198W	SequenceVariant	p|SUB|R|198|W
+20806042	1071	1078	p.R198W	SequenceVariant	p|SUB|R|198|W
+20806042	1091	1095	GJA8	GeneOrGeneProduct	2703
+20806042	1101	1105	CCMC	DiseaseOrPhenotypicFeature	C538287
+20806042	1151	1155	GJA8	GeneOrGeneProduct	2703
+20806042	1186	1194	cataract	DiseaseOrPhenotypicFeature	D002386
+20806042	1199	1210	microcornea	DiseaseOrPhenotypicFeature	D005124
+20806042	Positive_Correlation	c|SUB|C|592|T	D005124	Novel
+20806042	Positive_Correlation	c|SUB|C|592|T	C538287	Novel
+20806042	Positive_Correlation	D002386	c|SUB|C|592|T	Novel
+20806042	Positive_Correlation	p|SUB|R|198|W	D005124	Novel
+20806042	Positive_Correlation	p|SUB|R|198|W	D002386	Novel
+20806042	Positive_Correlation	p|SUB|R|198|W	C538287	Novel
+20806042	Association	2703	D005124	Novel
+20806042	Association	2703	D002386	Novel
+20806042	Association	C538287	2703	Novel

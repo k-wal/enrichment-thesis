@@ -1,0 +1,100 @@
+18310445|t|Bone morphogenetic protein-4 interacts with activin and GnRH to modulate gonadotrophin secretion in LbetaT2 gonadotrophs.
+18310445|a|We have shown previously that, in sheep primary pituitary cells, bone morphogenetic proteins (BMP)-4 inhibits FSHbeta mRNA expression and FSH release. In contrast, in mouse LbetaT2 gonadotrophs, others have shown a stimulatory effect of BMPs on basal or activin-stimulated FSHbeta promoter-driven transcription. As a species comparison with our previous results, we used LbetaT2 cells to investigate the effects of BMP-4 on gonadotrophin mRNA and secretion modulated by activin and GnRH. BMP-4 alone had no effect on FSH production, but enhanced the activin+GnRH-induced stimulation of FSHbeta mRNA and FSH secretion, without any effect on follistatin mRNA. BMP-4 reduced LHbeta mRNA up-regulation in response to GnRH (+/-activin) and decreased GnRH receptor expression, which would favour FSH, rather than LH, synthesis and secretion. In contrast to sheep pituitary gonadotrophs, which express only BMP receptor types IA (BMPRIA) and II (BMPRII), LbetaT2 cells also express BMPRIB. Smad1/5 phosphorylation induced by BMP-4, indicating activation of BMP signalling, was the same whether BMP-4 was used alone or combined with activin+/-GnRH. We hypothesized that activin and/or GnRH pathways may be modulated by BMP-4, but neither the activin-stimulated phosphorylation of Smad2/3 nor the GnRH-induced ERK1/2 or cAMP response element-binding phosphorylation were modified. However, the GnRH-induced activation of p38 MAPK was decreased by BMP-4. This was associated with increased FSHbeta mRNA levels and FSH secretion, but decreased LHbeta mRNA levels. These results confirm 1. BMPs as important modulators of activin and/or GnRH-stimulated gonadotrophin synthesis and release and 2. important species differences in these effects, which could relate to differences in BMP receptor expression in gonadotrophs.
+18310445	0	28	Bone morphogenetic protein-4	GeneOrGeneProduct	652
+18310445	44	51	activin	GeneOrGeneProduct	3624,83729
+18310445	56	60	GnRH	GeneOrGeneProduct	14714
+18310445	73	86	gonadotrophin	GeneOrGeneProduct	12640,14308
+18310445	100	107	LbetaT2	CellLine	CVCL_0398
+18310445	156	161	sheep	OrganismTaxon	9940
+18310445	187	222	bone morphogenetic proteins (BMP)-4	GeneOrGeneProduct	443502
+18310445	232	239	FSHbeta	GeneOrGeneProduct	443387
+18310445	260	263	FSH	GeneOrGeneProduct	443387,443538
+18310445	289	294	mouse	OrganismTaxon	10090
+18310445	295	302	LbetaT2	CellLine	CVCL_0398
+18310445	359	363	BMPs	GeneOrGeneProduct	652
+18310445	376	383	activin	GeneOrGeneProduct	16323
+18310445	395	402	FSHbeta	GeneOrGeneProduct	14308
+18310445	493	500	LbetaT2	CellLine	CVCL_0398
+18310445	537	542	BMP-4	GeneOrGeneProduct	652
+18310445	546	559	gonadotrophin	GeneOrGeneProduct	12640,14308
+18310445	592	599	activin	GeneOrGeneProduct	16323
+18310445	604	608	GnRH	GeneOrGeneProduct	14714
+18310445	610	615	BMP-4	GeneOrGeneProduct	652
+18310445	639	642	FSH	GeneOrGeneProduct	443387,443538
+18310445	672	679	activin	GeneOrGeneProduct	16323
+18310445	680	684	GnRH	GeneOrGeneProduct	14714
+18310445	708	715	FSHbeta	GeneOrGeneProduct	14308
+18310445	725	728	FSH	GeneOrGeneProduct	443387,443538
+18310445	762	773	follistatin	GeneOrGeneProduct	14313
+18310445	780	785	BMP-4	GeneOrGeneProduct	652
+18310445	794	800	LHbeta	GeneOrGeneProduct	16866
+18310445	835	839	GnRH	GeneOrGeneProduct	14714
+18310445	844	851	activin	GeneOrGeneProduct	16323
+18310445	867	880	GnRH receptor	GeneOrGeneProduct	14715
+18310445	912	915	FSH	GeneOrGeneProduct	443387,443538
+18310445	929	931	LH	GeneOrGeneProduct	12640,16866
+18310445	973	978	sheep	OrganismTaxon	9940
+18310445	1022	1068	BMP receptor types IA (BMPRIA) and II (BMPRII)	GeneOrGeneProduct	101103793,101112282
+18310445	1070	1077	LbetaT2	CellLine	CVCL_0398
+18310445	1097	1103	BMPRIB	GeneOrGeneProduct	12167
+18310445	1105	1112	Smad1/5	GeneOrGeneProduct	17125,17129
+18310445	1140	1145	BMP-4	GeneOrGeneProduct	652
+18310445	1172	1175	BMP	GeneOrGeneProduct	12159
+18310445	1209	1214	BMP-4	GeneOrGeneProduct	652
+18310445	1247	1254	activin	GeneOrGeneProduct	16323
+18310445	1257	1261	GnRH	GeneOrGeneProduct	14714
+18310445	1284	1291	activin	GeneOrGeneProduct	16323
+18310445	1299	1303	GnRH	GeneOrGeneProduct	14714
+18310445	1333	1338	BMP-4	GeneOrGeneProduct	652
+18310445	1356	1363	activin	GeneOrGeneProduct	16323
+18310445	1394	1401	Smad2/3	GeneOrGeneProduct	17126,17127
+18310445	1410	1414	GnRH	GeneOrGeneProduct	14714
+18310445	1423	1429	ERK1/2	GeneOrGeneProduct	26413,26417
+18310445	1433	1462	cAMP response element-binding	GeneOrGeneProduct	12912
+18310445	1507	1511	GnRH	GeneOrGeneProduct	14714
+18310445	1534	1542	p38 MAPK	GeneOrGeneProduct	26416
+18310445	1560	1565	BMP-4	GeneOrGeneProduct	652
+18310445	1602	1609	FSHbeta	GeneOrGeneProduct	14308
+18310445	1626	1629	FSH	GeneOrGeneProduct	443387,443538
+18310445	1655	1661	LHbeta	GeneOrGeneProduct	16866
+18310445	1700	1704	BMPs	GeneOrGeneProduct	652
+18310445	1732	1739	activin	GeneOrGeneProduct	16323
+18310445	1747	1751	GnRH	GeneOrGeneProduct	14714
+18310445	1763	1776	gonadotrophin	GeneOrGeneProduct	12640,14308
+18310445	1891	1903	BMP receptor	GeneOrGeneProduct	101103793,101112282,12167
+18310445	Negative_Correlation	443502	443538	No
+18310445	Negative_Correlation	443502	443387	No
+18310445	Negative_Correlation	26416	652	Novel
+18310445	Association	17129	12159	Novel
+18310445	Association	17129	652	Novel
+18310445	Association	17125	12159	Novel
+18310445	Association	17125	652	Novel
+18310445	Positive_Correlation	14715	16866	Novel
+18310445	Positive_Correlation	16866	14714	Novel
+18310445	Association	16323	17127	Novel
+18310445	Association	16323	17126	Novel
+18310445	Positive_Correlation	16323	443538	Novel
+18310445	Positive_Correlation	16323	443387	Novel
+18310445	Positive_Correlation	16323	14308	Novel
+18310445	Association	16323	12640	No
+18310445	Association	16323	14714	No
+18310445	Positive_Correlation	14714	26416	Novel
+18310445	Association	14714	12912	Novel
+18310445	Association	14714	26417	Novel
+18310445	Association	14714	26413	Novel
+18310445	Positive_Correlation	14714	443538	Novel
+18310445	Positive_Correlation	14714	443387	Novel
+18310445	Positive_Correlation	14714	14308	Novel
+18310445	Association	14714	12640	No
+18310445	Association	83729	14308	No
+18310445	Association	83729	12640	No
+18310445	Association	3624	14308	No
+18310445	Association	3624	12640	No
+18310445	Negative_Correlation	652	14715	Novel
+18310445	Negative_Correlation	652	16866	Novel
+18310445	Positive_Correlation	652	16323	Novel
+18310445	Association	652	14308	Novel
+18310445	Association	652	12640	Novel
+18310445	Positive_Correlation	652	14714	Novel
+18310445	Association	652	83729	No
+18310445	Association	652	3624	No

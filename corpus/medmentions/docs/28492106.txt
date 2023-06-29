@@ -1,0 +1,75 @@
+28492106|t|Higher risk of revision for infection using systemic clindamycin prophylaxis than with cloxacillin
+28492106|a|Background and purpose - Clindamycin has not been compared with other antibiotics for prophylaxis in arthroplasty. Since 2009, the Swedish Knee Arthroplasty Register (SKAR) has been collecting information on the prophylactic antibiotic regime used at every individual operation. In Sweden, when there is allergy to penicillin, clindamycin has been the recommended alternative. We examined whether there were differences in the rate of revision due to infection depending on which antibiotic was used as systemic prophylaxis. Patients and methods - Patients who had a total knee arthroplasty (TKA) performed due to osteoarthritis (OA) during the years 2009-2015 were included in the study. Information on which antibiotic was used was available for 80,018 operations (55,530 patients). Survival statistics were used to calculate the rate of revision due to infection until the end of 2015, comparing the group of patients who received cloxacillin with those who received clindamycin as systemic prophylaxis. Results - Cloxacillin was used in 90% of the cases, clindamycin in 7%, and cephalosporins in 2%. The risk of being revised due to infection was higher when clindamycin was used than when cloxacillin was used (RR =1.5, 95% CI: 1.2-2.0; p = 0.001). There was no significant difference in the revision rate for other causes (p = 0.2). Interpretation - We advise that patients reporting allergic reaction to penicillin should have their allergic history explored. In the absence of a clear history of type-I allergic reaction (e.g. urticaria, anaphylaxis, or bronchospasm), we suggest the use of a third-generation cephalosporin instead of clindamycin as perioperative prophylaxis when undergoing a TKR. No recommendation can be given regarding patients with type-1 allergy.
+28492106	0	14	Higher risk of	T033	C0332167
+28492106	15	23	revision	T079	C0439617
+28492106	28	37	infection	T046	C3714514
+28492106	44	52	systemic	T169	C0205373
+28492106	53	64	clindamycin	T109,T195	C0008947
+28492106	65	76	prophylaxis	T061	C0282638
+28492106	87	98	cloxacillin	T109,T195	C0009077
+28492106	124	135	Clindamycin	T109,T195	C0008947
+28492106	169	180	antibiotics	T195	C0003232
+28492106	185	196	prophylaxis	T061	C0282638
+28492106	200	212	arthroplasty	T061	C0003893
+28492106	230	264	Swedish Knee Arthroplasty Register	T170	C0034975
+28492106	238	255	Knee Arthroplasty	T061	C0086511
+28492106	266	270	SKAR	T170	C0034975
+28492106	281	291	collecting	T169	C1516698
+28492106	292	303	information	T078	C1533716
+28492106	311	341	prophylactic antibiotic regime	T061	C0282638
+28492106	356	366	individual	T098	C0237401
+28492106	367	376	operation	T169	C0038895
+28492106	381	387	Sweden	T083	C0038995
+28492106	403	410	allergy	T046	C0020517
+28492106	414	424	penicillin	T109,T195	C0220892
+28492106	426	437	clindamycin	T109,T195	C0008947
+28492106	451	462	recommended	T078	C0034866
+28492106	463	474	alternative	T077	C1523987
+28492106	534	542	revision	T079	C0439617
+28492106	550	559	infection	T046	C3714514
+28492106	579	589	antibiotic	T195	C0003232
+28492106	602	610	systemic	T169	C0205373
+28492106	611	622	prophylaxis	T061	C0282638
+28492106	624	632	Patients	T101	C0030705
+28492106	647	655	Patients	T101	C0030705
+28492106	666	689	total knee arthroplasty	T061	C0086511
+28492106	691	694	TKA	T061	C0086511
+28492106	713	727	osteoarthritis	T047	C0029408
+28492106	729	731	OA	T047	C0029408
+28492106	809	819	antibiotic	T195	C0003232
+28492106	854	864	operations	T169	C0038895
+28492106	873	881	patients	T101	C0030705
+28492106	884	903	Survival statistics	T170	C0600673
+28492106	939	947	revision	T079	C0439617
+28492106	955	964	infection	T046	C3714514
+28492106	1011	1019	patients	T101	C0030705
+28492106	1033	1044	cloxacillin	T109,T195	C0009077
+28492106	1069	1080	clindamycin	T109,T195	C0008947
+28492106	1084	1092	systemic	T169	C0205373
+28492106	1093	1104	prophylaxis	T061	C0282638
+28492106	1116	1127	Cloxacillin	T109,T195	C0009077
+28492106	1158	1169	clindamycin	T109,T195	C0008947
+28492106	1181	1195	cephalosporins	T109,T195	C3536856
+28492106	1236	1245	infection	T046	C3714514
+28492106	1262	1273	clindamycin	T109,T195	C0008947
+28492106	1293	1304	cloxacillin	T109,T195	C0009077
+28492106	1396	1404	revision	T079	C0439617
+28492106	1420	1426	causes	T169	C0015127
+28492106	1438	1452	Interpretation	T170	C0459471
+28492106	1470	1478	patients	T101	C0030705
+28492106	1489	1506	allergic reaction	T046	C1527304
+28492106	1510	1520	penicillin	T109,T195	C0220892
+28492106	1539	1555	allergic history	T184	C2106654
+28492106	1592	1599	history	T184	C2106654
+28492106	1603	1627	type-I allergic reaction	T046	C1527304
+28492106	1634	1643	urticaria	T047	C0042109
+28492106	1645	1656	anaphylaxis	T047	C0850803
+28492106	1661	1673	bronchospasm	T047	C0006266
+28492106	1700	1730	third-generation cephalosporin	T109,T195	C0304320
+28492106	1742	1753	clindamycin	T109,T195	C0008947
+28492106	1757	1770	perioperative	T079	C1518988
+28492106	1771	1782	prophylaxis	T061	C0282638
+28492106	1801	1804	TKR	T061	C0086511
+28492106	1809	1823	recommendation	T078	C0034866
+28492106	1847	1855	patients	T101	C0030705
+28492106	1861	1875	type-1 allergy	T046	C0020517

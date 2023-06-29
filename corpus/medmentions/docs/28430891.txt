@@ -1,0 +1,82 @@
+28430891|t|Development and validation of diagnostic criteria for IBD subtypes with an emphasis on IBD-Unclassified in children: a multicenter study from the Pediatric IBD Porto group of ESPGHAN
+28430891|a|The revised Porto criteria identify subtypes of pediatric inflammatory bowel diseases: ulcerative colitis (UC), atypical UC, Inflammatory Bowel Disease Unclassified (IBDU), and Crohn's disease (CD). In continuation of the Porto criteria, we aimed to derive and validate criteria for standardizing the classification of the IBD subtypes. This was a multicenter retrospective longitudinal study from 23 centers affiliated with the Porto-group of ESPGHAN. Both a hypothesis-driven judgmental approach and mathematical CART modeling were utilized for creating a diagnostic algorithm. Since small bowel inflammation is easily recognized as CD, we focused here primarily on the phenotype of colitis. 749 IBD children were enrolled- 236 (32%) Crohn's colitis, 272 (36%) UC and 241 (32%(IBDU (age 10.9±3.6 years) with a median follow-up of 2.8 years (IQR 1.7-4.3). A total of 23 features were clustered in 3 classes according to their prevalence in UC: 6 class-1 (0% prevalence in UC), 12 class-2 (<5% prevalence) and 5 class-3 (5-10% prevalence). According to the algorithm, the disease should be classified as UC if no features exist in any of the classes. When at least one feature exist, different combinations classify the disease into atypical UC, IBDU and CD. The algorithm differentiated UC from CD and IBDU with 80% sensitivity (95% CI 71-88%) and 84% specificity (77-89%), and CD from IBDU and UC with 78% sensitivity (67-87%) and 94% specificity (89-97%). The validated algorithm can adequately classify children with IBD into small bowel CD, Colonic CD, IBDU, atypical UC and UC.
+28430891	30	49	diagnostic criteria	T170	C0679228
+28430891	54	57	IBD	T047	C0021390
+28430891	58	66	subtypes	T185	C0872379
+28430891	87	103	IBD-Unclassified	T047	C4268603
+28430891	107	115	children	T100	C0008059
+28430891	119	136	multicenter study	T062	C1096776
+28430891	146	155	Pediatric	T080	C1521725
+28430891	156	159	IBD	T047	C0021390
+28430891	160	171	Porto group	T098	C1257890
+28430891	175	182	ESPGHAN	T092	C1561598
+28430891	195	209	Porto criteria	T170	C0679228
+28430891	219	227	subtypes	T185	C0872379
+28430891	231	240	pediatric	T080	C1521725
+28430891	241	268	inflammatory bowel diseases	T047	C0021390
+28430891	270	288	ulcerative colitis	T047	C0009324
+28430891	290	292	UC	T047	C0009324
+28430891	304	306	UC	T047	C0009324
+28430891	308	347	Inflammatory Bowel Disease Unclassified	T047	C4268603
+28430891	349	353	IBDU	T047	C4268603
+28430891	360	375	Crohn's disease	T047	C0010346
+28430891	377	379	CD	T047	C0010346
+28430891	405	419	Porto criteria	T170	C0679228
+28430891	453	461	criteria	T170	C0679228
+28430891	484	498	classification	T185	C0008902
+28430891	506	509	IBD	T047	C0021390
+28430891	510	518	subtypes	T185	C0872379
+28430891	557	575	longitudinal study	T062	C0023981
+28430891	612	623	Porto-group	T098	C1257890
+28430891	627	634	ESPGHAN	T092	C1561598
+28430891	685	711	mathematical CART modeling	T170	C0876936
+28430891	741	761	diagnostic algorithm	T170	C0679508
+28430891	769	793	small bowel inflammation	T033	C1560337
+28430891	818	820	CD	T047	C0010346
+28430891	855	864	phenotype	T032	C0031437
+28430891	868	875	colitis	T047	C0009319
+28430891	881	884	IBD	T047	C0021390
+28430891	885	893	children	T100	C0008059
+28430891	919	934	Crohn's colitis	T047	C0010346
+28430891	946	948	UC	T047	C0009324
+28430891	962	966	IBDU	T047	C4268603
+28430891	968	971	age	T032	C0001779
+28430891	981	986	years	T079	C0439234
+28430891	1002	1011	follow-up	T058	C1522577
+28430891	1019	1024	years	T079	C0439234
+28430891	1083	1090	classes	T170	C0456387
+28430891	1110	1120	prevalence	T081	C0033105
+28430891	1124	1126	UC	T047	C0009324
+28430891	1130	1137	class-1	T185	C0441885
+28430891	1142	1152	prevalence	T081	C0033105
+28430891	1156	1158	UC	T047	C0009324
+28430891	1164	1171	class-2	T170	C0441886
+28430891	1177	1187	prevalence	T081	C0033105
+28430891	1195	1202	class-3	T170	C0441887
+28430891	1210	1220	prevalence	T081	C0033105
+28430891	1240	1249	algorithm	T170	C0002045
+28430891	1255	1262	disease	T047	C0012634
+28430891	1287	1289	UC	T047	C0009324
+28430891	1325	1332	classes	T170	C0456387
+28430891	1403	1410	disease	T047	C0012634
+28430891	1425	1427	UC	T047	C0009324
+28430891	1429	1433	IBDU	T047	C4268603
+28430891	1438	1440	CD	T047	C0010346
+28430891	1446	1455	algorithm	T170	C0002045
+28430891	1471	1473	UC	T047	C0009324
+28430891	1479	1481	CD	T047	C0010346
+28430891	1486	1490	IBDU	T047	C4268603
+28430891	1517	1519	CI	T081	C0009667
+28430891	1562	1564	CD	T047	C0010346
+28430891	1570	1574	IBDU	T047	C4268603
+28430891	1579	1581	UC	T047	C0009324
+28430891	1656	1665	algorithm	T170	C0002045
+28430891	1690	1698	children	T100	C0008059
+28430891	1704	1707	IBD	T047	C0021390
+28430891	1713	1724	small bowel	T023	C0021852
+28430891	1725	1727	CD	T047	C0010346
+28430891	1729	1736	Colonic	T023	C0009368
+28430891	1737	1739	CD	T047	C0010346
+28430891	1741	1745	IBDU	T047	C4268603
+28430891	1756	1758	UC	T047	C0009324
+28430891	1763	1765	UC	T047	C0009324

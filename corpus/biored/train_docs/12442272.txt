@@ -1,0 +1,24 @@
+12442272|t|D90A-SOD1 mediated amyotrophic lateral sclerosis: a single founder for all cases with evidence for a Cis-acting disease modifier in the recessive haplotype.
+12442272|a|More than 100 different heterozygous mutations in copper/zinc superoxide dismutase (SOD1) have been found in patients with amyotrophic lateral sclerosis (ALS), a fatal neurodegenerative disease. Uniquely, D90A-SOD1 has been identified in recessive, dominant and apparently sporadic pedigrees. The phenotype of homozygotes is stereotyped with an extended survival, whereas that of affected heterozygotes varies. The frequency of D90A-SOD1 is 50 times higher in Scandinavia (2.5%) than elsewhere, though ALS prevalence is not raised there. Our earlier study indicated separate founders for recessive and dominant/sporadic ALS and we proposed a disease-modifying factor linked to the recessive mutation. Here we have doubled our sample set and employed novel markers to characterise the mutation's origin and localise any modifying factor. Linkage disequilibrium analysis indicates that D90A homozygotes and heterozygotes share a rare haplotype and are all descended from a single ancient founder (alpha 0.974) c.895 generations ago. Homozygotes arose subsequently only c.63 generations ago (alpha 0.878). Recombination has reduced the region shared by recessive kindreds to 97-265 kb around SOD1, excluding all neighbouring genes. We propose that a cis-acting regulatory polymorphism has arisen close to D90A-SOD1 in the recessive founder, which decreases ALS susceptibility in heterozygotes and slows disease progression.
+12442272	0	4	D90A	SequenceVariant	rs80265967
+12442272	5	9	SOD1	GeneOrGeneProduct	6647
+12442272	19	48	amyotrophic lateral sclerosis	DiseaseOrPhenotypicFeature	D000690
+12442272	207	239	copper/zinc superoxide dismutase	GeneOrGeneProduct	6647
+12442272	241	245	SOD1	GeneOrGeneProduct	6647
+12442272	266	274	patients	OrganismTaxon	9606
+12442272	280	309	amyotrophic lateral sclerosis	DiseaseOrPhenotypicFeature	D000690
+12442272	311	314	ALS	DiseaseOrPhenotypicFeature	D000690
+12442272	325	350	neurodegenerative disease	DiseaseOrPhenotypicFeature	D019636
+12442272	362	366	D90A	SequenceVariant	rs80265967
+12442272	367	371	SOD1	GeneOrGeneProduct	6647
+12442272	585	589	D90A	SequenceVariant	rs80265967
+12442272	590	594	SOD1	GeneOrGeneProduct	6647
+12442272	659	662	ALS	DiseaseOrPhenotypicFeature	D000690
+12442272	777	780	ALS	DiseaseOrPhenotypicFeature	D000690
+12442272	1041	1045	D90A	SequenceVariant	rs80265967
+12442272	1346	1350	SOD1	GeneOrGeneProduct	6647
+12442272	1459	1463	D90A	SequenceVariant	rs80265967
+12442272	1464	1468	SOD1	GeneOrGeneProduct	6647
+12442272	1511	1514	ALS	DiseaseOrPhenotypicFeature	D000690
+12442272	Association	6647	D000690	Novel
+12442272	Negative_Correlation	rs80265967	D000690	Novel

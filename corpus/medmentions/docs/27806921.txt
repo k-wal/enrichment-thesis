@@ -1,0 +1,75 @@
+27806921|t|Simulating the potential role of media coverage and infected bats in the 2014 Ebola outbreak
+27806921|a|Multiple epidemiological models have been developed to model the transmission dynamics of Ebola virus (EBOV) disease in West Africa in 2014 because the severity of the epidemic is commonly overestimated. A compartmental model that incorporates the media impact and the effect of infected bats was constructed and calibrated using data reported until the end of 2014. The final cumulative number of deaths and confirmed cases were estimated to be 1.0921×10(4) (95% CI 9.7706×10(3)-1.2072×10(4)) and 1.5193×10(4) (95% CI 1.3593×10(4)-1.6795×10(4)), respectively. The epidemic was estimated to end on June 2015, which was similar to the data reported by the World Health Organization. A sensitivity analysis indicated that an increase of either the media impact or the number of infectious bats that are captured daily can increase the cumulative number of confirmed cases / deaths. Of the considered epidemiological parameters, only the media coverage can significantly reduce both the peak time and the value of the cumulative confirmed cases / deaths. Thus, we propose 'the cumulative confirmed cases and deaths ' as another media mechanism. In conclusion, the media impact contributed to the control of the 2014 Ebola outbreak, and infectious bats may be a potential source of the epidemic.
+27806921	0	10	Simulating	T062	C0679083
+27806921	15	24	potential	T080	C3245505
+27806921	25	29	role	T077	C1705810
+27806921	33	47	media coverage	T057	C0681284
+27806921	52	60	infected	T033	C0439663
+27806921	61	65	bats	T015	C0008139
+27806921	78	83	Ebola	T047	C0282687
+27806921	84	92	outbreak	T067	C0012652
+27806921	102	117	epidemiological	T169	C1516907
+27806921	118	124	models	T075	C0026336
+27806921	135	144	developed	T169	C1527148
+27806921	158	179	transmission dynamics	T078	C0040722
+27806921	183	209	Ebola virus (EBOV) disease	T047	C0282687
+27806921	213	224	West Africa	T083	C0001747
+27806921	245	253	severity	T080	C0392364
+27806921	261	269	epidemic	T067	C0014499
+27806921	299	318	compartmental model	T170	C2986731
+27806921	341	353	media impact	T080	C4049986
+27806921	362	368	effect	T080	C1280500
+27806921	372	380	infected	T033	C0439663
+27806921	381	385	bats	T015	C0008139
+27806921	406	416	calibrated	T081	C0006751
+27806921	423	427	data	T078	C1511726
+27806921	470	480	cumulative	T080	C1511559
+27806921	481	497	number of deaths	T081	C0205848
+27806921	502	511	confirmed	T033	C0750484
+27806921	512	517	cases	T077	C1706256
+27806921	523	532	estimated	T081	C0750572
+27806921	557	559	CI	T081	C0009667
+27806921	609	611	CI	T081	C0009667
+27806921	658	666	epidemic	T067	C0014499
+27806921	671	680	estimated	T081	C0750572
+27806921	712	719	similar	T080	C2348205
+27806921	727	731	data	T078	C1511726
+27806921	732	740	reported	T058	C0700287
+27806921	748	773	World Health Organization	T093	C0043237
+27806921	777	797	sensitivity analysis	T062	C0936012
+27806921	798	807	indicated	T033	C1444656
+27806921	816	824	increase	T169	C0442805
+27806921	839	851	media impact	T080	C4049986
+27806921	859	865	number	T081	C0237753
+27806921	869	879	infectious	T080	C1550587
+27806921	880	884	bats	T015	C0008139
+27806921	903	908	daily	T079	C0332173
+27806921	913	921	increase	T169	C0442805
+27806921	926	936	cumulative	T080	C1511559
+27806921	937	943	number	T081	C0237753
+27806921	947	956	confirmed	T033	C0750484
+27806921	957	962	cases	T077	C1706256
+27806921	965	971	deaths	T081	C0205848
+27806921	991	1017	epidemiological parameters	T169	C1516907
+27806921	1028	1042	media coverage	T057	C0681284
+27806921	1077	1086	peak time	T033	C3840073
+27806921	1095	1100	value	T081	C1522609
+27806921	1108	1118	cumulative	T080	C1511559
+27806921	1119	1128	confirmed	T033	C0750484
+27806921	1129	1134	cases	T077	C1706256
+27806921	1137	1143	deaths	T081	C0205848
+27806921	1167	1177	cumulative	T080	C1511559
+27806921	1178	1187	confirmed	T033	C0750484
+27806921	1188	1193	cases	T077	C1706256
+27806921	1198	1204	deaths	T081	C0205848
+27806921	1218	1223	media	T170	C0009458
+27806921	1224	1233	mechanism	T169	C0441712
+27806921	1254	1266	media impact	T080	C4049986
+27806921	1286	1293	control	T080	C0243148
+27806921	1306	1311	Ebola	T047	C0282687
+27806921	1312	1320	outbreak	T067	C0012652
+27806921	1326	1336	infectious	T080	C1550587
+27806921	1337	1341	bats	T015	C0008139
+27806921	1351	1360	potential	T080	C3245505
+27806921	1361	1367	source	T033	C0449416
+27806921	1375	1383	epidemic	T067	C0014499

@@ -1,0 +1,62 @@
+18422462|t|Spectrum of adverse events after generic HAART in southern Indian HIV-infected patients.
+18422462|a|To determine the incidence of clinically significant adverse events after long-term, fixed-dose, generic highly active antiretroviral therapy (HAART) use among HIV-infected individuals in South India, we examined the experiences of 3154 HIV-infected individuals who received a minimum of 3 months of generic HAART between February 1996 and December 2006 at a tertiary HIV care referral center in South India. The most common regimens were 3TC + d4T + nevirapine (NVP) (54.8%), zidovudine (AZT) + 3TC + NVP (14.5%), 3TC + d4T + efavirenz (EFV) (20.1%), and AZT + 3TC + EFV (5.4%). The most common adverse events and median CD4 at time of event were rash (15.2%; CD4, 285 cells/microL) and peripheral neuropathy (9.0% and 348 cells/microL). Clinically significant anemia (hemoglobin <7 g/dL) was observed in 5.4% of patients (CD4, 165 cells/microL) and hepatitis (clinical jaundice with alanine aminotransferase > 5 times upper limits of normal) in 3.5% of patients (CD4, 260 cells/microL). Women were significantly more likely to experience lactic acidosis, while men were significantly more likely to experience immune reconstitution syndrome (p < 0.05). Among the patients with 1 year of follow-up, NVP therapy was significantly associated with developing rash and d4T therapy with developing peripheral neuropathy (p < 0.05). Anemia and hepatitis often occur within 12 weeks of initiating generic HAART. Frequent and early monitoring for these toxicities is warranted in developing countries where generic HAART is increasingly available.
+18422462	66	78	HIV-infected	DiseaseOrPhenotypicFeature	D015658
+18422462	79	87	patients	OrganismTaxon	9606
+18422462	249	261	HIV-infected	DiseaseOrPhenotypicFeature	D015658
+18422462	326	338	HIV-infected	DiseaseOrPhenotypicFeature	D015658
+18422462	528	531	3TC	ChemicalEntity	D019259
+18422462	534	537	d4T	ChemicalEntity	D018119
+18422462	540	550	nevirapine	ChemicalEntity	D019829
+18422462	552	555	NVP	ChemicalEntity	D019829
+18422462	566	576	zidovudine	ChemicalEntity	D015215
+18422462	578	581	AZT	ChemicalEntity	D015215
+18422462	585	588	3TC	ChemicalEntity	D019259
+18422462	591	594	NVP	ChemicalEntity	D019829
+18422462	604	607	3TC	ChemicalEntity	D019259
+18422462	610	613	d4T	ChemicalEntity	D018119
+18422462	616	625	efavirenz	ChemicalEntity	C098320
+18422462	627	630	EFV	ChemicalEntity	C098320
+18422462	645	648	AZT	ChemicalEntity	D015215
+18422462	651	654	3TC	ChemicalEntity	D019259
+18422462	657	660	EFV	ChemicalEntity	C098320
+18422462	711	714	CD4	GeneOrGeneProduct	920
+18422462	737	741	rash	DiseaseOrPhenotypicFeature	D005076
+18422462	750	753	CD4	GeneOrGeneProduct	920
+18422462	777	798	peripheral neuropathy	DiseaseOrPhenotypicFeature	D010523
+18422462	851	857	anemia	DiseaseOrPhenotypicFeature	D000740
+18422462	859	869	hemoglobin	GeneOrGeneProduct	3039
+18422462	903	911	patients	OrganismTaxon	9606
+18422462	913	916	CD4	GeneOrGeneProduct	920
+18422462	940	949	hepatitis	DiseaseOrPhenotypicFeature	D056486
+18422462	960	968	jaundice	DiseaseOrPhenotypicFeature	D007565
+18422462	974	998	alanine aminotransferase	ChemicalEntity	D000410
+18422462	1044	1052	patients	OrganismTaxon	9606
+18422462	1054	1057	CD4	GeneOrGeneProduct	920
+18422462	1078	1083	Women	OrganismTaxon	9606
+18422462	1129	1144	lactic acidosis	DiseaseOrPhenotypicFeature	D000140
+18422462	1152	1155	men	OrganismTaxon	9606
+18422462	1201	1231	immune reconstitution syndrome	DiseaseOrPhenotypicFeature	D054019
+18422462	1254	1262	patients	OrganismTaxon	9606
+18422462	1289	1292	NVP	ChemicalEntity	D019829
+18422462	1346	1350	rash	DiseaseOrPhenotypicFeature	D005076
+18422462	1355	1358	d4T	ChemicalEntity	D018119
+18422462	1383	1404	peripheral neuropathy	DiseaseOrPhenotypicFeature	D010523
+18422462	1417	1423	Anemia	DiseaseOrPhenotypicFeature	D000740
+18422462	1428	1437	hepatitis	DiseaseOrPhenotypicFeature	D056486
+18422462	1535	1545	toxicities	DiseaseOrPhenotypicFeature	D064420
+18422462	Positive_Correlation	D007565	D000410	Novel
+18422462	Negative_Correlation	D015658	C098320	No
+18422462	Negative_Correlation	D015658	D018119	No
+18422462	Negative_Correlation	D015658	D019259	No
+18422462	Negative_Correlation	D015658	D019829	No
+18422462	Negative_Correlation	D015658	D015215	No
+18422462	Positive_Correlation	D018119	D010523	Novel
+18422462	Cotreatment	D018119	C098320	Novel
+18422462	Cotreatment	D018119	D019829	Novel
+18422462	Cotreatment	D019259	C098320	Novel
+18422462	Cotreatment	D019259	D018119	Novel
+18422462	Cotreatment	D019259	D019829	Novel
+18422462	Positive_Correlation	D019829	D005076	Novel
+18422462	Cotreatment	D015215	C098320	Novel
+18422462	Cotreatment	D015215	D019259	Novel
+18422462	Cotreatment	D015215	D019829	Novel

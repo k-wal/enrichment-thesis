@@ -1,0 +1,46 @@
+21699520|t|PTCH1 gene mutations in exon 17 and loss of heterozygosity on D9S180 microsatellite in sporadic and inherited human basal cell carcinomas.
+21699520|a|BACKGROUND: Basal cell carcinomas (BCCs) are the most frequent human cancer that results from malignant transformation of basal cells in the epidermis. Gorlin syndrome is a rare inherited autosomal dominant disease that predisposes with multiple BCCs and other birth defects. Both sporadic and inherited BCCs are associated with mutations in the tumor suppressor gene PTCH1, but there is still uncertainty on the role of its homolog PTCH2. OBJECTIVES: To search for mutations and genomic instability in sporadic and inherited BCCs. METHODS: DNA obtained from leukocytes and tumor cells was amplified by polymerase chain reaction regarding five exons of PTCH1 and PTCH2 and neighboring microsatellites. Exons were sequenced and compared with the GenBank database. RESULTS: Only D9S180, of six microsatellites, showed loss of heterozygosity in three BCCs (two sporadic and one inherited). One sporadic BCC presented the mutation g.2885G>C in exon 17 of PTCH1, which predicts the substitution p.R962T in an external domain of the protein. In addition, the leukocytes and tumor cells of one patient with Gorlin syndrome showed the mutation g.2839T>G in the same exon and gene, which predicts a p.E947stop and truncated protein. All control and tumor samples presented IVS9 + 217T in intron 9 of PTCH1. CONCLUSION: Mutations found in the PTCH1 gene and neighboring repetitive sequences may have contributed to the development of the studied BCCs.
+21699520	0	5	PTCH1	GeneOrGeneProduct	5727
+21699520	110	115	human	OrganismTaxon	9606
+21699520	116	137	basal cell carcinomas	DiseaseOrPhenotypicFeature	D002280
+21699520	151	172	Basal cell carcinomas	DiseaseOrPhenotypicFeature	D002280
+21699520	174	178	BCCs	DiseaseOrPhenotypicFeature	D002280
+21699520	202	207	human	OrganismTaxon	9606
+21699520	208	214	cancer	DiseaseOrPhenotypicFeature	D009369
+21699520	291	306	Gorlin syndrome	DiseaseOrPhenotypicFeature	D001478
+21699520	317	353	inherited autosomal dominant disease	DiseaseOrPhenotypicFeature	D030342
+21699520	385	389	BCCs	DiseaseOrPhenotypicFeature	D002280
+21699520	400	413	birth defects	DiseaseOrPhenotypicFeature	D000013
+21699520	443	447	BCCs	DiseaseOrPhenotypicFeature	D002280
+21699520	485	490	tumor	DiseaseOrPhenotypicFeature	D009369
+21699520	507	512	PTCH1	GeneOrGeneProduct	5727
+21699520	572	577	PTCH2	GeneOrGeneProduct	8643
+21699520	665	669	BCCs	DiseaseOrPhenotypicFeature	D002280
+21699520	713	718	tumor	DiseaseOrPhenotypicFeature	D009369
+21699520	792	797	PTCH1	GeneOrGeneProduct	5727
+21699520	802	807	PTCH2	GeneOrGeneProduct	8643
+21699520	987	991	BCCs	DiseaseOrPhenotypicFeature	D002280
+21699520	1039	1042	BCC	DiseaseOrPhenotypicFeature	D002280
+21699520	1066	1075	g.2885G>C	SequenceVariant	g|SUB|G|2885|C
+21699520	1090	1095	PTCH1	GeneOrGeneProduct	5727
+21699520	1129	1136	p.R962T	SequenceVariant	p|SUB|R|962|T
+21699520	1207	1212	tumor	DiseaseOrPhenotypicFeature	D009369
+21699520	1226	1233	patient	OrganismTaxon	9606
+21699520	1239	1254	Gorlin syndrome	DiseaseOrPhenotypicFeature	D001478
+21699520	1275	1284	g.2839T>G	SequenceVariant	g|SUB|T|2839|G
+21699520	1329	1339	p.E947stop	SequenceVariant	p|SUB|E|947|X
+21699520	1379	1384	tumor	DiseaseOrPhenotypicFeature	D009369
+21699520	1403	1414	IVS9 + 217T	SequenceVariant	c|Allele|T|IVS9+217
+21699520	1430	1435	PTCH1	GeneOrGeneProduct	5727
+21699520	1472	1477	PTCH1	GeneOrGeneProduct	5727
+21699520	1575	1579	BCCs	DiseaseOrPhenotypicFeature	D002280
+21699520	Association	D001478	p|SUB|E|947|X	Novel
+21699520	Association	D001478	g|SUB|T|2839|G	Novel
+21699520	Association	D001478	5727	Novel
+21699520	Association	D002280	p|SUB|R|962|T	Novel
+21699520	Association	D002280	g|SUB|G|2885|C	Novel
+21699520	Association	D002280	5727	No
+21699520	Association	D009369	c|Allele|T|IVS9+217	Novel
+21699520	Association	D009369	p|SUB|E|947|X	Novel
+21699520	Association	D009369	g|SUB|T|2839|G	Novel
+21699520	Negative_Correlation	D009369	5727	No

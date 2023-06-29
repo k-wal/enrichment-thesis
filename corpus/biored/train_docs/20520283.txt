@@ -1,0 +1,37 @@
+20520283|t|Efficacy and safety of asenapine in a placebo- and haloperidol-controlled trial in patients with acute exacerbation of schizophrenia.
+20520283|a|Asenapine is approved by the Food and Drugs Administration in adults for acute treatment of schizophrenia or of manic or mixed episodes associated with bipolar I disorder with or without psychotic features. In a double-blind 6-week trial, 458 patients with acute schizophrenia were randomly assigned to fixed-dose treatment with asenapine at 5 mg twice daily (BID), asenapine at 10 mg BID, placebo, or haloperidol at 4 mg BID (to verify assay sensitivity). With last observations carried forward (LOCF), mean Positive and Negative Syndrome Scale total score reductions from baseline to endpoint were significantly greater with asenapine at 5 mg BID (-16.2) and haloperidol (-15.4) than placebo (-10.7; both P < 0.05); using mixed model for repeated measures (MMRM), changes at day 42 were significantly greater with asenapine at 5 and 10 mg BID (-21.3 and -19.4, respectively) and haloperidol (-20.0) than placebo (-14.6; all P < 0.05). On the Positive and Negative Syndrome Scale positive subscale, all treatments were superior to placebo with LOCF and MMRM; asenapine at 5 mg BID was superior to placebo on the negative subscale with MMRM and on the general psychopathology subscale with LOCF and MMRM. Treatment-related adverse events (AEs) occurred in 44% and 52%, 57%, and 41% of the asenapine at 5 and 10 mg BID, haloperidol, and placebo groups, respectively. Extrapyramidal symptoms reported as AEs occurred in 15% and 18%, 34%, and 10% of the asenapine at 5 and 10 mg BID, haloperidol, and placebo groups, respectively. Across all groups, no more than 5% of patients had clinically significant weight change. Post hoc analyses indicated that efficacy was similar with asenapine and haloperidol; greater contrasts were seen in AEs, especially extrapyramidal symptoms.
+20520283	23	32	asenapine	ChemicalEntity	C522667
+20520283	51	62	haloperidol	ChemicalEntity	D006220
+20520283	83	91	patients	OrganismTaxon	9606
+20520283	119	132	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+20520283	134	143	Asenapine	ChemicalEntity	C522667
+20520283	226	239	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+20520283	246	251	manic	DiseaseOrPhenotypicFeature	D001714
+20520283	286	304	bipolar I disorder	DiseaseOrPhenotypicFeature	D001714
+20520283	321	330	psychotic	DiseaseOrPhenotypicFeature	D011618
+20520283	377	385	patients	OrganismTaxon	9606
+20520283	397	410	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+20520283	463	472	asenapine	ChemicalEntity	C522667
+20520283	500	509	asenapine	ChemicalEntity	C522667
+20520283	536	547	haloperidol	ChemicalEntity	D006220
+20520283	761	770	asenapine	ChemicalEntity	C522667
+20520283	795	806	haloperidol	ChemicalEntity	D006220
+20520283	950	959	asenapine	ChemicalEntity	C522667
+20520283	1015	1026	haloperidol	ChemicalEntity	D006220
+20520283	1194	1203	asenapine	ChemicalEntity	C522667
+20520283	1423	1432	asenapine	ChemicalEntity	C522667
+20520283	1453	1464	haloperidol	ChemicalEntity	D006220
+20520283	1500	1523	Extrapyramidal symptoms	DiseaseOrPhenotypicFeature	D001480
+20520283	1585	1594	asenapine	ChemicalEntity	C522667
+20520283	1615	1626	haloperidol	ChemicalEntity	D006220
+20520283	1700	1708	patients	OrganismTaxon	9606
+20520283	1810	1819	asenapine	ChemicalEntity	C522667
+20520283	1824	1835	haloperidol	ChemicalEntity	D006220
+20520283	1884	1907	extrapyramidal symptoms	DiseaseOrPhenotypicFeature	D001480
+20520283	Positive_Correlation	D001480	D006220	Novel
+20520283	Positive_Correlation	D001480	C522667	Novel
+20520283	Negative_Correlation	D012559	D006220	No
+20520283	Negative_Correlation	C522667	D011618	No
+20520283	Negative_Correlation	C522667	D001714	No
+20520283	Negative_Correlation	C522667	D012559	No
+20520283	Comparison	C522667	D006220	No

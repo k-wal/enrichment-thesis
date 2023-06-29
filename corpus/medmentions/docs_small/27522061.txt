@@ -1,0 +1,41 @@
+27522061|t|Development and Validation of a 10-Year Mortality Prediction Model: Meta-Analysis of Individual Participant Data From Five Cohorts of Older Adults in Developed and Developing Countries
+27522061|a|Existing mortality prediction models for older adults have been each developed using a single study from the United States or Western Europe. We aimed to develop and validate a 10-year mortality prediction model for older adults using data from developed and developing countries. We used data from five cohorts, including data from 16 developed and developing countries: ELSA (English Longitudinal Study of Aging), HRS (Health and Retirement Study), MHAS (Mexican Health and Aging Study), SABE-Sao Paulo (The Health, Well-being and Aging), and SHARE (Survey on Health, Ageing and Retirement in Europe). 35,367 older adults were split into training (two thirds) and test (one third) data sets. Baseline predictors included age, sex, comorbidities, and functional and cognitive measures. We performed an individual participant data meta-analysis using a sex-stratified Cox proportional hazards model, with time to death as the time scale. We validated the model using Harrell's C statistic (discrimination) and the estimated slope between observed and predicted 10-year mortality risk across deciles of risk (calibration). During a median of 8.6 years, 8,325 participants died. The final model included age, sex, diabetes, heart disease, lung disease, cancer, smoking, alcohol use, body mass index, physical activity, self-reported health, difficulty with bathing, walking several blocks, and reporting date correctly. The model showed good discrimination (Harrell's C = 0.76) and calibration (slope = 1.005). Models for developed versus developing country cohorts performed equally well when applied to data from developing countries. A parsimonious mortality prediction model using data from multiple cohorts in developed and developing countries can be used to predict mortality in older adults in both settings.
+27522061	16	26	Validation	T062	UMLS:C1519941
+27522061	40	66	Mortality Prediction Model	T170	UMLS:C0451318
+27522061	68	81	Meta-Analysis	T062	UMLS:C0920317
+27522061	85	95	Individual	T098	UMLS:C0237401
+27522061	96	107	Participant	T098	UMLS:C0679646
+27522061	123	130	Cohorts	T098	UMLS:C0599755
+27522061	194	221	mortality prediction models	T170	UMLS:C0451318
+27522061	294	307	United States	T082	UMLS:C0041703
+27522061	311	325	Western Europe	T082	UMLS:C0043129
+27522061	351	359	validate	T062	UMLS:C1519941
+27522061	370	396	mortality prediction model	T170	UMLS:C0451318
+27522061	489	496	cohorts	T098	UMLS:C0599755
+27522061	557	561	ELSA	T062	UMLS:C0242481
+27522061	563	598	English Longitudinal Study of Aging	T062	UMLS:C0242481
+27522061	601	604	HRS	T062	UMLS:C0242481
+27522061	606	633	Health and Retirement Study	T062	UMLS:C0242481
+27522061	636	640	MHAS	T062	UMLS:C0242481
+27522061	642	672	Mexican Health and Aging Study	T062	UMLS:C0242481
+27522061	675	689	SABE-Sao Paulo	T062	UMLS:C0242481
+27522061	691	723	The Health, Well-being and Aging	T062	UMLS:C0242481
+27522061	730	735	SHARE	T062	UMLS:C0242481
+27522061	737	786	Survey on Health, Ageing and Retirement in Europe	T062	UMLS:C0242481
+27522061	988	998	individual	T098	UMLS:C0237401
+27522061	999	1010	participant	T098	UMLS:C0679646
+27522061	1016	1029	meta-analysis	T062	UMLS:C0920317
+27522061	1038	1083	sex-stratified Cox proportional hazards model	T170	UMLS:C0282574
+27522061	1126	1135	validated	T062	UMLS:C1519941
+27522061	1152	1173	Harrell's C statistic	T170	UMLS:C0282574
+27522061	1343	1355	participants	T098	UMLS:C0679646
+27522061	1397	1405	diabetes	T038	UMLS:C0011847
+27522061	1407	1420	heart disease	T038	UMLS:C0018799
+27522061	1422	1434	lung disease	T038	UMLS:C0024115
+27522061	1436	1442	cancer	T038	UMLS:C0006826
+27522061	1466	1481	body mass index	T201	UMLS:C1305855
+27522061	1540	1547	bathing	T058	UMLS:C0150141
+27522061	1549	1571	walking several blocks	T170	UMLS:C3827521
+27522061	1741	1748	cohorts	T098	UMLS:C0599755
+27522061	1835	1861	mortality prediction model	T170	UMLS:C0451318
+27522061	1887	1894	cohorts	T098	UMLS:C0599755

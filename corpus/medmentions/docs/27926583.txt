@@ -1,0 +1,78 @@
+27926583|t|Evaluation of the Financial and Health Burden of Infants at Risk for Respiratory Syncytial Virus
+27926583|a|Respiratory syncytial virus (RSV) is the leading viral cause of death in infants younger than 1 year. In July 2014, the American Academy of Pediatrics (AAP) Committee on Infectious Diseases concluded that the " limited clinical benefit " for infants born at more than 29 weeks' gestation, together with the associated high cost of the immunoprophylaxis, no longer supported the routine use of palivizumab (Synagis). To evaluate the impact of the newly adopted AAP palivizumab prophylaxis administration on health and subsequent hospital costs of infants born between 29 and less than 32 weeks' gestation. A retrospective cohort analysis from a single institution across the duration of the study comparing the clinical and financial outcomes of infants (aged < 32 weeks) treated under the 2009 AAP guidelines (PRE) and infants (aged >29 weeks) managed after the 2014 AAP guidelines (POST) took effect. RSV-positive admissions were greater in the POST cohort versus the PRE cohor t (P = .04). There were no readmission deaths due to RSV infection in either cohort. The number needed to treat to avoid a single RSV-positive hospitalization was 20 infants at an estimated palivizumab cost of $90,000 to avoid an estimated hospital cost of $29,000. Assessment of individual risk factors and their ability to predict severe RSV risk / disease, thus, would allow providers greater flexibility in determining need for prophylaxis therapy. Longitudinal evaluation of financial and clinical outcomes is needed to determine the impact of the 2014 AAP revised regulatory guidelines.
+27926583	0	10	Evaluation	T058	C0220825
+27926583	18	27	Financial	T081	C1512163
+27926583	32	45	Health Burden	T078	C2828008
+27926583	49	56	Infants	T100	C0021270
+27926583	60	64	Risk	T078	C0035647
+27926583	69	96	Respiratory Syncytial Virus	T005	C0035236
+27926583	97	124	Respiratory syncytial virus	T005	C0035236
+27926583	126	129	RSV	T005	C0035236
+27926583	146	166	viral cause of death	T033	C0007465
+27926583	170	177	infants	T100	C0021270
+27926583	193	197	year	T079	C0439234
+27926583	217	263	American Academy of Pediatrics (AAP) Committee	T093	C1708333
+27926583	267	286	Infectious Diseases	T047	C0009450
+27926583	308	315	limited	T169	C0439801
+27926583	316	324	clinical	T080	C0205210
+27926583	325	332	benefit	T081	C0814225
+27926583	339	346	infants	T100	C0021270
+27926583	368	385	weeks' gestation,	T033	C1135241
+27926583	420	424	cost	T081	C0010186
+27926583	432	449	immunoprophylaxis	T061	C0020971
+27926583	451	460	no longer	T033	C3242381
+27926583	483	489	use of	T169	C1524063
+27926583	490	501	palivizumab	T116,T121,T129	C0672596
+27926583	503	510	Synagis	T116,T121,T129	C0723567
+27926583	516	524	evaluate	T058	C0220825
+27926583	529	535	impact	T080	C4049986
+27926583	557	560	AAP	T093	C1708333
+27926583	561	572	palivizumab	T116,T121,T129	C0672596
+27926583	573	599	prophylaxis administration	T061	C0199176
+27926583	603	609	health	T078	C0018684
+27926583	625	639	hospital costs	T081	C0206174
+27926583	643	650	infants	T100	C0021270
+27926583	684	700	weeks' gestation	T033	C1135241
+27926583	704	717	retrospective	T080	C1514923
+27926583	718	733	cohort analysis	T062	C0086027
+27926583	748	759	institution	T078	C1272753
+27926583	771	779	duration	T079	C0449238
+27926583	787	792	study	T062	C2603343
+27926583	807	815	clinical	T169	C1274040
+27926583	820	838	financial outcomes	T169	C1274040
+27926583	842	849	infants	T100	C0021270
+27926583	851	855	aged	T032	C0001779
+27926583	861	866	weeks	T079	C0439230
+27926583	868	875	treated	T033	C0332154
+27926583	891	894	AAP	T093	C1708333
+27926583	895	905	guidelines	T170	C0162791
+27926583	916	923	infants	T100	C0021270
+27926583	925	929	aged	T032	C0001779
+27926583	934	939	weeks	T079	C0439230
+27926583	964	978	AAP guidelines	T170	C0282574
+27926583	999	1011	RSV-positive	T034	C1254360
+27926583	1012	1022	admissions	T058	C0184666
+27926583	1043	1054	POST cohort	T098	C0599755
+27926583	1066	1075	PRE cohor	T098	C0599755
+27926583	1100	1102	no	T033	C1513916
+27926583	1103	1114	readmission	T058	C0184666
+27926583	1115	1121	deaths	T040	C0011065
+27926583	1129	1132	RSV	T005	C0035236
+27926583	1133	1142	infection	T046	C3714514
+27926583	1153	1159	cohort	T098	C0599755
+27926583	1206	1218	RSV-positive	T034	C1254360
+27926583	1219	1234	hospitalization	T058	C0019993
+27926583	1242	1249	infants	T100	C0021270
+27926583	1266	1277	palivizumab	T116,T121,T129	C0672596
+27926583	1278	1282	cost	T081	C0010186
+27926583	1316	1329	hospital cost	T081	C0206174
+27926583	1342	1352	Assessment	T058	C0220825
+27926583	1367	1379	risk factors	T033	C0035648
+27926583	1416	1424	RSV risk	T080	C1444641
+27926583	1427	1434	disease	T047	C0012634
+27926583	1508	1527	prophylaxis therapy	T061	C0199176
+27926583	1529	1552	Longitudinal evaluation	T058	C0220825
+27926583	1556	1565	financial	T169	C1274040
+27926583	1570	1587	clinical outcomes	T169	C1274040
+27926583	1634	1637	AAP	T093	C1708333
+27926583	1646	1667	regulatory guidelines	T170	C0162791

@@ -1,0 +1,73 @@
+28242379|t|Plantar fascia segmentation and thickness estimation in ultrasound images
+28242379|a|Ultrasound (US) imaging offers significant potential in diagnosis of plantar fascia (PF) injury and monitoring treatment. In particular US imaging has been shown to be reliable in foot and ankle assessment and offers a real-time effective imaging technique that is able to reliably confirm structural changes, such as thickening, and identify changes in the internal echo structure associated with diseased or damaged tissue. Despite the advantages of US imaging, images are difficult to interpret during medical assessment. This is partly due to the size and position of the PF in relation to the adjacent tissues. It is therefore a requirement to devise a system that allows better and easier interpretation of PF ultrasound images during diagnosis. This study proposes an automatic segmentation approach which for the first time extracts ultrasound data to estimate size across three sections of the PF (rearfoot, midfoot and forefoot). This segmentation method uses artificial neural network module (ANN) in order to classify small overlapping patches as belonging or not-belonging to the region of interest (ROI) of the PF tissue. Features ranking and selection techniques were performed as a post-processing step for features extraction to reduce the dimension and number of the extracted features. The trained ANN classifies the image overlapping patches into PF and non- PF tissue, and then it is used to segment the desired PF region. The PF thickness was calculated using two different methods: distance transformation and area-length calculation algorithms. This new approach is capable of accurately segmenting the PF region, differentiating it from surrounding tissues and estimating its thickness.
+28242379	0	14	Plantar fascia	T023	C0549109
+28242379	15	27	segmentation	T058	C0700381
+28242379	32	41	thickness	T080	C1280412
+28242379	42	52	estimation	T041	C0680844
+28242379	56	73	ultrasound images	T073	C3897454
+28242379	74	97	Ultrasound (US) imaging	T060	C0041618
+28242379	130	139	diagnosis	T033	C0011900
+28242379	143	157	plantar fascia	T023	C0549109
+28242379	159	161	PF	T023	C0549109
+28242379	163	169	injury	T037	C0037578
+28242379	174	194	monitoring treatment	T058	C1822578
+28242379	210	220	US imaging	T060	C0041618
+28242379	254	268	foot and ankle	T029	C0870018
+28242379	269	279	assessment	T058	C0220825
+28242379	293	302	real-time	T079	C1550177
+28242379	313	330	imaging technique	T060	C0079595
+28242379	364	374	structural	T082	C0678594
+28242379	375	382	changes	T169	C0392747
+28242379	392	402	thickening	T033	C0205400
+28242379	417	424	changes	T169	C0392747
+28242379	432	440	internal	T082	C0205102
+28242379	441	455	echo structure	T201	C1719852
+28242379	472	480	diseased	T047	C0012634
+28242379	484	491	damaged	T169	C1883709
+28242379	492	498	tissue	T024	C0040300
+28242379	526	536	US imaging	T060	C0041618
+28242379	538	544	images	T073	C3897454
+28242379	579	597	medical assessment	T058	C0582103
+28242379	625	629	size	T082	C0456389
+28242379	634	642	position	T082	C0733755
+28242379	650	652	PF	T023	C0549109
+28242379	672	680	adjacent	T082	C0205117
+28242379	681	688	tissues	T024	C0040300
+28242379	769	783	interpretation	T033	C0420833
+28242379	787	789	PF	T023	C0549109
+28242379	790	807	ultrasound images	T073	C3897454
+28242379	815	824	diagnosis	T033	C0011900
+28242379	849	880	automatic segmentation approach	T059	C0200768
+28242379	915	930	ultrasound data	T073	C3897454
+28242379	977	979	PF	T023	C0549109
+28242379	981	989	rearfoot	T029	C0230459
+28242379	991	998	midfoot	T029	C0932074
+28242379	1003	1011	forefoot	T023	C1510667
+28242379	1019	1038	segmentation method	T059	C0200768
+28242379	1044	1076	artificial neural network module	T170	C0870951
+28242379	1078	1081	ANN	T170	C0870951
+28242379	1110	1129	overlapping patches	T033	C0243095
+28242379	1167	1185	region of interest	T082	C0807727
+28242379	1187	1190	ROI	T082	C0807727
+28242379	1199	1201	PF	T023	C0549109
+28242379	1202	1208	tissue	T024	C0040300
+28242379	1231	1251	selection techniques	T169	C0025664
+28242379	1272	1287	post-processing	T170	C0449935
+28242379	1297	1305	features	T080	C2346469
+28242379	1359	1377	extracted features	T080	C2346469
+28242379	1391	1394	ANN	T170	C0870951
+28242379	1410	1415	image	T073	C3897454
+28242379	1416	1435	overlapping patches	T033	C0243095
+28242379	1441	1443	PF	T023	C0549109
+28242379	1453	1455	PF	T023	C0549109
+28242379	1456	1462	tissue	T024	C0040300
+28242379	1487	1494	segment	T058	C0700381
+28242379	1507	1509	PF	T023	C0549109
+28242379	1522	1524	PF	T023	C0549109
+28242379	1525	1534	thickness	T080	C1280412
+28242379	1579	1641	distance transformation and area-length calculation algorithms	T170	C0002045
+28242379	1686	1696	segmenting	T058	C0700381
+28242379	1701	1703	PF	T023	C0549109
+28242379	1736	1747	surrounding	T082	C1282914
+28242379	1748	1755	tissues	T024	C0040300
+28242379	1775	1784	thickness	T080	C1280412

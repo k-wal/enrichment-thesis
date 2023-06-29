@@ -1,0 +1,22 @@
+17683901|t|An improved tetra-primer PCR approach for the detection of the FGFR3 G380R mutation responsible for achondroplasia.
+17683901|a|Achondroplasia is the most common form of dwarfism and has an incidence of approximately 1/7500. In more than 98% of cases, the disease is associated with a G to A or G to C substitution at nucleotide position 1138 (p.G380R) of the fibroblast growth factor receptor 3 (FGFR3) gene. We have developed a sensitive single tube tetra-primer PCR assay to detect both the c.1138G>A and c.1138G>C mutations and can successfully distinguish DNA samples that are homozygous and heterozygous for the c.1138G>A mutation. Titration studies showed that the assay could reliably detect one copy of the mutant allele in a mix of 100 wild-type alleles. The assay has been tested in 50 healthy controls, 3 known patients with achondroplasia, and 5 amniotic fluids suspected of having achondroplasia and for whom we had previously determined the genotypes for the c.1138G>A mutation by PCR-RFLP. We have observed complete concordance between methods. Our tetra-primer PCR assay is sensitive, low-cost, and easy to use method for FGFR3 p.G380R genotyping, which could be used even in "low-tech" laboratories.
+17683901	63	68	FGFR3	GeneOrGeneProduct	2261
+17683901	69	74	G380R	SequenceVariant	rs28931614
+17683901	100	114	achondroplasia	DiseaseOrPhenotypicFeature	D000130
+17683901	116	130	Achondroplasia	DiseaseOrPhenotypicFeature	D000130
+17683901	158	166	dwarfism	DiseaseOrPhenotypicFeature	D004392
+17683901	273	330	G to A or G to C substitution at nucleotide position 1138	SequenceVariant	rs28931614
+17683901	332	339	p.G380R	SequenceVariant	rs28931614
+17683901	348	383	fibroblast growth factor receptor 3	GeneOrGeneProduct	2261
+17683901	385	390	FGFR3	GeneOrGeneProduct	2261
+17683901	482	491	c.1138G>A	SequenceVariant	rs28931614
+17683901	496	505	c.1138G>C	SequenceVariant	rs28931614
+17683901	606	615	c.1138G>A	SequenceVariant	rs28931614
+17683901	811	819	patients	OrganismTaxon	9606
+17683901	825	839	achondroplasia	DiseaseOrPhenotypicFeature	D000130
+17683901	883	897	achondroplasia	DiseaseOrPhenotypicFeature	D000130
+17683901	962	971	c.1138G>A	SequenceVariant	rs28931614
+17683901	1127	1132	FGFR3	GeneOrGeneProduct	2261
+17683901	1133	1140	p.G380R	SequenceVariant	rs28931614
+17683901	Association	2261	D000130	No
+17683901	Positive_Correlation	rs28931614	D000130	No

@@ -1,0 +1,76 @@
+20046642|t|Metallothionein induction reduces caspase-3 activity and TNFalpha levels with preservation of cognitive function and intact hippocampal neurons in carmustine-treated rats.
+20046642|a|Hippocampal integrity is essential for cognitive functions. On the other hand, induction of metallothionein (MT) by ZnSO(4) and its role in neuroprotection has been documented. The present study aimed to explore the effect of MT induction on carmustine (BCNU)-induced hippocampal cognitive dysfunction in rats. A total of 60 male Wistar albino rats were randomly divided into four groups (15/group): The control group injected with single doses of normal saline (i.c.v) followed 24 h later by BCNU solvent (i.v). The second group administered ZnSO(4) (0.1 micromol/10 microl normal saline, i.c.v, once) then BCNU solvent (i.v) after 24 h. Third group received BCNU (20 mg/kg, i.v, once) 24 h after injection with normal saline (i.c.v). Fourth group received a single dose of ZnSO(4) (0.1 micromol/10 microl normal saline, i.c.v) then BCNU (20 mg/kg, i.v, once) after 24 h. The obtained data revealed that BCNU administration resulted in deterioration of learning and short-term memory (STM), as measured by using radial arm water maze, accompanied with decreased hippocampal glutathione reductase (GR) activity and reduced glutathione (GSH) content. Also, BCNU administration increased serum tumor necrosis factor-alpha (TNFalpha), hippocampal MT and malondialdehyde (MDA) contents as well as caspase-3 activity in addition to histological alterations. ZnSO(4) pretreatment counteracted BCNU-induced inhibition of GR and depletion of GSH and resulted in significant reduction in the levels of MDA and TNFalpha as well as the activity of caspase-3. The histological features were improved in hippocampus of rats treated with ZnSO(4) + BCNU compared to only BCNU-treated animals. In conclusion, MT induction halts BCNU-induced hippocampal toxicity as it prevented GR inhibition and GSH depletion and counteracted the increased levels of TNFalpha, MDA and caspase-3 activity with subsequent preservation of cognition.
+20046642	0	15	Metallothionein	ChemicalEntity	D008668
+20046642	34	43	caspase-3	GeneOrGeneProduct	25402
+20046642	57	65	TNFalpha	GeneOrGeneProduct	24835
+20046642	147	157	carmustine	ChemicalEntity	D002330
+20046642	166	170	rats	OrganismTaxon	10116
+20046642	264	279	metallothionein	ChemicalEntity	D008668
+20046642	281	283	MT	ChemicalEntity	D008668
+20046642	288	295	ZnSO(4)	ChemicalEntity	D019287
+20046642	398	400	MT	ChemicalEntity	D008668
+20046642	414	424	carmustine	ChemicalEntity	D002330
+20046642	426	430	BCNU	ChemicalEntity	D002330
+20046642	452	473	cognitive dysfunction	DiseaseOrPhenotypicFeature	D003072
+20046642	477	481	rats	OrganismTaxon	10116
+20046642	516	520	rats	OrganismTaxon	10116
+20046642	665	669	BCNU	ChemicalEntity	D002330
+20046642	715	722	ZnSO(4)	ChemicalEntity	D019287
+20046642	780	784	BCNU	ChemicalEntity	D002330
+20046642	832	836	BCNU	ChemicalEntity	D002330
+20046642	947	954	ZnSO(4)	ChemicalEntity	D019287
+20046642	1006	1010	BCNU	ChemicalEntity	D002330
+20046642	1077	1081	BCNU	ChemicalEntity	D002330
+20046642	1109	1156	deterioration of learning and short-term memory	DiseaseOrPhenotypicFeature	D007859,D008569
+20046642	1247	1268	glutathione reductase	GeneOrGeneProduct	116686
+20046642	1270	1272	GR	GeneOrGeneProduct	116686
+20046642	1295	1306	glutathione	ChemicalEntity	D005978
+20046642	1308	1311	GSH	ChemicalEntity	D005978
+20046642	1328	1332	BCNU	ChemicalEntity	D002330
+20046642	1364	1391	tumor necrosis factor-alpha	GeneOrGeneProduct	24835
+20046642	1393	1401	TNFalpha	GeneOrGeneProduct	24835
+20046642	1416	1418	MT	ChemicalEntity	D008668
+20046642	1423	1438	malondialdehyde	ChemicalEntity	D008315
+20046642	1440	1443	MDA	ChemicalEntity	D008315
+20046642	1465	1474	caspase-3	GeneOrGeneProduct	25402
+20046642	1525	1532	ZnSO(4)	ChemicalEntity	D019287
+20046642	1559	1563	BCNU	ChemicalEntity	D002330
+20046642	1586	1588	GR	GeneOrGeneProduct	116686
+20046642	1606	1609	GSH	ChemicalEntity	D005978
+20046642	1665	1668	MDA	ChemicalEntity	D008315
+20046642	1673	1681	TNFalpha	GeneOrGeneProduct	24835
+20046642	1709	1718	caspase-3	GeneOrGeneProduct	25402
+20046642	1778	1782	rats	OrganismTaxon	10116
+20046642	1796	1803	ZnSO(4)	ChemicalEntity	D019287
+20046642	1806	1810	BCNU	ChemicalEntity	D002330
+20046642	1828	1832	BCNU	ChemicalEntity	D002330
+20046642	1865	1867	MT	ChemicalEntity	D008668
+20046642	1884	1888	BCNU	ChemicalEntity	D002330
+20046642	1909	1917	toxicity	DiseaseOrPhenotypicFeature	D064420
+20046642	1934	1936	GR	GeneOrGeneProduct	116686
+20046642	1952	1955	GSH	ChemicalEntity	D005978
+20046642	2007	2015	TNFalpha	GeneOrGeneProduct	24835
+20046642	2017	2020	MDA	ChemicalEntity	D008315
+20046642	2025	2034	caspase-3	GeneOrGeneProduct	25402
+20046642	Negative_Correlation	D019287	25402	Novel
+20046642	Negative_Correlation	D019287	D008315	Novel
+20046642	Negative_Correlation	D019287	24835	Novel
+20046642	Positive_Correlation	D019287	D005978	Novel
+20046642	Positive_Correlation	D019287	116686	Novel
+20046642	Cotreatment	D019287	D002330	No
+20046642	Negative_Correlation	25402	D008668	Novel
+20046642	Positive_Correlation	D008668	D019287	No
+20046642	Negative_Correlation	D008668	D008315	Novel
+20046642	Negative_Correlation	D008668	24835	Novel
+20046642	Positive_Correlation	D008668	D005978	Novel
+20046642	Positive_Correlation	D008668	116686	Novel
+20046642	Negative_Correlation	D003072	D008668	Novel
+20046642	Positive_Correlation	D002330	25402	Novel
+20046642	Positive_Correlation	D002330	D008315	Novel
+20046642	Positive_Correlation	D002330	24835	Novel
+20046642	Negative_Correlation	D002330	D005978	Novel
+20046642	Negative_Correlation	D002330	116686	Novel
+20046642	Positive_Correlation	D002330	D008569	No
+20046642	Positive_Correlation	D002330	D007859	No
+20046642	Positive_Correlation	D002330	D008668	Novel
+20046642	Positive_Correlation	D002330	D003072	No

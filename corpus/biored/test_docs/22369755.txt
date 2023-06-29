@@ -1,0 +1,98 @@
+22369755|t|Reciprocal effects of NNK and SLURP-1 on oncogene expression in target epithelial cells.
+22369755|a|AIMS: To elucidate how the nicotinic acetylcholine receptors expressed on bronchial and oral epithelial cells targeted by the tobacco nitrosamine (4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone) (NNK) facilitate carcinogenic transformation. MAIN METHODS: Since NNK-dependent transformation can be abolished by the nicotinergic secreted mammalian Ly-6/urokinase plasminogen activator receptor related protein-1 (SLURP-1), we compared effects of NNK and recombinant (r)SLURP-1 on the expression of genes related to tumorigenesis in human immortalized bronchial and oral epithelial cell lines BEP2D and Het-1A, respectively. KEY FINDINGS: NNK stimulated expression of oncogenic genes, including MYB and PIK3CA in BEP2D, ETS1, NRAS and SRC in Het-1A, and AKT1, KIT and RB1 in both cell types, which could be abolished in the presence of rSLURP-1. Other cancer-related genes whose upregulation by NNK was abolishable by rSLURP-1 were the growth factors EGF in BEP2D cells and HGF in Het-1A cells, and the transcription factors CDKN2A and STAT3 (Het-1A only). NNK also upregulated the anti-apoptotic BCL2 (Het-1A) and downregulated the pro-apoptotic TNF (Het-1A), BAX and CASP8 (BEP2D), all of which could be abolished, in part, by rSLURP-1. NNK decreased expression of the CTNNB1 gene encoding the intercellular adhesion molecule beta-catenin (BEP2D), as well as tumor suppressors CDKN3 and FOXD3 in BEP2D cells and SERPINB5 in Het-1A cells. These pro-oncogenic effects of NNK were abolished by rSLURP-1 that also upregulated RUNX3. SIGNIFICANCE: The obtained results identified target genes for both NNK and SLURP-1 and shed light on the molecular mechanism of their reciprocal effects on tumorigenic transformation of bronchial and oral epithelial cells.
+22369755	22	25	NNK	ChemicalEntity	C016583
+22369755	30	37	SLURP-1	GeneOrGeneProduct	57152
+22369755	116	149	nicotinic acetylcholine receptors	GeneOrGeneProduct	1136
+22369755	215	222	tobacco	OrganismTaxon	4097
+22369755	223	234	nitrosamine	ChemicalEntity	D009602
+22369755	236	282	4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone	ChemicalEntity	C016583
+22369755	285	288	NNK	ChemicalEntity	C016583
+22369755	301	313	carcinogenic	DiseaseOrPhenotypicFeature	D009369
+22369755	350	353	NNK	ChemicalEntity	C016583
+22369755	435	498	Ly-6/urokinase plasminogen activator receptor related protein-1	GeneOrGeneProduct	57152
+22369755	500	507	SLURP-1	GeneOrGeneProduct	57152
+22369755	533	536	NNK	ChemicalEntity	C016583
+22369755	556	563	SLURP-1	GeneOrGeneProduct	57152
+22369755	602	615	tumorigenesis	DiseaseOrPhenotypicFeature	D009369
+22369755	619	624	human	OrganismTaxon	9606
+22369755	679	684	BEP2D	CellLine	CVCL_6E77
+22369755	689	695	Het-1A	CellLine	CVCL_3702
+22369755	725	728	NNK	ChemicalEntity	C016583
+22369755	781	784	MYB	GeneOrGeneProduct	4602
+22369755	789	795	PIK3CA	GeneOrGeneProduct	5290
+22369755	799	804	BEP2D	CellLine	CVCL_6E77
+22369755	806	810	ETS1	GeneOrGeneProduct	2113
+22369755	812	816	NRAS	GeneOrGeneProduct	4893
+22369755	821	824	SRC	GeneOrGeneProduct	6714
+22369755	828	834	Het-1A	CellLine	CVCL_3702
+22369755	840	844	AKT1	GeneOrGeneProduct	207
+22369755	846	849	KIT	GeneOrGeneProduct	3815
+22369755	854	857	RB1	GeneOrGeneProduct	5925
+22369755	922	930	rSLURP-1	GeneOrGeneProduct	57152
+22369755	938	944	cancer	DiseaseOrPhenotypicFeature	D009369
+22369755	981	984	NNK	ChemicalEntity	C016583
+22369755	1004	1012	rSLURP-1	GeneOrGeneProduct	57152
+22369755	1037	1040	EGF	GeneOrGeneProduct	1950
+22369755	1044	1049	BEP2D	CellLine	CVCL_6E77
+22369755	1060	1063	HGF	GeneOrGeneProduct	3082
+22369755	1067	1073	Het-1A	CellLine	CVCL_3702
+22369755	1111	1117	CDKN2A	GeneOrGeneProduct	1029
+22369755	1122	1127	STAT3	GeneOrGeneProduct	6774
+22369755	1129	1135	Het-1A	CellLine	CVCL_3702
+22369755	1143	1146	NNK	ChemicalEntity	C016583
+22369755	1183	1187	BCL2	GeneOrGeneProduct	596
+22369755	1189	1195	Het-1A	CellLine	CVCL_3702
+22369755	1233	1236	TNF	GeneOrGeneProduct	7124
+22369755	1238	1244	Het-1A	CellLine	CVCL_3702
+22369755	1247	1250	BAX	GeneOrGeneProduct	581
+22369755	1255	1260	CASP8	GeneOrGeneProduct	841
+22369755	1262	1267	BEP2D	CellLine	CVCL_6E77
+22369755	1315	1323	rSLURP-1	GeneOrGeneProduct	57152
+22369755	1325	1328	NNK	ChemicalEntity	C016583
+22369755	1357	1363	CTNNB1	GeneOrGeneProduct	1499
+22369755	1414	1426	beta-catenin	GeneOrGeneProduct	1499
+22369755	1428	1433	BEP2D	CellLine	CVCL_6E77
+22369755	1447	1452	tumor	DiseaseOrPhenotypicFeature	D009369
+22369755	1465	1470	CDKN3	GeneOrGeneProduct	1033
+22369755	1475	1480	FOXD3	GeneOrGeneProduct	27022
+22369755	1484	1489	BEP2D	CellLine	CVCL_6E77
+22369755	1500	1508	SERPINB5	GeneOrGeneProduct	5268
+22369755	1512	1518	Het-1A	CellLine	CVCL_3702
+22369755	1557	1560	NNK	ChemicalEntity	C016583
+22369755	1579	1587	rSLURP-1	GeneOrGeneProduct	57152
+22369755	1610	1615	RUNX3	GeneOrGeneProduct	864
+22369755	1685	1688	NNK	ChemicalEntity	C016583
+22369755	1693	1700	SLURP-1	GeneOrGeneProduct	57152
+22369755	1774	1785	tumorigenic	DiseaseOrPhenotypicFeature	D009369
+22369755	Association	5268	D009369	Novel
+22369755	Association	27022	D009369	Novel
+22369755	Association	1033	D009369	Novel
+22369755	Association	D009369	6774	Novel
+22369755	Association	D009369	1029	Novel
+22369755	Association	D009369	3082	Novel
+22369755	Association	D009369	1950	Novel
+22369755	Positive_Correlation	5925	C016583	Novel
+22369755	Positive_Correlation	3815	C016583	Novel
+22369755	Positive_Correlation	207	C016583	Novel
+22369755	Positive_Correlation	6714	C016583	Novel
+22369755	Positive_Correlation	4893	C016583	Novel
+22369755	Positive_Correlation	2113	C016583	Novel
+22369755	Positive_Correlation	57152	864	Novel
+22369755	Association	57152	D009369	Novel
+22369755	Positive_Correlation	C016583	864	Novel
+22369755	Negative_Correlation	C016583	5268	Novel
+22369755	Negative_Correlation	C016583	27022	Novel
+22369755	Negative_Correlation	C016583	1033	Novel
+22369755	Negative_Correlation	C016583	1499	Novel
+22369755	Negative_Correlation	C016583	841	Novel
+22369755	Negative_Correlation	C016583	581	Novel
+22369755	Negative_Correlation	C016583	7124	Novel
+22369755	Positive_Correlation	C016583	596	Novel
+22369755	Positive_Correlation	C016583	6774	Novel
+22369755	Positive_Correlation	C016583	1029	Novel
+22369755	Positive_Correlation	C016583	3082	Novel
+22369755	Positive_Correlation	C016583	1950	Novel
+22369755	Association	C016583	D009369	Novel
+22369755	Positive_Correlation	C016583	5290	Novel
+22369755	Positive_Correlation	C016583	4602	Novel
+22369755	Negative_Correlation	C016583	57152	Novel

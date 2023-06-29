@@ -1,0 +1,55 @@
+21195121|t|The role of nitric oxide in convulsions induced by lindane in rats.
+21195121|a|Lindane is an organochloride pesticide and scabicide. It evokes convulsions mainly trough the blockage of GABA(A) receptors. Nitric oxide (NO), gaseous neurotransmitter, has contradictor role in epileptogenesis due to opposite effects of L-arginine, precursor of NO syntheses (NOS), and L-NAME (NOS inhibitor) observed in different epilepsy models. The aim of the current study was to determine the effects of NO on the behavioral and EEG characteristics of lindane-induced epilepsy in male Wistar albino rats. The administration of L-arginine (600, 800 and 1000 mg/kg, i.p.) in dose-dependent manner significantly increased convulsion incidence and severity and shortened latency time to first convulsion elicited by lower lindane dose (4 mg/kg, i.p.). On the contrary, pretreatment with L-NAME (500, 700 and 900 mg/kg, i.p.) decreased convulsion incidence and severity and prolonged latency time to convulsion following injection with a convulsive dose of lindane (8 mg/kg, i.p.). EEG analyses showed increase of number and duration of ictal periods in EEG of rats receiving l-arginine prior to lindane and decrease of this number in rats pretreated with L-NAME. These results support the conclusion that NO plays a role of endogenous convulsant in rat model of lindane seizures.
+21195121	12	24	nitric oxide	ChemicalEntity	D009569
+21195121	28	39	convulsions	DiseaseOrPhenotypicFeature	D012640
+21195121	51	58	lindane	ChemicalEntity	D001556
+21195121	62	66	rats	OrganismTaxon	10116
+21195121	68	75	Lindane	ChemicalEntity	D001556
+21195121	82	96	organochloride	ChemicalEntity	D006843
+21195121	97	106	pesticide	ChemicalEntity	D010575
+21195121	111	120	scabicide	ChemicalEntity	D056810
+21195121	132	143	convulsions	DiseaseOrPhenotypicFeature	D012640
+21195121	174	191	GABA(A) receptors	GeneOrGeneProduct	29705
+21195121	193	205	Nitric oxide	ChemicalEntity	D009569
+21195121	207	209	NO	ChemicalEntity	D009569
+21195121	306	316	L-arginine	ChemicalEntity	D001120
+21195121	331	343	NO syntheses	GeneOrGeneProduct	24598
+21195121	345	348	NOS	GeneOrGeneProduct	24598
+21195121	355	361	L-NAME	ChemicalEntity	D019331
+21195121	363	366	NOS	GeneOrGeneProduct	24598
+21195121	400	408	epilepsy	DiseaseOrPhenotypicFeature	D004827
+21195121	478	480	NO	ChemicalEntity	D009569
+21195121	526	533	lindane	ChemicalEntity	D001556
+21195121	542	550	epilepsy	DiseaseOrPhenotypicFeature	D004827
+21195121	573	577	rats	OrganismTaxon	10116
+21195121	601	611	L-arginine	ChemicalEntity	D001120
+21195121	693	703	convulsion	DiseaseOrPhenotypicFeature	D012640
+21195121	763	773	convulsion	DiseaseOrPhenotypicFeature	D012640
+21195121	792	799	lindane	ChemicalEntity	D001556
+21195121	857	863	L-NAME	ChemicalEntity	D019331
+21195121	905	915	convulsion	DiseaseOrPhenotypicFeature	D012640
+21195121	969	979	convulsion	DiseaseOrPhenotypicFeature	D012640
+21195121	1007	1017	convulsive	DiseaseOrPhenotypicFeature	D012640
+21195121	1026	1033	lindane	ChemicalEntity	D001556
+21195121	1130	1134	rats	OrganismTaxon	10116
+21195121	1145	1155	l-arginine	ChemicalEntity	D001120
+21195121	1165	1172	lindane	ChemicalEntity	D001556
+21195121	1204	1208	rats	OrganismTaxon	10116
+21195121	1225	1231	L-NAME	ChemicalEntity	D019331
+21195121	1275	1277	NO	ChemicalEntity	D009569
+21195121	1305	1315	convulsant	DiseaseOrPhenotypicFeature	D012640
+21195121	1319	1322	rat	OrganismTaxon	10116
+21195121	1332	1339	lindane	ChemicalEntity	D001556
+21195121	1340	1348	seizures	DiseaseOrPhenotypicFeature	D012640
+21195121	Association	D012640	29705	No
+21195121	Negative_Correlation	D001556	29705	No
+21195121	Positive_Correlation	D001556	D012640	Novel
+21195121	Positive_Correlation	D001556	D004827	No
+21195121	Negative_Correlation	D019331	D012640	Novel
+21195121	Negative_Correlation	24598	D019331	No
+21195121	Positive_Correlation	D001120	D012640	Novel
+21195121	Positive_Correlation	D009569	D012640	Novel
+21195121	Association	D009569	D001556	Novel
+21195121	Association	D009569	D019331	No
+21195121	Association	D009569	24598	No
+21195121	Association	D009569	D001120	No

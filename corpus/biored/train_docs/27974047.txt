@@ -1,0 +1,85 @@
+27974047|t|FGFR1 and NTRK3 actionable alterations in "Wild-Type" gastrointestinal stromal tumors.
+27974047|a|BACKGROUND: About 10-15% of adult, and most pediatric, gastrointestinal stromal tumors (GIST) lack mutations in KIT, PDGFRA, SDHx, or RAS pathway components (KRAS, BRAF, NF1). The identification of additional mutated genes in this rare subset of tumors can have important clinical benefit to identify altered biological pathways and select targeted therapies. METHODS: We performed comprehensive genomic profiling (CGP) for coding regions in more than 300 cancer-related genes of 186 GISTs to assess for their somatic alterations. RESULTS: We identified 24 GIST lacking alterations in the canonical KIT/PDGFRA/RAS pathways, including 12 without SDHx alterations. These 24 patients were mostly adults (96%). The tumors had a 46% rate of nodal metastases. These 24 GIST were more commonly mutated at 7 genes: ARID1B, ATR, FGFR1, LTK, SUFU, PARK2 and ZNF217. Two tumors harbored FGFR1 gene fusions (FGFR1-HOOK3, FGFR1-TACC1) and one harbored an ETV6-NTRK3 fusion that responded to TRK inhibition. In an independent sample set, we identified 5 GIST cases lacking alterations in the KIT/PDGFRA/SDHx/RAS pathways, including two additional cases with FGFR1-TACC1 and ETV6-NTRK3 fusions. CONCLUSIONS: Using patient demographics, tumor characteristics, and CGP, we show that GIST lacking alterations in canonical genes occur in younger patients, frequently metastasize to lymph nodes, and most contain deleterious genomic alterations, including gene fusions involving FGFR1 and NTRK3. If confirmed in larger series, routine testing for these translocations may be indicated for this subset of GIST. Moreover, these findings can be used to guide personalized treatments for patients with GIST. Trial registration NCT 02576431. Registered October 12, 2015.
+27974047	0	5	FGFR1	GeneOrGeneProduct	2260
+27974047	10	15	NTRK3	GeneOrGeneProduct	4916
+27974047	54	85	gastrointestinal stromal tumors	DiseaseOrPhenotypicFeature	D046152
+27974047	142	173	gastrointestinal stromal tumors	DiseaseOrPhenotypicFeature	D046152
+27974047	175	179	GIST	DiseaseOrPhenotypicFeature	D046152
+27974047	199	202	KIT	GeneOrGeneProduct	3815
+27974047	204	210	PDGFRA	GeneOrGeneProduct	5156
+27974047	212	216	SDHx	GeneOrGeneProduct	6390
+27974047	221	224	RAS	GeneOrGeneProduct	3845
+27974047	245	249	KRAS	GeneOrGeneProduct	3845
+27974047	251	255	BRAF	GeneOrGeneProduct	673
+27974047	257	260	NF1	GeneOrGeneProduct	4763
+27974047	333	339	tumors	DiseaseOrPhenotypicFeature	D009369
+27974047	543	549	cancer	DiseaseOrPhenotypicFeature	D009369
+27974047	571	576	GISTs	DiseaseOrPhenotypicFeature	D046152
+27974047	644	648	GIST	DiseaseOrPhenotypicFeature	D046152
+27974047	686	689	KIT	GeneOrGeneProduct	3815
+27974047	690	696	PDGFRA	GeneOrGeneProduct	5156
+27974047	697	700	RAS	GeneOrGeneProduct	3845
+27974047	732	736	SDHx	GeneOrGeneProduct	6390
+27974047	759	767	patients	OrganismTaxon	9606
+27974047	798	804	tumors	DiseaseOrPhenotypicFeature	D009369
+27974047	823	839	nodal metastases	DiseaseOrPhenotypicFeature	D009362
+27974047	850	854	GIST	DiseaseOrPhenotypicFeature	D046152
+27974047	894	900	ARID1B	GeneOrGeneProduct	57492
+27974047	902	905	ATR	GeneOrGeneProduct	545
+27974047	907	912	FGFR1	GeneOrGeneProduct	2260
+27974047	914	917	LTK	GeneOrGeneProduct	4058
+27974047	919	923	SUFU	GeneOrGeneProduct	51684
+27974047	925	930	PARK2	GeneOrGeneProduct	5071
+27974047	935	941	ZNF217	GeneOrGeneProduct	7764
+27974047	947	953	tumors	DiseaseOrPhenotypicFeature	D009369
+27974047	963	968	FGFR1	GeneOrGeneProduct	2260
+27974047	983	988	FGFR1	GeneOrGeneProduct	2260
+27974047	989	994	HOOK3	GeneOrGeneProduct	84376
+27974047	996	1001	FGFR1	GeneOrGeneProduct	2260
+27974047	1002	1007	TACC1	GeneOrGeneProduct	6867
+27974047	1029	1033	ETV6	GeneOrGeneProduct	2120
+27974047	1034	1039	NTRK3	GeneOrGeneProduct	4916
+27974047	1065	1068	TRK	GeneOrGeneProduct	4914
+27974047	1127	1131	GIST	DiseaseOrPhenotypicFeature	D046152
+27974047	1165	1168	KIT	GeneOrGeneProduct	3815
+27974047	1169	1175	PDGFRA	GeneOrGeneProduct	5156
+27974047	1176	1180	SDHx	GeneOrGeneProduct	6390
+27974047	1181	1184	RAS	GeneOrGeneProduct	3845
+27974047	1231	1236	FGFR1	GeneOrGeneProduct	2260
+27974047	1237	1242	TACC1	GeneOrGeneProduct	6867
+27974047	1247	1251	ETV6	GeneOrGeneProduct	2120
+27974047	1252	1257	NTRK3	GeneOrGeneProduct	4916
+27974047	1286	1293	patient	OrganismTaxon	9606
+27974047	1308	1313	tumor	DiseaseOrPhenotypicFeature	D009369
+27974047	1353	1357	GIST	DiseaseOrPhenotypicFeature	D046152
+27974047	1414	1422	patients	OrganismTaxon	9606
+27974047	1435	1461	metastasize to lymph nodes	DiseaseOrPhenotypicFeature	D009362
+27974047	1546	1551	FGFR1	GeneOrGeneProduct	2260
+27974047	1556	1561	NTRK3	GeneOrGeneProduct	4916
+27974047	1671	1675	GIST	DiseaseOrPhenotypicFeature	D046152
+27974047	1751	1759	patients	OrganismTaxon	9606
+27974047	1765	1769	GIST	DiseaseOrPhenotypicFeature	D046152
+27974047	Association	673	D046152	No
+27974047	Association	3845	D046152	No
+27974047	Association	4916	4914	Novel
+27974047	Association	2120	4914	Novel
+27974047	Association	2120	4916	Novel
+27974047	Association	D009369	4914	Novel
+27974047	Association	D009369	4916	Novel
+27974047	Association	D009369	2120	Novel
+27974047	Association	D009369	6867	Novel
+27974047	Association	D009369	84376	Novel
+27974047	Association	D009369	2260	Novel
+27974047	Association	2260	6867	Novel
+27974047	Association	2260	84376	Novel
+27974047	Association	D046152	4916	Novel
+27974047	Association	D046152	2120	Novel
+27974047	Association	D046152	6867	Novel
+27974047	Association	D046152	7764	No
+27974047	Association	D046152	5071	No
+27974047	Association	D046152	51684	No
+27974047	Association	D046152	4058	No
+27974047	Association	D046152	2260	Novel
+27974047	Association	D046152	545	No
+27974047	Association	D046152	57492	No
+27974047	Association	4763	D046152	No

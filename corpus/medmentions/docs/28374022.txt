@@ -1,0 +1,95 @@
+28374022|t|A coarse-grained model for assisting the investigation of structure and dynamics of large nucleic acids by ion mobility spectrometry-mass spectrometry
+28374022|a|Ion Mobility Spectrometry-Mass Spectrometry (IMS-MS) is a rapidly emerging tool for the investigation of nucleic acid structure and dynamics. IMS-MS determinations can provide valuable information regarding alternative topologies, folding intermediates, and conformational heterogeneities, which are not readily accessible to other analytical techniques. The leading strategies for data interpretation rely on computational and experimental approaches to correctly assign experimental observations to putative structures. A very effective strategy involves the application of molecular dynamics (MD) simulations to predict the structure of the analyte molecule, calculate its collision cross section (CCS), and then compare this computational value with the corresponding experimental data. While this approach works well for small nucleic acid species, analyzing larger nucleic acids of biological interest is hampered by the computational cost associated with capturing their extensive structure and dynamics in all-atom detail. In this report, we describe the implementation of a coarse graining (CG) approach to reduce the cost of the computational methods employed in the data interpretation workflow. Our framework employs a five-bead model to accurately represent each nucleotide in the nucleic acid structure. The beads are appropriately parameterized to enable the direct calculation of CCS values from CG models, thus affording the ability to pursue the analysis of larger, highly dynamic constructs. The validity of this approach was successfully confirmed by the excellent correlation between the CCS values obtained in parallel by all-atom and CG workflows.
+28374022	2	22	coarse-grained model	T170	C3161035
+28374022	27	36	assisting	T058	C1280910
+28374022	41	54	investigation	T058	C0220825
+28374022	58	67	structure	T082	C0678594
+28374022	72	80	dynamics	T044	C0596957
+28374022	90	103	nucleic acids	T114,T123	C0028606
+28374022	107	150	ion mobility spectrometry-mass spectrometry	T059	C0037813
+28374022	151	194	Ion Mobility Spectrometry-Mass Spectrometry	T059	C0037813
+28374022	196	202	IMS-MS	T059	C0037813
+28374022	226	230	tool	T073	C2827396
+28374022	239	252	investigation	T058	C0220825
+28374022	256	268	nucleic acid	T114,T123	C0028606
+28374022	269	278	structure	T082	C0678594
+28374022	283	291	dynamics	T044	C0596957
+28374022	293	299	IMS-MS	T059	C0037813
+28374022	300	314	determinations	T059	C1148554
+28374022	319	326	provide	T052	C1999230
+28374022	327	347	valuable information	T078	C1533716
+28374022	358	369	alternative	T077	C1523987
+28374022	370	380	topologies	T091	C0002812
+28374022	382	389	folding	T044	C0162847
+28374022	390	403	intermediates	T082	C0205103
+28374022	409	423	conformational	T044	C0301641
+28374022	424	439	heterogeneities	T032	C0242960
+28374022	483	504	analytical techniques	T059	C2713613
+28374022	533	537	data	T078	C1511726
+28374022	538	552	interpretation	T170	C0459471
+28374022	561	574	computational	T059	C4297010
+28374022	579	591	experimental	T080	C1517586
+28374022	616	622	assign	T169	C1516050
+28374022	623	648	experimental observations	T062	C0302523
+28374022	661	671	structures	T082	C0678594
+28374022	680	689	effective	T080	C1704419
+28374022	712	723	application	T169	C4048755
+28374022	727	745	molecular dynamics	T044	C0596957
+28374022	747	749	MD	T044	C0596957
+28374022	751	762	simulations	UnknownType	C0681948
+28374022	766	773	predict	T078	C0681842
+28374022	778	787	structure	T082	C0678594
+28374022	795	811	analyte molecule	T167	C0443354
+28374022	813	822	calculate	T052	C1441506
+28374022	827	850	collision cross section	T082	C0552389
+28374022	852	855	CCS	T082	C0552389
+28374022	867	874	compare	T052	C1707455
+28374022	880	893	computational	T052	C1880157
+28374022	894	899	value	T081	C1522609
+28374022	923	935	experimental	T080	C1517586
+28374022	936	940	data	T078	C1511726
+28374022	983	995	nucleic acid	T114,T123	C0028606
+28374022	1022	1035	nucleic acids	T114,T123	C0028606
+28374022	1039	1049	biological	T080	C0205460
+28374022	1078	1091	computational	T052	C1880157
+28374022	1092	1096	cost	T169	C0220812
+28374022	1097	1112	associated with	T080	C0332281
+28374022	1129	1138	extensive	T080	C0205231
+28374022	1139	1148	structure	T082	C0678594
+28374022	1153	1161	dynamics	T044	C0596957
+28374022	1165	1180	all-atom detail	T080	C1522508
+28374022	1190	1196	report	T170	C0684224
+28374022	1214	1228	implementation	T052	C1708476
+28374022	1234	1263	coarse graining (CG) approach	T170	C3161035
+28374022	1267	1273	reduce	T080	C0392756
+28374022	1278	1282	cost	T169	C0220812
+28374022	1290	1311	computational methods	T062	C1516769
+28374022	1312	1320	employed	T033	C0557351
+28374022	1328	1332	data	T078	C1511726
+28374022	1333	1347	interpretation	T170	C0459471
+28374022	1348	1356	workflow	T077	C1710679
+28374022	1372	1379	employs	T033	C0557351
+28374022	1382	1397	five-bead model	T170	C3161035
+28374022	1401	1411	accurately	T080	C0443131
+28374022	1412	1421	represent	T052	C1882932
+28374022	1427	1437	nucleotide	T114	C0028630
+28374022	1445	1457	nucleic acid	T114,T123	C0028606
+28374022	1458	1467	structure	T082	C0678594
+28374022	1532	1543	calculation	T052	C1441506
+28374022	1547	1550	CCS	T082	C0552389
+28374022	1551	1557	values	T081	C1522609
+28374022	1563	1572	CG models	T170	C3161035
+28374022	1615	1623	analysis	T062	C0936012
+28374022	1627	1633	larger	T081	C0549177
+28374022	1635	1649	highly dynamic	T169	C0729333
+28374022	1650	1660	constructs	T114	C0598279
+28374022	1666	1674	validity	T081	C2349101
+28374022	1709	1721	confirmed by	T080	C0521093
+28374022	1726	1735	excellent	T080	C1961136
+28374022	1736	1747	correlation	T080	C1707520
+28374022	1760	1763	CCS	T082	C0552389
+28374022	1764	1770	values	T081	C1522609
+28374022	1771	1779	obtained	T169	C1301820
+28374022	1783	1791	parallel	T062	C2826345
+28374022	1795	1803	all-atom	T077	C1710679
+28374022	1808	1820	CG workflows	T077	C1710679

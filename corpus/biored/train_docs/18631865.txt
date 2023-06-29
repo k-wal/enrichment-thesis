@@ -1,0 +1,28 @@
+18631865|t|mToR inhibitors-induced proteinuria: mechanisms, significance, and management.
+18631865|a|Massive urinary protein excretion has been observed after conversion from calcineurin inhibitors to mammalian target of rapamycin (mToR) inhibitors, especially sirolimus, in renal transplant recipients with chronic allograft nephropathy. Because proteinuria is a major predictive factor of poor transplantation outcome, many studies focused on this adverse event during the past years. Whether proteinuria was due to sirolimus or only a consequence of calcineurin inhibitors withdrawal remained unsolved until high range proteinuria has been observed during sirolimus therapy in islet transplantation and in patients who received sirolimus de novo. Podocyte injury and focal segmental glomerulosclerosis have been related to mToR inhibition in some patients, but the pathways underlying these lesions remain hypothetic. We discuss herein the possible mechanisms and the significance of mToR blockade-induced proteinuria.
+18631865	0	15	mToR inhibitors	ChemicalEntity	-
+18631865	24	35	proteinuria	DiseaseOrPhenotypicFeature	D011507
+18631865	153	175	calcineurin inhibitors	ChemicalEntity	D065095
+18631865	179	226	mammalian target of rapamycin (mToR) inhibitors	ChemicalEntity	-
+18631865	239	248	sirolimus	ChemicalEntity	D020123
+18631865	286	315	chronic allograft nephropathy	DiseaseOrPhenotypicFeature	D051436
+18631865	325	336	proteinuria	DiseaseOrPhenotypicFeature	D011507
+18631865	473	484	proteinuria	DiseaseOrPhenotypicFeature	D011507
+18631865	496	505	sirolimus	ChemicalEntity	D020123
+18631865	531	553	calcineurin inhibitors	ChemicalEntity	D065095
+18631865	600	611	proteinuria	DiseaseOrPhenotypicFeature	D011507
+18631865	637	646	sirolimus	ChemicalEntity	D020123
+18631865	687	695	patients	OrganismTaxon	9606
+18631865	709	718	sirolimus	ChemicalEntity	D020123
+18631865	764	782	glomerulosclerosis	DiseaseOrPhenotypicFeature	D005921
+18631865	804	808	mToR	GeneOrGeneProduct	2475
+18631865	828	836	patients	OrganismTaxon	9606
+18631865	965	969	mToR	GeneOrGeneProduct	2475
+18631865	987	998	proteinuria	DiseaseOrPhenotypicFeature	D011507
+18631865	Negative_Correlation	D020123	D051436	No
+18631865	Association	D065095	D051436	No
+18631865	Comparison	D065095	D020123	No
+18631865	Association	D065095	D011507	No
+18631865	Association	2475	D011507	No
+18631865	Association	D005921	2475	No
+18631865	Positive_Correlation	D011507	D020123	Novel

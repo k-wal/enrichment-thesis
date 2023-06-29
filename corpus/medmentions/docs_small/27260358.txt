@@ -1,0 +1,80 @@
+27260358|t|Ammonia as an In Situ Sanitizer: Influence of Virus Genome Type on Inactivation
+27260358|a|Treatment of human excreta and animal manure (HEAM) is key in controlling the spread of persistent enteric pathogens, such as viruses. The extent of virus inactivation during HEAM storage and treatment appears to vary with virus genome type, although the reasons for this variability are not clear. Here, we investigated the inactivation of viruses of different genome types under conditions representative of HEAM storage or mesophilic digestion. The goals were to characterize the influence of HEAM solution conditions on inactivation and to determine the potential mechanisms involved. Specifically, eight viruses representing the four viral genome types (single-stranded RNA [ssRNA], double-stranded RNA [dsRNA], single-stranded DNA [ssDNA], and double-stranded DNA [dsDNA]) were exposed to synthetic solutions with well-controlled temperature (20 to 35°C), pH (8 to 9), and ammonia (NH3) concentrations (0 to 40 mmol liter(-1)). DNA and dsRNA viruses were considerably more resistant than ssRNA viruses, resulting in up to 1,000-fold-longer treatment times to reach a 4-log inactivation. The apparently slower inactivation of DNA viruses was rationalized by the higher stability of DNA than that of ssRNA in HEAM. Pushing the system toward harsher pH (>9) and temperature (>35°C) conditions, such as those encountered in thermophilic digestion and alkaline treatments, led to more consistent inactivation kinetics among ssRNA and other viruses. This suggests that the dependence of inactivation on genome type disappeared in favor of protein -mediated inactivation mechanisms common to all viruses. Finally, we recommend the use of MS2 as a conservative indicator to assess the inactivation of ssRNA viruses and the stable ΦX174 or dsDNA phages as indicators for persistent viruses. Viruses are among the most environmentally persistent pathogens. They can be present in high concentrations in human excreta and animal manure (HEAM). Therefore, appropriate treatment of HEAM is important prior to its reuse or discharge into the environment. Here, we investigated the factors that determine the persistence of viruses in HEAM, and we determined the main mechanisms that lead to their inactivation. Unlike other organisms, viruses can have four different genome types (double- or single-stranded RNA or DNA), and the viruses studied herein represent all four types. Genome type appeared to be the major determinant for persistence. Single-stranded RNA viruses are the most labile, because this genome type is susceptible to degradation in HEAM. In contrast, the other genome types are more stable; therefore, inactivation is slower and mainly driven by the degradation of viral proteins. Overall, this study allows us to better understand the behavior of viruses in HEAM.
+27260358	0	7	Ammonia	T103	UMLS:C0002607
+27260358	14	21	In Situ	T082	UMLS:C0444498
+27260358	46	51	Virus	T005	UMLS:C0042776
+27260358	52	63	Genome Type	T017	UMLS:C0017428
+27260358	93	98	human	T204	UMLS:C0086418
+27260358	99	106	excreta	T031	UMLS:C0504085
+27260358	111	117	animal	T204	UMLS:C0003062
+27260358	126	130	HEAM	T031	UMLS:C0504085
+27260358	179	186	enteric	T082	UMLS:C1304890
+27260358	206	213	viruses	T005	UMLS:C0042776
+27260358	219	225	extent	T082	UMLS:C0439792
+27260358	229	247	virus inactivation	T058	UMLS:C0599953
+27260358	255	259	HEAM	T031	UMLS:C0504085
+27260358	303	308	virus	T005	UMLS:C0042776
+27260358	309	320	genome type	T017	UMLS:C0017428
+27260358	421	428	viruses	T005	UMLS:C0042776
+27260358	442	454	genome types	T017	UMLS:C0017428
+27260358	490	494	HEAM	T031	UMLS:C0504085
+27260358	517	526	digestion	T038	UMLS:C0012238
+27260358	576	580	HEAM	T031	UMLS:C0504085
+27260358	689	696	viruses	T005	UMLS:C0042776
+27260358	719	737	viral genome types	T017	UMLS:C0042720
+27260358	739	758	single-stranded RNA	T103	UMLS:C3272452
+27260358	760	765	ssRNA	T103	UMLS:C3272452
+27260358	768	787	double-stranded RNA	T103	UMLS:C0035693
+27260358	789	794	dsRNA	T103	UMLS:C0035693
+27260358	797	816	single-stranded DNA	T103	UMLS:C0012935
+27260358	818	823	ssDNA	T103	UMLS:C0012935
+27260358	830	849	double-stranded DNA	T103	UMLS:C0311474
+27260358	851	856	dsDNA	T103	UMLS:C0311474
+27260358	959	966	ammonia	T103	UMLS:C0002607
+27260358	968	971	NH3	T103	UMLS:C0002607
+27260358	1014	1017	DNA	T103	UMLS:C0012854
+27260358	1022	1027	dsRNA	T103	UMLS:C0035693
+27260358	1028	1035	viruses	T005	UMLS:C0042776
+27260358	1074	1087	ssRNA viruses	T005	UMLS:C1911773
+27260358	1211	1222	DNA viruses	T005	UMLS:C0012923
+27260358	1254	1263	stability	T058	UMLS:C0796351
+27260358	1267	1270	DNA	T103	UMLS:C0012854
+27260358	1284	1289	ssRNA	T103	UMLS:C3272452
+27260358	1293	1297	HEAM	T031	UMLS:C0504085
+27260358	1419	1428	digestion	T038	UMLS:C0012238
+27260358	1505	1510	ssRNA	T103	UMLS:C3272452
+27260358	1521	1528	viruses	T005	UMLS:C0042776
+27260358	1583	1594	genome type	T017	UMLS:C0017428
+27260358	1619	1626	protein	T103	UMLS:C0033684
+27260358	1675	1682	viruses	T005	UMLS:C0042776
+27260358	1717	1720	MS2	T005	UMLS:C0206390
+27260358	1779	1792	ssRNA viruses	T005	UMLS:C1911773
+27260358	1808	1813	ΦX174	T005	UMLS:C0031303
+27260358	1817	1822	dsDNA	T103	UMLS:C0311474
+27260358	1823	1829	phages	T005	UMLS:C0004651
+27260358	1859	1866	viruses	T005	UMLS:C0042776
+27260358	1868	1875	Viruses	T005	UMLS:C0042776
+27260358	1895	1910	environmentally	T082	UMLS:C0014406
+27260358	1945	1952	present	T033	UMLS:C0150312
+27260358	1979	1984	human	T204	UMLS:C0086418
+27260358	1985	1992	excreta	T031	UMLS:C0504085
+27260358	1997	2003	animal	T204	UMLS:C0003062
+27260358	2012	2016	HEAM	T031	UMLS:C0504085
+27260358	2055	2059	HEAM	T031	UMLS:C0504085
+27260358	2095	2104	discharge	T031	UMLS:C2926602
+27260358	2114	2125	environment	T082	UMLS:C0014406
+27260358	2195	2202	viruses	T005	UMLS:C0042776
+27260358	2206	2210	HEAM	T031	UMLS:C0504085
+27260358	2307	2314	viruses	T005	UMLS:C0042776
+27260358	2339	2351	genome types	T017	UMLS:C0017428
+27260358	2364	2383	single-stranded RNA	T103	UMLS:C3272452
+27260358	2387	2390	DNA	T103	UMLS:C0012854
+27260358	2401	2408	viruses	T005	UMLS:C0042776
+27260358	2450	2461	Genome type	T017	UMLS:C0017428
+27260358	2516	2543	Single-stranded RNA viruses	T005	UMLS:C1911773
+27260358	2578	2589	genome type	T017	UMLS:C0017428
+27260358	2623	2627	HEAM	T031	UMLS:C0504085
+27260358	2652	2664	genome types	T017	UMLS:C0017428
+27260358	2756	2770	viral proteins	T103	UMLS:C0042736
+27260358	2839	2846	viruses	T005	UMLS:C0042776
+27260358	2850	2854	HEAM	T031	UMLS:C0504085

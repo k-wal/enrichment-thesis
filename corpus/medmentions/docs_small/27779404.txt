@@ -1,0 +1,44 @@
+27779404|t|Rotation-Driven Microfluidic Disc for White Blood Cell Enumeration Using Magnetic Bead Aggregation
+27779404|a|We recently defined a magnetic bead-based assay that exploited an agglutination -like response for DNA and applied it to DNA - containing cell enumeration using inexpensive benchtop hardware [J. Am. Chem. Soc. 2012, 134 (12), 5689 - 96]. Although cost - efficient, the open-well format assay required numerous manual steps, and the magnetic field actuation scheme was not readily adaptable for integration. Here, we demonstrate a low - cost (<$2 in-lab), higher-throughput "pinwheel assay" platform that relies on a combination of a disposable rotation-driven microdisc (RDM), and a simple bidirectional rotating magnetic field (bi-RMF). The assay was transformed into an integrated microfluidic system using a multilayered polyester microfluidic disc created through laser print, cut and laminate fabrication, with fluid flow controlled by rotation speed without any mechanical valves. The RDM accepts four samples that undergo on-chip dilution to five different concentrations that cover the effective concentration range needed for downstream cell counting by pinwheel assay. We show that a bi-RMF is effective for the simultaneous actuation of pinwheel assays in 20 detection chambers. The optimization of the bi-RMF frequencies allows the RDM -based pinwheel assay detect human genomic DNA down to a mass of human genomic DNA (5.5 picograms) that is roughly equal to the mass in a single cell. For proof of principle, enumeration of the white blood cells in human blood samples on the RDM provided data correlating well (C.V. of 10%) with those obtained in a clinical lab. Fusing the cost - effective RDM with a simple bi-RMF provides a promising strategy for automation and multiplexing of magnetic particle -based agglutination assays.
+27779404	0	33	Rotation-Driven Microfluidic Disc	T074	UMLS:C0180459
+27779404	38	66	White Blood Cell Enumeration	T058	UMLS:C0023508
+27779404	121	146	magnetic bead-based assay	T058	UMLS:C0005507
+27779404	165	178	agglutination	T033	UMLS:C0522579
+27779404	198	201	DNA	T103	UMLS:C0012854
+27779404	220	223	DNA	T103	UMLS:C0012854
+27779404	237	241	cell	T017	UMLS:C0007634
+27779404	368	390	open-well format assay	T058	UMLS:C0005507
+27779404	431	462	magnetic field actuation scheme	T170	UMLS:C1519193
+27779404	554	588	higher-throughput "pinwheel assay"	T058	UMLS:C2718004
+27779404	643	668	rotation-driven microdisc	T074	UMLS:C0180459
+27779404	670	673	RDM	T074	UMLS:C0180459
+27779404	703	711	rotating	T082	UMLS:C0231458
+27779404	741	746	assay	T058	UMLS:C0005507
+27779404	771	801	integrated microfluidic system	T058	UMLS:C1449576
+27779404	823	832	polyester	T103	UMLS:C0032474
+27779404	833	850	microfluidic disc	T074	UMLS:C0180459
+27779404	967	984	mechanical valves	T074	UMLS:C1704414
+27779404	990	993	RDM	T074	UMLS:C0180459
+27779404	1134	1144	downstream	T082	UMLS:C0522506
+27779404	1145	1158	cell counting	T058	UMLS:C0007584
+27779404	1162	1176	pinwheel assay	T058	UMLS:C0005507
+27779404	1247	1262	pinwheel assays	T058	UMLS:C0005507
+27779404	1343	1346	RDM	T074	UMLS:C0180459
+27779404	1354	1368	pinwheel assay	T058	UMLS:C0005507
+27779404	1369	1375	detect	T033	UMLS:C0442726
+27779404	1376	1381	human	T204	UMLS:C0086418
+27779404	1382	1389	genomic	T017	UMLS:C0017428
+27779404	1390	1393	DNA	T103	UMLS:C0012854
+27779404	1412	1417	human	T204	UMLS:C0086418
+27779404	1418	1425	genomic	T017	UMLS:C0017428
+27779404	1426	1429	DNA	T103	UMLS:C0012854
+27779404	1485	1496	single cell	T017	UMLS:C0007634
+27779404	1541	1558	white blood cells	T017	UMLS:C0023516
+27779404	1562	1567	human	T204	UMLS:C0086418
+27779404	1568	1581	blood samples	T031	UMLS:C0178913
+27779404	1589	1592	RDM	T074	UMLS:C0180459
+27779404	1672	1675	lab	T092	UMLS:C0022877
+27779404	1705	1708	RDM	T074	UMLS:C0180459
+27779404	1751	1759	strategy	T062	UMLS:C0035171
+27779404	1804	1812	particle	T103	UMLS:C0597177
+27779404	1820	1840	agglutination assays	T058	UMLS:C1551405

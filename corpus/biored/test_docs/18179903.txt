@@ -1,0 +1,44 @@
+18179903|t|Mutation analysis of CHRNA1, CHRNB1, CHRND, and RAPSN genes in multiple pterygium syndrome/fetal akinesia patients.
+18179903|a|Multiple pterygium syndromes (MPS) comprise a group of multiple congenital anomaly disorders characterized by webbing (pterygia) of the neck, elbows, and/or knees and joint contractures (arthrogryposis). MPS are phenotypically and genetically heterogeneous but are traditionally divided into prenatally lethal and nonlethal (Escobar) types. Previously, we and others reported that recessive mutations in the embryonal acetylcholine receptor g subunit (CHRNG) can cause both lethal and nonlethal MPS, thus demonstrating that pterygia resulted from fetal akinesia. We hypothesized that mutations in acetylcholine receptor-related genes might also result in a MPS/fetal akinesia phenotype and so we analyzed 15 cases of lethal MPS/fetal akinesia without CHRNG mutations for mutations in the CHRNA1, CHRNB1, CHRND, and rapsyn (RAPSN) genes. No CHRNA1, CHRNB1, or CHRND mutations were detected, but a homozygous RAPSN frameshift mutation, c.1177-1178delAA, was identified in a family with three children affected with lethal fetal akinesia sequence. Previously, RAPSN mutations have been reported in congenital myasthenia. Functional studies were consistent with the hypothesis that whereas incomplete loss of rapsyn function may cause congenital myasthenia, more severe loss of function can result in a lethal fetal akinesia phenotype.
+18179903	21	27	CHRNA1	GeneOrGeneProduct	1134
+18179903	29	35	CHRNB1	GeneOrGeneProduct	1140
+18179903	37	42	CHRND	GeneOrGeneProduct	1144
+18179903	48	53	RAPSN	GeneOrGeneProduct	5913
+18179903	63	90	multiple pterygium syndrome	DiseaseOrPhenotypicFeature	C537377
+18179903	91	105	fetal akinesia	DiseaseOrPhenotypicFeature	C536647
+18179903	106	114	patients	OrganismTaxon	9606
+18179903	116	144	Multiple pterygium syndromes	DiseaseOrPhenotypicFeature	C537377
+18179903	146	149	MPS	DiseaseOrPhenotypicFeature	C537377
+18179903	180	208	congenital anomaly disorders	DiseaseOrPhenotypicFeature	D000013
+18179903	283	301	joint contractures	DiseaseOrPhenotypicFeature	D003286
+18179903	303	317	arthrogryposis	DiseaseOrPhenotypicFeature	D001176
+18179903	320	323	MPS	DiseaseOrPhenotypicFeature	C537377
+18179903	524	566	embryonal acetylcholine receptor g subunit	GeneOrGeneProduct	1146
+18179903	568	573	CHRNG	GeneOrGeneProduct	1146
+18179903	611	614	MPS	DiseaseOrPhenotypicFeature	C537377
+18179903	663	677	fetal akinesia	DiseaseOrPhenotypicFeature	C536647
+18179903	773	776	MPS	DiseaseOrPhenotypicFeature	C537377
+18179903	777	791	fetal akinesia	DiseaseOrPhenotypicFeature	C536647
+18179903	840	843	MPS	DiseaseOrPhenotypicFeature	C537377
+18179903	844	858	fetal akinesia	DiseaseOrPhenotypicFeature	C536647
+18179903	867	872	CHRNG	GeneOrGeneProduct	1146
+18179903	904	910	CHRNA1	GeneOrGeneProduct	1134
+18179903	912	918	CHRNB1	GeneOrGeneProduct	1140
+18179903	920	925	CHRND	GeneOrGeneProduct	1144
+18179903	931	937	rapsyn	GeneOrGeneProduct	5913
+18179903	939	944	RAPSN	GeneOrGeneProduct	5913
+18179903	956	962	CHRNA1	GeneOrGeneProduct	1134
+18179903	964	970	CHRNB1	GeneOrGeneProduct	1140
+18179903	975	980	CHRND	GeneOrGeneProduct	1144
+18179903	1023	1028	RAPSN	GeneOrGeneProduct	5913
+18179903	1050	1066	c.1177-1178delAA	SequenceVariant	c|DEL|1177_1178|AA
+18179903	1136	1159	fetal akinesia sequence	DiseaseOrPhenotypicFeature	C536647
+18179903	1173	1178	RAPSN	GeneOrGeneProduct	5913
+18179903	1211	1232	congenital myasthenia	DiseaseOrPhenotypicFeature	D020294
+18179903	1321	1327	rapsyn	GeneOrGeneProduct	5913
+18179903	1347	1368	congenital myasthenia	DiseaseOrPhenotypicFeature	D020294
+18179903	1422	1436	fetal akinesia	DiseaseOrPhenotypicFeature	C536647
+18179903	Positive_Correlation	c|DEL|1177_1178|AA	C536647	Novel
+18179903	Negative_Correlation	5913	D020294	Novel
+18179903	Negative_Correlation	5913	C536647	Novel
+18179903	Association	1146	C537377	No

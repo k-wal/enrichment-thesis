@@ -1,0 +1,115 @@
+28193730|t|Mismatch Repair Incompatibilities in Diverse Yeast Populations
+28193730|a|An elevated mutation rate can provide cells with a source of mutations to adapt to changing environments. We identified a negative epistatic interaction involving naturally occurring variants in the MLH1 and PMS1 mismatch repair (MMR) genes of Saccharomyces cerevisiae We hypothesized that this MMR incompatibility, created through mating between divergent S. cerevisiae, yields mutator progeny that can rapidly but transiently adapt to an environmental stress. Here we analyzed the MLH1 and PMS1 genes across 1010 S. cerevisiae natural isolates spanning a wide range of ecological sources (tree exudates, Drosophila, fruits, and various fermentation and clinical isolates) and geographical sources (Europe, America, Africa, and Asia). We identified one homozygous clinical isolate and 18 heterozygous isolates containing the incompatible MMR genotype. The MLH1 - PMS1 gene combination isolated from the homozygous clinical isolate conferred a mutator phenotype when expressed in the S288c laboratory background. Using a novel reporter to measure mutation rates, we showed that the overall mutation rate in the homozygous incompatible background was similar to that seen in compatible strains, indicating the presence of suppressor mutations in the clinical isolate that lowered its mutation rate. This observation and the identification of 18 heterozygous isolates, which can lead to MMR incompatible genotypes in the offspring, are consistent with an elevated mutation rate rapidly but transiently facilitating adaptation. To avoid long-term fitness costs, the incompatibility is apparently buffered by mating or by acquiring suppressors. These observations highlight effective strategies in eukaryotes to avoid long-term fitness costs associated with elevated mutation rates.
+28193730	0	15	Mismatch Repair	T045	C1155661
+28193730	16	33	Incompatibilities	T054	C0679426
+28193730	37	44	Diverse	T080	C1880371
+28193730	45	50	Yeast	T004	C0036025
+28193730	51	62	Populations	T090	C0017404
+28193730	66	74	elevated	T080	C3163633
+28193730	75	88	mutation rate	T080	C3178846
+28193730	101	106	cells	T025	C0007634
+28193730	114	120	source	T033	C0449416
+28193730	124	133	mutations	T045	C0026882
+28193730	146	154	changing	T169	C0392747
+28193730	155	167	environments	T082	C0014406
+28193730	172	182	identified	T080	C0205396
+28193730	185	193	negative	T033	C0205160
+28193730	194	215	epistatic interaction	T045	C0014589
+28193730	216	225	involving	T169	C1314939
+28193730	246	254	variants	T080	C0205419
+28193730	262	266	MLH1	T028	C0879389
+28193730	271	275	PMS1	T028	C0879390
+28193730	276	291	mismatch repair	T045	C1155661
+28193730	293	296	MMR	T045	C1155661
+28193730	298	303	genes	T028	C0017337
+28193730	307	331	Saccharomyces cerevisiae	T004	C0036025
+28193730	358	361	MMR	T045	C1155661
+28193730	362	377	incompatibility	T054	C0679426
+28193730	395	401	mating	T040	C1260875
+28193730	420	433	S. cerevisiae	T004	C0036025
+28193730	450	457	progeny	T099	C0680063
+28193730	467	474	rapidly	T080	C0456962
+28193730	503	523	environmental stress	T067	C0871732
+28193730	533	541	analyzed	T062	C0936012
+28193730	546	550	MLH1	T028	C0879389
+28193730	555	565	PMS1 genes	T028	C0879390
+28193730	578	591	S. cerevisiae	T004	C0036025
+28193730	592	599	natural	T169	C0205296
+28193730	600	608	isolates	T123	C1764827
+28193730	625	630	range	T081	C1514721
+28193730	634	644	ecological	T070	C0162358
+28193730	645	652	sources	T033	C0449416
+28193730	654	658	tree	T002	C0040811
+28193730	659	667	exudates	T031	C0015388
+28193730	669	679	Drosophila	T204	C0013138
+28193730	681	687	fruits	T168	C0016767
+28193730	701	713	fermentation	T044	C0015852
+28193730	718	726	clinical	T080	C0205210
+28193730	727	735	isolates	T123	C1764827
+28193730	741	753	geographical	T082	C0565935
+28193730	754	761	sources	T033	C0449416
+28193730	763	769	Europe	T083	C0015176
+28193730	771	778	America	T083	C0002454
+28193730	780	786	Africa	T083	C0001737
+28193730	792	796	Asia	T083	C0003980
+28193730	802	812	identified	T080	C0205396
+28193730	817	827	homozygous	T032	C0019904
+28193730	828	836	clinical	T080	C0205210
+28193730	837	844	isolate	T123	C1764827
+28193730	852	864	heterozygous	T032	C0019425
+28193730	865	873	isolates	T123	C1764827
+28193730	874	884	containing	T169	C0332256
+28193730	902	905	MMR	T045	C1155661
+28193730	906	914	genotype	T032	C0017431
+28193730	920	924	MLH1	T028	C0879389
+28193730	927	936	PMS1 gene	T028	C0879390
+28193730	937	948	combination	T080	C0205195
+28193730	949	957	isolated	T169	C0205409
+28193730	967	977	homozygous	T032	C0019904
+28193730	978	986	clinical	T080	C0205210
+28193730	987	994	isolate	T123	C1764827
+28193730	1015	1024	phenotype	T032	C0031437
+28193730	1030	1039	expressed	T045	C0017262
+28193730	1053	1063	laboratory	T073,T093	C0022877
+28193730	1064	1074	background	T077	C1706907
+28193730	1090	1098	reporter	T130	C1522485
+28193730	1102	1109	measure	T081	C0079809
+28193730	1110	1124	mutation rates	T080	C3178846
+28193730	1145	1152	overall	T080	C1561607
+28193730	1153	1166	mutation rate	T080	C3178846
+28193730	1174	1184	homozygous	T032	C0019904
+28193730	1198	1208	background	T077	C1706907
+28193730	1237	1247	compatible	T080	C1524057
+28193730	1248	1255	strains	T001	C1518614
+28193730	1284	1304	suppressor mutations	T049	C0038859
+28193730	1312	1320	clinical	T080	C0205210
+28193730	1321	1328	isolate	T123	C1764827
+28193730	1346	1359	mutation rate	T080	C3178846
+28193730	1366	1377	observation	T062	C0302523
+28193730	1386	1400	identification	T080	C0205396
+28193730	1407	1419	heterozygous	T032	C0019425
+28193730	1420	1428	isolates	T123	C1764827
+28193730	1420	1428	isolates	T123	C1764827
+28193730	1448	1451	MMR	T045	C1155661
+28193730	1465	1474	genotypes	T032	C0017431
+28193730	1482	1491	offspring	T099	C0680063
+28193730	1497	1512	consistent with	T078	C0332290
+28193730	1516	1524	elevated	T080	C3163633
+28193730	1525	1538	mutation rate	T080	C3178846
+28193730	1576	1586	adaptation	T038	C0392673
+28193730	1597	1606	long-term	T079	C0443252
+28193730	1607	1614	fitness	T045	C2717776
+28193730	1615	1620	costs	T081	C0010186
+28193730	1626	1641	incompatibility	T054	C0679426
+28193730	1656	1664	buffered	T121,T130	C0006353
+28193730	1668	1674	mating	T040	C1260875
+28193730	1691	1702	suppressors	T049	C0038859
+28193730	1710	1722	observations	T062	C0302523
+28193730	1733	1742	effective	T080	C1704419
+28193730	1757	1767	eukaryotes	T204	C0684063
+28193730	1777	1786	long-term	T079	C0443252
+28193730	1787	1794	fitness	T045	C2717776
+28193730	1795	1800	costs	T081	C0010186
+28193730	1801	1816	associated with	T080	C0332281
+28193730	1817	1825	elevated	T080	C3163633
+28193730	1826	1840	mutation rates	T080	C3178846

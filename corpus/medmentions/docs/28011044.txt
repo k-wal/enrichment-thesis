@@ -1,0 +1,118 @@
+28011044|t|Association of Radiomics and Metabolic Tumor Volumes in Radiation Treatment of Glioblastoma Multiforme
+28011044|a|To build a framework for investigation of the associations between imaging, clinical target volumes (CTVs), and metabolic tumor volumes (MTVs) features for better understanding of the underlying information in the CTVs and dependencies between these volumes. High-throughput extraction of imaging and metabolomic quantitative features from magnetic resonance imaging (MRI) and magnetic resonance spectroscopic imaging of glioblastoma multiforme (GBM) results in tens of variables per patient. In radiation therapy of GBM the relevant metabolic tumor volumes (MTVs) are related to aberrant levels of N-acetyl aspartate (NAA) and choline (Cho). The corresponding clinical target volumes (CTVs) for radiation therapy are based on contrast-enhanced T1-weighted (CE-T1w) and T2-weighted (T2w)/fluid-attenuated inversion recovery MRI. Necrotic portions, enhancing lesion, and edema were manually contoured on CE-T1w / T2w images for 17 GBM patients. Clinical target volumes and MTVs for NAA (MTVNAA) and Cho (MTVCho) were constructed. Imaging and metabolic features related to size, shape, and signal intensities of the volumes were extracted. Tumors were also scored categorically for 10 semantic imaging traits by a neuroradiologist. All features were investigated for redundancy. Two-way correlations between imaging and CTVs / MTVs features were visualized as heatmaps. Associations between MTVNAA and MTVCho and imaging features were studied using Spearman correlation. Forty-eight imaging features were extracted per patient. Half of the imaging traits were replaced with automatically extracted continuous variables. Twenty features were extracted from CTVs and MTVs. A series of semantic imaging traits were replaced with automatically extracted continuous variables. There were multiple (22) significant correlations of imaging measures with CTVs / MTVNAA, whereas there were only 6 with CTVs / MTVCho. A framework for investigation of codependencies between MRI and magnetic resonance spectroscopic imaging radiomic features and CTVs / MTVs has been established. The MTV for NAA was found to be closely associated with MRI volumes, whereas very few imaging features were related to MTVCho, indicating that Cho provides additional information to imaging.
+28011044	0	11	Association	T080	C0439849
+28011044	29	38	Metabolic	T169	C0311400
+28011044	39	52	Tumor Volumes	T081	C0475276
+28011044	56	75	Radiation Treatment	T061	C3871222
+28011044	79	102	Glioblastoma Multiforme	T191	C1621958
+28011044	128	141	investigation	T058	C0220825
+28011044	149	161	associations	T080	C0439849
+28011044	170	177	imaging	T060	C0011923
+28011044	179	202	clinical target volumes	T081	C0454198
+28011044	204	208	CTVs	T081	C0454198
+28011044	215	224	metabolic	T169	C0311400
+28011044	225	238	tumor volumes	T081	C0475276
+28011044	240	244	MTVs	T081	C0475276
+28011044	246	254	features	T080	C1521970
+28011044	298	309	information	T078	C1533716
+28011044	317	321	CTVs	T081	C0454198
+28011044	353	360	volumes	T081	C0475276
+28011044	362	388	High-throughput extraction	T170	C0872047
+28011044	392	399	imaging	T060	C0011923
+28011044	404	415	metabolomic	T091	C1328813
+28011044	416	428	quantitative	T081	C0392762
+28011044	429	437	features	T080	C1521970
+28011044	443	469	magnetic resonance imaging	T060	C0024485
+28011044	471	474	MRI	T060	C0024485
+28011044	480	520	magnetic resonance spectroscopic imaging	T060	C1522706
+28011044	524	547	glioblastoma multiforme	T191	C1621958
+28011044	549	552	GBM	T191	C1621958
+28011044	587	594	patient	T101	C0030705
+28011044	599	616	radiation therapy	T061	C3871222
+28011044	620	623	GBM	T191	C1621958
+28011044	628	636	relevant	T080	C2347946
+28011044	637	646	metabolic	T169	C0311400
+28011044	647	660	tumor volumes	T081	C0475276
+28011044	662	666	MTVs	T081	C0475276
+28011044	683	691	aberrant	T080	C0443127
+28011044	692	698	levels	T080	C0441889
+28011044	702	720	N-acetyl aspartate	T116,T123	C0067684
+28011044	722	725	NAA	T116,T123	C0067684
+28011044	731	738	choline	T109,T121,T123	C0008405
+28011044	740	743	Cho	T109,T121,T123	C0008405
+28011044	764	787	clinical target volumes	T081	C0454198
+28011044	789	793	CTVs	T081	C0454198
+28011044	799	816	radiation therapy	T061	C3871222
+28011044	830	859	contrast-enhanced T1-weighted	T060	C1707501
+28011044	861	867	CE-T1w	T060	C1707501
+28011044	873	930	T2-weighted (T2w)/fluid-attenuated inversion recovery MRI	T060	C3897397
+28011044	932	949	Necrotic portions	T033	C1334928
+28011044	951	967	enhancing lesion	T033	C3830314
+28011044	973	978	edema	T184	C0013604
+28011044	1006	1012	CE-T1w	T170	C1704254
+28011044	1015	1025	T2w images	T170	C1704254
+28011044	1033	1036	GBM	T191	C1621958
+28011044	1037	1045	patients	T101	C0030705
+28011044	1047	1070	Clinical target volumes	T081	C0454198
+28011044	1075	1079	MTVs	T081	C0475276
+28011044	1084	1087	NAA	T116,T123	C0067684
+28011044	1089	1095	MTVNAA	T081	C0475276
+28011044	1101	1104	Cho	T109,T121,T123	C0008405
+28011044	1106	1112	MTVCho	T081	C0475276
+28011044	1132	1139	Imaging	T060	C0011923
+28011044	1144	1162	metabolic features	T201	C1864620
+28011044	1174	1178	size	T082	C0456389
+28011044	1180	1185	shape	T082	C0332479
+28011044	1191	1209	signal intensities	T081	C0871362
+28011044	1217	1224	volumes	T081	C0449468
+28011044	1241	1247	Tumors	T191	C0027651
+28011044	1286	1294	semantic	T078	C0036612
+28011044	1295	1309	imaging traits	T080	C2346469
+28011044	1315	1331	neuroradiologist	T097	C2985415
+28011044	1337	1345	features	T080	C1521970
+28011044	1351	1363	investigated	T169	C1292732
+28011044	1368	1378	redundancy	T169	C1313915
+28011044	1380	1400	Two-way correlations	T080	C1707520
+28011044	1409	1416	imaging	T170	C1704254
+28011044	1421	1425	CTVs	T081	C0454198
+28011044	1428	1432	MTVs	T081	C0475276
+28011044	1461	1469	heatmaps	T073	C2697572
+28011044	1471	1483	Associations	T080	C0439849
+28011044	1492	1498	MTVNAA	T081	C0475276
+28011044	1503	1509	MTVCho	T081	C0475276
+28011044	1514	1530	imaging features	T080	C2346469
+28011044	1550	1570	Spearman correlation	T170	C1710141
+28011044	1584	1600	imaging features	T080	C2346469
+28011044	1620	1627	patient	T101	C0030705
+28011044	1629	1633	Half	T081	C2825407
+28011044	1641	1655	imaging traits	T080	C2346469
+28011044	1661	1669	replaced	T169	C0559956
+28011044	1699	1719	continuous variables	T080	C0439828
+28011044	1728	1736	features	T080	C2346469
+28011044	1757	1761	CTVs	T081	C0454198
+28011044	1766	1770	MTVs	T081	C0475276
+28011044	1784	1792	semantic	T078	C0036612
+28011044	1793	1807	imaging traits	T080	C2346469
+28011044	1813	1821	replaced	T169	C0559956
+28011044	1851	1871	continuous variables	T080	C0439828
+28011044	1910	1922	correlations	T080	C1707520
+28011044	1926	1942	imaging measures	T080	C2346469
+28011044	1948	1952	CTVs	T081	C0454198
+28011044	1955	1961	MTVNAA	T081	C0475276
+28011044	1994	1998	CTVs	T081	C0454198
+28011044	2001	2007	MTVCho	T081	C0475276
+28011044	2065	2068	MRI	T060	C0024485
+28011044	2073	2113	magnetic resonance spectroscopic imaging	T060	C1522706
+28011044	2123	2131	features	T080	C1521970
+28011044	2136	2140	CTVs	T081	C0454198
+28011044	2143	2147	MTVs	T081	C0475276
+28011044	2174	2177	MTV	T081	C0475276
+28011044	2182	2185	NAA	T116,T123	C0067684
+28011044	2210	2225	associated with	T080	C0332281
+28011044	2226	2229	MRI	T060	C0024485
+28011044	2230	2237	volumes	T081	C0449468
+28011044	2256	2272	imaging features	T080	C2346469
+28011044	2289	2295	MTVCho	T081	C0475276
+28011044	2313	2316	Cho	T109,T121,T123	C0008405
+28011044	2326	2348	additional information	T079	C1546922
+28011044	2352	2359	imaging	T060	C0011923

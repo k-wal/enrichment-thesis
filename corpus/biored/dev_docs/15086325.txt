@@ -1,0 +1,29 @@
+15086325|t|Identification of three F5 gene mutations associated with inherited coagulation factor V deficiency in two Chinese pedigrees.
+15086325|a|To investigate the molecular defects in two Chinese pedigrees with inherited factor V (FV) deficiency. A 37-year-old male (proband 1) and an 18-month-old boy (proband 2) were diagnosed as inherited coagulation FV deficiency by severely reduced plasma levels of FV activity and antigen. All 25 exons and their flanking sequence of F5 gene were amplified by polymerase chain reaction (PCR) for both probands and the PCR products were directly sequenced. Total RNA was extracted from the peripheral lymphocytes of proband 1 for detecting the changes at mRNA level. The homozygous deletion IVS8 -2A>G was identified in the F5 gene of proband 1 and complementary DNA (cDNA) analysis revealed the abolishment of the canonical splicing site by the mutation and the activation of the cryptic acceptor site 24 bp upstream instead. The insertion introduced eight additional amino acids (AA) into the FV protein. Two heterozygous mutations of F5 gene were discovered in proband 2. The 2238-9del AG in exon 13 introduced a premature termination code at 689 AA and the substitution of G6410 by T in exon 23 lead to the missense mutation Gly2079Val. Three F5 gene mutations, IVS8 -2A>G, 2238-9del AG and G6410T, have been identified in two Chinese pedigree with congenital FV deficiency, respectively.
+15086325	24	26	F5	GeneOrGeneProduct	2153
+15086325	58	99	inherited coagulation factor V deficiency	DiseaseOrPhenotypicFeature	D005166
+15086325	193	227	inherited factor V (FV) deficiency	DiseaseOrPhenotypicFeature	D005166
+15086325	314	349	inherited coagulation FV deficiency	DiseaseOrPhenotypicFeature	D005166
+15086325	387	389	FV	GeneOrGeneProduct	2153
+15086325	456	458	F5	GeneOrGeneProduct	2153
+15086325	712	722	IVS8 -2A>G	SequenceVariant	c|SUB|A|IVS8-2|G
+15086325	745	747	F5	GeneOrGeneProduct	2153
+15086325	952	1001	insertion introduced eight additional amino acids	SequenceVariant	p|INS||8
+15086325	1016	1018	FV	GeneOrGeneProduct	2153
+15086325	1058	1060	F5	GeneOrGeneProduct	2153
+15086325	1100	1112	2238-9del AG	SequenceVariant	c|DEL|2238_2239|AG
+15086325	1167	1173	689 AA	SequenceVariant	c|Allele|A|689
+15086325	1198	1208	G6410 by T	SequenceVariant	g|SUB|G|6410|T
+15086325	1250	1260	Gly2079Val	SequenceVariant	p|SUB|G|2079|V
+15086325	1268	1270	F5	GeneOrGeneProduct	2153
+15086325	1287	1297	IVS8 -2A>G	SequenceVariant	c|SUB|A|IVS8-2|G
+15086325	1299	1311	2238-9del AG	SequenceVariant	c|DEL|2238_2239|AG
+15086325	1316	1322	G6410T	SequenceVariant	g|SUB|G|6410|T
+15086325	1374	1398	congenital FV deficiency	DiseaseOrPhenotypicFeature	D005166
+15086325	Association	g|SUB|G|6410|T	D005166	Novel
+15086325	Association	c|DEL|2238_2239|AG	D005166	Novel
+15086325	Association	c|SUB|A|IVS8-2|G	D005166	Novel
+15086325	Association	D005166	p|INS||8	Novel
+15086325	Association	D005166	c|Allele|A|689	Novel
+15086325	Association	D005166	p|SUB|G|2079|V	Novel
+15086325	Association	2153	D005166	No

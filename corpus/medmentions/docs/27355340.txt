@@ -1,0 +1,136 @@
+27355340|t|Proximal Soil Sensing - A Contribution for Species Habitat Distribution Modelling of Earthworms in Agricultural Soils?
+27355340|a|Earthworms are important for maintaining soil ecosystem functioning and serve as indicators of soil fertility. However, detection of earthworms is time-consuming, which hinders the assessment of earthworm abundances with high sampling density over entire fields. Recent developments of mobile terrestrial sensor platforms for proximal soil sensing (PSS) provided new tools for collecting dense spatial information of soils using various sensing principles. Yet, the potential of PSS for assessing earthworm habitats is largely unexplored. This study investigates whether PSS data contribute to the spatial prediction of earthworm abundances in species distribution models of agricultural soils. Proximal soil sensing data, e.g., soil electrical conductivity (EC), pH, and near infrared absorbance (NIR), were collected in real-time in a field with two management strategies (reduced tillage / conventional tillage) and sandy to loam soils. PSS was related to observations from a long-term (11 years) earthworm observation study conducted at 42 plots. Earthworms were sampled from 0.5 x 0.5 x 0.2 m³ soil blocks and identified to species level. Sensor data were highly correlated with earthworm abundances observed in reduced tillage but less correlated with earthworm abundances observed in conventional tillage. This may indicate that management influences the sensor - earthworm relationship. Generalized additive models and state-space models showed that modelling based on data fusion from EC, pH, and NIR sensors produced better results than modelling without sensor data or data from just a single sensor. Regarding the individual earthworm species, particular sensor combinations were more appropriate than others due to the different habitat requirements of the earthworms. Earthworm species with soil -specific habitat preferences were spatially predicted with higher accuracy by PSS than more ubiquitous species. Our findings suggest that PSS contributes to the spatial modelling of earthworm abundances at field scale and that it will support species distribution modelling in the attempt to understand the soil - earthworm relationships in agroecosystems.
+27355340	0	21	Proximal Soil Sensing	T059	C0022885
+27355340	26	38	Contribution	T052	C1880177
+27355340	43	50	Species	T185	C1705920
+27355340	51	58	Habitat	T082	C0871648
+27355340	59	71	Distribution	T169	C1704711
+27355340	72	81	Modelling	T062	C0870071
+27355340	85	95	Earthworms	T204	C0086194
+27355340	99	111	Agricultural	T082	C0562975
+27355340	112	117	Soils	T167	C0037592
+27355340	119	129	Earthworms	T204	C0086194
+27355340	160	164	soil	T167	C0037592
+27355340	165	174	ecosystem	T070	C0162358
+27355340	175	186	functioning	T169	C0542341
+27355340	200	210	indicators	T130	C0021212
+27355340	214	218	soil	T167	C0037592
+27355340	219	228	fertility	T080	C0205556
+27355340	252	262	earthworms	T204	C0086194
+27355340	266	280	time-consuming	T080	C3827829
+27355340	300	310	assessment	T052	C1516048
+27355340	314	323	earthworm	T204	C0086194
+27355340	324	334	abundances	T080	C2346714
+27355340	345	353	sampling	T078	C0870078
+27355340	354	361	density	T081	C0178587
+27355340	374	380	fields	T082	C0562975
+27355340	405	440	mobile terrestrial sensor platforms	T073	C0183210
+27355340	445	466	proximal soil sensing	T059	C0022885
+27355340	468	471	PSS	T059	C0022885
+27355340	486	491	tools	T073	C0336791
+27355340	521	532	information	T078	C1533716
+27355340	536	541	soils	T167	C0037592
+27355340	556	574	sensing principles	T170	C0282574
+27355340	598	601	PSS	T059	C0022885
+27355340	606	615	assessing	T052	C1516048
+27355340	616	625	earthworm	T204	C0086194
+27355340	626	634	habitats	T082	C0871648
+27355340	663	668	study	T062	C2603343
+27355340	669	681	investigates	T169	C1292732
+27355340	690	693	PSS	T059	C0022885
+27355340	694	698	data	T078	C1511726
+27355340	725	735	prediction	T078	C0681842
+27355340	739	748	earthworm	T204	C0086194
+27355340	749	759	abundances	T080	C2346714
+27355340	763	770	species	T185	C1705920
+27355340	771	783	distribution	T169	C1704711
+27355340	784	790	models	T170	C3161035
+27355340	794	806	agricultural	T082	C0562975
+27355340	807	812	soils	T167	C0037592
+27355340	814	835	Proximal soil sensing	T059	C0022885
+27355340	836	840	data	T078	C1511726
+27355340	848	852	soil	T167	C0037592
+27355340	853	876	electrical conductivity	T081	C0013777
+27355340	878	880	EC	T081	C0013777
+27355340	883	885	pH	T081	C0020283
+27355340	891	915	near infrared absorbance	T059	C0376519
+27355340	917	920	NIR	T059	C0376519
+27355340	928	937	collected	T078	C1516695
+27355340	941	950	real-time	T079	C1550177
+27355340	956	961	field	T082	C0562975
+27355340	971	992	management strategies	T170	C0680830
+27355340	994	1001	reduced	T080	C0392756
+27355340	1002	1009	tillage	T067	C1254366
+27355340	1025	1032	tillage	T067	C1254366
+27355340	1038	1043	sandy	T167	C0037592
+27355340	1047	1057	loam soils	T167	C0037592
+27355340	1059	1062	PSS	T059	C0022885
+27355340	1078	1090	observations	T062	C0302523
+27355340	1098	1107	long-term	T079	C0443252
+27355340	1112	1117	years	T079	C0439234
+27355340	1119	1128	earthworm	T204	C0086194
+27355340	1129	1146	observation study	T033	C0552617
+27355340	1163	1168	plots	T082	C0562975
+27355340	1170	1180	Earthworms	T204	C0086194
+27355340	1186	1193	sampled	T078	C0870078
+27355340	1218	1222	soil	T167	C0037592
+27355340	1234	1244	identified	T080	C0205396
+27355340	1248	1255	species	T185	C1705920
+27355340	1256	1261	level	T080	C0441889
+27355340	1263	1269	Sensor	T075	C0600364
+27355340	1270	1274	data	T078	C1511726
+27355340	1303	1312	earthworm	T204	C0086194
+27355340	1313	1323	abundances	T080	C2346714
+27355340	1324	1332	observed	T169	C1441672
+27355340	1336	1343	reduced	T080	C0392756
+27355340	1344	1351	tillage	T067	C1254366
+27355340	1361	1371	correlated	T080	C1707520
+27355340	1377	1386	earthworm	T204	C0086194
+27355340	1387	1397	abundances	T080	C2346714
+27355340	1398	1406	observed	T169	C1441672
+27355340	1410	1430	conventional tillage	T067	C1254366
+27355340	1455	1465	management	T057	C1273870
+27355340	1466	1476	influences	T077	C4054723
+27355340	1481	1487	sensor	T075	C0600364
+27355340	1490	1499	earthworm	T204	C0086194
+27355340	1535	1541	models	T170	C3161035
+27355340	1546	1564	state-space models	T170	C3161035
+27355340	1577	1586	modelling	T062	C0870071
+27355340	1596	1600	data	T078	C1511726
+27355340	1613	1615	EC	T081	C0013777
+27355340	1617	1619	pH	T081	C0020283
+27355340	1625	1628	NIR	T059	C0376519
+27355340	1629	1636	sensors	T075	C0600364
+27355340	1653	1660	results	T033	C0683954
+27355340	1666	1675	modelling	T062	C0870071
+27355340	1684	1690	sensor	T075	C0600364
+27355340	1691	1695	data	T078	C1511726
+27355340	1699	1703	data	T078	C1511726
+27355340	1723	1729	sensor	T075	C0600364
+27355340	1756	1765	earthworm	T204	C0086194
+27355340	1766	1773	species	T185	C1705920
+27355340	1786	1792	sensor	T075	C0600364
+27355340	1861	1868	habitat	T082	C0871648
+27355340	1869	1881	requirements	T169	C1514873
+27355340	1889	1899	earthworms	T204	C0086194
+27355340	1901	1910	Earthworm	T204	C0086194
+27355340	1911	1918	species	T185	C1705920
+27355340	1924	1928	soil	T167	C0037592
+27355340	1939	1946	habitat	T082	C0871648
+27355340	1947	1958	preferences	T078	C0558295
+27355340	1996	2004	accuracy	T080	C0443131
+27355340	2008	2011	PSS	T059	C0022885
+27355340	2022	2032	ubiquitous	T080	C2348867
+27355340	2033	2040	species	T185	C1705920
+27355340	2046	2054	findings	T033	C0243095
+27355340	2068	2071	PSS	T059	C0022885
+27355340	2099	2108	modelling	T062	C0870071
+27355340	2112	2121	earthworm	T204	C0086194
+27355340	2122	2132	abundances	T080	C2346714
+27355340	2136	2147	field scale	UnknownType	C0814860
+27355340	2173	2180	species	T185	C1705920
+27355340	2181	2193	distribution	T169	C1704711
+27355340	2194	2203	modelling	T062	C0870071
+27355340	2237	2241	soil	T167	C0037592
+27355340	2244	2253	earthworm	T204	C0086194
+27355340	2271	2285	agroecosystems	T070	C0162358

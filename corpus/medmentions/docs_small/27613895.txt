@@ -1,0 +1,59 @@
+27613895|t|Examination of the Involvement of Cholinergic - Associated Genes in Nicotine Behaviors in European and African Americans
+27613895|a|Cigarette smoking is a physiologically harmful habit. Nicotinic acetylcholine receptors (nAChRs) are bound by nicotine and upregulated in response to chronic exposure to nicotine. It is known that upregulation of these receptors is not due to a change in mRNA of these genes, however, more precise details on the process are still uncertain, with several plausible hypotheses describing how nAChRs are upregulated. We have manually curated a set of genes believed to play a role in nicotine - induced nAChR upregulation. Here, we test the hypothesis that these genes are associated with and contribute risk for nicotine dependence (ND) and the number of cigarettes smoked per day (CPD). Studies with genotypic data on European and African Americans (EAs and AAs, respectively) were collected and a gene-based test was run to test for an association between each gene and ND and CPD. Although several novel genes were associated with CPD and ND at P < 0.05 in EAs and AAs, these associations did not survive correction for multiple testing. Previous associations between CHRNA3, CHRNA5, CHRNB4 and CPD in EAs were replicated. Our hypothesis-driven approach avoided many of the limitations inherent in pathway analyses and provided nominal evidence for association between cholinergic-related genes and nicotine behaviors. We evaluated the evidence for association between a manually curated set of genes and nicotine behaviors in European and African Americans. Although no genes were associated after multiple testing correction, this study has several strengths: by manually curating a set of genes we circumvented the limitations inherent in many pathway analyses and tested several genes that had not yet been examined in a human genetic study; gene-based tests are a useful way to test for association with a set of genes; and these genes were collected based on literature review and conversations with experts, highlighting the importance of scientific collaboration.
+27613895	0	11	Examination	T058	UMLS:C0220825
+27613895	59	64	Genes	T017	UMLS:C0017337
+27613895	68	76	Nicotine	T103	UMLS:C0028040
+27613895	103	120	African Americans	T098	UMLS:C0085756
+27613895	175	208	Nicotinic acetylcholine receptors	T103	UMLS:C0034830
+27613895	210	216	nAChRs	T103	UMLS:C0034830
+27613895	222	230	bound by	T082	UMLS:C0332297
+27613895	231	239	nicotine	T103	UMLS:C0028040
+27613895	244	255	upregulated	T038	UMLS:C0949479
+27613895	291	299	nicotine	T103	UMLS:C0028040
+27613895	318	330	upregulation	T038	UMLS:C0949479
+27613895	340	349	receptors	T103	UMLS:C0597357
+27613895	376	380	mRNA	T103	UMLS:C0035696
+27613895	390	395	genes	T017	UMLS:C0017337
+27613895	512	518	nAChRs	T103	UMLS:C0034830
+27613895	523	534	upregulated	T038	UMLS:C0949479
+27613895	570	575	genes	T017	UMLS:C0017337
+27613895	603	611	nicotine	T103	UMLS:C0028040
+27613895	622	627	nAChR	T103	UMLS:C0034830
+27613895	628	640	upregulation	T038	UMLS:C0949479
+27613895	682	687	genes	T017	UMLS:C0017337
+27613895	732	751	nicotine dependence	T038	UMLS:C0028043
+27613895	753	755	ND	T038	UMLS:C0028043
+27613895	765	800	number of cigarettes smoked per day	T033	UMLS:C0243095
+27613895	802	805	CPD	T033	UMLS:C0243095
+27613895	808	815	Studies	T062	UMLS:C2603343
+27613895	852	869	African Americans	T098	UMLS:C0085756
+27613895	919	934	gene-based test	T170	UMLS:C0392366
+27613895	983	987	gene	T017	UMLS:C0017337
+27613895	992	994	ND	T038	UMLS:C0028043
+27613895	999	1002	CPD	T033	UMLS:C0243095
+27613895	1027	1032	genes	T017	UMLS:C0017337
+27613895	1054	1057	CPD	T033	UMLS:C0243095
+27613895	1062	1064	ND	T038	UMLS:C0028043
+27613895	1191	1197	CHRNA3	T017	UMLS:C1413403
+27613895	1199	1205	CHRNA5	T017	UMLS:C1413405
+27613895	1207	1213	CHRNB4	T017	UMLS:C1413410
+27613895	1218	1221	CPD	T033	UMLS:C0243095
+27613895	1321	1337	pathway analyses	T170	UMLS:C0868995
+27613895	1412	1417	genes	T017	UMLS:C0017337
+27613895	1422	1430	nicotine	T103	UMLS:C0028040
+27613895	1445	1454	evaluated	T058	UMLS:C0220825
+27613895	1518	1523	genes	T017	UMLS:C0017337
+27613895	1528	1536	nicotine	T103	UMLS:C0028040
+27613895	1591	1593	no	T033	UMLS:C0205160
+27613895	1594	1599	genes	T017	UMLS:C0017337
+27613895	1656	1661	study	T062	UMLS:C2603343
+27613895	1715	1720	genes	T017	UMLS:C0017337
+27613895	1770	1786	pathway analyses	T170	UMLS:C0868995
+27613895	1806	1811	genes	T017	UMLS:C0017337
+27613895	1848	1853	human	T204	UMLS:C0086418
+27613895	1854	1867	genetic study	T062	UMLS:C2827447
+27613895	1869	1885	gene-based tests	T170	UMLS:C0392366
+27613895	1941	1946	genes	T017	UMLS:C0017337
+27613895	1958	1963	genes	T017	UMLS:C0017337
+27613895	1988	1998	literature	T170	UMLS:C0023866
+27613895	2029	2036	experts	T097	UMLS:C1611835

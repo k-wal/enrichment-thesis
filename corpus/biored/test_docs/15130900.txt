@@ -1,0 +1,32 @@
+15130900|t|Urinary bladder cancer in Wegener's granulomatosis: risks and relation to cyclophosphamide.
+15130900|a|OBJECTIVE: To assess and characterise the risk of bladder cancer, and its relation to cyclophosphamide, in patients with Wegener's granulomatosis. METHODS: In the population based, nationwide Swedish Inpatient Register a cohort of 1065 patients with Wegener's granulomatosis, 1969-95, was identified. Through linkage with the Swedish Cancer Register, all subjects in this cohort diagnosed with bladder cancer were identified. Nested within the cohort, a matched case-control study was performed to estimate the association between cyclophosphamide and bladder cancer using odds ratios (ORs) as relative risk. In the cohort the cumulative risk of bladder cancer after Wegener's granulomatosis, and the relative prevalence of a history of bladder cancer at the time of diagnosis of Wegener's granulomatosis, were also estimated. RESULTS: The median cumulative doses of cyclophosphamide among cases (n = 11) and controls (n = 25) were 113 g and 25 g, respectively. The risk of bladder cancer doubled for every 10 g increment in cyclophosphamide (OR = 2.0, 95% confidence interval (CI) 0.8 to 4.9). Treatment duration longer than 1 year was associated with an eightfold increased risk (OR = 7.7, 95% CI 0.9 to 69). The absolute risk for bladder cancer in the cohort reached 10% 16 years after diagnosis of Wegener's granulomatosis, and a history of bladder cancer was (non-significantly) twice as common as expected at the time of diagnosis of Wegener's granulomatosis. CONCLUSION: The results indicate a dose-response relationship between cyclophosphamide and the risk of bladder cancer, high cumulative risks in the entire cohort, and also the possibility of risk factors operating even before Wegener's granulomatosis.
+15130900	0	22	Urinary bladder cancer	DiseaseOrPhenotypicFeature	D001749
+15130900	26	50	Wegener's granulomatosis	DiseaseOrPhenotypicFeature	D014890
+15130900	74	90	cyclophosphamide	ChemicalEntity	D003520
+15130900	142	156	bladder cancer	DiseaseOrPhenotypicFeature	D001749
+15130900	178	194	cyclophosphamide	ChemicalEntity	D003520
+15130900	199	207	patients	OrganismTaxon	9606
+15130900	213	237	Wegener's granulomatosis	DiseaseOrPhenotypicFeature	D014890
+15130900	292	301	Inpatient	OrganismTaxon	9606
+15130900	328	336	patients	OrganismTaxon	9606
+15130900	342	366	Wegener's granulomatosis	DiseaseOrPhenotypicFeature	D014890
+15130900	426	432	Cancer	DiseaseOrPhenotypicFeature	D009369
+15130900	486	500	bladder cancer	DiseaseOrPhenotypicFeature	D001749
+15130900	623	639	cyclophosphamide	ChemicalEntity	D003520
+15130900	644	658	bladder cancer	DiseaseOrPhenotypicFeature	D001749
+15130900	738	752	bladder cancer	DiseaseOrPhenotypicFeature	D001749
+15130900	759	783	Wegener's granulomatosis	DiseaseOrPhenotypicFeature	D014890
+15130900	829	843	bladder cancer	DiseaseOrPhenotypicFeature	D001749
+15130900	872	896	Wegener's granulomatosis	DiseaseOrPhenotypicFeature	D014890
+15130900	959	975	cyclophosphamide	ChemicalEntity	D003520
+15130900	1066	1080	bladder cancer	DiseaseOrPhenotypicFeature	D001749
+15130900	1117	1133	cyclophosphamide	ChemicalEntity	D003520
+15130900	1325	1339	bladder cancer	DiseaseOrPhenotypicFeature	D001749
+15130900	1394	1418	Wegener's granulomatosis	DiseaseOrPhenotypicFeature	D014890
+15130900	1437	1451	bladder cancer	DiseaseOrPhenotypicFeature	D001749
+15130900	1532	1556	Wegener's granulomatosis	DiseaseOrPhenotypicFeature	D014890
+15130900	1628	1644	cyclophosphamide	ChemicalEntity	D003520
+15130900	1661	1675	bladder cancer	DiseaseOrPhenotypicFeature	D001749
+15130900	1784	1808	Wegener's granulomatosis	DiseaseOrPhenotypicFeature	D014890
+15130900	Association	D003520	D014890	Novel
+15130900	Positive_Correlation	D003520	D001749	Novel

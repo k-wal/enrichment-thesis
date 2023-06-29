@@ -1,0 +1,80 @@
+27811200|t|Alpha-particle fluence in radiobiological experiments
+27811200|a|Two methods were proposed for determining alpha-particle fluence for radiobiological experiments. The first involved calculating the probabilities of hitting the target for alpha particles emitted from a source through Monte Carlo simulations, which when multiplied by the activity of the source gave the fluence at the target. The second relied on the number of chemically etched alpha-particle tracks developed on a solid-state nuclear track detector (SSNTD) that was irradiated by an alpha-particle source. The etching efficiencies (defined as percentages of latent tracks created by alpha particles from the source that could develop to become visible tracks upon chemical etching) were computed through Monte Carlo simulations, which when multiplied by the experimentally counted number of visible tracks would also give the fluence at the target. We studied alpha particles with an energy of 5.486 MeV emitted from an 241Am source, and considered the alpha-particle tracks developed on polyallyldiglycol carbonate film, which is a common SSNTD. Our results showed that the etching efficiencies were equal to one for source - film distances of from 0.6 to 3.5 cm for a circular film of radius of 1 cm, and for source - film distances of from 1 to 3 cm for circular film of radius of 2 cm. For circular film with a radius of 3 cm, the etching efficiencies never reached 1. On the other hand, the hit probability decreased monotonically with increase in the source - target distance, and fell to zero when the source - target distance was larger than the particle range in air.
+27811200	0	14	Alpha-particle	T070	C0002217
+27811200	15	22	fluence	T081	C0392762
+27811200	26	41	radiobiological	T091	C0034558
+27811200	42	53	experiments	T062	C0681814
+27811200	58	65	methods	T170	C0025663
+27811200	96	110	alpha-particle	T070	C0002217
+27811200	111	118	fluence	T081	C0392762
+27811200	123	138	radiobiological	T091	C0034558
+27811200	139	150	experiments	T062	C0681814
+27811200	187	200	probabilities	T081	C0033204
+27811200	216	222	target	T169	C1521840
+27811200	227	242	alpha particles	T070	C0002217
+27811200	258	264	source	T033	C0449416
+27811200	273	296	Monte Carlo simulations	T062	C0679083
+27811200	327	335	activity	T052	C0441655
+27811200	343	349	source	T033	C0449416
+27811200	359	366	fluence	T081	C0392762
+27811200	374	380	target	T169	C1521840
+27811200	417	434	chemically etched	T067	C1522240
+27811200	435	449	alpha-particle	T070	C0002217
+27811200	450	456	tracks	T073	C0699733
+27811200	472	483	solid-state	T104	C0597486
+27811200	484	506	nuclear track detector	T073	C0180392
+27811200	508	513	SSNTD	T073	C0180392
+27811200	524	534	irradiated	T070	C1282930
+27811200	541	555	alpha-particle	T070	C0002217
+27811200	556	562	source	T033	C0449416
+27811200	568	575	etching	T067	C1522240
+27811200	576	588	efficiencies	T081	C0013682
+27811200	601	612	percentages	T081	C0439165
+27811200	623	629	tracks	T073	C0699733
+27811200	641	656	alpha particles	T070	C0002217
+27811200	666	672	source	T033	C0449416
+27811200	710	716	tracks	T073	C0699733
+27811200	722	738	chemical etching	T067	C1522240
+27811200	745	753	computed	T059	C1441526
+27811200	762	785	Monte Carlo simulations	T062	C0679083
+27811200	816	830	experimentally	T080	C1517586
+27811200	839	845	number	T081	C0237753
+27811200	857	863	tracks	T073	C0699733
+27811200	884	891	fluence	T081	C0392762
+27811200	899	905	target	T169	C1521840
+27811200	918	933	alpha particles	T070	C0002217
+27811200	942	948	energy	T081	C1442080
+27811200	984	990	source	T033	C0449416
+27811200	1011	1025	alpha-particle	T070	C0002217
+27811200	1026	1032	tracks	T073	C0699733
+27811200	1046	1078	polyallyldiglycol carbonate film	T167	C1561572
+27811200	1098	1103	SSNTD	T073	C0180392
+27811200	1133	1140	etching	T067	C1522240
+27811200	1141	1153	efficiencies	T081	C0013682
+27811200	1176	1182	source	T033	C0449416
+27811200	1185	1189	film	T167	C1561572
+27811200	1190	1199	distances	T081	C0012751
+27811200	1228	1236	circular	T082	C1282913
+27811200	1237	1241	film	T167	C1561572
+27811200	1245	1251	radius	T081	C1306504
+27811200	1269	1275	source	T033	C0449416
+27811200	1278	1282	film	T167	C1561572
+27811200	1283	1292	distances	T081	C0012751
+27811200	1315	1323	circular	T082	C1282913
+27811200	1324	1328	film	T167	C1561572
+27811200	1332	1338	radius	T081	C1306504
+27811200	1352	1360	circular	T082	C1282913
+27811200	1361	1365	film	T167	C1561572
+27811200	1373	1379	radius	T081	C1306504
+27811200	1393	1400	etching	T067	C1522240
+27811200	1401	1413	efficiencies	T081	C0013682
+27811200	1458	1469	probability	T081	C0033204
+27811200	1515	1521	source	T033	C0449416
+27811200	1524	1530	target	T169	C1521840
+27811200	1531	1539	distance	T081	C0012751
+27811200	1567	1573	source	T033	C0449416
+27811200	1576	1582	target	T169	C1521840
+27811200	1583	1591	distance	T081	C0012751
+27811200	1612	1620	particle	T104	C0597177
+27811200	1621	1626	range	T081	C1514721
+27811200	1630	1633	air	T167	C0001861

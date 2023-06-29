@@ -1,0 +1,44 @@
+27408908|t|Mass-spectrometry analysis of histone post-translational modifications in pathology tissue using the PAT-H-MS approach
+27408908|a|Aberrant histone post-translational modifications (hPTMs) have been implicated with various pathologies, including cancer, and may represent useful epigenetic biomarkers. The data described here provide a mass spectrometry -based quantitative analysis of hPTMs from formalin-fixed paraffin-embedded (FFPE) tissues, from which histones were extracted through the recently developed PAT-H-MS method. First, we analyzed FFPE samples from mouse spleen and liver or human breast cancer up to six years old, together with their corresponding fresh frozen tissue. We then combined the PAT-H-MS approach with a histone -focused version of the super-SILAC strategy -using a mix of histones from four breast cancer cell lines as a spike-in standard - to accurately quantify hPTMs from breast cancer specimens belonging to different subtypes. The data, which are associated with a recent publication (Pathology tissue - quantitative mass spectrometry analysis to profile histone post-translational modification patterns in patient samples (Noberini, 2015) [1]), are deposited at the ProteomeXchange Consortium via the PRIDE partner repository with the dataset identifier PXD002669.
+27408908	0	17	Mass-spectrometry	T058	UMLS:C0037813
+27408908	18	26	analysis	T062	UMLS:C0936012
+27408908	30	70	histone post-translational modifications	T038	UMLS:C0033666
+27408908	74	90	pathology tissue	T017	UMLS:C0040300
+27408908	101	109	PAT-H-MS	T058	UMLS:C0037813
+27408908	128	168	histone post-translational modifications	T038	UMLS:C0033666
+27408908	170	175	hPTMs	T038	UMLS:C0033666
+27408908	211	222	pathologies	T091	UMLS:C0030664
+27408908	234	240	cancer	T038	UMLS:C0006826
+27408908	267	288	epigenetic biomarkers	T201	UMLS:C0005516
+27408908	324	341	mass spectrometry	T058	UMLS:C0037813
+27408908	362	370	analysis	T062	UMLS:C0936012
+27408908	374	379	hPTMs	T038	UMLS:C0033666
+27408908	385	432	formalin-fixed paraffin-embedded (FFPE) tissues	T017	UMLS:C2711483
+27408908	445	453	histones	T103	UMLS:C0019652
+27408908	459	468	extracted	T058	UMLS:C0185115
+27408908	500	515	PAT-H-MS method	T058	UMLS:C0037813
+27408908	527	535	analyzed	T062	UMLS:C0936012
+27408908	536	548	FFPE samples	T017	UMLS:C2711483
+27408908	554	566	mouse spleen	T017	UMLS:C1519474
+27408908	571	576	liver	T017	UMLS:C0023884
+27408908	580	585	human	T204	UMLS:C0086418
+27408908	586	599	breast cancer	T038	UMLS:C0678222
+27408908	655	660	fresh	T031	UMLS:C2827486
+27408908	661	674	frozen tissue	T017	UMLS:C4039816
+27408908	697	705	PAT-H-MS	T058	UMLS:C0037813
+27408908	722	729	histone	T103	UMLS:C0019652
+27408908	754	774	super-SILAC strategy	T062	UMLS:C1257948
+27408908	791	799	histones	T103	UMLS:C0019652
+27408908	810	834	breast cancer cell lines	T017	UMLS:C1512505
+27408908	883	888	hPTMs	T038	UMLS:C0033666
+27408908	894	907	breast cancer	T038	UMLS:C0678222
+27408908	941	949	subtypes	T170	UMLS:C0449560
+27408908	996	1007	publication	T170	UMLS:C0034036
+27408908	1009	1025	Pathology tissue	T017	UMLS:C0040300
+27408908	1028	1058	quantitative mass spectrometry	T058	UMLS:C3525763
+27408908	1059	1067	analysis	T062	UMLS:C0936012
+27408908	1071	1078	profile	T058	UMLS:C1979963
+27408908	1079	1086	histone	T103	UMLS:C0019652
+27408908	1087	1127	post-translational modification patterns	T038	UMLS:C0033666
+27408908	1191	1217	ProteomeXchange Consortium	T097	UMLS:C1513822
+27408908	1260	1288	dataset identifier PXD002669	T170	UMLS:C0282574

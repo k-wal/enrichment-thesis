@@ -1,0 +1,114 @@
+27688476|t|Optimization of Image Reconstruction for (90)Y Selective Internal Radiotherapy on a Lutetium Yttrium Orthosilicate PET/CT System Using a Bayesian Penalized Likelihood Reconstruction Algorithm
+27688476|a|Imaging on a γ-camera with (90)Y after selective internal radiotherapy (SIRT) may allow for verification of treatment delivery but suffers relatively poor spatial resolution and imprecise dosimetry calculation. (90)Y PET/CT imaging is possible on 3-dimensional, time-of-flight machines; however, images are usually poor because of low count statistics and noise. A new PET reconstruction software using a Bayesian penalized likelihood (BPL) reconstruction algorithm (termed Q.Clear) was investigated using phantom and patient scans to optimize the reconstruction for post-SIRT imaging and clarify whether BPL leads to an improvement in clinical image quality using (90)Y. Methods: Phantom studies over an activity range of 0.5-4.2 GBq were performed to assess the contrast recovery, background variability, and contrast-to-noise ratio for a range of BPL and ordered-subset expectation maximization (OSEM) reconstructions on a PET/CT scanner. Patient images after SIRT were reconstructed using the same parameters and were scored and ranked on the basis of image quality, as assessed by visual evaluation, with the corresponding SPECT/CT Bremsstrahlung images by 2 experienced radiologists. Results: Contrast-to-noise ratio was significantly better in BPL reconstructions when compared with OSEM in phantom studies. The patient -derived BPL and matching Bremsstrahlung images scored higher than OSEM reconstructions when scored by radiologists. BPL with a β value of 4,000 was ranked the highest of all images. Deadtime was apparent in the system above a total phantom activity of 3.3 GBq. Conclusion: BPL with a β value of 4,000 is the optimal image reconstruction in PET/CT for confident radiologic reading when compared with other reconstruction parameters for (90)Y imaging after SIRT imaging. Activity in the field of view should be below 3.3 GBq at the time of PET imaging to avoid deadtime losses for this scanner.
+27688476	0	12	Optimization	T052	C2698650
+27688476	16	36	Image Reconstruction	T066	C0020912
+27688476	41	46	(90)Y	T130,T196	C0303596
+27688476	47	78	Selective Internal Radiotherapy	T061	C1831994
+27688476	84	114	Lutetium Yttrium Orthosilicate	T130	C1254353
+27688476	115	128	PET/CT System	T074	C3882574
+27688476	137	191	Bayesian Penalized Likelihood Reconstruction Algorithm	T170	C0002045
+27688476	192	199	Imaging	T060	C0011923
+27688476	205	213	γ-camera	T074	C0017004
+27688476	219	224	(90)Y	T130,T196	C0303596
+27688476	231	262	selective internal radiotherapy	T061	C1831994
+27688476	264	268	SIRT	T061	C1831994
+27688476	284	296	verification	T169	C1711411
+27688476	300	318	treatment delivery	T061	C2094475
+27688476	342	365	poor spatial resolution	T033	C4038402
+27688476	370	379	imprecise	T067	C1881145
+27688476	380	401	dosimetry calculation	T061	C0034621
+27688476	403	408	(90)Y	T130,T196	C0303596
+27688476	409	415	PET/CT	T074	C3882574
+27688476	416	423	imaging	T060	C0011923
+27688476	439	452	3-dimensional	T082	C0450363
+27688476	454	468	time-of-flight	T081	C2348791
+27688476	469	477	machines	T073	C0336779
+27688476	488	494	images	T078	C1551337
+27688476	507	511	poor	T080	C2700379
+27688476	561	564	PET	T060	C0032743
+27688476	565	579	reconstruction	T066	C0020912
+27688476	580	588	software	T073,T170	C0037585
+27688476	597	657	Bayesian penalized likelihood (BPL) reconstruction algorithm	T170	C0002045
+27688476	666	673	Q.Clear	T170	C0282574
+27688476	679	691	investigated	T169	C1292732
+27688476	698	705	phantom	T073	C0282611
+27688476	710	717	patient	T101	C0030705
+27688476	718	723	scans	T060	C0441633
+27688476	727	735	optimize	T052	C2698650
+27688476	740	754	reconstruction	T066	C0020912
+27688476	759	768	post-SIRT	T061	C1831994
+27688476	769	776	imaging	T060	C0011923
+27688476	797	800	BPL	T170	C0002045
+27688476	813	824	improvement	T077	C2986411
+27688476	828	836	clinical	T080	C0205210
+27688476	837	850	image quality	T080	C0806487
+27688476	857	862	(90)Y	T130,T196	C0303596
+27688476	873	880	Phantom	T073	C0282611
+27688476	881	888	studies	T062	C2603343
+27688476	897	905	activity	T052	C0441655
+27688476	906	911	range	T081	C1514721
+27688476	932	941	performed	T169	C0884358
+27688476	945	951	assess	T058	C0184514
+27688476	956	964	contrast	T080	C1979874
+27688476	965	973	recovery	T038	C0597344
+27688476	975	985	background	T082	C1254362
+27688476	986	997	variability	T077	C2827666
+27688476	1003	1026	contrast-to-noise ratio	T081	C0392762
+27688476	1042	1045	BPL	T170	C0002045
+27688476	1050	1089	ordered-subset expectation maximization	T170	C2700035
+27688476	1091	1095	OSEM	T170	C2700035
+27688476	1097	1112	reconstructions	T066	C0020912
+27688476	1118	1132	PET/CT scanner	T074	C3882574
+27688476	1134	1141	Patient	T101	C0030705
+27688476	1142	1148	images	T078	C1551337
+27688476	1155	1159	SIRT	T061	C1831994
+27688476	1165	1178	reconstructed	T066	C0020912
+27688476	1194	1204	parameters	T082	C0454186
+27688476	1214	1220	scored	T081	C0449820
+27688476	1225	1231	ranked	T170	C0699794
+27688476	1248	1261	image quality	T080	C0806487
+27688476	1266	1274	assessed	T052	C1516048
+27688476	1278	1284	visual	T169	C0234621
+27688476	1285	1295	evaluation	T058	C0220825
+27688476	1320	1328	SPECT/CT	T060	C3472245
+27688476	1329	1343	Bremsstrahlung	UnknownType	C0260185
+27688476	1344	1350	images	T078	C1551337
+27688476	1368	1380	radiologists	T097	C0334907
+27688476	1391	1414	Contrast-to-noise ratio	T081	C0392762
+27688476	1443	1446	BPL	T170	C0002045
+27688476	1447	1462	reconstructions	T066	C0020912
+27688476	1482	1486	OSEM	T170	C2700035
+27688476	1490	1497	phantom	T073	C0282611
+27688476	1498	1505	studies	T062	C2603343
+27688476	1511	1518	patient	T101	C0030705
+27688476	1528	1531	BPL	T170	C0002045
+27688476	1545	1559	Bremsstrahlung	UnknownType	C0260185
+27688476	1560	1566	images	T078	C1551337
+27688476	1567	1573	scored	T081	C0449820
+27688476	1574	1580	higher	T080	C0205250
+27688476	1586	1590	OSEM	T170	C2700035
+27688476	1591	1606	reconstructions	T066	C0020912
+27688476	1612	1618	scored	T081	C0449820
+27688476	1622	1634	radiologists	T097	C0334907
+27688476	1636	1639	BPL	T170	C0002045
+27688476	1647	1654	β value	T081	C0392762
+27688476	1694	1700	images	T078	C1551337
+27688476	1702	1710	Deadtime	T079	C1254367
+27688476	1752	1759	phantom	T073	C0282611
+27688476	1760	1768	activity	T052	C0441655
+27688476	1793	1796	BPL	T170	C0002045
+27688476	1828	1835	optimal	T080	C2698651
+27688476	1836	1856	image reconstruction	T066	C0020912
+27688476	1860	1866	PET/CT	T074	C3882574
+27688476	1881	1891	radiologic	T169	C0205483
+27688476	1892	1899	reading	T077	C1705179
+27688476	1925	1939	reconstruction	T066	C0020912
+27688476	1940	1950	parameters	T082	C0454186
+27688476	1955	1960	(90)Y	T130,T196	C0303596
+27688476	1961	1968	imaging	T060	C0011923
+27688476	1975	1979	SIRT	T061	C1831994
+27688476	1980	1987	imaging	T060	C0011923
+27688476	1989	1997	Activity	T052	C0441655
+27688476	2058	2069	PET imaging	T060	C3702050
+27688476	2079	2087	deadtime	T079	C1254367
+27688476	2104	2111	scanner	T074	C0183115

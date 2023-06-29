@@ -1,0 +1,119 @@
+27908503|t|Cobalt-60 Machines and Medical Linear Accelerators: Competing Technologies for External Beam Radiotherapy
+27908503|a|Medical linear accelerators (linacs) and cobalt-60 machines are both mature technologies for external beam radiotherapy. A comparison is made between these two technologies in terms of infrastructure and maintenance, dosimetry, shielding requirements, staffing, costs, security, patient throughput and clinical use. Infrastructure and maintenance are more demanding for linacs due to the complex electric componentry. In dosimetry, a higher beam energy, modulated dose rate and smaller focal spot size mean that it is easier to create an optimised treatment with a linac for conformal dose coverage of the tumour while sparing healthy organs at risk. In shielding, the requirements for a concrete bunker are similar for cobalt-60 machines and linacs but extra shielding and protection from neutrons are required for linacs. Staffing levels can be higher for linacs and more staff training is required for linacs. Life cycle costs are higher for linacs, especially multi-energy linacs. Security is more complex for cobalt-60 machines because of the high activity radioactive source. Patient throughput can be affected by source decay for cobalt-60 machines but poor maintenance and breakdowns can severely affect patient throughput for linacs. In clinical use, more complex treatment techniques are easier to achieve with linacs, and the availability of electron beams on high - energy linacs can be useful for certain treatments. In summary, there is no simple answer to the question of the choice of either cobalt-60 machines or linacs for radiotherapy in low- and middle-income countries. In fact a radiotherapy department with a combination of technologies, including orthovoltage X-ray units, may be an option. Local needs, conditions and resources will have to be factored into any decision on technology taking into account the characteristics of both forms of teletherapy, with the primary goal being the sustainability of the radiotherapy service over the useful lifetime of the equipment.
+27908503	0	18	Cobalt-60 Machines	T074	C0025080
+27908503	23	50	Medical Linear Accelerators	T074	C0023730
+27908503	52	74	Competing Technologies	T090	C0039421
+27908503	79	105	External Beam Radiotherapy	T061	C1517033
+27908503	106	133	Medical linear accelerators	T074	C0023730
+27908503	135	141	linacs	T074	C0023730
+27908503	147	165	cobalt-60 machines	T074	C0025080
+27908503	182	194	technologies	T090	C0039421
+27908503	199	225	external beam radiotherapy	T061	C1517033
+27908503	229	239	comparison	T052	C1707455
+27908503	266	278	technologies	T090	C0039421
+27908503	291	305	infrastructure	T185	C1514880
+27908503	310	321	maintenance	T052	C0024501
+27908503	323	332	dosimetry	T059	C0034603
+27908503	334	343	shielding	T033	C0243095
+27908503	344	356	requirements	T169	C1514873
+27908503	358	366	staffing	T057	C0087023
+27908503	368	373	costs	T081	C0010186
+27908503	375	383	security	T077	C1519222
+27908503	385	392	patient	T101	C0030705
+27908503	393	403	throughput	T081	C2986816
+27908503	408	420	clinical use	T169	C0042153
+27908503	422	436	Infrastructure	T185	C1514880
+27908503	441	452	maintenance	T052	C0024501
+27908503	462	471	demanding	T078	C0699784
+27908503	476	482	linacs	T074	C0023730
+27908503	494	522	complex electric componentry	T073	C3273359
+27908503	527	536	dosimetry	T059	C0034603
+27908503	540	546	higher	T080	C0205250
+27908503	547	558	beam energy	T081	C1442080
+27908503	560	569	modulated	T082	C0443264
+27908503	570	579	dose rate	T081	C1512044
+27908503	584	591	smaller	T080	C0547044
+27908503	592	607	focal spot size	T080	C2348694
+27908503	624	630	easier	T033	C0332219
+27908503	634	640	create	T052	C1706214
+27908503	644	653	optimised	T052	C2698650
+27908503	654	663	treatment	T061	C0087111
+27908503	671	676	linac	T074	C0023730
+27908503	691	695	dose	T081	C0178602
+27908503	696	704	coverage	T169	C1999244
+27908503	712	718	tumour	T191	C0027651
+27908503	733	747	healthy organs	T023	C0178784
+27908503	751	755	risk	T078	C0035647
+27908503	760	769	shielding	T033	C0243095
+27908503	775	787	requirements	T169	C1514873
+27908503	794	809	concrete bunker	T073	C3273359
+27908503	826	844	cobalt-60 machines	T074	C0025080
+27908503	849	855	linacs	T074	C0023730
+27908503	866	875	shielding	T033	C0243095
+27908503	880	890	protection	T033	C1545588
+27908503	896	904	neutrons	T167	C0027946
+27908503	922	928	linacs	T074	C0023730
+27908503	930	945	Staffing levels	T033	C3845726
+27908503	953	959	higher	T080	C0205250
+27908503	964	970	linacs	T074	C0023730
+27908503	980	994	staff training	T065	C0681113
+27908503	1011	1017	linacs	T074	C0023730
+27908503	1019	1035	Life cycle costs	T169	C0220812
+27908503	1040	1046	higher	T080	C0205250
+27908503	1051	1057	linacs	T074	C0023730
+27908503	1070	1089	multi-energy linacs	T074	C0023730
+27908503	1091	1099	Security	T077	C1519222
+27908503	1108	1115	complex	T080	C0439855
+27908503	1120	1138	cobalt-60 machines	T074	C0025080
+27908503	1154	1158	high	T080	C0205250
+27908503	1159	1167	activity	T052	C0441655
+27908503	1168	1186	radioactive source	T122	C0182598
+27908503	1188	1195	Patient	T101	C0030705
+27908503	1196	1206	throughput	T081	C2986816
+27908503	1214	1222	affected	T169	C0392760
+27908503	1226	1232	source	T033	C0449416
+27908503	1233	1238	decay	T067	C2700592
+27908503	1243	1261	cobalt-60 machines	T074	C0025080
+27908503	1266	1270	poor	T080	C0542537
+27908503	1271	1282	maintenance	T052	C0024501
+27908503	1287	1297	breakdowns	T066	C0014678
+27908503	1311	1317	affect	T169	C0392760
+27908503	1318	1325	patient	T101	C0030705
+27908503	1326	1336	throughput	T081	C2986816
+27908503	1341	1347	linacs	T074	C0023730
+27908503	1352	1364	clinical use	T169	C0042153
+27908503	1371	1378	complex	T080	C0439855
+27908503	1379	1388	treatment	T061	C0087111
+27908503	1389	1399	techniques	T169	C0449851
+27908503	1404	1410	easier	T033	C0332219
+27908503	1427	1433	linacs	T074	C0023730
+27908503	1443	1458	availability of	T169	C0470187
+27908503	1459	1473	electron beams	T073	C0013840
+27908503	1477	1481	high	T080	C0205250
+27908503	1484	1490	energy	T081	C1442080
+27908503	1491	1497	linacs	T074	C0023730
+27908503	1524	1534	treatments	T061	C0087111
+27908503	1614	1632	cobalt-60 machines	T074	C0025080
+27908503	1636	1642	linacs	T074	C0023730
+27908503	1647	1659	radiotherapy	T061	C1522449
+27908503	1663	1667	low-	T033	C1331016
+27908503	1672	1685	middle-income	T080	C0870890
+27908503	1686	1695	countries	T083	C0454664
+27908503	1707	1730	radiotherapy department	T093	C0587444
+27908503	1738	1749	combination	T080	C0205195
+27908503	1753	1765	technologies	T090	C0039421
+27908503	1777	1801	orthovoltage X-ray units	T092	C1704729
+27908503	1813	1819	option	T169	C1518601
+27908503	1821	1826	Local	T082	C0205276
+27908503	1827	1832	needs	T080	C0027552
+27908503	1834	1844	conditions	T080	C0348080
+27908503	1849	1858	resources	T078	C0035201
+27908503	1893	1901	decision	T041	C0679006
+27908503	1905	1915	technology	T090	C0039421
+27908503	1940	1955	characteristics	T080	C1521970
+27908503	1973	1984	teletherapy	T061	C0419095
+27908503	2003	2007	goal	T170	C0018017
+27908503	2018	2032	sustainability	T169	C0205245
+27908503	2040	2060	radiotherapy service	T093	C0587559
+27908503	2077	2085	lifetime	T079	C4071830
+27908503	2093	2102	equipment	T073	C0014672

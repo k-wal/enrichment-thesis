@@ -1,0 +1,51 @@
+15858223|t|Valproic acid I: time course of lipid peroxidation biomarkers, liver toxicity, and valproic acid metabolite levels in rats.
+15858223|a|A single dose of valproic acid (VPA), which is a widely used antiepileptic drug, is associated with oxidative stress in rats, as recently demonstrated by elevated levels of 15-F(2t)-isoprostane (15-F(2t)-IsoP). To determine whether there was a temporal relationship between VPA-associated oxidative stress and hepatotoxicity, adult male Sprague-Dawley rats were treated ip with VPA (500 mg/kg) or 0.9% saline (vehicle) once daily for 2, 4, 7, 10, or 14 days. Oxidative stress was assessed by determining plasma and liver levels of 15-F(2t)-IsoP, lipid hydroperoxides (LPO), and thiobarbituric acid reactive substances (TBARs). Plasma and liver 15-F(2t)-IsoP were elevated and reached a plateau after day 2 of VPA treatment compared to control. Liver LPO levels were not elevated until day 7 of treatment (1.8-fold versus control, p < 0.05). Liver and plasma TBARs were not increased until 14 days (2-fold vs. control, p < 0.05). Liver toxicity was evaluated based on serum levels of alpha-glutathione S-transferase (alpha-GST) and by histology. Serum alpha-GST levels were significantly elevated by day 4, which corresponded to hepatotoxicity as shown by the increasing incidence of inflammation of the liver capsule, necrosis, and steatosis throughout the study. The liver levels of beta-oxidation metabolites of VPA were decreased by day 14, while the levels of 4-ene-VPA and (E)-2,4-diene-VPA were not elevated throughout the study. Overall, these findings indicate that VPA treatment results in oxidative stress, as measured by levels of 15-F(2t)-IsoP, which precedes the onset of necrosis, steatosis, and elevated levels of serum alpha-GST.
+15858223	0	13	Valproic acid	ChemicalEntity	D014635
+15858223	32	37	lipid	ChemicalEntity	D008055
+15858223	63	77	liver toxicity	DiseaseOrPhenotypicFeature	D056486
+15858223	83	96	valproic acid	ChemicalEntity	D014635
+15858223	118	122	rats	OrganismTaxon	10116
+15858223	141	154	valproic acid	ChemicalEntity	D014635
+15858223	156	159	VPA	ChemicalEntity	D014635
+15858223	185	203	antiepileptic drug	ChemicalEntity	D000927
+15858223	244	248	rats	OrganismTaxon	10116
+15858223	297	317	15-F(2t)-isoprostane	ChemicalEntity	C075750
+15858223	319	332	15-F(2t)-IsoP	ChemicalEntity	C075750
+15858223	398	401	VPA	ChemicalEntity	D014635
+15858223	434	448	hepatotoxicity	DiseaseOrPhenotypicFeature	D056486
+15858223	476	480	rats	OrganismTaxon	10116
+15858223	502	505	VPA	ChemicalEntity	D014635
+15858223	655	668	15-F(2t)-IsoP	ChemicalEntity	C075750
+15858223	670	690	lipid hydroperoxides	ChemicalEntity	D008054
+15858223	692	695	LPO	ChemicalEntity	D008054
+15858223	702	741	thiobarbituric acid reactive substances	ChemicalEntity	D017392
+15858223	743	748	TBARs	ChemicalEntity	D017392
+15858223	768	781	15-F(2t)-IsoP	ChemicalEntity	C075750
+15858223	833	836	VPA	ChemicalEntity	D014635
+15858223	874	877	LPO	ChemicalEntity	D008054
+15858223	982	987	TBARs	ChemicalEntity	D017392
+15858223	1053	1067	Liver toxicity	DiseaseOrPhenotypicFeature	D056486
+15858223	1107	1138	alpha-glutathione S-transferase	GeneOrGeneProduct	24421
+15858223	1140	1149	alpha-GST	GeneOrGeneProduct	24421
+15858223	1175	1184	alpha-GST	GeneOrGeneProduct	24421
+15858223	1252	1266	hepatotoxicity	DiseaseOrPhenotypicFeature	D056486
+15858223	1307	1340	inflammation of the liver capsule	DiseaseOrPhenotypicFeature	D006505
+15858223	1342	1350	necrosis	DiseaseOrPhenotypicFeature	D009336
+15858223	1356	1365	steatosis	DiseaseOrPhenotypicFeature	D005234
+15858223	1438	1441	VPA	ChemicalEntity	D014635
+15858223	1488	1497	4-ene-VPA	ChemicalEntity	C045022
+15858223	1506	1519	2,4-diene-VPA	ChemicalEntity	C556631
+15858223	1598	1601	VPA	ChemicalEntity	D014635
+15858223	1666	1679	15-F(2t)-IsoP	ChemicalEntity	C075750
+15858223	1709	1717	necrosis	DiseaseOrPhenotypicFeature	D009336
+15858223	1719	1728	steatosis	DiseaseOrPhenotypicFeature	D005234
+15858223	1759	1768	alpha-GST	GeneOrGeneProduct	24421
+15858223	Positive_Correlation	24421	D006505	Novel
+15858223	Positive_Correlation	24421	D005234	Novel
+15858223	Positive_Correlation	24421	D009336	Novel
+15858223	Positive_Correlation	C075750	D014635	Novel
+15858223	Positive_Correlation	D056486	24421	Novel
+15858223	Positive_Correlation	D014635	D005234	Novel
+15858223	Positive_Correlation	D014635	D009336	Novel
+15858223	Positive_Correlation	D014635	24421	Novel
+15858223	Association	D014635	D056486	No

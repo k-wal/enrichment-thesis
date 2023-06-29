@@ -1,0 +1,38 @@
+16543197|t|A G1103R mutation in CRB1 is co-inherited with high hyperopia and Leber congenital amaurosis.
+16543197|a|PURPOSE: To identify the genetic basis of recessive inheritance of high hyperopia and Leber congenital amaurosis (LCA) in a family of Middle Eastern origin. MATERIALS AND METHODS: The patients were examined using standard ophthalmic techniques. DNA samples were obtained and genetic linkage was carried out using polymorphic markers flanking the known genes and loci for LCA. Exons were amplified and sequenced. RESULTS: All four members of this family affected by LCA showed high to extreme hyperopia, with average spherical refractive errors ranging from +5.00 to +10.00. Linkage was obtained to 1q31.3 with a maximal LOD score of 5.20 and a mutation found in exon 9 of the CRB1 gene, causing a G1103R substitution at a highly conserved site in the protein. CRB1 is a vertebrate homolog of the Drosophila crumbs gene, which is required for photoreceptor morphogenesis, and has been associated with either retinitis pigmentosa (RP) or LCA. This sequence variant has previously been reported as a compound heterozygote in one sporadic LCA patient. CONCLUSION: Although hyperopia has been associated with LCA, it is typically moderate and variable between patients with the same mutation. In addition, some CRB1 mutations can be associated with either RP or LCA. We have shown that hyperopia and LCA are linked to the mutant CRB1 gene itself and are not dependent on unlinked modifiers.
+16543197	2	8	G1103R	SequenceVariant	rs62636275
+16543197	21	25	CRB1	GeneOrGeneProduct	23418
+16543197	52	61	hyperopia	DiseaseOrPhenotypicFeature	D006956
+16543197	66	92	Leber congenital amaurosis	DiseaseOrPhenotypicFeature	D057130
+16543197	161	175	high hyperopia	DiseaseOrPhenotypicFeature	C565497
+16543197	180	206	Leber congenital amaurosis	DiseaseOrPhenotypicFeature	D057130
+16543197	208	211	LCA	DiseaseOrPhenotypicFeature	D057130
+16543197	278	286	patients	OrganismTaxon	9606
+16543197	465	468	LCA	DiseaseOrPhenotypicFeature	D057130
+16543197	559	562	LCA	DiseaseOrPhenotypicFeature	D057130
+16543197	586	595	hyperopia	DiseaseOrPhenotypicFeature	D006956
+16543197	770	774	CRB1	GeneOrGeneProduct	23418
+16543197	791	797	G1103R	SequenceVariant	rs62636275
+16543197	854	858	CRB1	GeneOrGeneProduct	23418
+16543197	890	900	Drosophila	OrganismTaxon	7227
+16543197	901	907	crumbs	GeneOrGeneProduct	42896
+16543197	1001	1021	retinitis pigmentosa	DiseaseOrPhenotypicFeature	D012174
+16543197	1023	1025	RP	DiseaseOrPhenotypicFeature	D012174
+16543197	1030	1033	LCA	DiseaseOrPhenotypicFeature	D057130
+16543197	1129	1132	LCA	DiseaseOrPhenotypicFeature	D057130
+16543197	1133	1140	patient	OrganismTaxon	9606
+16543197	1163	1172	hyperopia	DiseaseOrPhenotypicFeature	D006956
+16543197	1198	1201	LCA	DiseaseOrPhenotypicFeature	D057130
+16543197	1249	1257	patients	OrganismTaxon	9606
+16543197	1300	1304	CRB1	GeneOrGeneProduct	23418
+16543197	1345	1347	RP	DiseaseOrPhenotypicFeature	D012174
+16543197	1351	1354	LCA	DiseaseOrPhenotypicFeature	D057130
+16543197	1375	1384	hyperopia	DiseaseOrPhenotypicFeature	D006956
+16543197	1389	1392	LCA	DiseaseOrPhenotypicFeature	D057130
+16543197	1418	1422	CRB1	GeneOrGeneProduct	23418
+16543197	Association	23418	D057130	Novel
+16543197	Association	23418	D012174	No
+16543197	Association	D006956	23418	Novel
+16543197	Association	rs62636275	D057130	Novel
+16543197	Association	rs62636275	D006956	Novel
+16543197	Association	rs62636275	D012174	Novel

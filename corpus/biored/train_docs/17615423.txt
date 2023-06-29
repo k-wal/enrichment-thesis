@@ -1,0 +1,72 @@
+17615423|t|Severe rhabdomyolysis and acute renal failure secondary to concomitant use of simvastatin, amiodarone, and atazanavir.
+17615423|a|OBJECTIVE: To report a case of a severe interaction between simvastatin, amiodarone, and atazanavir resulting in rhabdomyolysis and acute renal failure. BACKGROUND: A 72-year-old white man with underlying human immunodeficiency virus, atrial fibrillation, coronary artery disease, and hyperlipidemia presented with generalized pain, fatigue, and dark orange urine for 3 days. The patient was taking 80 mg simvastatin at bedtime (initiated 27 days earlier); amiodarone at a dose of 400 mg daily for 7 days, then 200 mg daily (initiated 19 days earlier); and 400 mg atazanavir daily (initiated at least 2 years previously). Laboratory evaluation revealed 66,680 U/L creatine kinase, 93 mg/dL blood urea nitrogen, 4.6 mg/dL creatinine, 1579 U/L aspartate aminotransferase, and 738 U/L alanine aminotransferase. Simvastatin, amiodarone, and the patient's human immunodeficiency virus medications were all temporarily discontinued and the patient was given forced alkaline diuresis and started on dialysis. Nine days later the patient's creatine kinase had dropped to 1695 U/L and creatinine was 3.3 mg/dL. The patient was discharged and continued outpatient dialysis for 1 month until his renal function recovered. DISCUSSION: The risk of rhabdomyolysis is increased in the presence of concomitant drugs that inhibit simvastatin metabolism. Simvastatin is metabolized by CYP3A4. Amiodarone and atazanavir are recognized CYP3A4 inhibitors. CONCLUSIONS: Pharmacokinetic differences in statins are an important consideration for assessing the risk of potential drug interactions. In patients requiring the concurrent use of statins and CYP3A4 inhibitors, pravastatin, fluvastatin, and rosuvastatin carry the lowest risk of drug interactions; atorvastatin carries moderate risk, whereas simvastatin and lovastatin have the highest risk and should be avoided in patients taking concomitant CYP3A4 inhibitors.
+17615423	7	21	rhabdomyolysis	DiseaseOrPhenotypicFeature	D012206
+17615423	26	45	acute renal failure	DiseaseOrPhenotypicFeature	D058186
+17615423	78	89	simvastatin	ChemicalEntity	D019821
+17615423	91	101	amiodarone	ChemicalEntity	D000638
+17615423	107	117	atazanavir	ChemicalEntity	C413408
+17615423	179	190	simvastatin	ChemicalEntity	D019821
+17615423	192	202	amiodarone	ChemicalEntity	D000638
+17615423	208	218	atazanavir	ChemicalEntity	C413408
+17615423	232	246	rhabdomyolysis	DiseaseOrPhenotypicFeature	D012206
+17615423	251	270	acute renal failure	DiseaseOrPhenotypicFeature	D058186
+17615423	304	307	man	OrganismTaxon	9606
+17615423	324	352	human immunodeficiency virus	OrganismTaxon	12721
+17615423	354	373	atrial fibrillation	DiseaseOrPhenotypicFeature	D001281
+17615423	375	398	coronary artery disease	DiseaseOrPhenotypicFeature	D003324
+17615423	404	418	hyperlipidemia	DiseaseOrPhenotypicFeature	D006949
+17615423	446	450	pain	DiseaseOrPhenotypicFeature	D010146
+17615423	452	459	fatigue	DiseaseOrPhenotypicFeature	D005221
+17615423	499	506	patient	OrganismTaxon	9606
+17615423	524	535	simvastatin	ChemicalEntity	D019821
+17615423	576	586	amiodarone	ChemicalEntity	D000638
+17615423	683	693	atazanavir	ChemicalEntity	C413408
+17615423	783	798	creatine kinase	ChemicalEntity	D003402
+17615423	809	828	blood urea nitrogen	ChemicalEntity	D001806
+17615423	840	850	creatinine	ChemicalEntity	D003404
+17615423	861	887	aspartate aminotransferase	ChemicalEntity	D001219
+17615423	901	925	alanine aminotransferase	ChemicalEntity	D000410
+17615423	927	938	Simvastatin	ChemicalEntity	D019821
+17615423	940	950	amiodarone	ChemicalEntity	D000638
+17615423	960	967	patient	OrganismTaxon	9606
+17615423	970	998	human immunodeficiency virus	OrganismTaxon	12721
+17615423	1053	1060	patient	OrganismTaxon	9606
+17615423	1141	1148	patient	OrganismTaxon	9606
+17615423	1151	1166	creatine kinase	ChemicalEntity	D003402
+17615423	1195	1205	creatinine	ChemicalEntity	D003404
+17615423	1225	1232	patient	OrganismTaxon	9606
+17615423	1262	1272	outpatient	OrganismTaxon	9606
+17615423	1354	1368	rhabdomyolysis	DiseaseOrPhenotypicFeature	D012206
+17615423	1432	1443	simvastatin	ChemicalEntity	D019821
+17615423	1456	1467	Simvastatin	ChemicalEntity	D019821
+17615423	1486	1492	CYP3A4	GeneOrGeneProduct	1576
+17615423	1494	1504	Amiodarone	ChemicalEntity	D000638
+17615423	1509	1519	atazanavir	ChemicalEntity	C413408
+17615423	1535	1541	CYP3A4	GeneOrGeneProduct	1576
+17615423	1598	1605	statins	ChemicalEntity	D019821
+17615423	1695	1703	patients	OrganismTaxon	9606
+17615423	1736	1743	statins	ChemicalEntity	D019821
+17615423	1748	1754	CYP3A4	GeneOrGeneProduct	1576
+17615423	1767	1778	pravastatin	ChemicalEntity	D017035
+17615423	1780	1791	fluvastatin	ChemicalEntity	C065180
+17615423	1797	1809	rosuvastatin	ChemicalEntity	C422923
+17615423	1854	1866	atorvastatin	ChemicalEntity	C065179
+17615423	1898	1909	simvastatin	ChemicalEntity	D019821
+17615423	1914	1924	lovastatin	ChemicalEntity	D008148
+17615423	1972	1980	patients	OrganismTaxon	9606
+17615423	2000	2017	CYP3A4 inhibitors	ChemicalEntity	D065692
+17615423	Positive_Correlation	C413408	D058186	Novel
+17615423	Negative_Correlation	C413408	1576	No
+17615423	Positive_Correlation	C413408	D012206	Novel
+17615423	Positive_Correlation	D000638	D058186	Novel
+17615423	Drug_Interaction	D000638	C413408	Novel
+17615423	Negative_Correlation	D000638	1576	No
+17615423	Positive_Correlation	D000638	D012206	Novel
+17615423	Negative_Correlation	1576	C422923	No
+17615423	Negative_Correlation	1576	C065180	No
+17615423	Negative_Correlation	1576	D017035	No
+17615423	Positive_Correlation	D019821	D058186	Novel
+17615423	Drug_Interaction	D019821	C413408	Novel
+17615423	Drug_Interaction	D019821	D000638	Novel
+17615423	Association	D019821	1576	No
+17615423	Positive_Correlation	D012206	D019821	Novel

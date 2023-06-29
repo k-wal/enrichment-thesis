@@ -1,0 +1,97 @@
+27262362|t|Survival status and functional outcome of children who required prolonged intensive care after cardiac surgery
+27262362|a|Children who require prolonged intensive care after cardiac surgery are at risk of high mortality. The long-term survival and functional outcome of these children have not been studied in detail. Children who stayed in intensive care for >28 days after cardiac surgery from 1997 to 2012 were studied in a single institution. A total of 116 patients were identified; 107 (92%) were <1 year of age and 63 (54%) had univentricular physiology. The incidence of children requiring prolonged intensive care increased from 1.01/100 undergoing cardiac surgery in 1997 to 2000 to 2.66/100 in 2009 to 2012 (P trend = .002). This increase coincided with an increase in the number of children with hypoplastic left heart syndrome having prolonged intensive care during the same period (0.13/100 in 1997-2000 to 1.0/100 in 2009-2012; P trend = .001). Survival to pediatric intensive care unit (PICU) discharge was 74% (95% confidence interval [CI], 65-82) and 51% (95% CI, 41-59) at 3 years. Factors associated with mortality were univentricular repair (hazard ratio [HR], 2.12; 95% CI, 1.21-3.70; P = .008) and acute renal failure (HR, 3.01; 95% CI, 1.77-5.12; P < .001), but era did not influence mortality (1997-2005 vs 2006-2012; log-rank P = .66). Among PICU survivors, 3- year survival in those who did not need early reoperation was 81% (95% CI, 66-90), compared with 58% (95% CI, 42-71) in those who required early reoperation (log-rank P = .01). Among survivors, 36% had either moderate or severe disability and 13% had poor quality of life. The incidence of children requiring prolonged intensive care after cardiac surgery has increase d in our institution. Our data suggest that the long-term outcome for most of these children is poor, especially after univentricular repair.
+27262362	0	15	Survival status	T033	C1148433
+27262362	20	30	functional	T169	C0205245
+27262362	31	38	outcome	T169	C1274040
+27262362	42	50	children	T100	C0008059
+27262362	55	63	required	T169	C1514873
+27262362	64	73	prolonged	T079	C0439590
+27262362	74	88	intensive care	T058	C0085559
+27262362	95	110	cardiac surgery	T061	C0018821
+27262362	111	119	Children	T100	C0008059
+27262362	132	141	prolonged	T079	C0439590
+27262362	142	156	intensive care	T058	C0085559
+27262362	163	178	cardiac surgery	T061	C0018821
+27262362	183	190	at risk	T080	C1444641
+27262362	194	208	high mortality	T081	C0205848
+27262362	214	223	long-term	T079	C0443252
+27262362	224	232	survival	T033	C1148433
+27262362	237	247	functional	T169	C0205245
+27262362	248	255	outcome	T169	C1274040
+27262362	265	273	children	T100	C0008059
+27262362	299	305	detail	T080	C1522508
+27262362	307	315	Children	T100	C0008059
+27262362	320	326	stayed	T033	C2706919
+27262362	330	344	intensive care	T058	C0085559
+27262362	353	357	days	T079	C0439228
+27262362	364	379	cardiac surgery	T061	C0018821
+27262362	423	434	institution	T093	C2607850
+27262362	451	459	patients	T101	C0030705
+27262362	465	475	identified	T080	C0205396
+27262362	495	506	year of age	T079	C1510829
+27262362	524	549	univentricular physiology	T019,T047	C2959602
+27262362	555	564	incidence	T081	C0021149
+27262362	568	576	children	T100	C0008059
+27262362	587	596	prolonged	T079	C0439590
+27262362	597	611	intensive care	T058	C0085559
+27262362	612	621	increased	T081	C0205217
+27262362	647	662	cardiac surgery	T061	C0018821
+27262362	730	738	increase	T169	C0442805
+27262362	730	738	increase	T169	C0442805
+27262362	757	765	increase	T169	C0442805
+27262362	773	779	number	T081	C0237753
+27262362	783	791	children	T100	C0008059
+27262362	797	828	hypoplastic left heart syndrome	T047	C0152101
+27262362	836	845	prolonged	T079	C0439590
+27262362	846	860	intensive care	T058	C0085559
+27262362	877	883	period	T079	C1948053
+27262362	949	957	Survival	T033	C1148433
+27262362	961	990	pediatric intensive care unit	T073,T093	C0021710
+27262362	992	996	PICU	T073,T093	C0021710
+27262362	998	1007	discharge	T058	C0030685
+27262362	1021	1040	confidence interval	T081	C0009667
+27262362	1042	1044	CI	T081	C0009667
+27262362	1067	1069	CI	T081	C0009667
+27262362	1083	1088	years	T079	C0439234
+27262362	1090	1097	Factors	T169	C1521761
+27262362	1098	1113	associated with	T080	C0332281
+27262362	1114	1123	mortality	T081	C0205848
+27262362	1129	1150	univentricular repair	T061	C1961051
+27262362	1152	1164	hazard ratio	T081	C2985465
+27262362	1166	1168	HR	T081	C2985465
+27262362	1181	1183	CI	T081	C0009667
+27262362	1210	1229	acute renal failure	T047	C0022660
+27262362	1231	1233	HR	T081	C2985465
+27262362	1245	1247	CI	T081	C0009667
+27262362	1287	1296	influence	T077	C4054723
+27262362	1297	1306	mortality	T081	C0205848
+27262362	1357	1361	PICU	T073,T093	C0021710
+27262362	1362	1371	survivors	T101	C0206194
+27262362	1376	1380	year	T079	C0439234
+27262362	1381	1389	survival	T033	C1148433
+27262362	1416	1421	early	T079	C1279919
+27262362	1422	1433	reoperation	T061	C0035110
+27262362	1447	1449	CI	T081	C0009667
+27262362	1459	1467	compared	T052	C1707455
+27262362	1482	1484	CI	T081	C0009667
+27262362	1506	1514	required	T169	C1514873
+27262362	1515	1520	early	T079	C1279919
+27262362	1521	1532	reoperation	T061	C0035110
+27262362	1559	1568	survivors	T101	C0206194
+27262362	1585	1593	moderate	T033	C0424989
+27262362	1597	1614	severe disability	T033	C0424990
+27262362	1627	1647	poor quality of life	T033	C3686815
+27262362	1653	1662	incidence	T081	C0021149
+27262362	1666	1674	children	T100	C0008059
+27262362	1685	1694	prolonged	T079	C0439590
+27262362	1695	1709	intensive care	T058	C0085559
+27262362	1716	1731	cardiac surgery	T061	C0018821
+27262362	1736	1744	increase	T169	C0442805
+27262362	1754	1765	institution	T093	C2607850
+27262362	1771	1775	data	T078	C1511726
+27262362	1776	1783	suggest	T078	C1705535
+27262362	1793	1802	long-term	T079	C0443252
+27262362	1803	1810	outcome	T169	C1274040
+27262362	1829	1837	children	T100	C0008059
+27262362	1841	1845	poor	T080	C2700379
+27262362	1864	1885	univentricular repair	T061	C1961051

@@ -1,0 +1,45 @@
+27301853|t|Mining Health App Data to Find More and Less Successful Weight Loss Subgroups
+27301853|a|More than half of all smartphone app downloads involve weight, diet, and exercise. If successful, these lifestyle apps may have far-reaching effects for disease prevention and health cost-savings, but few researchers have analyzed data from these apps. The purposes of this study were to analyze data from a commercial health app (Lose It!) in order to identify successful weight loss subgroups via exploratory analyses and to verify the stability of the results. Cross-sectional, de-identified data from Lose It! were analyzed. This dataset (n=12,427,196) was randomly split into 24 subsamples, and this study used 3 subsamples (combined n=972,687). Classification and regression tree methods were used to explore groupings of weight loss with one subsample, with descriptive analyses to examine other group characteristics. Data mining validation methods were conducted with 2 additional subsamples. In subsample 1, 14.96% of users lost 5% or more of their starting body weight. Classification and regression tree analysis identified 3 distinct subgroups: "the occasional users " had the lowest proportion (4.87%) of individuals who successfully lost weight; "the basic users " had 37.61% weight loss success; and "the power users " achieved the highest percentage of weight loss success at 72.70%. Behavioral factors delineated the subgroups, though app -related behavioral characteristics further distinguished them. Results were replicated in further analyses with separate subsamples. This study demonstrates that distinct subgroups can be identified in "messy" commercial app data and the identified subgroups can be replicated in independent samples. Behavioral factors and use of custom app features characterized the subgroups. Targeting and tailoring information to particular subgroups could enhance weight loss success. Future studies should replicate data mining analyses to increase methodology rigor.
+27301853	7	17	Health App	T170	UMLS:C3658280
+27301853	56	67	Weight Loss	T033	UMLS:C1262477
+27301853	100	114	smartphone app	T170	UMLS:C3658310
+27301853	141	146	diet,	T168	UMLS:C0012155
+27301853	192	196	apps	T170	UMLS:C3658280
+27301853	283	294	researchers	T097	UMLS:C0035173
+27301853	325	329	apps	T170	UMLS:C3658280
+27301853	386	407	commercial health app	T170	UMLS:C3658280
+27301853	409	417	Lose It!	T170	UMLS:C3658280
+27301853	440	462	successful weight loss	T033	UMLS:C1262477
+27301853	463	472	subgroups	T170	UMLS:C1515021
+27301853	477	497	exploratory analyses	T062	UMLS:C0936012
+27301853	583	591	Lose It!	T170	UMLS:C3658280
+27301853	612	619	dataset	T170	UMLS:C0150098
+27301853	729	743	Classification	T170	UMLS:C0008902
+27301853	748	771	regression tree methods	T170	UMLS:C0034980
+27301853	806	817	weight loss	T033	UMLS:C1262477
+27301853	843	863	descriptive analyses	T062	UMLS:C0936012
+27301853	916	934	validation methods	T170	UMLS:C0025663
+27301853	1006	1011	users	T098	UMLS:C1706077
+27301853	1012	1016	lost	T033	UMLS:C1262477
+27301853	1059	1073	Classification	T170	UMLS:C0008902
+27301853	1078	1102	regression tree analysis	T170	UMLS:C0034980
+27301853	1125	1134	subgroups	T170	UMLS:C1515021
+27301853	1152	1157	users	T098	UMLS:C1706077
+27301853	1197	1208	individuals	T098	UMLS:C0027361
+27301853	1226	1237	lost weight	T033	UMLS:C1262477
+27301853	1250	1255	users	T098	UMLS:C1706077
+27301853	1269	1280	weight loss	T033	UMLS:C1262477
+27301853	1299	1310	power users	T098	UMLS:C1706077
+27301853	1348	1367	weight loss success	T033	UMLS:C1262477
+27301853	1413	1422	subgroups	T170	UMLS:C1515021
+27301853	1431	1434	app	T170	UMLS:C3658280
+27301853	1534	1542	analyses	T062	UMLS:C0936012
+27301853	1574	1579	study	T062	UMLS:C2603343
+27301853	1607	1616	subgroups	T170	UMLS:C1515021
+27301853	1646	1660	commercial app	T170	UMLS:C3658280
+27301853	1685	1694	subgroups	T170	UMLS:C1515021
+27301853	1774	1777	app	T170	UMLS:C3658280
+27301853	1805	1814	subgroups	T170	UMLS:C1515021
+27301853	1866	1875	subgroups	T170	UMLS:C1515021
+27301853	1918	1925	studies	T062	UMLS:C2603343
+27301853	1955	1963	analyses	T062	UMLS:C0936012

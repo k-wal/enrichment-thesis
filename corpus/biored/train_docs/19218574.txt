@@ -1,0 +1,58 @@
+19218574|t|Phosphatidylinositol 3-kinase p85alpha regulatory subunit gene Met326Ile polymorphism in women with polycystic ovary syndrome.
+19218574|a|BACKGROUND: Insulin resistance is a core feature of polycystic ovary syndrome (PCOS). Phosphatidylinositol (PI) 3-kinase is an important enzyme in the early insulin signaling cascade and plays a key role in insulin-mediated glucose transport. In its regulatory subunit, p85alpha, there is a common amino acid substitution (the Met326Ile polymorphism), and this amino acid may be crucial for the function of the p85alpha regulatory subunit and PI3-kinase. METHODS: Analysis of the Met326Ile polymorphism was carried out on DNA samples from 256 PCOS patients and 283 controls. Clinical and biochemical profiles of participants were also compared. RESULTS: The genotype distribution of the Met326Ile polymorphism in the PCOS group was not different from that of the controls (Met326Met/Met326Ile/Ile326Ile rates were 73.4%/23.4%/3.2% and 70.3%/26.1%/3.6% for the PCOS and control groups, respectively, P = 0.72). The PCOS group was divided into two subgroups according to the presence of the variant 326Ile allele. Compared with those carrying at least one variant 326Ile allele, carriers with the Met326Met genotype had higher serum 17-hydroxyprogesterone (17-OHP) {1.1 [95% confidence interval (CI) 1.1-1.3] ng/ml in those with the Met326Met genotype versus 0.8 (95% CI 0.7-1.0) ng/ml in those with Ile326Ile and Met326Ile genotypes, P = 0.0073} and free testosterone levels [1.2 (95% CI 1.1-1.4) pg/ml for Met326Met genotype versus 0.9 (95% CI 0.6-1.3) pg/ml for Ile326Ile and Met326Ile genotypes, P = 0.038]. CONCLUSIONS: Our results suggest that the PI3-kinase gene Met326Ile polymorphism may not be a major determinant for the development of PCOS, but it may modulate the concentrations of serum 17-OHP or free testosterone in PCOS patients.
+19218574	0	29	Phosphatidylinositol 3-kinase	GeneOrGeneProduct	5295
+19218574	30	38	p85alpha	GeneOrGeneProduct	5295
+19218574	63	72	Met326Ile	SequenceVariant	rs3730089
+19218574	89	94	women	OrganismTaxon	9606
+19218574	100	125	polycystic ovary syndrome	DiseaseOrPhenotypicFeature	D011085
+19218574	139	157	Insulin resistance	DiseaseOrPhenotypicFeature	D007333
+19218574	179	204	polycystic ovary syndrome	DiseaseOrPhenotypicFeature	D011085
+19218574	206	210	PCOS	DiseaseOrPhenotypicFeature	D011085
+19218574	213	247	Phosphatidylinositol (PI) 3-kinase	GeneOrGeneProduct	5295
+19218574	284	291	insulin	GeneOrGeneProduct	3630
+19218574	334	341	insulin	GeneOrGeneProduct	3630
+19218574	351	358	glucose	ChemicalEntity	D005947
+19218574	397	405	p85alpha	GeneOrGeneProduct	5295
+19218574	454	463	Met326Ile	SequenceVariant	rs3730089
+19218574	538	546	p85alpha	GeneOrGeneProduct	5295
+19218574	570	580	PI3-kinase	GeneOrGeneProduct	5295
+19218574	607	616	Met326Ile	SequenceVariant	rs3730089
+19218574	670	674	PCOS	DiseaseOrPhenotypicFeature	D011085
+19218574	675	683	patients	OrganismTaxon	9606
+19218574	814	823	Met326Ile	SequenceVariant	rs3730089
+19218574	844	848	PCOS	DiseaseOrPhenotypicFeature	D011085
+19218574	900	909	Met326Met	SequenceVariant	rs3730089
+19218574	910	919	Met326Ile	SequenceVariant	rs3730089
+19218574	920	929	Ile326Ile	SequenceVariant	rs3730089
+19218574	987	991	PCOS	DiseaseOrPhenotypicFeature	D011085
+19218574	1041	1045	PCOS	DiseaseOrPhenotypicFeature	D011085
+19218574	1124	1130	326Ile	SequenceVariant	rs3730089
+19218574	1189	1195	326Ile	SequenceVariant	rs3730089
+19218574	1222	1231	Met326Met	SequenceVariant	rs3730089
+19218574	1258	1280	17-hydroxyprogesterone	ChemicalEntity	D019326
+19218574	1282	1288	17-OHP	ChemicalEntity	D019326
+19218574	1358	1367	Met326Met	SequenceVariant	rs3730089
+19218574	1425	1434	Ile326Ile	SequenceVariant	rs3730089
+19218574	1439	1448	Met326Ile	SequenceVariant	rs3730089
+19218574	1481	1493	testosterone	ChemicalEntity	D013739
+19218574	1533	1542	Met326Met	SequenceVariant	rs3730089
+19218574	1590	1599	Ile326Ile	SequenceVariant	rs3730089
+19218574	1604	1613	Met326Ile	SequenceVariant	rs3730089
+19218574	1679	1689	PI3-kinase	GeneOrGeneProduct	5295
+19218574	1695	1704	Met326Ile	SequenceVariant	rs3730089
+19218574	1772	1776	PCOS	DiseaseOrPhenotypicFeature	D011085
+19218574	1826	1832	17-OHP	ChemicalEntity	D019326
+19218574	1841	1853	testosterone	ChemicalEntity	D013739
+19218574	1857	1861	PCOS	DiseaseOrPhenotypicFeature	D011085
+19218574	1862	1870	patients	OrganismTaxon	9606
+19218574	Association	D013739	rs3730089	Novel
+19218574	Association	D013739	D011085	Novel
+19218574	Association	D019326	D011085	Novel
+19218574	Positive_Correlation	rs3730089	D019326	Novel
+19218574	Association	rs3730089	D011085	Novel
+19218574	Association	5295	D013739	Novel
+19218574	Association	5295	D019326	Novel
+19218574	Association	5295	D011085	Novel
+19218574	Association	5295	D005947	No
+19218574	Association	5295	3630	No
+19218574	Association	3630	D005947	No

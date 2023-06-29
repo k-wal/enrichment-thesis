@@ -1,0 +1,62 @@
+17943461|t|Myocardial Fas ligand expression increases susceptibility to AZT-induced cardiomyopathy.
+17943461|a|BACKGROUND: Dilated cardiomyopathy (DCM) and myocarditis occur in many HIV-infected individuals, resulting in symptomatic heart failure in up to 5% of patients. Highly active antiretroviral therapy (HAART) has significantly reduced morbidity and mortality of acquired immunodeficiency syndrome (AIDS), but has resulted in an increase in cardiac and skeletal myopathies. METHODS AND RESULTS: In order to investigate whether the HAART component zidovudine (3'-azido-2',3'-deoxythymidine; AZT) triggers the Fas-dependent cell-death pathway and cause cytoskeletal disruption in a murine model of DCM, 8-week-old transgenic (expressing Fas ligand in the myocardium: FasL Tg) and non-transgenic (NTg) mice received water ad libitum containing different concentrations of AZT (0, 0.07, 0.2, and 0.7 mg/ml). After 6 weeks, cardiac function was assessed by echocardiography and morphology was assessed by histopathologic and immunohistochemical methods. NTg and untreated FasL Tg mice showed little or no change in cardiac structure or function. In contrast, AZT-treated FasL Tg mice developed cardiac dilation and depressed cardiac function in a dose-dependent manner, with concomitant inflammatory infiltration of both ventricles. These changes were associated with an increased sarcolemmal expression of Fas and FasL, as well as increased activation of caspase 3, translocation of calpain 1 to the sarcolemma and sarcomere, and increased numbers of cells undergoing apoptosis. These were associated with changes in dystrophin and cardiac troponin I localization, as well as loss of sarcolemmal integrity. CONCLUSIONS: The expression of Fas ligand in the myocardium, as identified in HIV-positive patients, might increase the susceptibility to HAART-induced cardiomyopathy due to activation of apoptotic pathways, resulting in cardiac dilation and dysfunction.
+17943461	11	21	Fas ligand	GeneOrGeneProduct	356
+17943461	61	64	AZT	ChemicalEntity	D015215
+17943461	73	87	cardiomyopathy	DiseaseOrPhenotypicFeature	D009202
+17943461	101	123	Dilated cardiomyopathy	DiseaseOrPhenotypicFeature	D002311
+17943461	125	128	DCM	DiseaseOrPhenotypicFeature	D002311
+17943461	134	145	myocarditis	DiseaseOrPhenotypicFeature	D009205
+17943461	160	172	HIV-infected	DiseaseOrPhenotypicFeature	D015658
+17943461	211	224	heart failure	DiseaseOrPhenotypicFeature	D006333
+17943461	240	248	patients	OrganismTaxon	9606
+17943461	348	382	acquired immunodeficiency syndrome	DiseaseOrPhenotypicFeature	D000163
+17943461	384	388	AIDS	DiseaseOrPhenotypicFeature	D000163
+17943461	426	457	cardiac and skeletal myopathies	DiseaseOrPhenotypicFeature	C538496
+17943461	532	542	zidovudine	ChemicalEntity	D015215
+17943461	544	573	3'-azido-2',3'-deoxythymidine	ChemicalEntity	D015215
+17943461	575	578	AZT	ChemicalEntity	D015215
+17943461	593	596	Fas	GeneOrGeneProduct	355
+17943461	665	671	murine	OrganismTaxon	10090
+17943461	681	684	DCM	DiseaseOrPhenotypicFeature	D002311
+17943461	720	730	Fas ligand	GeneOrGeneProduct	356
+17943461	750	754	FasL	GeneOrGeneProduct	14103
+17943461	784	788	mice	OrganismTaxon	10090
+17943461	854	857	AZT	ChemicalEntity	D015215
+17943461	1052	1056	FasL	GeneOrGeneProduct	14103
+17943461	1060	1064	mice	OrganismTaxon	10090
+17943461	1139	1142	AZT	ChemicalEntity	D015215
+17943461	1151	1155	FasL	GeneOrGeneProduct	14103
+17943461	1159	1163	mice	OrganismTaxon	10090
+17943461	1174	1190	cardiac dilation	DiseaseOrPhenotypicFeature	D002311
+17943461	1195	1221	depressed cardiac function	DiseaseOrPhenotypicFeature	D000275
+17943461	1267	1279	inflammatory	DiseaseOrPhenotypicFeature	D007249
+17943461	1387	1390	Fas	GeneOrGeneProduct	355
+17943461	1395	1399	FasL	GeneOrGeneProduct	14103
+17943461	1436	1445	caspase 3	GeneOrGeneProduct	12367
+17943461	1464	1473	calpain 1	GeneOrGeneProduct	12333
+17943461	1598	1608	dystrophin	GeneOrGeneProduct	13405
+17943461	1613	1631	cardiac troponin I	GeneOrGeneProduct	21954
+17943461	1719	1729	Fas ligand	GeneOrGeneProduct	356
+17943461	1766	1769	HIV	OrganismTaxon	11676
+17943461	1779	1787	patients	OrganismTaxon	9606
+17943461	1840	1854	cardiomyopathy	DiseaseOrPhenotypicFeature	D009202
+17943461	1909	1941	cardiac dilation and dysfunction	DiseaseOrPhenotypicFeature	D002311,D006331
+17943461	Positive_Correlation	12367	D015215	Novel
+17943461	Association	14103	D000275	Novel
+17943461	Association	14103	D002311	Novel
+17943461	Association	D000275	12333	Novel
+17943461	Association	D000275	12367	Novel
+17943461	Association	D000275	355	Novel
+17943461	Association	D002311	12333	Novel
+17943461	Association	D002311	12367	Novel
+17943461	Association	D002311	355	Novel
+17943461	Association	D015215	12333	Novel
+17943461	Association	D015215	14103	Novel
+17943461	Positive_Correlation	D015215	D000275	Novel
+17943461	Positive_Correlation	D015215	D002311	Novel
+17943461	Positive_Correlation	D015215	355	Novel
+17943461	Positive_Correlation	D015215	D009202	No
+17943461	Association	356	D006331	Novel
+17943461	Association	356	D002311	Novel
+17943461	Association	356	D009202	Novel
+17943461	Positive_Correlation	356	D015215	Novel

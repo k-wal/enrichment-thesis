@@ -1,0 +1,93 @@
+28550348|t|Medication regimen complexity and prevalence of potentially inappropriate medicines in older patients after hospitalisation
+28550348|a|Background There is a relative paucity of information to characterise potential changes in medication regimen complexity and prevalence of prescribing of potentially inappropriate medications after hospitalisation, both in Australia and elsewhere. Objective To evaluate medication regimen complexity and the prevalence of potentially inappropriate medications before and after admission to hospital. Setting General medical units of a tertiary care hospital in Australia. Methods Retrospective cohort study of patients aged 65 years and above. Medication complexity was measured by using the Medication Regimen Complexity Index (MRCI). Main outcome measure The primary outcome was the change in the Medication Regimen Complexity Index for all prescribed medications after hospitalization. Results A convenience sample of 100 patients was included in the study. There was a significant change in the mean medication complexity score (as measured using the MRCI), increasing from 29 at the time of admission to 32 at the time of discharge (p < 0.05). Factors such as baseline medication regimen complexity (pre-admission MRCI) and length of stay in the hospitals appear to influence the change in medication complexity. However, the proportion of patients prescribed at least one potentially inappropriate medicine (PIM) decreased significantly, from 52% pre-hospitalization to 42% at discharge (p = 0.04). Conclusions Relative to the time of admission, overall medication complexity increased and the proportion of patients who were prescribed PIMs decreased after hospitalisation.
+28550348	0	18	Medication regimen	T061	C0237125
+28550348	19	29	complexity	T078	C0237522
+28550348	34	44	prevalence	T081	C0033105
+28550348	48	83	potentially inappropriate medicines	T080	C4042848
+28550348	87	92	older	T098	C0001792
+28550348	93	101	patients	T101	C0030705
+28550348	108	123	hospitalisation	T058	C0019993
+28550348	146	154	relative	T080	C0205345
+28550348	166	177	information	T078	C1533716
+28550348	194	203	potential	T080	C3245505
+28550348	204	211	changes	T169	C0392747
+28550348	215	233	medication regimen	T061	C0237125
+28550348	234	244	complexity	T078	C0237522
+28550348	249	259	prevalence	T081	C0033105
+28550348	263	274	prescribing	T058	C2239117
+28550348	278	315	potentially inappropriate medications	T080	C4042848
+28550348	322	337	hospitalisation	T058	C0019993
+28550348	347	356	Australia	T083	C0004340
+28550348	372	381	Objective	T170	C0018017
+28550348	385	393	evaluate	T058	C0220825
+28550348	394	412	medication regimen	T061	C0237125
+28550348	413	423	complexity	T078	C0237522
+28550348	432	442	prevalence	T081	C0033105
+28550348	446	483	potentially inappropriate medications	T080	C4042848
+28550348	484	490	before	T079	C0332152
+28550348	501	522	admission to hospital	T058	C0184666
+28550348	532	553	General medical units	T093	C1708333
+28550348	559	581	tertiary care hospital	T073,T093	C0337954
+28550348	585	594	Australia	T083	C0004340
+28550348	604	630	Retrospective cohort study	T062	C2985505
+28550348	634	642	patients	T101	C0030705
+28550348	643	647	aged	T032	C0001779
+28550348	668	678	Medication	T058	C2081612
+28550348	679	689	complexity	T078	C0237522
+28550348	694	702	measured	T080	C0444706
+28550348	716	751	Medication Regimen Complexity Index	T170	C0282574
+28550348	753	757	MRCI	T170	C0282574
+28550348	760	780	Main outcome measure	T080	C3274433
+28550348	785	800	primary outcome	T080	C3274433
+28550348	809	815	change	T169	C0392747
+28550348	823	858	Medication Regimen Complexity Index	T170	C0282574
+28550348	867	889	prescribed medications	T121	C3166216
+28550348	896	911	hospitalization	T058	C0019993
+28550348	913	920	Results	T034	C0456984
+28550348	923	941	convenience sample	T062	C0150095
+28550348	949	957	patients	T101	C0030705
+28550348	962	970	included	T169	C0332257
+28550348	978	983	study	T062	C2603343
+28550348	997	1008	significant	T078	C0750502
+28550348	1009	1015	change	T169	C0392747
+28550348	1023	1027	mean	T081	C0444504
+28550348	1028	1038	medication	T058	C2081612
+28550348	1039	1049	complexity	T078	C0237522
+28550348	1050	1055	score	T081	C0449820
+28550348	1060	1068	measured	T080	C0444706
+28550348	1079	1083	MRCI	T170	C0282574
+28550348	1086	1096	increasing	T081	C0205217
+28550348	1112	1129	time of admission	T079	C3854259
+28550348	1143	1160	time of discharge	T079	C3864299
+28550348	1173	1180	Factors	T169	C1521761
+28550348	1189	1197	baseline	T081	C1442488
+28550348	1198	1216	medication regimen	T061	C0237125
+28550348	1217	1227	complexity	T078	C0237522
+28550348	1229	1242	pre-admission	T079	C0559269
+28550348	1243	1247	MRCI	T170	C0282574
+28550348	1253	1284	length of stay in the hospitals	T079	C0023303
+28550348	1285	1291	appear	T080	C0700364
+28550348	1295	1304	influence	T077	C4054723
+28550348	1309	1315	change	T169	C0392747
+28550348	1319	1329	medication	T058	C2081612
+28550348	1330	1340	complexity	T078	C0237522
+28550348	1355	1365	proportion	T081	C1709707
+28550348	1369	1377	patients	T101	C0030705
+28550348	1378	1388	prescribed	T058	C0278329
+28550348	1402	1436	potentially inappropriate medicine	T080	C4042848
+28550348	1438	1441	PIM	T080	C4042848
+28550348	1443	1466	decreased significantly	T081	C4055638
+28550348	1477	1496	pre-hospitalization	T058	C0019993
+28550348	1504	1516	at discharge	T079	C3871203
+28550348	1541	1549	Relative	T080	C0205345
+28550348	1557	1574	time of admission	T079	C3854259
+28550348	1576	1583	overall	T080	C1561607
+28550348	1584	1594	medication	T058	C2081612
+28550348	1595	1605	complexity	T078	C0237522
+28550348	1606	1615	increased	T081	C0205217
+28550348	1624	1634	proportion	T081	C1709707
+28550348	1638	1646	patients	T101	C0030705
+28550348	1656	1666	prescribed	T058	C0278329
+28550348	1667	1671	PIMs	T080	C4042848
+28550348	1672	1681	decreased	T081	C0205216
+28550348	1688	1703	hospitalisation	T058	C0019993

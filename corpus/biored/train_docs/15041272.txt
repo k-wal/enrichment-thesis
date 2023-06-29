@@ -1,0 +1,41 @@
+15041272|t|A first Taiwanese Chinese family of type 2B von Willebrand disease with R1306W mutation.
+15041272|a|Clinical, laboratory and genetic defect of a Taiwanese family with type 2B von Willebrand disease (VWD) were studied. The proband was a 55-year-old woman who gave birth to two daughters and one son aged 30, 29 and 27, respectively. All had abnormal mucocutaneous bleedings since their childhood. In proband, PT, PTT and platelet count were normal; template bleeding time was 14 min; VIII:C was 51%, von Willebrand factor antigen (VWF:Ag), 42% and von Willerand factor ristocetin-cofactor (VWF:RCo, 15%); ristocetin-induced platelet aggregation (RIPA) at 0.3 and 0.6 mg/ml of ristocetin was 16% and 68%, respectively. The enhanced response to ristocetin was identified to be in plasma, not in platelet itself, by mixing studies. Analysis of von Willebrand factor (VWF) multimer of plasma but not of platelets showed absence of high-molecular weight (HMW) multimer. All three children had similar laboratory findings. Exon 28 of VWF gene was amplified using polymerase chain reaction (PCR) and sequenced. The proband and three children were all found to be heterozygous for C to T transition at nucleotide 3916 resulting in Arg 1306 Trp (R1306W) substitution. This mutation in the glycoprotein Ib (GPIb)-binding site has been found to increase the affinity of plasma VWF for platelets, and thus cause loss of HMW multimers and often thrombocytopenia. In conclusion, a first report of type 2B VWD in a Taiwanese Chinese family who show R1306W mutation in VWF gene was described.
+15041272	36	66	type 2B von Willebrand disease	DiseaseOrPhenotypicFeature	D056728
+15041272	72	78	R1306W	SequenceVariant	rs61749384
+15041272	114	128	genetic defect	DiseaseOrPhenotypicFeature	D030342
+15041272	156	186	type 2B von Willebrand disease	DiseaseOrPhenotypicFeature	D056728
+15041272	188	191	VWD	DiseaseOrPhenotypicFeature	D014842
+15041272	237	242	woman	OrganismTaxon	9606
+15041272	352	361	bleedings	DiseaseOrPhenotypicFeature	D006470
+15041272	446	454	bleeding	DiseaseOrPhenotypicFeature	D006470
+15041272	472	476	VIII	GeneOrGeneProduct	2157
+15041272	488	509	von Willebrand factor	GeneOrGeneProduct	7450
+15041272	519	522	VWF	GeneOrGeneProduct	7450
+15041272	536	556	von Willerand factor	GeneOrGeneProduct	7450
+15041272	557	567	ristocetin	ChemicalEntity	D012310
+15041272	578	581	VWF	GeneOrGeneProduct	7450
+15041272	593	632	ristocetin-induced platelet aggregation	DiseaseOrPhenotypicFeature	D001791
+15041272	634	638	RIPA	DiseaseOrPhenotypicFeature	D001791
+15041272	664	674	ristocetin	ChemicalEntity	D012310
+15041272	731	741	ristocetin	ChemicalEntity	D012310
+15041272	829	850	von Willebrand factor	GeneOrGeneProduct	7450
+15041272	852	855	VWF	GeneOrGeneProduct	7450
+15041272	1016	1019	VWF	GeneOrGeneProduct	7450
+15041272	1161	1197	C to T transition at nucleotide 3916	SequenceVariant	rs61749384
+15041272	1211	1223	Arg 1306 Trp	SequenceVariant	rs61749384
+15041272	1225	1231	R1306W	SequenceVariant	rs61749384
+15041272	1268	1283	glycoprotein Ib	GeneOrGeneProduct	2811
+15041272	1285	1289	GPIb	GeneOrGeneProduct	2811
+15041272	1354	1357	VWF	GeneOrGeneProduct	7450
+15041272	1420	1436	thrombocytopenia	DiseaseOrPhenotypicFeature	D013921
+15041272	1471	1482	type 2B VWD	DiseaseOrPhenotypicFeature	D056728
+15041272	1522	1528	R1306W	SequenceVariant	rs61749384
+15041272	1541	1544	VWF	GeneOrGeneProduct	7450
+15041272	Association	D056728	rs61749384	Novel
+15041272	Association	D056728	7450	Novel
+15041272	Association	2811	D013921	Novel
+15041272	Association	2811	7450	Novel
+15041272	Positive_Correlation	rs61749384	D013921	Novel
+15041272	Positive_Correlation	D001791	D012310	Novel
+15041272	Association	7450	D013921	Novel
+15041272	Association	7450	D012310	No

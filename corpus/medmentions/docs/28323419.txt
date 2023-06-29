@@ -1,0 +1,59 @@
+28323419|t|The Role of SufS Is Restricted to Fe-S Cluster Biosynthesis in Escherichia coli
+28323419|a|In Escherichia coli, two different systems that are important for the coordinate formation of Fe-S clusters have been identified, namely, the ISC and SUF systems. The ISC system is the housekeeping Fe-S machinery, which provides Fe-S clusters for numerous cellular proteins. The IscS protein of this system was additionally revealed to be the primary sulfur donor for several sulfur-containing molecules with important biological functions, among which are the molybdenum cofactor (Moco) and thiolated nucleosides in tRNA. Here, we show that deletion of central components of the ISC system in addition to IscS leads to an overall decrease in Fe-S cluster enzyme and molybdoenzyme activity in addition to a decrease in the number of Fe-S - dependent thiomodifications of tRNA, based on the fact that some proteins involved in Moco biosynthesis and tRNA thiolation are Fe-S - dependent. Complementation of the ISC deficient strains with the suf operon restored the activity of Fe-S-containing proteins, including the MoaA protein, which is involved in the conversion of 5'GTP to cyclic pyranopterin monophosphate in the fist step of Moco biosynthesis. While both systems share a high degree of similarity, we show that the function of their respective l-cysteine desulfurase IscS or SufS is specific for each cellular pathway. It is revealed that SufS cannot play the role of IscS in sulfur transfer for the formation of 2-thiouridine, 4-thiouridine, or the dithiolene group of molybdopterin, being unable to interact with TusA or ThiI. The results demonstrate that the role of the SUF system is exclusively restricted to Fe-S cluster assembly in the cell.
+28323419	12	16	SufS	T026	C3824407
+28323419	34	46	Fe-S Cluster	T026	C3824418
+28323419	47	59	Biosynthesis	T169	C0005572
+28323419	63	79	Escherichia coli	T007	C0014834
+28323419	83	99	Escherichia coli	T007	C0014834
+28323419	174	187	Fe-S clusters	T026	C3824418
+28323419	222	225	ISC	T026	C3824418
+28323419	230	241	SUF systems	T026	C3824407
+28323419	247	257	ISC system	T026	C3824418
+28323419	265	292	housekeeping Fe-S machinery	T028	C1334046
+28323419	309	322	Fe-S clusters	T026	C3824418
+28323419	336	353	cellular proteins	T116,T123	C0033684
+28323419	359	371	IscS protein	T116,T126	C0675681
+28323419	423	443	primary sulfur donor	T120	C1254355
+28323419	456	483	sulfur-containing molecules	T167	C0567416
+28323419	499	519	biological functions	T038	C3714634
+28323419	541	560	molybdenum cofactor	T116	C0066697
+28323419	562	566	Moco	T116	C0066697
+28323419	572	601	thiolated nucleosides in tRNA	T045	C2247814
+28323419	622	630	deletion	T049	C0162773
+28323419	660	670	ISC system	T026	C3824418
+28323419	686	690	IscS	T116,T126	C0675681
+28323419	723	735	Fe-S cluster	T026	C3824418
+28323419	736	742	enzyme	T116,T126	C0014442
+28323419	747	769	molybdoenzyme activity	T044	C0243102
+28323419	813	817	Fe-S	T026	C3824418
+28323419	820	829	dependent	T169	C3244310
+28323419	830	855	thiomodifications of tRNA	T045	C2247814
+28323419	885	893	proteins	T116,T123	C0033684
+28323419	906	910	Moco	T116	C0066697
+28323419	911	923	biosynthesis	T169	C0005572
+28323419	928	943	tRNA thiolation	T045	C2247814
+28323419	948	952	Fe-S	T026	C3824418
+28323419	955	964	dependent	T169	C3244310
+28323419	989	992	ISC	T026	C3824417
+28323419	993	1002	deficient	T169	C0011155
+28323419	1020	1023	suf	T026	C3824407
+28323419	1024	1030	operon	T028	C0029073
+28323419	1056	1080	Fe-S-containing proteins	T116,T123	C0022095
+28323419	1096	1108	MoaA protein	T116,T126	C4044190
+28323419	1149	1154	5'GTP	T114	C0018353
+28323419	1158	1191	cyclic pyranopterin monophosphate	T109	C2934004
+28323419	1212	1216	Moco	T116	C0066697
+28323419	1217	1229	biosynthesis	T169	C0005572
+28323419	1331	1366	l-cysteine desulfurase IscS or SufS	T044	C1150999
+28323419	1388	1404	cellular pathway	T044	C1704259
+28323419	1426	1430	SufS	T026	C3824407
+28323419	1455	1459	IscS	T116,T126	C0675681
+28323419	1500	1513	2-thiouridine	T114	C0537592
+28323419	1515	1528	4-thiouridine	T114,T121	C0039959
+28323419	1537	1553	dithiolene group	T104	C1254350
+28323419	1557	1570	molybdopterin	T116	C0066697
+28323419	1602	1606	TusA	T116,T123	C2973840
+28323419	1610	1614	ThiI	T116,T126	C1436246
+28323419	1661	1671	SUF system	T026	C3824407
+28323419	1701	1722	Fe-S cluster assembly	T026	C3824418
+28323419	1730	1734	cell	T025	C0007634

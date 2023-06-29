@@ -1,0 +1,77 @@
+28220122|t|NF-κB Links TLR2 and PAR1 to Soluble Immunomodulator Factor Secretion in Human Platelets
+28220122|a|The primary toll-like receptor (TLR)-mediated immune cell response pathway common for all TLRs is MyD88 -dependent activation of NF-κB, a seminal transcription factor for many chemokines and cytokines. Remarkably, anucleate platelets express the NF-κB machinery, whose role in platelets remains poorly understood. Here, we investigated the contribution of NF-κB in the release of cytokines and serotonin by human platelets, following selective stimulation of TLR2 and protease activated receptor 1 (PAR1), a classical and non-classical pattern-recognition receptor, respectively, able to participate to the innate immune system. We discovered that platelet PAR1 activation drives the process of NF-κB phosphorylation, in contrast to TLR2 activation, which induces a slower phosphorylation process. Conversely, platelet PAR1 and TLR2 activation induces similar ERK1/2, p38, and AKT phosphorylation. Moreover, we found that engagement of platelet TLR2 with its ligand, Pam3CSK4, significantly increases the release of sCD62P, RANTES, and sCD40L; this effect was attenuated by incubating platelets with a blocking anti-TLR2 antibody. This effect appeared selective since no modulation of serotonin secretion was observed following platelet TLR2 activation. Platelet release of sCD62P, RANTES, and sCD40L following TLR2 or PAR1 triggering was abolished in the presence of the NF-κB inhibitor Bay11-7082, while serotonin release following PAR1 activation was significantly decreased. These new findings support the concept that NF-κB is an important player in platelet immunoregulations and functions.
+28220122	0	5	NF-κB	T103	UMLS:C0079904
+28220122	12	16	TLR2	T103	UMLS:C0754728
+28220122	21	25	PAR1	T103	UMLS:C4048327
+28220122	37	59	Immunomodulator Factor	T103	UMLS:C1527392
+28220122	60	69	Secretion	T038	UMLS:C0036536
+28220122	73	78	Human	T204	UMLS:C0086418
+28220122	79	88	Platelets	T017	UMLS:C0005821
+28220122	101	119	toll-like receptor	T103	UMLS:C0670896
+28220122	121	124	TLR	T103	UMLS:C0670896
+28220122	135	163	immune cell response pathway	T038	UMLS:C1511003
+28220122	179	183	TLRs	T103	UMLS:C0670896
+28220122	187	192	MyD88	T103	UMLS:C0286648
+28220122	218	223	NF-κB	T103	UMLS:C0079904
+28220122	227	234	seminal	T017	UMLS:C0036628
+28220122	235	255	transcription factor	T103	UMLS:C0040648
+28220122	265	275	chemokines	T103	UMLS:C0282554
+28220122	280	289	cytokines	T103	UMLS:C0079189
+28220122	303	322	anucleate platelets	T017	UMLS:C0005821
+28220122	335	340	NF-κB	T103	UMLS:C0079904
+28220122	366	375	platelets	T017	UMLS:C0005821
+28220122	445	450	NF-κB	T103	UMLS:C0079904
+28220122	469	478	cytokines	T103	UMLS:C0079189
+28220122	483	492	serotonin	T103	UMLS:C0036751
+28220122	496	501	human	T204	UMLS:C0086418
+28220122	502	511	platelets	T017	UMLS:C0005821
+28220122	548	552	TLR2	T103	UMLS:C0754728
+28220122	557	586	protease activated receptor 1	T103	UMLS:C4048327
+28220122	588	592	PAR1	T103	UMLS:C4048327
+28220122	625	653	pattern-recognition receptor	T103	UMLS:C1564907
+28220122	737	745	platelet	T017	UMLS:C0005821
+28220122	746	750	PAR1	T103	UMLS:C4048327
+28220122	784	789	NF-κB	T103	UMLS:C0079904
+28220122	790	805	phosphorylation	T038	UMLS:C0031715
+28220122	822	826	TLR2	T103	UMLS:C0754728
+28220122	827	837	activation	T038	UMLS:C1514758
+28220122	862	885	phosphorylation process	T038	UMLS:C0031715
+28220122	899	907	platelet	T017	UMLS:C0005821
+28220122	908	912	PAR1	T103	UMLS:C4048327
+28220122	917	921	TLR2	T103	UMLS:C0754728
+28220122	949	955	ERK1/2	T038	UMLS:C2611094
+28220122	957	960	p38	T103	UMLS:C1120843
+28220122	966	969	AKT	T103	UMLS:C0164786
+28220122	970	985	phosphorylation	T038	UMLS:C0031715
+28220122	1025	1033	platelet	T017	UMLS:C0005821
+28220122	1034	1038	TLR2	T103	UMLS:C0754728
+28220122	1048	1054	ligand	T103	UMLS:C0023688
+28220122	1056	1064	Pam3CSK4	T103	UMLS:C1698795
+28220122	1105	1111	sCD62P	T103	UMLS:C0134835
+28220122	1113	1119	RANTES	T103	UMLS:C0072978
+28220122	1125	1131	sCD40L	T103	UMLS:C0167627
+28220122	1163	1173	incubating	T058	UMLS:C1439852
+28220122	1174	1183	platelets	T017	UMLS:C0005821
+28220122	1200	1218	anti-TLR2 antibody	T103	UMLS:C3712029
+28220122	1260	1270	modulation	T082	UMLS:C0443264
+28220122	1274	1293	serotonin secretion	T038	UMLS:C1325900
+28220122	1317	1325	platelet	T017	UMLS:C0005821
+28220122	1326	1330	TLR2	T103	UMLS:C0754728
+28220122	1331	1341	activation	T038	UMLS:C1514758
+28220122	1343	1351	Platelet	T017	UMLS:C0005821
+28220122	1363	1369	sCD62P	T103	UMLS:C0134835
+28220122	1371	1377	RANTES	T103	UMLS:C0072978
+28220122	1383	1389	sCD40L	T103	UMLS:C0167627
+28220122	1400	1404	TLR2	T103	UMLS:C0754728
+28220122	1408	1412	PAR1	T103	UMLS:C4048327
+28220122	1445	1453	presence	T033	UMLS:C0150312
+28220122	1461	1466	NF-κB	T103	UMLS:C0079904
+28220122	1467	1476	inhibitor	T103	UMLS:C0243077
+28220122	1477	1487	Bay11-7082	T103	UMLS:C0969281
+28220122	1495	1512	serotonin release	T038	UMLS:C1979804
+28220122	1523	1527	PAR1	T103	UMLS:C4048327
+28220122	1528	1538	activation	T038	UMLS:C1514758
+28220122	1612	1617	NF-κB	T103	UMLS:C0079904
+28220122	1644	1652	platelet	T017	UMLS:C0005821
+28220122	1653	1670	immunoregulations	T038	UMLS:C0678889
+28220122	1675	1684	functions	T038	UMLS:C1817756

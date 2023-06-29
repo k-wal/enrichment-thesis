@@ -1,0 +1,78 @@
+28110936|t|Physical Activity and Abnormal Blood Glucose Among Healthy Weight Adults
+28110936|a|Physical activity has been linked to prevention and treatment of prediabetes and diabetes in overweight and obese adults. This study examines the relationship between low physical activity levels and risk of abnormal blood glucose (prediabetes or undiagnosed diabetes) in healthy weight adults. Data from the 2014 Health Survey for England were analyzed in July 2016, focusing on adults with a BMI ≥18.5 and <25 who had never been diagnosed with diabetes (N=1,153). Abnormal blood glucose was defined as hemoglobin A1c ≥5.7. Physical activity was measured through the International Physical Activity Questionnaire. Bivariate analyses and Poisson models were conducted on the effect of physical activity on abnormal blood glucose, controlling for age, sex, waist to hip ratio, sitting time, age X physical activity interaction, sex X physical activity, and race. Abnormal blood glucose was detected in 23.7% of individuals with low activity levels, 14.8% of those with medium activity levels, and 12.2% of those with high activity levels (p<0.003). Similarly, 25.4% of inactive individuals (physically active for <30 minutes per week) were more likely to have abnormal blood glucose levels than active individuals (13.4%, p<0.0001). Higher physical activity was associated with a lower likelihood of abnormal blood glucose in an adjusted Poisson regression. Among healthy weight adults, low physical activity levels are significantly associated with abnormal blood glucose (prediabetes and undiagnosed diabetes). These findings suggest that healthy weight individuals may benefit from physical exercise.
+28110936	0	17	Physical Activity	T056	C0026606
+28110936	22	44	Abnormal Blood Glucose	T033	C0580546
+28110936	51	65	Healthy Weight	T032	C0005910
+28110936	66	72	Adults	T100	C0001675
+28110936	73	90	Physical activity	T056	C0026606
+28110936	110	120	prevention	T061	C0679698
+28110936	125	134	treatment	T061	C0087111
+28110936	138	149	prediabetes	T047	C0362046
+28110936	154	162	diabetes	T047	C0011847
+28110936	166	186	overweight and obese	T047	C1561826
+28110936	187	193	adults	T100	C0001675
+28110936	219	231	relationship	T080	C0439849
+28110936	244	261	physical activity	T056	C0026606
+28110936	273	277	risk	T078	C0035647
+28110936	281	303	abnormal blood glucose	T033	C0580546
+28110936	305	316	prediabetes	T047	C0362046
+28110936	320	331	undiagnosed	T033	C1408353
+28110936	332	340	diabetes	T047	C0011847
+28110936	345	359	healthy weight	T032	C0005910
+28110936	360	366	adults	T100	C0001675
+28110936	368	372	Data	T170	C0150098
+28110936	387	412	Health Survey for England	T093	C1708333
+28110936	453	459	adults	T100	C0001675
+28110936	467	470	BMI	T201	C1305855
+28110936	504	513	diagnosed	T033	C0011900
+28110936	519	527	diabetes	T047	C0011847
+28110936	539	561	Abnormal blood glucose	T033	C0580546
+28110936	577	591	hemoglobin A1c	T059	C0202054
+28110936	598	615	Physical activity	T056	C0026606
+28110936	620	628	measured	T080	C0444706
+28110936	641	686	International Physical Activity Questionnaire	T170	C4264334
+28110936	688	706	Bivariate analyses	UnknownType	C0681927
+28110936	711	725	Poisson models	T170	C0282574
+28110936	758	775	physical activity	T056	C0026606
+28110936	779	801	abnormal blood glucose	T033	C0580546
+28110936	803	814	controlling	T067	C2239193
+28110936	819	822	age	T032	C0001779
+28110936	824	827	sex	T032	C0079399
+28110936	829	847	waist to hip ratio	T032	C0205682
+28110936	849	861	sitting time	T079	C1948053
+28110936	863	866	age	T032	C0001779
+28110936	869	886	physical activity	T056	C0026606
+28110936	887	898	interaction	T169	C1704675
+28110936	900	903	sex	T032	C0079399
+28110936	906	923	physical activity	T056	C0026606
+28110936	929	933	race	T098	C0034510
+28110936	935	957	Abnormal blood glucose	T033	C0580546
+28110936	983	994	individuals	T098	C0027361
+28110936	1000	1003	low	T081	C1611820
+28110936	1004	1019	activity levels	T033	C0683317
+28110936	1041	1047	medium	T081	C0439536
+28110936	1048	1063	activity levels	T033	C0683317
+28110936	1089	1093	high	T080	C0205250
+28110936	1094	1109	activity levels	T033	C0683317
+28110936	1141	1149	inactive	T056	C3890554
+28110936	1150	1161	individuals	T098	C0027361
+28110936	1163	1180	physically active	T033	C0556453
+28110936	1232	1261	abnormal blood glucose levels	T033	C0580546
+28110936	1274	1285	individuals	T098	C0027361
+28110936	1305	1311	Higher	T080	C0205250
+28110936	1312	1329	physical activity	T056	C0026606
+28110936	1372	1394	abnormal blood glucose	T033	C0580546
+28110936	1410	1428	Poisson regression	T170	C0034980
+28110936	1436	1450	healthy weight	T032	C0005910
+28110936	1451	1457	adults	T100	C0001675
+28110936	1459	1462	low	T081	C1611820
+28110936	1463	1480	physical activity	T056	C0026606
+28110936	1506	1521	associated with	T080	C0332281
+28110936	1522	1544	abnormal blood glucose	T033	C0580546
+28110936	1546	1557	prediabetes	T047	C0362046
+28110936	1562	1573	undiagnosed	T033	C1408353
+28110936	1574	1582	diabetes	T047	C0011847
+28110936	1591	1599	findings	T033	C0243095
+28110936	1613	1627	healthy weight	T032	C0005910
+28110936	1628	1639	individuals	T098	C0027361
+28110936	1657	1674	physical exercise	T056	C0015259

@@ -1,0 +1,31 @@
+11054569|t|Rab6c, a new member of the rab gene family, is involved in drug resistance in MCF7/AdrR cells.
+11054569|a|A new Rab6 homolog cDNA, Rab6c, was discovered by a hypermethylated DNA fragment probe that was isolated from a human multidrug resistant (MDR) breast cancer cell line, MCF7/AdrR, by the methylation sensitive-representational difference analysis (MS-RDA) technique. Rab6c was found to be under-expressed in MCF7/AdrR and MES-SA/Dx5 (a human MDR uterine sarcoma cell line) compared with their non-MDR parental cell lines. MCF7/AdrR cells expressing the exogenous Rab6c exhibited less resistance to several anti-cancer drugs, such as doxorubicin (DOX), taxol, vinblastine, and vincristine, than the control cells containing the empty vector. Flow cytometry experiments confirmed that the transfectants' diminished resistance to DOX was caused by increased drug accumulation induced by the exogenous Rab6c. These results indicate that Rab6c is involved in drug resistance in MCF7/AdrR cells.
+11054569	0	5	Rab6c	GeneOrGeneProduct	84084
+11054569	27	30	rab	GeneOrGeneProduct	5870,84084
+11054569	78	87	MCF7/AdrR	CellLine	 CVCL_1452
+11054569	101	105	Rab6	GeneOrGeneProduct	5870
+11054569	120	125	Rab6c	GeneOrGeneProduct	84084
+11054569	207	212	human	OrganismTaxon	9606
+11054569	239	252	breast cancer	DiseaseOrPhenotypicFeature	D001943
+11054569	264	273	MCF7/AdrR	CellLine	 CVCL_1452
+11054569	361	366	Rab6c	GeneOrGeneProduct	84084
+11054569	402	411	MCF7/AdrR	CellLine	 CVCL_1452
+11054569	416	426	MES-SA/Dx5	CellLine	CVCL_2598
+11054569	430	435	human	OrganismTaxon	9606
+11054569	440	455	uterine sarcoma	DiseaseOrPhenotypicFeature	D014594
+11054569	516	525	MCF7/AdrR	CellLine	 CVCL_1452
+11054569	557	562	Rab6c	GeneOrGeneProduct	84084
+11054569	627	638	doxorubicin	ChemicalEntity	D004317
+11054569	640	643	DOX	ChemicalEntity	D004317
+11054569	646	651	taxol	ChemicalEntity	D017239
+11054569	653	664	vinblastine	ChemicalEntity	D014747
+11054569	670	681	vincristine	ChemicalEntity	D014750
+11054569	821	824	DOX	ChemicalEntity	D004317
+11054569	892	897	Rab6c	GeneOrGeneProduct	84084
+11054569	927	932	Rab6c	GeneOrGeneProduct	84084
+11054569	967	976	MCF7/AdrR	CellLine	 CVCL_1452
+11054569	Association	D014594	84084	Novel
+11054569	Positive_Correlation	84084	D014750	Novel
+11054569	Positive_Correlation	84084	D014747	Novel
+11054569	Positive_Correlation	84084	D017239	Novel
+11054569	Positive_Correlation	84084	D004317	Novel

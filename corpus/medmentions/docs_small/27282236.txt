@@ -1,0 +1,25 @@
+27282236|t|Efficient patient modeling for visuo - haptic VR simulation using a generic patient atlas
+27282236|a|This work presents a new time-saving virtual patient modeling system by way of example for an existing visuo - haptic training and planning virtual reality (VR) system for percutaneous transhepatic cholangio-drainage (PTCD). Our modeling process is based on a generic patient atlas to start with. It is defined by organ - specific optimized models, method modules and parameters, i.e. mainly individual segmentation masks, transfer functions to fill the gaps between the masks and intensity image data. In this contribution, we show how generic patient atlases can be generalized to new patient data. The methodology consists of patient - specific, locally-adaptive transfer functions and dedicated modeling methods such as multi-atlas segmentation, vessel filtering and spline-modeling. Our full image volume segmentation algorithm yields median DICE coefficients of 0.98, 0.93, 0.82, 0.74, 0.51 and 0.48 regarding soft-tissue, liver, bone, skin, blood and bile vessels for ten test patients and three selected reference patients. Compared to standard slice-wise manual contouring time saving is remarkable. Our segmentation process shows out efficiency and robustness for upper abdominal puncture simulation systems. This marks a significant step toward establishing patient - specific training and hands-on planning systems in a clinical environment.
+27282236	18	26	modeling	T062	UMLS:C0870071
+27282236	84	89	atlas	T170	UMLS:C0004171
+27282236	143	158	modeling system	T062	UMLS:C0870071
+27282236	262	306	percutaneous transhepatic cholangio-drainage	T058	UMLS:C1504490
+27282236	308	312	PTCD	T058	UMLS:C1504490
+27282236	319	335	modeling process	T062	UMLS:C0870071
+27282236	366	371	atlas	T170	UMLS:C0004171
+27282236	404	409	organ	T017	UMLS:C0178784
+27282236	431	437	models	T170	UMLS:C3161035
+27282236	439	453	method modules	T170	UMLS:C0025663
+27282236	544	548	gaps	T082	UMLS:C3887622
+27282236	643	650	atlases	T170	UMLS:C0004171
+27282236	789	805	modeling methods	T062	UMLS:C0870071
+27282236	840	856	vessel filtering	T170	UMLS:C0025663
+27282236	861	876	spline-modeling	T170	UMLS:C0025663
+27282236	913	922	algorithm	T170	UMLS:C0002045
+27282236	1006	1017	soft-tissue	T017	UMLS:C0225317
+27282236	1019	1024	liver	T017	UMLS:C0023884
+27282236	1026	1030	bone	T017	UMLS:C0005931
+27282236	1032	1036	skin	T022	UMLS:C1123023
+27282236	1038	1043	blood	T017	UMLS:C0005847
+27282236	1048	1060	bile vessels	T031	UMLS:C0005388
+27282236	1422	1442	clinical environment	T058	UMLS:C0008971

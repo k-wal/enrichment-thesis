@@ -1,0 +1,72 @@
+19789368|t|Vitamin D receptor expression is associated with PIK3CA and KRAS mutations in colorectal cancer.
+19789368|a|Vitamin D is associated with decreased risks of various cancers, including colon cancer. The vitamin D receptor (VDR) is a transcription factor, which plays an important role in cellular differentiation and inhibition of proliferation. A link between VDR and the RAS-mitogen-activated protein kinase (MAPK) or phosphatidylinositol 3-kinase (PI3K)-AKT pathway has been suggested. However, the prognostic role of VDR expression or its relationship with PIK3CA or KRAS mutation remains uncertain. Among 619 colorectal cancers in two prospective cohort studies, 233 (38%) tumors showed VDR overexpression by immunohistochemistry. We analyzed for PIK3CA and KRAS mutations and LINE-1 methylation by Pyrosequencing, microsatellite instability (MSI), and DNA methylation (epigenetic changes) in eight CpG island methylator phenotype (CIMP)-specific promoters [CACNA1G, CDKN2A (p16), CRABP1, IGF2, MLH1, NEUROG1, RUNX3, and SOCS1] by MethyLight (real-time PCR). VDR overexpression was significantly associated with KRAS mutation (odds ratio, 1.55; 95% confidence interval, 1.11-2.16) and PIK3CA mutation (odds ratio, 2.17; 95% confidence interval, 1.36-3.47), both of which persisted in multivariate logistic regression analysis. VDR was not independently associated with body mass index, family history of colorectal cancer, tumor location (colon versus rectum), stage, tumor grade, signet ring cells, CIMP, MSI, LINE-1 hypomethylation, BRAF, p53, p21, beta-catenin, or cyclooxygenase-2. VDR expression was not significantly related with patient survival, prognosis, or clinical outcome. In conclusion, VDR overexpression in colorectal cancer is independently associated with PIK3CA and KRAS mutations. Our data support potential interactions between the VDR, RAS-MAPK and PI3K-AKT pathways, and possible influence by KRAS or PIK3CA mutation on therapy or chemoprevention targeting VDR.
+19789368	0	18	Vitamin D receptor	GeneOrGeneProduct	7421
+19789368	49	55	PIK3CA	GeneOrGeneProduct	5290
+19789368	60	64	KRAS	GeneOrGeneProduct	3845
+19789368	78	95	colorectal cancer	DiseaseOrPhenotypicFeature	D015179
+19789368	97	106	Vitamin D	ChemicalEntity	D014807
+19789368	153	160	cancers	DiseaseOrPhenotypicFeature	D009369
+19789368	172	184	colon cancer	DiseaseOrPhenotypicFeature	D015179
+19789368	190	208	vitamin D receptor	GeneOrGeneProduct	7421
+19789368	210	213	VDR	GeneOrGeneProduct	7421
+19789368	348	351	VDR	GeneOrGeneProduct	7421
+19789368	360	363	RAS	GeneOrGeneProduct	3845
+19789368	364	396	mitogen-activated protein kinase	GeneOrGeneProduct	1432
+19789368	398	402	MAPK	GeneOrGeneProduct	1432
+19789368	407	436	phosphatidylinositol 3-kinase	GeneOrGeneProduct	5290
+19789368	438	442	PI3K	GeneOrGeneProduct	5290
+19789368	444	447	AKT	GeneOrGeneProduct	207
+19789368	508	511	VDR	GeneOrGeneProduct	7421
+19789368	548	554	PIK3CA	GeneOrGeneProduct	5290
+19789368	558	562	KRAS	GeneOrGeneProduct	3845
+19789368	601	619	colorectal cancers	DiseaseOrPhenotypicFeature	D015179
+19789368	665	671	tumors	DiseaseOrPhenotypicFeature	D009369
+19789368	679	682	VDR	GeneOrGeneProduct	7421
+19789368	739	745	PIK3CA	GeneOrGeneProduct	5290
+19789368	750	754	KRAS	GeneOrGeneProduct	3845
+19789368	950	957	CACNA1G	GeneOrGeneProduct	8913
+19789368	959	965	CDKN2A	GeneOrGeneProduct	1029
+19789368	967	970	p16	GeneOrGeneProduct	1029
+19789368	973	979	CRABP1	GeneOrGeneProduct	1381
+19789368	981	985	IGF2	GeneOrGeneProduct	3481
+19789368	987	991	MLH1	GeneOrGeneProduct	4292
+19789368	993	1000	NEUROG1	GeneOrGeneProduct	4762
+19789368	1002	1007	RUNX3	GeneOrGeneProduct	864
+19789368	1013	1018	SOCS1	GeneOrGeneProduct	8651
+19789368	1051	1054	VDR	GeneOrGeneProduct	7421
+19789368	1104	1108	KRAS	GeneOrGeneProduct	3845
+19789368	1177	1183	PIK3CA	GeneOrGeneProduct	5290
+19789368	1319	1322	VDR	GeneOrGeneProduct	7421
+19789368	1396	1413	colorectal cancer	DiseaseOrPhenotypicFeature	D015179
+19789368	1415	1420	tumor	DiseaseOrPhenotypicFeature	D009369
+19789368	1460	1465	tumor	DiseaseOrPhenotypicFeature	D009369
+19789368	1527	1531	BRAF	GeneOrGeneProduct	673
+19789368	1533	1536	p53	GeneOrGeneProduct	7157
+19789368	1538	1541	p21	GeneOrGeneProduct	1026
+19789368	1543	1555	beta-catenin	GeneOrGeneProduct	1499
+19789368	1560	1576	cyclooxygenase-2	GeneOrGeneProduct	5743
+19789368	1578	1581	VDR	GeneOrGeneProduct	7421
+19789368	1628	1635	patient	OrganismTaxon	9606
+19789368	1693	1696	VDR	GeneOrGeneProduct	7421
+19789368	1715	1732	colorectal cancer	DiseaseOrPhenotypicFeature	D015179
+19789368	1766	1772	PIK3CA	GeneOrGeneProduct	5290
+19789368	1777	1781	KRAS	GeneOrGeneProduct	3845
+19789368	1845	1848	VDR	GeneOrGeneProduct	7421
+19789368	1850	1853	RAS	GeneOrGeneProduct	3845
+19789368	1854	1858	MAPK	GeneOrGeneProduct	1432
+19789368	1863	1867	PI3K	GeneOrGeneProduct	5290
+19789368	1868	1871	AKT	GeneOrGeneProduct	207
+19789368	1908	1912	KRAS	GeneOrGeneProduct	3845
+19789368	1916	1922	PIK3CA	GeneOrGeneProduct	5290
+19789368	1972	1975	VDR	GeneOrGeneProduct	7421
+19789368	Negative_Correlation	D014807	D015179	No
+19789368	Negative_Correlation	D014807	D009369	No
+19789368	Positive_Correlation	D009369	7421	Novel
+19789368	Association	3845	D015179	Novel
+19789368	Association	3845	1432	No
+19789368	Association	5290	D015179	Novel
+19789368	Association	5290	207	No
+19789368	Positive_Correlation	7421	D015179	Novel
+19789368	Bind	7421	D014807	No
+19789368	Association	7421	3845	Novel
+19789368	Association	7421	5290	Novel

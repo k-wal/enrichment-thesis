@@ -1,0 +1,37 @@
+16412238|t|Peroxisomal proliferator activated receptor-gamma deficiency in a Canadian kindred with familial partial lipodystrophy type 3 (FPLD3).
+16412238|a|BACKGROUND: Familial partial lipodystrophy (Dunnigan) type 3 (FPLD3, Mendelian Inheritance in Man [MIM] 604367) results from heterozygous mutations in PPARG encoding peroxisomal proliferator-activated receptor-gamma. Both dominant-negative and haploinsufficiency mechanisms have been suggested for this condition. METHODS: We present a Canadian FPLD3 kindred with an affected mother who had loss of fat on arms and legs, but no increase in facial, neck, suprascapular or abdominal fat. She had profound insulin resistance, diabetes, severe hypertriglyceridemia and relapsing pancreatitis, while her pre-pubescent daughter had normal fat distribution but elevated plasma triglycerides and C-peptide and depressed high-density lipoprotein cholesterol. RESULTS: The mother and daughter were each heterozygous for PPARG nonsense mutation Y355X, whose protein product in vitro was transcriptionally inactive with no dominant-negative activity against the wild-type receptor. In addition the mutant protein appeared to be markedly unstable. CONCLUSION: Taken together with previous studies of human PPARG mutations, these findings suggest that PPAR-gamma deficiency due either to haploinsufficiency or to substantial activity loss due to dominant negative interference of the normal allele product's function can each contribute to the FPLD3 phenotype.
+16412238	0	49	Peroxisomal proliferator activated receptor-gamma	GeneOrGeneProduct	5468
+16412238	88	125	familial partial lipodystrophy type 3	DiseaseOrPhenotypicFeature	D052496
+16412238	127	132	FPLD3	DiseaseOrPhenotypicFeature	D052496
+16412238	147	195	Familial partial lipodystrophy (Dunnigan) type 3	DiseaseOrPhenotypicFeature	D052496
+16412238	197	202	FPLD3	DiseaseOrPhenotypicFeature	D052496
+16412238	204	245	Mendelian Inheritance in Man [MIM] 604367	DiseaseOrPhenotypicFeature	D052496
+16412238	286	291	PPARG	GeneOrGeneProduct	5468
+16412238	301	350	peroxisomal proliferator-activated receptor-gamma	GeneOrGeneProduct	5468
+16412238	480	485	FPLD3	DiseaseOrPhenotypicFeature	D052496
+16412238	638	656	insulin resistance	DiseaseOrPhenotypicFeature	D007333
+16412238	658	666	diabetes	DiseaseOrPhenotypicFeature	D003920
+16412238	675	695	hypertriglyceridemia	DiseaseOrPhenotypicFeature	D015228
+16412238	710	722	pancreatitis	DiseaseOrPhenotypicFeature	D010195
+16412238	805	818	triglycerides	ChemicalEntity	D014280
+16412238	823	832	C-peptide	ChemicalEntity	D002096
+16412238	847	883	high-density lipoprotein cholesterol	ChemicalEntity	D008076
+16412238	945	950	PPARG	GeneOrGeneProduct	5468
+16412238	969	974	Y355X	SequenceVariant	p|SUB|Y|355|X
+16412238	1222	1227	human	OrganismTaxon	9606
+16412238	1228	1233	PPARG	GeneOrGeneProduct	5468
+16412238	1273	1283	PPAR-gamma	GeneOrGeneProduct	5468
+16412238	1465	1470	FPLD3	DiseaseOrPhenotypicFeature	D052496
+16412238	Association	D002096	p|SUB|Y|355|X	Novel
+16412238	Positive_Correlation	D052496	p|SUB|Y|355|X	Novel
+16412238	Negative_Correlation	5468	D052496	No
+16412238	Association	5468	D010195	No
+16412238	Association	5468	D015228	No
+16412238	Association	5468	D003920	No
+16412238	Association	D007333	5468	No
+16412238	Association	D007333	p|SUB|Y|355|X	Novel
+16412238	Association	p|SUB|Y|355|X	D008076	Novel
+16412238	Association	p|SUB|Y|355|X	D010195	Novel
+16412238	Association	p|SUB|Y|355|X	D015228	Novel
+16412238	Association	p|SUB|Y|355|X	D003920	Novel
+16412238	Association	p|SUB|Y|355|X	D014280	Novel

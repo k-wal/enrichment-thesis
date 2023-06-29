@@ -1,0 +1,87 @@
+28423032|t|Complete study demonstrating the absence of rhabdovirus in a distinct Sf9 cell line
+28423032|a|A putative novel rhabdovirus (SfRV) was previously identified in a Spodoptera frugiperda cell line (Sf9 cells [ATCC CRL-1711 lot 58078522]) by next generation sequencing and extensive bioinformatic analysis. We performed an extensive analysis of our Sf9 cell bank (ATCC CRL-1711 lot 5814 [Sf9L5814]) to determine whether this virus was already present in cells obtained from ATCC in 1987. Inverse PCR of DNA isolated from Sf9 L5814 cellular DNA revealed integration of SfRV sequences in the cellular genome. RT-PCR of total RNA showed a deletion of 320 nucleotides in the SfRV RNA that includes the transcriptional motifs for genes X and L. Concentrated cell culture supernatant was analyzed by sucrose density gradient centrifugation and revealed a single band at a density of 1.14 g/ml. This fraction was further analysed by electron microscopy and showed amorphous and particulate debris that did not resemble a rhabdovirus in morphology or size. SDS-PAGE analysis confirmed that the protein composition did not contain the typical five rhabdovirus structural proteins and LC-MS/MS analysis revealed primarily of exosomal marker proteins, the SfRV N protein, and truncated forms of SfRV N, P, and G proteins. The SfRV L gene fragment RNA sequence was recovered from the supernatant after ultracentrifugation of the 1.14 g/ml fraction treated with diethyl ether suggesting that the SfRV L gene fragment sequence is not associated with a diethyl ether resistant nucleocapsid. Interestingly, the 1.14 g/ml fraction was able to transfer baculovirus DNA into Sf9L5814 cells, consistent with the presence of functional exosomes. Our results demonstrate the absence of viral particles in ATCC CRL-1711 lot 5814 Sf9 cells in contrast to a previous study that suggested the presence of infectious rhabdoviral particles in Sf9 cells from a different lot. This study highlights how cell lines with different lineages may present different virosomes and therefore no general conclusions can be drawn across Sf9 cells from different laboratories.
+28423032	9	14	study	T062	UMLS:C2603343
+28423032	44	55	rhabdovirus	T005	UMLS:C0035414
+28423032	101	112	rhabdovirus	T005	UMLS:C0035414
+28423032	114	118	SfRV	T005	UMLS:C0035414
+28423032	184	193	Sf9 cells	T017	UMLS:C3494245
+28423032	195	221	ATCC CRL-1711 lot 58078522	T017	UMLS:C3494245
+28423032	227	253	next generation sequencing	T062	UMLS:C2936622
+28423032	268	281	bioinformatic	T091	UMLS:C1140694
+28423032	282	290	analysis	T062	UMLS:C0936012
+28423032	318	326	analysis	T062	UMLS:C0936012
+28423032	334	337	Sf9	T017	UMLS:C3494245
+28423032	338	347	cell bank	T170	UMLS:C0920429
+28423032	349	371	ATCC CRL-1711 lot 5814	T017	UMLS:C3494245
+28423032	373	381	Sf9L5814	T017	UMLS:C3494245
+28423032	410	415	virus	T005	UMLS:C0042776
+28423032	428	435	present	T033	UMLS:C0150312
+28423032	439	444	cells	T017	UMLS:C0007634
+28423032	459	463	ATCC	T092	UMLS:C0598079
+28423032	473	484	Inverse PCR	T058	UMLS:C0079639
+28423032	488	491	DNA	T103	UMLS:C0012854
+28423032	506	524	Sf9 L5814 cellular	T017	UMLS:C3494245
+28423032	525	528	DNA	T103	UMLS:C0012854
+28423032	538	549	integration	T038	UMLS:C1158478
+28423032	553	557	SfRV	T005	UMLS:C0035414
+28423032	558	567	sequences	T082	UMLS:C0162326
+28423032	575	583	cellular	T017	UMLS:C0007634
+28423032	584	590	genome	T017	UMLS:C0017428
+28423032	592	598	RT-PCR	T062	UMLS:C0599161
+28423032	608	611	RNA	T103	UMLS:C0035668
+28423032	621	629	deletion	T038	UMLS:C2753464
+28423032	637	648	nucleotides	T103	UMLS:C0028630
+28423032	656	660	SfRV	T005	UMLS:C0035414
+28423032	661	664	RNA	T103	UMLS:C0035668
+28423032	683	698	transcriptional	T038	UMLS:C0040649
+28423032	699	705	motifs	T082	UMLS:C3178796
+28423032	710	723	genes X and L	T017	UMLS:C0017337
+28423032	738	750	cell culture	T058	UMLS:C0007585
+28423032	751	762	supernatant	T031	UMLS:C1550101
+28423032	779	818	sucrose density gradient centrifugation	T058	UMLS:C0201799
+28423032	911	930	electron microscopy	T058	UMLS:C0026019
+28423032	999	1010	rhabdovirus	T005	UMLS:C0035414
+28423032	1028	1032	size	T082	UMLS:C0456389
+28423032	1034	1051	SDS-PAGE analysis	T058	UMLS:C0600209
+28423032	1071	1078	protein	T103	UMLS:C0033684
+28423032	1079	1090	composition	T201	UMLS:C0486616
+28423032	1124	1135	rhabdovirus	T005	UMLS:C0035414
+28423032	1136	1155	structural proteins	T103	UMLS:C0582263
+28423032	1160	1177	LC-MS/MS analysis	T058	UMLS:C0872318
+28423032	1200	1208	exosomal	T017	UMLS:C2350332
+28423032	1209	1224	marker proteins	T103	UMLS:C0033684
+28423032	1230	1234	SfRV	T005	UMLS:C0035414
+28423032	1235	1244	N protein	T103	UMLS:C0524816
+28423032	1250	1259	truncated	T038	UMLS:C1514568
+28423032	1269	1273	SfRV	T005	UMLS:C0035414
+28423032	1274	1275	N	T103	UMLS:C0524816
+28423032	1277	1278	P	T103	UMLS:C0031689
+28423032	1284	1294	G proteins	T103	UMLS:C0086376
+28423032	1300	1304	SfRV	T005	UMLS:C0035414
+28423032	1305	1320	L gene fragment	T017	UMLS:C0017337
+28423032	1321	1333	RNA sequence	T082	UMLS:C0162327
+28423032	1357	1368	supernatant	T031	UMLS:C1550101
+28423032	1375	1394	ultracentrifugation	T058	UMLS:C0041609
+28423032	1434	1447	diethyl ether	T103	UMLS:C0014994
+28423032	1468	1472	SfRV	T005	UMLS:C0035414
+28423032	1473	1488	L gene fragment	T017	UMLS:C0017337
+28423032	1489	1497	sequence	T082	UMLS:C0314659
+28423032	1523	1536	diethyl ether	T103	UMLS:C0014994
+28423032	1547	1559	nucleocapsid	T103	UMLS:C0178774
+28423032	1620	1631	baculovirus	T005	UMLS:C0935640
+28423032	1632	1635	DNA	T103	UMLS:C0012854
+28423032	1641	1655	Sf9L5814 cells	T017	UMLS:C3494245
+28423032	1677	1685	presence	T033	UMLS:C0150312
+28423032	1700	1708	exosomes	T017	UMLS:C2350332
+28423032	1749	1764	viral particles	T017	UMLS:C0042760
+28423032	1768	1790	ATCC CRL-1711 lot 5814	T017	UMLS:C3494245
+28423032	1791	1800	Sf9 cells	T017	UMLS:C3494245
+28423032	1827	1832	study	T062	UMLS:C2603343
+28423032	1875	1896	rhabdoviral particles	T017	UMLS:C0042760
+28423032	1900	1909	Sf9 cells	T017	UMLS:C3494245
+28423032	1937	1942	study	T062	UMLS:C2603343
+28423032	1958	1968	cell lines	T017	UMLS:C0007634
+28423032	1997	2004	present	T033	UMLS:C0150312
+28423032	2015	2024	virosomes	T103	UMLS:C0887910
+28423032	2082	2091	Sf9 cells	T017	UMLS:C3494245
+28423032	2107	2119	laboratories	T092	UMLS:C0022877

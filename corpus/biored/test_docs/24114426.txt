@@ -1,0 +1,38 @@
+24114426|t|Depression, impulsiveness, sleep, and memory in past and present polydrug users of 3,4-methylenedioxymethamphetamine (MDMA, ecstasy).
+24114426|a|RATIONALE: Ecstasy (3,4-methylenedioxymethamphetamine, MDMA) is a worldwide recreational drug of abuse. Unfortunately, the results from human research investigating its psychological effects have been inconsistent. OBJECTIVES: The present study aimed to be the largest to date in sample size and 5HT-related behaviors; the first to compare present ecstasy users with past users after an abstinence of 4 or more years, and the first to include robust controls for other recreational substances. METHODS: A sample of 997 participants (52 % male) was recruited to four control groups (non-drug (ND), alcohol/nicotine (AN), cannabis/alcohol/nicotine (CAN), non-ecstasy polydrug (PD)), and two ecstasy polydrug groups (present (MDMA) and past users (EX-MDMA). Participants completed a drug history questionnaire, Beck Depression Inventory, Barratt Impulsiveness Scale, Pittsburgh Sleep Quality Index, and Wechsler Memory Scale-Revised which, in total, provided 13 psychometric measures. RESULTS: While the CAN and PD groups tended to record greater deficits than the non-drug controls, the MDMA and EX-MDMA groups recorded greater deficits than all the control groups on ten of the 13 psychometric measures. Strikingly, despite prolonged abstinence (mean, 4.98; range, 4-9 years), past ecstasy users showed few signs of recovery. Compared with present ecstasy users, the past users showed no change for ten measures, increased impairment for two measures, and improvement on just one measure. CONCLUSIONS: Given this record of impaired memory and clinically significant levels of depression, impulsiveness, and sleep disturbance, the prognosis for the current generation of ecstasy users is a major cause for concern.
+24114426	0	10	Depression	DiseaseOrPhenotypicFeature	D003866
+24114426	12	25	impulsiveness	DiseaseOrPhenotypicFeature	D010554
+24114426	83	116	3,4-methylenedioxymethamphetamine	ChemicalEntity	D018817
+24114426	118	122	MDMA	ChemicalEntity	D018817
+24114426	124	131	ecstasy	ChemicalEntity	D018817
+24114426	145	152	Ecstasy	ChemicalEntity	D018817
+24114426	154	187	3,4-methylenedioxymethamphetamine	ChemicalEntity	D018817
+24114426	189	193	MDMA	ChemicalEntity	D018817
+24114426	270	275	human	OrganismTaxon	9606
+24114426	430	433	5HT	ChemicalEntity	D012701
+24114426	482	489	ecstasy	ChemicalEntity	D018817
+24114426	731	738	alcohol	ChemicalEntity	D000431
+24114426	739	747	nicotine	ChemicalEntity	D009538
+24114426	749	751	AN	ChemicalEntity	D000431,D009538
+24114426	754	762	cannabis	ChemicalEntity	D002188
+24114426	763	770	alcohol	ChemicalEntity	D000431
+24114426	771	779	nicotine	ChemicalEntity	D009538
+24114426	781	784	CAN	ChemicalEntity	D000431,D002188,D009538
+24114426	791	798	ecstasy	ChemicalEntity	D018817
+24114426	823	830	ecstasy	ChemicalEntity	D018817
+24114426	857	861	MDMA	ChemicalEntity	D018817
+24114426	882	886	MDMA	ChemicalEntity	D018817
+24114426	1135	1138	CAN	ChemicalEntity	D000431,D002188,D009538
+24114426	1219	1223	MDMA	ChemicalEntity	D018817
+24114426	1231	1235	MDMA	ChemicalEntity	D018817
+24114426	1415	1422	ecstasy	ChemicalEntity	D018817
+24114426	1481	1488	ecstasy	ChemicalEntity	D018817
+24114426	1656	1671	impaired memory	DiseaseOrPhenotypicFeature	D008569
+24114426	1709	1719	depression	DiseaseOrPhenotypicFeature	D003866
+24114426	1721	1734	impulsiveness	DiseaseOrPhenotypicFeature	D010554
+24114426	1740	1757	sleep disturbance	DiseaseOrPhenotypicFeature	D020920
+24114426	1803	1810	ecstasy	ChemicalEntity	D018817
+24114426	Positive_Correlation	D018817	D020920	Novel
+24114426	Positive_Correlation	D018817	D010554	Novel
+24114426	Positive_Correlation	D018817	D003866	Novel
+24114426	Positive_Correlation	D018817	D008569	Novel

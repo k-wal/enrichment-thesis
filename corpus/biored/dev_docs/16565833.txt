@@ -1,0 +1,55 @@
+16565833|t|The influence of the time interval between monoHER and doxorubicin administration on the protection against doxorubicin-induced cardiotoxicity in mice.
+16565833|a|PURPOSE: Despite its well-known cardiotoxicity, the anthracyclin doxorubicin (DOX) continues to be an effective and widely used chemotherapeutic agent. DOX-induced cardiac damage presumably results from the formation of free radicals by DOX. Reactive oxygen species particularly affect the cardiac myocytes because these cells seem to have a relatively poor antioxidant defense system. The semisynthetic flavonoid monohydroxyethylrutoside (monoHER) showed cardioprotection against DOX-induced cardiotoxicity through its radical scavenging and iron chelating properties. Because of the relatively short final half-life of monoHER (about 30 min), it is expected that the time interval between monoHER and DOX might be of influence on the cardioprotective effect of monoHER. Therefore, the aim of the present study was to investigate this possible effect. METHODS: Six groups of 6 BALB/c mice were treated with saline, DOX alone or DOX (4 mg/kg i.v.) preceded by monoHER (500 mg/kg i.p.) with an interval of 10, 30, 60 or 120 min. After a 6-week treatment period and additional observation for 2 weeks, the mice were sacrificed. Their cardiac tissues were processed for light microscopy, after which cardiomyocyte damage was evaluated according to Billingham (in Cancer Treat Rep 62(6):865-872, 1978). Microscopic evaluation revealed that treatment with DOX alone induced significant cardiac damage in comparison to the saline control group (P<0.001). RESULTS: The number of damaged cardiomyocytes was 9.6-fold (95% CI 4.4-21.0) higher in mice treated with DOX alone than that in animals of the control group. The ratio of aberrant cardiomyocytes in mice treated with DOX preceded by monoHER and those in mice treated with saline ranged from 1.6 to 2.8 (mean 2.2, 95% CI 1.2-4.1, P=0.019). The mean protective effect by adding monoHER before DOX led to a significant 4.4-fold reduction (P<0.001, 95% CI 2.3-8.2) of abnormal cardiomyocytes. This protective effect did not depend on the time interval between monoHER and DOX administration (P=0.345). CONCLUSION: The results indicate that in an outpatient clinical setting monoHER may be administered shortly before DOX.
+16565833	43	50	monoHER	ChemicalEntity	C522803
+16565833	55	66	doxorubicin	ChemicalEntity	D004317
+16565833	108	119	doxorubicin	ChemicalEntity	D004317
+16565833	128	142	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+16565833	146	150	mice	OrganismTaxon	10090
+16565833	184	198	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+16565833	204	216	anthracyclin	ChemicalEntity	D018943
+16565833	217	228	doxorubicin	ChemicalEntity	D004317
+16565833	230	233	DOX	ChemicalEntity	D004317
+16565833	304	307	DOX	ChemicalEntity	D004317
+16565833	316	330	cardiac damage	DiseaseOrPhenotypicFeature	D006331
+16565833	389	392	DOX	ChemicalEntity	D004317
+16565833	403	409	oxygen	ChemicalEntity	D010100
+16565833	556	565	flavonoid	ChemicalEntity	D005419
+16565833	566	590	monohydroxyethylrutoside	ChemicalEntity	C522803
+16565833	592	599	monoHER	ChemicalEntity	C522803
+16565833	633	636	DOX	ChemicalEntity	D004317
+16565833	645	659	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+16565833	695	699	iron	ChemicalEntity	D007501
+16565833	773	780	monoHER	ChemicalEntity	C522803
+16565833	843	850	monoHER	ChemicalEntity	C522803
+16565833	855	858	DOX	ChemicalEntity	D004317
+16565833	915	922	monoHER	ChemicalEntity	C522803
+16565833	1037	1041	mice	OrganismTaxon	10090
+16565833	1068	1071	DOX	ChemicalEntity	D004317
+16565833	1081	1084	DOX	ChemicalEntity	D004317
+16565833	1112	1119	monoHER	ChemicalEntity	C522803
+16565833	1256	1260	mice	OrganismTaxon	10090
+16565833	1349	1369	cardiomyocyte damage	DiseaseOrPhenotypicFeature	D009202
+16565833	1503	1506	DOX	ChemicalEntity	D004317
+16565833	1533	1547	cardiac damage	DiseaseOrPhenotypicFeature	D006331
+16565833	1688	1692	mice	OrganismTaxon	10090
+16565833	1706	1709	DOX	ChemicalEntity	D004317
+16565833	1799	1803	mice	OrganismTaxon	10090
+16565833	1817	1820	DOX	ChemicalEntity	D004317
+16565833	1833	1840	monoHER	ChemicalEntity	C522803
+16565833	1854	1858	mice	OrganismTaxon	10090
+16565833	1976	1983	monoHER	ChemicalEntity	C522803
+16565833	1991	1994	DOX	ChemicalEntity	D004317
+16565833	2156	2163	monoHER	ChemicalEntity	C522803
+16565833	2168	2171	DOX	ChemicalEntity	D004317
+16565833	2242	2252	outpatient	OrganismTaxon	9606
+16565833	2270	2277	monoHER	ChemicalEntity	C522803
+16565833	2313	2316	DOX	ChemicalEntity	D004317
+16565833	Association	D007501	D066126	Novel
+16565833	Association	D007501	D004317	Novel
+16565833	Association	C522803	D007501	Novel
+16565833	Negative_Correlation	C522803	D066126	Novel
+16565833	Negative_Correlation	C522803	D004317	Novel
+16565833	Negative_Correlation	D005419	D066126	Novel
+16565833	Negative_Correlation	D005419	D004317	Novel
+16565833	Positive_Correlation	D004317	D006331	No
+16565833	Positive_Correlation	D004317	D066126	No

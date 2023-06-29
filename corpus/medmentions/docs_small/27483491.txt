@@ -1,0 +1,16 @@
+27483491|t|Hierarchical Address Event Routing for Reconfigurable Large-Scale Neuromorphic Systems
+27483491|a|We present a hierarchical address-event routing (HiAER) architecture for scalable communication of neural and synaptic spike events between neuromorphic processors, implemented with five Xilinx Spartan-6 field-programmable gate arrays and four custom analog neuromophic integrated circuits serving 262k neurons and 262M synapses. The architecture extends the single-bus address-event representation protocol to a hierarchy of multiple nested buses, routing events across increasing scales of spatial distance. The HiAER protocol provides individually programmable axonal delay in addition to strength for each synapse, lending itself toward biologically plausible neural network architectures, and scales across a range of hierarchies suitable for multichip and multiboard systems in reconfigurable large-scale neuromorphic systems. We show approximately linear scaling of net global synaptic event throughput with number of routing nodes in the network, at $3.6x10^7$ synaptic events per second per 16k- neuron node in the hierarchy.
+27483491	54	86	Large-Scale Neuromorphic Systems	T170	UMLS:C0282574
+27483491	186	192	neural	T022	UMLS:C0027763
+27483491	197	205	synaptic	T082	UMLS:C0039062
+27483491	390	397	neurons	T017	UMLS:C0027882
+27483491	407	415	synapses	T082	UMLS:C0039062
+27483491	486	494	protocol	T170	UMLS:C0442711
+27483491	607	615	protocol	T170	UMLS:C0442711
+27483491	651	657	axonal	T017	UMLS:C0004461
+27483491	697	704	synapse	T082	UMLS:C0039062
+27483491	751	779	neural network architectures	T038	UMLS:C0598941
+27483491	886	918	large-scale neuromorphic systems	T170	UMLS:C0282574
+27483491	971	979	synaptic	T082	UMLS:C0039062
+27483491	1056	1064	synaptic	T082	UMLS:C0039062
+27483491	1092	1098	neuron	T017	UMLS:C0027882

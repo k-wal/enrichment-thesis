@@ -1,0 +1,106 @@
+27678317|t|Thyroid cancer burden in Central and South America
+27678317|a|Incidence of thyroid cancer (TC) is rapidly increasing worldwide, but little is known about the TC burden in Central and South America (CSA). We describe the geographic patterns and trends of TC by sex in CSA. We obtained regional - and national-level incidence data from 48 population-based cancer registries in 13 countries and nationwide cancer deaths from the WHO mortality database for 18 countries. We estimated world population age-standardized incidence rates (ASRs) and age-standardized mortality rates (ASMRs) per 100,000 person - years. We calculated ASRs by histological subtype. We estimated the annual percentage change (EAPC) to describe time trends. Between CSA countries, TC incidence and mortality rates varied from 8-fold to 12-fold and from 2-fold to 5-fold, respectively. In 2003-2007, the highest TC ASRs in females and males were in Ecuador (16.0 and 3.5, respectively), Brazil (14.4 and 3.4), Costa Rica (12.6 and 2.1) and Colombia (10.7 and 2.5). The highest ASMRs were in Ecuador, Colombia, Mexico, Peru and Panama (0.68-0.91 in females and 0.41-0.48 in males). Papillary TC was the most commonly diagnosed histological subtype, following the same incidence pattern as overall TC. In Argentinean, Brazilian, Chilean and Costa Rican females TC incidence increased by 2.2-17.9% annually, and papillary TC increased by 9.1-15.0% annually, while mortality remained stable between 1997 and 2008. In males, trends in TC were stable. TC occurred more frequently in females than in males. The overall high incidence and low mortality of TC suggest identification of subclinical disease due to improved detection methods.
+27678317	0	14	Thyroid cancer	T191	C0007115
+27678317	15	21	burden	T081	C1516167
+27678317	25	32	Central	T083	C0007674
+27678317	37	50	South America	T083	C0037713
+27678317	51	60	Incidence	T081	C0021149
+27678317	64	78	thyroid cancer	T191	C0007115
+27678317	80	82	TC	T191	C0007115
+27678317	87	94	rapidly	T080	C0456962
+27678317	95	105	increasing	T169	C0442808
+27678317	106	115	worldwide	T078	C0043236
+27678317	147	149	TC	T191	C0007115
+27678317	150	156	burden	T081	C1516167
+27678317	160	167	Central	T083	C0007674
+27678317	172	185	South America	T083	C0037713
+27678317	187	190	CSA	T083	C0002454
+27678317	209	228	geographic patterns	T082	C0442527
+27678317	233	239	trends	T079	C0040833
+27678317	243	245	TC	T191	C0007115
+27678317	249	252	sex	T032	C0079399
+27678317	256	259	CSA	T083	C0002454
+27678317	273	281	regional	UnknownType	C0683928
+27678317	288	302	national-level	T082	C0681788
+27678317	303	312	incidence	T081	C1708485
+27678317	313	317	data	T078	C1511726
+27678317	326	360	population-based cancer registries	T170	C1514227
+27678317	367	376	countries	T083	C0454664
+27678317	392	405	cancer deaths	T081	C1516192
+27678317	415	418	WHO	T093	C0043237
+27678317	419	428	mortality	T081	C0205848
+27678317	429	437	database	T170	C0242356
+27678317	445	454	countries	T083	C0454664
+27678317	469	474	world	T098	C2700280
+27678317	486	518	age-standardized incidence rates	T081	C1706747
+27678317	520	524	ASRs	T081	C1706747
+27678317	530	562	age-standardized mortality rates	T081	C1706748
+27678317	564	569	ASMRs	T081	C1706748
+27678317	583	589	person	T098	C0027361
+27678317	592	597	years	T079	C0439234
+27678317	613	617	ASRs	T081	C1706747
+27678317	621	641	histological subtype	T201	C0449574
+27678317	646	684	estimated the annual percentage change	T081	C0023732
+27678317	686	690	EAPC	T081	C0023732
+27678317	704	715	time trends	T079	C0040833
+27678317	725	728	CSA	T083	C0002454
+27678317	729	738	countries	T083	C0454664
+27678317	740	742	TC	T191	C0007115
+27678317	743	752	incidence	T081	C1708485
+27678317	757	772	mortality rates	T081	C0205848
+27678317	862	869	highest	T080	C1522410
+27678317	870	872	TC	T191	C0007115
+27678317	873	877	ASRs	T081	C1706747
+27678317	881	888	females	T032	C0086287
+27678317	893	898	males	T032	C0086582
+27678317	907	914	Ecuador	T083	C0013593
+27678317	945	951	Brazil	T083	C0006137
+27678317	968	978	Costa Rica	T083	C0010182
+27678317	998	1006	Colombia	T083	C3245499
+27678317	1027	1034	highest	T080	C1522410
+27678317	1035	1040	ASMRs	T081	C1706748
+27678317	1049	1056	Ecuador	T083	C0013593
+27678317	1058	1066	Colombia	T083	C3245499
+27678317	1068	1074	Mexico	T083	C0025885
+27678317	1076	1080	Peru	T083	C0031238
+27678317	1085	1091	Panama	T083	C0030266
+27678317	1106	1113	females	T032	C0086287
+27678317	1131	1136	males	T032	C0086582
+27678317	1139	1151	Papillary TC	T191	C0238463
+27678317	1174	1183	diagnosed	T033	C0011900
+27678317	1184	1204	histological subtype	T201	C0449574
+27678317	1225	1242	incidence pattern	T081	C1708485
+27678317	1254	1256	TC	T191	C0007115
+27678317	1261	1272	Argentinean	T098	C0238689
+27678317	1274	1283	Brazilian	T033	C0238815
+27678317	1285	1292	Chilean	T098	C0239045
+27678317	1297	1308	Costa Rican	T098	C0239127
+27678317	1309	1316	females	T032	C0086287
+27678317	1317	1319	TC	T191	C0007115
+27678317	1320	1329	incidence	T081	C1708485
+27678317	1330	1339	increased	T081	C0205217
+27678317	1353	1361	annually	T079	C0332181
+27678317	1367	1379	papillary TC	T191	C0238463
+27678317	1380	1389	increased	T081	C0205217
+27678317	1403	1411	annually	T079	C0332181
+27678317	1419	1428	mortality	T081	C0205848
+27678317	1438	1444	stable	T080	C0205360
+27678317	1471	1476	males	T032	C0086582
+27678317	1478	1484	trends	T079	C0040833
+27678317	1488	1490	TC	T191	C0007115
+27678317	1496	1502	stable	T080	C0205360
+27678317	1504	1506	TC	T191	C0007115
+27678317	1507	1515	occurred	T052	C1709305
+27678317	1521	1531	frequently	T079	C0332183
+27678317	1535	1542	females	T032	C0086287
+27678317	1551	1556	males	T032	C0086582
+27678317	1562	1569	overall	T080	C1561607
+27678317	1570	1574	high	T080	C0205250
+27678317	1575	1584	incidence	T081	C1708485
+27678317	1589	1592	low	T080	C0205251
+27678317	1593	1602	mortality	T081	C0205848
+27678317	1606	1608	TC	T191	C0007115
+27678317	1609	1616	suggest	T078	C1705535
+27678317	1635	1654	subclinical disease	T047	C0277544
+27678317	1662	1670	improved	T080	C0332272
+27678317	1671	1688	detection methods	T170	C0449335

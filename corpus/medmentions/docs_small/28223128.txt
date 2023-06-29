@@ -1,0 +1,72 @@
+28223128|t|A screening assay for the identification of host cell requirements and antiviral targets for hepatitis D virus infection
+28223128|a|Hepatitis delta virus (HDV) is a minimalistic satellite virus of hepatitis B virus (HBV). HBV / HDV co-infection, i.e. " hepatitis D ", is the most severe form of viral hepatitis. No effective therapy for HDV infection is available partly due to the fact that HDV is a highly host - dependent virus devoid of any potentially drugable enzyme encoded in its small genome. In this study we present a semi-automated method to evaluate HDV infection and replication under the influence of different drugs. We utilized a Huh-7/hNTCP cell culture based system in a 96- well plate format, an automated microscope and image acquisition as well as analysis with the CellProfiler software to quantify the impact of these drugs on HDV infection. For validation, three groups of potential anti-HDV agents were evaluated: To target ribozyme activity of HDV RNA, we screened ribozyme inhibitors but only observed marked toxicity. Testing innate antiviral mediators showed that interferons alpha-2a and beta-1a had a specific inhibitory effect on HDV infection. Finally, we screened a library of 160 human kinase inhibitors covering all parts of the human kinome. Overall, only inhibitors targeting the tyrosine kinase-like group had significant average anti-HDV activity. Looking at individual substances, kenpaullone, a GSK-3β and Cdk inhibitor, had the highest selective index of 3.44. Thus, we provide a potentially useful tool to screen for substances with anti-HDV activity and novel insights into interactions between HDV replication and the human kinome.
+28223128	2	11	screening	T058	UMLS:C0373483
+28223128	12	17	assay	T058	UMLS:C1510438
+28223128	44	53	host cell	T017	UMLS:C1819995
+28223128	71	88	antiviral targets	T103	UMLS:C0003451
+28223128	93	120	hepatitis D virus infection	T038	UMLS:C0011226
+28223128	121	142	Hepatitis delta virus	T005	UMLS:C0011220
+28223128	144	147	HDV	T005	UMLS:C0011220
+28223128	154	182	minimalistic satellite virus	T005	UMLS:C0036238
+28223128	186	203	hepatitis B virus	T005	UMLS:C0019169
+28223128	205	208	HBV	T005	UMLS:C0019169
+28223128	217	220	HDV	T005	UMLS:C0011220
+28223128	221	233	co-infection	T038	UMLS:C0275524
+28223128	242	253	hepatitis D	T038	UMLS:C0011226
+28223128	284	299	viral hepatitis	T038	UMLS:C0042721
+28223128	314	321	therapy	T058	UMLS:C0087111
+28223128	326	339	HDV infection	T038	UMLS:C0011226
+28223128	381	384	HDV	T005	UMLS:C0011220
+28223128	414	419	virus	T005	UMLS:C0042776
+28223128	446	461	drugable enzyme	T103	UMLS:C0014442
+28223128	483	489	genome	T017	UMLS:C0017428
+28223128	499	504	study	T062	UMLS:C2603343
+28223128	518	539	semi-automated method	T170	UMLS:C0025663
+28223128	543	551	evaluate	T058	UMLS:C0220825
+28223128	552	565	HDV infection	T038	UMLS:C0011226
+28223128	570	581	replication	T038	UMLS:C0042774
+28223128	615	620	drugs	T103	UMLS:C1254351
+28223128	636	660	Huh-7/hNTCP cell culture	T017	UMLS:C0007600
+28223128	683	700	well plate format	T082	UMLS:C4283957
+28223128	715	725	microscope	T074	UMLS:C0181839
+28223128	759	767	analysis	T062	UMLS:C0936012
+28223128	777	798	CellProfiler software	T170	UMLS:C0037589
+28223128	831	836	drugs	T103	UMLS:C1254351
+28223128	840	853	HDV infection	T038	UMLS:C0011226
+28223128	859	869	validation	T062	UMLS:C1519941
+28223128	897	912	anti-HDV agents	T103	UMLS:C0003451
+28223128	918	927	evaluated	T058	UMLS:C0220825
+28223128	939	947	ribozyme	T103	UMLS:C0080125
+28223128	948	956	activity	T038	UMLS:C0243102
+28223128	960	967	HDV RNA	T103	UMLS:C0486926
+28223128	972	980	screened	T058	UMLS:C0373483
+28223128	981	989	ribozyme	T103	UMLS:C0080125
+28223128	990	1000	inhibitors	T103	UMLS:C0014432
+28223128	1051	1060	antiviral	T038	UMLS:C1155328
+28223128	1061	1070	mediators	T103	UMLS:C0301974
+28223128	1083	1103	interferons alpha-2a	T103	UMLS:C0021734
+28223128	1108	1115	beta-1a	T103	UMLS:C0254119
+28223128	1152	1165	HDV infection	T038	UMLS:C0011226
+28223128	1179	1187	screened	T058	UMLS:C0373483
+28223128	1190	1197	library	T092	UMLS:C0023621
+28223128	1205	1210	human	T204	UMLS:C0086418
+28223128	1211	1228	kinase inhibitors	T103	UMLS:C3537035
+28223128	1255	1260	human	T204	UMLS:C0086418
+28223128	1261	1267	kinome	T170	UMLS:C3829378
+28223128	1283	1293	inhibitors	T103	UMLS:C0014432
+28223128	1308	1334	tyrosine kinase-like group	T103	UMLS:C0033640
+28223128	1359	1376	anti-HDV activity	T038	UMLS:C1155328
+28223128	1400	1410	substances	T103	UMLS:C1254351
+28223128	1412	1423	kenpaullone	T103	UMLS:C0768461
+28223128	1427	1433	GSK-3β	T103	UMLS:C0244988
+28223128	1438	1451	Cdk inhibitor	T103	UMLS:C1511576
+28223128	1469	1484	selective index	T170	UMLS:C0918012
+28223128	1532	1536	tool	T170	UMLS:C0025663
+28223128	1540	1546	screen	T058	UMLS:C0220908
+28223128	1551	1561	substances	T103	UMLS:C1254351
+28223128	1567	1584	anti-HDV activity	T038	UMLS:C1155328
+28223128	1595	1603	insights	T038	UMLS:C0233820
+28223128	1630	1633	HDV	T005	UMLS:C0011220
+28223128	1634	1645	replication	T038	UMLS:C0042774
+28223128	1654	1659	human	T204	UMLS:C0086418
+28223128	1660	1666	kinome	T170	UMLS:C3829378

@@ -1,0 +1,73 @@
+27965426|t|Mitotic phosphotyrosine network analysis reveals that tyrosine phosphorylation regulates Polo-like kinase 1 (PLK1)
+27965426|a|Tyrosine phosphorylation is closely associated with cell proliferation. During the cell cycle, serine and threonine phosphorylation plays the leading role, and such phosphorylation events are most dynamic during the mitotic phase of the cell cycle. However, mitotic phosphotyrosine is not well characterized. Although a few functionally - relevant mitotic phosphotyrosine sites have been characterized, evidence suggests that this modification may be more prevalent than previously appreciated. Here, we examined tyrosine phosphorylation in mitotic human cells including those on spindle-associated proteins .? Database mining confirmed ~2000 mitotic phosphotyrosine sites, and network analysis revealed a number of subnetworks that were enriched in tyrosine-phosphorylated proteins, including components of the kinetochore or spindle and SRC family kinases. We identified Polo-like kinase 1 (PLK1), a major signaling hub in the spindle subnetwork, as phosphorylated at the conserved Tyr(217) in the kinase domain. Substitution of Tyr(217) with a phosphomimetic residue eliminated PLK1 activity in vitro and in cells. Further analysis showed that Tyr(217) phosphorylation reduced the phosphorylation of Thr(210) in the activation loop, a phosphorylation event necessary for PLK1 activity. Our data indicate that mitotic tyrosine phosphorylation regulated a key serine/threonine kinase hub in mitotic cells and suggested that spatially separating tyrosine phosphorylation events can reveal previously unrecognized regulatory events and complexes associated with specific structures of the cell cycle.
+27965426	0	7	Mitotic	T080	C1513354
+27965426	8	23	phosphotyrosine	T116,T123	C0070948
+27965426	24	40	network analysis	T170	C0868995
+27965426	54	78	tyrosine phosphorylation	T044	C1519726
+27965426	89	107	Polo-like kinase 1	T116,T126	C0290178
+27965426	109	113	PLK1	T116,T126	C0290178
+27965426	115	139	Tyrosine phosphorylation	T044	C1519726
+27965426	151	166	associated with	T080	C0332281
+27965426	167	185	cell proliferation	T043	C0596290
+27965426	198	208	cell cycle	T043	C0007586
+27965426	210	246	serine and threonine phosphorylation	T044	C1519253
+27965426	280	295	phosphorylation	T044	C0031715
+27965426	312	319	dynamic	T169	C0729333
+27965426	331	344	mitotic phase	T043	C3893712
+27965426	352	362	cell cycle	T043	C0007586
+27965426	373	380	mitotic	T080	C1513354
+27965426	381	396	phosphotyrosine	T116,T123	C0070948
+27965426	439	451	functionally	T169	C0542341
+27965426	454	462	relevant	T080	C2347946
+27965426	463	470	mitotic	T080	C1513354
+27965426	471	486	phosphotyrosine	T116,T123	C0070948
+27965426	487	492	sites	T082	C0205145
+27965426	503	516	characterized	T052	C1880022
+27965426	546	558	modification	T169	C0392747
+27965426	571	580	prevalent	T081	C0220900
+27965426	619	627	examined	T033	C0332128
+27965426	628	652	tyrosine phosphorylation	T044	C1519726
+27965426	656	675	mitotic human cells	T025	C0230518
+27965426	695	722	spindle-associated proteins	T116,T123	C0033684
+27965426	726	741	Database mining	T066	C1328866
+27965426	758	765	mitotic	T080	C1513354
+27965426	766	781	phosphotyrosine	T116,T123	C0070948
+27965426	782	787	sites	T082	C0205145
+27965426	793	809	network analysis	T170	C0868995
+27965426	865	897	tyrosine-phosphorylated proteins	T116,T123	C0033684
+27965426	927	938	kinetochore	T026	C0242609
+27965426	942	949	spindle	T026	C1166795
+27965426	954	972	SRC family kinases	T116,T126	C0282625
+27965426	988	1006	Polo-like kinase 1	T116,T126	C0290178
+27965426	1008	1012	PLK1	T116,T126	C0290178
+27965426	1023	1032	signaling	T038	C3537152
+27965426	1044	1051	spindle	T026	C1166795
+27965426	1052	1062	subnetwork	T169	C1882071
+27965426	1067	1081	phosphorylated	T116	C1519061
+27965426	1099	1107	Tyr(217)	T116,T121,T123	C0041485
+27965426	1115	1128	kinase domain	T087	C1519724
+27965426	1130	1142	Substitution	T045	C0525038
+27965426	1146	1154	Tyr(217)	T116,T121,T123	C0041485
+27965426	1162	1184	phosphomimetic residue	T104	C1254350
+27965426	1196	1200	PLK1	T116,T126	C0290178
+27965426	1201	1209	activity	T044	C1537044
+27965426	1210	1218	in vitro	T080	C1533691
+27965426	1226	1231	cells	T025	C0007634
+27965426	1241	1249	analysis	T062	C0936012
+27965426	1262	1270	Tyr(217)	T116,T121,T123	C0041485
+27965426	1271	1286	phosphorylation	T044	C0031715
+27965426	1299	1326	phosphorylation of Thr(210)	T044	C1158892
+27965426	1334	1349	activation loop	T082	C0445022
+27965426	1353	1368	phosphorylation	T044	C0031715
+27965426	1389	1393	PLK1	T116,T126	C0290178
+27965426	1394	1402	activity	T044	C1537044
+27965426	1427	1434	mitotic	T080	C1513354
+27965426	1435	1459	tyrosine phosphorylation	T044	C1519726
+27965426	1476	1499	serine/threonine kinase	T116,T126	C0072402
+27965426	1507	1520	mitotic cells	T025	C0230518
+27965426	1561	1585	tyrosine phosphorylation	T044	C1519726
+27965426	1615	1627	unrecognized	T080	C4288068
+27965426	1628	1645	regulatory events	T169	C1514829
+27965426	1650	1659	complexes	T080	C0439855
+27965426	1685	1695	structures	T026	C0243092
+27965426	1703	1713	cell cycle	T043	C0007586

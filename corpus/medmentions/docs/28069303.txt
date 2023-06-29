@@ -1,0 +1,55 @@
+28069303|t|Attributable risk of ambient PM10 on daily mortality and years of life lost in Chengdu, China
+28069303|a|Attributable risk is an important indicator for planning and evaluating public health interventions. However, most current measures of the attributable risk of air pollutants have not considered temporal relationships between exposure and risk. More importantly, limited information is available regarding the attributable risk due to ambient air pollutants in basin regions like the Sichuan Basin, China. To quantify the association between PM10 and deaths in the Basin region, we used a measure proposed recently within the framework of the distributed lag non-linear model to estimate the attributable risk in Chengdu, China. Meanwhile, we examined the association between PM10 and years of life lost (YLL). Our analysis showed that population-attributable fractions for non-accidental, respiratory, and cardiovascular mortality were 0.569% (95% CI: -3.474%, 4.374%), 0.695% (95% CI: -5.260%, 6.457%), and 0.631% (95% CI: -6.973%, 7.390%), respectively. On average, a 1μg/m(3) increase in PM10 was associated with cumulative increases of 0.26893, 0.30437, and 0.21924 YLL for non-accidental, respiratory, and cardiovascular mortality, respectively, referring to 20μg/m(3). In addition, we found an inverse U-shaped pattern for the cumulative risk with 350μg/m(3) as the reverse point. With a 1μg/m(3) increase in PM10, YLL changed more significantly than mortality. Moreover, PM10 demonstrated remarkable effects on YLL among men and the elderly.
+28069303	0	17	Attributable risk	T080	C0814766
+28069303	21	28	ambient	T080	C1879688
+28069303	29	33	PM10	T167	C1720884
+28069303	43	52	mortality	T081	C0205848
+28069303	57	75	years of life lost	T081	C2713320
+28069303	79	86	Chengdu	UnknownType	C0681784
+28069303	88	93	China	T083	C0008115
+28069303	94	111	Attributable risk	T080	C0814766
+28069303	142	150	planning	T058	C0018727
+28069303	155	193	evaluating public health interventions	T058	C0557980
+28069303	233	250	attributable risk	T080	C0814766
+28069303	254	268	air pollutants	T131	C0001869
+28069303	289	311	temporal relationships	T079	C0449235
+28069303	320	328	exposure	T080	C0332157
+28069303	333	337	risk	T078	C0035647
+28069303	404	421	attributable risk	T080	C0814766
+28069303	429	436	ambient	T080	C1879688
+28069303	437	451	air pollutants	T131	C0001869
+28069303	455	468	basin regions	UnknownType	C0681784
+28069303	478	491	Sichuan Basin	UnknownType	C0681784
+28069303	493	498	China	T083	C0008115
+28069303	536	540	PM10	T167	C1720884
+28069303	545	551	deaths	T033	C1306577
+28069303	559	571	Basin region	UnknownType	C0681784
+28069303	637	669	distributed lag non-linear model	T081	C0392762
+28069303	686	703	attributable risk	T080	C0814766
+28069303	707	714	Chengdu	UnknownType	C0681784
+28069303	716	721	China	T083	C0008115
+28069303	750	761	association	T080	C0439849
+28069303	770	774	PM10	T167	C1720884
+28069303	779	797	years of life lost	T081	C2713320
+28069303	799	802	YLL	T081	C2713320
+28069303	809	817	analysis	T062	C0936012
+28069303	830	863	population-attributable fractions	T081	C1264633
+28069303	868	882	non-accidental	T169	C0521130
+28069303	884	895	respiratory	T169	C0521346
+28069303	901	925	cardiovascular mortality	T081	C0205848
+28069303	1086	1090	PM10	T167	C1720884
+28069303	1111	1131	cumulative increases	T169	C0442805
+28069303	1165	1168	YLL	T081	C2713320
+28069303	1173	1187	non-accidental	T169	C0521130
+28069303	1189	1200	respiratory	T169	C0521346
+28069303	1206	1230	cardiovascular mortality	T081	C0205848
+28069303	1295	1319	inverse U-shaped pattern	T082	C0449774
+28069303	1328	1343	cumulative risk	T078	C0035647
+28069303	1410	1414	PM10	T167	C1720884
+28069303	1416	1419	YLL	T081	C2713320
+28069303	1452	1461	mortality	T081	C0205848
+28069303	1473	1477	PM10	T167	C1720884
+28069303	1502	1509	effects	T080	C1280500
+28069303	1513	1516	YLL	T081	C2713320
+28069303	1523	1526	men	T098	C0025266
+28069303	1535	1542	elderly	T098	C0001792

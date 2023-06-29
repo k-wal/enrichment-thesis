@@ -1,0 +1,79 @@
+27355258|t|Survival of ovarian cancer patients in Denmark: Results from the Danish gynaecological cancer group (DGCG) database, 1995-2012
+27355258|a|Ovarian cancer has a high mortality rate, especially in Denmark where mortality rates have been reported higher than in adjacent countries with similar demographics. This study therefore examined recent survival and mortality among Danish ovarian cancer patients over an 18-year study period. This nationwide registry-based observational study used data from the Danish Gynecology Cancer Database, Danish Pathology Registry, and Danish National Patient Registry. All patients with ovarian cancer diagnosed between 1995 and 2012 were included in the study. The data sources were linked via the patients ' personal identification number and the analyses included data on cancer stage, age, survival, surgery status and comorbidity. The computed outcome measures were age-adjusted mortality rates and age-adjusted overall and relative survival rates for one and five years. We identified 9972 patients diagnosed with ovarian cancer in the period 1995-2012. The absolute one-year mortality rate decreased from 42.8 (CI 40.3-45.6) in 1995-1999 to 28.3 (CI 25.9-30.9) in 2010-2012, and the five-year mortality rate decreased from 28.2 (CI 27.0-29.5) in 1995-1999 to 23.9 (CI 22.9-25.0) in 2005-2009. After stratification by age, comorbidity and cancer stage, the decrease in one-year mortality was most substantial in the 65-74 year old age group 41.1 (CI 38.8-43.5) to 26.5 (CI 24.4-28.7) and for stage III 39.1 (CI 35.1-43.6) to 22.9 (CI 19.9-26.5) and stage IV 91.3 (CI 80.8-103.2) to 41.9 (CI 35.5-49.5). For overall survival, we showed an increase in one-year survival from 68% (CI 66-69%) in 1995-1999 to 76% (CI 74-78%) in 2010-2012 and an increase in five-year survival from 33% (CI 32-35%) in 1995-1999 to 36% (CI 34-38%) in 2005-2009. Relative survival showed similar increases through the period. Ovarian cancer survival in Denmark has improved substantially from 1995 to 2012, bringing Denmark closer to the standards set by adjacent countries.
+27355258	0	8	Survival	T062	C0038953
+27355258	12	26	ovarian cancer	T191	C0029925
+27355258	27	35	patients	T101	C1516213
+27355258	39	46	Denmark	T083	C0011318
+27355258	65	99	Danish gynaecological cancer group	T097	C1707252
+27355258	100	115	(DGCG) database	T170	C1140271
+27355258	127	141	Ovarian cancer	T191	C0029925
+27355258	148	167	high mortality rate	T081	C0205848
+27355258	183	190	Denmark	T083	C0011318
+27355258	197	212	mortality rates	T081	C0205848
+27355258	247	265	adjacent countries	T083	C0454664
+27355258	271	291	similar demographics	T090	C0011298
+27355258	330	338	survival	T081	C0038954
+27355258	343	352	mortality	T081	C0205848
+27355258	359	380	Danish ovarian cancer	T191	C0029925
+27355258	381	389	patients	T101	C1516213
+27355258	425	450	nationwide registry-based	T170	C1514227
+27355258	451	470	observational study	T062	C1518527
+27355258	490	523	Danish Gynecology Cancer Database	T170	C1140271
+27355258	525	550	Danish Pathology Registry	T170	C0920465
+27355258	556	588	Danish National Patient Registry	T062	C0920631
+27355258	594	602	patients	T101	C1516213
+27355258	608	622	ovarian cancer	T191	C0029925
+27355258	623	632	diagnosed	T060	C0920688
+27355258	687	699	data sources	T081	C0011001
+27355258	720	728	patients	T101	C1516213
+27355258	731	761	personal identification number	T081,T170	C0242471
+27355258	770	792	analyses included data	T169	C1524024
+27355258	796	808	cancer stage	T060	C0027646
+27355258	810	813	age	T032	C0001779
+27355258	815	823	survival	T062	C0038953
+27355258	825	839	surgery status	T033	C1392458
+27355258	844	855	comorbidity	T078	C0009488
+27355258	870	886	outcome measures	T081	C0086749
+27355258	892	920	age-adjusted mortality rates	T081	C1706748
+27355258	938	945	overall	T081	C4086681
+27355258	950	973	relative survival rates	T081	C1711356
+27355258	978	996	one and five years	T081	C2986537
+27355258	1017	1035	patients diagnosed	T101	C1516213
+27355258	1041	1055	ovarian cancer	T191	C0029925
+27355258	1094	1117	one-year mortality rate	T081	C0205848
+27355258	1118	1127	decreased	T081	C0205216
+27355258	1139	1141	CI	T081	C0009667
+27355258	1175	1177	CI	T081	C0009667
+27355258	1211	1235	five-year mortality rate	T081	C0205848
+27355258	1236	1245	decreased	T081	C0205216
+27355258	1257	1259	CI	T081	C0009667
+27355258	1293	1295	CI	T081	C0009667
+27355258	1327	1348	stratification by age	T062	C1514983
+27355258	1350	1361	comorbidity	T078	C0009488
+27355258	1366	1378	cancer stage	T060	C0027646
+27355258	1384	1414	decrease in one-year mortality	T081	C0282251
+27355258	1454	1467	old age group	T098	C1999167
+27355258	1474	1476	CI	T081	C0009667
+27355258	1497	1499	CI	T081	C0009667
+27355258	1519	1528	stage III	T191	C0278687
+27355258	1535	1537	CI	T081	C0009667
+27355258	1558	1560	CI	T081	C0009667
+27355258	1576	1584	stage IV	T191	C2217303
+27355258	1591	1593	CI	T081	C0009667
+27355258	1615	1617	CI	T081	C0009667
+27355258	1634	1650	overall survival	T081	C4086681
+27355258	1665	1673	increase	T169	C0442805
+27355258	1677	1694	one-year survival	T081	C0038954
+27355258	1705	1707	CI	T081	C0009667
+27355258	1737	1739	CI	T081	C0009667
+27355258	1768	1776	increase	T169	C0442805
+27355258	1780	1798	five-year survival	T081	C2986537
+27355258	1809	1811	CI	T081	C0009667
+27355258	1841	1843	CI	T081	C0009667
+27355258	1866	1883	Relative survival	T081	C1711356
+27355258	1899	1908	increases	T169	C0442805
+27355258	1929	1943	Ovarian cancer	T191	C0029925
+27355258	1944	1952	survival	T081	C0038954
+27355258	1956	1963	Denmark	T083	C0011318
+27355258	2019	2026	Denmark	T083	C0011318
+27355258	2058	2076	adjacent countries	T083	C0454664

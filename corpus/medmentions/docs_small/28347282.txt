@@ -1,0 +1,46 @@
+28347282|t|Hyperuricemia after orthotopic liver transplantation: divergent associations with progression of renal disease, incident end-stage renal disease, and mortality
+28347282|a|Although hyperuricemia is common after orthotopic liver transplantation (OLT), its relationship to mortality, progressive kidney disease, or the development of end stage renal disease (ESRD) is not well-described. Data from 304 patients undergoing OLT between 1996 and 2010 were used to assess the association of mean serum uric acid (UA) level in the 3- months post-OLT with mortality, doubling of creatinine, and ESRD incidence. Post-OLT survival to event outcomes according to UA level and eGFR was assessed using the Kaplan Meier method and multivariate Cox proportional hazards models. Mean UA level among the 204 patients with an eGFR level ≥60 ml/min/1.73 m(2) was 6.4 mg/dl compared to 7.9 mg/dl among the 100 patients with eGFR <60 (p < 0.0001). During a median of 4.6 years of follow-up, mortality rate, doubling of creatinine, and ESRD incidence were 48.9, 278.2, and 20.7 per 1000 person - years, respectively. In the first 5 years of follow-up, elevated UA was associated with mortality (Hazard Ratio, HR = 1.7; p = 0.045). However, among those with eGFR ≥ 60, UA level did not predict mortality (HR = 1.0; p = 0.95), and among those with eGFR < 60, elevated UA was a strong predictor of mortality (HR = 3.7[1.1, 12.0]; p = 0.03). UA was not associated with ESRD, but was associated with doubling of creatinine among diabetics (HR = 2.2[1.1, 4.3]; p = 0.025). In this post-OLT cohort, hyperuricemia independently predicted mortality, particularly among patients with eGFR < 60, and predicted doubling of creatinine among diabetics.
+28347282	0	13	Hyperuricemia	T038	UMLS:C0740394
+28347282	20	52	orthotopic liver transplantation	T058	UMLS:C0400447
+28347282	82	93	progression	T038	UMLS:C0242656
+28347282	97	110	renal disease	T038	UMLS:C0022658
+28347282	121	144	end-stage renal disease	T038	UMLS:C0022661
+28347282	169	182	hyperuricemia	T038	UMLS:C0740394
+28347282	199	231	orthotopic liver transplantation	T058	UMLS:C0400447
+28347282	233	236	OLT	T058	UMLS:C0400447
+28347282	282	296	kidney disease	T038	UMLS:C0022658
+28347282	320	343	end stage renal disease	T038	UMLS:C0022661
+28347282	345	349	ESRD	T038	UMLS:C0022661
+28347282	408	411	OLT	T058	UMLS:C0400447
+28347282	478	483	serum	T031	UMLS:C0229671
+28347282	484	493	uric acid	T103	UMLS:C0041980
+28347282	495	497	UA	T103	UMLS:C0041980
+28347282	559	569	creatinine	T103	UMLS:C0010294
+28347282	575	579	ESRD	T038	UMLS:C0022661
+28347282	640	642	UA	T103	UMLS:C0041980
+28347282	653	657	eGFR	T058	UMLS:C3811844
+28347282	681	700	Kaplan Meier method	T062	UMLS:C2827659
+28347282	705	749	multivariate Cox proportional hazards models	T170	UMLS:C0010235
+28347282	756	758	UA	T103	UMLS:C0041980
+28347282	796	800	eGFR	T058	UMLS:C3811844
+28347282	892	896	eGFR	T058	UMLS:C3811844
+28347282	924	930	median	T082	UMLS:C0549183
+28347282	947	956	follow-up	T058	UMLS:C1522577
+28347282	986	996	creatinine	T103	UMLS:C0010294
+28347282	1002	1006	ESRD	T038	UMLS:C0022661
+28347282	1053	1059	person	T098	UMLS:C0027361
+28347282	1107	1116	follow-up	T058	UMLS:C1522577
+28347282	1127	1129	UA	T103	UMLS:C0041980
+28347282	1223	1227	eGFR	T058	UMLS:C3811844
+28347282	1234	1236	UA	T103	UMLS:C0041980
+28347282	1312	1316	eGFR	T058	UMLS:C3811844
+28347282	1332	1334	UA	T103	UMLS:C0041980
+28347282	1404	1406	UA	T103	UMLS:C0041980
+28347282	1431	1435	ESRD	T038	UMLS:C0022661
+28347282	1473	1483	creatinine	T103	UMLS:C0010294
+28347282	1490	1499	diabetics	T038	UMLS:C0011847
+28347282	1550	1556	cohort	T098	UMLS:C0599755
+28347282	1558	1571	hyperuricemia	T038	UMLS:C0740394
+28347282	1640	1644	eGFR	T058	UMLS:C3811844
+28347282	1677	1687	creatinine	T103	UMLS:C0010294
+28347282	1694	1703	diabetics	T038	UMLS:C0011847

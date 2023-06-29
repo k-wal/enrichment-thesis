@@ -1,0 +1,93 @@
+27602302|t|Selection of a marker gene to construct a reference library for wetland plants, and the application of metabarcoding to analyze the diet of wintering herbivorous waterbirds
+27602302|a|Food availability and diet selection are important factors influencing the abundance and distribution of wild waterbirds. In order to better understand changes in waterbird population, it is essential to figure out what they feed on. However, analyzing their diet could be difficult and inefficient using traditional methods such as microhistologic observation. Here, we addressed this gap of knowledge by investigating the diet of greater white-fronted goose Anser albifrons and bean goose Anser fabalis, which are obligate herbivores wintering in China, mostly in the Middle and Lower Yangtze River floodplain. First, we selected a suitable and high-resolution marker gene for wetland plants that these geese would consume during the wintering period. Eight candidate genes were included: rbcL, rpoC1, rpoB, matK, trnH-psbA, trnL (UAA), atpF-atpH, and psbK-psbI. The selection was performed via analysis of representative sequences from NCBI and comparison of amplification efficiency and resolution power of plant samples collected from the wintering area. The trnL gene was chosen at last with c/h primers, and a local plant reference library was constructed with this gene. Then, utilizing DNA metabarcoding, we discovered 15 food items in total from the feces of these birds. Of the 15 unique dietary sequences, 10 could be identified at specie level. As for greater white-fronted goose, 73% of sequences belonged to Poaceae spp., and 26% belonged to Carex spp. In contrast, almost all sequences of bean goose belonged to Carex spp. (99%). Using the same samples, microhistology provided consistent food composition with metabarcoding results for greater white-fronted goose, while 13% of Poaceae was recovered for bean goose. In addition, two other taxa were discovered only through microhistologic analysis. Although most of the identified taxa matched relatively well between the two methods, DNA metabarcoding gave taxonomically more detailed information. Discrepancies were likely due to biased PCR amplification in metabarcoding, low discriminating power of current marker genes for monocots, and biases in microhistologic analysis. The diet differences between two geese species might indicate deeper ecological significance beyond the scope of this study. We concluded that DNA metabarcoding provides new perspectives for studies of herbivorous waterbird diets and inter-specific interactions, as well as new possibilities to investigate interactions between herbivores and plants. In addition, microhistologic analysis should be used together with metabarcoding methods to integrate this information.
+27602302	15	26	marker gene	T017	UMLS:C0017337
+27602302	42	59	reference library	T092	UMLS:C0023621
+27602302	72	78	plants	T204	UMLS:C0032098
+27602302	103	116	metabarcoding	T062	UMLS:C2936547
+27602302	120	127	analyze	T062	UMLS:C0936012
+27602302	132	136	diet	T168	UMLS:C0012155
+27602302	150	161	herbivorous	T204	UMLS:C0562691
+27602302	162	172	waterbirds	T204	UMLS:C0005595
+27602302	173	177	Food	T168	UMLS:C0016452
+27602302	195	199	diet	T168	UMLS:C0012155
+27602302	278	282	wild	T170	UMLS:C0445392
+27602302	283	293	waterbirds	T204	UMLS:C0005595
+27602302	336	345	waterbird	T204	UMLS:C0005595
+27602302	416	425	analyzing	T062	UMLS:C0936012
+27602302	432	436	diet	T168	UMLS:C0012155
+27602302	506	533	microhistologic observation	T058	UMLS:C0019637
+27602302	597	601	diet	T168	UMLS:C0012155
+27602302	605	648	greater white-fronted goose Anser albifrons	T204	UMLS:C1015285
+27602302	653	677	bean goose Anser fabalis	T204	UMLS:C1015285
+27602302	689	708	obligate herbivores	T204	UMLS:C0562691
+27602302	722	727	China	T082	UMLS:C0008115
+27602302	743	749	Middle	T082	UMLS:C0017446
+27602302	754	784	Lower Yangtze River floodplain	T082	UMLS:C0017446
+27602302	836	847	marker gene	T017	UMLS:C0017337
+27602302	860	866	plants	T204	UMLS:C0032098
+27602302	878	883	geese	T204	UMLS:C0017225
+27602302	933	948	candidate genes	T017	UMLS:C0017337
+27602302	964	968	rbcL	T017	UMLS:C0017337
+27602302	970	975	rpoC1	T017	UMLS:C0017337
+27602302	977	981	rpoB	T017	UMLS:C0017337
+27602302	983	987	matK	T017	UMLS:C1334485
+27602302	989	998	trnH-psbA	T082	UMLS:C2936548
+27602302	1000	1004	trnL	T017	UMLS:C1421162
+27602302	1006	1009	UAA	T082	UMLS:C1956149
+27602302	1012	1021	atpF-atpH	T082	UMLS:C2936548
+27602302	1027	1036	psbK-psbI	T082	UMLS:C2936548
+27602302	1070	1078	analysis	T062	UMLS:C0936012
+27602302	1097	1106	sequences	T082	UMLS:C0162326
+27602302	1112	1116	NCBI	T092	UMLS:C1705803
+27602302	1135	1148	amplification	T038	UMLS:C0017256
+27602302	1184	1189	plant	T204	UMLS:C0032098
+27602302	1217	1231	wintering area	T082	UMLS:C0017446
+27602302	1237	1246	trnL gene	T017	UMLS:C1421162
+27602302	1271	1282	c/h primers	T103	UMLS:C0206416
+27602302	1290	1295	local	T082	UMLS:C0205276
+27602302	1296	1301	plant	T204	UMLS:C0032098
+27602302	1302	1319	reference library	T092	UMLS:C0023621
+27602302	1324	1335	constructed	T170	UMLS:C2827421
+27602302	1346	1350	gene	T017	UMLS:C0017337
+27602302	1368	1385	DNA metabarcoding	T062	UMLS:C2936547
+27602302	1404	1414	food items	T168	UMLS:C0016452
+27602302	1433	1438	feces	T031	UMLS:C0015733
+27602302	1448	1453	birds	T204	UMLS:C0005595
+27602302	1472	1479	dietary	T168	UMLS:C0012155
+27602302	1480	1489	sequences	T082	UMLS:C0162326
+27602302	1517	1523	specie	T170	UMLS:C1705920
+27602302	1538	1565	greater white-fronted goose	T204	UMLS:C1015285
+27602302	1574	1583	sequences	T082	UMLS:C0162326
+27602302	1596	1608	Poaceae spp.	T204	UMLS:C0018210
+27602302	1630	1639	Carex spp	T204	UMLS:C1000671
+27602302	1665	1674	sequences	T082	UMLS:C0162326
+27602302	1678	1688	bean goose	T204	UMLS:C1064115
+27602302	1701	1710	Carex spp	T204	UMLS:C1000671
+27602302	1743	1757	microhistology	T058	UMLS:C0019637
+27602302	1778	1794	food composition	T168	UMLS:C0459115
+27602302	1800	1813	metabarcoding	T062	UMLS:C2936547
+27602302	1826	1853	greater white-fronted goose	T204	UMLS:C1015285
+27602302	1868	1875	Poaceae	T204	UMLS:C0018210
+27602302	1894	1904	bean goose	T204	UMLS:C1064115
+27602302	1963	1987	microhistologic analysis	T058	UMLS:C0019637
+27602302	2075	2092	DNA metabarcoding	T062	UMLS:C2936547
+27602302	2139	2152	Discrepancies	T033	UMLS:C1290905
+27602302	2179	2182	PCR	T062	UMLS:C0032520
+27602302	2183	2196	amplification	T038	UMLS:C0017256
+27602302	2200	2213	metabarcoding	T062	UMLS:C2936547
+27602302	2251	2263	marker genes	T017	UMLS:C0017337
+27602302	2268	2276	monocots	T204	UMLS:C0331451
+27602302	2292	2316	microhistologic analysis	T058	UMLS:C0019637
+27602302	2322	2326	diet	T168	UMLS:C0012155
+27602302	2351	2356	geese	T204	UMLS:C0017225
+27602302	2357	2364	species	T170	UMLS:C1705920
+27602302	2436	2441	study	T062	UMLS:C2603343
+27602302	2461	2478	DNA metabarcoding	T062	UMLS:C2936547
+27602302	2509	2516	studies	T062	UMLS:C2603343
+27602302	2520	2531	herbivorous	T204	UMLS:C0562691
+27602302	2532	2541	waterbird	T204	UMLS:C0005595
+27602302	2542	2547	diets	T168	UMLS:C0012155
+27602302	2646	2656	herbivores	T204	UMLS:C0562691
+27602302	2661	2667	plants	T204	UMLS:C0032098
+27602302	2682	2706	microhistologic analysis	T058	UMLS:C0019637
+27602302	2736	2757	metabarcoding methods	T062	UMLS:C2936547

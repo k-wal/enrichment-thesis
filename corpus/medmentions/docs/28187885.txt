@@ -1,0 +1,134 @@
+28187885|t|Automated characterization and counting of Ki-67 protein for breast cancer prognosis: A quantitative immunohistochemistry approach
+28187885|a|Ki-67 protein expression plays an important role in predicting the proliferative status of tumour cell s and deciding the future course of therapy in breast cancer. Immunohistochemical (IHC) determination of Ki-67 score or labelling index, by estimating the fraction of Ki67 positively stained tumour cells, is the most widely practiced method to assess tumour proliferation (Dowsett et al. 2011). Accurate manual counting of these cells (specifically nuclei) due to complex and dense distribution of cells, therefore, becomes critical and presents a major challenge to pathologists. In this paper, we suggest a hybrid clustering algorithm to quantify the proliferative index of breast cancer cells based on automated counting of Ki-67 nuclei. The proposed methodology initially pre-processes the IHC images of Ki-67 stained slides of breast cancer. The RGB images are converted to grey, L*a*b*, HSI, YCbCr, YIQ and XYZ colour space. All the stained cells are then characterized by two stage segmentation process. Fuzzy C-means quantifies all the stained cells as one cluster. The blue channel of the first stage output is given as input to k-means algorithm, which provides separate cluster for Ki-67 positive and negative cells. The count of positive and negative nuclei is used to calculate the F-measure for each colour space. A comparative study of our work with the expert opinion is studied to evaluate the error rate. The positive and negative nuclei detection results for all colour space s are compared with the ground truth for validation and F-measure is calculated. The F-measure for L*a*b* colour space (0.8847) provides the best statistical result as compared to grey, HSI, YCbCr, YIQ and XYZ colour space. Further, a study is carried out to count nuclei manually and automatically from the proposed algorithm with an average error rate of 6.84% which is significant. The study provides an automated count of positive and negative nuclei using L*a*b* colour space and hybrid segmentation technique. Computerized evaluation of proliferation index can aid pathologist in assessing breast cancer severity. The proposed methodology, further, has the potential advantage of saving time and assisting in decision making over the present manual procedure and could evolve as an assistive pathological decision support system.
+28187885	0	9	Automated	T169	C0205554
+28187885	10	26	characterization	T052	C1880022
+28187885	31	39	counting	T081	C0750480
+28187885	43	56	Ki-67 protein	T116,T123	C0033684
+28187885	61	74	breast cancer	T191	C0006142
+28187885	75	84	prognosis	T058	C0033325
+28187885	88	100	quantitative	T081	C0392762
+28187885	101	121	immunohistochemistry	T060	C0021044
+28187885	122	130	approach	T082	C0449445
+28187885	131	144	Ki-67 protein	T116,T123	C0033684
+28187885	145	155	expression	T045	C1171362
+28187885	198	218	proliferative status	T081	C1514489
+28187885	222	233	tumour cell	T025	C0431085
+28187885	253	259	future	T079	C0016884
+28187885	260	266	course	T079	C0750729
+28187885	270	277	therapy	T061	C0087111
+28187885	281	294	breast cancer	T191	C0006142
+28187885	296	335	Immunohistochemical (IHC) determination	T060	C0021044
+28187885	339	350	Ki-67 score	T059	C4049944
+28187885	354	369	labelling index	T059	C0022885
+28187885	389	400	fraction of	T081	C1264633
+28187885	401	405	Ki67	T116,T123	C0033684
+28187885	406	416	positively	T033	C1446409
+28187885	417	424	stained	T080	C2986582
+28187885	425	437	tumour cells	T025	C0431085
+28187885	468	474	method	T060	C0430022
+28187885	478	484	assess	T058	C0184514
+28187885	485	491	tumour	T191	C0027651
+28187885	492	505	proliferation	T169	C1514485
+28187885	529	537	Accurate	T080	C0443131
+28187885	538	553	manual counting	T059	C1441639
+28187885	563	568	cells	T025	C0007634
+28187885	570	582	specifically	T080	C0205369
+28187885	583	589	nuclei	T026	C0007610
+28187885	598	605	complex	T080	C0439855
+28187885	610	615	dense	T080	C0439794
+28187885	616	628	distribution	T169	C1704711
+28187885	632	637	cells	T025	C0007634
+28187885	658	666	critical	T080	C1511545
+28187885	671	679	presents	T078	C0449450
+28187885	682	687	major	T080	C0205164
+28187885	701	713	pathologists	T097	C0334866
+28187885	743	770	hybrid clustering algorithm	T170	C0002045
+28187885	774	782	quantify	T081	C1709793
+28187885	787	806	proliferative index	T081	C1514489
+28187885	810	829	breast cancer cells	T025	C1512505
+28187885	839	857	automated counting	T059	C1441489
+28187885	861	866	Ki-67	T116,T123	C0033684
+28187885	867	873	nuclei	T026	C0007610
+28187885	888	899	methodology	T060	C0430022
+28187885	900	909	initially	T079	C0205265
+28187885	910	923	pre-processes	T067	C1522240
+28187885	928	931	IHC	T060	C0021044
+28187885	932	938	images	T170	C1704254
+28187885	942	947	Ki-67	T116,T123	C0033684
+28187885	948	955	stained	T080	C2986582
+28187885	956	962	slides	T075	C0444330
+28187885	966	979	breast cancer	T191	C0006142
+28187885	1013	1017	grey	T080	C1269776
+28187885	1051	1063	colour space	T170	C0876936
+28187885	1073	1080	stained	T080	C2986582
+28187885	1081	1086	cells	T025	C0007634
+28187885	1096	1109	characterized	T052	C1880022
+28187885	1113	1143	two stage segmentation process	T059	C0200768
+28187885	1145	1158	Fuzzy C-means	T170	C0002045
+28187885	1159	1169	quantifies	T081	C1709793
+28187885	1178	1185	stained	T080	C2986582
+28187885	1186	1191	cells	T025	C0007634
+28187885	1199	1206	cluster	T081	C1704332
+28187885	1212	1216	blue	T080	C1260957
+28187885	1217	1224	channel	T077	C1706095
+28187885	1232	1243	first stage	T185	C0441766
+28187885	1244	1250	output	T077	C1709366
+28187885	1272	1289	k-means algorithm	T062	C0009085
+28187885	1306	1314	separate	T080	C0443299
+28187885	1315	1322	cluster	T081	C1704332
+28187885	1327	1332	Ki-67	T116,T123	C0033684
+28187885	1333	1354	positive and negative	T033	C3842923
+28187885	1355	1360	cells	T025	C0007634
+28187885	1366	1371	count	T081	C0750480
+28187885	1375	1396	positive and negative	T033	C3842923
+28187885	1397	1403	nuclei	T026	C0007610
+28187885	1415	1424	calculate	T059	C1443182
+28187885	1429	1438	F-measure	T081	C0079809
+28187885	1448	1460	colour space	T170	C0876936
+28187885	1464	1481	comparative study	T062	C1579762
+28187885	1503	1517	expert opinion	T077	C0600219
+28187885	1545	1550	error	T080	C0743559
+28187885	1551	1555	rate	T081	C1521828
+28187885	1561	1582	positive and negative	T033	C3842923
+28187885	1583	1589	nuclei	T026	C0007610
+28187885	1590	1599	detection	T033	C0442726
+28187885	1600	1607	results	T169	C1274040
+28187885	1616	1628	colour space	T170	C0876936
+28187885	1635	1643	compared	T052	C1707455
+28187885	1685	1694	F-measure	T081	C0079809
+28187885	1698	1708	calculated	T059	C1443182
+28187885	1714	1723	F-measure	T081	C0079809
+28187885	1735	1747	colour space	T170	C0876936
+28187885	1775	1786	statistical	T081	C2828391
+28187885	1787	1793	result	T169	C1274040
+28187885	1797	1805	compared	T052	C1707455
+28187885	1809	1813	grey	T080	C1269776
+28187885	1839	1851	colour space	T170	C0876936
+28187885	1864	1869	study	T062	C2603343
+28187885	1888	1893	count	T081	C0750480
+28187885	1894	1900	nuclei	T026	C0007610
+28187885	1901	1909	manually	T059	C1441639
+28187885	1914	1927	automatically	T059	C1441489
+28187885	1946	1955	algorithm	T170	C0002045
+28187885	1964	1971	average	T081	C1510992
+28187885	1972	1977	error	T080	C0743559
+28187885	1978	1982	rate	T081	C1521828
+28187885	2001	2012	significant	T078	C0750502
+28187885	2018	2023	study	T062	C2603343
+28187885	2036	2045	automated	T169	C0205554
+28187885	2046	2051	count	T081	C0750480
+28187885	2055	2076	positive and negative	T033	C3842923
+28187885	2077	2083	nuclei	T026	C0007610
+28187885	2097	2109	colour space	T170	C0876936
+28187885	2114	2143	hybrid segmentation technique	T066	C2697664
+28187885	2145	2168	Computerized evaluation	T059	C1441489
+28187885	2172	2191	proliferation index	T081	C1514489
+28187885	2200	2211	pathologist	T097	C0334866
+28187885	2225	2238	breast cancer	T191	C0006142
+28187885	2239	2247	severity	T080	C0439793
+28187885	2262	2273	methodology	T060	C0430022
+28187885	2292	2301	potential	T080	C3245505
+28187885	2331	2340	assisting	T058	C0557034
+28187885	2377	2393	manual procedure	T059	C1441639
+28187885	2427	2439	pathological	T169	C1521733
+28187885	2440	2463	decision support system	T068	C0023678

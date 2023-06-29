@@ -1,0 +1,89 @@
+27470609|t|Treatment for Rheumatoid Arthritis and Risk of Alzheimer's Disease: A Nested Case-Control Analysis
+27470609|a|It is increasingly becoming accepted that inflammation may play an important role in the pathogenesis of Alzheimer's disease (AD), as several immune -related genes have been associated with AD. Among these is tumor necrosis factor (TNF)-α, a proinflammatory cytokine known to play an important role in autoimmune disorders, including rheumatoid arthritis (RA). Although AD and RA appear to involve similar pathological mechanisms through the production of TNF-α, the relationship between AD and RA remains unknown. To determine the relative risk of AD among RA patients and non- RA patients, and whether anti-TNF therapy for RA was associated with a lower risk of AD in RA patients. We performed a nested case-control study of more than 8.5 million commercially insured adults (aged ≥18 years) in all 50 US states, Puerto Rico, and US Virgin Islands in the Verisk Health claims database. We derived a sub-cohort of subjects with a diagnosis of RA (controls), or RA and AD (cases), matching cases and controls based on age, sex, exposure assessment period, and methotrexate treatment. We also assessed relative risk of AD following exposure to standard RA therapies, including anti-TNF agents (infliximab, adalimumab, etanercept), methotrexate, prednisone, sulfasalazine, and rituximab. Odds ratios were adjusted for comorbidities, including coronary artery disease, diabetes mellitus, and peripheral vascular disease. AD was more prevalent (p < 0.0001) among RA patients (0.79 %) than among those without RA (0.11 %). Chronic conditions such as coronary artery disease (odds ratio [OR] 1.48; 95 % confidence interval [CI] 1.04-2.05; p = 0.03), diabetes (OR 1.86; 95 % CI 1.32-2.62; p = 0.0004), and peripheral vascular disease (OR 1.61; 95 % CI 1.06-2.43; p = 0.02) significantly increased the relative risk of AD among RA patients. Exposure to anti-TNF agents as a class, but not other immunosuppressive drugs studied, was associated with lowered risk of AD among RA patients (unadjusted OR 0.44; 95 % CI 0.22-0.87; p = 0.02; adjusted OR 0.45; 95 % CI 0.23-0.90; p = 0.02). Sub-group analysis demonstrated that of the three anti-TNF agents studied, only etanercept (unadjusted OR, 0.33; 95 % CI 0.08-0.94; p = 0.03; adjusted OR 0.30; 95 % CI 0.08-0.89; p = 0.02) was associated with a decreased risk of AD in RA patients. There is an increased risk of AD in the studied RA population. The relative risk of AD among RA subjects was lowered in those exposed to etanercept. Anti-TNF therapy with etanercept shows promise as a potential treatment for AD.
+27470609	0	9	Treatment	T058	UMLS:C0087111
+27470609	14	34	Rheumatoid Arthritis	T038	UMLS:C0003873
+27470609	39	43	Risk	T033	UMLS:C1281905
+27470609	47	66	Alzheimer's Disease	T038	UMLS:C0002395
+27470609	70	98	Nested Case-Control Analysis	T062	UMLS:C0027775
+27470609	141	153	inflammation	T038	UMLS:C0021368
+27470609	188	200	pathogenesis	T038	UMLS:C0699748
+27470609	204	223	Alzheimer's disease	T038	UMLS:C0002395
+27470609	225	227	AD	T038	UMLS:C0002395
+27470609	241	247	immune	T022	UMLS:C0020962
+27470609	257	262	genes	T017	UMLS:C0017337
+27470609	289	291	AD	T038	UMLS:C0002395
+27470609	308	337	tumor necrosis factor (TNF)-α	T103	UMLS:C1456820
+27470609	341	365	proinflammatory cytokine	T103	UMLS:C0079189
+27470609	401	421	autoimmune disorders	T038	UMLS:C0004364
+27470609	433	453	rheumatoid arthritis	T038	UMLS:C0003873
+27470609	455	457	RA	T038	UMLS:C0003873
+27470609	469	471	AD	T038	UMLS:C0002395
+27470609	476	478	RA	T038	UMLS:C0003873
+27470609	505	528	pathological mechanisms	T038	UMLS:C0030660
+27470609	541	551	production	T038	UMLS:C0003261
+27470609	555	561	TNF-α,	T103	UMLS:C1456820
+27470609	587	589	AD	T038	UMLS:C0002395
+27470609	594	596	RA	T038	UMLS:C0003873
+27470609	648	650	AD	T038	UMLS:C0002395
+27470609	657	659	RA	T038	UMLS:C0003873
+27470609	678	680	RA	T038	UMLS:C0003873
+27470609	703	719	anti-TNF therapy	T058	UMLS:C0281481
+27470609	724	726	RA	T038	UMLS:C0003873
+27470609	755	759	risk	T033	UMLS:C1281905
+27470609	763	765	AD	T038	UMLS:C0002395
+27470609	769	771	RA	T038	UMLS:C0003873
+27470609	797	822	nested case-control study	T062	UMLS:C0027775
+27470609	903	912	US states	T082	UMLS:C0041703
+27470609	914	925	Puerto Rico	T082	UMLS:C0034044
+27470609	931	948	US Virgin Islands	T082	UMLS:C0042752
+27470609	956	985	Verisk Health claims database	T170	UMLS:C0242356
+27470609	1000	1010	sub-cohort	T098	UMLS:C0599755
+27470609	1030	1039	diagnosis	T033	UMLS:C0011900
+27470609	1043	1045	RA	T038	UMLS:C0003873
+27470609	1061	1063	RA	T038	UMLS:C0003873
+27470609	1068	1070	AD	T038	UMLS:C0002395
+27470609	1080	1088	matching	T062	UMLS:C0150103
+27470609	1191	1213	assessed relative risk	T058	UMLS:C0086930
+27470609	1217	1219	AD	T038	UMLS:C0002395
+27470609	1251	1253	RA	T038	UMLS:C0003873
+27470609	1254	1263	therapies	T058	UMLS:C0087111
+27470609	1275	1290	anti-TNF agents	T103	UMLS:C1562242
+27470609	1292	1302	infliximab	T103	UMLS:C0666743
+27470609	1304	1314	adalimumab	T103	UMLS:C1122087
+27470609	1316	1326	etanercept	T103	UMLS:C0717758
+27470609	1329	1341	methotrexate	T103	UMLS:C0025677
+27470609	1343	1353	prednisone	T103	UMLS:C0032952
+27470609	1355	1368	sulfasalazine	T103	UMLS:C0036078
+27470609	1374	1383	rituximab	T103	UMLS:C0393022
+27470609	1440	1463	coronary artery disease	T038	UMLS:C0010068
+27470609	1465	1482	diabetes mellitus	T038	UMLS:C0011849
+27470609	1488	1515	peripheral vascular disease	T038	UMLS:C0085096
+27470609	1517	1519	AD	T038	UMLS:C0002395
+27470609	1558	1560	RA	T038	UMLS:C0003873
+27470609	1604	1606	RA	T038	UMLS:C0003873
+27470609	1617	1635	Chronic conditions	T033	UMLS:C4315615
+27470609	1644	1667	coronary artery disease	T038	UMLS:C0010068
+27470609	1743	1751	diabetes	T038	UMLS:C0011847
+27470609	1798	1825	peripheral vascular disease	T038	UMLS:C0085096
+27470609	1910	1912	AD	T038	UMLS:C0002395
+27470609	1919	1921	RA	T038	UMLS:C0003873
+27470609	1944	1959	anti-TNF agents	T103	UMLS:C1562242
+27470609	1986	2009	immunosuppressive drugs	T103	UMLS:C0021081
+27470609	2047	2051	risk	T033	UMLS:C1281905
+27470609	2055	2057	AD	T038	UMLS:C0002395
+27470609	2064	2066	RA	T038	UMLS:C0003873
+27470609	2224	2239	anti-TNF agents	T103	UMLS:C1562242
+27470609	2254	2264	etanercept	T103	UMLS:C0717758
+27470609	2395	2399	risk	T033	UMLS:C1281905
+27470609	2403	2405	AD	T038	UMLS:C0002395
+27470609	2409	2411	RA	T038	UMLS:C0003873
+27470609	2444	2448	risk	T033	UMLS:C1281905
+27470609	2452	2454	AD	T038	UMLS:C0002395
+27470609	2470	2472	RA	T038	UMLS:C0003873
+27470609	2506	2508	AD	T038	UMLS:C0002395
+27470609	2515	2517	RA	T038	UMLS:C0003873
+27470609	2559	2569	etanercept	T103	UMLS:C0717758
+27470609	2571	2587	Anti-TNF therapy	T058	UMLS:C0281481
+27470609	2593	2603	etanercept	T103	UMLS:C0717758
+27470609	2633	2642	treatment	T058	UMLS:C0087111
+27470609	2647	2649	AD	T038	UMLS:C0002395

@@ -1,0 +1,114 @@
+27697751|t|MiR-495 functions as an adjuvant to radiation therapy by reducing the radiation-induced bystander effect
+27697751|a|The radiation-induced bystander effect (RIBE) is an important factor in tumor radiation therapy because it may increase the probability of normal cellular injury and the likelihood of secondary cancers after radiotherapy. Here, we identified the role of miR-495 in alleviating RIBEs during radiotherapy. Luciferase reporter assay results confirmed that miR-495 regulated endothelial nitric oxide synthase (eNOS) by targeting the Sp1 3'-untranslated region. Consequently, after radiation, tumor cells expressed less eNOS and Sp1 than controls. In vitro cell irradiation data based on flow-cytometric analysis and enzymed linked immunosorbent assay confirmed that nitric oxide (NO) and its downstream product transforming growth factor β1 (TGF-β1) were critical signaling factors contributing to RIBEs. Fewer normal LO2 liver cells were injured and fewer micronuclei were observed when treated with the medium of the miR-495 overexpressing HepG2 and ZR75-1 tumor cells. Accordingly, treatment with the miR-495 antagomir led to higher NO and TGF-β1 levels and more injured LO2 cells. In vivo experiments indicated that local irradiation of tumors overexpressing miR-495 produced fewer necrotic foci in non-irradiated liver tissue compared with controls. miR-495 was upregulated in clinical cancer tissues compared with adjacent non-cancerous tissues, and radiation significantly reduced the expression level of miR-495 in carcinoma cell lines. In summary, miR-495 may have promise as an adjuvant for tumor radiation therapy to decrease RIBEs involving the Sp1 / eNOS pathway.
+27697751	0	7	MiR-495	T028	C1826049
+27697751	8	17	functions	T045	C0314627
+27697751	24	32	adjuvant	T169	C1522673
+27697751	36	53	radiation therapy	T061	C1522449
+27697751	57	65	reducing	T080	C0392756
+27697751	70	104	radiation-induced bystander effect	T043	C0949629
+27697751	109	143	radiation-induced bystander effect	T043	C0949629
+27697751	145	149	RIBE	T043	C0949629
+27697751	157	166	important	T080	C3898777
+27697751	167	173	factor	T169	C1521761
+27697751	177	182	tumor	T191	C0027651
+27697751	183	200	radiation therapy	T061	C1522449
+27697751	216	224	increase	T169	C0442805
+27697751	229	240	probability	T081	C0033204
+27697751	244	266	normal cellular injury	T049	C0599732
+27697751	275	285	likelihood	T081	C0033204
+27697751	289	306	secondary cancers	T191	C0027627
+27697751	313	325	radiotherapy	T061	C1522449
+27697751	336	346	identified	T080	C0205396
+27697751	351	355	role	T077	C1705810
+27697751	359	366	miR-495	T028	C1826049
+27697751	382	387	RIBEs	T043	C0949629
+27697751	395	407	radiotherapy	T061	C1522449
+27697751	409	434	Luciferase reporter assay	T059	C0005507
+27697751	435	442	results	T034	C1254595
+27697751	443	452	confirmed	T033	C0750484
+27697751	458	465	miR-495	T028	C1826049
+27697751	476	509	endothelial nitric oxide synthase	T116,T126	C0669365
+27697751	511	515	eNOS	T116,T126	C0669365
+27697751	520	529	targeting	T169	C1521840
+27697751	534	537	Sp1	T116,T123	C0080245
+27697751	538	560	3'-untranslated region	T086,T123	C0600600
+27697751	582	591	radiation	T070	C0851346
+27697751	593	604	tumor cells	T025	C0597032
+27697751	605	614	expressed	T045	C1171362
+27697751	620	624	eNOS	T116,T126	C0669365
+27697751	629	632	Sp1	T116,T123	C0080245
+27697751	638	646	controls	T096	C0009932
+27697751	648	656	In vitro	T080	C1533691
+27697751	657	678	cell irradiation data	T078	C1511726
+27697751	688	712	flow-cytometric analysis	T062	C0936012
+27697751	717	751	enzymed linked immunosorbent assay	T059	C0014441
+27697751	752	761	confirmed	T033	C0750484
+27697751	767	779	nitric oxide	T121,T123,T197	C0028128
+27697751	781	783	NO	T121,T123,T197	C0028128
+27697751	793	803	downstream	T082	C0522506
+27697751	804	811	product	T071	C1514468
+27697751	812	841	transforming growth factor β1	T116,T121,T123	C1704256
+27697751	843	849	TGF-β1	T116,T121,T123	C1704256
+27697751	856	864	critical	T080	C1511545
+27697751	865	874	signaling	T038	C3537152
+27697751	875	882	factors	T169	C1521761
+27697751	883	895	contributing	T052	C1880177
+27697751	899	904	RIBEs	T043	C0949629
+27697751	906	911	Fewer	T081	C0205388
+27697751	919	934	LO2 liver cells	T025	C0227525
+27697751	940	947	injured	T169	C0332664
+27697751	952	957	fewer	T081	C0205388
+27697751	958	969	micronuclei	T033	C0026004
+27697751	975	983	observed	T169	C1441672
+27697751	989	996	treated	T169	C1522326
+27697751	1006	1012	medium	T167	C1705217
+27697751	1020	1027	miR-495	T028	C1826049
+27697751	1028	1042	overexpressing	T045	C0017262
+27697751	1043	1048	HepG2	T025	C2717940
+27697751	1053	1059	ZR75-1	T025	C0007634
+27697751	1060	1071	tumor cells	T025	C0597032
+27697751	1086	1095	treatment	T061	C0087111
+27697751	1105	1112	miR-495	T028	C1826049
+27697751	1113	1122	antagomir	T114	C4277666
+27697751	1130	1136	higher	T080	C0205250
+27697751	1137	1139	NO	T121,T123,T197	C0028128
+27697751	1144	1150	TGF-β1	T116,T121,T123	C1704256
+27697751	1151	1157	levels	T080	C0441889
+27697751	1167	1174	injured	T169	C0332664
+27697751	1175	1184	LO2 cells	T025	C0227525
+27697751	1186	1193	In vivo	T082	C1515655
+27697751	1194	1205	experiments	T062	C0681814
+27697751	1206	1215	indicated	T033	C1444656
+27697751	1221	1238	local irradiation	T070	C0851346
+27697751	1242	1248	tumors	T191	C0027651
+27697751	1249	1263	overexpressing	T045	C0017262
+27697751	1264	1271	miR-495	T028	C1826049
+27697751	1281	1286	fewer	T081	C0205388
+27697751	1287	1300	necrotic foci	T046	C0333504
+27697751	1304	1331	non-irradiated liver tissue	T023	C0736268
+27697751	1332	1340	compared	T052	C1707455
+27697751	1346	1354	controls	T096	C0009932
+27697751	1356	1363	miR-495	T028	C1826049
+27697751	1368	1379	upregulated	T044	C0041904
+27697751	1383	1391	clinical	T080	C0205210
+27697751	1392	1398	cancer	T191	C0006826
+27697751	1399	1406	tissues	T024	C0040300
+27697751	1407	1415	compared	T052	C1707455
+27697751	1421	1429	adjacent	T082	C0205117
+27697751	1430	1451	non-cancerous tissues	T024	C0040300
+27697751	1457	1466	radiation	T070	C0851346
+27697751	1467	1488	significantly reduced	T080	C0392756
+27697751	1493	1509	expression level	T081	C3244092
+27697751	1513	1520	miR-495	T028	C1826049
+27697751	1524	1544	carcinoma cell lines	T025	C0596890
+27697751	1549	1556	summary	T170	C1706244
+27697751	1558	1565	miR-495	T028	C1826049
+27697751	1575	1582	promise	T078	C1555307
+27697751	1589	1597	adjuvant	T169	C1522673
+27697751	1602	1607	tumor	T191	C0027651
+27697751	1608	1625	radiation therapy	T061	C1522449
+27697751	1629	1637	decrease	T081	C0547047
+27697751	1638	1643	RIBEs	T043	C0949629
+27697751	1658	1661	Sp1	T116,T123	C0080245
+27697751	1664	1668	eNOS	T116,T126	C0669365
+27697751	1669	1676	pathway	T044	C1704259

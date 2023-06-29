@@ -1,0 +1,104 @@
+28223128|t|A screening assay for the identification of host cell requirements and antiviral targets for hepatitis D virus infection
+28223128|a|Hepatitis delta virus (HDV) is a minimalistic satellite virus of hepatitis B virus (HBV). HBV / HDV co-infection, i.e. " hepatitis D ", is the most severe form of viral hepatitis. No effective therapy for HDV infection is available partly due to the fact that HDV is a highly host - dependent virus devoid of any potentially drugable enzyme encoded in its small genome. In this study we present a semi-automated method to evaluate HDV infection and replication under the influence of different drugs. We utilized a Huh-7/hNTCP cell culture based system in a 96- well plate format, an automated microscope and image acquisition as well as analysis with the CellProfiler software to quantify the impact of these drugs on HDV infection. For validation, three groups of potential anti-HDV agents were evaluated: To target ribozyme activity of HDV RNA, we screened ribozyme inhibitors but only observed marked toxicity. Testing innate antiviral mediators showed that interferons alpha-2a and beta-1a had a specific inhibitory effect on HDV infection. Finally, we screened a library of 160 human kinase inhibitors covering all parts of the human kinome. Overall, only inhibitors targeting the tyrosine kinase-like group had significant average anti-HDV activity. Looking at individual substances, kenpaullone, a GSK-3β and Cdk inhibitor, had the highest selective index of 3.44. Thus, we provide a potentially useful tool to screen for substances with anti-HDV activity and novel insights into interactions between HDV replication and the human kinome.
+28223128	2	11	screening	T059	C0373483
+28223128	12	17	assay	T059	C1510438
+28223128	26	40	identification	T080	C0205396
+28223128	44	53	host cell	T026	C1819995
+28223128	54	66	requirements	T169	C1514873
+28223128	71	88	antiviral targets	T121	C0003451
+28223128	93	120	hepatitis D virus infection	T047	C0011226
+28223128	121	142	Hepatitis delta virus	T005	C0011220
+28223128	144	147	HDV	T005	C0011220
+28223128	154	182	minimalistic satellite virus	T005	C0036238
+28223128	186	203	hepatitis B virus	T005	C0019169
+28223128	205	208	HBV	T005	C0019169
+28223128	217	220	HDV	T005	C0011220
+28223128	221	233	co-infection	T047	C0275524
+28223128	242	253	hepatitis D	T047	C0011226
+28223128	269	275	severe	T080	C0205082
+28223128	284	299	viral hepatitis	T047	C0042721
+28223128	301	303	No	T169	C1518422
+28223128	304	313	effective	T080	C1704419
+28223128	314	321	therapy	T061	C0087111
+28223128	326	339	HDV infection	T047	C0011226
+28223128	381	384	HDV	T005	C0011220
+28223128	390	396	highly	T080	C0205250
+28223128	397	401	host	T001	C1167395
+28223128	404	413	dependent	T080	C0851827
+28223128	414	419	virus	T005	C0042776
+28223128	434	445	potentially	T080	C3245505
+28223128	446	461	drugable enzyme	T116,T126	C0014442
+28223128	462	469	encoded	T052	C2700640
+28223128	483	489	genome	T028	C0017428
+28223128	499	504	study	T062	C2603343
+28223128	518	539	semi-automated method	T170	C0025663
+28223128	543	551	evaluate	T058	C0220825
+28223128	552	565	HDV infection	T047	C0011226
+28223128	570	581	replication	T043	C0042774
+28223128	592	601	influence	T077	C4054723
+28223128	615	620	drugs	T121	C1254351
+28223128	636	660	Huh-7/hNTCP cell culture	T025	C0007600
+28223128	667	673	system	T169	C0449913
+28223128	683	700	well plate format	T082	C4283957
+28223128	705	714	automated	T169	C0205554
+28223128	715	725	microscope	T074	C0181839
+28223128	730	747	image acquisition	T066	C1708464
+28223128	759	767	analysis	T062	C0936012
+28223128	777	798	CellProfiler software	T170	C0037589
+28223128	802	810	quantify	T081	C1709793
+28223128	815	821	impact	T080	C4049986
+28223128	831	836	drugs	T121	C1254351
+28223128	840	853	HDV infection	T047	C0011226
+28223128	859	869	validation	T062	C1519941
+28223128	877	883	groups	T078	C0441833
+28223128	887	896	potential	T080	C3245505
+28223128	897	912	anti-HDV agents	T121	C0003451
+28223128	918	927	evaluated	T058	C0220825
+28223128	932	938	target	T169	C1521840
+28223128	939	947	ribozyme	T114,T116,T126	C0080125
+28223128	948	956	activity	T044	C0243102
+28223128	960	967	HDV RNA	T114,T123	C0486926
+28223128	972	980	screened	T059	C0373483
+28223128	981	989	ribozyme	T114,T116,T126	C0080125
+28223128	990	1000	inhibitors	T121	C0014432
+28223128	1010	1018	observed	T169	C1441672
+28223128	1019	1025	marked	T080	C1706089
+28223128	1026	1034	toxicity	T080	C0040539
+28223128	1036	1043	Testing	T169	C0039593
+28223128	1044	1050	innate	T032	C0020969
+28223128	1051	1060	antiviral	T040	C1155328
+28223128	1061	1070	mediators	T129	C0301974
+28223128	1083	1103	interferons alpha-2a	T116,T121,T129	C0021734
+28223128	1108	1115	beta-1a	T116,T121,T129	C0254119
+28223128	1122	1130	specific	T080	C0205369
+28223128	1131	1141	inhibitory	T052	C3463820
+28223128	1142	1148	effect	T080	C1280500
+28223128	1152	1165	HDV infection	T047	C0011226
+28223128	1179	1187	screened	T059	C0373483
+28223128	1190	1197	library	T073,T092	C0023621
+28223128	1205	1210	human	T016	C0086418
+28223128	1211	1228	kinase inhibitors	T116,T121	C3537035
+28223128	1255	1260	human	T016	C0086418
+28223128	1261	1267	kinome	T185	C3829378
+28223128	1283	1293	inhibitors	T121	C0014432
+28223128	1294	1303	targeting	T169	C1521840
+28223128	1308	1334	tyrosine kinase-like group	T116,T126	C0033640
+28223128	1351	1358	average	T081	C1510992
+28223128	1359	1376	anti-HDV activity	T040	C1155328
+28223128	1400	1410	substances	T121	C1254351
+28223128	1412	1423	kenpaullone	T109,T121	C0768461
+28223128	1427	1433	GSK-3β	T116,T126	C0244988
+28223128	1438	1451	Cdk inhibitor	T121	C1511576
+28223128	1469	1484	selective index	T170	C0918012
+28223128	1513	1524	potentially	T080	C3245505
+28223128	1532	1536	tool	T170	C0025663
+28223128	1540	1546	screen	T058	C0220908
+28223128	1551	1561	substances	T121	C1254351
+28223128	1567	1584	anti-HDV activity	T040	C1155328
+28223128	1589	1594	novel	T080	C0205314
+28223128	1595	1603	insights	T041	C0233820
+28223128	1609	1621	interactions	T169	C1704675
+28223128	1630	1633	HDV	T005	C0011220
+28223128	1634	1645	replication	T043	C0042774
+28223128	1654	1659	human	T016	C0086418
+28223128	1660	1666	kinome	T185	C3829378

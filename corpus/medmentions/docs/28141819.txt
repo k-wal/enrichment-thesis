@@ -1,0 +1,65 @@
+28141819|t|Graph-theoretical model of global human interactome reveals enhanced long-range communicability in cancer networks
+28141819|a|Malignant transformation is known to involve substantial rearrangement of the molecular genetic landscape of the cell. A common approach to analysis of these alterations is a reductionist one and consists of finding a compact set of differentially expressed genes or associated signaling pathways. However, due to intrinsic tumor heterogeneity and tissue specificity, biomarkers defined by a small number of genes / pathways exhibit substantial variability. As an alternative to compact differential signatures, global features of genetic cell machinery are conceivable. Global network descriptors suggested in previous works are, however, known to potentially be biased by overrepresentation of interactions between frequently studied genes - proteins. Here, we construct a cellular network of 74538 directional and differential gene expression weighted protein-protein and gene regulatory interactions, and perform graph-theoretical analysis of global human interactome using a novel, degree-independent feature-the normalized total communicability (NTC). We apply this framework to assess differences in total information flow between different cancer (BRCA / COAD / GBM) and non-cancer interactomes. Our experimental results reveal that different cancer interactomes are characterized by significant enhancement of long-range NTC, which arises from circulation of information flow within robustly organized gene subnetworks. Although enhancement of NTC emerges in different cancer types from different genomic profiles, we identified a subset of 90 common genes that are related to elevated NTC in all studied tumors. Our ontological analysis shows that these genes are associated with enhanced cell division, DNA replication, stress response, and other cellular functions and processes typically upregulated in cancer. We conclude that enhancement of long-range NTC manifested in the correlated activity of genes whose tight coordination is required for survival and proliferation of all tumor cells, and, thus, can be seen as a graph-theoretical equivalent to some hallmarks of cancer. The computational framework for differential network analysis presented herein is of potential interest for a wide range of network perturbation problems given by single or multiple gene-protein activation-inhibition.
+28141819	0	23	Graph-theoretical model	T170	C0026350
+28141819	34	51	human interactome	T044	C0872079
+28141819	99	114	cancer networks	T093	C1516199
+28141819	115	139	Malignant transformation	T191	C1608408
+28141819	172	210	rearrangement of the molecular genetic	T045	C0017287
+28141819	211	232	landscape of the cell	T082	C0870781
+28141819	255	306	analysis of these alterations is a reductionist one	UnknownType	C0678931
+28141819	363	378	expressed genes	T028	C0017337
+28141819	393	411	signaling pathways	T044	C0037080
+28141819	429	458	intrinsic tumor heterogeneity	T032	C0242960
+28141819	463	481	tissue specificity	T042	C2713393
+28141819	483	493	biomarkers	T123	C0041366
+28141819	523	528	genes	T028	C0017337
+28141819	531	539	pathways	T044	C1704259
+28141819	548	571	substantial variability	T077	C2827666
+28141819	594	625	compact differential signatures	T201	C1513392
+28141819	627	668	global features of genetic cell machinery	T034	C1292417
+28141819	686	712	Global network descriptors	T170	C0282354
+28141819	779	785	biased	T078	C0242568
+28141819	789	823	overrepresentation of interactions	T052	C1882932
+28141819	851	856	genes	T028	C0017337
+28141819	859	867	proteins	T116,T123	C0033684
+28141819	890	906	cellular network	T044	C1720950
+28141819	945	960	gene expression	T045	C0017262
+28141819	970	985	protein-protein	T044	C0872079
+28141819	990	1018	gene regulatory interactions	T045	C0596610
+28141819	1032	1058	graph-theoretical analysis	T062,T170	C0039778
+28141819	1062	1086	global human interactome	T044	C0872079
+28141819	1133	1165	normalized total communicability	T075	C0026336
+28141819	1167	1170	NTC	T075	C0026336
+28141819	1187	1206	framework to assess	T075	C0026336
+28141819	1263	1269	cancer	T191	C0006826
+28141819	1271	1275	BRCA	T191	C0853879
+28141819	1278	1282	COAD	T191	C0338106
+28141819	1285	1288	GBM	T191	C0017636
+28141819	1294	1317	non-cancer interactomes	T044	C1148560
+28141819	1366	1385	cancer interactomes	T045	C0596610
+28141819	1445	1448	NTC	T075	C0026336
+28141819	1526	1542	gene subnetworks	T044	C1720950
+28141819	1568	1571	NTC	T075	C0026336
+28141819	1593	1605	cancer types	T033	C0872066
+28141819	1621	1637	genomic profiles	T059	C2986505
+28141819	1675	1680	genes	T028	C0017337
+28141819	1710	1713	NTC	T075	C0026336
+28141819	1729	1735	tumors	T191	C0027651
+28141819	1741	1752	ontological	T090	C1518584
+28141819	1753	1761	analysis	T062	C0936012
+28141819	1779	1784	genes	T028	C0017337
+28141819	1805	1827	enhanced cell division	T043	C0007590
+28141819	1829	1844	DNA replication	T045	C0598312
+28141819	1846	1861	stress response	T039	C0149784
+28141819	1873	1905	cellular functions and processes	T043	C0007613
+28141819	1916	1937	upregulated in cancer	T044	C0041904
+28141819	1982	1985	NTC	T075	C0026336
+28141819	2015	2032	activity of genes	T045	C0314627
+28141819	2074	2082	survival	T043	C0007620
+28141819	2087	2119	proliferation of all tumor cells	T043	C0596290
+28141819	2149	2166	graph-theoretical	T062,T170	C0039778
+28141819	2186	2205	hallmarks of cancer	T025	C1512330
+28141819	2211	2234	computational framework	T170	C0282574
+28141819	2239	2268	differential network analysis	T062	C0936012
+28141819	2339	2351	perturbation	T169	C0332453
+28141819	2389	2423	gene-protein activation-inhibition	T045	C0017263

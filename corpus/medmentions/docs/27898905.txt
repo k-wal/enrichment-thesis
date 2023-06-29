@@ -1,0 +1,156 @@
+27898905|t|Opportunities for genomic prediction for fertility using endocrine and classical fertility traits in dairy cattle
+27898905|a|Endocrine fertility traits, defined from progesterone concentration levels in milk, have been suggested as alternative indicators for fertility in dairy cows because they are less biased by farm management decisions and more directly reflect a cow 's reproductive physiology than classical traits derived from insemination and calving data. To determine the potential use of endocrine fertility traits in genomic evaluations, the improvement in accuracy from using endocrine fertility traits concurrent with classical traits in the genomic prediction of fertility was quantified. The impact of recording all traits on all training animals was also investigated. Endocrine and classical fertility records were available on 5,339 lactations from 2,447 Holstein cows in Ireland, the Netherlands, Sweden, and the United Kingdom. The endocrine traits were commencement of luteal activity (C-LA) and proportion of samples with luteal activity (PLA); the classical trait was the interval from calving to first service (CFS). The interval from C-LA to first service (C-LAFS), which is a combination of an endocrine trait and a classical trait, was also investigated. The target (breeding goal) trait for fertility was CFS or C-LAFS, whereas C-LA and PLA served as predictor traits. Genomic EBV (GEBV) for fertility were derived using genomic BLUP in bivariate models with 85,485 SNP. Genomic EBV for the separate fertility traits were also computed, in univariate models. The accuracy of GEBV was evaluated by 5-fold cross-validation. The highest accuracy of GEBV was achieved using bivariate predictions, where both an endocrine fertility trait and the classical fertility trait were used. Accuracy of GEBV for predicting adjusted phenotypes for CFS in the univariate model was 0.04, but when predicting CFS using a bivariate model with C-LA, the accuracy increased to 0.14 when all training animals were phenotyped for C-LA and (or not) for CFS. On phenotyping all training animals for both C-LA and CFS, accuracy for CFS increased to 0.18; however, when validation animals were also phenotyped for C-LA, there was no substantial increase in accuracy. When predicting CFS in bivariate analysis with PLA, accuracy ranged from 0.07 to 0.14. This first study on genomic predictions for fertility using endocrine traits suggests some improvement in the accuracy of prediction over using only the classical traits. Further studies with larger training populations may show greater improvements.
+27898905	0	13	Opportunities	T062	C0683937
+27898905	18	25	genomic	T028	C0017428
+27898905	26	36	prediction	T078	C0681842
+27898905	41	50	fertility	T040	C0015895
+27898905	57	66	endocrine	T022	C0014136
+27898905	71	80	classical	T169	C0443177
+27898905	81	90	fertility	T040	C0015895
+27898905	91	97	traits	T032	C0599883
+27898905	101	113	dairy cattle	T015	C0007452
+27898905	114	123	Endocrine	T022	C0014136
+27898905	124	133	fertility	T040	C0015895
+27898905	134	140	traits	T032	C0599883
+27898905	155	167	progesterone	T109,T121,T125	C0033308
+27898905	168	181	concentration	T081	C1446561
+27898905	182	188	levels	T080	C0441889
+27898905	192	196	milk	T031	C0026131
+27898905	221	232	alternative	T077	C1523987
+27898905	233	243	indicators	T169	C1522602
+27898905	248	257	fertility	T040	C0015895
+27898905	261	271	dairy cows	T015	C0007452
+27898905	304	308	farm	T082	C0557759
+27898905	309	319	management	T057	C1273870
+27898905	320	329	decisions	T041	C0679006
+27898905	358	361	cow	T015	C0007452
+27898905	365	377	reproductive	T040	C0035150
+27898905	378	388	physiology	T039	C0031843
+27898905	394	403	classical	T169	C0443177
+27898905	404	410	traits	T032	C0599883
+27898905	424	436	insemination	T042	C0021586
+27898905	449	453	data	T078	C1511726
+27898905	482	488	use of	T169	C1524063
+27898905	489	498	endocrine	T022	C0014136
+27898905	499	508	fertility	T040	C0015895
+27898905	509	515	traits	T032	C0599883
+27898905	519	526	genomic	T028	C0017428
+27898905	527	538	evaluations	T062	C0015195
+27898905	544	555	improvement	T077	C2986411
+27898905	559	567	accuracy	T080	C0443131
+27898905	579	588	endocrine	T022	C0014136
+27898905	589	598	fertility	T040	C0015895
+27898905	599	605	traits	T032	C0599883
+27898905	606	616	concurrent	T079	C0205420
+27898905	622	631	classical	T169	C0443177
+27898905	632	638	traits	T032	C0599883
+27898905	646	653	genomic	T028	C0017428
+27898905	654	664	prediction	T078	C0681842
+27898905	668	677	fertility	T040	C0015895
+27898905	682	692	quantified	T081	C1709793
+27898905	698	704	impact	T080	C4049986
+27898905	722	728	traits	T032	C0599883
+27898905	745	752	animals	T008	C0003062
+27898905	762	774	investigated	T169	C1292732
+27898905	776	785	Endocrine	T022	C0014136
+27898905	790	799	classical	T169	C0443177
+27898905	800	809	fertility	T040	C0015895
+27898905	842	852	lactations	T042	C0022925
+27898905	864	877	Holstein cows	T015	C0324069
+27898905	881	888	Ireland	T083	C0022067
+27898905	894	905	Netherlands	T083	C0027778
+27898905	907	913	Sweden	T083	C0038995
+27898905	923	937	United Kingdom	T083	C0041700
+27898905	943	952	endocrine	T022	C0014136
+27898905	953	959	traits	T032	C0599883
+27898905	965	996	commencement of luteal activity	T042	C1254358
+27898905	998	1002	C-LA	T042	C1254358
+27898905	1008	1018	proportion	T081	C1709707
+27898905	1022	1029	samples	T167	C0370003
+27898905	1035	1050	luteal activity	T042	C1254358
+27898905	1052	1055	PLA	T167	C0370003
+27898905	1062	1071	classical	T169	C0443177
+27898905	1072	1077	trait	T032	C0599883
+27898905	1086	1094	interval	T079	C1272706
+27898905	1136	1144	interval	T079	C1272706
+27898905	1150	1154	C-LA	T042	C1254358
+27898905	1211	1220	endocrine	T022	C0014136
+27898905	1221	1226	trait	T032	C0599883
+27898905	1233	1242	classical	T169	C0443177
+27898905	1243	1248	trait	T032	C0599883
+27898905	1259	1271	investigated	T169	C1292732
+27898905	1277	1283	target	T169	C1521840
+27898905	1285	1298	breeding goal	T169	C1521840
+27898905	1300	1305	trait	T032	C0599883
+27898905	1310	1319	fertility	T040	C0015895
+27898905	1347	1351	C-LA	T042	C1254358
+27898905	1356	1359	PLA	T167	C0370003
+27898905	1370	1379	predictor	T078	C2698872
+27898905	1380	1386	traits	T032	C0599883
+27898905	1388	1399	Genomic EBV	T028	C0017428
+27898905	1401	1405	GEBV	T028	C0017428
+27898905	1411	1420	fertility	T040	C0015895
+27898905	1440	1452	genomic BLUP	T062	C1710191
+27898905	1456	1472	bivariate models	T075	C0026336
+27898905	1485	1488	SNP	T086	C0752046
+27898905	1519	1528	fertility	T040	C0015895
+27898905	1529	1535	traits	T032	C0599883
+27898905	1559	1576	univariate models	T075	C0026336
+27898905	1582	1590	accuracy	T080	C0443131
+27898905	1594	1598	GEBV	T028	C0017428
+27898905	1623	1639	cross-validation	T062	C0681935
+27898905	1653	1661	accuracy	T080	C0443131
+27898905	1665	1669	GEBV	T028	C0017428
+27898905	1689	1698	bivariate	UnknownType	C0681927
+27898905	1699	1710	predictions	T078	C0681842
+27898905	1726	1735	endocrine	T022	C0014136
+27898905	1736	1745	fertility	T040	C0015895
+27898905	1746	1751	trait	T032	C0599883
+27898905	1760	1769	classical	T169	C0443177
+27898905	1770	1779	fertility	T040	C0015895
+27898905	1780	1785	trait	T032	C0599883
+27898905	1797	1805	Accuracy	T080	C0443131
+27898905	1809	1813	GEBV	T028	C0017428
+27898905	1818	1828	predicting	T078	C0681842
+27898905	1838	1848	phenotypes	T032	C0031437
+27898905	1864	1880	univariate model	T075	C0026336
+27898905	1900	1910	predicting	T078	C0681842
+27898905	1923	1938	bivariate model	T075	C0026336
+27898905	1944	1948	C-LA	T042	C1254358
+27898905	1954	1962	accuracy	T080	C0443131
+27898905	1963	1972	increased	T081	C0205217
+27898905	1990	2006	training animals	T008	C0003062
+27898905	2012	2022	phenotyped	T032	C0031437
+27898905	2027	2031	C-LA	T042	C1254358
+27898905	2057	2068	phenotyping	T032	C0031437
+27898905	2073	2089	training animals	T008	C0003062
+27898905	2099	2103	C-LA	T042	C1254358
+27898905	2113	2121	accuracy	T080	C0443131
+27898905	2130	2139	increased	T081	C0205217
+27898905	2163	2173	validation	T062	C1519941
+27898905	2174	2181	animals	T008	C0003062
+27898905	2192	2202	phenotyped	T032	C0031437
+27898905	2207	2211	C-LA	T042	C1254358
+27898905	2223	2225	no	T033	C1513916
+27898905	2226	2246	substantial increase	T169	C0442805
+27898905	2250	2258	accuracy	T080	C0443131
+27898905	2265	2275	predicting	T078	C0681842
+27898905	2283	2301	bivariate analysis	UnknownType	C0681927
+27898905	2307	2310	PLA	T167	C0370003
+27898905	2312	2320	accuracy	T080	C0443131
+27898905	2358	2363	study	T062	C2603343
+27898905	2367	2374	genomic	T028	C0017428
+27898905	2375	2386	predictions	T078	C0681842
+27898905	2391	2400	fertility	T040	C0015895
+27898905	2407	2416	endocrine	T022	C0014136
+27898905	2417	2423	traits	T032	C0599883
+27898905	2438	2449	improvement	T077	C2986411
+27898905	2457	2465	accuracy	T080	C0443131
+27898905	2469	2479	prediction	T078	C0681842
+27898905	2500	2509	classical	T169	C0443177
+27898905	2510	2516	traits	T032	C0599883
+27898905	2526	2533	studies	T062	C2603343
+27898905	2539	2545	larger	T081	C0549177
+27898905	2546	2566	training populations	T098	C1257890
+27898905	2576	2583	greater	T081	C1704243
+27898905	2584	2596	improvements	T077	C2986411

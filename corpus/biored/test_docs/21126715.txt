@@ -1,0 +1,34 @@
+21126715|t|A Taiwanese boy with congenital generalized lipodystrophy caused by homozygous Ile262fs mutation in the BSCL2 gene.
+21126715|a|Congenital generalized lipodystrophy (CGL) is a rare autosomal recessive disease that is characterized by a near-complete absence of adipose tissue from birth or early infancy. Mutations in the BSCL2 gene are known to result in CGL2, a more severe phenotype than CGL1, with earlier onset, more extensive fat loss and biochemical changes, more severe intellectual impairment, and more severe cardiomyopathy. We report a 3-month-old Taiwanese boy with initial presentation of a lack of subcutaneous fat, prominent musculature, generalized eruptive xanthomas, and extreme hypertriglyceridemia. Absence of mechanical adipose tissue in the orbits and scalp was revealed by head magnetic resonance imaging. Hepatomegaly was noticed, and histological examination of a liver biopsy specimen suggested severe hepatic steatosis and periportal necrosis. However, echocardiography indicated no sign of cardiomyopathy and he showed no distinct intellectual impairment that interfered with daily life. About 1 year later, abdominal computed tomography revealed enlargement of kidneys. He had a homozygous insertion of a nucleotide, 783insG (Ile262fs mutation), in exon 7 of the BSCL2 gene. We reviewed the genotype of CGL cases from Japan, India, China and Taiwan, and found that BSCL2 is a major causative gene for CGL in Asian.
+21126715	21	57	congenital generalized lipodystrophy	DiseaseOrPhenotypicFeature	D052497
+21126715	79	87	Ile262fs	SequenceVariant	p|FS|I|262||
+21126715	104	109	BSCL2	GeneOrGeneProduct	26580
+21126715	116	152	Congenital generalized lipodystrophy	DiseaseOrPhenotypicFeature	D052497
+21126715	154	157	CGL	DiseaseOrPhenotypicFeature	D052497
+21126715	169	196	autosomal recessive disease	DiseaseOrPhenotypicFeature	D030342
+21126715	310	315	BSCL2	GeneOrGeneProduct	26580
+21126715	344	348	CGL2	DiseaseOrPhenotypicFeature	D052497
+21126715	379	383	CGL1	DiseaseOrPhenotypicFeature	D052497
+21126715	466	489	intellectual impairment	DiseaseOrPhenotypicFeature	D008607
+21126715	507	521	cardiomyopathy	DiseaseOrPhenotypicFeature	D009202
+21126715	653	671	eruptive xanthomas	DiseaseOrPhenotypicFeature	D014973
+21126715	685	705	hypertriglyceridemia	DiseaseOrPhenotypicFeature	D015228
+21126715	817	829	Hepatomegaly	DiseaseOrPhenotypicFeature	D006529
+21126715	916	933	hepatic steatosis	DiseaseOrPhenotypicFeature	D005234
+21126715	949	957	necrosis	DiseaseOrPhenotypicFeature	D009336
+21126715	1006	1020	cardiomyopathy	DiseaseOrPhenotypicFeature	D009202
+21126715	1047	1070	intellectual impairment	DiseaseOrPhenotypicFeature	D008607
+21126715	1163	1185	enlargement of kidneys	DiseaseOrPhenotypicFeature	D007674
+21126715	1234	1241	783insG	SequenceVariant	c|INS|783|G
+21126715	1243	1251	Ile262fs	SequenceVariant	p|FS|I|262||
+21126715	1280	1285	BSCL2	GeneOrGeneProduct	26580
+21126715	1320	1323	CGL	DiseaseOrPhenotypicFeature	D052497
+21126715	1382	1387	BSCL2	GeneOrGeneProduct	26580
+21126715	1418	1421	CGL	DiseaseOrPhenotypicFeature	D052497
+21126715	Association	D007674	c|INS|783|G	Novel
+21126715	Association	D007674	26580	Novel
+21126715	Association	D007674	p|FS|I|262||	Novel
+21126715	Association	26580	D008607	No
+21126715	Association	26580	D009202	No
+21126715	Association	D052497	26580	Novel
+21126715	Positive_Correlation	D052497	p|FS|I|262||	Novel

@@ -1,0 +1,89 @@
+27288457|t|Tead1 regulates the expression of Peripheral Myelin Protein 22 during Schwann cell development
+27288457|a|Schwann cells are myelinating glia in the peripheral nervous system that form the myelin sheath. A major cause of peripheral neuropathy is a copy number variant involving the Peripheral Myelin Protein 22 (PMP22) gene, which is located within a 1.4-Mb duplication on chromosome 17 associated with the most common form of Charcot-Marie-Tooth Disease (CMT1A). Rodent models of CMT1A have been used to show that reducing Pmp22 overexpression mitigates several aspects of a CMT1A -related phenotype. Mechanistic studies of Pmp22 regulation identified enhancers regulated by the Sox10 (SRY sex determining region Y-box 10) and Egr2 / Krox20 (Early growth response protein 2) transcription factors in myelinated nerves. However, relatively little is known regarding how other transcription factors induce Pmp22 expression during Schwann cell development and myelination. Here, we examined Pmp22 enhancers as a function of cell type-specificity, nerve injury and development. While Pmp22 enhancers marked by active histone modifications were lost or remodeled after injury, we found that these enhancers were permissive in early development prior to Pmp22 upregulation. Pmp22 enhancers contain binding motifs for TEA domain (Tead) transcription factors of the Hippo signaling pathway. We discovered that Tead1 and co-activators Yap and Taz are required for Pmp22 expression, as well as for the expression of Egr2 Tead1 directly binds Pmp22 and Egr2 enhancers early in development and Tead1 binding is induced during myelination, correlating with Pmp22 expression. The data identify Tead1 as a novel regulator of Pmp22 expression during development in concert with Sox10 and Egr2.
+27288457	0	5	Tead1	T028	C1420679
+27288457	20	30	expression	T045	C0017262
+27288457	34	62	Peripheral Myelin Protein 22	T028	C1418677
+27288457	70	94	Schwann cell development	T043	C1817645
+27288457	95	108	Schwann cells	T025	C0036387
+27288457	113	129	myelinating glia	T025	C0027836
+27288457	137	162	peripheral nervous system	T022	C0206417
+27288457	177	190	myelin sheath	T026	C0026973
+27288457	209	230	peripheral neuropathy	T047	C0031117
+27288457	236	255	copy number variant	T086	C1511518
+27288457	270	311	Peripheral Myelin Protein 22 (PMP22) gene	T028	C1418677
+27288457	346	357	duplication	T045	C0017261
+27288457	361	374	chromosome 17	T026	C0008659
+27288457	415	442	Charcot-Marie-Tooth Disease	T047	C0007959
+27288457	444	449	CMT1A	T047	C0007959
+27288457	452	465	Rodent models	T050	C1519106
+27288457	469	474	CMT1A	T047	C0007959
+27288457	512	517	Pmp22	T028	C1418677
+27288457	518	532	overexpression	T045	C0017262
+27288457	564	569	CMT1A	T047	C0007959
+27288457	579	588	phenotype	T032	C0031437
+27288457	590	601	Mechanistic	T169	C0441712
+27288457	602	609	studies	T062	C2603343
+27288457	613	618	Pmp22	T028	C1418677
+27288457	619	629	regulation	T045	C0017263
+27288457	641	650	enhancers	T114,T123	C0014290
+27288457	668	673	Sox10	T116,T123	C1571654
+27288457	675	710	SRY sex determining region Y-box 10	T116,T123	C1571654
+27288457	716	720	Egr2	T116,T123	C0064419
+27288457	723	729	Krox20	T116,T123	C0064419
+27288457	731	762	Early growth response protein 2	T116,T123	C0064419
+27288457	764	785	transcription factors	T116,T123	C0040648
+27288457	789	806	myelinated nerves	T026	C0027750
+27288457	864	885	transcription factors	T116,T123	C0040648
+27288457	886	892	induce	T169	C0205263
+27288457	893	898	Pmp22	T028	C1418677
+27288457	899	909	expression	T045	C0017262
+27288457	917	941	Schwann cell development	T043	C1817645
+27288457	946	957	myelination	T043	C0596991
+27288457	977	982	Pmp22	T028	C1418677
+27288457	983	992	enhancers	T114,T123	C0014290
+27288457	1010	1031	cell type-specificity	T044	C1148560
+27288457	1033	1045	nerve injury	T037	C0161479
+27288457	1050	1061	development	T169	C1527148
+27288457	1069	1074	Pmp22	T028	C1418677
+27288457	1075	1084	enhancers	T114,T123	C0014290
+27288457	1095	1101	active	T169	C0205177
+27288457	1102	1123	histone modifications	T044	C1156199
+27288457	1129	1133	lost	T169	C0745777
+27288457	1153	1159	injury	T037	C3263723
+27288457	1181	1190	enhancers	T114,T123	C0014290
+27288457	1216	1227	development	T169	C1527148
+27288457	1237	1242	Pmp22	T028	C1418677
+27288457	1243	1255	upregulation	T044	C0041904
+27288457	1257	1262	Pmp22	T028	C1418677
+27288457	1263	1272	enhancers	T114,T123	C0014290
+27288457	1281	1295	binding motifs	T116,T123	C1956035
+27288457	1300	1310	TEA domain	T116,T123	C0220134
+27288457	1312	1316	Tead	T116,T123	C0220134
+27288457	1318	1339	transcription factors	T116,T123	C0040648
+27288457	1347	1370	Hippo signaling pathway	T043	C3158583
+27288457	1391	1396	Tead1	T028	C1420679
+27288457	1415	1418	Yap	T028	C1424135
+27288457	1423	1426	Taz	T028	C1336578
+27288457	1444	1449	Pmp22	T028	C1418677
+27288457	1450	1460	expression	T045	C0017262
+27288457	1481	1491	expression	T045	C0017262
+27288457	1495	1499	Egr2	T028	C1414315
+27288457	1500	1505	Tead1	T028	C1420679
+27288457	1521	1526	Pmp22	T028	C1418677
+27288457	1531	1535	Egr2	T028	C1414315
+27288457	1536	1545	enhancers	T114,T123	C0014290
+27288457	1555	1566	development	T169	C1527148
+27288457	1571	1576	Tead1	T028	C1420679
+27288457	1577	1584	binding	T044	C1167622
+27288457	1588	1595	induced	T169	C0205263
+27288457	1603	1614	myelination	T043	C0596991
+27288457	1633	1638	Pmp22	T028	C1418677
+27288457	1639	1649	expression	T045	C0017262
+27288457	1655	1659	data	T078	C1511726
+27288457	1669	1674	Tead1	T028	C1420679
+27288457	1686	1695	regulator	T028	C0017362
+27288457	1699	1704	Pmp22	T028	C1418677
+27288457	1705	1715	expression	T045	C0017262
+27288457	1723	1734	development	T169	C1527148
+27288457	1751	1756	Sox10	T028	C1420317
+27288457	1761	1765	Egr2	T028	C1414315

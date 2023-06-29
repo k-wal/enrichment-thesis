@@ -1,0 +1,63 @@
+27964731|t|Use of single molecule sequencing for comparative genomics of an environmental and a clinical isolate of Clostridium difficile ribotype 078
+27964731|a|How the pathogen Clostridium difficile might survive, evolve and be transferred between reservoirs within the natural environment is poorly understood. Some ribotypes are found both in clinical and environmental settings. Whether these strains are distinct from each another and evolve in the specific environments is not established. The possession of a highly mobile genome has contributed to the genetic diversity and ongoing evolution of C. difficile. Interpretations of genetic diversity have been limited by fragmented assemblies resulting from short-read length sequencing approaches and by a limited understanding of epigenetic regulation of diversity. To address this, single molecule real time (SMRT) sequencing was used in this study as it produces high quality genome sequences, with resolution of repeat regions (including those found in mobile elements) and can generate data to determine methylation modifications across the sequence (the methylome). Chromosomal rearrangements and ribosomal operon duplications were observed in both genomes. The rearrangements occurred at insertion sites within two mobile genetic elements (MGEs), Tn6164 and Tn6293, present only in the M120 and CD105HS27 genomes, respectively. The gene content of these two transposons differ considerably which could impact upon horizontal gene transfer; differences include CDSs encoding methylases and a conjugative prophage only in Tn6164. To investigate mechanisms which could affect MGE transfer, the methylome, restriction modification (RM) and the CRISPR/Cas systems were characterised for each strain. Notably, the environmental isolate, CD105HS27, does not share a consensus motif for (m4)C methylation, but has one additional spacer when compared to the clinical isolate M120. These findings show key differences between the two strains in terms of their genetic capacity for MGE transfer. The carriage of horizontally transferred genes appear to have genome wide effects based on two different methylation patterns. The CRISPR/Cas system appears active although perhaps slow to evolve. Data suggests that both mechanisms are functional and impact upon horizontal gene transfer and genome evolution within C. difficile.
+27964731	50	58	genomics	T091	UMLS:C0887950
+27964731	65	78	environmental	T082	UMLS:C0014406
+27964731	94	101	isolate	T103	UMLS:C1764827
+27964731	105	126	Clostridium difficile	T007	UMLS:C0079134
+27964731	127	139	ribotype 078	T033	UMLS:C0887835
+27964731	157	178	Clostridium difficile	T007	UMLS:C0079134
+27964731	228	238	reservoirs	T082	UMLS:C0442537
+27964731	250	269	natural environment	T082	UMLS:C0014406
+27964731	297	306	ribotypes	T033	UMLS:C0887835
+27964731	338	351	environmental	T082	UMLS:C0014406
+27964731	442	454	environments	T082	UMLS:C0014406
+27964731	502	515	mobile genome	T017	UMLS:C0017428
+27964731	569	578	evolution	T038	UMLS:C0015219
+27964731	582	594	C. difficile	T007	UMLS:C0079134
+27964731	765	786	epigenetic regulation	T038	UMLS:C1160454
+27964731	879	884	study	T062	UMLS:C2603343
+27964731	913	929	genome sequences	T082	UMLS:C2348746
+27964731	991	1006	mobile elements	T103	UMLS:C1257903
+27964731	1043	1054	methylation	T038	UMLS:C0376452
+27964731	1080	1088	sequence	T082	UMLS:C2348746
+27964731	1106	1132	Chromosomal rearrangements	T038	UMLS:C1515001
+27964731	1137	1166	ribosomal operon duplications	T038	UMLS:C0017261
+27964731	1189	1196	genomes	T017	UMLS:C0017428
+27964731	1202	1216	rearrangements	T038	UMLS:C0017287
+27964731	1229	1244	insertion sites	T082	UMLS:C0449682
+27964731	1256	1279	mobile genetic elements	T103	UMLS:C1257903
+27964731	1281	1285	MGEs	T103	UMLS:C1257903
+27964731	1288	1294	Tn6164	T103	UMLS:C0600205
+27964731	1299	1305	Tn6293	T103	UMLS:C0600205
+27964731	1307	1314	present	T033	UMLS:C0150312
+27964731	1327	1331	M120	T017	UMLS:C0017428
+27964731	1336	1353	CD105HS27 genomes	T017	UMLS:C0017428
+27964731	1373	1385	gene content	T017	UMLS:C0017337
+27964731	1399	1410	transposons	T103	UMLS:C0600205
+27964731	1455	1479	horizontal gene transfer	T038	UMLS:C0887912
+27964731	1501	1505	CDSs	T082	UMLS:C0004793
+27964731	1515	1525	methylases	T103	UMLS:C0025831
+27964731	1532	1552	conjugative prophage	T005	UMLS:C1136253
+27964731	1561	1567	Tn6164	T103	UMLS:C0600205
+27964731	1614	1617	MGE	T103	UMLS:C1257903
+27964731	1618	1626	transfer	T038	UMLS:C0887912
+27964731	1643	1667	restriction modification	T038	UMLS:C2265065
+27964731	1669	1671	RM	T038	UMLS:C2265065
+27964731	1681	1699	CRISPR/Cas systems	T038	UMLS:C3658355
+27964731	1749	1762	environmental	T082	UMLS:C0014406
+27964731	1763	1770	isolate	T103	UMLS:C1764827
+27964731	1772	1781	CD105HS27	T017	UMLS:C0017428
+27964731	1820	1837	(m4)C methylation	T038	UMLS:C0376452
+27964731	1899	1906	isolate	T103	UMLS:C1764827
+27964731	1907	1911	M120	T017	UMLS:C0017428
+27964731	1919	1927	findings	T033	UMLS:C0243095
+27964731	2012	2015	MGE	T103	UMLS:C1257903
+27964731	2016	2024	transfer	T038	UMLS:C0887912
+27964731	2042	2072	horizontally transferred genes	T017	UMLS:C0017337
+27964731	2088	2094	genome	T017	UMLS:C0017428
+27964731	2131	2142	methylation	T038	UMLS:C0376452
+27964731	2143	2151	patterns	T082	UMLS:C0449774
+27964731	2157	2174	CRISPR/Cas system	T038	UMLS:C3658355
+27964731	2289	2313	horizontal gene transfer	T038	UMLS:C0887912
+27964731	2318	2324	genome	T017	UMLS:C0017428
+27964731	2342	2354	C. difficile	T007	UMLS:C0079134

@@ -1,0 +1,53 @@
+27422142|t|Haemophilus influenzae type b meningitis in a vaccinated and immunocompetent child
+27422142|a|Invasive Haemophilus influenzae type b (Hib) disease decreased dramatically after the introduction of conjugate vaccine in routine immunization schedules. We report a case of a fifteen-months-old girl, previously healthy and vaccinated, admitted in the emergency room with fever and vomiting. She was irritable and the Brudzinski's sign was positive. The cerebrospinal fluid (CSF) analysis showed pleocytosis and high protein level. Empiric intravenous antibiotics (ceftriaxone and vancomycin) were administered for suspected bacterial meningitis during 10 days. Serotyping of the Haemophilus influenzae strain found in CSF revealed a serotype b. After one year of follow-up no Hib meningitis sequelae were noted. Despite vaccination compliance and absence of risk factors, invasive Hib disease can occur due to vaccine failure. Efforts to keep the low incidence of invasive Hib disease should be directed to the maintenance of high vaccination coverage rates, combined with the notification and surveillance strategies already implemented in each country.
+27422142	0	40	Haemophilus influenzae type b meningitis	T047	C0917807
+27422142	46	56	vaccinated	T061	C0042196
+27422142	61	76	immunocompetent	T201	C1512656
+27422142	77	82	child	T100	C0008059
+27422142	83	135	Invasive Haemophilus influenzae type b (Hib) disease	T047	C4302339
+27422142	185	202	conjugate vaccine	T121,T129	C0206515
+27422142	206	213	routine	T080	C0205547
+27422142	214	236	immunization schedules	T061	C0020972
+27422142	241	247	report	T170	C0085973
+27422142	279	283	girl	T100	C0870604
+27422142	296	303	healthy	T080	C3898900
+27422142	308	318	vaccinated	T061	C0042196
+27422142	320	328	admitted	T058	C0184666
+27422142	336	350	emergency room	T073,T093	C0562508
+27422142	356	361	fever	T184	C0015967
+27422142	366	374	vomiting	T184	C0042963
+27422142	384	393	irritable	T033	C0022107
+27422142	402	419	Brudzinski's sign	T184	C0234179
+27422142	424	432	positive	T033	C0238854
+27422142	438	457	cerebrospinal fluid	T031	C0007806
+27422142	459	462	CSF	T031	C0007806
+27422142	480	491	pleocytosis	T047	C0151857
+27422142	496	514	high protein level	T034	C0428479
+27422142	516	523	Empiric	T080	C1880496
+27422142	524	535	intravenous	T082	C0348016
+27422142	536	547	antibiotics	T195	C0003232
+27422142	549	560	ceftriaxone	T109,T195	C0007561
+27422142	565	575	vancomycin	T116,T195	C0042313
+27422142	582	594	administered	T061	C0508215
+27422142	609	629	bacterial meningitis	T047	C0085437
+27422142	640	644	days	T079	C0439228
+27422142	646	656	Serotyping	T059	C0201217
+27422142	664	693	Haemophilus influenzae strain	T007	C0018483
+27422142	703	706	CSF	T031	C0007806
+27422142	718	728	serotype b	T170	C0456771
+27422142	736	744	one year	T079	C4082117
+27422142	748	757	follow-up	T058	C1522577
+27422142	758	775	no Hib meningitis	T033	C0497153
+27422142	805	816	vaccination	T061	C0042196
+27422142	817	827	compliance	T033	C3714738
+27422142	843	855	risk factors	T033	C0035648
+27422142	857	877	invasive Hib disease	T047	C4302339
+27422142	895	902	vaccine	T121,T129	C0042210
+27422142	903	910	failure	T169	C0231174
+27422142	936	945	incidence	T081	C0021149
+27422142	949	969	invasive Hib disease	T047	C4302339
+27422142	1016	1027	vaccination	T061	C0042196
+27422142	1062	1074	notification	T058	C0422202
+27422142	1079	1102	surveillance strategies	T061	C0038842
+27422142	1111	1122	implemented	T052	C1708476
+27422142	1131	1138	country	T083	C0454664

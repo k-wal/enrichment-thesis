@@ -1,0 +1,41 @@
+27294436|t|Interpretation of verbal descriptors for response options commonly used in verbal rating scales in patient -reported outcome instruments
+27294436|a|To assess the variation in the interpretation of common verbal descriptors (VDs) used in response scales and examine factors associated with those interpretations. Subjects were recruited through MediGuard and they assigned interpretation scores (11-point scale; 0 = lowest possible, 10 = highest possible) to five common sets of VDs: set one (none, mild, moderate, severe, very severe); set two (never, rarely, sometimes, often, always); set three (poor, fair, good, very good, excellent); set four (not at all, a little bit, moderately, quite a bit, extremely); and set five (not at all, a little bit, somewhat, quite a bit, very much). One-sample test for proportions and T-tests examined equality of proportions (anchors) and means scores (non-anchors) with the fixed intervals (0.0, 2.5, 5.0, 7.5, and 10.0). Ordinal regression examined adjusted associations between demographic / clinical factors and VD scores. Of the 350 subjects, 68 % were females and mean (SD) age was 56.9 (12.1). Two sets had two VDs with mean (95 % CI) scores not different than the fixed intervals. Set one had mild = 2.50 (2.33; 2.66) and moderate = 5.01 (4.89; 5.13) with 98.8 % (97.3 %; 100 %) assigning none = 0. Set five had a little bit = 2.35 (2.17; 2.53) and quite a bit = 7.65 (7.43; 7.87) with 95.0 % (95 % CI 91.7; 98.2) assigning not at all = 0. Significant associations (p ≤ 0.05) included age and education with somewhat and income and comorbidities with very severe. Age, sex, and education showed associations with other VDs albeit in nonsignificant models. Sets one and five yielded data closest to the fixed intervals. Demographic and clinical factors are associated with the interpretation of some VDs and should be adjusted for in analyses of non-randomized data.
+27294436	0	14	Interpretation	T170	UMLS:C0459471
+27294436	18	36	verbal descriptors	T170	UMLS:C0282354
+27294436	41	49	response	T038	UMLS:C2911692
+27294436	75	95	verbal rating scales	T170	UMLS:C0458261
+27294436	168	182	interpretation	T170	UMLS:C0459471
+27294436	193	211	verbal descriptors	T170	UMLS:C0282354
+27294436	213	216	VDs	T170	UMLS:C0282354
+27294436	226	234	response	T038	UMLS:C2911692
+27294436	226	241	response scales	T170	UMLS:C0282574
+27294436	284	299	interpretations	T170	UMLS:C0459471
+27294436	301	309	Subjects	T098	UMLS:C0080105
+27294436	333	342	MediGuard	T170	UMLS:C0282574
+27294436	361	375	interpretation	T170	UMLS:C0459471
+27294436	467	470	VDs	T170	UMLS:C0282354
+27294436	638	648	not at all	T033	UMLS:C2984077
+27294436	650	662	a little bit	T033	UMLS:C2984078
+27294436	676	687	quite a bit	T033	UMLS:C2984080
+27294436	715	725	not at all	T033	UMLS:C2984077
+27294436	727	739	a little bit	T033	UMLS:C2984078
+27294436	741	749	somewhat	T033	UMLS:C2984079
+27294436	751	762	quite a bit	T033	UMLS:C2984080
+27294436	776	791	One-sample test	T170	UMLS:C1709321
+27294436	812	819	T-tests	T170	UMLS:C0871472
+27294436	854	861	anchors	T098	UMLS:C1257890
+27294436	881	892	non-anchors	T098	UMLS:C1257890
+27294436	951	969	Ordinal regression	T170	UMLS:C0034980
+27294436	1044	1046	VD	T170	UMLS:C0282354
+27294436	1066	1074	subjects	T098	UMLS:C0080105
+27294436	1146	1149	VDs	T170	UMLS:C0282354
+27294436	1348	1360	a little bit	T033	UMLS:C2984078
+27294436	1385	1396	quite a bit	T033	UMLS:C2984080
+27294436	1460	1470	not at all	T033	UMLS:C2984077
+27294436	1529	1538	education	T033	UMLS:C0013658
+27294436	1614	1623	education	T033	UMLS:C0013658
+27294436	1655	1658	VDs	T170	UMLS:C0282354
+27294436	1669	1690	nonsignificant models	T170	UMLS:C3161035
+27294436	1812	1826	interpretation	T170	UMLS:C0459471
+27294436	1835	1838	VDs	T170	UMLS:C0282354
+27294436	1869	1877	analyses	T062	UMLS:C0936012

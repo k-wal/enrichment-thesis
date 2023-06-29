@@ -1,0 +1,33 @@
+21163864|t|The M235T polymorphism of the angiotensinogen gene in South Indian patients of hypertrophic cardiomyopathy.
+21163864|a|INTRODUCTION: Hypertrophic cardiomyopathy (HCM) is a complex disorder and genetically transmitted cardiac disease with a diverse clinical course. The objective of the present study was to examine the association of the T704C polymorphism of exon 2 of the angiotensinogen (AGT) gene with HCM in a South Indian population from Andhra Pradesh. Subjects and methods. One-hundred and fifty HCM (90 sporadic hypertrophic cardiomyopathy [SHCM] and 60 familial hypertrophic cardiomyopathy [FHCM]) patients and 165 age- and sex-matched normal healthy controls without known hypertension and left ventricular hypertrophy were included in the study. DNA was isolated from peripheral leukocytes and the region of interest in the AGT gene bearing a missense mutation methionine to threonine substitution at codon 235 (M235T) of exon 2, was amplified by polymerase chain reaction (PCR). The PCR products were subjected to restriction digestion with the enzyme SfaNI. RESULTS: Significant differences were detected in genotypic distribution (p = 0.04) as well as the allelic frequency (p = 0.003) between the SHCM patients and controls. The polymorphism did not show any association with FHCM. CONCLUSION: Our results suggest that the T allele of the AGT gene is significantly associated with SHCM in a South Indian population from Andhra Pradesh. However, we did not find significant association of this polymorphism with FHCM.
+21163864	4	9	M235T	SequenceVariant	rs699
+21163864	30	45	angiotensinogen	GeneOrGeneProduct	183
+21163864	67	75	patients	OrganismTaxon	9606
+21163864	79	106	hypertrophic cardiomyopathy	DiseaseOrPhenotypicFeature	D002312
+21163864	122	149	Hypertrophic cardiomyopathy	DiseaseOrPhenotypicFeature	D002312
+21163864	151	154	HCM	DiseaseOrPhenotypicFeature	D002312
+21163864	206	221	cardiac disease	DiseaseOrPhenotypicFeature	D006331
+21163864	327	332	T704C	SequenceVariant	rs699
+21163864	363	378	angiotensinogen	GeneOrGeneProduct	183
+21163864	380	383	AGT	GeneOrGeneProduct	183
+21163864	395	398	HCM	DiseaseOrPhenotypicFeature	D002312
+21163864	493	496	HCM	DiseaseOrPhenotypicFeature	D002312
+21163864	501	537	sporadic hypertrophic cardiomyopathy	DiseaseOrPhenotypicFeature	D002312
+21163864	539	543	SHCM	DiseaseOrPhenotypicFeature	D002312
+21163864	552	588	familial hypertrophic cardiomyopathy	DiseaseOrPhenotypicFeature	D024741
+21163864	590	594	FHCM	DiseaseOrPhenotypicFeature	D024741
+21163864	597	605	patients	OrganismTaxon	9606
+21163864	673	685	hypertension	DiseaseOrPhenotypicFeature	D006973
+21163864	690	718	left ventricular hypertrophy	DiseaseOrPhenotypicFeature	D017379
+21163864	825	828	AGT	GeneOrGeneProduct	183
+21163864	862	911	methionine to threonine substitution at codon 235	SequenceVariant	rs699
+21163864	913	918	M235T	SequenceVariant	rs699
+21163864	1054	1059	SfaNI	ChemicalEntity	-
+21163864	1202	1206	SHCM	DiseaseOrPhenotypicFeature	D002312
+21163864	1207	1215	patients	OrganismTaxon	9606
+21163864	1281	1285	FHCM	DiseaseOrPhenotypicFeature	D024741
+21163864	1344	1347	AGT	GeneOrGeneProduct	183
+21163864	1386	1390	SHCM	DiseaseOrPhenotypicFeature	D002312
+21163864	1516	1520	FHCM	DiseaseOrPhenotypicFeature	D024741
+21163864	Association	183	D002312	Novel
+21163864	Positive_Correlation	D002312	rs699	Novel

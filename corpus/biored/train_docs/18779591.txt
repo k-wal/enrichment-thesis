@@ -1,0 +1,50 @@
+18779591|t|Identification of a gain-of-function mutation of the prolactin receptor in women with benign breast tumors.
+18779591|a|There is currently no known genetic disease linked to prolactin (Prl) or its receptor (PrlR) in humans. Given the essential role of this hormonal system in breast physiology, we reasoned that genetic anomalies of Prl/PrlR genes may be related to the occurrence of breast diseases with high proliferative potential. Multiple fibroadenomas (MFA) are benign breast tumors which appear most frequently in young women, including at puberty, when Prl has well-recognized proliferative actions on the breast. In a prospective study involving 74 MFA patients and 170 control subjects, we identified four patients harboring a heterozygous single nucleotide polymorphism in exon 6 of the PrlR gene, encoding Ile(146)-->Leu substitution in its extracellular domain. This sole substitution was sufficient to confer constitutive activity to the receptor variant (PrlR(I146L)), as assessed in three reconstituted cell models (Ba/F3, HEK293 and MCF-7 cells) by Prl-independent (i) PrlR tyrosine phosphorylation, (ii) activation of signal transducer and activator of transcription 5 (STAT5) signaling, (iii) transcriptional activity toward a Prl-responsive reporter gene, and (iv) cell proliferation and protection from cell death. Constitutive activity of PrlR(I146L) in the breast sample from a patient was supported by increased STAT5 signaling. This is a unique description of a functional mutation of the PrlR associated with a human disease. Hallmarks of constitutive activity were all reversed by a specific PrlR antagonist, which opens potential therapeutic approaches for MFA, or any other disease that could be associated with this mutation in future.
+18779591	53	71	prolactin receptor	GeneOrGeneProduct	5618
+18779591	75	80	women	OrganismTaxon	9606
+18779591	86	106	benign breast tumors	DiseaseOrPhenotypicFeature	D001943
+18779591	136	151	genetic disease	DiseaseOrPhenotypicFeature	D030342
+18779591	162	171	prolactin	GeneOrGeneProduct	5617
+18779591	173	176	Prl	GeneOrGeneProduct	5617
+18779591	195	199	PrlR	GeneOrGeneProduct	5618
+18779591	204	210	humans	OrganismTaxon	9606
+18779591	321	324	Prl	GeneOrGeneProduct	5617
+18779591	325	329	PrlR	GeneOrGeneProduct	5618
+18779591	372	387	breast diseases	DiseaseOrPhenotypicFeature	D001941
+18779591	423	445	Multiple fibroadenomas	DiseaseOrPhenotypicFeature	D018226
+18779591	447	450	MFA	DiseaseOrPhenotypicFeature	D018226
+18779591	456	476	benign breast tumors	DiseaseOrPhenotypicFeature	D001943
+18779591	515	520	women	OrganismTaxon	9606
+18779591	549	552	Prl	GeneOrGeneProduct	5617
+18779591	646	649	MFA	DiseaseOrPhenotypicFeature	D018226
+18779591	650	658	patients	OrganismTaxon	9606
+18779591	704	712	patients	OrganismTaxon	9606
+18779591	786	790	PrlR	GeneOrGeneProduct	5618
+18779591	806	820	Ile(146)-->Leu	SequenceVariant	rs72478580
+18779591	958	962	PrlR	GeneOrGeneProduct	19116
+18779591	963	968	I146L	SequenceVariant	rs72478580
+18779591	1020	1025	Ba/F3	CellLine	CVCL_0161
+18779591	1027	1033	HEK293	CellLine	CVCL_0045
+18779591	1038	1043	MCF-7	CellLine	CVCL_0031
+18779591	1054	1057	Prl	GeneOrGeneProduct	5617
+18779591	1074	1078	PrlR	GeneOrGeneProduct	5618
+18779591	1124	1174	signal transducer and activator of transcription 5	GeneOrGeneProduct	6776
+18779591	1176	1181	STAT5	GeneOrGeneProduct	6776
+18779591	1234	1237	Prl	GeneOrGeneProduct	5617
+18779591	1349	1353	PrlR	GeneOrGeneProduct	5618
+18779591	1354	1359	I146L	SequenceVariant	rs72478580
+18779591	1389	1396	patient	OrganismTaxon	9606
+18779591	1424	1429	STAT5	GeneOrGeneProduct	6776
+18779591	1502	1506	PrlR	GeneOrGeneProduct	5618
+18779591	1525	1530	human	OrganismTaxon	9606
+18779591	1607	1622	PrlR antagonist	ChemicalEntity	-
+18779591	1673	1676	MFA	DiseaseOrPhenotypicFeature	D018226
+18779591	Association	D001943	5618	Novel
+18779591	Positive_Correlation	D018226	rs72478580	Novel
+18779591	Association	D018226	5618	Novel
+18779591	Association	5618	6776	Novel
+18779591	Association	5618	D001941	Novel
+18779591	Association	5617	D001943	Novel
+18779591	Association	5617	D018226	Novel
+18779591	Bind	5617	5618	No
+18779591	Association	5617	D001941	Novel

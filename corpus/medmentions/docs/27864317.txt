@@ -1,0 +1,82 @@
+27864317|t|Prednisolone is associated with a worse lipid profile than hydrocortisone in patients with adrenal insufficiency
+27864317|a|Prednisolone is used as glucocorticoid replacement therapy for adrenal insufficiency (AI). Recent data indicate that its use in AI is associated with low bone mineral density. Data on risk factors for cardiovascular disease in patients with AI treated with prednisolone are scarce, despite this condition being the predominant cause of excess mortality. We aimed to address this question using real-world data from the European Adrenal Insufficiency Registry (EU-AIR). EU-AIR, comprising of 19 centres across Germany, the Netherlands, Sweden and the UK, commenced enrolling patients with AI in August 2012. Patients receiving prednisolone (3-6 mg/day, n = 50) or hydrocortisone (15-30 mg/day, n = 909) were identified and grouped at a ratio of 1:3 (prednisolone: hydrocortisone) by matching for gender, age, duration and type of disease. Data from baseline and follow-up visits were analysed. Data from patients with congenital adrenal hyperplasia were excluded. Significantly higher mean ± s.d. total (6.3 ± 1.6 vs 5.4 ± 1.1 mmol/L; P = 0.003) and low-density lipoprotein (LDL) cholesterol levels (3.9 ± 1.4 vs 3.2 ± 1.0 mmol/L; P = 0.013) were identified in 47 patients on prednisolone vs 141 receiving hydrocortisone at baseline and at follow-up (P = 0.005 and P = 0.006, respectively). HbA1c, high-density lipoprotein and triglyceride levels, body mass index, systolic and diastolic blood pressure and waist circumference were not significantly different. This is the first matched analysis of its kind. Significantly higher LDL levels in patients receiving prednisolone relative to hydrocortisone could predict a higher relative risk of cardiovascular disease in the former group.
+27864317	0	12	Prednisolone	T109,T121	C0032950
+27864317	16	31	associated with	T080	C0332281
+27864317	34	53	worse lipid profile	T033	C0740400
+27864317	59	73	hydrocortisone	T109,T121,T125	C0020268
+27864317	77	85	patients	T101	C0030705
+27864317	91	112	adrenal insufficiency	T047	C0001623
+27864317	113	125	Prednisolone	T109,T121	C0032950
+27864317	137	151	glucocorticoid	T109,T125	C0017710
+27864317	152	171	replacement therapy	T061	C0279033
+27864317	176	197	adrenal insufficiency	T047	C0001623
+27864317	199	201	AI	T047	C0001623
+27864317	211	215	data	T078	C1511726
+27864317	241	243	AI	T047	C0001623
+27864317	247	262	associated with	T080	C0332281
+27864317	267	287	bone mineral density	T201	C0005938
+27864317	289	293	Data	T078	C1511726
+27864317	297	309	risk factors	T033	C0035648
+27864317	314	336	cardiovascular disease	T047	C0007222
+27864317	340	348	patients	T101	C0030705
+27864317	354	356	AI	T047	C0001623
+27864317	357	364	treated	T169	C1522326
+27864317	370	382	prednisolone	T109,T121	C0032950
+27864317	440	445	cause	T033	C0007465
+27864317	456	465	mortality	T081	C0205848
+27864317	518	522	data	T078	C1511726
+27864317	532	571	European Adrenal Insufficiency Registry	T170	C0282574
+27864317	573	579	EU-AIR	T170	C0282574
+27864317	582	588	EU-AIR	T170	C0282574
+27864317	607	614	centres	T073,T093	C0475309
+27864317	622	629	Germany	T083	C0017480
+27864317	635	646	Netherlands	T083	C0027778
+27864317	648	654	Sweden	T083	C0038995
+27864317	663	665	UK	T083	C0041700
+27864317	687	695	patients	T101	C0030705
+27864317	701	703	AI	T047	C0001623
+27864317	720	728	Patients	T101	C0030705
+27864317	739	751	prednisolone	T109,T121	C0032950
+27864317	776	790	hydrocortisone	T109,T121,T125	C0020268
+27864317	820	830	identified	T080	C0205396
+27864317	835	842	grouped	T082	C0439745
+27864317	862	874	prednisolone	T109,T121	C0032950
+27864317	876	890	hydrocortisone	T109,T121,T125	C0020268
+27864317	908	914	gender	T032	C0079399
+27864317	916	919	age	T032	C0001779
+27864317	921	929	duration	T079	C0449238
+27864317	934	949	type of disease	T170	C0457464
+27864317	951	955	Data	T078	C1511726
+27864317	961	969	baseline	T081	C1442488
+27864317	974	983	follow-up	T058	C1522577
+27864317	984	990	visits	T058	C1512346
+27864317	1006	1010	Data	T078	C1511726
+27864317	1016	1024	patients	T101	C0030705
+27864317	1030	1060	congenital adrenal hyperplasia	T047	C0001627
+27864317	1066	1074	excluded	T052	C2828389
+27864317	1097	1114	mean ± s.d. total	T081	C0392762
+27864317	1162	1203	low-density lipoprotein (LDL) cholesterol	T109,T123	C0023824
+27864317	1187	1190	LDL	T109,T123	C0023823
+27864317	1204	1210	levels	T080	C0441889
+27864317	1259	1269	identified	T080	C0205396
+27864317	1276	1284	patients	T101	C0030705
+27864317	1288	1300	prednisolone	T109,T121	C0032950
+27864317	1318	1332	hydrocortisone	T109,T121,T125	C0020268
+27864317	1336	1344	baseline	T081	C1442488
+27864317	1352	1361	follow-up	T058	C1522577
+27864317	1403	1408	HbA1c	T116,T123	C0019018
+27864317	1410	1434	high-density lipoprotein	T116,T123	C0023821
+27864317	1439	1458	triglyceride levels	T034	C0428475
+27864317	1460	1475	body mass index	T201	C1305855
+27864317	1477	1485	systolic	T047	C0221155
+27864317	1490	1514	diastolic blood pressure	T047	C0235222
+27864317	1519	1538	waist circumference	T201	C0455829
+27864317	1591	1598	matched	T080	C1708943
+27864317	1599	1607	analysis	T062	C0936012
+27864317	1642	1652	LDL levels	T034	C0428473
+27864317	1656	1664	patients	T101	C0030705
+27864317	1675	1687	prednisolone	T109,T121	C0032950
+27864317	1700	1714	hydrocortisone	T109,T121,T125	C0020268
+27864317	1747	1751	risk	T078	C0035647
+27864317	1755	1777	cardiovascular disease	T047	C0007222
+27864317	1792	1797	group	T078	C0441833

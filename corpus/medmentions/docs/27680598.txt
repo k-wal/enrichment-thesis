@@ -1,0 +1,85 @@
+27680598|t|Sustained delivery of vincristine inside an orthotopic mouse sarcoma model decreases tumor growth
+27680598|a|Sarcoma accounts for 20% of solid tumors in children. Surgery has significant morbidity. We hypothesized that delivering chemotherapy directly into tumors through sustained release silk systems could slow tumor growth. Human Ewing sarcoma cells A673 were cultured with vincristine and doxorubicin to determine half maximal inhibitory concentration (IC50). Cells were injected into mouse hind leg to create orthotopic tumors. Tumor volumes were measured using ultrasound. When volume reached >250mm(3,) interventions included: implantation of drug-free silk foam (Control -F), doxorubicin 400μg foam (Dox400 -F), vincristine 50μg foam (Vin50 -F), drug-free silk gel (Control -G), vincristine 50μg gel (Vin50 -G), or single dose intravenous vincristine 50μg (Vin50 -IV). End-point was volume>1000mm(3). Kaplan Meier and ANOVA were used. IC50 for vincristine and doxorubicin was 0.5ng/mL and 200ng/mL, respectively. There was no difference between Dox400 -F [6± 1days to end point (DTEP)] and Control -F (5±1.3 DTEP). Vin50 -F (12.4±3.5 DTEP) had slower growth compared to Control -F (p<0.001), and there was no difference between Vin50 -F and Vin50 -IV (14±0 DTEP). Growth was slowest with Vin50 -G, 28±10.3 DTEP compared to all other treatment groups (p<0.05). Sustained delivery of vincristine inside the sarcoma tumor with silk gel decreased tumor growth. Applying this intratumoral treatment strategy may potentially decrease the extent of surgical excision.
+27680598	0	18	Sustained delivery	T122	C1710261
+27680598	22	33	vincristine	T109,T121	C0042679
+27680598	44	54	orthotopic	T082	C0574893
+27680598	55	68	mouse sarcoma	T191	C1522023
+27680598	75	84	decreases	T081	C0547047
+27680598	85	97	tumor growth	T191	C0598934
+27680598	98	105	Sarcoma	T191	C1261473
+27680598	126	138	solid tumors	T191	C0280100
+27680598	142	150	children	T100	C0008059
+27680598	152	159	Surgery	T061	C0543467
+27680598	176	185	morbidity	T081	C0026538
+27680598	219	231	chemotherapy	T061	C3665472
+27680598	246	252	tumors	T191	C0027651
+27680598	261	278	sustained release	T122	C1710261
+27680598	279	283	silk	T116,T121,T123	C0074529
+27680598	303	315	tumor growth	T191	C0598934
+27680598	317	322	Human	T016	C0086418
+27680598	323	336	Ewing sarcoma	T191	C0553580
+27680598	337	347	cells A673	T025	C0334227
+27680598	353	361	cultured	T059	C0430400
+27680598	367	378	vincristine	T109,T121	C0042679
+27680598	383	394	doxorubicin	T109,T195	C0013089
+27680598	408	445	half maximal inhibitory concentration	T081	C0600495
+27680598	447	451	IC50	T081	C0600495
+27680598	454	459	Cells	T025	C0334227
+27680598	479	484	mouse	T015	C0025929
+27680598	485	493	hind leg	T023	C1522391
+27680598	504	514	orthotopic	T082	C0574893
+27680598	515	521	tumors	T191	C0027651
+27680598	523	536	Tumor volumes	T081	C0475276
+27680598	557	567	ultrasound	T060	C0041618
+27680598	600	613	interventions	T061	C0184661
+27680598	624	636	implantation	T061	C0021107
+27680598	640	649	drug-free	UnknownType	C0683584
+27680598	650	654	silk	T116,T121,T123	C0074529
+27680598	661	668	Control	T096	C0009932
+27680598	674	685	doxorubicin	T109,T195	C0013089
+27680598	697	704	(Dox400	T109,T195	C0013089
+27680598	710	721	vincristine	T109,T121	C0042679
+27680598	733	738	Vin50	T109,T121	C0042679
+27680598	744	753	drug-free	UnknownType	C0683584
+27680598	754	758	silk	T116,T121,T123	C0074529
+27680598	759	762	gel	T167	C1382104
+27680598	764	771	Control	T096	C0009932
+27680598	777	788	vincristine	T109,T121	C0042679
+27680598	794	797	gel	T167	C1382104
+27680598	799	804	Vin50	T109,T121	C0042679
+27680598	825	836	intravenous	T082	C0348016
+27680598	837	848	vincristine	T109,T121	C0042679
+27680598	855	860	Vin50	T109,T121	C0042679
+27680598	867	876	End-point	T080	C2349179
+27680598	899	911	Kaplan Meier	T081	C1720943
+27680598	916	921	ANOVA	T081	C0002780
+27680598	933	937	IC50	T081	C0600495
+27680598	942	953	vincristine	T109,T121	C0042679
+27680598	958	969	doxorubicin	T109,T195	C0013089
+27680598	1043	1049	Dox400	T109,T195	C0013089
+27680598	1057	1062	1days	T079	C0439228
+27680598	1066	1075	end point	T080	C2349179
+27680598	1077	1081	DTEP	T080	C2349179
+27680598	1088	1095	Control	T096	C0009932
+27680598	1106	1110	DTEP	T080	C2349179
+27680598	1113	1118	Vin50	T109,T121	C0042679
+27680598	1132	1136	DTEP	T080	C2349179
+27680598	1142	1155	slower growth	T033	C4086857
+27680598	1168	1175	Control	T096	C0009932
+27680598	1226	1231	Vin50	T109,T121	C0042679
+27680598	1239	1244	Vin50	T109,T121	C0042679
+27680598	1255	1259	DTEP	T080	C2349179
+27680598	1262	1280	Growth was slowest	T033	C4086857
+27680598	1286	1291	Vin50	T109,T121	C0042679
+27680598	1304	1308	DTEP	T080	C2349179
+27680598	1358	1376	Sustained delivery	T122	C1710261
+27680598	1380	1391	vincristine	T109,T121	C0042679
+27680598	1403	1410	sarcoma	T191	C1261473
+27680598	1411	1416	tumor	T191	C0027651
+27680598	1422	1426	silk	T116,T121,T123	C0074529
+27680598	1427	1430	gel	T167	C1382104
+27680598	1431	1440	decreased	T081	C0547047
+27680598	1441	1453	tumor growth	T191	C0598934
+27680598	1469	1491	intratumoral treatment	T061	C1831733
+27680598	1517	1525	decrease	T081	C0547047
+27680598	1540	1557	surgical excision	T061	C0728940

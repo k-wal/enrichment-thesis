@@ -1,0 +1,38 @@
+28217766|t|Visualization for Understanding Uncertainty in Activation Volumes for Deep Brain Stimulation
+28217766|a|We have created the Neurostimulation Uncertainty Viewer (nuView or νView) tool for exploring data arising from deep brain stimulation (DBS). Simulated volume of tissue activated (VTA), using clinical electrode placements, are recorded along with patient outcomes in the Unified Parkinson's disease rating scale (UPDRS). The data is volumetric and sparse, with multi-value patient results for each activated voxel in the simulation. νView provides a collection of visual methods to explore the activated tissue to enhance understanding of electrode usage for improved therapy with DBS.
+28217766	0	13	Visualization	T060	C0178707
+28217766	32	43	Uncertainty	T033	C0087130
+28217766	47	57	Activation	T052	C1879547
+28217766	58	65	Volumes	T081	C0449468
+28217766	70	92	Deep Brain Stimulation	T061	C0394162
+28217766	113	171	Neurostimulation Uncertainty Viewer (nuView or νView) tool	T170	C0282574
+28217766	186	190	data	T078	C1511726
+28217766	204	226	deep brain stimulation	T061	C0394162
+28217766	228	231	DBS	T061	C0394162
+28217766	234	243	Simulated	T062	C0679083
+28217766	244	270	volume of tissue activated	T081	C0392762
+28217766	272	275	VTA	T081	C0392762
+28217766	284	313	clinical electrode placements	T060	C0430022
+28217766	319	327	recorded	T052	C0441655
+28217766	339	346	patient	T101	C0030705
+28217766	347	355	outcomes	T080	C0085415
+28217766	363	403	Unified Parkinson's disease rating scale	T170	C3639721
+28217766	405	410	UPDRS	T170	C3639721
+28217766	417	421	data	T078	C1511726
+28217766	425	435	volumetric	T080	C0205556
+28217766	440	446	sparse	T080	C0205556
+28217766	453	464	multi-value	T080	C0205556
+28217766	465	472	patient	T101	C0030705
+28217766	473	480	results	T169	C1274040
+28217766	490	499	activated	T052	C1879547
+28217766	500	505	voxel	T077	C2700259
+28217766	513	523	simulation	T062	C0679083
+28217766	525	530	νView	T077	C1254372
+28217766	542	552	collection	T169	C1516698
+28217766	556	570	visual methods	T170	C0025663
+28217766	586	595	activated	T052	C1879547
+28217766	596	602	tissue	T024	C0040300
+28217766	631	640	electrode	T074	C0013812
+28217766	641	646	usage	T169	C0457083
+28217766	660	667	therapy	T061	C0087111
+28217766	673	676	DBS	T061	C0394162

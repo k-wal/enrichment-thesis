@@ -1,0 +1,71 @@
+27799311|t|Acetylation Modulates IL-2 Receptor Signaling in T Cells
+27799311|a|Ligand binding to the cognate cytokine receptors activates intracellular signaling by recruiting protein tyrosine kinases and other protein modification enzymes. However, the roles of protein modifications other than phosphorylation remain unclear. In this study, we examine a novel regulatory mechanism of Stat5, based on its acetylation. As for phosphorylation, IL-2 induces the acetylation of signaling molecules, including Stat5, in the murine T cell line CTLL-2. Stat5 is acetylated in the cytoplasm by CREB-binding protein (CBP). Acetylated Lys(696) and Lys(700) on Stat5 are critical indicators for limited proteolysis, which leads to the generation of a truncated form of Stat5. In turn, the truncated form of Stat5 prevents transcription of the full-length form of Stat5. We also demonstrate that CBP physically associates with the IL-2 receptor β-chain. CBP, found in the nucleus in resting CTLL-2 cells, relocates to the cytoplasm after IL-2 stimulation in an MEK/ERK pathway -dependent manner. Thus, IL-2 -mediated acetylation plays an important role in the modulation of cytokine signaling and T cell fate.
+27799311	0	11	Acetylation	T044	C0001038
+27799311	12	21	Modulates	UnknownType	C0678672
+27799311	22	35	IL-2 Receptor	T116,T129,T192	C0034819
+27799311	36	45	Signaling	T044	C1514762
+27799311	49	56	T Cells	T025	C0039194
+27799311	57	71	Ligand binding	T044	C1517880
+27799311	79	86	cognate	T080	C0205556
+27799311	87	105	cytokine receptors	T116,T129,T192	C0206552
+27799311	106	115	activates	T052	C1879547
+27799311	116	139	intracellular signaling	T043	C0037083
+27799311	154	178	protein tyrosine kinases	T116,T126	C0033681
+27799311	189	209	protein modification	T044	C2263112
+27799311	210	217	enzymes	T116,T126	C0014442
+27799311	241	262	protein modifications	T044	C2263112
+27799311	274	289	phosphorylation	T044	C0031715
+27799311	314	319	study	T062	C2603343
+27799311	324	331	examine	T169	C1292732
+27799311	340	350	regulatory	T077	C1704735
+27799311	351	360	mechanism	T169	C0441712
+27799311	364	369	Stat5	T116,T123	C1121634
+27799311	384	395	acetylation	T044	C0001038
+27799311	404	419	phosphorylation	T044	C0031715
+27799311	421	425	IL-2	T116,T129	C0021756
+27799311	426	433	induces	T169	C0205263
+27799311	438	449	acetylation	T044	C0001038
+27799311	453	472	signaling molecules	T123	C1519315
+27799311	474	483	including	T169	C0332257
+27799311	484	489	Stat5	T116,T123	C1121634
+27799311	498	516	murine T cell line	T025	C0007600
+27799311	517	523	CTLL-2	T025	C0007600
+27799311	525	530	Stat5	T116,T123	C1121634
+27799311	534	544	acetylated	T044	C0001038
+27799311	552	561	cytoplasm	T026	C0010834
+27799311	565	585	CREB-binding protein	T116	C0256079
+27799311	586	591	(CBP)	T116	C0256079
+27799311	593	603	Acetylated	T044	C0001038
+27799311	604	612	Lys(696)	T116,T121,T123	C0024337
+27799311	617	625	Lys(700)	T116,T121,T123	C0024337
+27799311	629	634	Stat5	T116,T123	C1121634
+27799311	648	658	indicators	T169	C1522602
+27799311	663	670	limited	T169	C0439801
+27799311	671	682	proteolysis	T044	C0597304
+27799311	703	713	generation	T052	C3146294
+27799311	719	733	truncated form	T080	C1282927
+27799311	737	742	Stat5	T116,T123	C1121634
+27799311	757	771	truncated form	T080	C1282927
+27799311	775	780	Stat5	T116,T123	C1121634
+27799311	781	789	prevents	T169	C1292733
+27799311	790	803	transcription	T045	C0040649
+27799311	811	827	full-length form	T081	C1444754
+27799311	831	836	Stat5	T116,T123	C1121634
+27799311	863	866	CBP	T116	C0256079
+27799311	867	877	physically	T169	C0205485
+27799311	878	888	associates	T080	C0332281
+27799311	898	919	IL-2 receptor β-chain	T116,T129,T192	C1173313
+27799311	921	924	CBP	T116	C0256079
+27799311	939	946	nucleus	T026	C0007610
+27799311	950	957	resting	T043	C1522436
+27799311	958	970	CTLL-2 cells	T025	C0007600
+27799311	972	981	relocates	T043	C0599813
+27799311	989	998	cytoplasm	T026	C0010834
+27799311	1005	1009	IL-2	T116,T129	C0021756
+27799311	1028	1043	MEK/ERK pathway	T044	C3179233
+27799311	1069	1073	IL-2	T116,T129	C0021756
+27799311	1084	1095	acetylation	T044	C0001038
+27799311	1127	1137	modulation	UnknownType	C0678672
+27799311	1141	1159	cytokine signaling	T043	C1155359
+27799311	1164	1170	T cell	T025	C0039194
+27799311	1171	1175	fate	T043	C1540661

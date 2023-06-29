@@ -1,0 +1,67 @@
+27787906|t|Cerebrospinal fluid biomarkers as a measure of disease activity and treatment efficacy in relapsing-remitting multiple sclerosis
+27787906|a|Cerebrospinal fluid (CSF) biomarkers can reflect different aspects of the pathophysiology of relapsing-remitting multiple sclerosis (RRMS). Understanding the impact of different disease modifying therapies on the CSF biomarker profile may increase their implementation in clinical practice and their appropriateness for monitoring treatment efficacy. This study investigated the influence of first-line (interferon beta) and second-line (natalizumab) therapies on seven CSF biomarkers in RRMS and their correlation with clinical and radiological outcomes. We included 59 RRMS patients and 39 healthy controls. The concentrations of C-X-C motif chemokine 13 (CXCL13), C-C motif chemokine ligand 2 (CCL2), chitinase-3-like protein 1 (CHI3L1), glial fibrillary acidic protein, neurofilament light protein (NFL), and neurogranin were determined by ELISA, and chitotriosidase (CHIT1) was analyzed by spectrofluorometry. RRMS patients had higher levels of NFL, CXCL13, CHI3L1, and CHIT1 than controls (p < 0.001). Subgroup analysis revealed higher NFL, CXCL13 and CHIT1 levels in patients treated with first-line therapy compared to second-line therapy (p = 0.008, p = 0.001 and p = 0.026, respectively). NFL and CHIT1 levels correlated with relapse status, and NFL and CXCL13 levels correlated with the formation of new magnetic resonance imaging lesions. Furthermore, we found an association between inflammatory and degenerative biomarkers. The results indicate that CSF levels of NFL, CXCL13, CHI3L1, and CHIT1 correlate with the clinical and/or radiological disease activity, providing additional dimensions in the assessment of treatment efficacy.
+27787906	0	19	Cerebrospinal fluid	T031	UMLS:C0007806
+27787906	20	30	biomarkers	T201	UMLS:C0005516
+27787906	90	128	relapsing-remitting multiple sclerosis	T038	UMLS:C0751967
+27787906	129	148	Cerebrospinal fluid	T031	UMLS:C0007806
+27787906	150	153	CSF	T031	UMLS:C0007806
+27787906	155	165	biomarkers	T201	UMLS:C0005516
+27787906	222	260	relapsing-remitting multiple sclerosis	T038	UMLS:C0751967
+27787906	262	266	RRMS	T038	UMLS:C0751967
+27787906	307	314	disease	T038	UMLS:C0012634
+27787906	325	334	therapies	T058	UMLS:C0087111
+27787906	342	345	CSF	T031	UMLS:C0007806
+27787906	346	355	biomarker	T201	UMLS:C0005516
+27787906	356	363	profile	T058	UMLS:C1979963
+27787906	449	459	monitoring	T058	UMLS:C0150369
+27787906	485	490	study	T062	UMLS:C2603343
+27787906	521	531	first-line	T058	UMLS:C1708063
+27787906	533	548	interferon beta	T103	UMLS:C0015980
+27787906	554	565	second-line	T058	UMLS:C1710038
+27787906	567	578	natalizumab	T103	UMLS:C1172734
+27787906	599	602	CSF	T031	UMLS:C0007806
+27787906	603	613	biomarkers	T201	UMLS:C0005516
+27787906	617	621	RRMS	T038	UMLS:C0751967
+27787906	675	683	outcomes	T033	UMLS:C0587081
+27787906	700	704	RRMS	T038	UMLS:C0751967
+27787906	761	785	C-X-C motif chemokine 13	T103	UMLS:C0963811
+27787906	787	793	CXCL13	T103	UMLS:C0963811
+27787906	796	824	C-C motif chemokine ligand 2	T103	UMLS:C1332831
+27787906	826	830	CCL2	T103	UMLS:C1332831
+27787906	833	859	chitinase-3-like protein 1	T103	UMLS:C3872855
+27787906	861	867	CHI3L1	T103	UMLS:C3872855
+27787906	870	901	glial fibrillary acidic protein	T103	UMLS:C0017626
+27787906	903	930	neurofilament light protein	T103	UMLS:C0068590
+27787906	932	935	NFL	T103	UMLS:C0068590
+27787906	942	953	neurogranin	T103	UMLS:C0083727
+27787906	973	978	ELISA	T058	UMLS:C0014441
+27787906	984	999	chitotriosidase	T103	UMLS:C0253005
+27787906	1001	1006	CHIT1	T103	UMLS:C0253005
+27787906	1024	1042	spectrofluorometry	T058	UMLS:C0037802
+27787906	1044	1048	RRMS	T038	UMLS:C0751967
+27787906	1079	1082	NFL	T103	UMLS:C0068590
+27787906	1084	1090	CXCL13	T103	UMLS:C0963811
+27787906	1092	1098	CHI3L1	T103	UMLS:C3872855
+27787906	1104	1109	CHIT1	T103	UMLS:C0253005
+27787906	1137	1145	Subgroup	T170	UMLS:C1515021
+27787906	1146	1154	analysis	T062	UMLS:C0936012
+27787906	1171	1174	NFL	T103	UMLS:C0068590
+27787906	1176	1182	CXCL13	T103	UMLS:C0963811
+27787906	1187	1192	CHIT1	T103	UMLS:C0253005
+27787906	1212	1224	treated with	T058	UMLS:C0332293
+27787906	1225	1243	first-line therapy	T058	UMLS:C1708063
+27787906	1256	1275	second-line therapy	T058	UMLS:C1710038
+27787906	1328	1331	NFL	T103	UMLS:C0068590
+27787906	1336	1341	CHIT1	T103	UMLS:C0253005
+27787906	1365	1379	relapse status	T038	UMLS:C0277556
+27787906	1385	1388	NFL	T103	UMLS:C0068590
+27787906	1393	1399	CXCL13	T103	UMLS:C0963811
+27787906	1444	1470	magnetic resonance imaging	T058	UMLS:C0024485
+27787906	1471	1478	lesions	T033	UMLS:C0221198
+27787906	1555	1565	biomarkers	T201	UMLS:C0005516
+27787906	1593	1596	CSF	T031	UMLS:C0007806
+27787906	1607	1610	NFL	T103	UMLS:C0068590
+27787906	1612	1618	CXCL13	T103	UMLS:C0963811
+27787906	1620	1626	CHI3L1	T103	UMLS:C3872855
+27787906	1632	1637	CHIT1	T103	UMLS:C0253005
+27787906	1743	1753	assessment	T058	UMLS:C0220825

@@ -1,0 +1,51 @@
+29049388|t|An inducible mouse model of podocin-mutation-related nephrotic syndrome.
+29049388|a|Mutations in the NPHS2 gene, encoding podocin, cause hereditary nephrotic syndrome. The most common podocin mutation, R138Q, is associated with early disease onset and rapid progression to end-stage renal disease. Knock-in mice carrying a R140Q mutation, the mouse analogue of human R138Q, show developmental arrest of podocytes and lethal renal failure at neonatal age. Here we created a conditional podocin knock-in model named NPHS2 R140Q/-, using a tamoxifen-inducible Cre recombinase, which permits to study the effects of the mutation in postnatal life. Within the first week of R140Q hemizygosity induction the animals developed proteinuria, which peaked after 4-5 weeks. Subsequently the animals developed progressive renal failure, with a median survival time of 12 (95% CI: 11-13) weeks. Foot process fusion was observed within one week, progressing to severe and global effacement in the course of the disease. The number of podocytes per glomerulus gradually diminished to 18% compared to healthy controls 12-16 weeks after induction. The fraction of segmentally sclerosed glomeruli was 25%, 85% and 97% at 2, 4 and 8 weeks, respectively. Severe tubulointerstitial fibrosis was present at later disease stage and was correlated quantitatively with the level of proteinuria at early disease stages. While R140Q podocin mRNA expression was elevated, protein abundance was reduced by more than 50% within one week following induction. Whereas miRNA21 expression persistently increased during the first 4 weeks, miRNA-193a expression peaked 2 weeks after induction. In conclusion, the inducible R140Q-podocin mouse model is an auspicious model of the most common genetic cause of human nephrotic syndrome, with a spontaneous disease course strongly reminiscent of the human disorder. This model constitutes a valuable tool to test the efficacy of novel pharmacological interventions aimed to improve podocyte function and viability and attenuate proteinuria, glomerulosclerosis and progressive renal failure.
+29049388	13	18	mouse	OrganismTaxon	10090
+29049388	28	35	podocin	GeneOrGeneProduct	170484
+29049388	53	71	nephrotic syndrome	DiseaseOrPhenotypicFeature	D009404
+29049388	90	95	NPHS2	GeneOrGeneProduct	7827
+29049388	111	118	podocin	GeneOrGeneProduct	7827
+29049388	137	155	nephrotic syndrome	DiseaseOrPhenotypicFeature	D009404
+29049388	173	180	podocin	GeneOrGeneProduct	7827
+29049388	191	196	R138Q	SequenceVariant	rs74315342
+29049388	272	285	renal disease	DiseaseOrPhenotypicFeature	D007674
+29049388	296	300	mice	OrganismTaxon	10090
+29049388	312	317	R140Q	SequenceVariant	p|SUB|R|140|Q
+29049388	332	337	mouse	OrganismTaxon	10090
+29049388	350	355	human	OrganismTaxon	9606
+29049388	356	361	R138Q	SequenceVariant	rs74315342
+29049388	413	426	renal failure	DiseaseOrPhenotypicFeature	D051437
+29049388	474	481	podocin	GeneOrGeneProduct	170484
+29049388	503	508	NPHS2	GeneOrGeneProduct	170484
+29049388	509	514	R140Q	SequenceVariant	p|SUB|R|140|Q
+29049388	526	535	tamoxifen	ChemicalEntity	D013629
+29049388	658	663	R140Q	SequenceVariant	p|SUB|R|140|Q
+29049388	709	720	proteinuria	DiseaseOrPhenotypicFeature	D011507
+29049388	799	812	renal failure	DiseaseOrPhenotypicFeature	D051437
+29049388	1231	1258	tubulointerstitial fibrosis	DiseaseOrPhenotypicFeature	D007674
+29049388	1346	1357	proteinuria	DiseaseOrPhenotypicFeature	D011507
+29049388	1389	1394	R140Q	SequenceVariant	p|SUB|R|140|Q
+29049388	1395	1402	podocin	GeneOrGeneProduct	170484
+29049388	1525	1532	miRNA21	GeneOrGeneProduct	406991
+29049388	1593	1603	miRNA-193a	GeneOrGeneProduct	406968
+29049388	1676	1681	R140Q	SequenceVariant	p|SUB|R|140|Q
+29049388	1682	1689	podocin	GeneOrGeneProduct	170484
+29049388	1690	1695	mouse	OrganismTaxon	10090
+29049388	1761	1766	human	OrganismTaxon	9606
+29049388	1767	1785	nephrotic syndrome	DiseaseOrPhenotypicFeature	D009404
+29049388	1849	1854	human	OrganismTaxon	9606
+29049388	2027	2038	proteinuria	DiseaseOrPhenotypicFeature	D011507
+29049388	2040	2058	glomerulosclerosis	DiseaseOrPhenotypicFeature	D005921
+29049388	2075	2088	renal failure	DiseaseOrPhenotypicFeature	D051437
+29049388	Association	7827	D007674	No
+29049388	Association	7827	D009404	No
+29049388	Association	7827	D011507	Novel
+29049388	Association	7827	D051437	No
+29049388	Association	170484	D009404	No
+29049388	Association	170484	D011507	Novel
+29049388	Association	170484	D051437	No
+29049388	Positive_Correlation	rs74315342	D007674	No
+29049388	Positive_Correlation	rs74315342	D051437	No
+29049388	Positive_Correlation	p|SUB|R|140|Q	D009404	Novel
+29049388	Positive_Correlation	p|SUB|R|140|Q	D011507	Novel
+29049388	Positive_Correlation	p|SUB|R|140|Q	D051437	Novel

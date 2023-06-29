@@ -1,0 +1,113 @@
+26449539|t|The impact of PPARa activation on whole genome gene expression in human precision cut liver slices.
+26449539|a|BACKGROUND: Studies in mice have shown that PPARa is an important regulator of lipid metabolism in liver and key transcription factor involved in the adaptive response to fasting. However, much less is known about the role of PPARa in human liver. METHODS: Here we set out to study the function of PPARa in human liver via analysis of whole genome gene regulation in human liver slices treated with the PPARa agonist Wy14643. RESULTS: Quantitative PCR indicated that PPARa is well expressed in human liver and human liver slices and that the classical PPARa targets PLIN2, VLDLR, ANGPTL4, CPT1A and PDK4 are robustly induced by PPARa activation. Transcriptomics analysis indicated that 617 genes were upregulated and 665 genes were downregulated by PPARa activation (q value < 0.05). Many genes induced by PPARa activation were involved in lipid metabolism (ACSL5, AGPAT9, FADS1, SLC27A4), xenobiotic metabolism (POR, ABCC2, CYP3A5) or the unfolded protein response, whereas most of the downregulated genes were involved in immune-related pathways. Among the most highly repressed genes upon PPARa activation were several chemokines (e.g. CXCL9-11, CCL8, CX3CL1, CXCL6), interferon g-induced genes (e.g. IFITM1, IFIT1, IFIT2, IFIT3) and numerous other immune-related genes (e.g. TLR3, NOS2, and LCN2). Comparative analysis of gene regulation by Wy14643 between human liver slices and primary human hepatocytes showed that down-regulation of gene expression by PPARa is much better captured by liver slices as compared to primary hepatocytes. In particular, PPARa activation markedly suppressed immunity/inflammation-related genes in human liver slices but not in primary hepatocytes. Finally, several putative new target genes of PPARa were identified that were commonly induced by PPARa activation in the two human liver model systems, including TSKU, RHOF, CA12 and VSIG10L. CONCLUSION: Our paper demonstrates the suitability and superiority of human liver slices over primary hepatocytes for studying the functional role of PPARa in human liver. Our data underscore the major role of PPARa in regulation of hepatic lipid and xenobiotic metabolism in human liver and reveal a marked immuno-suppressive/anti-inflammatory effect of PPARa in human liver slices that may be therapeutically relevant for non-alcoholic fatty liver disease.
+26449539	14	19	PPARa	GeneOrGeneProduct	5465
+26449539	66	71	human	OrganismTaxon	9606
+26449539	123	127	mice	OrganismTaxon	10090
+26449539	144	149	PPARa	GeneOrGeneProduct	19013
+26449539	179	184	lipid	ChemicalEntity	D008055
+26449539	326	331	PPARa	GeneOrGeneProduct	5465
+26449539	335	340	human	OrganismTaxon	9606
+26449539	398	403	PPARa	GeneOrGeneProduct	5465
+26449539	407	412	human	OrganismTaxon	9606
+26449539	467	472	human	OrganismTaxon	9606
+26449539	503	508	PPARa	GeneOrGeneProduct	5465
+26449539	517	524	Wy14643	ChemicalEntity	C006253
+26449539	567	572	PPARa	GeneOrGeneProduct	5465
+26449539	594	599	human	OrganismTaxon	9606
+26449539	610	615	human	OrganismTaxon	9606
+26449539	652	657	PPARa	GeneOrGeneProduct	5465
+26449539	666	671	PLIN2	GeneOrGeneProduct	123
+26449539	673	678	VLDLR	GeneOrGeneProduct	7436
+26449539	680	687	ANGPTL4	GeneOrGeneProduct	51129
+26449539	689	694	CPT1A	GeneOrGeneProduct	1374
+26449539	699	703	PDK4	GeneOrGeneProduct	5166
+26449539	728	733	PPARa	GeneOrGeneProduct	5465
+26449539	849	854	PPARa	GeneOrGeneProduct	5465
+26449539	906	911	PPARa	GeneOrGeneProduct	5465
+26449539	940	945	lipid	ChemicalEntity	D008055
+26449539	958	963	ACSL5	GeneOrGeneProduct	51703
+26449539	965	971	AGPAT9	GeneOrGeneProduct	84803
+26449539	973	978	FADS1	GeneOrGeneProduct	3992
+26449539	980	987	SLC27A4	GeneOrGeneProduct	10999
+26449539	1013	1016	POR	GeneOrGeneProduct	5447
+26449539	1018	1023	ABCC2	GeneOrGeneProduct	1244
+26449539	1025	1031	CYP3A5	GeneOrGeneProduct	1577
+26449539	1192	1197	PPARa	GeneOrGeneProduct	5465
+26449539	1222	1232	chemokines	GeneOrGeneProduct	4283,6355,6372,6376
+26449539	1239	1247	CXCL9-11	GeneOrGeneProduct	4283
+26449539	1249	1253	CCL8	GeneOrGeneProduct	6355
+26449539	1255	1261	CX3CL1	GeneOrGeneProduct	6376
+26449539	1263	1268	CXCL6	GeneOrGeneProduct	6372
+26449539	1271	1283	interferon g	GeneOrGeneProduct	3458
+26449539	1304	1310	IFITM1	GeneOrGeneProduct	8519
+26449539	1312	1317	IFIT1	GeneOrGeneProduct	3434
+26449539	1319	1324	IFIT2	GeneOrGeneProduct	3433
+26449539	1326	1331	IFIT3	GeneOrGeneProduct	3437
+26449539	1379	1383	TLR3	GeneOrGeneProduct	7098
+26449539	1385	1389	NOS2	GeneOrGeneProduct	4843
+26449539	1395	1399	LCN2	GeneOrGeneProduct	3934
+26449539	1445	1452	Wy14643	ChemicalEntity	C006253
+26449539	1461	1466	human	OrganismTaxon	9606
+26449539	1492	1497	human	OrganismTaxon	9606
+26449539	1560	1565	PPARa	GeneOrGeneProduct	5465
+26449539	1657	1662	PPARa	GeneOrGeneProduct	5465
+26449539	1703	1715	inflammation	DiseaseOrPhenotypicFeature	D007249
+26449539	1733	1738	human	OrganismTaxon	9606
+26449539	1830	1835	PPARa	GeneOrGeneProduct	5465
+26449539	1882	1887	PPARa	GeneOrGeneProduct	5465
+26449539	1910	1915	human	OrganismTaxon	9606
+26449539	1947	1951	TSKU	GeneOrGeneProduct	25987
+26449539	1953	1957	RHOF	GeneOrGeneProduct	54509
+26449539	1959	1963	CA12	GeneOrGeneProduct	771
+26449539	1968	1975	VSIG10L	GeneOrGeneProduct	147645
+26449539	2047	2052	human	OrganismTaxon	9606
+26449539	2127	2132	PPARa	GeneOrGeneProduct	5465
+26449539	2136	2141	human	OrganismTaxon	9606
+26449539	2187	2192	PPARa	GeneOrGeneProduct	5465
+26449539	2218	2223	lipid	ChemicalEntity	D008055
+26449539	2253	2258	human	OrganismTaxon	9606
+26449539	2309	2321	inflammatory	DiseaseOrPhenotypicFeature	D007249
+26449539	2332	2337	PPARa	GeneOrGeneProduct	5465
+26449539	2341	2346	human	OrganismTaxon	9606
+26449539	2401	2434	non-alcoholic fatty liver disease	DiseaseOrPhenotypicFeature	D065626
+26449539	Association	D065626	5465	Novel
+26449539	Positive_Correlation	3458	3437	No
+26449539	Positive_Correlation	3458	3433	No
+26449539	Positive_Correlation	3458	3434	No
+26449539	Positive_Correlation	3458	8519	No
+26449539	Association	19013	D008055	No
+26449539	Association	D008055	10999	No
+26449539	Association	D008055	3992	No
+26449539	Association	D008055	84803	No
+26449539	Association	D008055	51703	No
+26449539	Positive_Correlation	5166	5465	Novel
+26449539	Positive_Correlation	1374	5465	Novel
+26449539	Positive_Correlation	51129	5465	Novel
+26449539	Positive_Correlation	7436	5465	Novel
+26449539	Association	5465	D007249	Novel
+26449539	Positive_Correlation	5465	147645	Novel
+26449539	Positive_Correlation	5465	771	Novel
+26449539	Positive_Correlation	5465	54509	Novel
+26449539	Positive_Correlation	5465	25987	Novel
+26449539	Negative_Correlation	5465	4283	Novel
+26449539	Negative_Correlation	5465	3934	Novel
+26449539	Negative_Correlation	5465	4843	Novel
+26449539	Negative_Correlation	5465	7098	Novel
+26449539	Negative_Correlation	5465	3437	Novel
+26449539	Negative_Correlation	5465	3433	Novel
+26449539	Negative_Correlation	5465	3434	Novel
+26449539	Negative_Correlation	5465	8519	Novel
+26449539	Association	5465	3458	No
+26449539	Negative_Correlation	5465	6372	Novel
+26449539	Negative_Correlation	5465	6376	Novel
+26449539	Negative_Correlation	5465	6355	Novel
+26449539	Association	5465	D008055	Novel
+26449539	Positive_Correlation	5465	1577	Novel
+26449539	Positive_Correlation	5465	1244	Novel
+26449539	Positive_Correlation	5465	5447	Novel
+26449539	Positive_Correlation	5465	10999	Novel
+26449539	Positive_Correlation	5465	3992	Novel
+26449539	Positive_Correlation	5465	84803	Novel
+26449539	Positive_Correlation	5465	51703	Novel
+26449539	Positive_Correlation	5465	123	Novel
+26449539	Positive_Correlation	5465	C006253	No

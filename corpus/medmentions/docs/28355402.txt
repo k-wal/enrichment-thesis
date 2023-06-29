@@ -1,0 +1,62 @@
+28355402|t|Budd-Chiari syndrome secondary to catheter -associated inferior vena cava thrombosis
+28355402|a|Patients with chronic kidney disease (CKD) are at increased risk for thrombotic complications. The use of central venous catheters as dialysis vascular access additionally increases this risk. We describe the first case of Budd-Chiari syndrome (BCS) secondary to central venous catheter misplacement in a patient with CKD. A 30-year-old female patient with HIV/AIDS and CKD on hemodialysis was admitted to the emergency room for complaints of fever, prostration, and headache in the last six days. She had a tunneled dialysis catheter placed at the left jugular vein. The diagnosis of BCS was established by abdominal computed tomography that showed a partial thrombus within the inferior vena cava which extended from the right atrium to medium hepatic vein, and continuing along the left hepatic vein. Patient was treated with anticoagulants and discharged asymptomatic. Budd-Chiari syndrome is a rare medical condition caused by hepatic veins thrombosis. It can involve one, two, or all three of the major hepatic veins. It is usually related to myeloproliferative disorders, malignancy and hypercoagulable states. This case calls attention for inadvertent catheter tip placement into hepatic vein leading to this rare complication. Assessment of catheter dialysis tip location with radiological image seems to be a prudent measure after each procedure even if the tunneled dialysis catheter has been introduced with fluoroscopy image.
+28355402	0	20	Budd-Chiari syndrome	T047	C0856761
+28355402	34	42	catheter	T074	C0085590
+28355402	55	84	inferior vena cava thrombosis	T047	C0549289
+28355402	85	93	Patients	T101	C0030705
+28355402	99	121	chronic kidney disease	T047	C1561643
+28355402	123	126	CKD	T047	C1561643
+28355402	135	144	increased	T081	C0205217
+28355402	145	149	risk	T078	C0035647
+28355402	154	164	thrombotic	T046	C0040053
+28355402	165	178	complications	T046	C0009566
+28355402	191	215	central venous catheters	T074	C1145640
+28355402	219	243	dialysis vascular access	T033	C0243095
+28355402	257	266	increases	T169	C0442805
+28355402	272	276	risk	T078	C0035647
+28355402	308	328	Budd-Chiari syndrome	T047	C0856761
+28355402	330	333	BCS	T047	C0856761
+28355402	348	371	central venous catheter	T074	C1145640
+28355402	390	397	patient	T101	C0030705
+28355402	403	406	CKD	T047	C1561643
+28355402	422	436	female patient	T032	C0150905
+28355402	442	450	HIV/AIDS	T047	C0497169
+28355402	455	458	CKD	T047	C1561643
+28355402	462	474	hemodialysis	T061	C0019004
+28355402	479	509	admitted to the emergency room	T058	C0583237
+28355402	528	533	fever	T184	C0015967
+28355402	535	546	prostration	T184	C0277794
+28355402	552	560	headache	T184	C0018681
+28355402	593	619	tunneled dialysis catheter	T074	C0085590
+28355402	634	651	left jugular vein	T023	C0501123
+28355402	657	666	diagnosis	T033	C0011900
+28355402	670	673	BCS	T047	C0856761
+28355402	693	722	abdominal computed tomography	T060	C0412623
+28355402	737	744	partial	T081	C0728938
+28355402	745	753	thrombus	T046	C0087086
+28355402	765	783	inferior vena cava	T023	C0042458
+28355402	808	820	right atrium	T023	C0225844
+28355402	831	843	hepatic vein	T023	C0019155
+28355402	870	887	left hepatic vein	T023	C0226708
+28355402	889	896	Patient	T101	C0030705
+28355402	901	913	treated with	T061	C0332293
+28355402	914	928	anticoagulants	T121	C0003280
+28355402	933	956	discharged asymptomatic	T033	C0231221
+28355402	958	978	Budd-Chiari syndrome	T047	C0856761
+28355402	989	1006	medical condition	T033	C0243095
+28355402	1017	1041	hepatic veins thrombosis	T047	C0019154
+28355402	1094	1107	hepatic veins	T023	C0019155
+28355402	1134	1162	myeloproliferative disorders	T191	C0027022
+28355402	1164	1174	malignancy	T191	C4282132
+28355402	1179	1201	hypercoagulable states	T047	C0398623
+28355402	1245	1257	catheter tip	T074	C0444299
+28355402	1258	1267	placement	T080	C1524072
+28355402	1273	1285	hepatic vein	T023	C0019155
+28355402	1307	1319	complication	T046	C0009566
+28355402	1321	1331	Assessment	T058	C0220825
+28355402	1335	1356	catheter dialysis tip	T074	C0444299
+28355402	1357	1365	location	T029	C1515974
+28355402	1371	1389	radiological image	T170	C1704254
+28355402	1431	1440	procedure	T059	C0022885
+28355402	1453	1479	tunneled dialysis catheter	T074	C0085590
+28355402	1505	1522	fluoroscopy image	T170	C1704254

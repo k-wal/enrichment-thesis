@@ -1,0 +1,40 @@
+15814629|t|The number of lymph node metastases in gastric cancer correlates with the angiotensin I-converting enzyme gene insertion/deletion polymorphism.
+15814629|a|PURPOSE: In the present study, we aimed to substantiate the putative significance of angiotensin I-converting enzyme (ACE) on gastric cancer biology by investigating the influence of its gene polymorphism on gastric cancer progression. EXPERIMENTAL DESIGN: Genomic DNA was purified from peripheral blood mononuclear cells or tissue specimens. Amplified ACE gene fragments were separated on agarose gels. D or I alleles were identified by the presence of 190- or 490-bp fragments, respectively. Local expression of ACE was investigated by immunohistochemistry. RESULTS: Twenty-four of 113 (21%) gastric cancer patients had the II, 57 (51%) the ID, and 32 (28%) the DD genotype. The distribution of the ACE genotypes did not differ significantly from the control group of 189 patients without gastric cancer. However, the ACE genotypes correlated with the number of lymph node metastases and the Unio Internationale Contra Cancrum (UICC) tumor stage. Patients with the II genotype had a highly significantly smaller number of lymph node metastases (P < 0.001) and a significantly lower UICC tumor stage (P = 0.01) than patients with the DD genotype. No correlation was found between tumor type, tumor location, local tumor growth, distant metastases, and the ACE genotype. The expression of ACE in gastric cancer was investigated by immunohistochemistry in 100 of 113 patients. ACE was expressed by endothelial cells in all (100%) specimens and by tumor cells in 56 (56%) specimens. CONCLUSIONS: Our study shows that ACE is expressed locally in gastric cancer and that the gene polymorphism influences metastatic behavior.
+15814629	14	35	lymph node metastases	DiseaseOrPhenotypicFeature	D009362
+15814629	39	53	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+15814629	74	105	angiotensin I-converting enzyme	GeneOrGeneProduct	1636
+15814629	229	260	angiotensin I-converting enzyme	GeneOrGeneProduct	1636
+15814629	262	265	ACE	GeneOrGeneProduct	1636
+15814629	270	284	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+15814629	352	366	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+15814629	497	500	ACE	GeneOrGeneProduct	1636
+15814629	534	541	agarose	ChemicalEntity	D012685
+15814629	658	661	ACE	GeneOrGeneProduct	1636
+15814629	738	752	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+15814629	753	761	patients	OrganismTaxon	9606
+15814629	845	848	ACE	GeneOrGeneProduct	1636
+15814629	918	926	patients	OrganismTaxon	9606
+15814629	935	949	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+15814629	964	967	ACE	GeneOrGeneProduct	1636
+15814629	1008	1029	lymph node metastases	DiseaseOrPhenotypicFeature	D009362
+15814629	1080	1085	tumor	DiseaseOrPhenotypicFeature	D009369
+15814629	1093	1101	Patients	OrganismTaxon	9606
+15814629	1168	1189	lymph node metastases	DiseaseOrPhenotypicFeature	D009362
+15814629	1233	1238	tumor	DiseaseOrPhenotypicFeature	D009369
+15814629	1261	1269	patients	OrganismTaxon	9606
+15814629	1325	1330	tumor	DiseaseOrPhenotypicFeature	D009369
+15814629	1337	1342	tumor	DiseaseOrPhenotypicFeature	D009369
+15814629	1359	1364	tumor	DiseaseOrPhenotypicFeature	D009369
+15814629	1381	1391	metastases	DiseaseOrPhenotypicFeature	D009362
+15814629	1401	1404	ACE	GeneOrGeneProduct	1636
+15814629	1433	1436	ACE	GeneOrGeneProduct	1636
+15814629	1440	1454	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+15814629	1510	1518	patients	OrganismTaxon	9606
+15814629	1520	1523	ACE	GeneOrGeneProduct	1636
+15814629	1590	1595	tumor	DiseaseOrPhenotypicFeature	D009369
+15814629	1659	1662	ACE	GeneOrGeneProduct	1636
+15814629	1687	1701	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+15814629	Association	1636	D012685	No
+15814629	Association	1636	D013274	Novel
+15814629	Association	1636	D009369	Novel
+15814629	Association	D009362	1636	Novel

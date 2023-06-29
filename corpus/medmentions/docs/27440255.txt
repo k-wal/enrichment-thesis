@@ -1,0 +1,69 @@
+27440255|t|Form and function in gene regulatory networks: the structure of network motifs determines fundamental properties of their dynamical state space
+27440255|a|Network motifs have been studied extensively over the past decade, and certain motifs, such as the feed-forward loop, play an important role in regulatory networks. Recent studies have used Boolean network motifs to explore the link between form and function in gene regulatory networks and have found that the structure of a motif does not strongly determine its function, if this is defined in terms of the gene expression patterns the motif can produce. Here, we offer a different, higher - level definition of the ' function ' of a motif, in terms of two fundamental properties of its dynamical state space as a Boolean network. One is the basin entropy, which is a complexity measure of the dynamics of Boolean networks. The other is the diversity of cyclic attractor lengths that a given motif can produce. Using these two measures, we examine all 104 topologically distinct three-node motifs and show that the structural properties of a motif, such as the presence of feedback loops and feed-forward loops, predict fundamental characteristics of its dynamical state space, which in turn determine aspects of its functional versatility. We also show that these higher - level properties have a direct bearing on real regulatory networks, as both basin entropy and cycle length diversity show a close correspondence with the prevalence, in neural and genetic regulatory networks, of the 13 connected motifs without self-interactions that have been studied extensively in the literature.
+27440255	0	4	Form	T080	C0348078
+27440255	9	17	function	T169	C0542341
+27440255	21	45	gene regulatory networks	T044	C1720950
+27440255	51	60	structure	T082	C0678594
+27440255	64	78	network motifs	T080	C0205556
+27440255	90	112	fundamental properties	T080	C0871161
+27440255	122	143	dynamical state space	T082	C1254362
+27440255	144	158	Network motifs	T080	C0205556
+27440255	223	229	motifs	T080	C0205556
+27440255	243	260	feed-forward loop	T080	C0205556
+27440255	288	307	regulatory networks	T044	C1720950
+27440255	309	315	Recent	T079	C0332185
+27440255	316	323	studies	T062	C2603343
+27440255	334	341	Boolean	T170	C1552663
+27440255	342	349	network	T169	C1882071
+27440255	350	356	motifs	T080	C0205556
+27440255	385	389	form	T080	C0348078
+27440255	394	402	function	T169	C0542341
+27440255	406	430	gene regulatory networks	T044	C1720950
+27440255	455	464	structure	T082	C0678594
+27440255	470	475	motif	T080	C0205556
+27440255	508	516	function	T169	C0542341
+27440255	553	568	gene expression	T045	C0017262
+27440255	569	577	patterns	T082	C0449774
+27440255	582	587	motif	T080	C0205556
+27440255	629	635	higher	T080	C0205250
+27440255	638	643	level	T080	C0441889
+27440255	644	654	definition	T170	C1704788
+27440255	664	672	function	T169	C0542341
+27440255	680	685	motif	T080	C0205556
+27440255	703	725	fundamental properties	T080	C0871161
+27440255	733	754	dynamical state space	T082	C1254362
+27440255	760	767	Boolean	T170	C1552663
+27440255	768	775	network	T169	C1882071
+27440255	788	801	basin entropy	T081	C4068571
+27440255	814	824	complexity	T169	C0237523
+27440255	825	832	measure	T081	C0079809
+27440255	840	848	dynamics	T070	C3826426
+27440255	852	859	Boolean	T170	C1552663
+27440255	860	868	networks	T169	C1882071
+27440255	887	896	diversity	T080	C1880371
+27440255	900	924	cyclic attractor lengths	T081	C1444754
+27440255	938	943	motif	T080	C0205556
+27440255	973	981	measures	T081	C0079809
+27440255	1025	1035	three-node	T077	C2697524
+27440255	1036	1042	motifs	T080	C0205556
+27440255	1061	1071	structural	T082	C0678594
+27440255	1072	1082	properties	T080	C0871161
+27440255	1088	1093	motif	T080	C0205556
+27440255	1119	1133	feedback loops	T080	C0205556
+27440255	1138	1156	feed-forward loops	T080	C0205556
+27440255	1166	1193	fundamental characteristics	T080	C1521970
+27440255	1201	1222	dynamical state space	T082	C1254362
+27440255	1263	1285	functional versatility	T169	C0205245
+27440255	1311	1317	higher	T080	C0205250
+27440255	1320	1325	level	T080	C0441889
+27440255	1326	1336	properties	T080	C0871161
+27440255	1367	1386	regulatory networks	T044	C1720950
+27440255	1396	1409	basin entropy	T081	C4068571
+27440255	1414	1426	cycle length	T081	C1444754
+27440255	1427	1436	diversity	T080	C1880371
+27440255	1474	1484	prevalence	T081	C0220900
+27440255	1489	1495	neural	T040	C0598941
+27440255	1500	1527	genetic regulatory networks	T044	C1720950
+27440255	1549	1555	motifs	T080	C0205556
+27440255	1564	1581	self-interactions	T169	C1704675
+27440255	1624	1634	literature	T170	C0023866

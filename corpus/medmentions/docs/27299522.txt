@@ -1,0 +1,138 @@
+27299522|t|Phosphodiesterase Type 5 Inhibitors and Risk of Malignant Melanoma: Matched Cohort Study Using Primary Care Data from the UK Clinical Practice Research Datalink
+27299522|a|Laboratory evidence suggests that reduced phosphodiesterase type 5 (PDE5) expression increases the invasiveness of melanoma cells; hence, pharmacological inhibition of PDE5 could affect melanoma risk. Two major epidemiological studies have investigated this and come to differing conclusions. We therefore aimed to investigate whether PDE5 inhibitor use is associated with an increased risk of malignant melanoma, and whether any increase in risk is likely to represent a causal relationship. We conducted a matched cohort study using primary care data from the UK Clinical Practice Research Datalink. All men initiating a PDE5 inhibitor and with no prior cancer diagnosis were identified and matched on age, diabetes status, and general practice to up to four unexposed controls. Ever use of a PDE5 inhibitor and time-updated cumulative number of PDE5 inhibitor prescriptions were investigated as exposures, and the primary outcome was malignant melanoma. Basal cell carcinoma, solar keratosis, and colorectal cancer were investigated as negative control outcomes to exclude bias. Hazard ratios (HRs) were estimated from Cox models stratified by matched set and adjusted for potential confounders. 145,104 men with ≥1 PDE5 inhibitor prescription, and 560,933 unexposed matched controls were included. In total, 1,315 incident malignant melanoma diagnoses were observed during 3.44 million person-years of follow-up (mean 4.9 y per person). After adjusting for potential confounders, there was weak evidence of a small positive association between PDE5 inhibitor use and melanoma risk (HR = 1.14, 95% CI 1.01-1.29, p = 0.04). A similar increase in risk was seen for the two negative control outcomes related to sun exposure (HR = 1.15, 95% CI 1.11-1.19, p < 0.001, for basal cell carcinoma; HR = 1.21, 95% CI 1.17-1.25, p < 0.001, for solar keratosis), but there was no increased risk for colorectal cancer (HR = 0.91, 95% CI 0.85-0.98, p = 0.01). There was no evidence that risk increased with number of prescriptions received (p-trend = 0.83). In a post hoc analysis, there was strong evidence that solar keratosis was associated with future PDE5 inhibitor use (odds ratio = 1.28, 95% CI 1.23-1.34, p < 0.001), suggesting that men with higher sun exposure were more likely to become PDE5 inhibitor users. However, a limitation of our study was that we did not have individual-level data on sun exposure, so we could not directly control for this in the primary analysis. Our results were not consistent with PDE5 inhibitors being causally associated with melanoma risk, and strongly suggest that observed risk increases are driven by greater sun exposure among patients exposed to a PDE5 inhibitor.
+27299522	0	35	Phosphodiesterase Type 5 Inhibitors	T121	C1318700
+27299522	40	44	Risk	T081	C0596244
+27299522	48	66	Malignant Melanoma	T191	C0025202
+27299522	68	75	Matched	T062	C0150103
+27299522	76	88	Cohort Study	T081	C0009247
+27299522	95	107	Primary Care	T058	C0033137
+27299522	108	112	Data	T078	C1511726
+27299522	122	124	UK	T083	C0041700
+27299522	161	171	Laboratory	T073,T093	C0022877
+27299522	172	180	evidence	T078	C3887511
+27299522	195	202	reduced	T080	C0392756
+27299522	203	227	phosphodiesterase type 5	T116,T126	C0757672
+27299522	229	233	PDE5	T116,T126	C0757672
+27299522	235	245	expression	T045	C1171362
+27299522	246	255	increases	T169	C0442805
+27299522	260	272	invasiveness	T046	C0920779
+27299522	276	290	melanoma cells	T025	C1513095
+27299522	299	314	pharmacological	T169	C0205464
+27299522	315	325	inhibition	T039	C1524081
+27299522	329	333	PDE5	T116,T126	C0757672
+27299522	347	355	melanoma	T191	C0025202
+27299522	356	360	risk	T081	C0596244
+27299522	372	395	epidemiological studies	T062	C0002783
+27299522	401	413	investigated	T169	C1292732
+27299522	441	452	conclusions	T078	C1707478
+27299522	476	487	investigate	T169	C1292732
+27299522	496	510	PDE5 inhibitor	T121	C1318700
+27299522	518	533	associated with	T080	C0332281
+27299522	537	546	increased	T081	C0205217
+27299522	547	551	risk	T081	C0596244
+27299522	555	573	malignant melanoma	T191	C0025202
+27299522	591	599	increase	T169	C0442805
+27299522	603	607	risk	T081	C0596244
+27299522	640	652	relationship	T080	C0439849
+27299522	669	676	matched	T062	C0150103
+27299522	677	689	cohort study	T081	C0009247
+27299522	696	708	primary care	T058	C0033137
+27299522	709	713	data	T078	C1511726
+27299522	723	725	UK	T083	C0041700
+27299522	767	770	men	T098	C0025266
+27299522	784	798	PDE5 inhibitor	T121	C1318700
+27299522	817	833	cancer diagnosis	T060	C0920688
+27299522	839	849	identified	T080	C0205396
+27299522	854	861	matched	T080	C1708943
+27299522	865	868	age	T032	C0001779
+27299522	870	885	diabetes status	T033	C1317301
+27299522	891	907	general practice	T091	C0086343
+27299522	922	940	unexposed controls	T096	C0009932
+27299522	956	970	PDE5 inhibitor	T121	C1318700
+27299522	975	1005	time-updated cumulative number	T081	C2347182
+27299522	1009	1023	PDE5 inhibitor	T121	C1318700
+27299522	1024	1037	prescriptions	T170	C0033081
+27299522	1043	1055	investigated	T169	C1292732
+27299522	1059	1068	exposures	T033	C2015793
+27299522	1078	1093	primary outcome	T080	C3274433
+27299522	1098	1116	malignant melanoma	T191	C0025202
+27299522	1118	1138	Basal cell carcinoma	T191	C0007117
+27299522	1140	1155	solar keratosis	T191	C0022602
+27299522	1161	1178	colorectal cancer	T191	C1527249
+27299522	1184	1196	investigated	T169	C1292732
+27299522	1200	1216	negative control	T077	C1947986
+27299522	1217	1225	outcomes	T062	C0086750
+27299522	1237	1241	bias	T078	C0242568
+27299522	1243	1256	Hazard ratios	T081	C2985465
+27299522	1258	1261	HRs	T081	C2985465
+27299522	1268	1277	estimated	T081	C0750572
+27299522	1283	1293	Cox models	T081,T170	C0010234
+27299522	1294	1304	stratified	T080	C0205363
+27299522	1308	1319	matched set	T080	C0205556
+27299522	1347	1358	confounders	T169	C0009673
+27299522	1368	1371	men	T098	C0025266
+27299522	1380	1394	PDE5 inhibitor	T121	C1318700
+27299522	1395	1407	prescription	T170	C0033081
+27299522	1421	1447	unexposed matched controls	T096	C0009932
+27299522	1479	1487	incident	T067	C1551358
+27299522	1488	1506	malignant melanoma	T191	C0025202
+27299522	1507	1516	diagnoses	T033	C0011900
+27299522	1543	1563	million person-years	T081	C0392762
+27299522	1567	1576	follow-up	T058	C1522577
+27299522	1587	1599	y per person	T081	C0392762
+27299522	1632	1643	confounders	T169	C0009673
+27299522	1660	1668	evidence	T078	C3887511
+27299522	1680	1700	positive association	T080	C0439849
+27299522	1709	1723	PDE5 inhibitor	T121	C1318700
+27299522	1732	1740	melanoma	T191	C0025202
+27299522	1741	1745	risk	T081	C0596244
+27299522	1747	1749	HR	T081	C2985465
+27299522	1762	1764	CI	T081	C0009667
+27299522	1797	1805	increase	T169	C0442805
+27299522	1809	1813	risk	T081	C0596244
+27299522	1835	1851	negative control	T077	C1947986
+27299522	1852	1860	outcomes	T062	C0086750
+27299522	1872	1884	sun exposure	T033	C1456711
+27299522	1886	1888	HR	T081	C2985465
+27299522	1901	1903	CI	T081	C0009667
+27299522	1930	1950	basal cell carcinoma	T191	C0007117
+27299522	1952	1954	HR	T081	C2985465
+27299522	1967	1969	CI	T081	C0009667
+27299522	1996	2011	solar keratosis	T191	C0022602
+27299522	2031	2040	increased	T081	C0205217
+27299522	2041	2045	risk	T081	C0596244
+27299522	2050	2067	colorectal cancer	T191	C1527249
+27299522	2069	2071	HR	T081	C2985465
+27299522	2084	2086	CI	T081	C0009667
+27299522	2119	2130	no evidence	T080	C0332125
+27299522	2136	2140	risk	T081	C0596244
+27299522	2141	2150	increased	T081	C0205217
+27299522	2166	2179	prescriptions	T170	C0033081
+27299522	2180	2188	received	T080	C1514756
+27299522	2212	2229	post hoc analysis	T062	C0242481
+27299522	2248	2256	evidence	T078	C3887511
+27299522	2262	2277	solar keratosis	T191	C0022602
+27299522	2282	2297	associated with	T080	C0332281
+27299522	2305	2319	PDE5 inhibitor	T121	C1318700
+27299522	2325	2335	odds ratio	T081	C0028873
+27299522	2348	2350	CI	T081	C0009667
+27299522	2390	2393	men	T098	C0025266
+27299522	2406	2418	sun exposure	T033	C1456711
+27299522	2446	2460	PDE5 inhibitor	T121	C1318700
+27299522	2461	2466	users	T098	C1706077
+27299522	2479	2489	limitation	T169	C0449295
+27299522	2497	2502	study	T062	C2603343
+27299522	2528	2549	individual-level data	UnknownType	C0814855
+27299522	2553	2565	sun exposure	T033	C1456711
+27299522	2592	2599	control	T078	C1547100
+27299522	2616	2632	primary analysis	T062	C0936012
+27299522	2671	2686	PDE5 inhibitors	T121	C1318700
+27299522	2702	2717	associated with	T080	C0332281
+27299522	2718	2726	melanoma	T191	C0025202
+27299522	2727	2731	risk	T081	C0596244
+27299522	2768	2772	risk	T081	C0596244
+27299522	2773	2782	increases	T169	C0442805
+27299522	2805	2817	sun exposure	T033	C1456711
+27299522	2824	2832	patients	T101	C0030705
+27299522	2833	2843	exposed to	T080	C0332157
+27299522	2846	2860	PDE5 inhibitor	T121	C1318700

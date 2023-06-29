@@ -1,0 +1,86 @@
+28468761|t|CD177 (+) neutrophils as functionally activated neutrophils negatively regulate IBD
+28468761|a|Neutrophils are accumulated in inflamed mucosa of IBD and play an important role in the pathogenesis. CD177 is expressed in neutrophils specifically and upregulated during inflammation. However, the role of CD177(+) neutrophils in pathogenesis of IBD remains elusive. Expression of CD177 was analysed in peripheral blood and intestinal mucosa from patients with IBD using quantitative RT-PCR, flow cytometry and immunohistochemistry. CD177(+) and CD177(-) neutrophils were isolated to determine gene differences by RNA sequencing. Colitis was established in CD177(-/-) and wild-type mice in response to dextran sulfate sodium (DSS) insults to determine the role of CD177(+) neutrophils in IBD. CD177(+) neutrophils were markedly increased in peripheral blood and inflamed mucosa from patients with active IBD compared with healthy controls. RNA sequencing revealed that differential gene expression between CD177(+) and CD177(-) neutrophils from patients with IBD was associated with response to bacterial defence, hydrogen peroxide and reactive oxygen species (ROS). CD177(+) neutrophils produced lower levels of proinflammatory cytokines (ie, interferon-γ, interleukin (IL)-6, IL-17A), but higher levels of IL-22 and transforming growth factor-β, and exhibited increased bactericidal activities (ie, ROS, antimicrobial peptides, neutrophil extracellular trap) compared with CD177(-) subset. CD177(-/-) mice developed more severe colitis on DSS insults compared with wild-type mice. Moreover, CD177 deficiency led to compromised intestinal barrier and impaired antibacterial immunity through decreased production of IL-22 by CD177(-) neutrophils. CD177(+) neutrophils represent functionally activated population and play a protective role in IBD through increased bactericidal activity and IL-22 production. Targeting CD177 (+) neutrophils may be beneficial for treatment of IBD.
+28468761	0	5	CD177	T017	UMLS:C1824675
+28468761	10	21	neutrophils	T017	UMLS:C0027950
+28468761	48	59	neutrophils	T017	UMLS:C0027950
+28468761	80	83	IBD	T038	UMLS:C0021390
+28468761	84	95	Neutrophils	T017	UMLS:C0027950
+28468761	134	137	IBD	T038	UMLS:C0021390
+28468761	172	184	pathogenesis	T038	UMLS:C0699748
+28468761	186	191	CD177	T017	UMLS:C1824675
+28468761	195	204	expressed	T038	UMLS:C0017262
+28468761	208	219	neutrophils	T017	UMLS:C0027950
+28468761	237	248	upregulated	T038	UMLS:C0041904
+28468761	256	268	inflammation	T038	UMLS:C0021368
+28468761	291	299	CD177(+)	T017	UMLS:C1824675
+28468761	300	311	neutrophils	T017	UMLS:C0027950
+28468761	315	327	pathogenesis	T038	UMLS:C0699748
+28468761	331	334	IBD	T038	UMLS:C0021390
+28468761	352	362	Expression	T038	UMLS:C0017262
+28468761	366	371	CD177	T017	UMLS:C1824675
+28468761	388	404	peripheral blood	T031	UMLS:C0229664
+28468761	409	426	intestinal mucosa	T017	UMLS:C0021839
+28468761	446	449	IBD	T038	UMLS:C0021390
+28468761	469	475	RT-PCR	T062	UMLS:C0599161
+28468761	477	491	flow cytometry	T058	UMLS:C0016263
+28468761	496	516	immunohistochemistry	T058	UMLS:C0021044
+28468761	518	526	CD177(+)	T017	UMLS:C1824675
+28468761	531	539	CD177(-)	T017	UMLS:C1824675
+28468761	540	551	neutrophils	T017	UMLS:C0027950
+28468761	579	583	gene	T017	UMLS:C0017337
+28468761	599	613	RNA sequencing	T058	UMLS:C0917793
+28468761	615	622	Colitis	T038	UMLS:C0009319
+28468761	642	652	CD177(-/-)	T017	UMLS:C1824675
+28468761	657	671	wild-type mice	T204	UMLS:C1520150
+28468761	687	709	dextran sulfate sodium	T103	UMLS:C0079225
+28468761	711	714	DSS	T103	UMLS:C0079225
+28468761	749	757	CD177(+)	T017	UMLS:C1824675
+28468761	758	769	neutrophils	T017	UMLS:C0027950
+28468761	773	776	IBD	T038	UMLS:C0021390
+28468761	778	786	CD177(+)	T017	UMLS:C1824675
+28468761	787	798	neutrophils	T017	UMLS:C0027950
+28468761	826	842	peripheral blood	T031	UMLS:C0229664
+28468761	889	892	IBD	T038	UMLS:C0021390
+28468761	925	939	RNA sequencing	T058	UMLS:C0917793
+28468761	967	982	gene expression	T038	UMLS:C0017262
+28468761	991	999	CD177(+)	T017	UMLS:C1824675
+28468761	1004	1012	CD177(-)	T017	UMLS:C1824675
+28468761	1013	1024	neutrophils	T017	UMLS:C0027950
+28468761	1044	1047	IBD	T038	UMLS:C0021390
+28468761	1080	1097	bacterial defence	T038	UMLS:C1327592
+28468761	1099	1116	hydrogen peroxide	T103	UMLS:C0020281
+28468761	1121	1144	reactive oxygen species	T103	UMLS:C0162772
+28468761	1146	1149	ROS	T103	UMLS:C0162772
+28468761	1152	1160	CD177(+)	T017	UMLS:C1824675
+28468761	1161	1172	neutrophils	T017	UMLS:C0027950
+28468761	1198	1223	proinflammatory cytokines	T103	UMLS:C0079189
+28468761	1229	1241	interferon-γ	T103	UMLS:C0021745
+28468761	1243	1261	interleukin (IL)-6	T103	UMLS:C0021760
+28468761	1263	1269	IL-17A	T103	UMLS:C1705947
+28468761	1293	1298	IL-22	T103	UMLS:C0961814
+28468761	1303	1331	transforming growth factor-β	T103	UMLS:C0040690
+28468761	1357	1380	bactericidal activities	T038	UMLS:C0544570
+28468761	1386	1389	ROS	T103	UMLS:C0162772
+28468761	1391	1413	antimicrobial peptides	T103	UMLS:C0030956
+28468761	1415	1444	neutrophil extracellular trap	T017	UMLS:C3850088
+28468761	1460	1468	CD177(-)	T017	UMLS:C1824675
+28468761	1477	1487	CD177(-/-)	T017	UMLS:C1824675
+28468761	1488	1492	mice	T204	UMLS:C0026809
+28468761	1515	1522	colitis	T038	UMLS:C0009319
+28468761	1526	1529	DSS	T103	UMLS:C0079225
+28468761	1552	1566	wild-type mice	T204	UMLS:C1520150
+28468761	1578	1583	CD177	T017	UMLS:C1824675
+28468761	1614	1632	intestinal barrier	T038	UMLS:C3821032
+28468761	1646	1668	antibacterial immunity	T038	UMLS:C0020964
+28468761	1701	1706	IL-22	T103	UMLS:C0961814
+28468761	1710	1718	CD177(-)	T017	UMLS:C1824675
+28468761	1719	1730	neutrophils	T017	UMLS:C0027950
+28468761	1732	1740	CD177(+)	T017	UMLS:C1824675
+28468761	1741	1752	neutrophils	T017	UMLS:C0027950
+28468761	1827	1830	IBD	T038	UMLS:C0021390
+28468761	1849	1870	bactericidal activity	T038	UMLS:C0544570
+28468761	1875	1880	IL-22	T103	UMLS:C0961814
+28468761	1903	1908	CD177	T017	UMLS:C1824675
+28468761	1913	1924	neutrophils	T017	UMLS:C0027950
+28468761	1947	1956	treatment	T058	UMLS:C0087111
+28468761	1960	1963	IBD	T038	UMLS:C0021390

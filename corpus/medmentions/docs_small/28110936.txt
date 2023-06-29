@@ -1,0 +1,35 @@
+28110936|t|Physical Activity and Abnormal Blood Glucose Among Healthy Weight Adults
+28110936|a|Physical activity has been linked to prevention and treatment of prediabetes and diabetes in overweight and obese adults. This study examines the relationship between low physical activity levels and risk of abnormal blood glucose (prediabetes or undiagnosed diabetes) in healthy weight adults. Data from the 2014 Health Survey for England were analyzed in July 2016, focusing on adults with a BMI ≥18.5 and <25 who had never been diagnosed with diabetes (N=1,153). Abnormal blood glucose was defined as hemoglobin A1c ≥5.7. Physical activity was measured through the International Physical Activity Questionnaire. Bivariate analyses and Poisson models were conducted on the effect of physical activity on abnormal blood glucose, controlling for age, sex, waist to hip ratio, sitting time, age X physical activity interaction, sex X physical activity, and race. Abnormal blood glucose was detected in 23.7% of individuals with low activity levels, 14.8% of those with medium activity levels, and 12.2% of those with high activity levels (p<0.003). Similarly, 25.4% of inactive individuals (physically active for <30 minutes per week) were more likely to have abnormal blood glucose levels than active individuals (13.4%, p<0.0001). Higher physical activity was associated with a lower likelihood of abnormal blood glucose in an adjusted Poisson regression. Among healthy weight adults, low physical activity levels are significantly associated with abnormal blood glucose (prediabetes and undiagnosed diabetes). These findings suggest that healthy weight individuals may benefit from physical exercise.
+28110936	22	44	Abnormal Blood Glucose	T033	UMLS:C0580546
+28110936	125	134	treatment	T058	UMLS:C0087111
+28110936	138	149	prediabetes	T038	UMLS:C0362046
+28110936	154	162	diabetes	T038	UMLS:C0011847
+28110936	166	186	overweight and obese	T038	UMLS:C1561826
+28110936	281	303	abnormal blood glucose	T033	UMLS:C0580546
+28110936	305	316	prediabetes	T038	UMLS:C0362046
+28110936	320	331	undiagnosed	T033	UMLS:C1408353
+28110936	332	340	diabetes	T038	UMLS:C0011847
+28110936	368	372	Data	T170	UMLS:C0150098
+28110936	387	412	Health Survey for England	T092	UMLS:C1708333
+28110936	467	470	BMI	T201	UMLS:C1305855
+28110936	504	513	diagnosed	T033	UMLS:C0011900
+28110936	519	527	diabetes	T038	UMLS:C0011847
+28110936	539	561	Abnormal blood glucose	T033	UMLS:C0580546
+28110936	577	591	hemoglobin A1c	T058	UMLS:C0202054
+28110936	711	725	Poisson models	T170	UMLS:C0282574
+28110936	779	801	abnormal blood glucose	T033	UMLS:C0580546
+28110936	929	933	race	T098	UMLS:C0034510
+28110936	935	957	Abnormal blood glucose	T033	UMLS:C0580546
+28110936	983	994	individuals	T098	UMLS:C0027361
+28110936	1150	1161	individuals	T098	UMLS:C0027361
+28110936	1163	1180	physically active	T033	UMLS:C0556453
+28110936	1232	1261	abnormal blood glucose levels	T033	UMLS:C0580546
+28110936	1274	1285	individuals	T098	UMLS:C0027361
+28110936	1372	1394	abnormal blood glucose	T033	UMLS:C0580546
+28110936	1410	1428	Poisson regression	T170	UMLS:C0034980
+28110936	1522	1544	abnormal blood glucose	T033	UMLS:C0580546
+28110936	1546	1557	prediabetes	T038	UMLS:C0362046
+28110936	1562	1573	undiagnosed	T033	UMLS:C1408353
+28110936	1574	1582	diabetes	T038	UMLS:C0011847
+28110936	1591	1599	findings	T033	UMLS:C0243095
+28110936	1628	1639	individuals	T098	UMLS:C0027361

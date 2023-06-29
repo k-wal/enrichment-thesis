@@ -1,0 +1,30 @@
+27742350|t|Modeling nurse-patient assignments considering patient acuity and travel distance metrics
+27742350|a|Balancing workload among nurses on a hospital unit is important for the satisfaction and safety of nurses and patients. To balance nurse workloads, direct patient care activities, indirect patient care activities, and non-patient care activities that occur throughout a shift must be considered. The layout of a hospital unit and the location of a nurse's assigned patients relative to other resources on the unit are also important factors in achieving workload balance. In most hospitals, a unit charge nurse is responsible for the shift assignment of patients to nurses based on experience and past practices. The nurse-patient assignment process is also often a manual process in which the charge nurse must sort through multiple decision criteria in a limited amount of time. In this paper, a methodology for the construction of balanced nurse-patient workload assignments is proposed. Through the illustration of this methodology new scoring metrics are developed using measures currently available on, or from, the hospital unit. It was demonstrated that the complex scheduling problem can be captured. While the methodology was illustrated for a scheduling problem commonly encountered on a hospital unit, the approach can be adapted to other workforce scheduling problems in which measures of workload are required and composed of elements imposed by the work environment, variability within the required tasks, and a measurable perception of the relative intensity of the work elements.
+27742350	0	8	Modeling	T062	UMLS:C0870071
+27742350	115	121	nurses	T097	UMLS:C0028661
+27742350	127	140	hospital unit	T092	UMLS:C0019988
+27742350	162	174	satisfaction	T038	UMLS:C0242428
+27742350	189	195	nurses	T097	UMLS:C0028661
+27742350	221	226	nurse	T097	UMLS:C0028661
+27742350	245	268	patient care activities	T058	UMLS:C0017313
+27742350	279	302	patient care activities	T058	UMLS:C0017313
+27742350	402	415	hospital unit	T092	UMLS:C0019988
+27742350	424	432	location	T082	UMLS:C0450429
+27742350	438	445	nurse's	T097	UMLS:C0028661
+27742350	499	503	unit	T092	UMLS:C0019988
+27742350	534	543	achieving	T033	UMLS:C1272277
+27742350	570	579	hospitals	T092	UMLS:C0019994
+27742350	595	600	nurse	T097	UMLS:C0028661
+27742350	604	615	responsible	T033	UMLS:C1273518
+27742350	656	662	nurses	T097	UMLS:C0028661
+27742350	672	682	experience	T038	UMLS:C0596545
+27742350	687	701	past practices	T038	UMLS:C0237607
+27742350	791	796	nurse	T097	UMLS:C0028661
+27742350	1112	1125	hospital unit	T092	UMLS:C0019988
+27742350	1175	1182	problem	T033	UMLS:C0033213
+27742350	1255	1262	problem	T033	UMLS:C0033213
+27742350	1289	1302	hospital unit	T092	UMLS:C0019988
+27742350	1308	1316	approach	T082	UMLS:C0449445
+27742350	1362	1370	problems	T033	UMLS:C0033213
+27742350	1454	1470	work environment	T082	UMLS:C0162579
+27742350	1528	1538	perception	T038	UMLS:C0030971

@@ -1,0 +1,127 @@
+27552906|t|Numerical simulation of emitted particle characteristics and airway deposition distribution of Symbicort(®) Turbuhaler(®) dry powder fixed combination aerosol drug
+27552906|a|One of the most widespread dry powder fixed combinations used in asthma and chronic obstructive pulmonary disease (COPD) management is Symbicort(®) Turbuhaler(®). The aim of this study was to simulate the deposition distribution of both components of this drug within the airways based on realistic airflow measurements. Breathing parameters of 25 healthy adults (11 females and 14 males) were acquired while inhaling through Turbuhaler(®). Individual specific emitted doses and particle size distributions of Symbicort(®) Turbuhaler(®) were determined. A self-developed particle deposition model was adapted and validated to simulate the deposition of budesonide (inhaled corticosteroid; ICS) and formoterol (long acting β2 agonist; LABA) in the upper airways and lungs of the healthy volunteers. Based on current simulations the emitted doses varied between 50.4% and 92.5% of the metered dose for the ICS, and between 38% and 96.1% in case of LABA component depending on the individual inhalation flow rate. This variability induced a notable inter- individual spread of the deposited lung doses (mean: 33.6%, range: 20.4%-48.8% for budesonide and mean: 29.8%, range: 16.4%-42.9% for formoterol). Significant inter-gender differences were also observed. Average lung dose of budesonide was 29.2% of the metered dose for females and 37% for males, while formoterol deposited with 26.4% efficiency for females and 32.5% for males. Present results also highlighted the importance of breath-holding after inhalation of the drug. About a half of the total lung deposition occurred during breath-hold at 9.6s average breath-hold time. Calculated depositions confirmed appropriate lung deposition of Symbicort(®) Turbuhaler(®) for both genders, however more effort for optimal inhalation technique is advised for persons with low vital capacity. This study demonstrated the possibility of personalized prediction of airway deposition of aerosol drugs by numerical simulations. The methodology developed in this study will be applicable also to other marketed drugs in the future.
+27552906	0	20	Numerical simulation	T062	C0679083
+27552906	24	40	emitted particle	T104	C0597177
+27552906	41	56	characteristics	T080	C1521970
+27552906	61	67	airway	T023	C0458827
+27552906	68	78	deposition	T169	C0333562
+27552906	79	91	distribution	T039	C1378698
+27552906	95	121	Symbicort(®) Turbuhaler(®)	T109,T121	C1735945
+27552906	122	132	dry powder	T122	C0032861
+27552906	139	150	combination	T121	C0013162
+27552906	151	163	aerosol drug	T122	C1112870
+27552906	191	201	dry powder	T122	C0032861
+27552906	208	220	combinations	T121	C0013162
+27552906	229	235	asthma	T047	C0004096
+27552906	240	277	chronic obstructive pulmonary disease	T047	C0024117
+27552906	279	283	COPD	T047	C0024117
+27552906	285	295	management	T058	C0376636
+27552906	299	325	Symbicort(®) Turbuhaler(®)	T109,T121	C1735945
+27552906	343	348	study	T062	C2603343
+27552906	356	364	simulate	T062	C0679083
+27552906	369	379	deposition	T169	C0333562
+27552906	380	392	distribution	T039	C1378698
+27552906	401	411	components	T185	C0184498
+27552906	420	424	drug	T121	C1254351
+27552906	436	443	airways	T023	C0458827
+27552906	463	483	airflow measurements	T060	C0678216
+27552906	485	494	Breathing	T040	C0004048
+27552906	495	505	parameters	T077	C0549193
+27552906	512	526	healthy adults	T033	C0686750
+27552906	531	538	females	T032	C0086287
+27552906	546	551	males	T032	C0086582
+27552906	558	566	acquired	T080	C0439661
+27552906	573	581	inhaling	T040	C0004048
+27552906	590	603	Turbuhaler(®)	T074	C1553479
+27552906	605	615	Individual	T098	C0027361
+27552906	625	638	emitted doses	T081	C0178602
+27552906	643	656	particle size	T081	C0030608
+27552906	657	670	distributions	T039	C1378698
+27552906	674	700	Symbicort(®) Turbuhaler(®)	T109,T121	C1735945
+27552906	706	716	determined	T080	C0521095
+27552906	735	743	particle	T104	C0597177
+27552906	744	754	deposition	T169	C0333562
+27552906	755	760	model	T170	C3161035
+27552906	765	772	adapted	T169	C0205245
+27552906	777	786	validated	T169	C0205245
+27552906	790	798	simulate	T062	C0679083
+27552906	803	813	deposition	T169	C0333562
+27552906	817	827	budesonide	T109,T121	C0054201
+27552906	829	851	inhaled corticosteroid	T109,T121,T125	C1629043
+27552906	853	856	ICS	T109,T121,T125	C1629043
+27552906	862	872	formoterol	T109,T121	C0060657
+27552906	874	896	long acting β2 agonist	T121	C2987634
+27552906	898	902	LABA	T121	C2987634
+27552906	911	924	upper airways	T030	C0225377
+27552906	929	934	lungs	T023	C0024109
+27552906	942	960	healthy volunteers	T098	C1708335
+27552906	971	978	current	T079	C0521116
+27552906	979	990	simulations	T062	C0679083
+27552906	995	1008	emitted doses	T081	C0178602
+27552906	1055	1059	dose	T081	C0178602
+27552906	1068	1071	ICS	T109,T121,T125	C1629043
+27552906	1110	1114	LABA	T121	C2987634
+27552906	1115	1124	component	T185	C0184498
+27552906	1142	1152	individual	T098	C0027361
+27552906	1153	1173	inhalation flow rate	T201	C0231832
+27552906	1180	1191	variability	T077	C2827666
+27552906	1192	1199	induced	T169	C0205263
+27552906	1217	1227	individual	T098	C0027361
+27552906	1228	1234	spread	T080	C0332261
+27552906	1242	1251	deposited	T169	C0333562
+27552906	1252	1256	lung	T023	C0024109
+27552906	1257	1262	doses	T081	C0178602
+27552906	1277	1282	range	T081	C1514721
+27552906	1300	1310	budesonide	T109,T121	C0054201
+27552906	1328	1333	range	T081	C1514721
+27552906	1351	1361	formoterol	T109,T121	C0060657
+27552906	1364	1375	Significant	T078	C0750502
+27552906	1376	1388	inter-gender	T032	C0079399
+27552906	1389	1400	differences	T080	C1705242
+27552906	1411	1419	observed	T169	C1441672
+27552906	1429	1433	lung	T023	C0024109
+27552906	1434	1438	dose	T081	C0178602
+27552906	1442	1452	budesonide	T109,T121	C0054201
+27552906	1478	1482	dose	T081	C0178602
+27552906	1487	1494	females	T032	C0086287
+27552906	1507	1512	males	T032	C0086582
+27552906	1520	1530	formoterol	T109,T121	C0060657
+27552906	1531	1540	deposited	T169	C0333562
+27552906	1552	1562	efficiency	T081	C0013682
+27552906	1567	1574	females	T032	C0086287
+27552906	1589	1594	males	T032	C0086582
+27552906	1604	1611	results	T169	C1274040
+27552906	1633	1643	importance	T080	C3898777
+27552906	1647	1661	breath-holding	T033	C0235744
+27552906	1668	1678	inhalation	T040	C0004048
+27552906	1686	1690	drug	T121	C1254351
+27552906	1718	1722	lung	T023	C0024109
+27552906	1723	1733	deposition	T169	C0333562
+27552906	1734	1742	occurred	T052	C1709305
+27552906	1750	1761	breath-hold	T033	C0235744
+27552906	1778	1789	breath-hold	T033	C0235744
+27552906	1790	1794	time	T079	C0040223
+27552906	1807	1818	depositions	T169	C0333562
+27552906	1819	1828	confirmed	T080	C0521093
+27552906	1829	1840	appropriate	T080	C1548787
+27552906	1841	1845	lung	T023	C0024109
+27552906	1846	1856	deposition	T169	C0333562
+27552906	1860	1886	Symbicort(®) Turbuhaler(®)	T109,T121	C1735945
+27552906	1896	1903	genders	T032	C0079399
+27552906	1929	1957	optimal inhalation technique	T061	C1998547
+27552906	1961	1968	advised	T078	C0034866
+27552906	1973	1980	persons	T098	C0027361
+27552906	1986	2004	low vital capacity	T033	C0476408
+27552906	2011	2016	study	T062	C2603343
+27552906	2049	2061	personalized	T080	C1709510
+27552906	2062	2072	prediction	T078	C0681842
+27552906	2076	2082	airway	T023	C0458827
+27552906	2083	2093	deposition	T169	C0333562
+27552906	2097	2110	aerosol drugs	T122	C1112870
+27552906	2114	2135	numerical simulations	T062	C0679083
+27552906	2141	2152	methodology	T078	C3266812
+27552906	2171	2176	study	T062	C2603343
+27552906	2185	2195	applicable	T080	C1706839
+27552906	2210	2218	marketed	T080	C3640197
+27552906	2219	2224	drugs	T121	C1254351
+27552906	2232	2238	future	T079	C0016884

@@ -1,0 +1,34 @@
+20606392|t|Atypical GH insensitivity syndrome and severe insulin-like growth factor-I deficiency resulting from compound heterozygous mutations of the GH receptor, including a novel frameshift mutation affecting the intracellular domain.
+20606392|a|BACKGROUND/AIMS: GH insensitivity and IGF deficiency may result from aberrations of the GH receptor (GHR). We describe a 4-year-old child with modest growth failure and normal serum concentrations of GH-binding protein (GHBP), but clinical evidence of GH insensitivity. METHOD: Serum and DNA samples from the proband and his parents were analyzed. RESULTS: The child had a height of -4 SD, elevated serum GH concentrations, abnormally low serum IGF-I and IGFBP-3 concentrations and normal GHBP concentrations. DNA analysis revealed compound heterozygosity for mutations of GHR, including a previously reported R211H mutation and a novel duplication of a nucleotide in exon 9 (899dupC), the latter resulting in a frameshift and a premature stop codon. Treatment with recombinant DNA-derived IGF-I resulted in growth acceleration. CONCLUSION: Mutations affecting the intracellular domain of the GHR can result in GH insensitivity and IGF deficiency, despite normal serum concentrations of GHBP. The presence of clinical and biochemical evidence of GH resistance is sufficient to consider the possibility of aberrations of the GHR, even in the presence of normal serum GHBP concentrations.
+20606392	9	34	GH insensitivity syndrome	DiseaseOrPhenotypicFeature	D046150
+20606392	46	85	insulin-like growth factor-I deficiency	DiseaseOrPhenotypicFeature	C563867
+20606392	140	151	GH receptor	GeneOrGeneProduct	2690
+20606392	244	260	GH insensitivity	DiseaseOrPhenotypicFeature	D046150
+20606392	265	279	IGF deficiency	DiseaseOrPhenotypicFeature	C563867
+20606392	315	326	GH receptor	GeneOrGeneProduct	2690
+20606392	328	331	GHR	GeneOrGeneProduct	2690
+20606392	377	391	growth failure	DiseaseOrPhenotypicFeature	D006130
+20606392	427	445	GH-binding protein	GeneOrGeneProduct	2690
+20606392	447	451	GHBP	GeneOrGeneProduct	2690
+20606392	479	495	GH insensitivity	DiseaseOrPhenotypicFeature	D046150
+20606392	632	634	GH	GeneOrGeneProduct	2688
+20606392	672	677	IGF-I	GeneOrGeneProduct	3479
+20606392	682	689	IGFBP-3	GeneOrGeneProduct	3486
+20606392	716	720	GHBP	GeneOrGeneProduct	2690
+20606392	800	803	GHR	GeneOrGeneProduct	2690
+20606392	837	842	R211H	SequenceVariant	p|SUB|R|211|H
+20606392	903	910	899dupC	SequenceVariant	c|DUP|899|C|
+20606392	1017	1022	IGF-I	GeneOrGeneProduct	3479
+20606392	1120	1123	GHR	GeneOrGeneProduct	2690
+20606392	1138	1154	GH insensitivity	DiseaseOrPhenotypicFeature	D046150
+20606392	1159	1173	IGF deficiency	DiseaseOrPhenotypicFeature	C563867
+20606392	1214	1218	GHBP	GeneOrGeneProduct	2690
+20606392	1273	1275	GH	GeneOrGeneProduct	2688
+20606392	1351	1354	GHR	GeneOrGeneProduct	2690
+20606392	1393	1397	GHBP	GeneOrGeneProduct	2690
+20606392	Positive_Correlation	D046150	c|DUP|899|C|	Novel
+20606392	Positive_Correlation	D046150	p|SUB|R|211|H	Novel
+20606392	Association	D046150	2690	Novel
+20606392	Positive_Correlation	C563867	c|DUP|899|C|	Novel
+20606392	Positive_Correlation	C563867	p|SUB|R|211|H	Novel
+20606392	Association	C563867	2690	Novel

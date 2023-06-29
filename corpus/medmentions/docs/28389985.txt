@@ -1,0 +1,63 @@
+28389985|t|A Malaria Transmission Model with Temperature -Dependent Incubation Period
+28389985|a|Malaria is an infectious disease caused by Plasmodium parasites and is transmitted among humans by female Anopheles mosquitoes. Climate factors have significant impact on both mosquito life cycle and parasite development. To consider the temperature sensitivity of the extrinsic incubation period (EIP) of malaria parasites, we formulate a delay differential equations model with a periodic time delay. We derive the basic reproduction ratio [Formula: see text] and establish a threshold type result on the global dynamics in terms of [Formula: see text], that is, the unique disease-free periodic solution is globally asymptotically stable if [Formula: see text]; and the model system admits a unique positive periodic solution which is globally asymptotically stable if [Formula: see text]. Numerically, we parameterize the model with data from Maputo Province, Mozambique, and simulate the long-term behavior of solutions. The simulation result is consistent with the obtained analytic result. In addition, we find that using the time -averaged EIP may underestimate the basic reproduction ratio.
+28389985	2	9	Malaria	T047	C0024530
+28389985	10	22	Transmission	T046	C0242781
+28389985	23	28	Model	T170	C0876936
+28389985	34	45	Temperature	T081	C0039476
+28389985	57	74	Incubation Period	T033	C1320226
+28389985	75	82	Malaria	T047	C0024530
+28389985	89	107	infectious disease	T047	C0009450
+28389985	118	128	Plasmodium	T204	C0032148
+28389985	129	138	parasites	T204	C0030498
+28389985	146	157	transmitted	T046	C0242781
+28389985	164	170	humans	T016	C0086418
+28389985	174	180	female	T032	C0086287
+28389985	181	190	Anopheles	T204	C0003117
+28389985	191	201	mosquitoes	T204	C0026584
+28389985	203	210	Climate	T070	C0008946
+28389985	211	218	factors	T169	C1521761
+28389985	224	235	significant	T078	C0750502
+28389985	251	259	mosquito	T204	C0026584
+28389985	260	270	life cycle	T079	C0023675
+28389985	275	283	parasite	T204	C0030498
+28389985	284	295	development	T040	C0678723
+28389985	313	324	temperature	T081	C0039476
+28389985	325	336	sensitivity	T169	C0332324
+28389985	344	371	extrinsic incubation period	T033	C1443980
+28389985	373	376	EIP	T033	C1443980
+28389985	381	388	malaria	T047	C0024530
+28389985	389	398	parasites	T204	C0030498
+28389985	403	412	formulate	T169	C0033210
+28389985	415	449	delay differential equations model	T170	C0876936
+28389985	457	465	periodic	T079	C0332182
+28389985	466	476	time delay	T079	C0522486
+28389985	492	516	basic reproduction ratio	T081	C1564867
+28389985	518	525	Formula	T170	C0489829
+28389985	553	562	threshold	T080	C0449864
+28389985	568	574	result	T169	C1274040
+28389985	582	588	global	T080	C2348867
+28389985	611	618	Formula	T170	C0489829
+28389985	651	663	disease-free	T080	C3898900
+28389985	664	681	periodic solution	T081	C2350481
+28389985	685	693	globally	T080	C2348867
+28389985	694	715	asymptotically stable	T080	C0205360
+28389985	720	727	Formula	T170	C0489829
+28389985	748	760	model system	T170	C0876936
+28389985	786	803	periodic solution	T081	C2350481
+28389985	813	821	globally	T080	C2348867
+28389985	822	843	asymptotically stable	T080	C0205360
+28389985	848	855	Formula	T170	C0489829
+28389985	868	879	Numerically	T081	C0237753
+28389985	901	906	model	T170	C0876936
+28389985	912	916	data	T078	C1511726
+28389985	922	937	Maputo Province	T083	C0017446
+28389985	939	949	Mozambique	T083	C0026655
+28389985	955	963	simulate	T062	C0679083
+28389985	990	999	solutions	T081	C2350481
+28389985	1005	1015	simulation	T062	C0679083
+28389985	1016	1022	result	T169	C1274040
+28389985	1055	1070	analytic result	T169	C1274040
+28389985	1108	1112	time	T079	C0040223
+28389985	1108	1112	time	T079	C0040223
+28389985	1123	1126	EIP	T033	C1443980
+28389985	1149	1173	basic reproduction ratio	T081	C1564867

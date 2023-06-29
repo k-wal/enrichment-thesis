@@ -1,0 +1,56 @@
+27742121|t|The association between antidepressant use and hemoglobin A1C in older adults
+27742121|a|Depression is known to increase diabetes risk and worsen glycemic control in older adults, who already experience high rates of diabetes. The independent impact of antidepressants on glucose control is less clear. Data was drawn from the Health and Retirement Study, a large nationally - representative longitudinal study of retired individuals. Crude and adjusted linear models stratified by diabetes status were used to examine the cross-sectional associations between antidepressant use categorized by subclass and continuous hemoglobin A1C. The sample included 1,153 individuals, most over the age of 70. Antidepressant use was not associated with hemoglobin A1C in any model whether stratified or in the total combined sample. Antidepressants as a class were also not associated with hemoglobin A1C. These findings add to the literature suggesting that antidepressants are not associated with diabetes risk or glycemic control. Prospective studies with larger sample sizes are needed to confirm this finding.
+27742121	4	15	association	T080	C0439849
+27742121	24	38	antidepressant	T121	C0003289
+27742121	39	42	use	T169	C0457083
+27742121	47	61	hemoglobin A1C	T116,T123	C0019018
+27742121	65	77	older adults	T098	C0001792
+27742121	78	88	Depression	T048	C0011570
+27742121	110	123	diabetes risk	T081	C1171304
+27742121	128	151	worsen glycemic control	T046	C0342299
+27742121	155	167	older adults	T098	C0001792
+27742121	197	202	rates	T081	C1521828
+27742121	206	214	diabetes	T047	C0011847
+27742121	220	231	independent	T078	C0085862
+27742121	232	238	impact	T080	C4049986
+27742121	242	257	antidepressants	T121	C0003289
+27742121	261	276	glucose control	T061	C3267174
+27742121	292	296	Data	T078	C1511726
+27742121	316	343	Health and Retirement Study	T081	C0086569
+27742121	353	363	nationally	T092	C1555720
+27742121	366	380	representative	T052	C1882932
+27742121	381	399	longitudinal study	T081	C0086569
+27742121	403	422	retired individuals	T097	C4076599
+27742121	424	429	Crude	T080	C1709843
+27742121	434	442	adjusted	T169	C0456081
+27742121	443	456	linear models	T081	C0023732
+27742121	457	467	stratified	T080	C0205363
+27742121	471	486	diabetes status	T033	C1317301
+27742121	512	540	cross-sectional associations	T062	C0010362
+27742121	549	563	antidepressant	T121	C0003289
+27742121	564	567	use	T169	C0457083
+27742121	596	606	continuous	T078	C0549178
+27742121	607	621	hemoglobin A1C	T116,T123	C0019018
+27742121	649	660	individuals	T098	C0027361
+27742121	676	679	age	T032	C0001779
+27742121	687	701	Antidepressant	T121	C0003289
+27742121	702	705	use	T169	C0457083
+27742121	710	713	not	T033	C1513916
+27742121	714	729	associated with	T080	C0332281
+27742121	730	744	hemoglobin A1C	T116,T123	C0019018
+27742121	752	757	model	T170	C3161035
+27742121	766	776	stratified	T080	C0205363
+27742121	793	801	combined	T080	C0205195
+27742121	810	825	Antidepressants	T121	C0003289
+27742121	847	850	not	T033	C1513916
+27742121	851	866	associated with	T080	C0332281
+27742121	867	881	hemoglobin A1C	T116,T123	C0019018
+27742121	889	897	findings	T033	C0243095
+27742121	936	951	antidepressants	T121	C0003289
+27742121	956	959	not	T033	C1513916
+27742121	960	975	associated with	T080	C0332281
+27742121	976	989	diabetes risk	T081	C1171304
+27742121	993	1009	glycemic control	T061	C3267174
+27742121	1011	1030	Prospective studies	T062	C0033522
+27742121	1043	1055	sample sizes	T081	C0242618
+27742121	1083	1090	finding	T033	C0243095

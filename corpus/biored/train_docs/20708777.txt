@@ -1,0 +1,64 @@
+20708777|t|Association of DNA polymorphisms within the CYP11B2/CYP11B1 locus and postoperative hypertension risk in the patients with aldosterone-producing adenomas.
+20708777|a|OBJECTIVES: Hypertension often persists after adrenalectomy for primary aldosteronism. Traditional factors associated with postoperative hypertension were evaluated, but whether genetic determinants were involved remains poorly understood. The aim of this study was to investigate the association of DNA polymorphisms within steroid synthesis genes (CYP11B2, CYP11B1) and the postoperative resolution of hypertension in Chinese patients undergoing adrenalectomy for aldosterone-producing adenomas (APA). METHODS: Ninety-three patients with APA were assessed for postoperative resolution of hypertension. All patients were genotyped for rs1799998 (C-344 T), intron 2 conversion, rs4539 (A2718G) within CYP11B2 and rs6410 (G22 5A), rs6387 (A2803G) within CYP11B1. The associations between CYPB11B2/CYP11B1 polymorphisms and persistent postoperative hypertension were assessed by multivariate analysis. RESULTS: CYP11B2-CYP11B1 haplotype was associated with persistent postoperative hypertension in Chinese patients undergoing adrenalectomy with APA (P = .006). Specifically, the rs4539 (AA) polymorphism was associated with persistent postoperative hypertension (P = .002). Multivariate logistic regression revealed the common haplotypes H1 (AGACT), H2 (AGAWT), and H3 (AGAWC) were associated with the persistent postoperative hypertension (P = .01, 0.03, 0.005 after Bonferroni correction). Additional predictors of persistent postoperative hypertension included duration of hypertension (P <.0005), family history of hypertension (P = .001), and elevated systolic blood pressure (P = .015). CONCLUSIONS: The rs4539 (AA), H1, H2, and H3 are genetic predictors for postoperative persistence of hypertension for Chinese patients treated by adrenalectomy with APA. DNA polymorphisms at CYP11B2/B1 locus may confer susceptibility to postoperative hypertension of patients with APA.
+20708777	44	51	CYP11B2	GeneOrGeneProduct	1585
+20708777	52	59	CYP11B1	GeneOrGeneProduct	1584
+20708777	84	96	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	109	117	patients	OrganismTaxon	9606
+20708777	123	153	aldosterone-producing adenomas	DiseaseOrPhenotypicFeature	D000236
+20708777	167	179	Hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	292	304	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	480	503	steroid synthesis genes	GeneOrGeneProduct	1584,1585
+20708777	505	512	CYP11B2	GeneOrGeneProduct	1585
+20708777	514	521	CYP11B1	GeneOrGeneProduct	1584
+20708777	559	571	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	583	591	patients	OrganismTaxon	9606
+20708777	621	651	aldosterone-producing adenomas	DiseaseOrPhenotypicFeature	D000236
+20708777	653	656	APA	DiseaseOrPhenotypicFeature	D000236
+20708777	681	689	patients	OrganismTaxon	9606
+20708777	695	698	APA	DiseaseOrPhenotypicFeature	D000236
+20708777	745	757	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	763	771	patients	OrganismTaxon	9606
+20708777	791	800	rs1799998	SequenceVariant	rs1799998
+20708777	802	809	C-344 T	SequenceVariant	rs1799998
+20708777	833	839	rs4539	SequenceVariant	rs4539
+20708777	841	847	A2718G	SequenceVariant	rs4539
+20708777	856	863	CYP11B2	GeneOrGeneProduct	1585
+20708777	868	874	rs6410	SequenceVariant	rs6410
+20708777	876	882	G22 5A	SequenceVariant	rs6410
+20708777	885	891	rs6387	SequenceVariant	rs6387
+20708777	893	899	A2803G	SequenceVariant	rs6387
+20708777	908	915	CYP11B1	GeneOrGeneProduct	1584
+20708777	942	950	CYPB11B2	GeneOrGeneProduct	1585
+20708777	951	958	CYP11B1	GeneOrGeneProduct	1584
+20708777	1002	1014	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	1064	1071	CYP11B2	GeneOrGeneProduct	1585
+20708777	1072	1079	CYP11B1	GeneOrGeneProduct	1584
+20708777	1135	1147	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	1159	1167	patients	OrganismTaxon	9606
+20708777	1198	1201	APA	DiseaseOrPhenotypicFeature	D000236
+20708777	1232	1238	rs4539	SequenceVariant	rs4539
+20708777	1302	1314	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	1480	1492	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	1595	1607	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	1629	1641	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	1672	1684	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	1763	1769	rs4539	SequenceVariant	rs4539
+20708777	1847	1859	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	1872	1880	patients	OrganismTaxon	9606
+20708777	1911	1914	APA	DiseaseOrPhenotypicFeature	D000236
+20708777	1937	1947	CYP11B2/B1	GeneOrGeneProduct	1584,1585
+20708777	1997	2009	hypertension	DiseaseOrPhenotypicFeature	D006973
+20708777	2013	2021	patients	OrganismTaxon	9606
+20708777	2027	2030	APA	DiseaseOrPhenotypicFeature	D000236
+20708777	Association	1584	D006973	No
+20708777	Association	D006973	1585	No
+20708777	Positive_Correlation	D006973	rs6387	No
+20708777	Positive_Correlation	D006973	rs6410	No
+20708777	Positive_Correlation	D006973	rs4539	Novel
+20708777	Positive_Correlation	D006973	rs1799998	No
+20708777	Association	D000236	1584	No
+20708777	Association	D000236	1585	No
+20708777	Association	D000236	rs6387	No
+20708777	Association	D000236	rs6410	No
+20708777	Association	D000236	rs4539	Novel
+20708777	Association	D000236	rs1799998	No

@@ -1,0 +1,51 @@
+17965424|t|Gastrointestinal tolerability of etoricoxib in rheumatoid arthritis patients: results of the etoricoxib vs diclofenac sodium gastrointestinal tolerability and effectiveness trial (EDGE-II).
+17965424|a|OBJECTIVE: A randomised, double-blind study to compare the gastrointestinal (GI) tolerability, safety and efficacy of etoricoxib and diclofenac in patients with rheumatoid arthritis (RA). PATIENTS AND METHODS: A total of 4086 patients (mean age 60.8 years) diagnosed with RA were enrolled and received etoricoxib 90 mg daily (n = 2032) or diclofenac 75 mg twice daily (n = 2054). Use of gastroprotective agents and low-dose aspirin was allowed. The prespecified primary end point consisted of the cumulative rate of patient discontinuations due to clinical and laboratory GI adverse experiences (AEs). General safety was also assessed, including adjudicated thrombotic cardiovascular event data. Efficacy was evaluated using the Patient Global Assessment of Disease Status (PGADS; 0-4 point scale). RESULTS: Mean (SD; maximum) duration of treatment was 19.3 (10.3; 32.9) and 19.1 (10.4; 33.1) months in the etoricoxib and diclofenac groups, respectively. The cumulative discontinuation rate due to GI AEs was significantly lower with etoricoxib than diclofenac (5.2 vs 8.5 events per 100 patient-years, respectively; hazard ratio 0.62 (95% CI: 0.47, 0.81; p<or=0.001)). The incidence of discontinuations for hypertension-related and oedema-related AEs were significantly higher with etoricoxib (2.5% and 1.1% respectively) compared with diclofenac (1.5% and 0.4% respectively; p<0.001 for hypertension and p<0.01 for oedema). Etoricoxib and diclofenac treatment resulted in similar efficacy (PGADS mean changes from baseline -0.62 vs -0.58, respectively). CONCLUSIONS: Etoricoxib 90 mg demonstrated a significantly lower risk for discontinuing treatment due to GI AEs compared with diclofenac 150 mg. Discontinuations from renovascular AEs, although less common than discontinuations from GI AEs, were significantly higher with etoricoxib.
+17965424	33	43	etoricoxib	ChemicalEntity	D000077613
+17965424	47	67	rheumatoid arthritis	DiseaseOrPhenotypicFeature	D001172
+17965424	68	76	patients	OrganismTaxon	9606
+17965424	93	103	etoricoxib	ChemicalEntity	D000077613
+17965424	107	124	diclofenac sodium	ChemicalEntity	D004008
+17965424	308	318	etoricoxib	ChemicalEntity	D000077613
+17965424	323	333	diclofenac	ChemicalEntity	D004008
+17965424	337	345	patients	OrganismTaxon	9606
+17965424	351	371	rheumatoid arthritis	DiseaseOrPhenotypicFeature	D001172
+17965424	373	375	RA	DiseaseOrPhenotypicFeature	D001172
+17965424	378	386	PATIENTS	OrganismTaxon	9606
+17965424	416	424	patients	OrganismTaxon	9606
+17965424	462	464	RA	DiseaseOrPhenotypicFeature	D001172
+17965424	492	502	etoricoxib	ChemicalEntity	D000077613
+17965424	529	539	diclofenac	ChemicalEntity	D004008
+17965424	614	621	aspirin	ChemicalEntity	D001241
+17965424	706	713	patient	OrganismTaxon	9606
+17965424	762	784	GI adverse experiences	DiseaseOrPhenotypicFeature	D005767
+17965424	848	873	thrombotic cardiovascular	DiseaseOrPhenotypicFeature	D002318
+17965424	919	926	Patient	OrganismTaxon	9606
+17965424	1097	1107	etoricoxib	ChemicalEntity	D000077613
+17965424	1112	1122	diclofenac	ChemicalEntity	D004008
+17965424	1188	1194	GI AEs	DiseaseOrPhenotypicFeature	D005767
+17965424	1224	1234	etoricoxib	ChemicalEntity	D000077613
+17965424	1240	1250	diclofenac	ChemicalEntity	D004008
+17965424	1278	1285	patient	OrganismTaxon	9606
+17965424	1398	1410	hypertension	DiseaseOrPhenotypicFeature	D006973
+17965424	1423	1429	oedema	DiseaseOrPhenotypicFeature	D004487
+17965424	1473	1483	etoricoxib	ChemicalEntity	D000077613
+17965424	1527	1537	diclofenac	ChemicalEntity	D004008
+17965424	1579	1591	hypertension	DiseaseOrPhenotypicFeature	D006973
+17965424	1607	1613	oedema	DiseaseOrPhenotypicFeature	D004487
+17965424	1616	1626	Etoricoxib	ChemicalEntity	D000077613
+17965424	1631	1641	diclofenac	ChemicalEntity	D004008
+17965424	1759	1769	Etoricoxib	ChemicalEntity	D000077613
+17965424	1851	1857	GI AEs	DiseaseOrPhenotypicFeature	D005767
+17965424	1872	1882	diclofenac	ChemicalEntity	D004008
+17965424	1979	1985	GI AEs	DiseaseOrPhenotypicFeature	D005767
+17965424	2018	2028	etoricoxib	ChemicalEntity	D000077613
+17965424	Positive_Correlation	D004487	D004008	No
+17965424	Positive_Correlation	D004487	D000077613	No
+17965424	Positive_Correlation	D006973	D004008	No
+17965424	Positive_Correlation	D006973	D000077613	No
+17965424	Positive_Correlation	D005767	D004008	No
+17965424	Positive_Correlation	D005767	D000077613	No
+17965424	Negative_Correlation	D001241	D001172	No
+17965424	Negative_Correlation	D004008	D001172	No
+17965424	Comparison	D000077613	D004008	Novel
+17965424	Negative_Correlation	D000077613	D001172	No

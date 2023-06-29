@@ -1,0 +1,33 @@
+15241482|t|Paraoxonase 1 polymorphisms and survival.
+15241482|a|The antioxidant enzyme paraoxonase 1 (PON1) has previously been suggested to confer protection against coronary heart disease (CHD), one of the main causes of death in the Western world. Two coding polymorphisms, 55M/L and 192Q/R, and a promoter variant, -107C/T, has been extensively studied with respect to susceptibility to CHD. In this study, we have investigated the impact of these three polymorphisms on mortality using a sample of 1932 Danish individuals aged 47-93 years, previously used in gene-longevity studies. A cross-sectional study comparing the genotype distribution of the three polymorphisms separately as well as the haplotype distribution in different age groups did not reveal any difference. However, a longitudinal follow-up study on survival in the same sample indicated that 192RR homozygotes have a poorer survival compared to QQ homozygotes (hazard rate: 1.38, P = 0.04). We hereafter used an independent sample of 541 Danish individuals from the oldest cohort and confirmed the initial findings (hazard rate: 1.38, P = 0.09). In both samples, the effect was most pronounced in women. Using self-reported data on ischemic heart disease to evaluate the impact of the PON 192Q/R polymorphism on susceptibility to CHD, we found only a nonsignificant trend of 192RR homozygosity in women being a risk factor. Our results thus indicates that PON1 192RR homozygosity is associated with increased mortality in women in the second half of life and that this increased mortality is possibly related to CHD severity and survival after CHD rather than susceptibility to development of CHD.
+15241482	0	13	Paraoxonase 1	GeneOrGeneProduct	5444
+15241482	65	78	paraoxonase 1	GeneOrGeneProduct	5444
+15241482	80	84	PON1	GeneOrGeneProduct	5444
+15241482	145	167	coronary heart disease	DiseaseOrPhenotypicFeature	D003327
+15241482	169	172	CHD	DiseaseOrPhenotypicFeature	D003327
+15241482	201	206	death	DiseaseOrPhenotypicFeature	D003643
+15241482	255	260	55M/L	SequenceVariant	p|SUB|M|55|L
+15241482	265	271	192Q/R	SequenceVariant	p|SUB|Q|192|R
+15241482	297	304	-107C/T	SequenceVariant	c|SUB|C|-107|T
+15241482	369	372	CHD	DiseaseOrPhenotypicFeature	D003327
+15241482	843	848	192RR	SequenceVariant	p|Allele|R|192
+15241482	1148	1153	women	OrganismTaxon	9606
+15241482	1183	1205	ischemic heart disease	DiseaseOrPhenotypicFeature	D017202
+15241482	1236	1239	PON	GeneOrGeneProduct	5444
+15241482	1240	1246	192Q/R	SequenceVariant	p|SUB|Q|192|R
+15241482	1281	1284	CHD	DiseaseOrPhenotypicFeature	D003327
+15241482	1326	1331	192RR	SequenceVariant	p|Allele|R|192
+15241482	1348	1353	women	OrganismTaxon	9606
+15241482	1407	1411	PON1	GeneOrGeneProduct	5444
+15241482	1412	1417	192RR	SequenceVariant	p|Allele|R|192
+15241482	1473	1478	women	OrganismTaxon	9606
+15241482	1563	1566	CHD	DiseaseOrPhenotypicFeature	D003327
+15241482	1595	1598	CHD	DiseaseOrPhenotypicFeature	D003327
+15241482	1644	1647	CHD	DiseaseOrPhenotypicFeature	D003327
+15241482	Association	c|SUB|C|-107|T	D003327	No
+15241482	Association	5444	D003327	No
+15241482	Association	p|Allele|R|192	D003327	Novel
+15241482	Association	D017202	5444	No
+15241482	Association	D017202	p|SUB|Q|192|R	No
+15241482	Association	p|SUB|Q|192|R	D003327	No
+15241482	Association	p|SUB|M|55|L	D003327	No

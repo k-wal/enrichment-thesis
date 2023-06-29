@@ -1,0 +1,132 @@
+28182581|t|Application of single - and dual-energy CT brain tissue segmentation to PET monitoring of proton therapy
+28182581|a|The purpose of this work was to evaluate the ability of single and dual energy computed tomography (SECT, DECT) to estimate tissue composition and density for usage in Monte Carlo (MC) simulations of irradiation induced β (+) activity distributions. This was done to assess the impact on positron emission tomography (PET) range verification in proton therapy. A DECT-based brain tissue segmentation method was developed for white matter (WM), grey matter (GM) and cerebrospinal fluid (CSF). The elemental composition of reference tissues was assigned to closest CT numbers in DECT space (DECTdist). The method was also applied to SECT data (SECTdist). In a validation experiment, the proton irradiation induced PET activity of three brain equivalent solutions (BES) was compared to simulations based on different tissue segmentations. Five patients scanned with a dual source DECT scanner were analyzed to compare the different segmentation methods. A single magnetic resonance (MR) scan was used for comparison with an established segmentation toolkit. Additionally, one patient with SECT and post-treatment PET scans was investigated. For BES, DECTdist and SECTdist reduced differences to the reference simulation by up to 62% when compared to the conventional stoichiometric segmentation (SECTSchneider). In comparison to MR brain segmentation, Dice similarity coefficients for WM, GM and CSF were 0.61, 0.67 and 0.66 for DECTdist and 0.54, 0.41 and 0.66 for SECTdist. MC simulations of PET treatment verification in patients showed important differences between DECTdist / SECTdist and SECTSchneider for patients with large CSF areas within the treatment field but not in WM and GM. Differences could be misinterpreted as PET derived range shifts of up to 4 mm. DECTdist and SECTdist yielded comparable activity distributions, and comparison of SECTdist to a measured patient PET scan showed improved agreement when compared to SECTSchneider. The agreement between predicted and measured PET activity distributions was improved by employing a brain specific segmentation applicable to both DECT and SECT data.
+28182581	15	21	single	T060	C0040405
+28182581	28	42	dual-energy CT	T060	C4055114
+28182581	43	55	brain tissue	T023	C0459385
+28182581	56	68	segmentation	T066	C2697664
+28182581	72	75	PET	T060	C0032743
+28182581	76	86	monitoring	T058	C1283169
+28182581	90	104	proton therapy	T061	C0436226
+28182581	137	145	evaluate	T058	C0220825
+28182581	161	167	single	T060	C0040405
+28182581	172	203	dual energy computed tomography	T060	C4055114
+28182581	205	209	SECT	T060	C0040405
+28182581	211	215	DECT	T060	C4055114
+28182581	220	228	estimate	T081	C0750572
+28182581	229	247	tissue composition	T024	C0040300
+28182581	252	259	density	T081	C0162339
+28182581	264	269	usage	T169	C0457083
+28182581	273	284	Monte Carlo	T081	C0026507
+28182581	286	288	MC	T081	C0026507
+28182581	290	301	simulations	T062	C0679083
+28182581	305	316	irradiation	T070	C1282930
+28182581	317	324	induced	T169	C0205263
+28182581	325	339	β (+) activity	T052	C0441655
+28182581	340	353	distributions	T169	C1704711
+28182581	372	378	assess	T058	C0184514
+28182581	383	389	impact	T080	C4049986
+28182581	393	421	positron emission tomography	T060	C0032743
+28182581	423	426	PET	T060	C0032743
+28182581	434	446	verification	T169	C1711411
+28182581	450	464	proton therapy	T061	C0436226
+28182581	468	478	DECT-based	T060	C4055114
+28182581	479	491	brain tissue	T023	C0459385
+28182581	492	504	segmentation	T066	C2697664
+28182581	530	542	white matter	T024	C0682708
+28182581	544	546	WM	T024	C0682708
+28182581	549	560	grey matter	T024	C0018220
+28182581	562	564	GM	T024	C0018220
+28182581	570	589	cerebrospinal fluid	T031	C0007806
+28182581	591	594	CSF	T031	C0007806
+28182581	636	643	tissues	T024	C0040300
+28182581	648	656	assigned	T169	C1516050
+28182581	668	678	CT numbers	T081	C2986735
+28182581	682	686	DECT	T060	C4055114
+28182581	694	702	DECTdist	T081	C0392762
+28182581	736	740	SECT	T060	C0040405
+28182581	741	745	data	T078	C1511726
+28182581	747	755	SECTdist	T081	C0392762
+28182581	763	773	validation	T062	C1519941
+28182581	774	784	experiment	T062	C0681814
+28182581	790	808	proton irradiation	T061	C0436226
+28182581	817	820	PET	T060	C0032743
+28182581	821	829	activity	T052	C0441655
+28182581	839	844	brain	T023	C0006104
+28182581	845	865	equivalent solutions	T081	C0560134
+28182581	867	870	BES	T081	C0560134
+28182581	876	884	compared	T052	C1707455
+28182581	888	899	simulations	T062	C0679083
+28182581	919	925	tissue	T024	C0040300
+28182581	926	939	segmentations	T066	C2697664
+28182581	946	954	patients	T101	C0030705
+28182581	955	962	scanned	T060	C0441633
+28182581	970	974	dual	T008	C1554184
+28182581	975	981	source	T033	C0449416
+28182581	982	986	DECT	T060	C4055114
+28182581	987	994	scanner	T074	C0183115
+28182581	1000	1008	analyzed	T062	C0936012
+28182581	1012	1019	compare	T052	C1707455
+28182581	1034	1054	segmentation methods	T066	C2697664
+28182581	1065	1093	magnetic resonance (MR) scan	T058	C0420570
+28182581	1107	1117	comparison	T052	C1707455
+28182581	1126	1137	established	T080	C0443211
+28182581	1138	1150	segmentation	T066	C2697664
+28182581	1151	1158	toolkit	T073	C0336791
+28182581	1178	1185	patient	T101	C0030705
+28182581	1191	1195	SECT	T060	C0040405
+28182581	1200	1214	post-treatment	T079	C2709088
+28182581	1215	1224	PET scans	T060	C0032743
+28182581	1229	1241	investigated	T169	C1292732
+28182581	1247	1250	BES	T081	C0560134
+28182581	1252	1260	DECTdist	T081	C0392762
+28182581	1265	1273	SECTdist	T081	C0392762
+28182581	1274	1281	reduced	T080	C0392756
+28182581	1311	1321	simulation	T062	C0679083
+28182581	1340	1348	compared	T052	C1707455
+28182581	1356	1396	conventional stoichiometric segmentation	T066	C2697664
+28182581	1398	1411	SECTSchneider	T066	C2697664
+28182581	1417	1427	comparison	T052	C1707455
+28182581	1440	1452	segmentation	T066	C2697664
+28182581	1454	1482	Dice similarity coefficients	T081	C1707429
+28182581	1487	1489	WM	T024	C0682708
+28182581	1491	1493	GM	T024	C0018220
+28182581	1498	1501	CSF	T031	C0007806
+28182581	1531	1539	DECTdist	T081	C0392762
+28182581	1568	1576	SECTdist	T081	C0392762
+28182581	1578	1580	MC	T081	C0026507
+28182581	1581	1592	simulations	T062	C0679083
+28182581	1596	1599	PET	T060	C0032743
+28182581	1600	1609	treatment	T169	C1522326
+28182581	1610	1622	verification	T169	C1711411
+28182581	1626	1634	patients	T101	C0030705
+28182581	1672	1680	DECTdist	T081	C0392762
+28182581	1683	1691	SECTdist	T081	C0392762
+28182581	1696	1709	SECTSchneider	T066	C2697664
+28182581	1714	1722	patients	T101	C0030705
+28182581	1734	1737	CSF	T031	C0007806
+28182581	1738	1743	areas	T082	C0205146
+28182581	1755	1764	treatment	T169	C1522326
+28182581	1782	1784	WM	T024	C0682708
+28182581	1789	1791	GM	T024	C0018220
+28182581	1832	1835	PET	T060	C0032743
+28182581	1836	1843	derived	T080	C1441547
+28182581	1872	1880	DECTdist	T081	C0392762
+28182581	1885	1893	SECTdist	T081	C0392762
+28182581	1913	1935	activity distributions	T169	C1704711
+28182581	1941	1951	comparison	T052	C1707455
+28182581	1955	1963	SECTdist	T081	C0392762
+28182581	1969	1977	measured	T080	C0444706
+28182581	1978	1985	patient	T101	C0030705
+28182581	1986	1994	PET scan	T060	C0032743
+28182581	2002	2010	improved	T033	C0184511
+28182581	2026	2034	compared	T052	C1707455
+28182581	2038	2051	SECTSchneider	T066	C2697664
+28182581	2089	2097	measured	T080	C0444706
+28182581	2098	2101	PET	T060	C0032743
+28182581	2102	2124	activity distributions	T169	C1704711
+28182581	2129	2137	improved	T033	C0184511
+28182581	2153	2158	brain	T023	C0006104
+28182581	2168	2180	segmentation	T066	C2697664
+28182581	2200	2204	DECT	T060	C4055114
+28182581	2209	2213	SECT	T060	C0040405
+28182581	2214	2218	data	T078	C1511726

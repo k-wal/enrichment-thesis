@@ -1,0 +1,77 @@
+28403172|t|A first estimate of the structure and density of the populations of pet cats and dogs across Great Britain
+28403172|a|Policy development, implementation, and effective contingency response rely on a strong evidence base to ensure success and cost-effectiveness. Where this includes preventing the establishment or spread of zoonotic or veterinary diseases infecting companion cats and dogs, descriptions of the structure and density of the populations of these pets are useful. Similarly, such descriptions may help in supporting diverse fields of study such as; evidence-based veterinary practice, veterinary epidemiology, public health and ecology. As well as maps of where pets are, estimates of how many may rarely, or never, be seen by veterinarians and might not be appropriately managed in the event of a disease outbreak are also important. Unfortunately both sources of evidence are absent from the scientific and regulatory literatures. We make this first estimate of the structure and density of pet populations by using the most recent national population estimates of cats and dogs across Great Britain and subdividing these spatially, and categorically across ownership classes. For the spatial model we used the location and size of veterinary practises across GB to predict the local density of pets, using client travel time to define catchments around practises, and combined this with residential address data to estimate the rate of ownership. For the estimates of pets which may provoke problems in managing a veterinary or zoonotic disease we reviewed the literature and defined a comprehensive suite of ownership classes for cats and dogs, collated estimates of the sub-populations for each ownership class as well as their rates of interaction and produced a coherent scaled description of the structure of the national population. The predicted density of pets varied substantially, with the lowest densities in rural areas, and the highest in the centres of large cities where each species could exceed 2500 animals .km-2. Conversely, the number of pets per household showed the opposite relationship. Both qualitative and quantitative validation support key assumptions in the model structure and suggest the model is useful at predicting the populations of cats at geographical scales important for decision-making, although it also indicates where further research may improve model performance. In the event of an animal health crisis, it appears that almost all dogs could be brought under control rapidly. For cats, a substantial and unknown number might never be bought under control and would be less likely to receive veterinary support to facilitate surveillance and disease management; we estimate this to be at least 1.5 million cats. In addition, the lack of spare capacity to care for unowned cats in welfare organisations suggests that any increase in their rate of acquisition of cats, or any decrease in the rate of re-homing might provoke problems during a period of crisis.
+28403172	24	33	structure	T082	UMLS:C0678594
+28403172	68	71	pet	T204	UMLS:C0031268
+28403172	72	76	cats	T204	UMLS:C0007450
+28403172	81	85	dogs	T204	UMLS:C0012984
+28403172	93	106	Great Britain	T082	UMLS:C0018223
+28403172	313	321	zoonotic	T038	UMLS:C0043528
+28403172	336	344	diseases	T038	UMLS:C0012634
+28403172	345	354	infecting	T038	UMLS:C3714514
+28403172	355	364	companion	T098	UMLS:C0335343
+28403172	365	369	cats	T204	UMLS:C0007450
+28403172	374	378	dogs	T204	UMLS:C0012984
+28403172	400	409	structure	T082	UMLS:C0678594
+28403172	450	454	pets	T204	UMLS:C0031268
+28403172	483	495	descriptions	T170	UMLS:C0678257
+28403172	537	542	study	T062	UMLS:C2603343
+28403172	599	611	epidemiology	T091	UMLS:C0014507
+28403172	613	626	public health	T058	UMLS:C0034024
+28403172	665	669	pets	T204	UMLS:C0031268
+28403172	730	743	veterinarians	T097	UMLS:C0242856
+28403172	897	907	scientific	T170	UMLS:C1704324
+28403172	912	922	regulatory	T170	UMLS:C0220905
+28403172	923	934	literatures	T170	UMLS:C0023866
+28403172	971	980	structure	T082	UMLS:C0678594
+28403172	1070	1074	cats	T204	UMLS:C0007450
+28403172	1079	1083	dogs	T204	UMLS:C0012984
+28403172	1091	1104	Great Britain	T082	UMLS:C0018223
+28403172	1127	1136	spatially	T082	UMLS:C2348232
+28403172	1142	1155	categorically	T170	UMLS:C0683312
+28403172	1163	1180	ownership classes	T033	UMLS:C0557147
+28403172	1190	1203	spatial model	T170	UMLS:C3161035
+28403172	1216	1224	location	T082	UMLS:C0450429
+28403172	1229	1233	size	T082	UMLS:C0456389
+28403172	1237	1257	veterinary practises	T058	UMLS:C3850162
+28403172	1265	1267	GB	T082	UMLS:C0018223
+28403172	1283	1288	local	T082	UMLS:C0205276
+28403172	1300	1304	pets	T204	UMLS:C0031268
+28403172	1359	1368	practises	T058	UMLS:C3850162
+28403172	1442	1451	ownership	T033	UMLS:C0557147
+28403172	1474	1478	pets	T204	UMLS:C0031268
+28403172	1497	1505	problems	T033	UMLS:C0033213
+28403172	1534	1550	zoonotic disease	T038	UMLS:C0043528
+28403172	1567	1577	literature	T170	UMLS:C0023866
+28403172	1615	1632	ownership classes	T033	UMLS:C0557147
+28403172	1637	1641	cats	T204	UMLS:C0007450
+28403172	1646	1650	dogs	T204	UMLS:C0012984
+28403172	1703	1718	ownership class	T033	UMLS:C0557147
+28403172	1781	1799	scaled description	T170	UMLS:C0678257
+28403172	1807	1816	structure	T082	UMLS:C0678594
+28403172	1870	1874	pets	T204	UMLS:C0031268
+28403172	1962	1969	centres	T082	UMLS:C0205099
+28403172	1973	1985	large cities	T082	UMLS:C0008848
+28403172	1997	2004	species	T170	UMLS:C1705920
+28403172	2023	2030	animals	T204	UMLS:C0003062
+28403172	2064	2068	pets	T204	UMLS:C0031268
+28403172	2094	2102	opposite	T082	UMLS:C1521805
+28403172	2151	2161	validation	T062	UMLS:C1519941
+28403172	2193	2198	model	T170	UMLS:C3161035
+28403172	2199	2208	structure	T082	UMLS:C0678594
+28403172	2225	2230	model	T170	UMLS:C3161035
+28403172	2274	2278	cats	T204	UMLS:C0007450
+28403172	2282	2294	geographical	T082	UMLS:C1517526
+28403172	2295	2301	scales	T170	UMLS:C0349674
+28403172	2316	2331	decision-making	T038	UMLS:C0011109
+28403172	2374	2382	research	T062	UMLS:C0035168
+28403172	2387	2394	improve	T033	UMLS:C0184511
+28403172	2395	2400	model	T170	UMLS:C3161035
+28403172	2447	2453	crisis	T033	UMLS:C0231224
+28403172	2482	2486	dogs	T204	UMLS:C0012984
+28403172	2531	2535	cats	T204	UMLS:C0007450
+28403172	2692	2710	disease management	T058	UMLS:C0376636
+28403172	2756	2760	cats	T204	UMLS:C0007450
+28403172	2822	2826	cats	T204	UMLS:C0007450
+28403172	2911	2915	cats	T204	UMLS:C0007450
+28403172	2972	2980	problems	T033	UMLS:C0033213
+28403172	3000	3006	crisis	T033	UMLS:C0231224

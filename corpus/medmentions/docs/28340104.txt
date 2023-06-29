@@ -1,0 +1,94 @@
+28340104|t|Personalizing lung cancer risk prediction and imaging follow-up recommendations using the National Lung Screening Trial dataset
+28340104|a|To demonstrate a data-driven method for personalizing lung cancer risk prediction using a large clinical dataset. An algorithm was used to categorize nodules found in the first screening year of the National Lung Screening Trial as malignant or nonmalignant. Risk of malignancy for nodules was calculated based on size criteria according to the Fleischner Society recommendations from 2005, along with the additional discriminators of pack-years smoking history, sex, and nodule location. Imaging follow-up recommendations were assigned according to Fleischner size category malignancy risk. Nodule size correlated with malignancy risk as predicted by the Fleischner Society recommendations. With the additional discriminators of smoking history, sex, and nodule location, significant risk stratification was observed. For example, men with ≥60 pack-years smoking history and upper lobe nodules measuring >4 and ≤6 mm demonstrated significantly increased risk of malignancy at 12.4% compared to the mean of 3.81% for similarly sized nodules (P < .0001). Based on personalized malignancy risk, 54% of nodules >4 and ≤6 mm were reclassified to longer-term follow-up than recommended by Fleischner. Twenty-seven percent of nodules ≤4 mm were reclassified to shorter-term follow-up. Using available clinical datasets such as the National Lung Screening Trial in conjunction with locally collected datasets can help clinicians provide more personalized malignancy risk prediction s and follow-up recommendations. By incorporating 3 demographic data points, the risk of lung nodule malignancy within the Fleischner categories can be considerably stratified and more personalized follow-up recommendations can be made.
+28340104	0	13	Personalizing	T080	C1881197
+28340104	14	25	lung cancer	T191	C0684249
+28340104	26	30	risk	T078	C0035647
+28340104	31	41	prediction	T078	C0681842
+28340104	46	53	imaging	T060	C0011923
+28340104	54	63	follow-up	T058	C1522577
+28340104	64	79	recommendations	T078	C0034866
+28340104	90	127	National Lung Screening Trial dataset	T033	C1298641
+28340104	145	163	data-driven method	T080	C3899452
+28340104	168	181	personalizing	T080	C1881197
+28340104	182	193	lung cancer	T191	C0684249
+28340104	194	198	risk	T081	C0596244
+28340104	199	209	prediction	T078	C0681842
+28340104	218	240	large clinical dataset	T033	C1298641
+28340104	245	254	algorithm	T170	C0002045
+28340104	267	277	categorize	T052	C0871968
+28340104	278	285	nodules	T033	C0034079
+28340104	305	314	screening	T060	C0199230
+28340104	327	356	National Lung Screening Trial	T033	C1457914
+28340104	360	369	malignant	T191	C0006826
+28340104	373	385	nonmalignant	T191	C0086692
+28340104	387	405	Risk of malignancy	T033	C4040945
+28340104	410	417	nodules	T033	C0034079
+28340104	422	432	calculated	T052	C1441506
+28340104	473	491	Fleischner Society	T094	C0037459
+28340104	492	507	recommendations	T078	C0034866
+28340104	534	559	additional discriminators	T170	C0439062
+28340104	563	589	pack-years smoking history	T033	C2230126
+28340104	591	594	sex	T032	C0079399
+28340104	600	606	nodule	T020	C0028259
+28340104	607	615	location	T082	C0450429
+28340104	617	624	Imaging	T060	C0011923
+28340104	625	634	follow-up	T058	C1522577
+28340104	635	650	recommendations	T078	C0034866
+28340104	678	688	Fleischner	T094	C0037459
+28340104	694	702	category	T170	C0683312
+28340104	703	718	malignancy risk	T033	C0846978
+28340104	720	731	Nodule size	T082	C0449457
+28340104	732	742	correlated	T080	C1707520
+28340104	748	763	malignancy risk	T033	C0846978
+28340104	767	776	predicted	T078	C0681842
+28340104	784	802	Fleischner Society	T094	C0037459
+28340104	803	818	recommendations	T078	C0034866
+28340104	829	854	additional discriminators	T170	C0683312
+28340104	858	873	smoking history	T033	C1519384
+28340104	875	878	sex	T032	C0079399
+28340104	884	890	nodule	T020	C0028259
+28340104	891	899	location	T082	C0450429
+28340104	901	912	significant	T078	C0750502
+28340104	913	917	risk	T078	C0035647
+28340104	918	932	stratification	T062	C1514983
+28340104	937	945	observed	T169	C1441672
+28340104	960	999	men with ≥60 pack-years smoking history	T033	C2220256
+28340104	1004	1022	upper lobe nodules	T033	C0034079
+28340104	1023	1032	measuring	T080	C0444706
+28340104	1059	1072	significantly	T078	C0750502
+28340104	1073	1101	increased risk of malignancy	T033	C1857701
+28340104	1111	1119	compared	T052	C1707455
+28340104	1127	1131	mean	T081	C0444504
+28340104	1155	1168	sized nodules	T082	C0449457
+28340104	1191	1203	personalized	T080	C1881197
+28340104	1204	1219	malignancy risk	T033	C0846978
+28340104	1228	1235	nodules	T020	C0028259
+28340104	1270	1291	longer-term follow-up	T058	C0511422
+28340104	1297	1308	recommended	T078	C0034866
+28340104	1312	1322	Fleischner	T094	C0037459
+28340104	1348	1355	nodules	T020	C0028259
+28340104	1367	1379	reclassified	T080	C0205542
+28340104	1383	1395	shorter-term	T079	C0443303
+28340104	1396	1405	follow-up	T058	C1522577
+28340104	1423	1440	clinical datasets	T170	C0150098
+28340104	1453	1482	National Lung Screening Trial	T033	C1457914
+28340104	1486	1497	conjunction	T078	C2699427
+28340104	1503	1510	locally	T082	C1517927
+28340104	1511	1520	collected	T078	C1516695
+28340104	1521	1529	datasets	T170	C0150098
+28340104	1539	1549	clinicians	T097	C0871685
+28340104	1563	1575	personalized	T080	C1881197
+28340104	1576	1591	malignancy risk	T033	C0846978
+28340104	1592	1602	prediction	T078	C0681842
+28340104	1609	1618	follow-up	T058	C1522577
+28340104	1619	1634	recommendations	T078	C0034866
+28340104	1639	1652	incorporating	T169	C0243126
+28340104	1655	1678	demographic data points	T058	C0511652
+28340104	1684	1714	risk of lung nodule malignancy	T033	C4040945
+28340104	1704	1714	malignancy	T191	C4282132
+28340104	1726	1736	Fleischner	T094	C0037459
+28340104	1737	1747	categories	T170	C0683312
+28340104	1768	1778	stratified	T080	C0205363
+28340104	1788	1800	personalized	T080	C1881197
+28340104	1801	1810	follow-up	T058	C1522577
+28340104	1811	1826	recommendations	T078	C0034866

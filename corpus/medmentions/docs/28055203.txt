@@ -1,0 +1,49 @@
+28055203|t|From Homology Models to a Set of Predictive Binding Pockets -a 5-HT1A Receptor Case Study
+28055203|a|Despite its remarkable importance in the arena of drug design, serotonin 1A receptor (5-HT1A) has been elusive to the X-ray crystallography community. This lack of direct structural information not only hampers our knowledge regarding the binding modes of many popular ligands (including the endogenous neurotransmitter - serotonin), but also limits the search for more potent compounds. In this paper we shed new light on the 3D pharmacological properties of the 5-HT1A receptor by using a ligand-guided approach (ALiBERO) grounded in the Internal Coordinate Mechanics (ICM) docking platform. Starting from a homology template and set of known actives, the method introduces receptor flexibility via Normal Mode Analysis and Monte Carlo sampling, to generate a subset of pockets that display enriched discrimination of actives from inactives in retrospective docking. Here, we thoroughly investigated the repercussions of using different protein templates and the effect of compound selection on screening performance. Finally, the best resulting protein models were applied prospectively in a large virtual screening campaign, in which two new active compounds were identified that were chemically distinct from those described in the literature.
+28055203	5	20	Homology Models	T063	C1512489
+28055203	44	59	Binding Pockets	T192	C0005456
+28055203	63	78	5-HT1A Receptor	T116,T192	C0379900
+28055203	79	89	Case Study	T062	C2603343
+28055203	140	151	drug design	T090	C0013171
+28055203	153	174	serotonin 1A receptor	T116,T192	C0379900
+28055203	176	182	5-HT1A	T116,T192	C0379900
+28055203	208	229	X-ray crystallography	T059	C0206755
+28055203	261	271	structural	T082	C0678594
+28055203	272	283	information	T078	C1533716
+28055203	329	342	binding modes	T044	C1167622
+28055203	359	366	ligands	T103	C0023688
+28055203	382	392	endogenous	T169	C0205227
+28055203	393	409	neurotransmitter	T123	C0027908
+28055203	412	421	serotonin	T109,T123	C0036751
+28055203	467	476	compounds	T103	C1706082
+28055203	517	519	3D	T082	C0450363
+28055203	520	535	pharmacological	T169	C0205464
+28055203	536	546	properties	T080	C0871161
+28055203	554	569	5-HT1A receptor	T116,T192	C0379900
+28055203	581	603	ligand-guided approach	T169	C0449851
+28055203	605	612	ALiBERO	T169	C0449851
+28055203	630	659	Internal Coordinate Mechanics	T073,T170	C0037585
+28055203	661	664	ICM	T073,T170	C0037585
+28055203	666	673	docking	T044	C1522290
+28055203	700	708	homology	T080	C2697616
+28055203	709	717	template	T078	C1705542
+28055203	748	754	method	T169	C0449851
+28055203	766	774	receptor	T116,T192	C0597357
+28055203	775	786	flexibility	T080	C0242808
+28055203	791	811	Normal Mode Analysis	T062	C0936012
+28055203	816	836	Monte Carlo sampling	T081	C0026507
+28055203	862	869	pockets	T192	C0005456
+28055203	950	957	docking	T044	C1522290
+28055203	979	991	investigated	T169	C1292732
+28055203	1029	1046	protein templates	T078	C1705542
+28055203	1055	1061	effect	T080	C1280500
+28055203	1065	1073	compound	T103	C1706082
+28055203	1074	1083	selection	T052	C1707391
+28055203	1087	1096	screening	T169	C1305399
+28055203	1097	1108	performance	T052	C1882330
+28055203	1138	1152	protein models	T075	C0026339
+28055203	1199	1208	screening	T169	C1305399
+28055203	1243	1252	compounds	T103	C1706082
+28055203	1279	1289	chemically	T070	C0243178
+28055203	1290	1298	distinct	T080	C1705242
+28055203	1327	1337	literature	T170	C0023866

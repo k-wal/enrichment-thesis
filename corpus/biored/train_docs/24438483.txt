@@ -1,0 +1,56 @@
+24438483|t|Pre-treatment of bupivacaine-induced cardiovascular depression using different lipid formulations of propofol.
+24438483|a|BACKGROUND: Pre-treatment with lipid emulsions has been shown to increase lethal doses of bupivacaine, and the lipid content of propofol may alleviate bupivacaine-induced cardiotoxicity. The aim of this study is to investigate the effects of propofol in intralipid or medialipid emulsions on bupivacaine-induced cardiotoxicity. METHODS: Rats were anaesthetised with ketamine and were given 0.5 mg/kg/min propofol in intralipid (Group P), propofol in medialipid (Group L), or saline (Group C) over 20 min. Thereafter, 2 mg/kg/min bupivacaine 0.5% was infused. We recorded time to first dysrhythmia occurrence, respective times to 25% and 50% reduction of the heart rate (HR) and mean arterial pressure, and time to asystole and total amount of bupivacaine consumption. Blood and tissue samples were collected following asystole. RESULTS: The time to first dysrhythmia occurrence, time to 25% and 50% reductions in HR, and time to asystole were longer in Group P than the other groups. The cumulative bupivacaine dose given at those time points was higher in Group P. Plasma bupivacaine levels were significantly lower in Group P than in Group C. Bupivacaine levels in the brain and heart were significantly lower in Group P and Group L than in Group C. CONCLUSION: We conclude that pre-treatment with propofol in intralipid, compared with propofol in medialipid or saline, delayed the onset of bupivacaine-induced cardiotoxic effects as well as reduced plasma bupivacaine levels. Further studies are needed to explore tissue bupivacaine levels of propofol in medialipid and adapt these results to clinical practice.
+24438483	17	28	bupivacaine	ChemicalEntity	D002045
+24438483	37	62	cardiovascular depression	DiseaseOrPhenotypicFeature	D002318
+24438483	79	84	lipid	ChemicalEntity	D008055
+24438483	101	109	propofol	ChemicalEntity	D015742
+24438483	142	157	lipid emulsions	ChemicalEntity	D005217
+24438483	201	212	bupivacaine	ChemicalEntity	D002045
+24438483	222	227	lipid	ChemicalEntity	D008055
+24438483	239	247	propofol	ChemicalEntity	D015742
+24438483	262	273	bupivacaine	ChemicalEntity	D002045
+24438483	282	296	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+24438483	353	361	propofol	ChemicalEntity	D015742
+24438483	365	375	intralipid	ChemicalEntity	C545823
+24438483	379	389	medialipid	ChemicalEntity	D008055
+24438483	403	414	bupivacaine	ChemicalEntity	D002045
+24438483	423	437	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+24438483	448	452	Rats	OrganismTaxon	10116
+24438483	477	485	ketamine	ChemicalEntity	D007649
+24438483	515	523	propofol	ChemicalEntity	D015742
+24438483	527	537	intralipid	ChemicalEntity	C545823
+24438483	549	557	propofol	ChemicalEntity	D015742
+24438483	561	571	medialipid	ChemicalEntity	D008055
+24438483	640	651	bupivacaine	ChemicalEntity	D002045
+24438483	696	707	dysrhythmia	DiseaseOrPhenotypicFeature	D001145
+24438483	825	833	asystole	DiseaseOrPhenotypicFeature	D006323
+24438483	854	865	bupivacaine	ChemicalEntity	D002045
+24438483	929	937	asystole	DiseaseOrPhenotypicFeature	D006323
+24438483	966	977	dysrhythmia	DiseaseOrPhenotypicFeature	D001145
+24438483	1040	1048	asystole	DiseaseOrPhenotypicFeature	D006323
+24438483	1110	1121	bupivacaine	ChemicalEntity	D002045
+24438483	1184	1195	bupivacaine	ChemicalEntity	D002045
+24438483	1256	1267	Bupivacaine	ChemicalEntity	D002045
+24438483	1411	1419	propofol	ChemicalEntity	D015742
+24438483	1423	1433	intralipid	ChemicalEntity	C545823
+24438483	1449	1457	propofol	ChemicalEntity	D015742
+24438483	1461	1471	medialipid	ChemicalEntity	D008055
+24438483	1504	1515	bupivacaine	ChemicalEntity	D002045
+24438483	1524	1535	cardiotoxic	DiseaseOrPhenotypicFeature	D066126
+24438483	1570	1581	bupivacaine	ChemicalEntity	D002045
+24438483	1635	1646	bupivacaine	ChemicalEntity	D002045
+24438483	1657	1665	propofol	ChemicalEntity	D015742
+24438483	1669	1679	medialipid	ChemicalEntity	D008055
+24438483	Association	D005217	D002045	No
+24438483	Negative_Correlation	D008055	D066126	Novel
+24438483	Negative_Correlation	D008055	D002045	No
+24438483	Negative_Correlation	C545823	D066126	Novel
+24438483	Comparison	C545823	D008055	Novel
+24438483	Negative_Correlation	C545823	D002045	Novel
+24438483	Negative_Correlation	D015742	D066126	Novel
+24438483	Association	D015742	D008055	Novel
+24438483	Association	D015742	C545823	Novel
+24438483	Negative_Correlation	D015742	D002318	Novel
+24438483	Negative_Correlation	D015742	D002045	Novel
+24438483	Positive_Correlation	D002045	D066126	No
+24438483	Positive_Correlation	D002045	D002318	No

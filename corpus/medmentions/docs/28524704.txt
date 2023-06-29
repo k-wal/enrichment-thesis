@@ -1,0 +1,45 @@
+28524704|t|Radiation from wireless technology elevates blood glucose and body temperature in 40-year-old type 1 diabetic male
+28524704|a|A type 1 diabetic male reports multiple instances when his blood glucose was dramatically elevated by the presence of microwave radiation from wireless technology and plummeted when the radiation exposure ended. In one instance, his body temperature elevated in addition to his blood glucose. Both remained elevated for nearly 48 h after exposure with the effect gradually decreasing. Possible mechanisms for microwave radiation elevating blood glucose include effects on glucose transport proteins and ion channels, insulin conformational changes and oxidative stress. Temperature elevation may be caused by microwave radiation - triggered Ca (2+) efflux, a mechanism similar to malignant hyperthermia. The potential for radiation from wireless technology to cause serious biological effects has important implications and necessitates a reevaluation of its near-ubiquitous presence, especially in hospitals and medical facilities.
+28524704	0	9	Radiation	T070	C0851346
+28524704	15	34	wireless technology	T073	C1520154
+28524704	35	43	elevates	T080	C3163633
+28524704	44	57	blood glucose	T109	C0005802
+28524704	62	78	body temperature	T032	C0005903
+28524704	94	109	type 1 diabetic	T047	C0011854
+28524704	110	114	male	T032	C0086582
+28524704	117	132	type 1 diabetic	T047	C0011854
+28524704	133	137	male	T032	C0086582
+28524704	174	187	blood glucose	T109	C0005802
+28524704	205	213	elevated	T080	C3163633
+28524704	221	229	presence	T080	C3854307
+28524704	233	252	microwave radiation	T070	C0026051
+28524704	258	277	wireless technology	T073	C1520154
+28524704	301	319	radiation exposure	T037	C0015333
+28524704	348	364	body temperature	T032	C0005903
+28524704	365	373	elevated	T080	C3163633
+28524704	393	406	blood glucose	T109	C0005802
+28524704	422	430	elevated	T080	C3163633
+28524704	453	461	exposure	T080	C0332157
+28524704	488	498	decreasing	T033	C0442797
+28524704	524	543	microwave radiation	T070	C0026051
+28524704	544	553	elevating	T080	C3163633
+28524704	554	567	blood glucose	T109	C0005802
+28524704	587	613	glucose transport proteins	T116,T123	C0017742
+28524704	618	630	ion channels	T116,T123	C0022009
+28524704	632	639	insulin	T116,T121,T125	C0021641
+28524704	640	662	conformational changes	T044	C0301641
+28524704	667	683	oxidative stress	T049	C0242606
+28524704	685	706	Temperature elevation	T033	C0243095
+28524704	714	720	caused	T169	C0015127
+28524704	724	743	microwave radiation	T070	C0026051
+28524704	746	755	triggered	T080	C1444748
+28524704	756	763	Ca (2+)	T121,T196	C0596235
+28524704	764	770	efflux	T043	C0007613
+28524704	795	817	malignant hyperthermia	T047	C0024591
+28524704	837	846	radiation	T070	C0851346
+28524704	852	871	wireless technology	T073	C1520154
+28524704	875	880	cause	T169	C0015127
+28524704	889	907	biological effects	T038	C0599269
+28524704	990	998	presence	T080	C3854307
+28524704	1014	1023	hospitals	T073,T093	C0019994
+28524704	1028	1046	medical facilities	T073,T093	C0018704

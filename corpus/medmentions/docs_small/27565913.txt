@@ -1,0 +1,47 @@
+27565913|t|Serum mass profile signature as a biomarker of early lung cancer
+27565913|a|Circulating molecular biomarkers of lung cancer may allow the pre-selection of candidates for computed tomography screening or increase its efficacy. We aimed to identify features of serum mass profile distinguishing individuals with early lung cancer from healthy participants of the lung cancer screening program. Blood samples were collected during a low-dose computed tomography (LD-CT) screening program performed by one institution (Medical University of Gdansk, Poland). MALDI-ToF mass spectrometry was used to characterize the low- molecular-weight (1000-14,000Da) serum fraction. The analysis comprised 95 patients with early stage lung cancer (including 30 screen-detected cases) and a matched group of 285 healthy controls. The cases were split into two independent cohorts (discovery and validation), analyzed separately 6 months apart. Several molecular components of serum (putatively components of endogenous peptidome) discriminating patients with early lung cancer from controls were identified in a discovery cohort. This allowed building an effective cancer classifier as a model tuned to maximize negative predictive value, with an area under the curve (AUC) of 0.88, a negative predictive value of 100%, and a positive predictive value of 48%. However, the classifier performed worse in a validation cohort including independent sample sets (AUC 0.73, NPV 88% and PPV 30%). We developed a serum mass profile -based signature identifying patients with early lung cancer. Although this marker has insufficient value as a stand-alone preselecting tool for LD-CT screening, its potential clinical usefulness in evaluation of indeterminate pulmonary nodules deserves further investigation.
+27565913	0	18	Serum mass profile	T058	UMLS:C1446041
+27565913	34	43	biomarker	T201	UMLS:C0005516
+27565913	53	64	lung cancer	T038	UMLS:C0242379
+27565913	77	97	molecular biomarkers	T201	UMLS:C0005516
+27565913	101	112	lung cancer	T038	UMLS:C0242379
+27565913	127	140	pre-selection	T062	UMLS:C0242481
+27565913	159	178	computed tomography	T058	UMLS:C0040405
+27565913	179	188	screening	T058	UMLS:C0220908
+27565913	248	266	serum mass profile	T058	UMLS:C1446041
+27565913	282	293	individuals	T098	UMLS:C0237401
+27565913	305	316	lung cancer	T038	UMLS:C0242379
+27565913	322	342	healthy participants	T098	UMLS:C1708335
+27565913	350	379	lung cancer screening program	T058	UMLS:C0281477
+27565913	381	394	Blood samples	T031	UMLS:C0178913
+27565913	428	447	computed tomography	T058	UMLS:C0040405
+27565913	449	454	LD-CT	T058	UMLS:C0040405
+27565913	456	473	screening program	T058	UMLS:C0220908
+27565913	491	502	institution	T092	UMLS:C2607850
+27565913	504	532	Medical University of Gdansk	T092	UMLS:C0020028
+27565913	534	540	Poland	T082	UMLS:C0032356
+27565913	543	570	MALDI-ToF mass spectrometry	T062	UMLS:C1518101
+27565913	638	643	serum	T031	UMLS:C0229671
+27565913	658	666	analysis	T062	UMLS:C0936012
+27565913	706	717	lung cancer	T038	UMLS:C0242379
+27565913	842	849	cohorts	T098	UMLS:C0599755
+27565913	865	875	validation	T062	UMLS:C1519941
+27565913	878	886	analyzed	T062	UMLS:C0936012
+27565913	922	942	molecular components	T103	UMLS:C0574031
+27565913	946	951	serum	T031	UMLS:C0229671
+27565913	989	998	peptidome	T103	UMLS:C0030956
+27565913	1035	1046	lung cancer	T038	UMLS:C0242379
+27565913	1092	1098	cohort	T098	UMLS:C0599755
+27565913	1135	1141	cancer	T038	UMLS:C0006826
+27565913	1158	1163	model	T170	UMLS:C3161035
+27565913	1386	1392	cohort	T098	UMLS:C0599755
+27565913	1415	1426	sample sets	T031	UMLS:C0178913
+27565913	1475	1493	serum mass profile	T058	UMLS:C1446041
+27565913	1543	1554	lung cancer	T038	UMLS:C0242379
+27565913	1570	1576	marker	T201	UMLS:C0005516
+27565913	1605	1634	stand-alone preselecting tool	T062	UMLS:C0242481
+27565913	1639	1644	LD-CT	T058	UMLS:C0040405
+27565913	1645	1654	screening	T058	UMLS:C0220908
+27565913	1693	1703	evaluation	T058	UMLS:C0220825
+27565913	1721	1738	pulmonary nodules	T033	UMLS:C0034079
+27565913	1756	1769	investigation	T058	UMLS:C0220825

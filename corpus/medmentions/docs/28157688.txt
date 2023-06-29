@@ -1,0 +1,55 @@
+28157688|t|Pattern recognition of enrichment levels of SELEX -based candidate aptamers for human C-reactive protein
+28157688|a|Selecting aptamers for human C-reactive protein (CRP) would be of critical importance in predicting the risk for cardiovascular disease. The enrichment level of DNA aptamers is an important parameter for selecting candidate aptamers for further affinity and specificity determination. This paper is the first report on pattern recognition used for CRP aptamer enrichment levels in the systematic evolution of ligands by exponential enrichment (SELEX) process, by applying structure-activity relationship models. After generating 10 rounds of graphene oxide (GO)- SELEX and 1670 molecular descriptors, eight molecular descriptors were selected and five latent variables were then obtained with principal component analysis (PCA), to develop a support vector classification (SVC) model. The SVC model (C=8.1728 and γ=0.2333) optimized by the particle swarm optimization (PSO) algorithm possesses an accuracy of 88.15% for the training set. Prediction results of enrichment levels for the sequences with the frequencies of 6 and 5 are reasonable and acceptable, with accuracies of 70.59% and 76.37%, respectively.
+28157688	0	19	Pattern recognition	T044	C1749339
+28157688	23	33	enrichment	T081	C4086355
+28157688	34	40	levels	T080	C0441889
+28157688	44	49	SELEX	T062	C1567938
+28157688	67	75	aptamers	T114	C0599013
+28157688	80	104	human C-reactive protein	T116,T129	C4048285
+28157688	105	114	Selecting	T045	C0036576
+28157688	115	123	aptamers	T114	C0599013
+28157688	128	152	human C-reactive protein	T116,T129	C4048285
+28157688	154	157	CRP	T116,T129	C4048285
+28157688	194	204	predicting	T078	C0681842
+28157688	209	213	risk	T078	C0035647
+28157688	218	240	cardiovascular disease	T047	C0007222
+28157688	246	256	enrichment	T081	C4086355
+28157688	266	278	DNA aptamers	T114	C1567953
+28157688	329	337	aptamers	T114	C0599013
+28157688	350	358	affinity	T070	C1510827
+28157688	363	374	specificity	T081	C0037791
+28157688	375	388	determination	T059	C1148554
+28157688	424	443	pattern recognition	T044	C1749339
+28157688	453	456	CRP	T116,T129	C4048285
+28157688	457	464	aptamer	T114	C0599013
+28157688	465	475	enrichment	T081	C4086355
+28157688	476	482	levels	T080	C0441889
+28157688	490	547	systematic evolution of ligands by exponential enrichment	T062	C1567938
+28157688	549	554	SELEX	T062	C1567938
+28157688	577	608	structure-activity relationship	T080	C0038477
+28157688	609	615	models	T170	C3161035
+28157688	647	655	graphene	T196	C2936695
+28157688	656	661	oxide	T197	C0030015
+28157688	663	665	GO	T197	C0030015
+28157688	668	673	SELEX	T062	C1567938
+28157688	683	692	molecular	T080	C1521991
+28157688	693	704	descriptors	T170	C0282354
+28157688	712	721	molecular	T080	C1521991
+28157688	722	733	descriptors	T170	C0282354
+28157688	757	773	latent variables	UnknownType	C0814889
+28157688	798	826	principal component analysis	T081	C0429865
+28157688	828	831	PCA	T081	C0429865
+28157688	847	888	support vector classification (SVC) model	T081	C2699740
+28157688	894	903	SVC model	T081	C2699740
+28157688	928	937	optimized	T052	C2698650
+28157688	945	988	particle swarm optimization (PSO) algorithm	T170	C0002045
+28157688	1002	1010	accuracy	T080	C0443131
+28157688	1043	1053	Prediction	T078	C0681842
+28157688	1054	1061	results	T169	C1274040
+28157688	1065	1075	enrichment	T081	C4086355
+28157688	1076	1082	levels	T080	C0441889
+28157688	1091	1100	sequences	T086	C0162326
+28157688	1110	1121	frequencies	T079	C0439603
+28157688	1137	1147	reasonable	T080	C0205556
+28157688	1152	1162	acceptable	T080	C1879533
+28157688	1169	1179	accuracies	T080	C0443131

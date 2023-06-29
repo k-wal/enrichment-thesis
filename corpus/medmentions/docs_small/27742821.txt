@@ -1,0 +1,24 @@
+27742821|t|HieranoiDB: a database of orthologs inferred by Hieranoid
+27742821|a|HieranoiDB (http://hieranoiDB.sbc.su.se) is a freely available on-line database for hierarchical groups of orthologs inferred by the Hieranoid algorithm. It infers orthologs at each node in a species guide tree with the InParanoid algorithm as it progresses from the leaves to the root. Here we present a database HieranoiDB with a web interface that makes it easy to search and visualize the output of Hieranoid, and to download it in various formats. Searching can be performed using protein description, identifier or sequence. In this first version, orthologs are available for the 66 Quest for Orthologs reference proteomes. The ortholog trees are shown graphically and interactively with marked speciation and duplication nodes that show the inferred evolutionary scenario, and allow for correct extraction of predicted orthologs from the Hieranoid trees.
+27742821	0	10	HieranoiDB	T170	UMLS:C0950132
+27742821	26	35	orthologs	T017	UMLS:C1335144
+27742821	48	57	Hieranoid	T170	UMLS:C0950132
+27742821	58	68	HieranoiDB	T170	UMLS:C0950132
+27742821	165	174	orthologs	T017	UMLS:C1335144
+27742821	191	210	Hieranoid algorithm	T170	UMLS:C0002045
+27742821	222	231	orthologs	T017	UMLS:C1335144
+27742821	258	268	guide tree	T170	UMLS:C0282574
+27742821	278	298	InParanoid algorithm	T170	UMLS:C0002045
+27742821	363	382	database HieranoiDB	T170	UMLS:C0950132
+27742821	461	470	Hieranoid	T170	UMLS:C0950132
+27742821	544	551	protein	T103	UMLS:C0033684
+27742821	552	563	description	T170	UMLS:C0678257
+27742821	565	575	identifier	T170	UMLS:C0600091
+27742821	579	587	sequence	T082	UMLS:C0002518
+27742821	612	621	orthologs	T017	UMLS:C1335144
+27742821	657	666	Orthologs	T017	UMLS:C1335144
+27742821	677	686	proteomes	T103	UMLS:C0751973
+27742821	692	700	ortholog	T017	UMLS:C1335144
+27742821	774	785	duplication	T038	UMLS:C0017261
+27742821	884	893	orthologs	T017	UMLS:C1335144
+27742821	903	918	Hieranoid trees	T170	UMLS:C0950132

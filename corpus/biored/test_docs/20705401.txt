@@ -1,0 +1,75 @@
+20705401|t|Serotonin 6 receptor gene is associated with methamphetamine-induced psychosis in a Japanese population.
+20705401|a|BACKGROUND: Altered serotonergic neural transmission is hypothesized to be a susceptibility factor for psychotic disorders such as schizophrenia. The serotonin 6 (5-HT6) receptor is therapeutically targeted by several second generation antipsychotics, such as clozapine and olanzapine, and d-amphetamine-induced hyperactivity in rats is corrected with the use of a selective 5-HT6 receptor antagonist. In addition, the disrupted prepulse inhibition induced by d-amphetamine or phencyclidine was restored by 5-HT6 receptor antagonist in an animal study using rats. These animal models were considered to reflect the positive symptoms of schizophrenia, and the above evidence suggests that altered 5-HT6 receptors are involved in the pathophysiology of psychotic disorders. The symptoms of methamphetamine (METH)-induced psychosis are similar to those of paranoid type schizophrenia. Therefore, we conducted an analysis of the association of the 5-HT6 gene (HTR6) with METH-induced psychosis. METHOD: Using five tagging SNPs (rs6693503, rs1805054, rs4912138, rs3790757 and rs9659997), we conducted a genetic association analysis of case-control samples (197 METH-induced psychosis patients and 337 controls) in the Japanese population. The age and sex of the control subjects did not differ from those of the methamphetamine dependence patients. RESULTS: rs6693503 was associated with METH-induced psychosis patients in the allele/genotype-wise analysis. Moreover, this association remained significant after Bonferroni correction. In the haplotype-wise analysis, we detected an association between two markers (rs6693503 and rs1805054) and three markers (rs6693503, rs1805054 and rs4912138) in HTR6 and METH-induced psychosis patients, respectively. CONCLUSION: HTR6 may play an important role in the pathophysiology of METH-induced psychosis in the Japanese population.
+20705401	0	20	Serotonin 6 receptor	GeneOrGeneProduct	3362
+20705401	45	60	methamphetamine	ChemicalEntity	D008694
+20705401	69	78	psychosis	DiseaseOrPhenotypicFeature	D011605
+20705401	208	227	psychotic disorders	DiseaseOrPhenotypicFeature	D011605
+20705401	236	249	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+20705401	255	283	serotonin 6 (5-HT6) receptor	GeneOrGeneProduct	3362
+20705401	341	355	antipsychotics	ChemicalEntity	D014150
+20705401	365	374	clozapine	ChemicalEntity	D003024
+20705401	379	389	olanzapine	ChemicalEntity	D000077152
+20705401	395	408	d-amphetamine	ChemicalEntity	D003913
+20705401	417	430	hyperactivity	DiseaseOrPhenotypicFeature	D006948
+20705401	434	438	rats	OrganismTaxon	10116
+20705401	480	505	5-HT6 receptor antagonist	ChemicalEntity	D012702
+20705401	565	578	d-amphetamine	ChemicalEntity	D003913
+20705401	582	595	phencyclidine	ChemicalEntity	D010622
+20705401	612	637	5-HT6 receptor antagonist	ChemicalEntity	D012702
+20705401	663	667	rats	OrganismTaxon	10116
+20705401	741	754	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+20705401	801	816	5-HT6 receptors	GeneOrGeneProduct	3362
+20705401	856	875	psychotic disorders	DiseaseOrPhenotypicFeature	D011605
+20705401	893	908	methamphetamine	ChemicalEntity	D008694
+20705401	910	914	METH	ChemicalEntity	D008694
+20705401	924	933	psychosis	DiseaseOrPhenotypicFeature	D011605
+20705401	958	985	paranoid type schizophrenia	DiseaseOrPhenotypicFeature	D012563
+20705401	1049	1054	5-HT6	GeneOrGeneProduct	3362
+20705401	1061	1065	HTR6	GeneOrGeneProduct	3362
+20705401	1072	1076	METH	ChemicalEntity	D008694
+20705401	1085	1094	psychosis	DiseaseOrPhenotypicFeature	D011605
+20705401	1129	1138	rs6693503	SequenceVariant	rs6693503
+20705401	1140	1149	rs1805054	SequenceVariant	rs1805054
+20705401	1151	1160	rs4912138	SequenceVariant	rs4912138
+20705401	1162	1171	rs3790757	SequenceVariant	rs3790757
+20705401	1176	1185	rs9659997	SequenceVariant	rs9659997
+20705401	1261	1265	METH	ChemicalEntity	D008694
+20705401	1274	1283	psychosis	DiseaseOrPhenotypicFeature	D011605
+20705401	1284	1292	patients	OrganismTaxon	9606
+20705401	1412	1427	methamphetamine	ChemicalEntity	D008694
+20705401	1439	1447	patients	OrganismTaxon	9606
+20705401	1458	1467	rs6693503	SequenceVariant	rs6693503
+20705401	1488	1492	METH	ChemicalEntity	D008694
+20705401	1501	1510	psychosis	DiseaseOrPhenotypicFeature	D011605
+20705401	1511	1519	patients	OrganismTaxon	9606
+20705401	1715	1724	rs6693503	SequenceVariant	rs6693503
+20705401	1729	1738	rs1805054	SequenceVariant	rs1805054
+20705401	1759	1768	rs6693503	SequenceVariant	rs6693503
+20705401	1770	1779	rs1805054	SequenceVariant	rs1805054
+20705401	1784	1793	rs4912138	SequenceVariant	rs4912138
+20705401	1798	1802	HTR6	GeneOrGeneProduct	3362
+20705401	1807	1811	METH	ChemicalEntity	D008694
+20705401	1820	1829	psychosis	DiseaseOrPhenotypicFeature	D011605
+20705401	1830	1838	patients	OrganismTaxon	9606
+20705401	1866	1870	HTR6	GeneOrGeneProduct	3362
+20705401	1924	1928	METH	ChemicalEntity	D008694
+20705401	1937	1946	psychosis	DiseaseOrPhenotypicFeature	D011605
+20705401	Association	rs4912138	D011605	Novel
+20705401	Association	rs4912138	D008694	Novel
+20705401	Association	rs1805054	D011605	Novel
+20705401	Association	rs1805054	D008694	Novel
+20705401	Association	rs6693503	D011605	Novel
+20705401	Association	rs6693503	D008694	Novel
+20705401	Association	D010622	D012702	No
+20705401	Association	D012702	D012559	No
+20705401	Association	D003913	D012702	No
+20705401	Positive_Correlation	D003913	D006948	No
+20705401	Association	3362	D000077152	No
+20705401	Association	3362	D003024	No
+20705401	Association	3362	D014150	No
+20705401	Association	3362	D006948	No
+20705401	Association	3362	D011605	Novel
+20705401	Association	3362	D008694	Novel
+20705401	Negative_Correlation	D011605	D000077152	No
+20705401	Negative_Correlation	D011605	D003024	No
+20705401	Positive_Correlation	D008694	D011605	No

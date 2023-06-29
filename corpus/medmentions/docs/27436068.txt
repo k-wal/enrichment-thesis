@@ -1,0 +1,103 @@
+27436068|t|Do dynamic global vegetation models capture the seasonality of carbon fluxes in the Amazon basin? A data - model intercomparison
+27436068|a|To predict forest response to long-term climate change with high confidence requires that dynamic global vegetation models (DGVMs) be successfully tested against ecosystem response to short-term variations in environmental drivers, including regular seasonal patterns. Here, we used an integrated dataset from four forests in the Brasil flux network, spanning a range of dry-season intensities and lengths, to determine how well four state-of-the-art models (IBIS, ED2, JULES, and CLM3.5) simulated the seasonality of carbon exchanges in Amazonian tropical forests. We found that most DGVMs poorly represented the annual cycle of gross primary productivity (GPP), of photosynthetic capacity (Pc), and of other fluxes and pools. Models simulated consistent dry-season declines in GPP in the equatorial Amazon (Manaus K34, Santarem K67, and Caxiuanã CAX); a contrast to observed GPP increases. Model simulated dry-season GPP reductions were driven by an external environmental factor, ' soil water stress ' and consequently by a constant or decreasing photosynthetic infrastructure (Pc), while observed dry-season GPP resulted from a combination of internal biological (leaf -flush and abscission and increased Pc) and environmental (incoming radiation) causes. Moreover, we found models generally overestimated observed seasonal net ecosystem exchange (NEE) and respiration (Re) at equatorial locations. In contrast, a southern Amazon forest (Jarú RJA) exhibited dry-season declines in GPP and Re consistent with most DGVMs simulations. While water limitation was represented in models and the primary driver of seasonal photosynthesis in southern Amazonia, changes in internal biophysical processes, light-harvesting adaptations (e.g., variations in leaf area index (LAI) and increasing leaf -level assimilation rate related to leaf demography), and allocation lags between leaf and wood, dominated equatorial Amazon carbon flux dynamics and were deficient or absent from current model formulations. Correctly simulating flux seasonality at tropical forests requires a greater understanding and the incorporation of internal biophysical mechanisms in future model developments.
+27436068	3	35	dynamic global vegetation models	T170	C3161035
+27436068	48	59	seasonality	T079	C0683922
+27436068	63	76	carbon fluxes	T070	C2936196
+27436068	84	96	Amazon basin	T083	C0017446
+27436068	100	104	data	T078	C1511726
+27436068	107	112	model	T170	C3161035
+27436068	113	128	intercomparison	UnknownType	C0683958
+27436068	140	146	forest	T070	C0086312
+27436068	147	155	response	T032	C0871261
+27436068	159	168	long-term	T079	C0443252
+27436068	169	183	climate change	T070	C2718051
+27436068	219	251	dynamic global vegetation models	T170	C3161035
+27436068	253	258	DGVMs	T170	C3161035
+27436068	291	300	ecosystem	T070	C0162358
+27436068	301	309	response	T032	C0871261
+27436068	313	323	short-term	T079	C0443303
+27436068	324	334	variations	T079	C0036496
+27436068	338	359	environmental drivers	T082	C0014406
+27436068	379	396	seasonal patterns	T079	C0683922
+27436068	426	433	dataset	T170	C0150098
+27436068	444	451	forests	T070	C0086312
+27436068	459	478	Brasil flux network	T170	C0242356
+27436068	500	510	dry-season	T079	C0036497
+27436068	511	522	intensities	T080	C0522510
+27436068	527	534	lengths	T081	C1444754
+27436068	580	586	models	T170	C3161035
+27436068	588	592	IBIS	T170	C3161035
+27436068	594	597	ED2	T170	C3161035
+27436068	599	604	JULES	T170	C3161035
+27436068	610	616	CLM3.5	T170	C3161035
+27436068	632	643	seasonality	T079	C0683922
+27436068	647	663	carbon exchanges	T070	C2936196
+27436068	667	676	Amazonian	T083	C0017446
+27436068	677	693	tropical forests	T070	C0086312
+27436068	714	719	DGVMs	T170	C3161035
+27436068	759	785	gross primary productivity	T081	C0033269
+27436068	787	790	GPP	T081	C0033269
+27436068	796	819	photosynthetic capacity	T081	C1516240
+27436068	821	823	Pc	T081	C1516240
+27436068	839	845	fluxes	T070	C2348693
+27436068	857	863	Models	T170	C3161035
+27436068	885	895	dry-season	T079	C0036497
+27436068	896	904	declines	T081	C0547047
+27436068	908	911	GPP	T081	C0033269
+27436068	919	936	equatorial Amazon	T083	C0017446
+27436068	938	948	Manaus K34	T083	C0017446
+27436068	950	962	Santarem K67	T083	C0017446
+27436068	968	980	Caxiuanã CAX	T083	C0017446
+27436068	1006	1009	GPP	T081	C0033269
+27436068	1021	1026	Model	T170	C3161035
+27436068	1037	1047	dry-season	T079	C0036497
+27436068	1048	1051	GPP	T081	C0033269
+27436068	1052	1062	reductions	T080	C0392756
+27436068	1090	1103	environmental	T082	C0014406
+27436068	1104	1110	factor	T169	C1521761
+27436068	1114	1131	soil water stress	T033	C0038435
+27436068	1179	1208	photosynthetic infrastructure	T070	C0031764
+27436068	1210	1212	Pc	T081	C1516240
+27436068	1230	1240	dry-season	T079	C0036497
+27436068	1241	1244	GPP	T081	C0033269
+27436068	1285	1295	biological	T080	C0205460
+27436068	1297	1301	leaf	T002	C0242724
+27436068	1313	1323	abscission	T040	C1177284
+27436068	1338	1340	Pc	T081	C1516240
+27436068	1346	1359	environmental	T082	C0014406
+27436068	1370	1379	radiation	T070	C0851346
+27436068	1408	1414	models	T170	C3161035
+27436068	1457	1479	net ecosystem exchange	T081	C0392762
+27436068	1481	1484	NEE	T081	C0392762
+27436068	1490	1501	respiration	T039	C0035203
+27436068	1503	1505	Re	T039	C0035203
+27436068	1547	1562	southern Amazon	T083	C0017446
+27436068	1563	1569	forest	T070	C0086312
+27436068	1591	1601	dry-season	T079	C0036497
+27436068	1602	1610	declines	T081	C0547047
+27436068	1614	1617	GPP	T081	C0033269
+27436068	1622	1624	Re	T039	C0035203
+27436068	1646	1651	DGVMs	T170	C3161035
+27436068	1652	1663	simulations	T062	C0679083
+27436068	1707	1713	models	T170	C3161035
+27436068	1749	1763	photosynthesis	T070	C0031764
+27436068	1767	1784	southern Amazonia	T083	C0017446
+27436068	1806	1827	biophysical processes	T038	C1511162
+27436068	1829	1845	light-harvesting	T044	C1158303
+27436068	1846	1857	adaptations	T070	C0001398
+27436068	1879	1894	leaf area index	T170	C0918012
+27436068	1896	1899	LAI	T170	C0918012
+27436068	1916	1920	leaf	T002	C0242724
+27436068	1928	1940	assimilation	T038	C3714634
+27436068	1941	1945	rate	T081	C1521828
+27436068	1957	1972	leaf demography	T090	C0011298
+27436068	2003	2007	leaf	T002	C0242724
+27436068	2012	2016	wood	T002	C0032098
+27436068	2028	2045	equatorial Amazon	T083	C0017446
+27436068	2046	2057	carbon flux	T070	C2936196
+27436068	2109	2114	model	T170	C3161035
+27436068	2150	2154	flux	T070	C2348693
+27436068	2155	2166	seasonality	T079	C0683922
+27436068	2170	2186	tropical forests	T070	C0086312
+27436068	2254	2276	biophysical mechanisms	T044	C1148560
+27436068	2287	2305	model developments	T170	C0920595

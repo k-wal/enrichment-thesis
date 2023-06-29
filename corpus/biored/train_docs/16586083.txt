@@ -1,0 +1,26 @@
+16586083|t|Cardiovascular risk with cyclooxygenase inhibitors: general problem with substance specific differences?
+16586083|a|Randomised clinical trials and observational studies have shown an increased risk of myocardial infarction, stroke, hypertension and heart failure during treatment with cyclooxygenase inhibitors. Adverse cardiovascular effects occurred mainly, but not exclusively, in patients with concomitant risk factors. Cyclooxygenase inhibitors cause complex changes in renal, vascular and cardiac prostanoid profiles thereby increasing vascular resistance and fluid retention. The incidence of cardiovascular adverse events tends to increase with the daily dose and total exposure time. A comparison of individual selective and unselective cyclooxygenase inhibitors suggests substance-specific differences, which may depend on differences in pharmacokinetic parameters or inhibitory potency and may be contributed by prostaglandin-independent effects. Diagnostic markers such as N-terminal pro brain natriuretic peptide (NT-proBNP) or high-sensitive C-reactive protein might help in the early identification of patients at risk, thus avoiding the occurrence of serious cardiovascular toxicity.
+16586083	25	50	cyclooxygenase inhibitors	ChemicalEntity	D016861
+16586083	190	211	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+16586083	213	219	stroke	DiseaseOrPhenotypicFeature	D020521
+16586083	221	233	hypertension	DiseaseOrPhenotypicFeature	D006973
+16586083	238	251	heart failure	DiseaseOrPhenotypicFeature	D006333
+16586083	274	299	cyclooxygenase inhibitors	ChemicalEntity	D016861
+16586083	373	381	patients	OrganismTaxon	9606
+16586083	413	438	Cyclooxygenase inhibitors	ChemicalEntity	D016861
+16586083	492	502	prostanoid	ChemicalEntity	D011453
+16586083	589	618	cardiovascular adverse events	DiseaseOrPhenotypicFeature	D002318
+16586083	735	760	cyclooxygenase inhibitors	ChemicalEntity	D016861
+16586083	912	925	prostaglandin	ChemicalEntity	D011453
+16586083	974	1014	N-terminal pro brain natriuretic peptide	ChemicalEntity	C109794
+16586083	1016	1025	NT-proBNP	ChemicalEntity	C109794
+16586083	1045	1063	C-reactive protein	GeneOrGeneProduct	1401
+16586083	1106	1114	patients	OrganismTaxon	9606
+16586083	1164	1187	cardiovascular toxicity	DiseaseOrPhenotypicFeature	D002318
+16586083	Association	D011453	D016861	Novel
+16586083	Association	1401	D002318	Novel
+16586083	Association	C109794	D002318	Novel
+16586083	Positive_Correlation	D016861	D006333	No
+16586083	Positive_Correlation	D016861	D006973	No
+16586083	Positive_Correlation	D016861	D020521	No
+16586083	Positive_Correlation	D016861	D009203	No

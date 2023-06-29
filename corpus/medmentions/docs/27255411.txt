@@ -1,0 +1,94 @@
+27255411|t|Dynamic CT myocardial perfusion imaging identifies early perfusion abnormalities in diabetes and hypertension: Insights from a multicenter registry
+27255411|a|To identify patients with early signs of myocardial perfusion reduction, a reference base for perfusion measures is needed. To analyze perfusion parameters derived from dynamic computed tomography perfusion imaging (CTPI) in patients with suspected coronary artery disease (CAD), and relationship with risk factors. In this multicenter study, coronary CT angiography (cCTA) and dynamic CTPI were performed by second-generation dual-source CT in patients suspected of CAD. Risk factors were collected from hospital records. Patients with visual perfusion defects on CTPI, previous coronary intervention, or missing risk factor details were excluded. This analysis included 98 patients (mean age ± standard deviation [SD], 59.0 ± 8.6yrs; 73 male). Global measures of left ventricular myocardial blood flow (MBF), myocardial blood volume (MBV) and volume transfer constant (K(trans)) were calculated. Mean MBF was 139.3 ± 31.4 mL/100 mL/min, MBV 19.1 ± 2.7 mL/100 mL, and Ktrans 85.0 ± 17.5 mL/100 mL/min. No significant differences in perfusion parameters were found by gender or age category. Hypertension and diabetes mellitus resulted in lower perfusion parameters (hypertension vs normotension: MBV 18.5 ± 3.0 vs 19.7 ± 2.3 mL/100 mL and K(trans) 82.0 ± 18.0 vs 89.0 ± 16.0, p < 0.05; diabetes vs no diabetes: MBF 128.5 ± 31.5 vs 144.0 ± 30.5 mL/100 mL/min and MBV 17.9 ± 2.4 vs 19.4 ± 2.8 mL/100 mL, p < 0.05). In patients with hyperlipidemia, MBF was higher (146.8 ± 34.4 vs 130.7 ± 24.3 mL/100 mL/min, p < 0.05). Smoking and family history did not show perfusion parameter differences. Dynamic CTPI identifies early perfusion disturbances in conditions like diabetes and hypertension. With further standardization, absolute perfusion measures may improve CAD risk stratification in patients without visual perfusion defects.
+27255411	0	39	Dynamic CT myocardial perfusion imaging	T060	C3899514
+27255411	51	56	early	T079	C1279919
+27255411	57	66	perfusion	T042	C0599705
+27255411	67	80	abnormalities	T033	C1704258
+27255411	84	92	diabetes	T047	C0011847
+27255411	97	109	hypertension	T047	C0020538
+27255411	127	138	multicenter	T062	C1096776
+27255411	139	147	registry	T170	C0034975
+27255411	160	168	patients	T101	C0030705
+27255411	174	185	early signs	T184	C0037088
+27255411	189	209	myocardial perfusion	T032	C0428857
+27255411	200	209	perfusion	T042	C0599705
+27255411	210	219	reduction	T080	C0392756
+27255411	242	251	perfusion	T042	C0599705
+27255411	252	260	measures	T081	C0079809
+27255411	283	292	perfusion	T042	C0599705
+27255411	293	303	parameters	T033	C0449381
+27255411	317	362	dynamic computed tomography perfusion imaging	T060	C3899514
+27255411	345	354	perfusion	T042	C0599705
+27255411	364	368	CTPI	T060	C3899514
+27255411	373	381	patients	T101	C0030705
+27255411	397	420	coronary artery disease	T047	C1956346
+27255411	422	425	CAD	T047	C1956346
+27255411	432	444	relationship	T080	C0439849
+27255411	450	462	risk factors	T033	C0035648
+27255411	472	489	multicenter study	T062	C1096776
+27255411	491	514	coronary CT angiography	T060	C1634617
+27255411	516	520	cCTA	T060	C1634617
+27255411	526	538	dynamic CTPI	T060	C3899514
+27255411	557	589	second-generation dual-source CT	T060	C0040405
+27255411	593	601	patients	T101	C0030705
+27255411	615	618	CAD	T047	C1956346
+27255411	620	632	Risk factors	T033	C0035648
+27255411	653	669	hospital records	T073,T170	C0019980
+27255411	671	679	Patients	T101	C0030705
+27255411	685	691	visual	T169	C0234621
+27255411	692	701	perfusion	T042	C0599705
+27255411	702	709	defects	T169	C1457869
+27255411	713	717	CTPI	T060	C3899514
+27255411	728	749	coronary intervention	T061	C0184661
+27255411	762	773	risk factor	T033	C0035648
+27255411	802	810	analysis	T062	C0936012
+27255411	823	831	patients	T101	C0030705
+27255411	887	891	male	T098	C0025266
+27255411	901	909	measures	T081	C0079809
+27255411	913	929	left ventricular	T023	C0225897
+27255411	930	951	myocardial blood flow	T042	C2986786
+27255411	953	956	MBF	T042	C2986786
+27255411	959	982	myocardial blood volume	T201	C0005850
+27255411	984	987	MBV	T201	C0005850
+27255411	993	1017	volume transfer constant	T081	C2986811
+27255411	1019	1027	K(trans)	T081	C2986811
+27255411	1051	1054	MBF	T042	C2986786
+27255411	1087	1090	MBV	T201	C0005850
+27255411	1181	1190	perfusion	T042	C0599705
+27255411	1191	1201	parameters	T033	C0449381
+27255411	1216	1222	gender	T032	C0079399
+27255411	1226	1229	age	T032	C0001779
+27255411	1240	1252	Hypertension	T047	C0020538
+27255411	1257	1274	diabetes mellitus	T047	C0011849
+27255411	1293	1302	perfusion	T042	C0599705
+27255411	1303	1313	parameters	T033	C0449381
+27255411	1315	1327	hypertension	T047	C0020538
+27255411	1331	1343	normotension	T033	C4068890
+27255411	1345	1348	MBV	T201	C0005850
+27255411	1388	1396	K(trans)	T081	C2986811
+27255411	1435	1443	diabetes	T047	C0011847
+27255411	1447	1458	no diabetes	T033	C0243095
+27255411	1460	1463	MBF	T042	C2986786
+27255411	1511	1514	MBV	T201	C0005850
+27255411	1565	1573	patients	T101	C0030705
+27255411	1579	1593	hyperlipidemia	T047	C0020473
+27255411	1595	1598	MBF	T042	C2986786
+27255411	1666	1673	Smoking	T055	C0037369
+27255411	1678	1692	family history	T033	C0241889
+27255411	1706	1715	perfusion	T042	C0599705
+27255411	1716	1725	parameter	T033	C0449381
+27255411	1739	1751	Dynamic CTPI	T060	C3899514
+27255411	1769	1778	perfusion	T042	C0599705
+27255411	1779	1791	disturbances	T080	C2699787
+27255411	1811	1819	diabetes	T047	C0011847
+27255411	1824	1836	hypertension	T047	C0020538
+27255411	1851	1866	standardization	T062	C0038136
+27255411	1877	1886	perfusion	T042	C0599705
+27255411	1887	1895	measures	T081	C0079809
+27255411	1908	1911	CAD	T047	C1956346
+27255411	1912	1916	risk	T078	C0035647
+27255411	1917	1931	stratification	T062	C1514983
+27255411	1935	1943	patients	T101	C0030705
+27255411	1952	1958	visual	T169	C0234621
+27255411	1959	1968	perfusion	T042	C0599705
+27255411	1969	1976	defects	T169	C1457869

@@ -1,0 +1,84 @@
+28075473|t|Spirulina lipopolysaccharides inhibit tumor growth in a Toll-like receptor 4-dependent manner by altering the cytokine milieu from interleukin-17/interleukin-23 to interferon-g.
+28075473|a|Th17 cells and the cytokine they produce, interleukin (IL)-17, play an important role in tumor progression in humans and in mice. IL-6 and IL-23 are critical cytokines for the differentiation and propagation of Th17 cells, respectively. Bacterial lipopolysaccharides (LPS) are known to stimulate immune cells to produce such inflammatory cytokines. Contrary to Escherichia coli (E. coli) LPS, LPS from Spirulina has low toxicity and barely induces in vivo production of IL-6 and IL-23 in mice. We examined the antitumor effects of Spirulina LPS compared to E. coli LPS in an MH134 hepatoma model. Administration of Spirulina LPS suppressed tumor growth in C3H/HeN mice, but not in Toll-like receptor 4 (TLR4)-mutant C3H/HeJ mice, by reducing serum levels of IL-17 and IL-23, while increasing interferon (IFN)-g levels. The antitumor activity and IFN-g production were mediated by T cells. Moreover, in vitro experiments showed that Spirulina LPS impaired the antigen-presenting function that supports the generation of IL-17-producing cells in a toll-like receptor (TLR)4-dependent manner. Of note, injection of anti-IL-17 antibody in tumor-bearing C3H/HeN mice in the absence of Spirulina LPS markedly suppressed tumor growth and augmented IFN-g responses. Thus, our results support the notion that IFN-g and IL-17/IL-23 mutually regulate Th17 and Th1 responses in tumor-bearing hosts, and Spirulina LPS modulates the balance of the IFN-g-IL-17/IL-23 axis towards IFN-g production, which leads to tumor inhibition. Furthermore, Spirulina LPS effectively inhibited the spontaneous development of mammary tumors. This study has important implications for the exploitation of TLR-based immunomodulators for cancer immunotherapy.
+28075473	0	9	Spirulina	OrganismTaxon	551299
+28075473	10	29	lipopolysaccharides	ChemicalEntity	D008070
+28075473	38	43	tumor	DiseaseOrPhenotypicFeature	D009369
+28075473	56	76	Toll-like receptor 4	GeneOrGeneProduct	21898
+28075473	131	145	interleukin-17	GeneOrGeneProduct	16171
+28075473	146	160	interleukin-23	GeneOrGeneProduct	83430
+28075473	164	176	interferon-g	GeneOrGeneProduct	15978
+28075473	220	239	interleukin (IL)-17	GeneOrGeneProduct	16171,3605
+28075473	267	272	tumor	DiseaseOrPhenotypicFeature	D009369
+28075473	288	294	humans	OrganismTaxon	9606
+28075473	302	306	mice	OrganismTaxon	10090
+28075473	308	312	IL-6	GeneOrGeneProduct	16193
+28075473	317	322	IL-23	GeneOrGeneProduct	83430
+28075473	425	444	lipopolysaccharides	ChemicalEntity	D008070
+28075473	446	449	LPS	ChemicalEntity	D008070
+28075473	503	525	inflammatory cytokines	GeneOrGeneProduct	-
+28075473	539	555	Escherichia coli	OrganismTaxon	562
+28075473	557	564	E. coli	OrganismTaxon	562
+28075473	566	569	LPS	ChemicalEntity	D008070
+28075473	571	574	LPS	ChemicalEntity	D008070
+28075473	580	589	Spirulina	OrganismTaxon	551299
+28075473	598	606	toxicity	DiseaseOrPhenotypicFeature	D064420
+28075473	648	652	IL-6	GeneOrGeneProduct	16193
+28075473	657	662	IL-23	GeneOrGeneProduct	83430
+28075473	666	670	mice	OrganismTaxon	10090
+28075473	709	718	Spirulina	OrganismTaxon	551299
+28075473	719	722	LPS	ChemicalEntity	D008070
+28075473	735	742	E. coli	OrganismTaxon	562
+28075473	743	746	LPS	ChemicalEntity	D008070
+28075473	753	758	MH134	CellLine	CVCL_8111
+28075473	759	767	hepatoma	DiseaseOrPhenotypicFeature	D006528
+28075473	793	802	Spirulina	OrganismTaxon	551299
+28075473	803	806	LPS	ChemicalEntity	D008070
+28075473	818	823	tumor	DiseaseOrPhenotypicFeature	D009369
+28075473	842	846	mice	OrganismTaxon	10090
+28075473	859	879	Toll-like receptor 4	GeneOrGeneProduct	21898
+28075473	881	885	TLR4	GeneOrGeneProduct	21898
+28075473	902	906	mice	OrganismTaxon	10090
+28075473	936	941	IL-17	GeneOrGeneProduct	16171
+28075473	946	951	IL-23	GeneOrGeneProduct	83430
+28075473	970	988	interferon (IFN)-g	GeneOrGeneProduct	15978
+28075473	1024	1029	IFN-g	GeneOrGeneProduct	15978
+28075473	1110	1119	Spirulina	OrganismTaxon	551299
+28075473	1120	1123	LPS	ChemicalEntity	D008070
+28075473	1197	1202	IL-17	GeneOrGeneProduct	16171
+28075473	1224	1249	toll-like receptor (TLR)4	GeneOrGeneProduct	21898
+28075473	1295	1300	IL-17	GeneOrGeneProduct	16171
+28075473	1313	1318	tumor	DiseaseOrPhenotypicFeature	D009369
+28075473	1335	1339	mice	OrganismTaxon	10090
+28075473	1358	1367	Spirulina	OrganismTaxon	551299
+28075473	1368	1371	LPS	ChemicalEntity	D008070
+28075473	1392	1397	tumor	DiseaseOrPhenotypicFeature	D009369
+28075473	1419	1424	IFN-g	GeneOrGeneProduct	15978
+28075473	1478	1483	IFN-g	GeneOrGeneProduct	15978
+28075473	1488	1493	IL-17	GeneOrGeneProduct	16171
+28075473	1494	1499	IL-23	GeneOrGeneProduct	83430
+28075473	1544	1549	tumor	DiseaseOrPhenotypicFeature	D009369
+28075473	1569	1578	Spirulina	OrganismTaxon	551299
+28075473	1579	1582	LPS	ChemicalEntity	D008070
+28075473	1612	1617	IFN-g	GeneOrGeneProduct	15978
+28075473	1618	1623	IL-17	GeneOrGeneProduct	16171
+28075473	1624	1629	IL-23	GeneOrGeneProduct	83430
+28075473	1643	1648	IFN-g	GeneOrGeneProduct	15978
+28075473	1676	1681	tumor	DiseaseOrPhenotypicFeature	D009369
+28075473	1707	1716	Spirulina	OrganismTaxon	551299
+28075473	1717	1720	LPS	ChemicalEntity	D008070
+28075473	1774	1788	mammary tumors	DiseaseOrPhenotypicFeature	D001943
+28075473	1852	1855	TLR	GeneOrGeneProduct	21898
+28075473	1883	1889	cancer	DiseaseOrPhenotypicFeature	D009369
+28075473	Association	3605	D009369	No
+28075473	Negative_Correlation	D008070	D001943	Novel
+28075473	Association	D008070	21898	Novel
+28075473	Positive_Correlation	D008070	15978	Novel
+28075473	Negative_Correlation	D008070	16171	Novel
+28075473	Negative_Correlation	D008070	D009369	Novel
+28075473	Association	21898	15978	Novel
+28075473	Association	21898	83430	Novel
+28075473	Association	21898	16171	Novel
+28075473	Association	21898	D009369	Novel
+28075473	Association	D009369	15978	Novel
+28075473	Association	D009369	83430	Novel
+28075473	Association	D009369	16171	Novel

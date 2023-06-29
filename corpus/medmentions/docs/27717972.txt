@@ -1,0 +1,133 @@
+27717972|t|Assessment of demographic and pathoanatomic risk factors in recurrent patellofemoral instability
+27717972|a|The WARPS/STAID classification employs clinical assessment of presenting features and anatomic characteristics to identify two distinct subsets of patients within the patellofemoral instability population. The purpose of this study was to further define the specific demographics and the prevalence of risky pathoanatomies in patients classified as either WARPS or STAID presenting with recurrent patellofemoral instability. A secondary purpose was to further validate the WARPS/STAID classification with the Banff Patella Instability Instrument (BPII), the Marx activity scale and the Patellar Instability Severity Score (ISS). A convenience sample of 50 patients with recurrent patellofemoral instability, including 25 WARPS and 25 STAID subtype patients, were assessed. Clinical data were collected including assessment of demographic risk factors (sex, BMI, bilaterality of symptoms, affected limb side and age at first dislocation) and pathoanatomic risk factors (TT-TG distance, patella height, patellar tilt, grade of trochlear dysplasia, Beighton score and rotational abnormalities of the tibia or femur). Patients completed the BPII and the Marx activity scale. The ISS was calculated from the clinical assessment data. Patients were stratified into the WARPS or STAID subtypes for comparative analysis. An independent t test was used to compare demographics, the pathoanatomic risk factors and subjective measures between the groups. Convergent validity was tested with a Pearson r correlation coefficient between the WARPS/STAID and ISS scores. Demographic risk factors statistically associated with a WARPS subtype included female sex, age at first dislocation and bilaterality. Pathoanatomic risk factors statistically associated with a WARPS subtype included trochlear dysplasia, TT-TG distance, generalized ligamentous laxity, patellar tilt and rotational abnormalities. The independent t test revealed a significant difference between the ISS scores: WARPS subtype (M = 4.4, SD = 1.1) and STAID subtype (M = 2.5, SD = 1.5); t(48) = 5.2, p < 0.001. The relationship between the WARPS/STAID and the ISS scores, measured using a Pearson r correlation coefficient, demonstrated a strong relationship: r = -0.61, n = 50, p < 0.001. This study has demonstrated statistically significant evidence that certain demographics and pathoanatomies are more prevalent in each of the WARPS and STAID patellofemoral instability subtypes. There was no difference in quality-of-life or activity level between the subtypes. The WARPS/STAID score demonstrated convergent validity to the ISS and divergent validity to the BPII score and the Marx activity scale. This study has further validated both the WARPS/STAID classification and the ISS of patients that present with recurrent patellofemoral instability. III.
+27717972	0	10	Assessment	T058	C0220825
+27717972	14	25	demographic	T078	C0011292
+27717972	30	56	pathoanatomic risk factors	T033	C0035648
+27717972	60	69	recurrent	T079	C2945760
+27717972	70	84	patellofemoral	T030	C0447801
+27717972	85	96	instability	T033	C0022410
+27717972	101	127	WARPS/STAID classification	T185	C0008902
+27717972	136	144	clinical	T080	C0205210
+27717972	145	155	assessment	T058	C0220825
+27717972	170	178	features	T080	C2348519
+27717972	183	191	anatomic	T080	C0220784
+27717972	192	207	characteristics	T080	C1521970
+27717972	233	240	subsets	T185	C1515021
+27717972	244	252	patients	T101	C0030705
+27717972	264	290	patellofemoral instability	T033	C0427262
+27717972	291	301	population	T101	C0030705
+27717972	307	328	purpose of this study	UnknownType	C0681832
+27717972	364	376	demographics	T185	C1698647
+27717972	385	395	prevalence	T081	C0220900
+27717972	399	404	risky	T080	C1444641
+27717972	405	419	pathoanatomies	T080	C1384516
+27717972	423	431	patients	T101	C0030705
+27717972	453	458	WARPS	T185	C0008902
+27717972	462	467	STAID	T185	C0008902
+27717972	484	493	recurrent	T079	C2945760
+27717972	494	508	patellofemoral	T030	C0447801
+27717972	509	520	instability	T033	C0022410
+27717972	570	596	WARPS/STAID classification	T185	C0008902
+27717972	606	642	Banff Patella Instability Instrument	T170	C0282574
+27717972	644	648	BPII	T170	C0282574
+27717972	655	674	Marx activity scale	T170	C0282574
+27717972	683	691	Patellar	T023	C0030647
+27717972	692	718	Instability Severity Score	T170	C0021504
+27717972	720	723	ISS	T170	C0021504
+27717972	753	761	patients	T101	C0030705
+27717972	767	776	recurrent	T079	C2945760
+27717972	777	791	patellofemoral	T030	C0447801
+27717972	792	803	instability	T033	C0022410
+27717972	818	823	WARPS	T185	C0008902
+27717972	831	844	STAID subtype	T185	C0008902
+27717972	845	853	patients	T101	C0030705
+27717972	860	868	assessed	T052	C1516048
+27717972	870	883	Clinical data	T170	C1516606
+27717972	909	919	assessment	T058	C0220825
+27717972	923	934	demographic	T078	C0011292
+27717972	935	947	risk factors	T033	C0035648
+27717972	949	952	sex	T032	C0079399
+27717972	954	957	BMI	T201	C1305855
+27717972	959	971	bilaterality	T082	C0238767
+27717972	975	983	symptoms	T184	C1457887
+27717972	985	993	affected	T082	C0449642
+27717972	994	1003	limb side	T023	C0015385
+27717972	1008	1011	age	T032	C0001779
+27717972	1021	1032	dislocation	T037	C0856775
+27717972	1038	1064	pathoanatomic risk factors	T033	C0035648
+27717972	1066	1080	TT-TG distance	T081	C0012751
+27717972	1082	1089	patella	T023	C0030647
+27717972	1090	1096	height	T032	C1317145
+27717972	1113	1118	grade	T185	C0441800
+27717972	1122	1141	trochlear dysplasia	T047	C4274287
+27717972	1143	1157	Beighton score	T033	C4273179
+27717972	1162	1186	rotational abnormalities	T033	C1704258
+27717972	1194	1199	tibia	T023	C0040184
+27717972	1203	1208	femur	T023	C0015811
+27717972	1211	1219	Patients	T101	C0030705
+27717972	1234	1238	BPII	T170	C0282574
+27717972	1247	1266	Marx activity scale	T170	C0282574
+27717972	1272	1275	ISS	T170	C0021504
+27717972	1280	1290	calculated	T059	C1443182
+27717972	1300	1324	clinical assessment data	T170	C1516606
+27717972	1326	1334	Patients	T101	C0030705
+27717972	1360	1365	WARPS	T185	C0008902
+27717972	1369	1383	STAID subtypes	T185	C0008902
+27717972	1388	1408	comparative analysis	T062	C0683941
+27717972	1425	1431	t test	T170	C0871472
+27717972	1452	1464	demographics	T185	C1698647
+27717972	1470	1496	pathoanatomic risk factors	T033	C0035648
+27717972	1533	1539	groups	UnknownType	C0681860
+27717972	1541	1560	Convergent validity	T080	C1510594
+27717972	1579	1612	Pearson r correlation coefficient	T081	C0871052
+27717972	1625	1636	WARPS/STAID	T081	C0457451
+27717972	1641	1651	ISS scores	T170	C0021504
+27717972	1653	1677	Demographic risk factors	T078	C0011292
+27717972	1692	1707	associated with	T080	C0332281
+27717972	1710	1723	WARPS subtype	T185	C0008902
+27717972	1733	1743	female sex	T032	C0086287
+27717972	1745	1748	age	T032	C0001779
+27717972	1758	1769	dislocation	T037	C0856775
+27717972	1774	1786	bilaterality	T082	C0238767
+27717972	1788	1814	Pathoanatomic risk factors	T033	C0035648
+27717972	1829	1844	associated with	T080	C0332281
+27717972	1847	1860	WARPS subtype	T185	C0008902
+27717972	1870	1889	trochlear dysplasia	T047	C4274287
+27717972	1891	1905	TT-TG distance	T081	C0012751
+27717972	1919	1937	ligamentous laxity	T046	C0158359
+27717972	1957	1981	rotational abnormalities	T033	C1704258
+27717972	1999	2005	t test	T170	C0871472
+27717972	2052	2055	ISS	T170	C0021504
+27717972	2064	2077	WARPS subtype	T185	C0008902
+27717972	2102	2115	STAID subtype	T185	C0008902
+27717972	2165	2177	relationship	T080	C0439849
+27717972	2190	2201	WARPS/STAID	T081	C0457451
+27717972	2210	2220	ISS scores	T170	C0021504
+27717972	2239	2272	Pearson r correlation coefficient	T081	C0871052
+27717972	2296	2308	relationship	T080	C0439849
+27717972	2345	2350	study	T062	C0008972
+27717972	2368	2393	statistically significant	T081	C0237881
+27717972	2394	2402	evidence	T078	C3887511
+27717972	2416	2428	demographics	T185	C1698647
+27717972	2433	2447	pathoanatomies	T080	C1384516
+27717972	2482	2487	WARPS	T185	C0008902
+27717972	2492	2497	STAID	T185	C0008902
+27717972	2498	2512	patellofemoral	T030	C0447801
+27717972	2513	2524	instability	T033	C0022410
+27717972	2525	2533	subtypes	T185	C0449560
+27717972	2562	2577	quality-of-life	T078	C0034380
+27717972	2581	2595	activity level	T033	C0683317
+27717972	2608	2616	subtypes	T185	C0449560
+27717972	2622	2639	WARPS/STAID score	T081	C0457451
+27717972	2653	2672	convergent validity	T080	C1510594
+27717972	2680	2683	ISS	T170	C0021504
+27717972	2688	2706	divergent validity	T081	C2349101
+27717972	2714	2724	BPII score	T170	C0282574
+27717972	2733	2752	Marx activity scale	T170	C0282574
+27717972	2759	2764	study	T062	C0008972
+27717972	2796	2822	WARPS/STAID classification	T185	C0008902
+27717972	2831	2834	ISS	T170	C0021504
+27717972	2838	2846	patients	T101	C0030705
+27717972	2865	2874	recurrent	T079	C2945760
+27717972	2875	2889	patellofemoral	T030	C0447801
+27717972	2890	2901	instability	T033	C0022410

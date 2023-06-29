@@ -1,0 +1,53 @@
+20447294|t|Studies of synergy between morphine and a novel sodium channel blocker, CNSB002, in rat models of inflammatory and neuropathic pain.
+20447294|a|OBJECTIVE: This study determined the antihyperalgesic effect of CNSB002, a sodium channel blocker with antioxidant properties given alone and in combinations with morphine in rat models of inflammatory and neuropathic pain. DESIGN: Dose response curves for nonsedating doses of morphine and CNSB002 given intraperitoneally alone and together in combinations were constructed for antihyperalgesic effect using paw withdrawal from noxious heat in two rat pain models: carrageenan-induced paw inflammation and streptozotocin (STZ)-induced diabetic neuropathy. RESULTS: The maximum nonsedating doses were: morphine, 3.2 mg/kg; CNSB002 10.0 mg/kg; 5.0 mg/kg CNSB002 with morphine 3.2 mg/kg in combination. The doses calculated to cause 50% reversal of hyperalgesia (ED50) were 7.54 (1.81) and 4.83 (1.54) in the carrageenan model and 44.18 (1.37) and 9.14 (1.24) in the STZ-induced neuropathy model for CNSB002 and morphine, respectively (mg/kg; mean, SEM). These values were greater than the maximum nonsedating doses. The ED50 values for morphine when given in combination with CNSB002 (5 mg/kg) were less than the maximum nonsedating dose: 0.56 (1.55) in the carrageenan model and 1.37 (1.23) in the neuropathy model (mg/kg; mean, SEM). The antinociception after morphine (3.2 mg/kg) was increased by co-administration with CNSB002 from 28.0 and 31.7% to 114.6 and 56.9% reversal of hyperalgesia in the inflammatory and neuropathic models, respectively (P < 0.01; one-way analysis of variance-significantly greater than either drug given alone). CONCLUSIONS: The maximum antihyperalgesic effect achievable with nonsedating doses of morphine may be increased significantly when the drug is used in combination with CNSB002.
+20447294	27	35	morphine	ChemicalEntity	D009020
+20447294	48	70	sodium channel blocker	ChemicalEntity	D026941
+20447294	72	79	CNSB002	ChemicalEntity	C401121
+20447294	84	87	rat	OrganismTaxon	10116
+20447294	98	110	inflammatory	DiseaseOrPhenotypicFeature	D007249
+20447294	115	131	neuropathic pain	DiseaseOrPhenotypicFeature	D009437
+20447294	197	204	CNSB002	ChemicalEntity	C401121
+20447294	208	230	sodium channel blocker	ChemicalEntity	D026941
+20447294	296	304	morphine	ChemicalEntity	D009020
+20447294	308	311	rat	OrganismTaxon	10116
+20447294	322	334	inflammatory	DiseaseOrPhenotypicFeature	D007249
+20447294	339	355	neuropathic pain	DiseaseOrPhenotypicFeature	D009437
+20447294	411	419	morphine	ChemicalEntity	D009020
+20447294	424	431	CNSB002	ChemicalEntity	C401121
+20447294	582	585	rat	OrganismTaxon	10116
+20447294	586	590	pain	DiseaseOrPhenotypicFeature	D010146
+20447294	599	610	carrageenan	ChemicalEntity	D002351
+20447294	623	635	inflammation	DiseaseOrPhenotypicFeature	D007249
+20447294	640	654	streptozotocin	ChemicalEntity	D013311
+20447294	656	659	STZ	ChemicalEntity	D013311
+20447294	669	688	diabetic neuropathy	DiseaseOrPhenotypicFeature	D003929
+20447294	735	743	morphine	ChemicalEntity	D009020
+20447294	756	763	CNSB002	ChemicalEntity	C401121
+20447294	786	793	CNSB002	ChemicalEntity	C401121
+20447294	799	807	morphine	ChemicalEntity	D009020
+20447294	880	892	hyperalgesia	DiseaseOrPhenotypicFeature	D006930
+20447294	940	951	carrageenan	ChemicalEntity	D002351
+20447294	998	1001	STZ	ChemicalEntity	D013311
+20447294	1010	1020	neuropathy	DiseaseOrPhenotypicFeature	D009422
+20447294	1031	1038	CNSB002	ChemicalEntity	C401121
+20447294	1043	1051	morphine	ChemicalEntity	D009020
+20447294	1168	1176	morphine	ChemicalEntity	D009020
+20447294	1208	1215	CNSB002	ChemicalEntity	C401121
+20447294	1290	1301	carrageenan	ChemicalEntity	D002351
+20447294	1331	1341	neuropathy	DiseaseOrPhenotypicFeature	D009422
+20447294	1394	1402	morphine	ChemicalEntity	D009020
+20447294	1455	1462	CNSB002	ChemicalEntity	C401121
+20447294	1514	1526	hyperalgesia	DiseaseOrPhenotypicFeature	D006930
+20447294	1534	1546	inflammatory	DiseaseOrPhenotypicFeature	D007249
+20447294	1551	1562	neuropathic	DiseaseOrPhenotypicFeature	D009422
+20447294	1763	1771	morphine	ChemicalEntity	D009020
+20447294	1845	1852	CNSB002	ChemicalEntity	C401121
+20447294	Negative_Correlation	C401121	D009437	Novel
+20447294	Negative_Correlation	C401121	D006930	Novel
+20447294	Negative_Correlation	C401121	D007249	Novel
+20447294	Negative_Correlation	D009020	D009437	Novel
+20447294	Cotreatment	D009020	C401121	Novel
+20447294	Negative_Correlation	D009020	D006930	Novel
+20447294	Negative_Correlation	D009020	D007249	No
+20447294	Positive_Correlation	D013311	D003929	No
+20447294	Positive_Correlation	D002351	D007249	No

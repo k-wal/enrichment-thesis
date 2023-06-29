@@ -1,0 +1,68 @@
+24853300|t|Crucial role of calbindin-D28k in the pathogenesis of Alzheimer's disease mouse model.
+24853300|a|Calbindin-D28k (CB), one of the major calcium-binding and buffering proteins, has a critical role in preventing a neuronal death as well as maintaining calcium homeostasis. Although marked reductions of CB expression have been observed in the brains of mice and humans with Alzheimer disease (AD), it is unknown whether these changes contribute to AD-related dysfunction. To determine the pathogenic importance of CB depletions in AD models, we crossed 5 familial AD mutations (5XFAD; Tg) mice with CB knock-out (CBKO) mice and generated a novel line CBKO.5XFAD (CBKOTg) mice. We first identified the change of signaling pathways and differentially expressed proteins globally by removing CB in Tg mice using mass spectrometry and antibody microarray. Immunohistochemistry showed that CBKOTg mice had significant neuronal loss in the subiculum area without changing the magnitude (number) of amyloid b-peptide (Ab) plaques deposition and elicited significant apoptotic features and mitochondrial dysfunction compared with Tg mice. Moreover, CBKOTg mice reduced levels of phosphorylated mitogen-activated protein kinase (extracellular signal-regulated kinase) 1/2 and cAMP response element-binding protein at Ser-133 and synaptic molecules such as N-methyl-D-aspartate receptor 1 (NMDA receptor 1), NMDA receptor 2A, PSD-95 and synaptophysin in the subiculum compared with Tg mice. Importantly, this is the first experimental evidence that removal of CB from amyloid precursor protein/presenilin transgenic mice aggravates AD pathogenesis, suggesting that CB has a critical role in AD pathogenesis.
+24853300	16	30	calbindin-D28k	GeneOrGeneProduct	12307
+24853300	54	73	Alzheimer's disease	DiseaseOrPhenotypicFeature	D000544
+24853300	74	79	mouse	OrganismTaxon	10090
+24853300	87	101	Calbindin-D28k	GeneOrGeneProduct	12307
+24853300	103	105	CB	GeneOrGeneProduct	12307
+24853300	125	132	calcium	ChemicalEntity	D002118
+24853300	201	215	neuronal death	DiseaseOrPhenotypicFeature	D009410
+24853300	239	246	calcium	ChemicalEntity	D002118
+24853300	290	292	CB	GeneOrGeneProduct	12307,793
+24853300	340	344	mice	OrganismTaxon	10090
+24853300	349	355	humans	OrganismTaxon	9606
+24853300	361	378	Alzheimer disease	DiseaseOrPhenotypicFeature	D000544
+24853300	380	382	AD	DiseaseOrPhenotypicFeature	D000544
+24853300	435	437	AD	DiseaseOrPhenotypicFeature	D000544
+24853300	501	503	CB	GeneOrGeneProduct	12307
+24853300	518	520	AD	DiseaseOrPhenotypicFeature	D000544
+24853300	551	553	AD	DiseaseOrPhenotypicFeature	D000544
+24853300	568	570	AD	DiseaseOrPhenotypicFeature	D000544
+24853300	576	580	mice	OrganismTaxon	10090
+24853300	586	588	CB	GeneOrGeneProduct	12307
+24853300	600	602	CB	GeneOrGeneProduct	12307
+24853300	606	610	mice	OrganismTaxon	10090
+24853300	638	640	CB	GeneOrGeneProduct	12307
+24853300	646	648	AD	DiseaseOrPhenotypicFeature	D000544
+24853300	650	652	CB	GeneOrGeneProduct	12307
+24853300	658	662	mice	OrganismTaxon	10090
+24853300	776	778	CB	GeneOrGeneProduct	12307
+24853300	785	789	mice	OrganismTaxon	10090
+24853300	872	874	CB	GeneOrGeneProduct	12307
+24853300	879	883	mice	OrganismTaxon	10090
+24853300	900	913	neuronal loss	DiseaseOrPhenotypicFeature	D009410
+24853300	979	996	amyloid b-peptide	GeneOrGeneProduct	11820
+24853300	998	1000	Ab	GeneOrGeneProduct	11820
+24853300	1069	1094	mitochondrial dysfunction	DiseaseOrPhenotypicFeature	D028361
+24853300	1112	1116	mice	OrganismTaxon	10090
+24853300	1128	1130	CB	GeneOrGeneProduct	12307
+24853300	1135	1139	mice	OrganismTaxon	10090
+24853300	1173	1205	mitogen-activated protein kinase	GeneOrGeneProduct	26413,26417
+24853300	1207	1249	extracellular signal-regulated kinase) 1/2	GeneOrGeneProduct	26413,26417
+24853300	1254	1291	cAMP response element-binding protein	GeneOrGeneProduct	12912
+24853300	1334	1365	N-methyl-D-aspartate receptor 1	GeneOrGeneProduct	14810
+24853300	1367	1382	NMDA receptor 1	GeneOrGeneProduct	14810
+24853300	1385	1401	NMDA receptor 2A	GeneOrGeneProduct	14811
+24853300	1403	1409	PSD-95	GeneOrGeneProduct	13385
+24853300	1414	1427	synaptophysin	GeneOrGeneProduct	20977
+24853300	1462	1466	mice	OrganismTaxon	10090
+24853300	1537	1539	CB	GeneOrGeneProduct	12307
+24853300	1545	1570	amyloid precursor protein	GeneOrGeneProduct	11820
+24853300	1571	1581	presenilin	GeneOrGeneProduct	19164
+24853300	1593	1597	mice	OrganismTaxon	10090
+24853300	1609	1611	AD	DiseaseOrPhenotypicFeature	D000544
+24853300	1642	1644	CB	GeneOrGeneProduct	12307
+24853300	1668	1670	AD	DiseaseOrPhenotypicFeature	D000544
+24853300	Negative_Correlation	793	D000544	No
+24853300	Association	D028361	12307	Novel
+24853300	Association	12307	12912	Novel
+24853300	Bind	12307	D002118	No
+24853300	Association	12307	19164	Novel
+24853300	Association	12307	20977	Novel
+24853300	Association	12307	13385	Novel
+24853300	Association	12307	14811	Novel
+24853300	Association	12307	14810	Novel
+24853300	Association	12307	26417	Novel
+24853300	Association	12307	26413	Novel
+24853300	Negative_Correlation	12307	D009410	Novel
+24853300	Negative_Correlation	12307	D000544	Novel

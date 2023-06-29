@@ -1,0 +1,78 @@
+27481714|t|Coupling of TRPV6 and TMEM16A in epithelial principal cells of the rat epididymis
+27481714|a|The epididymis establishes a congenial environment for sperm maturation and protection. Its fluid is acidic, and the calcium concentration is low and declines along the length of the epididymal tubule. However, our knowledge of ionic currents and mechanisms of calcium homeostasis in rat epididymal epithelial cells remains enigmatic. In this study, to better understand calcium regulation in the epididymis, we use the patch-clamp method to record from single rat cauda epididymal principal cells. We detect a constitutively active Ca(2+) current with characteristics that match the epithelial calcium channel TRPV6. Electrophysiological and pharmacological data also reveal a constitutively active calcium-activated chloride conductance (CaCC). Removal of extracellular calcium attenuates not only the TRPV6 -like conductance, but also the CaCC. Lanthanide block is time dependent such that the TRPV6 -like component is inhibited first, followed by the CaCC. The putative CaCC blocker niflumic acid partially inhibits whole-cell currents, whereas La(3+) almost abolishes whole-cell currents in principal cells. Membrane potential measurements reveal an interplay between La(3+) - sensitive ion channels and those that are sensitive to the specific TMEM16A inhibitor tannic acid. In vivo perfusion of the cauda epididymal tubule shows a substantial rate of Ca(2+) reabsorption from the luminal side, which is dose-dependently suppressed by ruthenium red, a putative blocker of epithelial Ca(2+) channels and CaCC. Finally, we discover messenger RNA for both TRPV6 and TMEM16A in the rat epididymis and show that their proteins colocalize in the apical membrane of principal cells. Collectively, these data provide evidence for a coupling mechanism between TRPV6 and TMEM16A in principal cells that may play an important role in the regulation of calcium homeostasis in the epididymis.
+27481714	12	17	TRPV6	T103	UMLS:C1452353
+27481714	22	29	TMEM16A	T103	UMLS:C2976269
+27481714	33	59	epithelial principal cells	T017	UMLS:C0014597
+27481714	67	81	rat epididymis	T017	UMLS:C1882657
+27481714	86	96	epididymis	T017	UMLS:C0014533
+27481714	121	132	environment	T082	UMLS:C0014406
+27481714	137	153	sperm maturation	T038	UMLS:C0037846
+27481714	174	179	fluid	T031	UMLS:C0005889
+27481714	199	206	calcium	T103	UMLS:C0006675
+27481714	265	282	epididymal tubule	T017	UMLS:C0014533
+27481714	310	324	ionic currents	T038	UMLS:C0162585
+27481714	343	362	calcium homeostasis	T038	UMLS:C1156269
+27481714	366	380	rat epididymal	T017	UMLS:C1882657
+27481714	381	397	epithelial cells	T017	UMLS:C0014597
+27481714	425	430	study	T062	UMLS:C2603343
+27481714	453	471	calcium regulation	T038	UMLS:C1156269
+27481714	479	489	epididymis	T017	UMLS:C0014533
+27481714	502	520	patch-clamp method	T062	UMLS:C0242625
+27481714	543	546	rat	T204	UMLS:C0034693
+27481714	547	563	cauda epididymal	T017	UMLS:C0228024
+27481714	564	579	principal cells	T017	UMLS:C0007634
+27481714	584	590	detect	T033	UMLS:C0442726
+27481714	615	621	Ca(2+)	T103	UMLS:C0596235
+27481714	622	629	current	T038	UMLS:C0162585
+27481714	666	676	epithelial	T017	UMLS:C0014609
+27481714	677	692	calcium channel	T103	UMLS:C0006685
+27481714	693	698	TRPV6	T103	UMLS:C1452353
+27481714	725	745	pharmacological data	T058	UMLS:C1831759
+27481714	775	820	active calcium-activated chloride conductance	T103	UMLS:C1956140
+27481714	822	826	CaCC	T103	UMLS:C1956140
+27481714	840	853	extracellular	T017	UMLS:C0521119
+27481714	854	861	calcium	T103	UMLS:C0006675
+27481714	886	891	TRPV6	T103	UMLS:C1452353
+27481714	924	928	CaCC	T103	UMLS:C1956140
+27481714	930	940	Lanthanide	T103	UMLS:C0205838
+27481714	979	984	TRPV6	T103	UMLS:C1452353
+27481714	1004	1013	inhibited	T038	UMLS:C1516145
+27481714	1037	1041	CaCC	T103	UMLS:C1956140
+27481714	1056	1060	CaCC	T103	UMLS:C1956140
+27481714	1069	1082	niflumic acid	T103	UMLS:C0028067
+27481714	1093	1101	inhibits	T038	UMLS:C1516145
+27481714	1102	1112	whole-cell	T017	UMLS:C0007634
+27481714	1113	1121	currents	T038	UMLS:C0162585
+27481714	1131	1137	La(3+)	T103	UMLS:C0534702
+27481714	1155	1165	whole-cell	T017	UMLS:C0007634
+27481714	1166	1174	currents	T038	UMLS:C0162585
+27481714	1178	1193	principal cells	T017	UMLS:C0007634
+27481714	1195	1213	Membrane potential	T038	UMLS:C0025251
+27481714	1255	1261	La(3+)	T103	UMLS:C0534702
+27481714	1264	1286	sensitive ion channels	T103	UMLS:C0022009
+27481714	1323	1331	specific	T170	UMLS:C1552740
+27481714	1332	1339	TMEM16A	T103	UMLS:C2976269
+27481714	1340	1349	inhibitor	T103	UMLS:C0243077
+27481714	1350	1361	tannic acid	T103	UMLS:C0039294
+27481714	1363	1370	In vivo	T082	UMLS:C1515655
+27481714	1371	1380	perfusion	T058	UMLS:C0031001
+27481714	1388	1411	cauda epididymal tubule	T017	UMLS:C0228024
+27481714	1440	1446	Ca(2+)	T103	UMLS:C0596235
+27481714	1447	1459	reabsorption	T038	UMLS:C3852988
+27481714	1469	1481	luminal side	T082	UMLS:C0524462
+27481714	1523	1536	ruthenium red	T103	UMLS:C0035975
+27481714	1560	1570	epithelial	T017	UMLS:C0014609
+27481714	1571	1586	Ca(2+) channels	T103	UMLS:C0006685
+27481714	1591	1595	CaCC	T103	UMLS:C1956140
+27481714	1618	1631	messenger RNA	T103	UMLS:C0035696
+27481714	1641	1646	TRPV6	T103	UMLS:C1452353
+27481714	1651	1658	TMEM16A	T103	UMLS:C2976269
+27481714	1666	1680	rat epididymis	T017	UMLS:C1882657
+27481714	1701	1709	proteins	T103	UMLS:C0033684
+27481714	1710	1720	colocalize	T082	UMLS:C0392752
+27481714	1747	1762	principal cells	T017	UMLS:C0007634
+27481714	1839	1844	TRPV6	T103	UMLS:C1452353
+27481714	1849	1856	TMEM16A	T103	UMLS:C2976269
+27481714	1860	1875	principal cells	T017	UMLS:C0007634
+27481714	1915	1948	regulation of calcium homeostasis	T038	UMLS:C1156269
+27481714	1956	1966	epididymis	T017	UMLS:C0014533

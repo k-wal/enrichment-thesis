@@ -1,0 +1,116 @@
+27286174|t|Beyond " Median Waiting Time ": Development and Validation of a Competing Risk Model to Predict Outcomes on the Kidney Transplant Waiting List
+27286174|a|Median historical time to kidney transplant is misleading because it does not convey the competing risks of death or removal from the waiting list. We developed and validated a competing risk model to calculate likelihood of outcomes for kidney transplant candidates and demonstrate how this information differs from median time to transplant. Data were obtained from the US Scientific Registry of Transplant Recipients. The retrospective cohort included 163 636 adults listed for kidney transplant before December 31, 2011. Predictors were age, sex, blood type, calculated panel-reactive antibodies, donation service area, dialysis duration, comorbid conditions, and body mass index. Outcomes were deceased or living donor transplant, death or removal from the list due to deteriorating medical condition, or removal due to other reasons. We calculated hazards for the possible outcomes, then the cumulative incidence function for a given candidate using competing risk methodology. Discrimination and calibration were assessed through C statistics and calibration plots for each cause - specific Cox proportional hazard model. C statistics ranged from 0.64 to 0.73. Calibration plots showed good calibration. The competing risk model shows probability of all possible outcomes for up to 12 years given a candidate's characteristics, contrasted with the median waiting time for that candidate's donation service area. A competing risk model conveys more relevant information than the median waiting time for a given transplant center. This model will be updated to create a calculator reflecting the most recent outcomes and changes in allocation policy. It illustrates the conversations that should be initiated with transplant candidates.
+27286174	9	15	Median	T081	C0876920
+27286174	16	28	Waiting Time	T079	C0814636
+27286174	32	43	Development	T169	C1527148
+27286174	48	58	Validation	T062	C1519941
+27286174	74	84	Risk Model	UnknownType	C0679713
+27286174	88	95	Predict	T078	C0681842
+27286174	96	104	Outcomes	T169	C1274040
+27286174	112	118	Kidney	T023	C0022646
+27286174	119	142	Transplant Waiting List	T170	C3272315
+27286174	143	149	Median	T081	C0876920
+27286174	150	160	historical	T079	C0019659
+27286174	161	165	time	T079	C0040223
+27286174	169	186	kidney transplant	T061	C0022671
+27286174	242	247	risks	T078	C0035647
+27286174	251	256	death	T040	C0011065
+27286174	260	289	removal from the waiting list	T033	C0420299
+27286174	330	340	risk model	UnknownType	C0679713
+27286174	344	353	calculate	T052	C1441506
+27286174	368	376	outcomes	T080	C0085415
+27286174	381	398	kidney transplant	T061	C0022671
+27286174	399	409	candidates	T098	C0524355
+27286174	435	446	information	T078	C1533716
+27286174	447	454	differs	T080	C1705242
+27286174	460	466	median	T081	C0876920
+27286174	467	471	time	T079	C0814636
+27286174	475	485	transplant	T061	C0022671
+27286174	487	491	Data	T078	C1511726
+27286174	497	505	obtained	T169	C1301820
+27286174	515	537	US Scientific Registry	T170	C0034975
+27286174	541	562	Transplant Recipients	T101	C0376387
+27286174	568	588	retrospective cohort	T062	C2985505
+27286174	606	612	adults	T100	C0001675
+27286174	624	641	kidney transplant	T061	C0022671
+27286174	668	678	Predictors	T033	C0035648
+27286174	684	687	age	T032	C0001779
+27286174	689	692	sex	T032	C0079399
+27286174	694	704	blood type	T201	C1383165
+27286174	706	716	calculated	T059	C1443182
+27286174	717	742	panel-reactive antibodies	T059	C1141951
+27286174	744	752	donation	T061	C0411257
+27286174	753	765	service area	T083	C0007403
+27286174	767	775	dialysis	T061	C0011946
+27286174	776	784	duration	T079	C0449238
+27286174	786	805	comorbid conditions	T033	C1275743
+27286174	811	826	body mass index	T201	C1305855
+27286174	828	836	Outcomes	T080	C0085415
+27286174	854	866	living donor	T098	C0348050
+27286174	867	877	transplant	T061	C0022671
+27286174	879	884	death	T040	C0011065
+27286174	888	909	removal from the list	T033	C0420299
+27286174	910	916	due to	T169	C0678226
+27286174	917	930	deteriorating	T080	C0332271
+27286174	931	938	medical	T169	C0205476
+27286174	939	948	condition	T080	C0348080
+27286174	953	960	removal	T033	C0420299
+27286174	961	967	due to	T169	C0678226
+27286174	968	981	other reasons	T033	C3840932
+27286174	986	996	calculated	T169	C0444686
+27286174	997	1004	hazards	T080	C0598697
+27286174	1013	1021	possible	T033	C0332149
+27286174	1022	1030	outcomes	T080	C0085415
+27286174	1041	1051	cumulative	T080	C1511559
+27286174	1052	1061	incidence	T081	C0021149
+27286174	1062	1070	function	T039	C0031843
+27286174	1083	1092	candidate	T098	C0524355
+27286174	1109	1113	risk	T078	C0035647
+27286174	1114	1125	methodology	T078	C3266812
+27286174	1127	1141	Discrimination	T041	C0012632
+27286174	1146	1157	calibration	T081	C0006751
+27286174	1163	1171	assessed	T052	C1516048
+27286174	1172	1179	through	T169	C0332273
+27286174	1180	1192	C statistics	UnknownType	C0681933
+27286174	1197	1208	calibration	T081	C0006751
+27286174	1209	1214	plots	T169	C1301732
+27286174	1219	1223	each	T081	C1457900
+27286174	1224	1229	cause	T169	C0015127
+27286174	1232	1240	specific	T080	C0205369
+27286174	1241	1270	Cox proportional hazard model	T081,T170	C0018623
+27286174	1272	1284	C statistics	UnknownType	C0681933
+27286174	1311	1322	Calibration	T081	C0006751
+27286174	1323	1328	plots	T169	C1301732
+27286174	1336	1340	good	T080	C0205170
+27286174	1341	1352	calibration	T081	C0006751
+27286174	1368	1378	risk model	UnknownType	C0679713
+27286174	1385	1396	probability	T081	C0033204
+27286174	1404	1412	possible	T033	C0332149
+27286174	1413	1421	outcomes	T080	C0085415
+27286174	1432	1440	12 years	T079	C0439234
+27286174	1449	1460	candidate's	T098	C0524355
+27286174	1461	1476	characteristics	T080	C1521970
+27286174	1498	1504	median	T081	C0876920
+27286174	1505	1517	waiting time	T079	C0814636
+27286174	1527	1538	candidate's	T098	C0524355
+27286174	1539	1547	donation	T061	C0411257
+27286174	1548	1560	service area	T083	C0007403
+27286174	1574	1584	risk model	UnknownType	C0679713
+27286174	1598	1606	relevant	T080	C2347946
+27286174	1607	1618	information	T078	C1533716
+27286174	1628	1634	median	T081	C0876920
+27286174	1635	1647	waiting time	T079	C0814636
+27286174	1654	1659	given	T077	C1442162
+27286174	1660	1677	transplant center	T093	C1708333
+27286174	1684	1689	model	T081	C0033204
+27286174	1698	1705	updated	T079	C1519814
+27286174	1709	1715	create	T052	C1706214
+27286174	1749	1755	recent	T079	C0332185
+27286174	1756	1764	outcomes	T080	C0085415
+27286174	1769	1776	changes	T169	C0392747
+27286174	1780	1790	allocation	T052	C1706778
+27286174	1791	1797	policy	T170	C0242456
+27286174	1818	1831	conversations	T054	C0871703
+27286174	1847	1856	initiated	T169	C1704686
+27286174	1862	1872	transplant	T061	C0022671
+27286174	1873	1883	candidates	T098	C0524355

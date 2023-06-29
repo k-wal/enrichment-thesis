@@ -1,0 +1,81 @@
+28066591|t|Relationship between polycythemia and in-hospital mortality in chronic obstructive pulmonary disease patients with low-risk pulmonary embolism
+28066591|a|Pulmonary embolism (PE) is frequent in subjects with chronic obstructive pulmonary disease (COPD) and associated with high mortality. This multi-center retrospective study was performed to investigate if secondary polycythemia is associated with in-hospital mortality in COPD patients with low-risk PE. We identified COPD patients with proven PE between October, 2005 and October, 2015. Patients in risk classes III-V on the basis of the PESI score were excluded. We extracted demographic, clinical and laboratory information at the time of admission from medical records. All subjects were followed until hospital discharge to identify all-cause mortality. We enrolled 629 consecutive patients with COPD and PE at low risk: 132 of them (21.0%) with and 497 (79.0%) without secondary polycythemia. Compared with those without polycythemia, the polycythemia group had significantly lower forced expiratory volume in one second (FEV1) level (0.9±0.3 vs. 1.4±0.5, P=0.000), lower PaO2 and SpO2 as well as higher PaCO2 (P=0.03, P=0.03 and P=0.000, respectively). COPD patients with polycythemia had a higher proportion of arrhythmia in electrocardiogram (ECG) (49.5% vs. 35.7%, P=0.02), a longer hospital duration time (15.3±10.1 vs. 9.7±9.1, P=0.001), a higher mechanical ventilation rate (noninvasive and invasive, 51.7% vs. 30.3%, P=0.04 and 31.0% vs. 7.9%, P=0.04, respectively), and a higher in-hospital mortality (12.1% vs. 6.6%, P=0.04). Multivariate logistic regression analysis revealed that polycythemia was associated with mortality in COPD patients with low-risk PE (adjusted OR 1.11; 95% CI, 1.04-1.66). Polycythemia is an independent risk factor for all-cause in-hospital mortality in COPD patients with PE at low risk.
+28066591	0	12	Relationship	T080	C0439849
+28066591	21	33	polycythemia	T047	C0032461
+28066591	38	59	in-hospital mortality	T080	C0085556
+28066591	63	100	chronic obstructive pulmonary disease	T047	C0024117
+28066591	101	109	patients	T101	C0030705
+28066591	115	123	low-risk	T081	C3538919
+28066591	124	142	pulmonary embolism	T047	C0034065
+28066591	143	161	Pulmonary embolism	T047	C0034065
+28066591	163	165	PE	T047	C0034065
+28066591	170	178	frequent	T079	C0332183
+28066591	182	190	subjects	T098	C0080105
+28066591	196	233	chronic obstructive pulmonary disease	T047	C0024117
+28066591	235	239	COPD	T047	C0024117
+28066591	245	260	associated with	T080	C0332281
+28066591	266	275	mortality	T081	C0079320
+28066591	282	314	multi-center retrospective study	T062	C0035363
+28066591	332	343	investigate	T169	C1292732
+28066591	357	369	polycythemia	T047	C0032461
+28066591	373	388	associated with	T080	C0332281
+28066591	389	410	in-hospital mortality	T080	C0085556
+28066591	414	418	COPD	T047	C0024117
+28066591	419	427	patients	T101	C0030705
+28066591	433	441	low-risk	T081	C3538919
+28066591	442	444	PE	T047	C0034065
+28066591	460	464	COPD	T047	C0024117
+28066591	465	473	patients	T101	C0030705
+28066591	486	488	PE	T047	C0034065
+28066591	530	538	Patients	T101	C0030705
+28066591	581	591	PESI score	T033	C0243095
+28066591	620	631	demographic	T090	C0011298
+28066591	633	641	clinical	T080	C0205210
+28066591	646	668	laboratory information	UnknownType	C0677075
+28066591	676	693	time of admission	T079	C3854259
+28066591	699	714	medical records	T170	C0025102
+28066591	720	728	subjects	T098	C0080105
+28066591	749	767	hospital discharge	T058	C0586003
+28066591	790	799	mortality	T081	C0079320
+28066591	829	837	patients	T101	C0030705
+28066591	843	847	COPD	T047	C0024117
+28066591	852	854	PE	T047	C0034065
+28066591	858	866	low risk	T081	C3538919
+28066591	927	939	polycythemia	T047	C0032461
+28066591	969	981	polycythemia	T047	C0032461
+28066591	987	999	polycythemia	T047	C0032461
+28066591	1010	1029	significantly lower	T081	C4055638
+28066591	1030	1081	forced expiratory volume in one second (FEV1) level	T060	C2238302
+28066591	1114	1124	lower PaO2	T033	C2363807
+28066591	1129	1133	SpO2	T042	C2317096
+28066591	1145	1157	higher PaCO2	T034	C0391839
+28066591	1202	1206	COPD	T047	C0024117
+28066591	1207	1215	patients	T101	C0030705
+28066591	1221	1233	polycythemia	T047	C0032461
+28066591	1240	1246	higher	T080	C0205250
+28066591	1247	1257	proportion	T081	C1709707
+28066591	1261	1271	arrhythmia	T033	C0003811
+28066591	1275	1292	electrocardiogram	T033	C0013798
+28066591	1294	1297	ECG	T033	C0013798
+28066591	1335	1357	hospital duration time	T081	C0392762
+28066591	1394	1400	higher	T080	C0205250
+28066591	1401	1428	mechanical ventilation rate	T061	C2223989
+28066591	1430	1441	noninvasive	T185	C2986496
+28066591	1446	1454	invasive	T080	C0205281
+28066591	1529	1535	higher	T080	C0205250
+28066591	1536	1557	in-hospital mortality	T080	C0085556
+28066591	1584	1625	Multivariate logistic regression analysis	UnknownType	C0681925
+28066591	1640	1652	polycythemia	T047	C0032461
+28066591	1657	1672	associated with	T080	C0332281
+28066591	1673	1682	mortality	T081	C0079320
+28066591	1686	1690	COPD	T047	C0024117
+28066591	1691	1699	patients	T101	C0030705
+28066591	1705	1713	low-risk	T081	C3538919
+28066591	1714	1716	PE	T047	C0034065
+28066591	1756	1768	Polycythemia	T047	C0032461
+28066591	1787	1798	risk factor	T033	C0035648
+28066591	1813	1834	in-hospital mortality	T080	C0085556
+28066591	1838	1842	COPD	T047	C0024117
+28066591	1843	1851	patients	T101	C0030705
+28066591	1857	1859	PE	T047	C0034065
+28066591	1863	1871	low risk	T081	C3538919

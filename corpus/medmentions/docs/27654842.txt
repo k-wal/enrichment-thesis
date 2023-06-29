@@ -1,0 +1,65 @@
+27654842|t|The health care experience of patients with cancer during the last year of life: Analysis of the SEER - CAHPS data set
+27654842|a|Providing high-quality medical care for individuals with cancer during their last year of life involves a range of challenges. An important component of high-quality care during this critical period is ensuring optimal patient satisfaction. The objective of the current study was to assess factors influencing health care ratings among individuals with cancer within 1 year before death. The current study used the Surveillance, Epidemiology, and End Results (SEER)- Consumer Assessment of Healthcare Providers and Systems (CAHPS) data set, a new data resource linking patient-reported information from the CAHPS Medicare Survey with clinical information from the National Cancer Institute's SEER program. The study included 5102 Medicare beneficiaries diagnosed with cancer who completed CAHPS between 1998 and 2011 within 1 year before their death. Multivariable logistic regression analyses examined associations between patient demographic and insurance characteristics with 9 measures of health care experience. Patients with higher general or mental health status were significantly more likely to indicate excellent experience with nearly all measures examined. Sex, race/ethnicity, and education also were found to be significant predictors for certain ratings. Greater time before death predicted an increased likelihood of higher ratings for health plan and specialist physician. Clinical characteristics were found to have few significant associations with experience of care. Individuals in fee-for-service Medicare plans (vs Medicare Advantage) had a greater likelihood of excellent experience with health plans, getting care quickly, and getting needed care. Among patients with cancer within 1 year before death, experience with health plans, physicians, and medical care were found to be associated with sociodemographic, insurance, and clinical characteristics. These findings provide guidance for the development of programs to improve the experience of care among individuals with cancer. Cancer 2017;123:336-344. © 2016 American Cancer Society.
+27654842	4	26	health care experience	T058	C0086388
+27654842	30	50	patients with cancer	T101	C1516213
+27654842	51	79	during the last year of life	T058	C3872821
+27654842	81	101	Analysis of the SEER	T093	C0242638
+27654842	97	101	SEER	T093	C0242638
+27654842	104	109	CAHPS	T093	C2985607
+27654842	110	118	data set	T170	C0150098
+27654842	119	154	Providing high-quality medical care	T058	C3825410
+27654842	159	182	individuals with cancer	T101	C1516213
+27654842	183	213	during their last year of life	T058	C3872821
+27654842	272	289	high-quality care	T058	C3825410
+27654842	302	317	critical period	T080	C1511545
+27654842	338	358	patient satisfaction	T080	C0030702
+27654842	409	440	factors influencing health care	T033	C0810377
+27654842	455	478	individuals with cancer	T101	C1516213
+27654842	486	505	1 year before death	T058	C3872821
+27654842	534	577	Surveillance, Epidemiology, and End Results	T093	C0242638
+27654842	579	583	SEER	T093	C0242638
+27654842	586	641	Consumer Assessment of Healthcare Providers and Systems	T093	C2985607
+27654842	643	648	CAHPS	T093	C2985607
+27654842	650	658	data set	T170	C0150098
+27654842	671	716	resource linking patient-reported information	T170	C2964659
+27654842	726	731	CAHPS	T093	C2985607
+27654842	732	740	Medicare	T064	C0018717
+27654842	732	747	Medicare Survey	T062	C0376688
+27654842	753	773	clinical information	T170	C2708733
+27654842	783	810	National Cancer Institute's	T093	C1513882
+27654842	811	823	SEER program	T093	C0242638
+27654842	849	857	Medicare	T064	C0018717
+27654842	849	871	Medicare beneficiaries	T098	C3853043
+27654842	872	893	diagnosed with cancer	T060	C0920688
+27654842	908	913	CAHPS	T093	C2985607
+27654842	943	968	1 year before their death	T058	C3872821
+27654842	970	1012	Multivariable logistic regression analyses	UnknownType	C0681925
+27654842	1043	1062	patient demographic	T062	C0011289
+27654842	1067	1092	insurance characteristics	T081	C0021674
+27654842	1112	1134	health care experience	T058	C0086388
+27654842	1136	1144	Patients	T101	C0030705
+27654842	1168	1188	mental health status	UnknownType	C0585782
+27654842	1288	1291	Sex	T032	C0079399
+27654842	1293	1307	race/ethnicity	T033	C1830369
+27654842	1313	1322	education	T065	C0013621
+27654842	1345	1367	significant predictors	T078	C2698872
+27654842	1409	1414	death	T040	C0011065
+27654842	1459	1482	ratings for health plan	T058	C0679909
+27654842	1487	1507	specialist physician	T097	C2348234
+27654842	1509	1533	Clinical characteristics	T201	C0683325
+27654842	1587	1605	experience of care	T058	C0086388
+27654842	1638	1676	Medicare plans (vs Medicare Advantage)	T064	C3844556
+27654842	1731	1743	health plans	T058	C0018727
+27654842	1745	1765	getting care quickly	T052	C1947933
+27654842	1771	1790	getting needed care	T052	C1947933
+27654842	1798	1818	patients with cancer	T101	C1516213
+27654842	1819	1845	within 1 year before death	T058	C3872821
+27654842	1863	1875	health plans	T058	C0018727
+27654842	1877	1887	physicians	T097	C0031831
+27654842	1893	1905	medical care	T058	C3825410
+27654842	1923	1955	associated with sociodemographic	T078	C0011292
+27654842	1957	1966	insurance	T078	C0021672
+27654842	1972	1996	clinical characteristics	T201	C0683325
+27654842	2038	2061	development of programs	T058	C0033333
+27654842	2077	2095	experience of care	T058	C0086388
+27654842	2102	2125	individuals with cancer	T101	C1516213

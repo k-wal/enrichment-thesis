@@ -1,0 +1,28 @@
+27667560|t|Systematic Identification of Pharmacological Targets from Small-Molecule Phenotypic Screens
+27667560|a|Phenotypic drug discovery offers some advantages over target - based methods, mainly because it allows drug leads to be tested in systems that more closely model distinct disease states. However, a potential disadvantage is the difficulty of linking the observed phenotype to a specific cellular target. To address this problem, we developed DePick, a computational target de-convolution tool to determine targets specifically linked to small-molecule phenotypic screens. We applied DePick to eight publicly available screens and predicted 59 drug target - phenotype associations. In addition to literature - based evidence for our predictions, we provide experimental support for seven predicted associations. Interestingly, our analysis led to the discovery of a previously unrecognized connection between the Wnt signaling pathway and an aromatase, CYP19A1. These results demonstrate that the DePick approach can not only accelerate target de-convolution but also aid in discovery of new functionally relevant biological relationships.
+27667560	11	25	Identification	T038	UMLS:C0020792
+27667560	29	44	Pharmacological	T038	UMLS:C0007992
+27667560	58	72	Small-Molecule	T103	UMLS:C1328819
+27667560	73	91	Phenotypic Screens	T058	UMLS:C0373483
+27667560	103	117	drug discovery	T062	UMLS:C0920472
+27667560	161	168	methods	T170	UMLS:C0025663
+27667560	195	205	drug leads	T103	UMLS:C0013227
+27667560	240	247	closely	T033	UMLS:C3810854
+27667560	263	277	disease states	T033	UMLS:C0231294
+27667560	379	387	cellular	T017	UMLS:C0007634
+27667560	412	419	problem	T033	UMLS:C0033213
+27667560	434	440	DePick	T170	UMLS:C0037589
+27667560	488	497	determine	T058	UMLS:C1148554
+27667560	529	543	small-molecule	T103	UMLS:C1328819
+27667560	544	562	phenotypic screens	T058	UMLS:C0373483
+27667560	575	581	DePick	T170	UMLS:C0037589
+27667560	591	599	publicly	T092	UMLS:C0678367
+27667560	635	639	drug	T103	UMLS:C0013227
+27667560	688	698	literature	T170	UMLS:C0023866
+27667560	803	816	Interestingly	T038	UMLS:C0543488
+27667560	822	830	analysis	T062	UMLS:C0936012
+27667560	881	891	connection	T082	UMLS:C0449379
+27667560	904	925	Wnt signaling pathway	T038	UMLS:C1520113
+27667560	933	942	aromatase	T103	UMLS:C0003805
+27667560	944	951	CYP19A1	T103	UMLS:C3254086
+27667560	988	994	DePick	T170	UMLS:C0037589

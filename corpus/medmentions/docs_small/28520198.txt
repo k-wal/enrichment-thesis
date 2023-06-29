@@ -1,0 +1,34 @@
+28520198|t|Dynamic and steady-state oxygen - dependent lung relaxometry using inversion recovery ultra-fast steady-state free precession imaging at 1.5 T
+28520198|a|To demonstrate the feasibility of oxygen - dependent relaxometry in human lung using an inversion recovery ultra-fast steady-state free precession (IR-ufSSFP) technique. Electrocardiogram-triggered pulmonary relaxometry with IR-ufSSFP was performed in 7 healthy human subjects at 1.5 T. The data were acquired under both normoxic and hyperoxic conditions. In a single breath - hold of less than 9 seconds, 30 transient state IR-ufSSFP images were acquired, yielding longitudinal (T1) and transversal (T2) relaxometry parameter maps using voxel -wise nonlinear fitting. Possible spatial misalignments between consecutive IR-ufSSFP parameter maps were corrected using elastic image registration. Furthermore, dynamic relaxometry oxygen wash-in and wash-out scans were performed in one volunteer. From this, T1 -related wash-in and wash-out time constants (τwi, τwo) were calculated voxel -wise on registered maps using an exponential fitting model. For healthy lung, observed T1 values were 1399 ± 77 and 1290 ± 76 ms under normoxic and hyperoxic conditions, respectively. Oxygen -related reduction of T1 was statistically significant in every volunteer. No statistically significant change, however, was observed in T2, with normoxic and hyperoxic T2 values of 55 ± 16 and 56 ± 17 ms, respectively. The observed average τwi was 87.0 ± 28.7 seconds, whereas the average τwo was 73.5 ± 21.6 seconds. IR-ufSSFP allows fast, steady-state, and dynamic oxygen - dependent relaxometry of the human lung. Magn Reson Med, 2017. © 2017 International Society for Magnetic Resonance in Medicine.
+28520198	25	31	oxygen	T103	UMLS:C0030054
+28520198	44	60	lung relaxometry	T058	UMLS:C0430022
+28520198	67	133	inversion recovery ultra-fast steady-state free precession imaging	T058	UMLS:C0011923
+28520198	162	173	feasibility	T062	UMLS:C0015730
+28520198	177	183	oxygen	T103	UMLS:C0030054
+28520198	196	207	relaxometry	T058	UMLS:C0430022
+28520198	211	216	human	T204	UMLS:C0086418
+28520198	217	221	lung	T017	UMLS:C0024109
+28520198	231	311	inversion recovery ultra-fast steady-state free precession (IR-ufSSFP) technique	T058	UMLS:C0079595
+28520198	313	362	Electrocardiogram-triggered pulmonary relaxometry	T058	UMLS:C0430022
+28520198	368	377	IR-ufSSFP	T058	UMLS:C0079595
+28520198	397	410	healthy human	T098	UMLS:C1708335
+28520198	520	524	hold	T033	UMLS:C0235744
+28520198	609	626	longitudinal (T1)	T058	UMLS:C0430022
+28520198	631	659	transversal (T2) relaxometry	T058	UMLS:C0430022
+28520198	693	710	nonlinear fitting	T170	UMLS:C0282574
+28520198	763	772	IR-ufSSFP	T058	UMLS:C0079595
+28520198	858	869	relaxometry	T058	UMLS:C0430022
+28520198	870	876	oxygen	T103	UMLS:C0030054
+28520198	877	884	wash-in	T058	UMLS:C0441633
+28520198	889	903	wash-out scans	T058	UMLS:C0441633
+28520198	926	935	volunteer	T098	UMLS:C0020155
+28520198	1063	1088	exponential fitting model	T170	UMLS:C0023965
+28520198	1102	1106	lung	T017	UMLS:C0024109
+28520198	1214	1220	Oxygen	T103	UMLS:C0030054
+28520198	1285	1294	volunteer	T098	UMLS:C0020155
+28520198	1296	1331	No statistically significant change	T033	UMLS:C0442739
+28520198	1540	1549	IR-ufSSFP	T058	UMLS:C0079595
+28520198	1589	1595	oxygen	T103	UMLS:C0030054
+28520198	1608	1619	relaxometry	T058	UMLS:C0430022
+28520198	1627	1632	human	T204	UMLS:C0086418
+28520198	1633	1637	lung	T017	UMLS:C0024109

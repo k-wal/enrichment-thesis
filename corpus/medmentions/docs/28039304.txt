@@ -1,0 +1,81 @@
+28039304|t|Allergen Valency, Dose, and FcεRI Occupancy Set Thresholds for Secretory Responses to Pen a 1 and Motivate Design of Hypoallergens
+28039304|a|Ag -mediated crosslinking of IgE - FcεRI complexes activates mast cells and basophils, initiating the allergic response. Of 34 donors recruited having self-reported shrimp allergy, only 35% had significant levels of shrimp-specific IgE in serum and measurable basophil secretory responses to rPen a 1 (shrimp tropomyosin). We report that degranulation is linked to the number of FcεRI occupied with allergen-specific IgE, as well as the dose and valency of Pen a 1. Using clustered regularly interspaced palindromic repeat-based gene editing, human RBL(rαKO) cells were created that exclusively express the human FcεRIα subunit. Pen a 1 - specific IgE was affinity purified from shrimp - positive plasma. Cells primed with a range of Pen a 1 - specific IgE and challenged with Pen a 1 showed a bell-shaped dose response for secretion, with optimal Pen a 1 doses of 0.1-10 ng/ml. Mathematical modeling provided estimates of receptor aggregation kinetics based on FcεRI occupancy with IgE and allergen dose. Maximal degranulation was elicited when ∼2700 I gE - FcεRI complexes were occupied with specific IgE and challenged with Pen a 1 (IgE epitope valency of ≥8), although measurable responses were achieved when only a few hundred FcεRI were occupied. Prolonged periods of pepsin -mediated Pen a 1 proteolysis, which simulates gastric digestion, were required to diminish secretory responses. Recombinant fragments (60-79 aa), which together span the entire length of tropomyosin, were weak secretagogues. These fragments have reduced dimerization capacity, compete with intact Pen a 1 for binding to IgE - FcεRI complexes, and represent a starting point for the design of promising hypoallergens for immunotherapy.
+28039304	0	8	Allergen	T129	C0002092
+28039304	9	16	Valency	T081	C0392762
+28039304	18	22	Dose	T081	C0178602
+28039304	28	33	FcεRI	T116,T129,T192	C0162825
+28039304	34	43	Occupancy	T080	C2827063
+28039304	48	58	Thresholds	T080	C0449864
+28039304	63	82	Secretory Responses	T043	C1327439
+28039304	86	93	Pen a 1	T116,T123	C0531911
+28039304	107	113	Design	T052	C1707689
+28039304	117	130	Hypoallergens	T129	C0002092
+28039304	131	133	Ag	T196	C0037125
+28039304	144	156	crosslinking	T070	C0178576
+28039304	160	163	IgE	T116,T129	C0020846
+28039304	166	171	FcεRI	T116,T129,T192	C0162825
+28039304	172	181	complexes	T116,T129	C0003313
+28039304	192	202	mast cells	T025	C0024880
+28039304	207	216	basophils	T025	C0004827
+28039304	233	250	allergic response	T046	C1527304
+28039304	282	295	self-reported	T062	C0681906
+28039304	296	310	shrimp allergy	T046	C1628514
+28039304	347	366	shrimp-specific IgE	T116,T129	C1270759
+28039304	370	375	serum	T031	C0229671
+28039304	391	399	basophil	T025	C0004827
+28039304	400	409	secretory	T043	C1327616
+28039304	410	419	responses	T038	C0003261
+28039304	423	431	rPen a 1	T129	C2924509
+28039304	433	439	shrimp	T204	C0037017
+28039304	440	451	tropomyosin	T116,T123	C0041197
+28039304	510	515	FcεRI	T116,T129,T192	C0162825
+28039304	530	551	allergen-specific IgE	T116,T129	C0443736
+28039304	568	572	dose	T081	C0178602
+28039304	577	584	valency	T081	C0392762
+28039304	588	595	Pen a 1	T116,T123	C0531911
+28039304	603	672	clustered regularly interspaced palindromic repeat-based gene editing	T063	C4277689
+28039304	744	750	FcεRIα	T116,T129,T192	C0162825
+28039304	760	767	Pen a 1	T116,T123	C0531911
+28039304	770	782	specific IgE	T116,T129	C0443736
+28039304	810	816	shrimp	T204	C0037017
+28039304	819	827	positive	T033	C1514241
+28039304	828	834	plasma	T031	C0032105
+28039304	865	872	Pen a 1	T116,T123	C0531911
+28039304	875	887	specific IgE	T116,T129	C0443736
+28039304	908	915	Pen a 1	T116,T123	C0531911
+28039304	937	941	dose	T081	C0178602
+28039304	942	964	response for secretion	T043	C3155125
+28039304	979	986	Pen a 1	T116,T123	C0531911
+28039304	987	992	doses	T081	C0178602
+28039304	1010	1031	Mathematical modeling	T170	C0876936
+28039304	1054	1074	receptor aggregation	T044	C0034780
+28039304	1075	1083	kinetics	T070	C0022702
+28039304	1093	1098	FcεRI	T116,T129,T192	C0162825
+28039304	1114	1117	IgE	T116,T129	C0020846
+28039304	1122	1130	allergen	T129	C0002092
+28039304	1131	1135	dose	T081	C0178602
+28039304	1185	1187	gE	T116,T129	C1270759
+28039304	1190	1195	FcεRI	T116,T129,T192	C0162825
+28039304	1196	1205	complexes	T116,T129	C0003313
+28039304	1225	1237	specific IgE	T116,T129	C1270759
+28039304	1258	1265	Pen a 1	T116,T123	C0531911
+28039304	1267	1270	IgE	T116,T129	C1270759
+28039304	1271	1278	epitope	T129	C0003316
+28039304	1279	1286	valency	T081	C0392762
+28039304	1363	1368	FcεRI	T116,T129,T192	C0162825
+28039304	1405	1411	pepsin	T116,T121,T126	C0030909
+28039304	1422	1429	Pen a 1	T116,T123	C0531911
+28039304	1430	1441	proteolysis	T044	C0597304
+28039304	1459	1466	gastric	T080	C1704242
+28039304	1467	1476	digestion	T040	C0012238
+28039304	1504	1523	secretory responses	T043	C1327439
+28039304	1525	1546	Recombinant fragments	T116	C0599286
+28039304	1600	1611	tropomyosin	T116,T123	C0041197
+28039304	1667	1679	dimerization	T044	C1323329
+28039304	1680	1688	capacity	T081	C1516240
+28039304	1710	1717	Pen a 1	T116,T123	C0531911
+28039304	1733	1736	IgE	T116,T129	C1270759
+28039304	1739	1744	FcεRI	T116,T129,T192	C0162825
+28039304	1745	1754	complexes	T116,T129	C0003313
+28039304	1815	1828	hypoallergens	T129	C0002092
+28039304	1833	1846	immunotherapy	T061	C0021083

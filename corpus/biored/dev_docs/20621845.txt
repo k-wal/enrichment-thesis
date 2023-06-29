@@ -1,0 +1,63 @@
+20621845|t|Elevation of ADAM10, ADAM17, MMP-2 and MMP-9 expression with media degeneration features CaCl2-induced thoracic aortic aneurysm in a rat model.
+20621845|a|PURPOSE: This study was designed to establish a rat model of thoracic aortic aneurysm (TAA) by calcium chloride (CaCl(2))-induced arterial injury and to explore the potential role of a disintegrin and metalloproteinase (ADAM), matrix metalloproteinases (MMPs) and their endogenous inhibitors (TIMPs) in TAA formation. METHODS: Thoracic aorta of male Sprague-Dawley rats was exposed to 0.5M CaCl(2) or normal saline (NaCl). After 12weeks, animals were euthanized, and CaCl(2)-treated, CaCl(2)-untreated (n=12) and NaCl-treated aortic segments (n=12) were collected for histological and molecular assessments. MMP-TIMP and ADAM mRNAs were semi-quantitatively analyzed and protein expressions were determined by immunohistochemistry. RESULTS: Despite similar external diameters among CaCl(2)-treated, non-CaCl(2)-treated and NaCl-treated segments, aneurymal alteration (n=6, 50%), media degeneration with regional disruption, fragmentation of elastic fiber, and increased collagen deposition (n=12, 100%) were demonstrated in CaCl(2)-treated segments. MMP-2, MMP-9, ADAM-10 and ADAM-17 mRNA levels were increased in CaCl(2)-treated segments (all p<0.01), with trends of elevation in CaCl(2)-untreated segments, as compared with NaCl-treated segments. Immunohistochemistry displayed significantly increased expressions of MMP-2, MMP-9, ADAM-10 and ADAM-17 (all p<0.01) in intima and media for CaCl(2)-treated segments. TIMP mRNA and tissue levels did not differ obviously among the three aortic segments. CONCLUSION: This study establishes a TAA model by periarterial CaCl(2) exposure in rats, and demonstrates a significant elevation of expression of MMP-2, MMP-9, ADAM10 and ADAM17 in the pathogenesis of vascular remodeling.
+20621845	13	19	ADAM10	GeneOrGeneProduct	29650
+20621845	21	27	ADAM17	GeneOrGeneProduct	57027
+20621845	29	34	MMP-2	GeneOrGeneProduct	81686
+20621845	39	44	MMP-9	GeneOrGeneProduct	81687
+20621845	89	94	CaCl2	ChemicalEntity	D002122
+20621845	103	127	thoracic aortic aneurysm	DiseaseOrPhenotypicFeature	D017545
+20621845	133	136	rat	OrganismTaxon	10116
+20621845	192	195	rat	OrganismTaxon	10116
+20621845	205	229	thoracic aortic aneurysm	DiseaseOrPhenotypicFeature	D017545
+20621845	231	234	TAA	DiseaseOrPhenotypicFeature	D017545
+20621845	239	255	calcium chloride	ChemicalEntity	D002122
+20621845	257	264	CaCl(2)	ChemicalEntity	D002122
+20621845	274	289	arterial injury	DiseaseOrPhenotypicFeature	D014652
+20621845	327	362	a disintegrin and metalloproteinase	GeneOrGeneProduct	29650,57027
+20621845	364	368	ADAM	GeneOrGeneProduct	29650,57027
+20621845	371	396	matrix metalloproteinases	GeneOrGeneProduct	81686,81687
+20621845	398	402	MMPs	GeneOrGeneProduct	81686,81687
+20621845	447	450	TAA	DiseaseOrPhenotypicFeature	D017545
+20621845	509	513	rats	OrganismTaxon	10116
+20621845	534	541	CaCl(2)	ChemicalEntity	D002122
+20621845	560	564	NaCl	ChemicalEntity	D012965
+20621845	611	618	CaCl(2)	ChemicalEntity	D002122
+20621845	628	635	CaCl(2)	ChemicalEntity	D002122
+20621845	657	661	NaCl	ChemicalEntity	D012965
+20621845	752	755	MMP	GeneOrGeneProduct	81686,81687
+20621845	756	760	TIMP	GeneOrGeneProduct	116510
+20621845	765	769	ADAM	GeneOrGeneProduct	29650,57027
+20621845	925	932	CaCl(2)	ChemicalEntity	D002122
+20621845	946	953	CaCl(2)	ChemicalEntity	D002122
+20621845	966	970	NaCl	ChemicalEntity	D012965
+20621845	1167	1174	CaCl(2)	ChemicalEntity	D002122
+20621845	1193	1198	MMP-2	GeneOrGeneProduct	81686
+20621845	1200	1205	MMP-9	GeneOrGeneProduct	81687
+20621845	1207	1214	ADAM-10	GeneOrGeneProduct	29650
+20621845	1219	1226	ADAM-17	GeneOrGeneProduct	57027
+20621845	1257	1264	CaCl(2)	ChemicalEntity	D002122
+20621845	1324	1331	CaCl(2)	ChemicalEntity	D002122
+20621845	1369	1373	NaCl	ChemicalEntity	D012965
+20621845	1462	1467	MMP-2	GeneOrGeneProduct	81686
+20621845	1469	1474	MMP-9	GeneOrGeneProduct	81687
+20621845	1476	1483	ADAM-10	GeneOrGeneProduct	29650
+20621845	1488	1495	ADAM-17	GeneOrGeneProduct	57027
+20621845	1533	1540	CaCl(2)	ChemicalEntity	D002122
+20621845	1559	1563	TIMP	GeneOrGeneProduct	116510
+20621845	1682	1685	TAA	DiseaseOrPhenotypicFeature	D017545
+20621845	1708	1715	CaCl(2)	ChemicalEntity	D002122
+20621845	1728	1732	rats	OrganismTaxon	10116
+20621845	1792	1797	MMP-2	GeneOrGeneProduct	81686
+20621845	1799	1804	MMP-9	GeneOrGeneProduct	81687
+20621845	1806	1812	ADAM10	GeneOrGeneProduct	29650
+20621845	1817	1823	ADAM17	GeneOrGeneProduct	57027
+20621845	Positive_Correlation	D002122	D014652	No
+20621845	Positive_Correlation	D002122	D017545	No
+20621845	Positive_Correlation	81687	D002122	Novel
+20621845	Association	81687	D017545	Novel
+20621845	Positive_Correlation	81686	D002122	Novel
+20621845	Association	81686	D017545	Novel
+20621845	Positive_Correlation	57027	D002122	Novel
+20621845	Association	57027	D017545	Novel
+20621845	Positive_Correlation	29650	D002122	Novel
+20621845	Association	29650	D017545	Novel

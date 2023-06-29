@@ -1,0 +1,80 @@
+27466374|t|P-glycoprotein traffics from the nucleus to the plasma membrane in rat brain endothelium during inflammatory pain
+27466374|a|P-glycoprotein (PgP), a drug efflux pump in blood-brain barrier endothelial cells, is a major clinical obstacle for effective central nervous system drug delivery. Identifying PgP regulatory pathways that can be exploited clinically is critical for improving central nervous system drug delivery. We previously found that PgP activity increases in rat brain microvessels concomitant with decreased central nervous system drug delivery in response to acute peripheral inflammatory pain. In the current study, we tested the hypothesis that PgP traffics to the luminal plasma membrane of the microvessel endothelial cells from intracellular stores during peripheral inflammatory pain. Using immunofluorescence microscopy, we detected PgP in endothelial cell nuclei and in the luminal plasma membrane in control animals. Following peripheral inflammatory pain, luminal PgP staining increased while staining in the nucleus decreased. Biochemical analysis of nuclear PgP content confirmed our visual observations. Peripheral inflammatory pain also increased endothelial cell luminal staining of polymerase 1 and transcript release factor / cavin1 and serum deprivation response protein / cavin2, two caveolar scaffold proteins, without changing caveolin1 or protein kinase C delta binding protein / cavin3 location. Our data (a) indicate that PgP traffics from stores in the nucleus to the endothelial cell luminal membrane in response to peripheral inflammatory pain; (b) provide an explanation for our previous observation that peripheral inflammatory pain inhibits central nervous system drug uptake; and (c) suggest a novel regulatory mechanism for PgP activity in rat brain.
+27466374	0	14	P-glycoprotein	T103	UMLS:C0242643
+27466374	33	40	nucleus	T017	UMLS:C0007610
+27466374	48	63	plasma membrane	T017	UMLS:C0007603
+27466374	67	76	rat brain	T017	UMLS:C1882598
+27466374	77	88	endothelium	T017	UMLS:C0014257
+27466374	96	113	inflammatory pain	T033	UMLS:C0234251
+27466374	114	128	P-glycoprotein	T103	UMLS:C0242643
+27466374	130	133	PgP	T103	UMLS:C0242643
+27466374	138	142	drug	T103	UMLS:C1254351
+27466374	143	154	efflux pump	T017	UMLS:C3824504
+27466374	158	177	blood-brain barrier	T017	UMLS:C0005854
+27466374	178	195	endothelial cells	T017	UMLS:C0225336
+27466374	240	262	central nervous system	T022	UMLS:C3714787
+27466374	263	276	drug delivery	T058	UMLS:C0087111
+27466374	290	293	PgP	T103	UMLS:C0242643
+27466374	373	395	central nervous system	T022	UMLS:C3714787
+27466374	396	409	drug delivery	T058	UMLS:C0087111
+27466374	436	448	PgP activity	T038	UMLS:C1753353
+27466374	462	471	rat brain	T017	UMLS:C1882598
+27466374	472	484	microvessels	T017	UMLS:C2350570
+27466374	512	534	central nervous system	T022	UMLS:C3714787
+27466374	535	548	drug delivery	T058	UMLS:C0087111
+27466374	570	580	peripheral	T082	UMLS:C0205100
+27466374	581	598	inflammatory pain	T033	UMLS:C0234251
+27466374	652	655	PgP	T103	UMLS:C0242643
+27466374	672	679	luminal	T082	UMLS:C0524462
+27466374	680	695	plasma membrane	T017	UMLS:C0007603
+27466374	703	714	microvessel	T017	UMLS:C2350570
+27466374	715	732	endothelial cells	T017	UMLS:C0225336
+27466374	738	751	intracellular	T082	UMLS:C0178719
+27466374	766	776	peripheral	T082	UMLS:C0205100
+27466374	777	794	inflammatory pain	T033	UMLS:C0234251
+27466374	802	831	immunofluorescence microscopy	T058	UMLS:C0079604
+27466374	836	844	detected	T033	UMLS:C0442726
+27466374	845	848	PgP	T103	UMLS:C0242643
+27466374	852	868	endothelial cell	T017	UMLS:C0225336
+27466374	869	875	nuclei	T017	UMLS:C0007610
+27466374	887	894	luminal	T082	UMLS:C0524462
+27466374	895	910	plasma membrane	T017	UMLS:C0007603
+27466374	914	929	control animals	T204	UMLS:C1511501
+27466374	941	951	peripheral	T082	UMLS:C0205100
+27466374	952	969	inflammatory pain	T033	UMLS:C0234251
+27466374	971	978	luminal	T082	UMLS:C0524462
+27466374	979	982	PgP	T103	UMLS:C0242643
+27466374	983	991	staining	T058	UMLS:C0487602
+27466374	1008	1016	staining	T058	UMLS:C0487602
+27466374	1024	1031	nucleus	T017	UMLS:C0007610
+27466374	1043	1063	Biochemical analysis	T058	UMLS:C3495389
+27466374	1067	1074	nuclear	T017	UMLS:C0007610
+27466374	1075	1078	PgP	T103	UMLS:C0242643
+27466374	1122	1132	Peripheral	T082	UMLS:C0205100
+27466374	1133	1150	inflammatory pain	T033	UMLS:C0234251
+27466374	1166	1182	endothelial cell	T017	UMLS:C0225336
+27466374	1183	1190	luminal	T082	UMLS:C0524462
+27466374	1191	1199	staining	T058	UMLS:C0487602
+27466374	1203	1245	polymerase 1 and transcript release factor	T017	UMLS:C1419128
+27466374	1248	1254	cavin1	T017	UMLS:C1419128
+27466374	1259	1293	serum deprivation response protein	T017	UMLS:C1419916
+27466374	1296	1302	cavin2	T017	UMLS:C1419916
+27466374	1308	1334	caveolar scaffold proteins	T103	UMLS:C0033684
+27466374	1353	1362	caveolin1	T103	UMLS:C0033684
+27466374	1366	1404	protein kinase C delta binding protein	T017	UMLS:C1418917
+27466374	1407	1413	cavin3	T017	UMLS:C1418917
+27466374	1414	1422	location	T082	UMLS:C0450429
+27466374	1451	1454	PgP	T103	UMLS:C0242643
+27466374	1483	1490	nucleus	T017	UMLS:C0007610
+27466374	1498	1514	endothelial cell	T017	UMLS:C0225336
+27466374	1547	1557	peripheral	T082	UMLS:C0205100
+27466374	1558	1575	inflammatory pain	T033	UMLS:C0234251
+27466374	1621	1632	observation	T062	UMLS:C0302523
+27466374	1638	1648	peripheral	T082	UMLS:C0205100
+27466374	1649	1666	inflammatory pain	T033	UMLS:C0234251
+27466374	1676	1698	central nervous system	T022	UMLS:C3714787
+27466374	1699	1703	drug	T103	UMLS:C1254351
+27466374	1704	1710	uptake	T038	UMLS:C0243144
+27466374	1736	1756	regulatory mechanism	T033	UMLS:C0243095
+27466374	1761	1773	PgP activity	T038	UMLS:C1753353
+27466374	1777	1786	rat brain	T017	UMLS:C1882598

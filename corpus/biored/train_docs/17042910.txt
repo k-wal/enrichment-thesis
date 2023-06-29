@@ -1,0 +1,59 @@
+17042910|t|Anti-oxidant effects of atorvastatin in dexamethasone-induced hypertension in the rat.
+17042910|a|1. Dexamethasone (Dex)-induced hypertension is characterized by endothelial dysfunction associated with nitric oxide (NO) deficiency and increased superoxide (O2-) production. Atorvastatin (Ato) possesses pleiotropic properties that have been reported to improve endothelial function through increased availability of NO and reduced O2- production in various forms of hypertension. In the present study, we investigated whether 50 mg/kg per day, p.o., Ato could prevent endothelial NO synthase (eNOS) downregulation and the increase in O2- in Sprague-Dawley (SD) rats, thereby reducing blood pressure. 2. Male SD rats (n = 30) were treated with Ato (50 mg/kg per day in drinking water) or tap water for 15 days. Dexamethasone (10 microg/kg per day, s.c.) or saline was started after 4 days in Ato-treated and non-treated rats and continued for 11-13 days. Systolic blood pressure (SBP) was measured on alternate days using the tail-cuff method. Endothelial function was assessed by acetylcholine-induced vasorelaxation and phenylephrine-induced vasoconstriction in aortic segments. Vascular eNOS mRNA was assessed by semi-quantitative reverse transcription-polymerase chain reaction. 3. In rats treated with Dex alone, SBP was increased from 109 +/- 2 to 133 +/- 2 mmHg on Days 4 and Day 14, respectively (P < 0.001). In the Ato + Dex group, SBP was increased from 113 +/- 2 to 119 +/- 2 mmHg on Days 4 to 14, respectively (P < 0.001), but was significantly lower than SBP in the group treated with Dex alone (P < 0.05). Endothelial-dependent relaxation and eNOS mRNA expression were greater in the Dex + Ato group than in the Dex only group (P < 0.05 and P < 0.0001, respectively). Aortic superoxide production was lower in the Dex + Ato group compared with the group treated with Dex alone (P < 0.0001). 4. Treatment with Ato improved endothelial function, reduced superoxide production and reduced SBP in Dex-treated SD rats.
+17042910	24	36	atorvastatin	ChemicalEntity	C065179
+17042910	40	53	dexamethasone	ChemicalEntity	D003907
+17042910	62	74	hypertension	DiseaseOrPhenotypicFeature	D006973
+17042910	82	85	rat	OrganismTaxon	10116
+17042910	90	103	Dexamethasone	ChemicalEntity	D003907
+17042910	105	108	Dex	ChemicalEntity	D003907
+17042910	118	130	hypertension	DiseaseOrPhenotypicFeature	D006973
+17042910	191	203	nitric oxide	ChemicalEntity	D009569
+17042910	205	207	NO	ChemicalEntity	D009569
+17042910	234	244	superoxide	ChemicalEntity	D013481
+17042910	246	249	O2-	ChemicalEntity	D013481
+17042910	263	275	Atorvastatin	ChemicalEntity	C065179
+17042910	277	280	Ato	ChemicalEntity	C065179
+17042910	405	407	NO	ChemicalEntity	D009569
+17042910	420	423	O2-	ChemicalEntity	D013481
+17042910	455	467	hypertension	DiseaseOrPhenotypicFeature	D006973
+17042910	539	542	Ato	ChemicalEntity	C065179
+17042910	557	580	endothelial NO synthase	GeneOrGeneProduct	24598
+17042910	582	586	eNOS	GeneOrGeneProduct	24598
+17042910	623	626	O2-	ChemicalEntity	D013481
+17042910	650	654	rats	OrganismTaxon	10116
+17042910	700	704	rats	OrganismTaxon	10116
+17042910	732	735	Ato	ChemicalEntity	C065179
+17042910	799	812	Dexamethasone	ChemicalEntity	D003907
+17042910	880	883	Ato	ChemicalEntity	C065179
+17042910	908	912	rats	OrganismTaxon	10116
+17042910	1069	1082	acetylcholine	ChemicalEntity	D000109
+17042910	1110	1123	phenylephrine	ChemicalEntity	D010656
+17042910	1178	1182	eNOS	GeneOrGeneProduct	24598
+17042910	1277	1281	rats	OrganismTaxon	10116
+17042910	1295	1298	Dex	ChemicalEntity	D003907
+17042910	1412	1415	Ato	ChemicalEntity	C065179
+17042910	1418	1421	Dex	ChemicalEntity	D003907
+17042910	1586	1589	Dex	ChemicalEntity	D003907
+17042910	1645	1649	eNOS	GeneOrGeneProduct	24598
+17042910	1686	1689	Dex	ChemicalEntity	D003907
+17042910	1692	1695	Ato	ChemicalEntity	C065179
+17042910	1714	1717	Dex	ChemicalEntity	D003907
+17042910	1777	1787	superoxide	ChemicalEntity	D013481
+17042910	1816	1819	Dex	ChemicalEntity	D003907
+17042910	1822	1825	Ato	ChemicalEntity	C065179
+17042910	1869	1872	Dex	ChemicalEntity	D003907
+17042910	1911	1914	Ato	ChemicalEntity	C065179
+17042910	1954	1964	superoxide	ChemicalEntity	D013481
+17042910	1995	1998	Dex	ChemicalEntity	D003907
+17042910	2010	2014	rats	OrganismTaxon	10116
+17042910	Association	24598	D003907	Novel
+17042910	Positive_Correlation	C065179	24598	Novel
+17042910	Positive_Correlation	C065179	D009569	No
+17042910	Negative_Correlation	C065179	D013481	Novel
+17042910	Negative_Correlation	C065179	D006973	No
+17042910	Negative_Correlation	C065179	D003907	Novel
+17042910	Negative_Correlation	D006973	D009569	No
+17042910	Positive_Correlation	D006973	D013481	No
+17042910	Negative_Correlation	D003907	D009569	No
+17042910	Association	D003907	D013481	No
+17042910	Positive_Correlation	D003907	D006973	No

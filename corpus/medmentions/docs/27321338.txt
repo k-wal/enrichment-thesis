@@ -1,0 +1,106 @@
+27321338|t|Association of abdominal fat with serum amylase in an older cohort: The Baltimore Longitudinal Study of Aging
+27321338|a|Abdominal fat is a major determinant of metabolic diseases in older individuals. Obesity and diabetes are associated with low serum amylase (SA) levels, but the association between SA and metabolic disease is poorly understood. We investigated the association of low SA with diabetes and sex - specific associations of serum amylase with abdominal fat in older adults. In community-dwelling volunteers from the Baltimore Longitudinal Study of Aging (778 participants, age 66.8±13.6 years), we assessed abdominal fat by computed tomography and diabetes status using the American Diabetes Association criteria. Linear regression analyses assessed the cross-sectional associations between abdominal fat and SA, and logistic regression assessed the odds of diabetes, given low SA. In unadjusted analyses, individuals in the lowest SA quartile (<48μ/L) had 1.97 greater odds of diabetes, (95% CI, 1.01-3.83) than those in the highest quartile (⩾80μ/L). This association was no longer significant after adjusting for visceral adipose tissue area (VAT, dm(2)), abdominal subcutaneous adipose tissue (SAT, dm(2)) or BMI. In adjusted analyses, VAT and SAT were significantly associated with SA in both sexes. Among women, SA was more strongly associated with VAT than with SAT or BMI; VAT (β=-0.117±0.048, P<0.001), SAT (β=-0.023±0.025, P=0.346) and BMI (β=-0.0052±0.075, P=0.49). The association between SA and diabetes was explained mainly by abdominal visceral fat. In women, SA was more strongly associated with VAT than with BMI or SAT. These findings provide motivation for future mechanistic studies on SA's role in metabolic diseases.
+27321338	0	11	Association	T080	C0439849
+27321338	15	28	abdominal fat	T024	C1563742
+27321338	34	39	serum	T031	C0229671
+27321338	40	47	amylase	T116,T121,T126	C0002712
+27321338	54	59	older	T098	C0001792
+27321338	60	66	cohort	T098	C0599755
+27321338	72	81	Baltimore	T083	C0004716
+27321338	82	100	Longitudinal Study	T062	C0023981
+27321338	104	109	Aging	T040	C0001811
+27321338	110	123	Abdominal fat	T024	C1563742
+27321338	135	146	determinant	T169	C1521761
+27321338	150	168	metabolic diseases	T047	C0025517
+27321338	172	177	older	T098	C0001792
+27321338	178	189	individuals	T098	C0237401
+27321338	191	198	Obesity	T047	C0028754
+27321338	203	211	diabetes	T047	C0011847
+27321338	216	231	associated with	T080	C0332281
+27321338	232	235	low	T080	C0205251
+27321338	236	261	serum amylase (SA) levels	T033	C0729348
+27321338	271	282	association	T080	C0439849
+27321338	291	293	SA	T033	C0729348
+27321338	298	315	metabolic disease	T047	C0025517
+27321338	341	353	investigated	T169	C1292732
+27321338	358	369	association	T080	C0439849
+27321338	373	376	low	T080	C0205251
+27321338	377	379	SA	T033	C0729348
+27321338	385	393	diabetes	T047	C0011847
+27321338	398	401	sex	T032	C1522384
+27321338	404	412	specific	T080	C0205369
+27321338	413	425	associations	T080	C0439849
+27321338	429	434	serum	T031	C0229671
+27321338	435	442	amylase	T116,T121,T126	C0002712
+27321338	448	461	abdominal fat	T024	C1563742
+27321338	465	477	older adults	T100	C0001675
+27321338	482	500	community-dwelling	T056	C4045975
+27321338	501	511	volunteers	T098	C0020155
+27321338	521	530	Baltimore	T083	C0004716
+27321338	531	549	Longitudinal Study	T062	C0023981
+27321338	553	558	Aging	T040	C0001811
+27321338	564	576	participants	T098	C0679646
+27321338	578	581	age	T032	C0001779
+27321338	592	597	years	T079	C0439234
+27321338	603	611	assessed	T052	C1516048
+27321338	612	625	abdominal fat	T024	C1563742
+27321338	629	648	computed tomography	T060	C0040405
+27321338	653	668	diabetes status	T033	C1317301
+27321338	679	708	American Diabetes Association	T094	C1705019
+27321338	709	717	criteria	T078	C0243161
+27321338	719	745	Linear regression analyses	T081	C0023733
+27321338	746	754	assessed	T052	C1516048
+27321338	759	787	cross-sectional associations	T080	C0439849
+27321338	796	809	abdominal fat	T024	C1563742
+27321338	814	816	SA	T033	C0729348
+27321338	822	841	logistic regression	T062	C0206031
+27321338	842	850	assessed	T052	C1516048
+27321338	855	859	odds	T081	C0028873
+27321338	863	871	diabetes	T047	C0011847
+27321338	879	882	low	T080	C0205251
+27321338	883	885	SA	T033	C0729348
+27321338	890	909	unadjusted analyses	T062	C0936012
+27321338	911	922	individuals	T098	C0237401
+27321338	930	936	lowest	T080	C0205251
+27321338	937	939	SA	T033	C0729348
+27321338	940	948	quartile	T080	C2828255
+27321338	975	979	odds	T081	C0028873
+27321338	983	991	diabetes	T047	C0011847
+27321338	998	1000	CI	T081	C0009667
+27321338	1039	1047	quartile	T080	C2828255
+27321338	1063	1074	association	T080	C0439849
+27321338	1089	1100	significant	T078	C0750502
+27321338	1121	1149	visceral adipose tissue area	T024	C1563740
+27321338	1151	1154	VAT	T024	C1563740
+27321338	1164	1201	abdominal subcutaneous adipose tissue	T024	C1563741
+27321338	1203	1206	SAT	T024	C1563741
+27321338	1218	1221	BMI	T201	C1305855
+27321338	1226	1243	adjusted analyses	T062	C0936012
+27321338	1245	1248	VAT	T024	C1563740
+27321338	1253	1256	SAT	T024	C1563741
+27321338	1262	1275	significantly	T078	C0750502
+27321338	1276	1291	associated with	T080	C0332281
+27321338	1292	1294	SA	T033	C0729348
+27321338	1303	1308	sexes	T032	C1522384
+27321338	1316	1321	women	T098	C0043210
+27321338	1323	1325	SA	T033	C0729348
+27321338	1344	1359	associated with	T080	C0332281
+27321338	1360	1363	VAT	T024	C1563740
+27321338	1374	1377	SAT	T024	C1563741
+27321338	1381	1384	BMI	T201	C1305855
+27321338	1386	1389	VAT	T024	C1563740
+27321338	1417	1420	SAT	T024	C1563741
+27321338	1451	1454	BMI	T201	C1305855
+27321338	1486	1497	association	T080	C0439849
+27321338	1506	1508	SA	T116,T121,T126	C0002712
+27321338	1513	1521	diabetes	T047	C0011847
+27321338	1546	1568	abdominal visceral fat	T024	C1563740
+27321338	1573	1578	women	T098	C0043210
+27321338	1580	1582	SA	T116,T121,T126	C0002712
+27321338	1601	1616	associated with	T080	C0332281
+27321338	1617	1620	VAT	T024	C1563740
+27321338	1631	1634	BMI	T201	C1305855
+27321338	1638	1641	SAT	T024	C1563741
+27321338	1688	1707	mechanistic studies	T089	C2698671
+27321338	1711	1715	SA's	T116,T121,T126	C0002712
+27321338	1724	1742	metabolic diseases	T047	C0025517

@@ -1,0 +1,34 @@
+28068934|t|Concordance between PIK3CA mutations in endoscopic biopsy and surgically resected specimens of esophageal squamous cell carcinoma.
+28068934|a|BACKGROUND: PIK3CA mutations are expected to be potential therapeutic targets for esophageal squamous cell carcinoma (ESCC). We aimed to clarify the concordance between PIK3CA mutations detected in endoscopic biopsy specimens and corresponding surgically resected specimens. METHODS: We examined five hotspot mutations in the PIK3CA gene (E542K, E545K, E546K, H1047R, and H1047L) in formalin-fixed and paraffin-embedded tissue sections of paired endoscopic biopsy and surgically resected specimens from 181 patients undergoing curative resection for ESCC between 2000 and 2011 using a Luminex technology-based multiplex gene mutation detection kit. RESULTS: Mutation analyses were successfully performed for both endoscopic biopsy and surgically resected specimens in all the cases. A PIK3CA mutation was detected in either type of specimen in 13 cases (7.2%, 95% confidence interval: 3.9-12.0). The overall concordance rate, positive predictive value, and negative predictive value were 98.3% (178/181), 90.9% (10/11), and 98.8% (168/170), respectively. Among patients with a PIK3CA mutation detected in both types of specimens, the concordance between PIK3CA mutation genotypes was 100%. There were three cases with a discordant mutation status between the types of specimens (PIK3CA mutation in surgically resected specimen and wild-type in biopsy specimen in two cases, and the opposite pattern in one case), suggesting possible intratumoral heterogeneity in the PIK3CA mutation status. CONCLUSIONS: The PIK3CA mutation status was highly concordant between endoscopic biopsy and surgically resected specimens from the same patient, suggesting that endoscopic biopsy specimens can be clinically used to detect PIK3CA mutations in patients with ESCC.
+28068934	20	26	PIK3CA	GeneOrGeneProduct	5290
+28068934	95	129	esophageal squamous cell carcinoma	DiseaseOrPhenotypicFeature	D000077277
+28068934	143	149	PIK3CA	GeneOrGeneProduct	5290
+28068934	213	247	esophageal squamous cell carcinoma	DiseaseOrPhenotypicFeature	D000077277
+28068934	249	253	ESCC	DiseaseOrPhenotypicFeature	D000077277
+28068934	300	306	PIK3CA	GeneOrGeneProduct	5290
+28068934	457	463	PIK3CA	GeneOrGeneProduct	5290
+28068934	470	475	E542K	SequenceVariant	rs121913273
+28068934	477	482	E545K	SequenceVariant	rs104886003
+28068934	484	489	E546K	SequenceVariant	p|SUB|E|546|K
+28068934	491	497	H1047R	SequenceVariant	rs121913279
+28068934	503	509	H1047L	SequenceVariant	rs121913279
+28068934	514	522	formalin	ChemicalEntity	D005557
+28068934	533	541	paraffin	ChemicalEntity	D010232
+28068934	638	646	patients	OrganismTaxon	9606
+28068934	681	685	ESCC	DiseaseOrPhenotypicFeature	D000077277
+28068934	916	922	PIK3CA	GeneOrGeneProduct	5290
+28068934	1192	1200	patients	OrganismTaxon	9606
+28068934	1208	1214	PIK3CA	GeneOrGeneProduct	5290
+28068934	1285	1291	PIK3CA	GeneOrGeneProduct	5290
+28068934	1410	1416	PIK3CA	GeneOrGeneProduct	5290
+28068934	1598	1604	PIK3CA	GeneOrGeneProduct	5290
+28068934	1639	1645	PIK3CA	GeneOrGeneProduct	5290
+28068934	1758	1765	patient	OrganismTaxon	9606
+28068934	1844	1850	PIK3CA	GeneOrGeneProduct	5290
+28068934	1864	1872	patients	OrganismTaxon	9606
+28068934	1878	1882	ESCC	DiseaseOrPhenotypicFeature	D000077277
+28068934	Association	p|SUB|E|546|K	D000077277	No
+28068934	Association	rs104886003	D000077277	No
+28068934	Association	rs121913273	D000077277	No
+28068934	Association	rs121913279	D000077277	No
+28068934	Association	5290	D000077277	No

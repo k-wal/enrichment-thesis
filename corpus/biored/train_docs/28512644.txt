@@ -1,0 +1,93 @@
+28512644|t|Analysis of Serum Cytokines and Single-Nucleotide Polymorphisms of SOD1, SOD2, and CAT in Erysipelas Patients.
+28512644|a|Increased free radical production had been documented in group A (beta-hemolytic) streptococcus infection cases. Comparing 71 erysipelas patients to 55 age-matched healthy individuals, we sought for CAT, SOD1, and SOD2 single polymorphism mutation (SNPs) interactions with erysipelas' predisposition and serum cytokine levels in the acute and recovery phases of erysipelas infection. Whereas female patients had a higher predisposition to erysipelas, male patients were prone to having a facial localization of the infection. The presence of SOD1 G7958, SOD2 T2734, and CAT C262 alleles was linked to erysipelas' predisposition. T and C alleles of SOD2 T2734C individually were linked to patients with bullous and erythematous erysipelas, respectively. G and A alleles of SOD1 G7958A individually were associated with lower limbs and higher body part localizations of the infection, respectively. Serum levels of IL-1beta, CCL11, IL-2Ralpha, CXCL9, TRAIL, PDGF-BB, and CCL4 were associated with symptoms accompanying the infection, while IL-6, IL-9, IL-10, IL-13, IL-15, IL-17, G-CSF, and VEGF were associated with predisposition and recurrence of erysipelas. While variations of IL-1beta, IL-7, IL-8, IL-17, CCL5, and HGF were associated with the SOD2 T2734C SNP, variations of PDFG-BB and CCL2 were associated with the CAT C262T SNP.
+28512644	67	71	SOD1	GeneOrGeneProduct	6647
+28512644	73	77	SOD2	GeneOrGeneProduct	6648
+28512644	83	86	CAT	GeneOrGeneProduct	847
+28512644	90	100	Erysipelas	DiseaseOrPhenotypicFeature	D004886
+28512644	101	109	Patients	OrganismTaxon	9606
+28512644	193	216	streptococcus infection	DiseaseOrPhenotypicFeature	D013290
+28512644	237	247	erysipelas	DiseaseOrPhenotypicFeature	D004886
+28512644	248	256	patients	OrganismTaxon	9606
+28512644	310	313	CAT	GeneOrGeneProduct	847
+28512644	315	319	SOD1	GeneOrGeneProduct	6647
+28512644	325	329	SOD2	GeneOrGeneProduct	6648
+28512644	384	394	erysipelas	DiseaseOrPhenotypicFeature	D004886
+28512644	473	493	erysipelas infection	DiseaseOrPhenotypicFeature	D004886
+28512644	510	518	patients	OrganismTaxon	9606
+28512644	550	560	erysipelas	DiseaseOrPhenotypicFeature	D004886
+28512644	567	575	patients	OrganismTaxon	9606
+28512644	626	635	infection	DiseaseOrPhenotypicFeature	D007239
+28512644	653	657	SOD1	GeneOrGeneProduct	6647
+28512644	658	663	G7958	SequenceVariant	c|Aelle|G|7958
+28512644	665	669	SOD2	GeneOrGeneProduct	6648
+28512644	670	675	T2734	SequenceVariant	c|Aelle|T|2734
+28512644	681	684	CAT	GeneOrGeneProduct	847
+28512644	685	689	C262	SequenceVariant	c|Aelle|C|262
+28512644	712	722	erysipelas	DiseaseOrPhenotypicFeature	D004886
+28512644	759	763	SOD2	GeneOrGeneProduct	6648
+28512644	764	770	T2734C	SequenceVariant	c|SYB|T2734|C
+28512644	799	807	patients	OrganismTaxon	9606
+28512644	825	848	erythematous erysipelas	DiseaseOrPhenotypicFeature	D004886
+28512644	883	887	SOD1	GeneOrGeneProduct	6647
+28512644	888	894	G7958A	SequenceVariant	rs4998557
+28512644	983	992	infection	DiseaseOrPhenotypicFeature	D007239
+28512644	1024	1032	IL-1beta	GeneOrGeneProduct	3553
+28512644	1034	1039	CCL11	GeneOrGeneProduct	6356
+28512644	1041	1051	IL-2Ralpha	GeneOrGeneProduct	3559
+28512644	1053	1058	CXCL9	GeneOrGeneProduct	4283
+28512644	1060	1065	TRAIL	GeneOrGeneProduct	8743
+28512644	1067	1074	PDGF-BB	GeneOrGeneProduct	5155
+28512644	1080	1084	CCL4	GeneOrGeneProduct	6351
+28512644	1132	1141	infection	DiseaseOrPhenotypicFeature	D007239
+28512644	1149	1153	IL-6	GeneOrGeneProduct	3569
+28512644	1155	1159	IL-9	GeneOrGeneProduct	3578
+28512644	1161	1166	IL-10	GeneOrGeneProduct	3586
+28512644	1168	1173	IL-13	GeneOrGeneProduct	3596
+28512644	1175	1180	IL-15	GeneOrGeneProduct	3600
+28512644	1182	1187	IL-17	GeneOrGeneProduct	3605
+28512644	1189	1194	G-CSF	GeneOrGeneProduct	1440
+28512644	1200	1204	VEGF	GeneOrGeneProduct	7422
+28512644	1259	1269	erysipelas	DiseaseOrPhenotypicFeature	D004886
+28512644	1291	1299	IL-1beta	GeneOrGeneProduct	3553
+28512644	1301	1305	IL-7	GeneOrGeneProduct	3574
+28512644	1307	1311	IL-8	GeneOrGeneProduct	3576
+28512644	1313	1318	IL-17	GeneOrGeneProduct	3605
+28512644	1320	1324	CCL5	GeneOrGeneProduct	6352
+28512644	1330	1333	HGF	GeneOrGeneProduct	3082
+28512644	1359	1363	SOD2	GeneOrGeneProduct	6648
+28512644	1364	1370	T2734C	SequenceVariant	c|SYB|T2734|C
+28512644	1390	1397	PDFG-BB	GeneOrGeneProduct	5155
+28512644	1402	1406	CCL2	GeneOrGeneProduct	6347
+28512644	1432	1435	CAT	GeneOrGeneProduct	847
+28512644	1436	1441	C262T	SequenceVariant	c|SUB|C|262|T
+28512644	Association	c|Aelle|C|262	D004886	Novel
+28512644	Association	c|Aelle|T|2734	D004886	Novel
+28512644	Association	c|Aelle|G|7958	D004886	Novel
+28512644	Association	6347	847	Novel
+28512644	Association	3082	6648	Novel
+28512644	Association	6352	6648	Novel
+28512644	Association	3576	6648	Novel
+28512644	Association	3574	6648	Novel
+28512644	Association	7422	D004886	Novel
+28512644	Association	1440	D004886	Novel
+28512644	Association	3605	6648	Novel
+28512644	Association	3605	D004886	Novel
+28512644	Association	3600	D004886	Novel
+28512644	Association	3596	D004886	Novel
+28512644	Association	3586	D004886	Novel
+28512644	Association	3578	D004886	Novel
+28512644	Association	3569	D004886	Novel
+28512644	Association	c|SYB|T2734|C	D004886	Novel
+28512644	Association	6351	D004886	Novel
+28512644	Association	5155	847	Novel
+28512644	Association	5155	D004886	Novel
+28512644	Association	8743	D004886	Novel
+28512644	Association	4283	D004886	Novel
+28512644	Association	3559	D004886	Novel
+28512644	Association	6356	D004886	Novel
+28512644	Association	3553	6648	Novel
+28512644	Association	3553	D004886	Novel
+28512644	Association	rs4998557	D004886	Novel
+28512644	Association	847	D004886	Novel
+28512644	Association	6648	D004886	Novel
+28512644	Association	6647	D004886	Novel

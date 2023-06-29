@@ -1,0 +1,53 @@
+28282592|t|Development of an automaton model of rotational activity driving atrial fibrillation
+28282592|a|Atrial fibrillation (AF) is difficult to treat effectively, owing to uncertainty in where to best ablate to eliminate arrhythmogenic substrate. A model providing insight into the electrical activation events would be useful to guide catheter ablation strategy. Method A two-dimensional, 576×576 node automaton was developed to simulate atrial electrical activity. The substrate field was altered by the presence of differing refractory period at varying locations. Fibrosis was added in the form of short, randomly positioned lines of conduction block. Larger areas of block were used to simulate ablation lesions. Anisotropy was imposed in a 2:1 ratio. A premature electrical impulse from one of four grid corners was utilized to initiate activation. Rotational activity was uninducible when refractory patch dimensions were less than 20×20mm. For larger refractory regions, a single premature stimulus was capable of inducing an average of 1.19±1.10 rotors, which often formed near the patch edges. A maximum of 5 rotors formed when refractory patch dimensions approached the size of the entire left atrial virtual field. Rotors formed along a refractory patch edge, after wavefront arrival was delayed at turning points or due to the presence of a fiber cluster of sufficient size. However, rotational activity could also occur around a large fiber cluster without the need of spatially variable refractoriness. When obstacles to conduction were lacking in size, nascent rotors drifted and either extinguished, or stabilized upon anchoring at a sufficiently large fiber cluster elsewhere in the field. Transient rotors terminated when traversing a region with differing refractory periods, if no obstacle to conduction was present to sufficiently delay wavefront arrival beyond the longest refractory period. Other rotors were annihilated when a nearby rotor with faster spin rate gradually interrupted the activation pathway. Elimination of anchors by removal, or by simulated ablation over a sufficient region, prevented rotor onset at a particular location where it would otherwise form. The presence of obstacles to conduction and spatial differences in refractory period are important parameters for initiating and maintaining rotational activity in this simulation of an atrial substrate.
+28282592	0	11	Development	T038	UMLS:C0243107
+28282592	65	84	atrial fibrillation	T038	UMLS:C0004238
+28282592	85	104	Atrial fibrillation	T038	UMLS:C0004238
+28282592	106	108	AF	T038	UMLS:C0004238
+28282592	126	131	treat	T058	UMLS:C0087111
+28282592	154	165	uncertainty	T033	UMLS:C0087130
+28282592	183	189	ablate	T058	UMLS:C0162563
+28282592	203	217	arrhythmogenic	T038	UMLS:C0085611
+28282592	318	344	catheter ablation strategy	T058	UMLS:C0162559
+28282592	355	370	two-dimensional	T082	UMLS:C1705052
+28282592	421	427	atrial	T017	UMLS:C0018792
+28282592	539	548	locations	T082	UMLS:C0450429
+28282592	550	558	Fibrosis	T038	UMLS:C0016059
+28282592	620	630	conduction	T038	UMLS:C0232217
+28282592	631	636	block	T038	UMLS:C0018794
+28282592	645	650	areas	T082	UMLS:C0205146
+28282592	654	659	block	T038	UMLS:C0028778
+28282592	682	698	ablation lesions	T033	UMLS:C0221198
+28282592	751	769	electrical impulse	T038	UMLS:C1720744
+28282592	1037	1043	rotors	T074	UMLS:C0025080
+28282592	1101	1107	rotors	T074	UMLS:C0025080
+28282592	1163	1167	size	T082	UMLS:C0456389
+28282592	1182	1193	left atrial	T017	UMLS:C0225860
+28282592	1209	1215	Rotors	T074	UMLS:C0025080
+28282592	1260	1289	wavefront arrival was delayed	T033	UMLS:C0243095
+28282592	1336	1341	fiber	T017	UMLS:C1304649
+28282592	1364	1368	size	T082	UMLS:C0456389
+28282592	1431	1436	fiber	T017	UMLS:C1304649
+28282592	1518	1528	conduction	T038	UMLS:C0232217
+28282592	1545	1549	size	T082	UMLS:C0456389
+28282592	1551	1565	nascent rotors	T074	UMLS:C0025080
+28282592	1602	1612	stabilized	T033	UMLS:C0184512
+28282592	1618	1627	anchoring	T038	UMLS:C1624581
+28282592	1652	1657	fiber	T017	UMLS:C1304649
+28282592	1700	1706	rotors	T074	UMLS:C0025080
+28282592	1736	1742	region	T082	UMLS:C0205147
+28282592	1796	1806	conduction	T038	UMLS:C0232217
+28282592	1835	1858	delay wavefront arrival	T033	UMLS:C0243095
+28282592	1903	1909	rotors	T074	UMLS:C0025080
+28282592	1941	1946	rotor	T074	UMLS:C0025080
+28282592	1995	2013	activation pathway	T038	UMLS:C1148560
+28282592	2030	2037	anchors	T058	UMLS:C1293132
+28282592	2041	2048	removal	T058	UMLS:C0015252
+28282592	2066	2074	ablation	T058	UMLS:C0162563
+28282592	2093	2099	region	T082	UMLS:C0205147
+28282592	2111	2116	rotor	T074	UMLS:C0025080
+28282592	2139	2147	location	T082	UMLS:C1515974
+28282592	2208	2218	conduction	T038	UMLS:C0232217
+28282592	2223	2242	spatial differences	T033	UMLS:C0243095
+28282592	2348	2358	simulation	T062	UMLS:C0679083
+28282592	2365	2371	atrial	T017	UMLS:C0018792

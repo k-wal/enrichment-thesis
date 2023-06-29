@@ -1,0 +1,41 @@
+27506129|t|On the development of conjunctival hyperemia computer-assisted diagnosis tools: Influence of feature selection and class imbalance in automatic gradings
+27506129|a|The sudden increase of blood flow in the bulbar conjunctiva, known as hyperemia, is associated to a red hue of variable intensity. Experts measure hyperemia using levels in a grading scale, a procedure that is subjective, non-repeatable and time consuming, thus creating a need for its automatisation. However, the task is far from straightforward due to data issues such as class imbalance or correlated features. In this paper, we study the specific features of hyperemia and propose various approaches to address these problems in the context of an automatic framework for hyperemia grading. Oversampling, undersampling and SMOTE approaches were applied in order to tackle the problem of class imbalance. 25 features were computed for each image and regression methods were then used to transform them into a value on the grading scale. The values and relationships among features and experts' values were analysed, and five feature selection techniques were subsequently studied. The lowest mean square error (MSE) for the regression systems trained with individual features is below 0.1 for both scales. Multi-layer perceptron (MLP) obtains the best values, but is less consistent than the random forest (RF) method. When all features are combined, the best results for both scales are achieved with MLP. Correlation based feature selection (CFS) and M5 provide the best results, MSE =0.108 and MSE =0.061 respectively. Finally, the class imbalance problem is minimised with the SMOTE approach for both scales (MSE <0.006). Machine learning methods are able to perform an objective assessment of hyperemia grading, removing both intra- and inter-expert subjectivity while providing a gain in computation time. SMOTE and oversampling approaches minimise the class imbalance problem, while feature selection reduces the number of features from 25 to 3-5 without worsening the MSE. As the differences between the system and a human expert are similar to the differences between experts, we can therefore conclude that the system behaves like an expert.
+27506129	22	44	conjunctival hyperemia	T038	UMLS:C1761613
+27506129	45	78	computer-assisted diagnosis tools	T058	UMLS:C0011905
+27506129	115	130	class imbalance	T170	UMLS:C0282574
+27506129	176	186	blood flow	T038	UMLS:C0232338
+27506129	194	212	bulbar conjunctiva	T017	UMLS:C0229275
+27506129	223	232	hyperemia	T038	UMLS:C0020452
+27506129	300	309	hyperemia	T038	UMLS:C0020452
+27506129	328	341	grading scale	T170	UMLS:C0282574
+27506129	528	543	class imbalance	T170	UMLS:C0282574
+27506129	617	626	hyperemia	T038	UMLS:C0020452
+27506129	705	724	automatic framework	T170	UMLS:C0282574
+27506129	729	738	hyperemia	T038	UMLS:C0020452
+27506129	739	746	grading	T033	UMLS:C0243095
+27506129	748	760	Oversampling	T170	UMLS:C0282574
+27506129	762	775	undersampling	T170	UMLS:C0282574
+27506129	780	796	SMOTE approaches	T170	UMLS:C0282574
+27506129	844	859	class imbalance	T170	UMLS:C0282574
+27506129	906	924	regression methods	T170	UMLS:C0034980
+27506129	978	991	grading scale	T170	UMLS:C0282574
+27506129	1041	1056	experts' values	T033	UMLS:C0243095
+27506129	1180	1198	regression systems	T170	UMLS:C0034980
+27506129	1262	1284	Multi-layer perceptron	T170	UMLS:C0870951
+27506129	1286	1289	MLP	T170	UMLS:C0870951
+27506129	1348	1373	random forest (RF) method	T170	UMLS:C0282574
+27506129	1458	1461	MLP	T170	UMLS:C0870951
+27506129	1463	1498	Correlation based feature selection	T170	UMLS:C0282574
+27506129	1500	1503	CFS	T170	UMLS:C0282574
+27506129	1591	1614	class imbalance problem	T170	UMLS:C0282574
+27506129	1637	1651	SMOTE approach	T170	UMLS:C0282574
+27506129	1754	1763	hyperemia	T038	UMLS:C0020452
+27506129	1764	1771	grading	T033	UMLS:C0243095
+27506129	1868	1873	SMOTE	T170	UMLS:C0282574
+27506129	1878	1901	oversampling approaches	T170	UMLS:C0282574
+27506129	1915	1938	class imbalance problem	T170	UMLS:C0282574
+27506129	2068	2074	system	T170	UMLS:C0015324
+27506129	2081	2093	human expert	T097	UMLS:C0031831
+27506129	2133	2140	experts	T097	UMLS:C0031831
+27506129	2177	2183	system	T170	UMLS:C0015324
+27506129	2200	2206	expert	T097	UMLS:C0031831

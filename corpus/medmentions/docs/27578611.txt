@@ -1,0 +1,107 @@
+27578611|t|Severity of Gastric Mucosal Atrophy Is the Major Determinant of Plasma Ghrelin Level in Hemodialysis Patients
+27578611|a|Ghrelin, an orexigenic hormone, has multiple favorable functions including protein anabolism enhancement, anti-inflammatory actions, and cardiovascular protection. A low plasma ghrelin level is associated with increased mortality in patients treated with hemodialysis (HD). However, it is unclear whether the plasma ghrelin level in HD patients correlates with the severity of gastric mucosal atrophy and Helicobacter pylori status. Seventy-eight maintenance HD patients and 51 non-dialysis patients with chronic kidney disease were evaluated for severity of gastric mucosal atrophy by gastroduodenoscopy and for H. pylori status using an anti-H. pylori-antibody and rapid urease test. Plasma acyl and des-acyl ghrelin levels were measured and their associations with relevant clinical parameters were investigated. Des-acyl ghrelin level in HD patients was significantly higher than that in patients with kidney function preserved. Although acyl and des-acyl ghrelin levels were similar between current H. pylori positive and negative HD patients, both levels decreased significantly with the progress of endoscopic gastric mucosal atrophy in HD patients. Serum pepsinogen (PG) I level and PG I / II ratio decreased significantly according to the severity of atrophy in HD patients and positively significantly correlated with both ghrelin levels. Multiple regression analysis showed significant positive correlations between acyl ghrelin and PG I levels (β = 0.738, p < 0.001) and significant negative correlations between ghrelin and age, albumin, and creatinine levels. Gastric atrophy is the major determinant of ghrelin level in HD patients. Management practices, such as H. pylori eradication, before advanced atrophy may be required to prevent the decrease of ghrelin levels and improve the prognosis of HD patients.
+27578611	0	8	Severity	T080	C0439793
+27578611	12	35	Gastric Mucosal Atrophy	T033	C0597736
+27578611	64	70	Plasma	T031	C0032105
+27578611	71	78	Ghrelin	T116,T125	C0911014
+27578611	79	84	Level	T080	C0441889
+27578611	88	100	Hemodialysis	T061	C0019004
+27578611	101	109	Patients	T101	C0030705
+27578611	110	117	Ghrelin	T116,T125	C0911014
+27578611	122	140	orexigenic hormone	T125	C0019932
+27578611	165	174	functions	T169	C0542341
+27578611	185	202	protein anabolism	T044	C0597295
+27578611	203	214	enhancement	T052	C2349975
+27578611	216	241	anti-inflammatory actions	T080	C1515999
+27578611	247	261	cardiovascular	T029	C3887460
+27578611	262	272	protection	T033	C1545588
+27578611	280	286	plasma	T031	C0032105
+27578611	287	294	ghrelin	T116,T125	C0911014
+27578611	295	300	level	T080	C0441889
+27578611	330	339	mortality	T081	C0681679
+27578611	343	351	patients	T101	C0030705
+27578611	352	364	treated with	T061	C0332293
+27578611	365	377	hemodialysis	T061	C0019004
+27578611	379	381	HD	T061	C0019004
+27578611	419	425	plasma	T031	C0032105
+27578611	426	433	ghrelin	T116,T125	C0911014
+27578611	434	439	level	T080	C0441889
+27578611	443	445	HD	T061	C0019004
+27578611	446	454	patients	T101	C0030705
+27578611	475	483	severity	T080	C0439793
+27578611	487	510	gastric mucosal atrophy	T033	C0597736
+27578611	515	534	Helicobacter pylori	T007	C0079488
+27578611	569	571	HD	T061	C0019004
+27578611	572	580	patients	T101	C0030705
+27578611	601	609	patients	T101	C0030705
+27578611	615	637	chronic kidney disease	T047	C1561643
+27578611	643	652	evaluated	T058	C0220825
+27578611	657	665	severity	T080	C0439793
+27578611	669	692	gastric mucosal atrophy	T033	C0597736
+27578611	696	714	gastroduodenoscopy	T061	C0192657
+27578611	723	732	H. pylori	T007	C0079488
+27578611	749	772	anti-H. pylori-antibody	T059	C0373906
+27578611	783	794	urease test	T059	C0585237
+27578611	796	802	Plasma	T031	C0032105
+27578611	803	807	acyl	T116,T125	C0911014
+27578611	812	828	des-acyl ghrelin	T116,T125	C0965048
+27578611	829	835	levels	T080	C0441889
+27578611	887	895	clinical	T080	C0205210
+27578611	896	906	parameters	T033	C0449381
+27578611	912	924	investigated	T169	C1292732
+27578611	926	942	Des-acyl ghrelin	T116,T125	C0965048
+27578611	943	948	level	T080	C0441889
+27578611	952	954	HD	T061	C0019004
+27578611	955	963	patients	T101	C0030705
+27578611	968	988	significantly higher	T081	C4055637
+27578611	1002	1010	patients	T101	C0030705
+27578611	1016	1031	kidney function	T042	C0232804
+27578611	1052	1056	acyl	T116,T125	C0911014
+27578611	1061	1077	des-acyl ghrelin	T116,T125	C0965048
+27578611	1078	1084	levels	T080	C0441889
+27578611	1114	1123	H. pylori	T007	C0079488
+27578611	1146	1148	HD	T061	C0019004
+27578611	1149	1157	patients	T101	C0030705
+27578611	1164	1170	levels	T080	C0441889
+27578611	1181	1194	significantly	T078	C0750502
+27578611	1227	1250	gastric mucosal atrophy	T033	C0597736
+27578611	1254	1256	HD	T061	C0019004
+27578611	1257	1265	patients	T101	C0030705
+27578611	1267	1283	Serum pepsinogen	T116,T126	C0443461
+27578611	1285	1287	PG	T116,T126	C0443461
+27578611	1289	1290	I	T116,T126	C0443461
+27578611	1291	1296	level	T080	C0441889
+27578611	1301	1305	PG I	T116,T126	C0443461
+27578611	1308	1310	II	T116,T123	C0030913
+27578611	1311	1316	ratio	T081	C0456603
+27578611	1327	1340	significantly	T078	C0750502
+27578611	1358	1366	severity	T080	C0439793
+27578611	1370	1377	atrophy	T033	C0597736
+27578611	1381	1383	HD	T061	C0019004
+27578611	1384	1392	patients	T101	C0030705
+27578611	1408	1421	significantly	T078	C0750502
+27578611	1443	1450	ghrelin	T116,T125	C0911014
+27578611	1451	1457	levels	T080	C0441889
+27578611	1459	1487	Multiple regression analysis	T170	C0034980
+27578611	1495	1506	significant	T078	C0750502
+27578611	1537	1549	acyl ghrelin	T116,T125	C0911014
+27578611	1554	1558	PG I	T116,T126	C0443461
+27578611	1559	1565	levels	T080	C0441889
+27578611	1593	1604	significant	T078	C0750502
+27578611	1635	1642	ghrelin	T116,T125	C0911014
+27578611	1647	1650	age	T032	C0001779
+27578611	1652	1659	albumin	T116,T123	C0001924
+27578611	1665	1675	creatinine	T109,T123	C0010294
+27578611	1676	1682	levels	T080	C0441889
+27578611	1684	1699	Gastric atrophy	T047	C0017154
+27578611	1728	1735	ghrelin	T116,T125	C0911014
+27578611	1736	1741	level	T080	C0441889
+27578611	1745	1747	HD	T061	C0019004
+27578611	1748	1756	patients	T101	C0030705
+27578611	1788	1809	H. pylori eradication	T061	C0559761
+27578611	1827	1834	atrophy	T047	C0017154
+27578611	1878	1885	ghrelin	T116,T125	C0911014
+27578611	1886	1892	levels	T080	C0441889
+27578611	1909	1918	prognosis	T033	C0278250
+27578611	1922	1924	HD	T061	C0019004
+27578611	1925	1933	patients	T101	C0030705

@@ -1,0 +1,81 @@
+27348135|t|Multimorbidity in Heart Failure: Effect on Outcomes
+27348135|a|To investigate the effect of the number and type of comorbid conditions on death and hospitalizations in individuals with incident heart failure (HF). Population-based cohort study. Olmsted County, Minnesota. Olmsted County, Minnesota, residents with incident HF from 2000 to 2010 (mean age 76 ± 14, 56% female) (N = 1,714). The prevalence of 16 chronic conditions obtained at HF diagnosis classified into three groups: cardiovascular (CV) related, other physical, and mental. The mean number of conditions per participant was 2.6 ± 1.5 for CV -related conditions, 1.3 ± 1.1 for other physical conditions, and 0.30 ± 0.61 for mental conditions. After a mean follow-up of 4.2 years, 1,073 death s and 6,306 hospitalizations had occurred. After adjustment for age, sex, ejection fraction, in- or outpatient status, and number of other conditions, an increase of one other physical condition was associated with a 14% (HR = 1.14, 95% CI = 1.08-1.20) greater risk of death and a 26% (HR = 1.26, 95% CI = 1.20-1.32) greater risk of hospitalization, and an increase of one mental condition was associated with a 31% (HR = 1.31, 95% CI = 1.19-1.44) greater risk of death and an 18% (HR = 1.18, 95% CI = 1.07-1.29) greater risk of hospitalization. In contrast, an increase of one CV -related condition was not associated with greater risk of death and was associated with a 10% (HR = 1.10, 95% CI = 1.06-1.15) greater risk of hospitalization. CV -related conditions are the most common type of comorbid conditions in individuals with HF, but other physical and mental conditions are more strongly associated with death and hospitalizations. This underscores the effect of non-CV conditions on outcomes in HF.
+27348135	0	14	Multimorbidity	T078	C1535889
+27348135	18	31	Heart Failure	T047	C0018801
+27348135	43	51	Outcomes	T033	C0679250
+27348135	55	66	investigate	T169	C1292732
+27348135	104	123	comorbid conditions	T033	C1275743
+27348135	127	132	death	T040	C0011065
+27348135	137	153	hospitalizations	T058	C0019993
+27348135	157	168	individuals	T098	C0027361
+27348135	183	196	heart failure	T047	C0018801
+27348135	198	200	HF	T047	C0018801
+27348135	203	219	Population-based	T062	C1709599
+27348135	220	232	cohort study	T081	C0009247
+27348135	234	259	Olmsted County, Minnesota	T083	C3828711
+27348135	261	286	Olmsted County, Minnesota	T083	C3828711
+27348135	312	314	HF	T047	C0018801
+27348135	334	338	mean	T081	C0444504
+27348135	339	342	age	T032	C0001779
+27348135	356	362	female	T032	C0086287
+27348135	398	405	chronic	T079	C0205191
+27348135	406	416	conditions	T033	C2707292
+27348135	429	431	HF	T047	C0018801
+27348135	432	441	diagnosis	T062	C1704656
+27348135	472	486	cardiovascular	T029	C3887460
+27348135	488	490	CV	T029	C3887460
+27348135	507	515	physical	T169	C0205485
+27348135	521	527	mental	T041	C0229992
+27348135	533	537	mean	T081	C0444504
+27348135	548	558	conditions	T033	C2707292
+27348135	563	574	participant	T098	C0679646
+27348135	593	595	CV	T029	C3887460
+27348135	605	615	conditions	T033	C2707292
+27348135	637	656	physical conditions	T032	C3714565
+27348135	678	695	mental conditions	T080	C3840291
+27348135	705	709	mean	T081	C0444504
+27348135	727	732	years	T079	C0439234
+27348135	740	745	death	T040	C0011065
+27348135	758	774	hospitalizations	T058	C0019993
+27348135	810	813	age	T032	C0001779
+27348135	815	818	sex	T032	C0079399
+27348135	820	837	ejection fraction	T060	C0489482
+27348135	846	856	outpatient	T101	C0029921
+27348135	885	895	conditions	T033	C2707292
+27348135	922	940	physical condition	T032	C3714565
+27348135	968	970	HR	T201	C0018810
+27348135	983	985	CI	T081	C0009667
+27348135	1007	1011	risk	T078	C0035647
+27348135	1015	1020	death	T040	C0011065
+27348135	1032	1034	HR	T201	C0018810
+27348135	1047	1049	CI	T081	C0009667
+27348135	1071	1075	risk	T078	C0035647
+27348135	1079	1094	hospitalization	T058	C0019993
+27348135	1119	1135	mental condition	T080	C3840291
+27348135	1163	1165	HR	T201	C0018810
+27348135	1178	1180	CI	T081	C0009667
+27348135	1202	1206	risk	T078	C0035647
+27348135	1210	1215	death	T040	C0011065
+27348135	1228	1230	HR	T201	C0018810
+27348135	1243	1245	CI	T081	C0009667
+27348135	1267	1271	risk	T078	C0035647
+27348135	1275	1290	hospitalization	T058	C0019993
+27348135	1324	1326	CV	T029	C3887460
+27348135	1336	1345	condition	T033	C2707292
+27348135	1378	1382	risk	T078	C0035647
+27348135	1386	1391	death	T040	C0011065
+27348135	1423	1425	HR	T201	C0018810
+27348135	1438	1440	CI	T081	C0009667
+27348135	1462	1466	risk	T078	C0035647
+27348135	1470	1485	hospitalization	T058	C0019993
+27348135	1487	1489	CV	T029	C3887460
+27348135	1499	1509	conditions	T033	C2707292
+27348135	1538	1557	comorbid conditions	T033	C1275743
+27348135	1561	1572	individuals	T098	C0027361
+27348135	1578	1580	HF	T047	C0018801
+27348135	1592	1600	physical	T169	C0205485
+27348135	1605	1622	mental conditions	T080	C3840291
+27348135	1657	1662	death	T040	C0011065
+27348135	1667	1683	hospitalizations	T058	C0019993
+27348135	1716	1733	non-CV conditions	T033	C2707292
+27348135	1749	1751	HF	T047	C0018801

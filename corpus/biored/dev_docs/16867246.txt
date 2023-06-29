@@ -1,0 +1,46 @@
+16867246|t|Association of DRD2 polymorphisms and chlorpromazine-induced extrapyramidal syndrome in Chinese schizophrenic patients.
+16867246|a|AIM: Extrapyramidal syndrome (EPS) is most commonly affected by typical antipsychotic drugs that have a high affinity with the D2 receptor. Recently, many research groups have reported on the positive relationship between the genetic variations in the DRD2 gene and the therapeutic response in schizophrenia patients as a result of the role of variations in the receptor in modulating receptor expression. In this study, we evaluate the role DRD2 plays in chlorpromazine-induced EPS in schizophrenic patients. METHODS: We identified seven SNP(single nucleotide polymorphism) (-141Cins>del, TaqIB, TaqID, Ser311Cys, rs6275, rs6277 and TaqIA) in the DRD2 gene in 146 schizophrenic inpatients (59 with EPS and 87 without EPS according to the Simpson-Angus Scale) treated with chlorpromazine after 8 weeks. The alleles of all loci were determined by PCR (polymerase chain reaction). RESULTS: Polymorphisms TaqID, Ser311Cys and rs6277 were not polymorphic in the population recruited in the present study. No statistical significance was found in the allele distribution of -141Cins>del, TaqIB, rs6275 and TaqIA or in the estimated haplotypes (constituted by TaqIB, rs6275 and TaqIA) in linkage disequilibrium between the two groups. CONCLUSION: Our results did not lend strong support to the view that the genetic variation of the DRD2 gene plays a major role in the individually variable adverse effect induced by chlorpromazine, at least in Chinese patients with schizophrenia. Our results confirmed a previous study on the relationship between DRD2 and EPS in Caucasians.
+16867246	15	19	DRD2	GeneOrGeneProduct	1813
+16867246	38	52	chlorpromazine	ChemicalEntity	D002746
+16867246	61	84	extrapyramidal syndrome	DiseaseOrPhenotypicFeature	D001480
+16867246	96	109	schizophrenic	DiseaseOrPhenotypicFeature	D012559
+16867246	110	118	patients	OrganismTaxon	9606
+16867246	125	148	Extrapyramidal syndrome	DiseaseOrPhenotypicFeature	D001480
+16867246	150	153	EPS	DiseaseOrPhenotypicFeature	D001480
+16867246	192	211	antipsychotic drugs	ChemicalEntity	D014150
+16867246	247	258	D2 receptor	GeneOrGeneProduct	1813
+16867246	372	376	DRD2	GeneOrGeneProduct	1813
+16867246	414	427	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+16867246	428	436	patients	OrganismTaxon	9606
+16867246	562	566	DRD2	GeneOrGeneProduct	1813
+16867246	576	590	chlorpromazine	ChemicalEntity	D002746
+16867246	599	602	EPS	DiseaseOrPhenotypicFeature	D001480
+16867246	606	619	schizophrenic	DiseaseOrPhenotypicFeature	D012559
+16867246	620	628	patients	OrganismTaxon	9606
+16867246	696	708	-141Cins>del	SequenceVariant	c|INDEL|0141|C
+16867246	724	733	Ser311Cys	SequenceVariant	c|SUB|S|311|C
+16867246	735	741	rs6275	SequenceVariant	rs6275
+16867246	743	749	rs6277	SequenceVariant	rs6277
+16867246	768	772	DRD2	GeneOrGeneProduct	1813
+16867246	785	798	schizophrenic	DiseaseOrPhenotypicFeature	D012559
+16867246	799	809	inpatients	OrganismTaxon	9606
+16867246	819	822	EPS	DiseaseOrPhenotypicFeature	D001480
+16867246	838	841	EPS	DiseaseOrPhenotypicFeature	D001480
+16867246	893	907	chlorpromazine	ChemicalEntity	D002746
+16867246	1029	1038	Ser311Cys	SequenceVariant	c|SUB|S|311|C
+16867246	1043	1049	rs6277	SequenceVariant	rs6277
+16867246	1189	1201	-141Cins>del	SequenceVariant	c|INDEL|0141|C
+16867246	1210	1216	rs6275	SequenceVariant	rs6275
+16867246	1281	1287	rs6275	SequenceVariant	rs6275
+16867246	1447	1451	DRD2	GeneOrGeneProduct	1813
+16867246	1531	1545	chlorpromazine	ChemicalEntity	D002746
+16867246	1567	1575	patients	OrganismTaxon	9606
+16867246	1581	1594	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+16867246	1663	1667	DRD2	GeneOrGeneProduct	1813
+16867246	1672	1675	EPS	DiseaseOrPhenotypicFeature	D001480
+16867246	Association	1813	D012559	Novel
+16867246	Association	D014150	1813	No
+16867246	Negative_Correlation	D012559	D002746	No
+16867246	Association	D001480	1813	No
+16867246	Positive_Correlation	D001480	D014150	No
+16867246	Positive_Correlation	D002746	D001480	No

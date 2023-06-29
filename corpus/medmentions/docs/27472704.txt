@@ -1,0 +1,95 @@
+27472704|t|Association of β-blocker therapy with long-term clinical outcomes in patients with coronary chronic total occlusion
+27472704|a|There are limited data regarding the efficacy of β-blockers for secondary prevention in patients with coronary chronic total occlusion (CTO). Therefore, we investigated the association of β-blocker therapy with long-term clinical outcomes in CTO patients. From March 2003 to February 2012, a total of 2024 CTO patients treated with either medical therapy alone or revascularization were enrolled in the study. We assessed 1596 patients with stable ischemic heart disease and divided them into the β-blocker group (n = 932) and the no - β-blocker group (n = 664). The primary outcome was all-cause death. The median follow-up duration was 3.9 (interquartile range: 2.0-6.2) years. All-cause death occurred in 11.6% patients in the β-blocker group and 13.6% patients in the no - β-blocker group (hazard ratio [HR]: 0.81, 95% confidence interval [CI]: 0.61-1.08; P = 0.15). In the propensity score - matched population (570 pairs), all-cause death occurred in 12.3% patients in the β-blocker group and 12.8% patients in the no - β-blocker group (HR: 0.93, 95% CI: 0.67-1.29; P = 0.66). In subgroup analysis, β-blocker therapy was associated with better outcome, in terms of all-cause death, in patients with CTO of the left anterior descending coronary artery and Synergy Between PCI with Taxus and Cardiac Surgery (SYNTAX) score ≥23 (P for interaction = 0.01 and 0.02, respectively). In conclusion, β-blocker therapy was not associated with favorable long-term clinical outcomes in stable CTO patients, regardless of treatment strategy. However, β-blocker therapy might be beneficial in a highly selective group of CTO patients with a high ischemic burden.
+27472704	0	11	Association	T080	C0439849
+27472704	15	32	β-blocker therapy	T058	C1314136
+27472704	38	47	long-term	T079	C0443252
+27472704	48	65	clinical outcomes	T033	C4055223
+27472704	69	77	patients	T101	C0030705
+27472704	83	115	coronary chronic total occlusion	T047	C1955779
+27472704	126	133	limited	T169	C0439801
+27472704	134	138	data	T078	C1511726
+27472704	153	161	efficacy	T080	C1280519
+27472704	165	175	β-blockers	T121	C0001645
+27472704	180	200	secondary prevention	T061	C0679699
+27472704	204	212	patients	T101	C0030705
+27472704	218	250	coronary chronic total occlusion	T047	C1955779
+27472704	252	255	CTO	T047	C1955779
+27472704	272	284	investigated	T169	C1292732
+27472704	289	300	association	T080	C0439849
+27472704	304	321	β-blocker therapy	T058	C1314136
+27472704	327	336	long-term	T079	C0443252
+27472704	337	354	clinical outcomes	T033	C4055223
+27472704	358	361	CTO	T047	C1955779
+27472704	362	370	patients	T101	C0030705
+27472704	422	425	CTO	T047	C1955779
+27472704	426	434	patients	T101	C0030705
+27472704	455	470	medical therapy	T061	C0418981
+27472704	480	497	revascularization	T061	C0581603
+27472704	519	524	study	T062	C2603343
+27472704	543	551	patients	T101	C0030705
+27472704	564	586	ischemic heart disease	T047	C0151744
+27472704	613	622	β-blocker	T121	C0001645
+27472704	623	628	group	T078	C0441833
+27472704	647	649	no	T169	C0332197
+27472704	652	661	β-blocker	T121	C0001645
+27472704	662	667	group	T078	C0441833
+27472704	691	698	outcome	T169	C1274040
+27472704	703	718	all-cause death	T033	C0007465
+27472704	724	730	median	T082	C2939193
+27472704	731	740	follow-up	T058	C1522577
+27472704	741	749	duration	T079	C0449238
+27472704	759	778	interquartile range	T081	C1711350
+27472704	796	811	All-cause death	T033	C0007465
+27472704	830	838	patients	T101	C0030705
+27472704	846	855	β-blocker	T121	C0001645
+27472704	856	861	group	T078	C0441833
+27472704	872	880	patients	T101	C0030705
+27472704	888	890	no	T169	C0332197
+27472704	893	902	β-blocker	T121	C0001645
+27472704	903	908	group	T078	C0441833
+27472704	910	922	hazard ratio	T081	C2985465
+27472704	924	926	HR	T081	C2985465
+27472704	939	958	confidence interval	T081	C0009667
+27472704	960	962	CI	T081	C0009667
+27472704	994	1010	propensity score	T081	C2718044
+27472704	1013	1031	matched population	T098	C1257890
+27472704	1045	1060	all-cause death	T033	C0007465
+27472704	1079	1087	patients	T101	C0030705
+27472704	1095	1104	β-blocker	T121	C0001645
+27472704	1105	1110	group	T078	C0441833
+27472704	1121	1129	patients	T101	C0030705
+27472704	1137	1139	no	T169	C0332197
+27472704	1142	1151	β-blocker	T121	C0001645
+27472704	1152	1157	group	T078	C0441833
+27472704	1159	1161	HR	T081	C2985465
+27472704	1173	1175	CI	T081	C0009667
+27472704	1202	1210	subgroup	T078	C0441833
+27472704	1211	1219	analysis	T062	C0936012
+27472704	1221	1238	β-blocker therapy	T058	C1314136
+27472704	1243	1258	associated with	T080	C0332281
+27472704	1266	1273	outcome	T169	C1274040
+27472704	1287	1302	all-cause death	T033	C0007465
+27472704	1307	1315	patients	T101	C0030705
+27472704	1321	1324	CTO	T047	C1955779
+27472704	1332	1372	left anterior descending coronary artery	T023	C0226032
+27472704	1393	1396	PCI	T061	C1532338
+27472704	1412	1427	Cardiac Surgery	T061	C0018821
+27472704	1437	1442	score	T081	C0449820
+27472704	1454	1465	interaction	T169	C1704675
+27472704	1501	1511	conclusion	T078	C1707478
+27472704	1513	1530	β-blocker therapy	T058	C1314136
+27472704	1539	1554	associated with	T080	C0332281
+27472704	1555	1564	favorable	T080	C3640814
+27472704	1565	1574	long-term	T079	C0443252
+27472704	1575	1592	clinical outcomes	T033	C4055223
+27472704	1603	1606	CTO	T047	C1955779
+27472704	1607	1615	patients	T101	C0030705
+27472704	1617	1627	regardless	T080	C3641650
+27472704	1631	1640	treatment	T061	C0087111
+27472704	1660	1677	β-blocker therapy	T058	C1314136
+27472704	1703	1709	highly	T080	C0205250
+27472704	1720	1725	group	T078	C0441833
+27472704	1729	1732	CTO	T047	C1955779
+27472704	1733	1741	patients	T101	C0030705
+27472704	1749	1753	high	T080	C0205250
+27472704	1754	1770	ischemic burden.	T033	C2024898

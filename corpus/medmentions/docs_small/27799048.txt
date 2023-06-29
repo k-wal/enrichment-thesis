@@ -1,0 +1,75 @@
+27799048|t|Prostate external beam radiotherapy combined with high-dose-rate brachytherapy: dose - volume parameters from deformably-registered plans correlate with late gastrointestinal complications
+27799048|a|Derivation of dose - volume correlated with toxicity for multi-modal treatments can be difficult due to the perceived need for voxel-by-voxel dose accumulation. With data available for a single - institution cohort with long follow-up, an investigation was undertaken into rectal dose - volume effects for gastrointestinal toxicities after deformably-registering each phase of a combined external beam radiotherapy (EBRT)/ high-dose-rate (HDR) brachytherapy prostate treatment. One hundred and eighteen patients received EBRT in 23 fractions of 2 Gy and HDR (TG43 algorithm) in 3 fractions of 6.5 Gy. Results for the Late Effects of Normal Tissues - Subjective, Objective, Management and Analytic toxicity assessments were available with a median follow-up of 72 months. The HDR CT was deformably-registered to the EBRT CT. Doses were corrected for dose fractionation. Rectum dose-volume histogram (DVH) parameters were calculated in two ways. (1) Distribution-adding: parameters were calculated after the EBRT dose distribution was 3D-summed with the registered HDR dose distribution. (2) Parameter-adding: the EBRT DVH parameters were added to HDR DVH parameters. Logistic regressions and Mann-Whitney U-tests were used to correlate parameters with late peak toxicity (dichotomised at grade 1 or 2). The 48-80, 40-63 and 49-55 Gy dose regions from distribution-adding were significantly correlated with rectal bleeding, urgency / tenesmus and stool frequency respectively. Additionally, urgency / tenesmus and anorectal pain were associated with the 25-26 Gy and 44-48 Gy dose regions from distribution-adding respectively. Parameter-adding also indicated the low - mid dose region was significantly correlated with stool frequency and proctitis. This study confirms significant dose-histogram effects for gastrointestinal toxicities after including deformable registration to combine phases of EBRT / HDR prostate cancer treatment. The findings from distribution-adding were in most cases consistent with those from parameter-adding. The mid - high dose range and near maximum doses were important for rectal bleeding. The distribution-adding mid - high dose range was also important for stool frequency and urgency / tenesmus. We encourage additional studies in a variety of institutions using a variety of dose accumulation methods with appropriate inter-fraction motion management. NCT NCT00193856. Retrospectively registered 12 September 2005.
+27799048	50	78	high-dose-rate brachytherapy	T058	UMLS:C0454270
+27799048	94	104	parameters	T033	UMLS:C0449381
+27799048	110	137	deformably-registered plans	T170	UMLS:C0002045
+27799048	158	188	gastrointestinal complications	T038	UMLS:C0161819
+27799048	246	268	multi-modal treatments	T058	UMLS:C0087111
+27799048	316	348	voxel-by-voxel dose accumulation	T058	UMLS:C0022885
+27799048	385	396	institution	T092	UMLS:C0018704
+27799048	397	403	cohort	T098	UMLS:C0599755
+27799048	414	423	follow-up	T058	UMLS:C1522577
+27799048	462	468	rectal	T082	UMLS:C0205052
+27799048	495	522	gastrointestinal toxicities	T033	UMLS:C1142499
+27799048	612	646	high-dose-rate (HDR) brachytherapy	T058	UMLS:C0454270
+27799048	647	665	prostate treatment	T058	UMLS:C0194790
+27799048	743	746	HDR	T058	UMLS:C0454270
+27799048	748	762	TG43 algorithm	T170	UMLS:C0002045
+27799048	806	906	Late Effects of Normal Tissues - Subjective, Objective, Management and Analytic toxicity assessments	T170	UMLS:C0450973
+27799048	936	945	follow-up	T058	UMLS:C1522577
+27799048	964	967	HDR	T058	UMLS:C0454270
+27799048	968	970	CT	T058	UMLS:C0040405
+27799048	1009	1011	CT	T058	UMLS:C0040405
+27799048	1038	1056	dose fractionation	T058	UMLS:C0524811
+27799048	1058	1064	Rectum	T017	UMLS:C0034896
+27799048	1065	1086	dose-volume histogram	T170	UMLS:C3827011
+27799048	1088	1091	DVH	T170	UMLS:C3827011
+27799048	1093	1103	parameters	T033	UMLS:C0449381
+27799048	1137	1156	Distribution-adding	T170	UMLS:C0025663
+27799048	1158	1168	parameters	T033	UMLS:C0449381
+27799048	1252	1255	HDR	T058	UMLS:C0454270
+27799048	1279	1295	Parameter-adding	T170	UMLS:C0025663
+27799048	1306	1309	DVH	T170	UMLS:C3827011
+27799048	1310	1320	parameters	T033	UMLS:C0449381
+27799048	1335	1338	HDR	T058	UMLS:C0454270
+27799048	1339	1342	DVH	T170	UMLS:C3827011
+27799048	1343	1353	parameters	T033	UMLS:C0449381
+27799048	1355	1375	Logistic regressions	T062	UMLS:C0206031
+27799048	1424	1434	parameters	T033	UMLS:C0449381
+27799048	1476	1481	grade	T170	UMLS:C0441800
+27799048	1526	1533	regions	T082	UMLS:C0205147
+27799048	1539	1558	distribution-adding	T170	UMLS:C0025663
+27799048	1594	1609	rectal bleeding	T038	UMLS:C0267596
+27799048	1611	1618	urgency	T038	UMLS:C0085606
+27799048	1621	1629	tenesmus	T033	UMLS:C0232726
+27799048	1634	1649	stool frequency	T033	UMLS:C0426642
+27799048	1678	1685	urgency	T038	UMLS:C0085606
+27799048	1688	1696	tenesmus	T033	UMLS:C0232726
+27799048	1701	1715	anorectal pain	T033	UMLS:C0581362
+27799048	1768	1775	regions	T082	UMLS:C0205147
+27799048	1781	1800	distribution-adding	T170	UMLS:C0025663
+27799048	1815	1831	Parameter-adding	T170	UMLS:C0025663
+27799048	1857	1860	mid	T082	UMLS:C0444598
+27799048	1866	1872	region	T082	UMLS:C0205147
+27799048	1907	1922	stool frequency	T033	UMLS:C0426642
+27799048	1927	1936	proctitis	T038	UMLS:C0033246
+27799048	1943	1948	study	T062	UMLS:C0681814
+27799048	1949	1957	confirms	T033	UMLS:C0750484
+27799048	1970	1984	dose-histogram	T170	UMLS:C3827011
+27799048	1997	2024	gastrointestinal toxicities	T033	UMLS:C1142499
+27799048	2041	2064	deformable registration	T170	UMLS:C0002045
+27799048	2093	2096	HDR	T058	UMLS:C0454270
+27799048	2097	2112	prostate cancer	T038	UMLS:C0376358
+27799048	2113	2122	treatment	T058	UMLS:C0087111
+27799048	2128	2136	findings	T033	UMLS:C0243095
+27799048	2142	2161	distribution-adding	T170	UMLS:C0025663
+27799048	2208	2224	parameter-adding	T170	UMLS:C0025663
+27799048	2230	2233	mid	T082	UMLS:C0444598
+27799048	2294	2309	rectal bleeding	T038	UMLS:C0267596
+27799048	2315	2334	distribution-adding	T170	UMLS:C0025663
+27799048	2335	2338	mid	T082	UMLS:C0444598
+27799048	2380	2395	stool frequency	T033	UMLS:C0426642
+27799048	2400	2407	urgency	T038	UMLS:C0085606
+27799048	2410	2418	tenesmus	T033	UMLS:C0232726
+27799048	2444	2451	studies	T062	UMLS:C2603343
+27799048	2500	2525	dose accumulation methods	T058	UMLS:C0022885

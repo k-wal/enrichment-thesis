@@ -1,0 +1,35 @@
+27405692|t|Hounsfield unit recovery in clinical cone beam CT images of the thorax acquired for image guided radiation therapy
+27405692|a|A comprehensive artefact correction method for clinical cone beam CT (CBCT) images acquired for image guided radiation therapy (IGRT) on a commercial system is presented. The method is demonstrated to reduce artefacts and recover CT -like Hounsfield units (HU) in reconstructed CBCT images of five lung cancer patients. Projection image based artefact corrections of image lag, detector scatter, body scatter and beam hardening are described and applied to CBCT images of five lung cancer patients. Image quality is evaluated through visual appearance of the reconstructed images, HU -correspondence with the planning CT images, and total volume HU error. Artefacts are reduced and CT -like HUs are recovered in the artefact corrected CBCT images. Visual inspection confirms that artefacts are indeed suppressed by the proposed method, and the HU root mean square difference between reconstructed CBCTs and the reference CT images are reduced by 31% when using the artefact corrections compared to the standard clinical CBCT reconstruction. A versatile artefact correction method for clinical CBCT images acquired for IGRT has been developed. HU values are recovered in the corrected CBCT images. The proposed method relies on post processing of clinical projection images, and does not require patient specific optimisation. It is thus a powerful tool for image quality improvement of large numbers of CBCT images.
+27405692	37	49	cone beam CT	T058	UMLS:C1956110
+27405692	64	70	thorax	T082	UMLS:C0817096
+27405692	84	114	image guided radiation therapy	T058	UMLS:C3179062
+27405692	151	157	method	T170	UMLS:C0025663
+27405692	171	183	cone beam CT	T058	UMLS:C1956110
+27405692	185	189	CBCT	T058	UMLS:C1956110
+27405692	211	241	image guided radiation therapy	T058	UMLS:C3179062
+27405692	243	247	IGRT	T058	UMLS:C3179062
+27405692	290	296	method	T170	UMLS:C0025663
+27405692	345	347	CT	T058	UMLS:C0040405
+27405692	393	397	CBCT	T058	UMLS:C1956110
+27405692	413	424	lung cancer	T038	UMLS:C0242379
+27405692	528	542	beam hardening	T033	UMLS:C2828112
+27405692	572	576	CBCT	T058	UMLS:C1956110
+27405692	592	603	lung cancer	T038	UMLS:C0242379
+27405692	631	640	evaluated	T058	UMLS:C0220825
+27405692	733	735	CT	T058	UMLS:C0040405
+27405692	797	799	CT	T058	UMLS:C0040405
+27405692	850	854	CBCT	T058	UMLS:C1956110
+27405692	863	880	Visual inspection	T058	UMLS:C3669138
+27405692	881	889	confirms	T033	UMLS:C0750484
+27405692	943	949	method	T170	UMLS:C0025663
+27405692	1012	1017	CBCTs	T058	UMLS:C1956110
+27405692	1036	1038	CT	T058	UMLS:C0040405
+27405692	1135	1139	CBCT	T058	UMLS:C1956110
+27405692	1188	1194	method	T170	UMLS:C0025663
+27405692	1208	1212	CBCT	T058	UMLS:C1956110
+27405692	1233	1237	IGRT	T058	UMLS:C3179062
+27405692	1299	1303	CBCT	T058	UMLS:C1956110
+27405692	1325	1331	method	T170	UMLS:C0025663
+27405692	1342	1357	post processing	T170	UMLS:C0449935
+27405692	1463	1467	tool	T170	UMLS:C0037589
+27405692	1518	1522	CBCT	T058	UMLS:C1956110

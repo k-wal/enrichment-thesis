@@ -1,0 +1,60 @@
+27447421|t|The relationship between hemorheological parameters and mortality in critically ill patients with and without sepsis
+27447421|a|The prognostic scoring systems for mortality of intensive care patients estimate clinical outcome using several physiological and biochemical parameters. In altered hemodynamic conditions of critically ill patients, hemorheological variables may play a significant role in appropriate tissue perfusion. We investigated if hemorheological parameters are altered in critical status and if they could be markers of mortality. 112 patients (67.8 ± 12 years, 58 males, 54 females) treated in intensive care unit with different non-surgical diseases were investigated. Routine laboratory parameters and prognostic scores were determined and hemorheological variables (hematocrit, plasma and whole blood viscosity, red blood cell aggregation and deformability) were measured on the 1st and the 2nd day after admission. ICU scores predicted 35.2-41.3% mortality rate, real mortality in intensive care unit was 37.5%, while 30-day mortality was 46.6%. Whole blood viscosity (WBV) and red blood cell (RBC) deformability were lower, red blood cell aggregation was higher in septic than in nonseptic patients (p < 0.05). In septic patients calcium was increased, osmolality was decreased, while in nonseptic patients WBV and RBC aggregation were higher in nonsurvivors compared to survivors (p < 0.05). Worsening of RBC deformability from day 1 to day 2 predicted higher mortality (p < 0.05). Calcium and osmolality level were associated with outcome in sepsis. Whole blood viscosity, red blood cell aggregation and change in red blood cell deformability could predict mortality in nonseptic patients and they may add prognostic information over the ICU scores. Further investigations are needed to evaluate the benefit of our findings in clinical practice.
+27447421	25	40	hemorheological	T038	UMLS:C0206502
+27447421	41	51	parameters	T033	UMLS:C0449381
+27447421	69	83	critically ill	T038	UMLS:C0010340
+27447421	110	116	sepsis	T038	UMLS:C0243026
+27447421	121	131	prognostic	T058	UMLS:C0033325
+27447421	132	147	scoring systems	T170	UMLS:C0282574
+27447421	165	179	intensive care	T058	UMLS:C0085559
+27447421	198	214	clinical outcome	T033	UMLS:C0243095
+27447421	259	269	parameters	T033	UMLS:C0449381
+27447421	282	293	hemodynamic	T038	UMLS:C0019010
+27447421	308	322	critically ill	T038	UMLS:C0010340
+27447421	333	348	hemorheological	T038	UMLS:C0206502
+27447421	349	358	variables	T058	UMLS:C1134627
+27447421	402	408	tissue	T017	UMLS:C0040300
+27447421	409	418	perfusion	T058	UMLS:C0031001
+27447421	439	454	hemorheological	T038	UMLS:C0206502
+27447421	455	465	parameters	T033	UMLS:C0449381
+27447421	481	496	critical status	T033	UMLS:C0184770
+27447421	518	525	markers	T201	UMLS:C0005516
+27447421	604	623	intensive care unit	T092	UMLS:C0021708
+27447421	652	660	diseases	T038	UMLS:C0012634
+27447421	688	709	laboratory parameters	T058	UMLS:C0022885
+27447421	752	767	hemorheological	T038	UMLS:C0206502
+27447421	768	777	variables	T058	UMLS:C1134627
+27447421	779	789	hematocrit	T033	UMLS:C0518014
+27447421	791	797	plasma	T031	UMLS:C0032105
+27447421	802	813	whole blood	T031	UMLS:C0370231
+27447421	825	839	red blood cell	T017	UMLS:C0014792
+27447421	840	851	aggregation	T038	UMLS:C0007580
+27447421	856	869	deformability	T038	UMLS:C0014774
+27447421	918	927	admission	T058	UMLS:C0184666
+27447421	995	1014	intensive care unit	T092	UMLS:C0021708
+27447421	1060	1081	Whole blood viscosity	T033	UMLS:C1261453
+27447421	1083	1086	WBV	T033	UMLS:C1261453
+27447421	1092	1126	red blood cell (RBC) deformability	T038	UMLS:C0014774
+27447421	1139	1153	red blood cell	T017	UMLS:C0014792
+27447421	1154	1165	aggregation	T038	UMLS:C0007580
+27447421	1229	1235	septic	T038	UMLS:C0243026
+27447421	1245	1252	calcium	T103	UMLS:C0006675
+27447421	1268	1278	osmolality	T201	UMLS:C0086741
+27447421	1322	1325	WBV	T033	UMLS:C1261453
+27447421	1330	1333	RBC	T017	UMLS:C0014792
+27447421	1334	1345	aggregation	T038	UMLS:C0007580
+27447421	1361	1373	nonsurvivors	T098	UMLS:C1257890
+27447421	1421	1424	RBC	T017	UMLS:C0014792
+27447421	1425	1438	deformability	T038	UMLS:C0014774
+27447421	1498	1505	Calcium	T058	UMLS:C0201925
+27447421	1510	1526	osmolality level	T033	UMLS:C0428311
+27447421	1559	1565	sepsis	T038	UMLS:C0243026
+27447421	1567	1578	Whole blood	T031	UMLS:C0370231
+27447421	1590	1604	red blood cell	T017	UMLS:C0014792
+27447421	1605	1616	aggregation	T038	UMLS:C0007580
+27447421	1631	1645	red blood cell	T017	UMLS:C0014792
+27447421	1646	1659	deformability	T038	UMLS:C0014774
+27447421	1723	1733	prognostic	T058	UMLS:C0033325
+27447421	1775	1789	investigations	T058	UMLS:C0220825
+27447421	1804	1812	evaluate	T058	UMLS:C0220825
+27447421	1832	1840	findings	T033	UMLS:C0243095

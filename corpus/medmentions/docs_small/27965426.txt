@@ -1,0 +1,52 @@
+27965426|t|Mitotic phosphotyrosine network analysis reveals that tyrosine phosphorylation regulates Polo-like kinase 1 (PLK1)
+27965426|a|Tyrosine phosphorylation is closely associated with cell proliferation. During the cell cycle, serine and threonine phosphorylation plays the leading role, and such phosphorylation events are most dynamic during the mitotic phase of the cell cycle. However, mitotic phosphotyrosine is not well characterized. Although a few functionally - relevant mitotic phosphotyrosine sites have been characterized, evidence suggests that this modification may be more prevalent than previously appreciated. Here, we examined tyrosine phosphorylation in mitotic human cells including those on spindle-associated proteins .? Database mining confirmed ~2000 mitotic phosphotyrosine sites, and network analysis revealed a number of subnetworks that were enriched in tyrosine-phosphorylated proteins, including components of the kinetochore or spindle and SRC family kinases. We identified Polo-like kinase 1 (PLK1), a major signaling hub in the spindle subnetwork, as phosphorylated at the conserved Tyr(217) in the kinase domain. Substitution of Tyr(217) with a phosphomimetic residue eliminated PLK1 activity in vitro and in cells. Further analysis showed that Tyr(217) phosphorylation reduced the phosphorylation of Thr(210) in the activation loop, a phosphorylation event necessary for PLK1 activity. Our data indicate that mitotic tyrosine phosphorylation regulated a key serine/threonine kinase hub in mitotic cells and suggested that spatially separating tyrosine phosphorylation events can reveal previously unrecognized regulatory events and complexes associated with specific structures of the cell cycle.
+27965426	8	23	phosphotyrosine	T103	UMLS:C0070948
+27965426	24	40	network analysis	T170	UMLS:C0868995
+27965426	54	78	tyrosine phosphorylation	T038	UMLS:C1519726
+27965426	89	107	Polo-like kinase 1	T103	UMLS:C0290178
+27965426	109	113	PLK1	T103	UMLS:C0290178
+27965426	115	139	Tyrosine phosphorylation	T038	UMLS:C1519726
+27965426	167	185	cell proliferation	T038	UMLS:C0596290
+27965426	198	208	cell cycle	T038	UMLS:C0007586
+27965426	210	246	serine and threonine phosphorylation	T038	UMLS:C1519253
+27965426	280	295	phosphorylation	T038	UMLS:C0031715
+27965426	331	344	mitotic phase	T038	UMLS:C3893712
+27965426	352	362	cell cycle	T038	UMLS:C0007586
+27965426	381	396	phosphotyrosine	T103	UMLS:C0070948
+27965426	471	486	phosphotyrosine	T103	UMLS:C0070948
+27965426	487	492	sites	T082	UMLS:C0205145
+27965426	619	627	examined	T033	UMLS:C0332128
+27965426	628	652	tyrosine phosphorylation	T038	UMLS:C1519726
+27965426	656	675	mitotic human cells	T017	UMLS:C0230518
+27965426	695	722	spindle-associated proteins	T103	UMLS:C0033684
+27965426	766	781	phosphotyrosine	T103	UMLS:C0070948
+27965426	782	787	sites	T082	UMLS:C0205145
+27965426	793	809	network analysis	T170	UMLS:C0868995
+27965426	865	897	tyrosine-phosphorylated proteins	T103	UMLS:C0033684
+27965426	927	938	kinetochore	T017	UMLS:C0242609
+27965426	942	949	spindle	T017	UMLS:C1166795
+27965426	954	972	SRC family kinases	T103	UMLS:C0282625
+27965426	988	1006	Polo-like kinase 1	T103	UMLS:C0290178
+27965426	1008	1012	PLK1	T103	UMLS:C0290178
+27965426	1023	1032	signaling	T038	UMLS:C3537152
+27965426	1044	1051	spindle	T017	UMLS:C1166795
+27965426	1067	1081	phosphorylated	T103	UMLS:C1519061
+27965426	1099	1107	Tyr(217)	T103	UMLS:C0041485
+27965426	1115	1128	kinase domain	T082	UMLS:C1519724
+27965426	1130	1142	Substitution	T038	UMLS:C0525038
+27965426	1146	1154	Tyr(217)	T103	UMLS:C0041485
+27965426	1196	1200	PLK1	T103	UMLS:C0290178
+27965426	1226	1231	cells	T017	UMLS:C0007634
+27965426	1241	1249	analysis	T062	UMLS:C0936012
+27965426	1262	1270	Tyr(217)	T103	UMLS:C0041485
+27965426	1271	1286	phosphorylation	T038	UMLS:C0031715
+27965426	1299	1326	phosphorylation of Thr(210)	T038	UMLS:C1158892
+27965426	1334	1349	activation loop	T082	UMLS:C0445022
+27965426	1353	1368	phosphorylation	T038	UMLS:C0031715
+27965426	1389	1393	PLK1	T103	UMLS:C0290178
+27965426	1435	1459	tyrosine phosphorylation	T038	UMLS:C1519726
+27965426	1476	1499	serine/threonine kinase	T103	UMLS:C0072402
+27965426	1507	1520	mitotic cells	T017	UMLS:C0230518
+27965426	1561	1585	tyrosine phosphorylation	T038	UMLS:C1519726
+27965426	1685	1695	structures	T017	UMLS:C0243092
+27965426	1703	1713	cell cycle	T038	UMLS:C0007586

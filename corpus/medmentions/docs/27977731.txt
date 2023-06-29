@@ -1,0 +1,70 @@
+27977731|t|Systems Based Study of the Therapeutic Potential of Small Charged Molecules for the Inhibition of IL-1 Mediated Cartilage Degradation
+27977731|a|Inflammatory cytokines are key drivers of cartilage degradation in post-traumatic osteoarthritis. Cartilage degradation mediated by these inflammatory cytokines has been extensively investigated using in vitro experimental systems. Based on one such study, we have developed a computational model to quantitatively assess the impact of charged small molecules intended to inhibit IL-1 mediated cartilage degradation. We primarily focus on the simplest possible computational model of small molecular interaction with the IL-1 system-direct binding of the small molecule to the active site on the IL-1 molecule itself. We first use the model to explore the uptake and release kinetics of the small molecule inhibitor by cartilage tissue. Our results show that negatively charged small molecules are excluded from the negatively charged cartilage tissue and have uptake kinetics in the order of hours. In contrast, the positively charged small molecules are drawn into the cartilage with uptake and release timescales ranging from hours to days. Using our calibrated computational model, we subsequently explore the effect of small molecule charge and binding constant on the rate of cartilage degradation. The results from this analysis indicate that the small molecules are most effective in inhibiting cartilage degradation if they are either positively charged and/or bind strongly to IL-1α, or both. Furthermore, our results showed that the cartilage structural homeostasis can be restored by the small molecule if administered within six days following initial tissue exposure to IL-1α. We finally extended the scope of the computational model by simulating the competitive inhibition of cartilage degradation by the small molecule. Results from this model show that small molecules are more efficient in inhibiting cartilage degradation by binding directly to IL-1α rather than binding to IL-1α receptors. The results from this study can be used as a template for the design and development of more pharmacologically effective osteoarthritis drugs, and to investigate possible therapeutic options.
+27977731	0	19	Systems Based Study	T059	C4297010
+27977731	27	38	Therapeutic	T169	C0302350
+27977731	39	48	Potential	T080	C3245505
+27977731	52	75	Small Charged Molecules	T196	C0022023
+27977731	84	94	Inhibition	T052	C3463820
+27977731	98	102	IL-1	T116,T129	C0021755
+27977731	112	133	Cartilage Degradation	T037	C0549421
+27977731	134	146	Inflammatory	T046	C0021368
+27977731	147	156	cytokines	T116,T129	C0079189
+27977731	176	197	cartilage degradation	T037	C0549421
+27977731	201	230	post-traumatic osteoarthritis	T046	C2894027
+27977731	232	253	Cartilage degradation	T037	C0549421
+27977731	272	284	inflammatory	T046	C0021368
+27977731	285	294	cytokines	T116,T129	C0079189
+27977731	335	343	in vitro	T062	C0681828
+27977731	411	430	computational model	T075	C0026336
+27977731	434	455	quantitatively assess	T081	C0392762
+27977731	470	493	charged small molecules	T196	C0022023
+27977731	514	518	IL-1	T116,T129	C0021755
+27977731	528	549	cartilage degradation	T037	C0549421
+27977731	595	614	computational model	T075	C0026336
+27977731	618	645	small molecular interaction	T044	C1167622
+27977731	655	659	IL-1	T116,T129	C0021755
+27977731	674	681	binding	T044	C1167622
+27977731	689	703	small molecule	T109	C1328819
+27977731	711	722	active site	T169	C0205681
+27977731	730	750	IL-1 molecule itself	T116,T129	C0021755
+27977731	825	839	small molecule	T109	C1328819
+27977731	840	849	inhibitor	T120	C0243077
+27977731	853	869	cartilage tissue	T024	C0007301
+27977731	893	927	negatively charged small molecules	T196	C0022023
+27977731	950	968	negatively charged	T196	C0003075
+27977731	969	985	cartilage tissue	T024	C0007301
+27977731	1051	1085	positively charged small molecules	T104	C0007447
+27977731	1105	1114	cartilage	T024	C0007301
+27977731	1120	1138	uptake and release	T169	C0205245
+27977731	1199	1218	computational model	T075	C0026336
+27977731	1258	1279	small molecule charge	T196	C0022023
+27977731	1284	1291	binding	T044	C1167622
+27977731	1316	1337	cartilage degradation	T037	C0549421
+27977731	1388	1403	small molecules	T109	C1328819
+27977731	1426	1436	inhibiting	T052	C3463820
+27977731	1437	1458	cartilage degradation	T037	C0549421
+27977731	1478	1496	positively charged	T104	C0007447
+27977731	1504	1517	bind strongly	T044	C1167622
+27977731	1521	1526	IL-1α	T116,T123	C0600251
+27977731	1578	1610	cartilage structural homeostasis	T040	C3824200
+27977731	1634	1648	small molecule	T196	C0022023
+27977731	1652	1664	administered	T169	C1521801
+27977731	1699	1705	tissue	T024	C0040300
+27977731	1706	1717	exposure to	T080	C0332157
+27977731	1718	1723	IL-1α	T116,T123	C0600251
+27977731	1762	1781	computational model	T075	C0026336
+27977731	1800	1822	competitive inhibition	T044	C0301626
+27977731	1826	1847	cartilage degradation	T037	C0549421
+27977731	1855	1869	small molecule	T109	C1328819
+27977731	1905	1920	small molecules	T109	C1328819
+27977731	1943	1953	inhibiting	T052	C3463820
+27977731	1954	1975	cartilage degradation	T037	C0549421
+27977731	1979	1995	binding directly	T044	C1167622
+27977731	1999	2004	IL-1α	T116,T123	C0600251
+27977731	2017	2024	binding	T044	C1167622
+27977731	2028	2043	IL-1α receptors	T116,T129,T192	C0063710
+27977731	2138	2155	pharmacologically	T038	C0007992
+27977731	2166	2180	osteoarthritis	T047	C0029408
+27977731	2181	2186	drugs	T121	C0013227
+27977731	2195	2206	investigate	T169	C1292732
+27977731	2216	2235	therapeutic options	T061	C0087111

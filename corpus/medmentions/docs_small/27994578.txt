@@ -1,0 +1,70 @@
+27994578|t|Comparative In silico Analysis of Butyrate Production Pathways in Gut Commensals and Pathogens
+27994578|a|Biosynthesis of butyrate by commensal bacteria plays a crucial role in maintenance of human gut health while dysbiosis in gut microbiome has been linked to several enteric disorders. Contrastingly, butyrate shows cytotoxic effects in patients with oral diseases like periodontal infections and oral cancer. In addition to these host associations, few syntrophic bacteria couple butyrate degradation with sulfate reduction and methane production. Thus, it becomes imperative to understand the distribution of butyrate metabolism pathways and delineate differences in substrate utilization between pathogens and commensals. The bacteria utilize four pathways for butyrate production with different initial substrates (Pyruvate, 4-aminobutyrate, Glutarate and Lysine) which follow a polyphyletic distribution. A comprehensive mining of complete / draft bacterial genomes indicated conserved juxtaposed genomic arrangement in all these pathways. This gene context information was utilized for an accurate annotation of butyrate production pathways in bacterial genomes. Interestingly, our analysis showed that inspite of a beneficial impact of butyrate in gut, not only commensals, but a few gut pathogens also possess butyrogenic pathways. The results further illustrated that all the gut commensal bacteria (Faecalibacterium, Roseburia, Butyrivibrio, and commensal species of Clostridia etc) ferment pyruvate for butyrate production. On the contrary, the butyrogenic gut pathogen Fusobacterium utilizes different amino acid metabolism pathways like those for Glutamate (4-aminobutyrate and Glutarate) and Lysine for butyrogenesis which leads to a concomitant release of harmful by-products like ammonia in the process. The findings in this study indicate that commensals and pathogens in gut have divergently evolved to produce butyrate using distinct pathways. No such evolutionary selection was observed in oral pathogens (Porphyromonas and Filifactor) which showed presence of pyruvate as well as amino acid fermenting pathways which might be because the final product butyrate is itself known to be cytotoxic in oral diseases. This differential utilization of butyrogenic pathways in gut pathogens and commensals has an enormous ecological impact taking into consideration the immense influence of butyrate on different disorders in humans. The results of this study can potentially guide bioengineering experiments to design therapeutics / probiotics by manipulation of butyrate biosynthesis gene clusters in bacteria.
+27994578	22	30	Analysis	T062	UMLS:C0936012
+27994578	34	42	Butyrate	T103	UMLS:C0220802
+27994578	43	62	Production Pathways	T038	UMLS:C1721101
+27994578	95	119	Biosynthesis of butyrate	T038	UMLS:C1157706
+27994578	123	141	commensal bacteria	T007	UMLS:C0004611
+27994578	181	190	human gut	T017	UMLS:C0699819
+27994578	204	213	dysbiosis	T038	UMLS:C3658208
+27994578	259	276	enteric disorders	T038	UMLS:C0012634
+27994578	293	301	butyrate	T103	UMLS:C0220802
+27994578	343	356	oral diseases	T038	UMLS:C0026636
+27994578	362	384	periodontal infections	T038	UMLS:C0747479
+27994578	389	400	oral cancer	T038	UMLS:C0153381
+27994578	446	465	syntrophic bacteria	T007	UMLS:C0004611
+27994578	466	493	couple butyrate degradation	T038	UMLS:C1158140
+27994578	499	516	sulfate reduction	T038	UMLS:C1159420
+27994578	521	539	methane production	T038	UMLS:C1855163
+27994578	603	631	butyrate metabolism pathways	T038	UMLS:C1158849
+27994578	705	715	commensals	T007	UMLS:C0004611
+27994578	721	729	bacteria	T007	UMLS:C0004611
+27994578	743	751	pathways	T038	UMLS:C1704259
+27994578	756	775	butyrate production	T038	UMLS:C1157706
+27994578	811	819	Pyruvate	T103	UMLS:C0244104
+27994578	821	836	4-aminobutyrate	T103	UMLS:C0178649
+27994578	838	847	Glutarate	T103	UMLS:C0017816
+27994578	852	858	Lysine	T103	UMLS:C0024337
+27994578	875	887	polyphyletic	T170	UMLS:C1709533
+27994578	904	924	comprehensive mining	T033	UMLS:C0243095
+27994578	939	944	draft	T170	UMLS:C1547277
+27994578	945	962	bacterial genomes	T017	UMLS:C0085238
+27994578	994	1013	genomic arrangement	T082	UMLS:C1704972
+27994578	1027	1035	pathways	T038	UMLS:C1704259
+27994578	1042	1066	gene context information	T170	UMLS:C0872179
+27994578	1087	1106	accurate annotation	T170	UMLS:C1706814
+27994578	1110	1138	butyrate production pathways	T038	UMLS:C1157706
+27994578	1142	1159	bacterial genomes	T017	UMLS:C0085238
+27994578	1180	1188	analysis	T062	UMLS:C0936012
+27994578	1235	1243	butyrate	T103	UMLS:C0220802
+27994578	1247	1250	gut	T017	UMLS:C0699819
+27994578	1310	1330	butyrogenic pathways	T038	UMLS:C1157706
+27994578	1377	1399	gut commensal bacteria	T007	UMLS:C0004611
+27994578	1401	1417	Faecalibacterium	T007	UMLS:C1229075
+27994578	1419	1428	Roseburia	T007	UMLS:C0995401
+27994578	1430	1442	Butyrivibrio	T007	UMLS:C0315034
+27994578	1448	1479	commensal species of Clostridia	T007	UMLS:C0009054
+27994578	1485	1501	ferment pyruvate	T038	UMLS:C1327317
+27994578	1506	1525	butyrate production	T038	UMLS:C1157706
+27994578	1573	1586	Fusobacterium	T007	UMLS:C0016878
+27994578	1606	1636	amino acid metabolism pathways	T038	UMLS:C1510864
+27994578	1652	1661	Glutamate	T103	UMLS:C0220839
+27994578	1663	1678	4-aminobutyrate	T103	UMLS:C0178649
+27994578	1683	1692	Glutarate	T103	UMLS:C0017816
+27994578	1698	1704	Lysine	T103	UMLS:C0024337
+27994578	1709	1722	butyrogenesis	T038	UMLS:C1157706
+27994578	1788	1795	ammonia	T103	UMLS:C0002607
+27994578	1921	1929	butyrate	T103	UMLS:C0220802
+27994578	1936	1953	distinct pathways	T038	UMLS:C1704259
+27994578	2018	2031	Porphyromonas	T007	UMLS:C0206347
+27994578	2036	2046	Filifactor	T007	UMLS:C1082714
+27994578	2073	2123	pyruvate as well as amino acid fermenting pathways	T038	UMLS:C1156744
+27994578	2165	2173	butyrate	T103	UMLS:C0220802
+27994578	2209	2222	oral diseases	T038	UMLS:C0026636
+27994578	2257	2277	butyrogenic pathways	T038	UMLS:C1157706
+27994578	2395	2403	butyrate	T103	UMLS:C0220802
+27994578	2538	2548	probiotics	T007	UMLS:C0525033
+27994578	2552	2564	manipulation	T062	UMLS:C0017387
+27994578	2568	2589	butyrate biosynthesis	T038	UMLS:C1157706
+27994578	2590	2603	gene clusters	T017	UMLS:C0017258
+27994578	2607	2615	bacteria	T007	UMLS:C0004611

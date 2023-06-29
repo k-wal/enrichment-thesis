@@ -1,0 +1,15 @@
+15602202|t|Recurrent acute interstitial nephritis induced by azithromycin.
+15602202|a|A 14-year-old girl is reported with recurrent, azithromycin-induced, acute interstitial nephritis. The second episode was more severe than the first; and although both were treated with intensive corticosteroid therapy, renal function remained impaired. Although most cases of antibiotic induced acute interstitial nephritis are benign and self-limited, some patients are at risk for permanent renal injury.
+15602202	16	38	interstitial nephritis	DiseaseOrPhenotypicFeature	D009395
+15602202	50	62	azithromycin	ChemicalEntity	D017963
+15602202	111	123	azithromycin	ChemicalEntity	D017963
+15602202	139	161	interstitial nephritis	DiseaseOrPhenotypicFeature	D009395
+15602202	260	274	corticosteroid	ChemicalEntity	D000305
+15602202	341	351	antibiotic	ChemicalEntity	D000900
+15602202	366	388	interstitial nephritis	DiseaseOrPhenotypicFeature	D009395
+15602202	423	431	patients	OrganismTaxon	9606
+15602202	458	470	renal injury	DiseaseOrPhenotypicFeature	D007674
+15602202	Positive_Correlation	D000900	D007674	Novel
+15602202	Positive_Correlation	D000900	D009395	Novel
+15602202	Negative_Correlation	D000305	D009395	No
+15602202	Positive_Correlation	D009395	D017963	Novel

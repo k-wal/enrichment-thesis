@@ -1,0 +1,56 @@
+27602763|t|Expressions of CD8 + TILs, PD-L1 and Foxp3 + TILs in stage I NSCLC guiding adjuvant chemotherapy decisions
+27602763|a|Currently, adjuvant chemotherapy is recommended for patients with high risk stage I non-small cell lung cancer (NSCLC). However, identifying high risk patients remains a challenge. This study aims to identify the patient cohorts more likely to benefit from adjuvant chemotherapy based on the tumor micro-immune environment. CD8 + TILs significantly associated with disease-free survival (DFS) and overall survial (OS) (p=0.002; 0.040). Patients with high risk factors may also predict shorter DFS (P=0.056). When compared together, patients with high - CD8 + TILs showed better DFS than patients with low - CD8 + TILs, no matter their risk factors status. There's no correlation between PD-L1 expressions and survival. PD-L1 was highly expressed in men, squamous and well differentiated carcinoma. In addition, Foxp3 + TILs alone didn't show any prognostic effects, but low - Foxp3 / high - CD8 + TILs were associated with prolonged DFS (p=0.031). A total of 126 patients with surgically resected stage I NSCLC were included to perform immunohistochemistry of CD8 + tumor infiltrating lymphocytes (TILs), programmed death ligand-1 (PD-L1) and forkhead box P3 (Foxp3)+ TILs. CD8 + TILs are effective prognostic predictors. Patients with surgically resected stage I NSCLC showing low CD8 + TILs could be considered for adjuvant chemotherapy, even if they have no high risk features.
+27602763	0	11	Expressions	T038	UMLS:C1171362
+27602763	15	18	CD8	T103	UMLS:C0085358
+27602763	21	25	TILs	T017	UMLS:C0079722
+27602763	27	32	PD-L1	T103	UMLS:C0965245
+27602763	37	42	Foxp3	T103	UMLS:C1504797
+27602763	45	49	TILs	T017	UMLS:C0079722
+27602763	53	66	stage I NSCLC	T038	UMLS:C0278504
+27602763	75	96	adjuvant chemotherapy	T058	UMLS:C0085533
+27602763	97	106	decisions	T038	UMLS:C0679006
+27602763	118	139	adjuvant chemotherapy	T058	UMLS:C0085533
+27602763	173	182	high risk	T033	UMLS:C0332167
+27602763	183	217	stage I non-small cell lung cancer	T038	UMLS:C0278504
+27602763	219	224	NSCLC	T038	UMLS:C0007131
+27602763	248	257	high risk	T033	UMLS:C0332167
+27602763	293	298	study	T062	UMLS:C2603343
+27602763	328	335	cohorts	T098	UMLS:C0599755
+27602763	364	385	adjuvant chemotherapy	T058	UMLS:C0085533
+27602763	399	404	tumor	T038	UMLS:C0027651
+27602763	418	429	environment	T082	UMLS:C0014406
+27602763	431	434	CD8	T103	UMLS:C0085358
+27602763	437	441	TILs	T017	UMLS:C0079722
+27602763	660	663	CD8	T103	UMLS:C0085358
+27602763	666	670	TILs	T017	UMLS:C0079722
+27602763	714	717	CD8	T103	UMLS:C0085358
+27602763	720	724	TILs	T017	UMLS:C0079722
+27602763	771	785	no correlation	T033	UMLS:C0243095
+27602763	794	799	PD-L1	T103	UMLS:C0965245
+27602763	800	811	expressions	T038	UMLS:C1171362
+27602763	826	831	PD-L1	T103	UMLS:C0965245
+27602763	843	852	expressed	T038	UMLS:C1171362
+27602763	856	859	men	T098	UMLS:C0025266
+27602763	894	903	carcinoma	T038	UMLS:C0278504
+27602763	918	923	Foxp3	T103	UMLS:C1504797
+27602763	926	930	TILs	T017	UMLS:C0079722
+27602763	983	988	Foxp3	T103	UMLS:C1504797
+27602763	998	1001	CD8	T103	UMLS:C0085358
+27602763	1004	1008	TILs	T017	UMLS:C0079722
+27602763	1104	1117	stage I NSCLC	T038	UMLS:C0278504
+27602763	1143	1163	immunohistochemistry	T058	UMLS:C0021044
+27602763	1167	1170	CD8	T103	UMLS:C0085358
+27602763	1173	1203	tumor infiltrating lymphocytes	T017	UMLS:C0079722
+27602763	1205	1209	TILs	T017	UMLS:C0079722
+27602763	1212	1237	programmed death ligand-1	T103	UMLS:C0965245
+27602763	1239	1244	PD-L1	T103	UMLS:C0965245
+27602763	1250	1265	forkhead box P3	T103	UMLS:C1504797
+27602763	1267	1272	Foxp3	T103	UMLS:C1504797
+27602763	1275	1279	TILs	T017	UMLS:C0079722
+27602763	1281	1284	CD8	T103	UMLS:C0085358
+27602763	1287	1291	TILs	T017	UMLS:C0079722
+27602763	1363	1376	stage I NSCLC	T038	UMLS:C0278504
+27602763	1389	1392	CD8	T103	UMLS:C0085358
+27602763	1395	1399	TILs	T017	UMLS:C0079722
+27602763	1424	1445	adjuvant chemotherapy	T058	UMLS:C0085533
+27602763	1468	1477	high risk	T033	UMLS:C0332167

@@ -1,0 +1,31 @@
+17877751|t|Identities, frequencies and origins of TMC1 mutations causing DFNB7/B11 deafness in Pakistan.
+17877751|a|Non-syndromic deafness is genetically heterogeneous. We previously reported that mutations of transmembrane channel-like gene 1 (TMC1) cause non-syndromic recessive deafness at the DFNB7/B11 locus on chromosome 9q13-q21 in nine Pakistani families. The goal of this study was to define the identities, origins and frequencies of TMC1 mutations in an expanded cohort of 557 large Pakistani families segregating recessive deafness. We screened affected family members for homozygosity at short-tandem repeats flanking known autosomal recessive (DFNB) deafness loci, followed by TMC1 sequence analysis in families segregating deafness linked to DFNB7/B11. We identified 10 new families segregating DFNB7/B11 deafness and TMC1 mutations, including three novel alleles. Overall, 9 different TMC1 mutations account for deafness in 19 (3.4%) of the 557 Pakistani families. A single mutation, p.R34X, causes deafness in 10 (1.8%) of the families. Genotype analysis of p.R34X-linked markers indicates that it arose from a common founder. We also detected p.R34X among normal control samples of African-American and northern European origins, raising the possibility that p.R34X and other mutations of TMC1 are prevalent contributors to the genetic load of deafness across a variety of populations and continents.
+17877751	39	43	TMC1	GeneOrGeneProduct	117531
+17877751	62	80	DFNB7/B11 deafness	DiseaseOrPhenotypicFeature	C563417
+17877751	94	116	Non-syndromic deafness	DiseaseOrPhenotypicFeature	D003638
+17877751	188	221	transmembrane channel-like gene 1	GeneOrGeneProduct	117531
+17877751	223	227	TMC1	GeneOrGeneProduct	117531
+17877751	235	267	non-syndromic recessive deafness	DiseaseOrPhenotypicFeature	C564609
+17877751	275	284	DFNB7/B11	GeneOrGeneProduct	117531
+17877751	422	426	TMC1	GeneOrGeneProduct	117531
+17877751	503	521	recessive deafness	DiseaseOrPhenotypicFeature	C564609
+17877751	615	650	autosomal recessive (DFNB) deafness	DiseaseOrPhenotypicFeature	C564609
+17877751	669	673	TMC1	GeneOrGeneProduct	117531
+17877751	716	724	deafness	DiseaseOrPhenotypicFeature	D003638
+17877751	735	744	DFNB7/B11	GeneOrGeneProduct	117531
+17877751	788	806	DFNB7/B11 deafness	DiseaseOrPhenotypicFeature	C563417
+17877751	811	815	TMC1	GeneOrGeneProduct	117531
+17877751	879	883	TMC1	GeneOrGeneProduct	117531
+17877751	906	914	deafness	DiseaseOrPhenotypicFeature	D003638
+17877751	978	984	p.R34X	SequenceVariant	rs121908073
+17877751	993	1001	deafness	DiseaseOrPhenotypicFeature	D003638
+17877751	1053	1059	p.R34X	SequenceVariant	rs121908073
+17877751	1139	1145	p.R34X	SequenceVariant	rs121908073
+17877751	1255	1261	p.R34X	SequenceVariant	rs121908073
+17877751	1285	1289	TMC1	GeneOrGeneProduct	117531
+17877751	1340	1348	deafness	DiseaseOrPhenotypicFeature	D003638
+17877751	Positive_Correlation	rs121908073	D003638	Novel
+17877751	Positive_Correlation	C563417	rs121908073	Novel
+17877751	Association	C563417	117531	Novel
+17877751	Association	D003638	117531	Novel
+17877751	Association	C564609	117531	Novel

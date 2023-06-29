@@ -1,0 +1,104 @@
+27436024|t|Fractal analysis of the ischemic transition region in chronic ischemic heart disease using magnetic resonance imaging
+27436024|a|To introduce a novel hypothesis and method to characterise pathomechanisms underlying myocardial ischemia in chronic ischemic heart disease by local fractal analysis (FA) of the ischemic myocardial transition region in perfusion imaging. Vascular mechanisms to compensate ischemia are regulated at various vascular scales with their superimposed perfusion pattern being hypothetically self-similar. Dedicated FA software (" FraktalWandler ") has been developed. Fractal dimensions during first-pass (FDfirst-pass) and recirculation (FDrecirculation) are hypothesised to indicate the predominating pathomechanism and ischemic severity, respectively. Twenty-six patients with evidence of myocardial ischemia in 108 ischemic myocardial segments on magnetic resonance imaging (MRI) were analysed. The 40th and 60th percentiles of FDfirst-pass were used for pathomechanical classification, assigning lesions with FDfirst-pass ≤ 2.335 to predominating coronary microvascular dysfunction (CMD) and ≥2.387 to predominating coronary artery disease (CAD). Optimal classification point in ROC analysis was FDfirst-pass = 2.358. FDrecirculation correlated moderately with per cent diameter stenosis in invasive coronary angiography in lesions classified CAD (r = 0.472, p = 0.001) but not CMD (r = 0.082, p = 0.600). The ischemic transition region may provide information on pathomechanical composition and severity of myocardial ischemia. FA of this region is feasible and may improve diagnosis compared to traditional noninvasive myocardial perfusion analysis. • A novel hypothesis and method is introduced to pathophysiologically characterise myocardial ischemia. • The ischemic transition region appears a meaningful diagnostic target in perfusion imaging. • Fractal analysis may characterise pathomechanical composition and severity of myocardial ischemia.
+27436024	0	7	Fractal	T077	C0206163
+27436024	8	16	analysis	T062	C0936012
+27436024	24	50	ischemic transition region	T082	C1254362
+27436024	54	84	chronic ischemic heart disease	T047	C0264694
+27436024	91	117	magnetic resonance imaging	T060	C0024485
+27436024	133	138	novel	T080	C0205314
+27436024	139	149	hypothesis	T078	C1512571
+27436024	154	160	method	T170	C0025663
+27436024	177	192	pathomechanisms	T046	C0030660
+27436024	204	223	myocardial ischemia	T047	C0151744
+27436024	227	257	chronic ischemic heart disease	T047	C0264694
+27436024	267	274	fractal	T077	C0206163
+27436024	275	283	analysis	T062	C0936012
+27436024	285	287	FA	T062	C0936012
+27436024	296	304	ischemic	T169	C0475224
+27436024	305	315	myocardial	T082	C1522564
+27436024	316	333	transition region	T082	C1254362
+27436024	337	354	perfusion imaging	T060	C2350393
+27436024	356	364	Vascular	T023	C0005847
+27436024	365	375	mechanisms	T169	C0441712
+27436024	379	389	compensate	T080	C0205432
+27436024	390	398	ischemia	T046	C0022116
+27436024	403	412	regulated	T038	C1327622
+27436024	424	432	vascular	T023	C0005847
+27436024	433	439	scales	T170	C0349674
+27436024	451	473	superimposed perfusion	T060	C2350393
+27436024	474	481	pattern	T082	C0449774
+27436024	488	502	hypothetically	T078	C1512571
+27436024	503	515	self-similar	T080	C2348205
+27436024	527	529	FA	T062	C0936012
+27436024	530	538	software	T073,T170	C0037585
+27436024	542	556	FraktalWandler	T170	C0037589
+27436024	580	587	Fractal	T077	C0206163
+27436024	588	598	dimensions	T081	C0439534
+27436024	606	616	first-pass	T079	C0444693
+27436024	618	630	FDfirst-pass	T079	C0444693
+27436024	636	649	recirculation	T040	C1516559
+27436024	651	666	FDrecirculation	T040	C1516559
+27436024	672	684	hypothesised	T078	C1512571
+27436024	715	729	pathomechanism	T046	C0030660
+27436024	734	742	ischemic	T169	C0475224
+27436024	743	751	severity	T080	C0439793
+27436024	778	786	patients	T101	C0030705
+27436024	804	823	myocardial ischemia	T047	C0151744
+27436024	831	839	ischemic	T169	C0475224
+27436024	840	850	myocardial	T082	C1522564
+27436024	851	859	segments	T082	C0442059
+27436024	863	889	magnetic resonance imaging	T060	C0024485
+27436024	891	894	MRI	T060	C0024485
+27436024	929	940	percentiles	T081	C1264641
+27436024	944	956	FDfirst-pass	T079	C0444693
+27436024	971	986	pathomechanical	T169	C0205469
+27436024	987	1001	classification	T185	C0008902
+27436024	1013	1020	lesions	T033	C0221198
+27436024	1026	1038	FDfirst-pass	T079	C0444693
+27436024	1064	1098	coronary microvascular dysfunction	T047	C2827469
+27436024	1100	1103	CMD	T047	C2827469
+27436024	1133	1156	coronary artery disease	T047	C3495826
+27436024	1158	1161	CAD	T047	C3495826
+27436024	1164	1171	Optimal	T080	C2698651
+27436024	1172	1186	classification	T185	C0008902
+27436024	1196	1199	ROC	T081	C1527113
+27436024	1200	1208	analysis	T062	C0936012
+27436024	1213	1225	FDfirst-pass	T079	C0444693
+27436024	1235	1250	FDrecirculation	T040	C1516559
+27436024	1251	1261	correlated	T080	C1707520
+27436024	1278	1304	per cent diameter stenosis	T082	C3897965
+27436024	1308	1316	invasive	T080	C0205281
+27436024	1317	1337	coronary angiography	T060	C0085532
+27436024	1341	1348	lesions	T033	C0221198
+27436024	1360	1363	CAD	T047	C3495826
+27436024	1395	1398	CMD	T047	C2827469
+27436024	1427	1435	ischemic	T046	C0022116
+27436024	1436	1446	transition	T052	C2700061
+27436024	1447	1453	region	T029	C0005898
+27436024	1466	1477	information	T078	C1533716
+27436024	1481	1508	pathomechanical composition	T169	C0205469
+27436024	1513	1521	severity	T080	C0439793
+27436024	1525	1544	myocardial ischemia	T047	C0151744
+27436024	1536	1544	ischemia	T046	C0022116
+27436024	1546	1548	FA	T062	C0936012
+27436024	1557	1563	region	T029	C0005898
+27436024	1584	1591	improve	T033	C0184511
+27436024	1592	1601	diagnosis	T033	C0011900
+27436024	1614	1625	traditional	T169	C0443324
+27436024	1626	1637	noninvasive	T185	C2986496
+27436024	1638	1658	myocardial perfusion	T032	C0428857
+27436024	1659	1667	analysis	T062	C0936012
+27436024	1673	1678	novel	T080	C0205314
+27436024	1679	1689	hypothesis	T078	C1512571
+27436024	1694	1700	method	T170	C0025663
+27436024	1718	1738	pathophysiologically	T169	C0031847
+27436024	1752	1771	myocardial ischemia	T047	C0151744
+27436024	1779	1787	ischemic	T046	C0022116
+27436024	1788	1798	transition	T052	C2700061
+27436024	1799	1805	region	T029	C0005898
+27436024	1848	1865	perfusion imaging	T060	C2350393
+27436024	1869	1876	Fractal	T077	C0206163
+27436024	1877	1885	analysis	T062	C0936012
+27436024	1935	1943	severity	T080	C0439793
+27436024	1947	1966	myocardial ischemia	T047	C0151744
+27436024	1958	1966	ischemia	T046	C0022116

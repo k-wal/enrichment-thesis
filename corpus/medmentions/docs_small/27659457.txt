@@ -1,0 +1,37 @@
+27659457|t|Prognostic significance of blood pressure response during vasodilator stress Rb-82 positron emission tomography myocardial perfusion imaging
+27659457|a|A drop in blood pressure (BP) or blunted BP response is an established high-risk marker during exercise myocardial perfusion imaging (MPI); however, data are sparse regarding the prognostic value of BP response in patients undergoing vasodilator stress rubidium-82 (Rb-82) Positron Emission Tomography (PET) MPI. From the PET Prognosis Multicenter Registry, a cohort of 3413 patients underwent vasodilator stress Rb-82 PET MPI with dipyridamole or adenosine. We used multivariable Cox proportional hazard regression to analyze the association with mortality of four BP variables: stress minus rest systolic BP (∆SBP), stress minus rest diastolic BP (∆DBP), resting systolic BP (rSBP), and resting diastolic BP (rDBP). Covariates that had univariate P values <.10 were entered into the multivariable model. After median 1.7 years follow-up, 270 patients died. In univariate analyses, ∆SBP (P = .082), rSBP (P = .008), and rDBP (P < .001) were of potential prognostic value (P < .10), but ∆DBP was not (P = .96). After adjustment for other clinical and MPI variables, ∆SBP no longer independently predicted mortality (P = .082); only lower rSBP (P = .026) and lower rDBP (P = .045) remained independently prognostic. In patients undergoing vasodilator stress MPI, only lower resting BP is an independent predictor of mortality along with other clinical and MPI variables; BP response does not appear to add to risk stratification in these patients.
+27659457	0	10	Prognostic	T170	UMLS:C0220901
+27659457	27	50	blood pressure response	T201	UMLS:C1997183
+27659457	58	140	vasodilator stress Rb-82 positron emission tomography myocardial perfusion imaging	T058	UMLS:C3525535
+27659457	151	165	blood pressure	T038	UMLS:C0005823
+27659457	167	169	BP	T038	UMLS:C0005823
+27659457	182	184	BP	T038	UMLS:C0005823
+27659457	245	273	myocardial perfusion imaging	T058	UMLS:C2350390
+27659457	275	278	MPI	T058	UMLS:C2350390
+27659457	320	330	prognostic	T170	UMLS:C0220901
+27659457	340	342	BP	T038	UMLS:C0005823
+27659457	375	452	vasodilator stress rubidium-82 (Rb-82) Positron Emission Tomography (PET) MPI	T058	UMLS:C3525535
+27659457	444	447	PET	T058	UMLS:C0032743
+27659457	463	466	PET	T058	UMLS:C0032743
+27659457	467	497	Prognosis Multicenter Registry	T062	UMLS:C0920631
+27659457	501	507	cohort	T098	UMLS:C0599755
+27659457	535	567	vasodilator stress Rb-82 PET MPI	T058	UMLS:C3525535
+27659457	573	585	dipyridamole	T103	UMLS:C0012582
+27659457	589	598	adenosine	T103	UMLS:C0001443
+27659457	707	709	BP	T038	UMLS:C0005823
+27659457	752	756	∆SBP	T058	UMLS:C1306620
+27659457	791	795	∆DBP	T058	UMLS:C1306620
+27659457	926	945	multivariable model	T170	UMLS:C0023965
+27659457	953	959	median	T082	UMLS:C2939193
+27659457	994	998	died	T033	UMLS:C1306577
+27659457	1024	1028	∆SBP	T058	UMLS:C1306620
+27659457	1096	1106	prognostic	T170	UMLS:C0220901
+27659457	1128	1132	∆DBP	T058	UMLS:C1306620
+27659457	1192	1195	MPI	T058	UMLS:C2350390
+27659457	1207	1211	∆SBP	T058	UMLS:C1306620
+27659457	1344	1354	prognostic	T170	UMLS:C0220901
+27659457	1379	1401	vasodilator stress MPI	T058	UMLS:C2350390
+27659457	1414	1424	resting BP	T033	UMLS:C0243095
+27659457	1496	1499	MPI	T058	UMLS:C2350390
+27659457	1511	1513	BP	T038	UMLS:C0005823
+27659457	1554	1568	stratification	T062	UMLS:C1514983

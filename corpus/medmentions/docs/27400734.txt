@@ -1,0 +1,118 @@
+27400734|t|Erlotinib plus gemcitabine versus gemcitabine for pancreatic cancer: real - world analysis of Korean national database
+27400734|a|A randomized clinical trial has found that the addition of erlotinib to gemcitabine (GEM - E) for pancreatic cancer led to a modest increase in survival. The aim of this national population - based retrospective study was to compare the effectiveness of GEM - E to GEM alone for pancreatic cancer patients in real clinical practice. Patients with pancreatic cancer (ICD-10: C25) with prescription claims of gemcitabine or erlotinib between Jan 1, 2007 and Dec 31, 2012 were retrospectively identified from the Korean Health Insurance claims database. To be included in the study population, patients were required to have had a histological or cytological diagnosis within one year before chemotherapy. Patients treated with prior radiotherapy, surgery, or chemotherapy were excluded to reduce heterogeneity. Overall survival from the initiation of therapy and the medical costs of GEM - E and GEM were compared. A total of 4,267 patients were included in the analysis. Overall survival was not significantly longer in patients treated with GEM - E (median 6.77 months for GEM - E vs. 6.68 months for GEM, p = 0.0977). There was also no significant difference in the respective one-year survival rates (27.0 % vs. 27.3 %; p = 0.5988). Multivariate analysis using age, gender, and comorbidities as covariates did not reveal any significant differences in survival. Based on this relative effectiveness, the incremental cost per life year gained over GEM was estimated at USD 70,843.64 for GEM - E. GEM - E for pancreatic cancer is not more effective than GEM in a real - world setting, and it does not provide reasonable cost-effectiveness over GEM.
+27400734	0	9	Erlotinib	T109,T121	C1135135
+27400734	15	26	gemcitabine	T114,T121	C0045093
+27400734	34	45	gemcitabine	T114,T121	C0045093
+27400734	50	67	pancreatic cancer	T191	C0235974
+27400734	69	73	real	T080	C0237400
+27400734	76	81	world	T098	C2700280
+27400734	82	90	analysis	T062	C0936012
+27400734	94	100	Korean	T083	C0022771
+27400734	101	109	national	T092	C0015737
+27400734	110	118	database	T170	C0242356
+27400734	121	146	randomized clinical trial	T062,T170	C0206034
+27400734	166	174	addition	T067	C0596304
+27400734	178	187	erlotinib	T109,T121	C1135135
+27400734	191	202	gemcitabine	T114,T121	C0045093
+27400734	204	207	GEM	T114,T121	C0045093
+27400734	210	211	E	T109,T121	C1135135
+27400734	217	234	pancreatic cancer	T191	C0235974
+27400734	244	250	modest	T080	C0205081
+27400734	251	259	increase	T169	C0442805
+27400734	263	271	survival	T052	C0038952
+27400734	277	280	aim	T078	C1947946
+27400734	289	297	national	T082	C0681788
+27400734	298	308	population	T098	C1257890
+27400734	311	316	based	T169	C1527178
+27400734	317	336	retrospective study	T062	C0035363
+27400734	344	351	compare	T052	C1707455
+27400734	356	369	effectiveness	T080	C1280519
+27400734	373	376	GEM	T114,T121	C0045093
+27400734	379	380	E	T109,T121	C1135135
+27400734	384	387	GEM	T114,T121	C0045093
+27400734	398	415	pancreatic cancer	T191	C0235974
+27400734	416	424	patients	T101	C0030705
+27400734	428	450	real clinical practice	T057	C0205897
+27400734	452	460	Patients	T101	C0030705
+27400734	466	483	pancreatic cancer	T191	C0235974
+27400734	484	491	(ICD-10	T170	C1137110
+27400734	503	515	prescription	T170	C1521941
+27400734	526	537	gemcitabine	T114,T121	C0045093
+27400734	541	550	erlotinib	T109,T121	C1135135
+27400734	593	608	retrospectively	T080	C1514923
+27400734	609	619	identified	T080	C0205396
+27400734	629	635	Korean	T083	C0022771
+27400734	636	652	Health Insurance	T058	C0027452
+27400734	660	668	database	T170	C0242356
+27400734	692	697	study	T062	C2603343
+27400734	698	708	population	T098	C1257890
+27400734	710	718	patients	T101	C0030705
+27400734	724	732	required	T169	C1514873
+27400734	747	759	histological	UnknownType	C0679557
+27400734	763	784	cytological diagnosis	T033	C1298647
+27400734	808	820	chemotherapy	T061	C3665472
+27400734	822	830	Patients	T101	C0030705
+27400734	831	843	treated with	T033	C0332154
+27400734	850	862	radiotherapy	T061	C1522449
+27400734	864	871	surgery	T058	C2081627
+27400734	876	888	chemotherapy	T061	C3665472
+27400734	894	902	excluded	T078	C1554077
+27400734	906	912	reduce	T061	C0441610
+27400734	913	926	heterogeneity	T080	C0019409
+27400734	936	944	survival	T052	C0038952
+27400734	954	964	initiation	T169	C1704686
+27400734	968	975	therapy	T061	C0087111
+27400734	984	997	medical costs	T081	C0086600
+27400734	1001	1004	GEM	T114,T121	C0045093
+27400734	1007	1008	E	T109,T121	C1135135
+27400734	1013	1016	GEM	T114,T121	C0045093
+27400734	1022	1030	compared	T052	C1707455
+27400734	1049	1057	patients	T101	C0030705
+27400734	1079	1087	analysis	T062	C0936012
+27400734	1097	1105	survival	T052	C0038952
+27400734	1114	1127	significantly	T078	C0750502
+27400734	1128	1134	longer	T080	C0205166
+27400734	1138	1146	patients	T101	C0030705
+27400734	1147	1154	treated	T033	C0332154
+27400734	1160	1163	GEM	T114,T121	C0045093
+27400734	1166	1167	E	T109,T121	C1135135
+27400734	1169	1175	median	T081	C0876920
+27400734	1192	1195	GEM	T114,T121	C0045093
+27400734	1198	1199	E	T109,T121	C1135135
+27400734	1220	1223	GEM	T114,T121	C0045093
+27400734	1253	1267	no significant	T033	C3694175
+27400734	1268	1278	difference	T081	C1705241
+27400734	1306	1320	survival rates	T081	C0038954
+27400734	1354	1375	Multivariate analysis	T081	C0026777
+27400734	1382	1385	age	T032	C0001779
+27400734	1387	1393	gender	T032	C0079399
+27400734	1399	1412	comorbidities	T078	C0009488
+27400734	1416	1426	covariates	UnknownType	C0814913
+27400734	1435	1441	reveal	T080	C0443289
+27400734	1446	1457	significant	T078	C0750502
+27400734	1458	1469	differences	T081	C1705241
+27400734	1473	1481	survival	T052	C0038952
+27400734	1483	1488	Based	T169	C1527178
+27400734	1497	1519	relative effectiveness	T081	C0035023
+27400734	1525	1536	incremental	T081	C1705117
+27400734	1537	1541	cost	T081	C0010186
+27400734	1546	1550	life	T078	C0376558
+27400734	1551	1555	year	T079	C0439234
+27400734	1556	1562	gained	T081	C1517378
+27400734	1568	1571	GEM	T114,T121	C0045093
+27400734	1576	1585	estimated	T081	C0750572
+27400734	1589	1592	USD	T081	C1555442
+27400734	1607	1610	GEM	T114,T121	C0045093
+27400734	1613	1614	E	T109,T121	C1135135
+27400734	1616	1619	GEM	T114,T121	C0045093
+27400734	1622	1623	E	T109,T121	C1135135
+27400734	1628	1645	pancreatic cancer	T191	C0235974
+27400734	1658	1667	effective	T080	C1704419
+27400734	1673	1676	GEM	T114,T121	C0045093
+27400734	1682	1686	real	T080	C0237400
+27400734	1689	1694	world	T098	C2700280
+27400734	1695	1702	setting	T078	C1552652
+27400734	1720	1727	provide	T052	C1999230
+27400734	1728	1738	reasonable	T033	C0566251
+27400734	1739	1757	cost-effectiveness	T081	C0010181
+27400734	1763	1766	GEM	T114,T121	C0045093

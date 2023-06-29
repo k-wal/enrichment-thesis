@@ -1,0 +1,60 @@
+27855102|t|Non-inferiority trials: are they inferior? A systematic review of reporting in major medical journals
+27855102|a|To assess the adequacy of reporting of non-inferiority trials alongside the consistency and utility of current recommended analyses and guidelines. Review of randomised clinical trials that used a non-inferiority design published between January 2010 and May 2015 in medical journals that had an impact factor >10 (JAMA Internal Medicine, Archives Internal Medicine, PLOS Medicine, Annals of Internal Medicine, BMJ, JAMA, Lancet and New England Journal of Medicine). Ovid (MEDLINE). We searched for non-inferiority trials and assessed the following: choice of non-inferiority margin and justification of margin; power and significance level for sample size; patient population used and how this was defined; any missing data methods used and assumptions declared and any sensitivity analyses used. A total of 168 trial publications were included. Most trials concluded non-inferiority (132; 79%). The non-inferiority margin was reported for 98% (164), but less than half reported any justification for the margin (77; 46%). While most chose two different analyses (91; 54%) the most common being intention-to-treat (ITT) or modified ITT and per-protocol, a large number of articles only chose to conduct and report one analysis (65; 39%), most commonly the ITT analysis. There was lack of clarity or inconsistency between the type I error rate and corresponding CIs for 73 (43%) articles. Missing data were rarely considered with (99; 59%) not declaring whether imputation techniques were used. Reporting and conduct of non-inferiority trials is inconsistent and does not follow the recommendations in available statistical guidelines, which are not wholly consistent themselves. Authors should clearly describe the methods used and provide clear descriptions of and justifications for their design and primary analysis. Failure to do this risks misleading conclusions being drawn, with consequent effects on clinical practice.
+27855102	0	15	Non-inferiority	T033	UMLS:C0243095
+27855102	16	22	trials	T062	UMLS:C0008976
+27855102	33	41	inferior	T082	UMLS:C0542339
+27855102	45	62	systematic review	T170	UMLS:C1955832
+27855102	66	75	reporting	T062	UMLS:C0011000
+27855102	85	101	medical journals	T170	UMLS:C0162443
+27855102	128	137	reporting	T062	UMLS:C0011000
+27855102	141	156	non-inferiority	T033	UMLS:C0243095
+27855102	157	163	trials	T062	UMLS:C0008976
+27855102	225	233	analyses	T062	UMLS:C0936012
+27855102	238	248	guidelines	T170	UMLS:C0162791
+27855102	260	270	randomised	T062	UMLS:C0034656
+27855102	271	286	clinical trials	T062	UMLS:C0008976
+27855102	299	314	non-inferiority	T033	UMLS:C0243095
+27855102	369	385	medical journals	T170	UMLS:C0162443
+27855102	417	439	JAMA Internal Medicine	T170	UMLS:C0282574
+27855102	441	467	Archives Internal Medicine	T170	UMLS:C0282574
+27855102	469	482	PLOS Medicine	T170	UMLS:C0282574
+27855102	484	511	Annals of Internal Medicine	T170	UMLS:C0282574
+27855102	513	516	BMJ	T170	UMLS:C0282574
+27855102	518	522	JAMA	T170	UMLS:C0282574
+27855102	524	566	Lancet and New England Journal of Medicine	T170	UMLS:C0282574
+27855102	569	573	Ovid	T170	UMLS:C0282574
+27855102	575	582	MEDLINE	T170	UMLS:C0025141
+27855102	601	616	non-inferiority	T033	UMLS:C0243095
+27855102	617	623	trials	T062	UMLS:C0008976
+27855102	662	677	non-inferiority	T033	UMLS:C0243095
+27855102	689	702	justification	T033	UMLS:C0566251
+27855102	827	834	methods	T170	UMLS:C0025663
+27855102	885	893	analyses	T062	UMLS:C0936012
+27855102	915	920	trial	T062	UMLS:C0008976
+27855102	921	933	publications	T170	UMLS:C0034036
+27855102	954	960	trials	T062	UMLS:C0008976
+27855102	971	986	non-inferiority	T033	UMLS:C0243095
+27855102	1003	1018	non-inferiority	T033	UMLS:C0243095
+27855102	1030	1038	reported	T170	UMLS:C0684224
+27855102	1086	1099	justification	T033	UMLS:C0566251
+27855102	1157	1165	analyses	T062	UMLS:C0936012
+27855102	1198	1216	intention-to-treat	T062	UMLS:C2718028
+27855102	1218	1221	ITT	T062	UMLS:C2718028
+27855102	1235	1238	ITT	T062	UMLS:C2718028
+27855102	1275	1283	articles	T170	UMLS:C1706852
+27855102	1310	1316	report	T170	UMLS:C0684224
+27855102	1321	1329	analysis	T062	UMLS:C0936012
+27855102	1359	1371	ITT analysis	T062	UMLS:C2718028
+27855102	1428	1434	type I	T170	UMLS:C0441729
+27855102	1481	1489	articles	T170	UMLS:C1706852
+27855102	1597	1606	Reporting	T062	UMLS:C0011000
+27855102	1622	1637	non-inferiority	T033	UMLS:C0243095
+27855102	1638	1644	trials	T062	UMLS:C0008976
+27855102	1714	1736	statistical guidelines	T170	UMLS:C0162791
+27855102	1782	1789	Authors	T097	UMLS:C3812881
+27855102	1818	1825	methods	T170	UMLS:C0025663
+27855102	1849	1861	descriptions	T170	UMLS:C0678257
+27855102	1869	1883	justifications	T033	UMLS:C0566251
+27855102	1894	1900	design	T062	UMLS:C0015320
+27855102	1913	1921	analysis	T062	UMLS:C0936012
+27855102	2011	2028	clinical practice	T062	UMLS:C0008972

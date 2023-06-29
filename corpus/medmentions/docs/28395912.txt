@@ -1,0 +1,101 @@
+28395912|t|Dobutamine Stress Echocardiography: Impact of Abnormal Blood Potassium Levels on Cardiac Arrhythmias
+28395912|a|Guidelines suggest that an abnormal blood potassium level is a relative contraindication to performing dobutamine stress echocardiography (DSE). However, this has not been previously studied. We reviewed a consecutive series of patients who had potassium testing within 48 hours of undergoing DSE for the evaluation of myocardial ischemia over a 10- year period (N = 13,198). Normal potassium range in our laboratory is 3.6-5.2 mmol/L. Hemolyzed samples were not included. The association of potassium levels with the development of supraventricular and ventricular arrhythmias was assessed. The incidence of clinically significant arrhythmias was very low (supraventricular tachycardia / atrial fibrillation, 4.9%; nonsustained ventricular tachycardia, 2.9%; sustained ventricular tachycardia or ventricular fibrillation, 0.1%), confirming the overall safety of DSE. Most arrhythmias (88%) occurred in patients with normal potassium levels, and arrhythmia rates remained low in patients with potassium abnormalities. Patients with hyperkalemia had a lower risk of developing mild (odds ratio [OR], 0.39; 95% CI, 0.22-0.71) and severe (OR, 0.13; 95% CI, 0.01-0.68) supraventricular arrhythmias as well as mild ventricular arrhythmias (OR, 0.58; 95% CI, 0.40-0.83). Even though events were rare, patients with severe hypokalemia (potassium levels ≤ 3.1 mmol/L) had an increased risk of supraventricular arrhythmia and ventricular ectopy. DSE is safe even in the setting of abnormalities in blood potassium concentrations, and hence cancellation of DSE in patients with potassium abnormalities does not appear warranted. Elevated potassium levels are associated with lower rates of clinically significant supraventricular and ventricular arrhythmias. While remaining at relatively low risk, patients with very low potassium levels (≤3.1 mmol/L) at the time of DSE have a modestly increased risk of arrhythmia. Consideration could be given to correcting severe hypokalemia prior to DSE.
+28395912	0	34	Dobutamine Stress Echocardiography	T060	C0949700
+28395912	36	42	Impact	T080	C4049986
+28395912	46	54	Abnormal	T033	C0205161
+28395912	55	77	Blood Potassium Levels	T034	C1261540
+28395912	81	100	Cardiac Arrhythmias	T033	C0003811
+28395912	101	111	Guidelines	T170	C0162791
+28395912	128	136	abnormal	T033	C0205161
+28395912	137	158	blood potassium level	T034	C1261540
+28395912	173	189	contraindication	T080	C0522473
+28395912	193	203	performing	T169	C0884358
+28395912	204	238	dobutamine stress echocardiography	T060	C0949700
+28395912	240	243	DSE	T060	C0949700
+28395912	296	304	reviewed	T080	C1709940
+28395912	307	337	consecutive series of patients	T062	C2985408
+28395912	346	355	potassium	T123,T196	C0032821
+28395912	356	363	testing	T169	C0039593
+28395912	374	379	hours	T079	C0439227
+28395912	394	397	DSE	T060	C0949700
+28395912	406	416	evaluation	T058	C0220825
+28395912	420	439	myocardial ischemia	T047	C0151744
+28395912	451	455	year	T079	C0439234
+28395912	456	462	period	T079	C1948053
+28395912	484	493	potassium	T123,T196	C0032821
+28395912	494	499	range	T081	C1514721
+28395912	507	517	laboratory	T073,T093	C0022877
+28395912	537	554	Hemolyzed samples	T033	C0475880
+28395912	578	589	association	T080	C0439849
+28395912	593	609	potassium levels	T033	C0428289
+28395912	619	630	development	T169	C1527148
+28395912	634	650	supraventricular	T046	C0428974
+28395912	655	678	ventricular arrhythmias	T047	C0085612
+28395912	683	691	assessed	T052	C1516048
+28395912	733	744	arrhythmias	T033	C0003811
+28395912	754	757	low	T080	C0205251
+28395912	759	787	supraventricular tachycardia	T047	C0039240
+28395912	790	809	atrial fibrillation	T047	C0004238
+28395912	817	853	nonsustained ventricular tachycardia	T046	C2919575
+28395912	861	894	sustained ventricular tachycardia	T047	C0750197
+28395912	898	922	ventricular fibrillation	T047	C0042510
+28395912	946	960	overall safety	T068	C0036043
+28395912	964	967	DSE	T060	C0949700
+28395912	974	985	arrhythmias	T033	C0003811
+28395912	1004	1012	patients	T101	C0030705
+28395912	1025	1041	potassium levels	T033	C0428289
+28395912	1047	1057	arrhythmia	T033	C0003811
+28395912	1058	1063	rates	T081	C1521828
+28395912	1073	1076	low	T080	C0205251
+28395912	1080	1088	patients	T101	C0030705
+28395912	1094	1103	potassium	T123,T196	C0032821
+28395912	1104	1117	abnormalities	T033	C1704258
+28395912	1119	1127	Patients	T101	C0030705
+28395912	1133	1145	hyperkalemia	T033	C0020461
+28395912	1158	1162	risk	T078	C0035647
+28395912	1177	1181	mild	T080	C2945599
+28395912	1183	1193	odds ratio	T081	C0028873
+28395912	1195	1197	OR	T081	C0028873
+28395912	1210	1212	CI	T081	C0009667
+28395912	1229	1235	severe	T080	C0205082
+28395912	1237	1239	OR	T081	C0028873
+28395912	1251	1253	CI	T081	C0009667
+28395912	1266	1294	supraventricular arrhythmias	T046	C0428974
+28395912	1306	1310	mild	T080	C2945599
+28395912	1311	1334	ventricular arrhythmias	T047	C0085612
+28395912	1336	1338	OR	T081	C0028873
+28395912	1350	1352	CI	T081	C0009667
+28395912	1390	1394	rare	T080	C0522498
+28395912	1396	1404	patients	T101	C0030705
+28395912	1410	1416	severe	T080	C0205082
+28395912	1417	1428	hypokalemia	T033	C0020621
+28395912	1430	1446	potassium levels	T033	C0428289
+28395912	1468	1477	increased	T081	C0205217
+28395912	1478	1482	risk	T078	C0035647
+28395912	1486	1513	supraventricular arrhythmia	T046	C0428974
+28395912	1518	1536	ventricular ectopy	T047	C0012634
+28395912	1538	1541	DSE	T060	C0949700
+28395912	1573	1586	abnormalities	T033	C1704258
+28395912	1590	1620	blood potassium concentrations	T034	C1261540
+28395912	1648	1651	DSE	T060	C0949700
+28395912	1655	1663	patients	T101	C0030705
+28395912	1669	1678	potassium	T123,T196	C0032821
+28395912	1679	1692	abnormalities	T033	C1704258
+28395912	1720	1728	Elevated	T080	C3163633
+28395912	1729	1745	potassium levels	T033	C0428289
+28395912	1750	1765	associated with	T080	C0332281
+28395912	1804	1820	supraventricular	T046	C0428974
+28395912	1825	1848	ventricular arrhythmias	T047	C0085612
+28395912	1880	1883	low	T080	C0205251
+28395912	1884	1888	risk	T078	C0035647
+28395912	1890	1898	patients	T101	C0030705
+28395912	1909	1912	low	T080	C0205251
+28395912	1913	1929	potassium levels	T033	C0428289
+28395912	1959	1962	DSE	T060	C0949700
+28395912	1979	1988	increased	T081	C0205217
+28395912	1989	1993	risk	T078	C0035647
+28395912	1997	2007	arrhythmia	T033	C0003811
+28395912	2052	2058	severe	T080	C0205082
+28395912	2059	2070	hypokalemia	T033	C0020621
+28395912	2071	2076	prior	T079	C0332152
+28395912	2080	2083	DSE	T060	C0949700

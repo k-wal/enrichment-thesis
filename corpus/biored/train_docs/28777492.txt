@@ -1,0 +1,63 @@
+28777492|t|Gankyrin induces STAT3 activation in tumor microenvironment and sorafenib resistance in hepatocellular carcinoma.
+28777492|a|Most hepatocellular carcinomas (HCC) develop as a result of chronic liver inflammation. We have shown that the oncoprotein gankyrin is critical for inflammation-induced tumorigenesis in the colon. Although the in vitro function of gankyrin is well known, its role in vivo remains to be elucidated. We investigated the effect of gankyrin in the tumor microenvironment of mice with liver parenchymal cell-specific gankyrin ablation (Alb-Cre;gankyrin(f/f) ) and gankyrin deletion both in liver parenchymal and non-parenchymal cells (Mx1-Cre;gankyrin(f/f) ). Gankyrin upregulates vascular endothelial growth factor expression in tumor cells. Gankyrin binds to Src homology 2 domain-containing protein tyrosine phosphatase-1 (SHP-1), mainly expressed in liver non-parenchymal cells, resulting in phosphorylation and activation of signal transducer and activator of transcription 3 (STAT3). Gankyrin deficiency in non-parenchymal cells, but not in parenchymal cells, reduced STAT3 activity, interleukin (IL)-6 production, and cancer stem cell marker (Bmi1 and epithelial cell adhesion molecule [EpCAM]) expression, leading to attenuated tumorigenic potential. Chronic inflammation enhances gankyrin expression in the human liver. Gankyrin expression in the tumor microenvironment is negatively correlated with progression-free survival in patients undergoing sorafenib treatment for HCC. Thus, gankyrin appears to play a critical oncogenic function in tumor microenvironment and may be a potential target for developing therapeutic and preventive strategies against HCC.
+28777492	0	8	Gankyrin	GeneOrGeneProduct	53380
+28777492	17	22	STAT3	GeneOrGeneProduct	20848
+28777492	37	42	tumor	DiseaseOrPhenotypicFeature	D009369
+28777492	64	73	sorafenib	ChemicalEntity	D000077157
+28777492	88	112	hepatocellular carcinoma	DiseaseOrPhenotypicFeature	D006528
+28777492	119	144	hepatocellular carcinomas	DiseaseOrPhenotypicFeature	D006528
+28777492	146	149	HCC	DiseaseOrPhenotypicFeature	D006528
+28777492	174	200	chronic liver inflammation	DiseaseOrPhenotypicFeature	D007249
+28777492	225	236	oncoprotein	GeneOrGeneProduct	53380
+28777492	237	245	gankyrin	GeneOrGeneProduct	53380
+28777492	262	274	inflammation	DiseaseOrPhenotypicFeature	D007249
+28777492	283	296	tumorigenesis	DiseaseOrPhenotypicFeature	D009369
+28777492	345	353	gankyrin	GeneOrGeneProduct	5716
+28777492	442	450	gankyrin	GeneOrGeneProduct	53380
+28777492	458	463	tumor	DiseaseOrPhenotypicFeature	D009369
+28777492	484	488	mice	OrganismTaxon	10090
+28777492	526	534	gankyrin	GeneOrGeneProduct	53380
+28777492	545	548	Alb	GeneOrGeneProduct	11657
+28777492	553	561	gankyrin	GeneOrGeneProduct	53380
+28777492	573	581	gankyrin	GeneOrGeneProduct	53380
+28777492	644	647	Mx1	GeneOrGeneProduct	17857
+28777492	652	660	gankyrin	GeneOrGeneProduct	53380
+28777492	669	677	Gankyrin	GeneOrGeneProduct	5716
+28777492	690	724	vascular endothelial growth factor	GeneOrGeneProduct	22339
+28777492	739	744	tumor	DiseaseOrPhenotypicFeature	D009369
+28777492	752	760	Gankyrin	GeneOrGeneProduct	53380
+28777492	770	833	Src homology 2 domain-containing protein tyrosine phosphatase-1	GeneOrGeneProduct	15170
+28777492	835	840	SHP-1	GeneOrGeneProduct	15170
+28777492	939	989	signal transducer and activator of transcription 3	GeneOrGeneProduct	20848
+28777492	991	996	STAT3	GeneOrGeneProduct	20848
+28777492	999	1007	Gankyrin	GeneOrGeneProduct	53380
+28777492	1083	1088	STAT3	GeneOrGeneProduct	20848
+28777492	1099	1117	interleukin (IL)-6	GeneOrGeneProduct	16193
+28777492	1134	1140	cancer	DiseaseOrPhenotypicFeature	D009369
+28777492	1159	1163	Bmi1	GeneOrGeneProduct	12151
+28777492	1168	1201	epithelial cell adhesion molecule	GeneOrGeneProduct	17075
+28777492	1203	1208	EpCAM	GeneOrGeneProduct	17075
+28777492	1245	1256	tumorigenic	DiseaseOrPhenotypicFeature	D009369
+28777492	1268	1288	Chronic inflammation	DiseaseOrPhenotypicFeature	D007249
+28777492	1298	1306	gankyrin	GeneOrGeneProduct	5716
+28777492	1325	1330	human	OrganismTaxon	9606
+28777492	1338	1346	Gankyrin	GeneOrGeneProduct	5716
+28777492	1365	1370	tumor	DiseaseOrPhenotypicFeature	D009369
+28777492	1447	1455	patients	OrganismTaxon	9606
+28777492	1467	1476	sorafenib	ChemicalEntity	D000077157
+28777492	1491	1494	HCC	DiseaseOrPhenotypicFeature	D006528
+28777492	1502	1510	gankyrin	GeneOrGeneProduct	53380
+28777492	1560	1565	tumor	DiseaseOrPhenotypicFeature	D009369
+28777492	1674	1677	HCC	DiseaseOrPhenotypicFeature	D006528
+28777492	Positive_Correlation	D007249	5716	Novel
+28777492	Positive_Correlation	5716	22339	Novel
+28777492	Negative_Correlation	D000077157	D006528	No
+28777492	Association	53380	D006528	Novel
+28777492	Association	53380	D007249	No
+28777492	Association	53380	D009369	Novel
+28777492	Positive_Correlation	53380	17075	Novel
+28777492	Positive_Correlation	53380	12151	Novel
+28777492	Positive_Correlation	53380	16193	Novel
+28777492	Bind	53380	15170	Novel
+28777492	Negative_Correlation	53380	D000077157	Novel
+28777492	Positive_Correlation	53380	20848	Novel

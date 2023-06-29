@@ -1,0 +1,27 @@
+17395743|t|Identification of PVT1 as a candidate gene for end-stage renal disease in type 2 diabetes using a pooling-based genome-wide single nucleotide polymorphism association study.
+17395743|a|To identify genetic variants contributing to end-stage renal disease (ESRD) in type 2 diabetes, we performed a genome-wide analysis of 115,352 single nucleotide polymorphisms (SNPs) in pools of 105 unrelated case subjects with ESRD and 102 unrelated control subjects who have had type 2 diabetes for > or =10 years without macroalbuminuria. Using a sliding window statistic of ranked SNPs, we identified a 200-kb region on 8q24 harboring three SNPs showing substantial differences in allelic frequency between case and control pools. These SNPs were genotyped in individuals comprising each pool, and strong evidence for association was found with rs2720709 (P = 0.000021; odds ratio 2.57 [95% CI 1.66-3.96]), which is located in the plasmacytoma variant translocation gene PVT1. We sequenced all exons, exon-intron boundaries, and the promoter of PVT1 and identified 47 variants, 11 of which represented nonredundant markers with minor allele frequency > or =0.05. We subsequently genotyped these 11 variants and an additional 87 SNPs identified through public databases in 319-kb flanking rs2720709 ( approximately 1 SNP/3.5 kb); 23 markers were associated with ESRD at P < 0.01. The strongest evidence for association was found for rs2648875 (P = 0.0000018; 2.97 [1.90-4.65]), which maps to intron 8 of PVT1. Together, these results suggest that PVT1 may contribute to ESRD susceptibility in diabetes.
+17395743	18	22	PVT1	GeneOrGeneProduct	5820
+17395743	47	70	end-stage renal disease	DiseaseOrPhenotypicFeature	D007676
+17395743	74	89	type 2 diabetes	DiseaseOrPhenotypicFeature	D003924
+17395743	219	242	end-stage renal disease	DiseaseOrPhenotypicFeature	D007676
+17395743	244	248	ESRD	DiseaseOrPhenotypicFeature	D007676
+17395743	253	268	type 2 diabetes	DiseaseOrPhenotypicFeature	D003924
+17395743	401	405	ESRD	DiseaseOrPhenotypicFeature	D007676
+17395743	454	469	type 2 diabetes	DiseaseOrPhenotypicFeature	D003924
+17395743	822	831	rs2720709	SequenceVariant	rs2720709
+17395743	948	952	PVT1	GeneOrGeneProduct	5820
+17395743	1022	1026	PVT1	GeneOrGeneProduct	5820
+17395743	1265	1274	rs2720709	SequenceVariant	rs2720709
+17395743	1338	1342	ESRD	DiseaseOrPhenotypicFeature	D007676
+17395743	1409	1418	rs2648875	SequenceVariant	rs2648875
+17395743	1480	1484	PVT1	GeneOrGeneProduct	5820
+17395743	1523	1527	PVT1	GeneOrGeneProduct	5820
+17395743	1546	1550	ESRD	DiseaseOrPhenotypicFeature	D007676
+17395743	1569	1577	diabetes	DiseaseOrPhenotypicFeature	D003920
+17395743	Positive_Correlation	rs2648875	D007676	Novel
+17395743	Positive_Correlation	rs2720709	D007676	Novel
+17395743	Association	D003924	rs2648875	Novel
+17395743	Association	D003924	rs2720709	Novel
+17395743	Association	5820	D003920	Novel
+17395743	Association	5820	D003924	Novel
+17395743	Association	5820	D007676	Novel

@@ -1,0 +1,62 @@
+15970799|t|Functional characterization of SLCO1B1 (OATP-C) variants, SLCO1B1*5, SLCO1B1*15 and SLCO1B1*15+C1007G, by using transient expression systems of HeLa and HEK293 cells.
+15970799|a|OBJECTIVES: SLCO1B1*5 and SLCO1B1*15 have been reported to reduce the clearance of pravastatin in healthy volunteers. However, there remains controversy in the effects of SLCO1B1*5 on the activity of OATP1B1 in vitro. In addition, the effect of SLCO1B1*15 on the function of OATP1B1 has not been studied using cDNA-expression systems. Object of the present study was to study the influence of SLCO1B1*5, *15 and *15+C1007G, a novel haplotype found in a patient with pravastatin-induced myopathy, on the functional properties of OATP1B1 by transient expression systems of HEK293 and HeLa cells using endogenous conjugates and statins as substrates. METHODS: Transporting assays for endogenous substrates were performed using tritium labeled estradiol-17beta-D-glucuronide and estrone-3-sulfate. Quantitation of pravastatin, atorvastatin, cerivastatin and simvastatin were carried out using HPLC tandem mass spectrometry. RESULTS: The transporting activities of cells expressing SLCO1B1*5, *15 and *15+C1007G decreased significantly but those of SLCO1B1*1b, *1a+C1007G and *1b+C1007G were not altered for all of the substrates tested except for simvastatin. Kinetic analysis of pravastatin and atorvastatin showed that Km values were not altered but Vmax values decreased significantly in cells expressing SLCO1B1*5, *15 and *15+C1007G. Immunocytochemical study showed that SLCO1B1*5, *15 and *15+C1007G proteins are localized not only at the plasma membrane but also in the intracellular space. CONCLUSIONS: These findings suggest that 521T>C, existing commonly in SLCO1B1*5, *15 and *15+C1007G, is the key single nucleotide polymorphism (SNP) that determines the functional properties of SLCO1B1*5, *15 and *15+C1007G allelic proteins and that decreased activities of these variant proteins are mainly caused by a sorting error produced by this SNP.
+15970799	31	38	SLCO1B1	GeneOrGeneProduct	10599
+15970799	40	46	OATP-C	GeneOrGeneProduct	10599
+15970799	58	65	SLCO1B1	GeneOrGeneProduct	10599
+15970799	69	76	SLCO1B1	GeneOrGeneProduct	10599
+15970799	84	91	SLCO1B1	GeneOrGeneProduct	10599
+15970799	95	101	C1007G	SequenceVariant	rs72559747
+15970799	144	148	HeLa	CellLine	CVCL_0030
+15970799	153	159	HEK293	CellLine	CVCL_0045
+15970799	179	186	SLCO1B1	GeneOrGeneProduct	10599
+15970799	193	200	SLCO1B1	GeneOrGeneProduct	10599
+15970799	250	261	pravastatin	ChemicalEntity	D017035
+15970799	338	345	SLCO1B1	GeneOrGeneProduct	10599
+15970799	367	374	OATP1B1	GeneOrGeneProduct	10599
+15970799	412	419	SLCO1B1	GeneOrGeneProduct	10599
+15970799	442	449	OATP1B1	GeneOrGeneProduct	10599
+15970799	560	567	SLCO1B1	GeneOrGeneProduct	10599
+15970799	583	589	C1007G	SequenceVariant	rs72559747
+15970799	620	627	patient	OrganismTaxon	9606
+15970799	633	644	pravastatin	ChemicalEntity	D017035
+15970799	653	661	myopathy	DiseaseOrPhenotypicFeature	D009135
+15970799	695	702	OATP1B1	GeneOrGeneProduct	10599
+15970799	738	744	HEK293	CellLine	CVCL_0045
+15970799	749	753	HeLa	CellLine	CVCL_0030
+15970799	891	898	tritium	ChemicalEntity	D014316
+15970799	907	937	estradiol-17beta-D-glucuronide	ChemicalEntity	C025483
+15970799	942	959	estrone-3-sulfate	ChemicalEntity	C017296
+15970799	977	988	pravastatin	ChemicalEntity	D017035
+15970799	990	1002	atorvastatin	ChemicalEntity	D000069059
+15970799	1004	1016	cerivastatin	ChemicalEntity	C086276
+15970799	1021	1032	simvastatin	ChemicalEntity	D019821
+15970799	1144	1151	SLCO1B1	GeneOrGeneProduct	10599
+15970799	1167	1173	C1007G	SequenceVariant	rs72559747
+15970799	1211	1218	SLCO1B1	GeneOrGeneProduct	10599
+15970799	1227	1233	C1007G	SequenceVariant	rs72559747
+15970799	1242	1248	C1007G	SequenceVariant	rs72559747
+15970799	1310	1321	simvastatin	ChemicalEntity	D019821
+15970799	1343	1354	pravastatin	ChemicalEntity	D017035
+15970799	1359	1371	atorvastatin	ChemicalEntity	D000069059
+15970799	1471	1478	SLCO1B1	GeneOrGeneProduct	10599
+15970799	1494	1500	C1007G	SequenceVariant	rs72559747
+15970799	1539	1546	SLCO1B1	GeneOrGeneProduct	10599
+15970799	1562	1568	C1007G	SequenceVariant	rs72559747
+15970799	1702	1708	521T>C	SequenceVariant	c|SUB|T|521|C
+15970799	1731	1738	SLCO1B1	GeneOrGeneProduct	10599
+15970799	1754	1760	C1007G	SequenceVariant	rs72559747
+15970799	1855	1862	SLCO1B1	GeneOrGeneProduct	10599
+15970799	1878	1884	C1007G	SequenceVariant	rs72559747
+15970799	Association	D019821	rs72559747	Novel
+15970799	Association	D019821	10599	Novel
+15970799	Association	C086276	rs72559747	Novel
+15970799	Association	C086276	10599	Novel
+15970799	Association	D000069059	rs72559747	Novel
+15970799	Association	D000069059	10599	Novel
+15970799	Association	D014316	C017296	No
+15970799	Association	D014316	C025483	No
+15970799	Association	D017035	rs72559747	Novel
+15970799	Positive_Correlation	D017035	D009135	No
+15970799	Association	D017035	10599	No
+15970799	Association	rs72559747	D009135	No
+15970799	Association	10599	D009135	No

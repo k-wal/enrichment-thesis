@@ -1,0 +1,105 @@
+28086982|t|Reproductive factors and the risk of triple-negative breast cancer in white women and African-American women: a pooled analysis
+28086982|a|Early age at menarche, nulliparity, late age at first completed pregnancy, and never having breastfed, are established breast cancer risk factors. However, among breast cancer subtypes, it remains unclear whether all of these are risk factors for triple-negative breast cancer (TNBC). We evaluated the associations of these reproductive factors with TNBC, in 2658 patients with breast cancer (including 554 with TNBC) and 2448 controls aged 20-64 years, who participated in one of the three population-based case-control studies: the Women's Contraceptive and Reproductive Experiences Study, the Women's Breast Carcinoma in situ Study, or the Women's Learning the Influence of Family and Environment Study. We used multivariable polychotomous unconditional logistic regression methods to conduct case-control comparisons among breast cancer subtypes defined by estrogen receptor, progesterone receptor, and human epidermal growth factor receptor-2 expression status. TNBC risk decreased with increasing duration of breastfeeding (P trend = 0.006), but age at menarche, age at first completed pregnancy, and nulliparity were not associated with risk of TNBC. Parous women who breastfed for at least one year had a 31% lower risk of TNBC than parous women who had never breastfed (odds ratio, OR = 0.69; 95% confidence interval, CI = 0.50-0.96). The association between breastfeeding and risk of TNBC was modified by age and race. Parous African-American women aged 20-44 years who breastfed for 6 months or longer had an 82% lower risk of TNBC than their counterparts who had never breastfed (OR = 0.18, 95% CI = 0.07-0.46). Our data indicate that breastfeeding decreases the risk of TNBC, especially for younger African-American women.
+28086982	0	20	Reproductive factors	T033	C0206076
+28086982	29	33	risk	T078	C0035647
+28086982	37	66	triple-negative breast cancer	T191	C3539878
+28086982	70	81	white women	T098	C0043210
+28086982	86	102	African-American	T098	C0085756
+28086982	103	108	women	T098	C0043210
+28086982	112	127	pooled analysis	T062	C0936012
+28086982	128	133	Early	T079	C1279919
+28086982	134	137	age	T032	C0001779
+28086982	141	149	menarche	T040	C0025274
+28086982	151	162	nulliparity	T040	C0028641
+28086982	164	168	late	T079	C0205087
+28086982	169	172	age	T032	C0001779
+28086982	182	191	completed	T080	C0205197
+28086982	192	201	pregnancy	T040	C0032961
+28086982	220	229	breastfed	T040	C0006147
+28086982	247	260	breast cancer	T191	C0006142
+28086982	261	273	risk factors	T033	C0035648
+28086982	290	303	breast cancer	T191	C0006142
+28086982	304	312	subtypes	T185	C0449560
+28086982	358	370	risk factors	T033	C0035648
+28086982	375	404	triple-negative breast cancer	T191	C3539878
+28086982	406	410	TNBC	T191	C3539878
+28086982	430	442	associations	T080	C0332281
+28086982	452	472	reproductive factors	T033	C0206076
+28086982	478	482	TNBC	T191	C3539878
+28086982	492	500	patients	T101	C0030705
+28086982	506	519	breast cancer	T191	C0006142
+28086982	540	544	TNBC	T191	C3539878
+28086982	555	563	controls	T096	C0009932
+28086982	564	568	aged	T032	C0001779
+28086982	575	580	years	T079	C0439234
+28086982	586	598	participated	T169	C0679823
+28086982	619	635	population-based	T062	C1709599
+28086982	636	656	case-control studies	T062	C0007328
+28086982	662	718	Women's Contraceptive and Reproductive Experiences Study	T062	C0008972
+28086982	724	762	Women's Breast Carcinoma in situ Study	T062	C0008972
+28086982	771	833	Women's Learning the Influence of Family and Environment Study	T062	C0008972
+28086982	843	912	multivariable polychotomous unconditional logistic regression methods	UnknownType	C0681925
+28086982	924	936	case-control	T062	C0007328
+28086982	937	948	comparisons	T052	C1707455
+28086982	955	968	breast cancer	T191	C0006142
+28086982	969	977	subtypes	T185	C0449560
+28086982	989	1006	estrogen receptor	T116,T192	C0034804
+28086982	1008	1029	progesterone receptor	T116,T192	C0034833
+28086982	1035	1075	human epidermal growth factor receptor-2	T116,T126,T192	C1702024
+28086982	1076	1086	expression	T045	C0597360
+28086982	1087	1093	status	T080	C0449438
+28086982	1095	1099	TNBC	T191	C3539878
+28086982	1100	1104	risk	T078	C0035647
+28086982	1105	1114	decreased	T081	C0205216
+28086982	1120	1130	increasing	T169	C0442805
+28086982	1131	1139	duration	T079	C0449238
+28086982	1143	1156	breastfeeding	T040	C0006147
+28086982	1180	1183	age	T032	C0001779
+28086982	1187	1195	menarche	T040	C0025274
+28086982	1197	1200	age	T032	C0001779
+28086982	1210	1219	completed	T080	C0205197
+28086982	1220	1229	pregnancy	T040	C0032961
+28086982	1235	1246	nulliparity	T040	C0028641
+28086982	1256	1271	associated with	T080	C0332281
+28086982	1272	1276	risk	T078	C0035647
+28086982	1280	1284	TNBC	T191	C3539878
+28086982	1286	1298	Parous women	T098	C0043210
+28086982	1303	1312	breastfed	T040	C0006147
+28086982	1330	1334	year	T079	C0439234
+28086982	1345	1350	lower	T052	C2003888
+28086982	1351	1355	risk	T078	C0035647
+28086982	1359	1363	TNBC	T191	C3539878
+28086982	1369	1381	parous women	T098	C0043210
+28086982	1396	1405	breastfed	T040	C0006147
+28086982	1407	1417	odds ratio	T081	C0028873
+28086982	1419	1421	OR	T081	C0028873
+28086982	1434	1453	confidence interval	T081	C0009667
+28086982	1455	1457	CI	T081	C0009667
+28086982	1476	1487	association	T080	C0332281
+28086982	1496	1509	breastfeeding	T040	C0006147
+28086982	1514	1518	risk	T078	C0035647
+28086982	1522	1526	TNBC	T191	C3539878
+28086982	1531	1539	modified	T169	C0392747
+28086982	1543	1546	age	T032	C0001779
+28086982	1551	1555	race	T098	C0034510
+28086982	1557	1563	Parous	T098	C0043210
+28086982	1564	1580	African-American	T098	C0085756
+28086982	1581	1586	women	T098	C0043210
+28086982	1587	1591	aged	T032	C0001779
+28086982	1598	1603	years	T079	C0439234
+28086982	1608	1617	breastfed	T040	C0006147
+28086982	1624	1630	months	T079	C0439231
+28086982	1652	1657	lower	T052	C2003888
+28086982	1658	1662	risk	T078	C0035647
+28086982	1666	1670	TNBC	T191	C3539878
+28086982	1709	1718	breastfed	T040	C0006147
+28086982	1720	1722	OR	T081	C0028873
+28086982	1735	1737	CI	T081	C0009667
+28086982	1756	1760	data	T078	C1511726
+28086982	1775	1788	breastfeeding	T040	C0006147
+28086982	1789	1798	decreases	T081	C0547047
+28086982	1803	1807	risk	T078	C0035647
+28086982	1811	1815	TNBC	T191	C3539878
+28086982	1832	1839	younger	T079	C0332239
+28086982	1840	1856	African-American	T098	C0085756
+28086982	1857	1862	women	T098	C0043210

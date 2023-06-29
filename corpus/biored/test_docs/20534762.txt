@@ -1,0 +1,39 @@
+20534762|t|Two novel mutations of the TSH-beta subunit gene underlying congenital central hypothyroidism undetectable in neonatal TSH screening.
+20534762|a|CONTEXT: Patients with TSH-beta subunit defects and congenital hypothyroidism are missed by TSH-based neonatal screening. OBJECTIVE: Our objective was to report the molecular consequences of a novel splice-junction mutation and a novel missense mutation in the TSH-beta subunit gene found in two patients with congenital central hypothyroidism and conventional treatment-resistant anemia. RESULTS: Patient 1 had a homozygous G to A nucleotide change at the 5' donor splice site of exon/intron 2. This resulted in a silent change at codon 34 of the mature protein. In vitro splicing assays showed that the mutant minigene dramatically affected pre-mRNA processing, causing exon 2 to be completely skipped. The putative product from a new out-of-frame translational start point in exon 3 is expected to yield a nonsense 25-amino-acid peptide. In patient 2, sequence analysis revealed a compound heterozygosis for the already reported 313delT (C105Vfs114X) mutation and for a second novel mutation in exon 3, substituting G for A at cDNA nucleotide position 323, resulting in a C88Y change. This cysteine residue is conserved among all dimeric pituitary and placental glycoprotein hormone-beta subunits. Data from in silico analysis confirmed that the C88Y mutation would affect subunit conformation. Indeed, two different bioinformatics approaches, PolyPhen and SIFT analysis, predicted C88Y to be a damaging substitution. CONCLUSIONS: In isolated TSH deficiency, the exact molecular diagnosis is mandatory for diagnosis of isolated pituitary deficiency, delineation of prognosis, and genetic counseling. Moreover, diagnosis of central hypothyroidism should be considered in the face of severe infant anemia of uncertain etiology.
+20534762	27	35	TSH-beta	GeneOrGeneProduct	7252
+20534762	60	93	congenital central hypothyroidism	DiseaseOrPhenotypicFeature	D003409
+20534762	119	122	TSH	GeneOrGeneProduct	7252
+20534762	143	151	Patients	OrganismTaxon	9606
+20534762	157	165	TSH-beta	GeneOrGeneProduct	7252
+20534762	186	211	congenital hypothyroidism	DiseaseOrPhenotypicFeature	D003409
+20534762	226	229	TSH	GeneOrGeneProduct	7252
+20534762	395	403	TSH-beta	GeneOrGeneProduct	7252
+20534762	430	438	patients	OrganismTaxon	9606
+20534762	444	477	congenital central hypothyroidism	DiseaseOrPhenotypicFeature	D003409
+20534762	515	521	anemia	DiseaseOrPhenotypicFeature	D000740
+20534762	532	539	Patient	OrganismTaxon	9606
+20534762	559	565	G to A	SequenceVariant	c|SUB|G||A
+20534762	978	985	patient	OrganismTaxon	9606
+20534762	1066	1073	313delT	SequenceVariant	c|DEL|313|T
+20534762	1075	1086	C105Vfs114X	SequenceVariant	p|FS|C|105|V|114
+20534762	1153	1192	G for A at cDNA nucleotide position 323	SequenceVariant	c|SUB|G|323|A
+20534762	1209	1213	C88Y	SequenceVariant	p|SUB|C|88|Y
+20534762	1299	1333	glycoprotein hormone-beta subunits	GeneOrGeneProduct	122876
+20534762	1383	1387	C88Y	SequenceVariant	p|SUB|C|88|Y
+20534762	1519	1523	C88Y	SequenceVariant	p|SUB|C|88|Y
+20534762	1580	1594	TSH deficiency	DiseaseOrPhenotypicFeature	D007037
+20534762	1656	1685	isolated pituitary deficiency	DiseaseOrPhenotypicFeature	C566321
+20534762	1760	1782	central hypothyroidism	DiseaseOrPhenotypicFeature	D007037
+20534762	1833	1839	anemia	DiseaseOrPhenotypicFeature	D000740
+20534762	Association	D003409	7252	Novel
+20534762	Association	D003409	p|SUB|C|88|Y	Novel
+20534762	Association	D003409	c|SUB|G|323|A	Novel
+20534762	Association	D003409	p|FS|C|105|V|114	Novel
+20534762	Association	D003409	c|DEL|313|T	Novel
+20534762	Association	D003409	c|SUB|G||A	Novel
+20534762	Association	7252	D000740	Novel
+20534762	Association	D000740	p|SUB|C|88|Y	Novel
+20534762	Association	D000740	c|SUB|G|323|A	Novel
+20534762	Association	D000740	p|FS|C|105|V|114	Novel
+20534762	Association	D000740	c|DEL|313|T	Novel
+20534762	Association	D000740	c|SUB|G||A	Novel

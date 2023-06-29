@@ -1,0 +1,80 @@
+19672862|t|Protein kinase C alpha-dependent signaling mediates endometrial cancer cell growth and tumorigenesis.
+19672862|a|Endometrial cancer is the most common invasive gynecologic malignancy, yet molecular mechanisms and signaling pathways underlying its etiology and pathophysiology remain poorly characterized. We sought to define a functional role for the protein kinase C (PKC) isoform, PKCalpha, in an established cell model of endometrial adenocarcinoma. Ishikawa cells depleted of PKCalpha protein grew slower, formed fewer colonies in anchorage-independent growth assays and exhibited impaired xenograft tumor formation in nude mice. Consistent with impaired growth, PKCalpha knockdown increased levels of the cyclin-dependent kinase (CDK) inhibitors p21(Cip1/WAF1) (p21) and p27(Kip1) (p27). Despite the absence of functional phosphatase and tensin homolog (PTEN) protein in Ishikawa cells, PKCalpha knockdown reduced Akt phosphorylation at serine 473 and concomitantly inhibited phosphorylation of the Akt target, glycogen synthase kinase-3beta (GSK-3beta). PKCalpha knockdown also resulted in decreased basal ERK phosphorylation and attenuated ERK activation following EGF stimulation. p21 and p27 expression was not increased by treatment of Ishikawa cells with ERK and Akt inhibitors, suggesting that PKCalpha regulates CDK expression independently of Akt and ERK. Immunohistochemical analysis of Grade 1 endometrioid adenocarcinoma revealed aberrant PKCalpha expression, with foci of elevated PKCalpha staining, not observed in normal endometrium. These studies demonstrate a critical role for PKCalpha signaling in endometrial tumorigenesis by regulating expression of CDK inhibitors p21 and p27 and activation of Akt and ERK-dependent proliferative pathways. Thus, targeting PKCalpha may provide novel therapeutic options in endometrial tumors.
+19672862	0	22	Protein kinase C alpha	GeneOrGeneProduct	5578
+19672862	52	70	endometrial cancer	DiseaseOrPhenotypicFeature	D016889
+19672862	87	100	tumorigenesis	DiseaseOrPhenotypicFeature	D009369
+19672862	102	120	Endometrial cancer	DiseaseOrPhenotypicFeature	D016889
+19672862	149	171	gynecologic malignancy	DiseaseOrPhenotypicFeature	D005833
+19672862	340	356	protein kinase C	GeneOrGeneProduct	5578
+19672862	358	361	PKC	GeneOrGeneProduct	5578
+19672862	372	380	PKCalpha	GeneOrGeneProduct	5578
+19672862	414	440	endometrial adenocarcinoma	DiseaseOrPhenotypicFeature	D016889
+19672862	442	450	Ishikawa	CellLine	CVCL_2529
+19672862	469	477	PKCalpha	GeneOrGeneProduct	5578
+19672862	593	598	tumor	DiseaseOrPhenotypicFeature	D009369
+19672862	617	621	mice	OrganismTaxon	10090
+19672862	656	664	PKCalpha	GeneOrGeneProduct	5578
+19672862	699	722	cyclin-dependent kinase	GeneOrGeneProduct	983
+19672862	724	727	CDK	GeneOrGeneProduct	983
+19672862	740	743	p21	GeneOrGeneProduct	1026
+19672862	744	748	Cip1	GeneOrGeneProduct	1026
+19672862	749	753	WAF1	GeneOrGeneProduct	1026
+19672862	756	759	p21	GeneOrGeneProduct	1026
+19672862	765	768	p27	GeneOrGeneProduct	1027
+19672862	769	773	Kip1	GeneOrGeneProduct	1027
+19672862	776	779	p27	GeneOrGeneProduct	1027
+19672862	816	846	phosphatase and tensin homolog	GeneOrGeneProduct	5728
+19672862	848	852	PTEN	GeneOrGeneProduct	5728
+19672862	865	873	Ishikawa	CellLine	CVCL_2529
+19672862	881	889	PKCalpha	GeneOrGeneProduct	5578
+19672862	908	911	Akt	GeneOrGeneProduct	207
+19672862	993	996	Akt	GeneOrGeneProduct	207
+19672862	1005	1035	glycogen synthase kinase-3beta	GeneOrGeneProduct	2932
+19672862	1037	1046	GSK-3beta	GeneOrGeneProduct	2932
+19672862	1049	1057	PKCalpha	GeneOrGeneProduct	5578
+19672862	1101	1104	ERK	GeneOrGeneProduct	5594
+19672862	1136	1139	ERK	GeneOrGeneProduct	5594
+19672862	1161	1164	EGF	GeneOrGeneProduct	1950
+19672862	1178	1181	p21	GeneOrGeneProduct	1026
+19672862	1186	1189	p27	GeneOrGeneProduct	1027
+19672862	1235	1243	Ishikawa	CellLine	CVCL_2529
+19672862	1255	1258	ERK	GeneOrGeneProduct	5594
+19672862	1263	1266	Akt	GeneOrGeneProduct	207
+19672862	1295	1303	PKCalpha	GeneOrGeneProduct	5578
+19672862	1314	1317	CDK	GeneOrGeneProduct	983
+19672862	1346	1349	Akt	GeneOrGeneProduct	207
+19672862	1354	1357	ERK	GeneOrGeneProduct	5594
+19672862	1399	1426	endometrioid adenocarcinoma	DiseaseOrPhenotypicFeature	D016889
+19672862	1445	1453	PKCalpha	GeneOrGeneProduct	5578
+19672862	1488	1496	PKCalpha	GeneOrGeneProduct	5578
+19672862	1589	1597	PKCalpha	GeneOrGeneProduct	5578
+19672862	1623	1636	tumorigenesis	DiseaseOrPhenotypicFeature	D009369
+19672862	1665	1668	CDK	GeneOrGeneProduct	983
+19672862	1680	1683	p21	GeneOrGeneProduct	1026
+19672862	1688	1691	p27	GeneOrGeneProduct	1027
+19672862	1710	1713	Akt	GeneOrGeneProduct	207
+19672862	1718	1721	ERK	GeneOrGeneProduct	5594
+19672862	1772	1780	PKCalpha	GeneOrGeneProduct	5578
+19672862	1822	1840	endometrial tumors	DiseaseOrPhenotypicFeature	D016889
+19672862	Association	D009369	5594	Novel
+19672862	Association	D009369	207	Novel
+19672862	Association	D009369	983	Novel
+19672862	Association	D009369	1027	Novel
+19672862	Association	D009369	1026	Novel
+19672862	Association	D016889	5578	Novel
+19672862	Positive_Correlation	1950	5594	Novel
+19672862	Association	207	2932	Novel
+19672862	Negative_Correlation	983	1027	Novel
+19672862	Negative_Correlation	983	1026	Novel
+19672862	Association	1027	5594	Novel
+19672862	Association	1027	207	Novel
+19672862	Association	1026	5594	Novel
+19672862	Association	1026	207	Novel
+19672862	Association	5578	D009369	Novel
+19672862	Association	5578	1950	Novel
+19672862	Positive_Correlation	5578	5594	Novel
+19672862	Association	5578	2932	Novel
+19672862	Association	5578	207	Novel
+19672862	Association	5578	983	Novel
+19672862	Negative_Correlation	5578	1027	Novel
+19672862	Negative_Correlation	5578	1026	Novel

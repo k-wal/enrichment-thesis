@@ -1,0 +1,34 @@
+19067809|t|Hemodynamic parameters and heart rate variability during a tilt test in relation to gene polymorphism of renin-angiotensin and serotonin system.
+19067809|a|PURPOSE: The aim of the study was to evaluate the renin-angiotensin system and serotonin transporter gene polymorphisms in relation to hemodynamic parameters and heart rate variability during a head-up tilt test (HUT) in patients with vasovagal syncope. METHODS: DNA was collected from 191 patients (mean age 44+/-18 years, 61 men, 130 women). The following gene polymorphisms were determined in genomic DNA: angiotensin-converting enzyme insertion/deletion polymorphism (I/D ACE), angiotensinogen gene polymorphism (M 235), angiotensin II receptor type 1 (ATR1) polymorphism (A 11666C), and polymorphism of serotonin transporter gene (5HTTLPR).Heart rate variability during HUT was assessed in 5-minute intervals by low frequency, high frequency, standard deviation of the normal-to-normal (SDNN), and root mean square successive difference parameters. RESULTS: AA genotype of A 1166C polymorphism was associated with lower minimal systolic blood pressure (SBP) and diastolic blood pressure (DBP) during HUT compared with other genotypes (minimal SBP: AA 59.6+/-21,8, AC 79.9+/-22.7, CC 65.4+/-22.7 mmHg, P=0.007), (minimal DBP: AA 36.4+/-22.7, AC 52.3+/-22.9, CC 45.4+/-19.5 mmHg, P=0.007).AA genotype was also associated with higher SDNN compared to other genotypes in the early phase of HUT (SDNN in 5 minutes of tilt: AA 59.7+/-24.6, AC 50.6+/-20.6, CC 46.0+/-13.2, P=0.01) and at syncope occurrence (SDNN: AA 71.0+/-20.9, AC 58.2+/-17.9, CC 58+/-10, P=0.04) CONCLUSION: AA genotype of A 1166C polymorphism in the ATR1 gene may be associated with hypotension and decline in sympathetic tone during HUT. Its role in genetic predisposition to vasovagal syncope cannot be excluded.
+19067809	105	110	renin	GeneOrGeneProduct	5972
+19067809	111	122	angiotensin	GeneOrGeneProduct	183
+19067809	127	136	serotonin	ChemicalEntity	D012701
+19067809	195	200	renin	GeneOrGeneProduct	5972
+19067809	201	212	angiotensin	GeneOrGeneProduct	183
+19067809	224	245	serotonin transporter	GeneOrGeneProduct	6532
+19067809	366	374	patients	OrganismTaxon	9606
+19067809	380	397	vasovagal syncope	DiseaseOrPhenotypicFeature	D019462
+19067809	435	443	patients	OrganismTaxon	9606
+19067809	472	475	men	OrganismTaxon	9606
+19067809	481	486	women	OrganismTaxon	9606
+19067809	554	583	angiotensin-converting enzyme	GeneOrGeneProduct	1636
+19067809	621	624	ACE	GeneOrGeneProduct	1636
+19067809	627	642	angiotensinogen	GeneOrGeneProduct	183
+19067809	662	667	M 235	SequenceVariant	p|Allele|M|235
+19067809	670	700	angiotensin II receptor type 1	GeneOrGeneProduct	185
+19067809	702	706	ATR1	GeneOrGeneProduct	185
+19067809	722	730	A 11666C	SequenceVariant	rs5186
+19067809	753	774	serotonin transporter	GeneOrGeneProduct	6532
+19067809	781	788	5HTTLPR	GeneOrGeneProduct	6532
+19067809	1023	1030	A 1166C	SequenceVariant	rs5186
+19067809	1531	1538	syncope	DiseaseOrPhenotypicFeature	D013575
+19067809	1636	1643	A 1166C	SequenceVariant	rs5186
+19067809	1664	1668	ATR1	GeneOrGeneProduct	185
+19067809	1697	1708	hypotension	DiseaseOrPhenotypicFeature	D007022
+19067809	1791	1808	vasovagal syncope	DiseaseOrPhenotypicFeature	D019462
+19067809	Association	185	D019462	Novel
+19067809	Association	185	D007022	Novel
+19067809	Association	D013575	185	Novel
+19067809	Association	D013575	rs5186	Novel
+19067809	Positive_Correlation	rs5186	D019462	Novel
+19067809	Association	rs5186	D007022	Novel

@@ -1,0 +1,88 @@
+27742350|t|Modeling nurse-patient assignments considering patient acuity and travel distance metrics
+27742350|a|Balancing workload among nurses on a hospital unit is important for the satisfaction and safety of nurses and patients. To balance nurse workloads, direct patient care activities, indirect patient care activities, and non-patient care activities that occur throughout a shift must be considered. The layout of a hospital unit and the location of a nurse's assigned patients relative to other resources on the unit are also important factors in achieving workload balance. In most hospitals, a unit charge nurse is responsible for the shift assignment of patients to nurses based on experience and past practices. The nurse-patient assignment process is also often a manual process in which the charge nurse must sort through multiple decision criteria in a limited amount of time. In this paper, a methodology for the construction of balanced nurse-patient workload assignments is proposed. Through the illustration of this methodology new scoring metrics are developed using measures currently available on, or from, the hospital unit. It was demonstrated that the complex scheduling problem can be captured. While the methodology was illustrated for a scheduling problem commonly encountered on a hospital unit, the approach can be adapted to other workforce scheduling problems in which measures of workload are required and composed of elements imposed by the work environment, variability within the required tasks, and a measurable perception of the relative intensity of the work elements.
+27742350	0	8	Modeling	T062	C0870071
+27742350	9	34	nurse-patient assignments	T057	C0578393
+27742350	47	61	patient acuity	T080	C3494263
+27742350	66	72	travel	T056	C0040802
+27742350	73	81	distance	T081	C0012751
+27742350	82	89	metrics	T169	C0242485
+27742350	90	99	Balancing	T169	C0205415
+27742350	100	108	workload	T081	C0085122
+27742350	115	121	nurses	T097	C0028661
+27742350	127	140	hospital unit	T073,T093	C0019988
+27742350	162	174	satisfaction	T041	C0242428
+27742350	179	185	safety	T068	C0036043
+27742350	189	195	nurses	T097	C0028661
+27742350	200	208	patients	T101	C0030705
+27742350	213	220	balance	T169	C0205415
+27742350	221	226	nurse	T097	C0028661
+27742350	227	236	workloads	T081	C0085122
+27742350	238	244	direct	T080	C1947931
+27742350	245	268	patient care activities	T058	C0017313
+27742350	270	278	indirect	T080	C0439852
+27742350	279	302	patient care activities	T058	C0017313
+27742350	308	335	non-patient care activities	T058	C1254363
+27742350	360	365	shift	T169	C0333051
+27742350	402	415	hospital unit	T073,T093	C0019988
+27742350	424	432	location	T082	C0450429
+27742350	438	445	nurse's	T097	C0028661
+27742350	446	454	assigned	T169	C1516050
+27742350	455	463	patients	T101	C0030705
+27742350	464	472	relative	T080	C0205345
+27742350	482	491	resources	T078	C0035201
+27742350	499	503	unit	T073,T093	C0019988
+27742350	513	530	important factors	T169	C1521761
+27742350	534	543	achieving	T033	C1272277
+27742350	544	552	workload	T081	C0085122
+27742350	553	560	balance	T169	C0205415
+27742350	570	579	hospitals	T073,T093	C0019994
+27742350	595	600	nurse	T097	C0028661
+27742350	604	615	responsible	T033	C1273518
+27742350	624	629	shift	T169	C0333051
+27742350	630	640	assignment	T169	C1516050
+27742350	644	652	patients	T101	C0030705
+27742350	656	662	nurses	T097	C0028661
+27742350	672	682	experience	T041	C0596545
+27742350	687	701	past practices	T041	C0237607
+27742350	707	731	nurse-patient assignment	T057	C0578393
+27742350	732	739	process	T067	C1522240
+27742350	756	770	manual process	T067	C1522240
+27742350	791	796	nurse	T097	C0028661
+27742350	802	806	sort	T052	C1947906
+27742350	815	841	multiple decision criteria	T078	C0243161
+27742350	865	869	time	T079	C0040223
+27742350	888	899	methodology	T078	C3266812
+27742350	924	932	balanced	T169	C0205415
+27742350	933	967	nurse-patient workload assignments	T057	C0578393
+27742350	971	979	proposed	T080	C1553874
+27742350	1014	1025	methodology	T078	C3266812
+27742350	1030	1037	scoring	T081	C0449820
+27742350	1038	1045	metrics	T169	C0242485
+27742350	1050	1059	developed	T169	C1527148
+27742350	1066	1074	measures	T081	C0079809
+27742350	1085	1094	available	T169	C0470187
+27742350	1112	1125	hospital unit	T073,T093	C0019988
+27742350	1134	1146	demonstrated	T169	C0205245
+27742350	1156	1174	complex scheduling	T080	C0205539
+27742350	1175	1182	problem	T033	C0033213
+27742350	1210	1221	methodology	T078	C3266812
+27742350	1244	1254	scheduling	T080	C0205539
+27742350	1255	1262	problem	T033	C0033213
+27742350	1289	1302	hospital unit	T073,T093	C0019988
+27742350	1308	1316	approach	T082	C0449445
+27742350	1341	1350	workforce	T169	C0024752
+27742350	1351	1361	scheduling	T080	C0205539
+27742350	1362	1370	problems	T033	C0033213
+27742350	1380	1388	measures	T081	C0079809
+27742350	1392	1400	workload	T081	C0085122
+27742350	1405	1413	required	T169	C1514873
+27742350	1430	1438	elements	T077	C1254372
+27742350	1454	1470	work environment	T082	C0162579
+27742350	1472	1483	variability	T077	C2827666
+27742350	1495	1503	required	T169	C1514873
+27742350	1504	1509	tasks	T057	C3540678
+27742350	1517	1527	measurable	T169	C1513040
+27742350	1528	1538	perception	T041	C0030971
+27742350	1546	1554	relative	T080	C0205345
+27742350	1555	1564	intensity	T080	C0522510
+27742350	1572	1585	work elements	T077	C1254372

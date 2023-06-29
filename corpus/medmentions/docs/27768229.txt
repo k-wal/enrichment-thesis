@@ -1,0 +1,109 @@
+27768229|t|Higher copeptin levels are associated with worse outcome in patients with hypertrophic cardiomyopathy
+27768229|a|Correlation of increased copeptin levels with various cardiovascular diseases has been described. The clinical use of copeptin levels in patients with hypertrophic cardiomyopathy (HCM) has not been investigated before. In this study, we aimed to investigate the prognostic value of copeptin levels in patients with hypertrophic cardiomyopathy (HCM). HCM was defined as presence of left ventricular wall thickness ≥15 mm in a subject without any concomitant disease that may cause left ventricular hypertrophy. Levels of copeptin and plasma N-terminal probrain natriuretic peptide (NT-proBNP) were evaluated prospectively in 24 obstructive HCM patients, 36 nonobstructive HCM patients, and 36 age - and sex - matched control subjects. Blood samples were collected in the morning between 7 and 9 am after overnight fasting. Patients were followed for 24 months. Hospitalization with diagnosis of heart failure / arrhythmia, implantable cardioverter-defibrillator implantation, and cardiac mortality were accepted as adverse cardiac events. Copeptin and NT-proBNP levels were higher in the HCM group compared with controls (14.1 vs 8.4 pmol/L, P < 0.01; and 383 vs 44 pg/mL, P < 0.01, respectively). Copeptin and NT-proBNP levels were higher in the obstructive HCM subgroup compared with the nonobstructive HCM subgroup (18.3 vs 13.1 pmol/L, P < 0.01; and 717 vs 223 pg/mL, P < 0.01, respectively). In multivariable logistic regression analysis, copeptin and NT-proBNP levels remained as independent predictors of heart failure (P < 0.01 for both) and adverse cardiac events (P < 0.01 for both). Copeptin and NT-proBNP levels were significantly higher in patients with obstructive HCM, and higher levels were associated with worse outcome.
+27768229	0	6	Higher	T080	C0205250
+27768229	7	15	copeptin	T116,T123	C3489439
+27768229	16	22	levels	T080	C0441889
+27768229	27	42	associated with	T080	C0332281
+27768229	43	48	worse	T080	C0332271
+27768229	49	56	outcome	T169	C1274040
+27768229	60	68	patients	T101	C0030705
+27768229	74	101	hypertrophic cardiomyopathy	T047	C0007194
+27768229	102	113	Correlation	T080	C1707520
+27768229	117	126	increased	T081	C0205217
+27768229	127	135	copeptin	T116,T123	C3489439
+27768229	136	142	levels	T080	C0441889
+27768229	156	179	cardiovascular diseases	T047	C0007222
+27768229	189	198	described	T078	C1552738
+27768229	204	212	clinical	T080	C0205210
+27768229	213	216	use	T169	C1524063
+27768229	220	228	copeptin	T116,T123	C3489439
+27768229	229	235	levels	T080	C0441889
+27768229	239	247	patients	T101	C0030705
+27768229	253	280	hypertrophic cardiomyopathy	T047	C0007194
+27768229	282	285	HCM	T047	C0007194
+27768229	329	334	study	T062	C2603343
+27768229	348	359	investigate	T169	C1292732
+27768229	364	380	prognostic value	T184	C1511887
+27768229	384	392	copeptin	T116,T123	C3489439
+27768229	393	399	levels	T080	C0441889
+27768229	403	411	patients	T101	C0030705
+27768229	417	444	hypertrophic cardiomyopathy	T047	C0007194
+27768229	446	449	HCM	T047	C0007194
+27768229	452	455	HCM	T047	C0007194
+27768229	483	514	left ventricular wall thickness	T034	C0455826
+27768229	527	534	subject	T098	C0080105
+27768229	535	542	without	T080	C0332288
+27768229	547	566	concomitant disease	T046	C0243087
+27768229	576	581	cause	T169	C0015127
+27768229	582	610	left ventricular hypertrophy	T047	C0149721
+27768229	612	618	Levels	T080	C0441889
+27768229	622	630	copeptin	T116,T123	C3489439
+27768229	635	681	plasma N-terminal probrain natriuretic peptide	T059	C4066092
+27768229	683	692	NT-proBNP	T059	C4066092
+27768229	729	740	obstructive	T169	C0549186
+27768229	741	744	HCM	T047	C0007194
+27768229	745	753	patients	T101	C0030705
+27768229	758	772	nonobstructive	T169	C0205304
+27768229	773	776	HCM	T047	C0007194
+27768229	777	785	patients	T101	C0030705
+27768229	794	797	age	T032	C0001779
+27768229	804	807	sex	T032	C1522384
+27768229	810	817	matched	T080	C1708943
+27768229	818	834	control subjects	T096	C0009932
+27768229	836	849	Blood samples	T031	C0178913
+27768229	855	864	collected	T169	C1516698
+27768229	872	879	morning	T079	C0332170
+27768229	899	904	after	T079	C0687676
+27768229	905	914	overnight	T079	C0439583
+27768229	915	922	fasting	T033	C0015663
+27768229	924	932	Patients	T101	C0030705
+27768229	938	946	followed	T079	C0332283
+27768229	954	960	months	T079	C0439231
+27768229	962	977	Hospitalization	T058	C0019993
+27768229	983	992	diagnosis	T062	C1704656
+27768229	996	1009	heart failure	T047	C0018801
+27768229	1012	1022	arrhythmia	T033	C0003811
+27768229	1024	1062	implantable cardioverter-defibrillator	T074	C0162589
+27768229	1063	1075	implantation	T061	C0021107
+27768229	1081	1098	cardiac mortality	T081	C0205848
+27768229	1104	1112	accepted	T080	C1272684
+27768229	1116	1138	adverse cardiac events	T046	C1560249
+27768229	1140	1148	Copeptin	T116,T123	C3489439
+27768229	1153	1162	NT-proBNP	T059	C4066092
+27768229	1163	1169	levels	T080	C0441889
+27768229	1175	1181	higher	T080	C0205250
+27768229	1189	1192	HCM	T047	C0007194
+27768229	1193	1198	group	T078	C0441833
+27768229	1199	1207	compared	T052	C1707455
+27768229	1213	1221	controls	T096	C0009932
+27768229	1299	1307	Copeptin	T116,T123	C3489439
+27768229	1312	1321	NT-proBNP	T059	C4066092
+27768229	1322	1328	levels	T080	C0441889
+27768229	1334	1340	higher	T080	C0205250
+27768229	1348	1359	obstructive	T169	C0549186
+27768229	1360	1363	HCM	T047	C0007194
+27768229	1364	1372	subgroup	T185	C1515021
+27768229	1373	1381	compared	T052	C1707455
+27768229	1391	1405	nonobstructive	T169	C0205304
+27768229	1406	1409	HCM	T047	C0007194
+27768229	1410	1418	subgroup	T185	C1515021
+27768229	1515	1543	logistic regression analysis	UnknownType	C0681925
+27768229	1545	1553	copeptin	T116,T123	C3489439
+27768229	1558	1567	NT-proBNP	T059	C4066092
+27768229	1568	1574	levels	T080	C0441889
+27768229	1587	1598	independent	T169	C0332291
+27768229	1599	1609	predictors	T078	C2698872
+27768229	1613	1626	heart failure	T047	C0018801
+27768229	1651	1673	adverse cardiac events	T046	C1560249
+27768229	1695	1703	Copeptin	T116,T123	C3489439
+27768229	1708	1717	NT-proBNP	T059	C4066092
+27768229	1718	1724	levels	T080	C0441889
+27768229	1744	1750	higher	T080	C0205250
+27768229	1754	1762	patients	T101	C0030705
+27768229	1768	1779	obstructive	T169	C0549186
+27768229	1780	1783	HCM	T047	C0007194
+27768229	1789	1795	higher	T080	C0205250
+27768229	1796	1802	levels	T080	C0441889
+27768229	1808	1823	associated with	T080	C0332281
+27768229	1824	1829	worse	T080	C0332271
+27768229	1830	1837	outcome	T169	C1274040

@@ -1,0 +1,31 @@
+7905839|t|Human mu opiate receptor. cDNA and genomic clones, pharmacologic characterization and chromosomal assignment.
+7905839|a|A human mu opiate receptor cDNA has been identified from a cerebral cortical cDNA library using sequences from the rat mu opiate receptor cDNA. The human mu opiate receptor (h mu OR1) shares 95% amino acid identity with the rat sequence. The expressed mu OR1 recognized tested opiate drugs and opioid peptides in a sodium- and GTP-sensitive fashion with affinities virtually identical to those displayed by the rat mu opiate receptor. Effects on cyclic AMP are similar to those noted for the rat mu opiate receptor. An 18 kb genomic clone hybridizing with the h mu OR1 cDNA contains 63 and 489 bp exonic sequences flanked by splice donor/acceptor sequences. Analysis of hybridization to DNA prepared from human rodent hybrid cell lines and chromosomal in situ hybridization studies indicate localization to 6q24-25. An MspI polymorphism, producing a 3.7 kb band, may prove useful in assessing this gene's involvement in neuropsychiatric disorders involving opiatergic systems.
+7905839	0	5	Human	OrganismTaxon	9606
+7905839	6	24	mu opiate receptor	GeneOrGeneProduct	4988
+7905839	112	117	human	OrganismTaxon	9606
+7905839	118	136	mu opiate receptor	GeneOrGeneProduct	4988
+7905839	225	228	rat	OrganismTaxon	10116
+7905839	229	247	mu opiate receptor	GeneOrGeneProduct	25601
+7905839	258	263	human	OrganismTaxon	9606
+7905839	264	282	mu opiate receptor	GeneOrGeneProduct	4988
+7905839	284	292	h mu OR1	GeneOrGeneProduct	4988
+7905839	334	337	rat	OrganismTaxon	10116
+7905839	362	368	mu OR1	GeneOrGeneProduct	25601
+7905839	387	393	opiate	ChemicalEntity	D053610
+7905839	404	419	opioid peptides	ChemicalEntity	D018847
+7905839	425	431	sodium	ChemicalEntity	D012964
+7905839	437	440	GTP	ChemicalEntity	D006160
+7905839	521	524	rat	OrganismTaxon	10116
+7905839	525	543	mu opiate receptor	GeneOrGeneProduct	25601
+7905839	556	566	cyclic AMP	ChemicalEntity	D000242
+7905839	602	605	rat	OrganismTaxon	10116
+7905839	606	624	mu opiate receptor	GeneOrGeneProduct	25601
+7905839	670	678	h mu OR1	GeneOrGeneProduct	4988
+7905839	815	820	human	OrganismTaxon	9606
+7905839	1030	1056	neuropsychiatric disorders	DiseaseOrPhenotypicFeature	D001523
+7905839	Association	D001523	4988	Novel
+7905839	Association	D000242	25601	No
+7905839	Association	D006160	25601	No
+7905839	Association	25601	D018847	Novel
+7905839	Association	25601	D053610	Novel
+7905839	Association	D012964	25601	No

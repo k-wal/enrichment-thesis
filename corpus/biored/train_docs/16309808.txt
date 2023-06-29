@@ -1,0 +1,46 @@
+16309808|t|Does domperidone potentiate mirtazapine-associated restless legs syndrome?
+16309808|a|There is now evidence to suggest a central role for the dopaminergic system in restless legs syndrome (RLS). For example, the symptoms of RLS can be dramatically improved by levodopa and dopamine agonists, whereas central dopamine D2 receptor antagonists can induce or aggravate RLS symptoms. To our knowledge, there is no previous report regarding whether domperidone, a peripheral dopamine D2 receptor antagonist, can also induce or aggravate symptoms of RLS. Mirtazapine, the first noradrenergic and specific serotonergic antidepressant (NaSSA), has been associated with RLS in several recent publications. The authors report here a depressed patient comorbid with postprandial dyspepsia who developed RLS after mirtazapine had been added to his domperidone therapy. Our patient started to have symptoms of RLS only after he had been treated with mirtazapine, and his RLS symptoms resolved completely upon discontinuation of his mirtazapine. Such a temporal relationship between the use of mirtazapine and the symptoms of RLS in our patient did not support a potentiating effect of domperione on mirtazapine-associated RLS. However, physicians should be aware of the possibility that mirtazapine can be associated with RLS in some individuals, especially those receiving concomitant dopamine D2 receptor antagonists.
+16309808	5	16	domperidone	ChemicalEntity	D004294
+16309808	28	39	mirtazapine	ChemicalEntity	D000078785
+16309808	51	73	restless legs syndrome	DiseaseOrPhenotypicFeature	D012148
+16309808	154	176	restless legs syndrome	DiseaseOrPhenotypicFeature	D012148
+16309808	178	181	RLS	DiseaseOrPhenotypicFeature	D012148
+16309808	213	216	RLS	DiseaseOrPhenotypicFeature	D012148
+16309808	249	257	levodopa	ChemicalEntity	D007980
+16309808	262	270	dopamine	ChemicalEntity	D004298
+16309808	297	329	dopamine D2 receptor antagonists	ChemicalEntity	D065127
+16309808	354	357	RLS	DiseaseOrPhenotypicFeature	D012148
+16309808	432	443	domperidone	ChemicalEntity	D004294
+16309808	458	478	dopamine D2 receptor	GeneOrGeneProduct	1813
+16309808	532	535	RLS	DiseaseOrPhenotypicFeature	D012148
+16309808	537	548	Mirtazapine	ChemicalEntity	D000078785
+16309808	560	614	noradrenergic and specific serotonergic antidepressant	ChemicalEntity	D000928
+16309808	616	621	NaSSA	ChemicalEntity	D000928
+16309808	649	652	RLS	DiseaseOrPhenotypicFeature	D012148
+16309808	711	720	depressed	DiseaseOrPhenotypicFeature	D003866
+16309808	721	728	patient	OrganismTaxon	9606
+16309808	743	765	postprandial dyspepsia	DiseaseOrPhenotypicFeature	D004415
+16309808	780	783	RLS	DiseaseOrPhenotypicFeature	D012148
+16309808	790	801	mirtazapine	ChemicalEntity	D000078785
+16309808	824	835	domperidone	ChemicalEntity	D004294
+16309808	849	856	patient	OrganismTaxon	9606
+16309808	885	888	RLS	DiseaseOrPhenotypicFeature	D012148
+16309808	925	936	mirtazapine	ChemicalEntity	D000078785
+16309808	946	949	RLS	DiseaseOrPhenotypicFeature	D012148
+16309808	1007	1018	mirtazapine	ChemicalEntity	D000078785
+16309808	1068	1079	mirtazapine	ChemicalEntity	D000078785
+16309808	1100	1103	RLS	DiseaseOrPhenotypicFeature	D012148
+16309808	1111	1118	patient	OrganismTaxon	9606
+16309808	1160	1170	domperione	ChemicalEntity	D004294
+16309808	1174	1185	mirtazapine	ChemicalEntity	D000078785
+16309808	1197	1200	RLS	DiseaseOrPhenotypicFeature	D012148
+16309808	1262	1273	mirtazapine	ChemicalEntity	D000078785
+16309808	1297	1300	RLS	DiseaseOrPhenotypicFeature	D012148
+16309808	1361	1393	dopamine D2 receptor antagonists	ChemicalEntity	D065127
+16309808	Positive_Correlation	D065127	D012148	Novel
+16309808	Association	D000928	D012148	No
+16309808	Negative_Correlation	D012148	D007980	No
+16309808	Positive_Correlation	D012148	D004294	Novel
+16309808	Positive_Correlation	D000078785	D012148	Novel
+16309808	Drug_Interaction	D004294	D000078785	Novel
+16309808	Negative_Correlation	D004294	1813	No

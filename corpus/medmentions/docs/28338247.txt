@@ -1,0 +1,83 @@
+28338247|t|Impact of diabetic ketoacidosis management in the medical intensive care unit after order set implementation
+28338247|a|To determine the rate of compliance to the 2006 and 2009 ADA DKA guidelines in the medical intensive care unit (MICU) at a large academic medical centre after the implementation of a computerised DKA order set and protocol. Retrospective chart review of adult patients with DKA admitted to the MICU. Results of pre-order set (PRE) were compared to those of data post-order set (POST). The primary outcome was a composite administration of intravenous fluid resuscitation in the first 24 h, insulin bolus and initial insulin infusion rate. Twelve of 60 patients (20%) in the PRE group received treatment compliant with the 2006 guidelines versus 14 of 55 patients (25.5%) in the POST group (OR 1.22 95% CI 0.44 to 3.4, P = 0.51). Compliance to the 2009 guidelines was significantly higher in the POST group (31.7% versus 65.5%, OR 4.44 95% CI 1.8 to 10.92, P = 0.0004). Compliance for individual components was 26.7% versus 70.9% for fluid resuscitation (P = 0.0001), 55% versus 49.1% for insulin bolus (P = 0.58) and 60% versus 81.3% for initial insulin infusion rate (P = 0.014), respectively. Time to DKA resolution was decreased (P = 0.04), and hypoglycaemia was increased (P = 0.0022). Implementation of a computerised DKA order set and protocol was associated with improved compliance to the 2009 ADA DKA guidelines, 24-h fluid resuscitation, initial insulin infusion rate, time to DKA resolution and appropriate transition to subcutaneous insulin. However, patients in the POST implementation group were more likely to exhibit hypoglycaemia. Future assessment is warranted.
+28338247	0	6	Impact	T080	C4049986
+28338247	10	31	diabetic ketoacidosis	T047	C0011880
+28338247	32	42	management	T058	C0376636
+28338247	50	77	medical intensive care unit	T073,T093	C2711734
+28338247	84	93	order set	T170	C0282574
+28338247	94	108	implementation	T052	C1708476
+28338247	126	130	rate	T081	C1521828
+28338247	134	144	compliance	T058	C0525058
+28338247	166	184	ADA DKA guidelines	T170	C0162791
+28338247	192	219	medical intensive care unit	T073,T093	C2711734
+28338247	221	225	MICU	T073,T093	C2711734
+28338247	238	261	academic medical centre	T073,T093	C0000872
+28338247	272	286	implementation	T052	C1708476
+28338247	292	318	computerised DKA order set	T170	C0282574
+28338247	323	331	protocol	T061	C0008971
+28338247	333	346	Retrospective	T080	C1514923
+28338247	347	359	chart review	T170	C0282443
+28338247	363	377	adult patients	T101	C0030705
+28338247	383	386	DKA	T047	C0011880
+28338247	387	395	admitted	T058	C0809949
+28338247	403	407	MICU	T073,T093	C2711734
+28338247	420	433	pre-order set	T170	C0282574
+28338247	435	438	PRE	T170	C0282574
+28338247	471	485	post-order set	T170	C0282574
+28338247	487	491	POST	T170	C0282574
+28338247	498	513	primary outcome	T169	C1274040
+28338247	530	544	administration	T061	C1533734
+28338247	548	579	intravenous fluid resuscitation	T061	C2317423
+28338247	599	606	insulin	T116,T121,T125	C0021641
+28338247	607	612	bolus	T061	C1511237
+28338247	617	624	initial	T079	C0205265
+28338247	625	632	insulin	T116,T121,T125	C0021641
+28338247	633	646	infusion rate	T079	C2964135
+28338247	661	669	patients	T101	C0030705
+28338247	683	692	PRE group	UnknownType	C0681860
+28338247	702	711	treatment	T061	C0087111
+28338247	712	721	compliant	T080	C0566588
+28338247	736	746	guidelines	T170	C0162791
+28338247	763	771	patients	T101	C0030705
+28338247	787	797	POST group	UnknownType	C0681860
+28338247	799	801	OR	T081	C0028873
+28338247	811	813	CI	T081	C0009667
+28338247	838	848	Compliance	T058	C0525058
+28338247	861	871	guidelines	T170	C0162791
+28338247	876	896	significantly higher	T081	C4055637
+28338247	904	914	POST group	UnknownType	C0681860
+28338247	936	938	OR	T081	C0028873
+28338247	948	950	CI	T081	C0009667
+28338247	978	988	Compliance	T058	C0525058
+28338247	1042	1061	fluid resuscitation	T061	C0150238
+28338247	1097	1104	insulin	T116,T121,T125	C0021641
+28338247	1105	1110	bolus	T061	C1511237
+28338247	1147	1154	initial	T079	C0205265
+28338247	1155	1162	insulin	T116,T121,T125	C0021641
+28338247	1163	1176	infusion rate	T079	C2964135
+28338247	1204	1208	Time	T079	C0040223
+28338247	1212	1215	DKA	T047	C0011880
+28338247	1216	1226	resolution	T077	C2699488
+28338247	1231	1240	decreased	T081	C0205216
+28338247	1257	1270	hypoglycaemia	T047	C0020615
+28338247	1275	1284	increased	T081	C0205217
+28338247	1299	1313	Implementation	T052	C1708476
+28338247	1319	1345	computerised DKA order set	T170	C0282574
+28338247	1350	1358	protocol	T061	C0008971
+28338247	1363	1378	associated with	T080	C0332281
+28338247	1379	1387	improved	T033	C0184511
+28338247	1388	1398	compliance	T058	C0525058
+28338247	1411	1429	ADA DKA guidelines	T170	C0162791
+28338247	1436	1455	fluid resuscitation	T061	C0150238
+28338247	1457	1464	initial	T079	C0205265
+28338247	1465	1472	insulin	T116,T121,T125	C0021641
+28338247	1473	1486	infusion rate	T079	C2964135
+28338247	1488	1492	time	T079	C0040223
+28338247	1496	1499	DKA	T047	C0011880
+28338247	1500	1510	resolution	T077	C2699488
+28338247	1527	1537	transition	T052	C2700061
+28338247	1541	1553	subcutaneous	T082	C0443315
+28338247	1554	1561	insulin	T116,T121,T125	C0021641
+28338247	1572	1580	patients	T101	C0030705
+28338247	1588	1613	POST implementation group	UnknownType	C0681860
+28338247	1642	1655	hypoglycaemia	T047	C0020615

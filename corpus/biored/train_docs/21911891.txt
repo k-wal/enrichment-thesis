@@ -1,0 +1,51 @@
+21911891|t|Plasminogen activator inhibitor type 1 serum levels and 4G/5G gene polymorphism in morbidly obese Hispanic patients with non-alcoholic fatty liver disease.
+21911891|a|BACKGROUND: The plasminogen activator inhibitor type-1 (PAI-1) has been implicated in the regulation of fibrinolysis and extracellular matrix components. The single base pair guanine insertion/deletion polymorphism (4G/5G) within the promoter region of the PAI-1 gene influences PAI-1 synthesis and may modulate hepatic fibrogenesis. AIM: To evaluate the influence of PAI-1 serum levels and 4G/5G polymorphism on the risk of liver fibrosis associated to non-alcoholic fatty liver disease (NAFLD) in morbidly obese patients. MATERIAL AND METHODS: Case-control study of 50 obese patients undergoing bariatric surgery and 71 non-obese subjects matched by age and sex. Anthropometric and biochemical measurements were performed, including PAI-1 serum levels. Genomic DNA was obtained to assess the presence of 4G/5G polymorphism. RESULTS: BMI, insulinemia, triglycerides, HOMA-IR, hypertension and diabetes were significantly higher in obese patients compared to control subjects. PAI-1 serum levels observed in obese patients were significantly lower (10.63 4.82) compared to controls (14.26 11.4; p < 0.05). No differences were observed in the PAI-1 4G/5G promoter genotypes frequencies (p = 0.12). No differences were observed in PAI-1 plasma levels among obese patients with liver fibrosis (10.64 4.35) compared to patients without liver fibrosis (10.61 5.2; p = 0.985). PAI-1 4G/5G promoter genotypes frequencies were similar in patients with or without liver fibrosis associated to NASH (p = 0.6). CONCLUSIONS: Morbidly obese patients had significantly lower PAI-1 serum levels with similar PAI-1 4G/5G genotypes frequencies compared to non-obese subjects. The frequency of 4G/5G genotypes in Chilean Hispanic healthy subjects was similar to that described in other populations. No association was found between PAI-1 serum levels or 4G/5G genotype with liver fibrosis in obese patients.
+21911891	0	38	Plasminogen activator inhibitor type 1	GeneOrGeneProduct	5054
+21911891	92	97	obese	DiseaseOrPhenotypicFeature	D009765
+21911891	107	115	patients	OrganismTaxon	9606
+21911891	121	154	non-alcoholic fatty liver disease	DiseaseOrPhenotypicFeature	D065626
+21911891	172	210	plasminogen activator inhibitor type-1	GeneOrGeneProduct	5054
+21911891	212	217	PAI-1	GeneOrGeneProduct	5054
+21911891	413	418	PAI-1	GeneOrGeneProduct	5054
+21911891	435	440	PAI-1	GeneOrGeneProduct	5054
+21911891	468	488	hepatic fibrogenesis	DiseaseOrPhenotypicFeature	D008107
+21911891	524	529	PAI-1	GeneOrGeneProduct	5054
+21911891	581	595	liver fibrosis	DiseaseOrPhenotypicFeature	D008103
+21911891	610	643	non-alcoholic fatty liver disease	DiseaseOrPhenotypicFeature	D065626
+21911891	645	650	NAFLD	DiseaseOrPhenotypicFeature	D065626
+21911891	664	669	obese	DiseaseOrPhenotypicFeature	D009765
+21911891	670	678	patients	OrganismTaxon	9606
+21911891	727	732	obese	DiseaseOrPhenotypicFeature	D009765
+21911891	733	741	patients	OrganismTaxon	9606
+21911891	782	787	obese	DiseaseOrPhenotypicFeature	D009765
+21911891	891	896	PAI-1	GeneOrGeneProduct	5054
+21911891	1009	1022	triglycerides	ChemicalEntity	D014280
+21911891	1033	1045	hypertension	DiseaseOrPhenotypicFeature	D006973
+21911891	1050	1058	diabetes	DiseaseOrPhenotypicFeature	D003920
+21911891	1088	1093	obese	DiseaseOrPhenotypicFeature	D009765
+21911891	1094	1102	patients	OrganismTaxon	9606
+21911891	1133	1138	PAI-1	GeneOrGeneProduct	5054
+21911891	1164	1169	obese	DiseaseOrPhenotypicFeature	D009765
+21911891	1170	1178	patients	OrganismTaxon	9606
+21911891	1298	1303	PAI-1	GeneOrGeneProduct	5054
+21911891	1385	1390	PAI-1	GeneOrGeneProduct	5054
+21911891	1411	1416	obese	DiseaseOrPhenotypicFeature	D009765
+21911891	1417	1425	patients	OrganismTaxon	9606
+21911891	1431	1445	liver fibrosis	DiseaseOrPhenotypicFeature	D008103
+21911891	1471	1479	patients	OrganismTaxon	9606
+21911891	1488	1502	liver fibrosis	DiseaseOrPhenotypicFeature	D008103
+21911891	1527	1532	PAI-1	GeneOrGeneProduct	5054
+21911891	1586	1594	patients	OrganismTaxon	9606
+21911891	1611	1625	liver fibrosis	DiseaseOrPhenotypicFeature	D008103
+21911891	1640	1644	NASH	DiseaseOrPhenotypicFeature	D065626
+21911891	1678	1683	obese	DiseaseOrPhenotypicFeature	D009765
+21911891	1684	1692	patients	OrganismTaxon	9606
+21911891	1717	1722	PAI-1	GeneOrGeneProduct	5054
+21911891	1749	1754	PAI-1	GeneOrGeneProduct	5054
+21911891	1799	1804	obese	DiseaseOrPhenotypicFeature	D009765
+21911891	1970	1975	PAI-1	GeneOrGeneProduct	5054
+21911891	2012	2026	liver fibrosis	DiseaseOrPhenotypicFeature	D008103
+21911891	2030	2035	obese	DiseaseOrPhenotypicFeature	D009765
+21911891	2036	2044	patients	OrganismTaxon	9606
+21911891	Positive_Correlation	D014280	D009765	Novel
+21911891	Association	5054	D009765	Novel

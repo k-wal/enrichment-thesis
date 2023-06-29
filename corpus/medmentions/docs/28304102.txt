@@ -1,0 +1,66 @@
+28304102|t|Design, Synthesis, and Cytotoxic Evaluation of Certain 7-Chloro-4-(piperazin-1-yl)quinoline Derivatives as VEGFR-II Inhibitors
+28304102|a|Signaling pathway inhibition of VEGFR-II is visualized as valuable tool in cancer management. In the current study, the synthesis of novel 1-4-(7-chloroquinolin-4-yl)piperazin-1-yl)-2-(N-substituted-amino)-ethanone derivatives (4a-t) was achieved through the amination of 2-chloro-1-(4-(7-chloroquinolin-4-yl)piperazin-1-yl)ethanone (3) with different secondary amines. The structures of the target compounds were confirmed by IR, (1) H-NMR, (13) C-NMR, HRMS, and microanalysis. Compounds 4a-t were subjected to in vitro anticancer screening against human breast cancer (MCF-7) and prostate cancer (PC3) cell lines. The highest cytotoxicty against both cell lines was displayed by 2-(4-(4-bromobenzyl)piperazin-1-yl)-1-(4-(7-chloroquinolin-4-yl)piperazin-1-yl)ethanone (4q), with IC50 values of 6.502 and 11.751 μM against MCF-7 and PC3 cells, respectively, compared with the standard drug doxorubicin (MCF-7: 6.774 μM, PC3: 7.7316 μM). Due to its notable activity toward MCF-7 cells, 4q was further evaluated as VEGFR-II inhibitor, showing an IC50 of 1.38 μM compared to sorafenib (0.33 μM). The docking study proved that 4q has a binding mode akin to that of VEGFR-II inhibitors.
+28304102	0	6	Design	T052	C1707689
+28304102	8	17	Synthesis	T070	C0007987
+28304102	23	32	Cytotoxic	T049	C0596402
+28304102	33	43	Evaluation	T058	C0220825
+28304102	55	91	7-Chloro-4-(piperazin-1-yl)quinoline	T109	C0034424
+28304102	92	103	Derivatives	T104	C0243072
+28304102	107	115	VEGFR-II	T116,T192	C0378796
+28304102	116	126	Inhibitors	T120	C0243077
+28304102	127	144	Signaling pathway	T044	C0037080
+28304102	145	155	inhibition	T052	C3463820
+28304102	159	167	VEGFR-II	T116,T192	C0378796
+28304102	202	208	cancer	T191	C0006826
+28304102	209	219	management	T058	C0376636
+28304102	228	241	current study	T062	C2603343
+28304102	247	256	synthesis	T070	C0007987
+28304102	260	265	novel	T080	C0205314
+28304102	266	341	1-4-(7-chloroquinolin-4-yl)piperazin-1-yl)-2-(N-substituted-amino)-ethanone	T109	C0034424
+28304102	342	353	derivatives	T104	C0243072
+28304102	355	359	4a-t	T109	C0034424
+28304102	386	395	amination	T070	C0002505
+28304102	399	463	2-chloro-1-(4-(7-chloroquinolin-4-yl)piperazin-1-yl)ethanone (3)	T109	C0034424
+28304102	479	496	secondary amines.	T109	C0002508
+28304102	501	511	structures	T085	C0026383
+28304102	519	525	target	T169	C1521840
+28304102	526	535	compounds	T103	C1706082
+28304102	541	553	confirmed by	T080	C0521093
+28304102	554	556	IR	T059	C0037807
+28304102	558	567	(1) H-NMR	T060	C3850001
+28304102	569	579	(13) C-NMR	T060	C3850003
+28304102	581	585	HRMS	T059	C0037813
+28304102	591	604	microanalysis	T059	C0013844
+28304102	606	615	Compounds	T103	C1706082
+28304102	616	620	4a-t	T109	C0034424
+28304102	639	647	in vitro	T080	C1533691
+28304102	648	658	anticancer	T061	C0920425
+28304102	659	668	screening	T058	C1710032
+28304102	677	696	human breast cancer	T191	C0678222
+28304102	698	703	MCF-7	T025	C0596890
+28304102	709	724	prostate cancer	T191	C0600139
+28304102	726	729	PC3	T025	C0007634
+28304102	731	741	cell lines	T025	C0007600
+28304102	755	766	cytotoxicty	T049	C0596402
+28304102	780	790	cell lines	T025	C0007600
+28304102	808	900	2-(4-(4-bromobenzyl)piperazin-1-yl)-1-(4-(7-chloroquinolin-4-yl)piperazin-1-yl)ethanone (4q)	T109	C0034424
+28304102	907	918	IC50 values	T081	C0600495
+28304102	950	955	MCF-7	T025	C0596890
+28304102	960	969	PC3 cells	T025	C0007634
+28304102	985	993	compared	T052	C1707455
+28304102	1003	1016	standard drug	T170	C0920479
+28304102	1017	1028	doxorubicin	T109,T195	C0013089
+28304102	1030	1035	MCF-7	T025	C0596890
+28304102	1047	1050	PC3	T025	C0007634
+28304102	1083	1091	activity	T052	C0441655
+28304102	1099	1110	MCF-7 cells	T025	C0596890
+28304102	1112	1114	4q	T109	C0034424
+28304102	1140	1148	VEGFR-II	T116,T192	C0378796
+28304102	1149	1158	inhibitor	T120	C0243077
+28304102	1171	1175	IC50	T081	C0600495
+28304102	1199	1208	sorafenib	T109,T121	C1516119
+28304102	1224	1231	docking	T044	C1522290
+28304102	1250	1252	4q	T109	C0034424
+28304102	1259	1271	binding mode	T044	C1167622
+28304102	1288	1296	VEGFR-II	T116,T192	C0378796
+28304102	1297	1307	inhibitors	T120	C0243077

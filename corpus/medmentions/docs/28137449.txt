@@ -1,0 +1,81 @@
+28137449|t|The binding orientations of structurally -related ligands can differ; A cautionary note
+28137449|a|Crystal structures can identify ligand-receptor interactions and assist the development of novel therapeutics, but experimental challenges sometimes necessitate the use of homologous proteins. Tropisetron is an orthosteric ligand at both 5-HT3 and α7 nACh receptors and its binding orientation has been determined in the structural homologue AChBP (pdbid: 2WNC). Co-crystallisation with a structurally -related ligand, granisetron, reveals an almost identical orientation (pdbid; 2YME). However, there is a >1000-fold difference in the affinity of tropisetron at 5-HT3 versus α7 nACh receptors, and α7 nACh receptors do not bind granisetron. These striking pharmacological differences prompt questions about which receptor the crystal structures most closely represent and whether the ligand orientations are correct. Here we probe the binding orientation of tropisetron and granisetron at 5-HT3 receptors by in silico modelling and docking, radioligand binding on cysteine - substituted 5-HT3 receptor mutants transiently expressed in HEK 293 cells, and synthetic modification of the ligands. For 15 of the 23 cysteine substitutions, the effects on tropisetron and granisetron were different. Structure-activity relationships on synthesised derivatives of both ligands were also consistent with different orientations, revealing that contrary to the crystallographic evidence from AChBP, the two ligands adopt different orientations in the 5-HT3 receptor binding site. Our results show that even quite structurally similar molecules can adopt different orientations in the same binding site, and that caution may be needed when using homologous proteins to predict ligand binding.
+28137449	4	11	binding	T044	C0597358
+28137449	12	24	orientations	T082	C1704322
+28137449	28	40	structurally	T082	C0678594
+28137449	50	57	ligands	T103	C0023688
+28137449	62	68	differ	T080	C1705242
+28137449	88	106	Crystal structures	T104	C0444626
+28137449	120	148	ligand-receptor interactions	T044	C0597358
+28137449	185	197	therapeutics	T061	C0087111
+28137449	203	215	experimental	T080	C1517586
+28137449	260	279	homologous proteins	T116	C1512488
+28137449	281	292	Tropisetron	T109,T121	C0063322
+28137449	299	317	orthosteric ligand	T103	C0023688
+28137449	326	331	5-HT3	T116,T192	C0295352
+28137449	336	353	α7 nACh receptors	T116,T192	C0051334
+28137449	362	369	binding	T044	C0597358
+28137449	370	381	orientation	T082	C1704322
+28137449	409	429	structural homologue	T087	C1449549
+28137449	430	435	AChBP	T116	C1254349
+28137449	451	469	Co-crystallisation	T070	C0010423
+28137449	477	489	structurally	T082	C0678594
+28137449	499	505	ligand	T103	C0023688
+28137449	507	518	granisetron	T109,T121	C0061863
+28137449	538	547	identical	T080	C0205280
+28137449	548	559	orientation	T082	C1704322
+28137449	606	616	difference	T080	C1705242
+28137449	624	632	affinity	T070	C1510827
+28137449	636	647	tropisetron	T109,T121	C0063322
+28137449	651	656	5-HT3	T116,T192	C0295352
+28137449	664	681	α7 nACh receptors	T116,T192	C0051334
+28137449	687	704	α7 nACh receptors	T116,T192	C0051334
+28137449	708	711	not	T169	C1518422
+28137449	712	716	bind	T044	C0597358
+28137449	717	728	granisetron	T109,T121	C0061863
+28137449	745	760	pharmacological	T169	C0205464
+28137449	761	772	differences	T080	C1705242
+28137449	802	810	receptor	T116,T192	C0597357
+28137449	815	833	crystal structures	T104	C0444626
+28137449	873	879	ligand	T103	C0023688
+28137449	880	892	orientations	T082	C1704322
+28137449	924	931	binding	T044	C0597358
+28137449	932	943	orientation	T082	C1704322
+28137449	947	958	tropisetron	T109,T121	C0063322
+28137449	963	974	granisetron	T109,T121	C0061863
+28137449	978	993	5-HT3 receptors	T116,T192	C0295352
+28137449	997	1006	in silico	T066	C3489666
+28137449	1007	1016	modelling	T090	C0013193
+28137449	1021	1028	docking	T044	C1522290
+28137449	1030	1049	radioligand binding	T044	C1517880
+28137449	1053	1061	cysteine	T116,T123	C0010654
+28137449	1064	1075	substituted	T045	C0525038
+28137449	1076	1090	5-HT3 receptor	T116,T192	C0295352
+28137449	1091	1098	mutants	T049	C0596988
+28137449	1111	1120	expressed	T045	C0017262
+28137449	1124	1137	HEK 293 cells	T025	C2936239
+28137449	1143	1165	synthetic modification	T091	C0598331
+28137449	1173	1180	ligands	T103	C0023688
+28137449	1199	1207	cysteine	T116,T123	C0010654
+28137449	1208	1221	substitutions	T045	C0525038
+28137449	1227	1234	effects	T080	C1280500
+28137449	1238	1249	tropisetron	T109,T121	C0063322
+28137449	1254	1265	granisetron	T109,T121	C0061863
+28137449	1282	1314	Structure-activity relationships	T080	C0038477
+28137449	1350	1357	ligands	T103	C0023688
+28137449	1394	1406	orientations	T082	C1704322
+28137449	1408	1417	revealing	T080	C0443289
+28137449	1439	1455	crystallographic	T059	C0010424
+28137449	1456	1464	evidence	T078	C3887511
+28137449	1470	1475	AChBP	T116	C1254349
+28137449	1485	1492	ligands	T103	C0023688
+28137449	1499	1508	different	T080	C1705242
+28137449	1509	1521	orientations	T082	C1704322
+28137449	1529	1543	5-HT3 receptor	T116,T192	C0295352
+28137449	1544	1556	binding site	T192	C0005456
+28137449	1591	1603	structurally	T082	C0678594
+28137449	1612	1621	molecules	T167	C0567416
+28137449	1642	1654	orientations	T082	C1704322
+28137449	1667	1679	binding site	T192	C0005456
+28137449	1723	1742	homologous proteins	T116	C1512488
+28137449	1754	1768	ligand binding	T044	C1517880

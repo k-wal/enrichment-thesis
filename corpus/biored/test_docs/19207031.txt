@@ -1,0 +1,46 @@
+19207031|t|Growth hormone dose in growth hormone-deficient adults is not associated with IGF-1 gene polymorphisms.
+19207031|a|AIMS: Several SNPs and a microsatellite cytosine-adenine repeat promoter polymorphism of the IGF-1 gene have been reported to be associated with circulating IGF-1 serum concentrations. Variance in IGF-1 concentrations due to genetic variations may affect different response to growth hormone (GH) treatment, resulting in different individually required GH-doses in GH-deficient patients. The aim of this study was to test if the IGF-1 gene polymorphisms are associated with the GH-dose of GH-deficient adults. MATERIALS & METHODS: A total of nine tagging SNPs, five additionally selected SNPs and a cytosine-adenine repeat polymorphism were determined in 133 German adult patients (66 men, 67 women; mean age 45.4 years +/- 13.1 standard deviation; majority Caucasian) with GH-deficiency (GHD) of different origin, derived from the prospective Pfizer International Metabolic Study (KIMS) Pharmacogenetics Study. Patients received GH-treatment for 12 months with finished dose-titration of GH and centralized IGF-1 measurements. GH-dose after 1 year of treatment, IGF-1 concentrations, IGF-1-standard deviation score (SDS), the IGF-1:GH ratio and anthropometric data were analyzed by genotype. RESULTS: Except for rs1019731, which showed a significant difference of IGF-1-SDS by genotypes (p = 0.02), all polymorphisms showed no associations with the GH-doses, IGF-1 concentrations, IGF-1-SDS and IGF-1:GH ratio after adjusting for the confounding variables gender, age and BMI. CONCLUSION: IGF-1 gene polymorphisms were not associated with the responsiveness to exogenous GH in GHD. Therefore, genetic variations of the IGF-1 gene seem not to be major influencing factors of the GH-IGF-axis causing variable response to exogenous GH-treatment.
+19207031	0	14	Growth hormone	GeneOrGeneProduct	2688
+19207031	23	47	growth hormone-deficient	DiseaseOrPhenotypicFeature	D004393
+19207031	78	83	IGF-1	GeneOrGeneProduct	3479
+19207031	197	202	IGF-1	GeneOrGeneProduct	3479
+19207031	261	266	IGF-1	GeneOrGeneProduct	3479
+19207031	301	306	IGF-1	GeneOrGeneProduct	3479
+19207031	381	395	growth hormone	GeneOrGeneProduct	2688
+19207031	397	399	GH	GeneOrGeneProduct	2688
+19207031	457	459	GH	GeneOrGeneProduct	2688
+19207031	469	481	GH-deficient	DiseaseOrPhenotypicFeature	D004393
+19207031	482	490	patients	OrganismTaxon	9606
+19207031	533	538	IGF-1	GeneOrGeneProduct	3479
+19207031	582	584	GH	GeneOrGeneProduct	2688
+19207031	593	605	GH-deficient	DiseaseOrPhenotypicFeature	D004393
+19207031	776	784	patients	OrganismTaxon	9606
+19207031	789	792	men	OrganismTaxon	9606
+19207031	797	802	women	OrganismTaxon	9606
+19207031	878	891	GH-deficiency	DiseaseOrPhenotypicFeature	D004393
+19207031	893	896	GHD	DiseaseOrPhenotypicFeature	D004393
+19207031	1016	1024	Patients	OrganismTaxon	9606
+19207031	1034	1036	GH	GeneOrGeneProduct	2688
+19207031	1093	1095	GH	GeneOrGeneProduct	2688
+19207031	1112	1117	IGF-1	GeneOrGeneProduct	3479
+19207031	1132	1134	GH	GeneOrGeneProduct	2688
+19207031	1167	1172	IGF-1	GeneOrGeneProduct	3479
+19207031	1189	1194	IGF-1	GeneOrGeneProduct	3479
+19207031	1231	1236	IGF-1	GeneOrGeneProduct	3479
+19207031	1237	1239	GH	GeneOrGeneProduct	2688
+19207031	1317	1326	rs1019731	SequenceVariant	rs1019731
+19207031	1369	1374	IGF-1	GeneOrGeneProduct	3479
+19207031	1454	1456	GH	GeneOrGeneProduct	2688
+19207031	1464	1469	IGF-1	GeneOrGeneProduct	3479
+19207031	1486	1491	IGF-1	GeneOrGeneProduct	3479
+19207031	1500	1505	IGF-1	GeneOrGeneProduct	3479
+19207031	1506	1508	GH	GeneOrGeneProduct	2688
+19207031	1594	1599	IGF-1	GeneOrGeneProduct	3479
+19207031	1676	1678	GH	GeneOrGeneProduct	2688
+19207031	1682	1685	GHD	DiseaseOrPhenotypicFeature	D004393
+19207031	1724	1729	IGF-1	GeneOrGeneProduct	3479
+19207031	1783	1785	GH	GeneOrGeneProduct	2688
+19207031	1786	1789	IGF	GeneOrGeneProduct	3479
+19207031	1834	1836	GH	GeneOrGeneProduct	2688
+19207031	Association	3479	2688	Novel
+19207031	Negative_Correlation	2688	D004393	No

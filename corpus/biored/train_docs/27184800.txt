@@ -1,0 +1,47 @@
+27184800|t|Metallothionein-1 as a biomarker of altered redox metabolism in hepatocellular carcinoma cells exposed to sorafenib.
+27184800|a|BACKGROUND: Sorafenib, a kinase inhibitor active against various solid tumours, induces oxidative stress and ferroptosis, a new form of oxidative necrosis, in some cancer cells. Clinically-applicable biomarkers that reflect the impact of sorafenib on the redox metabolism of cancer cells are lacking. METHODS: We used gene expression microarrays, real-time PCR, immunoblot, protein-specific ELISA, and gene reporter constructs encoding the enzyme luciferase to study the response of a panel of cancer cells to sorafenib. Tumour explants prepared from surgical hepatocellular carcinoma (HCC) samples and serum samples obtained from HCC patients receiving sorafenib were also used. RESULTS: We observed that genes of the metallothionein-1 (MT1) family are induced in the HCC cell line Huh7 exposed to sorafenib. Sorafenib increased the expression of MT1G mRNA in a panel of human cancer cells, an effect that was not observed with eight other clinically-approved kinase inhibitors. We identified the minimal region of the MT1G promoter that confers inducibility by sorafenib to a 133 base pair region containing an Anti-oxidant Response Element (ARE) and showed the essential role of the transcription factor NRF2 (Nuclear factor erythroid 2-Related Factor 2). We examined the clinical relevance of our findings by analysing the regulation of MT1G in five tumour explants prepared from surgical HCC samples. Finally, we showed that the protein levels of MT1 increase in the serum of some HCC patients receiving sorafenib, and found an association with reduced overall survival. CONCLUSION: These findings indicate that MT1 constitute a biomarker adapted for exploring the impact of sorafenib on the redox metabolism of cancer cells.
+27184800	0	17	Metallothionein-1	GeneOrGeneProduct	4495
+27184800	64	88	hepatocellular carcinoma	DiseaseOrPhenotypicFeature	D006528
+27184800	106	115	sorafenib	ChemicalEntity	D000077157
+27184800	129	138	Sorafenib	ChemicalEntity	D000077157
+27184800	188	195	tumours	DiseaseOrPhenotypicFeature	D009369
+27184800	263	271	necrosis	DiseaseOrPhenotypicFeature	D009336
+27184800	281	287	cancer	DiseaseOrPhenotypicFeature	D009369
+27184800	355	364	sorafenib	ChemicalEntity	D000077157
+27184800	392	398	cancer	DiseaseOrPhenotypicFeature	D009369
+27184800	611	617	cancer	DiseaseOrPhenotypicFeature	D009369
+27184800	627	636	sorafenib	ChemicalEntity	D000077157
+27184800	638	644	Tumour	DiseaseOrPhenotypicFeature	D009369
+27184800	677	701	hepatocellular carcinoma	DiseaseOrPhenotypicFeature	D006528
+27184800	703	706	HCC	DiseaseOrPhenotypicFeature	D006528
+27184800	748	751	HCC	DiseaseOrPhenotypicFeature	D006528
+27184800	752	760	patients	OrganismTaxon	9606
+27184800	771	780	sorafenib	ChemicalEntity	D000077157
+27184800	836	853	metallothionein-1	GeneOrGeneProduct	4495
+27184800	855	858	MT1	GeneOrGeneProduct	4495
+27184800	886	889	HCC	DiseaseOrPhenotypicFeature	D006528
+27184800	900	904	Huh7	CellLine	CVCL_0336
+27184800	916	925	sorafenib	ChemicalEntity	D000077157
+27184800	927	936	Sorafenib	ChemicalEntity	D000077157
+27184800	965	969	MT1G	GeneOrGeneProduct	4495
+27184800	989	994	human	OrganismTaxon	9606
+27184800	995	1001	cancer	DiseaseOrPhenotypicFeature	D009369
+27184800	1137	1141	MT1G	GeneOrGeneProduct	4495
+27184800	1180	1189	sorafenib	ChemicalEntity	D000077157
+27184800	1324	1328	NRF2	GeneOrGeneProduct	4780
+27184800	1330	1373	Nuclear factor erythroid 2-Related Factor 2	GeneOrGeneProduct	4780
+27184800	1458	1462	MT1G	GeneOrGeneProduct	4495
+27184800	1471	1477	tumour	DiseaseOrPhenotypicFeature	D009369
+27184800	1510	1513	HCC	DiseaseOrPhenotypicFeature	D006528
+27184800	1569	1572	MT1	GeneOrGeneProduct	4495
+27184800	1603	1606	HCC	DiseaseOrPhenotypicFeature	D006528
+27184800	1607	1615	patients	OrganismTaxon	9606
+27184800	1626	1635	sorafenib	ChemicalEntity	D000077157
+27184800	1734	1737	MT1	GeneOrGeneProduct	4495
+27184800	1797	1806	sorafenib	ChemicalEntity	D000077157
+27184800	1834	1840	cancer	DiseaseOrPhenotypicFeature	D009369
+27184800	Association	4495	D009369	Novel
+27184800	Positive_Correlation	4495	D000077157	Novel
+27184800	Association	4495	D006528	Novel
+27184800	Negative_Correlation	D000077157	D009369	No
+27184800	Negative_Correlation	D006528	D000077157	No

@@ -1,0 +1,43 @@
+18308784|t|Ginsenoside Rg1 restores the impairment of learning induced by chronic morphine administration in rats.
+18308784|a|Rg1, as a ginsenoside extracted from Panax ginseng, could ameliorate spatial learning impairment. Previous studies have demonstrated that Rg1 might be a useful agent for the prevention and treatment of the adverse effects of morphine. The aim of this study was to investigate the effect of Rg1 on learning impairment by chronic morphine administration and the mechanism responsible for this effect. Male rats were subcutaneously injected with morphine (10 mg/kg) twice a day at 12 hour intervals for 10 days, and Rg1 (30 mg/kg) was intraperitoneally injected 2 hours after the second injection of morphine once a day for 10 days. Spatial learning capacity was assessed in the Morris water maze. The results showed that rats treated with Morphine/Rg1 decreased escape latency and increased the time spent in platform quadrant and entering frequency. By implantation of electrodes and electrophysiological recording in vivo, the results showed that Rg1 restored the long-term potentiation (LTP) impaired by morphine in both freely moving and anaesthetised rats. The electrophysiological recording in vitro showed that Rg1 restored the LTP in slices from the rats treated with morphine, but not changed LTP in the slices from normal saline- or morphine/Rg1-treated rats; this restoration could be inhibited by N-methyl-D-aspartate (NMDA) receptor antagonist MK801. We conclude that Rg1 may significantly improve the spatial learning capacity impaired by chonic morphine administration and restore the morphine-inhibited LTP. This effect is NMDA receptor dependent.
+18308784	0	15	Ginsenoside Rg1	ChemicalEntity	C035054
+18308784	29	51	impairment of learning	DiseaseOrPhenotypicFeature	D007859
+18308784	71	79	morphine	ChemicalEntity	D009020
+18308784	98	102	rats	OrganismTaxon	10116
+18308784	104	107	Rg1	ChemicalEntity	C035054
+18308784	114	125	ginsenoside	ChemicalEntity	D036145
+18308784	141	154	Panax ginseng	OrganismTaxon	4054
+18308784	181	200	learning impairment	DiseaseOrPhenotypicFeature	D007859
+18308784	242	245	Rg1	ChemicalEntity	C035054
+18308784	329	337	morphine	ChemicalEntity	D009020
+18308784	394	397	Rg1	ChemicalEntity	C035054
+18308784	401	420	learning impairment	DiseaseOrPhenotypicFeature	D007859
+18308784	432	440	morphine	ChemicalEntity	D009020
+18308784	508	512	rats	OrganismTaxon	10116
+18308784	547	555	morphine	ChemicalEntity	D009020
+18308784	617	620	Rg1	ChemicalEntity	C035054
+18308784	701	709	morphine	ChemicalEntity	D009020
+18308784	823	827	rats	OrganismTaxon	10116
+18308784	841	849	Morphine	ChemicalEntity	D009020
+18308784	850	853	Rg1	ChemicalEntity	C035054
+18308784	1051	1054	Rg1	ChemicalEntity	C035054
+18308784	1109	1117	morphine	ChemicalEntity	D009020
+18308784	1158	1162	rats	OrganismTaxon	10116
+18308784	1220	1223	Rg1	ChemicalEntity	C035054
+18308784	1260	1264	rats	OrganismTaxon	10116
+18308784	1278	1286	morphine	ChemicalEntity	D009020
+18308784	1345	1353	morphine	ChemicalEntity	D009020
+18308784	1354	1357	Rg1	ChemicalEntity	C035054
+18308784	1366	1370	rats	OrganismTaxon	10116
+18308784	1411	1447	N-methyl-D-aspartate (NMDA) receptor	GeneOrGeneProduct	24408
+18308784	1459	1464	MK801	ChemicalEntity	D016291
+18308784	1483	1486	Rg1	ChemicalEntity	C035054
+18308784	1562	1570	morphine	ChemicalEntity	D009020
+18308784	1602	1610	morphine	ChemicalEntity	D009020
+18308784	1641	1654	NMDA receptor	GeneOrGeneProduct	24408
+18308784	Negative_Correlation	24408	D016291	No
+18308784	Association	C035054	24408	Novel
+18308784	Negative_Correlation	C035054	D009020	No
+18308784	Negative_Correlation	C035054	D007859	No
+18308784	Negative_Correlation	D016291	C035054	Novel
+18308784	Positive_Correlation	D007859	D009020	No

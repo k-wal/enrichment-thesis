@@ -1,0 +1,56 @@
+27597857|t|Mining for Candidate Genes in an Introgression Line by Using RNA Sequencing: The Anthocyanin Overaccumulation Phenotype in Brassica
+27597857|a|Introgression breeding is a widely used method for the genetic improvement of crop plants; however, the mechanism underlying candidate gene flow patterns during hybridization is poorly understood. In this study, we used a powerful pipeline to investigate a Chinese cabbage (Brassica rapa L. ssp. pekinensis) introgression line with the anthocyanin overaccumulation phenotype. Our purpose was to analyze the gene flow patterns during hybridization and elucidate the genetic factors responsible for the accumulation of this important pigment compound. We performed RNA-seq analysis by using two pipelines, one with and one without a reference sequence, to obtain transcriptome data. We identified 930 significantly differentially expressed genes (DEGs) between the purple - leaf introgression line and B. rapa green cultivar, namely, 389 up-regulated and 541 down-regulated DEGs that mapped to the B. rapa reference genome. Since only one anthocyanin pathway regulatory gene was identified, i.e., Bra037887 (bHLH), we mined unmapped reads, revealing 2031 de novo assembled unigenes, including c3563g1i2. Phylogenetic analysis suggested that c3563g1i2, which was transferred from the Brassica B genome of the donor parental line Brassica juncea, may represent an R2R3-MYB transcription factor that participates in the ternary transcriptional activation complex responsible for the anthocyanin overaccumulation phenotype of the B. rapa introgression line. We also identified genes involved in cold and light reaction pathways that were highly upregulated in the introgression line, as confirmed using quantitative real-time PCR analysis. The results of this study shed light on the mechanisms underlying the purple leaf trait in Brassica plants and may facilitate the use of introgressive hybridization for many traits of interest.
+27597857	11	26	Candidate Genes	T038	UMLS:C0017393
+27597857	33	51	Introgression Line	T038	UMLS:C1565556
+27597857	61	75	RNA Sequencing	T058	UMLS:C0162803
+27597857	81	92	Anthocyanin	T103	UMLS:C0003161
+27597857	93	109	Overaccumulation	T033	UMLS:C4055506
+27597857	123	131	Brassica	T204	UMLS:C0034670
+27597857	132	145	Introgression	T038	UMLS:C1565556
+27597857	146	154	breeding	T038	UMLS:C0006159
+27597857	187	206	genetic improvement	T058	UMLS:C0017296
+27597857	210	221	crop plants	T204	UMLS:C0242775
+27597857	257	271	candidate gene	T038	UMLS:C0017393
+27597857	272	276	flow	T038	UMLS:C1565556
+27597857	389	404	Chinese cabbage	T204	UMLS:C0034670
+27597857	406	438	Brassica rapa L. ssp. pekinensis	T204	UMLS:C0034670
+27597857	440	458	introgression line	T038	UMLS:C1565556
+27597857	468	479	anthocyanin	T103	UMLS:C0003161
+27597857	480	496	overaccumulation	T033	UMLS:C4055506
+27597857	539	548	gene flow	T038	UMLS:C1565556
+27597857	633	645	accumulation	T033	UMLS:C4055506
+27597857	664	671	pigment	T103	UMLS:C0031916
+27597857	695	711	RNA-seq analysis	T058	UMLS:C0162803
+27597857	793	806	transcriptome	T082	UMLS:C3178810
+27597857	860	869	expressed	T038	UMLS:C0017262
+27597857	870	875	genes	T017	UMLS:C0017337
+27597857	877	881	DEGs	T017	UMLS:C0017337
+27597857	904	908	leaf	T204	UMLS:C0242724
+27597857	909	927	introgression line	T038	UMLS:C1565556
+27597857	932	954	B. rapa green cultivar	T204	UMLS:C0034670
+27597857	968	980	up-regulated	T038	UMLS:C0162493
+27597857	989	1003	down-regulated	T038	UMLS:C0920533
+27597857	1004	1008	DEGs	T017	UMLS:C0017337
+27597857	1014	1020	mapped	T058	UMLS:C0008630
+27597857	1028	1035	B. rapa	T204	UMLS:C0034670
+27597857	1069	1080	anthocyanin	T103	UMLS:C0003161
+27597857	1081	1104	pathway regulatory gene	T017	UMLS:C0017362
+27597857	1203	1211	unigenes	T017	UMLS:C0017337
+27597857	1223	1232	c3563g1i2	T017	UMLS:C0017337
+27597857	1234	1255	Phylogenetic analysis	T062	UMLS:C1519068
+27597857	1271	1280	c3563g1i2	T017	UMLS:C0017337
+27597857	1313	1330	Brassica B genome	T017	UMLS:C0017428
+27597857	1358	1373	Brassica juncea	T204	UMLS:C0996764
+27597857	1392	1421	R2R3-MYB transcription factor	T103	UMLS:C0040648
+27597857	1510	1521	anthocyanin	T103	UMLS:C0003161
+27597857	1522	1538	overaccumulation	T033	UMLS:C4055506
+27597857	1556	1563	B. rapa	T204	UMLS:C0034670
+27597857	1564	1582	introgression line	T038	UMLS:C1565556
+27597857	1603	1608	genes	T017	UMLS:C0017337
+27597857	1636	1653	reaction pathways	T038	UMLS:C1704259
+27597857	1671	1682	upregulated	T038	UMLS:C0162493
+27597857	1690	1708	introgression line	T038	UMLS:C1565556
+27597857	1729	1764	quantitative real-time PCR analysis	T062	UMLS:C3179034
+27597857	1843	1847	leaf	T204	UMLS:C0242724
+27597857	1857	1872	Brassica plants	T204	UMLS:C0034670
+27597857	1903	1916	introgressive	T038	UMLS:C1565556

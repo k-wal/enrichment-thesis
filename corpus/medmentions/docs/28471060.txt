@@ -1,0 +1,39 @@
+28471060|t|Modeling and evaluation of hand-eye coordination of surgical robotic system on task performance
+28471060|a|Robotic-assisted minimally invasive surgery changes the direct hand and eye coordination in traditional surgery to indirect instrument and camera coordination, which affects the ergonomics, operation performance, and safety. A camera, two instruments, and a target, as the descriptors, are used to construct the workspace correspondence and geometrical relationships in a surgical operation. A parametric model with a set of parameters is proposed to describe the hand-eye coordination of the surgical robot. From the results, optimal values and acceptable ranges of these parameters are identified from two tasks. A 90° viewing angle had the longest completion time; 60° instrument elevation angle and 0° deflection angle had better performance; there is no significant difference among manipulation angles and observing distances on task performance. This hand-eye coordination model provides evidence for robotic design, surgeon training, and robotic initialization to achieve dexterous and safe manipulation in surgery.
+28471060	0	8	Modeling	T062	C0870071
+28471060	13	23	evaluation	T058	C0220825
+28471060	52	75	surgical robotic system	T074	C0879117
+28471060	79	95	task performance	T061	C0039333
+28471060	96	139	Robotic-assisted minimally invasive surgery	T061	C2349249
+28471060	200	207	surgery	T061	C0543467
+28471060	220	230	instrument	T074	C0348000
+28471060	235	241	camera	T074	C0179533
+28471060	242	254	coordination	T169	C0700114
+28471060	274	284	ergonomics	T090	C0086246
+28471060	286	295	operation	T061	C0543467
+28471060	296	307	performance	T055	C0597198
+28471060	313	319	safety	T068	C0036043
+28471060	323	329	camera	T074	C0179533
+28471060	335	346	instruments	T074	C0348000
+28471060	354	360	target	T169	C1521840
+28471060	369	380	descriptors	T170	C0282354
+28471060	468	486	surgical operation	T061	C0543467
+28471060	521	531	parameters	T033	C0449381
+28471060	589	603	surgical robot	T074	C3204163
+28471060	623	630	optimal	T080	C2698651
+28471060	642	652	acceptable	T080	C1879533
+28471060	653	659	ranges	T081	C1514721
+28471060	669	679	parameters	T033	C0449381
+28471060	739	762	longest completion time	T079	C1254367
+28471060	779	794	elevation angle	T081	C0392762
+28471060	802	818	deflection angle	T081	C0392762
+28471060	830	841	performance	T055	C0597198
+28471060	884	903	manipulation angles	T081	C0392762
+28471060	908	927	observing distances	T081	C0012751
+28471060	931	947	task performance	T061	C0039333
+28471060	991	999	evidence	T078	C3887511
+28471060	1004	1018	robotic design	T052	C1707689
+28471060	1020	1027	surgeon	T097	C0582175
+28471060	1028	1036	training	T065	C0220931
+28471060	1042	1064	robotic initialization	T061	C2349254
+28471060	1095	1118	manipulation in surgery	T061	C0185111

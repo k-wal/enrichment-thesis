@@ -1,0 +1,115 @@
+27757471|t|Appointment Lead Time Policy Development to Improve Patient Access to Care
+27757471|a|Patient access to care has been a known and continuing struggle for many health care providers. In spite of appointment lead time policies set by government or clinics, the problem persists. Justification for how lead time policies are determined is lacking. This paper proposed a data-driven approach for how to best set feasible appointment target lead times given a clinic's capacity and appointment requests. The proposed approach reallocates patient visits to minimize the deviation between actual appointment lead time and a feasible target lead time. A step-by-step algorithm was presented and demonstrated for return visit (RV) and new patient (NP) types from a Pediatric clinic excluding planned visits such as well-child exam and the same day urgent appointments. The steps are: 1. Obtain appointment requests; 2. Initialize a target lead time; 3. Set up an initial schedule; 4. Check the feasibility based on appointment availability; 5. Adjust schedule backward to fill appointment slots earlier than the target; 6. Adjust schedule forward for appointments not able to be scheduled earlier or on target to the later slots; 7. Trial different target lead times until the difference between earlier and later lead time is minimized. The results indicated a 59% lead time reduction for RVs and a 45% reduction for NPs. The lead time variation was reduced by 75% for both patient types. Additionally, the opportunity for the participating clinic to achieve their organization's goal of a two-week lead time for RVs and a two-day lead time for NPs is discussed by adjusting capacity to increase one slot for NP and reduce one slot for RV. The proposed approach and study findings may help clinics identify feasible appointment lead times.
+27757471	0	40	Appointment Lead Time Policy Development	T064	C0242440
+27757471	44	51	Improve	T033	C0184511
+27757471	52	59	Patient	T101	C0030705
+27757471	60	74	Access to Care	T080	C0018748
+27757471	75	82	Patient	T101	C0030705
+27757471	83	97	access to care	T080	C0018748
+27757471	119	129	continuing	T078	C0549178
+27757471	148	169	health care providers	T097	C0018724
+27757471	183	213	appointment lead time policies	T170	C0242456
+27757471	221	231	government	T092	C0018104
+27757471	235	242	clinics	T073,T093	C0442592
+27757471	248	255	problem	T033	C0033213
+27757471	266	279	Justification	T078	C0392360
+27757471	288	306	lead time policies	T170	C0242456
+27757471	325	332	lacking	T080	C0332268
+27757471	339	344	paper	T073	C0030351
+27757471	345	353	proposed	T080	C1553874
+27757471	356	376	data-driven approach	T080	C3899452
+27757471	397	405	feasible	T080	C0205556
+27757471	406	417	appointment	T058	C0030675
+27757471	418	424	target	T169	C1521840
+27757471	425	435	lead times	T079	C1254367
+27757471	444	452	clinic's	T073,T093	C0442592
+27757471	453	461	capacity	T081	C1516240
+27757471	466	477	appointment	T058	C0030675
+27757471	478	486	requests	T052	C1272683
+27757471	492	500	proposed	T080	C1553874
+27757471	501	509	approach	T082	C0449445
+27757471	522	536	patient visits	T058	C1512346
+27757471	553	562	deviation	T082	C0012727
+27757471	571	577	actual	T080	C0237400
+27757471	578	589	appointment	T058	C0030675
+27757471	590	599	lead time	T079	C1254367
+27757471	606	614	feasible	T080	C0205556
+27757471	615	621	target	T169	C1521840
+27757471	622	631	lead time	T079	C1254367
+27757471	635	657	step-by-step algorithm	T170	C0002045
+27757471	662	671	presented	T078	C0449450
+27757471	693	705	return visit	T058	C1512346
+27757471	707	709	RV	T058	C1512346
+27757471	715	726	new patient	T101	C0030705
+27757471	728	730	NP	T101	C0030705
+27757471	745	761	Pediatric clinic	T073,T093	C0442592
+27757471	772	786	planned visits	T058	C0008952
+27757471	795	810	well-child exam	T058	C0849977
+27757471	824	827	day	T079	C0439228
+27757471	828	834	urgent	T079	C0439609
+27757471	835	847	appointments	T058	C0030675
+27757471	874	894	appointment requests	T170	C1554216
+27757471	899	909	Initialize	T078	C1550022
+27757471	912	918	target	T169	C1521840
+27757471	919	928	lead time	T079	C1254367
+27757471	933	939	Set up	T052	C1521827
+27757471	943	959	initial schedule	T079	C0003630
+27757471	964	969	Check	T052	C1283174
+27757471	974	985	feasibility	T080	C0205556
+27757471	986	994	based on	T169	C1527178
+27757471	995	1006	appointment	T058	C0030675
+27757471	1007	1019	availability	T169	C0470187
+27757471	1031	1039	schedule	T079	C0003630
+27757471	1040	1048	backward	T082	C0439781
+27757471	1057	1068	appointment	T058	C0030675
+27757471	1069	1074	slots	T081	C0392762
+27757471	1075	1082	earlier	T079	C1279919
+27757471	1092	1098	target	T169	C1521840
+27757471	1110	1118	schedule	T079	C0003630
+27757471	1131	1143	appointments	T058	C0030675
+27757471	1159	1168	scheduled	T079	C0003630
+27757471	1169	1176	earlier	T079	C1279919
+27757471	1183	1189	target	T169	C1521840
+27757471	1197	1202	later	T079	C0205087
+27757471	1203	1208	slots	T081	C0392762
+27757471	1213	1218	Trial	T062	C0681815
+27757471	1229	1235	target	T169	C1521840
+27757471	1236	1246	lead times	T079	C1254367
+27757471	1257	1267	difference	T080	C1705242
+27757471	1276	1283	earlier	T079	C1279919
+27757471	1288	1293	later	T079	C0205087
+27757471	1294	1303	lead time	T079	C1254367
+27757471	1322	1329	results	T033	C0683954
+27757471	1330	1339	indicated	T033	C1444656
+27757471	1346	1355	lead time	T079	C1254367
+27757471	1356	1365	reduction	T080	C0392756
+27757471	1370	1373	RVs	T058	C1512346
+27757471	1384	1393	reduction	T080	C0392756
+27757471	1398	1401	NPs	T101	C0030705
+27757471	1407	1416	lead time	T079	C1254367
+27757471	1417	1426	variation	T080	C0205419
+27757471	1431	1438	reduced	T080	C0392756
+27757471	1450	1454	both	T080	C1706086
+27757471	1455	1468	patient types	T185	C1550335
+27757471	1488	1499	opportunity	T062	C0683937
+27757471	1508	1528	participating clinic	T092	C1882297
+27757471	1546	1565	organization's goal	T078	C0029245
+27757471	1580	1589	lead time	T079	C1254367
+27757471	1594	1597	RVs	T058	C1512346
+27757471	1612	1621	lead time	T079	C1254367
+27757471	1626	1629	NPs	T101	C0030705
+27757471	1646	1655	adjusting	T080	C0205556
+27757471	1656	1664	capacity	T081	C1516240
+27757471	1668	1676	increase	T169	C0442805
+27757471	1681	1685	slot	T081	C0392762
+27757471	1690	1692	NP	T101	C0030705
+27757471	1697	1703	reduce	T080	C0392756
+27757471	1708	1712	slot	T081	C0392762
+27757471	1717	1719	RV	T058	C1512346
+27757471	1725	1733	proposed	T080	C1553874
+27757471	1734	1742	approach	T082	C0449445
+27757471	1747	1761	study findings	T033	C0683954
+27757471	1771	1778	clinics	T073,T093	C0442592
+27757471	1779	1787	identify	T080	C0205396
+27757471	1797	1808	appointment	T058	C0030675
+27757471	1809	1819	lead times	T079	C1254367

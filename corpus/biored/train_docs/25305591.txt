@@ -1,0 +1,72 @@
+25305591|t|VPAC2 (vasoactive intestinal peptide receptor type 2) receptor deficient mice develop exacerbated experimental autoimmune encephalomyelitis with increased Th1/Th17 and reduced Th2/Treg responses.
+25305591|a|Vasoactive intestinal peptide (VIP) and pituitary adenylyl cyclase-activating polypeptide (PACAP) are two structurally-related neuropeptides with widespread expression in the central and peripheral nervous systems. Although these peptides have been repeatedly shown to exert potent anti-inflammatory actions when administered in animal models of inflammatory disease, mice deficient in VIP and PACAP were recently shown to exhibit different phenotypes (ameliorated and exacerbated, respectively) in response to experimental autoimmune encephalomyelitis (EAE). Therefore, elucidating what are the specific immunoregulatory roles played by each of their receptor subtypes (VPAC1, VPAC2, and PAC1) is critical. In this study, we found that mice with a genetic deletion of VIPR2, encoding the VPAC2 receptor, exhibited exacerbated (MOG35-55)-induced EAE compared to wild type mice, characterized by enhanced clinical and histopathological features, increased proinflammatory cytokines (TNF-alpha, IL-6, IFN-gamma (Th1), and IL-17 (Th17)) and reduced anti-inflammatory cytokines (IL-10, TGFbeta, and IL-4 (Th2)) in the CNS and lymph nodes. Moreover, the abundance and proliferative index of lymph node, thymus and CNS CD4(+)CD25(+)FoxP3(+) Tregs were strikingly reduced in VPAC2-deficient mice with EAE. Finally, the in vitro suppressive activity of lymph node and splenic Tregs from VPAC2-deficient mice was impaired. Overall, our results demonstrate critical protective roles for PACAP and the VPAC2 receptor against autoimmunity, promoting the expansion and maintenance of the Treg pool. 
+25305591	0	5	VPAC2	GeneOrGeneProduct	22355
+25305591	7	52	vasoactive intestinal peptide receptor type 2	GeneOrGeneProduct	22355
+25305591	73	77	mice	OrganismTaxon	10090
+25305591	98	139	experimental autoimmune encephalomyelitis	DiseaseOrPhenotypicFeature	D004681
+25305591	196	225	Vasoactive intestinal peptide	GeneOrGeneProduct	22353
+25305591	227	230	VIP	GeneOrGeneProduct	22353
+25305591	236	285	pituitary adenylyl cyclase-activating polypeptide	GeneOrGeneProduct	11516
+25305591	287	292	PACAP	GeneOrGeneProduct	11516
+25305591	483	495	inflammatory	DiseaseOrPhenotypicFeature	D007249
+25305591	542	562	inflammatory disease	DiseaseOrPhenotypicFeature	D007249
+25305591	564	568	mice	OrganismTaxon	10090
+25305591	582	585	VIP	GeneOrGeneProduct	22353
+25305591	590	595	PACAP	GeneOrGeneProduct	11516
+25305591	707	748	experimental autoimmune encephalomyelitis	DiseaseOrPhenotypicFeature	D004681
+25305591	750	753	EAE	DiseaseOrPhenotypicFeature	D004681
+25305591	867	872	VPAC1	GeneOrGeneProduct	22354
+25305591	874	879	VPAC2	GeneOrGeneProduct	22355
+25305591	885	889	PAC1	GeneOrGeneProduct	11517
+25305591	933	937	mice	OrganismTaxon	10090
+25305591	965	970	VIPR2	GeneOrGeneProduct	22355
+25305591	985	999	VPAC2 receptor	GeneOrGeneProduct	22355
+25305591	1024	1032	MOG35-55	GeneOrGeneProduct	4340
+25305591	1042	1045	EAE	DiseaseOrPhenotypicFeature	D004681
+25305591	1068	1072	mice	OrganismTaxon	10090
+25305591	1151	1176	proinflammatory cytokines	GeneOrGeneProduct	15978,16171,16193,21926
+25305591	1178	1187	TNF-alpha	GeneOrGeneProduct	21926
+25305591	1189	1193	IL-6	GeneOrGeneProduct	16193
+25305591	1195	1204	IFN-gamma	GeneOrGeneProduct	15978
+25305591	1216	1221	IL-17	GeneOrGeneProduct	16171
+25305591	1242	1269	anti-inflammatory cytokines	GeneOrGeneProduct	16153,16189,21803
+25305591	1271	1276	IL-10	GeneOrGeneProduct	16153
+25305591	1278	1285	TGFbeta	GeneOrGeneProduct	21803
+25305591	1291	1295	IL-4	GeneOrGeneProduct	16189
+25305591	1409	1412	CD4	GeneOrGeneProduct	12504
+25305591	1415	1419	CD25	GeneOrGeneProduct	16184
+25305591	1422	1427	FoxP3	GeneOrGeneProduct	20371
+25305591	1464	1469	VPAC2	GeneOrGeneProduct	22355
+25305591	1480	1484	mice	OrganismTaxon	10090
+25305591	1490	1493	EAE	DiseaseOrPhenotypicFeature	D004681
+25305591	1575	1580	VPAC2	GeneOrGeneProduct	22355
+25305591	1591	1595	mice	OrganismTaxon	10090
+25305591	1673	1678	PACAP	GeneOrGeneProduct	11516
+25305591	1687	1701	VPAC2 receptor	GeneOrGeneProduct	22355
+25305591	Positive_Correlation	20371	22355	Novel
+25305591	Positive_Correlation	16184	22355	Novel
+25305591	Positive_Correlation	12504	22355	Novel
+25305591	Positive_Correlation	4340	D004681	No
+25305591	Positive_Correlation	4340	22355	Novel
+25305591	Negative_Correlation	11516	D007249	No
+25305591	Association	11516	D004681	No
+25305591	Negative_Correlation	22353	D007249	No
+25305591	Negative_Correlation	D004681	20371	Novel
+25305591	Negative_Correlation	D004681	16184	Novel
+25305591	Negative_Correlation	D004681	12504	Novel
+25305591	Negative_Correlation	D004681	21803	Novel
+25305591	Negative_Correlation	D004681	16189	Novel
+25305591	Negative_Correlation	D004681	16153	Novel
+25305591	Positive_Correlation	D004681	21926	Novel
+25305591	Positive_Correlation	D004681	16193	Novel
+25305591	Positive_Correlation	D004681	16171	Novel
+25305591	Positive_Correlation	D004681	15978	Novel
+25305591	Association	D004681	22353	No
+25305591	Positive_Correlation	22355	21803	Novel
+25305591	Positive_Correlation	22355	16189	Novel
+25305591	Positive_Correlation	22355	16153	Novel
+25305591	Negative_Correlation	22355	21926	Novel
+25305591	Negative_Correlation	22355	16193	Novel
+25305591	Negative_Correlation	22355	16171	Novel
+25305591	Negative_Correlation	22355	15978	Novel
+25305591	Association	22355	D004681	Novel

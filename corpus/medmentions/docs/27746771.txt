@@ -1,0 +1,125 @@
+27746771|t|Transcriptomic and Proteomic Analysis of Oenococcus oeni Adaptation to Wine Stress Conditions
+27746771|a|Oenococcus oeni, the main lactic acid bacteria responsible for malolactic fermentation in wine, has to adapt to stressful conditions, such as low pH and high ethanol content. In this study, the changes in the transcriptome and the proteome of O. oeni PSU-1 during the adaptation period before MLF start have been studied. DNA microarrays were used for the transcriptomic analysis and two complementary proteomic techniques, 2-D DIGE and iTRAQ labeling were used to analyze the proteomic response. One of the most influenced functions in PSU-1 due to inoculation into wine-like medium (WLM) was translation, showing the over-expression of certain ribosomal genes and the corresponding proteins. Amino acid metabolism and transport was also altered and several peptidases were up regulated both at gene and protein level. Certain proteins involved in glutamine and glutamate metabolism showed an increased abundance revealing the key role of nitrogen uptake under stressful conditions. A strong transcriptional inhibition of carbohydrate metabolism related genes was observed. On the other hand, the transcriptional up-regulation of malate transport and citrate consumption was indicative of the use of L-malate and citrate associated to stress response and as an alternative energy source to sugar metabolism. Regarding the stress mechanisms, our results support the relevance of the thioredoxin and glutathione systems in the adaptation of O. oeni to wine related stress. Genes and proteins related to cell wall showed also significant changes indicating the relevance of the cell envelop as protective barrier to environmental stress. The differences found between transcriptomic and proteomic data suggested the relevance of post-transcriptional mechanisms and the complexity of the stress response in O. oeni adaptation. Further research should deepen into the metabolisms mostly altered due to wine conditions to elucidate the role of each mechanism in the O. oeni ability to develop MLF.
+27746771	0	14	Transcriptomic	T059,T063	C0752248
+27746771	19	37	Proteomic Analysis	T059	C1327760
+27746771	41	56	Oenococcus oeni	T007	C0317713
+27746771	57	67	Adaptation	T038	C0392673
+27746771	71	75	Wine	T168	C0043188
+27746771	76	93	Stress Conditions	T039	C0149784
+27746771	94	109	Oenococcus oeni	T007	C0317713
+27746771	120	140	lactic acid bacteria	T007	C0678170
+27746771	141	156	responsible for	T078	C0392360
+27746771	157	180	malolactic fermentation	T044	C1625137
+27746771	184	188	wine	T168	C0043188
+27746771	206	226	stressful conditions	T039	C0149784
+27746771	236	239	low	T080	C0205251
+27746771	240	242	pH	T081	C0020283
+27746771	247	251	high	T080	C0205250
+27746771	252	267	ethanol content	T081	C0683027
+27746771	288	295	changes	T169	C0392747
+27746771	303	316	transcriptome	T086	C3178810
+27746771	325	333	proteome	T116,T123	C0751973
+27746771	337	344	O. oeni	T007	C0317713
+27746771	345	350	PSU-1	T001	C1518614
+27746771	351	357	during	T079	C0347984
+27746771	362	372	adaptation	T038	C0392673
+27746771	373	379	period	T079	C1948053
+27746771	387	390	MLF	T044	C1625137
+27746771	407	414	studied	T062	C2603343
+27746771	416	431	DNA microarrays	T075	C0600596
+27746771	437	441	used	T169	C1524063
+27746771	450	473	transcriptomic analysis	T059,T063	C0752248
+27746771	496	516	proteomic techniques	T059	C1327760
+27746771	518	526	2-D DIGE	T059	C2936240
+27746771	531	545	iTRAQ labeling	T059	C1327760
+27746771	551	555	used	T169	C1524063
+27746771	559	566	analyze	T062	C0936012
+27746771	571	580	proteomic	T116,T123	C0751973
+27746771	581	589	response	T032	C0871261
+27746771	607	617	influenced	T077	C4054723
+27746771	618	627	functions	T169	C0542341
+27746771	631	636	PSU-1	T001	C1518614
+27746771	637	643	due to	T169	C0678226
+27746771	661	677	wine-like medium	T168	C0043188
+27746771	679	682	WLM	T168	C0043188
+27746771	688	699	translation	UnknownType	C0678935
+27746771	713	728	over-expression	T045	C0017262
+27746771	732	739	certain	T080	C0205423
+27746771	740	755	ribosomal genes	T028	C0035899
+27746771	778	786	proteins	T116,T123	C0033684
+27746771	788	809	Amino acid metabolism	T044	C0596076
+27746771	814	823	transport	T043	C0596078
+27746771	833	840	altered	T169	C0392747
+27746771	845	852	several	T081	C0443302
+27746771	853	863	peptidases	T116,T126	C0030940
+27746771	869	881	up regulated	T045	C0162493
+27746771	882	886	both	T080	C1706086
+27746771	890	894	gene	T028	C0017337
+27746771	899	912	protein level	T034	C0428479
+27746771	914	921	Certain	T080	C0205423
+27746771	922	930	proteins	T116,T123	C0033684
+27746771	943	952	glutamine	T044	C1156814
+27746771	957	977	glutamate metabolism	T044	C1156811
+27746771	988	997	increased	T081	C0205217
+27746771	1008	1017	revealing	T080	C0443289
+27746771	1026	1030	role	T077	C1705810
+27746771	1034	1049	nitrogen uptake	T033	C0243095
+27746771	1056	1076	stressful conditions	T039	C0149784
+27746771	1087	1113	transcriptional inhibition	T045	C1514673
+27746771	1117	1140	carbohydrate metabolism	T044	C0302820
+27746771	1149	1154	genes	T028	C0017337
+27746771	1159	1167	observed	T169	C1441672
+27746771	1192	1221	transcriptional up-regulation	T045	C0162493
+27746771	1225	1241	malate transport	T043	C1159611
+27746771	1246	1265	citrate consumption	T059	C0201956
+27746771	1270	1283	indicative of	T078	C0392360
+27746771	1288	1294	use of	T169	C1524063
+27746771	1295	1303	L-malate	T109,T121	C2827428
+27746771	1308	1315	citrate	T109,T121	C0376259
+27746771	1316	1326	associated	T080	C0332281
+27746771	1330	1345	stress response	T039	C0149784
+27746771	1356	1367	alternative	T077	C1523987
+27746771	1368	1381	energy source	T033	C0449417
+27746771	1385	1401	sugar metabolism	T044	C1156862
+27746771	1417	1423	stress	T039	C0149784
+27746771	1424	1434	mechanisms	T169	C0441712
+27746771	1440	1447	results	T169	C1274040
+27746771	1460	1469	relevance	T080	C2347946
+27746771	1477	1488	thioredoxin	T116,T123	C0039938
+27746771	1493	1504	glutathione	T116,T123	C0017817
+27746771	1505	1512	systems	T169	C0449913
+27746771	1520	1530	adaptation	T038	C0392673
+27746771	1534	1541	O. oeni	T007	C0317713
+27746771	1545	1549	wine	T168	C0043188
+27746771	1558	1564	stress	T039	C0149784
+27746771	1566	1571	Genes	T028	C0017337
+27746771	1576	1584	proteins	T116,T123	C0033684
+27746771	1596	1605	cell wall	T026	C0007623
+27746771	1618	1629	significant	T078	C0750502
+27746771	1630	1637	changes	T169	C0392747
+27746771	1638	1648	indicating	T033	C1444656
+27746771	1653	1662	relevance	T080	C2347946
+27746771	1670	1682	cell envelop	T026	C0243092
+27746771	1708	1728	environmental stress	T067	C0871732
+27746771	1734	1745	differences	T080	C1705242
+27746771	1746	1751	found	T033	C0150312
+27746771	1760	1774	transcriptomic	T081	C1956267
+27746771	1779	1793	proteomic data	T034	C3463810
+27746771	1794	1803	suggested	T078	C1705535
+27746771	1808	1817	relevance	T080	C2347946
+27746771	1821	1841	post-transcriptional	T045	C0040649
+27746771	1842	1852	mechanisms	T169	C0441712
+27746771	1879	1894	stress response	T039	C0149784
+27746771	1898	1905	O. oeni	T007	C0317713
+27746771	1906	1916	adaptation	T038	C0392673
+27746771	1958	1969	metabolisms	T040	C0025519
+27746771	1977	1984	altered	T169	C0392747
+27746771	1985	1991	due to	T169	C0678226
+27746771	1992	1996	wine	T168	C0043188
+27746771	1997	2007	conditions	T080	C0348080
+27746771	2025	2029	role	T077	C1705810
+27746771	2038	2047	mechanism	T169	C0441712
+27746771	2055	2062	O. oeni	T007	C0317713
+27746771	2063	2070	ability	T032	C0085732
+27746771	2074	2081	develop	T169	C0442805
+27746771	2082	2085	MLF	T044	C1625137

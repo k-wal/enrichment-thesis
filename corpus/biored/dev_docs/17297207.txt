@@ -1,0 +1,73 @@
+17297207|t|Quinine-induced arrhythmia in a patient with severe malaria.
+17297207|a|It was reported that there was a case of severe malaria patient with jaundice who presented with arrhythmia (premature ventricular contraction) while getting quinine infusion was reported. A man, 25 years old, was admitted to hospital with high fever, chill, vomiting, jaundice. The patient was fully conscious, blood pressure 120/80 mmHg, pulse rate 100 x/minute, regular. On admission, laboratory examination showed Plasmodium falciparum (++++), total bilirubin 8.25 mg/dL, conjugated bilirubin 4.36 mg/dL, unconjugated bilirubin 3.89 mg/dL, potassium 3.52 meq/L Patient was diagnosed as severe malaria with jaundice and got quinine infusion in dextrose 5% 500 mg/8 hour. On the second day the patient had vomitus, diarrhea, tinnitus, loss of hearing. After 30 hours of quinine infusion the patient felt palpitation and electrocardiography (ECG) recording showed premature ventricular contraction (PVC) > 5 x/minute, trigemini, constant type--sinoatrial block, positive U wave. He was treated with lidocaine 50 mg intravenously followed by infusion 1500 mg in dextrose 5%/24 hour and potassium aspartate tablet. Quinine infusion was discontinued and changed with sulfate quinine tablets. Three hours later the patient felt better, the frequency of PVC reduced to 4 - 5 x/minute and on the third day ECG was normal, potassium level was 3.34 meq/L. He was discharged on 7th day in good condition. Quinine, like quinidine, is a chincona alkaloid that has anti-arrhythmic property, although it also pro-arrhythmic that can cause various arrhythmias, including severe arrhythmia such as multiple PVC. Administration of parenteral quinine must be done carefully and with good observation because of its pro-arrhythmic effect, especially in older patients who have heart diseases or patients with electrolyte disorder (hypokalemia) which frequently occurs due to vomiting and or diarrhea in malaria cases.
+17297207	0	7	Quinine	ChemicalEntity	D011803
+17297207	16	26	arrhythmia	DiseaseOrPhenotypicFeature	D001145
+17297207	32	39	patient	OrganismTaxon	9606
+17297207	45	59	severe malaria	DiseaseOrPhenotypicFeature	D016778
+17297207	102	116	severe malaria	DiseaseOrPhenotypicFeature	D016778
+17297207	117	124	patient	OrganismTaxon	9606
+17297207	130	138	jaundice	DiseaseOrPhenotypicFeature	D007565
+17297207	158	168	arrhythmia	DiseaseOrPhenotypicFeature	D001145
+17297207	170	203	premature ventricular contraction	DiseaseOrPhenotypicFeature	D018879
+17297207	219	226	quinine	ChemicalEntity	D011803
+17297207	252	255	man	OrganismTaxon	9606
+17297207	306	311	fever	DiseaseOrPhenotypicFeature	D005334
+17297207	313	318	chill	DiseaseOrPhenotypicFeature	D023341
+17297207	320	328	vomiting	DiseaseOrPhenotypicFeature	D014839
+17297207	330	338	jaundice	DiseaseOrPhenotypicFeature	D007565
+17297207	344	351	patient	OrganismTaxon	9606
+17297207	479	500	Plasmodium falciparum	OrganismTaxon	5833
+17297207	515	524	bilirubin	ChemicalEntity	D001663
+17297207	548	557	bilirubin	ChemicalEntity	D001663
+17297207	583	592	bilirubin	ChemicalEntity	D001663
+17297207	605	614	potassium	ChemicalEntity	D011188
+17297207	626	633	Patient	OrganismTaxon	9606
+17297207	651	665	severe malaria	DiseaseOrPhenotypicFeature	D016778
+17297207	671	679	jaundice	DiseaseOrPhenotypicFeature	D007565
+17297207	688	695	quinine	ChemicalEntity	D011803
+17297207	708	716	dextrose	ChemicalEntity	D005947
+17297207	757	764	patient	OrganismTaxon	9606
+17297207	769	776	vomitus	DiseaseOrPhenotypicFeature	D014839
+17297207	778	786	diarrhea	DiseaseOrPhenotypicFeature	D003967
+17297207	788	796	tinnitus	DiseaseOrPhenotypicFeature	D014012
+17297207	798	813	loss of hearing	DiseaseOrPhenotypicFeature	D034381
+17297207	833	840	quinine	ChemicalEntity	D011803
+17297207	854	861	patient	OrganismTaxon	9606
+17297207	867	878	palpitation	DiseaseOrPhenotypicFeature	D006331
+17297207	926	959	premature ventricular contraction	DiseaseOrPhenotypicFeature	D018879
+17297207	961	964	PVC	DiseaseOrPhenotypicFeature	D018879
+17297207	1006	1022	sinoatrial block	DiseaseOrPhenotypicFeature	D012848
+17297207	1061	1070	lidocaine	ChemicalEntity	D008012
+17297207	1123	1131	dextrose	ChemicalEntity	D005947
+17297207	1147	1166	potassium aspartate	ChemicalEntity	D001224
+17297207	1175	1182	Quinine	ChemicalEntity	D011803
+17297207	1234	1241	quinine	ChemicalEntity	D011803
+17297207	1273	1280	patient	OrganismTaxon	9606
+17297207	1311	1314	PVC	DiseaseOrPhenotypicFeature	D018879
+17297207	1378	1387	potassium	ChemicalEntity	D011188
+17297207	1458	1465	Quinine	ChemicalEntity	D011803
+17297207	1472	1481	quinidine	ChemicalEntity	D011802
+17297207	1488	1505	chincona alkaloid	ChemicalEntity	-
+17297207	1520	1530	arrhythmic	DiseaseOrPhenotypicFeature	D001145
+17297207	1562	1572	arrhythmic	DiseaseOrPhenotypicFeature	D001145
+17297207	1596	1607	arrhythmias	DiseaseOrPhenotypicFeature	D001145
+17297207	1626	1636	arrhythmia	DiseaseOrPhenotypicFeature	D001145
+17297207	1654	1657	PVC	DiseaseOrPhenotypicFeature	D018879
+17297207	1688	1695	quinine	ChemicalEntity	D011803
+17297207	1764	1774	arrhythmic	DiseaseOrPhenotypicFeature	D001145
+17297207	1803	1811	patients	OrganismTaxon	9606
+17297207	1821	1835	heart diseases	DiseaseOrPhenotypicFeature	D006331
+17297207	1839	1847	patients	OrganismTaxon	9606
+17297207	1853	1873	electrolyte disorder	DiseaseOrPhenotypicFeature	D014883
+17297207	1875	1886	hypokalemia	DiseaseOrPhenotypicFeature	D007008
+17297207	1919	1927	vomiting	DiseaseOrPhenotypicFeature	D014839
+17297207	1935	1943	diarrhea	DiseaseOrPhenotypicFeature	D003967
+17297207	1947	1954	malaria	DiseaseOrPhenotypicFeature	D008288
+17297207	Negative_Correlation	D018879	D001224	Novel
+17297207	Negative_Correlation	D018879	D008012	Novel
+17297207	Negative_Correlation	D007565	D011803	No
+17297207	Negative_Correlation	D011803	D016778	No
+17297207	Positive_Correlation	D011803	D012848	Novel
+17297207	Positive_Correlation	D011803	D018879	Novel
+17297207	Positive_Correlation	D011803	D006331	Novel
+17297207	Positive_Correlation	D011803	D001145	No

@@ -1,0 +1,28 @@
+16418600|t|Genetic investigation of the TSPYL1 gene in sudden infant death syndrome.
+16418600|a|BACKGROUND: Sudden infant death syndrome (SIDS) constitutes the most frequent cause of death in the postperinatal period in Germany. Recently, a lethal phenotype characterized by sudden infant death with dysgenesis of the testes syndrome (SIDDT) was identified to be caused by loss of function mutations in the TSPYL1 gene. PURPOSE: The study's purpose was to reveal a possible role of TSPYL1 in SIDS. METHODS: DNA samples of 126 SIDS cases and 261 controls were investigated. RESULTS: We found five sequence variations, each of them causing an amino acid substitution. No Hardy Weinberg disequilibrium and no significant difference in allele frequencies between patients and controls were observed for any variation. In one female patient a p.F366L amino acid polymorphism was found heterozygous, which could not be displayed in controls. A pathogenic implication of this substitution, which is conserved in primates and rodents, cannot be ruled out completely. Because SIDDT is the result of homozygous TSPYL1 mutations, this heterozygous exchange cannot solely explain the sudden death in this child. The reported mutation associated with SIDDT (457_458insG) was not detectable in our cohort. CONCLUSION: No association of sequence variations in the TSPYL1 gene and SIDS has been found in a German cohort. Genetic analysis of TSPYL1 seems to be of limited significance in the differential diagnosis of SIDS without dysgenesis of the testes.
+16418600	29	35	TSPYL1	GeneOrGeneProduct	7259
+16418600	44	72	sudden infant death syndrome	DiseaseOrPhenotypicFeature	D013398
+16418600	86	114	Sudden infant death syndrome	DiseaseOrPhenotypicFeature	D013398
+16418600	116	120	SIDS	DiseaseOrPhenotypicFeature	D013398
+16418600	161	166	death	DiseaseOrPhenotypicFeature	D003643
+16418600	253	311	sudden infant death with dysgenesis of the testes syndrome	DiseaseOrPhenotypicFeature	C563856
+16418600	313	318	SIDDT	DiseaseOrPhenotypicFeature	C563856
+16418600	385	391	TSPYL1	GeneOrGeneProduct	7259
+16418600	460	466	TSPYL1	GeneOrGeneProduct	7259
+16418600	470	474	SIDS	DiseaseOrPhenotypicFeature	D013398
+16418600	504	508	SIDS	DiseaseOrPhenotypicFeature	D013398
+16418600	737	745	patients	OrganismTaxon	9606
+16418600	806	813	patient	OrganismTaxon	9606
+16418600	816	823	p.F366L	SequenceVariant	rs140756663
+16418600	1045	1050	SIDDT	DiseaseOrPhenotypicFeature	C563856
+16418600	1079	1085	TSPYL1	GeneOrGeneProduct	7259
+16418600	1150	1162	sudden death	DiseaseOrPhenotypicFeature	D003645
+16418600	1216	1221	SIDDT	DiseaseOrPhenotypicFeature	C563856
+16418600	1223	1234	457_458insG	SequenceVariant	c|INS|457_458|G
+16418600	1327	1333	TSPYL1	GeneOrGeneProduct	7259
+16418600	1343	1347	SIDS	DiseaseOrPhenotypicFeature	D013398
+16418600	1403	1409	TSPYL1	GeneOrGeneProduct	7259
+16418600	1479	1483	SIDS	DiseaseOrPhenotypicFeature	D013398
+16418600	1492	1516	dysgenesis of the testes	DiseaseOrPhenotypicFeature	D013733
+16418600	Positive_Correlation	C563856	c|INS|457_458|G	No
+16418600	Association	C563856	7259	No

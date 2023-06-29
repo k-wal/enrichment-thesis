@@ -1,0 +1,123 @@
+28126583|t|Time to diagnosis and stage of symptomatic colorectal cancer determined by three different sources of information: A population based retrospective study
+28126583|a|Survival rates from colorectal cancer (CRC) are highly variable in Europe. This variability could potentially be explained by differences in healthcare system delays in diagnosis. However, even when such delays are reduced, the relationship of the diagnostic interval (time from presentation with symptoms to diagnosis) with outcome is uncertain. A total of 795 patients with CRC from 5 regions of Spain were retrospectively examined in this population -based multicenter study. Consecutive incident cases of CRC were identified from pathology services. The total diagnostic interval (TDI) was defined as the time from the first presentation with symptoms to diagnosis based on 3 different sources of information: (i) patient-recorded data (PR - TDI) by interview, (ii) hospital-recorded data (HR - TDI), and (iii) general practitioner-recorded data (GPR - TDI). Concordance correlation coefficients (CCCs) were used to estimate the agreement of 3 different TDIs. The TDIs of patients with different stages of CRC were also compared using the Kruskal-Wallis test. The median TDI was 131days based on patient interview data, 91days based on HR data, and 111days based on GPR data. Overall, the agreement of these TDIs was poor (CCCPR vs HR =0.399, CCCPR vs GPR =0.518, CCCHR vs GPR =0.383). Univariate analysis indicated that the TDI was greater in those with less advanced CRC for all 3 methods of calculation, but this association was only statistically significant for the HR - TDI (p=0.021). There is no evidence that patients with more advanced CRC have longer TDIs. In fact, we found an inverse relationship between the TDI and CRC stage, an example of the " waiting time paradox ". This association may likely be due to the presence of unmeasured confounders as the stage when symptoms appear or the tumour aggressiveness.
+28126583	0	4	Time	T079	C0040223
+28126583	8	17	diagnosis	T033	C0011900
+28126583	22	27	stage	T079	C1306673
+28126583	31	42	symptomatic	T169	C0231220
+28126583	43	60	colorectal cancer	T191	C1527249
+28126583	61	74	determined by	T080	C0521095
+28126583	81	90	different	T080	C1705242
+28126583	91	98	sources	T033	C0449416
+28126583	102	113	information	T078	C1533716
+28126583	117	127	population	T098	C1257890
+28126583	134	153	retrospective study	T062	C0035363
+28126583	154	168	Survival rates	T081	C0038954
+28126583	174	191	colorectal cancer	T191	C1527249
+28126583	193	196	CRC	T191	C1527249
+28126583	202	208	highly	T080	C0205250
+28126583	209	217	variable	T080	C0439828
+28126583	221	227	Europe	T083	C0015176
+28126583	234	245	variability	T077	C2827666
+28126583	252	263	potentially	T080	C3245505
+28126583	280	291	differences	T080	C1705242
+28126583	295	312	healthcare system	T093	C0018696
+28126583	323	332	diagnosis	T033	C0011900
+28126583	369	376	reduced	T080	C0392756
+28126583	382	394	relationship	T080	C0439849
+28126583	402	412	diagnostic	T169	C0348026
+28126583	413	421	interval	T079	C1272706
+28126583	423	427	time	T079	C0040223
+28126583	433	445	presentation	T078	C0449450
+28126583	451	459	symptoms	T184	C1457887
+28126583	463	472	diagnosis	T033	C0011900
+28126583	479	486	outcome	T169	C1274040
+28126583	516	524	patients	T101	C0030705
+28126583	530	533	CRC	T191	C1527249
+28126583	541	548	regions	T083	C0017446
+28126583	552	557	Spain	T083	C0037747
+28126583	563	587	retrospectively examined	T062	C0035363
+28126583	596	606	population	T098	C1257890
+28126583	614	631	multicenter study	T062	C1096776
+28126583	633	644	Consecutive	T080	C1707491
+28126583	645	653	incident	T067	C1551358
+28126583	654	659	cases	T169	C0868928
+28126583	663	666	CRC	T191	C1527249
+28126583	672	682	identified	T080	C0205396
+28126583	688	706	pathology services	T093	C0587606
+28126583	718	728	diagnostic	T169	C0348026
+28126583	729	737	interval	T079	C1272706
+28126583	739	742	TDI	T079	C1272706
+28126583	763	767	time	T079	C0040223
+28126583	783	795	presentation	T078	C0449450
+28126583	801	809	symptoms	T184	C1457887
+28126583	813	822	diagnosis	T033	C0011900
+28126583	834	843	different	T080	C1705242
+28126583	844	851	sources	T033	C0449416
+28126583	855	866	information	T078	C1533716
+28126583	872	893	patient-recorded data	T170	C2707520
+28126583	895	897	PR	T170	C2707520
+28126583	900	903	TDI	T079	C1272706
+28126583	908	917	interview	T052	C0021822
+28126583	924	946	hospital-recorded data	T073,T170	C0019980
+28126583	948	950	HR	T073,T170	C0019980
+28126583	953	956	TDI	T079	C1272706
+28126583	969	1003	general practitioner-recorded data	T170	C0025102
+28126583	1005	1008	GPR	T170	C0025102
+28126583	1011	1014	TDI	T079	C1272706
+28126583	1017	1053	Concordance correlation coefficients	T081	C0392762
+28126583	1055	1059	CCCs	T081	C0392762
+28126583	1074	1082	estimate	T081	C0750572
+28126583	1102	1111	different	T080	C1705242
+28126583	1112	1116	TDIs	T079	C1272706
+28126583	1122	1126	TDIs	T079	C1272706
+28126583	1130	1138	patients	T101	C0030705
+28126583	1144	1153	different	T080	C1705242
+28126583	1154	1160	stages	T079	C1306673
+28126583	1164	1167	CRC	T191	C1527249
+28126583	1197	1216	Kruskal-Wallis test	T170	C1708614
+28126583	1222	1228	median	T082	C2939193
+28126583	1229	1232	TDI	T079	C1272706
+28126583	1254	1261	patient	T101	C0030705
+28126583	1262	1271	interview	T052	C0021822
+28126583	1272	1276	data	T078	C1511726
+28126583	1294	1296	HR	T073,T170	C0019980
+28126583	1297	1301	data	T078	C1511726
+28126583	1324	1327	GPR	T170	C0025102
+28126583	1328	1332	data	T078	C1511726
+28126583	1366	1370	TDIs	T079	C1272706
+28126583	1375	1379	poor	T080	C2700379
+28126583	1381	1386	CCCPR	T170	C2707520
+28126583	1390	1392	HR	T073,T170	C0019980
+28126583	1401	1406	CCCPR	T170	C2707520
+28126583	1410	1413	GPR	T170	C0025102
+28126583	1422	1427	CCCHR	T073,T170	C0019980
+28126583	1431	1434	GPR	T170	C0025102
+28126583	1444	1463	Univariate analysis	T062	C0683962
+28126583	1483	1486	TDI	T079	C1272706
+28126583	1491	1498	greater	T081	C1704243
+28126583	1518	1526	advanced	T079	C3854260
+28126583	1527	1530	CRC	T191	C1527249
+28126583	1541	1548	methods	T170	C0025663
+28126583	1552	1563	calculation	T052	C1441506
+28126583	1574	1585	association	T080	C0439849
+28126583	1595	1620	statistically significant	T081	C0237881
+28126583	1629	1631	HR	T073,T170	C0019980
+28126583	1634	1637	TDI	T079	C1272706
+28126583	1658	1669	no evidence	T080	C0332125
+28126583	1675	1683	patients	T101	C0030705
+28126583	1694	1702	advanced	T079	C3854260
+28126583	1703	1706	CRC	T191	C1527249
+28126583	1719	1723	TDIs	T079	C1272706
+28126583	1746	1753	inverse	T080	C0439850
+28126583	1754	1766	relationship	T080	C0439849
+28126583	1779	1782	TDI	T079	C1272706
+28126583	1787	1790	CRC	T191	C1527249
+28126583	1791	1796	stage	T079	C1306673
+28126583	1818	1830	waiting time	T079	C0814636
+28126583	1831	1838	paradox	UnknownType	C0814353
+28126583	1847	1858	association	T080	C0439849
+28126583	1884	1892	presence	T080	C3854307
+28126583	1907	1918	confounders	T169	C0009673
+28126583	1926	1931	stage	T079	C1306673
+28126583	1937	1945	symptoms	T184	C1457887
+28126583	1960	1981	tumour aggressiveness	T191	C2945759

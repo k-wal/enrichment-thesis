@@ -1,0 +1,77 @@
+28504984|t|Melding a High-Risk Patient for Continuous Flow Left Ventricular Assist Device into a Low-Risk Patient
+28504984|a|The model for end-stage liver disease (MELD) has been used as a predictor of mortality after left ventricular assist device (LVAD) placement. However, improvement or worsening of MELD and how those changes affect outcomes is unknown. We performed a retrospective analysis of 244 patients implanted with a continuous flow (CF) LVAD. Patients were dichotomized at admission into low - or high-risk categories using a cutoff of MELD ≥ 19, and they were reclassified at day of implant forming four groups: Group LL (remained low risk), LH (worsened to high risk), HH (remained high risk), and HL (improved to low risk). Patients who improved to a low risk (group HL) had the same 1 year survival as those that remained low risk (group LL; 80% vs. 77%; p = 0.6). However, patients who were initially classified as low risk and worsened to a high risk (group LH) had a survival that was worse than those that were consistently high risk (group HH; 55% vs. 10%; p = 0.01). Model for end-stage liver disease reclassification after adjusting for commonly attributed risk factors remained an independent predictor for mortality, including patients classified as Interagency Registry for Mechanically Assisted Circulatory Support (INTERMACS) 1 and 2. In conclusion, our MELD score reclassification is an independent and powerful predictor of mortality in patients undergoing LVAD implantation.
+28504984	10	19	High-Risk	T098	C0684030
+28504984	10	27	High-Risk Patient	T101	C0030705
+28504984	32	78	Continuous Flow Left Ventricular Assist Device	T074	C0181598
+28504984	86	94	Low-Risk	T081	C3538919
+28504984	95	102	Patient	T101	C0030705
+28504984	107	140	model for end-stage liver disease	T185	C3826979
+28504984	142	146	MELD	T185	C3826979
+28504984	167	176	predictor	T170	C0683956
+28504984	180	189	mortality	T081	C0178686
+28504984	196	226	left ventricular assist device	T074	C0181598
+28504984	228	232	LVAD	T074	C0181598
+28504984	234	243	placement	T058	C1533810
+28504984	254	265	improvement	T077	C2986411
+28504984	269	278	worsening	T078	C1546960
+28504984	282	286	MELD	T185	C3826979
+28504984	316	324	outcomes	T169	C1274040
+28504984	352	374	retrospective analysis	T062	C0035363
+28504984	382	390	patients	T101	C0030705
+28504984	391	400	implanted	T061	C0184961
+28504984	408	433	continuous flow (CF) LVAD	T074	C0181598
+28504984	435	443	Patients	T101	C0030705
+28504984	449	461	dichotomized	T169	C0332849
+28504984	465	474	admission	T058	C0184666
+28504984	480	483	low	T081	C3538919
+28504984	489	509	high-risk categories	T098	C0684030
+28504984	518	524	cutoff	T169	C1442160
+28504984	528	532	MELD	T185	C3826979
+28504984	553	565	reclassified	T080	C0205542
+28504984	569	572	day	T079	C0439228
+28504984	576	583	implant	T061	C0021107
+28504984	597	603	groups	T185	C0008902
+28504984	605	610	Group	T185	C0008902
+28504984	615	623	remained	T033	C0442739
+28504984	624	632	low risk	T081	C3538919
+28504984	639	647	worsened	T170	C4084902
+28504984	651	660	high risk	T098	C0684030
+28504984	667	675	remained	T033	C0442739
+28504984	676	685	high risk	T098	C0684030
+28504984	696	704	improved	T033	C0184511
+28504984	708	716	low risk	T081	C3538919
+28504984	719	727	Patients	T101	C0030705
+28504984	732	740	improved	T033	C0184511
+28504984	746	754	low risk	T081	C3538919
+28504984	756	761	group	T185	C0008902
+28504984	779	785	1 year	T079	C0439234
+28504984	786	794	survival	T201	C2919552
+28504984	809	817	remained	T033	C0442739
+28504984	818	826	low risk	T081	C3538919
+28504984	828	833	group	T185	C0008902
+28504984	870	878	patients	T101	C0030705
+28504984	898	908	classified	T185	C0008902
+28504984	912	920	low risk	T081	C3538919
+28504984	925	933	worsened	T170	C4084902
+28504984	939	948	high risk	T098	C0684030
+28504984	950	955	group	T185	C0008902
+28504984	966	974	survival	T081	C0038954
+28504984	984	989	worse	T033	C1457868
+28504984	1024	1033	high risk	T098	C0684030
+28504984	1035	1040	group	T185	C0008902
+28504984	1069	1102	Model for end-stage liver disease	T185	C3826979
+28504984	1103	1119	reclassification	T185	C0008902
+28504984	1160	1172	risk factors	T033	C0035648
+28504984	1197	1206	predictor	T170	C0683956
+28504984	1211	1220	mortality	T081	C0178686
+28504984	1232	1240	patients	T101	C0030705
+28504984	1255	1333	Interagency Registry for Mechanically Assisted Circulatory Support (INTERMACS)	T170	C0034975
+28504984	1334	1335	1	T185	C0008902
+28504984	1340	1341	2	T185	C0008902
+28504984	1362	1366	MELD	T185	C3826979
+28504984	1362	1372	MELD score	T170	C1718072
+28504984	1373	1389	reclassification	T185	C0008902
+28504984	1421	1430	predictor	T170	C0683956
+28504984	1434	1443	mortality	T081	C0178686
+28504984	1447	1455	patients	T101	C0030705
+28504984	1467	1484	LVAD implantation	T061	C0397130

@@ -1,0 +1,91 @@
+27617315|t|Extended use of Prostate Health Index and percentage of [-2]pro-prostate-specific antigen in Chinese men with prostate specific antigen 10-20 ng/mL and normal digital rectal examination
+27617315|a|We investigated the extended use of Prostate Health Index (PHI) and percentage of [-2]pro-prostate-specific antigen (%p2PSA) in Chinese men with prostate-specific antigen (PSA) 10-20 ng/mL and normal digital rectal examination (DRE). All consecutive Chinese men with PSA 10-20 ng/mL and normal DRE who agreed for transrectal ultrasound (TRUS)-guided 10-core prostate biopsy were recruited. Blood samples were taken immediately before TRUS -guided prostate biopsy. The performances of total PSA (tPSA), % free-to-total PSA (% fPSA), %p2PSA, and PHI were compared using logistic regression, receiver operating characteristic, and decision curve analyses (DCA). From 2008 to 2015, 312 consecutive Chinese men were included. Among them, 53 out of 312 (17.0%) men were diagnosed to have prostate cancer on biopsy. The proportions of men with positive biopsies were 6.7% in PHI <35, 22.8% in PHI 35-55, and 54.5% in PHI >55 (chi-square test, p<0.001). The area under curves (AUC) of the base model including age, tPSA and status of initial/repeated biopsy was 0.64. Adding %p2PSA and PHI to the base model improved the AUC to 0.79 (p<0.001) and 0.78 (p<0.001), respectively, and provided net clinical benefit in DCA. The positive biopsy rates of Gleason 7 or above prostate cancers were 2.2% for PHI <35, 7.9% for PHI 35-55, and 36.4% for PHI >55 (chi-square test, p<0.001). By utilizing the PHI cutoff of 35 to men with PSA 10-20 ng/mL and normal DRE, 57.1% (178 of 312) biopsies could be avoided. Both PHI and %p2PSA performed well in predicting prostate cancer and high grade prostate cancer. The use of PHI and %p2PSA should be extended to Chinese men with PSA 10-20 ng/mL and normal DRE.
+27617315	16	37	Prostate Health Index	T059	C4084801
+27617315	56	89	[-2]pro-prostate-specific antigen	T116,T123	C3710767
+27617315	93	100	Chinese	T098	C0152035
+27617315	101	104	men	T098	C0025266
+27617315	110	135	prostate specific antigen	T116,T126,T129	C0138741
+27617315	152	158	normal	T080	C0205307
+27617315	159	185	digital rectal examination	T060	C1384593
+27617315	222	243	Prostate Health Index	T059	C4084801
+27617315	245	248	PHI	T059	C4084801
+27617315	268	301	[-2]pro-prostate-specific antigen	T116,T123	C3710767
+27617315	303	309	%p2PSA	T116,T123	C3710767
+27617315	314	321	Chinese	T098	C0152035
+27617315	322	325	men	T098	C0025266
+27617315	331	356	prostate-specific antigen	T116,T126,T129	C0138741
+27617315	358	361	PSA	T116,T126,T129	C0138741
+27617315	379	385	normal	T080	C0205307
+27617315	386	412	digital rectal examination	T060	C1384593
+27617315	414	417	DRE	T060	C1384593
+27617315	436	443	Chinese	T098	C0152035
+27617315	444	447	men	T098	C0025266
+27617315	453	456	PSA	T116,T126,T129	C0138741
+27617315	473	479	normal	T080	C0205307
+27617315	480	483	DRE	T060	C1384593
+27617315	499	521	transrectal ultrasound	T060	C0373345
+27617315	523	527	TRUS	T060	C0373345
+27617315	544	559	prostate biopsy	T060	C0194804
+27617315	576	589	Blood samples	T031	C0178913
+27617315	620	624	TRUS	T060	C0373345
+27617315	633	648	prostate biopsy	T060	C0194804
+27617315	670	679	total PSA	T059	C2986589
+27617315	681	685	tPSA	T059	C2986589
+27617315	690	707	free-to-total PSA	T059	C2207083
+27617315	711	715	fPSA	T059	C2207083
+27617315	718	724	%p2PSA	T116,T123	C3710767
+27617315	730	733	PHI	T059	C4084801
+27617315	754	773	logistic regression	T062	C0206031
+27617315	775	808	receiver operating characteristic	T081	C0034772
+27617315	814	837	decision curve analyses	T062	C0936012
+27617315	839	842	DCA	T062	C0936012
+27617315	880	887	Chinese	T098	C0152035
+27617315	888	891	men	T098	C0025266
+27617315	941	944	men	T098	C0025266
+27617315	950	959	diagnosed	T033	C0011900
+27617315	968	983	prostate cancer	T191	C0376358
+27617315	987	993	biopsy	T060	C0005558
+27617315	1014	1017	men	T098	C0025266
+27617315	1023	1040	positive biopsies	T033	C1514241
+27617315	1032	1040	biopsies	T060	C0005558
+27617315	1054	1057	PHI	T059	C4084801
+27617315	1072	1075	PHI	T059	C4084801
+27617315	1096	1099	PHI	T059	C4084801
+27617315	1105	1120	chi-square test	T170	C0008041
+27617315	1136	1153	area under curves	T081	C0376690
+27617315	1155	1158	AUC	T081	C0376690
+27617315	1167	1177	base model	T170	C3161035
+27617315	1188	1191	age	T032	C0001779
+27617315	1193	1197	tPSA	T059	C2986589
+27617315	1229	1235	biopsy	T060	C0005558
+27617315	1253	1259	%p2PSA	T116,T123	C3710767
+27617315	1264	1267	PHI	T059	C4084801
+27617315	1275	1285	base model	T170	C3161035
+27617315	1286	1294	improved	T033	C0184511
+27617315	1299	1302	AUC	T081	C0376690
+27617315	1392	1395	DCA	T062	C0936012
+27617315	1401	1416	positive biopsy	T033	C1514241
+27617315	1410	1416	biopsy	T060	C0005558
+27617315	1426	1444	Gleason 7 or above	T185	C0332326
+27617315	1445	1461	prostate cancers	T191	C0376358
+27617315	1476	1479	PHI	T059	C4084801
+27617315	1494	1497	PHI	T059	C4084801
+27617315	1519	1522	PHI	T059	C4084801
+27617315	1528	1543	chi-square test	T170	C0008041
+27617315	1572	1575	PHI	T059	C4084801
+27617315	1592	1595	men	T098	C0025266
+27617315	1601	1604	PSA	T116,T126,T129	C0138741
+27617315	1621	1627	normal	T080	C0205307
+27617315	1628	1631	DRE	T060	C1384593
+27617315	1652	1660	biopsies	T060	C0005558
+27617315	1670	1677	avoided	T078	C1554079
+27617315	1684	1687	PHI	T059	C4084801
+27617315	1692	1698	%p2PSA	T116,T123	C3710767
+27617315	1728	1743	prostate cancer	T191	C0376358
+27617315	1748	1774	high grade prostate cancer	T191	C0376358
+27617315	1787	1790	PHI	T059	C4084801
+27617315	1795	1801	%p2PSA	T116,T123	C3710767
+27617315	1824	1831	Chinese	T098	C0152035
+27617315	1832	1835	men	T098	C0025266
+27617315	1861	1867	normal	T080	C0205307
+27617315	1868	1871	DRE	T060	C1384593

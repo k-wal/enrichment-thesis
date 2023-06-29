@@ -1,0 +1,61 @@
+28343993|t|Discovering key residues of dengue virus NS2b-NS3-protease: New binding sites for antiviral inhibitors design
+28343993|a|The NS2B-NS3 protease is essential for the Dengue Virus (DENV) replication process. This complex constitutes a target for efficient antiviral discovery because a drug could inhibit the viral polyprotein processing. Furthermore, since the protease is highly conserved between the four Dengue virus serotypes, it is probable that a drug would be equally effective against all of them. In this article, a strategy is reported that allowed us to identify influential residues on the function of the Dengue NS2b-NS3 Protease. Moreover, this is a strategy that could be applied to virtually any protein for the search of alternative influential residues, and for non-competitive inhibitor development. First, we incorporated several features derived from computational alanine scanning mutagenesis, sequence, structure conservation, and other structure -based characteristics. Second, these features were used as variables to obtain a multilayer perceptron model to identify defined groups (clusters) of key residues as possible candidate pockets for binding sites of new leads on the DENV protease. The identified residues included: i) amino acids close to the beta sheet -loop- beta sheet known to be important in its closed conformation for NS2b ii) residues close to the active site, iii) several residues evenly spread on the NS2b-NS3 contact surface, and iv) some inner residues most likely related to the overall stability of the protease. In addition, we found concordance on our list of residues with previously identified amino acids part of a highly conserved peptide studied for vaccine development.
+28343993	16	24	residues	T077	C1709915
+28343993	28	40	dengue virus	T005	C0011315
+28343993	41	58	NS2b-NS3-protease	T116,T126	C1612175
+28343993	64	77	binding sites	T192	C0005456
+28343993	82	102	antiviral inhibitors	UnknownType	C0042771
+28343993	114	131	NS2B-NS3 protease	T116,T126	C1612175
+28343993	153	165	Dengue Virus	T005	C0011315
+28343993	167	171	DENV	T005	C0011315
+28343993	173	192	replication process	T045	C1514849
+28343993	199	206	complex	T026	C1167179
+28343993	221	227	target	T169	C1521840
+28343993	242	251	antiviral	T121	C0003451
+28343993	252	261	discovery	T052	C1880355
+28343993	272	276	drug	T121	C1254351
+28343993	295	323	viral polyprotein processing	T043	C1159314
+28343993	348	356	protease	T116,T126	C1947941
+28343993	367	376	conserved	T086	C0009802
+28343993	394	406	Dengue virus	T005	C0011315
+28343993	407	416	serotypes	T170	C0449943
+28343993	440	444	drug	T121	C1254351
+28343993	561	572	influential	T078	C0021399
+28343993	573	581	residues	T077	C1709915
+28343993	605	611	Dengue	T005	C0011315
+28343993	612	629	NS2b-NS3 Protease	T116,T126	C1612175
+28343993	699	706	protein	T116,T123	C0033684
+28343993	737	748	influential	T078	C0021399
+28343993	749	757	residues	T077	C1709915
+28343993	767	792	non-competitive inhibitor	UnknownType	C0815027
+28343993	793	804	development	T169	C1527148
+28343993	859	872	computational	T091	C0376528
+28343993	873	880	alanine	T116,T123	C0001898
+28343993	881	901	scanning mutagenesis	T063	C1517890
+28343993	903	911	sequence	T086	C0314659
+28343993	913	935	structure conservation	T086	C0009802
+28343993	947	956	structure	T082	C0678594
+28343993	964	979	characteristics	T080	C1521970
+28343993	1039	1066	multilayer perceptron model	T170	C0870951
+28343993	1087	1093	groups	T078	C0441833
+28343993	1112	1120	residues	T077	C1709915
+28343993	1155	1168	binding sites	T192	C0005456
+28343993	1189	1193	DENV	T005	C0011315
+28343993	1194	1202	protease	T116,T126	C1947941
+28343993	1219	1227	residues	T077	C1709915
+28343993	1241	1252	amino acids	T116,T121,T123	C0002520
+28343993	1266	1276	beta sheet	T082	C0162806
+28343993	1284	1294	beta sheet	T082	C0162806
+28343993	1324	1343	closed conformation	T082	C0033625
+28343993	1348	1352	NS2b	T116,T126	C1612175
+28343993	1357	1365	residues	T077	C1709915
+28343993	1379	1390	active site	T169	C0205681
+28343993	1405	1413	residues	T077	C1709915
+28343993	1435	1443	NS2b-NS3	T116,T126	C1612175
+28343993	1480	1488	residues	T077	C1709915
+28343993	1524	1533	stability	T080	C0205360
+28343993	1541	1549	protease	T116,T126	C1947941
+28343993	1600	1608	residues	T077	C1709915
+28343993	1636	1647	amino acids	T116,T121,T123	C0002520
+28343993	1675	1682	peptide	T116	C0030956
+28343993	1695	1714	vaccine development	T062	C0597634

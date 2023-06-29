@@ -1,0 +1,42 @@
+28883039|t|Disease-associated mutations in human BICD2 hyperactivate motility of dynein-dynactin.
+28883039|a|Bicaudal D2 (BICD2) joins dynein with dynactin into a ternary complex (termed DDB) capable of processive movement. Point mutations in the BICD2 gene have been identified in patients with a dominant form of spinal muscular atrophy, but how these mutations cause disease is unknown. To investigate this question, we have developed in vitro motility assays with purified DDB and BICD2's membrane vesicle partner, the GTPase Rab6a. Rab6a-GTP, either in solution or bound to artificial liposomes, released BICD2 from an autoinhibited state and promoted robust dynein-dynactin transport. In these assays, BICD2 mutants showed an enhanced ability to form motile DDB complexes. Increased retrograde transport by BICD2 mutants also was observed in cells using an inducible organelle transport assay. When overexpressed in rat hippocampal neurons, the hyperactive BICD2 mutants decreased neurite growth. Our results reveal that dominant mutations in BICD2 hyperactivate DDB motility and suggest that an imbalance of minus versus plus end-directed microtubule motility in neurons may underlie spinal muscular atrophy.
+28883039	32	37	human	OrganismTaxon	9606
+28883039	38	43	BICD2	GeneOrGeneProduct	23299
+28883039	70	76	dynein	GeneOrGeneProduct	1778
+28883039	77	85	dynactin	GeneOrGeneProduct	1639
+28883039	87	98	Bicaudal D2	GeneOrGeneProduct	23299
+28883039	100	105	BICD2	GeneOrGeneProduct	23299
+28883039	113	119	dynein	GeneOrGeneProduct	1778
+28883039	125	133	dynactin	GeneOrGeneProduct	1639
+28883039	165	168	DDB	GeneOrGeneProduct	1639,1778,23299
+28883039	225	230	BICD2	GeneOrGeneProduct	23299
+28883039	260	268	patients	OrganismTaxon	9606
+28883039	293	316	spinal muscular atrophy	DiseaseOrPhenotypicFeature	D009134
+28883039	455	458	DDB	GeneOrGeneProduct	1639,1778,76895
+28883039	463	468	BICD2	GeneOrGeneProduct	76895
+28883039	501	513	GTPase Rab6a	GeneOrGeneProduct	5870
+28883039	515	524	Rab6a-GTP	GeneOrGeneProduct	5870
+28883039	588	593	BICD2	GeneOrGeneProduct	76895
+28883039	642	648	dynein	GeneOrGeneProduct	1778
+28883039	649	657	dynactin	GeneOrGeneProduct	1639
+28883039	686	691	BICD2	GeneOrGeneProduct	76895
+28883039	742	745	DDB	GeneOrGeneProduct	1639,1778,23299
+28883039	791	796	BICD2	GeneOrGeneProduct	76895
+28883039	900	903	rat	OrganismTaxon	10116
+28883039	941	946	BICD2	GeneOrGeneProduct	76895
+28883039	1027	1032	BICD2	GeneOrGeneProduct	76895
+28883039	1047	1050	DDB	GeneOrGeneProduct	1639,1778,23299
+28883039	1169	1192	spinal muscular atrophy	DiseaseOrPhenotypicFeature	D009134
+28883039	Association	76895	D009134	No
+28883039	Association	76895	1639	Novel
+28883039	Association	76895	1778	Novel
+28883039	Association	76895	23299	Novel
+28883039	Positive_Correlation	5870	76895	Novel
+28883039	Positive_Correlation	5870	1639	Novel
+28883039	Positive_Correlation	5870	1778	Novel
+28883039	Association	1639	D009134	No
+28883039	Association	1778	D009134	No
+28883039	Bind	1778	1639	No
+28883039	Association	23299	D009134	No
+28883039	Bind	23299	1639	Novel
+28883039	Bind	23299	1778	Novel

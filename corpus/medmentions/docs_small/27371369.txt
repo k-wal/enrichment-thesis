@@ -1,0 +1,51 @@
+27371369|t|Difference-in-Differences Method in Comparative Effectiveness Research: Utility with Unbalanced Groups
+27371369|a|Comparative effectiveness research (CER) often includes observational studies utilizing administrative data. Multiple conditioning methods can be used for CER to adjust for group differences, including difference-in-differences (DiD) estimation. This study presents DiD and demonstrates how to apply this conditioning method to estimate treatment outcomes in the CER setting by utilizing the MarketScan® Databases for multiple sclerosis (MS) patients receiving different therapies. The sample included 6762 patients, with 363 in the Test Cohort [glatiramer acetate (GA) switched to fingolimod (FTY)] and 6399 in the Control Cohort (GA only, no switch) from a US administrative claims database. A trend analysis was conducted to rule out concerns regarding regression to the mean and to compare relapse rates among treatment cohorts. DiD analysis was used to enable comparisons among the Test and Control Cohorts. Logistic regression was used to estimate the probability of relapse after switching from GA to FTY, and to compare group differences in the pre - and post - index periods. Crude DiD analysis showed that in the pre - index period more patients in the Test Cohort experienced an MS relapse and had a higher mean number of relapses than in the Control Cohort. During the pre - index period, numeric and relative data for MS relapses in patients in the Test Cohort were significantly higher than in the Control Cohort, while no significant between- group differences emerged during the post - index period. Generalized linear modeling with DiD regression estimation showed that the mean number of MS relapses decreased significantly in the post - index period among patients in the Test Cohort compared with patients in the Control Cohort. In this study, an MS population was utilized to demonstrate how DiD can be applied to estimate treatment effects in a heterogeneous population, where the Test and Control Cohorts varied greatly. The results show that DiD offers a robust method for comparing diverse cohorts when other risk-adjustment methods may not be adequate.
+27371369	0	32	Difference-in-Differences Method	T062	UMLS:C1710191
+27371369	36	70	Comparative Effectiveness Research	T062	UMLS:C2718022
+27371369	103	137	Comparative effectiveness research	T062	UMLS:C2718022
+27371369	139	142	CER	T062	UMLS:C2718022
+27371369	159	180	observational studies	T170	UMLS:C3658316
+27371369	191	210	administrative data	T033	UMLS:C1320722
+27371369	258	261	CER	T062	UMLS:C2718022
+27371369	305	347	difference-in-differences (DiD) estimation	T062	UMLS:C1710191
+27371369	369	372	DiD	T062	UMLS:C1710191
+27371369	421	427	method	T170	UMLS:C0025663
+27371369	466	469	CER	T062	UMLS:C2718022
+27371369	495	516	MarketScan® Databases	T170	UMLS:C0242356
+27371369	521	539	multiple sclerosis	T038	UMLS:C0026769
+27371369	541	543	MS	T038	UMLS:C0026769
+27371369	574	583	therapies	T058	UMLS:C0087111
+27371369	636	647	Test Cohort	T098	UMLS:C2348484
+27371369	649	667	glatiramer acetate	T103	UMLS:C0289884
+27371369	669	671	GA	T103	UMLS:C0289884
+27371369	673	681	switched	T058	UMLS:C2936279
+27371369	685	695	fingolimod	T103	UMLS:C1699926
+27371369	697	700	FTY	T103	UMLS:C1699926
+27371369	735	737	GA	T103	UMLS:C0289884
+27371369	744	753	no switch	T033	UMLS:C0243095
+27371369	762	795	US administrative claims database	T170	UMLS:C0242356
+27371369	859	869	regression	T170	UMLS:C0034980
+27371369	917	934	treatment cohorts	T098	UMLS:C2348484
+27371369	936	948	DiD analysis	T062	UMLS:C1710191
+27371369	990	994	Test	T098	UMLS:C2348484
+27371369	1016	1035	Logistic regression	T062	UMLS:C0206031
+27371369	1090	1099	switching	T058	UMLS:C2936279
+27371369	1105	1107	GA	T103	UMLS:C0289884
+27371369	1111	1114	FTY	T103	UMLS:C1699926
+27371369	1194	1206	DiD analysis	T062	UMLS:C1710191
+27371369	1266	1277	Test Cohort	T098	UMLS:C2348484
+27371369	1293	1295	MS	T038	UMLS:C0026769
+27371369	1434	1436	MS	T038	UMLS:C0026769
+27371369	1465	1476	Test Cohort	T098	UMLS:C2348484
+27371369	1537	1551	no significant	T033	UMLS:C1273937
+27371369	1652	1655	DiD	T062	UMLS:C1710191
+27371369	1709	1711	MS	T038	UMLS:C0026769
+27371369	1794	1805	Test Cohort	T098	UMLS:C2348484
+27371369	1870	1872	MS	T038	UMLS:C0026769
+27371369	1873	1883	population	T098	UMLS:C1257890
+27371369	1916	1919	DiD	T062	UMLS:C1710191
+27371369	1947	1964	treatment effects	T033	UMLS:C1518681
+27371369	1984	1994	population	T098	UMLS:C1257890
+27371369	2006	2010	Test	T098	UMLS:C2348484
+27371369	2069	2072	DiD	T062	UMLS:C1710191
+27371369	2118	2125	cohorts	T098	UMLS:C0599755

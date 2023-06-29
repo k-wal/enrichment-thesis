@@ -1,0 +1,58 @@
+17495183|t|Tenomodulin is associated with obesity and diabetes risk: the Finnish diabetes prevention study.
+17495183|a|We recently showed that long-term weight reduction changes the gene expression profile of adipose tissue in overweight individuals with impaired glucose tolerance (IGT). One of the responding genes was X-chromosomal tenomodulin (TNMD), a putative angiogenesis inhibitor. Our aim was to study the associations of individual single nucleotide polymorphisms and haplotypes with adiposity, glucose metabolism, and the risk of type 2 diabetes (T2D). Seven single nucleotide polymorphisms from two different haploblocks were genotyped from 507 participants of the Finnish Diabetes Prevention Study (DPS). Sex-specific genotype effects were observed. Three markers of haploblock 1 were associated with features of adiposity in women (rs5966709, rs4828037) and men (rs11798018). Markers rs2073163 and rs1155794 from haploblock 2 were associated with 2-hour plasma glucose levels in men during the 3-year follow-up. The same two markers together with rs2073162 associated with the conversion of IGT to T2D in men. The risk of developing T2D was approximately 2-fold in individuals with genotypes associated with higher 2-hour plasma glucose levels; the hazard ratios were 2.192 (p = 0.025) for rs2073162-A, 2.191 (p = 0.027) for rs2073163-C, and 1.998 (p = 0.054) for rs1155974-T. These results suggest that TNMD polymorphisms are associated with adiposity and also with glucose metabolism and conversion from IGT to T2D in men.
+17495183	0	11	Tenomodulin	GeneOrGeneProduct	64102
+17495183	31	38	obesity	DiseaseOrPhenotypicFeature	D009765
+17495183	43	51	diabetes	DiseaseOrPhenotypicFeature	D003920
+17495183	70	78	diabetes	DiseaseOrPhenotypicFeature	D003920
+17495183	205	215	overweight	DiseaseOrPhenotypicFeature	D050177
+17495183	233	259	impaired glucose tolerance	DiseaseOrPhenotypicFeature	D018149
+17495183	261	264	IGT	DiseaseOrPhenotypicFeature	D018149
+17495183	313	324	tenomodulin	GeneOrGeneProduct	64102
+17495183	326	330	TNMD	GeneOrGeneProduct	64102
+17495183	472	481	adiposity	DiseaseOrPhenotypicFeature	D009765
+17495183	483	490	glucose	ChemicalEntity	D005947
+17495183	519	534	type 2 diabetes	DiseaseOrPhenotypicFeature	D003924
+17495183	536	539	T2D	DiseaseOrPhenotypicFeature	D003924
+17495183	663	671	Diabetes	DiseaseOrPhenotypicFeature	D003920
+17495183	804	813	adiposity	DiseaseOrPhenotypicFeature	D009765
+17495183	817	822	women	OrganismTaxon	9606
+17495183	824	833	rs5966709	SequenceVariant	rs5966709
+17495183	835	844	rs4828037	SequenceVariant	rs4828037
+17495183	850	853	men	OrganismTaxon	9606
+17495183	855	865	rs11798018	SequenceVariant	rs11798018
+17495183	876	885	rs2073163	SequenceVariant	rs2073163
+17495183	890	899	rs1155794	SequenceVariant	rs1155794
+17495183	953	960	glucose	ChemicalEntity	D005947
+17495183	971	974	men	OrganismTaxon	9606
+17495183	1039	1048	rs2073162	SequenceVariant	rs2073162
+17495183	1083	1086	IGT	DiseaseOrPhenotypicFeature	D018149
+17495183	1090	1093	T2D	DiseaseOrPhenotypicFeature	D003924
+17495183	1097	1100	men	OrganismTaxon	9606
+17495183	1125	1128	T2D	DiseaseOrPhenotypicFeature	D003924
+17495183	1221	1228	glucose	ChemicalEntity	D005947
+17495183	1282	1291	rs2073162	SequenceVariant	rs2073162
+17495183	1317	1326	rs2073163	SequenceVariant	rs2073163
+17495183	1356	1365	rs1155974	SequenceVariant	rs1155974
+17495183	1396	1400	TNMD	GeneOrGeneProduct	64102
+17495183	1435	1444	adiposity	DiseaseOrPhenotypicFeature	D009765
+17495183	1459	1466	glucose	ChemicalEntity	D005947
+17495183	1498	1501	IGT	DiseaseOrPhenotypicFeature	D018149
+17495183	1505	1508	T2D	DiseaseOrPhenotypicFeature	D003924
+17495183	1512	1515	men	OrganismTaxon	9606
+17495183	Association	rs1155974	D009765	Novel
+17495183	Positive_Correlation	rs2073162	D003924	Novel
+17495183	Association	rs2073162	D009765	Novel
+17495183	Positive_Correlation	rs1155794	D003924	Novel
+17495183	Positive_Correlation	D003924	rs1155974	Novel
+17495183	Positive_Correlation	D003924	D005947	Novel
+17495183	Positive_Correlation	rs2073163	D003924	Novel
+17495183	Association	rs2073163	D009765	Novel
+17495183	Association	D005947	rs1155794	Novel
+17495183	Association	D005947	rs2073163	Novel
+17495183	Association	D009765	rs11798018	Novel
+17495183	Association	D009765	rs4828037	Novel
+17495183	Association	D009765	rs5966709	Novel
+17495183	Association	64102	D003924	Novel
+17495183	Association	64102	D005947	Novel
+17495183	Association	64102	D003920	Novel
+17495183	Association	64102	D009765	Novel

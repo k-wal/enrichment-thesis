@@ -1,0 +1,77 @@
+28105538|t|Comparison of non-invasive blood pressure monitoring using modified arterial applanation tonometry with intra-arterial measurement
+28105538|a|Intermittent non-invasive blood pressure measurement with tourniquets is slow, can cause nerve and skin damage, and interferes with other measurements. Invasive measurement cannot be safely used in all conditions. Modified arterial tonometry may be an alternative for fast and continuous measurement. Our aim was to compare arterial tonometry sensor (BPro(®)) with invasive blood pressure measurement to clarify whether it could be utilized in the postoperative setting. 28 patients who underwent elective surgery requiring arterial cannulation were analyzed. Patients were monitored post-operatively for 2 h with standard invasive monitoring and with a study device comprising an arterial tonometry sensor (BPro(®)) added with a three-dimensional accelerometer to investigate the potential impact of movement. Recordings were collected electronically. The results revealed inaccurate readings in method comparison between the devices based on recommendations by Association for the Advancement of Medical Instrumentation (AAMI). On a Bland-Altman plot, the bias and precision between these two methods was 19.8 ± 16.7 (Limits of agreement - 20.1 to 59.6) mmHg, Spearman correlation coefficient r = 0.61. For diastolic pressure, the difference was 4.8 ± 7.7 (LoA - 14.1 to 23.6) mmHg (r = 0.72), and for mean arterial pressure it was 11.18 ± 11.1 (LoA - 12.1 to 34.2) mmHg (r = 0.642). Our study revealed inaccurate agreement (AAMI) between the two methods when measuring systolic and mean blood pressures during post-operative care. The readings for diastolic pressures were inside the limits recommended by AAMI. Movement increased the failure rate significantly (p < 0.001). Thus, arterial tonometry is not an appropriate replacement for invasive blood pressure measurement in these patients.
+28105538	0	10	Comparison	T052	C1707455
+28105538	14	52	non-invasive blood pressure monitoring	T060	C0561871
+28105538	68	76	arterial	T023	C0003842
+28105538	77	98	applanation tonometry	T060	C0430862
+28105538	104	130	intra-arterial measurement	T060	C0199644
+28105538	131	143	Intermittent	T079	C0205267
+28105538	144	183	non-invasive blood pressure measurement	T074	C1740333
+28105538	189	200	tourniquets	T074	C0040519
+28105538	220	225	nerve	T037	C0161479
+28105538	230	241	skin damage	T184	C0849640
+28105538	269	281	measurements	T169	C0242485
+28105538	283	303	Invasive measurement	T060	C0199622
+28105538	333	343	conditions	T080	C0348080
+28105538	354	362	arterial	T023	C0003842
+28105538	363	372	tonometry	T060	C0040420
+28105538	419	430	measurement	T169	C0242485
+28105538	436	439	aim	T078	C1947946
+28105538	455	463	arterial	T023	C0003842
+28105538	464	480	tonometry sensor	T074	C0183969
+28105538	482	489	BPro(®)	T074	C0025080
+28105538	496	519	invasive blood pressure	T060	C0199622
+28105538	520	531	measurement	T169	C0242485
+28105538	579	600	postoperative setting	T058	C0205903
+28105538	605	613	patients	T101	C0030705
+28105538	628	644	elective surgery	T061	C0206058
+28105538	655	675	arterial cannulation	T061	C0007431
+28105538	691	699	Patients	T101	C0030705
+28105538	705	731	monitored post-operatively	T058	C0032786
+28105538	754	773	invasive monitoring	T060	C0199622
+28105538	785	790	study	T062	C2603343
+28105538	791	797	device	T073	C0699733
+28105538	812	820	arterial	T023	C0003842
+28105538	821	837	tonometry sensor	T074	C0183969
+28105538	839	846	BPro(®)	T074	C0025080
+28105538	861	892	three-dimensional accelerometer	T074	C4052731
+28105538	896	907	investigate	T169	C1292732
+28105538	912	928	potential impact	T080	C4049986
+28105538	932	940	movement	T040	C0026649
+28105538	942	952	Recordings	T170	C0025102
+28105538	988	995	results	T169	C1274040
+28105538	1005	1015	inaccurate	T080	C0443236
+28105538	1016	1024	readings	T077	C1705179
+28105538	1028	1034	method	T170	C0025663
+28105538	1035	1045	comparison	T052	C1707455
+28105538	1058	1065	devices	T073	C0699733
+28105538	1075	1090	recommendations	T078	C0034866
+28105538	1094	1152	Association for the Advancement of Medical Instrumentation	T093	C1708333
+28105538	1154	1158	AAMI	T093	C1708333
+28105538	1166	1183	Bland-Altman plot	T170	C0282574
+28105538	1226	1233	methods	T170	C0025663
+28105538	1251	1257	Limits	T169	C0439801
+28105538	1261	1270	agreement	T201	C4255433
+28105538	1293	1325	Spearman correlation coefficient	T081	C0242929
+28105538	1340	1358	diastolic pressure	T201	C0428883
+28105538	1435	1457	mean arterial pressure	T033	C0428886
+28105538	1521	1526	study	T062	C2603343
+28105538	1536	1546	inaccurate	T080	C0443236
+28105538	1547	1556	agreement	T201	C4255433
+28105538	1558	1562	AAMI	T093	C1708333
+28105538	1580	1587	methods	T170	C0025663
+28105538	1603	1611	systolic	T201	C0871470
+28105538	1616	1636	mean blood pressures	T033	C0428886
+28105538	1644	1663	post-operative care	T058	C0032786
+28105538	1669	1677	readings	T077	C1705179
+28105538	1682	1701	diastolic pressures	T201	C0428883
+28105538	1718	1724	limits	T169	C0439801
+28105538	1740	1744	AAMI	T093	C1708333
+28105538	1746	1754	Movement	T040	C0026649
+28105538	1769	1776	failure	T169	C0231174
+28105538	1777	1781	rate	T081	C1521828
+28105538	1815	1823	arterial	T023	C0003842
+28105538	1824	1833	tonometry	T060	C0040420
+28105538	1856	1867	replacement	T169	C0559956
+28105538	1872	1907	invasive blood pressure measurement	T060	C0199622
+28105538	1917	1925	patients	T101	C0030705

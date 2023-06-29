@@ -1,0 +1,62 @@
+28319455|t|Joint model imputation to estimate the treatment effect on long-term survival using auxiliary events
+28319455|a|Clinical trial duration may be a concern in clinical research, especially in cancer trials where the endpoint is overall survival. A surrogate endpoint can be used as an auxiliary variable to analyze the treatment effect earlier. At an early time point, the high number of censored observations can be compensated by the imputation of the unobserved deaths times. We propose to use predictions of the risk of death from a joint model for a recurrent event and a terminal event, which account for disease relapse information. Two imputation methods were compared: sampling from the estimated parametric distribution of the survival time and sampling using its nonparametric estimation. The treatment effect and its standard error were estimated via multiple imputations. The performances of the two methods were compared in terms of bias in the estimates, standard errors, and coverage probability. Both methods were then retrospectively applied to two randomized clinical trials studying the effect of adjuvant chemotherapy in breast cancer patients.
+28319455	0	22	Joint model imputation	T081	C2825511
+28319455	26	34	estimate	T081	C0750572
+28319455	39	55	treatment effect	T033	C1518681
+28319455	59	68	long-term	T079	C0443252
+28319455	69	77	survival	T052	C0038952
+28319455	84	100	auxiliary events	T051	C0441471
+28319455	101	115	Clinical trial	T062	C0008976
+28319455	116	124	duration	T079	C0449238
+28319455	145	162	clinical research	T062	C0008972
+28319455	178	191	cancer trials	T062	C1516640
+28319455	202	210	endpoint	T201	C2347784
+28319455	214	230	overall survival	T081	C4086681
+28319455	234	252	surrogate endpoint	T080	C0162488
+28319455	271	289	auxiliary variable	T080	C0439828
+28319455	293	300	analyze	T062	C0936012
+28319455	305	321	treatment effect	T033	C1518681
+28319455	374	382	censored	T052	C3889994
+28319455	383	395	observations	T062	C0302523
+28319455	403	414	compensated	T080	C0205432
+28319455	422	432	imputation	T081	C2825511
+28319455	440	450	unobserved	T033	C0243095
+28319455	451	457	deaths	T033	C1306577
+28319455	483	494	predictions	T078	C0681842
+28319455	502	506	risk	T078	C0035647
+28319455	510	515	death	T040	C0011065
+28319455	523	534	joint model	T081	C2825511
+28319455	541	550	recurrent	T079	C2945760
+28319455	551	556	event	T051	C0441471
+28319455	563	571	terminal	T080	C0205088
+28319455	572	577	event	T051	C0441471
+28319455	597	612	disease relapse	T047	C0277556
+28319455	613	624	information	T078	C1533716
+28319455	630	648	imputation methods	T081	C2825511
+28319455	654	662	compared	T052	C1707455
+28319455	664	672	sampling	T062,T170	C0036150
+28319455	682	715	estimated parametric distribution	T081	C0392762
+28319455	723	736	survival time	T201	C2919552
+28319455	741	749	sampling	T062,T170	C0036150
+28319455	760	784	nonparametric estimation	T081	C0242932
+28319455	790	806	treatment effect	T033	C1518681
+28319455	815	829	standard error	T081	C1710181
+28319455	835	844	estimated	T081	C0750572
+28319455	849	869	multiple imputations	T081	C2825511
+28319455	875	887	performances	T052	C1882330
+28319455	899	906	methods	T170	C0025663
+28319455	912	920	compared	T052	C1707455
+28319455	933	937	bias	T078	C0242568
+28319455	945	954	estimates	T081	C0750572
+28319455	956	971	standard errors	T081	C1710181
+28319455	977	985	coverage	T052	C2700387
+28319455	986	997	probability	T081	C0033204
+28319455	1004	1011	methods	T170	C0025663
+28319455	1022	1037	retrospectively	T080	C1514923
+28319455	1038	1045	applied	T169	C4048755
+28319455	1053	1079	randomized clinical trials	T062,T170	C0206034
+28319455	1093	1099	effect	T080	C1280500
+28319455	1103	1111	adjuvant	T169	C1522673
+28319455	1112	1124	chemotherapy	T061	C3665472
+28319455	1128	1141	breast cancer	T191	C0006142
+28319455	1142	1150	patients	T101	C0030705

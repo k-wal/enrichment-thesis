@@ -1,0 +1,67 @@
+27491646|t|Gartanin induces cell cycle arrest and autophagy and suppresses migration involving PI3K/Akt/mTOR and MAPK signalling pathway in human glioma cells.
+27491646|a|In central nervous system, glioma is the most common primary brain tumour. The diffuse migration and rapid proliferation are main obstacles for successful treatment. Gartanin, a natural xanthone of mangosteen, suppressed proliferation, migration and colony formation in a time- and concentration-dependent manner in T98G glioma cells but not in mouse normal neuronal HT22 cells. Gartanin, at low micromole, led to cell cycle arrest in G1 phase accompanied by inhibited expression level of G1 cell cycle regulatory proteins cyclin D1, while increased expression level of cyclin-dependent kinase inhibitor p27Kip1. In addition, the secretion and activity of matrix metalloproteinases 2/9 (MMP-2/-9) were significantly suppressed in T98G cells treated with gartanin, and it might result from modulating mitogen-activated protein kinases (MAPK) signalling pathway in T98G glioma cells. Moreover, gartanin significantly induced autophagy in T98G cells and increased GFP-LC3 punctate fluorescence accompanied by the increased expression level of Beclin 1 and LC3-II, while suppressed expression level of p62. Gartanin treatment resulted in obvious inhibition of PI3K/Akt/mTOR signalling pathway, which is important in modulating autophagy. Notably, gartanin-mediated anti-viability was significantly abrogated by autophagy inhibitors including 3-methyladenine (3-MA) and chloroquine (CQ). These results indicate that anti-proliferation effect of gartanin in T98G cells is most likely via cell cycle arrest modulated by autophagy, which is regulated by PI3K/Akt/mTOR signalling pathway, while anti-migration effect is most likely via suppression of MMP-2/-9 activity which is involved in MAPK signalling pathway.
+27491646	0	8	Gartanin	ChemicalEntity	C000605798
+27491646	84	88	PI3K	GeneOrGeneProduct	5291
+27491646	89	92	Akt	GeneOrGeneProduct	207
+27491646	93	97	mTOR	GeneOrGeneProduct	2475
+27491646	102	106	MAPK	GeneOrGeneProduct	5594
+27491646	129	134	human	OrganismTaxon	9606
+27491646	135	141	glioma	DiseaseOrPhenotypicFeature	D005910
+27491646	176	182	glioma	DiseaseOrPhenotypicFeature	D005910
+27491646	202	222	primary brain tumour	DiseaseOrPhenotypicFeature	D001932
+27491646	315	323	Gartanin	ChemicalEntity	C000605798
+27491646	335	343	xanthone	ChemicalEntity	C009689
+27491646	347	357	mangosteen	OrganismTaxon	58228
+27491646	465	469	T98G	CellLine	CVCL_0556
+27491646	470	476	glioma	DiseaseOrPhenotypicFeature	D005910
+27491646	494	499	mouse	OrganismTaxon	10090
+27491646	516	520	HT22	CellLine	CVCL_0321
+27491646	528	536	Gartanin	ChemicalEntity	C000605798
+27491646	672	681	cyclin D1	GeneOrGeneProduct	595
+27491646	719	742	cyclin-dependent kinase	GeneOrGeneProduct	983
+27491646	753	760	p27Kip1	GeneOrGeneProduct	1027
+27491646	805	834	matrix metalloproteinases 2/9	GeneOrGeneProduct	4313,4318
+27491646	836	844	MMP-2/-9	GeneOrGeneProduct	4313,4318
+27491646	879	883	T98G	CellLine	CVCL_0556
+27491646	903	911	gartanin	ChemicalEntity	C000605798
+27491646	949	982	mitogen-activated protein kinases	GeneOrGeneProduct	5594
+27491646	984	988	MAPK	GeneOrGeneProduct	5594
+27491646	1012	1016	T98G	CellLine	CVCL_0556
+27491646	1017	1023	glioma	DiseaseOrPhenotypicFeature	D005910
+27491646	1041	1049	gartanin	ChemicalEntity	C000605798
+27491646	1085	1089	T98G	CellLine	CVCL_0556
+27491646	1114	1117	LC3	GeneOrGeneProduct	84557
+27491646	1189	1197	Beclin 1	GeneOrGeneProduct	8678
+27491646	1202	1205	LC3	GeneOrGeneProduct	84557
+27491646	1247	1250	p62	GeneOrGeneProduct	8878
+27491646	1252	1260	Gartanin	ChemicalEntity	C000605798
+27491646	1305	1309	PI3K	GeneOrGeneProduct	5291
+27491646	1310	1313	Akt	GeneOrGeneProduct	207
+27491646	1314	1318	mTOR	GeneOrGeneProduct	2475
+27491646	1392	1400	gartanin	ChemicalEntity	C000605798
+27491646	1487	1502	3-methyladenine	ChemicalEntity	C025946
+27491646	1504	1508	3-MA	ChemicalEntity	C025946
+27491646	1514	1525	chloroquine	ChemicalEntity	D002738
+27491646	1527	1529	CQ	ChemicalEntity	D002738
+27491646	1589	1597	gartanin	ChemicalEntity	C000605798
+27491646	1601	1605	T98G	CellLine	CVCL_0556
+27491646	1695	1699	PI3K	GeneOrGeneProduct	5291
+27491646	1700	1703	Akt	GeneOrGeneProduct	207
+27491646	1704	1708	mTOR	GeneOrGeneProduct	2475
+27491646	1791	1799	MMP-2/-9	GeneOrGeneProduct	4313,4318
+27491646	1830	1834	MAPK	GeneOrGeneProduct	5594
+27491646	Negative_Correlation	983	1027	No
+27491646	Association	C009689	D005910	Novel
+27491646	Negative_Correlation	C000605798	D002738	Novel
+27491646	Negative_Correlation	C000605798	C025946	Novel
+27491646	Negative_Correlation	C000605798	8878	Novel
+27491646	Positive_Correlation	C000605798	84557	Novel
+27491646	Positive_Correlation	C000605798	8678	Novel
+27491646	Negative_Correlation	C000605798	4318	Novel
+27491646	Negative_Correlation	C000605798	4313	Novel
+27491646	Positive_Correlation	C000605798	1027	Novel
+27491646	Negative_Correlation	C000605798	595	Novel
+27491646	Negative_Correlation	C000605798	D005910	Novel
+27491646	Association	207	2475	No
+27491646	Association	5291	2475	No
+27491646	Association	5291	207	No

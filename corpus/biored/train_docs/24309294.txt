@@ -1,0 +1,41 @@
+24309294|t|Cholecystokinin-octapeptide restored morphine-induced hippocampal long-term potentiation impairment in rats.
+24309294|a|Cholecystokinin-octapeptide (CCK-8), which is a typical brain-gut peptide, exerts a wide range of biological activities on the central nervous system. We have previously reported that CCK-8 significantly alleviated morphine-induced amnesia and reversed spine density decreases in the CA1 region of the hippocampus in morphine-treated animals. Here, we investigated the effects of CCK-8 on long-term potentiation (LTP) in the lateral perforant path (LPP)-granule cell synapse of rat dentate gyrus (DG) in acute saline or morphine-treated rats. Population spikes (PS), which were evoked by stimulation of the LPP, were recorded in the DG region. Acute morphine (30mg/kg, s.c.) treatment significantly attenuated hippocampal LTP and CCK-8 (1ug, i.c.v.) restored the amplitude of PS that was attenuated by morphine injection. Furthermore, microinjection of CCK-8 (0.1 and 1ug, i.c.v.) also significantly augmented hippocampal LTP in saline-treated (1ml/kg, s.c.) rats. Pre-treatment of the CCK2 receptor antagonist L-365,260 (10ug, i.c.v) reversed the effects of CCK-8, but the CCK1 receptor antagonist L-364,718 (10ug, i.c.v) did not. The present results demonstrate that CCK-8 attenuates the effect of morphine on hippocampal LTP through CCK2 receptors and suggest an ameliorative function of CCK-8 on morphine-induced memory impairment.
+24309294	0	27	Cholecystokinin-octapeptide	ChemicalEntity	D012844
+24309294	37	45	morphine	ChemicalEntity	D009020
+24309294	103	107	rats	OrganismTaxon	10116
+24309294	109	136	Cholecystokinin-octapeptide	ChemicalEntity	D012844
+24309294	138	143	CCK-8	ChemicalEntity	D012844
+24309294	293	298	CCK-8	ChemicalEntity	D012844
+24309294	324	332	morphine	ChemicalEntity	D009020
+24309294	341	348	amnesia	DiseaseOrPhenotypicFeature	D000647
+24309294	426	434	morphine	ChemicalEntity	D009020
+24309294	489	494	CCK-8	ChemicalEntity	D012844
+24309294	587	590	rat	OrganismTaxon	10116
+24309294	629	637	morphine	ChemicalEntity	D009020
+24309294	646	650	rats	OrganismTaxon	10116
+24309294	759	767	morphine	ChemicalEntity	D009020
+24309294	839	844	CCK-8	ChemicalEntity	D012844
+24309294	911	919	morphine	ChemicalEntity	D009020
+24309294	962	967	CCK-8	ChemicalEntity	D012844
+24309294	1068	1072	rats	OrganismTaxon	10116
+24309294	1095	1108	CCK2 receptor	GeneOrGeneProduct	25706
+24309294	1120	1129	L-365,260	ChemicalEntity	C058121
+24309294	1168	1173	CCK-8	ChemicalEntity	D012844
+24309294	1183	1196	CCK1 receptor	GeneOrGeneProduct	24889
+24309294	1208	1217	L-364,718	ChemicalEntity	D020109
+24309294	1278	1283	CCK-8	ChemicalEntity	D012844
+24309294	1309	1317	morphine	ChemicalEntity	D009020
+24309294	1345	1359	CCK2 receptors	GeneOrGeneProduct	25706
+24309294	1400	1405	CCK-8	ChemicalEntity	D012844
+24309294	1409	1417	morphine	ChemicalEntity	D009020
+24309294	1426	1443	memory impairment	DiseaseOrPhenotypicFeature	D008569
+24309294	Negative_Correlation	24889	D020109	No
+24309294	Positive_Correlation	D009020	D000647	No
+24309294	Positive_Correlation	D009020	D008569	No
+24309294	Association	D009020	25706	Novel
+24309294	Negative_Correlation	D012844	D000647	No
+24309294	Negative_Correlation	D012844	D008569	Novel
+24309294	Negative_Correlation	D012844	D009020	No
+24309294	Association	D012844	25706	Novel
+24309294	Negative_Correlation	C058121	D012844	Novel
+24309294	Negative_Correlation	25706	C058121	No

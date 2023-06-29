@@ -1,0 +1,75 @@
+28464828|t|Analysis of patients with diabetes and complicated intra-abdominal infection or complicated urinary tract infection in phase 3 trials of ceftolozane/tazobactam
+28464828|a|Diabetes mellitus and hyperglycemia are associated with increased susceptibility to bacterial infections and poor treatment outcomes. This post hoc evaluation of the treatment of complicated intra-abdominal infections (cIAI) and complicated urinary tract infections (cUTI) aimed to evaluate baseline characteristics, efficacy, and safety in patients with and without diabetes treated with ceftolozane/tazobactam and comparators. Ceftolozane/tazobactam is an antibacterial with potent activity against Gram-negative pathogens and is approved for the treatment of cIAI (with metronidazole) and cUTI (including pyelonephritis). Patients from the phase 3 ASPECT studies with (n = 245) and without (n = 1802) diabetes were compared to evaluate the baseline characteristics, efficacy, and safety of ceftolozane/tazobactam and active comparators. Significantly more patients with than without diabetes were 65 years of age or older; patients with diabetes were also more likely to weigh ≥75 kg at baseline (57.1% vs 44.5%), to have renal impairment (48.5% vs 30.2%), or to have APACHE II scores ≥10 (33.8% vs 17.0%). More patients with diabetes had comorbidities and an increased incidence of complicating factors in both cIAI and cUTI. Clinical cIAI and composite cure cUTI rates across study treatments were lower in patients with than without diabetes (cIAI, 75.4% vs 86.1%, P = 0.0196; cUTI, 62.4% vs 74.7%, P = 0.1299) but were generally similar between the ceftolozane/tazobactam and active comparator treatment groups. However, significantly higher composite cure rates were reported with ceftolozane/tazobactam than with levofloxacin in patients without diabetes with cUTI (79.5% vs 69.9%; P = 0.0048). Significantly higher rates of adverse events observed in patients with diabetes were likely due to comorbidities because treatment -related adverse events were similar between groups. In this post hoc analysis, patients with diabetes in general were older, heavier, and had a greater number of complicating comorbidities. Patients with diabetes had lower cure rates and a significantly higher frequency of adverse events than patients without diabetes, likely because of the higher rates of medical complications in this subgroup. Ceftolozane/tazobactam was shown to be at least as effective as comparators in treating cUTI and cIAI in this population. cIAI, NCT01445665 and NCT01445678 (both trials registered prospectively on September 26, 2011); cUTI, NCT01345929 and NCT01345955 (both trials registered prospectively on April 28, 2011).
+28464828	0	8	Analysis	T062	UMLS:C0936012
+28464828	26	34	diabetes	T038	UMLS:C0011847
+28464828	51	76	intra-abdominal infection	T038	UMLS:C1112209
+28464828	92	115	urinary tract infection	T038	UMLS:C0042029
+28464828	119	133	phase 3 trials	T062	UMLS:C0282461
+28464828	137	159	ceftolozane/tazobactam	T103	UMLS:C3656593
+28464828	160	177	Diabetes mellitus	T038	UMLS:C0011849
+28464828	182	195	hyperglycemia	T038	UMLS:C0020456
+28464828	216	264	increased susceptibility to bacterial infections	T033	UMLS:C2748958
+28464828	299	318	post hoc evaluation	T058	UMLS:C0220825
+28464828	326	335	treatment	T058	UMLS:C0087111
+28464828	351	377	intra-abdominal infections	T038	UMLS:C1112209
+28464828	379	383	cIAI	T038	UMLS:C1112209
+28464828	401	425	urinary tract infections	T038	UMLS:C0042029
+28464828	427	431	cUTI	T038	UMLS:C0042029
+28464828	442	450	evaluate	T058	UMLS:C0220825
+28464828	527	535	diabetes	T038	UMLS:C0011847
+28464828	536	543	treated	T058	UMLS:C0087111
+28464828	549	571	ceftolozane/tazobactam	T103	UMLS:C3656593
+28464828	589	611	Ceftolozane/tazobactam	T103	UMLS:C3656593
+28464828	618	631	antibacterial	T103	UMLS:C0279516
+28464828	661	684	Gram-negative pathogens	T007	UMLS:C0018150
+28464828	709	718	treatment	T058	UMLS:C0087111
+28464828	722	726	cIAI	T038	UMLS:C1112209
+28464828	733	746	metronidazole	T103	UMLS:C0025872
+28464828	752	756	cUTI	T038	UMLS:C0042029
+28464828	768	782	pyelonephritis	T038	UMLS:C0034186
+28464828	803	817	phase 3 ASPECT	T062	UMLS:C0282461
+28464828	818	825	studies	T062	UMLS:C2603343
+28464828	864	872	diabetes	T038	UMLS:C0011847
+28464828	890	898	evaluate	T058	UMLS:C0220825
+28464828	953	975	ceftolozane/tazobactam	T103	UMLS:C3656593
+28464828	1046	1054	diabetes	T038	UMLS:C0011847
+28464828	1079	1084	older	T098	UMLS:C0001792
+28464828	1100	1108	diabetes	T038	UMLS:C0011847
+28464828	1185	1201	renal impairment	T038	UMLS:C1565489
+28464828	1231	1247	APACHE II scores	T058	UMLS:C0489438
+28464828	1289	1297	diabetes	T038	UMLS:C0011847
+28464828	1375	1379	cIAI	T038	UMLS:C1112209
+28464828	1384	1388	cUTI	T038	UMLS:C0042029
+28464828	1399	1403	cIAI	T038	UMLS:C1112209
+28464828	1423	1427	cUTI	T038	UMLS:C0042029
+28464828	1441	1457	study treatments	T062	UMLS:C3161471
+28464828	1463	1468	lower	T082	UMLS:C0441994
+28464828	1499	1507	diabetes	T038	UMLS:C0011847
+28464828	1509	1513	cIAI	T038	UMLS:C1112209
+28464828	1543	1547	cUTI	T038	UMLS:C0042029
+28464828	1616	1638	ceftolozane/tazobactam	T103	UMLS:C3656593
+28464828	1661	1670	treatment	T058	UMLS:C0087111
+28464828	1735	1743	reported	T058	UMLS:C0700287
+28464828	1749	1771	ceftolozane/tazobactam	T103	UMLS:C3656593
+28464828	1782	1794	levofloxacin	T103	UMLS:C0282386
+28464828	1815	1823	diabetes	T038	UMLS:C0011847
+28464828	1829	1833	cUTI	T038	UMLS:C0042029
+28464828	1894	1908	adverse events	T038	UMLS:C0877248
+28464828	1935	1943	diabetes	T038	UMLS:C0011847
+28464828	1985	1994	treatment	T058	UMLS:C0087111
+28464828	2004	2018	adverse events	T038	UMLS:C0877248
+28464828	2061	2073	hoc analysis	T062	UMLS:C0936012
+28464828	2089	2097	diabetes	T038	UMLS:C0011847
+28464828	2114	2119	older	T098	UMLS:C0001792
+28464828	2200	2208	diabetes	T038	UMLS:C0011847
+28464828	2213	2218	lower	T082	UMLS:C0441994
+28464828	2270	2284	adverse events	T038	UMLS:C0877248
+28464828	2307	2315	diabetes	T038	UMLS:C0011847
+28464828	2395	2417	Ceftolozane/tazobactam	T103	UMLS:C3656593
+28464828	2434	2442	at least	T082	UMLS:C0441994
+28464828	2474	2482	treating	T058	UMLS:C0087111
+28464828	2483	2487	cUTI	T038	UMLS:C0042029
+28464828	2492	2496	cIAI	T038	UMLS:C1112209
+28464828	2505	2515	population	T098	UMLS:C1257890
+28464828	2517	2521	cIAI	T038	UMLS:C1112209
+28464828	2613	2617	cUTI	T038	UMLS:C0042029

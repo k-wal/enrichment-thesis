@@ -1,0 +1,109 @@
+26684240|t|Identification of the BRAF V600E mutation in gastroenteropancreatic neuroendocrine tumors.
+26684240|a|Genomic profiles of gastroenteropancreatic neuroendocrine tumors (GEP-NETs) are still insufficiently understood, and the genetic alterations associated with drug responses have not been studied. Here, we performed whole exome sequencing of 12 GEP-NETs from patients enrolled in a nonrandomized, open-labeled, single-center phase II study for pazopanib, and integrated our results with previously published results on pancreas (n = 12) and small intestine NETs (n = 50). The mean numbers of somatic mutations in each case varied widely from 20 to 4682. Among 12 GEP-NETs, eight showed mutations of more than one cancer-related gene, including TP53, CNBD1, RB1, APC, BCOR, BRAF, CTNNB1, EGFR, EP300, ERBB3, KDM6A, KRAS, MGA, MLL3, PTEN, RASA1, SMARCB1, SPEN, TBC1D12, and VHL. TP53 was recurrently mutated in three cases, whereas CNBD1 and RB1 mutations were identified in two cases. Three GEP-NET patients with TP53 mutations demonstrated a durable response and one small intestinal grade (G) 1 NET patient with BRAF V600E mutation showed progression after pazopanib treatment. We found BRAF V600E (G1 NET from rectum and two G3 NETs from colon) and BRAF G593S (G2 NET from pancreas) missense mutations (9.1%) in an independent cohort of 44 GEP-NETs from the rectum (n = 26), colon (n = 7), pancreas (n = 4), small intestine (n = 3), stomach (n = 3) and appendix (n = 1) by Sanger sequencing. All tumor specimens were obtained before chemotherapy. In conclusion, BRAF V600E mutation is likely to result in resistance to pazopanib but may be a potentianally actionable mutation in metastatic GEP-NETs patients.
+26684240	22	26	BRAF	GeneOrGeneProduct	673
+26684240	27	32	V600E	SequenceVariant	rs113488022
+26684240	45	89	gastroenteropancreatic neuroendocrine tumors	DiseaseOrPhenotypicFeature	C535650
+26684240	111	155	gastroenteropancreatic neuroendocrine tumors	DiseaseOrPhenotypicFeature	C535650
+26684240	157	165	GEP-NETs	DiseaseOrPhenotypicFeature	C535650
+26684240	334	342	GEP-NETs	DiseaseOrPhenotypicFeature	C535650
+26684240	348	356	patients	OrganismTaxon	9606
+26684240	433	442	pazopanib	ChemicalEntity	C516667
+26684240	536	550	intestine NETs	DiseaseOrPhenotypicFeature	D007414
+26684240	652	660	GEP-NETs	DiseaseOrPhenotypicFeature	C535650
+26684240	702	708	cancer	DiseaseOrPhenotypicFeature	D009369
+26684240	733	737	TP53	GeneOrGeneProduct	7157
+26684240	739	744	CNBD1	GeneOrGeneProduct	168975
+26684240	746	749	RB1	GeneOrGeneProduct	5925
+26684240	751	754	APC	GeneOrGeneProduct	324
+26684240	756	760	BCOR	GeneOrGeneProduct	54880
+26684240	762	766	BRAF	GeneOrGeneProduct	673
+26684240	768	774	CTNNB1	GeneOrGeneProduct	1499
+26684240	776	780	EGFR	GeneOrGeneProduct	1956
+26684240	782	787	EP300	GeneOrGeneProduct	2033
+26684240	789	794	ERBB3	GeneOrGeneProduct	2065
+26684240	796	801	KDM6A	GeneOrGeneProduct	7403
+26684240	803	807	KRAS	GeneOrGeneProduct	3845
+26684240	809	812	MGA	GeneOrGeneProduct	23269
+26684240	814	818	MLL3	GeneOrGeneProduct	58508
+26684240	820	824	PTEN	GeneOrGeneProduct	5728
+26684240	826	831	RASA1	GeneOrGeneProduct	5921
+26684240	833	840	SMARCB1	GeneOrGeneProduct	6598
+26684240	842	846	SPEN	GeneOrGeneProduct	23013
+26684240	848	855	TBC1D12	GeneOrGeneProduct	23232
+26684240	861	864	VHL	GeneOrGeneProduct	7428
+26684240	866	870	TP53	GeneOrGeneProduct	7157
+26684240	919	924	CNBD1	GeneOrGeneProduct	168975
+26684240	929	932	RB1	GeneOrGeneProduct	5925
+26684240	979	986	GEP-NET	DiseaseOrPhenotypicFeature	C535650
+26684240	987	995	patients	OrganismTaxon	9606
+26684240	1001	1005	TP53	GeneOrGeneProduct	7157
+26684240	1062	1088	intestinal grade (G) 1 NET	DiseaseOrPhenotypicFeature	D007414
+26684240	1089	1096	patient	OrganismTaxon	9606
+26684240	1102	1106	BRAF	GeneOrGeneProduct	673
+26684240	1107	1112	V600E	SequenceVariant	rs113488022
+26684240	1147	1156	pazopanib	ChemicalEntity	C516667
+26684240	1177	1181	BRAF	GeneOrGeneProduct	673
+26684240	1182	1187	V600E	SequenceVariant	rs113488022
+26684240	1192	1195	NET	DiseaseOrPhenotypicFeature	D018358
+26684240	1219	1223	NETs	DiseaseOrPhenotypicFeature	D018358
+26684240	1240	1244	BRAF	GeneOrGeneProduct	673
+26684240	1245	1250	G593S	SequenceVariant	p.G593S
+26684240	1255	1258	NET	DiseaseOrPhenotypicFeature	D018358
+26684240	1331	1339	GEP-NETs	DiseaseOrPhenotypicFeature	C535650
+26684240	1487	1492	tumor	DiseaseOrPhenotypicFeature	D009369
+26684240	1553	1557	BRAF	GeneOrGeneProduct	673
+26684240	1558	1563	V600E	SequenceVariant	rs113488022
+26684240	1610	1619	pazopanib	ChemicalEntity	C516667
+26684240	1681	1689	GEP-NETs	DiseaseOrPhenotypicFeature	C535650
+26684240	1690	1698	patients	OrganismTaxon	9606
+26684240	Association	p.G593S	D018358	Novel
+26684240	Negative_Correlation	D007414	C516667	No
+26684240	Association	D007414	rs113488022	Novel
+26684240	Association	D007414	673	Novel
+26684240	Association	7428	D009369	No
+26684240	Association	23232	D009369	No
+26684240	Association	23013	D009369	No
+26684240	Association	6598	D009369	No
+26684240	Association	5921	D009369	No
+26684240	Association	5728	D009369	No
+26684240	Association	58508	D009369	No
+26684240	Association	23269	D009369	No
+26684240	Association	3845	D009369	No
+26684240	Association	7403	D009369	No
+26684240	Association	2033	D009369	No
+26684240	Association	1956	D009369	No
+26684240	Association	1499	D009369	No
+26684240	Association	54880	D009369	No
+26684240	Association	324	D009369	No
+26684240	Association	5925	D009369	No
+26684240	Association	168975	D009369	No
+26684240	Association	D009369	2065	No
+26684240	Association	7157	D009369	No
+26684240	Association	rs113488022	D018358	Novel
+26684240	Negative_Correlation	rs113488022	C516667	Novel
+26684240	Association	rs113488022	C535650	Novel
+26684240	Association	C535650	p.G593S	Novel
+26684240	Negative_Correlation	C535650	C516667	No
+26684240	Association	C535650	7428	Novel
+26684240	Association	C535650	23232	Novel
+26684240	Association	C535650	23013	Novel
+26684240	Association	C535650	6598	Novel
+26684240	Association	C535650	5921	Novel
+26684240	Association	C535650	5728	Novel
+26684240	Association	C535650	58508	Novel
+26684240	Association	C535650	23269	Novel
+26684240	Association	C535650	3845	Novel
+26684240	Association	C535650	7403	Novel
+26684240	Association	C535650	2065	Novel
+26684240	Association	C535650	2033	Novel
+26684240	Association	C535650	1956	Novel
+26684240	Association	C535650	1499	Novel
+26684240	Association	C535650	54880	Novel
+26684240	Association	C535650	324	Novel
+26684240	Association	C535650	5925	Novel
+26684240	Association	C535650	168975	Novel
+26684240	Association	C535650	7157	Novel
+26684240	Association	673	D018358	Novel
+26684240	Negative_Correlation	673	C516667	Novel
+26684240	Association	673	D009369	No
+26684240	Association	673	C535650	Novel

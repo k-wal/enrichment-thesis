@@ -1,0 +1,35 @@
+27855988|t|Development of a platelet adhesion transport equation for a computational thrombosis model
+27855988|a|Thrombosis is a significant issue for cardiovascular device development and use. While thrombosis models are available, very few are device - related and none have been thoroughly validated experimentally. Here, we introduce a surface adherent platelet transport equation into a continuum model to account for the biomaterial interface/blood interaction. Using a rotating disc system and polyurethane-urea material, we characterize steady and pulsatile flow fields using laser Doppler velocimetry. In vitro measurements of platelet adhesion are used in combination with the LDV data to provide further experimental validation. The rotating disc system is computationally studied using the device - induced thrombosis model with the surface platelet adherent transport equation. The results indicate that the flow field is in excellent agreement to the experimental LDV data and that the platelet adhesion simulations are in good agreement with the in vitro platelet data. These results provide good evidence that this transport equation can be used to express the relationship between blood and a biomaterial if the correct platelet adhesion characteristics are known for the biomaterial. Further validation is necessary with other materials.
+27855988	17	34	platelet adhesion	T038	UMLS:C0032174
+27855988	74	84	thrombosis	T038	UMLS:C0040053
+27855988	91	101	Thrombosis	T038	UMLS:C0040053
+27855988	119	124	issue	T033	UMLS:C0033213
+27855988	129	143	cardiovascular	T082	UMLS:C3887460
+27855988	144	150	device	T074	UMLS:C0025080
+27855988	178	188	thrombosis	T038	UMLS:C0040053
+27855988	224	230	device	T074	UMLS:C0025080
+27855988	271	280	validated	T062	UMLS:C1519941
+27855988	318	325	surface	T082	UMLS:C0205148
+27855988	335	343	platelet	T017	UMLS:C0005821
+27855988	370	385	continuum model	T062	UMLS:C2699430
+27855988	454	474	rotating disc system	T074	UMLS:C0025080
+27855988	479	505	polyurethane-urea material	T103	UMLS:C0164247
+27855988	562	587	laser Doppler velocimetry	T058	UMLS:C0162519
+27855988	614	631	platelet adhesion	T038	UMLS:C0032174
+27855988	665	668	LDV	T058	UMLS:C0162519
+27855988	706	716	validation	T062	UMLS:C1519941
+27855988	722	742	rotating disc system	T074	UMLS:C0025080
+27855988	780	786	device	T074	UMLS:C0025080
+27855988	797	807	thrombosis	T038	UMLS:C0040053
+27855988	823	830	surface	T082	UMLS:C0205148
+27855988	831	839	platelet	T017	UMLS:C0005821
+27855988	956	959	LDV	T058	UMLS:C0162519
+27855988	978	995	platelet adhesion	T038	UMLS:C0032174
+27855988	996	1007	simulations	T062	UMLS:C0679083
+27855988	1048	1056	platelet	T017	UMLS:C0005821
+27855988	1176	1181	blood	T031	UMLS:C0005767
+27855988	1188	1199	biomaterial	T103	UMLS:C0005479
+27855988	1215	1232	platelet adhesion	T038	UMLS:C0032174
+27855988	1267	1278	biomaterial	T103	UMLS:C0005479
+27855988	1288	1298	validation	T062	UMLS:C1519941
+27855988	1323	1332	materials	T103	UMLS:C0005479

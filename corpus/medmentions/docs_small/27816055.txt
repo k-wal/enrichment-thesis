@@ -1,0 +1,81 @@
+27816055|t|Genome-wide profiling of chicken dendritic cell response to infectious bursal disease
+27816055|a|Avian infectious bursal disease virus (IBDV) is a highly contagious, immunosuppressive disease of young chickens, which causes high mortality rates and large economic losses in the poultry industry. Dendritic cells (DCs), which are antigen-presenting cells, have the unique ability to induce both innate and acquired immune responses and may significantly influence virus pathogenicity. To understand the interaction between IBDV and DCs, a microarray was used to analyse the response of DCs infected by IBDV. IBDV infection induced 479 upregulated and 466 downregulated mRNAs in chicken DCs. Analysis of Gene Ontology suggested that transcription from the RNA polymerase II promoter and the RNA biosynthetic process were enriched, and pathway analyses suggested that oxidative phosphorylation, as well as the T cell receptor and Interleukin-17 (IL-17) signalling pathways might be activated by IBDV infection. Moreover, microRNA (miRNA) and long non-coding RNA (lncRNA) alterations in IBDV - infected chicken DCs were observed. A total of 18 significantly upregulated or downregulated miRNAs and 441 significantly upregulated or downregulated lncRNAs were identified in IBDV - stimulated DCs. We constructed 42 transcription factor (TF)- miRNA - mRNA interactions involving 1 TF, 3 miRNAs, and 42 mRNAs in IBDV - stimulated DCs. Finally, we predicted the target genes of differentially expressed lncRNAs, and constructed lncRNA - mRNA regulatory networks. The results of this study suggest a mechanism to explain how IBDV infection triggers an effective immune response in chicken DCs.
+27816055	0	21	Genome-wide profiling	T062	UMLS:C2350277
+27816055	25	32	chicken	T204	UMLS:C0008051
+27816055	33	47	dendritic cell	T017	UMLS:C0011306
+27816055	60	85	infectious bursal disease	T038	UMLS:C0276483
+27816055	86	91	Avian	T204	UMLS:C0005595
+27816055	92	123	infectious bursal disease virus	T005	UMLS:C0021338
+27816055	125	129	IBDV	T005	UMLS:C0021338
+27816055	143	153	contagious	T038	UMLS:C0009450
+27816055	155	180	immunosuppressive disease	T038	UMLS:C0012634
+27816055	190	198	chickens	T204	UMLS:C0008051
+27816055	267	274	poultry	T204	UMLS:C0032850
+27816055	285	300	Dendritic cells	T017	UMLS:C0011306
+27816055	302	305	DCs	T017	UMLS:C0011306
+27816055	318	342	antigen-presenting cells	T017	UMLS:C0003315
+27816055	394	419	acquired immune responses	T038	UMLS:C1749719
+27816055	452	457	virus	T005	UMLS:C0042776
+27816055	511	515	IBDV	T005	UMLS:C0021338
+27816055	520	523	DCs	T017	UMLS:C0011306
+27816055	550	557	analyse	T062	UMLS:C0936012
+27816055	574	577	DCs	T017	UMLS:C0011306
+27816055	578	586	infected	T033	UMLS:C0439663
+27816055	590	594	IBDV	T005	UMLS:C0021338
+27816055	596	600	IBDV	T005	UMLS:C0021338
+27816055	601	610	infection	T038	UMLS:C3714514
+27816055	623	634	upregulated	T038	UMLS:C0041904
+27816055	643	656	downregulated	T038	UMLS:C0013081
+27816055	657	662	mRNAs	T103	UMLS:C0035696
+27816055	666	673	chicken	T204	UMLS:C0008051
+27816055	674	677	DCs	T017	UMLS:C0011306
+27816055	679	687	Analysis	T062	UMLS:C0936012
+27816055	691	704	Gene Ontology	T170	UMLS:C1138831
+27816055	720	769	transcription from the RNA polymerase II promoter	T038	UMLS:C1158814
+27816055	778	802	RNA biosynthetic process	T038	UMLS:C1623415
+27816055	822	829	pathway	T038	UMLS:C0037080
+27816055	830	838	analyses	T062	UMLS:C0936012
+27816055	854	879	oxidative phosphorylation	T038	UMLS:C0030013
+27816055	896	911	T cell receptor	T103	UMLS:C0034790
+27816055	916	930	Interleukin-17	T103	UMLS:C0384648
+27816055	932	937	IL-17	T103	UMLS:C0384648
+27816055	939	958	signalling pathways	T038	UMLS:C0037080
+27816055	981	985	IBDV	T005	UMLS:C0021338
+27816055	986	995	infection	T038	UMLS:C3714514
+27816055	1007	1015	microRNA	T103	UMLS:C1101610
+27816055	1017	1022	miRNA	T103	UMLS:C1101610
+27816055	1028	1047	long non-coding RNA	T103	UMLS:C3494264
+27816055	1049	1055	lncRNA	T103	UMLS:C3494264
+27816055	1072	1076	IBDV	T005	UMLS:C0021338
+27816055	1079	1087	infected	T033	UMLS:C0439663
+27816055	1088	1095	chicken	T204	UMLS:C0008051
+27816055	1096	1099	DCs	T017	UMLS:C0011306
+27816055	1143	1154	upregulated	T038	UMLS:C0041904
+27816055	1158	1171	downregulated	T038	UMLS:C0013081
+27816055	1172	1178	miRNAs	T103	UMLS:C1101610
+27816055	1201	1212	upregulated	T038	UMLS:C0041904
+27816055	1216	1229	downregulated	T038	UMLS:C0013081
+27816055	1230	1237	lncRNAs	T103	UMLS:C3494264
+27816055	1257	1261	IBDV	T005	UMLS:C0021338
+27816055	1275	1278	DCs	T017	UMLS:C0011306
+27816055	1298	1318	transcription factor	T103	UMLS:C0040648
+27816055	1320	1322	TF	T103	UMLS:C0040648
+27816055	1325	1330	miRNA	T103	UMLS:C1101610
+27816055	1333	1337	mRNA	T103	UMLS:C0035696
+27816055	1363	1365	TF	T103	UMLS:C0040648
+27816055	1369	1375	miRNAs	T103	UMLS:C1101610
+27816055	1384	1389	mRNAs	T103	UMLS:C0035696
+27816055	1393	1397	IBDV	T005	UMLS:C0021338
+27816055	1411	1414	DCs	T017	UMLS:C0011306
+27816055	1449	1454	genes	T017	UMLS:C0017337
+27816055	1473	1482	expressed	T038	UMLS:C0017262
+27816055	1483	1490	lncRNAs	T103	UMLS:C3494264
+27816055	1508	1514	lncRNA	T103	UMLS:C3494264
+27816055	1517	1521	mRNA	T103	UMLS:C0035696
+27816055	1522	1541	regulatory networks	T038	UMLS:C1720950
+27816055	1563	1568	study	T062	UMLS:C2603343
+27816055	1604	1608	IBDV	T005	UMLS:C0021338
+27816055	1609	1618	infection	T038	UMLS:C3714514
+27816055	1641	1656	immune response	T038	UMLS:C0301872
+27816055	1660	1667	chicken	T204	UMLS:C0008051
+27816055	1668	1671	DCs	T017	UMLS:C0011306

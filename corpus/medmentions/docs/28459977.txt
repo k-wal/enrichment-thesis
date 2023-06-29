@@ -1,0 +1,60 @@
+28459977|t|GSuite HyperBrowser: integrative analysis of dataset collections across the genome and epigenome
+28459977|a|Recent large-scale undertakings such as ENCODE and Roadmap Epigenomics have generated experimental data mapped to the human reference genome (as genomic tracks) representing a variety of functional elements across a large number of cell types. Despite the high potential value of these publicly available data for a broad variety of investigations, little attention has been given to the analytical methodology necessary for their widespread utilisation. We here present a first principled treatment of the analysis of collections of genomic tracks. We have developed novel computational and statistical methodology to permit comparative and confirmatory analyses across multiple and disparate data sources. We delineate a set of generic questions that are useful across a broad range of investigations and discuss the implications of choosing different statistical measures and null models. Examples include contrasting analyses across different tissues or diseases. The methodology has been implemented in a comprehensive open-source software system, the GSuite HyperBrowser. To make the functionality accessible to biologists, and to facilitate reproducible analysis, we have also developed a web-based interface providing an expertly guided and customizable way of utilizing the methodology. With this system, many novel biological questions can flexibly be posed and rapidly answered. Through a combination of streamlined data acquisition, interoperable representation of dataset collections and customizable statistical analysis with guided setup and interpretation, the GSuite HyperBrowser represents a first comprehensive solution for integrative analysis of track collections across the genome and epigenome. The software is available at: https://hyperbrowser.uio.no.
+28459977	0	19	GSuite HyperBrowser	T170	C3658317
+28459977	21	41	integrative analysis	T062	C0936012
+28459977	45	64	dataset collections	T062	C0010995
+28459977	76	82	genome	T028	C0017428
+28459977	87	96	epigenome	T028	C0017428
+28459977	137	143	ENCODE	T170	C0014095
+28459977	148	167	Roadmap Epigenomics	T170	C0282574
+28459977	183	195	experimental	T080	C1517586
+28459977	201	220	mapped to the human	T062	C1517491
+28459977	231	237	genome	T028	C0017428
+28459977	242	256	genomic tracks	T028	C0017428
+28459977	284	294	functional	T169	C0205245
+28459977	329	339	cell types	T170	C0449475
+28459977	402	406	data	T078	C1511726
+28459977	430	444	investigations	T080	C1517586
+28459977	485	507	analytical methodology	T170	C0969625
+28459977	587	596	treatment	T061	C0087111
+28459977	604	612	analysis	T062	C0936012
+28459977	616	627	collections	T062	C0010995
+28459977	631	645	genomic tracks	T028	C0017428
+28459977	671	684	computational	T170	C0009627
+28459977	689	712	statistical methodology	T170	C0038208
+28459977	723	734	comparative	T062	C0683941
+28459977	739	760	confirmatory analyses	T080	C0870334
+28459977	768	776	multiple	T081	C0439064
+28459977	791	803	data sources	T081	C0011001
+28459977	827	844	generic questions	T170	C1522634
+28459977	885	899	investigations	T080	C1517586
+28459977	951	971	statistical measures	T081	C0871425
+28459977	976	987	null models	T170	C3161035
+28459977	1018	1026	analyses	T062	C0936012
+28459977	1044	1051	tissues	T024	C0040300
+28459977	1055	1063	diseases	T047	C0012634
+28459977	1069	1080	methodology	T170	C0969625
+28459977	1107	1120	comprehensive	T080	C1880156
+28459977	1121	1148	open-source software system	T170	C0282574
+28459977	1154	1173	GSuite HyperBrowser	T170	C3658317
+28459977	1187	1200	functionality	T169	C0205245
+28459977	1215	1225	biologists	T097	C0334861
+28459977	1245	1266	reproducible analysis	T062	C0936012
+28459977	1293	1312	web-based interface	T170	C0282574
+28459977	1326	1341	expertly guided	T097	C0181090
+28459977	1380	1391	methodology	T170	C0969625
+28459977	1403	1409	system	T169	C0449913
+28459977	1422	1432	biological	T080	C0205460
+28459977	1433	1442	questions	T170	C1522634
+28459977	1524	1528	data	T078	C1511726
+28459977	1574	1593	dataset collections	T062	C0010995
+28459977	1611	1631	statistical analysis	T062	C0871424
+28459977	1637	1643	guided	T097	C0181090
+28459977	1674	1693	GSuite HyperBrowser	T170	C3658317
+28459977	1713	1726	comprehensive	T080	C1880156
+28459977	1740	1760	integrative analysis	T062	C0936012
+28459977	1764	1781	track collections	T170	C0600644
+28459977	1793	1799	genome	T028	C0017428
+28459977	1804	1813	epigenome	T028	C0017428
+28459977	1819	1827	software	T073,T170	C0037585
+28459977	1845	1872	https://hyperbrowser.uio.no	T170	C2349146

@@ -1,0 +1,28 @@
+28515617|t|A modified subgradient extragradient method for solving monotone variational inequalities
+28515617|a|In the setting of Hilbert space, a modified subgradient extragradient method is proposed for solving Lipschitz-continuous and monotone variational inequalities defined on a level set of a convex function. Our iterative process is relaxed and self-adaptive, that is, in each iteration, calculating two metric projections onto some half-spaces containing the domain is involved only and the step size can be selected in some adaptive ways. A weak convergence theorem for our algorithm is proved. We also prove that our method has [Formula: see text] convergence rate.
+28515617	2	43	modified subgradient extragradient method	T170	C0282574
+28515617	56	64	monotone	UnknownType	C0241704
+28515617	65	76	variational	T080	C0205419
+28515617	77	89	inequalities	T080	C0242503
+28515617	108	121	Hilbert space	T170	C0282574
+28515617	125	166	modified subgradient extragradient method	T170	C0282574
+28515617	191	211	Lipschitz-continuous	T170	C0282574
+28515617	216	224	monotone	UnknownType	C0241704
+28515617	225	236	variational	T080	C0205419
+28515617	237	249	inequalities	T080	C0242503
+28515617	278	284	convex	T082	C0521163
+28515617	285	293	function	T169	C0542341
+28515617	299	308	iterative	T033	C1854293
+28515617	309	316	process	T067	C1522240
+28515617	320	327	relaxed	T080	C0542193
+28515617	332	345	self-adaptive	T169	C0231193
+28515617	364	373	iteration	T033	C1854293
+28515617	398	409	projections	T082	C0348018
+28515617	484	488	size	T082	C0456389
+28515617	513	526	adaptive ways	T062	C3274373
+28515617	535	546	convergence	T082	C0443193
+28515617	547	554	theorem	T170	C0039828
+28515617	563	572	algorithm	T170	C0002045
+28515617	607	613	method	T170	C0025663
+28515617	638	649	convergence	T082	C0443193
+28515617	650	654	rate	T081	C1521828

@@ -1,0 +1,91 @@
+27397797|t|A parametric ribcage geometry model accounting for variations among the adult population
+27397797|a|The objective of this study is to develop a parametric ribcage model that can account for morphological variations among the adult population. Ribcage geometries, including 12 pair of ribs, sternum, and thoracic spine, were collected from CT scans of 101 adult subjects through image segmentation, landmark identification (1016 for each subject), symmetry adjustment, and template mesh mapping (26,180 elements for each subject). Generalized procrustes analysis (GPA), principal component analysis (PCA), and regression analysis were used to develop a parametric ribcage model, which can predict nodal locations of the template mesh according to age, sex, height, and body mass index (BMI). Two regression models, a quadratic model for estimating the ribcage size and a linear model for estimating the ribcage shape, were developed. The results showed that the ribcage size was dominated by the height (p=0.000) and age - sex - interaction (p=0.007) and the ribcage shape was significantly affected by the age (p=0.0005), sex (p=0.0002), height (p=0.0064) and BMI (p=0.0000). Along with proper assignment of cortical bone thickness, material properties and failure properties, this parametric ribcage model can directly serve as the mesh of finite element ribcage models for quantifying effects of human characteristics on thoracic injury risks.
+27397797	13	20	ribcage	T023	C0222762
+27397797	30	35	model	T170	C3161035
+27397797	36	46	accounting	T057	C0000938
+27397797	51	61	variations	T080	C0205419
+27397797	72	77	adult	T100	C0001675
+27397797	78	88	population	T098	C1257890
+27397797	93	102	objective	T170	C0018017
+27397797	111	116	study	T062	C2603343
+27397797	144	151	ribcage	T023	C0222762
+27397797	152	157	model	T170	C3161035
+27397797	179	192	morphological	T080	C0332437
+27397797	193	203	variations	T080	C0205419
+27397797	214	219	adult	T100	C0001675
+27397797	220	230	population	T098	C1257890
+27397797	232	239	Ribcage	T023	C0222762
+27397797	240	250	geometries	T090	C0449829
+27397797	265	277	pair of ribs	T023	C0035561
+27397797	279	286	sternum	T023	C0038293
+27397797	292	306	thoracic spine	T023	C0581269
+27397797	328	336	CT scans	T060	C0040405
+27397797	344	349	adult	T100	C0001675
+27397797	350	358	subjects	T098	C0080105
+27397797	367	385	image segmentation	T066	C2697664
+27397797	387	395	landmark	T029	C0504075
+27397797	396	410	identification	T080	C0205396
+27397797	426	433	subject	T098	C0080105
+27397797	436	444	symmetry	T033	C0332516
+27397797	445	455	adjustment	T169	C0456081
+27397797	461	469	template	T078	C1705542
+27397797	470	474	mesh	T081	C1552983
+27397797	475	482	mapping	T052	C1283195
+27397797	491	499	elements	T077	C3812827
+27397797	509	516	subject	T098	C0080105
+27397797	519	550	Generalized procrustes analysis	T081	C0392762
+27397797	552	555	GPA	T081	C0392762
+27397797	558	586	principal component analysis	T081	C0429865
+27397797	588	591	PCA	T081	C0429865
+27397797	598	617	regression analysis	T170	C0034980
+27397797	652	659	ribcage	T023	C0222762
+27397797	660	665	model	T170	C3161035
+27397797	685	690	nodal	T082	C0443268
+27397797	691	700	locations	T082	C0450429
+27397797	708	716	template	T078	C1705542
+27397797	717	721	mesh	T081	C1552983
+27397797	735	738	age	T032	C0001779
+27397797	740	743	sex	T032	C1522384
+27397797	745	751	height	T032	C0489786
+27397797	757	772	body mass index	T201	C1305855
+27397797	774	777	BMI	T201	C1305855
+27397797	784	801	regression models	T170	C0034980
+27397797	805	814	quadratic	T081	C2347976
+27397797	815	820	model	T170	C3161035
+27397797	825	835	estimating	T081	C0750572
+27397797	840	847	ribcage	T023	C0222762
+27397797	848	852	size	T082	C0456389
+27397797	859	871	linear model	T081	C0023732
+27397797	891	898	ribcage	T023	C0222762
+27397797	899	904	shape	T082	C0332479
+27397797	926	933	results	T169	C1274040
+27397797	950	957	ribcage	T023	C0222762
+27397797	958	962	size	T082	C0456389
+27397797	984	990	height	T032	C0489786
+27397797	1005	1008	age	T032	C0001779
+27397797	1011	1014	sex	T032	C1522384
+27397797	1017	1028	interaction	T169	C1704675
+27397797	1047	1054	ribcage	T023	C0222762
+27397797	1055	1060	shape	T082	C0332479
+27397797	1095	1098	age	T032	C0001779
+27397797	1111	1114	sex	T032	C1522384
+27397797	1127	1133	height	T032	C0489786
+27397797	1149	1152	BMI	T201	C1305855
+27397797	1183	1193	assignment	T169	C1516050
+27397797	1197	1210	cortical bone	T023	C0222652
+27397797	1211	1220	thickness	T080	C1280412
+27397797	1222	1230	material	T167	C0520510
+27397797	1231	1241	properties	T080	C0871161
+27397797	1246	1253	failure	T169	C0231174
+27397797	1254	1264	properties	T080	C0871161
+27397797	1282	1289	ribcage	T023	C0222762
+27397797	1290	1295	model	T170	C3161035
+27397797	1322	1326	mesh	T081	C1552983
+27397797	1330	1344	finite element	T170	C0600552
+27397797	1345	1352	ribcage	T023	C0222762
+27397797	1353	1359	models	T170	C3161035
+27397797	1364	1375	quantifying	T081	C1709793
+27397797	1376	1383	effects	T080	C1280500
+27397797	1387	1392	human	T016	C0086418
+27397797	1393	1408	characteristics	T080	C1521970
+27397797	1412	1427	thoracic injury	T037	C0039980

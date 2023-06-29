@@ -1,0 +1,29 @@
+27608180|t|A Bayesian Network-Based Approach to Selection of Intervention Points in the Mitogen-Activated Protein Kinase Plant Defense Response Pathway
+27608180|a|An important problem in computational biology is the identification of potential points of intervention that can lead to modified network behavior in a genetic regulatory network. We consider the problem of deducing the effect of individual genes on the behavior of the network in a statistical framework. In this article, we make use of biological information from the literature to develop a Bayesian network and introduce a method to estimate parameters of this network using data that are relevant to the biological phenomena under study. Then, we give a novel approach to select significant nodes in the network using a decision-theoretic approach. The proposed method is applied to the analysis of the mitogen-activated protein kinase pathway in the plant defense response to pathogens. Results from applying the method to experimental data show that the proposed approach is effective in selecting genes that play crucial roles in the biological phenomenon being studied.
+27608180	77	109	Mitogen-Activated Protein Kinase	T103	UMLS:C0752312
+27608180	110	115	Plant	T204	UMLS:C0032098
+27608180	116	132	Defense Response	T038	UMLS:C1154988
+27608180	133	140	Pathway	T038	UMLS:C0037080
+27608180	154	161	problem	T033	UMLS:C0033213
+27608180	165	186	computational biology	T091	UMLS:C0376528
+27608180	271	278	network	T038	UMLS:C1720950
+27608180	293	319	genetic regulatory network	T038	UMLS:C1720950
+27608180	337	344	problem	T033	UMLS:C0033213
+27608180	382	387	genes	T017	UMLS:C0017337
+27608180	411	418	network	T038	UMLS:C1720950
+27608180	424	445	statistical framework	T062	UMLS:C0242481
+27608180	455	462	article	T170	UMLS:C0282420
+27608180	511	521	literature	T170	UMLS:C0023866
+27608180	568	574	method	T170	UMLS:C0025663
+27608180	587	597	parameters	T033	UMLS:C0449381
+27608180	606	613	network	T038	UMLS:C1720950
+27608180	677	682	study	T062	UMLS:C2603343
+27608180	750	757	network	T038	UMLS:C1720950
+27608180	766	793	decision-theoretic approach	T170	UMLS:C0011114
+27608180	808	814	method	T170	UMLS:C0025663
+27608180	833	841	analysis	T062	UMLS:C0936012
+27608180	849	889	mitogen-activated protein kinase pathway	T038	UMLS:C1518102
+27608180	897	902	plant	T204	UMLS:C0032098
+27608180	903	919	defense response	T038	UMLS:C1154988
+27608180	960	966	method	T170	UMLS:C0025663
+27608180	1046	1051	genes	T017	UMLS:C0017337

@@ -1,0 +1,98 @@
+28499120|t|Characterising bias in regulatory risk and decision analysis: An analysis of heuristics applied in health technology appraisal, chemicals regulation, and climate change governance
+28499120|a|In many environmental and public health domains, heuristic methods of risk and decision analysis must be relied upon, either because problem structures are ambiguous, reliable data is lacking, or decisions are urgent. This introduces an additional source of uncertainty beyond model and measurement error - uncertainty stemming from relying on inexact inference rules. Here we identify and analyse heuristics used to prioritise risk objects, to discriminate between signal and noise, to weight evidence, to construct models, to extrapolate beyond datasets, and to make policy. Some of these heuristics are based on causal generalisations, yet can misfire when these relationships are presumed rather than tested (e.g. surrogates in clinical trials). Others are conventions designed to confer stability to decision analysis, yet which may introduce serious error when applied ritualistically (e.g. significance testing). Some heuristics can be traced back to formal justifications, but only subject to strong assumptions that are often violated in practical applications. Heuristic decision rules (e.g. feasibility rules) in principle act as surrogates for utility maximisation or distributional concerns, yet in practice may neglect costs and benefits, be based on arbitrary thresholds, and be prone to gaming. We highlight the problem of rule-entrenchment, where analytical choices that are in principle contestable are arbitrarily fixed in practice, masking uncertainty and potentially introducing bias. Strategies for making risk and decision analysis more rigorous include: formalising the assumptions and scope conditions under which heuristics should be applied; testing rather than presuming their underlying empirical or theoretical justifications; using sensitivity analysis, simulations, multiple bias analysis, and deductive systems of inference (e.g. directed acyclic graphs) to characterise rule uncertainty and refine heuristics; adopting " recovery schemes " to correct for known biases; and basing decision rules on clearly articulated values and evidence, rather than convention.
+28499120	0	14	Characterising	T052	C1880022
+28499120	15	19	bias	T078	C0242568
+28499120	23	38	regulatory risk	T078	C0035647
+28499120	43	60	decision analysis	T090	C0011108
+28499120	65	73	analysis	T062	C0936012
+28499120	77	87	heuristics	T170	C0597916
+28499120	99	116	health technology	T058	C0752189
+28499120	117	126	appraisal	T058	C1254363
+28499120	128	137	chemicals	T103	C0220806
+28499120	138	148	regulation	T064	C0851285
+28499120	154	168	climate change	T070	C2718051
+28499120	169	179	governance	T052	C0441655
+28499120	188	201	environmental	T185	C0237095
+28499120	206	227	public health domains	T170	C3244304
+28499120	229	246	heuristic methods	T170	C0597916
+28499120	250	254	risk	T078	C0035647
+28499120	259	276	decision analysis	T090	C0011108
+28499120	313	331	problem structures	T033	C0033213
+28499120	356	360	data	T078	C1511726
+28499120	364	371	lacking	T080	C0332268
+28499120	376	385	decisions	T041	C0679006
+28499120	428	434	source	T033	C0449416
+28499120	438	449	uncertainty	T033	C0087130
+28499120	457	462	model	T170	C3161035
+28499120	467	484	measurement error	T081	C0681899
+28499120	487	498	uncertainty	T033	C0087130
+28499120	532	547	inference rules	T170	C0870077
+28499120	557	565	identify	T169	C0205245
+28499120	570	577	analyse	T169	C1524024
+28499120	578	588	heuristics	T170	C0597916
+28499120	608	612	risk	T078	C0035647
+28499120	613	620	objects	T077	C1518526
+28499120	625	637	discriminate	T080	C0205235
+28499120	646	652	signal	T067	C1710082
+28499120	657	662	noise	T067	C0028263
+28499120	667	673	weight	T081	C0043100
+28499120	674	682	evidence	T078	C3887511
+28499120	697	703	models	T170	C3161035
+28499120	727	735	datasets	T170	C0150098
+28499120	749	755	policy	T170	C0242456
+28499120	771	781	heuristics	T170	C0597916
+28499120	802	817	generalisations	T080	C0205556
+28499120	846	859	relationships	T080	C0439849
+28499120	898	908	surrogates	T099	C4053457
+28499120	912	927	clinical trials	T062	C0008976
+28499120	941	952	conventions	T080	C0205556
+28499120	972	981	stability	T080	C0205360
+28499120	985	1002	decision analysis	T090	C0011108
+28499120	1036	1041	error	T080	C0743559
+28499120	1077	1097	significance testing	T169	C0039593
+28499120	1105	1115	heuristics	T170	C0597916
+28499120	1145	1159	justifications	T078	C0392360
+28499120	1188	1199	assumptions	T078	C1254370
+28499120	1227	1249	practical applications	T169	C0205245
+28499120	1251	1260	Heuristic	T170	C0597916
+28499120	1261	1275	decision rules	T170	C0870077
+28499120	1282	1299	feasibility rules	T170	C0870077
+28499120	1321	1331	surrogates	T099	C4053457
+28499120	1336	1356	utility maximisation	T080	C0205556
+28499120	1360	1374	distributional	T169	C1704711
+28499120	1375	1383	concerns	T078	C2699424
+28499120	1392	1400	practice	T077	C1254372
+28499120	1413	1431	costs and benefits	T081	C0010187
+28499120	1445	1454	arbitrary	T080	C1264693
+28499120	1455	1465	thresholds	T080	C0449864
+28499120	1508	1515	problem	T033	C0033213
+28499120	1519	1536	rule-entrenchment	T067	C1254366
+28499120	1544	1562	analytical choices	T052	C1707391
+28499120	1622	1630	practice	T077	C1254372
+28499120	1640	1651	uncertainty	T033	C0087130
+28499120	1680	1684	bias	T078	C0242568
+28499120	1686	1696	Strategies	T041	C0679199
+28499120	1708	1712	risk	T078	C0035647
+28499120	1717	1734	decision analysis	T090	C0011108
+28499120	1774	1785	assumptions	T078	C1254370
+28499120	1790	1795	scope	T077	C1710028
+28499120	1796	1806	conditions	T078	C1254370
+28499120	1819	1829	heuristics	T170	C0597916
+28499120	1849	1856	testing	T169	C0039593
+28499120	1896	1905	empirical	T078	C0392360
+28499120	1909	1935	theoretical justifications	T078	C0392360
+28499120	1943	1954	sensitivity	T081	C0036667
+28499120	1955	1963	analysis	T062	C0936012
+28499120	1965	1976	simulations	T062	C0679083
+28499120	1978	2000	multiple bias analysis	T062	C0242481
+28499120	2006	2036	deductive systems of inference	T170	C0282574
+28499120	2043	2066	directed acyclic graphs	T170	C1706232
+28499120	2084	2088	rule	T170	C0870077
+28499120	2089	2100	uncertainty	T033	C0087130
+28499120	2112	2122	heuristics	T170	C0597916
+28499120	2135	2151	recovery schemes	T170	C1519193
+28499120	2175	2182	biases;	T078	C0242568
+28499120	2194	2208	decision rules	T170	C0870077
+28499120	2232	2238	values	T080	C0042295
+28499120	2243	2251	evidence	T078	C3887511
+28499120	2265	2275	convention	T080	C0205556

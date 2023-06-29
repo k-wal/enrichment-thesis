@@ -1,0 +1,61 @@
+25550469|t|The androgen receptor confers protection against diet-induced atherosclerosis, obesity, and dyslipidemia in female mice.
+25550469|a|Androgens have important cardiometabolic actions in males, but their metabolic role in females is unclear. To determine the physiologic androgen receptor (AR)-dependent actions of androgens on atherogenesis in female mice, we generated female AR-knockout (ARKO) mice on an atherosclerosis-prone apolipoprotein E (apoE)-deficient background. After 8 weeks on a high-fat diet, but not on a normal chow diet, atherosclerosis in aorta was increased in ARKO females (+59% vs. control apoE-deficient mice with intact AR gene). They also displayed increased body weight (+18%), body fat percentage (+62%), and hepatic triglyceride levels, reduced insulin sensitivity, and a marked atherogenic dyslipidemia (serum cholesterol, +52%). Differences in atherosclerosis, body weight, and lipid levels between ARKO and control mice were abolished in mice that were ovariectomized before puberty, consistent with a protective action of ovarian androgens mediated via the AR. Furthermore, the AR agonist dihydrotestosterone reduced atherosclerosis (-41%; thoracic aorta), subcutaneous fat mass (-44%), and cholesterol levels (-35%) in ovariectomized mice, reduced hepatocyte lipid accumulation in hepatoma cells in vitro, and regulated mRNA expression of hepatic genes pivotal for lipid homeostasis. In conclusion, we demonstrate that the AR protects against diet-induced atherosclerosis in female mice and propose that this is mediated by modulation of body composition and lipid metabolism.
+25550469	4	21	androgen receptor	GeneOrGeneProduct	11835
+25550469	62	77	atherosclerosis	DiseaseOrPhenotypicFeature	D050197
+25550469	79	86	obesity	DiseaseOrPhenotypicFeature	D009765
+25550469	92	104	dyslipidemia	DiseaseOrPhenotypicFeature	D050171
+25550469	115	119	mice	OrganismTaxon	10090
+25550469	121	130	Androgens	ChemicalEntity	D000728
+25550469	257	274	androgen receptor	GeneOrGeneProduct	11835
+25550469	276	278	AR	GeneOrGeneProduct	11835
+25550469	301	310	androgens	ChemicalEntity	D000728
+25550469	314	327	atherogenesis	DiseaseOrPhenotypicFeature	D050197
+25550469	338	342	mice	OrganismTaxon	10090
+25550469	364	366	AR	GeneOrGeneProduct	11835
+25550469	377	379	AR	GeneOrGeneProduct	11835
+25550469	383	387	mice	OrganismTaxon	10090
+25550469	394	409	atherosclerosis	DiseaseOrPhenotypicFeature	D050197
+25550469	416	432	apolipoprotein E	GeneOrGeneProduct	11816
+25550469	434	438	apoE	GeneOrGeneProduct	11816
+25550469	527	542	atherosclerosis	DiseaseOrPhenotypicFeature	D050197
+25550469	569	571	AR	GeneOrGeneProduct	11835
+25550469	600	604	apoE	GeneOrGeneProduct	11816
+25550469	615	619	mice	OrganismTaxon	10090
+25550469	632	634	AR	GeneOrGeneProduct	11835
+25550469	732	744	triglyceride	GeneOrGeneProduct	100035834
+25550469	761	768	insulin	GeneOrGeneProduct	16334
+25550469	795	806	atherogenic	DiseaseOrPhenotypicFeature	D050197
+25550469	807	819	dyslipidemia	DiseaseOrPhenotypicFeature	D050171
+25550469	827	838	cholesterol	ChemicalEntity	D002784
+25550469	862	877	atherosclerosis	DiseaseOrPhenotypicFeature	D050197
+25550469	896	901	lipid	ChemicalEntity	D008055
+25550469	917	919	AR	GeneOrGeneProduct	11835
+25550469	934	938	mice	OrganismTaxon	10090
+25550469	957	961	mice	OrganismTaxon	10090
+25550469	1050	1059	androgens	ChemicalEntity	D000728
+25550469	1077	1079	AR	GeneOrGeneProduct	11835
+25550469	1098	1100	AR	GeneOrGeneProduct	11835
+25550469	1109	1128	dihydrotestosterone	ChemicalEntity	D013196
+25550469	1137	1152	atherosclerosis	DiseaseOrPhenotypicFeature	D050197
+25550469	1211	1222	cholesterol	ChemicalEntity	D002784
+25550469	1255	1259	mice	OrganismTaxon	10090
+25550469	1280	1285	lipid	ChemicalEntity	D008055
+25550469	1302	1310	hepatoma	DiseaseOrPhenotypicFeature	D006528
+25550469	1386	1391	lipid	ChemicalEntity	D008055
+25550469	1444	1446	AR	GeneOrGeneProduct	11835
+25550469	1477	1492	atherosclerosis	DiseaseOrPhenotypicFeature	D050197
+25550469	1503	1507	mice	OrganismTaxon	10090
+25550469	1580	1585	lipid	ChemicalEntity	D008055
+25550469	Negative_Correlation	D013196	D008055	Novel
+25550469	Negative_Correlation	D013196	D002784	Novel
+25550469	Negative_Correlation	D013196	D050197	Novel
+25550469	Association	D050197	D008055	Novel
+25550469	Positive_Correlation	D050197	D002784	No
+25550469	Positive_Correlation	D050171	D002784	No
+25550469	Negative_Correlation	D050171	11835	Novel
+25550469	Negative_Correlation	100035834	11835	Novel
+25550469	Positive_Correlation	11835	D013196	No
+25550469	Bind	11835	D000728	No
+25550469	Negative_Correlation	11835	D050197	Novel
+25550469	Positive_Correlation	11835	16334	Novel
+25550469	Negative_Correlation	11835	D009765	Novel

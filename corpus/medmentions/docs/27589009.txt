@@ -1,0 +1,91 @@
+27589009|t|The underlying inflammatory chronic disease influences infliximab pharmacokinetics
+27589009|a|Infliximab is an anti-tumor necrosis factor monoclonal antibody approved in chronic inflammatory diseases such as rheumatoid arthritis (RA), psoriatic arthritis (PsA), ankylosing spondylitis (AS), Crohn's disease (CD) and ulcerative colitis (UC). Infliximab pharmacokinetics is variable between patients, but influence of the underlying disease was never assessed. This study aimed at assessing this influence using a cohort of patients monitored in a single center and with the same assay. Infliximab trough concentrations were determined on samples collected between weeks 0 and 22 after treatment initiation in 218 patients treated for RA, PsA, AS, CD or UC. Infliximab pharmacokinetics was analyzed by a one-compartment population model with first-order elimination rate constant. In AS patients, volume of distribution (V) and elimination clearance (CL) were 5.4 L and 0.24 L/day, respectively. In CD and UC patients, V was 49% and 52% higher than in AS, respectively, and CL was 47% and 60% higher than in AS, respectively. In RA patients, CL was 49% higher than in AS patients. Simulations showed that without methotrexate, a 3 mg/kg dosing regimen would lead only 16% of RA patients to reach the target concentration (2.5 mg/L) at week 22, whereas target concentrations would be reached in approximately half of RA patients cotreated with methotrexate, as well as half of CD (3.5 mg/L) and UC (3.7 mg/L) patients. The suboptimality of approved dosing regimens supports the development of dosing optimization based on concentration measurements.
+27589009	15	43	inflammatory chronic disease	T047	C1290886
+27589009	44	54	influences	T077	C4054723
+27589009	55	65	infliximab	T116,T121,T129	C0666743
+27589009	66	82	pharmacokinetics	T169	C0031328
+27589009	83	93	Infliximab	T116,T121,T129	C0666743
+27589009	100	126	anti-tumor necrosis factor	T121	C1562242
+27589009	127	146	monoclonal antibody	T116,T129	C0003250
+27589009	159	188	chronic inflammatory diseases	T047	C1290886
+27589009	197	217	rheumatoid arthritis	T047	C0003873
+27589009	219	221	RA	T047	C0003873
+27589009	224	243	psoriatic arthritis	T047	C0003872
+27589009	245	248	PsA	T047	C0003872
+27589009	251	273	ankylosing spondylitis	T047	C0038013
+27589009	275	277	AS	T047	C0038013
+27589009	280	295	Crohn's disease	T047	C0010346
+27589009	297	299	CD	T047	C0010346
+27589009	305	323	ulcerative colitis	T047	C0009324
+27589009	325	327	UC	T047	C0009324
+27589009	330	340	Infliximab	T116,T121,T129	C0666743
+27589009	341	357	pharmacokinetics	T169	C0031328
+27589009	378	386	patients	T101	C0030705
+27589009	392	401	influence	T077	C4054723
+27589009	409	427	underlying disease	T047	C0012634
+27589009	438	446	assessed	T052	C1516048
+27589009	483	492	influence	T077	C4054723
+27589009	501	507	cohort	T098	C0599755
+27589009	511	529	patients monitored	T058	C0030695
+27589009	567	572	assay	T059	C1510438
+27589009	574	584	Infliximab	T116,T121,T129	C0666743
+27589009	592	606	concentrations	T081	C1446561
+27589009	612	622	determined	T080	C0521095
+27589009	626	643	samples collected	T059	C0200345
+27589009	673	682	treatment	T169	C1522326
+27589009	683	693	initiation	T169	C1704686
+27589009	701	709	patients	T101	C0030705
+27589009	710	717	treated	T169	C1522326
+27589009	722	724	RA	T047	C0003873
+27589009	726	729	PsA	T047	C0003872
+27589009	731	733	AS	T047	C0038013
+27589009	735	737	CD	T047	C0010346
+27589009	741	743	UC	T047	C0009324
+27589009	745	755	Infliximab	T116,T121,T129	C0666743
+27589009	756	772	pharmacokinetics	T169	C0031328
+27589009	777	785	analyzed	T062	C0936012
+27589009	807	817	population	T098	C1257890
+27589009	841	852	elimination	T033	C2735304
+27589009	853	866	rate constant	T081	C2986811
+27589009	871	873	AS	T047	C0038013
+27589009	874	882	patients	T101	C0030705
+27589009	884	906	volume of distribution	T081	C0683148
+27589009	908	909	V	T081	C0683148
+27589009	915	926	elimination	T033	C2735304
+27589009	927	936	clearance	T080	C0449297
+27589009	938	940	CL	T080	C0449297
+27589009	986	988	CD	T047	C0010346
+27589009	993	995	UC	T047	C0009324
+27589009	996	1004	patients	T101	C0030705
+27589009	1039	1041	AS	T047	C0038013
+27589009	1061	1063	CL	T080	C0449297
+27589009	1095	1097	AS	T047	C0038013
+27589009	1116	1118	RA	T047	C0003873
+27589009	1119	1127	patients	T101	C0030705
+27589009	1129	1131	CL	T080	C0449297
+27589009	1155	1157	AS	T047	C0038013
+27589009	1158	1166	patients	T101	C0030705
+27589009	1168	1179	Simulations	T062	C0679083
+27589009	1200	1212	methotrexate	T109,T121	C0025677
+27589009	1224	1230	dosing	T081	C0178602
+27589009	1231	1238	regimen	T061	C0040808
+27589009	1262	1264	RA	T047	C0003873
+27589009	1265	1273	patients	T101	C0030705
+27589009	1287	1293	target	T169	C1521840
+27589009	1294	1307	concentration	T081	C1446561
+27589009	1339	1345	target	T169	C1521840
+27589009	1346	1360	concentrations	T081	C1446561
+27589009	1381	1394	approximately	T080	C0332232
+27589009	1403	1405	RA	T047	C0003873
+27589009	1406	1414	patients	T101	C0030705
+27589009	1415	1424	cotreated	T169	C1522326
+27589009	1430	1442	methotrexate	T109,T121	C0025677
+27589009	1463	1465	CD	T047	C0010346
+27589009	1481	1483	UC	T047	C0009324
+27589009	1495	1503	patients	T101	C0030705
+27589009	1535	1541	dosing	T081	C0178602
+27589009	1542	1550	regimens	T061	C0040808
+27589009	1564	1575	development	T169	C1527148
+27589009	1579	1585	dosing	T081	C0178602
+27589009	1586	1598	optimization	T052	C2698650
+27589009	1608	1634	concentration measurements	T081	C1446561

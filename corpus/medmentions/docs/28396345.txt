@@ -1,0 +1,82 @@
+28396345|t|The WW domain of the scaffolding protein IQGAP1 is neither necessary nor sufficient for binding to the MAPKs ERK1 and ERK2
+28396345|a|Mitogen-activated protein kinase (MAPK) scaffold proteins, such as IQ motif containing GTPase activating protein 1 (IQGAP1), are promising targets for novel therapies against cancer and other diseases. Such approaches require accurate information about which domains on the scaffold protein bind to the kinases in the MAPK cascade. Results from previous studies have suggested that the WW domain of IQGAP1 binds to the cancer -associated MAPKs ERK1 and ERK2, and that this domain might thus offer a new tool to selectively inhibit MAPK activation in cancer cells. The goal of this work was therefore to critically evaluate which IQGAP1 domains bind to ERK1 / 2. Here, using quantitative in vitro binding assays, we show that the IQ domain of IQGAP1 is both necessary and sufficient for binding to ERK1 and ERK2, as well as to the MAPK kinases MEK1 and MEK2. Furthermore, we show that the WW domain is not required for ERK - IQGAP1 binding, and contributes little or no binding energy to this interaction, challenging previous models of how WW-based peptides might inhibit tumorigenesis. Finally, we show that the ERK2 - IQGAP1 interaction does not require ERK2 phosphorylation or catalytic activity and does not involve known docking recruitment sites on ERK2, and we obtain an estimate of the dissociation constant (Kd) for this interaction of 8 μm These results prompt a re-evaluation of published findings and a refined model of IQGAP scaffolding.
+28396345	4	13	WW domain	T087	C1514562
+28396345	21	40	scaffolding protein	T116,T123	C1179132
+28396345	41	47	IQGAP1	T116,T123	C1453155
+28396345	73	83	sufficient	T080	C0205410
+28396345	88	95	binding	T044	C1167622
+28396345	103	108	MAPKs	T116,T126	C0752312
+28396345	109	113	ERK1	T116,T126	C0082529
+28396345	118	122	ERK2	T116,T126	C0170168
+28396345	123	155	Mitogen-activated protein kinase	T116,T126	C0752312
+28396345	157	161	MAPK	T116,T126	C0752312
+28396345	163	180	scaffold proteins	T116,T123	C1179132
+28396345	190	237	IQ motif containing GTPase activating protein 1	T116,T123	C1453155
+28396345	239	245	IQGAP1	T116,T123	C1453155
+28396345	262	269	targets	T169	C1521840
+28396345	280	289	therapies	T061	C0087111
+28396345	298	304	cancer	T191	C0006826
+28396345	315	323	diseases	T047	C0012634
+28396345	349	357	accurate	T080	C0443131
+28396345	358	369	information	T078	C1533716
+28396345	382	389	domains	T087	C1514562
+28396345	397	413	scaffold protein	T116,T123	C1179132
+28396345	414	418	bind	T044	C1167622
+28396345	426	433	kinases	T116,T126	C0033640
+28396345	441	453	MAPK cascade	T044	C0752319
+28396345	509	518	WW domain	T087	C1514562
+28396345	522	528	IQGAP1	T116,T123	C1453155
+28396345	529	534	binds	T044	C1167622
+28396345	542	548	cancer	T191	C0006826
+28396345	561	566	MAPKs	T116,T126	C0752312
+28396345	567	571	ERK1	T116,T126	C0082529
+28396345	576	580	ERK2	T116,T126	C0170168
+28396345	596	602	domain	T087	C1514562
+28396345	646	653	inhibit	T052	C3463820
+28396345	654	658	MAPK	T116,T126	C0752312
+28396345	659	669	activation	T044	C0014429
+28396345	673	685	cancer cells	T025	C0334227
+28396345	737	745	evaluate	T058	C0220825
+28396345	752	758	IQGAP1	T116,T123	C1453155
+28396345	759	766	domains	T087	C1514562
+28396345	767	771	bind	T044	C1167622
+28396345	775	779	ERK1	T116,T126	C0082529
+28396345	782	783	2	T116,T126	C0170168
+28396345	797	809	quantitative	T081	C0392762
+28396345	810	833	in vitro binding assays	T062	C1515653
+28396345	852	861	IQ domain	T087	C1514562
+28396345	865	871	IQGAP1	T116,T123	C1453155
+28396345	894	904	sufficient	T080	C0205410
+28396345	909	916	binding	T044	C1167622
+28396345	920	924	ERK1	T116,T126	C0082529
+28396345	929	933	ERK2	T116,T126	C0170168
+28396345	953	957	MAPK	T116,T126	C0752312
+28396345	958	965	kinases	T116,T126	C0033640
+28396345	966	970	MEK1	T116,T126	C1434639
+28396345	975	979	MEK2	T116,T126	C1434641
+28396345	1011	1020	WW domain	T087	C1514562
+28396345	1041	1044	ERK	T116,T126	C0752312
+28396345	1047	1053	IQGAP1	T116,T123	C1453155
+28396345	1054	1061	binding	T044	C1167622
+28396345	1089	1091	no	T033	C1513916
+28396345	1092	1106	binding energy	T081	C1442080
+28396345	1115	1126	interaction	T044	C0872079
+28396345	1149	1155	models	T170	C3161035
+28396345	1163	1180	WW-based peptides	T116	C0030956
+28396345	1187	1194	inhibit	T052	C3463820
+28396345	1195	1208	tumorigenesis	T191	C0596263
+28396345	1236	1240	ERK2	T116,T126	C0170168
+28396345	1243	1249	IQGAP1	T116,T123	C1453155
+28396345	1250	1261	interaction	T044	C0872079
+28396345	1279	1283	ERK2	T116,T126	C0170168
+28396345	1284	1299	phosphorylation	T044	C0031715
+28396345	1303	1321	catalytic activity	T081	C1547012
+28396345	1349	1356	docking	T044	C1522290
+28396345	1369	1374	sites	T082	C0205145
+28396345	1378	1382	ERK2	T116,T126	C0170168
+28396345	1417	1443	dissociation constant (Kd)	T067	C1254366
+28396345	1453	1464	interaction	T044	C0872079
+28396345	1496	1509	re-evaluation	T062	C0681840
+28396345	1523	1531	findings	T033	C0243095
+28396345	1538	1551	refined model	T170	C3161035
+28396345	1555	1572	IQGAP scaffolding	T116,T123	C1179132

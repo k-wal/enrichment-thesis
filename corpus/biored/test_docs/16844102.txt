@@ -1,0 +1,69 @@
+16844102|t|Effect of alpha-tocopherol and deferoxamine on methamphetamine-induced neurotoxicity.
+16844102|a|Methamphetamine (MA)-induced dopaminergic neurotoxicity is believed to be associated with the increased formation of free radicals. This study examined the effect of alpha-tocopherol (alpha-TC), a scavenger of reactive oxygen species, and deferoxamine (DFO), an iron chelator, on the MA-induced neurotoxicity. Male rats were treated with MA (10 mg/kg, every 2 h for four injections). The rat received either alpha-TC (20 mg/kg) intraperitoneally for 3 days and 30 min prior to MA administration or DFO (50 mg/kg) subcutaneously 30 min before MA administration. The concentrations of dopamine (DA), serotonin and their metabolites decreased significantly after MA administration, which was inhibited by the alpha-TC and DFO pretreatment. alpha-TC and DFO attenuated the MA-induced hyperthermia as well as the alterations in the locomotor activity. The level of lipid peroxidation was higher and the reduced glutathione concentration was lower in the MA-treated rats. These changes were significantly attenuated by alpha-TC and DFO. This suggests that alpha-TC and DFO ameliorate the MA-induced neuronal damage by decreasing the level of oxidative stress.
+16844102	10	26	alpha-tocopherol	ChemicalEntity	D024502
+16844102	31	43	deferoxamine	ChemicalEntity	D003676
+16844102	47	62	methamphetamine	ChemicalEntity	D008694
+16844102	71	84	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+16844102	86	101	Methamphetamine	ChemicalEntity	D008694
+16844102	103	105	MA	ChemicalEntity	D008694
+16844102	115	127	dopaminergic	ChemicalEntity	D004298
+16844102	128	141	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+16844102	252	268	alpha-tocopherol	ChemicalEntity	D024502
+16844102	270	278	alpha-TC	ChemicalEntity	D024502
+16844102	296	319	reactive oxygen species	ChemicalEntity	D017382
+16844102	325	337	deferoxamine	ChemicalEntity	D003676
+16844102	339	342	DFO	ChemicalEntity	D003676
+16844102	348	352	iron	ChemicalEntity	D007501
+16844102	370	372	MA	ChemicalEntity	D008694
+16844102	381	394	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+16844102	401	405	rats	OrganismTaxon	10116
+16844102	424	426	MA	ChemicalEntity	D008694
+16844102	474	477	rat	OrganismTaxon	10116
+16844102	494	502	alpha-TC	ChemicalEntity	D024502
+16844102	563	565	MA	ChemicalEntity	D008694
+16844102	584	587	DFO	ChemicalEntity	D003676
+16844102	628	630	MA	ChemicalEntity	D008694
+16844102	669	677	dopamine	ChemicalEntity	D004298
+16844102	679	681	DA	ChemicalEntity	D004298
+16844102	684	693	serotonin	ChemicalEntity	D012701
+16844102	746	748	MA	ChemicalEntity	D008694
+16844102	792	800	alpha-TC	ChemicalEntity	D024502
+16844102	805	808	DFO	ChemicalEntity	D003676
+16844102	823	831	alpha-TC	ChemicalEntity	D024502
+16844102	836	839	DFO	ChemicalEntity	D003676
+16844102	855	857	MA	ChemicalEntity	D008694
+16844102	866	878	hyperthermia	DiseaseOrPhenotypicFeature	D005334
+16844102	946	951	lipid	ChemicalEntity	D008055
+16844102	992	1003	glutathione	ChemicalEntity	D005978
+16844102	1035	1037	MA	ChemicalEntity	D008694
+16844102	1046	1050	rats	OrganismTaxon	10116
+16844102	1099	1107	alpha-TC	ChemicalEntity	D024502
+16844102	1112	1115	DFO	ChemicalEntity	D003676
+16844102	1136	1144	alpha-TC	ChemicalEntity	D024502
+16844102	1149	1152	DFO	ChemicalEntity	D003676
+16844102	1168	1170	MA	ChemicalEntity	D008694
+16844102	1179	1194	neuronal damage	DiseaseOrPhenotypicFeature	D009422
+16844102	Positive_Correlation	D008055	D008694	Novel
+16844102	Negative_Correlation	D005978	D008694	Novel
+16844102	Negative_Correlation	D012701	D008694	Novel
+16844102	Association	D024502	D017382	Novel
+16844102	Negative_Correlation	D024502	D009422	Novel
+16844102	Association	D024502	D008055	Novel
+16844102	Association	D024502	D005978	Novel
+16844102	Negative_Correlation	D024502	D005334	Novel
+16844102	Positive_Correlation	D024502	D012701	Novel
+16844102	Negative_Correlation	D024502	D008694	Novel
+16844102	Positive_Correlation	D024502	D004298	Novel
+16844102	Positive_Correlation	D008694	D020258	No
+16844102	Positive_Correlation	D008694	D009422	No
+16844102	Positive_Correlation	D008694	D005334	No
+16844102	Positive_Correlation	D004298	D020258	No
+16844102	Negative_Correlation	D004298	D008694	Novel
+16844102	Negative_Correlation	D003676	D009422	Novel
+16844102	Association	D003676	D008055	Novel
+16844102	Association	D003676	D005978	Novel
+16844102	Negative_Correlation	D003676	D005334	Novel
+16844102	Positive_Correlation	D003676	D012701	Novel
+16844102	Negative_Correlation	D003676	D008694	Novel
+16844102	Positive_Correlation	D003676	D004298	Novel
+16844102	Association	D003676	D007501	No

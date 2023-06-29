@@ -1,0 +1,91 @@
+28485130|t|Fluorescence hyperspectral imaging (fHSI) using a spectrally resolved detector array
+28485130|a|The ability to resolve multiple fluorescent emissions from different biological targets in video rate applications, such as endoscopy and intraoperative imaging, has traditionally been limited by the use of filter-based imaging systems. Hyperspectral imaging (HSI) facilitates the detection of both spatial and spectral information in a single data acquisition, however, instrumentation for HSI is typically complex, bulky and expensive. We sought to overcome these limitations using a novel robust and low cost HSI camera based on a spectrally resolved detector array (SRDA). We integrated this HSI camera into a wide-field reflectance-based imaging system operating in the near-infrared range to assess the suitability for in vivo imaging of exogenous fluorescent contrast agents. Using this fluorescence HSI (fHSI) system, we were able to accurately resolve the presence and concentration of at least 7 fluorescent dyes in solution. We also demonstrate high spectral unmixing precision, signal linearity with dye concentration and at depth in tissue mimicking phantoms, and delineate 4 fluorescent dyes in vivo. Our approach, including statistical background removal, could be directly generalised to broader spectral ranges, for example, to resolve tissue reflectance or autofluorescence and in future be tailored to video rate applications requiring snapshot HSI data acquisition.
+28485130	0	34	Fluorescence hyperspectral imaging	T060	C0430022
+28485130	36	40	fHSI	T060	C0430022
+28485130	50	60	spectrally	T080	C0205556
+28485130	61	69	resolved	T033	C3714811
+28485130	70	84	detector array	T074	C0025080
+28485130	100	107	resolve	T077	C2699488
+28485130	108	116	multiple	T081	C0439064
+28485130	117	138	fluorescent emissions	T067	C1522240
+28485130	144	153	different	T080	C1705242
+28485130	154	164	biological	T080	C0205460
+28485130	165	172	targets	T169	C1521840
+28485130	176	199	video rate applications	UnknownType	C0869019
+28485130	209	218	endoscopy	T060	C0014245
+28485130	223	245	intraoperative imaging	T060	C3898703
+28485130	270	277	limited	T169	C0439801
+28485130	292	304	filter-based	T080	C0205556
+28485130	305	321	imaging systems.	T074	C0025080
+28485130	322	343	Hyperspectral imaging	T060	C0430022
+28485130	345	348	HSI	T060	C0430022
+28485130	366	375	detection	T061	C1511790
+28485130	384	391	spatial	T082	C0037775
+28485130	396	404	spectral	T081	C1883073
+28485130	405	416	information	T078	C1533716
+28485130	422	445	single data acquisition	T052	C0441655
+28485130	456	471	instrumentation	T080	C0021632
+28485130	476	479	HSI	T060	C0430022
+28485130	493	500	complex	T080	C0439855
+28485130	502	507	bulky	T081	C0392762
+28485130	512	521	expensive	T080	C0205556
+28485130	536	544	overcome	T052	C2983310
+28485130	551	562	limitations	T169	C0449295
+28485130	571	576	novel	T080	C0205314
+28485130	577	583	robust	T080	C2986815
+28485130	588	596	low cost	T081	C0392762
+28485130	597	600	HSI	T060	C0430022
+28485130	601	607	camera	T074	C0179533
+28485130	619	653	spectrally resolved detector array	T074	C0025080
+28485130	655	659	SRDA	T074	C0025080
+28485130	665	675	integrated	T066	C1705422
+28485130	681	684	HSI	T060	C0430022
+28485130	685	691	camera	T074	C0179533
+28485130	699	709	wide-field	T033	C0243095
+28485130	710	727	reflectance-based	T059	C1514813
+28485130	728	742	imaging system	T073	C2697665
+28485130	743	752	operating	T169	C0205245
+28485130	760	773	near-infrared	T080	C1532326
+28485130	774	779	range	T081	C1514721
+28485130	783	789	assess	T058	C0184514
+28485130	810	825	in vivo imaging	T059	C1708481
+28485130	829	838	exogenous	T169	C0205228
+28485130	839	866	fluorescent contrast agents	T130	C0009924
+28485130	879	895	fluorescence HSI	T060	C0430022
+28485130	897	901	fHSI	T060	C0430022
+28485130	903	909	system	T169	C0449913
+28485130	927	937	accurately	T080	C0443131
+28485130	938	945	resolve	T077	C2699488
+28485130	950	958	presence	T080	C3854307
+28485130	963	976	concentration	T081	C1446561
+28485130	991	1007	fluorescent dyes	T130	C0016320
+28485130	1011	1019	solution	T167	C0037633
+28485130	1041	1045	high	T080	C0205250
+28485130	1046	1063	spectral unmixing	T066	C2827423
+28485130	1064	1073	precision	T080	C1706245
+28485130	1075	1081	signal	T067	C1710082
+28485130	1082	1091	linearity	T080	C0205556
+28485130	1097	1100	dye	T130	C0013343
+28485130	1101	1114	concentration	T081	C1446561
+28485130	1122	1127	depth	T082	C0205125
+28485130	1131	1137	tissue	T024	C0040300
+28485130	1138	1147	mimicking	T070	C4042849
+28485130	1148	1156	phantoms	T073	C0282611
+28485130	1162	1171	delineate	T033	C0243095
+28485130	1174	1190	fluorescent dyes	T130	C0016320
+28485130	1191	1198	in vivo	T082	C1515655
+28485130	1214	1223	including	T169	C0332257
+28485130	1224	1235	statistical	T080	C0205556
+28485130	1236	1246	background	T077	C1706907
+28485130	1265	1273	directly	T080	C1947931
+28485130	1274	1285	generalised	T082	C0205246
+28485130	1289	1305	broader spectral	T074	C1138667
+28485130	1306	1312	ranges	T081	C1514721
+28485130	1330	1337	resolve	T077	C2699488
+28485130	1338	1344	tissue	T024	C0040300
+28485130	1345	1356	reflectance	T059	C1514813
+28485130	1360	1376	autofluorescence	T059	C0544711
+28485130	1384	1390	future	T079	C0016884
+28485130	1406	1429	video rate applications	UnknownType	C0869019
+28485130	1449	1452	HSI	T060	C0430022
+28485130	1453	1469	data acquisition	T052	C0441655

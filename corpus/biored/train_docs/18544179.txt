@@ -1,0 +1,51 @@
+18544179|t|Omitting fentanyl reduces nausea and vomiting, without increasing pain, after sevoflurane for day surgery.
+18544179|a|BACKGROUND AND OBJECTIVE: Despite advantages of induction and maintenance of anaesthesia with sevoflurane, postoperative nausea and vomiting occurs frequently. Fentanyl is a commonly used supplement that may contribute to this, although it may also improve analgesia. METHODS: This double-blind study examined the incidence and severity of postoperative nausea and vomiting and pain in the first 24 h after sevoflurane anaesthesia in 216 adult day surgery patients. Patients were randomly allocated to either receive or not receive 1 1 fentanyl, while a third group received dexamethasone in addition to fentanyl. RESULTS: Omission of fentanyl did not reduce the overall incidence of postoperative nausea and vomiting, but did reduce the incidence of vomiting and/or moderate to severe nausea prior to discharge from 20% and 17% with fentanyl and fentanyl-dexamethasone, respectively, to 5% (P = 0.013). Antiemetic requirements were reduced from 24% and 31% to 7% (P = 0.0012). Dexamethasone had no significant effect on the incidence or severity of postoperative nausea and vomiting. Combining the two fentanyl groups revealed further significant benefits from the avoidance of opioids, reducing postoperative nausea and vomiting and nausea prior to discharge from 35% and 33% to 22% and 19% (P = 0.049 and P = 0.035), respectively, while nausea in the first 24 h was decreased from 42% to 27% (P = 0.034). Pain severity and analgesic requirements were unaffected by the omission of fentanyl. Fentanyl did reduce minor intraoperative movement but had no sevoflurane-sparing effect and increased respiratory depression, hypotension and bradycardia. CONCLUSION: As fentanyl exacerbated postoperative nausea and vomiting without an improvement in postoperative pain and also had adverse cardiorespiratory effects, it appears to be an unnecessary and possibly detrimental supplement to sevoflurane in day surgery.
+18544179	9	17	fentanyl	ChemicalEntity	D005283
+18544179	26	32	nausea	DiseaseOrPhenotypicFeature	D009325
+18544179	37	45	vomiting	DiseaseOrPhenotypicFeature	D014839
+18544179	66	70	pain	DiseaseOrPhenotypicFeature	D010146
+18544179	78	89	sevoflurane	ChemicalEntity	C009250
+18544179	201	212	sevoflurane	ChemicalEntity	C009250
+18544179	214	247	postoperative nausea and vomiting	DiseaseOrPhenotypicFeature	D020250
+18544179	267	275	Fentanyl	ChemicalEntity	D005283
+18544179	447	489	postoperative nausea and vomiting and pain	DiseaseOrPhenotypicFeature	D010149,D020250
+18544179	514	525	sevoflurane	ChemicalEntity	C009250
+18544179	563	571	patients	OrganismTaxon	9606
+18544179	573	581	Patients	OrganismTaxon	9606
+18544179	643	651	fentanyl	ChemicalEntity	D005283
+18544179	682	695	dexamethasone	ChemicalEntity	D003907
+18544179	711	719	fentanyl	ChemicalEntity	D005283
+18544179	742	750	fentanyl	ChemicalEntity	D005283
+18544179	791	824	postoperative nausea and vomiting	DiseaseOrPhenotypicFeature	D020250
+18544179	858	866	vomiting	DiseaseOrPhenotypicFeature	D014839
+18544179	893	899	nausea	DiseaseOrPhenotypicFeature	D009325
+18544179	941	949	fentanyl	ChemicalEntity	D005283
+18544179	954	962	fentanyl	ChemicalEntity	D005283
+18544179	963	976	dexamethasone	ChemicalEntity	D003907
+18544179	1085	1098	Dexamethasone	ChemicalEntity	D003907
+18544179	1157	1190	postoperative nausea and vomiting	DiseaseOrPhenotypicFeature	D020250
+18544179	1210	1218	fentanyl	ChemicalEntity	D005283
+18544179	1304	1337	postoperative nausea and vomiting	DiseaseOrPhenotypicFeature	D020250
+18544179	1342	1348	nausea	DiseaseOrPhenotypicFeature	D009325
+18544179	1447	1453	nausea	DiseaseOrPhenotypicFeature	D009325
+18544179	1515	1519	Pain	DiseaseOrPhenotypicFeature	D010146
+18544179	1591	1599	fentanyl	ChemicalEntity	D005283
+18544179	1601	1609	Fentanyl	ChemicalEntity	D005283
+18544179	1662	1673	sevoflurane	ChemicalEntity	C009250
+18544179	1703	1725	respiratory depression	DiseaseOrPhenotypicFeature	D012131
+18544179	1727	1738	hypotension	DiseaseOrPhenotypicFeature	D007022
+18544179	1743	1754	bradycardia	DiseaseOrPhenotypicFeature	D001919
+18544179	1771	1779	fentanyl	ChemicalEntity	D005283
+18544179	1792	1825	postoperative nausea and vomiting	DiseaseOrPhenotypicFeature	D020250
+18544179	1852	1870	postoperative pain	DiseaseOrPhenotypicFeature	D010149
+18544179	1990	2001	sevoflurane	ChemicalEntity	C009250
+18544179	Positive_Correlation	D020250	C009250	No
+18544179	Positive_Correlation	D010149	C009250	No
+18544179	Positive_Correlation	D005283	D001919	Novel
+18544179	Positive_Correlation	D005283	D007022	Novel
+18544179	Positive_Correlation	D005283	D012131	Novel
+18544179	Cotreatment	D005283	D003907	No
+18544179	Positive_Correlation	D005283	D009325	Novel
+18544179	Positive_Correlation	D005283	D014839	Novel
+18544179	Positive_Correlation	D005283	D020250	Novel
+18544179	Cotreatment	D005283	C009250	Novel

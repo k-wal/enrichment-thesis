@@ -1,0 +1,41 @@
+8829135|t|Nefiracetam (DM-9384) reverses apomorphine-induced amnesia of a passive avoidance response: delayed emergence of the memory retention effects.
+8829135|a|Nefiracetam is a novel pyrrolidone derivative which attenuates scopolamine-induced learning and post-training consolidation deficits. Given that apomorphine inhibits passive avoidance retention when given during training or in a defined 10-12h post-training period, we evaluated the ability of nefiracetam to attenuate amnesia induced by dopaminergic agonism. A step-down passive avoidance paradigm was employed and nefiracetam (3 mg/kg) and apomorphine (0.5 mg/kg) were given alone or in combination during training and at the 10-12h post-training period of consolidation. Co-administration of nefiracetam and apomorphine during training or 10h thereafter produced no significant anti-amnesic effect. However, administration of nefiracetam during training completely reversed the amnesia induced by apomorphine at the 10h post-training time and the converse was also true. These effects were not mediated by a dopaminergic mechanism as nefiracetam, at millimolar concentrations, failed to displace either [3H]SCH 23390 or [3H]spiperone binding from D1 or D2 dopamine receptor subtypes, respectively. It is suggested that nefiracetam augments molecular processes in the early stages of events which ultimately lead to consolidation of memory.
+8829135	0	11	Nefiracetam	ChemicalEntity	C058876
+8829135	13	20	DM-9384	ChemicalEntity	C058876
+8829135	31	42	apomorphine	ChemicalEntity	D001058
+8829135	51	58	amnesia	DiseaseOrPhenotypicFeature	D000647
+8829135	143	154	Nefiracetam	ChemicalEntity	C058876
+8829135	166	177	pyrrolidone	ChemicalEntity	D011760
+8829135	206	217	scopolamine	ChemicalEntity	D012601
+8829135	226	275	learning and post-training consolidation deficits	DiseaseOrPhenotypicFeature	D007859
+8829135	288	299	apomorphine	ChemicalEntity	D001058
+8829135	437	448	nefiracetam	ChemicalEntity	C058876
+8829135	462	469	amnesia	DiseaseOrPhenotypicFeature	D000647
+8829135	481	501	dopaminergic agonism	ChemicalEntity	D018491
+8829135	559	570	nefiracetam	ChemicalEntity	C058876
+8829135	585	596	apomorphine	ChemicalEntity	D001058
+8829135	738	749	nefiracetam	ChemicalEntity	C058876
+8829135	754	765	apomorphine	ChemicalEntity	D001058
+8829135	829	836	amnesic	DiseaseOrPhenotypicFeature	D000647
+8829135	872	883	nefiracetam	ChemicalEntity	C058876
+8829135	924	931	amnesia	DiseaseOrPhenotypicFeature	D000647
+8829135	943	954	apomorphine	ChemicalEntity	D001058
+8829135	1080	1091	nefiracetam	ChemicalEntity	C058876
+8829135	1150	1152	3H	ChemicalEntity	D014316
+8829135	1153	1162	SCH 23390	ChemicalEntity	C534628
+8829135	1167	1169	3H	ChemicalEntity	D014316
+8829135	1170	1179	spiperone	ChemicalEntity	D013134
+8829135	1193	1219	D1 or D2 dopamine receptor	GeneOrGeneProduct	1812,1813
+8829135	1265	1276	nefiracetam	ChemicalEntity	C058876
+8829135	Positive_Correlation	D012601	D007859	No
+8829135	Bind	D013134	1813	No
+8829135	Bind	D013134	1812	No
+8829135	Bind	C534628	1813	No
+8829135	Bind	C534628	1812	No
+8829135	Positive_Correlation	D018491	D000647	Novel
+8829135	Positive_Correlation	D000647	D001058	No
+8829135	Negative_Correlation	C058876	D012601	Novel
+8829135	Negative_Correlation	C058876	D007859	Novel
+8829135	Negative_Correlation	C058876	D018491	Novel
+8829135	Negative_Correlation	C058876	D001058	Novel
+8829135	Negative_Correlation	C058876	D000647	Novel

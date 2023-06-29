@@ -1,0 +1,107 @@
+27942049|t|Potassium depletion stimulates Na-Cl cotransporter via phosphorylation and inactivation of the ubiquitin ligase Kelch-like 3
+27942049|a|Kelch-like 3 (KLHL3) is a component of an E3 ubiquitin ligase complex that regulates blood pressure by targeting With-No-Lysine (WNK) kinases for degradation. Mutations in KLHL3 cause constitutively increased renal salt reabsorption and impaired K(+) secretion, resulting in hypertension and hyperkalemia. Although clinical studies have shown that dietary K(+) intake affects blood pressure, the mechanisms have been obscure. In this study, we demonstrate that the KLHL3 ubiquitin ligase complex is involved in the low- K(+) -mediated activation of Na-Cl cotransporter (NCC) in the kidney. In the distal convoluted tubules of mice eating a low-K(+) diet, we found increased KLHL3 phosphorylation at S433 (KLHL3(S433-P)), a modification that impairs WNK binding, and also reduced total KLHL3 levels. These changes are accompanied by the accumulation of the target substrate WNK4, and activation of the downstream kinases SPAK (STE20 / SPS1 -related proline-alanine-rich protein kinase) and OSR1 (oxidative stress-responsive 1), resulting in NCC phosphorylation and its accumulation at the plasma membrane. Increased phosphorylation of S433 was explained by increased levels of active, phosphorylated protein kinase C (but not protein kinase A), which directly phosphorylates S433. Moreover, in HEK cells expressing KLHL3 and WNK4, we showed that the activation of protein kinase C by phorbol 12-myristate 13-acetate induces KLHL3(S433-P) and increases WNK4 levels by abrogating its ubiquitination. These data demonstrate the role of KLHL3 in low- K(+) -mediated induction of NCC; this physiologic adaptation reduces distal electrogenic Na(+) reabsorption, preventing further renal K(+) loss but promoting increased blood pressure.
+27942049	0	19	Potassium depletion	T047	C1971021
+27942049	20	30	stimulates	T070	C1948023
+27942049	31	50	Na-Cl cotransporter	T116,T123	C0074782
+27942049	55	70	phosphorylation	T044	C0031715
+27942049	75	87	inactivation	T169	C0544461
+27942049	95	111	ubiquitin ligase	T116,T126	C0077678
+27942049	112	124	Kelch-like 3	T116	C4042100
+27942049	125	137	Kelch-like 3	T116	C4042100
+27942049	139	144	KLHL3	T116	C4042100
+27942049	151	160	component	T116,T123	C1179435
+27942049	167	194	E3 ubiquitin ligase complex	T116,T126	C0077678
+27942049	200	209	regulates	T038	C1327622
+27942049	210	224	blood pressure	T040	C0005823
+27942049	228	237	targeting	T169	C1521840
+27942049	238	266	With-No-Lysine (WNK) kinases	T116,T126	C0031727
+27942049	271	282	degradation	T169	C0243125
+27942049	284	293	Mutations	T045	C0026882
+27942049	297	302	KLHL3	T116	C4042100
+27942049	324	357	increased renal salt reabsorption	T033	C3278017
+27942049	362	370	impaired	T169	C0221099
+27942049	371	375	K(+)	T123,T196	C0032821
+27942049	376	385	secretion	T038	C0036536
+27942049	400	412	hypertension	T047	C0020538
+27942049	417	429	hyperkalemia	T033	C0020461
+27942049	440	456	clinical studies	T062	C0008972
+27942049	473	485	dietary K(+)	T168	C0162800
+27942049	486	492	intake	T169	C1512806
+27942049	493	500	affects	T169	C0392760
+27942049	501	515	blood pressure	T040	C0005823
+27942049	521	531	mechanisms	T169	C0441712
+27942049	542	549	obscure	T033	C3845108
+27942049	590	595	KLHL3	T116	C4042100
+27942049	596	612	ubiquitin ligase	T116,T126	C0077678
+27942049	613	620	complex	T116,T123	C1180347
+27942049	645	649	K(+)	T123,T196	C0032821
+27942049	660	670	activation	T045	C0599177
+27942049	674	693	Na-Cl cotransporter	T116,T123	C0074782
+27942049	695	698	NCC	T116,T123	C0074782
+27942049	707	713	kidney	T023	C0022646
+27942049	722	747	distal convoluted tubules	T023	C0022676
+27942049	751	755	mice	T015	C0025929
+27942049	756	762	eating	T040	C0013470
+27942049	765	778	low-K(+) diet	T061	C0948941
+27942049	799	804	KLHL3	T116	C4042100
+27942049	805	820	phosphorylation	T044	C0031715
+27942049	824	828	S433	T082	C1254362
+27942049	829	844	(KLHL3(S433-P))	T116	C4042100
+27942049	848	860	modification	T033	C3840684
+27942049	866	873	impairs	T169	C0221099
+27942049	874	877	WNK	T116,T126	C0031727
+27942049	878	885	binding	T052	C1145667
+27942049	910	915	KLHL3	T116	C4042100
+27942049	916	922	levels	T080	C0441889
+27942049	961	973	accumulation	T033	C4055506
+27942049	981	987	target	T169	C1521840
+27942049	988	997	substrate	T167	C3891814
+27942049	998	1002	WNK4	T116,T126	C1452813
+27942049	1008	1018	activation	T045	C0599177
+27942049	1026	1036	downstream	T082	C0522506
+27942049	1037	1049	kinases SPAK	T116,T126	C1436950
+27942049	1051	1056	STE20	T116,T126	C4307920
+27942049	1059	1063	SPS1	T116,T126	C1436950
+27942049	1073	1108	proline-alanine-rich protein kinase	T116,T126	C1312482
+27942049	1114	1118	OSR1	T116,T123	C1438448
+27942049	1120	1149	oxidative stress-responsive 1	T116,T123	C1438448
+27942049	1165	1168	NCC	T116,T123	C0074782
+27942049	1169	1184	phosphorylation	T044	C0031715
+27942049	1193	1205	accumulation	T033	C4055506
+27942049	1213	1228	plasma membrane	T026	C0007603
+27942049	1240	1255	phosphorylation	T044	C0031715
+27942049	1259	1263	S433	T082	C1254362
+27942049	1291	1297	levels	T080	C0441889
+27942049	1301	1307	active	T169	C0205177
+27942049	1324	1340	protein kinase C	T116,T126	C0033634
+27942049	1350	1366	protein kinase A	T116,T126	C0010531
+27942049	1384	1398	phosphorylates	T044	C0031715
+27942049	1399	1403	S433	T082	C1254362
+27942049	1418	1427	HEK cells	T025	C2936239
+27942049	1428	1438	expressing	T045	C1171362
+27942049	1439	1444	KLHL3	T116	C4042100
+27942049	1449	1453	WNK4	T116,T126	C1452813
+27942049	1474	1484	activation	T045	C0599177
+27942049	1488	1504	protein kinase C	T116,T126	C0033634
+27942049	1508	1539	phorbol 12-myristate 13-acetate	T109,T121,T131	C0039654
+27942049	1540	1547	induces	T169	C0205263
+27942049	1548	1561	KLHL3(S433-P)	T116	C4042100
+27942049	1576	1580	WNK4	T116,T126	C1452813
+27942049	1581	1587	levels	T080	C0441889
+27942049	1606	1620	ubiquitination	T044	C1519751
+27942049	1628	1632	data	T078	C1511726
+27942049	1649	1653	role	T077	C1705810
+27942049	1657	1662	KLHL3	T116	C4042100
+27942049	1671	1675	K(+)	T123,T196	C0032821
+27942049	1686	1695	induction	T169	C0205263
+27942049	1699	1702	NCC	T116,T123	C0074782
+27942049	1709	1731	physiologic adaptation	T040	C0001400
+27942049	1740	1746	distal	T082	C0205108
+27942049	1747	1759	electrogenic	T042	C0232633
+27942049	1760	1778	Na(+) reabsorption	T039	C2610987
+27942049	1780	1790	preventing	T169	C1292733
+27942049	1799	1804	renal	T023	C0022646
+27942049	1805	1809	K(+)	T123,T196	C0032821
+27942049	1810	1814	loss	T081	C1517945
+27942049	1819	1828	promoting	T052	C0033414
+27942049	1839	1853	blood pressure	T040	C0005823

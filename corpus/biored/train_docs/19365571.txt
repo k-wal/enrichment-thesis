@@ -1,0 +1,33 @@
+19365571|t|Macular corneal dystrophy in a Chinese family related with novel mutations of CHST6.
+19365571|a|PURPOSE: To identify mutations in the carbohydrate sulfotransferase gene (CHST6) for a Chinese family with macular corneal dystrophy (MCD) and to investigate the histopathological changes in the affected cornea. METHODS: A corneal button of the proband was obtained by penetrating keratoplasty. The half button and ultrathin sections from the other half button were examined with special stains under a light microscope (LM) and an electron microscope (EM) separately. Genomic DNA was extracted from peripheral blood of 11 family members, and the coding region of CHST6 was amplified by the polymerase chain reaction (PCR) method. The PCR products were analyzed by direct sequencing and restriction enzyme digestion. RESULTS: The positive reaction to colloidal iron stain (extracellular blue accumulations in the stroma) was detected under light microscopy. Transmission electron microscopy revealed the enlargement of smooth endoplasmic reticulum and the presence of intracytoplasmic vacuoles. The compound heterozygous mutations, c.892C>T and c.1072T>C, were identified in exon 3 of CHST6 in three patients. The two transversions resulted in the substitution of a stop codon for glutamine at codon 298 (p.Q298X) and a missense mutation at codon 358, tyrosine to histidine (p.Y358H). The six unaffected family individuals carried alternative heterozygous mutations. These two mutations were not detected in any of the 100 control subjects. CONCLUSIONS: Those novel compound heterozygous mutations were thought to contribute to the loss of CHST6 function, which induced the abnormal metabolism of keratan sulfate (KS) that deposited in the corneal stroma. It could be proved by the observation of a positive stain reaction and the enlarged collagen fibers as well as hyperplastic fibroblasts under microscopes.
+19365571	0	25	Macular corneal dystrophy	DiseaseOrPhenotypicFeature	D003317
+19365571	78	83	CHST6	GeneOrGeneProduct	4166
+19365571	123	157	carbohydrate sulfotransferase gene	GeneOrGeneProduct	4166
+19365571	159	164	CHST6	GeneOrGeneProduct	4166
+19365571	192	217	macular corneal dystrophy	DiseaseOrPhenotypicFeature	D003317
+19365571	219	222	MCD	DiseaseOrPhenotypicFeature	D003317
+19365571	649	654	CHST6	GeneOrGeneProduct	4166
+19365571	846	850	iron	ChemicalEntity	D007501
+19365571	1117	1125	c.892C>T	SequenceVariant	c|SUB|C|892|T
+19365571	1130	1139	c.1072T>C	SequenceVariant	c|SUB|T|1072|C
+19365571	1170	1175	CHST6	GeneOrGeneProduct	4166
+19365571	1185	1193	patients	OrganismTaxon	9606
+19365571	1251	1288	stop codon for glutamine at codon 298	SequenceVariant	p|SUB|Q|298|X
+19365571	1290	1297	p.Q298X	SequenceVariant	p|SUB|Q|298|X
+19365571	1326	1358	codon 358, tyrosine to histidine	SequenceVariant	p|SUB|Y|358|H
+19365571	1360	1367	p.Y358H	SequenceVariant	p|SUB|Y|358|H
+19365571	1625	1630	CHST6	GeneOrGeneProduct	4166
+19365571	1682	1697	keratan sulfate	ChemicalEntity	D007632
+19365571	1699	1701	KS	ChemicalEntity	D007632
+19365571	1825	1833	collagen	GeneOrGeneProduct	1277
+19365571	Association	D003317	c|SUB|T|1072|C	Novel
+19365571	Association	D003317	c|SUB|C|892|T	Novel
+19365571	Association	D003317	4166	No
+19365571	Association	D003317	p|SUB|Y|358|H	Novel
+19365571	Association	D003317	p|SUB|Q|298|X	Novel
+19365571	Association	D007632	c|SUB|T|1072|C	Novel
+19365571	Association	D007632	c|SUB|C|892|T	Novel
+19365571	Association	D007632	4166	Novel
+19365571	Association	D007632	p|SUB|Y|358|H	Novel
+19365571	Association	D007632	D003317	Novel
+19365571	Association	D007632	p|SUB|Q|298|X	Novel

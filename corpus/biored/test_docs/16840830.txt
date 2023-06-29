@@ -1,0 +1,36 @@
+16840830|t|Two novel mutations in the MEN1 gene in subjects with multiple endocrine neoplasia-1.
+16840830|a|Multiple endocrine neoplasia type 1 (MEN1) is characterized by parathyroid, enteropancreatic endocrine and pituitary adenomas as well as germline mutation of the MEN1 gene. We describe 2 families with MEN1 with novel mutations in the MEN1 gene. One family was of Turkish origin, and the index patient had primary hyperparathyroidism (PHPT) plus a prolactinoma; three relatives had PHPT only. The index patient in the second family was a 46-yr-old woman of Chinese origin living in Taiwan. This patient presented with a complaint of epigastric pain and watery diarrhea over the past 3 months, and had undergone subtotal parathyroidectomy and enucleation of pancreatic islet cell tumor about 10 yr before. There was also a prolactinoma. Sequence analysis of the MEN1 gene from leukocyte genomic DNA revealed heterozygous mutations in both probands. The Turkish patient and her affected relatives all had a heterozygous A to G transition at codon 557 (AAG-->GAG) of exon 10 of MEN1 that results in a replacement of lysine by glutamic acid. The Chinese index patient and one of her siblings had a heterozygous mutation at codon 418 of exon 9 (GAC-->TAT) that results in a substitution of aspartic acid by tyrosine. In conclusion, we have identified 2 novel missense mutations in the MEN1 gene.
+16840830	27	31	MEN1	GeneOrGeneProduct	4221
+16840830	54	84	multiple endocrine neoplasia-1	DiseaseOrPhenotypicFeature	D018761
+16840830	86	121	Multiple endocrine neoplasia type 1	DiseaseOrPhenotypicFeature	D018761
+16840830	123	127	MEN1	DiseaseOrPhenotypicFeature	D018761
+16840830	162	211	enteropancreatic endocrine and pituitary adenomas	DiseaseOrPhenotypicFeature	C535650,D010911
+16840830	248	252	MEN1	GeneOrGeneProduct	4221
+16840830	287	291	MEN1	GeneOrGeneProduct	4221
+16840830	320	324	MEN1	GeneOrGeneProduct	4221
+16840830	379	386	patient	OrganismTaxon	9606
+16840830	391	418	primary hyperparathyroidism	DiseaseOrPhenotypicFeature	D049950
+16840830	420	424	PHPT	DiseaseOrPhenotypicFeature	D049950
+16840830	433	445	prolactinoma	DiseaseOrPhenotypicFeature	D015175
+16840830	467	471	PHPT	DiseaseOrPhenotypicFeature	D049950
+16840830	488	495	patient	OrganismTaxon	9606
+16840830	533	538	woman	OrganismTaxon	9606
+16840830	580	587	patient	OrganismTaxon	9606
+16840830	629	633	pain	DiseaseOrPhenotypicFeature	D010146
+16840830	645	653	diarrhea	DiseaseOrPhenotypicFeature	D003967
+16840830	742	769	pancreatic islet cell tumor	DiseaseOrPhenotypicFeature	D007516
+16840830	807	819	prolactinoma	DiseaseOrPhenotypicFeature	D015175
+16840830	846	850	MEN1	GeneOrGeneProduct	4221
+16840830	945	952	patient	OrganismTaxon	9606
+16840830	1003	1045	A to G transition at codon 557 (AAG-->GAG)	SequenceVariant	p|SUB|K|557|E
+16840830	1060	1064	MEN1	GeneOrGeneProduct	4221
+16840830	1098	1121	lysine by glutamic acid	SequenceVariant	p|SUB|K||E
+16840830	1141	1148	patient	OrganismTaxon	9606
+16840830	1192	1235	mutation at codon 418 of exon 9 (GAC-->TAT)	SequenceVariant	p|SUB|D|418|Y
+16840830	1270	1295	aspartic acid by tyrosine	SequenceVariant	p|SUB|D||Y
+16840830	1365	1369	MEN1	GeneOrGeneProduct	4221
+16840830	Association	D018761	p|SUB|D||Y	Novel
+16840830	Association	D018761	p|SUB|D|418|Y	Novel
+16840830	Association	D018761	p|SUB|K||E	Novel
+16840830	Association	D018761	p|SUB|K|557|E	Novel
+16840830	Association	4221	D018761	Novel

@@ -1,0 +1,44 @@
+28027117|t|Precision Medicine Starts With Preanalytics: Real-Time Assessment of Tissue Fixation Quality by Ultrasound Time-of-Flight Analysis
+28027117|a|Personalized medicine promises diagnosis and treatment of disease at the individual level and relies heavily on clinical specimen integrity and diagnostic assay quality. Preanalytics, the collection and handling steps of a clinical specimen before immunohistochemistry or other clinical assay, are critically important to enable the correct diagnosis of disease. However, the effects of preanalytics are often overlooked due to a lack of standardization and limited assessment tools to quantify their variation. Here, we report a novel real-time ultrasound time-of-flight instrument that is capable of monitoring and imaging the critical step in formalin fixation, diffusion of the fixative into tissue, which provides a quantifiable quality metric for tissue fixation in the clinical laboratory ensuring consistent downstream molecular assay results. We analyzed hundreds of tissue specimens from 34 distinct human tissue types and 12 clinically relevant diseased tissues for diffusion and fixation metrics. Our measurements can be converted into tissue diffusivity constants that correlate with the apparent diffusion constant calculated using magnetic resonance imaging (R=0.83), despite the differences in the approaches, indicating that our approach is biophysically plausible. Using data collected from time-of-flight analysis of many tissues, we have therefore developed a novel rapid fixation program that could ensure high-quality downstream assay results for a broad range of human tissue types.
+28027117	0	18	Precision Medicine	T058	UMLS:C2718059
+28027117	31	43	Preanalytics	T058	UMLS:C0087111
+28027117	69	84	Tissue Fixation	T058	UMLS:C0085254
+28027117	122	130	Analysis	T062	UMLS:C0936012
+28027117	131	152	Personalized medicine	T058	UMLS:C2718059
+28027117	162	171	diagnosis	T033	UMLS:C0011900
+28027117	176	185	treatment	T058	UMLS:C0087111
+28027117	189	196	disease	T038	UMLS:C0012634
+28027117	204	214	individual	T098	UMLS:C0237401
+28027117	286	291	assay	T058	UMLS:C1510438
+28027117	301	313	Preanalytics	T058	UMLS:C0087111
+28027117	334	342	handling	T058	UMLS:C0037793
+28027117	379	399	immunohistochemistry	T058	UMLS:C0021044
+28027117	409	423	clinical assay	T058	UMLS:C1510438
+28027117	472	481	diagnosis	T033	UMLS:C0011900
+28027117	485	492	disease	T038	UMLS:C0012634
+28027117	518	530	preanalytics	T058	UMLS:C0087111
+28027117	569	584	standardization	T062	UMLS:C0038136
+28027117	597	613	assessment tools	T170	UMLS:C1516602
+28027117	667	713	real-time ultrasound time-of-flight instrument	T074	UMLS:C0348000
+28027117	733	743	monitoring	T058	UMLS:C1283169
+28027117	748	755	imaging	T058	UMLS:C0011923
+28027117	777	794	formalin fixation	T058	UMLS:C3536615
+28027117	813	821	fixative	T103	UMLS:C0016184
+28027117	827	833	tissue	T017	UMLS:C0040300
+28027117	873	879	metric	T103	UMLS:C0699680
+28027117	884	899	tissue fixation	T058	UMLS:C0085254
+28027117	907	926	clinical laboratory	T092	UMLS:C0022877
+28027117	958	973	molecular assay	T058	UMLS:C1510438
+28027117	1007	1023	tissue specimens	T017	UMLS:C1292533
+28027117	1041	1053	human tissue	T017	UMLS:C0440744
+28027117	1087	1095	diseased	T038	UMLS:C0012634
+28027117	1096	1103	tissues	T017	UMLS:C0040300
+28027117	1122	1130	fixation	T058	UMLS:C0185023
+28027117	1131	1138	metrics	T103	UMLS:C0699680
+28027117	1277	1303	magnetic resonance imaging	T058	UMLS:C0024485
+28027117	1403	1412	plausible	T033	UMLS:C0332149
+28027117	1455	1463	analysis	T062	UMLS:C0936012
+28027117	1472	1479	tissues	T017	UMLS:C0040300
+28027117	1517	1539	rapid fixation program	T170	UMLS:C0282574
+28027117	1582	1587	assay	T058	UMLS:C1510438
+28027117	1617	1629	human tissue	T017	UMLS:C0440744

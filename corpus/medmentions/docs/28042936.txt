@@ -1,0 +1,108 @@
+28042936|t|Effect of type 2 diabetes mellitus on the pharmacokinetics and transplacental transfer of nifedipine in hypertensive pregnant women
+28042936|a|Diabetes mellitus can inhibit cytochrome P450 3A4, an enzyme responsible for the metabolism of nifedipine, used for the treatment of hypertension in pregnant women. We aimed to assess the effect of type 2 diabetes mellitus (T2DM) on the pharmacokinetics, placental transfer and distribution of nifedipine in amniotic fluid in hypertensive pregnant women. The study was conducted in 12 hypertensive pregnant women [control group (CG)] and 10 hypertensive pregnant women with T2DM taking slow-release nifedipine (20 mg, 12/12 h). On the 34th week of gestation, serial blood samples were collected (0-12 h) after administration of the medication. At delivery, samples of maternal and fetal blood and amniotic fluid were collected for determination of nifedipine distribution in these compartments. The median pharmacokinetic parameters of CG were: peak plasma concentration (Cmax) 26.41 ng ml(-1), time to reach Cmax (tmax) 1.79 h, area under the plasma concentration vs. time curve from 0-12 h (AUC 0-12) 235.99 ng.h ml(-1), half-life (t½) 4.34 h, volume of distribution divided by bioavailability (Vd / F) 560.96 l, and ClT / F 84.77 l h(-1). The parameters for T2DM group were: Cmax 23.52 ng ml(-1), tmax 1.48 h, AUC 0-12 202.23 ng.h ml(-1), t½ 5.00 h, Vd / F 609.40 l, and apparent total clearance (ClT / F) 98.94 l h(-1). The ratios of plasma concentrations of nifedipine in the umbilical vein, intervillous space and amniotic fluid to those in the maternal vein for CG and T2DM were 0.53 and 0.44, 0.78 and 0.87, respectively, with an amniotic fluid / maternal plasma ratio of 0.05 for both groups. The ratios of plasma concentrations in the umbilical artery to those in the umbilical vein were 0.82 for CG and 0.88 for T2DM. There was no influence of T2DM on the pharmacokinetics or placental transfer of nifedipine in hypertensive women with controlled diabetes.
+28042936	0	6	Effect	T080	C1280500
+28042936	10	34	type 2 diabetes mellitus	T047	C0011860
+28042936	42	58	pharmacokinetics	T169	C0031328
+28042936	63	86	transplacental transfer	UnknownType	C0678748
+28042936	90	100	nifedipine	T109,T121	C0028066
+28042936	104	116	hypertensive	T047	C0020538
+28042936	117	131	pregnant women	T098	C0033011
+28042936	132	149	Diabetes mellitus	T047	C0011849
+28042936	154	161	inhibit	T052	C3463820
+28042936	162	181	cytochrome P450 3A4	T116,T126	C1142644
+28042936	186	192	enzyme	T116,T126	C0014442
+28042936	213	223	metabolism	T044	C0683140
+28042936	227	237	nifedipine	T109,T121	C0028066
+28042936	252	261	treatment	T061	C0087111
+28042936	265	277	hypertension	T047	C0020538
+28042936	281	295	pregnant women	T098	C0033011
+28042936	300	305	aimed	T078	C1947946
+28042936	309	315	assess	T058	C0184514
+28042936	320	326	effect	T080	C1280500
+28042936	330	354	type 2 diabetes mellitus	T047	C0011860
+28042936	356	360	T2DM	T047	C0011860
+28042936	369	385	pharmacokinetics	T169	C0031328
+28042936	387	405	placental transfer	UnknownType	C0678748
+28042936	426	436	nifedipine	T109,T121	C0028066
+28042936	440	454	amniotic fluid	T031	C0002638
+28042936	458	470	hypertensive	T047	C0020538
+28042936	471	485	pregnant women	T098	C0033011
+28042936	491	496	study	T062	C2603343
+28042936	517	529	hypertensive	T047	C0020538
+28042936	530	544	pregnant women	T098	C0033011
+28042936	546	559	control group	T096	C0009932
+28042936	561	563	CG	T096	C0009932
+28042936	573	585	hypertensive	T047	C0020538
+28042936	586	600	pregnant women	T098	C0033011
+28042936	606	610	T2DM	T047	C0011860
+28042936	631	641	nifedipine	T109,T121	C0028066
+28042936	672	676	week	T079	C0439230
+28042936	680	689	gestation	T040	C0032961
+28042936	698	711	blood samples	T031	C0178913
+28042936	742	756	administration	T061	C1533734
+28042936	764	774	medication	T121	C0013227
+28042936	776	787	At delivery	T079	C3263555
+28042936	789	796	samples	T031	C0178913
+28042936	800	808	maternal	T099	C0026591
+28042936	813	824	fetal blood	T031	C0015925
+28042936	829	843	amniotic fluid	T031	C0002638
+28042936	863	876	determination	T059	C1148554
+28042936	880	890	nifedipine	T109,T121	C0028066
+28042936	931	937	median	T081	C0876920
+28042936	938	953	pharmacokinetic	T169	C0031328
+28042936	954	964	parameters	T077	C0549193
+28042936	968	970	CG	T096	C0009932
+28042936	977	1002	peak plasma concentration	T081	C0683150
+28042936	1004	1008	Cmax	T081	C0683150
+28042936	1027	1045	time to reach Cmax	T081	C2348796
+28042936	1047	1051	tmax	T081	C2348796
+28042936	1061	1096	area under the plasma concentration	T081	C0376690
+28042936	1101	1111	time curve	T081	C2986848
+28042936	1125	1128	AUC	T081	C0376690
+28042936	1155	1164	half-life	T079	C0018517
+28042936	1178	1200	volume of distribution	T081	C0683148
+28042936	1212	1227	bioavailability	T081	C0005508
+28042936	1229	1231	Vd	T081	C0683148
+28042936	1234	1235	F	T081	C0005508
+28042936	1251	1254	ClT	UnknownType	C0683152
+28042936	1257	1258	F	T081	C0005508
+28042936	1278	1288	parameters	T077	C0549193
+28042936	1293	1297	T2DM	T047	C0011860
+28042936	1298	1303	group	T098	C1257890
+28042936	1310	1314	Cmax	T081	C0683150
+28042936	1332	1336	tmax	T081	C2348796
+28042936	1345	1348	AUC	T081	C0376690
+28042936	1385	1387	Vd	T081	C0683148
+28042936	1390	1391	F	T081	C0005508
+28042936	1415	1430	total clearance	UnknownType	C0683152
+28042936	1432	1435	ClT	UnknownType	C0683152
+28042936	1438	1439	F	T081	C0005508
+28042936	1460	1466	ratios	T081	C0456603
+28042936	1470	1491	plasma concentrations	T081	C0683150
+28042936	1495	1505	nifedipine	T109,T121	C0028066
+28042936	1513	1527	umbilical vein	T018	C0041637
+28042936	1529	1547	intervillous space	T030	C0230968
+28042936	1552	1566	amniotic fluid	T031	C0002638
+28042936	1583	1591	maternal	T099	C0026591
+28042936	1601	1603	CG	T096	C0009932
+28042936	1608	1612	T2DM	T047	C0011860
+28042936	1670	1684	amniotic fluid	T031	C0002638
+28042936	1687	1695	maternal	T099	C0026591
+28042936	1696	1702	plasma	T031	C0032105
+28042936	1703	1708	ratio	T081	C0456603
+28042936	1726	1732	groups	T098	C1257890
+28042936	1738	1744	ratios	T081	C0456603
+28042936	1748	1769	plasma concentrations	T081	C0683150
+28042936	1777	1793	umbilical artery	T018	C0041632
+28042936	1810	1824	umbilical vein	T018	C0041637
+28042936	1839	1841	CG	T096	C0009932
+28042936	1855	1859	T2DM	T047	C0011860
+28042936	1874	1883	influence	T077	C4054723
+28042936	1887	1891	T2DM	T047	C0011860
+28042936	1899	1915	pharmacokinetics	T169	C0031328
+28042936	1919	1937	placental transfer	UnknownType	C0678748
+28042936	1941	1951	nifedipine	T109,T121	C0028066
+28042936	1955	1967	hypertensive	T047	C0020538
+28042936	1968	1973	women	T098	C0043210
+28042936	1979	1989	controlled	T033	C2911690
+28042936	1990	1998	diabetes	T047	C0011847

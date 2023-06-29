@@ -1,0 +1,75 @@
+21042587|t|Familial glucocorticoid receptor haploinsufficiency by non-sense mediated mRNA decay, adrenal hyperplasia and apparent mineralocorticoid excess.
+21042587|a|Primary glucocorticoid resistance (OMIM 138040) is a rare hereditary disease that causes a generalized partial insensitivity to glucocorticoid action, due to genetic alterations of the glucocorticoid receptor (GR). Investigation of adrenal incidentalomas led to the discovery of a family (eight affected individuals spanning three generations), prone to cortisol resistance, bilateral adrenal hyperplasia, arterial hypertension and hypokalemia. This phenotype exacerbated over time, cosegregates with the first heterozygous nonsense mutation p.R469[R,X] reported to date for the GR, replacing an arginine (CGA) by a stop (TGA) at amino-acid 469 in the second zinc finger of the DNA-binding domain of the receptor. In vitro, this mutation leads to a truncated 50-kDa GR lacking hormone and DNA binding capacity, devoid of hormone-dependent nuclear translocation and transactivation properties. In the proband's fibroblasts, we provided evidence for the lack of expression of the defective allele in vivo. The absence of detectable mutated GR mRNA was accompanied by a 50% reduction in wild type GR transcript and protein. This reduced GR expression leads to a significantly below-normal induction of glucocorticoid-induced target genes, FKBP5 in fibroblasts. We demonstrated that the molecular mechanisms of glucocorticoid signaling dysfunction involved GR haploinsufficiency due to the selective degradation of the mutated GR transcript through a nonsense-mediated mRNA Decay that was experimentally validated on emetine-treated propositus' fibroblasts. GR haploinsufficiency leads to hypertension due to illicit occupation of renal mineralocorticoid receptor by elevated cortisol rather than to increased mineralocorticoid production reported in primary glucocorticoid resistance. Indeed, apparent mineralocorticoid excess was demonstrated by a decrease in urinary tetrahydrocortisone-tetrahydrocortisol ratio in affected patients, revealing reduced glucocorticoid degradation by renal activity of the 11b-hydroxysteroid dehydrogenase type 2, a GR regulated gene. We propose thus that GR haploinsufficiency compromises glucocorticoid sensitivity and may represent a novel genetic cause of subclinical hypercortisolism, incidentally revealed bilateral adrenal hyperplasia and mineralocorticoid-independent hypertension.
+21042587	9	32	glucocorticoid receptor	GeneOrGeneProduct	2908
+21042587	86	105	adrenal hyperplasia	DiseaseOrPhenotypicFeature	D000312
+21042587	110	143	apparent mineralocorticoid excess	DiseaseOrPhenotypicFeature	C537422
+21042587	153	178	glucocorticoid resistance	DiseaseOrPhenotypicFeature	C564221
+21042587	180	191	OMIM 138040	DiseaseOrPhenotypicFeature	OMIM:138040
+21042587	203	221	hereditary disease	DiseaseOrPhenotypicFeature	D030342
+21042587	273	287	glucocorticoid	ChemicalEntity	D005938
+21042587	330	353	glucocorticoid receptor	GeneOrGeneProduct	2908
+21042587	355	357	GR	GeneOrGeneProduct	2908
+21042587	377	399	adrenal incidentalomas	DiseaseOrPhenotypicFeature	C538238
+21042587	499	518	cortisol resistance	DiseaseOrPhenotypicFeature	C535280
+21042587	520	549	bilateral adrenal hyperplasia	DiseaseOrPhenotypicFeature	D000312
+21042587	560	572	hypertension	DiseaseOrPhenotypicFeature	D006973
+21042587	577	588	hypokalemia	DiseaseOrPhenotypicFeature	D007008
+21042587	687	698	p.R469[R,X]	SequenceVariant	p|SUB|R|469|X
+21042587	724	726	GR	GeneOrGeneProduct	2908
+21042587	741	789	arginine (CGA) by a stop (TGA) at amino-acid 469	SequenceVariant	p|SUB|R|469|X
+21042587	911	913	GR	GeneOrGeneProduct	2908
+21042587	1183	1185	GR	GeneOrGeneProduct	2908
+21042587	1239	1241	GR	GeneOrGeneProduct	2908
+21042587	1279	1281	GR	GeneOrGeneProduct	2908
+21042587	1344	1358	glucocorticoid	ChemicalEntity	D005938
+21042587	1381	1386	FKBP5	GeneOrGeneProduct	2289
+21042587	1452	1466	glucocorticoid	ChemicalEntity	D005938
+21042587	1498	1500	GR	GeneOrGeneProduct	2908
+21042587	1568	1570	GR	GeneOrGeneProduct	2908
+21042587	1658	1665	emetine	ChemicalEntity	D004640
+21042587	1699	1701	GR	GeneOrGeneProduct	2908
+21042587	1730	1742	hypertension	DiseaseOrPhenotypicFeature	D006973
+21042587	1778	1804	mineralocorticoid receptor	GeneOrGeneProduct	4306
+21042587	1817	1825	cortisol	ChemicalEntity	D006854
+21042587	1851	1868	mineralocorticoid	ChemicalEntity	D008901
+21042587	1900	1925	glucocorticoid resistance	DiseaseOrPhenotypicFeature	C564221
+21042587	1935	1968	apparent mineralocorticoid excess	DiseaseOrPhenotypicFeature	C537422
+21042587	2011	2030	tetrahydrocortisone	ChemicalEntity	D013761
+21042587	2031	2049	tetrahydrocortisol	ChemicalEntity	D013760
+21042587	2068	2076	patients	OrganismTaxon	9606
+21042587	2096	2110	glucocorticoid	ChemicalEntity	D005938
+21042587	2148	2187	11b-hydroxysteroid dehydrogenase type 2	GeneOrGeneProduct	3291
+21042587	2191	2193	GR	GeneOrGeneProduct	2908
+21042587	2231	2233	GR	GeneOrGeneProduct	2908
+21042587	2265	2279	glucocorticoid	ChemicalEntity	D005938
+21042587	2347	2363	hypercortisolism	DiseaseOrPhenotypicFeature	D003480
+21042587	2387	2416	bilateral adrenal hyperplasia	DiseaseOrPhenotypicFeature	D000312
+21042587	2421	2438	mineralocorticoid	ChemicalEntity	D008901
+21042587	2451	2463	hypertension	DiseaseOrPhenotypicFeature	D006973
+21042587	Association	C564221	D005938	No
+21042587	Association	3291	2908	No
+21042587	Association	4306	D006854	Novel
+21042587	Association	D005938	D003480	Novel
+21042587	Positive_Correlation	D005938	3291	Novel
+21042587	Positive_Correlation	D005938	2289	No
+21042587	Association	D000312	D005938	Novel
+21042587	Association	D006973	D006854	Novel
+21042587	Association	D006973	4306	Novel
+21042587	Association	p|SUB|R|469|X	D000312	Novel
+21042587	Association	p|SUB|R|469|X	C538238	Novel
+21042587	Association	p|SUB|R|469|X	C535280	Novel
+21042587	Association	p|SUB|R|469|X	D007008	Novel
+21042587	Association	p|SUB|R|469|X	D006973	Novel
+21042587	Association	C537422	D013760	Novel
+21042587	Association	C537422	D013761	Novel
+21042587	Association	2908	C564221	No
+21042587	Association	2908	D003480	Novel
+21042587	Association	2908	4306	Novel
+21042587	Bind	2908	D005938	Novel
+21042587	Positive_Correlation	2908	2289	Novel
+21042587	Association	2908	D000312	Novel
+21042587	Association	2908	C538238	Novel
+21042587	Association	2908	C535280	Novel
+21042587	Association	2908	D007008	Novel
+21042587	Association	2908	D006973	Novel
+21042587	Association	2908	C537422	Novel

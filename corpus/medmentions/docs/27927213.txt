@@ -1,0 +1,104 @@
+27927213|t|Living on the edge: substrate competition explains loss of robustness in mitochondrial fatty-acid oxidation disorders
+27927213|a|Defects in genes involved in mitochondrial fatty-acid oxidation (mFAO) reduce the ability of patients to cope with metabolic challenges. mFAO enzymes accept multiple substrates of different chain length, leading to molecular competition among the substrates. Here, we combined computational modeling with quantitative mouse and patient data to investigate whether substrate competition affects pathway robustness in mFAO disorders. First, we used comprehensive biochemical analyses of wild-type mice and mice deficient for medium-chain acyl-CoA dehydrogenase (MCAD) to parameterize a detailed computational model of mFAO. Model simulations predicted that MCAD deficiency would have no effect on the pathway flux at low concentrations of the mFAO substrate palmitoyl-CoA. However, high concentrations of palmitoyl-CoA would induce a decline in flux and an accumulation of intermediate metabolites. We proved computationally that the predicted overload behavior was due to substrate competition in the pathway. Second, to study the clinical relevance of this mechanism, we used patients ' metabolite profiles and generated a humanized version of the computational model. While molecular competition did not affect the plasma metabolite profiles during MCAD deficiency, it was a key factor in explaining the characteristic acylcarnitine profiles of multiple acyl-CoA dehydrogenase deficient patients. The patient-specific computational models allowed us to predict the severity of the disease phenotype, providing a proof of principle for the systems medicine approach. We conclude that substrate competition is at the basis of the physiology seen in patients with mFAO disorders, a finding that may explain why these patients run a risk of a life-threatening metabolic catastrophe.
+27927213	20	29	substrate	T167	C3891814
+27927213	30	41	competition	T080	C0086035
+27927213	51	55	loss	T081	C1517945
+27927213	59	69	robustness	T080	C2986815
+27927213	73	86	mitochondrial	T026	C0026237
+27927213	87	117	fatty-acid oxidation disorders	T047	C1456270
+27927213	118	125	Defects	T169	C1457869
+27927213	129	134	genes	T028	C0017337
+27927213	147	160	mitochondrial	T026	C0026237
+27927213	161	181	fatty-acid oxidation	T044	C1158366
+27927213	183	187	mFAO	T044	C1158366
+27927213	189	195	reduce	T080	C0392756
+27927213	200	207	ability	T032	C0085732
+27927213	211	219	patients	T101	C0030705
+27927213	233	253	metabolic challenges	T169	C0025520
+27927213	255	259	mFAO	T044	C1158366
+27927213	260	267	enzymes	T116,T126	C0014442
+27927213	275	283	multiple	T081	C0439064
+27927213	284	294	substrates	T167	C3891814
+27927213	308	320	chain length	T081	C0596310
+27927213	333	342	molecular	T080	C1521991
+27927213	343	354	competition	T080	C0086035
+27927213	365	375	substrates	T167	C3891814
+27927213	395	417	computational modeling	T059	C4297010
+27927213	423	435	quantitative	T081	C0392762
+27927213	436	441	mouse	T015	C0026809
+27927213	446	458	patient data	T170	C2707520
+27927213	462	473	investigate	T169	C1292732
+27927213	482	491	substrate	T167	C3891814
+27927213	492	503	competition	T080	C0086035
+27927213	512	519	pathway	T077	C1705987
+27927213	520	530	robustness	T080	C2986815
+27927213	534	548	mFAO disorders	T047	C1456270
+27927213	565	578	comprehensive	T080	C1880156
+27927213	579	590	biochemical	T169	C0205474
+27927213	591	599	analyses	T062	C0936012
+27927213	603	612	wild-type	T028	C1883559
+27927213	613	617	mice	T015	C0025929
+27927213	622	636	mice deficient	T015	C0206745
+27927213	641	676	medium-chain acyl-CoA dehydrogenase	T116,T126	C0050688
+27927213	678	682	MCAD	T116,T126	C0050688
+27927213	711	730	computational model	T170	C3161035
+27927213	734	738	mFAO	T044	C1158366
+27927213	740	745	Model	T170	C3161035
+27927213	746	757	simulations	T062	C0679083
+27927213	758	767	predicted	T078	C0681842
+27927213	773	788	MCAD deficiency	T047	C0220710
+27927213	800	809	no effect	T080	C1301751
+27927213	817	824	pathway	T044	C1704259
+27927213	825	829	flux	T070	C2348693
+27927213	833	851	low concentrations	T081	C0392762
+27927213	859	863	mFAO	T044	C1158366
+27927213	864	873	substrate	T167	C3891814
+27927213	874	887	palmitoyl-CoA	T114,T123	C0030239
+27927213	898	917	high concentrations	T081	C0392762
+27927213	921	934	palmitoyl-CoA	T114,T123	C0030239
+27927213	941	947	induce	T169	C0205263
+27927213	950	957	decline	T081	C0547047
+27927213	961	965	flux	T070	C2348693
+27927213	973	985	accumulation	T033	C4055506
+27927213	989	1013	intermediate metabolites	T123	C0870883
+27927213	1025	1040	computationally	T052	C1880157
+27927213	1050	1059	predicted	T078	C0681842
+27927213	1060	1077	overload behavior	T046	C0030660
+27927213	1089	1098	substrate	T167	C3891814
+27927213	1099	1110	competition	T080	C0086035
+27927213	1118	1125	pathway	T077	C1705987
+27927213	1138	1143	study	T062	C2603343
+27927213	1148	1156	clinical	T080	C0205210
+27927213	1157	1166	relevance	T080	C2347946
+27927213	1175	1184	mechanism	T169	C0441712
+27927213	1194	1202	patients	T101	C0030705
+27927213	1205	1224	metabolite profiles	T039	C3853758
+27927213	1241	1258	humanized version	T016	C0086418
+27927213	1266	1285	computational model	T170	C3161035
+27927213	1293	1302	molecular	T080	C1521991
+27927213	1303	1314	competition	T080	C0086035
+27927213	1334	1340	plasma	T031	C0032105
+27927213	1341	1360	metabolite profiles	T039	C3853758
+27927213	1368	1372	MCAD	T116,T126	C0050688
+27927213	1373	1383	deficiency	T047	C0220710
+27927213	1394	1404	key factor	T169	C1521761
+27927213	1423	1437	characteristic	T080	C1521970
+27927213	1438	1460	acylcarnitine profiles	T201	C2598335
+27927213	1464	1505	multiple acyl-CoA dehydrogenase deficient	T047	C0268596
+27927213	1506	1514	patients	T101	C0030705
+27927213	1520	1557	patient-specific computational models	T066	C3850009
+27927213	1572	1579	predict	T078	C0681842
+27927213	1584	1592	severity	T080	C0439793
+27927213	1600	1617	disease phenotype	T032	C4086242
+27927213	1658	1665	systems	T169	C0449913
+27927213	1666	1683	medicine approach	T091	C0025118
+27927213	1702	1711	substrate	T167	C3891814
+27927213	1712	1723	competition	T080	C0086035
+27927213	1747	1757	physiology	T039	C0031843
+27927213	1766	1774	patients	T101	C0030705
+27927213	1780	1784	mFAO	T044	C1158366
+27927213	1780	1794	mFAO disorders	T047	C1456270
+27927213	1798	1805	finding	T033	C0243095
+27927213	1833	1841	patients	T101	C0030705
+27927213	1848	1852	risk	T078	C0035647
+27927213	1858	1896	life-threatening metabolic catastrophe	T033	C1968665

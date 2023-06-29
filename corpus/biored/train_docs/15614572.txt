@@ -1,0 +1,66 @@
+15614572|t|Effects of the antidepressant trazodone, a 5-HT 2A/2C receptor antagonist, on dopamine-dependent behaviors in rats.
+15614572|a|RATIONALE: 5-Hydroxytryptamine, via stimulation of 5-HT 2C receptors, exerts a tonic inhibitory influence on dopaminergic neurotransmission, whereas activation of 5-HT 2A receptors enhances stimulated DAergic neurotransmission. The antidepressant trazodone is a 5-HT 2A/2C receptor antagonist. OBJECTIVES: To evaluate the effect of trazodone treatment on behaviors dependent on the functional status of the nigrostriatal DAergic system. METHODS: The effect of pretreatment with trazodone on dexamphetamine- and apomorphine-induced oral stereotypies, on catalepsy induced by haloperidol and apomorphine (0.05 mg/kg, i.p.), on ergometrine-induced wet dog shake (WDS) behavior and fluoxetine-induced penile erections was studied in rats. We also investigated whether trazodone induces catalepsy in rats. RESULTS: Trazodone at 2.5-20 mg/kg i.p. did not induce catalepsy, and did not antagonize apomorphine (1.5 and 3 mg/kg) stereotypy and apomorphine (0.05 mg/kg)-induced catalepsy. However, pretreatment with 5, 10 and 20 mg/kg i.p. trazodone enhanced dexamphetamine stereotypy, and antagonized haloperidol catalepsy, ergometrine-induced WDS behavior and fluoxetine-induced penile erections. Trazodone at 30, 40 and 50 mg/kg i.p. induced catalepsy and antagonized apomorphine and dexamphetamine stereotypies. CONCLUSIONS: Our results indicate that trazodone at 2.5-20 mg/kg does not block pre- and postsynaptic striatal D2 DA receptors, while at 30, 40 and 50 mg/kg it blocks postsynaptic striatal D2 DA receptors. Furthermore, at 5, 10 and 20 mg/kg, trazodone blocks 5-HT 2A and 5-HT 2C receptors. We suggest that trazodone (5, 10 and 20 mg/kg), by blocking the 5-HT 2C receptors, releases the nigrostriatal DAergic neurons from tonic inhibition caused by 5-HT, and thereby potentiates dexamphetamine stereotypy and antagonizes haloperidol catalepsy.
+15614572	30	39	trazodone	ChemicalEntity	D014196
+15614572	43	62	5-HT 2A/2C receptor	GeneOrGeneProduct	25187,29595
+15614572	78	86	dopamine	ChemicalEntity	D004298
+15614572	110	114	rats	OrganismTaxon	10116
+15614572	127	146	5-Hydroxytryptamine	ChemicalEntity	D012701
+15614572	167	184	5-HT 2C receptors	GeneOrGeneProduct	25187
+15614572	279	296	5-HT 2A receptors	GeneOrGeneProduct	29595
+15614572	363	372	trazodone	ChemicalEntity	D014196
+15614572	378	397	5-HT 2A/2C receptor	GeneOrGeneProduct	25187,29595
+15614572	448	457	trazodone	ChemicalEntity	D014196
+15614572	594	603	trazodone	ChemicalEntity	D014196
+15614572	607	621	dexamphetamine	ChemicalEntity	D003913
+15614572	627	638	apomorphine	ChemicalEntity	D001058
+15614572	647	664	oral stereotypies	DiseaseOrPhenotypicFeature	D009062
+15614572	669	678	catalepsy	DiseaseOrPhenotypicFeature	D002375
+15614572	690	701	haloperidol	ChemicalEntity	D006220
+15614572	706	717	apomorphine	ChemicalEntity	D001058
+15614572	741	752	ergometrine	ChemicalEntity	D004874
+15614572	794	804	fluoxetine	ChemicalEntity	D005473
+15614572	845	849	rats	OrganismTaxon	10116
+15614572	880	889	trazodone	ChemicalEntity	D014196
+15614572	898	907	catalepsy	DiseaseOrPhenotypicFeature	D002375
+15614572	911	915	rats	OrganismTaxon	10116
+15614572	926	935	Trazodone	ChemicalEntity	D014196
+15614572	972	981	catalepsy	DiseaseOrPhenotypicFeature	D002375
+15614572	1006	1017	apomorphine	ChemicalEntity	D001058
+15614572	1051	1062	apomorphine	ChemicalEntity	D001058
+15614572	1084	1093	catalepsy	DiseaseOrPhenotypicFeature	D002375
+15614572	1146	1155	trazodone	ChemicalEntity	D014196
+15614572	1165	1179	dexamphetamine	ChemicalEntity	D003913
+15614572	1208	1219	haloperidol	ChemicalEntity	D006220
+15614572	1220	1229	catalepsy	DiseaseOrPhenotypicFeature	D002375
+15614572	1231	1242	ergometrine	ChemicalEntity	D004874
+15614572	1268	1278	fluoxetine	ChemicalEntity	D005473
+15614572	1305	1314	Trazodone	ChemicalEntity	D014196
+15614572	1351	1360	catalepsy	DiseaseOrPhenotypicFeature	D002375
+15614572	1377	1388	apomorphine	ChemicalEntity	D001058
+15614572	1393	1407	dexamphetamine	ChemicalEntity	D003913
+15614572	1461	1470	trazodone	ChemicalEntity	D014196
+15614572	1533	1548	D2 DA receptors	GeneOrGeneProduct	24318
+15614572	1611	1626	D2 DA receptors	GeneOrGeneProduct	24318
+15614572	1664	1673	trazodone	ChemicalEntity	D014196
+15614572	1681	1710	5-HT 2A and 5-HT 2C receptors	GeneOrGeneProduct	25187,29595
+15614572	1728	1737	trazodone	ChemicalEntity	D014196
+15614572	1776	1793	5-HT 2C receptors	GeneOrGeneProduct	25187
+15614572	1870	1874	5-HT	ChemicalEntity	D012701
+15614572	1900	1914	dexamphetamine	ChemicalEntity	D003913
+15614572	1942	1953	haloperidol	ChemicalEntity	D006220
+15614572	1954	1963	catalepsy	DiseaseOrPhenotypicFeature	D002375
+15614572	Positive_Correlation	D012701	25187	No
+15614572	Positive_Correlation	D002375	D006220	No
+15614572	Positive_Correlation	D002375	D001058	No
+15614572	Positive_Correlation	D001058	D009062	No
+15614572	Positive_Correlation	D003913	D009062	No
+15614572	Negative_Correlation	D014196	24318	Novel
+15614572	Negative_Correlation	D014196	D005473	Novel
+15614572	Negative_Correlation	D014196	D004874	Novel
+15614572	Negative_Correlation	D014196	D006220	Novel
+15614572	Negative_Correlation	D014196	D002375	Novel
+15614572	Negative_Correlation	D014196	D009062	Novel
+15614572	Negative_Correlation	D014196	D001058	Novel
+15614572	Negative_Correlation	D014196	D003913	Novel
+15614572	Negative_Correlation	D014196	29595	Novel
+15614572	Negative_Correlation	D014196	25187	Novel

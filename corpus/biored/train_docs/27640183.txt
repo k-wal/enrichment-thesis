@@ -1,0 +1,51 @@
+27640183|t|Erythropoietin does not activate erythropoietin receptor signaling or lipolytic pathways in human subcutaneous white adipose tissue in vivo.
+27640183|a|BACKGROUND: Erythropoietin (Epo) exerts direct effects on white adipose tissue (WAT) in mice in addition to its erythropoietic effects, and in humans Epo increases resting energy expenditure and affect serum lipid levels, but direct effects of Epo in human WAT have not been documented. We therefore investigated the effects of acute and prolonged Epo exposure on human WAT in vivo. METHOD: Data were obtained from two clinical trials: 1) acute Epo exposure (rHuEpo, 400 IU/kg) followed by WAT biopsies after 1 h and 2) 10 weeks treatment with the erythropoiesis-stimulating agent (ESA) Darbepoietin-alpha. Biopsies were analyzed by PCR for Epo receptor (Epo-R) mRNA. A new and highly specific antibody (A82, Amgen) was used to evaluate the presence of Epo-R by western blot analysis in addition to Epo-R signaling proteins (Akt, STAT5, p70s6k, LYN, and p38MAPK), activation of lipolytic pathways (ATGL, HSL, CGI-58, G0S2, Perilipin, Cidea, Cidec, AMPK, and ACC), and mitochondrial biogenesis (VDAC, HSP90, PDH, and SDHA). RESULTS: No evidence of in vivo activation of the Epo-R in WAT could be documented despite detectable levels of Epo-R mRNA. CONCLUSION: Thus, in contradiction to animal studies, Epo treatment within a physiological relevant range in humans does not exert direct effects in a subcutaneous WAT.
+27640183	0	14	Erythropoietin	GeneOrGeneProduct	2056
+27640183	33	56	erythropoietin receptor	GeneOrGeneProduct	2057
+27640183	92	97	human	OrganismTaxon	9606
+27640183	153	167	Erythropoietin	GeneOrGeneProduct	13856
+27640183	169	172	Epo	GeneOrGeneProduct	13856
+27640183	229	233	mice	OrganismTaxon	10090
+27640183	284	290	humans	OrganismTaxon	9606
+27640183	291	294	Epo	GeneOrGeneProduct	2056
+27640183	349	354	lipid	ChemicalEntity	D008055
+27640183	385	388	Epo	GeneOrGeneProduct	2056
+27640183	392	397	human	OrganismTaxon	9606
+27640183	489	492	Epo	GeneOrGeneProduct	2056
+27640183	505	510	human	OrganismTaxon	9606
+27640183	586	589	Epo	GeneOrGeneProduct	2056
+27640183	689	721	erythropoiesis-stimulating agent	ChemicalEntity	D006397
+27640183	723	726	ESA	ChemicalEntity	D006397
+27640183	728	746	Darbepoietin-alpha	ChemicalEntity	-
+27640183	782	794	Epo receptor	GeneOrGeneProduct	2057
+27640183	796	801	Epo-R	GeneOrGeneProduct	2057
+27640183	894	899	Epo-R	GeneOrGeneProduct	2057
+27640183	940	945	Epo-R	GeneOrGeneProduct	2057
+27640183	966	969	Akt	GeneOrGeneProduct	207
+27640183	971	976	STAT5	GeneOrGeneProduct	6776
+27640183	978	984	p70s6k	GeneOrGeneProduct	6198
+27640183	986	989	LYN	GeneOrGeneProduct	4067
+27640183	995	1002	p38MAPK	GeneOrGeneProduct	1432
+27640183	1039	1043	ATGL	GeneOrGeneProduct	57104
+27640183	1045	1048	HSL	GeneOrGeneProduct	3991
+27640183	1050	1056	CGI-58	GeneOrGeneProduct	51099
+27640183	1058	1062	G0S2	GeneOrGeneProduct	50486
+27640183	1064	1073	Perilipin	GeneOrGeneProduct	5346
+27640183	1075	1080	Cidea	GeneOrGeneProduct	1149
+27640183	1082	1087	Cidec	GeneOrGeneProduct	63924
+27640183	1089	1093	AMPK	GeneOrGeneProduct	5562
+27640183	1099	1102	ACC	GeneOrGeneProduct	31
+27640183	1135	1139	VDAC	GeneOrGeneProduct	7416
+27640183	1141	1146	HSP90	GeneOrGeneProduct	3320
+27640183	1148	1151	PDH	GeneOrGeneProduct	54704
+27640183	1157	1161	SDHA	GeneOrGeneProduct	6389
+27640183	1214	1219	Epo-R	GeneOrGeneProduct	2057
+27640183	1276	1281	Epo-R	GeneOrGeneProduct	2057
+27640183	1342	1345	Epo	GeneOrGeneProduct	2056
+27640183	1397	1403	humans	OrganismTaxon	9606
+27640183	Association	2056	D008055	No
+27640183	Association	2057	1432	No
+27640183	Association	2057	4067	No
+27640183	Association	2057	6198	No
+27640183	Association	2057	6776	No
+27640183	Association	2057	207	No

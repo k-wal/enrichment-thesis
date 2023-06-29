@@ -1,0 +1,68 @@
+27752744|t|Incident fracture associated with increased risk of mortality even after adjusting for frailty status in elderly Japanese men: the Fujiwara-kyo Osteoporosis Risk in Men (FORMEN) Cohort Study
+27752744|a|Frail elderly individuals have elevated risks of both fracture and mortality. We found that incident fractures were associated with an increased risk of death even after adjusting for pre-fracture frailty status as represented by physical performance tests and laboratory tests for common geriatric diseases in community-dwelling elderly Japanese men. While fractures reportedly increase the risk of mortality, frailty may complicate this association, generating a false-positive result. We evaluated this association after adjusting for pre-fracture levels of frailty. We examined 1998 community-dwelling ambulatory men aged ≥65 years at baseline in the Fujiwara-kyo Osteoporosis Risk in Men Study for frailty status as represented by activities of daily living (ADL), physical performance tests (grip strength, one-foot standing balance with eyes open, timed 10-m walk), and laboratory sera tests. Participants were then followed for 5 years for incident clinical fractures and death. Effects of incident fracture on death were determined by Cox proportional hazards model with the first fracture during follow-up as a time-dependent predictor and with frailty status indices as covariates. We identified 111 fractures in 99 men and 138 deaths during the follow-up period (median follow-up, 4.5 years). Participants with incident fractures did not have significantly worse frailty statuses, but did show a significantly higher cumulative mortality rate than those without fractures (p = 0.0047). Age-adjusted hazard ratio (HR) of death for incident fracture was 3.57 (95 % confidence interval: 2.05, 6.24). When adjusted for physical performance, this decreased to 2.77 (1.51, 5.06), but remained significant. The HR showed no significant change when adjusted for laboratory test results (3.96 (2.26, 6.94)). Exclusion of deaths within the first 24 months of follow-up did not alter these results. Incident clinical fracture was associated with an elevated risk of death independently of pre-fracture levels of frailty in community-dwelling elderly men.
+27752744	9	17	fracture	T037	UMLS:C0016658
+27752744	87	94	frailty	T033	UMLS:C0424594
+27752744	105	112	elderly	T098	UMLS:C0001792
+27752744	113	121	Japanese	T098	UMLS:C1556094
+27752744	122	125	men	T098	UMLS:C0025266
+27752744	191	196	Frail	T033	UMLS:C0871754
+27752744	197	204	elderly	T098	UMLS:C0001792
+27752744	205	216	individuals	T098	UMLS:C0237401
+27752744	245	253	fracture	T037	UMLS:C0016658
+27752744	292	301	fractures	T037	UMLS:C0016658
+27752744	344	349	death	T033	UMLS:C1306577
+27752744	375	387	pre-fracture	T037	UMLS:C0016658
+27752744	388	395	frailty	T033	UMLS:C0424594
+27752744	421	447	physical performance tests	T058	UMLS:C0679543
+27752744	452	468	laboratory tests	T058	UMLS:C0022885
+27752744	490	498	diseases	T038	UMLS:C0012634
+27752744	521	528	elderly	T098	UMLS:C0001792
+27752744	529	537	Japanese	T098	UMLS:C1556094
+27752744	538	541	men	T098	UMLS:C0025266
+27752744	549	558	fractures	T037	UMLS:C0016658
+27752744	602	609	frailty	T033	UMLS:C0424594
+27752744	656	677	false-positive result	T033	UMLS:C1112254
+27752744	682	691	evaluated	T058	UMLS:C0220825
+27752744	729	741	pre-fracture	T037	UMLS:C0016658
+27752744	752	759	frailty	T033	UMLS:C0424594
+27752744	764	772	examined	T033	UMLS:C0332128
+27752744	808	811	men	T098	UMLS:C0025266
+27752744	894	901	frailty	T033	UMLS:C0424594
+27752744	961	987	physical performance tests	T058	UMLS:C0679543
+27752744	1046	1061	timed 10-m walk	T058	UMLS:C2315460
+27752744	1068	1089	laboratory sera tests	T058	UMLS:C0022885
+27752744	1079	1083	sera	T031	UMLS:C0229671
+27752744	1091	1103	Participants	T098	UMLS:C0679646
+27752744	1157	1166	fractures	T037	UMLS:C0016658
+27752744	1171	1176	death	T033	UMLS:C1306577
+27752744	1198	1206	fracture	T037	UMLS:C0016658
+27752744	1210	1215	death	T033	UMLS:C1306577
+27752744	1235	1265	Cox proportional hazards model	T170	UMLS:C0033489
+27752744	1281	1289	fracture	T037	UMLS:C0016658
+27752744	1297	1306	follow-up	T058	UMLS:C1522577
+27752744	1346	1368	frailty status indices	T170	UMLS:C4075886
+27752744	1402	1411	fractures	T037	UMLS:C0016658
+27752744	1418	1421	men	T098	UMLS:C0025266
+27752744	1430	1436	deaths	T033	UMLS:C1306577
+27752744	1448	1457	follow-up	T058	UMLS:C1522577
+27752744	1466	1472	median	T082	UMLS:C2939193
+27752744	1473	1482	follow-up	T058	UMLS:C1522577
+27752744	1496	1508	Participants	T098	UMLS:C0679646
+27752744	1523	1532	fractures	T037	UMLS:C0016658
+27752744	1537	1565	not have significantly worse	T033	UMLS:C0243095
+27752744	1566	1573	frailty	T033	UMLS:C0424594
+27752744	1665	1674	fractures	T037	UMLS:C0016658
+27752744	1723	1728	death	T033	UMLS:C1306577
+27752744	1742	1750	fracture	T037	UMLS:C0016658
+27752744	1917	1938	no significant change	T033	UMLS:C0442739
+27752744	2015	2021	deaths	T033	UMLS:C1306577
+27752744	2052	2061	follow-up	T058	UMLS:C1522577
+27752744	2066	2075	not alter	T033	UMLS:C0243095
+27752744	2082	2089	results	T033	UMLS:C0456984
+27752744	2109	2117	fracture	T037	UMLS:C0016658
+27752744	2158	2163	death	T033	UMLS:C1306577
+27752744	2164	2177	independently	T033	UMLS:C1299583
+27752744	2181	2193	pre-fracture	T037	UMLS:C0016658
+27752744	2204	2211	frailty	T033	UMLS:C0424594
+27752744	2234	2241	elderly	T098	UMLS:C0001792
+27752744	2242	2245	men	T098	UMLS:C0025266

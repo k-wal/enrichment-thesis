@@ -1,0 +1,112 @@
+27881529|t|Co-occurrence and clustering of health conditions at age 11: cross-sectional findings from the Millennium Cohort Study
+27881529|a|To identify patterns of co-occurrence and clustering of 6 common adverse health conditions in 11- year -old children and explore differences by sociodemographic factors. Nationally representative prospective cohort study. Children born in the UK between 2000 and 2002. 11 399 11- year -old singleton children for whom data on all 6 health conditions and sociodemographic information were available (complete cases). Prevalence, co-occurrence and clustering of 6 common health conditions: wheeze; eczema; long-standing illness (excluding wheeze and eczema); injury; socioemotional difficulties (measured using Strengths and Difficulties Questionnaire) and unfavourable weight (thin / overweight / obese vs normal). 42.4% of children had 2 or more adverse health conditions (co-occurrence). Co-occurrence was more common in boys and children from lower income households. Latent class analysis identified 6 classes: ' normative ' (57.4%): ' atopic burdened ' (14.0%); ' socioemotional burdened ' (11.0%); ' unfavourable weight / injury ' (7.7%); ' eczema / injury ' (6.0%) and ' eczema / unfavourable weight ' (3.9%). As with co-occurrence, class membership differed by sociodemographic factors: boys, children of mothers with lower educational attainment and children from lower income households were more likely to be in the ' socioemotional burdened ' class. Children of mothers with higher educational attainment were more likely to be in the ' normative ' and ' eczema / unfavourable weight ' classes. Co-occurrence of adverse health conditions at age 11 is common and is associated with adverse socioeconomic circumstances. Holistic, child focused care, particularly in boys and those in lower income groups, may help to prevent and reduce co-occurrence in later childhood and adolescence.
+27881529	0	13	Co-occurrence	T079	C2745955
+27881529	18	28	clustering	T081	C0012641
+27881529	32	38	health	T078	C0018684
+27881529	39	49	conditions	T080	C0348080
+27881529	53	56	age	T032	C0001779
+27881529	61	76	cross-sectional	T062	C0010362
+27881529	77	85	findings	T169	C2607943
+27881529	95	118	Millennium Cohort Study	T081	C0009247
+27881529	143	156	co-occurrence	T079	C2745955
+27881529	161	171	clustering	T081	C0012641
+27881529	184	191	adverse	T046	C0877248
+27881529	192	198	health	T078	C0018684
+27881529	199	209	conditions	T080	C0348080
+27881529	217	221	year	T079	C1510829
+27881529	227	235	children	T100	C0008059
+27881529	248	259	differences	T080	C1705242
+27881529	263	287	sociodemographic factors	T078	C0011292
+27881529	315	339	prospective cohort study	T062	C1709709
+27881529	341	349	Children	T100	C0008059
+27881529	362	364	UK	T083	C0041700
+27881529	399	403	year	T079	C1510829
+27881529	409	418	singleton	T099	C1313913
+27881529	419	427	children	T100	C0008059
+27881529	437	441	data	T078	C1511726
+27881529	451	457	health	T078	C0018684
+27881529	458	468	conditions	T080	C0348080
+27881529	473	501	sociodemographic information	T078	C1533716
+27881529	518	526	complete	T080	C0205197
+27881529	527	532	cases	T169	C0868928
+27881529	535	545	Prevalence	T081	C0220900
+27881529	547	560	co-occurrence	T079	C2745955
+27881529	565	575	clustering	T081	C0012641
+27881529	588	594	health	T078	C0018684
+27881529	595	605	conditions	T080	C0348080
+27881529	607	613	wheeze	T184	C0043144
+27881529	615	621	eczema	T047	C0013595
+27881529	623	644	long-standing illness	T184	C0221423
+27881529	656	662	wheeze	T184	C0043144
+27881529	667	673	eczema	T047	C0013595
+27881529	676	682	injury	T037	C3263723
+27881529	684	711	socioemotional difficulties	T048	C0013985
+27881529	728	768	Strengths and Difficulties Questionnaire	T170	C3472494
+27881529	774	793	unfavourable weight	T032	C0005910
+27881529	795	799	thin	T033	C0041667
+27881529	802	812	overweight	T184	C0497406
+27881529	815	820	obese	T047	C0028754
+27881529	824	830	normal	T032	C0005910
+27881529	842	850	children	T100	C0008059
+27881529	865	872	adverse	T046	C0877248
+27881529	873	879	health	T078	C0018684
+27881529	880	890	conditions	T080	C0348080
+27881529	892	905	co-occurrence	T079	C2745955
+27881529	908	921	Co-occurrence	T079	C2745955
+27881529	941	945	boys	T100	C0870221
+27881529	950	958	children	T100	C0008059
+27881529	970	976	income	T081	C0021162
+27881529	977	987	households	T099	C0020052
+27881529	989	1010	Latent class analysis	T062	C0936012
+27881529	1024	1031	classes	T170	C0456387
+27881529	1035	1044	normative	T080	C0205307
+27881529	1058	1064	atopic	T046	C0392707
+27881529	1065	1073	burdened	T078	C2828008
+27881529	1087	1110	socioemotional burdened	T048	C0013985
+27881529	1124	1143	unfavourable weight	T032	C0005910
+27881529	1146	1152	injury	T037	C3263723
+27881529	1165	1171	eczema	T047	C0013595
+27881529	1174	1180	injury	T037	C3263723
+27881529	1196	1202	eczema	T047	C0013595
+27881529	1205	1224	unfavourable weight	T032	C0005910
+27881529	1243	1256	co-occurrence	T079	C2745955
+27881529	1258	1263	class	T170	C0456387
+27881529	1264	1274	membership	T055	C0680038
+27881529	1287	1311	sociodemographic factors	T078	C0011292
+27881529	1313	1317	boys	T100	C0870221
+27881529	1319	1327	children	T100	C0008059
+27881529	1331	1338	mothers	T099	C0026591
+27881529	1350	1372	educational attainment	T033	C0013658
+27881529	1377	1385	children	T100	C0008059
+27881529	1397	1403	income	T081	C0021162
+27881529	1404	1414	households	T099	C0020052
+27881529	1447	1470	socioemotional burdened	T048	C0013985
+27881529	1473	1478	class	T170	C0456387
+27881529	1480	1488	Children	T100	C0008059
+27881529	1492	1499	mothers	T099	C0026591
+27881529	1512	1534	educational attainment	T033	C0013658
+27881529	1567	1576	normative	T080	C0205307
+27881529	1585	1591	eczema	T047	C0013595
+27881529	1594	1613	unfavourable weight	T032	C0005910
+27881529	1616	1623	classes	T170	C0456387
+27881529	1625	1638	Co-occurrence	T079	C2745955
+27881529	1642	1649	adverse	T046	C0877248
+27881529	1650	1656	health	T078	C0018684
+27881529	1657	1667	conditions	T080	C0348080
+27881529	1671	1674	age	T032	C0001779
+27881529	1695	1710	associated with	T080	C0332281
+27881529	1711	1718	adverse	T046	C0877248
+27881529	1719	1732	socioeconomic	T077	C0748878
+27881529	1733	1746	circumstances	T077	C1254372
+27881529	1748	1756	Holistic	T078	C0019844
+27881529	1758	1763	child	T100	C0008059
+27881529	1772	1776	care	T052	C1947933
+27881529	1794	1798	boys	T100	C0870221
+27881529	1818	1824	income	T081	C0021162
+27881529	1825	1831	groups	T078	C0441833
+27881529	1845	1852	prevent	T080	C2700409
+27881529	1857	1863	reduce	T080	C0392756
+27881529	1864	1877	co-occurrence	T079	C2745955
+27881529	1881	1886	later	T079	C0205087
+27881529	1887	1896	childhood	T079	C0231335
+27881529	1901	1912	adolescence	T079	C0001578

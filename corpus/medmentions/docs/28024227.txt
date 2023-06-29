@@ -1,0 +1,97 @@
+28024227|t|The role of outdoor fungi on asthma hospital admissions in children and adolescents: A 5-year time stratified case-crossover analysis
+28024227|a|Some fungal spores can trigger asthma exacerbation but knowledge of which outdoor fungal spores contribute to asthma hospitalisation is limited. To examine the role of outdoor fungal spores in child and adolescent asthma hospitalisations. We conducted a bi-directional time-stratified case-crossover study of child and adolescent asthma hospitalisations over 5 years. Conditional logistic regression assessed the role of 20 fungi taxa (Same day [L0] and lagged [L1-3]) adjusted for maximum temperature, humidity and grass pollen. Strata specific effects were explored if there was evidence of effect modification by age, sex, air pollutants or grass pollen. Non-linear effects examined with Generalized Additive Models. Of 2098 children hospitalised for asthma, 60% were boys; mean age was 5.5±3.7 years. Fungal spore counts peaked during warm months. Regression models found weak associations with Coprinus [L0,L1: OR=1.03, 1.01-1.06], Periconia [L0: OR=1.03, 1.001-1.07] and Chaetomium [L2: OR=1.08, 1.0-1.2]. Sex appeared to act as an effect modifier with girls having stronger associations with Cladosporium, Coprinus and total fungi. Older adolescent (14-18 years) hospitalisation was significantly associated with Coprinus and Ustilago / smuts. Air pollutants and grass pollen did not appear to act as effect modifiers. Non-linearity was not detected. There may be associations between some outdoor fungal spores and asthma hospitalisations. Further research needed to explore whether these findings can be replicated; and examine whether fungal sensitisation and/or human rhinovirus infections are associated with stronger effects. If findings are replicated, then the need to develop predictive models for fungal spore distribution and levels may become more important.
+28024227	12	19	outdoor	UnknownType	C0680182
+28024227	20	25	fungi	T004	C0016832
+28024227	29	35	asthma	T047	C0004096
+28024227	36	55	hospital admissions	T058	C0184666
+28024227	59	67	children	T100	C0008059
+28024227	72	83	adolescents	T100	C0205653
+28024227	94	109	time stratified	T080	C0205363
+28024227	110	133	case-crossover analysis	T062	C4288565
+28024227	139	152	fungal spores	T004	C0038029
+28024227	165	171	asthma	T047	C0004096
+28024227	172	184	exacerbation	T033	C4086268
+28024227	189	198	knowledge	T170	C0376554
+28024227	208	215	outdoor	UnknownType	C0680182
+28024227	216	229	fungal spores	T004	C0038029
+28024227	230	240	contribute	T052	C1880177
+28024227	244	250	asthma	T047	C0004096
+28024227	251	266	hospitalisation	T058	C0019993
+28024227	302	309	outdoor	UnknownType	C0680182
+28024227	310	323	fungal spores	T004	C0038029
+28024227	327	332	child	T100	C0008059
+28024227	337	347	adolescent	T100	C0205653
+28024227	348	354	asthma	T047	C0004096
+28024227	355	371	hospitalisations	T058	C0019993
+28024227	403	418	time-stratified	T080	C0205363
+28024227	419	439	case-crossover study	T062	C4288565
+28024227	443	448	child	T100	C0008059
+28024227	453	463	adolescent	T100	C0205653
+28024227	464	470	asthma	T047	C0004096
+28024227	471	487	hospitalisations	T058	C0019993
+28024227	502	513	Conditional	T080	C1701901
+28024227	514	533	logistic regression	T062	C0206031
+28024227	534	542	assessed	T052	C1516048
+28024227	558	568	fungi taxa	T004	C0016832
+28024227	616	635	maximum temperature	T081	C0039476
+28024227	637	645	humidity	T070	C0020167
+28024227	650	662	grass pollen	T002	C0440307
+28024227	671	679	specific	T080	C0205369
+28024227	680	687	effects	T080	C1280500
+28024227	715	723	evidence	T078	C3887511
+28024227	727	733	effect	T080	C1280500
+28024227	734	746	modification	T169	C0392747
+28024227	750	753	age	T032	C0001779
+28024227	755	758	sex	T032	C1522384
+28024227	760	774	air pollutants	T131	C0001869
+28024227	778	790	grass pollen	T002	C0440307
+28024227	792	802	Non-linear	T062,T170	C0870965
+28024227	803	810	effects	T080	C1280500
+28024227	811	819	examined	T033	C0332128
+28024227	825	852	Generalized Additive Models	T075	C0026336
+28024227	862	883	children hospitalised	T101	C0008098
+28024227	888	894	asthma	T047	C0004096
+28024227	916	919	age	T032	C0001779
+28024227	939	951	Fungal spore	T004	C0038029
+28024227	952	958	counts	T081	C0439157
+28024227	986	1003	Regression models	T170	C0034980
+28024227	1015	1032	associations with	T080	C0332281
+28024227	1033	1041	Coprinus	T004	C0009981
+28024227	1071	1080	Periconia	T004	C1044743
+28024227	1111	1121	Chaetomium	T004	C0007929
+28024227	1146	1149	Sex	T032	C1522384
+28024227	1172	1187	effect modifier	UnknownType	C0681891
+28024227	1215	1232	associations with	T080	C0332281
+28024227	1233	1245	Cladosporium	T004	C0008886
+28024227	1247	1255	Coprinus	T004	C0009981
+28024227	1266	1271	fungi	T004	C0016832
+28024227	1279	1289	adolescent	T100	C0205653
+28024227	1304	1319	hospitalisation	T058	C0019993
+28024227	1338	1353	associated with	T080	C0332281
+28024227	1354	1362	Coprinus	T004	C0009981
+28024227	1367	1375	Ustilago	T004	C0042122
+28024227	1378	1383	smuts	T004	C0042121
+28024227	1385	1399	Air pollutants	T131	C0001869
+28024227	1404	1416	grass pollen	T002	C0440307
+28024227	1442	1458	effect modifiers	UnknownType	C0681891
+28024227	1460	1473	Non-linearity	T062,T170	C0870965
+28024227	1482	1490	detected	T033	C0442726
+28024227	1531	1538	outdoor	UnknownType	C0680182
+28024227	1539	1552	fungal spores	T004	C0038029
+28024227	1557	1563	asthma	T047	C0004096
+28024227	1564	1580	hospitalisations	T058	C0019993
+28024227	1590	1598	research	T062	C0035168
+28024227	1631	1639	findings	T033	C0243095
+28024227	1647	1657	replicated	T169	C0205173
+28024227	1679	1685	fungal	T004	C0016832
+28024227	1686	1699	sensitisation	T047	C3839736
+28024227	1707	1712	human	T016	C0086418
+28024227	1713	1734	rhinovirus infections	T047	C0276447
+28024227	1739	1754	associated with	T080	C0332281
+28024227	1764	1771	effects	T080	C1280500
+28024227	1776	1784	findings	T033	C0243095
+28024227	1789	1799	replicated	T169	C0205173
+28024227	1826	1843	predictive models	T075	C0026336
+28024227	1848	1860	fungal spore	T004	C0038029
+28024227	1861	1873	distribution	T169	C1704711
+28024227	1901	1910	important	T080	C3898777

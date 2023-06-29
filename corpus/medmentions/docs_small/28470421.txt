@@ -1,0 +1,26 @@
+28470421|t|How should the optical tweezers experiment be used to characterize the red blood cell membrane mechanics?
+28470421|a|Stretching red blood cells using optical tweezers is a way to characterize the mechanical properties of their membrane by measuring the size of the cell in the direction of the stretching (axial diameter) and perpendicularly (transverse diameter). Recently, such data have been used in numerous publications to validate solvers dedicated to the computation of red blood cell dynamics under flow. In the present study, different mechanical models are used to simulate the stretching of red blood cells by optical tweezers. Results first show that the mechanical moduli of the membranes have to be adjusted as a function of the model used. In addition, by assessing the area dilation of the cells, the axial and transverse diameters measured in optical tweezers experiments are found to be insufficient to discriminate between models relevant to red blood cells or not. At last, it is shown that other quantities such as the height or the profile of the cell should be preferred for validation purposes since they are more sensitive to the membrane model.
+28470421	15	42	optical tweezers experiment	T062	UMLS:C1883721
+28470421	71	85	red blood cell	T017	UMLS:C0014792
+28470421	86	94	membrane	T017	UMLS:C0596901
+28470421	106	116	Stretching	T058	UMLS:C0581717
+28470421	117	132	red blood cells	T017	UMLS:C0014792
+28470421	139	155	optical tweezers	T062	UMLS:C1883721
+28470421	216	224	membrane	T017	UMLS:C0596901
+28470421	266	275	direction	T082	UMLS:C0449738
+28470421	283	293	stretching	T058	UMLS:C0581717
+28470421	401	413	publications	T170	UMLS:C0034036
+28470421	466	480	red blood cell	T017	UMLS:C0014792
+28470421	509	522	present study	T062	UMLS:C2603343
+28470421	577	587	stretching	T058	UMLS:C0581717
+28470421	591	606	red blood cells	T017	UMLS:C0014792
+28470421	610	626	optical tweezers	T062	UMLS:C1883721
+28470421	628	635	Results	T033	UMLS:C0456984
+28470421	681	690	membranes	T017	UMLS:C0596901
+28470421	779	787	dilation	T033	UMLS:C0700124
+28470421	795	800	cells	T017	UMLS:C0007634
+28470421	806	811	axial	T082	UMLS:C0205131
+28470421	849	877	optical tweezers experiments	T062	UMLS:C1883721
+28470421	950	965	red blood cells	T017	UMLS:C0014792
+28470421	1058	1062	cell	T017	UMLS:C0007634
+28470421	1087	1097	validation	T062	UMLS:C1519941

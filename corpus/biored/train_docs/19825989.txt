@@ -1,0 +1,98 @@
+19825989|t|H3 histamine receptor-mediated activation of protein kinase Calpha inhibits the growth of cholangiocarcinoma in vitro and in vivo.
+19825989|a|Histamine regulates functions via four receptors (HRH1, HRH2, HRH3, and HRH4). The d-myo-inositol 1,4,5-trisphosphate (IP(3))/Ca(2+)/protein kinase C (PKC)/mitogen-activated protein kinase pathway regulates cholangiocarcinoma growth. We evaluated the role of HRH3 in the regulation of cholangiocarcinoma growth. Expression of HRH3 in intrahepatic and extrahepatic cell lines, normal cholangiocytes, and human tissue arrays was measured. In Mz-ChA-1 cells stimulated with (R)-(alpha)-(-)-methylhistamine dihydrobromide (RAMH), we measured (a) cell growth, (b) IP(3) and cyclic AMP levels, and (c) phosphorylation of PKC and mitogen-activated protein kinase isoforms. Localization of PKCalpha was visualized by immunofluorescence in cell smears and immunoblotting for PKCalpha in cytosol and membrane fractions. Following knockdown of PKCalpha, Mz-ChA-1 cells were stimulated with RAMH before evaluating cell growth and extracellular signal-regulated kinase (ERK)-1/2 phosphorylation. In vivo experiments were done in BALB/c nude mice. Mice were treated with saline or RAMH for 44 days and tumor volume was measured. Tumors were excised and evaluated for proliferation, apoptosis, and expression of PKCalpha, vascular endothelial growth factor (VEGF)-A, VEGF-C, VEGF receptor 2, and VEGF receptor 3. HRH3 expression was found in all cells. RAMH inhibited the growth of cholangiocarcinoma cells. RAMH increased IP(3) levels and PKCalpha phosphorylation and decreased ERK1/2 phosphorylation. RAMH induced a shift in the localization of PKCalpha expression from the cytosolic domain into the membrane region of Mz-ChA-1 cells. Silencing of PKCalpha prevented RAMH inhibition of Mz-ChA-1 cell growth and ablated RAMH effects on ERK1/2 phosphorylation. In vivo, RAMH decreased tumor growth and expression of VEGF and its receptors; PKCalpha expression was increased. RAMH inhibits cholangiocarcinoma growth by PKCalpha-dependent ERK1/2 dephosphorylation. Modulation of PKCalpha by histamine receptors may be important in regulating cholangiocarcinoma growth.
+19825989	0	21	H3 histamine receptor	GeneOrGeneProduct	11255
+19825989	45	66	protein kinase Calpha	GeneOrGeneProduct	5578
+19825989	90	108	cholangiocarcinoma	DiseaseOrPhenotypicFeature	D018281
+19825989	131	140	Histamine	ChemicalEntity	D006632
+19825989	181	185	HRH1	GeneOrGeneProduct	3269
+19825989	187	191	HRH2	GeneOrGeneProduct	3274
+19825989	193	197	HRH3	GeneOrGeneProduct	11255
+19825989	203	207	HRH4	GeneOrGeneProduct	59340
+19825989	214	248	d-myo-inositol 1,4,5-trisphosphate	ChemicalEntity	D015544
+19825989	250	255	IP(3)	ChemicalEntity	D015544
+19825989	257	263	Ca(2+)	ChemicalEntity	D002118
+19825989	264	280	protein kinase C	GeneOrGeneProduct	5578
+19825989	282	285	PKC	GeneOrGeneProduct	5578
+19825989	287	319	mitogen-activated protein kinase	GeneOrGeneProduct	5594,5595
+19825989	338	356	cholangiocarcinoma	DiseaseOrPhenotypicFeature	D018281
+19825989	390	394	HRH3	GeneOrGeneProduct	11255
+19825989	416	434	cholangiocarcinoma	DiseaseOrPhenotypicFeature	D018281
+19825989	457	461	HRH3	GeneOrGeneProduct	11255
+19825989	534	539	human	OrganismTaxon	9606
+19825989	571	579	Mz-ChA-1	CellLine	CVCL_6932
+19825989	602	648	(R)-(alpha)-(-)-methylhistamine dihydrobromide	ChemicalEntity	C069357
+19825989	650	654	RAMH	ChemicalEntity	C069357
+19825989	690	695	IP(3)	ChemicalEntity	D015544
+19825989	700	710	cyclic AMP	ChemicalEntity	D000242
+19825989	746	749	PKC	GeneOrGeneProduct	5578
+19825989	754	786	mitogen-activated protein kinase	GeneOrGeneProduct	5594,5595
+19825989	813	821	PKCalpha	GeneOrGeneProduct	5578
+19825989	897	905	PKCalpha	GeneOrGeneProduct	5578
+19825989	964	972	PKCalpha	GeneOrGeneProduct	5578
+19825989	974	982	Mz-ChA-1	CellLine	CVCL_6932
+19825989	1010	1014	RAMH	ChemicalEntity	C069357
+19825989	1049	1096	extracellular signal-regulated kinase (ERK)-1/2	GeneOrGeneProduct	5595,5594
+19825989	1147	1153	BALB/c	CellLine	CVCL_9101
+19825989	1159	1163	mice	OrganismTaxon	10090
+19825989	1165	1169	Mice	OrganismTaxon	10090
+19825989	1198	1202	RAMH	ChemicalEntity	C069357
+19825989	1219	1224	tumor	DiseaseOrPhenotypicFeature	D009369
+19825989	1246	1252	Tumors	DiseaseOrPhenotypicFeature	D009369
+19825989	1328	1336	PKCalpha	GeneOrGeneProduct	5578
+19825989	1338	1381	vascular endothelial growth factor (VEGF)-A	GeneOrGeneProduct	7422
+19825989	1383	1389	VEGF-C	GeneOrGeneProduct	7424
+19825989	1391	1406	VEGF receptor 2	GeneOrGeneProduct	3791
+19825989	1412	1427	VEGF receptor 3	GeneOrGeneProduct	2324
+19825989	1429	1433	HRH3	GeneOrGeneProduct	11255
+19825989	1469	1473	RAMH	ChemicalEntity	C069357
+19825989	1498	1516	cholangiocarcinoma	DiseaseOrPhenotypicFeature	D018281
+19825989	1524	1528	RAMH	ChemicalEntity	C069357
+19825989	1539	1544	IP(3)	ChemicalEntity	D015544
+19825989	1556	1564	PKCalpha	GeneOrGeneProduct	5578
+19825989	1595	1601	ERK1/2	GeneOrGeneProduct	5595,5594
+19825989	1619	1623	RAMH	ChemicalEntity	C069357
+19825989	1663	1671	PKCalpha	GeneOrGeneProduct	5578
+19825989	1737	1745	Mz-ChA-1	CellLine	CVCL_6932
+19825989	1766	1774	PKCalpha	GeneOrGeneProduct	5578
+19825989	1785	1789	RAMH	ChemicalEntity	C069357
+19825989	1804	1812	Mz-ChA-1	CellLine	CVCL_6932
+19825989	1837	1841	RAMH	ChemicalEntity	C069357
+19825989	1853	1859	ERK1/2	GeneOrGeneProduct	5595,5594
+19825989	1886	1890	RAMH	ChemicalEntity	C069357
+19825989	1901	1906	tumor	DiseaseOrPhenotypicFeature	D009369
+19825989	1932	1936	VEGF	GeneOrGeneProduct	7422,7424
+19825989	1956	1964	PKCalpha	GeneOrGeneProduct	5578
+19825989	1991	1995	RAMH	ChemicalEntity	C069357
+19825989	2005	2023	cholangiocarcinoma	DiseaseOrPhenotypicFeature	D018281
+19825989	2034	2042	PKCalpha	GeneOrGeneProduct	5578
+19825989	2053	2059	ERK1/2	GeneOrGeneProduct	5595,5594
+19825989	2093	2101	PKCalpha	GeneOrGeneProduct	5578
+19825989	2105	2124	histamine receptors	GeneOrGeneProduct	11255,3269,3274,59340
+19825989	2156	2174	cholangiocarcinoma	DiseaseOrPhenotypicFeature	D018281
+19825989	Association	D002118	D018281	No
+19825989	Association	D015544	D018281	No
+19825989	Association	59340	D018281	Novel
+19825989	Association	3274	D018281	Novel
+19825989	Association	3269	D018281	Novel
+19825989	Bind	D006632	59340	No
+19825989	Bind	D006632	3274	No
+19825989	Bind	D006632	3269	No
+19825989	Bind	D006632	11255	No
+19825989	Negative_Correlation	C069357	7424	Novel
+19825989	Negative_Correlation	C069357	7422	Novel
+19825989	Positive_Correlation	C069357	D015544	Novel
+19825989	Negative_Correlation	C069357	D009369	Novel
+19825989	Negative_Correlation	C069357	5595	Novel
+19825989	Negative_Correlation	C069357	5594	Novel
+19825989	Negative_Correlation	C069357	D018281	Novel
+19825989	Association	5595	D018281	No
+19825989	Association	5594	D018281	No
+19825989	Association	5578	59340	Novel
+19825989	Association	5578	3274	Novel
+19825989	Association	5578	3269	Novel
+19825989	Positive_Correlation	5578	C069357	Novel
+19825989	Association	5578	5595	Novel
+19825989	Association	5578	5594	Novel
+19825989	Negative_Correlation	5578	D018281	No
+19825989	Association	11255	D018281	Novel
+19825989	Positive_Correlation	11255	5578	Novel

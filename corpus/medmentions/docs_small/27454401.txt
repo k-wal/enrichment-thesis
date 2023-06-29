@@ -1,0 +1,37 @@
+27454401|t|Fabrication and modelling of fractal, biomimetic, micro and nano-topographical surfaces
+27454401|a|Natural surface topographies are often self-similar with hierarchical features at the micro and nanoscale, which may be mimicked to overcome modern tissue engineering and biomaterial design limitations. Specifically, a cell's microenvironment within the human body contains highly optimised, fractal topographical cues, which directs precise cell behaviour. However, recreating biomimetic, fractal topographies in vitro is not a trivial process and a number of fabrication methods have been proposed but often fail to precisely control the spatial resolution of features at different lengths scales and hence, to provide true biomimetic properties. Here, we propose a method of accurately reproducing the self-similar, micro and nanoscale topography of a human biological tissue into a synthetic polymer through an innovative fabrication process. The biological tissue surface was characterised using atomic force microscopy (AFM) to obtain spatial data in X, Y and Z, which was converted into a grayscale 'digital photomask'. As a result of maskless grayscale optical lithography followed by modified deep reactive ion etching and replica molding, we were able to accurately reproduce the fractal topography of acellular dermal matrix (ADM) into polydimethylsiloxane (PDMS). Characterisation using AFM at three different length scales revealed that the nano and micro-topographical features, in addition to the fractal dimension, of native ADM were reproduced in PDMS. In conclusion, it has been shown that the fractal topography of biological surfaces can be mimicked in synthetic materials using the novel fabrication process outlined, which may be applied to significantly enhance medical device biocompatibility and performance.
+27454401	16	25	modelling	T062	UMLS:C0870071
+27454401	29	36	fractal	T082	UMLS:C0205148
+27454401	38	48	biomimetic	T082	UMLS:C0205148
+27454401	50	55	micro	T082	UMLS:C0205148
+27454401	60	87	nano-topographical surfaces	T082	UMLS:C0205148
+27454401	236	254	tissue engineering	T058	UMLS:C0596171
+27454401	259	270	biomaterial	T103	UMLS:C0005479
+27454401	342	352	human body	T204	UMLS:C0242821
+27454401	380	406	fractal topographical cues	T082	UMLS:C0005898
+27454401	430	434	cell	T017	UMLS:C0007634
+27454401	466	476	biomimetic	T082	UMLS:C0870781
+27454401	478	498	fractal topographies	T082	UMLS:C0870781
+27454401	756	762	method	T170	UMLS:C0025663
+27454401	807	812	micro	T082	UMLS:C0870781
+27454401	817	837	nanoscale topography	T082	UMLS:C0870781
+27454401	843	848	human	T204	UMLS:C0086418
+27454401	849	866	biological tissue	T017	UMLS:C0457457
+27454401	874	891	synthetic polymer	T103	UMLS:C0440257
+27454401	939	956	biological tissue	T017	UMLS:C0457457
+27454401	957	964	surface	T082	UMLS:C0205148
+27454401	989	1012	atomic force microscopy	T058	UMLS:C0242849
+27454401	1014	1017	AFM	T058	UMLS:C0242849
+27454401	1278	1296	fractal topography	T082	UMLS:C0870781
+27454401	1300	1323	acellular dermal matrix	T017	UMLS:C3494272
+27454401	1325	1328	ADM	T017	UMLS:C3494272
+27454401	1335	1355	polydimethylsiloxane	T103	UMLS:C0137758
+27454401	1357	1361	PDMS	T103	UMLS:C0137758
+27454401	1387	1390	AFM	T058	UMLS:C0242849
+27454401	1442	1446	nano	T082	UMLS:C0870781
+27454401	1451	1470	micro-topographical	T082	UMLS:C0870781
+27454401	1529	1532	ADM	T017	UMLS:C3494272
+27454401	1552	1556	PDMS	T103	UMLS:C0137758
+27454401	1600	1618	fractal topography	T082	UMLS:C0870781
+27454401	1622	1641	biological surfaces	T082	UMLS:C0205148
+27454401	1773	1787	medical device	T074	UMLS:C0025080

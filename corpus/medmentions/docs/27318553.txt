@@ -1,0 +1,54 @@
+27318553|t|Vestibular disorders and nausea during head and neck intensity-modulated radiation therapy
+27318553|a|We studied whether there is a relationship between nausea and vestibular disorders in patients treated with intensity modulated radiation therapy (IMRT) for head and neck cancer. We performed a prospective single-centre study that enrolled 31 patients. A videonystagmography was carried out before and within 15 days after radiation therapy for each patient. Nausea was assessed at baseline, every week, and at the post-radiotherapy videonystagmography visit. Twenty-six patients had benefited from a complete interpretable videonystagmography. For 14 of these patients vestibular damage was diagnosed post-radiotherapy. During irradiation, six patients felt nauseous, but without dizziness. In univariate analysis, we found a relationship statistically significant between the average dose received by the vestibules and vestibular disorder videonystagmography (P=0.001, odds ratio [OR]: 1.08 [1.025-.138]), but there was no relationship between vestibular disorder videonystagmography and nausea (P=0.701). Irradiation of the vestibular system during IMRT does not seem to explain the nausea.
+27318553	0	20	Vestibular disorders	T047	C0042594
+27318553	25	31	nausea	T184	C0027497
+27318553	39	43	head	T191	C0751177
+27318553	48	52	neck	T191	C0746787
+27318553	53	90	intensity-modulated radiation therapy	T061	C1512814
+27318553	121	133	relationship	T080	C0439849
+27318553	142	148	nausea	T184	C0027497
+27318553	153	173	vestibular disorders	T047	C0042594
+27318553	177	185	patients	T101	C0030705
+27318553	186	198	treated with	T061	C0332293
+27318553	199	236	intensity modulated radiation therapy	T061	C1512814
+27318553	238	242	IMRT	T061	C1512814
+27318553	248	252	head	T191	C0751177
+27318553	257	268	neck cancer	T191	C0746787
+27318553	285	316	prospective single-centre study	T062	C0033522
+27318553	322	330	enrolled	T058	C1516879
+27318553	334	342	patients	T101	C0030705
+27318553	346	365	videonystagmography	T061	C0087111
+27318553	414	431	radiation therapy	T061	C1522449
+27318553	441	448	patient	T101	C0030705
+27318553	450	456	Nausea	T184	C0027497
+27318553	473	481	baseline	T081	C1442488
+27318553	506	523	post-radiotherapy	T061	C1522449
+27318553	524	543	videonystagmography	T061	C0087111
+27318553	562	570	patients	T101	C0030705
+27318553	615	634	videonystagmography	T061	C0087111
+27318553	652	660	patients	T101	C0030705
+27318553	661	678	vestibular damage	T033	C0235928
+27318553	683	692	diagnosed	T033	C0011900
+27318553	693	710	post-radiotherapy	T061	C1522449
+27318553	719	730	irradiation	T070	C1282930
+27318553	736	744	patients	T101	C0030705
+27318553	750	758	nauseous	T184	C0027497
+27318553	772	781	dizziness	T184	C0012833
+27318553	786	805	univariate analysis	T062	C0683962
+27318553	818	830	relationship	T080	C0439849
+27318553	831	856	statistically significant	T081	C0237881
+27318553	877	881	dose	T081	C0178602
+27318553	898	908	vestibules	T030	C0042606
+27318553	913	932	vestibular disorder	T047	C0042594
+27318553	933	952	videonystagmography	T061	C0087111
+27318553	963	973	odds ratio	T081	C0028873
+27318553	975	977	OR	T081	C0028873
+27318553	1014	1016	no	T033	C1513916
+27318553	1017	1029	relationship	T080	C0439849
+27318553	1038	1057	vestibular disorder	T047	C0042594
+27318553	1058	1077	videonystagmography	T061	C0087111
+27318553	1082	1088	nausea	T184	C0027497
+27318553	1100	1111	Irradiation	T070	C1282930
+27318553	1119	1136	vestibular system	T022	C0682674
+27318553	1144	1148	IMRT	T061	C1512814
+27318553	1178	1184	nausea	T184	C0027497

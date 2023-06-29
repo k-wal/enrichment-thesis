@@ -1,0 +1,21 @@
+27837821|t|Electronic tongues to assess wine sensory descriptors
+27837821|a|This work reports the application of an electronic tongue as a tool towards the analysis of wine in tasks such as its discrimination based on the maturing in barrels or the prediction of the global scores assigned by a sensory panel. To this aim, red wine samples were first analysed with the voltammetric sensor array, without performing any sample pretreatment. Afterwards, obtained responses were preprocessed employing fast Fourier transform (FFT) for the compression and reduction of signal complexity, and obtained coefficients were then used as inputs to build the qualitative and quantitative models employing either linear discriminant analysis (LDA) or partial least squares regression (PLS), respectively. Satisfactory results were obtained overall, with a classification rate of 100% in the discrimination of the type of barrel used during wine maturing, a normalized NRMSE of 0.077 in the estimation of ageing time (months) or 0.11 in the prediction of the scores (0-10) from a trained sensory panel (all for the external test subset).
+27837821	29	33	wine	T168	UMLS:C0043188
+27837821	42	53	descriptors	T170	UMLS:C0282354
+27837821	64	71	reports	T170	UMLS:C0684224
+27837821	134	142	analysis	T062	UMLS:C0936012
+27837821	146	150	wine	T168	UMLS:C0043188
+27837821	273	286	sensory panel	T097	UMLS:C0027363
+27837821	301	309	red wine	T168	UMLS:C0349371
+27837821	329	337	analysed	T062	UMLS:C0936012
+27837821	477	499	fast Fourier transform	T170	UMLS:C0002045
+27837821	501	504	FFT	T170	UMLS:C0002045
+27837821	679	707	linear discriminant analysis	T062	UMLS:C0012630
+27837821	709	712	LDA	T062	UMLS:C0012630
+27837821	717	749	partial least squares regression	T170	UMLS:C0034980
+27837821	751	754	PLS	T170	UMLS:C0034980
+27837821	822	836	classification	T170	UMLS:C0008902
+27837821	906	910	wine	T168	UMLS:C0043188
+27837821	970	976	ageing	T038	UMLS:C0001811
+27837821	1045	1066	trained sensory panel	T097	UMLS:C0027363
+27837821	1094	1100	subset	T170	UMLS:C1515021

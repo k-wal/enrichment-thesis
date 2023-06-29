@@ -1,0 +1,41 @@
+28190759|t|Temporal Trends in Sudden Cardiac Death From 1997 to 2010: A Data Linkage Study
+28190759|a|Community-wide trends data for sudden cardiac death (SCD) are scarce, unlike widely reported declines in cardiovascular disease (CVD) mortality. Using administrative data, we aimed to examine population-level trends in SCD, stratified by sex, age and prior CVD hospitalisation. Person-linked mortality and hospital morbidity data were used to identify SCD and determine hospitalisation and comorbidity using a 10-year hospitalisation lookback period. Log-linear Poisson regression was used to calculate annual rate changes and rate ratios. In Western Australia, 7160 SCD cases were identified from 1997 to 2010 with males comprising 69%. Overall age-standardised SCD rates decreased by 17% in men and 31% in women from 1997-2001 to 2007-2010. The annual rate reduction was higher in women than men (-4.0%/year versus -2.3%/year; p=0.0039). Significant reductions were observed for 55-69 year-old and 70-84 year-old men and women but not for the 35-54 year-olds. The overall relative risk comparing men to women increased slightly from 2.4 in 1997 to 3.0 in 2010 (trend p=0.0039) but differed across age groups. The relative risk declined in 35-54 year-olds from 5.1 to 3.2 whereas it increased from 2.9 to 3.9 in 55-69 year-olds and 1.9 to 2.3 in 70-84 year-olds. Declining trends in SCD rates were observed in those with and without prior CVD and were similar to CVD mortality trends (-4.9%/year in men and -5.5%/year in women). Trends in rates of SCD fell in middle to older aged men and women, with and without CVD, and mirrored the fall in fatal CVD. Limited improvement in 35-54 year-olds requires further investigation.
+28190759	19	39	Sudden Cardiac Death	T038	UMLS:C0085298
+28190759	61	73	Data Linkage	T062	UMLS:C0242239
+28190759	74	79	Study	T062	UMLS:C2603343
+28190759	80	94	Community-wide	T058	UMLS:C0009485
+28190759	111	131	sudden cardiac death	T038	UMLS:C0085298
+28190759	133	136	SCD	T038	UMLS:C0085298
+28190759	164	172	reported	T058	UMLS:C0700287
+28190759	185	207	cardiovascular disease	T038	UMLS:C0007222
+28190759	209	212	CVD	T038	UMLS:C0007222
+28190759	272	288	population-level	T098	UMLS:C1257890
+28190759	299	302	SCD	T038	UMLS:C0085298
+28190759	337	340	CVD	T038	UMLS:C0007222
+28190759	341	356	hospitalisation	T058	UMLS:C0019993
+28190759	386	394	hospital	T092	UMLS:C0019994
+28190759	432	435	SCD	T038	UMLS:C0085298
+28190759	450	465	hospitalisation	T058	UMLS:C0019993
+28190759	498	513	hospitalisation	T058	UMLS:C0019993
+28190759	623	640	Western Australia	T082	UMLS:C0043128
+28190759	647	650	SCD	T038	UMLS:C0085298
+28190759	743	746	SCD	T038	UMLS:C0085298
+28190759	773	776	men	T098	UMLS:C0025266
+28190759	788	793	women	T098	UMLS:C0043210
+28190759	863	868	women	T098	UMLS:C0043210
+28190759	874	877	men	T098	UMLS:C0025266
+28190759	995	998	men	T098	UMLS:C0025266
+28190759	1003	1008	women	T098	UMLS:C0043210
+28190759	1078	1081	men	T098	UMLS:C0025266
+28190759	1085	1090	women	T098	UMLS:C0043210
+28190759	1364	1367	SCD	T038	UMLS:C0085298
+28190759	1420	1423	CVD	T038	UMLS:C0007222
+28190759	1444	1447	CVD	T038	UMLS:C0007222
+28190759	1480	1483	men	T098	UMLS:C0025266
+28190759	1502	1507	women	T098	UMLS:C0043210
+28190759	1529	1532	SCD	T038	UMLS:C0085298
+28190759	1562	1565	men	T098	UMLS:C0025266
+28190759	1570	1575	women	T098	UMLS:C0043210
+28190759	1594	1597	CVD	T038	UMLS:C0007222
+28190759	1630	1633	CVD	T038	UMLS:C0007222
+28190759	1691	1704	investigation	T058	UMLS:C0220825

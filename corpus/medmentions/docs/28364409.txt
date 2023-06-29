@@ -1,0 +1,108 @@
+28364409|t|Metabolomics analysis of anaphylactoid reaction reveals its mechanism in a rat model
+28364409|a|Anaphylactoid reactions, accounting for more than 77% of all immune-mediated immediate hypersensitivity reactions, have become a serious threat to public health, but their effect mechanism is not clear and diagnostic tests are limited. Comprehensive metabolite analysis may reveal the anaphylactoid effect mechanism systematically and provide reference for future diagnostic purposes. Plasma from Brown Norway rats given intravenous injection of saline, compound 48/80 (2.5 mL/kg) or ovalbumin (20 mL/kg) in 20 s for the first time was used to study the effect mechanism of anaphylactoid reactions through metabolomics (UPLC-qTOF-MS/MS). Metabolomics integrated with proteomics data were used to analyze the anaphylactoid pathways by MetaboAnalyst followed by integrated pathway analysis. Thirty metabolites were identified through the METLIN database by MS/MS and 18 of them were confirmed by authentic standards. The results showed that adenosine, histamine, N-acetylhistamine, N(α)-γ-glutamylhistamine, malate and xanthine are important indices for anaphylactoid reactions. It could be concluded that the effect mechanism is mainly composed of histidine metabolism, arachidonic acid metabolism, energy metabolism, purine metabolism and other small molecules through 30 metabolites. Multiple linear regression analysis indicated that not only histamine but also N(α)-γ-glutamylhistamine and arachidonic acid could be used to evaluate anaphylactoid symptoms of animals. Furthermore, the citrate cycle, histidine metabolism and arachidonic acid metabolism could be the main pathways of anaphylactoid reactions as determined by MetaboAnalyst. The results may provide a reference to improve diagnostic accuracy and predict and monitor treatment efficacy in anaphylactoid reactions in the clinical setting.
+28364409	0	12	Metabolomics	T123	C0870883
+28364409	13	21	analysis	T062	C0936012
+28364409	25	47	anaphylactoid reaction	T046	C0340865
+28364409	48	55	reveals	T080	C0443289
+28364409	60	69	mechanism	T169	C0441712
+28364409	75	78	rat	T015	C0034721
+28364409	79	84	model	T008	C0599779
+28364409	85	108	Anaphylactoid reactions	T046	C0340865
+28364409	146	198	immune-mediated immediate hypersensitivity reactions	T047	C0301918
+28364409	214	221	serious	T080	C0205404
+28364409	222	228	threat	T078	C0749385
+28364409	232	245	public health	T058	C0699943
+28364409	257	263	effect	T080	C1280500
+28364409	264	273	mechanism	T169	C0441712
+28364409	277	286	not clear	T033	C3845108
+28364409	291	307	diagnostic tests	T060	C0086143
+28364409	312	319	limited	T169	C0439801
+28364409	321	334	Comprehensive	T080	C1880156
+28364409	335	345	metabolite	T123	C0870883
+28364409	346	354	analysis	T062	C0936012
+28364409	359	365	reveal	T080	C0443289
+28364409	370	383	anaphylactoid	T080	C1706805
+28364409	384	390	effect	T080	C1280500
+28364409	391	400	mechanism	T169	C0441712
+28364409	401	415	systematically	T169	C0220922
+28364409	420	427	provide	T052	C1999230
+28364409	428	437	reference	T081	C0034925
+28364409	442	448	future	T079	C0016884
+28364409	449	459	diagnostic	T169	C0348026
+28364409	460	468	purposes	T169	C1285529
+28364409	470	476	Plasma	T031	C0032105
+28364409	482	499	Brown Norway rats	T015	C0034700
+28364409	506	527	intravenous injection	T169	C0021494
+28364409	531	537	saline	T167	C0036082
+28364409	539	553	compound 48/80	T109,T121	C0009574
+28364409	569	578	ovalbumin	T116,T123	C0029923
+28364409	621	625	used	T169	C1524063
+28364409	629	634	study	T062	C2603343
+28364409	639	645	effect	T080	C1280500
+28364409	646	655	mechanism	T169	C0441712
+28364409	659	682	anaphylactoid reactions	T046	C0340865
+28364409	691	703	metabolomics	T123	C0870883
+28364409	705	720	UPLC-qTOF-MS/MS	T063	C0599748
+28364409	723	735	Metabolomics	T123	C0870883
+28364409	752	767	proteomics data	T170	C0242356
+28364409	773	777	used	T169	C1524063
+28364409	781	788	analyze	T062	C0936012
+28364409	793	806	anaphylactoid	T080	C1706805
+28364409	807	815	pathways	T044	C1704259
+28364409	819	832	MetaboAnalyst	T170	C0037589
+28364409	833	844	followed by	T079	C0332283
+28364409	856	872	pathway analysis	T170	C0868995
+28364409	881	892	metabolites	T123	C0870883
+28364409	898	908	identified	T080	C0205396
+28364409	921	936	METLIN database	T170	C0242356
+28364409	940	945	MS/MS	T063	C0599748
+28364409	966	978	confirmed by	T080	C0521093
+28364409	979	998	authentic standards	T081	C0034925
+28364409	1004	1011	results	T169	C1274040
+28364409	1024	1033	adenosine	T114,T121,T123	C0001443
+28364409	1035	1044	histamine	T109,T123	C0019588
+28364409	1046	1063	N-acetylhistamine	T109	C0067730
+28364409	1065	1089	N(α)-γ-glutamylhistamine	T109	C0061063
+28364409	1091	1097	malate	T109,T123,T130	C0220873
+28364409	1102	1110	xanthine	T114,T123	C0043314
+28364409	1115	1124	important	T080	C3898777
+28364409	1137	1160	anaphylactoid reactions	T046	C0340865
+28364409	1193	1199	effect	T080	C1280500
+28364409	1200	1209	mechanism	T169	C0441712
+28364409	1232	1252	histidine metabolism	T044	C1156823
+28364409	1254	1281	arachidonic acid metabolism	T044	C1158360
+28364409	1283	1300	energy metabolism	T039	C0014272
+28364409	1302	1319	purine metabolism	T169	C0920640
+28364409	1324	1329	other	T080	C0205394
+28364409	1330	1335	small	T081	C0700321
+28364409	1336	1345	molecules	T167	C0567416
+28364409	1346	1353	through	T169	C0332273
+28364409	1357	1368	metabolites	T123	C0870883
+28364409	1370	1405	Multiple linear regression analysis	UnknownType	C0681925
+28364409	1406	1415	indicated	T033	C1444656
+28364409	1421	1424	not	T169	C1518422
+28364409	1425	1429	only	T081	C0205171
+28364409	1430	1439	histamine	T109,T123	C0019588
+28364409	1449	1473	N(α)-γ-glutamylhistamine	T109	C0061063
+28364409	1478	1494	arachidonic acid	T109	C0003695
+28364409	1504	1508	used	T169	C1524063
+28364409	1521	1534	anaphylactoid	T080	C1706805
+28364409	1535	1543	symptoms	T184	C1457887
+28364409	1547	1554	animals	T008	C0003062
+28364409	1573	1586	citrate cycle	T044	C1516586
+28364409	1588	1608	histidine metabolism	T044	C1156823
+28364409	1613	1640	arachidonic acid metabolism	T044	C1158360
+28364409	1654	1658	main	T080	C1542147
+28364409	1659	1667	pathways	T044	C1704259
+28364409	1671	1694	anaphylactoid reactions	T046	C0340865
+28364409	1698	1711	determined by	T080	C0521095
+28364409	1712	1725	MetaboAnalyst	T170	C0037589
+28364409	1731	1738	results	T169	C1274040
+28364409	1743	1750	provide	T052	C1999230
+28364409	1753	1762	reference	T170	C1514811
+28364409	1766	1773	improve	T033	C0184511
+28364409	1774	1793	diagnostic accuracy	T080	C0598285
+28364409	1798	1805	predict	T078	C0681842
+28364409	1818	1836	treatment efficacy	T080	C0087113
+28364409	1840	1863	anaphylactoid reactions	T046	C0340865
+28364409	1871	1887	clinical setting	T082	C3176918

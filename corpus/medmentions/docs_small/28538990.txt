@@ -1,0 +1,32 @@
+28538990|t|Measuring nonlinear signal combination using EEG
+28538990|a|Relatively little is known about the processes, both linear and nonlinear, by which signals are combined beyond V1. By presenting two stimulus components simultaneously, flickering at different temporal frequencies (frequency tagging) while measuring steady-state visual evoked potentials, we can assess responses to the individual components, including direct measurements of suppression on each other, and various nonlinear responses to their combination found at intermodulation frequencies. The result is a rather rich dataset of frequencies at which responses can be found. We presented pairs of sinusoidal gratings at different temporal frequencies, forming plaid patterns that were " coherent " (looking like a checkerboar d) and " noncoherent " (looking like a pair of transparently overlaid gratings), and found clear intermodulation responses to compound stimuli, indicating nonlinear summation. This might have been attributed to cross-orientation suppression except that the pattern of intermodulation responses differed for coherent and noncoherent patterns, whereas the effects of suppression (measured at the component frequencies) did not. A two-stage model of nonlinear summation involving conjunction detection with a logical AND gate described the data well, capturing the difference between coherent and noncoherent plaids over a wide array of possible response frequencies. Multistimulus frequency -tagged EEG in combination with computational modeling may be a very valuable tool in studying the conjunction of these signals. In the current study the results suggest a second-order mechanism responding selectively to coherent plaid patterns.
+28538990	45	48	EEG	T058	UMLS:C0013819
+28538990	102	108	linear	T082	UMLS:C0205132
+28538990	161	163	V1	T082	UMLS:C0038446
+28538990	219	229	flickering	T033	UMLS:C0243095
+28538990	313	337	visual evoked potentials	T038	UMLS:C0015217
+28538990	426	437	suppression	T038	UMLS:C0221103
+28538990	548	554	result	T033	UMLS:C0456984
+28538990	572	579	dataset	T170	UMLS:C0150098
+28538990	713	727	plaid patterns	T033	UMLS:C0243095
+28538990	752	778	looking like a checkerboar	T082	UMLS:C0456340
+28538990	788	799	noncoherent	T033	UMLS:C0243095
+28538990	840	857	overlaid gratings	T082	UMLS:C0456341
+28538990	944	953	summation	T038	UMLS:C0234109
+28538990	990	1007	cross-orientation	T082	UMLS:C1704322
+28538990	1008	1019	suppression	T038	UMLS:C0221103
+28538990	1036	1043	pattern	T082	UMLS:C0449774
+28538990	1099	1110	noncoherent	T033	UMLS:C0243095
+28538990	1111	1119	patterns	T082	UMLS:C0449774
+28538990	1144	1155	suppression	T038	UMLS:C0221103
+28538990	1207	1222	two-stage model	T170	UMLS:C3161035
+28538990	1236	1245	summation	T038	UMLS:C0234109
+28538990	1268	1277	detection	T058	UMLS:C1511790
+28538990	1293	1301	AND gate	T170	UMLS:C0282574
+28538990	1373	1384	noncoherent	T033	UMLS:C0243095
+28538990	1404	1409	array	T082	UMLS:C1510941
+28538990	1413	1421	possible	T033	UMLS:C0332149
+28538990	1476	1479	EEG	T058	UMLS:C0013819
+28538990	1612	1617	study	T062	UMLS:C2603343
+28538990	1622	1629	results	T033	UMLS:C0456984
+28538990	1698	1712	plaid patterns	T033	UMLS:C0243095

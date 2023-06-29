@@ -1,0 +1,37 @@
+16364460|t|Microinjection of ritanserin into the CA1 region of hippocampus improves scopolamine-induced amnesia in adult male rats.
+16364460|a|The effect of ritanserin (5-HT2 antagonist) on scopolamine (muscarinic cholinergic antagonist)-induced amnesia in Morris water maze (MWM) was investigated. Rats were divided into eight groups and bilaterally cannulated into CA1 region of the hippocampus. One week later, they received repeatedly vehicles (saline, DMSO, saline+DMSO), scopolamine (2 microg/0.5 microl saline/side; 30 min before training), ritanserin (2, 4 and 8 microg/0.5 microl DMSO/side; 20 min before training) and scopolamine (2 microg/0.5 microl; 30 min before ritanserin injection)+ritanserin (4 microg/0.5 microl DMSO) through cannulae each day. Animals were tested for four consecutive days (4 trial/day) in MWM during which the position of hidden platform was unchanged. In the fifth day, the platform was elevated above the water surface in another position to evaluate the function of motor, motivational and visual systems. The results showed a significant increase in escape latencies and traveled distances to find platform in scopolamine-treated group as compared to saline group. Ritanserin-treated rats (4 microg/0.5 microl/side) showed a significant decrease in the mentioned parameters as compared to DMSO-treated group. However, scopolamine and ritanserin co-administration resulted in a significant decrease in escape latencies and traveled distances as compared to the scopolamine-treated rats. Our findings show that microinjection of ritanserin into the CA1 region of the hippocampus improves the scopolamine-induced amnesia.
+16364460	18	28	ritanserin	ChemicalEntity	D016713
+16364460	73	84	scopolamine	ChemicalEntity	D012601
+16364460	93	100	amnesia	DiseaseOrPhenotypicFeature	D000647
+16364460	115	119	rats	OrganismTaxon	10116
+16364460	135	145	ritanserin	ChemicalEntity	D016713
+16364460	147	152	5-HT2	GeneOrGeneProduct	29595
+16364460	168	179	scopolamine	ChemicalEntity	D012601
+16364460	181	203	muscarinic cholinergic	GeneOrGeneProduct	25229
+16364460	224	231	amnesia	DiseaseOrPhenotypicFeature	D000647
+16364460	277	281	Rats	OrganismTaxon	10116
+16364460	435	439	DMSO	ChemicalEntity	D004121
+16364460	448	452	DMSO	ChemicalEntity	D004121
+16364460	455	466	scopolamine	ChemicalEntity	D012601
+16364460	526	536	ritanserin	ChemicalEntity	D016713
+16364460	567	571	DMSO	ChemicalEntity	D004121
+16364460	606	617	scopolamine	ChemicalEntity	D012601
+16364460	654	664	ritanserin	ChemicalEntity	D016713
+16364460	676	686	ritanserin	ChemicalEntity	D016713
+16364460	708	712	DMSO	ChemicalEntity	D004121
+16364460	1129	1140	scopolamine	ChemicalEntity	D012601
+16364460	1184	1194	Ritanserin	ChemicalEntity	D016713
+16364460	1203	1207	rats	OrganismTaxon	10116
+16364460	1308	1312	DMSO	ChemicalEntity	D004121
+16364460	1337	1348	scopolamine	ChemicalEntity	D012601
+16364460	1353	1363	ritanserin	ChemicalEntity	D016713
+16364460	1479	1490	scopolamine	ChemicalEntity	D012601
+16364460	1499	1503	rats	OrganismTaxon	10116
+16364460	1546	1556	ritanserin	ChemicalEntity	D016713
+16364460	1609	1620	scopolamine	ChemicalEntity	D012601
+16364460	1629	1636	amnesia	DiseaseOrPhenotypicFeature	D000647
+16364460	Negative_Correlation	D016713	29595	No
+16364460	Negative_Correlation	D016713	D000647	Novel
+16364460	Negative_Correlation	D016713	D012601	Novel
+16364460	Negative_Correlation	D012601	25229	No
+16364460	Positive_Correlation	D012601	D000647	No

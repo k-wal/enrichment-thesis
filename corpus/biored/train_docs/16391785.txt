@@ -1,0 +1,35 @@
+16391785|t|Homozygous deletion and reduced expression of the DOCK8 gene in human lung cancer.
+16391785|a|A homozygous deletion of the DOCK8 (dedicator of cytokinesis 8) locus at chromosome 9p24 was found in a lung cancer cell line by array-CGH analysis. Cloning of the full-length DOCK8 cDNA led us to define that the DOCK8 gene encodes a protein consisting of 2,099 amino acids. DOCK8 was expressed in a variety of human organs, including the lungs, and was also expressed in type II alveolar, bronchiolar epithelial and bronchial epithelial cells, which are considered as being progenitors for lung cancer cells. DOCK8 expression was reduced in 62/71 (87%) primary lung cancers compared with normal lung tissue, and the reduction occurred irrespective of the histological type of lung cancer. 5-Aza-2'-deoxy-cytidine and/or Trichostatin A treatments induced DOCK8 expression in lung cancer cell lines with reduced DOCK8 expression. Therefore, epigenetic mechanisms, including DNA methylation and histone deacetylation, were indicated to be involved in DOCK8 down-regulation in lung cancer cells. Further screening revealed homozygous deletions of the DOCK8 gene in a gastric and a breast cancer cell line. DOCK family proteins have been shown to play roles in regulation of migration, morphology, adhesion and growth of cells. Thus, the present results suggest that genetic and epigenetic inactivation of DOCK8 is involved in the development and/or progression of lung and other cancers by disturbing such regulations.
+16391785	50	55	DOCK8	GeneOrGeneProduct	81704
+16391785	64	69	human	OrganismTaxon	9606
+16391785	70	81	lung cancer	DiseaseOrPhenotypicFeature	D008175
+16391785	112	117	DOCK8	GeneOrGeneProduct	81704
+16391785	119	145	dedicator of cytokinesis 8	GeneOrGeneProduct	81704
+16391785	187	198	lung cancer	DiseaseOrPhenotypicFeature	D008175
+16391785	259	264	DOCK8	GeneOrGeneProduct	81704
+16391785	296	301	DOCK8	GeneOrGeneProduct	81704
+16391785	358	363	DOCK8	GeneOrGeneProduct	81704
+16391785	394	399	human	OrganismTaxon	9606
+16391785	574	585	lung cancer	DiseaseOrPhenotypicFeature	D008175
+16391785	593	598	DOCK8	GeneOrGeneProduct	81704
+16391785	645	657	lung cancers	DiseaseOrPhenotypicFeature	D008175
+16391785	760	771	lung cancer	DiseaseOrPhenotypicFeature	D008175
+16391785	773	796	5-Aza-2'-deoxy-cytidine	ChemicalEntity	D000077209
+16391785	804	818	Trichostatin A	ChemicalEntity	C012589
+16391785	838	843	DOCK8	GeneOrGeneProduct	81704
+16391785	858	869	lung cancer	DiseaseOrPhenotypicFeature	D008175
+16391785	894	899	DOCK8	GeneOrGeneProduct	81704
+16391785	1032	1037	DOCK8	GeneOrGeneProduct	81704
+16391785	1057	1068	lung cancer	DiseaseOrPhenotypicFeature	D008175
+16391785	1131	1136	DOCK8	GeneOrGeneProduct	81704
+16391785	1161	1174	breast cancer	DiseaseOrPhenotypicFeature	D001943
+16391785	1186	1190	DOCK	GeneOrGeneProduct	81704
+16391785	1385	1390	DOCK8	GeneOrGeneProduct	81704
+16391785	1444	1466	lung and other cancers	DiseaseOrPhenotypicFeature	D008175,D009369
+16391785	Negative_Correlation	C012589	D008175	Novel
+16391785	Positive_Correlation	C012589	81704	Novel
+16391785	Negative_Correlation	D000077209	D008175	Novel
+16391785	Positive_Correlation	D000077209	81704	Novel
+16391785	Association	81704	D009369	Novel
+16391785	Negative_Correlation	81704	D001943	Novel
+16391785	Negative_Correlation	81704	D008175	Novel

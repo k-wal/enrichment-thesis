@@ -1,0 +1,43 @@
+18808529|t|Isoproterenol induces primary loss of dystrophin in rat hearts: correlation with myocardial injury.
+18808529|a|The mechanism of isoproterenol-induced myocardial damage is unknown, but a mismatch of oxygen supply vs. demand following coronary hypotension and myocardial hyperactivity is the best explanation for the complex morphological alterations observed. Severe alterations in the structural integrity of the sarcolemma of cardiomyocytes have been demonstrated to be caused by isoproterenol. Taking into account that the sarcolemmal integrity is stabilized by the dystrophin-glycoprotein complex (DGC) that connects actin and laminin in contractile machinery and extracellular matrix and by integrins, this study tests the hypothesis that isoproterenol affects sarcolemmal stability through changes in the DGC and integrins. We found different sensitivity of the DGC and integrin to isoproterenol subcutaneous administration. Immunofluorescent staining revealed that dystrophin is the most sensitive among the structures connecting the actin in the cardiomyocyte cytoskeleton and the extracellular matrix. The sarcomeric actin dissolution occurred after the reduction or loss of dystrophin. Subsequently, after lysis of myofilaments, gamma-sarcoglycan, beta-dystroglycan, beta1-integrin, and laminin alpha-2 expressions were reduced followed by their breakdown, as epiphenomena of the myocytolytic process. In conclusion, administration of isoproterenol to rats results in primary loss of dystrophin, the most sensitive among the structural proteins that form the DGC that connects the extracellular matrix and the cytoskeleton in cardiomyocyte. These changes, related to ischaemic injury, explain the severe alterations in the structural integrity of the sarcolemma of cardiomyocytes and hence severe and irreversible injury induced by isoproterenol.
+18808529	0	13	Isoproterenol	ChemicalEntity	D007545
+18808529	38	48	dystrophin	GeneOrGeneProduct	24907
+18808529	52	55	rat	OrganismTaxon	10116
+18808529	81	98	myocardial injury	DiseaseOrPhenotypicFeature	D009202
+18808529	117	130	isoproterenol	ChemicalEntity	D007545
+18808529	139	156	myocardial damage	DiseaseOrPhenotypicFeature	D009202
+18808529	187	193	oxygen	ChemicalEntity	D010100
+18808529	231	242	hypotension	DiseaseOrPhenotypicFeature	D007022
+18808529	247	271	myocardial hyperactivity	DiseaseOrPhenotypicFeature	D009202
+18808529	470	483	isoproterenol	ChemicalEntity	D007545
+18808529	557	567	dystrophin	GeneOrGeneProduct	24907
+18808529	568	580	glycoprotein	GeneOrGeneProduct	11820
+18808529	609	614	actin	GeneOrGeneProduct	60
+18808529	619	626	laminin	GeneOrGeneProduct	309368
+18808529	732	745	isoproterenol	ChemicalEntity	D007545
+18808529	876	889	isoproterenol	ChemicalEntity	D007545
+18808529	960	970	dystrophin	GeneOrGeneProduct	24907
+18808529	1029	1034	actin	GeneOrGeneProduct	60
+18808529	1114	1119	actin	GeneOrGeneProduct	60
+18808529	1172	1182	dystrophin	GeneOrGeneProduct	24907
+18808529	1227	1244	gamma-sarcoglycan	GeneOrGeneProduct	305941
+18808529	1246	1263	beta-dystroglycan	GeneOrGeneProduct	114489
+18808529	1265	1279	beta1-integrin	GeneOrGeneProduct	24511
+18808529	1285	1300	laminin alpha-2	GeneOrGeneProduct	309368
+18808529	1433	1446	isoproterenol	ChemicalEntity	D007545
+18808529	1450	1454	rats	OrganismTaxon	10116
+18808529	1482	1492	dystrophin	GeneOrGeneProduct	24907
+18808529	1665	1681	ischaemic injury	DiseaseOrPhenotypicFeature	D007511
+18808529	1830	1843	isoproterenol	ChemicalEntity	D007545
+18808529	Association	D010100	D007022	No
+18808529	Association	D010100	D009202	No
+18808529	Association	24907	D007511	Novel
+18808529	Positive_Correlation	24907	309368	Novel
+18808529	Positive_Correlation	24907	24511	Novel
+18808529	Positive_Correlation	24907	114489	Novel
+18808529	Positive_Correlation	24907	305941	Novel
+18808529	Association	24907	11820	No
+18808529	Association	24907	D009202	Novel
+18808529	Positive_Correlation	D007545	D007511	No
+18808529	Positive_Correlation	D007545	D009202	No
+18808529	Negative_Correlation	D007545	24907	Novel

@@ -1,0 +1,77 @@
+27810802|t|Body Diffusion Weighted Imaging Using Non-CPMG Fast Spin Echo
+27810802|a|SS-FSE is a fast technique that does not suffer from off-resonance distortions to the degree that EPI does. Unlike EPI, SS-FSE is ill-suited to diffusion weighted imaging (DWI) due to the Carr-Purcell-Meiboom-Geill (CPMG) condition. Non-CPMG phase cycling does accommodate SS-FSE and DWI but places constraints on reconstruction, which are resolved here through parallel imaging. Additionally, improved echo stability can be achieved by using short duration and highly selective DIVERSE radiofrequency pulses. Here, signal-to-noise ratio (SNR) comparisons between EPI and nCPMG SS-FSE acquisitions and reconstruction techniques give similar values. Diffusion imaging with nCPMG SS-FSE gives similar SNR to an EPI acquisition, though apparent diffusion coefficient values are higher than seen with EPI. In vivo images have good image quality with little distortion. This method has the ability to capture distortion - free DWI images near areas of significant off-resonance as well as preserve adequate SNR. Parallel imaging and DIVERSE refocusing RF pulses allow shorter ETL compared to previous implementations and thus reduces phase encode direction blur and SAR accumulation.
+27810802	0	4	Body	T016	C0242821
+27810802	5	31	Diffusion Weighted Imaging	T060	C0598801
+27810802	38	61	Non-CPMG Fast Spin Echo	T060	C0079595
+27810802	62	68	SS-FSE	T060	C0079595
+27810802	74	78	fast	T080	C0456962
+27810802	79	88	technique	T060	C0079595
+27810802	115	128	off-resonance	T033	C2828093
+27810802	129	140	distortions	T080	C2919017
+27810802	160	163	EPI	T060	C0162734
+27810802	177	180	EPI	T060	C0162734
+27810802	182	188	SS-FSE	T060	C0079595
+27810802	206	232	diffusion weighted imaging	T060	C0598801
+27810802	234	237	DWI	T060	C0598801
+27810802	250	293	Carr-Purcell-Meiboom-Geill (CPMG) condition	T033	C0243095
+27810802	295	303	Non-CPMG	T033	C0243095
+27810802	304	309	phase	T079	C0205390
+27810802	310	317	cycling	T079	C1511572
+27810802	335	341	SS-FSE	T060	C0079595
+27810802	346	349	DWI	T060	C0598801
+27810802	354	360	places	T082	C0442504
+27810802	361	372	constraints	T169	C0443288
+27810802	376	390	reconstruction	T169	C0205245
+27810802	402	410	resolved	T033	C3714811
+27810802	424	440	parallel imaging	T060	C0079595
+27810802	456	464	improved	T033	C0184511
+27810802	465	479	echo stability	T080	C0205360
+27810802	505	519	short duration	T080	C0439593
+27810802	541	548	DIVERSE	T080	C1880371
+27810802	549	563	radiofrequency	T070	C2347883
+27810802	564	570	pulses	T067	C1710082
+27810802	578	599	signal-to-noise ratio	T081	C2986823
+27810802	601	604	SNR	T081	C2986823
+27810802	626	629	EPI	T060	C0162734
+27810802	634	639	nCPMG	T033	C0243095
+27810802	640	646	SS-FSE	T060	C0079595
+27810802	647	659	acquisitions	T066	C1708464
+27810802	664	689	reconstruction techniques	T169	C0449851
+27810802	695	702	similar	T080	C2348205
+27810802	703	709	values	T080	C0042295
+27810802	711	728	Diffusion imaging	T060	C0598801
+27810802	734	739	nCPMG	T033	C0243095
+27810802	740	746	SS-FSE	T060	C0079595
+27810802	753	760	similar	T080	C2348205
+27810802	761	764	SNR	T081	C2986823
+27810802	771	774	EPI	T060	C0162734
+27810802	775	786	acquisition	T066	C1708464
+27810802	795	825	apparent diffusion coefficient	T077	C3890194
+27810802	826	832	values	T080	C0042295
+27810802	837	843	higher	T080	C0205250
+27810802	859	862	EPI	T060	C0162734
+27810802	864	871	In vivo	T082	C1515655
+27810802	872	878	images	T170	C1704922
+27810802	889	902	image quality	T080	C0806487
+27810802	915	925	distortion	T080	C2919017
+27810802	966	976	distortion	T080	C2919017
+27810802	979	983	free	T169	C0332296
+27810802	984	987	DWI	T060	C0598801
+27810802	988	994	images	T170	C1704922
+27810802	1000	1005	areas	T082	C0205146
+27810802	1009	1020	significant	T078	C0750502
+27810802	1021	1034	off-resonance	T033	C2828093
+27810802	1064	1067	SNR	T081	C2986823
+27810802	1069	1085	Parallel imaging	T060	C0079595
+27810802	1090	1097	DIVERSE	T080	C1880371
+27810802	1109	1111	RF	T070	C2347883
+27810802	1112	1118	pulses	T066	C1708464
+27810802	1125	1136	shorter ETL	T079	C1254367
+27810802	1158	1173	implementations	T052	C1708476
+27810802	1183	1190	reduces	T080	C0392756
+27810802	1191	1196	phase	T079	C0205390
+27810802	1197	1203	encode	T052	C2700640
+27810802	1204	1213	direction	T082	C0449738
+27810802	1214	1218	blur	T080	C1511231
+27810802	1223	1226	SAR	T040	C1155281
+27810802	1227	1239	accumulation	T033	C4055506

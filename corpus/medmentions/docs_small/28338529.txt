@@ -1,0 +1,43 @@
+28338529|t|Dosimetry software Hermes Internal Radiation Dosimetry: from quantitative image reconstruction to voxel -level absorbed dose distribution
+28338529|a|The aim of this work is to validate a software package called Hermes Internal Radiation Dosimetry (HIRD) for internal dose assessment tailored for clinical practice. The software includes all the necessary steps to perform voxel -level absorbed dose calculations including quantitative reconstruction, image coregistration and volume of interest tools. The basics of voxel -level dosimetry methods and implementations to HIRD software are reviewed. Then, HIRD is validated using simulated SPECT / CT data and data from Lu-DOTATATE - treated patients by comparing absorbed kidney doses with OLINDA/EXM -based dosimetry. In addition, electron and photon dose components are studied separately in an example patient case. The simulation study showed that HIRD can reproduce time-activity curves accurately and produce absorbed doses with less than 10% error for the kidneys, liver and spleen. From the patient data, the absorbed kidney doses calculated using HIRD and using OLINDA/EXM were highly correlated (Pearson's correlation coefficient, r=0.98). From Bland-Altman plot analysis, an average absorbed dose difference of -2% was found between the methods. In addition, we found that in Lu-DOTATATE - treated patients, photons can contribute over 10% of the kidney's total dose and is partly because of cross-irradiation from high - uptake lesions close to the kidneys. HIRD is a straightforward voxel -level internal dosimetry software. Its clinical utility was verified with simulated and clinical Lu-DOTATATE - treated patient data. Patient studies also showed that photon contribution towards the total dose can be relatively high and voxel -level dose calculations can be valuable in cases where the target organ is in close proximity to high- uptake organs.
+28338529	0	18	Dosimetry software	T170	UMLS:C0037585
+28338529	19	54	Hermes Internal Radiation Dosimetry	T170	UMLS:C0037585
+28338529	176	192	software package	T170	UMLS:C0037585
+28338529	200	235	Hermes Internal Radiation Dosimetry	T170	UMLS:C0037585
+28338529	237	241	HIRD	T170	UMLS:C0037585
+28338529	261	271	assessment	T058	UMLS:C0220825
+28338529	285	302	clinical practice	T170	UMLS:C2986419
+28338529	308	316	software	T170	UMLS:C0037585
+28338529	484	489	tools	T170	UMLS:C0037589
+28338529	518	535	dosimetry methods	T170	UMLS:C0025663
+28338529	559	572	HIRD software	T170	UMLS:C0037585
+28338529	593	597	HIRD	T170	UMLS:C0037585
+28338529	627	632	SPECT	T058	UMLS:C0040399
+28338529	635	637	CT	T058	UMLS:C0040405
+28338529	657	668	Lu-DOTATATE	T103	UMLS:C3272344
+28338529	710	716	kidney	T017	UMLS:C0022646
+28338529	728	738	OLINDA/EXM	T170	UMLS:C0037585
+28338529	746	755	dosimetry	T170	UMLS:C0037585
+28338529	770	778	electron	T103	UMLS:C0013852
+28338529	861	877	simulation study	T062	UMLS:C0679083
+28338529	890	894	HIRD	T170	UMLS:C0037585
+28338529	1001	1008	kidneys	T017	UMLS:C0022646
+28338529	1010	1015	liver	T017	UMLS:C0023884
+28338529	1020	1026	spleen	T017	UMLS:C0037993
+28338529	1064	1070	kidney	T017	UMLS:C0022646
+28338529	1094	1098	HIRD	T170	UMLS:C0037585
+28338529	1109	1119	OLINDA/EXM	T170	UMLS:C0037585
+28338529	1325	1336	Lu-DOTATATE	T103	UMLS:C3272344
+28338529	1396	1404	kidney's	T017	UMLS:C0022646
+28338529	1471	1477	uptake	T038	UMLS:C0243144
+28338529	1478	1485	lesions	T033	UMLS:C0221198
+28338529	1486	1491	close	T033	UMLS:C3810854
+28338529	1499	1506	kidneys	T017	UMLS:C0022646
+28338529	1508	1512	HIRD	T170	UMLS:C0037585
+28338529	1547	1574	internal dosimetry software	T170	UMLS:C0037585
+28338529	1615	1624	simulated	T062	UMLS:C0679083
+28338529	1638	1649	Lu-DOTATATE	T103	UMLS:C3272344
+28338529	1850	1855	organ	T017	UMLS:C0178784
+28338529	1862	1877	close proximity	T082	UMLS:C1514583
+28338529	1887	1893	uptake	T038	UMLS:C0243144
+28338529	1894	1900	organs	T017	UMLS:C0178784

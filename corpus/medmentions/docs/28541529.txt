@@ -1,0 +1,66 @@
+28541529|t|Statistical algorithms improve accuracy of gene fusion detection
+28541529|a|Gene fusions are known to play critical roles in tumor pathogenesis. Yet, sensitive and specific algorithms to detect gene fusions in cancer do not currently exist. In this paper, we present a new statistical algorithm, MACHETE (Mismatched Alignment CHimEra Tracking Engine), which achieves highly sensitive and specific detection of gene fusions from RNA-Seq data, including the highest Positive Predictive Value (PPV) compared to the current state-of-the-art, as assessed in simulated data. We show that the best performing published algorithms either find large numbers of fusions in negative control data or suffer from low sensitivity detecting known driving fusions in gold standard settings, such as EWSR1-FLI1. As proof of principle that MACHETE discovers novel gene fusions with high accuracy in vivo, we mined public data to discover and subsequently PCR validate novel gene fusions missed by other algorithms in the ovarian cancer cell line OVCAR3. These results highlight the gains in accuracy achieved by introducing statistical models into fusion detection, and pave the way for unbiased discovery of potentially driving and druggable gene fusions in primary tumors.
+28541529	0	22	Statistical algorithms	T170	C0002045
+28541529	23	30	improve	T077	C2986411
+28541529	31	39	accuracy	T080	C0443131
+28541529	43	54	gene fusion	T063	C0178648
+28541529	55	64	detection	T033	C0442726
+28541529	65	77	Gene fusions	T063	C0178648
+28541529	105	110	roles	T077	C1705810
+28541529	114	119	tumor	T191	C0027651
+28541529	120	132	pathogenesis	T046	C0699748
+28541529	139	148	sensitive	T169	C0332324
+28541529	153	161	specific	T080	C0205369
+28541529	162	172	algorithms	T170	C0002045
+28541529	176	182	detect	T033	C0442726
+28541529	183	195	gene fusions	T063	C0178648
+28541529	199	205	cancer	T191	C0006826
+28541529	262	283	statistical algorithm	T170	C0002045
+28541529	285	292	MACHETE	T170	C0282574
+28541529	294	339	Mismatched Alignment CHimEra Tracking Engine)	T170	C0282574
+28541529	363	372	sensitive	T169	C0332324
+28541529	377	385	specific	T080	C0205369
+28541529	386	395	detection	T033	C0442726
+28541529	399	411	gene fusions	T063	C0178648
+28541529	417	429	RNA-Seq data	T170	C0026382
+28541529	445	452	highest	T080	C1522410
+28541529	453	484	Positive Predictive Value (PPV)	T081	C1514243
+28541529	530	538	assessed	T052	C1516048
+28541529	542	556	simulated data	T078	C1511726
+28541529	591	600	published	T170	C0993637
+28541529	601	611	algorithms	T170	C0002045
+28541529	624	637	large numbers	T081	C0449788
+28541529	641	648	fusions	T063	C0178648
+28541529	652	660	negative	T033	C0205160
+28541529	661	673	control data	T078	C1511726
+28541529	689	692	low	T080	C0205251
+28541529	693	704	sensitivity	T169	C0332324
+28541529	705	714	detecting	T033	C0442726
+28541529	729	736	fusions	T063	C0178648
+28541529	772	782	EWSR1-FLI1	T028	C1860425
+28541529	811	818	MACHETE	T170	C0282574
+28541529	829	834	novel	T080	C0205314
+28541529	835	847	gene fusions	T063	C0178648
+28541529	858	866	accuracy	T080	C0443131
+28541529	867	874	in vivo	T082	C1515655
+28541529	885	891	public	T092	C0678367
+28541529	892	896	data	T078	C1511726
+28541529	900	908	discover	T052	C1880355
+28541529	926	929	PCR	T063	C0032520
+28541529	930	938	validate	T062	C1519941
+28541529	939	944	novel	T080	C0205314
+28541529	945	957	gene fusions	T063	C0178648
+28541529	958	964	missed	T080	C1705492
+28541529	974	984	algorithms	T170	C0002045
+28541529	992	1006	ovarian cancer	T191	C1140680
+28541529	1007	1016	cell line	T025	C0334227
+28541529	1017	1023	OVCAR3	T025	C0334227
+28541529	1031	1038	results	T033	C0683954
+28541529	1062	1070	accuracy	T080	C0443131
+28541529	1095	1113	statistical models	T081,T170	C0026348
+28541529	1119	1125	fusion	T063	C0178648
+28541529	1126	1135	detection	T033	C0442726
+28541529	1167	1176	discovery	T052	C1880355
+28541529	1180	1191	potentially	T080	C3245505
+28541529	1214	1226	gene fusions	T063	C0178648
+28541529	1230	1244	primary tumors	T191	C0677930

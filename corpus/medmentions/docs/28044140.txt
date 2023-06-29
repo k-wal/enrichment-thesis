@@ -1,0 +1,65 @@
+28044140|t|Fibrinogen: A Marker in Predicting Diabetic Foot Ulcer Severity
+28044140|a|Aims. To examine whether fibrinogen levels are a valuable biomarker for assessing disease severity and monitoring disease progression in patients with diabetic foot ulcer (DFU). Methods. A retrospective study was designed to examine the utility of fibrinogen in estimating disease severity in patients with DFU admitted to our hospital between January 2015 and January 2016. In total, 152 patients with DFU were enrolled in the study group, and 52 age and gender matched people with diabetes but no DFU were included as the control group. DFU severity was assessed using Wagner criteria. Results. Patients with DFU were divided into 2 subgroups based on the Wagner criteria. Mean fibrinogen values were significantly higher in patients with DFU grade ≧ 3 compared to those with DFU grades 1-2 (5.23 ± 1.37 g/L versus 3.61 ± 1.04 g/L). Using ROC statistic, a cut-off value of 5.13 g/L indicated the possible amputation with a sensitivity of 81.8% and a specificity of 78.9% (positive predictive value [PPV] 78.6%, negative predictive value [89.0%]). Fibrinogen values were found to be correlated with CRP levels, neutrophil, and WBC count. Conclusions. Fibrinogen levels might be a valuable tool for assessing the disease severity and monitoring the disease progression in patients with DFU.
+28044140	0	10	Fibrinogen	T116,T121,T123	C0016006
+28044140	14	20	Marker	T201	C0005516
+28044140	35	54	Diabetic Foot Ulcer	T047	C1456868
+28044140	55	63	Severity	T080	C0392364
+28044140	73	80	examine	T058	C0220825
+28044140	89	106	fibrinogen levels	T034	C1318051
+28044140	122	131	biomarker	T201	C0005516
+28044140	136	145	assessing	T058	C0220825
+28044140	146	162	disease severity	T080	C0521117
+28044140	167	177	monitoring	T058	C1283169
+28044140	178	197	disease progression	T046	C0242656
+28044140	201	209	patients	T101	C0030705
+28044140	215	234	diabetic foot ulcer	T047	C1456868
+28044140	236	239	DFU	T047	C1456868
+28044140	253	272	retrospective study	T062	C0035363
+28044140	301	308	utility	T169	C0457083
+28044140	312	322	fibrinogen	T116,T121,T123	C0016006
+28044140	337	353	disease severity	T080	C0521117
+28044140	357	365	patients	T101	C0030705
+28044140	371	374	DFU	T047	C1456868
+28044140	375	383	admitted	T058	C0809949
+28044140	391	399	hospital	T073,T093	C0019994
+28044140	408	415	January	T080	C3829466
+28044140	425	432	January	T080	C3829466
+28044140	453	461	patients	T101	C0030705
+28044140	467	470	DFU	T047	C1456868
+28044140	492	503	study group	UnknownType	C0681860
+28044140	520	526	gender	T032	C0079399
+28044140	535	541	people	T101	C0030705
+28044140	547	555	diabetes	T047	C0011849
+28044140	563	566	DFU	T047	C1456868
+28044140	588	601	control group	T096	C0009932
+28044140	603	606	DFU	T047	C1456868
+28044140	607	615	severity	T080	C0392364
+28044140	661	669	Patients	T101	C0030705
+28044140	675	678	DFU	T047	C1456868
+28044140	699	708	subgroups	T185	C1515021
+28044140	744	761	fibrinogen values	T034	C1318051
+28044140	767	787	significantly higher	T081	C4055637
+28044140	791	799	patients	T101	C0030705
+28044140	805	808	DFU	T047	C1456868
+28044140	809	814	grade	T185	C0441800
+28044140	842	845	DFU	T047	C1456868
+28044140	846	852	grades	T185	C0441800
+28044140	905	918	ROC statistic	T081	C0034772
+28044140	922	935	cut-off value	T081	C1522609
+28044140	971	981	amputation	T061	C0002688
+28044140	989	1000	sensitivity	T081	C0036667
+28044140	1016	1027	specificity	T081	C0037791
+28044140	1038	1063	positive predictive value	T081	C1514243
+28044140	1065	1068	PPV	T081	C1514243
+28044140	1077	1102	negative predictive value	T081	C1513918
+28044140	1113	1130	Fibrinogen values	T034	C1318051
+28044140	1164	1174	CRP levels	T034	C0428528
+28044140	1176	1186	neutrophil	T059	C0200633
+28044140	1192	1201	WBC count	T059	C0023508
+28044140	1216	1233	Fibrinogen levels	T034	C1318051
+28044140	1263	1272	assessing	T058	C0220825
+28044140	1277	1293	disease severity	T080	C0521117
+28044140	1298	1308	monitoring	T058	C1283169
+28044140	1313	1332	disease progression	T046	C0242656
+28044140	1336	1344	patients	T101	C0030705
+28044140	1350	1353	DFU	T047	C1456868

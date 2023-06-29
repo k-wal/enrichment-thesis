@@ -1,0 +1,38 @@
+19881468|t|hOGG1 Ser326Cys polymorphism and risk of lung cancer by histological type.
+19881468|a|Human 8-oxoguanine DNA glycosylase 1 (hOGG1) has a major role in the repair of 8-hydroxyguanine, a major promutagenic DNA lesion. The genetic polymorphism rs1052133, which leads to substitution of the amino acid at codon 326 from Ser to Cys, shows functional differences, namely a decrease in enzyme activity in hOGG1-Cys326. Although several studies have investigated the association between rs1052133 and lung cancer susceptibility, the effect of this locus on lung cancer according to histology remains unclear. We therefore conducted a case-control study with 515 incident lung cancer cases and 1030 age- and sex-matched controls without cancer, and further conducted a meta-analysis. In overall analysis, the homozygous Cys/Cys genotype showed a significant association with lung cancer compared to Ser allele carrier status (odds ratio (OR)=1.31, 95% confidence interval (CI)=1.02-1.69). By histology-based analysis, the Cys/Cys genotype showed a significantly positive association with small-cell carcinoma (OR=2.40, 95% CI=1.32-4.49) and marginally significant association with adenocarcinoma (OR=1.32, 95% CI=0.98-1.77). A meta-analysis of previous and our present study revealed that this polymorphism is positively associated with adenocarcinoma, although suggestive associations were also found for squamous- and small-cell lung cancers. These results indicate that rs1052133 contributes to the risk of adenocarcinoma of lung.
+19881468	0	5	hOGG1	GeneOrGeneProduct	4968
+19881468	6	15	Ser326Cys	SequenceVariant	rs1052133
+19881468	41	52	lung cancer	DiseaseOrPhenotypicFeature	D008175
+19881468	75	80	Human	OrganismTaxon	9606
+19881468	81	111	8-oxoguanine DNA glycosylase 1	GeneOrGeneProduct	4968
+19881468	113	118	hOGG1	GeneOrGeneProduct	4968
+19881468	154	170	8-hydroxyguanine	ChemicalEntity	C024829
+19881468	230	239	rs1052133	SequenceVariant	rs1052133
+19881468	296	315	326 from Ser to Cys	SequenceVariant	rs1052133
+19881468	387	392	hOGG1	GeneOrGeneProduct	4968
+19881468	393	399	Cys326	SequenceVariant	rs1052133
+19881468	468	477	rs1052133	SequenceVariant	rs1052133
+19881468	482	493	lung cancer	DiseaseOrPhenotypicFeature	D008175
+19881468	538	549	lung cancer	DiseaseOrPhenotypicFeature	D008175
+19881468	652	663	lung cancer	DiseaseOrPhenotypicFeature	D008175
+19881468	717	723	cancer	DiseaseOrPhenotypicFeature	D009369
+19881468	855	866	lung cancer	DiseaseOrPhenotypicFeature	D008175
+19881468	1068	1088	small-cell carcinoma	DiseaseOrPhenotypicFeature	D018288
+19881468	1161	1175	adenocarcinoma	DiseaseOrPhenotypicFeature	D000230
+19881468	1317	1331	adenocarcinoma	DiseaseOrPhenotypicFeature	D000230
+19881468	1386	1423	squamous- and small-cell lung cancers	DiseaseOrPhenotypicFeature	D002289,D055752
+19881468	1453	1462	rs1052133	SequenceVariant	rs1052133
+19881468	1490	1512	adenocarcinoma of lung	DiseaseOrPhenotypicFeature	D000077192
+19881468	Association	D055752	rs1052133	Novel
+19881468	Association	D002289	rs1052133	Novel
+19881468	Positive_Correlation	D000230	rs1052133	Novel
+19881468	Positive_Correlation	D018288	rs1052133	Novel
+19881468	Association	C024829	4968	No
+19881468	Positive_Correlation	D000077192	rs1052133	Novel
+19881468	Positive_Correlation	4968	D055752	Novel
+19881468	Positive_Correlation	4968	D002289	Novel
+19881468	Positive_Correlation	4968	D000230	Novel
+19881468	Positive_Correlation	4968	D018288	Novel
+19881468	Association	4968	D000077192	Novel
+19881468	Association	4968	D008175	Novel
+19881468	Positive_Correlation	D008175	rs1052133	Novel

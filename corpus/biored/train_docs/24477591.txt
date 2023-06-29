@@ -1,0 +1,55 @@
+24477591|t|The -930A>G polymorphism of the CYBA gene is associated with premature coronary artery disease. A case-control study and gene-risk factors interactions.
+24477591|a|Reactive oxygen species (ROS) are involved in the pathogenesis of atherosclerosis and coronary artery disease (CAD). NADPH oxidases are the main source of ROS in the vasculature. p22phox is a critical component of vascular NADPH oxidases and is encoded by the CYBA (cytochrome b245 alpha) gene. The -930A>G CYBA polymorphism (rs9932581:A>G) modulates the activity of the CYBA promoter, and influences CYBA transcriptional activity. The aim of the present study was to analyze a possible association between the -930A>G polymorphism and CAD and to search for gene-traditional risk factors interactions. 480 subjects were studied: 240 patients with premature CAD, 240 age and sex matched blood donors. The -930A>G polymorphism was genotyped using the TaqMan - Pre-designed SNP Genotyping Assay (Applied Biosystems). The -930G allele carrier state was a risk factor for CAD (OR 2.03, 95% CI 1.21-3.44, P=0.007). A synergistic effect of the -930G allele with overweight/obesity (BMI --25) and cigarette smoking was found. The estimated CAD risk for BMI --25 and the -930G allele interaction was about 160% greater than that predicted by assuming additivity of the effects, and about 40% greater for interaction of cigarette smoking and the -930G allele. Overweight/obesity was a risk factor for CAD only in the -930G allele carriers (P<10(-10)) but not in the AA homozygotes (P=1.00). In conclusion the -930A>G CYBA polymorphism is associated with CAD in the Polish population. The -930G allele carriers are particularly at risk of consequences of obesity and tobacco smoke exposure.
+24477591	4	11	-930A>G	SequenceVariant	rs9932581
+24477591	32	36	CYBA	GeneOrGeneProduct	1535
+24477591	71	94	coronary artery disease	DiseaseOrPhenotypicFeature	D003324
+24477591	153	176	Reactive oxygen species	ChemicalEntity	D017382
+24477591	178	181	ROS	ChemicalEntity	D017382
+24477591	219	234	atherosclerosis	DiseaseOrPhenotypicFeature	D050197
+24477591	239	262	coronary artery disease	DiseaseOrPhenotypicFeature	D003324
+24477591	264	267	CAD	DiseaseOrPhenotypicFeature	D003324
+24477591	270	284	NADPH oxidases	GeneOrGeneProduct	1666
+24477591	308	311	ROS	ChemicalEntity	D017382
+24477591	332	339	p22phox	GeneOrGeneProduct	1535
+24477591	376	390	NADPH oxidases	GeneOrGeneProduct	1666
+24477591	413	417	CYBA	GeneOrGeneProduct	1535
+24477591	419	440	cytochrome b245 alpha	GeneOrGeneProduct	1535
+24477591	452	459	-930A>G	SequenceVariant	rs9932581
+24477591	460	464	CYBA	GeneOrGeneProduct	1535
+24477591	479	488	rs9932581	SequenceVariant	rs9932581
+24477591	489	492	A>G	SequenceVariant	rs9932581
+24477591	524	528	CYBA	GeneOrGeneProduct	1535
+24477591	554	558	CYBA	GeneOrGeneProduct	1535
+24477591	664	671	-930A>G	SequenceVariant	rs9932581
+24477591	689	692	CAD	DiseaseOrPhenotypicFeature	D003324
+24477591	786	794	patients	OrganismTaxon	9606
+24477591	810	813	CAD	DiseaseOrPhenotypicFeature	D003324
+24477591	857	864	-930A>G	SequenceVariant	rs9932581
+24477591	971	976	-930G	SequenceVariant	rs9932581
+24477591	1020	1023	CAD	DiseaseOrPhenotypicFeature	D003324
+24477591	1090	1095	-930G	SequenceVariant	rs9932581
+24477591	1108	1118	overweight	DiseaseOrPhenotypicFeature	D050177
+24477591	1119	1126	obesity	DiseaseOrPhenotypicFeature	D009765
+24477591	1185	1188	CAD	DiseaseOrPhenotypicFeature	D003324
+24477591	1215	1220	-930G	SequenceVariant	rs9932581
+24477591	1389	1394	-930G	SequenceVariant	rs9932581
+24477591	1403	1413	Overweight	DiseaseOrPhenotypicFeature	D050177
+24477591	1414	1421	obesity	DiseaseOrPhenotypicFeature	D009765
+24477591	1444	1447	CAD	DiseaseOrPhenotypicFeature	D003324
+24477591	1460	1465	-930G	SequenceVariant	rs9932581
+24477591	1552	1559	-930A>G	SequenceVariant	rs9932581
+24477591	1560	1564	CYBA	GeneOrGeneProduct	1535
+24477591	1597	1600	CAD	DiseaseOrPhenotypicFeature	D003324
+24477591	1631	1636	-930G	SequenceVariant	rs9932581
+24477591	1697	1704	obesity	DiseaseOrPhenotypicFeature	D009765
+24477591	1709	1716	tobacco	OrganismTaxon	4097
+24477591	Association	1666	D017382	No
+24477591	Association	D017382	D050197	No
+24477591	Association	D017382	D003324	No
+24477591	Association	D050177	1535	Novel
+24477591	Association	D009765	1535	Novel
+24477591	Positive_Correlation	rs9932581	D050177	Novel
+24477591	Positive_Correlation	rs9932581	D009765	Novel
+24477591	Positive_Correlation	rs9932581	D003324	Novel
+24477591	Association	1535	1666	No
+24477591	Association	1535	D003324	Novel

@@ -1,0 +1,35 @@
+20528871|t|Salvage therapy with nelarabine, etoposide, and cyclophosphamide in relapsed/refractory paediatric T-cell lymphoblastic leukaemia and lymphoma.
+20528871|a|A combination of 5 d of nelarabine (AraG) with 5 d of etoposide (VP) and cyclophosphamide (CPM) and prophylactic intrathecal chemotherapy was used as salvage therapy in seven children with refractory or relapsed T-cell leukaemia or lymphoma. The most common side effects attributable to the AraG included Grade 2 and 3 sensory and motor neuropathy and musculoskeletal pain. Haematological toxicity was greater for the combination than AraG alone, although median time to neutrophil and platelet recovery was consistent with other salvage therapies. All patients had some response to the combined therapy and five of the seven went into complete remission after one or two courses of AraG/VP/CPM. Our experience supports the safety of giving AraG as salvage therapy in synchrony with etoposide and cyclophosphamide, although neurological toxicity must be closely monitored.
+20528871	21	31	nelarabine	ChemicalEntity	C104457
+20528871	33	42	etoposide	ChemicalEntity	D005047
+20528871	48	64	cyclophosphamide	ChemicalEntity	D003520
+20528871	99	142	T-cell lymphoblastic leukaemia and lymphoma	DiseaseOrPhenotypicFeature	D015458|D016399
+20528871	168	178	nelarabine	ChemicalEntity	C104457
+20528871	180	184	AraG	ChemicalEntity	C104457
+20528871	198	207	etoposide	ChemicalEntity	D005047
+20528871	209	211	VP	ChemicalEntity	D005047
+20528871	217	233	cyclophosphamide	ChemicalEntity	D003520
+20528871	235	238	CPM	ChemicalEntity	D003520
+20528871	356	384	T-cell leukaemia or lymphoma	DiseaseOrPhenotypicFeature	D015458|D016399
+20528871	435	439	AraG	ChemicalEntity	C104457
+20528871	481	491	neuropathy	DiseaseOrPhenotypicFeature	D009422
+20528871	496	516	musculoskeletal pain	DiseaseOrPhenotypicFeature	D059352
+20528871	518	541	Haematological toxicity	DiseaseOrPhenotypicFeature	D006402
+20528871	579	583	AraG	ChemicalEntity	C104457
+20528871	697	705	patients	OrganismTaxon	9606
+20528871	827	831	AraG	ChemicalEntity	C104457
+20528871	832	834	VP	ChemicalEntity	D005047
+20528871	835	838	CPM	ChemicalEntity	D003520
+20528871	885	889	AraG	ChemicalEntity	C104457
+20528871	927	936	etoposide	ChemicalEntity	D005047
+20528871	941	957	cyclophosphamide	ChemicalEntity	D003520
+20528871	968	989	neurological toxicity	DiseaseOrPhenotypicFeature	D009422
+20528871	Cotreatment	D003520	D005047	Novel
+20528871	Negative_Correlation	D003520	D015458|D016399	Novel
+20528871	Negative_Correlation	D005047	D015458|D016399	Novel
+20528871	Positive_Correlation	C104457	D006402	Novel
+20528871	Positive_Correlation	C104457	D059352	Novel
+20528871	Positive_Correlation	C104457	D009422	Novel
+20528871	Cotreatment	C104457	D003520	Novel
+20528871	Cotreatment	C104457	D005047	Novel
+20528871	Negative_Correlation	C104457	D015458|D016399	Novel

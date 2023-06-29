@@ -1,0 +1,66 @@
+28247308|t|Differential Maturation of miR-17 ~ 92 Cluster Members in Human Cancer Cell Lines
+28247308|a|While some microRNAs are transcribed from a specific promoter, at least one third of human miRNA genes are clustered, wherein multiple miRNA genes are generated from a single primary transcript such as miR-17 ~ 92 cluster. Although six members of the cluster are generated from a single transcript, the mature level of each member may be diverse in various cell types. Here, we attempt to monitor the mature level of miR-17, miR-92a, and miR-20a from miR-17 ~ 92 cluster in blood (HL60 (human promyelocytic leukemia cells) and Jurkat) and breast (MDA-MB-231 and MCF-7) cancer cell lines. Interestingly, different mature levels of the miRNAs were observed in each cell line. While miR-20 was highly matured in HL60 and MDA-iMB-231 cell lines, higher mature level of miR-92a was observed in Jurkat cell line compared to that of miR-20 and miR-17. Further, the mature level of miRNAs was also measured in normal and cancer cell lines. Although the mature level of miR-17 and miR-92a increased in HL60 and Jurkat cell lines, miR-20 expression showed an almost identical level in blood cancer cell lines compared to controls. Conversely, miR-20 mature level significantly increased in breast cancer cell lines whereas the expression level of miR-92a was comparable in MDA-MB-231, MCF-7, and MCF-10A cell lines.
+28247308	13	23	Maturation	T038	UMLS:C1158729
+28247308	27	38	miR-17 ~ 92	T017	UMLS:C1537713
+28247308	39	46	Cluster	T017	UMLS:C0017258
+28247308	47	54	Members	T098	UMLS:C0680022
+28247308	58	63	Human	T204	UMLS:C0086418
+28247308	64	81	Cancer Cell Lines	T017	UMLS:C0334227
+28247308	93	102	microRNAs	T103	UMLS:C1101610
+28247308	107	118	transcribed	T038	UMLS:C0040649
+28247308	126	143	specific promoter	T103	UMLS:C0086860
+28247308	167	172	human	T204	UMLS:C0086418
+28247308	173	184	miRNA genes	T017	UMLS:C2825314
+28247308	189	198	clustered	T017	UMLS:C0017258
+28247308	217	228	miRNA genes	T017	UMLS:C2825314
+28247308	250	275	single primary transcript	T103	UMLS:C1136155
+28247308	284	303	miR-17 ~ 92 cluster	T017	UMLS:C1537713
+28247308	333	340	cluster	T017	UMLS:C0017258
+28247308	362	379	single transcript	T103	UMLS:C1519595
+28247308	439	449	cell types	T170	UMLS:C0449475
+28247308	483	489	mature	T038	UMLS:C1158729
+28247308	499	505	miR-17	T017	UMLS:C1537713
+28247308	507	514	miR-92a	T017	UMLS:C1537748
+28247308	520	527	miR-20a	T017	UMLS:C1825998
+28247308	533	544	miR-17 ~ 92	T017	UMLS:C1537713
+28247308	545	552	cluster	T017	UMLS:C0017258
+28247308	556	561	blood	T031	UMLS:C0005767
+28247308	563	567	HL60	T017	UMLS:C1512310
+28247308	569	574	human	T204	UMLS:C0086418
+28247308	575	597	promyelocytic leukemia	T038	UMLS:C2745900
+28247308	598	603	cells	T017	UMLS:C0007634
+28247308	609	615	Jurkat	T017	UMLS:C0376448
+28247308	621	627	breast	T017	UMLS:C0006141
+28247308	629	639	MDA-MB-231	T017	UMLS:C0007634
+28247308	644	649	MCF-7	T017	UMLS:C0596890
+28247308	651	668	cancer cell lines	T017	UMLS:C0334227
+28247308	695	701	mature	T038	UMLS:C1158729
+28247308	716	722	miRNAs	T103	UMLS:C1101610
+28247308	745	754	cell line	T017	UMLS:C0007634
+28247308	762	768	miR-20	T017	UMLS:C1825998
+28247308	780	787	matured	T038	UMLS:C1158729
+28247308	791	795	HL60	T017	UMLS:C1512310
+28247308	800	811	MDA-iMB-231	T017	UMLS:C0007634
+28247308	812	822	cell lines	T017	UMLS:C0007634
+28247308	831	837	mature	T038	UMLS:C1158729
+28247308	847	854	miR-92a	T017	UMLS:C1537748
+28247308	871	887	Jurkat cell line	T017	UMLS:C0376448
+28247308	908	914	miR-20	T017	UMLS:C1825998
+28247308	919	925	miR-17	T017	UMLS:C1537713
+28247308	956	962	miRNAs	T103	UMLS:C1101610
+28247308	995	1012	cancer cell lines	T017	UMLS:C0334227
+28247308	1043	1049	miR-17	T017	UMLS:C1537713
+28247308	1054	1061	miR-92a	T017	UMLS:C1537748
+28247308	1075	1079	HL60	T017	UMLS:C1512310
+28247308	1084	1101	Jurkat cell lines	T017	UMLS:C0376448
+28247308	1103	1109	miR-20	T017	UMLS:C1825998
+28247308	1110	1120	expression	T038	UMLS:C0017262
+28247308	1157	1180	blood cancer cell lines	T017	UMLS:C0334227
+28247308	1215	1221	miR-20	T017	UMLS:C1825998
+28247308	1262	1286	breast cancer cell lines	T017	UMLS:C1512505
+28247308	1299	1309	expression	T038	UMLS:C0017262
+28247308	1319	1326	miR-92a	T017	UMLS:C1537748
+28247308	1345	1355	MDA-MB-231	T017	UMLS:C0007634
+28247308	1357	1362	MCF-7	T017	UMLS:C0596890
+28247308	1368	1375	MCF-10A	T017	UMLS:C0007634
+28247308	1376	1386	cell lines	T017	UMLS:C0007634

@@ -1,0 +1,38 @@
+27653616|t|A framework for automatic creation of gold - standard rigid 3D-2D registration datasets
+27653616|a|Advanced image-guided medical procedures incorporate 2D intra-interventional information into pre-interventional 3D image and plan of the procedure through 3D / 2D image registration (32R). To enter clinical use, and even for publication purposes, novel and existing 32R methods have to be rigorously validated. The performance of a 32R method can be estimated by comparing it to an accurate reference or gold standard method (usually based on fiducial markers) on the same set of images (gold standard dataset). Objective validation and comparison of methods are possible only if evaluation methodology is standardized, and the gold standard dataset is made publicly available. Currently, very few such datasets exist and only one contains images of multiple patients acquired during a procedure. To encourage the creation of gold standard 32R datasets, we propose an automatic framework. The framework is based on rigid registration of fiducial markers. The main novelty is spatial grouping of fiducial markers on the carrier device, which enables automatic marker localization and identification across the 3D and 2D images. The proposed framework was demonstrated on clinical angiograms of 20 patients. Rigid 32R computed by the framework was more accurate than that obtained manually, with the respective target registration error below 0.027 mm compared to 0.040 mm. The framework is applicable for gold standard setup on any rigid anatomy, provided that the acquired images contain spatially grouped fiducial markers. The gold standard datasets and software will be made publicly available.
+27653616	38	42	gold	T103	UMLS:C0018026
+27653616	79	87	datasets	T170	UMLS:C0150098
+27653616	97	128	image-guided medical procedures	T058	UMLS:C1171347
+27653616	141	143	2D	T082	UMLS:C1705052
+27653616	244	246	3D	T082	UMLS:C0450363
+27653616	249	251	2D	T082	UMLS:C1705052
+27653616	493	497	gold	T103	UMLS:C0018026
+27653616	493	513	gold standard method	T058	UMLS:C0086143
+27653616	532	548	fiducial markers	T074	UMLS:C2826325
+27653616	569	575	images	T170	UMLS:C1704254
+27653616	577	581	gold	T103	UMLS:C0018026
+27653616	591	598	dataset	T170	UMLS:C0150098
+27653616	601	610	Objective	T170	UMLS:C0018017
+27653616	611	621	validation	T062	UMLS:C1519941
+27653616	669	691	evaluation methodology	T062	UMLS:C0015194
+27653616	717	721	gold	T103	UMLS:C0018026
+27653616	731	738	dataset	T170	UMLS:C0150098
+27653616	792	800	datasets	T170	UMLS:C0150098
+27653616	829	835	images	T170	UMLS:C1704254
+27653616	875	884	procedure	T058	UMLS:C0430022
+27653616	915	919	gold	T103	UMLS:C0018026
+27653616	933	941	datasets	T170	UMLS:C3890581
+27653616	1026	1042	fiducial markers	T074	UMLS:C2826325
+27653616	1084	1100	fiducial markers	T074	UMLS:C2826325
+27653616	1148	1154	marker	T074	UMLS:C2745888
+27653616	1205	1207	2D	T082	UMLS:C1705052
+27653616	1208	1214	images	T170	UMLS:C1704254
+27653616	1268	1278	angiograms	T058	UMLS:C0002978
+27653616	1305	1313	computed	T058	UMLS:C1441526
+27653616	1493	1497	gold	T103	UMLS:C0018026
+27653616	1526	1533	anatomy	T091	UMLS:C0002808
+27653616	1562	1568	images	T170	UMLS:C1704254
+27653616	1595	1611	fiducial markers	T074	UMLS:C2826325
+27653616	1617	1621	gold	T103	UMLS:C0018026
+27653616	1631	1639	datasets	T170	UMLS:C0150098
+27653616	1644	1652	software	T170	UMLS:C0037585

@@ -1,0 +1,44 @@
+20846357|t|A novel mutation in the connexin 26 gene (GJB2) in a child with clinical and histological features of keratitis-ichthyosis-deafness (KID) syndrome.
+20846357|a|BACKGROUND: Keratitis-ichthyosis-deafness (KID) syndrome is a rare congenital ectodermal disorder, caused by heterozygous missense mutation in GJB2, encoding the gap junction protein connexin 26. The commonest mutation is the p.Asp50Asn mutation, and only a few other mutations have been described to date. AIM: To report the fatal clinical course and characterize the genetic background of a premature male neonate with the clinical and histological features of KID syndrome. METHODS: Genomic DNA was extracted from peripheral blood and used for PCR amplification of the GJB2 gene. Direct sequencing was used for mutation analysis. RESULTS: The clinical features included hearing impairment, ichthyosiform erythroderma with hyperkeratotic plaques, palmoplantar keratoderma, alopecia of the scalp and eyelashes, and a thick vernix caseosa-like covering of the scalp. On histological analysis, features characteristic of KID syndrome, such as acanthosis and papillomatosis of the epidermis with basket-weave hyperkeratosis, were seen. The skin symptoms were treated successfully with acitretin 0.5 mg/kg. The boy developed intraventricular and intracerebral haemorrhage, leading to hydrocephalus. His condition was further complicated by septicaemia and meningitis caused by infection with extended-spectrum beta-lactamase-producing Klebsiella pneumoniae. Severe respiratory failure followed, and the child died at 46 weeks of gestational age (13 weeks postnatally). Sequencing of the GJB2 gene showed that the child was heterozygous for a novel nucleotide change, c.263C>T, in exon 2, leading to a substitution of alanine for valine at position 88 (p.Ala88Val). CONCLUSIONS: This study has identified a new heterozygous de novo mutation in the Cx26 gene (c.263C>T; p.Ala88Val) leading to KID syndrome.
+20846357	24	35	connexin 26	GeneOrGeneProduct	2706
+20846357	42	46	GJB2	GeneOrGeneProduct	2706
+20846357	102	146	keratitis-ichthyosis-deafness (KID) syndrome	DiseaseOrPhenotypicFeature	C536168
+20846357	160	204	Keratitis-ichthyosis-deafness (KID) syndrome	DiseaseOrPhenotypicFeature	C536168
+20846357	215	245	congenital ectodermal disorder	DiseaseOrPhenotypicFeature	D004476
+20846357	291	295	GJB2	GeneOrGeneProduct	2706
+20846357	331	342	connexin 26	GeneOrGeneProduct	2706
+20846357	374	384	p.Asp50Asn	SequenceVariant	rs28931594
+20846357	611	623	KID syndrome	DiseaseOrPhenotypicFeature	C536168
+20846357	720	724	GJB2	GeneOrGeneProduct	2706
+20846357	821	839	hearing impairment	DiseaseOrPhenotypicFeature	D034381
+20846357	841	867	ichthyosiform erythroderma	DiseaseOrPhenotypicFeature	D016113
+20846357	897	921	palmoplantar keratoderma	DiseaseOrPhenotypicFeature	D007645
+20846357	923	958	alopecia of the scalp and eyelashes	DiseaseOrPhenotypicFeature	D000505
+20846357	1068	1080	KID syndrome	DiseaseOrPhenotypicFeature	C536168
+20846357	1090	1100	acanthosis	DiseaseOrPhenotypicFeature	D000052
+20846357	1105	1119	papillomatosis	DiseaseOrPhenotypicFeature	D010212
+20846357	1155	1169	hyperkeratosis	DiseaseOrPhenotypicFeature	D017488
+20846357	1231	1240	acitretin	ChemicalEntity	D017255
+20846357	1270	1316	intraventricular and intracerebral haemorrhage	DiseaseOrPhenotypicFeature	D000074042,D002543
+20846357	1329	1342	hydrocephalus	DiseaseOrPhenotypicFeature	D006849
+20846357	1385	1396	septicaemia	DiseaseOrPhenotypicFeature	D018805
+20846357	1401	1411	meningitis	DiseaseOrPhenotypicFeature	D008581
+20846357	1422	1431	infection	DiseaseOrPhenotypicFeature	D007239
+20846357	1480	1501	Klebsiella pneumoniae	DiseaseOrPhenotypicFeature	D007710
+20846357	1510	1529	respiratory failure	DiseaseOrPhenotypicFeature	D012131
+20846357	1632	1636	GJB2	GeneOrGeneProduct	2706
+20846357	1712	1720	c.263C>T	SequenceVariant	c|SUB|C|263|T
+20846357	1762	1795	alanine for valine at position 88	SequenceVariant	p|SUB|A|88|V
+20846357	1797	1807	p.Ala88Val	SequenceVariant	p|SUB|A|88|V
+20846357	1892	1896	Cx26	GeneOrGeneProduct	2706
+20846357	1903	1911	c.263C>T	SequenceVariant	c|SUB|C|263|T
+20846357	1913	1923	p.Ala88Val	SequenceVariant	p|SUB|A|88|V
+20846357	1936	1948	KID syndrome	DiseaseOrPhenotypicFeature	C536168
+20846357	Positive_Correlation	rs28931594	C536168	No
+20846357	Positive_Correlation	p|SUB|A|88|V	C536168	Novel
+20846357	Positive_Correlation	c|SUB|C|263|T	C536168	Novel
+20846357	Association	2706	C536168	Novel
+20846357	Negative_Correlation	D017488	D017255	Novel
+20846357	Negative_Correlation	D010212	D017255	Novel
+20846357	Negative_Correlation	D000052	D017255	Novel
+20846357	Negative_Correlation	C536168	D017255	Novel

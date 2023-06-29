@@ -1,0 +1,98 @@
+27698942|t|Optimization of Early Response Monitoring and Prediction of Cancer Antiangiogenesis Therapy via Noninvasive PET Molecular Imaging Strategies of Multifactorial Bioparameters
+27698942|a|Objective: Antiangiogenesis therapy (AAT) has provided substantial benefits regarding improved outcomes and survival for suitable patients in clinical settings. Therefore, the early definition of therapeutic effects is urgently needed to guide cancer AAT. We aimed to optimize the early response monitoring and prediction of AAT efficacy, as indicated by the multi-targeted anti-angiogenic drug sunitinib in U87MG tumors, using noninvasive positron emission computed tomography (PET) molecular imaging strategies of multifactorial bioparameters. Methods: U87MG tumor mice were treated via intragastric injections of sunitinib (80 mg/kg) or vehicle for 7 consecutive days. Longitudinal MicroPET/CT scans with (18)F-FDG, (18)F-FMISO, (18)F-ML-10 and (18)F-Alfatide II were acquired to quantitatively measure metabolism, hypoxia, apoptosis and angiogenesis on days 0, 1, 3, 7 and 13 following therapy initiation. Tumor tissues from a dedicated group of mice were collected for immunohistochemical (IHC) analysis of key biomarkers (Glut-1, CA-IX, TUNEL, ανβ3 and CD31) at the time points of PET imaging. The tumor sizes and mouse weights were measured throughout the study. The tumor uptake (ID%/gmax), the ratios of the tumor / muscle (T / M) for each probe, and the tumor growth ratios (TGR) were calculated and used for statistical analyses of the differences and correlations. Results: Sunitinib successfully inhibited U87MG tumor growth with significant differences in the tumor size from day 9 after sunitinib treatment compared with the control group (P < 0.01). The uptakes of (18)F-FMISO (reduced hypoxia), (18)F-ML-10 (increased apoptosis) and (18)F-Alfatide II (decreased angiogenesis) in the tumor lesions significantly changed during the early stage (days 1 to 3) of sunitinib treatment; however, the uptake of (18)F-FDG (increased glucose metabolism) was significantly different during the late stage. The PET imaging data of each probe were all confirmed via ex vivo IHC of the relevant biomarkers. Notably, the PET imaging of (18)F-Alfatide II and (18)F-FMISO was significantly correlated (all P < 0.05) with TGR, whereas the imaging of (18)F-FDG and (18)F-ML-10 was not significantly correlated with TGR. Conclusion: Based on the tumor uptake of the PET probes and their correlations with MVD and TGR, (18)F-Alfatide II PET may not only monitor the early response but also precisely predict the therapeutic efficacy of the multi-targeted, anti-angiogenic drug sunitinib in U87MG tumors. In conclusion, it is feasible to optimize the early response monitoring and efficacy prediction of cancer AAT using noninvasive PET molecular imaging strategies of multifactorial bioparameters, such as angiogenesis imaging with (18)F-Alfatide II, which represents an RGD -based probe.
+27698942	22	41	Response Monitoring	T058	UMLS:C1822578
+27698942	60	66	Cancer	T038	UMLS:C0006826
+27698942	67	91	Antiangiogenesis Therapy	T058	UMLS:C0281318
+27698942	96	107	Noninvasive	T170	UMLS:C2986496
+27698942	108	129	PET Molecular Imaging	T058	UMLS:C0032743
+27698942	144	158	Multifactorial	T033	UMLS:C1837655
+27698942	184	208	Antiangiogenesis therapy	T058	UMLS:C0281318
+27698942	210	213	AAT	T058	UMLS:C0281318
+27698942	369	388	therapeutic effects	T201	UMLS:C1527144
+27698942	417	423	cancer	T038	UMLS:C0006826
+27698942	424	427	AAT	T058	UMLS:C0281318
+27698942	460	479	response monitoring	T058	UMLS:C1822578
+27698942	498	501	AAT	T058	UMLS:C0281318
+27698942	547	567	anti-angiogenic drug	T103	UMLS:C0596087
+27698942	568	577	sunitinib	T103	UMLS:C1176020
+27698942	581	593	U87MG tumors	T038	UMLS:C0027651
+27698942	601	612	noninvasive	T170	UMLS:C2986496
+27698942	613	674	positron emission computed tomography (PET) molecular imaging	T058	UMLS:C1699633
+27698942	689	703	multifactorial	T033	UMLS:C1837655
+27698942	728	739	U87MG tumor	T038	UMLS:C0027651
+27698942	740	744	mice	T204	UMLS:C0025929
+27698942	762	774	intragastric	T082	UMLS:C0442113
+27698942	775	785	injections	T058	UMLS:C0021485
+27698942	789	798	sunitinib	T103	UMLS:C1176020
+27698942	813	820	vehicle	T103	UMLS:C0042444
+27698942	845	857	Longitudinal	T082	UMLS:C0205127
+27698942	858	875	MicroPET/CT scans	T058	UMLS:C1699633
+27698942	881	890	(18)F-FDG	T103	UMLS:C0046056
+27698942	892	904	(18)F-FMISO,	T103	UMLS:C3661419
+27698942	905	916	(18)F-ML-10	T103	UMLS:C2700345
+27698942	921	938	(18)F-Alfatide II	T103	UMLS:C3852643
+27698942	979	989	metabolism	T038	UMLS:C0025519
+27698942	991	998	hypoxia	T038	UMLS:C0242184
+27698942	1000	1009	apoptosis	T038	UMLS:C0162638
+27698942	1014	1026	angiogenesis	T038	UMLS:C1519670
+27698942	1063	1070	therapy	T058	UMLS:C0087111
+27698942	1083	1096	Tumor tissues	T017	UMLS:C0475358
+27698942	1123	1127	mice	T204	UMLS:C0025929
+27698942	1189	1199	biomarkers	T103	UMLS:C0041365
+27698942	1201	1207	Glut-1	T103	UMLS:C1527589
+27698942	1209	1214	CA-IX	T103	UMLS:C2351139
+27698942	1223	1227	ανβ3	T103	UMLS:C1138427
+27698942	1232	1236	CD31	T103	UMLS:C0081939
+27698942	1260	1271	PET imaging	T058	UMLS:C1699633
+27698942	1277	1288	tumor sizes	T082	UMLS:C0475440
+27698942	1293	1298	mouse	T204	UMLS:C0025929
+27698942	1347	1352	tumor	T038	UMLS:C0027651
+27698942	1353	1359	uptake	T038	UMLS:C0243144
+27698942	1390	1395	tumor	T038	UMLS:C0027651
+27698942	1398	1404	muscle	T017	UMLS:C0026845
+27698942	1406	1407	T	T038	UMLS:C0027651
+27698942	1410	1411	M	T017	UMLS:C0026845
+27698942	1559	1568	Sunitinib	T103	UMLS:C1176020
+27698942	1647	1657	tumor size	T082	UMLS:C0475440
+27698942	1675	1684	sunitinib	T103	UMLS:C1176020
+27698942	1685	1694	treatment	T058	UMLS:C1533734
+27698942	1743	1750	uptakes	T038	UMLS:C0243144
+27698942	1754	1765	(18)F-FMISO	T103	UMLS:C3661419
+27698942	1775	1782	hypoxia	T038	UMLS:C0242184
+27698942	1785	1796	(18)F-ML-10	T103	UMLS:C2700345
+27698942	1808	1817	apoptosis	T038	UMLS:C0162638
+27698942	1823	1840	(18)F-Alfatide II	T103	UMLS:C3852643
+27698942	1852	1864	angiogenesis	T038	UMLS:C1519670
+27698942	1873	1878	tumor	T038	UMLS:C0027651
+27698942	1879	1886	lesions	T033	UMLS:C0221198
+27698942	1949	1958	sunitinib	T103	UMLS:C1176020
+27698942	1959	1968	treatment	T058	UMLS:C1533734
+27698942	1983	1989	uptake	T038	UMLS:C0243144
+27698942	1993	2002	(18)F-FDG	T103	UMLS:C0046056
+27698942	2014	2032	glucose metabolism	T038	UMLS:C0596620
+27698942	2089	2100	PET imaging	T058	UMLS:C1699633
+27698942	2171	2181	biomarkers	T103	UMLS:C0041365
+27698942	2196	2207	PET imaging	T058	UMLS:C1699633
+27698942	2211	2228	(18)F-Alfatide II	T103	UMLS:C3852643
+27698942	2233	2244	(18)F-FMISO	T103	UMLS:C3661419
+27698942	2322	2331	(18)F-FDG	T103	UMLS:C0046056
+27698942	2336	2347	(18)F-ML-10	T103	UMLS:C2700345
+27698942	2416	2421	tumor	T038	UMLS:C0027651
+27698942	2422	2428	uptake	T038	UMLS:C0243144
+27698942	2436	2439	PET	T058	UMLS:C1699633
+27698942	2488	2505	(18)F-Alfatide II	T103	UMLS:C3852643
+27698942	2506	2509	PET	T058	UMLS:C1699633
+27698942	2541	2549	response	T058	UMLS:C1822578
+27698942	2625	2645	anti-angiogenic drug	T103	UMLS:C0596087
+27698942	2646	2655	sunitinib	T103	UMLS:C1176020
+27698942	2659	2671	U87MG tumors	T038	UMLS:C0027651
+27698942	2725	2744	response monitoring	T058	UMLS:C1822578
+27698942	2772	2778	cancer	T038	UMLS:C0006826
+27698942	2779	2782	AAT	T058	UMLS:C0281318
+27698942	2789	2800	noninvasive	T170	UMLS:C2986496
+27698942	2801	2822	PET molecular imaging	T058	UMLS:C0032743
+27698942	2837	2851	multifactorial	T033	UMLS:C1837655
+27698942	2875	2887	angiogenesis	T038	UMLS:C1519670
+27698942	2888	2895	imaging	T058	UMLS:C0011923
+27698942	2901	2918	(18)F-Alfatide II	T103	UMLS:C3852643
+27698942	2940	2943	RGD	T103	UMLS:C0052350

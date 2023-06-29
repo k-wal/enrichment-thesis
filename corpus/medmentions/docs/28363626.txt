@@ -1,0 +1,128 @@
+28363626|t|Validating Signs and Symptoms From An Actual Mass Casualty Incident to Characterize An Irritant Gas Syndrome Agent (IGSA) Exposure: A First Step in The Development of a Novel IGSA Triage Algorithm
+28363626|a|Chemical exposures can pose a significant threat to life. Rapid assessment by first responders / emergency nurses is required to reduce death and disability. Currently, no informatics tools for irritant gas syndrome agent s (IGSA) exposures exist to process victims efficiently, continuously monitor for latent signs/symptoms, or make triage recommendations. This study describes the first step in developing ED informatics tools for chemical incidents: validation of signs/symptoms that characterize an IGSA syndrome. Data abstracted from 146 patients treated for chlorine exposure in one emergency department during a 2005 train derailment and 152 patients not exposed to chlorine (a comparison group) were mapped to 93 possible signs/symptoms within 2 tools (WISER and CHEMM-IST) designed to assist emergency responders / emergency nurses with managing hazardous material exposures. Inferential statistics (χ(2)/ Fisher's exact test) and diagnostics tests were used to examine mapped signs/symptoms of persons who were and were not exposed to chlorine. Three clusters of signs/symptoms are statistically associated with an IGSA syndrome (P < .01): respiratory (shortness of breath, wheezing, coughing, and choking); chest discomfort (tightness, pain, and burning), and eye, nose and/or throat (pain, irritation, and burning). The syndrome requires the presence of signs/symptoms from at least 2 of these clusters. The latency period must also be considered for exposed / potentially exposed persons. This study uses actual patient data from a chemical incident to characterize and validate signs/symptoms of an IGSA syndrome. Validating signs/symptoms is the first step in developing new ED informatics tools with the potential to revolutionize the process by which emergency nurses manage triage victims of chemical incidents.
+28363626	0	10	Validating	T062	C1519941
+28363626	11	29	Signs and Symptoms	T184	C0037088
+28363626	45	67	Mass Casualty Incident	T051	C1955957
+28363626	71	83	Characterize	T052	C1880022
+28363626	87	114	Irritant Gas Syndrome Agent	T131	C1254354
+28363626	116	120	IGSA	T131	C1254354
+28363626	152	163	Development	T169	C1527148
+28363626	169	174	Novel	T080	C0205314
+28363626	175	179	IGSA	T131	C1254354
+28363626	180	186	Triage	T061	C0040861
+28363626	187	196	Algorithm	T170	C0002045
+28363626	197	215	Chemical exposures	T033	C0678803
+28363626	227	238	significant	T078	C0750502
+28363626	239	245	threat	T078	C0749385
+28363626	249	253	life	T078	C0376558
+28363626	261	271	assessment	T058	C0220825
+28363626	275	291	first responders	T097	C3824749
+28363626	294	310	emergency nurses	T097	C0557519
+28363626	314	322	required	T169	C1514873
+28363626	326	332	reduce	T080	C0392756
+28363626	333	338	death	T040	C0011065
+28363626	343	353	disability	T033	C0231170
+28363626	366	368	no	T169	C1518422
+28363626	369	386	informatics tools	T170	C0037589
+28363626	391	418	irritant gas syndrome agent	T131	C1254354
+28363626	422	426	IGSA	T131	C1254354
+28363626	428	437	exposures	T080	C0332157
+28363626	438	443	exist	T077	C2987476
+28363626	447	454	process	T067	C1522240
+28363626	455	462	victims	T098	C0680681
+28363626	463	474	efficiently	T080	C0442799
+28363626	476	488	continuously	T078	C0549178
+28363626	489	496	monitor	T058	C1283169
+28363626	501	507	latent	T080	C0205275
+28363626	508	522	signs/symptoms	T184	C0037088
+28363626	532	538	triage	T061	C0040861
+28363626	539	554	recommendations	T078	C0034866
+28363626	561	566	study	T062	C2603343
+28363626	606	608	ED	T073,T093	C0562508
+28363626	609	626	informatics tools	T170	C0037589
+28363626	631	649	chemical incidents	T068,T070	C2350599
+28363626	651	661	validation	T062	C1519941
+28363626	665	679	signs/symptoms	T184	C0037088
+28363626	685	697	characterize	T052	C1880022
+28363626	701	705	IGSA	T131	C1254354
+28363626	706	714	syndrome	T047	C0039082
+28363626	716	731	Data abstracted	T079	C3259344
+28363626	741	749	patients	T101	C0030705
+28363626	750	757	treated	T061	C0087111
+28363626	762	779	chlorine exposure	T033	C0239049
+28363626	787	807	emergency department	T073,T093	C0562508
+28363626	808	814	during	T079	C0347984
+28363626	822	838	train derailment	T067	C0337199
+28363626	847	855	patients	T101	C0030705
+28363626	856	859	not	T169	C1518422
+28363626	860	879	exposed to chlorine	T033	C0239049
+28363626	883	899	comparison group	T096	C0009932
+28363626	906	912	mapped	T170	C3858752
+28363626	928	942	signs/symptoms	T184	C0037088
+28363626	952	957	tools	T170	C0037589
+28363626	959	964	WISER	T170	C0037589
+28363626	969	978	CHEMM-IST	T170	C0037589
+28363626	980	988	designed	T052	C1707689
+28363626	992	998	assist	T080	C1269765
+28363626	999	1019	emergency responders	T097	C3178988
+28363626	1022	1038	emergency nurses	T097	C0557519
+28363626	1053	1071	hazardous material	T131	C0018626
+28363626	1072	1081	exposures	T080	C0332157
+28363626	1083	1105	Inferential statistics	T081	C0032685
+28363626	1113	1132	Fisher's exact test	T170	C0237913
+28363626	1138	1155	diagnostics tests	T060	C0086143
+28363626	1161	1165	used	T169	C1524063
+28363626	1177	1183	mapped	T170	C3858752
+28363626	1184	1198	signs/symptoms	T184	C0037088
+28363626	1202	1209	persons	T098	C0027361
+28363626	1232	1251	exposed to chlorine	T033	C0239049
+28363626	1259	1267	clusters	T081	C1704332
+28363626	1271	1285	signs/symptoms	T184	C0037088
+28363626	1290	1303	statistically	T081	C2828391
+28363626	1304	1319	associated with	T080	C0332281
+28363626	1323	1327	IGSA	T131	C1254354
+28363626	1328	1336	syndrome	T047	C0039082
+28363626	1348	1359	respiratory	T169	C0521346
+28363626	1361	1380	shortness of breath	T184	C0013404
+28363626	1382	1390	wheezing	T184	C0043144
+28363626	1392	1400	coughing	T184	C0010200
+28363626	1406	1413	choking	T046	C0008301
+28363626	1416	1432	chest discomfort	T184	C0235710
+28363626	1434	1443	tightness	T184	C0232292
+28363626	1445	1449	pain	T184	C0008031
+28363626	1455	1462	burning	T184	C0740396
+28363626	1469	1472	eye	T023	C0015392
+28363626	1474	1478	nose	T023	C0028429
+28363626	1486	1492	throat	T023	C3665375
+28363626	1494	1498	pain	T184	C0030193
+28363626	1500	1510	irritation	T067	C0441723
+28363626	1516	1523	burning	T184	C0085624
+28363626	1530	1538	syndrome	T047	C0039082
+28363626	1552	1560	presence	T033	C0150312
+28363626	1564	1578	signs/symptoms	T184	C0037088
+28363626	1604	1612	clusters	T081	C1704332
+28363626	1618	1632	latency period	T079	C0023103
+28363626	1646	1656	considered	T078	C0750591
+28363626	1661	1668	exposed	T098	C1998203
+28363626	1671	1682	potentially	T080	C3245505
+28363626	1683	1698	exposed persons	T098	C1998203
+28363626	1705	1710	study	T062	C2603343
+28363626	1711	1715	uses	T169	C1524063
+28363626	1723	1735	patient data	T170	C2707520
+28363626	1743	1760	chemical incident	T068,T070	C2350599
+28363626	1764	1776	characterize	T052	C1880022
+28363626	1781	1789	validate	T062	C1519941
+28363626	1790	1804	signs/symptoms	T184	C0037088
+28363626	1811	1815	IGSA	T131	C1254354
+28363626	1816	1824	syndrome	T047	C0039082
+28363626	1826	1836	Validating	T062	C1519941
+28363626	1837	1851	signs/symptoms	T184	C0037088
+28363626	1884	1887	new	T080	C0205314
+28363626	1888	1890	ED	T073,T093	C0562508
+28363626	1891	1908	informatics tools	T170	C0037589
+28363626	1918	1927	potential	T080	C3245505
+28363626	1949	1956	process	T067	C1522240
+28363626	1966	1982	emergency nurses	T097	C0557519
+28363626	1990	1996	triage	T061	C0040861
+28363626	1997	2004	victims	T098	C0680681
+28363626	2008	2026	chemical incidents	T068,T070	C2350599

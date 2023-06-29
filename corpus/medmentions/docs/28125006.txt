@@ -1,0 +1,72 @@
+28125006|t|Support Vector Machine Classification of Drunk Driving Behaviour
+28125006|a|Alcohol is the root cause of numerous traffic accidents due to its pharmacological action on the human central nervous system. This study conducted a detection process to distinguish drunk driving from normal driving under simulated driving conditions. The classification was performed by a support vector machine (SVM) classifier trained to distinguish between these two classes by integrating both driving performance and physiological measurements. In addition, principal component analysis was conducted to rank the weights of the features. The standard deviation of R-R intervals (SDNN), the root mean square value of the difference of the adjacent R-R interval series (RMSSD), low frequency (LF), high frequency (HF), the ratio of the low and high frequencies (LF/HF), and average blink duration were the highest weighted features in the study. The results show that SVM classification can successfully distinguish drunk driving from normal driving with an accuracy of 70%. The driving performance data and the physiological measurements reported by this paper combined with air - alcohol concentration could be integrated using the support vector regression classification method to establish a better early warning model, thereby improving vehicle safety.
+28125006	0	22	Support Vector Machine	T081	C2699740
+28125006	23	37	Classification	T185	C0008902
+28125006	41	54	Drunk Driving	T048	C0556374
+28125006	55	64	Behaviour	T053	C0004927
+28125006	65	72	Alcohol	T168	C0001967
+28125006	94	102	numerous	T081	C0439064
+28125006	103	120	traffic accidents	T037	C0000932
+28125006	132	154	pharmacological action	T044	C1148560
+28125006	162	167	human	T016	C0086418
+28125006	168	190	central nervous system	T022	C3714787
+28125006	197	202	study	T062	C2603343
+28125006	215	232	detection process	T033	C0442726
+28125006	236	247	distinguish	T169	C0205245
+28125006	248	261	drunk driving	T048	C0556374
+28125006	267	273	normal	T080	C0205307
+28125006	274	281	driving	T056	C0004379
+28125006	288	297	simulated	T169	C0205245
+28125006	298	305	driving	T056	C0004379
+28125006	306	316	conditions	T080	C0348080
+28125006	322	336	classification	T185	C0008902
+28125006	356	378	support vector machine	T081	C2699740
+28125006	380	383	SVM	T081	C2699740
+28125006	385	395	classifier	T169	C4291659
+28125006	407	418	distinguish	T169	C0205245
+28125006	437	444	classes	T170	C0456387
+28125006	465	484	driving performance	UnknownType	C0681592
+28125006	489	502	physiological	T169	C0205463
+28125006	503	515	measurements	T169	C0242485
+28125006	530	558	principal component analysis	T081	C0429865
+28125006	576	580	rank	T170	C0699794
+28125006	585	592	weights	T081	C0043100
+28125006	600	608	features	T080	C1521970
+28125006	614	649	standard deviation of R-R intervals	T081	C0871420
+28125006	651	655	SDNN	T081	C0871420
+28125006	662	738	root mean square value of the difference of the adjacent R-R interval series	T081	C2347976
+28125006	740	745	RMSSD	T081	C2347976
+28125006	748	761	low frequency	T079	C0205213
+28125006	763	765	LF	T079	C0205213
+28125006	768	782	high frequency	T079	C0205212
+28125006	784	786	HF	T079	C0205212
+28125006	793	830	ratio of the low and high frequencies	T081	C0392762
+28125006	832	837	LF/HF	T081	C0392762
+28125006	844	866	average blink duration	T081	C0392762
+28125006	876	883	highest	T080	C1522410
+28125006	884	901	weighted features	T080	C1521970
+28125006	909	914	study	T062	C2603343
+28125006	938	941	SVM	T081	C2699740
+28125006	942	956	classification	T185	C0008902
+28125006	974	985	distinguish	T169	C0205245
+28125006	986	999	drunk driving	T048	C0556374
+28125006	1005	1011	normal	T080	C0205307
+28125006	1012	1019	driving	T056	C0004379
+28125006	1028	1036	accuracy	T080	C0443131
+28125006	1049	1068	driving performance	UnknownType	C0681592
+28125006	1069	1073	data	T078	C1511726
+28125006	1082	1095	physiological	T169	C0205463
+28125006	1096	1108	measurements	T169	C0242485
+28125006	1109	1117	reported	T058	C0700287
+28125006	1126	1131	paper	T170	C0684224
+28125006	1146	1149	air	T167	C0001861
+28125006	1152	1159	alcohol	T168	C0001967
+28125006	1160	1173	concentration	T081	C0392762
+28125006	1183	1193	integrated	T169	C0205245
+28125006	1204	1229	support vector regression	T081	C2699740
+28125006	1230	1244	classification	T185	C0008902
+28125006	1245	1251	method	T170	C0025663
+28125006	1274	1279	early	T079	C1279919
+28125006	1280	1287	warning	T064	C0871599
+28125006	1288	1293	model	T170	C3161035
+28125006	1313	1327	vehicle safety	T089	C0681627

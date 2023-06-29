@@ -1,0 +1,45 @@
+27939207|t|Source apportionment and heavy metal health risk (HMHR) quantification from sources in a southern city in China, using an ME2 - HMHR model
+27939207|a|Heavy metals (Cr, Co, Ni, As, Cd, and Pb) can be bound to PM adversely affecting human health. Quantifying the source impacts on heavy metals can provide source - specific estimates of the heavy metal health risk (HMHR) to guide effective development of strategies to reduce such risks from exposure to heavy metals in PM2.5 (particulate matter (PM) with aerodynamic diameter less than or equal to 2.5 μm). In this study, a method combining Multilinear Engine 2 (ME2) and a risk assessment model is developed to more effectively quantify source contributions to HMHR, including heavy metal non-cancer risk (non-HMCR) and cancer risk (HMCR). The combined model (called ME2-HMHR) has two steps: step1, source contributions to heavy metals are estimated by employing the ME2 model; step2, the source contributions in step 1 are introduced into the risk assessment model to calculate the source contributions to HMHR. The approach was applied to Huzou, China and five significant sources were identified. Soil dust is the largest source of non-HMCR. For HMCR, the source contributions of soil dust, coal combustion, cement dust, vehicle, and secondary sources are 1.0 × 10(-4), 3.7 × 10(-5), 2.7 × 10(-6), 1.6 × 10(-6) and 1.9 × 10(-9), respectively. The soil dust is the largest contributor to HMCR, being driven by the high impact of soil dust on PM2.5 and the abundance of heavy metals in soil dust.
+27939207	25	36	heavy metal	T103	UMLS:C0347988
+27939207	76	83	sources	T033	UMLS:C0449416
+27939207	89	97	southern	T082	UMLS:C1710133
+27939207	98	102	city	T082	UMLS:C0008848
+27939207	106	111	China	T082	UMLS:C0008115
+27939207	122	125	ME2	T170	UMLS:C0037585
+27939207	139	151	Heavy metals	T103	UMLS:C0347988
+27939207	153	155	Cr	T103	UMLS:C0008574
+27939207	157	159	Co	T103	UMLS:C0009148
+27939207	161	163	Ni	T103	UMLS:C0028013
+27939207	165	167	As	T103	UMLS:C0003818
+27939207	169	171	Cd	T103	UMLS:C0006632
+27939207	177	179	Pb	T103	UMLS:C0023175
+27939207	200	219	adversely affecting	T038	UMLS:C0879626
+27939207	220	225	human	T204	UMLS:C0086418
+27939207	250	256	source	T033	UMLS:C0449416
+27939207	268	280	heavy metals	T103	UMLS:C0347988
+27939207	293	299	source	T033	UMLS:C0449416
+27939207	328	339	heavy metal	T103	UMLS:C0347988
+27939207	442	454	heavy metals	T103	UMLS:C0347988
+27939207	580	600	Multilinear Engine 2	T170	UMLS:C0037585
+27939207	602	605	ME2	T170	UMLS:C0037585
+27939207	613	628	risk assessment	T058	UMLS:C0086930
+27939207	677	683	source	T033	UMLS:C0449416
+27939207	717	728	heavy metal	T103	UMLS:C0347988
+27939207	729	744	non-cancer risk	T033	UMLS:C1513916
+27939207	746	754	non-HMCR	T033	UMLS:C1513916
+27939207	839	845	source	T033	UMLS:C0449416
+27939207	863	875	heavy metals	T103	UMLS:C0347988
+27939207	907	910	ME2	T170	UMLS:C0037585
+27939207	929	935	source	T033	UMLS:C0449416
+27939207	984	999	risk assessment	T058	UMLS:C0086930
+27939207	1023	1029	source	T033	UMLS:C0449416
+27939207	1081	1086	Huzou	T082	UMLS:C0008115
+27939207	1088	1093	China	T082	UMLS:C0008115
+27939207	1115	1122	sources	T033	UMLS:C0449416
+27939207	1165	1171	source	T033	UMLS:C0449416
+27939207	1175	1183	non-HMCR	T033	UMLS:C1513916
+27939207	1199	1205	source	T033	UMLS:C0449416
+27939207	1234	1238	coal	T103	UMLS:C0009131
+27939207	1264	1271	vehicle	T103	UMLS:C0004380
+27939207	1287	1294	sources	T033	UMLS:C0449416
+27939207	1511	1523	heavy metals	T103	UMLS:C0347988

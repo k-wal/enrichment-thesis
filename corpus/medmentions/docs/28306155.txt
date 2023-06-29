@@ -1,0 +1,44 @@
+28306155|t|CDF - quantile distributions for modelling random variables on the unit interval
+28306155|a|This paper introduces a two-parameter family of distributions for modelling random variables on the (0,1) interval by applying the cumulative distribution function of one ' parent' distribution to the quantile function of another. Family members have explicit probability density functions, cumulative distribution functions and quantile s in a location parameter and a dispersion parameter. They capture a wide variety of shapes that the beta and Kumaraswamy distributions cannot. They are amenable to likelihood inference, and enable a wide variety of quantile regression models, with predictors for both the location and dispersion parameters. We demonstrate their applicability to psychological research problems and their utility in modelling real data.
+28306155	0	3	CDF	T081	C3826440
+28306155	6	14	quantile	T081	C1709792
+28306155	15	28	distributions	T081	C0038205
+28306155	33	42	modelling	T170	C3161035
+28306155	43	59	random variables	T081	C1705098
+28306155	67	80	unit interval	T170	C1552654
+28306155	105	118	two-parameter	T077	C0549193
+28306155	129	142	distributions	T081	C0038205
+28306155	147	156	modelling	T170	C3161035
+28306155	157	173	random variables	T081	C1705098
+28306155	187	195	interval	T170	C1552654
+28306155	212	244	cumulative distribution function	T081	C3826440
+28306155	254	274	parent' distribution	T081	C3826440
+28306155	282	290	quantile	T081	C1709792
+28306155	291	299	function	T170	C1705273
+28306155	341	360	probability density	T081	C2986804
+28306155	361	370	functions	T170	C1705273
+28306155	372	405	cumulative distribution functions	T081	C3826440
+28306155	410	418	quantile	T081	C1709792
+28306155	426	434	location	T082	C0450429
+28306155	435	444	parameter	T077	C0549193
+28306155	451	461	dispersion	T082	C0332624
+28306155	462	471	parameter	T077	C0549193
+28306155	493	500	variety	T077	C2346866
+28306155	504	510	shapes	T082	C0332479
+28306155	520	524	beta	T081	C1552649
+28306155	529	554	Kumaraswamy distributions	T081	C3826440
+28306155	555	561	cannot	T033	C0243095
+28306155	572	580	amenable	T080	C3900053
+28306155	584	604	likelihood inference	T081,T170	C0023707
+28306155	624	631	variety	T077	C2346866
+28306155	635	643	quantile	T081	C1709792
+28306155	644	661	regression models	T170	C0034980
+28306155	668	678	predictors	T078	C2698872
+28306155	692	700	location	T082	C0450429
+28306155	705	715	dispersion	T082	C0332624
+28306155	716	726	parameters	T077	C0549193
+28306155	766	779	psychological	T091	C0033909
+28306155	780	797	research problems	T062	C0242481
+28306155	808	815	utility	T169	C0457083
+28306155	819	828	modelling	T170	C3161035
+28306155	829	838	real data	T170	C3272377

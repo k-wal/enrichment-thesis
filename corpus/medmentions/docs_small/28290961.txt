@@ -1,0 +1,47 @@
+28290961|t|KCNQ1 Gene Variants in Large Asymptomatic Populations: Considerations for Genomic Screening of Military Cohorts
+28290961|a|The advances in genomic technology of large populations make the potential for genomic screening of military cohorts and recruits feasible, affording the potential to identify at-risk individuals before occurrence of potentially life-threatening events. Exploring sudden cardiac death, known to cause significant morbidity and mortality in young military service members, we focused on the most common gene associated with long QT syndrome (LQTS), KCNQ1. Using the publicly available database Exome Aggregation Consortium as a surrogate for a military population, variants in KCNQ1 were filtered on the basis of population prevalence, classification as a disease mutation in the Human Gene Mutation database, and classification as pathogenic or likely pathogenic in the ClinVar database. Variant prevalence and penetrance estimates were derived using reports from the medical literature. We showed that in a population of over 60,000 individuals, at least 97 (0.2%) individuals would harbor a potentially pathogenic mutation in KCNQ1, which is more prevalent than expected on the basis of current medical literature (p = 0.0004). KCNQ1 variant penetrance was estimated to be only 9% to 17%. Identifying the importance of large genomic studies, our study demonstrates that 46% of pathogenic mutations in KCNQ1 had a population frequency of less than 1:50,000. Screening a large database with genomic screening for a condition that is relevant to active duty service members results in the identification of many individuals with potentially pathogenic mutations in the KCNQ1 gene, which has profound implications for screening military or other adult cohorts in terms of over diagnosis, overtreatment, and increased medical resource usage. This study of KCNQ1 provides a platform for consideration of other genes that cause sudden cardiac death as well as other medically actionable hereditary disorders for which genomic screening is available. We review the potential benefits of genomic screening and also present the complex hurdles that will be encountered as such technologies unfold.
+28290961	0	10	KCNQ1 Gene	T017	UMLS:C1416612
+28290961	95	111	Military Cohorts	T097	UMLS:C1550414
+28290961	212	228	military cohorts	T097	UMLS:C1550414
+28290961	341	364	life-threatening events	T033	UMLS:C1517874
+28290961	376	396	sudden cardiac death	T038	UMLS:C0085298
+28290961	458	482	military service members	T097	UMLS:C1550414
+28290961	514	518	gene	T017	UMLS:C0017337
+28290961	535	551	long QT syndrome	T038	UMLS:C0023976
+28290961	553	557	LQTS	T038	UMLS:C0023976
+28290961	560	565	KCNQ1	T017	UMLS:C1416612
+28290961	596	633	database Exome Aggregation Consortium	T170	UMLS:C0242356
+28290961	639	648	surrogate	T170	UMLS:C3161035
+28290961	655	674	military population	T097	UMLS:C1550414
+28290961	676	684	variants	T017	UMLS:C0678941
+28290961	688	693	KCNQ1	T017	UMLS:C1416612
+28290961	724	734	population	T098	UMLS:C1257890
+28290961	791	819	Human Gene Mutation database	T170	UMLS:C0242356
+28290961	843	853	pathogenic	T033	UMLS:C3816499
+28290961	882	898	ClinVar database	T170	UMLS:C4284361
+28290961	963	998	reports from the medical literature	T170	UMLS:C2347953
+28290961	1020	1030	population	T098	UMLS:C1257890
+28290961	1046	1057	individuals	T098	UMLS:C0027361
+28290961	1078	1089	individuals	T098	UMLS:C0027361
+28290961	1117	1127	pathogenic	T033	UMLS:C3816499
+28290961	1128	1136	mutation	T038	UMLS:C0596611
+28290961	1140	1145	KCNQ1	T017	UMLS:C1416612
+28290961	1209	1227	medical literature	T170	UMLS:C0023866
+28290961	1242	1247	KCNQ1	T017	UMLS:C1416612
+28290961	1339	1354	genomic studies	T091	UMLS:C0887950
+28290961	1415	1420	KCNQ1	T017	UMLS:C1416612
+28290961	1427	1437	population	T098	UMLS:C1257890
+28290961	1489	1497	database	T170	UMLS:C0242356
+28290961	1564	1584	duty service members	T097	UMLS:C1550414
+28290961	1623	1634	individuals	T098	UMLS:C0027361
+28290961	1652	1662	pathogenic	T033	UMLS:C3816499
+28290961	1663	1672	mutations	T038	UMLS:C0596611
+28290961	1680	1690	KCNQ1 gene	T017	UMLS:C1416612
+28290961	1738	1746	military	T097	UMLS:C1550414
+28290961	1787	1796	diagnosis	T033	UMLS:C0011900
+28290961	1798	1811	overtreatment	T058	UMLS:C4046039
+28290961	1827	1843	medical resource	T058	UMLS:C0199168
+28290961	1865	1870	KCNQ1	T017	UMLS:C1416612
+28290961	1918	1923	genes	T017	UMLS:C0017337
+28290961	1935	1955	sudden cardiac death	T038	UMLS:C0085298
+28290961	1994	2014	hereditary disorders	T038	UMLS:C0019247

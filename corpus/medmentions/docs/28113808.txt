@@ -1,0 +1,72 @@
+28113808|t|Face Aging Effect Simulation using Hidden Factor Analysis Joint Sparse Representation
+28113808|a|Face aging simulation has received rising investigations nowadays, whereas it still remains a challenge to generate convincing and natural age - progressed face images. In this paper, we present a novel approach to such an issue by using Hidden Factor Analysis joint Sparse Representation. In contrast to the majority of tasks in the literature that handle the facial texture integrally, the proposed aging approach separately models the person - specific facial properties that tend to be stable in a relatively long period and the age - specific clues that change gradually over time. It then transforms the age component to a target age group via Sparse Reconstruction, yielding aging effects, which is finally combined with the identity component to achieve the aged face. Experiments are carried out on three face aging databases, and the results achieved clearly demonstrate the effectiveness and robustness of the proposed method in rendering a face with aging effects. Additionally, a series of evaluations prove its validity with respect to identity preservation and aging effect generation.
+28113808	0	4	Face	T029	C0015450
+28113808	5	10	Aging	T040	C0001811
+28113808	11	17	Effect	T080	C1280500
+28113808	18	28	Simulation	T066	C0009609
+28113808	35	85	Hidden Factor Analysis Joint Sparse Representation	T081	C0392762
+28113808	86	90	Face	T029	C0015450
+28113808	91	96	aging	T040	C0001811
+28113808	97	107	simulation	T066	C0009609
+28113808	112	120	received	T080	C1514756
+28113808	128	142	investigations	T169	C1292732
+28113808	193	201	generate	T052	C3146294
+28113808	217	224	natural	T169	C0205296
+28113808	225	228	age	T032	C0001779
+28113808	231	241	progressed	T169	C1272688
+28113808	242	246	face	T029	C0015450
+28113808	247	253	images	T170	C1704922
+28113808	263	268	paper	T170	C1706852
+28113808	309	314	issue	T033	C0033213
+28113808	324	374	Hidden Factor Analysis joint Sparse Representation	T081	C0392762
+28113808	420	430	literature	T170	C0023866
+28113808	447	453	facial	T029	C0015450
+28113808	454	461	texture	T080	C0449582
+28113808	478	486	proposed	T080	C1553874
+28113808	487	492	aging	T040	C0001811
+28113808	502	512	separately	T080	C0443299
+28113808	513	519	models	T170	C3161035
+28113808	524	530	person	T098	C0027361
+28113808	533	541	specific	T080	C0205369
+28113808	542	548	facial	T029	C0015450
+28113808	549	559	properties	T080	C0871161
+28113808	576	582	stable	T080	C0205360
+28113808	588	598	relatively	T080	C0205345
+28113808	604	610	period	T079	C0439531
+28113808	619	622	age	T032	C0001779
+28113808	625	633	specific	T080	C0205369
+28113808	634	639	clues	T078	C3146298
+28113808	645	651	change	T169	C0392747
+28113808	652	661	gradually	T080	C0439833
+28113808	667	671	time	T079	C0040223
+28113808	696	699	age	T032	C0001779
+28113808	700	709	component	T077	C1705248
+28113808	722	731	age group	T100	C0870408
+28113808	736	757	Sparse Reconstruction	T081	C0392762
+28113808	768	773	aging	T040	C0001811
+28113808	774	781	effects	T080	C1280500
+28113808	800	808	combined	T080	C0205195
+28113808	818	836	identity component	T077	C1705248
+28113808	852	856	aged	T032	C0001779
+28113808	857	861	face	T029	C0015450
+28113808	863	874	Experiments	T062	C0681814
+28113808	879	890	carried out	T052	C0206243
+28113808	900	904	face	T029	C0015450
+28113808	905	910	aging	T040	C0001811
+28113808	911	920	databases	T170	C0242356
+28113808	930	937	results	T169	C1274040
+28113808	938	946	achieved	T033	C1272277
+28113808	971	984	effectiveness	T080	C1280519
+28113808	989	999	robustness	T080	C2986815
+28113808	1016	1022	method	T169	C0449851
+28113808	1026	1035	rendering	T052	C0441655
+28113808	1038	1042	face	T029	C0015450
+28113808	1048	1053	aging	T040	C0001811
+28113808	1054	1061	effects	T080	C1280500
+28113808	1079	1085	series	T081	C0205549
+28113808	1089	1100	evaluations	T169	C1292732
+28113808	1111	1119	validity	T081	C2349101
+28113808	1136	1157	identity preservation	T052	C0441655
+28113808	1162	1167	aging	T040	C0001811
+28113808	1168	1174	effect	T080	C1280500
+28113808	1175	1185	generation	T052	C3146294

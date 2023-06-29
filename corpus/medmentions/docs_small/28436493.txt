@@ -1,0 +1,50 @@
+28436493|t|An attenuated Mycobacterium tuberculosis clinical strain with a defect in ESX-1 secretion induces minimal host immune responses and pathology
+28436493|a|Although Mycobacterium tuberculosis (M.tb) DK9897 is an attenuated strain, it was isolated from a patient with extrapulmonary tuberculosis and vaccination with a subunit vaccine (H56) induced poor protection against it. Both attenuation and lack of protection are because M.tb DK9897 cannot secrete the EsxA virulence factor nor induce a host response against it. Genome sequencing identified a frameshift mutation in the eccCa1 gene. Since the encoded EccCa1 protein provides energy for ESX-1 secretion, it suggested a defect in the ESX-1 type VII secretion system. Genetic complementation with a plasmid carrying the M.tb H37Rv sequence of eccCa1-eccCb1-pe35 re-established EsxA secretion, host specific EsxA T-cell responses, and increased strain virulence. The ESX-1 secretion defect prevents several virulence factors from being functional during infection and therefore attenuates M.tb. It precludes specific T-cell responses against strong antigens and we found very little in vivo cytokine production, gross pathology or granuloma formation in lungs from M.tb DK9897 infected animals. This coincides with M.tb DK9897 being unable to disrupt the phagosome membrane and make contact to the cytosol.
+28436493	14	40	Mycobacterium tuberculosis	T007	UMLS:C0026926
+28436493	74	79	ESX-1	T103	UMLS:C1744314
+28436493	80	89	secretion	T038	UMLS:C0036536
+28436493	111	127	immune responses	T038	UMLS:C0301872
+28436493	132	141	pathology	T091	UMLS:C0030664
+28436493	151	191	Mycobacterium tuberculosis (M.tb) DK9897	T007	UMLS:C0026926
+28436493	253	280	extrapulmonary tuberculosis	T038	UMLS:C0679362
+28436493	285	296	vaccination	T058	UMLS:C0042196
+28436493	304	319	subunit vaccine	T103	UMLS:C0887892
+28436493	321	324	H56	T103	UMLS:C0887892
+28436493	414	425	M.tb DK9897	T007	UMLS:C0026926
+28436493	433	440	secrete	T038	UMLS:C0036536
+28436493	445	449	EsxA	T103	UMLS:C1744314
+28436493	450	466	virulence factor	T103	UMLS:C1136170
+28436493	480	493	host response	T038	UMLS:C0301872
+28436493	537	556	frameshift mutation	T038	UMLS:C0079380
+28436493	564	575	eccCa1 gene	T017	UMLS:C0017337
+28436493	595	609	EccCa1 protein	T103	UMLS:C1254349
+28436493	630	635	ESX-1	T103	UMLS:C1744314
+28436493	636	645	secretion	T038	UMLS:C0036536
+28436493	676	681	ESX-1	T103	UMLS:C1744314
+28436493	682	707	type VII secretion system	T038	UMLS:C3159197
+28436493	740	747	plasmid	T103	UMLS:C0032136
+28436493	761	771	M.tb H37Rv	T007	UMLS:C0026926
+28436493	784	802	eccCa1-eccCb1-pe35	T103	UMLS:C0012931
+28436493	818	822	EsxA	T103	UMLS:C1744314
+28436493	823	832	secretion	T038	UMLS:C0036536
+28436493	848	852	EsxA	T103	UMLS:C1744314
+28436493	853	859	T-cell	T017	UMLS:C0039194
+28436493	860	869	responses	T038	UMLS:C0301872
+28436493	892	901	virulence	T038	UMLS:C0042765
+28436493	907	912	ESX-1	T103	UMLS:C1744314
+28436493	913	922	secretion	T038	UMLS:C0036536
+28436493	947	964	virulence factors	T103	UMLS:C1136170
+28436493	994	1003	infection	T038	UMLS:C3714514
+28436493	1029	1033	M.tb	T007	UMLS:C0026926
+28436493	1057	1063	T-cell	T017	UMLS:C0039194
+28436493	1064	1073	responses	T038	UMLS:C0301872
+28436493	1089	1097	antigens	T103	UMLS:C0003320
+28436493	1123	1130	in vivo	T082	UMLS:C1515655
+28436493	1131	1150	cytokine production	T038	UMLS:C1327413
+28436493	1152	1167	gross pathology	T033	UMLS:C0428094
+28436493	1171	1190	granuloma formation	T038	UMLS:C1817882
+28436493	1194	1199	lungs	T017	UMLS:C0024109
+28436493	1205	1216	M.tb DK9897	T007	UMLS:C0026926
+28436493	1255	1266	M.tb DK9897	T007	UMLS:C0026926
+28436493	1295	1313	phagosome membrane	T017	UMLS:C1166752
+28436493	1338	1345	cytosol	T017	UMLS:C1383501

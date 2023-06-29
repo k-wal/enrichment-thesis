@@ -1,0 +1,41 @@
+20859899|t|Syncope caused by hyperkalemia during use of a combined therapy with the angiotensin-converting enzyme inhibitor and spironolactone.
+20859899|a|A 76 year-old woman with a history of coronary artery bypass grafting and prior myocardial infarction was transferred to the emergency room with loss of consciousness due to marked bradycardia caused by hyperkalemia. The concentration of serum potassium was high, and normal sinus rhythm was restored after correction of the serum potassium level. The cause of hyperkalemia was considered to be several doses of spiranolactone, an aldosterone antagonist, in addition to the long-term intake of ramipril, an ACE inhibitor. This case is a good example of electrolyte imbalance causing acute life-threatening cardiac events. Clinicians should be alert to the possibility of hyperkalemia, especially in elderly patients using ACE/ARB in combination with potassium sparing agents and who have mild renal disturbance.
+20859899	0	7	Syncope	DiseaseOrPhenotypicFeature	D013575
+20859899	18	30	hyperkalemia	DiseaseOrPhenotypicFeature	D006947
+20859899	73	112	angiotensin-converting enzyme inhibitor	ChemicalEntity	D000806
+20859899	117	131	spironolactone	ChemicalEntity	D013148
+20859899	147	152	woman	OrganismTaxon	9606
+20859899	213	234	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+20859899	278	299	loss of consciousness	DiseaseOrPhenotypicFeature	D014474
+20859899	314	325	bradycardia	DiseaseOrPhenotypicFeature	D001919
+20859899	336	348	hyperkalemia	DiseaseOrPhenotypicFeature	D006947
+20859899	377	386	potassium	ChemicalEntity	D011188
+20859899	464	473	potassium	ChemicalEntity	D011188
+20859899	494	506	hyperkalemia	DiseaseOrPhenotypicFeature	D006947
+20859899	545	559	spiranolactone	ChemicalEntity	D013148
+20859899	564	575	aldosterone	ChemicalEntity	D000450
+20859899	627	635	ramipril	ChemicalEntity	D017257
+20859899	640	643	ACE	GeneOrGeneProduct	1636
+20859899	804	816	hyperkalemia	DiseaseOrPhenotypicFeature	D006947
+20859899	840	848	patients	OrganismTaxon	9606
+20859899	855	858	ACE	GeneOrGeneProduct	1636
+20859899	859	862	ARB	ChemicalEntity	D057911
+20859899	883	892	potassium	ChemicalEntity	D011188
+20859899	926	943	renal disturbance	DiseaseOrPhenotypicFeature	D007674
+20859899	Association	D057911	D007674	Novel
+20859899	Cotreatment	D057911	D011188	Novel
+20859899	Association	D057911	D006947	Novel
+20859899	Association	D011188	D007674	Novel
+20859899	Positive_Correlation	D011188	D006947	Novel
+20859899	Association	1636	D007674	Novel
+20859899	Cotreatment	1636	D057911	Novel
+20859899	Cotreatment	1636	D011188	Novel
+20859899	Association	1636	D006947	Novel
+20859899	Negative_Correlation	D000450	D013148	No
+20859899	Negative_Correlation	D017257	1636	No
+20859899	Positive_Correlation	D006947	D017257	Novel
+20859899	Negative_Correlation	D006947	D013148	Novel
+20859899	Negative_Correlation	D006947	D000806	Novel
+20859899	Cotreatment	D000806	D013148	Novel
+20859899	Positive_Correlation	D013575	D013148	Novel
+20859899	Positive_Correlation	D013575	D000806	Novel

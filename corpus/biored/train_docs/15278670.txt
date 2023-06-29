@@ -1,0 +1,43 @@
+15278670|t|The effects of sevoflurane on lidocaine-induced convulsions.
+15278670|a|The influence of sevoflurane on lidocaine-induced convulsions was studied in cats. The convulsive threshold (mean +/- SD) was 41.4 +/- 6.5 mg. l(-1) with lidocaine infusion (6 mg.kg(-1).min(-1)), increasing significantly to 66.6 +/- 10.9 mg. l(-1) when the end-tidal concentration of sevoflurane was 0.8%. However, the threshold (61.6 +/- 8.7 mg. l(-1)) during 1.6% sevoflurane was not significant from that during 0.8% sevoflurane, indicating a celling effect. There was no significant difference in the convulsive threshold between sevoflurane and enflurane. The rise in blood pressure became less marked when higher concentrations of sevoflurane or enflurane were administered and the blood pressure at convulsions decreased significantly in 1.6% sevoflurane, and in 0.8% and 1.6% enflurane. However, there was no significant difference in the lidocaine concentrations measured when the systolic blood pressure became 70 mmHg. Apamin, a selective blocker of calcium-dependent potassium channels, was administered intracerebroventricularly in rats anesthetized with 0.8% sevoflurane to investigate the mechanism of the anticonvulsive effects. Apamin (10 ng) had a tendency to decrease the convulsive threshold (21.6 +/- 2.2 to 19.9 +/- 2.5 mg. l(-1)) but this was not statistically significant. It is suggested that sevoflurane reduces the convulsive effect of lidocaine toxicity but carries some risk due to circulatory depression.
+15278670	15	26	sevoflurane	ChemicalEntity	C009250
+15278670	30	39	lidocaine	ChemicalEntity	D008012
+15278670	48	59	convulsions	DiseaseOrPhenotypicFeature	D012640
+15278670	78	89	sevoflurane	ChemicalEntity	C009250
+15278670	93	102	lidocaine	ChemicalEntity	D008012
+15278670	111	122	convulsions	DiseaseOrPhenotypicFeature	D012640
+15278670	138	142	cats	OrganismTaxon	9685
+15278670	148	158	convulsive	DiseaseOrPhenotypicFeature	D012640
+15278670	215	224	lidocaine	ChemicalEntity	D008012
+15278670	345	356	sevoflurane	ChemicalEntity	C009250
+15278670	427	438	sevoflurane	ChemicalEntity	C009250
+15278670	481	492	sevoflurane	ChemicalEntity	C009250
+15278670	566	576	convulsive	DiseaseOrPhenotypicFeature	D012640
+15278670	595	606	sevoflurane	ChemicalEntity	C009250
+15278670	611	620	enflurane	ChemicalEntity	D004737
+15278670	698	709	sevoflurane	ChemicalEntity	C009250
+15278670	713	722	enflurane	ChemicalEntity	D004737
+15278670	767	778	convulsions	DiseaseOrPhenotypicFeature	D012640
+15278670	811	822	sevoflurane	ChemicalEntity	C009250
+15278670	845	854	enflurane	ChemicalEntity	D004737
+15278670	908	917	lidocaine	ChemicalEntity	D008012
+15278670	991	997	Apamin	ChemicalEntity	D001030
+15278670	1022	1029	calcium	ChemicalEntity	D002118
+15278670	1040	1049	potassium	ChemicalEntity	D011188
+15278670	1106	1110	rats	OrganismTaxon	10116
+15278670	1134	1145	sevoflurane	ChemicalEntity	C009250
+15278670	1206	1212	Apamin	ChemicalEntity	D001030
+15278670	1252	1262	convulsive	DiseaseOrPhenotypicFeature	D012640
+15278670	1379	1390	sevoflurane	ChemicalEntity	C009250
+15278670	1403	1413	convulsive	DiseaseOrPhenotypicFeature	D012640
+15278670	1424	1433	lidocaine	ChemicalEntity	D008012
+15278670	1434	1442	toxicity	DiseaseOrPhenotypicFeature	D064420
+15278670	1484	1494	depression	DiseaseOrPhenotypicFeature	D003866
+15278670	Positive_Correlation	C009250	D003866	Novel
+15278670	Negative_Correlation	C009250	D012640	Novel
+15278670	Negative_Correlation	C009250	D008012	Novel
+15278670	Association	D002118	D011188	No
+15278670	Association	D001030	D011188	No
+15278670	Association	D001030	D002118	No
+15278670	Negative_Correlation	D001030	D012640	Novel
+15278670	Positive_Correlation	D008012	D012640	No

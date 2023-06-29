@@ -1,0 +1,66 @@
+27371818|t|Design considerations for patient-specific surgical templates for total hip arthroplasty with respect to acetabular cartilage
+27371818|a|Patient-specific instruments (PSIs) are clinically used to support the surgeon during a planned intervention. The planning is typically done based on volumetric image data from medical imaging systems, e.g. computed tomography (CT). The PSI uses the known surface structure of a bone for orientation during the intervention. Some surfaces of human bone are covered with a layer of cartilage which is hardly visible in clinically applied CT-imaging. This experimental study investigates ten different PSI designs and their effect to the overall accuracy when neglecting the cartilage in the design process. Therefore, a model of an acetabulum is used to simulate the use case of PSI in total hip arthroplasty. The concept of the different designs is to create structural elasticities in the PSI to avoid shifting of the whole instrument and rather have a small part of it deformed by cartilage. A needle array structure, for instance, should also be able to oust or penetrate remaining soft tissue in the acetabulum.
+27371818	0	6	Design	T052	C1707689
+27371818	7	21	considerations	T033	C0518609
+27371818	26	42	patient-specific	T080	C0205556
+27371818	43	61	surgical templates	T074	C0581264
+27371818	66	88	total hip arthroplasty	T061	C0040508
+27371818	105	115	acetabular	T030	C0229984
+27371818	116	125	cartilage	T024	C0007301
+27371818	126	154	Patient-specific instruments	T074	C0025080
+27371818	156	160	PSIs	T074	C0025080
+27371818	166	176	clinically	T080	C0205210
+27371818	197	204	surgeon	T097	C0582175
+27371818	214	234	planned intervention	T081	C2347528
+27371818	240	248	planning	T041	C0032074
+27371818	276	286	volumetric	T082	C0445383
+27371818	287	297	image data	T170	C0282574
+27371818	303	318	medical imaging	T060	C0025086
+27371818	319	326	systems	T169	C0449913
+27371818	333	352	computed tomography	T060	C0040405
+27371818	354	356	CT	T060	C0040405
+27371818	363	366	PSI	T074	C0025080
+27371818	382	409	surface structure of a bone	T023	C1960754
+27371818	414	425	orientation	T082	C1704322
+27371818	437	449	intervention	T061	C0184661
+27371818	456	478	surfaces of human bone	T023	C1960754
+27371818	483	490	covered	T169	C0439844
+27371818	498	503	layer	T023	C0934502
+27371818	507	516	cartilage	T024	C0007301
+27371818	526	532	hardly	T033	C3898981
+27371818	533	540	visible	T080	C0205379
+27371818	544	554	clinically	T080	C0205210
+27371818	555	562	applied	T169	C4048755
+27371818	563	573	CT-imaging	T060	C0729619
+27371818	580	598	experimental study	T062	C0681814
+27371818	599	611	investigates	T169	C1292732
+27371818	616	625	different	T080	C1705242
+27371818	626	629	PSI	T074	C0025080
+27371818	630	637	designs	T052	C1707689
+27371818	648	654	effect	T080	C1280500
+27371818	662	669	overall	T080	C1561607
+27371818	670	678	accuracy	T080	C0443131
+27371818	699	708	cartilage	T024	C0007301
+27371818	716	722	design	T052	C1707689
+27371818	723	730	process	T067	C1522240
+27371818	745	750	model	T075	C0026339
+27371818	757	767	acetabulum	T023	C0000962
+27371818	779	787	simulate	T062	C0679083
+27371818	796	800	case	T169	C0868928
+27371818	804	807	PSI	T074	C0025080
+27371818	811	833	total hip arthroplasty	T061	C0040508
+27371818	839	846	concept	T078	C0178566
+27371818	854	863	different	T080	C1705242
+27371818	864	871	designs	T052	C1707689
+27371818	878	884	create	T052	C1706214
+27371818	885	895	structural	T082	C0678594
+27371818	896	908	elasticities	T080	C0205556
+27371818	916	919	PSI	T074	C0025080
+27371818	929	937	shifting	T169	C0333051
+27371818	951	961	instrument	T074	C0348000
+27371818	997	1005	deformed	T169	C0333067
+27371818	1009	1018	cartilage	T024	C0007301
+27371818	1022	1044	needle array structure	T074	C0025080
+27371818	1091	1100	penetrate	T169	C0205321
+27371818	1111	1122	soft tissue	T024	C0225317
+27371818	1130	1140	acetabulum	T023	C0000962

@@ -1,0 +1,55 @@
+28259923|t|Pleomorphic adenoma gene like-2 induces epithelial-mesenchymal transition via Wnt/b-catenin signaling pathway in human colorectal adenocarcinoma.
+28259923|a|Epithelial-mesenchymal transition (EMT) is a critical step in the acquisition of metastatic and invasive power for tumor cells. Colorectal adenocarcinoma (CRC) is a common cancer where metastasis is directly linked to patient survival. Recent studies show that pleomorphic adenoma gene like-2 (PLAGL2) could induce tumor EMT and is an independent predictive factor associated with poor prognosis in cancer. In the present study, we confirmed the role of PLAGL2 in the prognosis of CRC patients and provide molecular evidence of PLAGL2 promoted EMT in CRC cell line SW480. We found that PLAGL2 expression was upregulated in the paraffin-embedded CRC tissues compared to borderline or benign tissues. Experimental EMT induced by PLAGL2 plasmid transfection proved PLAGL2 protein overexpression could enhance the cell scratch wound-healing and transwell ability and significantly upregulated mesenchymal marker proteins, N-cadherin and vimentin and concurrently downregulated epithelial marker of E-cadherin. Subsequently, through western blot assay, we found that PLAGL2 could activate the wnt-signaling component b-catenin in the nuclei. More CRC cell metastasis to the lungs was observed when the PLAGL2 overexpressing SW480 cells were injected into the tail vein of rats, compared with the cell control and PLAGL2 silence group. Our findings indicated that PLAGL2 might be a very upstream key molecule regulating EMT involved in Wnt/b-catenin signaling pathway.
+28259923	0	31	Pleomorphic adenoma gene like-2	GeneOrGeneProduct	5326
+28259923	78	81	Wnt	GeneOrGeneProduct	7474
+28259923	82	91	b-catenin	GeneOrGeneProduct	1499
+28259923	113	118	human	OrganismTaxon	9606
+28259923	119	144	colorectal adenocarcinoma	DiseaseOrPhenotypicFeature	D015179
+28259923	261	266	tumor	DiseaseOrPhenotypicFeature	D009369
+28259923	274	299	Colorectal adenocarcinoma	DiseaseOrPhenotypicFeature	D015179
+28259923	301	304	CRC	DiseaseOrPhenotypicFeature	D015179
+28259923	318	324	cancer	DiseaseOrPhenotypicFeature	D009369
+28259923	331	341	metastasis	DiseaseOrPhenotypicFeature	D009362
+28259923	364	371	patient	OrganismTaxon	9606
+28259923	407	438	pleomorphic adenoma gene like-2	GeneOrGeneProduct	5326
+28259923	440	446	PLAGL2	GeneOrGeneProduct	5326
+28259923	461	466	tumor	DiseaseOrPhenotypicFeature	D009369
+28259923	545	551	cancer	DiseaseOrPhenotypicFeature	D009369
+28259923	600	606	PLAGL2	GeneOrGeneProduct	5326
+28259923	627	630	CRC	DiseaseOrPhenotypicFeature	D015179
+28259923	631	639	patients	OrganismTaxon	9606
+28259923	674	680	PLAGL2	GeneOrGeneProduct	5326
+28259923	697	700	CRC	DiseaseOrPhenotypicFeature	D015179
+28259923	711	716	SW480	CellLine	CVCL_0546
+28259923	732	738	PLAGL2	GeneOrGeneProduct	5326
+28259923	773	781	paraffin	ChemicalEntity	D010232
+28259923	791	794	CRC	DiseaseOrPhenotypicFeature	D015179
+28259923	873	879	PLAGL2	GeneOrGeneProduct	5326
+28259923	908	914	PLAGL2	GeneOrGeneProduct	5326
+28259923	1064	1074	N-cadherin	GeneOrGeneProduct	1000
+28259923	1079	1087	vimentin	GeneOrGeneProduct	7431
+28259923	1140	1150	E-cadherin	GeneOrGeneProduct	999
+28259923	1208	1214	PLAGL2	GeneOrGeneProduct	5326
+28259923	1234	1237	wnt	GeneOrGeneProduct	7474
+28259923	1258	1267	b-catenin	GeneOrGeneProduct	1499
+28259923	1288	1291	CRC	DiseaseOrPhenotypicFeature	D015179
+28259923	1297	1307	metastasis	DiseaseOrPhenotypicFeature	D009362
+28259923	1343	1349	PLAGL2	GeneOrGeneProduct	5326
+28259923	1365	1370	SW480	CellLine	CVCL_0546
+28259923	1413	1417	rats	OrganismTaxon	10116
+28259923	1454	1460	PLAGL2	GeneOrGeneProduct	5326
+28259923	1504	1510	PLAGL2	GeneOrGeneProduct	5326
+28259923	1576	1579	Wnt	GeneOrGeneProduct	7474
+28259923	1580	1589	b-catenin	GeneOrGeneProduct	1499
+28259923	Association	D010232	D015179	No
+28259923	Association	1499	D015179	No
+28259923	Association	7474	D015179	No
+28259923	Association	7474	1499	No
+28259923	Negative_Correlation	5326	999	Novel
+28259923	Positive_Correlation	5326	7431	Novel
+28259923	Positive_Correlation	5326	1000	Novel
+28259923	Association	5326	D010232	No
+28259923	Association	5326	D009369	No
+28259923	Association	5326	D015179	Novel
+28259923	Positive_Correlation	5326	1499	Novel
+28259923	Association	5326	7474	Novel

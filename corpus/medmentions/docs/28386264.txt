@@ -1,0 +1,74 @@
+28386264|t|Factors Associated with Mortality in Patients with Autoimmune Diseases Admitted to the Intensive Care Unit in Bogota, Colombia
+28386264|a|Patients with autoimmune diseases (ADs) are a challenge for the intensivist; it is hard to differentiate among infection, disease activity, and combinations of both, leading to high mortality. This study is a retrospective analysis of 124 critically ill patients admitted to the intensive care unit (ICU) in a university hospital between 2008 and 2016. Bivariate case-control analysis was performed, using patients who died as cases; later, analysis using a logistic regression model with variables that were associated with mortality was conducted. Four variables were consistently associated with mortality in the logistic regression model and had adequate prediction value (Hosmer and Lemeshow statistic = 0.760; Nagelkerke R-squared = 0.494). The risk of death was found to be statistically associated with the following: shock at admission to ICU [odds ratio (OR): 7.56; 95% confidence interval (CI): 1.78-31.97, p = 0.006], hemoglobin level <8 g/dL (OR: 16.12; 95% CI: 3.35-77.52, p = 0.001), use of cytostatic agents prior to admission to the ICU (OR: 8.71; 95% CI: 1.23-61.5, p = 0.03), and low levels ofcomplement C3 (OR: 5.23; 95% CI: 1.28-21.35, p = 0.02). These variables can guide clinicians in the early identification of patients with AD with increased risk of death during hospitalization, leading to initial therapies seeking to improve survival. These results should be evaluated prospectively in future studies to establish their predictive power.
+28386264	0	7	Factors	T169	C1521761
+28386264	8	23	Associated with	T080	C0332281
+28386264	24	33	Mortality	T081	C0205848
+28386264	37	45	Patients	T101	C0030705
+28386264	51	70	Autoimmune Diseases	T047	C0004364
+28386264	71	106	Admitted to the Intensive Care Unit	T058	C0583239
+28386264	110	116	Bogota	UnknownType	C0681784
+28386264	118	126	Colombia	T083	C3245499
+28386264	127	135	Patients	T101	C0030705
+28386264	141	160	autoimmune diseases	T047	C0004364
+28386264	162	165	ADs	T047	C0004364
+28386264	191	202	intensivist	T097	C0334886
+28386264	238	247	infection	T046	C3714514
+28386264	249	265	disease activity	T046	C0242656
+28386264	271	283	combinations	T080	C0205195
+28386264	304	318	high mortality	T081	C0205848
+28386264	336	358	retrospective analysis	T062	C0035363
+28386264	377	389	ill patients	T033	C2010702
+28386264	390	425	admitted to the intensive care unit	T058	C0583239
+28386264	427	430	ICU	T073,T093	C0021708
+28386264	437	456	university hospital	T073,T093	C0020028
+28386264	480	511	Bivariate case-control analysis	UnknownType	C0681927
+28386264	533	541	patients	T101	C0030705
+28386264	546	550	died	T040	C0011065
+28386264	554	559	cases	T169	C0868928
+28386264	568	576	analysis	T062	C0936012
+28386264	585	610	logistic regression model	T081,T170	C0023965
+28386264	616	625	variables	T080	C0439828
+28386264	636	651	associated with	T080	C0332281
+28386264	652	661	mortality	T081	C0205848
+28386264	682	691	variables	T080	C0439828
+28386264	710	725	associated with	T080	C0332281
+28386264	726	735	mortality	T081	C0205848
+28386264	743	768	logistic regression model	T081,T170	C0023965
+28386264	786	796	prediction	T078	C0681842
+28386264	797	802	value	T081	C1522609
+28386264	804	833	Hosmer and Lemeshow statistic	T081	C0392762
+28386264	843	863	Nagelkerke R-squared	T081	C0392762
+28386264	878	882	risk	T058	C0086930
+28386264	886	891	death	T040	C0011065
+28386264	922	937	associated with	T080	C0332281
+28386264	953	958	shock	T046	C0036974
+28386264	962	978	admission to ICU	T058	C0583239
+28386264	980	990	odds ratio	T081	C0028873
+28386264	992	994	OR	T081	C0028873
+28386264	1007	1026	confidence interval	T081	C0009667
+28386264	1028	1030	CI	T081	C0009667
+28386264	1057	1073	hemoglobin level	T034	C0019029
+28386264	1083	1085	OR	T081	C0028873
+28386264	1098	1100	CI	T081	C0009667
+28386264	1133	1150	cytostatic agents	T121	C0010858
+28386264	1160	1180	admission to the ICU	T058	C0583239
+28386264	1182	1184	OR	T081	C0028873
+28386264	1196	1198	CI	T081	C0009667
+28386264	1226	1252	low levels ofcomplement C3	UnknownType	C0878610
+28386264	1254	1256	OR	T081	C0028873
+28386264	1268	1270	CI	T081	C0009667
+28386264	1301	1310	variables	T080	C0439828
+28386264	1321	1331	clinicians	T097	C0871685
+28386264	1345	1359	identification	T080	C0205396
+28386264	1363	1371	patients	T101	C0030705
+28386264	1377	1379	AD	T047	C0004364
+28386264	1385	1394	increased	T081	C0205217
+28386264	1395	1399	risk	T078	C0035647
+28386264	1403	1408	death	T040	C0011065
+28386264	1416	1431	hospitalization	T058	C0019993
+28386264	1452	1461	therapies	T061	C0087111
+28386264	1473	1480	improve	T033	C0184511
+28386264	1481	1489	survival	T052	C0038952
+28386264	1497	1504	results	T169	C1274040
+28386264	1542	1548	future	T079	C0016884
+28386264	1549	1556	studies	T062	C2603343

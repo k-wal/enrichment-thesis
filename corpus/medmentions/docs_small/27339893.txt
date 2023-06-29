@@ -1,0 +1,74 @@
+27339893|t|Structural Basis for Simvastatin Competitive Antagonism of Complement Receptor 3
+27339893|a|The complement system is an important part of the innate immune response to infection but may also cause severe complications during inflammation. Small molecule antagonists to complement receptor 3 (CR3) have been widely sought, but a structural basis for their mode of action is not available. We report here on the structure of the human CR3 ligand-binding I domain in complex with simvastatin. Simvastatin targets the metal ion-dependent adhesion site of the open, ligand-binding conformation of the CR3 I domain by direct contact with the chelated Mg(2+) ion. Simvastatin antagonizes I domain binding to the complement fragments iC3b and C3d but not to intercellular adhesion molecule-1. By virtue of the I domain's wide distribution in binding kinetics to ligands, it was possible to identify ligand binding kinetics as discriminator for simvastatin antagonism. In static cellular experiments, 15-25 μm simvastatin reduced adhesion by K562 cells expressing recombinant CR3 and by primary human monocytes, with an endogenous expression of this receptor. Application of force to adhering monocytes potentiated the effects of simvastatin where only a 50-100 nm concentration of the drug reduced the adhesion by 20-40% compared with untreated cells. The ability of simvastatin to target CR3 in its ligand binding - activated conformation is a novel mechanism to explain the known anti-inflammatory effects of this compound, in particular because this CR3 conformation is found in pro-inflammatory environments. Our report points to new designs of CR3 antagonists and opens new perspectives and identifies druggable receptors from characterization of the ligand binding kinetics in the presence of antagonists.
+27339893	0	10	Structural	T082	UMLS:C0678594
+27339893	21	32	Simvastatin	T103	UMLS:C0074554
+27339893	33	55	Competitive Antagonism	T038	UMLS:C0013159
+27339893	59	80	Complement Receptor 3	T103	UMLS:C0079785
+27339893	85	102	complement system	T103	UMLS:C0009498
+27339893	157	166	infection	T038	UMLS:C0009450
+27339893	186	206	severe complications	T033	UMLS:C3495031
+27339893	214	226	inflammation	T038	UMLS:C0021368
+27339893	228	242	Small molecule	T103	UMLS:C1328819
+27339893	243	254	antagonists	T103	UMLS:C0243076
+27339893	258	279	complement receptor 3	T103	UMLS:C0079785
+27339893	281	284	CR3	T103	UMLS:C0079785
+27339893	317	327	structural	T082	UMLS:C0678594
+27339893	380	386	report	T170	UMLS:C0684224
+27339893	399	408	structure	T082	UMLS:C0678594
+27339893	416	421	human	T204	UMLS:C0086418
+27339893	422	425	CR3	T103	UMLS:C0079785
+27339893	426	449	ligand-binding I domain	T082	UMLS:C0682969
+27339893	453	460	complex	T103	UMLS:C1704241
+27339893	466	477	simvastatin	T103	UMLS:C0074554
+27339893	479	490	Simvastatin	T103	UMLS:C0074554
+27339893	503	508	metal	T103	UMLS:C0025552
+27339893	550	564	ligand-binding	T038	UMLS:C1517880
+27339893	565	577	conformation	T082	UMLS:C0026377
+27339893	585	588	CR3	T103	UMLS:C0079785
+27339893	589	597	I domain	T082	UMLS:C1514562
+27339893	625	644	chelated Mg(2+) ion	T103	UMLS:C0719248
+27339893	646	657	Simvastatin	T103	UMLS:C0074554
+27339893	658	669	antagonizes	T033	UMLS:C0243095
+27339893	670	686	I domain binding	T082	UMLS:C0682969
+27339893	694	714	complement fragments	T103	UMLS:C0009498
+27339893	715	719	iC3b	T103	UMLS:C0369029
+27339893	724	727	C3d	T103	UMLS:C0056184
+27339893	739	772	intercellular adhesion molecule-1	T103	UMLS:C0063695
+27339893	791	801	I domain's	T082	UMLS:C1514562
+27339893	807	819	distribution	T082	UMLS:C0037775
+27339893	823	839	binding kinetics	T038	UMLS:C0031327
+27339893	843	850	ligands	T103	UMLS:C0023688
+27339893	859	867	possible	T033	UMLS:C0332149
+27339893	880	894	ligand binding	T038	UMLS:C1517880
+27339893	895	903	kinetics	T038	UMLS:C0031327
+27339893	925	936	simvastatin	T103	UMLS:C0074554
+27339893	937	947	antagonism	T038	UMLS:C0013159
+27339893	959	967	cellular	T058	UMLS:C0178539
+27339893	968	979	experiments	T062	UMLS:C0681814
+27339893	990	1001	simvastatin	T103	UMLS:C0074554
+27339893	1022	1032	K562 cells	T017	UMLS:C0600432
+27339893	1056	1059	CR3	T103	UMLS:C0079785
+27339893	1075	1080	human	T204	UMLS:C0086418
+27339893	1081	1090	monocytes	T017	UMLS:C0026473
+27339893	1130	1138	receptor	T103	UMLS:C0597357
+27339893	1140	1151	Application	T058	UMLS:C0185125
+27339893	1173	1182	monocytes	T017	UMLS:C0026473
+27339893	1210	1221	simvastatin	T103	UMLS:C0074554
+27339893	1266	1270	drug	T103	UMLS:C1254351
+27339893	1326	1331	cells	T017	UMLS:C0007634
+27339893	1348	1359	simvastatin	T103	UMLS:C0074554
+27339893	1370	1373	CR3	T103	UMLS:C0079785
+27339893	1381	1395	ligand binding	T038	UMLS:C1517880
+27339893	1408	1420	conformation	T082	UMLS:C0026377
+27339893	1497	1505	compound	T103	UMLS:C1706082
+27339893	1534	1537	CR3	T103	UMLS:C0079785
+27339893	1538	1550	conformation	T082	UMLS:C0026377
+27339893	1580	1592	environments	T082	UMLS:C0014406
+27339893	1598	1604	report	T170	UMLS:C0684224
+27339893	1630	1633	CR3	T103	UMLS:C0079785
+27339893	1634	1645	antagonists	T103	UMLS:C0243076
+27339893	1677	1687	identifies	T033	UMLS:C0243095
+27339893	1698	1707	receptors	T103	UMLS:C0597357
+27339893	1737	1751	ligand binding	T038	UMLS:C1517880
+27339893	1752	1760	kinetics	T038	UMLS:C0031327
+27339893	1780	1791	antagonists	T103	UMLS:C0243076

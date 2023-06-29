@@ -1,0 +1,60 @@
+28193256|t|Unbiased estimates of cerebrospinal fluid β-amyloid 1-42 cutoffs in a large memory clinic population
+28193256|a|We sought to define a cutoff for β-amyloid 1-42 in cerebrospinal fluid (CSF), a key marker for Alzheimer's disease (AD), with data-driven Gaussian mixture modeling in a memory clinic population. We performed a combined cross-sectional and prospective cohort study. We selected 2462 subjects with subjective cognitive decline, mild cognitive impairment, AD -type dementia, and dementia other than AD from the Amsterdam Dementia Cohort. We defined CSF β-amyloid 1-42 cutoffs by data-driven Gaussian mixture modeling in the total population and in subgroups based on clinical diagnosis, age, and apolipoprotein E (APOE) genotype. We investigated whether abnormal β-amyloid 1-42 as defined by the data-driven cutoff could better predict progression to AD -type dementia than abnormal β-amyloid 1-42 defined by a clinical diagnosis -based cutoff using Cox proportional hazards regression. In the total group of patients, we found a cutoff for abnormal CSF β-amyloid 1-42 of 680 pg/ml (95% CI 660-705 pg/ml). Similar cutoffs were found within diagnostic and APOE genotype subgroups. The cutoff was higher in elderly subjects than in younger subjects. The data-driven cutoff was higher than our clinical diagnosis -based cutoff and had a better predictive accuracy for progression to AD -type dementia in nondemented subjects (HR 7.6 versus 5.2, p < 0.01). Mixture modeling is a robust method to determine cutoffs for CSF β-amyloid 1-42. It might better capture biological changes that are related to AD than cutoffs based on clinical diagnosis.
+28193256	0	18	Unbiased estimates	T062	UMLS:C1711255
+28193256	22	41	cerebrospinal fluid	T031	UMLS:C0007806
+28193256	42	56	β-amyloid 1-42	T103	UMLS:C0169424
+28193256	76	89	memory clinic	T092	UMLS:C0442592
+28193256	90	100	population	T098	UMLS:C1257890
+28193256	134	148	β-amyloid 1-42	T103	UMLS:C0169424
+28193256	152	171	cerebrospinal fluid	T031	UMLS:C0007806
+28193256	173	176	CSF	T031	UMLS:C0007806
+28193256	185	191	marker	T201	UMLS:C0005516
+28193256	196	215	Alzheimer's disease	T038	UMLS:C0002395
+28193256	217	219	AD	T038	UMLS:C0002395
+28193256	239	264	Gaussian mixture modeling	T170	UMLS:C0026348
+28193256	270	283	memory clinic	T092	UMLS:C0442592
+28193256	284	294	population	T098	UMLS:C1257890
+28193256	320	335	cross-sectional	T062	UMLS:C0010362
+28193256	340	364	prospective cohort study	T062	UMLS:C1709709
+28193256	383	391	subjects	T098	UMLS:C2349001
+28193256	397	425	subjective cognitive decline	T038	UMLS:C0234985
+28193256	427	452	mild cognitive impairment	T038	UMLS:C1270972
+28193256	454	456	AD	T038	UMLS:C0002395
+28193256	463	471	dementia	T038	UMLS:C0497327
+28193256	477	485	dementia	T038	UMLS:C0497327
+28193256	497	499	AD	T038	UMLS:C0002395
+28193256	519	527	Dementia	T038	UMLS:C0497327
+28193256	528	534	Cohort	T098	UMLS:C0599755
+28193256	547	550	CSF	T031	UMLS:C0007806
+28193256	551	565	β-amyloid 1-42	T103	UMLS:C0169424
+28193256	589	614	Gaussian mixture modeling	T170	UMLS:C0026348
+28193256	646	655	subgroups	T170	UMLS:C1515021
+28193256	665	683	clinical diagnosis	T058	UMLS:C0332140
+28193256	694	726	apolipoprotein E (APOE) genotype	T058	UMLS:C1446118
+28193256	752	760	abnormal	T033	UMLS:C0205161
+28193256	761	775	β-amyloid 1-42	T103	UMLS:C0169424
+28193256	849	851	AD	T038	UMLS:C0002395
+28193256	858	866	dementia	T038	UMLS:C0497327
+28193256	872	880	abnormal	T033	UMLS:C0205161
+28193256	881	895	β-amyloid 1-42	T103	UMLS:C0169424
+28193256	909	927	clinical diagnosis	T058	UMLS:C0332140
+28193256	948	983	Cox proportional hazards regression	T170	UMLS:C0010235
+28193256	1039	1047	abnormal	T033	UMLS:C0205161
+28193256	1048	1051	CSF	T031	UMLS:C0007806
+28193256	1052	1066	β-amyloid 1-42	T103	UMLS:C0169424
+28193256	1138	1148	diagnostic	T033	UMLS:C0011900
+28193256	1153	1166	APOE genotype	T058	UMLS:C1446118
+28193256	1167	1176	subgroups	T170	UMLS:C1515021
+28193256	1203	1210	elderly	T098	UMLS:C0001792
+28193256	1211	1219	subjects	T098	UMLS:C2349001
+28193256	1236	1244	subjects	T098	UMLS:C2349001
+28193256	1289	1307	clinical diagnosis	T058	UMLS:C0332140
+28193256	1378	1380	AD	T038	UMLS:C0002395
+28193256	1387	1395	dementia	T038	UMLS:C0497327
+28193256	1411	1419	subjects	T098	UMLS:C2349001
+28193256	1451	1467	Mixture modeling	T170	UMLS:C0026348
+28193256	1480	1486	method	T170	UMLS:C0025663
+28193256	1512	1515	CSF	T031	UMLS:C0007806
+28193256	1516	1530	β-amyloid 1-42	T103	UMLS:C0169424
+28193256	1595	1597	AD	T038	UMLS:C0002395
+28193256	1620	1638	clinical diagnosis	T058	UMLS:C0332140

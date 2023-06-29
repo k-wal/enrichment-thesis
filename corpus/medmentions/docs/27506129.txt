@@ -1,0 +1,69 @@
+27506129|t|On the development of conjunctival hyperemia computer-assisted diagnosis tools: Influence of feature selection and class imbalance in automatic gradings
+27506129|a|The sudden increase of blood flow in the bulbar conjunctiva, known as hyperemia, is associated to a red hue of variable intensity. Experts measure hyperemia using levels in a grading scale, a procedure that is subjective, non-repeatable and time consuming, thus creating a need for its automatisation. However, the task is far from straightforward due to data issues such as class imbalance or correlated features. In this paper, we study the specific features of hyperemia and propose various approaches to address these problems in the context of an automatic framework for hyperemia grading. Oversampling, undersampling and SMOTE approaches were applied in order to tackle the problem of class imbalance. 25 features were computed for each image and regression methods were then used to transform them into a value on the grading scale. The values and relationships among features and experts' values were analysed, and five feature selection techniques were subsequently studied. The lowest mean square error (MSE) for the regression systems trained with individual features is below 0.1 for both scales. Multi-layer perceptron (MLP) obtains the best values, but is less consistent than the random forest (RF) method. When all features are combined, the best results for both scales are achieved with MLP. Correlation based feature selection (CFS) and M5 provide the best results, MSE =0.108 and MSE =0.061 respectively. Finally, the class imbalance problem is minimised with the SMOTE approach for both scales (MSE <0.006). Machine learning methods are able to perform an objective assessment of hyperemia grading, removing both intra- and inter-expert subjectivity while providing a gain in computation time. SMOTE and oversampling approaches minimise the class imbalance problem, while feature selection reduces the number of features from 25 to 3-5 without worsening the MSE. As the differences between the system and a human expert are similar to the differences between experts, we can therefore conclude that the system behaves like an expert.
+27506129	7	18	development	T169	C1527148
+27506129	22	44	conjunctival hyperemia	T047	C1761613
+27506129	45	78	computer-assisted diagnosis tools	T060	C0011905
+27506129	93	100	feature	T080	C2348519
+27506129	101	110	selection	T052	C1707391
+27506129	115	130	class imbalance	T170	C0282574
+27506129	176	186	blood flow	T039	C0232338
+27506129	194	212	bulbar conjunctiva	T023	C0229275
+27506129	223	232	hyperemia	T047	C0020452
+27506129	253	260	red hue	T070	C0678581
+27506129	264	272	variable	T080	C0439828
+27506129	273	282	intensity	T080	C0205556
+27506129	300	309	hyperemia	T047	C0020452
+27506129	328	341	grading scale	T170	C0282574
+27506129	394	408	time consuming	T080	C3827829
+27506129	439	453	automatisation	T066	C0004376
+27506129	485	500	straightforward	T080	C1272701
+27506129	528	543	class imbalance	T170	C0282574
+27506129	547	557	correlated	T080	C1707520
+27506129	558	566	features	T080	C2348519
+27506129	605	613	features	T080	C2348519
+27506129	617	626	hyperemia	T047	C0020452
+27506129	705	724	automatic framework	T170	C0282574
+27506129	729	738	hyperemia	T047	C0020452
+27506129	739	746	grading	T033	C0243095
+27506129	748	760	Oversampling	T170	C0282574
+27506129	762	775	undersampling	T170	C0282574
+27506129	780	796	SMOTE approaches	T170	C0282574
+27506129	844	859	class imbalance	T170	C0282574
+27506129	906	924	regression methods	T170	C0034980
+27506129	978	991	grading scale	T170	C0282574
+27506129	1028	1036	features	T080	C2348519
+27506129	1041	1056	experts' values	T033	C0243095
+27506129	1081	1088	feature	T080	C2348519
+27506129	1089	1098	selection	T052	C1707391
+27506129	1141	1165	lowest mean square error	T081	C0392762
+27506129	1167	1170	MSE	T081	C0392762
+27506129	1180	1198	regression systems	T170	C0034980
+27506129	1262	1284	Multi-layer perceptron	T170	C0870951
+27506129	1286	1289	MLP	T170	C0870951
+27506129	1348	1373	random forest (RF) method	T170	C0282574
+27506129	1458	1461	MLP	T170	C0870951
+27506129	1463	1498	Correlation based feature selection	T170	C0282574
+27506129	1500	1503	CFS	T170	C0282574
+27506129	1538	1541	MSE	T081	C0392762
+27506129	1553	1556	MSE	T081	C0392762
+27506129	1591	1614	class imbalance problem	T170	C0282574
+27506129	1637	1651	SMOTE approach	T170	C0282574
+27506129	1669	1672	MSE	T081	C0392762
+27506129	1682	1698	Machine learning	T066	C0376284
+27506129	1754	1763	hyperemia	T047	C0020452
+27506129	1764	1771	grading	T033	C0243095
+27506129	1787	1823	intra- and inter-expert subjectivity	T080	C0205556
+27506129	1850	1861	computation	T052	C1880157
+27506129	1862	1866	time	T079	C0040223
+27506129	1868	1873	SMOTE	T170	C0282574
+27506129	1878	1901	oversampling approaches	T170	C0282574
+27506129	1915	1938	class imbalance problem	T170	C0282574
+27506129	1946	1953	feature	T080	C2348519
+27506129	1954	1963	selection	T052	C1707391
+27506129	1986	1994	features	T080	C2348519
+27506129	2032	2035	MSE	T081	C0392762
+27506129	2068	2074	system	T073,T170	C0015324
+27506129	2081	2093	human expert	T097	C0031831
+27506129	2133	2140	experts	T097	C0031831
+27506129	2177	2183	system	T073,T170	C0015324
+27506129	2200	2206	expert	T097	C0031831

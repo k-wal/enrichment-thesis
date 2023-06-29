@@ -1,0 +1,54 @@
+21080147|t|Novel CRELD1 gene mutations in patients with atrioventricular septal defect.
+21080147|a|BACKGROUND: Atrioventricular septal defects (AVSDs) occur as clinical defects of several different syndromes, as autosomal dominant defects, and as sporadically occurring malformations. Consequently, there is genetic heterogeneity, but until recently, little is known about the genes involving in the pathogenesis of AVSD. CRELD1 gene, a novel cell adhesion molecule, is a candidate gene for AVSD. METHODS: This study included 133 patients with AVSD and 200 healthy controls. Peripheral blood samples were collected and genomic DNA was extracted from the leukocytes. CRELD1 was amplified by polymerase chain reaction (PCR) with specific primers. The sequences of PCR products were compared between the patients and controls. RESULTS: In a patient, a C-to-G transition was identified at nucleotide 857 in exon 8 that resulted in a substitution of alanine for proline at amino acid 286 in the first calcium-binding EGF domain. This patient had an isolated partial AVSD and the mutation was inherited from her mother. Another mutation was detected in a patient with a partial AVSD and evidence of Down syndrome. The heterozygous c.973G>A transition in exon 9 resulted in a substitution of lysine for glutamic acid at amino acid 325 (E325K) in the second calcium-binding EGF domain. CONCLUSIONS: Two novel CRELD1 mutations were identified in the calcium-binding EGF domain in patients with AVSD. CRELD1 is likely to be an AVSD-susceptibility gene and CRELD1 mutations may increase the risk of developing a heart defect rather than being a direct causative mutation.
+21080147	6	12	CRELD1	GeneOrGeneProduct	78987
+21080147	31	39	patients	OrganismTaxon	9606
+21080147	45	75	atrioventricular septal defect	DiseaseOrPhenotypicFeature	C562831
+21080147	89	120	Atrioventricular septal defects	DiseaseOrPhenotypicFeature	C562831
+21080147	122	127	AVSDs	DiseaseOrPhenotypicFeature	C562831
+21080147	190	216	autosomal dominant defects	DiseaseOrPhenotypicFeature	D030342
+21080147	248	261	malformations	DiseaseOrPhenotypicFeature	D000013
+21080147	394	398	AVSD	DiseaseOrPhenotypicFeature	C562831
+21080147	400	406	CRELD1	GeneOrGeneProduct	78987
+21080147	469	473	AVSD	DiseaseOrPhenotypicFeature	C562831
+21080147	508	516	patients	OrganismTaxon	9606
+21080147	522	526	AVSD	DiseaseOrPhenotypicFeature	C562831
+21080147	644	650	CRELD1	GeneOrGeneProduct	78987
+21080147	779	787	patients	OrganismTaxon	9606
+21080147	816	823	patient	OrganismTaxon	9606
+21080147	827	877	C-to-G transition was identified at nucleotide 857	SequenceVariant	c|SUB|C|857|G
+21080147	923	960	alanine for proline at amino acid 286	SequenceVariant	p|SUB|A|286|P
+21080147	974	981	calcium	ChemicalEntity	D002118
+21080147	990	993	EGF	GeneOrGeneProduct	1950
+21080147	1007	1014	patient	OrganismTaxon	9606
+21080147	1039	1043	AVSD	DiseaseOrPhenotypicFeature	C562831
+21080147	1127	1134	patient	OrganismTaxon	9606
+21080147	1150	1154	AVSD	DiseaseOrPhenotypicFeature	C562831
+21080147	1171	1184	Down syndrome	DiseaseOrPhenotypicFeature	D004314
+21080147	1203	1211	c.973G>A	SequenceVariant	rs755981922
+21080147	1263	1305	lysine for glutamic acid at amino acid 325	SequenceVariant	rs755981922
+21080147	1307	1312	E325K	SequenceVariant	rs755981922
+21080147	1328	1335	calcium	ChemicalEntity	D002118
+21080147	1344	1347	EGF	GeneOrGeneProduct	1950
+21080147	1379	1385	CRELD1	GeneOrGeneProduct	78987
+21080147	1419	1426	calcium	ChemicalEntity	D002118
+21080147	1435	1438	EGF	GeneOrGeneProduct	1950
+21080147	1449	1457	patients	OrganismTaxon	9606
+21080147	1463	1467	AVSD	DiseaseOrPhenotypicFeature	C562831
+21080147	1469	1475	CRELD1	GeneOrGeneProduct	78987
+21080147	1495	1499	AVSD	DiseaseOrPhenotypicFeature	C562831
+21080147	1524	1530	CRELD1	GeneOrGeneProduct	78987
+21080147	1579	1591	heart defect	DiseaseOrPhenotypicFeature	D006331
+21080147	Association	1950	C562831	No
+21080147	Bind	D002118	1950	No
+21080147	Association	D004314	78987	Novel
+21080147	Association	rs755981922	D004314	Novel
+21080147	Positive_Correlation	rs755981922	D006331	Novel
+21080147	Association	rs755981922	C562831	Novel
+21080147	Positive_Correlation	p|SUB|A|286|P	D006331	Novel
+21080147	Association	p|SUB|A|286|P	C562831	Novel
+21080147	Positive_Correlation	c|SUB|C|857|G	D006331	Novel
+21080147	Association	c|SUB|C|857|G	C562831	Novel
+21080147	Association	78987	1950	Novel
+21080147	Association	78987	D002118	Novel
+21080147	Association	78987	D006331	Novel
+21080147	Association	78987	C562831	Novel

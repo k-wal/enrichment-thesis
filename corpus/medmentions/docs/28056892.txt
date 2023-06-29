@@ -1,0 +1,97 @@
+28056892|t|Correlations between physical activity and neurocognitive domain functions in patients with schizophrenia: a cross-sectional study
+28056892|a|Neurocognitive dysfunction is a critical target symptom of schizophrenia treatment. A positive correlation between physical activity level and neurocognitive function has been reported in healthy individuals, but it is unclear whether such a correlation exists in patients with schizophrenia and whether the relationship is different according to inpatients or outpatients. This study aimed to examine the differences in the correlations between physical activity and multiple neurocognitive domains in inpatients and outpatients with schizophrenia and obtain suggestions for further study to facilitate this field. Twenty-nine patients with schizophrenia were examined (16 inpatients and 13 outpatients, 56.0 ± 11.4 years of age). Current symptoms were assessed using the Positive and Negative Symptom Scale and neurocognitive functions using Cognitrax, which yields a composite neurocognitive index (NCI) and 11 domain scores. After testing, participants wore an HJA-750C accelerometer for one week to measure physical activity levels and durations. Partial correlation analyses were performed between exercise and cognitive parameters. In the outpatient group, higher physical activity was associated with faster Motor and Psychomotor Speeds in outpatients. However, higher physical activity was associated with lower overall NCI, Attention score, and Memory scores in inpatients. Although higher physical activity was associated with better neurocognitive functions of outpatients, in inpatients with non-remitted schizophrenia, higher physical activity was associated with worsening of several cognitive domains. In a future study examining the relationship between physical activity and neurocognitive function for facilitating this research field, separation between inpatients and outpatients are needed because the relationship is different between inpatients and outpatients.
+28056892	0	12	Correlations	T080	C1707520
+28056892	21	38	physical activity	T056	C0026606
+28056892	43	74	neurocognitive domain functions	T041	C0392335
+28056892	78	86	patients	T101	C0030705
+28056892	92	105	schizophrenia	T048	C0036341
+28056892	109	130	cross-sectional study	T062	C0010362
+28056892	131	157	Neurocognitive dysfunction	T048	C4041080
+28056892	179	186	symptom	T184	C1457887
+28056892	190	203	schizophrenia	T048	C0036341
+28056892	204	213	treatment	T061	C0087111
+28056892	226	237	correlation	T080	C1707520
+28056892	246	263	physical activity	T056	C0026606
+28056892	274	297	neurocognitive function	T041	C0392335
+28056892	319	338	healthy individuals	T098	C0237401
+28056892	373	384	correlation	T080	C1707520
+28056892	395	403	patients	T101	C0030705
+28056892	409	422	schizophrenia	T048	C0036341
+28056892	439	451	relationship	T080	C0439849
+28056892	478	488	inpatients	T101	C0021562
+28056892	492	503	outpatients	T101	C0029921
+28056892	510	515	study	T062	C2603343
+28056892	525	532	examine	T058	C0582103
+28056892	556	568	correlations	T080	C1707520
+28056892	577	594	physical activity	T056	C0026606
+28056892	608	630	neurocognitive domains	T041	C0392335
+28056892	634	644	inpatients	T101	C0021562
+28056892	649	660	outpatients	T101	C0029921
+28056892	666	679	schizophrenia	T048	C0036341
+28056892	691	702	suggestions	T078	C1705535
+28056892	715	720	study	T062	C2603343
+28056892	759	767	patients	T101	C0030705
+28056892	773	786	schizophrenia	T048	C0036341
+28056892	792	800	examined	T058	C0582103
+28056892	805	815	inpatients	T101	C0021562
+28056892	823	834	outpatients	T101	C0029921
+28056892	848	853	years	T079	C0439234
+28056892	857	860	age	T032	C0001779
+28056892	871	879	symptoms	T184	C1457887
+28056892	885	893	assessed	T052	C1516048
+28056892	904	912	Positive	T033	C1446409
+28056892	917	925	Negative	T033	C0205160
+28056892	926	939	Symptom Scale	T170	C0429688
+28056892	944	968	neurocognitive functions	T041	C0392335
+28056892	975	984	Cognitrax	T170	C0871696
+28056892	1011	1031	neurocognitive index	T060	C0872227
+28056892	1033	1036	NCI	T060	C0872227
+28056892	1052	1058	scores	T081	C0449820
+28056892	1075	1087	participants	T098	C0679646
+28056892	1096	1118	HJA-750C accelerometer	T074	C0178951
+28056892	1123	1131	one week	T079	C4082116
+28056892	1135	1142	measure	T081	C0079809
+28056892	1143	1160	physical activity	T056	C0026606
+28056892	1172	1181	durations	T079	C0449238
+28056892	1183	1211	Partial correlation analyses	T062,T170	C0010101
+28056892	1235	1243	exercise	T056	C0015259
+28056892	1248	1257	cognitive	T041	C0009240
+28056892	1258	1268	parameters	T033	C0449381
+28056892	1277	1287	outpatient	T101	C0029921
+28056892	1295	1301	higher	T080	C0205250
+28056892	1302	1319	physical activity	T056	C0026606
+28056892	1347	1352	Motor	T169	C1513492
+28056892	1357	1368	Psychomotor	T041	C0033923
+28056892	1369	1375	Speeds	T081	C0678536
+28056892	1379	1390	outpatients	T101	C0029921
+28056892	1401	1407	higher	T080	C0205250
+28056892	1408	1425	physical activity	T056	C0026606
+28056892	1430	1445	associated with	T080	C0332281
+28056892	1446	1451	lower	T080	C0205251
+28056892	1460	1463	NCI	T060	C0872227
+28056892	1465	1474	Attention	T041	C0004268
+28056892	1475	1480	score	T081	C0449820
+28056892	1486	1492	Memory	T041	C0025260
+28056892	1493	1499	scores	T081	C0449820
+28056892	1503	1513	inpatients	T101	C0021562
+28056892	1524	1530	higher	T080	C0205250
+28056892	1531	1548	physical activity	T056	C0026606
+28056892	1553	1568	associated with	T080	C0332281
+28056892	1576	1600	neurocognitive functions	T041	C0392335
+28056892	1604	1615	outpatients	T101	C0029921
+28056892	1620	1630	inpatients	T101	C0021562
+28056892	1649	1662	schizophrenia	T048	C0036341
+28056892	1664	1670	higher	T080	C0205250
+28056892	1671	1688	physical activity	T056	C0026606
+28056892	1693	1708	associated with	T080	C0332281
+28056892	1730	1747	cognitive domains	T041	C0392335
+28056892	1761	1766	study	T062	C2603343
+28056892	1767	1776	examining	T058	C0582103
+28056892	1781	1793	relationship	T080	C0439849
+28056892	1802	1819	physical activity	T056	C0026606
+28056892	1824	1847	neurocognitive function	T041	C0392335
+28056892	1905	1915	inpatients	T101	C0021562
+28056892	1920	1931	outpatients	T101	C0029921
+28056892	1955	1967	relationship	T080	C0439849
+28056892	1989	1999	inpatients	T101	C0021562
+28056892	2004	2015	outpatients	T101	C0029921

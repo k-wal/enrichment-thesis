@@ -1,0 +1,25 @@
+17975693|t|Anxiogenic potential of ciprofloxacin and norfloxacin in rats.
+17975693|a|INTRODUCTION: The possible anxiogenic effects of fluoroquinolones, namely ciprofloxacin and norfloxacin, were investigated in adult Charles Foster albino rats of either sex, weighing 150-200 g. METHODS: The drugs were given orally, in doses of 50 mg/kg for five consecutive days and the experiments were performed on the fifth day. The tests included open-field exploratory behaviour, elevated plus maze and elevated zero maze, social interaction and novelty-suppressed feeding latency behaviour. RESULTS: The results indicate that ciprofloxacin- and norfloxacin-treated rats showed anxious behaviour in comparison to control rats in all the parameters studied. However, ciprofloxacin- and norfloxacin-treated rats did not differ significantly from each other in various behavioural parameters. CONCLUSION: The present experimental findings substantiate the clinically observed anxiogenic potential of ciprofloxacin and norfloxacin.
+17975693	0	10	Anxiogenic	DiseaseOrPhenotypicFeature	D001008
+17975693	24	37	ciprofloxacin	ChemicalEntity	D002939
+17975693	42	53	norfloxacin	ChemicalEntity	D009643
+17975693	57	61	rats	OrganismTaxon	10116
+17975693	90	100	anxiogenic	DiseaseOrPhenotypicFeature	D001008
+17975693	112	128	fluoroquinolones	ChemicalEntity	D024841
+17975693	137	150	ciprofloxacin	ChemicalEntity	D002939
+17975693	155	166	norfloxacin	ChemicalEntity	D009643
+17975693	217	221	rats	OrganismTaxon	10116
+17975693	595	608	ciprofloxacin	ChemicalEntity	D002939
+17975693	614	625	norfloxacin	ChemicalEntity	D009643
+17975693	634	638	rats	OrganismTaxon	10116
+17975693	646	663	anxious behaviour	DiseaseOrPhenotypicFeature	D001008
+17975693	689	693	rats	OrganismTaxon	10116
+17975693	734	747	ciprofloxacin	ChemicalEntity	D002939
+17975693	753	764	norfloxacin	ChemicalEntity	D009643
+17975693	773	777	rats	OrganismTaxon	10116
+17975693	941	951	anxiogenic	DiseaseOrPhenotypicFeature	D001008
+17975693	965	978	ciprofloxacin	ChemicalEntity	D002939
+17975693	983	994	norfloxacin	ChemicalEntity	D009643
+17975693	Positive_Correlation	D009643	D001008	Novel
+17975693	Positive_Correlation	D001008	D024841	Novel
+17975693	Positive_Correlation	D002939	D001008	Novel

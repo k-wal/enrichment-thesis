@@ -1,0 +1,69 @@
+27509880|t|Combination of the histone deacetylase inhibitor depsipeptide and 5-fluorouracil upregulates major histocompatibility complex class II and p21 genes and activates caspase-3/7 in human colon cancer HCT-116 cells.
+27509880|a|Epigenetic anticancer drugs such as histone deacetylase (HDAC) inhibitors have been combined with existing anticancer drugs for synergistic or additive effects. In the present study, we found that a very low concentration of depsipeptide, an HDAC inhibitor, potentiated the antitumor activity of 5-fluorouracil (5-FU) in a human colon cancer cell model using HCT-116, HT29, and SW48 cells via the inhibition of colony formation ability or cellular viability. Exposure to a combination of 5-FU (1.75 uM) and 1 nM depsipeptide for 24 and 48 h resulted in a 3- to 4-fold increase in activated caspase-3/7, while 5-FU alone failed to activate caspase-3/7. Microarray and subsequent gene ontology analyses revealed that compared to 5-FU or depsipeptide alone, the combination treatment of 5-FU and depsipeptide upregulated genes related to cell death and the apoptotic process consistent with the inhibition of colony formation and caspase-3/7 activation. These analyses indicated marked upregulation of antigen processing and presentation of peptide or polysaccharide antigen via major histocompatibility complex (MHC) class (GO:0002504) and MHC protein complex (GO:0042611). Compared with vehicle controls, the cells treated with the combination of 5-FU and depsipeptide showed marked induction (3- to 8.5-fold) of expression of MHC class II genes, but not of MHC class I genes. Furthermore, our global analysis of gene expression, which was focused on genes involved in the molecular regulation of MHC class II genes, showed enhancement of pro-apoptotic PCAF and CIITA after the combination of 5-FU and depsipeptide. These results may indicate a closer relationship between elevation of MHC class II expression and cellular apoptosis induced by the combination of depsipeptide and 5-FU. To the best of our knowledge, this is the first study to report that the combination of 5-FU and depsipeptide induces human colon cancer cell apoptosis in a concerted manner with the induction of MHC class II gene expression.
+27509880	19	38	histone deacetylase	GeneOrGeneProduct	3065
+27509880	49	61	depsipeptide	ChemicalEntity	D047630
+27509880	66	80	5-fluorouracil	ChemicalEntity	D005472
+27509880	93	134	major histocompatibility complex class II	GeneOrGeneProduct	3119
+27509880	139	142	p21	GeneOrGeneProduct	1026
+27509880	163	174	caspase-3/7	GeneOrGeneProduct	836,840
+27509880	178	183	human	OrganismTaxon	9606
+27509880	184	196	colon cancer	DiseaseOrPhenotypicFeature	D003110
+27509880	197	204	HCT-116	CellLine	CVCL_0291
+27509880	248	267	histone deacetylase	GeneOrGeneProduct	3065
+27509880	269	273	HDAC	GeneOrGeneProduct	3065
+27509880	437	449	depsipeptide	ChemicalEntity	D047630
+27509880	454	458	HDAC	GeneOrGeneProduct	3065
+27509880	508	522	5-fluorouracil	ChemicalEntity	D005472
+27509880	524	528	5-FU	ChemicalEntity	D005472
+27509880	535	540	human	OrganismTaxon	9606
+27509880	541	553	colon cancer	DiseaseOrPhenotypicFeature	D003110
+27509880	571	578	HCT-116	CellLine	CVCL_0291
+27509880	580	584	HT29	CellLine	CVCL_0320
+27509880	590	594	SW48	CellLine	CVCL_1724
+27509880	700	704	5-FU	ChemicalEntity	D005472
+27509880	724	736	depsipeptide	ChemicalEntity	D047630
+27509880	802	813	caspase-3/7	GeneOrGeneProduct	836,840
+27509880	821	825	5-FU	ChemicalEntity	D005472
+27509880	851	862	caspase-3/7	GeneOrGeneProduct	836,840
+27509880	939	943	5-FU	ChemicalEntity	D005472
+27509880	947	959	depsipeptide	ChemicalEntity	D047630
+27509880	996	1000	5-FU	ChemicalEntity	D005472
+27509880	1005	1017	depsipeptide	ChemicalEntity	D047630
+27509880	1139	1150	caspase-3/7	GeneOrGeneProduct	836,840
+27509880	1261	1275	polysaccharide	ChemicalEntity	D011134
+27509880	1288	1332	major histocompatibility complex (MHC) class	GeneOrGeneProduct	3123
+27509880	1350	1369	MHC protein complex	GeneOrGeneProduct	3123
+27509880	1458	1462	5-FU	ChemicalEntity	D005472
+27509880	1467	1479	depsipeptide	ChemicalEntity	D047630
+27509880	1538	1556	MHC class II genes	GeneOrGeneProduct	3119
+27509880	1569	1586	MHC class I genes	GeneOrGeneProduct	3106
+27509880	1708	1726	MHC class II genes	GeneOrGeneProduct	3119
+27509880	1764	1768	PCAF	GeneOrGeneProduct	8850
+27509880	1773	1778	CIITA	GeneOrGeneProduct	4261
+27509880	1804	1808	5-FU	ChemicalEntity	D005472
+27509880	1813	1825	depsipeptide	ChemicalEntity	D047630
+27509880	1897	1909	MHC class II	GeneOrGeneProduct	3119
+27509880	1974	1986	depsipeptide	ChemicalEntity	D047630
+27509880	1991	1995	5-FU	ChemicalEntity	D005472
+27509880	2085	2089	5-FU	ChemicalEntity	D005472
+27509880	2094	2106	depsipeptide	ChemicalEntity	D047630
+27509880	2115	2120	human	OrganismTaxon	9606
+27509880	2121	2133	colon cancer	DiseaseOrPhenotypicFeature	D003110
+27509880	2193	2205	MHC class II	GeneOrGeneProduct	3119
+27509880	Association	D011134	3123	Novel
+27509880	Negative_Correlation	3065	D047630	No
+27509880	Negative_Correlation	D005472	D003110	Novel
+27509880	Association	D005472	4261	Novel
+27509880	Association	D005472	8850	Novel
+27509880	Positive_Correlation	D005472	1026	Novel
+27509880	Positive_Correlation	840	D005472	Novel
+27509880	Positive_Correlation	840	D047630	Novel
+27509880	Positive_Correlation	836	D005472	Novel
+27509880	Positive_Correlation	836	D047630	Novel
+27509880	Negative_Correlation	D047630	D003110	Novel
+27509880	Association	D047630	4261	Novel
+27509880	Association	D047630	8850	Novel
+27509880	Cotreatment	D047630	D005472	No
+27509880	Positive_Correlation	D047630	1026	Novel
+27509880	Positive_Correlation	3119	D005472	Novel
+27509880	Positive_Correlation	3119	D047630	Novel

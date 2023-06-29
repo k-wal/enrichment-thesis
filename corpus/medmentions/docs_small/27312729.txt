@@ -1,0 +1,72 @@
+27312729|t|Traumatic Brain Injury Induces Alterations in Cortical Glutamate Uptake without a Reduction in Glutamate Transporter-1 Protein Expression
+27312729|a|We hypothesize that the primary mechanism for removal of glutamate from the extracellular space is altered after traumatic brain injury (TBI). To evaluate this hypothesis, we initiated TBI in adult male rats using a 2.0 atm lateral fluid percussion injury (LFPI) model. In the ipsilateral cortex and hippocampus, we found no differences in expression of the primary glutamate transporter in the brain (GLT-1) 24 h after TBI. In contrast, we found a decrease in glutamate uptake in the cortex, but not the hippocampus, 24 h after injury. Because glutamate uptake is potently regulated by protein kinases, we assessed global serine-threonine protein kinase activity using a kinome array platform. Twenty-five kinome array peptide substrates were differentially phoshorylated between LFPI and controls in the cortex, whereas 19 peptide substrates were differentially phosphorylated in the hippocampus (fold change ≥ ± 1.15). We identified several kinases as likely to be involved in acute TBI, including protein kinase B (Akt) and protein kinase C (PKC), which are well-characterized modulators of GLT-1. Exploratory studies using an inhibitor of Akt suggest selective activation of kinases in LFPI versus controls. Ingenuity pathway analyses of implicated kinases from our network model found apoptosis and cell death pathways as top functions in acute LFPI. Taken together, our data suggest diminished activity of glutamate transporters in the prefrontal cortex, with no changes in protein expression of the primary glutamate transporter GLT-1, and global alteration s in signaling networks that include serine-threonine kinases that are known modulators of glutamate transport activity.
+27312729	0	22	Traumatic Brain Injury	T037	UMLS:C0876926
+27312729	46	54	Cortical	T017	UMLS:C0007776
+27312729	55	64	Glutamate	T103	UMLS:C0220839
+27312729	65	71	Uptake	T038	UMLS:C0243144
+27312729	95	126	Glutamate Transporter-1 Protein	T103	UMLS:C0295921
+27312729	127	137	Expression	T038	UMLS:C1171362
+27312729	195	204	glutamate	T103	UMLS:C0220839
+27312729	214	233	extracellular space	T082	UMLS:C0015352
+27312729	251	273	traumatic brain injury	T037	UMLS:C0876926
+27312729	275	278	TBI	T037	UMLS:C0876926
+27312729	284	292	evaluate	T058	UMLS:C0220825
+27312729	323	326	TBI	T037	UMLS:C0876926
+27312729	330	345	adult male rats	T204	UMLS:C0034693
+27312729	362	406	lateral fluid percussion injury (LFPI) model	T170	UMLS:C0086272
+27312729	395	399	LFPI	T170	UMLS:C0086272
+27312729	415	426	ipsilateral	T082	UMLS:C0441989
+27312729	427	433	cortex	T017	UMLS:C0007776
+27312729	438	449	hippocampus	T017	UMLS:C0019564
+27312729	478	488	expression	T038	UMLS:C1171362
+27312729	496	525	primary glutamate transporter	T103	UMLS:C0061467
+27312729	533	538	brain	T017	UMLS:C0006104
+27312729	540	545	GLT-1	T103	UMLS:C0061467
+27312729	558	561	TBI	T037	UMLS:C0876926
+27312729	599	608	glutamate	T103	UMLS:C0220839
+27312729	609	615	uptake	T038	UMLS:C0243144
+27312729	623	629	cortex	T017	UMLS:C0007776
+27312729	643	654	hippocampus	T017	UMLS:C0019564
+27312729	667	673	injury	T037	UMLS:C3263723
+27312729	683	692	glutamate	T103	UMLS:C0220839
+27312729	693	699	uptake	T038	UMLS:C0243144
+27312729	725	740	protein kinases	T103	UMLS:C0033640
+27312729	761	792	serine-threonine protein kinase	T103	UMLS:C0072402
+27312729	793	801	activity	T038	UMLS:C0243102
+27312729	810	831	kinome array platform	T170	UMLS:C2964215
+27312729	845	857	kinome array	T170	UMLS:C2964215
+27312729	858	876	peptide substrates	T103	UMLS:C0030956
+27312729	897	910	phoshorylated	T038	UMLS:C1158886
+27312729	919	923	LFPI	T170	UMLS:C0086272
+27312729	944	950	cortex	T017	UMLS:C0007776
+27312729	963	981	peptide substrates	T103	UMLS:C0030956
+27312729	1002	1016	phosphorylated	T038	UMLS:C1158886
+27312729	1024	1035	hippocampus	T017	UMLS:C0019564
+27312729	1074	1089	several kinases	T103	UMLS:C0033640
+27312729	1124	1127	TBI	T037	UMLS:C0876926
+27312729	1139	1155	protein kinase B	T103	UMLS:C0164786
+27312729	1157	1160	Akt	T103	UMLS:C0164786
+27312729	1166	1182	protein kinase C	T103	UMLS:C0033634
+27312729	1184	1187	PKC	T103	UMLS:C0033634
+27312729	1219	1229	modulators	T103	UMLS:C0072370
+27312729	1233	1238	GLT-1	T103	UMLS:C0061467
+27312729	1240	1259	Exploratory studies	T062	UMLS:C2603343
+27312729	1282	1285	Akt	T103	UMLS:C0164786
+27312729	1318	1325	kinases	T103	UMLS:C0033640
+27312729	1329	1333	LFPI	T170	UMLS:C0086272
+27312729	1351	1377	Ingenuity pathway analyses	T170	UMLS:C0868995
+27312729	1392	1399	kinases	T103	UMLS:C0033640
+27312729	1409	1422	network model	T170	UMLS:C3161035
+27312729	1429	1438	apoptosis	T038	UMLS:C0162638
+27312729	1443	1453	cell death	T038	UMLS:C0007587
+27312729	1489	1493	LFPI	T170	UMLS:C0086272
+27312729	1551	1560	glutamate	T103	UMLS:C0220839
+27312729	1581	1598	prefrontal cortex	T017	UMLS:C0162783
+27312729	1605	1615	no changes	T033	UMLS:C0243095
+27312729	1619	1637	protein expression	T038	UMLS:C1171362
+27312729	1653	1674	glutamate transporter	T103	UMLS:C0295921
+27312729	1675	1680	GLT-1	T103	UMLS:C0061467
+27312729	1709	1727	signaling networks	T038	UMLS:C0037080
+27312729	1741	1765	serine-threonine kinases	T103	UMLS:C0072402
+27312729	1781	1791	modulators	T103	UMLS:C0072370
+27312729	1795	1823	glutamate transport activity	T038	UMLS:C1159475

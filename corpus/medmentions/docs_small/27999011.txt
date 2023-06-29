@@ -1,0 +1,71 @@
+27999011|t|Intrinsic rifamycin resistance of Mycobacterium abscessus is mediated by ADP-ribosyltransferase MAB_0591
+27999011|a|Rifampicin, a potent first-line TB drug of the rifamycin group, shows only little activity against the emerging pathogen Mycobacterium abscessus. Reportedly, bacterial resistance to rifampicin is associated with polymorphisms in the target gene rpoB or the presence of enzymes that modify and thereby inactivate rifampicin. The aim of this study was to investigate the role of the MAB_0591 (arrMab)-encoded rifampicin ADP-ribosyltransferase (Arr_Mab) in innate high-level rifampicin resistance in M. abscessus. Recombinant Escherichia coli and Mycobacterium tuberculosis strains expressing MAB_0591 were generated, as was an M. abscessus deletion mutant deficient for MAB_0591. MIC assays were used to study susceptibility to rifampicin and C25 carbamate -modified rifamycin derivatives. Heterologous expression of MAB_0591 conferred rifampicin resistance to E. coli and M. tuberculosis Rifamycin MIC values were consistently lower for the M. abscessus ΔarrMab mutant as compared with the M. abscessus ATCC 19977 parental type strain. The rifamycin WT phenotype was restored after complementation of the M. abscessus ΔarrMab mutant with arrMab Further MIC data demonstrated that a C25 modification increases rifamycin activity in WT M. abscessus However, MIC studies in the M. abscessus ΔarrMab mutant suggest that C25 modified rifamycins are still subject to modification by Arr_Mab CONCLUSIONS: Our findings identify Arr_Mab as the major innate rifamycin resistance determinant of M. abscessus. Our data also indicate that Arr_Mab -mediated rifamycin resistance in M. abscessus can only in part be overcome by C25 carbamate modification.
+27999011	0	9	Intrinsic	T082	UMLS:C0205102
+27999011	10	19	rifamycin	T103	UMLS:C0035609
+27999011	34	57	Mycobacterium abscessus	T007	UMLS:C0445910
+27999011	73	95	ADP-ribosyltransferase	T103	UMLS:C0085748
+27999011	96	104	MAB_0591	T017	UMLS:C0017337
+27999011	105	115	Rifampicin	T103	UMLS:C0035608
+27999011	137	144	TB drug	T103	UMLS:C0013227
+27999011	152	167	rifamycin group	T103	UMLS:C0035609
+27999011	226	249	Mycobacterium abscessus	T007	UMLS:C0445910
+27999011	263	283	bacterial resistance	T038	UMLS:C0151521
+27999011	287	297	rifampicin	T103	UMLS:C0035608
+27999011	317	330	polymorphisms	T038	UMLS:C0032529
+27999011	345	354	gene rpoB	T017	UMLS:C0017337
+27999011	374	381	enzymes	T103	UMLS:C0014442
+27999011	417	427	rifampicin	T103	UMLS:C0035608
+27999011	486	494	MAB_0591	T017	UMLS:C0017337
+27999011	496	502	arrMab	T017	UMLS:C0017337
+27999011	512	522	rifampicin	T103	UMLS:C0035608
+27999011	523	545	ADP-ribosyltransferase	T103	UMLS:C0085748
+27999011	547	554	Arr_Mab	T103	UMLS:C0085748
+27999011	577	587	rifampicin	T103	UMLS:C0035608
+27999011	602	614	M. abscessus	T007	UMLS:C0445910
+27999011	628	644	Escherichia coli	T007	UMLS:C0014834
+27999011	649	675	Mycobacterium tuberculosis	T007	UMLS:C0026926
+27999011	684	694	expressing	T038	UMLS:C0017262
+27999011	695	703	MAB_0591	T017	UMLS:C0017337
+27999011	730	742	M. abscessus	T007	UMLS:C0445910
+27999011	743	758	deletion mutant	T038	UMLS:C1511760
+27999011	773	781	MAB_0591	T017	UMLS:C0017337
+27999011	783	793	MIC assays	T058	UMLS:C1510438
+27999011	831	841	rifampicin	T103	UMLS:C0035608
+27999011	846	859	C25 carbamate	T103	UMLS:C0006948
+27999011	870	891	rifamycin derivatives	T103	UMLS:C0035609
+27999011	906	916	expression	T038	UMLS:C0017262
+27999011	920	928	MAB_0591	T017	UMLS:C0017337
+27999011	939	949	rifampicin	T103	UMLS:C0035608
+27999011	964	971	E. coli	T007	UMLS:C0014834
+27999011	976	991	M. tuberculosis	T007	UMLS:C0026926
+27999011	992	1001	Rifamycin	T103	UMLS:C0035609
+27999011	1002	1012	MIC values	T033	UMLS:C1304747
+27999011	1045	1057	M. abscessus	T007	UMLS:C0445910
+27999011	1058	1072	ΔarrMab mutant	T017	UMLS:C0678941
+27999011	1094	1117	M. abscessus ATCC 19977	T007	UMLS:C0445910
+27999011	1144	1153	rifamycin	T103	UMLS:C0035609
+27999011	1154	1156	WT	T017	UMLS:C1883559
+27999011	1209	1221	M. abscessus	T007	UMLS:C0445910
+27999011	1222	1236	ΔarrMab mutant	T017	UMLS:C0678941
+27999011	1242	1248	arrMab	T103	UMLS:C0085748
+27999011	1257	1265	MIC data	T033	UMLS:C1304747
+27999011	1286	1289	C25	T103	UMLS:C0006948
+27999011	1290	1302	modification	T033	UMLS:C3840684
+27999011	1313	1322	rifamycin	T103	UMLS:C0035609
+27999011	1335	1337	WT	T017	UMLS:C1883559
+27999011	1338	1350	M. abscessus	T007	UMLS:C0445910
+27999011	1360	1371	MIC studies	T062	UMLS:C0681814
+27999011	1379	1391	M. abscessus	T007	UMLS:C0445910
+27999011	1392	1406	ΔarrMab mutant	T017	UMLS:C0678941
+27999011	1420	1423	C25	T103	UMLS:C0006948
+27999011	1433	1443	rifamycins	T103	UMLS:C0035609
+27999011	1465	1477	modification	T033	UMLS:C3840684
+27999011	1481	1488	Arr_Mab	T103	UMLS:C0085748
+27999011	1524	1531	Arr_Mab	T103	UMLS:C0085748
+27999011	1552	1561	rifamycin	T103	UMLS:C0035609
+27999011	1588	1600	M. abscessus	T007	UMLS:C0445910
+27999011	1630	1637	Arr_Mab	T103	UMLS:C0085748
+27999011	1648	1657	rifamycin	T103	UMLS:C0035609
+27999011	1672	1684	M. abscessus	T007	UMLS:C0445910
+27999011	1717	1730	C25 carbamate	T103	UMLS:C0006948
+27999011	1731	1743	modification	T033	UMLS:C3840684

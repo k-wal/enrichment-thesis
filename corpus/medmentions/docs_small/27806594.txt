@@ -1,0 +1,62 @@
+27806594|t|Technical Note: Bone mineral density measurements of strontium -rich trabecular bone - mimicking phantoms using quantitative ultrasound
+27806594|a|Bone quantity, as determined by the current gold standard, dual energy X-ray absorptiometry (DXA), through measured areal bone mineral density (aBMD), is subject to positive biases if bone strontium levels are high. This is of particular concern for populations administered strontium-based compounds for the treatment of osteoporosis. This study investigated the dependence of bone mineral density (BMD) determinations, and associated ultrasound -determined indices, obtained by quantitative ultrasound (QUS), on bone strontium content using a new generation of trabecular bone - mimicking phantoms. A new generation of bone - mimicking phantoms, consisting of hydroxyapatite (HA) and gelatin, was developed. Castor oil layers were included in these phantoms to create a multilayer bone - mimicking phantom. These phantoms were prepared using a bone mineral fraction consisting of varying strontium concentrations in the range of 0-2.5% mol/mol as strontium-substituted HA. The effect of varying bone strontium content on determined quality indices was evaluated based on determined speed of sound (SOS), broadband ultrasound attenuation (BUA) and determined quantitative ultrasound index (QUI) for phantoms with varying BMD values and varying strontium concentration using two QUS systems: a clinical Sahara® system and an in-house research system with two identical transducers with center frequency of 1 MHz. The two QUS systems were also compared through a Bland-Altman analysis. Both the clinical system and the research QUS systems showed a strong dependency between BMD and BUA, indicating a potential for QUS to be used as a means of estimating BMD (p = 0.001). SOS was found to have no correlation to BMD (p = 0.546). There was no correlation observed between BUA and increasing bone strontium concentrations for the research (p = 0.749) and clinical (p = 0.609) QUS systems. Similarly, no dependency was observed between the SOS and bone strontium levels up to 2.5 mol/mol [Sr /(Sr + Ca)]% for the research (p = 0.862) and clinical (p = 0.481) QUS systems. No effect on the QUI values was observed with changing strontium levels with either research (p = 0.939) or clinical QUS systems (p = 0.931). A Bland-Altman analysis showed that there was a clear offset in determined QUI values for both systems but they are in agreement with one another. Bone quality can be assessed through the use of QUS while increasing bone strontium concentration was found to have no effect on QUS -determined quality indices. This study concludes that QUS can potentially be used for the determination of bone quality without introducing biases due to bone strontium levels as is known to be the case with DXA determined aBMD.
+27806594	16	49	Bone mineral density measurements	T058	UMLS:C0177804
+27806594	53	62	strontium	T103	UMLS:C0038467
+27806594	69	84	trabecular bone	T017	UMLS:C0222660
+27806594	136	140	Bone	T017	UMLS:C0005931
+27806594	195	227	dual energy X-ray absorptiometry	T058	UMLS:C1510486
+27806594	229	232	DXA	T058	UMLS:C1510486
+27806594	243	278	measured areal bone mineral density	T058	UMLS:C0177804
+27806594	280	284	aBMD	T201	UMLS:C0005938
+27806594	320	324	bone	T017	UMLS:C0005931
+27806594	325	341	strontium levels	T058	UMLS:C0524273
+27806594	386	397	populations	T098	UMLS:C1257890
+27806594	411	436	strontium-based compounds	T103	UMLS:C0303537
+27806594	445	470	treatment of osteoporosis	T058	UMLS:C4303745
+27806594	514	555	bone mineral density (BMD) determinations	T058	UMLS:C0177804
+27806594	572	582	ultrasound	T058	UMLS:C0041618
+27806594	595	602	indices	T170	UMLS:C0918012
+27806594	650	654	bone	T017	UMLS:C0005931
+27806594	655	664	strontium	T103	UMLS:C0038467
+27806594	699	714	trabecular bone	T017	UMLS:C0222660
+27806594	757	761	bone	T017	UMLS:C0005931
+27806594	798	812	hydroxyapatite	T103	UMLS:C0115137
+27806594	814	816	HA	T103	UMLS:C0115137
+27806594	846	856	Castor oil	T103	UMLS:C0007343
+27806594	919	923	bone	T017	UMLS:C0005931
+27806594	1026	1050	strontium concentrations	T058	UMLS:C0524273
+27806594	1085	1109	strontium-substituted HA	T103	UMLS:C0171322
+27806594	1133	1137	bone	T017	UMLS:C0005931
+27806594	1138	1147	strontium	T103	UMLS:C0038467
+27806594	1178	1185	indices	T170	UMLS:C0918012
+27806594	1358	1361	BMD	T201	UMLS:C0005938
+27806594	1381	1404	strontium concentration	T058	UMLS:C0524273
+27806594	1430	1453	clinical Sahara® system	T058	UMLS:C3516025
+27806594	1470	1478	research	T062	UMLS:C0035168
+27806594	1630	1645	clinical system	T058	UMLS:C3516025
+27806594	1654	1662	research	T062	UMLS:C0035168
+27806594	1710	1713	BMD	T201	UMLS:C0005938
+27806594	1790	1793	BMD	T201	UMLS:C0005938
+27806594	1847	1850	BMD	T201	UMLS:C0005938
+27806594	1874	1888	no correlation	T033	UMLS:C0243095
+27806594	1925	1929	bone	T017	UMLS:C0005931
+27806594	1930	1954	strontium concentrations	T058	UMLS:C0524273
+27806594	1963	1971	research	T062	UMLS:C0035168
+27806594	2080	2084	bone	T017	UMLS:C0005931
+27806594	2085	2101	strontium levels	T058	UMLS:C0524273
+27806594	2121	2123	Sr	T103	UMLS:C0038467
+27806594	2126	2128	Sr	T103	UMLS:C0038467
+27806594	2131	2133	Ca	T103	UMLS:C0006675
+27806594	2145	2153	research	T062	UMLS:C0035168
+27806594	2259	2275	strontium levels	T058	UMLS:C0524273
+27806594	2288	2296	research	T062	UMLS:C0035168
+27806594	2312	2332	clinical QUS systems	T058	UMLS:C3516025
+27806594	2493	2497	Bone	T017	UMLS:C0005931
+27806594	2562	2566	bone	T017	UMLS:C0005931
+27806594	2567	2590	strontium concentration	T058	UMLS:C0524273
+27806594	2646	2653	indices	T170	UMLS:C0918012
+27806594	2734	2738	bone	T017	UMLS:C0005931
+27806594	2781	2785	bone	T017	UMLS:C0005931
+27806594	2786	2802	strontium levels	T058	UMLS:C0524273
+27806594	2835	2838	DXA	T058	UMLS:C1510486
+27806594	2850	2854	aBMD	T201	UMLS:C0005938

@@ -1,0 +1,15 @@
+7468724|t|Cardiovascular complications associated with terbutaline treatment for preterm labor.
+7468724|a|Severe cardiovascular complications occurred in eight of 160 patients treated with terbutaline for preterm labor. Associated corticosteroid therapy and twin gestations appear to be predisposing factors. Potential mechanisms of the pathophysiology are briefly discussed.
+7468724	0	28	Cardiovascular complications	DiseaseOrPhenotypicFeature	D002318
+7468724	45	56	terbutaline	ChemicalEntity	D013726
+7468724	71	84	preterm labor	DiseaseOrPhenotypicFeature	D007752
+7468724	93	121	cardiovascular complications	DiseaseOrPhenotypicFeature	D002318
+7468724	147	155	patients	OrganismTaxon	9606
+7468724	169	180	terbutaline	ChemicalEntity	D013726
+7468724	185	198	preterm labor	DiseaseOrPhenotypicFeature	D007752
+7468724	211	225	corticosteroid	ChemicalEntity	D000305
+7468724	Negative_Correlation	D007752	D000305	Novel
+7468724	Association	D013726	D000305	Novel
+7468724	Negative_Correlation	D013726	D007752	No
+7468724	Positive_Correlation	D002318	D000305	Novel
+7468724	Association	D002318	D013726	Novel

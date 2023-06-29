@@ -1,0 +1,49 @@
+27860185|t|Sildenafil attenuates hypoxic pulmonary remodelling by inhibiting bone marrow progenitor cells.
+27860185|a|The recruitment of bone marrow (BM)-derived progenitor cells to the lung is related to pulmonary remodelling and the pathogenesis of pulmonary hypertension (PH). Although sildenafil is a known target in PH treatment, the underlying molecular mechanism is still elusive. To test the hypothesis that the therapeutic effect of sildenafil is linked to the reduced recruitment of BM-derived progenitor cells, we induced pulmonary remodelling in rats by two-week exposure to chronic hypoxia (CH, 10% oxygen), a trigger of BM-derived progenitor cells. Rats were treated with either placebo (saline) or sildenafil (1.4 mg/kg/day ip) during CH. Control rats were kept in room air (21% oxygen) with no treatment. As expected, sildenafil attenuated the CH-induced increase in right ventricular systolic pressure and right ventricular hypertrophy. However, sildenafil suppressed the CH-induced increase in c-kit(+) cells in the adventitia of pulmonary arteries. Moreover, sildenafil reduced the number of c-kit(+) cells that colocalize with tyrosine kinase receptor 2 (VEGF-R2) and CD68 (a marker for macrophages), indicating a positive effect on moderating hypoxia-induced smooth muscle cell proliferation and inflammation without affecting the pulmonary levels of hypoxia-inducible factor (HIF)-1a. Furthermore, sildenafil depressed the number of CXCR4(+) cells. Collectively, these findings indicate that the improvement in pulmonary haemodynamic by sildenafil is linked to decreased recruitment of BM-derived c-kit(+) cells in the pulmonary tissue. The attenuation of the recruitment of BM-derived c-kit(+) cells by sildenafil may provide novel therapeutic insights into the control of pulmonary remodelling.
+27860185	0	10	Sildenafil	ChemicalEntity	D000068677
+27860185	22	51	hypoxic pulmonary remodelling	DiseaseOrPhenotypicFeature	D066253
+27860185	183	204	pulmonary remodelling	DiseaseOrPhenotypicFeature	D066253
+27860185	229	251	pulmonary hypertension	DiseaseOrPhenotypicFeature	D006976
+27860185	253	255	PH	DiseaseOrPhenotypicFeature	D006976
+27860185	267	277	sildenafil	ChemicalEntity	D000068677
+27860185	299	301	PH	DiseaseOrPhenotypicFeature	D006976
+27860185	420	430	sildenafil	ChemicalEntity	D000068677
+27860185	511	532	pulmonary remodelling	DiseaseOrPhenotypicFeature	D066253
+27860185	536	540	rats	OrganismTaxon	10116
+27860185	573	580	hypoxia	DiseaseOrPhenotypicFeature	D000860
+27860185	582	584	CH	DiseaseOrPhenotypicFeature	D000860
+27860185	590	596	oxygen	ChemicalEntity	D010100
+27860185	641	645	Rats	OrganismTaxon	10116
+27860185	691	701	sildenafil	ChemicalEntity	D000068677
+27860185	728	730	CH	DiseaseOrPhenotypicFeature	D000860
+27860185	740	744	rats	OrganismTaxon	10116
+27860185	772	778	oxygen	ChemicalEntity	D010100
+27860185	812	822	sildenafil	ChemicalEntity	D000068677
+27860185	838	840	CH	DiseaseOrPhenotypicFeature	D000860
+27860185	901	930	right ventricular hypertrophy	DiseaseOrPhenotypicFeature	D017380
+27860185	941	951	sildenafil	ChemicalEntity	D000068677
+27860185	967	969	CH	DiseaseOrPhenotypicFeature	D000860
+27860185	990	995	c-kit	GeneOrGeneProduct	64030
+27860185	1056	1066	sildenafil	ChemicalEntity	D000068677
+27860185	1089	1094	c-kit	GeneOrGeneProduct	64030
+27860185	1125	1151	tyrosine kinase receptor 2	GeneOrGeneProduct	25589
+27860185	1153	1160	VEGF-R2	GeneOrGeneProduct	25589
+27860185	1166	1170	CD68	GeneOrGeneProduct	287435
+27860185	1242	1249	hypoxia	DiseaseOrPhenotypicFeature	D000860
+27860185	1295	1307	inflammation	DiseaseOrPhenotypicFeature	D007249
+27860185	1350	1383	hypoxia-inducible factor (HIF)-1a	GeneOrGeneProduct	29560
+27860185	1398	1408	sildenafil	ChemicalEntity	D000068677
+27860185	1433	1438	CXCR4	GeneOrGeneProduct	60628
+27860185	1537	1547	sildenafil	ChemicalEntity	D000068677
+27860185	1597	1602	c-kit	GeneOrGeneProduct	64030
+27860185	1686	1691	c-kit	GeneOrGeneProduct	64030
+27860185	1704	1714	sildenafil	ChemicalEntity	D000068677
+27860185	1774	1795	pulmonary remodelling	DiseaseOrPhenotypicFeature	D066253
+27860185	Negative_Correlation	D000068677	D006976	No
+27860185	Negative_Correlation	D000068677	D066253	Novel
+27860185	Negative_Correlation	D000068677	60628	Novel
+27860185	Negative_Correlation	D000068677	D007249	Novel
+27860185	Association	D000068677	287435	Novel
+27860185	Association	D000068677	25589	Novel
+27860185	Negative_Correlation	D000068677	D017380	Novel
+27860185	Negative_Correlation	D000068677	D000860	Novel

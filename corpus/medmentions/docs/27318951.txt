@@ -1,0 +1,87 @@
+27318951|t|Preventing Youth Internalizing Symptoms Through the Familias Unidas Intervention: Examining Variation in Response
+27318951|a|Prevention programs that strengthen parenting and family functioning have been found to reduce poor behavioral outcomes in adolescents, including substance use, HIV risk, externalizing and internalizing problems. However, there is evidence that not all youth benefit similarly from these programs. Familias Unidas is a family-focused intervention designed to prevent substance use and sexual risk among Hispanic youth and has recently demonstrated unanticipated reductions in internalizing symptoms for some youth. This paper examines variation in intervention response for internalizing symptoms using individual-level data pooled across four distinct Familias Unidas trials: (1) 266 eighth grade students recruited from the general school population; (2) 160 ninth grade students from the general school population; (3) 213 adolescents with conduct, aggression, and/or attention problems; and (4) 242 adolescents with a delinquency history. Causal inference growth mixture modeling suggests a three- class model. The two largest classes represent youth with low (60 %) and medium (27 %) internalizing symptoms at baseline, and both intervention and control participants show reductions in internalizing symptoms. The third class (13 %) represents youth with high levels of baseline internalizing symptoms who remain at steady levels of internalizing symptoms when exposed to the intervention, but who experience an increase in symptoms under the control condition. Female gender, low baseline levels of parent - adolescent communication, and older age were associated with membership in the high-risk class. These synthesis analyses involving a large sample of youth with varying initial risk levels represent a further step toward strengthening our knowledge of preventive intervention response and improving preventive interventions.
+27318951	11	16	Youth	T100	C0087178
+27318951	17	39	Internalizing Symptoms	T048	C1398215
+27318951	52	67	Familias Unidas	UnknownType	C0814781
+27318951	68	80	Intervention	UnknownType	C0683495
+27318951	92	101	Variation	T081	C1705241
+27318951	105	113	Response	T201	C0521982
+27318951	114	133	Prevention programs	T170	C0679717
+27318951	150	159	parenting	T054	C0085092
+27318951	164	182	family functioning	T054	C0680051
+27318951	202	208	reduce	T061	C0441610
+27318951	209	224	poor behavioral	T184	C1398200
+27318951	237	248	adolescents	T100	C0205653
+27318951	260	273	substance use	T048	C0237123
+27318951	275	283	HIV risk	T033	C0744979
+27318951	303	325	internalizing problems	T048	C1398215
+27318951	367	372	youth	T100	C0087178
+27318951	402	410	programs	T170	C0679717
+27318951	412	427	Familias Unidas	UnknownType	C0814781
+27318951	433	460	family-focused intervention	UnknownType	C0683495
+27318951	481	494	substance use	T048	C0237123
+27318951	499	510	sexual risk	T033	C1563228
+27318951	517	525	Hispanic	T098	C0086409
+27318951	526	531	youth	T100	C0087178
+27318951	576	586	reductions	T061	C0441610
+27318951	590	612	internalizing symptoms	T048	C1398215
+27318951	622	627	youth	T100	C0087178
+27318951	662	674	intervention	UnknownType	C0683495
+27318951	688	710	internalizing symptoms	T048	C1398215
+27318951	717	738	individual-level data	UnknownType	C0814855
+27318951	767	782	Familias Unidas	UnknownType	C0814781
+27318951	783	789	trials	T062	C1515364
+27318951	799	811	eighth grade	T033	C2135624
+27318951	812	820	students	T098	C0038492
+27318951	848	865	school population	T098	C0242445
+27318951	875	886	ninth grade	T033	C2135625
+27318951	887	895	students	T098	C0038492
+27318951	913	930	school population	T098	C0242445
+27318951	940	951	adolescents	T100	C0205653
+27318951	957	964	conduct	T048	C0149654
+27318951	966	976	aggression	T055	C0001807
+27318951	985	1003	attention problems	T033	C3843050
+27318951	1017	1028	adolescents	T100	C0205653
+27318951	1036	1047	delinquency	T048	C0522174
+27318951	1057	1097	Causal inference growth mixture modeling	UnknownType	C0814921
+27318951	1116	1121	class	T185	C0008902
+27318951	1122	1127	model	T170	C3161035
+27318951	1145	1152	classes	T185	C0008902
+27318951	1163	1168	youth	T100	C0087178
+27318951	1174	1177	low	T080	C0205251
+27318951	1189	1195	medium	T081	C0439536
+27318951	1203	1225	internalizing symptoms	T048	C1398215
+27318951	1229	1237	baseline	T081	C1442488
+27318951	1248	1260	intervention	UnknownType	C0683495
+27318951	1265	1272	control	T096	C0009932
+27318951	1273	1285	participants	T098	C0679646
+27318951	1291	1301	reductions	T061	C0441610
+27318951	1305	1327	internalizing symptoms	T048	C1398215
+27318951	1339	1344	class	T185	C0008902
+27318951	1363	1368	youth	T100	C0087178
+27318951	1374	1378	high	T080	C0205250
+27318951	1379	1385	levels	T080	C0441889
+27318951	1389	1397	baseline	T081	C1442488
+27318951	1398	1420	internalizing symptoms	T048	C1398215
+27318951	1435	1441	steady	T080	C0205361
+27318951	1442	1448	levels	T080	C0441889
+27318951	1452	1474	internalizing symptoms	T048	C1398215
+27318951	1480	1490	exposed to	T080	C0332157
+27318951	1495	1507	intervention	UnknownType	C0683495
+27318951	1543	1551	symptoms	T048	C1398215
+27318951	1562	1579	control condition	T080	C0243148
+27318951	1581	1594	Female gender	T032	C0086287
+27318951	1596	1599	low	T080	C0205251
+27318951	1600	1608	baseline	T081	C1442488
+27318951	1609	1615	levels	T080	C0441889
+27318951	1619	1625	parent	T099	C0030551
+27318951	1628	1638	adolescent	T100	C0205653
+27318951	1639	1652	communication	T054	C0009452
+27318951	1658	1667	older age	T098	C1999167
+27318951	1707	1716	high-risk	T033	C0332167
+27318951	1717	1722	class	T185	C0008902
+27318951	1777	1782	youth	T100	C0087178
+27318951	1796	1815	initial risk levels	T080	C3166291
+27318951	1879	1902	preventive intervention	UnknownType	C0683495
+27318951	1903	1911	response	T201	C0521982
+27318951	1926	1950	preventive interventions	UnknownType	C0683495

@@ -1,0 +1,65 @@
+24842192|t|Chronic treatment with metformin suppresses toll-like receptor 4 signaling and attenuates left ventricular dysfunction following myocardial infarction.
+24842192|a|Acute treatment with metformin has a protective effect in myocardial infarction by suppression of inflammatory responses due to activation of AMP-activated protein kinase (AMPK). In the present study, the effect of chronic pre-treatment with metformin on cardiac dysfunction and toll-like receptor 4 (TLR4) activities following myocardial infarction and their relation with AMPK were assessed. Male Wistar rats were randomly assigned to one of 5 groups (n=6): normal control and groups were injected isoproterenol after chronic pre-treatment with 0, 25, 50, or 100mg/kg of metformin twice daily for 14 days. Isoproterenol (100mg/kg) was injected subcutaneously on the 13th and 14th days to induce acute myocardial infarction. Isoproterenol alone decreased left ventricular systolic pressure and myocardial contractility indexed as LVdp/dtmax and LVdp/dtmin. The left ventricular dysfunction was significantly lower in the groups treated with 25 and 50mg/kg of metformin. Metfromin markedly lowered isoproterenol-induced elevation in the levels of TLR4 mRNA, myeloid differentiation protein 88 (MyD88), tumor necrosis factor-alpha (TNF-a), and interleukin 6 (IL-6) in the heart tissues. Similar changes were also seen in the serum levels of TNF-a and IL-6. However, the lower doses of 25 and 50mg/kg were more effective than 100mg/kg. Phosphorylated AMPKa (p-AMPK) in the myocardium was significantly elevated by 25mg/kg of metformin, slightly by 50mg/kg, but not by 100mg/kg. Chronic pre-treatment with metformin reduces post-myocardial infarction cardiac dysfunction and suppresses inflammatory responses, possibly through inhibition of TLR4 activities. This mechanism can be considered as a target to protect infarcted myocardium.
+24842192	23	32	metformin	ChemicalEntity	D008687
+24842192	44	64	toll-like receptor 4	GeneOrGeneProduct	29260
+24842192	90	118	left ventricular dysfunction	DiseaseOrPhenotypicFeature	D018487
+24842192	129	150	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+24842192	173	182	metformin	ChemicalEntity	D008687
+24842192	210	231	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+24842192	250	262	inflammatory	DiseaseOrPhenotypicFeature	D007249
+24842192	294	322	AMP-activated protein kinase	GeneOrGeneProduct	65248
+24842192	324	328	AMPK	GeneOrGeneProduct	65248
+24842192	394	403	metformin	ChemicalEntity	D008687
+24842192	407	426	cardiac dysfunction	DiseaseOrPhenotypicFeature	D006331
+24842192	431	451	toll-like receptor 4	GeneOrGeneProduct	29260
+24842192	453	457	TLR4	GeneOrGeneProduct	29260
+24842192	480	501	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+24842192	526	530	AMPK	GeneOrGeneProduct	65248
+24842192	558	562	rats	OrganismTaxon	10116
+24842192	652	665	isoproterenol	ChemicalEntity	D007545
+24842192	725	734	metformin	ChemicalEntity	D008687
+24842192	760	773	Isoproterenol	ChemicalEntity	D007545
+24842192	849	876	acute myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+24842192	878	891	Isoproterenol	ChemicalEntity	D007545
+24842192	1014	1042	left ventricular dysfunction	DiseaseOrPhenotypicFeature	D018487
+24842192	1112	1121	metformin	ChemicalEntity	D008687
+24842192	1123	1132	Metfromin	ChemicalEntity	D008687
+24842192	1150	1163	isoproterenol	ChemicalEntity	D007545
+24842192	1199	1203	TLR4	GeneOrGeneProduct	29260
+24842192	1210	1244	myeloid differentiation protein 88	GeneOrGeneProduct	301059
+24842192	1246	1251	MyD88	GeneOrGeneProduct	301059
+24842192	1254	1281	tumor necrosis factor-alpha	GeneOrGeneProduct	24835
+24842192	1283	1288	TNF-a	GeneOrGeneProduct	24835
+24842192	1295	1308	interleukin 6	GeneOrGeneProduct	24498
+24842192	1310	1314	IL-6	GeneOrGeneProduct	24498
+24842192	1392	1397	TNF-a	GeneOrGeneProduct	24835
+24842192	1402	1406	IL-6	GeneOrGeneProduct	24498
+24842192	1501	1506	AMPKa	GeneOrGeneProduct	65248
+24842192	1510	1514	AMPK	GeneOrGeneProduct	65248
+24842192	1575	1584	metformin	ChemicalEntity	D008687
+24842192	1655	1664	metformin	ChemicalEntity	D008687
+24842192	1678	1699	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+24842192	1700	1719	cardiac dysfunction	DiseaseOrPhenotypicFeature	D006331
+24842192	1735	1747	inflammatory	DiseaseOrPhenotypicFeature	D007249
+24842192	1790	1794	TLR4	GeneOrGeneProduct	29260
+24842192	1863	1883	infarcted myocardium	DiseaseOrPhenotypicFeature	D009203
+24842192	Negative_Correlation	65248	D007249	No
+24842192	Negative_Correlation	65248	D009203	No
+24842192	Positive_Correlation	D007545	24835	Novel
+24842192	Positive_Correlation	D007545	24498	Novel
+24842192	Positive_Correlation	D007545	301059	Novel
+24842192	Positive_Correlation	D007545	D009203	No
+24842192	Positive_Correlation	D007545	29260	Novel
+24842192	Association	29260	D007249	Novel
+24842192	Association	29260	D006331	Novel
+24842192	Association	29260	D009203	Novel
+24842192	Negative_Correlation	D008687	D007249	Novel
+24842192	Negative_Correlation	D008687	D006331	Novel
+24842192	Positive_Correlation	D008687	65248	Novel
+24842192	Negative_Correlation	D008687	24835	Novel
+24842192	Negative_Correlation	D008687	24498	Novel
+24842192	Negative_Correlation	D008687	301059	Novel
+24842192	Negative_Correlation	D008687	D009203	Novel
+24842192	Negative_Correlation	D008687	D007545	Novel
+24842192	Negative_Correlation	D008687	D018487	Novel
+24842192	Negative_Correlation	D008687	29260	Novel

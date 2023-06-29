@@ -1,0 +1,65 @@
+27690050|t|Ontology -Based High - Level Context Inference for Human Behavior Identification
+27690050|a|Recent years have witnessed a huge progress in the automatic identification of individual primitives of human behavior, such as activities or locations. However, the complex nature of human behavior demands more abstract contextual information for its analysis. This work presents an ontology -based method that combines low - level primitives of behavior, namely activity, locations and emotions, unprecedented to date, to intelligently derive more meaningful high - level context information. The paper contributes with a new open ontology describing both low - level and high - level context information, as well as their relationships. Furthermore, a framework building on the developed ontology and reasoning models is presented and evaluated. The proposed method proves to be robust while identifying high - level contexts even in the event of erroneously - detected low -l evel context s. Despite reasonable inference times being obtained for a relevant set of users and instances, additional work is required to scale to long-term scenarios with a large number of users.
+27690050	0	8	Ontology	T090	C1518584
+27690050	16	20	High	T080	C0205250
+27690050	23	28	Level	T080	C0441889
+27690050	29	36	Context	T078	C0449255
+27690050	37	46	Inference	T041	C0679201
+27690050	51	65	Human Behavior	T055	C3826173
+27690050	66	80	Identification	T080	C0205396
+27690050	116	124	progress	T169	C1280477
+27690050	132	141	automatic	T169	C0205554
+27690050	142	156	identification	T080	C0205396
+27690050	160	170	individual	T098	C0237401
+27690050	171	181	primitives	T170	C3645627
+27690050	185	199	human behavior	T055	C3826173
+27690050	209	219	activities	T056	C0026606
+27690050	223	232	locations	T082	C0450429
+27690050	247	254	complex	T080	C0439855
+27690050	255	261	nature	T169	C1262865
+27690050	265	279	human behavior	T055	C3826173
+27690050	302	312	contextual	T078	C0449255
+27690050	313	324	information	T078	C1533716
+27690050	365	373	ontology	T090	C1518584
+27690050	381	387	method	T170	C0025663
+27690050	402	405	low	T080	C0205251
+27690050	408	413	level	T080	C0441889
+27690050	414	424	primitives	T170	C3645627
+27690050	428	436	behavior	T053	C0004927
+27690050	445	453	activity	T056	C0026606
+27690050	455	464	locations	T082	C0450429
+27690050	469	477	emotions	T041	C0013987
+27690050	479	492	unprecedented	T080	C0439673
+27690050	496	500	date	T079	C0011008
+27690050	542	546	high	T080	C0205250
+27690050	549	554	level	T080	C0441889
+27690050	555	562	context	T078	C0449255
+27690050	563	574	information	T078	C1533716
+27690050	586	597	contributes	T052	C1880177
+27690050	614	622	ontology	T090	C1518584
+27690050	639	642	low	T080	C0205251
+27690050	645	650	level	T080	C0441889
+27690050	655	659	high	T080	C0205250
+27690050	662	667	level	T080	C0441889
+27690050	668	675	context	T078	C0449255
+27690050	676	687	information	T078	C1533716
+27690050	706	719	relationships	T080	C0439849
+27690050	736	745	framework	T077	C1709697
+27690050	772	780	ontology	T090	C1518584
+27690050	795	801	models	T170	C3161035
+27690050	888	892	high	T080	C0205250
+27690050	895	900	level	T080	C0441889
+27690050	901	909	contexts	T078	C0449255
+27690050	922	927	event	T051	C0441471
+27690050	931	942	erroneously	T080	C0205556
+27690050	945	953	detected	T033	C0442726
+27690050	954	957	low	T080	C0205251
+27690050	961	965	evel	T080	C0441889
+27690050	966	973	context	T078	C0449255
+27690050	996	1005	inference	T041	C0679201
+27690050	1033	1041	relevant	T080	C2347946
+27690050	1042	1045	set	T041	C0036849
+27690050	1049	1054	users	T098	C1706077
+27690050	1059	1068	instances	T078	C1550608
+27690050	1120	1129	scenarios	T169	C0683579
+27690050	1153	1158	users	T098	C1706077

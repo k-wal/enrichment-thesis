@@ -1,0 +1,92 @@
+26270232|t|Serum levels of chemokines CCL4 and CCL5 in cirrhotic patients indicate the presence of hepatocellular carcinoma.
+26270232|a|BACKGROUND: Most hepatocellular carcinomas (HCCs) are diagnosed at an advanced stage. The prognostic value of serum tumour markers alpha-fetoprotein (AFP) and des-gamma-carboxy prothrombin (DCP) is limited. The aim of our study is to evaluate the diagnostic value of serum growth factors, apoptotic and inflammatory mediators of cirrhotic patients with and without HCC. METHODS: Serum samples were collected from cirrhotic potential liver transplant patients (LTx) with (n=61) and without HCC (n=78) as well as from healthy controls (HCs; n=39). Serum concentrations of CRP, neopterin and IL-6 as markers of inflammation and thrombopoietin (TPO), GCSF, FGF basic and VEGF, HMGB1, CK-18 (M65) and CK18 fragment (M30) and a panel of proinflammatory chemokines (CCL2, CCL3, CCL4, CCL5, CXCL5 and IL-8) were measured. Chi square, Fisher exact, Mann-Whitney U-tests, ROC curve analysis and forward stepwise logistic regression analyses were applied. RESULTS: Patients with HCC had higher serum TPO and chemokines (P   <0.001 for TPO, CCL4, CCL5 and CXCL5) and lower CCL2 (P=0.008) levels than cirrhotic patients without HCC. Multivariate forward stepwise regression analysis for significant parameters showed that among the studied parameters CCL4 and CCL5 (P=0.001) are diagnostic markers of HCC. Serum levels of TPO and chemokines were lower, whereas M30 was significantly higher in cirrhotic patients than in HCs. CONCLUSIONS: High serum levels of inflammatory chemokines such as CCL4 and CCL5 in the serum of cirrhotic patients indicate the presence of HCC.
+26270232	16	26	chemokines	GeneOrGeneProduct	3576,6347,6348,6351,6352,6374
+26270232	27	31	CCL4	GeneOrGeneProduct	6351
+26270232	36	40	CCL5	GeneOrGeneProduct	6352
+26270232	44	53	cirrhotic	DiseaseOrPhenotypicFeature	D008103
+26270232	54	62	patients	OrganismTaxon	9606
+26270232	88	112	hepatocellular carcinoma	DiseaseOrPhenotypicFeature	D006528
+26270232	131	156	hepatocellular carcinomas	DiseaseOrPhenotypicFeature	D006528
+26270232	158	162	HCCs	DiseaseOrPhenotypicFeature	D006528
+26270232	230	236	tumour	DiseaseOrPhenotypicFeature	D009369
+26270232	245	262	alpha-fetoprotein	GeneOrGeneProduct	174
+26270232	264	267	AFP	GeneOrGeneProduct	174
+26270232	273	302	des-gamma-carboxy prothrombin	GeneOrGeneProduct	2147
+26270232	304	307	DCP	GeneOrGeneProduct	2147
+26270232	417	429	inflammatory	DiseaseOrPhenotypicFeature	D007249
+26270232	443	452	cirrhotic	DiseaseOrPhenotypicFeature	D008103
+26270232	453	461	patients	OrganismTaxon	9606
+26270232	479	482	HCC	DiseaseOrPhenotypicFeature	D006528
+26270232	527	536	cirrhotic	DiseaseOrPhenotypicFeature	D008103
+26270232	564	572	patients	OrganismTaxon	9606
+26270232	603	606	HCC	DiseaseOrPhenotypicFeature	D006528
+26270232	684	687	CRP	GeneOrGeneProduct	1401
+26270232	689	698	neopterin	ChemicalEntity	D019798
+26270232	703	707	IL-6	GeneOrGeneProduct	3569
+26270232	722	734	inflammation	DiseaseOrPhenotypicFeature	D007249
+26270232	739	753	thrombopoietin	GeneOrGeneProduct	7066
+26270232	755	758	TPO	GeneOrGeneProduct	7066
+26270232	761	765	GCSF	GeneOrGeneProduct	1440
+26270232	767	776	FGF basic	GeneOrGeneProduct	2247
+26270232	781	785	VEGF	GeneOrGeneProduct	7422
+26270232	787	792	HMGB1	GeneOrGeneProduct	3146
+26270232	794	799	CK-18	GeneOrGeneProduct	3875
+26270232	810	814	CK18	GeneOrGeneProduct	3875
+26270232	845	871	proinflammatory chemokines	GeneOrGeneProduct	3576,6347,6348,6351,6352,6374
+26270232	873	877	CCL2	GeneOrGeneProduct	6347
+26270232	879	883	CCL3	GeneOrGeneProduct	6348
+26270232	885	889	CCL4	GeneOrGeneProduct	6351
+26270232	891	895	CCL5	GeneOrGeneProduct	6352
+26270232	897	902	CXCL5	GeneOrGeneProduct	6374
+26270232	907	911	IL-8	GeneOrGeneProduct	3576
+26270232	1068	1076	Patients	OrganismTaxon	9606
+26270232	1082	1085	HCC	DiseaseOrPhenotypicFeature	D006528
+26270232	1103	1106	TPO	GeneOrGeneProduct	7066
+26270232	1111	1121	chemokines	GeneOrGeneProduct	3576,6347,6348,6351,6352,6374
+26270232	1138	1141	TPO	GeneOrGeneProduct	7066
+26270232	1143	1147	CCL4	GeneOrGeneProduct	6351
+26270232	1149	1153	CCL5	GeneOrGeneProduct	6352
+26270232	1158	1163	CXCL5	GeneOrGeneProduct	6374
+26270232	1175	1179	CCL2	GeneOrGeneProduct	6347
+26270232	1202	1211	cirrhotic	DiseaseOrPhenotypicFeature	D008103
+26270232	1212	1220	patients	OrganismTaxon	9606
+26270232	1229	1232	HCC	DiseaseOrPhenotypicFeature	D006528
+26270232	1352	1356	CCL4	GeneOrGeneProduct	6351
+26270232	1361	1365	CCL5	GeneOrGeneProduct	6352
+26270232	1402	1405	HCC	DiseaseOrPhenotypicFeature	D006528
+26270232	1423	1426	TPO	GeneOrGeneProduct	7066
+26270232	1431	1441	chemokines	GeneOrGeneProduct	3576,6347,6348,6351,6352,6374
+26270232	1494	1503	cirrhotic	DiseaseOrPhenotypicFeature	D008103
+26270232	1504	1512	patients	OrganismTaxon	9606
+26270232	1560	1572	inflammatory	DiseaseOrPhenotypicFeature	D007249
+26270232	1573	1583	chemokines	GeneOrGeneProduct	3576,6347,6348,6351,6352,6374
+26270232	1592	1596	CCL4	GeneOrGeneProduct	6351
+26270232	1601	1605	CCL5	GeneOrGeneProduct	6352
+26270232	1622	1631	cirrhotic	DiseaseOrPhenotypicFeature	D008103
+26270232	1632	1640	patients	OrganismTaxon	9606
+26270232	1666	1669	HCC	DiseaseOrPhenotypicFeature	D006528
+26270232	Association	D009369	2147	No
+26270232	Association	D009369	174	No
+26270232	Association	7066	D008103	Novel
+26270232	Positive_Correlation	D006528	7066	Novel
+26270232	Positive_Correlation	D006528	3576	Novel
+26270232	Positive_Correlation	D006528	6374	Novel
+26270232	Positive_Correlation	D006528	6352	Novel
+26270232	Positive_Correlation	D006528	6351	Novel
+26270232	Positive_Correlation	D006528	6348	Novel
+26270232	Positive_Correlation	D006528	6347	Novel
+26270232	Association	3576	D008103	Novel
+26270232	Association	6374	D008103	Novel
+26270232	Association	6352	D008103	Novel
+26270232	Association	6351	D008103	Novel
+26270232	Association	6348	D008103	Novel
+26270232	Association	6347	D008103	Novel
+26270232	Association	D019798	D007249	No
+26270232	Association	D007249	3576	No
+26270232	Association	D007249	6374	No
+26270232	Association	D007249	6352	No
+26270232	Association	D007249	6351	No
+26270232	Association	D007249	6348	No
+26270232	Association	D007249	6347	No
+26270232	Association	D007249	3569	No
+26270232	Association	1401	D007249	No

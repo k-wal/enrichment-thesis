@@ -1,0 +1,65 @@
+25874935|t|Neuroprotective effect of neuroserpin in oxygen-glucose deprivation- and reoxygenation-treated rat astrocytes in vitro.
+25874935|a|Neuroserpin (NSP) reportedly exerts neuroprotective effects in cerebral ischemic animal models and patients; however, the mechanism of protection is poorly understood. We thus attempted to confirm neuroprotective effects of NSP on astrocytes in the ischemic state and then explored the relative mechanisms. Astrocytes from neonatal rats were treated with oxygen-glucose deprivation (OGD) followed by reoxygenation (OGD/R). To confirm the neuroprotective effects of NSP, we measured the cell survival rate, relative lactate dehydrogenase (LDH) release; we also performed morphological methods, namely Hoechst 33342 staining and Annexin V assay. To explore the potential mechanisms of NSP, the release of nitric oxide (NO) and TNF-alpha related to NSP administration were measured by enzyme-linked immunosorbent assay. The proteins related to the NF-kappaB, ERK1/2, and PI3K/Akt pathways were investigated by Western blotting. To verify the cause-and-effect relationship between neuroprotection and the NF-kappaB pathway, a NF-kappaB pathway inhibitor sc3060 was employed to observe the effects of NSP-induced neuroprotection. We found that NSP significantly increased the cell survival rate and reduced LDH release in OGD/R-treated astrocytes. It also reduced NO/TNF-alpha release. Western blotting showed that the protein levels of p-IKKBalpha/beta and P65 were upregulated by the OGD/R treatment and such effects were significantly inhibited by NSP administration. The NSP-induced inhibition could be significantly reversed by administration of the NF-kappaB pathway inhibitor sc3060, whereas, expressions of p-ERK1, p-ERK2, and p-AKT were upregulated by the OGD/R treatment; however, their levels were unchanged by NSP administration. Our results thus verified the neuroprotective effects of NSP in ischemic astrocytes. The potential mechanisms include inhibition of the release of NO/TNF-alpha and repression of the NF-kappaB signaling pathways. Our data also indicated that NSP has little influence on the MAPK and PI3K/Akt pathways. 
+25874935	26	37	neuroserpin	GeneOrGeneProduct	116459
+25874935	41	47	oxygen	ChemicalEntity	D010100
+25874935	48	55	glucose	ChemicalEntity	D005947
+25874935	95	98	rat	OrganismTaxon	10116
+25874935	120	131	Neuroserpin	GeneOrGeneProduct	116459,5274
+25874935	133	136	NSP	GeneOrGeneProduct	116459,5274
+25874935	183	200	cerebral ischemic	DiseaseOrPhenotypicFeature	D002545
+25874935	219	227	patients	OrganismTaxon	9606
+25874935	344	347	NSP	GeneOrGeneProduct	116459
+25874935	369	377	ischemic	DiseaseOrPhenotypicFeature	D007511
+25874935	452	456	rats	OrganismTaxon	10116
+25874935	475	481	oxygen	ChemicalEntity	D010100
+25874935	482	489	glucose	ChemicalEntity	D005947
+25874935	585	588	NSP	GeneOrGeneProduct	116459
+25874935	635	656	lactate dehydrogenase	GeneOrGeneProduct	24533
+25874935	658	661	LDH	GeneOrGeneProduct	24533
+25874935	747	756	Annexin V	GeneOrGeneProduct	25673
+25874935	803	806	NSP	GeneOrGeneProduct	116459
+25874935	823	835	nitric oxide	ChemicalEntity	D009569
+25874935	837	839	NO	ChemicalEntity	D009569
+25874935	845	854	TNF-alpha	GeneOrGeneProduct	24835
+25874935	866	869	NSP	GeneOrGeneProduct	116459
+25874935	965	974	NF-kappaB	GeneOrGeneProduct	309165
+25874935	976	982	ERK1/2	GeneOrGeneProduct	5594,5595
+25874935	988	992	PI3K	GeneOrGeneProduct	298947
+25874935	993	996	Akt	GeneOrGeneProduct	24185
+25874935	1121	1130	NF-kappaB	GeneOrGeneProduct	309165
+25874935	1142	1151	NF-kappaB	GeneOrGeneProduct	309165
+25874935	1170	1176	sc3060	ChemicalEntity	C118258
+25874935	1216	1219	NSP	GeneOrGeneProduct	116459
+25874935	1259	1262	NSP	GeneOrGeneProduct	116459
+25874935	1322	1325	LDH	GeneOrGeneProduct	24533
+25874935	1379	1381	NO	ChemicalEntity	D009569
+25874935	1382	1391	TNF-alpha	GeneOrGeneProduct	24835
+25874935	1454	1468	IKKBalpha/beta	GeneOrGeneProduct	309361,84351
+25874935	1473	1476	P65	GeneOrGeneProduct	309165
+25874935	1566	1569	NSP	GeneOrGeneProduct	116459
+25874935	1590	1593	NSP	GeneOrGeneProduct	116459
+25874935	1670	1679	NF-kappaB	GeneOrGeneProduct	309165
+25874935	1698	1704	sc3060	ChemicalEntity	C118258
+25874935	1732	1736	ERK1	GeneOrGeneProduct	50689
+25874935	1740	1744	ERK2	GeneOrGeneProduct	116590
+25874935	1752	1755	AKT	GeneOrGeneProduct	24185
+25874935	1837	1840	NSP	GeneOrGeneProduct	116459
+25874935	1914	1917	NSP	GeneOrGeneProduct	116459
+25874935	1921	1929	ischemic	DiseaseOrPhenotypicFeature	D007511
+25874935	2004	2006	NO	ChemicalEntity	D009569
+25874935	2007	2016	TNF-alpha	GeneOrGeneProduct	24835
+25874935	2039	2048	NF-kappaB	GeneOrGeneProduct	309165
+25874935	2098	2101	NSP	GeneOrGeneProduct	116459
+25874935	2130	2134	MAPK	GeneOrGeneProduct	116590,50689
+25874935	2139	2143	PI3K	GeneOrGeneProduct	298947
+25874935	2144	2147	Akt	GeneOrGeneProduct	24185
+25874935	Negative_Correlation	D002545	5274	No
+25874935	Negative_Correlation	D002545	116459	No
+25874935	Negative_Correlation	84351	116459	Novel
+25874935	Negative_Correlation	309361	116459	Novel
+25874935	Positive_Correlation	C118258	116459	Novel
+25874935	Negative_Correlation	309165	C118258	No
+25874935	Negative_Correlation	D009569	116459	Novel
+25874935	Negative_Correlation	116459	D007511	Novel
+25874935	Negative_Correlation	116459	24533	Novel
+25874935	Negative_Correlation	24835	116459	Novel

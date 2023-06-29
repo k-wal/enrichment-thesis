@@ -1,0 +1,42 @@
+9647766|t|cDNA sequence and chromosomal localization of the remaining three human nuclear encoded iron sulphur protein (IP) subunits of complex I: the human IP fraction is completed.
+9647766|a|NADH:ubiquinone oxidoreductase (complex I) of the mitochondrial respiratory chain can be fragmented in a flavoprotein (FP), iron-sulfur protein (IP), and hydrophobic protein (HP) subfraction. The IP subfraction is hypothesized to be significant, since it contains important prosthetic groups highly conserved among species. We cloned the cDNA of three remaining human NADH:ubiquinone oxidoreductase subunits of this IP fraction: the NDUFS2 (49 kDa), NDUFS3 (30 kDa), and NDUFS6 (13 kDa) subunits. All presented cDNAs include the complete open reading frame (ORF), which consist of 1392, 795, and 375 base pairs, coding for 463, 264, and 124 amino acids, respectively. The latter show 96, 90, and 83% homology with the corresponding bovine translation products. The 3' untranslated regions (UTR) are complete in all three cDNAs. Polymerase chain reaction performed with DNA isolated from somatic human-rodent cell hybrids containing defined human chromosomes as template gave a human-specific signal which mapped the NDUFS2 and NDUFS3 subunits to chromosomes 1 and 11, respectively. In the case of the NDUFS6 subunit a pseudogene may be present since signals were seen in the lanes containing chromosomes 5 and 6. The NDUFS2 contains a highly conserved protein kinase C phosphorylation site and the NDUFS3 subunit contains a highly conserved casein kinase II phosphorylation site which make them strong candidates for future mutation detection studies in enzymatic complex I-deficient patients.
+9647766	66	71	human	OrganismTaxon	9606
+9647766	72	135	nuclear encoded iron sulphur protein (IP) subunits of complex I	GeneOrGeneProduct	4720,4722,4726
+9647766	141	146	human	OrganismTaxon	9606
+9647766	147	149	IP	GeneOrGeneProduct	4720,4722,4726
+9647766	173	215	NADH:ubiquinone oxidoreductase (complex I)	GeneOrGeneProduct	4720,4722,4726
+9647766	278	290	flavoprotein	GeneOrGeneProduct	-
+9647766	292	294	FP	GeneOrGeneProduct	-
+9647766	297	316	iron-sulfur protein	GeneOrGeneProduct	4720,4722,4726
+9647766	318	320	IP	GeneOrGeneProduct	4720,4722,4726
+9647766	327	346	hydrophobic protein	GeneOrGeneProduct	-
+9647766	348	350	HP	GeneOrGeneProduct	-
+9647766	369	371	IP	GeneOrGeneProduct	4720,4722,4726
+9647766	535	540	human	OrganismTaxon	9606
+9647766	541	580	NADH:ubiquinone oxidoreductase subunits	GeneOrGeneProduct	4720,4722,4726
+9647766	589	591	IP	GeneOrGeneProduct	4720,4722,4726
+9647766	606	612	NDUFS2	GeneOrGeneProduct	4720
+9647766	623	629	NDUFS3	GeneOrGeneProduct	4722
+9647766	644	650	NDUFS6	GeneOrGeneProduct	4726
+9647766	905	911	bovine	OrganismTaxon	9913
+9647766	1068	1073	human	OrganismTaxon	9606
+9647766	1113	1118	human	OrganismTaxon	9606
+9647766	1150	1155	human	OrganismTaxon	9606
+9647766	1189	1195	NDUFS2	GeneOrGeneProduct	4720
+9647766	1200	1206	NDUFS3	GeneOrGeneProduct	4722
+9647766	1274	1280	NDUFS6	GeneOrGeneProduct	4726
+9647766	1390	1396	NDUFS2	GeneOrGeneProduct	4720
+9647766	1425	1441	protein kinase C	GeneOrGeneProduct	5578
+9647766	1471	1477	NDUFS3	GeneOrGeneProduct	4722
+9647766	1514	1530	casein kinase II	GeneOrGeneProduct	1457
+9647766	1627	1656	enzymatic complex I-deficient	DiseaseOrPhenotypicFeature	C537475
+9647766	1657	1665	patients	OrganismTaxon	9606
+9647766	Association	1457	C537475	No
+9647766	Bind	4722	4726	No
+9647766	Association	4722	1457	Novel
+9647766	Association	4722	C537475	Novel
+9647766	Association	5578	C537475	No
+9647766	Bind	4720	4726	No
+9647766	Bind	4720	4722	No
+9647766	Association	4720	C537475	Novel
+9647766	Association	4720	5578	Novel

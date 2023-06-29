@@ -1,0 +1,60 @@
+28396744|t|Diabetic nephropathy as the cause of end-stage kidney disease reported on the medical evidence form CMS2728 at a single center
+28396744|a|Background: End-stage renal disease (ESRD) incidence due to Type 2 diabetic nephropathy (DN) is 35-50%, according to the United States Renal Data System. Methods: A single- center, retrospective cohort study to determine incidence and diagnostic accuracy for Type 2 DN as the primary cause of ESRD (Code 250.40) on the Center for Medicare & Medicaid (CMS) Medical Evidence Report form (CMS2728) submitted at renal replacement therapy initiation. All patients ≥18 years of age with a CMS2728 submitted between 1 March 2006 and 31 March 2015 at a single academic military medical center (ESRD Network 5) were included. Medical records of those with a Code 250.40 diagnosis were reviewed to determine whether they met the Kidney Disease Outcomes Quality Initiative (KDOQI) 2007 criteria for DN. Results: ESRD incidence secondary to Type 2 DN was 18.7% (56/299 individual CMS2728 submissions over 9.09 years). In all, 12/56 (21.4%) did not meet KDOQI criteria for Type 2 DN. Although all had diabetes, those not meeting criteria had shorter disease duration (P = 0.007), were more likely to have active urine sediment (P = 0.006), and were less likely to have macroalbuminuria (P = 0.037) or retinopathy (P = 0.002) prior to ESRD. On exact logistic regression, retinopathy was significantly associated with KDOQI -predicted DN [odds ratio = 19.16 (confidence interval 2.76-223.7), P = 0.0009]. Conclusions: In this single- center cohort, 21.4% identified as having Type 2 DN as the primary cause of ESRD were incorrectly assigned per KDOQI 2007 clinical criteria. If replicated in larger populations, this could have substantial implications regarding the epidemiology of ESRD in the USA.
+28396744	0	20	Diabetic nephropathy	T038	UMLS:C0011881
+28396744	37	61	end-stage kidney disease	T038	UMLS:C0022661
+28396744	78	99	medical evidence form	T170	UMLS:C3261387
+28396744	100	107	CMS2728	T170	UMLS:C3261387
+28396744	120	126	center	T092	UMLS:C0475309
+28396744	139	162	End-stage renal disease	T038	UMLS:C0022661
+28396744	164	168	ESRD	T038	UMLS:C0022661
+28396744	187	193	Type 2	T170	UMLS:C0441730
+28396744	194	214	diabetic nephropathy	T038	UMLS:C0011881
+28396744	216	218	DN	T038	UMLS:C0011881
+28396744	248	279	United States Renal Data System	T170	UMLS:C1622900
+28396744	300	306	center	T092	UMLS:C0475309
+28396744	308	334	retrospective cohort study	T062	UMLS:C2985505
+28396744	386	392	Type 2	T170	UMLS:C0441730
+28396744	393	395	DN	T038	UMLS:C0011881
+28396744	420	424	ESRD	T038	UMLS:C0022661
+28396744	446	476	Center for Medicare & Medicaid	T092	UMLS:C0041718
+28396744	478	481	CMS	T092	UMLS:C0041718
+28396744	483	511	Medical Evidence Report form	T170	UMLS:C3261387
+28396744	513	520	CMS2728	T170	UMLS:C3261387
+28396744	535	560	renal replacement therapy	T058	UMLS:C0206074
+28396744	610	617	CMS2728	T170	UMLS:C3261387
+28396744	679	711	academic military medical center	T092	UMLS:C1552471
+28396744	713	717	ESRD	T038	UMLS:C0022661
+28396744	744	759	Medical records	T170	UMLS:C0025102
+28396744	788	797	diagnosis	T033	UMLS:C0011900
+28396744	846	888	Kidney Disease Outcomes Quality Initiative	T092	UMLS:C1708333
+28396744	890	895	KDOQI	T092	UMLS:C1708333
+28396744	902	910	criteria	T170	UMLS:C0679228
+28396744	915	917	DN	T038	UMLS:C0011881
+28396744	928	932	ESRD	T038	UMLS:C0022661
+28396744	956	962	Type 2	T170	UMLS:C0441730
+28396744	963	965	DN	T038	UMLS:C0011881
+28396744	984	994	individual	T098	UMLS:C0027361
+28396744	995	1002	CMS2728	T170	UMLS:C3261387
+28396744	1068	1082	KDOQI criteria	T170	UMLS:C0679228
+28396744	1087	1093	Type 2	T170	UMLS:C0441730
+28396744	1094	1096	DN	T038	UMLS:C0011881
+28396744	1115	1123	diabetes	T038	UMLS:C0011847
+28396744	1226	1240	urine sediment	T031	UMLS:C1261248
+28396744	1283	1299	macroalbuminuria	T033	UMLS:C1654921
+28396744	1315	1326	retinopathy	T038	UMLS:C0035309
+28396744	1348	1352	ESRD	T038	UMLS:C0022661
+28396744	1363	1382	logistic regression	T062	UMLS:C0206031
+28396744	1384	1395	retinopathy	T038	UMLS:C0035309
+28396744	1430	1435	KDOQI	T092	UMLS:C1708333
+28396744	1447	1449	DN	T038	UMLS:C0011881
+28396744	1546	1552	center	T092	UMLS:C0475309
+28396744	1553	1559	cohort	T062	UMLS:C2985505
+28396744	1588	1594	Type 2	T170	UMLS:C0441730
+28396744	1595	1597	DN	T038	UMLS:C0011881
+28396744	1622	1626	ESRD	T038	UMLS:C0022661
+28396744	1657	1662	KDOQI	T092	UMLS:C1708333
+28396744	1677	1685	criteria	T170	UMLS:C0679228
+28396744	1711	1722	populations	T098	UMLS:C1257890
+28396744	1779	1791	epidemiology	T091	UMLS:C0014507
+28396744	1795	1799	ESRD	T038	UMLS:C0022661
+28396744	1807	1810	USA	T082	UMLS:C0041703

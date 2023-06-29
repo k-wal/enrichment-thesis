@@ -1,0 +1,82 @@
+28006726|t|Perfusion deconvolution in DSC-MRI with dispersion-compliant bases
+28006726|a|Perfusion imaging of the brain via Dynamic Susceptibility Contrast MRI (DSC-MRI) allows tissue perfusion characterization by recovering the tissue impulse response function and scalar parameters such as the cerebral blood flow (CBF), blood volume (CBV), and mean transit time (MTT). However, the presence of bolus dispersion causes the data to reflect macrovascular properties, in addition to tissue perfusion. In this case, when performing deconvolution of the measured arterial and tissue concentration time-curves it is only possible to recover the effective, i.e. dispersed, response function and parameters. We introduce Dispersion-Compliant Bases (DCB) to represent the response function in the presence and absence of dispersion. We perform in silico and in vivo experiments, and show that DCB deconvolution outperforms oSVD and the state-of-the-art CPI+VTF techniques in the estimation of effective perfusion parameters, regardless of the presence and amount of dispersion. We also show that DCB deconvolution can be used as a pre-processing step to improve the estimation of dispersion -free parameters computed with CPI+VTF, which employs a model of the vascular transport function to characterize dispersion. Indeed, in silico results show a reduction of relative errors up to 50% for dispersion -free CBF and MTT. Moreover, the DCB method recovers effective response functions that comply with healthy and pathological scenarios, and offers the advantage of making no assumptions about the presence, amount, and nature of dispersion.
+28006726	0	9	Perfusion	T042	C0599705
+28006726	10	23	deconvolution	T066	C1707643
+28006726	27	34	DSC-MRI	T060	C0024485
+28006726	40	66	dispersion-compliant bases	T066	C1707643
+28006726	67	84	Perfusion imaging	T060	C2350393
+28006726	92	97	brain	T023	C0006104
+28006726	102	137	Dynamic Susceptibility Contrast MRI	T060	C0024485
+28006726	139	146	DSC-MRI	T060	C0024485
+28006726	155	161	tissue	T024	C0040300
+28006726	162	171	perfusion	T042	C0599705
+28006726	172	188	characterization	T052	C1880022
+28006726	207	213	tissue	T024	C0040300
+28006726	214	239	impulse response function	T042	C1254358
+28006726	244	250	scalar	T080	C1710017
+28006726	251	261	parameters	T077	C0549193
+28006726	274	293	cerebral blood flow	T033	C0428714
+28006726	295	298	CBF	T033	C0428714
+28006726	301	313	blood volume	T032	C4277714
+28006726	315	318	CBV	T032	C4277714
+28006726	325	342	mean transit time	T081	C0392762
+28006726	344	347	MTT	T081	C0392762
+28006726	363	371	presence	T080	C3854307
+28006726	375	380	bolus	T031	C0504082
+28006726	381	391	dispersion	T169	C1704711
+28006726	403	407	data	T078	C1511726
+28006726	419	432	macrovascular	T023	C0005847
+28006726	433	443	properties	T080	C0871161
+28006726	460	466	tissue	T024	C0040300
+28006726	467	476	perfusion	T042	C0599705
+28006726	486	490	case	T169	C0868928
+28006726	508	521	deconvolution	T066	C1707643
+28006726	538	546	arterial	T082	C0221464
+28006726	551	557	tissue	T024	C0040300
+28006726	558	583	concentration time-curves	T081	C0392762
+28006726	635	644	dispersed	T169	C1704711
+28006726	646	663	response function	T042	C1254358
+28006726	668	678	parameters	T077	C0549193
+28006726	693	719	Dispersion-Compliant Bases	T066	C1707643
+28006726	721	724	DCB	T066	C1707643
+28006726	743	760	response function	T042	C1254358
+28006726	768	776	presence	T080	C3854307
+28006726	781	788	absence	T169	C0332197
+28006726	792	802	dispersion	T169	C1704711
+28006726	815	824	in silico	T066	C3489666
+28006726	829	836	in vivo	T082	C1515655
+28006726	837	848	experiments	T062	C0681814
+28006726	864	881	DCB deconvolution	T066	C1707643
+28006726	894	898	oSVD	T066	C1707643
+28006726	924	931	CPI+VTF	T066	C1707643
+28006726	932	942	techniques	T169	C0449851
+28006726	950	960	estimation	T081	C0750572
+28006726	974	983	perfusion	T042	C0599705
+28006726	984	994	parameters	T077	C0549193
+28006726	1014	1022	presence	T080	C3854307
+28006726	1027	1033	amount	T081	C1265611
+28006726	1037	1047	dispersion	T169	C1704711
+28006726	1067	1084	DCB deconvolution	T066	C1707643
+28006726	1137	1147	estimation	T081	C0750572
+28006726	1151	1161	dispersion	T169	C1704711
+28006726	1168	1178	parameters	T077	C0549193
+28006726	1179	1187	computed	T059	C1441526
+28006726	1193	1200	CPI+VTF	T066	C1707643
+28006726	1218	1223	model	T170	C3161035
+28006726	1231	1258	vascular transport function	T043	C1623014
+28006726	1275	1285	dispersion	T169	C1704711
+28006726	1295	1304	in silico	T066	C3489666
+28006726	1305	1312	results	T169	C1274040
+28006726	1333	1348	relative errors	T080	C0743559
+28006726	1363	1373	dispersion	T169	C1704711
+28006726	1380	1383	CBF	T033	C0428714
+28006726	1388	1391	MTT	T081	C0392762
+28006726	1407	1417	DCB method	T066	C1707643
+28006726	1437	1455	response functions	T042	C1254358
+28006726	1473	1480	healthy	T080	C3898900
+28006726	1485	1497	pathological	T169	C1521733
+28006726	1498	1507	scenarios	T169	C0683579
+28006726	1569	1577	presence	T080	C3854307
+28006726	1579	1585	amount	T081	C1265611
+28006726	1591	1597	nature	T078	C0349590
+28006726	1601	1611	dispersion	T169	C1704711

@@ -1,0 +1,27 @@
+16000134|t|Successful therapy with argatroban for superior mesenteric vein thrombosis in a patient with congenital antithrombin deficiency.
+16000134|a|A 38-year-old woman was admitted with superior mesenteric vein (SMV) thrombosis, which was refractory to anticoagulation therapy. The plasma antithrombin activity was decreased and hardly compensated by concentrated antithrombin preparation due to high consumption rate. However, successful anticoagulation was achieved by administration of direct thrombin inhibitor, argatroban. Family studies of antithrombin activity revealed that she had type I congenital antithrombin deficiency. A novel heterozygous mutation in the gene for antithrombin (single nucleotide T insertion at 7916 and 7917, Glu 272 to stop in exon 4) was identified. Argatroban administration would be effective in the treatment of congenital antithrombin deficiency with SMV thrombosis.
+16000134	24	34	argatroban	ChemicalEntity	C031942
+16000134	59	74	vein thrombosis	DiseaseOrPhenotypicFeature	D020246
+16000134	80	87	patient	OrganismTaxon	9606
+16000134	93	127	congenital antithrombin deficiency	DiseaseOrPhenotypicFeature	D020152
+16000134	143	148	woman	OrganismTaxon	9606
+16000134	167	208	superior mesenteric vein (SMV) thrombosis	DiseaseOrPhenotypicFeature	D020246
+16000134	270	282	antithrombin	GeneOrGeneProduct	462
+16000134	345	357	antithrombin	GeneOrGeneProduct	462
+16000134	477	485	thrombin	GeneOrGeneProduct	2147
+16000134	497	507	argatroban	ChemicalEntity	C031942
+16000134	527	539	antithrombin	GeneOrGeneProduct	462
+16000134	571	612	type I congenital antithrombin deficiency	DiseaseOrPhenotypicFeature	D025861
+16000134	660	672	antithrombin	GeneOrGeneProduct	462
+16000134	681	720	nucleotide T insertion at 7916 and 7917	SequenceVariant	c|INS|7916_7917|T
+16000134	722	737	Glu 272 to stop	SequenceVariant	p|SUB|E|272|X
+16000134	765	775	Argatroban	ChemicalEntity	C031942
+16000134	830	864	congenital antithrombin deficiency	DiseaseOrPhenotypicFeature	D020152
+16000134	870	884	SMV thrombosis	DiseaseOrPhenotypicFeature	D020246
+16000134	Negative_Correlation	2147	C031942	No
+16000134	Association	D020246	462	No
+16000134	Negative_Correlation	C031942	D020246	Novel
+16000134	Negative_Correlation	C031942	D020152	Novel
+16000134	Association	D025861	p|SUB|E|272|X	Novel
+16000134	Association	D025861	c|INS|7916_7917|T	Novel
+16000134	Association	462	D025861	No

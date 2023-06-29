@@ -1,0 +1,79 @@
+27696737|t|Highly polygenic architecture of antidepressant treatment response: Comparative analysis of SSRI and NRI treatment in an animal model of depression
+27696737|a|Response to antidepressant (AD) treatment may be a more polygenic trait than previously hypothesized, with many genetic variants interacting in yet unclear ways. In this study we used methods that can automatically learn to detect patterns of statistical regularity from a sparsely distributed signal across hippocampal transcriptome measurements in a large-scale animal pharmacogenomic study to uncover genomic variations associated with AD. The study used four inbred mouse strains of both sexes, two drug treatments, and a control group (escitalopram, nortriptyline, and saline). Multi-class and binary classification using Machine Learning (ML) and regularization algorithms using iterative and univariate feature selection methods, including InfoGain, mRMR, ANOVA, and Chi Square, were used to uncover genomic markers associated with AD response. Relevant genes were selected based on Jaccard distance and carried forward for gene-network analysis. Linear association methods uncovered only one gene associated with drug treatment response. The implementation of ML algorithms, together with feature reduction methods, revealed a set of 204 genes associated with SSRI and 241 genes associated with NRI response. Although only 10% of genes overlapped across the two drugs, network analysis shows that both drugs modulated the CREB pathway, through different molecular mechanisms. Through careful implementation and optimisations, the algorithms detected a weak signal used to predict whether an animal was treated with nortriptyline (77%) or escitalopram (67%) on an independent testing set. The results from this study indicate that the molecular signature of AD treatment may include a much broader range of genomic markers than previously hypothesized, suggesting that response to medication may be as complex as the pathology. The search for biomarkers of antidepressant treatment response could therefore consider a higher number of genetic markers and their interactions. Through predominately different molecular targets and mechanisms of action, the two drugs modulate the same Creb1 pathway which plays a key role in neurotrophic responses and in inflammatory processes. © 2016 The Authors. American Journal of Medical Genetics Part B: Neuropsychiatric Genetics Published by Wiley Periodicals, Inc.
+27696737	7	29	polygenic architecture	T038	UMLS:C1148552
+27696737	33	47	antidepressant	T103	UMLS:C0003289
+27696737	48	66	treatment response	T201	UMLS:C0521982
+27696737	92	96	SSRI	T103	UMLS:C0360105
+27696737	101	104	NRI	T103	UMLS:C1319272
+27696737	105	114	treatment	T058	UMLS:C0087111
+27696737	121	147	animal model of depression	T038	UMLS:C0012644
+27696737	148	156	Response	T201	UMLS:C0521982
+27696737	160	174	antidepressant	T103	UMLS:C0003289
+27696737	176	178	AD	T038	UMLS:C4277630
+27696737	180	189	treatment	T058	UMLS:C0087111
+27696737	204	219	polygenic trait	T038	UMLS:C1148552
+27696737	260	276	genetic variants	T038	UMLS:C4277630
+27696737	318	323	study	T062	UMLS:C2603343
+27696737	332	339	methods	T170	UMLS:C0025663
+27696737	372	378	detect	T058	UMLS:C1511790
+27696737	379	387	patterns	T082	UMLS:C0449774
+27696737	456	467	hippocampal	T017	UMLS:C0019564
+27696737	468	481	transcriptome	T082	UMLS:C3178810
+27696737	512	518	animal	T204	UMLS:C0003062
+27696737	519	540	pharmacogenomic study	T062	UMLS:C1709519
+27696737	552	570	genomic variations	T038	UMLS:C2717924
+27696737	587	589	AD	T038	UMLS:C4277630
+27696737	595	600	study	T062	UMLS:C2603343
+27696737	611	631	inbred mouse strains	T204	UMLS:C0025927
+27696737	651	666	drug treatments	T058	UMLS:C0013216
+27696737	689	701	escitalopram	T103	UMLS:C1099456
+27696737	703	716	nortriptyline	T103	UMLS:C0028420
+27696737	731	742	Multi-class	T170	UMLS:C0008902
+27696737	747	768	binary classification	T170	UMLS:C0008902
+27696737	801	826	regularization algorithms	T170	UMLS:C0002045
+27696737	866	883	selection methods	T170	UMLS:C0025663
+27696737	955	970	genomic markers	T038	UMLS:C0017393
+27696737	987	989	AD	T038	UMLS:C4277630
+27696737	990	998	response	T201	UMLS:C0521982
+27696737	1009	1014	genes	T017	UMLS:C0017337
+27696737	1079	1091	gene-network	T038	UMLS:C1720950
+27696737	1092	1100	analysis	T062	UMLS:C0936012
+27696737	1102	1128	Linear association methods	T170	UMLS:C0025663
+27696737	1148	1152	gene	T017	UMLS:C0017337
+27696737	1169	1173	drug	T103	UMLS:C0013227
+27696737	1174	1192	treatment response	T201	UMLS:C0521982
+27696737	1219	1229	algorithms	T170	UMLS:C0002045
+27696737	1245	1270	feature reduction methods	T170	UMLS:C0025663
+27696737	1294	1299	genes	T017	UMLS:C0017337
+27696737	1316	1320	SSRI	T103	UMLS:C0360105
+27696737	1329	1334	genes	T017	UMLS:C0017337
+27696737	1351	1354	NRI	T103	UMLS:C1319272
+27696737	1355	1363	response	T201	UMLS:C0521982
+27696737	1386	1391	genes	T017	UMLS:C0017337
+27696737	1418	1423	drugs	T103	UMLS:C0013227
+27696737	1425	1441	network analysis	T170	UMLS:C0868995
+27696737	1458	1463	drugs	T103	UMLS:C0013227
+27696737	1478	1490	CREB pathway	T038	UMLS:C1511454
+27696737	1510	1530	molecular mechanisms	T038	UMLS:C1148560
+27696737	1586	1596	algorithms	T170	UMLS:C0002045
+27696737	1608	1619	weak signal	T033	UMLS:C0243095
+27696737	1647	1653	animal	T204	UMLS:C0003062
+27696737	1658	1670	treated with	T058	UMLS:C0332293
+27696737	1671	1684	nortriptyline	T103	UMLS:C0028420
+27696737	1694	1706	escitalopram	T103	UMLS:C1099456
+27696737	1766	1771	study	T062	UMLS:C2603343
+27696737	1813	1815	AD	T038	UMLS:C4277630
+27696737	1816	1825	treatment	T058	UMLS:C0087111
+27696737	1862	1877	genomic markers	T038	UMLS:C0017393
+27696737	1924	1932	response	T201	UMLS:C0521982
+27696737	1936	1946	medication	T103	UMLS:C0013227
+27696737	1998	2008	biomarkers	T201	UMLS:C0005516
+27696737	2012	2026	antidepressant	T103	UMLS:C0003289
+27696737	2027	2045	treatment response	T201	UMLS:C0521982
+27696737	2090	2105	genetic markers	T038	UMLS:C0017393
+27696737	2162	2179	molecular targets	T103	UMLS:C1513403
+27696737	2214	2219	drugs	T103	UMLS:C0013227
+27696737	2220	2228	modulate	T058	UMLS:C0279532
+27696737	2238	2251	Creb1 pathway	T038	UMLS:C1511454
+27696737	2278	2300	neurotrophic responses	T201	UMLS:C0521982
+27696737	2308	2330	inflammatory processes	T038	UMLS:C0021368

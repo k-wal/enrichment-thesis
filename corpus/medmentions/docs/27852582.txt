@@ -1,0 +1,86 @@
+27852582|t|Association between OCT -based microangiography perfusion indices and diabetic retinopathy severity
+27852582|a|To evaluate the association between retinal capillary non-perfusion and diabetic retinopathy (DR) severity using optical coherence tomography-based microangiography (OMAG). 33 patients (51 eyes) with a history of diabetes underwent imaging with a 68 kHz Cirrus-5000 spectral domain OMAG prototype. Demographic and clinical characteristics were collected. The perfusion index (PI) was defined as per cent coverage of area by retinal vessels with flow, measured within a minimum of 6.8×6.8 mm(2) OMAG scan. The PI in each ETDRS zone was analysed using an automated algorithm. Univariate and multivariate analyses were used to determine the degree of association between PI and DR severity. 51 eyes with different DR severities were imaged. More severe DR was significantly associated with lower PI after adjusting for logarithm of the minimum angle of resolution best-corrected visual acuity, hyperlipidaemia, diabetes type and ETDRS ring in a multivariate mixed linear model. Compared with the none- mild non-proliferative diabetic retinopathy (NPDR) group, the moderate-severe NPDR group had 2.7 lower PI (p=0.03) and proliferative DR group had 4.3 lower PI (p=0.003). All ETDRS zones except for the foveal centre showed inverse associations between PI and DR severity (p values<0.001 to 0.862). A statistically significant inverse association exists between PI and DR severity. Our study suggests that PI may become a useful biomarker in evaluating and following the progression of DR.
+27852582	20	23	OCT	T060	C0920367
+27852582	31	47	microangiography	T060	C0596926
+27852582	48	65	perfusion indices	T081	C2964282
+27852582	70	90	diabetic retinopathy	T047	C0011884
+27852582	91	99	severity	T080	C0439793
+27852582	103	111	evaluate	T058	C0220825
+27852582	136	167	retinal capillary non-perfusion	T047	C4049512
+27852582	172	192	diabetic retinopathy	T047	C0011884
+27852582	194	196	DR	T047	C0011884
+27852582	198	206	severity	T080	C0439793
+27852582	213	264	optical coherence tomography-based microangiography	T060	C0596926
+27852582	266	270	OMAG	T060	C0596926
+27852582	276	284	patients	T101	C0030705
+27852582	289	293	eyes	T023	C0015392
+27852582	302	321	history of diabetes	T033	C0455488
+27852582	332	339	imaging	T060	C0011923
+27852582	366	386	spectral domain OMAG	T074	C3876157
+27852582	398	409	Demographic	T102	C0683970
+27852582	414	438	clinical characteristics	T201	C0683325
+27852582	459	474	perfusion index	T081	C2964282
+27852582	476	478	PI	T081	C2964282
+27852582	504	512	coverage	T169	C1999244
+27852582	516	520	area	T082	C0205146
+27852582	524	539	retinal vessels	T023	C0035330
+27852582	545	549	flow	T070	C0806140
+27852582	594	603	OMAG scan	T060	C0596926
+27852582	609	611	PI	T081	C2964282
+27852582	620	625	ETDRS	T170	C3899277
+27852582	626	630	zone	T082	C1710706
+27852582	653	672	automated algorithm	T170	C0002045
+27852582	674	684	Univariate	T062	C0683962
+27852582	689	710	multivariate analyses	T081	C0026777
+27852582	738	744	degree	T081	C0449286
+27852582	748	759	association	T080	C0439849
+27852582	768	770	PI	T081	C2964282
+27852582	775	777	DR	T047	C0011884
+27852582	778	786	severity	T080	C0439793
+27852582	791	795	eyes	T023	C0015392
+27852582	811	813	DR	T047	C0011884
+27852582	814	824	severities	T080	C0439793
+27852582	830	836	imaged	T060	C0011923
+27852582	843	849	severe	T080	C0205082
+27852582	850	852	DR	T047	C0011884
+27852582	887	892	lower	T080	C0205251
+27852582	893	895	PI	T081	C2964282
+27852582	916	925	logarithm	T081	C2986775
+27852582	933	960	minimum angle of resolution	T201	C2603363
+27852582	961	989	best-corrected visual acuity	T033	C1690532
+27852582	991	1006	hyperlipidaemia	T047	C0020473
+27852582	1008	1021	diabetes type	T033	C1320657
+27852582	1026	1031	ETDRS	T170	C3899277
+27852582	1042	1073	multivariate mixed linear model	T081	C0023732
+27852582	1099	1142	mild non-proliferative diabetic retinopathy	T047	C0730276
+27852582	1144	1148	NPDR	T047	C0730276
+27852582	1150	1155	group	T078	C0441833
+27852582	1161	1176	moderate-severe	T080	C1299393
+27852582	1177	1181	NPDR	T047	C0004606
+27852582	1182	1187	group	T078	C0441833
+27852582	1196	1201	lower	T080	C0205251
+27852582	1202	1204	PI	T081	C2964282
+27852582	1218	1234	proliferative DR	T047	C0154830
+27852582	1235	1240	group	T078	C0441833
+27852582	1249	1254	lower	T080	C0205251
+27852582	1255	1257	PI	T081	C2964282
+27852582	1273	1278	ETDRS	T170	C3899277
+27852582	1279	1284	zones	T082	C1710706
+27852582	1300	1313	foveal centre	T023	C0016622
+27852582	1321	1328	inverse	T080	C0439850
+27852582	1329	1341	associations	T080	C0439849
+27852582	1350	1352	PI	T081	C2964282
+27852582	1357	1359	DR	T047	C0011884
+27852582	1360	1368	severity	T080	C0439793
+27852582	1398	1423	statistically significant	T081	C0237881
+27852582	1424	1431	inverse	T080	C0439850
+27852582	1432	1443	association	T080	C0439849
+27852582	1444	1450	exists	T077	C2987476
+27852582	1459	1461	PI	T081	C2964282
+27852582	1466	1468	DR	T047	C0011884
+27852582	1469	1477	severity	T080	C0439793
+27852582	1503	1505	PI	T081	C2964282
+27852582	1526	1535	biomarker	T201	C0005516
+27852582	1539	1549	evaluating	T058	C0184781
+27852582	1568	1579	progression	T046	C0242656
+27852582	1583	1585	DR	T047	C0011884

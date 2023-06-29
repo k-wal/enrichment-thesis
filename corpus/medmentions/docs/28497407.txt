@@ -1,0 +1,57 @@
+28497407|t|Tobacco use is not associated with groin hernia repair, a population-based study
+28497407|a|The pathogenesis of groin hernia is not fully understood and some suggested risk factors are debatable. This population-based study evaluates the association between groin hernia repair and tobacco use. An observational study based on register linkage between the Swedish Hernia Register and the Västerbotten Intervention Program (VIP). All primary groin hernia repairs performed from 2001 to 2013 in the county of Västerbotten, Sweden, were included. VIP provided data on the use of tobacco in 102,857 individuals. Neither smoking nor the use of snus, increased the risk for requiring a groin hernia repair. On the contrary, heavy smoking decreased the risk for men, HR 0.75 (95% CI 0.58-0.96), as did having a BMI over 30 kg/m(2) HR (men) 0.33 (95% CI 0.27-0.40). Tobacco use is not a risk factor for requiring a groin hernia repair, whereas having a low BMI significantly increases the risk.
+28497407	0	7	Tobacco	T109,T131	C0040329
+28497407	8	11	use	T169	C0457083
+28497407	19	34	associated with	T080	C0332281
+28497407	35	54	groin hernia repair	T061	C3514453
+28497407	58	80	population-based study	T062	C1709599
+28497407	85	97	pathogenesis	T046	C0699748
+28497407	101	106	groin	T029	C0816951
+28497407	107	113	hernia	T190	C0019270
+28497407	157	169	risk factors	T033	C0035648
+28497407	174	183	debatable	T201	C3830527
+28497407	190	212	population-based study	T062	C1709599
+28497407	213	222	evaluates	T058	C0220825
+28497407	227	238	association	T080	C0439849
+28497407	247	266	groin hernia repair	T061	C3514453
+28497407	271	278	tobacco	T109,T131	C0040329
+28497407	279	282	use	T169	C0457083
+28497407	287	306	observational study	T062	C1518527
+28497407	345	368	Swedish Hernia Register	T170	C0034975
+28497407	377	410	Västerbotten Intervention Program	T058	C3863932
+28497407	412	415	VIP	T058	C3863932
+28497407	422	429	primary	T080	C0205225
+28497407	430	450	groin hernia repairs	T061	C3514453
+28497407	451	460	performed	T061	C0450010
+28497407	486	508	county of Västerbotten	T083	C0454664
+28497407	510	516	Sweden	T083	C0038995
+28497407	533	536	VIP	T058	C3863932
+28497407	546	550	data	T078	C1511726
+28497407	558	564	use of	T169	C1524063
+28497407	565	572	tobacco	T109,T131	C0040329
+28497407	584	595	individuals	T098	C0237401
+28497407	597	604	Neither	T080	C4284892
+28497407	605	612	smoking	T055	C0453996
+28497407	621	627	use of	T169	C1524063
+28497407	628	632	snus	T131	C4288198
+28497407	634	643	increased	T081	C0205217
+28497407	648	652	risk	T078	C0035647
+28497407	669	688	groin hernia repair	T061	C3514453
+28497407	707	720	heavy smoking	T033	C3845546
+28497407	721	730	decreased	T081	C0205216
+28497407	735	739	risk	T078	C0035647
+28497407	744	747	men	T098	C0025266
+28497407	749	751	HR	T081	C2985465
+28497407	762	764	CI	T081	C0009667
+28497407	793	796	BMI	T201	C1305855
+28497407	813	815	HR	T081	C2985465
+28497407	817	820	men	T098	C0025266
+28497407	832	834	CI	T081	C0009667
+28497407	847	854	Tobacco	T109,T131	C0040329
+28497407	855	858	use	T169	C0457083
+28497407	868	879	risk factor	T033	C0035648
+28497407	896	915	groin hernia repair	T061	C3514453
+28497407	934	937	low	T080	C0205251
+28497407	938	941	BMI	T201	C1305855
+28497407	956	965	increases	T169	C0442805
+28497407	970	974	risk	T078	C0035647

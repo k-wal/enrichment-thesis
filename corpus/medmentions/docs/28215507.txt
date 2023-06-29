@@ -1,0 +1,95 @@
+28215507|t|Significance of uterine corpus tumor invasion in early-stage cervical cancer
+28215507|a|To examine characteristics and survival outcomes of women with surgically-treated cervical cancer exhibiting uterine corpus tumor invasion. We utilized The Surveillance, Epidemiology, and End Results Program to identify cervical cancer patients who underwent hysterectomy between 1973 and 2003. Logistic regression models were used to identify risk factors for uterine corpus tumor invasion on multivariable analysis. Association of uterine corpus tumor invasion and cause-specific survival (CSS) from cervical cancer was examined with Cox proportional hazard regression models on multivariable analysis. We identified 837 (4.9%) cases of uterine corpus invasion and 16,237 (95.1%) cases of non-invasion. Median follow-up time was 14.0 years. There were 1642 deaths due to cervical cancer. Uterine corpus invasion was independently associated with older age, non-squamous histology, high-grade tumors, large tumor size, and nodal metastasis on multivariable analysis (all, P < 0.001). On univariable analysis, uterine corpus tumor invasion was significantly associated with decreased CSS compared to the non-invasion (5-year rates, 79.0% versus 94.5%, P < 0.001). After controlling for other significant prognostic factors, uterine corpus tumor invasion remained an independent prognostic factor for decreased CSS (adjusted-hazard ratio 1.45, 95% confidence interval 1.21-1.74). Among stage T1b cases (n = 6730), uterine corpus tumor invasion remained an independent prognostic factor for decreased CSS (adjusted-hazard ratio 1.95, 95%CI 1.47-2.60). Uterine corpus tumor invasion was significantly associated with decreased CSS in stage T1b1 disease (74.5% versus 90.7%, P < 0.001) and in stage T1b2 disease (67.0% versus 79.5%, P = 0.01). Uterine corpus tumor invasion is an independent prognostic factor for decreased survival of women with early-stage cervical cancer.
+28215507	0	12	Significance	T078	C0750502
+28215507	16	36	uterine corpus tumor	T191	C0153574
+28215507	37	45	invasion	T033	C1269955
+28215507	49	60	early-stage	T185	C1517886
+28215507	61	76	cervical cancer	T191	C0007847
+28215507	88	103	characteristics	T080	C1521970
+28215507	108	116	survival	T052	C0038952
+28215507	117	125	outcomes	T169	C1274040
+28215507	129	134	women	T098	C0043210
+28215507	140	158	surgically-treated	T061	C0543467
+28215507	159	174	cervical cancer	T191	C0007847
+28215507	186	206	uterine corpus tumor	T191	C0153574
+28215507	207	215	invasion	T033	C1269955
+28215507	233	284	Surveillance, Epidemiology, and End Results Program	T093	C0242638
+28215507	297	312	cervical cancer	T191	C0007847
+28215507	313	321	patients	T101	C0030705
+28215507	336	348	hysterectomy	T061	C0020699
+28215507	372	398	Logistic regression models	UnknownType	C0681925
+28215507	421	433	risk factors	T033	C0035648
+28215507	438	458	uterine corpus tumor	T191	C0153574
+28215507	459	467	invasion	T033	C1269955
+28215507	471	493	multivariable analysis	T081	C0026777
+28215507	495	506	Association	T080	C0439849
+28215507	510	530	uterine corpus tumor	T191	C0153574
+28215507	531	539	invasion	T033	C1269955
+28215507	544	567	cause-specific survival	T081	C1707318
+28215507	569	572	CSS	T081	C1707318
+28215507	579	594	cervical cancer	T191	C0007847
+28215507	613	654	Cox proportional hazard regression models	T170	C0034980
+28215507	658	680	multivariable analysis	T081	C0026777
+28215507	716	730	uterine corpus	T191	C0153574
+28215507	731	739	invasion	T033	C1269955
+28215507	768	780	non-invasion	T169	C0205303
+28215507	782	788	Median	T081	C0876920
+28215507	789	798	follow-up	T058	C1522577
+28215507	799	803	time	T079	C0040223
+28215507	836	842	deaths	T040	C0011065
+28215507	850	865	cervical cancer	T191	C0007847
+28215507	867	881	Uterine corpus	T191	C0153574
+28215507	882	890	invasion	T033	C1269955
+28215507	895	908	independently	T078	C0085862
+28215507	909	924	associated with	T080	C0332281
+28215507	925	934	older age	T032	C0001779
+28215507	936	958	non-squamous histology	T169	C4048239
+28215507	960	977	high-grade tumors	T191	C1334017
+28215507	979	995	large tumor size	T082	C0475440
+28215507	1001	1006	nodal	T082	C0443268
+28215507	1007	1017	metastasis	T191	C0027627
+28215507	1021	1043	multivariable analysis	T081	C0026777
+28215507	1065	1085	univariable analysis	T062	C0683962
+28215507	1087	1107	uterine corpus tumor	T191	C0153574
+28215507	1108	1116	invasion	T033	C1269955
+28215507	1135	1150	associated with	T080	C0332281
+28215507	1151	1160	decreased	T081	C0205216
+28215507	1161	1164	CSS	T081	C1707318
+28215507	1181	1193	non-invasion	T169	C0205303
+28215507	1247	1258	controlling	T067	C2239193
+28215507	1269	1280	significant	T078	C0750502
+28215507	1281	1299	prognostic factors	T201	C1514474
+28215507	1301	1321	uterine corpus tumor	T191	C0153574
+28215507	1322	1330	invasion	T033	C1269955
+28215507	1343	1354	independent	T078	C0085862
+28215507	1355	1372	prognostic factor	T201	C1514474
+28215507	1377	1386	decreased	T081	C0205216
+28215507	1387	1390	CSS	T081	C1707318
+28215507	1392	1413	adjusted-hazard ratio	T081	C2985465
+28215507	1424	1443	confidence interval	T081	C0009667
+28215507	1462	1471	stage T1b	T185	C0475385
+28215507	1490	1510	uterine corpus tumor	T191	C0153574
+28215507	1511	1519	invasion	T033	C1269955
+28215507	1532	1543	independent	T078	C0085862
+28215507	1544	1561	prognostic factor	T201	C1514474
+28215507	1566	1575	decreased	T081	C0205216
+28215507	1576	1579	CSS	T081	C1707318
+28215507	1581	1602	adjusted-hazard ratio	T081	C2985465
+28215507	1627	1647	Uterine corpus tumor	T191	C0153574
+28215507	1648	1656	invasion	T033	C1269955
+28215507	1675	1690	associated with	T080	C0332281
+28215507	1691	1700	decreased	T081	C0205216
+28215507	1701	1704	CSS	T081	C1707318
+28215507	1708	1718	stage T1b1	T170	C0730458
+28215507	1719	1726	disease	T191	C0153574
+28215507	1766	1776	stage T1b2	T170	C0730459
+28215507	1777	1784	disease	T191	C0153574
+28215507	1817	1837	Uterine corpus tumor	T191	C0153574
+28215507	1838	1846	invasion	T033	C1269955
+28215507	1853	1864	independent	T078	C0085862
+28215507	1865	1882	prognostic factor	T201	C1514474
+28215507	1887	1896	decreased	T081	C0205216
+28215507	1897	1905	survival	T052	C0038952
+28215507	1909	1914	women	T098	C0043210
+28215507	1920	1931	early-stage	T185	C1517886
+28215507	1932	1947	cervical cancer	T191	C0007847

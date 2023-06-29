@@ -1,0 +1,40 @@
+17384765|t|Succimer chelation improves learning, attention, and arousal regulation in lead-exposed rats but produces lasting cognitive impairment in the absence of lead exposure.
+17384765|a|BACKGROUND: There is growing pressure for clinicians to prescribe chelation therapy at only slightly elevated blood lead levels. However, very few studies have evaluated whether chelation improves cognitive outcomes in Pb-exposed children, or whether these agents have adverse effects that may affect brain development in the absence of Pb exposure. OBJECTIVES: The present study was designed to answer these questions, using a rodent model of early childhood Pb exposure and treatment with succimer, a widely used chelating agent for the treatment of Pb poisoning. RESULTS: Pb exposure produced lasting impairments in learning, attention, inhibitory control, and arousal regulation, paralleling the areas of dysfunction seen in Pb-exposed children. Succimer treatment of the Pb-exposed rats significantly improved learning, attention, and arousal regulation, although the efficacy of the treatment varied as a function of the Pb exposure level and the specific functional deficit. In contrast, succimer treatment of rats not previously exposed to Pb produced lasting and pervasive cognitive and affective dysfunction comparable in magnitude to that produced by the higher Pb exposure regimen. CONCLUSIONS: These are the first data, to our knowledge, to show that treatment with any chelating agent can alleviate cognitive deficits due to Pb exposure. These findings suggest that it may be possible to identify a succimer treatment protocol that improves cognitive outcomes in Pb-exposed children. However, they also suggest that succimer treatment should be strongly discouraged for children who do not have elevated tissue levels of Pb or other heavy metals.
+17384765	0	8	Succimer	ChemicalEntity	D004113
+17384765	75	79	lead	ChemicalEntity	D007854
+17384765	88	92	rats	OrganismTaxon	10116
+17384765	114	134	cognitive impairment	DiseaseOrPhenotypicFeature	D003072
+17384765	153	157	lead	ChemicalEntity	D007854
+17384765	284	288	lead	ChemicalEntity	D007854
+17384765	387	389	Pb	ChemicalEntity	D007854
+17384765	505	507	Pb	ChemicalEntity	D007854
+17384765	628	630	Pb	ChemicalEntity	D007854
+17384765	659	667	succimer	ChemicalEntity	D004113
+17384765	720	732	Pb poisoning	DiseaseOrPhenotypicFeature	D007855
+17384765	743	745	Pb	ChemicalEntity	D007854
+17384765	772	850	impairments in learning, attention, inhibitory control, and arousal regulation	DiseaseOrPhenotypicFeature	D007859,D019958
+17384765	897	899	Pb	ChemicalEntity	D007854
+17384765	918	926	Succimer	ChemicalEntity	D004113
+17384765	944	946	Pb	ChemicalEntity	D007854
+17384765	955	959	rats	OrganismTaxon	10116
+17384765	1095	1097	Pb	ChemicalEntity	D007854
+17384765	1163	1171	succimer	ChemicalEntity	D004113
+17384765	1185	1189	rats	OrganismTaxon	10116
+17384765	1216	1218	Pb	ChemicalEntity	D007854
+17384765	1250	1285	cognitive and affective dysfunction	DiseaseOrPhenotypicFeature	D003072,D019964
+17384765	1341	1343	Pb	ChemicalEntity	D007854
+17384765	1481	1499	cognitive deficits	DiseaseOrPhenotypicFeature	D003072
+17384765	1507	1509	Pb	ChemicalEntity	D007854
+17384765	1581	1589	succimer	ChemicalEntity	D004113
+17384765	1645	1647	Pb	ChemicalEntity	D007854
+17384765	1698	1706	succimer	ChemicalEntity	D004113
+17384765	1803	1805	Pb	ChemicalEntity	D007854
+17384765	Positive_Correlation	D007854	D019964	Novel
+17384765	Positive_Correlation	D007854	D003072	Novel
+17384765	Positive_Correlation	D007854	D019958	Novel
+17384765	Positive_Correlation	D007854	D007859	Novel
+17384765	Positive_Correlation	D007854	D007855	No
+17384765	Positive_Correlation	D004113	D019964	Novel
+17384765	Positive_Correlation	D004113	D003072	Novel
+17384765	Negative_Correlation	D004113	D007855	No
+17384765	Negative_Correlation	D004113	D007854	Novel

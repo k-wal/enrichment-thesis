@@ -1,0 +1,50 @@
+28505339|t|LabRS: A Rosetta stone for retrospective standardization of clinical laboratory test results
+28505339|a|Clinical laboratories in the United States do not have an explicit result standard to report the 7 billion laboratory tests results they produce each year. The absence of standardized test results creates inefficiencies and ambiguities for secondary data users. We developed and tested a tool to standardize the results of laboratory tests in a large, multicenter clinical data warehouse. Laboratory records, each of which consisted of a laboratory result and a test identifier, from 27 diverse facilities were captured from 2000 through 2015. Each record underwent a standardization process to convert the original result into a format amenable to secondary data analysis. The standardization process included the correction of typos, normalization of categorical result s, separation of inequalities from numbers, and conversion of numbers represented by words (eg, "million") to numerals. Quality control included expert review. We obtained 1.266 × 10 9 laboratory records and standardized 1.252 × 10 9 records (98.9%). Of the unique unstandardized records (78.887 × 10 3), most appeared <5 times (96%, eg, typos), did not have a test identifier (47%), or belonged to an esoteric test with <100 results (2%). Overall, these 3 reasons accounted for nearly all unstandardized results (98%). Current results suggest that the tool is both scalable and generalizable among diverse clinical laboratories. Based on observed trends, the tool will require ongoing maintenance to stay current with new tests and result formats. Future work to develop and implement an explicit standard for test results would reduce the need to retrospective ly standardize test results.
+28505339	0	5	LabRS	T170	UMLS:C0037589
+28505339	7	22	A Rosetta stone	T170	UMLS:C0037589
+28505339	41	56	standardization	T062	UMLS:C0038136
+28505339	60	92	clinical laboratory test results	T033	UMLS:C0456984
+28505339	122	135	United States	T082	UMLS:C0041703
+28505339	160	166	result	T033	UMLS:C0456984
+28505339	179	185	report	T058	UMLS:C0700287
+28505339	200	224	laboratory tests results	T033	UMLS:C0456984
+28505339	282	289	results	T033	UMLS:C0456984
+28505339	298	312	inefficiencies	T033	UMLS:C0231184
+28505339	348	353	users	T098	UMLS:C1706077
+28505339	381	385	tool	T170	UMLS:C0037589
+28505339	389	400	standardize	T062	UMLS:C0038136
+28505339	405	432	results of laboratory tests	T033	UMLS:C0456984
+28505339	445	470	multicenter clinical data	T170	UMLS:C1516606
+28505339	482	500	Laboratory records	T170	UMLS:C4082310
+28505339	531	548	laboratory result	T033	UMLS:C0456984
+28505339	555	570	test identifier	T170	UMLS:C2826900
+28505339	604	612	captured	T033	UMLS:C3669169
+28505339	642	648	record	T170	UMLS:C0034869
+28505339	661	676	standardization	T062	UMLS:C0038136
+28505339	709	715	result	T033	UMLS:C0456984
+28505339	723	729	format	T170	UMLS:C1301627
+28505339	757	765	analysis	T062	UMLS:C0936012
+28505339	771	786	standardization	T062	UMLS:C0038136
+28505339	829	842	normalization	T062	UMLS:C1882115
+28505339	858	864	result	T033	UMLS:C0456984
+28505339	950	955	words	T170	UMLS:C0042926
+28505339	1010	1016	expert	T170	UMLS:C0015324
+28505339	1017	1023	review	T170	UMLS:C0282443
+28505339	1050	1068	laboratory records	T170	UMLS:C4082310
+28505339	1099	1106	records	T170	UMLS:C0034869
+28505339	1130	1144	unstandardized	T033	UMLS:C0243095
+28505339	1145	1152	records	T170	UMLS:C0034869
+28505339	1226	1241	test identifier	T170	UMLS:C2826900
+28505339	1276	1280	test	T058	UMLS:C0022885
+28505339	1291	1298	results	T033	UMLS:C0456984
+28505339	1355	1369	unstandardized	T033	UMLS:C0243095
+28505339	1370	1377	results	T033	UMLS:C0456984
+28505339	1393	1400	results	T033	UMLS:C0456984
+28505339	1418	1422	tool	T170	UMLS:C0037589
+28505339	1444	1457	generalizable	T082	UMLS:C0205246
+28505339	1525	1529	tool	T170	UMLS:C0037589
+28505339	1588	1593	tests	T058	UMLS:C0022885
+28505339	1598	1604	result	T033	UMLS:C0456984
+28505339	1605	1612	formats	T170	UMLS:C1301627
+28505339	1676	1688	test results	T033	UMLS:C0456984
+28505339	1748	1755	results	T033	UMLS:C0456984

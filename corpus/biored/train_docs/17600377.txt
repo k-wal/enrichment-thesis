@@ -1,0 +1,46 @@
+17600377|t|A novel compound, maltolyl p-coumarate, attenuates cognitive deficits and shows neuroprotective effects in vitro and in vivo dementia models.
+17600377|a|To develop a novel and effective drug that could enhance cognitive function and neuroprotection, we newly synthesized maltolyl p-coumarate by the esterification of maltol and p-coumaric acid. In the present study, we investigated whether maltolyl p-coumarate could improve cognitive decline in scopolamine-injected rats and in amyloid beta peptide(1-42)-infused rats. Maltolyl p-coumarate was found to attenuate cognitive deficits in both rat models using passive avoidance test and to reduce apoptotic cell death observed in the hippocampus of the amyloid beta peptide(1-42)-infused rats. We also examined the neuroprotective effects of maltolyl p-coumarate in vitro using SH-SY5Y cells. Cells were pretreated with maltolyl p-coumarate, before exposed to amyloid beta peptide(1-42), glutamate or H2O2. We found that maltolyl p-coumarate significantly decreased apoptotic cell death and reduced reactive oxygen species, cytochrome c release, and caspase 3 activation. Taking these in vitro and in vivo results together, our study suggests that maltolyl p-coumarate is a potentially effective candidate against Alzheimer's disease that is characterized by wide spread neuronal death and progressive decline of cognitive function.
+17600377	18	38	maltolyl p-coumarate	ChemicalEntity	C524754
+17600377	51	69	cognitive deficits	DiseaseOrPhenotypicFeature	D003072
+17600377	125	133	dementia	DiseaseOrPhenotypicFeature	D003704
+17600377	260	280	maltolyl p-coumarate	ChemicalEntity	C524754
+17600377	306	312	maltol	ChemicalEntity	C008316
+17600377	317	332	p-coumaric acid	ChemicalEntity	C495469
+17600377	380	400	maltolyl p-coumarate	ChemicalEntity	C524754
+17600377	415	432	cognitive decline	DiseaseOrPhenotypicFeature	D003072
+17600377	436	447	scopolamine	ChemicalEntity	D012601
+17600377	457	461	rats	OrganismTaxon	10116
+17600377	469	495	amyloid beta peptide(1-42)	ChemicalEntity	C544092
+17600377	504	508	rats	OrganismTaxon	10116
+17600377	510	530	Maltolyl p-coumarate	ChemicalEntity	C524754
+17600377	554	572	cognitive deficits	DiseaseOrPhenotypicFeature	D003072
+17600377	581	584	rat	OrganismTaxon	10116
+17600377	691	717	amyloid beta peptide(1-42)	ChemicalEntity	C544092
+17600377	726	730	rats	OrganismTaxon	10116
+17600377	780	800	maltolyl p-coumarate	ChemicalEntity	C524754
+17600377	816	823	SH-SY5Y	CellLine	CVCL_0019
+17600377	858	878	maltolyl p-coumarate	ChemicalEntity	C524754
+17600377	898	924	amyloid beta peptide(1-42)	ChemicalEntity	C544092
+17600377	926	935	glutamate	ChemicalEntity	D018698
+17600377	939	943	H2O2	ChemicalEntity	D006861
+17600377	959	979	maltolyl p-coumarate	ChemicalEntity	C524754
+17600377	1037	1060	reactive oxygen species	ChemicalEntity	D017382
+17600377	1062	1074	cytochrome c	ChemicalEntity	D045304
+17600377	1088	1097	caspase 3	GeneOrGeneProduct	25402
+17600377	1186	1206	maltolyl p-coumarate	ChemicalEntity	C524754
+17600377	1252	1271	Alzheimer's disease	DiseaseOrPhenotypicFeature	D000544
+17600377	1309	1323	neuronal death	DiseaseOrPhenotypicFeature	D009410
+17600377	1340	1369	decline of cognitive function	DiseaseOrPhenotypicFeature	D003072
+17600377	Association	C008316	C495469	Novel
+17600377	Positive_Correlation	D003072	D012601	No
+17600377	Positive_Correlation	D003072	C544092	No
+17600377	Association	C524754	C495469	Novel
+17600377	Association	C524754	C008316	Novel
+17600377	Negative_Correlation	C524754	D009410	Novel
+17600377	Negative_Correlation	C524754	D000544	Novel
+17600377	Negative_Correlation	C524754	D045304	Novel
+17600377	Negative_Correlation	C524754	25402	Novel
+17600377	Negative_Correlation	C524754	D017382	Novel
+17600377	Association	C524754	C544092	Novel
+17600377	Association	C524754	D003704	Novel
+17600377	Negative_Correlation	C524754	D003072	Novel

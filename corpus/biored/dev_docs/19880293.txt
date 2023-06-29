@@ -1,0 +1,57 @@
+19880293|t|Polymorphisms in the FOXP3 gene in Han Chinese psoriasis patients.
+19880293|a|BACKGROUND: Psoriasis is a common dermatological disorder, in which autoimmunity plays an important role. CD4(+)CD25(+) regulatory T cells (T-regs) have been suggested to be involved in the pathogenesis of some autoimmune diseases. T-regs express the fork head/winged helix transcription factor, FOXP3, which appears to be of key importance in the development and function of T-regs. Studies have found that single-nucleotide polymorphisms (SNPs) in the FOXP3 gene contribute to susceptibility to some autoimmune disorders. However, information about FOXP3 gene in psoriasis is limited. OBJECTIVE: This study evaluated the association between FOXP3 gene SNPs and susceptibility to psoriasis in a Han Chinese population. METHODS: In a hospital-based case-control study, 524 patients with psoriasis and 549 psoriasis-free controls were recruited according to age and gender. We investigated four SNPs in the FOXP3 gene (-6054, deletion/ATT; -3279, A/C; -924, A/G; IVS9+459, A/G) in psoriatic patients, and assessed allele and genotype frequencies in psoriatic patients (237 females, 287 males) and normal controls (272 females, 277 males). The polymorphisms were genotyped using the PCR sequence-specific primer (PCR-SSP) technique and PCR-restriction fragment length polymorphism (RFLP) analysis. RESULTS: We found that increased risk of psoriasis was associated with the FOXP3 -3279 AC genotype (adjusted OR, 1.32; 95% CI, 1.01-1.74) and the combined AC+AA genotype (adjusted OR, 1.38; 95% CI, 1.07-1.78), compared with the -3279 CC genotype. We also found that an increased risk of psoriasis was associated with the FOXP3 IVS9+459 GG genotype (adjusted OR, 2.24; 95% CI, 1.41-3.58). However, the combined GA+GG genotype showed no such tendency (adjusted OR=1.28; 95% CI, 1.00-1.64), compared with the IVS9+459 AA genotype. There was no evidence of an increased risk associated with the FOXP3-6054 deletion/ATT or FOXP3-924 A/G genotype. In combined genotype analyses, the FOXP3-3279 AC+AA genotype was more obviously associated in males (adjusted OR=1.60, 95% CI=1.11-2.31) and severe psoriasis patients (PASI score >20; adjusted OR=1.97, 95% CI=1.41-2.75). Meanwhile, the FOXP3 IVS9+459 GA+GG genotype was also associated with severe psoriasis patients (adjusted OR=1.69, 95% CI=1.21-2.36). CONCLUSIONS: FOXP3 polymorphisms appear to contribute to the risk of psoriasis in a Han Chinese population. Larger studies are needed to confirm these findings.
+19880293	21	26	FOXP3	GeneOrGeneProduct	50943
+19880293	47	56	psoriasis	DiseaseOrPhenotypicFeature	D011565
+19880293	57	65	patients	OrganismTaxon	9606
+19880293	79	88	Psoriasis	DiseaseOrPhenotypicFeature	D011565
+19880293	101	124	dermatological disorder	DiseaseOrPhenotypicFeature	D012871
+19880293	173	176	CD4	GeneOrGeneProduct	920
+19880293	179	183	CD25	GeneOrGeneProduct	3559
+19880293	278	297	autoimmune diseases	DiseaseOrPhenotypicFeature	D001327
+19880293	363	368	FOXP3	GeneOrGeneProduct	50943
+19880293	521	526	FOXP3	GeneOrGeneProduct	50943
+19880293	569	589	autoimmune disorders	DiseaseOrPhenotypicFeature	D001327
+19880293	618	623	FOXP3	GeneOrGeneProduct	50943
+19880293	632	641	psoriasis	DiseaseOrPhenotypicFeature	D011565
+19880293	710	715	FOXP3	GeneOrGeneProduct	50943
+19880293	748	757	psoriasis	DiseaseOrPhenotypicFeature	D011565
+19880293	840	848	patients	OrganismTaxon	9606
+19880293	854	863	psoriasis	DiseaseOrPhenotypicFeature	D011565
+19880293	872	881	psoriasis	DiseaseOrPhenotypicFeature	D011565
+19880293	973	978	FOXP3	GeneOrGeneProduct	50943
+19880293	985	1004	-6054, deletion/ATT	SequenceVariant	c|DEL|-6054|ATT
+19880293	1006	1016	-3279, A/C	SequenceVariant	c|SUB|A|-3279|C
+19880293	1018	1027	-924, A/G	SequenceVariant	c|SUB|A|-924|G
+19880293	1029	1042	IVS9+459, A/G	SequenceVariant	c|SUB|A|IVS9+459|G
+19880293	1047	1056	psoriatic	DiseaseOrPhenotypicFeature	D011565
+19880293	1057	1065	patients	OrganismTaxon	9606
+19880293	1115	1124	psoriatic	DiseaseOrPhenotypicFeature	D011565
+19880293	1125	1133	patients	OrganismTaxon	9606
+19880293	1404	1413	psoriasis	DiseaseOrPhenotypicFeature	D011565
+19880293	1438	1443	FOXP3	GeneOrGeneProduct	50943
+19880293	1444	1452	-3279 AC	SequenceVariant	c|Allele|AC|-3297
+19880293	1591	1599	-3279 CC	SequenceVariant	c|Allele|CC|-3279
+19880293	1650	1659	psoriasis	DiseaseOrPhenotypicFeature	D011565
+19880293	1684	1689	FOXP3	GeneOrGeneProduct	50943
+19880293	1690	1701	IVS9+459 GG	SequenceVariant	c|Allele|GG|IVS9+459
+19880293	1869	1880	IVS9+459 AA	SequenceVariant	c|Allele|AA|IVS9+459
+19880293	1954	1959	FOXP3	GeneOrGeneProduct	50943
+19880293	1959	1977	-6054 deletion/ATT	SequenceVariant	c|DEL|-6054|ATT
+19880293	1981	1986	FOXP3	GeneOrGeneProduct	50943
+19880293	1986	1994	-924 A/G	SequenceVariant	c|SUB|A|-924|G
+19880293	2040	2045	FOXP3	GeneOrGeneProduct	50943
+19880293	2045	2056	-3279 AC+AA	SequenceVariant	c|Allele|AC|-3279
+19880293	2153	2162	psoriasis	DiseaseOrPhenotypicFeature	D011565
+19880293	2163	2171	patients	OrganismTaxon	9606
+19880293	2241	2246	FOXP3	GeneOrGeneProduct	50943
+19880293	2247	2261	IVS9+459 GA+GG	SequenceVariant	c|Allele|GA|IVS9+459
+19880293	2303	2312	psoriasis	DiseaseOrPhenotypicFeature	D011565
+19880293	2313	2321	patients	OrganismTaxon	9606
+19880293	2373	2378	FOXP3	GeneOrGeneProduct	50943
+19880293	2429	2438	psoriasis	DiseaseOrPhenotypicFeature	D011565
+19880293	Positive_Correlation	c|Allele|GA|IVS9+459	D011565	Novel
+19880293	Association	c|Allele|AC|-3279	D011565	Novel
+19880293	Positive_Correlation	D011565	c|Allele|GG|IVS9+459	Novel
+19880293	Positive_Correlation	D011565	c|Allele|AC|-3297	Novel
+19880293	Association	50943	D011565	Novel
+19880293	Association	50943	D001327	No

@@ -1,0 +1,111 @@
+27782940|t|Effects of Obesity and Leptin Deficiency on Morphine Pharmacokinetics in a Mouse Model
+27782940|a|Obesity causes multiorgan dysfunction, specifically metabolic abnormalities in the liver. Obese patients are opioid - sensitive and have high rates of respiratory complications after surgery. Obesity also has been shown to cause resistance to leptin, an adipose -derived hormone that is key in regulating hunger, metabolism, and respiratory stimulation. We hypothesized that obesity and leptin deficiency impair opioid pharmacokinetics (PK) independently of one another. Morphine PK were characterized in C57BL/6J wild-type (WT), diet-induced obese (DIO), and leptin-deficient (ob/ob) mice, and in ob/ob mice given leptin-replacement (LR) therapy. WT mice received several dosing regimens of morphine. Obese mice (30 g) received one 80 mg/kg bolus of morphine. Blood was collected at fixed times after morphine injection for quantification of plasma morphine and morphine 3-glucuronide (M3G) levels. PK parameters used to evaluate morphine metabolism included area-under the curve (AUC150), maximal morphine concentration (CMAX), and M3G -to- morphine ratio, and drug elimination was determined by clearance (Cl/F), volume of distribution, and half-life (T1/2). PK parameters were compared between mouse groups by the use of 1-way analysis of variance, with P values less than .05 considered significant. DIO compared with WT mice had significantly decreased morphine metabolism with lower M3G -to- morphine ratio (mean difference [MD]: -4.9; 95% confidence interval [CI]: -8.8 to -0.9) as well as a decreased Cl/F (MD: -4.0; 95% CI: -8.9 to -0.03) Ob/ob compared with WT mice had a large increase in morphine exposure with a greater AUC150 (MD: 980.4; 95% CI: 630.1-1330.6), CMAX (MD: 6.8; 95% CI: 2.7-10.9), and longer T1/2 (MD: 23.1; 95% CI: 10.5-35.6), as well as a decreased Cl/F (MD: -7.0; 95% CI: -11.6 to -2.7). Several PK parameters were significantly greater in ob/ob compared with DIO mice, including AUC150 (MD: 636.4; 95% CI: 207.4-1065.4), CMAX (MD: 5.3; 95% CI: 3.2-10.3), and T1/2 (MD: 18.3; 95% CI: 2.8-33.7). When leptin was replaced in ob/ob mice, PK parameters began to approach DIO and WT levels. LR compared with ob/ob mice had significant decreases in AUC150 (MD: -779.9; 95% CI: -1229.8 to -330), CMAX (MD: -6.1; 95% CI: -11.4 to -0.9), and T1/2 (MD: -19; 95% CI: -35.1 to -2.8). Metabolism increased with LR, with LR mice having a greater M3G -to- morphine ratio compared with DIO (MD: 5.3; 95% CI: 0.3-10.4). Systemic effects associated with obesity decrease morphine metabolism and excretion. A previous study from our laboratory demonstrated that obesity and leptin deficiency decrease the sensitivity of central respiratory control centers to carbon dioxide. Obesity and leptin deficiency substantially decreased morphine metabolism and clearance, and replacing leptin attenuated the PK changes associated with leptin deficiency, suggesting leptin has a direct role in morphine metabolism.
+27782940	11	18	Obesity	T038	UMLS:C0028754
+27782940	23	40	Leptin Deficiency	T038	UMLS:C3554224
+27782940	44	52	Morphine	T103	UMLS:C0026549
+27782940	53	69	Pharmacokinetics	T038	UMLS:C0031327
+27782940	75	86	Mouse Model	T038	UMLS:C2986594
+27782940	87	94	Obesity	T038	UMLS:C0028754
+27782940	102	124	multiorgan dysfunction	T038	UMLS:C0026766
+27782940	139	162	metabolic abnormalities	T033	UMLS:C1704258
+27782940	170	175	liver	T017	UMLS:C0023884
+27782940	177	182	Obese	T038	UMLS:C0028754
+27782940	196	202	opioid	T103	UMLS:C0242402
+27782940	238	263	respiratory complications	T038	UMLS:C0161818
+27782940	270	277	surgery	T058	UMLS:C0543467
+27782940	279	286	Obesity	T038	UMLS:C0028754
+27782940	330	336	leptin	T103	UMLS:C0299583
+27782940	341	348	adipose	T017	UMLS:C0001527
+27782940	358	365	hormone	T103	UMLS:C0019932
+27782940	381	391	regulating	T038	UMLS:C1327622
+27782940	392	398	hunger	T033	UMLS:C0020175
+27782940	400	410	metabolism	T038	UMLS:C0025519
+27782940	428	439	stimulation	T038	UMLS:C0038337
+27782940	462	469	obesity	T038	UMLS:C0028754
+27782940	474	491	leptin deficiency	T038	UMLS:C3554224
+27782940	499	505	opioid	T103	UMLS:C0242402
+27782940	506	522	pharmacokinetics	T038	UMLS:C0031327
+27782940	524	526	PK	T038	UMLS:C0031327
+27782940	558	566	Morphine	T103	UMLS:C0026549
+27782940	567	569	PK	T038	UMLS:C0031327
+27782940	592	600	C57BL/6J	T204	UMLS:C1516103
+27782940	601	610	wild-type	T204	UMLS:C1520150
+27782940	612	614	WT	T204	UMLS:C1520150
+27782940	617	641	diet-induced obese (DIO)	T204	UMLS:C0025933
+27782940	647	676	leptin-deficient (ob/ob) mice	T204	UMLS:C0025933
+27782940	685	695	ob/ob mice	T204	UMLS:C0025933
+27782940	702	733	leptin-replacement (LR) therapy	T058	UMLS:C0282402
+27782940	735	742	WT mice	T204	UMLS:C1520150
+27782940	767	775	regimens	T170	UMLS:C2945654
+27782940	779	787	morphine	T103	UMLS:C0026549
+27782940	789	799	Obese mice	T204	UMLS:C0025933
+27782940	829	846	bolus of morphine	T103	UMLS:C0026549
+27782940	848	853	Blood	T031	UMLS:C0005767
+27782940	889	897	morphine	T103	UMLS:C0026549
+27782940	898	907	injection	T058	UMLS:C0021485
+27782940	930	936	plasma	T031	UMLS:C0032105
+27782940	937	945	morphine	T103	UMLS:C0026549
+27782940	950	978	morphine 3-glucuronide (M3G)	T103	UMLS:C0066815
+27782940	987	989	PK	T038	UMLS:C0031327
+27782940	990	1000	parameters	T033	UMLS:C0449381
+27782940	1009	1017	evaluate	T058	UMLS:C0220825
+27782940	1018	1026	morphine	T103	UMLS:C0026549
+27782940	1027	1037	metabolism	T038	UMLS:C0025519
+27782940	1086	1094	morphine	T103	UMLS:C0026549
+27782940	1121	1124	M3G	T103	UMLS:C0066815
+27782940	1130	1138	morphine	T103	UMLS:C0026549
+27782940	1185	1194	clearance	T201	UMLS:C1382187
+27782940	1196	1200	Cl/F	T201	UMLS:C1382187
+27782940	1249	1251	PK	T038	UMLS:C0031327
+27782940	1252	1262	parameters	T033	UMLS:C0449381
+27782940	1285	1290	mouse	T204	UMLS:C0025929
+27782940	1392	1395	DIO	T204	UMLS:C0025933
+27782940	1410	1417	WT mice	T204	UMLS:C1520150
+27782940	1446	1454	morphine	T103	UMLS:C0026549
+27782940	1455	1465	metabolism	T038	UMLS:C0025519
+27782940	1477	1480	M3G	T103	UMLS:C0066815
+27782940	1486	1494	morphine	T103	UMLS:C0026549
+27782940	1597	1601	Cl/F	T201	UMLS:C1382187
+27782940	1636	1641	Ob/ob	T204	UMLS:C0025933
+27782940	1656	1663	WT mice	T204	UMLS:C1520150
+27782940	1688	1696	morphine	T103	UMLS:C0026549
+27782940	1867	1871	Cl/F	T201	UMLS:C1382187
+27782940	1915	1917	PK	T038	UMLS:C0031327
+27782940	1918	1928	parameters	T033	UMLS:C0449381
+27782940	1959	1964	ob/ob	T204	UMLS:C0025933
+27782940	1979	1987	DIO mice	T204	UMLS:C0025933
+27782940	2119	2125	leptin	T103	UMLS:C0299583
+27782940	2142	2152	ob/ob mice	T204	UMLS:C0025933
+27782940	2154	2156	PK	T038	UMLS:C0031327
+27782940	2157	2167	parameters	T033	UMLS:C0449381
+27782940	2186	2189	DIO	T204	UMLS:C0025933
+27782940	2194	2196	WT	T204	UMLS:C1520150
+27782940	2205	2207	LR	T058	UMLS:C0282402
+27782940	2222	2227	ob/ob	T204	UMLS:C0025933
+27782940	2228	2232	mice	T204	UMLS:C0025933
+27782940	2391	2401	Metabolism	T038	UMLS:C0025519
+27782940	2417	2419	LR	T058	UMLS:C0282402
+27782940	2426	2433	LR mice	T204	UMLS:C0025929
+27782940	2451	2454	M3G	T103	UMLS:C0066815
+27782940	2460	2468	morphine	T103	UMLS:C0026549
+27782940	2489	2492	DIO	T204	UMLS:C0025933
+27782940	2555	2562	obesity	T038	UMLS:C0028754
+27782940	2572	2580	morphine	T103	UMLS:C0026549
+27782940	2581	2591	metabolism	T038	UMLS:C0025519
+27782940	2596	2605	excretion	T038	UMLS:C0221102
+27782940	2633	2643	laboratory	T092	UMLS:C0022877
+27782940	2662	2669	obesity	T038	UMLS:C0028754
+27782940	2674	2691	leptin deficiency	T038	UMLS:C3554224
+27782940	2720	2755	central respiratory control centers	T022	UMLS:C0460002
+27782940	2759	2773	carbon dioxide	T103	UMLS:C0007012
+27782940	2775	2782	Obesity	T038	UMLS:C0028754
+27782940	2787	2804	leptin deficiency	T038	UMLS:C3554224
+27782940	2829	2837	morphine	T103	UMLS:C0026549
+27782940	2838	2848	metabolism	T038	UMLS:C0025519
+27782940	2853	2862	clearance	T201	UMLS:C1382187
+27782940	2878	2884	leptin	T103	UMLS:C0299583
+27782940	2900	2902	PK	T038	UMLS:C0031327
+27782940	2927	2944	leptin deficiency	T038	UMLS:C3554224
+27782940	2957	2963	leptin	T103	UMLS:C0299583
+27782940	2985	2993	morphine	T103	UMLS:C0026549
+27782940	2994	3004	metabolism	T038	UMLS:C0025519

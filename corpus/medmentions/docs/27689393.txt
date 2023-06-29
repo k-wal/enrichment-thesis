@@ -1,0 +1,84 @@
+27689393|t|Computational Modeling of β-Secretase 1 (BACE-1) Inhibitors Using Ligand Based Approaches
+27689393|a|The binding affinities (IC50) reported for diverse structural and chemical classes of human β-secretase 1 (BACE-1) inhibitors in literature were modeled using multiple in silico ligand based modeling approaches and statistical techniques. The descriptor space encompasses simple binary molecular fingerprint, one - and two-dimensional constitutional, physicochemical, and topological descriptors, and sophisticated three-dimensional molecular fields that require appropriate structural alignments of varied chemical scaffolds in one universal chemical space. The affinities were modeled using qualitative classification or quantitative regression schemes involving linear, nonlinear, and deep neural network (DNN) machine-learning methods used in the scientific literature for quantitative-structure activity relationships (QSAR). In a departure from tradition, ∼20% of the chemically d iverse data set (205 compounds) was used to train the model with the remaining ∼80% of the s tructural and chemical analogs used as part of an external validation (1273 compounds) and prospective test (69 compounds) sets respectively to ascertain the model performance. The machine-learning methods investigated herein performed well in both the qualitative classification (∼70% accuracy) and quantitative IC50 predictions (RMSE ∼ 1 log). The success of the 2D descriptor based machine learning approach when compared against the 3D field based technique pursued for hBACE-1 inhibitors provides a strong impetus for systematically applying such methods during the lead identification and optimization efforts for other protein families as well.
+27689393	0	22	Computational Modeling	T066	C0009609
+27689393	26	39	β-Secretase 1	T116,T126	C1569775
+27689393	41	47	BACE-1	T116,T126	C1569775
+27689393	49	59	Inhibitors	T120	C0243077
+27689393	66	89	Ligand Based Approaches	T170	C0025663
+27689393	94	101	binding	T044	C1167622
+27689393	102	112	affinities	T070	C1510827
+27689393	114	118	IC50	T081	C0600495
+27689393	133	140	diverse	T080	C1880371
+27689393	141	151	structural	T082	C0678594
+27689393	156	164	chemical	T103	C0220806
+27689393	176	195	human β-secretase 1	T116,T126	C1569775
+27689393	197	203	BACE-1	T116,T126	C1569775
+27689393	205	215	inhibitors	T120	C0243077
+27689393	219	229	literature	T170	C0023866
+27689393	258	267	in silico	T066	C3489666
+27689393	268	300	ligand based modeling approaches	T062	C0870071
+27689393	305	327	statistical techniques	T062	C1710191
+27689393	333	343	descriptor	T170	C0282354
+27689393	369	397	binary molecular fingerprint	T169	C1704864
+27689393	399	402	one	T081	C0205447
+27689393	409	424	two-dimensional	T082	C1705052
+27689393	425	439	constitutional	T078	C1511487
+27689393	441	456	physicochemical	T070	C2350461
+27689393	462	485	topological descriptors	T170	C0282354
+27689393	505	522	three-dimensional	T082	C0450363
+27689393	523	532	molecular	T080	C1521991
+27689393	533	539	fields	T077	C2349184
+27689393	565	575	structural	T082	C0678594
+27689393	576	586	alignments	T081	C1706765
+27689393	597	615	chemical scaffolds	T103	C0220806
+27689393	623	647	universal chemical space	T082	C1254362
+27689393	653	663	affinities	T070	C1510827
+27689393	683	694	qualitative	T080	C0205556
+27689393	695	709	classification	T185	C0008902
+27689393	713	725	quantitative	T081	C0392762
+27689393	726	744	regression schemes	T170	C0034980
+27689393	755	761	linear	T082	C0205132
+27689393	763	772	nonlinear	T082	C1254362
+27689393	778	797	deep neural network	T170	C0870951
+27689393	799	802	DNN	T170	C0870951
+27689393	804	820	machine-learning	T066	C0376284
+27689393	821	828	methods	T170	C0025663
+27689393	841	851	scientific	T090	C0036397
+27689393	852	862	literature	T170	C0023866
+27689393	867	912	quantitative-structure activity relationships	T081	C0887819
+27689393	914	918	QSAR	T081	C0887819
+27689393	964	974	chemically	T103	C0220806
+27689393	977	983	iverse	T080	C1880371
+27689393	984	992	data set	T170	C0150098
+27689393	998	1007	compounds	T103	C1706082
+27689393	1031	1036	model	T170	C3161035
+27689393	1070	1079	tructural	T082	C0678594
+27689393	1084	1092	chemical	T103	C0220806
+27689393	1093	1100	analogs	T104	C0243071
+27689393	1120	1128	external	T082	C0205101
+27689393	1129	1139	validation	T062	C1519941
+27689393	1146	1155	compounds	T103	C1706082
+27689393	1161	1177	prospective test	T062	C0033522
+27689393	1182	1191	compounds	T103	C1706082
+27689393	1228	1233	model	T170	C3161035
+27689393	1234	1245	performance	T052	C1882330
+27689393	1251	1267	machine-learning	T066	C0376284
+27689393	1268	1275	methods	T170	C0025663
+27689393	1323	1334	qualitative	T080	C0205556
+27689393	1335	1349	classification	T185	C0008902
+27689393	1370	1382	quantitative	T081	C0392762
+27689393	1383	1387	IC50	T081	C0600495
+27689393	1388	1399	predictions	T078	C0681842
+27689393	1435	1437	2D	T082	C1705052
+27689393	1438	1448	descriptor	T170	C0282354
+27689393	1455	1471	machine learning	T066	C0376284
+27689393	1472	1480	approach	T082	C0449445
+27689393	1507	1515	3D field	T082	C0450363
+27689393	1522	1531	technique	T169	C0449851
+27689393	1544	1551	hBACE-1	T116,T126	C1569775
+27689393	1552	1562	inhibitors	T120	C0243077
+27689393	1593	1607	systematically	T169	C0220922
+27689393	1622	1629	methods	T170	C0025663
+27689393	1641	1660	lead identification	T033	C0243095
+27689393	1665	1677	optimization	T052	C2698650
+27689393	1696	1712	protein families	T116,T123	C1335532

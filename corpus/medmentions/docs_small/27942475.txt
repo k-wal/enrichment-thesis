@@ -1,0 +1,23 @@
+27942475|t|Sinogram -based coil selection for streak artifact reduction in undersampled radial real-time magnetic resonance imaging
+27942475|a|Streak artifacts are a common problem in radial magnetic resonance imaging (MRI). We therefore developed a method for automatically excluding receiver coil elements which lead to these artifacts. The proposed coil selection relates to real-time MRI data based on highly undersampled radial acquisitions. It exploits differences between high- and low-resolution sinograms reconstructed from datasets acquired during preparatory scans. Apart from phantom validations, the performance was assessed for real-time MRI studies of different human organ systems in vivo. The algorithm greatly reduces streak artifact strength without compromising image quality in other parts of the image. It is robust with respect to different experimental settings and fast to be included in the online reconstruction pipeline for real-time MRI. The proposed method enables a fast reduction of streak artifacts in radial real-time MRI.
+27942475	0	8	Sinogram	T058	UMLS:C0412195
+27942475	16	20	coil	T074	UMLS:C1705946
+27942475	35	50	streak artifact	T033	UMLS:C2828115
+27942475	121	137	Streak artifacts	T033	UMLS:C2828115
+27942475	162	195	radial magnetic resonance imaging	T058	UMLS:C0024485
+27942475	197	200	MRI	T058	UMLS:C0024485
+27942475	272	276	coil	T074	UMLS:C1705946
+27942475	306	315	artifacts	T033	UMLS:C2828115
+27942475	330	334	coil	T074	UMLS:C1705946
+27942475	482	491	sinograms	T058	UMLS:C0412195
+27942475	511	519	datasets	T170	UMLS:C0150098
+27942475	548	553	scans	T058	UMLS:C0441633
+27942475	634	641	studies	T062	UMLS:C2603343
+27942475	655	660	human	T204	UMLS:C0086418
+27942475	661	674	organ systems	T022	UMLS:C0460002
+27942475	675	682	in vivo	T082	UMLS:C1515655
+27942475	688	697	algorithm	T170	UMLS:C0002045
+27942475	714	729	streak artifact	T033	UMLS:C2828115
+27942475	796	801	image	T170	UMLS:C1704922
+27942475	842	863	experimental settings	T062	UMLS:C0015320
+27942475	993	1009	streak artifacts	T033	UMLS:C2828115

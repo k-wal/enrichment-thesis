@@ -1,0 +1,51 @@
+28533524|t|Enhancing the genome editing toolbox: genome wide CRISPR arrayed libraries
+28533524|a|CRISPR-Cas9 technology has accelerated biological research becoming routine for many laboratories. It is rapidly replacing conventional gene editing techniques and has high utility for both genome-wide and gene-focussed applications. Here we present the first individually cloned CRISPR-Cas9 genome wide arrayed sgRNA libraries covering 17,166 human and 20,430 mouse genes at a complexity of 34,332 sgRNAs for human and 40,860 sgRNAs for the mouse genome. For flexibility in generating stable cell lines the sgRNAs have been cloned in a lentivirus backbone containing PiggyBac transposase recognition elements together with fluorescent and drug selection markers. Over 95% of tested sgRNA induced specific DNA cleavage as measured by CEL-1 assays. Furthermore, sgRNA targeting GPI anchor protein pathway genes induced loss of function mutations in human and mouse cell lines measured by FLAER labelling. These arrayed libraries offer the prospect for performing screens on individual genes, combinations as well as larger gene sets. They also facilitate rapid deconvolution of signals from genome-wide screens. This set of vectors provide an organized comprehensive gene editing toolbox of considerable scientific value.
+28533524	14	28	genome editing	T062	UMLS:C4279981
+28533524	29	36	toolbox	T170	UMLS:C0282574
+28533524	38	44	genome	T017	UMLS:C0017428
+28533524	50	64	CRISPR arrayed	T103	UMLS:C3658200
+28533524	65	74	libraries	T017	UMLS:C0017430
+28533524	75	86	CRISPR-Cas9	T017	UMLS:C0017428
+28533524	125	133	research	T062	UMLS:C0035168
+28533524	160	172	laboratories	T092	UMLS:C0022877
+28533524	211	234	gene editing techniques	T062	UMLS:C4277689
+28533524	265	307	genome-wide and gene-focussed applications	T170	UMLS:C0282574
+28533524	348	354	cloned	T062	UMLS:C0009015
+28533524	355	373	CRISPR-Cas9 genome	T017	UMLS:C0017428
+28533524	387	392	sgRNA	T103	UMLS:C0035668
+28533524	393	402	libraries	T017	UMLS:C0017430
+28533524	419	424	human	T204	UMLS:C0086418
+28533524	436	441	mouse	T204	UMLS:C0026809
+28533524	442	447	genes	T017	UMLS:C0017337
+28533524	474	480	sgRNAs	T103	UMLS:C0035668
+28533524	485	490	human	T204	UMLS:C0086418
+28533524	502	508	sgRNAs	T103	UMLS:C0035668
+28533524	517	522	mouse	T204	UMLS:C0026809
+28533524	523	529	genome	T017	UMLS:C0017428
+28533524	583	589	sgRNAs	T103	UMLS:C0035668
+28533524	600	606	cloned	T062	UMLS:C0009015
+28533524	612	622	lentivirus	T005	UMLS:C1644888
+28533524	643	663	PiggyBac transposase	T103	UMLS:C0076934
+28533524	664	684	recognition elements	T103	UMLS:C0205742
+28533524	699	737	fluorescent and drug selection markers	T201	UMLS:C0005516
+28533524	758	763	sgRNA	T103	UMLS:C0035668
+28533524	781	793	DNA cleavage	T038	UMLS:C1721094
+28533524	809	814	CEL-1	T103	UMLS:C0917631
+28533524	815	821	assays	T058	UMLS:C1510438
+28533524	836	841	sgRNA	T103	UMLS:C0035668
+28533524	852	878	GPI anchor protein pathway	T038	UMLS:C1704259
+28533524	879	884	genes	T017	UMLS:C0017337
+28533524	893	919	loss of function mutations	T033	UMLS:C0243095
+28533524	923	928	human	T204	UMLS:C0086418
+28533524	933	938	mouse	T204	UMLS:C0026809
+28533524	939	949	cell lines	T017	UMLS:C0022827
+28533524	985	1002	arrayed libraries	T017	UMLS:C0017272
+28533524	1037	1044	screens	T062	UMLS:C0242481
+28533524	1059	1064	genes	T017	UMLS:C0017337
+28533524	1097	1106	gene sets	T017	UMLS:C0017337
+28533524	1165	1176	genome-wide	T017	UMLS:C0017428
+28533524	1177	1184	screens	T062	UMLS:C0242481
+28533524	1198	1205	vectors	T103	UMLS:C0017397
+28533524	1217	1226	organized	T062	UMLS:C4277689
+28533524	1241	1253	gene editing	T062	UMLS:C4279981
+28533524	1254	1261	toolbox	T170	UMLS:C0282574

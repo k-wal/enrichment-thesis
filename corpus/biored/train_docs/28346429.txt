@@ -1,0 +1,58 @@
+28346429|t|Deletion of endothelial cell-specific liver kinase B1 increases angiogenesis and tumor growth via vascular endothelial growth factor.
+28346429|a|Liver kinase B1 (LKB1) is a serine/threonine protein kinase ubiquitously expressed in mammalian cells. It was first identified in Peutz-Jeghers syndrome as a tumor suppressor gene. Whether endothelial LKB1 regulates angiogenesis and tumor growth is unknown. In this study, we generated endothelial cell-specific LKB1-knockout (LKB1(endo-/-)) mice by crossbreeding vascular endothelial-cadherin-Cre mice with LKB1(flox/flox) mice. Vascular endothelial growth factor (VEGF) level was highly co-stained in endothelial cells but not in macrophages in LKB1(endo-/-) mice. Consistently, LKB1(endo-/-) mouse tissues including the lung, skin, kidney and liver showed increased vascular permeability. Tumors implanted in LKB1(endo-/-) mice but not macrophage-specific LKB1-knockout mice grew faster and showed enhanced vascular permeability and increased angiogenesis as compared with those implanted in wild-type mice. Injection of VEGF-neutralizing antibody but not the isotype-matched control antibody decreased endothelial-cell angiogenesis and tumor growth in vivo. Furthermore, LKB1 deletion enhanced mouse retinal and cell angiogenesis, and knockdown of VEGF by small-interfering RNA decreased endothelial cell proliferation and migration. Re-expression of LKB1 or knockdown of VEGF receptor 2 decreased the overproliferation and -migration observed in LKB1(endo-/-) cells. Mechanistically, LKB1 could bind to the VEGF transcription factor, specificity protein 1 (Sp1), which then inhibited the binding of Sp1 to the VEGF promoter to reduce VEGF expression. Endothelial LKB1 may regulate endothelial angiogenesis and tumor growth by modulating Sp1-mediated VEGF expression.
+28346429	38	53	liver kinase B1	GeneOrGeneProduct	20869
+28346429	81	86	tumor	DiseaseOrPhenotypicFeature	D009369
+28346429	98	132	vascular endothelial growth factor	GeneOrGeneProduct	22339
+28346429	134	149	Liver kinase B1	GeneOrGeneProduct	20869
+28346429	151	155	LKB1	GeneOrGeneProduct	20869
+28346429	162	193	serine/threonine protein kinase	GeneOrGeneProduct	20869
+28346429	264	286	Peutz-Jeghers syndrome	DiseaseOrPhenotypicFeature	D010580
+28346429	292	297	tumor	DiseaseOrPhenotypicFeature	D009369
+28346429	335	339	LKB1	GeneOrGeneProduct	20869
+28346429	367	372	tumor	DiseaseOrPhenotypicFeature	D009369
+28346429	446	450	LKB1	GeneOrGeneProduct	20869
+28346429	461	465	LKB1	GeneOrGeneProduct	20869
+28346429	476	480	mice	OrganismTaxon	10090
+28346429	498	527	vascular endothelial-cadherin	GeneOrGeneProduct	12562
+28346429	532	536	mice	OrganismTaxon	10090
+28346429	542	546	LKB1	GeneOrGeneProduct	20869
+28346429	558	562	mice	OrganismTaxon	10090
+28346429	564	598	Vascular endothelial growth factor	GeneOrGeneProduct	22339
+28346429	600	604	VEGF	GeneOrGeneProduct	22339
+28346429	681	685	LKB1	GeneOrGeneProduct	20869
+28346429	695	699	mice	OrganismTaxon	10090
+28346429	715	719	LKB1	GeneOrGeneProduct	20869
+28346429	729	734	mouse	OrganismTaxon	10090
+28346429	826	832	Tumors	DiseaseOrPhenotypicFeature	D009369
+28346429	846	850	LKB1	GeneOrGeneProduct	20869
+28346429	860	864	mice	OrganismTaxon	10090
+28346429	893	897	LKB1	GeneOrGeneProduct	20869
+28346429	907	911	mice	OrganismTaxon	10090
+28346429	1039	1043	mice	OrganismTaxon	10090
+28346429	1058	1062	VEGF	GeneOrGeneProduct	22339
+28346429	1174	1179	tumor	DiseaseOrPhenotypicFeature	D009369
+28346429	1209	1213	LKB1	GeneOrGeneProduct	20869
+28346429	1232	1237	mouse	OrganismTaxon	10090
+28346429	1286	1290	VEGF	GeneOrGeneProduct	22339
+28346429	1389	1393	LKB1	GeneOrGeneProduct	20869
+28346429	1410	1425	VEGF receptor 2	GeneOrGeneProduct	16542
+28346429	1485	1489	LKB1	GeneOrGeneProduct	20869
+28346429	1523	1527	LKB1	GeneOrGeneProduct	20869
+28346429	1546	1550	VEGF	GeneOrGeneProduct	22339
+28346429	1573	1594	specificity protein 1	GeneOrGeneProduct	20683
+28346429	1596	1599	Sp1	GeneOrGeneProduct	20683
+28346429	1638	1641	Sp1	GeneOrGeneProduct	20683
+28346429	1649	1653	VEGF	GeneOrGeneProduct	22339
+28346429	1673	1677	VEGF	GeneOrGeneProduct	22339
+28346429	1702	1706	LKB1	GeneOrGeneProduct	20869
+28346429	1749	1754	tumor	DiseaseOrPhenotypicFeature	D009369
+28346429	1776	1779	Sp1	GeneOrGeneProduct	20683
+28346429	1789	1793	VEGF	GeneOrGeneProduct	22339
+28346429	Association	16542	20869	Novel
+28346429	Association	22339	20683	No
+28346429	Association	22339	D009369	Novel
+28346429	Association	D009369	20683	Novel
+28346429	Association	20869	D010580	No
+28346429	Bind	20869	20683	Novel
+28346429	Negative_Correlation	20869	22339	Novel
+28346429	Negative_Correlation	20869	D009369	Novel

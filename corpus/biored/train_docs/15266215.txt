@@ -1,0 +1,53 @@
+15266215|t|Effects of the cyclooxygenase-2 specific inhibitor valdecoxib versus nonsteroidal antiinflammatory agents and placebo on cardiovascular thrombotic events in patients with arthritis.
+15266215|a|There have been concerns that the risk of cardiovascular thrombotic events may be higher with cyclooxygenase (COX)-2-specific inhibitors than nonselective nonsteroidal antiinflammatory drugs (NSAIDs). We evaluated cardiovascular event data for valdecoxib, a new COX-2-specific inhibitor in approximately 8000 patients with osteoarthritis and rheumatoid arthritis treated with this agent in randomized clinical trials. The incidence of cardiovascular thrombotic events (cardiac, cerebrovascular and peripheral vascular, or arterial thrombotic) was determined by analyzing pooled valdecoxib (10-80 mg daily), nonselective NSAID (diclofenac 75 mg bid, ibuprofen 800 mg tid, or naproxen 500 mg bid) and placebo data from 10 randomized osteoarthritis and rheumatoid arthritis trials that were 6-52 weeks in duration. The incidence rates of events were determined in all patients (n = 7934) and in users of low-dose (< or =325 mg daily) aspirin (n = 1051) and nonusers of aspirin (n = 6883). Crude and exposure-adjusted incidences of thrombotic events were similar for valdecoxib, NSAIDs, and placebo. The risk of serious thrombotic events was also similar for each valdecoxib dose. Thrombotic risk was consistently higher for users of aspirin users than nonusers of aspirin (placebo, 1.4% vs. 0%; valdecoxib, 1.7% vs. 0.2%; NSAIDs, 1.9% vs. 0.5%). The rates of events in users of aspirin were similar for all 3 treatment groups and across valdecoxib doses. Short- and intermediate-term treatment with therapeutic (10 or 20 mg daily) and supratherapeutic (40 or 80 mg daily) valdecoxib doses was not associated with an increased incidence of thrombotic events relative to nonselective NSAIDs or placebo in osteoarthritis and rheumatoid arthritis patients in controlled clinical trials.
+15266215	15	31	cyclooxygenase-2	GeneOrGeneProduct	5743
+15266215	51	61	valdecoxib	ChemicalEntity	C406224
+15266215	69	105	nonsteroidal antiinflammatory agents	ChemicalEntity	D000894
+15266215	136	146	thrombotic	DiseaseOrPhenotypicFeature	D013927
+15266215	157	165	patients	OrganismTaxon	9606
+15266215	171	180	arthritis	DiseaseOrPhenotypicFeature	D001168
+15266215	239	249	thrombotic	DiseaseOrPhenotypicFeature	D013927
+15266215	276	298	cyclooxygenase (COX)-2	GeneOrGeneProduct	5743
+15266215	337	372	nonsteroidal antiinflammatory drugs	ChemicalEntity	D000894
+15266215	374	380	NSAIDs	ChemicalEntity	D000894
+15266215	426	436	valdecoxib	ChemicalEntity	C406224
+15266215	444	449	COX-2	GeneOrGeneProduct	5743
+15266215	491	499	patients	OrganismTaxon	9606
+15266215	505	519	osteoarthritis	DiseaseOrPhenotypicFeature	D010003
+15266215	524	544	rheumatoid arthritis	DiseaseOrPhenotypicFeature	D001172
+15266215	632	642	thrombotic	DiseaseOrPhenotypicFeature	D013927
+15266215	713	723	thrombotic	DiseaseOrPhenotypicFeature	D013927
+15266215	760	770	valdecoxib	ChemicalEntity	C406224
+15266215	802	807	NSAID	ChemicalEntity	D000894
+15266215	809	819	diclofenac	ChemicalEntity	D004008
+15266215	831	840	ibuprofen	ChemicalEntity	D007052
+15266215	856	864	naproxen	ChemicalEntity	D009288
+15266215	913	927	osteoarthritis	DiseaseOrPhenotypicFeature	D010003
+15266215	932	952	rheumatoid arthritis	DiseaseOrPhenotypicFeature	D001172
+15266215	1047	1055	patients	OrganismTaxon	9606
+15266215	1113	1120	aspirin	ChemicalEntity	D001241
+15266215	1148	1155	aspirin	ChemicalEntity	D001241
+15266215	1210	1220	thrombotic	DiseaseOrPhenotypicFeature	D013927
+15266215	1245	1255	valdecoxib	ChemicalEntity	C406224
+15266215	1257	1263	NSAIDs	ChemicalEntity	D000894
+15266215	1298	1308	thrombotic	DiseaseOrPhenotypicFeature	D013927
+15266215	1342	1352	valdecoxib	ChemicalEntity	C406224
+15266215	1359	1369	Thrombotic	DiseaseOrPhenotypicFeature	D013927
+15266215	1412	1419	aspirin	ChemicalEntity	D001241
+15266215	1443	1450	aspirin	ChemicalEntity	D001241
+15266215	1474	1484	valdecoxib	ChemicalEntity	C406224
+15266215	1501	1507	NSAIDs	ChemicalEntity	D000894
+15266215	1557	1564	aspirin	ChemicalEntity	D001241
+15266215	1616	1626	valdecoxib	ChemicalEntity	C406224
+15266215	1751	1761	valdecoxib	ChemicalEntity	C406224
+15266215	1818	1828	thrombotic	DiseaseOrPhenotypicFeature	D013927
+15266215	1861	1867	NSAIDs	ChemicalEntity	D000894
+15266215	1882	1896	osteoarthritis	DiseaseOrPhenotypicFeature	D010003
+15266215	1901	1921	rheumatoid arthritis	DiseaseOrPhenotypicFeature	D001172
+15266215	1922	1930	patients	OrganismTaxon	9606
+15266215	Positive_Correlation	D013927	D001241	Novel
+15266215	Negative_Correlation	C406224	D001172	No
+15266215	Negative_Correlation	C406224	D010003	No
+15266215	Comparison	C406224	D000894	Novel
+15266215	Negative_Correlation	C406224	D001168	No
+15266215	Negative_Correlation	5743	C406224	No

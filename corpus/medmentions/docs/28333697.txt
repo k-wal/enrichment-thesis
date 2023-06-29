@@ -1,0 +1,104 @@
+28333697|t|Medication Reconciliation During Hospitalization and in Hospital-Home Interface: An Observational Retrospective Study
+28333697|a|Medication errors are one of the leading causes of patient harms. Medication reconciliation is a fundamental process that to be effective, it should be embraced during each single care transition. Our objectives were to investigate current medication reconciliation practices in the 2 Fondazione Toscana Gabriele Monasterio hospitals and comprehensively assess the quality of medication reconciliation practices between inpatient and outpatient care by analyzing the medication patterns 6 months before admission, during hospitalization, and 9 months after discharge for a selected group of patients with cardiovascular diseases. A retrospective observational study was conducted in the Cardiothoracic Department of the Fondazione Toscana Gabriele Monasterio hospitals. Medication history was reviewed for all the patients admitted from and discharged to the community, from January to March 2013. Patients were excluded if they had less than 4 drugs or less than 2 drugs for cardiovascular system in their prescription list at admission or if they died during follow-up. We selected 714 patients, and we obtained the clinical charts and all drug prescriptions collected during patients ' hospitalization by the electronic clinical recording system. We also analyzed the list of prescriptions of this sample of patients, from 6 months before admission to 9 months after discharge, extracted from the regional prescription registry. In the resulting sample, prescriptions were analyzed to assess unintentional discrepancies. The study included 298 patients (mean age, 71.2 years), according to the inclusion and exclusion criteria. Among 14,573 prescriptions analyzed, we found 4363 discrepancies (14.6 discrepancies per patient). Among these discrepancies, 1310 were classified as unintentional (4.4 discrepancies per patient). Among unintentional discrepancies, only 63 (4.8%) took place during hospitalization. Although at the hospital-home interface, 33.1% of unintentional discrepancies were detected through the comparison between the patients ' declared therapy and the previous medication consumption and 62.1% were identified in the comparison between the prescription at the discharge and the following medication pattern at home. Medication errors have important implications for patient safety, and their identification is a main target for improving clinical practice. The comparison between the medication patterns acquired through the regional prescription registry before and after hospitalization outlined critical touchpoint in the current medication reconciliation process, calling for the definition of shared medication reconciliation standards between hospitals and primary care services to minimize medication discrepancies and enhance patient safety.
+28333697	0	25	Medication Reconciliation	T058	C2317067
+28333697	33	48	Hospitalization	T058	C0019993
+28333697	56	79	Hospital-Home Interface	T058	C1254363
+28333697	84	117	Observational Retrospective Study	T062	C0035363
+28333697	118	135	Medication errors	T080	C0025115
+28333697	169	182	patient harms	T080	C3658342
+28333697	184	209	Medication reconciliation	T058	C2317067
+28333697	298	313	care transition	T058	C4019071
+28333697	338	349	investigate	T169	C1292732
+28333697	358	383	medication reconciliation	T058	C2317067
+28333697	403	451	Fondazione Toscana Gabriele Monasterio hospitals	T073,T093	C0019994
+28333697	472	490	assess the quality	T080	C0332306
+28333697	494	519	medication reconciliation	T058	C2317067
+28333697	538	547	inpatient	T101	C0021562
+28333697	552	562	outpatient	T101	C0029921
+28333697	563	567	care	T052	C1947933
+28333697	571	580	analyzing	T062	C0936012
+28333697	585	604	medication patterns	T058	C1254363
+28333697	607	613	months	T079	C0439231
+28333697	621	630	admission	T058	C0184666
+28333697	639	654	hospitalization	T058	C0019993
+28333697	662	668	months	T079	C0439231
+28333697	675	684	discharge	T058	C0030685
+28333697	709	717	patients	T101	C0030705
+28333697	723	746	cardiovascular diseases	T047	C0007222
+28333697	750	783	retrospective observational study	T062	C0035363
+28333697	805	830	Cardiothoracic Department	T093	C0587505
+28333697	838	886	Fondazione Toscana Gabriele Monasterio hospitals	T073,T093	C0019994
+28333697	888	906	Medication history	T170	C1553893
+28333697	911	919	reviewed	T080	C1709940
+28333697	932	940	patients	T101	C0030705
+28333697	941	949	admitted	T058	C0184666
+28333697	959	969	discharged	T058	C0030685
+28333697	977	986	community	T096	C0009462
+28333697	1016	1024	Patients	T101	C0030705
+28333697	1063	1068	drugs	T061	C3687832
+28333697	1084	1089	drugs	T061	C3687832
+28333697	1094	1115	cardiovascular system	T022	C0007226
+28333697	1125	1142	prescription list	T170	C3533331
+28333697	1146	1155	admission	T058	C0184666
+28333697	1167	1171	died	T033	C4264514
+28333697	1179	1188	follow-up	T058	C1522577
+28333697	1206	1214	patients	T101	C0030705
+28333697	1236	1251	clinical charts	T170	C0025102
+28333697	1260	1278	drug prescriptions	T170	C0033081
+28333697	1296	1304	patients	T101	C0030705
+28333697	1307	1322	hospitalization	T058	C0019993
+28333697	1330	1366	electronic clinical recording system	T170	C1737029
+28333697	1376	1384	analyzed	T062	C0936012
+28333697	1389	1410	list of prescriptions	T170	C3533331
+28333697	1429	1437	patients	T101	C0030705
+28333697	1446	1452	months	T079	C0439231
+28333697	1460	1469	admission	T058	C0184666
+28333697	1475	1481	months	T079	C0439231
+28333697	1488	1497	discharge	T058	C0030685
+28333697	1518	1548	regional prescription registry	T170	C0282574
+28333697	1575	1588	prescriptions	T170	C0033081
+28333697	1594	1602	analyzed	T062	C0936012
+28333697	1613	1626	unintentional	T169	C1283932
+28333697	1627	1640	discrepancies	T033	C1290905
+28333697	1646	1651	study	T062	C2603343
+28333697	1665	1673	patients	T101	C0030705
+28333697	1680	1683	age	T032	C0001779
+28333697	1690	1695	years	T079	C0439234
+28333697	1715	1747	inclusion and exclusion criteria	T078	C0243161
+28333697	1762	1775	prescriptions	T170	C0033081
+28333697	1776	1784	analyzed	T062	C0936012
+28333697	1800	1813	discrepancies	T033	C1290905
+28333697	1820	1833	discrepancies	T033	C1290905
+28333697	1838	1845	patient	T101	C0030705
+28333697	1860	1873	discrepancies	T033	C1290905
+28333697	1899	1912	unintentional	T169	C1283932
+28333697	1918	1931	discrepancies	T033	C1290905
+28333697	1936	1943	patient	T101	C0030705
+28333697	1952	1965	unintentional	T169	C1283932
+28333697	1966	1979	discrepancies	T033	C1290905
+28333697	2014	2029	hospitalization	T058	C0019993
+28333697	2047	2070	hospital-home interface	T058	C1254363
+28333697	2081	2094	unintentional	T169	C1283932
+28333697	2095	2108	discrepancies	T033	C1290905
+28333697	2135	2145	comparison	T052	C1707455
+28333697	2158	2166	patients	T101	C0030705
+28333697	2178	2185	therapy	T169	C0039798
+28333697	2203	2225	medication consumption	T058	C1254363
+28333697	2259	2269	comparison	T052	C1707455
+28333697	2282	2294	prescription	T170	C0033081
+28333697	2302	2311	discharge	T058	C0030685
+28333697	2330	2348	medication pattern	T058	C1254363
+28333697	2352	2356	home	T082	C0442519
+28333697	2358	2375	Medication errors	T080	C0025115
+28333697	2408	2422	patient safety	T058	C1113679
+28333697	2480	2497	clinical practice	T058	C1254363
+28333697	2503	2513	comparison	T052	C1707455
+28333697	2526	2545	medication patterns	T058	C1254363
+28333697	2567	2597	regional prescription registry	T170	C0282574
+28333697	2615	2630	hospitalization	T058	C0019993
+28333697	2675	2700	medication reconciliation	T058	C2317067
+28333697	2747	2772	medication reconciliation	T058	C2317067
+28333697	2791	2800	hospitals	T073,T093	C0019994
+28333697	2805	2826	primary care services	T058	C0018747
+28333697	2839	2863	medication discrepancies	T080	C0025115
+28333697	2876	2890	patient safety	T058	C1113679

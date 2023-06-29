@@ -1,0 +1,21 @@
+15459975|t|Fine mapping and identification of a candidate gene SSH1 in disseminated superficial actinic porokeratosis.
+15459975|a|Disseminated superficial actinic porokeratosis (DSAP) is an uncommon autosomal dominant chronic keratinization disorder, characterized by multiple superficial keratotic lesions surrounded by a slightly raised keratotic border. Thus far, although two loci for DSAP have been identified, the genetic basis and pathogenesis of this disorder have not been elucidated yet. In this study, we performed a genome-wide linkage analysis in three Chinese affected families and localized the gene in an 8.0 cM interval defined by D12S330 and D12S354 on chromosome 12. Upon screening 30 candidate genes, we identified a missense mutation, p.Ser63Asn in SSH1 in one family, a frameshift mutation, p.Ser19CysfsX24 in an alternative variant (isoform f) of SSH1 in another family, and a frameshift mutation, p.Pro27ProfsX54 in the same alternative variant in one non-familial case with DSAP. SSH1 encodes a phosphatase that plays a pivotal role in actin dynamics. Our data suggested that cytoskeleton disorganization in epidermal cells is likely associated with the pathogenesis of DSAP.
+15459975	52	56	SSH1	GeneOrGeneProduct	54434
+15459975	60	106	disseminated superficial actinic porokeratosis	DiseaseOrPhenotypicFeature	D017499
+15459975	108	154	Disseminated superficial actinic porokeratosis	DiseaseOrPhenotypicFeature	D017499
+15459975	156	160	DSAP	DiseaseOrPhenotypicFeature	D017499
+15459975	204	227	keratinization disorder	DiseaseOrPhenotypicFeature	D007642
+15459975	267	284	keratotic lesions	DiseaseOrPhenotypicFeature	D007642
+15459975	367	371	DSAP	DiseaseOrPhenotypicFeature	D017499
+15459975	734	744	p.Ser63Asn	SequenceVariant	p|SUB|S|63|N
+15459975	748	752	SSH1	GeneOrGeneProduct	54434
+15459975	791	806	p.Ser19CysfsX24	SequenceVariant	p|FS|S|19|C|24
+15459975	848	852	SSH1	GeneOrGeneProduct	54434
+15459975	899	914	p.Pro27ProfsX54	SequenceVariant	p|FS|P|63|P|54
+15459975	977	981	DSAP	DiseaseOrPhenotypicFeature	D017499
+15459975	983	987	SSH1	GeneOrGeneProduct	54434
+15459975	1173	1177	DSAP	DiseaseOrPhenotypicFeature	D017499
+15459975	Association	54434	D017499	Novel
+15459975	Association	p|SUB|S|63|N	D017499	Novel
+15459975	Association	p|FS|P|63|P|54	D017499	Novel
+15459975	Association	p|FS|S|19|C|24	D017499	Novel

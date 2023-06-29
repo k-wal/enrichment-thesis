@@ -1,0 +1,32 @@
+26991973|t|MOL1 is required for cambium homeostasis in Arabidopsis.
+26991973|a|Plants maintain pools of pluripotent stem cells which allow them to constantly produce new tissues and organs. Stem cell homeostasis in shoot and root tips depends on negative regulation by ligand-receptor pairs of the CLE peptide and leucine-rich repeat receptor-like kinase (LRR-RLK) families. However, regulation of the cambium, the stem cell niche required for lateral growth of shoots and roots, is poorly characterized. Here we show that the LRR-RLK MOL1 is necessary for cambium homeostasis in Arabidopsis thaliana. By employing promoter reporter lines, we reveal that MOL1 is active in a domain that is distinct from the domain of the positively acting CLE41/PXY signaling module. In particular, we show that MOL1 acts in an opposing manner to the CLE41/PXY module and that changing the domain or level of MOL1 expression both result in disturbed cambium organization. Underlining discrete roles of MOL1 and PXY, both LRR-RLKs are not able to replace each other when their expression domains are interchanged. Furthermore, MOL1 but not PXY is able to rescue CLV1 deficiency in the shoot apical meristem. By identifying genes mis-expressed in mol1 mutants, we demonstrate that MOL1 represses genes associated with stress-related ethylene and jasmonic acid hormone signaling pathways which have known roles in coordinating lateral growth of the Arabidopsis stem. Our findings provide evidence that common regulatory mechanisms in different plant stem cell niches are adapted to specific niche anatomies and emphasize the importance of a complex spatial organization of intercellular signaling cascades for a strictly bidirectional tissue production.
+26991973	0	4	MOL1	GeneOrGeneProduct	835209
+26991973	44	55	Arabidopsis	OrganismTaxon	3702
+26991973	276	287	CLE peptide	GeneOrGeneProduct	820713,821957,832170
+26991973	292	332	leucine-rich repeat receptor-like kinase	GeneOrGeneProduct	835209,836269
+26991973	334	341	LRR-RLK	GeneOrGeneProduct	835209,836269
+26991973	505	512	LRR-RLK	GeneOrGeneProduct	835209,836269
+26991973	513	517	MOL1	GeneOrGeneProduct	835209
+26991973	558	578	Arabidopsis thaliana	OrganismTaxon	3702
+26991973	633	637	MOL1	GeneOrGeneProduct	835209
+26991973	718	723	CLE41	GeneOrGeneProduct	822075
+26991973	724	727	PXY	GeneOrGeneProduct	836269
+26991973	774	778	MOL1	GeneOrGeneProduct	835209
+26991973	813	818	CLE41	GeneOrGeneProduct	822075
+26991973	819	822	PXY	GeneOrGeneProduct	836269
+26991973	871	875	MOL1	GeneOrGeneProduct	835209
+26991973	964	968	MOL1	GeneOrGeneProduct	835209
+26991973	973	976	PXY	GeneOrGeneProduct	836269
+26991973	983	991	LRR-RLKs	GeneOrGeneProduct	835209,836269
+26991973	1088	1092	MOL1	GeneOrGeneProduct	835209
+26991973	1101	1104	PXY	GeneOrGeneProduct	836269
+26991973	1123	1127	CLV1	GeneOrGeneProduct	843915
+26991973	1207	1211	mol1	GeneOrGeneProduct	835209
+26991973	1241	1245	MOL1	GeneOrGeneProduct	835209
+26991973	1293	1301	ethylene	ChemicalEntity	D005030
+26991973	1306	1319	jasmonic acid	ChemicalEntity	C011006
+26991973	1408	1419	Arabidopsis	OrganismTaxon	3702
+26991973	Association	835209	C011006	Novel
+26991973	Association	835209	D005030	Novel
+26991973	Positive_Correlation	835209	843915	Novel
+26991973	Bind	822075	836269	No

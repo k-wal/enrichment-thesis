@@ -1,0 +1,84 @@
+27991454|t|A novel method for interactive multi-objective dose-guided patient positioning
+27991454|a|In intensity-modulated radiation therapy (IMRT), 3D in-room imaging data is typically utilized for accurate patient alignment on the basis of anatomical landmarks. In the presence of non-rigid anatomical changes, it is often not obvious which patient position is most suitable. Thus, dose -guided patient alignment is an interesting approach to use available in-room imaging data for up-to-date dose calculation, aimed at finding the position that yields the optimal dose distribution. This contribution presents the first implementation of dose -guided patient alignment as multi-criteria optimization problem. User-defined clinical objectives are employed for setting up a multi-objective problem. Using pre-calculated dose distributions at a limited number of patient shifts and dose interpolation, a continuous space of Pareto-efficient patient shifts becomes accessible. Pareto sliders facilitate interactive browsing of the possible shifts with real-time dose display to the user. Dose interpolation accuracy is validated and the potential of multi-objective dose-guided positioning demonstrated for three head and neck (H&N) and three prostate cancer patients. Dose-guided positioning is compared to replanning for all cases. A delineated replanning CT served as surrogate for in-room imaging data. Dose interpolation accuracy was high. Using a [Formula: see text] dose difference criterion, a median pass-rate of 95.7% for H&N and 99.6% for prostate cases was determined in a comparison to exact dose calculations. For all patients, dose-guided positioning allowed to find a clinically preferable dose distribution compared to bony anatomy based alignment. For all H&N cases, mean dose to the spared parotid glands was below [Formula: see text] (up to [Formula: see text] with bony alignment) and clinical target volume (CTV) [Formula: see text] above 99.1% (compared to 95.1%). For all prostate patients, CTV [Formula: see text] was above 98.9% (compared to 88.5%) and [Formula: see text] to the rectum below [Formula: see text] (compared to 56.1%). Replanning yielded improved results for the H&N cases. For the prostate cases, differences to dose-guided positioning were minor.
+27991454	2	7	novel	T080	C0205314
+27991454	8	14	method	T170	C0025663
+27991454	19	30	interactive	T169	C1704675
+27991454	31	46	multi-objective	T080	C1571702
+27991454	47	78	dose-guided patient positioning	T058	C1561964
+27991454	82	119	intensity-modulated radiation therapy	T061	C1512814
+27991454	121	125	IMRT	T061	C1512814
+27991454	139	146	imaging	T060	C0011923
+27991454	147	151	data	T078	C1511726
+27991454	178	186	accurate	T080	C0443131
+27991454	187	204	patient alignment	UnknownType	C0548501
+27991454	221	241	anatomical landmarks	T029	C0504075
+27991454	272	290	anatomical changes	T169	C0392747
+27991454	322	338	patient position	T033	C0449850
+27991454	363	367	dose	T081	C0178602
+27991454	376	393	patient alignment	UnknownType	C0548501
+27991454	446	453	imaging	T060	C0011923
+27991454	454	458	data	T078	C1511726
+27991454	474	478	dose	T081	C0178602
+27991454	479	490	calculation	T052	C1441506
+27991454	501	508	finding	T033	C0243095
+27991454	538	545	optimal	T080	C2698651
+27991454	546	550	dose	T081	C0178602
+27991454	551	563	distribution	T169	C1704711
+27991454	620	624	dose	T081	C0178602
+27991454	633	650	patient alignment	UnknownType	C0548501
+27991454	704	712	clinical	T080	C0205210
+27991454	713	723	objectives	T170	C0018017
+27991454	754	769	multi-objective	T080	C1571702
+27991454	800	804	dose	T081	C0178602
+27991454	805	818	distributions	T169	C1704711
+27991454	842	856	patient shifts	T058	C0086388
+27991454	861	865	dose	T081	C0178602
+27991454	866	879	interpolation	T062	C3494285
+27991454	903	934	Pareto-efficient patient shifts	T058	C0086388
+27991454	981	992	interactive	T169	C1704675
+27991454	1040	1044	dose	T081	C0178602
+27991454	1066	1070	Dose	T081	C0178602
+27991454	1071	1084	interpolation	T062	C3494285
+27991454	1085	1093	accuracy	T080	C0443131
+27991454	1128	1143	multi-objective	T080	C1571702
+27991454	1144	1167	dose-guided positioning	T058	C1561964
+27991454	1191	1204	head and neck	T191	C0278996
+27991454	1206	1209	H&N	T191	C0278996
+27991454	1221	1236	prostate cancer	T191	C0600139
+27991454	1237	1245	patients	T101	C0030705
+27991454	1247	1270	Dose-guided positioning	T058	C1561964
+27991454	1274	1282	compared	T052	C1707455
+27991454	1336	1338	CT	T060	C0040405
+27991454	1371	1378	imaging	T060	C0011923
+27991454	1379	1383	data	T078	C1511726
+27991454	1385	1389	Dose	T081	C0178602
+27991454	1390	1403	interpolation	T062	C3494285
+27991454	1404	1412	accuracy	T080	C0443131
+27991454	1417	1421	high	T080	C0205250
+27991454	1451	1455	dose	T081	C0178602
+27991454	1510	1513	H&N	T191	C0278996
+27991454	1528	1542	prostate cases	T191	C0600139
+27991454	1563	1573	comparison	T052	C1707455
+27991454	1583	1587	dose	T081	C0178602
+27991454	1588	1600	calculations	T052	C1441506
+27991454	1610	1618	patients	T101	C0030705
+27991454	1620	1643	dose-guided positioning	T058	C1561964
+27991454	1684	1688	dose	T081	C0178602
+27991454	1689	1701	distribution	T169	C1704711
+27991454	1702	1710	compared	T052	C1707455
+27991454	1714	1742	bony anatomy based alignment	T081	C1706765
+27991454	1752	1755	H&N	T191	C0278996
+27991454	1768	1772	dose	T081	C0178602
+27991454	1787	1801	parotid glands	T023	C0030580
+27991454	1864	1878	bony alignment	T081	C1706765
+27991454	1884	1906	clinical target volume	T081	C0454198
+27991454	1908	1911	CTV	T081	C0454198
+27991454	1946	1954	compared	T052	C1707455
+27991454	1974	1982	prostate	T191	C0600139
+27991454	1983	1991	patients	T101	C0030705
+27991454	1993	1996	CTV	T081	C0454198
+27991454	2034	2042	compared	T052	C1707455
+27991454	2118	2126	compared	T052	C1707455
+27991454	2182	2185	H&N	T191	C0278996
+27991454	2201	2215	prostate cases	T191	C0600139
+27991454	2232	2255	dose-guided positioning	T058	C1561964

@@ -1,0 +1,56 @@
+16575011|t|Tumor thymidylate synthase 1494del6 genotype as a prognostic factor in colorectal cancer patients receiving fluorouracil-based adjuvant treatment.
+16575011|a|PURPOSE: The purpose of this study was to analyze the value of germline and tumor thymidylate synthase (TS) genotyping as a prognostic marker in a series of colorectal cancer patients receiving adjuvant fluorouracil (FU) -based treatment. PATIENTS AND METHODS: One hundred twenty-nine colorectal cancer patients homogeneously treated with FU plus levamisole or leucovorin in the adjuvant setting were included. TS enhancer region, 3R G > C single nucleotide polymorphism (SNP), and TS 1494del6 polymorphisms were assessed in both fresh-frozen normal mucosa and tumor. Mutational analyses of TS and allelic imbalances were studied in all primary tumors and in 18 additional metachronic metastases. TS protein immunostaining was assessed in an expanded series of 214 tumors. Multivariate Cox models were adjusted for stage, differentiation, and location. RESULTS: Tumor genotyping (frequency of allelic loss, 26%) showed that the 3R/3R genotype was associated with a better outcome (hazard ratio [HR] = 0.38; 95% CI, 0.16 to 0.93; P = .020 for the recessive model). 3R G > C SNP genotyping did not add prognostic information. Tumor TS 1494del6 allele (frequency of allelic loss, 36%) was protective (for each allele with the deletion, based on an additive model, HR = 0.42; 95% CI, 0.22 to 0.82; P = .0034). Both polymorphisms were in strong linkage disequilibrium (D' = 0.71, P < .001), and the 3R/-6 base pair (bp) haplotype showed a significant overall survival benefit compared with the most prevalent haplotype 2R/+6bp (HR = 0.42; 95% CI, 0.20 to 0.85; P = .017). No TS point mutation was detected in primary tumors or metastases. TS protein immunostaining was not associated with survival or any of the genotypes analyzed. CONCLUSION: Tumor TS 1494del6 genotype may be a prognostic factor in FU-based adjuvant treatment of colorectal cancer patients.
+16575011	0	5	Tumor	DiseaseOrPhenotypicFeature	D009369
+16575011	6	26	thymidylate synthase	GeneOrGeneProduct	7298
+16575011	27	35	1494del6	SequenceVariant	c|DEL|1494|6
+16575011	71	88	colorectal cancer	DiseaseOrPhenotypicFeature	D015179
+16575011	89	97	patients	OrganismTaxon	9606
+16575011	108	120	fluorouracil	ChemicalEntity	D005472
+16575011	223	228	tumor	DiseaseOrPhenotypicFeature	D009369
+16575011	229	249	thymidylate synthase	GeneOrGeneProduct	7298
+16575011	251	253	TS	GeneOrGeneProduct	7298
+16575011	304	321	colorectal cancer	DiseaseOrPhenotypicFeature	D015179
+16575011	322	330	patients	OrganismTaxon	9606
+16575011	350	362	fluorouracil	ChemicalEntity	D005472
+16575011	364	366	FU	ChemicalEntity	D005472
+16575011	386	394	PATIENTS	OrganismTaxon	9606
+16575011	432	449	colorectal cancer	DiseaseOrPhenotypicFeature	D015179
+16575011	450	458	patients	OrganismTaxon	9606
+16575011	486	488	FU	ChemicalEntity	D005472
+16575011	494	504	levamisole	ChemicalEntity	D007978
+16575011	508	518	leucovorin	ChemicalEntity	D002955
+16575011	558	560	TS	GeneOrGeneProduct	7298
+16575011	581	586	G > C	SequenceVariant	c|SUB|G||C
+16575011	629	631	TS	GeneOrGeneProduct	7298
+16575011	632	640	1494del6	SequenceVariant	c|DEL|1494|6
+16575011	708	713	tumor	DiseaseOrPhenotypicFeature	D009369
+16575011	738	740	TS	GeneOrGeneProduct	7298
+16575011	792	798	tumors	DiseaseOrPhenotypicFeature	D009369
+16575011	832	842	metastases	DiseaseOrPhenotypicFeature	D009362
+16575011	844	846	TS	GeneOrGeneProduct	7298
+16575011	912	918	tumors	DiseaseOrPhenotypicFeature	D009369
+16575011	1009	1014	Tumor	DiseaseOrPhenotypicFeature	D009369
+16575011	1214	1219	G > C	SequenceVariant	c|SUB|G||C
+16575011	1271	1276	Tumor	DiseaseOrPhenotypicFeature	D009369
+16575011	1277	1279	TS	GeneOrGeneProduct	7298
+16575011	1280	1288	1494del6	SequenceVariant	c|DEL|1494|6
+16575011	1717	1719	TS	GeneOrGeneProduct	7298
+16575011	1759	1765	tumors	DiseaseOrPhenotypicFeature	D009369
+16575011	1769	1779	metastases	DiseaseOrPhenotypicFeature	D009362
+16575011	1781	1783	TS	GeneOrGeneProduct	7298
+16575011	1886	1891	Tumor	DiseaseOrPhenotypicFeature	D009369
+16575011	1892	1894	TS	GeneOrGeneProduct	7298
+16575011	1895	1903	1494del6	SequenceVariant	c|DEL|1494|6
+16575011	1943	1945	FU	ChemicalEntity	D005472
+16575011	1974	1991	colorectal cancer	DiseaseOrPhenotypicFeature	D015179
+16575011	1992	2000	patients	OrganismTaxon	9606
+16575011	Association	c|DEL|1494|6	D009369	Novel
+16575011	Association	c|DEL|1494|6	D015179	Novel
+16575011	Association	7298	D009362	No
+16575011	Association	7298	D009369	No
+16575011	Association	7298	D015179	No
+16575011	Cotreatment	D005472	D002955	No
+16575011	Cotreatment	D005472	D007978	No
+16575011	Negative_Correlation	D015179	D005472	No
+16575011	Negative_Correlation	D015179	D002955	No
+16575011	Negative_Correlation	D015179	D007978	No

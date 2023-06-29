@@ -1,0 +1,110 @@
+27705854|t|Accurate Lungs Segmentation on CT Chest Images by Adaptive Appearance-Guided Shape Modeling
+27705854|a|To accurately segment pathological and healthy lungs for reliable computer-aided disease diagnostics, a stack of chest CT scans is modeled as a sample of a spatially inhomogeneous joint 3D Markov-Gibbs random field (MGRF) of voxel-wise lung and chest CT image signals (intensities). The proposed learnable MGRF integrates two visual appearance sub-models with an adaptive lung shape submodel. The first-order appearance submodel accounts for both the original CT image and its Gaussian scale space (GSS) filtered version to specify local and global signal properties, respectively. Each empirical marginal probability distribution of signals is closely approximated with a linear combination of discrete Gaussians (LCDG), containing two positive dominant and multiple sign-alternate subordinate DGs. The approximation is separated into two LCDGs to describe individually the lungs and their background, i.e., all other chest tissues. The second-order appearance submodel quantifies conditional pairwise intensity dependencies in the nearest voxel 26-neighborhood in both the original and GSS-filtered images. The shape submodel is built for a set of training data and is adapted during segmentation using both the lung and chest appearances. The accuracy of the proposed segmentation framework is quantitatively assessed using two public databases (ISBI VESSEL12 challenge and MICCAI LOLA11 challenge) and our own database with, respectively, 20, 55, and 30 CT images of various lung pathologies acquired with different scanners and protocols. Quantitative assessment of our framework in terms of Dice similarity coefficients, 95-percentile bidirectional Hausdorff distances, and percentage volume differences confirms the high accuracy of our model on both our database (98.4±1.0%, 2.2±1.0 mm, 0.42±0.10%) and the VESSEL12 database (99.0±0.5%, 2.1±1.6 mm, 0.39±0.20%), respectively. Similarly, the accuracy of our approach is further verified via a blind evaluation by the organizers of the LOLA11 competition, where an average overlap of 98.0% with the expert's segmentation is yielded on all 55 subjects with our framework being ranked first among all the state-of-the-art techniques compared.
+27705854	0	8	Accurate	T080	C0443131
+27705854	9	14	Lungs	T023	C0024109
+27705854	15	27	Segmentation	T058	C0700381
+27705854	31	33	CT	T060	C0040405
+27705854	34	39	Chest	T029	C0817096
+27705854	40	46	Images	T170	C1704254
+27705854	50	91	Adaptive Appearance-Guided Shape Modeling	T062	C0870071
+27705854	95	105	accurately	T080	C0443131
+27705854	106	113	segment	T058	C0700381
+27705854	114	126	pathological	T169	C1521733
+27705854	131	138	healthy	T080	C3898900
+27705854	139	144	lungs	T023	C0024109
+27705854	149	157	reliable	T080	C0205423
+27705854	158	192	computer-aided disease diagnostics	T060	C0011905
+27705854	196	201	stack	T082	C3272897
+27705854	205	210	chest	T029	C0817096
+27705854	211	213	CT	T060	C0040405
+27705854	214	219	scans	T060	C0441633
+27705854	223	230	modeled	T062	C0870071
+27705854	248	271	spatially inhomogeneous	T082	C1254362
+27705854	272	306	joint 3D Markov-Gibbs random field	T080	C0205556
+27705854	308	312	MGRF	T080	C0205556
+27705854	317	327	voxel-wise	T077	C2700259
+27705854	328	332	lung	T023	C0024109
+27705854	337	342	chest	T029	C0817096
+27705854	343	345	CT	T060	C0040405
+27705854	346	351	image	T170	C1704254
+27705854	352	359	signals	T067	C1710082
+27705854	361	372	intensities	T081	C0871362
+27705854	379	387	proposed	T080	C1553874
+27705854	398	402	MGRF	T080	C0205556
+27705854	403	413	integrates	T066	C1705422
+27705854	418	424	visual	T169	C0234621
+27705854	425	435	appearance	T080	C0700364
+27705854	436	446	sub-models	T075	C0026336
+27705854	464	468	lung	T023	C0024109
+27705854	475	483	submodel	T075	C0026336
+27705854	501	511	appearance	T080	C0700364
+27705854	512	520	submodel	T075	C0026336
+27705854	543	551	original	T078	C0205313
+27705854	552	554	CT	T060	C0040405
+27705854	555	560	image	T170	C1704254
+27705854	569	612	Gaussian scale space (GSS) filtered version	T080	C0205556
+27705854	641	647	signal	T067	C1710082
+27705854	679	688	empirical	T080	C1880496
+27705854	689	697	marginal	T080	C1947914
+27705854	698	722	probability distribution	T081	C3826440
+27705854	726	733	signals	T067	C1710082
+27705854	765	805	linear combination of discrete Gaussians	T080	C0205556
+27705854	807	811	LCDG	T080	C0205556
+27705854	829	890	positive dominant and multiple sign-alternate subordinate DGs	T080	C0205556
+27705854	932	937	LCDGs	T080	C0205556
+27705854	967	972	lungs	T023	C0024109
+27705854	1011	1016	chest	T029	C0817096
+27705854	1017	1024	tissues	T024	C0040300
+27705854	1043	1053	appearance	T080	C0700364
+27705854	1054	1062	submodel	T075	C0026336
+27705854	1063	1073	quantifies	T081	C1709793
+27705854	1074	1085	conditional	T080	C1701901
+27705854	1086	1094	pairwise	T081	C0392762
+27705854	1095	1104	intensity	T081	C0871362
+27705854	1105	1117	dependencies	T170	C3669743
+27705854	1167	1175	original	T078	C0205313
+27705854	1180	1192	GSS-filtered	T080	C0205556
+27705854	1193	1199	images	T170	C1704254
+27705854	1211	1219	submodel	T075	C0026336
+27705854	1242	1255	training data	T078	C1511726
+27705854	1278	1290	segmentation	T058	C0700381
+27705854	1306	1310	lung	T023	C0024109
+27705854	1315	1320	chest	T029	C0817096
+27705854	1321	1332	appearances	T080	C0700364
+27705854	1338	1346	accuracy	T080	C0443131
+27705854	1354	1362	proposed	T080	C1553874
+27705854	1363	1375	segmentation	T058	C0700381
+27705854	1389	1403	quantitatively	T081	C0392762
+27705854	1404	1412	assessed	T052	C1516048
+27705854	1430	1439	databases	T170	C0242356
+27705854	1441	1464	ISBI VESSEL12 challenge	T170	C0242356
+27705854	1469	1492	MICCAI LOLA11 challenge	T170	C0242356
+27705854	1506	1514	database	T170	C0242356
+27705854	1550	1552	CT	T060	C0040405
+27705854	1553	1559	images	T170	C1704254
+27705854	1571	1575	lung	T023	C0024109
+27705854	1576	1587	pathologies	T169	C0205469
+27705854	1612	1620	scanners	T074	C0183115
+27705854	1625	1634	protocols	T061	C0040808
+27705854	1636	1648	Quantitative	T081	C0392762
+27705854	1649	1659	assessment	T052	C1516048
+27705854	1689	1717	Dice similarity coefficients	T081	C0392762
+27705854	1719	1766	95-percentile bidirectional Hausdorff distances	T081	C0392762
+27705854	1772	1801	percentage volume differences	T081	C0392762
+27705854	1820	1828	accuracy	T080	C0443131
+27705854	1836	1841	model	T075	C0026336
+27705854	1854	1862	database	T170	C0242356
+27705854	1907	1924	VESSEL12 database	T170	C0242356
+27705854	1991	1999	accuracy	T080	C0443131
+27705854	1991	1999	accuracy	T080	C0443131
+27705854	2007	2015	approach	T078	C3266812
+27705854	2027	2035	verified	T169	C1711411
+27705854	2042	2047	blind	T170	C1561605
+27705854	2048	2058	evaluation	T170	C0015196
+27705854	2084	2090	LOLA11	T170	C0242356
+27705854	2091	2102	competition	T052	C3687609
+27705854	2113	2120	average	T081	C1510992
+27705854	2156	2168	segmentation	T058	C0700381
+27705854	2251	2267	state-of-the-art	T080	C0205314
+27705854	2268	2278	techniques	T169	C0449851
+27705854	2279	2287	compared	T052	C1707455

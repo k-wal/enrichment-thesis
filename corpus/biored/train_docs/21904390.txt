@@ -1,0 +1,50 @@
+21904390|t|Two novel mutations of the PAX6 gene causing different phenotype in a cohort of Chinese patients.
+21904390|a|PURPOSE: Aniridia (AN) is a rare congenital panocular disorder caused by the mutations of the paired box homeotic gene 6(PAX6) gene. The PAX6 gene is also involved in other anterior segment malformations including Peters anomaly. We studied the PAX6 gene mutations in a cohort of affected individuals with different clinical phenotype including AN, coloboma of iris and choroid, or anterior segment malformations. PATIENTS AND METHODS: Six unrelated families and 10 sporadic patients were examined clinically. After informed consent was obtained, genomic DNA was extracted from the venous blood of all participants. Mutation screening of all exons of the PAX6 gene was performed by direct sequencing of PCR-amplified DNA fragments. Multiplex ligation-dependent probe amplification (MLPA) was performed to detect large deletions. RESULTS: By clinical examination, the patients and the pedigrees were divided into the following three groups: AN, coloboma of iris and choroids, and the anterior segment malformations including peters anomaly. Sequencing of the PAX6 gene, three intragenic mutations including a novel heterozygous splicing-site mutations c.357-3C>G (p.Ser119fsX) were identified in the patients of the AN group. A novel missense mutation c.643T>C (p.S216P) was detected in the anterior segment malformation group. The mutation p.S216P located in the homeodomain region of the PAX6 caused the phenotype of Peters anomaly in family A6 with different expressing. Through MLPA analysis, a large deletion including the whole PAX6 gene and DKFZ p686k1684 gene was detected in one sporadic patient from the AN group. Neither intragenic mutation nor large deletion was identified in the group with coloboma of iris and choroid. CONCLUSION: Our findings further confirmed that different kind of mutations might cause different ocular phenotype, and clearly clinical phenotype classification might increase the mutation detection rate of the PAX6 gene.
+21904390	27	31	PAX6	GeneOrGeneProduct	5080
+21904390	88	96	patients	OrganismTaxon	9606
+21904390	107	115	Aniridia	DiseaseOrPhenotypicFeature	D015783
+21904390	117	119	AN	DiseaseOrPhenotypicFeature	D015783
+21904390	131	160	congenital panocular disorder	DiseaseOrPhenotypicFeature	D000013
+21904390	192	218	paired box homeotic gene 6	GeneOrGeneProduct	5080
+21904390	219	223	PAX6	GeneOrGeneProduct	5080
+21904390	235	239	PAX6	GeneOrGeneProduct	5080
+21904390	271	301	anterior segment malformations	DiseaseOrPhenotypicFeature	C537775
+21904390	312	326	Peters anomaly	DiseaseOrPhenotypicFeature	C537884
+21904390	343	347	PAX6	GeneOrGeneProduct	5080
+21904390	443	445	AN	DiseaseOrPhenotypicFeature	D015783
+21904390	447	475	coloboma of iris and choroid	DiseaseOrPhenotypicFeature	D003103
+21904390	480	510	anterior segment malformations	DiseaseOrPhenotypicFeature	C537775
+21904390	512	520	PATIENTS	OrganismTaxon	9606
+21904390	573	581	patients	OrganismTaxon	9606
+21904390	753	757	PAX6	GeneOrGeneProduct	5080
+21904390	965	973	patients	OrganismTaxon	9606
+21904390	1038	1040	AN	DiseaseOrPhenotypicFeature	D015783
+21904390	1042	1071	coloboma of iris and choroids	DiseaseOrPhenotypicFeature	D003103
+21904390	1081	1111	anterior segment malformations	DiseaseOrPhenotypicFeature	C537775
+21904390	1122	1136	peters anomaly	DiseaseOrPhenotypicFeature	C537884
+21904390	1156	1160	PAX6	GeneOrGeneProduct	5080
+21904390	1249	1259	c.357-3C>G	SequenceVariant	c|SUB|C|357-3|G
+21904390	1261	1272	p.Ser119fsX	SequenceVariant	p|FS|S|119||
+21904390	1297	1305	patients	OrganismTaxon	9606
+21904390	1313	1315	AN	DiseaseOrPhenotypicFeature	D015783
+21904390	1349	1357	c.643T>C	SequenceVariant	c|SUB|T|643|C
+21904390	1359	1366	p.S216P	SequenceVariant	p|SUB|S|216|P
+21904390	1388	1417	anterior segment malformation	DiseaseOrPhenotypicFeature	C537775
+21904390	1438	1445	p.S216P	SequenceVariant	p|SUB|S|216|P
+21904390	1487	1491	PAX6	GeneOrGeneProduct	5080
+21904390	1516	1530	Peters anomaly	DiseaseOrPhenotypicFeature	C537884
+21904390	1631	1635	PAX6	GeneOrGeneProduct	5080
+21904390	1645	1659	DKFZ p686k1684	GeneOrGeneProduct	-
+21904390	1694	1701	patient	OrganismTaxon	9606
+21904390	1711	1713	AN	DiseaseOrPhenotypicFeature	D015783
+21904390	1801	1829	coloboma of iris and choroid	DiseaseOrPhenotypicFeature	D003103
+21904390	2043	2047	PAX6	GeneOrGeneProduct	5080
+21904390	Positive_Correlation	c|SUB|T|643|C	C537884	Novel
+21904390	Positive_Correlation	c|SUB|T|643|C	C537775	Novel
+21904390	Positive_Correlation	p|SUB|S|216|P	C537884	Novel
+21904390	Positive_Correlation	p|SUB|S|216|P	C537775	Novel
+21904390	Positive_Correlation	c|SUB|C|357-3|G	D015783	Novel
+21904390	Positive_Correlation	p|FS|S|119||	D015783	Novel
+21904390	Association	5080	C537884	Novel
+21904390	Association	5080	C537775	Novel
+21904390	Association	D015783	5080	Novel

@@ -1,0 +1,27 @@
+20973483|t|In vivo characterization of a dual adenosine A2A/A1 receptor antagonist in animal models of Parkinson's disease.
+20973483|a|The in vivo characterization of a dual adenosine A(2A)/A(1) receptor antagonist in several animal models of Parkinson's disease is described. Discovery and scale-up syntheses of compound 1 are described in detail, highlighting optimization steps that increased the overall yield of 1 from 10.0% to 30.5%. Compound 1 is a potent A(2A)/A(1) receptor antagonist in vitro (A(2A) K(i) = 4.1 nM; A(1) K(i) = 17.0 nM) that has excellent activity, after oral administration, across a number of animal models of Parkinson's disease including mouse and rat models of haloperidol-induced catalepsy, mouse model of reserpine-induced akinesia, rat 6-hydroxydopamine (6-OHDA) lesion model of drug-induced rotation, and MPTP-treated non-human primate model.
+20973483	35	71	adenosine A2A/A1 receptor antagonist	ChemicalEntity	D058915
+20973483	92	111	Parkinson's disease	DiseaseOrPhenotypicFeature	D010300
+20973483	152	192	adenosine A(2A)/A(1) receptor antagonist	ChemicalEntity	D058915
+20973483	221	240	Parkinson's disease	DiseaseOrPhenotypicFeature	D010300
+20973483	441	471	A(2A)/A(1) receptor antagonist	ChemicalEntity	D058915
+20973483	616	635	Parkinson's disease	DiseaseOrPhenotypicFeature	D010300
+20973483	646	651	mouse	OrganismTaxon	10090
+20973483	656	659	rat	OrganismTaxon	10116
+20973483	670	681	haloperidol	ChemicalEntity	D006220
+20973483	690	699	catalepsy	DiseaseOrPhenotypicFeature	D002375
+20973483	701	706	mouse	OrganismTaxon	10090
+20973483	716	725	reserpine	ChemicalEntity	D012110
+20973483	734	742	akinesia	DiseaseOrPhenotypicFeature	D004409
+20973483	744	747	rat	OrganismTaxon	10116
+20973483	748	765	6-hydroxydopamine	ChemicalEntity	D016627
+20973483	767	773	6-OHDA	ChemicalEntity	D016627
+20973483	818	822	MPTP	ChemicalEntity	D015632
+20973483	835	840	human	OrganismTaxon	9606
+20973483	Positive_Correlation	D006220	D002375	No
+20973483	Association	D058915	D010300	No
+20973483	Association	D010300	D006220	No
+20973483	Association	D010300	D015632	No
+20973483	Association	D010300	D016627	No
+20973483	Association	D010300	D012110	No
+20973483	Positive_Correlation	D012110	D004409	No

@@ -1,0 +1,53 @@
+27570685|t|Comparative Evaluation for Brain Structural Connectivity Approaches: Towards Integrative Neuroinformatics Tool for Epilepsy Clinical Research
+27570685|a|Recent advances in brain fiber tractography algorithms and diffusion Magnetic Resonance Imaging (MRI) data collection techniques are providing new approaches to study brain white matter connectivity, which play an important role in complex neurological disorders such as epilepsy. Epilepsy affects approximately 50 million persons worldwide and it is often described as a disorder of the cortical network organization. There is growing recognition of the need to better understand the role of brain structural networks in the onset and propagation of seizures in epilepsy using high resolution non-invasive imaging technologies. In this paper, we perform a comparative evaluation of two techniques to compute structural connectivity, namely probabilistic fiber tractography and statistics derived from fractional anisotropy (FA), using diffusion MRI data from a patient with rare case of medically intractable insular epilepsy. The results of our evaluation demonstrate that probabilistic fiber tractography provides a more accurate map of structural connectivity and may help address inherent complexities of neural fiber layout in the brain, such as fiber crossings. This work provides an initial result towards building an integrative informatics tool for neuroscience that can be used to accurately characterize the role of fiber tract connectivity in neurological disorders such as epilepsy.
+27570685	12	22	Evaluation	T058	C0220825
+27570685	27	32	Brain	T023	C0006104
+27570685	33	56	Structural Connectivity	T170	C0925206
+27570685	57	67	Approaches	T082	C0449445
+27570685	77	110	Integrative Neuroinformatics Tool	T170	C0037589
+27570685	115	123	Epilepsy	T047	C0014544
+27570685	124	141	Clinical Research	T062	C0008972
+27570685	161	166	brain	T023	C0006104
+27570685	167	172	fiber	T024	C1304649
+27570685	173	185	tractography	T060,T062	C2717808
+27570685	186	196	algorithms	T170	C0002045
+27570685	201	237	diffusion Magnetic Resonance Imaging	T060	C1136216
+27570685	239	242	MRI	T060	C1136216
+27570685	244	270	data collection techniques	T081	C3887707
+27570685	289	299	approaches	T082	C0449445
+27570685	309	327	brain white matter	T024	C1706995
+27570685	328	340	connectivity	T170	C0925206
+27570685	382	404	neurological disorders	T047	C0027765
+27570685	413	421	epilepsy	T047	C0014544
+27570685	423	431	Epilepsy	T047	C0014544
+27570685	465	472	persons	T098	C0027361
+27570685	514	522	disorder	T047	C0012634
+27570685	530	559	cortical network organization	T043	C0007613
+27570685	635	660	brain structural networks	T023	C0006104
+27570685	693	701	seizures	T184	C0036572
+27570685	705	713	epilepsy	T047	C0014544
+27570685	720	769	high resolution non-invasive imaging technologies	T060	C0079595
+27570685	811	821	evaluation	T058	C0220825
+27570685	829	839	techniques	T060	C0079595
+27570685	851	874	structural connectivity	T170	C0925206
+27570685	897	902	fiber	T024	C1304649
+27570685	903	915	tractography	T060,T062	C2717808
+27570685	944	965	fractional anisotropy	T060	C2348041
+27570685	967	969	FA	T060	C2348041
+27570685	978	991	diffusion MRI	T060	C1136216
+27570685	992	996	data	T078	C1511726
+27570685	1004	1011	patient	T101	C0030705
+27570685	1052	1059	insular	T029	C3496404
+27570685	1060	1068	epilepsy	T047	C0014544
+27570685	1089	1099	evaluation	T058	C0220825
+27570685	1131	1136	fiber	T024	C1304649
+27570685	1137	1149	tractography	T060,T062	C2717808
+27570685	1182	1205	structural connectivity	T170	C0925206
+27570685	1252	1264	neural fiber	T024	C1304649
+27570685	1279	1284	brain	T023	C0006104
+27570685	1368	1396	integrative informatics tool	T170	C0037589
+27570685	1401	1413	neuroscience	T078	C2986902
+27570685	1470	1481	fiber tract	T024	C1304649
+27570685	1482	1494	connectivity	T170	C0925206
+27570685	1498	1520	neurological disorders	T047	C0027765
+27570685	1529	1537	epilepsy	T047	C0014544

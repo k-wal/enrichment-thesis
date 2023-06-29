@@ -1,0 +1,52 @@
+24014394|t|A homozygous mutation in LYRM7/MZM1L associated with early onset encephalopathy, lactic acidosis, and severe reduction of mitochondrial complex III activity.
+24014394|a|Mutations in nuclear genes associated with defective complex III (cIII) of the mitochondrial respiratory chain are rare, having been found in only two cIII assembly factors and, as private changes in single families, three cIII structural subunits. Recently, human LYRM7/MZM1L, the ortholog of yeast MZM1, has been identified as a new assembly factor for cIII. In a baby patient with early onset, severe encephalopathy, lactic acidosis and profound, isolated cIII deficiency in skeletal muscle, we identified a disease-segregating homozygous mutation (c.73G>A) in LYRM7/MZM1L, predicting a drastic change in a highly conserved amino-acid residue (p.Asp25Asn). In a mzm1D yeast strain, the expression of a mzm1(D25N) mutant allele caused temperature-sensitive respiratory growth defect, decreased oxygen consumption, impaired maturation/stabilization of the Rieske Fe-S protein, and reduced complex III activity and amount. LYRM7/MZM1L is a novel disease gene, causing cIII-defective, early onset, severe mitochondrial encephalopathy.
+24014394	25	30	LYRM7	GeneOrGeneProduct	90624
+24014394	31	36	MZM1L	GeneOrGeneProduct	90624
+24014394	65	79	encephalopathy	DiseaseOrPhenotypicFeature	D001927
+24014394	81	96	lactic acidosis	DiseaseOrPhenotypicFeature	D000140
+24014394	109	147	reduction of mitochondrial complex III	DiseaseOrPhenotypicFeature	C565128
+24014394	201	250	defective complex III (cIII) of the mitochondrial	DiseaseOrPhenotypicFeature	C565128
+24014394	309	313	cIII	GeneOrGeneProduct	617
+24014394	381	385	cIII	GeneOrGeneProduct	617
+24014394	417	422	human	OrganismTaxon	9606
+24014394	423	428	LYRM7	GeneOrGeneProduct	90624
+24014394	429	434	MZM1L	GeneOrGeneProduct	90624
+24014394	452	457	yeast	OrganismTaxon	4932
+24014394	458	462	MZM1	GeneOrGeneProduct	852104
+24014394	513	517	cIII	GeneOrGeneProduct	617
+24014394	529	536	patient	OrganismTaxon	9606
+24014394	562	576	encephalopathy	DiseaseOrPhenotypicFeature	D001927
+24014394	578	593	lactic acidosis	DiseaseOrPhenotypicFeature	D000140
+24014394	617	632	cIII deficiency	DiseaseOrPhenotypicFeature	C565128
+24014394	710	717	c.73G>A	SequenceVariant	rs587777433
+24014394	722	727	LYRM7	GeneOrGeneProduct	90624
+24014394	728	733	MZM1L	GeneOrGeneProduct	90624
+24014394	805	815	p.Asp25Asn	SequenceVariant	rs587777433
+24014394	823	828	mzm1D	GeneOrGeneProduct	852104
+24014394	829	834	yeast	OrganismTaxon	4932
+24014394	863	867	mzm1	GeneOrGeneProduct	852104
+24014394	868	872	D25N	SequenceVariant	rs587777433
+24014394	917	942	respiratory growth defect	DiseaseOrPhenotypicFeature	D012131
+24014394	954	960	oxygen	ChemicalEntity	D010100
+24014394	1015	1034	Rieske Fe-S protein	GeneOrGeneProduct	856689
+24014394	1048	1059	complex III	GeneOrGeneProduct	617
+24014394	1081	1086	LYRM7	GeneOrGeneProduct	90624
+24014394	1087	1092	MZM1L	GeneOrGeneProduct	90624
+24014394	1126	1140	cIII-defective	DiseaseOrPhenotypicFeature	C565128
+24014394	1162	1190	mitochondrial encephalopathy	DiseaseOrPhenotypicFeature	C538525
+24014394	Association	rs587777433	D010100	Novel
+24014394	Positive_Correlation	rs587777433	D012131	Novel
+24014394	Positive_Correlation	rs587777433	D001927	Novel
+24014394	Association	D012131	90624	Novel
+24014394	Negative_Correlation	852104	617	Novel
+24014394	Association	852104	D010100	Novel
+24014394	Association	852104	856689	Novel
+24014394	Association	852104	D012131	Novel
+24014394	Positive_Correlation	D000140	rs587777433	Novel
+24014394	Positive_Correlation	C565128	rs587777433	Novel
+24014394	Negative_Correlation	C565128	617	No
+24014394	Association	90624	C538525	Novel
+24014394	Association	90624	617	No
+24014394	Association	90624	D000140	Novel
+24014394	Association	90624	C565128	Novel
+24014394	Association	90624	D001927	Novel

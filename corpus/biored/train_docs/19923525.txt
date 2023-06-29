@@ -1,0 +1,50 @@
+19923525|t|Nimodipine prevents memory impairment caused by nitroglycerin-induced hypotension in adult mice.
+19923525|a|BACKGROUND: Hypotension and a resultant decrease in cerebral blood flow have been implicated in the development of cognitive dysfunction. We tested the hypothesis that nimodipine (NIMO) administered at the onset of nitroglycerin (NTG)-induced hypotension would preserve long-term associative memory. METHODS: The passive avoidance (PA) paradigm was used to assess memory retention. For PA training, latencies (seconds) were recorded for entry from a suspended platform into a Plexiglas tube where a shock was automatically delivered. Latencies were recorded 48 h later for a testing trial. Ninety-six Swiss-Webster mice (30-35 g, 6-8 wk), were randomized into 6 groups 1) saline (control), 2) NTG immediately after learning, 3) NTG 3 h after learning, 4) NTG and NIMO, 5) vehicle, and 6) NIMO alone. The extent of hypotension and changes in brain tissue oxygenation (PbtO(2)) and in cerebral blood flow were studied in a separate group of animals. RESULTS: All groups exhibited similar training latencies (17.0 +/- 4.6 s). Mice subjected to hypotensive episodes showed a significant decrease in latency time (178 +/- 156 s) compared with those injected with saline, NTG + NIMO, or delayed NTG (580 +/- 81 s, 557 +/- 67 s, and 493 +/- 146 s, respectively). A Kruskal-Wallis 1-way analysis of variance indicated a significant difference among the 4 treatment groups (H = 15.34; P < 0.001). In a separate group of mice not subjected to behavioral studies, the same dose of NTG (n = 3) and NTG + NIMO (n = 3) caused mean arterial blood pressure to decrease from 85.9 +/- 3.8 mm Hg sem to 31.6 +/- 0.8 mm Hg sem and from 86.2 +/- 3.7 mm Hg sem to 32.6 +/- 0.2 mm Hg sem, respectively. Mean arterial blood pressure in mice treated with NIMO alone decreased from 88.1 +/- 3.8 mm Hg to 80.0 +/- 2.9 mm Hg. The intergroup difference was statistically significant (P < 0.05). PbtO(2) decreased from 51.7 +/- 4.5 mm Hg sem to 33.8 +/- 5.2 mm Hg sem in the NTG group and from 38.6 +/- 6.1 mm Hg sem to 25.4 +/- 2.0 mm Hg sem in the NTG + NIMO groups, respectively. There were no significant differences among groups. CONCLUSION: In a PA retention paradigm, the injection of NTG immediately after learning produced a significant impairment of long-term associative memory in mice, whereas delayed induced hypotension had no effect. NIMO attenuated the disruption in consolidation of long-term memory caused by NTG but did not improve latency in the absence of hypotension. The observed effect of NIMO may have been attributable to the preservation of calcium homeostasis during hypotension, because there were no differences in the PbtO(2) indices among groups.
+19923525	0	10	Nimodipine	ChemicalEntity	D009553
+19923525	20	37	memory impairment	DiseaseOrPhenotypicFeature	D008569
+19923525	48	61	nitroglycerin	ChemicalEntity	D005996
+19923525	70	81	hypotension	DiseaseOrPhenotypicFeature	D007022
+19923525	91	95	mice	OrganismTaxon	10090
+19923525	109	120	Hypotension	DiseaseOrPhenotypicFeature	D007022
+19923525	212	233	cognitive dysfunction	DiseaseOrPhenotypicFeature	D003072
+19923525	265	275	nimodipine	ChemicalEntity	D009553
+19923525	277	281	NIMO	ChemicalEntity	D009553
+19923525	312	325	nitroglycerin	ChemicalEntity	D005996
+19923525	327	330	NTG	ChemicalEntity	D005996
+19923525	340	351	hypotension	DiseaseOrPhenotypicFeature	D007022
+19923525	712	716	mice	OrganismTaxon	10090
+19923525	790	793	NTG	ChemicalEntity	D005996
+19923525	825	828	NTG	ChemicalEntity	D005996
+19923525	852	855	NTG	ChemicalEntity	D005996
+19923525	860	864	NIMO	ChemicalEntity	D009553
+19923525	885	889	NIMO	ChemicalEntity	D009553
+19923525	911	922	hypotension	DiseaseOrPhenotypicFeature	D007022
+19923525	1120	1124	Mice	OrganismTaxon	10090
+19923525	1138	1149	hypotensive	DiseaseOrPhenotypicFeature	D007022
+19923525	1263	1266	NTG	ChemicalEntity	D005996
+19923525	1269	1273	NIMO	ChemicalEntity	D009553
+19923525	1286	1289	NTG	ChemicalEntity	D005996
+19923525	1508	1512	mice	OrganismTaxon	10090
+19923525	1567	1570	NTG	ChemicalEntity	D005996
+19923525	1583	1586	NTG	ChemicalEntity	D005996
+19923525	1589	1593	NIMO	ChemicalEntity	D009553
+19923525	1809	1813	mice	OrganismTaxon	10090
+19923525	1827	1831	NIMO	ChemicalEntity	D009553
+19923525	2042	2045	NTG	ChemicalEntity	D005996
+19923525	2117	2120	NTG	ChemicalEntity	D005996
+19923525	2123	2127	NIMO	ChemicalEntity	D009553
+19923525	2259	2262	NTG	ChemicalEntity	D005996
+19923525	2359	2363	mice	OrganismTaxon	10090
+19923525	2389	2400	hypotension	DiseaseOrPhenotypicFeature	D007022
+19923525	2416	2420	NIMO	ChemicalEntity	D009553
+19923525	2494	2497	NTG	ChemicalEntity	D005996
+19923525	2544	2555	hypotension	DiseaseOrPhenotypicFeature	D007022
+19923525	2580	2584	NIMO	ChemicalEntity	D009553
+19923525	2635	2642	calcium	ChemicalEntity	D002118
+19923525	2662	2673	hypotension	DiseaseOrPhenotypicFeature	D007022
+19923525	Positive_Correlation	D005996	D007022	No
+19923525	Positive_Correlation	D005996	D008569	No
+19923525	Association	D009553	D002118	Novel
+19923525	Association	D009553	D007022	Novel
+19923525	Negative_Correlation	D009553	D005996	Novel
+19923525	Negative_Correlation	D009553	D008569	Novel

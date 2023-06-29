@@ -1,0 +1,85 @@
+27761762|t|Sarcoid-like reaction in a patient with uveitis and underlying cancer
+27761762|a|Sarcoidosis is a granulomatous disease of unknown etiology. Occasionally, triggering causes are identified, such as neoplasms, and they are termed sarcoid-like reactions, which may appear in any sarcoidotic target tissue. Choroidal metastases appear as part of widespread metastatic disease or as the first suggestion of neoplastic disease. They can also be a part of the differential diagnosis of a spectrum of inflammatory eye diseases. We present a case in which a lung carcinoma, pulmonary and eye sarcoid-like reactions, and choroidal metastasis take place in the same patient. A 60- year-old male with a past history of pulmonary sarcoidosis and associated anterior uveitis was diagnosed with a lung carcinoma with no regional lymph nodes extension, so that the resection surgery was performed without additional systemic treatment. At the same time, he complained of visual acuity loss and pain in his right eye. An intense ocular inflammatory reaction and a choroidal mass compatible with metastasis were identified. A vitrectomy with an accompanied histological exam of the lesion was deemed inconclusive. Ocular symptoms progressively worsened showing mass growth, and as a result, an enucleation was performed and the histological study subsequently revealed metastasis from his lung carcinoma. Sarcoid-like reactions may be due to incipient malignancies. Any diagnosis of sarcoidosis requires ruling out other diseases that can produce secondary sarcoid-like reactions. In addition, any choroidal mass suggestive of metastasis requires exclusion of metastatic disease even in the absence of clinical signs indicating tumor extension.
+27761762	0	21	Sarcoid-like reaction	T047	C0036202
+27761762	27	34	patient	T101	C0030705
+27761762	40	47	uveitis	T047	C0042164
+27761762	63	69	cancer	T191	C0006826
+27761762	70	81	Sarcoidosis	T047	C0036202
+27761762	87	108	granulomatous disease	T047	C0740451
+27761762	112	128	unknown etiology	T033	C0743626
+27761762	166	176	identified	T080	C0205396
+27761762	186	195	neoplasms	T191	C0027651
+27761762	217	239	sarcoid-like reactions	T047	C0036202
+27761762	265	276	sarcoidotic	T047	C0036202
+27761762	277	283	target	T169	C1521840
+27761762	284	290	tissue	T024	C0040300
+27761762	292	301	Choroidal	T023	C0008520
+27761762	302	312	metastases	T191	C0027627
+27761762	331	341	widespread	T082	C0205391
+27761762	342	360	metastatic disease	T191	C0027627
+27761762	391	409	neoplastic disease	T191	C1882062
+27761762	430	434	part	T082	C0449719
+27761762	442	464	differential diagnosis	T060	C0011906
+27761762	470	478	spectrum	T077	C2827424
+27761762	482	507	inflammatory eye diseases	T047	C0014236
+27761762	522	526	case	T101	C0030705
+27761762	538	552	lung carcinoma	T191	C0684249
+27761762	554	563	pulmonary	T023	C0024109
+27761762	568	571	eye	T023	C0015392
+27761762	572	594	sarcoid-like reactions	T047	C0036202
+27761762	600	609	choroidal	T023	C0008520
+27761762	610	620	metastasis	T191	C0027627
+27761762	639	651	same patient	T101	C0030705
+27761762	659	667	year-old	T079	C0439234
+27761762	668	672	male	T032	C0086582
+27761762	680	695	past history of	T033	C0332119
+27761762	696	717	pulmonary sarcoidosis	T047	C0036205
+27761762	722	732	associated	T080	C0332281
+27761762	733	749	anterior uveitis	T047	C0042165
+27761762	754	763	diagnosed	T033	C0011900
+27761762	771	785	lung carcinoma	T191	C0684249
+27761762	791	793	no	T033	C1513916
+27761762	794	824	regional lymph nodes extension	T033	C3846418
+27761762	838	855	resection surgery	T061	C0728940
+27761762	860	869	performed	T169	C0884358
+27761762	889	897	systemic	T169	C0205373
+27761762	898	907	treatment	T061	C0087111
+27761762	944	962	visual acuity loss	T033	C0234632
+27761762	967	988	pain in his right eye	T184	C2201627
+27761762	993	1000	intense	T080	C0522510
+27761762	1001	1007	ocular	T023	C0015392
+27761762	1008	1029	inflammatory reaction	T046	C0021368
+27761762	1036	1050	choroidal mass	T033	C2074291
+27761762	1051	1061	compatible	T080	C1524057
+27761762	1067	1077	metastasis	T191	C0027627
+27761762	1083	1093	identified	T080	C0205396
+27761762	1097	1107	vitrectomy	T061	C0042903
+27761762	1128	1140	histological	T169	C0205462
+27761762	1141	1145	exam	T169	C4284036
+27761762	1153	1159	lesion	T033	C0221198
+27761762	1171	1183	inconclusive	T080	C1629507
+27761762	1185	1191	Ocular	T040	C0042789
+27761762	1192	1200	symptoms	T184	C1457887
+27761762	1215	1223	worsened	T033	C1457868
+27761762	1254	1260	result	T169	C1274040
+27761762	1265	1276	enucleation	T061	C0014392
+27761762	1281	1290	performed	T169	C0884358
+27761762	1299	1311	histological	T169	C0205462
+27761762	1312	1317	study	T062	C2603343
+27761762	1340	1350	metastasis	T191	C0027627
+27761762	1360	1374	lung carcinoma	T191	C0684249
+27761762	1376	1398	Sarcoid-like reactions	T047	C0036202
+27761762	1413	1422	incipient	T079	C0205256
+27761762	1423	1435	malignancies	T191	C4282132
+27761762	1441	1450	diagnosis	T033	C0011900
+27761762	1454	1465	sarcoidosis	T047	C0036202
+27761762	1486	1500	other diseases	T047	C0012634
+27761762	1518	1550	secondary sarcoid-like reactions	T047	C0036202
+27761762	1569	1583	choroidal mass	T033	C2074291
+27761762	1598	1608	metastasis	T191	C0027627
+27761762	1618	1627	exclusion	T052	C2828389
+27761762	1631	1649	metastatic disease	T191	C0027627
+27761762	1662	1669	absence	T169	C0332197
+27761762	1673	1687	clinical signs	T184	C0037088
+27761762	1699	1704	tumor	T191	C0027651
+27761762	1705	1714	extension	T169	C0231448

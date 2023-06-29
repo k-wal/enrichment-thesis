@@ -1,0 +1,75 @@
+28412023|t|Precise prediction of activators for the human constitutive androstane receptor using structure -based three-dimensional quantitative structure-activity relationship methods
+28412023|a|The constitutive androstane receptor (CAR, NR1I3) regulates the expression of numerous drug-metabolizing enzymes and transporters. The upregulation of various enzymes, including CYP2B6, by CAR activators is a critical problem leading to clinically severe drug-drug interactions (DDIs). To date, however, few effective computational approaches for identifying CAR activators exist. In this study, we aimed to develop three-dimensional quantitative structure-activity relationship (3D-QSAR) models to predict the CAR activating potency of compounds emerging in the drug-discovery process. Models were constructed using comparative molecular field analysis (CoMFA) based on the molecular alignments of ligands binding to CAR, which were obtained from ensemble ligand-docking using 28 compounds as a training set. The CoMFA model, modified by adding a lipophilic parameter with calculated logD7.4 (S+logD7.4), demonstrated statistically good predictive ability (r(2) = 0.99, q(2) = 0.74). We also confirmed the excellent predictability of the 3D-QSAR model for CAR activation (r(2)pred = 0.71) using seven compounds as a test set for external validation. Collectively, our results indicate that the 3D-QSAR model developed in this study provides precise prediction of CAR activating potency and, thus, should be useful for selecting drug candidates with minimized DDI risk related to enzyme-induction in the early drug-discovery stage.
+28412023	8	18	prediction	T078	C0681842
+28412023	22	32	activators	T121,T123	C0751968
+28412023	41	46	human	T016	C0086418
+28412023	47	79	constitutive androstane receptor	T116,T192	C0914906
+28412023	86	95	structure	T085	C0026383
+28412023	103	165	three-dimensional quantitative structure-activity relationship	T081	C0887820
+28412023	166	173	methods	T170	C0025663
+28412023	178	210	constitutive androstane receptor	T116,T192	C0914906
+28412023	212	215	CAR	T116,T192	C0914906
+28412023	217	223	NR1I3)	T116,T192	C0663285
+28412023	224	248	regulates the expression	T045	C2755857
+28412023	252	260	numerous	T081	C0439064
+28412023	261	278	drug-metabolizing	T044	C0683140
+28412023	279	286	enzymes	T116,T126	C0014442
+28412023	291	303	transporters	T116,T123	C0007292
+28412023	309	321	upregulation	T044	C0041904
+28412023	333	340	enzymes	T116,T126	C0014442
+28412023	352	358	CYP2B6	T116,T126	C0534137
+28412023	363	366	CAR	T116,T192	C0914906
+28412023	367	377	activators	T121,T123	C0751968
+28412023	422	428	severe	T080	C0205082
+28412023	429	451	drug-drug interactions	T044	C0687133
+28412023	453	457	DDIs	T044	C0687133
+28412023	482	491	effective	T080	C1704419
+28412023	492	516	computational approaches	T062	C1516769
+28412023	533	536	CAR	T116,T192	C0914906
+28412023	590	652	three-dimensional quantitative structure-activity relationship	T081	C0887820
+28412023	654	661	3D-QSAR	T081	C0887820
+28412023	663	669	models	T170	C3161035
+28412023	685	688	CAR	T116,T192	C0914906
+28412023	689	699	activating	T043	C1514758
+28412023	700	707	potency	T080	C3245505
+28412023	711	720	compounds	T121	C1254351
+28412023	737	751	drug-discovery	T062	C0920472
+28412023	752	759	process	T067	C1522240
+28412023	761	767	Models	T170	C3161035
+28412023	791	827	comparative molecular field analysis	T063	C1513380
+28412023	829	834	CoMFA	T063	C1513380
+28412023	849	858	molecular	T167	C0567416
+28412023	859	869	alignments	T081	C1706765
+28412023	873	888	ligands binding	T044	C1517880
+28412023	892	895	CAR	T116,T192	C0914906
+28412023	931	945	ligand-docking	T044	C1522290
+28412023	952	964	28 compounds	T121	C1254351
+28412023	988	993	CoMFA	T063	C1513380
+28412023	994	999	model	T170	C3161035
+28412023	1001	1012	modified by	T080	C0205349
+28412023	1022	1032	lipophilic	T081	C0598631
+28412023	1033	1042	parameter	T081	C0598631
+28412023	1112	1130	predictive ability	T080	C1514307
+28412023	1191	1205	predictability	T081	C0237793
+28412023	1213	1220	3D-QSAR	T081	C0887820
+28412023	1221	1226	model	T170	C3161035
+28412023	1231	1234	CAR	T116,T192	C0914906
+28412023	1235	1245	activation	T043	C1514758
+28412023	1276	1285	compounds	T121	C1254351
+28412023	1304	1323	external validation	T062	C1519941
+28412023	1343	1350	results	T169	C1274040
+28412023	1369	1376	3D-QSAR	T081	C0887820
+28412023	1377	1382	model	T170	C3161035
+28412023	1416	1423	precise	T080	C2828393
+28412023	1424	1434	prediction	T078	C0681842
+28412023	1438	1441	CAR	T116,T192	C0914906
+28412023	1442	1452	activating	T043	C1514758
+28412023	1453	1460	potency	T080	C3245505
+28412023	1503	1518	drug candidates	T121	C1254351
+28412023	1524	1533	minimized	T080	C1524031
+28412023	1534	1537	DDI	T044	C0687133
+28412023	1538	1542	risk	T078	C0035647
+28412023	1554	1570	enzyme-induction	T045	C0014431
+28412023	1578	1583	early	T079	C1279919
+28412023	1584	1598	drug-discovery	T062	C0920472
+28412023	1599	1604	stage	T079	C1306673

@@ -1,0 +1,71 @@
+28341161|t|Predictive position computations mediated by parietal areas: TMS evidence
+28341161|a|When objects move or the eyes move, the visual system can predict the consequence and generate a percept of the target at its new position. This predictive localization may depend on eye movement control in the frontal eye fields (FEF) and the intraparietal sulcus (IPS) and on motion analysis in the medial temporal area (MT). Across two experiments we examined whether repetitive transcranial magnetic stimulation (rTMS) over right FEF, right IPS, righ t MT, and a control site, peripheral V1 / V2, diminished participants ' perception of two cases of predictive position perception: trans-saccadic fusion, and the flash grab illusion, both presented in the contralateral visual field. In trans-saccadic fusion trials, participants saccade toward a stimulus that is replaced with another stimulus during the saccade. Frequently, predictive position mechanisms lead to a fused percept of pre - and post - saccade stimuli (Paeye et al., 2017). We found that rTMS to IPS significantly decreased the frequency of perceiving trans-saccadic fusion within the first 10min after stimulation. In the flash grab illusion, a target is flashed on a moving background leading to the percept that the target has shifted in the direction of the motion after the flash (Cavanagh and Anstis, 2013). In the first experiment, the reduction in the flash grab illusion after rTMS to IPS and FEF did not reach significance. In the second experiment, using a stronger version of the flash grab, the illusory shift did decrease significantly after rTMS to IPS although not after rTMS to FEF or to MT. These findings suggest that right IPS contributes to predictive position perception during saccades and motion processing in the contralateral visual field.
+28341161	11	19	position	T082	UMLS:C0733755
+28341161	45	59	parietal areas	T017	UMLS:C0030560
+28341161	61	64	TMS	T058	UMLS:C0436548
+28341161	87	91	move	T033	UMLS:C0578671
+28341161	99	108	eyes move	T038	UMLS:C0015413
+28341161	114	127	visual system	T022	UMLS:C3536733
+28341161	171	178	percept	T038	UMLS:C0030971
+28341161	204	212	position	T082	UMLS:C0733755
+28341161	257	269	eye movement	T038	UMLS:C0015413
+28341161	285	303	frontal eye fields	T017	UMLS:C3498745
+28341161	305	308	FEF	T017	UMLS:C3498745
+28341161	318	338	intraparietal sulcus	T082	UMLS:C0228213
+28341161	340	343	IPS	T082	UMLS:C0228213
+28341161	375	395	medial temporal area	T017	UMLS:C0039485
+28341161	397	399	MT	T017	UMLS:C0039485
+28341161	445	489	repetitive transcranial magnetic stimulation	T058	UMLS:C0872259
+28341161	491	495	rTMS	T058	UMLS:C0872259
+28341161	502	507	right	T082	UMLS:C0205090
+28341161	508	511	FEF	T017	UMLS:C3498745
+28341161	513	522	right IPS	T082	UMLS:C2950912
+28341161	524	528	righ	T082	UMLS:C0205090
+28341161	531	533	MT	T017	UMLS:C0039485
+28341161	549	553	site	T082	UMLS:C1515974
+28341161	555	568	peripheral V1	T017	UMLS:C0042817
+28341161	571	573	V2	T017	UMLS:C0042817
+28341161	586	598	participants	T098	UMLS:C0679646
+28341161	601	611	perception	T038	UMLS:C0042830
+28341161	639	647	position	T082	UMLS:C0733755
+28341161	648	658	perception	T038	UMLS:C0042830
+28341161	660	674	trans-saccadic	T038	UMLS:C0036019
+28341161	675	681	fusion	T038	UMLS:C0237661
+28341161	691	710	flash grab illusion	T038	UMLS:C0029139
+28341161	748	760	visual field	T082	UMLS:C0042826
+28341161	765	779	trans-saccadic	T038	UMLS:C0036019
+28341161	780	786	fusion	T038	UMLS:C0237661
+28341161	795	807	participants	T098	UMLS:C0679646
+28341161	808	815	saccade	T038	UMLS:C0036019
+28341161	884	891	saccade	T038	UMLS:C0036019
+28341161	916	924	position	T082	UMLS:C0733755
+28341161	946	959	fused percept	T038	UMLS:C0042830
+28341161	980	987	saccade	T038	UMLS:C0036019
+28341161	1032	1036	rTMS	T058	UMLS:C0872259
+28341161	1040	1043	IPS	T082	UMLS:C0228213
+28341161	1085	1095	perceiving	T038	UMLS:C0030971
+28341161	1096	1110	trans-saccadic	T038	UMLS:C0036019
+28341161	1111	1117	fusion	T038	UMLS:C0237661
+28341161	1147	1158	stimulation	T038	UMLS:C0036602
+28341161	1167	1186	flash grab illusion	T038	UMLS:C0029139
+28341161	1213	1219	moving	T033	UMLS:C0578671
+28341161	1246	1253	percept	T038	UMLS:C0042830
+28341161	1289	1298	direction	T082	UMLS:C0449738
+28341161	1404	1423	flash grab illusion	T038	UMLS:C0029139
+28341161	1430	1434	rTMS	T058	UMLS:C0872259
+28341161	1438	1441	IPS	T082	UMLS:C0228213
+28341161	1446	1449	FEF	T017	UMLS:C3498745
+28341161	1450	1476	did not reach significance	T033	UMLS:C1273937
+28341161	1536	1546	flash grab	T038	UMLS:C0029139
+28341161	1552	1566	illusory shift	T038	UMLS:C0029139
+28341161	1600	1604	rTMS	T058	UMLS:C0872259
+28341161	1608	1611	IPS	T082	UMLS:C0228213
+28341161	1631	1635	rTMS	T058	UMLS:C0872259
+28341161	1639	1642	FEF	T017	UMLS:C3498745
+28341161	1649	1651	MT	T017	UMLS:C0039485
+28341161	1687	1690	IPS	T082	UMLS:C0228213
+28341161	1717	1725	position	T082	UMLS:C0733755
+28341161	1726	1736	perception	T038	UMLS:C0042830
+28341161	1744	1752	saccades	T038	UMLS:C0036019
+28341161	1782	1795	contralateral	T082	UMLS:C0441988
+28341161	1796	1808	visual field	T082	UMLS:C0042826

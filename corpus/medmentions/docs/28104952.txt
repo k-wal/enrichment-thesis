@@ -1,0 +1,93 @@
+28104952|t|Pitfalls in interpretation of FDG PET/CT: Septic pulmonary emboli mimicking metastases in a case of gastric carcinoma
+28104952|a|Inflammatory lesions may sometimes show intense tracer uptake and mimic neoplastic lesions on (18) F-fluoro-deoxyglucose (FDG) positron emission tomography/computed tomography (PET/CT). We report one such false positive case on FDG PET/CT, where septic pulmonary emboli (SPE) mimicked pulmonary metastases. A 45- year-old man with stomach cancer had an indwelling central venous catheter (CVC) in situ while on neoadjuvant chemotherapy. He underwent FDG PET/CT scan for response assessment and the images revealed multiple, intensely FDG avid, peripheral, lung nodules with feeding vessels, which were suspicious for pulmonary metastases. A day later, the patient developed fever with chills and his blood culture showed bacterial growth (Enterobacter cloacae). A provisional diagnosis of SPE from an infected CVC was made. Chemotherapy was withheld, CVC removed, and the catheter tip was sent for bacterial culture. Following a 4-week course of antibiotic treatment, the patient became afebrile. Culture from the CVC tip grew the same organism, as was seen earlier in the patient's blood culture, thus pin-pointing the source of infection in our case. Diagnosis of SPE was clinched when follow-up CT chest done after completion of antibiotic course showed complete resolution of the lung lesions.
+28104952	0	8	Pitfalls	T080	C0598697
+28104952	12	26	interpretation	T170	C0459471
+28104952	30	33	FDG	T109,T130	C0046056
+28104952	34	40	PET/CT	T060	C1699633
+28104952	42	65	Septic pulmonary emboli	UnknownType	C0748131
+28104952	66	75	mimicking	T080	C0205556
+28104952	76	86	metastases	T191	C0153676
+28104952	100	117	gastric carcinoma	T191	C0699791
+28104952	118	138	Inflammatory lesions	T033	C3872830
+28104952	143	152	sometimes	T079	C1998882
+28104952	166	172	tracer	T130	C1522485
+28104952	173	179	uptake	T039	C0243144
+28104952	184	189	mimic	T080	C0205556
+28104952	190	200	neoplastic	T191	C0027651
+28104952	201	208	lesions	T033	C0221198
+28104952	212	238	(18) F-fluoro-deoxyglucose	T109,T130	C0046056
+28104952	240	243	FDG	T109,T130	C0046056
+28104952	245	293	positron emission tomography/computed tomography	T060	C1699633
+28104952	295	301	PET/CT	T060	C1699633
+28104952	307	313	report	T170	C0684224
+28104952	323	337	false positive	T034	C0205557
+28104952	346	349	FDG	T109,T130	C0046056
+28104952	350	356	PET/CT	T060	C1699633
+28104952	364	387	septic pulmonary emboli	UnknownType	C0748131
+28104952	389	392	SPE	UnknownType	C0748131
+28104952	394	402	mimicked	T080	C0205556
+28104952	403	423	pulmonary metastases	T191	C0153676
+28104952	431	439	year-old	T079	C1510829
+28104952	440	443	man	T098	C0025266
+28104952	449	463	stomach cancer	T191	C0699791
+28104952	471	505	indwelling central venous catheter	T061	C2049627
+28104952	507	510	CVC	T061	C2049627
+28104952	512	519	in situ	T082	C0444498
+28104952	520	525	while	T078	C0750519
+28104952	529	540	neoadjuvant	T061	C0600558
+28104952	541	553	chemotherapy	T061	C3665472
+28104952	568	571	FDG	T109,T130	C0046056
+28104952	572	583	PET/CT scan	T060	C1699633
+28104952	588	596	response	T033	C1704632
+28104952	597	607	assessment	T052	C1516048
+28104952	616	622	images	T170	C1704922
+28104952	623	631	revealed	T080	C0443289
+28104952	632	640	multiple	T081	C0439064
+28104952	642	651	intensely	T080	C0522510
+28104952	652	655	FDG	T109,T130	C0046056
+28104952	656	660	avid	T109,T121	C2986972
+28104952	662	672	peripheral	T082	C0205100
+28104952	674	686	lung nodules	T033	C0034079
+28104952	692	707	feeding vessels	T023	C0229889
+28104952	720	730	suspicious	T078	C0750493
+28104952	735	755	pulmonary metastases	T191	C0153676
+28104952	759	762	day	T079	C0439228
+28104952	763	768	later	T079	C0205087
+28104952	774	781	patient	T101	C0030705
+28104952	792	809	fever with chills	T184	C0085594
+28104952	818	831	blood culture	T059	C0200949
+28104952	839	855	bacterial growth	T034	C0427944
+28104952	857	877	Enterobacter cloacae	T007	C0085484
+28104952	882	903	provisional diagnosis	T080	C0332134
+28104952	907	910	SPE	UnknownType	C0748131
+28104952	919	927	infected	T033	C0439663
+28104952	928	931	CVC	T061	C2049627
+28104952	942	954	Chemotherapy	T061	C3665472
+28104952	969	972	CVC	T061	C2049627
+28104952	973	980	removed	T080	C0849355
+28104952	990	1002	catheter tip	T074	C0444299
+28104952	1016	1033	bacterial culture	T059	C0430402
+28104952	1035	1044	Following	T079	C0332282
+28104952	1047	1060	4-week course	T079	C0750729
+28104952	1064	1084	antibiotic treatment	T061	C0338237
+28104952	1090	1097	patient	T101	C0030705
+28104952	1105	1113	afebrile	T033	C0277797
+28104952	1115	1122	Culture	T059	C0430402
+28104952	1132	1139	CVC tip	T074	C4076189
+28104952	1154	1162	organism	T001	C0029235
+28104952	1176	1183	earlier	T079	C1279919
+28104952	1191	1200	patient's	T101	C0030705
+28104952	1201	1214	blood culture	T059	C0200949
+28104952	1238	1244	source	T033	C0449416
+28104952	1248	1257	infection	T046	C3714514
+28104952	1271	1280	Diagnosis	T033	C0011900
+28104952	1284	1287	SPE	UnknownType	C0748131
+28104952	1306	1315	follow-up	T058	C1522577
+28104952	1316	1318	CT	T060	C0040405
+28104952	1319	1324	chest	T029	C0817096
+28104952	1336	1346	completion	T080	C0205197
+28104952	1350	1360	antibiotic	T195	C0003232
+28104952	1361	1367	course	T079	C0750729
+28104952	1375	1383	complete	T080	C0205197
+28104952	1384	1394	resolution	T077	C2699488
+28104952	1402	1414	lung lesions	T033	C0577916

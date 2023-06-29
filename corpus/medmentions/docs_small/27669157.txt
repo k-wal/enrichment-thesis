@@ -1,0 +1,54 @@
+27669157|t|A Patient Registry to Improve Patient Safety: Recording General Neurosurgery Complications
+27669157|a|To improve the transparency of the local health care system, treatment cost was recently referenced to disease related groups. Treatment quality must be legally documented in a patient registry, in particular for the highly specialized treatments provided by neurosurgery departments. In 2013 we have installed a patient registry focused on cranial neurosurgery. Surgeries are characterized by indication, treatment, location and other specific neurosurgical parameters. Preoperative state and postoperative outcome are recorded prospectively using neurological and sociological scales. Complications are graded by their severity in a therapy-oriented complication score system (Clavien-Dindo-Grading system, CDG). Results are presented at the monthly clinical staff meeting. Data acquisition compatible with the clinic workflow permitted to include all eligible patients into the registry. Until December 2015, we have registered 2880 patients that were treated in 3959 surgeries and 8528 consultations. Since the registry is fully operational (August 2014), we have registered 325 complications on 1341 patient discharge forms (24%). In 64% of these complications, no or only pharmacological treatment was required. At discharge, there was a clear correlation of the severity of the complication and the Karnofsky Performance Status (KPS, ρ = -0.3, slope -6 KPS percentage points per increment of CDG) and the length of stay (ρ = 0.4, slope 1.5 days per increment of CDG). While the therapy-oriented complication scores correlate reasonably well with outcome and length of stay, they do not account for new deficits that cannot be treated. Outcome grading and complication severity grading thus serve a complimentary purpose. Overall, the registry serves to streamline and to complete information flow in the clinic, to identify complication rates and trends early for the internal quality monitoring and communication with patients. Conversely, the registry influences clinical practice in that it demands rigorous documentation and standard operating procedures.
+27669157	2	18	Patient Registry	T062	UMLS:C0920631
+27669157	30	44	Patient Safety	T058	UMLS:C1113679
+27669157	64	76	Neurosurgery	T058	UMLS:C0524850
+27669157	77	90	Complications	T038	UMLS:C0009566
+27669157	126	150	local health care system	T092	UMLS:C0018696
+27669157	194	201	disease	T038	UMLS:C0012634
+27669157	210	216	groups	T098	UMLS:C1257890
+27669157	218	227	Treatment	T058	UMLS:C0087111
+27669157	244	262	legally documented	T170	UMLS:C0681483
+27669157	268	284	patient registry	T062	UMLS:C0920631
+27669157	327	337	treatments	T058	UMLS:C0087111
+27669157	350	374	neurosurgery departments	T092	UMLS:C0587523
+27669157	404	420	patient registry	T062	UMLS:C0920631
+27669157	432	452	cranial neurosurgery	T058	UMLS:C0195775
+27669157	454	463	Surgeries	T058	UMLS:C0543467
+27669157	497	506	treatment	T058	UMLS:C0087111
+27669157	508	516	location	T082	UMLS:C4041236
+27669157	562	580	Preoperative state	T033	UMLS:C0178808
+27669157	640	652	neurological	T170	UMLS:C0282574
+27669157	657	676	sociological scales	T170	UMLS:C0282574
+27669157	678	691	Complications	T038	UMLS:C0009566
+27669157	726	768	therapy-oriented complication score system	T170	UMLS:C0282574
+27669157	770	798	Clavien-Dindo-Grading system	T170	UMLS:C0282574
+27669157	800	803	CDG	T170	UMLS:C0282574
+27669157	843	857	clinical staff	T097	UMLS:C0025106
+27669157	904	910	clinic	T092	UMLS:C0442592
+27669157	972	980	registry	T062	UMLS:C0920631
+27669157	1062	1071	surgeries	T058	UMLS:C0543467
+27669157	1081	1094	consultations	T058	UMLS:C0009818
+27669157	1106	1114	registry	T062	UMLS:C0920631
+27669157	1174	1187	complications	T038	UMLS:C0009566
+27669157	1196	1213	patient discharge	T058	UMLS:C0030685
+27669157	1214	1219	forms	T170	UMLS:C0282574
+27669157	1243	1256	complications	T038	UMLS:C0009566
+27669157	1269	1294	pharmacological treatment	T058	UMLS:C0013216
+27669157	1312	1321	discharge	T058	UMLS:C0030685
+27669157	1376	1388	complication	T038	UMLS:C0009566
+27669157	1397	1425	Karnofsky Performance Status	T058	UMLS:C0206065
+27669157	1427	1430	KPS	T058	UMLS:C0206065
+27669157	1451	1454	KPS	T058	UMLS:C0206065
+27669157	1490	1493	CDG	T170	UMLS:C0282574
+27669157	1560	1563	CDG	T170	UMLS:C0282574
+27669157	1741	1748	grading	T170	UMLS:C0441800
+27669157	1753	1765	complication	T038	UMLS:C0009566
+27669157	1775	1782	grading	T170	UMLS:C0441800
+27669157	1832	1840	registry	T062	UMLS:C0920631
+27669157	1902	1908	clinic	T092	UMLS:C0442592
+27669157	1922	1934	complication	T038	UMLS:C0009566
+27669157	1983	1993	monitoring	T058	UMLS:C1283169
+27669157	2043	2051	registry	T062	UMLS:C0920631
+27669157	2109	2122	documentation	T170	UMLS:C0920316
+27669157	2127	2156	standard operating procedures	T170	UMLS:C3889288

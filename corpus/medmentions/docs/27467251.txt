@@ -1,0 +1,107 @@
+27467251|t|An Encapsulation of Gene Signatures for Hepatocellular Carcinoma, MicroRNA-132 Predicted Target Genes and the Corresponding Overlaps
+27467251|a|Previous studies have demonstrated that microRNA-132 plays a vital part in and is actively associated with several cancers, with its tumor-suppressive role in hepatocellular carcinoma confirmed. The current study employed multiple bioinformatics techniques to establish gene signatures for hepatocellular carcinoma, microRNA-132 predicted target genes and the corresponding overlaps. Various assays were performed to explore the role and cellular functions of miR-132 in HCC and a successive panel of tasks was completed, including NLP analysis, miR-132 target genes prediction, comprehensive analyses (gene ontology analysis, pathway analysis, network analysis and connectivity analysis), and analytical integration. Later, HCC - related and miR-132 - related potential targets, pathways, networks and highlighted hub genes were revealed as well as those of the overlapped section. MiR-132 was effective in both impeding cell growth and boosting apoptosis in HCC cell lines. A total of fifty-nine genes were obtained from the analytical integration, which were considered to be both HCC - and miR-132 - related. Moreover, four specific pathways were unveiled in the network analysis of the overlaps, i.e. adherens junction, VEGF signaling pathway, neurotrophin signaling pathway, and MAPK signaling pathway. The tumor-suppressive role of miR-132 in HCC has been further confirmed by in vitro experiments. Gene signatures in the study identified the potential molecular mechanisms of HCC, miR-132 and their established associations, which might be effective for diagnosis, individualized treatments and prognosis of HCC patients. However, combined detections of miR-132 with other bio-indicators in clinical practice and further in vitro experiments are needed.
+27467251	3	16	Encapsulation	T067	C2348438
+27467251	20	35	Gene Signatures	T169	C1708225
+27467251	40	64	Hepatocellular Carcinoma	T191	C2239176
+27467251	66	78	MicroRNA-132	T114,T123	C2745279
+27467251	79	88	Predicted	T078	C0681842
+27467251	89	101	Target Genes	T028	C1332838
+27467251	110	132	Corresponding Overlaps	T086	C0314659
+27467251	142	149	studies	T062	C2603343
+27467251	173	185	microRNA-132	T114,T123	C2745279
+27467251	224	239	associated with	T080	C0332281
+27467251	248	255	cancers	T191	C0006826
+27467251	266	288	tumor-suppressive role	T043	C1325410
+27467251	292	316	hepatocellular carcinoma	T191	C2239176
+27467251	317	326	confirmed	T080	C0521093
+27467251	340	345	study	T062	C2603343
+27467251	355	363	multiple	T081	C0439064
+27467251	364	389	bioinformatics techniques	T169	C0449851
+27467251	403	418	gene signatures	T169	C1708225
+27467251	423	447	hepatocellular carcinoma	T191	C2239176
+27467251	449	461	microRNA-132	T114,T123	C2745279
+27467251	462	471	predicted	T078	C0681842
+27467251	472	484	target genes	T028	C1332838
+27467251	493	515	corresponding overlaps	T086	C0314659
+27467251	525	531	assays	T059	C1510438
+27467251	537	546	performed	T169	C0884358
+27467251	562	566	role	T080	C0205556
+27467251	571	589	cellular functions	T043	C0007613
+27467251	593	600	miR-132	T114,T123	C2745279
+27467251	604	607	HCC	T191	C2239176
+27467251	614	630	successive panel	T062	C0681848
+27467251	644	653	completed	T080	C0205197
+27467251	665	668	NLP	T066	C0027489
+27467251	669	677	analysis	T062	C0936012
+27467251	679	686	miR-132	T114,T123	C2745279
+27467251	687	699	target genes	T028	C1332838
+27467251	700	710	prediction	T078	C0681842
+27467251	712	725	comprehensive	T080	C1880156
+27467251	726	734	analyses	T062	C0936012
+27467251	736	758	gene ontology analysis	T170	C1138831
+27467251	760	776	pathway analysis	T170	C0868995
+27467251	778	794	network analysis	T170	C0868995
+27467251	799	811	connectivity	T169	C1707489
+27467251	812	820	analysis	T062	C0936012
+27467251	827	849	analytical integration	T169	C0205245
+27467251	858	861	HCC	T191	C2239176
+27467251	864	871	related	T080	C0439849
+27467251	876	883	miR-132	T114,T123	C2745279
+27467251	886	893	related	T080	C0439849
+27467251	894	903	potential	T080	C3245505
+27467251	904	911	targets	T169	C1521840
+27467251	913	921	pathways	T045	C1517508
+27467251	923	931	networks	T044	C1720950
+27467251	948	957	hub genes	T028	C0017337
+27467251	963	971	revealed	T080	C0443289
+27467251	996	1014	overlapped section	T086	C0314659
+27467251	1016	1023	MiR-132	T114,T123	C2745279
+27467251	1028	1037	effective	T080	C1704419
+27467251	1046	1054	impeding	T169	C0205245
+27467251	1055	1066	cell growth	T043	C0007595
+27467251	1071	1079	boosting	T169	C1511253
+27467251	1080	1089	apoptosis	T043	C0162638
+27467251	1093	1096	HCC	T191	C2239176
+27467251	1097	1107	cell lines	T025	C0085983
+27467251	1120	1130	fifty-nine	T081	C3830128
+27467251	1131	1136	genes	T028	C0017337
+27467251	1160	1182	analytical integration	T169	C0205245
+27467251	1195	1205	considered	T078	C0750591
+27467251	1217	1220	HCC	T191	C2239176
+27467251	1227	1234	miR-132	T114,T123	C2745279
+27467251	1237	1244	related	T080	C0439849
+27467251	1270	1278	pathways	T044	C0037080
+27467251	1300	1316	network analysis	T170	C0868995
+27467251	1324	1332	overlaps	T086	C0314659
+27467251	1339	1356	adherens junction	T026	C0887872
+27467251	1358	1380	VEGF signaling pathway	T044	C3271788
+27467251	1382	1412	neurotrophin signaling pathway	T044	C2984256
+27467251	1418	1440	MAPK signaling pathway	T043	C1518102
+27467251	1446	1468	tumor-suppressive role	T043	C1325410
+27467251	1472	1479	miR-132	T114,T123	C2745279
+27467251	1483	1486	HCC	T191	C2239176
+27467251	1504	1516	confirmed by	T080	C0521093
+27467251	1517	1525	in vitro	T080	C1533691
+27467251	1526	1537	experiments	T062	C0681814
+27467251	1539	1554	Gene signatures	T169	C1708225
+27467251	1562	1567	study	T062	C2603343
+27467251	1583	1592	potential	T080	C3245505
+27467251	1593	1613	molecular mechanisms	T169	C0441712
+27467251	1617	1620	HCC	T191	C2239176
+27467251	1622	1629	miR-132	T114,T123	C2745279
+27467251	1652	1664	associations	T080	C0439849
+27467251	1681	1690	effective	T080	C1704419
+27467251	1695	1704	diagnosis	T062	C1704656
+27467251	1706	1720	individualized	T080	C1881197
+27467251	1721	1731	treatments	T061	C0087111
+27467251	1736	1745	prognosis	T058	C0033325
+27467251	1749	1752	HCC	T191	C2239176
+27467251	1753	1761	patients	T101	C0030705
+27467251	1772	1780	combined	T080	C0205195
+27467251	1781	1791	detections	T061	C1511790
+27467251	1795	1802	miR-132	T114,T123	C2745279
+27467251	1814	1828	bio-indicators	T201	C0005516
+27467251	1832	1849	clinical practice	T062	C0008972
+27467251	1862	1870	in vitro	T080	C1533691
+27467251	1871	1882	experiments	T062	C0681814
+27467251	1887	1893	needed	T080	C0027552

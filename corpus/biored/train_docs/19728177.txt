@@ -1,0 +1,39 @@
+19728177|t|Prolonged hypothermia as a bridge to recovery for cerebral edema and intracranial hypertension associated with fulminant hepatic failure.
+19728177|a|BACKGROUND: To review evidence-based treatment options in patients with cerebral edema complicating fulminant hepatic failure (FHF) and discuss the potential applications of hypothermia. METHOD: Case-based observations from a medical intensive care unit (MICU) in a tertiary care facility in a 27-year-old female with FHF from acetaminophen and resultant cerebral edema. RESULTS: Our patient was admitted to the MICU after being found unresponsive with presumed toxicity from acetaminophen which was ingested over a 2-day period. The patient had depressed of mental status lasting at least 24 h prior to admission. Initial evaluation confirmed FHF from acetaminophen and cerebral edema. The patient was treated with hyperosmolar therapy, hyperventilation, sedation, and chemical paralysis. Her intracranial pressure remained elevated despite maximal medical therapy. We then initiated therapeutic hypothermia which was continued for 5 days. At re-warming, patient had resolution of her cerebral edema and intracranial hypertension. At discharge, she had complete recovery of neurological and hepatic functions. CONCLUSION: In patients with FHF and cerebral edema from acetaminophen overdose, prolonged therapeutic hypothermia could potentially be used as a life saving therapy and a bridge to hepatic and neurological recovery. A clinical trial of hypothermia in patients with this condition is warranted.
+19728177	10	21	hypothermia	DiseaseOrPhenotypicFeature	D007036
+19728177	50	64	cerebral edema	DiseaseOrPhenotypicFeature	D001929
+19728177	69	94	intracranial hypertension	DiseaseOrPhenotypicFeature	D019586
+19728177	111	136	fulminant hepatic failure	DiseaseOrPhenotypicFeature	D017114
+19728177	196	204	patients	OrganismTaxon	9606
+19728177	210	224	cerebral edema	DiseaseOrPhenotypicFeature	D001929
+19728177	238	263	fulminant hepatic failure	DiseaseOrPhenotypicFeature	D017114
+19728177	265	268	FHF	DiseaseOrPhenotypicFeature	D017114
+19728177	312	323	hypothermia	DiseaseOrPhenotypicFeature	D007036
+19728177	456	459	FHF	DiseaseOrPhenotypicFeature	D017114
+19728177	465	478	acetaminophen	ChemicalEntity	D000082
+19728177	493	507	cerebral edema	DiseaseOrPhenotypicFeature	D001929
+19728177	522	529	patient	OrganismTaxon	9606
+19728177	600	608	toxicity	DiseaseOrPhenotypicFeature	D064420
+19728177	614	627	acetaminophen	ChemicalEntity	D000082
+19728177	672	679	patient	OrganismTaxon	9606
+19728177	684	693	depressed	DiseaseOrPhenotypicFeature	D003866
+19728177	782	785	FHF	DiseaseOrPhenotypicFeature	D017114
+19728177	791	804	acetaminophen	ChemicalEntity	D000082
+19728177	809	823	cerebral edema	DiseaseOrPhenotypicFeature	D001929
+19728177	829	836	patient	OrganismTaxon	9606
+19728177	876	892	hyperventilation	DiseaseOrPhenotypicFeature	D006985
+19728177	917	926	paralysis	DiseaseOrPhenotypicFeature	D010243
+19728177	1035	1046	hypothermia	DiseaseOrPhenotypicFeature	D007036
+19728177	1094	1101	patient	OrganismTaxon	9606
+19728177	1124	1138	cerebral edema	DiseaseOrPhenotypicFeature	D001929
+19728177	1143	1168	intracranial hypertension	DiseaseOrPhenotypicFeature	D019586
+19728177	1264	1272	patients	OrganismTaxon	9606
+19728177	1278	1281	FHF	DiseaseOrPhenotypicFeature	D017114
+19728177	1286	1300	cerebral edema	DiseaseOrPhenotypicFeature	D001929
+19728177	1306	1319	acetaminophen	ChemicalEntity	D000082
+19728177	1352	1363	hypothermia	DiseaseOrPhenotypicFeature	D007036
+19728177	1486	1497	hypothermia	DiseaseOrPhenotypicFeature	D007036
+19728177	1501	1509	patients	OrganismTaxon	9606
+19728177	Positive_Correlation	D000082	D003866	No
+19728177	Positive_Correlation	D000082	D017114	No
+19728177	Positive_Correlation	D000082	D001929	No

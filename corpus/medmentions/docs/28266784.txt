@@ -1,0 +1,44 @@
+28266784|t|Ethnic disparities relative to disease features and outcomes in children with acute myeloid leukemia
+28266784|a|Hispanics with acute leukemias have poorer outcomes than non-Hispanic whites (NHWs), despite an increased likelihood of favorable prognostic features. We reviewed medical records from 167 children ages 0-18 years diagnosed with de novo AML over an 18-year period at Texas Children's Cancer Center, among whom 129 self-identified as Hispanic or NHW. Although Hispanics were significantly more likely to have the favorable prognostic cytogenetic feature t(8;21) (P = 0.04), the expected survival benefit was not observed. This lack of survival benefit was primarily due to significantly poorer event-free and overall survival among Hispanics treated with upfront stem cell transplantation after achieving first clinical remission (P = 0.008).
+28266784	0	6	Ethnic	T033	C0680174
+28266784	7	18	disparities	T033	C1171307
+28266784	31	38	disease	T047	C0012634
+28266784	39	47	features	T080	C2348519
+28266784	52	60	outcomes	T169	C1274040
+28266784	64	72	children	T100	C0008059
+28266784	78	100	acute myeloid leukemia	T191	C0023467
+28266784	101	110	Hispanics	T098	C0086409
+28266784	116	131	acute leukemias	T191	C0085669
+28266784	144	152	outcomes	T169	C1274040
+28266784	158	177	non-Hispanic whites	T098	C1257890
+28266784	179	183	NHWs	T098	C1257890
+28266784	197	206	increased	T081	C0205217
+28266784	207	217	likelihood	T081	C0033204
+28266784	221	230	favorable	T080	C3640814
+28266784	231	241	prognostic	T170	C0220901
+28266784	242	250	features	T080	C2348519
+28266784	264	279	medical records	T170	C0025102
+28266784	289	297	children	T100	C0008059
+28266784	314	323	diagnosed	T033	C0011900
+28266784	329	336	de novo	T078	C1515568
+28266784	337	340	AML	T191	C0023467
+28266784	367	372	Texas	T083	C0039711
+28266784	373	397	Children's Cancer Center	T073,T093	C1552427
+28266784	433	441	Hispanic	T098	C0086409
+28266784	445	448	NHW	T098	C1257890
+28266784	459	468	Hispanics	T098	C0086409
+28266784	512	521	favorable	T080	C3640814
+28266784	522	532	prognostic	T170	C0220901
+28266784	533	544	cytogenetic	T091	C0010802
+28266784	545	552	feature	T080	C2348519
+28266784	586	594	survival	T169	C0220921
+28266784	595	602	benefit	T081	C0814225
+28266784	611	619	observed	T169	C1441672
+28266784	634	642	survival	T169	C0220921
+28266784	643	650	benefit	T081	C0814225
+28266784	686	692	poorer	T080	C0542537
+28266784	716	724	survival	T169	C0220921
+28266784	731	740	Hispanics	T098	C0086409
+28266784	741	753	treated with	T061	C0332293
+28266784	762	787	stem cell transplantation	T061	C1504389
+28266784	804	828	first clinical remission	T033	C0243095

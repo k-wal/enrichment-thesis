@@ -1,0 +1,93 @@
+27522061|t|Development and Validation of a 10-Year Mortality Prediction Model: Meta-Analysis of Individual Participant Data From Five Cohorts of Older Adults in Developed and Developing Countries
+27522061|a|Existing mortality prediction models for older adults have been each developed using a single study from the United States or Western Europe. We aimed to develop and validate a 10-year mortality prediction model for older adults using data from developed and developing countries. We used data from five cohorts, including data from 16 developed and developing countries: ELSA (English Longitudinal Study of Aging), HRS (Health and Retirement Study), MHAS (Mexican Health and Aging Study), SABE-Sao Paulo (The Health, Well-being and Aging), and SHARE (Survey on Health, Ageing and Retirement in Europe). 35,367 older adults were split into training (two thirds) and test (one third) data sets. Baseline predictors included age, sex, comorbidities, and functional and cognitive measures. We performed an individual participant data meta-analysis using a sex-stratified Cox proportional hazards model, with time to death as the time scale. We validated the model using Harrell's C statistic (discrimination) and the estimated slope between observed and predicted 10-year mortality risk across deciles of risk (calibration). During a median of 8.6 years, 8,325 participants died. The final model included age, sex, diabetes, heart disease, lung disease, cancer, smoking, alcohol use, body mass index, physical activity, self-reported health, difficulty with bathing, walking several blocks, and reporting date correctly. The model showed good discrimination (Harrell's C = 0.76) and calibration (slope = 1.005). Models for developed versus developing country cohorts performed equally well when applied to data from developing countries. A parsimonious mortality prediction model using data from multiple cohorts in developed and developing countries can be used to predict mortality in older adults in both settings.
+27522061	0	11	Development	T169	C1527148
+27522061	16	26	Validation	T062	C1519941
+27522061	40	66	Mortality Prediction Model	T170	C0451318
+27522061	68	81	Meta-Analysis	T062	C0920317
+27522061	85	95	Individual	T098	C0237401
+27522061	96	107	Participant	T098	C0679646
+27522061	108	112	Data	T078	C1511726
+27522061	123	130	Cohorts	T098	C0599755
+27522061	140	146	Adults	T100	C0001675
+27522061	150	159	Developed	T080	C0282613
+27522061	164	184	Developing Countries	T080	C0011750
+27522061	194	221	mortality prediction models	T170	C0451318
+27522061	232	238	adults	T100	C0001675
+27522061	254	263	developed	T169	C1527148
+27522061	294	307	United States	T083	C0041703
+27522061	311	325	Western Europe	T083	C0043129
+27522061	339	346	develop	T169	C1527148
+27522061	351	359	validate	T062	C1519941
+27522061	370	396	mortality prediction model	T170	C0451318
+27522061	407	413	adults	T100	C0001675
+27522061	420	424	data	T078	C1511726
+27522061	430	439	developed	T080	C0282613
+27522061	444	464	developing countries	T080	C0011750
+27522061	474	478	data	T078	C1511726
+27522061	489	496	cohorts	T098	C0599755
+27522061	508	512	data	T078	C1511726
+27522061	521	530	developed	T080	C0282613
+27522061	535	555	developing countries	T080	C0011750
+27522061	557	561	ELSA	T062	C0242481
+27522061	563	598	English Longitudinal Study of Aging	T062	C0242481
+27522061	601	604	HRS	T062	C0242481
+27522061	606	633	Health and Retirement Study	T062	C0242481
+27522061	636	640	MHAS	T062	C0242481
+27522061	642	672	Mexican Health and Aging Study	T062	C0242481
+27522061	675	689	SABE-Sao Paulo	T062	C0242481
+27522061	691	723	The Health, Well-being and Aging	T062	C0242481
+27522061	730	735	SHARE	T062	C0242481
+27522061	737	786	Survey on Health, Ageing and Retirement in Europe	T062	C0242481
+27522061	802	808	adults	T100	C0001675
+27522061	825	833	training	T080	C2673163
+27522061	868	872	data	T078	C1511726
+27522061	879	887	Baseline	T081	C1442488
+27522061	888	898	predictors	T078	C2698872
+27522061	908	911	age	T032	C0001779
+27522061	913	916	sex	T032	C1522384
+27522061	918	931	comorbidities	T078	C0009488
+27522061	937	947	functional	T169	C0205245
+27522061	952	961	cognitive	T169	C1516691
+27522061	962	970	measures	T169	C1879489
+27522061	988	998	individual	T098	C0237401
+27522061	999	1010	participant	T098	C0679646
+27522061	1011	1015	data	T078	C1511726
+27522061	1016	1029	meta-analysis	T062	C0920317
+27522061	1038	1083	sex-stratified Cox proportional hazards model	T170	C0282574
+27522061	1090	1103	time to death	T079	C1301931
+27522061	1111	1121	time scale	T079	C1254367
+27522061	1126	1135	validated	T062	C1519941
+27522061	1152	1173	Harrell's C statistic	T170	C0282574
+27522061	1223	1231	observed	T169	C1441672
+27522061	1236	1245	predicted	T078	C0681842
+27522061	1254	1263	mortality	T081	C0026565
+27522061	1264	1268	risk	T078	C0035647
+27522061	1287	1291	risk	T078	C0035647
+27522061	1293	1304	calibration	T081	C0006751
+27522061	1343	1355	participants	T098	C0679646
+27522061	1387	1390	age	T032	C0001779
+27522061	1392	1395	sex	T032	C1522384
+27522061	1397	1405	diabetes	T047	C0011847
+27522061	1407	1420	heart disease	T047	C0018799
+27522061	1422	1434	lung disease	T047	C0024115
+27522061	1436	1442	cancer	T191	C0006826
+27522061	1444	1451	smoking	T055	C0037369
+27522061	1453	1464	alcohol use	T055	C0001948
+27522061	1466	1481	body mass index	T201	C1305855
+27522061	1483	1500	physical activity	T056	C0026606
+27522061	1502	1522	self-reported health	T201	C4265455
+27522061	1540	1547	bathing	T061	C0150141
+27522061	1549	1571	walking several blocks	T170	C3827521
+27522061	1665	1676	calibration	T081	C0006751
+27522061	1705	1714	developed	T080	C0282613
+27522061	1722	1740	developing country	T080	C0011750
+27522061	1741	1748	cohorts	T098	C0599755
+27522061	1788	1792	data	T078	C1511726
+27522061	1798	1818	developing countries	T080	C0011750
+27522061	1835	1861	mortality prediction model	T170	C0451318
+27522061	1868	1872	data	T078	C1511726
+27522061	1887	1894	cohorts	T098	C0599755
+27522061	1898	1907	developed	T080	C0282613
+27522061	1912	1932	developing countries	T080	C0011750
+27522061	1956	1965	mortality	T081	C0026565
+27522061	1975	1981	adults	T100	C0001675

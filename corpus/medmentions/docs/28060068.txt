@@ -1,0 +1,102 @@
+28060068|t|Risk Factors, Clinical Features, and Treatment Outcomes of Recurrent Mooren Ulcers in China
+28060068|a|To investigate risk factors, clinical features, and treatment outcomes of recurrent Mooren ulcers in China. Medical records of 139 patients (173 eyes) with Mooren ulcers, including 37 patients (38 eyes) with recurrence, were retrospectively reviewed. Clinical features and treatment outcomes were evaluated. The risk factors for ulcer recurrence were analyzed with logistic regression; the cumulative risk of recurrence was assessed with Kaplan-Meier analysis. The ratio of males to females with Mooren ulcers was 1.62:1. As to age, 32 of 106 patients aged >35 years and 5 of 33 younger patients (28 males and 9 females) had recurrence. Forty-one patients had bilateral disease (7 eyes removed before their visit to our hospital were excluded) and 98 patients had unilateral disease, with recurrence in 10 and 27 patients, respectively. Thirty eyes had recurrence around the primary lesion; 27 eyes had recurrence within 12 months after treatment. Of all eyes, 97.7% were saved and 81.5% retained vision better than 0.05. The cumulative risk of first recurrence at 6, 12, 24, 36, and 48 months was 10.4%, 17.1%, 22.5%, 27.2%, and 28.6%, respectively. Male sex (P = 0.043) and surgical treatment (P = 0.035) were significantly associated with an increased risk of recurrence. This study provided the clinical characteristics and treatment outcomes of patients with recurrent Mooren ulcers in China. The cumulative risk of first recurrence at 4 years after treatment was 28.6%. Male patients and patients with severe ulcers that required surgery had an increased risk of recurrence.
+28060068	0	12	Risk Factors	T033	C0035648
+28060068	14	22	Clinical	T080	C0205210
+28060068	23	31	Features	T080	C1521970
+28060068	37	55	Treatment Outcomes	T080	C0085415
+28060068	59	68	Recurrent	T079	C2945760
+28060068	69	82	Mooren Ulcers	T047	C0155072
+28060068	86	91	China	T083	C0008115
+28060068	95	106	investigate	T169	C1292732
+28060068	107	119	risk factors	T033	C0035648
+28060068	121	129	clinical	T080	C0205210
+28060068	130	138	features	T080	C1521970
+28060068	144	162	treatment outcomes	T080	C0085415
+28060068	166	175	recurrent	T079	C2945760
+28060068	176	189	Mooren ulcers	T047	C0155072
+28060068	193	198	China	T083	C0008115
+28060068	200	215	Medical records	T170	C0025102
+28060068	223	231	patients	T101	C0030705
+28060068	237	241	eyes	T023	C0015392
+28060068	248	261	Mooren ulcers	T047	C0155072
+28060068	263	272	including	T169	C0332257
+28060068	276	284	patients	T101	C0030705
+28060068	289	293	eyes	T023	C0015392
+28060068	300	310	recurrence	T067	C0034897
+28060068	317	332	retrospectively	T080	C1514923
+28060068	333	341	reviewed	T080	C1709940
+28060068	343	351	Clinical	T080	C0205210
+28060068	352	360	features	T080	C1521970
+28060068	365	383	treatment outcomes	T080	C0085415
+28060068	389	398	evaluated	T058	C0220825
+28060068	404	416	risk factors	T033	C0035648
+28060068	421	426	ulcer	T047	C0041582
+28060068	427	437	recurrence	T067	C0034897
+28060068	443	451	analyzed	T062	C0936012
+28060068	457	476	logistic regression	T062	C0206031
+28060068	482	492	cumulative	T080	C1511559
+28060068	493	511	risk of recurrence	T081	C2986492
+28060068	516	524	assessed	T052	C1516048
+28060068	530	551	Kaplan-Meier analysis	T081	C1720943
+28060068	557	562	ratio	T081	C0456603
+28060068	566	571	males	T032	C0086582
+28060068	575	582	females	T032	C0086287
+28060068	588	601	Mooren ulcers	T047	C0155072
+28060068	620	623	age	T032	C0001779
+28060068	635	643	patients	T101	C0030705
+28060068	644	648	aged	T032	C0001779
+28060068	671	678	younger	T079	C1254367
+28060068	679	687	patients	T101	C0030705
+28060068	692	697	males	T032	C0086582
+28060068	704	711	females	T032	C0086287
+28060068	717	727	recurrence	T067	C0034897
+28060068	739	747	patients	T101	C0030705
+28060068	752	769	bilateral disease	T033	C1511113
+28060068	773	777	eyes	T023	C0015392
+28060068	778	785	removed	T080	C0849355
+28060068	799	804	visit	T053	C0545082
+28060068	812	820	hospital	T073,T093	C0019994
+28060068	826	834	excluded	T052	C2828389
+28060068	843	851	patients	T101	C0030705
+28060068	856	874	unilateral disease	T033	C4035394
+28060068	881	891	recurrence	T067	C0034897
+28060068	905	913	patients	T101	C0030705
+28060068	936	940	eyes	T023	C0015392
+28060068	945	955	recurrence	T067	C0034897
+28060068	967	981	primary lesion	T047	C1402294
+28060068	986	990	eyes	T023	C0015392
+28060068	995	1005	recurrence	T067	C0034897
+28060068	1016	1022	months	T079	C0439231
+28060068	1029	1038	treatment	T061	C0087111
+28060068	1047	1051	eyes	T023	C0015392
+28060068	1080	1088	retained	T169	C0333118
+28060068	1089	1095	vision	T040	C0042789
+28060068	1118	1128	cumulative	T080	C1511559
+28060068	1129	1153	risk of first recurrence	T081	C2986492
+28060068	1179	1185	months	T079	C0439231
+28060068	1243	1247	Male	T032	C0086582
+28060068	1248	1251	sex	T032	C0079399
+28060068	1268	1286	surgical treatment	T061	C0543467
+28060068	1304	1317	significantly	T078	C0750502
+28060068	1318	1333	associated with	T080	C0332281
+28060068	1347	1365	risk of recurrence	T081	C2986492
+28060068	1372	1377	study	T062	C2603343
+28060068	1378	1386	provided	T052	C1999230
+28060068	1391	1415	clinical characteristics	T201	C0683325
+28060068	1420	1438	treatment outcomes	T080	C0085415
+28060068	1442	1450	patients	T101	C0030705
+28060068	1456	1465	recurrent	T079	C2945760
+28060068	1466	1479	Mooren ulcers	T047	C0155072
+28060068	1483	1488	China	T083	C0008115
+28060068	1494	1504	cumulative	T080	C1511559
+28060068	1505	1529	risk of first recurrence	T081	C2986492
+28060068	1547	1556	treatment	T061	C0087111
+28060068	1568	1572	Male	T032	C0086582
+28060068	1573	1581	patients	T101	C0030705
+28060068	1586	1594	patients	T101	C0030705
+28060068	1600	1606	severe	T080	C0205082
+28060068	1607	1613	ulcers	T047	C0041582
+28060068	1619	1627	required	T169	C1514873
+28060068	1628	1635	surgery	T061	C0543467
+28060068	1643	1652	increased	T081	C0205217
+28060068	1653	1671	risk of recurrence	T081	C2986492

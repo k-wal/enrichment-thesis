@@ -1,0 +1,62 @@
+28107427|t|Serine Phosphorylation of SLP76 Is Dispensable for T Cell Development but Modulates Helper T Cell Function
+28107427|a|The adapter protein SLP76 is a key orchestrator of T cell receptor (TCR) signal transduction. We previously identified a negative feedback loop that modulates T cell activation, involving phosphorylation of Ser376 of SLP76 by the hematopoietic progenitor kinase 1 (HPK1). However, the physiological relevance of this regulatory mechanism was still unknown. To address this question, we generated a SLP76-S376A - expressing knock-in mouse strain and investigated the effects of Ser376 mutation on T cell development and function. We report here that SLP76-S376A - expressing mice exhibit normal thymocyte development and no detectable phenotypic alterations in mature T cell subsets or other lymphoid and myeloid cell lineages. Biochemical analyses revealed that mutant T cells were hypersensitive to TCR stimulation. Indeed, phosphorylation of several signaling proteins, including SLP76 itself, phospholipase Cγ1 and the protein kinases AKT and ERK1 / 2, was increased. These modifications correlated with increased Th1-type and decreased Th2-type cytokine production by SLP76-S376A T cells, but did not result in significant changes of proliferative capacity nor activation - induced cell death susceptibility. Hence, our results reveal that SLP76-Ser376 phosphorylation does not mediate all HPK1 -dependent regulatory effects in T cells but it fine-tunes helper T cell responses.
+28107427	0	6	Serine	T103	UMLS:C0036720
+28107427	7	22	Phosphorylation	T038	UMLS:C1158886
+28107427	26	31	SLP76	T103	UMLS:C0296250
+28107427	51	69	T Cell Development	T038	UMLS:C1515126
+28107427	84	97	Helper T Cell	T017	UMLS:C0018894
+28107427	98	106	Function	T038	UMLS:C0007613
+28107427	111	126	adapter protein	T103	UMLS:C1449886
+28107427	127	132	SLP76	T103	UMLS:C0296250
+28107427	158	173	T cell receptor	T103	UMLS:C0034790
+28107427	175	178	TCR	T103	UMLS:C0034790
+28107427	180	199	signal transduction	T038	UMLS:C0037083
+28107427	266	283	T cell activation	T038	UMLS:C1155065
+28107427	295	310	phosphorylation	T038	UMLS:C1158886
+28107427	314	320	Ser376	T103	UMLS:C0036720
+28107427	324	329	SLP76	T103	UMLS:C0296250
+28107427	337	370	hematopoietic progenitor kinase 1	T103	UMLS:C0531166
+28107427	372	376	HPK1	T103	UMLS:C0531166
+28107427	505	516	SLP76-S376A	T017	UMLS:C1334333
+28107427	519	529	expressing	T038	UMLS:C0017262
+28107427	530	538	knock-in	T062	UMLS:C1517676
+28107427	539	551	mouse strain	T204	UMLS:C0026809
+28107427	584	599	Ser376 mutation	T038	UMLS:C0596611
+28107427	603	621	T cell development	T038	UMLS:C1515126
+28107427	626	634	function	T038	UMLS:C0007613
+28107427	656	667	SLP76-S376A	T017	UMLS:C1334333
+28107427	670	680	expressing	T038	UMLS:C0017262
+28107427	681	685	mice	T204	UMLS:C0026809
+28107427	701	722	thymocyte development	T038	UMLS:C1515432
+28107427	730	740	detectable	T201	UMLS:C3830527
+28107427	774	788	T cell subsets	T017	UMLS:C0080202
+28107427	798	806	lymphoid	T017	UMLS:C0024264
+28107427	811	818	myeloid	T017	UMLS:C0369715
+28107427	834	854	Biochemical analyses	T058	UMLS:C0430027
+28107427	869	875	mutant	T038	UMLS:C0596988
+28107427	876	883	T cells	T017	UMLS:C0039194
+28107427	889	903	hypersensitive	T038	UMLS:C0020517
+28107427	907	910	TCR	T103	UMLS:C0034790
+28107427	911	922	stimulation	T038	UMLS:C2259054
+28107427	932	947	phosphorylation	T038	UMLS:C1158886
+28107427	959	977	signaling proteins	T103	UMLS:C1335962
+28107427	989	994	SLP76	T103	UMLS:C0296250
+28107427	1003	1020	phospholipase Cγ1	T103	UMLS:C0753837
+28107427	1029	1048	protein kinases AKT	T103	UMLS:C0164786
+28107427	1053	1057	ERK1	T103	UMLS:C0082529
+28107427	1060	1061	2	T103	UMLS:C0170168
+28107427	1084	1097	modifications	T033	UMLS:C3840684
+28107427	1124	1132	Th1-type	T017	UMLS:C0242632
+28107427	1147	1155	Th2-type	T017	UMLS:C0242633
+28107427	1156	1175	cytokine production	T038	UMLS:C1327413
+28107427	1179	1190	SLP76-S376A	T017	UMLS:C1334333
+28107427	1191	1198	T cells	T017	UMLS:C0039194
+28107427	1245	1267	proliferative capacity	T038	UMLS:C1155046
+28107427	1259	1267	capacity	T033	UMLS:C1998319
+28107427	1272	1282	activation	T038	UMLS:C2248112
+28107427	1293	1303	cell death	T038	UMLS:C0007587
+28107427	1351	1363	SLP76-Ser376	T103	UMLS:C0296250
+28107427	1364	1379	phosphorylation	T038	UMLS:C1158886
+28107427	1401	1405	HPK1	T103	UMLS:C0531166
+28107427	1439	1446	T cells	T017	UMLS:C0039194
+28107427	1465	1478	helper T cell	T017	UMLS:C0018894

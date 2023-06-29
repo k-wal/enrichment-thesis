@@ -1,0 +1,79 @@
+27479571|t|Functional characterization of the Aspergillus nidulans glucosylceramide pathway reveals that LCB Δ8-desaturation and C9-methylation are relevant to filamentous growth, lipid raft localization and Psd1 defensin activity
+27479571|a|C8-desaturated and C9-methylated glucosylceramide (GlcCer) is a fungal -specific sphingolipid that plays an important role in the growth and virulence of many species. In this work, we investigated the contribution of Aspergillus nidulans sphingolipid Δ8-desaturase (SdeA), sphingolipid C9-methyltransferases (SmtA / SmtB) and glucosylceramide synthase (GcsA) to fungal phenotypes, sensitivity to Psd1 defensin and Galleria mellonella virulence. We showed that ΔsdeA accumulated C8-saturated and unmethylated GlcCer, while gcsA deletion impaired GlcCer synthesis. Although increased levels of unmethylated GlcCer were observed in smtA and smtB mutants, ΔsmtA and wild-type cells showed a similar 9,Me-GlcCer content, reduced by 50% in the smtB disruptant. The compromised 9,Me-GlcCer production in the ΔsmtB strain was not accompanied by reduced filamentation or defects in cell polarity. When combined with the smtA deletion, smtB repression significantly increased unmethylated GlcCer levels and compromised filamentous growth. Furthermore, sdeA and gcsA mutants displayed growth defects and raft mislocalization, which were accompanied by reduced neutral lipids levels and attenuated G. mellonella virulence in the ΔgcsA strain. Finally, ΔsdeA and ΔgcsA showed increased resistance to Psd1, suggesting that GlcCer synthesis and fungal sphingoid base structure specificities are relevant not only to differentiation but also to proper recognition by this antifungal defensin.
+27479571	35	55	Aspergillus nidulans	T004	C0004038
+27479571	56	72	glucosylceramide	T109,T123	C0017770
+27479571	73	80	pathway	T044	C1704259
+27479571	94	97	LCB	T109,T123	C0017770
+27479571	98	113	Δ8-desaturation	T044	C1158365
+27479571	118	132	C9-methylation	T044	C0025723
+27479571	149	167	filamentous growth	T043	C1156246
+27479571	169	192	lipid raft localization	T043	C1660773
+27479571	197	210	Psd1 defensin	T116,T121	C0915600
+27479571	211	219	activity	T052	C0441655
+27479571	220	269	C8-desaturated and C9-methylated glucosylceramide	T109,T123	C0017770
+27479571	271	277	GlcCer	T109,T123	C0017770
+27479571	284	290	fungal	T004	C0016832
+27479571	301	313	sphingolipid	T109	C0037900
+27479571	350	356	growth	T040	C0018270
+27479571	361	370	virulence	T038	C0042765
+27479571	379	386	species	T185	C1705920
+27479571	438	458	Aspergillus nidulans	T004	C0004038
+27479571	459	485	sphingolipid Δ8-desaturase	T116,T126	C1172420
+27479571	487	491	SdeA	T116,T126	C1172420
+27479571	494	528	sphingolipid C9-methyltransferases	T116,T126	C0025831
+27479571	530	534	SmtA	T116,T126	C0025831
+27479571	537	541	SmtB	T116,T126	C0025831
+27479571	547	572	glucosylceramide synthase	T116,T126	C0163410
+27479571	574	578	GcsA	T116,T126	C0163410
+27479571	583	589	fungal	T004	C0016832
+27479571	590	600	phenotypes	T032	C0031437
+27479571	617	630	Psd1 defensin	T116,T121	C0915600
+27479571	635	654	Galleria mellonella	T204	C0998468
+27479571	655	664	virulence	T038	C0042765
+27479571	681	686	ΔsdeA	T045	C0017260
+27479571	699	735	C8-saturated and unmethylated GlcCer	T109,T123	C0017770
+27479571	743	747	gcsA	T028	C1421319
+27479571	748	756	deletion	T045	C0017260
+27479571	757	765	impaired	T169	C0221099
+27479571	766	772	GlcCer	T109,T123	C0017770
+27479571	813	832	unmethylated GlcCer	T109,T123	C0017770
+27479571	850	854	smtA	T028	C0017337
+27479571	859	863	smtB	T028	C0017337
+27479571	864	871	mutants	T049	C0596988
+27479571	873	878	ΔsmtA	T045	C0017260
+27479571	883	892	wild-type	T028	C1883559
+27479571	893	898	cells	T025	C0007634
+27479571	916	927	9,Me-GlcCer	T109,T123	C0017770
+27479571	959	963	smtB	T028	C0017337
+27479571	964	974	disruptant	T049	C0596988
+27479571	992	1003	9,Me-GlcCer	T109,T123	C0017770
+27479571	1022	1027	ΔsmtB	T045	C0017260
+27479571	1028	1034	strain	T001	C1518614
+27479571	1066	1079	filamentation	T043	C0007613
+27479571	1083	1090	defects	T169	C0243067
+27479571	1094	1107	cell polarity	T082	C0085304
+27479571	1132	1136	smtA	T028	C0017337
+27479571	1137	1145	deletion	T045	C0017260
+27479571	1147	1151	smtB	T028	C0017337
+27479571	1152	1162	repression	T045	C0178656
+27479571	1187	1206	unmethylated GlcCer	T109,T123	C0017770
+27479571	1230	1248	filamentous growth	T043	C1156246
+27479571	1263	1267	sdeA	T028	C0017337
+27479571	1272	1276	gcsA	T028	C1421319
+27479571	1277	1284	mutants	T049	C0596988
+27479571	1295	1301	growth	T040	C0018270
+27479571	1302	1309	defects	T169	C0243067
+27479571	1314	1318	raft	T026	C1167250
+27479571	1362	1391	reduced neutral lipids levels	T033	C0243095
+27479571	1407	1420	G. mellonella	T204	C0998468
+27479571	1421	1430	virulence	T038	C0042765
+27479571	1438	1443	ΔgcsA	T045	C0017260
+27479571	1444	1450	strain	T001	C1518614
+27479571	1461	1466	ΔsdeA	T045	C0017260
+27479571	1471	1476	ΔgcsA	T045	C0017260
+27479571	1508	1512	Psd1	T116,T121	C0915600
+27479571	1530	1536	GlcCer	T109,T123	C0017770
+27479571	1551	1557	fungal	T004	C0016832
+27479571	1558	1582	sphingoid base structure	T170	C0220807
+27479571	1677	1687	antifungal	T121	C1136254
+27479571	1688	1696	defensin	T116,T121,T129	C0057256

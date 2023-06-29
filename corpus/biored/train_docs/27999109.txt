@@ -1,0 +1,48 @@
+27999109|t|A Critical Role for the Type I Interferon Receptor in Virus-Induced Autoimmune Diabetes in Rats.
+27999109|a|The pathogenesis of human type 1 diabetes, characterized by immune-mediated damage of insulin-producing b-cells of pancreatic islets, may involve viral infection. Essential components of the innate immune antiviral response, including type I interferon (IFN) and IFN receptor-mediated signaling pathways, are candidates for determining susceptibility to human type 1 diabetes. Numerous aspects of human type 1 diabetes pathogenesis are recapitulated in the LEW.1WR1 rat model. Diabetes can be induced in LEW.1WR1 weanling rats challenged with virus or with the viral mimetic polyinosinic:polycytidylic acid (poly I:C). We hypothesized that disrupting the cognate type I IFN receptor (type I IFN a/b receptor [IFNAR]) to interrupt IFN signaling would prevent or delay the development of virus-induced diabetes. We generated IFNAR1 subunit-deficient LEW.1WR1 rats using CRISPR-Cas9 (clustered regularly interspaced short palindromic repeats-associated protein 9) genome editing and confirmed functional disruption of the Ifnar1 gene. IFNAR1 deficiency significantly delayed the onset and frequency of diabetes and greatly reduced the intensity of insulitis after poly I:C treatment. The occurrence of Kilham rat virus-induced diabetes was also diminished in IFNAR1-deficient animals. These findings firmly establish that alterations in innate immunity influence the course of autoimmune diabetes and support the use of targeted strategies to limit or prevent the development of type 1 diabetes.
+27999109	24	50	Type I Interferon Receptor	GeneOrGeneProduct	288264,686326
+27999109	68	87	Autoimmune Diabetes	DiseaseOrPhenotypicFeature	D003922
+27999109	91	95	Rats	OrganismTaxon	10116
+27999109	117	122	human	OrganismTaxon	9606
+27999109	123	138	type 1 diabetes	DiseaseOrPhenotypicFeature	D003922
+27999109	183	190	insulin	GeneOrGeneProduct	3630
+27999109	243	258	viral infection	DiseaseOrPhenotypicFeature	D014777
+27999109	332	349	type I interferon	GeneOrGeneProduct	3456
+27999109	351	354	IFN	GeneOrGeneProduct	3439
+27999109	360	372	IFN receptor	GeneOrGeneProduct	3454
+27999109	451	456	human	OrganismTaxon	9606
+27999109	457	472	type 1 diabetes	DiseaseOrPhenotypicFeature	D003922
+27999109	494	499	human	OrganismTaxon	9606
+27999109	500	515	type 1 diabetes	DiseaseOrPhenotypicFeature	D003922
+27999109	563	566	rat	OrganismTaxon	10116
+27999109	574	582	Diabetes	DiseaseOrPhenotypicFeature	D003920
+27999109	619	623	rats	OrganismTaxon	10116
+27999109	672	703	polyinosinic:polycytidylic acid	ChemicalEntity	D011070
+27999109	705	713	poly I:C	ChemicalEntity	D011070
+27999109	760	779	type I IFN receptor	GeneOrGeneProduct	288264,686326
+27999109	781	804	type I IFN a/b receptor	GeneOrGeneProduct	288264,686326
+27999109	806	811	IFNAR	GeneOrGeneProduct	288264,686326
+27999109	827	830	IFN	GeneOrGeneProduct	25712
+27999109	897	905	diabetes	DiseaseOrPhenotypicFeature	D003920
+27999109	920	926	IFNAR1	GeneOrGeneProduct	288264
+27999109	954	958	rats	OrganismTaxon	10116
+27999109	1116	1122	Ifnar1	GeneOrGeneProduct	288264
+27999109	1129	1135	IFNAR1	GeneOrGeneProduct	288264
+27999109	1196	1204	diabetes	DiseaseOrPhenotypicFeature	D003920
+27999109	1242	1251	insulitis	DiseaseOrPhenotypicFeature	D007410
+27999109	1258	1266	poly I:C	ChemicalEntity	D011070
+27999109	1296	1312	Kilham rat virus	OrganismTaxon	12441
+27999109	1321	1329	diabetes	DiseaseOrPhenotypicFeature	D003920
+27999109	1353	1359	IFNAR1	GeneOrGeneProduct	288264
+27999109	1471	1490	autoimmune diabetes	DiseaseOrPhenotypicFeature	D003922
+27999109	1573	1588	type 1 diabetes	DiseaseOrPhenotypicFeature	D003922
+27999109	Association	D007410	288264	Novel
+27999109	Association	D003920	25712	Novel
+27999109	Positive_Correlation	D003920	D011070	No
+27999109	Association	D003920	686326	Novel
+27999109	Association	D003920	288264	Novel
+27999109	Association	3454	D003922	Novel
+27999109	Association	3456	D003922	Novel
+27999109	Association	686326	D003922	Novel
+27999109	Association	D003922	3630	No
+27999109	Association	288264	D003922	Novel

@@ -1,0 +1,32 @@
+28493435|t|A Fast Peak-Searching Algorithm for Ultrasonic Elastography
+28493435|a|Tissue axial strain estimation with ultrasound elastography has become a hot field in recent years. However, for keypoints tracking-based elastography algorithms, locating extrema in multimodal ultrasonic radiofrequency signals is still a challenging problem. In this paper, a new method is proposed to locate the local maxima and minima of the RF signals directly without derivation operation. This algorithm can accurately locate extrema even if disturbed peaks resulting from different noise exist. Furthermore, the new algorithm can speed up approximately 79% of the implementation process as compared with the standard cross-correlation method on the same computing platform. In addition, the elastographic signal-to-noise ratio and the contrast-to-noise ratio are also significantly improved with this new method.
+28493435	2	31	Fast Peak-Searching Algorithm	T170	C0002045
+28493435	36	59	Ultrasonic Elastography	T060	C3163956
+28493435	60	119	Tissue axial strain estimation with ultrasound elastography	T060	C2316047
+28493435	183	221	tracking-based elastography algorithms	T170	C0002045
+28493435	223	231	locating	T033	C0243095
+28493435	232	239	extrema	T080	C0205556
+28493435	254	264	ultrasonic	T169	C0220934
+28493435	265	279	radiofrequency	T070	C2347883
+28493435	280	287	signals	T067	C1710082
+28493435	311	318	problem	T033	C0033213
+28493435	351	359	proposed	T080	C1553874
+28493435	363	369	locate	T033	C0243095
+28493435	380	386	maxima	T081	C0806909
+28493435	391	397	minima	T080	C1524031
+28493435	405	407	RF	T070	C2347883
+28493435	408	415	signals	T067	C1710082
+28493435	433	443	derivation	T080	C1441547
+28493435	444	453	operation	T052	C3241922
+28493435	460	469	algorithm	T170	C0002045
+28493435	485	491	locate	T033	C0243095
+28493435	492	499	extrema	T080	C0205556
+28493435	518	523	peaks	T080	C0444505
+28493435	549	554	noise	T067	C0028263
+28493435	583	592	algorithm	T170	C0002045
+28493435	631	645	implementation	T052	C1708476
+28493435	657	665	compared	T052	C1707455
+28493435	675	708	standard cross-correlation method	T062	C0242481
+28493435	721	730	computing	T052	C1880157
+28493435	772	793	signal-to-noise ratio	T081	C2986823
+28493435	802	825	contrast-to-noise ratio	T081	C0392762

@@ -1,0 +1,106 @@
+27196563|t|Low serum vitamin D is associated with higher cortical porosity in elderly men
+27196563|a|Bone loss at peripheral sites in the elderly is mainly cortical and involves increased cortical porosity. However, an association between bone loss at these sites and 25-hydroxyvitamin D has not been reported. To investigate the association between serum levels of 25-hydroxyvitamin D, bone microstructure and areal bone mineral density (BMD) in elderly men. A population -based cohort of 444 elderly men (mean ± SD age 80.2 ± 3.5 years) was investigated. Bone microstructure was measured by high-resolution peripheral quantitative computed tomography, areal BMD by dual-energy X-ray absorptiometry and serum 25-hydroxyvitamin D and parathyroid hormone levels by immunoassay. Mean cortical porosity at the distal tibia was 14.7% higher (12.5 ± 4.3% vs. 10.9 ± 4.1%, P < 0.05) whilst cortical volumetric BMD, area, trabecular bone volume fraction and femoral neck areal BMD were lower in men in the lowest quartile of vitamin D levels compared to the highest. In men with vitamin D deficiency (<25 nmol L(-1)) or insufficiency [25-49 nmol L(-1), in combination with an elevated serum level of parathyroid hormone (>6.8 pmol L(-1))], cortical porosity was 17.2% higher than in vitamin D - sufficient men (P < 0.01). A linear regression model including age, weight, height, daily calcium intake, physical activity, smoking vitamin D supplementation and parathyroid hormone showed that 25-hydroxyvitamin D independently predicted cortical porosity (standardized β = -0.110, R(2) = 1.1%, P = 0.024), area (β = 0.123, R(2) = 1.4%, P = 0.007) and cortical volumetric BMD (β = 0.125, R(2) = 1.4%, P = 0.007) of the tibia as well as areal BMD of the femoral neck (β = 0.102, R(2) = 0.9%, P = 0.04). Serum vitamin D is associated with cortical porosity, area and density, indicating that bone fragility as a result of low vitamin D could be due to changes in cortical bone microstructure and geometry.
+27196563	0	3	Low	T080	C0205251
+27196563	4	9	serum	T031	C0229671
+27196563	10	19	vitamin D	T109,T121,T127	C0042866
+27196563	23	38	associated with	T080	C0332281
+27196563	46	54	cortical	T023	C0222652
+27196563	55	63	porosity	T080	C0080037
+27196563	67	74	elderly	T098	C0001792
+27196563	75	78	men	T098	C0025266
+27196563	79	88	Bone loss	T047	C0029453
+27196563	92	102	peripheral	T082	C0205100
+27196563	103	108	sites	T029	C1515974
+27196563	116	123	elderly	T098	C0001792
+27196563	134	142	cortical	T023	C0222652
+27196563	156	165	increased	T081	C0205217
+27196563	166	174	cortical	T023	C0222652
+27196563	175	183	porosity	T080	C0080037
+27196563	197	208	association	T080	C0439849
+27196563	217	226	bone loss	T047	C0029453
+27196563	236	241	sites	T029	C1515974
+27196563	246	265	25-hydroxyvitamin D	T109,T127	C0535968
+27196563	292	303	investigate	T169	C1292732
+27196563	308	319	association	T080	C0439849
+27196563	328	333	serum	T031	C0229671
+27196563	334	363	levels of 25-hydroxyvitamin D	T059	C2984945
+27196563	365	384	bone microstructure	T023	C0262950
+27196563	389	415	areal bone mineral density	T201	C0005938
+27196563	417	420	BMD	T201	C0005938
+27196563	425	432	elderly	T098	C0001792
+27196563	433	436	men	T098	C0025266
+27196563	440	450	population	T098	C1257890
+27196563	458	464	cohort	T098	C0599755
+27196563	472	479	elderly	T098	C0001792
+27196563	480	483	men	T098	C0025266
+27196563	495	498	age	T032	C0001779
+27196563	510	515	years	T079	C1510829
+27196563	521	533	investigated	T169	C1292732
+27196563	535	554	Bone microstructure	T023	C0262950
+27196563	571	630	high-resolution peripheral quantitative computed tomography	T060	C0040405
+27196563	632	641	areal BMD	T201	C0005938
+27196563	645	677	dual-energy X-ray absorptiometry	T060	C1510486
+27196563	682	687	serum	T031	C0229671
+27196563	688	707	25-hydroxyvitamin D	T059	C2984945
+27196563	712	738	parathyroid hormone levels	T059	C0202159
+27196563	742	753	immunoassay	T059	C0020980
+27196563	755	759	Mean	T081	C0444504
+27196563	760	768	cortical	T023	C0222652
+27196563	769	777	porosity	T080	C0080037
+27196563	785	797	distal tibia	T023	C0588200
+27196563	862	870	cortical	T023	C0222652
+27196563	871	885	volumetric BMD	T201	C0005938
+27196563	887	891	area	T082	C0205146
+27196563	893	908	trabecular bone	T024	C0222660
+27196563	909	924	volume fraction	T081	C0560268
+27196563	929	941	femoral neck	T023	C0015815
+27196563	942	951	areal BMD	T201	C0005938
+27196563	966	969	men	T098	C0025266
+27196563	984	992	quartile	T080	C2828255
+27196563	996	1012	vitamin D levels	T059	C0919758
+27196563	1041	1044	men	T098	C0025266
+27196563	1050	1070	vitamin D deficiency	T047	C0042870
+27196563	1091	1104	insufficiency	T169	C0231179
+27196563	1147	1155	elevated	T080	C3163633
+27196563	1156	1161	serum	T031	C0229671
+27196563	1162	1190	level of parathyroid hormone	T059	C0202159
+27196563	1211	1219	cortical	T023	C0222652
+27196563	1220	1228	porosity	T080	C0080037
+27196563	1254	1263	vitamin D	T109,T121,T127	C0042866
+27196563	1266	1276	sufficient	T080	C0205410
+27196563	1277	1280	men	T098	C0025266
+27196563	1295	1312	linear regression	T081	C0023733
+27196563	1313	1318	model	T170	C3161035
+27196563	1329	1332	age	T032	C0001779
+27196563	1334	1340	weight	T032	C0005910
+27196563	1342	1348	height	T032	C0005890
+27196563	1350	1370	daily calcium intake	T061	C2183363
+27196563	1372	1389	physical activity	T056	C0026606
+27196563	1391	1398	smoking	T055	C0037369
+27196563	1399	1408	vitamin D	T109,T121,T127	C0042866
+27196563	1409	1424	supplementation	T121	C0302837
+27196563	1429	1448	parathyroid hormone	T116,T121,T125	C0030520
+27196563	1461	1480	25-hydroxyvitamin D	T109,T127	C0535968
+27196563	1505	1513	cortical	T023	C0222652
+27196563	1514	1522	porosity	T080	C0080037
+27196563	1574	1578	area	T082	C0205146
+27196563	1619	1627	cortical	T023	C0222652
+27196563	1628	1642	volumetric BMD	T201	C0005938
+27196563	1686	1691	tibia	T023	C0040184
+27196563	1703	1712	areal BMD	T201	C0005938
+27196563	1720	1732	femoral neck	T023	C0015815
+27196563	1769	1774	Serum	T031	C0229671
+27196563	1775	1784	vitamin D	T109,T121,T127	C0042866
+27196563	1788	1803	associated with	T080	C0332281
+27196563	1804	1812	cortical	T023	C0222652
+27196563	1813	1821	porosity	T080	C0080037
+27196563	1823	1827	area	T082	C0205146
+27196563	1832	1839	density	T201	C0005938
+27196563	1857	1861	bone	T023	C0262950
+27196563	1862	1871	fragility	T049	C0302113
+27196563	1887	1890	low	T080	C0205251
+27196563	1891	1900	vitamin D	T109,T121,T127	C0042866
+27196563	1917	1924	changes	T169	C0392747
+27196563	1928	1936	cortical	T023	C0222652
+27196563	1937	1956	bone microstructure	T023	C0262950
+27196563	1961	1969	geometry	T082	C0678594

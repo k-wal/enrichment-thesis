@@ -1,0 +1,63 @@
+24288432|t|Association of a FGFR-4 gene polymorphism with bronchopulmonary dysplasia and neonatal respiratory distress.
+24288432|a|BACKGROUND: Bronchopulmonary dysplasia (BPD) is the most common chronic lung disease of premature birth, characterized by impaired alveolar development and inflammation. Pathomechanisms contributing to BPD are poorly understood. However, it is assumed that genetic factors predispose to BPD and other pulmonary diseases of preterm neonates, such as neonatal respiratory distress syndrome (RDS). For association studies, genes upregulated during alveolarization are major candidates for genetic analysis, for example, matrix metalloproteinases (MMPs) and fibroblast growth factors (FGFs) and their receptors (FGFR). OBJECTIVE: Determining genetic risk variants in a Caucasian population of premature neonates with BPD and RDS. Methods. We genotyped 27 polymorphisms within 14 candidate genes via restriction fragment length polymorphism (RFLP): MMP-1, -2, -9, and -12, -16, FGF receptors 2 and 4, FGF-2, -3, -4, -7, and -18, Signal-Regulatory Protein a (SIRPA) and Thyroid Transcription Factor-1 (TTF-1). RESULTS: Five single nucleotide polymorphisms (SNPs) in MMP-9, MMP-12, FGFR-4, FGF-3, and FGF-7 are associated (P < 0.05) with RDS, defined as surfactant application within the first 24 hours after birth. One of them, in FGFR-4 (rs1966265), is associated with both RDS (P = 0.003) and BPD (P = 0.023). CONCLUSION: rs1966265 in FGF receptor 4 is a possible genetic key variant in alveolar diseases of preterm newborns.
+24288432	17	23	FGFR-4	GeneOrGeneProduct	2264
+24288432	47	73	bronchopulmonary dysplasia	DiseaseOrPhenotypicFeature	D001997
+24288432	78	107	neonatal respiratory distress	DiseaseOrPhenotypicFeature	D012127
+24288432	121	147	Bronchopulmonary dysplasia	DiseaseOrPhenotypicFeature	D001997
+24288432	149	152	BPD	DiseaseOrPhenotypicFeature	D001997
+24288432	181	193	lung disease	DiseaseOrPhenotypicFeature	D008171
+24288432	197	212	premature birth	DiseaseOrPhenotypicFeature	D047928
+24288432	231	260	impaired alveolar development	DiseaseOrPhenotypicFeature	D008171
+24288432	265	277	inflammation	DiseaseOrPhenotypicFeature	D007249
+24288432	311	314	BPD	DiseaseOrPhenotypicFeature	D001997
+24288432	396	399	BPD	DiseaseOrPhenotypicFeature	D001997
+24288432	410	428	pulmonary diseases	DiseaseOrPhenotypicFeature	D008171
+24288432	458	496	neonatal respiratory distress syndrome	DiseaseOrPhenotypicFeature	D012127
+24288432	498	501	RDS	DiseaseOrPhenotypicFeature	D012127
+24288432	626	651	matrix metalloproteinases	GeneOrGeneProduct	4312,4313,4318,4321,4325
+24288432	653	657	MMPs	GeneOrGeneProduct	4312,4313,4318,4321,4325
+24288432	663	688	fibroblast growth factors	GeneOrGeneProduct	2247,2248,2249,2252,8817
+24288432	690	694	FGFs	GeneOrGeneProduct	2247,2248,2249,2252,8817
+24288432	717	721	FGFR	GeneOrGeneProduct	2263,2264
+24288432	822	825	BPD	DiseaseOrPhenotypicFeature	D001997
+24288432	830	833	RDS	DiseaseOrPhenotypicFeature	D012127
+24288432	953	980	MMP-1, -2, -9, and -12, -16	GeneOrGeneProduct	4312,4313,4318,4321,4325
+24288432	982	1003	FGF receptors 2 and 4	GeneOrGeneProduct	2263,2264
+24288432	1005	1031	FGF-2, -3, -4, -7, and -18	GeneOrGeneProduct	2247,2248,2249,2252,8817
+24288432	1033	1060	Signal-Regulatory Protein a	GeneOrGeneProduct	140885
+24288432	1062	1067	SIRPA	GeneOrGeneProduct	140885
+24288432	1073	1103	Thyroid Transcription Factor-1	GeneOrGeneProduct	7080
+24288432	1105	1110	TTF-1	GeneOrGeneProduct	7080
+24288432	1169	1174	MMP-9	GeneOrGeneProduct	4318
+24288432	1176	1182	MMP-12	GeneOrGeneProduct	4321
+24288432	1184	1190	FGFR-4	GeneOrGeneProduct	2264
+24288432	1192	1197	FGF-3	GeneOrGeneProduct	2248
+24288432	1203	1208	FGF-7	GeneOrGeneProduct	2252
+24288432	1240	1243	RDS	DiseaseOrPhenotypicFeature	D012127
+24288432	1334	1340	FGFR-4	GeneOrGeneProduct	2264
+24288432	1342	1351	rs1966265	SequenceVariant	rs1966265
+24288432	1378	1381	RDS	DiseaseOrPhenotypicFeature	D012127
+24288432	1398	1401	BPD	DiseaseOrPhenotypicFeature	D001997
+24288432	1427	1436	rs1966265	SequenceVariant	rs1966265
+24288432	1440	1454	FGF receptor 4	GeneOrGeneProduct	2264
+24288432	1492	1509	alveolar diseases	DiseaseOrPhenotypicFeature	D002282
+24288432	Positive_Correlation	rs1966265	D002282	Novel
+24288432	Positive_Correlation	rs1966265	D001997	Novel
+24288432	Positive_Correlation	rs1966265	D012127	Novel
+24288432	Association	4321	D012127	Novel
+24288432	Association	4318	D012127	Novel
+24288432	Bind	8817	2263	No
+24288432	Bind	8817	2264	No
+24288432	Bind	2252	2263	No
+24288432	Association	2252	D012127	Novel
+24288432	Bind	2252	2264	No
+24288432	Bind	2249	2263	No
+24288432	Bind	2249	2264	No
+24288432	Bind	2248	2263	No
+24288432	Association	2248	D012127	Novel
+24288432	Bind	2248	2264	No
+24288432	Bind	2247	2263	No
+24288432	Bind	2247	2264	No
+24288432	Association	2264	D002282	Novel
+24288432	Association	2264	D001997	Novel
+24288432	Association	2264	D012127	Novel

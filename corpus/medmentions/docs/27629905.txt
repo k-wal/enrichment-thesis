@@ -1,0 +1,91 @@
+27629905|t|Clinical Significance of Commensal Gram-Positive Rods Routinely Isolated from Patient Samples
+27629905|a|Commensal bacteria from the skin and mucosal surfaces are routinely isolated from patient samples and considered contaminants. The majority of these isolates are catalase - positive Gram-positive rods from multiple genera routinely classified as diphtheroids. These organisms can be seen upon Gram staining of clinical specimens or can be isolated as the predominant or pure species in culture, raising a priori suspicion of a possible involvement in infection. With the development and adoption of matrix-assisted laser desorption ionization-time of flight mass spectrometry (MALDI-TOF MS), suspicious isolates are now routinely identified to the species level. In this study, we performed a retrospective data review (2012 to 2015) and utilized site-specific laboratory criteria and chart reviews to identify species within the diphtheroid classification representative of true infection versus contamination. Our data set included 762 isolates from 13 genera constituting 41 bacterial species. Only 18% represented true infection, and 82% were deemed contaminants. Clinically significant isolates were identified in anaerobic wounds (18%), aerobic wounds (30%), blood (5.5%), urine (22%), cerebrospinal fluid (24%), ophthalmologic cultures (8%), and sterile sites (20%). Organisms deemed clinically significant included multiple Actinomyces species in wounds, Propionibacterium species in joints and cerebrospinal fluid associated with central nervous system hardware, Corynebacterium kroppenstedtii (100%) in breast, and Corynebacterium striatum in multiple sites. Novel findings include clinically significant urinary tract infections by Actinomyces neuii (21%) and Corynebacterium aurimucosum (21%). Taken together, these findings indicate that species - level identification of diphtheroids isolated with a priori suspicion of infection is essential to accurately determine whether an isolate belongs to a species associated with specific types of infection.
+27629905	0	21	Clinical Significance	T033	C2826293
+27629905	25	34	Commensal	T169	C0231202
+27629905	35	53	Gram-Positive Rods	T007	C0085498
+27629905	64	72	Isolated	T169	C0205409
+27629905	78	85	Patient	T101	C0030705
+27629905	86	93	Samples	T077	C2347026
+27629905	94	103	Commensal	T169	C0231202
+27629905	104	112	bacteria	T007	C0004611
+27629905	122	126	skin	T022	C1123023
+27629905	131	147	mucosal surfaces	T024	C0026724
+27629905	162	170	isolated	T169	C0205409
+27629905	176	183	patient	T101	C0030705
+27629905	184	191	samples	T077	C2347026
+27629905	207	219	contaminants	T001	C0450254
+27629905	243	251	isolates	T123	C1764827
+27629905	256	264	catalase	T116,T126	C0007367
+27629905	267	275	positive	T033	C1446409
+27629905	276	294	Gram-positive rods	T007	C0085498
+27629905	309	315	genera	T185	C1708235
+27629905	340	352	diphtheroids	T007	C0302285
+27629905	360	369	organisms	T001	C0029235
+27629905	387	400	Gram staining	T059	C0200966
+27629905	404	422	clinical specimens	T059	C0200344
+27629905	433	441	isolated	T169	C0205409
+27629905	449	460	predominant	T080	C1542147
+27629905	469	476	species	T185	C1705920
+27629905	480	487	culture	T059	C0430402
+27629905	545	554	infection	T046	C3714514
+27629905	593	669	matrix-assisted laser desorption ionization-time of flight mass spectrometry	T059	C0282597
+27629905	671	683	MALDI-TOF MS	T059	C0282597
+27629905	697	705	isolates	T123	C1764827
+27629905	742	749	species	T185	C1705920
+27629905	750	755	level	T080	C0441889
+27629905	787	812	retrospective data review	T062	C0035363
+27629905	841	854	site-specific	T082	C0449604
+27629905	855	865	laboratory	T073,T093	C0022877
+27629905	866	874	criteria	T078	C0243161
+27629905	879	892	chart reviews	T058	C0541653
+27629905	905	912	species	T185	C1705920
+27629905	924	935	diphtheroid	T007	C0302285
+27629905	936	950	classification	T185	C0008902
+27629905	969	983	true infection	T046	C3714514
+27629905	991	1004	contamination	T078	C2349974
+27629905	1010	1018	data set	T170	C0150098
+27629905	1032	1040	isolates	T123	C1764827
+27629905	1049	1055	genera	T185	C1708235
+27629905	1072	1089	bacterial species	T007	C0004611
+27629905	1112	1126	true infection	T046	C3714514
+27629905	1148	1160	contaminants	T001	C0450254
+27629905	1162	1184	Clinically significant	T033	C2826293
+27629905	1185	1193	isolates	T123	C1764827
+27629905	1213	1229	anaerobic wounds	T059	C1254390
+27629905	1237	1251	aerobic wounds	T059	C1254390
+27629905	1259	1264	blood	T031	C0178913
+27629905	1273	1278	urine	T031	C1610733
+27629905	1286	1305	cerebrospinal fluid	T031	C1292530
+27629905	1313	1327	ophthalmologic	T169	C0205481
+27629905	1328	1336	cultures	T059	C0430402
+27629905	1347	1354	sterile	T080	C0232920
+27629905	1355	1360	sites	T082	C0205145
+27629905	1368	1377	Organisms	T001	C0029235
+27629905	1385	1407	clinically significant	T033	C2826293
+27629905	1426	1445	Actinomyces species	T007	C0001250
+27629905	1449	1455	wounds	T037	C0043250
+27629905	1457	1482	Propionibacterium species	T007	C1295872
+27629905	1486	1492	joints	T030	C0022417
+27629905	1497	1516	cerebrospinal fluid	T031	C0007806
+27629905	1533	1564	central nervous system hardware	T022	C3714787
+27629905	1566	1596	Corynebacterium kroppenstedtii	T007	C1077201
+27629905	1607	1613	breast	T023	C0006141
+27629905	1619	1643	Corynebacterium striatum	T007	C0315183
+27629905	1647	1655	multiple	T081	C0439064
+27629905	1656	1661	sites	T082	C0205145
+27629905	1669	1677	findings	T033	C0243095
+27629905	1686	1708	clinically significant	T033	C2826293
+27629905	1709	1733	urinary tract infections	T047	C0042029
+27629905	1737	1754	Actinomyces neuii	T007	C1004280
+27629905	1765	1792	Corynebacterium aurimucosum	T007	C1197463
+27629905	1822	1830	findings	T033	C0243095
+27629905	1845	1852	species	T185	C1705920
+27629905	1855	1860	level	T080	C0441889
+27629905	1861	1875	identification	T059	C1982072
+27629905	1879	1891	diphtheroids	T007	C0302285
+27629905	1892	1900	isolated	T169	C0205409
+27629905	1928	1937	infection	T046	C3714514
+27629905	1986	1993	isolate	T123	C1764827
+27629905	2007	2014	species	T185	C1705920
+27629905	2031	2045	specific types	T080	C0205369
+27629905	2049	2058	infection	T046	C3714514

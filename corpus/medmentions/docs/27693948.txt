@@ -1,0 +1,88 @@
+27693948|t|Molecular simulation study on concentration effects of rofecoxib with POPC bilayer
+27693948|a|The interactions between rofecoxib and POPC (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine) bilayer were studied using all-atom molecular dynamics simulation method. Four POPC bilayer systems with different number of rofecoxib molecules were constructed to simulate different drug concentration. The free energy of rofecoxib passing across pure POPC bilayer has two minima (at z ∼1.2nm or 1.6nm). As for the high concentration model, the minimum of the free energy profile slightly shifts to the bilayer center. Moreover, the energy change from bulk water to POPC bilayer increases while the central barrier to cross the hydrophobic core of bilayer slightly decreases, suggesting that increasing drug concentration makes it favorable for rofecoxib to partition into the bilayer and easier to pass across bialyer center. Energy analysis show that the stabilization between the selected rofecoxib and other pre-inserted rofecoxib molecule is mainly due to van der Waals interaction energy. The predicted permeability of rofecoxib in high concentration model slightly weakens as compared with low concentration model.
+27693948	0	20	Molecular simulation	T066	C2717775
+27693948	21	26	study	T062	C2603343
+27693948	30	43	concentration	T081	C1446561
+27693948	44	54	effects of	T080	C1704420
+27693948	55	64	rofecoxib	T109,T121	C0762662
+27693948	70	74	POPC	T109,T123	C0044576
+27693948	75	82	bilayer	T026	C0023768
+27693948	87	99	interactions	T044	C0687133
+27693948	108	117	rofecoxib	T109,T121	C0762662
+27693948	122	126	POPC	T109,T123	C0044576
+27693948	127	177	(1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine)	T109,T123	C0044576
+27693948	178	185	bilayer	T026	C0023768
+27693948	191	198	studied	T062	C2603343
+27693948	199	204	using	T169	C1524063
+27693948	205	243	all-atom molecular dynamics simulation	T066	C2717775
+27693948	244	250	method	T170	C0025663
+27693948	257	261	POPC	T109,T123	C0044576
+27693948	262	269	bilayer	T026	C0023768
+27693948	270	277	systems	T169	C0449913
+27693948	283	292	different	T080	C1705242
+27693948	293	299	number	T081	C0237753
+27693948	303	312	rofecoxib	T109,T121	C0762662
+27693948	313	322	molecules	T167	C0567416
+27693948	328	339	constructed	T169	C0205431
+27693948	343	351	simulate	T080	C1883725
+27693948	352	361	different	T080	C1705242
+27693948	362	366	drug	T121	C1254351
+27693948	367	380	concentration	T081	C1446561
+27693948	386	397	free energy	T070	C0678591
+27693948	401	410	rofecoxib	T109,T121	C0762662
+27693948	411	418	passing	T077	C2828360
+27693948	426	430	pure	T080	C0205556
+27693948	431	435	POPC	T109,T123	C0044576
+27693948	436	443	bilayer	T026	C0023768
+27693948	452	458	minima	T080	C1524031
+27693948	494	498	high	T080	C0205250
+27693948	499	512	concentration	T081	C1446561
+27693948	513	518	model	T170	C0026344
+27693948	524	531	minimum	T080	C1524031
+27693948	539	550	free energy	T070	C0678591
+27693948	582	589	bilayer	T026	C0023768
+27693948	590	596	center	T082	C0205099
+27693948	612	625	energy change	UnknownType	C0678592
+27693948	631	641	bulk water	T121	C3663211
+27693948	645	649	POPC	T109,T123	C0044576
+27693948	650	657	bilayer	T026	C0023768
+27693948	658	667	increases	T169	C0442805
+27693948	678	685	central	T082	C0205099
+27693948	686	693	barrier	T046	C0028778
+27693948	697	702	cross	T077	C2828360
+27693948	707	723	hydrophobic core	T120	C1254355
+27693948	727	734	bilayer	T026	C0023768
+27693948	735	743	slightly	T080	C0750482
+27693948	744	753	decreases	T081	C0547047
+27693948	755	765	suggesting	T078	C1705535
+27693948	771	781	increasing	T169	C0442808
+27693948	782	786	drug	T121	C1254351
+27693948	787	800	concentration	T081	C1446561
+27693948	810	819	favorable	T033	C0278250
+27693948	824	833	rofecoxib	T109,T121	C0762662
+27693948	837	846	partition	T169	C1534709
+27693948	856	863	bilayer	T026	C0023768
+27693948	878	882	pass	T077	C2828360
+27693948	890	897	bialyer	T026	C0023768
+27693948	898	904	center	T082	C0205099
+27693948	906	912	Energy	T081	C1442080
+27693948	913	921	analysis	T062	C0936012
+27693948	936	949	stabilization	T080	C0205360
+27693948	962	970	selected	T052	C1707391
+27693948	971	980	rofecoxib	T109,T121	C0762662
+27693948	991	1003	pre-inserted	T169	C1883719
+27693948	1004	1013	rofecoxib	T109,T121	C0762662
+27693948	1014	1022	molecule	T167	C0567416
+27693948	1040	1065	van der Waals interaction	T067	C2346563
+27693948	1066	1072	energy	T081	C1442080
+27693948	1078	1087	predicted	T078	C0681842
+27693948	1088	1100	permeability	T070	C0031164
+27693948	1104	1113	rofecoxib	T109,T121	C0762662
+27693948	1117	1121	high	T080	C0205250
+27693948	1122	1135	concentration	T081	C1446561
+27693948	1136	1141	model	T170	C0026344
+27693948	1151	1158	weakens	T080	C1762617
+27693948	1162	1170	compared	T052	C1707455
+27693948	1176	1179	low	T080	C0205251
+27693948	1180	1193	concentration	T081	C1446561
+27693948	1194	1199	model	T170	C0026344

@@ -1,0 +1,42 @@
+16731636|t|Enhanced isoproterenol-induced cardiac hypertrophy in transgenic rats with low brain angiotensinogen.
+16731636|a|We have previously shown that a permanent deficiency in the brain renin-angiotensin system (RAS) may increase the sensitivity of the baroreflex control of heart rate. In this study we aimed at studying the involvement of the brain RAS in the cardiac reactivity to the beta-adrenoceptor (beta-AR) agonist isoproterenol (Iso). Transgenic rats with low brain angiotensinogen (TGR) were used. In isolated hearts, Iso induced a significantly greater increase in left ventricular (LV) pressure and maximal contraction (+dP/dt(max)) in the TGR than in the Sprague-Dawley (SD) rats. LV hypertrophy induced by Iso treatment was significantly higher in TGR than in SD rats (in g LV wt/100 g body wt, 0.28 +/- 0.004 vs. 0.24 +/- 0.004, respectively). The greater LV hypertrophy in TGR rats was associated with more pronounced downregulation of beta-AR and upregulation of LV beta-AR kinase-1 mRNA levels compared with those in SD rats. The decrease in the heart rate (HR) induced by the beta-AR antagonist metoprolol in conscious rats was significantly attenuated in TGR compared with SD rats (-9.9 +/- 1.7% vs. -18.1 +/- 1.5%), whereas the effect of parasympathetic blockade by atropine on HR was similar in both strains. These results indicate that TGR are more sensitive to beta-AR agonist-induced cardiac inotropic response and hypertrophy, possibly due to chronically low sympathetic outflow directed to the heart.
+16731636	9	22	isoproterenol	ChemicalEntity	D007545
+16731636	31	50	cardiac hypertrophy	DiseaseOrPhenotypicFeature	D006332
+16731636	65	69	rats	OrganismTaxon	10116
+16731636	85	100	angiotensinogen	GeneOrGeneProduct	24179
+16731636	168	173	renin	GeneOrGeneProduct	24715
+16731636	174	185	angiotensin	GeneOrGeneProduct	24179
+16731636	370	387	beta-adrenoceptor	GeneOrGeneProduct	24925
+16731636	389	396	beta-AR	GeneOrGeneProduct	24925
+16731636	406	419	isoproterenol	ChemicalEntity	D007545
+16731636	421	424	Iso	ChemicalEntity	D007545
+16731636	438	442	rats	OrganismTaxon	10116
+16731636	458	473	angiotensinogen	GeneOrGeneProduct	24179
+16731636	511	514	Iso	ChemicalEntity	D007545
+16731636	671	675	rats	OrganismTaxon	10116
+16731636	677	691	LV hypertrophy	DiseaseOrPhenotypicFeature	D006332
+16731636	703	706	Iso	ChemicalEntity	D007545
+16731636	760	764	rats	OrganismTaxon	10116
+16731636	854	868	LV hypertrophy	DiseaseOrPhenotypicFeature	D006332
+16731636	876	880	rats	OrganismTaxon	10116
+16731636	935	942	beta-AR	GeneOrGeneProduct	24925
+16731636	966	982	beta-AR kinase-1	GeneOrGeneProduct	25238
+16731636	1021	1025	rats	OrganismTaxon	10116
+16731636	1078	1085	beta-AR	GeneOrGeneProduct	24925
+16731636	1097	1107	metoprolol	ChemicalEntity	D008790
+16731636	1121	1125	rats	OrganismTaxon	10116
+16731636	1179	1183	rats	OrganismTaxon	10116
+16731636	1270	1278	atropine	ChemicalEntity	D001285
+16731636	1368	1375	beta-AR	GeneOrGeneProduct	24925
+16731636	1423	1434	hypertrophy	DiseaseOrPhenotypicFeature	D006984
+16731636	Association	24715	24179	No
+16731636	Association	24925	D006984	Novel
+16731636	Negative_Correlation	24925	D008790	No
+16731636	Association	24925	24179	No
+16731636	Positive_Correlation	24925	D007545	No
+16731636	Association	24179	D006984	Novel
+16731636	Association	24179	D006332	No
+16731636	Association	24179	D007545	Novel
+16731636	Association	D006332	25238	Novel
+16731636	Association	D006332	24925	Novel
+16731636	Positive_Correlation	D007545	D006332	Novel

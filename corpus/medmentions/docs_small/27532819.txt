@@ -1,0 +1,43 @@
+27532819|t|Self-Cloning CRISPR CRISPR/Cas9 - gene editing has emerged as a revolutionary technology to easily modify specific genomic loci by designing complementary sgRNA sequences and introducing these into cells along with Cas9. Self-cloning CRISPR/Cas9 (scCRISPR) uses a self-cleaving palindromic sgRNA plasmid (sgPal) that recombines with short PCR - amplified site-specific sgRNA sequences within the target cell by homologous recombination to circumvent the process of sgRNA plasmid construction. Through this mechanism, scCRISPR enables gene editing within 2 hr once sgRNA oligos are available, with high efficiency equivalent to conventional sgRNA targeting: >90% gene knockout in both mouse and human embryonic stem cells and cancer cell lines. Furthermore, using PCR-based addition of short homology arms, we achieve efficient site-specific knock-in of transgenes such as GFP without traditional plasmid cloning or genome-integrated selection cassette (2% to 4% knock-in rate). The methods in this paper describe the most rapid and efficient means of CRISPR gene editing. © 2016 by John Wiley & Sons, Inc.
+27532819|a|Journal Article 2016-08-18 00:00:00
+27532819	20	31	CRISPR/Cas9	T038	UMLS:C3658355
+27532819	34	46	gene editing	T062	UMLS:C4277689
+27532819	115	127	genomic loci	T017	UMLS:C0678933
+27532819	141	154	complementary	T103	UMLS:C0056208
+27532819	155	170	sgRNA sequences	T103	UMLS:C0082774
+27532819	198	203	cells	T017	UMLS:C0007634
+27532819	215	219	Cas9	T017	UMLS:C0017337
+27532819	221	245	Self-cloning CRISPR/Cas9	T017	UMLS:C3661477
+27532819	247	255	scCRISPR	T017	UMLS:C3661477
+27532819	264	289	self-cleaving palindromic	T103	UMLS:C2350254
+27532819	290	303	sgRNA plasmid	T103	UMLS:C0082774
+27532819	305	310	sgPal	T103	UMLS:C0082774
+27532819	339	342	PCR	T062	UMLS:C0032520
+27532819	345	354	amplified	T038	UMLS:C0017256
+27532819	355	384	site-specific sgRNA sequences	T082	UMLS:C0314659
+27532819	403	407	cell	T017	UMLS:C0007634
+27532819	411	435	homologous recombination	T038	UMLS:C0599773
+27532819	465	478	sgRNA plasmid	T103	UMLS:C0082774
+27532819	517	525	scCRISPR	T017	UMLS:C3661477
+27532819	534	546	gene editing	T062	UMLS:C4277689
+27532819	534	546	gene editing	T062	UMLS:C4277689
+27532819	564	569	sgRNA	T103	UMLS:C0082774
+27532819	570	576	oligos	T103	UMLS:C0028953
+27532819	640	645	sgRNA	T103	UMLS:C0082774
+27532819	662	666	gene	T017	UMLS:C0017337
+27532819	667	675	knockout	T038	UMLS:C1522225
+27532819	684	689	mouse	T017	UMLS:C4042879
+27532819	694	720	human embryonic stem cells	T017	UMLS:C1171346
+27532819	725	742	cancer cell lines	T017	UMLS:C0085983
+27532819	763	772	PCR-based	T062	UMLS:C0032520
+27532819	791	804	homology arms	T017	UMLS:C1334043
+27532819	827	849	site-specific knock-in	T062	UMLS:C1517676
+27532819	853	863	transgenes	T017	UMLS:C0282641
+27532819	872	875	GFP	T103	UMLS:C0120285
+27532819	896	903	plasmid	T103	UMLS:C0032136
+27532819	904	911	cloning	T058	UMLS:C0598888
+27532819	915	951	genome-integrated selection cassette	T017	UMLS:C0017337
+27532819	962	970	knock-in	T062	UMLS:C1517676
+27532819	982	989	methods	T170	UMLS:C0025663
+27532819	1051	1057	CRISPR	T103	UMLS:C3658200
+27532819	1058	1070	gene editing	T062	UMLS:C4277689

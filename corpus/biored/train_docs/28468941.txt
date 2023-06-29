@@ -1,0 +1,59 @@
+28468941|t|Aberrant caveolin-1-mediated Smad signaling and proliferation identified by analysis of adenine 474 deletion mutation (c.474delA) in patient fibroblasts: a new perspective on the mechanism of pulmonary hypertension.
+28468941|a|A heterozygous caveolin-1 c.474delA mutation has been identified in a family with heritable pulmonary arterial hypertension (PAH). This frameshift mutation leads to a caveolin-1 protein that contains all known functional domains but has a change in only the final 20 amino acids of the C-terminus. Here we studied how this mutation alters caveolin-1 function, using patient-derived fibroblasts. Transmission electron microscopy showed that fibroblasts carrying the c.474delA mutation form typical caveolae. Expression of mutated caveolin-1 in caveolin-1-null mouse fibroblasts failed to induce formation of caveolae due to retention of the mutated protein in the endoplasmic reticulum. However, coexpression of wild-type caveolin-1 with mutated caveolin-1 restored the ability to form caveolae. Importantly, fibroblasts carrying the mutation showed twofold increase in proliferation rate associated with hyperphosphorylation of Smad1/5/8. This mutation impaired the antiproliferative function of caveolin-1. Inhibition of type I TGFb receptors ALK1/2/3/6 responsible for phosphorylation of Smad1/5/8 reduced the hyperproliferation seen in c.474delA fibroblasts. These results demonstrate the critical role of the final 20 amino acids of caveolin-1 in modulating fibroblast proliferation by dampening Smad signaling and suggest that augmented Smad signaling and fibroblast hyperproliferation are contributing factors in the pathogenesis of PAH in patients with caveolin-1 c.474delA mutation.
+28468941	9	19	caveolin-1	GeneOrGeneProduct	857
+28468941	29	33	Smad	GeneOrGeneProduct	4086,4090,4093
+28468941	88	108	adenine 474 deletion	SequenceVariant	rs587777017
+28468941	119	128	c.474delA	SequenceVariant	rs587777017
+28468941	133	140	patient	OrganismTaxon	9606
+28468941	192	214	pulmonary hypertension	DiseaseOrPhenotypicFeature	D006976
+28468941	231	241	caveolin-1	GeneOrGeneProduct	857
+28468941	242	251	c.474delA	SequenceVariant	rs587777017
+28468941	308	339	pulmonary arterial hypertension	DiseaseOrPhenotypicFeature	D000081029
+28468941	341	344	PAH	DiseaseOrPhenotypicFeature	D000081029
+28468941	383	393	caveolin-1	GeneOrGeneProduct	857
+28468941	555	565	caveolin-1	GeneOrGeneProduct	857
+28468941	582	589	patient	OrganismTaxon	9606
+28468941	681	690	c.474delA	SequenceVariant	rs587777017
+28468941	745	755	caveolin-1	GeneOrGeneProduct	857
+28468941	759	769	caveolin-1	GeneOrGeneProduct	12389
+28468941	775	780	mouse	OrganismTaxon	10090
+28468941	937	947	caveolin-1	GeneOrGeneProduct	857
+28468941	961	971	caveolin-1	GeneOrGeneProduct	857
+28468941	1144	1153	Smad1/5/8	GeneOrGeneProduct	4086,4090,4093
+28468941	1212	1222	caveolin-1	GeneOrGeneProduct	857
+28468941	1238	1259	type I TGFb receptors	GeneOrGeneProduct	657,658,90,94
+28468941	1260	1270	ALK1/2/3/6	GeneOrGeneProduct	657,658,90,94
+28468941	1306	1315	Smad1/5/8	GeneOrGeneProduct	4086,4090,4093
+28468941	1355	1364	c.474delA	SequenceVariant	rs587777017
+28468941	1453	1463	caveolin-1	GeneOrGeneProduct	857
+28468941	1516	1520	Smad	GeneOrGeneProduct	4086,4090,4093
+28468941	1558	1562	Smad	GeneOrGeneProduct	4086,4090,4093
+28468941	1655	1658	PAH	DiseaseOrPhenotypicFeature	D000081029
+28468941	1662	1670	patients	OrganismTaxon	9606
+28468941	1676	1686	caveolin-1	GeneOrGeneProduct	857
+28468941	1687	1696	c.474delA	SequenceVariant	rs587777017
+28468941	Association	94	4093	No
+28468941	Association	94	4090	No
+28468941	Association	94	4086	No
+28468941	Association	90	4093	No
+28468941	Association	90	4090	No
+28468941	Association	90	4086	No
+28468941	Association	658	4093	No
+28468941	Association	658	4090	No
+28468941	Association	658	4086	No
+28468941	Association	657	4093	No
+28468941	Association	657	4090	No
+28468941	Association	657	4086	No
+28468941	Association	rs587777017	D000081029	No
+28468941	Association	D006976	rs587777017	No
+28468941	Association	D006976	4093	Novel
+28468941	Association	D006976	4090	Novel
+28468941	Association	D006976	4086	Novel
+28468941	Association	D006976	857	No
+28468941	Association	4093	D000081029	Novel
+28468941	Association	4090	D000081029	Novel
+28468941	Association	4086	D000081029	Novel
+28468941	Association	857	D000081029	No
+28468941	Association	857	4093	Novel
+28468941	Association	857	4090	Novel
+28468941	Association	857	4086	Novel

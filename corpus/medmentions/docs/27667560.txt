@@ -1,0 +1,82 @@
+27667560|t|Systematic Identification of Pharmacological Targets from Small-Molecule Phenotypic Screens
+27667560|a|Phenotypic drug discovery offers some advantages over target - based methods, mainly because it allows drug leads to be tested in systems that more closely model distinct disease states. However, a potential disadvantage is the difficulty of linking the observed phenotype to a specific cellular target. To address this problem, we developed DePick, a computational target de-convolution tool to determine targets specifically linked to small-molecule phenotypic screens. We applied DePick to eight publicly available screens and predicted 59 drug target - phenotype associations. In addition to literature - based evidence for our predictions, we provide experimental support for seven predicted associations. Interestingly, our analysis led to the discovery of a previously unrecognized connection between the Wnt signaling pathway and an aromatase, CYP19A1. These results demonstrate that the DePick approach can not only accelerate target de-convolution but also aid in discovery of new functionally relevant biological relationships.
+27667560	0	10	Systematic	T169	C0220922
+27667560	11	25	Identification	T041	C0020792
+27667560	29	44	Pharmacological	T038	C0007992
+27667560	45	52	Targets	T169	C1521840
+27667560	58	72	Small-Molecule	T109	C1328819
+27667560	73	91	Phenotypic Screens	T059	C0373483
+27667560	92	102	Phenotypic	T032	C0031437
+27667560	103	117	drug discovery	T062	C0920472
+27667560	130	140	advantages	UnknownType	C0681074
+27667560	146	152	target	T169	C1521840
+27667560	155	160	based	T169	C1527178
+27667560	161	168	methods	T170	C0025663
+27667560	195	205	drug leads	T121	C0013227
+27667560	212	218	tested	T169	C0039593
+27667560	222	229	systems	T169	C0449913
+27667560	235	239	more	T081	C0205172
+27667560	240	247	closely	T033	C3810854
+27667560	248	253	model	T075	C0026339
+27667560	254	262	distinct	T080	C2963144
+27667560	263	277	disease states	T033	C0231294
+27667560	290	299	potential	T080	C3245505
+27667560	300	312	disadvantage	T080	C0205556
+27667560	320	330	difficulty	T080	C0332218
+27667560	334	341	linking	T052	C2986575
+27667560	346	354	observed	T169	C1441672
+27667560	355	364	phenotype	T032	C0031437
+27667560	370	378	specific	T080	C0205369
+27667560	379	387	cellular	T025	C0007634
+27667560	388	394	target	T169	C1521840
+27667560	412	419	problem	T033	C0033213
+27667560	424	433	developed	T169	C1527148
+27667560	434	440	DePick	T170	C0037589
+27667560	444	457	computational	T052	C1880157
+27667560	465	479	de-convolution	T066	C1707643
+27667560	480	484	tool	T073	C2827396
+27667560	488	497	determine	T059	C1148554
+27667560	498	505	targets	T169	C1521840
+27667560	506	518	specifically	T080	C0205369
+27667560	519	525	linked	T052	C2986575
+27667560	529	543	small-molecule	T109	C1328819
+27667560	544	562	phenotypic screens	T059	C0373483
+27667560	567	574	applied	T169	C1632850
+27667560	575	581	DePick	T170	C0037589
+27667560	591	599	publicly	T092	C0678367
+27667560	610	617	screens	T074	C0302765
+27667560	622	631	predicted	T078	C0681842
+27667560	635	639	drug	T121	C0013227
+27667560	640	646	target	T169	C1521840
+27667560	649	658	phenotype	T032	C0031437
+27667560	659	671	associations	T080	C0439849
+27667560	688	698	literature	T170	C0023866
+27667560	701	706	based	T169	C1527178
+27667560	707	715	evidence	T078	C3887511
+27667560	724	735	predictions	T078	C0681842
+27667560	740	747	provide	T052	C1999230
+27667560	748	760	experimental	T080	C1517586
+27667560	761	768	support	T077	C1521721
+27667560	779	788	predicted	T078	C0681842
+27667560	789	801	associations	T080	C0439849
+27667560	803	816	Interestingly	T041	C0543488
+27667560	822	830	analysis	T062	C0936012
+27667560	842	851	discovery	T052	C1880355
+27667560	857	867	previously	T079	C0205156
+27667560	868	880	unrecognized	T080	C4288068
+27667560	881	891	connection	T082	C0449379
+27667560	904	925	Wnt signaling pathway	T044	C1520113
+27667560	933	942	aromatase	T116,T126	C0003805
+27667560	944	951	CYP19A1	T116,T126	C3254086
+27667560	959	966	results	T033	C0683954
+27667560	967	978	demonstrate	T080	C0443289
+27667560	988	994	DePick	T170	C0037589
+27667560	1017	1027	accelerate	T169	C0521110
+27667560	1028	1034	target	T169	C1521840
+27667560	1035	1049	de-convolution	T066	C1707643
+27667560	1059	1062	aid	T080	C1269765
+27667560	1066	1075	discovery	T052	C1880355
+27667560	1083	1095	functionally	T169	C0205245
+27667560	1096	1104	relevant	T080	C2347946
+27667560	1105	1115	biological	T080	C0205460
+27667560	1116	1129	relationships	T080	C0439849

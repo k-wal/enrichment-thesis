@@ -1,0 +1,50 @@
+27922526|t|Air Pollutant Exposure Within a Few Days of Delivery and Placental Abruption in Japan
+27922526|a|Placental abruption is an emergency obstetric complication. Although the etiology of abruption is not fully understood, acute stimuli, such as ischemia and/or inflammation, are associated with rupture of the decidual artery, resulting in placental separation. Ischemia and inflammation are acute biologic effects of air pollution. Using a case-crossover design, we tested the hypothesis that a short-term increase in exposure to air pollutants is a potential trigger of placental abruption. We received data for western Japan (Kyushu-Okinawa Districts) from the Japan Perinatal Registry Network database. From 2005 to 2010, 821 singleton pregnant women with placental abruption were identified. We assigned daily concentrations of air pollutants, including nitrogen dioxide (NO2), suspended particulate matter, ozone, and sulfur dioxide (SO2), from the nearest monitoring station to the respective delivery hospital of each woman. Because information on the onset day of abruption was not obtained, we assumed the case day to be 1 day before the day of delivery. Exposure to NO2 at 2 days' lag was associated with placental abruption (temperature adjusted odds ratio per 10 ppb increase = 1.4; 95% confidence interval = 1.1, 1.8). The association patterns were similar, when we restricted to participants who delivered by emergency cesarean (1.4, 1.1, 1.9), or who delivered after 35 weeks of gestation (1.4, 1.0, 2.0). There was no association with suspended particulate matter, ozone, or SO2. We observed an association between NO2 exposure at 2 days before the day of delivery and placental abruption in pregnant Japanese women.
+27922526	0	13	Air Pollutant	T103	UMLS:C0001869
+27922526	44	52	Delivery	T058	UMLS:C0011209
+27922526	57	76	Placental Abruption	T038	UMLS:C0000832
+27922526	80	85	Japan	T082	UMLS:C0022341
+27922526	86	105	Placental abruption	T038	UMLS:C0000832
+27922526	112	144	emergency obstetric complication	T038	UMLS:C0178292
+27922526	171	180	abruption	T038	UMLS:C0000832
+27922526	229	237	ischemia	T038	UMLS:C0022116
+27922526	245	257	inflammation	T038	UMLS:C0021368
+27922526	279	309	rupture of the decidual artery	T038	UMLS:C0155760
+27922526	324	344	placental separation	T038	UMLS:C0233170
+27922526	346	354	Ischemia	T038	UMLS:C0022116
+27922526	359	371	inflammation	T038	UMLS:C0021368
+27922526	425	446	case-crossover design	T062	UMLS:C4288565
+27922526	515	529	air pollutants	T103	UMLS:C0001869
+27922526	545	552	trigger	T201	UMLS:C0032930
+27922526	556	575	placental abruption	T038	UMLS:C0000832
+27922526	598	611	western Japan	T082	UMLS:C0017446
+27922526	613	637	Kyushu-Okinawa Districts	T082	UMLS:C0017446
+27922526	648	689	Japan Perinatal Registry Network database	T170	UMLS:C0242356
+27922526	724	738	pregnant women	T098	UMLS:C0033011
+27922526	744	763	placental abruption	T038	UMLS:C0000832
+27922526	817	831	air pollutants	T103	UMLS:C0001869
+27922526	843	859	nitrogen dioxide	T103	UMLS:C0028160
+27922526	861	864	NO2	T103	UMLS:C0028160
+27922526	867	895	suspended particulate matter	T103	UMLS:C1510837
+27922526	897	902	ozone	T103	UMLS:C0030106
+27922526	908	922	sulfur dioxide	T103	UMLS:C0038777
+27922526	924	927	SO2	T103	UMLS:C0038777
+27922526	984	992	delivery	T058	UMLS:C0011209
+27922526	993	1001	hospital	T092	UMLS:C0019994
+27922526	1010	1015	woman	T098	UMLS:C0043210
+27922526	1057	1066	abruption	T038	UMLS:C0000832
+27922526	1139	1147	delivery	T058	UMLS:C0011209
+27922526	1161	1164	NO2	T103	UMLS:C0028160
+27922526	1200	1219	placental abruption	T038	UMLS:C0000832
+27922526	1378	1390	participants	T098	UMLS:C0679646
+27922526	1395	1404	delivered	T058	UMLS:C0011209
+27922526	1408	1426	emergency cesarean	T058	UMLS:C0558380
+27922526	1451	1460	delivered	T058	UMLS:C0011209
+27922526	1516	1530	no association	T033	UMLS:C1513916
+27922526	1536	1564	suspended particulate matter	T103	UMLS:C1510837
+27922526	1566	1571	ozone	T103	UMLS:C0030106
+27922526	1576	1579	SO2	T103	UMLS:C0038777
+27922526	1616	1619	NO2	T103	UMLS:C0028160
+27922526	1657	1665	delivery	T058	UMLS:C0011209
+27922526	1670	1689	placental abruption	T038	UMLS:C0000832
+27922526	1693	1716	pregnant Japanese women	T098	UMLS:C0033011

@@ -1,0 +1,88 @@
+28460030|t|Subcutaneous cardioverter defibrillator has longer time to therapy but is less cardiotoxic than transvenous cardioverter defibrillator. Study carried out in a preclinical porcine model
+28460030|a|Totally subcutaneous implantable cardioverter defibrillator (S-ICD) delivers higher shock energy and can have longer time to therapy compared to transvenous implantable cardioverter defibrillator (T-ICD). Aim of the study was to compare time to therapy and to investigate cardiac, cerebral and systemic injuries of S-ICD and T-ICD shocks delivered after ventricular fibrillation (VF) induction. Fourteen pigs were randomly implanted with a S-ICD (n = 7) or a T-ICD (n = 7). Five VF episodes were induced in each pig. For each VF episode, up to two shocks could be delivered by the T-ICD or the S-ICD to terminate the arrhythmia. Cardiac, systemic, and cerebral toxicity were monitored. Mean time to therapy was longer in the S-ICD group compared to the T-ICD group (19[18; 23] s vs. 9 [7; 10] s; P = 0.001, respectively). High-sensitivity troponin T levels were significantly higher in the T-ICD group from 1 to 24 h after the procedure (P ≤ 0.02). Creatine phosphokinase activity levels were significantly higher in the S-ICD group, at 3, 6, and 24 h after the procedure (P ≤ 0.05). Lactate levels were not significantly different between groups. S100 protein level was similar in both groups at 1 h after the procedure and then decreased in the T-ICD group compared to the S-ICD group (P = 0.04). Time to therapy in S-ICD was twice as long as for T-ICD, but didn't induce relevant brain injury. Conversely, S-ICD shocks were less cardiotoxic than T-ICD shocks.
+28460030	0	39	Subcutaneous cardioverter defibrillator	T074	C3694431
+28460030	44	50	longer	T080	C0205166
+28460030	51	55	time	T079	C0040223
+28460030	59	66	therapy	T061	C0087111
+28460030	79	90	cardiotoxic	T037	C0876994
+28460030	96	134	transvenous cardioverter defibrillator	T074	C0810516
+28460030	136	141	Study	T062	C2603343
+28460030	159	170	preclinical	T080	C1709630
+28460030	193	244	subcutaneous implantable cardioverter defibrillator	T074	C3694431
+28460030	246	251	S-ICD	T074	C3694431
+28460030	262	281	higher shock energy	T033	C1536257
+28460030	295	301	longer	T080	C0205166
+28460030	302	306	time	T079	C0040223
+28460030	310	317	therapy	T061	C0087111
+28460030	318	326	compared	T052	C1707455
+28460030	330	380	transvenous implantable cardioverter defibrillator	T074	C0810516
+28460030	382	387	T-ICD	T074	C0810516
+28460030	401	406	study	T062	C2603343
+28460030	414	421	compare	T052	C1707455
+28460030	422	426	time	T079	C0040223
+28460030	430	437	therapy	T061	C0087111
+28460030	445	456	investigate	T169	C1292732
+28460030	457	464	cardiac	T037	C0178314
+28460030	466	474	cerebral	T037	C0270611
+28460030	479	496	systemic injuries	T037	C0178314
+28460030	500	505	S-ICD	T074	C3694431
+28460030	510	515	T-ICD	T074	C0810516
+28460030	516	522	shocks	T033	C1536257
+28460030	539	563	ventricular fibrillation	T047	C0042510
+28460030	565	567	VF	T047	C0042510
+28460030	569	578	induction	T169	C0205263
+28460030	589	593	pigs	T015	C3665571
+28460030	599	607	randomly	T080	C0439605
+28460030	608	617	implanted	T033	C2828363
+28460030	625	630	S-ICD	T074	C3694431
+28460030	644	649	T-ICD	T074	C0810516
+28460030	664	666	VF	T047	C0042510
+28460030	697	700	pig	T015	C3665571
+28460030	711	713	VF	T047	C0042510
+28460030	733	739	shocks	T033	C1536257
+28460030	766	771	T-ICD	T074	C0810516
+28460030	779	784	S-ICD	T074	C3694431
+28460030	802	812	arrhythmia	T033	C0003811
+28460030	814	821	Cardiac	T037	C0876994
+28460030	823	831	systemic	T037	C0600688
+28460030	837	854	cerebral toxicity	T037	C0270611
+28460030	876	880	time	T079	C0040223
+28460030	884	891	therapy	T061	C0087111
+28460030	896	902	longer	T080	C0205166
+28460030	910	915	S-ICD	T074	C3694431
+28460030	916	921	group	T078	C0441833
+28460030	922	930	compared	T052	C1707455
+28460030	938	943	T-ICD	T074	C0810516
+28460030	944	949	group	T078	C0441833
+28460030	1007	1034	High-sensitivity troponin T	T059	C3827339
+28460030	1035	1041	levels	T080	C0441889
+28460030	1075	1080	T-ICD	T074	C0810516
+28460030	1081	1086	group	T078	C0441833
+28460030	1100	1101	h	T079	C0439227
+28460030	1112	1121	procedure	T061	C0087111
+28460030	1134	1165	Creatine phosphokinase activity	T044	C1150462
+28460030	1166	1172	levels	T080	C0441889
+28460030	1206	1211	S-ICD	T074	C3694431
+28460030	1212	1217	group	T078	C0441833
+28460030	1235	1236	h	T079	C0439227
+28460030	1247	1256	procedure	T061	C0087111
+28460030	1269	1283	Lactate levels	T034	C1304767
+28460030	1325	1331	groups	T078	C0441833
+28460030	1333	1345	S100 protein	T116,T123	C0027758
+28460030	1372	1378	groups	T078	C0441833
+28460030	1384	1385	h	T079	C0439227
+28460030	1396	1405	procedure	T061	C0087111
+28460030	1432	1437	T-ICD	T074	C0810516
+28460030	1438	1443	group	T078	C0441833
+28460030	1444	1452	compared	T052	C1707455
+28460030	1460	1465	S-ICD	T074	C3694431
+28460030	1466	1471	group	T078	C0441833
+28460030	1492	1499	therapy	T061	C0087111
+28460030	1503	1508	S-ICD	T074	C3694431
+28460030	1534	1539	T-ICD	T074	C0810516
+28460030	1568	1580	brain injury	T037	C0270611
+28460030	1594	1599	S-ICD	T074	C3694431
+28460030	1600	1606	shocks	T033	C1536257
+28460030	1617	1628	cardiotoxic	T037	C0876994
+28460030	1634	1639	T-ICD	T074	C0810516
+28460030	1640	1646	shocks	T033	C1536257

@@ -1,0 +1,112 @@
+28318799|t|Transcriptome analysis of IL-10 - stimulated (M2c) macrophages by next-generation sequencing
+28318799|a|Alternatively activated " M2" macrophages are believed to function during late stages of wound healing, behaving in an anti-inflammatory manner to mediate the resolution of the pro-inflammatory response caused by "M1" macrophages. However, the differences between two main subtypes of M2 macrophages, namely interleukin-4 (IL-4)- stimulated "M2a" macrophages and IL-10- stimulated "M2c" macrophages, are not well understood. M2a macrophages are characterized by their ability to inhibit inflammation and contribute to the stabilization of angiogenesis. However, the role and temporal profile of M2c macrophages in wound healing are not known. Therefore, we performed next generation sequencing (RNA-seq) to identify biological functions and gene expression signatures of macrophages polarized in vitro with IL-10 to the M2c phenotype in comparison to M1 and M2a macrophages and an unactivated control (M0). We then explored the expression of these gene signatures in a publicly available data set of human wound healing. RNA-seq analysis showed that hundreds of genes were upregulated in M2c macrophages compared to the M0 control, with thousands of alternative splicing events. Following validation by Nanostring, 39 genes were found to be upregulated by M2c macrophages compared to the M0 control, and 17 genes were significantly upregulated relative to the M0, M1, and M2a phenotypes (using an adjusted p-value cutoff of 0.05 and fold change cutoff of 1.5). Many of the identified M2c-specific genes are associated with angiogenesis, matrix remodeling, and phagocytosis, including CD163, MMP8, TIMP1, VCAN, SERPINA1, MARCO, PLOD2, PCOCLE2 and F5. Analysis of the macrophage - conditioned media for secretion of matrix-remodeling proteins showed that M2c macrophages secreted higher levels of MMP7, MMP8, and TIMP1 compared to the other phenotypes. Interestingly, temporal gene expression analysis of a publicly available microarray data set of human wound healing showed that M2c-related genes were upregulated at early times after injury, similar to M1-related genes, while M2a-related genes appeared at later stages or were downregulated after injury. While further studies are required to confirm the timing and role of M2c macrophages in vivo, these results suggest that M2c macrophages may function at early stages of wound healing. Identification of markers of the M2c phenotype will allow more detailed investigations into the role of M2c macrophages in vivo.
+28318799	0	22	Transcriptome analysis	T059,T063	C0752248
+28318799	26	31	IL-10	T116,T129	C0085295
+28318799	34	44	stimulated	T070	C1948023
+28318799	45	62	(M2c) macrophages	T025	C0024432
+28318799	66	92	next-generation sequencing	T063	C2936622
+28318799	107	116	activated	T052	C1879547
+28318799	119	134	M2" macrophages	T025	C4086555
+28318799	151	159	function	T169	C0542341
+28318799	167	178	late stages	T079	C1279941
+28318799	182	195	wound healing	T040	C0043240
+28318799	212	229	anti-inflammatory	T080	C1515999
+28318799	306	322	"M1" macrophages	T025	C0024432
+28318799	366	374	subtypes	T185	C0449560
+28318799	378	392	M2 macrophages	T025	C4086555
+28318799	423	433	stimulated	T070	C1948023
+28318799	434	451	"M2a" macrophages	T025	C0024432
+28318799	463	473	stimulated	T070	C1948023
+28318799	474	491	"M2c" macrophages	T025	C0024432
+28318799	518	533	M2a macrophages	T025	C0024432
+28318799	572	579	inhibit	T052	C3463820
+28318799	580	592	inflammation	T046	C0021368
+28318799	615	628	stabilization	T061	C1293130
+28318799	632	644	angiogenesis	T042	C0302600
+28318799	668	684	temporal profile	T079	C1254367
+28318799	692	703	macrophages	T025	C0024432
+28318799	707	720	wound healing	T040	C0043240
+28318799	760	786	next generation sequencing	T063	C2936622
+28318799	788	795	RNA-seq	T086	C0162327
+28318799	809	829	biological functions	T038	C3714634
+28318799	834	860	gene expression signatures	T081	C1956267
+28318799	864	875	macrophages	T025	C0024432
+28318799	886	894	in vitro	T080	C1533691
+28318799	900	905	IL-10	T116,T129	C0085295
+28318799	917	926	phenotype	T032	C0031437
+28318799	944	946	M1	T025	C0024432
+28318799	951	966	M2a macrophages	T025	C0024432
+28318799	986	998	control (M0)	T080	C3274648
+28318799	1021	1031	expression	T045	C0017262
+28318799	1041	1056	gene signatures	T169	C1708225
+28318799	1081	1089	data set	T170	C0150098
+28318799	1093	1098	human	T016	C0086418
+28318799	1099	1112	wound healing	T040	C0043240
+28318799	1114	1130	RNA-seq analysis	T059,T063	C0162803
+28318799	1155	1160	genes	T028	C0017337
+28318799	1155	1160	genes	T028	C0017337
+28318799	1166	1177	upregulated	T044	C0041904
+28318799	1185	1196	macrophages	T025	C0024432
+28318799	1213	1215	M0	T080	C3274648
+28318799	1216	1223	control	T080	C3274648
+28318799	1243	1263	alternative splicing	T045	C0002345
+28318799	1264	1270	events	T051	C0441471
+28318799	1282	1306	validation by Nanostring	T062	C1519943
+28318799	1311	1316	genes	T028	C0017337
+28318799	1334	1345	upregulated	T044	C0041904
+28318799	1349	1364	M2c macrophages	T025	C0024432
+28318799	1381	1391	M0 control	T080	C3274648
+28318799	1400	1405	genes	T028	C0017337
+28318799	1425	1436	upregulated	T044	C0041904
+28318799	1469	1479	phenotypes	T032	C0031437
+28318799	1507	1513	cutoff	T169	C1442160
+28318799	1538	1544	cutoff	T169	C1442160
+28318799	1566	1576	identified	T080	C0205396
+28318799	1590	1595	genes	T028	C0017337
+28318799	1600	1615	associated with	T080	C0332281
+28318799	1616	1628	angiogenesis	T042	C0302600
+28318799	1653	1665	phagocytosis	T043	C0031308
+28318799	1677	1682	CD163	T028	C1413204
+28318799	1684	1688	MMP8	T028	C1417213
+28318799	1690	1695	TIMP1	T028	C1367459
+28318799	1697	1701	VCAN	T028	C1413763
+28318799	1703	1711	SERPINA1	T028	C1418544
+28318799	1713	1718	MARCO	T028	C1417032
+28318799	1720	1725	PLOD2	T028	C1418652
+28318799	1727	1734	PCOCLE2	T028	C1418384
+28318799	1739	1741	F5	T028	C1414509
+28318799	1759	1769	macrophage	T025	C0024432
+28318799	1772	1789	conditioned media	T130	C0162518
+28318799	1794	1803	secretion	T038	C0036536
+28318799	1825	1833	proteins	T116,T123	C0033684
+28318799	1846	1861	M2c macrophages	T025	C0024432
+28318799	1862	1870	secreted	T038	C0036536
+28318799	1871	1877	higher	T080	C0205250
+28318799	1878	1884	levels	T080	C0441889
+28318799	1888	1892	MMP7	T116,T126	C0166059
+28318799	1894	1898	MMP8	T116,T126	C1721358
+28318799	1904	1909	TIMP1	T116,T126	C0014442
+28318799	1932	1942	phenotypes	T032	C0031437
+28318799	1968	1992	gene expression analysis	T063	C1880945
+28318799	2017	2036	microarray data set	T170	C0150098
+28318799	2040	2045	human	T016	C0086418
+28318799	2046	2059	wound healing	T040	C0043240
+28318799	2084	2089	genes	T028	C0017337
+28318799	2095	2106	upregulated	T044	C0041904
+28318799	2128	2134	injury	T037	C0178314
+28318799	2158	2163	genes	T028	C0017337
+28318799	2183	2188	genes	T028	C0017337
+28318799	2222	2235	downregulated	T044	C0013081
+28318799	2242	2248	injury	T037	C0178314
+28318799	2319	2334	M2c macrophages	T025	C0024432
+28318799	2335	2342	in vivo	T082	C1515655
+28318799	2371	2386	M2c macrophages	T025	C0024432
+28318799	2391	2399	function	T169	C0542341
+28318799	2403	2415	early stages	T079	C2363430
+28318799	2419	2432	wound healing	T040	C0043240
+28318799	2434	2448	Identification	T080	C0205396
+28318799	2452	2459	markers	T201	C0005516
+28318799	2471	2480	phenotype	T032	C0031437
+28318799	2497	2505	detailed	T080	C1522508
+28318799	2538	2553	M2c macrophages	T025	C0024432
+28318799	2554	2561	in vivo	T082	C1515655

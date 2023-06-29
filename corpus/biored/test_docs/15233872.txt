@@ -1,0 +1,34 @@
+15233872|t|Cardioprotective effect of tincture of Crataegus on isoproterenol-induced myocardial infarction in rats.
+15233872|a|Tincture of Crataegus (TCR), an alcoholic extract of the berries of hawthorn (Crataegus oxycantha), is used in herbal and homeopathic medicine. The present study was done to investigate the protective effect of TCR on experimentally induced myocardial infarction in rats. Pretreatment of TCR, at a dose of 0.5 mL/100 g bodyweight per day, orally for 30 days, prevented the increase in lipid peroxidation and activity of marker enzymes observed in isoproterenol-induced rats (85 mg kg(-1) s. c. for 2 days at an interval of 24 h). TCR prevented the isoproterenol-induced decrease in antioxidant enzymes in the heart and increased the rate of ADP-stimulated oxygen uptake and respiratory coupling ratio. TCR protected against pathological changes induced by isoproterenol in rat heart. The results show that pretreatment with TCR may be useful in preventing the damage induced by isoproterenol in rat heart.
+15233872	27	48	tincture of Crataegus	ChemicalEntity	C007145
+15233872	52	65	isoproterenol	ChemicalEntity	D007545
+15233872	74	95	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+15233872	99	103	rats	OrganismTaxon	10116
+15233872	105	126	Tincture of Crataegus	ChemicalEntity	C007145
+15233872	128	131	TCR	ChemicalEntity	C007145
+15233872	137	181	alcoholic extract of the berries of hawthorn	ChemicalEntity	C007145
+15233872	183	202	Crataegus oxycantha	ChemicalEntity	C007145
+15233872	316	319	TCR	ChemicalEntity	C007145
+15233872	346	367	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+15233872	371	375	rats	OrganismTaxon	10116
+15233872	393	396	TCR	ChemicalEntity	C007145
+15233872	490	495	lipid	ChemicalEntity	D008055
+15233872	552	565	isoproterenol	ChemicalEntity	D007545
+15233872	574	578	rats	OrganismTaxon	10116
+15233872	635	638	TCR	ChemicalEntity	C007145
+15233872	653	666	isoproterenol	ChemicalEntity	D007545
+15233872	746	749	ADP	ChemicalEntity	D000244
+15233872	761	767	oxygen	ChemicalEntity	D010100
+15233872	807	810	TCR	ChemicalEntity	C007145
+15233872	861	874	isoproterenol	ChemicalEntity	D007545
+15233872	878	881	rat	OrganismTaxon	10116
+15233872	929	932	TCR	ChemicalEntity	C007145
+15233872	983	996	isoproterenol	ChemicalEntity	D007545
+15233872	1000	1003	rat	OrganismTaxon	10116
+15233872	Positive_Correlation	D000244	D010100	No
+15233872	Positive_Correlation	D007545	D009203	No
+15233872	Positive_Correlation	C007145	D010100	Novel
+15233872	Positive_Correlation	C007145	D000244	Novel
+15233872	Association	C007145	D008055	Novel
+15233872	Negative_Correlation	C007145	D007545	Novel
+15233872	Negative_Correlation	C007145	D009203	Novel

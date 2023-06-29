@@ -1,0 +1,85 @@
+27436635|t|Blood Pressure and All-Cause Mortality by Level of Cognitive Function in the Elderly: Results From a Population-Based Study in Rural Greece
+27436635|a|This study aimed to investigate whether the effect of blood pressure (BP) on mortality differs by levels of cognitive function. The associations of brachial systolic BP, diastolic BP, mean arterial pressure (MAP), and pulse pressure with all-cause mortality were prospectively explored (follow-up 7.0±2.2 years) in 660 community-dwelling individuals (≥60 years) using adjusted Cox models, stratified by cognitive impairment (Mini-Mental State Examination [MMSE] <24). No association between brachial BP variables and mortality was shown for the total sample in quartiles analysis; however, MAP in the highest quartile, compared with the second, was associated with mortality (hazard ratio, 1.85; 95% confidence intervals, 1.09-3.12) among cognitively impaired individuals. The fractional-polynomials approach for BP confirmed this finding and further showed, solely in the MMSE <24 subcohort, U-shaped trends of MAP and systolic BP, with increased mortality risk in extremely low or high values; no such pattern was evident for patients with MMSE ≥24. Elderly individuals with cognitive impairment might be more susceptible to the detrimental effects of low and elevated MAP and systolic BP.
+27436635	0	14	Blood Pressure	T040	C0005823
+27436635	19	38	All-Cause Mortality	T033	C0007465
+27436635	42	47	Level	T080	C0441889
+27436635	51	69	Cognitive Function	T041	C0392335
+27436635	77	84	Elderly	T098	C0001792
+27436635	86	93	Results	T033	C0683954
+27436635	101	123	Population-Based Study	T062	C1709599
+27436635	127	139	Rural Greece	T083	C0018226
+27436635	145	150	study	T062	C1709599
+27436635	151	156	aimed	T078	C1947946
+27436635	160	171	investigate	T169	C1292732
+27436635	184	190	effect	T080	C1280500
+27436635	194	208	blood pressure	T040	C0005823
+27436635	210	212	BP	T040	C0005823
+27436635	217	226	mortality	T033	C1306577
+27436635	238	244	levels	T080	C0441889
+27436635	248	266	cognitive function	T041	C0392335
+27436635	272	284	associations	T080	C0439849
+27436635	288	296	brachial	T082	C0445456
+27436635	297	308	systolic BP	T201	C0871470
+27436635	310	322	diastolic BP	T201	C0428883
+27436635	324	346	mean arterial pressure	T033	C0428886
+27436635	348	351	MAP	T033	C0428886
+27436635	358	372	pulse pressure	T040	C0949236
+27436635	378	397	all-cause mortality	T033	C0007465
+27436635	403	425	prospectively explored	T033	C0243095
+27436635	427	436	follow-up	T058	C1522577
+27436635	445	450	years	T079	C0439234
+27436635	459	477	community-dwelling	T056	C4045975
+27436635	478	489	individuals	T098	C0237401
+27436635	491	500	≥60 years	T033	C4062292
+27436635	508	527	adjusted Cox models	T081,T170	C0010234
+27436635	529	539	stratified	T080	C0205363
+27436635	543	563	cognitive impairment	T048	C0338656
+27436635	565	594	Mini-Mental State Examination	T060	C0451306
+27436635	596	600	MMSE	T060	C0451306
+27436635	608	622	No association	T080	C0205556
+27436635	631	639	brachial	T082	C0445456
+27436635	640	642	BP	T040	C0005823
+27436635	643	652	variables	T080	C0439828
+27436635	657	666	mortality	T033	C1306577
+27436635	685	690	total	T080	C0439810
+27436635	691	697	sample	T167	C0370003
+27436635	701	719	quartiles analysis	T062	C0871424
+27436635	730	733	MAP	T033	C0428886
+27436635	741	757	highest quartile	T080	C2828255
+27436635	759	767	compared	T052	C1707455
+27436635	777	783	second	T081	C0205436
+27436635	789	804	associated with	T080	C0332281
+27436635	805	814	mortality	T033	C1306577
+27436635	816	828	hazard ratio	T081	C2985465
+27436635	840	860	confidence intervals	T081	C0009667
+27436635	879	899	cognitively impaired	T048	C0338656
+27436635	900	911	individuals	T098	C0237401
+27436635	917	948	fractional-polynomials approach	T062	C0242481
+27436635	953	955	BP	T040	C0005823
+27436635	956	965	confirmed	T033	C0750484
+27436635	971	978	finding	T033	C0243095
+27436635	983	990	further	T082	C1517331
+27436635	999	1005	solely	T081	C0205171
+27436635	1013	1017	MMSE	T060	C0451306
+27436635	1022	1031	subcohort	T081	C0009247
+27436635	1033	1048	U-shaped trends	T079	C0040833
+27436635	1052	1055	MAP	T033	C0428886
+27436635	1060	1071	systolic BP	T201	C0871470
+27436635	1078	1087	increased	T081	C0205217
+27436635	1088	1102	mortality risk	T078	C0035647
+27436635	1106	1115	extremely	T080	C0205403
+27436635	1116	1134	low or high values	T080	C0205556
+27436635	1144	1151	pattern	T082	C0449774
+27436635	1156	1163	evident	T078	C3887511
+27436635	1168	1176	patients	T101	C0030705
+27436635	1182	1186	MMSE	T060	C0451306
+27436635	1192	1199	Elderly	T098	C0001792
+27436635	1200	1211	individuals	T098	C0237401
+27436635	1217	1237	cognitive impairment	T048	C0338656
+27436635	1247	1251	more	T081	C0205172
+27436635	1252	1263	susceptible	T169	C0231204
+27436635	1271	1290	detrimental effects	T046	C0879626
+27436635	1294	1297	low	T080	C0205251
+27436635	1302	1310	elevated	T080	C3163633
+27436635	1311	1314	MAP	T033	C0428886
+27436635	1319	1330	systolic BP	T201	C0871470

@@ -1,0 +1,51 @@
+27881039|t|Fludarabine, cyclophosphamide and lenalidomide in patients with relapsed / refractory chronic lymphocytic leukemia. A multicenter phase I-II GIMEMA trial
+27881039|a|The activity and safety of a regimen combining lenalidomide with fludarabine and cyclophosphamide (FC) was investigated in patients with relapsed / refractory (R/R) chronic lymphocytic leukemia (CLL). Treatment consisted of six monthly courses of the FC regimen combined with 14 days of lenalidomide given at the starting dose of 2.5 mg during course 1. The maximum tolerated dose of lenalidomide was 5 mg. Forty patients were assessed for response, 66% were IGHV unmutated, 45% showed deletion 11q or 17p. The overall response and complete remission rates were 62.5% and 22.5%, respectively, the median progression-free and overall survival (OS) were 19 and 45 months, respectively. Grade 3-4 granulocytopenia was observed in 65% of cases, severe infections in 7.5%, the lenalidomide -related toxicity was mild. In conclusion, the results of this study demonstrate that low-dose lenalidomide associated with the FC schedule is an effective treatment for R/R patients with CLL, associated with an acceptable safety profile.
+27881039	0	11	Fludarabine	T114,T121	C0059985
+27881039	13	29	cyclophosphamide	T109,T121	C0010583
+27881039	34	46	lenalidomide	T109,T121	C1144149
+27881039	50	58	patients	T101	C0030705
+27881039	64	72	relapsed	T079	C0205336
+27881039	75	85	refractory	T169	C0205269
+27881039	86	114	chronic lymphocytic leukemia	T191	C0023434
+27881039	118	153	multicenter phase I-II GIMEMA trial	T062	C0206012
+27881039	183	190	regimen	T061	C0040808
+27881039	201	213	lenalidomide	T109,T121	C1144149
+27881039	219	251	fludarabine and cyclophosphamide	T061	C0280920
+27881039	253	255	FC	T061	C0280920
+27881039	277	285	patients	T101	C0030705
+27881039	291	299	relapsed	T079	C0205336
+27881039	302	312	refractory	T169	C0205269
+27881039	319	347	chronic lymphocytic leukemia	T191	C0023434
+27881039	349	352	CLL	T191	C0023434
+27881039	355	364	Treatment	T061	C0087111
+27881039	390	397	courses	T079	C0750729
+27881039	405	415	FC regimen	T061	C1880651
+27881039	441	453	lenalidomide	T109,T121	C1144149
+27881039	476	480	dose	T081	C0178602
+27881039	498	504	course	T079	C0750729
+27881039	512	534	maximum tolerated dose	T081	C0752079
+27881039	538	550	lenalidomide	T109,T121	C1144149
+27881039	567	575	patients	T101	C0030705
+27881039	594	602	response	T040	C0683154
+27881039	613	617	IGHV	T028	C1415996
+27881039	618	627	unmutated	T033	C0243095
+27881039	640	648	deletion	T049	C0008628
+27881039	649	652	11q	T086	C0796366
+27881039	656	659	17p	T086	C0796349
+27881039	665	681	overall response	T033	C3272903
+27881039	695	710	remission rates	T033	C0544452
+27881039	758	774	progression-free	T081	C0242792
+27881039	779	795	overall survival	T081	C4086681
+27881039	797	799	OS	T081	C4086681
+27881039	838	864	Grade 3-4 granulocytopenia	T047	C0001824
+27881039	902	912	infections	T046	C3714514
+27881039	926	938	lenalidomide	T109,T121	C1144149
+27881039	948	956	toxicity	T037	C0013221
+27881039	1025	1033	low-dose	T081	C0445550
+27881039	1034	1046	lenalidomide	T109,T121	C1144149
+27881039	1047	1062	associated with	T080	C0332281
+27881039	1067	1078	FC schedule	T061	C1880651
+27881039	1095	1104	treatment	T061	C0087111
+27881039	1113	1121	patients	T101	C0030705
+27881039	1127	1130	CLL	T191	C0023434
+27881039	1132	1147	associated with	T080	C0332281

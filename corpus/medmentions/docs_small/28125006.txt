@@ -1,0 +1,24 @@
+28125006|t|Support Vector Machine Classification of Drunk Driving Behaviour
+28125006|a|Alcohol is the root cause of numerous traffic accidents due to its pharmacological action on the human central nervous system. This study conducted a detection process to distinguish drunk driving from normal driving under simulated driving conditions. The classification was performed by a support vector machine (SVM) classifier trained to distinguish between these two classes by integrating both driving performance and physiological measurements. In addition, principal component analysis was conducted to rank the weights of the features. The standard deviation of R-R intervals (SDNN), the root mean square value of the difference of the adjacent R-R interval series (RMSSD), low frequency (LF), high frequency (HF), the ratio of the low and high frequencies (LF/HF), and average blink duration were the highest weighted features in the study. The results show that SVM classification can successfully distinguish drunk driving from normal driving with an accuracy of 70%. The driving performance data and the physiological measurements reported by this paper combined with air - alcohol concentration could be integrated using the support vector regression classification method to establish a better early warning model, thereby improving vehicle safety.
+28125006	23	37	Classification	T170	UMLS:C0008902
+28125006	41	54	Drunk Driving	T038	UMLS:C0556374
+28125006	65	72	Alcohol	T168	UMLS:C0001967
+28125006	103	120	traffic accidents	T037	UMLS:C0000932
+28125006	132	154	pharmacological action	T038	UMLS:C1148560
+28125006	162	167	human	T204	UMLS:C0086418
+28125006	168	190	central nervous system	T022	UMLS:C3714787
+28125006	197	202	study	T062	UMLS:C2603343
+28125006	215	232	detection process	T033	UMLS:C0442726
+28125006	248	261	drunk driving	T038	UMLS:C0556374
+28125006	322	336	classification	T170	UMLS:C0008902
+28125006	437	444	classes	T170	UMLS:C0456387
+28125006	576	580	rank	T170	UMLS:C0699794
+28125006	909	914	study	T062	UMLS:C2603343
+28125006	942	956	classification	T170	UMLS:C0008902
+28125006	986	999	drunk driving	T038	UMLS:C0556374
+28125006	1109	1117	reported	T058	UMLS:C0700287
+28125006	1126	1131	paper	T170	UMLS:C0684224
+28125006	1152	1159	alcohol	T168	UMLS:C0001967
+28125006	1230	1244	classification	T170	UMLS:C0008902
+28125006	1245	1251	method	T170	UMLS:C0025663
+28125006	1288	1293	model	T170	UMLS:C3161035

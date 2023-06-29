@@ -1,0 +1,57 @@
+27632886|t|Comparison of Esophageal, Rectal, and Gastrointestinal Temperatures During Passive Rest After Exercise in The Heat: The Influence of Hydration
+27632886|a|It is unknown how valid esophageal, rectal, and gastrointestinal temperatures (TES, TRE, and TGI) compare after exercise-induced hyperthermia in various hydration states. The purpose of this study was to examine the differences between TES, TRE, and TGI during passive rest following exercise-induced hyperthermia under two different hydration states: euhydrated (EU) and hypohydrated (HY). Randomized-crossover design. Controlled laboratory setting. Nine recreationally active male participants (mean± SD; age, 24±4; height, 177.3±9.9cm; body mass, 76.7±11.6kg; body fat, 14.7±5.8%). Participants completed two trials (EU and HY) consisting of a bout of treadmill exercise (a 10 minute walk ranging 4.8-7.2km·hr(-1) at a 5% grade followed by a 20 minute jog ranging 8.0-12.1km·hr(-1) at a 1% grade) in a hot environment (ambient temperature, 39.3±1.0°C; relative humidity, 37.6±6.0%; wet bulb globe temperature, 31.3±1.5°C) followed by passive rest. Root mean squared difference (RMSD) was used to compare the variance of temperature readings at corresponding time points for TRE vs TGI, TRE vs TES, and TGI vs TES in EU and HY. RMSD values were compared using three-way repeated measures ANOVA. Post hoc analysis of significant main effects was done using Tukey's HSD with significance set at p<0.05. RMSD values (°C) for all device comparisons were significantly different in EU (TRE - TGI, 0.11±0.12; TRE - TES, 1.58±1.01; TGI - TES, 2.04±1.19) than HY (TRE - TGI, 0.22±0.28; TRE - TES, 1.27±0.61; TGI - TES, 1.16±0.76) (p<0.01). Across the 45- minute bout of passive rest, there were no differences in TRE, TGI and TES between EU and HY trials (p=0.468). During passive rest after exercise in the heat, TRE and TGI were in good agreement when tracking body temperature, with a better agreement appearing in those maintaining a state of euhydration versus those who became hypohydrated during exercise; however, this small difference does not appear to be of clinical significance.
+27632886	14	24	Esophageal	T201	UMLS:C2316724
+27632886	26	32	Rectal	T033	UMLS:C0489749
+27632886	133	142	Hydration	T033	UMLS:C1321013
+27632886	167	177	esophageal	T201	UMLS:C2316724
+27632886	179	185	rectal	T033	UMLS:C0489749
+27632886	222	225	TES	T201	UMLS:C2316724
+27632886	227	230	TRE	T033	UMLS:C0489749
+27632886	272	284	hyperthermia	T033	UMLS:C0015967
+27632886	296	312	hydration states	T033	UMLS:C1321013
+27632886	334	339	study	T062	UMLS:C0008972
+27632886	379	382	TES	T201	UMLS:C2316724
+27632886	384	387	TRE	T033	UMLS:C0489749
+27632886	444	456	hyperthermia	T033	UMLS:C0015967
+27632886	477	493	hydration states	T033	UMLS:C1321013
+27632886	495	505	euhydrated	T033	UMLS:C0231162
+27632886	507	509	EU	T033	UMLS:C0231162
+27632886	515	527	hypohydrated	T038	UMLS:C0011175
+27632886	529	531	HY	T038	UMLS:C0011175
+27632886	534	561	Randomized-crossover design	T062	UMLS:C0242817
+27632886	574	592	laboratory setting	T092	UMLS:C0022877
+27632886	626	638	participants	T098	UMLS:C0679646
+27632886	706	714	body fat	T201	UMLS:C0344335
+27632886	728	740	Participants	T098	UMLS:C0679646
+27632886	755	761	trials	T062	UMLS:C0008976
+27632886	763	765	EU	T033	UMLS:C0231162
+27632886	770	772	HY	T038	UMLS:C0011175
+27632886	868	873	grade	T170	UMLS:C0441800
+27632886	1220	1223	TRE	T033	UMLS:C0489749
+27632886	1232	1235	TRE	T033	UMLS:C0489749
+27632886	1239	1242	TES	T201	UMLS:C2316724
+27632886	1255	1258	TES	T201	UMLS:C2316724
+27632886	1262	1264	EU	T033	UMLS:C0231162
+27632886	1269	1271	HY	T038	UMLS:C0011175
+27632886	1349	1357	analysis	T062	UMLS:C0936012
+27632886	1401	1412	Tukey's HSD	T170	UMLS:C0237913
+27632886	1471	1477	device	T074	UMLS:C0025080
+27632886	1522	1524	EU	T033	UMLS:C0231162
+27632886	1526	1529	TRE	T033	UMLS:C0489749
+27632886	1548	1551	TRE	T033	UMLS:C0489749
+27632886	1554	1557	TES	T201	UMLS:C2316724
+27632886	1576	1579	TES	T201	UMLS:C2316724
+27632886	1597	1599	HY	T038	UMLS:C0011175
+27632886	1601	1604	TRE	T033	UMLS:C0489749
+27632886	1623	1626	TRE	T033	UMLS:C0489749
+27632886	1629	1632	TES	T201	UMLS:C2316724
+27632886	1651	1654	TES	T201	UMLS:C2316724
+27632886	1750	1753	TRE	T033	UMLS:C0489749
+27632886	1763	1766	TES	T201	UMLS:C2316724
+27632886	1775	1777	EU	T033	UMLS:C0231162
+27632886	1782	1784	HY	T038	UMLS:C0011175
+27632886	1785	1791	trials	T062	UMLS:C0008976
+27632886	1851	1854	TRE	T033	UMLS:C0489749
+27632886	1984	1995	euhydration	T033	UMLS:C0231162
+27632886	2020	2032	hypohydrated	T038	UMLS:C0011175
+27632886	2106	2127	clinical significance	T033	UMLS:C2826293

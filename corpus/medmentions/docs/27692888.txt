@@ -1,0 +1,84 @@
+27692888|t|Effective degradation of methylisothiazolone biocide using ozone: Kinetics, mechanisms, and decreases in toxicity
+27692888|a|Methylisothiazolone (MIT) is a common biocide that is widely used in water-desalination reverse-osmosis processes. The transformation of MIT during water treatment processes is poorly understood. The kinetics and mechanisms involved in the degradation of MIT during ozonation were investigated in this study. Ozonation was found to be a useful way of degrading MIT in water, and the degradation rate constant was 0.11 (±0.1) × 10(3) L/(mol·s). The degradation rate constant did not change when the pH was increased from 3 to 9. The pre-exponential factor A and the activation energy Ea for the ozonation process were 7.564 × 10(13) L/(mol·s) and 66.74 kJ/mol, respectively. The decrease in the MIT concentration and the amount of ozone consumed were measured, and the stoichiometric factor α for the ozone consumption to MIT removal ratio was found to be 1.8. Several ozonation products were detected using time-of-flight mass spectrometry. Almost 32% of the organic sulfur in the MIT was oxidized to release sulfate ions, which caused a decrease in pH. Sulfur atoms were oxidized to sulfone species and then h ydrolyzed to give sulfate during ozonation. Addition reactions involving carbon-carbon double bonds and the oxidation of α-carbon atoms also occurred. MIT was found to be lethal to Daphnia magna Straus (D. magna) with a median lethal concentration of 18.2 μmol/L. Even though the primary ozonation products of MIT still showed some toxicity to D. magna, ozone could minimize the toxic effect after a long reaction time.
+27692888	10	21	degradation	T169	C0243125
+27692888	25	44	methylisothiazolone	T109,T121	C0046343
+27692888	45	52	biocide	T131	C0444414
+27692888	59	64	ozone	T103	C0030106
+27692888	66	74	Kinetics	T070	C0022702
+27692888	76	86	mechanisms	T169	C0458005
+27692888	92	101	decreases	T081	C0547047
+27692888	105	113	toxicity	T037	C0600688
+27692888	114	133	Methylisothiazolone	T109,T121	C0046343
+27692888	135	138	MIT	T109,T121	C0046343
+27692888	152	159	biocide	T131	C0444414
+27692888	183	201	water-desalination	T057	C0597684
+27692888	202	227	reverse-osmosis processes	T067	C0678629
+27692888	233	247	transformation	T169	C0439836
+27692888	251	254	MIT	T109,T121	C0046343
+27692888	262	277	water treatment	T057	C0597684
+27692888	278	287	processes	T067	C1522240
+27692888	314	322	kinetics	T070	C0022702
+27692888	327	337	mechanisms	T169	C0458005
+27692888	354	365	degradation	T169	C0243125
+27692888	369	372	MIT	T109,T121	C0046343
+27692888	380	389	ozonation	T067	C1254366
+27692888	416	421	study	T062	C2603343
+27692888	423	432	Ozonation	T067	C1254366
+27692888	475	478	MIT	T109,T121	C0046343
+27692888	482	487	water	T121,T197	C0043047
+27692888	497	508	degradation	T169	C0243125
+27692888	509	522	rate constant	T081	C2986811
+27692888	562	573	degradation	T169	C0243125
+27692888	574	587	rate constant	T081	C2986811
+27692888	612	614	pH	T081	C0020283
+27692888	619	628	increased	T081	C0205217
+27692888	646	670	pre-exponential factor A	T081	C0392762
+27692888	679	696	activation energy	T081	C1442080
+27692888	697	699	Ea	T081	C1442080
+27692888	708	725	ozonation process	T067	C1254366
+27692888	792	800	decrease	T081	C0547047
+27692888	808	811	MIT	T109,T121	C0046343
+27692888	812	825	concentration	T081	C1446561
+27692888	834	840	amount	T081	C1265611
+27692888	844	849	ozone	T103	C0030106
+27692888	864	872	measured	T080	C0444706
+27692888	882	903	stoichiometric factor	T081	C0392762
+27692888	904	905	α	T081	C0392762
+27692888	914	919	ozone	T103	C0030106
+27692888	935	938	MIT	T109,T121	C0046343
+27692888	982	991	ozonation	T067	C1254366
+27692888	992	1000	products	T071	C1514468
+27692888	1021	1053	time-of-flight mass spectrometry	T059	C0599827
+27692888	1073	1087	organic sulfur	T121,T123,T196	C0038774
+27692888	1095	1098	MIT	T109,T121	C0046343
+27692888	1103	1111	oxidized	T044	C0030011
+27692888	1123	1135	sulfate ions	T196	C3536965
+27692888	1152	1160	decrease	T081	C0547047
+27692888	1164	1166	pH	T081	C0020283
+27692888	1168	1180	Sulfur atoms	T121,T123,T196	C0038774
+27692888	1186	1194	oxidized	T044	C0030011
+27692888	1198	1213	sulfone species	T109,T121	C0038761
+27692888	1225	1234	ydrolyzed	T070	C0020291
+27692888	1243	1250	sulfate	T196	C3536965
+27692888	1258	1267	ozonation	T067	C1254366
+27692888	1269	1287	Addition reactions	T067	C0596304
+27692888	1298	1324	carbon-carbon double bonds	T044	C0813982
+27692888	1333	1342	oxidation	T044	C0030011
+27692888	1346	1354	α-carbon	T196	C0007009
+27692888	1355	1360	atoms	T196	C0567415
+27692888	1376	1379	MIT	T109,T121	C0046343
+27692888	1396	1402	lethal	T033	C3151529
+27692888	1406	1426	Daphnia magna Straus	T204	C1081963
+27692888	1428	1436	D. magna	T204	C1081963
+27692888	1452	1458	lethal	T033	C3151529
+27692888	1459	1472	concentration	T081	C1446561
+27692888	1513	1522	ozonation	T067	C1254366
+27692888	1523	1531	products	T071	C1514468
+27692888	1535	1538	MIT	T109,T121	C0046343
+27692888	1557	1565	toxicity	T037	C0600688
+27692888	1569	1577	D. magna	T204	C1081963
+27692888	1579	1584	ozone	T103	C0030106
+27692888	1591	1599	minimize	T080	C0392756
+27692888	1604	1616	toxic effect	T037	C0600688
+27692888	1625	1629	long	T080	C0205166
+27692888	1630	1643	reaction time	T079	C0034746

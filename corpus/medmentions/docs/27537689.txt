@@ -1,0 +1,74 @@
+27537689|t|Delayed Recognition of Deterioration of Patients in General Wards Is Mostly Caused by Human Related Monitoring Failures: A Root Cause Analysis of Unplanned ICU Admissions
+27537689|a|An unplanned ICU admission of an inpatient is a serious adverse event (SAE). So far, no in depth-study has been performed to systematically analyse the root causes of unplanned ICU-admissions. The primary aim of this study was to identify the healthcare worker -, organisational -, technical ,- disease - and patient - related causes that contribute to acute unplanned ICU admissions from general wards using a Root-Cause Analysis Tool called PRISMA-medical. Although a Track and Trigger System (MEWS) was introduced in our hospital a few years ago, it was implemented without a clear protocol. Therefore, the secondary aim was to assess the adherence to a Track and Trigger system to identify deterioration on general hospital wards in patients eventually transferred to the ICU. Retrospective observational study in 49 consecutive adult patients acutely admitted to the Intensive Care Unit from a general nursing ward. 1. PRISMA-analysis on root causes of unplanned ICU admissions 2. Assessment of protocol adherence to the early warning score system. Out of 49 cases, 156 root causes were identified. The most frequent root causes were healthcare worker related (46%), which were mainly failures in monitoring the patient. They were followed by disease -related (45%), patient -related causes (7, 5%), and organisational root causes (3%). In only 40% of the patients vital parameters were monitored as was instructed by the doctor. 477 vital parameter sets were found in the 48 hours before ICU admission, in only 1% a correct MEWS was explicitly documented in the record. This in-depth analysis demonstrates that almost half of the unplanned ICU admissions from the general ward had healthcare worker related root causes, mostly due to monitoring failures in clinically deteriorating patients. In order to reduce unplanned ICU admissions, improving the monitoring of patients is therefore warranted.
+27537689	0	7	Delayed	T079	C0205421
+27537689	8	19	Recognition	T041	C1285650
+27537689	23	36	Deterioration	T033	C0563273
+27537689	40	48	Patients	T101	C0030705
+27537689	52	65	General Wards	T073	C0043030
+27537689	86	91	Human	T016	C0086418
+27537689	100	110	Monitoring	T058	C1283169
+27537689	111	119	Failures	T169	C0231175
+27537689	123	142	Root Cause Analysis	T080	C3179036
+27537689	156	170	ICU Admissions	T058	C0583239
+27537689	184	197	ICU admission	T058	C0583239
+27537689	204	213	inpatient	T101	C0021562
+27537689	219	240	serious adverse event	T033	C1519255
+27537689	242	245	SAE	T033	C1519255
+27537689	323	334	root causes	T080	C3179036
+27537689	348	362	ICU-admissions	T058	C0583239
+27537689	414	431	healthcare worker	T097	C0018724
+27537689	435	449	organisational	T080	C0220885
+27537689	453	462	technical	T097	C0402239
+27537689	466	473	disease	T047	C0012634
+27537689	480	487	patient	T101	C0030705
+27537689	540	554	ICU admissions	T058	C0583239
+27537689	560	573	general wards	T073	C0043030
+27537689	582	606	Root-Cause Analysis Tool	T080	C3179036
+27537689	614	628	PRISMA-medical	T058	C0199168
+27537689	641	672	Track and Trigger System (MEWS)	T057	C0681689
+27537689	695	703	hospital	T073,T093	C0019994
+27537689	756	764	protocol	T061	C0008971
+27537689	828	852	Track and Trigger system	T057	C0681689
+27537689	865	878	deterioration	T033	C0563273
+27537689	882	904	general hospital wards	T073	C0043030
+27537689	908	916	patients	T101	C0030705
+27537689	947	950	ICU	T073,T093	C0021708
+27537689	952	985	Retrospective observational study	T062	C1518527
+27537689	1010	1018	patients	T101	C0030705
+27537689	1027	1035	admitted	T058	C0184666
+27537689	1043	1062	Intensive Care Unit	T073,T093	C0021708
+27537689	1070	1090	general nursing ward	T058	C0204637
+27537689	1095	1110	PRISMA-analysis	T062	C0936012
+27537689	1114	1125	root causes	T080	C3179036
+27537689	1139	1153	ICU admissions	T058	C0583239
+27537689	1171	1179	protocol	T061	C0008971
+27537689	1197	1223	early warning score system	T033	C2919393
+27537689	1246	1257	root causes	T080	C3179036
+27537689	1293	1304	root causes	T080	C3179036
+27537689	1310	1327	healthcare worker	T097	C0018724
+27537689	1361	1369	failures	T169	C0231175
+27537689	1373	1383	monitoring	T058	C1283169
+27537689	1388	1395	patient	T101	C0030705
+27537689	1419	1426	disease	T047	C0012634
+27537689	1443	1450	patient	T101	C0030705
+27537689	1480	1494	organisational	T080	C0220885
+27537689	1495	1506	root causes	T080	C3179036
+27537689	1532	1540	patients	T101	C0030705
+27537689	1541	1557	vital parameters	T077	C0549193
+27537689	1598	1604	doctor	T097	C0031831
+27537689	1610	1625	vital parameter	T077	C0549193
+27537689	1665	1678	ICU admission	T058	C0583239
+27537689	1701	1705	MEWS	T057	C0681689
+27537689	1721	1731	documented	T058	C1301725
+27537689	1752	1769	in-depth analysis	T062	C0936012
+27537689	1817	1831	ICU admissions	T058	C0583239
+27537689	1841	1853	general ward	T073	C0043030
+27537689	1858	1875	healthcare worker	T097	C0018724
+27537689	1884	1895	root causes	T080	C3179036
+27537689	1911	1921	monitoring	T058	C1283169
+27537689	1922	1930	failures	T169	C0231175
+27537689	1934	1958	clinically deteriorating	T033	C0563273
+27537689	1959	1967	patients	T101	C0030705
+27537689	1998	2012	ICU admissions	T058	C0583239
+27537689	2028	2038	monitoring	T058	C1283169
+27537689	2042	2050	patients	T101	C0030705

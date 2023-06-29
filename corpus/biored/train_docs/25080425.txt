@@ -1,0 +1,45 @@
+25080425|t|Regulation of signal transducer and activator of transcription 3 and apoptotic pathways by betaine attenuates isoproterenol-induced acute myocardial injury in rats.
+25080425|a|The present study was designed to investigate the cardioprotective effects of betaine on acute myocardial ischemia induced experimentally in rats focusing on regulation of signal transducer and activator of transcription 3 (STAT3) and apoptotic pathways as the potential mechanism underlying the drug effect. Male Sprague Dawley rats were treated with betaine (100, 200, and 400 mg/kg) orally for 40 days. Acute myocardial ischemic injury was induced in rats by subcutaneous injection of isoproterenol (85 mg/kg), for two consecutive days. Serum cardiac marker enzyme, histopathological variables and expression of protein levels were analyzed. Oral administration of betaine (200 and 400 mg/kg) significantly reduced the level of cardiac marker enzyme in the serum and prevented left ventricular remodeling. Western blot analysis showed that isoproterenol-induced phosphorylation of STAT3 was maintained or further enhanced by betaine treatment in myocardium. Furthermore, betaine (200 and 400 mg/kg) treatment increased the ventricular expression of Bcl-2 and reduced the level of Bax, therefore causing a significant increase in the ratio of Bcl-2/Bax. The protective role of betaine on myocardial damage was further confirmed by histopathological examination. In summary, our results showed that betaine pretreatment attenuated isoproterenol-induced acute myocardial ischemia via the regulation of STAT3 and apoptotic pathways.
+25080425	14	64	signal transducer and activator of transcription 3	GeneOrGeneProduct	25125
+25080425	91	98	betaine	ChemicalEntity	D001622
+25080425	110	123	isoproterenol	ChemicalEntity	D007545
+25080425	138	155	myocardial injury	DiseaseOrPhenotypicFeature	D009202
+25080425	159	163	rats	OrganismTaxon	10116
+25080425	243	250	betaine	ChemicalEntity	D001622
+25080425	260	279	myocardial ischemia	DiseaseOrPhenotypicFeature	D017202
+25080425	306	310	rats	OrganismTaxon	10116
+25080425	337	387	signal transducer and activator of transcription 3	GeneOrGeneProduct	25125
+25080425	389	394	STAT3	GeneOrGeneProduct	25125
+25080425	494	498	rats	OrganismTaxon	10116
+25080425	517	524	betaine	ChemicalEntity	D001622
+25080425	577	603	myocardial ischemic injury	DiseaseOrPhenotypicFeature	D017202
+25080425	619	623	rats	OrganismTaxon	10116
+25080425	653	666	isoproterenol	ChemicalEntity	D007545
+25080425	833	840	betaine	ChemicalEntity	D001622
+25080425	950	972	ventricular remodeling	DiseaseOrPhenotypicFeature	D020257
+25080425	1008	1021	isoproterenol	ChemicalEntity	D007545
+25080425	1049	1054	STAT3	GeneOrGeneProduct	25125
+25080425	1093	1100	betaine	ChemicalEntity	D001622
+25080425	1139	1146	betaine	ChemicalEntity	D001622
+25080425	1217	1222	Bcl-2	GeneOrGeneProduct	24224
+25080425	1248	1251	Bax	GeneOrGeneProduct	24887
+25080425	1310	1315	Bcl-2	GeneOrGeneProduct	24224
+25080425	1316	1319	Bax	GeneOrGeneProduct	24887
+25080425	1344	1351	betaine	ChemicalEntity	D001622
+25080425	1355	1372	myocardial damage	DiseaseOrPhenotypicFeature	D009202
+25080425	1465	1472	betaine	ChemicalEntity	D001622
+25080425	1497	1510	isoproterenol	ChemicalEntity	D007545
+25080425	1525	1544	myocardial ischemia	DiseaseOrPhenotypicFeature	D017202
+25080425	1567	1572	STAT3	GeneOrGeneProduct	25125
+25080425	Positive_Correlation	D017202	D007545	No
+25080425	Association	D017202	25125	Novel
+25080425	Positive_Correlation	D007545	D009202	No
+25080425	Association	D007545	25125	Novel
+25080425	Association	D009202	25125	Novel
+25080425	Negative_Correlation	D001622	24887	Novel
+25080425	Positive_Correlation	D001622	24224	Novel
+25080425	Negative_Correlation	D001622	D020257	Novel
+25080425	Negative_Correlation	D001622	D017202	Novel
+25080425	Negative_Correlation	D001622	D007545	Novel
+25080425	Negative_Correlation	D001622	D009202	Novel
+25080425	Association	D001622	25125	Novel

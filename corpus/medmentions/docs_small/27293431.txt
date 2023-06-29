@@ -1,0 +1,36 @@
+27293431|t|A Support Vector Machine Classification of Thyroid Bioptic Specimens Using MALDI-MSI Data
+27293431|a|Biomarkers able to characterise and predict multifactorial diseases are still one of the most important targets for all the " omics " investigations. In this context, Matrix-Assisted Laser Desorption/Ionisation-Mass Spectrometry Imaging (MALDI-MSI) has gained considerable attention in recent years, but it also led to a huge amount of complex data to be elaborated and interpreted. For this reason, computational and machine learning procedures for biomarker discovery are important tools to consider, both to reduce data dimension and to provide predictive markers for specific diseases. For instance, the availability of protein and genetic markers to support thyroid lesion diagnoses would impact deeply on society due to the high presence of undetermined reports (THY3) that are generally treated as malignant patients. In this paper we show how an accurate classification of thyroid bioptic specimens can be obtained through the application of a state-of-the-art machine learning approach (i.e., Support Vector Machines) on MALDI-MSI data, together with a particular wrapper feature selection algorithm (i.e., recursive feature elimination). The model is able to provide an accurate discriminatory capability using only 20 out of 144 features, resulting in an increase of the model performances, reliability, and computational efficiency. Finally, tissue areas rather than average proteomic profiles are classified, highlighting potential discriminating areas of clinical interest.
+27293431	25	39	Classification	T170	UMLS:C0008902
+27293431	43	50	Thyroid	T017	UMLS:C0040132
+27293431	51	68	Bioptic Specimens	T017	UMLS:C0677862
+27293431	75	84	MALDI-MSI	T058	UMLS:C0282597
+27293431	90	100	Biomarkers	T201	UMLS:C0005516
+27293431	149	157	diseases	T038	UMLS:C0012634
+27293431	257	326	Matrix-Assisted Laser Desorption/Ionisation-Mass Spectrometry Imaging	T058	UMLS:C0282597
+27293431	328	337	MALDI-MSI	T058	UMLS:C0282597
+27293431	363	372	attention	T038	UMLS:C0004268
+27293431	490	503	computational	T062	UMLS:C1516769
+27293431	540	549	biomarker	T201	UMLS:C0005516
+27293431	649	656	markers	T201	UMLS:C0005516
+27293431	670	678	diseases	T038	UMLS:C0012634
+27293431	714	721	protein	T103	UMLS:C0033684
+27293431	734	741	markers	T201	UMLS:C0005516
+27293431	753	760	thyroid	T017	UMLS:C0040132
+27293431	761	767	lesion	T033	UMLS:C0221198
+27293431	768	777	diagnoses	T062	UMLS:C1704656
+27293431	791	797	deeply	T082	UMLS:C0205125
+27293431	801	808	society	T098	UMLS:C0027361
+27293431	850	857	reports	T170	UMLS:C0684224
+27293431	859	863	THY3	T170	UMLS:C0684224
+27293431	953	967	classification	T170	UMLS:C0008902
+27293431	971	978	thyroid	T017	UMLS:C0040132
+27293431	979	996	bioptic specimens	T017	UMLS:C0677862
+27293431	1120	1129	MALDI-MSI	T058	UMLS:C0282597
+27293431	1189	1198	algorithm	T170	UMLS:C0002045
+27293431	1206	1235	recursive feature elimination	T170	UMLS:C0282574
+27293431	1444	1450	tissue	T017	UMLS:C0040300
+27293431	1451	1456	areas	T082	UMLS:C0205146
+27293431	1477	1495	proteomic profiles	T033	UMLS:C3463810
+27293431	1500	1510	classified	T170	UMLS:C0008902
+27293431	1550	1555	areas	T082	UMLS:C0205146
+27293431	1568	1576	interest	T038	UMLS:C0543488

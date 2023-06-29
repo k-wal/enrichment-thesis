@@ -1,0 +1,32 @@
+18050247|t|Identification of novel susceptibility genes in childhood-onset systemic lupus erythematosus using a uniquely designed candidate gene pathway platform.
+18050247|a|OBJECTIVE: Childhood-onset systemic lupus erythematosus (SLE) presents a unique subgroup of patients for genetic study. The present study was undertaken to identify susceptibility genes contributing to SLE, using a novel candidate gene pathway microarray platform to investigate gene expression in patients with childhood-onset SLE and both of their parents. METHODS: Utilizing bioinformatic tools, a platform of 9,412 single-nucleotide polymorphisms (SNPs) from 1,204 genes was designed and validated. Molecular inversion probes and high-throughput SNP technologies were used for assay development. Seven hundred fifty three subjects, corresponding to 251 full trios of childhood-onset SLE families, were genotyped and analyzed using transmission disequilibrium testing (TDT) and multitest corrections. RESULTS: Family-based TDT showed a significant association of SLE with a N673S polymorphism in the P-selectin gene (SELP) (P = 5.74 x 10(-6)) and a C203S polymorphism in the interleukin-1 receptor-associated kinase 1 gene (IRAK1) (P = 9.58 x 10(-6)). These 2 SNPs had a false discovery rate for multitest correction of <0.05, and therefore a >95% probability of being considered as proven. Furthermore, 7 additional SNPs showed q values of <0.5, suggesting association with SLE and providing a direction for followup studies. These additional genes notably included TNFRSF6 (Fas) and IRF5, supporting previous findings of their association with SLE pathogenesis. CONCLUSION: SELP and IRAK1 were identified as novel SLE-associated genes with a high degree of significance, suggesting new directions in understanding the pathogenesis of SLE. The overall design and results of this study demonstrate that the candidate gene pathway microarray platform used provides a novel and powerful approach that is generally applicable in identifying genetic foundations of complex diseases.
+18050247	64	92	systemic lupus erythematosus	DiseaseOrPhenotypicFeature	D008180
+18050247	179	207	systemic lupus erythematosus	DiseaseOrPhenotypicFeature	D008180
+18050247	209	212	SLE	DiseaseOrPhenotypicFeature	D008180
+18050247	244	252	patients	OrganismTaxon	9606
+18050247	354	357	SLE	DiseaseOrPhenotypicFeature	D008180
+18050247	450	458	patients	OrganismTaxon	9606
+18050247	480	483	SLE	DiseaseOrPhenotypicFeature	D008180
+18050247	839	842	SLE	DiseaseOrPhenotypicFeature	D008180
+18050247	1018	1021	SLE	DiseaseOrPhenotypicFeature	D008180
+18050247	1029	1034	N673S	SequenceVariant	rs3917815
+18050247	1055	1065	P-selectin	GeneOrGeneProduct	6403
+18050247	1072	1076	SELP	GeneOrGeneProduct	6403
+18050247	1104	1109	C203S	SequenceVariant	rs10127175
+18050247	1130	1172	interleukin-1 receptor-associated kinase 1	GeneOrGeneProduct	3654
+18050247	1179	1184	IRAK1	GeneOrGeneProduct	3654
+18050247	1430	1433	SLE	DiseaseOrPhenotypicFeature	D008180
+18050247	1522	1529	TNFRSF6	GeneOrGeneProduct	355
+18050247	1531	1534	Fas	GeneOrGeneProduct	355
+18050247	1540	1544	IRF5	GeneOrGeneProduct	3663
+18050247	1601	1604	SLE	DiseaseOrPhenotypicFeature	D008180
+18050247	1631	1635	SELP	GeneOrGeneProduct	6403
+18050247	1640	1645	IRAK1	GeneOrGeneProduct	3654
+18050247	1671	1674	SLE	DiseaseOrPhenotypicFeature	D008180
+18050247	1791	1794	SLE	DiseaseOrPhenotypicFeature	D008180
+18050247	Positive_Correlation	D008180	rs3917815	Novel
+18050247	Association	D008180	3663	Novel
+18050247	Association	D008180	355	Novel
+18050247	Association	D008180	3654	Novel
+18050247	Positive_Correlation	D008180	rs10127175	Novel
+18050247	Association	D008180	6403	Novel

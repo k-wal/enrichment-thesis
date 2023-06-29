@@ -1,0 +1,77 @@
+18674790|t|High fat diet-fed obese rats are highly sensitive to doxorubicin-induced cardiotoxicity.
+18674790|a|Often, chemotherapy by doxorubicin (Adriamycin) is limited due to life threatening cardiotoxicity in patients during and posttherapy. Recently, we have shown that moderate diet restriction remarkably protects against doxorubicin-induced cardiotoxicity. This cardioprotection is accompanied by decreased cardiac oxidative stress and triglycerides and increased cardiac fatty-acid oxidation, ATP synthesis, and upregulated JAK/STAT3 pathway. In the current study, we investigated whether a physiological intervention by feeding 40% high fat diet (HFD), which induces obesity in male Sprague-Dawley rats (250-275 g), sensitizes to doxorubicin-induced cardiotoxicity. A LD(10) dose (8 mg doxorubicin/kg, ip) administered on day 43 of the HFD feeding regimen led to higher cardiotoxicity, cardiac dysfunction, lipid peroxidation, and 80% mortality in the obese (OB) rats in the absence of any significant renal or hepatic toxicity. Doxorubicin toxicokinetics studies revealed no change in accumulation of doxorubicin and doxorubicinol (toxic metabolite) in the normal diet-fed (ND) and OB hearts. Mechanistic studies revealed that OB rats are sensitized due to: (1) higher oxyradical stress leading to upregulation of uncoupling proteins 2 and 3, (2) downregulation of cardiac peroxisome proliferators activated receptor-alpha, (3) decreased plasma adiponectin levels, (4) decreased cardiac fatty-acid oxidation (666.9+/-14.0 nmol/min/g heart in ND versus 400.2+/-11.8 nmol/min/g heart in OB), (5) decreased mitochondrial AMP-alpha2 protein kinase, and (6) 86% drop in cardiac ATP levels accompanied by decreased ATP/ADP ratio after doxorubicin administration. Decreased cardiac erythropoietin and increased SOCS3 further downregulated the cardioprotective JAK/STAT3 pathway. In conclusion, HFD-induced obese rats are highly sensitized to doxorubicin-induced cardiotoxicity by substantially downregulating cardiac mitochondrial ATP generation, increasing oxidative stress and downregulating the JAK/STAT3 pathway.
+18674790	5	8	fat	ChemicalEntity	D004041
+18674790	18	23	obese	DiseaseOrPhenotypicFeature	D009765
+18674790	24	28	rats	OrganismTaxon	10116
+18674790	53	64	doxorubicin	ChemicalEntity	D004317
+18674790	73	87	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+18674790	112	123	doxorubicin	ChemicalEntity	D004317
+18674790	125	135	Adriamycin	ChemicalEntity	D004317
+18674790	172	186	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+18674790	190	198	patients	OrganismTaxon	9606
+18674790	306	317	doxorubicin	ChemicalEntity	D004317
+18674790	326	340	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+18674790	421	434	triglycerides	ChemicalEntity	D014280
+18674790	457	467	fatty-acid	ChemicalEntity	D005227
+18674790	479	482	ATP	ChemicalEntity	D000255
+18674790	510	513	JAK	GeneOrGeneProduct	84598
+18674790	514	519	STAT3	GeneOrGeneProduct	25125
+18674790	624	627	fat	ChemicalEntity	D004041
+18674790	654	661	obesity	DiseaseOrPhenotypicFeature	D009765
+18674790	685	689	rats	OrganismTaxon	10116
+18674790	717	728	doxorubicin	ChemicalEntity	D004317
+18674790	737	751	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+18674790	773	784	doxorubicin	ChemicalEntity	D004317
+18674790	857	871	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+18674790	873	892	cardiac dysfunction	DiseaseOrPhenotypicFeature	D006331
+18674790	894	899	lipid	ChemicalEntity	D008055
+18674790	939	944	obese	DiseaseOrPhenotypicFeature	D009765
+18674790	946	948	OB	DiseaseOrPhenotypicFeature	D009765
+18674790	950	954	rats	OrganismTaxon	10116
+18674790	989	1014	renal or hepatic toxicity	DiseaseOrPhenotypicFeature	D007674,D056486
+18674790	1016	1027	Doxorubicin	ChemicalEntity	D004317
+18674790	1089	1100	doxorubicin	ChemicalEntity	D004317
+18674790	1105	1118	doxorubicinol	ChemicalEntity	C010013
+18674790	1170	1172	OB	DiseaseOrPhenotypicFeature	D009765
+18674790	1215	1217	OB	DiseaseOrPhenotypicFeature	D009765
+18674790	1218	1222	rats	OrganismTaxon	10116
+18674790	1302	1329	uncoupling proteins 2 and 3	GeneOrGeneProduct	25708,54315
+18674790	1361	1410	peroxisome proliferators activated receptor-alpha	GeneOrGeneProduct	25747
+18674790	1433	1444	adiponectin	GeneOrGeneProduct	246253
+18674790	1475	1485	fatty-acid	ChemicalEntity	D005227
+18674790	1573	1575	OB	DiseaseOrPhenotypicFeature	D009765
+18674790	1606	1631	AMP-alpha2 protein kinase	GeneOrGeneProduct	65248
+18674790	1661	1664	ATP	ChemicalEntity	D000255
+18674790	1697	1700	ATP	ChemicalEntity	D000255
+18674790	1701	1704	ADP	ChemicalEntity	D000244
+18674790	1717	1728	doxorubicin	ChemicalEntity	D004317
+18674790	1763	1777	erythropoietin	GeneOrGeneProduct	24335
+18674790	1792	1797	SOCS3	GeneOrGeneProduct	89829
+18674790	1841	1844	JAK	GeneOrGeneProduct	84598
+18674790	1845	1850	STAT3	GeneOrGeneProduct	25125
+18674790	1887	1892	obese	DiseaseOrPhenotypicFeature	D009765
+18674790	1893	1897	rats	OrganismTaxon	10116
+18674790	1923	1934	doxorubicin	ChemicalEntity	D004317
+18674790	1943	1957	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+18674790	2012	2015	ATP	ChemicalEntity	D000255
+18674790	2079	2082	JAK	GeneOrGeneProduct	84598
+18674790	2083	2088	STAT3	GeneOrGeneProduct	25125
+18674790	Positive_Correlation	24335	84598	Novel
+18674790	Positive_Correlation	24335	25125	Novel
+18674790	Association	84598	25125	No
+18674790	Negative_Correlation	89829	84598	Novel
+18674790	Negative_Correlation	89829	25125	Novel
+18674790	Association	D005227	D009765	Novel
+18674790	Positive_Correlation	D004041	D009765	Novel
+18674790	Association	D004317	D000244	Novel
+18674790	Negative_Correlation	D004317	D000255	Novel
+18674790	Association	D004317	D008055	Novel
+18674790	Positive_Correlation	D004317	D006331	Novel
+18674790	Positive_Correlation	D004317	D066126	No
+18674790	Negative_Correlation	D009765	D000255	Novel
+18674790	Association	D009765	65248	Novel
+18674790	Association	D009765	25747	Novel
+18674790	Association	D009765	54315	Novel
+18674790	Association	D009765	25708	Novel
+18674790	Association	D009765	246253	Novel
+18674790	Positive_Correlation	D009765	D004317	Novel

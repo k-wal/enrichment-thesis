@@ -1,0 +1,64 @@
+27509301|t|Prediction of Estrogenic Bioactivity of Environmental Chemical Metabolites
+27509301|a|The US Environmental Protection Agency's (EPA) Endocrine Disruptor Screening Program (EDSP) is using in vitro data generated from ToxCast / Tox21 high-throughput screening assays to assess the endocrine activity of environmental chemicals. Considering that in vitro assays may have limited metabolic capacity, inactive chemicals that are biotransformed into metabolites with endocrine bioactivity may be missed for further screening and testing. Therefore, there is a value in developing novel approaches to account for metabolism and endocrine activity of both parent chemicals and their associated metabolites. We used commercially available software to predict metabolites of 50 parent compounds, out of which 38 chemicals are known to have estrogenic metabolites, and 12 compounds and their metabolites are negative for estrogenic activity. Three ER QSAR models were used to determine potential estrogen bioactivity of the parent compounds and predicted metabolites, the outputs of the models were averaged, and the chemicals were then ranked based on the total estrogenicity of the parent chemical and metabolites. The metabolite prediction software correctly identified known estrogenic metabolites for 26 out of 27 parent chemicals with associated metabolite data, and 39 out of 46 estrogenic metabolites were predicted as potential biotransformation products derived from the parent chemical. The QSAR models estimated stronger estrogenic activity for the majority of the known estrogenic metabolites compared to their parent chemicals. Finally, the three models identified a similar set of parent compounds as top ranked chemicals based on the estrogenicity of putative metabolites. This proposed in silico approach is an inexpensive and rapid strategy for the detection of chemicals with estrogenic metabolites and may reduce potential false negative results from in vitro assays.
+27509301	14	24	Estrogenic	T103	UMLS:C0014939
+27509301	40	62	Environmental Chemical	T103	UMLS:C0220806
+27509301	63	74	Metabolites	T103	UMLS:C0870883
+27509301	79	115	US Environmental Protection Agency's	T092	UMLS:C0041712
+27509301	117	120	EPA	T092	UMLS:C0041712
+27509301	205	212	ToxCast	T170	UMLS:C0282574
+27509301	215	220	Tox21	T170	UMLS:C0282574
+27509301	221	253	high-throughput screening assays	T058	UMLS:C2718002
+27509301	268	277	endocrine	T022	UMLS:C0014136
+27509301	290	313	environmental chemicals	T103	UMLS:C0220806
+27509301	332	347	in vitro assays	T058	UMLS:C3850137
+27509301	385	403	inactive chemicals	T103	UMLS:C0220806
+27509301	413	427	biotransformed	T038	UMLS:C0005576
+27509301	433	444	metabolites	T103	UMLS:C0870883
+27509301	450	459	endocrine	T022	UMLS:C0014136
+27509301	595	605	metabolism	T038	UMLS:C0025519
+27509301	610	619	endocrine	T022	UMLS:C0014136
+27509301	637	653	parent chemicals	T103	UMLS:C0220806
+27509301	675	686	metabolites	T103	UMLS:C0870883
+27509301	719	727	software	T170	UMLS:C0037585
+27509301	739	750	metabolites	T103	UMLS:C0870883
+27509301	757	773	parent compounds	T103	UMLS:C1706082
+27509301	791	800	chemicals	T103	UMLS:C0220806
+27509301	819	829	estrogenic	T103	UMLS:C0014939
+27509301	830	841	metabolites	T103	UMLS:C0870883
+27509301	850	859	compounds	T103	UMLS:C1706082
+27509301	870	881	metabolites	T103	UMLS:C0870883
+27509301	899	909	estrogenic	T103	UMLS:C0014939
+27509301	926	928	ER	T103	UMLS:C0034804
+27509301	934	940	models	T170	UMLS:C3161035
+27509301	974	982	estrogen	T103	UMLS:C0014939
+27509301	1002	1018	parent compounds	T103	UMLS:C1706082
+27509301	1033	1044	metabolites	T103	UMLS:C0870883
+27509301	1065	1071	models	T170	UMLS:C3161035
+27509301	1095	1104	chemicals	T103	UMLS:C0220806
+27509301	1162	1177	parent chemical	T103	UMLS:C0220806
+27509301	1182	1193	metabolites	T103	UMLS:C0870883
+27509301	1199	1229	metabolite prediction software	T170	UMLS:C0037585
+27509301	1257	1267	estrogenic	T103	UMLS:C0014939
+27509301	1268	1279	metabolites	T103	UMLS:C0870883
+27509301	1297	1313	parent chemicals	T103	UMLS:C0220806
+27509301	1330	1340	metabolite	T103	UMLS:C0870883
+27509301	1364	1374	estrogenic	T103	UMLS:C0014939
+27509301	1375	1386	metabolites	T103	UMLS:C0870883
+27509301	1415	1432	biotransformation	T038	UMLS:C0005576
+27509301	1433	1441	products	T103	UMLS:C0005522
+27509301	1459	1474	parent chemical	T103	UMLS:C0220806
+27509301	1485	1491	models	T170	UMLS:C3161035
+27509301	1511	1521	estrogenic	T103	UMLS:C0014939
+27509301	1561	1571	estrogenic	T103	UMLS:C0014939
+27509301	1572	1583	metabolites	T103	UMLS:C0870883
+27509301	1602	1618	parent chemicals	T103	UMLS:C0220806
+27509301	1639	1645	models	T170	UMLS:C3161035
+27509301	1674	1690	parent compounds	T103	UMLS:C1706082
+27509301	1705	1714	chemicals	T103	UMLS:C0220806
+27509301	1754	1765	metabolites	T103	UMLS:C0870883
+27509301	1845	1854	detection	T033	UMLS:C0442726
+27509301	1858	1867	chemicals	T103	UMLS:C0220806
+27509301	1873	1883	estrogenic	T103	UMLS:C0014939
+27509301	1884	1895	metabolites	T103	UMLS:C0870883
+27509301	1921	1935	false negative	T033	UMLS:C0205558
+27509301	1949	1964	in vitro assays	T058	UMLS:C3850137

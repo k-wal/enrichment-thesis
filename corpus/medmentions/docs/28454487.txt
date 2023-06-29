@@ -1,0 +1,74 @@
+28454487|t|Diffusion kurtosis imaging of the liver at 3 Tesla: in vivo comparison to standard diffusion-weighted imaging
+28454487|a|Background Functional techniques like diffusion-weighted imaging (DWI) are gaining more and more importance in liver magnetic resonance imaging (MRI). Diffusion kurtosis imaging (DKI) is an advanced technique that might help to overcome current limitations of DWI. Purpose To evaluate DKI for the differentiation of hepatic lesions in comparison to conventional DWI at 3 Tesla. Material and Methods Fifty-six consecutive patients were examined using a routine abdominal MR protocol at 3 Tesla which included DWI with b-values of 50, 400, 800, and 1000 s/mm(2). Apparent diffusion coefficient maps were calculated applying a standard mono-exponential fit, while a non-Gaussian kurtosis fit was used to obtain DKI maps. ADC as well as Kurtosis-corrected diffusion (D) values were quantified by region of interest analysis and compared between lesions. Results Sixty-eight hepatic lesions (hepatocellular carcinoma [HCC] [n = 25]; hepatic adenoma [n = 4], cysts [n = 18]; hepatic hemangioma [HH] [n = 18]; and focal nodular hyperplasia [n = 3]) were identified. Differentiation of malignant and benign lesions was possible based on both DWI ADC as well as DKI D-values (P values were in the range of 0.04 to < 0.0001). Conclusion In vivo abdominal DKI calculated using standard b-values is feasible and enables quantitative differentiation between malignant and benign liver lesions. Assessment of conventional ADC values leads to similar results when using b-values below 1000 s/mm(2) for DKI calculation.
+28454487	0	26	Diffusion kurtosis imaging	T060	C3896679
+28454487	34	39	liver	T023	C0023884
+28454487	43	50	3 Tesla	T081	C1551055
+28454487	52	59	in vivo	T082	C1515655
+28454487	60	70	comparison	T052	C1707455
+28454487	83	109	diffusion-weighted imaging	T060	C0598801
+28454487	132	142	techniques	T060	C0430022
+28454487	148	174	diffusion-weighted imaging	T060	C0598801
+28454487	176	179	DWI	T060	C0598801
+28454487	221	226	liver	T023	C0023884
+28454487	227	253	magnetic resonance imaging	T060	C0024485
+28454487	255	258	MRI	T060	C0024485
+28454487	261	287	Diffusion kurtosis imaging	T060	C3896679
+28454487	289	292	DKI	T060	C3896679
+28454487	309	318	technique	T060	C0430022
+28454487	355	366	limitations	T169	C0449295
+28454487	370	373	DWI	T060	C0598801
+28454487	395	398	DKI	T060	C3896679
+28454487	407	422	differentiation	T169	C2945687
+28454487	426	441	hepatic lesions	T033	C0577053
+28454487	445	455	comparison	T052	C1707455
+28454487	472	475	DWI	T060	C0598801
+28454487	479	486	3 Tesla	T081	C1551055
+28454487	531	539	patients	T101	C0030705
+28454487	570	591	abdominal MR protocol	T060	C0412693
+28454487	595	602	3 Tesla	T081	C1551055
+28454487	618	621	DWI	T060	C0598801
+28454487	627	635	b-values	T080	C0042295
+28454487	671	701	Apparent diffusion coefficient	T077	C3890194
+28454487	702	706	maps	T073	C0024779
+28454487	743	763	mono-exponential fit	T170	C0282574
+28454487	773	798	non-Gaussian kurtosis fit	T170	C0282574
+28454487	818	821	DKI	T060	C3896679
+28454487	822	826	maps	T073	C0024779
+28454487	828	831	ADC	T077	C3890194
+28454487	843	882	Kurtosis-corrected diffusion (D) values	T081	C0392762
+28454487	888	898	quantified	T081	C1709793
+28454487	921	929	analysis	T062	C0936012
+28454487	934	942	compared	T052	C1707455
+28454487	951	958	lesions	T033	C0577053
+28454487	980	995	hepatic lesions	T033	C0577053
+28454487	997	1021	hepatocellular carcinoma	T191	C2239176
+28454487	1023	1026	HCC	T191	C2239176
+28454487	1038	1053	hepatic adenoma	T191	C0206669
+28454487	1063	1068	cysts	T047	C0010709
+28454487	1079	1097	hepatic hemangioma	T191	C0238246
+28454487	1099	1101	HH	T191	C0238246
+28454487	1117	1142	focal nodular hyperplasia	T047	C0333980
+28454487	1169	1184	Differentiation	T169	C2945687
+28454487	1188	1197	malignant	T080	C0205282
+28454487	1202	1208	benign	T080	C0205183
+28454487	1209	1216	lesions	T033	C0577053
+28454487	1244	1247	DWI	T060	C0598801
+28454487	1248	1251	ADC	T077	C3890194
+28454487	1263	1266	DKI	T060	C3896679
+28454487	1267	1275	D-values	T081	C0392762
+28454487	1337	1344	In vivo	T082	C1515655
+28454487	1345	1354	abdominal	T029	C0000726
+28454487	1355	1358	DKI	T060	C3896679
+28454487	1385	1393	b-values	T080	C0042295
+28454487	1418	1430	quantitative	T081	C0392762
+28454487	1431	1446	differentiation	T169	C2945687
+28454487	1455	1464	malignant	T080	C0205282
+28454487	1469	1475	benign	T080	C0205183
+28454487	1476	1489	liver lesions	T033	C0577053
+28454487	1491	1501	Assessment	T062	C0936012
+28454487	1518	1521	ADC	T077	C3890194
+28454487	1522	1528	values	T080	C0042295
+28454487	1546	1553	results	T169	C1274040
+28454487	1565	1573	b-values	T080	C0042295
+28454487	1597	1600	DKI	T060	C3896679
+28454487	1601	1612	calculation	T052	C1441506

@@ -1,0 +1,64 @@
+27772674|t|Geolocalization of Influenza Outbreak Within an Acute Care Population: A Layered-Surveillance Approach
+27772674|a|We seek to use a novel layered-surveillance approach to localize influenza clusters within an acute care population. The first layer of this system is a syndromic surveillance screen to guide rapid polymerase chain reaction testing. The second layer is geolocalization and cluster analysis of these patients. We posit that any identified clusters could represent at-risk populations who could serve as high-yield targets for preventive medical interventions. This was a prospective observational surveillance study. Patients were screened with a previously derived clinical decision guideline that has a 90% sensitivity and 30% specificity for influenza. Patients received points for the following signs and symptoms within the past 7 days: cough (2 points), headache (1 point), subjective fever (1 point), and documented fever at triage (temperature >38°C [100.4°F]) (1 point). Patients scoring 3 points or higher were indicated for influenza testing. Patients were tested with Xpert Flu (Cepheid, Sunnyvale, CA), a rapid polymerase chain reaction test. Positive results were mapped with ArcGIS (ESRI, Redlands, CA) and analyzed with kernel density estimation to create heat maps. There were 1,360 patients tested with Xpert Flu with retrievable addresses within the greater Phoenix metro area. One hundred sixty-seven (12%) of them tested positive for influenza A and 23 (2%) tested positive for influenza B. The influenza A virus exhibited a clear cluster pattern within this patient population. The densest cluster was located in an approximately 1- square-mile region southeast of our hospital. Our layered-surveillance approach was effective in localizing a cluster of influenza A outbreak. This region may house a high-yield target population for public health intervention. Further collaborative efforts will be made between our hospital and the Maricopa County Department of Public Health to perform a series of community vaccination events before the next influenza season. We hope these efforts will ultimately serve to reduce the burden of this disease on our patient population, and that this system will serve as a framework for future investigations locating at-risk populations.
+27772674	0	15	Geolocalization	T082	UMLS:C0017446
+27772674	19	28	Influenza	T038	UMLS:C0021400
+27772674	48	58	Acute Care	T058	UMLS:C0679878
+27772674	59	69	Population	T098	UMLS:C1257890
+27772674	94	102	Approach	T082	UMLS:C0449445
+27772674	147	155	approach	T082	UMLS:C0449445
+27772674	159	167	localize	T082	UMLS:C0392752
+27772674	168	177	influenza	T038	UMLS:C0021400
+27772674	197	207	acute care	T058	UMLS:C0679878
+27772674	208	218	population	T098	UMLS:C1257890
+27772674	256	265	syndromic	T038	UMLS:C0039082
+27772674	266	285	surveillance screen	T058	UMLS:C1444548
+27772674	356	371	geolocalization	T082	UMLS:C0017446
+27772674	376	392	cluster analysis	T062	UMLS:C0009085
+27772674	466	485	at-risk populations	T098	UMLS:C0242444
+27772674	573	617	prospective observational surveillance study	T062	UMLS:C0033522
+27772674	633	641	screened	T058	UMLS:C0220908
+27772674	668	695	clinical decision guideline	T170	UMLS:C0282451
+27772674	747	756	influenza	T038	UMLS:C0021400
+27772674	801	819	signs and symptoms	T033	UMLS:C0037088
+27772674	844	849	cough	T033	UMLS:C0010200
+27772674	862	870	headache	T033	UMLS:C0018681
+27772674	914	930	documented fever	T033	UMLS:C0015967
+27772674	934	940	triage	T058	UMLS:C0040861
+27772674	1023	1032	indicated	T033	UMLS:C1444656
+27772674	1037	1046	influenza	T038	UMLS:C0021400
+27772674	1082	1091	Xpert Flu	T058	UMLS:C1510438
+27772674	1093	1100	Cepheid	T092	UMLS:C0683757
+27772674	1102	1111	Sunnyvale	T082	UMLS:C0017446
+27772674	1113	1115	CA	T082	UMLS:C0006754
+27772674	1158	1166	Positive	T033	UMLS:C1446409
+27772674	1192	1198	ArcGIS	T170	UMLS:C0815319
+27772674	1200	1204	ESRI	T092	UMLS:C0683757
+27772674	1206	1214	Redlands	T082	UMLS:C0017446
+27772674	1216	1218	CA	T082	UMLS:C0006754
+27772674	1224	1232	analyzed	T062	UMLS:C0936012
+27772674	1238	1263	kernel density estimation	T062	UMLS:C4279908
+27772674	1323	1332	Xpert Flu	T058	UMLS:C1510438
+27772674	1350	1359	addresses	T170	UMLS:C1442065
+27772674	1444	1468	positive for influenza A	T033	UMLS:C2748182
+27772674	1488	1512	positive for influenza B	T033	UMLS:C2748175
+27772674	1518	1535	influenza A virus	T005	UMLS:C0029347
+27772674	1562	1569	pattern	T082	UMLS:C0449774
+27772674	1590	1600	population	T098	UMLS:C1257890
+27772674	1626	1633	located	T082	UMLS:C0450429
+27772674	1669	1675	region	T082	UMLS:C0017446
+27772674	1676	1685	southeast	T082	UMLS:C1711190
+27772674	1693	1701	hospital	T092	UMLS:C0019994
+27772674	1728	1736	approach	T082	UMLS:C0449445
+27772674	1754	1764	localizing	T082	UMLS:C0392752
+27772674	1805	1811	region	T082	UMLS:C0017446
+27772674	1842	1852	population	T098	UMLS:C1257890
+27772674	1857	1883	public health intervention	T058	UMLS:C0699943
+27772674	1940	1948	hospital	T092	UMLS:C0019994
+27772674	1957	1972	Maricopa County	T082	UMLS:C3829199
+27772674	1973	2000	Department of Public Health	T092	UMLS:C3897811
+27772674	2034	2045	vaccination	T058	UMLS:C0042196
+27772674	2069	2078	influenza	T038	UMLS:C0021400
+27772674	2160	2167	disease	T038	UMLS:C0012634
+27772674	2183	2193	population	T098	UMLS:C1257890
+27772674	2253	2267	investigations	T058	UMLS:C0220825
+27772674	2277	2296	at-risk populations	T098	UMLS:C0242444

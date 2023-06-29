@@ -1,0 +1,45 @@
+15523499|t|Haplotype structure of the beta adrenergic receptor genes in US Caucasians and African Americans.
+15523499|a|The beta-adrenergic receptors (beta-AR) are G protein-coupled receptors activated by epinephrine and norepinephrine and are involved in a variety of their physiological functions. Previously, three beta-AR genes (ADRB1, ADRB2 and ADRB3) were resequenced, identifying polymorphisms that were used in genetic association studies of cardiovascular and metabolic disorders. These studies have produced intriguing but inconsistent results, potentially because the known functional variants: ADRB1 Arg389Gly and Gly49Ser, ADRB2 Arg16Gly and Gln27Glu, and ADRB3 Arg64Trp provided an incomplete picture of the total functional diversity at these genes. Therefore, we created marker panels for each beta-AR gene that included the known functional markers and also other markers evenly spaced and with sufficient density to identify haplotype block structure and to maximize haplotype diversity. A total of 27 markers were genotyped in 96 US Caucasians and 96 African Americans. In both populations and for each gene, a single block with little evidence of historical recombination was observed. For each gene, haplotype captured most of the information content of each functional locus, even if that locus was not genotyped, and presumably haplotype would capture the signal from unknown functional loci whose alleles are of moderate abundance. This study demonstrates the utility of using beta-AR gene haplotype maps and marker panels as tools for linkage studies on beta-AR function.
+15523499	27	51	beta adrenergic receptor	GeneOrGeneProduct	153,154,155
+15523499	102	127	beta-adrenergic receptors	GeneOrGeneProduct	153,154,155
+15523499	129	136	beta-AR	GeneOrGeneProduct	153,154,155
+15523499	183	194	epinephrine	ChemicalEntity	D004837
+15523499	199	213	norepinephrine	ChemicalEntity	D009638
+15523499	296	303	beta-AR	GeneOrGeneProduct	153,154,155
+15523499	311	316	ADRB1	GeneOrGeneProduct	153
+15523499	318	323	ADRB2	GeneOrGeneProduct	154
+15523499	328	333	ADRB3	GeneOrGeneProduct	155
+15523499	428	466	cardiovascular and metabolic disorders	DiseaseOrPhenotypicFeature	D002318,D008659
+15523499	584	589	ADRB1	GeneOrGeneProduct	153
+15523499	590	599	Arg389Gly	SequenceVariant	p|SUB|R|389|G
+15523499	604	612	Gly49Ser	SequenceVariant	p|SUB|G|49|S
+15523499	614	619	ADRB2	GeneOrGeneProduct	154
+15523499	620	628	Arg16Gly	SequenceVariant	p|SUB|R|16|G
+15523499	633	641	Gln27Glu	SequenceVariant	p|SUB|Q|27|E
+15523499	647	652	ADRB3	GeneOrGeneProduct	155
+15523499	653	661	Arg64Trp	SequenceVariant	p|SUB|R|64|W
+15523499	788	795	beta-AR	GeneOrGeneProduct	153,154,155
+15523499	1479	1486	beta-AR	GeneOrGeneProduct	153,154,155
+15523499	1557	1564	beta-AR	GeneOrGeneProduct	153,154,155
+15523499	Association	D008659	p|SUB|R|64|W	No
+15523499	Association	D008659	p|SUB|Q|27|E	No
+15523499	Association	D008659	p|SUB|R|16|G	No
+15523499	Association	D008659	p|SUB|G|49|S	No
+15523499	Association	D008659	p|SUB|R|389|G	No
+15523499	Association	D008659	155	No
+15523499	Association	D008659	154	No
+15523499	Association	D008659	153	No
+15523499	Association	D002318	p|SUB|R|64|W	No
+15523499	Association	D002318	p|SUB|Q|27|E	No
+15523499	Association	D002318	p|SUB|R|16|G	No
+15523499	Association	D002318	p|SUB|G|49|S	No
+15523499	Association	D002318	p|SUB|R|389|G	No
+15523499	Association	D002318	155	No
+15523499	Association	D002318	154	No
+15523499	Association	D002318	153	No
+15523499	Positive_Correlation	155	D009638	No
+15523499	Positive_Correlation	155	D004837	No
+15523499	Positive_Correlation	154	D009638	No
+15523499	Positive_Correlation	154	D004837	No
+15523499	Positive_Correlation	153	D009638	No
+15523499	Positive_Correlation	153	D004837	No

@@ -1,0 +1,82 @@
+27889529|t|Antiviral activities of selected antimalarials against dengue virus type 2 and Zika virus
+27889529|a|In a previous study, twelve antimalarial compounds, amodiaquine (AQ) and derivatives, were shown to have potent anti-dengue viral (DENV) activity by using the stable DENV2 Renilla luciferase reporter replicon expressing BHK-21 cells, infectivity (plaque), and the qRT-PCR assays. In this study, we performed molecular modeling on these compounds to determine their stereo-electronic properties required for optimal antiviral activity. Based on the similarity of calculated stereo-electronic profiles, specifically the electrostatic potential profiles of the compounds, and in silico screening of related compounds from literature, we identified three additional compounds, Quinacrine (QC), Mefloquine (MQ), and GSK369796. Analysis of their antiviral activities indicated that all three compounds have high anti-DENV activity in the DENV2 replicon expressing cells with EC50 values of 5.30 ± 1.31 μM (QC), 3.22 ± 0.37 μM (MQ), and 5.06 ± 0.86 μM (GSK369796). The infectivity assays revealed the EC50 values of 7.09 ± 1.67 μM (QC), 4.36 ± 0.31 μM (MQ) and 3.03 ± 0.35 μM (GSK369796). The mode of action of these compounds is through inhibition of autophagy, thereby affecting DENV2 replication. Moreover, these compounds also showed antiviral activity against the rapidly emerging Zika virus (ZIKV) with EC50 values of 2.27 ± 0.14 μM (QC), 3.95 ± 0.21 μM (MQ), and 2.57 ± 0.09 μM (GSK369796).
+27889529	0	20	Antiviral activities	T033	C0243095
+27889529	33	46	antimalarials	T121	C0003374
+27889529	47	54	against	T080	C0521124
+27889529	55	74	dengue virus type 2	T005	C0318759
+27889529	79	89	Zika virus	T005	C0318793
+27889529	95	103	previous	T079	C0205156
+27889529	104	110	study,	T062	C2603343
+27889529	118	140	antimalarial compounds	T121	C0003374
+27889529	142	153	amodiaquine	T109,T121	C0002641
+27889529	155	157	AQ	T109,T121	C0002641
+27889529	163	174	derivatives	T104	C0243072
+27889529	195	201	potent	T080	C1704419
+27889529	202	235	anti-dengue viral (DENV) activity	T033	C0243095
+27889529	249	255	stable	T080	C0205360
+27889529	256	261	DENV2	T005	C0318759
+27889529	262	280	Renilla luciferase	T116,T126,T130	C1450145
+27889529	281	289	reporter	T028	C0206414
+27889529	290	298	replicon	T114,T123	C0035142
+27889529	299	309	expressing	T045	C0017262
+27889529	310	322	BHK-21 cells	T025	C0007634
+27889529	324	335	infectivity	T080	C0030657
+27889529	337	343	plaque	T059	C0032102
+27889529	354	368	qRT-PCR assays	T063	C1514628
+27889529	378	383	study	T062	C2603343
+27889529	388	397	performed	T169	C0884358
+27889529	398	416	molecular modeling	T062,T170	C0600115
+27889529	426	435	compounds	T121	C1254351
+27889529	455	483	stereo-electronic properties	T080	C0205556
+27889529	497	504	optimal	T080	C2698651
+27889529	505	523	antiviral activity	T033	C0243095
+27889529	538	548	similarity	T080	C2348205
+27889529	563	589	stereo-electronic profiles	T080	C0205556
+27889529	608	640	electrostatic potential profiles	T081	C0596484
+27889529	648	657	compounds	T121	C1254351
+27889529	663	682	in silico screening	T062	C0178605
+27889529	694	703	compounds	T121	C1254351
+27889529	709	719	literature	T170	C0023866
+27889529	724	734	identified	T080	C0205396
+27889529	741	751	additional	T169	C1524062
+27889529	752	761	compounds	T121	C1254351
+27889529	763	773	Quinacrine	T109,T121	C0034403
+27889529	775	777	QC	T109,T121	C0034403
+27889529	780	790	Mefloquine	T109,T121	C0025153
+27889529	792	794	MQ	T109,T121	C0025153
+27889529	801	810	GSK369796	T109,T121	C3884469
+27889529	830	850	antiviral activities	T033	C0243095
+27889529	870	885	three compounds	T121	C1254351
+27889529	891	895	high	T080	C0205250
+27889529	896	914	anti-DENV activity	T033	C0243095
+27889529	922	927	DENV2	T005	C0318759
+27889529	928	936	replicon	T114,T123	C0035142
+27889529	937	947	expressing	T045	C0017262
+27889529	948	953	cells	T025	C0007634
+27889529	959	970	EC50 values	T081	C0392762
+27889529	990	992	QC	T109,T121	C0034403
+27889529	1011	1013	MQ	T109,T121	C0025153
+27889529	1036	1045	GSK369796	T109,T121	C3884469
+27889529	1052	1070	infectivity assays	T059	C0032102
+27889529	1071	1079	revealed	T080	C0443289
+27889529	1084	1095	EC50 values	T081	C0392762
+27889529	1115	1117	QC	T109,T121	C0034403
+27889529	1136	1138	MQ	T109,T121	C0025153
+27889529	1160	1169	GSK369796	T109,T121	C3884469
+27889529	1176	1190	mode of action	T169	C1524059
+27889529	1200	1209	compounds	T121	C1254351
+27889529	1213	1220	through	T169	C0332273
+27889529	1221	1231	inhibition	T052	C3463820
+27889529	1235	1244	autophagy	T043	C0004391
+27889529	1254	1263	affecting	T169	C0392760
+27889529	1264	1269	DENV2	T005	C0318759
+27889529	1270	1281	replication	T043	C0042774
+27889529	1299	1308	compounds	T121	C1254351
+27889529	1321	1339	antiviral activity	T033	C0243095
+27889529	1340	1347	against	T080	C0521124
+27889529	1369	1379	Zika virus	T005	C0318793
+27889529	1381	1385	ZIKV	T005	C0318793
+27889529	1392	1403	EC50 values	T081	C0392762
+27889529	1423	1425	QC	T109,T121	C0034403
+27889529	1444	1446	MQ	T109,T121	C0025153
+27889529	1469	1478	GSK369796	T109,T121	C3884469

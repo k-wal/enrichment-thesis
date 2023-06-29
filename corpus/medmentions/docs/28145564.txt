@@ -1,0 +1,52 @@
+28145564|t|Cost-effectiveness of diabetes screening initiated through a dental visit
+28145564|a|To analyse the cost-effectiveness of a screening programme and follow-up interventions for persons with dysglycemia who are identified during a dental visit. This study is a secondary analysis utilizing data from two relevant publications. Those studies identified persons with dysglycemia who were seen in a dental school clinic for routine dental care and determined compliance with a recommendation to seek medical care. The response site was 59.4%. The Archimedes disease simulation model was utilized to simulate the effect of a weight loss programme for identified subjects on several outcomes. Two scenarios for weight loss programmes were considered: a 10% permanent loss in body weight and a 10% loss that decays over time. Both diabetes and prediabetes were analysed. The decay path costs $21 243 per quality adjusted life year (QALY) with 3 years required to achieve the weight reduction. This cost decreases to $6655 if only 1 year is needed to achieve the weight goal. Without decay, the cost per QALY is $15 873 with 20 years of intervention, vs $647 per QALY with 10 years of intervention. For individuals with type 2 diabetes mellitus, the cost per QALY is $48 604 to $56 207 depending on adherence. With the addition of oral medication (a sulfonylurea), the cost is three times higher. Under the conditions described here, identification of persons with dysglycemia in the dental office for initiating prediabetic care is a cost-effective means of identifying and treating affected individuals.
+28145564	0	18	Cost-effectiveness	T081	C0010181
+28145564	22	40	diabetes screening	T060	C0199229
+28145564	61	73	dental visit	T033	C2174685
+28145564	89	107	cost-effectiveness	T081	C0010181
+28145564	113	122	screening	T060	C0199229
+28145564	123	132	programme	T058	C0043113
+28145564	137	146	follow-up	T058	C1522577
+28145564	147	160	interventions	T058	C0010210
+28145564	165	172	persons	T098	C0027361
+28145564	178	189	dysglycemia	T047	C1960636
+28145564	218	230	dental visit	T033	C2174685
+28145564	248	281	secondary analysis utilizing data	UnknownType	C0683944
+28145564	339	346	persons	T098	C0027361
+28145564	352	363	dysglycemia	T047	C1960636
+28145564	383	403	dental school clinic	T073,T093	C0011344
+28145564	408	427	routine dental care	T058	C0029162
+28145564	461	496	recommendation to seek medical care	T058	C4047501
+28145564	531	566	Archimedes disease simulation model	UnknownType	C0681943
+28145564	608	629	weight loss programme	T058	C3179079
+28145564	665	673	outcomes	T169	C1274040
+28145564	679	688	scenarios	T169	C0683579
+28145564	693	715	weight loss programmes	T058	C3179079
+28145564	739	748	permanent	T079	C0205355
+28145564	749	768	loss in body weight	UnknownType	C0150908
+28145564	779	783	loss	T033	C1262477
+28145564	789	795	decays	T067	C2700592
+28145564	812	820	diabetes	T047	C0011847
+28145564	825	836	prediabetes	T047	C0362046
+28145564	856	866	decay path	T067	C2700592
+28145564	956	972	weight reduction	T033	C1262477
+28145564	1043	1054	weight goal	T033	C2012267
+28145564	1056	1063	Without	T080	C0332288
+28145564	1064	1069	decay	T067	C2700592
+28145564	1183	1194	individuals	T098	C0237401
+28145564	1200	1224	type 2 diabetes mellitus	T047	C0011860
+28145564	1279	1288	adherence	T169	C1510802
+28145564	1311	1326	oral medication	T061	C0175795
+28145564	1330	1342	sulfonylurea	T109,T121	C0038766
+28145564	1414	1428	identification	T058	C0150323
+28145564	1432	1439	persons	T098	C0027361
+28145564	1445	1456	dysglycemia	T047	C1960636
+28145564	1464	1477	dental office	T073	C0011386
+28145564	1482	1492	initiating	T169	C1704686
+28145564	1493	1504	prediabetic	T047	C0362046
+28145564	1505	1509	care	T058	C0086388
+28145564	1515	1529	cost-effective	T058	C0812114
+28145564	1539	1550	identifying	T058	C1269815
+28145564	1555	1563	treating	T169	C1522326
+28145564	1564	1572	affected	T169	C0392760
+28145564	1573	1584	individuals	T098	C0237401

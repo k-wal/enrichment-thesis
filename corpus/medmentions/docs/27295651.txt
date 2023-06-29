@@ -1,0 +1,64 @@
+27295651|t|Parametric Surface Diffeomorphometry for Low Dimensional Embeddings of Dense Segmentations and Imagery
+27295651|a|In the field of Computational Anatomy, biological form (including our focus, neuroanatomy) is studied quantitatively through the action of the diffeomorphism group on example anatomies - a technique called diffeomorphometry. Here we design an algorithm within this framework to pass from dense objects common in neuromaging studies (binary segmentations, structural images) to a sparse representation defined on the surface boundaries of anatomical structures, and embedded into the low dimensional coordinates of a parametric model. Our main new contribution is to introduce an expanded group action to simultaneously deform surfaces through direct mapping of points, as well as images through functional composition with the inverse. This allows us to index the diffeomorphisms with respect to two-dimensional surface geometries like subcortical gray matter structures, but explicitly map onto cost functions determined by noisy 3-dimensional measurements. We consider models generated from empirical covariance of training data, as well as bandlimited (Laplace-Beltrami eigenfunction) models when no such data is available. We show applications to noisy or anomalous segmentations, and other typical problems in neuroimaging studies. We reproduce statistical results detecting changes in Alzheimer's disease, despite dimensionality reduction. Lastly we apply our algorithm to the common problem of segmenting subcortical structures from T1 MR images.
+27295651	0	36	Parametric Surface Diffeomorphometry	T059	C0200760
+27295651	41	67	Low Dimensional Embeddings	T059	C1707903
+27295651	71	90	Dense Segmentations	T066	C2697664
+27295651	95	102	Imagery	T041	C0175631
+27295651	119	140	Computational Anatomy	T060	C0025086
+27295651	142	157	biological form	T091	C0005532
+27295651	180	192	neuroanatomy	T091	C0027816
+27295651	197	204	studied	T062	C0008972
+27295651	205	219	quantitatively	T081	C0392762
+27295651	232	238	action	T052	C3266814
+27295651	246	266	diffeomorphism group	T169	C0205245
+27295651	278	287	anatomies	T017	C0700276
+27295651	292	301	technique	T169	C0449851
+27295651	309	326	diffeomorphometry	T059	C0200762
+27295651	336	342	design	T052	C1707689
+27295651	346	355	algorithm	T170	C0002045
+27295651	391	396	dense	T080	C0439794
+27295651	415	426	neuromaging	T060	C0679575
+27295651	427	434	studies	T062	C0008972
+27295651	436	456	binary segmentations	T066	C2697664
+27295651	458	475	structural images	T170	C1704254
+27295651	482	488	sparse	T081	C0443295
+27295651	489	503	representation	T052	C1882932
+27295651	519	526	surface	T082	C0205148
+27295651	527	537	boundaries	T077	C2327423
+27295651	541	562	anatomical structures	T017	C0700276
+27295651	568	576	embedded	T059	C1707903
+27295651	586	589	low	T080	C0205251
+27295651	590	613	dimensional coordinates	T082	C1707511
+27295651	619	635	parametric model	UnknownType	C0681933
+27295651	682	703	expanded group action	T052	C3266814
+27295651	722	728	deform	T169	C0333067
+27295651	729	737	surfaces	T082	C0205148
+27295651	746	770	direct mapping of points	T052	C1283195
+27295651	783	789	images	T170	C1704254
+27295651	798	808	functional	T169	C0205245
+27295651	809	820	composition	T201	C0486616
+27295651	830	837	inverse	T080	C0439850
+27295651	867	882	diffeomorphisms	T169	C0205245
+27295651	899	914	two-dimensional	T082	C1705052
+27295651	915	922	surface	T082	C0205148
+27295651	939	973	subcortical gray matter structures	T023	C2323011
+27295651	1028	1060	noisy 3-dimensional measurements	T033	C2828145
+27295651	1074	1080	models	T075	C0026336
+27295651	1096	1116	empirical covariance	T081	C0814908
+27295651	1120	1133	training data	T078	C1511726
+27295651	1146	1197	bandlimited (Laplace-Beltrami eigenfunction) models	T075	C0026336
+27295651	1211	1215	data	T078	C1511726
+27295651	1254	1259	noisy	T066	C2697664
+27295651	1263	1272	anomalous	T033	C3277934
+27295651	1273	1286	segmentations	T066	C2697664
+27295651	1318	1330	neuroimaging	T060	C0679575
+27295651	1331	1338	studies	T062	C0008972
+27295651	1353	1364	statistical	T081	C2828391
+27295651	1365	1372	results	T169	C1274040
+27295651	1394	1413	Alzheimer's disease	T047	C0002395
+27295651	1423	1437	dimensionality	T082	C1707753
+27295651	1438	1447	reduction	T080	C0392756
+27295651	1469	1478	algorithm	T170	C0002045
+27295651	1504	1514	segmenting	T066	C2697664
+27295651	1515	1537	subcortical structures	T023	C2323011
+27295651	1543	1555	T1 MR images	T060	C0024485

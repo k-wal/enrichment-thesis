@@ -1,0 +1,51 @@
+20105280|t|Activated Ras alters lens and corneal development through induction of distinct downstream targets.
+20105280|a|BACKGROUND: Mammalian Ras genes regulate diverse cellular processes including proliferation and differentiation and are frequently mutated in human cancers. Tumor development in response to Ras activation varies between different tissues and the molecular basis for these variations are poorly understood. The murine lens and cornea have a common embryonic origin and arise from adjacent regions of the surface ectoderm. Activation of the fibroblast growth factor (FGF) signaling pathway induces the corneal epithelial cells to proliferate and the lens epithelial cells to exit the cell cycle. The molecular mechanisms that regulate the differential responses of these two related tissues have not been defined. We have generated transgenic mice that express a constitutively active version of human H-Ras in their lenses and corneas. RESULTS: Ras transgenic lenses and corneal epithelial cells showed increased proliferation with concomitant increases in cyclin D1 and D2 expression. This initial increase in proliferation is sustained in the cornea but not in the lens epithelial cells. Coincidentally, cdk inhibitors p27Kip1 and p57Kip2 were upregulated in the Ras transgenic lenses but not in the corneas. Phospho-Erk1 and Erk2 levels were elevated in the lens but not in the cornea and Spry 1 and Spry 2, negative regulators of Ras-Raf-Erk signaling, were upregulated more in the corneal than in the lens epithelial cells. Both lens and corneal differentiation programs were sensitive to Ras activation. Ras transgenic embryos showed a distinctive alteration in the architecture of the lens pit. Ras activation, though sufficient for upregulation of Prox1, a transcription factor critical for cell cycle exit and initiation of fiber differentiation, is not sufficient for induction of terminal fiber differentiation. Expression of Keratin 12, a marker of corneal epithelial differentiation, was reduced in the Ras transgenic corneas. CONCLUSIONS: Collectively, these results suggest that Ras activation a) induces distinct sets of downstream targets in the lens and cornea resulting in distinct cellular responses and b) is sufficient for initiation but not completion of lens fiber differentiation.
+20105280	10	13	Ras	GeneOrGeneProduct	3265
+20105280	122	125	Ras	GeneOrGeneProduct	3265
+20105280	242	247	human	OrganismTaxon	9606
+20105280	248	255	cancers	DiseaseOrPhenotypicFeature	D009369
+20105280	257	262	Tumor	DiseaseOrPhenotypicFeature	D009369
+20105280	290	293	Ras	GeneOrGeneProduct	3265
+20105280	410	416	murine	OrganismTaxon	10090
+20105280	539	563	fibroblast growth factor	GeneOrGeneProduct	64654
+20105280	565	568	FGF	GeneOrGeneProduct	64654
+20105280	841	845	mice	OrganismTaxon	10090
+20105280	894	899	human	OrganismTaxon	9606
+20105280	900	905	H-Ras	GeneOrGeneProduct	3265
+20105280	944	947	Ras	GeneOrGeneProduct	3265
+20105280	1056	1072	cyclin D1 and D2	GeneOrGeneProduct	12443,12444
+20105280	1205	1208	cdk	GeneOrGeneProduct	12575
+20105280	1220	1227	p27Kip1	GeneOrGeneProduct	12576
+20105280	1232	1239	p57Kip2	GeneOrGeneProduct	12577
+20105280	1264	1267	Ras	GeneOrGeneProduct	3265
+20105280	1318	1322	Erk1	GeneOrGeneProduct	26417
+20105280	1327	1331	Erk2	GeneOrGeneProduct	26413
+20105280	1391	1397	Spry 1	GeneOrGeneProduct	24063
+20105280	1402	1408	Spry 2	GeneOrGeneProduct	24064
+20105280	1433	1436	Ras	GeneOrGeneProduct	3265
+20105280	1437	1440	Raf	GeneOrGeneProduct	109880
+20105280	1441	1444	Erk	GeneOrGeneProduct	26413,26417
+20105280	1593	1596	Ras	GeneOrGeneProduct	3265
+20105280	1609	1612	Ras	GeneOrGeneProduct	3265
+20105280	1701	1704	Ras	GeneOrGeneProduct	3265
+20105280	1755	1760	Prox1	GeneOrGeneProduct	19130
+20105280	1936	1946	Keratin 12	GeneOrGeneProduct	268482
+20105280	2015	2018	Ras	GeneOrGeneProduct	3265
+20105280	2093	2096	Ras	GeneOrGeneProduct	3265
+20105280	Negative_Correlation	268482	3265	Novel
+20105280	Negative_Correlation	24064	26417	No
+20105280	Negative_Correlation	24064	26413	No
+20105280	Negative_Correlation	24064	109880	No
+20105280	Negative_Correlation	24064	3265	No
+20105280	Negative_Correlation	24063	26417	No
+20105280	Negative_Correlation	24063	26413	No
+20105280	Negative_Correlation	24063	109880	No
+20105280	Negative_Correlation	24063	3265	No
+20105280	Positive_Correlation	12577	3265	Novel
+20105280	Negative_Correlation	12575	12577	No
+20105280	Negative_Correlation	12575	12576	No
+20105280	Positive_Correlation	12576	3265	Novel
+20105280	Positive_Correlation	3265	19130	Novel
+20105280	Association	3265	D009369	No
+20105280	Positive_Correlation	3265	12444	Novel
+20105280	Positive_Correlation	3265	12443	Novel

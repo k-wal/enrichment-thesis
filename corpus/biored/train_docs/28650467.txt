@@ -1,0 +1,71 @@
+28650467|t|Genome-wide loss-of-function genetic screening identifies opioid receptor u1 as a key regulator of L-asparaginase resistance in pediatric acute lymphoblastic leukemia.
+28650467|a|L-asparaginase is a critical chemotherapeutic agent for acute lymphoblastic leukemia (ALL). It hydrolyzes plasma asparagine into aspartate and NH3, causing asparagine deficit and inhibition of protein synthesis and eventually, leukemic cell death. However, patient relapse often occurs due to development of resistance. The molecular mechanism by which ALL cells acquire resistance to L-asparaginase is unknown. Therefore, we sought to identify genes that are involved in L-asparaginase resistance in primary leukemic cells. By unbiased genome-wide RNAi screening, we found that among 10 resistant ALL clones, six hits were for opioid receptor mu 1 (oprm1), two hits were for carbonic anhydrase 1 (ca1) and another two hits were for ubiquitin-conjugating enzyme E2C (ube2c). We also found that OPRM1 is expressed in all leukemic cells tested. Specific knockdown of OPRM1 confers L-asparaginase resistance, validating our genome-wide retroviral shRNA library screening data. Methadone, an agonist of OPRM1, enhances the sensitivity of parental leukemic cells, but not OPRM1-depleted cells, to L-asparaginase treatment, indicating that OPRM1 is required for the synergistic action of L-asparaginase and methadone, and that OPRM1 loss promotes leukemic cell survival likely through downregulation of the OPRM1-mediated apoptotic pathway. Consistent with this premise, patient leukemic cells with relatively high levels of OPRM1 are more sensitive to L-asparaginase treatment compared to OPRM1-depleted leukemic cells, further indicating that OPRM1 loss has a crucial role in L-asparaginase resistance in leukemic patients. Thus, our study demonstrates for the first time, a novel OPRM1-mediated mechanism for L-asparaginase resistance in ALL, and identifies OPRM1 as a functional biomarker for defining high-risk subpopulations and for the detection of evolving resistant clones. Oprm1 may also be utilized for effective treatment of L-asparaginase-resistant ALL.Oncogene advance online publication, 26 June 2017; doi:10.1038/onc.2017.211.
+28650467	58	76	opioid receptor u1	GeneOrGeneProduct	4988
+28650467	99	113	L-asparaginase	ChemicalEntity	D001215
+28650467	138	166	acute lymphoblastic leukemia	DiseaseOrPhenotypicFeature	D054198
+28650467	168	182	L-asparaginase	ChemicalEntity	D001215
+28650467	224	252	acute lymphoblastic leukemia	DiseaseOrPhenotypicFeature	D054198
+28650467	254	257	ALL	DiseaseOrPhenotypicFeature	D054198
+28650467	281	291	asparagine	ChemicalEntity	D001216
+28650467	297	306	aspartate	ChemicalEntity	D001224
+28650467	311	314	NH3	ChemicalEntity	D000641
+28650467	324	342	asparagine deficit	DiseaseOrPhenotypicFeature	OMIM:615574
+28650467	395	403	leukemic	DiseaseOrPhenotypicFeature	D007938
+28650467	425	432	patient	OrganismTaxon	9606
+28650467	521	524	ALL	DiseaseOrPhenotypicFeature	D054198
+28650467	553	567	L-asparaginase	ChemicalEntity	D001215
+28650467	640	654	L-asparaginase	ChemicalEntity	D001215
+28650467	677	685	leukemic	DiseaseOrPhenotypicFeature	D007938
+28650467	766	769	ALL	DiseaseOrPhenotypicFeature	D054198
+28650467	796	816	opioid receptor mu 1	GeneOrGeneProduct	4988
+28650467	818	823	oprm1	GeneOrGeneProduct	4988
+28650467	844	864	carbonic anhydrase 1	GeneOrGeneProduct	759
+28650467	866	869	ca1	GeneOrGeneProduct	759
+28650467	901	933	ubiquitin-conjugating enzyme E2C	GeneOrGeneProduct	11065
+28650467	935	940	ube2c	GeneOrGeneProduct	11065
+28650467	962	967	OPRM1	GeneOrGeneProduct	4988
+28650467	988	996	leukemic	DiseaseOrPhenotypicFeature	D007938
+28650467	1033	1038	OPRM1	GeneOrGeneProduct	4988
+28650467	1047	1061	L-asparaginase	ChemicalEntity	D001215
+28650467	1142	1151	Methadone	ChemicalEntity	D008691
+28650467	1167	1172	OPRM1	GeneOrGeneProduct	4988
+28650467	1211	1219	leukemic	DiseaseOrPhenotypicFeature	D007938
+28650467	1235	1240	OPRM1	GeneOrGeneProduct	4988
+28650467	1260	1274	L-asparaginase	ChemicalEntity	D001215
+28650467	1302	1307	OPRM1	GeneOrGeneProduct	4988
+28650467	1350	1364	L-asparaginase	ChemicalEntity	D001215
+28650467	1369	1378	methadone	ChemicalEntity	D008691
+28650467	1389	1394	OPRM1	GeneOrGeneProduct	4988
+28650467	1409	1417	leukemic	DiseaseOrPhenotypicFeature	D007938
+28650467	1469	1474	OPRM1	GeneOrGeneProduct	4988
+28650467	1533	1540	patient	OrganismTaxon	9606
+28650467	1541	1549	leukemic	DiseaseOrPhenotypicFeature	D007938
+28650467	1587	1592	OPRM1	GeneOrGeneProduct	4988
+28650467	1615	1629	L-asparaginase	ChemicalEntity	D001215
+28650467	1652	1657	OPRM1	GeneOrGeneProduct	4988
+28650467	1667	1675	leukemic	DiseaseOrPhenotypicFeature	D007938
+28650467	1707	1712	OPRM1	GeneOrGeneProduct	4988
+28650467	1740	1754	L-asparaginase	ChemicalEntity	D001215
+28650467	1769	1777	leukemic	DiseaseOrPhenotypicFeature	D007938
+28650467	1778	1786	patients	OrganismTaxon	9606
+28650467	1845	1850	OPRM1	GeneOrGeneProduct	4988
+28650467	1874	1888	L-asparaginase	ChemicalEntity	D001215
+28650467	1903	1906	ALL	DiseaseOrPhenotypicFeature	D054198
+28650467	1923	1928	OPRM1	GeneOrGeneProduct	4988
+28650467	2045	2050	Oprm1	GeneOrGeneProduct	4988
+28650467	2099	2113	L-asparaginase	ChemicalEntity	D001215
+28650467	2124	2127	ALL	DiseaseOrPhenotypicFeature	D054198
+28650467	Association	D001216	D000641	No
+28650467	Association	D001216	D001224	No
+28650467	Association	D008691	D007938	Novel
+28650467	Positive_Correlation	D008691	4988	Novel
+28650467	Association	11065	D054198	Novel
+28650467	Association	759	D054198	Novel
+28650467	Positive_Correlation	D001215	OMIM:615574	No
+28650467	Association	D001215	D001216	No
+28650467	Cotreatment	D001215	D008691	Novel
+28650467	Negative_Correlation	D001215	D007938	No
+28650467	Negative_Correlation	D001215	D054198	No
+28650467	Association	4988	D007938	Novel
+28650467	Negative_Correlation	4988	D054198	Novel
+28650467	Positive_Correlation	4988	D001215	Novel

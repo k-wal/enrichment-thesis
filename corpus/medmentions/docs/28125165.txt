@@ -1,0 +1,67 @@
+28125165|t|Inhibitor Selectivity for Cyclin-Dependent Kinase 7: A Structural, Thermodynamic, and Modelling Study
+28125165|a|Deregulation of the cell cycle by mechanisms that lead to elevated activities of cyclin-dependent kinases (CDK) is a feature of many human diseases, cancer in particular. We identified small-molecule inhibitors that selectively inhibit CDK7, the kinase that phosphorylates cell-cycle CDKs to promote their activities. To investigate the selectivity of these inhibitors we used a combination of structural, biophysical, and modelling approaches. We determined the crystal structures of the CDK7 -selective compounds ICEC0942 and ICEC0943 bound to CDK2, and used these to build models of inhibitor binding to CDK7. Molecular dynamics (MD) simulations of inhibitors bound to CDK2 and CDK7 generated possible models of inhibitor binding. To experimentally validate these models, we gathered isothermal titration calorimetry (ITC) binding data for recombinant wild-type and binding site mutants of CDK7 and CDK2. We identified specific residues of CDK7, notably Asp155, that are involved in determining inhibitor selectivity. Our MD simulations also show that the flexibility of the G-rich and activation loops of CDK7 is likely an important determinant of inhibitor specificity similar to CDK2.
+28125165	0	9	Inhibitor	T121	C0014432
+28125165	26	51	Cyclin-Dependent Kinase 7	T116,T126	C0255652
+28125165	55	65	Structural	T082	C0678594
+28125165	67	80	Thermodynamic	T090	C0039808
+28125165	86	95	Modelling	T062,T170	C0600115
+28125165	96	101	Study	T062	C2603343
+28125165	102	132	Deregulation of the cell cycle	T049	C1516331
+28125165	136	146	mechanisms	T169	C0441712
+28125165	169	179	activities	T052	C0441655
+28125165	183	207	cyclin-dependent kinases	T116,T126	C0243045
+28125165	209	212	CDK	T116,T126	C0243045
+28125165	235	240	human	T016	C0086418
+28125165	241	249	diseases	T047	C0012634
+28125165	251	257	cancer	T191	C0006826
+28125165	287	301	small-molecule	T109	C1328819
+28125165	302	312	inhibitors	T121	C0014432
+28125165	330	337	inhibit	T052	C3463820
+28125165	338	342	CDK7	T116,T126	C0255652
+28125165	348	354	kinase	T116,T126	C0031727
+28125165	360	374	phosphorylates	T044	C0031715
+28125165	375	385	cell-cycle	T043	C0007586
+28125165	386	390	CDKs	T116,T126	C0243045
+28125165	394	401	promote	T052	C0033414
+28125165	408	418	activities	T052	C0441655
+28125165	460	470	inhibitors	T121	C0014432
+28125165	496	506	structural	T082	C0678594
+28125165	508	519	biophysical	T091	C0005553
+28125165	525	534	modelling	T062,T170	C0600115
+28125165	565	583	crystal structures	T104	C0444626
+28125165	591	595	CDK7	T116,T126	C0255652
+28125165	607	616	compounds	T121	C1254351
+28125165	617	625	ICEC0942	T121	C1254351
+28125165	630	638	ICEC0943	T121	C1254351
+28125165	648	652	CDK2	T116,T126	C0108855
+28125165	678	684	models	T170	C0026344
+28125165	688	697	inhibitor	T121	C0014432
+28125165	709	713	CDK7	T116,T126	C0255652
+28125165	715	750	Molecular dynamics (MD) simulations	T066	C2717775
+28125165	754	764	inhibitors	T121	C0014432
+28125165	774	778	CDK2	T116,T126	C0108855
+28125165	783	787	CDK7	T116,T126	C0255652
+28125165	807	813	models	T170	C0026344
+28125165	817	826	inhibitor	T121	C0014432
+28125165	839	853	experimentally	T062	C0681814
+28125165	869	875	models	T170	C0026344
+28125165	889	921	isothermal titration calorimetry	T074	C3689480
+28125165	923	926	ITC	T074	C3689480
+28125165	936	940	data	T078	C1511726
+28125165	945	956	recombinant	T116	C0034861
+28125165	957	966	wild-type	T028	C1883559
+28125165	971	983	binding site	T192	C0005456
+28125165	984	991	mutants	T116	C1564139
+28125165	995	999	CDK7	T116,T126	C0255652
+28125165	1004	1008	CDK2	T116,T126	C0108855
+28125165	1033	1041	residues	T077	C1709915
+28125165	1045	1049	CDK7	T116,T126	C0255652
+28125165	1059	1065	Asp155	T116,T123	C0004015
+28125165	1100	1109	inhibitor	T121	C0014432
+28125165	1127	1141	MD simulations	T066	C2717775
+28125165	1180	1186	G-rich	T169	C0205681
+28125165	1191	1207	activation loops	T169	C0205681
+28125165	1211	1215	CDK7	T116,T126	C0255652
+28125165	1254	1263	inhibitor	T121	C0014432
+28125165	1264	1275	specificity	UnknownType	C0678612
+28125165	1287	1291	CDK2	T116,T126	C0108855

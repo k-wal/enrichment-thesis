@@ -1,0 +1,76 @@
+27863204|t|TNF and IL-18 cytokines may regulate liver fat storage under homeostasis conditions
+27863204|a|The inflammation induced by obesogenic diets is associated with deposition of fat in the liver. On the other hand, anti-inflammatory and immunosuppressive therapies may impact in body fat storage and in liver lipid dynamics. It is important to study specific inflammatory mediators in this context, since their role on hepatic damage is not fully clarified. This study aimed to evaluate the role of interleukin (IL)-18 and tumor necrosis factor (TNF) receptor in liver dysfunction induced by diet. Male C57BL/6 wild-type (WT), IL-18, and TNF receptor 1 knockout mice (IL-18(-/-) and TNFR1(-/-)) were divided according to the experimental diets: chow diet or a high-refined carbohydrate-containing diet. Alanine aminotransferase was quantified by colorimetric analysis. Total fat content in the liver was determined by Folch methods. Levels of TNF, IL-6, IL-4, and IL-13 in liver samples were measured by ELISA assay. IL-18 and TNFR knockout mice fed with chow diet showed higher liver triglycerides deposition than WT mice fed with the same diet (WT: 131.9 ± 24.5; IL-18(-/-): 239.4 ± 38.12*; TNF(-/-): 179.6 ± 50.45*; *P < 0.01). Furthermore, these animals also showed a worse liver histopathological score and lower levels of TNF, IL-6, IL-4, and IL-13 in the liver. Interestingly, treatment with a high-carbohydrate diet did not exacerbate liver damage in IL-18(-/-) and TNFR1(-/-) mice. Our data suggest that IL-18 and TNF may be involved on hepatic homeostasis mainly in a context of a healthy diet.
+27863204	0	3	TNF	T103	UMLS:C0077503
+27863204	8	13	IL-18	T103	UMLS:C0383327
+27863204	14	23	cytokines	T103	UMLS:C0079189
+27863204	28	36	regulate	T038	UMLS:C1327622
+27863204	37	42	liver	T017	UMLS:C0023884
+27863204	43	46	fat	T103	UMLS:C0015677
+27863204	61	72	homeostasis	T038	UMLS:C0019868
+27863204	88	100	inflammation	T038	UMLS:C0021368
+27863204	112	128	obesogenic diets	T168	UMLS:C0012155
+27863204	162	165	fat	T103	UMLS:C0015677
+27863204	173	178	liver	T017	UMLS:C0023884
+27863204	199	216	anti-inflammatory	T058	UMLS:C0087111
+27863204	221	248	immunosuppressive therapies	T058	UMLS:C0021079
+27863204	263	267	body	T204	UMLS:C0242821
+27863204	268	271	fat	T103	UMLS:C0015677
+27863204	287	292	liver	T017	UMLS:C0023884
+27863204	293	298	lipid	T103	UMLS:C0023779
+27863204	343	365	inflammatory mediators	T103	UMLS:C0243042
+27863204	403	417	hepatic damage	T038	UMLS:C0151763
+27863204	462	470	evaluate	T058	UMLS:C0220825
+27863204	483	502	interleukin (IL)-18	T103	UMLS:C0383327
+27863204	507	543	tumor necrosis factor (TNF) receptor	T103	UMLS:C0077503
+27863204	547	564	liver dysfunction	T038	UMLS:C0086565
+27863204	576	580	diet	T168	UMLS:C0012155
+27863204	587	594	C57BL/6	T204	UMLS:C1521751
+27863204	595	604	wild-type	T204	UMLS:C1520150
+27863204	606	608	WT	T204	UMLS:C1520150
+27863204	611	616	IL-18	T103	UMLS:C0383327
+27863204	622	636	TNF receptor 1	T103	UMLS:C1453724
+27863204	637	650	knockout mice	T204	UMLS:C0206745
+27863204	652	662	IL-18(-/-)	T103	UMLS:C0383327
+27863204	667	677	TNFR1(-/-)	T103	UMLS:C1453724
+27863204	722	727	diets	T168	UMLS:C0012155
+27863204	729	738	chow diet	T168	UMLS:C0012155
+27863204	744	785	high-refined carbohydrate-containing diet	T058	UMLS:C0259835
+27863204	787	811	Alanine aminotransferase	T103	UMLS:C0001899
+27863204	830	851	colorimetric analysis	T058	UMLS:C0009407
+27863204	853	862	Total fat	T103	UMLS:C0015677
+27863204	878	883	liver	T017	UMLS:C0023884
+27863204	902	915	Folch methods	T058	UMLS:C0022885
+27863204	927	930	TNF	T103	UMLS:C0077503
+27863204	932	936	IL-6	T103	UMLS:C0021760
+27863204	938	942	IL-4	T103	UMLS:C0021758
+27863204	948	953	IL-13	T103	UMLS:C0214743
+27863204	957	962	liver	T017	UMLS:C0023884
+27863204	988	999	ELISA assay	T058	UMLS:C0014441
+27863204	1001	1006	IL-18	T103	UMLS:C0383327
+27863204	1011	1015	TNFR	T103	UMLS:C0077503
+27863204	1016	1029	knockout mice	T204	UMLS:C0206745
+27863204	1039	1048	chow diet	T168	UMLS:C0012155
+27863204	1063	1068	liver	T017	UMLS:C0023884
+27863204	1069	1082	triglycerides	T103	UMLS:C0041004
+27863204	1099	1106	WT mice	T204	UMLS:C1520150
+27863204	1125	1129	diet	T168	UMLS:C0012155
+27863204	1131	1133	WT	T204	UMLS:C1520150
+27863204	1149	1159	IL-18(-/-)	T103	UMLS:C0383327
+27863204	1177	1185	TNF(-/-)	T103	UMLS:C0077503
+27863204	1234	1241	animals	T204	UMLS:C0003062
+27863204	1262	1267	liver	T017	UMLS:C0023884
+27863204	1312	1315	TNF	T103	UMLS:C0077503
+27863204	1317	1321	IL-6	T103	UMLS:C0021760
+27863204	1323	1327	IL-4	T103	UMLS:C0021758
+27863204	1333	1338	IL-13	T103	UMLS:C0214743
+27863204	1346	1351	liver	T017	UMLS:C0023884
+27863204	1385	1407	high-carbohydrate diet	T058	UMLS:C0259835
+27863204	1427	1439	liver damage	T038	UMLS:C0151763
+27863204	1443	1453	IL-18(-/-)	T103	UMLS:C0383327
+27863204	1458	1468	TNFR1(-/-)	T103	UMLS:C1453724
+27863204	1469	1473	mice	T204	UMLS:C0025929
+27863204	1497	1502	IL-18	T103	UMLS:C0383327
+27863204	1507	1510	TNF	T103	UMLS:C0077503
+27863204	1530	1537	hepatic	T082	UMLS:C0205054
+27863204	1538	1549	homeostasis	T038	UMLS:C0019868
+27863204	1575	1587	healthy diet	T058	UMLS:C0452415

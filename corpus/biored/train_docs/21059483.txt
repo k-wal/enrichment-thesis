@@ -1,0 +1,19 @@
+21059483|t|The GALT rush: high carrier frequency of an unusual deletion mutation of the GALT gene in the Ashkenazi population.
+21059483|a|Classic galactosemia is an autosomal recessive disorder of galactose metabolism manifesting in the first weeks of life following exposure to a milk-based diet. Despite the benefit of avoidance of lactose, many patients suffer from long-term complications including neurological deficits and ovarian failure. To date, over 230 mutations have been described in the GALT gene resulting in galactosemia. Recently, an unusual mutation was characterized causing a 5.5 kb deletion, with a relatively high carrier rate in subjects of Ashkenazi Jewish (AJ) descent. The aim of this study was to estimate the carrier frequency of this mutation in the AJ population in Israel. For this purpose we developed a high-throughput methodology to genotype both normal and deleted alleles using a chip-based matrix-assisted laser desorption-time-of-flight (MALDI-TOF) mass spectrometer and Multiplex PCR. DNA samples of 760 anonymous AJ subjects were submitted for analysis, subsequently detecting six individuals heterozygous for the GALT deletion mutation, giving a carrier frequency of 1 in 127 (0.79%). Based on these results, we suggest that the method described here provides a basis for genetic screening and prenatal counseling and can potentially reduce the morbidity and mortality associated with delayed diagnosis of galactosemia in this patient population.
+21059483	4	8	GALT	GeneOrGeneProduct	2592
+21059483	77	81	GALT	GeneOrGeneProduct	2592
+21059483	116	136	Classic galactosemia	DiseaseOrPhenotypicFeature	D005693
+21059483	143	195	autosomal recessive disorder of galactose metabolism	DiseaseOrPhenotypicFeature	D005693
+21059483	312	319	lactose	ChemicalEntity	D007785
+21059483	326	334	patients	OrganismTaxon	9606
+21059483	381	402	neurological deficits	DiseaseOrPhenotypicFeature	D009461
+21059483	407	422	ovarian failure	DiseaseOrPhenotypicFeature	D016649
+21059483	479	483	GALT	GeneOrGeneProduct	2592
+21059483	502	514	galactosemia	DiseaseOrPhenotypicFeature	D005693
+21059483	574	589	5.5 kb deletion	SequenceVariant	c|DEL||5.5K
+21059483	1132	1136	GALT	GeneOrGeneProduct	2592
+21059483	1425	1437	galactosemia	DiseaseOrPhenotypicFeature	D005693
+21059483	1446	1453	patient	OrganismTaxon	9606
+21059483	Association	2592	D005693	No
+21059483	Association	D005693	D007785	No
+21059483	Positive_Correlation	D005693	c|DEL||5.5K	No

@@ -1,0 +1,23 @@
+27811200|t|Alpha-particle fluence in radiobiological experiments
+27811200|a|Two methods were proposed for determining alpha-particle fluence for radiobiological experiments. The first involved calculating the probabilities of hitting the target for alpha particles emitted from a source through Monte Carlo simulations, which when multiplied by the activity of the source gave the fluence at the target. The second relied on the number of chemically etched alpha-particle tracks developed on a solid-state nuclear track detector (SSNTD) that was irradiated by an alpha-particle source. The etching efficiencies (defined as percentages of latent tracks created by alpha particles from the source that could develop to become visible tracks upon chemical etching) were computed through Monte Carlo simulations, which when multiplied by the experimentally counted number of visible tracks would also give the fluence at the target. We studied alpha particles with an energy of 5.486 MeV emitted from an 241Am source, and considered the alpha-particle tracks developed on polyallyldiglycol carbonate film, which is a common SSNTD. Our results showed that the etching efficiencies were equal to one for source - film distances of from 0.6 to 3.5 cm for a circular film of radius of 1 cm, and for source - film distances of from 1 to 3 cm for circular film of radius of 2 cm. For circular film with a radius of 3 cm, the etching efficiencies never reached 1. On the other hand, the hit probability decreased monotonically with increase in the source - target distance, and fell to zero when the source - target distance was larger than the particle range in air.
+27811200	26	41	radiobiological	T091	UMLS:C0034558
+27811200	42	53	experiments	T062	UMLS:C0681814
+27811200	58	65	methods	T170	UMLS:C0025663
+27811200	123	138	radiobiological	T091	UMLS:C0034558
+27811200	139	150	experiments	T062	UMLS:C0681814
+27811200	258	264	source	T033	UMLS:C0449416
+27811200	273	296	Monte Carlo simulations	T062	UMLS:C0679083
+27811200	343	349	source	T033	UMLS:C0449416
+27811200	556	562	source	T033	UMLS:C0449416
+27811200	666	672	source	T033	UMLS:C0449416
+27811200	745	753	computed	T058	UMLS:C1441526
+27811200	762	785	Monte Carlo simulations	T062	UMLS:C0679083
+27811200	984	990	source	T033	UMLS:C0449416
+27811200	1176	1182	source	T033	UMLS:C0449416
+27811200	1228	1236	circular	T082	UMLS:C1282913
+27811200	1269	1275	source	T033	UMLS:C0449416
+27811200	1315	1323	circular	T082	UMLS:C1282913
+27811200	1352	1360	circular	T082	UMLS:C1282913
+27811200	1515	1521	source	T033	UMLS:C0449416
+27811200	1567	1573	source	T033	UMLS:C0449416
+27811200	1612	1620	particle	T103	UMLS:C0597177

@@ -1,0 +1,37 @@
+18408250|t|A single nucleotide polymorphism in the IRF5 promoter region is associated with susceptibility to rheumatoid arthritis in the Japanese population.
+18408250|a|OBJECTIVES: Interferon regulatory factor 5 (IRF5) is a member of the IRF family of transcription factors, which regulate the production of proinflammatory cytokines. Polymorphisms in the IRF5 gene have been associated with susceptibility to systemic lupus erythaematosus (SLE) in Caucasian and Asian populations, but their involvement in other autoimmune diseases is still uncertain. Here, we assessed the genetic role of IRF5 in susceptibility to rheumatoid arthritis (RA) in Japanese subjects. METHODS: We selected 13 single nucleotide polymorphisms (SNPs) and a CGGGG insertion-deletion polymorphism in the IRF5 gene. We performed 2 sets of case-control comparisons using Japanese subjects (first set: 830 patients with RA and 658 controls; second set: 1112 patients with RA and 940 controls), and then performed a stratified analysis using human leukocyte antigen (HLA)-DRB1 shared epitope (SE) status. We genotyped the SNPs using TaqMan assays. RESULTS: A significant association of the rs729302 A allele with RA susceptibility was found in both sets (odds ratio (OR) 1.22, 95% CI 1.09 to 1.35, p<0.001 in the combined analysis). When the patients were stratified by the SE, the rs729302 A allele was found to confer increased risk to RA in patients that were SE negative (OR 1.50, 95% CI 1.17 to 1.92, p = 0.001) as compared with patients carrying the SE (OR 1.11, 95% CI 0.93 to 1.33, p = 0.24). In both sets, no genotyped polymorphisms were significantly associated with RA susceptibility, but rs729302 was significantly associated. CONCLUSIONS: These findings indicate that the promoter polymorphism of IRF5 is a genetic factor conferring predisposition to RA, and that it contributes considerably to disease pathogenesis in patients that were SE negative.
+18408250	40	44	IRF5	GeneOrGeneProduct	3663
+18408250	98	118	rheumatoid arthritis	DiseaseOrPhenotypicFeature	D001172
+18408250	159	189	Interferon regulatory factor 5	GeneOrGeneProduct	3663
+18408250	191	195	IRF5	GeneOrGeneProduct	3663
+18408250	216	219	IRF	GeneOrGeneProduct	3663
+18408250	286	311	proinflammatory cytokines	GeneOrGeneProduct	3553
+18408250	334	338	IRF5	GeneOrGeneProduct	3663
+18408250	388	417	systemic lupus erythaematosus	DiseaseOrPhenotypicFeature	D008180
+18408250	419	422	SLE	DiseaseOrPhenotypicFeature	D008180
+18408250	491	510	autoimmune diseases	DiseaseOrPhenotypicFeature	D001327
+18408250	569	573	IRF5	GeneOrGeneProduct	3663
+18408250	595	615	rheumatoid arthritis	DiseaseOrPhenotypicFeature	D001172
+18408250	617	619	RA	DiseaseOrPhenotypicFeature	D001172
+18408250	757	761	IRF5	GeneOrGeneProduct	3663
+18408250	856	864	patients	OrganismTaxon	9606
+18408250	870	872	RA	DiseaseOrPhenotypicFeature	D001172
+18408250	908	916	patients	OrganismTaxon	9606
+18408250	922	924	RA	DiseaseOrPhenotypicFeature	D001172
+18408250	991	996	human	OrganismTaxon	9606
+18408250	997	1025	leukocyte antigen (HLA)-DRB1	GeneOrGeneProduct	3123
+18408250	1139	1147	rs729302	SequenceVariant	rs729302
+18408250	1162	1164	RA	DiseaseOrPhenotypicFeature	D001172
+18408250	1291	1299	patients	OrganismTaxon	9606
+18408250	1331	1339	rs729302	SequenceVariant	rs729302
+18408250	1387	1389	RA	DiseaseOrPhenotypicFeature	D001172
+18408250	1393	1401	patients	OrganismTaxon	9606
+18408250	1483	1491	patients	OrganismTaxon	9606
+18408250	1626	1628	RA	DiseaseOrPhenotypicFeature	D001172
+18408250	1649	1657	rs729302	SequenceVariant	rs729302
+18408250	1759	1763	IRF5	GeneOrGeneProduct	3663
+18408250	1813	1815	RA	DiseaseOrPhenotypicFeature	D001172
+18408250	1881	1889	patients	OrganismTaxon	9606
+18408250	Association	3663	D008180	No
+18408250	Association	3663	D001172	Novel
+18408250	Positive_Correlation	rs729302	D001172	Novel

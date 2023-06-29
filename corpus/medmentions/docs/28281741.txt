@@ -1,0 +1,111 @@
+28281741|t|Extended versus standard pelvic lymphadenectomy during robot-assisted radical prostatectomy: the role of extended template as an independent predictor of lymph node invasion with comparable morbidity burden
+28281741|a|To assess oncologic and surgical outcomes in patients subjected to standard (S) versus extended (E) pelvic lymph node dissection (PLND) during robot-assisted radical prostatectomy (RARP). From February 2009 to December 2015 a total of 184 consecutive patients underwent RARP and either standard or extended PLND for localized prostate cancer (PCa). Descriptive statistics compared clinical and pathological variables between groups. Logistic regression identified potential predictors of lymph node invasion (LNI). No significant preoperative differences were found between the EPLND and SPLND groups. No difference in complication rates was observed between groups. No group differences were found for intraoperative blood loss, hospitalization times, positive surgical margins, biochemical recurrence, sexual dysfunction or need for adjuvant therapy. A higher median range of LN yield was found for the EPLND compared to SPLND cohort (22.5 vs 12.8; p<0.001). Of the 36 patients who had positive LNs at the final pathology, 22 were in the EPLND group and 14 in the SPLND group (p<0.01). PSA, clinical stage and both number of nodes removed and EPLND were significant univariable predictors for LNI. In the multivariable model, PSA, clinical stage and number of removed nodes were independent predictors of LNI. EPLND was an independent predictor of LNI after accounting for PSA, clinical stage and Gleason Score stage. EPLND during RARP is safe and effective. It results in more removed nodes and a higher LN positivity rate compared to SPLND, predicting LNI without increasing complications.
+28281741	0	8	Extended	T082	C0231449
+28281741	16	24	standard	T080	C1442989
+28281741	25	47	pelvic lymphadenectomy	T061	C0193883
+28281741	55	91	robot-assisted radical prostatectomy	T061	C4039115
+28281741	105	113	extended	T082	C0231449
+28281741	114	122	template	T078	C1705542
+28281741	129	150	independent predictor	T170	C0683956
+28281741	154	164	lymph node	T023	C0024204
+28281741	165	173	invasion	T033	C1269955
+28281741	190	199	morbidity	T081	C0026538
+28281741	200	206	burden	T078	C2828008
+28281741	217	226	oncologic	T091	C0205478
+28281741	231	239	surgical	T061	C0543467
+28281741	252	260	patients	T101	C0030705
+28281741	274	282	standard	T080	C1442989
+28281741	284	285	S	T080	C1442989
+28281741	294	302	extended	T082	C0231449
+28281741	304	305	E	T082	C0231449
+28281741	307	335	pelvic lymph node dissection	T061	C0193883
+28281741	337	341	PLND	T061	C0193883
+28281741	350	386	robot-assisted radical prostatectomy	T061	C4039115
+28281741	388	392	RARP	T061	C4039115
+28281741	446	457	consecutive	T080	C1707491
+28281741	458	466	patients	T101	C0030705
+28281741	477	481	RARP	T061	C4039115
+28281741	493	501	standard	T080	C1442989
+28281741	505	513	extended	T082	C0231449
+28281741	514	518	PLND	T061	C0193883
+28281741	523	548	localized prostate cancer	T191	C0600139
+28281741	550	553	PCa	T191	C0600139
+28281741	556	578	Descriptive statistics	T062	C0005544
+28281741	588	596	clinical	T080	C0205210
+28281741	601	613	pathological	T169	C1521733
+28281741	614	623	variables	T080	C0439828
+28281741	632	638	groups	T078	C0441833
+28281741	640	659	Logistic regression	T062	C0206031
+28281741	671	680	potential	T080	C3245505
+28281741	681	691	predictors	T078	C2698872
+28281741	695	705	lymph node	T023	C0024204
+28281741	706	714	invasion	T033	C1269955
+28281741	716	719	LNI	T033	C1269955
+28281741	737	749	preoperative	T079	C0445204
+28281741	785	790	EPLND	T061	C0193883
+28281741	795	800	SPLND	T061	C0193883
+28281741	801	807	groups	T078	C0441833
+28281741	826	838	complication	T046	C0009566
+28281741	839	844	rates	T081	C1521828
+28281741	866	872	groups	T078	C0441833
+28281741	877	882	group	T078	C0441833
+28281741	910	924	intraoperative	T079	C0456904
+28281741	925	935	blood loss	T033	C3163616
+28281741	937	952	hospitalization	T058	C0019993
+28281741	953	958	times	T079	C0040223
+28281741	960	985	positive surgical margins	T033	C1709603
+28281741	987	1009	biochemical recurrence	T067	C0034897
+28281741	1011	1029	sexual dysfunction	T047	C0549622
+28281741	1042	1058	adjuvant therapy	T061	C0677850
+28281741	1062	1068	higher	T080	C0205250
+28281741	1069	1081	median range	T081	C1514721
+28281741	1085	1087	LN	T023	C0024204
+28281741	1112	1117	EPLND	T061	C0193883
+28281741	1130	1135	SPLND	T061	C0193883
+28281741	1136	1142	cohort	T098	C0599755
+28281741	1178	1186	patients	T101	C0030705
+28281741	1195	1203	positive	T033	C1446409
+28281741	1204	1207	LNs	T023	C0024204
+28281741	1221	1230	pathology	T091	C0030664
+28281741	1247	1252	EPLND	T061	C0193883
+28281741	1253	1258	group	T078	C0441833
+28281741	1273	1278	SPLND	T061	C0193883
+28281741	1279	1284	group	T078	C0441833
+28281741	1295	1298	PSA	T116,T126,T129	C0138741
+28281741	1300	1314	clinical stage	T079	C0205563
+28281741	1324	1330	number	T081	C0237753
+28281741	1334	1339	nodes	T023	C0024204
+28281741	1340	1347	removed	T080	C0849355
+28281741	1352	1357	EPLND	T061	C0193883
+28281741	1375	1397	univariable predictors	T170	C0683956
+28281741	1402	1405	LNI	T033	C1269955
+28281741	1414	1433	multivariable model	T170	C3161035
+28281741	1435	1438	PSA	T116,T126,T129	C0138741
+28281741	1440	1454	clinical stage	T079	C0205563
+28281741	1459	1465	number	T081	C0237753
+28281741	1469	1476	removed	T080	C0849355
+28281741	1477	1482	nodes	T023	C0024204
+28281741	1488	1510	independent predictors	T170	C0683956
+28281741	1514	1517	LNI	T033	C1269955
+28281741	1519	1524	EPLND	T061	C0193883
+28281741	1532	1553	independent predictor	T170	C0683956
+28281741	1557	1560	LNI	T033	C1269955
+28281741	1582	1585	PSA	T116,T126,T129	C0138741
+28281741	1587	1601	clinical stage	T079	C0205563
+28281741	1606	1625	Gleason Score stage	T033	C3203027
+28281741	1627	1632	EPLND	T061	C0193883
+28281741	1640	1644	RARP	T061	C4039115
+28281741	1648	1652	safe	T033	C0243095
+28281741	1657	1666	effective	T080	C1704419
+28281741	1682	1686	more	T081	C0205172
+28281741	1687	1694	removed	T080	C0849355
+28281741	1695	1700	nodes	T023	C0024204
+28281741	1707	1713	higher	T080	C0205250
+28281741	1714	1716	LN	T023	C0024204
+28281741	1717	1727	positivity	T033	C1446409
+28281741	1728	1732	rate	T081	C1521828
+28281741	1745	1750	SPLND	T061	C0193883
+28281741	1752	1762	predicting	T078	C0681842
+28281741	1763	1766	LNI	T033	C1269955
+28281741	1775	1785	increasing	T169	C0442808
+28281741	1786	1799	complications	T046	C0009566

@@ -1,0 +1,53 @@
+23791840|t|Superoxide dismutase 1 overexpression in mice abolishes maternal diabetes-induced endoplasmic reticulum stress in diabetic embryopathy.
+23791840|a|OBJECTIVE: Both oxidative stress and endoplasmic reticulum stress (ER stress) are causal events in diabetic embryopathy. We tested whether oxidative stress causes ER stress. STUDY DESIGN: Wild-type (WT) and superoxide dismutase 1 (SOD1)-overexpressing day 8.75 embryos from nondiabetic WT control with SOD1 transgenic male and diabetic WT female with SOD1 transgenic male were analyzed for ER stress markers: C/EBP-homologous protein (CHOP), calnexin, eukaryotic initiation factor 2a (eIF2a), protein kinase ribonucleic acid (RNA)-like ER kinase (PERK), binding immunoglobulin protein, protein disulfide isomerase family A member 3, kinases inositol-requiring protein-1a (IRE1a), and the X-box binding protein (XBP1) messenger RNA (mRNA) splicing. RESULTS: Maternal diabetes significantly increased the levels of CHOP, calnexin, phosphorylated (p)-eIF2a, p-PERK, and p-IRE1a; triggered XBP1 mRNA splicing; and enhanced ER chaperone gene expression in WT embryos. SOD1 overexpression blocked these diabetes-induced ER stress markers. CONCLUSION: Mitigating oxidative stress via SOD1 overexpression blocks maternal diabetes-induced ER stress in vivo.
+23791840	0	22	Superoxide dismutase 1	GeneOrGeneProduct	20655
+23791840	41	45	mice	OrganismTaxon	10090
+23791840	56	73	maternal diabetes	DiseaseOrPhenotypicFeature	D016640
+23791840	114	122	diabetic	DiseaseOrPhenotypicFeature	D003920
+23791840	123	134	embryopathy	DiseaseOrPhenotypicFeature	D005315
+23791840	235	243	diabetic	DiseaseOrPhenotypicFeature	D003920
+23791840	244	255	embryopathy	DiseaseOrPhenotypicFeature	D005315
+23791840	343	365	superoxide dismutase 1	GeneOrGeneProduct	20655
+23791840	367	371	SOD1	GeneOrGeneProduct	20655
+23791840	438	442	SOD1	GeneOrGeneProduct	20655
+23791840	463	471	diabetic	DiseaseOrPhenotypicFeature	D003920
+23791840	487	491	SOD1	GeneOrGeneProduct	20655
+23791840	545	569	C/EBP-homologous protein	GeneOrGeneProduct	13198
+23791840	571	575	CHOP	GeneOrGeneProduct	13198
+23791840	578	586	calnexin	GeneOrGeneProduct	12330
+23791840	588	619	eukaryotic initiation factor 2a	GeneOrGeneProduct	229317
+23791840	621	626	eIF2a	GeneOrGeneProduct	229317
+23791840	629	681	protein kinase ribonucleic acid (RNA)-like ER kinase	GeneOrGeneProduct	13666
+23791840	683	687	PERK	GeneOrGeneProduct	13666
+23791840	690	720	binding immunoglobulin protein	GeneOrGeneProduct	14828
+23791840	722	767	protein disulfide isomerase family A member 3	GeneOrGeneProduct	14827
+23791840	769	806	kinases inositol-requiring protein-1a	GeneOrGeneProduct	78943
+23791840	808	813	IRE1a	GeneOrGeneProduct	78943
+23791840	824	845	X-box binding protein	GeneOrGeneProduct	22433
+23791840	847	851	XBP1	GeneOrGeneProduct	22433
+23791840	893	910	Maternal diabetes	DiseaseOrPhenotypicFeature	D016640
+23791840	949	953	CHOP	GeneOrGeneProduct	13198
+23791840	955	963	calnexin	GeneOrGeneProduct	12330
+23791840	984	989	eIF2a	GeneOrGeneProduct	229317
+23791840	993	997	PERK	GeneOrGeneProduct	13666
+23791840	1005	1010	IRE1a	GeneOrGeneProduct	78943
+23791840	1022	1026	XBP1	GeneOrGeneProduct	22433
+23791840	1099	1103	SOD1	GeneOrGeneProduct	20655
+23791840	1133	1141	diabetes	DiseaseOrPhenotypicFeature	D003920
+23791840	1213	1217	SOD1	GeneOrGeneProduct	20655
+23791840	1240	1257	maternal diabetes	DiseaseOrPhenotypicFeature	D016640
+23791840	Association	D005315	20655	Novel
+23791840	Positive_Correlation	12330	D016640	Novel
+23791840	Association	D003920	20655	Novel
+23791840	Association	22433	D016640	Novel
+23791840	Association	78943	D016640	Novel
+23791840	Association	13666	D016640	Novel
+23791840	Association	229317	D016640	Novel
+23791840	Positive_Correlation	D016640	13198	Novel
+23791840	Association	20655	12330	Novel
+23791840	Association	20655	22433	Novel
+23791840	Association	20655	78943	Novel
+23791840	Association	20655	13666	Novel
+23791840	Association	20655	229317	Novel
+23791840	Association	20655	13198	Novel
+23791840	Association	20655	D016640	Novel

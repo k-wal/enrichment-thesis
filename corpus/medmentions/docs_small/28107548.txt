@@ -1,0 +1,30 @@
+28107548|t|MRI -based prostate cancer detection with high-level representation and hierarchical classification
+28107548|a|Extracting the high-level feature representation by using deep neural networks for detection of prostate cancer, and then based on high-level feature representation constructing hierarchical classification to refine the detection results. High-level feature representation is first learned by a deep learning network, where multiparametric MR images are used as the input data. Then, based on the learned high-level features, a hierarchical classification method is developed, where multiple random forest classifiers are iteratively constructed to refine the detection results of prostate cancer. The experiments were carried on 21 real patient subjects, and the proposed method achieves an averaged section-based evaluation (SBE) of 89.90%, an averaged sensitivity of 91.51%, and an averaged specificity of 88.47%. The high-level features learned from our proposed method can achieve better performance than the conventional handcrafted features (e.g., LBP and Haar-like features) in detecting prostate cancer regions, also the context features obtained from the proposed hierarchical classification approach are effective in refining cancer detection result.
+28107548	0	3	MRI	T058	UMLS:C0024485
+28107548	11	26	prostate cancer	T038	UMLS:C0376358
+28107548	27	36	detection	T033	UMLS:C0011900
+28107548	85	99	classification	T170	UMLS:C0008902
+28107548	158	178	deep neural networks	T170	UMLS:C0870951
+28107548	183	192	detection	T033	UMLS:C0011900
+28107548	196	211	prostate cancer	T038	UMLS:C0376358
+28107548	291	305	classification	T170	UMLS:C0008902
+28107548	320	329	detection	T033	UMLS:C0011900
+28107548	395	416	deep learning network	T170	UMLS:C0870951
+28107548	424	442	multiparametric MR	T058	UMLS:C4304904
+28107548	443	449	images	T170	UMLS:C1704922
+28107548	541	555	classification	T170	UMLS:C0008902
+28107548	556	562	method	T170	UMLS:C0025663
+28107548	583	617	multiple random forest classifiers	T170	UMLS:C0282574
+28107548	660	669	detection	T033	UMLS:C0011900
+28107548	681	696	prostate cancer	T038	UMLS:C0376358
+28107548	702	713	experiments	T062	UMLS:C0681814
+28107548	773	779	method	T170	UMLS:C0025663
+28107548	801	825	section-based evaluation	T058	UMLS:C0220825
+28107548	827	830	SBE	T058	UMLS:C0220825
+28107548	967	973	method	T170	UMLS:C0025663
+28107548	1086	1095	detecting	T033	UMLS:C0011900
+28107548	1096	1111	prostate cancer	T038	UMLS:C0376358
+28107548	1112	1119	regions	T082	UMLS:C0005898
+28107548	1187	1201	classification	T170	UMLS:C0008902
+28107548	1237	1243	cancer	T038	UMLS:C0006826
+28107548	1244	1253	detection	T033	UMLS:C0011900

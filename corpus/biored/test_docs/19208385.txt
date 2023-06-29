@@ -1,0 +1,31 @@
+19208385|t|Osteogenesis imperfecta type III with intracranial hemorrhage and brachydactyly associated with mutations in exon 49 of COL1A2.
+19208385|a|Osteogenesis imperfecta (OI) is a heritable bone disorder characterized by fractures with minimal trauma. Intracranial hemorrhage has been reported in a small number of OI patients. Here we describe three patients, a boy (aged 15 years) and two girls (aged 17 and 7 years) with OI type III who suffered intracranial hemorrhage and in addition had brachydactyly and nail hypoplasia. In all of these patients, OI was caused by glycine mutations affecting exon 49 of the COL1A2 gene, which codes for the most carboxy-terminal part of the triple-helical domain of the collagen type I alpha 2 chain. These observations suggest that mutations in this region of the collagen type I alpha 2 chain carry a high risk of abnormal limb development and intracranial bleeding.
+19208385	0	32	Osteogenesis imperfecta type III	DiseaseOrPhenotypicFeature	C536044
+19208385	38	61	intracranial hemorrhage	DiseaseOrPhenotypicFeature	D020300
+19208385	66	79	brachydactyly	DiseaseOrPhenotypicFeature	D059327
+19208385	120	126	COL1A2	GeneOrGeneProduct	1278
+19208385	128	151	Osteogenesis imperfecta	DiseaseOrPhenotypicFeature	D010013
+19208385	153	155	OI	DiseaseOrPhenotypicFeature	D010013
+19208385	172	185	bone disorder	DiseaseOrPhenotypicFeature	D001847
+19208385	203	212	fractures	DiseaseOrPhenotypicFeature	D050723
+19208385	226	232	trauma	DiseaseOrPhenotypicFeature	D014947
+19208385	234	257	Intracranial hemorrhage	DiseaseOrPhenotypicFeature	D020300
+19208385	297	299	OI	DiseaseOrPhenotypicFeature	D010013
+19208385	300	308	patients	OrganismTaxon	9606
+19208385	333	341	patients	OrganismTaxon	9606
+19208385	406	417	OI type III	DiseaseOrPhenotypicFeature	C536044
+19208385	431	454	intracranial hemorrhage	DiseaseOrPhenotypicFeature	D020300
+19208385	475	488	brachydactyly	DiseaseOrPhenotypicFeature	D059327
+19208385	493	508	nail hypoplasia	DiseaseOrPhenotypicFeature	D009260
+19208385	526	534	patients	OrganismTaxon	9606
+19208385	536	538	OI	DiseaseOrPhenotypicFeature	D010013
+19208385	596	602	COL1A2	GeneOrGeneProduct	1278
+19208385	692	715	collagen type I alpha 2	GeneOrGeneProduct	1278
+19208385	787	810	collagen type I alpha 2	GeneOrGeneProduct	1278
+19208385	838	863	abnormal limb development	DiseaseOrPhenotypicFeature	D009140
+19208385	868	889	intracranial bleeding	DiseaseOrPhenotypicFeature	D020300
+19208385	Association	1278	D009140	Novel
+19208385	Association	1278	D020300	Novel
+19208385	Association	1278	D010013	Novel
+19208385	Association	1278	C536044	Novel
+19208385	Association	D059327	1278	Novel

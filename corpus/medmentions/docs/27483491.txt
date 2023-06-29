@@ -1,0 +1,35 @@
+27483491|t|Hierarchical Address Event Routing for Reconfigurable Large-Scale Neuromorphic Systems
+27483491|a|We present a hierarchical address-event routing (HiAER) architecture for scalable communication of neural and synaptic spike events between neuromorphic processors, implemented with five Xilinx Spartan-6 field-programmable gate arrays and four custom analog neuromophic integrated circuits serving 262k neurons and 262M synapses. The architecture extends the single-bus address-event representation protocol to a hierarchy of multiple nested buses, routing events across increasing scales of spatial distance. The HiAER protocol provides individually programmable axonal delay in addition to strength for each synapse, lending itself toward biologically plausible neural network architectures, and scales across a range of hierarchies suitable for multichip and multiboard systems in reconfigurable large-scale neuromorphic systems. We show approximately linear scaling of net global synaptic event throughput with number of routing nodes in the network, at $3.6x10^7$ synaptic events per second per 16k- neuron node in the hierarchy.
+27483491	54	86	Large-Scale Neuromorphic Systems	T170	C0282574
+27483491	143	155	architecture	T078	C0009596
+27483491	169	182	communication	T052	C0441655
+27483491	186	192	neural	T022	C0027763
+27483491	197	205	synaptic	T030	C0039062
+27483491	206	218	spike events	T051	C0441471
+27483491	227	250	neuromorphic processors	T073	C1707713
+27483491	274	321	Xilinx Spartan-6 field-programmable gate arrays	T073	C0699733
+27483491	345	376	neuromophic integrated circuits	T073	C0699733
+27483491	390	397	neurons	T025	C0027882
+27483491	407	415	synapses	T030	C0039062
+27483491	421	433	architecture	T078	C0009596
+27483491	486	494	protocol	T170	C0442711
+27483491	513	534	multiple nested buses	T080	C0205556
+27483491	536	550	routing events	T051	C0441471
+27483491	579	595	spatial distance	T081	C0012751
+27483491	607	615	protocol	T170	C0442711
+27483491	651	657	axonal	T026	C0004461
+27483491	658	663	delay	T079	C0205421
+27483491	697	704	synapse	T030	C0039062
+27483491	751	779	neural network architectures	T040	C0598941
+27483491	835	844	multichip	T073	C3273359
+27483491	849	867	multiboard systems	T073	C3273359
+27483491	886	918	large-scale neuromorphic systems	T170	C0282574
+27483491	942	956	linear scaling	T052	C1947916
+27483491	960	985	net global synaptic event	T051	C0441471
+27483491	971	979	synaptic	T030	C0039062
+27483491	1012	1025	routing nodes	T077	C1254372
+27483491	1033	1040	network	T169	C1882071
+27483491	1056	1064	synaptic	T030	C0039062
+27483491	1065	1071	events	T051	C0441471
+27483491	1092	1098	neuron	T025	C0027882
+27483491	1099	1103	node	T077	C1254372

@@ -1,0 +1,37 @@
+28548488|t|A Fluorescent Split Aptamer for Visualizing RNA-RNA Assembly In Vivo
+28548488|a|RNA-RNA assembly governs key biological processes and is a powerful tool for engineering synthetic genetic circuits. Characterizing RNA assembly in living cells often involves monitoring fluorescent reporter proteins, which are at best indirect measures of underlying RNA-RNA hybridization events and are subject to additional temporal and load constraints associated with translation and activation of reporter proteins. In contrast, RNA aptamers that sequester small molecule dyes and activate their fluorescence are increasingly utilized in genetically encoded strategies to report on RNA - level events. Split-aptamer systems have been rationally designed to generate signal upon hybridization of two or more discrete RNA transcripts, but none directly function when expressed in vivo. We reasoned that the improved physiological properties of the Broccoli aptamer enable construction of a split-aptamer system that could function in living cells. Here we present the Split-Broccoli system, in which self-assembly is nucleated by a thermostable, three-way junction RNA architecture and fluorescence activation requires both strands. Functional assembly of the system approximately follows second-order kinetics in vitro and improves when cotranscribed, rather than when assembled from purified components. Split-Broccoli fluorescence is digital in vivo and retains functional modularity when fused to RNAs that regulate circuit function through RNA-RNA hybridization, as demonstrated with an RNA Toehold switch. Split-Broccoli represents the first functional split-aptamer system to operate in vivo. It offers a genetically encoded and nondestructive platform to monitor and exploit RNA-RNA hybridization, whether as an all- RNA, stand-alone AND gate or as a tool for monitoring assembly of RNA-RNA hybrids.
+28548488	2	27	Fluorescent Split Aptamer	T103	UMLS:C0599013
+28548488	44	51	RNA-RNA	T103	UMLS:C0035668
+28548488	61	68	In Vivo	T082	UMLS:C1515655
+28548488	69	76	RNA-RNA	T103	UMLS:C0035668
+28548488	98	118	biological processes	T038	UMLS:C3714634
+28548488	201	204	RNA	T103	UMLS:C0035668
+28548488	217	229	living cells	T017	UMLS:C0007634
+28548488	256	285	fluorescent reporter proteins	T103	UMLS:C0120285
+28548488	396	425	temporal and load constraints	T033	UMLS:C0243095
+28548488	442	453	translation	T038	UMLS:C0597295
+28548488	472	489	reporter proteins	T103	UMLS:C0033684
+28548488	504	516	RNA aptamers	T103	UMLS:C1567954
+28548488	532	551	small molecule dyes	T103	UMLS:C0013343
+28548488	657	660	RNA	T103	UMLS:C0035668
+28548488	677	698	Split-aptamer systems	T103	UMLS:C0599013
+28548488	753	766	hybridization	T058	UMLS:C1300517
+28548488	791	806	RNA transcripts	T103	UMLS:C1136155
+28548488	840	849	expressed	T038	UMLS:C0017262
+28548488	850	857	in vivo	T082	UMLS:C1515655
+28548488	921	937	Broccoli aptamer	T103	UMLS:C0599013
+28548488	963	983	split-aptamer system	T103	UMLS:C0599013
+28548488	1007	1019	living cells	T017	UMLS:C0007634
+28548488	1041	1062	Split-Broccoli system	T103	UMLS:C0599013
+28548488	1138	1141	RNA	T103	UMLS:C0035668
+28548488	1197	1204	strands	T103	UMLS:C1704973
+28548488	1233	1239	system	T103	UMLS:C0599013
+28548488	1311	1324	cotranscribed	T038	UMLS:C0040649
+28548488	1367	1377	components	T103	UMLS:C0035668
+28548488	1418	1425	in vivo	T082	UMLS:C1515655
+28548488	1474	1478	RNAs	T103	UMLS:C0035668
+28548488	1565	1583	RNA Toehold switch	T103	UMLS:C0035668
+28548488	1585	1599	Split-Broccoli	T103	UMLS:C0599013
+28548488	1632	1652	split-aptamer system	T103	UMLS:C0599013
+28548488	1664	1671	in vivo	T082	UMLS:C1515655
+28548488	1798	1801	RNA	T103	UMLS:C0035668

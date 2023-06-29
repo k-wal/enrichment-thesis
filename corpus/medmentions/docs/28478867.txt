@@ -1,0 +1,92 @@
+28478867|t|Targeting accuracy of single-isocenter intensity-modulated radiosurgery for multiple lesions
+28478867|a|To investigate the targeting accuracy of intensity-modulated SRS (IMRS) plans designed to simultaneously treat multiple brain metastases with a single isocenter. A home-made acrylic phantom able to support a film (EBT3) in its coronal plane was used. The phantom was CT scanned and three coplanar small targets (a central and two peripheral) were outlined in the Eclipse system. Peripheral targets were 6 cm apart from the central one. A reference IMRS plan was designed to simultaneously treat the three targets, but only a single isocenter located at the center of the central target was used. After positioning the phantom on the linac using the room lasers, a CBCT scan was acquired and the reference plan were mapped on it, by placing the planned isocenter at the intersection of the landmarks used in the film showing the linac isocenter. The mapped plan was then recalculated and delivered. The film dose distribution was derived using a cloud computing application (www.radiochromic.com) that uses a triple-channel dosimetry algorithm. Comparison of dose distributions using the gamma index (5%/1 mm) were performed over a 5 × 5 cm(2) region centered over each target. 2D shifts required to get the best gamma passing rates on the peripheral target regions were compared with the reported ones for the central target. The experiment was repeated ten times in different sessions. Average 2D shifts required to achieve optimal gamma passing rates (99%, 97%, 99%) were 0.7 mm (SD: 0.3 mm), 0.8 mm (SD: 0.4 mm) and 0.8 mm (SD: 0.3 mm), for the central and the two peripheral targets, respectively. No statistical differences (p > 0.05) were found for targeting accuracy between the central and the two peripheral targets. The study revealed a targeting accuracy within 1 mm for off- isocenter targets within 6 cm of the linac isocenter, when a single-isocenter IMRS plan is designed.
+28478867	0	9	Targeting	T169	C1521840
+28478867	10	18	accuracy	T080	C0443131
+28478867	22	38	single-isocenter	T082	C1881275
+28478867	39	58	intensity-modulated	T061	C1512814
+28478867	59	71	radiosurgery	T061	C0085203
+28478867	85	92	lesions	T033	C0221198
+28478867	96	107	investigate	T169	C1292732
+28478867	112	121	targeting	T169	C1521840
+28478867	122	130	accuracy	T080	C0443131
+28478867	134	153	intensity-modulated	T061	C1512814
+28478867	154	157	SRS	T061	C0085203
+28478867	159	163	IMRS	T061	C0085203
+28478867	165	170	plans	T170	C0599880
+28478867	213	218	brain	T023	C0006104
+28478867	219	229	metastases	T046	C4255448
+28478867	237	253	single isocenter	T082	C1881275
+28478867	257	274	home-made acrylic	T122	C0001222
+28478867	275	282	phantom	T073	C0282611
+28478867	301	305	film	T167	C1561572
+28478867	307	311	EBT3	T167	C1561572
+28478867	320	333	coronal plane	T082	C0205123
+28478867	348	355	phantom	T073	C0282611
+28478867	360	370	CT scanned	T060	C0040405
+28478867	396	403	targets	T169	C1521840
+28478867	407	414	central	T082	C0205099
+28478867	423	433	peripheral	T082	C0205100
+28478867	456	470	Eclipse system	T061	C2363849
+28478867	472	482	Peripheral	T082	C0205100
+28478867	483	490	targets	T169	C1521840
+28478867	516	523	central	T082	C0205099
+28478867	541	545	IMRS	T061	C0085203
+28478867	546	550	plan	T170	C0599880
+28478867	598	605	targets	T169	C1521840
+28478867	618	634	single isocenter	T082	C1881275
+28478867	664	671	central	T082	C0205099
+28478867	672	678	target	T169	C1521840
+28478867	695	706	positioning	T082	C1550045
+28478867	711	718	phantom	T073	C0282611
+28478867	726	731	linac	T074	C0023730
+28478867	742	746	room	T082	C1547703
+28478867	747	753	lasers	T073	C0023089
+28478867	757	766	CBCT scan	T060	C0040405
+28478867	798	802	plan	T170	C0599880
+28478867	808	814	mapped	T052	C1283195
+28478867	845	854	isocenter	T082	C1881275
+28478867	862	874	intersection	T078	C1555443
+28478867	904	908	film	T167	C1561572
+28478867	921	926	linac	T074	C0023730
+28478867	927	936	isocenter	T082	C1881275
+28478867	942	948	mapped	T052	C1283195
+28478867	949	953	plan	T170	C0599880
+28478867	963	975	recalculated	T052	C1441506
+28478867	980	989	delivered	T169	C1705822
+28478867	995	999	film	T167	C1561572
+28478867	1000	1017	dose distribution	T061	C0087111
+28478867	1038	1065	cloud computing application	T170	C3873720
+28478867	1067	1087	www.radiochromic.com	T170	C3873720
+28478867	1116	1125	dosimetry	T059	C0016103
+28478867	1126	1135	algorithm	T170	C0002045
+28478867	1151	1169	dose distributions	T061	C0087111
+28478867	1180	1191	gamma index	T081	C1708185
+28478867	1262	1268	target	T169	C1521840
+28478867	1270	1279	2D shifts	T169	C0333051
+28478867	1305	1310	gamma	T070	C0017011
+28478867	1332	1342	peripheral	T082	C0205100
+28478867	1343	1349	target	T169	C1521840
+28478867	1403	1410	central	T082	C0205099
+28478867	1411	1417	target	T169	C1521840
+28478867	1423	1433	experiment	T062	C0681814
+28478867	1470	1478	sessions	T061	C0481503
+28478867	1488	1497	2D shifts	T169	C0333051
+28478867	1526	1531	gamma	T070	C0017011
+28478867	1641	1648	central	T082	C0205099
+28478867	1661	1671	peripheral	T082	C0205100
+28478867	1672	1679	targets	T169	C1521840
+28478867	1748	1757	targeting	T169	C1521840
+28478867	1758	1766	accuracy	T080	C0443131
+28478867	1779	1786	central	T082	C0205099
+28478867	1799	1809	peripheral	T082	C0205100
+28478867	1810	1817	targets	T169	C1521840
+28478867	1823	1828	study	T062	C2603343
+28478867	1840	1849	targeting	T169	C1521840
+28478867	1850	1858	accuracy	T080	C0443131
+28478867	1880	1889	isocenter	T082	C1881275
+28478867	1890	1897	targets	T169	C1521840
+28478867	1917	1922	linac	T074	C0023730
+28478867	1923	1932	isocenter	T082	C1881275
+28478867	1941	1957	single-isocenter	T082	C1881275
+28478867	1958	1962	IMRS	T061	C0085203
+28478867	1963	1967	plan	T170	C0599880

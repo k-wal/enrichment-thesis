@@ -1,0 +1,81 @@
+27250793|t|Intracellular Metabolism of α,β-Unsaturated Carbonyl Compounds, Acrolein, Crotonaldehyde and Methyl Vinyl Ketone, Active Toxicants in Cigarette Smoke: Participation of Glutathione Conjugation Ability and Aldehyde-Ketone Sensitive Reductase Activity
+27250793|a|The major toxicants in cigarette smoke, α,β-unsaturated aldehydes, such as acrolein (ACR) and crotonaldehyde (CA), and α,β-unsaturated ketone, methyl vinyl ketone (MVK), are known to form Michael-type adducts with glutathione (GSH) and consequently cause intracellular GSH depletion, which is involved in cigarette smoke - induced cytotoxicity. We have previously clarified that exposure to cigarette smoke extract (CSE) of a mouse melanoma cell culture medium causes rapid reduction of intracellular GSH levels, and that the GSH - MVK adduct can be detected by LC/MS analysis while the GSH - CA adduct is hardly detected. In the present study, to clarify why the GSH - CA adduct is difficult to detect in the cell medium, we conducted detailed investigation of the structures of the reaction products of ACR, CA, MVK and CSE in the GSH solution or the cell culture medium. The mass spectra indicated that in the presence of the cells, the GSH - CA and GSH - ACR adducts were almost not detected while their corresponding alcohols were detected. On the other hand, both the GSH - MVK adducts and their reduced products were detected. In the absence of the cells, the reaction of GSH with all α,β-unsaturated carbonyls produced only their corresponding adducts. These results show that the GSH adducts of α,β-unsaturated aldehydes, CA and ACR, are quickly reduced by certain intracellular carbonyl reductase(s) and excreted from the cells, unlike the GSH adduct of α,β-unsaturated ketone, MVK. Such a difference in reactivity to the carbonyl reductase might be related to differences in the cytotoxicity of α,β-unsaturated aldehydes and ketones.
+27250793	0	24	Intracellular Metabolism	T038	UMLS:C1524026
+27250793	64	72	Acrolein	T103	UMLS:C0001204
+27250793	74	88	Crotonaldehyde	T103	UMLS:C0045968
+27250793	93	112	Methyl Vinyl Ketone	T103	UMLS:C0047269
+27250793	134	149	Cigarette Smoke	T103	UMLS:C0239059
+27250793	168	179	Glutathione	T103	UMLS:C0017817
+27250793	180	191	Conjugation	T038	UMLS:C1148560
+27250793	204	248	Aldehyde-Ketone Sensitive Reductase Activity	T038	UMLS:C1151208
+27250793	272	287	cigarette smoke	T103	UMLS:C0239059
+27250793	289	314	α,β-unsaturated aldehydes	T103	UMLS:C0001992
+27250793	324	332	acrolein	T103	UMLS:C0001204
+27250793	334	337	ACR	T103	UMLS:C0001204
+27250793	343	357	crotonaldehyde	T103	UMLS:C0045968
+27250793	359	361	CA	T103	UMLS:C0045968
+27250793	368	390	α,β-unsaturated ketone	T103	UMLS:C0022634
+27250793	392	411	methyl vinyl ketone	T103	UMLS:C0047269
+27250793	413	416	MVK	T103	UMLS:C0047269
+27250793	463	474	glutathione	T103	UMLS:C0017817
+27250793	476	479	GSH	T103	UMLS:C0017817
+27250793	504	517	intracellular	T082	UMLS:C0178719
+27250793	518	521	GSH	T103	UMLS:C0017817
+27250793	554	569	cigarette smoke	T103	UMLS:C0239059
+27250793	580	592	cytotoxicity	T038	UMLS:C0596402
+27250793	640	663	cigarette smoke extract	T103	UMLS:C0239059
+27250793	665	668	CSE	T103	UMLS:C0239059
+27250793	675	680	mouse	T204	UMLS:C0025929
+27250793	681	694	melanoma cell	T017	UMLS:C1513095
+27250793	695	709	culture medium	T103	UMLS:C0010454
+27250793	736	749	intracellular	T082	UMLS:C0178719
+27250793	750	753	GSH	T103	UMLS:C0017817
+27250793	775	778	GSH	T103	UMLS:C0017817
+27250793	781	784	MVK	T103	UMLS:C0047269
+27250793	799	807	detected	T033	UMLS:C0442726
+27250793	811	825	LC/MS analysis	T058	UMLS:C0872318
+27250793	836	839	GSH	T103	UMLS:C0017817
+27250793	842	844	CA	T103	UMLS:C0045968
+27250793	862	870	detected	T033	UMLS:C0442726
+27250793	887	892	study	T062	UMLS:C2603343
+27250793	913	916	GSH	T103	UMLS:C0017817
+27250793	919	921	CA	T103	UMLS:C0045968
+27250793	945	951	detect	T033	UMLS:C0442726
+27250793	959	963	cell	T017	UMLS:C1513095
+27250793	964	970	medium	T103	UMLS:C0010454
+27250793	1015	1025	structures	T082	UMLS:C0026377
+27250793	1054	1057	ACR	T103	UMLS:C0001204
+27250793	1059	1061	CA	T103	UMLS:C0045968
+27250793	1063	1066	MVK	T103	UMLS:C0047269
+27250793	1071	1074	CSE	T103	UMLS:C0239059
+27250793	1082	1085	GSH	T103	UMLS:C0017817
+27250793	1102	1106	cell	T017	UMLS:C1513095
+27250793	1107	1121	culture medium	T103	UMLS:C0010454
+27250793	1127	1139	mass spectra	T058	UMLS:C0037813
+27250793	1178	1183	cells	T017	UMLS:C1513095
+27250793	1189	1192	GSH	T103	UMLS:C0017817
+27250793	1195	1197	CA	T103	UMLS:C0045968
+27250793	1202	1205	GSH	T103	UMLS:C0017817
+27250793	1208	1211	ACR	T103	UMLS:C0001204
+27250793	1236	1244	detected	T033	UMLS:C0442726
+27250793	1257	1279	corresponding alcohols	T103	UMLS:C0001975
+27250793	1285	1293	detected	T033	UMLS:C0442726
+27250793	1323	1326	GSH	T103	UMLS:C0017817
+27250793	1329	1332	MVK	T103	UMLS:C0047269
+27250793	1373	1381	detected	T033	UMLS:C0442726
+27250793	1405	1410	cells	T017	UMLS:C1513095
+27250793	1428	1431	GSH	T103	UMLS:C0017817
+27250793	1538	1541	GSH	T103	UMLS:C0017817
+27250793	1553	1578	α,β-unsaturated aldehydes	T103	UMLS:C0001992
+27250793	1580	1582	CA	T103	UMLS:C0045968
+27250793	1587	1590	ACR	T103	UMLS:C0001204
+27250793	1623	1636	intracellular	T082	UMLS:C0178719
+27250793	1637	1658	carbonyl reductase(s)	T103	UMLS:C1135630
+27250793	1681	1686	cells	T017	UMLS:C1513095
+27250793	1699	1702	GSH	T103	UMLS:C0017817
+27250793	1713	1735	α,β-unsaturated ketone	T103	UMLS:C0022634
+27250793	1737	1740	MVK	T103	UMLS:C0047269
+27250793	1781	1799	carbonyl reductase	T038	UMLS:C1151208
+27250793	1839	1851	cytotoxicity	T038	UMLS:C0596402
+27250793	1855	1880	α,β-unsaturated aldehydes	T103	UMLS:C0001992
+27250793	1885	1892	ketones	T103	UMLS:C0022634

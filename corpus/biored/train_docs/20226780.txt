@@ -1,0 +1,43 @@
+20226780|t|Zebrafish chordin-like and chordin are functionally redundant in regulating patterning of the dorsoventral axis.
+20226780|a|Chordin is the prototype of a group of cysteine-rich domain-containing proteins that bind and modulate signaling of various TGFbeta-like ligands. Chordin-like 1 and 2 (CHL1 and 2) are two members of this group that have been described in human, mouse, and chick. However, in vivo roles for CHL1 and 2 in early development are unknown due to lack of loss-of-function analysis. Here we identify and characterize zebrafish, Danio rerio, CHL (Chl). The chl gene is on a region of chromosome 21 syntenic with the area of murine chromosome 7 bearing the CHL2 gene. Inability to identify a separate zebrafish gene corresponding to the mammalian CHL1 gene suggests that Chl may serve roles in zebrafish distributed between CHL1 and CHL2 in other species. Chl is a maternal factor that is also zygotically expressed later in development and has spatiotemporal expression patterns that differ from but overlap those of zebrafish chordin (Chd), suggesting differences but also possible overlap in developmental roles of the two proteins. Chl, like Chd, dorsalizes embryos upon overexpression and is cleaved by BMP1, which antagonizes this activity. Loss-of-function experiments demonstrate that Chl serves as a BMP antagonist with functions that overlap and are redundant with those of Chd in forming the dorsoventral axis.
+20226780	0	9	Zebrafish	OrganismTaxon	7955
+20226780	10	22	chordin-like	GeneOrGeneProduct	563085
+20226780	27	34	chordin	GeneOrGeneProduct	30161
+20226780	113	120	Chordin	GeneOrGeneProduct	30161
+20226780	152	192	cysteine-rich domain-containing proteins	GeneOrGeneProduct	25884,30161,373985,419054,563085,69121,83453,91851
+20226780	237	244	TGFbeta	GeneOrGeneProduct	359834
+20226780	259	279	Chordin-like 1 and 2	GeneOrGeneProduct	373985,83453,91851,25884,419054,69121
+20226780	281	291	CHL1 and 2	GeneOrGeneProduct	373985,83453,91851,25884,419054,69121
+20226780	351	356	human	OrganismTaxon	9606
+20226780	358	363	mouse	OrganismTaxon	10090
+20226780	369	374	chick	OrganismTaxon	9031
+20226780	403	413	CHL1 and 2	GeneOrGeneProduct	373985,83453,91851,25884,419054,69121
+20226780	523	532	zebrafish	OrganismTaxon	7955
+20226780	534	545	Danio rerio	OrganismTaxon	7955
+20226780	547	550	CHL	GeneOrGeneProduct	563085
+20226780	552	555	Chl	GeneOrGeneProduct	563085
+20226780	562	565	chl	GeneOrGeneProduct	563085
+20226780	629	635	murine	OrganismTaxon	10090
+20226780	661	665	CHL2	GeneOrGeneProduct	69121
+20226780	705	714	zebrafish	OrganismTaxon	7955
+20226780	751	755	CHL1	GeneOrGeneProduct	91851
+20226780	775	778	Chl	GeneOrGeneProduct	563085
+20226780	798	807	zebrafish	OrganismTaxon	7955
+20226780	828	832	CHL1	GeneOrGeneProduct	91851
+20226780	837	841	CHL2	GeneOrGeneProduct	25884
+20226780	860	863	Chl	GeneOrGeneProduct	563085
+20226780	1022	1031	zebrafish	OrganismTaxon	7955
+20226780	1032	1039	chordin	GeneOrGeneProduct	30161
+20226780	1041	1044	Chd	GeneOrGeneProduct	30161
+20226780	1140	1143	Chl	GeneOrGeneProduct	563085
+20226780	1150	1153	Chd	GeneOrGeneProduct	30161
+20226780	1212	1216	BMP1	GeneOrGeneProduct	30204
+20226780	1297	1300	Chl	GeneOrGeneProduct	563085
+20226780	1313	1316	BMP	GeneOrGeneProduct	30204
+20226780	1388	1391	Chd	GeneOrGeneProduct	30161
+20226780	Negative_Correlation	30161	30204	No
+20226780	Association	30161	359834	No
+20226780	Negative_Correlation	563085	30204	Novel
+20226780	Association	563085	25884	Novel
+20226780	Association	563085	91851	Novel
+20226780	Association	563085	69121	Novel

@@ -1,0 +1,56 @@
+27959382|t|Bach1 siRNA attenuates bleomycin-induced pulmonary fibrosis by modulating oxidative stress in mice.
+27959382|a|Oxidative stress plays an essential role in inflammation and fibrosis. Bach1 is an important transcriptional repressor that acts by modulating oxidative stress and represents a potential target in the treatment of pulmonary fibrosis (PF). In this study, we knocked down Bach1 using adenovirus-mediated small interfering RNA (siRNA) to determine whether the use of Bach1 siRNA is an effective therapeutic strategy in mice with bleomycin (BLM)-induced PF. Mouse lung fibroblasts (MLFs) were incubated with transforming growth factor (TGF)-b1 (5 ng/ml) and subsequently infected with recombined adenovirus-like Bach1 siRNA1 and Bach1 siRNA2, while an empty adenovirus vector was used as the negative control. The selected Bach1 siRNA with higher interference efficiency was used for the animal experiments. A mouse model of BLM-induced PF was established, and Bach1 siRNA (1x109 pfu) was administered to the mice via the tail vein. The results revealed that the Bach1 mRNA and protein levels were significantly downregulated by Bach1 siRNA. Furthermore, the MLFs infected with Bach1 siRNA exhibited increased mRNA and protein expression levels of heme oxygenase-1 and glutathione peroxidase 1, but decreased levels of TGF-b1 and interleukin-6 in the cell supernatants compared with the cells exposed to TGF-b1 alone. Bach1 knockdown by siRNA also enhanced the expression of antioxidant factors, but suppressed that of fibrosis-related cytokines in mice compared with the BLM group. Finally, the inflammatory infiltration of alveolar and interstitial cells and the destruction of lung structure were significantly attenuated in the mide administered Bach1 siRNA compared with those in the BLM group. On the whole, our findings demonstrate that Bach1 siRNA exerts protective effects against BLM-induced PF in mice. Our data may provide the basis for the development of novel targeted therapeutic strategies for PF.
+27959382	0	5	Bach1	GeneOrGeneProduct	12013
+27959382	23	32	bleomycin	ChemicalEntity	D001761
+27959382	41	59	pulmonary fibrosis	DiseaseOrPhenotypicFeature	D011658
+27959382	94	98	mice	OrganismTaxon	10090
+27959382	144	156	inflammation	DiseaseOrPhenotypicFeature	D007249
+27959382	161	169	fibrosis	DiseaseOrPhenotypicFeature	D005355
+27959382	171	176	Bach1	GeneOrGeneProduct	12013
+27959382	314	332	pulmonary fibrosis	DiseaseOrPhenotypicFeature	D011658
+27959382	334	336	PF	DiseaseOrPhenotypicFeature	D011658
+27959382	370	375	Bach1	GeneOrGeneProduct	12013
+27959382	464	469	Bach1	GeneOrGeneProduct	12013
+27959382	516	520	mice	OrganismTaxon	10090
+27959382	526	535	bleomycin	ChemicalEntity	D001761
+27959382	537	540	BLM	ChemicalEntity	D001761
+27959382	550	552	PF	DiseaseOrPhenotypicFeature	D011658
+27959382	554	559	Mouse	OrganismTaxon	10090
+27959382	604	639	transforming growth factor (TGF)-b1	GeneOrGeneProduct	21803
+27959382	708	713	Bach1	GeneOrGeneProduct	12013
+27959382	725	730	Bach1	GeneOrGeneProduct	12013
+27959382	819	824	Bach1	GeneOrGeneProduct	12013
+27959382	906	911	mouse	OrganismTaxon	10090
+27959382	921	924	BLM	ChemicalEntity	D001761
+27959382	933	935	PF	DiseaseOrPhenotypicFeature	D011658
+27959382	957	962	Bach1	GeneOrGeneProduct	12013
+27959382	1005	1009	mice	OrganismTaxon	10090
+27959382	1059	1064	Bach1	GeneOrGeneProduct	12013
+27959382	1125	1130	Bach1	GeneOrGeneProduct	12013
+27959382	1174	1179	Bach1	GeneOrGeneProduct	12013
+27959382	1244	1260	heme oxygenase-1	GeneOrGeneProduct	15368
+27959382	1265	1289	glutathione peroxidase 1	GeneOrGeneProduct	14775
+27959382	1315	1321	TGF-b1	GeneOrGeneProduct	21803
+27959382	1326	1339	interleukin-6	GeneOrGeneProduct	16193
+27959382	1400	1406	TGF-b1	GeneOrGeneProduct	21803
+27959382	1414	1419	Bach1	GeneOrGeneProduct	12013
+27959382	1471	1490	antioxidant factors	GeneOrGeneProduct	14775,15368
+27959382	1515	1523	fibrosis	DiseaseOrPhenotypicFeature	D005355
+27959382	1545	1549	mice	OrganismTaxon	10090
+27959382	1568	1571	BLM	ChemicalEntity	D001761
+27959382	1592	1604	inflammatory	DiseaseOrPhenotypicFeature	D007249
+27959382	1746	1751	Bach1	GeneOrGeneProduct	12013
+27959382	1785	1788	BLM	ChemicalEntity	D001761
+27959382	1840	1845	Bach1	GeneOrGeneProduct	12013
+27959382	1886	1889	BLM	ChemicalEntity	D001761
+27959382	1898	1900	PF	DiseaseOrPhenotypicFeature	D011658
+27959382	1904	1908	mice	OrganismTaxon	10090
+27959382	2006	2008	PF	DiseaseOrPhenotypicFeature	D011658
+27959382	Association	D005355	12013	No
+27959382	Positive_Correlation	D001761	D011658	No
+27959382	Positive_Correlation	12013	16193	Novel
+27959382	Positive_Correlation	12013	21803	Novel
+27959382	Negative_Correlation	12013	14775	Novel
+27959382	Negative_Correlation	12013	15368	Novel
+27959382	Positive_Correlation	12013	D011658	Novel
+27959382	Positive_Correlation	12013	D001761	No

@@ -1,0 +1,55 @@
+20682662|t|Lack of association of C-C chemokine receptor 5 DD32 deletion status with rheumatoid arthritis, systemic lupus erythematosus, lupus nephritis, and disease severity.
+20682662|a|OBJECTIVE: C-C chemokine receptor 5 (CCR5) plays an important role in inflammation. A 32 base-pair (DD32) deletion in the CCR5 gene leads to a nonfunctional receptor. This deletion has been reported to have a protective effect on the development and progression of several autoimmune diseases. We investigated whether the DD32 deletion is associated with disease susceptibility in a population of patients with rheumatoid arthritis (RA), systemic lupus erythematosus (SLE), and lupus nephritis (LN); and whether it is associated with disease severity. METHODS: DNA samples from 405 RA patients, 97 SLE patients, 113 LN patients, and 431 healthy controls were genotyped for the CCR5 DD32 deletion. Differences in genotype frequencies were tested between patients and controls. Association of genotypes with disease severity was analyzed. RESULTS: Genotype frequencies of each group were in Hardy-Weinberg equilibrium. The genotype frequencies of patients did not differ significantly from controls (CCR5/DD32, DD32/DD32: RA 18.3% and 1.2%, respectively; SLE 17.5% and 2.1%; LN 13.3% and 1.8%; controls 20.0% and 2.8%). However, there was a trend for lower DD32 deletion allele frequency in LN patients compared to controls (p = 0.08). There was no significant association between the CCR5 status and disease severity in RA, SLE, or LN. CONCLUSION: Although an association with LN cannot be excluded, the CCR5 DD32 deletion does not seem to be a disease susceptibility genotype for RA, SLE, or LN. No significant effect of the DD32 deletion on disease severity was demonstrated.
+20682662	23	47	C-C chemokine receptor 5	GeneOrGeneProduct	1234
+20682662	48	61	DD32 deletion	SequenceVariant	c|DEL||32
+20682662	74	94	rheumatoid arthritis	DiseaseOrPhenotypicFeature	D001172
+20682662	96	124	systemic lupus erythematosus	DiseaseOrPhenotypicFeature	D008180
+20682662	126	141	lupus nephritis	DiseaseOrPhenotypicFeature	D008181
+20682662	176	200	C-C chemokine receptor 5	GeneOrGeneProduct	1234
+20682662	202	206	CCR5	GeneOrGeneProduct	1234
+20682662	235	247	inflammation	DiseaseOrPhenotypicFeature	D007249
+20682662	251	279	32 base-pair (DD32) deletion	SequenceVariant	c|DEL||32
+20682662	287	291	CCR5	GeneOrGeneProduct	1234
+20682662	438	457	autoimmune diseases	DiseaseOrPhenotypicFeature	D001327
+20682662	487	500	DD32 deletion	SequenceVariant	c|DEL||32
+20682662	562	570	patients	OrganismTaxon	9606
+20682662	576	596	rheumatoid arthritis	DiseaseOrPhenotypicFeature	D001172
+20682662	598	600	RA	DiseaseOrPhenotypicFeature	D001172
+20682662	603	631	systemic lupus erythematosus	DiseaseOrPhenotypicFeature	D008180
+20682662	633	636	SLE	DiseaseOrPhenotypicFeature	D008180
+20682662	643	658	lupus nephritis	DiseaseOrPhenotypicFeature	D008181
+20682662	660	662	LN	DiseaseOrPhenotypicFeature	D008181
+20682662	747	749	RA	DiseaseOrPhenotypicFeature	D001172
+20682662	750	758	patients	OrganismTaxon	9606
+20682662	763	766	SLE	DiseaseOrPhenotypicFeature	D008180
+20682662	767	775	patients	OrganismTaxon	9606
+20682662	781	783	LN	DiseaseOrPhenotypicFeature	D008181
+20682662	784	792	patients	OrganismTaxon	9606
+20682662	842	846	CCR5	GeneOrGeneProduct	1234
+20682662	847	860	DD32 deletion	SequenceVariant	c|DEL||32
+20682662	918	926	patients	OrganismTaxon	9606
+20682662	1110	1118	patients	OrganismTaxon	9606
+20682662	1163	1167	CCR5	GeneOrGeneProduct	1234
+20682662	1168	1172	DD32	SequenceVariant	c|DEL||32
+20682662	1174	1178	DD32	SequenceVariant	c|DEL||32
+20682662	1179	1183	DD32	SequenceVariant	c|DEL||32
+20682662	1185	1187	RA	DiseaseOrPhenotypicFeature	D001172
+20682662	1218	1221	SLE	DiseaseOrPhenotypicFeature	D008180
+20682662	1238	1240	LN	DiseaseOrPhenotypicFeature	D008181
+20682662	1320	1333	DD32 deletion	SequenceVariant	c|DEL||32
+20682662	1354	1356	LN	DiseaseOrPhenotypicFeature	D008181
+20682662	1357	1365	patients	OrganismTaxon	9606
+20682662	1448	1452	CCR5	GeneOrGeneProduct	1234
+20682662	1484	1486	RA	DiseaseOrPhenotypicFeature	D001172
+20682662	1488	1491	SLE	DiseaseOrPhenotypicFeature	D008180
+20682662	1496	1498	LN	DiseaseOrPhenotypicFeature	D008181
+20682662	1541	1543	LN	DiseaseOrPhenotypicFeature	D008181
+20682662	1568	1572	CCR5	GeneOrGeneProduct	1234
+20682662	1573	1586	DD32 deletion	SequenceVariant	c|DEL||32
+20682662	1645	1647	RA	DiseaseOrPhenotypicFeature	D001172
+20682662	1649	1652	SLE	DiseaseOrPhenotypicFeature	D008180
+20682662	1657	1659	LN	DiseaseOrPhenotypicFeature	D008181
+20682662	1690	1703	DD32 deletion	SequenceVariant	c|DEL||32
+20682662	Association	1234	D007249	No
+20682662	Positive_Correlation	1234	D001327	No
+20682662	Negative_Correlation	c|DEL||32	D001327	No

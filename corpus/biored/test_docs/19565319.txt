@@ -1,0 +1,42 @@
+19565319|t|Adenosine A(2A) receptor gene (ADORA2A) variants may increase autistic symptoms and anxiety in autism spectrum disorder.
+19565319|a|Autism spectrum disorders (ASDs) are heterogeneous disorders presenting with increased rates of anxiety. The adenosine A(2A) receptor gene (ADORA2A) is associated with panic disorder and is located on chromosome 22q11.23. Its gene product, the adenosine A(2A) receptor, is strongly expressed in the caudate nucleus, which also is involved in ASD. As autistic symptoms are increased in individuals with 22q11.2 deletion syndrome, and large 22q11.2 deletions and duplications have been observed in ASD individuals, in this study, 98 individuals with ASD and 234 control individuals were genotyped for eight single-nucleotide polymorphisms in ADORA2A. Nominal association with the disorder was observed for rs2236624-CC, and phenotypic variability in ASD symptoms was influenced by rs3761422, rs5751876 and rs35320474. In addition, association of ADORA2A variants with anxiety was replicated for individuals with ASD. Findings point toward a possible mediating role of ADORA2A variants on phenotypic expression in ASD that need to be replicated in a larger sample.
+19565319	0	24	Adenosine A(2A) receptor	GeneOrGeneProduct	135
+19565319	31	38	ADORA2A	GeneOrGeneProduct	135
+19565319	62	79	autistic symptoms	DiseaseOrPhenotypicFeature	D001321
+19565319	84	91	anxiety	DiseaseOrPhenotypicFeature	D001008
+19565319	95	119	autism spectrum disorder	DiseaseOrPhenotypicFeature	D000067877
+19565319	121	146	Autism spectrum disorders	DiseaseOrPhenotypicFeature	D000067877
+19565319	148	152	ASDs	DiseaseOrPhenotypicFeature	D000067877
+19565319	217	224	anxiety	DiseaseOrPhenotypicFeature	D001008
+19565319	230	254	adenosine A(2A) receptor	GeneOrGeneProduct	135
+19565319	261	268	ADORA2A	GeneOrGeneProduct	135
+19565319	289	303	panic disorder	DiseaseOrPhenotypicFeature	D016584
+19565319	365	389	adenosine A(2A) receptor	GeneOrGeneProduct	135
+19565319	463	466	ASD	DiseaseOrPhenotypicFeature	D000067877
+19565319	471	488	autistic symptoms	DiseaseOrPhenotypicFeature	D001321
+19565319	523	548	22q11.2 deletion syndrome	DiseaseOrPhenotypicFeature	D004062
+19565319	560	577	22q11.2 deletions	DiseaseOrPhenotypicFeature	D004062
+19565319	617	620	ASD	DiseaseOrPhenotypicFeature	D000067877
+19565319	669	672	ASD	DiseaseOrPhenotypicFeature	D000067877
+19565319	761	768	ADORA2A	GeneOrGeneProduct	135
+19565319	825	834	rs2236624	SequenceVariant	rs2236624
+19565319	869	872	ASD	DiseaseOrPhenotypicFeature	D000067877
+19565319	900	909	rs3761422	SequenceVariant	rs3761422
+19565319	911	920	rs5751876	SequenceVariant	rs5751876
+19565319	925	935	rs35320474	SequenceVariant	rs35320474
+19565319	965	972	ADORA2A	GeneOrGeneProduct	135
+19565319	987	994	anxiety	DiseaseOrPhenotypicFeature	D001008
+19565319	1031	1034	ASD	DiseaseOrPhenotypicFeature	D000067877
+19565319	1087	1094	ADORA2A	GeneOrGeneProduct	135
+19565319	1132	1135	ASD	DiseaseOrPhenotypicFeature	D000067877
+19565319	Positive_Correlation	rs35320474	D001321	Novel
+19565319	Positive_Correlation	rs5751876	D001321	Novel
+19565319	Positive_Correlation	rs3761422	D001321	Novel
+19565319	Association	D000067877	rs2236624	Novel
+19565319	Positive_Correlation	D001008	rs35320474	Novel
+19565319	Positive_Correlation	D001008	rs5751876	Novel
+19565319	Positive_Correlation	D001008	rs3761422	Novel
+19565319	Association	135	D016584	No
+19565319	Association	135	D000067877	Novel
+19565319	Association	135	D001008	Novel
+19565319	Association	135	D001321	Novel

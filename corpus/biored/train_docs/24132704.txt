@@ -1,0 +1,70 @@
+24132704|t|Crocin improves lipid dysregulation in subacute diazinon exposure through ERK1/2 pathway in rat liver.
+24132704|a|INTRODUCTION: Diazinon Yis one of the most broadly used organophosphorus insecticides in agriculture. It has been shown that exposure to diazinon may interfere with lipid metabolism. Moreover, the hypolipidemic effect of crocin has been established. Earlier studies revealed the major role of Extracellular signal-regulated kinase (ERK) pathways in low-density lipoprotein receptor (LDLr) expression. The aim of this study was to evaluate changes in the regulation of lipid metabolism, ERK and LDLr expression in the liver of rats exposed to subacute diazinon. Furthermore ameliorating effect of crocin on diazinon induced disturbed cholesterol homeostasis was studied. METHODS: 24 Rats were divided into 4 groups and received following treatments for 4 weeks; Corn oil (control), diazinon (15mg/kg per day, orally) and crocin (12.5 and 25mg/kg per day, intraperitoneally) in combination with diazinon (15 mg/kg). The levels of cholesterol, triglyceride and LDL in blood of rats were analyzed. Moreover mRNA levels of LDLr and ERK1/2 as well as protein levels of total and activated forms of ERK1/2 in rat liver were evaluated by Western blotting and quantitative real time polymerase chain reaction analysis. RESULTS: Our data showed that subacute exposure to diazinon significantly increased concentrations of cholesterol, triglyceride and LDL. Moreover diazinon decreased ERK1/2 protein phosphorylation and LDLr transcript. Crocin reduced inhibition of ERK activation and diazinon-induced hyperlipemia and increased levels of LDLr transcript. CONCLUSIONS: Crocin may be considered as a novel protective agent in diazinon-induced hyperlipemia through modulating of ERK pathway and increase of LDLr expression.
+24132704	0	6	Crocin	ChemicalEntity	C029036
+24132704	16	21	lipid	ChemicalEntity	D008055
+24132704	48	56	diazinon	ChemicalEntity	D003976
+24132704	74	80	ERK1/2	GeneOrGeneProduct	116590,50689
+24132704	92	95	rat	OrganismTaxon	10116
+24132704	117	125	Diazinon	ChemicalEntity	D003976
+24132704	159	175	organophosphorus	ChemicalEntity	D010755
+24132704	240	248	diazinon	ChemicalEntity	D003976
+24132704	268	273	lipid	ChemicalEntity	D008055
+24132704	324	330	crocin	ChemicalEntity	C029036
+24132704	396	433	Extracellular signal-regulated kinase	GeneOrGeneProduct	116590,50689
+24132704	435	438	ERK	GeneOrGeneProduct	116590,50689
+24132704	452	484	low-density lipoprotein receptor	GeneOrGeneProduct	300438
+24132704	486	490	LDLr	GeneOrGeneProduct	300438
+24132704	571	576	lipid	ChemicalEntity	D008055
+24132704	589	592	ERK	GeneOrGeneProduct	116590,50689
+24132704	597	601	LDLr	GeneOrGeneProduct	300438
+24132704	629	633	rats	OrganismTaxon	10116
+24132704	654	662	diazinon	ChemicalEntity	D003976
+24132704	699	705	crocin	ChemicalEntity	C029036
+24132704	709	717	diazinon	ChemicalEntity	D003976
+24132704	736	747	cholesterol	ChemicalEntity	D002784
+24132704	785	789	Rats	OrganismTaxon	10116
+24132704	864	872	Corn oil	ChemicalEntity	D003314
+24132704	884	892	diazinon	ChemicalEntity	D003976
+24132704	923	929	crocin	ChemicalEntity	C029036
+24132704	996	1004	diazinon	ChemicalEntity	D003976
+24132704	1031	1042	cholesterol	ChemicalEntity	D002784
+24132704	1044	1056	triglyceride	ChemicalEntity	D014280
+24132704	1061	1064	LDL	ChemicalEntity	D008077
+24132704	1077	1081	rats	OrganismTaxon	10116
+24132704	1121	1125	LDLr	GeneOrGeneProduct	300438
+24132704	1130	1136	ERK1/2	GeneOrGeneProduct	116590,50689
+24132704	1195	1201	ERK1/2	GeneOrGeneProduct	116590,50689
+24132704	1205	1208	rat	OrganismTaxon	10116
+24132704	1364	1372	diazinon	ChemicalEntity	D003976
+24132704	1415	1426	cholesterol	ChemicalEntity	D002784
+24132704	1428	1440	triglyceride	ChemicalEntity	D014280
+24132704	1445	1448	LDL	ChemicalEntity	D008077
+24132704	1459	1467	diazinon	ChemicalEntity	D003976
+24132704	1478	1484	ERK1/2	GeneOrGeneProduct	116590,50689
+24132704	1513	1517	LDLr	GeneOrGeneProduct	300438
+24132704	1530	1536	Crocin	ChemicalEntity	C029036
+24132704	1559	1562	ERK	GeneOrGeneProduct	116590,50689
+24132704	1578	1586	diazinon	ChemicalEntity	D003976
+24132704	1595	1607	hyperlipemia	DiseaseOrPhenotypicFeature	D006949
+24132704	1632	1636	LDLr	GeneOrGeneProduct	300438
+24132704	1662	1668	Crocin	ChemicalEntity	C029036
+24132704	1718	1726	diazinon	ChemicalEntity	D003976
+24132704	1735	1747	hyperlipemia	DiseaseOrPhenotypicFeature	D006949
+24132704	1770	1773	ERK	GeneOrGeneProduct	116590,50689
+24132704	1798	1802	LDLr	GeneOrGeneProduct	300438
+24132704	Association	D003976	50689	Novel
+24132704	Association	D003976	116590	Novel
+24132704	Positive_Correlation	D003976	D008077	Novel
+24132704	Positive_Correlation	D003976	D014280	Novel
+24132704	Positive_Correlation	D003976	D002784	Novel
+24132704	Positive_Correlation	D003976	D006949	No
+24132704	Negative_Correlation	D003976	300438	Novel
+24132704	Association	D003976	D008055	No
+24132704	Association	300438	D006949	Novel
+24132704	Positive_Correlation	C029036	50689	Novel
+24132704	Positive_Correlation	C029036	116590	Novel
+24132704	Association	C029036	D002784	Novel
+24132704	Negative_Correlation	C029036	D003976	Novel
+24132704	Negative_Correlation	C029036	D006949	Novel
+24132704	Positive_Correlation	C029036	300438	Novel
+24132704	Association	C029036	D008055	Novel

@@ -1,0 +1,91 @@
+28049831|t|Mobile zinc increases rapidly in the retina after optic nerve injury and regulates ganglion cell survival and optic nerve regeneration
+28049831|a|Retinal ganglion cells (RGCs), the projection neurons of the eye, cannot regenerate their axons once the optic nerve has been injured and soon begin to die. Whereas RGC death and regenerative failure are widely viewed as being cell-autonomous or influenced by various types of glia, we report here that the dysregulation of mobile zinc (Zn(2+)) in retinal interneurons is a primary factor. Within an hour after the optic nerve is injured, Zn(2+) increases several-fold in retinal amacrine cell processes and continues to rise over the first day, then transfers slowly to RGCs via vesicular release. Zn(2+) accumulation in amacrine cell processes involves the Zn(2+) transporter protein ZnT-3, and deletion of slc30a3, the gene encoding ZnT-3, promotes RGC survival and axon regeneration. Intravitreal injection of Zn(2+) chelators enables many RGCs to survive for months after nerve injury and regenerate axons, and enhances the prosurvival and regenerative effects of deleting the gene for phosphatase and tensin homolog (pten). Importantly, the therapeutic window for Zn(2+) chelation extends for several days after nerve injury. These results show that retinal Zn(2+) dysregulation is a major factor limiting the survival and regenerative capacity of injured RGCs, and point to Zn(2+) chelation as a strategy to promote long-term RGC protection and enhance axon regeneration.
+28049831	0	6	Mobile	T169	C0231435
+28049831	7	11	zinc	T121,T123,T196	C0043481
+28049831	12	21	increases	T169	C0442805
+28049831	37	43	retina	T023	C0035298
+28049831	50	68	optic nerve injury	T037	C0161398
+28049831	73	82	regulates	T064	C0851285
+28049831	83	96	ganglion cell	T025	C0228071
+28049831	97	105	survival	T043	C0007620
+28049831	110	134	optic nerve regeneration	T043	C0598424
+28049831	135	157	Retinal ganglion cells	T025	C0035316
+28049831	159	163	RGCs	T025	C0035316
+28049831	170	188	projection neurons	T025	C0027882
+28049831	196	199	eye	T023	C0015392
+28049831	208	218	regenerate	T169	C0334213
+28049831	225	230	axons	T026	C0004461
+28049831	240	251	optic nerve	T023	C0029130
+28049831	261	268	injured	T037	C0161479
+28049831	287	290	die	T043	C0007587
+28049831	300	303	RGC	T025	C0035316
+28049831	304	309	death	T043	C0007587
+28049831	314	326	regenerative	T043	C0027756
+28049831	327	334	failure	T169	C0231174
+28049831	412	416	glia	T002	C1087003
+28049831	442	455	dysregulation	T038	C3714634
+28049831	459	465	mobile	T169	C0231435
+28049831	466	470	zinc	T121,T123,T196	C0043481
+28049831	472	478	Zn(2+)	T121,T196	C2346521
+28049831	483	490	retinal	T023	C0035298
+28049831	491	503	interneurons	T025	C0021792
+28049831	535	539	hour	T079	C0439227
+28049831	550	561	optic nerve	T023	C0029130
+28049831	565	572	injured	T037	C0161479
+28049831	574	580	Zn(2+)	T121,T196	C2346521
+28049831	581	590	increases	T169	C0442805
+28049831	607	614	retinal	T023	C0035298
+28049831	615	628	amacrine cell	T025	C0229216
+28049831	676	679	day	T079	C0439228
+28049831	706	710	RGCs	T025	C0035316
+28049831	715	724	vesicular	T080	C0205378
+28049831	725	732	release	T169	C0391871
+28049831	734	740	Zn(2+)	T121,T196	C2346521
+28049831	741	753	accumulation	T033	C4055506
+28049831	757	770	amacrine cell	T025	C0229216
+28049831	794	826	Zn(2+) transporter protein ZnT-3	T116,T123	C1447468
+28049831	832	840	deletion	T045	C0017260
+28049831	844	851	slc30a3	T028	C1420180
+28049831	857	861	gene	T028	C0017337
+28049831	862	870	encoding	T052	C2700640
+28049831	871	876	ZnT-3	T116,T123	C1447468
+28049831	878	886	promotes	T052	C0033414
+28049831	887	890	RGC	T025	C0035316
+28049831	891	899	survival	T043	C0007620
+28049831	904	921	axon regeneration	T042	C1621980
+28049831	923	945	Intravitreal injection	T169	C1554888
+28049831	949	955	Zn(2+)	T121,T196	C2346521
+28049831	956	965	chelators	T121,T130	C0007974
+28049831	979	983	RGCs	T025	C0035316
+28049831	987	994	survive	T043	C0007620
+28049831	999	1005	months	T079	C0439231
+28049831	1012	1024	nerve injury	T037	C0161479
+28049831	1029	1039	regenerate	T169	C0334213
+28049831	1040	1045	axons	T026	C0004461
+28049831	1051	1059	enhances	T052	C2349975
+28049831	1064	1075	prosurvival	T043	C0007620
+28049831	1080	1092	regenerative	T043	C0027756
+28049831	1093	1100	effects	T080	C1280500
+28049831	1104	1121	deleting the gene	T045	C0017260
+28049831	1126	1156	phosphatase and tensin homolog	T116,T126	C1430988
+28049831	1158	1162	pten	T116,T126	C1430988
+28049831	1182	1200	therapeutic window	T081	C0678793
+28049831	1205	1211	Zn(2+)	T121,T196	C2346521
+28049831	1212	1221	chelation	T044	C3537131
+28049831	1234	1246	several days	T033	C3845714
+28049831	1253	1265	nerve injury	T037	C0161479
+28049831	1291	1298	retinal	T023	C0035298
+28049831	1299	1305	Zn(2+)	T121,T196	C2346521
+28049831	1306	1319	dysregulation	T038	C3714634
+28049831	1351	1359	survival	T043	C0007620
+28049831	1364	1376	regenerative	T043	C0027756
+28049831	1377	1385	capacity	T081	C1516240
+28049831	1389	1396	injured	T037	C0161479
+28049831	1397	1401	RGCs	T025	C0035316
+28049831	1416	1422	Zn(2+)	T121,T196	C2346521
+28049831	1423	1432	chelation	T044	C3537131
+28049831	1450	1457	promote	T052	C0033414
+28049831	1468	1471	RGC	T025	C0035316
+28049831	1472	1482	protection	T033	C1545588
+28049831	1487	1494	enhance	T052	C2349975
+28049831	1495	1512	axon regeneration	T042	C1621980

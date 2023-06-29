@@ -1,0 +1,54 @@
+17006606|t|A polymorphism of C-to-T substitution at -31 IL1B is associated with the risk of advanced gastric adenocarcinoma in a Japanese population.
+17006606|a|Proinflammatory cytokine gene polymorphisms have been demonstrated to associate with gastric cancer risk, of which IL1B-31T/C and -511C/T changes have been well investigated due to the possibility that they may alter the IL1B transcription. The signal transduction target upon interleukin 1 beta (IL1beta) stimulation, the nuclear factor of kappa B (NFkappaB) activation, supports cancer development, signal transduction in which is mediated by FS-7 cell-associated cell surface antigen (FAS) signaling. Based on recent papers describing the prognostic roles of the polymorphisms and the NFkappaB functions on cancer development, we sought to determine if Japanese gastric cancer patients were affected by the IL1B -31/-511 and FAS-670 polymorphisms. A case-control study was conducted on incident gastric adenocarcinoma patients (n=271) and age-gender frequency-matched control subjects (n=271). We observed strong linkage disequilibrium between the T allele at -511 and the C allele at -31 and between the C allele at -511 and the T allele at -31 in IL1B in both the cases and controls (R (2)=0.94). Neither IL1B-31, -511 nor FAS-670 polymorphisms showed significantly different risks of gastric adenocarcinoma. Though FAS-670 polymorphisms did not show any significant difference, the proportion of subjects with IL1B-31TT (or IL1B-511CC) increased according to stage (trend P=0.019). In particular, subjects with stage IV had a two times higher probability of having either IL1B-31TT (or IL1B-511CC) genotype compared with stage I subjects. These observations suggest that IL1B-31TT and IL1B-511CC are associated with disease progression.
+17006606	18	44	C-to-T substitution at -31	SequenceVariant	rs1143627
+17006606	45	49	IL1B	GeneOrGeneProduct	3553
+17006606	90	112	gastric adenocarcinoma	DiseaseOrPhenotypicFeature	D013274
+17006606	139	163	Proinflammatory cytokine	GeneOrGeneProduct	3553
+17006606	224	238	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+17006606	254	258	IL1B	GeneOrGeneProduct	3553
+17006606	258	264	-31T/C	SequenceVariant	rs1143627
+17006606	269	276	-511C/T	SequenceVariant	rs1143634
+17006606	360	364	IL1B	GeneOrGeneProduct	3553
+17006606	416	434	interleukin 1 beta	GeneOrGeneProduct	3553
+17006606	436	443	IL1beta	GeneOrGeneProduct	3553
+17006606	462	487	nuclear factor of kappa B	GeneOrGeneProduct	4790
+17006606	489	497	NFkappaB	GeneOrGeneProduct	4790
+17006606	520	526	cancer	DiseaseOrPhenotypicFeature	D009369
+17006606	584	625	FS-7 cell-associated cell surface antigen	GeneOrGeneProduct	355
+17006606	627	630	FAS	GeneOrGeneProduct	355
+17006606	727	735	NFkappaB	GeneOrGeneProduct	4790
+17006606	749	755	cancer	DiseaseOrPhenotypicFeature	D009369
+17006606	804	818	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+17006606	819	827	patients	OrganismTaxon	9606
+17006606	849	853	IL1B	GeneOrGeneProduct	3553
+17006606	867	870	FAS	GeneOrGeneProduct	355
+17006606	937	959	gastric adenocarcinoma	DiseaseOrPhenotypicFeature	D013274
+17006606	960	968	patients	OrganismTaxon	9606
+17006606	1090	1106	T allele at -511	SequenceVariant	rs1143634
+17006606	1115	1130	C allele at -31	SequenceVariant	rs1143627
+17006606	1147	1163	C allele at -511	SequenceVariant	rs1143634
+17006606	1172	1187	T allele at -31	SequenceVariant	rs1143627
+17006606	1191	1195	IL1B	GeneOrGeneProduct	3553
+17006606	1249	1253	IL1B	GeneOrGeneProduct	3553
+17006606	1267	1270	FAS	GeneOrGeneProduct	355
+17006606	1329	1351	gastric adenocarcinoma	DiseaseOrPhenotypicFeature	D013274
+17006606	1360	1363	FAS	GeneOrGeneProduct	355
+17006606	1455	1459	IL1B	GeneOrGeneProduct	3553
+17006606	1459	1464	-31TT	SequenceVariant	rs1143627
+17006606	1469	1473	IL1B	GeneOrGeneProduct	3553
+17006606	1473	1479	-511CC	SequenceVariant	rs1143634
+17006606	1617	1621	IL1B	GeneOrGeneProduct	3553
+17006606	1621	1626	-31TT	SequenceVariant	rs1143627
+17006606	1631	1635	IL1B	GeneOrGeneProduct	3553
+17006606	1635	1641	-511CC	SequenceVariant	rs1143634
+17006606	1716	1720	IL1B	GeneOrGeneProduct	3553
+17006606	1720	1725	-31TT	SequenceVariant	rs1143627
+17006606	1730	1734	IL1B	GeneOrGeneProduct	3553
+17006606	1734	1740	-511CC	SequenceVariant	rs1143634
+17006606	Association	rs1143634	rs1143627	Novel
+17006606	Association	4790	D009369	No
+17006606	Association	3553	D009369	No
+17006606	Association	3553	4790	No
+17006606	Association	3553	D013274	Novel
+17006606	Positive_Correlation	D013274	rs1143634	No
+17006606	Positive_Correlation	rs1143627	D013274	Novel

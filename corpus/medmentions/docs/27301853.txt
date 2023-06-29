@@ -1,0 +1,92 @@
+27301853|t|Mining Health App Data to Find More and Less Successful Weight Loss Subgroups
+27301853|a|More than half of all smartphone app downloads involve weight, diet, and exercise. If successful, these lifestyle apps may have far-reaching effects for disease prevention and health cost-savings, but few researchers have analyzed data from these apps. The purposes of this study were to analyze data from a commercial health app (Lose It!) in order to identify successful weight loss subgroups via exploratory analyses and to verify the stability of the results. Cross-sectional, de-identified data from Lose It! were analyzed. This dataset (n=12,427,196) was randomly split into 24 subsamples, and this study used 3 subsamples (combined n=972,687). Classification and regression tree methods were used to explore groupings of weight loss with one subsample, with descriptive analyses to examine other group characteristics. Data mining validation methods were conducted with 2 additional subsamples. In subsample 1, 14.96% of users lost 5% or more of their starting body weight. Classification and regression tree analysis identified 3 distinct subgroups: "the occasional users " had the lowest proportion (4.87%) of individuals who successfully lost weight; "the basic users " had 37.61% weight loss success; and "the power users " achieved the highest percentage of weight loss success at 72.70%. Behavioral factors delineated the subgroups, though app -related behavioral characteristics further distinguished them. Results were replicated in further analyses with separate subsamples. This study demonstrates that distinct subgroups can be identified in "messy" commercial app data and the identified subgroups can be replicated in independent samples. Behavioral factors and use of custom app features characterized the subgroups. Targeting and tailoring information to particular subgroups could enhance weight loss success. Future studies should replicate data mining analyses to increase methodology rigor.
+27301853	0	6	Mining	T066	C1328866
+27301853	7	17	Health App	T170	C3658280
+27301853	18	22	Data	T078	C1511726
+27301853	45	55	Successful	T080	C1272703
+27301853	56	67	Weight Loss	T033	C1262477
+27301853	100	114	smartphone app	T170	C3658310
+27301853	133	139	weight	T032	C0005910
+27301853	141	146	diet,	T168	C0012155
+27301853	151	159	exercise	T056	C0015259
+27301853	182	191	lifestyle	T054	C0023676
+27301853	192	196	apps	T170	C3658280
+27301853	219	226	effects	T080	C1280500
+27301853	231	249	disease prevention	T061	C0679698
+27301853	254	260	health	T081	C0085552
+27301853	261	273	cost-savings	T081	C0085550
+27301853	283	294	researchers	T097	C0035173
+27301853	309	313	data	T078	C1511726
+27301853	325	329	apps	T170	C3658280
+27301853	335	357	purposes of this study	UnknownType	C0681832
+27301853	374	378	data	T078	C1511726
+27301853	386	407	commercial health app	T170	C3658280
+27301853	409	417	Lose It!	T170	C3658280
+27301853	440	462	successful weight loss	T033	C1262477
+27301853	463	472	subgroups	T185	C1515021
+27301853	477	497	exploratory analyses	T062	C0936012
+27301853	516	525	stability	T080	C0205360
+27301853	533	540	results	T169	C1274040
+27301853	542	557	Cross-sectional	T078	C1511726
+27301853	573	577	data	T078	C1511726
+27301853	583	591	Lose It!	T170	C3658280
+27301853	612	619	dataset	T170	C0150098
+27301853	662	672	subsamples	T081	C0871429
+27301853	696	706	subsamples	T081	C0871429
+27301853	729	743	Classification	T185	C0008902
+27301853	748	771	regression tree methods	T170	C0034980
+27301853	793	802	groupings	T169	C1522242
+27301853	806	817	weight loss	T033	C1262477
+27301853	827	836	subsample	T081	C0871429
+27301853	843	863	descriptive analyses	T062	C0936012
+27301853	881	886	group	UnknownType	C0681860
+27301853	887	902	characteristics	T080	C1521970
+27301853	904	915	Data mining	T066	C1328866
+27301853	916	934	validation methods	T170	C0025663
+27301853	968	978	subsamples	T081	C0871429
+27301853	983	992	subsample	T081	C0871429
+27301853	1006	1011	users	T098	C1706077
+27301853	1012	1016	lost	T033	C1262477
+27301853	1046	1057	body weight	T032	C0005910
+27301853	1059	1073	Classification	T185	C0008902
+27301853	1078	1102	regression tree analysis	T170	C0034980
+27301853	1125	1134	subgroups	T185	C1515021
+27301853	1141	1151	occasional	T079	C0521114
+27301853	1152	1157	users	T098	C1706077
+27301853	1168	1174	lowest	T080	C1708760
+27301853	1197	1208	individuals	T098	C0027361
+27301853	1226	1237	lost weight	T033	C1262477
+27301853	1250	1255	users	T098	C1706077
+27301853	1269	1280	weight loss	T033	C1262477
+27301853	1299	1310	power users	T098	C1706077
+27301853	1326	1333	highest	T080	C1522410
+27301853	1348	1367	weight loss success	T033	C1262477
+27301853	1379	1389	Behavioral	T053	C0004927
+27301853	1390	1397	factors	T080	C1521970
+27301853	1413	1422	subgroups	T185	C1515021
+27301853	1431	1434	app	T170	C3658280
+27301853	1444	1454	behavioral	T053	C0004927
+27301853	1455	1470	characteristics	T080	C1521970
+27301853	1499	1506	Results	T169	C1274040
+27301853	1512	1522	replicated	T169	C0205173
+27301853	1534	1542	analyses	T062	C0936012
+27301853	1557	1567	subsamples	T081	C0871429
+27301853	1574	1579	study	T062	C2603343
+27301853	1607	1616	subgroups	T185	C1515021
+27301853	1646	1660	commercial app	T170	C3658280
+27301853	1661	1665	data	T078	C1511726
+27301853	1685	1694	subgroups	T185	C1515021
+27301853	1702	1712	replicated	T169	C0205173
+27301853	1737	1747	Behavioral	T053	C0004927
+27301853	1748	1755	factors	T080	C1521970
+27301853	1760	1766	use of	T169	C1524063
+27301853	1774	1777	app	T170	C3658280
+27301853	1778	1786	features	T080	C2348519
+27301853	1805	1814	subgroups	T185	C1515021
+27301853	1840	1851	information	T078	C1533716
+27301853	1866	1875	subgroups	T185	C1515021
+27301853	1890	1909	weight loss success	T052	C4042910
+27301853	1918	1925	studies	T062	C2603343
+27301853	1933	1942	replicate	T169	C0205173
+27301853	1943	1954	data mining	T066	C1328866
+27301853	1955	1963	analyses	T062	C0936012

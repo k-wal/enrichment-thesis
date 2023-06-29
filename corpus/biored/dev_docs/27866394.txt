@@ -1,0 +1,59 @@
+27866394|t|Repeated otilonium bromide administration prevents neurotransmitter changes in colon of rats underwent to wrap restraint stress.
+27866394|a|Otilonium bromide (OB) is a spasmolytic drug successfully used for the treatment of irritable bowel syndrome (IBS). Its efficacy has been attributed to the block of L- and T-type Ca(2+) channels and muscarinic and tachykinin receptors in the smooth muscle. Furthermore, in healthy rats, repeated OB administration modified neurotransmitter expression and function suggesting other mechanisms of action. On this basis, we investigated whether repeated OB treatment prevented the functional and neurochemical changes observed in the colon of rats underwent to wrap restrain stress (WRS) a psychosocial stressor considered suitable to reproduce the main IBS signs and symptoms. In control, WRS and OB/WRS rats functional parameters were measured in vivo and morphological investigations were done ex vivo in the colon. The results showed that OB counteracts most of the neurotransmitters changes caused by WRS. In particular, the drug prevents the decrease in SP-, NK1r-, nNOS-, VIP-, and S100b-immunoreactivity (IR) and the increase in CGRP-, and CRF1r-IR. On the contrary, OB does not affect the increase in CRF2r-IR neurons observed in WRS rats and does not interfere with the mild mucosal inflammation due to WRS. Finally, OB per se increases the Mr2 expression in the muscle wall and decreases the number of the myenteric ChAT-IR neurons. Functional findings show a significantly reduction in the number of spontaneous abdominal contraction in OB treated rats. The ability of OB to block L-type Ca(2+) channels, also expressed by enteric neurons, might represent a possible mechanism through which OB exerts its actions.
+27866394	9	26	otilonium bromide	ChemicalEntity	C013934
+27866394	51	67	neurotransmitter	ChemicalEntity	D018377
+27866394	88	92	rats	OrganismTaxon	10116
+27866394	129	146	Otilonium bromide	ChemicalEntity	C013934
+27866394	148	150	OB	ChemicalEntity	C013934
+27866394	213	237	irritable bowel syndrome	DiseaseOrPhenotypicFeature	D043183
+27866394	239	242	IBS	DiseaseOrPhenotypicFeature	D043183
+27866394	294	323	L- and T-type Ca(2+) channels	GeneOrGeneProduct	24239,83810
+27866394	328	363	muscarinic and tachykinin receptors	GeneOrGeneProduct	1128,6869
+27866394	410	414	rats	OrganismTaxon	10116
+27866394	425	427	OB	ChemicalEntity	C013934
+27866394	452	468	neurotransmitter	ChemicalEntity	D018377
+27866394	580	582	OB	ChemicalEntity	C013934
+27866394	669	673	rats	OrganismTaxon	10116
+27866394	780	783	IBS	DiseaseOrPhenotypicFeature	D043183
+27866394	824	826	OB	ChemicalEntity	C013934
+27866394	831	835	rats	OrganismTaxon	10116
+27866394	969	971	OB	ChemicalEntity	C013934
+27866394	996	1013	neurotransmitters	ChemicalEntity	D018377
+27866394	1086	1088	SP	GeneOrGeneProduct	24806
+27866394	1091	1095	NK1r	GeneOrGeneProduct	24807
+27866394	1098	1102	nNOS	GeneOrGeneProduct	24598
+27866394	1105	1108	VIP	GeneOrGeneProduct	117064
+27866394	1115	1120	S100b	GeneOrGeneProduct	25742
+27866394	1163	1167	CGRP	GeneOrGeneProduct	24241
+27866394	1174	1179	CRF1r	GeneOrGeneProduct	58959
+27866394	1201	1203	OB	ChemicalEntity	C013934
+27866394	1236	1241	CRF2r	GeneOrGeneProduct	64680
+27866394	1269	1273	rats	OrganismTaxon	10116
+27866394	1311	1331	mucosal inflammation	DiseaseOrPhenotypicFeature	D052016
+27866394	1353	1355	OB	ChemicalEntity	C013934
+27866394	1377	1380	Mr2	GeneOrGeneProduct	81645
+27866394	1453	1457	ChAT	GeneOrGeneProduct	290567
+27866394	1575	1577	OB	ChemicalEntity	C013934
+27866394	1586	1590	rats	OrganismTaxon	10116
+27866394	1607	1609	OB	ChemicalEntity	C013934
+27866394	1619	1641	L-type Ca(2+) channels	GeneOrGeneProduct	24239
+27866394	1729	1731	OB	ChemicalEntity	C013934
+27866394	Association	83810	D043183	No
+27866394	Negative_Correlation	83810	C013934	No
+27866394	Association	24239	D043183	No
+27866394	Negative_Correlation	24239	C013934	Novel
+27866394	Association	6869	D043183	No
+27866394	Negative_Correlation	6869	C013934	No
+27866394	Association	1128	D043183	No
+27866394	Negative_Correlation	1128	C013934	No
+27866394	Negative_Correlation	58959	C013934	Novel
+27866394	Negative_Correlation	24241	C013934	Novel
+27866394	Positive_Correlation	25742	C013934	Novel
+27866394	Positive_Correlation	117064	C013934	Novel
+27866394	Positive_Correlation	24598	C013934	Novel
+27866394	Positive_Correlation	24807	C013934	Novel
+27866394	Association	C013934	D018377	No
+27866394	Negative_Correlation	C013934	D043183	No
+27866394	Negative_Correlation	C013934	290567	Novel
+27866394	Positive_Correlation	C013934	81645	Novel
+27866394	Positive_Correlation	24806	C013934	Novel

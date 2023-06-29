@@ -1,0 +1,88 @@
+27965132|t|Low-Volume vs High-Volume Centers and Management of Fournier's Gangrene in Washington State
+27965132|a|Fournier's gangrene (FG) is a life-threatening infection affecting the perineum and genitals. Complex patient management often necessitates transfer to tertiary centers. We aimed to characterize hospital transfer patterns and assess morbidity among patients with FG in Washington State. The Washington State Comprehensive Hospital Abstract Reporting System includes claims from all hospital discharges in Washington. We identified patients with FG between 2007 and 2013, based on diagnosis and treatment codes. Analyses were stratified by center volume (low-volume centers [LVCs] or high-volume centers [HVCs]), and transfer status. Variables of interest included number of debridements, septic shock, acute renal failure, acute respiratory failure, length of hospitalization, and death. We identified 165 FG patients. Only 1 HVC treated more than 2 FG patients per year. Overall mortality was 6.7%. Most patients (57%) were treated entirely at LVCs; 87% of patients treated at the HVC were transferred from an LVC. High-volume center -treated patients had similar baseline comorbidities (p = 0.77) and similar mortality (p = 0.87), despite higher rates of septic shock (p < 0.01) and respiratory failure (p = 0.01) compared with LVC patients. Among HVC - transferred patients, immediate compared with delayed transfer was associated with fewer debridements (p < 0.01), lower rates of septic shock (p = 0.05), and acute renal failure (p = 0.04). Patients treated at the HVC were more acutely ill, yet mortality was similar compared with patients treated solely at LVCs, suggesting a benefit to transfer of high acuity patients. Immediate vs delayed transfer may benefit FG health outcomes; however, this may also reflect greater disease acuity of patients with delayed transfer status.
+27965132	0	10	Low-Volume	T073,T093	C3494217
+27965132	14	33	High-Volume Centers	T073,T093	C3494218
+27965132	38	71	Management of Fournier's Gangrene	T058	C0376636
+27965132	52	71	Fournier's Gangrene	T047	C0238419
+27965132	75	91	Washington State	T083	C0043038
+27965132	92	111	Fournier's gangrene	T047	C0238419
+27965132	113	115	FG	T047	C0238419
+27965132	122	148	life-threatening infection	T033	C1859430
+27965132	149	158	affecting	T169	C0392760
+27965132	163	171	perineum	T029	C0031066
+27965132	176	184	genitals	T023	C0017420
+27965132	186	193	Complex	T080	C0439855
+27965132	194	212	patient management	T058	C1610129
+27965132	244	260	tertiary centers	T073,T093	C0587437
+27965132	287	304	hospital transfer	T058	C2065834
+27965132	305	313	patterns	T082	C0449774
+27965132	325	334	morbidity	T081	C0026538
+27965132	341	349	patients	T101	C0030705
+27965132	355	357	FG	T047	C0238419
+27965132	361	377	Washington State	T083	C0043038
+27965132	383	399	Washington State	T083	C0043038
+27965132	400	413	Comprehensive	T080	C1880156
+27965132	423	441	Abstract Reporting	T057	C0000857
+27965132	474	493	hospital discharges	UnknownType	C0541652
+27965132	497	507	Washington	T083	C0043038
+27965132	523	531	patients	T101	C0030705
+27965132	537	539	FG	T047	C0238419
+27965132	572	601	diagnosis and treatment codes	T170	C0282574
+27965132	617	627	stratified	T080	C0205363
+27965132	646	664	low-volume centers	T073,T093	C3494217
+27965132	666	670	LVCs	T073,T093	C3494217
+27965132	675	694	high-volume centers	T073,T093	C3494218
+27965132	696	700	HVCs	T073,T093	C3494218
+27965132	708	723	transfer status	T033	C0586512
+27965132	766	778	debridements	T061	C0011079
+27965132	780	792	septic shock	T046	C0036983
+27965132	794	813	acute renal failure	T047	C0022660
+27965132	815	840	acute respiratory failure	T047	C0264490
+27965132	842	867	length of hospitalization	T058	C3694481
+27965132	873	878	death	T033	C1306577
+27965132	898	900	FG	T047	C0238419
+27965132	901	909	patients	T101	C0030705
+27965132	918	921	HVC	T073,T093	C3494218
+27965132	922	929	treated	T169	C1522326
+27965132	942	944	FG	T047	C0238419
+27965132	945	953	patients	T101	C0030705
+27965132	964	981	Overall mortality	T081	C0205848
+27965132	997	1005	patients	T101	C0030705
+27965132	1017	1024	treated	T169	C1522326
+27965132	1037	1041	LVCs	T073,T093	C3494217
+27965132	1050	1058	patients	T101	C0030705
+27965132	1059	1066	treated	T169	C1522326
+27965132	1074	1077	HVC	T073,T093	C3494218
+27965132	1103	1106	LVC	T073,T093	C3494217
+27965132	1108	1126	High-volume center	T073,T093	C3494218
+27965132	1136	1144	patients	T101	C0030705
+27965132	1166	1179	comorbidities	T078	C0009488
+27965132	1203	1212	mortality	T081	C0205848
+27965132	1249	1261	septic shock	T046	C0036983
+27965132	1277	1296	respiratory failure	T047	C1145670
+27965132	1322	1325	LVC	T073,T093	C3494217
+27965132	1326	1334	patients	T101	C0030705
+27965132	1342	1345	HVC	T073,T093	C3494218
+27965132	1348	1368	transferred patients	T058	C0030704
+27965132	1370	1379	immediate	T079	C0205253
+27965132	1394	1401	delayed	T079	C0205421
+27965132	1415	1430	associated with	T080	C0332281
+27965132	1437	1449	debridements	T061	C0011079
+27965132	1477	1489	septic shock	T046	C0036983
+27965132	1506	1525	acute renal failure	T047	C0022660
+27965132	1538	1546	Patients	T101	C0030705
+27965132	1547	1554	treated	T169	C1522326
+27965132	1562	1565	HVC	T073,T093	C3494218
+27965132	1576	1587	acutely ill	T033	C2051411
+27965132	1593	1602	mortality	T081	C0205848
+27965132	1629	1637	patients	T101	C0030705
+27965132	1638	1645	treated	T169	C1522326
+27965132	1656	1660	LVCs	T073,T093	C3494217
+27965132	1703	1718	acuity patients	T080	C3494263
+27965132	1720	1729	Immediate	T079	C0205253
+27965132	1733	1740	delayed	T079	C0205421
+27965132	1762	1764	FG	T047	C0238419
+27965132	1765	1780	health outcomes	T170	C1550208
+27965132	1821	1828	disease	T047	C0012634
+27965132	1829	1847	acuity of patients	T080	C3494263
+27965132	1861	1876	transfer status	T033	C0586512

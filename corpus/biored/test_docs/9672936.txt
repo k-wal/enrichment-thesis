@@ -1,0 +1,20 @@
+9672936|t|Pethidine-associated seizure in a healthy adolescent receiving pethidine for postoperative pain control.
+9672936|a|A healthy 17-year-old male received standard intermittent doses of pethidine via a patient-controlled analgesia (PCA) pump for management of postoperative pain control. Twenty-three h postoperatively he developed a brief self-limited seizure. Both plasma pethidine and norpethidine were elevated in the range associated with clinical manifestations of central nervous system excitation. No other risk factors for CNS toxicity were identified. This method allowed frequent self-dosing of pethidine at short time intervals and rapid accumulation of pethidine and norpethidine. The routine use of pethidine via PCA even for a brief postoperative analgesia should be reconsidered.
+9672936	0	9	Pethidine	ChemicalEntity	D008614
+9672936	21	28	seizure	DiseaseOrPhenotypicFeature	D012640
+9672936	63	72	pethidine	ChemicalEntity	D008614
+9672936	77	95	postoperative pain	DiseaseOrPhenotypicFeature	D010149
+9672936	172	181	pethidine	ChemicalEntity	D008614
+9672936	188	195	patient	OrganismTaxon	9606
+9672936	246	264	postoperative pain	DiseaseOrPhenotypicFeature	D010149
+9672936	339	346	seizure	DiseaseOrPhenotypicFeature	D012640
+9672936	360	369	pethidine	ChemicalEntity	D008614
+9672936	374	386	norpethidine	ChemicalEntity	C002752
+9672936	522	530	toxicity	DiseaseOrPhenotypicFeature	D064420
+9672936	592	601	pethidine	ChemicalEntity	D008614
+9672936	652	661	pethidine	ChemicalEntity	D008614
+9672936	666	678	norpethidine	ChemicalEntity	C002752
+9672936	699	708	pethidine	ChemicalEntity	D008614
+9672936	734	757	postoperative analgesia	DiseaseOrPhenotypicFeature	D010149
+9672936	Association	D008614	D012640	Novel
+9672936	Negative_Correlation	D008614	D010149	No

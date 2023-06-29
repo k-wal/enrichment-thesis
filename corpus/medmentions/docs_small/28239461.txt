@@ -1,0 +1,88 @@
+28239461|t|Tissue MicroRNA profiles as diagnostic and prognostic biomarkers in patients with resectable pancreatic ductal adenocarcinoma and periampullary cancers
+28239461|a|The aim of this study was to validate previously described diagnostic and prognostic microRNA expression profiles in tissue samples from patients with pancreatic cancer and other periampullary cancers. Expression of 46 selected microRNAs was studied in formalin -fixed paraffin-embedded tissue from patients with resected pancreatic ductal adenocarcinoma (n = 165), ampullary cancer (n=59), duodenal cancer (n = 6), distal common bile duct cancer (n = 21), and gastric cancer (n = 20); chronic pancreatitis (n = 39); and normal pancreas (n = 35). The microRNAs were analyzed by PCR using the Fluidigm platform. Twenty-two microRNAs were significantly differently expressed in patients with pancreatic cancer when compared to healthy controls and chronic pancreatitis patients; 17 miRNAs were upregulated (miR-21-5p, - 23a-3p, - 31-5p, - 34c-5p, - 93-3p, - 135b-3p, - 155-5p, - 186-5p, - 196b-5p, - 203, - 205-5p, - 210, - 222-3p, - 451, - 492, - 614, and miR-622) and 5 were downregulated (miR-122-5p, - 130b-3p, - 216b, - 217, and miR-375). MicroRNAs were grouped into diagnostic indices of varying complexity. Ten microRNAs associated with prognosis were identified (let-7 g, miR-29a-5p, - 34a-5p, - 125a-3p, - 146a-5p, - 187, - 205-5p, - 212-3p, - 222-5p, and miR-450b-5p). Prognostic indices based on differences in expression of 2 different microRNAs were constructed for pancreatic and ampullary cancer combined and separately (30, 5, and 21 indices). The study confirms that pancreatic cancer tissue has a microRNA expression profile that is different from that of other periampullary cancers, chronic pancreatitis, and normal pancreas. We identified prognostic microRNAs and microRNA indices that were associated with shorter overall survival in patients with radically resected pancreatic cancer.
+28239461	0	6	Tissue	T017	UMLS:C0040300
+28239461	7	15	MicroRNA	T103	UMLS:C1101610
+28239461	28	38	diagnostic	T201	UMLS:C1511876
+28239461	82	92	resectable	T058	UMLS:C0015252
+28239461	93	125	pancreatic ductal adenocarcinoma	T038	UMLS:C1335302
+28239461	130	151	periampullary cancers	T038	UMLS:C1335377
+28239461	168	173	study	T062	UMLS:C2603343
+28239461	226	236	prognostic	T170	UMLS:C0220901
+28239461	237	245	microRNA	T103	UMLS:C1101610
+28239461	269	275	tissue	T017	UMLS:C0040300
+28239461	303	320	pancreatic cancer	T038	UMLS:C0235974
+28239461	331	352	periampullary cancers	T038	UMLS:C1335377
+28239461	354	364	Expression	T038	UMLS:C0017262
+28239461	380	389	microRNAs	T103	UMLS:C1101610
+28239461	405	413	formalin	T103	UMLS:C0949307
+28239461	421	445	paraffin-embedded tissue	T017	UMLS:C1519524
+28239461	465	473	resected	T058	UMLS:C0015252
+28239461	474	506	pancreatic ductal adenocarcinoma	T038	UMLS:C1335302
+28239461	518	534	ampullary cancer	T038	UMLS:C0262401
+28239461	543	558	duodenal cancer	T038	UMLS:C0541912
+28239461	568	574	distal	T082	UMLS:C0205108
+28239461	575	598	common bile duct cancer	T038	UMLS:C0740277
+28239461	613	627	gastric cancer	T038	UMLS:C0024623
+28239461	638	658	chronic pancreatitis	T038	UMLS:C0149521
+28239461	673	688	normal pancreas	T033	UMLS:C0940731
+28239461	703	712	microRNAs	T103	UMLS:C1101610
+28239461	730	733	PCR	T062	UMLS:C0032520
+28239461	744	761	Fluidigm platform	T170	UMLS:C0282574
+28239461	774	783	microRNAs	T103	UMLS:C1101610
+28239461	815	824	expressed	T038	UMLS:C0017262
+28239461	842	859	pancreatic cancer	T038	UMLS:C0235974
+28239461	898	918	chronic pancreatitis	T038	UMLS:C0149521
+28239461	932	938	miRNAs	T103	UMLS:C1101610
+28239461	944	955	upregulated	T038	UMLS:C0041904
+28239461	957	966	miR-21-5p	T017	UMLS:C1537719
+28239461	970	976	23a-3p	T017	UMLS:C1842758
+28239461	980	985	31-5p	T017	UMLS:C1537742
+28239461	989	995	34c-5p	T017	UMLS:C1537747
+28239461	999	1004	93-3p	T017	UMLS:C1537750
+28239461	1008	1015	135b-3p	T017	UMLS:C1537788
+28239461	1019	1025	155-5p	T017	UMLS:C1537811
+28239461	1029	1035	186-5p	T017	UMLS:C1537820
+28239461	1039	1047	196b-5p,	T017	UMLS:C1537832
+28239461	1050	1053	203	T017	UMLS:C1537841
+28239461	1057	1063	205-5p	T103	UMLS:C4284346
+28239461	1067	1070	210	T017	UMLS:C1537846
+28239461	1074	1080	222-3p	T017	UMLS:C1537860
+28239461	1084	1087	451	T017	UMLS:C1826031
+28239461	1091	1094	492	T017	UMLS:C1826046
+28239461	1098	1101	614	T017	UMLS:C1826193
+28239461	1107	1114	miR-622	T017	UMLS:C1826201
+28239461	1127	1140	downregulated	T038	UMLS:C0013081
+28239461	1142	1152	miR-122-5p	T017	UMLS:C1865068
+28239461	1156	1163	130b-3p	T017	UMLS:C1537780
+28239461	1167	1171	216b	T017	UMLS:C2239687
+28239461	1175	1178	217	T017	UMLS:C1537853
+28239461	1184	1191	miR-375	T017	UMLS:C1537896
+28239461	1194	1203	MicroRNAs	T103	UMLS:C1101610
+28239461	1268	1277	microRNAs	T103	UMLS:C1101610
+28239461	1294	1303	prognosis	T058	UMLS:C0033325
+28239461	1321	1328	let-7 g	T103	UMLS:C1621390
+28239461	1330	1340	miR-29a-5p	T017	UMLS:C1835841
+28239461	1344	1350	34a-5p	T017	UMLS:C1537745
+28239461	1354	1361	125a-3p	T017	UMLS:C1537770
+28239461	1365	1372	146a-5p	T017	UMLS:C1826002
+28239461	1376	1379	187	T017	UMLS:C1537821
+28239461	1383	1389	205-5p	T103	UMLS:C4284346
+28239461	1393	1399	212-3p	T017	UMLS:C1537848
+28239461	1403	1409	222-5p	T017	UMLS:C1537860
+28239461	1415	1426	miR-450b-5p	T017	UMLS:C2239697
+28239461	1472	1482	expression	T038	UMLS:C0017262
+28239461	1498	1507	microRNAs	T103	UMLS:C1101610
+28239461	1529	1539	pancreatic	T038	UMLS:C0235974
+28239461	1544	1560	ampullary cancer	T038	UMLS:C0262401
+28239461	1614	1619	study	T062	UMLS:C2603343
+28239461	1634	1651	pancreatic cancer	T038	UMLS:C0235974
+28239461	1652	1658	tissue	T017	UMLS:C0040300
+28239461	1665	1673	microRNA	T103	UMLS:C1101610
+28239461	1730	1751	periampullary cancers	T038	UMLS:C1335377
+28239461	1753	1773	chronic pancreatitis	T038	UMLS:C0149521
+28239461	1779	1794	normal pancreas	T033	UMLS:C0940731
+28239461	1810	1820	prognostic	T170	UMLS:C0220901
+28239461	1821	1830	microRNAs	T103	UMLS:C1101610
+28239461	1835	1843	microRNA	T103	UMLS:C1101610
+28239461	1930	1938	resected	T058	UMLS:C0015252
+28239461	1939	1956	pancreatic cancer	T038	UMLS:C0235974

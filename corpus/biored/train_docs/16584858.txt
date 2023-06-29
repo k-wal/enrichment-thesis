@@ -1,0 +1,92 @@
+16584858|t|Role of mangiferin on biochemical alterations and antioxidant status in isoproterenol-induced myocardial infarction in rats.
+16584858|a|The current study dealt with the protective role of mangiferin, a polyphenol from Mangifera indica Linn. (Anacardiaceae), on isoproterenol (ISPH)-induced myocardial infarction (MI) in rats through its antioxidative mechanism. Subcutaneous injection of ISPH (200 mg/kg body weight in 1 ml saline) to rats for 2 consecutive days caused myocardial damage in rat heart, which was determined by the increased activity of serum lactate dehydrogenase (LDH) and creatine phosphokinase isoenzymes (CK-MB), increased uric acid level and reduced plasma iron binding capacity. The protective role of mangiferin was analyzed by triphenyl tetrazolium chloride (TTC) test used for macroscopic enzyme mapping assay of the ischemic myocardium. The heart tissue antioxidant enzymes such as superoxide dismutase, catalase, glutathione peroxidase, glutathione transferase and glutathione reductase activities, non-enzymic antioxidants such as cerruloplasmin, Vitamin C, Vitamin E and glutathione levels were altered in MI rats. Upon pretreatment with mangiferin (100 mg/kg body weight suspended in 2 ml of dimethyl sulphoxide) given intraperitoneally for 28 days to MI rats protected the above-mentioned parameters to fall from the normal levels. Activities of heart tissue enzymic antioxidants and serum non-enzymic antioxidants levels rose significantly upon mangiferin administration as compared to ISPH-induced MI rats. From the present study it is concluded that mangiferin exerts a beneficial effect against ISPH-induced MI due to its antioxidant potential, which regulated the tissues defense system against cardiac damage.
+16584858	8	18	mangiferin	ChemicalEntity	C013592
+16584858	72	85	isoproterenol	ChemicalEntity	D007545
+16584858	94	115	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+16584858	119	123	rats	OrganismTaxon	10116
+16584858	177	187	mangiferin	ChemicalEntity	C013592
+16584858	191	201	polyphenol	ChemicalEntity	D059808
+16584858	207	228	Mangifera indica Linn	OrganismTaxon	29780
+16584858	250	263	isoproterenol	ChemicalEntity	D007545
+16584858	265	269	ISPH	ChemicalEntity	D007545
+16584858	279	300	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+16584858	302	304	MI	DiseaseOrPhenotypicFeature	D009203
+16584858	309	313	rats	OrganismTaxon	10116
+16584858	377	381	ISPH	ChemicalEntity	D007545
+16584858	424	428	rats	OrganismTaxon	10116
+16584858	459	476	myocardial damage	DiseaseOrPhenotypicFeature	D009202
+16584858	480	483	rat	OrganismTaxon	10116
+16584858	547	568	lactate dehydrogenase	GeneOrGeneProduct	24533
+16584858	570	573	LDH	GeneOrGeneProduct	24533
+16584858	579	612	creatine phosphokinase isoenzymes	GeneOrGeneProduct	24264
+16584858	614	619	CK-MB	GeneOrGeneProduct	24264
+16584858	632	641	uric acid	ChemicalEntity	D014527
+16584858	667	671	iron	ChemicalEntity	D007501
+16584858	713	723	mangiferin	ChemicalEntity	C013592
+16584858	740	770	triphenyl tetrazolium chloride	ChemicalEntity	C009591
+16584858	772	775	TTC	ChemicalEntity	C009591
+16584858	831	850	ischemic myocardium	DiseaseOrPhenotypicFeature	D017202
+16584858	897	917	superoxide dismutase	GeneOrGeneProduct	24786
+16584858	919	927	catalase	GeneOrGeneProduct	24248
+16584858	929	951	glutathione peroxidase	GeneOrGeneProduct	24404
+16584858	953	976	glutathione transferase	GeneOrGeneProduct	24421
+16584858	981	1002	glutathione reductase	GeneOrGeneProduct	116686
+16584858	1048	1062	cerruloplasmin	GeneOrGeneProduct	1356
+16584858	1064	1073	Vitamin C	ChemicalEntity	D001205
+16584858	1075	1084	Vitamin E	ChemicalEntity	D014810
+16584858	1089	1100	glutathione	ChemicalEntity	D005978
+16584858	1124	1126	MI	DiseaseOrPhenotypicFeature	D009203
+16584858	1127	1131	rats	OrganismTaxon	10116
+16584858	1156	1166	mangiferin	ChemicalEntity	C013592
+16584858	1211	1230	dimethyl sulphoxide	ChemicalEntity	D004121
+16584858	1271	1273	MI	DiseaseOrPhenotypicFeature	D009203
+16584858	1274	1278	rats	OrganismTaxon	10116
+16584858	1466	1476	mangiferin	ChemicalEntity	C013592
+16584858	1507	1511	ISPH	ChemicalEntity	D007545
+16584858	1520	1522	MI	DiseaseOrPhenotypicFeature	D009203
+16584858	1523	1527	rats	OrganismTaxon	10116
+16584858	1573	1583	mangiferin	ChemicalEntity	C013592
+16584858	1619	1623	ISPH	ChemicalEntity	D007545
+16584858	1632	1634	MI	DiseaseOrPhenotypicFeature	D009203
+16584858	1720	1734	cardiac damage	DiseaseOrPhenotypicFeature	D006331
+16584858	Association	D004121	1356	Novel
+16584858	Association	D004121	116686	Novel
+16584858	Association	D004121	24786	Novel
+16584858	Association	D004121	24421	Novel
+16584858	Association	D004121	24404	Novel
+16584858	Association	D004121	D005978	Novel
+16584858	Association	D004121	D014810	Novel
+16584858	Association	D004121	D001205	Novel
+16584858	Association	D004121	24248	Novel
+16584858	Negative_Correlation	C013592	D006331	Novel
+16584858	Association	C013592	1356	Novel
+16584858	Association	C013592	116686	Novel
+16584858	Association	C013592	24786	Novel
+16584858	Association	C013592	24421	Novel
+16584858	Association	C013592	24404	Novel
+16584858	Association	C013592	D005978	Novel
+16584858	Association	C013592	D014810	Novel
+16584858	Association	C013592	D001205	Novel
+16584858	Association	C013592	24248	Novel
+16584858	Association	C013592	D017202	No
+16584858	Negative_Correlation	C013592	D009203	Novel
+16584858	Negative_Correlation	C013592	D007545	Novel
+16584858	Association	D009202	24264	Novel
+16584858	Association	D009202	24533	Novel
+16584858	Association	D009202	D007501	Novel
+16584858	Association	D009202	D014527	Novel
+16584858	Association	D009203	1356	Novel
+16584858	Association	D009203	116686	Novel
+16584858	Association	D009203	24786	Novel
+16584858	Association	D009203	24421	Novel
+16584858	Association	D009203	24404	Novel
+16584858	Association	D009203	D005978	Novel
+16584858	Association	D009203	D014810	Novel
+16584858	Association	D009203	D001205	Novel
+16584858	Association	D009203	24248	Novel
+16584858	Positive_Correlation	D007545	24264	Novel
+16584858	Positive_Correlation	D007545	24533	Novel
+16584858	Association	D007545	D007501	Novel
+16584858	Positive_Correlation	D007545	D014527	Novel
+16584858	Positive_Correlation	D007545	D009202	No
+16584858	Positive_Correlation	D007545	D009203	No

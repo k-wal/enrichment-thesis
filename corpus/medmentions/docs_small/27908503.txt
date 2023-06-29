@@ -1,0 +1,52 @@
+27908503|t|Cobalt-60 Machines and Medical Linear Accelerators: Competing Technologies for External Beam Radiotherapy
+27908503|a|Medical linear accelerators (linacs) and cobalt-60 machines are both mature technologies for external beam radiotherapy. A comparison is made between these two technologies in terms of infrastructure and maintenance, dosimetry, shielding requirements, staffing, costs, security, patient throughput and clinical use. Infrastructure and maintenance are more demanding for linacs due to the complex electric componentry. In dosimetry, a higher beam energy, modulated dose rate and smaller focal spot size mean that it is easier to create an optimised treatment with a linac for conformal dose coverage of the tumour while sparing healthy organs at risk. In shielding, the requirements for a concrete bunker are similar for cobalt-60 machines and linacs but extra shielding and protection from neutrons are required for linacs. Staffing levels can be higher for linacs and more staff training is required for linacs. Life cycle costs are higher for linacs, especially multi-energy linacs. Security is more complex for cobalt-60 machines because of the high activity radioactive source. Patient throughput can be affected by source decay for cobalt-60 machines but poor maintenance and breakdowns can severely affect patient throughput for linacs. In clinical use, more complex treatment techniques are easier to achieve with linacs, and the availability of electron beams on high - energy linacs can be useful for certain treatments. In summary, there is no simple answer to the question of the choice of either cobalt-60 machines or linacs for radiotherapy in low- and middle-income countries. In fact a radiotherapy department with a combination of technologies, including orthovoltage X-ray units, may be an option. Local needs, conditions and resources will have to be factored into any decision on technology taking into account the characteristics of both forms of teletherapy, with the primary goal being the sustainability of the radiotherapy service over the useful lifetime of the equipment.
+27908503	0	18	Cobalt-60 Machines	T074	UMLS:C0025080
+27908503	23	50	Medical Linear Accelerators	T074	UMLS:C0023730
+27908503	79	105	External Beam Radiotherapy	T058	UMLS:C1517033
+27908503	106	133	Medical linear accelerators	T074	UMLS:C0023730
+27908503	135	141	linacs	T074	UMLS:C0023730
+27908503	147	165	cobalt-60 machines	T074	UMLS:C0025080
+27908503	199	225	external beam radiotherapy	T058	UMLS:C1517033
+27908503	291	305	infrastructure	T170	UMLS:C1514880
+27908503	323	332	dosimetry	T058	UMLS:C0034603
+27908503	334	343	shielding	T033	UMLS:C0243095
+27908503	422	436	Infrastructure	T170	UMLS:C1514880
+27908503	476	482	linacs	T074	UMLS:C0023730
+27908503	527	536	dosimetry	T058	UMLS:C0034603
+27908503	560	569	modulated	T082	UMLS:C0443264
+27908503	624	630	easier	T033	UMLS:C0332219
+27908503	654	663	treatment	T058	UMLS:C0087111
+27908503	671	676	linac	T074	UMLS:C0023730
+27908503	712	718	tumour	T038	UMLS:C0027651
+27908503	733	747	healthy organs	T017	UMLS:C0178784
+27908503	760	769	shielding	T033	UMLS:C0243095
+27908503	826	844	cobalt-60 machines	T074	UMLS:C0025080
+27908503	849	855	linacs	T074	UMLS:C0023730
+27908503	866	875	shielding	T033	UMLS:C0243095
+27908503	922	928	linacs	T074	UMLS:C0023730
+27908503	964	970	linacs	T074	UMLS:C0023730
+27908503	1011	1017	linacs	T074	UMLS:C0023730
+27908503	1051	1057	linacs	T074	UMLS:C0023730
+27908503	1070	1089	multi-energy linacs	T074	UMLS:C0023730
+27908503	1120	1138	cobalt-60 machines	T074	UMLS:C0025080
+27908503	1168	1186	radioactive source	T103	UMLS:C0182598
+27908503	1226	1232	source	T033	UMLS:C0449416
+27908503	1243	1261	cobalt-60 machines	T074	UMLS:C0025080
+27908503	1341	1347	linacs	T074	UMLS:C0023730
+27908503	1379	1388	treatment	T058	UMLS:C0087111
+27908503	1404	1410	easier	T033	UMLS:C0332219
+27908503	1427	1433	linacs	T074	UMLS:C0023730
+27908503	1491	1497	linacs	T074	UMLS:C0023730
+27908503	1524	1534	treatments	T058	UMLS:C0087111
+27908503	1614	1632	cobalt-60 machines	T074	UMLS:C0025080
+27908503	1636	1642	linacs	T074	UMLS:C0023730
+27908503	1647	1659	radiotherapy	T058	UMLS:C1522449
+27908503	1663	1667	low-	T033	UMLS:C1331016
+27908503	1686	1695	countries	T082	UMLS:C0454664
+27908503	1707	1730	radiotherapy department	T092	UMLS:C0587444
+27908503	1777	1801	orthovoltage X-ray units	T092	UMLS:C1704729
+27908503	1821	1826	Local	T082	UMLS:C0205276
+27908503	1893	1901	decision	T038	UMLS:C0679006
+27908503	1973	1984	teletherapy	T058	UMLS:C0419095
+27908503	2003	2007	goal	T170	UMLS:C0018017
+27908503	2040	2060	radiotherapy service	T092	UMLS:C0587559

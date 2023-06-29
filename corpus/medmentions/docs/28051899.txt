@@ -1,0 +1,98 @@
+28051899|t|Serious Games for Health: The Potential of Metadata
+28051899|a|Numerous serious games and health games exist, either as commercial products (typically with a focus on entertaining a broad user group) or smaller games and game prototypes, often resulting from research projects (typically tailored to a smaller user group with a specific health characteristic). A major drawback of existing health games is that they are not very well described and attributed with (machine -readable, quantitative, and qualitative) metadata such as the characterizing goal of the game, the target user group, or expected health effects well proven in scientific studies. This makes it difficult or even impossible for end users to find and select the most appropriate game for a specific situation (e.g., health needs). Therefore, the aim of this article was to motivate the need and potential / benefit of metadata for the description and retrieval of health games and to describe a descriptive model for the qualitative description of games for health. It was not the aim of the article to describe a stable, running system (portal) for health games. This will be addressed in future work. Building on previous work toward a metadata format for serious games, a descriptive model for the formal description of games for health is introduced. For the conceptualization of this model, classification schemata of different existing health game repositories are considered. The classification schema consists of three levels: a core set of mandatory descriptive fields relevant for all games for health application areas, a detailed level with more comprehensive, optional information about the games, and so-called extension as level three with specific descriptive elements relevant for dedicated health games application areas, for example, cardio training. A metadata format provides a technical framework to describe, find, and select appropriate health games matching the needs of the end user. Future steps to improve, apply, and promote the metadata format in the health games market are discussed.
+28051899	8	13	Games	T056	C0150593
+28051899	18	24	Health	T078	C0018684
+28051899	30	39	Potential	T080	C3245505
+28051899	43	51	Metadata	T170	C1708992
+28051899	69	74	games	T056	C0150593
+28051899	79	85	health	T078	C0018684
+28051899	86	91	games	T056	C0150593
+28051899	109	128	commercial products	T073	C1547887
+28051899	177	187	user group	T098	C1705429
+28051899	200	205	games	T056	C0150593
+28051899	210	214	game	T056	C0150593
+28051899	248	265	research projects	T062	C0700032
+28051899	299	309	user group	T098	C1705429
+28051899	326	332	health	T078	C0018684
+28051899	333	347	characteristic	T080	C1521970
+28051899	379	385	health	T078	C0018684
+28051899	386	391	games	T056	C0150593
+28051899	454	461	machine	T073	C0336779
+28051899	473	485	quantitative	T081	C0392762
+28051899	491	502	qualitative	T080	C0205556
+28051899	504	512	metadata	T170	C1708992
+28051899	525	539	characterizing	T052	C1880022
+28051899	540	544	goal	T170	C0018017
+28051899	552	556	game	T056	C0150593
+28051899	562	568	target	T169	C1521840
+28051899	569	579	user group	T098	C1705429
+28051899	593	599	health	T078	C0018684
+28051899	600	607	effects	T080	C1280500
+28051899	623	641	scientific studies	T059	C0947630
+28051899	690	699	end users	T098	C1706077
+28051899	740	744	game	T056	C0150593
+28051899	760	769	situation	T080	C0018759
+28051899	777	783	health	T078	C0018684
+28051899	784	789	needs	T080	C0027552
+28051899	807	810	aim	T078	C1947946
+28051899	819	826	article	T170	C1706852
+28051899	847	851	need	T080	C0027552
+28051899	856	865	potential	T080	C3245505
+28051899	868	875	benefit	T081	C0814225
+28051899	879	887	metadata	T170	C1708992
+28051899	896	907	description	T170	C0678257
+28051899	925	931	health	T078	C0018684
+28051899	932	937	games	T056	C0150593
+28051899	968	973	model	T170	C3161035
+28051899	982	993	qualitative	T080	C0205556
+28051899	994	1005	description	T170	C0678257
+28051899	1009	1014	games	T056	C0150593
+28051899	1019	1025	health	T078	C0018684
+28051899	1042	1045	aim	T078	C1947946
+28051899	1053	1060	article	T170	C1706852
+28051899	1111	1117	health	T078	C0018684
+28051899	1118	1123	games	T056	C0150593
+28051899	1158	1162	work	T057	C0043227
+28051899	1185	1189	work	T057	C0043227
+28051899	1199	1207	metadata	T170	C1708992
+28051899	1208	1214	format	T170	C1301627
+28051899	1227	1232	games	T056	C0150593
+28051899	1248	1253	model	T170	C3161035
+28051899	1269	1280	description	T170	C0678257
+28051899	1284	1289	games	T056	C0150593
+28051899	1294	1300	health	T078	C0018684
+28051899	1324	1341	conceptualization	T077	C1706427
+28051899	1350	1355	model	T170	C3161035
+28051899	1357	1371	classification	T185	C0008902
+28051899	1372	1380	schemata	T170	C0871287
+28051899	1403	1409	health	T078	C0018684
+28051899	1410	1414	game	T056	C0150593
+28051899	1415	1427	repositories	T073	C3847505
+28051899	1448	1462	classification	T185	C0008902
+28051899	1463	1469	schema	T170	C0871287
+28051899	1488	1494	levels	T080	C0441889
+28051899	1498	1502	core	T082	C0444669
+28051899	1556	1561	games	T056	C0150593
+28051899	1566	1572	health	T078	C0018684
+28051899	1573	1584	application	T169	C4048755
+28051899	1603	1608	level	T080	C0441889
+28051899	1619	1632	comprehensive	T080	C1880156
+28051899	1665	1670	games	T056	C0150593
+28051899	1699	1704	level	T080	C0441889
+28051899	1769	1775	health	T078	C0018684
+28051899	1776	1781	games	T056	C0150593
+28051899	1782	1793	application	T169	C4048755
+28051899	1814	1820	cardio	T023	C0018787
+28051899	1821	1829	training	T065	C0220931
+28051899	1833	1841	metadata	T170	C1708992
+28051899	1842	1848	format	T170	C1301627
+28051899	1860	1869	technical	T169	C0449851
+28051899	1922	1928	health	T078	C0018684
+28051899	1929	1934	games	T056	C0150593
+28051899	1948	1953	needs	T080	C0027552
+28051899	1965	1969	user	T098	C1705429
+28051899	2019	2027	metadata	T170	C1708992
+28051899	2028	2034	format	T170	C1301627
+28051899	2042	2048	health	T078	C0018684
+28051899	2049	2054	games	T056	C0150593
+28051899	2055	2061	market	T169	C0525052

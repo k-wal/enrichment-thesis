@@ -1,0 +1,53 @@
+23872883|t|Biochemical effects of Solidago virgaurea extract on experimental cardiotoxicity.
+23872883|a|Cardiovascular diseases (CVDs) are the major health problem of advanced as well as developing countries of the world. The aim of the present study was to investigate the protective effect of the Solidago virgaurea extract on isoproterenol-induced cardiotoxicity in rats. The subcutaneous injection of isoproterenol (30 mg/kg) into rats twice at an interval of 24 h, for two consecutive days, led to a significant increase in serum lactate dehydrogenase, creatine phosphokinase, alanine transaminase, aspartate transaminase, and angiotensin-converting enzyme activities, total cholesterol, triglycerides, free serum fatty acid, cardiac tissue malondialdehyde (MDA), and nitric oxide levels and a significant decrease in levels of glutathione and superoxide dismutase in cardiac tissue as compared to the normal control group (P < 0.05). Pretreatment with S. virgaurea extract for 5 weeks at a dose of 250 mg/kg followed by isoproterenol injection significantly prevented the observed alterations. Captopril (50 mg/kg/day, given orally), an inhibitor of angiotensin-converting enzyme used as a standard cardioprotective drug, was used as a positive control in this study. The data of the present study suggest that S. virgaurea extract exerts its protective effect by decreasing MDA level and increasing the antioxidant status in isoproterenol-treated rats. The study emphasizes the beneficial action of S. virgaurea extract as a cardioprotective agent.
+23872883	23	49	Solidago virgaurea extract	ChemicalEntity	D010936
+23872883	66	80	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+23872883	82	105	Cardiovascular diseases	DiseaseOrPhenotypicFeature	D002318
+23872883	107	111	CVDs	DiseaseOrPhenotypicFeature	D002318
+23872883	277	303	Solidago virgaurea extract	ChemicalEntity	D010936
+23872883	307	320	isoproterenol	ChemicalEntity	D007545
+23872883	329	343	cardiotoxicity	DiseaseOrPhenotypicFeature	D066126
+23872883	347	351	rats	OrganismTaxon	10116
+23872883	383	396	isoproterenol	ChemicalEntity	D007545
+23872883	413	417	rats	OrganismTaxon	10116
+23872883	513	534	lactate dehydrogenase	GeneOrGeneProduct	24533
+23872883	536	558	creatine phosphokinase	GeneOrGeneProduct	24264
+23872883	560	580	alanine transaminase	GeneOrGeneProduct	81670
+23872883	582	604	aspartate transaminase	GeneOrGeneProduct	25721
+23872883	610	639	angiotensin-converting enzyme	GeneOrGeneProduct	24310
+23872883	658	669	cholesterol	ChemicalEntity	D002784
+23872883	671	684	triglycerides	ChemicalEntity	D014280
+23872883	697	707	fatty acid	ChemicalEntity	D005227
+23872883	724	739	malondialdehyde	ChemicalEntity	D008315
+23872883	741	744	MDA	ChemicalEntity	D008315
+23872883	751	763	nitric oxide	ChemicalEntity	D009569
+23872883	811	822	glutathione	ChemicalEntity	D005978
+23872883	827	847	superoxide dismutase	GeneOrGeneProduct	24786
+23872883	936	956	S. virgaurea extract	ChemicalEntity	D010936
+23872883	1004	1017	isoproterenol	ChemicalEntity	D007545
+23872883	1078	1087	Captopril	ChemicalEntity	D002216
+23872883	1134	1163	angiotensin-converting enzyme	GeneOrGeneProduct	24310
+23872883	1183	1204	cardioprotective drug	ChemicalEntity	D002316
+23872883	1295	1315	S. virgaurea extract	ChemicalEntity	D010936
+23872883	1359	1362	MDA	ChemicalEntity	D008315
+23872883	1410	1423	isoproterenol	ChemicalEntity	D007545
+23872883	1432	1436	rats	OrganismTaxon	10116
+23872883	1484	1504	S. virgaurea extract	ChemicalEntity	D010936
+23872883	1510	1532	cardioprotective agent	ChemicalEntity	D002316
+23872883	Negative_Correlation	D002216	24310	No
+23872883	Negative_Correlation	D007545	24786	No
+23872883	Positive_Correlation	D007545	24533	No
+23872883	Positive_Correlation	D007545	24264	No
+23872883	Positive_Correlation	D007545	81670	No
+23872883	Positive_Correlation	D007545	25721	No
+23872883	Positive_Correlation	D007545	24310	No
+23872883	Negative_Correlation	D007545	D005978	No
+23872883	Positive_Correlation	D007545	D009569	No
+23872883	Positive_Correlation	D007545	D008315	No
+23872883	Positive_Correlation	D007545	D005227	No
+23872883	Positive_Correlation	D007545	D014280	No
+23872883	Positive_Correlation	D007545	D002784	No
+23872883	Positive_Correlation	D007545	D066126	No
+23872883	Negative_Correlation	D010936	D008315	Novel
+23872883	Negative_Correlation	D010936	D007545	Novel
+23872883	Negative_Correlation	D010936	D066126	Novel

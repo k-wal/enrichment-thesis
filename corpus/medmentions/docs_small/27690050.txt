@@ -1,0 +1,16 @@
+27690050|t|Ontology -Based High - Level Context Inference for Human Behavior Identification
+27690050|a|Recent years have witnessed a huge progress in the automatic identification of individual primitives of human behavior, such as activities or locations. However, the complex nature of human behavior demands more abstract contextual information for its analysis. This work presents an ontology -based method that combines low - level primitives of behavior, namely activity, locations and emotions, unprecedented to date, to intelligently derive more meaningful high - level context information. The paper contributes with a new open ontology describing both low - level and high - level context information, as well as their relationships. Furthermore, a framework building on the developed ontology and reasoning models is presented and evaluated. The proposed method proves to be robust while identifying high - level contexts even in the event of erroneously - detected low -l evel context s. Despite reasonable inference times being obtained for a relevant set of users and instances, additional work is required to scale to long-term scenarios with a large number of users.
+27690050	37	46	Inference	T038	UMLS:C0679201
+27690050	160	170	individual	T098	UMLS:C0237401
+27690050	171	181	primitives	T170	UMLS:C3645627
+27690050	223	232	locations	T082	UMLS:C0450429
+27690050	381	387	method	T170	UMLS:C0025663
+27690050	414	424	primitives	T170	UMLS:C3645627
+27690050	455	464	locations	T082	UMLS:C0450429
+27690050	469	477	emotions	T038	UMLS:C0013987
+27690050	795	801	models	T170	UMLS:C3161035
+27690050	945	953	detected	T033	UMLS:C0442726
+27690050	996	1005	inference	T038	UMLS:C0679201
+27690050	1042	1045	set	T038	UMLS:C0036849
+27690050	1049	1054	users	T098	UMLS:C1706077
+27690050	1153	1158	users	T098	UMLS:C1706077

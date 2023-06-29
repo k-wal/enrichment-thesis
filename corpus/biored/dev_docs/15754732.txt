@@ -1,0 +1,65 @@
+15754732|t|Novel somatic MEN1 gene alterations in sporadic primary hyperparathyroidism and correlation with clinical characteristics.
+15754732|a|Primary hyperparathyroidism (pHPT) is a common endocrine disease that in more than 95% of cases is sporadic and only in some cases is caused by inherited disorders, isolated or as part of multiple endocrine neoplasia (MEN1 and 2). Somatic mutations of MEN1 gene have also been described in sporadic parathyroid tumors. In our study, we examined the presence of alterations in MEN1 gene in a series of 39 patients who had undergone surgery for sporadic pHPT (35 with parathyroid adenoma or hyperplasia, 4 with a carcinoma). A genotype-phenotype correlation was also analysed. After DNA extraction from paraffin-embedded tissues, we amplified by PCR and sequenced the exons 2-10 of the MEN1 gene. Somatic MEN1 mutations were detected in 6 of the 35 patients with a benign parathyroid lesion examined (17.1%), whereas no alterations were found in the carcinomas. Four novel MEN1 gene mutations were identified as follows: one frameshift mutation (222insT, exon 2), one frameshift deletion (912delTA, exon 5), one in-frame deletion (835del18, exon 4) and one missense mutation (P291A, exon 6). In addition, one missense mutation (L89R, exon 2) and one nonsense mutation (Q536X, exon 10) were previously reported. Moreover, two polymorphisms were also found: one allele carried a R171Q polymorphism (1/39 tumors), while a D418D polymorphism (GAC/GAT) was found in 15 and 8 tumors in hetero (CT) and homozygosity (TT), respectively. In no case (mutations and/or polymorphisms) did we find a genotype-phenotype correlation. In conclusion, our data demonstrate the presence of somatic alterations of the MEN1 tumor suppressor gene in about one fifth of benign sporadic parathyroid tumors. The absence of a genotype-phenotype correlation, however, suggests the involvement of other genetic/epigenetic factors for the full expression of the disease.
+15754732	14	18	MEN1	GeneOrGeneProduct	4221
+15754732	48	75	primary hyperparathyroidism	DiseaseOrPhenotypicFeature	D049950
+15754732	123	150	Primary hyperparathyroidism	DiseaseOrPhenotypicFeature	D049950
+15754732	152	156	pHPT	DiseaseOrPhenotypicFeature	D049950
+15754732	170	187	endocrine disease	DiseaseOrPhenotypicFeature	D004700
+15754732	267	286	inherited disorders	DiseaseOrPhenotypicFeature	D030342
+15754732	311	339	multiple endocrine neoplasia	DiseaseOrPhenotypicFeature	D009377
+15754732	341	351	MEN1 and 2	DiseaseOrPhenotypicFeature	D018761,D018813
+15754732	375	379	MEN1	GeneOrGeneProduct	4221
+15754732	422	440	parathyroid tumors	DiseaseOrPhenotypicFeature	D010282
+15754732	499	503	MEN1	GeneOrGeneProduct	4221
+15754732	527	535	patients	OrganismTaxon	9606
+15754732	575	579	pHPT	DiseaseOrPhenotypicFeature	D049950
+15754732	589	623	parathyroid adenoma or hyperplasia	DiseaseOrPhenotypicFeature	D010282
+15754732	634	643	carcinoma	DiseaseOrPhenotypicFeature	D002277
+15754732	724	732	paraffin	ChemicalEntity	D010232
+15754732	807	811	MEN1	GeneOrGeneProduct	4221
+15754732	826	830	MEN1	GeneOrGeneProduct	4221
+15754732	870	878	patients	OrganismTaxon	9606
+15754732	886	911	benign parathyroid lesion	DiseaseOrPhenotypicFeature	D010279
+15754732	971	981	carcinomas	DiseaseOrPhenotypicFeature	D002277
+15754732	994	998	MEN1	GeneOrGeneProduct	4221
+15754732	1067	1074	222insT	SequenceVariant	c|INS|222|T
+15754732	1110	1118	912delTA	SequenceVariant	c|DEL|912|TA
+15754732	1152	1160	835del18	SequenceVariant	c|DEL|835|18
+15754732	1197	1202	P291A	SequenceVariant	p|SUB|P|291|A
+15754732	1249	1253	L89R	SequenceVariant	p|SUB|L|89|R
+15754732	1290	1295	Q536X	SequenceVariant	p|SUB|Q|536|X
+15754732	1398	1403	R171Q	SequenceVariant	rs607969
+15754732	1423	1429	tumors	DiseaseOrPhenotypicFeature	D009369
+15754732	1440	1445	D418D	SequenceVariant	rs2071313
+15754732	1460	1467	GAC/GAT	SequenceVariant	rs2071313
+15754732	1491	1497	tumors	DiseaseOrPhenotypicFeature	D009369
+15754732	1719	1723	MEN1	GeneOrGeneProduct	4221
+15754732	1724	1729	tumor	DiseaseOrPhenotypicFeature	D009369
+15754732	1784	1802	parathyroid tumors	DiseaseOrPhenotypicFeature	D010282
+15754732	Association	rs2071313	D009369	Novel
+15754732	Association	rs607969	D009369	Novel
+15754732	Association	p|SUB|Q|536|X	D010282	No
+15754732	Association	p|SUB|Q|536|X	D010279	No
+15754732	Association	p|SUB|L|89|R	D010282	No
+15754732	Association	p|SUB|L|89|R	D010279	No
+15754732	Association	p|SUB|P|291|A	D010282	Novel
+15754732	Association	p|SUB|P|291|A	D010279	Novel
+15754732	Association	c|DEL|835|18	D010282	Novel
+15754732	Association	c|DEL|835|18	D010279	Novel
+15754732	Association	c|DEL|912|TA	D010282	Novel
+15754732	Association	c|DEL|912|TA	D010279	Novel
+15754732	Association	c|INS|222|T	D010282	Novel
+15754732	Association	c|INS|222|T	D010279	Novel
+15754732	Association	D002277	4221	No
+15754732	Association	D049950	rs2071313	Novel
+15754732	Association	D049950	rs607969	Novel
+15754732	Association	D049950	p|SUB|Q|536|X	No
+15754732	Association	D049950	p|SUB|L|89|R	No
+15754732	Association	D049950	p|SUB|P|291|A	Novel
+15754732	Association	D049950	c|DEL|835|18	Novel
+15754732	Association	D049950	c|DEL|912|TA	Novel
+15754732	Association	D049950	c|INS|222|T	Novel
+15754732	Association	4221	D009369	No
+15754732	Association	4221	D010282	Novel
+15754732	Association	4221	D010279	Novel
+15754732	Association	4221	D049950	Novel

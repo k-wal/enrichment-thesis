@@ -1,0 +1,41 @@
+15991002|t|Nicotine antagonizes caffeine- but not pentylenetetrazole-induced anxiogenic effect in mice.
+15991002|a|RATIONALE: Nicotine and caffeine are widely consumed licit psychoactive drugs worldwide. Epidemiological studies showed that they were generally used concurrently. Although some studies in experimental animals indicate clear pharmacological interactions between them, no studies have shown a specific interaction on anxiety responses. OBJECTIVES: The present study investigates the effects of nicotine on anxiety induced by caffeine and another anxiogenic drug, pentylenetetrazole, in mice. The elevated plus-maze (EPM) test was used to evaluate the effects of drugs on anxiety. METHODS: Adult male Swiss Webster mice (25-32 g) were given nicotine (0.05-0.25 mg/kg s.c.) or saline 10 min before caffeine (70 mg/kg i.p.) or pentylenetetrazole (15 and 30 mg/kg i.p.) injections. After 15 min, mice were evaluated for their open- and closed-arm time and entries on the EPM for a 10-min session. Locomotor activity was recorded for individual groups by using the same treatment protocol with the EPM test. RESULTS: Nicotine (0.05-0.25 mg/kg) itself did not produce any significant effect in the EPM test, whereas caffeine (70 mg/kg) and pentylenetetrazole (30 mg/kg) produced an anxiogenic effect, apparent with decreases in open-arm time and entry. Nicotine (0.25 mg/kg) pretreatment blocked the caffeine- but not pentylenetetrazole-induced anxiety. Administration of each drug and their combinations did not produce any effect on locomotor activity. CONCLUSIONS: Our results suggest that the antagonistic effect of nicotine on caffeine-induced anxiety is specific to caffeine, instead of a non-specific anxiolytic effect. Thus, it may extend the current findings on the interaction between nicotine and caffeine.
+15991002	0	8	Nicotine	ChemicalEntity	D009538
+15991002	21	29	caffeine	ChemicalEntity	D002110
+15991002	39	57	pentylenetetrazole	ChemicalEntity	D010433
+15991002	66	83	anxiogenic effect	DiseaseOrPhenotypicFeature	D001008
+15991002	87	91	mice	OrganismTaxon	10090
+15991002	104	112	Nicotine	ChemicalEntity	D009538
+15991002	117	125	caffeine	ChemicalEntity	D002110
+15991002	152	170	psychoactive drugs	ChemicalEntity	D011619
+15991002	409	416	anxiety	DiseaseOrPhenotypicFeature	D001008
+15991002	486	494	nicotine	ChemicalEntity	D009538
+15991002	498	505	anxiety	DiseaseOrPhenotypicFeature	D001008
+15991002	517	525	caffeine	ChemicalEntity	D002110
+15991002	538	553	anxiogenic drug	ChemicalEntity	D014151
+15991002	555	573	pentylenetetrazole	ChemicalEntity	D010433
+15991002	578	582	mice	OrganismTaxon	10090
+15991002	663	670	anxiety	DiseaseOrPhenotypicFeature	D001008
+15991002	706	710	mice	OrganismTaxon	10090
+15991002	732	740	nicotine	ChemicalEntity	D009538
+15991002	788	796	caffeine	ChemicalEntity	D002110
+15991002	816	834	pentylenetetrazole	ChemicalEntity	D010433
+15991002	884	888	mice	OrganismTaxon	10090
+15991002	1104	1112	Nicotine	ChemicalEntity	D009538
+15991002	1202	1210	caffeine	ChemicalEntity	D002110
+15991002	1226	1244	pentylenetetrazole	ChemicalEntity	D010433
+15991002	1268	1285	anxiogenic effect	DiseaseOrPhenotypicFeature	D001008
+15991002	1339	1347	Nicotine	ChemicalEntity	D009538
+15991002	1386	1394	caffeine	ChemicalEntity	D002110
+15991002	1404	1422	pentylenetetrazole	ChemicalEntity	D010433
+15991002	1431	1438	anxiety	DiseaseOrPhenotypicFeature	D001008
+15991002	1606	1614	nicotine	ChemicalEntity	D009538
+15991002	1618	1626	caffeine	ChemicalEntity	D002110
+15991002	1635	1642	anxiety	DiseaseOrPhenotypicFeature	D001008
+15991002	1658	1666	caffeine	ChemicalEntity	D002110
+15991002	1781	1789	nicotine	ChemicalEntity	D009538
+15991002	1794	1802	caffeine	ChemicalEntity	D002110
+15991002	Positive_Correlation	D010433	D001008	No
+15991002	Positive_Correlation	D002110	D001008	No
+15991002	Negative_Correlation	D009538	D001008	Novel
+15991002	Negative_Correlation	D009538	D002110	Novel

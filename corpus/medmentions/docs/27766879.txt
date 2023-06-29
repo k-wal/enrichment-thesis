@@ -1,0 +1,49 @@
+27766879|t|Ensemble Linear Neighborhood Propagation for Predicting Subchloroplast Localization of Multi-Location Proteins
+27766879|a|In the postgenomic era, the number of unreviewed protein sequences is remarkably larger and grows tremendously faster than that of reviewed ones. However, existing methods for protein subchloroplast localization often ignore the information from these unlabeled proteins. This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins. Experimental results on a stringent benchmark dataset and a novel independent dataset suggest that LNP-Chlo performs at least 6% (absolute) better than state-of-the-art predictors. This paper also demonstrates that ensemble LNP significantly outperforms LNP based on individual features. For readers ' convenience, the online Web server LNP-Chlo is freely available at http://bioinfo.eie.polyu.edu.hk/LNPChloServer/.
+27766879	0	8	Ensemble	T080	C0205556
+27766879	9	40	Linear Neighborhood Propagation	T170	C0002045
+27766879	45	55	Predicting	T033	C0243095
+27766879	56	83	Subchloroplast Localization	T038	C3158176
+27766879	87	110	Multi-Location Proteins	T116,T123	C0033684
+27766879	118	133	postgenomic era	T079	C1254367
+27766879	149	159	unreviewed	T080	C0205556
+27766879	160	177	protein sequences	T087	C0002518
+27766879	242	250	reviewed	T080	C1709940
+27766879	266	274	existing	T077	C2987476
+27766879	275	282	methods	T170	C0025663
+27766879	287	294	protein	T116,T123	C0033684
+27766879	295	322	subchloroplast localization	T038	C3158176
+27766879	340	351	information	T078	C1533716
+27766879	363	381	unlabeled proteins	T116,T123	C0033684
+27766879	388	393	paper	T170	C1706852
+27766879	405	426	multi-label predictor	T078	C2698872
+27766879	436	444	ensemble	T080	C0205556
+27766879	445	476	linear neighborhood propagation	T170	C0002045
+27766879	478	481	LNP	T170	C0002045
+27766879	492	500	LNP-Chlo	T170	C0002045
+27766879	518	559	hybrid sequence-based feature information	T077	C1708038
+27766879	570	577	labeled	T116,T123	C0033684
+27766879	582	600	unlabeled proteins	T116,T123	C0033684
+27766879	605	615	predicting	T033	C0243095
+27766879	616	681	localization of both single- and multi-label chloroplast proteins	T043	C3156659
+27766879	683	703	Experimental results	T033	C2825142
+27766879	719	728	benchmark	T081	C0525063
+27766879	729	736	dataset	T170	C0150098
+27766879	743	748	novel	T080	C0205314
+27766879	749	760	independent	T078	C0085862
+27766879	761	768	dataset	T170	C0150098
+27766879	782	790	LNP-Chlo	T170	C0002045
+27766879	813	821	absolute	T080	C0205344
+27766879	835	851	state-of-the-art	T080	C0205556
+27766879	852	862	predictors	T078	C2698872
+27766879	869	874	paper	T170	C1706852
+27766879	898	906	ensemble	T080	C0205556
+27766879	907	910	LNP	T170	C0002045
+27766879	911	924	significantly	T078	C0750502
+27766879	937	940	LNP	T170	C0002045
+27766879	950	969	individual features	T080	C2348519
+27766879	975	982	readers	T098	C1257890
+27766879	985	996	convenience	T080	C3831015
+27766879	1002	1019	online Web server	T073,T170	C0029038
+27766879	1020	1028	LNP-Chlo	T170	C0002045
+27766879	1052	1098	http://bioinfo.eie.polyu.edu.hk/LNPChloServer/	T170	C1704666

@@ -1,0 +1,74 @@
+27488602|t|The value of transesophageal echocardiography for embolic strokes of undetermined source
+27488602|a|Our aim was to evaluate the diagnostic yield of transesophageal echocardiography (TEE) in consecutive patients with ischemic stroke (IS) fulfilling the diagnostic criteria of embolic strokes of undetermined source (ESUS). We prospectively evaluated consecutive patients with acute IS satisfying ESUS criteria who underwent in- hospital TEE examination in 3 tertiary care stroke centers during a 12-month period. We also performed a systematic review and meta-analysis estimating the cumulative effect of TEE findings on therapeutic management for secondary stroke prevention among different IS subgroups. We identified 61 patients with ESUS who underwent investigation with TEE (mean age 44 ± 12 years, 49% men, median NIH Stroke Scale score = 5 points [interquartile range: 3-8]). TEE revealed additional findings in 52% (95% confidence interval [CI]: 40%-65%) of the study population. TEE findings changed management (initiation of anticoagulation therapy, administration of IV antibiotic therapy, and patent foramen ovale closure) in 10 (16% [95% CI: 9%-28%]) patients. The pooled rate of reported anticoagulation therapy attributed to abnormal TEE findings among 3,562 acute IS patients included in the meta-analysis (12 studies) was 8.7% (95% CI: 7.3%-10.4%). In subgroup analysis, the rates of initiation of anticoagulation therapy on the basis of TEE investigation did not differ (p = 0.315) among patients with cryptogenic stroke (6.9% [95% CI: 4.9%-9.6%]), ESUS (8.1% [95% CI: 3.4%-18.1%]), and IS (9.4% [95% CI: 7.5%-11.8%]). Abnormal TEE findings may decisively affect the selection of appropriate therapeutic strategy in approximately 1 of 7 patients with ESUS.
+27488602	13	45	transesophageal echocardiography	T060	C0206054
+27488602	50	88	embolic strokes of undetermined source	T047	C3888970
+27488602	117	133	diagnostic yield	T060	C0011933
+27488602	137	169	transesophageal echocardiography	T060	C0206054
+27488602	171	174	TEE	T060	C0206054
+27488602	191	199	patients	T101	C0030705
+27488602	205	220	ischemic stroke	T047	C0948008
+27488602	222	224	IS	T047	C0948008
+27488602	241	260	diagnostic criteria	T170	C0679228
+27488602	264	302	embolic strokes of undetermined source	T047	C3888970
+27488602	304	308	ESUS	T047	C3888970
+27488602	350	358	patients	T101	C0030705
+27488602	370	372	IS	T047	C0948008
+27488602	384	388	ESUS	T047	C3888970
+27488602	416	424	hospital	T073,T093	C0019994
+27488602	425	440	TEE examination	T060	C0206054
+27488602	446	474	tertiary care stroke centers	T073,T093	C0587437
+27488602	475	499	during a 12-month period	T079	C1254367
+27488602	521	538	systematic review	T170	C1955832
+27488602	543	567	meta-analysis estimating	T062	C0920317
+27488602	593	596	TEE	T060	C0206054
+27488602	597	605	findings	T033	C0243095
+27488602	609	631	therapeutic management	T169	C0039798
+27488602	636	663	secondary stroke prevention	T061	C1277289
+27488602	680	682	IS	T047	C0948008
+27488602	711	719	patients	T101	C0030705
+27488602	725	729	ESUS	T047	C3888970
+27488602	734	757	underwent investigation	T058	C1261322
+27488602	763	766	TEE	T060	C0206054
+27488602	796	799	men	T098	C0025266
+27488602	808	830	NIH Stroke Scale score	T170	C4028214
+27488602	843	862	interquartile range	T081	C1711350
+27488602	871	874	TEE	T060	C0206054
+27488602	895	903	findings	T033	C0243095
+27488602	916	935	confidence interval	T081	C0009667
+27488602	937	939	CI	T081	C0009667
+27488602	958	974	study population	T098	C2348561
+27488602	976	979	TEE	T060	C0206054
+27488602	980	988	findings	T033	C0243095
+27488602	1009	1019	initiation	T169	C1704686
+27488602	1023	1046	anticoagulation therapy	T061	C0003281
+27488602	1048	1062	administration	T061	C1533734
+27488602	1066	1087	IV antibiotic therapy	T061	C0338237
+27488602	1093	1121	patent foramen ovale closure	T061	C0189967
+27488602	1139	1141	CI	T081	C0009667
+27488602	1152	1160	patients	T101	C0030705
+27488602	1166	1177	pooled rate	T081	C1521828
+27488602	1190	1213	anticoagulation therapy	T061	C0003281
+27488602	1228	1236	abnormal	T033	C0205161
+27488602	1237	1240	TEE	T060	C0206054
+27488602	1241	1249	findings	T033	C0243095
+27488602	1268	1270	IS	T047	C0948008
+27488602	1271	1279	patients	T101	C0030705
+27488602	1296	1309	meta-analysis	T062	C0920317
+27488602	1337	1339	CI	T081	C0009667
+27488602	1357	1374	subgroup analysis	T062	C0936012
+27488602	1389	1399	initiation	T169	C1704686
+27488602	1403	1426	anticoagulation therapy	T061	C0003281
+27488602	1443	1446	TEE	T060	C0206054
+27488602	1494	1502	patients	T101	C0030705
+27488602	1508	1526	cryptogenic stroke	T169	C0332240
+27488602	1538	1540	CI	T081	C0009667
+27488602	1555	1559	ESUS	T047	C3888970
+27488602	1571	1573	CI	T081	C0009667
+27488602	1593	1595	IS	T047	C0948008
+27488602	1607	1609	CI	T081	C0009667
+27488602	1634	1637	TEE	T060	C0206054
+27488602	1638	1646	findings	T033	C0243095
+27488602	1686	1697	appropriate	T080	C1548787
+27488602	1698	1718	therapeutic strategy	T061	C0087111
+27488602	1743	1751	patients	T101	C0030705
+27488602	1757	1761	ESUS	T047	C3888970

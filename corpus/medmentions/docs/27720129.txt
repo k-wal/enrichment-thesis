@@ -1,0 +1,96 @@
+27720129|t|Increased acute mortality with chemoradiotherapy for locally advanced head and neck cancer in patients ≥70 years
+27720129|a|Concurrent chemoradiotherapy (CRT) is the standard of care for many sites of locally advanced head and neck squamous cell carcinomas (LAHNC). However, on meta-analysis, the addition of chemotherapy did not improve survival for patients >70 years. We hypothesized that elderly patients treated with CRT would have increased toxicity without similar improvements in survival. A single-institution, IRB-approved retrospective study took place from 2005 to 2012 including 369 patients treated with CRT for LAHNC. Multivariate models for death at 3 months and death over time were developed using logistic regression and Cox modeling, respectively. Patients ≥70 years were treated less often with concurrent cisplatin dosed every 3 weeks (25.5% vs. 71.4%, respectively) and more often with weekly carboplatin (31.9% vs. 3.4%) than patients <70 years (n=322; p<0.001). Patients ≥70 years experienced increased toxicity during treatment with more frequently hospitalizations (36.2% vs. 21.1%; p=0.02) and a lower rate of PEG removal at last follow-up or death (77.1% vs. 92.9%; p=0.004). A higher proportion of patients ≥70 years died within 3 months (12.8% vs. 2.8%; p=0.001) following CRT. Patients ≥70 had an increased risk of death at 3 months following CRT (odds ratio 5.19, 95% CI 1.64-16.41; p=0.005) and worse survival over time (hazard ratio 2.30, 95% CI 1.34-3.93; p=0.002). Patients ≥70 years were more often treated with less toxic chemotherapy, yet experienced higher rates of hospitalization during treatment and increased rates of acute mortality following CRT. The efficacy of chemoradiotherapy for elderly patients should be evaluated in a prospective setting.
+27720129	0	9	Increased	T081	C0205217
+27720129	10	15	acute	T079	C0205178
+27720129	16	25	mortality	T081	C0205848
+27720129	31	48	chemoradiotherapy	T061	C0436307
+27720129	53	90	locally advanced head and neck cancer	T191	C0278996
+27720129	94	102	patients	T101	C0030705
+27720129	107	112	years	T079	C1510829
+27720129	113	141	Concurrent chemoradiotherapy	T061	C3178775
+27720129	143	146	CRT	T061	C3178775
+27720129	155	171	standard of care	T061	C2936643
+27720129	181	186	sites	T082	C0205145
+27720129	190	245	locally advanced head and neck squamous cell carcinomas	T191	C1168401
+27720129	247	252	LAHNC	T191	C1168401
+27720129	267	280	meta-analysis	T062	C0920317
+27720129	298	310	chemotherapy	T061	C3665472
+27720129	327	335	survival	T169	C0220921
+27720129	340	348	patients	T101	C0030705
+27720129	353	358	years	T079	C1510829
+27720129	381	388	elderly	T098	C0001792
+27720129	389	397	patients	T101	C0030705
+27720129	398	405	treated	T169	C1522326
+27720129	411	414	CRT	T061	C3178775
+27720129	426	435	increased	T081	C0205217
+27720129	436	444	toxicity	T037	C0600688
+27720129	461	473	improvements	T077	C2986411
+27720129	477	485	survival	T169	C0220921
+27720129	489	507	single-institution	T093	C2607850
+27720129	509	521	IRB-approved	T170	C2346499
+27720129	522	541	retrospective study	T062	C0035363
+27720129	585	593	patients	T101	C0030705
+27720129	594	601	treated	T169	C1522326
+27720129	607	610	CRT	T061	C3178775
+27720129	615	620	LAHNC	T191	C1168401
+27720129	622	641	Multivariate models	T081,T170	C0026348
+27720129	646	651	death	T033	C1306577
+27720129	657	663	months	T079	C0439231
+27720129	668	673	death	T033	C1306577
+27720129	679	683	time	T079	C0040223
+27720129	705	724	logistic regression	T062	C0206031
+27720129	729	741	Cox modeling	T062	C0870071
+27720129	757	765	Patients	T101	C0030705
+27720129	770	775	years	T079	C1510829
+27720129	781	788	treated	T169	C1522326
+27720129	805	815	concurrent	T079	C0205420
+27720129	816	825	cisplatin	T121,T197	C0008838
+27720129	840	845	weeks	T079	C0439230
+27720129	898	904	weekly	T079	C0439230
+27720129	905	916	carboplatin	T109,T121	C0079083
+27720129	939	947	patients	T101	C0030705
+27720129	952	957	years	T079	C1510829
+27720129	976	984	Patients	T101	C0030705
+27720129	989	994	years	T079	C1510829
+27720129	1007	1016	increased	T081	C0205217
+27720129	1017	1025	toxicity	T037	C0600688
+27720129	1033	1042	treatment	T061	C0087111
+27720129	1064	1080	hospitalizations	T058	C0019993
+27720129	1127	1138	PEG removal	T061	C0087111
+27720129	1147	1156	follow-up	T058	C1522577
+27720129	1160	1165	death	T033	C1306577
+27720129	1203	1213	proportion	T081	C1709707
+27720129	1217	1225	patients	T101	C0030705
+27720129	1230	1235	years	T079	C1510829
+27720129	1250	1256	months	T079	C0439231
+27720129	1293	1296	CRT	T061	C3178775
+27720129	1298	1306	Patients	T101	C0030705
+27720129	1318	1327	increased	T081	C0205217
+27720129	1328	1332	risk	T078	C0035647
+27720129	1336	1341	death	T033	C1306577
+27720129	1347	1353	months	T079	C0439231
+27720129	1364	1367	CRT	T061	C3178775
+27720129	1369	1379	odds ratio	T081	C0028873
+27720129	1390	1392	CI	T081	C0009667
+27720129	1424	1432	survival	T169	C0220921
+27720129	1438	1442	time	T079	C0040223
+27720129	1444	1456	hazard ratio	T081	C2985465
+27720129	1467	1469	CI	T081	C0009667
+27720129	1491	1499	Patients	T101	C0030705
+27720129	1504	1509	years	T079	C1510829
+27720129	1526	1533	treated	T169	C1522326
+27720129	1544	1549	toxic	T080	C1407029
+27720129	1550	1562	chemotherapy	T061	C3665472
+27720129	1587	1592	rates	T081	C1521828
+27720129	1596	1611	hospitalization	T058	C0019993
+27720129	1619	1628	treatment	T061	C0087111
+27720129	1633	1642	increased	T081	C0205217
+27720129	1643	1648	rates	T081	C1521828
+27720129	1652	1657	acute	T079	C0205178
+27720129	1658	1667	mortality	T081	C0205848
+27720129	1678	1681	CRT	T061	C3178775
+27720129	1687	1695	efficacy	T080	C1280519
+27720129	1699	1716	chemoradiotherapy	T061	C0436307
+27720129	1721	1728	elderly	T098	C0001792
+27720129	1729	1737	patients	T101	C0030705
+27720129	1763	1782	prospective setting	T080	C0205556

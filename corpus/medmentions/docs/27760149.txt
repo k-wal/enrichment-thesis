@@ -1,0 +1,100 @@
+27760149|t|BEST: Next-Generation Biomedical Entity Search Tool for Knowledge Discovery from Biomedical Literature
+27760149|a|As the volume of publications rapidly increases, searching for relevant information from the literature becomes more challenging. To complement standard search engines such as PubMed, it is desirable to have an advanced search tool that directly returns relevant biomedical entities such as targets, drugs, and mutations rather than a long list of articles. Some existing tools submit a query to PubMed and process retrieved abstracts to extract information at query time, resulting in a slow response time and limited coverage of only a fraction of the PubMed corpus. Other tools preprocess the PubMed corpus to speed up the response time; however, they are not constantly updated, and thus produce outdated results. Further, most existing tools cannot process sophisticated queries such as searches for mutations that co-occur with query terms in the literature. To address these problems, we introduce BEST, a biomedical entity search tool. BEST returns, as a result, a list of 10 different types of biomedical entities including genes, diseases, drugs, targets, transcription factors, miRNAs, and mutations that are relevant to a user's query. To the best of our knowledge, BEST is the only system that processes free text queries and returns up-to-date results in real time including mutation information in the results. BEST is freely accessible at http://best.korea.ac.kr.
+27760149	0	4	BEST	T170	C0282574
+27760149	6	21	Next-Generation	T079	C1254367
+27760149	22	51	Biomedical Entity Search Tool	T170	C0282574
+27760149	56	65	Knowledge	T170	C0376554
+27760149	66	75	Discovery	T052	C1880355
+27760149	81	102	Biomedical Literature	T078	C0025120
+27760149	110	116	volume	T080	C1690016
+27760149	120	132	publications	T073,T170	C0034036
+27760149	133	140	rapidly	T080	C0456962
+27760149	141	150	increases	T081	C0205217
+27760149	152	161	searching	T052	C1706202
+27760149	166	174	relevant	T080	C2347946
+27760149	175	186	information	T078	C1533716
+27760149	196	206	literature	T170	C0023866
+27760149	220	231	challenging	T033	C0243095
+27760149	247	255	standard	T080	C1442989
+27760149	256	270	search engines	T170	C2348167
+27760149	279	285	PubMed	T170	C1138432
+27760149	293	302	desirable	T080	C0205556
+27760149	314	334	advanced search tool	T170	C2348167
+27760149	340	348	directly	T080	C1947931
+27760149	349	356	returns	T080	C0332156
+27760149	357	365	relevant	T080	C2347946
+27760149	366	376	biomedical	T080	C0205556
+27760149	377	385	entities	T071	C1551338
+27760149	394	401	targets	T074	C0085104
+27760149	403	408	drugs	T121	C0013227
+27760149	414	423	mutations	T045	C0026882
+27760149	466	474	existing	T033	C0243095
+27760149	475	480	tools	T170	C0037589
+27760149	481	487	submit	T169	C1515023
+27760149	490	495	query	T170	C1522634
+27760149	499	505	PubMed	T170	C1138432
+27760149	510	517	process	T067	C1522240
+27760149	528	537	abstracts	T170	C0600678
+27760149	549	560	information	T078	C1533716
+27760149	564	569	query	T170	C1522634
+27760149	570	574	time	T079	C0040223
+27760149	576	585	resulting	T169	C1274040
+27760149	591	595	slow	T080	C0439834
+27760149	605	609	time	T079	C0040223
+27760149	614	621	limited	T169	C0439801
+27760149	622	630	coverage	T169	C1999244
+27760149	641	652	fraction of	T081	C1264633
+27760149	657	670	PubMed corpus	T170	C1138432
+27760149	678	683	tools	T170	C0037589
+27760149	684	694	preprocess	T066	C1882455
+27760149	699	712	PubMed corpus	T170	C1138432
+27760149	738	742	time	T079	C0040223
+27760149	766	776	constantly	T080	C1948059
+27760149	777	784	updated	T079	C1519814
+27760149	795	802	produce	T169	C0678227
+27760149	803	811	outdated	T170	C3645590
+27760149	812	819	results	T169	C1274040
+27760149	844	849	tools	T170	C0037589
+27760149	857	864	process	T067	C1522240
+27760149	865	878	sophisticated	T080	C0205556
+27760149	879	886	queries	T170	C1522634
+27760149	895	903	searches	T052	C1706202
+27760149	908	917	mutations	T045	C0026882
+27760149	923	931	co-occur	T052	C1709305
+27760149	937	942	query	T170	C1522634
+27760149	956	966	literature	T170	C0023866
+27760149	985	993	problems	T033	C0033213
+27760149	998	1007	introduce	T169	C1292748
+27760149	1008	1012	BEST	T170	C0282574
+27760149	1016	1045	biomedical entity search tool	T170	C0282574
+27760149	1047	1051	BEST	T170	C0282574
+27760149	1052	1059	returns	T080	C0332156
+27760149	1066	1072	result	T169	C1274040
+27760149	1087	1096	different	T080	C1705242
+27760149	1106	1116	biomedical	T080	C0205556
+27760149	1117	1125	entities	T071	C1551338
+27760149	1126	1135	including	T169	C0332257
+27760149	1136	1141	genes	T028	C0017337
+27760149	1143	1151	diseases	T047	C0012634
+27760149	1153	1158	drugs	T121	C0013227
+27760149	1160	1167	targets	T074	C0085104
+27760149	1169	1190	transcription factors	T116,T123	C0040648
+27760149	1192	1198	miRNAs	T114,T123	C1101610
+27760149	1204	1213	mutations	T045	C0026882
+27760149	1223	1231	relevant	T080	C2347946
+27760149	1244	1249	query	T170	C1522634
+27760149	1270	1279	knowledge	T170	C0376554
+27760149	1281	1285	BEST	T170	C0282574
+27760149	1298	1304	system	T169	C0449913
+27760149	1310	1319	processes	T067	C1522240
+27760149	1325	1329	text	T170	C1527021
+27760149	1330	1337	queries	T170	C1522634
+27760149	1342	1349	returns	T080	C0332156
+27760149	1350	1360	up-to-date	T033	C0243095
+27760149	1361	1368	results	T169	C1274040
+27760149	1372	1381	real time	T079	C1550177
+27760149	1382	1391	including	T169	C0332257
+27760149	1392	1400	mutation	T045	C0026882
+27760149	1401	1412	information	T078	C1533716
+27760149	1420	1427	results	T169	C1274040
+27760149	1429	1433	BEST	T170	C0282574

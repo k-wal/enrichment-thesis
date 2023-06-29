@@ -1,0 +1,109 @@
+27447827|t|Effect of Low - Dose MDCT and Iterative Reconstruction on Trabecular Bone Microstructure Assessment
+27447827|a|We investigated the effects of low - dose multi detector computed tomography (MDCT) in combination with statistical iterative reconstruction algorithms on trabecular bone microstructure parameters. Twelve donated vertebrae were scanned with the routine radiation exposure used in our department (standard-dose) and a low - dose protocol. Reconstructions were performed with filtered backprojection (FBP) and maximum-likelihood based statistical iterative reconstruction (SIR). Trabecular bone microstructure parameters were assessed and statistically compared for each reconstruction. Moreover, fracture loads of the vertebrae were biomechanically determined and correlated to the assessed microstructure parameters. Trabecular bone microstructure parameters based on low - dose MDCT and SIR significantly correlated with vertebral bone strength. There was no significant difference between microstructure parameters calculated on low - dose SIR and standard - dose FBP images. However, the results revealed a strong dependency on the regularization strength applied during SIR. It was observed that stronger regularization might corrupt the microstructure analysis, because the trabecular structure is a very small detail that might get lost during the regularization process. As a consequence, the introduction of SIR for trabecular bone microstructure analysis requires a specific optimization of the regularization parameters. Moreover, in comparison to other approaches, superior noise - resolution trade-offs can be found with the proposed methods.
+27447827	0	6	Effect	T080	C1280500
+27447827	10	13	Low	T080	C0205251
+27447827	16	20	Dose	T081	C0034524
+27447827	21	25	MDCT	T060	C0040405
+27447827	30	54	Iterative Reconstruction	T060	C2986769
+27447827	58	73	Trabecular Bone	T024	C0222660
+27447827	74	88	Microstructure	T082	C0678594
+27447827	89	99	Assessment	T052	C1516048
+27447827	103	115	investigated	T169	C1292732
+27447827	120	130	effects of	T080	C1704420
+27447827	131	134	low	T080	C0205251
+27447827	137	141	dose	T081	C0034524
+27447827	142	176	multi detector computed tomography	T060	C0040405
+27447827	178	182	MDCT	T060	C0040405
+27447827	187	198	combination	T080	C0205195
+27447827	204	240	statistical iterative reconstruction	T060	C2986769
+27447827	241	251	algorithms	T170	C0002045
+27447827	255	270	trabecular bone	T024	C0222660
+27447827	271	285	microstructure	T082	C0678594
+27447827	286	296	parameters	T077	C0549193
+27447827	298	304	Twelve	T081	C0205458
+27447827	305	312	donated	T058	C3854058
+27447827	313	322	vertebrae	T023	C0549207
+27447827	328	335	scanned	T060	C0441633
+27447827	345	352	routine	T080	C0205547
+27447827	353	371	radiation exposure	T060	C1313941
+27447827	384	394	department	T092	C1704729
+27447827	396	409	standard-dose	T081	C0034524
+27447827	417	420	low	T080	C0205251
+27447827	423	427	dose	T081	C0034524
+27447827	428	436	protocol	T061	C0040808
+27447827	438	453	Reconstructions	T061	C0524865
+27447827	459	468	performed	T169	C0884358
+27447827	474	497	filtered backprojection	T060	C2986750
+27447827	499	502	FBP	T060	C2986750
+27447827	508	526	maximum-likelihood	T062	C0870863
+27447827	533	569	statistical iterative reconstruction	T060	C2986769
+27447827	571	574	SIR	T060	C2986769
+27447827	577	592	Trabecular bone	T024	C0222660
+27447827	593	607	microstructure	T082	C0678594
+27447827	608	618	parameters	T077	C0549193
+27447827	624	632	assessed	T052	C1516048
+27447827	637	650	statistically	T090	C0038215
+27447827	651	659	compared	T052	C1707455
+27447827	669	683	reconstruction	T061	C0524865
+27447827	695	709	fracture loads	T037	C0016658
+27447827	717	726	vertebrae	T023	C0549207
+27447827	732	747	biomechanically	T060	C0846602
+27447827	763	773	correlated	T080	C1707520
+27447827	781	789	assessed	T052	C1516048
+27447827	790	804	microstructure	T082	C0678594
+27447827	805	815	parameters	T077	C0549193
+27447827	817	832	Trabecular bone	T024	C0222660
+27447827	833	847	microstructure	T082	C0678594
+27447827	848	858	parameters	T077	C0549193
+27447827	868	871	low	T080	C0205251
+27447827	874	878	dose	T081	C0034524
+27447827	879	883	MDCT	T060	C0040405
+27447827	888	891	SIR	T060	C2986769
+27447827	906	916	correlated	T080	C1707520
+27447827	922	936	vertebral bone	T023	C0549207
+27447827	937	945	strength	T081	C0237897
+27447827	957	971	no significant	T033	C0243095
+27447827	991	1005	microstructure	T082	C0678594
+27447827	1006	1016	parameters	T077	C0549193
+27447827	1031	1034	low	T080	C0205251
+27447827	1037	1041	dose	T081	C0034524
+27447827	1042	1045	SIR	T060	C2986769
+27447827	1050	1058	standard	T080	C1442989
+27447827	1061	1065	dose	T081	C0034524
+27447827	1066	1069	FBP	T060	C2986750
+27447827	1070	1076	images	T170	C1704254
+27447827	1099	1107	revealed	T080	C0443289
+27447827	1110	1116	strong	T080	C0442821
+27447827	1117	1127	dependency	T080	C1701901
+27447827	1135	1149	regularization	T067	C1522240
+27447827	1150	1158	strength	T078	C0808080
+27447827	1174	1177	SIR	T060	C2986769
+27447827	1200	1208	stronger	T080	C0442821
+27447827	1209	1223	regularization	T067	C1522240
+27447827	1230	1237	corrupt	T169	C1883709
+27447827	1242	1256	microstructure	T082	C0678594
+27447827	1257	1265	analysis	T169	C1524024
+27447827	1279	1289	trabecular	T024	C0222660
+27447827	1290	1299	structure	T082	C0678594
+27447827	1305	1309	very	T080	C0442824
+27447827	1310	1315	small	T081	C0700321
+27447827	1338	1342	lost	T169	C0745777
+27447827	1354	1376	regularization process	T067	C1522240
+27447827	1383	1394	consequence	T169	C0686907
+27447827	1400	1412	introduction	T169	C0579004
+27447827	1416	1419	SIR	T060	C2986769
+27447827	1424	1439	trabecular bone	T024	C0222660
+27447827	1440	1454	microstructure	T082	C0678594
+27447827	1455	1463	analysis	T169	C1524024
+27447827	1475	1483	specific	T080	C0205369
+27447827	1484	1496	optimization	T052	C2698650
+27447827	1504	1518	regularization	T067	C1522240
+27447827	1519	1529	parameters	T077	C0549193
+27447827	1544	1554	comparison	T052	C1707455
+27447827	1564	1574	approaches	T169	C1292724
+27447827	1576	1584	superior	T080	C0205250
+27447827	1585	1590	noise	T067	C0028263
+27447827	1593	1603	resolution	T077	C2699488
+27447827	1604	1614	trade-offs	T080	C0205556
+27447827	1637	1645	proposed	T080	C1553874
+27447827	1646	1653	methods	T170	C0025663

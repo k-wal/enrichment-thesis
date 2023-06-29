@@ -1,0 +1,62 @@
+27853635|t|Tumor-infiltrating Tim-3(+) T cells proliferate avidly except when PD-1 is co-expressed: Evidence for intracellular cross talk
+27853635|a|Programmed Death 1 (PD-1) and T cell Ig and mucin domain-3 protein (Tim-3) are immune checkpoint receptors highly expressed on tumor infiltrating T lymphocytes (TIL). PD-1 inhibits T cell activation and type-1 T cell responses, while Tim-3 is proposed to mark more extensively exhausted cells, although the mechanisms underlying Tim-3 function are not clear. Trials of anti-PD-1 therapy have identified a large subset of non-responder patients, likely due to expression of alternative checkpoint molecules like Tim-3. We investigated the phenotypic and functional characteristics of T cells with differential expression of PD-1 (high/low) and Tim-3 (positive / negative), using TIL directly isolated from head and neck squamous cell carcinomas (HNSCC). Unexpectedly, we found that expression of Tim-3 alone does not necessarily mark TIL as dysfunctional / exhausted. In Tim-3-TIL, PD-1 levels correlate with T cell dysfunction, with a PD-1(low/intermed) phenotype identifying recently activated and still functional cells, whereas PD-1(hi)Tim-3(-) T cells are actually exhausted. Nonetheless, PD-1(intermed) cells are still potently suppressed by PD-L1. PD-1 expression was associated with reduced phosphorylation of ribosomal protein S6 (pS6), whereas Tim-3 expression was associated with increased pS6. Using a novel mouse model for inducible Tim-3 expression, we confirmed that expression of Tim-3 does not necessarily render T cells refractory to further activation. These results suggest the existence of PD-1 and Tim-3 crosstalk in regulating antitumor T cell responses, with important implications for anti-PD-1 immunotherapy.
+27853635	0	35	Tumor-infiltrating Tim-3(+) T cells	T017	UMLS:C0039194
+27853635	36	47	proliferate	T038	UMLS:C1155046
+27853635	67	71	PD-1	T103	UMLS:C2986635
+27853635	102	115	intracellular	T082	UMLS:C0178719
+27853635	116	126	cross talk	T038	UMLS:C0007613
+27853635	127	145	Programmed Death 1	T103	UMLS:C2986635
+27853635	147	151	PD-1	T103	UMLS:C2986635
+27853635	157	193	T cell Ig and mucin domain-3 protein	T103	UMLS:C3537335
+27853635	195	200	Tim-3	T103	UMLS:C3537335
+27853635	206	233	immune checkpoint receptors	T103	UMLS:C0597357
+27853635	254	286	tumor infiltrating T lymphocytes	T017	UMLS:C0039194
+27853635	288	291	TIL	T017	UMLS:C0039194
+27853635	294	298	PD-1	T103	UMLS:C2986635
+27853635	308	325	T cell activation	T038	UMLS:C1155065
+27853635	330	353	type-1 T cell responses	T038	UMLS:C0007613
+27853635	361	366	Tim-3	T103	UMLS:C3537335
+27853635	404	413	exhausted	T033	UMLS:C0392674
+27853635	414	419	cells	T017	UMLS:C0007634
+27853635	434	444	mechanisms	T038	UMLS:C3537153
+27853635	456	461	Tim-3	T103	UMLS:C3537335
+27853635	496	513	anti-PD-1 therapy	T058	UMLS:C0021083
+27853635	638	643	Tim-3	T103	UMLS:C3537335
+27853635	680	690	functional	T038	UMLS:C0007613
+27853635	710	717	T cells	T017	UMLS:C0039194
+27853635	736	746	expression	T038	UMLS:C1171362
+27853635	750	754	PD-1	T103	UMLS:C2986635
+27853635	770	775	Tim-3	T103	UMLS:C3537335
+27853635	777	785	positive	T033	UMLS:C1446409
+27853635	788	796	negative	T033	UMLS:C0205160
+27853635	805	808	TIL	T017	UMLS:C0039194
+27853635	832	870	head and neck squamous cell carcinomas	T038	UMLS:C1168401
+27853635	872	877	HNSCC	T038	UMLS:C1168401
+27853635	922	927	Tim-3	T103	UMLS:C3537335
+27853635	960	963	TIL	T017	UMLS:C0039194
+27853635	983	992	exhausted	T033	UMLS:C0392674
+27853635	997	1006	Tim-3-TIL	T017	UMLS:C0039194
+27853635	1008	1012	PD-1	T103	UMLS:C2986635
+27853635	1035	1041	T cell	T017	UMLS:C0039194
+27853635	1143	1148	cells	T017	UMLS:C0007634
+27853635	1158	1182	PD-1(hi)Tim-3(-) T cells	T017	UMLS:C0039194
+27853635	1196	1205	exhausted	T033	UMLS:C0392674
+27853635	1220	1240	PD-1(intermed) cells	T017	UMLS:C0007634
+27853635	1274	1279	PD-L1	T103	UMLS:C2986635
+27853635	1281	1285	PD-1	T103	UMLS:C2986635
+27853635	1325	1340	phosphorylation	T038	UMLS:C1158886
+27853635	1344	1364	ribosomal protein S6	T103	UMLS:C0073336
+27853635	1366	1369	pS6	T103	UMLS:C0073336
+27853635	1380	1385	Tim-3	T103	UMLS:C3537335
+27853635	1427	1430	pS6	T103	UMLS:C0073336
+27853635	1446	1457	mouse model	T038	UMLS:C2986594
+27853635	1472	1477	Tim-3	T103	UMLS:C3252613
+27853635	1522	1527	Tim-3	T103	UMLS:C3252613
+27853635	1556	1563	T cells	T017	UMLS:C1522131
+27853635	1586	1596	activation	T038	UMLS:C1326120
+27853635	1637	1641	PD-1	T103	UMLS:C2986635
+27853635	1646	1651	Tim-3	T103	UMLS:C3537335
+27853635	1652	1661	crosstalk	T038	UMLS:C0007613
+27853635	1676	1685	antitumor	T038	UMLS:C1516031
+27853635	1686	1702	T cell responses	T038	UMLS:C0007613
+27853635	1736	1759	anti-PD-1 immunotherapy	T058	UMLS:C0021083

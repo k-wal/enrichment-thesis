@@ -1,0 +1,92 @@
+28420538|t|The impact on productivity of a hypothetical tax on sugar-sweetened beverages
+28420538|a|To quantify the potential impact of an additional 20% tax on sugar-sweetened beverages (SSBs) on productivity in Australia. We used a multi-state lifetable Markov model to examine the potential impact of an additional 20% tax on SSBs on total lifetime productivity in the paid and unpaid sectors of the economy. The study population consisted of Australians aged 20 years or older in 2010, whose health and other relevant outcomes were modelled over their remaining lifetime. The SSBs tax was estimated to reduce the number of people with obesity by 1.96% of the entire population (437,000 fewer persons with obesity), and reduce the number of employees with obesity by 317,000 persons. These effects translated into productivity gains in the paid sector of AU$751 million for the working - age population (95% confidence interval: AU$565 million to AU$954 million), using the human capital approach. In the unpaid sector, the potential productivity gains amounted to AU$1172 million (AU$929 million to AU$1435 million) using the replacement cost method. These productivity benefits are in addition to the health benefits of 35,000 life years gained and a reduction in healthcare costs of AU$425 million. An additional 20% tax on SSBs not only improves health outcomes and reduces healthcare costs, but provides productivity gains in both the paid and unpaid sectors of the economy.
+28420538	4	10	impact	T080	C4049986
+28420538	14	26	productivity	T081	C0033269
+28420538	32	48	hypothetical tax	T081	C0039371
+28420538	52	77	sugar-sweetened beverages	T168	C0005329
+28420538	94	103	potential	T080	C3245505
+28420538	104	110	impact	T080	C4049986
+28420538	117	127	additional	T169	C1524062
+28420538	132	135	tax	T081	C0039371
+28420538	139	164	sugar-sweetened beverages	T168	C0005329
+28420538	166	170	SSBs	T168	C0005329
+28420538	175	187	productivity	T081	C0033269
+28420538	191	200	Australia	T083	C0004340
+28420538	212	246	multi-state lifetable Markov model	T081,T170	C0023682
+28420538	250	257	examine	T033	C0332128
+28420538	262	271	potential	T080	C3245505
+28420538	272	278	impact	T080	C4049986
+28420538	285	295	additional	T169	C1524062
+28420538	300	303	tax	T081	C0039371
+28420538	307	311	SSBs	T168	C0005329
+28420538	315	329	total lifetime	T079	C4071830
+28420538	330	342	productivity	T081	C0033269
+28420538	350	373	paid and unpaid sectors	T078	C0009433
+28420538	381	388	economy	T081	C0870462
+28420538	394	410	study population	T098	C2348561
+28420538	424	435	Australians	T098	C0238711
+28420538	436	440	aged	T032	C0001779
+28420538	444	449	years	T079	C0439234
+28420538	453	458	older	T098	C0001792
+28420538	474	480	health	T170	C1550208
+28420538	491	499	relevant	T080	C2347946
+28420538	500	508	outcomes	T169	C1274040
+28420538	514	522	modelled	T062	C0870071
+28420538	534	543	remaining	T080	C1527428
+28420538	544	552	lifetime	T079	C4071830
+28420538	558	562	SSBs	T168	C0005329
+28420538	563	566	tax	T081	C0039371
+28420538	571	580	estimated	T081	C0750572
+28420538	584	590	reduce	T080	C0392756
+28420538	595	601	number	T081	C0237753
+28420538	605	611	people	T098	C0027361
+28420538	617	624	obesity	T047	C0028754
+28420538	648	658	population	T098	C1257890
+28420538	674	681	persons	T098	C0027361
+28420538	687	694	obesity	T047	C0028754
+28420538	701	707	reduce	T080	C0392756
+28420538	712	718	number	T081	C0237753
+28420538	722	731	employees	T097	C0599987
+28420538	737	744	obesity	T047	C0028754
+28420538	756	763	persons	T098	C0027361
+28420538	771	778	effects	T080	C1280500
+28420538	795	807	productivity	T081	C0033269
+28420538	808	813	gains	T081	C1517378
+28420538	821	832	paid sector	T078	C0009433
+28420538	843	850	million	T081	C1881839
+28420538	859	866	working	T057	C0043227
+28420538	869	872	age	T032	C0001779
+28420538	873	883	population	T098	C1257890
+28420538	889	908	confidence interval	T081	C0009667
+28420538	917	924	million	T081	C1881839
+28420538	935	942	million	T081	C1881839
+28420538	955	968	human capital	T081	C0700103
+28420538	969	977	approach	T082	C0449445
+28420538	986	999	unpaid sector	T078	C0009433
+28420538	1005	1014	potential	T080	C3245505
+28420538	1015	1027	productivity	T081	C0033269
+28420538	1028	1033	gains	T081	C1517378
+28420538	1034	1042	amounted	T081	C1265611
+28420538	1054	1061	million	T081	C1881839
+28420538	1070	1077	million	T081	C1881839
+28420538	1089	1096	million	T081	C1881839
+28420538	1108	1131	replacement cost method	T170	C0025663
+28420538	1139	1151	productivity	T081	C0033269
+28420538	1152	1160	benefits	T081	C0814225
+28420538	1184	1199	health benefits	T081	C0086387
+28420538	1210	1220	life years	T079	C0080071
+28420538	1221	1227	gained	T081	C1517378
+28420538	1234	1243	reduction	T080	C0392756
+28420538	1247	1263	healthcare costs	T081	C0085552
+28420538	1274	1281	million	T081	C1881839
+28420538	1286	1296	additional	T169	C1524062
+28420538	1301	1304	tax	T081	C0039371
+28420538	1308	1312	SSBs	T168	C0005329
+28420538	1322	1330	improves	T033	C0184511
+28420538	1331	1346	health outcomes	T170	C1550208
+28420538	1351	1358	reduces	T080	C0392756
+28420538	1359	1375	healthcare costs	T081	C0085552
+28420538	1390	1402	productivity	T081	C0033269
+28420538	1403	1408	gains	T081	C1517378
+28420538	1421	1444	paid and unpaid sectors	T078	C0009433
+28420538	1452	1459	economy	T081	C0870462

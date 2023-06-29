@@ -1,0 +1,50 @@
+28415132|t|Genetic alterations in mesiodens as revealed by targeted next-generation sequencing and gene co-occurrence network analysis
+28415132|a|Mesiodens is the most common type of supernumerary tooth which includes a population prevalence of 0.15%-1.9%. Alongside evidence that the condition is heritable, mutations in single genes have been reported in few human supernumerary tooth cases. Gene sequencing methods in tradition way are time-consuming and labor-intensive, whereas next-generation sequencing and bioinformatics are cost-effective for large samples and target sizes. We describe the application of a targeted next-generation sequencing (NGS) and bioinformatics approach to samples from 17 mesiodens patients. Subjects were diagnosed on the basis of panoramic radiograph. A total of 101 candidate genes which were captured custom genes were sequenced on the Illumina HiSeq 2500. Multistep bioinformatics processing was performed including variant identification, base calling, and in silico analysis of putative disease - causing variants. Targeted capture identified 88 non-synonymous, rare, exonic variants involving 42 of the 101 candidate genes. Moreover, we investigated gene co-occurrence relationships between the genomic alterations and identified 88 significant relationships among 18 most recurrent driver alterations. Our search for co-occurring genetic alterations revealed that such alterations interact cooperatively to drive mesiodens. We discovered a gene co-occurrence network in mesiodens patients with functionally enriched gene groups in the sonic hedgehog (SHH), bone morphogenetic proteins (BMP), and wingless integrated (WNT) signaling pathways.
+28415132	0	19	Genetic alterations	T038	UMLS:C0026882
+28415132	23	32	mesiodens	T038	UMLS:C0266030
+28415132	57	83	next-generation sequencing	T062	UMLS:C2936622
+28415132	88	92	gene	T017	UMLS:C0017337
+28415132	107	123	network analysis	T062	UMLS:C4277638
+28415132	124	133	Mesiodens	T038	UMLS:C0266030
+28415132	161	180	supernumerary tooth	T033	UMLS:C0040457
+28415132	198	208	population	T098	UMLS:C1257890
+28415132	287	296	mutations	T038	UMLS:C0026882
+28415132	307	312	genes	T017	UMLS:C0017337
+28415132	339	344	human	T204	UMLS:C0086418
+28415132	345	364	supernumerary tooth	T033	UMLS:C0040457
+28415132	436	451	labor-intensive	T098	UMLS:C0022866
+28415132	461	487	next-generation sequencing	T062	UMLS:C2936622
+28415132	492	506	bioinformatics	T091	UMLS:C1140694
+28415132	604	630	next-generation sequencing	T062	UMLS:C2936622
+28415132	632	635	NGS	T062	UMLS:C2936622
+28415132	641	655	bioinformatics	T091	UMLS:C1140694
+28415132	684	693	mesiodens	T038	UMLS:C0266030
+28415132	704	712	Subjects	T098	UMLS:C2349001
+28415132	718	727	diagnosed	T033	UMLS:C0011900
+28415132	744	764	panoramic radiograph	T058	UMLS:C0034579
+28415132	781	796	candidate genes	T017	UMLS:C1332838
+28415132	824	829	genes	T017	UMLS:C0017337
+28415132	852	871	Illumina HiSeq 2500	T074	UMLS:C0025080
+28415132	883	897	bioinformatics	T091	UMLS:C1140694
+28415132	957	969	base calling	T058	UMLS:C1294197
+28415132	985	993	analysis	T062	UMLS:C0936012
+28415132	997	1013	putative disease	T038	UMLS:C0012634
+28415132	1065	1079	non-synonymous	T038	UMLS:C0599155
+28415132	1087	1093	exonic	T038	UMLS:C1519323
+28415132	1127	1142	candidate genes	T017	UMLS:C1332838
+28415132	1170	1174	gene	T017	UMLS:C0017337
+28415132	1215	1234	genomic alterations	T038	UMLS:C0026882
+28415132	1310	1321	alterations	T038	UMLS:C0026882
+28415132	1351	1370	genetic alterations	T038	UMLS:C0026882
+28415132	1390	1401	alterations	T038	UMLS:C0026882
+28415132	1434	1443	mesiodens	T038	UMLS:C0266030
+28415132	1461	1465	gene	T017	UMLS:C0017337
+28415132	1491	1500	mesiodens	T038	UMLS:C0266030
+28415132	1537	1541	gene	T017	UMLS:C0017337
+28415132	1556	1570	sonic hedgehog	T103	UMLS:C0258846
+28415132	1572	1575	SHH	T103	UMLS:C0258846
+28415132	1578	1605	bone morphogenetic proteins	T103	UMLS:C0053932
+28415132	1607	1610	BMP	T103	UMLS:C0053932
+28415132	1617	1636	wingless integrated	T103	UMLS:C0753137
+28415132	1638	1641	WNT	T103	UMLS:C0753137
+28415132	1643	1661	signaling pathways	T038	UMLS:C0037080

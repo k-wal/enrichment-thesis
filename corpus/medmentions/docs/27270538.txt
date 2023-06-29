@@ -1,0 +1,80 @@
+27270538|t|Evaluation of the Prostate Imaging Reporting and Data System for Magnetic Resonance Imaging Diagnosis of Prostate Cancer in Patients with Prostate-specific Antigen <20 ng/ml
+27270538|a|The European Society of Urogenital Radiology has built the Prostate Imaging Reporting and Data System (PI-RADS) for standardizing the diagnosis of prostate cancer (PCa). This study evaluated the PI-RADS diagnosis method in patients with prostate-specific antigen (PSA) <20 ng/ml. A total of 133 patients with PSA <20 ng/ml were prospectively recruited. T2-weighted (T2WI) and diffusion-weighted (DWI) magnetic resonance images of the prostate were acquired before a 12-core transrectal prostate biopsy. Each patient's peripheral zone was divided into six regions on the images; each region corresponded to two of the 12 biopsy cores. T2WI, DWI, and T2WI + DWI scores were computed according to PI-RADS. The diagnostic accuracy of the PI-RADS score was evaluated using histopathology of prostate biopsies as the reference standard. PCa was histologically diagnosed in 169 (21.2%) regions. Increased PI-RADS score correlated positively with increased cancer detection rate. The cancer detection rate for scores 1 to 5 was 2.8%, 15.0%, 34.6%, 52.6%, and 88.9%, respectively, using T2WI and 12.0%, 20.2%, 48.0%, 85.7%, and 93.3%, respectively, using DWI. For T2WI + DWI, the cancer detection rate was 1.5% (score 2), 13.5% (scores 3-4), 41.3% (scores 5-6), 75.9% (scores 7-8), and 92.3% (scores 9-10). The area under the curve for cancer detection was 0.700 (T2WI), 0.735 (DWI) and 0.749 (T2WI + DWI). The sensitivity and specificity were 53.8% and 89.2%, respectively, when using scores 5-6 as the cutoff value for T2WI + DWI. The PI-RADS score correlates with the PCa detection rate in patients with PSA <20 ng/ml. The summed score of T2WI + DWI has the highest accuracy in detection of PCa. However, the sensitivity should be further improved.
+27270538	18	60	Prostate Imaging Reporting and Data System	T170	C4284879
+27270538	65	91	Magnetic Resonance Imaging	T060	C0024485
+27270538	92	101	Diagnosis	T062	C1704656
+27270538	105	120	Prostate Cancer	T191	C0376358
+27270538	124	132	Patients	T101	C0030705
+27270538	138	163	Prostate-specific Antigen	T116,T126,T129	C0138741
+27270538	178	218	European Society of Urogenital Radiology	T093	C1708333
+27270538	233	275	Prostate Imaging Reporting and Data System	T170	C4284879
+27270538	277	284	PI-RADS	T170	C4284879
+27270538	308	317	diagnosis	T062	C1704656
+27270538	321	336	prostate cancer	T191	C0376358
+27270538	338	341	PCa	T191	C0376358
+27270538	349	354	study	T062	C2603343
+27270538	369	376	PI-RADS	T170	C4284879
+27270538	377	393	diagnosis method	T060	C0430022
+27270538	397	405	patients	T101	C0030705
+27270538	411	436	prostate-specific antigen	T116,T126,T129	C0138741
+27270538	438	441	PSA	T116,T126,T129	C0138741
+27270538	469	477	patients	T101	C0030705
+27270538	483	486	PSA	T116,T126,T129	C0138741
+27270538	527	538	T2-weighted	T060	C0011923
+27270538	540	544	T2WI	T060	C0011923
+27270538	550	600	diffusion-weighted (DWI) magnetic resonance images	T060	C0598801
+27270538	608	616	prostate	T023	C0033572
+27270538	640	675	12-core transrectal prostate biopsy	T060	C0401641
+27270538	682	691	patient's	T101	C0030705
+27270538	692	707	peripheral zone	T029	C0458696
+27270538	744	750	images	T170	C1704254
+27270538	794	806	biopsy cores	T060	C3846093
+27270538	808	812	T2WI	T060	C0011923
+27270538	814	817	DWI	T060	C0598801
+27270538	823	827	T2WI	T060	C0011923
+27270538	830	833	DWI	T060	C0598801
+27270538	834	840	scores	T081	C0449820
+27270538	868	875	PI-RADS	T170	C4284879
+27270538	881	900	diagnostic accuracy	T080	C0598285
+27270538	908	915	PI-RADS	T170	C4284879
+27270538	916	921	score	T081	C0449820
+27270538	942	956	histopathology	T091	C0677043
+27270538	960	977	prostate biopsies	T060	C0194804
+27270538	1005	1008	PCa	T191	C0376358
+27270538	1013	1037	histologically diagnosed	UnknownType	C0679557
+27270538	1072	1079	PI-RADS	T170	C4284879
+27270538	1080	1085	score	T081	C0449820
+27270538	1123	1139	cancer detection	T058	C1516193
+27270538	1140	1144	rate	T081	C1521828
+27270538	1150	1166	cancer detection	T058	C1516193
+27270538	1167	1171	rate	T081	C1521828
+27270538	1176	1182	scores	T081	C0449820
+27270538	1252	1256	T2WI	T060	C0011923
+27270538	1320	1323	DWI	T060	C0598801
+27270538	1329	1333	T2WI	T060	C0011923
+27270538	1336	1339	DWI	T060	C0598801
+27270538	1345	1361	cancer detection	T058	C1516193
+27270538	1362	1366	rate	T081	C1521828
+27270538	1377	1382	score	T081	C0449820
+27270538	1394	1400	scores	T081	C0449820
+27270538	1414	1420	scores	T081	C0449820
+27270538	1434	1440	scores	T081	C0449820
+27270538	1458	1464	scores	T081	C0449820
+27270538	1501	1517	cancer detection	T058	C1516193
+27270538	1529	1533	T2WI	T060	C0011923
+27270538	1543	1546	DWI	T060	C0598801
+27270538	1559	1563	T2WI	T060	C0011923
+27270538	1566	1569	DWI	T060	C0598801
+27270538	1651	1657	scores	T081	C0449820
+27270538	1686	1690	T2WI	T060	C0011923
+27270538	1693	1696	DWI	T060	C0598801
+27270538	1702	1709	PI-RADS	T170	C4284879
+27270538	1710	1715	score	T081	C0449820
+27270538	1736	1749	PCa detection	T061	C0281186
+27270538	1750	1754	rate	T081	C1521828
+27270538	1758	1766	patients	T101	C0030705
+27270538	1772	1775	PSA	T116,T126,T129	C0138741
+27270538	1798	1803	score	T081	C0449820
+27270538	1807	1811	T2WI	T060	C0011923
+27270538	1814	1817	DWI	T060	C0598801
+27270538	1859	1862	PCa	T191	C0376358

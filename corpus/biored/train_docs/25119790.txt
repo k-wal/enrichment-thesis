@@ -1,0 +1,61 @@
+25119790|t|Curcumin prevents maleate-induced nephrotoxicity: relation to hemodynamic alterations, oxidative stress, mitochondrial oxygen consumption and activity of respiratory complex I.
+25119790|a|The potential protective effect of the dietary antioxidant curcumin (120 mg/Kg/day for 6 days) against the renal injury induced by maleate was evaluated. Tubular proteinuria and oxidative stress were induced by a single injection of maleate (400 mg/kg) in rats. Maleate-induced renal injury included increase in renal vascular resistance and in the urinary excretion of total protein, glucose, sodium, neutrophil gelatinase-associated lipocalin (NGAL) and N-acetyl b-D-glucosaminidase (NAG), upregulation of kidney injury molecule (KIM)-1, decrease in renal blood flow and claudin-2 expression besides of necrosis and apoptosis of tubular cells on 24 h. Oxidative stress was determined by measuring the oxidation of lipids and proteins and diminution in renal Nrf2 levels. Studies were also conducted in renal epithelial LLC-PK1 cells and in mitochondria isolated from kidneys of all the experimental groups. Maleate induced cell damage and reactive oxygen species (ROS) production in LLC-PK1 cells in culture. In addition, maleate treatment reduced oxygen consumption in ADP-stimulated mitochondria and diminished respiratory control index when using malate/glutamate as substrate. The activities of both complex I and aconitase were also diminished. All the above-described alterations were prevented by curcumin. It is concluded that curcumin is able to attenuate in vivo maleate-induced nephropathy and in vitro cell damage. The in vivo protection was associated to the prevention of oxidative stress and preservation of mitochondrial oxygen consumption and activity of respiratory complex I, and the in vitro protection was associated to the prevention of ROS production.
+25119790	0	8	Curcumin	ChemicalEntity	D003474
+25119790	18	25	maleate	ChemicalEntity	C030272
+25119790	34	48	nephrotoxicity	DiseaseOrPhenotypicFeature	D007674
+25119790	119	125	oxygen	ChemicalEntity	D010100
+25119790	154	175	respiratory complex I	ChemicalEntity	D042967
+25119790	236	244	curcumin	ChemicalEntity	D003474
+25119790	284	296	renal injury	DiseaseOrPhenotypicFeature	D007674
+25119790	308	315	maleate	ChemicalEntity	C030272
+25119790	339	350	proteinuria	DiseaseOrPhenotypicFeature	D011507
+25119790	410	417	maleate	ChemicalEntity	C030272
+25119790	433	437	rats	OrganismTaxon	10116
+25119790	439	446	Maleate	ChemicalEntity	C030272
+25119790	455	467	renal injury	DiseaseOrPhenotypicFeature	D007674
+25119790	562	569	glucose	ChemicalEntity	D005947
+25119790	571	577	sodium	ChemicalEntity	D012964
+25119790	579	621	neutrophil gelatinase-associated lipocalin	GeneOrGeneProduct	170496
+25119790	623	627	NGAL	GeneOrGeneProduct	170496
+25119790	633	661	N-acetyl b-D-glucosaminidase	GeneOrGeneProduct	-
+25119790	663	666	NAG	GeneOrGeneProduct	-
+25119790	685	715	kidney injury molecule (KIM)-1	GeneOrGeneProduct	286934
+25119790	750	759	claudin-2	GeneOrGeneProduct	733684
+25119790	782	821	necrosis and apoptosis of tubular cells	DiseaseOrPhenotypicFeature	D007673
+25119790	893	899	lipids	ChemicalEntity	D008055
+25119790	937	941	Nrf2	GeneOrGeneProduct	83619
+25119790	998	1005	LLC-PK1	CellLine	CVCL_0391
+25119790	1086	1093	Maleate	ChemicalEntity	C030272
+25119790	1118	1141	reactive oxygen species	ChemicalEntity	D017382
+25119790	1143	1146	ROS	ChemicalEntity	D017382
+25119790	1162	1169	LLC-PK1	CellLine	CVCL_0391
+25119790	1201	1208	maleate	ChemicalEntity	C030272
+25119790	1227	1233	oxygen	ChemicalEntity	D010100
+25119790	1249	1252	ADP	ChemicalEntity	D000244
+25119790	1329	1335	malate	ChemicalEntity	C030298
+25119790	1336	1345	glutamate	ChemicalEntity	D018698
+25119790	1397	1406	aconitase	GeneOrGeneProduct	50655
+25119790	1483	1491	curcumin	ChemicalEntity	D003474
+25119790	1514	1522	curcumin	ChemicalEntity	D003474
+25119790	1552	1559	maleate	ChemicalEntity	C030272
+25119790	1568	1579	nephropathy	DiseaseOrPhenotypicFeature	D007674
+25119790	1716	1722	oxygen	ChemicalEntity	D010100
+25119790	1751	1772	respiratory complex I	ChemicalEntity	D042967
+25119790	1838	1841	ROS	ChemicalEntity	D017382
+25119790	Positive_Correlation	D011507	C030272	Novel
+25119790	Positive_Correlation	D007674	286934	Novel
+25119790	Negative_Correlation	D007674	733684	Novel
+25119790	Association	D007674	170496	Novel
+25119790	Association	D007674	D012964	Novel
+25119790	Association	D007674	D005947	Novel
+25119790	Negative_Correlation	C030272	50655	Novel
+25119790	Association	C030272	D010100	Novel
+25119790	Positive_Correlation	C030272	D017382	Novel
+25119790	Positive_Correlation	C030272	286934	Novel
+25119790	Negative_Correlation	C030272	733684	Novel
+25119790	Association	C030272	170496	Novel
+25119790	Association	C030272	D012964	Novel
+25119790	Association	C030272	D005947	Novel
+25119790	Positive_Correlation	C030272	D007674	No
+25119790	Negative_Correlation	D003474	D007674	Novel
+25119790	Negative_Correlation	D003474	C030272	Novel

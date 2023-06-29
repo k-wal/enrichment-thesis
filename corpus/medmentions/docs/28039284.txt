@@ -1,0 +1,47 @@
+28039284|t|Defining categories of actionability for secondary findings in next-generation sequencing
+28039284|a|Next-generation sequencing is increasingly used in clinical practice for the diagnosis of Mendelian diseases. Because of the high likelihood of secondary findings associated with this technique, the process of informing patients is beset with new challenges. One of them is regarding the type of secondary findings that ought to be disclosed to patients. The aim of this research is to propose a practical implementation of the notion of actionability, a common criteria justifying the disclosure of secondary findings but whose interpretation varies greatly among professionals. We distinguish three types of actionability corresponding to (1) well-established medical actions, (2) patient -initiated health-related actions and (3) life-plan decisions. We argue that actionability depends on the characteristics of the mutation or gene and on the values of patients. In discussing the return of secondary findings, it is important that the physician tries to get an impression of the specific situation and values of patients. Regarding variants of uncertain clinical significance in actionable genes, we found that different understandings of autonomy lead to different conclusions and that, for some of them, it may be legitimate to refrain from returning uncertain information.
+28039284	9	19	categories	T170	C0683312
+28039284	23	36	actionability	T052	C0441655
+28039284	41	50	secondary	T080	C0175668
+28039284	51	59	findings	T033	C0243095
+28039284	63	89	next-generation sequencing	T059,T063	C0162801
+28039284	90	116	Next-generation sequencing	T059,T063	C0162801
+28039284	141	158	clinical practice	T057	C0205897
+28039284	167	176	diagnosis	T033	C0011900
+28039284	180	198	Mendelian diseases	T047	C1285355
+28039284	234	243	secondary	T080	C0175668
+28039284	244	252	findings	T033	C0243095
+28039284	274	283	technique	T169	C0449851
+28039284	300	318	informing patients	T058	C0588446
+28039284	386	395	secondary	T080	C0175668
+28039284	396	404	findings	T033	C0243095
+28039284	435	443	patients	T101	C0030705
+28039284	461	469	research	T062	C0035168
+28039284	496	510	implementation	T052	C1708476
+28039284	528	541	actionability	T052	C0441655
+28039284	576	586	disclosure	T055	C0012625
+28039284	590	599	secondary	T080	C0175668
+28039284	600	608	findings	T033	C0243095
+28039284	619	633	interpretation	T170	C0459471
+28039284	655	668	professionals	T097	C0679924
+28039284	700	713	actionability	T052	C0441655
+28039284	752	759	medical	T169	C0205476
+28039284	760	767	actions	T052	C3266814
+28039284	773	780	patient	T101	C0030705
+28039284	792	814	health-related actions	T055	C0237121
+28039284	823	842	life-plan decisions	T041	C0679006
+28039284	858	871	actionability	T052	C0441655
+28039284	910	918	mutation	T045	C0026882
+28039284	922	926	gene	T028	C0017337
+28039284	948	956	patients	T101	C0030705
+28039284	986	995	secondary	T080	C0175668
+28039284	996	1004	findings	T033	C0243095
+28039284	1031	1040	physician	T097	C0031831
+28039284	1057	1067	impression	T080	C1998467
+28039284	1108	1116	patients	T101	C0030705
+28039284	1128	1136	variants	T028	C0678941
+28039284	1150	1171	clinical significance	T033	C2826293
+28039284	1186	1191	genes	T028	C0017337
+28039284	1235	1243	autonomy	T078	C0085862
+28039284	1262	1273	conclusions	T078	C1707478
+28039284	1359	1370	information	T078	C1533716

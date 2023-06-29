@@ -1,0 +1,34 @@
+28481342|t|Recurrent noncoding regulatory mutations in pancreatic ductal adenocarcinoma
+28481342|a|The contributions of coding mutations to tumorigenesis are relatively well known; however, little is known about somatic alterations in noncoding DNA. Here we describe GECCO (Genomic Enrichment Computational Clustering Operation) to analyze somatic noncoding alterations in 308 pancreatic ductal adenocarcinomas (PDAs) and identify commonly mutated regulatory regions. We find recurrent noncoding mutations to be enriched in PDA pathways, including axon guidance and cell adhesion, and newly identified processes, including transcription and homeobox genes. We identified mutations in protein binding sites correlating with differential expression of proximal genes and experimentally validated effects of mutations on expression. We developed an expression modulation score that quantifies the strength of gene regulation imposed by each class of regulatory elements, and found the strongest elements were most frequently mutated, suggesting a selective advantage. Our detailed single-cancer analysis of noncoding alterations identifies regulatory mutations as candidates for diagnostic and prognostic markers, and suggests new mechanisms for tumor evolution.
+28481342	0	40	Recurrent noncoding regulatory mutations	T038	UMLS:C0026882
+28481342	44	76	pancreatic ductal adenocarcinoma	T038	UMLS:C1335302
+28481342	98	114	coding mutations	T038	UMLS:C0026882
+28481342	118	131	tumorigenesis	T038	UMLS:C0007621
+28481342	190	209	somatic alterations	T038	UMLS:C0544886
+28481342	213	226	noncoding DNA	T103	UMLS:C0021920
+28481342	318	347	somatic noncoding alterations	T038	UMLS:C0544886
+28481342	355	388	pancreatic ductal adenocarcinomas	T038	UMLS:C1335302
+28481342	390	394	PDAs	T038	UMLS:C1335302
+28481342	418	444	mutated regulatory regions	T082	UMLS:C0004793
+28481342	454	483	recurrent noncoding mutations	T038	UMLS:C0026882
+28481342	502	505	PDA	T038	UMLS:C1335302
+28481342	506	514	pathways	T038	UMLS:C1704259
+28481342	526	539	axon guidance	T038	UMLS:C2984268
+28481342	544	557	cell adhesion	T038	UMLS:C0007577
+28481342	601	614	transcription	T038	UMLS:C0040649
+28481342	619	633	homeobox genes	T017	UMLS:C0017347
+28481342	649	658	mutations	T038	UMLS:C0026882
+28481342	662	683	protein binding sites	T082	UMLS:C1514535
+28481342	714	724	expression	T038	UMLS:C0017262
+28481342	728	736	proximal	T082	UMLS:C0205107
+28481342	737	742	genes	T017	UMLS:C0017337
+28481342	783	792	mutations	T038	UMLS:C0026882
+28481342	796	806	expression	T038	UMLS:C0017262
+28481342	884	899	gene regulation	T038	UMLS:C0017263
+28481342	925	944	regulatory elements	T017	UMLS:C0017362
+28481342	970	978	elements	T017	UMLS:C0017362
+28481342	1056	1078	single-cancer analysis	T058	UMLS:C0022885
+28481342	1082	1103	noncoding alterations	T038	UMLS:C0026882
+28481342	1115	1135	regulatory mutations	T038	UMLS:C0026882
+28481342	1154	1164	diagnostic	T201	UMLS:C1511876
+28481342	1221	1236	tumor evolution	T038	UMLS:C0007621

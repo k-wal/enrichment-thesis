@@ -1,0 +1,51 @@
+27504100|t|Multivariate Imaging Genetics Study of MRI Gray Matter Volume and SNPs Reveals Biological Pathways Correlated with Brain Structural Differences in Attention Deficit Hyperactivity Disorder
+27504100|a|Attention deficit hyperactivity disorder (ADHD) is a prevalent neurodevelopmental disorder affecting children, adolescents, and adults. Its etiology is not well understood, but it is increasingly believed to result from diverse pathophysiologies that affect the structure and function of specific brain circuits. Although one of the best-studied neurobiological abnormalities in ADHD is reduced fronto-striatal-cerebellar gray matter (GM) volume, its specific genetic correlates are largely unknown. In this study, T1-weighted MR images of brain structure were collected from 198 adolescents (63 ADHD - diagnosed). A multivariate parallel independent component analysis (Para-ICA) technique -identified imaging genetic relationships between regional GM volume and single nucleotide polymorphism data. Para-ICA analyses extracted 14 components from genetic data and 9 from MR data. An iterative cross-validation using randomly chosen subsamples indicated acceptable stability of these ICA solutions. A series of partial correlation analyses controlling for age, sex, and ethnicity revealed two genotype-phenotype component pairs significantly differed between ADHD and non-ADHD groups, after a Bonferroni correction for multiple comparisons. The brain phenotype component not only included structures frequently found to have abnormally low volume in previous ADHD studies but was also significantly associated with ADHD differences in symptom severity and performance on cognitive tests frequently found to be impaired in patients diagnosed with the disorder. Pathway analysis of the genotype component identified several different biological pathways linked to these structural abnormalities in ADHD. Some of these pathways implicate well-known dopaminergic neurotransmission and neurodevelopment hypothesized to be abnormal in ADHD. Other more recently implicated pathways included glutamatergic and GABA-eric physiological systems; others might reflect sources of shared liability to disturbances commonly found in ADHD, such as sleep abnormalities.
+27504100	13	20	Imaging	T058	UMLS:C0011923
+27504100	21	35	Genetics Study	T062	UMLS:C2827447
+27504100	39	42	MRI	T058	UMLS:C0024485
+27504100	43	54	Gray Matter	T017	UMLS:C0018220
+27504100	66	70	SNPs	T082	UMLS:C0752046
+27504100	115	120	Brain	T017	UMLS:C0006104
+27504100	121	131	Structural	T082	UMLS:C0678594
+27504100	147	187	Attention Deficit Hyperactivity Disorder	T038	UMLS:C1263846
+27504100	188	228	Attention deficit hyperactivity disorder	T038	UMLS:C1263846
+27504100	230	234	ADHD	T038	UMLS:C1263846
+27504100	251	278	neurodevelopmental disorder	T038	UMLS:C1535926
+27504100	416	433	pathophysiologies	T038	UMLS:C0277785
+27504100	450	459	structure	T082	UMLS:C0678594
+27504100	534	563	neurobiological abnormalities	T038	UMLS:C0027765
+27504100	567	571	ADHD	T038	UMLS:C1263846
+27504100	583	621	fronto-striatal-cerebellar gray matter	T017	UMLS:C3850014
+27504100	623	625	GM	T017	UMLS:C0018220
+27504100	696	701	study	T062	UMLS:C2603343
+27504100	784	788	ADHD	T038	UMLS:C1263846
+27504100	791	800	diagnosed	T033	UMLS:C0011900
+27504100	891	898	imaging	T058	UMLS:C0011923
+27504100	929	937	regional	T082	UMLS:C0205147
+27504100	938	940	GM	T017	UMLS:C0018220
+27504100	952	982	single nucleotide polymorphism	T082	UMLS:C0752046
+27504100	1036	1048	genetic data	T170	UMLS:C0872179
+27504100	1060	1062	MR	T058	UMLS:C0024485
+27504100	1072	1098	iterative cross-validation	T062	UMLS:C0681935
+27504100	1347	1351	ADHD	T038	UMLS:C1263846
+27504100	1356	1364	non-ADHD	T033	UMLS:C0243095
+27504100	1433	1438	brain	T017	UMLS:C0006104
+27504100	1477	1487	structures	T082	UMLS:C0678594
+27504100	1547	1551	ADHD	T038	UMLS:C1263846
+27504100	1552	1559	studies	T062	UMLS:C2603343
+27504100	1603	1607	ADHD	T038	UMLS:C1263846
+27504100	1623	1639	symptom severity	T033	UMLS:C1319166
+27504100	1659	1674	cognitive tests	T170	UMLS:C0392366
+27504100	1719	1728	diagnosed	T033	UMLS:C0011900
+27504100	1738	1746	disorder	T038	UMLS:C0012634
+27504100	1748	1764	Pathway analysis	T170	UMLS:C0868995
+27504100	1856	1866	structural	T082	UMLS:C0678594
+27504100	1867	1880	abnormalities	T033	UMLS:C1704258
+27504100	1884	1888	ADHD	T038	UMLS:C1263846
+27504100	1934	1964	dopaminergic neurotransmission	T038	UMLS:C0234101
+27504100	2005	2013	abnormal	T033	UMLS:C0205161
+27504100	2017	2021	ADHD	T038	UMLS:C1263846
+27504100	2072	2085	glutamatergic	T038	UMLS:C1523698
+27504100	2090	2121	GABA-eric physiological systems	T038	UMLS:C0234105
+27504100	2206	2210	ADHD	T038	UMLS:C1263846
+27504100	2220	2239	sleep abnormalities	T033	UMLS:C0037317

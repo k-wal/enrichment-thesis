@@ -1,0 +1,27 @@
+19642243|t|Acute renal failure in patients with AIDS on tenofovir while receiving prolonged vancomycin course for osteomyelitis.
+19642243|a|Renal failure developed after a prolonged course of vancomycin therapy in 2 patients who were receiving tenofovir disoproxil fumarate as part of an antiretroviral regimen. Tenofovir has been implicated in the development of Fanconi syndrome and renal insufficiency because of its effects on the proximal renal tubule. Vancomycin nephrotoxicity is infrequent but may result from coadministration with a nephrotoxic agent. Clinicians should be aware that tenofovir may raise the risk of renal failure during prolonged administration of vancomycin.
+19642243	0	19	Acute renal failure	DiseaseOrPhenotypicFeature	D058186
+19642243	23	31	patients	OrganismTaxon	9606
+19642243	37	41	AIDS	DiseaseOrPhenotypicFeature	D000163
+19642243	45	54	tenofovir	ChemicalEntity	D000068698
+19642243	81	91	vancomycin	ChemicalEntity	D014640
+19642243	103	116	osteomyelitis	DiseaseOrPhenotypicFeature	D010019
+19642243	118	131	Renal failure	DiseaseOrPhenotypicFeature	D051437
+19642243	170	180	vancomycin	ChemicalEntity	D014640
+19642243	194	202	patients	OrganismTaxon	9606
+19642243	222	251	tenofovir disoproxil fumarate	ChemicalEntity	D000068698
+19642243	290	299	Tenofovir	ChemicalEntity	D000068698
+19642243	342	358	Fanconi syndrome	DiseaseOrPhenotypicFeature	D005198
+19642243	363	382	renal insufficiency	DiseaseOrPhenotypicFeature	D051437
+19642243	436	446	Vancomycin	ChemicalEntity	D014640
+19642243	447	461	nephrotoxicity	DiseaseOrPhenotypicFeature	D007674
+19642243	520	531	nephrotoxic	DiseaseOrPhenotypicFeature	D007674
+19642243	571	580	tenofovir	ChemicalEntity	D000068698
+19642243	603	616	renal failure	DiseaseOrPhenotypicFeature	D051437
+19642243	652	662	vancomycin	ChemicalEntity	D014640
+19642243	Positive_Correlation	D014640	D051437	No
+19642243	Negative_Correlation	D010019	D014640	No
+19642243	Positive_Correlation	D000068698	D005198	No
+19642243	Positive_Correlation	D000068698	D051437	Novel
+19642243	Drug_Interaction	D000068698	D014640	Novel
+19642243	Positive_Correlation	D000068698	D058186	No

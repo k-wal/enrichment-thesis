@@ -1,0 +1,92 @@
+22303482|t|TBX21 and HLX1 polymorphisms influence cytokine secretion at birth.
+22303482|a|BACKGROUND: TBX21 (T cell specific T-box transcription factor) and HLX1 (H.20-like homeobox 1) are crucial transcription factors of T(H)1-cells, inducing their differentiation and suppressing T(H)2 commitment, particularly important for early life immune development. This study investigated the influence of TBX21 and HLX1 single nucleotide polymorphisms (SNPs), which have previously been shown to be associated with asthma, on T(H)1/T(H)2 lineage cytokines at birth. METHODS AND FINDINGS: Cord blood mononuclear cells (CBMCs) of 200 neonates were genotyped for two TBX21 and three HLX1 SNPs. CBMCs were stimulated with innate (Lipid A, LpA; Peptidoglycan, Ppg), adaptive stimuli (house dust mite Dermatophagoides pteronyssinus 1, Derp1) or mitogen (phytohemagglutinin, PHA). Cytokines, T-cells and mRNA expression of T(H)1/T(H)2-related genes were assessed. Atopic diseases during the first 3 years of life were assessed by questionnaire answered by the parents. Carriers of TBX21 promoter SNP rs17250932 and HLX1 promoter SNP rs2738751 showed reduced or trendwise reduced (p<0.07) IL-5, IL-13 and TNF-a secretion after LpA-stimulation. Carriers of HLX1 SNP rs2738751 had lower IL-13 levels following Ppg-stimulation (p = 0.08). Carriers of HLX1 exon 1 SNP rs12141189 showed increased IL-5 (LpA, p = 0.007; Ppg, p = 0.10), trendwise increased IL-13 (LpA), higher GM-CSF (LpA/Ppg, p<0.05) and trendwise decreased IFN-g secretion (Derp1+LpA-stimulation, p = 0.1). Homozygous carriers of HLX1 promoter SNP rs3806325 showed increased IL-13 and IL-6 (unstimulated, p<0.03). In carriers of TBX21 intron 3 SNP rs11079788 no differences in cytokine secretion were observed. mRNA expression of T(H)1/T(H)2-related genes partly correlated with cytokines at protein level. TBX21 SNP rs11079788 carriers developed less symptoms of atopic dermatitis at 3 years of age (p = 0.03). CONCLUSIONS: Polymorphisms in TBX21 and HLX1 influenced primarily IL-5 and IL-13 secretion after LpA-stimulation in cord blood suggesting that genetic variations in the transcription factors essential for the T(H)1-pathway may contribute to modified T(H)2-immune responses already early in life. Further follow-up of the cohort is required to study the polymorphisms' relevance for immune-mediated diseases such as childhood asthma.
+22303482	0	5	TBX21	GeneOrGeneProduct	30009
+22303482	10	14	HLX1	GeneOrGeneProduct	3142
+22303482	80	85	TBX21	GeneOrGeneProduct	30009
+22303482	87	129	T cell specific T-box transcription factor	GeneOrGeneProduct	30009
+22303482	135	139	HLX1	GeneOrGeneProduct	3142
+22303482	141	161	H.20-like homeobox 1	GeneOrGeneProduct	3142
+22303482	377	382	TBX21	GeneOrGeneProduct	30009
+22303482	387	391	HLX1	GeneOrGeneProduct	3142
+22303482	487	493	asthma	DiseaseOrPhenotypicFeature	D001249
+22303482	636	641	TBX21	GeneOrGeneProduct	30009
+22303482	652	656	HLX1	GeneOrGeneProduct	3142
+22303482	698	705	Lipid A	ChemicalEntity	D008050
+22303482	707	710	LpA	ChemicalEntity	D008050
+22303482	712	725	Peptidoglycan	ChemicalEntity	D010457
+22303482	727	730	Ppg	ChemicalEntity	D010457
+22303482	767	799	Dermatophagoides pteronyssinus 1	GeneOrGeneProduct	113791973
+22303482	801	806	Derp1	GeneOrGeneProduct	113791973
+22303482	820	838	phytohemagglutinin	ChemicalEntity	D010835
+22303482	840	843	PHA	ChemicalEntity	D010835
+22303482	1046	1051	TBX21	GeneOrGeneProduct	30009
+22303482	1065	1075	rs17250932	SequenceVariant	rs17250932
+22303482	1080	1084	HLX1	GeneOrGeneProduct	3142
+22303482	1098	1107	rs2738751	SequenceVariant	rs2738751
+22303482	1153	1157	IL-5	GeneOrGeneProduct	3567
+22303482	1159	1164	IL-13	GeneOrGeneProduct	3596
+22303482	1169	1174	TNF-a	GeneOrGeneProduct	7124
+22303482	1191	1194	LpA	ChemicalEntity	D008050
+22303482	1220	1224	HLX1	GeneOrGeneProduct	3142
+22303482	1229	1238	rs2738751	SequenceVariant	rs2738751
+22303482	1249	1254	IL-13	GeneOrGeneProduct	3596
+22303482	1272	1275	Ppg	ChemicalEntity	D010457
+22303482	1312	1316	HLX1	GeneOrGeneProduct	3142
+22303482	1328	1338	rs12141189	SequenceVariant	rs12141189
+22303482	1356	1360	IL-5	GeneOrGeneProduct	3567
+22303482	1362	1365	LpA	ChemicalEntity	D008050
+22303482	1378	1381	Ppg	ChemicalEntity	D010457
+22303482	1414	1419	IL-13	GeneOrGeneProduct	3596
+22303482	1421	1424	LpA	ChemicalEntity	D008050
+22303482	1434	1440	GM-CSF	GeneOrGeneProduct	1437
+22303482	1442	1445	LpA	ChemicalEntity	D008050
+22303482	1446	1449	Ppg	ChemicalEntity	D010457
+22303482	1483	1488	IFN-g	GeneOrGeneProduct	3458
+22303482	1500	1505	Derp1	GeneOrGeneProduct	113791973
+22303482	1506	1509	LpA	ChemicalEntity	D008050
+22303482	1556	1560	HLX1	GeneOrGeneProduct	3142
+22303482	1574	1583	rs3806325	SequenceVariant	rs3806325
+22303482	1601	1606	IL-13	GeneOrGeneProduct	3596
+22303482	1611	1615	IL-6	GeneOrGeneProduct	3569
+22303482	1655	1660	TBX21	GeneOrGeneProduct	30009
+22303482	1674	1684	rs11079788	SequenceVariant	rs11079788
+22303482	1833	1838	TBX21	GeneOrGeneProduct	30009
+22303482	1843	1853	rs11079788	SequenceVariant	rs11079788
+22303482	1890	1907	atopic dermatitis	DiseaseOrPhenotypicFeature	D003876
+22303482	1968	1973	TBX21	GeneOrGeneProduct	30009
+22303482	1978	1982	HLX1	GeneOrGeneProduct	3142
+22303482	2004	2008	IL-5	GeneOrGeneProduct	3567
+22303482	2013	2018	IL-13	GeneOrGeneProduct	3596
+22303482	2035	2038	LpA	ChemicalEntity	D008050
+22303482	2320	2344	immune-mediated diseases	DiseaseOrPhenotypicFeature	D007154
+22303482	2363	2369	asthma	DiseaseOrPhenotypicFeature	D001249
+22303482	Negative_Correlation	rs11079788	D003876	Novel
+22303482	Association	rs12141189	D010457	Novel
+22303482	Association	rs12141189	D008050	Novel
+22303482	Association	3458	D008050	No
+22303482	Association	1437	D010457	No
+22303482	Association	1437	D008050	No
+22303482	Association	rs2738751	D010457	Novel
+22303482	Association	rs2738751	D008050	Novel
+22303482	Association	rs17250932	D008050	Novel
+22303482	Association	7124	D008050	Novel
+22303482	Association	3596	D010457	Novel
+22303482	Association	3596	D008050	No
+22303482	Association	3567	D010457	Novel
+22303482	Association	3567	D008050	No
+22303482	Association	3142	3569	Novel
+22303482	Association	3142	113791973	Novel
+22303482	Association	3142	3458	Novel
+22303482	Association	3142	1437	Novel
+22303482	Association	3142	D010457	Novel
+22303482	Association	3142	D008050	Novel
+22303482	Association	3142	7124	Novel
+22303482	Association	3142	3596	Novel
+22303482	Association	3142	3567	Novel
+22303482	Association	3142	D001249	No
+22303482	Association	30009	D003876	Novel
+22303482	Association	30009	D008050	Novel
+22303482	Association	30009	7124	Novel
+22303482	Association	30009	3596	Novel
+22303482	Association	30009	3567	Novel
+22303482	Association	30009	D001249	No

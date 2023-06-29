@@ -1,0 +1,68 @@
+28263519|t|Potential drug-drug interactions among prescriptions for elderly patients in primary health care
+28263519|a|Elderly patients are at high risk from drug-drug interactions (DDIs). This study evaluates the potential DDIs in Turkish elderly patients at a primary health care outpatient clinic. Online database systems were used to examine DDIs on the prescriptions of patients (n = 1206). The clinical severity of DDIs was classified by the Lexi-Interact Online database. Of the 5059 prescriptions, 33% were found to have DDIs. We detected 29 (0.9%) A, 380 (11.8%) B, 2494 (77.7%) C, 289 (9%) D, and 18 (0.6%) X risk rating category DDIs among the prescriptions. Prescriptions of female patients and patients aged between 65 and 72 years showed significantly higher number of DDIs. The frequency of DDIs increased both with the number of drugs and combined preparations per prescription. Acetylsalicylic acid and salbutamol were the most frequently prescribed drugs contributing to clinically important DDIs. Additionally, acetylsalicylic acid and escitalopram, which interact with each other, were found on the list of Beers criteria. The most predicted clinical outcomes of DDIs were increase in therapeutic efficacy and adverse / toxic reactions. Conclusions: Prediction of DDIs in elderly patients will provide better prescribing and drug safety. Use of nonsteroidal anti-inflammatory agents, selective serotonin reuptake inhibitors, and beta-2 adrenergic receptor agonists should be closely monitored.
+28263519	0	9	Potential	T080	C3245505
+28263519	10	32	drug-drug interactions	T044	C0687133
+28263519	39	52	prescriptions	T058	C0033080
+28263519	57	64	elderly	T098	C0001792
+28263519	65	73	patients	T101	C0030705
+28263519	77	96	primary health care	T058	C0033137
+28263519	97	104	Elderly	T098	C0001792
+28263519	105	113	patients	T101	C0030705
+28263519	121	130	high risk	T033	C0332167
+28263519	136	158	drug-drug interactions	T044	C0687133
+28263519	160	164	DDIs	T044	C0687133
+28263519	172	177	study	T062	C2603343
+28263519	178	187	evaluates	T058	C0220825
+28263519	192	201	potential	T080	C3245505
+28263519	202	206	DDIs	T044	C0687133
+28263519	218	225	elderly	T098	C0001792
+28263519	226	234	patients	T101	C0030705
+28263519	240	259	primary health care	T058	C0033137
+28263519	260	277	outpatient clinic	T073,T093	C0029916
+28263519	279	302	Online database systems	T170	C0242356
+28263519	324	328	DDIs	T044	C0687133
+28263519	336	349	prescriptions	T058	C0033080
+28263519	353	361	patients	T101	C0030705
+28263519	378	395	clinical severity	T033	C1836458
+28263519	399	403	DDIs	T044	C0687133
+28263519	426	455	Lexi-Interact Online database	T170	C0242356
+28263519	469	482	prescriptions	T058	C0033080
+28263519	507	511	DDIs	T044	C0687133
+28263519	516	524	detected	T033	C0442726
+28263519	618	622	DDIs	T044	C0687133
+28263519	633	646	prescriptions	T058	C0033080
+28263519	648	661	Prescriptions	T058	C0033080
+28263519	672	680	patients	T101	C0030705
+28263519	685	693	patients	T101	C0030705
+28263519	730	750	significantly higher	T081	C4055637
+28263519	761	765	DDIs	T044	C0687133
+28263519	771	780	frequency	T079	C0205212
+28263519	784	788	DDIs	T044	C0687133
+28263519	789	798	increased	T081	C0205217
+28263519	823	828	drugs	T121	C1254351
+28263519	859	871	prescription	T058	C0033080
+28263519	873	893	Acetylsalicylic acid	T109,T121	C0004057
+28263519	898	908	salbutamol	T109,T121	C0001927
+28263519	923	933	frequently	T079	C0332183
+28263519	934	944	prescribed	T058	C0278329
+28263519	945	950	drugs	T121	C1254351
+28263519	967	987	clinically important	T033	C0243095
+28263519	988	992	DDIs	T044	C0687133
+28263519	1008	1028	acetylsalicylic acid	T109,T121	C0004057
+28263519	1033	1045	escitalopram	T109,T121	C1099456
+28263519	1053	1061	interact	T169	C1704675
+28263519	1105	1119	Beers criteria	T080	C4042847
+28263519	1130	1157	predicted clinical outcomes	T033	C1333602
+28263519	1161	1165	DDIs	T044	C0687133
+28263519	1183	1203	therapeutic efficacy	T080	C2348767
+28263519	1208	1215	adverse	T046	C0559546
+28263519	1218	1233	toxic reactions	T033	C0542243
+28263519	1248	1258	Prediction	T078	C0681842
+28263519	1262	1266	DDIs	T044	C0687133
+28263519	1270	1277	elderly	T098	C0001792
+28263519	1278	1286	patients	T101	C0030705
+28263519	1307	1318	prescribing	T058	C0033080
+28263519	1323	1334	drug safety	T080	C0678800
+28263519	1343	1380	nonsteroidal anti-inflammatory agents	T121	C0003211
+28263519	1382	1421	selective serotonin reuptake inhibitors	T121	C0360105
+28263519	1427	1462	beta-2 adrenergic receptor agonists	T121	C2936789

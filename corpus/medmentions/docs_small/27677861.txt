@@ -1,0 +1,60 @@
+27677861|t|Can diaphragmatic ultrasonography performed during the T-tube trial predict weaning failure? The role of diaphragmatic rapid shallow breathing index
+27677861|a|The rapid shallow breathing index (RSBI), which is the ratio between respiratory rate (RR) and tidal volume (VT), is one of the most widely used indices to predict weaning outcome. Whereas the diaphragm plays a fundamental role in generating VT, in the case of diaphragmatic dysfunction the inspiratory accessory muscles may contribute. If this occurs during a weaning trial, delayed weaning failure is likely since the accessory muscles are more fatigable than the diaphragm. Hence, we hypothesised that the traditional RSBI could be implemented by substituting VT with the ultrasonographic evaluation of diaphragmatic displacement (DD). We named the new index the diaphragmatic - RSBI (D - RSBI). The aim of this study was to compare the ability of the traditional RSBI and D - RSBI to predict weaning failure in ready-to-wean patients. We performed a prospective observational study. During a T-tube spontaneous breathing trial (SBT) we simultaneously evaluated right hemidiaphragm displacement (i.e., DD) by using M-mode ultrasonography as well as the RSBI. Outcome of the weaning attempt, length of mechanical ventilation, length of intensive care unit and hospital stay, and hospital mortality were recorded. Receiver operator characteristic (ROC) curves were used to evaluate the diagnostic accuracy of D - RSBI and RSBI. We enrolled 51 patients requiring mechanical ventilation for more than 48 h who were ready to perform a SBT. Most of the patients, 34 (66 %), were successfully weaned from mechanical ventilation. When considering the 17 patients that failed the weaning attempt, 11 (64 %) had to be reconnected to the ventilator during the SBT, three (18 %) had to be re-intubated within 48 h of extubation, and three (18 %) required non-invasive ventilation support within 48 h of extubation. The areas under the ROC curves for D - RSBI and RSBI were 0.89 and 0.72, respectively (P = 0.006). D - RSBI (RR / DD) was more accurate than traditional RSBI (RR / VT) in predicting the weaning outcome. Our clinical trial was retrospectively registered with ClinicalTrials.gov (identifier: NCT02696018). ClinicalTrials.gov processed our record on 25 February 2016.
+27677861	4	33	diaphragmatic ultrasonography	T058	UMLS:C0041618
+27677861	55	61	T-tube	T074	UMLS:C0175731
+27677861	62	67	trial	T062	UMLS:C0008976
+27677861	76	91	weaning failure	T037	UMLS:C1868713
+27677861	105	118	diaphragmatic	T017	UMLS:C0011980
+27677861	218	234	respiratory rate	T201	UMLS:C0231832
+27677861	236	238	RR	T201	UMLS:C0231832
+27677861	244	256	tidal volume	T033	UMLS:C0040210
+27677861	258	260	VT	T033	UMLS:C0040210
+27677861	313	320	weaning	T058	UMLS:C1112479
+27677861	342	351	diaphragm	T017	UMLS:C0011980
+27677861	391	393	VT	T033	UMLS:C0040210
+27677861	410	435	diaphragmatic dysfunction	T038	UMLS:C0152097
+27677861	440	451	inspiratory	T038	UMLS:C0004048
+27677861	452	469	accessory muscles	T017	UMLS:C0158784
+27677861	510	517	weaning	T058	UMLS:C1112479
+27677861	518	523	trial	T062	UMLS:C0008976
+27677861	533	548	weaning failure	T037	UMLS:C1868713
+27677861	569	586	accessory muscles	T017	UMLS:C0158784
+27677861	615	624	diaphragm	T017	UMLS:C0011980
+27677861	712	714	VT	T033	UMLS:C0040210
+27677861	724	751	ultrasonographic evaluation	T058	UMLS:C0041618
+27677861	805	810	index	T170	UMLS:C0918012
+27677861	815	828	diaphragmatic	T017	UMLS:C0011980
+27677861	837	838	D	T017	UMLS:C0011980
+27677861	864	869	study	T062	UMLS:C2603343
+27677861	925	926	D	T017	UMLS:C0011980
+27677861	945	960	weaning failure	T037	UMLS:C1868713
+27677861	1015	1034	observational study	T062	UMLS:C1518527
+27677861	1045	1051	T-tube	T074	UMLS:C0175731
+27677861	1052	1079	spontaneous breathing trial	T058	UMLS:C1828139
+27677861	1081	1084	SBT	T058	UMLS:C1828139
+27677861	1167	1189	M-mode ultrasonography	T058	UMLS:C0041618
+27677861	1226	1241	weaning attempt	T058	UMLS:C1112479
+27677861	1253	1275	mechanical ventilation	T058	UMLS:C0199470
+27677861	1287	1306	intensive care unit	T092	UMLS:C0021708
+27677861	1459	1460	D	T017	UMLS:C0011980
+27677861	1512	1534	mechanical ventilation	T058	UMLS:C0199470
+27677861	1582	1585	SBT	T058	UMLS:C1828139
+27677861	1650	1672	mechanical ventilation	T058	UMLS:C0199470
+27677861	1723	1738	weaning attempt	T058	UMLS:C1112479
+27677861	1760	1771	reconnected	T058	UMLS:C0087111
+27677861	1779	1789	ventilator	T074	UMLS:C0087153
+27677861	1801	1804	SBT	T058	UMLS:C1828139
+27677861	1829	1841	re-intubated	T058	UMLS:C0087111
+27677861	1857	1867	extubation	T058	UMLS:C0553891
+27677861	1895	1919	non-invasive ventilation	T058	UMLS:C1997883
+27677861	1943	1953	extubation	T058	UMLS:C0553891
+27677861	1959	1964	areas	T082	UMLS:C0205146
+27677861	1990	1991	D	T017	UMLS:C0011980
+27677861	2054	2055	D	T017	UMLS:C0011980
+27677861	2064	2066	RR	T201	UMLS:C0231832
+27677861	2114	2116	RR	T201	UMLS:C0231832
+27677861	2119	2121	VT	T033	UMLS:C0040210
+27677861	2141	2148	weaning	T058	UMLS:C1112479
+27677861	2162	2176	clinical trial	T062	UMLS:C0008976
+27677861	2197	2207	registered	T058	UMLS:C1514821
+27677861	2213	2231	ClinicalTrials.gov	T170	UMLS:C4086204

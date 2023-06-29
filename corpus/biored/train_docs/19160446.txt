@@ -1,0 +1,25 @@
+19160446|t|P2RX7: A bipolar and unipolar disorder candidate susceptibility gene?
+19160446|a|The chromosomal region 12q24 has been previously implicated by linkage studies of both bipolar disorder and unipolar mood disorder and we have reported two pedigrees segregating both bipolar disorder and Darier's disease that show linkage across this region. The gene P2RX7 is located in this chromosomal region and has been recently reported as a susceptibility gene for bipolar disorder and unipolar depression. The non-synonymous SNP rs2230912 (resulting in amino-acid polymorphism Q460R) showed the strongest association and has been postulated to be pathogenically relevant. We have investigated this gene in a large UK case-control sample (bipolar I disorder N = 687, unipolar recurrent major depression N = 1,036, controls N = 1,204). Neither rs2230912 nor any of 8 other SNPs genotyped across P2RX7 was found to be associated with mood disorder in general, nor specifically with bipolar or unipolar disorder. Further, sequencing of our two chromosome 12-linked bipolar-Darier families showed no evidence of rare variants at P2RX7 that could explain the linkage. Our data do not provide support for rs2230912 or the other polymorphisms studied within the P2RX7 locus, being involved in susceptibility to mood disorders.
+19160446	0	5	P2RX7	GeneOrGeneProduct	5027
+19160446	9	38	bipolar and unipolar disorder	DiseaseOrPhenotypicFeature	D001714,D003866
+19160446	157	173	bipolar disorder	DiseaseOrPhenotypicFeature	D001714
+19160446	178	200	unipolar mood disorder	DiseaseOrPhenotypicFeature	D003866,D019964
+19160446	253	269	bipolar disorder	DiseaseOrPhenotypicFeature	D001714
+19160446	274	290	Darier's disease	DiseaseOrPhenotypicFeature	D007644
+19160446	338	343	P2RX7	GeneOrGeneProduct	5027
+19160446	442	458	bipolar disorder	DiseaseOrPhenotypicFeature	D001714
+19160446	463	482	unipolar depression	DiseaseOrPhenotypicFeature	D003866
+19160446	507	516	rs2230912	SequenceVariant	rs2230912
+19160446	555	560	Q460R	SequenceVariant	rs2230912
+19160446	716	734	bipolar I disorder	DiseaseOrPhenotypicFeature	D001714
+19160446	744	779	unipolar recurrent major depression	DiseaseOrPhenotypicFeature	D003865
+19160446	820	829	rs2230912	SequenceVariant	rs2230912
+19160446	871	876	P2RX7	GeneOrGeneProduct	5027
+19160446	909	922	mood disorder	DiseaseOrPhenotypicFeature	D019964
+19160446	957	985	bipolar or unipolar disorder	DiseaseOrPhenotypicFeature	D001714,D003866
+19160446	1102	1107	P2RX7	GeneOrGeneProduct	5027
+19160446	1176	1185	rs2230912	SequenceVariant	rs2230912
+19160446	1232	1237	P2RX7	GeneOrGeneProduct	5027
+19160446	1281	1295	mood disorders	DiseaseOrPhenotypicFeature	D019964
+19160446	Association	5027	D003866	No
+19160446	Association	5027	D001714	No

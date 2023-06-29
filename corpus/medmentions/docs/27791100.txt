@@ -1,0 +1,111 @@
+27791100|t|F901318 represents a novel class of antifungal drug that inhibits dihydroorotate dehydrogenase
+27791100|a|There is an important medical need for new antifungal agents with novel mechanisms of action to treat the increasing number of patients with life-threatening systemic fungal disease and to overcome the growing problem of resistance to current therapies. F901318, the leading representative of a novel class of drug, the orotomides, is an antifungal drug in clinical development that demonstrates excellent potency against a broad range of dimorphic and filamentous fungi. In vitro susceptibility testing of F901318 against more than 100 strains from the four main pathogenic Aspergillus spp. revealed minimal inhibitory concentrations of ≤0.06 µg/mL- greater potency than the leading antifungal classes. An investigation into the mechanism of action of F901318 found that it acts via inhibition of the pyrimidine biosynthesis enzyme dihydroorotate dehydrogenase (DHODH) in a fungal - specific manner. Homology modeling of Aspergillus fumigatus DHODH has identified a predicted binding mode of the inhibitor and important interacting amino acid residues. In a murine pulmonary model of aspergillosis, F901318 displays in vivo efficacy against a strain of A. fumigatus sensitive to the azole class of antifungals and a strain displaying an azole - resistant phenotype. F901318 is currently in late Phase 1 clinical trials, offering hope that the antifungal armamentarium can be expanded to include a class of agent with a mechanism of action distinct from currently marketed antifungals.
+27791100	0	7	F901318	T109,T121	C3896862
+27791100	8	18	represents	T052	C1882932
+27791100	21	26	novel	T080	C0205314
+27791100	27	32	class	T170	C0456387
+27791100	36	51	antifungal drug	T121	C0003308
+27791100	57	65	inhibits	T052	C3463820
+27791100	66	94	dihydroorotate dehydrogenase	T116,T126	C0058099
+27791100	107	116	important	T080	C3898777
+27791100	117	124	medical	T169	C0205476
+27791100	134	137	new	T080	C0205314
+27791100	138	155	antifungal agents	T121	C0003308
+27791100	161	166	novel	T080	C0205314
+27791100	167	177	mechanisms	T169	C0441712
+27791100	181	187	action	T169	C0441472
+27791100	191	196	treat	T061	C0087111
+27791100	201	211	increasing	T169	C0442808
+27791100	212	230	number of patients	T033	C2360800
+27791100	236	252	life-threatening	T033	C2826244
+27791100	253	276	systemic fungal disease	T047	C0553576
+27791100	284	292	overcome	T052	C2983310
+27791100	305	312	problem	T033	C0033213
+27791100	316	326	resistance	T039	C1514892
+27791100	330	347	current therapies	T061	C2827774
+27791100	349	356	F901318	T109,T121	C3896862
+27791100	370	384	representative	T052	C1882932
+27791100	390	395	novel	T080	C0205314
+27791100	396	401	class	T170	C0456387
+27791100	405	409	drug	T121	C1254351
+27791100	415	425	orotomides	T121	C1254351
+27791100	433	448	antifungal drug	T121	C0003308
+27791100	452	472	clinical development	T062	C1512068
+27791100	478	490	demonstrates	T052	C3687625
+27791100	491	508	excellent potency	T121	C1656349
+27791100	509	516	against	T080	C0521124
+27791100	525	530	range	T081	C1514721
+27791100	534	543	dimorphic	T004	C1562222
+27791100	548	565	filamentous fungi	T004	C0369241
+27791100	567	575	In vitro	T080	C1533691
+27791100	576	598	susceptibility testing	T059	C0806957
+27791100	602	609	F901318	T109,T121	C3896862
+27791100	610	617	against	T080	C0521124
+27791100	632	639	strains	T001	C1518614
+27791100	654	658	main	T080	C1542147
+27791100	659	669	pathogenic	T001	C0450254
+27791100	670	685	Aspergillus spp	T004	C0004034
+27791100	687	695	revealed	T080	C0443289
+27791100	696	729	minimal inhibitory concentrations	T034	C1304747
+27791100	746	761	greater potency	T121	C1656349
+27791100	779	789	antifungal	T195	C0003235
+27791100	790	797	classes	T170	C0456387
+27791100	802	815	investigation	T058	C0220825
+27791100	825	834	mechanism	T169	C0441712
+27791100	838	844	action	T052	C3266814
+27791100	848	855	F901318	T109,T121	C3896862
+27791100	879	889	inhibition	T052	C3463820
+27791100	897	907	pyrimidine	T114,T123	C0034289
+27791100	908	920	biosynthesis	T169	C0005572
+27791100	921	956	enzyme dihydroorotate dehydrogenase	T116,T126	C0058099
+27791100	958	963	DHODH	T116,T126	C0058099
+27791100	970	976	fungal	T004	C0016832
+27791100	979	987	specific	T080	C0205369
+27791100	988	994	manner	T078	C3266812
+27791100	996	1013	Homology modeling	T063	C1512489
+27791100	1017	1038	Aspergillus fumigatus	T004	C0004037
+27791100	1039	1044	DHODH	T116,T126	C0058099
+27791100	1049	1059	identified	T080	C0205396
+27791100	1062	1071	predicted	T078	C0681842
+27791100	1072	1079	binding	T052	C1145667
+27791100	1080	1084	mode	T169	C1513371
+27791100	1092	1101	inhibitor	T052	C3463820
+27791100	1106	1115	important	T080	C3898777
+27791100	1116	1127	interacting	T169	C1704675
+27791100	1128	1147	amino acid residues	T116,T121,T123	C0002520
+27791100	1154	1160	murine	T015	C0026809
+27791100	1161	1170	pulmonary	T023	C0024109
+27791100	1171	1176	model	T075	C0026339
+27791100	1180	1193	aspergillosis	T047	C0004030
+27791100	1195	1202	F901318	T109,T121	C3896862
+27791100	1203	1211	displays	T169	C0870432
+27791100	1212	1219	in vivo	T082	C1515655
+27791100	1220	1228	efficacy	T080	C1280519
+27791100	1229	1236	against	T080	C0521124
+27791100	1239	1245	strain	T001	C1518614
+27791100	1249	1261	A. fumigatus	T004	C0004037
+27791100	1262	1271	sensitive	T169	C0332324
+27791100	1279	1284	azole	T109	C0004504
+27791100	1285	1290	class	T170	C0456387
+27791100	1294	1305	antifungals	T195	C0003235
+27791100	1312	1318	strain	T001	C1518614
+27791100	1319	1329	displaying	T169	C0870432
+27791100	1333	1338	azole	T109	C0004504
+27791100	1341	1350	resistant	T169	C0332325
+27791100	1351	1360	phenotype	T032	C0031437
+27791100	1362	1369	F901318	T109,T121	C3896862
+27791100	1373	1382	currently	T079	C0521116
+27791100	1386	1390	late	T079	C0205087
+27791100	1391	1398	Phase 1	T079	C0439559
+27791100	1399	1414	clinical trials	T062	C0008976
+27791100	1439	1449	antifungal	T195	C0003235
+27791100	1450	1463	armamentarium	T169	C0449851
+27791100	1471	1479	expanded	T082	C0205229
+27791100	1483	1490	include	T052	C2700399
+27791100	1493	1498	class	T170	C0456387
+27791100	1502	1507	agent	T121	C0003308
+27791100	1515	1524	mechanism	T169	C0441712
+27791100	1528	1534	action	T169	C0441472
+27791100	1535	1543	distinct	T080	C1705242
+27791100	1549	1558	currently	T079	C0521116
+27791100	1568	1579	antifungals	T195	C0003235

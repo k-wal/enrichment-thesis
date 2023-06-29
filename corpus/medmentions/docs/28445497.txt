@@ -1,0 +1,123 @@
+28445497|t|Prostaglandin E2 produced following infection with Theiler's virus promotes the pathogenesis of demyelinating disease
+28445497|a|Infection of various cells with Theiler's murine encephalomyelitis virus (TMEV) activates the TLR - and melanoma differentiation-associated gene 5 (MDA5)-dependent pathways, resulting in the production of IL-1β via the activation of caspase-1 upon assembly of the node-like receptor protein 3 (NLRP3) inflammasome. The role of IL-1β in the pathogenesis of TMEV - induced demyelinating disease was previously investigated. However, the signaling effects of prostaglandin E2 (PGE2) downstream of the NLRP3 inflammasome on the immune responses to viral determinants and the pathogenesis of demyelinating disease are unknown. In this study, we investigated the levels of intermediate molecules leading to PGE2 signaling and the effects of blocking PGE2 signaling on the immune response to TMEV infection, viral persistence and the development of demyelinating disease. We demonstrate here that TMEV infection activates the NLRP3 inflammasome and PGE2 signaling much more vigorously in dendritic cells (DCs) and CD11b+ cells from susceptible SJL mice than in cells from resistant B6 mice. Inhibition of virus - induced PGE2 signaling using AH23848 resulted in decreased pathogenesis of demyelinating disease and viral loads in the central nervous system (CNS). In addition, AH23848 treatment caused the elevation of protective early IFN-γ - producing CD4+ and CD8+ T cell responses. Because the levels of IFN-β were lower in AH23848 - treated mice but the level of IL-6 was similar, over-production of pathogenic IFN-β was modulated and the generation of IFN-γ - producing T cell responses was enhanced by the inhibition of PGE2 signaling. These results strongly suggest that excessive activation of the NLRP3 inflammasome and downstream PGE2 signaling contribute to the pathogenesis of TMEV - induced demyelinating disease.
+28445497	0	16	Prostaglandin E2	T109	C3813211
+28445497	36	45	infection	T046	C3714514
+28445497	51	66	Theiler's virus	T005	C0206425
+28445497	67	75	promotes	T052	C0033414
+28445497	80	92	pathogenesis	T046	C0699748
+28445497	96	117	demyelinating disease	T047	C0011303
+28445497	118	127	Infection	T046	C3714514
+28445497	139	144	cells	T025	C0007634
+28445497	150	190	Theiler's murine encephalomyelitis virus	T005	C0206425
+28445497	192	196	TMEV	T005	C0206425
+28445497	198	207	activates	T044	C1148560
+28445497	212	215	TLR	T116,T192	C0670896
+28445497	222	290	melanoma differentiation-associated gene 5 (MDA5)-dependent pathways	T044	C3271892
+28445497	292	304	resulting in	T169	C0332294
+28445497	309	319	production	T043	C0007613
+28445497	323	328	IL-1β	T116,T129	C0021753
+28445497	337	347	activation	T044	C0014429
+28445497	351	360	caspase-1	T116,T126	C0534519
+28445497	366	431	assembly of the node-like receptor protein 3 (NLRP3) inflammasome	T044	C3272079
+28445497	445	450	IL-1β	T116,T129	C0021753
+28445497	458	470	pathogenesis	T046	C0699748
+28445497	474	478	TMEV	T005	C0206425
+28445497	481	488	induced	T169	C0205263
+28445497	489	510	demyelinating disease	T047	C0011303
+28445497	526	538	investigated	T169	C1292732
+28445497	553	562	signaling	T043	C0037083
+28445497	563	570	effects	T080	C1280500
+28445497	574	590	prostaglandin E2	T109	C3813211
+28445497	592	596	PGE2	T109	C3813211
+28445497	598	608	downstream	T082	C0522506
+28445497	616	634	NLRP3 inflammasome	T026	C3156614
+28445497	642	658	immune responses	T042	C0301872
+28445497	662	667	viral	T005	C0042776
+28445497	668	680	determinants	T129	C0003316
+28445497	689	701	pathogenesis	T046	C0699748
+28445497	705	726	demyelinating disease	T047	C0011303
+28445497	748	753	study	T062	C2603343
+28445497	758	770	investigated	T169	C1292732
+28445497	775	781	levels	T080	C0441889
+28445497	785	797	intermediate	T082	C0205103
+28445497	798	807	molecules	T167	C0567416
+28445497	819	823	PGE2	T109	C3813211
+28445497	824	833	signaling	T043	C0037083
+28445497	842	849	effects	T080	C1280500
+28445497	853	861	blocking	T169	C0332206
+28445497	862	866	PGE2	T109	C3813211
+28445497	867	876	signaling	T043	C0037083
+28445497	884	899	immune response	T042	C0301872
+28445497	903	907	TMEV	T005	C0206425
+28445497	908	917	infection	T046	C3714514
+28445497	919	924	viral	T005	C0042776
+28445497	925	936	persistence	T033	C0243095
+28445497	945	956	development	T169	C1527148
+28445497	960	981	demyelinating disease	T047	C0011303
+28445497	1008	1012	TMEV	T005	C0206425
+28445497	1013	1022	infection	T046	C3714514
+28445497	1023	1032	activates	T044	C1148560
+28445497	1037	1055	NLRP3 inflammasome	T026	C3156614
+28445497	1060	1064	PGE2	T109	C3813211
+28445497	1065	1074	signaling	T043	C0037083
+28445497	1085	1095	vigorously	T080	C1690553
+28445497	1099	1114	dendritic cells	T025	C0011306
+28445497	1116	1119	DCs	T025	C0011306
+28445497	1125	1137	CD11b+ cells	T025	C1267867
+28445497	1143	1154	susceptible	T169	C0231204
+28445497	1155	1163	SJL mice	T015	C1519146
+28445497	1172	1177	cells	T025	C0007634
+28445497	1183	1192	resistant	T169	C0332325
+28445497	1193	1200	B6 mice	T015	C0025929
+28445497	1202	1212	Inhibition	T052	C3463820
+28445497	1216	1221	virus	T005	C0206425
+28445497	1224	1231	induced	T169	C0205263
+28445497	1232	1236	PGE2	T109	C3813211
+28445497	1237	1246	signaling	T043	C0037083
+28445497	1253	1260	AH23848	T109,T121	C0051000
+28445497	1261	1269	resulted	T169	C1274040
+28445497	1273	1282	decreased	T081	C0205216
+28445497	1283	1295	pathogenesis	T046	C0699748
+28445497	1299	1320	demyelinating disease	T047	C0011303
+28445497	1325	1336	viral loads	T033	C0376705
+28445497	1344	1366	central nervous system	T022	C3714787
+28445497	1368	1371	CNS	T022	C3714787
+28445497	1387	1394	AH23848	T109,T121	C0051000
+28445497	1395	1404	treatment	T061	C0087111
+28445497	1416	1425	elevation	T082	C0702240
+28445497	1429	1439	protective	T033	C1545588
+28445497	1446	1451	IFN-γ	T116,T121,T129	C0021745
+28445497	1454	1463	producing	T043	C0007613
+28445497	1464	1468	CD4+	T025	C0039215
+28445497	1473	1484	CD8+ T cell	T025	C0242629
+28445497	1485	1494	responses	T032	C0871261
+28445497	1508	1514	levels	T080	C0441889
+28445497	1518	1523	IFN-β	T116,T121,T129	C0015980
+28445497	1538	1545	AH23848	T109,T121	C0051000
+28445497	1548	1555	treated	T169	C1522326
+28445497	1556	1560	mice	T015	C0025929
+28445497	1578	1582	IL-6	T116,T129	C0021760
+28445497	1596	1611	over-production	T043	C0007613
+28445497	1615	1625	pathogenic	T033	C3816499
+28445497	1626	1631	IFN-β	T116,T121,T129	C0015980
+28445497	1636	1645	modulated	T082	C0443264
+28445497	1654	1664	generation	T052	C3146294
+28445497	1668	1673	IFN-γ	T116,T121,T129	C0021745
+28445497	1676	1685	producing	T043	C0007613
+28445497	1686	1692	T cell	T025	C0039194
+28445497	1693	1702	responses	T032	C0871261
+28445497	1707	1715	enhanced	T052	C2349975
+28445497	1723	1733	inhibition	T052	C3463820
+28445497	1737	1741	PGE2	T109	C3813211
+28445497	1742	1751	signaling	T043	C0037083
+28445497	1759	1766	results	T169	C1274040
+28445497	1789	1798	excessive	T080	C0442802
+28445497	1799	1809	activation	T044	C1148560
+28445497	1817	1835	NLRP3 inflammasome	T026	C3156614
+28445497	1840	1850	downstream	T082	C0522506
+28445497	1851	1855	PGE2	T109	C3813211
+28445497	1856	1865	signaling	T043	C0037083
+28445497	1884	1896	pathogenesis	T046	C0699748
+28445497	1900	1904	TMEV	T005	C0206425
+28445497	1907	1914	induced	T169	C0205263
+28445497	1915	1936	demyelinating disease	T047	C0011303

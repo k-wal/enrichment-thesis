@@ -1,0 +1,121 @@
+27473429|t|Parallel-processing continuous-flow device for optimization - free polymerase chain reaction
+27473429|a|A parallel-processing four-station polymerase chain reaction (PCR) device has been developed, which performs continuous-flow PCR without optimization of the annealing temperature. Since the annealing temperature of each station can be controlled independently, the device covers an annealing temperature range of 50-68 °C, which is wide enough to perform PCR for any DNA fragment regardless of its optimum annealing condition. This arrangement lets us continuously obtain an amplified amount of a DNA fragment at least from one of the stations. The device consists of four identical cylindrical stations (diameter 20 mm, height 55 mm). A polytetrafluoroethylene capillary reactor (length 2 m, I.D. 100 μm, O.D. 400 μm) is wound helically up around each station. The whole assembly is designed to minimize the number of heating blocks (for providing temperatures of denaturation, annealing, and extension) to be seven and to shape a compact cube (height 55 mm, base 60 mm × 60 mm). The reproducibility for continuous-flow PCR is reasonably high (run -to- run and station -to- station relative standard deviation of their amplification is lower than 6 % and about 4 %, respectively). Performance on the optimization - free DNA amplification has been evaluated with four DNA samples with different annealing conditions and product sizes (323, 608, 828, and 1101 bp), which has demonstrated that in all cases, PCR is successful at least on one station. In addition, three DNA fragment s with different lengths (323, 1101, and 2836 bp) have been successfully amplified in a segmented - flow mode without the carry-over contamination between segments. This result suggests that this device could serve as the PCR module of a continuous-flow high-throughput on-line total DNA analysis system integrating all necessary modules from cell lysis / DNA extraction to PCR product analysis.
+27473429	0	19	Parallel-processing	T066	C0597171
+27473429	20	42	continuous-flow device	T074	C0179969
+27473429	47	59	optimization	T052	C2698650
+27473429	62	66	free	T169	C0332296
+27473429	67	92	polymerase chain reaction	T063	C0032520
+27473429	95	114	parallel-processing	T066	C0597171
+27473429	115	153	four-station polymerase chain reaction	T063	C0032520
+27473429	155	158	PCR	T063	C0032520
+27473429	160	166	device	T073	C0699733
+27473429	193	201	performs	T169	C0884358
+27473429	202	217	continuous-flow	T070	C0806140
+27473429	218	221	PCR	T063	C0032520
+27473429	230	242	optimization	T052	C2698650
+27473429	250	259	annealing	T045	C0920681
+27473429	260	271	temperature	T081	C0039476
+27473429	283	292	annealing	T045	C0920681
+27473429	293	304	temperature	T081	C0039476
+27473429	313	320	station	T073	C1883167
+27473429	328	338	controlled	T169	C2587213
+27473429	339	352	independently	T169	C0332291
+27473429	358	364	device	T073	C0699733
+27473429	365	371	covers	T169	C1999244
+27473429	375	384	annealing	T045	C0920681
+27473429	385	396	temperature	T081	C0039476
+27473429	397	402	range	T081	C1514721
+27473429	425	429	wide	T082	C0332464
+27473429	440	447	perform	T169	C0884358
+27473429	448	451	PCR	T063	C0032520
+27473429	460	472	DNA fragment	UnknownType	C0684192
+27473429	491	498	optimum	T080	C2698651
+27473429	499	508	annealing	T045	C0920681
+27473429	509	518	condition	T080	C0348080
+27473429	525	536	arrangement	T169	C0870432
+27473429	545	557	continuously	T078	C0549178
+27473429	558	564	obtain	T169	C1301820
+27473429	568	577	amplified	T067	C1521871
+27473429	578	584	amount	T081	C1265611
+27473429	590	602	DNA fragment	UnknownType	C0684192
+27473429	628	636	stations	T073	C1883167
+27473429	642	648	device	T073	C0699733
+27473429	666	675	identical	T080	C0205280
+27473429	676	687	cylindrical	T082	C0205114
+27473429	688	696	stations	T073	C1883167
+27473429	698	706	diameter	T081	C1301886
+27473429	714	720	height	T032	C0489786
+27473429	731	754	polytetrafluoroethylene	T109,T122	C0032611
+27473429	755	772	capillary reactor	T074	C0376432
+27473429	774	780	length	T081	C1444754
+27473429	815	830	wound helically	T082	C0231467
+27473429	831	833	up	T082	C1282911
+27473429	834	840	around	T078	C0750503
+27473429	846	853	station	T073	C1883167
+27473429	865	873	assembly	T052	C1706853
+27473429	877	885	designed	T052	C1707689
+27473429	889	897	minimize	T080	C1524031
+27473429	902	908	number	T081	C0237753
+27473429	912	926	heating blocks	T074	C0181153
+27473429	932	941	providing	T052	C1999230
+27473429	942	954	temperatures	T081	C0039476
+27473429	958	970	denaturation	T044	C0301642
+27473429	972	981	annealing	T045	C0920681
+27473429	987	996	extension	T169	C0231448
+27473429	1017	1022	shape	T082	C0332479
+27473429	1025	1032	compact	T033	C1333134
+27473429	1033	1037	cube	T082	C1880194
+27473429	1039	1045	height	T032	C0489786
+27473429	1053	1057	base	T081	C1626935
+27473429	1078	1093	reproducibility	T080	C1514863
+27473429	1098	1113	continuous-flow	T070	C0806140
+27473429	1114	1117	PCR	T063	C0032520
+27473429	1132	1136	high	T080	C0205250
+27473429	1138	1141	run	T169	C1704688
+27473429	1147	1150	run	T169	C1704688
+27473429	1155	1162	station	T073	C1883167
+27473429	1168	1175	station	T073	C1883167
+27473429	1185	1203	standard deviation	T081	C0871420
+27473429	1213	1226	amplification	T045	C0683230
+27473429	1275	1286	Performance	T052	C1882330
+27473429	1294	1306	optimization	T052	C2698650
+27473429	1309	1313	free	T169	C0332296
+27473429	1314	1331	DNA amplification	T045	C0683230
+27473429	1341	1350	evaluated	T058	C0220825
+27473429	1361	1372	DNA samples	T026	C0444245
+27473429	1378	1387	different	T080	C1705242
+27473429	1388	1397	annealing	T045	C0920681
+27473429	1398	1408	conditions	T080	C0348080
+27473429	1413	1420	product	T071	C1514468
+27473429	1421	1426	sizes	T082	C0456389
+27473429	1467	1479	demonstrated	T080	C0443289
+27473429	1492	1497	cases	T169	C0868928
+27473429	1499	1502	PCR	T063	C0032520
+27473429	1506	1516	successful	T080	C1272703
+27473429	1533	1540	station	T073	C1883167
+27473429	1545	1553	addition	T169	C0332287
+27473429	1561	1573	DNA fragment	UnknownType	C0684192
+27473429	1581	1590	different	T080	C1705242
+27473429	1591	1598	lengths	T081	C1444754
+27473429	1634	1646	successfully	T080	C1272703
+27473429	1647	1656	amplified	T067	C1521871
+27473429	1662	1671	segmented	T082	C0442059
+27473429	1674	1678	flow	T070	C0806140
+27473429	1679	1683	mode	T169	C1513371
+27473429	1707	1720	contamination	T078	C2349974
+27473429	1729	1737	segments	T082	C0442059
+27473429	1744	1750	result	T169	C1274040
+27473429	1770	1776	device	T073	C0699733
+27473429	1796	1799	PCR	T063	C0032520
+27473429	1800	1806	module	T077	C1709061
+27473429	1812	1827	continuous-flow	T070	C0806140
+27473429	1828	1870	high-throughput on-line total DNA analysis	T060	C0872186
+27473429	1871	1877	system	T169	C0449913
+27473429	1878	1889	integrating	T080	C0205195
+27473429	1904	1911	modules	T077	C1709061
+27473429	1917	1921	cell	T025	C0007634
+27473429	1922	1927	lysis	T046	C0024348
+27473429	1930	1944	DNA extraction	T063	C3839098
+27473429	1948	1951	PCR	T063	C0032520
+27473429	1952	1959	product	T071	C1514468
+27473429	1960	1968	analysis	T062	C0936012

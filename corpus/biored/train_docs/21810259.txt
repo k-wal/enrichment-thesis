@@ -1,0 +1,86 @@
+21810259|t|HIV-1 Tat activates indoleamine 2,3 dioxygenase in murine organotypic hippocampal slice cultures in a p38 mitogen-activated protein kinase-dependent manner.
+21810259|a|BACKGROUND: We have established that activation of the tryptophan degrading enzyme indoleamine 2,3 dioxygenase (IDO) mediates the switch from cytokine-induced sickness behavior to depressive-like behavior. Because human immunodeficiency virus type 1 (HIV-1) Tat protein causes depressive-like behavior in mice, we investigated its ability to activate IDO in organotypic hippocampal slice cultures (OHSCs) derived from neonatal C57BL/6 mice. METHODS: Depressive-like behavior in C57BL/6J mice was assessed by the forced swim test. Expression of cytokines and IDO mRNA in OHSCs was measured by real-time RT-PCR and cytokine protein was measured by enzyme-linked immunosorbent assays (ELISAs). p38 MAPK phosphorylation was analyzed by western blot. RESULTS: Intracerebroventricular (i.c.v.) administration of Tat (40 ng) induced depressive-like behavior in the absence of sickness. Addition of Tat (40 ng/slice) to the medium of OHSCs induced IDO steady-state mRNA that peaked at 6 h. This effect was potentiated by pretreatment with IFNg. Tat also induced the synthesis and release of TNFa and IL-6 protein in the supernatant of the slices and increased expression of the inducible isoform of nitric oxide synthase (iNOS) and the serotonin transporter (SERT). Tat had no effect on endogenous synthesis of IFNg. To explore the mechanisms of Tat-induced IDO expression, slices were pretreated with the p38 mitogen-activated protein kinase (MAPK) inhibitor SB 202190 for 30 min before Tat treatment. SB 202190 significantly decreased IDO expression induced by Tat, and this effect was accompanied by a reduction of Tat-induced expression of TNFa, IL-6, iNOS and SERT. CONCLUSION: These data establish that Tat induces IDO expression via an IFNg-independent mechanism that depends upon activation of p38 MAPK. Targeting IDO itself or the p38 MAPK signaling pathway could provide a novel therapy for comorbid depressive disorders in HIV-1-infected patients.
+21810259	0	5	HIV-1	OrganismTaxon	11676
+21810259	6	9	Tat	GeneOrGeneProduct	155871
+21810259	20	47	indoleamine 2,3 dioxygenase	GeneOrGeneProduct	15930
+21810259	51	57	murine	OrganismTaxon	10090
+21810259	102	138	p38 mitogen-activated protein kinase	GeneOrGeneProduct	26416
+21810259	212	222	tryptophan	ChemicalEntity	D014364
+21810259	240	267	indoleamine 2,3 dioxygenase	GeneOrGeneProduct	15930
+21810259	269	272	IDO	GeneOrGeneProduct	15930
+21810259	337	347	depressive	DiseaseOrPhenotypicFeature	D000275
+21810259	371	406	human immunodeficiency virus type 1	OrganismTaxon	11676
+21810259	408	413	HIV-1	OrganismTaxon	11676
+21810259	415	418	Tat	GeneOrGeneProduct	155871
+21810259	434	444	depressive	DiseaseOrPhenotypicFeature	D000275
+21810259	462	466	mice	OrganismTaxon	10090
+21810259	508	511	IDO	GeneOrGeneProduct	15930
+21810259	584	591	C57BL/6	CellLine	CVCL_5746
+21810259	592	596	mice	OrganismTaxon	10090
+21810259	607	617	Depressive	DiseaseOrPhenotypicFeature	D000275
+21810259	635	643	C57BL/6J	CellLine	CVCL_5U84
+21810259	644	648	mice	OrganismTaxon	10090
+21810259	715	718	IDO	GeneOrGeneProduct	15930
+21810259	848	856	p38 MAPK	GeneOrGeneProduct	26416
+21810259	963	966	Tat	GeneOrGeneProduct	155871
+21810259	983	993	depressive	DiseaseOrPhenotypicFeature	D000275
+21810259	1048	1051	Tat	GeneOrGeneProduct	155871
+21810259	1097	1100	IDO	GeneOrGeneProduct	15930
+21810259	1188	1192	IFNg	GeneOrGeneProduct	15978
+21810259	1194	1197	Tat	GeneOrGeneProduct	155871
+21810259	1240	1244	TNFa	GeneOrGeneProduct	21926
+21810259	1249	1253	IL-6	GeneOrGeneProduct	16193
+21810259	1327	1369	inducible isoform of nitric oxide synthase	GeneOrGeneProduct	18126
+21810259	1371	1375	iNOS	GeneOrGeneProduct	18126
+21810259	1385	1406	serotonin transporter	GeneOrGeneProduct	15567
+21810259	1408	1412	SERT	GeneOrGeneProduct	15567
+21810259	1415	1418	Tat	GeneOrGeneProduct	155871
+21810259	1460	1464	IFNg	GeneOrGeneProduct	15978
+21810259	1495	1498	Tat	GeneOrGeneProduct	155871
+21810259	1507	1510	IDO	GeneOrGeneProduct	15930
+21810259	1555	1591	p38 mitogen-activated protein kinase	GeneOrGeneProduct	26416
+21810259	1593	1597	MAPK	GeneOrGeneProduct	26416
+21810259	1609	1618	SB 202190	ChemicalEntity	C090942
+21810259	1637	1640	Tat	GeneOrGeneProduct	155871
+21810259	1652	1661	SB 202190	ChemicalEntity	C090942
+21810259	1686	1689	IDO	GeneOrGeneProduct	15930
+21810259	1712	1715	Tat	GeneOrGeneProduct	155871
+21810259	1767	1770	Tat	GeneOrGeneProduct	155871
+21810259	1793	1797	TNFa	GeneOrGeneProduct	21926
+21810259	1799	1803	IL-6	GeneOrGeneProduct	16193
+21810259	1805	1809	iNOS	GeneOrGeneProduct	18126
+21810259	1814	1818	SERT	GeneOrGeneProduct	15567
+21810259	1858	1861	Tat	GeneOrGeneProduct	155871
+21810259	1870	1873	IDO	GeneOrGeneProduct	15930
+21810259	1892	1896	IFNg	GeneOrGeneProduct	15978
+21810259	1951	1959	p38 MAPK	GeneOrGeneProduct	26416
+21810259	1971	1974	IDO	GeneOrGeneProduct	3620
+21810259	1989	1997	p38 MAPK	GeneOrGeneProduct	26416
+21810259	2059	2079	depressive disorders	DiseaseOrPhenotypicFeature	D000275
+21810259	2083	2097	HIV-1-infected	DiseaseOrPhenotypicFeature	D015658
+21810259	2098	2106	patients	OrganismTaxon	9606
+21810259	Association	3620	D015658	Novel
+21810259	Association	3620	D000275	Novel
+21810259	Association	D014364	15930	No
+21810259	Association	D014364	D000275	No
+21810259	Association	15978	26416	Novel
+21810259	Association	15930	15978	Novel
+21810259	Association	15930	26416	Novel
+21810259	Association	15930	D000275	No
+21810259	Positive_Correlation	15930	155871	Novel
+21810259	Negative_Correlation	C090942	15567	Novel
+21810259	Negative_Correlation	C090942	18126	Novel
+21810259	Negative_Correlation	C090942	16193	Novel
+21810259	Negative_Correlation	C090942	21926	Novel
+21810259	Negative_Correlation	C090942	15930	Novel
+21810259	Negative_Correlation	C090942	155871	Novel
+21810259	Association	26416	D015658	Novel
+21810259	Negative_Correlation	26416	C090942	No
+21810259	Association	26416	D000275	Novel
+21810259	Association	155871	15978	Novel
+21810259	Positive_Correlation	155871	15567	No
+21810259	Positive_Correlation	155871	18126	No
+21810259	Positive_Correlation	155871	16193	No
+21810259	Positive_Correlation	155871	21926	No
+21810259	Association	155871	26416	Novel
+21810259	Positive_Correlation	155871	D000275	No

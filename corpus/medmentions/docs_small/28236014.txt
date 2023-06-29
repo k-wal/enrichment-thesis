@@ -1,0 +1,40 @@
+28236014|t|The SmartOR: a distributed sensor network to improve operating room efficiency
+28236014|a|Despite the significant expense of OR time, best practice achieves only 70% efficiency. Compounding this problem is a lack of real-time data. Most current OR utilization programs require manual data entry. Automated systems require installation and maintenance of expensive tracking hardware throughout the institution. This study developed an inexpensive, automated OR utilization system and analyzed data from multiple operating rooms. OR activity was deconstructed into four room states. A sensor network was then developed to automatically capture these states using only three sensors, a local wireless network, and a data capture computer. Two systems were then installed into two ORs, recordings captured 24/7. The SmartOR recorded the following events: any room activity, patient entry/exit time, anesthesia time, laparoscopy time, room turnover time, and time of preoperative patient identification by the surgeon. From November 2014 to December 2015, data on 1003 cases were collected. The mean turnover time was 36 min, and 38% of cases met the institutional goal of ≤30 min. Data analysis also identified outlier cases (>1 SD from mean) in the domains of time from patient entry into the OR to intubation (11% of cases) and time from extubation to patient exiting the OR (11% of cases). Time from surgeon identification of patient to scheduled procedure start time was 11 min (institution bylaws require 20 min before scheduled start time), yet OR teams required 22 min on average to bring a patient into the room after surgeon identification. The SmartOR automatically and reliably captures data on OR room state and, in real time, identifies outlier cases that may be examined closer to improve efficiency. As no manual entry is required, the data are indisputable and allow OR teams to maintain a patient -centric focus.
+28236014	45	52	improve	T033	UMLS:C0184511
+28236014	53	67	operating room	T092	UMLS:C0029064
+28236014	114	116	OR	T092	UMLS:C0029064
+28236014	234	236	OR	T092	UMLS:C0029064
+28236014	273	283	data entry	T170	UMLS:C1705654
+28236014	353	370	tracking hardware	T074	UMLS:C0025080
+28236014	386	397	institution	T092	UMLS:C0018704
+28236014	404	409	study	T062	UMLS:C2603343
+28236014	446	448	OR	T092	UMLS:C0029064
+28236014	472	480	analyzed	T062	UMLS:C0936012
+28236014	500	515	operating rooms	T092	UMLS:C0029064
+28236014	517	519	OR	T092	UMLS:C0029064
+28236014	557	561	room	T092	UMLS:C0029064
+28236014	672	677	local	T082	UMLS:C0205276
+28236014	702	714	data capture	T062	UMLS:C0010995
+28236014	766	769	ORs	T092	UMLS:C0029064
+28236014	844	848	room	T092	UMLS:C0029064
+28236014	901	912	laparoscopy	T058	UMLS:C0031150
+28236014	919	923	room	T092	UMLS:C0029064
+28236014	972	986	identification	T038	UMLS:C0020792
+28236014	994	1001	surgeon	T097	UMLS:C0582175
+28236014	1135	1148	institutional	T092	UMLS:C0018704
+28236014	1185	1195	identified	T038	UMLS:C0020792
+28236014	1279	1281	OR	T092	UMLS:C0029064
+28236014	1285	1295	intubation	T058	UMLS:C0021925
+28236014	1325	1335	extubation	T058	UMLS:C0553891
+28236014	1359	1361	OR	T092	UMLS:C0029064
+28236014	1388	1395	surgeon	T097	UMLS:C0582175
+28236014	1396	1410	identification	T038	UMLS:C0020792
+28236014	1468	1479	institution	T092	UMLS:C0018704
+28236014	1480	1486	bylaws	T170	UMLS:C0006540
+28236014	1600	1604	room	T092	UMLS:C0029064
+28236014	1611	1618	surgeon	T097	UMLS:C0582175
+28236014	1619	1633	identification	T038	UMLS:C0020792
+28236014	1691	1693	OR	T092	UMLS:C0029064
+28236014	1694	1698	room	T092	UMLS:C0029064
+28236014	1761	1769	examined	T033	UMLS:C0332128
+28236014	1780	1787	improve	T033	UMLS:C0184511

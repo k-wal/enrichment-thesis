@@ -1,0 +1,58 @@
+28366632|t|Inhibition of N-glycan processing modulates the network of EDEM3 interactors
+28366632|a|We present here data on EDEM3 network of ER resident interactors and the changes induced upon this network by perturbing the early ER N-glycan processing with mannosidase and glucosidase inhibitors. By coupling immunoprecipitation with mass spectrometry we identified EDEM3 interactors and assigned statistical significance to those most abundant ER - residents that might form functional complexes with EDEM3. We further show that this ER interaction network changes in both content and abundance upon treatment with kifunensine (kif) and N-butyldeoxynojirimycin (NB-DNJ) which suggests that when interfering with the N-glycan processing pathway, the functional complexes involving EDEM3 adapt to maintain the cellular homeostasis. In order to increase the scope of EDEM3 network contenders, the set of MS identified species was further supplemented with putative interactors derived from in silico simulations performed with STRING. Finally, the most interesting candidates to this network were further validated by immunoprecipitation coupled with Western Blotting, which strengthened the confidence in the inferred interactions. The data corroborated herein suggest that besides ER residents, EDEM3 interacts also with proteins involved in the ERAD cargo recognition and targeting to degradation translocation into the cytosol, including UBA1 and UBA2 ubiquitinating enzymes. In addition, the results indicate that this network of EDEM3 interactors is highly sensitive to interfering with early ER N-glycan processing.
+28366632	14	33	N-glycan processing	T038	UMLS:C1157446
+28366632	34	43	modulates	T082	UMLS:C0443264
+28366632	59	64	EDEM3	T103	UMLS:C3493010
+28366632	65	76	interactors	T103	UMLS:C0033684
+28366632	101	106	EDEM3	T103	UMLS:C3493010
+28366632	118	120	ER	T017	UMLS:C0014239
+28366632	121	141	resident interactors	T103	UMLS:C0033684
+28366632	208	210	ER	T017	UMLS:C0014239
+28366632	211	230	N-glycan processing	T038	UMLS:C1157446
+28366632	236	247	mannosidase	T103	UMLS:C0024746
+28366632	252	263	glucosidase	T103	UMLS:C0017764
+28366632	264	274	inhibitors	T103	UMLS:C0014432
+28366632	288	307	immunoprecipitation	T058	UMLS:C0021069
+28366632	313	330	mass spectrometry	T058	UMLS:C0037813
+28366632	345	350	EDEM3	T103	UMLS:C3493010
+28366632	351	362	interactors	T103	UMLS:C0033684
+28366632	424	426	ER	T017	UMLS:C0014239
+28366632	429	438	residents	T103	UMLS:C0033684
+28366632	466	475	complexes	T103	UMLS:C1180347
+28366632	481	486	EDEM3	T103	UMLS:C3493010
+28366632	514	516	ER	T017	UMLS:C0014239
+28366632	580	589	treatment	T058	UMLS:C0087111
+28366632	595	606	kifunensine	T103	UMLS:C0083136
+28366632	608	611	kif	T103	UMLS:C0083136
+28366632	617	640	N-butyldeoxynojirimycin	T103	UMLS:C1321596
+28366632	642	648	NB-DNJ	T103	UMLS:C1321596
+28366632	696	715	N-glycan processing	T038	UMLS:C1157446
+28366632	716	723	pathway	T038	UMLS:C1704259
+28366632	760	765	EDEM3	T103	UMLS:C3493010
+28366632	788	808	cellular homeostasis	T038	UMLS:C2244223
+28366632	844	849	EDEM3	T103	UMLS:C3493010
+28366632	858	868	contenders	T098	UMLS:C1257890
+28366632	881	883	MS	T058	UMLS:C0037813
+28366632	895	902	species	T170	UMLS:C1705920
+28366632	933	953	putative interactors	T103	UMLS:C0033684
+28366632	977	988	simulations	T062	UMLS:C0679083
+28366632	1004	1010	STRING	T170	UMLS:C1547402
+28366632	1042	1052	candidates	T098	UMLS:C1257890
+28366632	1095	1114	immunoprecipitation	T058	UMLS:C0021069
+28366632	1128	1144	Western Blotting	T058	UMLS:C0005863
+28366632	1260	1262	ER	T017	UMLS:C0014239
+28366632	1263	1272	residents	T103	UMLS:C0033684
+28366632	1274	1279	EDEM3	T103	UMLS:C3493010
+28366632	1300	1308	proteins	T103	UMLS:C0033684
+28366632	1325	1329	ERAD	T038	UMLS:C3178997
+28366632	1365	1376	degradation	T038	UMLS:C0314674
+28366632	1377	1390	translocation	T038	UMLS:C0599718
+28366632	1400	1407	cytosol	T017	UMLS:C4236623
+28366632	1419	1423	UBA1	T103	UMLS:C0377610
+28366632	1428	1432	UBA2	T103	UMLS:C1306952
+28366632	1433	1447	ubiquitinating	T038	UMLS:C1519751
+28366632	1448	1455	enzymes	T103	UMLS:C0014442
+28366632	1512	1517	EDEM3	T103	UMLS:C3493010
+28366632	1518	1529	interactors	T103	UMLS:C0033684
+28366632	1576	1578	ER	T017	UMLS:C0014239
+28366632	1579	1598	N-glycan processing	T038	UMLS:C1157446

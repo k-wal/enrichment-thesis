@@ -1,0 +1,65 @@
+27896578|t|Is there evidence for a close connection between side of intravesical tumor location and ipsilateral lymphatic spread in lymph node-positive bladder cancer patients at radical cystectomy? Results of the PROMETRICS 2011 database
+27896578|a|To evaluate the possible association between bladder tumor location and the laterality of positive lymph nodes (LN) in a prospectively collected multi-institutional radical cystectomy (RC) series. The study population included 148 node-positive bladder cancer (BC) patients undergoing RC and pelvic lymph node dissection in 2011 without neoadjuvant chemotherapy and without distant metastasis. Tumor location was classified as right, left or bilateral and compared to the laterality of positive pelvic LN. A logistic regression model was used to identify predictors of ipsilaterality of lymphatic spread. Using multivariate Cox regression analyses (median follow-up: 25 months), the effect of the laterality of positive LN on cancer-specific mortality (CSM) was estimated. Overall, median 18.5 LN [interquartile range (IQR), 11-27] were removed and 3 LN (IQR 1-5) were positive. There was concordance of tumor location and laterality of positive LN in 82% [95% confidence interval (CI), 76-89]. Patients with unilateral tumors (n = 78) harbored exclusively ipsilateral positive LN in 67% (95% CI 56-77). No criteria were found to predict ipsilateral positive LN in patients with unilateral tumors. CSM after 3 years in patients with ipsilateral, contralateral, and bilateral LN metastasis was 41, 67, and 100%, respectively (p = 0.042). However, no significant effect of the laterality of positive pelvic LN on CSM could be confirmed in multivariate analyses. Our prospective cohort showed a concordance of tumor location and laterality of LN metastasis in BC at RC without any predictive criteria and without any influence on CSM. It is debatable, whether these findings may contribute to a more individualized patient management.
+27896578	57	75	intravesical tumor	T038	UMLS:C0005684
+27896578	76	84	location	T082	UMLS:C1515974
+27896578	89	100	ipsilateral	T082	UMLS:C0441989
+27896578	101	110	lymphatic	T022	UMLS:C0024235
+27896578	111	117	spread	T033	UMLS:C1334939
+27896578	121	140	lymph node-positive	T033	UMLS:C0746319
+27896578	141	155	bladder cancer	T038	UMLS:C0005684
+27896578	168	186	radical cystectomy	T058	UMLS:C0194401
+27896578	203	227	PROMETRICS 2011 database	T170	UMLS:C0242356
+27896578	273	286	bladder tumor	T038	UMLS:C0005684
+27896578	287	295	location	T082	UMLS:C1515974
+27896578	318	343	positive lymph nodes (LN)	T033	UMLS:C0746319
+27896578	373	392	multi-institutional	T092	UMLS:C0026738
+27896578	393	411	radical cystectomy	T058	UMLS:C0194401
+27896578	413	415	RC	T058	UMLS:C0194401
+27896578	429	445	study population	T098	UMLS:C2348561
+27896578	459	472	node-positive	T033	UMLS:C0746319
+27896578	473	487	bladder cancer	T038	UMLS:C0005684
+27896578	489	491	BC	T038	UMLS:C0005684
+27896578	513	515	RC	T058	UMLS:C0194401
+27896578	520	548	pelvic lymph node dissection	T058	UMLS:C0398429
+27896578	594	620	without distant metastasis	T033	UMLS:C0243095
+27896578	622	627	Tumor	T038	UMLS:C0005684
+27896578	628	636	location	T082	UMLS:C1515974
+27896578	655	660	right	T082	UMLS:C0205090
+27896578	662	666	left	T082	UMLS:C0205091
+27896578	670	679	bilateral	T082	UMLS:C0238767
+27896578	714	732	positive pelvic LN	T033	UMLS:C0746319
+27896578	797	811	ipsilaterality	T082	UMLS:C0441989
+27896578	815	824	lymphatic	T022	UMLS:C0024235
+27896578	825	831	spread	T033	UMLS:C1334939
+27896578	839	875	multivariate Cox regression analyses	T170	UMLS:C0034980
+27896578	884	893	follow-up	T058	UMLS:C1522577
+27896578	939	950	positive LN	T033	UMLS:C0746319
+27896578	1022	1024	LN	T017	UMLS:C0024204
+27896578	1079	1081	LN	T017	UMLS:C0024204
+27896578	1097	1105	positive	T033	UMLS:C1446409
+27896578	1132	1137	tumor	T038	UMLS:C0005684
+27896578	1138	1146	location	T082	UMLS:C1515974
+27896578	1165	1176	positive LN	T033	UMLS:C0746319
+27896578	1237	1247	unilateral	T082	UMLS:C0205092
+27896578	1248	1254	tumors	T038	UMLS:C0005684
+27896578	1285	1296	ipsilateral	T082	UMLS:C0441989
+27896578	1297	1308	positive LN	T033	UMLS:C0746319
+27896578	1366	1377	ipsilateral	T082	UMLS:C0441989
+27896578	1378	1389	positive LN	T033	UMLS:C0746319
+27896578	1407	1417	unilateral	T082	UMLS:C0205092
+27896578	1418	1424	tumors	T038	UMLS:C0005684
+27896578	1461	1472	ipsilateral	T082	UMLS:C0441989
+27896578	1493	1502	bilateral	T082	UMLS:C0238767
+27896578	1503	1505	LN	T017	UMLS:C0024204
+27896578	1506	1516	metastasis	T038	UMLS:C0027627
+27896578	1617	1635	positive pelvic LN	T033	UMLS:C0746319
+27896578	1665	1686	multivariate analyses	T170	UMLS:C0034980
+27896578	1692	1710	prospective cohort	T062	UMLS:C1709709
+27896578	1735	1740	tumor	T038	UMLS:C0005684
+27896578	1741	1749	location	T082	UMLS:C1515974
+27896578	1768	1770	LN	T017	UMLS:C0024204
+27896578	1771	1781	metastasis	T038	UMLS:C0027627
+27896578	1785	1787	BC	T038	UMLS:C0005684
+27896578	1791	1793	RC	T058	UMLS:C0194401
+27896578	1891	1899	findings	T033	UMLS:C0243095
+27896578	1940	1958	patient management	T058	UMLS:C1610129

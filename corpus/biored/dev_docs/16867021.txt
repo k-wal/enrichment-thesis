@@ -1,0 +1,62 @@
+16867021|t|Antipsychotic-like profile of thioperamide, a selective H3-receptor antagonist in mice.
+16867021|a|Experimental and clinical evidence points to a role of central histaminergic system in the pathogenesis of schizophrenia. The present study was designed to study the effect of histamine H(3)-receptor ligands on neuroleptic-induced catalepsy, apomorphine-induced climbing behavior and amphetamine-induced locomotor activities in mice. Catalepsy was induced by haloperidol (2 mg/kg p.o.), while apomorphine (1.5 mg/kg s.c.) and amphetamine (2 mg/kg s.c.) were used for studying climbing behavior and locomotor activities, respectively. (R)-alpha-methylhistamine (RAMH) (5 microg i.c.v.) and thioperamide (THP) (15 mg/kg i.p.), per se did not cause catalepsy. Administration of THP (3.75, 7.5 and 15 mg/kg i.p.) 1 h prior to haloperidol resulted in a dose-dependent increase in the catalepsy times (P < 0.05). However, pretreatment with RAMH significantly reversed such an effect of THP (15 mg/kg i.p.). RAMH per se showed significant reduction in locomotor time, distance traveled and average speed but THP (15 mg/kg i.p.) per se had no effect on these parameters. On amphetamine-induced hyperactivity, THP (3.75 and 7.5 mg/kg i.p.) reduced locomotor time, distance traveled and average speed (P < 0.05). Pretreatment with RAMH (5 microg i.c.v.) could partially reverse such effects of THP (3.75 mg/kg i.p.). Climbing behavior induced by apomorphine was reduced in animals treated with THP. Such an effect was, however, reversed in presence of RAMH. THP exhibited an antipsychotic-like profile by potentiating haloperidol-induced catalepsy, reducing amphetamine-induced hyperactivity and reducing apomorphine-induced climbing in mice. Such effects of THP were reversed by RAMH indicating the involvement of histamine H(3)-receptors. Findings suggest a potential for H(3)-receptor antagonists in improving the refractory cases of schizophrenia.
+16867021	0	13	Antipsychotic	ChemicalEntity	D014150
+16867021	30	42	thioperamide	ChemicalEntity	C052075
+16867021	56	67	H3-receptor	GeneOrGeneProduct	99296
+16867021	82	86	mice	OrganismTaxon	10090
+16867021	195	208	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+16867021	264	287	histamine H(3)-receptor	GeneOrGeneProduct	99296
+16867021	299	310	neuroleptic	ChemicalEntity	D014150
+16867021	319	328	catalepsy	DiseaseOrPhenotypicFeature	D002375
+16867021	330	341	apomorphine	ChemicalEntity	D001058
+16867021	372	383	amphetamine	ChemicalEntity	D000661
+16867021	416	420	mice	OrganismTaxon	10090
+16867021	422	431	Catalepsy	DiseaseOrPhenotypicFeature	D002375
+16867021	447	458	haloperidol	ChemicalEntity	D006220
+16867021	481	492	apomorphine	ChemicalEntity	D001058
+16867021	514	525	amphetamine	ChemicalEntity	D000661
+16867021	622	647	(R)-alpha-methylhistamine	ChemicalEntity	C069357
+16867021	649	653	RAMH	ChemicalEntity	C069357
+16867021	677	689	thioperamide	ChemicalEntity	C052075
+16867021	691	694	THP	ChemicalEntity	C052075
+16867021	734	743	catalepsy	DiseaseOrPhenotypicFeature	D002375
+16867021	763	766	THP	ChemicalEntity	C052075
+16867021	810	821	haloperidol	ChemicalEntity	D006220
+16867021	867	876	catalepsy	DiseaseOrPhenotypicFeature	D002375
+16867021	922	926	RAMH	ChemicalEntity	C069357
+16867021	968	971	THP	ChemicalEntity	C052075
+16867021	989	993	RAMH	ChemicalEntity	C069357
+16867021	1089	1092	THP	ChemicalEntity	C052075
+16867021	1154	1165	amphetamine	ChemicalEntity	D000661
+16867021	1174	1187	hyperactivity	DiseaseOrPhenotypicFeature	D006948
+16867021	1189	1192	THP	ChemicalEntity	C052075
+16867021	1309	1313	RAMH	ChemicalEntity	C069357
+16867021	1372	1375	THP	ChemicalEntity	C052075
+16867021	1424	1435	apomorphine	ChemicalEntity	D001058
+16867021	1472	1475	THP	ChemicalEntity	C052075
+16867021	1530	1534	RAMH	ChemicalEntity	C069357
+16867021	1536	1539	THP	ChemicalEntity	C052075
+16867021	1553	1566	antipsychotic	ChemicalEntity	D014150
+16867021	1596	1607	haloperidol	ChemicalEntity	D006220
+16867021	1616	1625	catalepsy	DiseaseOrPhenotypicFeature	D002375
+16867021	1636	1647	amphetamine	ChemicalEntity	D000661
+16867021	1656	1669	hyperactivity	DiseaseOrPhenotypicFeature	D006948
+16867021	1683	1694	apomorphine	ChemicalEntity	D001058
+16867021	1715	1719	mice	OrganismTaxon	10090
+16867021	1737	1740	THP	ChemicalEntity	C052075
+16867021	1758	1762	RAMH	ChemicalEntity	C069357
+16867021	1793	1817	histamine H(3)-receptors	GeneOrGeneProduct	99296
+16867021	1852	1877	H(3)-receptor antagonists	ChemicalEntity	D054828
+16867021	1915	1928	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+16867021	Negative_Correlation	D054828	D012559	Novel
+16867021	Positive_Correlation	D014150	D002375	No
+16867021	Positive_Correlation	D006220	D002375	No
+16867021	Positive_Correlation	D000661	D006948	No
+16867021	Negative_Correlation	C069357	C052075	Novel
+16867021	Association	C069357	99296	Novel
+16867021	Negative_Correlation	C052075	D001058	Novel
+16867021	Positive_Correlation	C052075	D002375	Novel
+16867021	Positive_Correlation	C052075	D006220	Novel
+16867021	Negative_Correlation	C052075	D006948	Novel
+16867021	Negative_Correlation	C052075	D000661	Novel
+16867021	Negative_Correlation	99296	C052075	Novel

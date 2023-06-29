@@ -1,0 +1,29 @@
+27913358|t|Conformational sampling of a biomolecular rugged energy landscape
+27913358|a|The protein structure refinement using conformational sampling is important in hitherto protein studies. In this paper we examined the protein structure refinement by means of potential energy minimization using immune computing as a method of sampling conformations. The method was tested on the x-ray structure and 30 decoys of the mutant of [Leu]Enkephalin, a paradigmatic example of the biomolecular multiple-minima problem. In order to score the refined conformations, we used a standard potential energy function with the OPLSAA force field. The effectiveness of the search was assessed using a variety of methods. The robustness of sampling was checked by the energy yield function which measures quantitatively the number of the peptide decoys residing in an energetic funnel. Furthermore, the potential energy -dependent Pareto fronts were calculated to elucidate dissimilarities between peptide conformations and the native state as observed by x-ray crystallography. Our results showed that the probed potential energy landscape of [Leu]Enkephalin is self-similar on different metric scales and that the local potential energy minima of the peptide decoys are metastable, thus they can be refined to conformations whose potential energy is decreased by approximately -250 kJ/mol.
+27913358	56	65	landscape	T082	UMLS:C0870781
+27913358	70	87	protein structure	T103	UMLS:C1510464
+27913358	154	161	protein	T103	UMLS:C0033684
+27913358	154	169	protein studies	T062	UMLS:C0242481
+27913358	188	196	examined	T033	UMLS:C0332128
+27913358	201	218	protein structure	T103	UMLS:C1510464
+27913358	278	294	immune computing	T170	UMLS:C0009627
+27913358	300	306	method	T170	UMLS:C0025663
+27913358	319	332	conformations	T082	UMLS:C1518960
+27913358	338	344	method	T170	UMLS:C0025663
+27913358	363	378	x-ray structure	T082	UMLS:C0678594
+27913358	386	392	decoys	T103	UMLS:C0030956
+27913358	400	406	mutant	T038	UMLS:C0596988
+27913358	410	425	[Leu]Enkephalin	T103	UMLS:C4285073
+27913358	457	493	biomolecular multiple-minima problem	T033	UMLS:C0243095
+27913358	525	538	conformations	T082	UMLS:C1518960
+27913358	550	558	standard	T170	UMLS:C0038137
+27913358	594	612	OPLSAA force field	T170	UMLS:C0282574
+27913358	678	685	methods	T170	UMLS:C0025663
+27913358	803	817	peptide decoys	T103	UMLS:C0030956
+27913358	868	909	potential energy -dependent Pareto fronts	T033	UMLS:C0243095
+27913358	963	984	peptide conformations	T082	UMLS:C1518960
+27913358	1021	1042	x-ray crystallography	T058	UMLS:C0206755
+27913358	1096	1105	landscape	T082	UMLS:C0870781
+27913358	1109	1124	[Leu]Enkephalin	T103	UMLS:C4285073
+27913358	1218	1232	peptide decoys	T103	UMLS:C0030956
+27913358	1277	1290	conformations	T082	UMLS:C1518960

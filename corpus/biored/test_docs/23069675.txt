@@ -1,0 +1,71 @@
+23069675|t|Critical role of neuronal pentraxin 1 in mitochondria-mediated hypoxic-ischemic neuronal injury.
+23069675|a|Developing brain is highly susceptible to hypoxic-ischemic (HI) injury leading to severe neurological disabilities in surviving infants and children. Previously, we have reported induction of neuronal pentraxin 1 (NP1), a novel neuronal protein of long-pentraxin family, following HI neuronal injury. Here, we investigated how this specific signal is propagated to cause the HI neuronal death. We used wild-type (WT) and NP1 knockout (NP1-KO) mouse hippocampal cultures, modeled in vitro following exposure to oxygen glucose deprivation (OGD), and in vivo neonatal (P9-10) mouse model of HI brain injury. Our results show induction of NP1 in primary hippocampal neurons following OGD exposure (4-8 h) and in the ipsilateral hippocampal CA1 and CA3 regions at 24-48 h post-HI compared to the contralateral side. We also found increased PTEN activity concurrent with OGD time-dependent (4-8 h) dephosphorylation of Akt (Ser473) and GSK-3b (Ser9). OGD also caused a time-dependent decrease in the phosphorylation of Bad (Ser136), and Bax protein levels. Immunofluorescence staining and subcellular fractionation analyses revealed increased mitochondrial translocation of Bad and Bax proteins from cytoplasm following OGD (4 h) and simultaneously increased release of Cyt C from mitochondria followed by activation of caspase-3. NP1 protein was immunoprecipitated with Bad and Bax proteins; OGD caused increased interactions of NP1 with Bad and Bax, thereby, facilitating their mitochondrial translocation and dissipation of mitochondrial membrane potential (D (m)). This NP1 induction preceded the increased mitochondrial release of cytochrome C (Cyt C) into the cytosol, activation of caspase-3 and OGD time-dependent cell death in WT primary hippocampal neurons. In contrast, in NP1-KO neurons there was no translocation of Bad and Bax from cytosol to the mitochondria, and no evidence of D (m) loss, increased Cyt C release and caspase-3 activation following OGD; which resulted in significantly reduced neuronal death. Our results indicate a regulatory role of NP1 in Bad/Bax-dependent mitochondrial release of Cyt C and caspase-3 activation. Together our findings demonstrate a novel mechanism by which NP1 regulates mitochondria-driven hippocampal cell death; suggesting NP1 as a potential therapeutic target against HI brain injury in neonates.
+23069675	17	37	neuronal pentraxin 1	GeneOrGeneProduct	18164
+23069675	63	95	hypoxic-ischemic neuronal injury	DiseaseOrPhenotypicFeature	D020925
+23069675	139	167	hypoxic-ischemic (HI) injury	DiseaseOrPhenotypicFeature	D020925
+23069675	186	211	neurological disabilities	DiseaseOrPhenotypicFeature	D009461
+23069675	289	309	neuronal pentraxin 1	GeneOrGeneProduct	266777
+23069675	311	314	NP1	GeneOrGeneProduct	266777
+23069675	378	396	HI neuronal injury	DiseaseOrPhenotypicFeature	D020925
+23069675	472	489	HI neuronal death	DiseaseOrPhenotypicFeature	D020925
+23069675	518	521	NP1	GeneOrGeneProduct	18164
+23069675	532	535	NP1	GeneOrGeneProduct	18164
+23069675	540	545	mouse	OrganismTaxon	10090
+23069675	607	613	oxygen	ChemicalEntity	D010100
+23069675	614	621	glucose	ChemicalEntity	D005947
+23069675	670	675	mouse	OrganismTaxon	10090
+23069675	685	700	HI brain injury	DiseaseOrPhenotypicFeature	D020925
+23069675	732	735	NP1	GeneOrGeneProduct	18164
+23069675	833	836	CA1	GeneOrGeneProduct	12346
+23069675	841	844	CA3	GeneOrGeneProduct	12350
+23069675	932	936	PTEN	GeneOrGeneProduct	19211
+23069675	1010	1013	Akt	GeneOrGeneProduct	11651
+23069675	1015	1021	Ser473	SequenceVariant	p|AellelS|473
+23069675	1027	1033	GSK-3b	GeneOrGeneProduct	56637
+23069675	1035	1039	Ser9	SequenceVariant	p|AellelS|9
+23069675	1110	1113	Bad	GeneOrGeneProduct	12015
+23069675	1115	1121	Ser136	SequenceVariant	p|AellelS|136
+23069675	1128	1131	Bax	GeneOrGeneProduct	12028
+23069675	1265	1268	Bad	GeneOrGeneProduct	12015
+23069675	1273	1276	Bax	GeneOrGeneProduct	12028
+23069675	1361	1366	Cyt C	GeneOrGeneProduct	13063
+23069675	1411	1420	caspase-3	GeneOrGeneProduct	12367
+23069675	1422	1425	NP1	GeneOrGeneProduct	18164
+23069675	1462	1465	Bad	GeneOrGeneProduct	12015
+23069675	1470	1473	Bax	GeneOrGeneProduct	12028
+23069675	1521	1524	NP1	GeneOrGeneProduct	18164
+23069675	1530	1533	Bad	GeneOrGeneProduct	12015
+23069675	1538	1541	Bax	GeneOrGeneProduct	12028
+23069675	1665	1668	NP1	GeneOrGeneProduct	18164
+23069675	1727	1739	cytochrome C	GeneOrGeneProduct	13063
+23069675	1741	1746	Cyt C	GeneOrGeneProduct	13063
+23069675	1780	1789	caspase-3	GeneOrGeneProduct	12367
+23069675	1875	1878	NP1	GeneOrGeneProduct	18164
+23069675	1920	1923	Bad	GeneOrGeneProduct	12015
+23069675	1928	1931	Bax	GeneOrGeneProduct	12028
+23069675	2007	2012	Cyt C	GeneOrGeneProduct	13063
+23069675	2025	2034	caspase-3	GeneOrGeneProduct	12367
+23069675	2101	2115	neuronal death	DiseaseOrPhenotypicFeature	D009410
+23069675	2159	2162	NP1	GeneOrGeneProduct	18164
+23069675	2166	2169	Bad	GeneOrGeneProduct	12015
+23069675	2170	2173	Bax	GeneOrGeneProduct	12028
+23069675	2209	2214	Cyt C	GeneOrGeneProduct	13063
+23069675	2219	2228	caspase-3	GeneOrGeneProduct	12367
+23069675	2302	2305	NP1	GeneOrGeneProduct	18164
+23069675	2371	2374	NP1	GeneOrGeneProduct	18164
+23069675	2417	2432	HI brain injury	DiseaseOrPhenotypicFeature	D020925
+23069675	Association	266777	D020925	Novel
+23069675	Association	12367	D009410	Novel
+23069675	Association	13063	D009410	Novel
+23069675	Association	12028	12367	Novel
+23069675	Association	12028	13063	Novel
+23069675	Association	12028	D009410	Novel
+23069675	Association	12015	12367	Novel
+23069675	Association	12015	13063	Novel
+23069675	Association	12015	D009410	Novel
+23069675	Association	19211	56637	Novel
+23069675	Association	19211	11651	Novel
+23069675	Association	18164	D009410	Novel
+23069675	Association	18164	12028	Novel
+23069675	Association	18164	12015	Novel
+23069675	Association	18164	D020925	Novel

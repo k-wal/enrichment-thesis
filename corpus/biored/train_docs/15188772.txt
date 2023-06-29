@@ -1,0 +1,17 @@
+15188772|t|Severe reversible left ventricular systolic and diastolic dysfunction due to accidental iatrogenic epinephrine overdose.
+15188772|a|Catecholamine-induced cardiomyopathy due to chronic excess of endogenous catecholamines has been recognized for decades as a clinical phenomenon. In contrast, reports of myocardial dysfunction due to acute iatrogenic overdose are rare. A 35-year-old woman whose cervix uteri was inadvertently injected with 8 mg of epinephrine developed myocardial stunning that was characterized by severe hemodynamic compromise, profound, albeit transient, left ventricular systolic and diastolic dysfunction, and only modestly elevated biochemical markers of myocardial necrosis. Our case illustrates the serious consequences of medical errors that can be avoided through improved medication labeling and staff supervision.
+15188772	18	69	left ventricular systolic and diastolic dysfunction	DiseaseOrPhenotypicFeature	D018487
+15188772	99	110	epinephrine	ChemicalEntity	D004837
+15188772	121	134	Catecholamine	ChemicalEntity	D002395
+15188772	143	157	cardiomyopathy	DiseaseOrPhenotypicFeature	D009202
+15188772	194	208	catecholamines	ChemicalEntity	D002395
+15188772	291	313	myocardial dysfunction	DiseaseOrPhenotypicFeature	D009202
+15188772	371	376	woman	OrganismTaxon	9606
+15188772	436	447	epinephrine	ChemicalEntity	D004837
+15188772	458	477	myocardial stunning	DiseaseOrPhenotypicFeature	D017682
+15188772	563	614	left ventricular systolic and diastolic dysfunction	DiseaseOrPhenotypicFeature	D018487
+15188772	666	685	myocardial necrosis	DiseaseOrPhenotypicFeature	D009202
+15188772	Positive_Correlation	D002395	D009202	No
+15188772	Positive_Correlation	D009202	D004837	Novel
+15188772	Positive_Correlation	D004837	D017682	Novel
+15188772	Positive_Correlation	D018487	D004837	Novel

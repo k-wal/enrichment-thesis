@@ -1,0 +1,147 @@
+26937641|t|Serum Amyloid A Induces Inflammation, Proliferation and Cell Death in Activated Hepatic Stellate Cells.
+26937641|a|Serum amyloid A (SAA) is an evolutionary highly conserved acute phase protein that is predominantly secreted by hepatocytes. However, its role in liver injury and fibrogenesis has not been elucidated so far. In this study, we determined the effects of SAA on hepatic stellate cells (HSCs), the main fibrogenic cell type of the liver. Serum amyloid A potently activated IkappaB kinase, c-Jun N-terminal kinase (JNK), Erk and Akt and enhanced NF-kappaB-dependent luciferase activity in primary human and rat HSCs. Serum amyloid A induced the transcription of MCP-1, RANTES and MMP9 in an NF-kappaB- and JNK-dependent manner. Blockade of NF-kappaB revealed cytotoxic effects of SAA in primary HSCs with signs of apoptosis such as caspase 3 and PARP cleavage and Annexin V staining. Serum amyloid A induced HSC proliferation, which depended on JNK, Erk and Akt activity. In primary hepatocytes, SAA also activated MAP kinases, but did not induce relevant cell death after NF-kappaB inhibition. In two models of hepatic fibrogenesis, CCl4 treatment and bile duct ligation, hepatic mRNA levels of SAA1 and SAA3 were strongly increased. In conclusion, SAA may modulate fibrogenic responses in the liver in a positive and negative fashion by inducing inflammation, proliferation and cell death in HSCs. 
+26937641	0	15	Serum Amyloid A	GeneOrGeneProduct	20208,20210,6288
+26937641	104	119	Serum amyloid A	GeneOrGeneProduct	20208,20210,6288
+26937641	121	124	SAA	GeneOrGeneProduct	20208,20210,6288
+26937641	250	279	liver injury and fibrogenesis	DiseaseOrPhenotypicFeature	D008107
+26937641	356	359	SAA	GeneOrGeneProduct	20208,20210,6288
+26937641	438	453	Serum amyloid A	GeneOrGeneProduct	20208,20210,6288
+26937641	473	487	IkappaB kinase	GeneOrGeneProduct	84351,9641
+26937641	489	512	c-Jun N-terminal kinase	GeneOrGeneProduct	116554,5599
+26937641	514	517	JNK	GeneOrGeneProduct	116554,5599
+26937641	520	523	Erk	GeneOrGeneProduct	116590,5594
+26937641	528	531	Akt	GeneOrGeneProduct	207,24185
+26937641	545	554	NF-kappaB	GeneOrGeneProduct	4790,81736
+26937641	596	601	human	OrganismTaxon	9606
+26937641	606	609	rat	OrganismTaxon	10116
+26937641	616	631	Serum amyloid A	GeneOrGeneProduct	20208,20210,6288
+26937641	661	666	MCP-1	GeneOrGeneProduct	24770,6347
+26937641	668	674	RANTES	GeneOrGeneProduct	6352,81780
+26937641	679	683	MMP9	GeneOrGeneProduct	4318,81687
+26937641	690	699	NF-kappaB	GeneOrGeneProduct	4790,81736
+26937641	705	708	JNK	GeneOrGeneProduct	116554,5599
+26937641	739	748	NF-kappaB	GeneOrGeneProduct	4790,81736
+26937641	758	767	cytotoxic	DiseaseOrPhenotypicFeature	D064420
+26937641	779	782	SAA	GeneOrGeneProduct	20208,20210,6288
+26937641	831	840	caspase 3	GeneOrGeneProduct	25402,836
+26937641	845	849	PARP	GeneOrGeneProduct	142,25591
+26937641	863	872	Annexin V	GeneOrGeneProduct	25673,308
+26937641	883	898	Serum amyloid A	GeneOrGeneProduct	20208,20210,6288
+26937641	944	947	JNK	GeneOrGeneProduct	116554,5599
+26937641	949	952	Erk	GeneOrGeneProduct	116590,5594
+26937641	957	960	Akt	GeneOrGeneProduct	207,24185
+26937641	995	998	SAA	GeneOrGeneProduct	20208,20210,6288
+26937641	1014	1025	MAP kinases	GeneOrGeneProduct	116554,116590,207,24185,5594,5599
+26937641	1072	1081	NF-kappaB	GeneOrGeneProduct	4790,81736
+26937641	1111	1131	hepatic fibrogenesis	DiseaseOrPhenotypicFeature	D008107
+26937641	1133	1137	CCl4	GeneOrGeneProduct	6351
+26937641	1195	1199	SAA1	GeneOrGeneProduct	20208
+26937641	1204	1208	SAA3	GeneOrGeneProduct	20210
+26937641	1249	1252	SAA	GeneOrGeneProduct	20208,20210,6288
+26937641	Association	6351	D008107	Novel
+26937641	Positive_Correlation	6351	20210	Novel
+26937641	Positive_Correlation	6351	20208	Novel
+26937641	Association	D008107	20210	Novel
+26937641	Association	D008107	20208	Novel
+26937641	Association	81687	5599	Novel
+26937641	Association	81687	116554	Novel
+26937641	Association	81687	81736	Novel
+26937641	Association	81687	4790	Novel
+26937641	Association	4318	5599	Novel
+26937641	Association	4318	116554	Novel
+26937641	Association	4318	81736	Novel
+26937641	Association	4318	4790	Novel
+26937641	Association	81780	5599	Novel
+26937641	Association	81780	116554	Novel
+26937641	Association	81780	81736	Novel
+26937641	Association	81780	4790	Novel
+26937641	Association	6352	5599	Novel
+26937641	Association	6352	116554	Novel
+26937641	Association	6352	81736	Novel
+26937641	Association	6352	4790	Novel
+26937641	Association	6347	5599	Novel
+26937641	Association	6347	116554	Novel
+26937641	Association	6347	81736	Novel
+26937641	Association	6347	4790	Novel
+26937641	Association	24770	5599	Novel
+26937641	Association	24770	116554	Novel
+26937641	Association	24770	81736	Novel
+26937641	Association	24770	4790	Novel
+26937641	Association	81736	308	Novel
+26937641	Association	81736	25673	Novel
+26937641	Association	81736	25591	Novel
+26937641	Association	81736	142	Novel
+26937641	Association	81736	836	Novel
+26937641	Association	81736	25402	Novel
+26937641	Association	81736	6288	Novel
+26937641	Association	81736	20210	Novel
+26937641	Association	81736	20208	Novel
+26937641	Association	4790	308	Novel
+26937641	Association	4790	25673	Novel
+26937641	Association	4790	25591	Novel
+26937641	Association	4790	142	Novel
+26937641	Association	4790	836	Novel
+26937641	Association	4790	25402	Novel
+26937641	Association	4790	6288	Novel
+26937641	Association	4790	20210	Novel
+26937641	Association	4790	20208	Novel
+26937641	Positive_Correlation	6288	9641	Novel
+26937641	Positive_Correlation	6288	84351	Novel
+26937641	Positive_Correlation	6288	5594	Novel
+26937641	Positive_Correlation	6288	116590	Novel
+26937641	Association	6288	308	Novel
+26937641	Association	6288	25673	Novel
+26937641	Association	6288	25591	Novel
+26937641	Association	6288	142	Novel
+26937641	Association	6288	836	Novel
+26937641	Association	6288	25402	Novel
+26937641	Positive_Correlation	6288	5599	Novel
+26937641	Positive_Correlation	6288	116554	Novel
+26937641	Positive_Correlation	6288	81687	Novel
+26937641	Positive_Correlation	6288	4318	Novel
+26937641	Positive_Correlation	6288	81780	Novel
+26937641	Positive_Correlation	6288	6352	Novel
+26937641	Positive_Correlation	6288	6347	Novel
+26937641	Positive_Correlation	6288	24770	Novel
+26937641	Positive_Correlation	6288	24185	Novel
+26937641	Positive_Correlation	6288	207	Novel
+26937641	Positive_Correlation	20210	9641	Novel
+26937641	Positive_Correlation	20210	84351	Novel
+26937641	Positive_Correlation	20210	5594	Novel
+26937641	Positive_Correlation	20210	116590	Novel
+26937641	Association	20210	308	Novel
+26937641	Association	20210	25673	Novel
+26937641	Association	20210	25591	Novel
+26937641	Association	20210	142	Novel
+26937641	Association	20210	836	Novel
+26937641	Association	20210	25402	Novel
+26937641	Positive_Correlation	20210	5599	Novel
+26937641	Positive_Correlation	20210	116554	Novel
+26937641	Positive_Correlation	20210	81687	Novel
+26937641	Positive_Correlation	20210	4318	Novel
+26937641	Positive_Correlation	20210	81780	Novel
+26937641	Positive_Correlation	20210	6352	Novel
+26937641	Positive_Correlation	20210	6347	Novel
+26937641	Positive_Correlation	20210	24770	Novel
+26937641	Positive_Correlation	20210	24185	Novel
+26937641	Positive_Correlation	20210	207	Novel
+26937641	Positive_Correlation	20208	9641	Novel
+26937641	Positive_Correlation	20208	84351	Novel
+26937641	Positive_Correlation	20208	5594	Novel
+26937641	Positive_Correlation	20208	116590	Novel
+26937641	Association	20208	308	Novel
+26937641	Association	20208	25673	Novel
+26937641	Association	20208	25591	Novel
+26937641	Association	20208	142	Novel
+26937641	Association	20208	836	Novel
+26937641	Association	20208	25402	Novel
+26937641	Positive_Correlation	20208	5599	Novel
+26937641	Positive_Correlation	20208	116554	Novel
+26937641	Positive_Correlation	20208	81687	Novel
+26937641	Positive_Correlation	20208	4318	Novel
+26937641	Positive_Correlation	20208	81780	Novel
+26937641	Positive_Correlation	20208	6352	Novel
+26937641	Positive_Correlation	20208	6347	Novel
+26937641	Positive_Correlation	20208	24770	Novel
+26937641	Positive_Correlation	20208	24185	Novel
+26937641	Positive_Correlation	20208	207	Novel

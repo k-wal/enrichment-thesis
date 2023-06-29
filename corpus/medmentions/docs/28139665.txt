@@ -1,0 +1,53 @@
+28139665|t|Vitamin D Receptor Activator Use and Cause-specific Death among dialysis Patients: a Nationwide Cohort Study using Coarsened Exact Matching
+28139665|a|Vitamin D receptor activators (VDRA) may exert pleiotropic effects on cardiovascular disease, malignancy, and infections among dialysis patients, but recent studies have mainly focused on cardiovascular outcomes. Among 8,675 patients who started dialysis in 2007 and who survived until January 1, 2010, listed in the Renal Data Registry of the Japanese Society for Dialysis Therapy, 5,365 VDRA users were matched to 3,203 non-users based on clinically relevant variables at the end of 2009 using the coarsened exact matching procedure. Until December 31, 2011, a total of 1,128 deaths occurred, of which 468 (42%) were cardiovascular deaths, 229 (20%) were infection-related deaths, and 141 (12%) were malignancy-related deaths. Multivariable survival analyses accounting for intra-region correlation revealed that VDRA use was significantly associated with lower rates of infection - and malignancy -related deaths [subhazard ratio 0.62 (95% CI, 0.52-0.73) and 0.70 (95% CI, 0.50-0.97), respectively] but not with cardiovascular death [subhazard ratio 0.86 (95% CI, 0.72-1.04)]. Future randomized clinical trials with a sufficient sample size and an adequate follow-up period are warranted to test the clinical effectiveness of VDRA on infection and malignancy, rather than cardiovascular disease, among dialysis patients.
+28139665	0	28	Vitamin D Receptor Activator	T123	C0574031
+28139665	37	57	Cause-specific Death	T081	C1707318
+28139665	64	72	dialysis	T061	C0011946
+28139665	73	81	Patients	T101	C0030705
+28139665	85	108	Nationwide Cohort Study	T081	C0009247
+28139665	115	139	Coarsened Exact Matching	T081,T170	C0026348
+28139665	140	169	Vitamin D receptor activators	T123	C0574031
+28139665	171	175	VDRA	T123	C0574031
+28139665	187	206	pleiotropic effects	T045	C2936488
+28139665	210	232	cardiovascular disease	T047	C0007222
+28139665	234	244	malignancy	T191	C4282132
+28139665	250	260	infections	T046	C3714514
+28139665	267	275	dialysis	T061	C0011946
+28139665	276	284	patients	T101	C0030705
+28139665	328	351	cardiovascular outcomes	T033	C0679250
+28139665	365	373	patients	T101	C0030705
+28139665	386	394	dialysis	T061	C0011946
+28139665	407	419	who survived	T081	C0038954
+28139665	457	476	Renal Data Registry	T062	C0920631
+28139665	484	500	Japanese Society	T093	C1708333
+28139665	505	521	Dialysis Therapy	T061	C0011946
+28139665	529	533	VDRA	T123	C0574031
+28139665	581	610	clinically relevant variables	T079	C0205563
+28139665	640	674	coarsened exact matching procedure	T081,T170	C0026348
+28139665	718	724	deaths	T081	C0205848
+28139665	759	780	cardiovascular deaths	T046	C0376297
+28139665	797	821	infection-related deaths	T033	C1306577
+28139665	842	867	malignancy-related deaths	T081	C1516192
+28139665	869	900	Multivariable survival analyses	T062	C0038953
+28139665	916	940	intra-region correlation	T080	C1707520
+28139665	955	959	VDRA	T123	C0574031
+28139665	998	1009	lower rates	T081	C1521828
+28139665	1013	1022	infection	T046	C3714514
+28139665	1029	1039	malignancy	T191	C4282132
+28139665	1049	1055	deaths	T081	C0205848
+28139665	1057	1072	subhazard ratio	T081	C2985465
+28139665	1083	1085	CI	T081	C0009667
+28139665	1112	1114	CI	T081	C0009667
+28139665	1155	1175	cardiovascular death	T046	C0376297
+28139665	1177	1192	subhazard ratio	T081	C2985465
+28139665	1203	1205	CI	T081	C0009667
+28139665	1227	1253	randomized clinical trials	T062,T170	C0206034
+28139665	1272	1283	sample size	T081	C0242618
+28139665	1300	1309	follow-up	T058	C1522577
+28139665	1343	1365	clinical effectiveness	T080	C3850123
+28139665	1369	1373	VDRA	T123	C0574031
+28139665	1377	1386	infection	T046	C3714514
+28139665	1391	1401	malignancy	T191	C4282132
+28139665	1415	1437	cardiovascular disease	T047	C0007222
+28139665	1445	1453	dialysis	T061	C0011946
+28139665	1454	1462	patients	T101	C0030705

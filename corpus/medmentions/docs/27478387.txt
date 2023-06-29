@@ -1,0 +1,76 @@
+27478387|t|Amphetamine Withdrawal Differentially Increases the Expression of Organic Cation Transporter 3 and Serotonin Transporter in Limbic Brain Regions
+27478387|a|Amphetamine withdrawal increases anxiety and stress sensitivity related to blunted ventral hippocampus (vHipp) and enhances the central nucleus of the amygdala (CeA) serotonin responses. Extracellular serotonin levels are regulated by the serotonin transporter (SERT) and organic cation transporter 3 (OCT3), and vHipp OCT3 expression is enhanced during 24 hours of amphetamine withdrawal, while SERT expression is unaltered. Here, we tested whether OCT3 and SERT expression in the CeA is also affected during acute withdrawal to explain opposing regional alterations in limbic serotonergic neurotransmission and if respective changes continued with two weeks of withdrawal. We also determined whether changes in transporter expression were confined to these regions. Male rats received amphetamine or saline for two weeks followed by 24 hours or two weeks of withdrawal, with transporter expression measured using Western immunoblot. OCT3 and SERT expression increased in the CeA at both withdrawal timepoints. In the vHipp, OCT3 expression increased only at 24 hours of withdrawal, with an equivalent pattern seen in the dorsomedial hypothalamus. No changes were evident in any other regions sampled. These regionally specific changes in limbic OCT3 and SERT expression may partially contribute to the serotonergic imbalance and negative affect during amphetamine withdrawal.
+27478387	0	22	Amphetamine Withdrawal	T048	C0236665
+27478387	52	62	Expression	T045	C1171362
+27478387	66	94	Organic Cation Transporter 3	T116,T123	C1453697
+27478387	99	120	Serotonin Transporter	T116,T123	C0170657
+27478387	124	130	Limbic	T022	C0023715
+27478387	131	144	Brain Regions	T023	C0006104
+27478387	145	167	Amphetamine withdrawal	T048	C0236665
+27478387	178	185	anxiety	T033	C0003467
+27478387	190	196	stress	T033	C0038435
+27478387	220	227	blunted	T080	C1997138
+27478387	228	235	ventral	T082	C1704448
+27478387	236	247	hippocampus	T023	C0019564
+27478387	249	254	vHipp	T023	C0019564
+27478387	273	304	central nucleus of the amygdala	T023	C0175219
+27478387	306	309	CeA	T023	C0175219
+27478387	311	320	serotonin	T109,T123	C0036751
+27478387	321	330	responses	T032	C0871261
+27478387	332	345	Extracellular	T026	C0521119
+27478387	346	355	serotonin	T109,T123	C0036751
+27478387	356	362	levels	T080	C0441889
+27478387	384	405	serotonin transporter	T116,T123	C0170657
+27478387	407	411	SERT	T116,T123	C0170657
+27478387	417	445	organic cation transporter 3	T116,T123	C1453697
+27478387	447	451	OCT3	T116,T123	C1453697
+27478387	458	463	vHipp	T023	C0019564
+27478387	464	468	OCT3	T116,T123	C1453697
+27478387	469	479	expression	T045	C1171362
+27478387	499	507	24 hours	T079	C1442770
+27478387	511	533	amphetamine withdrawal	T048	C0236665
+27478387	541	545	SERT	T116,T123	C0170657
+27478387	546	556	expression	T045	C1171362
+27478387	595	599	OCT3	T116,T123	C1453697
+27478387	604	608	SERT	T116,T123	C0170657
+27478387	609	619	expression	T045	C1171362
+27478387	627	630	CeA	T023	C0175219
+27478387	661	671	withdrawal	T048	C2825032
+27478387	716	722	limbic	T022	C0023715
+27478387	723	753	serotonergic neurotransmission	T043	C2262837
+27478387	795	804	two weeks	T079	C4082118
+27478387	808	818	withdrawal	T048	C2825032
+27478387	858	869	transporter	T116,T123	C0596902
+27478387	870	880	expression	T045	C1171362
+27478387	913	917	Male	T032	C0086582
+27478387	918	922	rats	T015	C0004728
+27478387	932	943	amphetamine	T109,T121,T123	C0002658
+27478387	947	953	saline	T167	C0036082
+27478387	958	967	two weeks	T079	C4082118
+27478387	980	988	24 hours	T079	C1442770
+27478387	992	1001	two weeks	T079	C4082118
+27478387	1005	1015	withdrawal	T048	C2825032
+27478387	1022	1033	transporter	T116,T123	C0596902
+27478387	1034	1044	expression	T045	C1171362
+27478387	1060	1078	Western immunoblot	T059	C0949466
+27478387	1080	1084	OCT3	T116,T123	C1453697
+27478387	1089	1093	SERT	T116,T123	C0170657
+27478387	1094	1104	expression	T045	C1171362
+27478387	1122	1125	CeA	T023	C0175219
+27478387	1134	1144	withdrawal	T048	C2825032
+27478387	1164	1169	vHipp	T023	C0019564
+27478387	1171	1175	OCT3	T116,T123	C1453697
+27478387	1176	1186	expression	T045	C1171362
+27478387	1205	1213	24 hours	T079	C1442770
+27478387	1217	1227	withdrawal	T048	C2825032
+27478387	1268	1292	dorsomedial hypothalamus	T023	C0013055
+27478387	1294	1304	No changes	T033	C0442739
+27478387	1331	1338	regions	T029	C0005898
+27478387	1385	1391	limbic	T022	C0023715
+27478387	1392	1396	OCT3	T116,T123	C1453697
+27478387	1401	1405	SERT	T116,T123	C0170657
+27478387	1406	1416	expression	T045	C1171362
+27478387	1449	1461	serotonergic	T109,T123	C0036751
+27478387	1462	1471	imbalance	T184	C1397014
+27478387	1476	1491	negative affect	T033	C1513916
+27478387	1499	1521	amphetamine withdrawal	T048	C0236665

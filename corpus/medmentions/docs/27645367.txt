@@ -1,0 +1,68 @@
+27645367|t|Heterogeneous depression trajectories in multiple sclerosis patients
+27645367|a|Trajectories of depression over time may be heterogeneous in Multiple Sclerosis (MS) patients. Describing these trajectories will help clinicians understand better the progression of depression in MS patients to aid in patient care decisions. Latent class growth analysis (LCGA) was applied to 3507 MS patients using an electronic health records (EHR) data base to identify subgroups of MS patients based on self-reported depression screening (PHQ-9). Latent trajectory classes were used for group comparisons based on baseline clinical characteristics. Three subgroups were found characterized by high (10.0% [of participants]), wavering above and below moderate (26.2%) and low and variable (63.8%) depression level trajectories. The subpopulation trajectories, respectively, were also characterized by high, moderate and low MS disability at baseline. In contrast, the overall average trajectory was slightly declining and below the moderate depression threshold. The LCGA approach described in this paper and applied to MS patients provides a template for improved use of an EHR data base for understanding heterogeneous depression screening trajectories. Clinicians may use such information to more closely monitor patients that are expected to maintain high or unstable depression levels.
+27645367	0	13	Heterogeneous	T080	C0019409
+27645367	14	24	depression	T048	C0011570
+27645367	25	37	trajectories	T079	C1254367
+27645367	41	59	multiple sclerosis	T047	C0026769
+27645367	60	68	patients	T101	C0030705
+27645367	69	81	Trajectories	T079	C1254367
+27645367	85	95	depression	T048	C0011570
+27645367	113	126	heterogeneous	T080	C0019409
+27645367	130	148	Multiple Sclerosis	T047	C0026769
+27645367	150	152	MS	T047	C0026769
+27645367	154	162	patients	T101	C0030705
+27645367	181	193	trajectories	T079	C1254367
+27645367	204	214	clinicians	T097	C0871685
+27645367	237	248	progression	T169	C0449258
+27645367	252	262	depression	T048	C0011570
+27645367	266	268	MS	T047	C0026769
+27645367	269	277	patients	T101	C0030705
+27645367	312	340	Latent class growth analysis	T062	C0681947
+27645367	342	346	LCGA	T062	C0681947
+27645367	368	370	MS	T047	C0026769
+27645367	371	379	patients	T101	C0030705
+27645367	389	430	electronic health records (EHR) data base	T170	C2362543
+27645367	443	452	subgroups	T098	C1257890
+27645367	456	458	MS	T047	C0026769
+27645367	459	467	patients	T101	C0030705
+27645367	491	511	depression screening	T061	C0740218
+27645367	513	518	PHQ-9	T170	C1718207
+27645367	521	527	Latent	T080	C0205275
+27645367	528	538	trajectory	T079	C1254367
+27645367	561	566	group	T098	C1257890
+27645367	588	596	baseline	T081	C1442488
+27645367	597	621	clinical characteristics	T201	C0683325
+27645367	629	638	subgroups	T098	C1257890
+27645367	667	671	high	T080	C0205250
+27645367	683	695	participants	T098	C0679646
+27645367	724	732	moderate	T080	C0205081
+27645367	745	748	low	T080	C0205251
+27645367	753	761	variable	T080	C0439828
+27645367	770	786	depression level	T033	C1319226
+27645367	787	799	trajectories	T079	C1254367
+27645367	805	818	subpopulation	T098	C1257890
+27645367	819	831	trajectories	T079	C1254367
+27645367	874	878	high	T080	C0205250
+27645367	880	888	moderate	T080	C0205081
+27645367	893	896	low	T080	C0205251
+27645367	897	899	MS	T047	C0026769
+27645367	900	910	disability	T033	C0231170
+27645367	914	922	baseline	T081	C1442488
+27645367	957	967	trajectory	T079	C1254367
+27645367	1005	1013	moderate	T080	C0205081
+27645367	1014	1024	depression	T048	C0011570
+27645367	1025	1034	threshold	T080	C0449864
+27645367	1040	1044	LCGA	T062	C0681947
+27645367	1093	1095	MS	T047	C0026769
+27645367	1096	1104	patients	T101	C0030705
+27645367	1116	1124	template	T078	C1705542
+27645367	1148	1161	EHR data base	T170	C2362543
+27645367	1180	1193	heterogeneous	T080	C0019409
+27645367	1194	1214	depression screening	T061	C0740218
+27645367	1215	1227	trajectories	T079	C1254367
+27645367	1229	1239	Clinicians	T097	C0871685
+27645367	1253	1264	information	T078	C1533716
+27645367	1281	1297	monitor patients	T058	C0030695
+27645367	1328	1332	high	T080	C0205250
+27645367	1336	1344	unstable	T033	C0443343
+27645367	1345	1362	depression levels	T033	C1319226

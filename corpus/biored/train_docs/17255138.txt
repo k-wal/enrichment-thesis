@@ -1,0 +1,78 @@
+17255138|t|Risks and benefits of COX-2 inhibitors vs non-selective NSAIDs: does their cardiovascular risk exceed their gastrointestinal benefit? A retrospective cohort study.
+17255138|a|OBJECTIVES: The risk of acute myocardial infarction (AMI) with COX-2 inhibitors may offset their gastrointestinal (GI) benefit compared with non-selective (NS) non-steroidal anti-inflammatory drugs (NSAIDs). We aimed to compare the risks of hospitalization for AMI and GI bleeding among elderly patients using COX-2 inhibitors, NS-NSAIDs and acetaminophen. METHODS: We conducted a retrospective cohort study using administrative data of patients > or =65 years of age who filled a prescription for NSAID or acetaminophen during 1999-2002. Outcomes were compared using Cox regression models with time-dependent exposures. RESULTS: Person-years of exposure among non-users of aspirin were: 75,761 to acetaminophen, 42,671 to rofecoxib 65,860 to celecoxib, and 37,495 to NS-NSAIDs. Among users of aspirin, they were: 14,671 to rofecoxib, 22,875 to celecoxib, 9,832 to NS-NSAIDs and 38,048 to acetaminophen. Among non-users of aspirin, the adjusted hazard ratios (95% confidence interval) of hospitalization for AMI/GI vs the acetaminophen (with no aspirin) group were: rofecoxib 1.27 (1.13, 1.42), celecoxib 0.93 (0.83, 1.03), naproxen 1.59 (1.31, 1.93), diclofenac 1.17 (0.99, 1.38) and ibuprofen 1.05 (0.74, 1.51). Among users of aspirin, they were: rofecoxib 1.73 (1.52, 1.98), celecoxib 1.34 (1.19, 1.52), ibuprofen 1.51 (0.95, 2.41), diclofenac 1.69 (1.35, 2.10), naproxen 1.35 (0.97, 1.88) and acetaminophen 1.29 (1.17, 1.42). CONCLUSION: Among non-users of aspirin, naproxen seemed to carry the highest risk for AMI/GI bleeding. The AMI/GI toxicity of celecoxib was similar to that of acetaminophen and seemed to be better than those of rofecoxib and NS-NSAIDs. Among users of aspirin, both celecoxib and naproxen seemed to be the least toxic.
+17255138	22	38	COX-2 inhibitors	ChemicalEntity	D052246
+17255138	56	62	NSAIDs	ChemicalEntity	D000894
+17255138	188	215	acute myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+17255138	217	220	AMI	DiseaseOrPhenotypicFeature	D009203
+17255138	227	243	COX-2 inhibitors	ChemicalEntity	D052246
+17255138	324	361	non-steroidal anti-inflammatory drugs	ChemicalEntity	D000894
+17255138	363	369	NSAIDs	ChemicalEntity	D000894
+17255138	425	428	AMI	DiseaseOrPhenotypicFeature	D009203
+17255138	433	444	GI bleeding	DiseaseOrPhenotypicFeature	D006471
+17255138	459	467	patients	OrganismTaxon	9606
+17255138	474	490	COX-2 inhibitors	ChemicalEntity	D052246
+17255138	495	501	NSAIDs	ChemicalEntity	D000894
+17255138	506	519	acetaminophen	ChemicalEntity	D000082
+17255138	601	609	patients	OrganismTaxon	9606
+17255138	662	667	NSAID	ChemicalEntity	D000894
+17255138	671	684	acetaminophen	ChemicalEntity	D000082
+17255138	838	845	aspirin	ChemicalEntity	D001241
+17255138	862	875	acetaminophen	ChemicalEntity	D000082
+17255138	887	896	rofecoxib	ChemicalEntity	C116926
+17255138	907	916	celecoxib	ChemicalEntity	C105934
+17255138	935	941	NSAIDs	ChemicalEntity	D000894
+17255138	958	965	aspirin	ChemicalEntity	D001241
+17255138	988	997	rofecoxib	ChemicalEntity	C116926
+17255138	1009	1018	celecoxib	ChemicalEntity	C105934
+17255138	1032	1038	NSAIDs	ChemicalEntity	D000894
+17255138	1053	1066	acetaminophen	ChemicalEntity	D000082
+17255138	1087	1094	aspirin	ChemicalEntity	D001241
+17255138	1172	1175	AMI	DiseaseOrPhenotypicFeature	D009203
+17255138	1186	1199	acetaminophen	ChemicalEntity	D000082
+17255138	1209	1216	aspirin	ChemicalEntity	D001241
+17255138	1230	1239	rofecoxib	ChemicalEntity	C116926
+17255138	1259	1268	celecoxib	ChemicalEntity	C105934
+17255138	1288	1296	naproxen	ChemicalEntity	D009288
+17255138	1316	1326	diclofenac	ChemicalEntity	D004008
+17255138	1349	1358	ibuprofen	ChemicalEntity	D007052
+17255138	1393	1400	aspirin	ChemicalEntity	D001241
+17255138	1413	1422	rofecoxib	ChemicalEntity	C116926
+17255138	1442	1451	celecoxib	ChemicalEntity	C105934
+17255138	1471	1480	ibuprofen	ChemicalEntity	D007052
+17255138	1500	1510	diclofenac	ChemicalEntity	D004008
+17255138	1530	1538	naproxen	ChemicalEntity	D009288
+17255138	1561	1574	acetaminophen	ChemicalEntity	D000082
+17255138	1625	1632	aspirin	ChemicalEntity	D001241
+17255138	1634	1642	naproxen	ChemicalEntity	D009288
+17255138	1680	1683	AMI	DiseaseOrPhenotypicFeature	D009203
+17255138	1684	1695	GI bleeding	DiseaseOrPhenotypicFeature	D006471
+17255138	1701	1704	AMI	DiseaseOrPhenotypicFeature	D009203
+17255138	1705	1716	GI toxicity	DiseaseOrPhenotypicFeature	D005767
+17255138	1720	1729	celecoxib	ChemicalEntity	C105934
+17255138	1753	1766	acetaminophen	ChemicalEntity	D000082
+17255138	1805	1814	rofecoxib	ChemicalEntity	C116926
+17255138	1822	1828	NSAIDs	ChemicalEntity	D000894
+17255138	1845	1852	aspirin	ChemicalEntity	D001241
+17255138	1859	1868	celecoxib	ChemicalEntity	C105934
+17255138	1873	1881	naproxen	ChemicalEntity	D009288
+17255138	Association	D005767	C105934	Novel
+17255138	Association	D005767	C116926	Novel
+17255138	Association	D005767	D000082	Novel
+17255138	Association	D005767	D000894	Novel
+17255138	Positive_Correlation	D009288	D006471	Novel
+17255138	Positive_Correlation	D009288	D009203	Novel
+17255138	Positive_Correlation	D009203	D052246	No
+17255138	Association	C105934	D006471	Novel
+17255138	Association	C105934	D009203	Novel
+17255138	Association	C116926	D006471	Novel
+17255138	Association	C116926	D009203	Novel
+17255138	Association	D000082	D006471	Novel
+17255138	Association	D000082	D009203	Novel
+17255138	Negative_Correlation	D001241	C105934	Novel
+17255138	Negative_Correlation	D001241	C116926	Novel
+17255138	Negative_Correlation	D001241	D000082	Novel
+17255138	Negative_Correlation	D001241	D000894	Novel
+17255138	Association	D000894	D009203	Novel
+17255138	Comparison	D000894	D000082	Novel
+17255138	Comparison	D052246	D000082	Novel
+17255138	Comparison	D052246	D000894	Novel

@@ -1,0 +1,22 @@
+16120104|t|A single-nucleotide polymorphism in the 5'-untranslated region of the hPER2 gene is associated with diurnal preference.
+16120104|a|The PERIOD2 (PER2) gene is a key component of the molecular mechanism that generates circadian rhythms in mammals. A missense mutation in the human PER2 gene has previously been linked to advanced sleep phase syndrome (ASPS). We have investigated three other single-nucleotide polymorphisms in the hPER2 gene, one downstream of the transcription start site (C-1228T), one in exon 2 in the 5'-untranslated region (5'-UTR) (C111G), and one missense mutation (G3853A) causing a glycine to glutamine substitution in the predicted protein. Subjects selected from a group of 484 volunteers for extreme morning or evening preference, or intermediate diurnal preference were genotyped with regard to the three polymorphisms (n=35 for each group). Whereas allele frequencies for the other two polymorphisms did not differ significantly between any of the groups, the 111G allele frequency was significantly higher in subjects with extreme morning preference (0.14) than in subjects with extreme evening preference (0.03) (Fisher's exact test, two-sided P value=0.031, odds ratio=5.67). No significant difference in 111G allele frequency was observed between either of these groups and subjects with intermediate diurnal preference. Computer prediction indicated that the C111G polymorphism, which occurs 12 bases upstream from the translation start codon, might alter the secondary structure of the transcript. The PER2 111G allele associates with morning preference and is a potential candidate allele for ASPS.
+16120104	70	75	hPER2	GeneOrGeneProduct	8864
+16120104	124	131	PERIOD2	GeneOrGeneProduct	8864
+16120104	133	137	PER2	GeneOrGeneProduct	8864
+16120104	262	267	human	OrganismTaxon	9606
+16120104	268	272	PER2	GeneOrGeneProduct	8864
+16120104	308	337	advanced sleep phase syndrome	DiseaseOrPhenotypicFeature	C565789
+16120104	339	343	ASPS	DiseaseOrPhenotypicFeature	C565789
+16120104	418	423	hPER2	GeneOrGeneProduct	8864
+16120104	478	485	C-1228T	SequenceVariant	c|SUB|C|-1228|T
+16120104	542	547	C111G	SequenceVariant	c|SUB|C|111|G
+16120104	577	583	G3853A	SequenceVariant	c|SUB|G|3853|A
+16120104	595	615	glycine to glutamine	SequenceVariant	p|SUB|G||Q
+16120104	978	982	111G	SequenceVariant	c|Allele|G|111
+16120104	1226	1230	111G	SequenceVariant	c|Allele|G|111
+16120104	1382	1387	C111G	SequenceVariant	c|SUB|C|111|G
+16120104	1526	1530	PER2	GeneOrGeneProduct	8864
+16120104	1531	1535	111G	SequenceVariant	c|Allele|G|111
+16120104	1618	1622	ASPS	DiseaseOrPhenotypicFeature	C565789
+16120104	Positive_Correlation	c|Allele|G|111	C565789	Novel
+16120104	Association	8864	C565789	Novel

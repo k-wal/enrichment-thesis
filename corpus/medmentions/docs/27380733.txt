@@ -1,0 +1,68 @@
+27380733|t|Dynamic Contrast-enhanced MR Imaging in Renal Cell Carcinoma: Reproducibility of Histogram Analysis on Pharmacokinetic Parameters
+27380733|a|Pharmacokinetic parameters derived from dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) have been increasingly used to evaluate the permeability of tumor vessel. Histogram metrics are a recognized promising method of quantitative MR imaging that has been recently introduced in analysis of DCE-MRI pharmacokinetic parameters in oncology due to tumor heterogeneity. In this study, 21 patients with renal cell carcinoma (RCC) underwent paired DCE-MRI studies on a 3.0 T MR system. Extended Tofts model and population-based arterial input function were used to calculate kinetic parameters of RCC tumors. Mean value and histogram metrics (Mode, Skewness and Kurtosis) of each pharmacokinetic parameter were generated automatically using ImageJ software. Intra- and inter-observer reproducibility and scan-rescan reproducibility were evaluated using intra-class correlation coefficients (ICCs) and coefficient of variation (CoV). Our results demonstrated that the histogram method (Mode, Skewness and Kurtosis) was not superior to the conventional Mean value method in reproducibility evaluation on DCE-MRI pharmacokinetic parameters (K(trans) &Ve) in renal cell carcinoma, especially for Skewness and Kurtosis which showed lower intra-, inter-observer and scan-rescan reproducibility than Mean value. Our findings suggest that additional studies are necessary before wide incorporation of histogram metrics in quantitative analysis of DCE-MRI pharmacokinetic parameters.
+27380733	0	36	Dynamic Contrast-enhanced MR Imaging	T060	C1831914
+27380733	40	60	Renal Cell Carcinoma	T191	C0007134
+27380733	62	77	Reproducibility	T080	C1514863
+27380733	81	90	Histogram	T073	C2348974
+27380733	103	118	Pharmacokinetic	T169	C0031328
+27380733	119	129	Parameters	T077	C0549193
+27380733	130	145	Pharmacokinetic	T169	C0031328
+27380733	146	156	parameters	T077	C0549193
+27380733	170	222	dynamic contrast-enhanced magnetic resonance imaging	T060	C1831914
+27380733	224	231	DCE-MRI	T060	C1831914
+27380733	277	289	permeability	T070	C0031164
+27380733	293	305	tumor vessel	T191	C0027668
+27380733	307	316	Histogram	T073	C2348974
+27380733	375	385	MR imaging	T060	C0024485
+27380733	435	442	DCE-MRI	T060	C1831914
+27380733	443	458	pharmacokinetic	T169	C0031328
+27380733	459	469	parameters	T077	C0549193
+27380733	473	481	oncology	T091	C0278627
+27380733	489	508	tumor heterogeneity	T080	C0019409
+27380733	528	536	patients	T101	C0030705
+27380733	542	562	renal cell carcinoma	T191	C0007134
+27380733	564	567	RCC	T191	C0007134
+27380733	586	593	DCE-MRI	T060	C1831914
+27380733	613	622	MR system	T074	C0336660
+27380733	633	644	Tofts model	T170	C0282574
+27380733	649	665	population-based	T062	C1709599
+27380733	666	674	arterial	T082	C0221464
+27380733	675	689	input function	T170	C2986843
+27380733	713	720	kinetic	T169	C0031328
+27380733	721	731	parameters	T077	C0549193
+27380733	735	738	RCC	T191	C0007134
+27380733	739	745	tumors	T191	C0027651
+27380733	747	757	Mean value	T081	C0444504
+27380733	762	771	histogram	T073	C2348974
+27380733	781	785	Mode	T081	C1705738
+27380733	787	795	Skewness	T081	C0392762
+27380733	800	808	Kurtosis	T081	C0392762
+27380733	818	833	pharmacokinetic	T169	C0031328
+27380733	879	894	ImageJ software	T080	C0205556
+27380733	896	902	Intra-	T081	C0021861
+27380733	907	937	inter-observer reproducibility	T081	C0021713
+27380733	954	969	reproducibility	T080	C1514863
+27380733	991	1027	intra-class correlation coefficients	T081	C0392762
+27380733	1029	1033	ICCs	T081	C0392762
+27380733	1039	1063	coefficient of variation	T081	C0681921
+27380733	1065	1068	CoV	T081	C0681921
+27380733	1105	1114	histogram	T073	C2348974
+27380733	1123	1127	Mode	T081	C1705738
+27380733	1129	1137	Skewness	T081	C0392762
+27380733	1142	1150	Kurtosis	T081	C0392762
+27380733	1189	1199	Mean value	T081	C0444504
+27380733	1210	1225	reproducibility	T080	C1514863
+27380733	1240	1247	DCE-MRI	T060	C1831914
+27380733	1248	1263	pharmacokinetic	T169	C0031328
+27380733	1264	1274	parameters	T077	C0549193
+27380733	1293	1313	renal cell carcinoma	T191	C0007134
+27380733	1330	1351	Skewness and Kurtosis	T081	C0392762
+27380733	1371	1377	intra-	T081	C0021861
+27380733	1379	1393	inter-observer	T081	C0021713
+27380733	1410	1425	reproducibility	T080	C1514863
+27380733	1431	1441	Mean value	T081	C0444504
+27380733	1531	1540	histogram	T073	C2348974
+27380733	1552	1564	quantitative	T081	C0392762
+27380733	1577	1584	DCE-MRI	T060	C1831914
+27380733	1585	1600	pharmacokinetic	T169	C0031328
+27380733	1601	1611	parameters	T077	C0549193

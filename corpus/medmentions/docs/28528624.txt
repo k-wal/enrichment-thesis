@@ -1,0 +1,98 @@
+28528624|t|Root Cause Analysis of Adverse Events in an Outpatient Anticoagulation Management Consortium
+28528624|a|A number of factors can lead to adverse events (AEs) in patients taking warfarin. Performing a root cause analysis (RCA) of serious AEs is one systematic way of determining the causes of these events. Multidisciplinary teams were formed at Michigan Anticoagulation Quality Improvement Initiative (MAQI(2)) sites with organized anticoagulation management services (AMS). Medical records from patients who suffered serious AEs (major bleed, embolic stroke, venous thromboembolism) were reviewed, and AMS staff were interviewed to determine the root cause using the "5 Whys" technique. More than 600 patients had an AE and underwent screening by trained RNs. Of these, 79 required full review by a multidisciplinary panel. All potential contributing factors (comorbidities, concurrent medications, current protocols) were assessed to determine the main factor that caused the AE. Full RCA was completed in 79 cases. The main contributing factor was identified in 69/79 (87%) cases. Most identified AEs, 55/69 (80%), were due to patient - specific factors such as comorbidities. Patient -to- provider and provider -to- provider communication accounted for 16/69 (23%) of events and was the second most common cause. Other causes included protocol non-adherence and technology / equipment issues. After each detailed review, the multidisciplinary panel recommended system changes that addressed the primary cause. The majority of severe AEs for patients taking warfarin were related to nonmodifiable patient -related issues. The remaining AEs were primarily due to patient -to- provider and provider -to- provider communication issues. Methods for improving communication need to be addressed, and methods for more effective patient education should be investigated.
+28528624	0	19	Root Cause Analysis	T080	C3179036
+28528624	23	37	Adverse Events	T046	C0877248
+28528624	44	54	Outpatient	T101	C0029921
+28528624	55	70	Anticoagulation	T033	C2919015
+28528624	71	81	Management	T058	C0376636
+28528624	82	92	Consortium	T097	C1513822
+28528624	105	112	factors	T169	C1521761
+28528624	125	139	adverse events	T046	C0877248
+28528624	141	144	AEs	T046	C0877248
+28528624	149	157	patients	T101	C0030705
+28528624	165	173	warfarin	T109,T121,T131	C0043031
+28528624	188	207	root cause analysis	T080	C3179036
+28528624	209	212	RCA	T080	C3179036
+28528624	225	228	AEs	T046	C0877248
+28528624	236	250	systematic way	T169	C0220922
+28528624	270	276	causes	T169	C0015127
+28528624	286	292	events	T046	C0877248
+28528624	294	317	Multidisciplinary teams	T096	C0871489
+28528624	333	341	Michigan	T083	C0025939
+28528624	420	455	anticoagulation management services	T092	C0282196
+28528624	457	460	AMS	T092	C0282196
+28528624	463	478	Medical records	T170	C0025102
+28528624	484	492	patients	T101	C0030705
+28528624	514	517	AEs	T046	C0877248
+28528624	519	530	major bleed	T046	C3160769
+28528624	532	546	embolic stroke	T047	C0262469
+28528624	548	570	venous thromboembolism	T047	C1861172
+28528624	577	585	reviewed	T080	C1709940
+28528624	591	594	AMS	T092	C0282196
+28528624	595	600	staff	T097	C0851286
+28528624	606	617	interviewed	T052	C0021822
+28528624	635	645	root cause	T169	C0015127
+28528624	656	674	"5 Whys" technique	T170	C0282574
+28528624	690	698	patients	T101	C0030705
+28528624	706	708	AE	T046	C0877248
+28528624	723	732	screening	T058	C0220908
+28528624	744	747	RNs	T097	C1522486
+28528624	776	782	review	T078	C1552617
+28528624	788	811	multidisciplinary panel	T078	C0441833
+28528624	840	847	factors	T169	C1521761
+28528624	849	862	comorbidities	T078	C0009488
+28528624	864	874	concurrent	T079	C0205420
+28528624	875	886	medications	T058	C2081612
+28528624	896	905	protocols	T170	C0442711
+28528624	912	920	assessed	T052	C1516048
+28528624	943	949	factor	T169	C1521761
+28528624	966	968	AE	T046	C0877248
+28528624	975	978	RCA	T080	C3179036
+28528624	999	1004	cases	T077	C1706256
+28528624	1028	1034	factor	T169	C1521761
+28528624	1039	1049	identified	T080	C0205396
+28528624	1065	1070	cases	T077	C1706256
+28528624	1077	1087	identified	T080	C0205396
+28528624	1088	1091	AEs	T046	C0877248
+28528624	1118	1125	patient	T101	C0030705
+28528624	1128	1136	specific	T080	C0205369
+28528624	1137	1144	factors	T169	C1521761
+28528624	1153	1166	comorbidities	T078	C0009488
+28528624	1168	1175	Patient	T101	C0030705
+28528624	1181	1189	provider	T097	C0018724
+28528624	1194	1202	provider	T097	C0018724
+28528624	1208	1216	provider	T097	C0018724
+28528624	1217	1230	communication	T054	C0009452
+28528624	1260	1266	events	T046	C0877248
+28528624	1298	1303	cause	T169	C0015127
+28528624	1311	1317	causes	T169	C0015127
+28528624	1327	1335	protocol	T170	C0442711
+28528624	1336	1349	non-adherence	T080	C0205556
+28528624	1354	1364	technology	T058	C0752189
+28528624	1367	1376	equipment	T073	C0014672
+28528624	1377	1383	issues	T033	C0033213
+28528624	1405	1411	review	T078	C1552617
+28528624	1417	1440	multidisciplinary panel	T078	C0441833
+28528624	1453	1459	system	T093	C0018696
+28528624	1460	1467	changes	T169	C0392747
+28528624	1487	1494	primary	T080	C0205225
+28528624	1495	1500	cause	T169	C0015127
+28528624	1518	1524	severe	T080	C0205082
+28528624	1525	1528	AEs	T046	C0877248
+28528624	1533	1541	patients	T101	C0030705
+28528624	1549	1557	warfarin	T109,T121,T131	C0043031
+28528624	1574	1587	nonmodifiable	T080	C0205556
+28528624	1588	1595	patient	T101	C0030705
+28528624	1605	1611	issues	T033	C0033213
+28528624	1627	1630	AEs	T046	C0877248
+28528624	1653	1660	patient	T101	C0030705
+28528624	1666	1674	provider	T097	C0018724
+28528624	1679	1687	provider	T097	C0018724
+28528624	1693	1701	provider	T097	C0018724
+28528624	1702	1715	communication	T054	C0009452
+28528624	1716	1722	issues	T033	C0033213
+28528624	1724	1731	Methods	T169	C0025664
+28528624	1746	1759	communication	T054	C0009452
+28528624	1786	1793	methods	T169	C0025664
+28528624	1813	1830	patient education	T065	C0030688
+28528624	1841	1853	investigated	T169	C1292732

@@ -1,0 +1,67 @@
+15749661|t|Two novel mutations, L490R and V561X, of the transferrin receptor 2 gene in Japanese patients with hemochromatosis.
+15749661|a|BACKGROUND AND OBJECTIVES: The low prevalence of the C282Y mutation of the HFE gene in Japan means that the genetic background of hemochromatosis in Japanese patients remains unclear. In a previous report, we showed that 3 patients from one family had an AVAQ 594-597 deletion of the transferrin receptor (TfR2) gene. This suggests that the TfR2 gene is involved in hemochromatosis in Japanese patients. DESIGN AND METHODS: Nine patients clinically diagnosed with hemochromatosis were included in the study. DNA was extracted from whole blood samples collected with informed consent. The HFE and TfR2 genes were analyzed by sequencing the coding region and splicing sites. RESULTS: There were no mutations in the HFE gene. In the TfR2 gene, 2 novel mutations, 1469T->G (L490R) and 1665delC (V561X), were found in 2 patients. A known variation, 714C-> (I238M), was also found in the patient with L490R. The patient homozygous for both L490R and I238M presented with a mild manifestation of hemochromatosis at the age of 41 years. His liver was cirrhotic with parenchymal iron deposits and the result of a glucose tolerance test was compatible with diabetes mellitus. The patient homozygous for V561X had severe iron overload with the triad of cirrhosis, diabetes mellitus and skin pigmentation at the age of 58 years. INTERPRETATION AND CONCLUSIONS: Taken together with the previous report, 5 of our 12 patients with hemochromatosis manifesting in middle age had mutations in the TfR2 gene. Thus, TfR2 plays a role in the pathogenesis of hemochromatosis in Japan.
+15749661	21	26	L490R	SequenceVariant	rs80338886
+15749661	31	36	V561X	SequenceVariant	rs80338887
+15749661	45	67	transferrin receptor 2	GeneOrGeneProduct	7036
+15749661	85	93	patients	OrganismTaxon	9606
+15749661	99	114	hemochromatosis	DiseaseOrPhenotypicFeature	D006432
+15749661	169	174	C282Y	SequenceVariant	rs1800562
+15749661	191	194	HFE	GeneOrGeneProduct	3077
+15749661	246	261	hemochromatosis	DiseaseOrPhenotypicFeature	D006432
+15749661	274	282	patients	OrganismTaxon	9606
+15749661	339	347	patients	OrganismTaxon	9606
+15749661	371	392	AVAQ 594-597 deletion	SequenceVariant	p|DEL|594_597|AVAQ
+15749661	400	420	transferrin receptor	GeneOrGeneProduct	7036
+15749661	422	426	TfR2	GeneOrGeneProduct	7036
+15749661	457	461	TfR2	GeneOrGeneProduct	7036
+15749661	482	497	hemochromatosis	DiseaseOrPhenotypicFeature	D006432
+15749661	510	518	patients	OrganismTaxon	9606
+15749661	545	553	patients	OrganismTaxon	9606
+15749661	580	595	hemochromatosis	DiseaseOrPhenotypicFeature	D006432
+15749661	704	707	HFE	GeneOrGeneProduct	3077
+15749661	712	716	TfR2	GeneOrGeneProduct	7036
+15749661	829	832	HFE	GeneOrGeneProduct	3077
+15749661	846	850	TfR2	GeneOrGeneProduct	7036
+15749661	876	884	1469T->G	SequenceVariant	rs80338886
+15749661	886	891	L490R	SequenceVariant	rs80338886
+15749661	897	905	1665delC	SequenceVariant	rs80338887
+15749661	907	912	V561X	SequenceVariant	rs80338887
+15749661	931	939	patients	OrganismTaxon	9606
+15749661	960	964	714C	SequenceVariant	rs34242818
+15749661	968	973	I238M	SequenceVariant	rs34242818
+15749661	998	1005	patient	OrganismTaxon	9606
+15749661	1011	1016	L490R	SequenceVariant	rs80338886
+15749661	1022	1029	patient	OrganismTaxon	9606
+15749661	1050	1055	L490R	SequenceVariant	rs80338886
+15749661	1060	1065	I238M	SequenceVariant	rs34242818
+15749661	1105	1120	hemochromatosis	DiseaseOrPhenotypicFeature	D006432
+15749661	1159	1168	cirrhotic	DiseaseOrPhenotypicFeature	D008103
+15749661	1186	1190	iron	ChemicalEntity	D007501
+15749661	1220	1227	glucose	ChemicalEntity	D005947
+15749661	1263	1280	diabetes mellitus	DiseaseOrPhenotypicFeature	D003920
+15749661	1286	1293	patient	OrganismTaxon	9606
+15749661	1309	1314	V561X	SequenceVariant	rs80338887
+15749661	1326	1339	iron overload	DiseaseOrPhenotypicFeature	D019190
+15749661	1358	1367	cirrhosis	DiseaseOrPhenotypicFeature	D008103
+15749661	1369	1386	diabetes mellitus	DiseaseOrPhenotypicFeature	D003920
+15749661	1391	1408	skin pigmentation	DiseaseOrPhenotypicFeature	D010859
+15749661	1518	1526	patients	OrganismTaxon	9606
+15749661	1532	1547	hemochromatosis	DiseaseOrPhenotypicFeature	D006432
+15749661	1595	1599	TfR2	GeneOrGeneProduct	7036
+15749661	1612	1616	TfR2	GeneOrGeneProduct	7036
+15749661	1653	1668	hemochromatosis	DiseaseOrPhenotypicFeature	D006432
+15749661	Association	D010859	7036	Novel
+15749661	Association	D003920	7036	Novel
+15749661	Association	D005947	D003920	Novel
+15749661	Association	D008103	D007501	Novel
+15749661	Association	D008103	7036	Novel
+15749661	Association	rs34242818	D006432	Novel
+15749661	Association	rs80338887	D019190	Novel
+15749661	Association	rs80338887	D010859	Novel
+15749661	Association	rs80338887	D003920	Novel
+15749661	Association	rs80338887	D008103	Novel
+15749661	Association	rs80338887	D006432	Novel
+15749661	Association	rs80338886	D006432	Novel
+15749661	Association	7036	D019190	Novel
+15749661	Association	D006432	7036	Novel
+15749661	Association	D006432	p|DEL|594_597|AVAQ	No

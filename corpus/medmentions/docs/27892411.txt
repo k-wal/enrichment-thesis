@@ -1,0 +1,108 @@
+27892411|t|Metabolic signatures of birthweight in 18 288 adolescents and adults
+27892411|a|Lower birthweight is associated with increased susceptibility to cardiometabolic diseases in adulthood, but the underlying molecular pathways are incompletely understood. We examined associations of birthweight with a comprehensive metabolic profile measured in adolescents and adults. High-throughput nuclear magnetic resonance metabolomics and biochemical assays were used to quantify 87 circulating metabolic measures in seven cohorts from Finland and the UK, comprising altogether 18 288 individuals (mean age 26 years, range 15-75). Metabolic associations with birthweight were assessed by linear regression models adjusted for sex, gestational age and age at blood sampling. The metabolic associations with birthweight were compared with the corresponding associations with adult body mass index (BMI). Lower birthweight adjusted for gestational age was adversely associated with cardiometabolic biomarkers, including lipoprotein subclasses, fatty acids, amino acids and markers of inflammation and impaired liver function (P < 0.0015 for 46 measures). Associations were consistent across cohorts with different ages at metabolic profiling, but the magnitudes were weak. The pattern of metabolic deviations associated with lower birthweight resembled the metabolic signature of higher adult BMI (R(2) = 0.77) assessed at the same time as the metabolic profiling. The resemblance indicated that 1 kg lower birthweight is associated with similar metabolic aberrations as caused by 0.92 units higher BMI in adulthood. Lower birthweight adjusted for gestational age is associated with adverse biomarker aberrations across multiple metabolic pathways. Coherent metabolic signatures between lower birthweight and higher adult adiposity suggest that shared molecular pathways may potentially underpin the metabolic deviations. However, the magnitudes of metabolic associations with birthweight are modest in comparison to the effects of adiposity, implying that birthweight is only a weak indicator of the metabolic risk profile in adulthood.
+27892411	0	20	Metabolic signatures	T039	C3853758
+27892411	24	35	birthweight	T032	C0005612
+27892411	46	57	adolescents	T100	C0205653
+27892411	62	68	adults	T100	C0001675
+27892411	69	86	Lower birthweight	T033	C0024032
+27892411	90	105	associated with	T080	C0332281
+27892411	106	130	increased susceptibility	T033	C0243095
+27892411	134	158	cardiometabolic diseases	T047	C0025517
+27892411	159	171	in adulthood	T079	C2945655
+27892411	192	210	molecular pathways	T044	C1704259
+27892411	268	279	birthweight	T032	C0005612
+27892411	287	300	comprehensive	T080	C1880156
+27892411	301	318	metabolic profile	T039	C3853758
+27892411	319	327	measured	T080	C0444706
+27892411	331	342	adolescents	T100	C0205653
+27892411	347	353	adults	T100	C0001675
+27892411	355	370	High-throughput	T060	C0872186
+27892411	371	397	nuclear magnetic resonance	T070	C0028580
+27892411	398	410	metabolomics	T091	C1328813
+27892411	415	433	biochemical assays	T059	C0005507
+27892411	459	470	circulating	T169	C0175630
+27892411	471	480	metabolic	T169	C0311400
+27892411	481	489	measures	T080	C0444706
+27892411	499	506	cohorts	T098	C0599755
+27892411	512	519	Finland	T083	C0016132
+27892411	528	530	UK	T083	C0041700
+27892411	561	572	individuals	T098	C0237401
+27892411	579	582	age	T032	C0001779
+27892411	586	591	years	T079	C0439234
+27892411	607	616	Metabolic	T169	C0311400
+27892411	617	634	associations with	T080	C0332281
+27892411	635	646	birthweight	T032	C0005612
+27892411	652	660	assessed	T052	C1516048
+27892411	664	681	linear regression	T081	C0023733
+27892411	702	705	sex	T032	C1522384
+27892411	707	722	gestational age	T032	C0017504
+27892411	727	730	age	T032	C0001779
+27892411	734	748	blood sampling	T060	C0190979
+27892411	754	763	metabolic	T169	C0311400
+27892411	764	781	associations with	T080	C0332281
+27892411	782	793	birthweight	T032	C0005612
+27892411	831	848	associations with	T080	C0332281
+27892411	849	854	adult	T100	C0001675
+27892411	855	870	body mass index	T201	C1305855
+27892411	872	875	BMI	T201	C1305855
+27892411	878	895	Lower birthweight	T033	C0024032
+27892411	909	924	gestational age	T032	C0017504
+27892411	939	954	associated with	T080	C0332281
+27892411	955	970	cardiometabolic	T169	C0311400
+27892411	971	981	biomarkers	T201	C0005516
+27892411	993	1004	lipoprotein	T116,T123	C0023820
+27892411	1005	1015	subclasses	T185	C0445604
+27892411	1017	1028	fatty acids	T109	C0015684
+27892411	1030	1041	amino acids	T116,T121,T123	C0002520
+27892411	1046	1053	markers	T201	C0005516
+27892411	1057	1069	inflammation	T046	C0021368
+27892411	1074	1097	impaired liver function	T046	C0086565
+27892411	1117	1125	measures	T080	C0444706
+27892411	1164	1171	cohorts	T098	C0599755
+27892411	1187	1191	ages	T032	C0001779
+27892411	1195	1214	metabolic profiling	T039	C3853758
+27892411	1224	1234	magnitudes	T081	C1704240
+27892411	1240	1244	weak	T080	C1762617
+27892411	1261	1270	metabolic	T169	C0311400
+27892411	1271	1281	deviations	T082	C0012727
+27892411	1282	1297	associated with	T080	C0332281
+27892411	1298	1315	lower birthweight	T033	C0024032
+27892411	1330	1349	metabolic signature	T039	C3853758
+27892411	1353	1359	higher	T080	C0205250
+27892411	1360	1365	adult	T100	C0001675
+27892411	1366	1369	BMI	T201	C1305855
+27892411	1384	1392	assessed	T052	C1516048
+27892411	1417	1436	metabolic profiling	T039	C3853758
+27892411	1474	1491	lower birthweight	T033	C0024032
+27892411	1495	1510	associated with	T080	C0332281
+27892411	1519	1528	metabolic	T169	C0311400
+27892411	1544	1553	caused by	T169	C0015127
+27892411	1565	1571	higher	T080	C0205250
+27892411	1572	1575	BMI	T201	C1305855
+27892411	1576	1588	in adulthood	T079	C2945655
+27892411	1590	1607	Lower birthweight	T033	C0024032
+27892411	1621	1636	gestational age	T032	C0017504
+27892411	1640	1655	associated with	T080	C0332281
+27892411	1664	1673	biomarker	T201	C0005516
+27892411	1702	1720	metabolic pathways	T169	C1291081
+27892411	1722	1730	Coherent	T033	C4068804
+27892411	1731	1751	metabolic signatures	T039	C3853758
+27892411	1760	1777	lower birthweight	T033	C0024032
+27892411	1766	1777	birthweight	T032	C0005612
+27892411	1782	1788	higher	T080	C0205250
+27892411	1789	1794	adult	T100	C0001675
+27892411	1795	1804	adiposity	T032	C1563743
+27892411	1825	1843	molecular pathways	T044	C1704259
+27892411	1873	1882	metabolic	T169	C0311400
+27892411	1883	1893	deviations	T082	C0012727
+27892411	1908	1918	magnitudes	T081	C1704240
+27892411	1922	1931	metabolic	T169	C0311400
+27892411	1932	1949	associations with	T080	C0332281
+27892411	1950	1961	birthweight	T032	C0005612
+27892411	1994	2004	effects of	T080	C1704420
+27892411	2005	2014	adiposity	T032	C1563743
+27892411	2030	2041	birthweight	T032	C0005612
+27892411	2052	2056	weak	T080	C1762617
+27892411	2057	2066	indicator	T169	C1522602
+27892411	2074	2096	metabolic risk profile	T039	C3853758
+27892411	2097	2109	in adulthood	T079	C2945655

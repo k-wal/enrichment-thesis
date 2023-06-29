@@ -1,0 +1,74 @@
+28260110|t|Inhibitory effect of emodin on fatty acid synthase, colon cancer proliferation and apoptosis.
+28260110|a|Fatty acid synthase (FASN) is a key anabolic enzyme for de novo fatty acid synthesis, which is important in the development of colon carcinoma. The high expression of FASN is considered a promising molecular target for colon cancer therapy. Emodin, a naturally occurring anthraquinone, exhibits an anticancer effect in various types of human cancer, including colon cancer; however, the molecular mechanisms remain to be fully elucidated. Cell viability was evaluated using a Cell Counting Kit-8 assay. The apoptosis rate of cells was quantified via flow cytometry following Annexin V/propidium iodide staining. FASN activity was measured by monitoring oxidation of nicotinamide adenine dinucleotide phosphate at a wavelength of 340 nm, and intracellular free fatty acid levels were detected using a Free Fatty Acid Quantification kit. Western blot analysis and reverse transcription-polymerase chain reaction were used to detect target gene and protein expression. The present study was performed to investigate whether the gene expression of FASN and its enzymatic activity are regulated by emodin in a human colon cancer cell line. Emodin markedly inhibited the proliferation of HCT116 cells and a higher protein level of FASN was expressed, compared with that in SW480, SNU-C2A or SNU-C5 cells. Emodin significantly downregulated the protein expression of FASN in HCT116 cells, which was caused by protein degradation due to elevated protein ubiquitination. Emodin also inhibited intracellular FASN enzymatic activity and reduced the levels of intracellular free fatty acids. Emodin enhanced antiproliferation and apoptosis in a dose- and time-dependent manner. The combined treatment of emodin and cerulenin, a commercial FASN inhibitor, had an additive effect on these activities. Palmitate, the final product of the FASN reaction, rescued emodin-induced viability and apoptosis. In addition, emodin altered FASN-involved signaling pathways, including phosphatidylinositol 3-kinase/Akt and mitogen-activated protein kinases/extracellular signal-regulated kinases 1/2. These results suggested that emodin-regulated cell growth and apoptosis were mediated by inhibiting FASN and provide a molecular basis for colon cancer therapy.
+28260110	21	27	emodin	ChemicalEntity	D004642
+28260110	31	50	fatty acid synthase	GeneOrGeneProduct	2194
+28260110	52	64	colon cancer	DiseaseOrPhenotypicFeature	D015179
+28260110	94	113	Fatty acid synthase	GeneOrGeneProduct	2194
+28260110	115	119	FASN	GeneOrGeneProduct	2194
+28260110	158	168	fatty acid	ChemicalEntity	D005227
+28260110	221	236	colon carcinoma	DiseaseOrPhenotypicFeature	D015179
+28260110	261	265	FASN	GeneOrGeneProduct	2194
+28260110	313	325	colon cancer	DiseaseOrPhenotypicFeature	D015179
+28260110	335	341	Emodin	ChemicalEntity	D004642
+28260110	365	378	anthraquinone	ChemicalEntity	D000880
+28260110	430	435	human	OrganismTaxon	9606
+28260110	436	442	cancer	DiseaseOrPhenotypicFeature	D009369
+28260110	454	466	colon cancer	DiseaseOrPhenotypicFeature	D015179
+28260110	669	678	Annexin V	GeneOrGeneProduct	308
+28260110	679	695	propidium iodide	ChemicalEntity	D011419
+28260110	706	710	FASN	GeneOrGeneProduct	2194
+28260110	760	803	nicotinamide adenine dinucleotide phosphate	ChemicalEntity	D009249
+28260110	849	864	free fatty acid	ChemicalEntity	D005230
+28260110	894	909	Free Fatty Acid	ChemicalEntity	D005230
+28260110	1138	1142	FASN	GeneOrGeneProduct	2194
+28260110	1187	1193	emodin	ChemicalEntity	D004642
+28260110	1199	1204	human	OrganismTaxon	9606
+28260110	1205	1217	colon cancer	DiseaseOrPhenotypicFeature	D015179
+28260110	1229	1235	Emodin	ChemicalEntity	D004642
+28260110	1276	1282	HCT116	CellLine	CVCL_0291
+28260110	1319	1323	FASN	GeneOrGeneProduct	2194
+28260110	1361	1366	SW480	CellLine	CVCL_0546
+28260110	1368	1375	SNU-C2A	CellLine	CVCL_1709
+28260110	1379	1385	SNU-C5	CellLine	CVCL_5112
+28260110	1393	1399	Emodin	ChemicalEntity	D004642
+28260110	1454	1458	FASN	GeneOrGeneProduct	2194
+28260110	1462	1468	HCT116	CellLine	CVCL_0291
+28260110	1556	1562	Emodin	ChemicalEntity	D004642
+28260110	1592	1596	FASN	GeneOrGeneProduct	2194
+28260110	1656	1672	free fatty acids	ChemicalEntity	D005230
+28260110	1674	1680	Emodin	ChemicalEntity	D004642
+28260110	1786	1792	emodin	ChemicalEntity	D004642
+28260110	1797	1806	cerulenin	ChemicalEntity	D002569
+28260110	1821	1825	FASN	GeneOrGeneProduct	2194
+28260110	1881	1890	Palmitate	ChemicalEntity	D010168
+28260110	1917	1921	FASN	GeneOrGeneProduct	2194
+28260110	1940	1946	emodin	ChemicalEntity	D004642
+28260110	1993	1999	emodin	ChemicalEntity	D004642
+28260110	2008	2012	FASN	GeneOrGeneProduct	2194
+28260110	2052	2081	phosphatidylinositol 3-kinase	GeneOrGeneProduct	5291
+28260110	2082	2085	Akt	GeneOrGeneProduct	207
+28260110	2090	2166	mitogen-activated protein kinases/extracellular signal-regulated kinases 1/2	GeneOrGeneProduct	5594,5595
+28260110	2197	2203	emodin	ChemicalEntity	D004642
+28260110	2268	2272	FASN	GeneOrGeneProduct	2194
+28260110	2307	2319	colon cancer	DiseaseOrPhenotypicFeature	D015179
+28260110	Association	D005227	D015179	No
+28260110	Association	D010168	2194	No
+28260110	Association	D010168	D004642	Novel
+28260110	Negative_Correlation	D002569	2194	No
+28260110	Negative_Correlation	D002569	D015179	No
+28260110	Association	2194	D005227	No
+28260110	Association	2194	5595	No
+28260110	Association	2194	5594	No
+28260110	Association	2194	207	No
+28260110	Association	2194	5291	No
+28260110	Association	2194	D009249	No
+28260110	Association	2194	D015179	No
+28260110	Negative_Correlation	2194	D004642	Novel
+28260110	Association	D004642	5595	Novel
+28260110	Association	D004642	5594	Novel
+28260110	Association	D004642	207	Novel
+28260110	Association	D004642	5291	Novel
+28260110	Cotreatment	D004642	D002569	Novel
+28260110	Negative_Correlation	D004642	D005230	Novel
+28260110	Negative_Correlation	D004642	D015179	Novel
+28260110	Negative_Correlation	D004642	D009369	No

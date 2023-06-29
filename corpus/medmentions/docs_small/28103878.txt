@@ -1,0 +1,28 @@
+28103878|t|Synthetic circuits that process multiple light and chemical signal inputs
+28103878|a|Multi-signal processing circuits are essential for rational design of sophisticated synthetic systems with good controllability and modularity, therefore, enable construction of high-level networks. Moreover, light - inducible systems provide fast and reversible means for spatiotemporal control of gene expression. Here, in HEK 293 cells, we present combinatory genetic circuits responding to light and chemical signals, simultaneously. We first constructed a dual input circuit converting different light intensities into varying of the sensitivity of the promoter to a chemical inducer (doxycycline). Next, we generated a ternary input circuit, which responded to light, doxycycline and cumate. This circuit allowed us to use different combinations of blue light and the two chemical inducers to generate gradual output values over two orders of magnitude. Overall, in this study, we devise genetic circuits sensing and processing light and chemical inducers. Our work may provide insights into bio-computation and fine-tuning expression of the transgene.
+28103878	10	18	circuits	T038	UMLS:C1720951
+28103878	51	59	chemical	T103	UMLS:C0220806
+28103878	98	106	circuits	T038	UMLS:C1720951
+28103878	373	388	gene expression	T038	UMLS:C0017262
+28103878	399	412	HEK 293 cells	T017	UMLS:C2936239
+28103878	437	453	genetic circuits	T038	UMLS:C1720951
+28103878	454	464	responding	T038	UMLS:C1659608
+28103878	478	486	chemical	T103	UMLS:C0220806
+28103878	546	553	circuit	T038	UMLS:C1720951
+28103878	632	640	promoter	T103	UMLS:C0086860
+28103878	646	654	chemical	T103	UMLS:C0220806
+28103878	664	675	doxycycline	T103	UMLS:C0013090
+28103878	713	720	circuit	T038	UMLS:C1720951
+28103878	728	737	responded	T038	UMLS:C1659608
+28103878	748	759	doxycycline	T103	UMLS:C0013090
+28103878	764	770	cumate	T103	UMLS:C0285770
+28103878	777	784	circuit	T038	UMLS:C1720951
+28103878	852	860	chemical	T103	UMLS:C0220806
+28103878	890	903	output values	T170	UMLS:C1285164
+28103878	951	956	study	T062	UMLS:C2603343
+28103878	968	984	genetic circuits	T038	UMLS:C1720951
+28103878	985	992	sensing	T038	UMLS:C1655954
+28103878	1018	1026	chemical	T103	UMLS:C0220806
+28103878	1072	1087	bio-computation	T170	UMLS:C1136291
+28103878	1104	1114	expression	T038	UMLS:C0017262
+28103878	1122	1131	transgene	T017	UMLS:C0282641

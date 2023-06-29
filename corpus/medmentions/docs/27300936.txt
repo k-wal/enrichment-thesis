@@ -1,0 +1,92 @@
+27300936|t|Bispectral pairwise interacting source analysis for identifying systems of cross-frequency interacting brain sources from electroencephalographic or magnetoencephalographic signals
+27300936|a|Brain cognitive functions arise through the coordinated activity of several brain regions, which actually form complex dynamical systems operating at multiple frequencies. These systems often consist of interacting subsystems, whose characterization is of importance for a complete understanding of the brain interaction processes. To address this issue, we present a technique, namely the bispectral pairwise interacting source analysis (biPISA), for analyzing systems of cross-frequency interacting brain sources when multichannel electroencephalographic (EEG) or magnetoencephalographic (MEG) data are available. Specifically, the biPISA makes it possible to identify one or many subsystems of cross-frequency interacting sources by decomposing the antisymmetric components of the cross-bispectra between EEG or MEG signals, based on the assumption that interactions are pairwise. Thanks to the properties of the antisymmetric components of the cross-bispectra, biPISA is also robust to spurious interactions arising from mixing artifacts, i.e., volume conduction or field spread, which always affect EEG or MEG functional connectivity estimates. This method is an extension of the pairwise interacting source analysis (PISA), which was originally introduced for investigating interactions at the same frequency, to the study of cross-frequency interactions. The effectiveness of this approach is demonstrated in simulations for up to three interacting source pairs and for real MEG recordings of spontaneous brain activity. Simulations show that the performances of biPISA in estimating the phase difference between the interacting sources are affected by the increasing level of noise rather than by the number of the interacting subsystems. The analysis of real MEG data reveals an interaction between two pairs of sources of central mu and beta rhythms, localizing in the proximity of the left and right central sulci.
+27300936	0	47	Bispectral pairwise interacting source analysis	T062	C0936012
+27300936	64	71	systems	T169	C0449913
+27300936	75	90	cross-frequency	T079	C0439603
+27300936	91	102	interacting	T169	C1704675
+27300936	103	108	brain	T023	C0006104
+27300936	109	116	sources	T033	C0449416
+27300936	122	145	electroencephalographic	T060	C0013819
+27300936	149	172	magnetoencephalographic	T060	C0024489
+27300936	173	180	signals	T067	C1710082
+27300936	181	186	Brain	T023	C0006104
+27300936	187	206	cognitive functions	T041	C0392335
+27300936	225	245	coordinated activity	T041	C0025361
+27300936	257	270	brain regions	T029	C1273723
+27300936	292	299	complex	T080	C0439855
+27300936	300	317	dynamical systems	T169	C0449913
+27300936	331	339	multiple	T081	C0439064
+27300936	340	351	frequencies	T079	C0439603
+27300936	359	366	systems	T169	C0449913
+27300936	384	395	interacting	T169	C1704675
+27300936	396	406	subsystems	T169	C0449913
+27300936	414	430	characterization	T052	C1880022
+27300936	484	511	brain interaction processes	T042	C0678908
+27300936	549	558	technique	T169	C0449851
+27300936	571	618	bispectral pairwise interacting source analysis	T062	C0936012
+27300936	620	626	biPISA	T062	C0936012
+27300936	643	650	systems	T169	C0449913
+27300936	654	669	cross-frequency	T079	C0439603
+27300936	670	681	interacting	T169	C1704675
+27300936	682	687	brain	T023	C0006104
+27300936	688	695	sources	T033	C0449416
+27300936	701	737	multichannel electroencephalographic	T060	C0013819
+27300936	739	742	EEG	T060	C0013819
+27300936	747	770	magnetoencephalographic	T060	C0024489
+27300936	772	775	MEG	T060	C0024489
+27300936	777	781	data	T078	C1511726
+27300936	815	821	biPISA	T062	C0936012
+27300936	864	874	subsystems	T169	C0449913
+27300936	878	893	cross-frequency	T079	C0439603
+27300936	894	905	interacting	T169	C1704675
+27300936	906	913	sources	T033	C0449416
+27300936	933	957	antisymmetric components	T078	C1254370
+27300936	965	980	cross-bispectra	T062	C0936012
+27300936	989	992	EEG	T060	C0013819
+27300936	996	999	MEG	T060	C0024489
+27300936	1000	1007	signals	T067	C1710082
+27300936	1038	1050	interactions	T169	C1704675
+27300936	1055	1063	pairwise	T080	C1709450
+27300936	1097	1121	antisymmetric components	T078	C1254370
+27300936	1129	1144	cross-bispectra	T062	C0936012
+27300936	1146	1152	biPISA	T062	C0936012
+27300936	1180	1192	interactions	T169	C1704675
+27300936	1230	1247	volume conduction	T080	C0205556
+27300936	1251	1263	field spread	T080	C0205556
+27300936	1285	1288	EEG	T060	C0013819
+27300936	1292	1295	MEG	T060	C0024489
+27300936	1296	1306	functional	T169	C0205245
+27300936	1307	1319	connectivity	T169	C1707489
+27300936	1366	1409	pairwise interacting source analysis (PISA)	T062	C0936012
+27300936	1447	1460	investigating	T169	C1292732
+27300936	1461	1473	interactions	T169	C1704675
+27300936	1486	1495	frequency	T079	C0439603
+27300936	1513	1528	cross-frequency	T079	C0439603
+27300936	1529	1541	interactions	T169	C1704675
+27300936	1547	1560	effectiveness	T080	C1280519
+27300936	1569	1577	approach	T169	C1292724
+27300936	1597	1608	simulations	T062	C0679083
+27300936	1625	1636	interacting	T169	C1704675
+27300936	1644	1649	pairs	T080	C1709450
+27300936	1663	1666	MEG	T060	C0024489
+27300936	1693	1707	brain activity	T042	C0678908
+27300936	1709	1720	Simulations	T062	C0679083
+27300936	1751	1757	biPISA	T062	C0936012
+27300936	1776	1792	phase difference	T081	C0392762
+27300936	1805	1816	interacting	T169	C1704675
+27300936	1817	1824	sources	T033	C0449416
+27300936	1845	1855	increasing	T169	C0442808
+27300936	1856	1861	level	T080	C0441889
+27300936	1865	1870	noise	T067	C0028263
+27300936	1904	1915	interacting	T169	C1704675
+27300936	1916	1926	subsystems	T169	C0449913
+27300936	1932	1940	analysis	T062	C0936012
+27300936	1949	1952	MEG	T060	C0024489
+27300936	1953	1957	data	T078	C1511726
+27300936	1969	1980	interaction	T169	C1704675
+27300936	1993	1998	pairs	T080	C1709450
+27300936	2002	2009	sources	T033	C0449416
+27300936	2013	2023	central mu	T042	C1254358
+27300936	2028	2040	beta rhythms	T042	C0005167
+27300936	2077	2081	left	T030	C2949961
+27300936	2086	2105	right central sulci	T030	C2951176

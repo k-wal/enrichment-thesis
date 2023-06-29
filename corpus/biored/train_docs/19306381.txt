@@ -1,0 +1,100 @@
+19306381|t|Neuregulin-1 beta and neuregulin-1 alpha differentially affect the migration and invasion of malignant peripheral nerve sheath tumor cells.
+19306381|a|Malignant peripheral nerve sheath tumors (MPNSTs) are the most common malignancy associated with neurofibromatosis Type 1 (NF1). These Schwann cell lineage-derived sarcomas aggressively invade adjacent nerve and soft tissue, frequently precluding surgical resection. Little is known regarding the mechanisms underlying this invasive behavior. We have shown that MPNSTs express neuregulin-1 (NRG-1) beta isoforms, which promote Schwann cell migration during development, and NRG-1 alpha isoforms, whose effects on Schwann cells are poorly understood. Hypothesizing that NRG-1 beta and/or NRG-1 alpha promote MPNST invasion, we found that NRG-1 beta promoted MPNST migration in a substrate-specific manner, markedly enhancing migration on laminin but not on collagen type I or fibronectin. The NRG-1 receptors erbB3 and erbB4 were present in MPNST invadopodia (processes mediating invasion), partially colocalized with focal adhesion kinase and the laminin receptor beta(1)-integrin and coimmunoprecipitated with beta(1)-integrin. NRG-1 beta stimulated human and murine MPNST cell migration and invasion in a concentration-dependent manner in three-dimensional migration assays, acting as a chemotactic factor. Both baseline and NRG-1 beta-induced migration were erbB-dependent and required the action of MEK 1/2, SAPK/JNK, PI-3 kinase, Src family kinases and ROCK-I/II. In contrast, NRG-1 alpha had no effect on the migration and invasion of some MPNST lines and inhibited the migration of others. While NRG-1 beta potently and persistently activated Erk 1/2, SAPK/JNK, Akt and Src family kinases, NRG-1 alpha did not activate Akt and activated these other kinases with kinetics distinct from those evident in NRG-1 beta-stimulated cells. These findings suggest that NRG-1 beta enhances MPNST migration and that NRG-1 beta and NRG-1 alpha differentially modulate this process.
+19306381	0	17	Neuregulin-1 beta	GeneOrGeneProduct	3084
+19306381	22	40	neuregulin-1 alpha	GeneOrGeneProduct	3084
+19306381	93	132	malignant peripheral nerve sheath tumor	DiseaseOrPhenotypicFeature	D018319
+19306381	140	180	Malignant peripheral nerve sheath tumors	DiseaseOrPhenotypicFeature	D018319
+19306381	182	188	MPNSTs	DiseaseOrPhenotypicFeature	D018319
+19306381	210	220	malignancy	DiseaseOrPhenotypicFeature	D009369
+19306381	237	261	neurofibromatosis Type 1	GeneOrGeneProduct	4763
+19306381	263	266	NF1	GeneOrGeneProduct	4763
+19306381	304	312	sarcomas	DiseaseOrPhenotypicFeature	D012509
+19306381	502	508	MPNSTs	DiseaseOrPhenotypicFeature	D018319
+19306381	517	542	neuregulin-1 (NRG-1) beta	GeneOrGeneProduct	3084
+19306381	614	625	NRG-1 alpha	GeneOrGeneProduct	3084
+19306381	709	719	NRG-1 beta	GeneOrGeneProduct	3084
+19306381	727	738	NRG-1 alpha	GeneOrGeneProduct	3084
+19306381	747	752	MPNST	DiseaseOrPhenotypicFeature	D018319
+19306381	777	787	NRG-1 beta	GeneOrGeneProduct	3084
+19306381	797	802	MPNST	DiseaseOrPhenotypicFeature	D018319
+19306381	877	884	laminin	GeneOrGeneProduct	16777
+19306381	896	911	collagen type I	GeneOrGeneProduct	1277,1278
+19306381	915	926	fibronectin	GeneOrGeneProduct	2335
+19306381	932	937	NRG-1	GeneOrGeneProduct	3084
+19306381	948	953	erbB3	GeneOrGeneProduct	13867,2065
+19306381	958	963	erbB4	GeneOrGeneProduct	13869,2066
+19306381	980	985	MPNST	DiseaseOrPhenotypicFeature	D018319
+19306381	1057	1078	focal adhesion kinase	GeneOrGeneProduct	5747
+19306381	1087	1103	laminin receptor	GeneOrGeneProduct	3688
+19306381	1104	1120	beta(1)-integrin	GeneOrGeneProduct	3688
+19306381	1151	1167	beta(1)-integrin	GeneOrGeneProduct	3688
+19306381	1169	1179	NRG-1 beta	GeneOrGeneProduct	3084
+19306381	1191	1196	human	OrganismTaxon	9606
+19306381	1201	1207	murine	OrganismTaxon	10090
+19306381	1208	1213	MPNST	DiseaseOrPhenotypicFeature	D018319
+19306381	1367	1377	NRG-1 beta	GeneOrGeneProduct	3084
+19306381	1401	1405	erbB	GeneOrGeneProduct	13867,13869,2065,2066
+19306381	1443	1450	MEK 1/2	GeneOrGeneProduct	26395,26396,5604,5605
+19306381	1452	1456	SAPK	GeneOrGeneProduct	26419,5599
+19306381	1457	1460	JNK	GeneOrGeneProduct	26419,5599
+19306381	1462	1473	PI-3 kinase	GeneOrGeneProduct	30955,5290
+19306381	1475	1493	Src family kinases	GeneOrGeneProduct	20779,6714
+19306381	1498	1507	ROCK-I/II	GeneOrGeneProduct	19877,19878,6093,9475
+19306381	1522	1533	NRG-1 alpha	GeneOrGeneProduct	3084
+19306381	1586	1591	MPNST	DiseaseOrPhenotypicFeature	D018319
+19306381	1643	1653	NRG-1 beta	GeneOrGeneProduct	3084
+19306381	1690	1697	Erk 1/2	GeneOrGeneProduct	26413,26417,5594,5595
+19306381	1699	1703	SAPK	GeneOrGeneProduct	26419,5599
+19306381	1704	1707	JNK	GeneOrGeneProduct	26419,5599
+19306381	1709	1712	Akt	GeneOrGeneProduct	11651,207
+19306381	1717	1735	Src family kinases	GeneOrGeneProduct	20779,6714
+19306381	1737	1748	NRG-1 alpha	GeneOrGeneProduct	3084
+19306381	1766	1769	Akt	GeneOrGeneProduct	11651,207
+19306381	1849	1859	NRG-1 beta	GeneOrGeneProduct	3084
+19306381	1906	1916	NRG-1 beta	GeneOrGeneProduct	3084
+19306381	1926	1931	MPNST	DiseaseOrPhenotypicFeature	D018319
+19306381	1951	1961	NRG-1 beta	GeneOrGeneProduct	3084
+19306381	1966	1977	NRG-1 alpha	GeneOrGeneProduct	3084
+19306381	Association	5747	2065	Novel
+19306381	Association	5747	13867	Novel
+19306381	Association	2066	5747	Novel
+19306381	Association	2066	3688	Novel
+19306381	Association	2066	D018319	Novel
+19306381	Association	13869	5747	Novel
+19306381	Association	13869	3688	Novel
+19306381	Association	13869	D018319	Novel
+19306381	Association	2065	3688	Novel
+19306381	Association	2065	D018319	Novel
+19306381	Association	13867	3688	Novel
+19306381	Association	13867	D018319	Novel
+19306381	Bind	16777	3688	No
+19306381	Positive_Correlation	3084	207	Novel
+19306381	Positive_Correlation	3084	11651	Novel
+19306381	Positive_Correlation	3084	5595	Novel
+19306381	Positive_Correlation	3084	5594	Novel
+19306381	Positive_Correlation	3084	26417	Novel
+19306381	Positive_Correlation	3084	26413	Novel
+19306381	Association	3084	9475	Novel
+19306381	Association	3084	6093	Novel
+19306381	Association	3084	19878	Novel
+19306381	Association	3084	19877	Novel
+19306381	Positive_Correlation	3084	6714	Novel
+19306381	Positive_Correlation	3084	20779	Novel
+19306381	Association	3084	5290	Novel
+19306381	Association	3084	30955	Novel
+19306381	Positive_Correlation	3084	5599	Novel
+19306381	Positive_Correlation	3084	26419	Novel
+19306381	Association	3084	5605	Novel
+19306381	Association	3084	5604	Novel
+19306381	Association	3084	26396	Novel
+19306381	Association	3084	26395	Novel
+19306381	Bind	3084	2066	Novel
+19306381	Bind	3084	13869	Novel
+19306381	Bind	3084	2065	Novel
+19306381	Bind	3084	13867	Novel
+19306381	Association	3084	16777	Novel
+19306381	Association	D018319	4763	No
+19306381	Association	D018319	5747	Novel
+19306381	Association	D018319	3688	Novel
+19306381	Association	D018319	16777	Novel
+19306381	Association	D018319	3084	Novel

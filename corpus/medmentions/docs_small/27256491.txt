@@ -1,0 +1,57 @@
+27256491|t|Association between Leukoaraiosis and Poor Outcome is not due to Reperfusion Inefficiency after Intravenous Thrombolysis
+27256491|a|Leukoaraiosis (LA) is associated with structural and functional cerebrovascular impairment, which may compromise the capacity of ischemic tissue to maximize reperfusion after intravenous thrombolysis (IVT). We aimed to determine whether severe LA is correlated with reperfusion inefficiency, which contributes to infarct growth and poor functional outcome. We analyzed data from our consecutive acute ischemic stroke (AIS) patients who had acquired baseline and 24-h follow-up diffusion- and perfusion-weighted imaging. Reperfusion was defined as reduction of ≥70 % of hypoperfusion lesion at 24 h from baseline. Severe LA was defined as Fazekas score 2 or 3 on FLAIR images. We investigated the relationship between severity of LA and reperfusion status. Multivariate statistical analysis was carried out for modeling the independent predictors of reperfusion, infarct growth, and functional outcome. Finally, 79 patients were included, among them 30 (37.97 %) had severe LA. Reperfusion was observed in 41 (51.89 %) patients, the proportion of reperfusion was very similar in patients with and without severe LA (53.33 vs 51.02 %, p = 1.000). Large artery occlusion was the only independent unfavorable predictor for reperfusion (OR = 0.202, 95 % confidence interval, 0.060-0.673; p = 0.014). Multiple linear regression analysis revealed that severe LA was independently associated with infarct growth (standardized coefficients = 0.191, p = 0.040). Severe LA was also an independent predictor of poor outcome (mRS ≥ 3) (OR = 4.004, 95 % confidence interval, 1.267-12.656, p = 0.018) after adjusting for reperfusion and baseline severity of stroke. Severe LA was associated with infarct growth and poor outcome independent of reperfusion status, which may expand the notion that LA contributes the intrinsic vulnerability of brain tissue to acute ischemic insults. The burden of LA may not serve as an imaging indicator of reperfusion inefficiency after IVT for AIS patients.
+27256491	20	33	Leukoaraiosis	T038	UMLS:C0948163
+27256491	38	50	Poor Outcome	T033	UMLS:C3806166
+27256491	65	76	Reperfusion	T038	UMLS:C0684253
+27256491	77	89	Inefficiency	T033	UMLS:C0231184
+27256491	96	120	Intravenous Thrombolysis	T058	UMLS:C0040044
+27256491	121	134	Leukoaraiosis	T038	UMLS:C0948163
+27256491	136	138	LA	T038	UMLS:C0948163
+27256491	159	169	structural	T037	UMLS:C0270611
+27256491	174	211	functional cerebrovascular impairment	T037	UMLS:C0270611
+27256491	259	265	tissue	T017	UMLS:C0040300
+27256491	278	289	reperfusion	T038	UMLS:C0684253
+27256491	296	320	intravenous thrombolysis	T058	UMLS:C0040044
+27256491	322	325	IVT	T058	UMLS:C0040044
+27256491	365	367	LA	T038	UMLS:C0948163
+27256491	387	398	reperfusion	T038	UMLS:C0684253
+27256491	399	411	inefficiency	T033	UMLS:C0231184
+27256491	453	476	poor functional outcome	T033	UMLS:C3806166
+27256491	516	537	acute ischemic stroke	T038	UMLS:C0948008
+27256491	539	542	AIS	T038	UMLS:C0948008
+27256491	588	597	follow-up	T058	UMLS:C1522577
+27256491	598	608	diffusion-	T058	UMLS:C0598801
+27256491	613	639	perfusion-weighted imaging	T058	UMLS:C4287652
+27256491	641	652	Reperfusion	T038	UMLS:C0684253
+27256491	668	677	reduction	T058	UMLS:C0441610
+27256491	690	703	hypoperfusion	T038	UMLS:C0442856
+27256491	704	710	lesion	T033	UMLS:C0221198
+27256491	741	743	LA	T038	UMLS:C0948163
+27256491	783	795	FLAIR images	T058	UMLS:C4285947
+27256491	850	852	LA	T038	UMLS:C0948163
+27256491	857	868	reperfusion	T038	UMLS:C0684253
+27256491	931	939	modeling	T062	UMLS:C0870071
+27256491	970	981	reperfusion	T038	UMLS:C0684253
+27256491	1094	1096	LA	T038	UMLS:C0948163
+27256491	1098	1109	Reperfusion	T038	UMLS:C0684253
+27256491	1167	1178	reperfusion	T038	UMLS:C0684253
+27256491	1232	1234	LA	T038	UMLS:C0948163
+27256491	1272	1288	artery occlusion	T038	UMLS:C0264995
+27256491	1340	1351	reperfusion	T038	UMLS:C0684253
+27256491	1416	1451	Multiple linear regression analysis	T170	UMLS:C0034980
+27256491	1473	1475	LA	T038	UMLS:C0948163
+27256491	1580	1582	LA	T038	UMLS:C0948163
+27256491	1620	1632	poor outcome	T033	UMLS:C3806166
+27256491	1727	1738	reperfusion	T038	UMLS:C0684253
+27256491	1764	1770	stroke	T038	UMLS:C0038454
+27256491	1779	1781	LA	T038	UMLS:C0948163
+27256491	1821	1833	poor outcome	T033	UMLS:C3806166
+27256491	1849	1860	reperfusion	T038	UMLS:C0684253
+27256491	1902	1904	LA	T038	UMLS:C0948163
+27256491	1948	1960	brain tissue	T017	UMLS:C0459385
+27256491	1964	1986	acute ischemic insults	T038	UMLS:C0022116
+27256491	2002	2004	LA	T038	UMLS:C0948163
+27256491	2046	2057	reperfusion	T038	UMLS:C0684253
+27256491	2058	2070	inefficiency	T033	UMLS:C0231184
+27256491	2077	2080	IVT	T058	UMLS:C0040044
+27256491	2085	2088	AIS	T038	UMLS:C0948008

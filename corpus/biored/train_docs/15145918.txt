@@ -1,0 +1,55 @@
+15145918|t|Differential modulation by estrogen of alpha2-adrenergic and I1-imidazoline receptor-mediated hypotension in female rats.
+15145918|a|We have recently shown that estrogen negatively modulates the hypotensive effect of clonidine (mixed alpha2-/I1-receptor agonist) in female rats and implicates the cardiovascular autonomic control in this interaction. The present study investigated whether this effect of estrogen involves interaction with alpha2- and/or I1-receptors. Changes evoked by a single intraperitoneal injection of rilmenidine (600 microg/kg) or alpha-methyldopa (100 mg/kg), selective I1- and alpha2-receptor agonists, respectively, in blood pressure, hemodynamic variability, and locomotor activity were assessed in radiotelemetered sham-operated and ovariectomized (Ovx) Sprague-Dawley female rats with or without 12-wk estrogen replacement. Three time domain indexes of hemodynamic variability were employed: the standard deviation of mean arterial pressure as a measure of blood pressure variability and the standard deviation of beat-to-beat intervals (SDRR) and the root mean square of successive differences in R-wave-to-R-wave intervals as measures of heart rate variability. In sham-operated rats, rilmenidine or alpha-methyldopa elicited similar hypotension that lasted at least 5 h and was associated with reductions in standard deviation of mean arterial pressure. SDRR was reduced only by alpha-methyldopa. Ovx significantly enhanced the hypotensive response to alpha-methyldopa, in contrast to no effect on rilmenidine hypotension. The enhanced alpha-methyldopa hypotension in Ovx rats was paralleled with further reduction in SDRR and a reduced locomotor activity. Estrogen replacement (17beta-estradiol subcutaneous pellet, 14.2 microg/day, 12 wk) of Ovx rats restored the hemodynamic and locomotor effects of alpha-methyldopa to sham-operated levels. These findings suggest that estrogen downregulates alpha2- but not I1-receptor-mediated hypotension and highlight a role for the cardiac autonomic control in alpha-methyldopa-estrogen interaction.
+15145918	27	35	estrogen	ChemicalEntity	D004967
+15145918	39	84	alpha2-adrenergic and I1-imidazoline receptor	GeneOrGeneProduct	25083,64652
+15145918	94	105	hypotension	DiseaseOrPhenotypicFeature	D007022
+15145918	116	120	rats	OrganismTaxon	10116
+15145918	150	158	estrogen	ChemicalEntity	D004967
+15145918	184	195	hypotensive	DiseaseOrPhenotypicFeature	D007022
+15145918	206	215	clonidine	ChemicalEntity	D003000
+15145918	223	242	alpha2-/I1-receptor	GeneOrGeneProduct	25083,64652
+15145918	262	266	rats	OrganismTaxon	10116
+15145918	394	402	estrogen	ChemicalEntity	D004967
+15145918	429	456	alpha2- and/or I1-receptors	GeneOrGeneProduct	25083,64652
+15145918	514	525	rilmenidine	ChemicalEntity	C032302
+15145918	545	561	alpha-methyldopa	ChemicalEntity	D008750
+15145918	585	608	I1- and alpha2-receptor	GeneOrGeneProduct	25083,64652
+15145918	795	799	rats	OrganismTaxon	10116
+15145918	822	830	estrogen	ChemicalEntity	D004967
+15145918	1201	1205	rats	OrganismTaxon	10116
+15145918	1207	1218	rilmenidine	ChemicalEntity	C032302
+15145918	1222	1238	alpha-methyldopa	ChemicalEntity	D008750
+15145918	1256	1267	hypotension	DiseaseOrPhenotypicFeature	D007022
+15145918	1402	1418	alpha-methyldopa	ChemicalEntity	D008750
+15145918	1451	1462	hypotensive	DiseaseOrPhenotypicFeature	D007022
+15145918	1475	1491	alpha-methyldopa	ChemicalEntity	D008750
+15145918	1521	1532	rilmenidine	ChemicalEntity	C032302
+15145918	1533	1544	hypotension	DiseaseOrPhenotypicFeature	D007022
+15145918	1559	1575	alpha-methyldopa	ChemicalEntity	D008750
+15145918	1576	1587	hypotension	DiseaseOrPhenotypicFeature	D007022
+15145918	1595	1599	rats	OrganismTaxon	10116
+15145918	1650	1678	a reduced locomotor activity	DiseaseOrPhenotypicFeature	D001523
+15145918	1702	1718	17beta-estradiol	ChemicalEntity	D004958
+15145918	1771	1775	rats	OrganismTaxon	10116
+15145918	1826	1842	alpha-methyldopa	ChemicalEntity	D008750
+15145918	1896	1904	estrogen	ChemicalEntity	D004967
+15145918	1919	1946	alpha2- but not I1-receptor	GeneOrGeneProduct	25083
+15145918	1956	1967	hypotension	DiseaseOrPhenotypicFeature	D007022
+15145918	2026	2042	alpha-methyldopa	ChemicalEntity	D008750
+15145918	2043	2051	estrogen	ChemicalEntity	D004967
+15145918	Positive_Correlation	D003000	64652	No
+15145918	Positive_Correlation	D003000	D007022	No
+15145918	Positive_Correlation	D003000	25083	No
+15145918	Negative_Correlation	D004967	D003000	No
+15145918	Association	D004967	64652	Novel
+15145918	Negative_Correlation	D004967	D007022	No
+15145918	Negative_Correlation	D004967	25083	Novel
+15145918	Positive_Correlation	C032302	64652	No
+15145918	Positive_Correlation	C032302	D007022	Novel
+15145918	Positive_Correlation	C032302	25083	No
+15145918	Association	D008750	D004967	Novel
+15145918	Positive_Correlation	D008750	64652	No
+15145918	Positive_Correlation	D008750	D007022	Novel
+15145918	Positive_Correlation	D008750	25083	No
+15145918	Association	64652	D007022	No
+15145918	Association	25083	D007022	No

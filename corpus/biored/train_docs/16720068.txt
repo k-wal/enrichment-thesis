@@ -1,0 +1,87 @@
+16720068|t|Possible neuroleptic malignant syndrome related to concomitant treatment with paroxetine and alprazolam.
+16720068|a|A 74-year-old man with depressive symptoms was admitted to a psychiatric hospital due to insomnia, loss of appetite, exhaustion, and agitation. Medical treatment was initiated at a daily dose of 20 mg paroxetine and 1.2 mg alprazolam. On the 10th day of paroxetine and alprazolam treatment, the patient exhibited marked psychomotor retardation, disorientation, and severe muscle rigidity with tremors. The patient had a fever (38.2 degrees C), fluctuating blood pressure (between 165/90 and 130/70 mg mm Hg), and severe extrapyramidal symptoms. Laboratory tests showed an elevation of creatine phosphokinase (2218 IU/L), aspartate aminotransferase (134 IU/L), alanine aminotransferase (78 IU/L), and BUN (27.9 mg/ml) levels. The patient received bromocriptine and diazepam to treat his symptoms. 7 days later, the fever disappeared and the patient's serum CPK levels were normalized (175 IU/L). This patient presented with symptoms of neuroleptic malignant syndrome (NMS), thus demonstrating that NMS-like symptoms can occur after combined paroxetine and alprazolam treatment. The adverse drug reaction score obtained by the Naranjo algorithm was 6 in our case, indicating a probable relationship between the patient's NMS-like adverse symptoms and the combined treatment used in this case. The involvement of physiologic and environmental aspects specific to this patient was suspected. Several risk factors for NMS should be noted in elderly depressive patients whose symptoms often include dehydration, agitation, malnutrition, and exhaustion. Careful therapeutic intervention is necessary in cases involving elderly patients who suffer from depression.
+16720068	9	39	neuroleptic malignant syndrome	DiseaseOrPhenotypicFeature	D009459
+16720068	78	88	paroxetine	ChemicalEntity	D017374
+16720068	93	103	alprazolam	ChemicalEntity	D000525
+16720068	119	122	man	OrganismTaxon	9606
+16720068	128	147	depressive symptoms	DiseaseOrPhenotypicFeature	D003866
+16720068	166	177	psychiatric	DiseaseOrPhenotypicFeature	D001523
+16720068	194	202	insomnia	DiseaseOrPhenotypicFeature	D007319
+16720068	204	220	loss of appetite	DiseaseOrPhenotypicFeature	D001068
+16720068	238	247	agitation	DiseaseOrPhenotypicFeature	D011595
+16720068	306	316	paroxetine	ChemicalEntity	D017374
+16720068	328	338	alprazolam	ChemicalEntity	D000525
+16720068	359	369	paroxetine	ChemicalEntity	D017374
+16720068	374	384	alprazolam	ChemicalEntity	D000525
+16720068	400	407	patient	OrganismTaxon	9606
+16720068	425	448	psychomotor retardation	DiseaseOrPhenotypicFeature	D011596
+16720068	477	492	muscle rigidity	DiseaseOrPhenotypicFeature	D009127
+16720068	498	505	tremors	DiseaseOrPhenotypicFeature	D014202
+16720068	511	518	patient	OrganismTaxon	9606
+16720068	525	530	fever	DiseaseOrPhenotypicFeature	D005334
+16720068	625	648	extrapyramidal symptoms	DiseaseOrPhenotypicFeature	D001480
+16720068	690	712	creatine phosphokinase	ChemicalEntity	D003402
+16720068	726	752	aspartate aminotransferase	ChemicalEntity	D001219
+16720068	765	789	alanine aminotransferase	ChemicalEntity	D000410
+16720068	834	841	patient	OrganismTaxon	9606
+16720068	851	864	bromocriptine	ChemicalEntity	D001971
+16720068	869	877	diazepam	ChemicalEntity	D003975
+16720068	919	924	fever	DiseaseOrPhenotypicFeature	D005334
+16720068	945	952	patient	OrganismTaxon	9606
+16720068	961	964	CPK	ChemicalEntity	D003402
+16720068	1005	1012	patient	OrganismTaxon	9606
+16720068	1040	1070	neuroleptic malignant syndrome	DiseaseOrPhenotypicFeature	D009459
+16720068	1072	1075	NMS	DiseaseOrPhenotypicFeature	D009459
+16720068	1102	1105	NMS	DiseaseOrPhenotypicFeature	D009459
+16720068	1145	1155	paroxetine	ChemicalEntity	D017374
+16720068	1160	1170	alprazolam	ChemicalEntity	D000525
+16720068	1314	1321	patient	OrganismTaxon	9606
+16720068	1324	1327	NMS	DiseaseOrPhenotypicFeature	D009459
+16720068	1470	1477	patient	OrganismTaxon	9606
+16720068	1518	1521	NMS	DiseaseOrPhenotypicFeature	D009459
+16720068	1549	1559	depressive	DiseaseOrPhenotypicFeature	D003866
+16720068	1560	1568	patients	OrganismTaxon	9606
+16720068	1598	1609	dehydration	DiseaseOrPhenotypicFeature	D003681
+16720068	1611	1620	agitation	DiseaseOrPhenotypicFeature	D011595
+16720068	1622	1634	malnutrition	DiseaseOrPhenotypicFeature	D044342
+16720068	1725	1733	patients	OrganismTaxon	9606
+16720068	1750	1760	depression	DiseaseOrPhenotypicFeature	D003866
+16720068	Negative_Correlation	D011595	D000525	No
+16720068	Negative_Correlation	D011595	D017374	No
+16720068	Negative_Correlation	D001068	D000525	No
+16720068	Negative_Correlation	D001068	D017374	No
+16720068	Negative_Correlation	D007319	D000525	No
+16720068	Negative_Correlation	D007319	D017374	No
+16720068	Negative_Correlation	D003866	D000525	No
+16720068	Negative_Correlation	D003866	D017374	No
+16720068	Negative_Correlation	D003402	D003975	No
+16720068	Negative_Correlation	D003402	D001971	No
+16720068	Negative_Correlation	D003975	D001480	No
+16720068	Negative_Correlation	D001971	D001480	No
+16720068	Positive_Correlation	D001480	D000410	Novel
+16720068	Positive_Correlation	D001480	D001219	Novel
+16720068	Positive_Correlation	D001480	D003402	Novel
+16720068	Positive_Correlation	D001480	D000525	Novel
+16720068	Positive_Correlation	D001480	D017374	Novel
+16720068	Positive_Correlation	D005334	D000410	Novel
+16720068	Positive_Correlation	D005334	D001219	Novel
+16720068	Positive_Correlation	D005334	D003402	Novel
+16720068	Negative_Correlation	D005334	D003975	No
+16720068	Negative_Correlation	D005334	D001971	No
+16720068	Negative_Correlation	D014202	D003975	No
+16720068	Negative_Correlation	D014202	D001971	No
+16720068	Negative_Correlation	D009127	D003975	No
+16720068	Negative_Correlation	D009127	D001971	No
+16720068	Negative_Correlation	D011596	D003975	No
+16720068	Negative_Correlation	D011596	D001971	No
+16720068	Positive_Correlation	D000525	D005334	Novel
+16720068	Positive_Correlation	D000525	D014202	Novel
+16720068	Positive_Correlation	D000525	D009127	Novel
+16720068	Positive_Correlation	D000525	D011596	Novel
+16720068	Positive_Correlation	D000525	D009459	Novel
+16720068	Positive_Correlation	D017374	D005334	Novel
+16720068	Positive_Correlation	D017374	D014202	Novel
+16720068	Positive_Correlation	D017374	D009127	Novel
+16720068	Positive_Correlation	D017374	D011596	Novel
+16720068	Drug_Interaction	D017374	D000525	No
+16720068	Positive_Correlation	D017374	D009459	Novel

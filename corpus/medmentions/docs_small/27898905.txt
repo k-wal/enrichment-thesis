@@ -1,0 +1,63 @@
+27898905|t|Opportunities for genomic prediction for fertility using endocrine and classical fertility traits in dairy cattle
+27898905|a|Endocrine fertility traits, defined from progesterone concentration levels in milk, have been suggested as alternative indicators for fertility in dairy cows because they are less biased by farm management decisions and more directly reflect a cow 's reproductive physiology than classical traits derived from insemination and calving data. To determine the potential use of endocrine fertility traits in genomic evaluations, the improvement in accuracy from using endocrine fertility traits concurrent with classical traits in the genomic prediction of fertility was quantified. The impact of recording all traits on all training animals was also investigated. Endocrine and classical fertility records were available on 5,339 lactations from 2,447 Holstein cows in Ireland, the Netherlands, Sweden, and the United Kingdom. The endocrine traits were commencement of luteal activity (C-LA) and proportion of samples with luteal activity (PLA); the classical trait was the interval from calving to first service (CFS). The interval from C-LA to first service (C-LAFS), which is a combination of an endocrine trait and a classical trait, was also investigated. The target (breeding goal) trait for fertility was CFS or C-LAFS, whereas C-LA and PLA served as predictor traits. Genomic EBV (GEBV) for fertility were derived using genomic BLUP in bivariate models with 85,485 SNP. Genomic EBV for the separate fertility traits were also computed, in univariate models. The accuracy of GEBV was evaluated by 5-fold cross-validation. The highest accuracy of GEBV was achieved using bivariate predictions, where both an endocrine fertility trait and the classical fertility trait were used. Accuracy of GEBV for predicting adjusted phenotypes for CFS in the univariate model was 0.04, but when predicting CFS using a bivariate model with C-LA, the accuracy increased to 0.14 when all training animals were phenotyped for C-LA and (or not) for CFS. On phenotyping all training animals for both C-LA and CFS, accuracy for CFS increased to 0.18; however, when validation animals were also phenotyped for C-LA, there was no substantial increase in accuracy. When predicting CFS in bivariate analysis with PLA, accuracy ranged from 0.07 to 0.14. This first study on genomic predictions for fertility using endocrine traits suggests some improvement in the accuracy of prediction over using only the classical traits. Further studies with larger training populations may show greater improvements.
+27898905	18	25	genomic	T017	UMLS:C0017428
+27898905	41	50	fertility	T038	UMLS:C0015895
+27898905	57	66	endocrine	T022	UMLS:C0014136
+27898905	81	90	fertility	T038	UMLS:C0015895
+27898905	101	113	dairy cattle	T204	UMLS:C0007452
+27898905	114	123	Endocrine	T022	UMLS:C0014136
+27898905	124	133	fertility	T038	UMLS:C0015895
+27898905	155	167	progesterone	T103	UMLS:C0033308
+27898905	192	196	milk	T031	UMLS:C0026131
+27898905	248	257	fertility	T038	UMLS:C0015895
+27898905	261	271	dairy cows	T204	UMLS:C0007452
+27898905	304	308	farm	T082	UMLS:C0557759
+27898905	320	329	decisions	T038	UMLS:C0679006
+27898905	358	361	cow	T204	UMLS:C0007452
+27898905	365	377	reproductive	T038	UMLS:C0035150
+27898905	378	388	physiology	T038	UMLS:C0031843
+27898905	424	436	insemination	T038	UMLS:C0021586
+27898905	489	498	endocrine	T022	UMLS:C0014136
+27898905	499	508	fertility	T038	UMLS:C0015895
+27898905	519	526	genomic	T017	UMLS:C0017428
+27898905	527	538	evaluations	T062	UMLS:C0015195
+27898905	579	588	endocrine	T022	UMLS:C0014136
+27898905	589	598	fertility	T038	UMLS:C0015895
+27898905	646	653	genomic	T017	UMLS:C0017428
+27898905	668	677	fertility	T038	UMLS:C0015895
+27898905	745	752	animals	T204	UMLS:C0003062
+27898905	776	785	Endocrine	T022	UMLS:C0014136
+27898905	800	809	fertility	T038	UMLS:C0015895
+27898905	842	852	lactations	T038	UMLS:C0022925
+27898905	864	877	Holstein cows	T204	UMLS:C0324069
+27898905	881	888	Ireland	T082	UMLS:C0022067
+27898905	894	905	Netherlands	T082	UMLS:C0027778
+27898905	907	913	Sweden	T082	UMLS:C0038995
+27898905	923	937	United Kingdom	T082	UMLS:C0041700
+27898905	943	952	endocrine	T022	UMLS:C0014136
+27898905	1211	1220	endocrine	T022	UMLS:C0014136
+27898905	1310	1319	fertility	T038	UMLS:C0015895
+27898905	1388	1399	Genomic EBV	T017	UMLS:C0017428
+27898905	1401	1405	GEBV	T017	UMLS:C0017428
+27898905	1411	1420	fertility	T038	UMLS:C0015895
+27898905	1440	1452	genomic BLUP	T062	UMLS:C1710191
+27898905	1485	1488	SNP	T082	UMLS:C0752046
+27898905	1519	1528	fertility	T038	UMLS:C0015895
+27898905	1594	1598	GEBV	T017	UMLS:C0017428
+27898905	1623	1639	cross-validation	T062	UMLS:C0681935
+27898905	1665	1669	GEBV	T017	UMLS:C0017428
+27898905	1726	1735	endocrine	T022	UMLS:C0014136
+27898905	1736	1745	fertility	T038	UMLS:C0015895
+27898905	1770	1779	fertility	T038	UMLS:C0015895
+27898905	1809	1813	GEBV	T017	UMLS:C0017428
+27898905	1990	2006	training animals	T204	UMLS:C0003062
+27898905	2073	2089	training animals	T204	UMLS:C0003062
+27898905	2163	2173	validation	T062	UMLS:C1519941
+27898905	2174	2181	animals	T204	UMLS:C0003062
+27898905	2223	2225	no	T033	UMLS:C1513916
+27898905	2358	2363	study	T062	UMLS:C2603343
+27898905	2367	2374	genomic	T017	UMLS:C0017428
+27898905	2391	2400	fertility	T038	UMLS:C0015895
+27898905	2407	2416	endocrine	T022	UMLS:C0014136
+27898905	2526	2533	studies	T062	UMLS:C2603343
+27898905	2546	2566	training populations	T098	UMLS:C1257890

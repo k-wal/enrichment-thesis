@@ -1,0 +1,48 @@
+28524099|t|Metabolomics of Therapy Response in Preclinical Glioblastoma: A Multi-Slice MRSI -Based Volumetric Analysis for Noninvasive Assessmen t of Temozolomide Treatment
+28524099|a|Glioblastoma (GBM) is the most common aggressive primary brain tumor in adults, with a short survival time even after aggressive therapy. Non-invasive surrogate biomarkers of therapy response may be relevant for improving patient survival. Previous work produced such biomarkers in preclinical GBM using semi-supervised source extraction and single-slice Magnetic Resonance Spectroscopic Imaging (MRSI). Nevertheless, GBMs are heterogeneous and single-slice studies could prevent obtaining relevant information. The purpose of this work was to evaluate whether a multi-slice MRSI approach, acquiring consecutive grids across the tumor, is feasible for preclinical models and may produce additional insight into therapy response. Nosological images were analyzed pixel-by-pixel and a relative responding volume, the Tumor Responding Index (TRI), was defined to quantify response. Heterogeneous response levels were observed and treated animals were ascribed to three arbitrary predefined groups: high response (HR, n = 2), TRI = 68.2 ± 2.8%, intermediate response (IR, n = 6), TRI = 41.1 ± 4.2% and low response (LR, n = 2), TRI = 13.4 ± 14.3%, producing therapy response categorization which had not been fully registered in single-slice studies. Results agreed with the multi-slice approach being feasible and producing an inverse correlation between TRI and Ki67 immunostaining. Additionally, ca. 7-day oscillations of TRI were observed, suggesting that host immune system activation in response to treatment could contribute to the responding patterns detected.
+28524099	0	12	Metabolomics	T091	UMLS:C1328813
+28524099	16	23	Therapy	T058	UMLS:C0087111
+28524099	48	60	Glioblastoma	T038	UMLS:C0017636
+28524099	64	80	Multi-Slice MRSI	T058	UMLS:C1522706
+28524099	139	151	Temozolomide	T103	UMLS:C0076080
+28524099	152	161	Treatment	T058	UMLS:C0087111
+28524099	162	174	Glioblastoma	T038	UMLS:C0017636
+28524099	176	179	GBM	T038	UMLS:C0017636
+28524099	219	230	brain tumor	T038	UMLS:C0006118
+28524099	255	268	survival time	T201	UMLS:C2919552
+28524099	291	298	therapy	T058	UMLS:C0087111
+28524099	323	333	biomarkers	T103	UMLS:C0041366
+28524099	337	344	therapy	T058	UMLS:C0087111
+28524099	411	415	work	T062	UMLS:C0008972
+28524099	430	440	biomarkers	T103	UMLS:C0041366
+28524099	456	459	GBM	T038	UMLS:C0017636
+28524099	466	499	semi-supervised source extraction	T058	UMLS:C0005567
+28524099	504	557	single-slice Magnetic Resonance Spectroscopic Imaging	T058	UMLS:C1522706
+28524099	559	563	MRSI	T058	UMLS:C1522706
+28524099	580	584	GBMs	T038	UMLS:C0017636
+28524099	607	627	single-slice studies	T062	UMLS:C0008972
+28524099	694	698	work	T062	UMLS:C0008972
+28524099	706	714	evaluate	T062	UMLS:C0936012
+28524099	725	741	multi-slice MRSI	T058	UMLS:C1522706
+28524099	791	796	tumor	T038	UMLS:C0027651
+28524099	814	832	preclinical models	T170	UMLS:C1514292
+28524099	873	880	therapy	T058	UMLS:C0087111
+28524099	915	923	analyzed	T062	UMLS:C0936012
+28524099	977	999	Tumor Responding Index	T170	UMLS:C0918012
+28524099	1001	1004	TRI	T170	UMLS:C0918012
+28524099	1089	1096	treated	T058	UMLS:C0332293
+28524099	1097	1104	animals	T204	UMLS:C0003062
+28524099	1184	1187	TRI	T170	UMLS:C0918012
+28524099	1238	1241	TRI	T170	UMLS:C0918012
+28524099	1286	1289	TRI	T170	UMLS:C0918012
+28524099	1316	1323	therapy	T058	UMLS:C0087111
+28524099	1333	1347	categorization	T170	UMLS:C0008902
+28524099	1387	1407	single-slice studies	T062	UMLS:C0008972
+28524099	1433	1453	multi-slice approach	T058	UMLS:C1522706
+28524099	1514	1517	TRI	T170	UMLS:C0918012
+28524099	1522	1541	Ki67 immunostaining	T058	UMLS:C4055454
+28524099	1557	1559	ca	T103	UMLS:C0006675
+28524099	1583	1586	TRI	T170	UMLS:C0918012
+28524099	1623	1647	immune system activation	T038	UMLS:C2256029
+28524099	1651	1672	response to treatment	T201	UMLS:C0521982
+28524099	1708	1716	patterns	T082	UMLS:C0449774

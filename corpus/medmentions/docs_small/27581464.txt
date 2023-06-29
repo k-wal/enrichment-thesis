@@ -1,0 +1,111 @@
+27581464|t|Disulfiram and Diphenhydramine Hydrochloride Upregulate miR-30a to Suppress IL-17-Associated Autoimmune Inflammation
+27581464|a|T-helper 17 (Th17) cells play an important role in the pathogenesis of multiple sclerosis (MS), an autoimmune demyelinating disease that affects the CNS. In the present study, MicroRNA sequencing (miRNA-seq) was performed in mouse Th0 and Th17 cells to determine the critical miRNAs that are related to Th17 differentiation. We found that miR-30a was significantly downregulated during mouse Th17 differentiation. In addition, the level of miR-30a in CD4(+) T cells from peripheral blood of MS patients and experimental autoimmune encephalomyelitis (EAE) animal models was also decreased and inversely correlated with the expression of interleukin 17a, the canonical cytokine of Th17 cells. Moreover, overexpression of miR-30a inhibited Th17 differentiation and prevented the full development of EAE, whereas interference of miR-30a promoted Th17 differentiation. Mechanism studies showed that miR-30a reduced IRF4 expression by specifically binding with the 3'-untranslated region. Through screening of 640 different Food and Drug Administration (FDA)-approved drugs, we found that disulfiram and diphenhydramine hydrochloride were effective candidates for inhibiting Th17 differentiation and ameliorating EAE development through upregulating miR-30a. To our knowledge, the present work is not only the first miRNA-seq study focusing on Th17 differentiation, but also the first chemical screening for FDA-approved drugs that inhibit Th17 differentiation through regulating miRNA expression. The present work is the first miRNA sequencing (miRNA-seq) study focusing on T-helper 17 (Th17) differentiation. By miRNA deep sequencing, we found that miR-30a was downregulated during Th17 differentiation. miR-30a was also decreased in CD4(+) T cells from multiple sclerosis patients and experimental autoimmune encephalomyelitis (EAE) mice. miR-30a reduced IRF4 expression by specific binding with the 3'-untranslated region and thus suppressed Th17 differentiation and prevented the full development of EAE. Interestingly, by performing a chemical screen with Food and Drug Administration-approved small-molecule drugs, we found that disulfiram and diphenhydramine upregulated miR-30a and suppressed Th17 - associated autoimmune demyelination.
+27581464	0	10	Disulfiram	T103	UMLS:C0012772
+27581464	15	44	Diphenhydramine Hydrochloride	T103	UMLS:C0004963
+27581464	45	55	Upregulate	T038	UMLS:C0041904
+27581464	56	63	miR-30a	T017	UMLS:C1537736
+27581464	76	116	IL-17-Associated Autoimmune Inflammation	T038	UMLS:C0004364
+27581464	117	128	T-helper 17	T017	UMLS:C2936411
+27581464	129	141	(Th17) cells	T017	UMLS:C2936411
+27581464	172	184	pathogenesis	T038	UMLS:C0699748
+27581464	188	206	multiple sclerosis	T038	UMLS:C0026769
+27581464	208	210	MS	T038	UMLS:C0026769
+27581464	216	248	autoimmune demyelinating disease	T038	UMLS:C3888521
+27581464	266	269	CNS	T022	UMLS:C3714787
+27581464	278	285	present	T033	UMLS:C0150312
+27581464	286	291	study	T062	UMLS:C2603343
+27581464	293	312	MicroRNA sequencing	T058	UMLS:C0917793
+27581464	314	323	miRNA-seq	T058	UMLS:C0917793
+27581464	342	347	mouse	T204	UMLS:C1522424
+27581464	348	351	Th0	T017	UMLS:C3641721
+27581464	356	366	Th17 cells	T017	UMLS:C2936411
+27581464	393	399	miRNAs	T103	UMLS:C1101610
+27581464	420	424	Th17	T017	UMLS:C2936411
+27581464	425	440	differentiation	T038	UMLS:C0007589
+27581464	456	463	miR-30a	T017	UMLS:C1537736
+27581464	482	495	downregulated	T038	UMLS:C0013081
+27581464	503	508	mouse	T204	UMLS:C1522424
+27581464	509	513	Th17	T017	UMLS:C2936411
+27581464	514	529	differentiation	T038	UMLS:C0007589
+27581464	557	564	miR-30a	T103	UMLS:C2741800
+27581464	568	582	CD4(+) T cells	T017	UMLS:C0039215
+27581464	588	604	peripheral blood	T031	UMLS:C0229664
+27581464	608	610	MS	T038	UMLS:C0026769
+27581464	624	665	experimental autoimmune encephalomyelitis	T038	UMLS:C0014072
+27581464	667	670	EAE	T038	UMLS:C0014072
+27581464	672	685	animal models	T204	UMLS:C0599779
+27581464	739	749	expression	T038	UMLS:C0017262
+27581464	753	768	interleukin 17a	T017	UMLS:C1825592
+27581464	774	792	canonical cytokine	T103	UMLS:C0079189
+27581464	796	806	Th17 cells	T017	UMLS:C2936411
+27581464	818	832	overexpression	T038	UMLS:C1514559
+27581464	836	843	miR-30a	T103	UMLS:C2741800
+27581464	854	858	Th17	T017	UMLS:C2936411
+27581464	859	874	differentiation	T038	UMLS:C0007589
+27581464	913	916	EAE	T038	UMLS:C0014072
+27581464	942	949	miR-30a	T017	UMLS:C1537736
+27581464	959	963	Th17	T017	UMLS:C2936411
+27581464	964	979	differentiation	T038	UMLS:C0007589
+27581464	981	998	Mechanism studies	T062	UMLS:C2603343
+27581464	1011	1018	miR-30a	T103	UMLS:C2741800
+27581464	1027	1031	IRF4	T017	UMLS:C0812314
+27581464	1032	1042	expression	T038	UMLS:C0017262
+27581464	1059	1066	binding	T038	UMLS:C1523647
+27581464	1076	1098	3'-untranslated region	T082	UMLS:C0600600
+27581464	1108	1117	screening	T058	UMLS:C1710032
+27581464	1135	1184	Food and Drug Administration (FDA)-approved drugs	T103	UMLS:C1254351
+27581464	1200	1210	disulfiram	T103	UMLS:C0012772
+27581464	1215	1244	diphenhydramine hydrochloride	T103	UMLS:C0004963
+27581464	1286	1290	Th17	T017	UMLS:C2936411
+27581464	1291	1306	differentiation	T038	UMLS:C0007589
+27581464	1324	1327	EAE	T038	UMLS:C0014072
+27581464	1348	1360	upregulating	T038	UMLS:C0041904
+27581464	1361	1368	miR-30a	T017	UMLS:C1537736
+27581464	1392	1399	present	T033	UMLS:C0150312
+27581464	1427	1436	miRNA-seq	T058	UMLS:C0917793
+27581464	1437	1442	study	T062	UMLS:C2603343
+27581464	1455	1459	Th17	T017	UMLS:C2936411
+27581464	1460	1475	differentiation	T038	UMLS:C0007589
+27581464	1496	1514	chemical screening	T058	UMLS:C3495389
+27581464	1519	1537	FDA-approved drugs	T103	UMLS:C1254351
+27581464	1551	1555	Th17	T017	UMLS:C2936411
+27581464	1556	1571	differentiation	T038	UMLS:C0007589
+27581464	1580	1590	regulating	T038	UMLS:C1148560
+27581464	1591	1596	miRNA	T017	UMLS:C2825314
+27581464	1597	1607	expression	T038	UMLS:C0017262
+27581464	1613	1620	present	T033	UMLS:C0150312
+27581464	1639	1655	miRNA sequencing	T058	UMLS:C0917793
+27581464	1657	1666	miRNA-seq	T058	UMLS:C0917793
+27581464	1668	1673	study	T062	UMLS:C2603343
+27581464	1686	1697	T-helper 17	T017	UMLS:C2936411
+27581464	1699	1703	Th17	T017	UMLS:C2936411
+27581464	1705	1720	differentiation	T038	UMLS:C0007589
+27581464	1725	1730	miRNA	T103	UMLS:C1101610
+27581464	1736	1746	sequencing	T058	UMLS:C0917793
+27581464	1751	1756	found	T033	UMLS:C0243095
+27581464	1762	1769	miR-30a	T017	UMLS:C1537736
+27581464	1774	1787	downregulated	T038	UMLS:C0013081
+27581464	1795	1799	Th17	T017	UMLS:C2936411
+27581464	1800	1815	differentiation	T038	UMLS:C0007589
+27581464	1817	1824	miR-30a	T103	UMLS:C2741800
+27581464	1847	1861	CD4(+) T cells	T017	UMLS:C0039215
+27581464	1867	1885	multiple sclerosis	T038	UMLS:C0026769
+27581464	1899	1940	experimental autoimmune encephalomyelitis	T038	UMLS:C0014072
+27581464	1942	1945	EAE	T038	UMLS:C0014072
+27581464	1947	1951	mice	T204	UMLS:C0025929
+27581464	1953	1960	miR-30a	T103	UMLS:C2741800
+27581464	1969	1973	IRF4	T017	UMLS:C0812314
+27581464	1974	1984	expression	T038	UMLS:C0017262
+27581464	1988	2004	specific binding	T038	UMLS:C1523647
+27581464	2014	2036	3'-untranslated region	T082	UMLS:C0600600
+27581464	2057	2061	Th17	T017	UMLS:C2936411
+27581464	2062	2077	differentiation	T038	UMLS:C0007589
+27581464	2116	2119	EAE	T038	UMLS:C0014072
+27581464	2152	2167	chemical screen	T058	UMLS:C3495389
+27581464	2173	2231	Food and Drug Administration-approved small-molecule drugs	T103	UMLS:C1254351
+27581464	2247	2257	disulfiram	T103	UMLS:C0012772
+27581464	2262	2277	diphenhydramine	T103	UMLS:C0012522
+27581464	2278	2289	upregulated	T038	UMLS:C0041904
+27581464	2290	2297	miR-30a	T017	UMLS:C1537736
+27581464	2313	2317	Th17	T017	UMLS:C2936411
+27581464	2320	2355	associated autoimmune demyelination	T038	UMLS:C0004364

@@ -1,0 +1,39 @@
+16822828|t|Genotyping of five chinese patients with 17alpha-hydroxylase deficiency diagnosed through high-performance liquid chromatography serum adrenal profile: identification of two novel CYP17 mutations.
+16822828|a|CONTEXT: 17alpha-Hydroxylase deficiency is a rare form of congenital adrenal hyperplasia caused by CYP17 gene mutations. OBJECTIVE: Five Chinese patients with 17alpha-hydroxylase deficiency were genotyped. PATIENTS: The five patients derived from four families living in Shandong Province, China. The diagnosis of 17alpha-hydroxylase deficiency was initially established through HPLC serum adrenal profiles in Qilu Hospital, China, from 1983-1993. RESULTS: Three CYP17 gene mutations were identified from these patients. Among them, V311fs and Y329fs are two novel frame-shifting mutations. V311fs is an 8-bp nucleotide (TTAAATGG) deletion in exon 5. Y329fs is a deletion-insertion combined mutation (TAC-->AA) at codon 329 in exon 6. Two homozygotes for Y329fs and one compound heterozygote for Y329fs and V311fs were identified from three different families. Two homozygous sisters for the D487_S488_F489 deletion were identified. CONCLUSION: The results confirmed the diagnostic value of the HPLC serum adrenal profile for 17alpha-hydroxylase deficiency. The D487_S488_F489 deletion had been identified in two previously genotyped Chinese families. In our present study, a third Chinese family with this mutation was identified, suggesting that this mutation is a prevalent CYP17 mutation in the Chinese population. The identification of Y329fs mutation in addition to three previously identified mutations at codon 329 suggests that codon 329 is an unstable point of the CYP17 gene. The mutations identified from our five patients appear to be random, but the recurrence of the Y329fs mutation may be attributed to a founder effect. Our studies suggest that 17alpha-hydroxylase deficiency may not be rare in the Chinese population.
+16822828	27	35	patients	OrganismTaxon	9606
+16822828	41	71	17alpha-hydroxylase deficiency	DiseaseOrPhenotypicFeature	C538237
+16822828	180	185	CYP17	GeneOrGeneProduct	1586
+16822828	206	236	17alpha-Hydroxylase deficiency	DiseaseOrPhenotypicFeature	C538237
+16822828	255	285	congenital adrenal hyperplasia	DiseaseOrPhenotypicFeature	D000312
+16822828	296	301	CYP17	GeneOrGeneProduct	1586
+16822828	342	350	patients	OrganismTaxon	9606
+16822828	356	386	17alpha-hydroxylase deficiency	DiseaseOrPhenotypicFeature	C538237
+16822828	403	411	PATIENTS	OrganismTaxon	9606
+16822828	422	430	patients	OrganismTaxon	9606
+16822828	511	541	17alpha-hydroxylase deficiency	DiseaseOrPhenotypicFeature	C538237
+16822828	660	665	CYP17	GeneOrGeneProduct	1586
+16822828	708	716	patients	OrganismTaxon	9606
+16822828	730	736	V311fs	SequenceVariant	p|FS|V|311||
+16822828	741	747	Y329fs	SequenceVariant	p|FS|Y|329||
+16822828	788	794	V311fs	SequenceVariant	p|FS|V|311||
+16822828	801	836	8-bp nucleotide (TTAAATGG) deletion	SequenceVariant	c|DEL||TTAAATGG
+16822828	848	854	Y329fs	SequenceVariant	p|FS|Y|329||
+16822828	897	920	(TAC-->AA) at codon 329	SequenceVariant	c|SUB|TAC|CODON329|AA
+16822828	952	958	Y329fs	SequenceVariant	p|FS|Y|329||
+16822828	993	999	Y329fs	SequenceVariant	p|FS|Y|329||
+16822828	1004	1010	V311fs	SequenceVariant	p|FS|V|311||
+16822828	1089	1112	D487_S488_F489 deletion	SequenceVariant	p|DEL|487_489|DSF
+16822828	1223	1253	17alpha-hydroxylase deficiency	DiseaseOrPhenotypicFeature	C538237
+16822828	1259	1282	D487_S488_F489 deletion	SequenceVariant	p|DEL|487_489|DSF
+16822828	1474	1479	CYP17	GeneOrGeneProduct	1586
+16822828	1538	1544	Y329fs	SequenceVariant	p|FS|Y|329||
+16822828	1672	1677	CYP17	GeneOrGeneProduct	1586
+16822828	1723	1731	patients	OrganismTaxon	9606
+16822828	1779	1785	Y329fs	SequenceVariant	p|FS|Y|329||
+16822828	1859	1889	17alpha-hydroxylase deficiency	DiseaseOrPhenotypicFeature	C538237
+16822828	Association	1586	C538237	No
+16822828	Positive_Correlation	p|DEL|487_489|DSF	C538237	Novel
+16822828	Positive_Correlation	c|SUB|TAC|CODON329|AA	C538237	Novel
+16822828	Positive_Correlation	c|DEL||TTAAATGG	C538237	Novel
+16822828	Positive_Correlation	p|FS|Y|329||	C538237	Novel
+16822828	Positive_Correlation	p|FS|V|311||	C538237	Novel

@@ -1,0 +1,34 @@
+16181814|t|Mono-allelic POLG expression resulting from nonsense-mediated decay and alternative splicing in a patient with Alpers syndrome.
+16181814|a|Alpers syndrome is an autosomal recessive mitochondrial DNA depletion disorder that affects children and young adults. It is characterized by a progressive, fatal brain and liver disease. This syndrome has been associated with mutations in POLG, the gene encoding the mitochondrial DNA polymerase (pol gamma). Most patients with Alpers syndrome have been found to be compound heterozygotes, carrying two pathogenic mutations in trans at the POLG locus. POLG is a nuclear-encoded gene whose protein product is imported into mitochondria, where it is essential for mtDNA replication and repair. We studied the skin fibroblasts of a patient with Alpers syndrome having the genotype E873stop/A467T. The E873stop mutation produces a premature termination codon (TAG) in exon 17. The A467T mutation produces a threonine to alanine substitution at a highly conserved site in exon 7. The allele bearing the stop codon (E873-TAG) is predicted to produce a truncated, catalytically inactive polymerase. However, only full-length pol gamma protein was detected by Western blot analysis. Here, we show that transcripts containing this stop codon undergo nonsense-associated alternative splicing and nonsense-mediated decay. More than 95% of the functional POLG mRNA was derived from the allele bearing the A467T mutation and less than 5% contained the E873stop mutation. These events ensured that virtually all POLG protein in the cell was expressed from the A467T allele. Therefore, the Alpers phenotype in this patient was a consequence of a single-copy gene dose of the A467T allele, and selective elimination of transcripts bearing the E873stop mutation.
+16181814	13	17	POLG	GeneOrGeneProduct	5428
+16181814	98	105	patient	OrganismTaxon	9606
+16181814	111	126	Alpers syndrome	DiseaseOrPhenotypicFeature	D002549
+16181814	128	143	Alpers syndrome	DiseaseOrPhenotypicFeature	D002549
+16181814	170	197	mitochondrial DNA depletion	DiseaseOrPhenotypicFeature	D028361
+16181814	301	314	liver disease	DiseaseOrPhenotypicFeature	D008107
+16181814	368	372	POLG	GeneOrGeneProduct	5428
+16181814	426	435	pol gamma	GeneOrGeneProduct	5428
+16181814	443	451	patients	OrganismTaxon	9606
+16181814	457	472	Alpers syndrome	DiseaseOrPhenotypicFeature	D002549
+16181814	569	573	POLG	GeneOrGeneProduct	5428
+16181814	581	585	POLG	GeneOrGeneProduct	5428
+16181814	758	765	patient	OrganismTaxon	9606
+16181814	771	786	Alpers syndrome	DiseaseOrPhenotypicFeature	D002549
+16181814	807	815	E873stop	SequenceVariant	rs121918047
+16181814	816	821	A467T	SequenceVariant	rs113994095
+16181814	827	835	E873stop	SequenceVariant	rs121918047
+16181814	906	911	A467T	SequenceVariant	rs113994095
+16181814	932	952	threonine to alanine	SequenceVariant	rs113994095
+16181814	1039	1047	E873-TAG	SequenceVariant	rs121918047
+16181814	1147	1156	pol gamma	GeneOrGeneProduct	5428
+16181814	1372	1376	POLG	GeneOrGeneProduct	5428
+16181814	1422	1427	A467T	SequenceVariant	rs113994095
+16181814	1468	1476	E873stop	SequenceVariant	rs121918047
+16181814	1527	1531	POLG	GeneOrGeneProduct	5428
+16181814	1575	1580	A467T	SequenceVariant	rs113994095
+16181814	1629	1636	patient	OrganismTaxon	9606
+16181814	1689	1694	A467T	SequenceVariant	rs113994095
+16181814	1756	1764	E873stop	SequenceVariant	rs121918047
+16181814	Association	D002549	rs113994095	Novel
+16181814	Association	D002549	rs121918047	Novel
+16181814	Association	D002549	5428	Novel

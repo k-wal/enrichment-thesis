@@ -1,0 +1,56 @@
+28002428|t|Integrated Strategy Improves the Prediction Accuracy of miRNA in Large Dataset
+28002428|a|MiRNAs are short non-coding RNAs of about 22 nucleotides, which play critical roles in gene expression regulation. The biogenesis of miRNAs is largely determined by the sequence and structural features of their parental RNA molecules. Based on these features, multiple computational tools have been developed to predict if RNA transcripts contain miRNAs or not. Although being very successful, these predictors started to face multiple challenges in recent years. Many predictors were optimized using datasets of hundreds of miRNA samples. The sizes of these datasets are much smaller than the number of known miRNAs. Consequently, the prediction accuracy of these predictors in large dataset becomes unknown and needs to be re-tested. In addition, many predictors were optimized for either high sensitivity or high specificity. These optimization strategies may bring in serious limitations in applications. Moreover, to meet continuously raised expectations on these computational tools, improving the prediction accuracy becomes extremely important. In this study, a meta-predictor mirMeta was developed by integrating a set of non-linear transformations with meta-strategy. More specifically, the outputs of five individual predictors were first preprocessed using non-linear transformations, and then fed into an artificial neural network to make the meta-prediction. The prediction accuracy of meta-predictor was validated using both multi-fold cross-validation and independent dataset. The final accuracy of meta-predictor in newly-designed large dataset is improved by 7% to 93%. The meta-predictor is also proved to be less dependent on datasets, as well as has refined balance between sensitivity and specificity. This study has two folds of importance: First, it shows that the combination of non-linear transformations and artificial neural networks improves the prediction accuracy of individual predictors. Second, a new miRNA predictor with significantly improved prediction accuracy is developed for the community for identifying novel miRNAs and the complete set of miRNAs. Source code is available at: https://github.com/xueLab/mirMeta.
+28002428	33	52	Prediction Accuracy	T080	C1514307
+28002428	56	61	miRNA	T114,T123	C1101610
+28002428	71	78	Dataset	T170	C0150098
+28002428	79	85	MiRNAs	T114,T123	C1101610
+28002428	96	111	non-coding RNAs	T114	C0887909
+28002428	124	135	nucleotides	T114	C0028630
+28002428	166	192	gene expression regulation	T045	C0017263
+28002428	212	218	miRNAs	T114,T123	C1101610
+28002428	248	256	sequence	T059,T063	C0162803
+28002428	299	312	RNA molecules	T167	C2324358
+28002428	348	367	computational tools	T091	C1140695
+28002428	402	417	RNA transcripts	T114,T123	C1136155
+28002428	426	432	miRNAs	T114,T123	C1101610
+28002428	479	489	predictors	T170	C0282574
+28002428	548	558	predictors	T170	C0282574
+28002428	580	588	datasets	T170	C0150098
+28002428	604	617	miRNA samples	T114,T123	C1101610
+28002428	638	646	datasets	T170	C0150098
+28002428	689	695	miRNAs	T114,T123	C1101610
+28002428	715	734	prediction accuracy	T080	C1514307
+28002428	744	754	predictors	T170	C0282574
+28002428	764	771	dataset	T170	C0150098
+28002428	833	843	predictors	T170	C0282574
+28002428	875	886	sensitivity	T081	C0036667
+28002428	895	906	specificity	T081	C0037791
+28002428	959	970	limitations	T169	C0449295
+28002428	1026	1038	expectations	T078	C0679138
+28002428	1048	1067	computational tools	T091	C1140695
+28002428	1083	1102	prediction accuracy	T080	C1514307
+28002428	1149	1163	meta-predictor	T170	C0282574
+28002428	1164	1171	mirMeta	T170	C0282574
+28002428	1242	1255	meta-strategy	T062	C0920317
+28002428	1307	1317	predictors	T170	C0282574
+28002428	1348	1374	non-linear transformations	T062	C0871424
+28002428	1397	1422	artificial neural network	T073,T170	C0009612
+28002428	1435	1450	meta-prediction	T062	C4277638
+28002428	1456	1475	prediction accuracy	T080	C1514307
+28002428	1479	1493	meta-predictor	T170	C0282574
+28002428	1530	1546	cross-validation	T062	C0681935
+28002428	1563	1570	dataset	T170	C0150098
+28002428	1594	1608	meta-predictor	T170	C0282574
+28002428	1633	1640	dataset	T170	C0150098
+28002428	1671	1685	meta-predictor	T170	C0282574
+28002428	1725	1733	datasets	T170	C0150098
+28002428	1774	1801	sensitivity and specificity	T081	C0036668
+28002428	1883	1909	non-linear transformations	T062	C0871424
+28002428	1914	1940	artificial neural networks	T073,T170	C0009612
+28002428	1954	1973	prediction accuracy	T080	C1514307
+28002428	1988	1998	predictors	T170	C0282574
+28002428	2014	2019	miRNA	T114,T123	C1101610
+28002428	2020	2029	predictor	T170	C0282574
+28002428	2058	2077	prediction accuracy	T080	C1514307
+28002428	2131	2137	miRNAs	T114,T123	C1101610
+28002428	2162	2168	miRNAs	T114,T123	C1101610

@@ -1,0 +1,39 @@
+28333189|t|Fully automated disc diffusion for rapid antibiotic susceptibility test results: a proof-of-principle study
+28333189|a|Antibiotic resistance poses a significant threat to patients suffering from infectious diseases. Early readings of antibiotic susceptibility test (AST) results could be of critical importance to ensure adequate treatment. Disc diffusion is a well-standardized, established and cost - efficient AST procedure; however, its use in the clinical laboratory is hampered by the many manual steps involved, and an incubation time of 16-18 h, which is required to achieve reliable test results. We have evaluated a fully automated system for its potential for early reading of disc diffusion diameters after 6-12 h of incubation. We assessed availability of results, methodological precision, categorical agreement and interpretation errors as compared with an 18 h standard. In total, 1028 clinical strains (291 Escherichia coli, 272 Klebsiella pneumoniae, 176 Staphylococcus aureus and 289 Staphylococcus epidermidis) were included in this study. Disc diffusion plates were streaked, incubated and imaged using the WASPLab TM automation system. Our results demonstrate that: (i) early AST reading is possible for important pathogens; (ii) methodological precision is not hampered at early timepoints; and (iii) species - specific reading times must be selected. As inhibition zone diameters change over time and are phenotype / drug combination dependent, specific cut-offs and expert rules will be essential to ensure reliable interpretation and reporting of early susceptibility testing results.
+28333189	16	30	disc diffusion	T058	UMLS:C0201180
+28333189	41	71	antibiotic susceptibility test	T058	UMLS:C0201179
+28333189	72	79	results	T033	UMLS:C0456984
+28333189	169	178	suffering	T033	UMLS:C0751408
+28333189	184	203	infectious diseases	T038	UMLS:C0009450
+28333189	223	253	antibiotic susceptibility test	T058	UMLS:C0201179
+28333189	255	258	AST	T058	UMLS:C0201179
+28333189	260	267	results	T033	UMLS:C0456984
+28333189	319	328	treatment	T058	UMLS:C0087111
+28333189	330	344	Disc diffusion	T058	UMLS:C0201180
+28333189	402	415	AST procedure	T058	UMLS:C0201179
+28333189	450	460	laboratory	T092	UMLS:C0022877
+28333189	515	530	incubation time	T033	UMLS:C1320226
+28333189	581	593	test results	T033	UMLS:C0456984
+28333189	603	612	evaluated	T058	UMLS:C0220825
+28333189	666	673	reading	T033	UMLS:C0587081
+28333189	677	691	disc diffusion	T058	UMLS:C0201180
+28333189	718	728	incubation	T058	UMLS:C1439852
+28333189	758	765	results	T033	UMLS:C0456984
+28333189	819	833	interpretation	T170	UMLS:C0459471
+28333189	913	929	Escherichia coli	T007	UMLS:C0014834
+28333189	935	956	Klebsiella pneumoniae	T007	UMLS:C0001699
+28333189	962	983	Staphylococcus aureus	T007	UMLS:C0038172
+28333189	992	1018	Staphylococcus epidermidis	T007	UMLS:C0038174
+28333189	1049	1063	Disc diffusion	T058	UMLS:C0201180
+28333189	1064	1070	plates	T074	UMLS:C0180454
+28333189	1086	1095	incubated	T058	UMLS:C1439852
+28333189	1151	1158	results	T033	UMLS:C0456984
+28333189	1187	1190	AST	T058	UMLS:C0201179
+28333189	1191	1198	reading	T033	UMLS:C0587081
+28333189	1313	1320	species	T170	UMLS:C1705920
+28333189	1332	1339	reading	T033	UMLS:C0587081
+28333189	1378	1382	zone	T082	UMLS:C1710706
+28333189	1430	1446	drug combination	T103	UMLS:C0013162
+28333189	1530	1544	interpretation	T170	UMLS:C0459471
+28333189	1549	1558	reporting	T058	UMLS:C0700287
+28333189	1568	1598	susceptibility testing results	T033	UMLS:C0456984

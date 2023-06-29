@@ -1,0 +1,113 @@
+27655704|t|Poorer breast cancer survival outcomes in males than females might be attributable to tumor subtype
+27655704|a|Substantial controversy exists regarding the differences in tumor subtypes between male breast cancer (MBC) and female breast cancer (FBC). This is the largest population-based study to compare MBC and FBC patients. Using data obtained by the Surveillance, Epidemiology, and End Results (SEER) program from 2010-2012, a retrospective, population-based cohort study was conducted to investigate tumor subtype - specific differences in various characteristics, overall survival (OS) and breast cancer-specific mortality (BCSM) between males and females. In all, 181,814 BC patients (1,516 male and 180,298 female) were eligible for this study. The male patients were more likely to be black, older, and have lower histological grades, more advanced stages, larger tumors, more lymph node and distant metastases and human epidermal growth factor receptor 2 (HER2)- negative tumors (each p<0.05). A matched analysis showed that the 2-year OS was 91.2% and 93.7% and that the BCSM was 2.2% and 2.5% for male and female patients, respectively. The univariate analysis showed that male triple-negative (TN), hormone receptor (HoR)-positive/HER2-positive and HoR-positive/HER2-negative patients had poorer OS (p <0.01). Meanwhile, the HoR-positive/HER2-positive and TN subtypes were associated with a higher BCSM in MBC patients (p<0.01). The multivariate analysis revealed that TN MBC patients had poorer OS and BCSM (p<0.05). Simultaneously, the results showed that male patients in the HoR-positive/HER2-negative subgroup were less likely to die of BC when adjusting for other factors (p<0.05). The analysis of 2-year OS and BCSM among the BC subtypes showed clear differences between MBC and FBC patients with the TN subtype; these differences warrant further investigation.
+27655704	0	6	Poorer	T080	C0542537
+27655704	7	20	breast cancer	T191	C0678222
+27655704	21	29	survival	T169	C0220921
+27655704	30	38	outcomes	T169	C1274040
+27655704	42	47	males	T032	C0086582
+27655704	53	60	females	T032	C0086287
+27655704	86	99	tumor subtype	T185	C1519691
+27655704	145	156	differences	T080	C1705242
+27655704	160	174	tumor subtypes	T185	C1519691
+27655704	183	201	male breast cancer	T191	C0238033
+27655704	203	206	MBC	T191	C0238033
+27655704	212	232	female breast cancer	T191	C0007104
+27655704	234	237	FBC	T191	C0007104
+27655704	252	259	largest	T081	C0443228
+27655704	260	282	population-based study	T062	C1709599
+27655704	286	293	compare	T052	C1707455
+27655704	294	297	MBC	T191	C0238033
+27655704	302	305	FBC	T191	C0007104
+27655704	306	314	patients	T101	C0030705
+27655704	322	326	data	T078	C1511726
+27655704	327	335	obtained	T169	C1301820
+27655704	343	401	Surveillance, Epidemiology, and End Results (SEER) program	T093	C0242638
+27655704	420	433	retrospective	T080	C1514923
+27655704	435	464	population-based cohort study	T062	C1709599
+27655704	482	493	investigate	T169	C1292732
+27655704	494	507	tumor subtype	T185	C1519691
+27655704	510	518	specific	T080	C0205369
+27655704	519	530	differences	T080	C1705242
+27655704	534	541	various	T081	C0439064
+27655704	542	557	characteristics	T080	C1521970
+27655704	559	575	overall survival	T081	C4086681
+27655704	577	579	OS	T081	C4086681
+27655704	585	617	breast cancer-specific mortality	T081	C1516192
+27655704	619	623	BCSM	T081	C1516192
+27655704	633	638	males	T032	C0086582
+27655704	643	650	females	T032	C0086287
+27655704	668	670	BC	T191	C0678222
+27655704	671	679	patients	T101	C0030705
+27655704	687	691	male	T032	C0086582
+27655704	704	710	female	T032	C0086287
+27655704	717	725	eligible	T080	C1548635
+27655704	735	740	study	T062	C2603343
+27655704	746	750	male	T032	C0086582
+27655704	751	759	patients	T101	C0030705
+27655704	783	788	black	T098	C0005680
+27655704	790	795	older	T098	C0001792
+27655704	806	811	lower	T080	C0205251
+27655704	812	831	histological grades	T033	C1298736
+27655704	833	853	more advanced stages	T079	C0205390
+27655704	855	861	larger	T081	C0549177
+27655704	862	868	tumors	T191	C0027651
+27655704	870	874	more	T081	C0205172
+27655704	875	885	lymph node	T023	C0024204
+27655704	890	908	distant metastases	T191	C0027627
+27655704	913	953	human epidermal growth factor receptor 2	T116,T126,T192	C1702024
+27655704	955	959	HER2	T116,T126,T192	C1702024
+27655704	962	970	negative	T033	C0205160
+27655704	971	977	tumors	T191	C0027651
+27655704	995	1011	matched analysis	T080	C0085145
+27655704	1035	1037	OS	T081	C4086681
+27655704	1071	1075	BCSM	T081	C1516192
+27655704	1098	1102	male	T032	C0086582
+27655704	1107	1113	female	T032	C0086287
+27655704	1114	1122	patients	T101	C0030705
+27655704	1142	1161	univariate analysis	T062	C0683962
+27655704	1174	1178	male	T032	C0086582
+27655704	1179	1194	triple-negative	T033	C2348819
+27655704	1196	1198	TN	T033	C2348819
+27655704	1201	1246	hormone receptor (HoR)-positive/HER2-positive	T034	C3898879
+27655704	1251	1277	HoR-positive/HER2-negative	T034	C1254360
+27655704	1278	1286	patients	T101	C0030705
+27655704	1291	1297	poorer	T080	C0542537
+27655704	1298	1300	OS	T081	C4086681
+27655704	1327	1353	HoR-positive/HER2-positive	T101	C0030705
+27655704	1358	1360	TN	T033	C2348819
+27655704	1361	1369	subtypes	T185	C0449560
+27655704	1375	1390	associated with	T080	C0332281
+27655704	1393	1399	higher	T080	C0205250
+27655704	1400	1404	BCSM	T081	C1516192
+27655704	1408	1411	MBC	T191	C0238033
+27655704	1412	1420	patients	T101	C0030705
+27655704	1435	1456	multivariate analysis	T081	C0026777
+27655704	1457	1465	revealed	T080	C0443289
+27655704	1471	1473	TN	T033	C2348819
+27655704	1474	1477	MBC	T191	C0238033
+27655704	1478	1486	patients	T101	C0030705
+27655704	1491	1497	poorer	T080	C0542537
+27655704	1498	1500	OS	T081	C4086681
+27655704	1505	1509	BCSM	T081	C1516192
+27655704	1540	1547	results	T169	C1274040
+27655704	1560	1564	male	T032	C0086582
+27655704	1565	1573	patients	T101	C0030705
+27655704	1581	1616	HoR-positive/HER2-negative subgroup	T185	C1515021
+27655704	1622	1626	less	T081	C0439092
+27655704	1634	1640	to die	T033	C0243095
+27655704	1644	1646	BC	T191	C0678222
+27655704	1694	1702	analysis	T062	C0936012
+27655704	1713	1715	OS	T081	C4086681
+27655704	1720	1724	BCSM	T081	C1516192
+27655704	1735	1737	BC	T191	C0678222
+27655704	1738	1746	subtypes	T101	C0030705
+27655704	1754	1759	clear	T080	C2963144
+27655704	1760	1771	differences	T080	C1705242
+27655704	1780	1783	MBC	T191	C0238033
+27655704	1788	1791	FBC	T191	C0007104
+27655704	1792	1800	patients	T101	C0030705
+27655704	1810	1812	TN	T033	C2348819
+27655704	1813	1820	subtype	T185	C0449560
+27655704	1828	1839	differences	T080	C1705242
+27655704	1848	1855	further	T082	C1517331
+27655704	1856	1869	investigation	T058	C0220825

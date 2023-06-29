@@ -1,0 +1,111 @@
+28018203|t|Computational Properties of the Hippocampus Increase the Efficiency of Goal-Directed Foraging through Hierarchical Reinforcement Learning
+28018203|a|The mammalian brain is thought to use a version of Model -based Reinforcement Learning (MBRL) to guide "goal-directed" behavior, wherein animals consider goals and make plans to acquire desired outcomes. However, conventional MBRL algorithms do not fully explain animals ' ability to rapidly adapt to environmental changes, or learn multiple complex tasks. They also require extensive computation, suggesting that goal-directed behavior is cognitively expensive. We propose here that key features of processing in the hippocampus support a flexible MBRL mechanism for spatial navigation that is computationally efficient and can adapt quickly to change. We investigate this idea by implementing a computational MBRL framework that incorporates features inspired by computational properties of the hippocampus: a hierarchical representation of space, "forward sweeps" through future spatial trajectories, and context -driven remapping of place cells. We find that a hierarchical abstraction of space greatly reduces the computational load (mental effort) required for adaptation to changing environmental conditions, and allows efficient scaling to large problems. It also allows abstract knowledge gained at high levels to guide adaptation to new obstacles. Moreover, a context -driven remapping mechanism allows learning and memory of multiple tasks. Simulating dorsal or ventral hippocampal lesions in our computational framework qualitatively reproduces behavioral deficits observed in rodents with analogous lesions. The framework may thus embody key features of how the brain organizes model -based RL to efficiently solve navigation and other difficult tasks.
+28018203	0	13	Computational	T052	C1880157
+28018203	14	24	Properties	T080	C0871161
+28018203	32	43	Hippocampus	T023	C0019564
+28018203	44	52	Increase	T169	C0442805
+28018203	57	67	Efficiency	T081	C0013682
+28018203	71	93	Goal-Directed Foraging	T053	C0237624
+28018203	102	137	Hierarchical Reinforcement Learning	UnknownType	C0683263
+28018203	142	151	mammalian	T015	C0024660
+28018203	152	157	brain	T023	C0006104
+28018203	178	185	version	T170	C0333052
+28018203	189	194	Model	T170	C3161035
+28018203	202	224	Reinforcement Learning	UnknownType	C0683263
+28018203	226	230	MBRL	UnknownType	C0683263
+28018203	241	265	"goal-directed" behavior	T078	C1537018
+28018203	275	282	animals	T008	C0003062
+28018203	292	297	goals	T170	C0018017
+28018203	307	312	plans	T041	C0025361
+28018203	332	340	outcomes	T169	C1274040
+28018203	351	363	conventional	T080	C0439858
+28018203	364	368	MBRL	UnknownType	C0683263
+28018203	369	379	algorithms	T170	C0002045
+28018203	401	408	animals	T008	C0003062
+28018203	411	418	ability	T032	C0085732
+28018203	430	435	adapt	T169	C0205245
+28018203	439	460	environmental changes	T033	C4060636
+28018203	465	470	learn	T041	C0023185
+28018203	471	479	multiple	T081	C0439064
+28018203	480	487	complex	T080	C0439855
+28018203	488	493	tasks	T057	C3540678
+28018203	513	522	extensive	T080	C0205231
+28018203	523	534	computation	T052	C1880157
+28018203	552	574	goal-directed behavior	T078	C1537018
+28018203	578	589	cognitively	T169	C1516691
+28018203	590	599	expensive	T080	C0205556
+28018203	626	634	features	T080	C1521970
+28018203	638	648	processing	T052	C1709694
+28018203	656	667	hippocampus	T023	C0019564
+28018203	678	686	flexible	T080	C0443220
+28018203	687	691	MBRL	UnknownType	C0683263
+28018203	692	701	mechanism	T169	C0441712
+28018203	706	724	spatial navigation	T041	C3850152
+28018203	733	748	computationally	T052	C1880157
+28018203	749	758	efficient	T080	C0442799
+28018203	767	772	adapt	T169	C0205245
+28018203	784	790	change	T169	C0392747
+28018203	795	806	investigate	T169	C1292732
+28018203	820	832	implementing	T169	C0205245
+28018203	835	848	computational	T052	C1880157
+28018203	849	853	MBRL	UnknownType	C0683263
+28018203	854	863	framework	T077	C1254372
+28018203	882	890	features	T080	C1521970
+28018203	903	916	computational	T052	C1880157
+28018203	917	927	properties	T080	C0871161
+28018203	935	946	hippocampus	T023	C0019564
+28018203	950	977	hierarchical representation	T052	C1882932
+28018203	981	986	space	T082	C1883067
+28018203	1020	1040	spatial trajectories	T082	C1254362
+28018203	1046	1053	context	T078	C0449255
+28018203	1062	1071	remapping	T052	C1283195
+28018203	1075	1086	place cells	T025	C4277646
+28018203	1103	1127	hierarchical abstraction	T170	C0679195
+28018203	1131	1136	space	T082	C1883067
+28018203	1145	1152	reduces	T080	C0392756
+28018203	1157	1170	computational	T052	C1880157
+28018203	1171	1175	load	T081	C0870879
+28018203	1177	1190	mental effort	T081	C0870879
+28018203	1205	1215	adaptation	T038	C0392673
+28018203	1219	1227	changing	T169	C0392747
+28018203	1228	1241	environmental	T082	C0014406
+28018203	1242	1252	conditions	T080	C0348080
+28018203	1265	1274	efficient	T080	C0442799
+28018203	1275	1282	scaling	T052	C1947916
+28018203	1286	1291	large	T081	C0549177
+28018203	1292	1300	problems	T033	C0033213
+28018203	1317	1325	abstract	T078	C1552863
+28018203	1326	1335	knowledge	T041	C0162340
+28018203	1346	1350	high	T080	C0205250
+28018203	1351	1357	levels	T080	C0441889
+28018203	1367	1377	adaptation	T038	C0392673
+28018203	1385	1394	obstacles	T080	C0205556
+28018203	1408	1415	context	T078	C0449255
+28018203	1424	1433	remapping	T052	C1283195
+28018203	1434	1443	mechanism	T169	C0441712
+28018203	1451	1459	learning	T041	C0023185
+28018203	1464	1470	memory	T041	C0025260
+28018203	1474	1482	multiple	T081	C0439064
+28018203	1483	1488	tasks	T057	C3540678
+28018203	1490	1500	Simulating	T062	C0679083
+28018203	1501	1507	dorsal	T082	C0205095
+28018203	1511	1518	ventral	T082	C1704448
+28018203	1519	1530	hippocampal	T023	C0019564
+28018203	1531	1538	lesions	T047	C0221505
+28018203	1546	1559	computational	T052	C1880157
+28018203	1560	1569	framework	T077	C1254372
+28018203	1570	1583	qualitatively	T080	C0205556
+28018203	1595	1605	behavioral	T053	C0004927
+28018203	1606	1614	deficits	T080	C2987487
+28018203	1627	1634	rodents	T015	C0035804
+28018203	1640	1649	analogous	T080	C2348205
+28018203	1650	1657	lesions	T047	C0221505
+28018203	1663	1672	framework	T077	C1254372
+28018203	1693	1701	features	T080	C1521970
+28018203	1713	1718	brain	T023	C0006104
+28018203	1729	1734	model	T170	C3161035
+28018203	1742	1744	RL	UnknownType	C0683263
+28018203	1748	1759	efficiently	T080	C0442799
+28018203	1766	1776	navigation	T052	C2827562
+28018203	1787	1796	difficult	T080	C0332218
+28018203	1797	1802	tasks	T057	C3540678

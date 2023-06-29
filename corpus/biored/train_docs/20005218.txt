@@ -1,0 +1,41 @@
+20005218|t|A potential regulatory single nucleotide polymorphism in the promoter of the Klotho gene may be associated with essential hypertension in the Chinese Han population.
+20005218|a|BACKGROUND: Mice with defects in the Klotho gene exhibit multiple aging phenotypes including arteriosclerosis. We hypothesised that the G-395A polymorphism in the promoter region of the human Klotho gene may contribute to the prevalence of Essential Hypertension (EH). METHODS: We investigate whether the G-395A polymorphism of Klotho is associated with EH in a population consisting of 215 patients with EH and 220 non-hypertensive subjects. We also tested whether a G/A substitution at the G-395A site affected the transcription level in vitro through the dual-luciferase reporter assay. RESULTS: Differences in the genotype distributions of the G-395A polymorphism between the EH and non-hypertension groups are statistically significant (P=0.032). There are differential effects of age, gender and smoking status on the association of the G-395A polymorphism with EH; the G-395A polymorphism is significantly associated with EH in subjects over 60years old, in females and in nonsmokers. A multiple logistic regression analysis indicated that the odds ratio for EH in the -395A allele carriers as compared with the control group was 0.593 (P=0.024) after adjusting for current traditional risk factors. The dual-luciferase reporter assay revealed that the -395A carrier of a 498-bp DNA fragment (containing the G-395A site) upstream of the Klotho gene has higher relative luciferase activity than the -395G carrier. CONCLUSIONS: The G-395A polymorphism of the human Klotho gene is associated with EH and may be a potential regulatory site.
+20005218	77	83	Klotho	GeneOrGeneProduct	9365
+20005218	112	134	essential hypertension	DiseaseOrPhenotypicFeature	D000075222
+20005218	178	182	Mice	OrganismTaxon	10090
+20005218	203	209	Klotho	GeneOrGeneProduct	16591
+20005218	259	275	arteriosclerosis	DiseaseOrPhenotypicFeature	D001161
+20005218	302	308	G-395A	SequenceVariant	rs1207568
+20005218	352	357	human	OrganismTaxon	9606
+20005218	358	364	Klotho	GeneOrGeneProduct	9365
+20005218	406	428	Essential Hypertension	DiseaseOrPhenotypicFeature	D000075222
+20005218	430	432	EH	DiseaseOrPhenotypicFeature	D000075222
+20005218	471	477	G-395A	SequenceVariant	rs1207568
+20005218	494	500	Klotho	GeneOrGeneProduct	9365
+20005218	520	522	EH	DiseaseOrPhenotypicFeature	D000075222
+20005218	557	565	patients	OrganismTaxon	9606
+20005218	571	573	EH	DiseaseOrPhenotypicFeature	D000075222
+20005218	586	598	hypertensive	DiseaseOrPhenotypicFeature	D006973
+20005218	634	637	G/A	SequenceVariant	rs1207568
+20005218	658	664	G-395A	SequenceVariant	rs1207568
+20005218	814	820	G-395A	SequenceVariant	rs1207568
+20005218	846	848	EH	DiseaseOrPhenotypicFeature	D000075222
+20005218	857	869	hypertension	DiseaseOrPhenotypicFeature	D006973
+20005218	1009	1015	G-395A	SequenceVariant	rs1207568
+20005218	1034	1036	EH	DiseaseOrPhenotypicFeature	D000075222
+20005218	1042	1048	G-395A	SequenceVariant	rs1207568
+20005218	1095	1097	EH	DiseaseOrPhenotypicFeature	D000075222
+20005218	1232	1234	EH	DiseaseOrPhenotypicFeature	D000075222
+20005218	1242	1247	-395A	SequenceVariant	rs1207568
+20005218	1426	1431	-395A	SequenceVariant	rs1207568
+20005218	1481	1487	G-395A	SequenceVariant	rs1207568
+20005218	1510	1516	Klotho	GeneOrGeneProduct	9365
+20005218	1571	1576	-395G	SequenceVariant	rs1207568
+20005218	1603	1609	G-395A	SequenceVariant	rs1207568
+20005218	1630	1635	human	OrganismTaxon	9606
+20005218	1636	1642	Klotho	GeneOrGeneProduct	9365
+20005218	1667	1669	EH	DiseaseOrPhenotypicFeature	D000075222
+20005218	Association	9365	D000075222	Novel
+20005218	Association	16591	D001161	No
+20005218	Association	16591	D000075222	Novel
+20005218	Positive_Correlation	rs1207568	D000075222	Novel

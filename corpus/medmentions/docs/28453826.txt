@@ -1,0 +1,84 @@
+28453826|t|Unplanned readmissions within 30 days after discharge: improving quality through easy prediction
+28453826|a|To propose an easy predictive model for the risk of rehospitalization, built from hospital administrative data, in order to prevent repeated admissions and to improve transitional care. Retrospective cohort study. Azienda Ospedaliero Universitaria Pisana (Pisa University Hospital). Patients residing in the territory of the province of Pisa (Tuscany Region) with at least one unplanned hospital admission leading to a medical Diagnosis-Related Group (DRG) in the calendar year 2012. We compared two groups of patients: patients coded as 'RA30' (readmitted within 30 days after the previous discharge) and patients coded as 'NRA30' (either admitted only once or readmitted after 30 days since the latest discharge). The effect of age, sex, length of stay, number of diagnoses, normalized number of admissions and presence of diseases on the probability of rehospitalization within 30 days after discharge was evaluated. The significant variables included in the predictive model were: age, odds ratio (OR) = 1.018, 95% confidence interval (CI) = 1.011-1.026; normalized number of admissions, OR = 1.257, CI = 1.225-1.290; number of diagnoses, OR = 1.306, CI = 1.174-1.452 and presence of cancer diagnosis, OR = 1.479, CI = 1.088-2.011. The model can be easily applied when discharging patients who have been hospitalized after an access to the Emergency Department to predict the risk of rehospitalization within 30 days. The prediction can be used to activate focused hospital-primary care transitional interventions. The model has to be validated first in order to be implemented in clinical practice.
+28453826	10	22	readmissions	T058	C0030700
+28453826	33	37	days	T079	C0439228
+28453826	44	53	discharge	T058	C0030685
+28453826	65	72	quality	T080	C0332306
+28453826	86	96	prediction	T078	C0681842
+28453826	116	132	predictive model	T081,T170	C0026348
+28453826	141	166	risk of rehospitalization	T033	C2735448
+28453826	179	187	hospital	T073,T093	C0019994
+28453826	188	202	administrative	T169	C1292785
+28453826	203	207	data	T078	C1511726
+28453826	229	237	repeated	T169	C0205341
+28453826	238	248	admissions	T058	C0030673
+28453826	264	281	transitional care	T058	C4019071
+28453826	283	309	Retrospective cohort study	T062	C2985505
+28453826	311	351	Azienda Ospedaliero Universitaria Pisana	T073,T093	C0020028
+28453826	353	377	Pisa University Hospital	T073,T093	C0020028
+28453826	380	388	Patients	T101	C0030705
+28453826	389	397	residing	T052	C2982691
+28453826	405	414	territory	T083	C2983136
+28453826	422	430	province	T083	C1514578
+28453826	434	438	Pisa	T083	C0017446
+28453826	440	454	Tuscany Region	T083	C0017446
+28453826	484	502	hospital admission	T058	C0184666
+28453826	524	547	Diagnosis-Related Group	T170	C0011928
+28453826	549	552	DRG	T170	C0011928
+28453826	561	574	calendar year	T079	C0456586
+28453826	584	592	compared	T052	C1707455
+28453826	593	603	two groups	T098	C1257890
+28453826	607	615	patients	T101	C0030705
+28453826	617	625	patients	T101	C0030705
+28453826	643	653	readmitted	T058	C0184666
+28453826	664	668	days	T079	C0439228
+28453826	688	697	discharge	T058	C0030685
+28453826	703	711	patients	T101	C0030705
+28453826	737	745	admitted	T058	C0184666
+28453826	759	769	readmitted	T058	C0184666
+28453826	779	783	days	T079	C0439228
+28453826	801	810	discharge	T058	C0030685
+28453826	817	823	effect	T080	C1280500
+28453826	827	830	age	T032	C0001779
+28453826	832	835	sex	T032	C1522384
+28453826	837	851	length of stay	T079	C0023303
+28453826	853	859	number	T081	C0237753
+28453826	863	872	diagnoses	T062	C1704656
+28453826	885	905	number of admissions	T033	C0574846
+28453826	910	918	presence	T033	C0150312
+28453826	922	930	diseases	T047	C0012634
+28453826	938	949	probability	T081	C0033204
+28453826	953	970	rehospitalization	T058	C0019993
+28453826	981	985	days	T079	C0439228
+28453826	992	1001	discharge	T058	C0030685
+28453826	1006	1015	evaluated	T058	C0220825
+28453826	1021	1042	significant variables	T081	C0237881
+28453826	1059	1075	predictive model	T081,T170	C0026348
+28453826	1082	1085	age	T032	C0001779
+28453826	1087	1097	odds ratio	T081	C0028873
+28453826	1099	1101	OR	T081	C0028873
+28453826	1116	1135	confidence interval	T081	C0009667
+28453826	1137	1139	CI	T081	C0009667
+28453826	1167	1187	number of admissions	T033	C0574846
+28453826	1189	1191	OR	T081	C0028873
+28453826	1201	1203	CI	T081	C0009667
+28453826	1229	1238	diagnoses	T062	C1704656
+28453826	1240	1242	OR	T081	C0028873
+28453826	1252	1254	CI	T081	C0009667
+28453826	1285	1301	cancer diagnosis	T060	C0920688
+28453826	1303	1305	OR	T081	C0028873
+28453826	1315	1317	CI	T081	C0009667
+28453826	1337	1342	model	T081,T170	C0026348
+28453826	1357	1364	applied	T169	C4048755
+28453826	1370	1390	discharging patients	T058	C0030685
+28453826	1405	1417	hospitalized	T058	C0019993
+28453826	1441	1461	Emergency Department	T073,T093	C0562508
+28453826	1477	1502	risk of rehospitalization	T033	C2735448
+28453826	1513	1517	days	T079	C0439228
+28453826	1523	1533	prediction	T078	C0681842
+28453826	1549	1557	activate	T052	C1879547
+28453826	1566	1587	hospital-primary care	T073,T093	C0337952
+28453826	1588	1600	transitional	T058	C4019071
+28453826	1601	1614	interventions	T061	C0184661
+28453826	1620	1625	model	T081,T170	C0026348
+28453826	1682	1699	clinical practice	T057	C0205897

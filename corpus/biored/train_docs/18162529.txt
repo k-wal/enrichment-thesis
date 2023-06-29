@@ -1,0 +1,78 @@
+18162529|t|Hypothalamic prolactin receptor messenger ribonucleic acid levels, prolactin signaling, and hyperprolactinemic inhibition of pulsatile luteinizing hormone secretion are dependent on estradiol.
+18162529|a|Hyperprolactinemia can reduce fertility and libido. Although central prolactin actions are thought to contribute to this, the mechanisms are poorly understood. We first tested whether chronic hyperprolactinemia inhibited two neuroendocrine parameters necessary for female fertility: pulsatile LH secretion and the estrogen-induced LH surge. Chronic hyperprolactinemia induced by the dopamine antagonist sulpiride caused a 40% reduction LH pulse frequency in ovariectomized rats, but only in the presence of chronic low levels of estradiol. Sulpiride did not affect the magnitude of a steroid-induced LH surge or the percentage of GnRH neurons activated during the surge. Estradiol is known to influence expression of the long form of prolactin receptors (PRL-R) and components of prolactin's signaling pathway. To test the hypothesis that estrogen increases PRL-R expression and sensitivity to prolactin, we next demonstrated that estradiol greatly augments prolactin-induced STAT5 activation. Lastly, we measured PRL-R and suppressor of cytokine signaling (SOCS-1 and -3 and CIS, which reflect the level of prolactin signaling) mRNAs in response to sulpiride and estradiol. Sulpiride induced only SOCS-1 in the medial preoptic area, where GnRH neurons are regulated, but in the arcuate nucleus and choroid plexus, PRL-R, SOCS-3, and CIS mRNA levels were also induced. Estradiol enhanced these effects on SOCS-3 and CIS. Interestingly, estradiol also induced PRL-R, SOCS-3, and CIS mRNA levels independently. These data show that GnRH pulse frequency is inhibited by chronic hyperprolactinemia in a steroid-dependent manner. They also provide evidence for estradiol-dependent and brain region-specific regulation of PRL-R expression and signaling responses by prolactin.
+18162529	13	31	prolactin receptor	GeneOrGeneProduct	24684
+18162529	42	58	ribonucleic acid	ChemicalEntity	D012313
+18162529	67	76	prolactin	GeneOrGeneProduct	24683
+18162529	92	110	hyperprolactinemic	DiseaseOrPhenotypicFeature	D006966
+18162529	135	154	luteinizing hormone	ChemicalEntity	D007986
+18162529	182	191	estradiol	ChemicalEntity	D004958
+18162529	193	211	Hyperprolactinemia	DiseaseOrPhenotypicFeature	D006966
+18162529	262	271	prolactin	GeneOrGeneProduct	24683
+18162529	385	403	hyperprolactinemia	DiseaseOrPhenotypicFeature	D006966
+18162529	486	488	LH	ChemicalEntity	D007986
+18162529	507	515	estrogen	ChemicalEntity	D004967
+18162529	524	526	LH	ChemicalEntity	D007986
+18162529	542	560	hyperprolactinemia	DiseaseOrPhenotypicFeature	D006966
+18162529	576	584	dopamine	ChemicalEntity	D004298
+18162529	596	605	sulpiride	ChemicalEntity	D013469
+18162529	629	631	LH	ChemicalEntity	D007986
+18162529	666	670	rats	OrganismTaxon	10116
+18162529	722	731	estradiol	ChemicalEntity	D004958
+18162529	733	742	Sulpiride	ChemicalEntity	D013469
+18162529	777	784	steroid	ChemicalEntity	D013256
+18162529	793	795	LH	ChemicalEntity	D007986
+18162529	864	873	Estradiol	ChemicalEntity	D004958
+18162529	927	946	prolactin receptors	GeneOrGeneProduct	24684
+18162529	948	953	PRL-R	GeneOrGeneProduct	24684
+18162529	973	982	prolactin	GeneOrGeneProduct	24683
+18162529	1032	1040	estrogen	ChemicalEntity	D004967
+18162529	1051	1056	PRL-R	GeneOrGeneProduct	24684
+18162529	1087	1096	prolactin	GeneOrGeneProduct	24683
+18162529	1124	1133	estradiol	ChemicalEntity	D004958
+18162529	1151	1160	prolactin	GeneOrGeneProduct	24683
+18162529	1169	1174	STAT5	GeneOrGeneProduct	24918
+18162529	1207	1212	PRL-R	GeneOrGeneProduct	24684
+18162529	1217	1249	suppressor of cytokine signaling	GeneOrGeneProduct	252971,83681,89829
+18162529	1251	1264	SOCS-1 and -3	GeneOrGeneProduct	252971,89829
+18162529	1269	1272	CIS	GeneOrGeneProduct	83681
+18162529	1301	1310	prolactin	GeneOrGeneProduct	24683
+18162529	1343	1352	sulpiride	ChemicalEntity	D013469
+18162529	1357	1366	estradiol	ChemicalEntity	D004958
+18162529	1368	1377	Sulpiride	ChemicalEntity	D013469
+18162529	1391	1397	SOCS-1	GeneOrGeneProduct	252971
+18162529	1508	1513	PRL-R	GeneOrGeneProduct	24684
+18162529	1515	1521	SOCS-3	GeneOrGeneProduct	89829
+18162529	1527	1530	CIS	GeneOrGeneProduct	83681
+18162529	1562	1571	Estradiol	ChemicalEntity	D004958
+18162529	1598	1604	SOCS-3	GeneOrGeneProduct	89829
+18162529	1609	1612	CIS	GeneOrGeneProduct	83681
+18162529	1629	1638	estradiol	ChemicalEntity	D004958
+18162529	1652	1657	PRL-R	GeneOrGeneProduct	24684
+18162529	1659	1665	SOCS-3	GeneOrGeneProduct	89829
+18162529	1671	1674	CIS	GeneOrGeneProduct	83681
+18162529	1768	1786	hyperprolactinemia	DiseaseOrPhenotypicFeature	D006966
+18162529	1792	1799	steroid	ChemicalEntity	D013256
+18162529	1849	1858	estradiol	ChemicalEntity	D004958
+18162529	1909	1914	PRL-R	GeneOrGeneProduct	24684
+18162529	1953	1962	prolactin	GeneOrGeneProduct	24683
+18162529	Association	83681	24683	No
+18162529	Association	89829	24683	No
+18162529	Association	252971	24683	No
+18162529	Positive_Correlation	24683	24918	No
+18162529	Association	D004967	24683	Novel
+18162529	Positive_Correlation	D004967	24684	Novel
+18162529	Association	D004967	D007986	No
+18162529	Positive_Correlation	D004958	83681	Novel
+18162529	Positive_Correlation	D004958	89829	Novel
+18162529	Positive_Correlation	D004958	24918	Novel
+18162529	Positive_Correlation	D004958	24683	Novel
+18162529	Positive_Correlation	D004958	24684	Novel
+18162529	Association	D013256	D007986	Novel
+18162529	Association	D006966	D013256	Novel
+18162529	Positive_Correlation	D006966	D013469	Novel
+18162529	Positive_Correlation	D013469	83681	Novel
+18162529	Positive_Correlation	D013469	89829	Novel
+18162529	Positive_Correlation	D013469	252971	Novel
+18162529	Positive_Correlation	D013469	24684	Novel
+18162529	Negative_Correlation	D013469	D007986	Novel
+18162529	Negative_Correlation	D004298	D013469	No

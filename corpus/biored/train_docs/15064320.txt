@@ -1,0 +1,38 @@
+15064320|t|Compound heterozygous mutations in the SRD5A2 gene exon 4 in a male pseudohermaphrodite patient of Chinese origin.
+15064320|a|The goal of this study was to perform 5-alpha-reductase type 2 gene (SRD5A2) analysis in a male pseudohermaphrodite (MPH) patient with normal testosterone (T) production and normal androgen receptor (AR) gene coding sequences. A patient of Chinese origin with ambiguous genitalia at 14 months, a 46,XY karyotype, and normal T secretion under human chorionic gonadotropin (hCG) stimulation underwent a gonadectomy at 20 months. Exons 1-8 of the AR gene and exons 1-5 of the SRD5A2 gene were sequenced from peripheral blood DNA. AR gene coding sequences were normal. SRD5A2 gene analysis revealed 2 consecutive mutations in exon 4, each located in a different allele: 1) a T nucleotide deletion, which predicts a frameshift mutation from codon 219, and 2) a missense mutation at codon 227, where the substitution of guanine (CGA) by adenine (CAA) predicts a glutamine replacement of arginine (R227Q). Testes located in the inguinal canal showed a normal morphology for age. The patient was a compound heterozygote for SRD5A2 mutations, carrying 2 mutations in exon 4. The patient showed an R227Q mutation that has been described in an Asian population and MPH patients, along with a novel frameshift mutation, Tdel219. Testis morphology showed that, during early infancy, the 5-alpha-reductase enzyme deficiency may not have affected interstitial or tubular development.
+15064320	39	45	SRD5A2	GeneOrGeneProduct	6716
+15064320	63	87	male pseudohermaphrodite	DiseaseOrPhenotypicFeature	D058490
+15064320	88	95	patient	OrganismTaxon	9606
+15064320	153	177	5-alpha-reductase type 2	GeneOrGeneProduct	6716
+15064320	184	190	SRD5A2	GeneOrGeneProduct	6716
+15064320	206	230	male pseudohermaphrodite	DiseaseOrPhenotypicFeature	D058490
+15064320	232	235	MPH	DiseaseOrPhenotypicFeature	D058490
+15064320	237	244	patient	OrganismTaxon	9606
+15064320	257	269	testosterone	ChemicalEntity	D013739
+15064320	271	272	T	ChemicalEntity	D013739
+15064320	296	313	androgen receptor	GeneOrGeneProduct	367
+15064320	315	317	AR	GeneOrGeneProduct	367
+15064320	344	351	patient	OrganismTaxon	9606
+15064320	439	440	T	ChemicalEntity	D013739
+15064320	457	485	human chorionic gonadotropin	ChemicalEntity	D006063
+15064320	487	490	hCG	ChemicalEntity	D006063
+15064320	559	561	AR	GeneOrGeneProduct	367
+15064320	588	594	SRD5A2	GeneOrGeneProduct	6716
+15064320	642	644	AR	GeneOrGeneProduct	367
+15064320	680	686	SRD5A2	GeneOrGeneProduct	6716
+15064320	786	860	T nucleotide deletion, which predicts a frameshift mutation from codon 219	SequenceVariant	c|DEL|CODON219|T
+15064320	929	959	guanine (CGA) by adenine (CAA)	SequenceVariant	rs9332964
+15064320	971	1004	glutamine replacement of arginine	SequenceVariant	rs9332964
+15064320	1006	1011	R227Q	SequenceVariant	rs9332964
+15064320	1091	1098	patient	OrganismTaxon	9606
+15064320	1131	1137	SRD5A2	GeneOrGeneProduct	6716
+15064320	1185	1192	patient	OrganismTaxon	9606
+15064320	1203	1208	R227Q	SequenceVariant	rs9332964
+15064320	1269	1272	MPH	DiseaseOrPhenotypicFeature	D058490
+15064320	1273	1281	patients	OrganismTaxon	9606
+15064320	1323	1330	Tdel219	SequenceVariant	c|DEL|CODON219|T
+15064320	1389	1406	5-alpha-reductase	GeneOrGeneProduct	6716
+15064320	Association	D013739	D006063	No
+15064320	Association	c|DEL|CODON219|T	D058490	Novel
+15064320	Association	rs9332964	D058490	Novel
+15064320	Association	6716	D058490	Novel

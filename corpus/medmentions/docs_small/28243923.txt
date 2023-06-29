@@ -1,0 +1,47 @@
+28243923|t|Risks and benefits of reducing target volume margins in breast tangent radiotherapy
+28243923|a|This study investigates the potential benefits of planning target volume (PTV) margin reduction for whole breast radiotherapy in relation to dose received by organs at risk (OARs), as well as reductions in radiation - induced secondary cancer risk. Such benefits were compared to the increased radiation - induced secondary cancer risk attributed from increased ionizing radiation imaging doses. Ten retrospective patients ' computed tomography datasets were considered. Three computerized treatment plans with varied PTV margins (0, 5 and 10 mm) were created for each patient complying with the Radiation Therapy Oncology Group (RTOG) 1005 protocol requirements. The BEIR VII lifetime attributable risk (LAR) model was used to estimate secondary cancer risk to OARs. The LAR was assessed for all treatment plans considering (a) doses from PTV margin variation and (b) doses from two (daily and weekly) kilovoltage cone beam computed tomography (kV CBCT) imaging protocols during the course of treatment. We found PTV margins from largest to smallest resulted in a mean OAR relative dose reduction of 31% (heart), 28% (lung) and 23% (contralateral breast) and the risk of radiation - induced secondary cancer by a relative 23% (contralateral breast) and 22% (contralateral lung). Daily image-guidance using kV CBCT increased the risk of radiation induced secondary cancer to the contralateral breast and contralateral lung by a relative 1.6-1.9% and 1.9-2.5% respectively. Despite the additional dose from kV CBCT for the two considered imaging protocols, smaller PTV margins would still result in an overall reduction in secondary cancer risk.
+28243923	45	52	margins	T017	UMLS:C0229985
+28243923	56	83	breast tangent radiotherapy	T058	UMLS:C0948310
+28243923	163	169	margin	T017	UMLS:C0229985
+28243923	190	209	breast radiotherapy	T058	UMLS:C0948310
+28243923	242	256	organs at risk	T082	UMLS:C2936599
+28243923	258	262	OARs	T082	UMLS:C2936599
+28243923	446	472	ionizing radiation imaging	T058	UMLS:C1514690
+28243923	509	528	computed tomography	T058	UMLS:C0040405
+28243923	529	537	datasets	T170	UMLS:C0150098
+28243923	561	589	computerized treatment plans	T170	UMLS:C0599880
+28243923	606	613	margins	T017	UMLS:C0229985
+28243923	680	712	Radiation Therapy Oncology Group	T092	UMLS:C1514695
+28243923	714	718	RTOG	T092	UMLS:C1514695
+28243923	725	733	protocol	T170	UMLS:C0442711
+28243923	794	799	model	T170	UMLS:C3161035
+28243923	846	850	OARs	T082	UMLS:C2936599
+28243923	881	896	treatment plans	T170	UMLS:C0599880
+28243923	928	934	margin	T017	UMLS:C0229985
+28243923	987	1028	kilovoltage cone beam computed tomography	T058	UMLS:C3641875
+28243923	1030	1037	kV CBCT	T058	UMLS:C3641875
+28243923	1039	1046	imaging	T058	UMLS:C0011923
+28243923	1047	1056	protocols	T170	UMLS:C0442711
+28243923	1068	1087	course of treatment	T170	UMLS:C3899630
+28243923	1102	1109	margins	T017	UMLS:C0229985
+28243923	1154	1157	OAR	T082	UMLS:C2936599
+28243923	1190	1195	heart	T017	UMLS:C0018787
+28243923	1203	1207	lung	T017	UMLS:C0024109
+28243923	1218	1231	contralateral	T082	UMLS:C0441988
+28243923	1232	1238	breast	T017	UMLS:C0006141
+28243923	1286	1292	cancer	T038	UMLS:C0006826
+28243923	1312	1325	contralateral	T082	UMLS:C0441988
+28243923	1326	1332	breast	T017	UMLS:C0006141
+28243923	1343	1356	contralateral	T082	UMLS:C0441988
+28243923	1357	1361	lung	T017	UMLS:C0024109
+28243923	1370	1384	image-guidance	T058	UMLS:C0442972
+28243923	1391	1398	kV CBCT	T058	UMLS:C3641875
+28243923	1449	1455	cancer	T038	UMLS:C0006826
+28243923	1463	1476	contralateral	T082	UMLS:C0441988
+28243923	1477	1483	breast	T017	UMLS:C0006141
+28243923	1488	1501	contralateral	T082	UMLS:C0441988
+28243923	1502	1506	lung	T017	UMLS:C0024109
+28243923	1590	1597	kV CBCT	T058	UMLS:C3641875
+28243923	1621	1628	imaging	T058	UMLS:C0011923
+28243923	1629	1638	protocols	T170	UMLS:C0442711
+28243923	1652	1659	margins	T017	UMLS:C0229985

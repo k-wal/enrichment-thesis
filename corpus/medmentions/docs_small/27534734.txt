@@ -1,0 +1,45 @@
+27534734|t|Simultaneous edited MRS of GABA and glutathione
+27534734|a|Edited MRS allows the detection of low - concentration metabolites, whose signals are not resolved in the MR spectrum. Tailored acquisitions can be designed to detect, for example, the inhibitory neurotransmitter γ-aminobutyric acid (GABA), or the reduction-oxidation (redox) compound glutathione (GSH), and single - voxel edited experiments are generally acquired at a rate of one metabolite - per-experiment. We demonstrate that simultaneous detection of the overlapping signals of GABA and GSH is possible using Hadamard Encoding and Reconstruction of Mega-Edited Spectroscopy (HERMES). HERMES applies orthogonal editing encoding (following a Hadamard scheme), such that GSH- and GABA - edited difference spectra can be reconstructed from a single multiplexed experiment. At a TE of 80ms, 20-ms editing pulses are applied at 4.56ppm (on GSH),1.9ppm (on GABA), both offsets (using a dual-lobe cosine-modulated pulse) or neither. Hadamard combinations of the four sub-experiments yield GABA and GSH difference spectra. It is shown that HERMES gives excellent separation of the edited GABA and GSH signals in phantoms, and resulting edited lineshapes agree well with separate Mescher-Garwood Point-resolved Spectroscopy (MEGA-PRESS) acquisitions. In vivo, the quality and signal-to-noise ratio (SNR) of HERMES spectra are similar to those of sequentially acquired MEGA-PRESS spectra, with the benefit of saving half the acquisition time.
+27534734	20	23	MRS	T058	UMLS:C0024487
+27534734	27	31	GABA	T103	UMLS:C0016904
+27534734	36	47	glutathione	T103	UMLS:C0017817
+27534734	55	58	MRS	T058	UMLS:C0024487
+27534734	70	79	detection	T058	UMLS:C1511790
+27534734	103	114	metabolites	T103	UMLS:C0870883
+27534734	154	165	MR spectrum	T058	UMLS:C0024487
+27534734	208	214	detect	T058	UMLS:C1511790
+27534734	244	260	neurotransmitter	T103	UMLS:C0027908
+27534734	261	280	γ-aminobutyric acid	T103	UMLS:C0016904
+27534734	282	286	GABA	T103	UMLS:C0016904
+27534734	296	315	reduction-oxidation	T038	UMLS:C0030012
+27534734	317	322	redox	T038	UMLS:C0030012
+27534734	333	344	glutathione	T103	UMLS:C0017817
+27534734	346	349	GSH	T103	UMLS:C0017817
+27534734	378	389	experiments	T062	UMLS:C0681814
+27534734	430	440	metabolite	T103	UMLS:C0870883
+27534734	443	457	per-experiment	T062	UMLS:C0681814
+27534734	492	501	detection	T058	UMLS:C1511790
+27534734	532	536	GABA	T103	UMLS:C0016904
+27534734	541	544	GSH	T103	UMLS:C0017817
+27534734	563	627	Hadamard Encoding and Reconstruction of Mega-Edited Spectroscopy	T058	UMLS:C0022885
+27534734	629	635	HERMES	T058	UMLS:C0022885
+27534734	638	644	HERMES	T058	UMLS:C0022885
+27534734	694	709	Hadamard scheme	T170	UMLS:C1519193
+27534734	722	726	GSH-	T103	UMLS:C0017817
+27534734	731	735	GABA	T103	UMLS:C0016904
+27534734	792	821	single multiplexed experiment	T062	UMLS:C0681814
+27534734	888	891	GSH	T103	UMLS:C0017817
+27534734	904	908	GABA	T103	UMLS:C0016904
+27534734	979	1000	Hadamard combinations	T170	UMLS:C0282574
+27534734	1013	1028	sub-experiments	T062	UMLS:C0681814
+27534734	1035	1039	GABA	T103	UMLS:C0016904
+27534734	1044	1047	GSH	T103	UMLS:C0017817
+27534734	1085	1091	HERMES	T058	UMLS:C0022885
+27534734	1133	1137	GABA	T103	UMLS:C0016904
+27534734	1142	1145	GSH	T103	UMLS:C0017817
+27534734	1199	1204	agree	T033	UMLS:C3641827
+27534734	1224	1267	Mescher-Garwood Point-resolved Spectroscopy	T058	UMLS:C0022885
+27534734	1269	1279	MEGA-PRESS	T058	UMLS:C0022885
+27534734	1295	1302	In vivo	T082	UMLS:C1515655
+27534734	1351	1357	HERMES	T058	UMLS:C0022885
+27534734	1412	1422	MEGA-PRESS	T058	UMLS:C0022885

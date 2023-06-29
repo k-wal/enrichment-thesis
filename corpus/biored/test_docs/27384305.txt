@@ -1,0 +1,60 @@
+27384305|t|Male 11b-HSD1 Knockout Mice Fed Trans-Fats and Fructose Are Not Protected From Metabolic Syndrome or Nonalcoholic Fatty Liver Disease.
+27384305|a|Nonalcoholic fatty liver disease (NAFLD) defines a spectrum of conditions from simple steatosis to nonalcoholic steatohepatitis (NASH) and cirrhosis and is regarded as the hepatic manifestation of the metabolic syndrome. Glucocorticoids can promote steatosis by stimulating lipolysis within adipose tissue, free fatty acid delivery to liver and hepatic de novo lipogenesis. Glucocorticoids can be reactivated in liver through 11b-hydroxysteroid dehydrogenase type 1 (11b-HSD1) enzyme activity. Inhibition of 11b-HSD1 has been suggested as a potential treatment for NAFLD. To test this, male mice with global (11b-HSD1 knockout [KO]) and liver-specific (LKO) 11b-HSD1 loss of function were fed the American Lifestyle Induced Obesity Syndrome (ALIOS) diet, known to recapitulate the spectrum of NAFLD, and metabolic and liver phenotypes assessed. Body weight, muscle and adipose tissue masses, and parameters of glucose homeostasis showed that 11b-HSD1KO and LKO mice were not protected from systemic metabolic disease. Evaluation of hepatic histology, triglyceride content, and blinded NAFLD activity score assessment indicated that levels of steatosis were similar between 11b-HSD1KO, LKO, and control mice. Unexpectedly, histological analysis revealed significantly increased levels of immune foci present in livers of 11b-HSD1KO but not LKO or control mice, suggestive of a transition to NASH. This was endorsed by elevated hepatic expression of key immune cell and inflammatory markers. These data indicate that 11b-HSD1-deficient mice are not protected from metabolic disease or hepatosteatosis in the face of a NAFLD-inducing diet. However, global deficiency of 11b-HSD1 did increase markers of hepatic inflammation and suggests a critical role for 11b-HSD1 in restraining the transition to NASH.
+27384305	5	13	11b-HSD1	GeneOrGeneProduct	15483
+27384305	23	27	Mice	OrganismTaxon	10090
+27384305	32	42	Trans-Fats	ChemicalEntity	D044242
+27384305	47	55	Fructose	ChemicalEntity	D005632
+27384305	79	97	Metabolic Syndrome	DiseaseOrPhenotypicFeature	D008659
+27384305	101	133	Nonalcoholic Fatty Liver Disease	DiseaseOrPhenotypicFeature	D065626
+27384305	135	167	Nonalcoholic fatty liver disease	DiseaseOrPhenotypicFeature	D065626
+27384305	169	174	NAFLD	DiseaseOrPhenotypicFeature	D065626
+27384305	221	230	steatosis	DiseaseOrPhenotypicFeature	D005234
+27384305	234	262	nonalcoholic steatohepatitis	DiseaseOrPhenotypicFeature	D065626
+27384305	264	268	NASH	DiseaseOrPhenotypicFeature	D065626
+27384305	274	283	cirrhosis	DiseaseOrPhenotypicFeature	D005355
+27384305	336	354	metabolic syndrome	DiseaseOrPhenotypicFeature	D008659
+27384305	356	371	Glucocorticoids	ChemicalEntity	D005938
+27384305	384	393	steatosis	DiseaseOrPhenotypicFeature	D005234
+27384305	442	457	free fatty acid	ChemicalEntity	D005230
+27384305	509	524	Glucocorticoids	ChemicalEntity	D005938
+27384305	561	600	11b-hydroxysteroid dehydrogenase type 1	GeneOrGeneProduct	15483
+27384305	602	610	11b-HSD1	GeneOrGeneProduct	15483
+27384305	643	651	11b-HSD1	GeneOrGeneProduct	15483
+27384305	700	705	NAFLD	DiseaseOrPhenotypicFeature	D065626
+27384305	726	730	mice	OrganismTaxon	10090
+27384305	744	752	11b-HSD1	GeneOrGeneProduct	15483
+27384305	793	801	11b-HSD1	GeneOrGeneProduct	15483
+27384305	928	933	NAFLD	DiseaseOrPhenotypicFeature	D065626
+27384305	1045	1052	glucose	ChemicalEntity	D005947
+27384305	1077	1085	11b-HSD1	GeneOrGeneProduct	15483
+27384305	1096	1100	mice	OrganismTaxon	10090
+27384305	1134	1151	metabolic disease	DiseaseOrPhenotypicFeature	D008659
+27384305	1186	1198	triglyceride	ChemicalEntity	D014280
+27384305	1220	1225	NAFLD	DiseaseOrPhenotypicFeature	D065626
+27384305	1277	1286	steatosis	DiseaseOrPhenotypicFeature	D005234
+27384305	1308	1316	11b-HSD1	GeneOrGeneProduct	15483
+27384305	1337	1341	mice	OrganismTaxon	10090
+27384305	1455	1463	11b-HSD1	GeneOrGeneProduct	15483
+27384305	1489	1493	mice	OrganismTaxon	10090
+27384305	1525	1529	NASH	DiseaseOrPhenotypicFeature	D065626
+27384305	1603	1615	inflammatory	DiseaseOrPhenotypicFeature	D007249
+27384305	1650	1658	11b-HSD1	GeneOrGeneProduct	15483
+27384305	1669	1673	mice	OrganismTaxon	10090
+27384305	1697	1714	metabolic disease	DiseaseOrPhenotypicFeature	D008659
+27384305	1718	1733	hepatosteatosis	DiseaseOrPhenotypicFeature	D005234
+27384305	1751	1756	NAFLD	DiseaseOrPhenotypicFeature	D065626
+27384305	1802	1810	11b-HSD1	GeneOrGeneProduct	15483
+27384305	1835	1855	hepatic inflammation	DiseaseOrPhenotypicFeature	D008107
+27384305	1889	1897	11b-HSD1	GeneOrGeneProduct	15483
+27384305	1931	1935	NASH	DiseaseOrPhenotypicFeature	D065626
+27384305	Association	D005947	15483	Novel
+27384305	Association	D005947	D008659	No
+27384305	Association	15483	D008107	Novel
+27384305	Positive_Correlation	15483	D065626	Novel
+27384305	Association	D005234	D005230	No
+27384305	Positive_Correlation	D005938	15483	No
+27384305	Association	D005938	D005230	No
+27384305	Positive_Correlation	D044242	D065626	No
+27384305	Positive_Correlation	D044242	D008659	No
+27384305	Positive_Correlation	D005632	D065626	No
+27384305	Positive_Correlation	D005632	D008659	No

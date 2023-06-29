@@ -1,0 +1,81 @@
+27084744|t|NOTCH1 and SOX10 are Essential for Proliferation and Radiation Resistance of Cancer Stem-Like Cells in Adenoid Cystic Carcinoma.
+27084744|a|PURPOSE: Although the existence of cancer stem cells (CSC) in adenoid cystic carcinoma (ACC) has been proposed, lack of assays for their propagation and uncertainty about molecular markers prevented their characterization. Our objective was to isolate CSC from ACC and provide insight into signaling pathways that support their propagation. EXPERIMENTAL DESIGN: To isolate CSC from ACC and characterize them, we used ROCK inhibitor-supplemented cell culture, immunomagnetic cell sorting, andin vitro/in vivoassays for CSC viability and tumorigenicity. RESULTS: We identified in ACC CD133-positive CSC that expressed NOTCH1 and SOX10, formed spheroids, and initiated tumors in nude mice. CD133(+)ACC cells produced activated NOTCH1 (N1ICD) and generated CD133(-)cells that expressed JAG1 as well as neural differentiation factors NR2F1, NR2F2, and p27Kip1. Knockdowns of NOTCH1, SOX10, and their common effector FABP7 had negative effects on each other, inhibited spheroidogenesis, and induced cell death pointing at their essential roles in CSC maintenance. Downstream effects of FABP7 knockdown included suppression of a broad spectrum of genes involved in proliferation, ribosome biogenesis, and metabolism. Among proliferation-linked NOTCH1/FABP7 targets, we identified SKP2 and its substrate p27Kip1. A g-secretase inhibitor, DAPT, selectively depleted CD133(+)cells, suppressed N1ICD and SKP2, induced p27Kip1, inhibited ACC growthin vivo, and sensitized CD133(+)cells to radiation. CONCLUSIONS: These results establish in the majority of ACC the presence of a previously uncharacterized population of CD133(+)cells with neural stem properties, which are driven by SOX10, NOTCH1, and FABP7. Sensitivity of these cells to Notch inhibition and their dependence on SKP2 offer new opportunities for targeted ACC therapies.
+27084744	0	6	NOTCH1	GeneOrGeneProduct	4851
+27084744	11	16	SOX10	GeneOrGeneProduct	6663
+27084744	77	83	Cancer	DiseaseOrPhenotypicFeature	D009369
+27084744	103	127	Adenoid Cystic Carcinoma	DiseaseOrPhenotypicFeature	D003528
+27084744	164	170	cancer	DiseaseOrPhenotypicFeature	D009369
+27084744	191	215	adenoid cystic carcinoma	DiseaseOrPhenotypicFeature	D003528
+27084744	217	220	ACC	DiseaseOrPhenotypicFeature	D003528
+27084744	390	393	ACC	DiseaseOrPhenotypicFeature	D003528
+27084744	511	514	ACC	DiseaseOrPhenotypicFeature	D003528
+27084744	546	550	ROCK	GeneOrGeneProduct	6093
+27084744	707	710	ACC	DiseaseOrPhenotypicFeature	D003528
+27084744	711	716	CD133	GeneOrGeneProduct	8842
+27084744	745	751	NOTCH1	GeneOrGeneProduct	4851
+27084744	756	761	SOX10	GeneOrGeneProduct	6663
+27084744	795	801	tumors	DiseaseOrPhenotypicFeature	D009369
+27084744	810	814	mice	OrganismTaxon	10090
+27084744	816	821	CD133	GeneOrGeneProduct	8842
+27084744	824	827	ACC	DiseaseOrPhenotypicFeature	D003528
+27084744	853	859	NOTCH1	GeneOrGeneProduct	4851
+27084744	861	866	N1ICD	GeneOrGeneProduct	4851
+27084744	882	887	CD133	GeneOrGeneProduct	8842
+27084744	911	915	JAG1	GeneOrGeneProduct	182
+27084744	958	963	NR2F1	GeneOrGeneProduct	7025
+27084744	965	970	NR2F2	GeneOrGeneProduct	7026
+27084744	976	983	p27Kip1	GeneOrGeneProduct	1027
+27084744	999	1005	NOTCH1	GeneOrGeneProduct	4851
+27084744	1007	1012	SOX10	GeneOrGeneProduct	6663
+27084744	1040	1045	FABP7	GeneOrGeneProduct	2173
+27084744	1209	1214	FABP7	GeneOrGeneProduct	2173
+27084744	1366	1372	NOTCH1	GeneOrGeneProduct	4851
+27084744	1373	1378	FABP7	GeneOrGeneProduct	2173
+27084744	1402	1406	SKP2	GeneOrGeneProduct	6502
+27084744	1425	1432	p27Kip1	GeneOrGeneProduct	1027
+27084744	1436	1447	g-secretase	GeneOrGeneProduct	55851
+27084744	1459	1463	DAPT	ChemicalEntity	C419410
+27084744	1486	1491	CD133	GeneOrGeneProduct	8842
+27084744	1512	1517	N1ICD	GeneOrGeneProduct	4851
+27084744	1522	1526	SKP2	GeneOrGeneProduct	6502
+27084744	1536	1543	p27Kip1	GeneOrGeneProduct	1027
+27084744	1555	1558	ACC	DiseaseOrPhenotypicFeature	D003528
+27084744	1589	1594	CD133	GeneOrGeneProduct	8842
+27084744	1673	1676	ACC	DiseaseOrPhenotypicFeature	D003528
+27084744	1736	1741	CD133	GeneOrGeneProduct	8842
+27084744	1799	1804	SOX10	GeneOrGeneProduct	6663
+27084744	1806	1812	NOTCH1	GeneOrGeneProduct	4851
+27084744	1818	1823	FABP7	GeneOrGeneProduct	2173
+27084744	1855	1860	Notch	GeneOrGeneProduct	4851
+27084744	1896	1900	SKP2	GeneOrGeneProduct	6502
+27084744	1938	1941	ACC	DiseaseOrPhenotypicFeature	D003528
+27084744	Positive_Correlation	8842	6663	Novel
+27084744	Association	8842	4851	Novel
+27084744	Association	C419410	8842	Novel
+27084744	Negative_Correlation	C419410	6502	Novel
+27084744	Positive_Correlation	C419410	1027	Novel
+27084744	Negative_Correlation	C419410	D003528	Novel
+27084744	Association	55851	8842	Novel
+27084744	Negative_Correlation	55851	C419410	No
+27084744	Positive_Correlation	55851	6502	Novel
+27084744	Negative_Correlation	55851	1027	Novel
+27084744	Association	55851	D003528	Novel
+27084744	Positive_Correlation	55851	4851	Novel
+27084744	Association	6502	1027	No
+27084744	Association	6502	D003528	Novel
+27084744	Association	2173	D003528	Novel
+27084744	Positive_Correlation	6663	2173	Novel
+27084744	Association	6663	D009369	Novel
+27084744	Association	6663	D003528	Novel
+27084744	Association	D009369	6093	No
+27084744	Association	D009369	8842	No
+27084744	Association	D003528	6093	No
+27084744	Association	D003528	8842	No
+27084744	Association	D003528	1027	Novel
+27084744	Association	D003528	7026	Novel
+27084744	Association	D003528	7025	Novel
+27084744	Association	D003528	182	Novel
+27084744	Negative_Correlation	4851	C419410	Novel
+27084744	Positive_Correlation	4851	2173	Novel
+27084744	Association	4851	D009369	Novel
+27084744	Association	4851	D003528	Novel

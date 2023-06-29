@@ -1,0 +1,44 @@
+28268438|t|Heart beat characterization from ballistocardiogram signals using extended functions of multiple instances
+28268438|a|A multiple instance learning (MIL) method, extended Function of Multiple Instances (eFUMI), is applied to ballistocardiogram (BCG) signals produced by a hydraulic bed sensor. The goal of this approach is to learn a personalized heartbeat " concept " for an individual. This heartbeat concept is a prototype (or " signature ") that characterizes the heartbeat pattern for an individual in ballistocardiogram data. The eFUMI method models the problem of learning a heartbeat concept from a BCG signal as a MIL problem. This approach elegantly addresses the uncertainty inherent in a BCG signal (e. g., misalignment between training data and ground truth, mis-collection of heartbeat by some transducers, etc.). Given a BCG training signal coupled with a ground truth signal (e.g., a pulse finger sensor), training "bags" labeled with only binary labels denoting if a training bag contains a heartbeat signal or not can be generated. Then, using these bags, eFUMI learns a personalized concept of heartbeat for a subject as well as several non- heartbeat background concepts. After learning the heartbeat concept, heartbeat detection and heart rate estimation can be applied to test data. Experimental results show that the estimated heartbeat concept found by eFUMI is more representative and a more discriminative prototype of the heartbeat signals than those found by comparison MIL methods in the literature.
+28268438	0	10	Heart beat	T038	UMLS:C0425583
+28268438	33	59	ballistocardiogram signals	T058	UMLS:C0004700
+28268438	66	106	extended functions of multiple instances	T170	UMLS:C0002045
+28268438	109	149	multiple instance learning (MIL) method,	T170	UMLS:C0025663
+28268438	150	189	extended Function of Multiple Instances	T170	UMLS:C0002045
+28268438	191	196	eFUMI	T170	UMLS:C0002045
+28268438	213	231	ballistocardiogram	T058	UMLS:C0004700
+28268438	233	236	BCG	T058	UMLS:C0004700
+28268438	286	290	goal	T170	UMLS:C0018017
+28268438	335	344	heartbeat	T038	UMLS:C0425583
+28268438	364	374	individual	T098	UMLS:C0237401
+28268438	381	390	heartbeat	T038	UMLS:C0425583
+28268438	404	413	prototype	T170	UMLS:C0282574
+28268438	456	465	heartbeat	T038	UMLS:C0425583
+28268438	481	491	individual	T098	UMLS:C0237401
+28268438	495	513	ballistocardiogram	T058	UMLS:C0004700
+28268438	524	536	eFUMI method	T170	UMLS:C0002045
+28268438	537	543	models	T170	UMLS:C3161035
+28268438	548	555	problem	T033	UMLS:C0033213
+28268438	570	579	heartbeat	T038	UMLS:C0425583
+28268438	595	605	BCG signal	T058	UMLS:C0004700
+28268438	611	614	MIL	T170	UMLS:C0025663
+28268438	615	622	problem	T033	UMLS:C0033213
+28268438	662	673	uncertainty	T033	UMLS:C0087130
+28268438	688	698	BCG signal	T058	UMLS:C0004700
+28268438	778	787	heartbeat	T038	UMLS:C0425583
+28268438	796	807	transducers	T074	UMLS:C0040661
+28268438	824	827	BCG	T058	UMLS:C0004700
+28268438	996	1005	heartbeat	T038	UMLS:C0425583
+28268438	1062	1067	eFUMI	T170	UMLS:C0002045
+28268438	1101	1110	heartbeat	T038	UMLS:C0425583
+28268438	1149	1158	heartbeat	T038	UMLS:C0425583
+28268438	1199	1208	heartbeat	T038	UMLS:C0425583
+28268438	1218	1227	heartbeat	T038	UMLS:C0425583
+28268438	1228	1237	detection	T058	UMLS:C1511790
+28268438	1242	1252	heart rate	T201	UMLS:C0018810
+28268438	1293	1313	Experimental results	T033	UMLS:C2825142
+28268438	1338	1347	heartbeat	T038	UMLS:C0425583
+28268438	1365	1370	eFUMI	T170	UMLS:C0002045
+28268438	1420	1429	prototype	T170	UMLS:C0282574
+28268438	1437	1446	heartbeat	T038	UMLS:C0425583
+28268438	1486	1497	MIL methods	T170	UMLS:C0025663

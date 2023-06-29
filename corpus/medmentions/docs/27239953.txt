@@ -1,0 +1,77 @@
+27239953|t|Body mass index and suicide methods
+27239953|a|Overweight and obesity is associated with lower rates of suicide. However, little is known about the association with different suicide methods. We studied the association between groups of body mass index and suicide methods. We identified all medicolegal autopsy cases with a cause of death due to external causes in Sweden during 1999-2013 (N = 39,368) and included 11,715 suicides and 13,316 accidents or homicides as controls. We applied multinomial regression models adjusted for age, sex, year and season of death. Obesity was associated with suicidal intoxication, OR 1.15 [95% confidence interval (CI) 1.02, 1.30] and negatively associated with all other suicide methods studied. Underweight showed a negative association with suicidal drowning and there was an indication towards a negative association with hanging in men OR 0.81 (95% CI 0.65, 1.01). We conclude that body mass index (BMI) is associated with the choice of suicide method. This may be of importance in a public health perspective, e.g. potential for prevention of intoxications. In the practice of forensic medicine, the physician's level of suspicion may rise if the apparent suicidal method is less common for the individual characteristics of the deceased, such as BMI.
+27239953	0	15	Body mass index	T201	C1305855
+27239953	20	27	suicide	T033	C0038661
+27239953	28	35	methods	T169	C0449851
+27239953	36	46	Overweight	T184	C0497406
+27239953	51	58	obesity	T047	C0028754
+27239953	62	77	associated with	T080	C0332281
+27239953	78	89	lower rates	T081	C1521828
+27239953	93	100	suicide	T033	C0038661
+27239953	137	148	association	T080	C0439849
+27239953	164	171	suicide	T033	C0038661
+27239953	172	179	methods	T169	C0449851
+27239953	196	207	association	T080	C0439849
+27239953	226	241	body mass index	T201	C1305855
+27239953	246	253	suicide	T033	C0038661
+27239953	254	261	methods	T169	C0449851
+27239953	281	292	medicolegal	T089	C0243119
+27239953	293	300	autopsy	T060	C0004398
+27239953	301	306	cases	T169	C0868928
+27239953	314	328	cause of death	T033	C0007465
+27239953	336	351	external causes	T033	C1407879
+27239953	355	361	Sweden	T083	C0038995
+27239953	396	404	included	T169	C0332257
+27239953	412	420	suicides	T033	C0038661
+27239953	432	441	accidents	T067	C0000924
+27239953	445	454	homicides	T055	C0019872
+27239953	458	466	controls	T096	C0009932
+27239953	479	490	multinomial	T081	C1709090
+27239953	491	508	regression models	T170	C0034980
+27239953	522	525	age	T032	C0001779
+27239953	527	530	sex	T032	C0079399
+27239953	532	536	year	T079	C0439234
+27239953	541	547	season	T079	C0036497
+27239953	551	556	death	T033	C1306577
+27239953	558	565	Obesity	T047	C0028754
+27239953	570	585	associated with	T080	C0332281
+27239953	586	594	suicidal	T033	C0438696
+27239953	595	607	intoxication	T033	C0728899
+27239953	609	611	OR	T081	C0028873
+27239953	622	641	confidence interval	T081	C0009667
+27239953	643	645	CI	T081	C0009667
+27239953	663	673	negatively	T033	C0205160
+27239953	674	689	associated with	T080	C0332281
+27239953	700	707	suicide	T033	C0038661
+27239953	708	715	methods	T169	C0449851
+27239953	725	736	Underweight	T033	C0041667
+27239953	746	754	negative	T033	C0205160
+27239953	755	766	association	T080	C0439849
+27239953	772	780	suicidal	T033	C0438696
+27239953	781	789	drowning	T037	C0013142
+27239953	807	817	indication	T078	C3146298
+27239953	828	836	negative	T033	C0205160
+27239953	837	848	association	T080	C0439849
+27239953	854	861	hanging	T037	C0544691
+27239953	865	868	men	T098	C0025266
+27239953	869	871	OR	T081	C0028873
+27239953	882	884	CI	T081	C0009667
+27239953	901	909	conclude	T078	C1707478
+27239953	915	930	body mass index	T201	C1305855
+27239953	932	935	BMI	T201	C1305855
+27239953	940	955	associated with	T080	C0332281
+27239953	970	977	suicide	T033	C0038661
+27239953	978	984	method	T169	C0449851
+27239953	1017	1042	public health perspective	T058	C0699943
+27239953	1049	1058	potential	T080	C3245505
+27239953	1063	1073	prevention	T061	C0204732
+27239953	1077	1090	intoxications	T033	C0728899
+27239953	1111	1128	forensic medicine	T091	C0016557
+27239953	1134	1145	physician's	T097	C0031831
+27239953	1155	1164	suspicion	T041	C0242114
+27239953	1181	1189	apparent	T078	C0750489
+27239953	1190	1198	suicidal	T033	C0438696
+27239953	1209	1220	less common	T081	C0205214
+27239953	1229	1255	individual characteristics	T080	C1521970
+27239953	1263	1271	deceased	T040	C0011065
+27239953	1281	1284	BMI	T201	C1305855

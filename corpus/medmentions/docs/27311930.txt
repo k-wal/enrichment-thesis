@@ -1,0 +1,64 @@
+27311930|t|Individualizing drug dosage with longitudinal data
+27311930|a|We propose a two-step procedure to personalize drug dosage over time under the framework of a log-linear mixed-effect model. We model patients ' heterogeneity using subject - specific random effects, which are treated as the realizations of an unspecified stochastic process. We extend the conditional quadratic inference function to estimate both fixed-effect coefficients and individual random effects on a longitudinal training data sample in the first step and propose an adaptive procedure to estimate new patients ' random effects and provide dosage recommendations for new patients in the second step. An advantage of our approach is that we do not impose any distribution assumption on estimating random effects. Moreover, the new approach can accommodate more general time -varying covariates corresponding to random effects. We show in theory and numerical studies that the proposed method is more efficient compared with existing approaches, especially when covariates are time varying. In addition, a real data example of a clozapine study confirms that our two-step procedure leads to more accurate drug dosage recommendations. Copyright © 2016 John Wiley & Sons, Ltd.
+27311930	0	15	Individualizing	T052	C0441655
+27311930	16	27	drug dosage	T081	C0870450
+27311930	33	50	longitudinal data	T078	C1511726
+27311930	64	72	two-step	T077	C1261552
+27311930	73	82	procedure	T169	C2700391
+27311930	98	109	drug dosage	T081	C0870450
+27311930	115	119	time	T079	C0040223
+27311930	145	174	log-linear mixed-effect model	T170	C3161035
+27311930	179	184	model	T062	C0870071
+27311930	185	193	patients	T101	C0030705
+27311930	196	209	heterogeneity	T080	C0019409
+27311930	216	223	subject	T078	C1706203
+27311930	226	234	specific	T080	C0205369
+27311930	235	241	random	T080	C0439605
+27311930	242	249	effects	T080	C1280500
+27311930	276	288	realizations	T078	C4304473
+27311930	295	306	unspecified	T080	C0205370
+27311930	307	325	stochastic process	T081	C0038347
+27311930	341	352	conditional	T080	C1701901
+27311930	353	381	quadratic inference function	T169	C0542341
+27311930	399	424	fixed-effect coefficients	T081	C1707429
+27311930	429	439	individual	T081	C0205171
+27311930	440	446	random	T080	C0439605
+27311930	447	454	effects	T080	C1280500
+27311930	460	493	longitudinal training data sample	T078	C1511726
+27311930	507	511	step	T077	C1261552
+27311930	536	545	procedure	T169	C2700391
+27311930	558	561	new	T080	C0205314
+27311930	562	570	patients	T101	C0030705
+27311930	573	579	random	T080	C0439605
+27311930	580	587	effects	T080	C1280500
+27311930	600	606	dosage	T081	C0870450
+27311930	607	622	recommendations	T078	C0034866
+27311930	631	639	patients	T101	C0030705
+27311930	654	658	step	T077	C1261552
+27311930	680	688	approach	T169	C1292724
+27311930	718	730	distribution	T169	C1704711
+27311930	731	741	assumption	T078	C1254370
+27311930	756	762	random	T080	C0439605
+27311930	763	770	effects	T080	C1280500
+27311930	790	798	approach	T169	C1292724
+27311930	828	832	time	T079	C0040223
+27311930	842	852	covariates	T080	C0205556
+27311930	870	876	random	T080	C0439605
+27311930	877	884	effects	T080	C1280500
+27311930	897	903	theory	T078	C0871935
+27311930	908	925	numerical studies	T062	C2603343
+27311930	944	950	method	T169	C0025664
+27311930	959	968	efficient	T080	C0442799
+27311930	992	1002	approaches	T169	C1292724
+27311930	1020	1030	covariates	T080	C0205556
+27311930	1035	1039	time	T079	C0040223
+27311930	1040	1047	varying	T169	C0205245
+27311930	1069	1073	data	T078	C1511726
+27311930	1074	1081	example	T077	C1707959
+27311930	1087	1096	clozapine	T109,T121	C0009079
+27311930	1097	1102	study	T062	C2603343
+27311930	1121	1129	two-step	T077	C1261552
+27311930	1130	1139	procedure	T169	C2700391
+27311930	1154	1162	accurate	T080	C0443131
+27311930	1163	1174	drug dosage	T081	C0870450
+27311930	1175	1190	recommendations	T078	C0034866

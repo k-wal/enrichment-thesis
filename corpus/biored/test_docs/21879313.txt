@@ -1,0 +1,70 @@
+21879313|t|Genotype rs8099917 near the IL28B gene and amino acid substitution at position 70 in the core region of the hepatitis C virus are determinants of serum apolipoprotein B-100 concentration in chronic hepatitis C.
+21879313|a|The life cycle of the hepatitis C virus (HCV) is closely related to host lipoprotein metabolism. Serum levels of lipid are associated with the response to pegylated interferon plus ribavirin (PEG-IFN/RBV) therapy, while single nucleotide polymorphisms (SNPs) around the human interleukin 28B (IL28B) gene locus and amino acid substitutions in the core region of the HCV have been reported to affect the efficacy of PEG-IFN/RBV therapy in chronic hepatitis with HCV genotype 1b infection. The aim of this study was to elucidate the relationship between serum lipid and factors that are able to predict the efficacy of PEG-IFN/RB therapy, with specific focus on apolipoprotein B-100 (apoB-100) in 148 subjects with chronic HCV G1b infection. Our results demonstrated that both the aa 70 substitution in the core region of the HCV and the rs8099917 SNP located proximal to the IL28B were independent factors in determining serum apoB-100 and low-density lipoprotein (LDL) cholesterol levels. A significant association was noted between higher levels of apoB-100 (P = 1.1 10(-3)) and LDL cholesterol (P = 0.02) and the subjects having Arg70. A significant association was also observed between subjects carrying the rs8099917 TT responder genotype and higher levels of apoB-100 (P = 6.4 10(-3)) and LDL cholesterol (P = 4.2 10(-3)). Our results suggest that apoB-100 and LDL cholesterol are markers of impaired cellular lipoprotein pathways and/or host endogenous interferon response to HCV in chronic HCV infection. In particular, serum apoB-100 concentration might be an informative marker for judging changes in HCV-associated intracellular lipoprotein metabolism in patients carrying the rs8099917 responder genotype.
+21879313	9	18	rs8099917	SequenceVariant	rs8099917
+21879313	28	33	IL28B	GeneOrGeneProduct	282617
+21879313	108	125	hepatitis C virus	OrganismTaxon	11103
+21879313	152	172	apolipoprotein B-100	GeneOrGeneProduct	338
+21879313	190	209	chronic hepatitis C	DiseaseOrPhenotypicFeature	D019698
+21879313	233	250	hepatitis C virus	OrganismTaxon	11103
+21879313	252	255	HCV	OrganismTaxon	11103
+21879313	324	329	lipid	ChemicalEntity	D008055
+21879313	366	386	pegylated interferon	GeneOrGeneProduct	3439
+21879313	392	401	ribavirin	ChemicalEntity	D012254
+21879313	403	410	PEG-IFN	GeneOrGeneProduct	3439
+21879313	411	414	RBV	ChemicalEntity	D012254
+21879313	481	486	human	OrganismTaxon	9606
+21879313	487	502	interleukin 28B	GeneOrGeneProduct	282617
+21879313	504	509	IL28B	GeneOrGeneProduct	282617
+21879313	577	580	HCV	OrganismTaxon	11103
+21879313	626	633	PEG-IFN	GeneOrGeneProduct	3439
+21879313	634	637	RBV	ChemicalEntity	D012254
+21879313	649	666	chronic hepatitis	DiseaseOrPhenotypicFeature	D006521
+21879313	672	697	HCV genotype 1b infection	DiseaseOrPhenotypicFeature	D006526
+21879313	769	774	lipid	ChemicalEntity	D008055
+21879313	828	835	PEG-IFN	GeneOrGeneProduct	3439
+21879313	836	838	RB	ChemicalEntity	D012254
+21879313	871	891	apolipoprotein B-100	GeneOrGeneProduct	338
+21879313	893	901	apoB-100	GeneOrGeneProduct	338
+21879313	932	949	HCV G1b infection	DiseaseOrPhenotypicFeature	D006526
+21879313	1035	1038	HCV	OrganismTaxon	11103
+21879313	1047	1056	rs8099917	SequenceVariant	rs8099917
+21879313	1085	1090	IL28B	GeneOrGeneProduct	282617
+21879313	1137	1145	apoB-100	GeneOrGeneProduct	338
+21879313	1150	1191	low-density lipoprotein (LDL) cholesterol	ChemicalEntity	D008078
+21879313	1261	1269	apoB-100	GeneOrGeneProduct	338
+21879313	1291	1306	LDL cholesterol	ChemicalEntity	D008078
+21879313	1342	1347	Arg70	SequenceVariant	p|Allele|R|70
+21879313	1423	1432	rs8099917	SequenceVariant	rs8099917
+21879313	1476	1484	apoB-100	GeneOrGeneProduct	338
+21879313	1506	1521	LDL cholesterol	ChemicalEntity	D008078
+21879313	1565	1573	apoB-100	GeneOrGeneProduct	338
+21879313	1578	1593	LDL cholesterol	ChemicalEntity	D008078
+21879313	1694	1697	HCV	OrganismTaxon	11103
+21879313	1709	1722	HCV infection	DiseaseOrPhenotypicFeature	D006526
+21879313	1745	1753	apoB-100	GeneOrGeneProduct	338
+21879313	1822	1825	HCV	OrganismTaxon	11103
+21879313	1877	1885	patients	OrganismTaxon	9606
+21879313	1899	1908	rs8099917	SequenceVariant	rs8099917
+21879313	Association	D008055	D012254	No
+21879313	Association	D008055	3439	No
+21879313	Association	D006526	p|Allele|R|70	Novel
+21879313	Association	D006526	338	Novel
+21879313	Association	D006526	282617	Novel
+21879313	Association	D006526	rs8099917	Novel
+21879313	Positive_Correlation	D008078	p|Allele|R|70	Novel
+21879313	Association	D008078	D006526	Novel
+21879313	Negative_Correlation	D012254	D006526	No
+21879313	Negative_Correlation	D012254	D006521	No
+21879313	Negative_Correlation	3439	D006526	No
+21879313	Negative_Correlation	3439	D006521	No
+21879313	Cotreatment	3439	D012254	No
+21879313	Association	338	D008078	Novel
+21879313	Association	282617	D008078	Novel
+21879313	Association	282617	D006521	No
+21879313	Association	282617	D012254	No
+21879313	Association	282617	3439	No
+21879313	Association	282617	338	Novel
+21879313	Positive_Correlation	rs8099917	D008078	Novel
+21879313	Association	D019698	338	Novel
+21879313	Association	D019698	282617	No
+21879313	Association	D019698	rs8099917	Novel

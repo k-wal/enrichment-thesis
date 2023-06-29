@@ -1,0 +1,128 @@
+27965450|t|Functional Characterization of Pneumocystis carinii Inositol Transporter 1
+27965450|a|Fungi in the genus Pneumocystis live in the lungs of mammals, where they can cause a fatal pneumonia (PCP [Pneumocystis pneumonia]) in hosts with compromised immune systems. The absence of a continuous in vitro culture system for any species of Pneumocystis has led to limited understanding of these fungi, especially for the discovery of new therapies. We recently reported that Pneumocystis carinii, Pneumocystis murina, and most significantly, Pneumocystis jirovecii lack both enzymes necessary for myo-inositol biosynthesis but contain genes with homologies to fungal myo-inositol transporters. Since myo-inositol is essential for eukaryotic viability, the primary transporter, ITR1, was functionally and structurally characterized in P. carinii The predicted structure of P. carinii ITR1 (PcITR1) contained 12 transmembrane alpha-helices with intracellular C and N termini, consistent with other inositol transporters. The apparent Km was 0.94 ± 0.08 (mean ± standard deviation), suggesting that myo-inositol transport in P. carinii is likely through a low-affinity, highly selective transport system, as no other sugars or inositol stereoisomers were significant competitive inhibitors. Glucose transport was shown to use a different transport system. The myo-inositol transport was distinct from mammalian transporters, as it was not sodium dependent and was cytochalasin B resistant. Inositol transport in these fungi offers an attractive new drug target because of the reliance of the fungi on its transport, clear differences between the mammalian and fungal transporters, and the ability of the host to both synthesize and transport this critical nutrient, predicting low toxicity of potential inhibitors to the fungal transporter. myo-Inositol is a sugarlike nutrient that is essential for life in most organisms. Humans and microbes alike can obtain it by making it, which involves only 2 enzymes, by taking it from the environment by a transport process, or by recycling it from other cellular constituents. Inspection of the genomes of the pathogenic fungi of the genus Pneumocystis showed that these pneumonia - causing parasites could not make myo-inositol, as they lacked the 2 enzymes. Instead, we found evidence of inositol transporters, which would import the sugar from the lungs where the fungi reside. In the present report, we characterized the transport of myo-inositol in the fungus and found that the transporter was highly selective for myo-inositol and did not transport any other molecules. The transport was distinct from that in mammalian cells, and since mammals can both make and transport myo-inositol, while Pneumocystis fungi must transport it, this process offers a potential new drug target.
+27965450	31	51	Pneumocystis carinii	T004	C0032276
+27965450	52	74	Inositol Transporter 1	T116,T123	C0596902
+27965450	75	80	Fungi	T004	C0016832
+27965450	88	106	genus Pneumocystis	T004	C0597258
+27965450	119	124	lungs	T023	C0024109
+27965450	128	135	mammals	T015	C0024660
+27965450	160	165	fatal	T080	C1302234
+27965450	166	175	pneumonia	T047	C0339961
+27965450	177	180	PCP	T047	C1535939
+27965450	182	204	Pneumocystis pneumonia	T047	C1535939
+27965450	210	215	hosts	T001	C1167395
+27965450	233	247	immune systems	T022	C0020962
+27965450	277	285	in vitro	T080	C1533691
+27965450	286	300	culture system	T059	C0430400
+27965450	309	316	species	T185	C1705920
+27965450	320	332	Pneumocystis	T004	C0597258
+27965450	375	380	fungi	T004	C0016832
+27965450	401	410	discovery	T052	C1880355
+27965450	418	427	therapies	T061	C0087111
+27965450	455	475	Pneumocystis carinii	T004	C0032276
+27965450	477	496	Pneumocystis murina	T004	C1499624
+27965450	522	544	Pneumocystis jirovecii	T004	C0320385
+27965450	555	562	enzymes	T116,T126	C0014442
+27965450	577	602	myo-inositol biosynthesis	T044	C1156341
+27965450	615	636	genes with homologies	T028	C1334043
+27965450	640	646	fungal	T004	C0016832
+27965450	647	659	myo-inositol	T109,T121,T127	C0021547
+27965450	660	672	transporters	T116,T123	C0596902
+27965450	680	692	myo-inositol	T109,T121,T127	C0021547
+27965450	710	720	eukaryotic	T025	C0015161
+27965450	721	730	viability	T043	C0007620
+27965450	744	755	transporter	T116,T123	C0596902
+27965450	757	761	ITR1	T116,T123	C0596902
+27965450	767	779	functionally	T169	C0205245
+27965450	784	796	structurally	T082	C0678594
+27965450	814	824	P. carinii	T004	C0032276
+27965450	839	848	structure	T116	C1510464
+27965450	852	862	P. carinii	T004	C0032276
+27965450	863	867	ITR1	T116,T123	C0596902
+27965450	869	875	PcITR1	T116,T123	C0596902
+27965450	890	903	transmembrane	T026	C1167322
+27965450	904	917	alpha-helices	T082	C0162805
+27965450	923	936	intracellular	T082	C0178719
+27965450	937	938	C	T087	C1707271
+27965450	943	952	N termini	T087	C1706793
+27965450	976	984	inositol	T109,T121,T127	C0021547
+27965450	985	997	transporters	T116,T123	C0596902
+27965450	1076	1098	myo-inositol transport	T043	C1159756
+27965450	1102	1112	P. carinii	T004	C0032276
+27965450	1164	1180	transport system	T043	C0005528
+27965450	1194	1200	sugars	T109,T121	C0242209
+27965450	1204	1212	inositol	T109,T121,T127	C0021547
+27965450	1213	1226	stereoisomers	T104	C0376211
+27965450	1244	1255	competitive	T044	C0005458
+27965450	1256	1266	inhibitors	T120	C0243077
+27965450	1268	1285	Glucose transport	T043	C0178666
+27965450	1315	1324	transport	T043	C0005528
+27965450	1337	1359	myo-inositol transport	T043	C1159756
+27965450	1378	1387	mammalian	T015	C0024660
+27965450	1388	1400	transporters	T116,T123	C0596902
+27965450	1416	1432	sodium dependent	T043	C1523889
+27965450	1441	1455	cytochalasin B	T121,T123	C0010737
+27965450	1456	1465	resistant	T169	C0332325
+27965450	1467	1485	Inositol transport	T043	C1159756
+27965450	1495	1500	fungi	T004	C0016832
+27965450	1511	1521	attractive	T080	C2346874
+27965450	1526	1530	drug	T121	C1254351
+27965450	1531	1537	target	T169	C1521840
+27965450	1569	1574	fungi	T004	C0016832
+27965450	1582	1591	transport	T043	C0005528
+27965450	1623	1632	mammalian	T015	C0024660
+27965450	1637	1643	fungal	T004	C0016832
+27965450	1644	1656	transporters	T116,T123	C0596902
+27965450	1681	1685	host	T001	C1167395
+27965450	1709	1718	transport	T043	C0005528
+27965450	1724	1732	critical	T080	C1511545
+27965450	1733	1741	nutrient	T168	C0678695
+27965450	1754	1757	low	T080	C0205251
+27965450	1758	1766	toxicity	T037	C0600688
+27965450	1770	1779	potential	T080	C3245505
+27965450	1780	1790	inhibitors	T120	C0243077
+27965450	1798	1804	fungal	T004	C0016832
+27965450	1805	1816	transporter	T116,T123	C0596902
+27965450	1818	1830	myo-Inositol	T109,T121,T127	C0021547
+27965450	1836	1845	sugarlike	T109,T121	C0242209
+27965450	1846	1854	nutrient	T168	C0678695
+27965450	1863	1872	essential	T080	C0205224
+27965450	1877	1881	life	T078	C0376558
+27965450	1890	1899	organisms	T001	C0029235
+27965450	1901	1907	Humans	T016	C0086418
+27965450	1912	1920	microbes	T001	C0445623
+27965450	1977	1984	enzymes	T116,T126	C0014442
+27965450	2008	2019	environment	T082	C0014406
+27965450	2025	2042	transport process	T044	C1519628
+27965450	2074	2082	cellular	T025	C0007634
+27965450	2083	2095	constituents	T167	C0729650
+27965450	2115	2122	genomes	T028	C0085239
+27965450	2130	2146	pathogenic fungi	T004	C3826297
+27965450	2154	2172	genus Pneumocystis	T004	C0597258
+27965450	2191	2200	pneumonia	T047	C0339961
+27965450	2203	2210	causing	T169	C0678227
+27965450	2211	2220	parasites	T204	C0030498
+27965450	2236	2248	myo-inositol	T109,T121,T127	C0021547
+27965450	2271	2278	enzymes	T116,T126	C0014442
+27965450	2310	2318	inositol	T109,T121,T127	C0021547
+27965450	2319	2331	transporters	T116,T123	C0596902
+27965450	2356	2361	sugar	T109,T121	C0242209
+27965450	2371	2376	lungs	T023	C0024109
+27965450	2387	2392	fungi	T004	C0016832
+27965450	2445	2454	transport	T043	C0005528
+27965450	2458	2470	myo-inositol	T109,T121,T127	C0021547
+27965450	2478	2484	fungus	T004	C0016832
+27965450	2504	2515	transporter	T116,T123	C0596902
+27965450	2541	2553	myo-inositol	T109,T121,T127	C0021547
+27965450	2566	2575	transport	T043	C0005528
+27965450	2586	2595	molecules	T167	C0567416
+27965450	2601	2610	transport	T043	C0005528
+27965450	2637	2652	mammalian cells	T025	C1512977
+27965450	2664	2671	mammals	T015	C0024660
+27965450	2690	2699	transport	T043	C0005528
+27965450	2700	2712	myo-inositol	T109,T121,T127	C0021547
+27965450	2720	2738	Pneumocystis fungi	T004	C0597258
+27965450	2744	2753	transport	T043	C0005528
+27965450	2780	2789	potential	T080	C3245505
+27965450	2794	2798	drug	T121	C1254351
+27965450	2799	2805	target	T169	C1521840

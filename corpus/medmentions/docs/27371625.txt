@@ -1,0 +1,64 @@
+27371625|t|Variation in the Use of Vestibular Diagnostic Testing for Patients Presenting to Otolaryngology Clinics with Dizziness
+27371625|a|We used a national otolaryngology practice-based research network database to characterize the utilization of vestibular function testing in patients diagnosed with dizziness and/or a vestibular disorder. Database review. The Creating Healthcare Excellence through Education and Research (CHEER) practice-based research network of academic and community providers Dizzy patients in the CHEER retrospective database were identified through ICD-9 codes; vestibular testing procedures were identified with CPT codes. Demographics and procedures per patient were tabulated. Analysis included number and type of vestibular tests ordered, stratified by individual clinic and by practice type (community vs academic). Chi-square tests were performed to assess if the percentage of patients receiving testing was statistically significant across clinics. A logistic regression model was used to examine the association between receipt of testing and being tested on initial visit. A total of 12,468 patients diagnosed with dizziness and/or a vestibular disorder were identified from 7 community and 5 academic CHEER network clinics across the country. One-fifth of these patients had at least 1 vestibular function test. The percentage of patients tested varied widely by site, from 3% to 72%; academic clinics were twice as likely to test. Initial visit vestibular testing also varied, from 0% to 96% of dizzy patients, and was 15 times more likely in academic clinics. There is significant variation in use and timing of vestibular diagnostic testing across otolaryngology clinics. The CHEER network research database does not contain outcome data. These results illustrate the critical need for research that examines outcomes as related to vestibular testing.
+27371625	24	53	Vestibular Diagnostic Testing	T060	C0848432
+27371625	58	66	Patients	T101	C0030705
+27371625	81	103	Otolaryngology Clinics	T093	C4047590
+27371625	109	118	Dizziness	T184	C0012833
+27371625	129	152	national otolaryngology	T091	C0029892
+27371625	153	184	practice-based research network	T093	C1709626
+27371625	185	193	database	T170	C0242356
+27371625	229	256	vestibular function testing	T060	C0042596
+27371625	260	268	patients	T101	C0030705
+27371625	269	278	diagnosed	T033	C0011900
+27371625	284	293	dizziness	T184	C0012833
+27371625	303	322	vestibular disorder	T047	C0042594
+27371625	345	375	Creating Healthcare Excellence	T062	C0018757
+27371625	384	393	Education	T065	C0039401
+27371625	398	406	Research	T062	C0035168
+27371625	408	413	CHEER	T062	C0018757
+27371625	415	446	practice-based research network	T093	C1709626
+27371625	450	458	academic	T092	C1510747
+27371625	463	482	community providers	T097	C0018724
+27371625	483	497	Dizzy patients	T101	C0030705
+27371625	505	510	CHEER	T062	C0018757
+27371625	511	533	retrospective database	T062	C0035363
+27371625	558	569	ICD-9 codes	T170	C2346503
+27371625	571	600	vestibular testing procedures	T060	C0430022
+27371625	622	631	CPT codes	T170	C1136322
+27371625	633	645	Demographics	T090	C0011298
+27371625	650	672	procedures per patient	T060	C0430022
+27371625	678	687	tabulated	T081	C0392762
+27371625	689	697	Analysis	T062	C0936012
+27371625	726	742	vestibular tests	T060	C0848432
+27371625	752	783	stratified by individual clinic	T062	C0681883
+27371625	791	804	practice type	T080	C0332307
+27371625	806	815	community	T096	C0009462
+27371625	806	815	community	T096	C0009462
+27371625	819	827	academic	T092	C1510747
+27371625	830	846	Chi-square tests	T170	C0008041
+27371625	893	919	patients receiving testing	T101	C0030705
+27371625	924	964	statistically significant across clinics	T081	C0237881
+27371625	968	987	logistic regression	T062	C0206031
+27371625	988	993	model	T081,T170	C0023965
+27371625	1038	1056	receipt of testing	T169	C0205245
+27371625	1110	1118	patients	T101	C0030705
+27371625	1119	1128	diagnosed	T033	C0011900
+27371625	1134	1143	dizziness	T184	C0012833
+27371625	1153	1172	vestibular disorder	T047	C0042594
+27371625	1196	1205	community	T096	C0009462
+27371625	1212	1220	academic	T092	C1510747
+27371625	1221	1226	CHEER	T062	C0018757
+27371625	1235	1242	clinics	T073,T093	C0442592
+27371625	1282	1290	patients	T101	C0030705
+27371625	1306	1330	vestibular function test	T060	C0042596
+27371625	1350	1358	patients	T101	C0030705
+27371625	1405	1421	academic clinics	T073,T093	C0442592
+27371625	1466	1484	vestibular testing	T060	C0848432
+27371625	1516	1530	dizzy patients	T101	C0030705
+27371625	1564	1580	academic clinics	T073,T093	C0442592
+27371625	1634	1663	vestibular diagnostic testing	T060	C0848432
+27371625	1671	1693	otolaryngology clinics	T093	C4047590
+27371625	1699	1704	CHEER	T062	C0018757
+27371625	1705	1730	network research database	T170	C0242356
+27371625	1809	1840	research that examines outcomes	T062	C0086750
+27371625	1855	1873	vestibular testing	T060	C0848432

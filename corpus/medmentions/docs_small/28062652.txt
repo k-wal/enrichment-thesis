@@ -1,0 +1,44 @@
+28062652|t|The Processing-Speed Impairment in Psychosis Is More Than Just Accelerated Aging
+28062652|a|Processing speed is impaired in patients with psychosis, and deteriorates as a function of normal aging. These observations, in combination with other lines of research, suggest that psychosis may be a syndrome of accelerated aging. But do patients with psychosis perform poorly on tasks of processing speed for the same reasons as older adults? Fifty-one patients with psychotic illnesses and 90 controls with similar mean IQ (aged 19-69 years, all African American) completed a computerized processing-speed task, reminiscent of the classic digit-symbol coding task. The data were analyzed using the drift-diffusion model (DDM), and Bayesian inference was used to determine whether psychosis and aging had similar or divergent effects on the DDM parameters. Psychosis and aging were both associated with poor performance, but had divergent effects on the DDM parameters. Patients had lower information-processing efficiency (" drift rate ") and longer nondecision time than controls, and psychosis per se did not influence response caution. By contrast, the primary effect of aging was to increase response caution, and had inconsistent effects on drift rate and nondecision time across patients and controls. The results reveal that psychosis and aging influenced performance in different ways, suggesting that the processing-speed impairment in psychosis is more than just accelerated aging. This study also demonstrates the potential utility of computational models and Bayesian inference for finely mapping the contributions of cognitive functions on simple neurocognitive tests.
+28062652	4	20	Processing-Speed	T038	UMLS:C0582591
+28062652	35	44	Psychosis	T038	UMLS:C0033975
+28062652	75	80	Aging	T038	UMLS:C0001811
+28062652	81	97	Processing speed	T038	UMLS:C0582591
+28062652	127	136	psychosis	T038	UMLS:C0033975
+28062652	142	154	deteriorates	T033	UMLS:C1457868
+28062652	179	184	aging	T038	UMLS:C0001811
+28062652	192	204	observations	T062	UMLS:C0302523
+28062652	241	249	research	T062	UMLS:C0035168
+28062652	264	273	psychosis	T038	UMLS:C0033975
+28062652	283	291	syndrome	T038	UMLS:C0039082
+28062652	307	312	aging	T038	UMLS:C0001811
+28062652	335	344	psychosis	T038	UMLS:C0033975
+28062652	372	388	processing speed	T038	UMLS:C0582591
+28062652	413	425	older adults	T098	UMLS:C0001792
+28062652	451	470	psychotic illnesses	T038	UMLS:C0033975
+28062652	531	547	African American	T098	UMLS:C0085756
+28062652	664	672	analyzed	T062	UMLS:C0936012
+28062652	683	704	drift-diffusion model	T170	UMLS:C3161035
+28062652	706	709	DDM	T170	UMLS:C3161035
+28062652	716	734	Bayesian inference	T170	UMLS:C0282574
+28062652	765	774	psychosis	T038	UMLS:C0033975
+28062652	779	784	aging	T038	UMLS:C0001811
+28062652	800	809	divergent	T082	UMLS:C0443204
+28062652	825	828	DDM	T170	UMLS:C3161035
+28062652	829	839	parameters	T033	UMLS:C0449381
+28062652	841	850	Psychosis	T038	UMLS:C0033975
+28062652	855	860	aging	T038	UMLS:C0001811
+28062652	913	922	divergent	T082	UMLS:C0443204
+28062652	938	941	DDM	T170	UMLS:C3161035
+28062652	942	952	parameters	T033	UMLS:C0449381
+28062652	1071	1080	psychosis	T038	UMLS:C0033975
+28062652	1159	1164	aging	T038	UMLS:C0001811
+28062652	1317	1326	psychosis	T038	UMLS:C0033975
+28062652	1331	1336	aging	T038	UMLS:C0001811
+28062652	1399	1415	processing-speed	T038	UMLS:C0582591
+28062652	1430	1439	psychosis	T038	UMLS:C0033975
+28062652	1470	1475	aging	T038	UMLS:C0001811
+28062652	1482	1487	study	T062	UMLS:C2603343
+28062652	1531	1551	computational models	T170	UMLS:C3161035
+28062652	1556	1574	Bayesian inference	T170	UMLS:C0282574
+28062652	1615	1634	cognitive functions	T038	UMLS:C0392335

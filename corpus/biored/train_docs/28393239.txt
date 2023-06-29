@@ -1,0 +1,50 @@
+28393239|t|Psoriasin promotes invasion, aggregation and survival of pancreatic cancer cells; association with disease progression.
+28393239|a|Psoriasin (S100A7) is an 11-kDa small calcium binding protein initially isolated from psoriatic skin lesions. It belongs to the S100 family of proteins which play an important role in a range of cell functions including proliferation, differentiation, migration and apoptosis. Aberrant Psoriasin expression has been implicated in a range of cancers and is often associated with poor prognosis. This study examined the role of Psoriasin on pancreatic cancer cell functions and the implication in progression of the disease. Expression of Psoriasin was determined in a cohort of pancreatic tissues comprised of 126 pancreatic tumours and 114 adjacent non-tumour pancreatic tissues. Knockdown and overexpression of Psoriasin in pancreatic cancer cells was performed using specifically constructed plasmids, which either had anti-Psoriasin ribozyme transgene or the full length human Psoriasin coding sequence. Psoriasin knockdown and overexpression was verified using conventional RT-PCR and qPCR. The effect of manipulating Psoriasin expression on pancreatic cancer cell functions was assessed using several in vitro cell function assays. Local invasive pancreatic cancers extended beyond the pancreas expressed higher levels of Psoriasin transcripts compared with the cancers confined to the pancreas. Primary tumours with distant metastases exhibited a reduced expression of Psoriasin. Psoriasin overexpression cell lines exhibited significantly increased growth and migration compared to control cells. In addition, Psoriasin overexpression resulted in increased pancreatic cancer cell invasion which was associated with upregulation of matrix metalloproteinase-2 (MMP-2) and MMP-9. Overexpression of Psoriasin also promoted aggregation and survival of pancreatic cancer cells when they lost anchorage. Taken together, higher expression of Psoriasin was associated with local invasion in pancreatic cancers. Psoriasin expression is associated with pancreatic cancer cell growth, migration, cell-matrix adhesion, and invasion via regulation of MMPs. As such, the proposed implications of Psoriasin in invasion, disease progression and as a potential therapeutic target warrant further investigation.
+28393239	0	9	Psoriasin	GeneOrGeneProduct	6278
+28393239	57	74	pancreatic cancer	DiseaseOrPhenotypicFeature	D010190
+28393239	120	129	Psoriasin	GeneOrGeneProduct	6278
+28393239	131	137	S100A7	GeneOrGeneProduct	6278
+28393239	158	181	calcium binding protein	GeneOrGeneProduct	6278
+28393239	206	228	psoriatic skin lesions	DiseaseOrPhenotypicFeature	D011565
+28393239	248	252	S100	GeneOrGeneProduct	6278
+28393239	406	415	Psoriasin	GeneOrGeneProduct	6278
+28393239	461	468	cancers	DiseaseOrPhenotypicFeature	D009369
+28393239	546	555	Psoriasin	GeneOrGeneProduct	6278
+28393239	559	576	pancreatic cancer	DiseaseOrPhenotypicFeature	D010190
+28393239	657	666	Psoriasin	GeneOrGeneProduct	6278
+28393239	733	751	pancreatic tumours	DiseaseOrPhenotypicFeature	D010190
+28393239	832	841	Psoriasin	GeneOrGeneProduct	6278
+28393239	845	862	pancreatic cancer	DiseaseOrPhenotypicFeature	D010190
+28393239	946	955	Psoriasin	GeneOrGeneProduct	6278
+28393239	994	999	human	OrganismTaxon	9606
+28393239	1000	1009	Psoriasin	GeneOrGeneProduct	6278
+28393239	1027	1036	Psoriasin	GeneOrGeneProduct	6278
+28393239	1142	1151	Psoriasin	GeneOrGeneProduct	6278
+28393239	1166	1183	pancreatic cancer	DiseaseOrPhenotypicFeature	D010190
+28393239	1272	1290	pancreatic cancers	DiseaseOrPhenotypicFeature	D010190
+28393239	1347	1356	Psoriasin	GeneOrGeneProduct	6278
+28393239	1387	1394	cancers	DiseaseOrPhenotypicFeature	D009369
+28393239	1421	1436	Primary tumours	DiseaseOrPhenotypicFeature	D009369
+28393239	1450	1460	metastases	DiseaseOrPhenotypicFeature	D009362
+28393239	1495	1504	Psoriasin	GeneOrGeneProduct	6278
+28393239	1506	1515	Psoriasin	GeneOrGeneProduct	6278
+28393239	1637	1646	Psoriasin	GeneOrGeneProduct	6278
+28393239	1684	1701	pancreatic cancer	DiseaseOrPhenotypicFeature	D010190
+28393239	1758	1784	matrix metalloproteinase-2	GeneOrGeneProduct	4313
+28393239	1786	1791	MMP-2	GeneOrGeneProduct	4313
+28393239	1797	1802	MMP-9	GeneOrGeneProduct	4318
+28393239	1822	1831	Psoriasin	GeneOrGeneProduct	6278
+28393239	1874	1891	pancreatic cancer	DiseaseOrPhenotypicFeature	D010190
+28393239	1961	1970	Psoriasin	GeneOrGeneProduct	6278
+28393239	2009	2027	pancreatic cancers	DiseaseOrPhenotypicFeature	D010190
+28393239	2029	2038	Psoriasin	GeneOrGeneProduct	6278
+28393239	2069	2086	pancreatic cancer	DiseaseOrPhenotypicFeature	D010190
+28393239	2164	2168	MMPs	GeneOrGeneProduct	4313,4318
+28393239	2208	2217	Psoriasin	GeneOrGeneProduct	6278
+28393239	Positive_Correlation	D010190	4318	Novel
+28393239	Positive_Correlation	D010190	4313	Novel
+28393239	Association	6278	D009369	No
+28393239	Positive_Correlation	6278	4318	Novel
+28393239	Positive_Correlation	6278	4313	Novel
+28393239	Association	6278	D011565	No
+28393239	Positive_Correlation	6278	D010190	Novel

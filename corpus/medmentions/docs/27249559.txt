@@ -1,0 +1,89 @@
+27249559|t|Study of the Microfocus X-Ray Tube Based on a Point-Like Target Used for Micro-Computed Tomography
+27249559|a|For a micro-Computed Tomography (Micro-CT) system, the microfocus X-ray tube is an essential component because the spatial resolution of CT images, in theory, is mainly determined by the size and stability of the X-ray focal spot of the microfocus X-ray tube. However, many factors, including voltage fluctuations, mechanical vibrations, and temperature changes, can cause the size and the stability of the X-ray focal spot to degrade. A new microfocus X-ray tube based on a point-like micro-target in which the X-ray target is irradiated with an unfocused electron beam was investigated. EGS4 Monte Carlo simulation code was employed for the calculation of the X-ray intensity produced from the point-like micro-target and the substrate. The effects of several arrangements of the target material, target and beam size were studied. The simulation results demonstrated that if the intensity of X-rays generated at the point-like target is greater than half of the X-ray intensity produced on the substrate, the X-ray focal spot is determined in part by the point-like target rather than by the electron beam in the conventional X-ray tube. In theory, since it is able to reduce those unfavorable effects such as the electron beam trajectory swinging and the beam size changing for the microfocus X-ray tube, it could alleviate CT image artifacts caused by the X-ray focal spot shift and size change.
+27249559	0	5	Study	T059	C0947630
+27249559	13	23	Microfocus	T082	C0205234
+27249559	24	34	X-Ray Tube	T074	C0184486
+27249559	46	63	Point-Like Target	T169	C1521840
+27249559	73	98	Micro-Computed Tomography	T060	C2350281
+27249559	105	148	micro-Computed Tomography (Micro-CT) system	T060	C2350281
+27249559	154	164	microfocus	T082	C0205234
+27249559	165	175	X-ray tube	T074	C0184486
+27249559	182	191	essential	T080	C0205224
+27249559	214	221	spatial	T082	C1254362
+27249559	222	232	resolution	T081	C1706463
+27249559	236	238	CT	T060	C0040405
+27249559	239	245	images	T170	C1704254
+27249559	250	256	theory	T078	C0871935
+27249559	286	290	size	T082	C0456389
+27249559	295	304	stability	T080	C0205360
+27249559	312	317	X-ray	T060	C0043299
+27249559	318	328	focal spot	T082	C0205146
+27249559	336	346	microfocus	T082	C0205234
+27249559	347	357	X-ray tube	T074	C0184486
+27249559	373	380	factors	T169	C1521761
+27249559	392	399	voltage	T081	C0598352
+27249559	400	412	fluctuations	T079	C0231241
+27249559	414	424	mechanical	T070	C0376706
+27249559	425	435	vibrations	T070	C0459800
+27249559	441	460	temperature changes	T080	C0450031
+27249559	466	471	cause	T078	C0085978
+27249559	476	480	size	T082	C0456389
+27249559	489	498	stability	T080	C0205360
+27249559	506	511	X-ray	T060	C0043299
+27249559	512	522	focal spot	T082	C0205146
+27249559	526	533	degrade	T067	C1254366
+27249559	541	551	microfocus	T082	C0205234
+27249559	552	562	X-ray tube	T074	C0184486
+27249559	574	597	point-like micro-target	T169	C1521840
+27249559	611	616	X-ray	T060	C0043299
+27249559	617	623	target	T169	C1521840
+27249559	627	637	irradiated	T067	C1254366
+27249559	656	669	electron beam	T073	C0013840
+27249559	674	686	investigated	T169	C1292732
+27249559	688	720	EGS4 Monte Carlo simulation code	T081	C0026507
+27249559	742	753	calculation	T052	C1441506
+27249559	761	766	X-ray	T060	C0043299
+27249559	767	776	intensity	T070	C0596836
+27249559	795	818	point-like micro-target	T169	C1521840
+27249559	827	836	substrate	T167	C3891814
+27249559	842	852	effects of	T080	C1704420
+27249559	881	887	target	T169	C1521840
+27249559	888	896	material	T167	C0520510
+27249559	898	904	target	T169	C1521840
+27249559	909	913	beam	T073	C0013840
+27249559	914	918	size	T082	C0456389
+27249559	924	931	studied	T059	C0947630
+27249559	937	947	simulation	T062	C0679083
+27249559	948	955	results	T169	C1274040
+27249559	981	990	intensity	T070	C0596836
+27249559	994	1000	X-rays	T060	C0043299
+27249559	1001	1010	generated	T080	C2346631
+27249559	1018	1035	point-like target	T169	C1521840
+27249559	1039	1051	greater than	T081	C0439093
+27249559	1064	1069	X-ray	T060	C0043299
+27249559	1070	1079	intensity	T070	C0596836
+27249559	1096	1105	substrate	T167	C3891814
+27249559	1111	1116	X-ray	T060	C0043299
+27249559	1117	1127	focal spot	T082	C0205146
+27249559	1157	1174	point-like target	T169	C1521840
+27249559	1194	1207	electron beam	T073	C0013840
+27249559	1215	1227	conventional	T080	C0439858
+27249559	1228	1238	X-ray tube	T074	C0184486
+27249559	1243	1249	theory	T078	C0871935
+27249559	1271	1277	reduce	T080	C0392756
+27249559	1296	1303	effects	T080	C1280500
+27249559	1316	1349	electron beam trajectory swinging	T033	C0243095
+27249559	1358	1362	beam	T073	C0013840
+27249559	1363	1367	size	T082	C0456389
+27249559	1368	1376	changing	T169	C0392747
+27249559	1385	1395	microfocus	T082	C0205234
+27249559	1396	1406	X-ray tube	T074	C0184486
+27249559	1417	1426	alleviate	T080	C0392756
+27249559	1427	1429	CT	T060	C0040405
+27249559	1430	1435	image	T170	C1704254
+27249559	1436	1445	artifacts	T068	C0085089
+27249559	1446	1452	caused	T078	C0085978
+27249559	1460	1465	X-ray	T060	C0043299
+27249559	1466	1476	focal spot	T082	C0205146
+27249559	1477	1482	shift	T033	C3845720
+27249559	1487	1498	size change	T081	C0541591

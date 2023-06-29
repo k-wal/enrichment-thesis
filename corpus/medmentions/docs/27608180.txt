@@ -1,0 +1,55 @@
+27608180|t|A Bayesian Network-Based Approach to Selection of Intervention Points in the Mitogen-Activated Protein Kinase Plant Defense Response Pathway
+27608180|a|An important problem in computational biology is the identification of potential points of intervention that can lead to modified network behavior in a genetic regulatory network. We consider the problem of deducing the effect of individual genes on the behavior of the network in a statistical framework. In this article, we make use of biological information from the literature to develop a Bayesian network and introduce a method to estimate parameters of this network using data that are relevant to the biological phenomena under study. Then, we give a novel approach to select significant nodes in the network using a decision-theoretic approach. The proposed method is applied to the analysis of the mitogen-activated protein kinase pathway in the plant defense response to pathogens. Results from applying the method to experimental data show that the proposed approach is effective in selecting genes that play crucial roles in the biological phenomenon being studied.
+27608180	2	33	Bayesian Network-Based Approach	T081	C0242198
+27608180	37	46	Selection	T052	C1707391
+27608180	50	62	Intervention	T052	C3266814
+27608180	77	109	Mitogen-Activated Protein Kinase	T116,T126	C0752312
+27608180	110	115	Plant	T002	C0032098
+27608180	116	132	Defense Response	T040	C1154988
+27608180	133	140	Pathway	T044	C0037080
+27608180	154	161	problem	T033	C0033213
+27608180	165	186	computational biology	T091	C0376528
+27608180	194	208	identification	T080	C0205396
+27608180	232	244	intervention	T052	C3266814
+27608180	262	270	modified	T169	C0392747
+27608180	271	278	network	T044	C1720950
+27608180	293	319	genetic regulatory network	T044	C1720950
+27608180	337	344	problem	T033	C0033213
+27608180	361	367	effect	T080	C1280500
+27608180	382	387	genes	T028	C0017337
+27608180	411	418	network	T044	C1720950
+27608180	424	445	statistical framework	T062	C0242481
+27608180	455	462	article	T170	C0282420
+27608180	479	489	biological	T080	C0205460
+27608180	490	501	information	T078	C1533716
+27608180	511	521	literature	T170	C0023866
+27608180	535	551	Bayesian network	T081	C0242198
+27608180	556	565	introduce	T169	C1292748
+27608180	568	574	method	T170	C0025663
+27608180	587	597	parameters	T033	C0449381
+27608180	606	613	network	T044	C1720950
+27608180	620	624	data	T078	C1511726
+27608180	634	642	relevant	T080	C2347946
+27608180	650	670	biological phenomena	T070	C0005520
+27608180	677	682	study	T062	C2603343
+27608180	700	705	novel	T080	C0205314
+27608180	706	714	approach	T078	C1254370
+27608180	725	736	significant	T078	C0750502
+27608180	750	757	network	T044	C1720950
+27608180	766	793	decision-theoretic approach	T170	C0011114
+27608180	808	814	method	T170	C0025663
+27608180	833	841	analysis	T062	C0936012
+27608180	849	889	mitogen-activated protein kinase pathway	T043	C1518102
+27608180	897	902	plant	T002	C0032098
+27608180	903	919	defense response	T040	C1154988
+27608180	923	932	pathogens	T001	C0450254
+27608180	934	941	Results	T169	C1274040
+27608180	960	966	method	T170	C0025663
+27608180	970	982	experimental	T080	C1517586
+27608180	983	987	data	T078	C1511726
+27608180	1002	1019	proposed approach	T078	C1254370
+27608180	1023	1032	effective	T080	C1704419
+27608180	1036	1045	selecting	T052	C1707391
+27608180	1046	1051	genes	T028	C0017337
+27608180	1070	1075	roles	T077	C1705810
+27608180	1083	1104	biological phenomenon	T070	C0005520

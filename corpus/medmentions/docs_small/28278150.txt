@@ -1,0 +1,32 @@
+28278150|t|Integrating molecular QTL data into genome-wide genetic association analysis: Probabilistic assessment of enrichment and colocalization
+28278150|a|We propose a novel statistical framework for integrating the result from molecular quantitative trait loci (QTL) mapping into genome-wide genetic association analysis of complex traits, with the primary objectives of quantitatively assessing the enrichment of the molecular QTLs in complex trait - associated genetic variants and the colocalizations of the two types of association signals. We introduce a natural Bayesian hierarchical model that treats the latent association status of molecular QTLs as SNP - level annotations for candidate SNPs of complex traits. We detail a computational procedure to seamlessly perform enrichment, fine-mapping and colocalization analyses, which is a distinct feature compared to the existing colocalization analysis procedures in the literature. The proposed approach is computationally efficient and requires only summary - level statistics. We evaluate and demonstrate the proposed computational approach through extensive simulation studies and analyses of blood lipid data and the whole blood eQTL data from the GTEx project. In addition, a useful utility from our proposed method enables the computation of expected colocalization signals using simple characteristics of the association data. Using this utility, we further illustrate the importance of enrichment analysis on the ability to discover colocalized signals and the potential limitations of currently available molecular QTL data. The software pipeline that implements the proposed computation procedures, enloc, is freely available at https://github.com/xqwen/integrative.
+28278150	22	25	QTL	T017	UMLS:C0597336
+28278150	36	76	genome-wide genetic association analysis	T062	UMLS:C2350277
+28278150	155	176	statistical framework	T170	UMLS:C0026348
+28278150	219	242	quantitative trait loci	T017	UMLS:C0597336
+28278150	244	247	QTL	T017	UMLS:C0597336
+28278150	262	302	genome-wide genetic association analysis	T062	UMLS:C2350277
+28278150	410	414	QTLs	T017	UMLS:C0597336
+28278150	445	461	genetic variants	T017	UMLS:C0678941
+28278150	633	637	QTLs	T017	UMLS:C0597336
+28278150	641	644	SNP	T082	UMLS:C0752046
+28278150	679	683	SNPs	T082	UMLS:C0752046
+28278150	805	813	analyses	T062	UMLS:C0936012
+28278150	883	891	analysis	T062	UMLS:C0936012
+28278150	910	920	literature	T170	UMLS:C0023866
+28278150	935	943	approach	T082	UMLS:C0449445
+28278150	991	998	summary	T170	UMLS:C1706244
+28278150	1074	1082	approach	T082	UMLS:C0449445
+28278150	1112	1119	studies	T062	UMLS:C2603343
+28278150	1124	1132	analyses	T062	UMLS:C0936012
+28278150	1161	1172	whole blood	T031	UMLS:C0370231
+28278150	1173	1177	eQTL	T017	UMLS:C0597336
+28278150	1192	1204	GTEx project	T062	UMLS:C4289040
+28278150	1228	1235	utility	T170	UMLS:C0025663
+28278150	1254	1260	method	T170	UMLS:C0025663
+28278150	1385	1392	utility	T170	UMLS:C0025663
+28278150	1445	1453	analysis	T062	UMLS:C0936012
+28278150	1564	1567	QTL	T017	UMLS:C0597336
+28278150	1578	1586	software	T170	UMLS:C0037585
+28278150	1649	1654	enloc	T170	UMLS:C0242356
+28278150	1679	1715	https://github.com/xqwen/integrative	T170	UMLS:C2349146

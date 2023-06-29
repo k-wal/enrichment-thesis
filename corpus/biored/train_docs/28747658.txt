@@ -1,0 +1,68 @@
+28747658|t|A single amino acid substitution confers B-cell clonogenic activity to the HIV-1 matrix protein p17.
+28747658|a|Recent data highlight the presence, in HIV-1-seropositive patients with lymphoma, of p17 variants (vp17s) endowed with B-cell clonogenicity, suggesting a role of vp17s in lymphomagenesis. We investigated the mechanisms responsible for the functional disparity on B cells between a wild-type p17 (refp17) and a vp17 named S75X. Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN/PI3K/Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha). Moreover, the only R to G mutation at position 76 was found to strongly impact on protein folding and oligomerization by altering the hydrogen bond network. This generates a conformational shift in the p17 R76G mutant which enables a functional epitope(s), masked in refp17, to elicit B-cell growth-promoting signals after its interaction with a still unknown receptor(s). Our findings offer new opportunities to understand the molecular mechanisms accounting for the B-cell growth-promoting activity of vp17s.
+28747658	75	80	HIV-1	OrganismTaxon	11676
+28747658	96	99	p17	GeneOrGeneProduct	155348
+28747658	140	158	HIV-1-seropositive	DiseaseOrPhenotypicFeature	D006679
+28747658	159	167	patients	OrganismTaxon	9606
+28747658	173	181	lymphoma	DiseaseOrPhenotypicFeature	D008223
+28747658	186	189	p17	GeneOrGeneProduct	155348
+28747658	272	287	lymphomagenesis	DiseaseOrPhenotypicFeature	D008223
+28747658	392	395	p17	GeneOrGeneProduct	155348
+28747658	422	426	S75X	SequenceVariant	p|SUB|S|75|X
+28747658	456	507	Arginine (R) to Glycine (G) mutation at position 76	SequenceVariant	p|SUB|R|76|G
+28747658	532	535	p17	GeneOrGeneProduct	155348
+28747658	535	539	R76G	SequenceVariant	p|SUB|R|76|G
+28747658	552	556	S75X	SequenceVariant	p|SUB|S|75|X
+28747658	688	692	PTEN	GeneOrGeneProduct	5728
+28747658	693	697	PI3K	GeneOrGeneProduct	5291
+28747658	698	701	Akt	GeneOrGeneProduct	207
+28747658	775	781	CASP-9	GeneOrGeneProduct	842
+28747658	783	789	CASP-7	GeneOrGeneProduct	840
+28747658	791	797	DFF-45	GeneOrGeneProduct	1676
+28747658	799	802	NPM	GeneOrGeneProduct	4869
+28747658	804	809	YWHAZ	GeneOrGeneProduct	7534
+28747658	811	814	Src	GeneOrGeneProduct	6714
+28747658	816	820	PAX2	GeneOrGeneProduct	5076
+28747658	822	827	MAPK8	GeneOrGeneProduct	5599
+28747658	855	861	cancer	DiseaseOrPhenotypicFeature	D009369
+28747658	875	879	CDK1	GeneOrGeneProduct	983
+28747658	881	885	CDK2	GeneOrGeneProduct	1017
+28747658	887	891	CDK8	GeneOrGeneProduct	1024
+28747658	893	898	CHEK1	GeneOrGeneProduct	1111
+28747658	900	905	CHEK2	GeneOrGeneProduct	11200
+28747658	907	917	GSK-3 beta	GeneOrGeneProduct	2932
+28747658	919	922	NPM	GeneOrGeneProduct	4869
+28747658	924	928	PAK1	GeneOrGeneProduct	5058
+28747658	930	940	PP2C-alpha	GeneOrGeneProduct	5494
+28747658	962	992	R to G mutation at position 76	SequenceVariant	p|SUB|R|76|G
+28747658	1145	1148	p17	GeneOrGeneProduct	155348
+28747658	1149	1153	R76G	SequenceVariant	p|SUB|R|76|G
+28747658	Association	p|SUB|S|75|X	D009369	No
+28747658	Association	p|SUB|R|76|G	D009369	Novel
+28747658	Association	D009369	5494	No
+28747658	Association	D009369	5058	No
+28747658	Association	D009369	2932	No
+28747658	Association	D009369	11200	No
+28747658	Association	D009369	1111	No
+28747658	Association	D009369	1024	No
+28747658	Association	D009369	1017	No
+28747658	Association	D009369	983	No
+28747658	Association	D009369	4869	No
+28747658	Association	155348	D008223	Novel
+28747658	Association	155348	5494	Novel
+28747658	Association	155348	5058	Novel
+28747658	Association	155348	2932	Novel
+28747658	Association	155348	11200	Novel
+28747658	Association	155348	1111	Novel
+28747658	Association	155348	1024	Novel
+28747658	Association	155348	1017	Novel
+28747658	Association	155348	983	Novel
+28747658	Association	155348	D009369	No
+28747658	Association	155348	5599	Novel
+28747658	Association	155348	5076	Novel
+28747658	Association	155348	6714	Novel
+28747658	Association	155348	7534	Novel
+28747658	Association	155348	4869	Novel
+28747658	Association	155348	1676	Novel
+28747658	Association	155348	840	Novel
+28747658	Association	155348	842	Novel

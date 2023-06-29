@@ -1,0 +1,33 @@
+15033202|t|Nijmegen breakage syndrome in 13% of age-matched Czech children with primary microcephaly.
+15033202|a|The Nijmegen breakage syndrome is a rare autosomal recessive chromosomal instability disorder characterized by early growth retardation, congenital microcephaly, immunodeficiency, borderline mental development, and a high tendency to lymphoreticular malignancies. Most Nijmegen breakage syndrome patients are of Slavonic origin, and all of them known so far carry a founder homozygous 5 nucleotide deletion in the NBS1 gene. Microcephaly was present in 100% of Nijmegen breakage syndrome patients in a recent large international cooperative study. The frequency of Nijmegen breakage syndrome among children with primary microcephaly was not known. Early correct diagnosis of the syndrome is crucial for appropriate preventive care and therapy. We tested 67 Czech patients of different ages with simple microcephaly for the presence of the most common mutation in the NBS1 gene. Three new Nijmegen breakage syndrome cases were detected in this cohort, representing 4.5% of the cohort. All these newly diagnosed Nijmegen breakage syndrome patients were younger than 10 months at the time of diagnosis. They were all born within a 2.5-year period. Twenty-three of the 67 children in the cohort were born within this 2.5-year period, representing a 13% incidence of Nijmegen breakage syndrome. Frequency of Nijmegen breakage syndrome heterozygotes among infants in the Czech Republic is 1: 130-158 and the birth rate is 90,000 per year, therefore in the time span of 2.5 years, three new Nijmegen breakage syndrome homozygotes are expected to be born. Therefore we assume that by DNA testing of Czech primary microcephalic children it is possible to detect all Nijmegen breakage syndrome patients to be expected. The age at correct diagnosis was lowered from 7.1 years at the time before DNA testing, to well under 1 year of age. All new Nijmegen breakage syndrome patients could receive appropriate preventive care, which should significantly improve their life expectancy and prognosis.
+15033202	0	26	Nijmegen breakage syndrome	DiseaseOrPhenotypicFeature	D049932
+15033202	69	89	primary microcephaly	DiseaseOrPhenotypicFeature	D008831
+15033202	95	121	Nijmegen breakage syndrome	DiseaseOrPhenotypicFeature	D049932
+15033202	132	184	autosomal recessive chromosomal instability disorder	DiseaseOrPhenotypicFeature	D043171
+15033202	208	226	growth retardation	DiseaseOrPhenotypicFeature	D006130
+15033202	228	251	congenital microcephaly	DiseaseOrPhenotypicFeature	D008831
+15033202	253	269	immunodeficiency	DiseaseOrPhenotypicFeature	D007153
+15033202	325	353	lymphoreticular malignancies	DiseaseOrPhenotypicFeature	D049932
+15033202	360	386	Nijmegen breakage syndrome	DiseaseOrPhenotypicFeature	D049932
+15033202	387	395	patients	OrganismTaxon	9606
+15033202	476	497	5 nucleotide deletion	SequenceVariant	c|DEL||5
+15033202	505	509	NBS1	GeneOrGeneProduct	4683
+15033202	516	528	Microcephaly	DiseaseOrPhenotypicFeature	D008831
+15033202	552	578	Nijmegen breakage syndrome	DiseaseOrPhenotypicFeature	D049932
+15033202	579	587	patients	OrganismTaxon	9606
+15033202	656	682	Nijmegen breakage syndrome	DiseaseOrPhenotypicFeature	D049932
+15033202	703	723	primary microcephaly	DiseaseOrPhenotypicFeature	D008831
+15033202	854	862	patients	OrganismTaxon	9606
+15033202	958	962	NBS1	GeneOrGeneProduct	4683
+15033202	979	1005	Nijmegen breakage syndrome	DiseaseOrPhenotypicFeature	D049932
+15033202	1101	1127	Nijmegen breakage syndrome	DiseaseOrPhenotypicFeature	D049932
+15033202	1128	1136	patients	OrganismTaxon	9606
+15033202	1353	1379	Nijmegen breakage syndrome	DiseaseOrPhenotypicFeature	D049932
+15033202	1394	1420	Nijmegen breakage syndrome	DiseaseOrPhenotypicFeature	D049932
+15033202	1575	1601	Nijmegen breakage syndrome	DiseaseOrPhenotypicFeature	D049932
+15033202	1748	1774	Nijmegen breakage syndrome	DiseaseOrPhenotypicFeature	D049932
+15033202	1775	1783	patients	OrganismTaxon	9606
+15033202	1925	1951	Nijmegen breakage syndrome	DiseaseOrPhenotypicFeature	D049932
+15033202	1952	1960	patients	OrganismTaxon	9606
+15033202	Association	D049932	4683	No
+15033202	Positive_Correlation	D049932	c|DEL||5	No

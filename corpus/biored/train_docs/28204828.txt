@@ -1,0 +1,59 @@
+28204828|t|TIEG1 deficiency confers enhanced myocardial protection in the infarcted heart by mediating the Pten/Akt signalling pathway.
+28204828|a|The transforming growth factor (TGF)-b-inducible early gene-1 (TIEG1) plays a crucial role in modulating cell apoptosis and proliferation in a number of diseases, including pancreatic cancer, leukaemia and osteoporosis. However, the functional role of TIEG1 in the heart has not been fully defined. In this study, we first investigated the role of TIEG1 in ischaemic heart disease. For in vitro experiments, cardiomyocytes were isolated from both TIEG1 knockout (KO) and wile-type (WT) mice, and the apoptotic ratios were evaluated after a 48-h ischaemic insult. A cell proliferation assay was performed after 7 days of incubation under normoxic conditions. In addition, the angiogenic capacity of endothelial cells was determined by tube formation assay. For in vivo experiments, a model of myocardial infarction (MI) was established using both TIEG1 KO and WT mice. Echocardiography was performed at 3 and 28 days post-MI, whereas the haemodynamics test was performed 28 days post-MI. Histological analyses of apoptosis, proliferation, angiogenesis and infarct zone assessments were performed using terminal deoxynucleotidyltransferase-mediated dUTP nick-end labelling (TUNEL) staining, BrdU immunostaining, a-smooth muscle actin (a-SMA)/CD31 immunostaining and Masson's trichrome staining, respectively. Changes in the expression of related proteins caused by TIEG1 deficiency were confirmed using both reverse transcription-quantitative polymerase chain reaction (RT-qPCR) and western blot analysis. Our results demonstrated that the absence of TIEG1 prevented cardiomyocytes from undergoing apoptosis and promoted higher proliferation; it stimulated the proliferation of endothelial cells in vitro and in vivo. Improved cardiac function and less scar formation were observed in TIEG1 KO mice, and we also observed the altered expression of phosphatase and tensin homolog (Pten), Akt and Bcl-2/Bax, as well as vascular endothelial growth factor (VEGF). On the whole, our findings indicate that the absence of TIEG1 plays a cardioprotective role in ischaemic heart disease by promoting changes in Pten/Akt signalling.
+28204828	0	5	TIEG1	GeneOrGeneProduct	21847
+28204828	63	78	infarcted heart	DiseaseOrPhenotypicFeature	D009203
+28204828	96	100	Pten	GeneOrGeneProduct	19211
+28204828	101	104	Akt	GeneOrGeneProduct	11651
+28204828	129	186	transforming growth factor (TGF)-b-inducible early gene-1	GeneOrGeneProduct	21847
+28204828	188	193	TIEG1	GeneOrGeneProduct	21847
+28204828	298	315	pancreatic cancer	DiseaseOrPhenotypicFeature	D010190
+28204828	317	326	leukaemia	DiseaseOrPhenotypicFeature	D007938
+28204828	331	343	osteoporosis	DiseaseOrPhenotypicFeature	D010024
+28204828	377	382	TIEG1	GeneOrGeneProduct	21847
+28204828	473	478	TIEG1	GeneOrGeneProduct	21847
+28204828	482	505	ischaemic heart disease	DiseaseOrPhenotypicFeature	D017202
+28204828	572	577	TIEG1	GeneOrGeneProduct	21847
+28204828	611	615	mice	OrganismTaxon	10090
+28204828	917	938	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+28204828	940	942	MI	DiseaseOrPhenotypicFeature	D009203
+28204828	971	976	TIEG1	GeneOrGeneProduct	21847
+28204828	987	991	mice	OrganismTaxon	10090
+28204828	1046	1048	MI	DiseaseOrPhenotypicFeature	D009203
+28204828	1108	1110	MI	DiseaseOrPhenotypicFeature	D009203
+28204828	1180	1187	infarct	DiseaseOrPhenotypicFeature	D007238
+28204828	1226	1262	terminal deoxynucleotidyltransferase	GeneOrGeneProduct	1791
+28204828	1272	1276	dUTP	ChemicalEntity	C027078
+28204828	1335	1356	a-smooth muscle actin	GeneOrGeneProduct	11475
+28204828	1358	1363	a-SMA	GeneOrGeneProduct	11475
+28204828	1365	1369	CD31	GeneOrGeneProduct	18613
+28204828	1488	1493	TIEG1	GeneOrGeneProduct	21847
+28204828	1674	1679	TIEG1	GeneOrGeneProduct	21847
+28204828	1908	1913	TIEG1	GeneOrGeneProduct	21847
+28204828	1917	1921	mice	OrganismTaxon	10090
+28204828	1970	2000	phosphatase and tensin homolog	GeneOrGeneProduct	19211
+28204828	2002	2006	Pten	GeneOrGeneProduct	19211
+28204828	2009	2012	Akt	GeneOrGeneProduct	11651
+28204828	2017	2022	Bcl-2	GeneOrGeneProduct	12043
+28204828	2023	2026	Bax	GeneOrGeneProduct	12028
+28204828	2039	2073	vascular endothelial growth factor	GeneOrGeneProduct	22339
+28204828	2075	2079	VEGF	GeneOrGeneProduct	22339
+28204828	2138	2143	TIEG1	GeneOrGeneProduct	21847
+28204828	2177	2200	ischaemic heart disease	DiseaseOrPhenotypicFeature	D017202
+28204828	2225	2229	Pten	GeneOrGeneProduct	19211
+28204828	2230	2233	Akt	GeneOrGeneProduct	11651
+28204828	Association	1791	C027078	No
+28204828	Association	11651	D017202	No
+28204828	Association	19211	D017202	No
+28204828	Association	19211	11651	No
+28204828	Association	D009203	11651	No
+28204828	Association	D009203	19211	No
+28204828	Association	21847	D010190	No
+28204828	Association	21847	D007938	No
+28204828	Association	21847	D010024	No
+28204828	Association	21847	D017202	Novel
+28204828	Association	21847	22339	Novel
+28204828	Association	21847	12028	Novel
+28204828	Association	21847	12043	Novel
+28204828	Association	21847	11651	Novel
+28204828	Association	21847	19211	Novel
+28204828	Association	21847	D009203	Novel

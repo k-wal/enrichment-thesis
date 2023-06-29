@@ -1,0 +1,94 @@
+27994448|t|Clinical and radiological outcome following pneumothorax after endoscopic lung volume reduction with valves
+27994448|a|Valve implantation has evolved as a therapy for patients with advanced emphysema. Although it is a minimally invasive treatmen t, it is associated with complications, the most common being pneumothorax. Pneumothorax occurs due to the rapid target lobe volume reduction and may be a predictor of clinical benefit despite this complication. The objective of this study was to conduct an exploratory data analysis of patients who developed a pneumothorax following endoscopic valve therapy for emphysema. This study performed a retrospective evaluation of pneumothorax management and the impact of pneumothorax on clinical outcomes in 70 patients following valve therapy in 381 consecutive patients. Pneumothorax rate following valve therapy was 18%. Pneumothorax management consisted of chest tube insertion, valve removal, and surgical intervention in 87% (61/70), 44% (31/70), and 19% (13/70) of the patients, respectively. Despite pneumothorax, patients experienced modest but significant improvements in lung function parameters (forced expiratory volume in 1 second: 55±148 mL, residual volume: -390±964 mL, total lung capacity: -348±876; all P<0.05). Persistent lobar atelectasis 3 months after recovering from pneumothorax, which was associated with relevant clinical improvement, was observed in only 21% (15/70) of the patients. Pneumothorax is a frequent severe complication following valve therapy that requires further intervention. Nevertheless, the pneumothorax does not impair the clinical status in the majority of patients. Patients with lobar atelectasis benefit after recovering from pneumothorax in terms of lung function parameters.
+27994448	0	8	Clinical	T033	C2985631
+27994448	13	25	radiological	T060	C0043299
+27994448	26	33	outcome	T169	C1274040
+27994448	44	56	pneumothorax	T047	C0032326
+27994448	63	95	endoscopic lung volume reduction	T061	C0375931
+27994448	101	107	valves	T074	C0042296
+27994448	108	113	Valve	T074	C0042296
+27994448	114	126	implantation	T061	C0021107
+27994448	144	151	therapy	T061	C0087111
+27994448	156	164	patients	T101	C0030705
+27994448	170	178	advanced	T080	C0205179
+27994448	179	188	emphysema	T047	C0034067
+27994448	207	234	minimally invasive treatmen	T061	C0282624
+27994448	244	259	associated with	T080	C0332281
+27994448	260	273	complications	T046	C0009566
+27994448	284	290	common	T081	C0205214
+27994448	297	309	pneumothorax	T047	C0032326
+27994448	311	323	Pneumothorax	T047	C0032326
+27994448	342	347	rapid	T080	C0456962
+27994448	348	354	target	T169	C1521840
+27994448	355	359	lobe	T023	C0225752
+27994448	360	376	volume reduction	T061	C0524689
+27994448	390	399	predictor	T078	C2698872
+27994448	403	411	clinical	T080	C0205210
+27994448	412	419	benefit	T081	C0814225
+27994448	433	445	complication	T046	C0009566
+27994448	451	460	objective	T170	C0018017
+27994448	469	474	study	T062	C2603343
+27994448	493	518	exploratory data analysis	T080	C3899452
+27994448	522	530	patients	T101	C0030705
+27994448	547	559	pneumothorax	T047	C0032326
+27994448	570	594	endoscopic valve therapy	T061	C0087111
+27994448	599	608	emphysema	T047	C0034067
+27994448	615	620	study	T062	C2603343
+27994448	621	630	performed	T169	C0884358
+27994448	633	657	retrospective evaluation	T062	C0035363
+27994448	661	673	pneumothorax	T047	C0032326
+27994448	674	684	management	T058	C0376636
+27994448	693	699	impact	T080	C4049986
+27994448	703	715	pneumothorax	T047	C0032326
+27994448	719	736	clinical outcomes	T033	C2985631
+27994448	743	751	patients	T101	C0030705
+27994448	762	775	valve therapy	T061	C0087111
+27994448	783	794	consecutive	T080	C1707491
+27994448	795	803	patients	T101	C0030705
+27994448	805	817	Pneumothorax	T047	C0032326
+27994448	818	822	rate	T081	C0026538
+27994448	833	846	valve therapy	T061	C0087111
+27994448	856	868	Pneumothorax	T047	C0032326
+27994448	869	879	management	T058	C0376636
+27994448	893	913	chest tube insertion	T061	C0189476
+27994448	915	920	valve	T074	C0042296
+27994448	921	928	removal	T061	C0015252
+27994448	934	955	surgical intervention	T033	C0549433
+27994448	1008	1016	patients	T101	C0030705
+27994448	1040	1052	pneumothorax	T047	C0032326
+27994448	1054	1062	patients	T101	C0030705
+27994448	1075	1081	modest	T080	C0205081
+27994448	1086	1097	significant	T078	C0750502
+27994448	1098	1110	improvements	T077	C2986411
+27994448	1114	1127	lung function	T042	C0231921
+27994448	1128	1138	parameters	T077	C0549193
+27994448	1140	1164	forced expiratory volume	T042	C0016529
+27994448	1189	1204	residual volume	T201	C0035190
+27994448	1219	1238	total lung capacity	T033	C0040509
+27994448	1263	1273	Persistent	T079	C0205322
+27994448	1274	1291	lobar atelectasis	T046	C0004144
+27994448	1307	1317	recovering	T077	C1709864
+27994448	1323	1335	pneumothorax	T047	C0032326
+27994448	1347	1362	associated with	T080	C0332281
+27994448	1363	1371	relevant	T080	C2347946
+27994448	1372	1380	clinical	T080	C0205210
+27994448	1381	1392	improvement	T077	C2986411
+27994448	1398	1406	observed	T169	C1441672
+27994448	1434	1442	patients	T101	C0030705
+27994448	1444	1456	Pneumothorax	T047	C0032326
+27994448	1462	1470	frequent	T079	C0332183
+27994448	1471	1477	severe	T080	C0205082
+27994448	1478	1490	complication	T046	C0009566
+27994448	1501	1514	valve therapy	T061	C0087111
+27994448	1537	1549	intervention	T061	C0184661
+27994448	1569	1581	pneumothorax	T047	C0032326
+27994448	1591	1597	impair	T169	C0221099
+27994448	1602	1617	clinical status	T080	C0449440
+27994448	1637	1645	patients	T101	C0030705
+27994448	1647	1655	Patients	T101	C0030705
+27994448	1661	1678	lobar atelectasis	T046	C0004144
+27994448	1679	1686	benefit	T081	C0814225
+27994448	1693	1703	recovering	T077	C1709864
+27994448	1709	1721	pneumothorax	T047	C0032326
+27994448	1734	1747	lung function	T042	C0231921
+27994448	1748	1758	parameters	T077	C0549193

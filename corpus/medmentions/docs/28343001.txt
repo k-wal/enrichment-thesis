@@ -1,0 +1,40 @@
+28343001|t|Comprehensive functional analysis of large lists of genes and proteins
+28343001|a|The interpretation of high dimensional datasets resulting from genomic and proteomic experiments in a timely and efficient manner is challenging. ClueGO software is a Cytoscape App that extracts representative functional biological information for large lists of genes or proteins. The functional enrichment analysis is based on the latest publicly available data from multiple annotation and ontology resources that can be automatically accessed through ClueGO. Predefined settings for the selection of the terms are provided to facilitate the analysis. Results are visualized as networks in which Gene Ontology (GO) terms and pathways are grouped based on their biological role. Many species are now supported by ClueGO and additional organisms are added on demand. ClueGO can be used together with the CluePedia App to enable the visualization of protein-protein interactions within or between pathways.
+28343001	0	13	Comprehensive	T080	C1880156
+28343001	14	33	functional analysis	T062	C0936012
+28343001	52	57	genes	T028	C0017337
+28343001	62	70	proteins	T116,T123	C0033684
+28343001	75	89	interpretation	T170	C0459471
+28343001	93	118	high dimensional datasets	T170	C0150098
+28343001	134	141	genomic	T062	C0681814
+28343001	146	167	proteomic experiments	T062	C0681814
+28343001	217	232	ClueGO software	T073,T170	C0037585
+28343001	238	251	Cytoscape App	T170	C3658280
+28343001	292	302	biological	T080	C0205460
+28343001	303	314	information	T078	C1533716
+28343001	334	339	genes	T028	C0017337
+28343001	343	351	proteins	T116,T123	C0033684
+28343001	357	387	functional enrichment analysis	T062	C0936012
+28343001	430	434	data	T078	C1511726
+28343001	449	459	annotation	T170	C1706814
+28343001	464	472	ontology	T090	C1518584
+28343001	473	482	resources	T078	C0035201
+28343001	495	508	automatically	T169	C0205554
+28343001	509	517	accessed	T082	C0444454
+28343001	526	532	ClueGO	T073,T170	C0037585
+28343001	534	553	Predefined settings	T170	C4281677
+28343001	562	571	selection	T052	C1707391
+28343001	579	584	terms	T078	C1705313
+28343001	616	624	analysis	T062	C0936012
+28343001	626	633	Results	T169	C1274040
+28343001	652	660	networks	T169	C1882071
+28343001	670	683	Gene Ontology	T170	C1138831
+28343001	685	687	GO	T170	C1138831
+28343001	699	707	pathways	T077	C1705987
+28343001	757	764	species	T185	C1705920
+28343001	786	792	ClueGO	T073,T170	C0037585
+28343001	808	817	organisms	T001	C0029235
+28343001	839	845	ClueGO	T073,T170	C0037585
+28343001	876	889	CluePedia App	T170	C3658280
+28343001	921	949	protein-protein interactions	T044	C0872079
+28343001	968	976	pathways	T077	C1705987

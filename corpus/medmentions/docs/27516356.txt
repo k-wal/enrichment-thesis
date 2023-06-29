@@ -1,0 +1,80 @@
+27516356|t|Transarterial chemoembolization of hepatocellular carcinoma with segmental portal vein tumour thrombus
+27516356|a|To evaluate the clinical outcome and safety of transarterial chemoembolization (TACE) for hepatocellular carcinoma (HCC) with segmental or subsegmental portal vein tumour thrombus (sPVTT) in patients with preserved hepatic function, and to address the efficacy of additional chemoinfusion after TACE (TACE + CI). From January 2003 to December 2012, TACE was conducted on 81 patients with Child-Pugh score ≤7 who had HCC with sPVTT. Thirty-one of them underwent TACE + CI. The overall survival (OS) and serious adverse events (SAEs) were evaluated. The efficacy of TACE + CI was appraised after adjustment with inverse probability of treatment weighting (IPTW). The OS after TACE (median, 15.5 months) was significantly related with aspartate aminotransferase (hazard ratio [HR], 1.011), modified Barcelona Clinic Liver Cancer (BCLC) stage D (HR, 2.841), extrahepatic spread (HR, 4.862), and TACE + CI (HR, .367). The SAE incidence was significantly associated with modified BCLC stages (HR, 10.174 [proper-C] and 24.000 [D]). After IPTW adjustment, TACE + CI significantly improved OS (p = .028; HR, .511), but the SAE incidence was not significantly altered (p = .737; HR, .819). TACE can be an effective and safe treatment option for HCC with sPVTT in patients with preserved hepatic function. Furthermore, additional chemoinfusion can enhance the therapeutic efficacy while maintaining the safety. • TACE is effective and safe for treating HCC with sPVTT. • Modified BCLC stages can stratify the risk and benefit of TACE. • Additional chemoinfusion can enhance the therapeutic efficacy while maintaining the safety.
+27516356	0	31	Transarterial chemoembolization	T061	C3539919
+27516356	35	59	hepatocellular carcinoma	T191	C2239176
+27516356	65	86	segmental portal vein	T023	C0032718
+27516356	87	102	tumour thrombus	T047	C3163918
+27516356	119	127	clinical	T080	C0205210
+27516356	128	135	outcome	T169	C1274040
+27516356	140	146	safety	T068	C0036043
+27516356	150	181	transarterial chemoembolization	T061	C3539919
+27516356	183	187	TACE	T061	C3539919
+27516356	193	217	hepatocellular carcinoma	T191	C2239176
+27516356	219	222	HCC	T191	C2239176
+27516356	229	238	segmental	T082	C0205122
+27516356	242	266	subsegmental portal vein	T023	C0032718
+27516356	267	282	tumour thrombus	T047	C3163918
+27516356	284	289	sPVTT	T047	C3163918
+27516356	294	302	patients	T101	C0030705
+27516356	318	334	hepatic function	T042	C0232741
+27516356	378	391	chemoinfusion	T061	C0574032
+27516356	398	402	TACE	T061	C3539919
+27516356	404	408	TACE	T061	C3539919
+27516356	411	413	CI	T061	C0574032
+27516356	452	456	TACE	T061	C3539919
+27516356	477	485	patients	T101	C0030705
+27516356	491	507	Child-Pugh score	T170	C2347612
+27516356	519	522	HCC	T191	C2239176
+27516356	528	533	sPVTT	T047	C3163918
+27516356	564	568	TACE	T061	C3539919
+27516356	571	573	CI	T061	C0574032
+27516356	579	595	overall survival	T081	C4086681
+27516356	597	599	OS	T081	C4086681
+27516356	605	627	serious adverse events	T033	C1519255
+27516356	629	633	SAEs	T033	C1519255
+27516356	667	671	TACE	T061	C3539919
+27516356	674	676	CI	T061	C0574032
+27516356	713	755	inverse probability of treatment weighting	T081	C0871431
+27516356	757	761	IPTW	T081	C0871431
+27516356	768	770	OS	T081	C4086681
+27516356	777	781	TACE	T061	C3539919
+27516356	796	802	months	T079	C0439231
+27516356	835	861	aspartate aminotransferase	T116,T126	C0004002
+27516356	863	875	hazard ratio	T081	C2985465
+27516356	877	879	HR	T081	C2985465
+27516356	899	943	Barcelona Clinic Liver Cancer (BCLC) stage D	T191	C3899975
+27516356	945	947	HR	T081	C2985465
+27516356	957	969	extrahepatic	T082	C1517058
+27516356	978	980	HR	T081	C2985465
+27516356	994	998	TACE	T061	C3539919
+27516356	1001	1003	CI	T061	C0574032
+27516356	1005	1007	HR	T081	C2985465
+27516356	1020	1023	SAE	T033	C1519255
+27516356	1077	1088	BCLC stages	T185	C3899974
+27516356	1090	1092	HR	T081	C2985465
+27516356	1135	1139	IPTW	T081	C0871431
+27516356	1152	1156	TACE	T061	C3539919
+27516356	1159	1161	CI	T061	C0574032
+27516356	1185	1187	OS	T081	C4086681
+27516356	1199	1201	HR	T081	C2985465
+27516356	1218	1221	SAE	T033	C1519255
+27516356	1273	1275	HR	T081	C2985465
+27516356	1284	1288	TACE	T061	C3539919
+27516356	1318	1327	treatment	T061	C0087111
+27516356	1339	1342	HCC	T191	C2239176
+27516356	1348	1353	sPVTT	T047	C3163918
+27516356	1357	1365	patients	T101	C0030705
+27516356	1381	1397	hepatic function	T042	C0232741
+27516356	1423	1436	chemoinfusion	T061	C0574032
+27516356	1453	1473	therapeutic efficacy	T080	C2348767
+27516356	1496	1502	safety	T068	C0036043
+27516356	1506	1510	TACE	T061	C3539919
+27516356	1537	1545	treating	T169	C1522326
+27516356	1546	1549	HCC	T191	C2239176
+27516356	1555	1560	sPVTT	T047	C3163918
+27516356	1573	1584	BCLC stages	T185	C3899974
+27516356	1602	1606	risk	T058	C0086930
+27516356	1622	1626	TACE	T061	C3539919
+27516356	1641	1654	chemoinfusion	T061	C0574032
+27516356	1671	1691	therapeutic efficacy	T080	C2348767
+27516356	1714	1720	safety	T068	C0036043

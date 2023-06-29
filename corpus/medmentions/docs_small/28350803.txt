@@ -1,0 +1,44 @@
+28350803|t|Pharmacogenomic identification of small molecules for lineage specific manipulation of subventricular zone germinal activity
+28350803|a|Strategies for promoting neural regeneration are hindered by the difficulty of manipulating desired neural fates in the brain without complex genetic methods. The subventricular zone (SVZ) is the largest germinal zone of the forebrain and is responsible for the lifelong generation of interneuron subtypes and oligodendrocytes. Here, we have performed a bioinformatics analysis of the transcriptome of dorsal and lateral SVZ in early postnatal mice, including neural stem cells (NSCs) and their immediate progenies, which generate distinct neural lineages. We identified multiple signaling pathways that trigger distinct downstream transcriptional networks to regulate the diversity of neural cells originating from the SVZ. Next, we used a novel in silico genomic analysis, searchable platform-independent expression database / connectivity map (SPIED / CMAP), to generate a catalogue of small molecules that can be used to manipulate SVZ microdomain-specific lineages. Finally, we demonstrate that compounds identified in this analysis promote the generation of specific cell lineages from NSCs in vivo, during postnatal life and adulthood, as well as in regenerative contexts. This study unravels new strategies for using small bioactive molecules to direct germinal activity in the SVZ, which has therapeutic potential in neurodegenerative diseases.
+28350803	0	30	Pharmacogenomic identification	T058	UMLS:C4084975
+28350803	34	49	small molecules	T103	UMLS:C1328819
+28350803	87	106	subventricular zone	T017	UMLS:C3498657
+28350803	107	115	germinal	T017	UMLS:C0017471
+28350803	150	169	neural regeneration	T038	UMLS:C0027756
+28350803	245	250	brain	T017	UMLS:C0006104
+28350803	267	282	genetic methods	T058	UMLS:C0679560
+28350803	288	307	subventricular zone	T017	UMLS:C3498657
+28350803	309	312	SVZ	T017	UMLS:C3498657
+28350803	329	337	germinal	T017	UMLS:C0017471
+28350803	338	342	zone	T082	UMLS:C1710706
+28350803	350	359	forebrain	T017	UMLS:C0085140
+28350803	410	421	interneuron	T017	UMLS:C0021792
+28350803	435	451	oligodendrocytes	T017	UMLS:C0028944
+28350803	479	493	bioinformatics	T091	UMLS:C1140694
+28350803	494	502	analysis	T062	UMLS:C0936012
+28350803	510	523	transcriptome	T082	UMLS:C3178810
+28350803	527	533	dorsal	T082	UMLS:C0205095
+28350803	538	545	lateral	T082	UMLS:C0205093
+28350803	546	549	SVZ	T017	UMLS:C3498657
+28350803	569	573	mice	T204	UMLS:C0025929
+28350803	585	602	neural stem cells	T017	UMLS:C1113654
+28350803	604	608	NSCs	T017	UMLS:C1113654
+28350803	705	723	signaling pathways	T038	UMLS:C0037080
+28350803	746	781	downstream transcriptional networks	T038	UMLS:C1720950
+28350803	811	823	neural cells	T017	UMLS:C0027882
+28350803	845	848	SVZ	T017	UMLS:C3498657
+28350803	882	898	genomic analysis	T062	UMLS:C0796358
+28350803	900	951	searchable platform-independent expression database	T170	UMLS:C0242356
+28350803	954	970	connectivity map	T170	UMLS:C0282574
+28350803	972	977	SPIED	T170	UMLS:C0242356
+28350803	980	984	CMAP	T170	UMLS:C0282574
+28350803	1014	1029	small molecules	T103	UMLS:C1328819
+28350803	1061	1064	SVZ	T017	UMLS:C3498657
+28350803	1154	1162	analysis	T062	UMLS:C0936012
+28350803	1198	1202	cell	T017	UMLS:C0007634
+28350803	1217	1221	NSCs	T017	UMLS:C1113654
+28350803	1222	1229	in vivo	T082	UMLS:C1515655
+28350803	1350	1375	small bioactive molecules	T103	UMLS:C0574031
+28350803	1386	1394	germinal	T017	UMLS:C0017471
+28350803	1411	1414	SVZ	T017	UMLS:C3498657
+28350803	1451	1477	neurodegenerative diseases	T038	UMLS:C0524851

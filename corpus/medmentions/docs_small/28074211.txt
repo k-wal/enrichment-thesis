@@ -1,0 +1,51 @@
+28074211|t|Safe Practices for Copy and Paste in the EHR. Systematic Review, Recommendations, and Novel Model for Health IT Collaboration
+28074211|a|Copy and paste functionality can support efficiency during clinical documentation, but may promote inaccurate documentation with risks for patient safety. The Partnership for Health IT Patient Safety was formed to gather data, conduct analysis, educate, and disseminate safe practices for safer care using health information technology (IT). To characterize copy and paste events in clinical care, identify safety risks, describe existing evidence, and develop implementable practice recommendations for safe reuse of information via copy and paste. The Partnership 1) reviewed 12 reported safety events, 2) solicited expert input, and 3) performed a systematic literature review (2010 to January 2015) to identify publications addressing frequency, perceptions / attitudes, patient safety risks, existing guidance, and potential interventions and mitigation practices. The literature review identified 51 publications that were included. Overall, 66% to 90% of clinicians routinely use copy and paste. One study of diagnostic errors found that copy and paste led to 2.6% of errors in which a missed diagnosis required patients to seek additional unplanned care. Copy and paste can promote note bloat, internal inconsistencies, error propagation, and documentation in the wrong patient chart. Existing guidance identified specific responsibilities for authors, organizations, and electronic health record (EHR) developers. Analysis of 12 reported copy and paste safety events was congruent with problems identified from the literature review. Despite regular copy and paste use, evidence regarding direct risk to patient safety remains sparse, with significant study limitations. Drawing on existing evidence, the Partnership developed four safe practice recommendations: 1) Provide a mechanism to make copy and paste material easily identifiable; 2) Ensure the provenance of copy and paste material is readily available; 3) Ensure adequate staff training and education; 4) Ensure copy and paste practices are regularly monitored, measured, and assessed.
+28074211	0	4	Safe	T082	UMLS:C0557723
+28074211	5	14	Practices	T038	UMLS:C0237607
+28074211	41	44	EHR	T170	UMLS:C2362543
+28074211	46	63	Systematic Review	T170	UMLS:C1955832
+28074211	92	97	Model	T170	UMLS:C3161035
+28074211	194	207	documentation	T170	UMLS:C0920316
+28074211	236	249	documentation	T170	UMLS:C0920316
+28074211	265	279	patient safety	T058	UMLS:C1113679
+28074211	285	296	Partnership	T092	UMLS:C1711206
+28074211	311	325	Patient Safety	T058	UMLS:C1113679
+28074211	384	395	disseminate	T082	UMLS:C0205221
+28074211	396	400	safe	T082	UMLS:C0557723
+28074211	401	410	practices	T038	UMLS:C0237607
+28074211	415	420	safer	T082	UMLS:C0557723
+28074211	533	539	safety	T058	UMLS:C1113679
+28074211	601	609	practice	T038	UMLS:C0237607
+28074211	630	634	safe	T082	UMLS:C0557723
+28074211	680	691	Partnership	T092	UMLS:C1711206
+28074211	707	715	reported	T058	UMLS:C0700287
+28074211	777	805	systematic literature review	T170	UMLS:C0282441
+28074211	841	853	publications	T170	UMLS:C0034036
+28074211	876	887	perceptions	T038	UMLS:C0030971
+28074211	890	899	attitudes	T038	UMLS:C0004271
+28074211	901	915	patient safety	T058	UMLS:C1113679
+28074211	932	940	guidance	T058	UMLS:C0150600
+28074211	985	994	practices	T038	UMLS:C0237607
+28074211	1000	1017	literature review	T170	UMLS:C0282441
+28074211	1032	1044	publications	T170	UMLS:C0034036
+28074211	1088	1098	clinicians	T097	UMLS:C0871685
+28074211	1133	1138	study	T062	UMLS:C2603343
+28074211	1226	1235	diagnosis	T033	UMLS:C0011900
+28074211	1328	1336	internal	T082	UMLS:C0205102
+28074211	1377	1390	documentation	T170	UMLS:C0920316
+28074211	1412	1417	chart	T170	UMLS:C0684240
+28074211	1428	1436	guidance	T058	UMLS:C0150600
+28074211	1478	1485	authors	T097	UMLS:C3812881
+28074211	1487	1500	organizations	T092	UMLS:C1708333
+28074211	1506	1530	electronic health record	T170	UMLS:C2362543
+28074211	1532	1535	EHR	T170	UMLS:C2362543
+28074211	1549	1557	Analysis	T062	UMLS:C0936012
+28074211	1564	1572	reported	T058	UMLS:C0700287
+28074211	1650	1667	literature review	T170	UMLS:C0282441
+28074211	1739	1753	patient safety	T058	UMLS:C1113679
+28074211	1787	1792	study	T062	UMLS:C2603343
+28074211	1840	1851	Partnership	T092	UMLS:C1711206
+28074211	1867	1871	safe	T082	UMLS:C0557723
+28074211	1872	1880	practice	T038	UMLS:C0237607
+28074211	2122	2131	practices	T038	UMLS:C0237607
+28074211	2146	2155	monitored	T058	UMLS:C0150369

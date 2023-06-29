@@ -1,0 +1,71 @@
+24971338|t|Conversion to sirolimus ameliorates cyclosporine-induced nephropathy in the rat: focus on serum, urine, gene, and protein renal expression biomarkers.
+24971338|a|Protocols of conversion from cyclosporin A (CsA) to sirolimus (SRL) have been widely used in immunotherapy after transplantation to prevent CsA-induced nephropathy, but the molecular mechanisms underlying these protocols remain nuclear. This study aimed to identify the molecular pathways and putative biomarkers of CsA-to-SRL conversion in a rat model. Four animal groups (n = 6) were tested during 9 weeks: control, CsA, SRL, and conversion (CsA for 3 weeks followed by SRL for 6 weeks). Classical and emergent serum, urinary, and kidney tissue (gene and protein expression) markers were assessed. Renal lesions were analyzed in hematoxylin and eosin, periodic acid-Schiff, and Masson's trichrome stains. SRL-treated rats presented proteinuria and NGAL (serum and urinary) as the best markers of renal impairment. Short CsA treatment presented slight or even absent kidney lesions and TGF-b, NF- kb, mTOR, PCNA, TP53, KIM-1, and CTGF as relevant gene and protein changes. Prolonged CsA exposure aggravated renal damage, without clear changes on the traditional markers, but with changes in serums TGF- b and IL-7, TBARs clearance, and kidney TGF-b and mTOR. Conversion to SRL prevented CsA-induced renal damage evolution (absent/mild grade lesions), while NGAL (serum versus urine) seems to be a feasible biomarker of CsA replacement to SRL.
+24971338	14	23	sirolimus	ChemicalEntity	D020123
+24971338	36	48	cyclosporine	ChemicalEntity	D016572
+24971338	57	68	nephropathy	DiseaseOrPhenotypicFeature	D007674
+24971338	76	79	rat	OrganismTaxon	10116
+24971338	180	193	cyclosporin A	ChemicalEntity	D016572
+24971338	195	198	CsA	ChemicalEntity	D016572
+24971338	203	212	sirolimus	ChemicalEntity	D020123
+24971338	214	217	SRL	ChemicalEntity	D020123
+24971338	291	294	CsA	ChemicalEntity	D016572
+24971338	303	314	nephropathy	DiseaseOrPhenotypicFeature	D007674
+24971338	467	470	CsA	ChemicalEntity	D016572
+24971338	474	477	SRL	ChemicalEntity	D020123
+24971338	494	497	rat	OrganismTaxon	10116
+24971338	569	572	CsA	ChemicalEntity	D016572
+24971338	574	577	SRL	ChemicalEntity	D020123
+24971338	595	598	CsA	ChemicalEntity	D016572
+24971338	623	626	SRL	ChemicalEntity	D020123
+24971338	751	764	Renal lesions	DiseaseOrPhenotypicFeature	D007674
+24971338	858	861	SRL	ChemicalEntity	D020123
+24971338	870	874	rats	OrganismTaxon	10116
+24971338	885	896	proteinuria	DiseaseOrPhenotypicFeature	D011507
+24971338	901	905	NGAL	GeneOrGeneProduct	170496
+24971338	949	965	renal impairment	DiseaseOrPhenotypicFeature	D007674
+24971338	973	976	CsA	ChemicalEntity	D016572
+24971338	1019	1033	kidney lesions	DiseaseOrPhenotypicFeature	D007674
+24971338	1038	1043	TGF-b	GeneOrGeneProduct	59086
+24971338	1045	1051	NF- kb	GeneOrGeneProduct	81736
+24971338	1053	1057	mTOR	GeneOrGeneProduct	56718
+24971338	1059	1063	PCNA	GeneOrGeneProduct	25737
+24971338	1065	1069	TP53	GeneOrGeneProduct	24842
+24971338	1071	1076	KIM-1	GeneOrGeneProduct	286934
+24971338	1082	1086	CTGF	GeneOrGeneProduct	64032
+24971338	1135	1138	CsA	ChemicalEntity	D016572
+24971338	1159	1171	renal damage	DiseaseOrPhenotypicFeature	D007674
+24971338	1250	1256	TGF- b	GeneOrGeneProduct	59086
+24971338	1261	1265	IL-7	GeneOrGeneProduct	25647
+24971338	1267	1272	TBARs	ChemicalEntity	D017392
+24971338	1295	1300	TGF-b	GeneOrGeneProduct	59086
+24971338	1305	1309	mTOR	GeneOrGeneProduct	56718
+24971338	1325	1328	SRL	ChemicalEntity	D020123
+24971338	1339	1342	CsA	ChemicalEntity	D016572
+24971338	1351	1363	renal damage	DiseaseOrPhenotypicFeature	D007674
+24971338	1409	1413	NGAL	GeneOrGeneProduct	170496
+24971338	1471	1474	CsA	ChemicalEntity	D016572
+24971338	1490	1493	SRL	ChemicalEntity	D020123
+24971338	Association	170496	D007674	Novel
+24971338	Association	170496	D020123	Novel
+24971338	Association	D016572	D017392	Novel
+24971338	Association	D016572	25647	Novel
+24971338	Association	D016572	81736	Novel
+24971338	Association	D016572	59086	Novel
+24971338	Association	D016572	64032	Novel
+24971338	Association	D016572	286934	Novel
+24971338	Association	D016572	24842	Novel
+24971338	Association	D016572	25737	Novel
+24971338	Association	D016572	56718	Novel
+24971338	Positive_Correlation	D016572	D007674	Novel
+24971338	Association	D007674	D017392	Novel
+24971338	Association	D007674	25647	Novel
+24971338	Association	D007674	81736	Novel
+24971338	Association	D007674	59086	Novel
+24971338	Association	D007674	64032	Novel
+24971338	Association	D007674	286934	Novel
+24971338	Association	D007674	24842	Novel
+24971338	Association	D007674	25737	Novel
+24971338	Association	D007674	56718	Novel
+24971338	Association	D020123	D011507	Novel
+24971338	Comparison	D020123	D016572	Novel
+24971338	Negative_Correlation	D020123	D007674	Novel

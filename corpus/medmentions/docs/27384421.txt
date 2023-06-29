@@ -1,0 +1,106 @@
+27384421|t|Screening of Conditionally Reprogrammed Patient -Derived Carcinoma Cells Identifies ERCC3 - MYC Interactions as a Target in Pancreatic Cancer
+27384421|a|Even when diagnosed prior to metastasis, pancreatic ductal adenocarcinoma (PDAC) is a devastating malignancy with almost 90% lethality, emphasizing the need for new therapies optimally targeting the tumors of individual patients. We first developed a panel of new physiologic models for study of PDAC, expanding surgical PDAC tumor samples in culture using short-term culture and conditional reprogramming with the Rho kinase inhibitor Y-27632, and creating matched patient-derived xenografts (PDX). These were evaluated for sensitivity to a large panel of clinical agents, and promising leads further evaluated mechanistically. Only a small minority of tested agents was cytotoxic in minimally passaged PDAC cultures in vitro Drugs interfering with protein turnover and transcription were among most cytotoxic. Among transcriptional repressors, triptolide, a covalent inhibitor of ERCC3, was most consistently effective in vitro and in vivo causing prolonged complete regression in multiple PDX models resistant to standard PDAC therapies. Importantly, triptolide showed superior activity in MYC-amplified PDX models and elicited rapid and profound depletion of the oncoprotein MYC, a transcriptional regulator. Expression of ERCC3 and MYC was interdependent in PDACs, and acquired resistance to triptolide depended on elevated ERCC3 and MYC expression. The Cancer Genome Atlas analysis indicates ERCC3 expression predicts poor prognosis, particularly in CDKN2A-null, highly proliferative tumors. This provides initial preclinical evidence for an essential role of MYC - ERCC3 interactions in PDAC, and suggests a new mechanistic approach for disruption of critical survival signaling in MYC -dependent cancers. Clin Cancer Res; 22(24); 6153-63. ©2016 AACR.
+27384421	0	9	Screening	T058	C0220908
+27384421	13	39	Conditionally Reprogrammed	T052	C3828338
+27384421	40	47	Patient	T101	C0030705
+27384421	57	72	Carcinoma Cells	T025	C0334227
+27384421	84	89	ERCC3	T116,T126	C1259556
+27384421	92	95	MYC	T116,T123	C0080065
+27384421	96	108	Interactions	T169	C1704675
+27384421	114	120	Target	T169	C1521840
+27384421	124	141	Pancreatic Cancer	T191	C0235974
+27384421	152	161	diagnosed	T062	C1704656
+27384421	171	181	metastasis	T046	C4255448
+27384421	183	215	pancreatic ductal adenocarcinoma	T191	C1335302
+27384421	217	221	PDAC	T191	C1335302
+27384421	228	250	devastating malignancy	T191	C4282132
+27384421	267	276	lethality	T033	C3151529
+27384421	307	316	therapies	T061	C0087111
+27384421	317	326	optimally	T080	C2698651
+27384421	327	336	targeting	T169	C1521840
+27384421	341	347	tumors	T191	C0027651
+27384421	362	370	patients	T101	C0030705
+27384421	393	398	panel	T078	C0441833
+27384421	406	417	physiologic	T169	C0205463
+27384421	418	424	models	T170	C3161035
+27384421	429	434	study	T062	C2603343
+27384421	438	442	PDAC	T191	C1335302
+27384421	454	462	surgical	T169	C0038895
+27384421	463	467	PDAC	T191	C1335302
+27384421	468	481	tumor samples	T024	C0475358
+27384421	485	492	culture	T059	C0430400
+27384421	499	509	short-term	T079	C0443303
+27384421	510	517	culture	T059	C0430400
+27384421	522	547	conditional reprogramming	T052	C3828338
+27384421	557	567	Rho kinase	T116,T126	C0389995
+27384421	568	577	inhibitor	T121	C0014432
+27384421	578	585	Y-27632	T109,T121	C0667301
+27384421	608	634	patient-derived xenografts	T122	C0522537
+27384421	636	639	PDX	T122	C0522537
+27384421	653	662	evaluated	T058	C0220825
+27384421	667	678	sensitivity	T081	C1511883
+27384421	690	695	panel	T078	C0441833
+27384421	699	714	clinical agents	T121	C1254351
+27384421	744	753	evaluated	T058	C0220825
+27384421	754	769	mechanistically	T080	C0205556
+27384421	796	809	tested agents	T121	C1254351
+27384421	814	823	cytotoxic	T169	C1511636
+27384421	846	850	PDAC	T191	C1335302
+27384421	851	859	cultures	T059	C0430400
+27384421	860	868	in vitro	T080	C1533691
+27384421	869	874	Drugs	T121	C1254351
+27384421	892	908	protein turnover	T044	C0597297
+27384421	913	926	transcription	T045	C0040649
+27384421	943	952	cytotoxic	T169	C1511636
+27384421	960	986	transcriptional repressors	T116,T123	C1336789
+27384421	988	998	triptolide	T109,T121	C0077274
+27384421	1002	1020	covalent inhibitor	T120	C0243077
+27384421	1024	1029	ERCC3	T116,T126	C1259556
+27384421	1040	1052	consistently	T078	C0332290
+27384421	1053	1062	effective	T080	C1704419
+27384421	1063	1071	in vitro	T080	C1533691
+27384421	1076	1083	in vivo	T082	C1515655
+27384421	1092	1121	prolonged complete regression	T033	C1516747
+27384421	1125	1133	multiple	T081	C0439064
+27384421	1134	1137	PDX	T061	C0520484
+27384421	1138	1144	models	T170	C3161035
+27384421	1145	1154	resistant	T169	C0332325
+27384421	1158	1166	standard	T080	C1442989
+27384421	1167	1171	PDAC	T191	C1335302
+27384421	1172	1181	therapies	T061	C0087111
+27384421	1196	1206	triptolide	T109,T121	C0077274
+27384421	1214	1231	superior activity	T052	C0441655
+27384421	1235	1248	MYC-amplified	T116,T123	C0080065
+27384421	1249	1252	PDX	T122	C0522537
+27384421	1253	1259	models	T170	C3161035
+27384421	1273	1278	rapid	T080	C0456962
+27384421	1292	1301	depletion	T169	C0333668
+27384421	1309	1324	oncoprotein MYC	T116,T123	C0080065
+27384421	1328	1353	transcriptional regulator	T045	C1158770
+27384421	1355	1365	Expression	T045	C1171362
+27384421	1369	1374	ERCC3	T116,T126	C1259556
+27384421	1379	1382	MYC	T116,T123	C0080065
+27384421	1405	1410	PDACs	T191	C1335302
+27384421	1416	1435	acquired resistance	T038	C0013203
+27384421	1439	1449	triptolide	T109,T121	C0077274
+27384421	1471	1476	ERCC3	T116,T126	C1259556
+27384421	1481	1484	MYC	T116,T123	C0080065
+27384421	1485	1495	expression	T045	C1171362
+27384421	1497	1529	The Cancer Genome Atlas analysis	T062	C3273927
+27384421	1540	1545	ERCC3	T116,T126	C1259556
+27384421	1546	1556	expression	T045	C1171362
+27384421	1566	1580	poor prognosis	T033	C0278252
+27384421	1598	1609	CDKN2A-null	T049	C2985437
+27384421	1611	1638	highly proliferative tumors	T191	C0027651
+27384421	1662	1673	preclinical	T080	C1709630
+27384421	1674	1682	evidence	T078	C3887511
+27384421	1708	1711	MYC	T116,T123	C0080065
+27384421	1714	1719	ERCC3	T116,T126	C1259556
+27384421	1720	1732	interactions	T169	C1704675
+27384421	1736	1740	PDAC	T191	C1335302
+27384421	1786	1796	disruption	T169	C0332453
+27384421	1800	1808	critical	T080	C1511545
+27384421	1809	1817	survival	T169	C0220921
+27384421	1818	1827	signaling	T038	C3537152
+27384421	1831	1834	MYC	T116,T123	C0080065
+27384421	1846	1853	cancers	T191	C0006826

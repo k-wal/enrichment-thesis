@@ -1,0 +1,44 @@
+16755009|t|Pharmacological evidence for the potential of Daucus carota in the management of cognitive dysfunctions.
+16755009|a|The present study was aimed at investigating the effects of Daucus carota seeds on cognitive functions, total serum cholesterol levels and brain cholinesterase activity in mice. The ethanolic extract of Daucus carota seeds (DCE) was administered orally in three doses (100, 200, 400 mg/kg) for seven successive days to different groups of young and aged mice. Elevated plus maze and passive avoidance apparatus served as the exteroceptive behavioral models for testing memory. Diazepam-, scopolamine- and ageing-induced amnesia served as the interoceptive behavioral models. DCE (200, 400 mg/kg, p.o.) showed significant improvement in memory scores of young and aged mice. The extent of memory improvement evoked by DCE was 23% at the dose of 200 mg/kg and 35% at the dose of 400 mg/kg in young mice using elevated plus maze. Similarly, significant improvements in memory scores were observed using passive avoidance apparatus and aged mice. Furthermore, DCE reversed the amnesia induced by scopolamine (0.4 mg/kg, i.p.) and diazepam (1 mg/kg, i.p.). Daucus carota extract (200, 400 mg/kg, p.o.) reduced significantly the brain acetylcholinesterase activity and cholesterol levels in young and aged mice. The extent of inhibition of brain cholinesterase activity evoked by DCE at the dose of 400 mg/kg was 22% in young and 19% in aged mice. There was a remarkable reduction in total cholesterol level as well, to the extent of 23% in young and 21% in aged animals with this dose of DCE. Therefore, DCE may prove to be a useful remedy for the management of cognitive dysfunctions on account of its multifarious beneficial effects such as, memory improving property, cholesterol lowering property and anticholinesterase activity.
+16755009	46	59	Daucus carota	OrganismTaxon	4039
+16755009	81	103	cognitive dysfunctions	DiseaseOrPhenotypicFeature	D003072
+16755009	165	178	Daucus carota	OrganismTaxon	4039
+16755009	221	232	cholesterol	ChemicalEntity	D002784
+16755009	250	264	cholinesterase	GeneOrGeneProduct	12038
+16755009	277	281	mice	OrganismTaxon	10090
+16755009	297	327	extract of Daucus carota seeds	ChemicalEntity	D010936
+16755009	329	332	DCE	ChemicalEntity	D010936
+16755009	459	463	mice	OrganismTaxon	10090
+16755009	582	590	Diazepam	ChemicalEntity	D003975
+16755009	593	604	scopolamine	ChemicalEntity	D012601
+16755009	625	632	amnesia	DiseaseOrPhenotypicFeature	D000647
+16755009	680	683	DCE	ChemicalEntity	D010936
+16755009	773	777	mice	OrganismTaxon	10090
+16755009	822	825	DCE	ChemicalEntity	D010936
+16755009	901	905	mice	OrganismTaxon	10090
+16755009	1042	1046	mice	OrganismTaxon	10090
+16755009	1061	1064	DCE	ChemicalEntity	D010936
+16755009	1078	1085	amnesia	DiseaseOrPhenotypicFeature	D000647
+16755009	1097	1108	scopolamine	ChemicalEntity	D012601
+16755009	1131	1139	diazepam	ChemicalEntity	D003975
+16755009	1157	1178	Daucus carota extract	ChemicalEntity	D010936
+16755009	1234	1254	acetylcholinesterase	GeneOrGeneProduct	11423
+16755009	1268	1279	cholesterol	ChemicalEntity	D002784
+16755009	1305	1309	mice	OrganismTaxon	10090
+16755009	1345	1359	cholinesterase	GeneOrGeneProduct	12038
+16755009	1379	1382	DCE	ChemicalEntity	D010936
+16755009	1441	1445	mice	OrganismTaxon	10090
+16755009	1489	1500	cholesterol	ChemicalEntity	D002784
+16755009	1588	1591	DCE	ChemicalEntity	D010936
+16755009	1604	1607	DCE	ChemicalEntity	D010936
+16755009	1662	1684	cognitive dysfunctions	DiseaseOrPhenotypicFeature	D003072
+16755009	1771	1782	cholesterol	ChemicalEntity	D002784
+16755009	Negative_Correlation	12038	D010936	Novel
+16755009	Negative_Correlation	D010936	D003072	Novel
+16755009	Negative_Correlation	D010936	11423	Novel
+16755009	Negative_Correlation	D010936	D002784	Novel
+16755009	Negative_Correlation	D010936	D003975	Novel
+16755009	Negative_Correlation	D010936	D000647	Novel
+16755009	Negative_Correlation	D010936	D012601	Novel
+16755009	Positive_Correlation	D003975	D000647	No
+16755009	Positive_Correlation	D012601	D000647	No

@@ -1,0 +1,33 @@
+27807193|t|PTPN22 Is a Critical Regulator of Fcg Receptor-Mediated Neutrophil Activation.
+27807193|a|Neutrophils act as a first line of defense against bacterial and fungal infections, but they are also important effectors of acute and chronic inflammation. Genome-wide association studies have established that the gene encoding the protein tyrosine phosphatase nonreceptor 22 (PTPN22) makes an important contribution to susceptibility to autoimmune disease, notably rheumatoid arthritis. Although PTPN22 is most highly expressed in neutrophils, its function in these cells remains poorly characterized. We show in this article that neutrophil effector functions, including adhesion, production of reactive oxygen species, and degranulation induced by immobilized immune complexes, were reduced in Ptpn22(-/-) neutrophils. Tyrosine phosphorylation of Lyn and Syk was altered in Ptpn22(-/-) neutrophils. On stimulation with immobilized immune complexes, Ptpn22(-/-) neutrophils manifested reduced activation of key signaling intermediates. Ptpn22(-/-) mice were protected from immune complex-mediated arthritis, induced by the transfer of arthritogenic serum. In contrast, in vivo neutrophil recruitment following thioglycollate-induced peritonitis and in vitro chemotaxis were not affected by lack of PTPN22. Our data suggest an important role for PTPN22-dependent dephosphorylation events, which are required to enable full FcgR-induced activation, pointing to an important role for this molecule in neutrophil function.
+27807193	0	6	PTPN22	GeneOrGeneProduct	19260
+27807193	34	46	Fcg Receptor	GeneOrGeneProduct	14130
+27807193	144	161	fungal infections	DiseaseOrPhenotypicFeature	D009181
+27807193	204	234	acute and chronic inflammation	DiseaseOrPhenotypicFeature	D007249
+27807193	312	355	protein tyrosine phosphatase nonreceptor 22	GeneOrGeneProduct	19260
+27807193	357	363	PTPN22	GeneOrGeneProduct	19260
+27807193	418	436	autoimmune disease	DiseaseOrPhenotypicFeature	D001327
+27807193	446	466	rheumatoid arthritis	DiseaseOrPhenotypicFeature	D001172
+27807193	477	483	PTPN22	GeneOrGeneProduct	19260
+27807193	677	700	reactive oxygen species	ChemicalEntity	D017382
+27807193	777	783	Ptpn22	GeneOrGeneProduct	19260
+27807193	830	833	Lyn	GeneOrGeneProduct	17096
+27807193	838	841	Syk	GeneOrGeneProduct	20963
+27807193	857	863	Ptpn22	GeneOrGeneProduct	19260
+27807193	932	938	Ptpn22	GeneOrGeneProduct	19260
+27807193	1018	1024	Ptpn22	GeneOrGeneProduct	19260
+27807193	1030	1034	mice	OrganismTaxon	10090
+27807193	1079	1088	arthritis	DiseaseOrPhenotypicFeature	D001168
+27807193	1192	1206	thioglycollate	ChemicalEntity	D013864
+27807193	1215	1226	peritonitis	DiseaseOrPhenotypicFeature	D010538
+27807193	1280	1286	PTPN22	GeneOrGeneProduct	19260
+27807193	1327	1333	PTPN22	GeneOrGeneProduct	19260
+27807193	1404	1408	FcgR	GeneOrGeneProduct	14130
+27807193	Positive_Correlation	D013864	D010538	No
+27807193	Association	20963	19260	Novel
+27807193	Association	17096	19260	Novel
+27807193	Association	19260	D001172	No
+27807193	Association	19260	D001327	No
+27807193	Association	19260	D001168	Novel
+27807193	Negative_Correlation	19260	D017382	Novel
+27807193	Association	19260	14130	Novel

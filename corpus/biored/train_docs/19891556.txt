@@ -1,0 +1,18 @@
+19891556|t|Clopidogrel pharmacogenomics and risk of inadequate platelet inhibition: US FDA recommendations.
+19891556|a|Antiplatelet therapy with clopidogrel is the current standard of care for coronary artery disease patients undergoing a percutaneous coronary intervention. However, approximately 25% of patients experience a subtherapeutic antiplatelet response. Clopidogrel is a prodrug that undergoes hepatic biotransformation by CYP2C19 into its active metabolite. Several studies have reported that, compared with wild-type individuals, CYP2C19 variant allele carriers exhibit a significantly lower capacity to metabolize clopidogrel into its active metabolite and inhibit platelet activation, and are therefore at significantly higher risk of adverse cardiovascular events. Consequently, the US FDA has recently changed clopidogrel's prescribing information to highlight the impact of CYP2C19 genotype on clopidogrel pharmacokinetics, pharmacodynamics and clinical response. Future studies remain necessary to develop effective personalized therapeutic strategies for CYP2C19 variant allele carriers and other individuals at risk for clopidogrel nonresponsiveness.
+19891556	0	11	Clopidogrel	ChemicalEntity	D000077144
+19891556	123	134	clopidogrel	ChemicalEntity	D000077144
+19891556	171	194	coronary artery disease	DiseaseOrPhenotypicFeature	D003324
+19891556	195	203	patients	OrganismTaxon	9606
+19891556	283	291	patients	OrganismTaxon	9606
+19891556	343	354	Clopidogrel	ChemicalEntity	D000077144
+19891556	412	419	CYP2C19	GeneOrGeneProduct	1557
+19891556	521	528	CYP2C19	GeneOrGeneProduct	1557
+19891556	606	617	clopidogrel	ChemicalEntity	D000077144
+19891556	805	816	clopidogrel	ChemicalEntity	D000077144
+19891556	870	877	CYP2C19	GeneOrGeneProduct	1557
+19891556	890	901	clopidogrel	ChemicalEntity	D000077144
+19891556	1053	1060	CYP2C19	GeneOrGeneProduct	1557
+19891556	1119	1130	clopidogrel	ChemicalEntity	D000077144
+19891556	Association	D000077144	1557	Novel
+19891556	Negative_Correlation	D000077144	D003324	No

@@ -1,0 +1,94 @@
+27779404|t|Rotation-Driven Microfluidic Disc for White Blood Cell Enumeration Using Magnetic Bead Aggregation
+27779404|a|We recently defined a magnetic bead-based assay that exploited an agglutination -like response for DNA and applied it to DNA - containing cell enumeration using inexpensive benchtop hardware [J. Am. Chem. Soc. 2012, 134 (12), 5689 - 96]. Although cost - efficient, the open-well format assay required numerous manual steps, and the magnetic field actuation scheme was not readily adaptable for integration. Here, we demonstrate a low - cost (<$2 in-lab), higher-throughput "pinwheel assay" platform that relies on a combination of a disposable rotation-driven microdisc (RDM), and a simple bidirectional rotating magnetic field (bi-RMF). The assay was transformed into an integrated microfluidic system using a multilayered polyester microfluidic disc created through laser print, cut and laminate fabrication, with fluid flow controlled by rotation speed without any mechanical valves. The RDM accepts four samples that undergo on-chip dilution to five different concentrations that cover the effective concentration range needed for downstream cell counting by pinwheel assay. We show that a bi-RMF is effective for the simultaneous actuation of pinwheel assays in 20 detection chambers. The optimization of the bi-RMF frequencies allows the RDM -based pinwheel assay detect human genomic DNA down to a mass of human genomic DNA (5.5 picograms) that is roughly equal to the mass in a single cell. For proof of principle, enumeration of the white blood cells in human blood samples on the RDM provided data correlating well (C.V. of 10%) with those obtained in a clinical lab. Fusing the cost - effective RDM with a simple bi-RMF provides a promising strategy for automation and multiplexing of magnetic particle -based agglutination assays.
+27779404	0	33	Rotation-Driven Microfluidic Disc	T074	C0180459
+27779404	38	66	White Blood Cell Enumeration	T059	C0023508
+27779404	73	98	Magnetic Bead Aggregation	T067	C1254366
+27779404	121	146	magnetic bead-based assay	T059	C0005507
+27779404	165	178	agglutination	T034	C0522579
+27779404	185	193	response	T032	C0871261
+27779404	198	201	DNA	T114,T123	C0012854
+27779404	220	223	DNA	T114,T123	C0012854
+27779404	226	236	containing	T169	C0332256
+27779404	237	241	cell	T025	C0007634
+27779404	242	253	enumeration	T080	C1707927
+27779404	272	289	benchtop hardware	T073	C0009602
+27779404	346	350	cost	T081	C0010186
+27779404	353	362	efficient	T080	C0442799
+27779404	368	390	open-well format assay	T059	C0005507
+27779404	400	408	numerous	T081	C0439064
+27779404	409	415	manual	T169	C0175674
+27779404	416	421	steps	T077	C1261552
+27779404	431	462	magnetic field actuation scheme	T170	C1519193
+27779404	493	504	integration	T066	C1705422
+27779404	529	532	low	T080	C0205251
+27779404	535	539	cost	T081	C0010186
+27779404	554	588	higher-throughput "pinwheel assay"	T059	C2718004
+27779404	615	626	combination	T072	C1947911
+27779404	632	642	disposable	T074	C0725865
+27779404	643	668	rotation-driven microdisc	T074	C0180459
+27779404	670	673	RDM	T074	C0180459
+27779404	689	702	bidirectional	T080	C1706937
+27779404	703	711	rotating	T082	C0231458
+27779404	712	726	magnetic field	T070	C0563533
+27779404	728	734	bi-RMF	T070	C0563533
+27779404	741	746	assay	T059	C0005507
+27779404	771	801	integrated microfluidic system	T059	C1449576
+27779404	810	822	multilayered	T080	C1522408
+27779404	823	832	polyester	T109,T122	C0032474
+27779404	833	850	microfluidic disc	T074	C0180459
+27779404	867	872	laser	T073	C0023089
+27779404	873	878	print	T057	C0033161
+27779404	880	883	cut	T067	C1883724
+27779404	888	908	laminate fabrication	T067	C1254366
+27779404	915	925	fluid flow	T070	C0596578
+27779404	926	936	controlled	T169	C2587213
+27779404	940	948	rotation	T169	C0035868
+27779404	949	954	speed	T081	C0678536
+27779404	967	984	mechanical valves	T074	C1704414
+27779404	990	993	RDM	T074	C0180459
+27779404	1007	1014	samples	T077	C2347026
+27779404	1028	1044	on-chip dilution	T169	C1948037
+27779404	1063	1077	concentrations	T081	C1446561
+27779404	1093	1102	effective	T080	C1704419
+27779404	1103	1116	concentration	T081	C1446561
+27779404	1117	1122	range	T081	C1514721
+27779404	1134	1144	downstream	T082	C0522506
+27779404	1145	1158	cell counting	T059	C0007584
+27779404	1162	1176	pinwheel assay	T059	C0005507
+27779404	1193	1199	bi-RMF	T070	C0563533
+27779404	1203	1212	effective	T080	C1704419
+27779404	1221	1233	simultaneous	T079	C0521115
+27779404	1234	1243	actuation	T081	C4055499
+27779404	1247	1262	pinwheel assays	T059	C0005507
+27779404	1269	1287	detection chambers	T073	C0179874
+27779404	1293	1305	optimization	T052	C2698650
+27779404	1313	1319	bi-RMF	T070	C0563533
+27779404	1320	1331	frequencies	T070	C0678556
+27779404	1343	1346	RDM	T074	C0180459
+27779404	1354	1368	pinwheel assay	T059	C0005507
+27779404	1369	1375	detect	T033	C0442726
+27779404	1376	1381	human	T016	C0086418
+27779404	1382	1389	genomic	T028	C0017428
+27779404	1390	1393	DNA	T114,T123	C0012854
+27779404	1412	1417	human	T016	C0086418
+27779404	1418	1425	genomic	T028	C0017428
+27779404	1426	1429	DNA	T114,T123	C0012854
+27779404	1485	1496	single cell	T025	C0007634
+27779404	1522	1533	enumeration	T080	C1707927
+27779404	1541	1558	white blood cells	T025	C0023516
+27779404	1562	1567	human	T016	C0086418
+27779404	1568	1581	blood samples	T031	C0178913
+27779404	1589	1592	RDM	T074	C0180459
+27779404	1602	1606	data	T078	C1511726
+27779404	1663	1671	clinical	T080	C0205210
+27779404	1672	1675	lab	T073,T093	C0022877
+27779404	1677	1683	Fusing	T169	C0699952
+27779404	1688	1692	cost	T081	C0010186
+27779404	1695	1704	effective	T080	C1704419
+27779404	1705	1708	RDM	T074	C0180459
+27779404	1723	1729	bi-RMF	T070	C0563533
+27779404	1751	1759	strategy	T062	C0035171
+27779404	1764	1774	automation	T066	C0004376
+27779404	1795	1803	magnetic	T090	C0024488
+27779404	1804	1812	particle	T104	C0597177
+27779404	1820	1840	agglutination assays	T059	C1551405

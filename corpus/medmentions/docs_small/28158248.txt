@@ -1,0 +1,48 @@
+28158248|t|Modeling the flux of metabolites in the juvenile hormone biosynthesis pathway using generalized additive models and ordinary differential equations
+28158248|a|Juvenile hormone (JH) regulates development and reproductive maturation in insects. The corpora allata (CA) from female adult mosquitoes synthesize fluctuating levels of JH, which have been linked to the ovarian development and are influenced by nutritional signals. The rate of JH biosynthesis is controlled by the rate of flux of isoprenoids in the pathway, which is the outcome of a complex interplay of changes in precursor pools and enzyme levels. A comprehensive study of the changes in enzymatic activities and precursor pool sizes have been previously reported for the mosquito Aedes aegypti JH biosynthesis pathway. In the present studies, we used two different quantitative approaches to describe and predict how changes in the individual metabolic reactions in the pathway affect JH synthesis. First, we constructed generalized additive models (GAMs) that described the association between changes in specific metabolite concentrations with changes in enzymatic activities and substrate concentrations. Changes in substrate concentrations explained 50% or more of the model deviances in 7 of the 13 metabolic steps analyzed. Addition of information on enzymatic activities almost always improved the fitness of GAMs built solely based on substrate concentrations. GAMs were validated using experimental data that were not included when the model was built. In addition, a system of ordinary differential equations (ODE) was developed to describe the instantaneous changes in metabolites as a function of the levels of enzymatic catalytic activities. The results demonstrated the ability of the models to predict changes in the flux of metabolites in the JH pathway, and can be used in the future to design and validate experimental manipulations of JH synthesis.
+28158248	0	8	Modeling	T062	UMLS:C0870071
+28158248	21	32	metabolites	T103	UMLS:C0870883
+28158248	40	56	juvenile hormone	T103	UMLS:C0022439
+28158248	57	69	biosynthesis	T038	UMLS:C0220781
+28158248	70	77	pathway	T038	UMLS:C1704259
+28158248	116	147	ordinary differential equations	T170	UMLS:C0282574
+28158248	148	164	Juvenile hormone	T103	UMLS:C0022439
+28158248	166	168	JH	T103	UMLS:C0022439
+28158248	196	219	reproductive maturation	T038	UMLS:C0036887
+28158248	223	230	insects	T204	UMLS:C0021585
+28158248	236	250	corpora allata	T017	UMLS:C0010085
+28158248	252	254	CA	T017	UMLS:C0010085
+28158248	268	284	adult mosquitoes	T204	UMLS:C0026584
+28158248	318	320	JH	T103	UMLS:C0022439
+28158248	352	371	ovarian development	T038	UMLS:C1160265
+28158248	406	413	signals	T038	UMLS:C0037083
+28158248	427	429	JH	T103	UMLS:C0022439
+28158248	430	442	biosynthesis	T038	UMLS:C0220781
+28158248	480	491	isoprenoids	T103	UMLS:C0682996
+28158248	499	506	pathway	T038	UMLS:C1704259
+28158248	586	592	enzyme	T103	UMLS:C0014442
+28158248	617	622	study	T062	UMLS:C2603343
+28158248	641	661	enzymatic activities	T038	UMLS:C0243102
+28158248	725	733	mosquito	T204	UMLS:C0026584
+28158248	734	747	Aedes aegypti	T204	UMLS:C0322859
+28158248	748	750	JH	T103	UMLS:C0022439
+28158248	751	763	biosynthesis	T038	UMLS:C0220781
+28158248	764	771	pathway	T038	UMLS:C1704259
+28158248	788	795	studies	T062	UMLS:C2603343
+28158248	924	931	pathway	T038	UMLS:C1704259
+28158248	939	941	JH	T103	UMLS:C0022439
+28158248	942	951	synthesis	T038	UMLS:C0220781
+28158248	1069	1079	metabolite	T103	UMLS:C0870883
+28158248	1111	1131	enzymatic activities	T038	UMLS:C0243102
+28158248	1274	1282	analyzed	T062	UMLS:C0936012
+28158248	1311	1331	enzymatic activities	T038	UMLS:C0243102
+28158248	1541	1572	ordinary differential equations	T170	UMLS:C0282574
+28158248	1574	1577	ODE	T170	UMLS:C0282574
+28158248	1634	1645	metabolites	T103	UMLS:C0870883
+28158248	1677	1707	enzymatic catalytic activities	T038	UMLS:C0243102
+28158248	1794	1805	metabolites	T103	UMLS:C0870883
+28158248	1813	1815	JH	T103	UMLS:C0022439
+28158248	1816	1823	pathway	T038	UMLS:C1704259
+28158248	1869	1877	validate	T062	UMLS:C1519941
+28158248	1908	1910	JH	T103	UMLS:C0022439
+28158248	1911	1920	synthesis	T038	UMLS:C0220781

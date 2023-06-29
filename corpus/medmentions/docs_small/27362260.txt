@@ -1,0 +1,65 @@
+27362260|t|Colony Expansion of Socially Motile Myxococcus xanthus Cells Is Driven by Growth, Motility, and Exopolysaccharide Production
+27362260|a|Myxococcus xanthus, a model organism for studies of multicellular behavior in bacteria, moves exclusively on solid surfaces using two distinct but coordinated motility mechanisms. One of these, social (S) motility is powered by the extension and retraction of type IV pili and requires the presence of exopolysaccharides (EPS) produced by neighboring cells. As a result, S motility requires close cell-to-cell proximity and isolated cells do not translocate. Previous studies measuring S motility by observing the colony expansion of cells deposited on agar have shown that the expansion rate increases with initial cell density, but the biophysical mechanisms involved remain largely unknown. To understand the dynamics of S motility -driven colony expansion, we developed a reaction - diffusion model describing the effects of cell density, EPS deposition and nutrient exposure on the expansion rate. Our results show that at steady state the population expands as a traveling wave with a speed determined by the interplay of cell motility and growth, a well-known characteristic of Fisher's equation. The model explains the density - dependence of the colony expansion by demonstrating the presence of a lag phase -a transient period of very slow expansion with a duration dependent on the initial cell density. We propose that at a low initial density, more time is required for the cells to accumulate enough EPS to activate S-motility resulting in a longer lag period. Furthermore, our model makes the novel prediction that following the lag phase the population expands at a constant rate independent of the cell density. These predictions were confirmed by S motility experiments capturing long-term expansion dynamics.
+27362260	0	6	Colony	T017	UMLS:C1947989
+27362260	7	16	Expansion	T038	UMLS:C0007595
+27362260	20	35	Socially Motile	T038	UMLS:C1752723
+27362260	36	54	Myxococcus xanthus	T007	UMLS:C0085455
+27362260	55	60	Cells	T017	UMLS:C0007634
+27362260	74	80	Growth	T038	UMLS:C0007595
+27362260	82	90	Motility	T038	UMLS:C0007608
+27362260	96	113	Exopolysaccharide	T103	UMLS:C0032594
+27362260	125	143	Myxococcus xanthus	T007	UMLS:C0085455
+27362260	147	152	model	T170	UMLS:C3161035
+27362260	166	173	studies	T062	UMLS:C0008972
+27362260	177	199	multicellular behavior	T038	UMLS:C1327400
+27362260	203	211	bacteria	T007	UMLS:C0004611
+27362260	240	248	surfaces	T082	UMLS:C0205148
+27362260	284	292	motility	T038	UMLS:C1510470
+27362260	319	338	social (S) motility	T038	UMLS:C1752723
+27362260	371	381	retraction	T033	UMLS:C0332523
+27362260	385	397	type IV pili	T017	UMLS:C2752415
+27362260	427	445	exopolysaccharides	T103	UMLS:C0032594
+27362260	447	450	EPS	T103	UMLS:C0032594
+27362260	464	475	neighboring	T082	UMLS:C0205107
+27362260	476	481	cells	T017	UMLS:C0007634
+27362260	496	506	S motility	T038	UMLS:C1752723
+27362260	522	534	cell-to-cell	T017	UMLS:C0007634
+27362260	535	544	proximity	T082	UMLS:C1514583
+27362260	558	563	cells	T017	UMLS:C0007634
+27362260	571	582	translocate	T038	UMLS:C0599718
+27362260	584	600	Previous studies	T170	UMLS:C0023866
+27362260	611	621	S motility	T038	UMLS:C1752723
+27362260	639	645	colony	T017	UMLS:C1947989
+27362260	646	655	expansion	T038	UMLS:C0007595
+27362260	659	664	cells	T017	UMLS:C0007634
+27362260	678	682	agar	T103	UMLS:C0001771
+27362260	703	712	expansion	T038	UMLS:C0007595
+27362260	763	774	biophysical	T091	UMLS:C0005553
+27362260	819	832	To understand	T038	UMLS:C0162340
+27362260	849	859	S motility	T038	UMLS:C1752723
+27362260	868	874	colony	T017	UMLS:C1947989
+27362260	875	884	expansion	T038	UMLS:C0007595
+27362260	922	927	model	T170	UMLS:C3161035
+27362260	968	971	EPS	T103	UMLS:C0032594
+27362260	1012	1021	expansion	T038	UMLS:C0007595
+27362260	1070	1080	population	T098	UMLS:C1257890
+27362260	1081	1088	expands	T082	UMLS:C0205229
+27362260	1153	1166	cell motility	T038	UMLS:C0007608
+27362260	1171	1177	growth	T038	UMLS:C0018270
+27362260	1210	1227	Fisher's equation	T170	UMLS:C1708064
+27362260	1233	1238	model	T170	UMLS:C3161035
+27362260	1280	1286	colony	T017	UMLS:C1947989
+27362260	1287	1296	expansion	T038	UMLS:C0007595
+27362260	1365	1374	very slow	T033	UMLS:C0443347
+27362260	1375	1384	expansion	T038	UMLS:C0007595
+27362260	1392	1400	duration	T103	UMLS:C2926735
+27362260	1512	1517	cells	T017	UMLS:C0007634
+27362260	1521	1531	accumulate	T033	UMLS:C4055506
+27362260	1539	1542	EPS	T103	UMLS:C0032594
+27362260	1555	1565	S-motility	T038	UMLS:C1752723
+27362260	1617	1622	model	T170	UMLS:C3161035
+27362260	1683	1693	population	T098	UMLS:C1257890
+27362260	1694	1701	expands	T082	UMLS:C0205229
+27362260	1790	1800	S motility	T038	UMLS:C1752723
+27362260	1801	1812	experiments	T062	UMLS:C0681814
+27362260	1833	1842	expansion	T038	UMLS:C0007595

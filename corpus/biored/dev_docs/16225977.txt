@@ -1,0 +1,36 @@
+16225977|t|Amisulpride related tic-like symptoms in an adolescent schizophrenic.
+16225977|a|Tic disorders can be effectively treated by atypical antipsychotics such as risperidone, olanzapine and ziprasidone. However, there are two case reports that show tic-like symptoms, including motor and phonic variants, occurring during treatment with quetiapine or clozapine. We present a 15-year-old girl schizophrenic who developed frequent involuntary eye-blinking movements after 5 months of amisulpride treatment (1000 mg per day). The tic-like symptoms resolved completely after we reduced the dose of amisulpride down to 800 mg per day. However, her psychosis recurred after the dose reduction. We then placed her on an additional 100 mg per day of quetiapine. She has been in complete remission under the combined medications for more than one year and maintains a fair role function. No more tic-like symptoms or other side effects have been reported. Together with previously reported cases, our patient suggests that tic-like symptoms might occur in certain vulnerable individuals during treatment with atypical antipsychotics such as quetiapine, clozapine, or amisulpride.
+16225977	0	11	Amisulpride	ChemicalEntity	D000077582
+16225977	20	37	tic-like symptoms	DiseaseOrPhenotypicFeature	-
+16225977	55	68	schizophrenic	DiseaseOrPhenotypicFeature	D012559
+16225977	70	83	Tic disorders	DiseaseOrPhenotypicFeature	D013981
+16225977	123	137	antipsychotics	ChemicalEntity	D014150
+16225977	146	157	risperidone	ChemicalEntity	D018967
+16225977	159	169	olanzapine	ChemicalEntity	D000077152
+16225977	174	185	ziprasidone	ChemicalEntity	C092292
+16225977	233	250	tic-like symptoms	DiseaseOrPhenotypicFeature	-
+16225977	321	331	quetiapine	ChemicalEntity	D000069348
+16225977	335	344	clozapine	ChemicalEntity	D003024
+16225977	376	389	schizophrenic	DiseaseOrPhenotypicFeature	D012559
+16225977	413	447	involuntary eye-blinking movements	DiseaseOrPhenotypicFeature	D020820
+16225977	466	477	amisulpride	ChemicalEntity	D000077582
+16225977	511	528	tic-like symptoms	DiseaseOrPhenotypicFeature	-
+16225977	578	589	amisulpride	ChemicalEntity	D000077582
+16225977	627	636	psychosis	DiseaseOrPhenotypicFeature	D011605
+16225977	726	736	quetiapine	ChemicalEntity	D000069348
+16225977	871	888	tic-like symptoms	DiseaseOrPhenotypicFeature	-
+16225977	976	983	patient	OrganismTaxon	9606
+16225977	998	1015	tic-like symptoms	DiseaseOrPhenotypicFeature	-
+16225977	1093	1107	antipsychotics	ChemicalEntity	D014150
+16225977	1116	1126	quetiapine	ChemicalEntity	D000069348
+16225977	1128	1137	clozapine	ChemicalEntity	D003024
+16225977	1142	1153	amisulpride	ChemicalEntity	D000077582
+16225977	Negative_Correlation	D013981	C092292	No
+16225977	Negative_Correlation	D013981	D000077152	No
+16225977	Negative_Correlation	D013981	D018967	No
+16225977	Negative_Correlation	D013981	D014150	Novel
+16225977	Negative_Correlation	D011605	D000069348	Novel
+16225977	Positive_Correlation	D020820	D000077582	No
+16225977	Cotreatment	D000077582	D000069348	Novel
+16225977	Negative_Correlation	D000077582	D011605	Novel
+16225977	Negative_Correlation	D000077582	D012559	No

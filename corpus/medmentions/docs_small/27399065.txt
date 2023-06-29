@@ -1,0 +1,58 @@
+27399065|t|Vitamin D serum level is associated with Child-Pugh score and metabolic enzyme imbalances, but not viral load in chronic hepatitis B patients
+27399065|a|Vitamin D deficiency is common in patients with chronic liver diseases. However, vitamin D status in persons with chronic hepatitis B virus (HBV) infection is not consistently reported. Specifically, the impact of liver dysfunction on vitamin D status has not been well addressed.We recruited a group of patients (n = 345) with chronic hepatitis B (n = 115), hepatitis B related cirrhosis (n = 115), and age - and gender -matched healthy controls (n = 115). Serum 25-hydroxyvitamin D3 [25(OH)D3], its related metabolic enzymes, intact parathyroid hormone were measured. Calcium, magnesium, and phosphorus were obtained from medical record. Serum 25(OH)D3 levels in chronic hepatitis B patients (7.83 ± 3.47 ng/mL) were significantly lower than that in healthy controls (9.76 ± 4.36 ng/mL, P < 0.001), but significantly higher than that in hepatitis B-related cirrhotic patients (5.21 ± 3.67 ng/mL, P < 0.001). Furthermore, 25(OH)D3 decreased stepwise with higher Child-Pugh classification. However, there were no significant differences in 25(OH)D3 levels between (1) hepatitis B e antigen (HBeAg +) and HBeAg(-) persons, or (2) among persons with different HBV viral load, or (3) between treatment naïve and patients on antiviral therapy. Multiple logistic regression analyses confirmed that higher Child-Pugh score was independently associated with 25(OH)D3 deficiency (<10 ng/mL) with an odds ratio of 1.20 (confidence interval 1.03-1.39, P = 0.016). Levels of cytochrome P450 (CYP) 27A1 were significantly decreased, whereas levels of CYP24A1 were significantly elevated in cirrhotic patients .These results suggest that decreasing vitamin D levels are likely to be a result, rather than a cause, of liver dysfunction and irrespective of HBV viral load. Reduction in 25(OH)D3 levels is possibly due to downregulation of the synthetic hydroxylase CYP27A1 and concurrent upregulation of degrading CYP24A1 in patients with liver cirrhosis.
+27399065	0	9	Vitamin D	T103	UMLS:C0042866
+27399065	10	15	serum	T031	UMLS:C0229671
+27399065	41	57	Child-Pugh score	T170	UMLS:C2347612
+27399065	72	78	enzyme	T103	UMLS:C0014442
+27399065	79	89	imbalances	T033	UMLS:C1397014
+27399065	99	109	viral load	T033	UMLS:C0376705
+27399065	113	132	chronic hepatitis B	T038	UMLS:C0524909
+27399065	142	162	Vitamin D deficiency	T038	UMLS:C0042870
+27399065	190	212	chronic liver diseases	T038	UMLS:C0341439
+27399065	223	232	vitamin D	T103	UMLS:C0042866
+27399065	243	250	persons	T098	UMLS:C0027361
+27399065	256	297	chronic hepatitis B virus (HBV) infection	T038	UMLS:C0524909
+27399065	356	373	liver dysfunction	T038	UMLS:C0086565
+27399065	377	386	vitamin D	T103	UMLS:C0042866
+27399065	437	442	group	T098	UMLS:C1257890
+27399065	470	489	chronic hepatitis B	T038	UMLS:C0524909
+27399065	600	605	Serum	T031	UMLS:C0229671
+27399065	606	626	25-hydroxyvitamin D3	T103	UMLS:C0006657
+27399065	628	636	25(OH)D3	T103	UMLS:C0006657
+27399065	661	668	enzymes	T103	UMLS:C0014442
+27399065	677	696	parathyroid hormone	T103	UMLS:C0030520
+27399065	712	719	Calcium	T033	UMLS:C0428302
+27399065	721	730	magnesium	T033	UMLS:C1442943
+27399065	766	780	medical record	T170	UMLS:C0025102
+27399065	782	787	Serum	T031	UMLS:C0229671
+27399065	788	796	25(OH)D3	T103	UMLS:C0006657
+27399065	807	826	chronic hepatitis B	T038	UMLS:C0524909
+27399065	1065	1073	25(OH)D3	T103	UMLS:C0006657
+27399065	1105	1130	Child-Pugh classification	T170	UMLS:C2347612
+27399065	1182	1190	25(OH)D3	T103	UMLS:C0006657
+27399065	1210	1241	hepatitis B e antigen (HBeAg +)	T033	UMLS:C0392390
+27399065	1246	1254	HBeAg(-)	T033	UMLS:C0948827
+27399065	1255	1262	persons	T098	UMLS:C0027361
+27399065	1277	1284	persons	T098	UMLS:C0027361
+27399065	1300	1303	HBV	T005	UMLS:C0019169
+27399065	1304	1314	viral load	T033	UMLS:C0376705
+27399065	1331	1346	treatment naïve	T201	UMLS:C0919936
+27399065	1363	1380	antiviral therapy	T058	UMLS:C0280274
+27399065	1442	1458	Child-Pugh score	T170	UMLS:C2347612
+27399065	1493	1501	25(OH)D3	T103	UMLS:C0006657
+27399065	1606	1632	cytochrome P450 (CYP) 27A1	T103	UMLS:C0055530
+27399065	1681	1688	CYP24A1	T103	UMLS:C0055530
+27399065	1720	1729	cirrhotic	T038	UMLS:C1623038
+27399065	1767	1777	decreasing	T033	UMLS:C0442797
+27399065	1778	1787	vitamin D	T103	UMLS:C0042866
+27399065	1846	1863	liver dysfunction	T038	UMLS:C0086565
+27399065	1884	1887	HBV	T005	UMLS:C0019169
+27399065	1888	1898	viral load	T033	UMLS:C0376705
+27399065	1913	1921	25(OH)D3	T103	UMLS:C0006657
+27399065	1948	1962	downregulation	T038	UMLS:C0013081
+27399065	1970	1991	synthetic hydroxylase	T103	UMLS:C0055530
+27399065	1992	1999	CYP27A1	T103	UMLS:C0055530
+27399065	2015	2027	upregulation	T038	UMLS:C0041904
+27399065	2031	2040	degrading	T038	UMLS:C0597297
+27399065	2041	2048	CYP24A1	T103	UMLS:C0055530
+27399065	2066	2081	liver cirrhosis	T038	UMLS:C0023890

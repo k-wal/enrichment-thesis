@@ -1,0 +1,66 @@
+27860244|t|Role of protein arginine methyltransferase 5 in inflammation and migration of fibroblast-like synoviocytes in rheumatoid arthritis.
+27860244|a|To probe the role of protein arginine methyltransferase 5 (PRMT5) in regulating inflammation, cell proliferation, migration and invasion of fibroblast-like synoviocytes (FLSs) from patients with rheumatoid arthritis (RA). FLSs were separated from synovial tissues (STs) from patients with RA and osteoarthritis (OA). An inhibitor of PRMT5 (EPZ015666) and short interference RNA (siRNA) against PRMT5 were used to inhibit PRMT5 expression. The standard of protein was measured by Western blot or immunofluorescence. The excretion and genetic expression of inflammatory factors were, respectively, estimated by enzyme-linked immunosorbent assay (ELISA) and real-time polymerase chain reaction (PCR). Migration and invasion in vitro were detected by Boyden chamber assay. FLSs proliferation was detected by BrdU incorporation. Increased PRMT5 was discovered in STs and FLSs from patients with RA. In RA FLSs, the level of PRMT5 was up-regulated by stimulation with IL-1b and TNF-a. Inhibition of PRMT5 by EPZ015666 and siRNA-mediated knockdown reduced IL-6 and IL-8 production, and proliferation of RA FLSs. In addition, inhibition of PRMT5 decreased in vitro migration and invasion of RA FLSs. Furthermore, EPZ015666 restrained the phosphorylation of IkB kinaseb and IkBa, as well as nucleus transsituation of p65 as well as AKT in FLSs. PRMT5 regulated the production of inflammatory factors, cell proliferation, migration and invasion of RA FLS, which was mediated by the NF-kB and AKT pathways. Our data suggested that targeting PRMT5 to prevent synovial inflammation and destruction might be a promising therapy for RA.
+27860244	8	44	protein arginine methyltransferase 5	GeneOrGeneProduct	10419
+27860244	48	60	inflammation	DiseaseOrPhenotypicFeature	D007249
+27860244	110	130	rheumatoid arthritis	DiseaseOrPhenotypicFeature	D001172
+27860244	153	189	protein arginine methyltransferase 5	GeneOrGeneProduct	10419
+27860244	191	196	PRMT5	GeneOrGeneProduct	10419
+27860244	212	224	inflammation	DiseaseOrPhenotypicFeature	D007249
+27860244	313	321	patients	OrganismTaxon	9606
+27860244	327	347	rheumatoid arthritis	DiseaseOrPhenotypicFeature	D001172
+27860244	349	351	RA	DiseaseOrPhenotypicFeature	D001172
+27860244	407	415	patients	OrganismTaxon	9606
+27860244	421	423	RA	DiseaseOrPhenotypicFeature	D001172
+27860244	428	442	osteoarthritis	DiseaseOrPhenotypicFeature	D010003
+27860244	444	446	OA	DiseaseOrPhenotypicFeature	D010003
+27860244	465	470	PRMT5	GeneOrGeneProduct	10419
+27860244	472	481	EPZ015666	ChemicalEntity	C000599896
+27860244	526	531	PRMT5	GeneOrGeneProduct	10419
+27860244	553	558	PRMT5	GeneOrGeneProduct	10419
+27860244	687	699	inflammatory	DiseaseOrPhenotypicFeature	D007249
+27860244	966	971	PRMT5	GeneOrGeneProduct	10419
+27860244	1008	1016	patients	OrganismTaxon	9606
+27860244	1022	1024	RA	DiseaseOrPhenotypicFeature	D001172
+27860244	1029	1031	RA	DiseaseOrPhenotypicFeature	D001172
+27860244	1051	1056	PRMT5	GeneOrGeneProduct	10419
+27860244	1094	1099	IL-1b	GeneOrGeneProduct	3553
+27860244	1104	1109	TNF-a	GeneOrGeneProduct	7124
+27860244	1125	1130	PRMT5	GeneOrGeneProduct	10419
+27860244	1134	1143	EPZ015666	ChemicalEntity	C000599896
+27860244	1181	1185	IL-6	GeneOrGeneProduct	3569
+27860244	1190	1194	IL-8	GeneOrGeneProduct	3576
+27860244	1228	1230	RA	DiseaseOrPhenotypicFeature	D001172
+27860244	1264	1269	PRMT5	GeneOrGeneProduct	10419
+27860244	1315	1317	RA	DiseaseOrPhenotypicFeature	D001172
+27860244	1337	1346	EPZ015666	ChemicalEntity	C000599896
+27860244	1381	1392	IkB kinaseb	GeneOrGeneProduct	3551
+27860244	1397	1401	IkBa	GeneOrGeneProduct	4792
+27860244	1440	1443	p65	GeneOrGeneProduct	5970
+27860244	1455	1458	AKT	GeneOrGeneProduct	207
+27860244	1468	1473	PRMT5	GeneOrGeneProduct	10419
+27860244	1502	1514	inflammatory	DiseaseOrPhenotypicFeature	D007249
+27860244	1570	1572	RA	DiseaseOrPhenotypicFeature	D001172
+27860244	1604	1609	NF-kB	GeneOrGeneProduct	5970
+27860244	1614	1617	AKT	GeneOrGeneProduct	207
+27860244	1662	1667	PRMT5	GeneOrGeneProduct	10419
+27860244	1679	1700	synovial inflammation	DiseaseOrPhenotypicFeature	D013585
+27860244	1750	1752	RA	DiseaseOrPhenotypicFeature	D001172
+27860244	Association	C000599896	207	Novel
+27860244	Association	C000599896	5970	Novel
+27860244	Association	C000599896	4792	Novel
+27860244	Association	C000599896	3551	Novel
+27860244	Negative_Correlation	C000599896	3576	Novel
+27860244	Negative_Correlation	C000599896	3569	Novel
+27860244	Negative_Correlation	C000599896	10419	No
+27860244	Association	C000599896	D001172	Novel
+27860244	Association	10419	D013585	Novel
+27860244	Association	10419	D007249	Novel
+27860244	Association	10419	207	Novel
+27860244	Association	10419	5970	Novel
+27860244	Positive_Correlation	10419	3576	Novel
+27860244	Positive_Correlation	10419	3569	Novel
+27860244	Positive_Correlation	10419	7124	Novel
+27860244	Positive_Correlation	10419	3553	Novel
+27860244	Association	D001172	207	No
+27860244	Association	D001172	5970	No
+27860244	Association	D001172	10419	Novel

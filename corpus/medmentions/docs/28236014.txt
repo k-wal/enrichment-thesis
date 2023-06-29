@@ -1,0 +1,134 @@
+28236014|t|The SmartOR: a distributed sensor network to improve operating room efficiency
+28236014|a|Despite the significant expense of OR time, best practice achieves only 70% efficiency. Compounding this problem is a lack of real-time data. Most current OR utilization programs require manual data entry. Automated systems require installation and maintenance of expensive tracking hardware throughout the institution. This study developed an inexpensive, automated OR utilization system and analyzed data from multiple operating rooms. OR activity was deconstructed into four room states. A sensor network was then developed to automatically capture these states using only three sensors, a local wireless network, and a data capture computer. Two systems were then installed into two ORs, recordings captured 24/7. The SmartOR recorded the following events: any room activity, patient entry/exit time, anesthesia time, laparoscopy time, room turnover time, and time of preoperative patient identification by the surgeon. From November 2014 to December 2015, data on 1003 cases were collected. The mean turnover time was 36 min, and 38% of cases met the institutional goal of ≤30 min. Data analysis also identified outlier cases (>1 SD from mean) in the domains of time from patient entry into the OR to intubation (11% of cases) and time from extubation to patient exiting the OR (11% of cases). Time from surgeon identification of patient to scheduled procedure start time was 11 min (institution bylaws require 20 min before scheduled start time), yet OR teams required 22 min on average to bring a patient into the room after surgeon identification. The SmartOR automatically and reliably captures data on OR room state and, in real time, identifies outlier cases that may be examined closer to improve efficiency. As no manual entry is required, the data are indisputable and allow OR teams to maintain a patient -centric focus.
+28236014	4	11	SmartOR	T062	C0700032
+28236014	27	33	sensor	T073	C0183210
+28236014	34	41	network	T169	C1882071
+28236014	45	52	improve	T033	C0184511
+28236014	53	67	operating room	T073,T093	C0029064
+28236014	68	78	efficiency	T081	C0013682
+28236014	91	102	significant	T078	C0750502
+28236014	103	110	expense	T081	C0680864
+28236014	114	116	OR	T073,T093	C0029064
+28236014	117	121	time	T079	C0040223
+28236014	128	136	practice	T057	C0033284
+28236014	155	165	efficiency	T081	C0013682
+28236014	167	178	Compounding	T080	C0205198
+28236014	205	214	real-time	T079	C1550177
+28236014	215	219	data	T078	C1511726
+28236014	226	233	current	T079	C0521116
+28236014	234	236	OR	T073,T093	C0029064
+28236014	237	248	utilization	T169	C0042153
+28236014	249	257	programs	T169	C3484370
+28236014	258	265	require	T169	C1514873
+28236014	266	272	manual	T169	C0175674
+28236014	273	283	data entry	T170	C1705654
+28236014	285	302	Automated systems	T170	C0596139
+28236014	303	310	require	T169	C1514873
+28236014	328	339	maintenance	T052	C0024501
+28236014	343	352	expensive	T080	C0205556
+28236014	353	370	tracking hardware	T074	C0025080
+28236014	386	397	institution	T073,T093	C0018704
+28236014	404	409	study	T062	C2603343
+28236014	423	434	inexpensive	T080	C0205556
+28236014	436	445	automated	T169	C0205554
+28236014	446	448	OR	T073,T093	C0029064
+28236014	449	460	utilization	T169	C0042153
+28236014	461	467	system	T169	C0449913
+28236014	472	480	analyzed	T062	C0936012
+28236014	481	485	data	T078	C1511726
+28236014	491	499	multiple	T081	C0439064
+28236014	500	515	operating rooms	T073,T093	C0029064
+28236014	517	519	OR	T073,T093	C0029064
+28236014	520	528	activity	T052	C0441655
+28236014	557	561	room	T073,T093	C0029064
+28236014	562	568	states	T169	C1442792
+28236014	572	578	sensor	T073	C0183210
+28236014	579	586	network	T169	C1882071
+28236014	609	622	automatically	T033	C3842331
+28236014	637	643	states	T169	C1442792
+28236014	661	668	sensors	T073	C0183210
+28236014	672	677	local	T082	C0205276
+28236014	678	686	wireless	T073	C1520154
+28236014	687	694	network	T169	C1882071
+28236014	702	714	data capture	T062	C0010995
+28236014	715	723	computer	T073	C0009622
+28236014	729	736	systems	T169	C0449913
+28236014	766	769	ORs	T073,T093	C0029064
+28236014	771	781	recordings	T073	C3273359
+28236014	801	808	SmartOR	T062	C0700032
+28236014	832	838	events	T051	C0441471
+28236014	844	848	room	T073,T093	C0029064
+28236014	849	857	activity	T052	C0441655
+28236014	859	866	patient	T101	C0030705
+28236014	867	882	entry/exit time	T079	C1254367
+28236014	884	899	anesthesia time	T033	C2223561
+28236014	901	912	laparoscopy	T060	C0031150
+28236014	913	917	time	T079	C0040223
+28236014	919	923	room	T073,T093	C0029064
+28236014	924	937	turnover time	T079	C0040223
+28236014	943	947	time	T079	C0040223
+28236014	951	963	preoperative	T079	C0445204
+28236014	964	971	patient	T101	C0030705
+28236014	972	986	identification	T041	C0020792
+28236014	994	1001	surgeon	T097	C0582175
+28236014	1008	1016	November	T079	C3828767
+28236014	1025	1033	December	T080	C3830550
+28236014	1040	1044	data	T078	C1511726
+28236014	1053	1058	cases	T169	C0868928
+28236014	1079	1083	mean	T081	C0444504
+28236014	1084	1097	turnover time	T079	C0040223
+28236014	1121	1126	cases	T169	C0868928
+28236014	1135	1148	institutional	T073,T093	C0018704
+28236014	1166	1179	Data analysis	T057	C0010992
+28236014	1185	1195	identified	T041	C0020792
+28236014	1204	1209	cases	T169	C0868928
+28236014	1214	1216	SD	T081	C0871420
+28236014	1222	1226	mean	T081	C0444504
+28236014	1246	1250	time	T079	C0040223
+28236014	1256	1263	patient	T101	C0030705
+28236014	1279	1281	OR	T073,T093	C0029064
+28236014	1285	1295	intubation	T061	C0021925
+28236014	1304	1309	cases	T169	C0868928
+28236014	1315	1319	time	T079	C0040223
+28236014	1325	1335	extubation	T061	C0553891
+28236014	1339	1346	patient	T101	C0030705
+28236014	1359	1361	OR	T073,T093	C0029064
+28236014	1370	1375	cases	T169	C0868928
+28236014	1378	1382	Time	T079	C0040223
+28236014	1388	1395	surgeon	T097	C0582175
+28236014	1396	1410	identification	T041	C0020792
+28236014	1414	1421	patient	T101	C0030705
+28236014	1425	1444	scheduled procedure	T080	C0205539
+28236014	1445	1455	start time	T079	C1301880
+28236014	1468	1479	institution	T073,T093	C0018704
+28236014	1480	1486	bylaws	T089	C0006540
+28236014	1487	1494	require	T169	C1514873
+28236014	1509	1518	scheduled	T079	C1571999
+28236014	1525	1529	time	T079	C0040223
+28236014	1536	1544	OR teams	T080	C0520261
+28236014	1545	1553	required	T169	C1514873
+28236014	1564	1571	average	T081	C1510992
+28236014	1583	1590	patient	T101	C0030705
+28236014	1600	1604	room	T073,T093	C0029064
+28236014	1611	1618	surgeon	T097	C0582175
+28236014	1619	1633	identification	T041	C0020792
+28236014	1639	1646	SmartOR	T062	C0700032
+28236014	1647	1660	automatically	T033	C3842331
+28236014	1665	1673	reliably	T170	C3858758
+28236014	1683	1687	data	T078	C1511726
+28236014	1691	1693	OR	T073,T093	C0029064
+28236014	1694	1698	room	T073,T093	C0029064
+28236014	1699	1704	state	T169	C1442792
+28236014	1713	1722	real time	T079	C1550177
+28236014	1724	1734	identifies	T080	C0205396
+28236014	1743	1748	cases	T169	C0868928
+28236014	1761	1769	examined	T033	C0332128
+28236014	1780	1787	improve	T033	C0184511
+28236014	1788	1798	efficiency	T081	C0013682
+28236014	1806	1812	manual	T169	C0175674
+28236014	1822	1830	required	T169	C1514873
+28236014	1836	1840	data	T078	C1511726
+28236014	1845	1857	indisputable	T080	C0205556
+28236014	1868	1876	OR teams	T080	C0520261
+28236014	1880	1888	maintain	T052	C0024501
+28236014	1891	1898	patient	T101	C0030705

@@ -1,0 +1,105 @@
+28233874|t|Comprehensive analysis of long non-coding RNAs highlights their spatio-temporal expression patterns and evolutional conservation in Sus scrofa
+28233874|a|Despite modest sequence conservation and rapid evolution, long non-coding RNAs (lncRNAs) appear to be conserved in expression pattern and function. However, analysis of lncRNAs across tissues and developmental stages remains largely uncharacterized in mammals. Here, we systematically investigated the lncRNAs of the Guizhou miniature pig (Sus scrofa), which was widely used as biomedical model. We performed RNA sequencing across 9 organs and 3 developmental skeletal muscle, and developed a filtering pipeline to identify 10,813 lncRNAs (9,075 novel). Conservation patterns analysis revealed that 57% of pig lncRNAs showed homology to humans and mice based on genome alignment. 5,455 lncRNAs exhibited typical hallmarks of regulatory molecules, such as high spatio-temporal specificity. Notably, conserved lncRNAs exhibited higher tissue specificity than pig - specific lncRNAs and were significantly enriched in testis and ovary. Weighted co-expression network analysis revealed a set of conserved lncRNAs that are likely involved in postnatal muscle development. Based on the high degree of similarity in the structure, organization, and dynamic expression of pig lncRNAs compared with human and mouse lncRNAs, we propose that these lncRNAs play an important role in organ physiology and development in mammals. Our results provide a resource for studying animal evolution, morphological complexity, breeding, and biomedical research.
+28233874	0	13	Comprehensive	T080	C1880156
+28233874	14	22	analysis	T062	C0936012
+28233874	26	30	long	T080	C0205166
+28233874	31	46	non-coding RNAs	T114	C0887909
+28233874	64	79	spatio-temporal	T080	C0205556
+28233874	80	99	expression patterns	T059,T063	C0752248
+28233874	104	115	evolutional	T045	C0015219
+28233874	116	128	conservation	T080	C2347858
+28233874	132	142	Sus scrofa	T015	C1135183
+28233874	158	166	sequence	T086	C0162327
+28233874	167	179	conservation	T080	C2347858
+28233874	184	189	rapid	T080	C0456962
+28233874	190	199	evolution	T045	C0015219
+28233874	201	205	long	T080	C0205166
+28233874	206	221	non-coding RNAs	T114	C0887909
+28233874	223	230	lncRNAs	T114	C0887909
+28233874	245	254	conserved	T086	C0009802
+28233874	258	276	expression pattern	T059,T063	C0752248
+28233874	281	289	function	T039	C0031843
+28233874	300	308	analysis	T062	C0936012
+28233874	312	319	lncRNAs	T114	C0887909
+28233874	327	334	tissues	T024	C0040300
+28233874	339	359	developmental stages	T079	C0870411
+28233874	376	391	uncharacterized	T080	C0205556
+28233874	395	402	mammals	T015	C0024660
+28233874	413	427	systematically	T169	C0220922
+28233874	428	440	investigated	T169	C1292732
+28233874	445	452	lncRNAs	T114	C0887909
+28233874	460	467	Guizhou	T083	C0017446
+28233874	468	481	miniature pig	T015	C0024660
+28233874	483	493	Sus scrofa	T015	C1135183
+28233874	521	537	biomedical model	T075	C0026339
+28233874	542	551	performed	T169	C0884358
+28233874	552	566	RNA sequencing	T059,T063	C0917793
+28233874	576	582	organs	T023	C0178784
+28233874	589	602	developmental	T080	C0458003
+28233874	603	618	skeletal muscle	T024	C0242692
+28233874	636	654	filtering pipeline	T170	C0025663
+28233874	674	681	lncRNAs	T114	C0887909
+28233874	697	709	Conservation	T080	C2347858
+28233874	710	727	patterns analysis	T059,T063	C0752248
+28233874	728	736	revealed	T080	C0443289
+28233874	749	752	pig	T015	C1135183
+28233874	753	760	lncRNAs	T114	C0887909
+28233874	768	776	homology	T080	C2697616
+28233874	780	786	humans	T016	C0086418
+28233874	791	795	mice	T015	C0025929
+28233874	805	821	genome alignment	T063	C0080143
+28233874	829	836	lncRNAs	T114	C0887909
+28233874	855	864	hallmarks	T080	C0205556
+28233874	868	878	regulatory	T077	C1704735
+28233874	879	888	molecules	T167	C0567416
+28233874	898	902	high	T080	C0205250
+28233874	903	918	spatio-temporal	T080	C0205556
+28233874	919	930	specificity	T081	C0037791
+28233874	941	950	conserved	T086	C0009802
+28233874	951	958	lncRNAs	T114	C0887909
+28233874	969	975	higher	T080	C0205250
+28233874	976	994	tissue specificity	T042	C2713393
+28233874	1000	1003	pig	T015	C1135183
+28233874	1006	1014	specific	T080	C0205369
+28233874	1015	1022	lncRNAs	T114	C0887909
+28233874	1032	1045	significantly	T078	C0750502
+28233874	1058	1064	testis	T023	C0039597
+28233874	1069	1074	ovary	T023	C0029939
+28233874	1076	1084	Weighted	T170	C4291660
+28233874	1085	1098	co-expression	T045	C0017262
+28233874	1099	1115	network analysis	T170	C0868995
+28233874	1116	1124	revealed	T080	C0443289
+28233874	1134	1143	conserved	T086	C0009802
+28233874	1144	1151	lncRNAs	T114	C0887909
+28233874	1168	1176	involved	T169	C1314939
+28233874	1180	1189	postnatal	T079	C0443281
+28233874	1190	1208	muscle development	T042	C0949649
+28233874	1223	1227	high	T080	C0205250
+28233874	1228	1234	degree	T081	C0449286
+28233874	1238	1248	similarity	T080	C2348205
+28233874	1256	1265	structure	T082	C0678594
+28233874	1267	1279	organization	T039	C0029237
+28233874	1285	1292	dynamic	T169	C0729333
+28233874	1293	1303	expression	T045	C0017262
+28233874	1307	1310	pig	T015	C1135183
+28233874	1311	1318	lncRNAs	T114	C0887909
+28233874	1319	1327	compared	T052	C1707455
+28233874	1333	1338	human	T016	C0086418
+28233874	1343	1348	mouse	T015	C0025929
+28233874	1349	1356	lncRNAs	T114	C0887909
+28233874	1380	1387	lncRNAs	T114	C0887909
+28233874	1396	1405	important	T080	C3898777
+28233874	1406	1410	role	T170	C3871154
+28233874	1414	1419	organ	T023	C0178784
+28233874	1420	1430	physiology	T091	C0031842
+28233874	1435	1446	development	T038	C0242290
+28233874	1450	1457	mammals	T015	C0024660
+28233874	1463	1470	results	T033	C2825142
+28233874	1471	1478	provide	T052	C1999230
+28233874	1481	1489	resource	T078	C0178514
+28233874	1494	1502	studying	T059	C0947630
+28233874	1503	1509	animal	T008	C0003062
+28233874	1510	1519	evolution	T045	C0015219
+28233874	1521	1534	morphological	T082	C0543482
+28233874	1547	1555	breeding	T040	C0178477
+28233874	1561	1580	biomedical research	T062	C0005540

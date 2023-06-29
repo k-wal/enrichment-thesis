@@ -1,0 +1,62 @@
+27466053|t|Visual Analytics for Pattern Discovery in Home Care. Clinical Relevance for Quality Improvement
+27466053|a|Visualization can reduce the cognitive load of information, allowing users to easily interpret and assess large amounts of data. The purpose of our study was to examine home health data using visual analysis techniques to discover clinically salient associations between patient characteristics with problem-oriented health outcomes of older adult home health patients during the home health service period. Knowledge, Behavior and Status ratings at discharge as well as change from admission to discharge that was coded using the Omaha System was collected from a dataset on 988 de-identified patient data from 15 home health agencies. SPSS Visualization Designer v1.0 was used to visually analyze patterns between independent and outcome variables using heat maps and histograms. Visualizations suggesting clinical salience were tested for significance using correlation analysis. The mean age of the patients was 80 years, with the majority female (66%). Of the 150 visualizations, 69 potentially meaningful patterns were statistically evaluated through bivariate associations, revealing 21 significant associations. Further, 14 associations between episode length and Charlson co-morbidity index mainly with urinary related diagnoses and problems remained significant after adjustment analyses. Through visual analysis, the adverse association of the longer home health episode length and higher Charlson co-morbidity index with behavior or status outcomes for patients with impaired urinary function was revealed. We have demonstrated the use of visual analysis to discover novel patterns that described high-needs subgroups among the older home health patient population. The effective presentation of these data patterns can allow clinicians to identify areas of patient improvement, and time periods that are most effective for implementing home health interventions to improve patient outcomes.
+27466053	0	16	Visual Analytics	T060	C0042825
+27466053	21	38	Pattern Discovery	T041	C1518918
+27466053	42	51	Home Care	T058	C0994454
+27466053	53	71	Clinical Relevance	T080	C2347946
+27466053	76	95	Quality Improvement	T057	C2936612
+27466053	96	109	Visualization	T041	C0175631
+27466053	125	154	cognitive load of information	T081	C0870301
+27466053	181	190	interpret	T169	C1285553
+27466053	195	223	assess large amounts of data	T058	C0184514
+27466053	265	281	home health data	T170	C3878819
+27466053	288	314	visual analysis techniques	T060	C3536884
+27466053	327	345	clinically salient	T080	C0449440
+27466053	346	358	associations	T078	C0750490
+27466053	367	390	patient characteristics	T201	C0815172
+27466053	396	428	problem-oriented health outcomes	T170	C1550208
+27466053	432	464	older adult home health patients	T058	C1443513
+27466053	476	495	home health service	T058	C0184605
+27466053	504	513	Knowledge	T170	C0376554
+27466053	515	523	Behavior	T053	C0004927
+27466053	528	542	Status ratings	T081,T170	C0681889
+27466053	546	555	discharge	T058	C0030685
+27466053	579	588	admission	T058	C0030673
+27466053	592	601	discharge	T058	C0030685
+27466053	627	639	Omaha System	T170	C1140113
+27466053	661	668	dataset	T170	C0150098
+27466053	690	702	patient data	T170	C2707520
+27466053	711	731	home health agencies	T093	C0019859
+27466053	733	765	SPSS Visualization Designer v1.0	T170	C0037589
+27466053	778	803	visually analyze patterns	T060	C0042825
+27466053	852	861	heat maps	T078	C1609081
+27466053	866	876	histograms	T073	C2348974
+27466053	878	892	Visualizations	T041	C0175631
+27466053	904	921	clinical salience	T033	C2826293
+27466053	927	933	tested	T169	C0039593
+27466053	957	977	correlation analysis	T062,T170	C0010101
+27466053	999	1007	patients	T101	C0030705
+27466053	1040	1046	female	T032	C0086287
+27466053	1065	1079	visualizations	T041	C0175631
+27466053	1096	1115	meaningful patterns	T078	C1609081
+27466053	1153	1175	bivariate associations	UnknownType	C0681927
+27466053	1202	1214	associations	T078	C0750490
+27466053	1228	1240	associations	T078	C0750490
+27466053	1268	1295	Charlson co-morbidity index	T170	C3714916
+27466053	1308	1315	urinary	T080	C1524119
+27466053	1324	1346	diagnoses and problems	T047	C0338067
+27466053	1403	1418	visual analysis	T060	C0042825
+27466053	1432	1443	association	T078	C0750490
+27466053	1458	1477	home health episode	T058	C0085554
+27466053	1496	1523	Charlson co-morbidity index	T170	C3714916
+27466053	1529	1556	behavior or status outcomes	T033	C0243095
+27466053	1561	1569	patients	T101	C0030705
+27466053	1575	1600	impaired urinary function	T047	C0871563
+27466053	1647	1662	visual analysis	T060	C0042825
+27466053	1716	1725	subgroups	T185	C1515021
+27466053	1736	1772	older home health patient population	T081	C2361270
+27466053	1810	1823	data patterns	T078	C1609081
+27466053	1834	1844	clinicians	T097	C0871685
+27466053	1866	1885	patient improvement	T057	C3858649
+27466053	1945	1970	home health interventions	T058	C1553498
+27466053	1982	1998	patient outcomes	T058	C0030698

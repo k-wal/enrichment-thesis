@@ -1,0 +1,92 @@
+28103546|t|Quantifying Net Synergy / Redundancy of Spontaneous Variability Regulation via Predictability and Transfer Entropy Decomposition Frameworks
+28103546|a|Indexes assessing the balance between redundancy and synergy were hypothesized to be helpful in characterizing cardiovascular control from spontaneous beat-to-beat variations of heart period (HP), systolic arterial pressure (SAP) and respiration (R). Net redundancy / synergy indexes were derived according to predictability and transfer entropy decomposition strategies via a multivariate linear regression approach. Indexes were tested in two protocols inducing modifications of the cardiovascular regulation via baroreflex loading / unloading (i.e. head-down tilt at -25° and graded head-up tilt at 15°, 30°, 45°, 60°, 75° and 90° respectively). The net redundancy / synergy of SAP and R to HP and of HP and R to SAP were estimated over stationary sequences of 256 successive values. We found that: i) regardless of the target (i.e. HP or SAP) redundancy was prevalent over synergy and this prevalence was independent of type and magnitude of the baroreflex challenge; ii) the prevalence of redundancy disappeared when decoupling inputs from output via surrogate approach; iii) net redundancy was under autonomic control given that it varied in proportion to the vagal withdrawal during graded head-up tilt; iv) conclusions held regardless of the decomposition strategy. Net redundancy indexes can monitor changes of cardiovascular control from a perspective completely different from that provided by more traditional univariate and multivariate methods. Net redundancy measures might provide a practical tool to quantify the reservoir of effective cardiovascular regulatory mechanisms sharing causal influences over a target variable.
+28103546	0	11	Quantifying	T081	C1709793
+28103546	16	23	Synergy	T169	C1704675
+28103546	26	36	Redundancy	T169	C1313915
+28103546	40	51	Spontaneous	T169	C0205359
+28103546	52	63	Variability	T077	C2827666
+28103546	64	74	Regulation	T038	C1327622
+28103546	79	93	Predictability	T081	C0237793
+28103546	107	114	Entropy	T067	C0376522
+28103546	115	139	Decomposition Frameworks	T062	C0035171
+28103546	140	147	Indexes	T170	C0600653
+28103546	148	157	assessing	T052	C1516048
+28103546	178	188	redundancy	T169	C1313915
+28103546	193	200	synergy	T169	C1704675
+28103546	206	218	hypothesized	T078	C1512571
+28103546	236	250	characterizing	T052	C1880022
+28103546	251	265	cardiovascular	T029	C3887460
+28103546	279	290	spontaneous	T169	C0205359
+28103546	291	303	beat-to-beat	T042	C0425583
+28103546	304	314	variations	T080	C0205419
+28103546	318	323	heart	T023	C0018787
+28103546	324	330	period	T079	C1948053
+28103546	332	334	HP	T079	C1948053
+28103546	337	363	systolic arterial pressure	T201	C0871470
+28103546	365	368	SAP	T201	C0871470
+28103546	374	385	respiration	T039	C0035203
+28103546	387	388	R	T039	C0035203
+28103546	395	405	redundancy	T169	C1313915
+28103546	408	415	synergy	T169	C1704675
+28103546	416	423	indexes	T170	C0600653
+28103546	450	464	predictability	T081	C0237793
+28103546	478	485	entropy	T067	C0376522
+28103546	517	529	multivariate	T081	C0026777
+28103546	530	547	linear regression	T081	C0023733
+28103546	558	565	Indexes	T170	C0600653
+28103546	571	577	tested	T169	C0039593
+28103546	585	594	protocols	T170	C2348563
+28103546	604	617	modifications	T169	C0392747
+28103546	625	639	cardiovascular	T029	C3887460
+28103546	640	650	regulation	T038	C1327622
+28103546	655	665	baroreflex	T042	C0206162
+28103546	666	673	loading	T169	C0542341
+28103546	676	685	unloading	T169	C0542341
+28103546	692	706	head-down tilt	T082	C0242683
+28103546	719	738	graded head-up tilt	T082	C1254362
+28103546	797	807	redundancy	T169	C1313915
+28103546	810	817	synergy	T169	C1704675
+28103546	821	824	SAP	T201	C0871470
+28103546	829	830	R	T039	C0035203
+28103546	834	836	HP	T079	C1948053
+28103546	844	846	HP	T079	C1948053
+28103546	851	852	R	T039	C0035203
+28103546	856	859	SAP	T201	C0871470
+28103546	880	890	stationary	T080	C0439835
+28103546	891	900	sequences	T169	C1519249
+28103546	919	925	values	T080	C0042295
+28103546	963	969	target	T169	C1521840
+28103546	976	978	HP	T079	C1948053
+28103546	982	985	SAP	T201	C0871470
+28103546	987	997	redundancy	T169	C1313915
+28103546	1017	1024	synergy	T169	C1704675
+28103546	1034	1044	prevalence	T081	C0220900
+28103546	1073	1082	magnitude	T081	C1704240
+28103546	1090	1100	baroreflex	T042	C0206162
+28103546	1120	1130	prevalence	T081	C0220900
+28103546	1134	1144	redundancy	T169	C1313915
+28103546	1145	1156	disappeared	T080	C0205556
+28103546	1162	1172	decoupling	T067	C1254366
+28103546	1173	1179	inputs	T077	C1708517
+28103546	1185	1191	output	T077	C1709366
+28103546	1196	1205	surrogate	T169	C0559956
+28103546	1225	1235	redundancy	T169	C1313915
+28103546	1246	1263	autonomic control	T169	C2587213
+28103546	1306	1311	vagal	T023	C1510461
+28103546	1330	1349	graded head-up tilt	T082	C1254362
+28103546	1390	1412	decomposition strategy	T062	C0035171
+28103546	1418	1428	redundancy	T169	C1313915
+28103546	1429	1436	indexes	T170	C0600653
+28103546	1441	1448	monitor	T058	C1283169
+28103546	1460	1474	cardiovascular	T029	C3887460
+28103546	1562	1572	univariate	T062	C0683962
+28103546	1577	1597	multivariate methods	T081	C0026777
+28103546	1603	1613	redundancy	T169	C1313915
+28103546	1657	1665	quantify	T081	C1709793
+28103546	1683	1692	effective	T080	C1704419
+28103546	1693	1707	cardiovascular	T029	C3887460
+28103546	1708	1718	regulatory	T038	C1327622
+28103546	1719	1729	mechanisms	T169	C0441712
+28103546	1745	1755	influences	T077	C4054723
+28103546	1763	1769	target	T169	C1521840
+28103546	1770	1778	variable	T080	C0439828

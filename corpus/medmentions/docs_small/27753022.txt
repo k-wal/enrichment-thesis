@@ -1,0 +1,45 @@
+27753022|t|Implementing Non-Invasive Prenatal Diagnosis (NIPD) in a National Health Service Laboratory; From Dominant to Recessive Disorders
+27753022|a|Our UK National Health Service regional genetics laboratory offers NIPD for autosomal dominant and de novo conditions (achondroplasia, thanataphoric dysplasia, Apert syndrome), paternal mutation exclusion for cystic fibrosis and a range of bespoke tests. NIPD avoids the risks associated with invasive testing, making prenatal diagnosis more accessible to families at high genetic risk. However, the challenge remains in offering definitive diagnosis for autosomal recessive diseases, which is complicated by the predominance of the maternal mutant allele in the cell-free DNA sample and thus requires a variety of different approaches. Validation and diagnostic implementation for NIPD of congenital adrenal hyperplasia (CAH) is further complicated by presence of a pseudogene that requires a different approach. We have used an assay targeting approximately 6700 heterozygous SNPs around the CAH gene (CYP21A2) to construct the high-risk parental haplotypes and tested this approach in five cases, showing that inheritance of the parental alleles can be correctly identified using NIPD. We are evaluating various measures of the fetal fraction to help determine inheritance of parental mutations. We are currently exploring the utility of an NIPD multi-disorder panel for autosomal recessive disease, to make testing more widely applicable to families with a variety of serious genetic conditions.
+27753022	26	44	Prenatal Diagnosis	T058	UMLS:C0033053
+27753022	46	50	NIPD	T058	UMLS:C0033053
+27753022	57	91	National Health Service Laboratory	T092	UMLS:C0022877
+27753022	120	129	Disorders	T038	UMLS:C0012634
+27753022	134	189	UK National Health Service regional genetics laboratory	T092	UMLS:C0022877
+27753022	197	201	NIPD	T058	UMLS:C0033053
+27753022	206	224	autosomal dominant	T038	UMLS:C0443147
+27753022	249	263	achondroplasia	T017	UMLS:C0001080
+27753022	265	288	thanataphoric dysplasia	T017	UMLS:C0039743
+27753022	290	304	Apert syndrome	T017	UMLS:C0001193
+27753022	316	324	mutation	T038	UMLS:C0026882
+27753022	339	354	cystic fibrosis	T038	UMLS:C0010674
+27753022	385	389	NIPD	T058	UMLS:C0033053
+27753022	401	406	risks	T033	UMLS:C0035648
+27753022	423	439	invasive testing	T058	UMLS:C0430022
+27753022	448	466	prenatal diagnosis	T058	UMLS:C0033053
+27753022	571	580	diagnosis	T033	UMLS:C0011900
+27753022	585	613	autosomal recessive diseases	T038	UMLS:C0265388
+27753022	672	678	mutant	T038	UMLS:C0596988
+27753022	679	685	allele	T017	UMLS:C0002085
+27753022	693	706	cell-free DNA	T103	UMLS:C4289789
+27753022	755	765	approaches	T082	UMLS:C0449445
+27753022	767	777	Validation	T062	UMLS:C1519941
+27753022	812	816	NIPD	T058	UMLS:C0033053
+27753022	820	850	congenital adrenal hyperplasia	T038	UMLS:C0001627
+27753022	852	855	CAH	T038	UMLS:C0001627
+27753022	883	891	presence	T033	UMLS:C0150312
+27753022	897	907	pseudogene	T017	UMLS:C0033799
+27753022	934	942	approach	T082	UMLS:C0449445
+27753022	960	965	assay	T058	UMLS:C0005507
+27753022	1008	1012	SNPs	T082	UMLS:C0752046
+27753022	1024	1032	CAH gene	T017	UMLS:C1413861
+27753022	1034	1041	CYP21A2	T017	UMLS:C1413861
+27753022	1060	1069	high-risk	T033	UMLS:C0332167
+27753022	1106	1114	approach	T082	UMLS:C0449445
+27753022	1171	1178	alleles	T017	UMLS:C0002085
+27753022	1213	1217	NIPD	T058	UMLS:C0033053
+27753022	1261	1266	fetal	T017	UMLS:C0015965
+27753022	1318	1327	mutations	T038	UMLS:C0026882
+27753022	1374	1378	NIPD	T058	UMLS:C0033053
+27753022	1379	1399	multi-disorder panel	T058	UMLS:C0022885
+27753022	1404	1431	autosomal recessive disease	T038	UMLS:C0265388
+27753022	1510	1528	genetic conditions	T038	UMLS:C0019247

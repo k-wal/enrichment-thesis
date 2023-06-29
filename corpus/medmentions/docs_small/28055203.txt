@@ -1,0 +1,27 @@
+28055203|t|From Homology Models to a Set of Predictive Binding Pockets -a 5-HT1A Receptor Case Study
+28055203|a|Despite its remarkable importance in the arena of drug design, serotonin 1A receptor (5-HT1A) has been elusive to the X-ray crystallography community. This lack of direct structural information not only hampers our knowledge regarding the binding modes of many popular ligands (including the endogenous neurotransmitter - serotonin), but also limits the search for more potent compounds. In this paper we shed new light on the 3D pharmacological properties of the 5-HT1A receptor by using a ligand-guided approach (ALiBERO) grounded in the Internal Coordinate Mechanics (ICM) docking platform. Starting from a homology template and set of known actives, the method introduces receptor flexibility via Normal Mode Analysis and Monte Carlo sampling, to generate a subset of pockets that display enriched discrimination of actives from inactives in retrospective docking. Here, we thoroughly investigated the repercussions of using different protein templates and the effect of compound selection on screening performance. Finally, the best resulting protein models were applied prospectively in a large virtual screening campaign, in which two new active compounds were identified that were chemically distinct from those described in the literature.
+28055203	5	20	Homology Models	T062	UMLS:C1512489
+28055203	44	59	Binding Pockets	T103	UMLS:C0005456
+28055203	63	78	5-HT1A Receptor	T103	UMLS:C0379900
+28055203	79	89	Case Study	T062	UMLS:C2603343
+28055203	153	174	serotonin 1A receptor	T103	UMLS:C0379900
+28055203	176	182	5-HT1A	T103	UMLS:C0379900
+28055203	208	229	X-ray crystallography	T058	UMLS:C0206755
+28055203	261	271	structural	T082	UMLS:C0678594
+28055203	329	342	binding modes	T038	UMLS:C1167622
+28055203	359	366	ligands	T103	UMLS:C0023688
+28055203	393	409	neurotransmitter	T103	UMLS:C0027908
+28055203	412	421	serotonin	T103	UMLS:C0036751
+28055203	467	476	compounds	T103	UMLS:C1706082
+28055203	517	519	3D	T082	UMLS:C0450363
+28055203	554	569	5-HT1A receptor	T103	UMLS:C0379900
+28055203	630	659	Internal Coordinate Mechanics	T170	UMLS:C0037585
+28055203	661	664	ICM	T170	UMLS:C0037585
+28055203	666	673	docking	T038	UMLS:C1522290
+28055203	766	774	receptor	T103	UMLS:C0597357
+28055203	791	811	Normal Mode Analysis	T062	UMLS:C0936012
+28055203	862	869	pockets	T103	UMLS:C0005456
+28055203	950	957	docking	T038	UMLS:C1522290
+28055203	1065	1073	compound	T103	UMLS:C1706082
+28055203	1243	1252	compounds	T103	UMLS:C1706082
+28055203	1327	1337	literature	T170	UMLS:C0023866

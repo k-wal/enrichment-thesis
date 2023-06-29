@@ -1,0 +1,82 @@
+27373836|t|NBLAST: Rapid, Sensitive Comparison of Neuronal Structure and Construction of Neuron Family Databases
+27373836|a|Neural circuit mapping is generating datasets of tens of thousands of labeled neurons. New computational tools are needed to search and organize these data. We present NBLAST, a sensitive and rapid algorithm, for measuring pairwise neuronal similarity. NBLAST considers both position and local geometry, decomposing neurons into short segments; matched segments are scored using a probabilistic scoring matrix defined by statistics of matches and non-matches. We validated NBLAST on a published dataset of 16,129 single Drosophila neurons. NBLAST can distinguish neuronal types down to the finest level (single identified neurons) without a priori information. Cluster analysis of extensively studied neuronal classes identified new types and unreported topographical features. Fully automated clustering organized the validation dataset into 1,052 clusters, many of which map onto previously described neuronal types. NBLAST supports additional query types, including searching neurons against transgene expression patterns. Finally, we show that NBLAST is effective with data from other invertebrates and zebrafish.
+27373836	0	6	NBLAST	T170	C2698333
+27373836	8	13	Rapid	T080	C0456962
+27373836	15	24	Sensitive	T169	C0332324
+27373836	25	35	Comparison	T052	C1707455
+27373836	39	47	Neuronal	T025	C0027882
+27373836	48	57	Structure	T082	C0678594
+27373836	62	74	Construction	T169	C0205245
+27373836	78	84	Neuron	T025	C0027882
+27373836	85	101	Family Databases	T170	C0242356
+27373836	102	124	Neural circuit mapping	T052	C1283195
+27373836	139	147	datasets	T170	C0150098
+27373836	172	179	labeled	T080	C1708632
+27373836	180	187	neurons	T025	C0027882
+27373836	193	206	computational	T052	C1880157
+27373836	207	212	tools	T170	C0037589
+27373836	227	233	search	T052	C1706202
+27373836	238	246	organize	T169	C1300196
+27373836	253	257	data	T078	C1511726
+27373836	270	276	NBLAST	T170	C2698333
+27373836	280	289	sensitive	T169	C0332324
+27373836	294	299	rapid	T080	C0456962
+27373836	300	309	algorithm	T170	C0002045
+27373836	315	324	measuring	T080	C0444706
+27373836	325	353	pairwise neuronal similarity	T052	C0441655
+27373836	355	361	NBLAST	T170	C2698333
+27373836	377	385	position	T082	C1550045
+27373836	390	395	local	T082	C0205276
+27373836	396	404	geometry	T082	C1254362
+27373836	406	417	decomposing	T052	C0441655
+27373836	418	425	neurons	T025	C0027882
+27373836	431	436	short	T081	C1806781
+27373836	437	445	segments	T082	C0442059
+27373836	447	454	matched	T080	C1708943
+27373836	455	463	segments	T082	C0442059
+27373836	468	474	scored	T081	C0449820
+27373836	483	511	probabilistic scoring matrix	T081	C2717845
+27373836	523	533	statistics	UnknownType	C0681933
+27373836	537	544	matches	T080	C1708943
+27373836	549	560	non-matches	T080	C0205556
+27373836	575	581	NBLAST	T170	C2698333
+27373836	587	596	published	T057	C0034037
+27373836	597	604	dataset	T170	C0150098
+27373836	615	621	single	T081	C0205171
+27373836	622	632	Drosophila	T204	C0013138
+27373836	633	640	neurons	T025	C0027882
+27373836	642	648	NBLAST	T170	C2698333
+27373836	665	673	neuronal	T025	C0027882
+27373836	674	679	types	T080	C0332307
+27373836	680	684	down	T082	C0205104
+27373836	692	698	finest	T080	C0205232
+27373836	699	704	level	T080	C0441889
+27373836	706	712	single	T081	C0205171
+27373836	713	723	identified	T080	C0205396
+27373836	724	731	neurons	T025	C0027882
+27373836	743	761	priori information	T078	C1533716
+27373836	763	779	Cluster analysis	T062	C0009085
+27373836	803	811	neuronal	T025	C0027882
+27373836	812	819	classes	T170	C0456387
+27373836	820	830	identified	T080	C0205396
+27373836	835	840	types	T080	C0332307
+27373836	845	855	unreported	T033	C1549114
+27373836	856	878	topographical features	T080	C1521970
+27373836	880	906	Fully automated clustering	T062	C0009085
+27373836	907	916	organized	T169	C1300196
+27373836	921	931	validation	T062	C1519941
+27373836	932	939	dataset	T170	C0150098
+27373836	951	959	clusters	T081	C1704332
+27373836	975	978	map	T052	C1283195
+27373836	1005	1013	neuronal	T025	C0027882
+27373836	1014	1019	types	T080	C0332307
+27373836	1021	1027	NBLAST	T170	C2698333
+27373836	1048	1053	query	T170	C1522634
+27373836	1054	1059	types	T080	C0332307
+27373836	1071	1080	searching	T052	C1706202
+27373836	1081	1088	neurons	T025	C0027882
+27373836	1097	1126	transgene expression patterns	T082	C0449774
+27373836	1150	1156	NBLAST	T170	C2698333
+27373836	1175	1179	data	T078	C1511726
+27373836	1191	1204	invertebrates	T204	C0021948
+27373836	1209	1218	zebrafish	T013	C0043457

@@ -1,0 +1,63 @@
+27464336|t|Decreased Whole-Body Fat Mass Produced by Chronic Alcohol Consumption is Associated with Activation of S6K1-Mediated Protein Synthesis and Increased Autophagy in Epididymal White Adipose Tissue.
+27464336|a|BACKGROUND: Chronic alcohol consumption leads to a loss of white adipose tissue (WAT) but the underlying mechanisms for this lipodystrophy are not fully elucidated. This study tested the hypothesis that the reduction in WAT mass in chronic alcohol-fed mice is associated with a decreased protein synthesis specifically related to impaired function of mammalian target of rapamycin (mTOR). METHODS: Adult male mice were provided an alcohol-containing liquid diet for 24 weeks or an isonitrogenous isocaloric control diet. In vivo protein synthesis was determined at this time and thereafter epididymal WAT (eWAT) was excised for analysis of signal transduction pathways central to controling protein synthesis and degradation. RESULTS: While chronic alcohol feeding decreased whole-body and eWAT mass, this was associated with a discordant increase in protein synthesis in eWAT. This increase was not associated with a change in mTOR, 4E-BP1, Akt, or PRAS40 phosphorylation. Instead, a selective increase in phosphorylation of S6K1 and its downstream substrates, S6 and eIF4B was detected in alcohol-fed mice. Alcohol also increased eEF2K phosphorylation and decreased eEF2 phosphorylation consistent with increased translation elongation. Alcohol increased Atg12-5, LC3B-I and -II, and ULK1 S555 phosphorylation, suggesting increased autophagy, while markers of apoptosis (cleaved caspase-3 and -9, and PARP) were unchanged. Lipolytic enzymes (ATGL and HSL phosphorylation) were increased and lipogenic regulators (PPARgamma and C/EBPalpha) were decreased in eWAT by alcohol. Although alcohol increased TNF-alpha, IL-6, and IL-1beta mRNA, no change in key components of the NLRP3 inflammasome (NLRP3, ACS, and cleaved caspase-1) was detected suggesting alcohol did not increase pyroptosis. Plasma insulin did not differ between groups. CONCLUSIONS: These results demonstrate that the alcohol-induced decrease in whole-body fat mass resulted in part from activation of autophagy in eWAT as protein synthesis was increased and mediated by the specific increase in the activity of S6K1.
+27464336	50	57	Alcohol	ChemicalEntity	D000438
+27464336	103	107	S6K1	GeneOrGeneProduct	72508
+27464336	215	222	alcohol	ChemicalEntity	D000438
+27464336	320	333	lipodystrophy	DiseaseOrPhenotypicFeature	D008060
+27464336	435	442	alcohol	ChemicalEntity	D000438
+27464336	447	451	mice	OrganismTaxon	10090
+27464336	546	575	mammalian target of rapamycin	GeneOrGeneProduct	56717
+27464336	577	581	mTOR	GeneOrGeneProduct	56717
+27464336	604	608	mice	OrganismTaxon	10090
+27464336	626	633	alcohol	ChemicalEntity	D000438
+27464336	944	951	alcohol	ChemicalEntity	D000438
+27464336	1123	1127	mTOR	GeneOrGeneProduct	56717
+27464336	1129	1135	4E-BP1	GeneOrGeneProduct	13685
+27464336	1137	1140	Akt	GeneOrGeneProduct	11651
+27464336	1145	1151	PRAS40	GeneOrGeneProduct	67605
+27464336	1221	1225	S6K1	GeneOrGeneProduct	72508
+27464336	1257	1259	S6	GeneOrGeneProduct	20104
+27464336	1264	1269	eIF4B	GeneOrGeneProduct	75705
+27464336	1286	1293	alcohol	ChemicalEntity	D000438
+27464336	1298	1302	mice	OrganismTaxon	10090
+27464336	1304	1311	Alcohol	ChemicalEntity	D000438
+27464336	1327	1332	eEF2K	GeneOrGeneProduct	13631
+27464336	1363	1367	eEF2	GeneOrGeneProduct	13629
+27464336	1434	1441	Alcohol	ChemicalEntity	D000438
+27464336	1452	1459	Atg12-5	GeneOrGeneProduct	11793,67526
+27464336	1461	1475	LC3B-I and -II	GeneOrGeneProduct	67443
+27464336	1481	1485	ULK1	GeneOrGeneProduct	22241
+27464336	1486	1490	S555	SequenceVariant	p|Allele|S|555
+27464336	1576	1592	caspase-3 and -9	GeneOrGeneProduct	12367,12371
+27464336	1598	1602	PARP	GeneOrGeneProduct	11545
+27464336	1639	1643	ATGL	GeneOrGeneProduct	66853
+27464336	1648	1651	HSL	GeneOrGeneProduct	16890
+27464336	1710	1719	PPARgamma	GeneOrGeneProduct	19016
+27464336	1724	1734	C/EBPalpha	GeneOrGeneProduct	12606
+27464336	1762	1769	alcohol	ChemicalEntity	D000438
+27464336	1780	1787	alcohol	ChemicalEntity	D000438
+27464336	1798	1807	TNF-alpha	GeneOrGeneProduct	21926
+27464336	1809	1813	IL-6	GeneOrGeneProduct	16193
+27464336	1819	1827	IL-1beta	GeneOrGeneProduct	16176
+27464336	1869	1874	NLRP3	GeneOrGeneProduct	216799
+27464336	1889	1894	NLRP3	GeneOrGeneProduct	216799
+27464336	1896	1899	ACS	GeneOrGeneProduct	66824
+27464336	1913	1922	caspase-1	GeneOrGeneProduct	12362
+27464336	1948	1955	alcohol	ChemicalEntity	D000438
+27464336	1992	1999	insulin	GeneOrGeneProduct	16334
+27464336	2079	2086	alcohol	ChemicalEntity	D000438
+27464336	2273	2277	S6K1	GeneOrGeneProduct	72508
+27464336	Positive_Correlation	D000438	66853	Novel
+27464336	Positive_Correlation	D000438	67443	Novel
+27464336	Positive_Correlation	D000438	22241	Novel
+27464336	Positive_Correlation	D000438	67526	Novel
+27464336	Positive_Correlation	D000438	11793	Novel
+27464336	Positive_Correlation	D000438	75705	Novel
+27464336	Positive_Correlation	D000438	20104	Novel
+27464336	Positive_Correlation	D000438	16176	Novel
+27464336	Positive_Correlation	D000438	16193	Novel
+27464336	Positive_Correlation	D000438	21926	Novel
+27464336	Negative_Correlation	D000438	12606	Novel
+27464336	Negative_Correlation	D000438	19016	Novel
+27464336	Positive_Correlation	D000438	16890	Novel
+27464336	Association	D000438	72508	Novel

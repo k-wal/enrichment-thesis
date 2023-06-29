@@ -1,0 +1,95 @@
+28322744|t|Basal ryanodine receptor activity suppresses autophagic flux
+28322744|a|The inositol 1,4,5-trisphosphate receptors (IP3Rs) and intracellular Ca(2+) signaling are critically involved in regulating different steps of autophagy, a lysosomal degradation pathway. The ryanodine receptors (RyR), intracellular Ca(2+)-release channels mainly expressed in excitable cell types including muscle and neurons, have however not yet been extensively studied in relation to autophagy. Yet, aberrant expression and excessive activity of RyRs in these tissues has been implicated in the onset of several diseases including Alzheimer's disease, where impaired autophagy regulation contributes to the pathology. In this study, we determined whether pharmacological RyR inhibition could modulate autophagic flux in ectopic RyR - expressing models, like HEK293 cells and in cell types that endogenously express RyR s, like C2C12 myoblasts and primary hippocampal neurons. Importantly, RyR3 overexpression in HEK293 cells impaired the autophagic flux. Conversely, in all cell models tested, pharmacological inhibition of endogenous or ectopically expressed RyRs, using dantrolene or ryanodine, augmented autophagic flux by increasing lysosomal turn-over (number of autophagosomes and autolysosomes measured as mCherry - LC3 punctae / cell increased from 70.37±7.81 in control HEK RyR3 cells to 111.18±7.72 and 98.14±7.31 after dantrolene and ryanodine treatments, respectively). Moreover, in differentiated C2C12 cells, transmission electron microscopy demonstrated that dantrolene treatment decreased the number of early autophagic vacuoles from 5.9±2.97 to 1.8±1.03 per cellular cross section. The modulation of the autophagic flux could be linked to the functional inhibition of RyR channels as both RyR inhibitors efficiently diminished the number of cells showing spontaneous RyR3 activity in the HEK293 cell model (from 41.14%±2.12 in control cells to 18.70%±2.25 and 9.74%±2.67 after dantrolene and ryanodine treatments, respectively). In conclusion, basal RyR -mediated Ca(2+)-release events suppress autophagic flux at the level of the lysosomes.
+28322744	0	5	Basal	T082	UMLS:C0205112
+28322744	6	33	ryanodine receptor activity	T038	UMLS:C1753335
+28322744	45	55	autophagic	T017	UMLS:C0333781
+28322744	65	103	inositol 1,4,5-trisphosphate receptors	T103	UMLS:C0063592
+28322744	105	110	IP3Rs	T103	UMLS:C0063592
+28322744	116	146	intracellular Ca(2+) signaling	T038	UMLS:C3158759
+28322744	174	184	regulating	T038	UMLS:C1327622
+28322744	204	213	autophagy	T038	UMLS:C0004391
+28322744	217	226	lysosomal	T017	UMLS:C0024369
+28322744	252	271	ryanodine receptors	T103	UMLS:C0917729
+28322744	273	276	RyR	T103	UMLS:C0917729
+28322744	279	316	intracellular Ca(2+)-release channels	T038	UMLS:C1153434
+28322744	324	333	expressed	T038	UMLS:C1171362
+28322744	337	346	excitable	T033	UMLS:C1562285
+28322744	347	357	cell types	T170	UMLS:C0449475
+28322744	368	374	muscle	T017	UMLS:C0026845
+28322744	379	386	neurons	T017	UMLS:C0027882
+28322744	426	433	studied	T062	UMLS:C2603343
+28322744	449	458	autophagy	T038	UMLS:C0004391
+28322744	474	484	expression	T038	UMLS:C1171362
+28322744	511	515	RyRs	T103	UMLS:C0917729
+28322744	525	532	tissues	T017	UMLS:C0040300
+28322744	577	585	diseases	T038	UMLS:C0012634
+28322744	596	615	Alzheimer's disease	T038	UMLS:C0002395
+28322744	632	641	autophagy	T038	UMLS:C0004391
+28322744	642	652	regulation	T038	UMLS:C1327622
+28322744	691	696	study	T062	UMLS:C2603343
+28322744	701	711	determined	T058	UMLS:C1148554
+28322744	720	735	pharmacological	T038	UMLS:C0007992
+28322744	736	739	RyR	T103	UMLS:C0917729
+28322744	757	765	modulate	T082	UMLS:C0443264
+28322744	766	776	autophagic	T017	UMLS:C0333781
+28322744	785	792	ectopic	T082	UMLS:C0574895
+28322744	793	796	RyR	T103	UMLS:C0917729
+28322744	799	809	expressing	T038	UMLS:C1171362
+28322744	810	816	models	T170	UMLS:C3161035
+28322744	823	835	HEK293 cells	T017	UMLS:C2936239
+28322744	843	853	cell types	T170	UMLS:C0449475
+28322744	872	879	express	T038	UMLS:C1171362
+28322744	880	883	RyR	T103	UMLS:C0917729
+28322744	892	907	C2C12 myoblasts	T017	UMLS:C0596995
+28322744	920	931	hippocampal	T017	UMLS:C0019564
+28322744	932	939	neurons	T017	UMLS:C0027882
+28322744	954	958	RyR3	T103	UMLS:C0524964
+28322744	959	973	overexpression	T038	UMLS:C1171362
+28322744	977	989	HEK293 cells	T017	UMLS:C2936239
+28322744	1003	1013	autophagic	T017	UMLS:C0333781
+28322744	1039	1043	cell	T017	UMLS:C0007634
+28322744	1044	1050	models	T170	UMLS:C3161035
+28322744	1059	1074	pharmacological	T038	UMLS:C0007992
+28322744	1103	1114	ectopically	T082	UMLS:C0574895
+28322744	1115	1124	expressed	T038	UMLS:C1171362
+28322744	1125	1129	RyRs	T103	UMLS:C0917729
+28322744	1137	1147	dantrolene	T103	UMLS:C0010976
+28322744	1151	1160	ryanodine	T103	UMLS:C0035983
+28322744	1172	1182	autophagic	T017	UMLS:C0333781
+28322744	1202	1211	lysosomal	T017	UMLS:C0024369
+28322744	1212	1221	turn-over	T038	UMLS:C0597297
+28322744	1233	1247	autophagosomes	T017	UMLS:C3887595
+28322744	1252	1265	autolysosomes	T017	UMLS:C0230822
+28322744	1278	1285	mCherry	T103	UMLS:C3489546
+28322744	1288	1299	LC3 punctae	T103	UMLS:C3540600
+28322744	1302	1306	cell	T017	UMLS:C0007634
+28322744	1344	1358	HEK RyR3 cells	T017	UMLS:C0007634
+28322744	1395	1405	dantrolene	T103	UMLS:C0010976
+28322744	1410	1419	ryanodine	T103	UMLS:C0035983
+28322744	1420	1430	treatments	T058	UMLS:C1533734
+28322744	1460	1474	differentiated	T038	UMLS:C1159966
+28322744	1475	1486	C2C12 cells	T017	UMLS:C0596995
+28322744	1488	1520	transmission electron microscopy	T058	UMLS:C0678118
+28322744	1539	1549	dantrolene	T103	UMLS:C0010976
+28322744	1550	1559	treatment	T058	UMLS:C1533734
+28322744	1590	1600	autophagic	T017	UMLS:C0333781
+28322744	1601	1609	vacuoles	T017	UMLS:C0042219
+28322744	1640	1648	cellular	T017	UMLS:C0007634
+28322744	1649	1662	cross section	T082	UMLS:C0552389
+28322744	1686	1696	autophagic	T017	UMLS:C0333781
+28322744	1750	1762	RyR channels	T103	UMLS:C0054493
+28322744	1771	1774	RyR	T103	UMLS:C0917729
+28322744	1775	1785	inhibitors	T103	UMLS:C0243077
+28322744	1823	1828	cells	T017	UMLS:C0007634
+28322744	1849	1853	RyR3	T103	UMLS:C0524964
+28322744	1870	1881	HEK293 cell	T017	UMLS:C2936239
+28322744	1882	1887	model	T170	UMLS:C3161035
+28322744	1917	1922	cells	T017	UMLS:C0007634
+28322744	1959	1969	dantrolene	T103	UMLS:C0010976
+28322744	1974	1983	ryanodine	T103	UMLS:C0035983
+28322744	1984	1994	treatments	T058	UMLS:C1533734
+28322744	2026	2031	basal	T082	UMLS:C0205112
+28322744	2032	2035	RyR	T103	UMLS:C0917729
+28322744	2046	2067	Ca(2+)-release events	T038	UMLS:C1820193
+28322744	2077	2087	autophagic	T017	UMLS:C0333781
+28322744	2113	2122	lysosomes	T017	UMLS:C0024369

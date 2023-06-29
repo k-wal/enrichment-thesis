@@ -1,0 +1,49 @@
+16629641|t|Definition and management of anemia in patients infected with hepatitis C virus.
+16629641|a|Chronic infection with hepatitis C virus (HCV) can progress to cirrhosis, hepatocellular carcinoma, and end-stage liver disease. The current best treatment for HCV infection is combination therapy with pegylated interferon and ribavirin. Although this regimen produces sustained virologic responses (SVRs) in approximately 50% of patients, it can be associated with a potentially dose-limiting hemolytic anemia. Hemoglobin concentrations decrease mainly as a result of ribavirin-induced hemolysis, and this anemia can be problematic in patients with HCV infection, especially those who have comorbid renal or cardiovascular disorders. In general, anemia can increase the risk of morbidity and mortality, and may have negative effects on cerebral function and quality of life. Although ribavirin-associated anemia can be reversed by dose reduction or discontinuation, this approach compromises outcomes by significantly decreasing SVR rates. Recombinant human erythropoietin has been used to manage ribavirin-associated anemia but has other potential disadvantages. Viramidine, a liver-targeting prodrug of ribavirin, has the potential to maintain the virologic efficacy of ribavirin while decreasing the risk of hemolytic anemia in patients with chronic hepatitis C.
+16629641	29	35	anemia	DiseaseOrPhenotypicFeature	D000740
+16629641	39	47	patients	OrganismTaxon	9606
+16629641	48	79	infected with hepatitis C virus	DiseaseOrPhenotypicFeature	D006526
+16629641	81	121	Chronic infection with hepatitis C virus	DiseaseOrPhenotypicFeature	D019698
+16629641	123	126	HCV	OrganismTaxon	11103
+16629641	144	153	cirrhosis	DiseaseOrPhenotypicFeature	D005355
+16629641	155	179	hepatocellular carcinoma	DiseaseOrPhenotypicFeature	D006528
+16629641	185	208	end-stage liver disease	DiseaseOrPhenotypicFeature	D058625
+16629641	241	254	HCV infection	DiseaseOrPhenotypicFeature	D006526
+16629641	283	303	pegylated interferon	GeneOrGeneProduct	3439
+16629641	308	317	ribavirin	ChemicalEntity	D012254
+16629641	411	419	patients	OrganismTaxon	9606
+16629641	475	491	hemolytic anemia	DiseaseOrPhenotypicFeature	D000743
+16629641	493	503	Hemoglobin	GeneOrGeneProduct	3039
+16629641	550	559	ribavirin	ChemicalEntity	D012254
+16629641	568	577	hemolysis	DiseaseOrPhenotypicFeature	D006461
+16629641	588	594	anemia	DiseaseOrPhenotypicFeature	D000740
+16629641	617	625	patients	OrganismTaxon	9606
+16629641	631	644	HCV infection	DiseaseOrPhenotypicFeature	D006526
+16629641	681	714	renal or cardiovascular disorders	DiseaseOrPhenotypicFeature	D002318,D007674
+16629641	728	734	anemia	DiseaseOrPhenotypicFeature	D000740
+16629641	866	875	ribavirin	ChemicalEntity	D012254
+16629641	887	893	anemia	DiseaseOrPhenotypicFeature	D000740
+16629641	1034	1039	human	OrganismTaxon	9606
+16629641	1040	1054	erythropoietin	GeneOrGeneProduct	2056
+16629641	1079	1088	ribavirin	ChemicalEntity	D012254
+16629641	1100	1106	anemia	DiseaseOrPhenotypicFeature	D000740
+16629641	1146	1156	Viramidine	ChemicalEntity	C026956
+16629641	1187	1196	ribavirin	ChemicalEntity	D012254
+16629641	1254	1263	ribavirin	ChemicalEntity	D012254
+16629641	1293	1309	hemolytic anemia	DiseaseOrPhenotypicFeature	D000743
+16629641	1313	1321	patients	OrganismTaxon	9606
+16629641	1327	1346	chronic hepatitis C	DiseaseOrPhenotypicFeature	D019698
+16629641	Cotreatment	3439	D012254	No
+16629641	Negative_Correlation	D006526	3439	No
+16629641	Negative_Correlation	D006526	D012254	No
+16629641	Association	C026956	D019698	Novel
+16629641	Negative_Correlation	C026956	D000743	Novel
+16629641	Association	C026956	D012254	No
+16629641	Association	2056	D000740	No
+16629641	Association	2056	D012254	No
+16629641	Negative_Correlation	3039	D006461	No
+16629641	Negative_Correlation	3039	D012254	No
+16629641	Association	D012254	D019698	No
+16629641	Positive_Correlation	D012254	D000740	No
+16629641	Positive_Correlation	D012254	D006461	No
+16629641	Positive_Correlation	D012254	D000743	No

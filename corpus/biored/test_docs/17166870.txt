@@ -1,0 +1,50 @@
+17166870|t|Association between an endoglin gene polymorphism and systemic sclerosis-related pulmonary arterial hypertension.
+17166870|a|Systemic sclerosis (SSc) is a connective tissue disorder characterized by early generalized microangiopathy with disturbed angiogenesis. Endoglin gene (ENG) encodes a transmembrane glycoprotein which acts as an accessory receptor for the transforming growth factor-beta (TGF-beta) superfamily, and is crucial for maintaining vascular integrity. A 6-base insertion in intron 7 (6bINS) of ENG has been reported to be associated with microvascular disturbance. OBJECTIVES: Our objective was to investigate the relationship between 6bINS and the vascular complication pulmonary arterial hypertension (PAH) in SSc in a French Caucasian population. METHODS: Two hundred eighty SSc cases containing 29/280 having PAH diagnosed by catheterism were compared with 140 patients with osteoarthritis. Genotyping was performed by polymerase-chain-reaction-based fluorescence and direct sequencing of genomic DNA. RESULTS: The polymorphism was in Hardy-Weinberg equilibrium. We observed a significant lower frequency of 6bINS allele in SSc patients with associated PAH compared with controls [10.3 vs 23.9%, P = 0.01; odds ratio (OR) 0.37, 95% confidence interval (CI) 0.15-0.89], and a trend in comparison with SSc patients without PAH (10.3 vs 20.3%, P = 0.05; OR: 0.45, 95% CI: 0.19-1.08). Genotypes carrying allele 6bINS were also less frequent in SSc patients with PAH than in controls (20.7 vs 42.9%, P = 0.02). CONCLUSIONS: Thus the frequency of 6bINS differs between SSc patients with or without PAH, suggesting the implication of ENG in this devastating vascular complication of SSc.
+17166870	23	31	endoglin	GeneOrGeneProduct	2022
+17166870	54	72	systemic sclerosis	DiseaseOrPhenotypicFeature	D012595
+17166870	81	112	pulmonary arterial hypertension	DiseaseOrPhenotypicFeature	D000081029
+17166870	114	132	Systemic sclerosis	DiseaseOrPhenotypicFeature	D012595
+17166870	134	137	SSc	DiseaseOrPhenotypicFeature	D012595
+17166870	206	221	microangiopathy	DiseaseOrPhenotypicFeature	D057049
+17166870	251	259	Endoglin	GeneOrGeneProduct	2022
+17166870	266	269	ENG	GeneOrGeneProduct	2022
+17166870	295	307	glycoprotein	GeneOrGeneProduct	351
+17166870	352	383	transforming growth factor-beta	GeneOrGeneProduct	7040
+17166870	385	393	TGF-beta	GeneOrGeneProduct	7040
+17166870	461	477	6-base insertion	SequenceVariant	c|INS||6
+17166870	491	496	6bINS	SequenceVariant	c|INS||6
+17166870	501	504	ENG	GeneOrGeneProduct	2022
+17166870	642	647	6bINS	SequenceVariant	c|INS||6
+17166870	656	677	vascular complication	DiseaseOrPhenotypicFeature	D014652
+17166870	678	709	pulmonary arterial hypertension	DiseaseOrPhenotypicFeature	D000081029
+17166870	711	714	PAH	DiseaseOrPhenotypicFeature	D000081029
+17166870	719	722	SSc	DiseaseOrPhenotypicFeature	D012595
+17166870	785	788	SSc	DiseaseOrPhenotypicFeature	D012595
+17166870	820	823	PAH	DiseaseOrPhenotypicFeature	D000081029
+17166870	872	880	patients	OrganismTaxon	9606
+17166870	886	900	osteoarthritis	DiseaseOrPhenotypicFeature	D010003
+17166870	1119	1124	6bINS	SequenceVariant	c|INS||6
+17166870	1135	1138	SSc	DiseaseOrPhenotypicFeature	D012595
+17166870	1139	1147	patients	OrganismTaxon	9606
+17166870	1164	1167	PAH	DiseaseOrPhenotypicFeature	D000081029
+17166870	1311	1314	SSc	DiseaseOrPhenotypicFeature	D012595
+17166870	1315	1323	patients	OrganismTaxon	9606
+17166870	1332	1335	PAH	DiseaseOrPhenotypicFeature	D000081029
+17166870	1418	1423	6bINS	SequenceVariant	c|INS||6
+17166870	1451	1454	SSc	DiseaseOrPhenotypicFeature	D012595
+17166870	1455	1463	patients	OrganismTaxon	9606
+17166870	1469	1472	PAH	DiseaseOrPhenotypicFeature	D000081029
+17166870	1552	1557	6bINS	SequenceVariant	c|INS||6
+17166870	1574	1577	SSc	DiseaseOrPhenotypicFeature	D012595
+17166870	1578	1586	patients	OrganismTaxon	9606
+17166870	1603	1606	PAH	DiseaseOrPhenotypicFeature	D000081029
+17166870	1638	1641	ENG	GeneOrGeneProduct	2022
+17166870	1662	1683	vascular complication	DiseaseOrPhenotypicFeature	D014652
+17166870	1687	1690	SSc	DiseaseOrPhenotypicFeature	D012595
+17166870	Association	D000081029	2022	Novel
+17166870	Negative_Correlation	c|INS||6	D000081029	Novel
+17166870	Association	c|INS||6	D012595	Novel
+17166870	Association	c|INS||6	D014652	Novel
+17166870	Bind	2022	7040	No
+17166870	Association	2022	D012595	Novel
+17166870	Association	2022	D014652	Novel

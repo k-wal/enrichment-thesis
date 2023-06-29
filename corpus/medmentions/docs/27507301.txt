@@ -1,0 +1,112 @@
+27507301|t|MicroRNA 101b Is Downregulated in the Prefrontal Cortex of a Genetic Model of Depression and Targets the Glutamate Transporter SLC1A1 (EAAT3) in Vitro
+27507301|a|MicroRNAs (miRNAs) are small regulatory molecules that cause translational repression by base pairing with target mRNAs. Cumulative evidence suggests that changes in miRNA expression may in part underlie the pathophysiology and treatment of neuropsychiatric disorders, including major depressive disorder (MDD). A miRNA expression assay that can simultaneously detect 423 rat miRNAs (miRBase v.17) was used to profile the prefrontal cortex (PFC) of a genetic rat model of MDD (the Flinders Sensitive Line [FSL]) and the controls, the Flinders Resistant Line (FRL). Gene expression data from the PFC of FSL / FRL animals (GEO accession no. GSE20388) were used to guide mRNA target selection. Luciferase reporter assays were used to verify miRNA targets in vitro. We identified 23 miRNAs that were downregulated in the PFC of the FSL model compared with controls. Interestingly, one of the identified miRNAs (miR-101b) is highly conserved between rat and human and was recently found to be downregulated in the PFC of depressed suicide subjects. Using a combination of in silico and in vitro analyses, we found that miR-101b targets the neuronal glutamate transporter SLC1A1 (also known as EAAC1 or EAAT3). Accordingly, both mRNA and protein levels of SLC1A1 were found to be upregulated in the PFC of the FSL model. Besides providing a list of novel miRNAs associated with depression-like states, this preclinical study replicated the human association of miR-101 with depression. In addition, since one of the targets of miR-101b appears to be a glutamate transporter, our preclinical data support the hypothesis of a glutamatergic dysregulation being implicated in the etiology of depression.
+27507301	0	13	MicroRNA 101b	T028	C2825314
+27507301	17	30	Downregulated	T044	C0013081
+27507301	38	55	Prefrontal Cortex	T023	C0162783
+27507301	61	74	Genetic Model	T170	C0026343
+27507301	78	88	Depression	T048	C0011581
+27507301	93	100	Targets	T169	C1521840
+27507301	105	126	Glutamate Transporter	T116,T123	C0061467
+27507301	127	133	SLC1A1	T116,T123	C1529079
+27507301	135	140	EAAT3	T116,T123	C1529079
+27507301	142	150	in Vitro	T080	C1533691
+27507301	151	160	MicroRNAs	T114,T123	C1101610
+27507301	162	168	miRNAs	T114,T123	C1101610
+27507301	174	179	small	T081	C0700321
+27507301	180	190	regulatory	T077	C1704735
+27507301	191	200	molecules	T167	C0567416
+27507301	212	236	translational repression	T045	C1519619
+27507301	240	270	base pairing with target mRNAs	T044	C2263416
+27507301	272	282	Cumulative	T080	C1511559
+27507301	283	291	evidence	T078	C3887511
+27507301	306	313	changes	T169	C0392747
+27507301	317	322	miRNA	T028	C2825314
+27507301	323	333	expression	T045	C0017262
+27507301	359	374	pathophysiology	T169	C0031847
+27507301	379	388	treatment	T061	C0087111
+27507301	392	418	neuropsychiatric disorders	T047	C2015799
+27507301	430	455	major depressive disorder	T048	C1269683
+27507301	457	460	MDD	T048	C1269683
+27507301	465	470	miRNA	T028	C2825314
+27507301	471	481	expression	T045	C0017262
+27507301	482	487	assay	T059	C0005507
+27507301	497	511	simultaneously	T079	C0521115
+27507301	527	533	miRNAs	T028	C2825314
+27507301	561	568	profile	T059	C1979963
+27507301	573	590	prefrontal cortex	T023	C0162783
+27507301	592	595	PFC	T023	C0162783
+27507301	602	619	genetic rat model	T170	C0026343
+27507301	623	626	MDD	T048	C1269683
+27507301	632	655	Flinders Sensitive Line	T170	C0026343
+27507301	657	660	FSL	T170	C0026343
+27507301	671	679	controls	T096	C0009932
+27507301	685	708	Flinders Resistant Line	T170	C0026343
+27507301	710	713	FRL	T170	C0026343
+27507301	716	731	Gene expression	T045	C0017262
+27507301	732	736	data	T078	C1511726
+27507301	746	749	PFC	T023	C0162783
+27507301	753	756	FSL	T170	C0026343
+27507301	759	762	FRL	T170	C0026343
+27507301	763	770	animals	T008	C0003062
+27507301	819	823	mRNA	T114,T123	C0035696
+27507301	824	830	target	T169	C1521840
+27507301	831	840	selection	T052	C1707391
+27507301	842	868	Luciferase reporter assays	T059	C0005507
+27507301	882	888	verify	T169	C1711411
+27507301	889	894	miRNA	T028	C2825314
+27507301	895	902	targets	T169	C1521840
+27507301	903	911	in vitro	T080	C1533691
+27507301	916	926	identified	T080	C0205396
+27507301	930	936	miRNAs	T028	C2825314
+27507301	947	960	downregulated	T044	C0013081
+27507301	968	971	PFC	T023	C0162783
+27507301	979	988	FSL model	T170	C0026343
+27507301	989	997	compared	T052	C1707455
+27507301	1003	1011	controls	T096	C0009932
+27507301	1039	1049	identified	T080	C0205396
+27507301	1050	1056	miRNAs	T028	C2825314
+27507301	1058	1066	miR-101b	T028	C2825314
+27507301	1078	1087	conserved	T080	C2347858
+27507301	1096	1099	rat	T015	C0086893
+27507301	1104	1109	human	T016	C0086418
+27507301	1139	1152	downregulated	T044	C0013081
+27507301	1160	1163	PFC	T023	C0162783
+27507301	1167	1176	depressed	T184	C1579931
+27507301	1177	1184	suicide	T033	C0038661
+27507301	1185	1193	subjects	T096	C0681850
+27507301	1203	1214	combination	T080	C0205195
+27507301	1218	1227	in silico	T066	C3489666
+27507301	1232	1240	in vitro	T080	C1533691
+27507301	1241	1249	analyses	T062	C0936012
+27507301	1265	1273	miR-101b	T028	C2825314
+27507301	1274	1281	targets	T169	C1521840
+27507301	1286	1294	neuronal	T025	C0027882
+27507301	1295	1316	glutamate transporter	T116,T123	C0061467
+27507301	1317	1323	SLC1A1	T116,T123	C1529079
+27507301	1339	1344	EAAC1	T116,T123	C1529079
+27507301	1348	1353	EAAT3	T116,T123	C1529079
+27507301	1374	1378	mRNA	T114,T123	C0035696
+27507301	1383	1397	protein levels	T034	C0428479
+27507301	1401	1407	SLC1A1	T116,T123	C1529079
+27507301	1425	1436	upregulated	T044	C0041904
+27507301	1444	1447	PFC	T023	C0162783
+27507301	1455	1464	FSL model	T170	C0026343
+27507301	1500	1506	miRNAs	T028	C2825314
+27507301	1507	1522	associated with	T080	C0332281
+27507301	1523	1545	depression-like states	T033	C0344315
+27507301	1552	1569	preclinical study	T062	C1709631
+27507301	1570	1580	replicated	T169	C0205173
+27507301	1585	1590	human	T016	C0086418
+27507301	1591	1602	association	T080	C0439849
+27507301	1606	1613	miR-101	T028	C2825314
+27507301	1619	1629	depression	T048	C0011581
+27507301	1661	1668	targets	T169	C1521840
+27507301	1672	1680	miR-101b	T028	C2825314
+27507301	1697	1718	glutamate transporter	T116,T123	C0061467
+27507301	1724	1735	preclinical	T080	C1709630
+27507301	1736	1740	data	T078	C1511726
+27507301	1753	1763	hypothesis	T078	C1512571
+27507301	1769	1782	glutamatergic	T121	C0242899
+27507301	1783	1796	dysregulation	T033	C0243095
+27507301	1821	1829	etiology	T169	C1314792
+27507301	1833	1843	depression	T048	C0011581

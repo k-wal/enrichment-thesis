@@ -1,0 +1,58 @@
+27603112|t|Binding of Pollutants to Biomolecules: A Simulation Study
+27603112|a|A number of cases around the world have been reported where animals were found dead or dying with symptoms resembling a thiamine (vitamin B) deficiency, and for some of these, a link to pollutants has been suggested. Here, we investigate whether biomolecules involved in thiamin binding and transport could be blocked by a range of different pollutants. We used in silico docking of five compound classes (25 compounds in total) to each of five targets (prion protein, ECF-type ABC transporter, thi-box riboswitch receptor, thiamin pyrophosphokinase, and YKoF protein) and subsequently performed molecular dynamics (MD) simulations to assess the stability of the complexes. The compound classes were thiamin analogues (control), pesticides, veterinary medicines, polychlorinated biphenyls, and dioxins, all of which are prevalent in the environment to some extent. A few anthropogenic compounds were found to bind the ECF-type ABC transporter, but none binds stably to prion protein. For the riboswitch, most compounds remained in their binding pockets during 50 ns of MD simulation, indicating that RNA provides a promiscuous binding site. In both YKoF and thiamin pyrophosphokinase (TPK), most compounds remain tightly bound. However, TPK biomolecules undergo pollutant - induced conformational changes. Although most compounds are found to bind to some of these targets, a larger data set is needed along with more quantitative methods like free energy perturbation calculations before firm conclusions can be drawn. This study is in part a test bed for large-scale quantitative computational screening of interactions between biological entities and pollutant molecules.
+27603112	11	21	Pollutants	T103	UMLS:C0599786
+27603112	25	37	Biomolecules	T103	UMLS:C0574031
+27603112	41	57	Simulation Study	T062	UMLS:C0679083
+27603112	87	92	world	T098	UMLS:C2700280
+27603112	118	125	animals	T204	UMLS:C0003062
+27603112	131	141	found dead	T033	UMLS:C0476463
+27603112	145	150	dying	T038	UMLS:C0184532
+27603112	156	164	symptoms	T033	UMLS:C1457887
+27603112	178	186	thiamine	T038	UMLS:C0039841
+27603112	187	209	(vitamin B) deficiency	T038	UMLS:C0042850
+27603112	244	254	pollutants	T103	UMLS:C0599786
+27603112	284	295	investigate	T058	UMLS:C0220825
+27603112	304	316	biomolecules	T103	UMLS:C0574031
+27603112	329	344	thiamin binding	T038	UMLS:C1523455
+27603112	349	358	transport	T038	UMLS:C1159805
+27603112	400	410	pollutants	T103	UMLS:C0599786
+27603112	430	437	docking	T038	UMLS:C1522290
+27603112	446	454	compound	T103	UMLS:C0574031
+27603112	455	462	classes	T170	UMLS:C0456387
+27603112	467	476	compounds	T103	UMLS:C0574031
+27603112	512	525	prion protein	T103	UMLS:C4082486
+27603112	527	551	ECF-type ABC transporter	T017	UMLS:C3158987
+27603112	553	580	thi-box riboswitch receptor	T103	UMLS:C2936590
+27603112	582	607	thiamin pyrophosphokinase	T103	UMLS:C0039850
+27603112	613	625	YKoF protein	T103	UMLS:C0033684
+27603112	721	730	complexes	T103	UMLS:C1704241
+27603112	736	744	compound	T103	UMLS:C0574031
+27603112	745	752	classes	T170	UMLS:C0456387
+27603112	758	765	thiamin	T103	UMLS:C0039840
+27603112	766	775	analogues	T103	UMLS:C0002776
+27603112	787	797	pesticides	T103	UMLS:C0031253
+27603112	810	819	medicines	T103	UMLS:C0013227
+27603112	821	846	polychlorinated biphenyls	T103	UMLS:C0032447
+27603112	852	859	dioxins	T103	UMLS:C0012503
+27603112	895	906	environment	T082	UMLS:C0014406
+27603112	943	952	compounds	T103	UMLS:C0574031
+27603112	967	971	bind	T038	UMLS:C1167622
+27603112	976	1000	ECF-type ABC transporter	T017	UMLS:C3158987
+27603112	1006	1023	none binds stably	T033	UMLS:C0243095
+27603112	1027	1040	prion protein	T103	UMLS:C4082486
+27603112	1050	1060	riboswitch	T103	UMLS:C2936590
+27603112	1067	1076	compounds	T103	UMLS:C0574031
+27603112	1158	1161	RNA	T103	UMLS:C0035668
+27603112	1185	1197	binding site	T103	UMLS:C0005456
+27603112	1207	1211	YKoF	T103	UMLS:C0033684
+27603112	1216	1241	thiamin pyrophosphokinase	T103	UMLS:C0039850
+27603112	1243	1246	TPK	T103	UMLS:C0039850
+27603112	1254	1263	compounds	T103	UMLS:C0574031
+27603112	1295	1298	TPK	T103	UMLS:C0039850
+27603112	1299	1311	biomolecules	T103	UMLS:C0574031
+27603112	1320	1329	pollutant	T103	UMLS:C0599786
+27603112	1340	1362	conformational changes	T038	UMLS:C0301641
+27603112	1378	1387	compounds	T103	UMLS:C0574031
+27603112	1583	1588	study	T062	UMLS:C2603343
+27603112	1688	1707	biological entities	T103	UMLS:C0574031
+27603112	1712	1731	pollutant molecules	T103	UMLS:C0599786

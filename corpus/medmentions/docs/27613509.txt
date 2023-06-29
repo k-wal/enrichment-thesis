@@ -1,0 +1,85 @@
+27613509|t|Improved individualized prediction of schizophrenia in subjects at familial high risk, based on neuroanatomical data, schizotypal and neurocognitive features
+27613509|a|To date, there are no reliable markers for predicting onset of schizophrenia in individuals at high risk (HR). Substantial promise is, however, shown by a variety of pattern classification approaches to neuroimaging data. Here, we examined the predictive accuracy of support vector machine (SVM) in later diagnosing schizophrenia, at a single-subject level, using a cohort of HR individuals drawn from multiply affected families and a combination of neuroanatomical, schizotypal and neurocognitive variables. Baseline structural magnetic resonance imaging (MRI), schizotypal and neurocognitive data from 17 HR subjects, who subsequently developed schizophrenia and a matched group of 17 HR subjects who did not make the transition, yet had psychotic symptoms, were included in the analysis. We employed recursive feature elimination (RFE), in a nested cross-validation scheme to identify the most significant predictors of disease transition and enhance diagnostic performance. Classification accuracy was 94% when a self-completed measure of schizotypy, a declarative memory test and structural MRI data were combined into a single learning algorithm; higher than when either quantitative measure was used alone. The discriminative neuroanatomical pattern involved gray matter volume differences in frontal, orbito-frontal and occipital lobe regions bilaterally as well as parts of the superior, medial temporal lobe and cerebellar regions. Our findings suggest that an early SVM -based prediction of schizophrenia is possible and can be improved by combining schizotypal and neurocognitive features with neuroanatomical variables. However, our predictive model needs to be tested by classifying a new, independent HR cohort in order to estimate its validity.
+27613509	9	23	individualized	T080	C1881197
+27613509	24	34	prediction	T078	C0681842
+27613509	38	51	schizophrenia	T048	C0036341
+27613509	55	63	subjects	T098	C2349001
+27613509	67	75	familial	T169	C0241888
+27613509	76	85	high risk	T033	C0332167
+27613509	96	116	neuroanatomical data	T078	C1511726
+27613509	118	129	schizotypal	T048	C1443045
+27613509	134	157	neurocognitive features	T048	C4041080
+27613509	189	196	markers	T201	C0005516
+27613509	201	211	predicting	T078	C0681842
+27613509	212	220	onset of	T080	C0332162
+27613509	221	234	schizophrenia	T048	C0036341
+27613509	238	249	individuals	T098	C0237401
+27613509	253	262	high risk	T033	C0332167
+27613509	264	266	HR	T033	C0332167
+27613509	324	331	pattern	T082	C0449774
+27613509	332	346	classification	T185	C0008902
+27613509	361	378	neuroimaging data	T060	C0679575
+27613509	402	412	predictive	T080	C0681890
+27613509	413	421	accuracy	T080	C4035952
+27613509	425	447	support vector machine	T081	C2699740
+27613509	449	452	SVM	T081	C2699740
+27613509	463	473	diagnosing	T033	C0011900
+27613509	474	487	schizophrenia	T048	C0036341
+27613509	494	508	single-subject	T098	C2349001
+27613509	524	530	cohort	T098	C0599755
+27613509	534	536	HR	T033	C0332167
+27613509	537	548	individuals	T098	C0237401
+27613509	569	577	affected	T169	C0392760
+27613509	578	586	families	T099	C0015576
+27613509	608	623	neuroanatomical	T091	C0027816
+27613509	625	636	schizotypal	T048	C1443045
+27613509	641	665	neurocognitive variables	T170	C0518895
+27613509	667	675	Baseline	T081	C1442488
+27613509	687	713	magnetic resonance imaging	T060	C0024485
+27613509	715	718	MRI	T060	C0024485
+27613509	721	732	schizotypal	T048	C1443045
+27613509	737	751	neurocognitive	T170	C0518895
+27613509	752	756	data	T078	C1511726
+27613509	765	767	HR	T033	C0332167
+27613509	768	776	subjects	T098	C2349001
+27613509	805	818	schizophrenia	T048	C0036341
+27613509	825	838	matched group	T096	C0024908
+27613509	845	847	HR	T033	C0332167
+27613509	848	856	subjects	T098	C2349001
+27613509	878	888	transition	T068	C0376627
+27613509	894	916	had psychotic symptoms	T033	C0459435
+27613509	939	947	analysis	T062	C0936012
+27613509	961	990	recursive feature elimination	T170	C0002045
+27613509	992	995	RFE	T170	C0002045
+27613509	1010	1026	cross-validation	T062	C0681935
+27613509	1067	1077	predictors	T078	C2698872
+27613509	1081	1088	disease	T047	C0012634
+27613509	1089	1099	transition	T052	C2700061
+27613509	1112	1122	diagnostic	T169	C0348026
+27613509	1136	1150	Classification	T185	C0008902
+27613509	1151	1159	accuracy	T080	C0443131
+27613509	1215	1238	declarative memory test	T041	C1285656
+27613509	1254	1257	MRI	T060	C0024485
+27613509	1258	1262	data	T078	C1511726
+27613509	1300	1309	algorithm	T170	C0002045
+27613509	1335	1355	quantitative measure	T081	C0392762
+27613509	1391	1414	neuroanatomical pattern	T082	C0449774
+27613509	1424	1435	gray matter	T024	C0018220
+27613509	1436	1442	volume	T081	C0449468
+27613509	1443	1454	differences	T081	C1705241
+27613509	1458	1465	frontal	T029	C0549224
+27613509	1467	1481	orbito-frontal	T029	C0549224
+27613509	1486	1508	occipital lobe regions	T023	C0028785
+27613509	1509	1520	bilaterally	T082	C0238767
+27613509	1545	1553	superior	T023	C0039485
+27613509	1555	1575	medial temporal lobe	T023	C0039485
+27613509	1580	1598	cerebellar regions	T023	C0007765
+27613509	1635	1638	SVM	T081	C2699740
+27613509	1646	1656	prediction	T078	C0681842
+27613509	1660	1673	schizophrenia	T048	C0036341
+27613509	1719	1730	schizotypal	T048	C1443045
+27613509	1735	1758	neurocognitive features	T048	C4041080
+27613509	1764	1789	neuroanatomical variables	T080	C0439828
+27613509	1804	1814	predictive	T080	C0681890
+27613509	1874	1876	HR	T033	C0332167
+27613509	1877	1883	cohort	T098	C0599755

@@ -1,0 +1,56 @@
+28066805|t|Evaluation of Soft Tissue Sarcoma Response to Preoperative Chemoradiotherapy Using Dynamic Contrast-Enhanced Magnetic Resonance Imaging
+28066805|a|This study aims to assess the utility of quantitative dynamic contrast-enhanced (DCE) magnetic resonance imaging (MRI) parameters in comparison with imaging tumor size for early prediction and evaluation of soft tissue sarcoma response to preoperative chemoradiotherapy. In total, 20 patients with intermediate- to high-grade soft tissue sarcomas received either a phase I trial regimen of sorafenib + chemoradiotherapy (n = 8) or chemoradiotherapy only (n = 12), and underwent DCE-MRI at baseline, after 2 weeks of treatment with sorafenib or after the first chemotherapy cycle, and after therapy completion. MRI tumor size in the longest diameter (LD) was measured according to the RECIST (Response Evaluation Criteria In Solid Tumors) guidelines. Pharmacokinetic analyses of DCE-MRI data were performed using the Shutter-Speed model. After only 2 weeks of treatment with sorafenib or after 1 chemotherapy cycle, K(trans) (rate constant for plasma / interstitium contrast agent transfer) and its percent change were good early predictors of optimal versus suboptimal pathological response with univariate logistic regression C statistics values of 0.90 and 0.80, respectively, whereas RECIST LD percent change was only a fair predictor (C = 0.72). Post-therapy K(trans), ve (extravascular and extracellular volume fraction), and kep (intravasation rate constant), not RECIST LD, were excellent (C > 0.90) markers of therapy response. Several DCE-MRI parameters before, during, and after therapy showed significant (P < .05) correlations with percent necrosis of resected tumor specimens. In conclusion, absolute values and percent changes of quantitative DCE-MRI parameters provide better early prediction and evaluation of the pathological response of soft tissue sarcoma to preoperative chemoradiotherapy than the conventional measurement of imaging tumor size change.
+28066805	0	10	Evaluation	T058	UMLS:C0220825
+28066805	14	33	Soft Tissue Sarcoma	T038	UMLS:C0039101
+28066805	34	42	Response	T033	UMLS:C1704632
+28066805	59	76	Chemoradiotherapy	T058	UMLS:C0436307
+28066805	83	135	Dynamic Contrast-Enhanced Magnetic Resonance Imaging	T058	UMLS:C1831914
+28066805	141	146	study	T062	UMLS:C2603343
+28066805	177	254	quantitative dynamic contrast-enhanced (DCE) magnetic resonance imaging (MRI)	T058	UMLS:C1831914
+28066805	285	292	imaging	T058	UMLS:C0011923
+28066805	293	303	tumor size	T082	UMLS:C0475440
+28066805	329	339	evaluation	T058	UMLS:C0220825
+28066805	343	371	soft tissue sarcoma response	T038	UMLS:C1817727
+28066805	388	405	chemoradiotherapy	T058	UMLS:C0436307
+28066805	462	482	soft tissue sarcomas	T038	UMLS:C0039101
+28066805	501	514	phase I trial	T062	UMLS:C0920321
+28066805	515	522	regimen	T058	UMLS:C0040808
+28066805	526	535	sorafenib	T103	UMLS:C1516119
+28066805	538	555	chemoradiotherapy	T058	UMLS:C0436307
+28066805	567	589	chemoradiotherapy only	T058	UMLS:C0436307
+28066805	614	621	DCE-MRI	T058	UMLS:C1831914
+28066805	652	661	treatment	T058	UMLS:C0087111
+28066805	667	676	sorafenib	T103	UMLS:C1516119
+28066805	690	714	first chemotherapy cycle	T058	UMLS:C1302181
+28066805	726	733	therapy	T058	UMLS:C0087111
+28066805	746	749	MRI	T058	UMLS:C0024485
+28066805	750	760	tumor size	T082	UMLS:C0475440
+28066805	820	826	RECIST	T170	UMLS:C1709926
+28066805	828	872	Response Evaluation Criteria In Solid Tumors	T170	UMLS:C1709926
+28066805	874	884	guidelines	T170	UMLS:C0162791
+28066805	886	910	Pharmacokinetic analyses	T062	UMLS:C0201734
+28066805	914	921	DCE-MRI	T058	UMLS:C1831914
+28066805	952	971	Shutter-Speed model	T170	UMLS:C3161035
+28066805	995	1004	treatment	T058	UMLS:C0087111
+28066805	1010	1019	sorafenib	T103	UMLS:C1516119
+28066805	1031	1049	chemotherapy cycle	T058	UMLS:C1302181
+28066805	1079	1085	plasma	T031	UMLS:C0032105
+28066805	1088	1100	interstitium	T017	UMLS:C2328510
+28066805	1101	1124	contrast agent transfer	T062	UMLS:C2985649
+28066805	1205	1226	pathological response	T033	UMLS:C4050242
+28066805	1323	1329	RECIST	T170	UMLS:C1709926
+28066805	1413	1426	extravascular	T017	UMLS:C0243092
+28066805	1431	1444	extracellular	T017	UMLS:C0521119
+28066805	1506	1512	RECIST	T170	UMLS:C1709926
+28066805	1580	1587	DCE-MRI	T058	UMLS:C1831914
+28066805	1625	1632	therapy	T058	UMLS:C0087111
+28066805	1680	1696	percent necrosis	T033	UMLS:C1334928
+28066805	1709	1714	tumor	T038	UMLS:C0027651
+28066805	1793	1800	DCE-MRI	T058	UMLS:C1831914
+28066805	1820	1826	better	T033	UMLS:C4036142
+28066805	1848	1858	evaluation	T058	UMLS:C0220825
+28066805	1866	1887	pathological response	T033	UMLS:C4050242
+28066805	1891	1910	soft tissue sarcoma	T038	UMLS:C0039101
+28066805	1927	1944	chemoradiotherapy	T058	UMLS:C0436307
+28066805	1982	1989	imaging	T058	UMLS:C0011923
+28066805	1990	1995	tumor	T038	UMLS:C0027651

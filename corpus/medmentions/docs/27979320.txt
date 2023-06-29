@@ -1,0 +1,62 @@
+27979320|t|Locating the Seventh Cervical Spinous Process: Development and Validation of a Multivariate Model Using Palpation and Personal Information
+27979320|a|The aim of this study was to develop and validate a multivariate prediction model, guided by palpation and personal information, for locating the seventh cervical spinous process (C7SP). A single-blinded, cross-sectional study at a primary to tertiary health care center was conducted for model development and temporal validation. One-hundred sixty participants were prospectively included for model development (n = 80) and time-split validation stages (n = 80). The C7SP was located using the thorax-rib static method (TRSM). Participants underwent chest radiography for assessment of the inner body structure located with TRSM and using radio-opaque markers placed over the skin. Age, sex, height, body mass, body mass index, and vertex-marker distanc e (DV-M) were used to predict the distance from the C7SP to the vertex (DV-C7). Multivariate linear regression modeling, limits of agreement plot, histogram of residues, receiver operating characteristic curves, and confusion tables were analyzed. The multivariate linear prediction model for DV-C7 (in centimeters) was DV-C7 = 0.986DV-M + 0.018(mass) + 0.014(age) - 1.008. Receiver operating characteristic curves had better discrimination of DV-C7 (area under the curve = 0.661; 95% confidence interval = 0.541-0.782; P = .015) than DV-M (area under the curve = 0.480; 95% confidence interval = 0.345-0.614; P = .761), with respective cutoff points at 23.40 cm (sensitivity = 41%, specificity = 63%) and 24.75 cm (sensitivity = 69%, specificity = 52%). The C7SP was correctly located more often when using predicted DV-C7 in the validation sample than when using the TRSM in the development sample: n = 53 (66%) vs n = 32 (40%), P < .001. Better accuracy was obtained when locating the C7SP by use of a multivariate model that incorporates palpation and personal information.
+27979320	13	45	Seventh Cervical Spinous Process	T023	C0223178
+27979320	79	97	Multivariate Model	T081,T170	C0026348
+27979320	104	113	Palpation	T060	C0030247
+27979320	118	138	Personal Information	T077	C2983694
+27979320	191	220	multivariate prediction model	T081,T170	C0026348
+27979320	232	241	palpation	T060	C0030247
+27979320	246	266	personal information	T077	C2983694
+27979320	285	317	seventh cervical spinous process	T023	C0223178
+27979320	319	323	C7SP	T023	C0223178
+27979320	328	365	single-blinded, cross-sectional study	T062	C0010362
+27979320	371	409	primary to tertiary health care center	T073,T093	C1552443
+27979320	428	445	model development	T170	C0920595
+27979320	450	469	temporal validation	T062	C1519941
+27979320	489	501	participants	T098	C0679646
+27979320	534	551	model development	T170	C0920595
+27979320	565	593	time-split validation stages	T081	C0681916
+27979320	608	612	C7SP	T023	C0223178
+27979320	635	659	thorax-rib static method	T060	C0030247
+27979320	661	665	TRSM	T060	C0030247
+27979320	668	680	Participants	T098	C0679646
+27979320	691	708	chest radiography	T060	C0039985
+27979320	731	736	inner	T082	C0205102
+27979320	737	751	body structure	T017	C0460148
+27979320	765	769	TRSM	T060	C0030247
+27979320	780	800	radio-opaque markers	T074	C0181741
+27979320	817	821	skin	T022	C1123023
+27979320	823	826	Age	T032	C0001779
+27979320	828	831	sex	T032	C0079399
+27979320	833	839	height	T032	C0489786
+27979320	841	850	body mass	T033	C0518010
+27979320	852	867	body mass index	T201	C1305855
+27979320	873	894	vertex-marker distanc	T081	C0012751
+27979320	898	902	DV-M	T081	C0012751
+27979320	929	937	distance	T081	C0012751
+27979320	947	951	C7SP	T023	C0223178
+27979320	959	965	vertex	T029	C0230003
+27979320	967	972	DV-C7	T081	C0012751
+27979320	975	1014	Multivariate linear regression modeling	T170	C0034980
+27979320	1042	1063	histogram of residues	T170	C0870616
+27979320	1065	1105	receiver operating characteristic curves	T081	C0035787
+27979320	1111	1127	confusion tables	T170	C1706074
+27979320	1147	1183	multivariate linear prediction model	T081,T170	C0026348
+27979320	1188	1193	DV-C7	T081	C0012751
+27979320	1215	1220	DV-C7	T081	C0012751
+27979320	1269	1309	Receiver operating characteristic curves	T081	C0035787
+27979320	1339	1344	DV-C7	T081	C0012751
+27979320	1380	1399	confidence interval	T081	C0009667
+27979320	1430	1434	DV-M	T081	C0012751
+27979320	1470	1489	confidence interval	T081	C0009667
+27979320	1559	1570	sensitivity	T081	C0036667
+27979320	1578	1589	specificity	T081	C0037791
+27979320	1611	1622	sensitivity	T081	C0036667
+27979320	1630	1641	specificity	T081	C0037791
+27979320	1654	1658	C7SP	T023	C0223178
+27979320	1713	1718	DV-C7	T081	C0012751
+27979320	1764	1768	TRSM	T060	C0030247
+27979320	1883	1887	C7SP	T023	C0223178
+27979320	1900	1918	multivariate model	T081,T170	C0026348
+27979320	1937	1946	palpation	T060	C0030247
+27979320	1951	1971	personal information	T077	C2983694

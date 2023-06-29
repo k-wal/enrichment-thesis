@@ -1,0 +1,36 @@
+15820770|t|Vitamin D-binding protein gene polymorphism association with IA-2 autoantibodies in type 1 diabetes.
+15820770|a|BACKGROUND: Vitamin D-binding protein (DBP) is the main systemic transporter of 1.25(OH)2D3 and is essential for its cellular endocytosis. There are two known polymorphisms in exon 11 of the DBP gene resulting in amino acid variants: GAT-->GAG substitution replaces aspartic acid by glutamic acid in codon 416; and ACG-->AAG substitution in codon 420 leads to an exchange of threonine for lysine. These DBP variants lead to differences in the affinity for 1.25(OH)2D3. Correlations between DBP alleles and type 1 diabetes have been described in different populations. Therefore, we investigated the polymorphism in codon 416 of the DBP gene for an association with autoimmune markers of type 1 diabetes. DESIGN AND METHODS: The present analysis was a case control study. 110 patients, 68 controls, and 115 first-degree relatives were genotyped for the DBP polymorphism in codon 416. DNA typing of DBP locus was performed by the PCR-restriction fragment length polymorphism method (RFLP). RESULTS: The frequencies of the Asp/Glu and Glu/Glu were significantly increased in diabetic subjects with detectable IA-2 antibodies (P < 0.01). On the contrary, the DBP Glu-containing genotype was not accompanied by differences in the prevalence of GAD65 antibodies. These finding supports a role of the vitamin D endocrine system in the autoimmune process of type 1 diabetes.
+15820770	0	25	Vitamin D-binding protein	GeneOrGeneProduct	2638
+15820770	61	65	IA-2	GeneOrGeneProduct	5798
+15820770	84	99	type 1 diabetes	DiseaseOrPhenotypicFeature	D003922
+15820770	113	138	Vitamin D-binding protein	GeneOrGeneProduct	2638
+15820770	140	143	DBP	GeneOrGeneProduct	2638
+15820770	181	192	1.25(OH)2D3	ChemicalEntity	D002117
+15820770	292	295	DBP	GeneOrGeneProduct	2638
+15820770	335	410	GAT-->GAG substitution replaces aspartic acid by glutamic acid in codon 416	SequenceVariant	p|SUB|D|416|E
+15820770	416	451	ACG-->AAG substitution in codon 420	SequenceVariant	p|SUB|T|420|K
+15820770	476	496	threonine for lysine	SequenceVariant	p|SUB|T||K
+15820770	504	507	DBP	GeneOrGeneProduct	2638
+15820770	557	568	1.25(OH)2D3	ChemicalEntity	D002117
+15820770	591	594	DBP	GeneOrGeneProduct	2638
+15820770	607	622	type 1 diabetes	DiseaseOrPhenotypicFeature	D003922
+15820770	733	736	DBP	GeneOrGeneProduct	2638
+15820770	788	803	type 1 diabetes	DiseaseOrPhenotypicFeature	D003922
+15820770	876	884	patients	OrganismTaxon	9606
+15820770	953	956	DBP	GeneOrGeneProduct	2638
+15820770	998	1001	DBP	GeneOrGeneProduct	2638
+15820770	1173	1181	diabetic	DiseaseOrPhenotypicFeature	D003920
+15820770	1207	1211	IA-2	GeneOrGeneProduct	5798
+15820770	1256	1259	DBP	GeneOrGeneProduct	2638
+15820770	1340	1345	GAD65	GeneOrGeneProduct	2572
+15820770	1395	1404	vitamin D	ChemicalEntity	D014807
+15820770	1451	1466	type 1 diabetes	DiseaseOrPhenotypicFeature	D003922
+15820770	Association	p|SUB|T||K	D002117	No
+15820770	Association	p|SUB|T|420|K	D002117	No
+15820770	Association	p|SUB|D|416|E	D002117	No
+15820770	Association	D014807	D003922	Novel
+15820770	Association	5798	D003920	Novel
+15820770	Association	5798	D003922	No
+15820770	Association	2638	D002117	No
+15820770	Association	2638	D003922	No
+15820770	Association	2638	5798	No

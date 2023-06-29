@@ -1,0 +1,46 @@
+14722929|t|Low frequency of deafness-associated GJB2 variants in Kenya and Sudan and novel GJB2 variants.
+14722929|a|A large proportion of non-syndromic autosomal recessive deafness (NSARD) in many populations is caused by variants of the GJB2 gene. Here, the frequency of GJB2 variants was studied in 406 and 183 apparently unrelated children from Kenya and Sudan, respectively, with mostly severe to profound non-syndromic deafness. Nine (2.2 %) Kenyan and 12 (6.6 %) of the Sudanese children only were carriers of variants within the coding sequence of the GJB2 gene. Variants in the 5'-adjacent region were detected in further 115 individuals. A total of 10 novel variants was recognized, among them four variants in the adjacent 5'-region of the GJB2 coding exon 2 (g.3318-6T>A, g.3318-15C>T, g.3318-34C>T, g.3318-35T>G), a 6 base-pair deletion (g.3455_3460del [p.Asp46_Gln48delinsGlu]), a variant leading to a stop codon (g.3512C>A [p.Tyr65X]), synonymous variants (g.3395C>T [p.Thr26], g.3503C>T [p.Asn62], g.3627A>C [p.Arg104]), and one non-synonymous variant (g.3816C>A [p.Val167Met]). In addition, the previously described variants g.3352delG (commonly designated 30delG or 35 delG), g.3426G>A [p.Val37Ile], g.3697G>A [p.Arg127His], g.3774G>A [p.Val153Ile], and g.3795G>A [p.Gly160Ser] were identified. With the exception of g.3318-34C>T and g.3352delG, all variants occurred heterozygously. For most of the variants identified in the Kenyan and Sudanese study population, a causative association with NSARD appears to be unlikely. Compared to many other ethnic groups, deafness-associated variants of the coding region of GJB2 are rare in Sudan and Kenya, suggesting a role of other genetic, or epigenetic factors as a cause for deafness in these countries.
+14722929	17	25	deafness	DiseaseOrPhenotypicFeature	D003638
+14722929	37	41	GJB2	GeneOrGeneProduct	2706
+14722929	80	84	GJB2	GeneOrGeneProduct	2706
+14722929	117	159	non-syndromic autosomal recessive deafness	DiseaseOrPhenotypicFeature	C567134
+14722929	161	166	NSARD	DiseaseOrPhenotypicFeature	C567134
+14722929	217	221	GJB2	GeneOrGeneProduct	2706
+14722929	251	255	GJB2	GeneOrGeneProduct	2706
+14722929	389	411	non-syndromic deafness	DiseaseOrPhenotypicFeature	D003638
+14722929	538	542	GJB2	GeneOrGeneProduct	2706
+14722929	729	733	GJB2	GeneOrGeneProduct	2706
+14722929	749	760	g.3318-6T>A	SequenceVariant	g|SUB|T|3318-6|A
+14722929	762	774	g.3318-15C>T	SequenceVariant	g|SUB|C|3318-15|T
+14722929	776	788	g.3318-34C>T	SequenceVariant	g|SUB|C|3318-34|T
+14722929	790	802	g.3318-35T>G	SequenceVariant	g|SUB|T|3318-35|G
+14722929	829	843	g.3455_3460del	SequenceVariant	g|DEL|3455_3460|
+14722929	845	867	p.Asp46_Gln48delinsGlu	SequenceVariant	p|INDEL|46_48|Glu
+14722929	906	915	g.3512C>A	SequenceVariant	rs763572195
+14722929	917	925	p.Tyr65X	SequenceVariant	rs763572195
+14722929	950	959	g.3395C>T	SequenceVariant	g|SUB|C|3395|T
+14722929	961	968	p.Thr26	SequenceVariant	p|Allele|T|26
+14722929	971	980	g.3503C>T	SequenceVariant	g|SUB|C|3503|T
+14722929	982	989	p.Asn62	SequenceVariant	p|Allele|N|62
+14722929	992	1001	g.3627A>C	SequenceVariant	g|SUB|A|3627|C
+14722929	1003	1011	p.Arg104	SequenceVariant	p|Allele|R|104
+14722929	1047	1056	g.3816C>A	SequenceVariant	rs111033360
+14722929	1058	1069	p.Val167Met	SequenceVariant	rs111033360
+14722929	1120	1130	g.3352delG	SequenceVariant	g|DEL|3352|G
+14722929	1152	1158	30delG	SequenceVariant	c|DEL|30|G
+14722929	1162	1169	35 delG	SequenceVariant	c|DEL|35|G
+14722929	1172	1181	g.3426G>A	SequenceVariant	rs72474224
+14722929	1183	1193	p.Val37Ile	SequenceVariant	rs72474224
+14722929	1196	1205	g.3697G>A	SequenceVariant	rs111033196
+14722929	1207	1218	p.Arg127His	SequenceVariant	rs111033196
+14722929	1221	1230	g.3774G>A	SequenceVariant	rs111033186
+14722929	1232	1243	p.Val153Ile	SequenceVariant	rs111033186
+14722929	1250	1259	g.3795G>A	SequenceVariant	rs34988750
+14722929	1261	1272	p.Gly160Ser	SequenceVariant	rs34988750
+14722929	1313	1325	g.3318-34C>T	SequenceVariant	g|SUB|C|3318-34|T
+14722929	1330	1340	g.3352delG	SequenceVariant	g|DEL|3352|G
+14722929	1490	1495	NSARD	DiseaseOrPhenotypicFeature	C567134
+14722929	1558	1566	deafness	DiseaseOrPhenotypicFeature	D003638
+14722929	1611	1615	GJB2	GeneOrGeneProduct	2706
+14722929	1718	1726	deafness	DiseaseOrPhenotypicFeature	D003638
+14722929	Association	2706	C567134	No

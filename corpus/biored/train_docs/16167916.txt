@@ -1,0 +1,39 @@
+16167916|t|The effects of short-term raloxifene therapy on fibrinolysis markers: TAFI, tPA, and PAI-1.
+16167916|a|BACKGROUND: Markers of fibrinolysis, thrombin-activatable fibrinolysis inhibitor (TAFI), tissue-type plasminogen activator (tPA), and plasminogen activator inhibitor-1 (PAI-1) levels were studied for the evaluation of short-term effects of raloxifene administration in postmenopausal women. METHODS: Thirty-nine postmenopausal women with osteopenia or osteoporosis were included in this prospective, controlled clinical study. Twenty-five women were given raloxifene hydrochloride (60 mg/day) plus calcium (500 mg/day). Age-matched controls (n = 14) were given only calcium. Plasma TAFI, tPA, and PAI-1 antigen levels were measured at baseline and after 3 months of treatment by commercially available ELISA kits. Variations of individuals were assessed by Wilcoxon's test. Relationship between those markers and demographic characteristics were investigated. RESULTS: Three months of raloxifene treatment was associated with a significant decrease in the plasma TAFI antigen concentrations (16% change, P < 0.01), and a significant increase in tPA antigen concentrations (25% change, P < 0.05). A significant correlation was found between baseline TAFI antigen concentrations and the duration of amenorrhea (P < 0.05; r = 0.33). CONCLUSION: We suggest that the increased risk of venous thromboembolism due to raloxifene treatment may be related to increased tPA levels, but not TAFI levels.
+16167916	26	36	raloxifene	ChemicalEntity	D020849
+16167916	70	74	TAFI	GeneOrGeneProduct	1361
+16167916	76	79	tPA	GeneOrGeneProduct	5327
+16167916	85	90	PAI-1	GeneOrGeneProduct	5054
+16167916	129	172	thrombin-activatable fibrinolysis inhibitor	GeneOrGeneProduct	1361
+16167916	174	178	TAFI	GeneOrGeneProduct	1361
+16167916	181	214	tissue-type plasminogen activator	GeneOrGeneProduct	5327
+16167916	216	219	tPA	GeneOrGeneProduct	5327
+16167916	226	259	plasminogen activator inhibitor-1	GeneOrGeneProduct	5054
+16167916	261	266	PAI-1	GeneOrGeneProduct	5054
+16167916	332	342	raloxifene	ChemicalEntity	D020849
+16167916	376	381	women	OrganismTaxon	9606
+16167916	419	424	women	OrganismTaxon	9606
+16167916	430	440	osteopenia	DiseaseOrPhenotypicFeature	D001851
+16167916	444	456	osteoporosis	DiseaseOrPhenotypicFeature	D010024
+16167916	531	536	women	OrganismTaxon	9606
+16167916	548	572	raloxifene hydrochloride	ChemicalEntity	D020849
+16167916	590	597	calcium	ChemicalEntity	D002118
+16167916	658	665	calcium	ChemicalEntity	D002118
+16167916	674	678	TAFI	GeneOrGeneProduct	1361
+16167916	680	683	tPA	GeneOrGeneProduct	5327
+16167916	689	694	PAI-1	GeneOrGeneProduct	5054
+16167916	977	987	raloxifene	ChemicalEntity	D020849
+16167916	1055	1059	TAFI	GeneOrGeneProduct	1361
+16167916	1137	1140	tPA	GeneOrGeneProduct	5327
+16167916	1241	1245	TAFI	GeneOrGeneProduct	1361
+16167916	1372	1394	venous thromboembolism	DiseaseOrPhenotypicFeature	D054556
+16167916	1402	1412	raloxifene	ChemicalEntity	D020849
+16167916	1451	1454	tPA	GeneOrGeneProduct	5327
+16167916	1471	1475	TAFI	GeneOrGeneProduct	1361
+16167916	Positive_Correlation	D054556	5327	Novel
+16167916	Positive_Correlation	D054556	D020849	Novel
+16167916	Negative_Correlation	D010024	D020849	No
+16167916	Positive_Correlation	D020849	5327	Novel
+16167916	Negative_Correlation	D020849	1361	Novel
+16167916	Negative_Correlation	D020849	D001851	No
+16167916	Association	5054	D020849	No

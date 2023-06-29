@@ -1,0 +1,33 @@
+16186368|t|Characterization of Bietti crystalline dystrophy patients with CYP4V2 mutations.
+16186368|a|PURPOSE: Mutations of the CYP4V2 gene, a novel family member of the cytochrome P450 genes on chromosome 4q35, have recently been identified in patients with Bietti crystalline dystrophy (BCD). The aim of this study was to investigate the spectrum of mutations in this gene in BCD patients from Singapore, and to characterize their phenotype. METHODS: Nine patients with BCD from six families were recruited into the study. The 11 exons of the CYP4V2 gene were amplified from genomic DNA of patients by polymerase chain reaction and then sequenced. Detailed characterization of the patients' phenotype was performed with fundal photography, visual field testing, fundal fluorescein angiography, and electroretinography (ERG). RESULTS: Three pathogenic mutations were identified; two mutations, S482X and K386T, were novel and found in three patients. The third mutation, a previously identified 15-bp deletion that included the 3' splice site for exon 7, was found in all nine patients, with six patients carrying the deletion in the homozygous state. Haplotype analysis in patients and controls indicated a founder effect for this deletion mutation in exon 7. Clinical heterogeneity was present in the patients. Compound heterozygotes for the deletion in exon 7 seemed to have more severe disease compared to patients homozygous for the deletion. There was good correlation between clinical stage of disease and ERG changes, but age did not correlate with disease severity. CONCLUSIONS: This study identified novel mutations in the CYP4V2 gene as a cause of BCD. A high carrier frequency for the 15-bp deletion in exon 7 may exist in the Singapore population. Phenotype characterization showed clinical heterogeneity, and age did not correlate with disease severity.
+16186368	20	48	Bietti crystalline dystrophy	DiseaseOrPhenotypicFeature	C535440
+16186368	49	57	patients	OrganismTaxon	9606
+16186368	63	69	CYP4V2	GeneOrGeneProduct	285440
+16186368	107	113	CYP4V2	GeneOrGeneProduct	285440
+16186368	149	164	cytochrome P450	GeneOrGeneProduct	285440
+16186368	224	232	patients	OrganismTaxon	9606
+16186368	238	266	Bietti crystalline dystrophy	DiseaseOrPhenotypicFeature	C535440
+16186368	268	271	BCD	DiseaseOrPhenotypicFeature	C535440
+16186368	357	360	BCD	DiseaseOrPhenotypicFeature	C535440
+16186368	361	369	patients	OrganismTaxon	9606
+16186368	437	445	patients	OrganismTaxon	9606
+16186368	451	454	BCD	DiseaseOrPhenotypicFeature	C535440
+16186368	524	530	CYP4V2	GeneOrGeneProduct	285440
+16186368	571	579	patients	OrganismTaxon	9606
+16186368	662	670	patients	OrganismTaxon	9606
+16186368	874	879	S482X	SequenceVariant	rs146494374
+16186368	884	889	K386T	SequenceVariant	rs199476200
+16186368	921	929	patients	OrganismTaxon	9606
+16186368	975	989	15-bp deletion	SequenceVariant	c|DEL||15
+16186368	1057	1065	patients	OrganismTaxon	9606
+16186368	1076	1084	patients	OrganismTaxon	9606
+16186368	1154	1162	patients	OrganismTaxon	9606
+16186368	1283	1291	patients	OrganismTaxon	9606
+16186368	1390	1398	patients	OrganismTaxon	9606
+16186368	1613	1619	CYP4V2	GeneOrGeneProduct	285440
+16186368	1639	1642	BCD	DiseaseOrPhenotypicFeature	C535440
+16186368	1677	1691	15-bp deletion	SequenceVariant	c|DEL||15
+16186368	Positive_Correlation	c|DEL||15	C535440	Novel
+16186368	Positive_Correlation	rs199476200	C535440	Novel
+16186368	Positive_Correlation	rs146494374	C535440	Novel
+16186368	Association	C535440	285440	No

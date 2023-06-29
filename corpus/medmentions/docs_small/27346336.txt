@@ -1,0 +1,42 @@
+27346336|t|Common Laboratory Parameters for Differentiating Between Community-Acquired and Healthcare-Associated Pneumonia
+27346336|a|The correct diagnosis of healthcare-associated pneumonia (HCAP) as opposed to community-acquired pneumonia is essential for the selection of a correct empirical antimicrobial approach, reserving the broad-spectrum or highly potent antimicrobial therapies for resistant strains most commonly present in HCAP, whereas treating the less resistant strains, most commonly associated with community and long-term care facility - acquired infections, with a more targeted empirical approach. The standard approach today is to differentiate between the two based on the medical history of the past 90 days prior to admission. Measurable, quantitative assessment may be able to assist in this decision. The objective of this study is to find a measurable method of differentiating between community-acquired and healthcare-associated pneumonias. The records of 126 patients admitted with a diagnosis of pneumonia were divided into two groups based on the probable cause of their disease, in accordance with common practice. The routine laboratory work taken upon admittance was analyzed using logistical regression and Student's t-test. We have found that the red blood cell distribution width and the neutrophil -to- lymphocyte ratio, both routine parameters obtained in a simple blood count, can each assist in differentiating between community-acquired and healthcare-associated pneumonias. We have found two statistically significant parameters that may be used as adjuncts to the medical history, chest radiography and other parameters in forming an immediate clinical impression of a patient presenting with pneumonia.
+27346336	7	17	Laboratory	T092	UMLS:C0022877
+27346336	18	28	Parameters	T033	UMLS:C0449381
+27346336	57	75	Community-Acquired	T038	UMLS:C0694549
+27346336	80	111	Healthcare-Associated Pneumonia	T038	UMLS:C1443237
+27346336	124	133	diagnosis	T033	UMLS:C0011900
+27346336	137	168	healthcare-associated pneumonia	T038	UMLS:C1443237
+27346336	170	174	HCAP	T038	UMLS:C1443237
+27346336	190	218	community-acquired pneumonia	T038	UMLS:C0694549
+27346336	273	286	antimicrobial	T103	UMLS:C1136254
+27346336	343	366	antimicrobial therapies	T058	UMLS:C0087111
+27346336	414	418	HCAP	T038	UMLS:C1443237
+27346336	509	532	long-term care facility	T092	UMLS:C1708733
+27346336	535	554	acquired infections	T038	UMLS:C3714514
+27346336	674	689	medical history	T033	UMLS:C0262926
+27346336	719	728	admission	T058	UMLS:C0184666
+27346336	755	765	assessment	T058	UMLS:C0220825
+27346336	796	804	decision	T038	UMLS:C0679006
+27346336	858	864	method	T170	UMLS:C0025663
+27346336	892	910	community-acquired	T038	UMLS:C0694549
+27346336	915	947	healthcare-associated pneumonias	T038	UMLS:C1443237
+27346336	953	960	records	T170	UMLS:C0034869
+27346336	977	985	admitted	T058	UMLS:C0184666
+27346336	993	1002	diagnosis	T033	UMLS:C0011900
+27346336	1006	1015	pneumonia	T038	UMLS:C0032285
+27346336	1110	1125	common practice	T038	UMLS:C0237607
+27346336	1139	1154	laboratory work	T058	UMLS:C0022885
+27346336	1166	1176	admittance	T058	UMLS:C0184666
+27346336	1181	1189	analyzed	T062	UMLS:C0936012
+27346336	1196	1217	logistical regression	T062	UMLS:C0206031
+27346336	1263	1296	red blood cell distribution width	T058	UMLS:C0427460
+27346336	1305	1315	neutrophil	T017	UMLS:C0027950
+27346336	1321	1331	lymphocyte	T017	UMLS:C0024264
+27346336	1344	1362	routine parameters	T033	UMLS:C0449381
+27346336	1384	1395	blood count	T058	UMLS:C0005771
+27346336	1440	1458	community-acquired	T038	UMLS:C0694549
+27346336	1463	1495	healthcare-associated pneumonias	T038	UMLS:C1443237
+27346336	1588	1603	medical history	T033	UMLS:C0262926
+27346336	1605	1622	chest radiography	T058	UMLS:C0039985
+27346336	1627	1643	other parameters	T033	UMLS:C0449381
+27346336	1717	1726	pneumonia	T038	UMLS:C0032285

@@ -1,0 +1,41 @@
+16843501|t|DNA damage and repair in gastric cancer--a correlation with the hOGG1 and RAD51 genes polymorphisms.
+16843501|a|The cell's susceptibility to mutagens and its ability to repair DNA lesions are important for cancer induction, promotion and progression. Both the mutagens' sensitivity and the efficacy of DNA repair may be affected by variation in several genes, including DNA repair genes. The hOGG1 gene encodes glycosylase of base excision repair and RAD51 specifies a key protein in homologues recombination repair. Both can be involved in the repair of oxidative DNA lesions, which can contribute to stomach cancer. In the present work we determined the level of basal and oxidative DNA damage and the kinetics of removal of DNA damage induced by hydrogen peroxide in peripheral blood lymphocytes of 30 gastric cancer patients and 30 healthy individuals. The metrics from DNA damage and repair study were correlated with the genotypes of common polymorphisms of the hOGG1 and RAD51 genes: a G-->C transversion at 1245 position of the hOGG1 gene producing a Ser-->Cys substitution at the codon 326 (the Ser326Cys polymorphism) and a G-->C substitution at position 135 (5'-untranslated region) of the RAD51 gene (the G135C polymorphism). DNA damage and repair were evaluated by alkaline single cell gel electrophoresis (comet assay) assisted by DNA repair enzymes: endonuclease III (Nth) and formamidopyrimidine-DNA glycosylase (Fpg), preferentially recognizing oxidized DNA bases. The genotypes of the polymorphism were determined by restriction fragment length polymorphism PCR. We observed a strong association between gastric cancer occurrence, impaired DNA repair in human lymphocytes and the G/C genotype of the G135C polymorphism of the RAD51 gene. Moreover, there was a strong correlation between that genotype and stomach cancer occurrence in subjects with high level of oxidatively damaged DNA. We did not observe any correlation between the Ser1245Cys polymorphism of the hOGG1 gene and gastric cancer, including subjects with impaired DNA repair and/or high levels of endogenous oxidative DNA lesions. Therefore, our result suggest that the G135C polymorphism of the RAD51 gene may be linked with gastric cancer by the modulation of the cellular response to oxidative stress and this polymorphism may be a useful additional marker in this disease along with the genetic or/and environmental indicators of oxidative stress.
+16843501	25	39	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+16843501	64	69	hOGG1	GeneOrGeneProduct	4968
+16843501	74	79	RAD51	GeneOrGeneProduct	5888
+16843501	195	201	cancer	DiseaseOrPhenotypicFeature	D009369
+16843501	381	386	hOGG1	GeneOrGeneProduct	4968
+16843501	440	445	RAD51	GeneOrGeneProduct	5888
+16843501	591	605	stomach cancer	DiseaseOrPhenotypicFeature	D013274
+16843501	738	755	hydrogen peroxide	ChemicalEntity	D006861
+16843501	794	808	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+16843501	809	817	patients	OrganismTaxon	9606
+16843501	957	962	hOGG1	GeneOrGeneProduct	4968
+16843501	967	972	RAD51	GeneOrGeneProduct	5888
+16843501	982	1017	G-->C transversion at 1245 position	SequenceVariant	rs1052133
+16843501	1025	1030	hOGG1	GeneOrGeneProduct	4968
+16843501	1048	1087	Ser-->Cys substitution at the codon 326	SequenceVariant	rs1052133
+16843501	1093	1102	Ser326Cys	SequenceVariant	rs1052133
+16843501	1123	1157	G-->C substitution at position 135	SequenceVariant	g|SUB|G|135|C
+16843501	1190	1195	RAD51	GeneOrGeneProduct	5888
+16843501	1206	1211	G135C	SequenceVariant	g|SUB|G|135|C
+16843501	1354	1370	endonuclease III	GeneOrGeneProduct	4913
+16843501	1372	1375	Nth	GeneOrGeneProduct	4913
+16843501	1381	1416	formamidopyrimidine-DNA glycosylase	GeneOrGeneProduct	79661
+16843501	1418	1421	Fpg	GeneOrGeneProduct	79661
+16843501	1611	1625	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+16843501	1661	1666	human	OrganismTaxon	9606
+16843501	1687	1690	G/C	SequenceVariant	g|SUB|G||C
+16843501	1707	1712	G135C	SequenceVariant	g|SUB|G|135|C
+16843501	1733	1738	RAD51	GeneOrGeneProduct	5888
+16843501	1812	1826	stomach cancer	DiseaseOrPhenotypicFeature	D013274
+16843501	1941	1951	Ser1245Cys	SequenceVariant	rs1052133
+16843501	1972	1977	hOGG1	GeneOrGeneProduct	4968
+16843501	1987	2001	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+16843501	2142	2147	G135C	SequenceVariant	g|SUB|G|135|C
+16843501	2168	2173	RAD51	GeneOrGeneProduct	5888
+16843501	2198	2212	gastric cancer	DiseaseOrPhenotypicFeature	D013274
+16843501	Association	4968	D013274	Novel
+16843501	Association	g|SUB|G|135|C	D013274	Novel
+16843501	Association	g|SUB|G||C	D013274	Novel
+16843501	Association	D013274	5888	Novel

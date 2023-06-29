@@ -1,0 +1,49 @@
+27286759|t|Spatial analysis of drug poisoning deaths in the American West, particularly Utah
+27286759|a|Most states in the Western US have high rates of drug poisoning death (DPD), especially New Mexico, Nevada, Arizona and Utah (UT). This seems paradoxical in UT where illicit drug use, smoking and drinking rates are low. To investigate this, spatial analysis of county level DPD data and other relevant factors in the Western US and UT was undertaken. Poisson kriging was used to smooth the DPD data, populate data gaps and improve the reliability of rates recorded in sparsely populated counties. Links between DPD and economic, environmental, health, lifestyle, and demographic factors were investigated at four scales using multiple linear regression. LDS church membership and altitude, factors not previously considered, were included. Spatial change in the strength and sign of relationships was investigated using geographically weighted regression and significant DPD clusters were identified using the Local Moran's I. Economic factors, like the sharp social gradient between rural and urban areas were important to DPD throughout the west. Higher DPD rates were also found in areas of higher elevation and the desert rural areas in the south. The unique characteristics of DPD in UT in terms of health and lifestyle factors, as well as the demographic structure of DPD in the most LDS populous states (UT, Idaho, Wyoming), suggest that high DPD in heavily LDS areas are predominantly prescription opioid related whereas in other Western states a larger proportion of DPD might come from illicit drugs. Drug policies need to be adapted to the geographical differences in the dominant type of drug causing death. Educational materials need to be marketed to the demographic groups at greatest risk and take into account differences in population characteristics between and within States. Some suggestions about how such adaptations can be made are given and future research needs outlined.
+27286759	0	16	Spatial analysis	T062	UMLS:C0814926
+27286759	20	34	drug poisoning	T037	UMLS:C0013221
+27286759	35	41	deaths	T038	UMLS:C0011065
+27286759	49	62	American West	T082	UMLS:C0041703
+27286759	77	81	Utah	T082	UMLS:C0042124
+27286759	87	93	states	T082	UMLS:C1301808
+27286759	101	111	Western US	T082	UMLS:C0041703
+27286759	131	145	drug poisoning	T037	UMLS:C0013221
+27286759	146	151	death	T038	UMLS:C0011065
+27286759	153	156	DPD	T038	UMLS:C0011065
+27286759	170	180	New Mexico	T082	UMLS:C0027972
+27286759	182	188	Nevada	T082	UMLS:C0027951
+27286759	190	197	Arizona	T082	UMLS:C0003787
+27286759	202	206	Utah	T082	UMLS:C0042124
+27286759	208	210	UT	T082	UMLS:C0042124
+27286759	239	241	UT	T082	UMLS:C0042124
+27286759	323	339	spatial analysis	T062	UMLS:C0814926
+27286759	343	349	county	T082	UMLS:C0079170
+27286759	356	359	DPD	T038	UMLS:C0011065
+27286759	399	409	Western US	T082	UMLS:C0041703
+27286759	414	416	UT	T082	UMLS:C0042124
+27286759	433	448	Poisson kriging	T062	UMLS:C3494287
+27286759	472	475	DPD	T038	UMLS:C0011065
+27286759	550	577	sparsely populated counties	T082	UMLS:C0079170
+27286759	593	596	DPD	T038	UMLS:C0011065
+27286759	822	836	Spatial change	T082	UMLS:C0012727
+27286759	953	956	DPD	T038	UMLS:C0011065
+27286759	1106	1109	DPD	T038	UMLS:C0011065
+27286759	1167	1172	areas	T082	UMLS:C0205146
+27286759	1183	1192	elevation	T082	UMLS:C0702240
+27286759	1227	1232	south	T082	UMLS:C1710133
+27286759	1264	1267	DPD	T038	UMLS:C0011065
+27286759	1271	1273	UT	T082	UMLS:C0042124
+27286759	1356	1359	DPD	T038	UMLS:C0011065
+27286759	1372	1391	LDS populous states	T082	UMLS:C1301808
+27286759	1393	1395	UT	T082	UMLS:C0042124
+27286759	1397	1402	Idaho	T082	UMLS:C0020787
+27286759	1404	1411	Wyoming	T082	UMLS:C0043287
+27286759	1432	1435	DPD	T038	UMLS:C0011065
+27286759	1439	1456	heavily LDS areas	T082	UMLS:C0017446
+27286759	1488	1494	opioid	T103	UMLS:C0242402
+27286759	1520	1534	Western states	T082	UMLS:C0041703
+27286759	1558	1561	DPD	T038	UMLS:C0011065
+27286759	1578	1591	illicit drugs	T103	UMLS:C0086190
+27286759	1682	1686	drug	T103	UMLS:C0013227
+27286759	1695	1700	death	T038	UMLS:C0011065
+27286759	1870	1876	States	T082	UMLS:C1301808

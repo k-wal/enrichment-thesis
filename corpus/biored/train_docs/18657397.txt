@@ -1,0 +1,21 @@
+18657397|t|Detailed spectral profile analysis of penicillin-induced epileptiform activity in anesthetized rats.
+18657397|a|Penicillin model is a widely used experimental model for epilepsy research. In the present study we aimed to portray a detailed spectral analysis of penicillin-induced epileptiform activity in comparison with basal brain activity in anesthetized Wistar rats. Male Wistar rats were anesthetized with i.p. urethane and connected to an electrocorticogram setup. After a short period of basal activity recording, epileptic focus was induced by injecting 400IU/2 microl penicillin-G potassium into the left lateral ventricle while the cortical activity was continuously recorded. Basal activity, latent period and the penicillin-induced epileptiform activity periods were then analyzed using both conventional methods and spectral analysis. Spectral analyses were conducted by dividing the whole spectrum into different frequency bands including delta, theta (slow and fast), alpha-sigma, beta (1 and 2) and gamma (1 and 2) bands. Our results show that the most affected frequency bands were delta, theta, beta-2 and gamma-2 bands during the epileptiform activity and there were marked differences in terms of spectral densities between three investigated episodes (basal activity, latent period and epileptiform activity). Our results may help to analyze novel data obtained using similar experimental models and the simple analysis method described here can be used in similar studies to investigate the basic neuronal mechanism of this or other types of experimental epilepsies.
+18657397	38	48	penicillin	ChemicalEntity	D010406
+18657397	57	78	epileptiform activity	DiseaseOrPhenotypicFeature	D004827
+18657397	95	99	rats	OrganismTaxon	10116
+18657397	101	111	Penicillin	ChemicalEntity	D010406
+18657397	158	166	epilepsy	DiseaseOrPhenotypicFeature	D004827
+18657397	250	260	penicillin	ChemicalEntity	D010406
+18657397	269	290	epileptiform activity	DiseaseOrPhenotypicFeature	D004827
+18657397	354	358	rats	OrganismTaxon	10116
+18657397	372	376	rats	OrganismTaxon	10116
+18657397	405	413	urethane	ChemicalEntity	D014520
+18657397	510	519	epileptic	DiseaseOrPhenotypicFeature	D004827
+18657397	566	588	penicillin-G potassium	ChemicalEntity	D010400
+18657397	714	724	penicillin	ChemicalEntity	D010406
+18657397	733	754	epileptiform activity	DiseaseOrPhenotypicFeature	D004827
+18657397	1138	1159	epileptiform activity	DiseaseOrPhenotypicFeature	D004827
+18657397	1296	1317	epileptiform activity	DiseaseOrPhenotypicFeature	D004827
+18657397	1566	1576	epilepsies	DiseaseOrPhenotypicFeature	D004827
+18657397	Positive_Correlation	D004827	D010400	No
+18657397	Positive_Correlation	D010406	D004827	No

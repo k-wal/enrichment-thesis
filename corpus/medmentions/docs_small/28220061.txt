@@ -1,0 +1,46 @@
+28220061|t|A Model of Induction of Cerebellar Long-Term Depression Including RKIP Inactivation of Raf and MEK
+28220061|a|We report an updated stochastic model of cerebellar Long Term Depression (LTD) with improved realism. Firstly, we verify experimentally that dissociation of Raf kinase inhibitor protein (RKIP) from Mitogen-activated protein kinase kinase (MEK) is required for cerebellar LTD and add this interaction to an earlier published model, along with the known requirement of dissociation of RKIP from Raf kinase. We update Ca(2+) dynamics as a constant-rate influx, which captures experimental input profiles accurately. We improve α-amino-3-hydroxy-5-methyl-4 isoxazolepropionic acid (AMPA) receptor interactions by adding phosphorylation and dephosphorylation of AMPA receptors when bound to glutamate receptor interacting protein (GRIP). The updated model is tuned to reproduce experimental Ca(2+) peak vs. LTD amplitude curves at four different Ca(2+) pulse durations as closely as possible. We find that the updated model is generally more robust with these changes, yet we still observe some sensitivity of LTD induction to copy number of the key signaling molecule Protein kinase C (PKC). We predict natural variability in this number by stochastic diffusion may influence the probabilistic LTD response to Ca(2+) input in Purkinje cell spines and propose this as an extra source of stochasticity that may be important also in other signaling systems.
+28220061	24	34	Cerebellar	T017	UMLS:C0007765
+28220061	35	55	Long-Term Depression	T038	UMLS:C2610415
+28220061	66	70	RKIP	T103	UMLS:C0300821
+28220061	87	90	Raf	T103	UMLS:C1449849
+28220061	95	98	MEK	T103	UMLS:C0169101
+28220061	102	108	report	T170	UMLS:C0684224
+28220061	140	150	cerebellar	T017	UMLS:C0007765
+28220061	151	171	Long Term Depression	T038	UMLS:C2610415
+28220061	173	176	LTD	T038	UMLS:C2610415
+28220061	183	191	improved	T033	UMLS:C0184511
+28220061	256	284	Raf kinase inhibitor protein	T103	UMLS:C0300821
+28220061	286	290	RKIP	T103	UMLS:C0300821
+28220061	297	336	Mitogen-activated protein kinase kinase	T103	UMLS:C0169101
+28220061	338	341	MEK	T103	UMLS:C0169101
+28220061	359	369	cerebellar	T017	UMLS:C0007765
+28220061	370	373	LTD	T038	UMLS:C2610415
+28220061	482	486	RKIP	T103	UMLS:C0300821
+28220061	492	502	Raf kinase	T103	UMLS:C1449849
+28220061	514	520	Ca(2+)	T103	UMLS:C0596235
+28220061	521	529	dynamics	T062	UMLS:C1514544
+28220061	615	622	improve	T033	UMLS:C0184511
+28220061	623	675	α-amino-3-hydroxy-5-methyl-4 isoxazolepropionic acid	T103	UMLS:C0051318
+28220061	677	681	AMPA	T103	UMLS:C0051318
+28220061	683	691	receptor	T103	UMLS:C0597357
+28220061	715	730	phosphorylation	T038	UMLS:C0031715
+28220061	735	752	dephosphorylation	T038	UMLS:C1158884
+28220061	756	760	AMPA	T103	UMLS:C0051318
+28220061	761	770	receptors	T103	UMLS:C0597357
+28220061	776	781	bound	T038	UMLS:C1167622
+28220061	785	823	glutamate receptor interacting protein	T103	UMLS:C0033684
+28220061	825	829	GRIP	T103	UMLS:C0033684
+28220061	885	891	Ca(2+)	T103	UMLS:C0596235
+28220061	901	904	LTD	T038	UMLS:C2610415
+28220061	905	914	amplitude	T082	UMLS:C2346753
+28220061	940	946	Ca(2+)	T103	UMLS:C0596235
+28220061	1104	1107	LTD	T038	UMLS:C2610415
+28220061	1144	1162	signaling molecule	T103	UMLS:C1519315
+28220061	1163	1179	Protein kinase C	T103	UMLS:C1259877
+28220061	1181	1184	PKC	T103	UMLS:C1259877
+28220061	1289	1292	LTD	T038	UMLS:C2610415
+28220061	1305	1311	Ca(2+)	T103	UMLS:C0596235
+28220061	1321	1334	Purkinje cell	T017	UMLS:C0034143
+28220061	1371	1377	source	T033	UMLS:C0449416
+28220061	1431	1448	signaling systems	T038	UMLS:C1148560

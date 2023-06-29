@@ -1,0 +1,71 @@
+28441911|t|The effects of a data driven maximum surgical blood ordering schedule on preoperative blood ordering practices
+28441911|a|The maximum surgical blood ordering schedule (MSBOS) provides guidelines for pre-operative pre-transfusion testing for elective surgical procedures. This study compared blood ordering and utilization during the period when the MSBOS was created by achieving consensus between the blood bank and the various surgical specialties, and after the introduction of an MSBOS created by using department-specific red blood cell (RBC) transfusion data (data driven MSBOS, dMSBOS). The dMSBOS was created by analyzing 12 months of RBC transfusion data for each procedure across a regional health system. Pre-transfusion testing and the RBC crossmatch: transfusion (C:T) ratios at 8 of the hospitals were compared between the 12 month period before the dMSBOS was introduced, and the 15 months after its introduction. There were significant reductions in the median monthly number of type and screens not associated with RBC crossmatches (10 714-10 061; p < 0.0001) and the median number of type and screens associated with RBC crossmatches (10 127-9 349; p = 0.0014) on surgical patients after dMSBOS implementation. There were significant decreases in the median number of monthly RBC units crossmatched (2 981-2 444; p < 0.0001) and transfused (890-791; p < 0.0001) to surgical patients after implementing the dMSBOS. The overall system-wide C:T ratio trended down after dMSBOS implementation (from 3.34 to 3.17, p = 0.067). Crossmatching fewer RBC units facilitates more efficient management of the blood bank's inventory. The dMSBOS was effective in reducing the extent of unnecessary pre-transfusion testing before surgery and reduced the number of RBCs that were crossmatched for specific patients.
+28441911	17	69	data driven maximum surgical blood ordering schedule	T170	C0086960
+28441911	73	85	preoperative	T079	C0445204
+28441911	86	110	blood ordering practices	T058	C1549263
+28441911	115	155	maximum surgical blood ordering schedule	T170	C0086960
+28441911	157	162	MSBOS	T170	C0086960
+28441911	188	201	pre-operative	T079	C0445204
+28441911	202	217	pre-transfusion	T079	C1979588
+28441911	218	225	testing	T060	C0683443
+28441911	230	258	elective surgical procedures	T061	C0206058
+28441911	265	270	study	T062	C2603343
+28441911	280	294	blood ordering	T058	C1549263
+28441911	338	343	MSBOS	T170	C0086960
+28441911	391	401	blood bank	T073,T093	C0005770
+28441911	418	438	surgical specialties	T091	C0037781
+28441911	473	478	MSBOS	T170	C0086960
+28441911	516	530	red blood cell	T025	C0014792
+28441911	532	535	RBC	T025	C0014792
+28441911	537	548	transfusion	T061	C0005841
+28441911	549	553	data	T078	C1511726
+28441911	555	572	data driven MSBOS	T170	C0086960
+28441911	574	580	dMSBOS	T170	C0086960
+28441911	587	593	dMSBOS	T170	C0086960
+28441911	622	628	months	T079	C0439231
+28441911	632	635	RBC	T025	C0014792
+28441911	636	647	transfusion	T061	C0005841
+28441911	648	652	data	T078	C1511726
+28441911	681	689	regional	T082	C0205147
+28441911	690	703	health system	T093	C0018696
+28441911	705	720	Pre-transfusion	T079	C1979588
+28441911	721	728	testing	T060	C0683443
+28441911	737	740	RBC	T025	C0014792
+28441911	741	751	crossmatch	T059	C0855279
+28441911	753	764	transfusion	T061	C0005841
+28441911	765	777	(C:T) ratios	T081	C0456603
+28441911	790	799	hospitals	T073,T093	C0019994
+28441911	829	834	month	T079	C0439231
+28441911	853	859	dMSBOS	T170	C0086960
+28441911	887	893	months	T079	C0439231
+28441911	966	973	monthly	T079	C0332177
+28441911	1021	1024	RBC	T025	C0014792
+28441911	1025	1037	crossmatches	T059	C0855279
+28441911	1124	1127	RBC	T025	C0014792
+28441911	1128	1140	crossmatches	T059	C0855279
+28441911	1171	1179	surgical	T061	C0543467
+28441911	1180	1188	patients	T101	C0030705
+28441911	1195	1201	dMSBOS	T170	C0086960
+28441911	1202	1216	implementation	T052	C1708476
+28441911	1275	1282	monthly	T079	C0332177
+28441911	1283	1286	RBC	T025	C0014792
+28441911	1293	1305	crossmatched	T059	C0855279
+28441911	1336	1346	transfused	T061	C0005841
+28441911	1372	1380	surgical	T061	C0543467
+28441911	1381	1389	patients	T101	C0030705
+28441911	1396	1408	implementing	T052	C1708476
+28441911	1413	1419	dMSBOS	T170	C0086960
+28441911	1445	1454	C:T ratio	T081	C0456603
+28441911	1474	1480	dMSBOS	T170	C0086960
+28441911	1481	1495	implementation	T052	C1708476
+28441911	1528	1541	Crossmatching	T059	C0855279
+28441911	1548	1551	RBC	T025	C0014792
+28441911	1552	1557	units	T081	C1519795
+28441911	1603	1625	blood bank's inventory	T059	C0200614
+28441911	1631	1637	dMSBOS	T170	C0086960
+28441911	1690	1705	pre-transfusion	T079	C1979588
+28441911	1706	1713	testing	T060	C0683443
+28441911	1721	1728	surgery	T061	C0543467
+28441911	1755	1759	RBCs	T025	C0014792
+28441911	1770	1782	crossmatched	T059	C0855279
+28441911	1796	1804	patients	T101	C0030705

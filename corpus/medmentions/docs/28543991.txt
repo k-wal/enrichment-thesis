@@ -1,0 +1,116 @@
+28543991|t|Sensitivity and Specificity of Plasma ALT, ALP, and Bile Acids for Hepatitis in Labrador Retrievers
+28543991|a|Biochemical indicators for diagnosing liver disease are plasma alanine aminotransferase activity (ALT), alkaline phosphatase activity (ALP), and bile acid concentration (BA). To determine the sensitivity and specificity of ALT, ALP, and BA for detecting primary hepatitis (PH) in clinically healthy Labrador retrievers and investigate whether ALT and ALP can discriminate between dogs with PH and nonspecific reactive hepatitis (RH). 191 clinically healthy and 51 clinically ill Labrador retrievers with hepatic histopathology. Retrospective study. Medical records were reviewed for ALT, ALP, preprandial BA, liver histopathology, and hepatic copper concentrations. In 64% (122/191) of the clinically healthy Labrador retrievers, hepatic histology revealed inflammatory infiltrates. This frequency might be biased because part of them was included as first-line relatives of dogs with copper-associated hepatitis. Sensitivity of ALT, ALP, and BA in this population for detecting acute hepatitis was 45, 15, and 15%, respectively. For chronic hepatitis, sensitivity was 71, 35, and 13%, respectively. Specificity of ALT, ALP, and BA was >90% for AH, CH, and RH. When increased liver enzymes were present, median ALT was significantly higher in PH cases (312 U/L, range 38-1,369) compared to RH cases (91 U/L, range 39-139) (P < .001). There was no difference in ALP between dogs with a PH and a RH (P = .361). Histopathologic abnormalities in the liver were present in the majority of apparent clinically healthy Labrador retrievers. The sensitivity of ALT, ALP, and BA for detecting acute and chronic hepatitis in this population was low. More sensitive biomarkers are needed for early detection of liver disease in apparent clinically healthy dogs.
+28543991	0	27	Sensitivity and Specificity	T081	C0036668
+28543991	31	37	Plasma	T031	C0032105
+28543991	38	41	ALT	T116,T126	C0001899
+28543991	43	46	ALP	T116,T126	C0002059
+28543991	52	62	Bile Acids	T109,T123	C0005390
+28543991	67	76	Hepatitis	T047	C0019158
+28543991	80	99	Labrador Retrievers	T015	C0324431
+28543991	100	122	Biochemical indicators	T130	C0021212
+28543991	127	137	diagnosing	T033	C0011900
+28543991	138	151	liver disease	T047	C0023895
+28543991	156	162	plasma	T031	C0032105
+28543991	163	196	alanine aminotransferase activity	T044	C2257648
+28543991	198	201	ALT	T116,T126	C0001899
+28543991	204	233	alkaline phosphatase activity	T044	C1149888
+28543991	235	238	ALP	T116,T126	C0002059
+28543991	245	268	bile acid concentration	T059	C0523530
+28543991	270	272	BA	T109,T123	C0005390
+28543991	292	319	sensitivity and specificity	T081	C0036668
+28543991	323	326	ALT	T116,T126	C0001899
+28543991	328	331	ALP	T116,T126	C0002059
+28543991	337	339	BA	T109,T123	C0005390
+28543991	344	353	detecting	T033	C0442726
+28543991	354	371	primary hepatitis	T047	C0019158
+28543991	373	375	PH	T047	C0019158
+28543991	380	398	clinically healthy	T080	C3898900
+28543991	399	418	Labrador retrievers	T015	C0324431
+28543991	423	434	investigate	T169	C1292732
+28543991	443	446	ALT	T116,T126	C0001899
+28543991	451	454	ALP	T116,T126	C0002059
+28543991	459	471	discriminate	T080	C0205235
+28543991	480	484	dogs	T015	C0012984
+28543991	490	492	PH	T047	C0019158
+28543991	497	508	nonspecific	T078	C0750540
+28543991	509	527	reactive hepatitis	T047	C1399450
+28543991	529	531	RH	T047	C1399450
+28543991	538	556	clinically healthy	T080	C3898900
+28543991	564	578	clinically ill	T184	C0221423
+28543991	579	598	Labrador retrievers	T015	C0324431
+28543991	604	611	hepatic	T029	C0205054
+28543991	612	626	histopathology	T091	C0677043
+28543991	628	647	Retrospective study	T062	C0035363
+28543991	649	664	Medical records	T170	C0025102
+28543991	670	678	reviewed	T080	C1709940
+28543991	683	686	ALT	T116,T126	C0001899
+28543991	688	691	ALP	T116,T126	C0002059
+28543991	693	704	preprandial	T079	C1550738
+28543991	705	707	BA	T109,T123	C0005390
+28543991	709	714	liver	T023	C0023884
+28543991	715	729	histopathology	T091	C0677043
+28543991	735	764	hepatic copper concentrations	T033	C3672035
+28543991	790	808	clinically healthy	T080	C3898900
+28543991	809	828	Labrador retrievers	T015	C0324431
+28543991	830	847	hepatic histology	T033	C1857467
+28543991	848	856	revealed	T080	C0443289
+28543991	857	881	inflammatory infiltrates	T033	C3887644
+28543991	888	897	frequency	T079	C0439603
+28543991	907	913	biased	T078	C0242568
+28543991	939	947	included	T169	C0332257
+28543991	951	961	first-line	T080	C0444502
+28543991	975	979	dogs	T015	C0012984
+28543991	985	1012	copper-associated hepatitis	T047	C1299900
+28543991	1014	1025	Sensitivity	T062	C1516631
+28543991	1029	1032	ALT	T116,T126	C0001899
+28543991	1034	1037	ALP	T116,T126	C0002059
+28543991	1043	1045	BA	T109,T123	C0005390
+28543991	1054	1064	population	T008	C1318101
+28543991	1079	1094	acute hepatitis	T047	C0267797
+28543991	1134	1151	chronic hepatitis	T047	C0019189
+28543991	1153	1164	sensitivity	T062	C1516631
+28543991	1200	1211	Specificity	T081	C0037791
+28543991	1215	1218	ALT	T116,T126	C0001899
+28543991	1220	1223	ALP	T116,T126	C0002059
+28543991	1229	1231	BA	T109,T123	C0005390
+28543991	1245	1247	AH	T047	C0267797
+28543991	1249	1251	CH	T047	C0019189
+28543991	1257	1259	RH	T047	C1399450
+28543991	1266	1289	increased liver enzymes	T033	C0235996
+28543991	1295	1302	present	T033	C0150312
+28543991	1304	1310	median	T081	C2348144
+28543991	1311	1314	ALT	T116,T126	C0001899
+28543991	1319	1339	significantly higher	T080	C0205250
+28543991	1343	1345	PH	T047	C0019158
+28543991	1346	1351	cases	T169	C0868928
+28543991	1362	1367	range	T081	C1514721
+28543991	1378	1386	compared	T052	C1707455
+28543991	1390	1392	RH	T047	C1399450
+28543991	1393	1398	cases	T169	C0868928
+28543991	1408	1413	range	T081	C1514721
+28543991	1444	1457	no difference	T033	C3842396
+28543991	1461	1464	ALP	T116,T126	C0002059
+28543991	1473	1477	dogs	T015	C0012984
+28543991	1485	1487	PH	T047	C0019158
+28543991	1494	1496	RH	T047	C1399450
+28543991	1509	1524	Histopathologic	T091	C0677043
+28543991	1525	1538	abnormalities	T033	C1704258
+28543991	1546	1551	liver	T023	C0023884
+28543991	1557	1564	present	T033	C0150312
+28543991	1584	1592	apparent	T078	C0750489
+28543991	1593	1611	clinically healthy	T080	C3898900
+28543991	1612	1631	Labrador retrievers	T015	C0324431
+28543991	1637	1648	sensitivity	T062	C1516631
+28543991	1652	1655	ALT	T116,T126	C0001899
+28543991	1657	1660	ALP	T116,T126	C0002059
+28543991	1666	1668	BA	T109,T123	C0005390
+28543991	1683	1688	acute	T047	C0267797
+28543991	1693	1710	chronic hepatitis	T047	C0019189
+28543991	1719	1729	population	T008	C1318101
+28543991	1744	1753	sensitive	T169	C0332324
+28543991	1754	1764	biomarkers	T201	C0005516
+28543991	1780	1795	early detection	T060	C2350051
+28543991	1799	1812	liver disease	T047	C0023895
+28543991	1816	1824	apparent	T078	C0750489
+28543991	1825	1843	clinically healthy	T080	C3898900
+28543991	1844	1848	dogs	T015	C0012984

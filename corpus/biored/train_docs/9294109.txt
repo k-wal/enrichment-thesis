@@ -1,0 +1,31 @@
+9294109|t|Myotonic dystrophy protein kinase is involved in the modulation of the Ca2+ homeostasis in skeletal muscle cells.
+9294109|a|Myotonic dystrophy (DM), the most prevalent muscular disorder in adults, is caused by (CTG) n-repeat expansion in a gene encoding a protein kinase (DM protein kinase; DMPK) and involves changes in cytoarchitecture and ion homeostasis. To obtain clues to the normal biological role of DMPK in cellular ion homeostasis, we have compared the resting [Ca2 +] i, the amplitude and shape of depolarization-induced Ca2 + transients, and the content of ATP-driven ion pumps in cultured skeletal muscle cells of wild-type and DMPK [-/-] knockout mice. In vitro-differentiated DMPK [-/-] myotubes exhibit a higher resting [Ca2 +] i than do wild-type myotubes because of an altered open probability of voltage-dependent l-type Ca2 + and Na + channels. The mutant myotubes exhibit smaller and slower Ca2 + responses upon triggering by acetylcholine or high external K +. In addition, we observed that these Ca2 + transients partially result from an influx of extracellular Ca2 + through the l-type Ca2 + channel. Neither the content nor the activity of Na +/K + ATPase and sarcoplasmic reticulum Ca2 + -ATPase are affected by DMPK absence. In conclusion, our data suggest that DMPK is involved in modulating the initial events of excitation-contraction coupling in skeletal muscle.. 
+9294109	0	33	Myotonic dystrophy protein kinase	GeneOrGeneProduct	13400
+9294109	71	75	Ca2+	ChemicalEntity	D002118
+9294109	114	132	Myotonic dystrophy	DiseaseOrPhenotypicFeature	D009223
+9294109	134	136	DM	DiseaseOrPhenotypicFeature	D009223
+9294109	158	175	muscular disorder	DiseaseOrPhenotypicFeature	D009135
+9294109	262	279	DM protein kinase	GeneOrGeneProduct	13400
+9294109	281	285	DMPK	GeneOrGeneProduct	13400
+9294109	398	402	DMPK	GeneOrGeneProduct	13400
+9294109	462	467	Ca2 +	ChemicalEntity	D002118
+9294109	522	527	Ca2 +	ChemicalEntity	D002118
+9294109	559	562	ATP	ChemicalEntity	D000255
+9294109	631	635	DMPK	GeneOrGeneProduct	13400
+9294109	651	655	mice	OrganismTaxon	10090
+9294109	681	685	DMPK	GeneOrGeneProduct	13400
+9294109	727	732	Ca2 +	ChemicalEntity	D002118
+9294109	830	835	Ca2 +	ChemicalEntity	D002118
+9294109	840	844	Na +	ChemicalEntity	D012964
+9294109	902	907	Ca2 +	ChemicalEntity	D002118
+9294109	937	950	acetylcholine	ChemicalEntity	D000109
+9294109	968	971	K +	ChemicalEntity	D011188
+9294109	1009	1014	Ca2 +	ChemicalEntity	D002118
+9294109	1075	1080	Ca2 +	ChemicalEntity	D002118
+9294109	1100	1105	Ca2 +	ChemicalEntity	D002118
+9294109	1155	1170	Na +/K + ATPase	ChemicalEntity	-
+9294109	1175	1211	sarcoplasmic reticulum Ca2 + -ATPase	ChemicalEntity	D053498
+9294109	1228	1232	DMPK	GeneOrGeneProduct	13400
+9294109	1279	1283	DMPK	GeneOrGeneProduct	13400
+9294109	Association	D009223	13400	No
+9294109	Negative_Correlation	D002118	13400	Novel

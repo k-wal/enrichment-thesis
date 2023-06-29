@@ -1,0 +1,30 @@
+27645367|t|Heterogeneous depression trajectories in multiple sclerosis patients
+27645367|a|Trajectories of depression over time may be heterogeneous in Multiple Sclerosis (MS) patients. Describing these trajectories will help clinicians understand better the progression of depression in MS patients to aid in patient care decisions. Latent class growth analysis (LCGA) was applied to 3507 MS patients using an electronic health records (EHR) data base to identify subgroups of MS patients based on self-reported depression screening (PHQ-9). Latent trajectory classes were used for group comparisons based on baseline clinical characteristics. Three subgroups were found characterized by high (10.0% [of participants]), wavering above and below moderate (26.2%) and low and variable (63.8%) depression level trajectories. The subpopulation trajectories, respectively, were also characterized by high, moderate and low MS disability at baseline. In contrast, the overall average trajectory was slightly declining and below the moderate depression threshold. The LCGA approach described in this paper and applied to MS patients provides a template for improved use of an EHR data base for understanding heterogeneous depression screening trajectories. Clinicians may use such information to more closely monitor patients that are expected to maintain high or unstable depression levels.
+27645367	14	24	depression	T038	UMLS:C0011570
+27645367	41	59	multiple sclerosis	T038	UMLS:C0026769
+27645367	85	95	depression	T038	UMLS:C0011570
+27645367	130	148	Multiple Sclerosis	T038	UMLS:C0026769
+27645367	150	152	MS	T038	UMLS:C0026769
+27645367	204	214	clinicians	T097	UMLS:C0871685
+27645367	252	262	depression	T038	UMLS:C0011570
+27645367	266	268	MS	T038	UMLS:C0026769
+27645367	368	370	MS	T038	UMLS:C0026769
+27645367	389	430	electronic health records (EHR) data base	T170	UMLS:C2362543
+27645367	443	452	subgroups	T098	UMLS:C1257890
+27645367	456	458	MS	T038	UMLS:C0026769
+27645367	491	511	depression screening	T058	UMLS:C0740218
+27645367	561	566	group	T098	UMLS:C1257890
+27645367	629	638	subgroups	T098	UMLS:C1257890
+27645367	683	695	participants	T098	UMLS:C0679646
+27645367	770	786	depression level	T033	UMLS:C1319226
+27645367	805	818	subpopulation	T098	UMLS:C1257890
+27645367	897	899	MS	T038	UMLS:C0026769
+27645367	900	910	disability	T033	UMLS:C0231170
+27645367	1014	1024	depression	T038	UMLS:C0011570
+27645367	1093	1095	MS	T038	UMLS:C0026769
+27645367	1148	1161	EHR data base	T170	UMLS:C2362543
+27645367	1194	1214	depression screening	T058	UMLS:C0740218
+27645367	1229	1239	Clinicians	T097	UMLS:C0871685
+27645367	1281	1297	monitor patients	T058	UMLS:C0030695
+27645367	1336	1344	unstable	T033	UMLS:C0443343
+27645367	1345	1362	depression levels	T033	UMLS:C1319226

@@ -1,0 +1,53 @@
+27708411|t|DNA annealing by Redβ is insufficient for homologous recombination and the additional requirements involve intra- and inter-molecular interactions
+27708411|a|Single strand annealing proteins (SSAPs) like Redβ initiate homologous recombination by annealing complementary DNA strands. We show that C-terminally truncated Redβ, whilst still able to promote annealing and nucleoprotein filament formation, is unable to mediate homologous recombination. Mutations of the C-terminal domain were evaluated using both single - and double stranded (ss and ds) substrates in recombination assays. Mutations of critical amino acids affected either dsDNA recombination or both ssDNA and dsDNA recombination indicating two separable functions, one of which is critical for dsDNA recombination and the second for recombination per se. As evaluated by co-immunoprecipitation experiments, the dsDNA recombination function relates to the Redα - Redβ protein-protein interaction, which requires not only contacts in the C-terminal domain but also a region near the N-terminus. Because the nucleoprotein filament formed with C-terminally truncated Redβ has altered properties, the second C-terminal function could be due to an interaction required for functional filaments. Alternatively the second C-terminal function could indicate a requirement for a Redβ - host factor interaction. These data further advance the model for Red recombination and the proposition that Redβ and RAD52 SSAPs share ancestral and mechanistic roots.
+27708411	0	13	DNA annealing	T045	C0920681
+27708411	17	21	Redβ	T116,T123	C0766456
+27708411	42	66	homologous recombination	T045	C0599773
+27708411	107	146	intra- and inter-molecular interactions	UnknownType	C0678593
+27708411	147	179	Single strand annealing proteins	T116,T123	C0033684
+27708411	181	186	SSAPs	T116,T123	C0033684
+27708411	193	197	Redβ	T116,T123	C0766456
+27708411	207	231	homologous recombination	T045	C0599773
+27708411	235	270	annealing complementary DNA strands	T114	C0006556
+27708411	285	307	C-terminally truncated	T044	C1514568
+27708411	308	312	Redβ	T116,T123	C0766456
+27708411	343	352	annealing	T045	C0920681
+27708411	357	389	nucleoprotein filament formation	T045	C1158503
+27708411	412	436	homologous recombination	T045	C0599773
+27708411	438	447	Mutations	T045	C0026882
+27708411	455	472	C-terminal domain	T087	C1514562
+27708411	499	505	single	T114	C0012935
+27708411	512	527	double stranded	T114,T123	C0311474
+27708411	529	531	ss	T114	C0012935
+27708411	536	538	ds	T114,T123	C0311474
+27708411	554	567	recombination	T045	C0034865
+27708411	568	574	assays	T059	C0005507
+27708411	576	585	Mutations	T059,T063	C0012878
+27708411	589	609	critical amino acids	T116,T121,T123	C0002520
+27708411	626	631	dsDNA	T114,T123	C0311474
+27708411	632	645	recombination	T043	C1158522
+27708411	654	659	ssDNA	T114	C0012935
+27708411	664	683	dsDNA recombination	T043	C1158522
+27708411	749	768	dsDNA recombination	T043	C1158522
+27708411	788	801	recombination	T043	C1158522
+27708411	826	860	co-immunoprecipitation experiments	T059	C1449705
+27708411	866	894	dsDNA recombination function	T043	C1158522
+27708411	910	914	Redα	T116,T123	C0033684
+27708411	917	921	Redβ	T116,T123	C0766456
+27708411	922	949	protein-protein interaction	T044	C0872079
+27708411	991	1008	C-terminal domain	T087	C1514562
+27708411	1036	1046	N-terminus	T087	C1514562
+27708411	1060	1089	nucleoprotein filament formed	T045	C1158503
+27708411	1095	1117	C-terminally truncated	T044	C1514568
+27708411	1118	1122	Redβ	T116,T123	C0766456
+27708411	1158	1177	C-terminal function	T044	C1149341
+27708411	1197	1208	interaction	T045	C1511658
+27708411	1222	1232	functional	T169	C0205245
+27708411	1233	1242	filaments	T026	C0025979
+27708411	1269	1288	C-terminal function	T044	C1149341
+27708411	1324	1328	Redβ	T116,T123	C0766456
+27708411	1331	1354	host factor interaction	T043	C1659605
+27708411	1397	1414	Red recombination	T045	C0599773
+27708411	1440	1444	Redβ	T116,T123	C0766456
+27708411	1449	1454	RAD52	T116,T123	C0663124
+27708411	1455	1460	SSAPs	T116,T123	C0033684

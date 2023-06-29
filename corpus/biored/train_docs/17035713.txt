@@ -1,0 +1,67 @@
+17035713|t|Chloroacetaldehyde as a sulfhydryl reagent: the role of critical thiol groups in ifosfamide nephropathy.
+17035713|a|Chloroacetaldehyde (CAA) is a metabolite of the alkylating agent ifosfamide (IFO) and putatively responsible for renal damage following anti-tumor therapy with IFO. Depletion of sulfhydryl (SH) groups has been reported from cell culture, animal and clinical studies. In this work the effect of CAA on human proximal tubule cells in primary culture (hRPTEC) was investigated. Toxicity of CAA was determined by protein content, cell number, LDH release, trypan blue exclusion assay and caspase-3 activity. Free thiols were measured by the method of Ellman. CAA reduced hRPTEC cell number and protein, induced a loss in free intracellular thiols and an increase in necrosis markers. CAA but not acrolein inhibited the cysteine proteases caspase-3, caspase-8 and cathepsin B. Caspase activation by cisplatin was inhibited by CAA. In cells stained with fluorescent dyes targeting lysosomes, CAA induced an increase in lysosomal size and lysosomal leakage. The effects of CAA on cysteine protease activities and thiols could be reproduced in cell lysate. Acidification, which slowed the reaction of CAA with thiol donors, could also attenuate effects of CAA on necrosis markers, thiol depletion and cysteine protease inhibition in living cells. Thus, CAA directly reacts with cellular protein and non-protein thiols, mediating its toxicity on hRPTEC. This effect can be reduced by acidification. Therefore, urinary acidification could be an option to prevent IFO nephropathy in patients.
+17035713	0	18	Chloroacetaldehyde	ChemicalEntity	C004656
+17035713	24	42	sulfhydryl reagent	ChemicalEntity	D013439
+17035713	65	70	thiol	ChemicalEntity	D013438
+17035713	81	91	ifosfamide	ChemicalEntity	D007069
+17035713	92	103	nephropathy	DiseaseOrPhenotypicFeature	D007674
+17035713	105	123	Chloroacetaldehyde	ChemicalEntity	C004656
+17035713	125	128	CAA	ChemicalEntity	C004656
+17035713	153	169	alkylating agent	ChemicalEntity	D000477
+17035713	170	180	ifosfamide	ChemicalEntity	D007069
+17035713	182	185	IFO	ChemicalEntity	D007069
+17035713	218	230	renal damage	DiseaseOrPhenotypicFeature	D007674
+17035713	246	251	tumor	DiseaseOrPhenotypicFeature	D009369
+17035713	265	268	IFO	ChemicalEntity	D007069
+17035713	283	293	sulfhydryl	ChemicalEntity	D013439
+17035713	295	297	SH	ChemicalEntity	D013439
+17035713	399	402	CAA	ChemicalEntity	C004656
+17035713	406	411	human	OrganismTaxon	9606
+17035713	454	460	hRPTEC	CellLine	CVCL_K278
+17035713	480	488	Toxicity	DiseaseOrPhenotypicFeature	D064420
+17035713	492	495	CAA	ChemicalEntity	C004656
+17035713	544	547	LDH	ChemicalEntity	D007770
+17035713	557	568	trypan blue	ChemicalEntity	D014343
+17035713	589	598	caspase-3	GeneOrGeneProduct	836
+17035713	614	620	thiols	ChemicalEntity	D013438
+17035713	660	663	CAA	ChemicalEntity	C004656
+17035713	672	678	hRPTEC	CellLine	CVCL_K278
+17035713	741	747	thiols	ChemicalEntity	D013438
+17035713	767	775	necrosis	DiseaseOrPhenotypicFeature	D009336
+17035713	785	788	CAA	ChemicalEntity	C004656
+17035713	797	805	acrolein	ChemicalEntity	D000171
+17035713	820	838	cysteine proteases	GeneOrGeneProduct	1508,836,841
+17035713	839	848	caspase-3	GeneOrGeneProduct	836
+17035713	850	859	caspase-8	GeneOrGeneProduct	841
+17035713	864	875	cathepsin B	GeneOrGeneProduct	1508
+17035713	877	884	Caspase	GeneOrGeneProduct	836,841
+17035713	899	908	cisplatin	ChemicalEntity	D002945
+17035713	926	929	CAA	ChemicalEntity	C004656
+17035713	991	994	CAA	ChemicalEntity	C004656
+17035713	1071	1074	CAA	ChemicalEntity	C004656
+17035713	1078	1095	cysteine protease	GeneOrGeneProduct	1508,836,841
+17035713	1111	1117	thiols	ChemicalEntity	D013438
+17035713	1198	1201	CAA	ChemicalEntity	C004656
+17035713	1207	1212	thiol	ChemicalEntity	D013438
+17035713	1253	1256	CAA	ChemicalEntity	C004656
+17035713	1260	1268	necrosis	DiseaseOrPhenotypicFeature	D009336
+17035713	1278	1283	thiol	ChemicalEntity	D013438
+17035713	1298	1315	cysteine protease	GeneOrGeneProduct	1508,836,841
+17035713	1350	1353	CAA	ChemicalEntity	C004656
+17035713	1408	1414	thiols	ChemicalEntity	D013438
+17035713	1430	1438	toxicity	DiseaseOrPhenotypicFeature	D064420
+17035713	1442	1448	hRPTEC	CellLine	CVCL_K278
+17035713	1558	1561	IFO	ChemicalEntity	D007069
+17035713	1562	1573	nephropathy	DiseaseOrPhenotypicFeature	D007674
+17035713	1577	1585	patients	OrganismTaxon	9606
+17035713	Negative_Correlation	D002945	C004656	Novel
+17035713	Positive_Correlation	841	D002945	No
+17035713	Positive_Correlation	836	D002945	No
+17035713	Negative_Correlation	C004656	1508	Novel
+17035713	Negative_Correlation	C004656	841	Novel
+17035713	Negative_Correlation	C004656	836	Novel
+17035713	Positive_Correlation	C004656	D009336	Novel
+17035713	Negative_Correlation	C004656	D013438	Novel
+17035713	Positive_Correlation	C004656	D007674	No
+17035713	Positive_Correlation	D007674	D007069	No
+17035713	Negative_Correlation	D009369	D007069	No

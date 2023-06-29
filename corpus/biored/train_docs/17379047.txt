@@ -1,0 +1,52 @@
+17379047|t|Comparison of valsartan/hydrochlorothiazide combination therapy at doses up to 320/25 mg versus monotherapy: a double-blind, placebo-controlled study followed by long-term combination therapy in hypertensive adults.
+17379047|a|BACKGROUND: One third of patients treated for hypertension attain adequate blood pressure (BP) control, and multidrug regimens are often required. Given the lifelong nature of hypertension, there is a need to evaluate the long-term efficacy and tolerability of higher doses of combination anti-hypertensive therapies. OBJECTIVE: This study investigated the efficacy and tolerability of valsartan (VAL) or hydrochlorothiazide (HCTZ)-monotherapy and higher-dose combinations in patients with essential hypertension. METHODS: The first part of this study was an 8-week, multicenter, randomized, double-blind, placebo controlled, parallel-group trial. Patients with essential hypertension (mean sitting diastolic BP [MSDBP], > or =95 mm Hg and <110 mm Hg) were randomized to 1 of 8 treatment groups: VAL 160 or 320 mg; HCTZ 12.5 or 25 mg; VAL/HCTZ 160/12.5, 320/12.5, or 320/25 mg; or placebo. Mean changes in MSDBP and mean sitting systolic BP (MSSBP) were analyzed at the 8-week core study end point. VAL/HCTZ 320/12.5 and 320/25 mg were further investigated in a 54-week, open-label extension. Response was defined as MSDBP <90 mm Hg or a > or =10 mm Hg decrease compared to baseline. Control was defined as MSDBP <90 mm Hg compared with baseline. Tolerability was assessed by monitoring adverse events at randomization and all subsequent study visits and regular evaluation of hematology and blood chemistry. RESULTS: A total of 1346 patients were randomized into the 8-week core study (734 men, 612 women; 924 white, 291 black, 23 Asian, 108 other; mean age, 52.7 years; mean weight, 92.6 kg). All active treatments were associated with significantly reduced MSSBP and MSDBP during the core 8-week study, with each monotherapy significantly contributing to the overall effect of combination therapy (VAL and HCTZ, P < 0.001). Each combination was associated with significantly greater reductions in MSSBP and MSDBP compared with the monotherapies and placebo (all, P < 0.001). The mean reduction in MSSBP/MSDBP with VAL/HCTZ 320/25 mg was 24.7/16.6 mm Hg, compared with 5.9/7.0 mm Hg with placebo. The reduction in MSSBP was significantly greater with VAL/HCTZ 320/25 mg compared with VAL/HCTZ 160/12.5 mg (P < 0.002). Rates of response and BP control were significantly higher in the groups that received combination treatment compared with those that received monotherapy. The incidence of hypokalemia was lower with VAL/HCTZ combinations (1.8%-6.1%) than with HCTZ monotherapies (7.1%-13.3%). The majority of adverse events in the core study were of mild to moderate severity. The efficacy and tolerability of VAL/HCTZ combinations were maintained during the extension (797 patients). CONCLUSIONS: In this study population, combination therapies with VAL/HCTZ were associated with significantly greater BP reductions compared with either monotherapy, were well tolerated, and were associated with less hypokalemia than HCTZ alone.
+17379047	14	23	valsartan	ChemicalEntity	C081489
+17379047	24	43	hydrochlorothiazide	ChemicalEntity	D006852
+17379047	195	207	hypertensive	DiseaseOrPhenotypicFeature	D006973
+17379047	241	249	patients	OrganismTaxon	9606
+17379047	262	274	hypertension	DiseaseOrPhenotypicFeature	D006973
+17379047	392	404	hypertension	DiseaseOrPhenotypicFeature	D006973
+17379047	510	522	hypertensive	DiseaseOrPhenotypicFeature	D006973
+17379047	602	611	valsartan	ChemicalEntity	C081489
+17379047	613	616	VAL	ChemicalEntity	C081489
+17379047	621	640	hydrochlorothiazide	ChemicalEntity	D006852
+17379047	642	646	HCTZ	ChemicalEntity	D006852
+17379047	692	700	patients	OrganismTaxon	9606
+17379047	706	728	essential hypertension	DiseaseOrPhenotypicFeature	D000075222
+17379047	864	872	Patients	OrganismTaxon	9606
+17379047	878	900	essential hypertension	DiseaseOrPhenotypicFeature	D000075222
+17379047	1012	1015	VAL	ChemicalEntity	C081489
+17379047	1031	1035	HCTZ	ChemicalEntity	D006852
+17379047	1051	1054	VAL	ChemicalEntity	C081489
+17379047	1055	1059	HCTZ	ChemicalEntity	D006852
+17379047	1215	1218	VAL	ChemicalEntity	C081489
+17379047	1219	1223	HCTZ	ChemicalEntity	D006852
+17379047	1650	1658	patients	OrganismTaxon	9606
+17379047	1707	1710	men	OrganismTaxon	9606
+17379047	1716	1721	women	OrganismTaxon	9606
+17379047	2017	2020	VAL	ChemicalEntity	C081489
+17379047	2025	2029	HCTZ	ChemicalEntity	D006852
+17379047	2233	2236	VAL	ChemicalEntity	C081489
+17379047	2237	2241	HCTZ	ChemicalEntity	D006852
+17379047	2369	2372	VAL	ChemicalEntity	C081489
+17379047	2373	2377	HCTZ	ChemicalEntity	D006852
+17379047	2402	2405	VAL	ChemicalEntity	C081489
+17379047	2406	2410	HCTZ	ChemicalEntity	D006852
+17379047	2609	2620	hypokalemia	DiseaseOrPhenotypicFeature	D007008
+17379047	2636	2639	VAL	ChemicalEntity	C081489
+17379047	2640	2644	HCTZ	ChemicalEntity	D006852
+17379047	2680	2684	HCTZ	ChemicalEntity	D006852
+17379047	2830	2833	VAL	ChemicalEntity	C081489
+17379047	2834	2838	HCTZ	ChemicalEntity	D006852
+17379047	2894	2902	patients	OrganismTaxon	9606
+17379047	2971	2974	VAL	ChemicalEntity	C081489
+17379047	2975	2979	HCTZ	ChemicalEntity	D006852
+17379047	3122	3133	hypokalemia	DiseaseOrPhenotypicFeature	D007008
+17379047	3139	3143	HCTZ	ChemicalEntity	D006852
+17379047	Positive_Correlation	D007008	D006852	Novel
+17379047	Negative_Correlation	D007008	C081489	Novel
+17379047	Negative_Correlation	D006852	D000075222	Novel
+17379047	Negative_Correlation	D006852	D006973	No
+17379047	Negative_Correlation	C081489	D000075222	Novel
+17379047	Negative_Correlation	C081489	D006973	No
+17379047	Comparison	C081489	D006852	Novel

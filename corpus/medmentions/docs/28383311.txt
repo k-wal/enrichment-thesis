@@ -1,0 +1,114 @@
+28383311|t|Musculoskeletal pain profile of obese individuals attending a multidisciplinary weight management service
+28383311|a|Obesity is associated with numerous chronic diseases, including musculoskeletal (MSK) pain, which impacts on quality of life (QoL). There is, however, limited research providing a comprehensive MSK pain profile of an obese cohort. This retrospective study utilized a patient database at a national weight management service (WMS). Following ethical approval, anonymized patient data were statistically analyzed to develop a pain profile, investigate relationships between pain, sleep, and function, and explore variables associated with having low back pain (LBP) and knee pain. Overall, 915 individuals attended the WMS from January 2011 to September 2015 [male, 35% (n=318; CI =32-38); female, 65% (n=597; CI =62-68); mean age 44.6]. Mean BMI was 50.7 kg/m2 [Class III obese (BMI ≥40 kg/m2), 92% (n=835; CI =91-94)]. Approximately 91% reported MSK pain: LBP, 69% (n=539; CI =65- 72) [mean NRS 7.4]; knee pain, 58% (n=447; CI =55-61) [mean NRS 6.8]. Class III obese and multi-site pain patients had lower QoL and physical activity levels, reduced sleep, and poorer physical function than less obese patients and those without pain (p<0.05). Relationships were found between demographic, pain, self-report, psychological, and functional measures (p<0.05). Patients who slept fewer hours and had poorer functional outcomes were more likely to have LBP; patients who were divorced, had lower QoL, and more frequent nocturia were more likely to have knee pain (p<0.05). Multi-site MSK pain is prevalent and severe in obese patients and is negatively associated with most self-report and functional outcomes. This high prevalence suggests pain management strategies must be considered when treating obesity.
+28383311	0	20	Musculoskeletal pain	T033	C0026858
+28383311	21	28	profile	T170	C1518848
+28383311	32	37	obese	T047	C0028754
+28383311	38	49	individuals	T098	C0027361
+28383311	50	59	attending	T169	C1999232
+28383311	62	105	multidisciplinary weight management service	T093	C0596660
+28383311	106	113	Obesity	T047	C0028754
+28383311	117	132	associated with	T080	C0332281
+28383311	133	141	numerous	T081	C0439064
+28383311	142	158	chronic diseases	T047	C0008679
+28383311	160	169	including	T169	C0332257
+28383311	170	196	musculoskeletal (MSK) pain	T033	C0026858
+28383311	204	211	impacts	T080	C4049986
+28383311	215	230	quality of life	T078	C0034380
+28383311	232	235	QoL	T078	C0034380
+28383311	286	299	comprehensive	T080	C1880156
+28383311	300	308	MSK pain	T033	C0026858
+28383311	309	316	profile	T170	C1518848
+28383311	323	328	obese	T047	C0028754
+28383311	329	335	cohort	T098	C0599755
+28383311	342	361	retrospective study	T062	C2985505
+28383311	373	380	patient	T101	C0030705
+28383311	381	389	database	T170	C0242356
+28383311	395	429	national weight management service	T093	C0596660
+28383311	431	434	WMS	T093	C0596660
+28383311	447	454	ethical	T078	C1136353
+28383311	455	463	approval	T170	C2346845
+28383311	465	475	anonymized	T170	C3858751
+28383311	476	488	patient data	T170	C2707520
+28383311	494	516	statistically analyzed	T062	C0871424
+28383311	530	534	pain	T184	C0030193
+28383311	535	542	profile	T170	C1518848
+28383311	544	555	investigate	T169	C1292732
+28383311	556	569	relationships	T080	C0439849
+28383311	578	582	pain	T184	C0030193
+28383311	584	589	sleep	T040	C0037313
+28383311	595	603	function	T033	C0516981
+28383311	617	626	variables	T080	C0439828
+28383311	627	642	associated with	T080	C0332281
+28383311	650	663	low back pain	T184	C0024031
+28383311	665	668	LBP	T184	C0024031
+28383311	674	683	knee pain	T033	C0231749
+28383311	698	709	individuals	T098	C0027361
+28383311	723	726	WMS	T093	C0596660
+28383311	764	768	male	T098	C0025266
+28383311	782	784	CI	T081	C0009667
+28383311	794	800	female	T098	C0043210
+28383311	814	816	CI	T081	C0009667
+28383311	826	830	mean	T081	C0444504
+28383311	831	834	age	T032	C0001779
+28383311	842	846	Mean	T081	C0444504
+28383311	847	850	BMI	T201	C1305855
+28383311	877	882	obese	T047	C0028754
+28383311	884	887	BMI	T201	C1305855
+28383311	912	914	CI	T081	C0009667
+28383311	925	938	Approximately	T080	C0332232
+28383311	952	960	MSK pain	T033	C0026858
+28383311	962	965	LBP	T184	C0024031
+28383311	979	981	CI	T081	C0009667
+28383311	992	996	mean	T081	C0444504
+28383311	1007	1016	knee pain	T033	C0231749
+28383311	1030	1032	CI	T081	C0009667
+28383311	1042	1046	mean	T081	C0444504
+28383311	1067	1072	obese	T047	C0028754
+28383311	1077	1087	multi-site	T082	C1254362
+28383311	1088	1092	pain	T184	C0030193
+28383311	1093	1101	patients	T101	C0030705
+28383311	1106	1111	lower	T052	C2003888
+28383311	1112	1115	QoL	T078	C0034380
+28383311	1120	1137	physical activity	T056	C0026606
+28383311	1138	1144	levels	T080	C0441889
+28383311	1146	1153	reduced	T080	C0392756
+28383311	1154	1159	sleep	T040	C0037313
+28383311	1165	1171	poorer	T080	C2700379
+28383311	1172	1189	physical function	T033	C0516981
+28383311	1195	1199	less	T080	C0547044
+28383311	1200	1205	obese	T047	C0028754
+28383311	1206	1214	patients	T101	C0030705
+28383311	1225	1232	without	T080	C0332288
+28383311	1233	1237	pain	T184	C0030193
+28383311	1248	1261	Relationships	T080	C0439849
+28383311	1281	1292	demographic	T090	C0011298
+28383311	1294	1298	pain	T184	C0030193
+28383311	1300	1311	self-report	T062	C0681906
+28383311	1313	1326	psychological	T169	C0205486
+28383311	1332	1342	functional	T169	C0205245
+28383311	1343	1351	measures	T081	C0079809
+28383311	1362	1370	Patients	T101	C0030705
+28383311	1375	1392	slept fewer hours	T033	C0243095
+28383311	1401	1407	poorer	T080	C2700379
+28383311	1408	1427	functional outcomes	T033	C0243095
+28383311	1453	1456	LBP	T184	C0024031
+28383311	1458	1466	patients	T101	C0030705
+28383311	1476	1484	divorced	T033	C0086170
+28383311	1490	1495	lower	T052	C2003888
+28383311	1496	1499	QoL	T078	C0034380
+28383311	1510	1518	frequent	T079	C0332183
+28383311	1519	1527	nocturia	T047	C0028734
+28383311	1553	1562	knee pain	T033	C0231749
+28383311	1573	1583	Multi-site	T082	C1254362
+28383311	1584	1592	MSK pain	T033	C0026858
+28383311	1596	1605	prevalent	T081	C0220900
+28383311	1610	1616	severe	T080	C0205082
+28383311	1620	1625	obese	T047	C0028754
+28383311	1626	1634	patients	T101	C0030705
+28383311	1642	1652	negatively	T033	C1513916
+28383311	1653	1668	associated with	T080	C0332281
+28383311	1690	1709	functional outcomes	T033	C0243095
+28383311	1721	1731	prevalence	T081	C0220900
+28383311	1741	1756	pain management	T061	C0002766
+28383311	1792	1800	treating	T061	C0087111
+28383311	1801	1808	obesity	T047	C0028754

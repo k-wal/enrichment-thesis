@@ -1,0 +1,83 @@
+27524790|t|Unintentional insecticide poisoning by age: an analysis of Queensland Poisons Information Centre calls
+27524790|a|Data from the Queensland Poisons Information Centre (QPIC) was assessed to determine mechanisms of acute insecticide poisoning in young children (<5 years) and whether age affects insecticide-poisoning patterns. Records of all insecticide-related calls placed to QPIC in 2014 were obtained. A stratified analysis of call patterns by age was conducted. Of 743 insecticide-related calls received by QPIC 364 (49.0%) were for young children. The number of calls peaked in children aged one. Ant and cockroach baits accounted for 39.0% of calls. Sprays, which were found to contain not only pyrethroids, pyrethrins and/or piperonly butoxide but also the organophosphate diazinon, accounted for 25.8% of calls. Mouthing or ingesting a pest-control product and consuming an item/insect after treatment were common mechanisms for children under the age of two. Topical exposure to sprays, via direct application, typically by the child or an older sibling, peaked in children aged two. In 12.3% of calls medical attention for the child was already sought or advised by QPIC. Normal behaviours associated with child development, particularly mouthing behaviours, explained the peak of exposure in one-year - olds. This finding should guide strategies to minimise poisonings in this vulnerable population.
+27524790	0	13	Unintentional	T169	C1283932
+27524790	14	35	insecticide poisoning	T037	C0413048
+27524790	39	42	age	T032	C0001779
+27524790	47	55	analysis	T062	C0936012
+27524790	97	102	calls	T058	C0302186
+27524790	103	107	Data	T078	C1511726
+27524790	166	174	assessed	T052	C1516048
+27524790	178	187	determine	T078	C0205258
+27524790	188	198	mechanisms	T169	C0441712
+27524790	208	229	insecticide poisoning	T037	C0413048
+27524790	233	247	young children	T100	C0728836
+27524790	249	257	<5 years	T079	C0439234
+27524790	271	274	age	T032	C0001779
+27524790	275	282	affects	T041	C0001721
+27524790	283	304	insecticide-poisoning	T037	C0413048
+27524790	305	313	patterns	T082	C0449774
+27524790	315	322	Records	T170	C0034869
+27524790	330	355	insecticide-related calls	T058	C0302186
+27524790	384	392	obtained	T169	C1301820
+27524790	396	406	stratified	T080	C0205363
+27524790	407	415	analysis	T062	C0936012
+27524790	419	423	call	T058	C0302186
+27524790	424	432	patterns	T082	C0449774
+27524790	436	439	age	T032	C0001779
+27524790	444	453	conducted	T169	C0205245
+27524790	462	487	insecticide-related calls	T058	C0302186
+27524790	488	499	received by	T080	C1709850
+27524790	526	540	young children	T100	C0728836
+27524790	556	561	calls	T058	C0302186
+27524790	562	568	peaked	T080	C0444505
+27524790	572	580	children	T100	C0008059
+27524790	581	589	aged one	T079	C4082117
+27524790	591	594	Ant	T204	C0003455
+27524790	599	608	cockroach	T204	C0009208
+27524790	609	614	baits	T131	C1254354
+27524790	615	624	accounted	T081	C0392762
+27524790	638	643	calls	T058	C0302186
+27524790	645	651	Sprays	T122	C1154182
+27524790	664	669	found	T033	C0150312
+27524790	690	701	pyrethroids	T109,T131	C0597329
+27524790	703	713	pyrethrins	T109,T131	C0034245
+27524790	721	739	piperonly butoxide	T109,T121,T131	C0031962
+27524790	753	777	organophosphate diazinon	T109,T131	C0012013
+27524790	779	788	accounted	T081	C0392762
+27524790	802	807	calls	T058	C0302186
+27524790	809	817	Mouthing	T040	C2584309
+27524790	821	830	ingesting	T038	C0232478
+27524790	833	853	pest-control product	T131	C0031253
+27524790	858	867	consuming	T052	C0441655
+27524790	889	898	treatment	T169	C0039798
+27524790	911	921	mechanisms	T169	C0441712
+27524790	926	934	children	T100	C0008059
+27524790	945	955	age of two	T079	C0439234
+27524790	957	964	Topical	T082	C0332237
+27524790	965	976	exposure to	T080	C0332157
+27524790	977	983	sprays	T122	C1154182
+27524790	989	995	direct	T080	C1947931
+27524790	996	1007	application	T169	C1524063
+27524790	1026	1031	child	T100	C0008059
+27524790	1038	1051	older sibling	T099	C0337511
+27524790	1053	1059	peaked	T080	C0444505
+27524790	1063	1071	children	T100	C0008059
+27524790	1072	1080	aged two	T079	C0439234
+27524790	1094	1099	calls	T058	C0302186
+27524790	1100	1117	medical attention	T058	C0948564
+27524790	1126	1131	child	T100	C0008059
+27524790	1144	1150	sought	UnknownType	C0743213
+27524790	1154	1164	advised by	T058	C0418832
+27524790	1171	1188	Normal behaviours	T053	C0004927
+27524790	1189	1204	associated with	T080	C0332281
+27524790	1205	1222	child development	T040	C0008071
+27524790	1237	1245	mouthing	T040	C2584309
+27524790	1246	1256	behaviours	T053	C0004927
+27524790	1272	1288	peak of exposure	T080	C0332157
+27524790	1292	1300	one-year	T079	C4082117
+27524790	1303	1307	olds	T100	C0008059
+27524790	1314	1321	finding	T033	C0243095
+27524790	1335	1345	strategies	T041	C0679199
+27524790	1349	1357	minimise	T080	C1524031
+27524790	1358	1368	poisonings	T037	C0032343
+27524790	1377	1398	vulnerable population	T098	C0949366

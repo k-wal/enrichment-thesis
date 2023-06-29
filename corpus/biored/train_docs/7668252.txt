@@ -1,0 +1,31 @@
+7668252|t|Cloning of human very-long-chain acyl-coenzyme A dehydrogenase and molecular characterization of its deficiency in two patients.
+7668252|a|Two overlapping cDNA clones (1, 991 bp and 736 bp, respectively) encoding the precursor of human mitochondrial very-long-chain acyl-coenzyme A dehydrogenase (VLCAD) were cloned and sequenced. The cDNA inserts of these clones together encompass a region of 2, 177 bases, encoding the entire protein of 655 amino acids, including a 40-amino acid leader peptide and a 615-amino acid mature polypeptide. PCR-amplified VLCAD cDNAs were sequenced in cultured fibroblasts from two VLCAD-deficient patients. In both patients, a 105-bp deletion encompassing bases 1078-1182 in VLCAD cDNA was identified. The deletion seems to occur due to exon skipping during processing of VLCAD pre-mRNA. This is the first demonstration of a mutation causing VLCAD deficiency. Quantitative cDNA expression of normal human VLCAD was performed in the patients fibroblasts, using vaccinia viral system, which demonstrated that the deficiency of the normal VLCAD protein causes impaired long-chain fatty acid beta-oxidation activity in the patients fibroblasts. In patient fibroblasts, raising VLCAD activity to approximately 20% of normal control fibroblast activity raised palmitic acid beta-oxidation flux to the level found in control fibroblasts, which may offer important information for the rational design of future somatic gene therapy for VLCAD deficiency.. 
+7668252	11	16	human	OrganismTaxon	9606
+7668252	17	62	very-long-chain acyl-coenzyme A dehydrogenase	GeneOrGeneProduct	37
+7668252	119	127	patients	OrganismTaxon	9606
+7668252	220	225	human	OrganismTaxon	9606
+7668252	240	285	very-long-chain acyl-coenzyme A dehydrogenase	GeneOrGeneProduct	37
+7668252	287	292	VLCAD	GeneOrGeneProduct	37
+7668252	543	548	VLCAD	GeneOrGeneProduct	37
+7668252	603	618	VLCAD-deficient	DiseaseOrPhenotypicFeature	C536353
+7668252	619	627	patients	OrganismTaxon	9606
+7668252	637	645	patients	OrganismTaxon	9606
+7668252	649	693	105-bp deletion encompassing bases 1078-1182	SequenceVariant	c|DEL|1078-1182|
+7668252	697	702	VLCAD	GeneOrGeneProduct	37
+7668252	794	799	VLCAD	GeneOrGeneProduct	37
+7668252	864	880	VLCAD deficiency	DiseaseOrPhenotypicFeature	C536353
+7668252	921	926	human	OrganismTaxon	9606
+7668252	927	932	VLCAD	GeneOrGeneProduct	37
+7668252	954	962	patients	OrganismTaxon	9606
+7668252	1033	1071	deficiency of the normal VLCAD protein	DiseaseOrPhenotypicFeature	C536353
+7668252	1088	1109	long-chain fatty acid	ChemicalEntity	D005227
+7668252	1141	1149	patients	OrganismTaxon	9606
+7668252	1166	1173	patient	OrganismTaxon	9606
+7668252	1195	1200	VLCAD	GeneOrGeneProduct	37
+7668252	1276	1289	palmitic acid	ChemicalEntity	D019308
+7668252	1450	1466	VLCAD deficiency	DiseaseOrPhenotypicFeature	C536353
+7668252	Negative_Correlation	C536353	D005227	Novel
+7668252	Positive_Correlation	C536353	c|DEL|1078-1182|	Novel
+7668252	Negative_Correlation	C536353	37	No
+7668252	Association	D019308	C536353	Novel
+7668252	Positive_Correlation	37	D019308	Novel

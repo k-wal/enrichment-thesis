@@ -1,0 +1,27 @@
+17951029|t|Focal dermal hypoplasia resulting from a new nonsense mutation, p.E300X, in the PORCN gene.
+17951029|a|BACKGROUND: Focal dermal hypoplasia (FDH) (OMIM 305600) is an X-linked dominant disorder of ecto-mesodermal development. Also known as Goltz syndrome, FDH presents with characteristic linear streaks of hypoplastic dermis and variable abnormalities of bone, nails, hair, limbs, teeth and eyes. The molecular basis of FDH involves mutations in the PORCN gene, which encodes an enzyme that allows membrane targeting and secretion of several Wnt proteins critical for normal tissue development. OBJECTIVES: To investigate the molecular basis of FDH in a 2-year-old Thai girl who presented at birth with depressed, pale linear scars on the trunk and limbs, sparse brittle hair, syndactyly of the right middle and ring fingers, dental caries and radiological features of osteopathia striata. METHODS: Sequencing of genomic DNA from the affected individual and both parents to search for pathogenic mutations in PORCN gene. RESULTS: DNA sequencing disclosed a heterozygous G>T substitution at nucleotide c.898 within exon 10 (NM_203475.1), converting a glutamic acid residue (GAA) to a premature termination codon (TAA). This mutation, designated p.E300X, was not detected in DNA from either parent or in 100 control chromosomes. CONCLUSION: Identification of this new de novo nonsense mutation confirms the diagnosis of FDH in this child and highlights the clinical importance of PORCN and Wnt signalling pathways in embryogenesis.
+17951029	0	23	Focal dermal hypoplasia	DiseaseOrPhenotypicFeature	D005489
+17951029	64	71	p.E300X	SequenceVariant	p|SUB|E|300|X
+17951029	80	85	PORCN	GeneOrGeneProduct	64840
+17951029	104	127	Focal dermal hypoplasia	DiseaseOrPhenotypicFeature	D005489
+17951029	129	132	FDH	DiseaseOrPhenotypicFeature	D005489
+17951029	135	146	OMIM 305600	DiseaseOrPhenotypicFeature	D005489
+17951029	154	180	X-linked dominant disorder	DiseaseOrPhenotypicFeature	D040181
+17951029	227	241	Goltz syndrome	DiseaseOrPhenotypicFeature	D005489
+17951029	243	246	FDH	DiseaseOrPhenotypicFeature	D005489
+17951029	294	312	hypoplastic dermis	DiseaseOrPhenotypicFeature	D005489
+17951029	408	411	FDH	DiseaseOrPhenotypicFeature	D005489
+17951029	438	443	PORCN	GeneOrGeneProduct	64840
+17951029	633	636	FDH	DiseaseOrPhenotypicFeature	D005489
+17951029	691	700	depressed	DiseaseOrPhenotypicFeature	D003866
+17951029	814	827	dental caries	DiseaseOrPhenotypicFeature	D003731
+17951029	997	1002	PORCN	GeneOrGeneProduct	64840
+17951029	1058	1094	G>T substitution at nucleotide c.898	SequenceVariant	c|SUB|G|898|T
+17951029	1138	1204	glutamic acid residue (GAA) to a premature termination codon (TAA)	SequenceVariant	p|SUB|E||X
+17951029	1232	1239	p.E300X	SequenceVariant	p|SUB|E|300|X
+17951029	1406	1409	FDH	DiseaseOrPhenotypicFeature	D005489
+17951029	1466	1471	PORCN	GeneOrGeneProduct	64840
+17951029	Positive_Correlation	p|SUB|E||X	D005489	Novel
+17951029	Positive_Correlation	c|SUB|G|898|T	D005489	Novel
+17951029	Association	D005489	64840	Novel
+17951029	Positive_Correlation	p|SUB|E|300|X	D005489	Novel

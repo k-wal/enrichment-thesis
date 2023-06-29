@@ -1,0 +1,19 @@
+27440255|t|Form and function in gene regulatory networks: the structure of network motifs determines fundamental properties of their dynamical state space
+27440255|a|Network motifs have been studied extensively over the past decade, and certain motifs, such as the feed-forward loop, play an important role in regulatory networks. Recent studies have used Boolean network motifs to explore the link between form and function in gene regulatory networks and have found that the structure of a motif does not strongly determine its function, if this is defined in terms of the gene expression patterns the motif can produce. Here, we offer a different, higher - level definition of the ' function ' of a motif, in terms of two fundamental properties of its dynamical state space as a Boolean network. One is the basin entropy, which is a complexity measure of the dynamics of Boolean networks. The other is the diversity of cyclic attractor lengths that a given motif can produce. Using these two measures, we examine all 104 topologically distinct three-node motifs and show that the structural properties of a motif, such as the presence of feedback loops and feed-forward loops, predict fundamental characteristics of its dynamical state space, which in turn determine aspects of its functional versatility. We also show that these higher - level properties have a direct bearing on real regulatory networks, as both basin entropy and cycle length diversity show a close correspondence with the prevalence, in neural and genetic regulatory networks, of the 13 connected motifs without self-interactions that have been studied extensively in the literature.
+27440255	21	45	gene regulatory networks	T038	UMLS:C1720950
+27440255	51	60	structure	T082	UMLS:C0678594
+27440255	288	307	regulatory networks	T038	UMLS:C1720950
+27440255	316	323	studies	T062	UMLS:C2603343
+27440255	334	341	Boolean	T170	UMLS:C1552663
+27440255	406	430	gene regulatory networks	T038	UMLS:C1720950
+27440255	455	464	structure	T082	UMLS:C0678594
+27440255	553	568	gene expression	T038	UMLS:C0017262
+27440255	569	577	patterns	T082	UMLS:C0449774
+27440255	644	654	definition	T170	UMLS:C1704788
+27440255	760	767	Boolean	T170	UMLS:C1552663
+27440255	852	859	Boolean	T170	UMLS:C1552663
+27440255	1061	1071	structural	T082	UMLS:C0678594
+27440255	1367	1386	regulatory networks	T038	UMLS:C1720950
+27440255	1489	1495	neural	T038	UMLS:C0598941
+27440255	1500	1527	genetic regulatory networks	T038	UMLS:C1720950
+27440255	1624	1634	literature	T170	UMLS:C0023866

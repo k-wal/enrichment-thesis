@@ -1,0 +1,50 @@
+28447132|t|High-throughput analysis of sub-visible mAb aggregate particles using automated fluorescence microscopy imaging
+28447132|a|Aggregation of therapeutic proteins is a major concern as aggregates lower the yield and can impact the efficacy of the drug as well as the patient's safety. It can occur in all production stages; thus, it is essential to perform a detailed analysis for protein aggregates. Several methods such as size exclusion high-performance liquid chromatography (SE-HPLC), light scattering, turbidity, light obscuration, and microscopy-based approaches are used to analyze aggregates. None of these methods allows determination of all types of higher molecular weight (HMW) species due to a limited size range. Furthermore, quantification and specification of different HMW species are often not possible. Moreover, automation is a perspective challenge coming up with automated robotic laboratory systems. Hence, there is a need for a fast, high-throughput-compatible method, which can detect a broad size range and enable quantification and classification. We describe a novel approach for the detection of aggregates in the size range 1 to 1000 μm combining fluorescent dyes for protein aggregate labelling and automated fluorescence microscope imaging (aFMI). After appropriate selection of the dye and method optimization, our method enabled us to detect various types of HMW species of monoclonal antibodies (mAbs). Using 10 μmol L(-1) 4,4'-dianilino-1,1'-binaphthyl-5,5'-disulfonate (Bis-ANS) in combination with aFMI allowed the analysis of mAb aggregates induced by different stresses occurring during downstream processing, storage, and administration. Validation of our results was performed by SE-HPLC, UV-Vis spectroscopy, and dynamic light scattering. With this new approach, we could not only reliably detect different HMW species but also quantify and classify them in an automated approach. Our method achieves high-throughput requirements and the selection of various fluorescent dyes enables a broad range of applications.
+28447132	40	43	mAb	T103	UMLS:C0003250
+28447132	54	63	particles	T103	UMLS:C0597177
+28447132	70	111	automated fluorescence microscopy imaging	T058	UMLS:C0026022
+28447132	232	236	drug	T103	UMLS:C1254351
+28447132	252	268	patient's safety	T058	UMLS:C1279809
+28447132	344	361	detailed analysis	T062	UMLS:C0936012
+28447132	366	384	protein aggregates	T103	UMLS:C3850144
+28447132	394	401	methods	T170	UMLS:C0025663
+28447132	410	463	size exclusion high-performance liquid chromatography	T058	UMLS:C0008562
+28447132	465	472	SE-HPLC	T058	UMLS:C0008562
+28447132	504	521	light obscuration	T058	UMLS:C0022885
+28447132	527	543	microscopy-based	T058	UMLS:C0026018
+28447132	567	574	analyze	T062	UMLS:C0936012
+28447132	601	608	methods	T170	UMLS:C0025663
+28447132	616	629	determination	T058	UMLS:C1148554
+28447132	676	683	species	T170	UMLS:C1705920
+28447132	693	705	limited size	T082	UMLS:C0456389
+28447132	745	758	specification	T170	UMLS:C2348235
+28447132	776	783	species	T170	UMLS:C1705920
+28447132	989	995	detect	T033	UMLS:C0442726
+28447132	1004	1008	size	T082	UMLS:C0456389
+28447132	1045	1059	classification	T170	UMLS:C0008902
+28447132	1098	1107	detection	T033	UMLS:C0442726
+28447132	1129	1133	size	T082	UMLS:C0456389
+28447132	1163	1179	fluorescent dyes	T103	UMLS:C0016320
+28447132	1184	1201	protein aggregate	T103	UMLS:C3850144
+28447132	1216	1257	automated fluorescence microscope imaging	T058	UMLS:C0026022
+28447132	1259	1263	aFMI	T058	UMLS:C0026022
+28447132	1301	1304	dye	T103	UMLS:C0013343
+28447132	1309	1315	method	T170	UMLS:C0025663
+28447132	1334	1340	method	T170	UMLS:C0025663
+28447132	1355	1361	detect	T033	UMLS:C0442726
+28447132	1383	1390	species	T170	UMLS:C1705920
+28447132	1394	1415	monoclonal antibodies	T103	UMLS:C0003250
+28447132	1417	1421	mAbs	T103	UMLS:C0003250
+28447132	1438	1491	L(-1) 4,4'-dianilino-1,1'-binaphthyl-5,5'-disulfonate	T103	UMLS:C0048876
+28447132	1493	1500	Bis-ANS	T103	UMLS:C0048876
+28447132	1522	1526	aFMI	T058	UMLS:C0026022
+28447132	1539	1547	analysis	T062	UMLS:C0936012
+28447132	1551	1554	mAb	T103	UMLS:C0003250
+28447132	1708	1715	SE-HPLC	T058	UMLS:C0008562
+28447132	1717	1736	UV-Vis spectroscopy	T058	UMLS:C0201693
+28447132	1742	1766	dynamic light scattering	T058	UMLS:C1882368
+28447132	1819	1825	detect	T033	UMLS:C0442726
+28447132	1840	1847	species	T170	UMLS:C1705920
+28447132	1870	1878	classify	T170	UMLS:C0008902
+28447132	1914	1920	method	T170	UMLS:C0025663
+28447132	1988	2004	fluorescent dyes	T103	UMLS:C0016320

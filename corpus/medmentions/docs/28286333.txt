@@ -1,0 +1,91 @@
+28286333|t|Early non-persistence with dabigatran and rivaroxaban in patients with atrial fibrillation
+28286333|a|Dabigatran and rivaroxaban are novel oral anticoagulants (NOACs) approved for stroke prevention in atrial fibrillation (AF). Although NOACs are more convenient than warfarin, their lack of monitoring may predispose patients to non-persistence. Limited information is available on NOAC non-persistence rates and related clinical outcomes in clinical practice. We conducted a retrospective cohort study using administrative data from Ontario, Canada, from January 1998 to March 2014 of patients with AF who were dispensed dabigatran or rivaroxaban. Non-persistence was defined as a gap in dabigatran or rivaroxaban prescriptions ≥14 days. A multivariable Cox proportional hazards model was used to estimate the primary composite outcome of stroke, transient ischaemic attack (TIA) and mortality associated with non-persistence. The cohort consisted of 15 857 dabigatran (age 80.7±6.7 year) and 10 119 rivaroxaban users (age 77.0±7.1 year) with women comprising 52% of each medication group. At 6 months, 36.4% of patients were non-persistent to dabigatran, while 31.9% of patients were non-persistent to rivaroxaban. Stroke / TIA / death was significantly higher for those non-persistent to dabigatran (HR 1.76 (95% CI 1.60 to 1.94); p<0.0001) or rivaroxaban (HR 1.89 (95% CI 1.64 to 2.19); p<0.0001) compared with those who were persistent. Risk of stroke / TIA was markedly higher in non-persistent patients to dabigatran (HR 3.75 (95% CI 2.59 to 5.43); p<0.0001) and rivaroxaban (HR 6.25 (95% CI 3.37 to 11.58); p<0.0001) than those persistent. NOAC non-persistence rates are high in clinical practice, with approximately one in three patients becoming non-persistent to dabigatran or rivaroxaban within 6 months after drug initiation. Non-persistence with either dabigatran or rivaroxaban is significantly associated with worse clinical outcomes of stroke / TIA / death.
+28286333	0	5	Early	T079	C1279919
+28286333	6	21	non-persistence	T033	C0243095
+28286333	27	37	dabigatran	T109,T121	C2348066
+28286333	42	53	rivaroxaban	T109,T121	C1739768
+28286333	57	65	patients	T101	C0030705
+28286333	71	90	atrial fibrillation	T047	C0004238
+28286333	91	101	Dabigatran	T109,T121	C2348066
+28286333	106	117	rivaroxaban	T109,T121	C1739768
+28286333	122	147	novel oral anticoagulants	T109,T121	C0354604
+28286333	149	154	NOACs	T109,T121	C0354604
+28286333	169	186	stroke prevention	T061	C1277289
+28286333	190	209	atrial fibrillation	T047	C0004238
+28286333	211	213	AF	T047	C0004238
+28286333	225	230	NOACs	T109,T121	C0354604
+28286333	256	264	warfarin	T109,T121,T131	C0043031
+28286333	280	290	monitoring	T058	C1283169
+28286333	306	314	patients	T101	C0030705
+28286333	318	333	non-persistence	T033	C0243095
+28286333	371	375	NOAC	T109,T121	C0354604
+28286333	376	391	non-persistence	T033	C0243095
+28286333	410	418	clinical	T080	C0205210
+28286333	419	427	outcomes	T169	C1274040
+28286333	431	448	clinical practice	T170	C0282574
+28286333	465	491	retrospective cohort study	T062	C2985505
+28286333	498	517	administrative data	T170	C0282574
+28286333	523	530	Ontario	T083	C0029040
+28286333	532	538	Canada	T083	C0006823
+28286333	575	583	patients	T101	C0030705
+28286333	589	591	AF	T047	C0004238
+28286333	601	610	dispensed	T058	C1880359
+28286333	611	621	dabigatran	T109,T121	C2348066
+28286333	625	636	rivaroxaban	T109,T121	C1739768
+28286333	638	653	Non-persistence	T033	C0243095
+28286333	678	688	dabigatran	T109,T121	C2348066
+28286333	692	703	rivaroxaban	T109,T121	C1739768
+28286333	704	717	prescriptions	T170	C0033081
+28286333	730	774	multivariable Cox proportional hazards model	T170	C3161035
+28286333	787	795	estimate	T081	C0750572
+28286333	808	817	composite	T080	C0205199
+28286333	818	825	outcome	T169	C1274040
+28286333	829	835	stroke	T047	C0038454
+28286333	837	863	transient ischaemic attack	T047	C0007787
+28286333	865	868	TIA	T047	C0007787
+28286333	884	899	associated with	T080	C0332281
+28286333	900	915	non-persistence	T033	C0243095
+28286333	921	927	cohort	T098	C0599755
+28286333	948	958	dabigatran	T109,T121	C2348066
+28286333	990	1001	rivaroxaban	T109,T121	C1739768
+28286333	1033	1038	women	T098	C0043210
+28286333	1062	1078	medication group	T098	C1257890
+28286333	1102	1110	patients	T101	C0030705
+28286333	1116	1130	non-persistent	T033	C0243095
+28286333	1134	1144	dabigatran	T109,T121	C2348066
+28286333	1161	1169	patients	T101	C0030705
+28286333	1175	1189	non-persistent	T033	C0243095
+28286333	1193	1204	rivaroxaban	T109,T121	C1739768
+28286333	1206	1212	Stroke	T047	C0038454
+28286333	1215	1218	TIA	T047	C0007787
+28286333	1221	1226	death	T040	C0011065
+28286333	1262	1276	non-persistent	T033	C0243095
+28286333	1280	1290	dabigatran	T109,T121	C2348066
+28286333	1336	1347	rivaroxaban	T109,T121	C1739768
+28286333	1419	1429	persistent	T079	C0205322
+28286333	1431	1435	Risk	T078	C0035647
+28286333	1439	1445	stroke	T047	C0038454
+28286333	1448	1451	TIA	T047	C0007787
+28286333	1475	1489	non-persistent	T033	C0243095
+28286333	1490	1498	patients	T101	C0030705
+28286333	1502	1512	dabigatran	T109,T121	C2348066
+28286333	1559	1570	rivaroxaban	T109,T121	C1739768
+28286333	1625	1635	persistent	T079	C0205322
+28286333	1637	1641	NOAC	T109,T121	C0354604
+28286333	1642	1657	non-persistence	T033	C0243095
+28286333	1676	1693	clinical practice	T170	C0282574
+28286333	1727	1735	patients	T101	C0030705
+28286333	1745	1759	non-persistent	T033	C0243095
+28286333	1763	1773	dabigatran	T109,T121	C2348066
+28286333	1777	1788	rivaroxaban	T109,T121	C1739768
+28286333	1811	1815	drug	T121	C0013227
+28286333	1816	1826	initiation	T169	C1704686
+28286333	1828	1843	Non-persistence	T033	C0243095
+28286333	1856	1866	dabigatran	T109,T121	C2348066
+28286333	1870	1881	rivaroxaban	T109,T121	C1739768
+28286333	1899	1914	associated with	T080	C0332281
+28286333	1921	1929	clinical	T080	C0205210
+28286333	1930	1938	outcomes	T169	C1274040
+28286333	1942	1948	stroke	T047	C0038454
+28286333	1951	1954	TIA	T047	C0007787
+28286333	1957	1962	death	T040	C0011065

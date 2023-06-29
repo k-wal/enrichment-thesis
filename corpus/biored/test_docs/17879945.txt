@@ -1,0 +1,51 @@
+17879945|t|Estrogen prevents cholesteryl ester accumulation in macrophages induced by the HIV protease inhibitor ritonavir.
+17879945|a|Individuals with HIV can now live long lives with drug therapy that often includes protease inhibitors such as ritonavir. Many patients, however, develop negative long-term side effects such as premature atherosclerosis. We have previously demonstrated that ritonavir treatment increases atherosclerotic lesion formation in male mice to a greater extent than in female mice. Furthermore, peripheral blood monocytes isolated from ritonavir-treated females had less cholesteryl ester accumulation. In the present study, we have investigated the molecular mechanisms by which female hormones influence cholesterol metabolism in macrophages in response to the HIV protease inhibitor ritonavir. We have utilized the human monocyte cell line, THP-1 as a model to address this question. Briefly, cells were differentiated for 72 h with 100 nM PMA to obtain a macrophage-like phenotype in the presence or absence of 1 nM 17beta-estradiol (E2), 100 nM progesterone or vehicle (0.01% ethanol). Cells were then treated with 30 ng/ml ritonavir or vehicle in the presence of aggregated LDL for 24 h. Cell extracts were harvested, and lipid or total RNA was isolated. E2 decreased the accumulation of cholesteryl esters in macrophages following ritonavir treatment. Ritonavir increased the expression of the scavenger receptor, CD36 mRNA, responsible for the uptake of LDL. Additionally, ritonavir treatment selectively increased the relative levels of PPARgamma mRNA, a transcription factor responsible for the regulation of CD36 mRNA expression. Treatment with E2, however, failed to prevent these increases at the mRNA level. E2 did, however, significantly suppress CD36 protein levels as measured by fluorescent immunocytochemistry. This data suggests that E2 modifies the expression of CD36 at the level of protein expression in monocyte-derived macrophages resulting in reduced cholesteryl ester accumulation following ritonavir treatment.
+17879945	0	8	Estrogen	ChemicalEntity	D004967
+17879945	18	35	cholesteryl ester	ChemicalEntity	D002788
+17879945	79	91	HIV protease	GeneOrGeneProduct	-
+17879945	102	111	ritonavir	ChemicalEntity	D019438
+17879945	130	133	HIV	OrganismTaxon	11676
+17879945	224	233	ritonavir	ChemicalEntity	D019438
+17879945	307	332	premature atherosclerosis	DiseaseOrPhenotypicFeature	D050197
+17879945	371	380	ritonavir	ChemicalEntity	D019438
+17879945	401	423	atherosclerotic lesion	DiseaseOrPhenotypicFeature	D050197
+17879945	442	446	mice	OrganismTaxon	10090
+17879945	482	486	mice	OrganismTaxon	10090
+17879945	542	551	ritonavir	ChemicalEntity	D019438
+17879945	577	594	cholesteryl ester	ChemicalEntity	D002788
+17879945	712	723	cholesterol	ChemicalEntity	D002784
+17879945	769	781	HIV protease	GeneOrGeneProduct	-
+17879945	792	801	ritonavir	ChemicalEntity	D019438
+17879945	824	829	human	OrganismTaxon	9606
+17879945	850	855	THP-1	CellLine	CVCL_0006
+17879945	1026	1042	17beta-estradiol	ChemicalEntity	D004958
+17879945	1044	1046	E2	ChemicalEntity	D004958
+17879945	1056	1068	progesterone	ChemicalEntity	D011374
+17879945	1087	1094	ethanol	ChemicalEntity	D000431
+17879945	1135	1144	ritonavir	ChemicalEntity	D019438
+17879945	1234	1239	lipid	ChemicalEntity	D008055
+17879945	1267	1269	E2	ChemicalEntity	D004958
+17879945	1300	1318	cholesteryl esters	ChemicalEntity	D002788
+17879945	1344	1353	ritonavir	ChemicalEntity	D019438
+17879945	1365	1374	Ritonavir	ChemicalEntity	D019438
+17879945	1427	1431	CD36	GeneOrGeneProduct	948
+17879945	1487	1496	ritonavir	ChemicalEntity	D019438
+17879945	1552	1561	PPARgamma	GeneOrGeneProduct	5468
+17879945	1625	1629	CD36	GeneOrGeneProduct	948
+17879945	1662	1664	E2	ChemicalEntity	D004958
+17879945	1728	1730	E2	ChemicalEntity	D004958
+17879945	1768	1772	CD36	GeneOrGeneProduct	948
+17879945	1860	1862	E2	ChemicalEntity	D004958
+17879945	1890	1894	CD36	GeneOrGeneProduct	948
+17879945	1983	2000	cholesteryl ester	ChemicalEntity	D002788
+17879945	2024	2033	ritonavir	ChemicalEntity	D019438
+17879945	Association	5468	948	No
+17879945	Association	948	D002788	Novel
+17879945	Negative_Correlation	D004958	948	Novel
+17879945	Negative_Correlation	D004958	D002788	Novel
+17879945	Positive_Correlation	D019438	5468	Novel
+17879945	Positive_Correlation	D019438	948	Novel
+17879945	Association	D019438	D004958	Novel
+17879945	Positive_Correlation	D019438	D050197	No
+17879945	Negative_Correlation	D019438	D002788	Novel
+17879945	Negative_Correlation	D004967	D002788	Novel

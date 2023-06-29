@@ -1,0 +1,38 @@
+28111820|t|An indirect method for in vivo T2 mapping of [1-(13) C] pyruvate using hyperpolarized (13) C CSI
+28111820|a|An indirect method for in vivo T2 mapping of (13) C-labeled metabolites using T2 and T2 * information of water protons obtained a priori is proposed. The T2 values of (13) C metabolites are inferred using the relationship to T2 ' of coexisting (1) H and the T2 * of (13) C metabolites, which is measured using routine hyperpolarized (13) C CSI data. The concept is verified with phantom studies. Simulations were performed to evaluate the extent of T2 estimation accuracy due to errors in the other measurements. Also, bias in the (13) C T2 * estimation from the (13) C CSI data was studied. In vivo experiments were performed from the brains of normal rats and a rat with C6 glioma. Simulation results indicate that the proposed method provides accurate and unbiased (13) C T2 values within typical experimental settings. The in vivo studies found that the estimated T2 of [1-(13) C] pyruvate using the indirect method was longer in tumor than in normal tissues and gave values similar to previous reports. This method can estimate localized T2 relaxation times from multiple voxels using conventional hyperpolarized (13) C CSI and can potentially be used with time resolved fast CSI.
+28111820	3	18	indirect method	T170	UMLS:C0025663
+28111820	23	30	in vivo	T082	UMLS:C1515655
+28111820	31	41	T2 mapping	T058	UMLS:C3472340
+28111820	45	64	[1-(13) C] pyruvate	T103	UMLS:C0029224
+28111820	71	96	hyperpolarized (13) C CSI	T058	UMLS:C0242411
+28111820	100	115	indirect method	T170	UMLS:C0025663
+28111820	120	127	in vivo	T082	UMLS:C1515655
+28111820	128	138	T2 mapping	T058	UMLS:C3472340
+28111820	142	168	(13) C-labeled metabolites	T103	UMLS:C0870883
+28111820	202	215	water protons	T103	UMLS:C0033727
+28111820	264	282	(13) C metabolites	T103	UMLS:C0870883
+28111820	341	346	(1) H	T103	UMLS:C0870883
+28111820	363	381	(13) C metabolites	T103	UMLS:C0870883
+28111820	415	440	hyperpolarized (13) C CSI	T058	UMLS:C0242411
+28111820	476	491	phantom studies	T062	UMLS:C2603343
+28111820	493	504	Simulations	T062	UMLS:C0679083
+28111820	523	531	evaluate	T058	UMLS:C0220825
+28111820	549	559	estimation	T058	UMLS:C0201805
+28111820	628	650	(13) C T2 * estimation	T058	UMLS:C0201805
+28111820	660	670	(13) C CSI	T058	UMLS:C0242411
+28111820	733	739	brains	T017	UMLS:C0006104
+28111820	750	754	rats	T204	UMLS:C0034693
+28111820	761	764	rat	T204	UMLS:C0034693
+28111820	770	779	C6 glioma	T038	UMLS:C0017638
+28111820	781	791	Simulation	T062	UMLS:C0679083
+28111820	827	833	method	T170	UMLS:C0025663
+28111820	856	864	unbiased	T062	UMLS:C1711255
+28111820	971	990	[1-(13) C] pyruvate	T103	UMLS:C0029224
+28111820	1001	1016	indirect method	T170	UMLS:C0025663
+28111820	1031	1036	tumor	T038	UMLS:C0027651
+28111820	1052	1059	tissues	T017	UMLS:C0040300
+28111820	1096	1103	reports	T170	UMLS:C0684224
+28111820	1110	1116	method	T170	UMLS:C0025663
+28111820	1130	1139	localized	T082	UMLS:C0392752
+28111820	1200	1225	hyperpolarized (13) C CSI	T058	UMLS:C0242411
+28111820	1259	1281	time resolved fast CSI	T058	UMLS:C0242411

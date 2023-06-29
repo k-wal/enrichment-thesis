@@ -1,0 +1,53 @@
+20335448|t|A novel point mutation in helix 10 of the human glucocorticoid receptor causes generalized glucocorticoid resistance by disrupting the structure of the ligand-binding domain.
+20335448|a|CONTEXT: Generalized glucocorticoid resistance syndrome is a rare familial or sporadic condition characterized by partial insensitivity to glucocorticoids, caused by mutations in the glucocorticoid receptor (GR) gene. Most of the reported cases are adults, demonstrating symptoms associated with mineralocorticoid and/or adrenal androgen excess caused by compensatively increased secretion of the adrenocorticotropic hormone. PATIENT: We identified a new 2-yr-old female case of generalized glucocorticoid resistance syndrome. The patient (TJ) presented with a generalized seizure associated with hypoglycemia and hypokalemia. She also had hypertension and premature pubarche, whereas dexamethasone effectively suppressed these clinical manifestations. RESULTS: The patient's GR gene had a heterozygotic mutation (G-->A) at nucleotide position 2141 (exon 8), which resulted in substitution of arginine by glutamine at amino acid position 714 in the ligand-binding domain (LBD) of the GR alpha. Molecular analysis revealed that the mutant receptor had significantly impaired transactivation activity with a 2-fold reduction in affinity to ligand. It showed attenuated transactivation of the activation function (AF)-2 and reduced binding to a p160 nuclear receptor coactivator. Computer-based structural analysis revealed that replacement of arginine by glutamine at position 714 transmitted a conformational change to the LBD and the AF-2 transactivation surface, resulting in a decreased binding affinity to ligand and to the LXXLL coactivator motif. CONCLUSIONS: Dexamethasone treatment is effective in controlling the premature pubarche, hypoglycemia, hypertension, and hypokalemia in this child case, wherein arginine 714 plays a key role in the proper formation of the ligand-binding pocket and the AF-2 surface of the GR alpha LBD.
+20335448	42	47	human	OrganismTaxon	9606
+20335448	48	71	glucocorticoid receptor	GeneOrGeneProduct	2908
+20335448	91	116	glucocorticoid resistance	DiseaseOrPhenotypicFeature	C564221
+20335448	196	221	glucocorticoid resistance	DiseaseOrPhenotypicFeature	C564221
+20335448	314	329	glucocorticoids	ChemicalEntity	D005938
+20335448	358	381	glucocorticoid receptor	GeneOrGeneProduct	2908
+20335448	383	385	GR	GeneOrGeneProduct	2908
+20335448	471	488	mineralocorticoid	ChemicalEntity	D008901
+20335448	504	512	androgen	ChemicalEntity	D000728
+20335448	601	608	PATIENT	OrganismTaxon	9606
+20335448	666	691	glucocorticoid resistance	DiseaseOrPhenotypicFeature	C564221
+20335448	706	713	patient	OrganismTaxon	9606
+20335448	748	755	seizure	DiseaseOrPhenotypicFeature	D012640
+20335448	772	784	hypoglycemia	DiseaseOrPhenotypicFeature	D007003
+20335448	789	800	hypokalemia	DiseaseOrPhenotypicFeature	D007008
+20335448	815	827	hypertension	DiseaseOrPhenotypicFeature	D006973
+20335448	832	850	premature pubarche	DiseaseOrPhenotypicFeature	C567552
+20335448	860	873	dexamethasone	ChemicalEntity	D003907
+20335448	941	948	patient	OrganismTaxon	9606
+20335448	951	953	GR	GeneOrGeneProduct	2908
+20335448	988	1023	(G-->A) at nucleotide position 2141	SequenceVariant	c|SUB|G|2141|A
+20335448	1068	1116	arginine by glutamine at amino acid position 714	SequenceVariant	c|SUB|R|714|Q
+20335448	1159	1167	GR alpha	GeneOrGeneProduct	2908
+20335448	1417	1450	p160 nuclear receptor coactivator	GeneOrGeneProduct	8648
+20335448	1516	1553	arginine by glutamine at position 714	SequenceVariant	c|SUB|R|714|Q
+20335448	1740	1753	Dexamethasone	ChemicalEntity	D003907
+20335448	1796	1814	premature pubarche	DiseaseOrPhenotypicFeature	C567552
+20335448	1816	1828	hypoglycemia	DiseaseOrPhenotypicFeature	D007003
+20335448	1830	1842	hypertension	DiseaseOrPhenotypicFeature	D006973
+20335448	1848	1859	hypokalemia	DiseaseOrPhenotypicFeature	D007008
+20335448	1888	1900	arginine 714	SequenceVariant	c|Allele|R|714
+20335448	1999	2007	GR alpha	GeneOrGeneProduct	2908
+20335448	Association	c|Allele|R|714	D007008	Novel
+20335448	Association	c|Allele|R|714	D007003	Novel
+20335448	Association	c|Allele|R|714	D006973	Novel
+20335448	Positive_Correlation	c|Allele|R|714	C564221	Novel
+20335448	Association	C567552	c|Allele|R|714	Novel
+20335448	Negative_Correlation	C567552	D003907	Novel
+20335448	Association	C567552	2908	Novel
+20335448	Negative_Correlation	D003907	D007008	Novel
+20335448	Negative_Correlation	D003907	D007003	Novel
+20335448	Negative_Correlation	D003907	D012640	Novel
+20335448	Negative_Correlation	D006973	D003907	Novel
+20335448	Negative_Correlation	C564221	D005938	No
+20335448	Positive_Correlation	C564221	c|SUB|R|714|Q	Novel
+20335448	Positive_Correlation	C564221	c|SUB|G|2141|A	Novel
+20335448	Association	2908	D007008	Novel
+20335448	Association	2908	D007003	Novel
+20335448	Association	2908	D012640	Novel
+20335448	Association	2908	D006973	Novel
+20335448	Association	2908	C564221	Novel

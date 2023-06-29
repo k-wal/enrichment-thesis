@@ -1,0 +1,87 @@
+28524099|t|Metabolomics of Therapy Response in Preclinical Glioblastoma: A Multi-Slice MRSI -Based Volumetric Analysis for Noninvasive Assessmen t of Temozolomide Treatment
+28524099|a|Glioblastoma (GBM) is the most common aggressive primary brain tumor in adults, with a short survival time even after aggressive therapy. Non-invasive surrogate biomarkers of therapy response may be relevant for improving patient survival. Previous work produced such biomarkers in preclinical GBM using semi-supervised source extraction and single-slice Magnetic Resonance Spectroscopic Imaging (MRSI). Nevertheless, GBMs are heterogeneous and single-slice studies could prevent obtaining relevant information. The purpose of this work was to evaluate whether a multi-slice MRSI approach, acquiring consecutive grids across the tumor, is feasible for preclinical models and may produce additional insight into therapy response. Nosological images were analyzed pixel-by-pixel and a relative responding volume, the Tumor Responding Index (TRI), was defined to quantify response. Heterogeneous response levels were observed and treated animals were ascribed to three arbitrary predefined groups: high response (HR, n = 2), TRI = 68.2 ± 2.8%, intermediate response (IR, n = 6), TRI = 41.1 ± 4.2% and low response (LR, n = 2), TRI = 13.4 ± 14.3%, producing therapy response categorization which had not been fully registered in single-slice studies. Results agreed with the multi-slice approach being feasible and producing an inverse correlation between TRI and Ki67 immunostaining. Additionally, ca. 7-day oscillations of TRI were observed, suggesting that host immune system activation in response to treatment could contribute to the responding patterns detected.
+28524099	0	12	Metabolomics	T091	C1328813
+28524099	16	23	Therapy	T061	C0087111
+28524099	24	32	Response	T032	C0871261
+28524099	36	47	Preclinical	T080	C1709630
+28524099	48	60	Glioblastoma	T191	C0017636
+28524099	64	80	Multi-Slice MRSI	T060	C1522706
+28524099	88	107	Volumetric Analysis	T059	C3825502
+28524099	112	133	Noninvasive Assessmen	T060	C0259832
+28524099	139	151	Temozolomide	T109,T121	C0076080
+28524099	152	161	Treatment	T061	C0087111
+28524099	162	174	Glioblastoma	T191	C0017636
+28524099	176	179	GBM	T191	C0017636
+28524099	200	210	aggressive	T079	C0580822
+28524099	219	230	brain tumor	T191	C0006118
+28524099	234	240	adults	T100	C0001675
+28524099	255	268	survival time	T201	C2919552
+28524099	280	290	aggressive	T079	C0580822
+28524099	291	298	therapy	T061	C0087111
+28524099	300	312	Non-invasive	T169	C0205303
+28524099	313	322	surrogate	T080	C0086589
+28524099	323	333	biomarkers	T123	C0041366
+28524099	337	344	therapy	T061	C0087111
+28524099	345	353	response	T032	C0871261
+28524099	361	369	relevant	T080	C2347946
+28524099	374	383	improving	T080	C1272745
+28524099	384	391	patient	T101	C0030705
+28524099	392	400	survival	T052	C0038952
+28524099	411	415	work	T062	C0008972
+28524099	430	440	biomarkers	T123	C0041366
+28524099	444	455	preclinical	T080	C1709630
+28524099	456	459	GBM	T191	C0017636
+28524099	466	499	semi-supervised source extraction	T059	C0005567
+28524099	504	557	single-slice Magnetic Resonance Spectroscopic Imaging	T060	C1522706
+28524099	559	563	MRSI	T060	C1522706
+28524099	580	584	GBMs	T191	C0017636
+28524099	589	602	heterogeneous	T080	C0019409
+28524099	607	627	single-slice studies	T062	C0008972
+28524099	652	660	relevant	T080	C2347946
+28524099	661	672	information	T078	C1533716
+28524099	678	685	purpose	T169	C1285529
+28524099	694	698	work	T062	C0008972
+28524099	706	714	evaluate	T062	C0936012
+28524099	725	741	multi-slice MRSI	T060	C1522706
+28524099	791	796	tumor	T191	C0027651
+28524099	814	832	preclinical models	T170	C1514292
+28524099	873	880	therapy	T061	C0087111
+28524099	881	889	response	T032	C0871261
+28524099	891	902	Nosological	T170	C0683326
+28524099	915	923	analyzed	T062	C0936012
+28524099	965	971	volume	T081	C0449468
+28524099	977	999	Tumor Responding Index	T170	C0918012
+28524099	1001	1004	TRI	T170	C0918012
+28524099	1022	1030	quantify	T081	C1709793
+28524099	1031	1039	response	T032	C0871261
+28524099	1041	1054	Heterogeneous	T080	C0019409
+28524099	1055	1063	response	T032	C0871261
+28524099	1076	1084	observed	T169	C1441672
+28524099	1089	1096	treated	T061	C0332293
+28524099	1097	1104	animals	T008	C0003062
+28524099	1128	1137	arbitrary	T080	C1264693
+28524099	1149	1155	groups	T078	C0441833
+28524099	1157	1170	high response	T032	C0871261
+28524099	1172	1174	HR	T032	C0871261
+28524099	1184	1187	TRI	T170	C0918012
+28524099	1203	1224	intermediate response	T032	C0871261
+28524099	1226	1228	IR	T032	C0871261
+28524099	1238	1241	TRI	T170	C0918012
+28524099	1260	1272	low response	T032	C0871261
+28524099	1274	1276	LR	T032	C0871261
+28524099	1286	1289	TRI	T170	C0918012
+28524099	1316	1323	therapy	T061	C0087111
+28524099	1324	1332	response	T032	C0871261
+28524099	1333	1347	categorization	T185	C0008902
+28524099	1387	1407	single-slice studies	T062	C0008972
+28524099	1433	1453	multi-slice approach	T060	C1522706
+28524099	1514	1517	TRI	T170	C0918012
+28524099	1522	1541	Ki67 immunostaining	T059	C4055454
+28524099	1557	1559	ca	T121,T123,T196	C0006675
+28524099	1561	1566	7-day	T079	C0439228
+28524099	1567	1579	oscillations	T061	C0695434
+28524099	1583	1586	TRI	T170	C0918012
+28524099	1592	1600	observed	T169	C1441672
+28524099	1623	1647	immune system activation	T039	C2256029
+28524099	1651	1672	response to treatment	T201	C0521982
+28524099	1708	1716	patterns	T082	C0449774

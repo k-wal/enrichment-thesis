@@ -1,0 +1,74 @@
+27666119|t|Prognostic and therapeutic value of mitochondrial serine hydroxyl-methyltransferase 2 as a breast cancer biomarker
+27666119|a|Mitochondrial serine hydroxylmethyltransferase 2 (SHMT2) is a key enzyme in the serine/glycine synthesis pathway. SHMT2 has been implicated as a critical component for tumor cell survival. The aim of the present study was to evaluate the prognostic value and efficiency of SHMT2 as a biomarker in patients with breast cancer. Individual and pooled survival analyses were performed on five independent breast cancer microarray datasets. Gene signatures enriched by SHMT2 were also analyzed in these datasets. SHMT2 protein expression was detected using immunohistochemistry (IHC) assay in 128 breast cancer cases. Gene set enrichment analysis revealed that SHMT2 was significantly associated with gene signatures of mitochondrial module, cancer invasion, metastasis and poor survival among breast cancer patients (p<0.05). The clinical relevance of SHMT2 was validated on IHC data. The mitochondrial localization of SHMT2 protein was visualized on IHC staining. Independent and pooled analysis confirmed that SHMT2 expression was associated with breast cancer tumor aggressiveness (TNM staging and Elson grade) in a dose-dependent manner (p<0.05). The prognostic performance of SHMT2 mRNA was comparable to other gene signatures and proved superior to TNM staging. Further analysis results indicated that SHMT2 had better prognostic value for estrogen receptor (ER)-negative breast cancer patients, compared to ER-positive patients. In cases involving stage IIb breast cancer, chemotherapy significantly extended survival time among patients with high SHMT2 expression. These results indicate that SHMT2 may be a valuable prognostic biomarker in ER-negative breast cancer cases. Furthermore, SHMT2 may be a potential target for breast cancer treatment and drug discovery.
+27666119	0	10	Prognostic	T170	UMLS:C0220901
+27666119	36	85	mitochondrial serine hydroxyl-methyltransferase 2	T103	UMLS:C4045550
+27666119	91	104	breast cancer	T038	UMLS:C0006142
+27666119	105	114	biomarker	T201	UMLS:C0005516
+27666119	115	163	Mitochondrial serine hydroxylmethyltransferase 2	T103	UMLS:C4045550
+27666119	165	170	SHMT2	T103	UMLS:C4045550
+27666119	181	187	enzyme	T103	UMLS:C0014442
+27666119	195	227	serine/glycine synthesis pathway	T038	UMLS:C1156644
+27666119	229	234	SHMT2	T103	UMLS:C4045550
+27666119	283	293	tumor cell	T017	UMLS:C0597032
+27666119	294	302	survival	T038	UMLS:C0007620
+27666119	353	363	prognostic	T170	UMLS:C0220901
+27666119	388	393	SHMT2	T103	UMLS:C4045550
+27666119	399	408	biomarker	T201	UMLS:C0005516
+27666119	426	439	breast cancer	T038	UMLS:C0006142
+27666119	441	451	Individual	T098	UMLS:C0237401
+27666119	456	462	pooled	T098	UMLS:C1257890
+27666119	463	480	survival analyses	T062	UMLS:C0038953
+27666119	516	529	breast cancer	T038	UMLS:C0006142
+27666119	541	549	datasets	T170	UMLS:C0150098
+27666119	579	584	SHMT2	T103	UMLS:C4045550
+27666119	613	621	datasets	T170	UMLS:C0150098
+27666119	623	628	SHMT2	T103	UMLS:C4045550
+27666119	629	647	protein expression	T038	UMLS:C1171362
+27666119	667	687	immunohistochemistry	T058	UMLS:C0021044
+27666119	689	692	IHC	T058	UMLS:C0021044
+27666119	694	699	assay	T058	UMLS:C1510438
+27666119	707	720	breast cancer	T038	UMLS:C0006142
+27666119	728	756	Gene set enrichment analysis	T062	UMLS:C0936012
+27666119	771	776	SHMT2	T103	UMLS:C4045550
+27666119	830	850	mitochondrial module	T038	UMLS:C1959595
+27666119	852	867	cancer invasion	T033	UMLS:C1269955
+27666119	869	879	metastasis	T038	UMLS:C4255448
+27666119	884	897	poor survival	T033	UMLS:C0243095
+27666119	904	917	breast cancer	T038	UMLS:C0006142
+27666119	963	968	SHMT2	T103	UMLS:C4045550
+27666119	986	989	IHC	T058	UMLS:C0021044
+27666119	1000	1026	mitochondrial localization	T038	UMLS:C1657244
+27666119	1030	1043	SHMT2 protein	T103	UMLS:C4045550
+27666119	1062	1065	IHC	T058	UMLS:C0021044
+27666119	1066	1074	staining	T058	UMLS:C0487602
+27666119	1076	1087	Independent	T062	UMLS:C0936012
+27666119	1092	1107	pooled analysis	T062	UMLS:C0936012
+27666119	1123	1128	SHMT2	T103	UMLS:C4045550
+27666119	1129	1139	expression	T038	UMLS:C1171362
+27666119	1160	1173	breast cancer	T038	UMLS:C0006142
+27666119	1196	1207	TNM staging	T170	UMLS:C1515169
+27666119	1212	1223	Elson grade	T201	UMLS:C1527124
+27666119	1266	1276	prognostic	T170	UMLS:C0220901
+27666119	1292	1297	SHMT2	T103	UMLS:C4045550
+27666119	1298	1302	mRNA	T103	UMLS:C0035696
+27666119	1366	1377	TNM staging	T170	UMLS:C1515169
+27666119	1419	1424	SHMT2	T103	UMLS:C4045550
+27666119	1436	1446	prognostic	T170	UMLS:C0220901
+27666119	1457	1488	estrogen receptor (ER)-negative	T033	UMLS:C0279756
+27666119	1489	1502	breast cancer	T038	UMLS:C0006142
+27666119	1525	1536	ER-positive	T033	UMLS:C0279754
+27666119	1566	1589	stage IIb breast cancer	T038	UMLS:C2216697
+27666119	1591	1603	chemotherapy	T058	UMLS:C3665472
+27666119	1618	1626	extended	T082	UMLS:C0231449
+27666119	1627	1640	survival time	T201	UMLS:C2919552
+27666119	1666	1671	SHMT2	T103	UMLS:C4045550
+27666119	1672	1682	expression	T038	UMLS:C1171362
+27666119	1712	1717	SHMT2	T103	UMLS:C4045550
+27666119	1736	1746	prognostic	T170	UMLS:C0220901
+27666119	1747	1756	biomarker	T201	UMLS:C0005516
+27666119	1760	1771	ER-negative	T033	UMLS:C0279756
+27666119	1772	1785	breast cancer	T038	UMLS:C0006142
+27666119	1806	1811	SHMT2	T103	UMLS:C4045550
+27666119	1842	1855	breast cancer	T038	UMLS:C0006142
+27666119	1856	1865	treatment	T058	UMLS:C0087111
+27666119	1870	1884	drug discovery	T062	UMLS:C0920472

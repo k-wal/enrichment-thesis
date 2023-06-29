@@ -1,0 +1,37 @@
+20086182|t|The six-nucleotide deletion/insertion variant in the CASP8 promoter region is inversely associated with risk of squamous cell carcinoma of the head and neck.
+20086182|a|Caspase 8 (CASP8) is an apoptosis-related cysteine peptidase involved in the death receptor pathway and likely in the mitochondrial pathway. A CASP8 promoter region six-nucleotide deletion/insertion (-652 6N ins/del) variant and a coding region D302H polymorphism are reportedly important in cancer development, but no reported study has assessed the associations of these genetic variations with risk of head and neck cancer. In a hospital-based study of non-Hispanic whites, we genotyped CASP8 -652 6N del and 302H variants in 1,023 patients with squamous cell carcinoma of the head and neck (SCCHN) and 1,052 cancer-free controls. Crude and adjusted odds ratios (OR) and 95% confidence intervals (CI) were estimated using unconditional logistic regression models. The CASP8 -652 6N del variant genotypes or haplotypes were inversely associated with SCCHN risk (adjusted OR, 0.70; 95% CI, 0.57-0.85 for the ins/del + del/del genotypes compared with the ins/ins genotype; adjusted OR, 0.73; 95% CI, 0.55-0.97 for the del-D haplotype compared with the ins-D haplotype). Furthermore, the number of the CASP8 -652 6N del (but not 302H) variant allele tended to correlate with increased levels of camptothecin-induced p53-mediated apoptosis in T lymphocytes from 170 cancer-free controls. We concluded that the CASP8 -652 6N del variant allele may contribute to the risk of developing SCCHN in non-Hispanic white populations. Further validation by population-based case-control studies and rigorous mechanistic studies is warranted.
+20086182	53	58	CASP8	GeneOrGeneProduct	841
+20086182	112	156	squamous cell carcinoma of the head and neck	DiseaseOrPhenotypicFeature	D000077195
+20086182	158	167	Caspase 8	GeneOrGeneProduct	841
+20086182	169	174	CASP8	GeneOrGeneProduct	841
+20086182	301	306	CASP8	GeneOrGeneProduct	841
+20086182	358	373	-652 6N ins/del	SequenceVariant	c|INDEL|-652|6
+20086182	403	408	D302H	SequenceVariant	rs1045485
+20086182	450	456	cancer	DiseaseOrPhenotypicFeature	D009369
+20086182	563	583	head and neck cancer	DiseaseOrPhenotypicFeature	D006258
+20086182	648	653	CASP8	GeneOrGeneProduct	841
+20086182	654	665	-652 6N del	SequenceVariant	c|DEL|-652|6
+20086182	670	674	302H	SequenceVariant	rs1045485
+20086182	693	701	patients	OrganismTaxon	9606
+20086182	707	751	squamous cell carcinoma of the head and neck	DiseaseOrPhenotypicFeature	D000077195
+20086182	753	758	SCCHN	DiseaseOrPhenotypicFeature	D000077195
+20086182	929	934	CASP8	GeneOrGeneProduct	841
+20086182	935	946	-652 6N del	SequenceVariant	c|DEL|-652|6
+20086182	1010	1015	SCCHN	DiseaseOrPhenotypicFeature	D000077195
+20086182	1259	1264	CASP8	GeneOrGeneProduct	841
+20086182	1265	1276	-652 6N del	SequenceVariant	c|DEL|-652|6
+20086182	1286	1290	302H	SequenceVariant	rs1045485
+20086182	1352	1364	camptothecin	ChemicalEntity	D002166
+20086182	1373	1376	p53	GeneOrGeneProduct	7157
+20086182	1466	1471	CASP8	GeneOrGeneProduct	841
+20086182	1472	1483	-652 6N del	SequenceVariant	c|DEL|-652|6
+20086182	1540	1545	SCCHN	DiseaseOrPhenotypicFeature	D000077195
+20086182	Association	D009369	rs1045485	No
+20086182	Association	D009369	c|INDEL|-652|6	No
+20086182	Association	D002166	7157	No
+20086182	Positive_Correlation	c|DEL|-652|6	D002166	Novel
+20086182	Positive_Correlation	c|DEL|-652|6	D000077195	Novel
+20086182	Association	841	D009369	No
+20086182	Association	841	7157	Novel
+20086182	Association	841	D002166	Novel
+20086182	Association	841	D000077195	Novel

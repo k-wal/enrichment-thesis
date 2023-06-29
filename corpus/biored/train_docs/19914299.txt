@@ -1,0 +1,28 @@
+19914299|t|Fluoxetine improves the memory deficits caused by the chemotherapy agent 5-fluorouracil.
+19914299|a|Cancer patients who have been treated with systemic adjuvant chemotherapy have described experiencing deteriorations in cognition. A widely used chemotherapeutic agent, 5-fluorouracil (5-FU), readily crosses the blood-brain barrier and so could have a direct effect on brain function. In particular this anti mitotic drug could reduce cell proliferation in the neurogenic regions of the adult brain. In contrast reports indicate that hippocampal dependent neurogenesis and cognition are enhanced by the SSRI antidepressant Fluoxetine. In this investigation the behavioural effects of chronic (two week) treatment with 5-FU and (three weeks) with Fluoxetine either separately or in combination with 5-FU were tested on adult Lister hooded rats. Behavioural effects were tested using a context dependent conditioned emotional response test (CER) which showed that animals treated with 5-FU had a significant reduction in freezing time compared to controls. A separate group of animals was tested using a hippocampal dependent spatial working memory test, the object location recognition test (OLR). Animals treated only with 5-FU showed significant deficits in their ability to carry out the OLR task but co administration of Fluoxetine improved their performance. 5-FU chemotherapy caused a significant reduction in the number of proliferating cells in the sub granular zone of the dentate gyrus compared to controls. This reduction was eliminated when Fluoxetine was co administered with 5-FU. Fluoxetine on its own had no effect on proliferating cell number or behaviour. These findings suggest that 5-FU can negatively affect both cell proliferation and hippocampal dependent working memory and that these deficits can be reversed by the simultaneous administration of the antidepressant Fluoxetine.
+19914299	0	10	Fluoxetine	ChemicalEntity	D005473
+19914299	24	39	memory deficits	DiseaseOrPhenotypicFeature	D008569
+19914299	73	87	5-fluorouracil	ChemicalEntity	D005472
+19914299	89	95	Cancer	DiseaseOrPhenotypicFeature	D009369
+19914299	96	104	patients	OrganismTaxon	9606
+19914299	258	272	5-fluorouracil	ChemicalEntity	D005472
+19914299	274	278	5-FU	ChemicalEntity	D005472
+19914299	592	596	SSRI	ChemicalEntity	D017367
+19914299	612	622	Fluoxetine	ChemicalEntity	D005473
+19914299	707	711	5-FU	ChemicalEntity	D005472
+19914299	735	745	Fluoxetine	ChemicalEntity	D005473
+19914299	787	791	5-FU	ChemicalEntity	D005472
+19914299	827	831	rats	OrganismTaxon	10116
+19914299	972	976	5-FU	ChemicalEntity	D005472
+19914299	1212	1216	5-FU	ChemicalEntity	D005472
+19914299	1313	1323	Fluoxetine	ChemicalEntity	D005473
+19914299	1352	1356	5-FU	ChemicalEntity	D005472
+19914299	1541	1551	Fluoxetine	ChemicalEntity	D005473
+19914299	1577	1581	5-FU	ChemicalEntity	D005472
+19914299	1583	1593	Fluoxetine	ChemicalEntity	D005473
+19914299	1690	1694	5-FU	ChemicalEntity	D005472
+19914299	1879	1889	Fluoxetine	ChemicalEntity	D005473
+19914299	Negative_Correlation	D005472	D009369	No
+19914299	Positive_Correlation	D008569	D005472	No
+19914299	Negative_Correlation	D005473	D005472	Novel
+19914299	Negative_Correlation	D005473	D008569	Novel

@@ -1,0 +1,54 @@
+24341598|t|Comparison of effects of isotonic sodium chloride with diltiazem in prevention of contrast-induced nephropathy.
+24341598|a|INTRODUCTION AND OBJECTIVE: Contrast-induced nephropathy (CIN) significantly increases the morbidity and mortality of patients. The aim of this study is to investigate and compare the protective effects of isotonic sodium chloride with sodium bicarbonate infusion and isotonic sodium chloride infusion with diltiazem, a calcium channel blocker, in preventing CIN. MATERIALS AND METHODS: Our study included patients who were administered 30-60 mL of iodinated contrast agent for percutaneous coronary angiography (PCAG), all with creatinine values between 1.1 and 3.1 mg/dL. Patients were divided into three groups and each group had 20 patients. The first group of patients was administered isotonic sodium chloride; the second group was administered a solution that of 5% dextrose and sodium bicarbonate, while the third group was administered isotonic sodium chloride before and after the contrast injection. The third group received an additional injection of diltiazem the day before and first 2 days after the contrast injection. All of the patients' plasma blood urea nitrogen (BUN) and creatinine levels were measured on the second and seventh day after the administration of intravenous contrast material. RESULTS: The basal creatinine levels were similar for all three groups (p > 0.05). Among a total of 60 patients included in the study, 16 patients developed acute renal failure (ARF) on the second day after contrast material was injected (26.6%). The number of patients who developed ARF on the second day after the injection in the first group was five (25%), in the second group was six (30%) and the third group was five (25%) (p > 0.05). CONCLUSION: There was no significant difference between isotonic sodium chloride, sodium bicarbonate and isotonic sodium chloride with diltiazem application in prevention of CIN.
+24341598	34	49	sodium chloride	ChemicalEntity	D012965
+24341598	55	64	diltiazem	ChemicalEntity	D004110
+24341598	82	90	contrast	ChemicalEntity	D003287
+24341598	99	110	nephropathy	DiseaseOrPhenotypicFeature	D007674
+24341598	140	148	Contrast	ChemicalEntity	D003287
+24341598	157	168	nephropathy	DiseaseOrPhenotypicFeature	D007674
+24341598	170	173	CIN	DiseaseOrPhenotypicFeature	D007674
+24341598	230	238	patients	OrganismTaxon	9606
+24341598	327	342	sodium chloride	ChemicalEntity	D012965
+24341598	348	366	sodium bicarbonate	ChemicalEntity	D017693
+24341598	389	404	sodium chloride	ChemicalEntity	D012965
+24341598	419	428	diltiazem	ChemicalEntity	D004110
+24341598	432	439	calcium	ChemicalEntity	D002118
+24341598	471	474	CIN	DiseaseOrPhenotypicFeature	D007674
+24341598	518	526	patients	OrganismTaxon	9606
+24341598	571	579	contrast	ChemicalEntity	D003287
+24341598	641	651	creatinine	ChemicalEntity	D003404
+24341598	686	694	Patients	OrganismTaxon	9606
+24341598	748	756	patients	OrganismTaxon	9606
+24341598	777	785	patients	OrganismTaxon	9606
+24341598	812	827	sodium chloride	ChemicalEntity	D012965
+24341598	885	893	dextrose	ChemicalEntity	D005947
+24341598	898	916	sodium bicarbonate	ChemicalEntity	D017693
+24341598	966	981	sodium chloride	ChemicalEntity	D012965
+24341598	1003	1011	contrast	ChemicalEntity	D003287
+24341598	1075	1084	diltiazem	ChemicalEntity	D004110
+24341598	1127	1135	contrast	ChemicalEntity	D003287
+24341598	1158	1166	patients	OrganismTaxon	9606
+24341598	1175	1194	blood urea nitrogen	ChemicalEntity	D001806
+24341598	1196	1199	BUN	ChemicalEntity	D001806
+24341598	1205	1215	creatinine	ChemicalEntity	D003404
+24341598	1307	1315	contrast	ChemicalEntity	D003287
+24341598	1345	1355	creatinine	ChemicalEntity	D003404
+24341598	1429	1437	patients	OrganismTaxon	9606
+24341598	1464	1472	patients	OrganismTaxon	9606
+24341598	1483	1502	acute renal failure	DiseaseOrPhenotypicFeature	D058186
+24341598	1504	1507	ARF	DiseaseOrPhenotypicFeature	D058186
+24341598	1533	1541	contrast	ChemicalEntity	D003287
+24341598	1587	1595	patients	OrganismTaxon	9606
+24341598	1610	1613	ARF	DiseaseOrPhenotypicFeature	D058186
+24341598	1833	1848	sodium chloride	ChemicalEntity	D012965
+24341598	1850	1868	sodium bicarbonate	ChemicalEntity	D017693
+24341598	1882	1897	sodium chloride	ChemicalEntity	D012965
+24341598	1903	1912	diltiazem	ChemicalEntity	D004110
+24341598	1942	1945	CIN	DiseaseOrPhenotypicFeature	D007674
+24341598	Positive_Correlation	D058186	D003287	Novel
+24341598	Negative_Correlation	D017693	D007674	Novel
+24341598	Comparison	D017693	D004110	Novel
+24341598	Positive_Correlation	D003287	D007674	No
+24341598	Negative_Correlation	D004110	D002118	No
+24341598	Negative_Correlation	D004110	D007674	Novel
+24341598	Negative_Correlation	D004110	D003287	Novel

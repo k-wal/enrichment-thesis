@@ -1,0 +1,41 @@
+17634480|t|Common germline genetic variation in antioxidant defense genes and survival after diagnosis of breast cancer.
+17634480|a|PURPOSE: The prognosis of breast cancer varies considerably among individuals, and inherited genetic factors may help explain this variability. Of particular interest are genes involved in defense against reactive oxygen species (ROS) because ROS are thought to cause DNA damage and contribute to the pathogenesis of cancer. PATIENTS AND METHODS: We examined associations between 54 polymorphisms that tag the known common variants (minor allele frequency > 0.05) in 10 genes involved in oxidative damage repair (CAT, SOD1, SOD2, GPX1, GPX4, GSR, TXN, TXN2, TXNRD1, and TXNRD2) and survival in 4,470 women with breast cancer. RESULTS: Two single nucleotide polymorphisms (SNPs) in GPX4 (rs713041 and rs757229) were associated with all-cause mortality even after adjusting for multiple hypothesis testing (adjusted P = .0041 and P = .0035). These SNPs are correlated with each other (r2 = 0.61). GPX4 rs713041 is located near the selenocysteine insertion sequence element in the GPX4 3' untranslated region, and the rare allele of this SNP is associated with an increased risk of death, with a hazard ratio of 1.27 per rare allele carried (95% CI, 1.13 to 11.43). This effect was not attenuated after adjusting for tumor stage, grade, or estrogen receptor status. We found that the common allele is preferentially expressed in normal lymphocytes, normal breast, and breast tumors compared with the rare allele, but there were no differences in total levels of GPX4 mRNA across genotypes. CONCLUSION: These data provide strong support for the hypothesis that common variation in GPX4 is associated with prognosis after a diagnosis of breast cancer.
+17634480	95	108	breast cancer	DiseaseOrPhenotypicFeature	D001943
+17634480	136	149	breast cancer	DiseaseOrPhenotypicFeature	D001943
+17634480	315	338	reactive oxygen species	ChemicalEntity	D017382
+17634480	340	343	ROS	ChemicalEntity	D017382
+17634480	353	356	ROS	ChemicalEntity	D017382
+17634480	427	433	cancer	DiseaseOrPhenotypicFeature	D009369
+17634480	435	443	PATIENTS	OrganismTaxon	9606
+17634480	623	626	CAT	GeneOrGeneProduct	847
+17634480	628	632	SOD1	GeneOrGeneProduct	6647
+17634480	634	638	SOD2	GeneOrGeneProduct	6648
+17634480	640	644	GPX1	GeneOrGeneProduct	2876
+17634480	646	650	GPX4	GeneOrGeneProduct	2879
+17634480	652	655	GSR	GeneOrGeneProduct	2936
+17634480	657	660	TXN	GeneOrGeneProduct	7295
+17634480	662	666	TXN2	GeneOrGeneProduct	25828
+17634480	668	674	TXNRD1	GeneOrGeneProduct	7296
+17634480	680	686	TXNRD2	GeneOrGeneProduct	10587
+17634480	710	715	women	OrganismTaxon	9606
+17634480	721	734	breast cancer	DiseaseOrPhenotypicFeature	D001943
+17634480	791	795	GPX4	GeneOrGeneProduct	2879
+17634480	797	805	rs713041	SequenceVariant	rs713041
+17634480	810	818	rs757229	SequenceVariant	rs757229
+17634480	1005	1009	GPX4	GeneOrGeneProduct	2879
+17634480	1010	1018	rs713041	SequenceVariant	rs713041
+17634480	1039	1053	selenocysteine	ChemicalEntity	D017279
+17634480	1088	1092	GPX4	GeneOrGeneProduct	2879
+17634480	1189	1194	death	DiseaseOrPhenotypicFeature	D003643
+17634480	1324	1329	tumor	DiseaseOrPhenotypicFeature	D009369
+17634480	1347	1364	estrogen receptor	GeneOrGeneProduct	2099
+17634480	1475	1488	breast tumors	DiseaseOrPhenotypicFeature	D001943
+17634480	1569	1573	GPX4	GeneOrGeneProduct	2879
+17634480	1687	1691	GPX4	GeneOrGeneProduct	2879
+17634480	1742	1755	breast cancer	DiseaseOrPhenotypicFeature	D001943
+17634480	Positive_Correlation	D017382	D009369	No
+17634480	Association	2879	D003643	Novel
+17634480	Association	2879	D001943	Novel
+17634480	Positive_Correlation	rs713041	D003643	Novel
+17634480	Positive_Correlation	D001943	rs757229	Novel
+17634480	Positive_Correlation	D001943	rs713041	Novel

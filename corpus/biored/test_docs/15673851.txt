@@ -1,0 +1,41 @@
+15673851|t|The activation of spinal N-methyl-D-aspartate receptors may contribute to degeneration of spinal motor neurons induced by neuraxial morphine after a noninjurious interval of spinal cord ischemia.
+15673851|a|We investigated the relationship between the degeneration of spinal motor neurons and activation of N-methyl-d-aspartate (NMDA) receptors after neuraxial morphine following a noninjurious interval of aortic occlusion in rats. Spinal cord ischemia was induced by aortic occlusion for 6 min with a balloon catheter. In a microdialysis study, 10 muL of saline (group C; n = 8) or 30 mug of morphine (group M; n = 8) was injected intrathecally (IT) 0.5 h after reflow, and 30 mug of morphine (group SM; n = 8) or 10 muL of saline (group SC; n = 8) was injected IT 0.5 h after sham operation. Microdialysis samples were collected preischemia, before IT injection, and at 2, 4, 8, 24, and 48 h of reperfusion (after IT injection). Second, we investigated the effect of IT MK-801 (30 mug) on the histopathologic changes in the spinal cord after morphine-induced spastic paraparesis. After IT morphine, the cerebrospinal fluid (CSF) glutamate concentration was increased in group M relative to both baseline and group C (P < 0.05). This increase persisted for 8 hrs. IT MK-801 significantly reduced the number of dark-stained alpha-motoneurons after morphine-induced spastic paraparesis compared with the saline group. These data indicate that IT morphine induces spastic paraparesis with a concomitant increase in CSF glutamate, which is involved in NMDA receptor activation. We suggest that opioids may be neurotoxic in the setting of spinal cord ischemia via NMDA receptor activation.
+15673851	25	55	N-methyl-D-aspartate receptors	GeneOrGeneProduct	24408
+15673851	132	140	morphine	ChemicalEntity	D009020
+15673851	174	194	spinal cord ischemia	DiseaseOrPhenotypicFeature	D020760
+15673851	296	333	N-methyl-d-aspartate (NMDA) receptors	GeneOrGeneProduct	24408
+15673851	350	358	morphine	ChemicalEntity	D009020
+15673851	396	412	aortic occlusion	DiseaseOrPhenotypicFeature	D001157
+15673851	416	420	rats	OrganismTaxon	10116
+15673851	422	442	Spinal cord ischemia	DiseaseOrPhenotypicFeature	D020760
+15673851	458	474	aortic occlusion	DiseaseOrPhenotypicFeature	D001157
+15673851	583	591	morphine	ChemicalEntity	D009020
+15673851	675	683	morphine	ChemicalEntity	D009020
+15673851	962	968	MK-801	ChemicalEntity	D016291
+15673851	1034	1042	morphine	ChemicalEntity	D009020
+15673851	1051	1070	spastic paraparesis	DiseaseOrPhenotypicFeature	D020336
+15673851	1081	1089	morphine	ChemicalEntity	D009020
+15673851	1121	1130	glutamate	ChemicalEntity	D018698
+15673851	1258	1264	MK-801	ChemicalEntity	D016291
+15673851	1338	1346	morphine	ChemicalEntity	D009020
+15673851	1355	1374	spastic paraparesis	DiseaseOrPhenotypicFeature	D020336
+15673851	1435	1443	morphine	ChemicalEntity	D009020
+15673851	1452	1471	spastic paraparesis	DiseaseOrPhenotypicFeature	D020336
+15673851	1507	1516	glutamate	ChemicalEntity	D018698
+15673851	1539	1552	NMDA receptor	GeneOrGeneProduct	24408
+15673851	1581	1588	opioids	ChemicalEntity	D000701
+15673851	1596	1606	neurotoxic	DiseaseOrPhenotypicFeature	D020258
+15673851	1625	1645	spinal cord ischemia	DiseaseOrPhenotypicFeature	D020760
+15673851	1650	1663	NMDA receptor	GeneOrGeneProduct	24408
+15673851	Association	D020760	24408	Novel
+15673851	Association	D000701	D020760	Novel
+15673851	Positive_Correlation	D000701	D020258	Novel
+15673851	Association	D000701	24408	Novel
+15673851	Association	D020258	24408	Novel
+15673851	Association	D016291	D020336	Novel
+15673851	Association	D016291	D009020	Novel
+15673851	Association	D018698	24408	No
+15673851	Association	D020336	24408	Novel
+15673851	Association	D009020	24408	Novel
+15673851	Positive_Correlation	D009020	D018698	Novel
+15673851	Positive_Correlation	D009020	D020336	No

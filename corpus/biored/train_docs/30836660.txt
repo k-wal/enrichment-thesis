@@ -1,0 +1,119 @@
+30836660|t|Salidroside Ameliorates Renal Interstitial Fibrosis by Inhibiting the TLR4/NF-kappaB and MAPK Signaling Pathways.
+30836660|a|Salidroside (Sal) is an active ingredient that is isolated from Rhodiola rosea, which has been reported to have anti-inflammatory activities and a renal protective effect. However, the role of Sal on renal fibrosis has not yet been elucidated. Here, the purpose of the current study is to test the protective effects of Sal against renal interstitial fibrosis (RIF), and to explore the underlying mechanisms using both in vivo and in vitro models. In this study, we establish the unilateral ureteric obstruction (UUO) or folic acid (FA)-induced mice renal interstitial fibrosis in vivo and the transforming growth factor (TGF)-beta1-stimulated human proximal tubular epithelial cell (HK-2) model in vitro. The levels of kidney functional parameters and inflammatory cytokines in serum are examined. The degree of renal damage and fibrosis is determined by histological assessment. Immunohistochemistry and western blotting are used to determine the mechanisms of Sal against RIF. Our results show that treatment with Sal can ameliorate tubular injury and deposition of the extracellular matrix (ECM) components (including collagen SH and collagen I). Furthermore, Sal administration significantly suppresses epithelial-mesenchymal transition (EMT), as evidenced by a decreased expression of alpha-SMA, vimentin, TGF-beta1, snail, slug, and a largely restored expression of E-cadherin. Additionally, Sal also reduces the levels of serum biochemical markers (serum creatinine, Scr; blood urea nitrogen, BUN; and uric acid, UA) and decreases the release of inflammatory cytokines (IL-1beta, IL-6, TNF-alpha). Further study revealed that the effect of Sal on renal interstitial fibrosis is associated with the lower expression of TLR4, p-IkappaBalpha, p-NF-kappaB and mitogen-activated protein kinases (MAPK), both in vivo and in vitro. In conclusion, Sal treatment improves kidney function, ameliorates the deposition of the ECM components and relieves the protein levels of EMT markers in mouse kidneys and HK-2 cells. Furthermore, Sal treatment significantly decreases the release of inflammatory cytokines and inhibits the TLR4/NF-kappaB and MAPK signaling pathways. Collectively, these results suggest that the administration of Sal could be a novel therapeutic strategy in treating renal fibrosis.
+30836660	0	11	Salidroside	ChemicalEntity	C009172
+30836660	24	51	Renal Interstitial Fibrosis	DiseaseOrPhenotypicFeature	D007674
+30836660	70	74	TLR4	GeneOrGeneProduct	21898,7099
+30836660	75	84	NF-kappaB	GeneOrGeneProduct	18033,4790
+30836660	89	93	MAPK	GeneOrGeneProduct	26413,5594
+30836660	114	125	Salidroside	ChemicalEntity	C009172
+30836660	127	130	Sal	ChemicalEntity	C009172
+30836660	178	192	Rhodiola rosea	OrganismTaxon	203015
+30836660	231	243	inflammatory	DiseaseOrPhenotypicFeature	D007249
+30836660	307	310	Sal	ChemicalEntity	C009172
+30836660	314	328	renal fibrosis	DiseaseOrPhenotypicFeature	D007674
+30836660	434	437	Sal	ChemicalEntity	C009172
+30836660	446	473	renal interstitial fibrosis	DiseaseOrPhenotypicFeature	D007674
+30836660	475	478	RIF	DiseaseOrPhenotypicFeature	D007674
+30836660	594	625	unilateral ureteric obstruction	DiseaseOrPhenotypicFeature	D014517
+30836660	627	630	UUO	DiseaseOrPhenotypicFeature	D014517
+30836660	635	645	folic acid	ChemicalEntity	D005492
+30836660	647	649	FA	ChemicalEntity	D005492
+30836660	659	663	mice	OrganismTaxon	10090
+30836660	664	691	renal interstitial fibrosis	DiseaseOrPhenotypicFeature	D007674
+30836660	708	746	transforming growth factor (TGF)-beta1	GeneOrGeneProduct	21803
+30836660	758	763	human	OrganismTaxon	9606
+30836660	798	802	HK-2	CellLine	CVCL_0302
+30836660	867	879	inflammatory	DiseaseOrPhenotypicFeature	D007249
+30836660	927	939	renal damage	DiseaseOrPhenotypicFeature	D007674
+30836660	944	952	fibrosis	DiseaseOrPhenotypicFeature	D005355
+30836660	1077	1080	Sal	ChemicalEntity	C009172
+30836660	1089	1092	RIF	DiseaseOrPhenotypicFeature	D007674
+30836660	1131	1134	Sal	ChemicalEntity	C009172
+30836660	1150	1164	tubular injury	DiseaseOrPhenotypicFeature	D007674
+30836660	1236	1247	collagen SH	GeneOrGeneProduct	1281,12825
+30836660	1252	1262	collagen I	GeneOrGeneProduct	1277,1278,12842,12843
+30836660	1278	1281	Sal	ChemicalEntity	C009172
+30836660	1405	1414	alpha-SMA	GeneOrGeneProduct	11475,59
+30836660	1416	1424	vimentin	GeneOrGeneProduct	22352,7431
+30836660	1426	1435	TGF-beta1	GeneOrGeneProduct	21803,7040
+30836660	1437	1442	snail	GeneOrGeneProduct	20613,6615
+30836660	1444	1448	slug	GeneOrGeneProduct	20583,6591
+30836660	1487	1497	E-cadherin	GeneOrGeneProduct	12550,999
+30836660	1513	1516	Sal	ChemicalEntity	C009172
+30836660	1577	1587	creatinine	ChemicalEntity	D003404
+30836660	1600	1604	urea	ChemicalEntity	D014508
+30836660	1605	1613	nitrogen	ChemicalEntity	D009584
+30836660	1624	1633	uric acid	ChemicalEntity	D014527
+30836660	1635	1637	UA	ChemicalEntity	D014527
+30836660	1668	1680	inflammatory	DiseaseOrPhenotypicFeature	D007249
+30836660	1692	1700	IL-1beta	GeneOrGeneProduct	16176,3553
+30836660	1702	1706	IL-6	GeneOrGeneProduct	16193,3569
+30836660	1708	1717	TNF-alpha	GeneOrGeneProduct	21926,7124
+30836660	1762	1765	Sal	ChemicalEntity	C009172
+30836660	1769	1796	renal interstitial fibrosis	DiseaseOrPhenotypicFeature	D007674
+30836660	1840	1844	TLR4	GeneOrGeneProduct	21898,7099
+30836660	1848	1860	IkappaBalpha	GeneOrGeneProduct	18035,4792
+30836660	1864	1873	NF-kappaB	GeneOrGeneProduct	18033,4790
+30836660	1878	1911	mitogen-activated protein kinases	GeneOrGeneProduct	26413,5594
+30836660	1913	1917	MAPK	GeneOrGeneProduct	26413,5594
+30836660	1962	1965	Sal	ChemicalEntity	C009172
+30836660	2101	2106	mouse	OrganismTaxon	10090
+30836660	2119	2123	HK-2	CellLine	CVCL_0302
+30836660	2144	2147	Sal	ChemicalEntity	C009172
+30836660	2197	2209	inflammatory	DiseaseOrPhenotypicFeature	D007249
+30836660	2237	2241	TLR4	GeneOrGeneProduct	21898,7099
+30836660	2242	2251	NF-kappaB	GeneOrGeneProduct	18033,4790
+30836660	2256	2260	MAPK	GeneOrGeneProduct	26413,5594
+30836660	2344	2347	Sal	ChemicalEntity	C009172
+30836660	2398	2412	renal fibrosis	DiseaseOrPhenotypicFeature	D007674
+30836660	Association	D007249	7124	No
+30836660	Association	D007249	21926	No
+30836660	Association	D007249	3569	No
+30836660	Association	D007249	16193	No
+30836660	Association	D007249	3553	No
+30836660	Association	D007249	16176	No
+30836660	Positive_Correlation	D005492	D007674	No
+30836660	Association	D007674	5594	Novel
+30836660	Association	D007674	26413	Novel
+30836660	Association	D007674	4790	Novel
+30836660	Association	D007674	18033	Novel
+30836660	Association	D007674	4792	Novel
+30836660	Association	D007674	18035	Novel
+30836660	Association	D007674	7099	Novel
+30836660	Association	D007674	21898	Novel
+30836660	Negative_Correlation	C009172	5594	Novel
+30836660	Negative_Correlation	C009172	26413	Novel
+30836660	Negative_Correlation	C009172	4790	Novel
+30836660	Negative_Correlation	C009172	18033	Novel
+30836660	Negative_Correlation	C009172	4792	Novel
+30836660	Negative_Correlation	C009172	18035	Novel
+30836660	Negative_Correlation	C009172	7099	Novel
+30836660	Negative_Correlation	C009172	21898	Novel
+30836660	Negative_Correlation	C009172	D007249	Novel
+30836660	Negative_Correlation	C009172	7124	Novel
+30836660	Negative_Correlation	C009172	21926	Novel
+30836660	Negative_Correlation	C009172	3569	Novel
+30836660	Negative_Correlation	C009172	16193	Novel
+30836660	Negative_Correlation	C009172	3553	Novel
+30836660	Negative_Correlation	C009172	16176	Novel
+30836660	Negative_Correlation	C009172	D014527	Novel
+30836660	Negative_Correlation	C009172	D003404	Novel
+30836660	Positive_Correlation	C009172	999	Novel
+30836660	Positive_Correlation	C009172	12550	Novel
+30836660	Negative_Correlation	C009172	6591	Novel
+30836660	Negative_Correlation	C009172	20583	Novel
+30836660	Negative_Correlation	C009172	6615	Novel
+30836660	Negative_Correlation	C009172	20613	Novel
+30836660	Negative_Correlation	C009172	7040	Novel
+30836660	Negative_Correlation	C009172	21803	Novel
+30836660	Negative_Correlation	C009172	7431	Novel
+30836660	Negative_Correlation	C009172	22352	Novel
+30836660	Negative_Correlation	C009172	59	Novel
+30836660	Negative_Correlation	C009172	11475	Novel
+30836660	Negative_Correlation	C009172	12843	Novel
+30836660	Negative_Correlation	C009172	12842	Novel
+30836660	Negative_Correlation	C009172	1278	Novel
+30836660	Negative_Correlation	C009172	1277	Novel
+30836660	Negative_Correlation	C009172	12825	Novel
+30836660	Negative_Correlation	C009172	1281	Novel
+30836660	Negative_Correlation	C009172	D007674	Novel

@@ -1,0 +1,52 @@
+28236586|t|Impaired mobility, depressed mood, cognitive impairment and polypharmacy are independently associated with disability in older cancer outpatients: The prospective Physical Frailty in Elderly Cancer patients (PF - EC) cohort study
+28236586|a|To assess the prevalence of disability and the oncologic factors associated with disability in older outpatients with cancer. The Physical Frailty in Elderly Cancer patients (PF - EC) study (France) is a prospective bicentric observational cohort study. Two hundred and ninety outpatients with cancer were included. A cross-sectional analysis of oncologic factors and geriatric variables associated with disability that were collected using a comprehensive geriatric assessment (CGA) was conducted. Disability was defined as impairment in activities of daily living (ADL) and/or instrumental activities of daily living (IADL), simplified to four items. Univariate and multivariate logistic models of disabled patients were performed. The three final multivariate models were compared using the area under the receiver operating characteristic curve (AUC / ROC) of the logistic model. The mean age was 80.6years, and 51% of the patients were women with various types of cancer. The prevalence of disability was 67.6%. No oncologic factors (cancer site, cancer extension) were associated with disability. Impaired mobility, poor functional status, depressive mood, cognitive impairment and polypharmacy were independently associated with disability (P<0.05). The AUC/ROC of the final models was similar. Disability was highly prevalent in older cancer outpatients before cancer treatment but was not associated with oncologic factors. Impaired mobility, depressed mood, cognitive impairment and polypharmacy were the geriatric variables significantly and independently associated with disability. Identifying these factors prior to cancer treatment could enable the implementation of corrective actions to improve patient autonomy before treatment and during follow-up.
+28236586	0	17	Impaired mobility	T033	UMLS:C0518456
+28236586	19	33	depressed mood	T033	UMLS:C0344315
+28236586	35	55	cognitive impairment	T038	UMLS:C0338656
+28236586	60	72	polypharmacy	T033	UMLS:C2922974
+28236586	107	117	disability	T033	UMLS:C0231170
+28236586	127	133	cancer	T038	UMLS:C0006826
+28236586	163	179	Physical Frailty	T033	UMLS:C0424594
+28236586	183	190	Elderly	T098	UMLS:C0001792
+28236586	208	210	PF	T033	UMLS:C0424594
+28236586	258	268	disability	T033	UMLS:C0231170
+28236586	311	321	disability	T033	UMLS:C0231170
+28236586	348	354	cancer	T038	UMLS:C0006826
+28236586	360	376	Physical Frailty	T033	UMLS:C0424594
+28236586	380	387	Elderly	T098	UMLS:C0001792
+28236586	405	407	PF	T033	UMLS:C0424594
+28236586	421	427	France	T082	UMLS:C0016674
+28236586	434	482	prospective bicentric observational cohort study	T062	UMLS:C1709709
+28236586	524	530	cancer	T038	UMLS:C0006826
+28236586	548	572	cross-sectional analysis	T062	UMLS:C0010362
+28236586	634	644	disability	T033	UMLS:C0231170
+28236586	687	707	geriatric assessment	T058	UMLS:C0017463
+28236586	709	712	CGA	T058	UMLS:C0017463
+28236586	729	739	Disability	T033	UMLS:C0231170
+28236586	809	848	instrumental activities of daily living	T033	UMLS:C1290928
+28236586	849	854	(IADL	T033	UMLS:C1290928
+28236586	911	926	logistic models	T170	UMLS:C0023965
+28236586	993	999	models	T170	UMLS:C0023965
+28236586	1098	1112	logistic model	T170	UMLS:C0023965
+28236586	1171	1176	women	T098	UMLS:C0043210
+28236586	1199	1205	cancer	T038	UMLS:C0006826
+28236586	1225	1235	disability	T033	UMLS:C0231170
+28236586	1282	1298	cancer extension	T038	UMLS:C1704231
+28236586	1321	1331	disability	T033	UMLS:C0231170
+28236586	1333	1350	Impaired mobility	T033	UMLS:C0518456
+28236586	1352	1374	poor functional status	T033	UMLS:C0598463
+28236586	1376	1391	depressive mood	T033	UMLS:C0344315
+28236586	1393	1413	cognitive impairment	T038	UMLS:C0338656
+28236586	1418	1430	polypharmacy	T033	UMLS:C2922974
+28236586	1466	1476	disability	T033	UMLS:C0231170
+28236586	1532	1542	Disability	T033	UMLS:C0231170
+28236586	1573	1579	cancer	T038	UMLS:C0006826
+28236586	1599	1615	cancer treatment	T058	UMLS:C0920425
+28236586	1663	1680	Impaired mobility	T033	UMLS:C0518456
+28236586	1682	1696	depressed mood	T033	UMLS:C0344315
+28236586	1698	1718	cognitive impairment	T038	UMLS:C0338656
+28236586	1723	1735	polypharmacy	T033	UMLS:C2922974
+28236586	1813	1823	disability	T033	UMLS:C0231170
+28236586	1860	1876	cancer treatment	T058	UMLS:C0920425
+28236586	1966	1975	treatment	T058	UMLS:C0920425
+28236586	1987	1996	follow-up	T058	UMLS:C1522577

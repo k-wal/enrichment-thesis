@@ -1,0 +1,82 @@
+27237301|t|Clinical value of pathologic examination of non-neoplastic kidney in patients with upper urinary tract malignancies
+27237301|a|While surgical resection remains the standard of care in the treatment of upper urinary tract malignancies, nephrectomy is a risk factor for the development of chronic kidney disease (CKD). The aim of this study was to determine whether histologic evaluation of non-neoplastic kidney could enable early identification of unrecognized kidney disease and could be of prognostic value in predicting postoperative renal outcomes. We retrospectively analyzed 51 patients with upper urinary tract malignancies who received uninephrectomy or uninephroureterectomy. A thorough pathologic evaluation of non-neoplastic kidney including special stains, immunofluorescence, and electron microscopic studies was performed. The degree of parenchymal changes was graded from 0 to 15. Of 51 patients, only 13 showed normal kidney pathology. Fifteen patients showed glomerular abnormalities, 14 showed diabetic nephropathy, and 11 showed vascular nephropathy. There was one case each of reflux nephropathy and chronic pyelonephritis. The median histologic score was 5 points. Only 25.4% of patients had ≤ 3 points. Score more than 5 was observed in 47.1% of patients. Postoperative estimated glomerular filtration rate (eGFR) at 3 to 36 months were obtained from 90.2% of patients, and of those, 34.8% had de novo CKD. Since no one had CKD in partial nephrectomized patients, we determined risk factors for CKD in radical nephrectomized patients. Cox regression analysis revealed that postoperative AKI, preoperative eGFR, and histologic score of non-neoplastic kidney were the independent predictors for CKD. We conclude that routine pathologic evaluation of non-neoplastic kidney provides valuable diagnostic and prognostic information.
+27237301	0	14	Clinical value	T033	C2826293
+27237301	18	40	pathologic examination	T060	C4086729
+27237301	44	65	non-neoplastic kidney	T023	C0022646
+27237301	69	77	patients	T101	C0030705
+27237301	83	102	upper urinary tract	T022	C1278977
+27237301	103	115	malignancies	T191	C4282132
+27237301	122	140	surgical resection	T061	C0728940
+27237301	165	169	care	T052	C1947933
+27237301	177	186	treatment	T061	C0087111
+27237301	190	209	upper urinary tract	T022	C1278977
+27237301	210	222	malignancies	T191	C4282132
+27237301	224	235	nephrectomy	T061	C0027695
+27237301	241	252	risk factor	T033	C0035648
+27237301	261	272	development	T169	C1527148
+27237301	276	298	chronic kidney disease	T047	C1561643
+27237301	300	303	CKD	T047	C1561643
+27237301	322	327	study	T062	C2603343
+27237301	353	363	histologic	T169	C0205462
+27237301	364	374	evaluation	T058	C0220825
+27237301	378	399	non-neoplastic kidney	T023	C0022646
+27237301	413	433	early identification	T061	C0814435
+27237301	450	464	kidney disease	T047	C0022658
+27237301	481	491	prognostic	T170	C0220901
+27237301	512	525	postoperative	T079	C0032790
+27237301	526	531	renal	T023	C0022646
+27237301	532	540	outcomes	T080	C0085415
+27237301	545	569	retrospectively analyzed	T062	C0035363
+27237301	573	581	patients	T101	C0030705
+27237301	587	606	upper urinary tract	T022	C1278977
+27237301	607	619	malignancies	T191	C4282132
+27237301	633	647	uninephrectomy	T061	C0027695
+27237301	651	672	uninephroureterectomy	T061	C0027732
+27237301	685	695	pathologic	T169	C1521733
+27237301	696	706	evaluation	T058	C0220825
+27237301	710	731	non-neoplastic kidney	T023	C0022646
+27237301	742	756	special stains	T061	C2038188
+27237301	758	776	immunofluorescence	T059	C0079603
+27237301	782	810	electron microscopic studies	T059	C0026019
+27237301	830	836	degree	T081	C0449286
+27237301	840	851	parenchymal	T023	C0933845
+27237301	852	859	changes	T169	C0392747
+27237301	891	899	patients	T101	C0030705
+27237301	923	929	kidney	T023	C0022646
+27237301	930	939	pathology	T091	C0030664
+27237301	949	957	patients	T101	C0030705
+27237301	965	989	glomerular abnormalities	T047	C1398788
+27237301	1001	1021	diabetic nephropathy	T047	C0011881
+27237301	1037	1045	vascular	T023	C0005847
+27237301	1046	1057	nephropathy	T061	C0027695
+27237301	1086	1104	reflux nephropathy	T047	C3495566
+27237301	1109	1131	chronic pyelonephritis	T047	C0085697
+27237301	1144	1160	histologic score	T081	C0449820
+27237301	1189	1197	patients	T101	C0030705
+27237301	1214	1219	Score	T081	C0449820
+27237301	1257	1265	patients	T101	C0030705
+27237301	1267	1280	Postoperative	T079	C0032790
+27237301	1281	1317	estimated glomerular filtration rate	T059	C3811844
+27237301	1319	1323	eGFR	T059	C3811844
+27237301	1336	1342	months	T079	C0439231
+27237301	1371	1379	patients	T101	C0030705
+27237301	1413	1416	CKD	T047	C1561643
+27237301	1435	1438	CKD	T047	C1561643
+27237301	1450	1473	nephrectomized patients	T101	C0030705
+27237301	1489	1501	risk factors	T033	C0035648
+27237301	1506	1509	CKD	T047	C1561643
+27237301	1521	1544	nephrectomized patients	T101	C0030705
+27237301	1546	1569	Cox regression analysis	T170	C0034980
+27237301	1584	1597	postoperative	T079	C0032790
+27237301	1598	1601	AKI	T037	C2609414
+27237301	1603	1615	preoperative	T079	C0445204
+27237301	1616	1620	eGFR	T059	C3811844
+27237301	1626	1636	histologic	T169	C0205462
+27237301	1646	1667	non-neoplastic kidney	T023	C0022646
+27237301	1689	1699	predictors	T078	C2698872
+27237301	1704	1707	CKD	T047	C1561643
+27237301	1734	1744	pathologic	T169	C1521733
+27237301	1745	1755	evaluation	T058	C0220825
+27237301	1759	1780	non-neoplastic kidney	T023	C0022646
+27237301	1799	1809	diagnostic	T169	C0348026
+27237301	1814	1824	prognostic	T170	C0220901

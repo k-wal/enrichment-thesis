@@ -1,0 +1,54 @@
+27235789|t|Elective Nephron Sparing Surgery Decreases Other Cause Mortality Relative to Radical Nephrectomy Only in Specific Subgroups of Patients with Renal Cell Carcinoma
+27235789|a|There is no consensus regarding a protective effect on mortality due to a cause other than cancer in patients treated with elective nephron sparing surgery relative to their radical nephrectomy counterparts. We test whether the protective effect of nephron sparing surgery relative to radical nephrectomy is universal or present in specific subgroups of patients. A collaborative database of 5 institutions was queried to evaluate 1,783 patients without chronic kidney disease diagnosed with a clinical T1 renal mass that was treated with nephron sparing surgery or radical nephrectomy. Multivariable Cox regression analysis was done to assess the impact of surgery type (nephron sparing surgery vs radical nephrectomy) on other cause mortality after adjustment for patient and cancer characteristics. Interaction terms were used to test the hypothesis that the impact of surgery type varies according to specific subcohorts of patients. Ten-year other cause mortality -free survival rates were 90% and 88% after nephron sparing surgery and radical nephrectomy, respectively. In the overall population radical nephrectomy was not associated with an increased risk of other cause mortality on multivariable analysis compared to nephron sparing surgery (HR 0.91, 95% CI 0.6-1.38, p = 0.6). However, radical nephrectomy increased the risk of other cause mortality according to the increasing baseline Charlson comorbidity index (interaction test p = 0.0008). For example, in a patient with a Charlson comorbidity index of 4 the probability of 10-year other cause mortality -free survival was 86% after nephron sparing surgery and 60% after radical nephrectomy. Elective nephron sparing surgery does not improve other cause survival relative to radical nephrectomy consistently in all patients with kidney cancer. Patients who are more ill with relevant comorbidities are those who benefit the most from nephron sparing surgery in terms of other cause mortality.
+27235789	0	8	Elective	T058	UMLS:C0206058
+27235789	9	32	Nephron Sparing Surgery	T058	UMLS:C0194086
+27235789	43	64	Other Cause Mortality	T033	UMLS:C0476465
+27235789	77	96	Radical Nephrectomy	T058	UMLS:C0401181
+27235789	114	123	Subgroups	T170	UMLS:C1515021
+27235789	141	161	Renal Cell Carcinoma	T038	UMLS:C0007134
+27235789	253	259	cancer	T038	UMLS:C0006826
+27235789	272	284	treated with	T058	UMLS:C0332293
+27235789	285	293	elective	T058	UMLS:C0206058
+27235789	294	317	nephron sparing surgery	T058	UMLS:C0194086
+27235789	336	355	radical nephrectomy	T058	UMLS:C0401181
+27235789	411	434	nephron sparing surgery	T058	UMLS:C0194086
+27235789	447	466	radical nephrectomy	T058	UMLS:C0401181
+27235789	503	512	subgroups	T170	UMLS:C1515021
+27235789	542	550	database	T170	UMLS:C0242356
+27235789	573	580	queried	T170	UMLS:C1522634
+27235789	584	592	evaluate	T058	UMLS:C0220825
+27235789	616	638	chronic kidney disease	T038	UMLS:C1561643
+27235789	639	648	diagnosed	T033	UMLS:C0011900
+27235789	688	700	treated with	T058	UMLS:C0332293
+27235789	701	724	nephron sparing surgery	T058	UMLS:C0194086
+27235789	728	747	radical nephrectomy	T058	UMLS:C0401181
+27235789	749	786	Multivariable Cox regression analysis	T170	UMLS:C0034980
+27235789	820	827	surgery	T058	UMLS:C0543467
+27235789	834	857	nephron sparing surgery	T058	UMLS:C0194086
+27235789	861	880	radical nephrectomy	T058	UMLS:C0401181
+27235789	885	906	other cause mortality	T033	UMLS:C0476465
+27235789	940	946	cancer	T038	UMLS:C0006826
+27235789	1034	1041	surgery	T058	UMLS:C0543467
+27235789	1076	1086	subcohorts	T098	UMLS:C0599755
+27235789	1109	1130	other cause mortality	T033	UMLS:C0476465
+27235789	1175	1198	nephron sparing surgery	T058	UMLS:C0194086
+27235789	1203	1222	radical nephrectomy	T058	UMLS:C0401181
+27235789	1253	1263	population	T098	UMLS:C1257890
+27235789	1264	1283	radical nephrectomy	T058	UMLS:C0401181
+27235789	1329	1350	other cause mortality	T033	UMLS:C0476465
+27235789	1389	1412	nephron sparing surgery	T058	UMLS:C0194086
+27235789	1459	1478	radical nephrectomy	T058	UMLS:C0401181
+27235789	1501	1522	other cause mortality	T033	UMLS:C0476465
+27235789	1560	1586	Charlson comorbidity index	T170	UMLS:C3714916
+27235789	1651	1677	Charlson comorbidity index	T170	UMLS:C3714916
+27235789	1710	1731	other cause mortality	T033	UMLS:C0476465
+27235789	1761	1784	nephron sparing surgery	T058	UMLS:C0194086
+27235789	1799	1818	radical nephrectomy	T058	UMLS:C0401181
+27235789	1820	1828	Elective	T058	UMLS:C0206058
+27235789	1829	1852	nephron sparing surgery	T058	UMLS:C0194086
+27235789	1862	1869	improve	T033	UMLS:C0184511
+27235789	1903	1922	radical nephrectomy	T058	UMLS:C0401181
+27235789	1957	1970	kidney cancer	T038	UMLS:C0740457
+27235789	1994	1997	ill	T033	UMLS:C0221423
+27235789	2062	2085	nephron sparing surgery	T058	UMLS:C0194086
+27235789	2098	2119	other cause mortality	T033	UMLS:C0476465

@@ -1,0 +1,126 @@
+28132082|t|High tacrolimus blood concentrations early after lung transplantation and the risk of kidney injury
+28132082|a|Lung transplant recipients often develop acute kidney injury (AKI) evolving into chronic kidney disease (CKD). The immunosuppressant tacrolimus might be associated with the emergence of AKI. We analyzed the development and recovery of kidney injury after lung transplantation and related AKI to whole-blood tacrolimus trough concentrations and other factors causing kidney injury. We retrospectively studied kidney injury in 186 lung-transplantation patients at the UMC Utrecht between 2001 and 2011. Kidney function and whole-blood tacrolimus trough concentrations were determined from day 1 to 14 and at 1, 3, 6, and 12 months postoperative. Systemic inflammatory response syndrome (SIRS), septic shock, and nephrotoxic medications were evaluated as covariates for AKI. We analyzed liver injury and drug-drug interactions. AKI was present in 85 (46%) patients. Tacrolimus concentrations were supra-therapeutic in 135 of 186 patients (73%). AKI in the first week after transplantation was related to supra-therapeutic tacrolimus concentrations (OR 1.55; 95% CI 1.06-2.27), ≥3 other nephrotoxic drugs (OR 1.96; 95% CI 1.02-3.77), infection (OR 2.48; 95% CI 1.31-4.70), and cystic fibrosis (OR 2.17; 95% CI 1.16-4.06). Recovery rate of AKI was lower than expected (19%), and the cumulative incidence of severe CKD at 1 year was 15%. After lung transplantation, AKI is common and often evolves into severe CKD, which is a known cause of morbidity and mortality. Supra-therapeutic whole-blood tacrolimus trough concentrations are related to the early onset of AKI. Conscientious targeting tacrolimus blood concentrations might be vital in the early phase after lung transplantation. What is known about this subject? • Lung transplant recipients often develop acute kidney injury evolving into chronic kidney disease increasing both morbidity and mortality. • To date, the pathophysiology of kidney injury after lung transplantation has not been fully elucidated. • The immunosuppressant tacrolimus is difficult to dose, especially in the unstable clinical setting, and is nephrotoxic. • For the first time, supra-therapeutic whole-blood tacrolimus trough concentrations are related to the emergence of acute kidney injury in the first days after lung transplantation. • Supra-therapeutic whole-blood tacrolimus trough concentrations often occur early after lung transplantation. • AKI after lung transplantation shows low recovery rates.
+28132082	5	15	tacrolimus	T109,T121	C0085149
+28132082	16	36	blood concentrations	T081	C0699870
+28132082	49	69	lung transplantation	T061	C0024128
+28132082	78	82	risk	T078	C0035647
+28132082	86	99	kidney injury	T037	C0160420
+28132082	100	104	Lung	T023	C0024109
+28132082	105	126	transplant recipients	T101	C0376387
+28132082	141	160	acute kidney injury	T037	C2609414
+28132082	162	165	AKI	T037	C2609414
+28132082	181	203	chronic kidney disease	T047	C1561643
+28132082	205	208	CKD	T047	C1561643
+28132082	215	232	immunosuppressant	T121,T129	C0021081
+28132082	233	243	tacrolimus	T109,T121	C0085149
+28132082	253	268	associated with	T080	C0332281
+28132082	286	289	AKI	T037	C2609414
+28132082	307	318	development	T169	C1527148
+28132082	323	331	recovery	T040	C2004454
+28132082	335	348	kidney injury	T037	C0160420
+28132082	355	375	lung transplantation	T061	C0024128
+28132082	388	391	AKI	T037	C2609414
+28132082	395	406	whole-blood	T031	C0370231
+28132082	407	417	tacrolimus	T109,T121	C0085149
+28132082	418	439	trough concentrations	T081	C3640757
+28132082	466	479	kidney injury	T037	C0160420
+28132082	484	507	retrospectively studied	T062	C0035363
+28132082	508	521	kidney injury	T037	C0160420
+28132082	529	549	lung-transplantation	T061	C0024128
+28132082	550	558	patients	T101	C0030705
+28132082	566	577	UMC Utrecht	T093	C1708333
+28132082	601	616	Kidney function	T042	C0232804
+28132082	621	632	whole-blood	T031	C0370231
+28132082	633	643	tacrolimus	T109,T121	C0085149
+28132082	644	665	trough concentrations	T081	C3640757
+28132082	687	690	day	T079	C0439228
+28132082	722	728	months	T079	C0439231
+28132082	729	742	postoperative	T079	C0032790
+28132082	744	783	Systemic inflammatory response syndrome	T047	C0242966
+28132082	785	789	SIRS	T047	C0242966
+28132082	792	804	septic shock	T046	C0036983
+28132082	810	821	nephrotoxic	T080	C1514118
+28132082	822	833	medications	T170	C4284232
+28132082	852	862	covariates	UnknownType	C0814913
+28132082	867	870	AKI	T037	C2609414
+28132082	884	896	liver injury	T037	C0160390
+28132082	901	923	drug-drug interactions	T044	C0687133
+28132082	925	928	AKI	T037	C2609414
+28132082	933	940	present	T033	C0150312
+28132082	953	961	patients	T101	C0030705
+28132082	963	973	Tacrolimus	T109,T121	C0085149
+28132082	974	988	concentrations	T081	C0699870
+28132082	994	1011	supra-therapeutic	T034	C4049341
+28132082	1026	1034	patients	T101	C0030705
+28132082	1042	1045	AKI	T037	C2609414
+28132082	1059	1063	week	T079	C0439230
+28132082	1070	1085	transplantation	T061	C0024128
+28132082	1101	1118	supra-therapeutic	T034	C4049341
+28132082	1119	1129	tacrolimus	T109,T121	C0085149
+28132082	1130	1144	concentrations	T081	C0699870
+28132082	1146	1148	OR	T081	C0028873
+28132082	1159	1161	CI	T081	C0009667
+28132082	1183	1200	nephrotoxic drugs	T061	C3687832
+28132082	1202	1204	OR	T081	C0028873
+28132082	1215	1217	CI	T081	C0009667
+28132082	1230	1239	infection	T046	C3714514
+28132082	1241	1243	OR	T081	C0028873
+28132082	1254	1256	CI	T081	C0009667
+28132082	1273	1288	cystic fibrosis	T047	C0010674
+28132082	1290	1292	OR	T081	C0028873
+28132082	1303	1305	CI	T081	C0009667
+28132082	1318	1331	Recovery rate	T081	C1521828
+28132082	1335	1338	AKI	T037	C2609414
+28132082	1389	1398	incidence	T169	C0220856
+28132082	1409	1412	CKD	T047	C1561643
+28132082	1418	1422	year	T079	C0439234
+28132082	1438	1458	lung transplantation	T061	C0024128
+28132082	1460	1463	AKI	T037	C2609414
+28132082	1497	1503	severe	T080	C0205082
+28132082	1504	1507	CKD	T047	C1561643
+28132082	1535	1544	morbidity	T081	C0026538
+28132082	1549	1558	mortality	T081	C0205848
+28132082	1560	1577	Supra-therapeutic	T034	C4049341
+28132082	1578	1589	whole-blood	T031	C0370231
+28132082	1590	1600	tacrolimus	T109,T121	C0085149
+28132082	1601	1622	trough concentrations	T081	C3640757
+28132082	1657	1660	AKI	T037	C2609414
+28132082	1662	1675	Conscientious	T033	C0580939
+28132082	1676	1685	targeting	T169	C1521840
+28132082	1686	1696	tacrolimus	T109,T121	C0085149
+28132082	1697	1717	blood concentrations	T081	C0699870
+28132082	1727	1732	vital	T080	C0442732
+28132082	1740	1751	early phase	UnknownType	C0814494
+28132082	1758	1778	lung transplantation	T061	C0024128
+28132082	1816	1820	Lung	T023	C0024109
+28132082	1821	1842	transplant recipients	T101	C0376387
+28132082	1857	1876	acute kidney injury	T037	C2609414
+28132082	1891	1913	chronic kidney disease	T047	C1561643
+28132082	1930	1939	morbidity	T081	C0026538
+28132082	1944	1953	mortality	T081	C0026566
+28132082	1970	1985	pathophysiology	T169	C0031847
+28132082	1989	2002	kidney injury	T037	C0160420
+28132082	2009	2029	lung transplantation	T061	C0024128
+28132082	2067	2084	immunosuppressant	T121,T129	C0021081
+28132082	2085	2095	tacrolimus	T109,T121	C0085149
+28132082	2112	2116	dose	T081	C0678766
+28132082	2136	2144	unstable	T033	C0443343
+28132082	2145	2161	clinical setting	T082	C3176918
+28132082	2170	2181	nephrotoxic	T080	C1514118
+28132082	2205	2222	supra-therapeutic	T034	C4049341
+28132082	2223	2234	whole-blood	T031	C0370231
+28132082	2235	2245	tacrolimus	T109,T121	C0085149
+28132082	2246	2267	trough concentrations	T081	C3640757
+28132082	2300	2319	acute kidney injury	T037	C2609414
+28132082	2333	2337	days	T079	C0439228
+28132082	2344	2364	lung transplantation	T061	C0024128
+28132082	2368	2385	Supra-therapeutic	T034	C4049341
+28132082	2386	2397	whole-blood	T031	C0370231
+28132082	2398	2408	tacrolimus	T109,T121	C0085149
+28132082	2409	2430	trough concentrations	T081	C3640757
+28132082	2455	2475	lung transplantation	T061	C0024128
+28132082	2479	2482	AKI	T037	C2609414
+28132082	2489	2509	lung transplantation	T061	C0024128
+28132082	2516	2519	low	T080	C0205251
+28132082	2520	2528	recovery	T040	C2004454
+28132082	2529	2534	rates	T081	C1521828

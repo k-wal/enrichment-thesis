@@ -1,0 +1,81 @@
+28318799|t|Transcriptome analysis of IL-10 - stimulated (M2c) macrophages by next-generation sequencing
+28318799|a|Alternatively activated " M2" macrophages are believed to function during late stages of wound healing, behaving in an anti-inflammatory manner to mediate the resolution of the pro-inflammatory response caused by "M1" macrophages. However, the differences between two main subtypes of M2 macrophages, namely interleukin-4 (IL-4)- stimulated "M2a" macrophages and IL-10- stimulated "M2c" macrophages, are not well understood. M2a macrophages are characterized by their ability to inhibit inflammation and contribute to the stabilization of angiogenesis. However, the role and temporal profile of M2c macrophages in wound healing are not known. Therefore, we performed next generation sequencing (RNA-seq) to identify biological functions and gene expression signatures of macrophages polarized in vitro with IL-10 to the M2c phenotype in comparison to M1 and M2a macrophages and an unactivated control (M0). We then explored the expression of these gene signatures in a publicly available data set of human wound healing. RNA-seq analysis showed that hundreds of genes were upregulated in M2c macrophages compared to the M0 control, with thousands of alternative splicing events. Following validation by Nanostring, 39 genes were found to be upregulated by M2c macrophages compared to the M0 control, and 17 genes were significantly upregulated relative to the M0, M1, and M2a phenotypes (using an adjusted p-value cutoff of 0.05 and fold change cutoff of 1.5). Many of the identified M2c-specific genes are associated with angiogenesis, matrix remodeling, and phagocytosis, including CD163, MMP8, TIMP1, VCAN, SERPINA1, MARCO, PLOD2, PCOCLE2 and F5. Analysis of the macrophage - conditioned media for secretion of matrix-remodeling proteins showed that M2c macrophages secreted higher levels of MMP7, MMP8, and TIMP1 compared to the other phenotypes. Interestingly, temporal gene expression analysis of a publicly available microarray data set of human wound healing showed that M2c-related genes were upregulated at early times after injury, similar to M1-related genes, while M2a-related genes appeared at later stages or were downregulated after injury. While further studies are required to confirm the timing and role of M2c macrophages in vivo, these results suggest that M2c macrophages may function at early stages of wound healing. Identification of markers of the M2c phenotype will allow more detailed investigations into the role of M2c macrophages in vivo.
+28318799	0	22	Transcriptome analysis	T058	UMLS:C0752248
+28318799	26	31	IL-10	T103	UMLS:C0085295
+28318799	45	62	(M2c) macrophages	T017	UMLS:C0024432
+28318799	66	92	next-generation sequencing	T062	UMLS:C2936622
+28318799	119	134	M2" macrophages	T017	UMLS:C4086555
+28318799	182	195	wound healing	T038	UMLS:C0043240
+28318799	306	322	"M1" macrophages	T017	UMLS:C0024432
+28318799	366	374	subtypes	T170	UMLS:C0449560
+28318799	378	392	M2 macrophages	T017	UMLS:C4086555
+28318799	434	451	"M2a" macrophages	T017	UMLS:C0024432
+28318799	474	491	"M2c" macrophages	T017	UMLS:C0024432
+28318799	518	533	M2a macrophages	T017	UMLS:C0024432
+28318799	580	592	inflammation	T038	UMLS:C0021368
+28318799	615	628	stabilization	T058	UMLS:C1293130
+28318799	632	644	angiogenesis	T038	UMLS:C0302600
+28318799	692	703	macrophages	T017	UMLS:C0024432
+28318799	707	720	wound healing	T038	UMLS:C0043240
+28318799	760	786	next generation sequencing	T062	UMLS:C2936622
+28318799	788	795	RNA-seq	T082	UMLS:C0162327
+28318799	809	829	biological functions	T038	UMLS:C3714634
+28318799	864	875	macrophages	T017	UMLS:C0024432
+28318799	900	905	IL-10	T103	UMLS:C0085295
+28318799	944	946	M1	T017	UMLS:C0024432
+28318799	951	966	M2a macrophages	T017	UMLS:C0024432
+28318799	1021	1031	expression	T038	UMLS:C0017262
+28318799	1081	1089	data set	T170	UMLS:C0150098
+28318799	1093	1098	human	T204	UMLS:C0086418
+28318799	1099	1112	wound healing	T038	UMLS:C0043240
+28318799	1114	1130	RNA-seq analysis	T058	UMLS:C0162803
+28318799	1155	1160	genes	T017	UMLS:C0017337
+28318799	1155	1160	genes	T017	UMLS:C0017337
+28318799	1166	1177	upregulated	T038	UMLS:C0041904
+28318799	1185	1196	macrophages	T017	UMLS:C0024432
+28318799	1243	1263	alternative splicing	T038	UMLS:C0002345
+28318799	1282	1306	validation by Nanostring	T062	UMLS:C1519943
+28318799	1311	1316	genes	T017	UMLS:C0017337
+28318799	1334	1345	upregulated	T038	UMLS:C0041904
+28318799	1349	1364	M2c macrophages	T017	UMLS:C0024432
+28318799	1400	1405	genes	T017	UMLS:C0017337
+28318799	1425	1436	upregulated	T038	UMLS:C0041904
+28318799	1590	1595	genes	T017	UMLS:C0017337
+28318799	1616	1628	angiogenesis	T038	UMLS:C0302600
+28318799	1653	1665	phagocytosis	T038	UMLS:C0031308
+28318799	1677	1682	CD163	T017	UMLS:C1413204
+28318799	1684	1688	MMP8	T017	UMLS:C1417213
+28318799	1690	1695	TIMP1	T017	UMLS:C1367459
+28318799	1697	1701	VCAN	T017	UMLS:C1413763
+28318799	1703	1711	SERPINA1	T017	UMLS:C1418544
+28318799	1713	1718	MARCO	T017	UMLS:C1417032
+28318799	1720	1725	PLOD2	T017	UMLS:C1418652
+28318799	1727	1734	PCOCLE2	T017	UMLS:C1418384
+28318799	1739	1741	F5	T017	UMLS:C1414509
+28318799	1759	1769	macrophage	T017	UMLS:C0024432
+28318799	1772	1789	conditioned media	T103	UMLS:C0162518
+28318799	1794	1803	secretion	T038	UMLS:C0036536
+28318799	1825	1833	proteins	T103	UMLS:C0033684
+28318799	1846	1861	M2c macrophages	T017	UMLS:C0024432
+28318799	1862	1870	secreted	T038	UMLS:C0036536
+28318799	1888	1892	MMP7	T103	UMLS:C0166059
+28318799	1894	1898	MMP8	T103	UMLS:C1721358
+28318799	1904	1909	TIMP1	T103	UMLS:C0014442
+28318799	1968	1992	gene expression analysis	T062	UMLS:C1880945
+28318799	2017	2036	microarray data set	T170	UMLS:C0150098
+28318799	2040	2045	human	T204	UMLS:C0086418
+28318799	2046	2059	wound healing	T038	UMLS:C0043240
+28318799	2084	2089	genes	T017	UMLS:C0017337
+28318799	2095	2106	upregulated	T038	UMLS:C0041904
+28318799	2128	2134	injury	T037	UMLS:C0178314
+28318799	2158	2163	genes	T017	UMLS:C0017337
+28318799	2183	2188	genes	T017	UMLS:C0017337
+28318799	2222	2235	downregulated	T038	UMLS:C0013081
+28318799	2242	2248	injury	T037	UMLS:C0178314
+28318799	2319	2334	M2c macrophages	T017	UMLS:C0024432
+28318799	2335	2342	in vivo	T082	UMLS:C1515655
+28318799	2371	2386	M2c macrophages	T017	UMLS:C0024432
+28318799	2419	2432	wound healing	T038	UMLS:C0043240
+28318799	2452	2459	markers	T201	UMLS:C0005516
+28318799	2538	2553	M2c macrophages	T017	UMLS:C0024432
+28318799	2554	2561	in vivo	T082	UMLS:C1515655

@@ -1,0 +1,79 @@
+28232582|t|PUMILIO / FOXP1 signaling drives expansion of hematopoietic stem/progenitor and leukemia cells
+28232582|a|RNA-binding proteins (RBPs) have emerged as important regulators of invertebrate adult stem cells, but their activities remain poorly appreciated in mammals. Using a short hairpin RNA strategy, we demonstrate here that the 2 mammalian RBPs, PUMILIO (PUM)1 and PUM2, members of the PUF family of posttranscriptional regulators, are essential for hematopoietic stem/progenitor cell (HSPC) proliferation and survival in vitro and in vivo upon reconstitution assays. Moreover, we found that PUM1 / 2 sustain myeloid leukemic cell growth. Through a proteomic approach, we identified the FOXP1 transcription factor as a new target of PUM1 / 2. Contrary to its canonical repressive activity, PUM1 / 2 rather promote FOXP1 expression by a direct binding to 2 canonical PUM responsive elements present in the FOXP1 - 3' untranslated region (UTR). Expression of FOXP1 strongly correlates with PUM1 and PUM2 levels in primary HSPCs and myeloid leukemia cells. We demonstrate that FOXP1 by itself supports HSPC and leukemic cell growth, thus mimicking PUM activities. Mechanistically, FOXP1 represses the expression of the p21(-CIP1) and p27(-KIP1) cell cycle inhibitors. Enforced FOXP1 expression reverses shPUM antiproliferative and proapoptotic activities. Altogether, our results reveal a novel regulatory pathway, underscoring a previously unknown and interconnected key role of PUM1 / 2 and FOXP1 in regulating normal HSPC and leukemic cell growth.
+28232582	0	7	PUMILIO	T116,T123	C1144521
+28232582	10	15	FOXP1	T116,T123	C1450221
+28232582	16	25	signaling	T038	C3537152
+28232582	33	42	expansion	T043	C0007595
+28232582	46	75	hematopoietic stem/progenitor	T025	C0018956
+28232582	80	88	leukemia	T191	C0023418
+28232582	89	94	cells	T025	C0007634
+28232582	95	115	RNA-binding proteins	T116,T123	C0085177
+28232582	117	121	RBPs	T116,T123	C0085177
+28232582	163	175	invertebrate	T204	C0021948
+28232582	176	192	adult stem cells	T025	C1171322
+28232582	222	228	poorly	T080	C0205169
+28232582	244	251	mammals	T015	C0024660
+28232582	261	278	short hairpin RNA	T114	C2930586
+28232582	279	287	strategy	T041	C0679199
+28232582	320	329	mammalian	T015	C0024660
+28232582	330	334	RBPs	T116,T123	C0085177
+28232582	336	343	PUMILIO	T116,T123	C1144521
+28232582	345	350	PUM)1	T116,T123	C1174251
+28232582	355	359	PUM2	T116	C1174252
+28232582	376	386	PUF family	T116,T123	C0085177
+28232582	390	420	posttranscriptional regulators	T045	C2611903
+28232582	440	495	hematopoietic stem/progenitor cell (HSPC) proliferation	T043	C2754627
+28232582	500	508	survival	T169	C0220921
+28232582	509	517	in vitro	T080	C1533691
+28232582	522	529	in vivo	T082	C1515655
+28232582	535	556	reconstitution assays	T059	C0005507
+28232582	582	586	PUM1	T116,T123	C1174251
+28232582	589	590	2	T116	C1174252
+28232582	599	615	myeloid leukemic	T191	C0023470
+28232582	616	627	cell growth	T043	C0007595
+28232582	639	648	proteomic	T091	C0872252
+28232582	677	682	FOXP1	T028	C1414688
+28232582	683	703	transcription factor	T116,T123	C0040648
+28232582	713	719	target	T169	C1521840
+28232582	723	727	PUM1	T116,T123	C1174251
+28232582	730	731	2	T116	C1174252
+28232582	759	778	repressive activity	T045	C0920533
+28232582	780	784	PUM1	T116,T123	C1174251
+28232582	787	788	2	T116	C1174252
+28232582	804	809	FOXP1	T028	C1414688
+28232582	810	820	expression	T045	C0017262
+28232582	833	840	binding	T044	C1167622
+28232582	856	859	PUM	T116,T123	C1144521
+28232582	860	879	responsive elements	T114,T123	C0600508
+28232582	895	900	FOXP1	T028	C1414688
+28232582	903	925	3' untranslated region	T086,T123	C0600600
+28232582	927	930	UTR	T114	C0600680
+28232582	933	943	Expression	T045	C0017262
+28232582	947	952	FOXP1	T116,T123	C1450221
+28232582	978	982	PUM1	T116,T123	C1174251
+28232582	987	991	PUM2	T116	C1174252
+28232582	1010	1015	HSPCs	T025	C0018956
+28232582	1020	1036	myeloid leukemia	T191	C0023470
+28232582	1037	1042	cells	T025	C0007634
+28232582	1064	1069	FOXP1	T116,T123	C1450221
+28232582	1089	1093	HSPC	T025	C0018956
+28232582	1098	1106	leukemic	T191	C0023470
+28232582	1107	1118	cell growth	T043	C0007595
+28232582	1135	1138	PUM	T116,T123	C1144521
+28232582	1168	1173	FOXP1	T116,T123	C1450221
+28232582	1188	1198	expression	T045	C1171362
+28232582	1206	1216	p21(-CIP1)	T116,T123	C0288472
+28232582	1221	1231	p27(-KIP1)	T116,T123	C0169665
+28232582	1232	1242	cell cycle	T043	C0007586
+28232582	1243	1253	inhibitors	T120	C0243077
+28232582	1264	1269	FOXP1	T028	C1414688
+28232582	1270	1280	expression	T045	C0017262
+28232582	1290	1295	shPUM	T116,T123	C1144521
+28232582	1376	1381	novel	T080	C0205314
+28232582	1382	1400	regulatory pathway	T169	C1514829
+28232582	1467	1471	PUM1	T116,T123	C1174251
+28232582	1474	1475	2	T116	C1174252
+28232582	1480	1485	FOXP1	T116,T123	C1450221
+28232582	1507	1511	HSPC	T025	C0018956
+28232582	1516	1524	leukemic	T191	C0023418
+28232582	1525	1536	cell growth	T043	C0007595

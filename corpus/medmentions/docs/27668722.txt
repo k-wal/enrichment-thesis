@@ -1,0 +1,67 @@
+27668722|t|Effect of single-dose carbapenem exposure on transcriptional expression of blaNDM-1 and mexA in Pseudomonas aeruginosa
+27668722|a|The therapeutic option of a carbapenem antibiotic is compromised in Pseudomonas aeruginosa owing both to acquired and intrinsic resistance mechanisms. In recent years, New Delhi metallo-β-lactamase has been the focus as a predominant carbapenem resistance determinant. However, it is unclear which of the mechanisms might be adopted by a P. aeruginosa strain possessing both blaNDM-1 and an overexpressed MexAB-OprM system during carbapenem therapy. This study investigated the interplay of both mechanisms in clinical isolates of P. aeruginosa when exposed to meropenem. Five strains were used: (i) strain overexpressing MexAB-OprM but with no blaNDM-1; (ii) strain harbouring blaNDM-1 but expressing MexAB-OprM at basal level; (iii) strain possessing blaNDM-1 and overexpressing MexAB-OprM; (iv) P. aeruginosa PAO1; and (v) P. aeruginosa K2733-PAO1 (ΔMexAB-OprM ΔMexCD-OprJ ΔMexEF-OprN ΔMexXY-OprM) into which blaNDM-1 was cloned. Strains were incubated in Luria-Bertani broth with and without 1μg/mL meropenem. Total RNA was isolated at 45-min intervals and was immediately reverse transcribed to cDNA. This was repeated for 6h. Quantitative real-time PCR was performed for both resistance mechanisms. Meropenem exposure did not significantly elevate transcription of either the blaNDM-1 or mexA gene. However, an interesting finding was that upon single-dose exposure to carbapenem, the efflux pump system played a major role in bacterial survival compared with NDM-1. This study gives an insight into the bacterial response to carbapenem antibiotic when two different resistance mechanisms coexist. This type of study would be helpful in designing future antimicrobials.
+27668722	10	21	single-dose	T201	C1960417
+27668722	22	32	carbapenem	T109,T195	C0006968
+27668722	33	41	exposure	T033	C0743284
+27668722	45	71	transcriptional expression	T045	C0017262
+27668722	75	83	blaNDM-1	T028	C3699343
+27668722	88	92	mexA	T028	C0376623
+27668722	96	118	Pseudomonas aeruginosa	T007	C0033809
+27668722	123	141	therapeutic option	T169	C0302350
+27668722	147	168	carbapenem antibiotic	T109,T195	C0006968
+27668722	187	209	Pseudomonas aeruginosa	T007	C0033809
+27668722	224	232	acquired	T040	C1155281
+27668722	237	257	intrinsic resistance	T032	C0949669
+27668722	287	316	New Delhi metallo-β-lactamase	T116,T126	C2973511
+27668722	353	386	carbapenem resistance determinant	T032	C0949285
+27668722	457	470	P. aeruginosa	T007	C0033809
+27668722	471	477	strain	T001	C1518614
+27668722	494	502	blaNDM-1	T028	C3699343
+27668722	510	523	overexpressed	T045	C0017262
+27668722	524	534	MexAB-OprM	T028	C0029073
+27668722	549	559	carbapenem	T109,T195	C0006968
+27668722	560	567	therapy	T061	C0338237
+27668722	629	646	clinical isolates	T123	C1764827
+27668722	650	663	P. aeruginosa	T007	C0033809
+27668722	680	689	meropenem	T109,T195	C0066005
+27668722	696	703	strains	T001	C1518614
+27668722	719	740	strain overexpressing	T045	C0017262
+27668722	741	751	MexAB-OprM	T028	C0029073
+27668722	761	763	no	T169	C0332197
+27668722	764	772	blaNDM-1	T028	C3699343
+27668722	797	805	blaNDM-1	T028	C3699343
+27668722	810	820	expressing	T045	C0017262
+27668722	821	831	MexAB-OprM	T028	C0029073
+27668722	854	860	strain	T001	C1518614
+27668722	872	880	blaNDM-1	T028	C3699343
+27668722	885	899	overexpressing	T045	C0017262
+27668722	900	910	MexAB-OprM	T028	C0029073
+27668722	917	935	P. aeruginosa PAO1	T007	C4164297
+27668722	945	969	P. aeruginosa K2733-PAO1	T007	C4164297
+27668722	971	982	ΔMexAB-OprM	T028	C0029073
+27668722	983	994	ΔMexCD-OprJ	T028	C0029073
+27668722	995	1006	ΔMexEF-OprN	T028	C0029073
+27668722	1007	1018	ΔMexXY-OprM	T028	C0029073
+27668722	1031	1039	blaNDM-1	T028	C3699343
+27668722	1044	1050	cloned	T059,T063	C0598888
+27668722	1052	1059	Strains	T001	C1518614
+27668722	1078	1097	Luria-Bertani broth	T130	C2919900
+27668722	1122	1131	meropenem	T109,T195	C0066005
+27668722	1133	1142	Total RNA	T059	C4086963
+27668722	1196	1215	reverse transcribed	T045	C0035380
+27668722	1219	1223	cDNA	T114	C0006556
+27668722	1251	1277	Quantitative real-time PCR	T063	C3179034
+27668722	1301	1322	resistance mechanisms	T062	C1517585
+27668722	1324	1333	Meropenem	T109,T195	C0066005
+27668722	1334	1342	exposure	T033	C0743284
+27668722	1365	1386	elevate transcription	T045	C0040649
+27668722	1401	1409	blaNDM-1	T028	C3699343
+27668722	1413	1422	mexA gene	T028	C0376623
+27668722	1470	1481	single-dose	T201	C1960417
+27668722	1482	1504	exposure to carbapenem	T033	C0743284
+27668722	1510	1528	efflux pump system	T024	C3824504
+27668722	1544	1570	role in bacterial survival	T169	C0220921
+27668722	1585	1590	NDM-1	T116,T126	C2973511
+27668722	1629	1672	bacterial response to carbapenem antibiotic	T040	C0683154
+27668722	1692	1713	resistance mechanisms	T062	C1517585
+27668722	1779	1793	antimicrobials	T121	C1136254

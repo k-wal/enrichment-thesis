@@ -1,0 +1,111 @@
+28161910|t|Associations of gender and a proxy of female menopausal status with histological features of drug-induced liver injury
+28161910|a|Gender and menopause may contribute to type and severity of drug-induced liver injury (DILI) by influencing host responses to injury. The aim of this study was to assess the associations of gender and female age 50 [a proxy of menopause] with histological features of liver injury in 212 adults enrolled in the Drug-Induced Liver Injury Network (DILIN) registry. All participants had a causality score of at least ' probable ', a liver biopsy within 30 days of DILI onset, and no prior chronic liver disease. Biochemical and histological injury types were classified as hepatocellular or cholestatic/mixed injury. The cohort was divided into three gender / age categories: men (41.0%), women <50 years (27.4%) and women ≥50 years of age (31.6%). Interaction of gender and age category (≥50 or not) was assessed. Hepatocellular injury was more prevalent in women <50 years vs. others (P=.002). After adjusting for biochemical injury types, black race and possible ageing effects, more severe interface hepatitis was noted in biopsies of women <50 years compared to those of men and women ≥50 years (P=.009 and P=.055 respectively). Compared to those of men, biopsies of women showed greater plasma cell infiltration, hepatocyte apoptosis, hepatocyte rosettes and lobular disarray but less iron - positive hepatocytes and histological cholestasis (P<.05). These associations persisted after excluding cases of amoxicillin/clavulanic acid, anabolic steroids or nitrofurantoin DILI which showed gender -specific distributions. Gender and a proxy of menopause were associated with various features of inflammation and injury in DILI.
+28161910	0	12	Associations	T080	C0439849
+28161910	16	22	gender	T032	C0079399
+28161910	29	34	proxy	T096	C0600420
+28161910	38	44	female	T032	C0086287
+28161910	45	62	menopausal status	T201	C1513126
+28161910	68	80	histological	T169	C0205462
+28161910	81	89	features	T080	C2348519
+28161910	93	118	drug-induced liver injury	T047	C0860207
+28161910	119	125	Gender	T032	C0079399
+28161910	130	139	menopause	T039	C0025320
+28161910	158	162	type	T080	C0332307
+28161910	167	175	severity	T080	C0439793
+28161910	179	204	drug-induced liver injury	T047	C0860207
+28161910	206	210	DILI	T047	C0860207
+28161910	215	226	influencing	T077	C4054723
+28161910	227	231	host	T001	C1167395
+28161910	232	241	responses	T033	C1704632
+28161910	245	251	injury	T037	C3263723
+28161910	257	260	aim	T078	C1947946
+28161910	269	274	study	T062	C2603343
+28161910	282	288	assess	T052	C1516048
+28161910	293	305	associations	T080	C0439849
+28161910	309	315	gender	T032	C0079399
+28161910	320	326	female	T032	C0086287
+28161910	327	330	age	T032	C0001779
+28161910	337	342	proxy	T096	C0600420
+28161910	346	355	menopause	T039	C0025320
+28161910	362	374	histological	T169	C0205462
+28161910	375	383	features	T080	C2348519
+28161910	387	399	liver injury	T037	C0160390
+28161910	407	413	adults	T100	C0001675
+28161910	430	455	Drug-Induced Liver Injury	T047	C0860207
+28161910	456	463	Network	T169	C1882071
+28161910	465	470	DILIN	T169	C1882071
+28161910	472	480	registry	T170	C0034975
+28161910	486	498	participants	T098	C0679646
+28161910	505	514	causality	T169	C0015127
+28161910	515	520	score	T081	C0449820
+28161910	535	543	probable	T033	C0332148
+28161910	549	561	liver biopsy	T060	C0193388
+28161910	580	584	DILI	T047	C0860207
+28161910	605	626	chronic liver disease	T047	C0341439
+28161910	628	639	Biochemical	T169	C0205474
+28161910	644	656	histological	T169	C0205462
+28161910	657	663	injury	T037	C3263723
+28161910	664	669	types	T080	C0332307
+28161910	689	703	hepatocellular	T046	C0151763
+28161910	707	731	cholestatic/mixed injury	T047	C1737228
+28161910	737	743	cohort	T098	C0599755
+28161910	748	755	divided	T169	C0332849
+28161910	767	773	gender	T032	C0079399
+28161910	776	779	age	T032	C0001779
+28161910	780	790	categories	T170	C0683312
+28161910	792	795	men	T098	C0025266
+28161910	805	810	women	T098	C0043210
+28161910	833	838	women	T098	C0043210
+28161910	852	855	age	T032	C0001779
+28161910	865	876	Interaction	T169	C1704675
+28161910	880	886	gender	T032	C0079399
+28161910	891	894	age	T032	C0001779
+28161910	895	903	category	T170	C0683312
+28161910	921	929	assessed	T052	C1516048
+28161910	931	952	Hepatocellular injury	T046	C0151763
+28161910	975	980	women	T098	C0043210
+28161910	1032	1043	biochemical	T169	C0205474
+28161910	1044	1050	injury	T037	C3263723
+28161910	1051	1056	types	T080	C0332307
+28161910	1058	1068	black race	T098	C0005680
+28161910	1073	1081	possible	T033	C0332149
+28161910	1082	1088	ageing	T040	C0001811
+28161910	1089	1096	effects	T080	C1280500
+28161910	1103	1109	severe	T080	C0205082
+28161910	1120	1129	hepatitis	T047	C0019158
+28161910	1143	1151	biopsies	T060	C0005558
+28161910	1155	1160	women	T098	C0043210
+28161910	1171	1179	compared	T052	C1707455
+28161910	1192	1195	men	T098	C0025266
+28161910	1200	1205	women	T098	C0043210
+28161910	1250	1258	Compared	T052	C1707455
+28161910	1271	1274	men	T098	C0025266
+28161910	1276	1284	biopsies	T060	C0005558
+28161910	1288	1293	women	T098	C0043210
+28161910	1301	1308	greater	T081	C1704243
+28161910	1309	1333	plasma cell infiltration	T047	C0391861
+28161910	1335	1355	hepatocyte apoptosis	T043	C3269241
+28161910	1357	1367	hepatocyte	T025	C0227525
+28161910	1368	1376	rosettes	T033	C0035863
+28161910	1381	1388	lobular	T080	C0205417
+28161910	1407	1411	iron	T121,T123,T196	C0302583
+28161910	1414	1422	positive	T033	C1514241
+28161910	1423	1434	hepatocytes	T025	C0227525
+28161910	1439	1451	histological	T169	C0205462
+28161910	1452	1463	cholestasis	T047	C0008370
+28161910	1479	1491	associations	T080	C0439849
+28161910	1518	1523	cases	T169	C0868928
+28161910	1527	1554	amoxicillin/clavulanic acid	T121	C0054066
+28161910	1556	1573	anabolic steroids	T109,T121	C0002744
+28161910	1577	1591	nitrofurantoin	T109,T121	C0028156
+28161910	1592	1596	DILI	T047	C0860207
+28161910	1610	1616	gender	T032	C0079399
+28161910	1627	1640	distributions	T169	C1704711
+28161910	1642	1648	Gender	T032	C0079399
+28161910	1655	1660	proxy	T096	C0600420
+28161910	1664	1673	menopause	T039	C0025320
+28161910	1679	1694	associated with	T080	C0332281
+28161910	1703	1711	features	T080	C2348519
+28161910	1715	1727	inflammation	T046	C0021368
+28161910	1732	1738	injury	T037	C3263723
+28161910	1742	1746	DILI	T047	C0860207

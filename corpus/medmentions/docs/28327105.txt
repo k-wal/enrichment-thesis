@@ -1,0 +1,103 @@
+28327105|t|Association of physical activity on body composition, cardiometabolic risk factors, and prevalence of cardiovascular disease in the Korean population (from the fifth Korea national health and nutrition examination survey, 2008-2011)
+28327105|a|Data regarding associations among physical activity (PA) level, body composition, and prevalence of cardiovascular diseases in Asian populations are rare. The International Physical Activity Questionnaire (IPAQ) was utilized to estimate PA levels and analyze the association of PA level with various body composition parameters and the prevalence of cardiovascular diseases by using data from the Korean National Health and Nutrition Examination Survey from 2008 to 2011. Moderate and high PA levels were associated with lower prevalence of hypertension and diabetes mellitus, and lower concentrations of serum ferritin, parathyroid hormone, and alkaline phosphatase. Sarcopenia (low vs. moderate vs. high PA group: 14.3% vs. 10.5% vs. 7.3%, p = 0.001), underweight (5.7% vs. 4.9% vs. 3.5%, p = 0.001), and central obesity (7.8% vs. 6.9% vs. 6.3%, p = 0.002) were more often observed in the low PA group. The prevalence rates of cardiovascular diseases were lower in the moderate (odds ratio [OR], 0.822; 95% confidence interval [CI], 0.737-0.916; p = 0.001) and high activity groups (OR, 0.663; 95% CI, 0.589-0.748; p = 0.001) than in the low activity group, even after adjusting for age, sex, smoking, underlying disease, and general or abdominal obesity and muscle mass. Regular physical activity was associated with a low prevalence of cardiovascular diseases (stroke, myocardial infarction, stable angina, and chronic renal disease), which was independent of body composition and conventional risk factors in the Korean population, with a positive dose-response relationship.
+28327105	0	11	Association	T080	C0439849
+28327105	15	32	physical activity	T056	C0026606
+28327105	36	52	body composition	T032	C0005885
+28327105	54	82	cardiometabolic risk factors	T033	C0035648
+28327105	88	98	prevalence	T081	C0220900
+28327105	102	124	cardiovascular disease	T047	C0007222
+28327105	132	149	Korean population	T098	C1556095
+28327105	166	171	Korea	T083	C0022771
+28327105	172	220	national health and nutrition examination survey	T062	C0376344
+28327105	233	237	Data	T078	C1511726
+28327105	248	260	associations	T080	C0439849
+28327105	267	284	physical activity	T056	C0026606
+28327105	286	288	PA	T056	C0026606
+28327105	290	295	level	T080	C0441889
+28327105	297	313	body composition	T032	C0005885
+28327105	319	329	prevalence	T081	C0220900
+28327105	333	356	cardiovascular diseases	T047	C0007222
+28327105	360	377	Asian populations	T081	C0032659
+28327105	382	386	rare	T080	C0522498
+28327105	392	437	International Physical Activity Questionnaire	T170	C0034394
+28327105	439	443	IPAQ	T170	C0034394
+28327105	461	469	estimate	T081	C0750572
+28327105	470	472	PA	T056	C0026606
+28327105	473	479	levels	T080	C0441889
+28327105	484	491	analyze	T062	C0936012
+28327105	496	507	association	T080	C0439849
+28327105	511	513	PA	T056	C0026606
+28327105	514	519	level	T080	C0441889
+28327105	533	549	body composition	T032	C0005885
+28327105	550	560	parameters	T077	C0549193
+28327105	569	579	prevalence	T081	C0220900
+28327105	583	606	cardiovascular diseases	T047	C0007222
+28327105	616	620	data	T078	C1511726
+28327105	630	636	Korean	T083	C0022771
+28327105	637	685	National Health and Nutrition Examination Survey	T062	C0376344
+28327105	705	713	Moderate	T080	C0205081
+28327105	718	722	high	T080	C0205250
+28327105	723	725	PA	T056	C0026606
+28327105	726	732	levels	T080	C0441889
+28327105	738	748	associated	T080	C0439849
+28327105	754	770	lower prevalence	T081	C1518029
+28327105	774	786	hypertension	T047	C0020538
+28327105	791	808	diabetes mellitus	T047	C0011849
+28327105	814	819	lower	T080	C0205251
+28327105	820	834	concentrations	T081	C1446561
+28327105	838	852	serum ferritin	T033	C4076066
+28327105	854	873	parathyroid hormone	T033	C4314193
+28327105	879	899	alkaline phosphatase	T033	C1860130
+28327105	901	911	Sarcopenia	T047	C0872084
+28327105	913	916	low	T080	C0205251
+28327105	921	929	moderate	T080	C0205081
+28327105	934	938	high	T080	C0205250
+28327105	939	941	PA	T056	C0026606
+28327105	942	947	group	T078	C0441833
+28327105	975	976	p	T081	C1709380
+28327105	987	998	underweight	T033	C0041667
+28327105	1040	1055	central obesity	T033	C0311277
+28327105	1108	1116	observed	T169	C1441672
+28327105	1124	1127	low	T080	C0205251
+28327105	1128	1130	PA	T056	C0026606
+28327105	1131	1136	group	T078	C0441833
+28327105	1142	1152	prevalence	T081	C0220900
+28327105	1153	1158	rates	T081	C1521828
+28327105	1162	1185	cardiovascular diseases	T047	C0007222
+28327105	1191	1196	lower	T080	C0205251
+28327105	1204	1212	moderate	T080	C0205081
+28327105	1214	1224	odds ratio	T081	C0028873
+28327105	1226	1228	OR	T081	C0028873
+28327105	1242	1261	confidence interval	T081	C0009667
+28327105	1263	1265	CI	T081	C0009667
+28327105	1281	1282	p	T081	C1709380
+28327105	1296	1300	high	T080	C0205250
+28327105	1301	1309	activity	T056	C0026606
+28327105	1310	1316	groups	T078	C0441833
+28327105	1318	1320	OR	T081	C0028873
+28327105	1333	1335	CI	T081	C0009667
+28327105	1350	1351	p	T081	C1709380
+28327105	1373	1376	low	T080	C0205251
+28327105	1377	1385	activity	T056	C0026606
+28327105	1386	1391	group	T078	C0441833
+28327105	1418	1421	age	T032	C0001779
+28327105	1423	1426	sex	T032	C0079399
+28327105	1428	1435	smoking	T055	C0037369
+28327105	1437	1455	underlying disease	T047	C0012634
+28327105	1461	1468	general	T047	C0028754
+28327105	1472	1489	abdominal obesity	T033	C0311277
+28327105	1494	1505	muscle mass	T033	C0240417
+28327105	1507	1532	Regular physical activity	UnknownType	C0815170
+28327105	1537	1547	associated	T080	C0439849
+28327105	1555	1569	low prevalence	T081	C1518029
+28327105	1573	1596	cardiovascular diseases	T047	C0007222
+28327105	1598	1604	stroke	T037	C0018843
+28327105	1606	1627	myocardial infarction	T047	C0027051
+28327105	1629	1642	stable angina	T047	C0340288
+28327105	1648	1669	chronic renal disease	T047	C1561643
+28327105	1682	1696	independent of	T169	C0332291
+28327105	1697	1713	body composition	T032	C0005885
+28327105	1731	1743	risk factors	T033	C0035648
+28327105	1751	1768	Korean population	T098	C1556095
+28327105	1777	1785	positive	T033	C1446409
+28327105	1786	1812	dose-response relationship	T038	C0678790

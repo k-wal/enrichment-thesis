@@ -1,0 +1,97 @@
+28125734|t|Identification of MiR-21-5p as a Functional Regulator of Mesothelin Expression Using MicroRNA Capture Affinity Coupled with Next Generation Sequencing
+28125734|a|MicroRNAs (miRNAs) are small non-coding RNAs that regulate mRNA expression mainly by silencing target transcripts via binding to miRNA recognition elements (MREs) in the 3'untranslated region (3'UTR). The identification of bona fide targets is challenging for researchers working on the functional aspect of miRNAs. Recently, we developed a method (miR-CATCH) based on biotinylated DNA antisense oligonucleotides that capture the mRNA of interest and facilitates the characterisation of miRNAs::mRNA interactions in a physiological cellular context. Here, the miR-CATCH technique was applied to the mesothelin (MSLN) gene and coupled with next generation sequencing (NGS), to identify miRNAs that regulate MSLN mRNA and that may be responsible for its increased protein levels found in malignant pleural mesothelioma (MPM). Biotinylated MSLN oligos were employed to isolate miRNA::MSLN mRNA complexes from a normal cell line (Met-5A) which expresses low levels of MSLN. MiRNAs targeting the MSLN mRNA were identified by NGS and miR-21-5p and miR-100-5p were selected for further validation analyses. MiR-21-5p was shown to be able to modulate MSLN expression in miRNA mimic experiments in a panel of malignant and non-malignant cell lines. Further miRNA inhibitor experiments and luciferase assays in Mero-14 cells validated miR-21-5p as a true regulator of MSLN. Moreover, in vitro experiments showed that treatment with miR-21-5p mimic reduced proliferation of MPM cell lines. Altogether, this work shows that the miR-CATCH technique, coupled with NGS and in vitro validation, represents a reliable method to identify native miRNA::mRNA interactions. MiR-21-5p is suggested as novel regulator of MSLN with a possible functional role in cellular growth.
+28125734	0	14	Identification	T080	C0205396
+28125734	18	27	MiR-21-5p	T114,T123	C1101610
+28125734	33	53	Functional Regulator	T028	C0017362
+28125734	57	67	Mesothelin	T028	C1334533
+28125734	68	78	Expression	T045	C0017262
+28125734	85	93	MicroRNA	T114,T123	C1101610
+28125734	102	110	Affinity	T070	C1510827
+28125734	111	118	Coupled	T169	C1948027
+28125734	124	150	Next Generation Sequencing	T063	C2936622
+28125734	151	160	MicroRNAs	T114,T123	C1101610
+28125734	162	168	miRNAs	T114,T123	C1101610
+28125734	174	195	small non-coding RNAs	T114	C0887909
+28125734	201	209	regulate	T045	C0017263
+28125734	210	225	mRNA expression	T045	C1515670
+28125734	236	245	silencing	T045	C0598496
+28125734	246	252	target	T169	C1521840
+28125734	253	264	transcripts	T114	C1519595
+28125734	269	276	binding	T044	C1167622
+28125734	280	313	miRNA recognition elements (MREs)	T086	C0314659
+28125734	321	342	3'untranslated region	T086,T123	C0600600
+28125734	344	349	3'UTR	T086,T123	C0600600
+28125734	356	370	identification	T080	C0205396
+28125734	374	383	bona fide	T082	C2323869
+28125734	384	391	targets	T169	C1521840
+28125734	411	430	researchers working	T033	C0243095
+28125734	438	455	functional aspect	T169	C0205245
+28125734	459	465	miRNAs	T114,T123	C1101610
+28125734	492	510	method (miR-CATCH)	T169	C0449851
+28125734	520	532	biotinylated	T044	C1159274
+28125734	533	536	DNA	T114,T123	C0012854
+28125734	537	563	antisense oligonucleotides	T114,T123,T130	C0079925
+28125734	581	585	mRNA	T114,T123	C0035696
+28125734	638	663	miRNAs::mRNA interactions	T045	C1523523
+28125734	669	691	physiological cellular	T043	C1325880
+28125734	711	730	miR-CATCH technique	T169	C0449851
+28125734	750	772	mesothelin (MSLN) gene	T028	C1334533
+28125734	777	784	coupled	T169	C1948027
+28125734	790	816	next generation sequencing	T063	C2936622
+28125734	818	821	NGS	T063	C2936622
+28125734	836	842	miRNAs	T114,T123	C1101610
+28125734	848	856	regulate	T045	C0017263
+28125734	857	866	MSLN mRNA	T028	C1334533
+28125734	913	927	protein levels	T034	C0428479
+28125734	937	967	malignant pleural mesothelioma	T191	C0812413
+28125734	969	972	MPM	T191	C0812413
+28125734	975	987	Biotinylated	T044	C1159274
+28125734	988	999	MSLN oligos	T028	C1334533
+28125734	1025	1051	miRNA::MSLN mRNA complexes	T114,T116,T123	C1099355
+28125734	1066	1084	cell line (Met-5A)	T025	C0007600
+28125734	1091	1100	expresses	T045	C1171362
+28125734	1115	1119	MSLN	T116,T129	C0380162
+28125734	1121	1127	MiRNAs	T114,T123	C1101610
+28125734	1128	1137	targeting	T169	C1521840
+28125734	1142	1151	MSLN mRNA	T028	C1334533
+28125734	1171	1174	NGS	T063	C2936622
+28125734	1179	1188	miR-21-5p	T114,T123	C1101610
+28125734	1193	1203	miR-100-5p	T114,T123	C1101610
+28125734	1230	1249	validation analyses	T062	C0936012
+28125734	1251	1260	MiR-21-5p	T114,T123	C1101610
+28125734	1285	1293	modulate	T082	C0443264
+28125734	1294	1298	MSLN	T028	C1334533
+28125734	1299	1309	expression	T045	C0017262
+28125734	1313	1318	miRNA	T114,T123	C1101610
+28125734	1319	1324	mimic	T061	C0393040
+28125734	1325	1336	experiments	T062	C0681814
+28125734	1351	1360	malignant	T025	C0334227
+28125734	1379	1389	cell lines	T025	C0007600
+28125734	1399	1404	miRNA	T114,T123	C1101610
+28125734	1405	1414	inhibitor	T080	C1999216
+28125734	1415	1426	experiments	T062	C0681814
+28125734	1431	1441	luciferase	T116,T126,T130	C0024075
+28125734	1442	1448	assays	T059	C0005507
+28125734	1452	1465	Mero-14 cells	T025	C0007634
+28125734	1476	1485	miR-21-5p	T114,T123	C1101610
+28125734	1496	1505	regulator	T028	C0017362
+28125734	1509	1513	MSLN	T028	C1334533
+28125734	1525	1545	in vitro experiments	T062	C0681828
+28125734	1558	1567	treatment	T061	C0087111
+28125734	1573	1582	miR-21-5p	T114,T123	C1101610
+28125734	1583	1588	mimic	T061	C0393040
+28125734	1597	1610	proliferation	T169	C1514485
+28125734	1614	1617	MPM	T191	C0812413
+28125734	1618	1628	cell lines	T025	C0007600
+28125734	1667	1686	miR-CATCH technique	T169	C0449851
+28125734	1688	1695	coupled	T169	C1948027
+28125734	1701	1704	NGS	T063	C2936622
+28125734	1709	1717	in vitro	T080	C1533691
+28125734	1718	1728	validation	T062	C1519941
+28125734	1752	1758	method	T169	C0449851
+28125734	1778	1802	miRNA::mRNA interactions	T045	C1523523
+28125734	1804	1813	MiR-21-5p	T114,T123	C1101610
+28125734	1836	1845	regulator	T028	C0017362
+28125734	1849	1853	MSLN	T028	C1334533
+28125734	1870	1885	functional role	T169	C0205245
+28125734	1889	1904	cellular growth	T043	C0007595

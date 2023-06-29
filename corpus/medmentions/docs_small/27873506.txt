@@ -1,0 +1,25 @@
+27873506|t|Development of a Robotic Colonoscopic Manipulation System, Using Haptic Feedback Algorithm
+27873506|a|Colonoscopy is one of the most effective diagnostic and therapeutic tools for colorectal diseases. We aim to propose a master-slave robotic colonoscopy that is controllable in remote site using conventional colonoscopy. The master and slave robot were developed to use conventional flexible colonoscopy. The robotic colonoscopic procedure was performed using a colonoscope training model by one expert endoscopist and two unexperienced engineers. To provide the haptic sensation, the insertion force and the rotating torque were measured and sent to the master robot. A slave robot was developed to hold the colonoscopy and its knob, and perform insertion, rotation, and two tilting motions of colonoscope. A master robot was designed to teach motions of the slave robot. These measured force and torque were scaled down by one tenth to provide the operator with some reflection force and torque at the haptic device. The haptic sensation and feedback system was successful and helpful to feel the constrained force or torque in colon. The insertion time using robotic system decreased with repeated procedures. This work proposed a robotic approach for colonoscopy using haptic feedback algorithm, and this robotic device would effectively perform colonoscopy with reduced burden and comparable safety for patients in remote site.
+27873506	81	90	Algorithm	T170	UMLS:C0002045
+27873506	91	102	Colonoscopy	T058	UMLS:C0009378
+27873506	169	188	colorectal diseases	T038	UMLS:C0009404
+27873506	231	242	colonoscopy	T058	UMLS:C0009378
+27873506	267	273	remote	T082	UMLS:C0205157
+27873506	274	278	site	T082	UMLS:C0205145
+27873506	298	309	colonoscopy	T058	UMLS:C0009378
+27873506	382	393	colonoscopy	T058	UMLS:C0009378
+27873506	399	429	robotic colonoscopic procedure	T058	UMLS:C0751041
+27873506	452	463	colonoscope	T074	UMLS:C0180022
+27873506	464	478	training model	T074	UMLS:C3881670
+27873506	493	504	endoscopist	T097	UMLS:C1522486
+27873506	527	536	engineers	T097	UMLS:C0878517
+27873506	699	710	colonoscopy	T058	UMLS:C0009378
+27873506	785	796	colonoscope	T074	UMLS:C0180022
+27873506	940	948	operator	T098	UMLS:C1705275
+27873506	1120	1125	colon	T017	UMLS:C0009368
+27873506	1245	1256	colonoscopy	T058	UMLS:C0009378
+27873506	1279	1288	algorithm	T170	UMLS:C0002045
+27873506	1340	1351	colonoscopy	T058	UMLS:C0009378
+27873506	1387	1406	safety for patients	T058	UMLS:C1113679
+27873506	1410	1416	remote	T082	UMLS:C0205157
+27873506	1417	1421	site	T082	UMLS:C0205145

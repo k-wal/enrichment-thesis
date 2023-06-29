@@ -1,0 +1,78 @@
+28458045|t|The yeast ADH7 promoter enables gene expression under pronounced translation repression caused by the combined stress of vanillin, furfural, and 5-hydroxymethylfurfural
+28458045|a|Lignocellulosic biomass conversion inhibitors such as vanillin, furfural, and 5-hydroxymethylfurfural (HMF) inhibit the growth of and fermentation by Saccharomyces cerevisiae. A high concentration of each fermentation inhibitor represses translation and increases non-translated mRNAs. We previously reported that the mRNAs of ADH7 and BDH2, which encode putative NADPH- and NADH-dependent alcohol dehydrogenases, respectively, were efficiently translated even with translation repression in response to severe vanillin stress. However, the combined effects of these fermentation inhibitors on the expression of ADH7 and BDH2 remain unclear. We herein demonstrated that exposure to a combined stress of vanillin, furfural, and HMF repressed translation. The protein synthesis of Adh7, but not Bdh2 was significantly induced under combined stress conditions, even though the mRNA levels of ADH7 and BDH2 were up-regulated. Additionally, adh7Δ cells were more sensitive to the combined stress than wild-type and bdh2Δ cells. These results suggest that induction of the ADH7 expression plays a role in the tolerance to the combined stress of vanillin, furfural, and HMF. Furthermore, we succeeded in improving yeast tolerance to the combined stress by controlling the expression of ALD6 with the ADH7 promoter. Our results demonstrate that the ADH7 promoter can overcome the pronounced translation repression caused by the combined stress of vanillin, furfural, and HMF, and also suggest a new gene engineering strategy to breed robust and optimized yeasts for bioethanol production from a lignocellulosic biomass.
+28458045	4	9	yeast	T204	UMLS:C0043393
+28458045	10	14	ADH7	T017	UMLS:C1412242
+28458045	15	23	promoter	T103	UMLS:C0086860
+28458045	32	47	gene expression	T038	UMLS:C0017262
+28458045	65	87	translation repression	T038	UMLS:C1519619
+28458045	102	117	combined stress	T033	UMLS:C0038435
+28458045	121	129	vanillin	T103	UMLS:C0078032
+28458045	131	139	furfural	T103	UMLS:C0016849
+28458045	145	168	5-hydroxymethylfurfural	T103	UMLS:C0049244
+28458045	169	184	Lignocellulosic	T103	UMLS:C0064974
+28458045	204	214	inhibitors	T103	UMLS:C0243077
+28458045	223	231	vanillin	T103	UMLS:C0078032
+28458045	233	241	furfural	T103	UMLS:C0016849
+28458045	247	270	5-hydroxymethylfurfural	T103	UMLS:C0049244
+28458045	272	275	HMF	T103	UMLS:C0049244
+28458045	289	295	growth	T038	UMLS:C0018270
+28458045	303	315	fermentation	T038	UMLS:C0015852
+28458045	319	343	Saccharomyces cerevisiae	T204	UMLS:C0036025
+28458045	374	386	fermentation	T038	UMLS:C0015852
+28458045	387	396	inhibitor	T103	UMLS:C0243077
+28458045	397	418	represses translation	T038	UMLS:C1519619
+28458045	433	453	non-translated mRNAs	T103	UMLS:C0887909
+28458045	487	492	mRNAs	T103	UMLS:C0035696
+28458045	496	500	ADH7	T017	UMLS:C1412242
+28458045	505	509	BDH2	T017	UMLS:C1826419
+28458045	533	539	NADPH-	T103	UMLS:C0001942
+28458045	544	581	NADH-dependent alcohol dehydrogenases	T103	UMLS:C0001942
+28458045	635	657	translation repression	T038	UMLS:C1519619
+28458045	680	688	vanillin	T103	UMLS:C0078032
+28458045	689	695	stress	T033	UMLS:C0038435
+28458045	736	748	fermentation	T038	UMLS:C0015852
+28458045	749	759	inhibitors	T103	UMLS:C0243077
+28458045	767	777	expression	T038	UMLS:C1171362
+28458045	781	785	ADH7	T017	UMLS:C1412242
+28458045	790	794	BDH2	T017	UMLS:C1826419
+28458045	853	868	combined stress	T033	UMLS:C0038435
+28458045	872	880	vanillin	T103	UMLS:C0078032
+28458045	882	890	furfural	T103	UMLS:C0016849
+28458045	896	899	HMF	T103	UMLS:C0049244
+28458045	900	921	repressed translation	T038	UMLS:C1519619
+28458045	927	944	protein synthesis	T038	UMLS:C0597295
+28458045	948	952	Adh7	T103	UMLS:C1173273
+28458045	962	966	Bdh2	T103	UMLS:C0020331
+28458045	999	1014	combined stress	T033	UMLS:C0038435
+28458045	1043	1047	mRNA	T103	UMLS:C0035696
+28458045	1058	1062	ADH7	T017	UMLS:C1412242
+28458045	1067	1071	BDH2	T017	UMLS:C1826419
+28458045	1077	1090	up-regulated.	T038	UMLS:C0041904
+28458045	1144	1159	combined stress	T033	UMLS:C0038435
+28458045	1165	1174	wild-type	T017	UMLS:C1883559
+28458045	1198	1205	results	T033	UMLS:C0456984
+28458045	1219	1228	induction	T038	UMLS:C0017391
+28458045	1236	1240	ADH7	T017	UMLS:C1412242
+28458045	1241	1251	expression	T038	UMLS:C1171362
+28458045	1289	1304	combined stress	T033	UMLS:C0038435
+28458045	1308	1316	vanillin	T103	UMLS:C0078032
+28458045	1318	1326	furfural	T103	UMLS:C0016849
+28458045	1332	1335	HMF	T103	UMLS:C0049244
+28458045	1376	1381	yeast	T204	UMLS:C0043393
+28458045	1399	1414	combined stress	T033	UMLS:C0038435
+28458045	1434	1444	expression	T038	UMLS:C0017262
+28458045	1448	1452	ALD6	T103	UMLS:C1258324
+28458045	1462	1466	ADH7	T017	UMLS:C1412242
+28458045	1467	1475	promoter	T103	UMLS:C0086860
+28458045	1481	1488	results	T033	UMLS:C0456984
+28458045	1510	1514	ADH7	T017	UMLS:C1412242
+28458045	1515	1523	promoter	T103	UMLS:C0086860
+28458045	1552	1574	translation repression	T038	UMLS:C1519619
+28458045	1589	1604	combined stress	T033	UMLS:C0038435
+28458045	1608	1616	vanillin	T103	UMLS:C0078032
+28458045	1618	1626	furfural	T103	UMLS:C0016849
+28458045	1632	1635	HMF	T103	UMLS:C0049244
+28458045	1660	1676	gene engineering	T062	UMLS:C0017387
+28458045	1716	1722	yeasts	T204	UMLS:C0043393
+28458045	1727	1748	bioethanol production	T038	UMLS:C0678710
+28458045	1756	1771	lignocellulosic	T103	UMLS:C0064974

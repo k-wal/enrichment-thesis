@@ -1,0 +1,60 @@
+28410686|t|Relations between doses cumulated in bone marrow and dose delivery techniques during radiation therapy of cervical and endometrial cancer
+28410686|a|To compare normal tissue complication probability (NTCP) and average doses in the bone marrow (BM), obtained for five different radiotherapy delivery and planning strategies of cervical and endometrial cancer. 50 patients were taken to analysis. For each case, 3 different dose delivery techniques were used: 4-field, X15MV, 3DCRT; 7-field, X6MV, IMRT; and 2-arc, X6MV, VMAT. Two optimization scenarios were used for the IMRT and VMAT plans generation: with (+) and without (-) the inclusion of the BM as an optimized structure. Average doses and dose-volume histogram parameters for the PTV, BM, bladder, rectum, bowels and femoral heads were compared. In addition, the BM doses were analyzed with respect to the PTV and/or volume of the BM, and NTCP for the BM were computed. The dose in PTV for evaluated plans was similar. The worst doses in organs at risk were obtained for 3DCRT. Using the BM during the optimization of IMRT and VMAT reduces an average dose in BM without increasing the doses in the bladder, rectum and bowels. Differences between doses in BM for IMRT(+) and VMAT(+) plans were similar while NTCP was lower for VMAT(+). A correlation between average dose in BM and the volume ratio of BM and PTV was found for each technique. Using the BM during the optimization of the IMRT and VMAT plans effectively reduces the dose in BM without increasing the dose in the bladder, rectum and bowels. The VMAT(+) plans were characterized by the lowest NTCP.
+28410686	37	48	bone marrow	T017	UMLS:C0005953
+28410686	85	102	radiation therapy	T058	UMLS:C1522449
+28410686	106	114	cervical	T038	UMLS:C0007847
+28410686	119	137	endometrial cancer	T038	UMLS:C0007103
+28410686	220	231	bone marrow	T017	UMLS:C0005953
+28410686	233	235	BM	T017	UMLS:C0005953
+28410686	292	311	planning strategies	T170	UMLS:C0032076
+28410686	315	323	cervical	T038	UMLS:C0007847
+28410686	328	346	endometrial cancer	T038	UMLS:C0007103
+28410686	374	382	analysis	T062	UMLS:C0936012
+28410686	447	468	4-field, X15MV, 3DCRT	T058	UMLS:C0600521
+28410686	470	489	7-field, X6MV, IMRT	T058	UMLS:C1512814
+28410686	495	512	2-arc, X6MV, VMAT	T058	UMLS:C3641892
+28410686	559	563	IMRT	T058	UMLS:C1512814
+28410686	568	572	VMAT	T058	UMLS:C3641892
+28410686	573	578	plans	T170	UMLS:C0599880
+28410686	591	595	with	T033	UMLS:C0243095
+28410686	637	639	BM	T017	UMLS:C0005953
+28410686	656	665	structure	T082	UMLS:C0678594
+28410686	685	706	dose-volume histogram	T170	UMLS:C3827011
+28410686	707	717	parameters	T033	UMLS:C0449381
+28410686	731	733	BM	T017	UMLS:C0005953
+28410686	735	742	bladder	T017	UMLS:C0005682
+28410686	744	750	rectum	T017	UMLS:C0034896
+28410686	752	758	bowels	T017	UMLS:C0021853
+28410686	763	776	femoral heads	T017	UMLS:C0015813
+28410686	809	811	BM	T017	UMLS:C0005953
+28410686	823	831	analyzed	T062	UMLS:C0936012
+28410686	877	879	BM	T017	UMLS:C0005953
+28410686	898	900	BM	T017	UMLS:C0005953
+28410686	906	914	computed	T058	UMLS:C1441526
+28410686	936	951	evaluated plans	T170	UMLS:C0599880
+28410686	984	998	organs at risk	T082	UMLS:C2936599
+28410686	1017	1022	3DCRT	T058	UMLS:C0600521
+28410686	1034	1036	BM	T017	UMLS:C0005953
+28410686	1064	1068	IMRT	T058	UMLS:C1512814
+28410686	1073	1077	VMAT	T058	UMLS:C3641892
+28410686	1105	1107	BM	T017	UMLS:C0005953
+28410686	1144	1151	bladder	T017	UMLS:C0005682
+28410686	1153	1159	rectum	T017	UMLS:C0034896
+28410686	1164	1170	bowels	T017	UMLS:C0021853
+28410686	1201	1203	BM	T017	UMLS:C0005953
+28410686	1208	1215	IMRT(+)	T058	UMLS:C1512814
+28410686	1220	1227	VMAT(+)	T058	UMLS:C3641892
+28410686	1228	1233	plans	T170	UMLS:C0599880
+28410686	1272	1279	VMAT(+)	T058	UMLS:C3641892
+28410686	1319	1321	BM	T017	UMLS:C0005953
+28410686	1346	1348	BM	T017	UMLS:C0005953
+28410686	1397	1399	BM	T017	UMLS:C0005953
+28410686	1431	1435	IMRT	T058	UMLS:C1512814
+28410686	1440	1444	VMAT	T058	UMLS:C3641892
+28410686	1445	1450	plans	T170	UMLS:C0599880
+28410686	1483	1485	BM	T017	UMLS:C0005953
+28410686	1521	1528	bladder	T017	UMLS:C0005682
+28410686	1530	1536	rectum	T017	UMLS:C0034896
+28410686	1541	1547	bowels	T017	UMLS:C0021853
+28410686	1553	1560	VMAT(+)	T058	UMLS:C3641892
+28410686	1561	1566	plans	T170	UMLS:C0599880

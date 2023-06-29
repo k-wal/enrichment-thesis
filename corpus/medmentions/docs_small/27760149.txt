@@ -1,0 +1,48 @@
+27760149|t|BEST: Next-Generation Biomedical Entity Search Tool for Knowledge Discovery from Biomedical Literature
+27760149|a|As the volume of publications rapidly increases, searching for relevant information from the literature becomes more challenging. To complement standard search engines such as PubMed, it is desirable to have an advanced search tool that directly returns relevant biomedical entities such as targets, drugs, and mutations rather than a long list of articles. Some existing tools submit a query to PubMed and process retrieved abstracts to extract information at query time, resulting in a slow response time and limited coverage of only a fraction of the PubMed corpus. Other tools preprocess the PubMed corpus to speed up the response time; however, they are not constantly updated, and thus produce outdated results. Further, most existing tools cannot process sophisticated queries such as searches for mutations that co-occur with query terms in the literature. To address these problems, we introduce BEST, a biomedical entity search tool. BEST returns, as a result, a list of 10 different types of biomedical entities including genes, diseases, drugs, targets, transcription factors, miRNAs, and mutations that are relevant to a user's query. To the best of our knowledge, BEST is the only system that processes free text queries and returns up-to-date results in real time including mutation information in the results. BEST is freely accessible at http://best.korea.ac.kr.
+27760149	0	4	BEST	T170	UMLS:C0282574
+27760149	22	51	Biomedical Entity Search Tool	T170	UMLS:C0282574
+27760149	56	65	Knowledge	T170	UMLS:C0376554
+27760149	120	132	publications	T170	UMLS:C0034036
+27760149	196	206	literature	T170	UMLS:C0023866
+27760149	220	231	challenging	T033	UMLS:C0243095
+27760149	256	270	search engines	T170	UMLS:C2348167
+27760149	279	285	PubMed	T170	UMLS:C1138432
+27760149	314	334	advanced search tool	T170	UMLS:C2348167
+27760149	394	401	targets	T074	UMLS:C0085104
+27760149	403	408	drugs	T103	UMLS:C0013227
+27760149	414	423	mutations	T038	UMLS:C0026882
+27760149	466	474	existing	T033	UMLS:C0243095
+27760149	475	480	tools	T170	UMLS:C0037589
+27760149	490	495	query	T170	UMLS:C1522634
+27760149	499	505	PubMed	T170	UMLS:C1138432
+27760149	528	537	abstracts	T170	UMLS:C0600678
+27760149	564	569	query	T170	UMLS:C1522634
+27760149	657	670	PubMed corpus	T170	UMLS:C1138432
+27760149	678	683	tools	T170	UMLS:C0037589
+27760149	699	712	PubMed corpus	T170	UMLS:C1138432
+27760149	803	811	outdated	T170	UMLS:C3645590
+27760149	844	849	tools	T170	UMLS:C0037589
+27760149	879	886	queries	T170	UMLS:C1522634
+27760149	908	917	mutations	T038	UMLS:C0026882
+27760149	937	942	query	T170	UMLS:C1522634
+27760149	956	966	literature	T170	UMLS:C0023866
+27760149	985	993	problems	T033	UMLS:C0033213
+27760149	1008	1012	BEST	T170	UMLS:C0282574
+27760149	1016	1045	biomedical entity search tool	T170	UMLS:C0282574
+27760149	1047	1051	BEST	T170	UMLS:C0282574
+27760149	1136	1141	genes	T017	UMLS:C0017337
+27760149	1143	1151	diseases	T038	UMLS:C0012634
+27760149	1153	1158	drugs	T103	UMLS:C0013227
+27760149	1160	1167	targets	T074	UMLS:C0085104
+27760149	1169	1190	transcription factors	T103	UMLS:C0040648
+27760149	1192	1198	miRNAs	T103	UMLS:C1101610
+27760149	1204	1213	mutations	T038	UMLS:C0026882
+27760149	1244	1249	query	T170	UMLS:C1522634
+27760149	1270	1279	knowledge	T170	UMLS:C0376554
+27760149	1281	1285	BEST	T170	UMLS:C0282574
+27760149	1325	1329	text	T170	UMLS:C1527021
+27760149	1330	1337	queries	T170	UMLS:C1522634
+27760149	1350	1360	up-to-date	T033	UMLS:C0243095
+27760149	1392	1400	mutation	T038	UMLS:C0026882
+27760149	1429	1433	BEST	T170	UMLS:C0282574

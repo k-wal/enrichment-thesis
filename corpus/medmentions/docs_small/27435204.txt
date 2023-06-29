@@ -1,0 +1,50 @@
+27435204|t|Medicare claims indicators of healthcare utilization differences after hospitalization for ischemic stroke: Race, gender, and caregiving effects
+27435204|a|Background Differences in healthcare utilization after stroke may partly explain race or gender differences in stroke outcomes and identify factors that might reduce post - acute stroke care costs. Aim To examine systematic differences in Medicare claims for healthcare utilization after hospitalization for ischemic stroke in a US population -based sample. Methods Claims were examined over a six-month period after hospitalization for 279 ischemic stroke survivors 65 years or older from the REasons for Geographic And Racial Differences in Stroke (REGARDS) study. Statistical analyses examined differences in post - acute healthcare utilization, adjusted for pre - stroke utilization, as a function of race (African-American vs. White), gender, age, stroke belt residence, income, Medicaid dual-eligibility, Charlson comorbidity index, and whether the person lived with an available caregiver. Results After adjusting for covariates, women were more likely than men to receive home health care and to use emergency department services during the post - acute care period. These effects were maintained even after further adjustment for acute stroke severity. African-Americans had more home health care visits than Whites among patients who received some home health care. Having a co-residing caregiver was associated with reduced acute hospitalization length of stay and fewer post - acute emergency department and primary care physician visits. Conclusions Underutilization of healthcare after stroke does not appear to explain poorer long-term stroke outcomes for women and African-Americans in this epidemiologically -derived sample. Caregiver availability may contribute to reduced formal care and cost during the post - acute period.
+27435204	30	40	healthcare	T058	UMLS:C0086388
+27435204	71	86	hospitalization	T058	UMLS:C0019993
+27435204	91	106	ischemic stroke	T038	UMLS:C0948008
+27435204	108	112	Race	T098	UMLS:C0034510
+27435204	171	181	healthcare	T058	UMLS:C0086388
+27435204	200	206	stroke	T038	UMLS:C0948008
+27435204	226	230	race	T098	UMLS:C0034510
+27435204	256	262	stroke	T038	UMLS:C0948008
+27435204	318	330	acute stroke	T038	UMLS:C0751956
+27435204	404	414	healthcare	T058	UMLS:C0086388
+27435204	433	448	hospitalization	T058	UMLS:C0019993
+27435204	453	468	ischemic stroke	T038	UMLS:C0948008
+27435204	474	476	US	T082	UMLS:C0041703
+27435204	477	487	population	T098	UMLS:C1257890
+27435204	523	531	examined	T033	UMLS:C0332128
+27435204	562	577	hospitalization	T058	UMLS:C0019993
+27435204	586	601	ischemic stroke	T038	UMLS:C0948008
+27435204	624	629	older	T098	UMLS:C0001792
+27435204	688	694	Stroke	T038	UMLS:C0948008
+27435204	696	703	REGARDS	T038	UMLS:C0948008
+27435204	733	741	examined	T033	UMLS:C0332128
+27435204	764	780	acute healthcare	T058	UMLS:C0679878
+27435204	813	819	stroke	T038	UMLS:C0948008
+27435204	850	854	race	T098	UMLS:C0034510
+27435204	856	872	African-American	T098	UMLS:C0085756
+27435204	877	882	White	T098	UMLS:C0007457
+27435204	910	919	residence	T082	UMLS:C0237096
+27435204	956	982	Charlson comorbidity index	T170	UMLS:C3714916
+27435204	1000	1006	person	T098	UMLS:C0027361
+27435204	1031	1040	caregiver	T097	UMLS:C0085537
+27435204	1082	1087	women	T098	UMLS:C0043210
+27435204	1110	1113	men	T098	UMLS:C0025266
+27435204	1153	1182	emergency department services	T058	UMLS:C0374899
+27435204	1201	1211	acute care	T058	UMLS:C0679878
+27435204	1261	1268	further	T082	UMLS:C1517331
+27435204	1284	1296	acute stroke	T038	UMLS:C0751956
+27435204	1307	1324	African-Americans	T098	UMLS:C0085756
+27435204	1351	1357	visits	T058	UMLS:C1512346
+27435204	1363	1369	Whites	T098	UMLS:C0007457
+27435204	1442	1451	caregiver	T097	UMLS:C0085537
+27435204	1480	1501	acute hospitalization	T058	UMLS:C0019993
+27435204	1534	1560	acute emergency department	T058	UMLS:C0586082
+27435204	1645	1651	stroke	T038	UMLS:C0948008
+27435204	1696	1702	stroke	T038	UMLS:C0948008
+27435204	1716	1721	women	T098	UMLS:C0043210
+27435204	1726	1743	African-Americans	T098	UMLS:C0085756
+27435204	1787	1796	Caregiver	T097	UMLS:C0085537
+27435204	1875	1880	acute	T058	UMLS:C0679878

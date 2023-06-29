@@ -1,0 +1,17 @@
+28217766|t|Visualization for Understanding Uncertainty in Activation Volumes for Deep Brain Stimulation
+28217766|a|We have created the Neurostimulation Uncertainty Viewer (nuView or νView) tool for exploring data arising from deep brain stimulation (DBS). Simulated volume of tissue activated (VTA), using clinical electrode placements, are recorded along with patient outcomes in the Unified Parkinson's disease rating scale (UPDRS). The data is volumetric and sparse, with multi-value patient results for each activated voxel in the simulation. νView provides a collection of visual methods to explore the activated tissue to enhance understanding of electrode usage for improved therapy with DBS.
+28217766	32	43	Uncertainty	T033	UMLS:C0087130
+28217766	70	92	Deep Brain Stimulation	T058	UMLS:C0394162
+28217766	113	171	Neurostimulation Uncertainty Viewer (nuView or νView) tool	T170	UMLS:C0282574
+28217766	204	226	deep brain stimulation	T058	UMLS:C0394162
+28217766	228	231	DBS	T058	UMLS:C0394162
+28217766	234	243	Simulated	T062	UMLS:C0679083
+28217766	284	313	clinical electrode placements	T058	UMLS:C0430022
+28217766	363	403	Unified Parkinson's disease rating scale	T170	UMLS:C3639721
+28217766	405	410	UPDRS	T170	UMLS:C3639721
+28217766	513	523	simulation	T062	UMLS:C0679083
+28217766	556	570	visual methods	T170	UMLS:C0025663
+28217766	596	602	tissue	T017	UMLS:C0040300
+28217766	631	640	electrode	T074	UMLS:C0013812
+28217766	660	667	therapy	T058	UMLS:C0087111
+28217766	673	676	DBS	T058	UMLS:C0394162

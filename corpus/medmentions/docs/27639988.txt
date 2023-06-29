@@ -1,0 +1,73 @@
+27639988|t|Pharmacogenetic reactivation of the original engram evokes an extinguished fear memory
+27639988|a|Fear memory extinction has several characteristic behavioral features, such as spontaneous recovery, renewal, and reinstatement, suggesting that extinction training does not erase the original association between the conditioned stimulus (CS) and the unconditioned stimulus (US). However, it is unclear whether reactivation of the original physical record of memory (i.e., memory trace) is sufficient to produce conditioned fear response after extinction. Here, we performed pharmacogenetic neuronal activation using transgenic mice expressing hM3Dq DREADD (designer receptor exclusively activated by designer drug) under the control of the activity - dependent c-fos gene promoter. Neuronal ensembles activated during fear - conditioned learning were tagged with hM3Dq and subsequently reactivated after extinction training. The mice exhibited significant freezing, even when the fear memory was no longer triggered by external CS, indicating that the artificial reactivation of a specific neuronal ensemble was sufficient to evoke the extinguished fear response. This freezing was not observed in non-fear-conditioned mice expressing hM3dq in the same brain areas. These results directly demonstrated that at least part of the original fear memory trace remains after extinction, and such residual plasticity might reflect the persistent memory.
+27639988	0	28	Pharmacogenetic reactivation	T052	C4086768
+27639988	36	44	original	T078	C0205313
+27639988	45	51	engram	T041	C0679061
+27639988	75	79	fear	T041	C0015726
+27639988	80	86	memory	T041	C0025260
+27639988	87	91	Fear	T041	C0015726
+27639988	92	98	memory	T041	C0025260
+27639988	99	109	extinction	T041	C0015347
+27639988	122	136	characteristic	T080	C1521970
+27639988	137	147	behavioral	T053	C0004927
+27639988	148	156	features	T080	C2348519
+27639988	166	177	spontaneous	T169	C0205359
+27639988	178	186	recovery	T052	C0237820
+27639988	188	195	renewal	T169	C0205245
+27639988	201	214	reinstatement	T079	C0678335
+27639988	232	242	extinction	T041	C0015347
+27639988	243	251	training	T065	C0220931
+27639988	271	279	original	T078	C0205313
+27639988	280	291	association	T080	C0439849
+27639988	304	365	conditioned stimulus (CS) and the unconditioned stimulus (US)	UnknownType	C0679068
+27639988	398	410	reactivation	T052	C4086768
+27639988	418	426	original	T078	C0205313
+27639988	427	452	physical record of memory	T041	C0870873
+27639988	460	472	memory trace	T041	C0870873
+27639988	499	510	conditioned	T041	C0009647
+27639988	511	515	fear	T041	C0015726
+27639988	516	524	response	T032	C0871261
+27639988	531	541	extinction	T041	C0015347
+27639988	562	597	pharmacogenetic neuronal activation	T043	C0007613
+27639988	604	619	transgenic mice	T015	C0025936
+27639988	620	630	expressing	T045	C1171362
+27639988	631	643	hM3Dq DREADD	T116,T192	C0682972
+27639988	645	701	designer receptor exclusively activated by designer drug	T116,T192	C0682972
+27639988	713	720	control	T080	C0243148
+27639988	728	736	activity	T052	C0441655
+27639988	739	748	dependent	T169	C3244310
+27639988	749	759	c-fos gene	T028	C0085940
+27639988	760	768	promoter	T028	C0314621
+27639988	770	788	Neuronal ensembles	T025	C0027882
+27639988	789	798	activated	T043	C1326120
+27639988	806	810	fear	T041	C0015726
+27639988	813	833	conditioned learning	T041	C0023185
+27639988	851	856	hM3Dq	T116,T192	C0682972
+27639988	874	885	reactivated	T052	C4086768
+27639988	892	902	extinction	T041	C0015347
+27639988	903	911	training	T065	C0220931
+27639988	917	921	mice	T015	C0025936
+27639988	944	952	freezing	T070	C0016701
+27639988	968	972	fear	T041	C0015726
+27639988	973	979	memory	T041	C0025260
+27639988	994	1006	triggered by	T080	C1444748
+27639988	1007	1015	external	T169	C0521134
+27639988	1016	1018	CS	T041	C0234404
+27639988	1040	1050	artificial	T080	C2004457
+27639988	1051	1063	reactivation	T052	C4086768
+27639988	1078	1095	neuronal ensemble	T025	C0027882
+27639988	1137	1141	fear	T041	C0015726
+27639988	1142	1150	response	T032	C0871261
+27639988	1157	1165	freezing	T070	C0016701
+27639988	1186	1211	non-fear-conditioned mice	T015	C0025936
+27639988	1212	1222	expressing	T045	C1171362
+27639988	1223	1228	hM3dq	T116,T192	C0682972
+27639988	1241	1252	brain areas	T029	C1273723
+27639988	1316	1324	original	T078	C0205313
+27639988	1325	1329	fear	T041	C0015726
+27639988	1330	1342	memory trace	T041	C0870873
+27639988	1357	1367	extinction	T041	C0015347
+27639988	1378	1386	residual	T080	C1609982
+27639988	1387	1397	plasticity	T042	C0027880
+27639988	1416	1426	persistent	T079	C0205322
+27639988	1427	1433	memory	T041	C0025260

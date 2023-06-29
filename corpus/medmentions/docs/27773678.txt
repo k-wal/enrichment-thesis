@@ -1,0 +1,75 @@
+27773678|t|Heart rate variability: Pre-deployment predictor of post-deployment PTSD symptoms
+27773678|a|Heart rate variability is a physiological measure associated with autonomic nervous system activity. This study hypothesized that lower pre-deployment HRV would be associated with higher post-deployment post-traumatic stress disorder (PTSD) symptoms. Three-hundred-forty-three Army National Guard soldiers enrolled in the Warriors Achieving Resilience (WAR) study were analyzed. The primary outcome was PTSD symptom severity using the PTSD Checklist - Military version (PCL) measured at baseline, 3- and 12- month post-deployment. Heart rate variability predictor variables included: high frequency power (HF) and standard deviation of the normal cardiac inter-beat interval (SDNN). Generalized linear mixed models revealed that the pre-deployment PCL * ln(HF) interaction term was significant (p<0.0001). Pre-deployment SDNN was not a significant predictor of post-deployment PCL. Covariates included age, pre-deployment PCL, race / ethnicity, marital status, tobacco use, childhood abuse, pre-deployment traumatic brain injury, and previous combat zone deployment. Pre-deployment heart rate variability predicts post-deployment PTSD symptoms in the context of higher pre-deployment PCL scores.
+27773678	0	10	Heart rate	T201	C0018810
+27773678	11	22	variability	T077	C2827666
+27773678	24	38	Pre-deployment	T079	C1254367
+27773678	39	48	predictor	T078	C2698872
+27773678	52	67	post-deployment	T079	C1254367
+27773678	68	72	PTSD	T048	C0038436
+27773678	73	81	symptoms	T184	C1457887
+27773678	82	92	Heart rate	T201	C0018810
+27773678	93	104	variability	T077	C2827666
+27773678	148	172	autonomic nervous system	T022	C0004388
+27773678	173	181	activity	T052	C0441655
+27773678	188	193	study	T062	C2603343
+27773678	218	232	pre-deployment	T079	C1254367
+27773678	233	236	HRV	T039	C2350828
+27773678	269	284	post-deployment	T079	C1254367
+27773678	285	315	post-traumatic stress disorder	T048	C0038436
+27773678	317	321	PTSD	T048	C0038436
+27773678	323	331	symptoms	T184	C1457887
+27773678	359	387	Army National Guard soldiers	T097	C0524647
+27773678	404	445	Warriors Achieving Resilience (WAR) study	T062	C2603343
+27773678	473	480	outcome	T169	C1274040
+27773678	485	489	PTSD	T048	C0038436
+27773678	490	497	symptom	T184	C1457887
+27773678	498	506	severity	T080	C0392364
+27773678	517	521	PTSD	T048	C0038436
+27773678	522	531	Checklist	T170	C0451524
+27773678	534	542	Military	T097	C3245458
+27773678	543	550	version	T170	C0333052
+27773678	552	555	PCL	T170	C0451524
+27773678	569	577	baseline	T081	C1442488
+27773678	590	595	month	T079	C0439231
+27773678	596	611	post-deployment	T079	C1254367
+27773678	613	623	Heart rate	T201	C0018810
+27773678	624	635	variability	T077	C2827666
+27773678	636	645	predictor	T078	C2698872
+27773678	646	655	variables	T080	C0439828
+27773678	666	686	high frequency power	T081	C3854080
+27773678	688	690	HF	T081	C3854080
+27773678	696	714	standard deviation	T081	C0871420
+27773678	729	747	cardiac inter-beat	T042	C0425583
+27773678	748	756	interval	T079	C1272706
+27773678	758	762	SDNN	T079	C1272706
+27773678	777	796	linear mixed models	T170	C3161035
+27773678	815	829	pre-deployment	T079	C1254367
+27773678	830	833	PCL	T170	C0451524
+27773678	836	854	ln(HF) interaction	T081	C0237688
+27773678	888	902	Pre-deployment	T079	C1254367
+27773678	903	907	SDNN	T079	C1272706
+27773678	930	939	predictor	T078	C2698872
+27773678	943	958	post-deployment	T079	C1254367
+27773678	959	962	PCL	T170	C0451524
+27773678	964	974	Covariates	T080	C0439828
+27773678	984	987	age	T032	C0001779
+27773678	989	1003	pre-deployment	T079	C1254367
+27773678	1004	1007	PCL	T170	C0451524
+27773678	1009	1013	race	T098	C0034510
+27773678	1016	1025	ethnicity	T098	C0015031
+27773678	1027	1041	marital status	T102	C0024819
+27773678	1043	1054	tobacco use	T055	C0543414
+27773678	1056	1071	childhood abuse	T048	C0008060
+27773678	1073	1087	pre-deployment	T079	C1254367
+27773678	1088	1110	traumatic brain injury	T037	C0876926
+27773678	1125	1136	combat zone	T082	C1710706
+27773678	1137	1147	deployment	T052	C2825812
+27773678	1149	1163	Pre-deployment	T079	C1254367
+27773678	1164	1174	heart rate	T201	C0018810
+27773678	1175	1186	variability	T077	C2827666
+27773678	1196	1211	post-deployment	T079	C1254367
+27773678	1212	1216	PTSD	T048	C0038436
+27773678	1217	1225	symptoms	T184	C1457887
+27773678	1251	1265	pre-deployment	T079	C1254367
+27773678	1266	1269	PCL	T170	C0451524
+27773678	1270	1276	scores	T081	C0449820

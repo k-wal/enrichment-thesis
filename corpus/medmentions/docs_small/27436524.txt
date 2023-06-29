@@ -1,0 +1,34 @@
+27436524|t|Effects of complex life cycles on genetic diversity: cyclical parthenogenesis
+27436524|a|Neutral patterns of population genetic diversity in species with complex life cycles are difficult to anticipate. Cyclical parthenogenesis (CP), in which organisms undergo several rounds of clonal reproduction followed by a sexual event, is one such life cycle. Many species, including crop pests (aphids), human parasites (trematodes) or models used in evolutionary science (Daphnia), are cyclical parthenogens. It is therefore crucial to understand the impact of such a life cycle on neutral genetic diversity. In this paper, we describe distributions of genetic diversity under conditions of CP with various clonal phase lengths. Using a Markov chain model of CP for a single locus and individual-based simulations for two loci, our analysis first demonstrates that strong departures from full sexuality are observed after only a few generations of clonality. The convergence towards predictions made under conditions of full clonality during the clonal phase depends on the balance between mutations and genetic drift. Second, the sexual event of CP usually resets the genetic diversity at a single locus towards predictions made under full sexuality. However, this single recombination event is insufficient to reshuffle gametic phases towards full-sexuality predictions. Finally, for similar levels of clonality, CP and acyclic partial clonality (wherein a fixed proportion of individuals are clonally produced within each generation) differentially affect the distribution of genetic diversity. Overall, this work provides solid predictions of neutral genetic diversity that may serve as a null model in detecting the action of common evolutionary or demographic processes in cyclical parthenogens (for example, selection or bottlenecks).
+27436524	53	77	cyclical parthenogenesis	T038	UMLS:C0030596
+27436524	98	108	population	T098	UMLS:C1257890
+27436524	130	137	species	T170	UMLS:C1705920
+27436524	192	216	Cyclical parthenogenesis	T038	UMLS:C0030596
+27436524	218	220	CP	T038	UMLS:C0030596
+27436524	268	274	clonal	T017	UMLS:C1522642
+27436524	275	287	reproduction	T038	UMLS:C0035150
+27436524	345	352	species	T170	UMLS:C1705920
+27436524	364	368	crop	T204	UMLS:C0242775
+27436524	376	382	aphids	T204	UMLS:C0003562
+27436524	385	400	human parasites	T204	UMLS:C0585165
+27436524	402	412	trematodes	T204	UMLS:C3889286
+27436524	417	423	models	T170	UMLS:C3161035
+27436524	432	452	evolutionary science	T091	UMLS:C0017398
+27436524	454	461	Daphnia	T204	UMLS:C0010979
+27436524	673	675	CP	T038	UMLS:C0030596
+27436524	689	695	clonal	T017	UMLS:C1522642
+27436524	741	743	CP	T038	UMLS:C0030596
+27436524	757	762	locus	T082	UMLS:C1708726
+27436524	784	795	simulations	T062	UMLS:C0679083
+27436524	804	808	loci	T082	UMLS:C1708726
+27436524	1028	1034	clonal	T017	UMLS:C1522642
+27436524	1072	1081	mutations	T038	UMLS:C0026882
+27436524	1086	1099	genetic drift	T038	UMLS:C0917892
+27436524	1129	1131	CP	T038	UMLS:C0030596
+27436524	1181	1186	locus	T082	UMLS:C1708726
+27436524	1255	1268	recombination	T038	UMLS:C0034865
+27436524	1304	1318	gametic phases	T038	UMLS:C0007613
+27436524	1397	1399	CP	T038	UMLS:C0030596
+27436524	1461	1472	individuals	T098	UMLS:C0237401
+27436524	1675	1685	null model	T170	UMLS:C3161035
+27436524	1720	1732	evolutionary	T038	UMLS:C0015219

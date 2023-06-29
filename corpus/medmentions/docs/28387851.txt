@@ -1,0 +1,80 @@
+28387851|t|Does Intrawound Vancomycin Application During Spine Surgery Create Vancomycin-Resistant Organism?
+28387851|a|Surgical site infection (SSI) following spine surgery is a morbid and expensive complication. The use of intrawound vancomycin is emerging as a solution to reduce SSI. The development of vancomycin-resistant pathogens is an understandable concern. To determine the occurrence of vancomycin-resistant SSI in patients with and without use of intrawound vancomycin. Patients undergoing elective spine surgery were dichotomized based on whether intrawound vancomycin was applied. Outcome was occurrence of SSI requiring return to the operating room within postoperative 90 days. The intrawound culture and vancomycin minimal inhibitory concentrations (MIC) were reviewed. Analyses were conducted to compare the pathogen profile and MIC for vancomycin in patients who received vancomycin and those who did not. Of the total 2802 patients, 43% (n = 1215) had intrawound vancomycin application during the index surgery. The use of vancomycin was associated with significantly lower deep SSI rates (1.6% [n = 20] vs 2.5% [n = 40], P = .02). The occurrence of Staphylococcus aureus SSI was significantly lower in the patients who had application of intrawound vancomycin (32% vs 65%, P = .003). None of the patients who had application of intrawound vancomycin powder, and subsequently developed an S aureus SSI, demonstrated pathogens with resistance to vancomycin. All patients had MIC < 2 μg/mL, the vancomycin susceptibility threshold. The occurrence of gram-negative SSI (28% vs 7%) and culture negative fluid collection (16% vs 5%) was higher in the vancomycin cohort. The use of intrawound vancomycin during the index spine surgery was protective against SSI following spine surgery. The application of intrawound vancomycin during index surgery does not appear to create vancomycin-resistant organisms in the event of an SSI.
+28387851	5	26	Intrawound Vancomycin	T116,T195	C0042313
+28387851	27	38	Application	T169	C4048755
+28387851	46	59	Spine Surgery	T061	C2608059
+28387851	67	87	Vancomycin-Resistant	T032	C0752078
+28387851	88	96	Organism	T001	C0029235
+28387851	98	121	Surgical site infection	T046	C0038941
+28387851	123	126	SSI	T046	C0038941
+28387851	138	151	spine surgery	T061	C2608059
+28387851	157	163	morbid	T080	C0205556
+28387851	168	190	expensive complication	T169	C1171258
+28387851	203	224	intrawound vancomycin	T116,T195	C0042313
+28387851	261	264	SSI	T046	C0038941
+28387851	285	305	vancomycin-resistant	T032	C0752078
+28387851	306	315	pathogens	T001	C0450254
+28387851	363	373	occurrence	T079	C2745955
+28387851	377	397	vancomycin-resistant	T032	C0752078
+28387851	398	401	SSI	T046	C0038941
+28387851	405	413	patients	T101	C0030705
+28387851	438	459	intrawound vancomycin	T116,T195	C0042313
+28387851	461	469	Patients	T101	C0030705
+28387851	461	469	Patients	T101	C0030705
+28387851	490	503	spine surgery	T061	C2608059
+28387851	509	521	dichotomized	T080	C0443299
+28387851	539	560	intrawound vancomycin	T116,T195	C0042313
+28387851	586	596	occurrence	T079	C2745955
+28387851	600	603	SSI	T046	C0038941
+28387851	628	642	operating room	T073,T093	C0029064
+28387851	650	671	postoperative 90 days	T079	C0032790
+28387851	677	695	intrawound culture	T059	C0596932
+28387851	700	710	vancomycin	T116,T195	C0042313
+28387851	711	744	minimal inhibitory concentrations	T059	C0427978
+28387851	746	749	MIC	T059	C0427978
+28387851	805	821	pathogen profile	T001	C0450254
+28387851	826	829	MIC	T059	C0427978
+28387851	834	844	vancomycin	T116,T195	C0042313
+28387851	848	856	patients	T101	C0030705
+28387851	870	880	vancomycin	T116,T195	C0042313
+28387851	922	930	patients	T101	C0030705
+28387851	951	972	intrawound vancomycin	T116,T195	C0042313
+28387851	985	1009	during the index surgery	T079	C1254367
+28387851	1022	1032	vancomycin	T116,T195	C0042313
+28387851	1053	1072	significantly lower	T081	C4055638
+28387851	1078	1081	SSI	T046	C0038941
+28387851	1082	1087	rates	T023	C0037993
+28387851	1135	1145	occurrence	T079	C2745955
+28387851	1149	1170	Staphylococcus aureus	T007	C0038172
+28387851	1171	1174	SSI	T046	C0038941
+28387851	1179	1198	significantly lower	T081	C4055638
+28387851	1206	1214	patients	T101	C0030705
+28387851	1223	1234	application	T169	C4048755
+28387851	1238	1259	intrawound vancomycin	T116,T195	C0042313
+28387851	1296	1304	patients	T101	C0030705
+28387851	1313	1324	application	T169	C4048755
+28387851	1328	1356	intrawound vancomycin powder	T116,T195	C0042313
+28387851	1388	1396	S aureus	T007	C0038172
+28387851	1397	1400	SSI	T046	C0038941
+28387851	1415	1424	pathogens	T001	C0450254
+28387851	1430	1454	resistance to vancomycin	T033	C3265908
+28387851	1460	1468	patients	T101	C0030705
+28387851	1473	1476	MIC	T059	C0427978
+28387851	1492	1502	vancomycin	T116,T195	C0042313
+28387851	1533	1543	occurrence	T079	C2745955
+28387851	1547	1560	gram-negative	T047	C0085423
+28387851	1561	1564	SSI	T046	C0038941
+28387851	1581	1614	culture negative fluid collection	T033	C0429652
+28387851	1631	1637	higher	T080	C0205250
+28387851	1645	1655	vancomycin	T116,T195	C0042313
+28387851	1656	1662	cohort	T098	C0599755
+28387851	1675	1696	intrawound vancomycin	T116,T195	C0042313
+28387851	1714	1727	spine surgery	T061	C2608059
+28387851	1751	1754	SSI	T046	C0038941
+28387851	1765	1778	spine surgery	T061	C2608059
+28387851	1784	1795	application	T169	C4048755
+28387851	1799	1820	intrawound vancomycin	T116,T195	C0042313
+28387851	1821	1841	during index surgery	T079	C1254367
+28387851	1868	1888	vancomycin-resistant	T032	C0752078
+28387851	1889	1898	organisms	T001	C0029235
+28387851	1918	1921	SSI	T046	C0038941

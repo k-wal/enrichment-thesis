@@ -1,0 +1,81 @@
+27742630|t|Predicting frequent hospital admission risk in Singapore: a retrospective cohort study to investigate the impact of comorbidities, acute illness burden and social determinants of health
+27742630|a|To evaluate the impact of comorbidities, acute illness burden and social determinants of health on predicting the risk of frequent hospital admissions. Multivariable logistic regression was used to associate the predictive variables extracted from electronic health records and frequent hospital admission risk. The model's performance of our predictive model was evaluated using a 10-fold cross-validation. A single tertiary hospital in Singapore. All adult patients admitted to the hospital between 1 January 2013 and 31 May 2014 (n=25 244). Frequent hospital admissions, defined as 3 or more inpatient admissions within 12 months of discharge. Ar ea under the receiver operating characteristic curve (AUC) of the predictive model, and the sensitivity, specificity and positive predictive values for various cut-offs. 4322 patients (17.1%) met the primary outcome. 11 variables were observed as significant predictors and included in the final regression model. The strongest independent predictor was treatment with antidepressants in the past 1 year (adjusted OR 2.51, 95% CI 2.26 to 2.78). Other notable predictors include requiring dialysis and treatment with intravenous furosemide during the index admission. The predictive model achieved an AUC of 0.84 (95% CI 0.83 to 0.85) for predicting frequent hospital admission risk, with a sensitivity of 73.9% (95% CI 72.6% to 75.2%), specificity of 79.1% (78.5% to 79.6%) and positive predictive value of 42.2% (95% CI 41.1% to 43.3%) at the cut-off of 0.235. We have identified several predictors for assessing the risk of frequent hospital admissions that achieved high discriminative model performance. Further research is necessary using an external validation cohort.
+27742630	0	10	Predicting	T078	C0681842
+27742630	11	19	frequent	T079	C0332183
+27742630	20	38	hospital admission	T058	C0184666
+27742630	39	43	risk	T078	C0035647
+27742630	47	56	Singapore	T083	C0037173
+27742630	60	86	retrospective cohort study	T062	C2985505
+27742630	106	112	impact	T080	C4049986
+27742630	116	129	comorbidities	T078	C0009488
+27742630	131	144	acute illness	T046	C4061114
+27742630	137	151	illness burden	T081	C0162698
+27742630	156	185	social determinants of health	T058	C3658315
+27742630	202	208	impact	T080	C4049986
+27742630	212	225	comorbidities	T078	C0009488
+27742630	227	240	acute illness	T046	C4061114
+27742630	233	247	illness burden	T081	C0162698
+27742630	252	281	social determinants of health	T058	C3658315
+27742630	285	295	predicting	T078	C0681842
+27742630	300	304	risk	T078	C0035647
+27742630	308	316	frequent	T079	C0332183
+27742630	317	336	hospital admissions	T058	C0184666
+27742630	338	371	Multivariable logistic regression	T062	C0206031
+27742630	398	418	predictive variables	T170	C0683956
+27742630	434	459	electronic health records	T170	C2362543
+27742630	464	472	frequent	T079	C0332183
+27742630	473	491	hospital admission	T058	C0184666
+27742630	492	496	risk	T078	C0035647
+27742630	502	509	model's	T170	C0086272
+27742630	510	521	performance	T052	C1882330
+27742630	529	545	predictive model	T170	C0086272
+27742630	576	592	cross-validation	T062	C0681935
+27742630	603	620	tertiary hospital	T073,T093	C0337954
+27742630	624	633	Singapore	T083	C0037173
+27742630	639	644	adult	T100	C0001675
+27742630	645	653	patients	T101	C0030705
+27742630	670	678	hospital	T073,T093	C0019994
+27742630	730	738	Frequent	T079	C0332183
+27742630	739	758	hospital admissions	T058	C0184666
+27742630	781	801	inpatient admissions	T058	C0030673
+27742630	822	831	discharge	T058	C0030685
+27742630	836	888	ea under the receiver operating characteristic curve	T081	C0376690
+27742630	890	893	AUC	T081	C0376690
+27742630	902	918	predictive model	T170	C0086272
+27742630	928	939	sensitivity	T081	C1511883
+27742630	941	952	specificity	T081	C0037791
+27742630	957	983	positive predictive values	T081	C1514243
+27742630	1011	1019	patients	T101	C0030705
+27742630	1036	1051	primary outcome	T080	C3274433
+27742630	1056	1065	variables	T080	C0439828
+27742630	1095	1105	predictors	T078	C2698872
+27742630	1164	1175	independent	T169	C0870693
+27742630	1176	1185	predictor	T078	C2698872
+27742630	1190	1199	treatment	T061	C0087111
+27742630	1205	1220	antidepressants	T121	C0003289
+27742630	1250	1252	OR	T081	C0028873
+27742630	1263	1265	CI	T081	C0009667
+27742630	1295	1305	predictors	T078	C2698872
+27742630	1324	1332	dialysis	T061	C0011946
+27742630	1337	1346	treatment	T061	C0087111
+27742630	1352	1363	intravenous	T082	C0348016
+27742630	1364	1374	furosemide	T109,T121	C0016860
+27742630	1407	1423	predictive model	T170	C0086272
+27742630	1436	1439	AUC	T081	C0376690
+27742630	1453	1455	CI	T081	C0009667
+27742630	1474	1484	predicting	T078	C0681842
+27742630	1485	1493	frequent	T079	C0332183
+27742630	1494	1512	hospital admission	T058	C0184666
+27742630	1513	1517	risk	T078	C0035647
+27742630	1526	1537	sensitivity	T081	C1511883
+27742630	1552	1554	CI	T081	C0009667
+27742630	1572	1583	specificity	T081	C0037791
+27742630	1614	1639	positive predictive value	T081	C1514243
+27742630	1654	1656	CI	T081	C0009667
+27742630	1725	1735	predictors	T078	C2698872
+27742630	1740	1758	assessing the risk	T058	C0086930
+27742630	1762	1770	frequent	T079	C0332183
+27742630	1771	1790	hospital admissions	T058	C0184666
+27742630	1825	1830	model	T170	C0086272
+27742630	1831	1842	performance	T052	C1882330
+27742630	1903	1909	cohort	T098	C0599755

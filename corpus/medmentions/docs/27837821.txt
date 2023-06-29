@@ -1,0 +1,59 @@
+27837821|t|Electronic tongues to assess wine sensory descriptors
+27837821|a|This work reports the application of an electronic tongue as a tool towards the analysis of wine in tasks such as its discrimination based on the maturing in barrels or the prediction of the global scores assigned by a sensory panel. To this aim, red wine samples were first analysed with the voltammetric sensor array, without performing any sample pretreatment. Afterwards, obtained responses were preprocessed employing fast Fourier transform (FFT) for the compression and reduction of signal complexity, and obtained coefficients were then used as inputs to build the qualitative and quantitative models employing either linear discriminant analysis (LDA) or partial least squares regression (PLS), respectively. Satisfactory results were obtained overall, with a classification rate of 100% in the discrimination of the type of barrel used during wine maturing, a normalized NRMSE of 0.077 in the estimation of ageing time (months) or 0.11 in the prediction of the scores (0-10) from a trained sensory panel (all for the external test subset).
+27837821	0	18	Electronic tongues	T073	C4279906
+27837821	29	33	wine	T168	C0043188
+27837821	34	41	sensory	T080	C0445254
+27837821	42	53	descriptors	T170	C0282354
+27837821	59	63	work	T057	C0043227
+27837821	64	71	reports	T170	C0684224
+27837821	76	87	application	T169	C4048755
+27837821	94	111	electronic tongue	T073	C4279906
+27837821	117	121	tool	T073	C0336791
+27837821	134	142	analysis	T062	C0936012
+27837821	146	150	wine	T168	C0043188
+27837821	172	186	discrimination	T078	C0242568
+27837821	200	208	maturing	T079	C0205286
+27837821	212	219	barrels	T073	C3273359
+27837821	227	237	prediction	T078	C0681842
+27837821	245	251	global	T080	C2348867
+27837821	252	258	scores	T081	C0449820
+27837821	273	286	sensory panel	T097	C0027363
+27837821	301	309	red wine	T168	C0349371
+27837821	310	317	samples	T167	C0370003
+27837821	329	337	analysed	T062	C0936012
+27837821	347	372	voltammetric sensor array	T073	C0183210
+27837821	397	403	sample	T167	C0370003
+27837821	404	416	pretreatment	T052	C3539076
+27837821	439	448	responses	T169	C0443286
+27837821	454	466	preprocessed	T067	C1522240
+27837821	477	499	fast Fourier transform	T170	C0002045
+27837821	501	504	FFT	T170	C0002045
+27837821	514	525	compression	T070	C0728907
+27837821	530	539	reduction	T080	C0392756
+27837821	543	549	signal	T067	C1710082
+27837821	550	560	complexity	T080	C0439855
+27837821	575	587	coefficients	T081	C1707429
+27837821	606	612	inputs	T077	C1708517
+27837821	626	637	qualitative	T080	C0205556
+27837821	642	654	quantitative	T081	C0392762
+27837821	655	661	models	T075	C0026336
+27837821	679	707	linear discriminant analysis	T062	C0012630
+27837821	709	712	LDA	T062	C0012630
+27837821	717	749	partial least squares regression	T170	C0034980
+27837821	751	754	PLS	T170	C0034980
+27837821	784	791	results	T033	C0683954
+27837821	822	836	classification	T185	C0008902
+27837821	837	841	rate	T081	C1521828
+27837821	857	871	discrimination	T078	C0242568
+27837821	887	893	barrel	T073	C3273359
+27837821	906	910	wine	T168	C0043188
+27837821	911	919	maturing	T079	C0205286
+27837821	923	939	normalized NRMSE	T081	C0079809
+27837821	970	976	ageing	T040	C0001811
+27837821	977	981	time	T079	C0040223
+27837821	983	989	months	T079	C0439231
+27837821	1006	1016	prediction	T078	C0681842
+27837821	1024	1030	scores	T081	C0449820
+27837821	1045	1066	trained sensory panel	T097	C0027363
+27837821	1089	1093	test	T169	C0039593
+27837821	1094	1100	subset	T185	C1515021

@@ -1,0 +1,54 @@
+27267564|t|Proteome changes in rat serum after a chronic ingestion of enriched uranium: Toward a biological signature of internal contamination and radiological effect
+27267564|a|The civilian and military use of uranium results in an increased risk of human exposure. The toxicity of uranium results from both its chemical and radiological properties that vary with isotopic composition. Validated biomarkers of health effects associated with exposure to uranium are neither sensitive nor specific to uranium radiotoxicity and/or radiological effect. This study aimed at investigating if serum proteins could be useful as biomarkers of both uranium exposure and radiological effect. Male Sprague-Dawley rats were chronically exposed through drinking water to low levels (40mg/L, corresponding to 1mg of uranium per animal per day) of either 4% (235) U-enriched uranium (EU) or 12% EU during 6 weeks. A proteomics approach based on two-dimensional electrophoresis (2D-DIGE) and mass spectrometry (MS) was used to establish protein expression profiles that could be relevant for discriminating between groups, and to identify some differentially expressed proteins following uranium ingestion. It demonstrated that the expressions of 174 protein spots over 1045 quantified spots were altered after uranium exposure (p<0.05). Using both inferential and non-supervised multivariate statistics, we show sets of spots features that lead to a clear discrimination between controls and EU exposed groups on the one hand (21 spots), and between 4% EU and 12% EU on the other hand (7 spots), showing that investigation of the serum proteome may possibly be of relevance to address both uranium contamination and radiological effect. Finally, using bioinformatics tools, pathway analyses of differentially expressed MS - identified proteins find that acute phase, inflammatory and immune responses as well as oxidative stress are likely involved in the response to contamination, suggesting a physiological perturbation, but that does not necessarily lead to a toxic effect.
+27267564	0	8	Proteome	T103	UMLS:C0751973
+27267564	20	23	rat	T204	UMLS:C0034721
+27267564	24	29	serum	T031	UMLS:C0229671
+27267564	38	55	chronic ingestion	T038	UMLS:C0232478
+27267564	68	75	uranium	T103	UMLS:C0041928
+27267564	86	106	biological signature	T201	UMLS:C0005516
+27267564	174	182	military	T097	UMLS:C3245458
+27267564	190	197	uranium	T103	UMLS:C0041928
+27267564	230	235	human	T204	UMLS:C0086418
+27267564	250	258	toxicity	T037	UMLS:C0600688
+27267564	262	269	uranium	T103	UMLS:C0041928
+27267564	353	364	composition	T201	UMLS:C0486616
+27267564	376	386	biomarkers	T201	UMLS:C0005516
+27267564	433	440	uranium	T103	UMLS:C0041928
+27267564	479	486	uranium	T103	UMLS:C0041928
+27267564	487	500	radiotoxicity	T037	UMLS:C2747839
+27267564	566	580	serum proteins	T103	UMLS:C0036825
+27267564	600	610	biomarkers	T201	UMLS:C0005516
+27267564	666	685	Sprague-Dawley rats	T204	UMLS:C2699239
+27267564	781	788	uranium	T103	UMLS:C0041928
+27267564	793	799	animal	T204	UMLS:C0003062
+27267564	828	846	U-enriched uranium	T103	UMLS:C0041928
+27267564	848	850	EU	T103	UMLS:C0041928
+27267564	859	861	EU	T103	UMLS:C0041928
+27267564	880	890	proteomics	T091	UMLS:C0872252
+27267564	942	949	2D-DIGE	T058	UMLS:C2936240
+27267564	955	972	mass spectrometry	T058	UMLS:C0037813
+27267564	974	976	MS	T058	UMLS:C0037813
+27267564	1000	1018	protein expression	T038	UMLS:C1171362
+27267564	1019	1027	profiles	T058	UMLS:C1979963
+27267564	1122	1140	expressed proteins	T038	UMLS:C1171362
+27267564	1151	1158	uranium	T103	UMLS:C0041928
+27267564	1159	1168	ingestion	T038	UMLS:C0232478
+27267564	1195	1206	expressions	T038	UMLS:C1171362
+27267564	1214	1227	protein spots	T103	UMLS:C0033684
+27267564	1249	1254	spots	T103	UMLS:C0033684
+27267564	1328	1366	non-supervised multivariate statistics	T062	UMLS:C0010101
+27267564	1384	1389	spots	T103	UMLS:C0033684
+27267564	1494	1499	spots	T103	UMLS:C0033684
+27267564	1517	1519	EU	T103	UMLS:C0041928
+27267564	1528	1530	EU	T103	UMLS:C0041928
+27267564	1552	1557	spots	T103	UMLS:C0033684
+27267564	1594	1599	serum	T031	UMLS:C0229671
+27267564	1600	1608	proteome	T103	UMLS:C0751973
+27267564	1654	1661	uranium	T103	UMLS:C0041928
+27267564	1738	1754	pathway analyses	T170	UMLS:C0868995
+27267564	1773	1782	expressed	T038	UMLS:C1171362
+27267564	1783	1785	MS	T058	UMLS:C0037813
+27267564	1799	1807	proteins	T103	UMLS:C0033684
+27267564	1848	1864	immune responses	T038	UMLS:C0301872
+27267564	1876	1892	oxidative stress	T038	UMLS:C0242606
+27267564	2028	2040	toxic effect	T037	UMLS:C0600688

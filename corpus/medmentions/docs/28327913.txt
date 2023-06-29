@@ -1,0 +1,105 @@
+28327913|t|The use of Oxford Nanopore native barcoding for complete genome assembly
+28327913|a|The Oxford Nanopore Technologies MinION(TM) is a mobile DNA sequencer that can produce long read sequences with a short turn-around time. Here we report the first demonstration of single contig genome assembly using Oxford Nanopore native barcoding when applied to a multiplexed library of 12 samples and combined with existing Illumina short-read data. This paves the way for the closure of multiple bacterial genomes from a single MinION(TM) sequencing run, given the availability of existing short-read data. The strain we used, MHO_001, represents the important community-acquired methicillin resistant Staphylococcus aureus lineage USA300. Using a hybrid assembly of existing short read and barcoded long read sequences from multiplexed data, we completed a genome of the S. aureus USA300 strain MHO_001. The long-read data represented only ~5-10% of an average MinION(TM) run (~7x genomic coverage), but, using standard tools, this was sufficient to complete the circular chromosome of S. aureus strain MHO_001 (2.86 Mb) and two complete plasmids (27 Kb and 3 Kb). Minor differences were noted when compared to USA300 reference genome, USA300_FPR3757, including the translocation, loss and gain of mobile genetic elements. Here we demonstrate that MinION(TM) reads, multiplexed using native barcoding, can be used in combination with short-read data, to fully complete a bacterial genome. The ability to complete multiple genomes, for which short-read data is already available, from a single MinION(TM) run is set to impact on our understanding of accessory genome content, plasmid diversity and genome rearrangements.
+28327913	4	10	use of	T169	C1524063
+28327913	11	26	Oxford Nanopore	T092	C1561598
+28327913	27	33	native	T169	C0302891
+28327913	34	43	barcoding	T062	C2936547
+28327913	48	56	complete	T080	C0205197
+28327913	57	72	genome assembly	T085	C2348746
+28327913	77	105	Oxford Nanopore Technologies	T092	C1561598
+28327913	106	116	MinION(TM)	T074	C0025080
+28327913	122	128	mobile	T169	C0231435
+28327913	160	179	long read sequences	T086	C0162326
+28327913	193	209	turn-around time	T079	C1254367
+28327913	219	225	report	T170	C0684224
+28327913	253	282	single contig genome assembly	T085	C2348746
+28327913	283	288	using	T169	C1524063
+28327913	289	304	Oxford Nanopore	T092	C1561598
+28327913	305	311	native	T169	C0302891
+28327913	312	321	barcoding	T062	C2936547
+28327913	327	334	applied	T169	C4048755
+28327913	340	359	multiplexed library	T028,T114	C0017430
+28327913	366	373	samples	T077	C2347026
+28327913	378	386	combined	T080	C0205195
+28327913	392	400	existing	T077	C2987476
+28327913	410	425	short-read data	T170	C0950138
+28327913	454	461	closure	T062	C1521802
+28327913	465	473	multiple	T081	C0439064
+28327913	474	491	bacterial genomes	T028	C0085238
+28327913	499	505	single	T081	C0205171
+28327913	506	516	MinION(TM)	T074	C0025080
+28327913	517	527	sequencing	T063	C1328887
+28327913	528	531	run	T169	C1704688
+28327913	543	558	availability of	T169	C0470187
+28327913	559	567	existing	T077	C2987476
+28327913	568	583	short-read data	T170	C0950138
+28327913	589	595	strain	T001	C1518614
+28327913	599	603	used	T169	C1524063
+28327913	605	612	MHO_001	T001	C1518614
+28327913	658	679	methicillin resistant	T032	C0079830
+28327913	680	701	Staphylococcus aureus	T007	C0038172
+28327913	710	716	USA300	T001	C1518614
+28327913	718	723	Using	T169	C1524063
+28327913	733	741	assembly	T085	C2348746
+28327913	745	753	existing	T077	C2987476
+28327913	754	764	short read	T080	C0205556
+28327913	769	797	barcoded long read sequences	T086	C0162326
+28327913	803	819	multiplexed data	T078	C1547368
+28327913	836	842	genome	T028	C0017428
+28327913	850	859	S. aureus	T007	C0038172
+28327913	860	881	USA300 strain MHO_001	T001	C1518614
+28327913	887	901	long-read data	T170	C0950138
+28327913	932	939	average	T081	C1510992
+28327913	940	950	MinION(TM)	T074	C0025080
+28327913	951	954	run	T169	C1704688
+28327913	960	967	genomic	T028	C0017428
+28327913	968	976	coverage	T169	C1999244
+28327913	984	989	using	T169	C1524063
+28327913	990	998	standard	T081	C0034925
+28327913	999	1004	tools	T170	C0037589
+28327913	1015	1025	sufficient	T080	C0205410
+28327913	1029	1037	complete	T080	C0205197
+28327913	1042	1061	circular chromosome	T026	C0035639
+28327913	1065	1074	S. aureus	T007	C0038172
+28327913	1075	1089	strain MHO_001	T001	C1518614
+28327913	1108	1116	complete	T080	C0205197
+28327913	1117	1125	plasmids	T114,T123	C0032136
+28327913	1144	1149	Minor	T080	C0205165
+28327913	1150	1161	differences	T080	C1705242
+28327913	1167	1172	noted	T080	C4288581
+28327913	1178	1186	compared	T052	C1707455
+28327913	1190	1196	USA300	T001	C1518614
+28327913	1207	1213	genome	T028	C0017428
+28327913	1215	1229	USA300_FPR3757	T028	C0085238
+28327913	1231	1240	including	T169	C0332257
+28327913	1245	1258	translocation	T043	C0282583
+28327913	1260	1264	loss	T081	C1517945
+28327913	1269	1273	gain	T081	C1517378
+28327913	1277	1300	mobile genetic elements	T114,T123	C1257903
+28327913	1327	1337	MinION(TM)	T074	C0025080
+28327913	1338	1343	reads	T169	C1704688
+28327913	1345	1356	multiplexed	T169	C0205245
+28327913	1357	1362	using	T169	C1524063
+28327913	1363	1369	native	T169	C0302891
+28327913	1370	1379	barcoding	T062	C2936547
+28327913	1388	1392	used	T169	C1524063
+28327913	1396	1407	combination	T080	C0205195
+28327913	1413	1428	short-read data	T170	C0950138
+28327913	1439	1447	complete	T080	C0205197
+28327913	1450	1466	bacterial genome	T028	C0085238
+28327913	1483	1491	complete	T080	C0205197
+28327913	1492	1500	multiple	T081	C0439064
+28327913	1501	1508	genomes	T028	C0017428
+28327913	1520	1535	short-read data	T170	C0950138
+28327913	1547	1556	available	T033	C0243095
+28327913	1565	1571	single	T081	C0205171
+28327913	1572	1582	MinION(TM)	T074	C0025080
+28327913	1583	1586	run	T169	C1704688
+28327913	1597	1603	impact	T080	C4049986
+28327913	1611	1624	understanding	T041	C0162340
+28327913	1628	1637	accessory	T081	C1883702
+28327913	1638	1652	genome content	T028	C0017428
+28327913	1654	1661	plasmid	T114,T123	C0032136
+28327913	1662	1671	diversity	T080	C1880371
+28327913	1676	1682	genome	T028	C0017428
+28327913	1683	1697	rearrangements	T045	C0017287

@@ -1,0 +1,25 @@
+17910065|t|A novel missense mutation in the paired domain of human PAX9 causes oligodontia.
+17910065|a|PAX9 and MSX1 are transcription factors that play essential roles in craniofacial and limb development. In humans, mutations in both genes are associated with nonsyndromic and syndromic oligodontia, respectively. We screened one family with nonsyndromic oligodontia for mutations in PAX9 and MSX1. Single stranded conformational polymorphism (SSCP) analysis and sequencing revealed a novel heterozygous C139T transition in PAX9 in the affected members of the family. There were no mutations detected in the entire coding sequence of MSX1. The C139T mutation, predicted to result in the substitution of an arginine by a tryptophan (R47W) in the N-terminal subdomain, affected conserved residues in the PAX9 paired domain. To elucidate the pathogenic mechanism producing oligodontia phenotype caused by this mutation, we analyzed the binding of wild-type and mutant PAX9 paired domain protein to double-stranded DNA targets. The R47W mutation dramatically reduced DNA binding suggesting that the mutant protein with consequent haploinsufficiency results in a clinical phenotype.
+17910065	50	55	human	OrganismTaxon	9606
+17910065	56	60	PAX9	GeneOrGeneProduct	5083
+17910065	68	79	oligodontia	DiseaseOrPhenotypicFeature	C538049
+17910065	81	85	PAX9	GeneOrGeneProduct	5083
+17910065	90	94	MSX1	GeneOrGeneProduct	4487
+17910065	188	194	humans	OrganismTaxon	9606
+17910065	240	278	nonsyndromic and syndromic oligodontia	DiseaseOrPhenotypicFeature	C538049
+17910065	322	346	nonsyndromic oligodontia	DiseaseOrPhenotypicFeature	C538049
+17910065	364	368	PAX9	GeneOrGeneProduct	5083
+17910065	373	377	MSX1	GeneOrGeneProduct	4487
+17910065	484	489	C139T	SequenceVariant	rs121917720
+17910065	504	508	PAX9	GeneOrGeneProduct	5083
+17910065	614	618	MSX1	GeneOrGeneProduct	4487
+17910065	624	629	C139T	SequenceVariant	rs121917720
+17910065	686	710	arginine by a tryptophan	SequenceVariant	rs121917720
+17910065	712	716	R47W	SequenceVariant	rs121917720
+17910065	782	786	PAX9	GeneOrGeneProduct	5083
+17910065	850	871	oligodontia phenotype	DiseaseOrPhenotypicFeature	C538049
+17910065	945	949	PAX9	GeneOrGeneProduct	5083
+17910065	1008	1012	R47W	SequenceVariant	rs121917720
+17910065	Association	4487	C538049	No
+17910065	Positive_Correlation	rs121917720	C538049	Novel
+17910065	Association	5083	C538049	Novel

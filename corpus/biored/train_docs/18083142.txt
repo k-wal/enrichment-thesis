@@ -1,0 +1,62 @@
+18083142|t|Norepinephrine signaling through beta-adrenergic receptors is critical for expression of cocaine-induced anxiety.
+18083142|a|BACKGROUND: Cocaine is a widely abused psychostimulant that has both rewarding and aversive properties. While the mechanisms underlying cocaine's rewarding effects have been studied extensively, less attention has been paid to the unpleasant behavioral states induced by cocaine, such as anxiety. METHODS: In this study, we evaluated the performance of dopamine beta-hydroxylase knockout (Dbh -/-) mice, which lack norepinephrine (NE), in the elevated plus maze (EPM) to examine the contribution of noradrenergic signaling to cocaine-induced anxiety. RESULTS: We found that cocaine dose-dependently increased anxiety-like behavior in control (Dbh +/-) mice, as measured by a decrease in open arm exploration. The Dbh -/- mice had normal baseline performance in the EPM but were completely resistant to the anxiogenic effects of cocaine. Cocaine-induced anxiety was also attenuated in Dbh +/- mice following administration of disulfiram, a dopamine beta-hydroxylase (DBH) inhibitor. In experiments using specific adrenergic antagonists, we found that pretreatment with the beta-adrenergic receptor antagonist propranolol blocked cocaine-induced anxiety-like behavior in Dbh +/- and wild-type C57BL6/J mice, while the alpha(1) antagonist prazosin and the alpha(2) antagonist yohimbine had no effect. CONCLUSIONS: These results indicate that noradrenergic signaling via beta-adrenergic receptors is required for cocaine-induced anxiety in mice.
+18083142	0	14	Norepinephrine	ChemicalEntity	D009638
+18083142	33	58	beta-adrenergic receptors	GeneOrGeneProduct	11554
+18083142	89	96	cocaine	ChemicalEntity	D003042
+18083142	105	112	anxiety	DiseaseOrPhenotypicFeature	D001008
+18083142	126	133	Cocaine	ChemicalEntity	D003042
+18083142	250	257	cocaine	ChemicalEntity	D003042
+18083142	385	392	cocaine	ChemicalEntity	D003042
+18083142	402	409	anxiety	DiseaseOrPhenotypicFeature	D001008
+18083142	467	492	dopamine beta-hydroxylase	GeneOrGeneProduct	13166
+18083142	503	506	Dbh	GeneOrGeneProduct	13166
+18083142	512	516	mice	OrganismTaxon	10090
+18083142	529	543	norepinephrine	ChemicalEntity	D009638
+18083142	545	547	NE	ChemicalEntity	D009638
+18083142	640	647	cocaine	ChemicalEntity	D003042
+18083142	656	663	anxiety	DiseaseOrPhenotypicFeature	D001008
+18083142	688	695	cocaine	ChemicalEntity	D003042
+18083142	723	730	anxiety	DiseaseOrPhenotypicFeature	D001008
+18083142	757	760	Dbh	GeneOrGeneProduct	13166
+18083142	766	770	mice	OrganismTaxon	10090
+18083142	827	830	Dbh	GeneOrGeneProduct	13166
+18083142	835	839	mice	OrganismTaxon	10090
+18083142	942	949	cocaine	ChemicalEntity	D003042
+18083142	951	958	Cocaine	ChemicalEntity	D003042
+18083142	967	974	anxiety	DiseaseOrPhenotypicFeature	D001008
+18083142	998	1001	Dbh	GeneOrGeneProduct	13166
+18083142	1006	1010	mice	OrganismTaxon	10090
+18083142	1039	1049	disulfiram	ChemicalEntity	D004221
+18083142	1053	1078	dopamine beta-hydroxylase	GeneOrGeneProduct	13166
+18083142	1080	1083	DBH	GeneOrGeneProduct	13166
+18083142	1126	1148	adrenergic antagonists	ChemicalEntity	D018674
+18083142	1186	1210	beta-adrenergic receptor	GeneOrGeneProduct	11554
+18083142	1222	1233	propranolol	ChemicalEntity	D011433
+18083142	1242	1249	cocaine	ChemicalEntity	D003042
+18083142	1258	1265	anxiety	DiseaseOrPhenotypicFeature	D001008
+18083142	1283	1286	Dbh	GeneOrGeneProduct	13166
+18083142	1314	1318	mice	OrganismTaxon	10090
+18083142	1330	1338	alpha(1)	GeneOrGeneProduct	11549
+18083142	1350	1358	prazosin	ChemicalEntity	D011224
+18083142	1367	1375	alpha(2)	GeneOrGeneProduct	11551
+18083142	1387	1396	yohimbine	ChemicalEntity	D015016
+18083142	1481	1506	beta-adrenergic receptors	GeneOrGeneProduct	11554
+18083142	1523	1530	cocaine	ChemicalEntity	D003042
+18083142	1539	1546	anxiety	DiseaseOrPhenotypicFeature	D001008
+18083142	1550	1554	mice	OrganismTaxon	10090
+18083142	Negative_Correlation	11551	D015016	No
+18083142	Negative_Correlation	11549	D011224	No
+18083142	Negative_Correlation	D011433	D001008	Novel
+18083142	Negative_Correlation	D011433	D003042	Novel
+18083142	Negative_Correlation	D004221	D001008	Novel
+18083142	Negative_Correlation	13166	D004221	No
+18083142	Negative_Correlation	11554	D011433	No
+18083142	Association	11554	D001008	Novel
+18083142	Association	D001008	13166	Novel
+18083142	Negative_Correlation	D003042	D004221	Novel
+18083142	Association	D003042	13166	Novel
+18083142	Association	D003042	11554	Novel
+18083142	Positive_Correlation	D003042	D001008	No
+18083142	Association	D009638	11554	Novel
+18083142	Association	D009638	D001008	Novel
+18083142	Association	D009638	D003042	Novel

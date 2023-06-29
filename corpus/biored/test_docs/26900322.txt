@@ -1,0 +1,46 @@
+26900322|t|CFI-rs7356506 polymorphisms associated with Vogt-Koyanagi-Harada syndrome.
+26900322|a|PURPOSE: Complement factor I (CFI) plays an important role in complement activation pathways and is known to affect the development of uveitis. The present study was performed to investigate the existence of an association between CFI genetic polymorphisms and Vogt-Koyanagi-Harada (VKH) syndrome. METHODS: A total of 100 patients diagnosed with VKH syndrome and 300 healthy controls were recruited for the study. Two milliliters of peripheral blood were collected in a sterile anticoagulative tube. CFI-rs7356506 polymorphisms were genotyped using Sequenom MassARRAY technology. Allele and genotype frequencies were compared between patients and controls using a X(2) test. The analyses were stratified for recurrent status, complicated cataract status, and steroid-sensitive status. RESULTS: No significant association was found between CFI-rs7356506 polymorphisms and VKH syndrome. However, patients with recurrent VKH syndrome had lower frequencies of the G allele and GG homozygosity in CFI-rs7356506 when compared to the controls (p=0.016, odds ratio [OR]=0.429, 95% confidence interval [CI]=0.212-0.871; p=0.014, OR=0.364, 95% CI=0.158-0.837, respectively). Furthermore, there were significant decreases in the frequencies of the G allele and GG homozygosity in CFI-rs7356506 in patients with VKH syndrome with complicated cataract compared to the controls (p<0.001, OR=0.357, 95% CI=0.197-0.648; p<0.001, OR=0.273, 95% CI=0.135-0.551, respectively). Nevertheless, no significant association with patients with VKH syndrome in steroid-sensitive statuses was detected for CFI-rs7356506 polymorphisms. CONCLUSIONS: Our results indicate that CFI polymorphisms are not significantly associated with VKH syndrome; nevertheless, we identified a trend for the association of CFI-7356506 with VKH syndrome that depends on the recurrent status and the complicated cataract status but not on the steroid-sensitive status.
+26900322	0	3	CFI	GeneOrGeneProduct	3426
+26900322	4	13	rs7356506	SequenceVariant	rs7356506
+26900322	44	73	Vogt-Koyanagi-Harada syndrome	DiseaseOrPhenotypicFeature	D014607
+26900322	84	103	Complement factor I	GeneOrGeneProduct	3426
+26900322	105	108	CFI	GeneOrGeneProduct	3426
+26900322	210	217	uveitis	DiseaseOrPhenotypicFeature	D014605
+26900322	306	309	CFI	GeneOrGeneProduct	3426
+26900322	336	371	Vogt-Koyanagi-Harada (VKH) syndrome	DiseaseOrPhenotypicFeature	D014607
+26900322	397	405	patients	OrganismTaxon	9606
+26900322	421	433	VKH syndrome	DiseaseOrPhenotypicFeature	D014607
+26900322	575	578	CFI	GeneOrGeneProduct	3426
+26900322	579	588	rs7356506	SequenceVariant	rs7356506
+26900322	709	717	patients	OrganismTaxon	9606
+26900322	813	821	cataract	DiseaseOrPhenotypicFeature	D002386
+26900322	834	841	steroid	ChemicalEntity	D013256
+26900322	914	917	CFI	GeneOrGeneProduct	3426
+26900322	918	927	rs7356506	SequenceVariant	rs7356506
+26900322	946	958	VKH syndrome	DiseaseOrPhenotypicFeature	D014607
+26900322	969	977	patients	OrganismTaxon	9606
+26900322	993	1005	VKH syndrome	DiseaseOrPhenotypicFeature	D014607
+26900322	1067	1070	CFI	GeneOrGeneProduct	3426
+26900322	1071	1080	rs7356506	SequenceVariant	rs7356506
+26900322	1344	1347	CFI	GeneOrGeneProduct	3426
+26900322	1348	1357	rs7356506	SequenceVariant	rs7356506
+26900322	1361	1369	patients	OrganismTaxon	9606
+26900322	1375	1387	VKH syndrome	DiseaseOrPhenotypicFeature	D014607
+26900322	1405	1413	cataract	DiseaseOrPhenotypicFeature	D002386
+26900322	1579	1587	patients	OrganismTaxon	9606
+26900322	1593	1605	VKH syndrome	DiseaseOrPhenotypicFeature	D014607
+26900322	1609	1616	steroid	ChemicalEntity	D013256
+26900322	1653	1656	CFI	GeneOrGeneProduct	3426
+26900322	1657	1666	rs7356506	SequenceVariant	rs7356506
+26900322	1721	1724	CFI	GeneOrGeneProduct	3426
+26900322	1777	1789	VKH syndrome	DiseaseOrPhenotypicFeature	D014607
+26900322	1850	1853	CFI	GeneOrGeneProduct	3426
+26900322	1854	1861	7356506	SequenceVariant	rs7356506
+26900322	1867	1879	VKH syndrome	DiseaseOrPhenotypicFeature	D014607
+26900322	1937	1945	cataract	DiseaseOrPhenotypicFeature	D002386
+26900322	1968	1975	steroid	ChemicalEntity	D013256
+26900322	Association	rs7356506	D002386	Novel
+26900322	Association	rs7356506	D014607	Novel
+26900322	Association	3426	D014605	No
+26900322	Association	3426	D002386	Novel
+26900322	Association	3426	D014607	Novel

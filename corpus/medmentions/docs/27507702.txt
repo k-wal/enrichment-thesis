@@ -1,0 +1,88 @@
+27507702|t|Transcriptome sequencing and de novo characterization of Korean endemic land snail, Koreanohadra kurodana for functional transcripts and SSR markers
+27507702|a|The Korean endemic land snail Koreanohadra kurodana (Gastropoda: Bradybaenidae) found in humid areas of broadleaf forests and shrubs have been considered vulnerable as the number of individuals are declining in recent years. The species is poorly characterized at the genomic level that limits the understanding of functions at the molecular and genetics level. In the present study, we performed de novo transcriptome sequencing to produce a comprehensive transcript dataset of visceral mass tissue of K. kurodana by the Illumina paired-end sequencing technology. Over 234 million quality reads were assembled to a total of 315,924 contigs and 191,071 unigenes, with an average and N50 length of 585.6 and 715 bp and 678 and 927 bp, respectively. Overall, 36.32 % of the unigenes found matches to known protein / nucleotide sequences in the public databases. The direction of the unigenes to functional categories was determined using COG, GO, KEGG, and InterProScan protein domain search. The GO analysis search resulted in 22,967 unigenes (12.02 %) being categorized into 40 functional groups. The KEGG annotation revealed that metabolism pathway genes were enriched. The most prominent protein motifs include the zinc finger, ribonuclease H, reverse transcriptase, and ankyrin repeat domains. The simple sequence repeats (SSRs) identified from >1 kb length of unigenes show a dominancy of dinucleotide repeat motifs followed with tri- and tetranucleotide motifs. A number of unigenes were putatively assessed to belong to adaptation and defense mechanisms including heat shock proteins 70, Toll-like receptor 4, AMP-activated protein kinase, aquaporin-2, etc. Our data provide a rich source for the identification and functional characterization of new genes and candidate polymorphic SSR markers in K. kurodana. The availability of transcriptome information (http://bioinfo.sch.ac.kr/submission/) would promote the utilization of the resources for phylogenetics study and genetic diversity assessment.
+27507702	0	24	Transcriptome sequencing	T059	C4086963
+27507702	29	36	de novo	T078	C1515568
+27507702	37	53	characterization	T052	C1880022
+27507702	57	63	Korean	T083	C0022771
+27507702	72	82	land snail	T204	C0037378
+27507702	84	105	Koreanohadra kurodana	T204	C0037378
+27507702	121	132	transcripts	T114	C1519595
+27507702	137	140	SSR	T114,T123	C1519302
+27507702	141	148	markers	T045	C0017393
+27507702	153	159	Korean	T083	C0022771
+27507702	168	178	land snail	T204	C0037378
+27507702	179	200	Koreanohadra kurodana	T204	C0037378
+27507702	202	212	Gastropoda	T204	C0324023
+27507702	214	227	Bradybaenidae	T204	C1040093
+27507702	238	249	humid areas	T067	C0563027
+27507702	253	270	broadleaf forests	T070	C0086312
+27507702	275	281	shrubs	T002	C0446286
+27507702	331	342	individuals	T098	C0237401
+27507702	367	372	years	T079	C0439234
+27507702	378	385	species	T204	C0684063
+27507702	417	430	genomic level	T028	C0017428
+27507702	464	473	functions	T169	C0542341
+27507702	481	490	molecular	T080	C1521991
+27507702	495	509	genetics level	T169	C0314603
+27507702	526	531	study	T062	C2603343
+27507702	546	553	de novo	T078	C1515568
+27507702	554	578	transcriptome sequencing	T059	C4086963
+27507702	606	616	transcript	T114	C1519595
+27507702	617	624	dataset	T170	C0150098
+27507702	628	648	visceral mass tissue	T024	C0040300
+27507702	652	663	K. kurodana	T204	C0037378
+27507702	671	712	Illumina paired-end sequencing technology	T063	C1513384
+27507702	782	789	contigs	T082	C1511491
+27507702	802	810	unigenes	T170	C1710539
+27507702	832	835	N50	T114	C0028630
+27507702	836	842	length	T081	C1444754
+27507702	921	929	unigenes	T170	C1710539
+27507702	953	960	protein	T087	C0002518
+27507702	963	983	nucleotide sequences	T086	C0004793
+27507702	991	1007	public databases	T170	C0242356
+27507702	1013	1022	direction	T082	C0449738
+27507702	1030	1038	unigenes	T170	C1710539
+27507702	1085	1088	COG	T170	C0242356
+27507702	1090	1092	GO	T170	C1138831
+27507702	1094	1098	KEGG	T170	C0242356
+27507702	1104	1116	InterProScan	T170	C2826595
+27507702	1117	1131	protein domain	T087	C1514562
+27507702	1132	1138	search	T052	C1706202
+27507702	1144	1146	GO	T170	C1138831
+27507702	1147	1155	analysis	T062	C0936012
+27507702	1182	1190	unigenes	T170	C1710539
+27507702	1227	1244	functional groups	T120	C0598132
+27507702	1250	1265	KEGG annotation	T170	C0242356
+27507702	1280	1298	metabolism pathway	T169	C1291081
+27507702	1299	1304	genes	T028	C0017337
+27507702	1339	1353	protein motifs	T087	C1514562
+27507702	1366	1377	zinc finger	T087	C0080347
+27507702	1379	1393	ribonuclease H	T116,T126	C0085431
+27507702	1395	1416	reverse transcriptase	T116,T126	C0035379
+27507702	1422	1444	ankyrin repeat domains	T044	C1956127
+27507702	1450	1473	simple sequence repeats	T114,T123	C1519302
+27507702	1475	1479	SSRs	T114,T123	C1519302
+27507702	1503	1509	length	T081	C1444754
+27507702	1513	1521	unigenes	T170	C1710539
+27507702	1542	1568	dinucleotide repeat motifs	T114,T123	C0282524
+27507702	1583	1587	tri-	T114,T123	C0282537
+27507702	1592	1614	tetranucleotide motifs	T114,T123	C0282521
+27507702	1628	1636	unigenes	T170	C1710539
+27507702	1675	1685	adaptation	T038	C0392673
+27507702	1690	1708	defense mechanisms	T041	C0011142
+27507702	1719	1741	heat shock proteins 70	T116,T123	C0243043
+27507702	1743	1763	Toll-like receptor 4	T116,T192	C1411976
+27507702	1765	1793	AMP-activated protein kinase	T116,T126	C2350345
+27507702	1795	1806	aquaporin-2	T116,T123	C0213238
+27507702	1852	1866	identification	T080	C0205396
+27507702	1882	1898	characterization	T052	C1880022
+27507702	1906	1911	genes	T028	C0017337
+27507702	1926	1937	polymorphic	T080	C1882417
+27507702	1938	1941	SSR	T114,T123	C1519302
+27507702	1942	1949	markers	T045	C0017393
+27507702	1953	1964	K. kurodana	T204	C0037378
+27507702	1986	1999	transcriptome	T086	C3178810
+27507702	2013	2049	http://bioinfo.sch.ac.kr/submission/	T170	C0872179
+27507702	2102	2121	phylogenetics study	T062	C1519068
+27507702	2126	2143	genetic diversity	T070	C0042333
+27507702	2144	2154	assessment	T052	C1516048

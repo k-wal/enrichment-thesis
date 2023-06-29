@@ -1,0 +1,46 @@
+27585079|t|Physical and virtual modelling of the head and neck for surgical simulation and training
+27585079|a|Investigation and surgical manipulation of the larynx, pharynx, and oesophagus suffer from inherent challenges with access to the sites of interest. To reduce trauma and external scarring, visualization and minimally invasive interventions by the transnasal or transoral routes have become more prevalent. This article discusses engineering methods used to understand and overcome the mechanical constraints inside the airway and upper gastrointestinal tract, and examines the role that robotics and engineering are beginning to play in modelling of surgical interventions in this region. Although robotic solutions to minimally invasive surgery of the airway and upper gastrointestinal tract already exist, there is still scope for increasing the breadth of their use. Physical and virtual models of these organs are used to investigate the capability and limitations of manual and robotic surgical interventions in this region. Understanding the tissue mechanics and tool capabilities is central to improving outcomes in the clinical setting. Both physical and virtual modelling modalities are used in training surgeons for both manual - assisted and robot-assisted surgeries. Minimally invasive surgical interventions via the transnasal and the transoral route are strong candidates for overcoming access issues to the airway. They are likely to become more robotically driven as the demand for higher dexterity and accuracy increases for fine manipulation. Physical and virtual organ models are required to enable surgical training for these procedures.
+27585079	0	8	Physical	T170	UMLS:C0887962
+27585079	13	30	virtual modelling	T062	UMLS:C0870071
+27585079	38	42	head	T082	UMLS:C0018670
+27585079	47	51	neck	T082	UMLS:C0027530
+27585079	56	75	surgical simulation	T074	UMLS:C4075558
+27585079	89	102	Investigation	T058	UMLS:C0220825
+27585079	107	128	surgical manipulation	T058	UMLS:C0185111
+27585079	136	142	larynx	T017	UMLS:C0023078
+27585079	144	151	pharynx	T017	UMLS:C0031354
+27585079	157	167	oesophagus	T017	UMLS:C0014876
+27585079	219	224	sites	T082	UMLS:C0005898
+27585079	248	254	trauma	T037	UMLS:C3714660
+27585079	268	276	scarring	T038	UMLS:C0008767
+27585079	336	346	transnasal	T082	UMLS:C3897344
+27585079	350	359	transoral	T082	UMLS:C0442366
+27585079	360	366	routes	T082	UMLS:C0449444
+27585079	400	407	article	T170	UMLS:C1706852
+27585079	508	514	airway	T017	UMLS:C0458827
+27585079	519	547	upper gastrointestinal tract	T017	UMLS:C3203348
+27585079	639	661	surgical interventions	T058	UMLS:C0543467
+27585079	687	704	robotic solutions	T074	UMLS:C0879117
+27585079	708	734	minimally invasive surgery	T058	UMLS:C0282624
+27585079	742	748	airway	T017	UMLS:C0458827
+27585079	753	781	upper gastrointestinal tract	T017	UMLS:C3203348
+27585079	859	867	Physical	T170	UMLS:C0887962
+27585079	896	902	organs	T017	UMLS:C0178784
+27585079	972	979	robotic	T074	UMLS:C0879117
+27585079	980	1002	surgical interventions	T058	UMLS:C0543467
+27585079	1037	1043	tissue	T017	UMLS:C0040300
+27585079	1139	1147	physical	T170	UMLS:C0887962
+27585079	1152	1169	virtual modelling	T062	UMLS:C0870071
+27585079	1202	1210	surgeons	T097	UMLS:C0582175
+27585079	1242	1266	robot-assisted surgeries	T058	UMLS:C4038855
+27585079	1268	1309	Minimally invasive surgical interventions	T058	UMLS:C0282624
+27585079	1318	1328	transnasal	T082	UMLS:C3897344
+27585079	1337	1346	transoral	T082	UMLS:C0442366
+27585079	1347	1352	route	T082	UMLS:C0449444
+27585079	1411	1417	airway	T017	UMLS:C0458827
+27585079	1494	1503	dexterity	T033	UMLS:C0565699
+27585079	1536	1548	manipulation	T058	UMLS:C0947647
+27585079	1550	1558	Physical	T170	UMLS:C0887962
+27585079	1563	1570	virtual	T058	UMLS:C0935912
+27585079	1571	1583	organ models	T062	UMLS:C1518606
+27585079	1607	1615	surgical	T058	UMLS:C0543467

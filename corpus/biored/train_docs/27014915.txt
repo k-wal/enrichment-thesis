@@ -1,0 +1,85 @@
+27014915|t|NF-kB functions as a molecular link between tumor cells and Th1/Tc1 T cells in the tumor microenvironment to exert radiation-mediated tumor suppression.
+27014915|a|Radiation modulates both tumor cells and immune cells in the tumor microenvironment to exert its anti-tumor activity; however, the molecular connection between tumor cells and immune cells that mediates radiation-exerted tumor suppression activity in the tumor microenvironment is largely unknown. We report here that radiation induces rapid activation of the p65/p50 and p50/p50 NF-kB complexes in human soft tissue sarcoma (STS) cells. Radiation-activated p65/p50 and p50/p50 bind to the TNFa promoter to activate its transcription in STS cells. Radiation-induced TNFa induces tumor cell death in an autocrine manner. A sublethal dose of Smac mimetic BV6 induces cIAP1 and cIAP2 degradation to increase tumor cell sensitivity to radiation-induced cell death in vitro and to enhance radiation-mediated suppression of STS xenografts in vivo. Inhibition of caspases, RIP1, or RIP3 blocks radiation/TNFa-induced cell death, whereas inhibition of RIP1 blocks TNFa-induced caspase activation, suggesting that caspases and RIP1 act sequentially to mediate the non-compensatory cell death pathways. Furthermore, we determined in a syngeneic sarcoma mouse model that radiation up-regulates IRF3, IFNb, and the T cell chemokines CCL2 and CCL5 in the tumor microenvironment, which are associated with activation and increased infiltration of Th1/Tc1 T cells in the tumor microenvironment. Moreover, tumor-infiltrating T cells are in their active form since both the perforin and FasL pathways are activated in irradiated tumor tissues. Consequently, combined BV6 and radiation completely suppressed tumor growth in vivo. Therefore, radiation-induced NF-kB functions as a molecular link between tumor cells and immune cells in the tumor microenvironment for radiation-mediated tumor suppression.
+27014915	0	5	NF-kB	GeneOrGeneProduct	4790
+27014915	44	49	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	83	88	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	134	139	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	178	183	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	214	219	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	255	260	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	313	318	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	374	379	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	408	413	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	513	516	p65	GeneOrGeneProduct	5970
+27014915	517	520	p50	GeneOrGeneProduct	4790
+27014915	525	528	p50	GeneOrGeneProduct	4790
+27014915	529	532	p50	GeneOrGeneProduct	4790
+27014915	533	538	NF-kB	GeneOrGeneProduct	4790
+27014915	552	557	human	OrganismTaxon	9606
+27014915	558	577	soft tissue sarcoma	DiseaseOrPhenotypicFeature	D012509
+27014915	579	582	STS	DiseaseOrPhenotypicFeature	D012509
+27014915	611	614	p65	GeneOrGeneProduct	5970
+27014915	615	618	p50	GeneOrGeneProduct	4790
+27014915	623	626	p50	GeneOrGeneProduct	4790
+27014915	627	630	p50	GeneOrGeneProduct	4790
+27014915	643	647	TNFa	GeneOrGeneProduct	7124
+27014915	690	693	STS	DiseaseOrPhenotypicFeature	D012509
+27014915	719	723	TNFa	GeneOrGeneProduct	7124
+27014915	732	737	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	793	797	Smac	GeneOrGeneProduct	56616
+27014915	806	809	BV6	ChemicalEntity	C582180
+27014915	818	823	cIAP1	GeneOrGeneProduct	329
+27014915	828	833	cIAP2	GeneOrGeneProduct	330
+27014915	858	863	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	971	974	STS	DiseaseOrPhenotypicFeature	D012509
+27014915	1009	1017	caspases	GeneOrGeneProduct	836
+27014915	1019	1023	RIP1	GeneOrGeneProduct	8737
+27014915	1028	1032	RIP3	GeneOrGeneProduct	11035
+27014915	1050	1054	TNFa	GeneOrGeneProduct	7124
+27014915	1097	1101	RIP1	GeneOrGeneProduct	8737
+27014915	1109	1113	TNFa	GeneOrGeneProduct	7124
+27014915	1122	1129	caspase	GeneOrGeneProduct	836
+27014915	1158	1166	caspases	GeneOrGeneProduct	836
+27014915	1171	1175	RIP1	GeneOrGeneProduct	8737
+27014915	1288	1295	sarcoma	DiseaseOrPhenotypicFeature	D012509
+27014915	1296	1301	mouse	OrganismTaxon	10090
+27014915	1336	1340	IRF3	GeneOrGeneProduct	54131
+27014915	1342	1346	IFNb	GeneOrGeneProduct	15977
+27014915	1363	1373	chemokines	GeneOrGeneProduct	20296,20304
+27014915	1374	1378	CCL2	GeneOrGeneProduct	20296
+27014915	1383	1387	CCL5	GeneOrGeneProduct	20304
+27014915	1395	1400	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	1509	1514	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	1543	1548	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	1610	1618	perforin	GeneOrGeneProduct	18646
+27014915	1623	1627	FasL	GeneOrGeneProduct	14103
+27014915	1665	1670	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	1703	1706	BV6	ChemicalEntity	C582180
+27014915	1743	1748	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	1794	1799	NF-kB	GeneOrGeneProduct	4790
+27014915	1838	1843	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	1874	1879	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	1920	1925	tumor	DiseaseOrPhenotypicFeature	D009369
+27014915	Positive_Correlation	8737	836	Novel
+27014915	Negative_Correlation	C582180	D009369	Novel
+27014915	Negative_Correlation	330	C582180	Novel
+27014915	Association	330	D009369	Novel
+27014915	Negative_Correlation	329	C582180	Novel
+27014915	Association	329	D009369	Novel
+27014915	Negative_Correlation	56616	330	Novel
+27014915	Negative_Correlation	56616	329	Novel
+27014915	Association	56616	D009369	Novel
+27014915	Association	D009369	14103	Novel
+27014915	Association	D009369	18646	Novel
+27014915	Positive_Correlation	7124	11035	Novel
+27014915	Positive_Correlation	7124	8737	Novel
+27014915	Positive_Correlation	7124	836	Novel
+27014915	Association	7124	D009369	Novel
+27014915	Association	7124	D012509	Novel
+27014915	Association	4790	D009369	Novel
+27014915	Positive_Correlation	4790	7124	Novel
+27014915	Association	4790	D012509	Novel
+27014915	Bind	4790	4790	No
+27014915	Positive_Correlation	5970	7124	Novel
+27014915	Association	5970	D012509	Novel
+27014915	Bind	5970	4790	No

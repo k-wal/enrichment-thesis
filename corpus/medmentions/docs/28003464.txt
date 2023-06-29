@@ -1,0 +1,86 @@
+28003464|t|Nat1 promotes translation of specific proteins that induce differentiation of mouse embryonic stem cells
+28003464|a|Novel APOBEC1 target 1 (Nat1) (also known as " p97 ," " Dap5 ," and " Eif4g2 ") is a ubiquitously expressed cytoplasmic protein that is homologous to the C-terminal two thirds of eukaryotic translation initiation factor 4G (Eif4g1). We previously showed that Nat1 - null mouse embryonic stem cells (mES cells) are resistant to differentiation. In the current study, we found that NAT1 and eIF4G1 share many binding proteins, such as the eukaryotic translation initiation factors eIF3 and eIF4A and ribosomal proteins. However, NAT1 did not bind to eIF4E or poly(A)-binding proteins, which are critical for cap-dependent translation initiation. In contrast, compared with eIF4G1, NAT1 preferentially interacted with eIF2, fragile X mental retardation proteins (FMR), and related proteins and especially with members of the proline-rich and coiled-coil-containing protein 2 (PRRC2) family. We also found that Nat1 - null mES cells possess a transcriptional profile similar, although not identical, to the ground state, which is established in wild-type mES cells when treated with inhibitors of the ERK and glycogen synthase kinase 3 (GSK3) signaling pathways. In Nat1 - null mES cells, the ERK pathway is suppressed even without inhibitors. Ribosome profiling revealed that translation of mitogen-activated protein kinase kinase kinase 3 (Map3k3) and son of sevenless homolog 1 (Sos1) is suppressed in the absence of Nat1 Forced expression of Map3k3 induced differentiation of Nat1 - null mES cells. These data collectively show that Nat1 is involved in the translation of proteins that are required for cell differentiation.
+28003464	0	4	Nat1	T116,T126	C1527469
+28003464	5	13	promotes	T052	C0033414
+28003464	14	25	translation	T045	C1519614
+28003464	38	46	proteins	T116,T123	C0033684
+28003464	52	58	induce	T169	C0205263
+28003464	59	74	differentiation	T043	C0007589
+28003464	78	104	mouse embryonic stem cells	T025	C4042879
+28003464	105	110	Novel	T080	C0205314
+28003464	111	127	APOBEC1 target 1	T116,T126	C4308137
+28003464	129	133	Nat1	T116,T126	C1527469
+28003464	152	155	p97	T116,T126	C0246486
+28003464	161	165	Dap5	T116,T123	C1452460
+28003464	175	181	Eif4g2	T116,T123	C1452460
+28003464	203	212	expressed	T045	C1171362
+28003464	213	232	cytoplasmic protein	T116,T123	C1333198
+28003464	241	251	homologous	T080	C2697616
+28003464	259	269	C-terminal	T087	C1707271
+28003464	284	327	eukaryotic translation initiation factor 4G	T116,T123	C1505487
+28003464	329	335	Eif4g1	T116,T123	C1505487
+28003464	364	368	Nat1	T028	C1417602
+28003464	371	402	null mouse embryonic stem cells	T025	C4042879
+28003464	404	413	mES cells	T025	C4042879
+28003464	419	428	resistant	T169	C0332325
+28003464	432	447	differentiation	T043	C0007589
+28003464	464	469	study	T062	C2603343
+28003464	485	489	NAT1	T116,T126	C1527469
+28003464	494	500	eIF4G1	T116,T123	C1505487
+28003464	512	528	binding proteins	T116,T123	C0242210
+28003464	542	583	eukaryotic translation initiation factors	T116,T123	C1136317
+28003464	584	588	eIF3	T116,T123	C0752615
+28003464	593	598	eIF4A	T116,T123	C0058984
+28003464	603	621	ribosomal proteins	T116,T123	C0035552
+28003464	632	636	NAT1	T116,T126	C1527469
+28003464	653	658	eIF4E	T116,T123	C4077502
+28003464	662	686	poly(A)-binding proteins	T116,T123	C0071346
+28003464	711	747	cap-dependent translation initiation	T045	C3268337
+28003464	776	782	eIF4G1	T116,T123	C1505487
+28003464	784	788	NAT1	T116,T126	C1527469
+28003464	804	814	interacted	T169	C1704675
+28003464	820	824	eIF2	T116,T123	C0013729
+28003464	826	863	fragile X mental retardation proteins	T116,T123	C0118036
+28003464	865	868	FMR	T116,T123	C0118036
+28003464	883	891	proteins	T116,T123	C0033684
+28003464	927	976	proline-rich and coiled-coil-containing protein 2	T116,T123	C0033684
+28003464	978	983	PRRC2	T116,T123	C0033684
+28003464	985	991	family	T116,T123	C1335532
+28003464	1012	1016	Nat1	T028	C1417602
+28003464	1019	1033	null mES cells	T025	C4042879
+28003464	1044	1067	transcriptional profile	T045	C0040649
+28003464	1090	1099	identical	T080	C0205280
+28003464	1146	1155	wild-type	T028	C1883559
+28003464	1156	1165	mES cells	T025	C4042879
+28003464	1171	1178	treated	T169	C1522326
+28003464	1184	1194	inhibitors	T121	C1519313
+28003464	1202	1205	ERK	T044	C3179234
+28003464	1210	1236	glycogen synthase kinase 3	T116,T126	C0244989
+28003464	1238	1242	GSK3	T116,T126	C0244989
+28003464	1244	1262	signaling pathways	T044	C0037080
+28003464	1267	1271	Nat1	T028	C1417602
+28003464	1274	1288	null mES cells	T025	C4042879
+28003464	1294	1305	ERK pathway	T044	C3179234
+28003464	1309	1319	suppressed	T169	C1260953
+28003464	1333	1343	inhibitors	T121	C1519313
+28003464	1345	1353	Ribosome	T026	C0035553
+28003464	1354	1363	profiling	T059	C1979963
+28003464	1378	1389	translation	T045	C1519614
+28003464	1393	1441	mitogen-activated protein kinase kinase kinase 3	T028	C1442513
+28003464	1443	1449	Map3k3	T028	C1442513
+28003464	1455	1481	son of sevenless homolog 1	T028	C1420314
+28003464	1483	1487	Sos1	T028	C1420314
+28003464	1492	1502	suppressed	T169	C1260953
+28003464	1510	1517	absence	T169	C0332197
+28003464	1521	1525	Nat1	T028	C1417602
+28003464	1533	1543	expression	T045	C1171362
+28003464	1547	1553	Map3k3	T028	C1442513
+28003464	1554	1561	induced	T169	C0205263
+28003464	1562	1577	differentiation	T043	C0007589
+28003464	1581	1585	Nat1	T028	C1417602
+28003464	1588	1602	null mES cells	T025	C4042879
+28003464	1610	1614	data	T078	C1511726
+28003464	1638	1642	Nat1	T028	C1417602
+28003464	1662	1673	translation	T045	C1519614
+28003464	1677	1685	proteins	T116,T123	C0033684
+28003464	1708	1728	cell differentiation	T043	C0007589

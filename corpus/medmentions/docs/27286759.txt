@@ -1,0 +1,100 @@
+27286759|t|Spatial analysis of drug poisoning deaths in the American West, particularly Utah
+27286759|a|Most states in the Western US have high rates of drug poisoning death (DPD), especially New Mexico, Nevada, Arizona and Utah (UT). This seems paradoxical in UT where illicit drug use, smoking and drinking rates are low. To investigate this, spatial analysis of county level DPD data and other relevant factors in the Western US and UT was undertaken. Poisson kriging was used to smooth the DPD data, populate data gaps and improve the reliability of rates recorded in sparsely populated counties. Links between DPD and economic, environmental, health, lifestyle, and demographic factors were investigated at four scales using multiple linear regression. LDS church membership and altitude, factors not previously considered, were included. Spatial change in the strength and sign of relationships was investigated using geographically weighted regression and significant DPD clusters were identified using the Local Moran's I. Economic factors, like the sharp social gradient between rural and urban areas were important to DPD throughout the west. Higher DPD rates were also found in areas of higher elevation and the desert rural areas in the south. The unique characteristics of DPD in UT in terms of health and lifestyle factors, as well as the demographic structure of DPD in the most LDS populous states (UT, Idaho, Wyoming), suggest that high DPD in heavily LDS areas are predominantly prescription opioid related whereas in other Western states a larger proportion of DPD might come from illicit drugs. Drug policies need to be adapted to the geographical differences in the dominant type of drug causing death. Educational materials need to be marketed to the demographic groups at greatest risk and take into account differences in population characteristics between and within States. Some suggestions about how such adaptations can be made are given and future research needs outlined.
+27286759	0	16	Spatial analysis	T062	C0814926
+27286759	20	34	drug poisoning	T037	C0013221
+27286759	35	41	deaths	T040	C0011065
+27286759	49	62	American West	T083	C0041703
+27286759	77	81	Utah	T083	C0042124
+27286759	87	93	states	T083	C1301808
+27286759	101	111	Western US	T083	C0041703
+27286759	122	127	rates	T081	C0205848
+27286759	131	145	drug poisoning	T037	C0013221
+27286759	146	151	death	T040	C0011065
+27286759	153	156	DPD	T040	C0011065
+27286759	170	180	New Mexico	T083	C0027972
+27286759	182	188	Nevada	T083	C0027951
+27286759	190	197	Arizona	T083	C0003787
+27286759	202	206	Utah	T083	C0042124
+27286759	208	210	UT	T083	C0042124
+27286759	224	235	paradoxical	T080	C0205310
+27286759	239	241	UT	T083	C0042124
+27286759	248	264	illicit drug use	T055	C0281875
+27286759	266	273	smoking	T055	C0037369
+27286759	278	292	drinking rates	T055	C0001948
+27286759	297	300	low	T080	C0205251
+27286759	323	339	spatial analysis	T062	C0814926
+27286759	343	349	county	T083	C0079170
+27286759	356	359	DPD	T040	C0011065
+27286759	360	364	data	T078	C1511726
+27286759	375	383	relevant	T080	C2347946
+27286759	384	391	factors	T169	C1521761
+27286759	399	409	Western US	T083	C0041703
+27286759	414	416	UT	T083	C0042124
+27286759	433	448	Poisson kriging	T062	C3494287
+27286759	472	475	DPD	T040	C0011065
+27286759	476	480	data	T078	C1511726
+27286759	491	495	data	T078	C1511726
+27286759	517	528	reliability	T081	C2347947
+27286759	532	537	rates	T081	C0205848
+27286759	550	577	sparsely populated counties	T083	C0079170
+27286759	593	596	DPD	T040	C0011065
+27286759	601	609	economic	T081	C0205749
+27286759	611	624	environmental	T169	C1516998
+27286759	626	632	health	T078	C0018684
+27286759	634	643	lifestyle	T054	C0023676
+27286759	649	668	demographic factors	T078	C0011292
+27286759	708	734	multiple linear regression	T081	C0023733
+27286759	736	757	LDS church membership	UnknownType	C0683988
+27286759	762	770	altitude	T081	C0002349
+27286759	772	779	factors	T169	C1521761
+27286759	822	836	Spatial change	T082	C0012727
+27286759	844	852	strength	T078	C0808080
+27286759	865	878	relationships	T080	C0439849
+27286759	902	936	geographically weighted regression	T081	C4046053
+27286759	953	956	DPD	T040	C0011065
+27286759	957	965	clusters	T081	C1704332
+27286759	992	1007	Local Moran's I	T062	C3825653
+27286759	1009	1025	Economic factors	T081	C0205749
+27286759	1042	1048	social	T169	C0728831
+27286759	1049	1057	gradient	T081	C0812409
+27286759	1066	1071	rural	T082	C0178837
+27286759	1076	1087	urban areas	T082	C0178876
+27286759	1106	1109	DPD	T040	C0011065
+27286759	1131	1137	Higher	T080	C0205250
+27286759	1138	1147	DPD rates	T081	C0205848
+27286759	1167	1172	areas	T082	C0205146
+27286759	1176	1182	higher	T080	C0205250
+27286759	1183	1192	elevation	T082	C0702240
+27286759	1201	1219	desert rural areas	T082	C0178837
+27286759	1227	1232	south	T082	C1710133
+27286759	1245	1260	characteristics	T080	C1521970
+27286759	1264	1267	DPD	T040	C0011065
+27286759	1271	1273	UT	T083	C0042124
+27286759	1286	1292	health	T033	C0810377
+27286759	1297	1306	lifestyle	T054	C0023676
+27286759	1331	1352	demographic structure	T102	C0683970
+27286759	1356	1359	DPD	T040	C0011065
+27286759	1372	1391	LDS populous states	T083	C1301808
+27286759	1393	1395	UT	T083	C0042124
+27286759	1397	1402	Idaho	T083	C0020787
+27286759	1404	1411	Wyoming	T083	C0043287
+27286759	1432	1435	DPD	T040	C0011065
+27286759	1439	1456	heavily LDS areas	T083	C0017446
+27286759	1488	1494	opioid	T109,T121,T131	C0242402
+27286759	1520	1534	Western states	T083	C0041703
+27286759	1558	1561	DPD	T040	C0011065
+27286759	1578	1591	illicit drugs	T131	C0086190
+27286759	1593	1606	Drug policies	UnknownType	C0683727
+27286759	1633	1657	geographical differences	T033	C0935553
+27286759	1665	1673	dominant	T169	C1527180
+27286759	1682	1686	drug	T121	C0013227
+27286759	1695	1700	death	T040	C0011065
+27286759	1702	1723	Educational materials	T065	C2919937
+27286759	1735	1743	marketed	T080	C3640197
+27286759	1751	1769	demographic groups	T078	C0441833
+27286759	1773	1781	greatest	T081	C0205393
+27286759	1782	1786	risk	T078	C0035647
+27286759	1809	1820	differences	T080	C1705242
+27286759	1824	1850	population characteristics	T102	C0032661
+27286759	1870	1876	States	T083	C1301808
+27286759	1883	1894	suggestions	T078	C1705535

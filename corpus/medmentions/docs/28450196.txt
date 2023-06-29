@@ -1,0 +1,75 @@
+28450196|t|Receipt of thyroid hormone deficiency treatment and risk of herpes zoster
+28450196|a|Thyroid hormone (TH) has been suggested to control herpes virus gene expression and replication in neurons via epigenetics through its nuclear receptors. It has previously been shown that patients with hypothyroidism are predisposed to herpes zoster (HZ), suggesting that the TH deficiency may be a risk factor for varicella zoster virus (VZV) reactivation. The aim of this study was to test the hypothesis that TH treatment will ameliorate the complication of HZ. This study investigated the hypothesis by enquiring into a comprehensive medical database at Kaiser Permanente Southern California (KPSC) to verify whether patients taking TH medication experience a reduction in HZ occurrence. It was shown by Kaplan-Meier analysis that hypothyroidism patients taking TH medicines had a lower risk of HZ. The fully adjusted analysis indicated that patients receiving medication for the treatment of TH deficiency exhibited a reduced risk of HZ (hazard ratio 0.60, 95% confidence interval 0.51-0.71). This lower risk of HZ was significant in all age groups except the 18-39 years cohort. In addition, female patients taking TH treatment exhibited a lower risk than their male counterparts. Together these findings support the hypothesis that a constant level of TH will provide a degree of protection from contracting HZ. More studies are underway to evaluate the laboratory data for an analysis of hormonal effects on individuals.
+28450196	11	37	thyroid hormone deficiency	T047	C0020676
+28450196	38	47	treatment	T061	C0087111
+28450196	52	56	risk	T078	C0035647
+28450196	60	73	herpes zoster	T047	C0019360
+28450196	74	89	Thyroid hormone	T116,T125	C0040135
+28450196	91	93	TH	T116,T125	C0040135
+28450196	125	137	herpes virus	T005	C0019369
+28450196	138	153	gene expression	T045	C0017262
+28450196	158	169	replication	T045	C0598312
+28450196	173	180	neurons	T025	C0027882
+28450196	185	196	epigenetics	T045	C1516924
+28450196	209	226	nuclear receptors	T116,T192	C0206588
+28450196	262	270	patients	T101	C0030705
+28450196	276	290	hypothyroidism	T047	C0020676
+28450196	310	323	herpes zoster	T047	C0019360
+28450196	325	327	HZ	T047	C0019360
+28450196	350	363	TH deficiency	T047	C0020676
+28450196	373	384	risk factor	T033	C0035648
+28450196	389	411	varicella zoster virus	T005	C0042338
+28450196	413	416	VZV	T005	C0042338
+28450196	418	430	reactivation	T052	C4086768
+28450196	436	439	aim	T078	C1947946
+28450196	448	453	study	T062	C2603343
+28450196	470	480	hypothesis	T078	C1512571
+28450196	486	498	TH treatment	T061	C2986608
+28450196	519	531	complication	T046	C0009566
+28450196	535	537	HZ	T047	C0019360
+28450196	544	549	study	T062	C2603343
+28450196	550	562	investigated	T169	C1292732
+28450196	567	577	hypothesis	T078	C1512571
+28450196	598	628	comprehensive medical database	T170	C0242356
+28450196	632	669	Kaiser Permanente Southern California	T093	C1708333
+28450196	671	675	KPSC	T093	C1708333
+28450196	695	703	patients	T101	C0030705
+28450196	711	713	TH	T116,T125	C0040135
+28450196	714	724	medication	T058	C2081612
+28450196	751	753	HZ	T047	C0019360
+28450196	782	803	Kaplan-Meier analysis	T081	C1720943
+28450196	809	823	hypothyroidism	T047	C0020676
+28450196	824	832	patients	T101	C0030705
+28450196	840	842	TH	T116,T125	C0040135
+28450196	843	852	medicines	T121	C0013227
+28450196	865	869	risk	T078	C0035647
+28450196	873	875	HZ	T047	C0019360
+28450196	896	904	analysis	T062	C0936012
+28450196	920	928	patients	T101	C0030705
+28450196	939	949	medication	T058	C2081612
+28450196	958	967	treatment	T061	C0087111
+28450196	971	984	TH deficiency	T047	C0020676
+28450196	1005	1009	risk	T078	C0035647
+28450196	1013	1015	HZ	T047	C0019360
+28450196	1017	1029	hazard ratio	T081	C2985465
+28450196	1040	1059	confidence interval	T081	C0009667
+28450196	1083	1087	risk	T078	C0035647
+28450196	1091	1093	HZ	T047	C0019360
+28450196	1117	1127	age groups	T100	C0027362
+28450196	1145	1150	years	T079	C0439234
+28450196	1151	1157	cohort	T098	C0599755
+28450196	1172	1178	female	T032	C0086287
+28450196	1179	1187	patients	T101	C0030705
+28450196	1195	1207	TH treatment	T061	C2986608
+28450196	1226	1230	risk	T078	C0035647
+28450196	1242	1246	male	T032	C0086582
+28450196	1276	1284	findings	T033	C0243095
+28450196	1297	1307	hypothesis	T078	C1512571
+28450196	1333	1335	TH	T116,T125	C0040135
+28450196	1389	1391	HZ	T047	C0019360
+28450196	1398	1405	studies	T062	C2603343
+28450196	1422	1450	evaluate the laboratory data	T058	C0262707
+28450196	1458	1466	analysis	T062	C0936012
+28450196	1470	1478	hormonal	T080	C0458083
+28450196	1479	1486	effects	T080	C1280500
+28450196	1490	1501	individuals	T098	C0027361

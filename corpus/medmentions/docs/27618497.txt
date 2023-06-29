@@ -1,0 +1,96 @@
+27618497|t|Evaluation of a New Brain Tissue Probe for Cerebral Blood Flow Monitoring in an Experimental Pig Model
+27618497|a|Bedside monitoring of cerebral blood flow (CBF) may provide new insights into the pathophysiology of brain injury, allow early detection of secondary ischemia, and help guide therapy. To evaluate a new brain tissue probe for serial CBF monitoring using near-infrared spectroscopy and indocyanine green dye dilution (NeMo Probe) compared with the existing thermal diffusion probe (QFlow 500 Probe). In 7 pigs, the NeMo Probe and QFlow 500 Probe were inserted into the subcortical white matter. Parallel measurements were recorded during (1) baseline, (2) hypotension, (3) hypertension, and (4) hyperventilation. Thereafter, protocol points 1 through 4 were repeated once. The Spearman correlation (rs), Bland-Altman plot, concordance rate, and coefficient of variation were used for statistical analysis. There was poor agreement between 56 pairs of absolute CBF values (rs = 0.52, P < .001). The mean bias was 10.7 mL·100 g·min with limits of agreement of -33.0 to 54.3 mL·100 g·min. The analysis of 49 pairs of changes in CBF showed a good correlation (rs = 0.83, P < .001), and the concordance rate was 93.3%. The coefficient of variation from repeated measurements under comparable physiological conditions was 51.6% for the QFlow 500 Probe and 12.9% for the NeMo Probe. Absolute CBF values obtained with the NeMo Probe and QFlow 500 Probe cannot be interpreted as equivalent. However, the NeMo Probe provides acceptable trending ability and reproducibility from repeated measurements, whereas the reproducibility of the QFlow 500 Probe was poor. Future clinical studies are warranted to evaluate the NeMo Probe in the setting of acute brain injury. CBF, cerebral blood flow CBV, cerebral blood volume ICG, indocyanine green ICP, intracranial pressure MAP, mean arterial pressure mttICG, mean transit time of indocyanine green NIRS, near-infrared spectroscopy.
+27618497	0	10	Evaluation	T058	C0220825
+27618497	20	32	Brain Tissue	T023	C0459385
+27618497	33	38	Probe	T074	C0182400
+27618497	43	62	Cerebral Blood Flow	T033	C0428714
+27618497	63	73	Monitoring	T058	C1283169
+27618497	80	102	Experimental Pig Model	T008	C0887965
+27618497	103	110	Bedside	T074	C1138881
+27618497	111	121	monitoring	T058	C1283169
+27618497	125	144	cerebral blood flow	T033	C0428714
+27618497	146	149	CBF	T033	C0428714
+27618497	185	200	pathophysiology	T169	C0031847
+27618497	204	216	brain injury	T037	C0270611
+27618497	230	239	detection	T058	C0683509
+27618497	243	261	secondary ischemia	T046	C0022116
+27618497	278	285	therapy	T061	C0087111
+27618497	305	317	brain tissue	T023	C0459385
+27618497	318	323	probe	T074	C0182400
+27618497	335	338	CBF	T033	C0428714
+27618497	339	349	monitoring	T058	C1283169
+27618497	356	382	near-infrared spectroscopy	T059	C0376519
+27618497	387	404	indocyanine green	T109,T130	C0021234
+27618497	405	417	dye dilution	T060	C0013341
+27618497	419	429	NeMo Probe	T074	C0182400
+27618497	458	481	thermal diffusion probe	T074	C0182400
+27618497	483	498	QFlow 500 Probe	T074	C0182400
+27618497	506	510	pigs	T015	C0039005
+27618497	516	526	NeMo Probe	T074	C0182400
+27618497	531	546	QFlow 500 Probe	T074	C0182400
+27618497	552	560	inserted	T058	C0441587
+27618497	570	581	subcortical	T029	C0815275
+27618497	582	594	white matter	T024	C0682708
+27618497	596	617	Parallel measurements	T169	C0242485
+27618497	643	651	baseline	T081	C1442488
+27618497	657	668	hypotension	T033	C0020649
+27618497	674	686	hypertension	T047	C0020538
+27618497	696	712	hyperventilation	T033	C0020578
+27618497	726	734	protocol	T170	C0442711
+27618497	735	741	points	T033	C3176122
+27618497	759	767	repeated	T169	C0205341
+27618497	778	798	Spearman correlation	T170	C1710141
+27618497	800	802	rs	T170	C1710141
+27618497	805	822	Bland-Altman plot	T081	C0392762
+27618497	824	840	concordance rate	T081	C1521828
+27618497	846	870	coefficient of variation	T081	C0681921
+27618497	885	905	statistical analysis	T062	C0871424
+27618497	952	960	absolute	T080	C0205344
+27618497	961	964	CBF	T033	C0428714
+27618497	965	971	values	T080	C0042295
+27618497	973	975	rs	T170	C1710141
+27618497	999	1008	mean bias	T078	C0242568
+27618497	1036	1055	limits of agreement	T169	C0439801
+27618497	1091	1099	analysis	T062	C0936012
+27618497	1115	1122	changes	T169	C0392747
+27618497	1126	1129	CBF	T033	C0428714
+27618497	1144	1155	correlation	T080	C1707520
+27618497	1157	1159	rs	T170	C1710141
+27618497	1187	1203	concordance rate	T081	C1521828
+27618497	1219	1243	coefficient of variation	T081	C0681921
+27618497	1249	1257	repeated	T169	C0205341
+27618497	1258	1270	measurements	T169	C0242485
+27618497	1288	1301	physiological	T169	C0205463
+27618497	1302	1312	conditions	T080	C0348080
+27618497	1331	1346	QFlow 500 Probe	T074	C0182400
+27618497	1365	1375	NeMo Probe	T074	C0182400
+27618497	1377	1385	Absolute	T080	C0205344
+27618497	1386	1389	CBF	T033	C0428714
+27618497	1390	1396	values	T080	C0042295
+27618497	1415	1425	NeMo Probe	T074	C0182400
+27618497	1430	1445	QFlow 500 Probe	T074	C0182400
+27618497	1471	1481	equivalent	T080	C0205163
+27618497	1496	1506	NeMo Probe	T074	C0182400
+27618497	1548	1563	reproducibility	T080	C1514863
+27618497	1569	1577	repeated	T169	C0205341
+27618497	1578	1590	measurements	T169	C0242485
+27618497	1604	1619	reproducibility	T080	C1514863
+27618497	1627	1642	QFlow 500 Probe	T074	C0182400
+27618497	1660	1676	clinical studies	T062	C0008972
+27618497	1694	1702	evaluate	T058	C0220825
+27618497	1707	1717	NeMo Probe	T074	C0182400
+27618497	1736	1754	acute brain injury	T037	C0085742
+27618497	1756	1759	CBF	T033	C0428714
+27618497	1761	1780	cerebral blood flow	T033	C0428714
+27618497	1781	1784	CBV	T032	C4277714
+27618497	1786	1807	cerebral blood volume	T032	C4277714
+27618497	1808	1811	ICG	T109,T130	C0021234
+27618497	1813	1830	indocyanine green	T109,T130	C0021234
+27618497	1831	1834	ICP	T042	C0021880
+27618497	1836	1857	intracranial pressure	T042	C0021880
+27618497	1858	1861	MAP	T033	C0428886
+27618497	1863	1885	mean arterial pressure	T033	C0428886
+27618497	1886	1892	mttICG	T033	C0243095
+27618497	1894	1932	mean transit time of indocyanine green	T033	C0243095
+27618497	1933	1937	NIRS	T059	C0376519
+27618497	1939	1965	near-infrared spectroscopy	T059	C0376519

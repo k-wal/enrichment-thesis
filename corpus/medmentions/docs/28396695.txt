@@ -1,0 +1,105 @@
+28396695|t|A new patient safety smartphone application for prevention of " forgotten " ureteral stents: results from a clinical pilot study in 194 patients
+28396695|a|Approximately 12% of all ureteral stents placed are retained or " forgotten ." Forgotten stents are associated with significant safety concerns as well as increased costs and legal issues. Retained ureteral stents (RUS) often occur due to lack of clinical follow-up, communication or language barriers, and economic concerns. We describe a multiplatform application that facilitates data collection to prevent RUS. The "Stent Tracker" application can be installed on mobile devices and computers. The encrypted and password-protected information is accessible from any device and provides information about each procedure, stent placement and removal dates, as well as product description. This multicenter retrospective study included 194 patients who underwent stent placement between July and October 2015. Nominal data was tallied and ordinal data was divided into quartiles of 25, 50, and 75%. A total of 194 patients from three institutions underwent ureteral stent placement. Reasons for stent placement include 122 cases post ureteroscopy (63%), 8 cases post percutaneous nephrolithotomy (PCNL) (4%), 14 cases post extracorporeal shock wave lithotripsy (SWL) (7%), 18 cases of cancer-related ureteral obstruction (9%), 21 cases of hydronephrosis (11%), and 11 for other reasons (6%). Of these patients, only one patient was lost to follow-up (0.5%). On average, ureteral stents were removed within 14 days of placement (IQR: 8-26 days). The " Stent Tracker " is a patient safety application that provides a secure and simplified interface, which can significantly reduce the incidence of RUS. Further developments could include automated notifications to patients and staff, color-coding, and integrated information with electronic patient charts.
+28396695	2	5	new	T080	C0205314
+28396695	6	20	patient safety	T058	C1113679
+28396695	21	43	smartphone application	T170	C3658303
+28396695	48	58	prevention	T080	C2700409
+28396695	64	73	forgotten	T033	C0243095
+28396695	76	91	ureteral stents	T074	C0183518
+28396695	93	100	results	T169	C1274040
+28396695	108	128	clinical pilot study	T062	C0008972
+28396695	136	144	patients	T101	C0030705
+28396695	145	158	Approximately	T080	C0332232
+28396695	170	185	ureteral stents	T074	C0183518
+28396695	197	205	retained	T169	C0333118
+28396695	211	220	forgotten	T033	C0243095
+28396695	224	233	Forgotten	T033	C0243095
+28396695	234	240	stents	T074	C0183518
+28396695	245	260	associated with	T080	C0332281
+28396695	261	272	significant	T078	C0750502
+28396695	273	288	safety concerns	T058	C0150755
+28396695	300	309	increased	T081	C0205217
+28396695	310	315	costs	T081	C0010186
+28396695	320	332	legal issues	T089	C0680513
+28396695	334	342	Retained	T169	C0333118
+28396695	343	358	ureteral stents	T074	C0183518
+28396695	360	363	RUS	T074	C0183518
+28396695	384	388	lack	T080	C0332268
+28396695	392	410	clinical follow-up	T058	C3274571
+28396695	412	425	communication	T054	C0009452
+28396695	429	446	language barriers	T033	C0237167
+28396695	452	469	economic concerns	T081	C0013551
+28396695	485	510	multiplatform application	T170	C3658303
+28396695	516	527	facilitates	T169	C0205245
+28396695	528	543	data collection	T062	C0010995
+28396695	547	554	prevent	T080	C2700409
+28396695	555	558	RUS	T074	C0183518
+28396695	564	591	"Stent Tracker" application	T170	C3658303
+28396695	599	608	installed	T169	C0205245
+28396695	612	626	mobile devices	T073	C1136360
+28396695	631	640	computers	T073	C0009622
+28396695	646	655	encrypted	T080	C1707909
+28396695	660	678	password-protected	T170	C1709475
+28396695	679	690	information	T078	C1533716
+28396695	714	720	device	T073	C0699733
+28396695	734	745	information	T078	C1533716
+28396695	757	766	procedure	T169	C2700391
+28396695	768	783	stent placement	T061	C0522776
+28396695	788	795	removal	T061	C0522778
+28396695	796	801	dates	T079	C0011008
+28396695	814	833	product description	T170	C0678257
+28396695	840	871	multicenter retrospective study	T062	C0035363
+28396695	885	893	patients	T101	C0030705
+28396695	908	923	stent placement	T061	C0522776
+28396695	932	936	July	T080	C3829447
+28396695	941	948	October	T079	C3828732
+28396695	955	967	Nominal data	T078	C1511726
+28396695	972	979	tallied	T080	C0205556
+28396695	984	996	ordinal data	T078	C1511726
+28396695	1014	1023	quartiles	T080	C2828255
+28396695	1059	1067	patients	T101	C0030705
+28396695	1079	1091	institutions	T078	C1272753
+28396695	1102	1110	ureteral	T023	C0041951
+28396695	1111	1126	stent placement	T061	C0522776
+28396695	1128	1135	Reasons	T078	C0392360
+28396695	1140	1155	stent placement	T061	C0522776
+28396695	1168	1173	cases	T169	C0868928
+28396695	1174	1178	post	T079	C0687676
+28396695	1179	1191	ureteroscopy	T058	C0194261
+28396695	1201	1206	cases	T169	C0868928
+28396695	1207	1211	post	T079	C0687676
+28396695	1212	1240	percutaneous nephrolithotomy	T061	C0162428
+28396695	1242	1246	PCNL	T061	C0162428
+28396695	1257	1262	cases	T169	C0868928
+28396695	1263	1267	post	T079	C0687676
+28396695	1268	1305	extracorporeal shock wave lithotripsy	T061	C0015359
+28396695	1307	1310	SWL	T061	C0015359
+28396695	1321	1326	cases	T169	C0868928
+28396695	1330	1344	cancer-related	T033	C2826292
+28396695	1345	1365	ureteral obstruction	T190	C0041956
+28396695	1375	1380	cases	T169	C0868928
+28396695	1384	1398	hydronephrosis	T047	C0020295
+28396695	1423	1430	reasons	T078	C0392360
+28396695	1446	1454	patients	T101	C0030705
+28396695	1465	1472	patient	T101	C0030705
+28396695	1477	1481	lost	T169	C0745777
+28396695	1485	1494	follow-up	T058	C1522577
+28396695	1515	1530	ureteral stents	T074	C0183518
+28396695	1554	1558	days	T079	C0439228
+28396695	1562	1571	placement	T061	C0522776
+28396695	1573	1576	IQR	T081	C1711350
+28396695	1583	1587	days	T079	C0439228
+28396695	1596	1609	Stent Tracker	T170	C3658303
+28396695	1617	1631	patient safety	T058	C1113679
+28396695	1632	1643	application	T170	C3658303
+28396695	1660	1666	secure	T080	C0205556
+28396695	1671	1691	simplified interface	T170	C2698172
+28396695	1703	1723	significantly reduce	T080	C0392756
+28396695	1741	1744	RUS	T074	C0183518
+28396695	1754	1766	developments	T169	C1527148
+28396695	1781	1804	automated notifications	T078	C1548024
+28396695	1808	1816	patients	T101	C0030705
+28396695	1821	1826	staff	T097	C0851286
+28396695	1828	1840	color-coding	T170	C0805701
+28396695	1846	1868	integrated information	T078	C1533716
+28396695	1874	1899	electronic patient charts	T073	C1268547

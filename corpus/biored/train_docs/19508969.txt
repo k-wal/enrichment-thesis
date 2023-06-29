@@ -1,0 +1,83 @@
+19508969|t|Hypomorphic mutations in meckelin (MKS3/TMEM67) cause nephronophthisis with liver fibrosis (NPHP11).
+19508969|a|BACKGROUND: Nephronophthisis (NPHP), a rare recessive cystic kidney disease, is the most frequent genetic cause of chronic renal failure in children and young adults. Mutations in nine genes (NPHP1-9) have been identified. NPHP can be associated with retinal degeneration (Senior-Loken syndrome), brainstem and cerebellar anomalies (Joubert syndrome), or liver fibrosis. METHODS: To identify a causative gene for the subset of patients with associated liver fibrosis, the authors performed a genome wide linkage search in a consanguineous family with three affected patients using 50K SNP microarrays and homozygosity mapping. RESULTS: The authors obtained a significant maximum parametric LOD (logarithm of odds) score of Z(max) = 3.72 on chromosome 8q22 and identified a homozygous missense mutation in the gene MKS3/TMEM67. When examining a worldwide cohort of 62 independent patients with NPHP and associated liver fibrosis we identified altogether four novel mutations (p.W290L, p.C615R, p.G821S, and p.G821R) in five of them. Mutations of MKS3/TMEM67, found recently in Meckel-Gruber syndrome (MKS) type 3 and Joubert syndrome (JBTS) type 6, are predominantly truncating mutations. In contrast, the mutations detected here in patients with NPHP and associated liver fibrosis are exclusively missense mutations. This suggests that they may represent hypomorphic alleles, leading to a milder phenotype compared with the more severe MKS or JBTS phenotype. Additionally, mutation analysis for MKS3/TMEM67 in 120 patients with JBTS yielded seven different (four novel) mutations in five patients, four of whom also presented with congenital liver fibrosis. CONCLUSIONS: Hypomorphic MKS3/TMEM67 mutations cause NPHP with liver fibrosis (NPHP11). This is the first report of MKS3 mutations in patients with no vermian agenesis and without neurological signs. Thus NPHP, JBTS, and MKS represent allelic disorders.
+19508969	25	33	meckelin	GeneOrGeneProduct	91147
+19508969	35	39	MKS3	GeneOrGeneProduct	91147
+19508969	40	46	TMEM67	GeneOrGeneProduct	91147
+19508969	54	90	nephronophthisis with liver fibrosis	DiseaseOrPhenotypicFeature	OMIM:613550
+19508969	92	98	NPHP11	DiseaseOrPhenotypicFeature	OMIM:613550
+19508969	113	129	Nephronophthisis	DiseaseOrPhenotypicFeature	C537699
+19508969	131	135	NPHP	DiseaseOrPhenotypicFeature	C537699
+19508969	155	176	cystic kidney disease	DiseaseOrPhenotypicFeature	D052177
+19508969	216	237	chronic renal failure	DiseaseOrPhenotypicFeature	D007676
+19508969	293	300	NPHP1-9	GeneOrGeneProduct	23322,261734,27031,27130,284086,4867,80184,84662,9657
+19508969	324	328	NPHP	DiseaseOrPhenotypicFeature	C537699
+19508969	352	372	retinal degeneration	DiseaseOrPhenotypicFeature	D012162
+19508969	374	395	Senior-Loken syndrome	DiseaseOrPhenotypicFeature	C537580
+19508969	412	432	cerebellar anomalies	DiseaseOrPhenotypicFeature	D002526
+19508969	434	450	Joubert syndrome	DiseaseOrPhenotypicFeature	C536293
+19508969	456	470	liver fibrosis	DiseaseOrPhenotypicFeature	D008103
+19508969	528	536	patients	OrganismTaxon	9606
+19508969	553	567	liver fibrosis	DiseaseOrPhenotypicFeature	D008103
+19508969	667	675	patients	OrganismTaxon	9606
+19508969	915	919	MKS3	GeneOrGeneProduct	91147
+19508969	920	926	TMEM67	GeneOrGeneProduct	91147
+19508969	980	988	patients	OrganismTaxon	9606
+19508969	994	998	NPHP	DiseaseOrPhenotypicFeature	C537699
+19508969	1014	1028	liver fibrosis	DiseaseOrPhenotypicFeature	D008103
+19508969	1076	1083	p.W290L	SequenceVariant	rs267607117
+19508969	1085	1092	p.C615R	SequenceVariant	rs201893408
+19508969	1094	1101	p.G821S	SequenceVariant	rs267607116
+19508969	1107	1114	p.G821R	SequenceVariant	rs267607116
+19508969	1146	1150	MKS3	GeneOrGeneProduct	91147
+19508969	1151	1157	TMEM67	GeneOrGeneProduct	91147
+19508969	1177	1212	Meckel-Gruber syndrome (MKS) type 3	DiseaseOrPhenotypicFeature	C536132
+19508969	1217	1247	Joubert syndrome (JBTS) type 6	DiseaseOrPhenotypicFeature	C537689
+19508969	1333	1341	patients	OrganismTaxon	9606
+19508969	1347	1351	NPHP	DiseaseOrPhenotypicFeature	C537699
+19508969	1367	1381	liver fibrosis	DiseaseOrPhenotypicFeature	D008103
+19508969	1537	1540	MKS	DiseaseOrPhenotypicFeature	C536133
+19508969	1544	1548	JBTS	DiseaseOrPhenotypicFeature	C536293
+19508969	1596	1600	MKS3	GeneOrGeneProduct	91147
+19508969	1601	1607	TMEM67	GeneOrGeneProduct	91147
+19508969	1615	1623	patients	OrganismTaxon	9606
+19508969	1629	1633	JBTS	DiseaseOrPhenotypicFeature	C536293
+19508969	1689	1697	patients	OrganismTaxon	9606
+19508969	1743	1757	liver fibrosis	DiseaseOrPhenotypicFeature	D008103
+19508969	1784	1788	MKS3	GeneOrGeneProduct	91147
+19508969	1789	1795	TMEM67	GeneOrGeneProduct	91147
+19508969	1812	1836	NPHP with liver fibrosis	DiseaseOrPhenotypicFeature	OMIM:613550
+19508969	1838	1844	NPHP11	DiseaseOrPhenotypicFeature	OMIM:613550
+19508969	1875	1879	MKS3	GeneOrGeneProduct	91147
+19508969	1893	1901	patients	OrganismTaxon	9606
+19508969	1964	1968	NPHP	DiseaseOrPhenotypicFeature	C537699
+19508969	1970	1974	JBTS	DiseaseOrPhenotypicFeature	C536293
+19508969	1980	1983	MKS	DiseaseOrPhenotypicFeature	C536133
+19508969	1994	2011	allelic disorders	DiseaseOrPhenotypicFeature	D030342
+19508969	Positive_Correlation	C537689	rs267607116	Novel
+19508969	Positive_Correlation	C537689	rs201893408	Novel
+19508969	Positive_Correlation	C537689	rs267607117	Novel
+19508969	Positive_Correlation	C536132	rs267607116	Novel
+19508969	Positive_Correlation	C536132	rs201893408	Novel
+19508969	Positive_Correlation	C536132	rs267607117	Novel
+19508969	Positive_Correlation	rs267607116	C537699	Novel
+19508969	Positive_Correlation	rs267607116	C536133	Novel
+19508969	Positive_Correlation	rs267607116	C536293	Novel
+19508969	Positive_Correlation	rs267607116	D008103	Novel
+19508969	Positive_Correlation	rs201893408	C537699	Novel
+19508969	Positive_Correlation	rs201893408	C536133	Novel
+19508969	Positive_Correlation	rs201893408	C536293	Novel
+19508969	Positive_Correlation	rs201893408	D008103	Novel
+19508969	Positive_Correlation	rs267607117	C537699	Novel
+19508969	Positive_Correlation	rs267607117	C536133	Novel
+19508969	Positive_Correlation	rs267607117	C536293	Novel
+19508969	Positive_Correlation	rs267607117	D008103	Novel
+19508969	Positive_Correlation	OMIM:613550	rs267607116	Novel
+19508969	Positive_Correlation	OMIM:613550	rs201893408	Novel
+19508969	Positive_Correlation	OMIM:613550	rs267607117	Novel
+19508969	Association	91147	C537689	No
+19508969	Association	91147	C536132	No
+19508969	Association	91147	C537699	Novel
+19508969	Association	91147	C536133	No
+19508969	Association	91147	C536293	No
+19508969	Association	91147	D008103	Novel
+19508969	Association	91147	OMIM:613550	Novel

@@ -1,0 +1,48 @@
+27571883|t|Predictors of neurologic and nonneurologic death in patients with brain metastasis initially treated with upfront stereotactic radiosurgery without whole-brain radiation therapy
+27571883|a|In this study we attempted to discern the factors predictive of neurologic death in patients with brain metastasis treated with upfront stereotactic radiosurgery (SRS) without whole brain radiation therapy (WBRT) while accounting for the competing risk of nonneurologic death. We performed a retrospective single-institution analysis of patients with brain metastasis treated with upfront SRS without WBRT. Competing risks analysis was performed to estimate the subdistribution hazard ratios (HRs) for neurologic and nonneurologic death for predictor variables of interest. Of 738 patients treated with upfront SRS alone, neurologic death occurred in 226 (30.6%), while nonneurologic death occurred in 309 (41.9%). Multivariate competing risks analysis identified an increased hazard of neurologic death associated with diagnosis-specific graded prognostic assessment (DS-GPA) ≤ 2 (P = .005), melanoma histology (P = .009), and increased number of brain metastases (P<.001), while there was a decreased hazard associated with higher SRS dose (P = .004). Targeted agents were associated with a decreased HR of neurologic death in the first 1.5 years (P = .04) but not afterwards. An increased hazard of nonneurologic death was seen with increasing age (P =.03), nonmelanoma histology (P<.001), presence of extracranial disease (P<.001), and progressive systemic disease (P =.004). Melanoma, DS-GPA, number of brain metastases, and SRS dose are predictive of neurologic death, while age, nonmelanoma histology, and more advanced systemic disease are predictive of nonneurologic death. Targeted agents appear to delay neurologic death.
+27571883	14	24	neurologic	T038	UMLS:C0006110
+27571883	29	48	nonneurologic death	T033	UMLS:C1306577
+27571883	66	82	brain metastasis	T038	UMLS:C0220650
+27571883	106	139	upfront stereotactic radiosurgery	T058	UMLS:C0085203
+27571883	148	177	whole-brain radiation therapy	T058	UMLS:C1520143
+27571883	186	191	study	T062	UMLS:C2603343
+27571883	242	258	neurologic death	T038	UMLS:C0006110
+27571883	276	292	brain metastasis	T038	UMLS:C0220650
+27571883	306	339	upfront stereotactic radiosurgery	T058	UMLS:C0085203
+27571883	341	344	SRS	T058	UMLS:C0085203
+27571883	354	383	whole brain radiation therapy	T058	UMLS:C1520143
+27571883	385	389	WBRT	T058	UMLS:C1520143
+27571883	434	453	nonneurologic death	T033	UMLS:C1306577
+27571883	484	502	single-institution	T092	UMLS:C2607850
+27571883	503	511	analysis	T062	UMLS:C0936012
+27571883	529	545	brain metastasis	T038	UMLS:C0220650
+27571883	567	570	SRS	T058	UMLS:C0085203
+27571883	579	583	WBRT	T058	UMLS:C1520143
+27571883	680	690	neurologic	T038	UMLS:C0006110
+27571883	695	714	nonneurologic death	T033	UMLS:C1306577
+27571883	781	792	upfront SRS	T058	UMLS:C0085203
+27571883	800	816	neurologic death	T038	UMLS:C0006110
+27571883	848	867	nonneurologic death	T033	UMLS:C1306577
+27571883	965	981	neurologic death	T038	UMLS:C0006110
+27571883	998	1045	diagnosis-specific graded prognostic assessment	T170	UMLS:C0282574
+27571883	1047	1053	DS-GPA	T170	UMLS:C0282574
+27571883	1071	1079	melanoma	T038	UMLS:C0025202
+27571883	1080	1089	histology	T058	UMLS:C0344441
+27571883	1126	1142	brain metastases	T038	UMLS:C0220650
+27571883	1211	1214	SRS	T058	UMLS:C0085203
+27571883	1232	1247	Targeted agents	T103	UMLS:C1254351
+27571883	1287	1303	neurologic death	T038	UMLS:C0006110
+27571883	1380	1399	nonneurologic death	T033	UMLS:C1306577
+27571883	1439	1460	nonmelanoma histology	T058	UMLS:C0344441
+27571883	1483	1503	extracranial disease	T038	UMLS:C0012634
+27571883	1530	1546	systemic disease	T038	UMLS:C0442893
+27571883	1558	1566	Melanoma	T038	UMLS:C0025202
+27571883	1568	1574	DS-GPA	T170	UMLS:C0282574
+27571883	1586	1602	brain metastases	T038	UMLS:C0220650
+27571883	1608	1611	SRS	T058	UMLS:C0085203
+27571883	1635	1651	neurologic death	T038	UMLS:C0006110
+27571883	1664	1685	nonmelanoma histology	T058	UMLS:C0344441
+27571883	1705	1721	systemic disease	T038	UMLS:C0442893
+27571883	1740	1759	nonneurologic death	T033	UMLS:C1306577
+27571883	1761	1776	Targeted agents	T103	UMLS:C1254351
+27571883	1793	1809	neurologic death	T038	UMLS:C0006110

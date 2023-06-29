@@ -1,0 +1,67 @@
+24768818|t|Structural mechanisms determining inhibition of the collagen receptor DDR1 by selective and multi-targeted type II kinase inhibitors.
+24768818|a|The discoidin domain receptors (DDRs), DDR1 and DDR2, form a unique subfamily of receptor tyrosine kinases that are activated by the binding of triple-helical collagen. Excessive signaling by DDR1 and DDR2 has been linked to the progression of various human diseases, including fibrosis, atherosclerosis and cancer. We report the inhibition of these unusual receptor tyrosine kinases by the multi-targeted cancer drugs imatinib and ponatinib, as well as the selective type II inhibitor DDR1-IN-1. Ponatinib is identified as the more potent molecule, which inhibits DDR1 and DDR2 with an IC50 of 9nM. Co-crystal structures of human DDR1 reveal a DFG-out conformation (DFG, Asp-Phe-Gly) of the kinase domain that is stabilized by an unusual salt bridge between the activation loop and aD helix. Differences to Abelson kinase (ABL) are observed in the DDR1 P-loop, where a b-hairpin replaces the cage-like structure of ABL. P-loop residues in DDR1 that confer drug resistance in ABL are therefore accommodated outside the ATP pocket. Whereas imatinib and ponatinib bind potently to both the DDR and ABL kinases, the hydrophobic interactions of the ABL P-loop appear poorly satisfied by DDR1-IN-1 suggesting a structural basis for its DDR1 selectivity. Such inhibitors may have applications in clinical indications of DDR1 and DDR2 overexpression or mutation, including lung cancer.
+24768818	52	69	collagen receptor	GeneOrGeneProduct	4921,780
+24768818	70	74	DDR1	GeneOrGeneProduct	780
+24768818	138	164	discoidin domain receptors	GeneOrGeneProduct	4921,780
+24768818	166	170	DDRs	GeneOrGeneProduct	4921,780
+24768818	173	177	DDR1	GeneOrGeneProduct	780
+24768818	182	186	DDR2	GeneOrGeneProduct	4921
+24768818	215	240	receptor tyrosine kinases	GeneOrGeneProduct	4921,780
+24768818	293	301	collagen	GeneOrGeneProduct	1277
+24768818	326	330	DDR1	GeneOrGeneProduct	780
+24768818	335	339	DDR2	GeneOrGeneProduct	4921
+24768818	386	391	human	OrganismTaxon	9606
+24768818	412	420	fibrosis	DiseaseOrPhenotypicFeature	D005355
+24768818	422	437	atherosclerosis	DiseaseOrPhenotypicFeature	D050197
+24768818	442	448	cancer	DiseaseOrPhenotypicFeature	D009369
+24768818	492	517	receptor tyrosine kinases	GeneOrGeneProduct	4921,780
+24768818	540	546	cancer	DiseaseOrPhenotypicFeature	D009369
+24768818	553	561	imatinib	ChemicalEntity	D000068877
+24768818	566	575	ponatinib	ChemicalEntity	C545373
+24768818	620	629	DDR1-IN-1	ChemicalEntity	-
+24768818	631	640	Ponatinib	ChemicalEntity	C545373
+24768818	699	703	DDR1	GeneOrGeneProduct	780
+24768818	708	712	DDR2	GeneOrGeneProduct	4921
+24768818	759	764	human	OrganismTaxon	9606
+24768818	765	769	DDR1	GeneOrGeneProduct	780
+24768818	779	782	DFG	ChemicalEntity	C553185
+24768818	801	804	DFG	ChemicalEntity	C553185
+24768818	806	817	Asp-Phe-Gly	ChemicalEntity	C553185
+24768818	942	956	Abelson kinase	GeneOrGeneProduct	25
+24768818	958	961	ABL	GeneOrGeneProduct	25
+24768818	983	987	DDR1	GeneOrGeneProduct	780
+24768818	1050	1053	ABL	GeneOrGeneProduct	25
+24768818	1074	1078	DDR1	GeneOrGeneProduct	780
+24768818	1110	1113	ABL	GeneOrGeneProduct	25
+24768818	1153	1156	ATP	ChemicalEntity	D000255
+24768818	1173	1181	imatinib	ChemicalEntity	D000068877
+24768818	1186	1195	ponatinib	ChemicalEntity	C545373
+24768818	1222	1225	DDR	GeneOrGeneProduct	4921,780
+24768818	1230	1233	ABL	GeneOrGeneProduct	25
+24768818	1279	1282	ABL	GeneOrGeneProduct	25
+24768818	1317	1326	DDR1-IN-1	ChemicalEntity	-
+24768818	1365	1369	DDR1	GeneOrGeneProduct	780
+24768818	1448	1452	DDR1	GeneOrGeneProduct	780
+24768818	1457	1461	DDR2	GeneOrGeneProduct	4921
+24768818	1500	1511	lung cancer	DiseaseOrPhenotypicFeature	D008175
+24768818	Negative_Correlation	C545373	D008175	Novel
+24768818	Bind	C545373	25	Novel
+24768818	Negative_Correlation	C545373	D009369	No
+24768818	Negative_Correlation	D000068877	D008175	Novel
+24768818	Bind	D000068877	25	Novel
+24768818	Negative_Correlation	D000068877	D009369	No
+24768818	Positive_Correlation	4921	1277	No
+24768818	Association	4921	D008175	Novel
+24768818	Negative_Correlation	4921	C545373	Novel
+24768818	Negative_Correlation	4921	D000068877	Novel
+24768818	Association	4921	D009369	No
+24768818	Association	4921	D050197	No
+24768818	Association	4921	D005355	No
+24768818	Positive_Correlation	780	1277	No
+24768818	Association	780	D008175	Novel
+24768818	Association	780	C553185	Novel
+24768818	Negative_Correlation	780	C545373	Novel
+24768818	Negative_Correlation	780	D000068877	Novel
+24768818	Association	780	D009369	No
+24768818	Association	780	D050197	No
+24768818	Association	780	D005355	No

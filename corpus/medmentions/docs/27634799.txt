@@ -1,0 +1,108 @@
+27634799|t|Association of kidney disease with obstructive sleep apnea in a population study of men
+27634799|a|To determine the relationship between obstructive sleep apnea (OSA) and chronic kidney disease (CKD). Previous population studies of the association are sparse, conflicting and confined largely to studies of administrative data. Cross-sectional analysis in unselected participants of the Men Androgens Inflammation Lifestyle Environment and Stress (MAILES) study, aged >40 y. Renal data were available on 812 men without a prior OSA diagnosis who underwent full in-home polysomnography (Embletta X100) in 2010-2011. CKD was defined as an estimated glomerular filtration rate (eGFR) <60 mL/min/1.73m2 or eGFR ≥60 and albuminuria (albumin creatinine ratio ≥3.0 mg/mmol). CKD [10.5%, n=85 (Stage 1-3, 9.7%; Stage 4-5, 0.7%)] of predominantly mild severity showed significant association s with OSA (AHI≥10): odds ratio (OR)=1.9, 95% confidence interval (CI):1.02-3.5, severe OSA (AHI ≥30/h): OR =2.6, 95% CI:1.1-6.2, and respiratory related arousal index: ≥7.6/h OR =2.3, 95%CI: 1.1-4.7, but not measures of hypoxemia after adjustment for age, hypertension, diabetes, smoking, obesity, and NSAID use. There was no association of CKD with daytime sleepiness. In men with CKD, those with OSA were not significantly more likely to report symptoms (sleepiness, snoring, apneas) or be identified with the STOP OSA screening questionnaire, compared to men without OSA. Predominantly mild CKD is associated with severe OSA and arousals. Further population studies examining the longitudinal relationship between CKD and OSA are warranted. Better methods are needed to identify OSA in CKD which may have few symptoms.
+27634799	0	11	Association	T080	C0439849
+27634799	15	29	kidney disease	T047	C0022658
+27634799	35	58	obstructive sleep apnea	T047	C0520679
+27634799	64	80	population study	T062	C0681876
+27634799	84	87	men	T098	C0025266
+27634799	91	100	determine	T059	C1148554
+27634799	105	117	relationship	T080	C0439849
+27634799	126	149	obstructive sleep apnea	T047	C0520679
+27634799	151	154	OSA	T047	C0520679
+27634799	160	182	chronic kidney disease	T047	C1561643
+27634799	184	187	CKD	T047	C1561643
+27634799	199	217	population studies	T062	C0681876
+27634799	225	236	association	T080	C0439849
+27634799	241	247	sparse	T079	C0521114
+27634799	249	260	conflicting	T033	C0855281
+27634799	265	273	confined	T169	C0443288
+27634799	285	292	studies	T062	C2603343
+27634799	296	310	administrative	T033	C3845829
+27634799	311	315	data	T078	C1511726
+27634799	317	341	Cross-sectional analysis	T062	C0010362
+27634799	356	368	participants	T098	C0679646
+27634799	376	450	Men Androgens Inflammation Lifestyle Environment and Stress (MAILES) study	T081	C0009247
+27634799	452	456	aged	T032	C0001779
+27634799	464	469	Renal	T023	C0022646
+27634799	470	474	data	T078	C1511726
+27634799	497	500	men	T098	C0025266
+27634799	511	516	prior	T079	C0332152
+27634799	517	520	OSA	T047	C0520679
+27634799	521	530	diagnosis	T033	C0011900
+27634799	550	557	in-home	T082	C0442519
+27634799	558	573	polysomnography	T060	C0162701
+27634799	575	588	Embletta X100	T074	C0182339
+27634799	604	607	CKD	T047	C1561643
+27634799	626	662	estimated glomerular filtration rate	T059	C3811844
+27634799	664	668	eGFR	T059	C3811844
+27634799	691	695	eGFR	T059	C3811844
+27634799	704	715	albuminuria	T033	C0001925
+27634799	717	741	albumin creatinine ratio	T059	C1655929
+27634799	757	760	CKD	T047	C1561643
+27634799	775	780	Stage	T079	C1306673
+27634799	792	797	Stage	T079	C1306673
+27634799	813	826	predominantly	T080	C0332251
+27634799	827	840	mild severity	T033	C1513302
+27634799	848	859	significant	T078	C0750502
+27634799	860	871	association	T080	C0439849
+27634799	879	882	OSA	T047	C0520679
+27634799	893	903	odds ratio	T081	C0028873
+27634799	905	907	OR	T081	C0028873
+27634799	918	937	confidence interval	T081	C0009667
+27634799	939	941	CI	T081	C0009667
+27634799	953	959	severe	T080	C0205082
+27634799	960	963	OSA	T047	C0520679
+27634799	977	979	OR	T081	C0028873
+27634799	1006	1017	respiratory	T169	C0521346
+27634799	1026	1033	arousal	T039	C0233972
+27634799	1034	1039	index	T170	C0918012
+27634799	1048	1050	OR	T081	C0028873
+27634799	1081	1089	measures	T081	C0079809
+27634799	1093	1102	hypoxemia	T033	C0700292
+27634799	1109	1119	adjustment	T169	C0456081
+27634799	1124	1127	age	T032	C0001779
+27634799	1129	1141	hypertension	T047	C0020538
+27634799	1143	1151	diabetes	T047	C0011847
+27634799	1153	1160	smoking	T055	C0037369
+27634799	1162	1169	obesity	T047	C0028754
+27634799	1175	1180	NSAID	T121	C3536840
+27634799	1181	1184	use	T169	C0457083
+27634799	1199	1210	association	T080	C0439849
+27634799	1214	1217	CKD	T047	C1561643
+27634799	1223	1241	daytime sleepiness	T033	C0541854
+27634799	1246	1249	men	T098	C0025266
+27634799	1255	1258	CKD	T047	C1561643
+27634799	1271	1274	OSA	T047	C0520679
+27634799	1280	1297	not significantly	T033	C1273937
+27634799	1298	1302	more	T081	C0205172
+27634799	1303	1309	likely	T081	C0033204
+27634799	1313	1319	report	T058	C0700287
+27634799	1320	1328	symptoms	T184	C1457887
+27634799	1330	1340	sleepiness	T033	C0013144
+27634799	1342	1349	snoring	T184	C0037384
+27634799	1351	1357	apneas	T046	C0003578
+27634799	1365	1375	identified	T080	C0205396
+27634799	1385	1417	STOP OSA screening questionnaire	T062	C1134635
+27634799	1431	1434	men	T098	C0025266
+27634799	1443	1446	OSA	T047	C0520679
+27634799	1448	1461	Predominantly	T080	C0332251
+27634799	1462	1466	mild	T080	C2945599
+27634799	1467	1470	CKD	T047	C1561643
+27634799	1474	1489	associated with	T080	C0332281
+27634799	1490	1496	severe	T080	C0205082
+27634799	1497	1500	OSA	T047	C0520679
+27634799	1505	1513	arousals	T041	C0003808
+27634799	1523	1541	population studies	T062	C0681876
+27634799	1542	1551	examining	T033	C0332128
+27634799	1556	1568	longitudinal	T082	C0205127
+27634799	1569	1581	relationship	T080	C0439849
+27634799	1590	1593	CKD	T047	C1561643
+27634799	1598	1601	OSA	T047	C0520679
+27634799	1606	1615	warranted	T169	C0205245
+27634799	1624	1631	methods	T170	C0025663
+27634799	1636	1642	needed	T080	C0027552
+27634799	1646	1654	identify	T041	C0020792
+27634799	1655	1658	OSA	T047	C0520679
+27634799	1662	1665	CKD	T047	C1561643
+27634799	1681	1684	few	T081	C0205388
+27634799	1685	1693	symptoms	T184	C1457887

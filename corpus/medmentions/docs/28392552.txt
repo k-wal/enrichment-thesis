@@ -1,0 +1,88 @@
+28392552|t|Relationship Between Femur and Femoral Arteries for Identifying Risk Factors for Vascular Injury
+28392552|a|BACKGROUND This study aimed to identify risk factors for vascular injury in proximal femoral fracture through identifying frequency and distances between femur and femoral arteries with computed tomography angiography and 3-dimensional reconstruction. MATERIAL AND METHODS In a series of 400 participants, based on measurement results regarding the distribution of femoral arteries in the medial femur, the femoral portion covering that part was divided into levels A-E. The center region, margin region, and risky area in the medial femur were defined. The frequency of femoral arteries and interested shortest distance between the outer femur and superficial, deep, and perforating femoral arteries (SFAs, DFAs, and PFAs) in the center region, margin region, and risky area at each level were recorded. RESULTS There were 173 males and 227 females (average age: 63.61±19.18 years) in this study. The starting point and end point for femoral arteries in the medial femur were from 22.55±4.23% to 54.56±8.39% of the whole femur. The femoral arteries in the medial femur mainly were distributed at levels B (88.2%), C (65.9%), and D (40.6%). The femoral arteries in center regions in the risky area, most of which were DFAs and PFAs, were mainly concentrated at levels B (26.93%) and C (11.81%). CONCLUSIONS The mid-shaft level was the most risky level, and the DFAs and PFAs were easier to injure than the SFAs when performing internal fixation of proximal femoral fracture. We recommended that great attention be paid to drill and screw insertion around the mid-shaft level for prevention of iatrogenic vascular injury.
+28392552	0	12	Relationship	T080	C0439849
+28392552	21	26	Femur	T023	C0015811
+28392552	31	47	Femoral Arteries	T023	C0015801
+28392552	64	76	Risk Factors	T033	C0035648
+28392552	81	96	Vascular Injury	T037	C0178324
+28392552	137	149	risk factors	T033	C0035648
+28392552	154	169	vascular injury	T037	C0178324
+28392552	173	181	proximal	T082	C0205107
+28392552	182	198	femoral fracture	T037	C0015802
+28392552	219	228	frequency	T080	C1561548
+28392552	233	242	distances	T081	C0012751
+28392552	251	256	femur	T023	C0015811
+28392552	261	277	femoral arteries	T023	C0015801
+28392552	283	314	computed tomography angiography	T060	C1536105
+28392552	319	347	3-dimensional reconstruction	T060	C0729707
+28392552	389	401	participants	T098	C1708335
+28392552	412	423	measurement	T169	C0242485
+28392552	446	458	distribution	T082	C0037775
+28392552	462	478	femoral arteries	T023	C0015801
+28392552	486	498	medial femur	T029	C0230417
+28392552	504	519	femoral portion	T029	C0230417
+28392552	520	528	covering	T169	C0439844
+28392552	534	538	part	T023	C0015811
+28392552	556	566	levels A-E	T080	C0441889
+28392552	572	585	center region	T029	C0230417
+28392552	587	600	margin region	T029	C0230417
+28392552	606	616	risky area	T029	C0230417
+28392552	624	636	medial femur	T029	C0230417
+28392552	655	664	frequency	T080	C1561548
+28392552	668	684	femoral arteries	T023	C0015801
+28392552	700	708	shortest	T081	C1806781
+28392552	709	717	distance	T081	C0012751
+28392552	730	735	outer	T082	C0205101
+28392552	736	741	femur	T023	C0015811
+28392552	746	757	superficial	T023	C0447106
+28392552	759	763	deep	T023	C0226455
+28392552	769	797	perforating femoral arteries	T023	C1181643
+28392552	799	803	SFAs	T023	C0447106
+28392552	805	809	DFAs	T023	C0226455
+28392552	815	819	PFAs	T023	C1181643
+28392552	828	841	center region	T029	C0230417
+28392552	843	856	margin region	T029	C0230417
+28392552	862	872	risky area	T029	C0230417
+28392552	881	886	level	T080	C0441889
+28392552	925	930	males	T032	C0086582
+28392552	939	946	females	T032	C0086287
+28392552	948	955	average	T081	C1510992
+28392552	956	959	age	T032	C0001779
+28392552	1032	1048	femoral arteries	T023	C0015801
+28392552	1056	1068	medial femur	T029	C0230417
+28392552	1113	1124	whole femur	T023	C0015811
+28392552	1130	1146	femoral arteries	T023	C0015801
+28392552	1154	1166	medial femur	T029	C0230417
+28392552	1179	1190	distributed	T082	C0037775
+28392552	1194	1202	levels B	T080	C0441889
+28392552	1212	1213	C	T080	C0441889
+28392552	1227	1228	D	T080	C0441889
+28392552	1242	1258	femoral arteries	T023	C0015801
+28392552	1262	1276	center regions	T029	C0230417
+28392552	1284	1294	risky area	T029	C0230417
+28392552	1315	1319	DFAs	T023	C0226455
+28392552	1324	1328	PFAs	T023	C1181643
+28392552	1358	1366	levels B	T080	C0441889
+28392552	1380	1381	C	T080	C0441889
+28392552	1408	1417	mid-shaft	T023	C0242696
+28392552	1418	1423	level	T080	C0441889
+28392552	1437	1442	risky	T080	C1444641
+28392552	1443	1448	level	T080	C0441889
+28392552	1458	1462	DFAs	T023	C0226455
+28392552	1467	1471	PFAs	T023	C1181643
+28392552	1477	1483	easier	T033	C0332219
+28392552	1487	1493	injure	T037	C3263722
+28392552	1503	1507	SFAs	T023	C0447106
+28392552	1524	1541	internal fixation	T061	C0016642
+28392552	1545	1553	proximal	T082	C0205107
+28392552	1554	1570	femoral fracture	T037	C0015802
+28392552	1575	1586	recommended	T058	C0150600
+28392552	1619	1624	drill	T061	C0337279
+28392552	1629	1634	screw	T074	C0301559
+28392552	1635	1644	insertion	T061	C0021107
+28392552	1645	1651	around	T078	C0750503
+28392552	1656	1665	mid-shaft	T023	C0242696
+28392552	1666	1671	level	T080	C0441889
+28392552	1676	1686	prevention	T080	C2700409
+28392552	1690	1700	iatrogenic	T080	C0439669
+28392552	1701	1716	vascular injury	T037	C0178324

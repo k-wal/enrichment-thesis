@@ -1,0 +1,94 @@
+27706773|t|Relationship between genetic polymorphisms of methylenetetrahydrofolate reductase and breast cancer chemotherapy response
+27706773|a|Activity of methylenetetrahydrofolate reductase (MTHFR), an enzyme involved in folate metabolism, is influenced by mutations in the corresponding gene, contributing to a decrease in 5,10-MTHF. Due to such polymorphisms, individuals differ in MTHFR enzyme activity and plasma folate levels. We investigated the relationship between two common MTHFR polymorphisms (C677T and A1298C) and breast cancer (BC) chemotherapy response. From February 2013 to January 2016, 148 advanced BC patients at the Center Hospital of Cangzhou were enrolled and treated with six different chemotherapy regimens. Subjects were genotyped using polymerase chain reaction - restriction fragment length polymorphism. Forty-one (27.7%), 70 (47.3%), and 37 (25.0%) patients carried the C/C, C/T, and T/T C677T genotypes, respectively; 101 (68.2%), 42 (28.4%), and 5 (3.4%) had the A/A, A/C, and C/C genotypes of A1298C, respectively. Total chemotherapy efficacy was 66.9% (99/148), with 7 (4.7%), 92 (62.2%), 36 (24.3%), and 13 (8.8%) cases showing complete response, partial response, no change, and progressive disease, respectively. Chemotherapy regimens did not differ in effectiveness (P > 0.05). Efficacy rates associated with C677T C/C, C/T, and T/T genotypes were 58.5, 58.6, and 91.9%, respectively, with T/T carriers exhibiting significantly better responses than the C/C (P < 0.05) and C/T groups (P < 0.05). Effectiveness among A1298C A/A, A/C, and C/C carriers was 70.6, 64.3, and 0.0%, respectively, but no difference was established between these genotypes in this regard (P > 0.05). The MTHFR C677T genotype may be associated with BC chemotherapy response, and could be of great value in guiding individualized treatment for this disease.
+27706773	0	12	Relationship	T080	C0439849
+27706773	21	42	genetic polymorphisms	T045	C0032529
+27706773	46	81	methylenetetrahydrofolate reductase	T116,T126	C0066357
+27706773	86	99	breast cancer	T191	C0006142
+27706773	100	112	chemotherapy	T061	C3665472
+27706773	113	121	response	T201	C0521982
+27706773	122	169	Activity of methylenetetrahydrofolate reductase	T044	C1151783
+27706773	171	176	MTHFR	T116,T126	C0066357
+27706773	182	188	enzyme	T116,T126	C0014442
+27706773	201	218	folate metabolism	T044	C1157079
+27706773	237	246	mutations	T045	C0596611
+27706773	268	272	gene	T028	C0017337
+27706773	292	300	decrease	T081	C0547047
+27706773	304	313	5,10-MTHF	T109,T121,T127	C0048858
+27706773	327	340	polymorphisms	T045	C0032529
+27706773	342	353	individuals	T098	C0237401
+27706773	364	385	MTHFR enzyme activity	T044	C1151783
+27706773	390	410	plasma folate levels	T059	C0427425
+27706773	415	427	investigated	T169	C1292732
+27706773	432	444	relationship	T080	C0439849
+27706773	464	469	MTHFR	T028	C0919427
+27706773	470	483	polymorphisms	T045	C0032529
+27706773	485	490	C677T	T028	C0017337
+27706773	495	501	A1298C	T028	C0017337
+27706773	507	520	breast cancer	T191	C0006142
+27706773	522	524	BC	T191	C0006142
+27706773	526	538	chemotherapy	T061	C3665472
+27706773	539	547	response	T201	C0521982
+27706773	554	562	February	T080	C3830166
+27706773	571	578	January	T080	C3829466
+27706773	589	597	advanced	T080	C0205179
+27706773	598	600	BC	T191	C0006142
+27706773	601	609	patients	T101	C0030705
+27706773	617	632	Center Hospital	T073,T093	C0019994
+27706773	636	644	Cangzhou	UnknownType	C0681784
+27706773	663	670	treated	T169	C1522326
+27706773	680	689	different	T080	C1705242
+27706773	690	711	chemotherapy regimens	T061	C0392920
+27706773	713	721	Subjects	T098	C0080105
+27706773	727	736	genotyped	T032	C0017431
+27706773	743	768	polymerase chain reaction	T063	C0032520
+27706773	771	811	restriction fragment length polymorphism	T049	C0035268
+27706773	859	867	patients	T101	C0030705
+27706773	880	883	C/C	T032	C0017431
+27706773	885	888	C/T	T032	C0017431
+27706773	894	913	T/T C677T genotypes	T032	C0017431
+27706773	975	978	A/A	T032	C0017431
+27706773	980	983	A/C	T032	C0017431
+27706773	989	1002	C/C genotypes	T032	C0017431
+27706773	1006	1012	A1298C	T028	C0017337
+27706773	1028	1033	Total	T080	C0439810
+27706773	1034	1046	chemotherapy	T061	C3665472
+27706773	1047	1055	efficacy	T080	C1280519
+27706773	1129	1134	cases	T077	C1706256
+27706773	1143	1151	complete	T080	C0205197
+27706773	1152	1160	response	T201	C0521982
+27706773	1162	1169	partial	T081	C0728938
+27706773	1170	1178	response	T201	C0521982
+27706773	1180	1189	no change	T033	C0442739
+27706773	1195	1214	progressive disease	T191	C0677932
+27706773	1230	1251	Chemotherapy regimens	T061	C0392920
+27706773	1270	1283	effectiveness	T080	C1280519
+27706773	1296	1304	Efficacy	T080	C1280519
+27706773	1305	1310	rates	T081	C1521828
+27706773	1311	1326	associated with	T080	C0332281
+27706773	1327	1336	C677T C/C	T032	C0017431
+27706773	1338	1341	C/T	T032	C0017431
+27706773	1347	1360	T/T genotypes	T032	C0017431
+27706773	1408	1411	T/T	T032	C0017431
+27706773	1412	1420	carriers	T033	C0007294
+27706773	1453	1462	responses	T201	C0521982
+27706773	1472	1475	C/C	T032	C0017431
+27706773	1491	1494	C/T	T032	C0017431
+27706773	1495	1501	groups	T078	C0441833
+27706773	1514	1527	Effectiveness	T080	C1280519
+27706773	1534	1540	A1298C	T028	C0017337
+27706773	1541	1544	A/A	T032	C0017431
+27706773	1546	1549	A/C	T032	C0017431
+27706773	1555	1558	C/C	T032	C0017431
+27706773	1559	1567	carriers	T033	C0007294
+27706773	1612	1625	no difference	T033	C3842396
+27706773	1656	1665	genotypes	T032	C0017431
+27706773	1697	1702	MTHFR	T028	C0919427
+27706773	1703	1717	C677T genotype	T032	C0017431
+27706773	1725	1740	associated with	T080	C0332281
+27706773	1741	1743	BC	T191	C0006142
+27706773	1744	1756	chemotherapy	T061	C3665472
+27706773	1757	1765	response	T201	C0521982
+27706773	1798	1805	guiding	T170	C0220845
+27706773	1806	1820	individualized	T080	C1881197
+27706773	1821	1830	treatment	T061	C0087111
+27706773	1840	1847	disease	T047	C0012634

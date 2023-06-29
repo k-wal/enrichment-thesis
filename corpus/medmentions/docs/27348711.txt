@@ -1,0 +1,117 @@
+27348711|t|Utilization Pattern and Drug Use of Traditional Chinese Medicine, Western Medicine, and Integrated Chinese-Western Medicine Treatments for Allergic Rhinitis Under the National Health Insurance Program in Taiwan
+27348711|a|Patients in Taiwan with allergic rhinitis seek not only Western medicine treatment but also Traditional Chinese Medicine treatment or integrated Chinese-Western medicine treatment. Various studies have conducted pairwise comparison on Traditional Chinese Medicine, Western medicine, and integrated Chinese-Western medicine treatments. However, none conducted simultaneous analysis of the three treatments. This study analyzed patients with allergic rhinitis receiving the three treatments to identify differences in demographic characteristic and medical use and thereby to determine drug use patterns of different treatments. The National Health Insurance Research Database was the data source, and included patients were those diagnosed with allergic rhinitis (International Classification of Diseases, Ninth Revision, Clinical Modification codes 470-478). Chi-square test and Tukey studentized range (honest significant difference) test were conducted to investigate the differences among the three treatments. Visit frequency for allergic rhinitis treatment was higher in female than male patients, regardless of treatment with Traditional Chinese Medicine, Western medicine, or integrated Chinese-Western medicine. Persons aged 0-19 years ranked the highest in proportion of visits for allergic rhinitis. Traditional Chinese Medicine treatment had more medical items per person-time and daily drug cost per person-time and had the lowest total expenditure per person-time. In contrast, Western medicine had the lowest daily drug cost per person-time and the highest total expenditure per person-time. The total expenditure per person-time, daily drug cost per person-time, and medical items per person-time of integrated Chinese-Western medicine treatment lay between those seen with Traditional Chinese Medicine and Western medicine treatments. Although only 6.82 % of patients with allergic rhinitis chose integrated Chinese-Western medicine treatment, the visit frequency per person-year of integrated Chinese-Western medicine ranked highest. In addition, multiple-composition medicines were used more frequently than single-composition medicines, and mar huang (Ephedra sinica Stapf) was seldom used to decrease the risk of combining medications.
+27348711	0	11	Utilization	T081	C0013223
+27348711	12	19	Pattern	T082	C0449774
+27348711	24	32	Drug Use	T041	C0871719
+27348711	36	64	Traditional Chinese Medicine	T091	C0025131
+27348711	48	55	Chinese	T091	C0025123
+27348711	66	82	Western Medicine	T091	C1879848
+27348711	88	123	Integrated Chinese-Western Medicine	T091	C0025118
+27348711	124	134	Treatments	T061	C0087111
+27348711	139	156	Allergic Rhinitis	T047	C2607914
+27348711	167	200	National Health Insurance Program	T058	C1254363
+27348711	204	210	Taiwan	T083	C0039260
+27348711	211	219	Patients	T101	C0030705
+27348711	223	229	Taiwan	T083	C0039260
+27348711	235	252	allergic rhinitis	T047	C2607914
+27348711	267	283	Western medicine	T091	C1879848
+27348711	284	293	treatment	T061	C0087111
+27348711	303	331	Traditional Chinese Medicine	T091	C0025131
+27348711	332	341	treatment	T061	C0087111
+27348711	345	380	integrated Chinese-Western medicine	T091	C0025118
+27348711	381	390	treatment	T061	C0087111
+27348711	423	442	pairwise comparison	T081	C0086766
+27348711	446	474	Traditional Chinese Medicine	T091	C0025131
+27348711	476	492	Western medicine	T091	C1879848
+27348711	498	533	integrated Chinese-Western medicine	T091	C0025118
+27348711	534	544	treatments	T061	C0087111
+27348711	570	582	simultaneous	T079	C0521115
+27348711	583	591	analysis	T062	C0936012
+27348711	605	615	treatments	T061	C0087111
+27348711	628	636	analyzed	T062	C0936012
+27348711	637	645	patients	T101	C0030705
+27348711	651	668	allergic rhinitis	T047	C2607914
+27348711	689	699	treatments	T061	C0087111
+27348711	727	738	demographic	T090	C0011298
+27348711	739	753	characteristic	T080	C1521970
+27348711	758	765	medical	T169	C0205476
+27348711	766	769	use	T169	C0457083
+27348711	795	812	drug use patterns	T041	C0871719
+27348711	826	836	treatments	T061	C0087111
+27348711	842	885	National Health Insurance Research Database	T170	C0282574
+27348711	894	905	data source	T081	C0011001
+27348711	920	928	patients	T101	C0030705
+27348711	940	949	diagnosed	T033	C0011900
+27348711	955	972	allergic rhinitis	T047	C2607914
+27348711	974	1030	International Classification of Diseases, Ninth Revision	T170	C2346503
+27348711	1032	1067	Clinical Modification codes 470-478	T170	C0282574
+27348711	1070	1085	Chi-square test	T170	C0008041
+27348711	1090	1150	Tukey studentized range (honest significant difference) test	T170	C0392366
+27348711	1169	1180	investigate	T169	C1292732
+27348711	1213	1223	treatments	T061	C0087111
+27348711	1225	1240	Visit frequency	T081	C0808393
+27348711	1245	1262	allergic rhinitis	T047	C2607914
+27348711	1263	1272	treatment	T061	C0087111
+27348711	1287	1293	female	T098	C0043210
+27348711	1299	1303	male	T098	C0025266
+27348711	1304	1312	patients	T101	C0030705
+27348711	1328	1337	treatment	T061	C0087111
+27348711	1343	1371	Traditional Chinese Medicine	T091	C0025131
+27348711	1373	1389	Western medicine	T091	C1879848
+27348711	1394	1429	integrated Chinese-Western medicine	T091	C0025118
+27348711	1431	1438	Persons	T098	C0027361
+27348711	1466	1473	highest	T080	C1522410
+27348711	1477	1487	proportion	T081	C1709707
+27348711	1491	1497	visits	T058	C1512346
+27348711	1502	1519	allergic rhinitis	T047	C2607914
+27348711	1521	1549	Traditional Chinese Medicine	T091	C0025131
+27348711	1550	1559	treatment	T061	C0087111
+27348711	1569	1576	medical	T169	C0205476
+27348711	1587	1598	person-time	T098	C0027361
+27348711	1603	1608	daily	T079	C0332173
+27348711	1609	1618	drug cost	T081	C0085123
+27348711	1623	1634	person-time	T098	C0027361
+27348711	1647	1653	lowest	T080	C1708760
+27348711	1654	1659	total	T080	C0439810
+27348711	1660	1671	expenditure	T081	C0015316
+27348711	1676	1687	person-time	T098	C0027361
+27348711	1702	1718	Western medicine	T091	C1879848
+27348711	1727	1733	lowest	T080	C1708760
+27348711	1734	1739	daily	T079	C0332173
+27348711	1740	1749	drug cost	T081	C0085123
+27348711	1754	1765	person-time	T098	C0027361
+27348711	1774	1781	highest	T080	C1522410
+27348711	1782	1787	total	T080	C0439810
+27348711	1788	1799	expenditure	T081	C0015316
+27348711	1804	1815	person-time	T098	C0027361
+27348711	1821	1826	total	T080	C0439810
+27348711	1827	1838	expenditure	T081	C0015316
+27348711	1843	1854	person-time	T098	C0027361
+27348711	1856	1861	daily	T079	C0332173
+27348711	1862	1871	drug cost	T081	C0085123
+27348711	1876	1887	person-time	T098	C0027361
+27348711	1893	1900	medical	T169	C0205476
+27348711	1901	1906	items	T071	C1551338
+27348711	1911	1922	person-time	T098	C0027361
+27348711	1926	1961	integrated Chinese-Western medicine	T091	C0025118
+27348711	1962	1971	treatment	T061	C0087111
+27348711	2000	2028	Traditional Chinese Medicine	T091	C0025131
+27348711	2033	2049	Western medicine	T091	C1879848
+27348711	2050	2060	treatments	T061	C0087111
+27348711	2086	2094	patients	T101	C0030705
+27348711	2100	2117	allergic rhinitis	T047	C2607914
+27348711	2124	2159	integrated Chinese-Western medicine	T091	C0025118
+27348711	2160	2169	treatment	T061	C0087111
+27348711	2175	2190	visit frequency	T081	C0808393
+27348711	2210	2245	integrated Chinese-Western medicine	T091	C0025118
+27348711	2253	2260	highest	T080	C1522410
+27348711	2275	2295	multiple-composition	T081	C0439064
+27348711	2296	2305	medicines	T121	C0013227
+27348711	2321	2331	frequently	T079	C0332183
+27348711	2337	2355	single-composition	T081	C0205171
+27348711	2356	2365	medicines	T121	C0013227
+27348711	2371	2380	mar huang	T109,T121	C0390643
+27348711	2382	2402	Ephedra sinica Stapf	T002	C0950030
+27348711	2423	2431	decrease	T081	C0547047
+27348711	2436	2443	risk of	T078	C0035647
+27348711	2454	2465	medications	T121	C0013227

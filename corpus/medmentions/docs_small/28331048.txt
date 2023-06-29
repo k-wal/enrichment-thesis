@@ -1,0 +1,78 @@
+28331048|t|G Protein-Coupled Receptor Kinase 3 and Protein Kinase C Phosphorylate the Distal C-Terminal Tail of the Chemokine Receptor CXCR4 and Mediate Recruitment of β-Arrestin
+28331048|a|Phosphorylation of G protein-coupled receptors (GPCRs) is a key event for cell signaling and regulation of receptor function. Previously, using tandem mass spectrometry, we identified two phosphorylation sites at the distal C-terminal tail of the chemokine receptor CXCR4, but were unable to determine which specific residues were phosphorylated. Here, we demonstrate that serines (Ser) 346 and/or 347 (Ser-346/7) of CXCR4 are phosphorylated upon stimulation with the agonist CXCL12 as well as a CXCR4 pepducin, ATI-2341. ATI-2341, a Gαiβγ heterotrimer - biased CXCR4 agonist, induced more robust phosphorylation of Ser-346/7 compared with CXCL12. Knockdown of G protein-coupled receptor kinase (GRK) 2, GRK3, or GRK6 reduced CXCL12 - induced phosphorylation of Ser-346/7 with GRK3 knockdown having the strongest effect, while inhibition of the conventional protein kinase C (PKC) isoforms, particularly PKCα, reduced phosphorylation of Ser-346/7 induced by either CXCL12 or ATI-2341. The loss of GRK3 - or PKC -mediated phosphorylation of Ser-346/7 impaired the recruitment of β-arrestin to CXCR4. We also found that a pseudo - substrate peptide inhibitor for PKCζ effectively inhibited CXCR4 phosphorylation and signaling, most likely by functioning as a nonspecific CXCR4 antagonist. Together, these studies demonstrate the role Ser-346 / 7 plays in arrestin recruitment and initiation of receptor desensitization and provide insight into the dysregulation of CXCR4 observed in patients with various forms of WHIM syndrome.
+28331048	0	35	G Protein-Coupled Receptor Kinase 3	T103	UMLS:C0285499
+28331048	40	56	Protein Kinase C	T103	UMLS:C0033634
+28331048	57	70	Phosphorylate	T038	UMLS:C1158886
+28331048	75	81	Distal	T082	UMLS:C0205108
+28331048	82	97	C-Terminal Tail	T082	UMLS:C1707271
+28331048	105	123	Chemokine Receptor	T103	UMLS:C0524914
+28331048	124	129	CXCR4	T103	UMLS:C0250501
+28331048	142	153	Recruitment	T038	UMLS:C0597704
+28331048	157	167	β-Arrestin	T103	UMLS:C0167464
+28331048	168	183	Phosphorylation	T038	UMLS:C0031715
+28331048	187	214	G protein-coupled receptors	T103	UMLS:C0682972
+28331048	216	221	GPCRs	T103	UMLS:C0682972
+28331048	242	256	cell signaling	T038	UMLS:C0037083
+28331048	261	271	regulation	T038	UMLS:C1327622
+28331048	312	336	tandem mass spectrometry	T062	UMLS:C0599748
+28331048	356	377	phosphorylation sites	T082	UMLS:C1519063
+28331048	385	391	distal	T082	UMLS:C0205108
+28331048	392	407	C-terminal tail	T082	UMLS:C1707271
+28331048	415	433	chemokine receptor	T103	UMLS:C0524914
+28331048	434	439	CXCR4	T103	UMLS:C0250501
+28331048	499	513	phosphorylated	T038	UMLS:C0031715
+28331048	541	558	serines (Ser) 346	T082	UMLS:C1519254
+28331048	566	581	347 (Ser-346/7)	T082	UMLS:C1519254
+28331048	585	590	CXCR4	T103	UMLS:C0250501
+28331048	595	609	phosphorylated	T038	UMLS:C0031715
+28331048	636	643	agonist	T103	UMLS:C2987634
+28331048	644	650	CXCL12	T103	UMLS:C0218504
+28331048	664	669	CXCR4	T103	UMLS:C0250501
+28331048	670	678	pepducin	T103	UMLS:C1254351
+28331048	680	688	ATI-2341	T103	UMLS:C3851300
+28331048	690	698	ATI-2341	T103	UMLS:C3851300
+28331048	702	707	Gαiβγ	T103	UMLS:C0752348
+28331048	708	720	heterotrimer	T038	UMLS:C2610863
+28331048	730	735	CXCR4	T103	UMLS:C0250501
+28331048	736	743	agonist	T103	UMLS:C2987634
+28331048	765	780	phosphorylation	T038	UMLS:C0031715
+28331048	784	793	Ser-346/7	T082	UMLS:C1519254
+28331048	808	814	CXCL12	T103	UMLS:C0218504
+28331048	816	825	Knockdown	T062	UMLS:C2350567
+28331048	829	870	G protein-coupled receptor kinase (GRK) 2	T017	UMLS:C1366490
+28331048	872	876	GRK3	T017	UMLS:C1332030
+28331048	881	885	GRK6	T017	UMLS:C1333700
+28331048	894	900	CXCL12	T103	UMLS:C0218504
+28331048	911	926	phosphorylation	T038	UMLS:C0031715
+28331048	930	939	Ser-346/7	T082	UMLS:C1519254
+28331048	945	949	GRK3	T017	UMLS:C1332030
+28331048	950	959	knockdown	T062	UMLS:C2350567
+28331048	1026	1042	protein kinase C	T103	UMLS:C0033634
+28331048	1043	1048	(PKC)	T103	UMLS:C0033634
+28331048	1049	1057	isoforms	T103	UMLS:C0597298
+28331048	1072	1076	PKCα	T103	UMLS:C0256371
+28331048	1086	1101	phosphorylation	T038	UMLS:C0031715
+28331048	1105	1114	Ser-346/7	T082	UMLS:C1519254
+28331048	1133	1139	CXCL12	T103	UMLS:C0218504
+28331048	1143	1151	ATI-2341	T103	UMLS:C3851300
+28331048	1165	1169	GRK3	T017	UMLS:C1332030
+28331048	1175	1178	PKC	T103	UMLS:C0033634
+28331048	1189	1204	phosphorylation	T038	UMLS:C0031715
+28331048	1208	1217	Ser-346/7	T082	UMLS:C1519254
+28331048	1231	1242	recruitment	T038	UMLS:C0597704
+28331048	1246	1256	β-arrestin	T103	UMLS:C0167464
+28331048	1260	1265	CXCR4	T103	UMLS:C0250501
+28331048	1329	1333	PKCζ	T103	UMLS:C0256813
+28331048	1356	1361	CXCR4	T103	UMLS:C2352110
+28331048	1362	1377	phosphorylation	T038	UMLS:C1158886
+28331048	1382	1391	signaling	T038	UMLS:C0037083
+28331048	1437	1442	CXCR4	T103	UMLS:C0250501
+28331048	1443	1453	antagonist	T103	UMLS:C0003139
+28331048	1471	1478	studies	T062	UMLS:C2603343
+28331048	1500	1507	Ser-346	T103	UMLS:C0036720
+28331048	1510	1511	7	T103	UMLS:C0036720
+28331048	1521	1529	arrestin	T103	UMLS:C0104230
+28331048	1530	1541	recruitment	T038	UMLS:C0597704
+28331048	1560	1584	receptor desensitization	T038	UMLS:C1709852
+28331048	1631	1636	CXCR4	T103	UMLS:C0250501
+28331048	1680	1693	WHIM syndrome	T038	UMLS:C0472817

@@ -1,0 +1,66 @@
+19536134|t|TAK1 is an essential regulator of BMP signalling in cartilage.
+19536134|a|TGFbeta activated kinase 1 (TAK1), a member of the MAPKKK family, controls diverse functions ranging from innate and adaptive immune system activation to vascular development and apoptosis. To analyse the in vivo function of TAK1 in cartilage, we generated mice with a conditional deletion of Tak1 driven by the collagen 2 promoter. Tak1(col2) mice displayed severe chondrodysplasia with runting, impaired formation of secondary centres of ossification, and joint abnormalities including elbow dislocation and tarsal fusion. This phenotype resembled that of bone morphogenetic protein receptor (BMPR)1 and Gdf5-deficient mice. BMPR signalling was markedly impaired in TAK1-deficient chondrocytes as evidenced by reduced expression of known BMP target genes as well as reduced phosphorylation of Smad1/5/8 and p38/Jnk/Erk MAP kinases. TAK1 mediates Smad1 phosphorylation at C-terminal serine residues. These findings provide the first in vivo evidence in a mammalian system that TAK1 is required for BMP signalling and functions as an upstream activating kinase for Smad1/5/8 in addition to its known role in regulating MAP kinase pathways. Our experiments reveal an essential role for TAK1 in the morphogenesis, growth, and maintenance of cartilage.
+19536134	0	4	TAK1	GeneOrGeneProduct	26409
+19536134	34	37	BMP	GeneOrGeneProduct	12159
+19536134	63	89	TGFbeta activated kinase 1	GeneOrGeneProduct	26409
+19536134	91	95	TAK1	GeneOrGeneProduct	26409
+19536134	114	120	MAPKKK	GeneOrGeneProduct	26409
+19536134	288	292	TAK1	GeneOrGeneProduct	26409
+19536134	320	324	mice	OrganismTaxon	10090
+19536134	356	360	Tak1	GeneOrGeneProduct	26409
+19536134	375	385	collagen 2	GeneOrGeneProduct	12824
+19536134	396	400	Tak1	GeneOrGeneProduct	26409
+19536134	401	405	col2	GeneOrGeneProduct	12824
+19536134	407	411	mice	OrganismTaxon	10090
+19536134	429	445	chondrodysplasia	DiseaseOrPhenotypicFeature	D010009
+19536134	521	540	joint abnormalities	DiseaseOrPhenotypicFeature	D007592
+19536134	551	568	elbow dislocation	DiseaseOrPhenotypicFeature	D004204
+19536134	573	586	tarsal fusion	DiseaseOrPhenotypicFeature	D000070604
+19536134	621	664	bone morphogenetic protein receptor (BMPR)1	GeneOrGeneProduct	12166
+19536134	669	673	Gdf5	GeneOrGeneProduct	14563
+19536134	684	688	mice	OrganismTaxon	10090
+19536134	690	694	BMPR	GeneOrGeneProduct	12166
+19536134	731	735	TAK1	GeneOrGeneProduct	26409
+19536134	803	806	BMP	GeneOrGeneProduct	12159
+19536134	858	867	Smad1/5/8	GeneOrGeneProduct	17125,17129,55994
+19536134	872	875	p38	GeneOrGeneProduct	26416
+19536134	876	879	Jnk	GeneOrGeneProduct	26419
+19536134	880	883	Erk	GeneOrGeneProduct	26413
+19536134	884	895	MAP kinases	GeneOrGeneProduct	26413,26416,26419
+19536134	897	901	TAK1	GeneOrGeneProduct	26409
+19536134	911	916	Smad1	GeneOrGeneProduct	17125
+19536134	1041	1045	TAK1	GeneOrGeneProduct	26409
+19536134	1062	1065	BMP	GeneOrGeneProduct	12159
+19536134	1128	1137	Smad1/5/8	GeneOrGeneProduct	17125,17129,55994
+19536134	1182	1192	MAP kinase	GeneOrGeneProduct	26413,26416,26419
+19536134	1248	1252	TAK1	GeneOrGeneProduct	26409
+19536134	Association	12166	26413	No
+19536134	Association	12166	26419	No
+19536134	Association	12166	26416	No
+19536134	Association	12166	55994	No
+19536134	Association	12166	17129	No
+19536134	Association	12166	17125	No
+19536134	Bind	12166	12159	No
+19536134	Association	12166	26409	Novel
+19536134	Association	12824	D000070604	Novel
+19536134	Association	12824	D004204	Novel
+19536134	Association	12824	D007592	Novel
+19536134	Association	12824	D010009	Novel
+19536134	Association	12159	26413	No
+19536134	Association	12159	26419	No
+19536134	Association	12159	26416	No
+19536134	Association	12159	55994	No
+19536134	Association	12159	17129	No
+19536134	Association	12159	17125	No
+19536134	Association	26409	26413	Novel
+19536134	Association	26409	26419	Novel
+19536134	Association	26409	26416	Novel
+19536134	Association	26409	55994	Novel
+19536134	Association	26409	17129	Novel
+19536134	Association	26409	17125	Novel
+19536134	Association	26409	12824	No
+19536134	Association	26409	D000070604	Novel
+19536134	Association	26409	D004204	Novel
+19536134	Association	26409	D007592	Novel
+19536134	Association	26409	D010009	Novel
+19536134	Positive_Correlation	26409	12159	Novel

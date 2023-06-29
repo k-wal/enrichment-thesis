@@ -1,0 +1,77 @@
+28097611|t|Assessing nitrous oxide effect using electroencephalographically -based depth of anesthesia measures cortical state and cortical input
+28097611|a|Existing electroencephalography (EEG) based depth of anesthesia monitors cannot reliably track sedative or anesthetic states during n-methyl-D-aspartate (NMDA) receptor antagonist based anesthesia with ketamine or nitrous oxide (N2O). Here, a physiologically -motivated depth of anesthesia monitoring algorithm based on autoregressive-moving-average (ARMA) modeling and derivative measures of interest, Cortical State (CS) and Cortical Input (CI), is retrospectively applied in an exploratory manner to the NMDA receptor antagonist N2O, an adjuvant anesthetic gas used in clinical practice. Composite Cortical State (CCS) and Composite Cortical State distance (CCSd), two new modifications of CS, along with CS and CI were evaluated on electroencephalographic (EEG) data of healthy control individuals undergoing N2O inhalation up to equilibrated peak gas concentrations of 20, 40 or 60% N2O / O2. In particular, CCSd has been devised to vary consistently for increasing levels of anesthetic concentration independent of the anesthetic's microscopic mode of action for both N2O and propofol. The strongest effects were observed for the 60% peak gas concentration group. For the 50-60% peak gas levels, individuals showed statistically significant reductions in responsiveness compared to rest, and across the group CS and CCS increased by 39 and 42%, respectively, while CCSd was found to decrease by 398%. On the other hand a clear conclusion regarding the changes in CI could not be reached. These results indicate that, contrary to previous depth of anesthesia monitoring measures, the CS, CCS, and especially CCSd measures derived from frontal EEG are potentially useful for differentiating gas concentration and responsiveness levels in people under N2O. On the other hand, determining the utility of CI in this regard will require larger sample sizes and potentially higher gas concentrations. Future work will assess the sensitivity of CS -based and CI measures to other anesthetics and their utility in a clinical environment.
+28097611	10	23	nitrous oxide	T103	UMLS:C0028215
+28097611	37	64	electroencephalographically	T058	UMLS:C0013819
+28097611	72	91	depth of anesthesia	T033	UMLS:C0474710
+28097611	101	109	cortical	T017	UMLS:C0007776
+28097611	110	115	state	T170	UMLS:C0918012
+28097611	120	128	cortical	T017	UMLS:C0007776
+28097611	129	134	input	T170	UMLS:C0918012
+28097611	144	166	electroencephalography	T058	UMLS:C0013819
+28097611	168	171	EEG	T058	UMLS:C0013819
+28097611	179	198	depth of anesthesia	T033	UMLS:C0474710
+28097611	230	238	sedative	T103	UMLS:C0036557
+28097611	242	252	anesthetic	T103	UMLS:C0002932
+28097611	267	314	n-methyl-D-aspartate (NMDA) receptor antagonist	T103	UMLS:C3536824
+28097611	321	331	anesthesia	T058	UMLS:C0002903
+28097611	337	345	ketamine	T103	UMLS:C0022614
+28097611	349	362	nitrous oxide	T103	UMLS:C0028215
+28097611	364	367	N2O	T103	UMLS:C0028215
+28097611	405	424	depth of anesthesia	T033	UMLS:C0474710
+28097611	425	435	monitoring	T058	UMLS:C1283169
+28097611	436	445	algorithm	T170	UMLS:C0002045
+28097611	455	500	autoregressive-moving-average (ARMA) modeling	T170	UMLS:C3161035
+28097611	538	546	Cortical	T017	UMLS:C0007776
+28097611	547	552	State	T170	UMLS:C0918012
+28097611	554	556	CS	T170	UMLS:C0918012
+28097611	562	570	Cortical	T017	UMLS:C0007776
+28097611	571	576	Input	T170	UMLS:C0918012
+28097611	578	580	CI	T170	UMLS:C0918012
+28097611	586	601	retrospectively	T062	UMLS:C0035363
+28097611	642	666	NMDA receptor antagonist	T103	UMLS:C3536824
+28097611	667	670	N2O	T103	UMLS:C0028215
+28097611	675	698	adjuvant anesthetic gas	T103	UMLS:C0002904
+28097611	726	750	Composite Cortical State	T170	UMLS:C0918012
+28097611	752	755	CCS	T170	UMLS:C0918012
+28097611	761	794	Composite Cortical State distance	T170	UMLS:C0918012
+28097611	796	800	CCSd	T170	UMLS:C0918012
+28097611	811	824	modifications	T033	UMLS:C3840684
+28097611	828	830	CS	T170	UMLS:C0918012
+28097611	843	845	CS	T170	UMLS:C0918012
+28097611	850	852	CI	T170	UMLS:C0918012
+28097611	858	867	evaluated	T058	UMLS:C0220825
+28097611	871	894	electroencephalographic	T058	UMLS:C0013819
+28097611	896	899	EEG	T058	UMLS:C0013819
+28097611	948	951	N2O	T103	UMLS:C0028215
+28097611	952	962	inhalation	T038	UMLS:C0004048
+28097611	1023	1026	N2O	T103	UMLS:C0028215
+28097611	1029	1031	O2	T103	UMLS:C0030054
+28097611	1048	1052	CCSd	T170	UMLS:C0918012
+28097611	1116	1140	anesthetic concentration	T033	UMLS:C0474704
+28097611	1160	1172	anesthetic's	T103	UMLS:C0002932
+28097611	1209	1212	N2O	T103	UMLS:C0028215
+28097611	1217	1225	propofol	T103	UMLS:C0033487
+28097611	1298	1303	group	T098	UMLS:C1257890
+28097611	1337	1348	individuals	T098	UMLS:C0237401
+28097611	1382	1392	reductions	T058	UMLS:C0441610
+28097611	1444	1449	group	T098	UMLS:C1257890
+28097611	1450	1452	CS	T170	UMLS:C0918012
+28097611	1457	1460	CCS	T170	UMLS:C0918012
+28097611	1506	1510	CCSd	T170	UMLS:C0918012
+28097611	1604	1606	CI	T170	UMLS:C0918012
+28097611	1658	1666	contrary	T082	UMLS:C1521805
+28097611	1679	1698	depth of anesthesia	T033	UMLS:C0474710
+28097611	1699	1709	monitoring	T058	UMLS:C1283169
+28097611	1724	1726	CS	T170	UMLS:C0918012
+28097611	1728	1731	CCS	T170	UMLS:C0918012
+28097611	1748	1752	CCSd	T170	UMLS:C0918012
+28097611	1775	1782	frontal	T082	UMLS:C0205123
+28097611	1783	1786	EEG	T058	UMLS:C0013819
+28097611	1877	1883	people	T098	UMLS:C0027361
+28097611	1890	1893	N2O	T103	UMLS:C0028215
+28097611	1941	1943	CI	T170	UMLS:C0918012
+28097611	2078	2080	CS	T170	UMLS:C0918012
+28097611	2092	2094	CI	T170	UMLS:C0918012
+28097611	2113	2124	anesthetics	T103	UMLS:C0002932
+28097611	2148	2156	clinical	T092	UMLS:C0442592
+28097611	2157	2168	environment	T082	UMLS:C0014406

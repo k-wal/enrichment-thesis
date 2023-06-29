@@ -1,0 +1,43 @@
+20533999|t|Dopamine is not essential for the development of methamphetamine-induced neurotoxicity.
+20533999|a|It is widely believed that dopamine (DA) mediates methamphetamine (METH)-induced toxicity to brain dopaminergic neurons, because drugs that interfere with DA neurotransmission decrease toxicity, whereas drugs that increase DA neurotransmission enhance toxicity. However, temperature effects of drugs that have been used to manipulate brain DA neurotransmission confound interpretation of the data. Here we show that the recently reported ability of L-dihydroxyphenylalanine to reverse the protective effect of alpha-methyl-para-tyrosine on METH-induced DA neurotoxicity is also confounded by drug effects on body temperature. Further, we show that mice genetically engineered to be deficient in brain DA develop METH neurotoxicity, as long as the thermic effects of METH are preserved. In addition, we demonstrate that mice genetically engineered to have unilateral brain DA deficits develop METH-induced dopaminergic deficits that are of comparable magnitude on both sides of the brain. Taken together, these findings demonstrate that DA is not essential for the development of METH-induced dopaminergic neurotoxicity and suggest that mechanisms independent of DA warrant more intense investigation.
+20533999	0	8	Dopamine	ChemicalEntity	D004298
+20533999	49	64	methamphetamine	ChemicalEntity	D008694
+20533999	73	86	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+20533999	115	123	dopamine	ChemicalEntity	D004298
+20533999	125	127	DA	ChemicalEntity	D004298
+20533999	138	153	methamphetamine	ChemicalEntity	D008694
+20533999	155	159	METH	ChemicalEntity	D008694
+20533999	169	177	toxicity	DiseaseOrPhenotypicFeature	D064420
+20533999	243	245	DA	ChemicalEntity	D004298
+20533999	273	281	toxicity	DiseaseOrPhenotypicFeature	D064420
+20533999	311	313	DA	ChemicalEntity	D004298
+20533999	340	348	toxicity	DiseaseOrPhenotypicFeature	D064420
+20533999	428	430	DA	ChemicalEntity	D004298
+20533999	537	561	L-dihydroxyphenylalanine	ChemicalEntity	D007980
+20533999	598	624	alpha-methyl-para-tyrosine	ChemicalEntity	D019805
+20533999	628	632	METH	ChemicalEntity	D008694
+20533999	641	643	DA	ChemicalEntity	D004298
+20533999	644	657	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+20533999	736	740	mice	OrganismTaxon	10090
+20533999	789	791	DA	ChemicalEntity	D004298
+20533999	800	804	METH	ChemicalEntity	D008694
+20533999	805	818	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+20533999	854	858	METH	ChemicalEntity	D008694
+20533999	907	911	mice	OrganismTaxon	10090
+20533999	960	962	DA	ChemicalEntity	D004298
+20533999	980	984	METH	ChemicalEntity	D008694
+20533999	993	1014	dopaminergic deficits	DiseaseOrPhenotypicFeature	D009461
+20533999	1124	1126	DA	ChemicalEntity	D004298
+20533999	1167	1171	METH	ChemicalEntity	D008694
+20533999	1193	1206	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+20533999	1250	1252	DA	ChemicalEntity	D004298
+20533999	Positive_Correlation	D004298	D009461	Novel
+20533999	Positive_Correlation	D004298	D020258	No
+20533999	Negative_Correlation	D019805	D020258	No
+20533999	Negative_Correlation	D019805	D008694	No
+20533999	Association	D007980	D004298	Novel
+20533999	Association	D007980	D019805	Novel
+20533999	Association	D007980	D020258	No
+20533999	Positive_Correlation	D008694	D009461	No
+20533999	Drug_Interaction	D008694	D004298	No
+20533999	Positive_Correlation	D008694	D020258	No

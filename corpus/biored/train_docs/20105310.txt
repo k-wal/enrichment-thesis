@@ -1,0 +1,95 @@
+20105310|t|Association of adipocyte genes with ASP expression: a microarray analysis of subcutaneous and omental adipose tissue in morbidly obese subjects.
+20105310|a|BACKGROUND: Prevalence of obesity is increasing to pandemic proportions. However, obese subjects differ in insulin resistance, adipokine production and co-morbidities. Based on fasting plasma analysis, obese subjects were grouped as Low Acylation Stimulating protein (ASP) and Triglyceride (TG) (LAT) vs High ASP and TG (HAT). Subcutaneous (SC) and omental (OM) adipose tissues (n = 21) were analysed by microarray, and biologic pathways in lipid metabolism and inflammation were specifically examined. METHODS: LAT and HAT groups were matched in age, obesity, insulin, and glucose, and had similar expression of insulin-related genes (InsR, IRS-1). ASP related genes tended to be increased in the HAT group and were correlated (factor B, adipsin, complement C3, p < 0.01 each). Differences between LAT and HAT group were almost exclusively in SC tissue, with little difference in OM tissue. Increased C5L2 (p < 0.01), an ASP receptor, in HAT suggests a compensatory ASP pathway, associated with increased TG storage. RESULTS: HAT adipose tissue demonstrated increased lipid related genes for storage (CD36, DGAT1, DGAT2, SCD1, FASN, and LPL), lipolysis (HSL, CES1, perilipin), fatty acid binding proteins (FABP1, FABP3) and adipocyte differentiation markers (CEBPalpha, CEBPbeta, PPARgamma). By contrast, oxidation related genes were decreased (AMPK, UCP1, CPT1, FABP7). HAT subjects had increased anti-inflammatory genes TGFB1, TIMP1, TIMP3, and TIMP4 while proinflammatory PIG7 and MMP2 were also significantly increased; all genes, p < 0.025. CONCLUSION: Taken together, the profile of C5L2 receptor, ASP gene expression and metabolic factors in adipose tissue from morbidly obese HAT subjects suggests a compensatory response associated with the increased plasma ASP and TG.
+20105310	36	39	ASP	GeneOrGeneProduct	718
+20105310	129	134	obese	DiseaseOrPhenotypicFeature	D009765
+20105310	171	178	obesity	DiseaseOrPhenotypicFeature	D009765
+20105310	227	232	obese	DiseaseOrPhenotypicFeature	D009765
+20105310	252	270	insulin resistance	DiseaseOrPhenotypicFeature	D007333
+20105310	272	281	adipokine	GeneOrGeneProduct	9370
+20105310	347	352	obese	DiseaseOrPhenotypicFeature	D009765
+20105310	382	411	Acylation Stimulating protein	GeneOrGeneProduct	718
+20105310	413	416	ASP	GeneOrGeneProduct	718
+20105310	422	434	Triglyceride	ChemicalEntity	D014280
+20105310	436	438	TG	ChemicalEntity	D014280
+20105310	454	457	ASP	GeneOrGeneProduct	718
+20105310	462	464	TG	ChemicalEntity	D014280
+20105310	586	591	lipid	ChemicalEntity	D008055
+20105310	607	619	inflammation	DiseaseOrPhenotypicFeature	D007249
+20105310	697	704	obesity	DiseaseOrPhenotypicFeature	D009765
+20105310	706	713	insulin	GeneOrGeneProduct	3630
+20105310	719	726	glucose	ChemicalEntity	D005947
+20105310	758	765	insulin	GeneOrGeneProduct	3630
+20105310	781	785	InsR	GeneOrGeneProduct	3643
+20105310	787	792	IRS-1	GeneOrGeneProduct	3667
+20105310	795	798	ASP	GeneOrGeneProduct	718
+20105310	874	882	factor B	GeneOrGeneProduct	629
+20105310	884	891	adipsin	GeneOrGeneProduct	1675
+20105310	893	906	complement C3	GeneOrGeneProduct	718
+20105310	1047	1051	C5L2	GeneOrGeneProduct	27202
+20105310	1067	1079	ASP receptor	GeneOrGeneProduct	27202
+20105310	1112	1115	ASP	GeneOrGeneProduct	718
+20105310	1151	1153	TG	ChemicalEntity	D014280
+20105310	1214	1219	lipid	ChemicalEntity	D008055
+20105310	1247	1251	CD36	GeneOrGeneProduct	948
+20105310	1253	1258	DGAT1	GeneOrGeneProduct	8694
+20105310	1260	1265	DGAT2	GeneOrGeneProduct	84649
+20105310	1267	1271	SCD1	GeneOrGeneProduct	6319
+20105310	1273	1277	FASN	GeneOrGeneProduct	2194
+20105310	1283	1286	LPL	GeneOrGeneProduct	4023
+20105310	1300	1303	HSL	GeneOrGeneProduct	3991
+20105310	1305	1309	CES1	GeneOrGeneProduct	1066
+20105310	1311	1320	perilipin	GeneOrGeneProduct	5346
+20105310	1323	1350	fatty acid binding proteins	GeneOrGeneProduct	2168,2170
+20105310	1352	1357	FABP1	GeneOrGeneProduct	2168
+20105310	1359	1364	FABP3	GeneOrGeneProduct	2170
+20105310	1405	1414	CEBPalpha	GeneOrGeneProduct	1050
+20105310	1416	1424	CEBPbeta	GeneOrGeneProduct	1051
+20105310	1426	1435	PPARgamma	GeneOrGeneProduct	5468
+20105310	1491	1495	AMPK	GeneOrGeneProduct	5562
+20105310	1497	1501	UCP1	GeneOrGeneProduct	7350
+20105310	1503	1507	CPT1	GeneOrGeneProduct	1374
+20105310	1509	1514	FABP7	GeneOrGeneProduct	2173
+20105310	1549	1561	inflammatory	DiseaseOrPhenotypicFeature	D007249
+20105310	1568	1573	TGFB1	GeneOrGeneProduct	7040
+20105310	1575	1580	TIMP1	GeneOrGeneProduct	7076
+20105310	1582	1587	TIMP3	GeneOrGeneProduct	7078
+20105310	1593	1598	TIMP4	GeneOrGeneProduct	7079
+20105310	1605	1620	proinflammatory	DiseaseOrPhenotypicFeature	D007249
+20105310	1621	1625	PIG7	GeneOrGeneProduct	9516
+20105310	1630	1634	MMP2	GeneOrGeneProduct	4313
+20105310	1735	1739	C5L2	GeneOrGeneProduct	27202
+20105310	1750	1753	ASP	GeneOrGeneProduct	718
+20105310	1824	1829	obese	DiseaseOrPhenotypicFeature	D009765
+20105310	1913	1916	ASP	GeneOrGeneProduct	718
+20105310	1921	1923	TG	ChemicalEntity	D014280
+20105310	Association	D007249	4313	No
+20105310	Association	D007249	9516	No
+20105310	Association	D007249	7079	No
+20105310	Association	D007249	7078	No
+20105310	Association	D007249	7076	No
+20105310	Association	D007249	7040	No
+20105310	Positive_Correlation	1675	718	No
+20105310	Positive_Correlation	629	1675	No
+20105310	Positive_Correlation	629	718	No
+20105310	Positive_Correlation	718	D014280	Novel
+20105310	Association	D009765	718	Novel
+20105310	Association	D009765	9370	No
+20105310	Positive_Correlation	D009765	D014280	Novel
+20105310	Association	D008055	5468	Novel
+20105310	Association	D008055	1051	Novel
+20105310	Association	D008055	1050	Novel
+20105310	Association	D008055	2170	Novel
+20105310	Association	D008055	2168	Novel
+20105310	Association	D008055	5346	Novel
+20105310	Association	D008055	1066	Novel
+20105310	Association	D008055	3991	Novel
+20105310	Association	D008055	4023	Novel
+20105310	Association	D008055	2194	Novel
+20105310	Association	D008055	6319	Novel
+20105310	Association	D008055	84649	Novel
+20105310	Association	D008055	8694	Novel
+20105310	Association	D008055	948	Novel
+20105310	Bind	27202	718	No
+20105310	Positive_Correlation	27202	D014280	No
+20105310	Association	3630	3667	No
+20105310	Association	3630	3643	No

@@ -1,0 +1,97 @@
+27645763|t|Effect of New-Onset Left Bundle Branch Block After Transcatheter Aortic Valve Implantation (CoreValve) on Mortality, Frequency of Re-Hospitalization, and Need for Pacemaker
+27645763|a|New-onset conduction disturbances are common after transcatheter aortic valve implantation (TAVI). The most common complication is left bundle branch block (LBBB). The clinical impact of new-onset LBBB after TAVI remains controversial. The aim of this study was to analyze the clinical impact of new-onset LBBB in terms of mortality and morbidity (need for pacemakers and admissions for heart failure) at long-term follow-up. From April 2008 to December 2014, 220 patients who had severe aortic stenosis were treated with the implantation of a CoreValve prosthesis. Sixty-seven of these patients were excluded from the analysis, including 22 patients with pre-existing LBBB and 45 with a permanent pacemaker, implanted previously or within 72 hours of implantation. The remaining 153 patients were divided into 2 groups: group 1 (n = 80), those with persistent new-onset LBBB, and group 2 (n = 73), those without conduction disturbances after treatment. Both groups were followed up at 1 month, 6 months, 12 months, and yearly thereafter. Persistent new-onset LBBB occurred in 80 patients (36%) immediately after TAVI; 73 patients (33%) did not develop conduction disturbances. The mean follow-up time of both groups was 32 ± 22 months (range 3 to 82 months), and there were no differences in time between the groups. There were no differences in mortality between the groups (39% vs 48%, p = 0.58). No differences were observed between the groups in re-hospitalizations for heart failure (11% vs 16%, p = 0.55). Group 1 did not require pacemaker implantation more often at follow-up (10% vs 13%, p = 0.38) than group 2. In conclusion, new-onset LBBB was not associated with a higher incidence of late need for a permanent pacemaker after CoreValve implantation. In addition, it was not associated with a higher risk of late mortality or re-hospitalization.
+27645763	0	6	Effect	T080	C1280500
+27645763	10	19	New-Onset	T033	C0746890
+27645763	20	44	Left Bundle Branch Block	T047	C0023211
+27645763	51	90	Transcatheter Aortic Valve Implantation	T061	C3509486
+27645763	92	101	CoreValve	T074	C0184252
+27645763	106	115	Mortality	T081	C0205848
+27645763	117	126	Frequency	T079	C0439603
+27645763	130	148	Re-Hospitalization	T058	C0019993
+27645763	163	172	Pacemaker	T074	C0030163
+27645763	173	182	New-onset	T033	C0746890
+27645763	183	206	conduction disturbances	T046	C0232219
+27645763	224	263	transcatheter aortic valve implantation	T061	C3509486
+27645763	265	269	TAVI	T061	C3509486
+27645763	288	300	complication	T046	C0009566
+27645763	304	328	left bundle branch block	T047	C0023211
+27645763	330	334	LBBB	T047	C0023211
+27645763	341	349	clinical	T080	C0205210
+27645763	350	356	impact	T080	C4049986
+27645763	360	369	new-onset	T033	C0746890
+27645763	370	374	LBBB	T047	C0023211
+27645763	381	385	TAVI	T061	C3509486
+27645763	394	407	controversial	T054	C0680243
+27645763	450	458	clinical	T080	C0205210
+27645763	459	465	impact	T080	C4049986
+27645763	469	478	new-onset	T033	C0746890
+27645763	479	483	LBBB	T047	C0023211
+27645763	496	505	mortality	T081	C0205848
+27645763	510	519	morbidity	T081	C0178685
+27645763	530	540	pacemakers	T074	C0030163
+27645763	545	555	admissions	T058	C0030673
+27645763	560	573	heart failure	T047	C0018801
+27645763	578	597	long-term follow-up	T058	C1517942
+27645763	637	645	patients	T101	C0030705
+27645763	661	676	aortic stenosis	T047	C0003507
+27645763	682	694	treated with	T061	C0332293
+27645763	699	711	implantation	T061	C0021107
+27645763	717	737	CoreValve prosthesis	T074	C0184252
+27645763	760	768	patients	T101	C0030705
+27645763	792	800	analysis	T062	C0936012
+27645763	815	823	patients	T101	C0030705
+27645763	829	841	pre-existing	T080	C2347662
+27645763	842	846	LBBB	T047	C0023211
+27645763	861	880	permanent pacemaker	T074	C0281945
+27645763	882	891	implanted	T074	C0021102
+27645763	916	921	hours	T079	C0439227
+27645763	925	937	implantation	T061	C0021107
+27645763	957	965	patients	T101	C0030705
+27645763	986	992	groups	T078	C0441833
+27645763	994	999	group	T078	C0441833
+27645763	1023	1033	persistent	T079	C0205322
+27645763	1034	1043	new-onset	T033	C0746890
+27645763	1044	1048	LBBB	T047	C0023211
+27645763	1054	1059	group	T078	C0441833
+27645763	1086	1109	conduction disturbances	T046	C0232219
+27645763	1116	1125	treatment	T061	C0087111
+27645763	1132	1138	groups	T078	C0441833
+27645763	1144	1155	followed up	T058	C1522577
+27645763	1161	1166	month	T079	C0439231
+27645763	1170	1176	months	T079	C0439231
+27645763	1181	1187	months	T079	C0439231
+27645763	1193	1199	yearly	T079	C0332181
+27645763	1212	1222	Persistent	T079	C0205322
+27645763	1223	1232	new-onset	T033	C0746890
+27645763	1233	1237	LBBB	T047	C0023211
+27645763	1253	1261	patients	T101	C0030705
+27645763	1286	1290	TAVI	T061	C3509486
+27645763	1295	1303	patients	T101	C0030705
+27645763	1326	1349	conduction disturbances	T046	C0232219
+27645763	1360	1369	follow-up	T058	C1522577
+27645763	1370	1374	time	T079	C0040223
+27645763	1383	1389	groups	T078	C0441833
+27645763	1402	1408	months	T079	C0439231
+27645763	1424	1430	months	T079	C0439231
+27645763	1466	1470	time	T079	C0040223
+27645763	1483	1489	groups	T078	C0441833
+27645763	1520	1529	mortality	T081	C0205848
+27645763	1542	1548	groups	T078	C0441833
+27645763	1614	1620	groups	T078	C0441833
+27645763	1624	1643	re-hospitalizations	T058	C0019993
+27645763	1648	1661	heart failure	T047	C0018801
+27645763	1686	1691	Group	T078	C0441833
+27645763	1710	1732	pacemaker implantation	T061	C0189842
+27645763	1747	1756	follow-up	T058	C1522577
+27645763	1785	1790	group	T078	C0441833
+27645763	1809	1818	new-onset	T033	C0746890
+27645763	1819	1823	LBBB	T047	C0023211
+27645763	1832	1847	associated with	T080	C0332281
+27645763	1850	1856	higher	T080	C0205250
+27645763	1857	1866	incidence	T081	C0021149
+27645763	1886	1905	permanent pacemaker	T074	C0281945
+27645763	1912	1921	CoreValve	T074	C0184252
+27645763	1922	1934	implantation	T061	C0021107
+27645763	1960	1975	associated with	T080	C0332281
+27645763	1998	2007	mortality	T081	C0205848
+27645763	2011	2029	re-hospitalization	T058	C0019993

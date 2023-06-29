@@ -1,0 +1,61 @@
+28341196|t|The use of intraosseous needles for injection of contrast media for computed tomographic angiography of the thoracic aorta
+28341196|a|The objective of this study is to evaluate the safety and quality of computed tomographic angiography of the thoracic aorta (CTA-TA) exams performed using intraosseous needle intravenous access (ION-IVA) for contrast media injection (CMI). All CTA-TA exams at the study institution performed between 1/1/2013 and 8/14/2015 were reviewed retrospectively to identify those exams which had been performed using ION-IVA (ION-exams). ION-exams were then analyzed to determine aortic attenuation and contrast-to-noise ratio (CNR). Linear regression was used to determine how injection rate and other variables affected image quality for ION-exams. Patient electronic medical records were reviewed to identify any adverse events related to CTA-TA or ION-IVA. 17 (∼0.2%) of 7401 exams were ION-exams. ION-exam CMI rates varied between 2.5 and 4 ml/s. Mean attenuation was 312 HU (SD 88 HU) and mean CNR was 25 (SD 9.9). A strong positive linear association between attenuation and injection rate was found. No immediate or delayed complications related to the ION-exams, or intraosseous needle use in general, occurred. For CTA-TA, ION-IVA appears to be a safe and effective route for CMI at rates up to 4 ml/s.
+28341196	11	31	intraosseous needles	T074	C1322770
+28341196	36	45	injection	T061	C1533685
+28341196	49	63	contrast media	T130	C0009924
+28341196	68	100	computed tomographic angiography	T060	C1536105
+28341196	108	122	thoracic aorta	T023	C1522460
+28341196	145	150	study	T062	C2603343
+28341196	157	165	evaluate	T058	C0220825
+28341196	170	176	safety	T068	C0036043
+28341196	181	188	quality	T080	C0332306
+28341196	192	224	computed tomographic angiography	T060	C1536105
+28341196	232	246	thoracic aorta	T023	C1522460
+28341196	248	254	CTA-TA	T060	C0430022
+28341196	256	261	exams	T169	C4284036
+28341196	278	316	intraosseous needle intravenous access	T060	C0430022
+28341196	318	325	ION-IVA	T060	C0430022
+28341196	331	355	contrast media injection	T060	C2733072
+28341196	357	360	CMI	T060	C2733072
+28341196	367	373	CTA-TA	T060	C0430022
+28341196	374	379	exams	T169	C4284036
+28341196	387	392	study	T062	C2603343
+28341196	393	404	institution	T073,T093	C0018704
+28341196	460	475	retrospectively	T080	C1514923
+28341196	494	499	exams	T169	C4284036
+28341196	531	538	ION-IVA	T060	C0430022
+28341196	540	549	ION-exams	T059	C0022885
+28341196	552	561	ION-exams	T059	C0022885
+28341196	594	612	aortic attenuation	T033	C3281005
+28341196	617	640	contrast-to-noise ratio	T081	C0456603
+28341196	642	645	CNR	T081	C0456603
+28341196	648	665	Linear regression	T081	C0023733
+28341196	692	701	injection	T061	C1533685
+28341196	702	706	rate	T081	C1521828
+28341196	717	726	variables	T080	C0439828
+28341196	736	749	image quality	T080	C0806487
+28341196	754	763	ION-exams	T059	C0022885
+28341196	765	772	Patient	T101	C0030705
+28341196	773	799	electronic medical records	T170	C2362543
+28341196	830	844	adverse events	T046	C0877248
+28341196	856	862	CTA-TA	T060	C0430022
+28341196	866	873	ION-IVA	T060	C0430022
+28341196	894	899	exams	T169	C4284036
+28341196	905	914	ION-exams	T059	C0022885
+28341196	916	924	ION-exam	T059	C0022885
+28341196	925	928	CMI	T060	C2733072
+28341196	929	934	rates	T081	C1521828
+28341196	966	970	Mean	T081	C0444504
+28341196	971	982	attenuation	T052	C0599946
+28341196	1009	1013	mean	T081	C0444504
+28341196	1014	1017	CNR	T081	C0456603
+28341196	1044	1052	positive	T033	C1446409
+28341196	1080	1091	attenuation	T052	C0599946
+28341196	1096	1105	injection	T061	C1533685
+28341196	1106	1110	rate	T081	C1521828
+28341196	1122	1159	No immediate or delayed complications	T033	C4032686
+28341196	1175	1184	ION-exams	T059	C0022885
+28341196	1189	1208	intraosseous needle	T074	C1322770
+28341196	1239	1245	CTA-TA	T060	C0430022
+28341196	1247	1254	ION-IVA	T060	C0430022
+28341196	1300	1303	CMI	T060	C2733072

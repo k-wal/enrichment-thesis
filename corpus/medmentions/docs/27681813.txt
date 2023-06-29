@@ -1,0 +1,91 @@
+27681813|t|Clinical comparison of oral administration and viscosupplementation of hyaluronic acid (HA) in early knee osteoarthritis
+27681813|a|Osteoarthritis (OA) is a progressive, chronic and degenerative joint disease characterized by a loss of articular cartilage. Treatment of OA is largely palliative based on nonsteroidal anti-inflammatory drugs, opioids and injections of steroids. Regarding conservative treatment, intra-articular injections of hyaluronic acid (HA) can play a role in early symptomatic knee OA. Between August 2015 and September 2015, sixty patients (32 males and 28 females) between 40 and 70 years old were randomly allocated into two groups: Half were treated with three weekly intra-articular injections of hyaluronic acid 1.6 % (group A), while the others were treated with Syalox 300 Plus(®) (hyaluronic acid 300 mg + Boswellia serrata extract 100 mg) 1 tab / die for 20 days and afterward Syalox 150(®) (hyaluronic acid 150 mg) 1 tab / die for other 20 days (group B). All patients were evaluated clinically with American Knee Society Score (AKSS) and visual analogue scale (VAS) for the pain before the treatment and after 3 months. AKSS of the patients in both groups was significantly increased by the treatment, and VAS score was significantly reduced. In both groups, two subgroups were created with patients older than 60 years and patients younger than 60 years. Better results are reported in younger patients of group A and older subjects in group B. Despite several limitations, the results of the study have shown that HA injection and oral administration may have beneficial therapeutic effects on patients with early osteoarthritis. Different outcomes in younger and older subject suggested a combined therapy first with local infiltrations and then with oral composition.
+27681813	0	19	Clinical comparison	T058	C0949168
+27681813	23	42	oral administration	T061	C0001563
+27681813	47	67	viscosupplementation	T061	C2350507
+27681813	71	86	hyaluronic acid	T109,T121,T123	C0020196
+27681813	88	90	HA	T109,T121,T123	C0020196
+27681813	101	120	knee osteoarthritis	T047	C0409959
+27681813	121	135	Osteoarthritis	T047	C0029408
+27681813	137	139	OA	T047	C0029408
+27681813	146	157	progressive	T169	C0205329
+27681813	159	166	chronic	T079	C0205191
+27681813	171	197	degenerative joint disease	T047	C0029408
+27681813	217	221	loss	T081	C1517945
+27681813	225	244	articular cartilage	T024	C0007303
+27681813	246	255	Treatment	T061	C0087111
+27681813	259	261	OA	T047	C0029408
+27681813	273	283	palliative	T080	C1285530
+27681813	293	329	nonsteroidal anti-inflammatory drugs	T121	C0003211
+27681813	331	338	opioids	T109,T121,T131	C0242402
+27681813	343	365	injections of steroids	T061	C1261311
+27681813	377	399	conservative treatment	T061	C0459914
+27681813	401	427	intra-articular injections	T061	C0021488
+27681813	431	446	hyaluronic acid	T109,T121,T123	C0020196
+27681813	448	450	HA	T109,T121,T123	C0020196
+27681813	489	496	knee OA	T047	C0409959
+27681813	544	552	patients	T101	C0030705
+27681813	557	562	males	T032	C0086582
+27681813	570	577	females	T032	C0086287
+27681813	597	602	years	T079	C0439234
+27681813	603	606	old	T079	C0580836
+27681813	640	646	groups	T078	C0441833
+27681813	658	670	treated with	T061	C0332293
+27681813	684	710	intra-articular injections	T061	C0021488
+27681813	714	729	hyaluronic acid	T109,T121,T123	C0020196
+27681813	737	744	group A	T185	C0441835
+27681813	769	781	treated with	T061	C0332293
+27681813	782	800	Syalox 300 Plus(®)	T091	C0025118
+27681813	802	817	hyaluronic acid	T109,T121,T123	C0020196
+27681813	827	852	Boswellia serrata extract	T121	C1712544
+27681813	863	866	tab	T122	C0039225
+27681813	869	872	die	T079	C0439228
+27681813	880	884	days	T079	C0439228
+27681813	899	912	Syalox 150(®)	T091	C0025118
+27681813	914	929	hyaluronic acid	T109,T121,T123	C0020196
+27681813	940	943	tab	T122	C0039225
+27681813	946	949	die	T079	C0439228
+27681813	963	967	days	T079	C0439228
+27681813	969	976	group B	T185	C0441836
+27681813	983	991	patients	T101	C0030705
+27681813	1007	1017	clinically	T080	C0205210
+27681813	1023	1050	American Knee Society Score	T081	C0449820
+27681813	1052	1056	AKSS	T081	C0449820
+27681813	1062	1083	visual analogue scale	T060	C3536884
+27681813	1085	1088	VAS	T060	C3536884
+27681813	1098	1102	pain	T184	C0030193
+27681813	1114	1123	treatment	T061	C0087111
+27681813	1134	1142	3 months	T079	C1442461
+27681813	1144	1148	AKSS	T081	C0449820
+27681813	1156	1164	patients	T101	C0030705
+27681813	1173	1179	groups	T078	C0441833
+27681813	1198	1207	increased	T081	C0205217
+27681813	1215	1224	treatment	T061	C0087111
+27681813	1230	1233	VAS	T060	C3536884
+27681813	1234	1239	score	T081	C0449820
+27681813	1258	1265	reduced	T080	C0392756
+27681813	1275	1281	groups	T078	C0441833
+27681813	1287	1296	subgroups	T185	C1515021
+27681813	1315	1323	patients	T101	C0030705
+27681813	1324	1343	older than 60 years	T033	C4062446
+27681813	1348	1356	patients	T101	C0030705
+27681813	1357	1364	younger	T079	C0332239
+27681813	1373	1378	years	T079	C0439234
+27681813	1411	1418	younger	T079	C0332239
+27681813	1419	1427	patients	T101	C0030705
+27681813	1431	1438	group A	T185	C0441835
+27681813	1443	1448	older	T098	C0001792
+27681813	1461	1468	group B	T185	C0441836
+27681813	1518	1523	study	T062	C2603343
+27681813	1540	1542	HA	T109,T121,T123	C0020196
+27681813	1543	1552	injection	T122	C1272883
+27681813	1557	1576	oral administration	T061	C0001563
+27681813	1597	1616	therapeutic effects	T201	C1527144
+27681813	1620	1628	patients	T101	C0030705
+27681813	1640	1654	osteoarthritis	T047	C0029408
+27681813	1678	1685	younger	T079	C0332239
+27681813	1690	1695	older	T098	C0001792
+27681813	1725	1732	therapy	T061	C0087111
+27681813	1750	1763	infiltrations	T061	C0702249
+27681813	1778	1782	oral	T030	C0226896
+27681813	1783	1794	composition	T201	C0486616

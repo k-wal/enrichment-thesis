@@ -1,0 +1,109 @@
+27512352|t|Can mean platelet volume be used as a biomarker for asthma?
+27512352|a|Platelets play important roles in airway inflammation and are activated in inflammatory lung diseases, including asthma. We evaluated the mean platelet volume (MPV), used as a marker of platelet activation, in asthmatic patients during asymptomatic periods and exacerbations compared to healthy controls to determine whether MPV can be used as an indicator of inflammation. Our patient group consisted of 95 children with exacerbation of asthma who were admitted to our allergy clinic. The control group consisted of 100 healthy children matched for age, gender, and ethnicity. Mean platelet volume values of the patient group obtained during exacerbation of asthma were compared to those of the same group during the asymptomatic period and with the control group. We investigated factors that can affect the MPV values of asthma patients, including infection, atopy, immunotherapy treatment, and severity of asthma exacerbation. The patient group consisted of 50 (52.6%) boys and 45 (47.4%) girls with a mean age of 125 ±38 months old. Mean MPV values in the exacerbation period, the healthy period, and in the control group were 8.1 ±0.8 fl, 8.1 ±1.06 fl, and 8.2 ±0.9 fl, respectively; there were no significant differences between groups (p > 0.05). The severity of asthma, severity of asthma exacerbation, immunotherapy, coinfection, eosinophil count, and IgE level also had no effect on MPV (p > 0.05). Although platelets play a role in the pathophysiology of asthma, MPV measurement is insufficient to detect inflammation through platelets.
+27512352	4	24	mean platelet volume	T059	C0200665
+27512352	28	32	used	T169	C1524063
+27512352	38	47	biomarker	T201	C0005516
+27512352	52	58	asthma	T047	C0004096
+27512352	60	69	Platelets	T025	C0005821
+27512352	94	113	airway inflammation	T047	C0004096
+27512352	122	131	activated	T052	C1879547
+27512352	135	161	inflammatory lung diseases	T033	C4230430
+27512352	163	172	including	T052	C2700399
+27512352	173	179	asthma	T047	C0004096
+27512352	184	193	evaluated	T058	C0220825
+27512352	198	218	mean platelet volume	T059	C0200665
+27512352	220	223	MPV	T059	C0200665
+27512352	226	230	used	T169	C1524063
+27512352	236	242	marker	T201	C0005516
+27512352	246	265	platelet activation	T042	C0032173
+27512352	270	279	asthmatic	T047	C0004096
+27512352	280	288	patients	T101	C0030705
+27512352	289	295	during	T079	C0347984
+27512352	296	308	asymptomatic	T033	C0231221
+27512352	309	316	periods	T079	C1948053
+27512352	321	334	exacerbations	T033	C4086268
+27512352	335	343	compared	T052	C1707455
+27512352	347	363	healthy controls	T080	C2986479
+27512352	367	376	determine	T080	C0521095
+27512352	385	388	MPV	T059	C0200665
+27512352	396	400	used	T169	C1524063
+27512352	407	416	indicator	T130	C0021212
+27512352	420	432	inflammation	T046	C0021368
+27512352	438	445	patient	T101	C0030705
+27512352	452	461	consisted	T080	C0332529
+27512352	468	476	children	T100	C0008059
+27512352	482	504	exacerbation of asthma	T033	C0349790
+27512352	514	522	admitted	T058	C0184666
+27512352	530	544	allergy clinic	T073,T093	C3810819
+27512352	550	563	control group	T096	C0009932
+27512352	564	573	consisted	T080	C0332529
+27512352	581	588	healthy	T080	C3898900
+27512352	589	597	children	T100	C0008059
+27512352	598	605	matched	T062	C0150103
+27512352	610	613	age	T032	C0001779
+27512352	615	621	gender	T032	C0079399
+27512352	627	636	ethnicity	T080	C0243103
+27512352	638	658	Mean platelet volume	T059	C0200665
+27512352	659	665	values	T080	C0042295
+27512352	673	686	patient group	T101	C0030705
+27512352	687	695	obtained	T169	C1301820
+27512352	696	702	during	T079	C0347984
+27512352	703	725	exacerbation of asthma	T033	C0349790
+27512352	731	739	compared	T052	C1707455
+27512352	756	760	same	T080	C0445247
+27512352	761	766	group	T101	C0030705
+27512352	767	773	during	T079	C0347984
+27512352	778	790	asymptomatic	T033	C0231221
+27512352	791	797	period	T079	C1948053
+27512352	811	824	control group	T096	C0009932
+27512352	829	841	investigated	T169	C1292732
+27512352	842	849	factors	T169	C1521761
+27512352	859	865	affect	T169	C0392760
+27512352	870	873	MPV	T059	C0200665
+27512352	874	880	values	T080	C0042295
+27512352	884	890	asthma	T047	C0004096
+27512352	891	899	patients	T101	C0030705
+27512352	901	910	including	T052	C2700399
+27512352	911	920	infection	T046	C3714514
+27512352	922	927	atopy	T046	C0392707
+27512352	929	952	immunotherapy treatment	T061	C0021083
+27512352	958	966	severity	T080	C0439793
+27512352	970	989	asthma exacerbation	T047	C0038218
+27512352	995	1008	patient group	T101	C0030705
+27512352	1009	1018	consisted	T080	C0332529
+27512352	1033	1037	boys	T100	C0870221
+27512352	1053	1058	girls	T100	C0870604
+27512352	1066	1070	mean	T081	C0444504
+27512352	1071	1074	age	T032	C0001779
+27512352	1086	1096	months old	T032	C0001779
+27512352	1098	1102	Mean	T081	C0444504
+27512352	1103	1106	MPV	T059	C0200665
+27512352	1107	1113	values	T080	C0042295
+27512352	1121	1133	exacerbation	T033	C4086268
+27512352	1134	1140	period	T079	C1948053
+27512352	1146	1153	healthy	T080	C3898900
+27512352	1154	1160	period	T079	C1948053
+27512352	1173	1186	control group	T096	C0009932
+27512352	1261	1275	no significant	T033	C1273937
+27512352	1276	1287	differences	T080	C1705242
+27512352	1296	1302	groups	T101	C0030705
+27512352	1319	1327	severity	T080	C0439793
+27512352	1331	1337	asthma	T047	C0004096
+27512352	1339	1347	severity	T080	C0439793
+27512352	1351	1370	asthma exacerbation	T033	C0349790
+27512352	1372	1385	immunotherapy	T061	C0021083
+27512352	1387	1398	coinfection	T047	C0275524
+27512352	1400	1416	eosinophil count	T034	C0750879
+27512352	1422	1425	IgE	T116,T129	C0020846
+27512352	1426	1431	level	T080	C0441889
+27512352	1441	1450	no effect	T080	C1301751
+27512352	1454	1457	MPV	T059	C0200665
+27512352	1479	1488	platelets	T025	C0005821
+27512352	1508	1523	pathophysiology	T169	C0031847
+27512352	1527	1533	asthma	T047	C0004096
+27512352	1535	1550	MPV measurement	T059	C0200665
+27512352	1554	1566	insufficient	T080	C0231180
+27512352	1570	1576	detect	T061	C1511790
+27512352	1577	1589	inflammation	T046	C0021368
+27512352	1590	1597	through	T169	C0332273
+27512352	1598	1607	platelets	T025	C0005821

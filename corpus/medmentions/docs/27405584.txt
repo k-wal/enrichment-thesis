@@ -1,0 +1,73 @@
+27405584|t|Risk stratification of prostate cancer utilizing apparent diffusion coefficient value and lesion volume on multiparametric MRI
+27405584|a|To evaluate the performance of apparent diffusion coefficient (ADC) and lesion volume in potentially risk - stratifying patients with prostate cancer (PCa). Men with elevated prostate-specific antigen or abnormal digital rectal exam underwent a 3T multiparametric magnetic resonance imaging (mpMRI) with endorectal coil. ADC maps were calculated using b values of 0, 500, 1000, and 1500; additional images were obtained with b value of 2000. We prospectively enrolled 312 men with lesions suspicious for cancer (suspicion score 2-5) on mpMRI. MRI/ultrasound fusion-guided prostate biopsies were performed. Mean ADC of suspicious lesions were correlated against lesion volume, Gleason and D'Amico risk. The cancer detection rate of fusion biopsy per lesion was 45.6% (206/452). Cancerous lesions were larger (median volume: 0.40 vs. 0.30 cm(3); P = 0.016). The median ADC (×10(-6) mm(2) /sec) for lesions negative and positive for PCa were 984.5 and 666.5, respectively (P < 0.0001). The AUC of ADC in predicting PCa was 0.79. Larger lesions were associated with higher risk PCa (Gleason and D'Amico) and lower ADC (all P < 0.0001). The mean ADC of suspicious lesions on mpMRI was inversely correlated, while lesion volume had a direct correlation with PCa detection. Future follow-up studies are needed to assess longitudinal cancer risks of suspicious mpMRI lesions. 2 J. Magn. Reson. Imaging 2017;45:610-616.
+27405584	0	4	Risk	T078	C0035647
+27405584	5	19	stratification	T062	C1514983
+27405584	23	38	prostate cancer	T191	C0376358
+27405584	49	79	apparent diffusion coefficient	T077	C3890194
+27405584	80	85	value	T081	C1522609
+27405584	90	103	lesion volume	T033	C0221198
+27405584	107	126	multiparametric MRI	T060	C3898221
+27405584	130	138	evaluate	T058	C0220825
+27405584	158	188	apparent diffusion coefficient	T077	C3890194
+27405584	190	193	ADC	T077	C3890194
+27405584	199	212	lesion volume	T033	C0221198
+27405584	228	232	risk	T078	C0035647
+27405584	235	246	stratifying	T062	C1514983
+27405584	247	255	patients	T101	C0030705
+27405584	261	276	prostate cancer	T191	C0376358
+27405584	278	281	PCa	T191	C0376358
+27405584	284	287	Men	T098	C0025266
+27405584	293	301	elevated	T080	C3163633
+27405584	302	327	prostate-specific antigen	T116,T126,T129	C0138741
+27405584	331	359	abnormal digital rectal exam	T060	C1384593
+27405584	372	417	3T multiparametric magnetic resonance imaging	T060	C3898221
+27405584	419	424	mpMRI	T060	C3898221
+27405584	431	446	endorectal coil	T074	C0025080
+27405584	448	451	ADC	T077	C3890194
+27405584	452	456	maps	T170	C0282574
+27405584	526	532	images	T170	C1704254
+27405584	599	602	men	T098	C0025266
+27405584	608	615	lesions	T033	C0221198
+27405584	616	626	suspicious	T078	C0750493
+27405584	631	637	cancer	T191	C0006826
+27405584	639	654	suspicion score	T081	C0449820
+27405584	663	668	mpMRI	T060	C3898221
+27405584	670	716	MRI/ultrasound fusion-guided prostate biopsies	T060	C3898501
+27405584	738	741	ADC	T077	C3890194
+27405584	745	755	suspicious	T078	C0750493
+27405584	756	763	lesions	T033	C0221198
+27405584	788	801	lesion volume	T033	C0221198
+27405584	803	827	Gleason and D'Amico risk	T185	C0008902
+27405584	833	839	cancer	T191	C0006826
+27405584	840	854	detection rate	T081	C1265611
+27405584	858	871	fusion biopsy	T060	C3898501
+27405584	876	882	lesion	T033	C0221198
+27405584	904	913	Cancerous	T191	C0006826
+27405584	914	921	lesions	T033	C0221198
+27405584	994	997	ADC	T077	C3890194
+27405584	1023	1030	lesions	T033	C0221198
+27405584	1031	1052	negative and positive	T033	C3842923
+27405584	1057	1060	PCa	T191	C0376358
+27405584	1114	1117	AUC	T081	C0376690
+27405584	1121	1124	ADC	T077	C3890194
+27405584	1139	1142	PCa	T191	C0376358
+27405584	1160	1167	lesions	T033	C0221198
+27405584	1173	1188	associated with	T080	C0332281
+27405584	1189	1200	higher risk	T033	C0332167
+27405584	1201	1204	PCa	T191	C0376358
+27405584	1206	1225	Gleason and D'Amico	T185	C0008902
+27405584	1231	1240	lower ADC	T033	C3810244
+27405584	1268	1271	ADC	T077	C3890194
+27405584	1275	1285	suspicious	T078	C0750493
+27405584	1286	1293	lesions	T033	C0221198
+27405584	1297	1302	mpMRI	T060	C3898221
+27405584	1335	1348	lesion volume	T033	C0221198
+27405584	1362	1373	correlation	T080	C1707520
+27405584	1379	1382	PCa	T191	C0376358
+27405584	1383	1392	detection	T033	C0442726
+27405584	1401	1418	follow-up studies	T062	C0016441
+27405584	1440	1459	longitudinal cancer	T191	C0006826
+27405584	1460	1465	risks	T078	C0035647
+27405584	1469	1479	suspicious	T078	C0750493
+27405584	1480	1485	mpMRI	T060	C3898221
+27405584	1486	1493	lesions	T033	C0221198

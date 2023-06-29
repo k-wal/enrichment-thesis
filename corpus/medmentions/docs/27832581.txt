@@ -1,0 +1,95 @@
+27832581|t|Effect of nutritionally induced hyperlipidaemia on in vitro bovine embryo quality depends on the type of major fatty acid in the diet
+27832581|a|The present study examined whether the effects of dietary -induced hyperlipidaemia on preimplantation embryo development depend on the predominant fatty acid (FA) type in the diet. In a combined in vivo - in vitro bovine model, two groups of cows (n=3 in each group) were fed with three diets consecutively (4 weeks feeding for each): (1) a maintenance control diet (CONT); (2) a high - starch diet rich in saturated fat (SAT); and (3) a high - starch diet rich in omega-3 unsaturated fat (UNSAT). Two feeding sequences were used to test for carry-over effects: Group A was fed CONT, SAT1 and then UNSAT2, whereas Group B was fed CONT, UNSAT1 and then SAT2. Serum was collected after each dietary period, analysed and tested in bovine in vitro embryo culture. Introducing SAT and UNSAT diets induced hyperlipidaemia (specifically hypercholesterolaemia and elevated free FAs) and reduced insulin sensitivity. Carry-over effects in serum metabolites and FA profile were dependent on the diet and feeding sequence. SAT1 and SAT2 serum decreased blastocyst rates and altered blastocyst mRNA expression related to apoptosis and oxidative stress. UNSAT1 and UNSAT2 serum resulted in normal embryo development and quality. Other in vitro effects depended on the sequence of feeding. In conclusion, substitution of saturated fat with omega-3 fat in a high-caloric diet induced hyperlipidaemia with an FA profile yielding similar rates and quality of blastocysts compared with normolipidaemic controls.
+27832581	0	6	Effect	T080	C1280500
+27832581	10	31	nutritionally induced	T033	C0392209
+27832581	32	47	hyperlipidaemia	T047	C0020473
+27832581	51	59	in vitro	T080	C1533691
+27832581	60	66	bovine	T015	C3667982
+27832581	67	73	embryo	T018	C0013935
+27832581	111	121	fatty acid	T109	C0015684
+27832581	129	133	diet	T168	C0012155
+27832581	146	151	study	T062	C2603343
+27832581	152	160	examined	T033	C0332128
+27832581	173	183	effects of	T080	C1704420
+27832581	184	191	dietary	T168	C0012155
+27832581	201	216	hyperlipidaemia	T047	C0020473
+27832581	220	254	preimplantation embryo development	T039	C1446949
+27832581	281	291	fatty acid	T109	C0015684
+27832581	293	295	FA	T109	C0015684
+27832581	309	313	diet	T168	C0012155
+27832581	329	336	in vivo	T082	C1515655
+27832581	339	347	in vitro	T080	C1533691
+27832581	348	354	bovine	T015	C3667982
+27832581	355	360	model	T008	C0599779
+27832581	376	380	cows	T015	C0007452
+27832581	406	409	fed	T052	C3853577
+27832581	421	426	diets	T168	C0012155
+27832581	450	457	feeding	T052	C2987508
+27832581	475	499	maintenance control diet	T168	C0012155
+27832581	501	505	CONT	T168	C0012155
+27832581	514	518	high	T080	C0205250
+27832581	521	527	starch	T168	C0311120
+27832581	528	532	diet	T168	C0012155
+27832581	541	554	saturated fat	T168	C0597423
+27832581	556	559	SAT	T168	C0597423
+27832581	572	576	high	T080	C0205250
+27832581	579	585	starch	T168	C0311120
+27832581	586	590	diet	T168	C0012155
+27832581	599	606	omega-3	T109,T121,T123	C0015689
+27832581	607	622	unsaturated fat	T109,T168	C0012172
+27832581	624	629	UNSAT	T109,T168	C0012172
+27832581	636	643	feeding	T052	C2987508
+27832581	644	653	sequences	T169	C1519249
+27832581	708	711	fed	T052	C3853577
+27832581	712	716	CONT	T168	C0012155
+27832581	718	722	SAT1	T168	C0597423
+27832581	732	738	UNSAT2	T109,T168	C0012172
+27832581	760	763	fed	T052	C3853577
+27832581	764	768	CONT	T168	C0012155
+27832581	770	776	UNSAT1	T109,T168	C0012172
+27832581	786	790	SAT2	T168	C0597423
+27832581	792	797	Serum	T031	C0229671
+27832581	823	830	dietary	T168	C0012155
+27832581	831	837	period	T079	C1948053
+27832581	839	847	analysed	T062	C0936012
+27832581	852	858	tested	T169	C0039593
+27832581	862	868	bovine	T015	C3667982
+27832581	869	877	in vitro	T080	C1533691
+27832581	878	892	embryo culture	T059	C0920489
+27832581	906	909	SAT	T168	C0597423
+27832581	914	919	UNSAT	T109,T168	C0012172
+27832581	920	925	diets	T168	C0012155
+27832581	934	949	hyperlipidaemia	T047	C0020473
+27832581	964	985	hypercholesterolaemia	T047	C0020443
+27832581	999	1007	free FAs	T109	C0015688
+27832581	1021	1040	insulin sensitivity	T046	C0920563
+27832581	1064	1069	serum	T031	C0229671
+27832581	1070	1081	metabolites	T123	C0870883
+27832581	1086	1096	FA profile	T059	C0202009
+27832581	1119	1123	diet	T168	C0012155
+27832581	1128	1135	feeding	T052	C2987508
+27832581	1136	1144	sequence	T169	C1519249
+27832581	1146	1150	SAT1	T168	C0597423
+27832581	1155	1159	SAT2	T168	C0597423
+27832581	1160	1165	serum	T031	C0229671
+27832581	1176	1186	blastocyst	T018	C1281743
+27832581	1205	1215	blastocyst	T018	C1281743
+27832581	1216	1231	mRNA expression	T045	C1515670
+27832581	1243	1252	apoptosis	T043	C0162638
+27832581	1257	1273	oxidative stress	T049	C0242606
+27832581	1275	1281	UNSAT1	T109,T168	C0012172
+27832581	1286	1292	UNSAT2	T109,T168	C0012172
+27832581	1293	1298	serum	T031	C0229671
+27832581	1318	1324	embryo	T018	C0013935
+27832581	1341	1348	quality	T080	C0332306
+27832581	1356	1364	in vitro	T080	C1533691
+27832581	1389	1397	sequence	T169	C1519249
+27832581	1401	1408	feeding	T052	C2987508
+27832581	1425	1437	substitution	T052	C1706204
+27832581	1441	1454	saturated fat	T168	C0597423
+27832581	1460	1471	omega-3 fat	T109,T121,T123	C0015689
+27832581	1477	1494	high-caloric diet	T061	C0301590
+27832581	1503	1518	hyperlipidaemia	T047	C0020473
+27832581	1527	1537	FA profile	T059	C0202009
+27832581	1576	1587	blastocysts	T018	C1281743
+27832581	1602	1626	normolipidaemic controls	T096	C0009932

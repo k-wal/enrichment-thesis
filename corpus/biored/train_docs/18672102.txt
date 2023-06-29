@@ -1,0 +1,80 @@
+18672102|t|GATA4 mutations in 486 Chinese patients with congenital heart disease.
+18672102|a|Recent studies have reported germline mutations in GATA4 gene in some types of congenital heart disease (CHD). However, the prevalence of GATA4 mutations in CHD and the correlation between the GATA4 genotype and CHD phenotype have not been extensively studied. We screened germline mutations in the coding exons and the flanking intron sequences of the GATA4 gene in 486 CHD patients by denaturing high-performance liquid chromatography (DHPLC), and confirmed the mutations by sequencing. Nine distinct mutations including one small deletion mutation (46delS), two small insertion mutations (118-119insA and 125-126insAA), and six non-synonymous mutations (A6V, P163S, E359K, P407Q, S429T and A442V) were identified in 12 of the 486 patients (nine with ventricular septal defect, two with Tetralogy of Fallot, and one with endocardial cushion defect). Of them, two patients carrying E359K mutation were from two generations in one family with ventricular septal defect (VSD). Interestingly, a nucleotide insertion of c.1146+25insA in exon 6 was detected in five VSD patients, but not in 486 normal healthy controls. Our findings are useful in understanding the prevalence of GATA4 mutations and the correlation between the GATA4 genotype and the CHD phenotype in Chinese patients.
+18672102	0	5	GATA4	GeneOrGeneProduct	2626
+18672102	31	39	patients	OrganismTaxon	9606
+18672102	45	69	congenital heart disease	DiseaseOrPhenotypicFeature	D006331
+18672102	122	127	GATA4	GeneOrGeneProduct	2626
+18672102	150	174	congenital heart disease	DiseaseOrPhenotypicFeature	D006331
+18672102	176	179	CHD	DiseaseOrPhenotypicFeature	D006331
+18672102	209	214	GATA4	GeneOrGeneProduct	2626
+18672102	228	231	CHD	DiseaseOrPhenotypicFeature	D006331
+18672102	264	269	GATA4	GeneOrGeneProduct	2626
+18672102	283	286	CHD	DiseaseOrPhenotypicFeature	D006331
+18672102	424	429	GATA4	GeneOrGeneProduct	2626
+18672102	442	445	CHD	DiseaseOrPhenotypicFeature	D006331
+18672102	446	454	patients	OrganismTaxon	9606
+18672102	623	629	46delS	SequenceVariant	|DEL|46|S
+18672102	663	674	118-119insA	SequenceVariant	|INS|118_119|A
+18672102	679	691	125-126insAA	SequenceVariant	|INS|125_126|AA
+18672102	728	731	A6V	SequenceVariant	rs199922907
+18672102	733	738	P163S	SequenceVariant	rs387906769
+18672102	740	745	E359K	SequenceVariant	rs368489876
+18672102	747	752	P407Q	SequenceVariant	rs115099192
+18672102	754	759	S429T	SequenceVariant	p|SUB|S|429|T
+18672102	764	769	A442V	SequenceVariant	rs146017816
+18672102	804	812	patients	OrganismTaxon	9606
+18672102	824	849	ventricular septal defect	DiseaseOrPhenotypicFeature	D006345
+18672102	860	879	Tetralogy of Fallot	DiseaseOrPhenotypicFeature	D013771
+18672102	894	920	endocardial cushion defect	DiseaseOrPhenotypicFeature	D004694
+18672102	936	944	patients	OrganismTaxon	9606
+18672102	954	959	E359K	SequenceVariant	rs368489876
+18672102	1014	1039	ventricular septal defect	DiseaseOrPhenotypicFeature	D006345
+18672102	1041	1044	VSD	DiseaseOrPhenotypicFeature	D006345
+18672102	1088	1101	c.1146+25insA	SequenceVariant	c|INS|1146+25|A
+18672102	1133	1136	VSD	DiseaseOrPhenotypicFeature	D006345
+18672102	1137	1145	patients	OrganismTaxon	9606
+18672102	1246	1251	GATA4	GeneOrGeneProduct	2626
+18672102	1294	1299	GATA4	GeneOrGeneProduct	2626
+18672102	1317	1320	CHD	DiseaseOrPhenotypicFeature	D006331
+18672102	1342	1350	patients	OrganismTaxon	9606
+18672102	Association	c|INS|1146+25|A	D006345	Novel
+18672102	Association	2626	D004694	Novel
+18672102	Association	2626	D013771	Novel
+18672102	Association	2626	D006345	Novel
+18672102	Association	2626	D006331	No
+18672102	Association	rs146017816	D004694	Novel
+18672102	Association	rs146017816	D013771	Novel
+18672102	Association	rs146017816	D006345	Novel
+18672102	Association	p|SUB|S|429|T	D004694	Novel
+18672102	Association	p|SUB|S|429|T	D013771	Novel
+18672102	Association	p|SUB|S|429|T	D006345	Novel
+18672102	Association	rs115099192	D004694	Novel
+18672102	Association	rs115099192	D013771	Novel
+18672102	Association	rs115099192	D006345	Novel
+18672102	Association	rs368489876	D004694	Novel
+18672102	Association	rs368489876	D013771	Novel
+18672102	Association	rs368489876	D006345	Novel
+18672102	Association	rs387906769	D004694	Novel
+18672102	Association	rs387906769	D013771	Novel
+18672102	Association	rs387906769	D006345	Novel
+18672102	Association	rs199922907	D004694	Novel
+18672102	Association	rs199922907	D013771	Novel
+18672102	Association	rs199922907	D006345	Novel
+18672102	Association	|INS|125_126|AA	D004694	Novel
+18672102	Association	|INS|125_126|AA	D013771	Novel
+18672102	Association	|INS|125_126|AA	D006345	Novel
+18672102	Association	|INS|118_119|A	D004694	Novel
+18672102	Association	|INS|118_119|A	D013771	Novel
+18672102	Association	|INS|118_119|A	D006345	Novel
+18672102	Association	|DEL|46|S	D004694	Novel
+18672102	Association	|DEL|46|S	D013771	Novel
+18672102	Association	|DEL|46|S	D006345	Novel
+18672102	Association	D006331	rs146017816	Novel
+18672102	Association	D006331	p|SUB|S|429|T	Novel
+18672102	Association	D006331	rs115099192	Novel
+18672102	Association	D006331	rs368489876	Novel
+18672102	Association	D006331	rs387906769	Novel
+18672102	Association	D006331	rs199922907	Novel
+18672102	Association	D006331	|INS|125_126|AA	Novel
+18672102	Association	D006331	|INS|118_119|A	Novel
+18672102	Association	D006331	|DEL|46|S	Novel

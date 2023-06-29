@@ -1,0 +1,37 @@
+16160878|t|Behavioral effects of urotensin-II centrally administered in mice.
+16160878|a|Urotensin-II (U-II) receptors are widely distributed in the central nervous system. Intracerebroventricular (i.c.v.) injection of U-II causes hypertension and bradycardia and stimulates prolactin and thyrotropin secretion. However, the behavioral effects of centrally administered U-II have received little attention. In the present study, we tested the effects of i.c.v. injections of U-II on behavioral, metabolic, and endocrine responses in mice. Administration of graded doses of U-II (1-10,000 ng/mouse) provoked: (1) a dose-dependent reduction in the number of head dips in the hole-board test; (2) a dose-dependent reduction in the number of entries in the white chamber in the black-and-white compartment test, and in the number of entries in the central platform and open arms in the plus-maze test; and (3) a dose-dependent increase in the duration of immobility in the forced-swimming test and tail suspension test. Intracerebroventricular injection of U-II also caused an increase in: food intake at doses of 100 and 1,000 ng/mouse, water intake at doses of 100-10,000 ng/mouse, and horizontal locomotion activity at a dose of 10,000 ng/mouse. Whatever was the dose, the central administration of U-II had no effect on body temperature, nociception, apomorphine-induced penile erection and climbing behavior, and stress-induced plasma corticosterone level. Taken together, the present study demonstrates that the central injection of U-II at doses of 1-10,000 ng/mouse induces anxiogenic- and depressant-like effects in mouse. These data suggest that U-II may be involved in some aspects of psychiatric disorders.
+16160878	22	34	urotensin-II	GeneOrGeneProduct	24111
+16160878	61	65	mice	OrganismTaxon	10090
+16160878	67	79	Urotensin-II	GeneOrGeneProduct	24111
+16160878	81	85	U-II	GeneOrGeneProduct	24111
+16160878	197	201	U-II	GeneOrGeneProduct	24111
+16160878	209	221	hypertension	DiseaseOrPhenotypicFeature	D006973
+16160878	226	237	bradycardia	DiseaseOrPhenotypicFeature	D001919
+16160878	253	262	prolactin	GeneOrGeneProduct	19109
+16160878	267	278	thyrotropin	GeneOrGeneProduct	12640
+16160878	348	352	U-II	GeneOrGeneProduct	24111
+16160878	453	457	U-II	GeneOrGeneProduct	24111
+16160878	511	515	mice	OrganismTaxon	10090
+16160878	551	555	U-II	GeneOrGeneProduct	24111
+16160878	569	574	mouse	OrganismTaxon	10090
+16160878	1031	1035	U-II	GeneOrGeneProduct	24111
+16160878	1105	1110	mouse	OrganismTaxon	10090
+16160878	1151	1156	mouse	OrganismTaxon	10090
+16160878	1216	1221	mouse	OrganismTaxon	10090
+16160878	1276	1280	U-II	GeneOrGeneProduct	24111
+16160878	1329	1340	apomorphine	ChemicalEntity	D001058
+16160878	1414	1428	corticosterone	ChemicalEntity	D003345
+16160878	1513	1517	U-II	GeneOrGeneProduct	24111
+16160878	1542	1547	mouse	OrganismTaxon	10090
+16160878	1556	1566	anxiogenic	DiseaseOrPhenotypicFeature	D001008
+16160878	1572	1582	depressant	DiseaseOrPhenotypicFeature	D003866
+16160878	1599	1604	mouse	OrganismTaxon	10090
+16160878	1630	1634	U-II	GeneOrGeneProduct	24111
+16160878	1670	1691	psychiatric disorders	DiseaseOrPhenotypicFeature	D001523
+16160878	Positive_Correlation	24111	D001919	No
+16160878	Positive_Correlation	24111	D006973	No
+16160878	Positive_Correlation	24111	12640	No
+16160878	Positive_Correlation	24111	19109	No
+16160878	Association	24111	D001523	Novel
+16160878	Positive_Correlation	24111	D003866	Novel
+16160878	Positive_Correlation	24111	D001008	Novel

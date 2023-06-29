@@ -1,0 +1,30 @@
+27766879|t|Ensemble Linear Neighborhood Propagation for Predicting Subchloroplast Localization of Multi-Location Proteins
+27766879|a|In the postgenomic era, the number of unreviewed protein sequences is remarkably larger and grows tremendously faster than that of reviewed ones. However, existing methods for protein subchloroplast localization often ignore the information from these unlabeled proteins. This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins. Experimental results on a stringent benchmark dataset and a novel independent dataset suggest that LNP-Chlo performs at least 6% (absolute) better than state-of-the-art predictors. This paper also demonstrates that ensemble LNP significantly outperforms LNP based on individual features. For readers ' convenience, the online Web server LNP-Chlo is freely available at http://bioinfo.eie.polyu.edu.hk/LNPChloServer/.
+27766879	9	40	Linear Neighborhood Propagation	T170	UMLS:C0002045
+27766879	45	55	Predicting	T033	UMLS:C0243095
+27766879	56	83	Subchloroplast Localization	T038	UMLS:C3158176
+27766879	87	110	Multi-Location Proteins	T103	UMLS:C0033684
+27766879	160	177	protein sequences	T082	UMLS:C0002518
+27766879	275	282	methods	T170	UMLS:C0025663
+27766879	287	294	protein	T103	UMLS:C0033684
+27766879	295	322	subchloroplast localization	T038	UMLS:C3158176
+27766879	363	381	unlabeled proteins	T103	UMLS:C0033684
+27766879	388	393	paper	T170	UMLS:C1706852
+27766879	445	476	linear neighborhood propagation	T170	UMLS:C0002045
+27766879	478	481	LNP	T170	UMLS:C0002045
+27766879	492	500	LNP-Chlo	T170	UMLS:C0002045
+27766879	570	577	labeled	T103	UMLS:C0033684
+27766879	582	600	unlabeled proteins	T103	UMLS:C0033684
+27766879	605	615	predicting	T033	UMLS:C0243095
+27766879	616	681	localization of both single- and multi-label chloroplast proteins	T038	UMLS:C3156659
+27766879	683	703	Experimental results	T033	UMLS:C2825142
+27766879	729	736	dataset	T170	UMLS:C0150098
+27766879	761	768	dataset	T170	UMLS:C0150098
+27766879	782	790	LNP-Chlo	T170	UMLS:C0002045
+27766879	869	874	paper	T170	UMLS:C1706852
+27766879	907	910	LNP	T170	UMLS:C0002045
+27766879	937	940	LNP	T170	UMLS:C0002045
+27766879	975	982	readers	T098	UMLS:C1257890
+27766879	1002	1019	online Web server	T170	UMLS:C0029038
+27766879	1020	1028	LNP-Chlo	T170	UMLS:C0002045
+27766879	1052	1098	http://bioinfo.eie.polyu.edu.hk/LNPChloServer/	T170	UMLS:C1704666

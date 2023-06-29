@@ -1,0 +1,78 @@
+28437199|t|The Correlation of Arterial Stiffness with Biophysical Parameters and Blood Biochemistry
+28437199|a|Type 2 diabetes presents with numerous macrovascular and microvascular impairments, which in turn lead to various co-morbidities. Vascular co-morbidities can be seen when examining arterial stiffness (AS), which is a predictor for endothelial health and cardiovascular disease risk. Pulse wave analysis (PWA) and pulse wave velocity (PWV) are two tests that are commonly used to measure AS. Currently, disease states and progression are tracked via blood biochemistry. These gold standards in monitoring diabetes are expensive and need optimization. To investigate which biophysical and biochemical parameters correlated best with AS, which may reduce the number of biochemical tests and biophysical parameter measurements needed to track disease progression. Data from 42 subjects with type 2 diabetes mellitus for ≤10 years, aged 40-70 years, were analyzed at a single time point. We investigated various blood biochemistry, body composition, and AS parameters. A combination of fat mass and fat-free mass was most associated with PWA over any other parameters. Leptin and high-sensitivity C-reactive protein seem to be the next two parameters that correlate with augmentation index. No other parameters had strong correlations to either PWA or PWV values. Body composition methods seemed to be better predictors of type 2 diabetes mellitus patient's vascular disease progression. Our study indicates that body composition measurements may help replace expensive tests. This may have public health and health surveillance implications in countries facing financial challenges.
+28437199	4	15	Correlation	T080	C1707520
+28437199	19	37	Arterial Stiffness	T039	C0599949
+28437199	43	65	Biophysical Parameters	T081	C0392762
+28437199	70	75	Blood	T031	C0005767
+28437199	76	88	Biochemistry	T090	C0005477
+28437199	89	104	Type 2 diabetes	T047	C0011860
+28437199	128	141	macrovascular	T047	C0042373
+28437199	146	171	microvascular impairments	T047	C0042373
+28437199	203	217	co-morbidities	T078	C0009488
+28437199	219	227	Vascular	T023	C0005847
+28437199	228	242	co-morbidities	T078	C0009488
+28437199	270	288	arterial stiffness	T039	C0599949
+28437199	290	292	AS	T039	C0599949
+28437199	306	315	predictor	T078	C2698872
+28437199	320	331	endothelial	T024	C0014257
+28437199	332	338	health	T078	C0018684
+28437199	343	365	cardiovascular disease	T047	C0007222
+28437199	366	370	risk	T078	C0035647
+28437199	372	391	Pulse wave analysis	T060	C3494430
+28437199	393	396	PWA	T060	C3494430
+28437199	402	421	pulse wave velocity	T081	C3494431
+28437199	423	426	PWV	T081	C3494431
+28437199	468	475	measure	T169	C0242485
+28437199	476	478	AS	T039	C0599949
+28437199	491	505	disease states	T033	C3887610
+28437199	510	521	progression	T046	C0242656
+28437199	526	533	tracked	T057	C0681689
+28437199	538	543	blood	T031	C0005767
+28437199	544	556	biochemistry	T090	C0005477
+28437199	564	578	gold standards	T080	C0150110
+28437199	582	592	monitoring	T058	C1283169
+28437199	593	601	diabetes	T047	C0011847
+28437199	606	615	expensive	T033	C0243095
+28437199	625	637	optimization	T052	C2698650
+28437199	660	671	biophysical	T081	C0392762
+28437199	676	698	biochemical parameters	T081	C0392762
+28437199	720	722	AS	T039	C0599949
+28437199	755	772	biochemical tests	T059	C0430027
+28437199	777	798	biophysical parameter	T081	C0392762
+28437199	799	811	measurements	T169	C0242485
+28437199	822	827	track	T057	C0681689
+28437199	828	847	disease progression	T046	C0242656
+28437199	862	870	subjects	T096	C0681850
+28437199	876	900	type 2 diabetes mellitus	T047	C0011860
+28437199	939	947	analyzed	T062	C0936012
+28437199	953	970	single time point	T079	C2348792
+28437199	996	1001	blood	T031	C0005767
+28437199	1002	1014	biochemistry	T090	C0005477
+28437199	1016	1032	body composition	T032	C0005885
+28437199	1038	1040	AS	T039	C0599949
+28437199	1041	1051	parameters	T081	C0392762
+28437199	1070	1078	fat mass	T032	C3656665
+28437199	1083	1096	fat-free mass	T033	C0424679
+28437199	1106	1121	associated with	T080	C0332281
+28437199	1122	1125	PWA	T060	C3494430
+28437199	1141	1151	parameters	T081	C0392762
+28437199	1153	1159	Leptin	T116,T125	C0299583
+28437199	1181	1199	C-reactive protein	T116,T129	C0006560
+28437199	1224	1234	parameters	T081	C0392762
+28437199	1255	1273	augmentation index	T081	C0392762
+28437199	1284	1294	parameters	T081	C0392762
+28437199	1329	1332	PWA	T060	C3494430
+28437199	1336	1339	PWV	T081	C3494431
+28437199	1348	1372	Body composition methods	T059	C0022885
+28437199	1393	1403	predictors	T078	C2698872
+28437199	1407	1431	type 2 diabetes mellitus	T047	C0011860
+28437199	1432	1441	patient's	T101	C0030705
+28437199	1442	1458	vascular disease	T047	C0042373
+28437199	1459	1470	progression	T046	C0242656
+28437199	1476	1481	study	T062	C2603343
+28437199	1497	1526	body composition measurements	T201	C1285593
+28437199	1544	1559	expensive tests	T059	C0022885
+28437199	1575	1588	public health	T058	C0699943
+28437199	1593	1612	health surveillance	T058	C3494318
+28437199	1629	1638	countries	T083	C0454664
+28437199	1646	1666	financial challenges	T033	C0549106

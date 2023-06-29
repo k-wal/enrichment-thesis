@@ -1,0 +1,30 @@
+18754075|t|Massive proteinuria and acute renal failure after oral bisphosphonate (alendronate) administration in a patient with focal segmental glomerulosclerosis.
+18754075|a|A 61-year-old Japanese man with nephrotic syndrome due to focal segmental glomerulosclerosis was initially responding well to steroid therapy. The amount of daily urinary protein decreased from 15.6 to 2.8 g. Within 14 days of the oral bisphosphonate (alendronate sodium) administration, the amount of daily urinary protein increased rapidly up to 12.8 g with acute renal failure. After discontinuing the oral alendronate, the patient underwent six cycles of hemodialysis and four cycles of LDL apheresis. Urinary volume and serum creatinine levels recovered to the normal range, with urinary protein disappearing completely within 40 days. This report demonstrates that not only intravenous, but also oral bisphosphonates can aggravate proteinuria and acute renal failure.
+18754075	8	19	proteinuria	DiseaseOrPhenotypicFeature	D011507
+18754075	24	43	acute renal failure	DiseaseOrPhenotypicFeature	D058186
+18754075	55	69	bisphosphonate	ChemicalEntity	D004164
+18754075	71	82	alendronate	ChemicalEntity	D019386
+18754075	104	111	patient	OrganismTaxon	9606
+18754075	117	151	focal segmental glomerulosclerosis	DiseaseOrPhenotypicFeature	D005923
+18754075	176	179	man	OrganismTaxon	9606
+18754075	185	203	nephrotic syndrome	DiseaseOrPhenotypicFeature	D009404
+18754075	211	245	focal segmental glomerulosclerosis	DiseaseOrPhenotypicFeature	D005923
+18754075	279	286	steroid	ChemicalEntity	D013256
+18754075	389	403	bisphosphonate	ChemicalEntity	D004164
+18754075	405	423	alendronate sodium	ChemicalEntity	D019386
+18754075	513	532	acute renal failure	DiseaseOrPhenotypicFeature	D058186
+18754075	563	574	alendronate	ChemicalEntity	D019386
+18754075	580	587	patient	OrganismTaxon	9606
+18754075	684	694	creatinine	ChemicalEntity	D003404
+18754075	860	875	bisphosphonates	ChemicalEntity	D004164
+18754075	890	901	proteinuria	DiseaseOrPhenotypicFeature	D011507
+18754075	906	925	acute renal failure	DiseaseOrPhenotypicFeature	D058186
+18754075	Negative_Correlation	D013256	D009404	No
+18754075	Negative_Correlation	D013256	D005923	No
+18754075	Positive_Correlation	D058186	D019386	Novel
+18754075	Positive_Correlation	D058186	D004164	Novel
+18754075	Negative_Correlation	D019386	D003404	Novel
+18754075	Negative_Correlation	D019386	D005923	No
+18754075	Negative_Correlation	D004164	D005923	No
+18754075	Positive_Correlation	D011507	D019386	Novel
+18754075	Positive_Correlation	D011507	D004164	Novel

@@ -1,0 +1,29 @@
+27818989|t|SimAlba: A Spatial Microsimulation Approach to the Analysis of Health Inequalities
+27818989|a|This paper presents applied geographical research based on a spatial microsimulation model, SimAlba, aimed at estimating geographically sensitive health variables in Scotland. SimAlba has been developed in order to answer a variety of " what-if" policy questions pertaining to health policy in Scotland. Using the SimAlba model, it is possible to simulate the distributions of previously unknown variables at the small area level such as smoking, alcohol consumption, mental well-being, and obesity. The SimAlba microdataset has been created by combining Scottish Health Survey and Census data using a deterministic reweighting spatial microsimulation algorithm developed for this purpose. The paper presents SimAlba outputs for Scotland's largest city, Glasgow, and examines the spatial distribution of the simulated variables for small geographical areas in Glasgow as well as the effects on individuals of different policy scenario outcomes. In simulating previously unknown spatial data, a wealth of new perspectives can be examined and explored. This paper explores a small set of those potential avenues of research and shows the power of spatial microsimulation modeling in an urban context.
+27818989	51	59	Analysis	T062	UMLS:C0936012
+27818989	103	132	applied geographical research	T062	UMLS:C0242481
+27818989	204	218	geographically	T082	UMLS:C1517526
+27818989	249	257	Scotland	T082	UMLS:C0036453
+27818989	298	304	answer	T170	UMLS:C1706817
+27818989	320	335	what-if" policy	T170	UMLS:C0242456
+27818989	336	345	questions	T170	UMLS:C1522634
+27818989	360	373	health policy	T170	UMLS:C0018735
+27818989	377	385	Scotland	T082	UMLS:C0036453
+27818989	430	438	simulate	T062	UMLS:C0679083
+27818989	496	512	small area level	T062	UMLS:C0085564
+27818989	551	568	mental well-being	T033	UMLS:C0424578
+27818989	574	581	obesity	T038	UMLS:C0028754
+27818989	638	660	Scottish Health Survey	T062	UMLS:C0018762
+27818989	711	744	spatial microsimulation algorithm	T170	UMLS:C0002045
+27818989	812	822	Scotland's	T082	UMLS:C0036453
+27818989	831	835	city	T082	UMLS:C0008848
+27818989	863	883	spatial distribution	T082	UMLS:C0037775
+27818989	891	900	simulated	T062	UMLS:C0679083
+27818989	977	988	individuals	T098	UMLS:C0027361
+27818989	1002	1008	policy	T170	UMLS:C0242456
+27818989	1031	1041	simulating	T062	UMLS:C0679083
+27818989	1061	1073	spatial data	T062	UMLS:C0814926
+27818989	1111	1119	examined	T033	UMLS:C0332128
+27818989	1124	1132	explored	T033	UMLS:C0243095
+27818989	1145	1153	explores	T033	UMLS:C0243095
+27818989	1196	1204	research	T062	UMLS:C0035168

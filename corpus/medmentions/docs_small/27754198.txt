@@ -1,0 +1,62 @@
+27754198|t|JS ISH-ECCR-3 A NOVEL ALGORITHM FOR THE CASE DETECTION OF THE MOST COMMON FORM OF ENDOCRINE HYPERTENSION
+27754198|a|Primary aldosteronism (PA) involves more than 11% of patients referred to specialized hypertension centers and, therefore, is much more common than commonly held. Moreover, it causes a damage to the heart, blood vessels and kidneys, which translates into a high rate of cardiovascular events, in excess to the degree of blood pressure raise. Along with the notion that a timely diagnosis entails a fundamental step for the choice of an appropriate therapy, which can correct the arterial hypertension and the hypokalemia, this justifies efforts to search for PA in the majority of the patients with hypertension. Unfortunately, because of the lack of the classical signs, as spontaneous or drug-induced hypokalemia and related symptoms, PA deceives diagnosis in the majority of the cases .The identification of a curable form of primary aldosteronism can be beneficial particularly in some subgroups of patients, namely those with drug - resistant hypertension, who are at high risk of primary aldosteronism. An aggressive diagnostic approach is necessary in these patients, who can benefit most from an accurate diagnosis. Knowledge of the sodium intake and drug effects on the aldosterone-renin ratio is a key element for the diagnosis in these challenging cases .With the latest work-up endorsed by the Endocrine Society Guidelines and supported by the results of the AQUARR Study, the diagnostic algorithm for PA can be substantially simplified. This means skipping the so-called confirmatory tests in most cases and thus rendering the screening of PA feasible and affordable. Hence, most centers can nowadays exploit use of a cost - effective strategy to screen for patients with primary aldosteronism. At variance, the identification of primary aldosteronism subtypes, which involves adrenal vein sampling (AVS), should only be undertaken at tertiary referral centers that have experience in performing and interpreting this minimally invasive test .Overall, long-term cure biochemical cure can be consistently achieved when adrenalectomy is based on AVS - based identification of lateralized aldosterone excess. Moreover, long-term cure of hypertension, defined as no need for antihypertensive drug treatment, can be achieved in about 45% of the cases, with an additional 40% showing a marked improvement in blood pressure control. Lack of blood pressure normalization can be explained by misdiagnosis and/or concomitant essential hypertension.
+27754198	22	31	ALGORITHM	T170	UMLS:C0002045
+27754198	45	54	DETECTION	T058	UMLS:C1511790
+27754198	82	104	ENDOCRINE HYPERTENSION	T038	UMLS:C0264641
+27754198	105	126	Primary aldosteronism	T038	UMLS:C1384514
+27754198	128	130	PA	T038	UMLS:C1384514
+27754198	191	203	hypertension	T038	UMLS:C0020538
+27754198	204	211	centers	T092	UMLS:C0475309
+27754198	304	309	heart	T017	UMLS:C0018787
+27754198	311	324	blood vessels	T017	UMLS:C0005847
+27754198	329	336	kidneys	T017	UMLS:C0022646
+27754198	375	396	cardiovascular events	T033	UMLS:C1320716
+27754198	425	445	blood pressure raise	T033	UMLS:C0497247
+27754198	483	492	diagnosis	T058	UMLS:C0430022
+27754198	553	560	therapy	T058	UMLS:C0087111
+27754198	584	605	arterial hypertension	T038	UMLS:C0020538
+27754198	614	625	hypokalemia	T033	UMLS:C0020621
+27754198	653	659	search	T058	UMLS:C0557959
+27754198	664	666	PA	T038	UMLS:C1384514
+27754198	704	716	hypertension	T038	UMLS:C0020538
+27754198	770	775	signs	T033	UMLS:C0037088
+27754198	795	819	drug-induced hypokalemia	T033	UMLS:C0342591
+27754198	832	840	symptoms	T033	UMLS:C1457887
+27754198	842	844	PA	T038	UMLS:C1384514
+27754198	854	863	diagnosis	T058	UMLS:C0430022
+27754198	934	955	primary aldosteronism	T038	UMLS:C1384514
+27754198	995	1004	subgroups	T170	UMLS:C1515021
+27754198	1036	1040	drug	T103	UMLS:C0013227
+27754198	1053	1065	hypertension	T038	UMLS:C0020538
+27754198	1078	1090	high risk of	T033	UMLS:C0332167
+27754198	1091	1112	primary aldosteronism	T038	UMLS:C1384514
+27754198	1128	1147	diagnostic approach	T058	UMLS:C0430022
+27754198	1218	1227	diagnosis	T058	UMLS:C0430022
+27754198	1229	1238	Knowledge	T170	UMLS:C0376554
+27754198	1333	1342	diagnosis	T058	UMLS:C0430022
+27754198	1387	1394	work-up	T058	UMLS:C0750430
+27754198	1411	1439	Endocrine Society Guidelines	T170	UMLS:C0162791
+27754198	1476	1488	AQUARR Study	T062	UMLS:C2603343
+27754198	1519	1521	PA	T038	UMLS:C1384514
+27754198	1645	1654	screening	T058	UMLS:C1710031
+27754198	1658	1660	PA	T038	UMLS:C1384514
+27754198	1698	1705	centers	T092	UMLS:C0475309
+27754198	1765	1771	screen	T058	UMLS:C0220908
+27754198	1790	1811	primary aldosteronism	T038	UMLS:C1384514
+27754198	1848	1869	primary aldosteronism	T038	UMLS:C1384514
+27754198	1870	1878	subtypes	T170	UMLS:C0449560
+27754198	1895	1916	adrenal vein sampling	T058	UMLS:C0457942
+27754198	1918	1921	AVS	T058	UMLS:C0457942
+27754198	1953	1978	tertiary referral centers	T092	UMLS:C0587437
+27754198	1989	1999	experience	T038	UMLS:C0237607
+27754198	2036	2059	minimally invasive test	T058	UMLS:C0430022
+27754198	2136	2149	adrenalectomy	T058	UMLS:C0001632
+27754198	2162	2165	AVS	T058	UMLS:C0457942
+27754198	2204	2215	aldosterone	T103	UMLS:C0002006
+27754198	2252	2264	hypertension	T038	UMLS:C0020538
+27754198	2289	2310	antihypertensive drug	T103	UMLS:C0003364
+27754198	2311	2320	treatment	T058	UMLS:C0013216
+27754198	2420	2442	blood pressure control	T038	UMLS:C1753303
+27754198	2452	2466	blood pressure	T038	UMLS:C0005823
+27754198	2501	2513	misdiagnosis	T033	UMLS:C0679838
+27754198	2533	2555	essential hypertension	T038	UMLS:C0085580

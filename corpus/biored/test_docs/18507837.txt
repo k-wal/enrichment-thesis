@@ -1,0 +1,55 @@
+18507837|t|Effects of common germline genetic variation in cell cycle control genes on breast cancer survival: results from a population-based cohort.
+18507837|a|INTRODUCTION: Somatic alterations have been shown to correlate with breast cancer prognosis and survival, but less is known about the effects of common inherited genetic variation. Of particular interest are genes involved in cell cycle pathways, which regulate cell division. METHODS: We examined associations between common germline genetic variation in 13 genes involved in cell cycle control (CCND1, CCND2, CCND3, CCNE1, CDK2 [p33], CDK4, CDK6, CDKN1A [p21, Cip1], CDKN1B [p27, Kip1], CDKN2A [p16], CDKN2B [p15], CDKN2C [p18], and CDKN2D [p19]) and survival among women diagnosed with invasive breast cancer participating in the SEARCH (Studies of Epidemiology and Risk factors in Cancer Heredity) breast cancer study. DNA from up to 4,470 women was genotyped for 85 polymorphisms that tag the known common polymorphisms (minor allele frequency    > 0.05) in the genes. The genotypes of each polymorphism were tested for association with survival using Cox regression analysis. RESULTS: The rare allele of the tagging single nucleotide polymorphism (SNP) rs2479717 is associated with an increased risk of death (hazard ratio = 1.26 per rare allele carried, 95% confidence interval: 1.12 to 1.42; P = 0.0001), which was not attenuated after adjusting for tumour stage, grade, and treatment. This SNP is part of a large linkage disequilibrium block, which contains CCND3, BYSL, TRFP, USP49, C6ofr49, FRS3, and PGC. We evaluated the association of survival and somatic expression of these genes in breast tumours using expression microarray data from seven published datasets. Elevated expression of the C6orf49 transcript was associated with breast cancer survival, adding biological interest to the finding. CONCLUSION: It is possible that CCND3 rs2479717, or another variant it tags, is associated with prognosis after a diagnosis of breast cancer. Further study is required to validate this finding.
+18507837	76	89	breast cancer	DiseaseOrPhenotypicFeature	D001943
+18507837	208	221	breast cancer	DiseaseOrPhenotypicFeature	D001943
+18507837	537	542	CCND1	GeneOrGeneProduct	595
+18507837	544	549	CCND2	GeneOrGeneProduct	894
+18507837	551	556	CCND3	GeneOrGeneProduct	896
+18507837	558	563	CCNE1	GeneOrGeneProduct	898
+18507837	565	575	CDK2 [p33]	GeneOrGeneProduct	1017
+18507837	577	581	CDK4	GeneOrGeneProduct	1019
+18507837	583	587	CDK6	GeneOrGeneProduct	1021
+18507837	589	595	CDKN1A	GeneOrGeneProduct	1026
+18507837	597	600	p21	GeneOrGeneProduct	1026
+18507837	602	606	Cip1	GeneOrGeneProduct	1026
+18507837	609	615	CDKN1B	GeneOrGeneProduct	1027
+18507837	617	626	p27, Kip1	GeneOrGeneProduct	1027
+18507837	629	635	CDKN2A	GeneOrGeneProduct	1029
+18507837	637	640	p16	GeneOrGeneProduct	1029
+18507837	643	649	CDKN2B	GeneOrGeneProduct	1030
+18507837	651	654	p15	GeneOrGeneProduct	1030
+18507837	657	663	CDKN2C	GeneOrGeneProduct	1031
+18507837	665	668	p18	GeneOrGeneProduct	1031
+18507837	675	681	CDKN2D	GeneOrGeneProduct	1032
+18507837	683	686	p19	GeneOrGeneProduct	1029
+18507837	708	713	women	OrganismTaxon	9606
+18507837	729	751	invasive breast cancer	DiseaseOrPhenotypicFeature	D001943
+18507837	842	855	breast cancer	DiseaseOrPhenotypicFeature	D001943
+18507837	884	889	women	OrganismTaxon	9606
+18507837	1199	1208	rs2479717	SequenceVariant	rs2479717
+18507837	1249	1254	death	DiseaseOrPhenotypicFeature	D003643
+18507837	1398	1404	tumour	DiseaseOrPhenotypicFeature	D009369
+18507837	1507	1512	CCND3	GeneOrGeneProduct	896
+18507837	1514	1518	BYSL	GeneOrGeneProduct	705
+18507837	1520	1524	TRFP	GeneOrGeneProduct	55031
+18507837	1526	1531	USP49	GeneOrGeneProduct	25862
+18507837	1533	1540	C6ofr49	GeneOrGeneProduct	29964
+18507837	1542	1546	FRS3	GeneOrGeneProduct	10817
+18507837	1552	1555	PGC	GeneOrGeneProduct	5225
+18507837	1639	1653	breast tumours	DiseaseOrPhenotypicFeature	D001943
+18507837	1745	1752	C6orf49	GeneOrGeneProduct	29964
+18507837	1784	1797	breast cancer	DiseaseOrPhenotypicFeature	D001943
+18507837	1883	1888	CCND3	GeneOrGeneProduct	896
+18507837	1889	1898	rs2479717	SequenceVariant	rs2479717
+18507837	1978	1991	breast cancer	DiseaseOrPhenotypicFeature	D001943
+18507837	Association	29964	D001943	Novel
+18507837	Association	896	D001943	Novel
+18507837	Association	896	5225	No
+18507837	Association	896	10817	No
+18507837	Association	896	29964	No
+18507837	Association	896	25862	No
+18507837	Association	896	55031	No
+18507837	Association	896	705	No
+18507837	Association	896	D003643	Novel
+18507837	Association	rs2479717	D001943	Novel
+18507837	Positive_Correlation	rs2479717	D003643	Novel

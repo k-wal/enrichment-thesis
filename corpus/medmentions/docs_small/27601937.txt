@@ -1,0 +1,112 @@
+27601937|t|Molecular mechanism leading to SAHA - induced autophagy in tumor cells: evidence for a p53 -dependent pathway
+27601937|a|Recent studies indicated that histone deacetylase inhibitors (HDACi), a class of anticancer agents, are in addition to their ability of apoptosis induction also capable of provoking autophagy. Promoted by the treatment of malignant uterine sarcoma cells with the HDACi suberoylanilide hydroxamic acid (SAHA), we previously demonstrated predominant dose-dependent activation of autophagy in ESS-1 cells, but prevalent induction of apoptosis in MES-SA cells. In order to extend our previous studies, SAHA - treated ESS-1 and MES-SA cells were monitored for protein expression to reveal differences in known markers of apoptosis explaining the different cytotoxic responses. Further analysis of the identified candidate protein included cell rescue experiments by gene transfer followed by subsequent screening of cells for induction of apoptosis and autophagy by immunoblotting, caspase activity as well as LC3 and MDC / PI staining. LDH release assays were performed to assess the amount of cell -mediated cytotoxicity. In our search for responsible autophagic regulatory genes upstream of mammalian target of rapamycin (mTOR), we now discovered that, in contrast to MES-SA cells, a TP53-637C>T nonsense mutation located in the transactivating domain of the oncogenic suppressor p53 causes loss of its protein and consequently reduced PUMA induction in ESS-1 cells. Upon re-introduction of wild-type TP53, SAHA - treated ESS-1 cells underwent immediate apoptotic cell death as supported by upregulation of PUMA and caspase-9 as well as by activation of caspases-3 and - 7 and PARP-1 cleavage. Concurrent downregulation of autophagy was noticed by upregulated mTor and phospho-mTOR expression as well as monitoring autophagosome formation employing LC3 and MDC staining. Previously, cytoplasmic master regulatory activities of the oncogenic suppressor p53 in inhibiting autophagy and triggering apoptosis were unravelled. Accordingly, p53 - deficiency could explain both, the previously documented apoptosis resistance and prevailing SAHA - induced autophagy in ESS-1 cells. Using MES-SA cells with RNAi-silenced p53 expression and several p53 - deficient tumor cell lines undergoing SAHA - induced autophagy, we could generally validate our finding suggesting an inhibitory role for p53 in the autophagic pathway in response to SAHA treatment. Conclusively, these results could identify cytoplasmic p53 protein as a molecular switch that directly mediates the cytotoxic response of SAHA and thus open new therapeutic avenues.
+27601937	0	19	Molecular mechanism	T038	UMLS:C3537153
+27601937	31	35	SAHA	T103	UMLS:C0672708
+27601937	46	55	autophagy	T038	UMLS:C0004391
+27601937	59	70	tumor cells	T017	UMLS:C0431085
+27601937	87	90	p53	T103	UMLS:C0080055
+27601937	102	109	pathway	T038	UMLS:C1704259
+27601937	117	124	studies	T062	UMLS:C2603343
+27601937	140	170	histone deacetylase inhibitors	T103	UMLS:C1512474
+27601937	172	177	HDACi	T103	UMLS:C1512474
+27601937	191	208	anticancer agents	T103	UMLS:C0003392
+27601937	246	265	apoptosis induction	T038	UMLS:C1326205
+27601937	292	301	autophagy	T038	UMLS:C0004391
+27601937	319	328	treatment	T058	UMLS:C0087111
+27601937	332	341	malignant	T038	UMLS:C0006826
+27601937	342	357	uterine sarcoma	T038	UMLS:C0338113
+27601937	358	363	cells	T017	UMLS:C0007634
+27601937	373	378	HDACi	T103	UMLS:C1512474
+27601937	379	410	suberoylanilide hydroxamic acid	T103	UMLS:C0672708
+27601937	412	416	SAHA	T103	UMLS:C0672708
+27601937	487	496	autophagy	T038	UMLS:C0004391
+27601937	500	511	ESS-1 cells	T017	UMLS:C0007600
+27601937	540	549	apoptosis	T038	UMLS:C0162638
+27601937	553	565	MES-SA cells	T017	UMLS:C0007600
+27601937	599	606	studies	T062	UMLS:C2603343
+27601937	608	612	SAHA	T103	UMLS:C0672708
+27601937	623	628	ESS-1	T017	UMLS:C0007600
+27601937	633	645	MES-SA cells	T017	UMLS:C0007600
+27601937	665	683	protein expression	T038	UMLS:C1171362
+27601937	715	722	markers	T201	UMLS:C0005516
+27601937	726	735	apoptosis	T038	UMLS:C0162638
+27601937	790	798	analysis	T062	UMLS:C0936012
+27601937	827	834	protein	T103	UMLS:C0033684
+27601937	844	848	cell	T017	UMLS:C0007634
+27601937	856	867	experiments	T062	UMLS:C0681814
+27601937	871	884	gene transfer	T062	UMLS:C1517499
+27601937	921	926	cells	T017	UMLS:C0007634
+27601937	944	953	apoptosis	T038	UMLS:C0162638
+27601937	958	967	autophagy	T038	UMLS:C0004391
+27601937	971	985	immunoblotting	T058	UMLS:C0020985
+27601937	987	1003	caspase activity	T038	UMLS:C1150130
+27601937	1015	1018	LC3	T103	UMLS:C1144120
+27601937	1023	1026	MDC	T103	UMLS:C0066746
+27601937	1029	1031	PI	T103	UMLS:C0033470
+27601937	1032	1040	staining	T058	UMLS:C0487602
+27601937	1042	1045	LDH	T103	UMLS:C0022917
+27601937	1054	1060	assays	T058	UMLS:C0005507
+27601937	1100	1104	cell	T017	UMLS:C0007634
+27601937	1115	1127	cytotoxicity	T038	UMLS:C0596402
+27601937	1159	1169	autophagic	T017	UMLS:C0333781
+27601937	1170	1186	regulatory genes	T017	UMLS:C0017362
+27601937	1199	1228	mammalian target of rapamycin	T017	UMLS:C1414805
+27601937	1230	1234	mTOR	T017	UMLS:C1414805
+27601937	1276	1288	MES-SA cells	T017	UMLS:C0007600
+27601937	1292	1303	TP53-637C>T	T038	UMLS:C0026882
+27601937	1304	1321	nonsense mutation	T038	UMLS:C0544885
+27601937	1337	1352	transactivating	T038	UMLS:C0040624
+27601937	1367	1391	oncogenic suppressor p53	T017	UMLS:C0079419
+27601937	1411	1418	protein	T103	UMLS:C0033684
+27601937	1444	1448	PUMA	T103	UMLS:C1310243
+27601937	1462	1473	ESS-1 cells	T017	UMLS:C0007600
+27601937	1499	1508	wild-type	T017	UMLS:C1883559
+27601937	1509	1513	TP53	T017	UMLS:C0079419
+27601937	1515	1519	SAHA	T103	UMLS:C0672708
+27601937	1530	1541	ESS-1 cells	T017	UMLS:C0007600
+27601937	1562	1582	apoptotic cell death	T038	UMLS:C0162638
+27601937	1599	1611	upregulation	T038	UMLS:C0041904
+27601937	1615	1619	PUMA	T103	UMLS:C1310243
+27601937	1624	1633	caspase-9	T103	UMLS:C0910167
+27601937	1662	1672	caspases-3	T103	UMLS:C0010656
+27601937	1679	1680	7	T103	UMLS:C0010656
+27601937	1685	1691	PARP-1	T103	UMLS:C1567710
+27601937	1713	1727	downregulation	T038	UMLS:C0013081
+27601937	1731	1740	autophagy	T038	UMLS:C0004391
+27601937	1756	1767	upregulated	T038	UMLS:C0041904
+27601937	1768	1772	mTor	T103	UMLS:C1307407
+27601937	1777	1789	phospho-mTOR	T103	UMLS:C1307407
+27601937	1790	1800	expression	T038	UMLS:C1171362
+27601937	1823	1846	autophagosome formation	T038	UMLS:C2611772
+27601937	1857	1860	LC3	T103	UMLS:C1144120
+27601937	1865	1868	MDC	T103	UMLS:C0066746
+27601937	1869	1877	staining	T058	UMLS:C0487602
+27601937	1891	1902	cytoplasmic	T017	UMLS:C0521449
+27601937	1910	1920	regulatory	T038	UMLS:C1327622
+27601937	1939	1963	oncogenic suppressor p53	T103	UMLS:C0080055
+27601937	1978	1987	autophagy	T038	UMLS:C0004391
+27601937	2003	2012	apoptosis	T038	UMLS:C0162638
+27601937	2043	2046	p53	T103	UMLS:C0080055
+27601937	2106	2115	apoptosis	T038	UMLS:C0162638
+27601937	2116	2126	resistance	T038	UMLS:C1514892
+27601937	2142	2146	SAHA	T103	UMLS:C0672708
+27601937	2157	2166	autophagy	T038	UMLS:C0004391
+27601937	2170	2181	ESS-1 cells	T017	UMLS:C0007600
+27601937	2189	2201	MES-SA cells	T017	UMLS:C0007600
+27601937	2207	2220	RNAi-silenced	T038	UMLS:C1136031
+27601937	2221	2224	p53	T103	UMLS:C0080055
+27601937	2225	2235	expression	T038	UMLS:C1171362
+27601937	2248	2251	p53	T103	UMLS:C0080055
+27601937	2264	2280	tumor cell lines	T017	UMLS:C0085983
+27601937	2292	2296	SAHA	T103	UMLS:C0672708
+27601937	2307	2316	autophagy	T038	UMLS:C0004391
+27601937	2392	2395	p53	T103	UMLS:C0080055
+27601937	2403	2413	autophagic	T017	UMLS:C0333781
+27601937	2414	2421	pathway	T038	UMLS:C1704259
+27601937	2437	2441	SAHA	T103	UMLS:C0672708
+27601937	2442	2451	treatment	T058	UMLS:C0087111
+27601937	2496	2507	cytoplasmic	T017	UMLS:C0521449
+27601937	2508	2519	p53 protein	T103	UMLS:C0080055
+27601937	2525	2541	molecular switch	T038	UMLS:C3893721
+27601937	2591	2595	SAHA	T103	UMLS:C0672708
+27601937	2614	2625	therapeutic	T058	UMLS:C0087111

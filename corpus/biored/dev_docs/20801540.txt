@@ -1,0 +1,63 @@
+20801540|t|Hepatic but not brain iron is rapidly chelated by deferasirox in aceruloplasminemia due to a novel gene mutation.
+20801540|a|BACKGROUND _#38; AIMS: Aceruloplasminemia is a rare autosomal recessive neurodegenerative disease associated with brain and liver iron accumulation which typically presents with movement disorders, retinal degeneration, and diabetes mellitus. Ceruloplasmin is a multi-copper ferroxidase that is secreted into plasma and facilitates cellular iron export and iron binding to transferrin. RESULTS: A novel homozygous ceruloplasmin gene mutation, c.2554+1G>T, was identified as the cause of aceruloplasminemia in three affected siblings. Two siblings presented with movement disorders and diabetes. Complementary DNA sequencing showed that this mutation causes skipping of exon 14 and deletion of amino acids 809-852 while preserving the open reading frame. Western blotting of liver extracts and sera of affected patients showed retention of the abnormal protein in the liver. Aceruloplasminemia was associated with severe brain and liver iron overload, where hepatic mRNA expression of the iron hormone hepcidin was increased, corresponding to the degree of iron overload. Hepatic iron concentration normalized after 3 and 5months of iron chelation therapy with deferasirox, which was also associated with reduced insulin demands. During short term treatment there was no clinical or imaging evidence for significant effects on brain iron overload. CONCLUSIONS: Aceruloplasminemia can show an incomplete clinical penetrance but is invariably associated with iron accumulation in the liver and in the brain. Iron accumulation in aceruloplasminemia is a result of defective cellular iron export, where hepcidin regulation is appropriate for the degree of iron overload. Iron chelation with deferasirox was effective in mobilizing hepatic iron but has no effect on brain iron.
+20801540	22	26	iron	ChemicalEntity	D007501
+20801540	50	61	deferasirox	ChemicalEntity	D000077588
+20801540	65	83	aceruloplasminemia	DiseaseOrPhenotypicFeature	C536004
+20801540	137	155	Aceruloplasminemia	DiseaseOrPhenotypicFeature	C536004
+20801540	166	211	autosomal recessive neurodegenerative disease	DiseaseOrPhenotypicFeature	D020271
+20801540	244	248	iron	ChemicalEntity	D007501
+20801540	292	310	movement disorders	DiseaseOrPhenotypicFeature	D009069
+20801540	312	332	retinal degeneration	DiseaseOrPhenotypicFeature	D012162
+20801540	338	355	diabetes mellitus	DiseaseOrPhenotypicFeature	D003920
+20801540	357	370	Ceruloplasmin	GeneOrGeneProduct	1356
+20801540	389	400	ferroxidase	ChemicalEntity	-
+20801540	455	459	iron	ChemicalEntity	D007501
+20801540	471	475	iron	ChemicalEntity	D007501
+20801540	487	498	transferrin	GeneOrGeneProduct	7018
+20801540	528	541	ceruloplasmin	GeneOrGeneProduct	1356
+20801540	557	568	c.2554+1G>T	SequenceVariant	c|SUB|G|2554+1|T
+20801540	601	619	aceruloplasminemia	DiseaseOrPhenotypicFeature	C536004
+20801540	676	694	movement disorders	DiseaseOrPhenotypicFeature	D009069
+20801540	699	707	diabetes	DiseaseOrPhenotypicFeature	D003920
+20801540	795	826	deletion of amino acids 809-852	SequenceVariant	c|DEL|809_852|
+20801540	924	932	patients	OrganismTaxon	9606
+20801540	988	1006	Aceruloplasminemia	DiseaseOrPhenotypicFeature	C536004
+20801540	1050	1063	iron overload	DiseaseOrPhenotypicFeature	D019190
+20801540	1102	1106	iron	ChemicalEntity	D007501
+20801540	1115	1123	hepcidin	GeneOrGeneProduct	57817
+20801540	1170	1183	iron overload	DiseaseOrPhenotypicFeature	D019190
+20801540	1193	1197	iron	ChemicalEntity	D007501
+20801540	1246	1250	iron	ChemicalEntity	D007501
+20801540	1274	1285	deferasirox	ChemicalEntity	D000077588
+20801540	1326	1333	insulin	GeneOrGeneProduct	3630
+20801540	1446	1459	iron overload	DiseaseOrPhenotypicFeature	D019190
+20801540	1474	1492	Aceruloplasminemia	DiseaseOrPhenotypicFeature	C536004
+20801540	1570	1574	iron	ChemicalEntity	D007501
+20801540	1619	1623	Iron	ChemicalEntity	D007501
+20801540	1640	1658	aceruloplasminemia	DiseaseOrPhenotypicFeature	C536004
+20801540	1693	1697	iron	ChemicalEntity	D007501
+20801540	1712	1720	hepcidin	GeneOrGeneProduct	57817
+20801540	1765	1778	iron overload	DiseaseOrPhenotypicFeature	D019190
+20801540	1780	1784	Iron	ChemicalEntity	D007501
+20801540	1800	1811	deferasirox	ChemicalEntity	D000077588
+20801540	1848	1852	iron	ChemicalEntity	D007501
+20801540	1880	1884	iron	ChemicalEntity	D007501
+20801540	Negative_Correlation	57817	D019190	Novel
+20801540	Negative_Correlation	D019190	D000077588	Novel
+20801540	Positive_Correlation	D019190	D007501	No
+20801540	Association	c|SUB|G|2554+1|T	D003920	Novel
+20801540	Association	c|SUB|G|2554+1|T	D009069	Novel
+20801540	Positive_Correlation	c|SUB|G|2554+1|T	C536004	Novel
+20801540	Association	1356	D003920	Novel
+20801540	Association	1356	D009069	Novel
+20801540	Association	1356	C536004	Novel
+20801540	Association	1356	D007501	No
+20801540	Association	C536004	57817	Novel
+20801540	Positive_Correlation	C536004	D007501	Novel
+20801540	Negative_Correlation	D000077588	3630	Novel
+20801540	Negative_Correlation	D000077588	C536004	Novel
+20801540	Positive_Correlation	D007501	D012162	No
+20801540	Positive_Correlation	D007501	D003920	No
+20801540	Positive_Correlation	D007501	D009069	No
+20801540	Bind	D007501	7018	No
+20801540	Bind	D007501	D000077588	Novel

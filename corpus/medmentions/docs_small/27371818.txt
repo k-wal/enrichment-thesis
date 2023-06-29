@@ -1,0 +1,39 @@
+27371818|t|Design considerations for patient-specific surgical templates for total hip arthroplasty with respect to acetabular cartilage
+27371818|a|Patient-specific instruments (PSIs) are clinically used to support the surgeon during a planned intervention. The planning is typically done based on volumetric image data from medical imaging systems, e.g. computed tomography (CT). The PSI uses the known surface structure of a bone for orientation during the intervention. Some surfaces of human bone are covered with a layer of cartilage which is hardly visible in clinically applied CT-imaging. This experimental study investigates ten different PSI designs and their effect to the overall accuracy when neglecting the cartilage in the design process. Therefore, a model of an acetabulum is used to simulate the use case of PSI in total hip arthroplasty. The concept of the different designs is to create structural elasticities in the PSI to avoid shifting of the whole instrument and rather have a small part of it deformed by cartilage. A needle array structure, for instance, should also be able to oust or penetrate remaining soft tissue in the acetabulum.
+27371818	7	21	considerations	T033	UMLS:C0518609
+27371818	43	61	surgical templates	T074	UMLS:C0581264
+27371818	66	88	total hip arthroplasty	T058	UMLS:C0040508
+27371818	105	115	acetabular	T082	UMLS:C0229984
+27371818	116	125	cartilage	T017	UMLS:C0007301
+27371818	126	154	Patient-specific instruments	T074	UMLS:C0025080
+27371818	156	160	PSIs	T074	UMLS:C0025080
+27371818	197	204	surgeon	T097	UMLS:C0582175
+27371818	240	248	planning	T038	UMLS:C0032074
+27371818	276	286	volumetric	T082	UMLS:C0445383
+27371818	287	297	image data	T170	UMLS:C0282574
+27371818	303	318	medical imaging	T058	UMLS:C0025086
+27371818	333	352	computed tomography	T058	UMLS:C0040405
+27371818	354	356	CT	T058	UMLS:C0040405
+27371818	363	366	PSI	T074	UMLS:C0025080
+27371818	382	409	surface structure of a bone	T017	UMLS:C1960754
+27371818	414	425	orientation	T082	UMLS:C1704322
+27371818	437	449	intervention	T058	UMLS:C0184661
+27371818	456	478	surfaces of human bone	T017	UMLS:C1960754
+27371818	498	503	layer	T017	UMLS:C0934502
+27371818	507	516	cartilage	T017	UMLS:C0007301
+27371818	526	532	hardly	T033	UMLS:C3898981
+27371818	563	573	CT-imaging	T058	UMLS:C0729619
+27371818	580	598	experimental study	T062	UMLS:C0681814
+27371818	626	629	PSI	T074	UMLS:C0025080
+27371818	699	708	cartilage	T017	UMLS:C0007301
+27371818	757	767	acetabulum	T017	UMLS:C0000962
+27371818	779	787	simulate	T062	UMLS:C0679083
+27371818	804	807	PSI	T074	UMLS:C0025080
+27371818	811	833	total hip arthroplasty	T058	UMLS:C0040508
+27371818	885	895	structural	T082	UMLS:C0678594
+27371818	916	919	PSI	T074	UMLS:C0025080
+27371818	951	961	instrument	T074	UMLS:C0348000
+27371818	1009	1018	cartilage	T017	UMLS:C0007301
+27371818	1022	1044	needle array structure	T074	UMLS:C0025080
+27371818	1111	1122	soft tissue	T017	UMLS:C0225317
+27371818	1130	1140	acetabulum	T017	UMLS:C0000962

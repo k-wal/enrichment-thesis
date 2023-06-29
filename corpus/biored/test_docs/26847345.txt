@@ -1,0 +1,48 @@
+26847345|t|Transgelin increases metastatic potential of colorectal cancer cells in vivo and alters expression of genes involved in cell motility.
+26847345|a|BACKGROUND: Transgelin is an actin-binding protein that promotes motility in normal cells. Although the role of transgelin in cancer is controversial, a number of studies have shown that elevated levels correlate with aggressive tumor behavior, advanced stage, and poor prognosis. Here we sought to determine the role of transgelin more directly by determining whether experimental manipulation of transgelin levels in colorectal cancer (CRC) cells led to changes in metastatic potential in vivo. METHODS: Isogenic CRC cell lines that differ in transgelin expression were characterized using in vitro assays of growth and invasiveness and a mouse tail vein assay of experimental metastasis. Downstream effects of transgelin overexpression were investigated by gene expression profiling and quantitative PCR. RESULTS: Stable overexpression of transgelin in RKO cells, which have low endogenous levels, led to increased invasiveness, growth at low density, and growth in soft agar. Overexpression also led to an increase in the number and size of lung metastases in the mouse tail vein injection model. Similarly, attenuation of transgelin expression in HCT116 cells, which have high endogenous levels, decreased metastases in the same model. Investigation of mRNA expression patterns showed that transgelin overexpression altered the levels of approximately 250 other transcripts, with over-representation of genes that affect function of actin or other cytoskeletal proteins. Changes included increases in HOOK1, SDCCAG8, ENAH/Mena, and TNS1 and decreases in EMB, BCL11B, and PTPRD. CONCLUSIONS: Increases or decreases in transgelin levels have reciprocal effects on tumor cell behavior, with higher expression promoting metastasis. Chronic overexpression influences steady-state levels of mRNAs for metastasis-related genes.
+26847345	0	10	Transgelin	GeneOrGeneProduct	6876
+26847345	45	62	colorectal cancer	DiseaseOrPhenotypicFeature	D015179
+26847345	147	157	Transgelin	GeneOrGeneProduct	6876
+26847345	164	185	actin-binding protein	GeneOrGeneProduct	21345,6876
+26847345	247	257	transgelin	GeneOrGeneProduct	6876
+26847345	261	267	cancer	DiseaseOrPhenotypicFeature	D009369
+26847345	364	369	tumor	DiseaseOrPhenotypicFeature	D009369
+26847345	456	466	transgelin	GeneOrGeneProduct	6876
+26847345	533	543	transgelin	GeneOrGeneProduct	6876
+26847345	554	571	colorectal cancer	DiseaseOrPhenotypicFeature	D015179
+26847345	573	576	CRC	DiseaseOrPhenotypicFeature	D015179
+26847345	650	653	CRC	DiseaseOrPhenotypicFeature	D015179
+26847345	680	690	transgelin	GeneOrGeneProduct	6876
+26847345	776	781	mouse	OrganismTaxon	10090
+26847345	848	858	transgelin	GeneOrGeneProduct	6876
+26847345	977	987	transgelin	GeneOrGeneProduct	6876
+26847345	991	994	RKO	CellLine	CVCL_0504
+26847345	1180	1195	lung metastases	DiseaseOrPhenotypicFeature	D008175
+26847345	1203	1208	mouse	OrganismTaxon	10090
+26847345	1262	1272	transgelin	GeneOrGeneProduct	6876
+26847345	1287	1293	HCT116	CellLine	CVCL_0291
+26847345	1346	1356	metastases	DiseaseOrPhenotypicFeature	D009362
+26847345	1430	1440	transgelin	GeneOrGeneProduct	6876
+26847345	1573	1578	actin	GeneOrGeneProduct	60
+26847345	1588	1609	cytoskeletal proteins	GeneOrGeneProduct	51361,55740,7145
+26847345	1641	1646	HOOK1	GeneOrGeneProduct	51361
+26847345	1648	1655	SDCCAG8	GeneOrGeneProduct	10806
+26847345	1657	1661	ENAH	GeneOrGeneProduct	55740
+26847345	1662	1666	Mena	GeneOrGeneProduct	55740
+26847345	1672	1676	TNS1	GeneOrGeneProduct	7145
+26847345	1694	1697	EMB	GeneOrGeneProduct	133418
+26847345	1699	1705	BCL11B	GeneOrGeneProduct	64919
+26847345	1711	1716	PTPRD	GeneOrGeneProduct	5789
+26847345	1757	1767	transgelin	GeneOrGeneProduct	6876
+26847345	1802	1807	tumor	DiseaseOrPhenotypicFeature	D009369
+26847345	Association	6876	D009369	Novel
+26847345	Negative_Correlation	6876	5789	Novel
+26847345	Negative_Correlation	6876	64919	Novel
+26847345	Negative_Correlation	6876	133418	Novel
+26847345	Positive_Correlation	6876	10806	Novel
+26847345	Positive_Correlation	6876	7145	Novel
+26847345	Positive_Correlation	6876	55740	Novel
+26847345	Positive_Correlation	6876	51361	Novel
+26847345	Association	6876	60	Novel
+26847345	Association	6876	D008175	Novel
+26847345	Association	6876	D015179	Novel

@@ -1,0 +1,33 @@
+15851735|t|Mild glycine encephalopathy (NKH) in a large kindred due to a silent exonic GLDC splice mutation.
+15851735|a|BACKGROUND: Classic neonatal-onset glycine encephalopathy (GE) is devastating and life threatening. Milder, later onset variants have been reported but were usually sporadic and incompletely defined. OBJECTIVE: To determine the clinical and biochemical phenotype and molecular basis of mild GE in nine children from a consanguineous Israeli Bedouin kindred. METHODS: Genomic DNA was screened for GLDC, AMT, and GCSH gene mutations. GLDC expression in lymphoblasts was studied by Northern blot and reverse transcriptase PCR analysis. RESULTS: Clinical features included hypotonia, abnormal movements, convulsions, and moderate mental retardation with relative sparing of gross motor function, activities of daily living skills, and receptive language. Aggression and irritability were prominent. CSF-to-plasma glycine ratio was mildly to moderately elevated. All nine patients were homozygous and their parents heterozygous for a novel, translationally silent GLDC exon 22 transversion c.2607C>A. Lymphoblast GLDC mRNA levels were considerably reduced. Three aberrantly spliced cDNA species were identified: exon 22 and exon 22 to 23 skipping, and insertion of an 87-base pair cryptic exon. Homozygosity for c.2607C>A was also identified in an unrelated but haplotypically identical patient with an unusually favorable outcome despite severe neonatal-onset GE. Mutation analysis enabled prenatal diagnosis of three unaffected and one affected pregnancies. CONCLUSIONS: The mutation in this kindred led to missplicing and reduced GLDC (glycine decarboxylase) expression. The 4 to 6% of normally spliced GLDC mRNA in the patients may account for their relatively favorable clinical outcome compared with patients with classic glycine encephalopathy.
+15851735	5	27	glycine encephalopathy	DiseaseOrPhenotypicFeature	D020158
+15851735	29	32	NKH	DiseaseOrPhenotypicFeature	D020158
+15851735	76	80	GLDC	GeneOrGeneProduct	2731
+15851735	133	155	glycine encephalopathy	DiseaseOrPhenotypicFeature	D020158
+15851735	157	159	GE	DiseaseOrPhenotypicFeature	D020158
+15851735	389	391	GE	DiseaseOrPhenotypicFeature	D020158
+15851735	494	498	GLDC	GeneOrGeneProduct	2731
+15851735	500	503	AMT	GeneOrGeneProduct	275
+15851735	509	513	GCSH	GeneOrGeneProduct	2653
+15851735	530	534	GLDC	GeneOrGeneProduct	2731
+15851735	667	676	hypotonia	DiseaseOrPhenotypicFeature	D009123
+15851735	678	696	abnormal movements	DiseaseOrPhenotypicFeature	D009069
+15851735	698	709	convulsions	DiseaseOrPhenotypicFeature	D012640
+15851735	724	742	mental retardation	DiseaseOrPhenotypicFeature	D008607
+15851735	849	859	Aggression	DiseaseOrPhenotypicFeature	D001523
+15851735	864	876	irritability	DiseaseOrPhenotypicFeature	D001523
+15851735	965	973	patients	OrganismTaxon	9606
+15851735	1057	1061	GLDC	GeneOrGeneProduct	2731
+15851735	1083	1092	c.2607C>A	SequenceVariant	rs386833565
+15851735	1106	1110	GLDC	GeneOrGeneProduct	2731
+15851735	1305	1314	c.2607C>A	SequenceVariant	rs386833565
+15851735	1380	1387	patient	OrganismTaxon	9606
+15851735	1454	1456	GE	DiseaseOrPhenotypicFeature	D020158
+15851735	1626	1630	GLDC	GeneOrGeneProduct	2731
+15851735	1632	1653	glycine decarboxylase	GeneOrGeneProduct	2731
+15851735	1699	1703	GLDC	GeneOrGeneProduct	2731
+15851735	1716	1724	patients	OrganismTaxon	9606
+15851735	1799	1807	patients	OrganismTaxon	9606
+15851735	1821	1843	glycine encephalopathy	DiseaseOrPhenotypicFeature	D020158
+15851735	Positive_Correlation	rs386833565	D020158	Novel
+15851735	Association	D020158	2731	Novel

@@ -1,0 +1,65 @@
+27699251|t|Cell-type deconvolution with immune pathways identifies gene networks of host defense and immunopathology in leprosy
+27699251|a|Transcriptome profiles derived from the site of human disease have led to the identification of genes that contribute to pathogenesis, yet the complex mixture of cell types in these lesions has been an obstacle for defining specific mechanisms. Leprosy provides an outstanding model to study host defense and pathogenesis in a human infectious disease, given its clinical spectrum, which interrelates with the host immunologic and pathologic responses. Here, we investigated gene expression profiles derived from skin lesions for each clinical subtype of leprosy, analyzing gene coexpression modules by cell-type deconvolution. In lesions from tuberculoid leprosy patients, those with the self-limited form of the disease, dendritic cells were linked with MMP12 as part of a tissue remodeling network that contributes to granuloma formation. In lesions from lepromatous leprosy patients, those with disseminated disease, macrophages were linked with a gene network that programs phagocytosis. In erythema nodosum leprosum, neutrophil and endothelial cell gene networks were identified as part of the vasculitis that results in tissue injury. The present integrated computational approach provides a systems approach toward identifying cell -defined functional networks that contribute to host defense and immunopathology at the site of human infectious disease.
+27699251	0	9	Cell-type	T170	C0449475
+27699251	10	23	deconvolution	T066	C1707643
+27699251	29	35	immune	T169	C0439662
+27699251	36	44	pathways	T077	C1705987
+27699251	56	69	gene networks	T044	C1720950
+27699251	73	85	host defense	T042	C0520990
+27699251	90	105	immunopathology	T047	C1609432
+27699251	109	116	leprosy	T047	C0023343
+27699251	117	139	Transcriptome profiles	T081	C1956267
+27699251	165	170	human	T016	C0086418
+27699251	171	178	disease	T047	C0012634
+27699251	213	218	genes	T028	C0017337
+27699251	238	250	pathogenesis	T046	C0699748
+27699251	279	289	cell types	T025	C0007634
+27699251	299	306	lesions	T033	C0221198
+27699251	362	369	Leprosy	T047	C0023343
+27699251	394	399	model	T050	C0684309
+27699251	409	421	host defense	T042	C0520990
+27699251	426	438	pathogenesis	T046	C0699748
+27699251	444	449	human	T016	C0086418
+27699251	450	468	infectious disease	T047	C0009450
+27699251	527	531	host	T001	C1167395
+27699251	532	543	immunologic	T169	C0205470
+27699251	548	558	pathologic	T169	C1521733
+27699251	559	568	responses	T042	C0520990
+27699251	592	616	gene expression profiles	T081	C1956267
+27699251	630	642	skin lesions	T047	C0037284
+27699251	661	668	subtype	T185	C0449560
+27699251	672	679	leprosy	T047	C0023343
+27699251	691	716	gene coexpression modules	T073	C2827994
+27699251	720	729	cell-type	T170	C0449475
+27699251	730	743	deconvolution	T066	C1707643
+27699251	748	755	lesions	T047	C0037284
+27699251	761	780	tuberculoid leprosy	T047	C0023351
+27699251	781	789	patients	T101	C0030705
+27699251	806	818	self-limited	T082	C0392752
+27699251	831	838	disease	T047	C0023351
+27699251	840	855	dendritic cells	T025	C0011306
+27699251	873	878	MMP12	T116,T126	C0285508
+27699251	892	909	tissue remodeling	T038	C1820201
+27699251	910	917	network	T169	C1882071
+27699251	938	957	granuloma formation	T038	C1817882
+27699251	962	969	lesions	T047	C0037284
+27699251	975	994	lepromatous leprosy	T047	C0023348
+27699251	995	1003	patients	T101	C0030705
+27699251	1016	1028	disseminated	T082	C0205221
+27699251	1038	1049	macrophages	T025	C0024432
+27699251	1069	1081	gene network	T044	C1720950
+27699251	1096	1108	phagocytosis	T043	C0031308
+27699251	1113	1138	erythema nodosum leprosum	T047	C0343467
+27699251	1140	1150	neutrophil	T025	C0027950
+27699251	1155	1171	endothelial cell	T025	C0225336
+27699251	1172	1185	gene networks	T044	C1720950
+27699251	1217	1227	vasculitis	T047	C0042384
+27699251	1244	1257	tissue injury	T037	C0037578
+27699251	1282	1304	computational approach	T062	C1516769
+27699251	1352	1356	cell	T025	C0007634
+27699251	1366	1376	functional	T169	C0205245
+27699251	1377	1385	networks	T169	C1882071
+27699251	1405	1417	host defense	T042	C0520990
+27699251	1422	1437	immunopathology	T047	C1609432
+27699251	1453	1458	human	T016	C0086418
+27699251	1459	1477	infectious disease	T047	C0009450

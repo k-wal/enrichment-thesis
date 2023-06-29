@@ -1,0 +1,104 @@
+28243923|t|Risks and benefits of reducing target volume margins in breast tangent radiotherapy
+28243923|a|This study investigates the potential benefits of planning target volume (PTV) margin reduction for whole breast radiotherapy in relation to dose received by organs at risk (OARs), as well as reductions in radiation - induced secondary cancer risk. Such benefits were compared to the increased radiation - induced secondary cancer risk attributed from increased ionizing radiation imaging doses. Ten retrospective patients ' computed tomography datasets were considered. Three computerized treatment plans with varied PTV margins (0, 5 and 10 mm) were created for each patient complying with the Radiation Therapy Oncology Group (RTOG) 1005 protocol requirements. The BEIR VII lifetime attributable risk (LAR) model was used to estimate secondary cancer risk to OARs. The LAR was assessed for all treatment plans considering (a) doses from PTV margin variation and (b) doses from two (daily and weekly) kilovoltage cone beam computed tomography (kV CBCT) imaging protocols during the course of treatment. We found PTV margins from largest to smallest resulted in a mean OAR relative dose reduction of 31% (heart), 28% (lung) and 23% (contralateral breast) and the risk of radiation - induced secondary cancer by a relative 23% (contralateral breast) and 22% (contralateral lung). Daily image-guidance using kV CBCT increased the risk of radiation induced secondary cancer to the contralateral breast and contralateral lung by a relative 1.6-1.9% and 1.9-2.5% respectively. Despite the additional dose from kV CBCT for the two considered imaging protocols, smaller PTV margins would still result in an overall reduction in secondary cancer risk.
+28243923	0	5	Risks	T078	C0035647
+28243923	10	18	benefits	T081	C0814225
+28243923	22	30	reducing	T080	C0392756
+28243923	31	44	target volume	T081	C0454199
+28243923	45	52	margins	T023	C0229985
+28243923	56	83	breast tangent radiotherapy	T061	C0948310
+28243923	122	130	benefits	T081	C0814225
+28243923	134	156	planning target volume	T081	C0454199
+28243923	158	161	PTV	T081	C0454199
+28243923	163	169	margin	T023	C0229985
+28243923	170	179	reduction	T080	C0392756
+28243923	190	209	breast radiotherapy	T061	C0948310
+28243923	225	229	dose	T081	C0178602
+28243923	230	241	received by	T080	C1709850
+28243923	242	256	organs at risk	T029	C2936599
+28243923	258	262	OARs	T029	C2936599
+28243923	276	286	reductions	T080	C0392756
+28243923	290	299	radiation	T070	C0851346
+28243923	302	309	induced	T169	C0205263
+28243923	310	319	secondary	T080	C0175668
+28243923	320	331	cancer risk	T081	C0596244
+28243923	338	346	benefits	T081	C0814225
+28243923	368	377	increased	T081	C0205217
+28243923	378	387	radiation	T070	C0851346
+28243923	390	397	induced	T169	C0205263
+28243923	398	407	secondary	T080	C0175668
+28243923	408	419	cancer risk	T081	C0596244
+28243923	436	445	increased	T081	C0205217
+28243923	446	472	ionizing radiation imaging	T060	C1514690
+28243923	473	478	doses	T081	C0178602
+28243923	484	497	retrospective	T080	C1514923
+28243923	498	506	patients	T101	C0030705
+28243923	509	528	computed tomography	T060	C0040405
+28243923	529	537	datasets	T170	C0150098
+28243923	561	589	computerized treatment plans	T170	C0599880
+28243923	602	605	PTV	T081	C0454199
+28243923	606	613	margins	T023	C0229985
+28243923	653	660	patient	T101	C0030705
+28243923	680	712	Radiation Therapy Oncology Group	T093	C1514695
+28243923	714	718	RTOG	T093	C1514695
+28243923	725	733	protocol	T170	C0442711
+28243923	734	746	requirements	T169	C1514873
+28243923	761	787	lifetime attributable risk	T080	C0814766
+28243923	789	792	LAR	T080	C0814766
+28243923	794	799	model	T170	C3161035
+28243923	821	830	secondary	T080	C0175668
+28243923	831	842	cancer risk	T081	C0596244
+28243923	846	850	OARs	T029	C2936599
+28243923	856	859	LAR	T080	C0814766
+28243923	864	872	assessed	T052	C1516048
+28243923	881	896	treatment plans	T170	C0599880
+28243923	913	918	doses	T081	C0178602
+28243923	924	927	PTV	T081	C0454199
+28243923	928	934	margin	T023	C0229985
+28243923	935	944	variation	T080	C0028764
+28243923	953	958	doses	T081	C0178602
+28243923	987	1028	kilovoltage cone beam computed tomography	T060	C3641875
+28243923	1030	1037	kV CBCT	T060	C3641875
+28243923	1039	1046	imaging	T060	C0011923
+28243923	1047	1056	protocols	T170	C0442711
+28243923	1068	1087	course of treatment	T170	C3899630
+28243923	1098	1101	PTV	T081	C0454199
+28243923	1102	1109	margins	T023	C0229985
+28243923	1154	1157	OAR	T029	C2936599
+28243923	1158	1166	relative	T080	C0205345
+28243923	1167	1171	dose	T081	C0178602
+28243923	1172	1181	reduction	T080	C0392756
+28243923	1190	1195	heart	T023	C0018787
+28243923	1203	1207	lung	T023	C0024109
+28243923	1218	1231	contralateral	T082	C0441988
+28243923	1232	1238	breast	T023	C0006141
+28243923	1248	1252	risk	T078	C0035647
+28243923	1256	1265	radiation	T070	C0851346
+28243923	1268	1275	induced	T169	C0205263
+28243923	1276	1285	secondary	T080	C0175668
+28243923	1286	1292	cancer	T191	C0006826
+28243923	1312	1325	contralateral	T082	C0441988
+28243923	1326	1332	breast	T023	C0006141
+28243923	1343	1356	contralateral	T082	C0441988
+28243923	1357	1361	lung	T023	C0024109
+28243923	1364	1369	Daily	T079	C0332173
+28243923	1370	1384	image-guidance	T061	C0442972
+28243923	1391	1398	kV CBCT	T060	C3641875
+28243923	1399	1408	increased	T081	C0205217
+28243923	1413	1417	risk	T078	C0035647
+28243923	1421	1430	radiation	T070	C0851346
+28243923	1431	1438	induced	T169	C0205263
+28243923	1439	1448	secondary	T080	C0175668
+28243923	1449	1455	cancer	T191	C0006826
+28243923	1463	1476	contralateral	T082	C0441988
+28243923	1477	1483	breast	T023	C0006141
+28243923	1488	1501	contralateral	T082	C0441988
+28243923	1502	1506	lung	T023	C0024109
+28243923	1580	1584	dose	T081	C0178602
+28243923	1590	1597	kV CBCT	T060	C3641875
+28243923	1621	1628	imaging	T060	C0011923
+28243923	1629	1638	protocols	T170	C0442711
+28243923	1648	1651	PTV	T081	C0454199
+28243923	1652	1659	margins	T023	C0229985
+28243923	1693	1702	reduction	T080	C0392756
+28243923	1706	1715	secondary	T080	C0175668
+28243923	1716	1727	cancer risk	T081	C0596244

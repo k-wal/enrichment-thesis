@@ -1,0 +1,71 @@
+20523265|t|Association study of complement factor H, C2, CFB, and C3 and age-related macular degeneration in a Han Chinese population.
+20523265|a|PURPOSE: Genes in the complement pathway, including complement factor H (CFH), C2/BF, and C3, have been reported to be associated with age-related macular degeneration (AMD). Genetic variants, single-nucleotide polymorphisms (SNPs), in these genes were geno-typed for a case-control association study in a mainland Han Chinese population. METHODS: One hundred and fifty-eight patients with wet AMD, 80 patients with soft drusen, and 220 matched control subjects were recruited among Han Chinese in mainland China. Seven SNPs in CFH and two SNPs in C2, CFB', and C3 were genotyped using the ABI SNaPshot method. A deletion of 84,682 base pairs covering the CFHR1 and CFHR3 genes was detected by direct polymerase chain reaction and gel electrophoresis. RESULTS: Four SNPs, including rs3753394 (P = 0.0276), rs800292 (P = 0.0266), rs1061170 (P = 0.00514), and rs1329428 (P = 0.0089), in CFH showed a significant association with wet AMD in the cohort of this study. A haplotype containing these four SNPs (CATA) significantly increased protection of wet AMD with a P value of 0.0005 and an odds ratio of 0.29 (95% confidence interval: 0.15-0.60). Unlike in other populations, rs2274700 and rs1410996 did not show a significant association with AMD in the Chinese population of this study. None of the SNPs in CFH showed a significant association with drusen, and none of the SNPs in CFH, C2, CFB, and C3 showed a significant association with either wet AMD or drusen in the cohort of this study. The CFHR1 and CFHR3 deletion was not polymorphic in the Chinese population and was not associated with wet AMD or drusen. CONCLUSION: This study showed that SNPs rs3753394 (P = 0.0276), rs800292 (P = 0.0266), rs1061170 (P = 0.00514), and rs1329428 (P = 0.0089), but not rs7535263, rs1410996, or rs2274700, in CFH were significantly associated with wet AMD in a mainland Han Chinese population. This study showed that CFH was more likely to be AMD susceptibility gene at Chr.1q31 based on the finding that the CFHR1 and CFHR3 deletion was not polymorphic in the cohort of this study, and none of the SNPs that were significantly associated with AMD in a white population in C2, CFB, and C3 genes showed a significant association with AMD.
+20523265	21	40	complement factor H	GeneOrGeneProduct	3075
+20523265	42	44	C2	GeneOrGeneProduct	717
+20523265	46	49	CFB	GeneOrGeneProduct	629
+20523265	55	57	C3	GeneOrGeneProduct	718
+20523265	62	94	age-related macular degeneration	DiseaseOrPhenotypicFeature	D008268
+20523265	176	195	complement factor H	GeneOrGeneProduct	3075
+20523265	197	200	CFH	GeneOrGeneProduct	3075
+20523265	203	208	C2/BF	GeneOrGeneProduct	629,717
+20523265	214	216	C3	GeneOrGeneProduct	718
+20523265	259	291	age-related macular degeneration	DiseaseOrPhenotypicFeature	D008268
+20523265	293	296	AMD	DiseaseOrPhenotypicFeature	D008268
+20523265	500	508	patients	OrganismTaxon	9606
+20523265	518	521	AMD	DiseaseOrPhenotypicFeature	D008268
+20523265	526	534	patients	OrganismTaxon	9606
+20523265	545	551	drusen	DiseaseOrPhenotypicFeature	D005128
+20523265	652	655	CFH	GeneOrGeneProduct	3075
+20523265	672	674	C2	GeneOrGeneProduct	717
+20523265	676	679	CFB	GeneOrGeneProduct	629
+20523265	686	688	C3	GeneOrGeneProduct	718
+20523265	780	785	CFHR1	GeneOrGeneProduct	3078
+20523265	790	795	CFHR3	GeneOrGeneProduct	10878
+20523265	906	915	rs3753394	SequenceVariant	rs3753394
+20523265	930	938	rs800292	SequenceVariant	rs800292
+20523265	953	962	rs1061170	SequenceVariant	rs1061170
+20523265	982	991	rs1329428	SequenceVariant	rs1329428
+20523265	1009	1012	CFH	GeneOrGeneProduct	3075
+20523265	1055	1058	AMD	DiseaseOrPhenotypicFeature	D008268
+20523265	1176	1179	AMD	DiseaseOrPhenotypicFeature	D008268
+20523265	1298	1307	rs2274700	SequenceVariant	rs2274700
+20523265	1312	1321	rs1410996	SequenceVariant	rs1410996
+20523265	1366	1369	AMD	DiseaseOrPhenotypicFeature	D008268
+20523265	1431	1434	CFH	GeneOrGeneProduct	3075
+20523265	1473	1479	drusen	DiseaseOrPhenotypicFeature	D005128
+20523265	1505	1508	CFH	GeneOrGeneProduct	3075
+20523265	1510	1512	C2	GeneOrGeneProduct	717
+20523265	1514	1517	CFB	GeneOrGeneProduct	629
+20523265	1523	1525	C3	GeneOrGeneProduct	718
+20523265	1575	1578	AMD	DiseaseOrPhenotypicFeature	D008268
+20523265	1582	1588	drusen	DiseaseOrPhenotypicFeature	D005128
+20523265	1622	1627	CFHR1	GeneOrGeneProduct	3078
+20523265	1632	1637	CFHR3	GeneOrGeneProduct	10878
+20523265	1725	1728	AMD	DiseaseOrPhenotypicFeature	D008268
+20523265	1732	1738	drusen	DiseaseOrPhenotypicFeature	D005128
+20523265	1780	1789	rs3753394	SequenceVariant	rs3753394
+20523265	1804	1812	rs800292	SequenceVariant	rs800292
+20523265	1827	1836	rs1061170	SequenceVariant	rs1061170
+20523265	1856	1865	rs1329428	SequenceVariant	rs1329428
+20523265	1888	1897	rs7535263	SequenceVariant	rs7535263
+20523265	1899	1908	rs1410996	SequenceVariant	rs1410996
+20523265	1913	1922	rs2274700	SequenceVariant	rs2274700
+20523265	1927	1930	CFH	GeneOrGeneProduct	3075
+20523265	1970	1973	AMD	DiseaseOrPhenotypicFeature	D008268
+20523265	2035	2038	CFH	GeneOrGeneProduct	3075
+20523265	2061	2064	AMD	DiseaseOrPhenotypicFeature	D008268
+20523265	2127	2132	CFHR1	GeneOrGeneProduct	3078
+20523265	2137	2142	CFHR3	GeneOrGeneProduct	10878
+20523265	2262	2265	AMD	DiseaseOrPhenotypicFeature	D008268
+20523265	2291	2293	C2	GeneOrGeneProduct	717
+20523265	2295	2298	CFB	GeneOrGeneProduct	629
+20523265	2304	2306	C3	GeneOrGeneProduct	718
+20523265	2351	2354	AMD	DiseaseOrPhenotypicFeature	D008268
+20523265	Association	3075	D008268	Novel
+20523265	Positive_Correlation	rs1329428	D008268	Novel
+20523265	Positive_Correlation	rs1061170	D008268	Novel
+20523265	Positive_Correlation	rs800292	D008268	Novel
+20523265	Positive_Correlation	rs3753394	D008268	Novel
+20523265	Association	717	D008268	Novel
+20523265	Association	D008268	718	Novel
+20523265	Association	629	D008268	Novel

@@ -1,0 +1,57 @@
+15818664|t|Association of sporadic chondrocalcinosis with a -4-basepair G-to-A transition in the 5'-untranslated region of ANKH that promotes enhanced expression of ANKH protein and excess generation of extracellular inorganic pyrophosphate.
+15818664|a|OBJECTIVE: Certain mutations in ANKH, which encodes a multiple-pass transmembrane protein that regulates inorganic pyrophosphate (PPi) transport, are linked to autosomal-dominant familial chondrocalcinosis. This study investigated the potential for ANKH sequence variants to promote sporadic chondrocalcinosis. METHODS: ANKH variants identified by genomic sequencing were screened for association with chondrocalcinosis in 128 patients with severe sporadic chondrocalcinosis or pseudogout and in ethnically matched healthy controls. The effects of specific variants on expression of common markers were evaluated by in vitro transcription/translation. The function of these variants was studied in transfected human immortalized CH-8 articular chondrocytes. RESULTS: Sporadic chondrocalcinosis was associated with a G-to-A transition in the ANKH 5'-untranslated region (5'-UTR) at 4 bp upstream of the start codon (in homozygotes of the minor allele, genotype relative risk 6.0, P = 0.0006; overall genotype association P = 0.02). This -4-bp transition, as well as 2 mutations previously linked with familial and sporadic chondrocalcinosis (+14 bp C-to-T and C-terminal GAG deletion, respectively), but not the French familial chondrocalcinosis kindred 143-bp T-to-C mutation, increased reticulocyte ANKH transcription/ANKH translation in vitro. Transfection of complementary DNA for both the wild-type ANKH and the -4-bp ANKH protein variant promoted increased extracellular PPi in CH-8 cells, but unexpectedly, these ANKH mutants had divergent effects on the expression of extracellular PPi and the chondrocyte hypertrophy marker, type X collagen. CONCLUSION: A subset of sporadic chondrocalcinosis appears to be heritable via a -4-bp G-to-A ANKH 5'-UTR transition that up-regulates expression of ANKH and extracellular PPi in chondrocyte cells. Distinct ANKH mutations associated with heritable chondrocalcinosis may promote disease by divergent effects on extracellular PPi and chondrocyte hypertrophy, which is likely to mediate differences in the clinical phenotypes and severity of the disease.
+15818664	15	41	sporadic chondrocalcinosis	DiseaseOrPhenotypicFeature	D002805
+15818664	49	67	-4-basepair G-to-A	SequenceVariant	c|SUB|G|-4|A
+15818664	112	116	ANKH	GeneOrGeneProduct	56172
+15818664	154	158	ANKH	GeneOrGeneProduct	56172
+15818664	206	229	inorganic pyrophosphate	ChemicalEntity	D043564
+15818664	263	267	ANKH	GeneOrGeneProduct	56172
+15818664	336	359	inorganic pyrophosphate	ChemicalEntity	D043564
+15818664	361	364	PPi	ChemicalEntity	D043564
+15818664	391	436	autosomal-dominant familial chondrocalcinosis	DiseaseOrPhenotypicFeature	D002805
+15818664	480	484	ANKH	GeneOrGeneProduct	56172
+15818664	523	540	chondrocalcinosis	DiseaseOrPhenotypicFeature	D002805
+15818664	551	555	ANKH	GeneOrGeneProduct	56172
+15818664	633	650	chondrocalcinosis	DiseaseOrPhenotypicFeature	D002805
+15818664	658	666	patients	OrganismTaxon	9606
+15818664	688	705	chondrocalcinosis	DiseaseOrPhenotypicFeature	D002805
+15818664	709	719	pseudogout	DiseaseOrPhenotypicFeature	D002805
+15818664	941	946	human	OrganismTaxon	9606
+15818664	960	964	CH-8	CellLine	CVCL_M020
+15818664	998	1024	Sporadic chondrocalcinosis	DiseaseOrPhenotypicFeature	D002805
+15818664	1047	1053	G-to-A	SequenceVariant	c|SUB|G||A
+15818664	1072	1076	ANKH	GeneOrGeneProduct	56172
+15818664	1331	1370	familial and sporadic chondrocalcinosis	DiseaseOrPhenotypicFeature	D002805
+15818664	1372	1385	+14 bp C-to-T	SequenceVariant	c|SUB|C|14|T
+15818664	1401	1413	GAG deletion	SequenceVariant	c|DEL||GAG
+15818664	1449	1475	familial chondrocalcinosis	DiseaseOrPhenotypicFeature	D002805
+15818664	1484	1497	143-bp T-to-C	SequenceVariant	c|SUB|T|143|C
+15818664	1531	1535	ANKH	GeneOrGeneProduct	56172
+15818664	1550	1554	ANKH	GeneOrGeneProduct	56172
+15818664	1634	1638	ANKH	GeneOrGeneProduct	56172
+15818664	1653	1657	ANKH	GeneOrGeneProduct	56172
+15818664	1707	1710	PPi	ChemicalEntity	D043564
+15818664	1714	1718	CH-8	CellLine	CVCL_M020
+15818664	1750	1754	ANKH	GeneOrGeneProduct	56172
+15818664	1820	1823	PPi	ChemicalEntity	D043564
+15818664	1844	1855	hypertrophy	DiseaseOrPhenotypicFeature	D006984
+15818664	1864	1879	type X collagen	GeneOrGeneProduct	1300
+15818664	1905	1931	sporadic chondrocalcinosis	DiseaseOrPhenotypicFeature	D002805
+15818664	1962	1974	-4-bp G-to-A	SequenceVariant	c|SUB|G|-4|A
+15818664	1975	1979	ANKH	GeneOrGeneProduct	56172
+15818664	2030	2034	ANKH	GeneOrGeneProduct	56172
+15818664	2053	2056	PPi	ChemicalEntity	D043564
+15818664	2088	2092	ANKH	GeneOrGeneProduct	56172
+15818664	2129	2146	chondrocalcinosis	DiseaseOrPhenotypicFeature	D002805
+15818664	2205	2208	PPi	ChemicalEntity	D043564
+15818664	2225	2236	hypertrophy	DiseaseOrPhenotypicFeature	D006984
+15818664	Association	c|SUB|G|-4|A	D006984	Novel
+15818664	Positive_Correlation	c|SUB|G|-4|A	D043564	Novel
+15818664	Positive_Correlation	D002805	c|SUB|G|-4|A	Novel
+15818664	Association	D002805	D043564	No
+15818664	Association	D002805	c|DEL||GAG	Novel
+15818664	Association	D002805	c|SUB|C|14|T	Novel
+15818664	Association	D002805	c|SUB|G||A	Novel
+15818664	Association	56172	D006984	Novel
+15818664	Association	56172	D043564	No
+15818664	Association	56172	D002805	Novel

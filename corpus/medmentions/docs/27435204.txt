@@ -1,0 +1,124 @@
+27435204|t|Medicare claims indicators of healthcare utilization differences after hospitalization for ischemic stroke: Race, gender, and caregiving effects
+27435204|a|Background Differences in healthcare utilization after stroke may partly explain race or gender differences in stroke outcomes and identify factors that might reduce post - acute stroke care costs. Aim To examine systematic differences in Medicare claims for healthcare utilization after hospitalization for ischemic stroke in a US population -based sample. Methods Claims were examined over a six-month period after hospitalization for 279 ischemic stroke survivors 65 years or older from the REasons for Geographic And Racial Differences in Stroke (REGARDS) study. Statistical analyses examined differences in post - acute healthcare utilization, adjusted for pre - stroke utilization, as a function of race (African-American vs. White), gender, age, stroke belt residence, income, Medicaid dual-eligibility, Charlson comorbidity index, and whether the person lived with an available caregiver. Results After adjusting for covariates, women were more likely than men to receive home health care and to use emergency department services during the post - acute care period. These effects were maintained even after further adjustment for acute stroke severity. African-Americans had more home health care visits than Whites among patients who received some home health care. Having a co-residing caregiver was associated with reduced acute hospitalization length of stay and fewer post - acute emergency department and primary care physician visits. Conclusions Underutilization of healthcare after stroke does not appear to explain poorer long-term stroke outcomes for women and African-Americans in this epidemiologically -derived sample. Caregiver availability may contribute to reduced formal care and cost during the post - acute period.
+27435204	0	8	Medicare	T064	C0018717
+27435204	9	15	claims	T170	C3242446
+27435204	16	26	indicators	T169	C1522602
+27435204	30	40	healthcare	T058	C0086388
+27435204	41	52	utilization	T169	C0042153
+27435204	53	64	differences	T080	C1705242
+27435204	71	86	hospitalization	T058	C0019993
+27435204	91	106	ischemic stroke	T047	C0948008
+27435204	108	112	Race	T098	C0034510
+27435204	114	120	gender	T032	C0079399
+27435204	126	136	caregiving	T052	C1947933
+27435204	137	144	effects	T080	C1280500
+27435204	145	155	Background	T077	C1706907
+27435204	156	167	Differences	T080	C1705242
+27435204	171	181	healthcare	T058	C0086388
+27435204	182	193	utilization	T169	C0042153
+27435204	200	206	stroke	T047	C0948008
+27435204	226	230	race	T098	C0034510
+27435204	234	240	gender	T032	C0079399
+27435204	241	252	differences	T080	C1705242
+27435204	256	262	stroke	T047	C0948008
+27435204	285	292	factors	T169	C1521761
+27435204	304	310	reduce	T080	C0392756
+27435204	311	315	post	T079	C0687676
+27435204	318	330	acute stroke	T047	C0751956
+27435204	331	341	care costs	T081	C0086600
+27435204	358	368	systematic	T169	C0220922
+27435204	369	380	differences	T080	C1705242
+27435204	384	392	Medicare	T064	C0018717
+27435204	393	399	claims	T170	C3242446
+27435204	404	414	healthcare	T058	C0086388
+27435204	415	426	utilization	T169	C0042153
+27435204	433	448	hospitalization	T058	C0019993
+27435204	453	468	ischemic stroke	T047	C0948008
+27435204	474	476	US	T083	C0041703
+27435204	477	487	population	T098	C1257890
+27435204	495	501	sample	T096	C0681850
+27435204	511	517	Claims	T170	C3242446
+27435204	523	531	examined	T033	C0332128
+27435204	539	548	six-month	T079	C0439231
+27435204	549	555	period	T079	C1948053
+27435204	562	577	hospitalization	T058	C0019993
+27435204	586	601	ischemic stroke	T047	C0948008
+27435204	602	611	survivors	T101	C0206194
+27435204	615	620	years	T079	C0439234
+27435204	624	629	older	T098	C0001792
+27435204	639	646	REasons	T078	C0392360
+27435204	651	661	Geographic	T078	C1171306
+27435204	666	684	Racial Differences	T033	C0682075
+27435204	688	694	Stroke	T047	C0948008
+27435204	696	703	REGARDS	T047	C0948008
+27435204	712	732	Statistical analyses	T062	C0871424
+27435204	733	741	examined	T033	C0332128
+27435204	742	753	differences	T080	C1705242
+27435204	757	761	post	T079	C0687676
+27435204	764	780	acute healthcare	T058	C0679878
+27435204	781	792	utilization	T169	C0042153
+27435204	807	810	pre	T079	C0332152
+27435204	813	819	stroke	T047	C0948008
+27435204	820	831	utilization	T169	C0042153
+27435204	838	846	function	T169	C0542341
+27435204	850	854	race	T098	C0034510
+27435204	856	872	African-American	T098	C0085756
+27435204	877	882	White	T098	C0007457
+27435204	885	891	gender	T032	C0079399
+27435204	893	896	age	T032	C0001779
+27435204	898	909	stroke belt	UnknownType	C0681784
+27435204	910	919	residence	T082	C0237096
+27435204	921	927	income	T081	C0021162
+27435204	929	954	Medicaid dual-eligibility	T064	C3494385
+27435204	956	982	Charlson comorbidity index	T170	C3714916
+27435204	1000	1006	person	T098	C0027361
+27435204	1007	1012	lived	T052	C2982691
+27435204	1021	1030	available	T169	C0470187
+27435204	1031	1040	caregiver	T097	C0085537
+27435204	1082	1087	women	T098	C0043210
+27435204	1110	1113	men	T098	C0025266
+27435204	1117	1124	receive	T080	C1514756
+27435204	1125	1141	home health care	T058	C3845073
+27435204	1153	1182	emergency department services	T058	C0374899
+27435204	1194	1198	post	T079	C0687676
+27435204	1201	1211	acute care	T058	C0679878
+27435204	1212	1218	period	T079	C1948053
+27435204	1226	1233	effects	T080	C1280500
+27435204	1239	1249	maintained	T169	C1314677
+27435204	1261	1268	further	T082	C1517331
+27435204	1269	1279	adjustment	T169	C0456081
+27435204	1284	1296	acute stroke	T047	C0751956
+27435204	1297	1305	severity	T080	C0439793
+27435204	1307	1324	African-Americans	T098	C0085756
+27435204	1334	1350	home health care	T058	C3845073
+27435204	1351	1357	visits	T058	C1512346
+27435204	1363	1369	Whites	T098	C0007457
+27435204	1376	1384	patients	T101	C0030705
+27435204	1389	1397	received	T080	C1709850
+27435204	1403	1419	home health care	T058	C3845073
+27435204	1430	1441	co-residing	T052	C2982691
+27435204	1442	1451	caregiver	T097	C0085537
+27435204	1456	1471	associated with	T080	C0332281
+27435204	1472	1479	reduced	T080	C0392756
+27435204	1480	1501	acute hospitalization	T058	C0019993
+27435204	1502	1516	length of stay	T079	C0023303
+27435204	1527	1531	post	T079	C0687676
+27435204	1534	1560	acute emergency department	T058	C0586082
+27435204	1565	1594	primary care physician visits	T058	C3251682
+27435204	1608	1638	Underutilization of healthcare	T055	C4042758
+27435204	1645	1651	stroke	T047	C0948008
+27435204	1686	1695	long-term	T079	C0443252
+27435204	1696	1702	stroke	T047	C0948008
+27435204	1716	1721	women	T098	C0043210
+27435204	1726	1743	African-Americans	T098	C0085756
+27435204	1752	1769	epidemiologically	T169	C0014508
+27435204	1779	1785	sample	T096	C0681850
+27435204	1787	1796	Caregiver	T097	C0085537
+27435204	1797	1809	availability	T169	C0470187
+27435204	1814	1824	contribute	T052	C1880177
+27435204	1828	1835	reduced	T080	C0392756
+27435204	1836	1847	formal care	T052	C1947933
+27435204	1852	1856	cost	T081	C0010186
+27435204	1868	1872	post	T079	C0687676
+27435204	1875	1880	acute	T058	C0679878
+27435204	1881	1887	period	T079	C1948053

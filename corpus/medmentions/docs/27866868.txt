@@ -1,0 +1,101 @@
+27866868|t|Lack of evidence of lower 30-day all-cause readmission in Medicare beneficiaries with heart failure and reduced ejection fraction discharged on spironolactone
+27866868|a|Therapy with evidence -based heart failure (HF) medications has been shown to be associated with lower risk of 30-day all-cause readmission in patients with HF and reduced ejection fraction (HFrEF). We examined the association of aldosterone antagonist use with 30-day all-cause readmission in this population. Of the 2443 Medicare beneficiaries with HF and left ventricular EF ≤35% discharged home from 106 Alabama hospitals during 1998-2001, 2060 were eligible for spironolactone therapy (serum creatinine ≤2.5 for men and ≤2mg/dl for women, and serum potassium <5mEq/L). After excluding 186 patients already receiving spironolactone on admission, the inception cohort consisted of 1874 patients eligible for a new discharge prescription for spironolactone, of which 329 received one. Using propensity scores for initiation of spironolactone therapy, we assembled a matched cohort of 324 pairs of patients receiving and not receiving spironolactone balanced on 34 baseline characteristics (mean age 72years, 42% women, 33% African American). Thirty-day all-cause readmission occurred in 17% and 19% of matched patients receiving and not receiving spironolactone, respectively (hazard ratio [HR], 0.92; 95% confidence interval [CI], 0.64-1.32; p=0.650). Spironolactone had no association with 30-day all-cause mortality (HR, 0.84; 95% CI, 0.38-1.88; p=0.678) or HF readmission (HR, 0.74; 95% CI, 0.41 1.31; p=0.301). These associations remained unchanged during 12months of post-discharge follow-up. A discharge prescription for spironolactone had no association with 30-day all-cause readmission among older, hospitalized Medicare beneficiaries with HFrEF eligible for spironolactone therapy.
+27866868	0	7	Lack of	T080	C0332268
+27866868	8	16	evidence	T078	C3887511
+27866868	20	25	lower	T052	C2003888
+27866868	43	54	readmission	T058	C0030700
+27866868	58	66	Medicare	T064	C0018717
+27866868	67	80	beneficiaries	T169	C1550502
+27866868	86	99	heart failure	T047	C0018801
+27866868	104	111	reduced	T080	C0392756
+27866868	112	129	ejection fraction	T042	C0232174
+27866868	130	140	discharged	T058	C0030685
+27866868	144	158	spironolactone	T109,T121	C0037982
+27866868	159	166	Therapy	T061	C0087111
+27866868	172	180	evidence	T078	C3887511
+27866868	188	201	heart failure	T047	C0018801
+27866868	203	205	HF	T047	C0018801
+27866868	207	218	medications	T170	C4284232
+27866868	240	255	associated with	T080	C0332281
+27866868	256	266	lower risk	T081	C3538919
+27866868	287	298	readmission	T058	C0030700
+27866868	302	310	patients	T101	C0030705
+27866868	316	318	HF	T047	C0018801
+27866868	323	348	reduced ejection fraction	T033	C4022792
+27866868	350	355	HFrEF	T047	C0012634
+27866868	361	369	examined	T033	C0332128
+27866868	374	388	association of	T067	C0596306
+27866868	389	411	aldosterone antagonist	T121	C0002007
+27866868	438	449	readmission	T058	C0030700
+27866868	458	468	population	T098	C1257890
+27866868	482	490	Medicare	T064	C0018717
+27866868	491	504	beneficiaries	T169	C1550502
+27866868	510	512	HF	T047	C0018801
+27866868	517	536	left ventricular EF	T201	C0428772
+27866868	542	557	discharged home	T061	C0184713
+27866868	567	574	Alabama	T083	C0001895
+27866868	575	584	hospitals	T073,T093	C0019994
+27866868	585	591	during	T079	C0347984
+27866868	613	621	eligible	T080	C1548635
+27866868	626	640	spironolactone	T109,T121	C0037982
+27866868	641	648	therapy	T061	C0087111
+27866868	650	666	serum creatinine	T033	C0600061
+27866868	676	679	men	T032	C0086582
+27866868	696	701	women	T032	C0086287
+27866868	707	722	serum potassium	T059	C0302353
+27866868	739	748	excluding	T052	C2828389
+27866868	753	761	patients	T101	C0030705
+27866868	770	779	receiving	T080	C1514756
+27866868	780	794	spironolactone	T109,T121	C0037982
+27866868	798	807	admission	T058	C0030673
+27866868	813	829	inception cohort	UnknownType	C0150101
+27866868	848	856	patients	T101	C0030705
+27866868	857	865	eligible	T080	C1548635
+27866868	876	885	discharge	T058	C0030685
+27866868	886	898	prescription	T058	C0033080
+27866868	903	917	spironolactone	T109,T121	C0037982
+27866868	952	969	propensity scores	T081	C2718044
+27866868	974	984	initiation	T169	C1704686
+27866868	988	1002	spironolactone	T109,T121	C0037982
+27866868	1003	1010	therapy	T061	C0087111
+27866868	1035	1041	cohort	T098	C0599755
+27866868	1058	1066	patients	T101	C0030705
+27866868	1067	1076	receiving	T080	C1514756
+27866868	1095	1109	spironolactone	T109,T121	C0037982
+27866868	1125	1133	baseline	T081	C1442488
+27866868	1134	1149	characteristics	T080	C1521970
+27866868	1173	1178	women	T032	C0086287
+27866868	1184	1200	African American	T098	C0085756
+27866868	1224	1235	readmission	T058	C0030700
+27866868	1236	1244	occurred	T052	C1709305
+27866868	1263	1270	matched	T080	C1708943
+27866868	1271	1279	patients	T101	C0030705
+27866868	1280	1289	receiving	T080	C1514756
+27866868	1308	1322	spironolactone	T109,T121	C0037982
+27866868	1338	1350	hazard ratio	T081	C2985465
+27866868	1352	1354	HR	T081	C2985465
+27866868	1367	1386	confidence interval	T081	C0009667
+27866868	1388	1390	CI	T081	C0009667
+27866868	1414	1428	Spironolactone	T109,T121	C0037982
+27866868	1470	1479	mortality	T081	C0026565
+27866868	1481	1483	HR	T081	C2985465
+27866868	1495	1497	CI	T081	C0009667
+27866868	1522	1524	HF	T047	C0018801
+27866868	1525	1536	readmission	T058	C0030700
+27866868	1538	1540	HR	T081	C2985465
+27866868	1552	1554	CI	T081	C0009667
+27866868	1605	1614	unchanged	T080	C2346711
+27866868	1615	1621	during	T079	C0347984
+27866868	1634	1658	post-discharge follow-up	T033	C1320368
+27866868	1662	1671	discharge	T058	C0030685
+27866868	1672	1684	prescription	T058	C0033080
+27866868	1689	1703	spironolactone	T109,T121	C0037982
+27866868	1745	1756	readmission	T058	C0030700
+27866868	1763	1768	older	T098	C3826770
+27866868	1770	1782	hospitalized	T101	C0870668
+27866868	1783	1791	Medicare	T064	C0018717
+27866868	1792	1805	beneficiaries	T169	C1550502
+27866868	1811	1816	HFrEF	T047	C0012634
+27866868	1817	1825	eligible	T080	C1548635
+27866868	1830	1844	spironolactone	T109,T121	C0037982
+27866868	1845	1852	therapy	T061	C0087111

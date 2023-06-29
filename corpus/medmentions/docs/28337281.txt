@@ -1,0 +1,85 @@
+28337281|t|C-MYC - induced upregulation of lncRNA SNHG12 regulates cell proliferation, apoptosis and migration in triple-negative breast cancer
+28337281|a|Triple-negative breast cancer (TNBC) is one of the most aggressive subtypes of breast cancer, with a significantly higher recurrence and mortality rate. There is an urgent need to uncover the mechanism underlying TNBC and establish therapeutic targets. Long non-coding RNAs (lncRNAs) are involved in a series of biological functions and provide novel insights into the molecular mechanism of cancer. Based on their expression specificity and large number, lncRNAs are likely to serve as the basis for clinical applications in oncology. In our previous study, we utilized RNA sequencing (RNA-seq) to explore the lncRNAs expression profiles in TNBC and identified that small nucleolar RNA host gene 12 (SNHG12) was remarkably increased in TNBC. However, the role of SNHG12 in TNBC has not been clarified. Herein, we determine that SNHG12 is upregulated in TNBC, and its high expression is significantly correlated with tumor size and lymph node metastasis. Mechanistic investigations show that SNHG12 is a direct transcriptional target of c-MYC. Silencing SNHG12 expression inhibits TNBC cells proliferation and apoptosis promotion, whereas SNHG12 overexpression has the opposite effect. In addition, we reveal that SNHG12 may promote cells migration by regulating MMP13 expression. To the best of our knowledge, it is the first report indicating that SNHG12 is involved in breast cancer. Taken together, our findings suggest that SNHG12 contributes to the oncogenic potential of TNBC and may be a promising therapeutic target.
+28337281	0	5	C-MYC	T028	C0079068
+28337281	8	15	induced	T169	C0205263
+28337281	16	28	upregulation	T044	C0041904
+28337281	32	38	lncRNA	T114	C2982391
+28337281	39	45	SNHG12	T028	C1823223
+28337281	46	55	regulates	T038	C1327622
+28337281	56	74	cell proliferation	T043	C0596290
+28337281	76	85	apoptosis	T043	C0162638
+28337281	90	99	migration	T043	C1622501
+28337281	103	132	triple-negative breast cancer	T191	C3539878
+28337281	133	162	Triple-negative breast cancer	T191	C3539878
+28337281	164	168	TNBC	T191	C3539878
+28337281	189	208	aggressive subtypes	T185	C0872379
+28337281	212	225	breast cancer	T191	C0006142
+28337281	248	254	higher	T080	C0205250
+28337281	255	265	recurrence	T046	C2825055
+28337281	270	284	mortality rate	T081	C0205848
+28337281	325	334	mechanism	T169	C0441712
+28337281	346	350	TNBC	T191	C3539878
+28337281	365	376	therapeutic	T169	C0302350
+28337281	377	384	targets	T169	C1521840
+28337281	386	406	Long non-coding RNAs	T114	C2982391
+28337281	408	415	lncRNAs	T114	C2982391
+28337281	445	465	biological functions	T038	C3714634
+28337281	502	521	molecular mechanism	T044	C1148560
+28337281	525	531	cancer	T191	C0006826
+28337281	548	558	expression	T045	C0017262
+28337281	559	570	specificity	T081	C0037791
+28337281	589	596	lncRNAs	T114	C2982391
+28337281	634	642	clinical	T080	C0205210
+28337281	643	655	applications	T169	C4048755
+28337281	659	667	oncology	T058	C1555459
+28337281	704	707	RNA	T114	C0035668
+28337281	708	718	sequencing	T059	C1294197
+28337281	720	727	RNA-seq	T059	C1294197
+28337281	744	751	lncRNAs	T114	C2982391
+28337281	752	771	expression profiles	T081	C1956267
+28337281	775	779	TNBC	T191	C3539878
+28337281	806	815	nucleolar	T029	C0521448
+28337281	816	832	RNA host gene 12	T028	C1823223
+28337281	834	840	SNHG12	T028	C1823223
+28337281	870	874	TNBC	T191	C3539878
+28337281	889	893	role	T077	C1705810
+28337281	897	903	SNHG12	T028	C1823223
+28337281	907	911	TNBC	T191	C3539878
+28337281	962	968	SNHG12	T028	C1823223
+28337281	972	983	upregulated	T044	C0041904
+28337281	987	991	TNBC	T191	C3539878
+28337281	1001	1005	high	T080	C0205250
+28337281	1006	1016	expression	T045	C0017262
+28337281	1034	1044	correlated	T080	C1707520
+28337281	1050	1060	tumor size	T082	C0475440
+28337281	1065	1087	lymph node metastasis.	T191	C0948627
+28337281	1088	1099	Mechanistic	T169	C0441712
+28337281	1100	1114	investigations	T062	C0683933
+28337281	1125	1131	SNHG12	T028	C1823223
+28337281	1144	1159	transcriptional	T045	C0040649
+28337281	1160	1166	target	T169	C1521840
+28337281	1170	1175	c-MYC	T028	C0079068
+28337281	1177	1186	Silencing	T045	C0598496
+28337281	1187	1193	SNHG12	T028	C1823223
+28337281	1194	1204	expression	T045	C0017262
+28337281	1214	1218	TNBC	T191	C3539878
+28337281	1219	1238	cells proliferation	T043	C0596290
+28337281	1243	1252	apoptosis	T043	C0162638
+28337281	1272	1278	SNHG12	T028	C1823223
+28337281	1279	1293	overexpression	T045	C0017262
+28337281	1302	1310	opposite	T082	C1521805
+28337281	1311	1317	effect	T080	C1280500
+28337281	1347	1353	SNHG12	T028	C1823223
+28337281	1366	1381	cells migration	T043	C1622501
+28337281	1385	1395	regulating	T045	C0017263
+28337281	1396	1401	MMP13	T028	C1417202
+28337281	1402	1412	expression	T045	C0017262
+28337281	1483	1489	SNHG12	T028	C1823223
+28337281	1505	1518	breast cancer	T191	C0006142
+28337281	1540	1548	findings	T033	C0243095
+28337281	1562	1568	SNHG12	T028	C1823223
+28337281	1588	1597	oncogenic	T191	C0598934
+28337281	1598	1607	potential	T080	C3245505
+28337281	1611	1615	TNBC	T191	C3539878
+28337281	1639	1650	therapeutic	T169	C0302350
+28337281	1651	1657	target	T169	C1521840

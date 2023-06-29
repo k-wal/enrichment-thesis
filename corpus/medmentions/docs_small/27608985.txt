@@ -1,0 +1,28 @@
+27608985|t|Rate - equation modelling and ensemble approach to extraction of parameters for viral infection - induced cell apoptosis and necrosis
+27608985|a|We develop a theoretical approach that uses physiochemical kinetics modelling to describe cell population dynamics upon progression of viral infection in cell culture, which results in cell apoptosis (programmed cell death) and necrosis (direct cell death). Several model parameters necessary for computer simulation were determined by reviewing and analyzing available published experimental data. By comparing experimental data to computer modelling results, we identify the parameters that are the most sensitive to the measured system properties and allow for the best data fitting. Our model allows extraction of parameters from experimental data and also has predictive power. Using the model we describe interesting time - dependent quantities that were not directly measured in the experiment and identify correlations among the fitted parameter values. Numerical simulation of viral infection progression is done by a rate - equation approach resulting in a system of "stiff" equations, which are solved by using a novel variant of the stochastic ensemble modelling approach. The latter was originally developed for coupled chemical reactions.
+27608985	16	25	modelling	T062	UMLS:C0870071
+27608985	80	95	viral infection	T038	UMLS:C0042769
+27608985	106	120	cell apoptosis	T038	UMLS:C0162638
+27608985	125	133	necrosis	T038	UMLS:C0027540
+27608985	147	158	theoretical	T062	UMLS:C0039778
+27608985	159	167	approach	T082	UMLS:C0449445
+27608985	202	211	modelling	T062	UMLS:C0870071
+27608985	224	239	cell population	T017	UMLS:C0007634
+27608985	254	265	progression	T038	UMLS:C0242656
+27608985	269	284	viral infection	T038	UMLS:C0042769
+27608985	288	300	cell culture	T058	UMLS:C0007585
+27608985	319	333	cell apoptosis	T038	UMLS:C0162638
+27608985	335	356	programmed cell death	T038	UMLS:C0162638
+27608985	362	370	necrosis	T038	UMLS:C0027540
+27608985	372	389	direct cell death	T038	UMLS:C0027540
+27608985	400	405	model	T170	UMLS:C3161035
+27608985	484	493	analyzing	T062	UMLS:C0936012
+27608985	504	513	published	T170	UMLS:C1704324
+27608985	725	730	model	T170	UMLS:C3161035
+27608985	827	832	model	T170	UMLS:C3161035
+27608985	845	856	interesting	T038	UMLS:C0543488
+27608985	924	934	experiment	T062	UMLS:C0681814
+27608985	1006	1016	simulation	T062	UMLS:C0679083
+27608985	1020	1035	viral infection	T038	UMLS:C0042769
+27608985	1036	1047	progression	T038	UMLS:C0242656
+27608985	1199	1208	modelling	T062	UMLS:C0870071

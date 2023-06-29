@@ -1,0 +1,85 @@
+27271951|t|Association of Autoimmune Encephalitis With Combined Immune Checkpoint Inhibitor Treatment for Metastatic Cancer
+27271951|a|Paraneoplastic encephalitides usually precede a diagnosis of cancer and are often refractory to immunosuppressive therapy. Conversely, autoimmune encephalitides are reversible conditions that can occur in the presence or absence of cancer. To report the induction of autoimmune encephalitis in 2 patients after treatment of metastatic cancer with a combination of the immune checkpoint inhibitors nivolumab and ipilimumab. A retrospective case study was conducted of the clinical and management course of 2 patients with progressive, treatment - refractory metastatic cancer who were treated with a single dose each (concomitantly) of the immune checkpoint inhibitors nivolumab, 1 mg/kg, and ipilimumab, 3 mg/kg. Nivolumab and ipilimumab. The clinical response to immunosuppressive therapy in suspected autoimmune encephalitis in the setting of immune checkpoint inhibitor use. Autoantibody testing confirmed identification of anti-N-methyl-D-aspartate receptor antibodies in the cerebrospinal fluid of 1 patient. Withdrawal of immune checkpoint inhibitors and initiation of immunosuppressive therapy, consisting of intravenous methylprednisolone sodium succinate equivalent to 1000 mg of methylprednisolone for 5 days, 0.4 mg/kg/d of intravenous immunoglobulin for 5 days, and 2 doses of rituximab, 1000 mg, in 1 patient and oral prednisone, 60 mg/d, in the other patient, resulted in improved neurologic symptoms. Immune checkpoint inhibition may favor the development of immune responses against neuronal antigens, leading to autoimmune encephalitis. Early recognition and treatment of autoimmune encephalitis in patients receiving immune checkpoint blockade therapy will likely be essential for maximizing clinical recovery and minimizing the effect of drug-related toxic effects. The mechanisms by which immune checkpoint inhibition may contribute to autoimmune encephalitis require further study.
+27271951	0	11	Association	T080	C0439849
+27271951	15	38	Autoimmune Encephalitis	T047	C0393639
+27271951	53	80	Immune Checkpoint Inhibitor	T121	C1254351
+27271951	81	90	Treatment	T169	C0039798
+27271951	95	112	Metastatic Cancer	T191	C0027627
+27271951	113	142	Paraneoplastic encephalitides	T047	C0338430
+27271951	161	180	diagnosis of cancer	T060	C0920688
+27271951	195	205	refractory	T169	C0205269
+27271951	209	234	immunosuppressive therapy	T061	C0021079
+27271951	248	273	autoimmune encephalitides	T047	C0393639
+27271951	278	288	reversible	T169	C0205343
+27271951	289	299	conditions	T080	C0348080
+27271951	309	314	occur	T052	C1709305
+27271951	322	330	presence	T033	C0150312
+27271951	334	341	absence	T169	C0332197
+27271951	345	351	cancer	T191	C0006826
+27271951	367	376	induction	T169	C0205263
+27271951	380	403	autoimmune encephalitis	T047	C0393639
+27271951	409	417	patients	T101	C0030705
+27271951	424	433	treatment	T169	C0039798
+27271951	437	454	metastatic cancer	T191	C0027627
+27271951	462	473	combination	T080	C0205195
+27271951	481	509	immune checkpoint inhibitors	T121	C1254351
+27271951	510	519	nivolumab	T116,T121,T129	C3657270
+27271951	524	534	ipilimumab	T116,T121,T129	C1367202
+27271951	538	562	retrospective case study	T062	C0035363
+27271951	584	607	clinical and management	T058	C1516615
+27271951	608	614	course	T079	C0750729
+27271951	620	628	patients	T101	C0030705
+27271951	634	645	progressive	T169	C0205329
+27271951	647	656	treatment	T169	C0039798
+27271951	659	687	refractory metastatic cancer	T191	C0677936
+27271951	697	709	treated with	T061	C0332293
+27271951	712	723	single dose	T081	C0869039
+27271951	730	743	concomitantly	T079	C0521115
+27271951	752	780	immune checkpoint inhibitors	T121	C1254351
+27271951	781	790	nivolumab	T116,T121,T129	C3657270
+27271951	805	815	ipilimumab	T116,T121,T129	C1367202
+27271951	826	835	Nivolumab	T116,T121,T129	C3657270
+27271951	840	850	ipilimumab	T116,T121,T129	C1367202
+27271951	856	873	clinical response	T033	C4055223
+27271951	877	902	immunosuppressive therapy	T061	C0021079
+27271951	906	915	suspected	T080	C0332147
+27271951	916	939	autoimmune encephalitis	T047	C0393639
+27271951	958	985	immune checkpoint inhibitor	T121	C1254351
+27271951	991	1011	Autoantibody testing	T059	C1272321
+27271951	1012	1021	confirmed	T033	C0750484
+27271951	1022	1036	identification	T080	C0205396
+27271951	1040	1085	anti-N-methyl-D-aspartate receptor antibodies	T116,T129	C3203613
+27271951	1093	1112	cerebrospinal fluid	T031	C0007806
+27271951	1118	1125	patient	T101	C0030705
+27271951	1127	1137	Withdrawal	T052	C2349954
+27271951	1141	1169	immune checkpoint inhibitors	T121	C1254351
+27271951	1174	1184	initiation	T169	C1704686
+27271951	1188	1213	immunosuppressive therapy	T061	C0021079
+27271951	1229	1240	intravenous	T169	C0013153
+27271951	1241	1320	methylprednisolone sodium succinate equivalent to 1000 mg of methylprednisolone	T200	C4083084
+27271951	1327	1331	days	T079	C0439228
+27271951	1348	1374	intravenous immunoglobulin	T116,T121,T129	C0085297
+27271951	1381	1385	days	T079	C0439228
+27271951	1393	1398	doses	T081	C0178602
+27271951	1402	1411	rituximab	T116,T121,T129	C0393022
+27271951	1427	1434	patient	T101	C0030705
+27271951	1439	1454	oral prednisone	T200	C0305834
+27271951	1478	1485	patient	T101	C0030705
+27271951	1499	1507	improved	T033	C0184511
+27271951	1508	1527	neurologic symptoms	T184	C0235031
+27271951	1529	1557	Immune checkpoint inhibition	T040	C2255931
+27271951	1572	1583	development	T169	C1527148
+27271951	1587	1603	immune responses	T042	C0301872
+27271951	1612	1629	neuronal antigens	T129	C0521390
+27271951	1642	1665	autoimmune encephalitis	T047	C0393639
+27271951	1667	1684	Early recognition	T061	C0814435
+27271951	1689	1698	treatment	T169	C0039798
+27271951	1702	1725	autoimmune encephalitis	T047	C0393639
+27271951	1729	1737	patients	T101	C0030705
+27271951	1748	1782	immune checkpoint blockade therapy	T061	C0021079
+27271951	1798	1807	essential	T080	C0205224
+27271951	1823	1831	clinical	T080	C0205210
+27271951	1832	1840	recovery	T052	C0237820
+27271951	1870	1896	drug-related toxic effects	T033	C1408407
+27271951	1922	1950	immune checkpoint inhibition	T040	C2255931
+27271951	1969	1992	autoimmune encephalitis	T047	C0393639

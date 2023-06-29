@@ -1,0 +1,103 @@
+28465773|t|Treatment Patterns and Outcomes in Patients with Varicose Veins
+28465773|a|Approximately 24% of adults in the United States have visible varicose veins, and an estimated 6% have evidence of advanced chronic venous disease. The majority of individuals with varicose veins seek treatment because of symptoms, such as aching, throbbing, fatigue, pruritus, ankle swelling, and tenderness, rather than cosmetic reasons. Furthermore, varicose veins are a manifestation of chronic venous insufficiency, which can progress to leg pain, leg edema, chronic skin changes, and nonhealing ulcers. To assess varicose vein treatment patterns and their corresponding outcomes, including additional treatment rates, disease progression to new ulcers, and associated costs from a US perspective. We conducted a retrospective claims database study using data from the Truven Health MarketScan database. Adults who were newly diagnosed with varicose veins between January 1, 2008, and June 30, 2010, and met the study inclusion criteria were eligible to participate and were divided into 6 cohorts based on the type of first or initial therapy they received after the index diagnosis date, including surveillance and compression therapy, surgery, laser ablation, radiofrequency ablation, sclerotherapy, or multiple therapies. The patients were followed for 2 years after the index diagnosis date to assess their treatment patterns and outcomes. A total of 144,098 patients met the study criteria. Of these patients, 100,072 (69.5%) were under surveillance for disease progression and/or received compression therapy; 14,007 (9.7%) received laser ablation; 9125 (6.3%) received radiofrequency ablation; 4778 (3.3%) received sclerotherapy; 4851 (3.4%) had surgery; and 11,265 (7.8%) received multiple therapies. During the 2-year follow-up period, among patients receiving interventional treatment, 54.7% of patients received additional interventional treatment (either with the same mode or a different mode from the initial treatment); 30.1% had >1 postintervention claim for symptomatic varicose veins (not including additional procedures) at 8 weeks; and 44.2% had >1 postintervention claim for symptomatic varicose veins at 1 year after the initial interventional therapy. A majority of the patients in the study received conservative management. For patients receiving interventional therapy, the outcomes varied based on the treatment cohort. The surgery cohort was associated with the most favorable outcome regarding the need for additional treatment and evidence of postintervention claims for symptomatic varicose veins, followed by the multiple therapies cohort. A better understanding of these treatment outcomes in the real-world setting may affect new strategies to improve the management of patients with varicose veins.
+28465773	0	18	Treatment Patterns	T061	C0087111
+28465773	23	31	Outcomes	T080	C0085415
+28465773	35	43	Patients	T101	C0030705
+28465773	49	63	Varicose Veins	T047	C0042345
+28465773	85	91	adults	T100	C0001675
+28465773	99	112	United States	T083	C0041703
+28465773	126	140	varicose veins	T047	C0042345
+28465773	188	195	chronic	T079	C0205191
+28465773	196	210	venous disease	T047	C0235522
+28465773	228	239	individuals	T098	C0237401
+28465773	245	259	varicose veins	T047	C0042345
+28465773	265	274	treatment	T061	C0087111
+28465773	286	294	symptoms	T184	C1457887
+28465773	304	310	aching	T184	C0234238
+28465773	312	321	throbbing	T033	C0030252
+28465773	323	330	fatigue	T184	C0015672
+28465773	332	340	pruritus	T184	C0033774
+28465773	342	356	ankle swelling	T033	C0235439
+28465773	362	372	tenderness	T184	C0234233
+28465773	386	394	cosmetic	T073	C0010164
+28465773	417	431	varicose veins	T047	C0042345
+28465773	438	454	manifestation of	T080	C1280464
+28465773	455	483	chronic venous insufficiency	T047	C1306557
+28465773	507	515	leg pain	T184	C0023222
+28465773	517	526	leg edema	T046	C0235886
+28465773	528	548	chronic skin changes	T184	C1399787
+28465773	565	571	ulcers	T047	C0041582
+28465773	583	596	varicose vein	T047	C0042345
+28465773	597	615	treatment patterns	T061	C0087111
+28465773	640	648	outcomes	T080	C0085415
+28465773	688	707	disease progression	T046	C0242656
+28465773	715	721	ulcers	T047	C0041582
+28465773	738	743	costs	T081	C0087112
+28465773	751	753	US	T083	C0041703
+28465773	754	765	perspective	UnknownType	C0678958
+28465773	803	811	database	T170	C0242356
+28465773	812	817	study	T062	C2603343
+28465773	824	828	data	T078	C1511726
+28465773	838	871	Truven Health MarketScan database	T170	C0242356
+28465773	873	879	Adults	T100	C0001675
+28465773	895	904	diagnosed	T033	C0011900
+28465773	910	924	varicose veins	T047	C0042345
+28465773	1059	1066	cohorts	T098	C0599755
+28465773	1105	1112	therapy	T061	C0087111
+28465773	1143	1157	diagnosis date	T079	C2316983
+28465773	1169	1181	surveillance	T061	C0038842
+28465773	1186	1205	compression therapy	T061	C0565514
+28465773	1207	1214	surgery	T061	C0543467
+28465773	1216	1230	laser ablation	T061	C0348007
+28465773	1232	1255	radiofrequency ablation	T061	C0850292
+28465773	1257	1270	sclerotherapy	T061	C0036435
+28465773	1284	1293	therapies	T061	C0087111
+28465773	1299	1307	patients	T101	C0030705
+28465773	1328	1333	years	T079	C0439234
+28465773	1350	1364	diagnosis date	T079	C2316983
+28465773	1381	1399	treatment patterns	T061	C0087111
+28465773	1404	1412	outcomes	T080	C0085415
+28465773	1433	1441	patients	T101	C0030705
+28465773	1475	1483	patients	T101	C0030705
+28465773	1512	1524	surveillance	T061	C0038842
+28465773	1529	1548	disease progression	T046	C0242656
+28465773	1565	1584	compression therapy	T061	C0565514
+28465773	1609	1623	laser ablation	T061	C0348007
+28465773	1646	1669	radiofrequency ablation	T061	C0850292
+28465773	1692	1705	sclerotherapy	T061	C0036435
+28465773	1723	1730	surgery	T061	C0543467
+28465773	1768	1777	therapies	T061	C0087111
+28465773	1790	1796	2-year	T079	C0439234
+28465773	1797	1806	follow-up	T058	C1522577
+28465773	1821	1829	patients	T101	C0030705
+28465773	1840	1864	interventional treatment	T061	C0184661
+28465773	1875	1883	patients	T101	C0030705
+28465773	1904	1928	interventional treatment	T061	C0184661
+28465773	2018	2034	postintervention	T079	C1254367
+28465773	2057	2071	varicose veins	T047	C0042345
+28465773	2115	2120	weeks	T079	C0439230
+28465773	2139	2155	postintervention	T079	C1254367
+28465773	2178	2192	varicose veins	T047	C0042345
+28465773	2198	2202	year	T079	C0439234
+28465773	2221	2243	interventional therapy	T061	C0184661
+28465773	2263	2271	patients	T101	C0030705
+28465773	2279	2284	study	T062	C2603343
+28465773	2323	2331	patients	T101	C0030705
+28465773	2323	2331	patients	T101	C0030705
+28465773	2342	2364	interventional therapy	T061	C0184661
+28465773	2370	2378	outcomes	T080	C0085415
+28465773	2399	2408	treatment	T061	C0087111
+28465773	2409	2415	cohort	T098	C0599755
+28465773	2421	2428	surgery	T061	C0543467
+28465773	2429	2435	cohort	T098	C0599755
+28465773	2440	2455	associated with	T080	C0332281
+28465773	2475	2482	outcome	T080	C0085415
+28465773	2517	2526	treatment	T061	C0087111
+28465773	2543	2559	postintervention	T079	C1254367
+28465773	2583	2597	varicose veins	T047	C0042345
+28465773	2624	2633	therapies	T061	C0087111
+28465773	2634	2640	cohort	T098	C0599755
+28465773	2674	2692	treatment outcomes	T080	C0085415
+28465773	2760	2770	management	T058	C0030677
+28465773	2774	2782	patients	T101	C0030705
+28465773	2788	2802	varicose veins	T047	C0042345

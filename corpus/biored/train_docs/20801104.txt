@@ -1,0 +1,38 @@
+20801104|t|Association study of polymorphisms in the promoter region of DRD4 with schizophrenia, depression, and heroin addiction.
+20801104|a|This study investigated the possible association between three functional polymorphisms in the promoter region of the dopamine D4 receptor (DRD4) gene and schizophrenia, depression, and heroin addiction. Genomic DNA was isolated from the venous blood leukocytes of 322 unrelated patients with schizophrenia, 156 patients with depression, 300 patients with heroin addiction, and 300 healthy unrelated individuals. Polymorphisms in the promoter region of DRD4 (-120 bp duplication, -616C/G, and -521C/T) were genotyped using allele-specific polymerase chain reaction analysis. Genotype and allele were analyzed using SPSS 11.5 software. Results of this analysis indicated that there is a strong finding of -120 bp duplication allele frequencies with schizophrenia (p=0.008) and weak finding with -1240 L/S and for paranoid schizophrenia (p=0.022). Interestingly, there is a stronger finding with -521 C/T allele frequencies with heroin dependence (p=0.0002). These observations strongly suggest that the -120-bp duplication polymorphism of DRD4 is associated with schizophrenia and that the -521 C/T polymorphism is associated with heroin addiction.
+20801104	61	65	DRD4	GeneOrGeneProduct	1815
+20801104	71	84	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+20801104	86	96	depression	DiseaseOrPhenotypicFeature	D003866
+20801104	102	118	heroin addiction	DiseaseOrPhenotypicFeature	D006556
+20801104	238	258	dopamine D4 receptor	GeneOrGeneProduct	1815
+20801104	260	264	DRD4	GeneOrGeneProduct	1815
+20801104	275	288	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+20801104	290	300	depression	DiseaseOrPhenotypicFeature	D003866
+20801104	306	322	heroin addiction	DiseaseOrPhenotypicFeature	D006556
+20801104	399	407	patients	OrganismTaxon	9606
+20801104	413	426	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+20801104	432	440	patients	OrganismTaxon	9606
+20801104	446	456	depression	DiseaseOrPhenotypicFeature	D003866
+20801104	462	470	patients	OrganismTaxon	9606
+20801104	476	492	heroin addiction	DiseaseOrPhenotypicFeature	D006556
+20801104	573	577	DRD4	GeneOrGeneProduct	1815
+20801104	579	598	-120 bp duplication	SequenceVariant	c|DUP|-120||
+20801104	600	607	-616C/G	SequenceVariant	rs747302
+20801104	613	620	-521C/T	SequenceVariant	rs1800955
+20801104	824	843	-120 bp duplication	SequenceVariant	c|DUP|-120||
+20801104	868	881	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+20801104	914	923	-1240 L/S	SequenceVariant	p|SUB|L|-1240|S
+20801104	932	954	paranoid schizophrenia	DiseaseOrPhenotypicFeature	D012563
+20801104	1014	1022	-521 C/T	SequenceVariant	rs1800955
+20801104	1047	1064	heroin dependence	DiseaseOrPhenotypicFeature	D006556
+20801104	1122	1141	-120-bp duplication	SequenceVariant	c|DUP|-120||
+20801104	1158	1162	DRD4	GeneOrGeneProduct	1815
+20801104	1182	1195	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+20801104	1209	1217	-521 C/T	SequenceVariant	rs1800955
+20801104	1250	1266	heroin addiction	DiseaseOrPhenotypicFeature	D006556
+20801104	Positive_Correlation	rs1800955	D006556	Novel
+20801104	Positive_Correlation	p|SUB|L|-1240|S	D012563	Novel
+20801104	Positive_Correlation	c|DUP|-120||	D012559	Novel
+20801104	Association	1815	D006556	Novel
+20801104	Association	1815	D012563	Novel
+20801104	Association	1815	D012559	Novel

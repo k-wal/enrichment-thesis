@@ -1,0 +1,71 @@
+27446852|t|Duodenal Villous Atrophy in a TTG - Negative Patient Taking Olmesartan: A Case Report and Review of the Literature
+27446852|a|Olmesartan, an angiotensin II receptor antagonist used to treat hypertension, is associated with few adverse effects. Here, a case of severe sprue-like enteropathy and acute kidney injury is described in a 68-year-old male taking olmesartan for 3-4 years. He presented to hospital with a five-week history of diarrhea, vomiting, and a 20 lb weight loss. Anti-TTG was negative with a normal IgA. Biopsies of the distal duodenum and duodenal cap revealed marked blunting of the villi with near complete villous atrophy of the biopsies from the bulb. There was an increase in intraepithelial lymphocytes as well as neutrophils in the surface epithelium. The patient's diarrhea improved upon discontinuation of olmesartan and he returned to his previous weight. Repeat endoscopy four months later demonstrated complete resolution of inflammatory change with normal villous architecture. Long-term olmesartan use is associated with severe sprue-like enteropathy. The mechanism of intestinal injury is unknown. Duodenal biopsy results may mimic other enteropathies such as celiac disease. Physicians should consider medications as potential etiologies of enteropathy.
+27446852	0	24	Duodenal Villous Atrophy	T033	C2677378
+27446852	30	33	TTG	T059	C2116871
+27446852	36	44	Negative	T033	C0205160
+27446852	45	52	Patient	T101	C0030705
+27446852	60	70	Olmesartan	T109,T121	C1098320
+27446852	74	85	Case Report	T170	C0085973
+27446852	90	114	Review of the Literature	T170	C0282441
+27446852	115	125	Olmesartan	T109,T121	C1098320
+27446852	130	164	angiotensin II receptor antagonist	T121	C0521942
+27446852	173	178	treat	T061	C0087111
+27446852	179	191	hypertension	T047	C0020538
+27446852	196	211	associated with	T080	C0332281
+27446852	216	231	adverse effects	T046	C0879626
+27446852	249	255	severe	T080	C0205082
+27446852	256	278	sprue-like enteropathy	T047	C0021831
+27446852	283	302	acute kidney injury	T037	C2609414
+27446852	333	337	male	T032	C0086582
+27446852	345	355	olmesartan	T109,T121	C1098320
+27446852	364	369	years	T079	C0439234
+27446852	387	395	hospital	T073,T093	C0019994
+27446852	413	420	history	T033	C0262926
+27446852	424	432	diarrhea	T184	C0011991
+27446852	434	442	vomiting	T184	C0042963
+27446852	456	467	weight loss	T033	C1262477
+27446852	469	477	Anti-TTG	T033	C2673846
+27446852	482	490	negative	T033	C0205160
+27446852	498	504	normal	T080	C0205307
+27446852	505	508	IgA	T116,T129	C0020835
+27446852	510	518	Biopsies	T060	C0005558
+27446852	526	541	distal duodenum	T023	C0013303
+27446852	546	558	duodenal cap	T023	C1284424
+27446852	575	583	blunting	T080	C1997138
+27446852	591	596	villi	T023	C0227266
+27446852	616	631	villous atrophy	T047	C0267456
+27446852	639	647	biopsies	T060	C0005558
+27446852	657	661	bulb	T023	C0227300
+27446852	676	684	increase	T169	C0442805
+27446852	688	703	intraepithelial	T082	C1512942
+27446852	704	715	lymphocytes	T025	C0024264
+27446852	727	738	neutrophils	T025	C0027950
+27446852	746	764	surface epithelium	T029	C1182809
+27446852	770	779	patient's	T101	C0030705
+27446852	780	788	diarrhea	T184	C0011991
+27446852	789	797	improved	T033	C0184511
+27446852	803	818	discontinuation	T058	C0457454
+27446852	822	832	olmesartan	T109,T121	C1098320
+27446852	865	871	weight	T032	C0005910
+27446852	880	889	endoscopy	T060	C0014245
+27446852	895	901	months	T079	C0439231
+27446852	930	940	resolution	T046	C1514893
+27446852	944	956	inflammatory	T169	C0333348
+27446852	957	963	change	T169	C0392747
+27446852	969	975	normal	T080	C0205307
+27446852	976	983	villous	T023	C0227266
+27446852	998	1007	Long-term	T079	C0443252
+27446852	1008	1018	olmesartan	T109,T121	C1098320
+27446852	1026	1041	associated with	T080	C0332281
+27446852	1042	1048	severe	T080	C0205082
+27446852	1049	1071	sprue-like enteropathy	T047	C0021831
+27446852	1077	1086	mechanism	T169	C0441712
+27446852	1090	1107	intestinal injury	T037	C0564863
+27446852	1120	1135	Duodenal biopsy	T060	C0399805
+27446852	1160	1173	enteropathies	T047	C0021831
+27446852	1182	1196	celiac disease	T047	C0007570
+27446852	1198	1208	Physicians	T097	C0031831
+27446852	1225	1236	medications	T058	C2081612
+27446852	1240	1249	potential	T080	C3245505
+27446852	1250	1260	etiologies	T169	C1314792
+27446852	1264	1275	enteropathy	T047	C0021831

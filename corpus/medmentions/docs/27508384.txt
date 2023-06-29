@@ -1,0 +1,116 @@
+27508384|t|Integration of Serum Protein Biomarker and Tumor Associated Autoantibody Expression Data Increases the Ability of a Blood-Based Proteomic Assay to Identify Breast Cancer
+27508384|a|Despite significant advances in breast imaging, the ability to accurately detect Breast Cancer (BC) remains a challenge. With the discovery of key biomarkers and protein signatures for BC, proteomic technologies are currently poised to serve as an ideal diagnostic adjunct to imaging. Research studies have shown that breast tumors are associated with systemic changes in levels of both serum protein biomarkers (SPB) and tumor associated autoantibodies (TAAb). However, the independent contribution of SPB and TAAb expression data for identifying BC relative to a combinatorial SPB and TAAb approach has not been fully investigated. This study evaluates these contributions using a retrospective cohort of pre - biopsy serum samples with known clinical outcomes collected from a single site, thus minimizing potential site-to-site variation and enabling direct assessment of SPB and TAAb contributions to identify BC. All serum samples (n = 210) were collected prior to biopsy. These specimens were obtained from 18 participants with no evidence of breast disease (ND), 92 participants diagnosed with Benign Breast Disease (BBD) and 100 participants diagnosed with BC, including DCIS. All BBD and BC diagnoses were based on pathology results from biopsy. Statistical models were developed to differentiate BC from non-BC (i.e., BBD and ND) using expression data from SPB alone, TAAb alone, and a combination of SPB and TAAb. When SPB data was independently used for modeling, clinical sensitivity and specificity for detection of BC were 74.7% and 77.0%, respectively. When TAAb data was independently used, clinical sensitivity and specificity for detection of BC were 72.2% and 70.8%, respectively. When modeling integrated data from both SPB and TAAb, the clinical sensitivity and specificity for detection of BC improved to 81.0% and 78.8%, respectively. These data demonstrate the benefit of the integration of SPB and TAAb data and strongly support the further development of combinatorial proteomic approaches for detecting BC.
+27508384	0	11	Integration	T066	C1705422
+27508384	15	28	Serum Protein	T116,T123	C0036825
+27508384	29	38	Biomarker	T201	C0005516
+27508384	43	48	Tumor	T191	C0027651
+27508384	60	72	Autoantibody	T116,T129	C0004358
+27508384	73	83	Expression	T045	C1171362
+27508384	84	88	Data	T078	C1511726
+27508384	116	143	Blood-Based Proteomic Assay	T059	C1510438
+27508384	156	169	Breast Cancer	T191	C0006142
+27508384	202	216	breast imaging	T060	C1134632
+27508384	244	250	detect	T033	C0442726
+27508384	251	264	Breast Cancer	T191	C0006142
+27508384	266	268	BC	T191	C0006142
+27508384	313	327	key biomarkers	T201	C0005516
+27508384	332	350	protein signatures	T034	C3463810
+27508384	355	357	BC	T191	C0006142
+27508384	359	368	proteomic	T059	C1327760
+27508384	369	381	technologies	T090	C0039421
+27508384	424	442	diagnostic adjunct	T058	C3161326
+27508384	446	453	imaging	T060	C0011923
+27508384	455	471	Research studies	T062	C0681814
+27508384	488	501	breast tumors	T191	C0006142
+27508384	506	521	associated with	T080	C0332281
+27508384	522	530	systemic	T169	C0205373
+27508384	531	538	changes	T169	C0392747
+27508384	542	548	levels	T080	C0441889
+27508384	557	581	serum protein biomarkers	T201	C0005516
+27508384	583	586	SPB	T201	C0005516
+27508384	592	623	tumor associated autoantibodies	T116,T129	C0004358
+27508384	625	629	TAAb	T116,T129	C0004358
+27508384	657	669	contribution	T052	C1880177
+27508384	673	676	SPB	T201	C0005516
+27508384	681	685	TAAb	T116,T129	C0004358
+27508384	686	696	expression	T045	C1171362
+27508384	697	701	data	T078	C1511726
+27508384	718	720	BC	T191	C0006142
+27508384	735	748	combinatorial	T080	C0205195
+27508384	749	752	SPB	T201	C0005516
+27508384	757	761	TAAb	T116,T129	C0004358
+27508384	790	802	investigated	T169	C1292732
+27508384	809	814	study	T062	C2603343
+27508384	815	824	evaluates	T058	C0220825
+27508384	831	844	contributions	T052	C1880177
+27508384	853	873	retrospective cohort	T062	C2985505
+27508384	877	880	pre	T079	C0332152
+27508384	883	889	biopsy	T060	C0005558
+27508384	890	903	serum samples	T031	C1550100
+27508384	915	932	clinical outcomes	T034	C0456984
+27508384	957	961	site	T029	C1515974
+27508384	968	978	minimizing	T080	C0392756
+27508384	989	1001	site-to-site	T082	C1254362
+27508384	1002	1011	variation	T033	C1846356
+27508384	1032	1042	assessment	T052	C1516048
+27508384	1046	1049	SPB	T201	C0005516
+27508384	1054	1058	TAAb	T116,T129	C0004358
+27508384	1059	1072	contributions	T052	C1880177
+27508384	1085	1087	BC	T191	C0006142
+27508384	1093	1106	serum samples	T031	C1550100
+27508384	1132	1140	prior to	T079	C0332152
+27508384	1141	1147	biopsy	T060	C0005558
+27508384	1155	1164	specimens	T167	C0370003
+27508384	1187	1199	participants	T098	C0679646
+27508384	1205	1234	no evidence of breast disease	T033	C1276755
+27508384	1236	1238	ND	T033	C1276755
+27508384	1244	1256	participants	T098	C0679646
+27508384	1257	1266	diagnosed	T033	C0011900
+27508384	1272	1293	Benign Breast Disease	T047	C0016034
+27508384	1295	1298	BBD	T047	C0016034
+27508384	1308	1320	participants	T098	C0679646
+27508384	1321	1330	diagnosed	T033	C0011900
+27508384	1336	1338	BC	T191	C0006142
+27508384	1350	1354	DCIS	T191	C0007124
+27508384	1360	1363	BBD	T047	C0016034
+27508384	1368	1370	BC	T191	C0006142
+27508384	1371	1380	diagnoses	T033	C0011900
+27508384	1395	1404	pathology	T091	C0030664
+27508384	1405	1412	results	T169	C1274040
+27508384	1418	1424	biopsy	T060	C0005558
+27508384	1426	1444	Statistical models	T081,T170	C0026348
+27508384	1477	1479	BC	T191	C0006142
+27508384	1499	1502	BBD	T047	C0016034
+27508384	1507	1509	ND	T033	C1276755
+27508384	1517	1527	expression	T045	C1171362
+27508384	1528	1532	data	T078	C1511726
+27508384	1538	1541	SPB	T201	C0005516
+27508384	1549	1553	TAAb	T116,T129	C0004358
+27508384	1567	1578	combination	T080	C0205195
+27508384	1582	1585	SPB	T201	C0005516
+27508384	1590	1594	TAAb	T116,T129	C0004358
+27508384	1601	1604	SPB	T201	C0005516
+27508384	1605	1609	data	T078	C1511726
+27508384	1637	1645	modeling	T062	C0870071
+27508384	1647	1667	clinical sensitivity	T062	C1516631
+27508384	1672	1683	specificity	T081	C0037791
+27508384	1701	1703	BC	T191	C0006142
+27508384	1745	1749	TAAb	T116,T129	C0004358
+27508384	1750	1754	data	T078	C1511726
+27508384	1779	1799	clinical sensitivity	T062	C1516631
+27508384	1804	1815	specificity	T081	C0037791
+27508384	1820	1829	detection	T033	C0442726
+27508384	1833	1835	BC	T191	C0006142
+27508384	1877	1885	modeling	T062	C0870071
+27508384	1886	1901	integrated data	T078	C1511726
+27508384	1912	1915	SPB	T201	C0005516
+27508384	1920	1924	TAAb	T116,T129	C0004358
+27508384	1930	1950	clinical sensitivity	T062	C1516631
+27508384	1955	1966	specificity	T081	C0037791
+27508384	1984	1986	BC	T191	C0006142
+27508384	2036	2040	data	T078	C1511726
+27508384	2072	2083	integration	T066	C1705422
+27508384	2087	2090	SPB	T201	C0005516
+27508384	2095	2099	TAAb	T116,T129	C0004358
+27508384	2100	2104	data	T078	C1511726
+27508384	2202	2204	BC	T191	C0006142

@@ -1,0 +1,114 @@
+27490927|t|TLR and NLRP3 inflammasome - dependent innate immune responses to tumor-derived autophagosomes (DRibbles)
+27490927|a|Autophagosomes derived from tumor cells, also referred to as defective ribosomal products in blebs (DRibbles), have been previously shown to stimulate potent T-cell responses and mediate tumor regression when used as therapeutic cancer vaccines in multiple preclinical cancer models. In this report, we investigated the underlining mechanisms by which DRibbles induced T-cell activation, particularly how DRibbles activated antigen-presenting cells (APCs). We found that DRibbles could induce a rapid differentiation of monocytes and DC precursor (pre-DC) cells into functional APCs. DRibbles triggered innate receptor signaling via Toll-like Receptors (TLR)-2, TLR4, TLR7, TLR8, and nucleotide-binding oligomerization domain-containing protein 2 (NOD2), but not TLR3, TLR5, or TLR9. DRibbles induced PBMCs to produce pro-inflammatory cytokines, such as IL-6, IL-10, TNF-α, and IL-1β. DRibbles induced IL-1β release from PBMC or THP-1 cells without LPS priming, but required the core machinery of NLRP3 inflammasomes. Active endocytosis was required for inflammasome activation and cross presentation, and blocking endosome acidification or the ER-associated degradation (ERAD) pathway resulted in opposite effects on these two processes. Our data show that DRibbles could induce strong innate immune responses via multiple pattern recognition receptors, and explain why DRibbles could function as excellent antigen carriers to induce adaptive immune responses to both tumor cells and viruses. In contrast to the well-established inhibitory effect of autophagy on the inflammasome activation of APCs, our study demonstrates that isolated autophagosomes (DRibbles) from antigen donor cells activate inflammasomes by providing first and second signals required for IL-1β production by PMBC.
+27490927	0	3	TLR	T116,T192	C0670896
+27490927	8	13	NLRP3	T116,T123	C1384660
+27490927	14	26	inflammasome	T116,T123	C2936529
+27490927	29	38	dependent	T080	C0851827
+27490927	39	62	innate immune responses	T032	C0020969
+27490927	66	79	tumor-derived	T169	C1519667
+27490927	80	94	autophagosomes	T026	C3887595
+27490927	96	104	DRibbles	T026	C3887595
+27490927	106	120	Autophagosomes	T026	C3887595
+27490927	121	128	derived	T080	C1441547
+27490927	134	145	tumor cells	T025	C0597032
+27490927	167	195	defective ribosomal products	T026	C3887595
+27490927	199	204	blebs	T046	C0005758
+27490927	206	214	DRibbles	T026	C3887595
+27490927	247	256	stimulate	T169	C0205245
+27490927	264	270	T-cell	T025	C0039194
+27490927	271	280	responses	T043	C0007613
+27490927	293	309	tumor regression	T201	C1718423
+27490927	323	334	therapeutic	T169	C0302350
+27490927	335	350	cancer vaccines	T116,T121,T129	C0376659
+27490927	354	362	multiple	T081	C0439064
+27490927	363	374	preclinical	T080	C1709630
+27490927	375	388	cancer models	T050	C1516211
+27490927	398	404	report	T170	C0684224
+27490927	409	421	investigated	T169	C1292732
+27490927	438	448	mechanisms	T169	C0441712
+27490927	458	466	DRibbles	T026	C3887595
+27490927	467	474	induced	T169	C0205263
+27490927	475	492	T-cell activation	T043	C1155065
+27490927	511	519	DRibbles	T026	C3887595
+27490927	520	529	activated	T043	C1326120
+27490927	530	554	antigen-presenting cells	T025	C0003315
+27490927	556	560	APCs	T025	C0003315
+27490927	577	585	DRibbles	T026	C3887595
+27490927	592	598	induce	T169	C0205263
+27490927	607	622	differentiation	T043	C0007589
+27490927	626	635	monocytes	T025	C0026473
+27490927	640	667	DC precursor (pre-DC) cells	T025	C0003315
+27490927	673	683	functional	T169	C0205245
+27490927	684	688	APCs	T025	C0003315
+27490927	690	698	DRibbles	T026	C3887595
+27490927	699	708	triggered	T080	C1444748
+27490927	709	734	innate receptor signaling	T044	C1514762
+27490927	739	766	Toll-like Receptors (TLR)-2	T116,T192	C0754728
+27490927	768	772	TLR4	T116,T192	C1411976
+27490927	774	778	TLR7	T116,T129,T192	C1579758
+27490927	780	784	TLR8	T116,T192	C1579755
+27490927	790	852	nucleotide-binding oligomerization domain-containing protein 2	T116	C2698508
+27490927	854	858	NOD2	T116	C2698508
+27490927	869	873	TLR3	T116,T192	C1534866
+27490927	875	879	TLR5	T116,T192	C0966553
+27490927	884	888	TLR9	T116,T129,T192	C0963057
+27490927	890	898	DRibbles	T026	C3887595
+27490927	899	906	induced	T169	C0205263
+27490927	907	912	PBMCs	T025	C1321301
+27490927	924	950	pro-inflammatory cytokines	T116,T129	C0079189
+27490927	960	964	IL-6	T116,T129	C0021760
+27490927	966	971	IL-10	T116,T129	C0085295
+27490927	973	978	TNF-α	T116,T129	C1456820
+27490927	984	989	IL-1β	T116,T129	C0021753
+27490927	991	999	DRibbles	T026	C3887595
+27490927	1000	1007	induced	T169	C0205263
+27490927	1008	1013	IL-1β	T116,T129	C0021753
+27490927	1014	1021	release	T169	C1283071
+27490927	1027	1031	PBMC	T025	C1321301
+27490927	1035	1046	THP-1 cells	T025	C0682523
+27490927	1055	1058	LPS	T109	C0023810
+27490927	1059	1066	priming	T169	C0871133
+27490927	1085	1089	core	T082	C0444669
+27490927	1090	1099	machinery	T080	C0205556
+27490927	1103	1122	NLRP3 inflammasomes	T026	C3156614
+27490927	1124	1130	Active	T169	C0205177
+27490927	1131	1142	endocytosis	T043	C0014139
+27490927	1160	1183	inflammasome activation	T044	C3272080
+27490927	1188	1206	cross presentation	T043	C1257986
+27490927	1212	1220	blocking	T169	C0332206
+27490927	1221	1229	endosome	T026	C0034850
+27490927	1230	1243	acidification	T043	C1522821
+27490927	1251	1291	ER-associated degradation (ERAD) pathway	T043	C4235027
+27490927	1313	1320	effects	T080	C1280500
+27490927	1334	1343	processes	T067	C1522240
+27490927	1349	1353	data	T078	C1511726
+27490927	1364	1372	DRibbles	T026	C3887595
+27490927	1379	1385	induce	T169	C0205263
+27490927	1393	1416	innate immune responses	T032	C0020969
+27490927	1421	1429	multiple	T081	C0439064
+27490927	1430	1459	pattern recognition receptors	T116,T129,T192	C1564907
+27490927	1477	1485	DRibbles	T026	C3887595
+27490927	1492	1500	function	T169	C0542341
+27490927	1514	1521	antigen	T129	C0003320
+27490927	1522	1530	carriers	T169	C0205245
+27490927	1534	1540	induce	T169	C0205263
+27490927	1541	1566	adaptive immune responses	T043	C1155229
+27490927	1575	1586	tumor cells	T025	C0597032
+27490927	1591	1598	viruses	T005	C0042776
+27490927	1636	1653	inhibitory effect	T043	C0007613
+27490927	1657	1666	autophagy	T043	C0004391
+27490927	1674	1697	inflammasome activation	T044	C3272080
+27490927	1701	1705	APCs	T025	C0003315
+27490927	1711	1716	study	T062	C2603343
+27490927	1735	1743	isolated	T169	C0205409
+27490927	1744	1758	autophagosomes	T026	C3887595
+27490927	1760	1768	DRibbles	T026	C3887595
+27490927	1775	1782	antigen	T129	C0003320
+27490927	1783	1794	donor cells	T025	C0007634
+27490927	1795	1817	activate inflammasomes	T044	C3272080
+27490927	1831	1836	first	T081	C0205435
+27490927	1841	1847	second	T081	C0205436
+27490927	1848	1855	signals	T067	C1710082
+27490927	1869	1874	IL-1β	T116,T129	C0021753
+27490927	1875	1885	production	T169	C0205245
+27490927	1889	1893	PMBC	T025	C1321301

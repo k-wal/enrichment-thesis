@@ -1,0 +1,94 @@
+24623966|t|Endothelial NADPH oxidase 4 mediates vascular endothelial growth factor receptor 2-induced intravitreal neovascularization in a rat model of retinopathy of prematurity.
+24623966|a|PURPOSE: NADPH oxidase-generated reactive oxygen species (ROS) are implicated in angiogenesis. Isoforms of NADPH oxidase NOX1, NOX2, and NOX4 are reported to be expressed in endothelial cells (ECs). Of these, NOX1 and NOX2 have been reported to contribute to intravitreal neovascularization (IVNV) in oxygen-induced retinopathy (OIR) models. In this study, we tested the hypothesis that the isoform NOX4 in ECs contributed to vascular endothelial growth factor (VEGF)-induced angiogenesis and IVNV. METHODS: Isoforms of NADPH oxidase MRNA were measured in several types of cultured vascular ecs: human retinal microvascular ECs (hRMVECs), choroidal ECs (CECs), and human umbilical vascular ECs (HUVECs) using real-time PCR. Newborn rat pups and dams were placed into an OIR model that cycled oxygen concentration between 50% and 10% every 24 h for 14 days, and then were placed in room air (RA) for an additional 4 days (rat OIR model). NOX4 expression in retinal lysates from the RA-raised pups at postnatal day 0 (P0), P14, and P18 was determined with western blots. STAT3 activation was determined as the ratio of phosphorylated STAT3 to total STAT3 with western blot analysis of retinal lysates from pups raised in RA or from the rat OIR model at P18. Semiquantitative assessment of the density of NOX4 colabeling with lectin-stained retinal ECs was determined by immunolabeling of retinal cryosections from P18 pups in OIR or in RA. In hRMVECs transfected with NOX4 siRNA and treated with VEGF or control, 1) ROS generation was measured using the 5-(and-6)-chloromethyl-2',7'-dichlorodihydrofluorescein diacetate, acetyl ester fluorescence assay and 2) phosphorylated VEGF receptor 2 and STAT3, and total VEGFR2 and STAT3 were measured in western blot analyses. VEGF-stimulated hRMVEC proliferation was measured following transfection with NOX4 siRNA or STAT3 siRNA, or respective controls. RESULTS: NOX4 was the most prevalent isoform of NADPH oxidase in vascular ECs. NOX4 expression in retinal lysates was significantly decreased during development in RA. Compared to RA, the expression of retinal NOX4 increased at P18. At p18 OIR, semiquantitative assessment of the density of lectin and NOX4 colabeling in retinal vascular ECs was greater in retinal cryosections and activated STAT3 was greater in retinal lysates when compared to the RA-raised pups. In cultured hRMVECs, knockdown of NOX4 by siRNA transfection inhibited VEGF-induced ROS generation. VEGF induced a physical interaction of phosphorylated-VEGFR2 and NOX4. Knockdown of NOX4: 1) reduced VEGFR2 activation but did not abolish it and 2) abolished STAT3 activation in response to VEGF. Knockdown of either NOX4 or STAT3 inhibited VEGF-induced EC proliferation. CONCLUSIONS: Our data suggest that in a model representative of human retinopathy of prematurity, NOX4 was increased at a time point when IVNV developed. VEGF-activated NOX4 led to an interaction between VEGF-activated VEGFR2 and NOX4 that mediated EC proliferation via activation of STAT3. Altogether, our results suggest that NOX4 may regulate VEGFR2-mediated IVNV through activated STAT3.
+24623966	12	27	NADPH oxidase 4	GeneOrGeneProduct	85431
+24623966	37	82	vascular endothelial growth factor receptor 2	GeneOrGeneProduct	25589
+24623966	128	131	rat	OrganismTaxon	10116
+24623966	141	167	retinopathy of prematurity	DiseaseOrPhenotypicFeature	D012178
+24623966	178	191	NADPH oxidase	GeneOrGeneProduct	114243,50507,66021,85431
+24623966	202	225	reactive oxygen species	ChemicalEntity	D017382
+24623966	227	230	ROS	ChemicalEntity	D017382
+24623966	276	289	NADPH oxidase	GeneOrGeneProduct	114243,50507,66021,85431
+24623966	290	294	NOX1	GeneOrGeneProduct	114243
+24623966	296	300	NOX2	GeneOrGeneProduct	66021
+24623966	306	310	NOX4	GeneOrGeneProduct	85431
+24623966	378	382	NOX1	GeneOrGeneProduct	114243
+24623966	387	391	NOX2	GeneOrGeneProduct	66021
+24623966	470	476	oxygen	ChemicalEntity	D010100
+24623966	485	496	retinopathy	DiseaseOrPhenotypicFeature	D012164
+24623966	498	501	OIR	DiseaseOrPhenotypicFeature	D012164
+24623966	568	572	NOX4	GeneOrGeneProduct	85431
+24623966	595	629	vascular endothelial growth factor	GeneOrGeneProduct	83785
+24623966	631	635	VEGF	GeneOrGeneProduct	83785
+24623966	689	702	NADPH oxidase	GeneOrGeneProduct	114243,50507,66021,85431
+24623966	765	770	human	OrganismTaxon	9606
+24623966	834	839	human	OrganismTaxon	9606
+24623966	901	904	rat	OrganismTaxon	10116
+24623966	939	942	OIR	DiseaseOrPhenotypicFeature	D012164
+24623966	961	967	oxygen	ChemicalEntity	D010100
+24623966	1090	1093	rat	OrganismTaxon	10116
+24623966	1094	1097	OIR	DiseaseOrPhenotypicFeature	D012164
+24623966	1106	1110	NOX4	GeneOrGeneProduct	85431
+24623966	1238	1243	STAT3	GeneOrGeneProduct	25125
+24623966	1301	1306	STAT3	GeneOrGeneProduct	25125
+24623966	1316	1321	STAT3	GeneOrGeneProduct	25125
+24623966	1403	1406	rat	OrganismTaxon	10116
+24623966	1407	1410	OIR	DiseaseOrPhenotypicFeature	D012164
+24623966	1471	1475	NOX4	GeneOrGeneProduct	85431
+24623966	1492	1498	lectin	GeneOrGeneProduct	-
+24623966	1593	1596	OIR	DiseaseOrPhenotypicFeature	D012164
+24623966	1635	1639	NOX4	GeneOrGeneProduct	50507
+24623966	1663	1667	VEGF	GeneOrGeneProduct	7422
+24623966	1683	1686	ROS	ChemicalEntity	D017382
+24623966	1721	1800	5-(and-6)-chloromethyl-2',7'-dichlorodihydrofluorescein diacetate, acetyl ester	ChemicalEntity	-
+24623966	1842	1857	VEGF receptor 2	GeneOrGeneProduct	3791
+24623966	1862	1867	STAT3	GeneOrGeneProduct	6774
+24623966	1879	1885	VEGFR2	GeneOrGeneProduct	3791
+24623966	1890	1895	STAT3	GeneOrGeneProduct	6774
+24623966	1936	1940	VEGF	GeneOrGeneProduct	7422
+24623966	2014	2018	NOX4	GeneOrGeneProduct	50507
+24623966	2028	2033	STAT3	GeneOrGeneProduct	6774
+24623966	2074	2078	NOX4	GeneOrGeneProduct	50507
+24623966	2113	2126	NADPH oxidase	GeneOrGeneProduct	114243,50507,66021,85431
+24623966	2144	2148	NOX4	GeneOrGeneProduct	85431
+24623966	2275	2279	NOX4	GeneOrGeneProduct	85431
+24623966	2305	2308	OIR	DiseaseOrPhenotypicFeature	D012164
+24623966	2356	2362	lectin	GeneOrGeneProduct	-
+24623966	2367	2371	NOX4	GeneOrGeneProduct	85431
+24623966	2457	2462	STAT3	GeneOrGeneProduct	25125
+24623966	2565	2569	NOX4	GeneOrGeneProduct	50507
+24623966	2602	2606	VEGF	GeneOrGeneProduct	7422
+24623966	2615	2618	ROS	ChemicalEntity	D017382
+24623966	2631	2635	VEGF	GeneOrGeneProduct	7422
+24623966	2685	2691	VEGFR2	GeneOrGeneProduct	3791
+24623966	2696	2700	NOX4	GeneOrGeneProduct	50507
+24623966	2715	2719	NOX4	GeneOrGeneProduct	50507
+24623966	2732	2738	VEGFR2	GeneOrGeneProduct	3791
+24623966	2790	2795	STAT3	GeneOrGeneProduct	6774
+24623966	2822	2826	VEGF	GeneOrGeneProduct	7422
+24623966	2848	2852	NOX4	GeneOrGeneProduct	50507
+24623966	2856	2861	STAT3	GeneOrGeneProduct	6774
+24623966	2872	2876	VEGF	GeneOrGeneProduct	7422
+24623966	2967	2972	human	OrganismTaxon	9606
+24623966	2973	2999	retinopathy of prematurity	DiseaseOrPhenotypicFeature	D012178
+24623966	3001	3005	NOX4	GeneOrGeneProduct	85431
+24623966	3057	3061	VEGF	GeneOrGeneProduct	7422
+24623966	3072	3076	NOX4	GeneOrGeneProduct	50507
+24623966	3107	3111	VEGF	GeneOrGeneProduct	7422
+24623966	3122	3128	VEGFR2	GeneOrGeneProduct	3791
+24623966	3133	3137	NOX4	GeneOrGeneProduct	50507
+24623966	3187	3192	STAT3	GeneOrGeneProduct	6774
+24623966	3231	3235	NOX4	GeneOrGeneProduct	85431
+24623966	3249	3255	VEGFR2	GeneOrGeneProduct	25589
+24623966	3288	3293	STAT3	GeneOrGeneProduct	25125
+24623966	Association	6774	7422	Novel
+24623966	Positive_Correlation	7422	3791	Novel
+24623966	Positive_Correlation	7422	D017382	No
+24623966	Positive_Correlation	66021	D017382	No
+24623966	Positive_Correlation	50507	6774	Novel
+24623966	Positive_Correlation	50507	3791	Novel
+24623966	Association	50507	7422	Novel
+24623966	Positive_Correlation	50507	D017382	Novel
+24623966	Positive_Correlation	114243	D017382	No
+24623966	Positive_Correlation	D010100	D012164	No
+24623966	Positive_Correlation	85431	D017382	No
+24623966	Association	85431	25589	Novel

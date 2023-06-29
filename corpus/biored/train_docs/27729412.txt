@@ -1,0 +1,57 @@
+27729412|t|Reduced adiponectin expression after high-fat diet is associated with selective up-regulation of ALDH1A1 and further retinoic acid receptor signaling in adipose tissue.
+27729412|a|Adiponectin is an adipocyte-derived adipokine with potent antidiabetic, anti-inflammatory, and antiatherogenic activity. Long-term, high-fat diet results in gain of body weight, adiposity, further inflammatory-based cardiovascular diseases, and reduced adiponectin secretion. Vitamin A derivatives/retinoids are involved in several of these processes, which mainly take place in white adipose tissue (WAT). In this study, we examined adiponectin expression as a function of dietary high-fat and high-vitamin A conditions in mice. A decrease of adiponectin expression in addition to an up-regulation of aldehyde dehydrogenase A1 (ALDH1A1), retinoid signaling, and retinoic acid response element signaling was selectively observed in WAT of mice fed a normal-vitamin A, high-fat diet. Reduced adiponectin expression in WAT was also observed in mice fed a high-vitamin A diet. Adipocyte cell culture revealed that endogenous and synthetic retinoic acid receptor (RAR)a- and RARg-selective agonists, as well as a synthetic retinoid X receptor agonist, efficiently reduced adiponectin expression, whereas ALDH1A1 expression only increased with RAR agonists. We conclude that reduced adiponectin expression under high-fat dietary conditions is dependent on 1) increased ALDH1A1 expression in adipocytes, which does not increase all-trans-retinoic acid levels; 2) further RAR ligand-induced, WAT-selective, increased retinoic acid response element-mediated signaling; and 3) RAR ligand-dependent reduction of adiponectin expression.-Landrier, J.-F., Kasiri, E., Karkeni, E., Mihaly, J., Beke, G., Weiss, K., Lucas, R., Aydemir, G., Salles, J., Walrand, S., de Lera, A. R., Ruhl, R. Reduced adiponectin expression after high-fat diet is associated with selective up-regulation of ALDH1A1 and further retinoic acid receptor signaling in adipose tissue.
+27729412	8	19	adiponectin	GeneOrGeneProduct	11450
+27729412	97	104	ALDH1A1	GeneOrGeneProduct	11668
+27729412	117	139	retinoic acid receptor	GeneOrGeneProduct	19401,19411,20181
+27729412	169	180	Adiponectin	GeneOrGeneProduct	11450
+27729412	205	214	adipokine	GeneOrGeneProduct	11450
+27729412	246	258	inflammatory	DiseaseOrPhenotypicFeature	D007249
+27729412	347	356	adiposity	DiseaseOrPhenotypicFeature	D009765
+27729412	366	378	inflammatory	DiseaseOrPhenotypicFeature	D007249
+27729412	385	408	cardiovascular diseases	DiseaseOrPhenotypicFeature	D002318
+27729412	422	433	adiponectin	GeneOrGeneProduct	11450
+27729412	445	454	Vitamin A	ChemicalEntity	D014801
+27729412	467	476	retinoids	ChemicalEntity	D012176
+27729412	603	614	adiponectin	GeneOrGeneProduct	11450
+27729412	669	678	vitamin A	ChemicalEntity	D014801
+27729412	693	697	mice	OrganismTaxon	10090
+27729412	713	724	adiponectin	GeneOrGeneProduct	11450
+27729412	771	796	aldehyde dehydrogenase A1	GeneOrGeneProduct	11668
+27729412	798	805	ALDH1A1	GeneOrGeneProduct	11668
+27729412	832	845	retinoic acid	ChemicalEntity	D014212
+27729412	908	912	mice	OrganismTaxon	10090
+27729412	926	935	vitamin A	ChemicalEntity	D014801
+27729412	960	971	adiponectin	GeneOrGeneProduct	11450
+27729412	1011	1015	mice	OrganismTaxon	10090
+27729412	1027	1036	vitamin A	ChemicalEntity	D014801
+27729412	1105	1134	retinoic acid receptor (RAR)a	GeneOrGeneProduct	19401
+27729412	1140	1144	RARg	GeneOrGeneProduct	19411
+27729412	1188	1207	retinoid X receptor	GeneOrGeneProduct	20181
+27729412	1237	1248	adiponectin	GeneOrGeneProduct	11450
+27729412	1269	1276	ALDH1A1	GeneOrGeneProduct	11668
+27729412	1308	1311	RAR	GeneOrGeneProduct	19401,19411,20181
+27729412	1347	1358	adiponectin	GeneOrGeneProduct	11450
+27729412	1433	1440	ALDH1A1	GeneOrGeneProduct	11668
+27729412	1501	1514	retinoic acid	ChemicalEntity	D014212
+27729412	1534	1537	RAR	GeneOrGeneProduct	19401,19411,20181
+27729412	1579	1592	retinoic acid	ChemicalEntity	D014212
+27729412	1637	1640	RAR	GeneOrGeneProduct	19401,19411,20181
+27729412	1671	1682	adiponectin	GeneOrGeneProduct	11450
+27729412	1852	1863	adiponectin	GeneOrGeneProduct	11450
+27729412	1941	1948	ALDH1A1	GeneOrGeneProduct	11668
+27729412	1961	1983	retinoic acid receptor	GeneOrGeneProduct	19401,19411,20181
+27729412	Positive_Correlation	20181	D014212	No
+27729412	Negative_Correlation	20181	11450	Novel
+27729412	Positive_Correlation	19411	D014212	No
+27729412	Negative_Correlation	19411	11450	Novel
+27729412	Positive_Correlation	19401	D014212	No
+27729412	Negative_Correlation	19401	11450	Novel
+27729412	Association	D014212	D014801	Novel
+27729412	Positive_Correlation	11668	20181	Novel
+27729412	Positive_Correlation	11668	19411	Novel
+27729412	Positive_Correlation	11668	19401	Novel
+27729412	Positive_Correlation	11668	D014801	Novel
+27729412	Negative_Correlation	11450	D007249	No
+27729412	Negative_Correlation	11450	D014212	Novel
+27729412	Negative_Correlation	11450	11668	Novel
+27729412	Negative_Correlation	11450	D014801	Novel

@@ -1,0 +1,70 @@
+27494906|t|Impact of AAC(6')-Ib-cr in combination with chromosomal -mediated mechanisms on clinical quinolone resistance in Escherichia coli
+27494906|a|aac(6')-Ib-cr is the most prevalent plasmid -mediated fluoroquinolone (FQ) resistance mechanism in Enterobacteriaceae. We aimed to analyse the interplay between this plasmid -mediated gene and chromosomal -mediated quinolone resistance mechanisms on both FQ resistance and bacterial fitness in Escherichia coli. E. coli ATCC 25922 and derived isogenic strains carrying chromosomal -mediated quinolone resistance modifications (Ser83Leu-Asp87Asn in GyrA, Ser80Arg in ParC and/or a marR gene deletion) were electroporated with a pBK-CMV vector encoding AAC(6')-Ib-cr. The MICs of FQs were determined by microdilution and bactericidal activity was determined using time-kill curves. A peritoneal sepsis murine model was used to evaluate the in vivo impact. Bacterial fitness was analysed using growth curves and competition assays. The presence of the aac(6')-Ib-cr gene increased the MICs of ciprofloxacin and norfloxacin 4-8-fold for all E. coli genotypes, independently of the initial resistance level. Combination of the aac(6')-Ib-cr gene with three or four chromosomal mechanisms was necessary to reach MIC values above the susceptible category. Killing curve assays showed a clear selective advantage for survival in strains harbouring the aac(6')-Ib-cr gene (up to 7 log10 cfu/mL after 24 h). AAC(6')-Ib-cr significantly reduced the ciprofloxacin efficacy in vivo. In terms of bacterial fitness cost, maximal OD was significantly lower for all strains harbouring the aac(6')-Ib-cr gene, independently of chromosomal mutations associated. The aac(6')-Ib-cr gene, in spite of producing low-level resistance by itself, plays a relevant role in acquisition of a clinical level of ciprofloxacin and norfloxacin resistance, when combined with three or four chromosomal mutations, both in vitro and in vivo.
+27494906	10	23	AAC(6')-Ib-cr	T103	UMLS:C0051639
+27494906	44	55	chromosomal	T017	UMLS:C0008633
+27494906	89	98	quinolone	T103	UMLS:C0034428
+27494906	99	109	resistance	T038	UMLS:C0013203
+27494906	113	129	Escherichia coli	T007	UMLS:C0014834
+27494906	130	143	aac(6')-Ib-cr	T017	UMLS:C0017337
+27494906	166	173	plasmid	T103	UMLS:C0032136
+27494906	184	199	fluoroquinolone	T103	UMLS:C0949665
+27494906	201	203	FQ	T103	UMLS:C0949665
+27494906	205	225	resistance mechanism	T038	UMLS:C1514892
+27494906	229	247	Enterobacteriaceae	T007	UMLS:C0014346
+27494906	296	303	plasmid	T103	UMLS:C0032136
+27494906	314	318	gene	T017	UMLS:C0017337
+27494906	323	334	chromosomal	T017	UMLS:C0008633
+27494906	345	354	quinolone	T103	UMLS:C0034428
+27494906	355	376	resistance mechanisms	T038	UMLS:C1514892
+27494906	385	387	FQ	T103	UMLS:C0949665
+27494906	388	398	resistance	T038	UMLS:C0013203
+27494906	403	412	bacterial	T007	UMLS:C0004611
+27494906	413	420	fitness	T038	UMLS:C2717776
+27494906	424	440	Escherichia coli	T007	UMLS:C0014834
+27494906	442	460	E. coli ATCC 25922	T007	UMLS:C0014834
+27494906	499	510	chromosomal	T017	UMLS:C0008633
+27494906	521	530	quinolone	T103	UMLS:C0034428
+27494906	531	541	resistance	T038	UMLS:C0013203
+27494906	542	555	modifications	T062	UMLS:C4277689
+27494906	557	574	Ser83Leu-Asp87Asn	T038	UMLS:C0026882
+27494906	578	582	GyrA	T103	UMLS:C0949782
+27494906	584	592	Ser80Arg	T038	UMLS:C0026882
+27494906	596	600	ParC	T103	UMLS:C0209525
+27494906	610	628	marR gene deletion	T038	UMLS:C0017260
+27494906	635	649	electroporated	T058	UMLS:C0206691
+27494906	657	664	pBK-CMV	T103	UMLS:C0032136
+27494906	665	671	vector	T103	UMLS:C0017397
+27494906	681	694	AAC(6')-Ib-cr	T103	UMLS:C0051639
+27494906	700	704	MICs	T033	UMLS:C1304747
+27494906	708	711	FQs	T103	UMLS:C0949665
+27494906	731	744	microdilution	T058	UMLS:C0201207
+27494906	749	770	bactericidal activity	T038	UMLS:C0544570
+27494906	812	842	peritoneal sepsis murine model	T204	UMLS:C0599779
+27494906	868	875	in vivo	T082	UMLS:C1515655
+27494906	884	893	Bacterial	T007	UMLS:C0004611
+27494906	894	901	fitness	T038	UMLS:C2717776
+27494906	939	957	competition assays	T058	UMLS:C0005507
+27494906	979	997	aac(6')-Ib-cr gene	T017	UMLS:C0017337
+27494906	1012	1016	MICs	T033	UMLS:C1304747
+27494906	1020	1033	ciprofloxacin	T103	UMLS:C0008809
+27494906	1038	1049	norfloxacin	T103	UMLS:C0028365
+27494906	1067	1074	E. coli	T007	UMLS:C0014834
+27494906	1115	1125	resistance	T038	UMLS:C0013203
+27494906	1152	1170	aac(6')-Ib-cr gene	T017	UMLS:C0017337
+27494906	1190	1201	chromosomal	T017	UMLS:C0008633
+27494906	1236	1246	MIC values	T033	UMLS:C1304747
+27494906	1374	1392	aac(6')-Ib-cr gene	T017	UMLS:C0017337
+27494906	1428	1441	AAC(6')-Ib-cr	T103	UMLS:C0051639
+27494906	1468	1481	ciprofloxacin	T103	UMLS:C0008809
+27494906	1491	1498	in vivo	T082	UMLS:C1515655
+27494906	1512	1521	bacterial	T007	UMLS:C0004611
+27494906	1522	1534	fitness cost	T038	UMLS:C2717776
+27494906	1602	1620	aac(6')-Ib-cr gene	T017	UMLS:C0017337
+27494906	1639	1660	chromosomal mutations	T038	UMLS:C0948447
+27494906	1677	1695	aac(6')-Ib-cr gene	T017	UMLS:C0017337
+27494906	1729	1739	resistance	T038	UMLS:C0013203
+27494906	1811	1824	ciprofloxacin	T103	UMLS:C0008809
+27494906	1829	1840	norfloxacin	T103	UMLS:C0028365
+27494906	1841	1851	resistance	T038	UMLS:C0013203
+27494906	1886	1907	chromosomal mutations	T038	UMLS:C0948447
+27494906	1927	1934	in vivo	T082	UMLS:C1515655

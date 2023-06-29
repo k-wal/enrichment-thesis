@@ -1,0 +1,106 @@
+28139511|t|Evaluation of Outpatient Antibiotic Use in Beijing General Hospitals in 2015
+28139511|a|Medical misuse of antibiotic s is associated with the acquisition and spread of antibiotic resistance, resulting in a lack of effective drugs and increased health-care cost. Nevertheless, inappropriate antibiotic use in China remains common and the situation requires urgent improvement. Here, we analyzed the prescriptions of antibiotics and evaluated the rationality of antibiotic use among outpatients in Beijing general hospitals during 2015. We collected basic medical insurance claim data from January 1, 2015 to December 31, 2015 in 507 general hospitals of Beijing. A descriptive analysis of outpatient antibiotic prescribing was performed. The Anatomical Therapeutic Chemical Classification/defined daily doses system was used to evaluate the rationality of antibiotic use. Over the study, an estimated 721,930, 613,520, and 822,480 antibiotics were dispensed in primary, secondary, and tertiary general hospitals corresponding to 5.09%, 5.06%, and 2.53% of all prescriptions, respectively. Antibiotic combinations represented 2.95%, 7.74%, and 10.18% of the total antibiotic prescriptions, respectively. Expenditure for the top twenty antibiotic s in primary, secondary, and tertiary general hospitals was RMB 42.92, 65.89, and 83.26 million Yuan, respectively. Cephalosporins were the most frequently prescribed class of antibiotic in clinical practice. The antibiotic s used inappropriately included azithromycin enteric-coated capsules, compound cefaclor tablets and nifuratel nysfungin vaginal soft capsules in primary hospitals, amoxicillin and clavulanate potassium dispersible tablets (7:1) and cefonicid sodium for injection in secondary hospitals, cefminox sodium for injection and amoxicillin sodium and sulbactam sodium for injection in tertiary hospitals. Antibiotic use in Beijing general hospitals is generally low; however, inappropriate antibiotic use still exists. Inappropriately used antibiotic s should be subject to rigorous control and management, and public policy initiatives are required to promote the judicious use of antibiotic s.
+28139511	0	10	Evaluation	T058	C0220825
+28139511	14	24	Outpatient	T101	C0029921
+28139511	25	35	Antibiotic	T195	C0003232
+28139511	36	39	Use	T169	C0457083
+28139511	43	50	Beijing	T083	C4042832
+28139511	51	68	General Hospitals	T073,T093	C0020008
+28139511	77	84	Medical	T058	C0199168
+28139511	85	91	misuse	T033	C0549649
+28139511	95	105	antibiotic	T195	C0003232
+28139511	131	142	acquisition	T052	C1706701
+28139511	147	153	spread	T080	C0332261
+28139511	157	178	antibiotic resistance	T043	C1326848
+28139511	195	199	lack	T080	C0332268
+28139511	203	212	effective	T080	C1280519
+28139511	213	218	drugs	T121	C0013227
+28139511	223	232	increased	T081	C0205217
+28139511	233	249	health-care cost	T081	C0085552
+28139511	265	278	inappropriate	T080	C1548788
+28139511	279	289	antibiotic	T195	C0003232
+28139511	290	293	use	T169	C0457083
+28139511	297	302	China	T083	C0008115
+28139511	374	382	analyzed	T062	C0936012
+28139511	387	400	prescriptions	T170	C0033081
+28139511	404	415	antibiotics	T195	C0003232
+28139511	420	429	evaluated	T058	C0220825
+28139511	449	459	antibiotic	T195	C0003232
+28139511	460	463	use	T169	C0457083
+28139511	470	481	outpatients	T101	C0029921
+28139511	485	492	Beijing	T083	C4042832
+28139511	493	510	general hospitals	T073,T093	C0020008
+28139511	543	560	medical insurance	T058	C0021689
+28139511	567	571	data	T078	C1511726
+28139511	621	638	general hospitals	T073,T093	C0020008
+28139511	642	649	Beijing	T083	C4042832
+28139511	653	664	descriptive	T170	C0678257
+28139511	665	673	analysis	T062	C0936012
+28139511	677	687	outpatient	T101	C0029921
+28139511	688	698	antibiotic	T195	C0003232
+28139511	699	710	prescribing	T058	C0278329
+28139511	730	803	Anatomical Therapeutic Chemical Classification/defined daily doses system	T170	C3540695
+28139511	808	812	used	T169	C0457083
+28139511	816	824	evaluate	T058	C0220825
+28139511	844	854	antibiotic	T195	C0003232
+28139511	855	858	use	T169	C0457083
+28139511	869	874	study	T062	C2603343
+28139511	919	930	antibiotics	T195	C0003232
+28139511	936	945	dispensed	T058	C1880359
+28139511	949	956	primary	T080	C0205225
+28139511	958	967	secondary	T080	C0175668
+28139511	973	981	tertiary	T081	C0205372
+28139511	982	999	general hospitals	T073,T093	C0020008
+28139511	1048	1061	prescriptions	T170	C0033081
+28139511	1077	1100	Antibiotic combinations	T195	C0003238
+28139511	1151	1161	antibiotic	T195	C0003232
+28139511	1162	1175	prescriptions	T170	C0033081
+28139511	1222	1232	antibiotic	T195	C0003232
+28139511	1238	1245	primary	T080	C0205225
+28139511	1247	1256	secondary	T080	C0175668
+28139511	1262	1270	tertiary	T081	C0205372
+28139511	1271	1288	general hospitals	T073,T093	C0020008
+28139511	1293	1296	RMB	T081	C1555423
+28139511	1321	1333	million Yuan	T081	C1555423
+28139511	1349	1363	Cephalosporins	T109,T195	C3536856
+28139511	1389	1399	prescribed	T058	C0278329
+28139511	1409	1419	antibiotic	T195	C0003232
+28139511	1423	1440	clinical practice	T058	C0008949
+28139511	1446	1456	antibiotic	T195	C0003232
+28139511	1459	1463	used	T169	C0457083
+28139511	1464	1479	inappropriately	T080	C1548788
+28139511	1489	1501	azithromycin	T109,T195	C0052796
+28139511	1502	1525	enteric-coated capsules	T122	C0039226
+28139511	1527	1544	compound cefaclor	T109,T195	C0007537
+28139511	1545	1552	tablets	T122	C0039225
+28139511	1557	1576	nifuratel nysfungin	T109,T121	C0028070
+28139511	1577	1598	vaginal soft capsules	T122	C1273013
+28139511	1602	1609	primary	T080	C0205225
+28139511	1610	1619	hospitals	T073,T093	C0019994
+28139511	1621	1632	amoxicillin	T109,T195	C0002645
+28139511	1637	1658	clavulanate potassium	T109,T195	C0137997
+28139511	1659	1678	dispersible tablets	T122	C1273630
+28139511	1689	1705	cefonicid sodium	T109,T195	C2025586
+28139511	1710	1719	injection	T122	C1272883
+28139511	1723	1732	secondary	T080	C0175668
+28139511	1733	1742	hospitals	T073,T093	C0019994
+28139511	1744	1759	cefminox sodium	T109,T195	C1529767
+28139511	1764	1773	injection	T122	C1272883
+28139511	1778	1796	amoxicillin sodium	T109,T195	C0887551
+28139511	1801	1817	sulbactam sodium	T109,T195	C0282355
+28139511	1822	1831	injection	T122	C1272883
+28139511	1835	1843	tertiary	T081	C0205372
+28139511	1844	1853	hospitals	T073,T093	C0019994
+28139511	1855	1865	Antibiotic	T195	C0003232
+28139511	1866	1869	use	T169	C0457083
+28139511	1873	1880	Beijing	T083	C4042832
+28139511	1881	1898	general hospitals	T073,T093	C0020008
+28139511	1926	1939	inappropriate	T080	C1548788
+28139511	1940	1950	antibiotic	T195	C0003232
+28139511	1951	1954	use	T169	C0457083
+28139511	1969	1984	Inappropriately	T080	C1548788
+28139511	1985	1989	used	T169	C0457083
+28139511	1990	2000	antibiotic	T195	C0003232
+28139511	2061	2074	public policy	T064	C0034033
+28139511	2125	2128	use	T169	C0457083
+28139511	2132	2142	antibiotic	T195	C0003232

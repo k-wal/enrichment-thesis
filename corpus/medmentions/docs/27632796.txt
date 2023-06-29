@@ -1,0 +1,109 @@
+27632796|t|Clinical characteristics and viral load of respiratory syncytial virus and human metapneumovirus in children hospitaled for acute lower respiratory tract infection
+27632796|a|Respiratory syncytial virus (RSV) and human metapneumovirus (HMPV) are two common viral pathogens in acute lower respiratory tract infections (ALRTI). However, the association of viral load with clinical characteristics is not well-defined in ALRTI. To explore the correlation between viral load and clinical characteristics of RSV and HMPV in children hospitalized for ALRTI in Lanzhou, China. Three hundred and eighty-seven children hospitalized for ALRTI were enrolled. Nasopharyngeal aspirates (NPAs) were sampled from each children. Real-time PCR was used to screen RSV, HMPV, and twelve additional respiratory viruses. Bronchiolitis was the leading diagnoses both in RSV and HMPV positive patients. A significantly greater frequency of wheezing (52% vs. 33.52%, P = 0.000) was noted in RSV positive and negative patients. The RSV viral load was significant higher in children aged <1 year (P = 0.003), children without fever and wheezing (P = 0.015 and P = 0.000), days of illness <14 days (P = 0.002), children with bronchiolitis (P = 0.012) and children with RSV single infections (P = 0.000). No difference was found in the clinical features of HMPV positive and negative patients. The HMPV viral load had no correlation with any clinical characteristics. The incidences of severe disease were similar between single infection and coinfection for the two viruses (RSV, P = 0.221; HMPV, P = 0.764) and there has no statistical significance between severity and viral load (P = 0.166 and P = 0.721). Bronchiolitis is the most common disease caused by RSV and HMPV. High viral load or co-infection may be associated with some symptoms but neither has a significant impact on disease severity for the two viruses. J. Med. Virol. 89:589-597, 2017. © 2016 Wiley Periodicals, Inc.
+27632796	0	8	Clinical	T080	C0205210
+27632796	9	24	characteristics	T080	C1521970
+27632796	29	39	viral load	T059	C1261478
+27632796	43	70	respiratory syncytial virus	T005	C0035236
+27632796	75	96	human metapneumovirus	T005	C1258014
+27632796	100	119	children hospitaled	T101	C0008098
+27632796	124	163	acute lower respiratory tract infection	T047	C0238990
+27632796	164	191	Respiratory syncytial virus	T005	C0035236
+27632796	193	196	RSV	T005	C0035236
+27632796	202	223	human metapneumovirus	T005	C1258014
+27632796	225	229	HMPV	T005	C1258014
+27632796	246	251	viral	T005	C0042776
+27632796	252	261	pathogens	T001	C0450254
+27632796	265	305	acute lower respiratory tract infections	T047	C0238990
+27632796	307	312	ALRTI	T047	C0238990
+27632796	328	339	association	T080	C0439849
+27632796	343	353	viral load	T059	C1261478
+27632796	359	367	clinical	T080	C0205210
+27632796	368	383	characteristics	T080	C1521970
+27632796	407	412	ALRTI	T047	C0238990
+27632796	429	440	correlation	T080	C1707520
+27632796	449	459	viral load	T059	C1261478
+27632796	464	472	clinical	T080	C0205210
+27632796	473	488	characteristics	T080	C1521970
+27632796	492	495	RSV	T005	C0035236
+27632796	500	504	HMPV	T005	C1258014
+27632796	508	529	children hospitalized	T101	C0008098
+27632796	534	539	ALRTI	T047	C0238990
+27632796	543	550	Lanzhou	UnknownType	C0681784
+27632796	552	557	China	T083	C0008115
+27632796	590	611	children hospitalized	T101	C0008098
+27632796	616	621	ALRTI	T047	C0238990
+27632796	637	661	Nasopharyngeal aspirates	T031	C0444067
+27632796	663	667	NPAs	T031	C0444067
+27632796	674	681	sampled	T078	C0870078
+27632796	692	700	children	T100	C0008059
+27632796	702	715	Real-time PCR	T063	C1709846
+27632796	728	734	screen	T061	C0419997
+27632796	735	738	RSV	T005	C0035236
+27632796	740	744	HMPV	T005	C1258014
+27632796	768	787	respiratory viruses	T005	C0597404
+27632796	789	802	Bronchiolitis	T047	C0006271
+27632796	811	828	leading diagnoses	T033	C0011900
+27632796	837	840	RSV	T005	C0035236
+27632796	845	849	HMPV	T005	C1258014
+27632796	850	858	positive	T033	C1514241
+27632796	859	867	patients	T101	C0030705
+27632796	885	892	greater	T081	C1704243
+27632796	893	902	frequency	T079	C0439603
+27632796	906	914	wheezing	T184	C0043144
+27632796	956	959	RSV	T005	C0035236
+27632796	960	968	positive	T033	C1514241
+27632796	973	981	negative	T033	C1513916
+27632796	982	990	patients	T101	C0030705
+27632796	996	999	RSV	T005	C0035236
+27632796	1000	1010	viral load	T059	C1261478
+27632796	1027	1033	higher	T080	C0205250
+27632796	1037	1045	children	T100	C0008059
+27632796	1054	1058	year	T079	C0439234
+27632796	1072	1080	children	T100	C0008059
+27632796	1081	1088	without	T080	C0332288
+27632796	1089	1094	fever	T184	C0015967
+27632796	1099	1107	wheezing	T184	C0043144
+27632796	1135	1139	days	T079	C0439228
+27632796	1143	1150	illness	T184	C0221423
+27632796	1155	1159	days	T079	C0439228
+27632796	1173	1181	children	T100	C0008059
+27632796	1187	1200	bronchiolitis	T047	C0006271
+27632796	1217	1225	children	T100	C0008059
+27632796	1231	1252	RSV single infections	T047	C0035235
+27632796	1266	1279	No difference	T033	C3842396
+27632796	1297	1305	clinical	T080	C0205210
+27632796	1306	1314	features	T080	C2348519
+27632796	1318	1322	HMPV	T005	C1258014
+27632796	1323	1331	positive	T033	C1514241
+27632796	1336	1344	negative	T033	C1513916
+27632796	1345	1353	patients	T101	C0030705
+27632796	1359	1363	HMPV	T005	C1258014
+27632796	1364	1374	viral load	T059	C1261478
+27632796	1382	1393	correlation	T080	C1707520
+27632796	1403	1411	clinical	T080	C0205210
+27632796	1412	1427	characteristics	T080	C1521970
+27632796	1433	1443	incidences	T081	C0021149
+27632796	1447	1461	severe disease	T047	C0012634
+27632796	1467	1474	similar	T080	C2348205
+27632796	1483	1499	single infection	T046	C3714514
+27632796	1504	1515	coinfection	T047	C0275524
+27632796	1528	1535	viruses	T005	C0042776
+27632796	1537	1540	RSV	T005	C0035236
+27632796	1553	1557	HMPV	T005	C1258014
+27632796	1587	1611	statistical significance	T081	C0237881
+27632796	1620	1628	severity	T080	C0439793
+27632796	1633	1643	viral load	T059	C1261478
+27632796	1671	1684	Bronchiolitis	T047	C0006271
+27632796	1697	1703	common	T081	C0205214
+27632796	1704	1711	disease	T047	C0012634
+27632796	1722	1725	RSV	T005	C0035236
+27632796	1730	1734	HMPV	T005	C1258014
+27632796	1736	1740	High	T080	C0205250
+27632796	1741	1751	viral load	T059	C1261478
+27632796	1755	1767	co-infection	T047	C0275524
+27632796	1775	1790	associated with	T080	C0332281
+27632796	1796	1804	symptoms	T184	C1457887
+27632796	1823	1834	significant	T078	C0750502
+27632796	1835	1841	impact	T080	C4049986
+27632796	1845	1861	disease severity	T080	C0521117
+27632796	1874	1881	viruses	T005	C0042776

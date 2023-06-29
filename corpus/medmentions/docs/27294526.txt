@@ -1,0 +1,110 @@
+27294526|t|Glycolysis determines dichotomous regulation of T cell subsets in hypoxia
+27294526|a|Hypoxia occurs in many pathological conditions, including chronic inflammation and tumors, and is considered to be an inhibitor of T cell function. However, robust T cell responses occur at many hypoxic inflammatory sites, suggesting that functions of some subsets are stimulated under low oxygen conditions. Here, we investigated how hypoxic conditions influence human T cell functions and found that, in contrast to naive and central memory T cells (TN and TCM), hypoxia enhances the proliferation, viability, and cytotoxic action of effector memory T cells (TEM). Enhanced TEM expansion in hypoxia corresponded to high hypoxia-inducible factor 1α (HIF1α) expression and glycolytic activity compared with that observed in TN and TCM. We determined that the glycolytic enzyme GAPDH negatively regulates HIF1A expression by binding to adenylate-uridylate-rich elements in the 3'-UTR region of HIF1A mRNA in glycolytically inactive TN and TCM. Conversely, active glycolysis with decreased GAPDH availability in TEM resulted in elevated HIF1α expression. Furthermore, GAPDH overexpression reduced HIF1α expression and impaired proliferation and survival of T cells in hypoxia, indicating that high glycolytic metabolism drives increases in HIF1α to enhance TEM function during hypoxia. This work demonstrates that glycolytic metabolism regulates the translation of HIF1A to determine T cell responses to hypoxia and implicates GAPDH as a potential mechanism for controlling T cell function in peripheral tissue.
+27294526	0	10	Glycolysis	T044	C0017952
+27294526	22	44	dichotomous regulation	T169	C0205245
+27294526	48	62	T cell subsets	T025	C0080202
+27294526	66	73	hypoxia	T046	C0242184
+27294526	74	81	Hypoxia	T046	C0242184
+27294526	82	88	occurs	T052	C1709305
+27294526	97	120	pathological conditions	T046	C0030660
+27294526	132	152	chronic inflammation	T046	C0021376
+27294526	157	163	tumors	T191	C0027651
+27294526	172	182	considered	T078	C0750591
+27294526	192	201	inhibitor	T080	C1999216
+27294526	205	211	T cell	T025	C0039194
+27294526	212	220	function	T043	C0007613
+27294526	238	244	T cell	T025	C0039194
+27294526	245	254	responses	T043	C1318468
+27294526	269	276	hypoxic	T046	C0242184
+27294526	277	289	inflammatory	T169	C0333348
+27294526	290	295	sites	T082	C0205145
+27294526	313	322	functions	T169	C0542341
+27294526	331	338	subsets	T025	C0080202
+27294526	343	353	stimulated	T070	C1948023
+27294526	360	381	low oxygen conditions	T033	C0700292
+27294526	392	404	investigated	T169	C1292732
+27294526	409	416	hypoxic	T046	C0242184
+27294526	417	427	conditions	T080	C0348080
+27294526	428	437	influence	T077	C4054723
+27294526	438	443	human	T016	C0086418
+27294526	444	450	T cell	T025	C0039194
+27294526	451	460	functions	T043	C0007613
+27294526	492	497	naive	T025	C3641721
+27294526	502	524	central memory T cells	T025	C4289823
+27294526	526	528	TN	T025	C3641721
+27294526	533	536	TCM	T025	C4289823
+27294526	539	546	hypoxia	T046	C0242184
+27294526	547	555	enhances	T052	C2349975
+27294526	560	573	proliferation	T043	C0596873
+27294526	575	584	viability	T043	C0007620
+27294526	590	606	cytotoxic action	T169	C1511636
+27294526	610	633	effector memory T cells	T025	C4289596
+27294526	635	638	TEM	T025	C4289596
+27294526	641	649	Enhanced	T052	C2349975
+27294526	650	653	TEM	T025	C4289596
+27294526	654	663	expansion	T043	C0007595
+27294526	667	674	hypoxia	T046	C0242184
+27294526	696	723	hypoxia-inducible factor 1α	T028	C1333897
+27294526	725	730	HIF1α	T028	C1333897
+27294526	732	742	expression	T045	C0017262
+27294526	747	757	glycolytic	T044	C0017952
+27294526	758	766	activity	T052	C0441655
+27294526	767	775	compared	T052	C1707455
+27294526	786	794	observed	T169	C1441672
+27294526	798	800	TN	T025	C3641721
+27294526	805	808	TCM	T025	C4289823
+27294526	813	823	determined	T080	C0521095
+27294526	833	843	glycolytic	T044	C0017952
+27294526	844	856	enzyme GAPDH	T116,T126	C3536868
+27294526	868	877	regulates	T169	C0205245
+27294526	878	883	HIF1A	T028	C1333897
+27294526	884	894	expression	T045	C0017262
+27294526	898	942	binding to adenylate-uridylate-rich elements	T045	C1148850
+27294526	950	963	3'-UTR region	T086,T123	C0600600
+27294526	967	977	HIF1A mRNA	T028	C1333897
+27294526	981	995	glycolytically	T044	C0017952
+27294526	996	1004	inactive	T081	C1705605
+27294526	1005	1007	TN	T025	C3641721
+27294526	1012	1015	TCM	T025	C4289823
+27294526	1029	1035	active	T169	C0205177
+27294526	1036	1046	glycolysis	T044	C0017952
+27294526	1052	1061	decreased	T081	C0205216
+27294526	1062	1067	GAPDH	T116,T126	C3536868
+27294526	1068	1080	availability	T169	C0470187
+27294526	1084	1087	TEM	T025	C4289596
+27294526	1088	1099	resulted in	T169	C0332294
+27294526	1109	1114	HIF1α	T028	C1333897
+27294526	1115	1125	expression	T045	C0017262
+27294526	1140	1145	GAPDH	T116,T126	C3536868
+27294526	1146	1160	overexpression	T045	C1514559
+27294526	1161	1168	reduced	T080	C0392756
+27294526	1169	1174	HIF1α	T028	C1333897
+27294526	1175	1185	expression	T045	C0017262
+27294526	1190	1198	impaired	T169	C0221099
+27294526	1199	1212	proliferation	T043	C0596873
+27294526	1217	1225	survival	T043	C0007620
+27294526	1229	1236	T cells	T025	C0039194
+27294526	1240	1247	hypoxia	T046	C0242184
+27294526	1265	1280	high glycolytic	T044	C0017952
+27294526	1281	1291	metabolism	T040	C0025519
+27294526	1299	1308	increases	T081	C0205217
+27294526	1312	1317	HIF1α	T028	C1333897
+27294526	1321	1328	enhance	T052	C2349975
+27294526	1329	1332	TEM	T025	C4289596
+27294526	1333	1341	function	T043	C0007613
+27294526	1349	1356	hypoxia	T046	C0242184
+27294526	1386	1396	glycolytic	T044	C0017952
+27294526	1397	1407	metabolism	T040	C0025519
+27294526	1408	1417	regulates	T169	C0205245
+27294526	1422	1433	translation	T045	C1519614
+27294526	1437	1442	HIF1A	T028	C1333897
+27294526	1456	1462	T cell	T025	C0039194
+27294526	1463	1472	responses	T043	C1318468
+27294526	1476	1483	hypoxia	T046	C0242184
+27294526	1499	1504	GAPDH	T116,T126	C3536868
+27294526	1510	1519	potential	T080	C3245505
+27294526	1520	1529	mechanism	T044	C0596524
+27294526	1546	1552	T cell	T025	C0039194
+27294526	1553	1561	function	T043	C0007613
+27294526	1565	1575	peripheral	T082	C0205100
+27294526	1576	1582	tissue	T024	C0040300

@@ -1,0 +1,54 @@
+27407027|t|Risk Factors for Infection After Knee Arthroscopy: Analysis of 595,083 Cases From 3 United States Databases
+27407027|a|To identify and quantify patient- and procedure-related risk factors for post-arthroscopic knee infections using a large dataset. An administrative health care database including 8 years of records from 2 large commercial insurers and Medicare (a 5% random sample) was queried to identify all knee arthroscopies performed on patients aged at least 15 years using Current Procedural Terminology (CPT) codes. Each CPT code was designated as a high- or low-complexity procedure, with the former typically requiring accessory incisions or increased operative time. Deep infections were identified by a CPT code for incision and drainage within 90 days of surgery. Superficial infections were identified by International Classification of Diseases, Ninth Revision infection codes without any record of incision and drainage. Patients were compared based on age, sex, body mass index, tobacco use, presence of diabetes, and Charlson Comorbidity Index. A total of 526,537 patients underwent 595,083 arthroscopic knee procedures. Deep postoperative infections occurred at a rate of 0.22%. Superficial infections occurred at a rate of 0.29%. Tobacco use and morbid obesity were the largest risk factors for deep and superficial infections, respectively (P < .001; relative risk of 1.90 and 2.19, respectively). There were also higher infection rates among patients undergoing relatively high-complexity arthroscopies, men, obese patients, diabetic patients, and younger patients (in order of decreasing relative risk). Increased Charlson Comorbidity Index was associated with superficial and total infections (P < .001). Post-arthroscopic knee infections were more frequent among morbidly obese patients, tobacco users, patients undergoing relatively complex procedures, men, obese patients, diabetic patients, relatively young patients, and patients with increased comorbidity burdens in this study population. This knowledge may allow more informed preoperative counseling, aid surgeons in patient selection, and facilitate infection prevention by targeting individuals with higher inherent risk. Level IV, cross-sectional study.
+27407027	0	12	Risk Factors	T033	UMLS:C0035648
+27407027	17	26	Infection	T038	UMLS:C3714514
+27407027	33	49	Knee Arthroscopy	T058	UMLS:C1304878
+27407027	51	59	Analysis	T062	UMLS:C0936012
+27407027	84	97	United States	T082	UMLS:C0041703
+27407027	98	107	Databases	T170	UMLS:C0242356
+27407027	133	141	patient-	T033	UMLS:C0035648
+27407027	146	176	procedure-related risk factors	T033	UMLS:C0035648
+27407027	229	236	dataset	T170	UMLS:C0150098
+27407027	241	276	administrative health care database	T170	UMLS:C0242356
+27407027	330	338	insurers	T092	UMLS:C0021675
+27407027	358	371	random sample	T062	UMLS:C0150105
+27407027	401	419	knee arthroscopies	T058	UMLS:C1304878
+27407027	471	513	Current Procedural Terminology (CPT) codes	T170	UMLS:C1136322
+27407027	520	528	CPT code	T170	UMLS:C1136322
+27407027	549	554	high-	T058	UMLS:C1292781
+27407027	558	582	low-complexity procedure	T058	UMLS:C1292781
+27407027	630	639	incisions	T058	UMLS:C0184898
+27407027	674	684	infections	T038	UMLS:C3714514
+27407027	706	714	CPT code	T170	UMLS:C1136322
+27407027	719	727	incision	T058	UMLS:C0184898
+27407027	732	740	drainage	T058	UMLS:C0013103
+27407027	768	790	Superficial infections	T038	UMLS:C3714514
+27407027	810	882	International Classification of Diseases, Ninth Revision infection codes	T170	UMLS:C2346503
+27407027	895	901	record	T170	UMLS:C0034869
+27407027	905	913	incision	T058	UMLS:C0184898
+27407027	918	926	drainage	T058	UMLS:C0013103
+27407027	970	985	body mass index	T201	UMLS:C1305855
+27407027	1012	1020	diabetes	T038	UMLS:C0011847
+27407027	1100	1128	arthroscopic knee procedures	T058	UMLS:C1304878
+27407027	1135	1159	postoperative infections	T038	UMLS:C0392618
+27407027	1189	1211	Superficial infections	T038	UMLS:C3714514
+27407027	1257	1271	morbid obesity	T038	UMLS:C0028756
+27407027	1289	1301	risk factors	T033	UMLS:C0035648
+27407027	1306	1310	deep	T038	UMLS:C3714514
+27407027	1315	1337	superficial infections	T038	UMLS:C3714514
+27407027	1433	1448	infection rates	T038	UMLS:C3714514
+27407027	1486	1515	high-complexity arthroscopies	T058	UMLS:C1304878
+27407027	1517	1520	men	T098	UMLS:C0025266
+27407027	1522	1527	obese	T038	UMLS:C0028754
+27407027	1538	1546	diabetic	T038	UMLS:C0011847
+27407027	1675	1686	superficial	T038	UMLS:C3714514
+27407027	1691	1707	total infections	T038	UMLS:C3714514
+27407027	1779	1793	morbidly obese	T038	UMLS:C0028756
+27407027	1804	1817	tobacco users	T033	UMLS:C3853727
+27407027	1850	1868	complex procedures	T058	UMLS:C1292781
+27407027	1870	1873	men	T098	UMLS:C0025266
+27407027	2050	2073	preoperative counseling	T058	UMLS:C0920638
+27407027	2075	2087	aid surgeons	T097	UMLS:C0582175
+27407027	2091	2108	patient selection	T062	UMLS:C0242802
+27407027	2159	2170	individuals	T098	UMLS:C0237401
+27407027	2208	2229	cross-sectional study	T062	UMLS:C0010362

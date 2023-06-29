@@ -1,0 +1,68 @@
+28267806|t|mRNA N6-methyladenosine methylation of postnatal liver development in pig
+28267806|a|N6-methyladenosine (m6A) is a ubiquitous reversible epigenetic RNA modification that plays an important role in the regulation of post-transcriptional protein coding gene expression. Liver is a vital organ and plays a major role in metabolism with numerous functions. Information concerning the dynamic patterns of mRNA m6A methylation during postnatal development of liver has been long overdue and elucidation of this information will benefit for further deciphering a multitude of functional outcomes of mRNA m6A methylation. Here, we profile transcriptome -wide m6A in porcine liver at three developmental stages: newborn (0 day), suckling (21 days) and adult (2 years). About 33% of transcribed genes were modified by m6A, with 1.33 to 1.42 m6A peaks per modified gene. m6A was distributed predominantly around stop codons. The consensus motif sequence RRm6ACH was observed in 78.90% of m6A peaks. A negative correlation (average Pearson's r = -0.45, P < 10-16) was found between levels of m6A methylation and gene expression. Functional enrichment analysis of genes consistently modified by m6A methylation at all three stages showed genes relevant to important functions, including regulation of growth and development, regulation of metabolic processes and protein catabolic processes. Genes with higher m6A methylation and lower expression levels at any particular stage were associated with the biological processes required for or unique to that stage. We suggest that differential m6A methylation may be important for the regulation of nutrient metabolism in porcine liver.
+28267806	0	4	mRNA	T103	UMLS:C0035696
+28267806	5	23	N6-methyladenosine	T103	UMLS:C0067228
+28267806	24	35	methylation	T038	UMLS:C2611689
+28267806	49	54	liver	T017	UMLS:C0023884
+28267806	55	66	development	T038	UMLS:C0678723
+28267806	70	73	pig	T204	UMLS:C0039005
+28267806	74	92	N6-methyladenosine	T103	UMLS:C0067228
+28267806	94	97	m6A	T103	UMLS:C0067228
+28267806	126	153	epigenetic RNA modification	T038	UMLS:C1158744
+28267806	190	224	regulation of post-transcriptional	T038	UMLS:C1514248
+28267806	225	244	protein coding gene	T017	UMLS:C3839127
+28267806	245	255	expression	T038	UMLS:C0017262
+28267806	257	262	Liver	T017	UMLS:C0023884
+28267806	274	279	organ	T017	UMLS:C0178784
+28267806	306	316	metabolism	T038	UMLS:C0025519
+28267806	377	385	patterns	T082	UMLS:C0449774
+28267806	389	393	mRNA	T103	UMLS:C0035696
+28267806	394	397	m6A	T103	UMLS:C0067228
+28267806	398	409	methylation	T038	UMLS:C2611689
+28267806	427	438	development	T038	UMLS:C0678723
+28267806	442	447	liver	T017	UMLS:C0023884
+28267806	531	542	deciphering	T038	UMLS:C0162340
+28267806	581	585	mRNA	T103	UMLS:C0035696
+28267806	586	589	m6A	T103	UMLS:C0067228
+28267806	590	601	methylation	T038	UMLS:C2611689
+28267806	612	619	profile	T058	UMLS:C1979963
+28267806	620	633	transcriptome	T082	UMLS:C3178810
+28267806	640	643	m6A	T103	UMLS:C0067228
+28267806	647	654	porcine	T204	UMLS:C3665571
+28267806	655	660	liver	T017	UMLS:C0023884
+28267806	692	699	newborn	T204	UMLS:C0003065
+28267806	709	717	suckling	T204	UMLS:C0003068
+28267806	762	779	transcribed genes	T017	UMLS:C0017337
+28267806	797	800	m6A	T103	UMLS:C0067228
+28267806	820	823	m6A	T103	UMLS:C0067228
+28267806	843	847	gene	T017	UMLS:C0017337
+28267806	849	852	m6A	T103	UMLS:C0067228
+28267806	890	901	stop codons	T082	UMLS:C0242611
+28267806	907	931	consensus motif sequence	T082	UMLS:C0079160
+28267806	932	939	RRm6ACH	T082	UMLS:C0004793
+28267806	966	969	m6A	T103	UMLS:C0067228
+28267806	979	987	negative	T033	UMLS:C0205160
+28267806	1069	1072	m6A	T103	UMLS:C0067228
+28267806	1073	1084	methylation	T038	UMLS:C2611689
+28267806	1089	1104	gene expression	T038	UMLS:C0017262
+28267806	1128	1136	analysis	T062	UMLS:C0936012
+28267806	1140	1145	genes	T017	UMLS:C0017337
+28267806	1171	1174	m6A	T103	UMLS:C0067228
+28267806	1175	1186	methylation	T038	UMLS:C2611689
+28267806	1214	1219	genes	T017	UMLS:C0017337
+28267806	1263	1283	regulation of growth	T038	UMLS:C1160191
+28267806	1288	1299	development	T038	UMLS:C0678723
+28267806	1301	1311	regulation	T038	UMLS:C1327622
+28267806	1315	1334	metabolic processes	T038	UMLS:C0025519
+28267806	1339	1366	protein catabolic processes	T038	UMLS:C0597297
+28267806	1368	1373	Genes	T017	UMLS:C0017337
+28267806	1386	1389	m6A	T103	UMLS:C0067228
+28267806	1390	1401	methylation	T038	UMLS:C2611689
+28267806	1479	1499	biological processes	T038	UMLS:C3714634
+28267806	1567	1570	m6A	T103	UMLS:C0067228
+28267806	1571	1582	methylation	T038	UMLS:C2611689
+28267806	1608	1618	regulation	T038	UMLS:C1327622
+28267806	1622	1630	nutrient	T168	UMLS:C0678695
+28267806	1631	1641	metabolism	T038	UMLS:C0025519
+28267806	1645	1652	porcine	T204	UMLS:C3665571
+28267806	1653	1658	liver	T017	UMLS:C0023884

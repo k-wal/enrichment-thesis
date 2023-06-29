@@ -1,0 +1,20 @@
+7018927|t|Pituitary response to luteinizing hormone-releasing hormone during haloperidol-induced hyperprolactinemia.
+7018927|a|The effects of a 6-hour infusion with haloperidol on serum prolactin and luteinizing hormone (LH) levels was studied in a group of male subjects. Five hours after starting the infusions, a study of the pituitary responses to LH-releasing hormone (LH-RH) was carried out. Control patients received infusions of 0.9% NaCl solution. During the course of haloperidol infusions, significant hyperprolactinemia was found, together with an abolished pituitary response to LH-RH, as compared with responses of control subjects.
+7018927	22	59	luteinizing hormone-releasing hormone	GeneOrGeneProduct	2796
+7018927	67	78	haloperidol	ChemicalEntity	D006220
+7018927	87	105	hyperprolactinemia	DiseaseOrPhenotypicFeature	D006966
+7018927	145	156	haloperidol	ChemicalEntity	D006220
+7018927	166	175	prolactin	GeneOrGeneProduct	5617
+7018927	180	199	luteinizing hormone	GeneOrGeneProduct	1081
+7018927	201	203	LH	GeneOrGeneProduct	1081
+7018927	332	352	LH-releasing hormone	GeneOrGeneProduct	2796
+7018927	354	359	LH-RH	GeneOrGeneProduct	2796
+7018927	386	394	patients	OrganismTaxon	9606
+7018927	422	426	NaCl	ChemicalEntity	D012965
+7018927	458	469	haloperidol	ChemicalEntity	D006220
+7018927	493	511	hyperprolactinemia	DiseaseOrPhenotypicFeature	D006966
+7018927	572	577	LH-RH	GeneOrGeneProduct	2796
+7018927	Association	1081	2796	No
+7018927	Association	2796	D006220	Novel
+7018927	Association	D006966	2796	Novel
+7018927	Positive_Correlation	D006220	D006966	No

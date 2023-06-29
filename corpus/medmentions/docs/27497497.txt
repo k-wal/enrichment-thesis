@@ -1,0 +1,57 @@
+27497497|t|The lost art of the splenorrhaphy
+27497497|a|In the case of the hemodynamically unstable child, splenorrhaphy is preferred to splenectomy to avert postsplenectomy sepsis. However, successful splenorrhaphy requires familiarity with the procedure. We sought to determine how many splenectomies or splenorrhaphies for trauma the average pediatric surgeon can be expected to perform during their career. The Pediatric Health Information System (PHIS) Database was queried for patients ≤18 years coded with an International Classification of Diseases 9th Edition diagnosis code of a splenic injury from 2004 to 2013. Age, gender, grade of splenic injury, and operations performed were extracted. Numbers of pediatric surgeons per hospital were obtained. 9567 children were identified. 2.1% underwent a splenectomy and 0.8% underwent a splenorrhaphy. The average surgeon performed 0.6 (SD=0.6) splenectomies and 0.2 (SD=0.4) splenorrhaphies for trauma. If these rates remain constant over time, the average surgeon would perform 1.8 (SD =1.7) splenectomies and 0.6 (SD =1.1) splenorrhaphies for trauma over a 30- year surgical career. Nonoperative management is associated with a host of benefits, but has resulted in a decrease in the experience level of the pediatric surgeons expected to perform an emergency splenectomy or splenorrhaphy when the unusual occasion arises.
+27497497	20	33	splenorrhaphy	T061	C1261005
+27497497	53	77	hemodynamically unstable	T047	C0948268
+27497497	78	83	child	T100	C0008059
+27497497	85	98	splenorrhaphy	T061	C1261005
+27497497	115	126	splenectomy	T061	C0037995
+27497497	136	151	postsplenectomy	T046	C3854596
+27497497	152	158	sepsis	T047	C0243026
+27497497	180	193	splenorrhaphy	T061	C1261005
+27497497	203	214	familiarity	T041	C0600269
+27497497	224	233	procedure	T061	C0087111
+27497497	267	280	splenectomies	T061	C0037995
+27497497	284	299	splenorrhaphies	T061	C1261005
+27497497	304	310	trauma	T037	C3714660
+27497497	323	340	pediatric surgeon	T097	C0586905
+27497497	360	367	perform	T169	C0884358
+27497497	381	387	career	T057	C0178534
+27497497	393	444	Pediatric Health Information System (PHIS) Database	T170	C0242356
+27497497	461	469	patients	T101	C0030705
+27497497	474	479	years	T079	C0439234
+27497497	494	546	International Classification of Diseases 9th Edition	T170	C2346503
+27497497	547	561	diagnosis code	T170	C1550350
+27497497	567	581	splenic injury	T037	C0160405
+27497497	601	604	Age	T032	C0001779
+27497497	606	612	gender	T032	C0079399
+27497497	614	619	grade	T185	C0441800
+27497497	623	637	splenic injury	T037	C0160405
+27497497	643	653	operations	T061	C0543467
+27497497	654	663	performed	T169	C0884358
+27497497	669	678	extracted	T078	C1516695
+27497497	691	709	pediatric surgeons	T097	C0586905
+27497497	714	722	hospital	T073,T093	C0019994
+27497497	743	751	children	T100	C0008059
+27497497	757	767	identified	T080	C0205396
+27497497	786	797	splenectomy	T061	C0037995
+27497497	819	832	splenorrhaphy	T061	C1261005
+27497497	846	853	surgeon	T097	C0582175
+27497497	854	863	performed	T169	C0884358
+27497497	877	890	splenectomies	T061	C0037995
+27497497	908	923	splenorrhaphies	T061	C1261005
+27497497	928	934	trauma	T037	C3714660
+27497497	945	950	rates	T081	C1521828
+27497497	958	966	constant	T080	C1948059
+27497497	990	997	surgeon	T097	C0582175
+27497497	1004	1011	perform	T169	C0884358
+27497497	1026	1039	splenectomies	T061	C0037995
+27497497	1058	1073	splenorrhaphies	T061	C1261005
+27497497	1078	1084	trauma	T037	C3714660
+27497497	1096	1100	year	T079	C0439234
+27497497	1101	1116	surgical career	T057	C0178534
+27497497	1118	1141	Nonoperative management	T061	C0161969
+27497497	1219	1235	experience level	T080	C0870520
+27497497	1243	1261	pediatric surgeons	T097	C0586905
+27497497	1274	1281	perform	T169	C0884358
+27497497	1295	1306	splenectomy	T061	C0037995
+27497497	1310	1323	splenorrhaphy	T061	C1261005

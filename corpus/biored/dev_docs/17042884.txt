@@ -1,0 +1,73 @@
+17042884|t|Placebo-level incidence of extrapyramidal symptoms (EPS) with quetiapine in controlled studies of patients with bipolar mania.
+17042884|a|OBJECTIVES: To evaluate extrapyramidal symptoms (EPS), including akathisia, with quetiapine in patients with bipolar mania. METHODS: Data were analyzed from four similarly designed, randomized, double-blind, 3- to 12-week studies. Two studies evaluated quetiapine monotherapy (up to 800 mg/day) (n = 209) versus placebo (n = 198), with lithium or haloperidol monotherapy as respective active controls. Two studies evaluated quetiapine (up to 800 mg/day) in combination with a mood stabilizer (lithium or divalproex, QTP + Li/DVP) (n = 196) compared to placebo and mood stabilizer (PBO + Li/DVP) (n = 203). Extrapyramidal symptoms were evaluated using the Simpson-Angus Scale (SAS), the Barnes Akathisia Rating Scale (BARS), adverse event reports and anticholinergic drug usage. RESULTS: The incidence of EPS-related adverse events, including akathisia, was no different with quetiapine monotherapy (12.9%) than with placebo (13.1%). Similarly, EPS-related adverse events with QTP + Li/DVP (21.4%) were no different than with PBO + Li/DVP (19.2%). Adverse events related to EPS occurred in 59.6% of patients treated with haloperidol (n = 99) monotherapy, whereas 26.5% of patients treated with lithium (n = 98) monotherapy experienced adverse events related to EPS. The incidence of akathisia was low and similar with quetiapine monotherapy (3.3%) and placebo (6.1%), and with QTP + Li/DVP (3.6%) and PBO + Li/DVP (4.9%). Lithium was associated with a significantly higher incidence (p < 0.05) of tremor (18.4%) than quetiapine (5.6%); cerebellar tremor, which is a known adverse effect of lithium, may have contributed to the elevated rate of tremor in patients receiving lithium therapy. Haloperidol induced a significantly higher incidence (p < 0.001) of akathisia (33.3% versus 5.9%), tremor (30.3% versus 7.8%), and extrapyramidal syndrome (35.4% versus 5.9%) than quetiapine. No significant differences were observed between quetiapine and placebo on SAS and BARS scores. Anticholinergic use was low and similar with quetiapine or placebo. CONCLUSIONS: In bipolar mania, the incidence of EPS, including akathisia, with quetiapine therapy is similar to that with placebo.
+17042884	27	50	extrapyramidal symptoms	DiseaseOrPhenotypicFeature	D001480
+17042884	52	55	EPS	DiseaseOrPhenotypicFeature	D001480
+17042884	62	72	quetiapine	ChemicalEntity	C069541
+17042884	98	106	patients	OrganismTaxon	9606
+17042884	112	125	bipolar mania	DiseaseOrPhenotypicFeature	D001714
+17042884	151	174	extrapyramidal symptoms	DiseaseOrPhenotypicFeature	D001480
+17042884	176	179	EPS	DiseaseOrPhenotypicFeature	D001480
+17042884	192	201	akathisia	DiseaseOrPhenotypicFeature	D017109
+17042884	208	218	quetiapine	ChemicalEntity	C069541
+17042884	222	230	patients	OrganismTaxon	9606
+17042884	236	249	bipolar mania	DiseaseOrPhenotypicFeature	D001714
+17042884	380	390	quetiapine	ChemicalEntity	C069541
+17042884	463	470	lithium	ChemicalEntity	D008094
+17042884	474	485	haloperidol	ChemicalEntity	D006220
+17042884	551	561	quetiapine	ChemicalEntity	C069541
+17042884	620	627	lithium	ChemicalEntity	D008094
+17042884	631	641	divalproex	ChemicalEntity	D014635
+17042884	643	646	QTP	ChemicalEntity	C069541
+17042884	649	651	Li	ChemicalEntity	D008094
+17042884	652	655	DVP	ChemicalEntity	D014635
+17042884	714	716	Li	ChemicalEntity	D008094
+17042884	717	720	DVP	ChemicalEntity	D014635
+17042884	733	756	Extrapyramidal symptoms	DiseaseOrPhenotypicFeature	D001480
+17042884	877	897	anticholinergic drug	ChemicalEntity	D018680
+17042884	931	934	EPS	DiseaseOrPhenotypicFeature	D001480
+17042884	969	978	akathisia	DiseaseOrPhenotypicFeature	D017109
+17042884	1002	1012	quetiapine	ChemicalEntity	C069541
+17042884	1071	1074	EPS	DiseaseOrPhenotypicFeature	D001480
+17042884	1103	1106	QTP	ChemicalEntity	C069541
+17042884	1109	1111	Li	ChemicalEntity	D008094
+17042884	1112	1115	DVP	ChemicalEntity	D014635
+17042884	1158	1160	Li	ChemicalEntity	D008094
+17042884	1161	1164	DVP	ChemicalEntity	D014635
+17042884	1200	1203	EPS	DiseaseOrPhenotypicFeature	D001480
+17042884	1225	1233	patients	OrganismTaxon	9606
+17042884	1247	1258	haloperidol	ChemicalEntity	D006220
+17042884	1298	1306	patients	OrganismTaxon	9606
+17042884	1320	1327	lithium	ChemicalEntity	D008094
+17042884	1387	1390	EPS	DiseaseOrPhenotypicFeature	D001480
+17042884	1409	1418	akathisia	DiseaseOrPhenotypicFeature	D017109
+17042884	1444	1454	quetiapine	ChemicalEntity	C069541
+17042884	1503	1506	QTP	ChemicalEntity	C069541
+17042884	1509	1511	Li	ChemicalEntity	D008094
+17042884	1512	1515	DVP	ChemicalEntity	D014635
+17042884	1533	1535	Li	ChemicalEntity	D008094
+17042884	1536	1539	DVP	ChemicalEntity	D014635
+17042884	1548	1555	Lithium	ChemicalEntity	D008094
+17042884	1623	1629	tremor	DiseaseOrPhenotypicFeature	D014202
+17042884	1643	1653	quetiapine	ChemicalEntity	C069541
+17042884	1673	1679	tremor	DiseaseOrPhenotypicFeature	D014202
+17042884	1716	1723	lithium	ChemicalEntity	D008094
+17042884	1770	1776	tremor	DiseaseOrPhenotypicFeature	D014202
+17042884	1780	1788	patients	OrganismTaxon	9606
+17042884	1799	1806	lithium	ChemicalEntity	D008094
+17042884	1816	1827	Haloperidol	ChemicalEntity	D006220
+17042884	1884	1893	akathisia	DiseaseOrPhenotypicFeature	D017109
+17042884	1915	1921	tremor	DiseaseOrPhenotypicFeature	D014202
+17042884	1947	1970	extrapyramidal syndrome	DiseaseOrPhenotypicFeature	D001480
+17042884	1996	2006	quetiapine	ChemicalEntity	C069541
+17042884	2057	2067	quetiapine	ChemicalEntity	C069541
+17042884	2104	2119	Anticholinergic	ChemicalEntity	D018680
+17042884	2149	2159	quetiapine	ChemicalEntity	C069541
+17042884	2188	2201	bipolar mania	DiseaseOrPhenotypicFeature	D001714
+17042884	2220	2223	EPS	DiseaseOrPhenotypicFeature	D001480
+17042884	2235	2244	akathisia	DiseaseOrPhenotypicFeature	D017109
+17042884	2251	2261	quetiapine	ChemicalEntity	C069541
+17042884	Positive_Correlation	D014202	D008094	Novel
+17042884	Positive_Correlation	D006220	D017109	Novel
+17042884	Positive_Correlation	D006220	D014202	Novel
+17042884	Positive_Correlation	D001480	D008094	Novel
+17042884	Positive_Correlation	D001480	D006220	Novel

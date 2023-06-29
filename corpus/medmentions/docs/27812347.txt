@@ -1,0 +1,104 @@
+27812347|t|T2-Imaging Changes in the Nigrosome-1 Relate to Clinical Measures of Parkinson's Disease
+27812347|a|The nigrosome-1 region of the substantia nigra (SN) undergoes the greatest and earliest dopaminergic neuron loss in Parkinson's disease (PD). As T2-weighted magnetic resonance imaging (MRI) scans are often collected with routine clinical MRI protocols, this investigation aims to determine whether T2-imaging changes in the nigrosome-1 are related to clinical measures of PD and to assess their potential as a more clinically accessible biomarker for PD. Voxel intensity ratios were calculated for T2-weighted MRI scans from 47 subjects from the Parkinson's Progression Markers Initiative database. Three approaches were used to delineate the SN and nigrosome-1: (1) manual segmentation, (2) automated segmentation, and (3) area voxel -based morphometry. Voxel intensity ratios were calculated from voxel intensity values taken from the nigrosome-1 and two areas of the remaining SN. Linear regression analyses were conducted relating voxel intensity ratios with the Movement Disorder Society-Unified Parkinson's Disease Rating Scale (MDS-UPDRS) sub-scores for each subject. For manual segmentation, linear regression tests consistently identified the voxel intensity ratio derived from the dorsolateral SN and nigrosome-1 (IR2) as predictive of nBehav (p = 0.0377) and nExp (p = 0.03856). For automated segmentation, linear regression tests identified IR2 as predictive of Subscore IA (nBehav) (p = 0.01134), Subscore IB (nExp) (p = 0.00336), Score II (mExp) (p = 0.02125), and Score III (mSign) (p = 0.008139). For the voxel -based morphometric approach, univariate simple linear regression analysis identified IR2 as yielding significant results for nBehav (p = 0.003102), mExp (p = 0.0172), and mSign (p = 0.00393). Neuroimaging biomarkers may be used as a proxy of changes in the nigrosome-1, measured by MDS-UPDRS scores as an indicator of the severity of PD. The voxel intensity ratio derived from the dorsolateral SN and nigrosome-1 was consistently predictive of non-motor complex behaviors in all three analyses and predictive of non-motor experiences of daily living, motor experiences of daily living, and motor signs of PD in two of the three analyses. These results suggest that T2 changes in the nigrosome-1 may relate to certain clinical measures of PD. T2 changes in the nigrosome-1 may be considered when developing a more accessible clinical diagnostic tool for patients with suspected PD.
+27812347	0	10	T2-Imaging	T060	C0412676
+27812347	11	18	Changes	T169	C0392747
+27812347	26	37	Nigrosome-1	T025	C1512035
+27812347	48	65	Clinical Measures	T201	C0683325
+27812347	69	88	Parkinson's Disease	T047	C0030567
+27812347	93	104	nigrosome-1	T025	C1512035
+27812347	119	135	substantia nigra	T023	C0038590
+27812347	137	139	SN	T023	C0038590
+27812347	177	201	dopaminergic neuron loss	T033	C3550005
+27812347	205	224	Parkinson's disease	T047	C0030567
+27812347	226	228	PD	T047	C0030567
+27812347	234	284	T2-weighted magnetic resonance imaging (MRI) scans	T060	C0412676
+27812347	318	326	clinical	T080	C0205210
+27812347	327	330	MRI	T060	C0024485
+27812347	347	360	investigation	T058	C0220825
+27812347	387	397	T2-imaging	T060	C0412676
+27812347	398	405	changes	T169	C0392747
+27812347	413	424	nigrosome-1	T025	C1512035
+27812347	440	457	clinical measures	T201	C0683325
+27812347	461	463	PD	T047	C0030567
+27812347	471	477	assess	T058	C0184514
+27812347	484	493	potential	T080	C3245505
+27812347	526	535	biomarker	T201	C0005516
+27812347	540	542	PD	T047	C0030567
+27812347	544	566	Voxel intensity ratios	T081	C0392762
+27812347	572	582	calculated	T052	C1441506
+27812347	587	608	T2-weighted MRI scans	T060	C0412676
+27812347	635	646	Parkinson's	T047	C0030567
+27812347	647	666	Progression Markers	T078	C1511983
+27812347	678	686	database	T170	C0242356
+27812347	732	734	SN	T023	C0038590
+27812347	739	750	nigrosome-1	T025	C1512035
+27812347	756	762	manual	T169	C0175674
+27812347	763	775	segmentation	T059	C0200768
+27812347	781	790	automated	T169	C0205554
+27812347	791	803	segmentation	T059	C0200768
+27812347	818	823	voxel	T077	C2700259
+27812347	831	842	morphometry	T059	C0200760
+27812347	844	866	Voxel intensity ratios	T081	C0392762
+27812347	872	882	calculated	T052	C1441506
+27812347	888	910	voxel intensity values	T081	C0392762
+27812347	926	937	nigrosome-1	T025	C1512035
+27812347	969	971	SN	T023	C0038590
+27812347	973	999	Linear regression analyses	T081	C0023733
+27812347	1024	1046	voxel intensity ratios	T081	C0392762
+27812347	1056	1122	Movement Disorder Society-Unified Parkinson's Disease Rating Scale	T170	C3639714
+27812347	1124	1133	MDS-UPDRS	T170	C3639714
+27812347	1135	1145	sub-scores	T081	C0449820
+27812347	1168	1174	manual	T169	C0175674
+27812347	1175	1187	segmentation	T059	C0200768
+27812347	1189	1206	linear regression	T081	C0023733
+27812347	1241	1262	voxel intensity ratio	T081	C0392762
+27812347	1280	1292	dorsolateral	T082	C2983598
+27812347	1293	1295	SN	T023	C0038590
+27812347	1300	1311	nigrosome-1	T025	C1512035
+27812347	1335	1341	nBehav	T058	C1160858
+27812347	1359	1363	nExp	T033	C0243095
+27812347	1383	1392	automated	T169	C0205554
+27812347	1393	1405	segmentation	T059	C0200768
+27812347	1407	1424	linear regression	T081	C0023733
+27812347	1463	1471	Subscore	T081	C0449820
+27812347	1476	1482	nBehav	T058	C1160858
+27812347	1499	1507	Subscore	T081	C0449820
+27812347	1512	1516	nExp	T033	C0243095
+27812347	1533	1538	Score	T081	C0449820
+27812347	1543	1547	mExp	T040	C0026612
+27812347	1568	1573	Score	T081	C0449820
+27812347	1579	1584	mSign	T170	C3639714
+27812347	1610	1615	voxel	T077	C2700259
+27812347	1623	1644	morphometric approach	T059	C0200760
+27812347	1646	1690	univariate simple linear regression analysis	T081	C0023733
+27812347	1742	1748	nBehav	T058	C1160858
+27812347	1765	1769	mExp	T040	C0026612
+27812347	1788	1793	mSign	T184	C0037088
+27812347	1809	1821	Neuroimaging	T060	C0679575
+27812347	1822	1832	biomarkers	T201	C0005516
+27812347	1859	1866	changes	T169	C0392747
+27812347	1874	1885	nigrosome-1	T025	C1512035
+27812347	1899	1908	MDS-UPDRS	T170	C3639714
+27812347	1922	1931	indicator	T169	C1522602
+27812347	1939	1947	severity	T080	C0439793
+27812347	1951	1953	PD	T047	C0030567
+27812347	1959	1980	voxel intensity ratio	T081	C0392762
+27812347	1998	2010	dorsolateral	T082	C2983598
+27812347	2011	2013	SN	T023	C0038590
+27812347	2018	2029	nigrosome-1	T025	C1512035
+27812347	2071	2088	complex behaviors	T033	C0474411
+27812347	2154	2166	daily living	T056	C0001288
+27812347	2168	2173	motor	T169	C1513492
+27812347	2189	2201	daily living	T056	C0001288
+27812347	2207	2218	motor signs	T184	C0037088
+27812347	2222	2224	PD	T047	C0030567
+27812347	2285	2292	changes	T169	C0392747
+27812347	2300	2311	nigrosome-1	T025	C1512035
+27812347	2334	2351	clinical measures	T201	C0683325
+27812347	2355	2357	PD	T047	C0030567
+27812347	2362	2369	changes	T169	C0392747
+27812347	2377	2388	nigrosome-1	T025	C1512035
+27812347	2441	2449	clinical	T080	C0205210
+27812347	2450	2465	diagnostic tool	T060	C0430022
+27812347	2470	2478	patients	T101	C0030705
+27812347	2494	2496	PD	T047	C0030567

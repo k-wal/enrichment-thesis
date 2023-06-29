@@ -1,0 +1,85 @@
+27837176|t|Chondrocyte proliferation, viability and differentiation is declined following administration of methylphenidate utilized for the treatment of attention-deficit/hyperactivity disorder
+27837176|a|Methylphenidate (MPH) derivative drugs are used because of psychostimulants effects on attention-deficit hyperactivity disorder in children and adults. As far as we know, toxic or anti-proliferative effects of MPH against cartilage tissue were not studied in the literature. The present study was carried out to investigate the possible effects of MPH on the proliferation, viability and differentiation of primary human chondrocytes, in vitro. Monolayer primary chondrocyte cultures were prepared using osteochondral tissue obtained from patients who underwent a total knee prosthesis operation. Stock solution of MPH was prepared and aliquots having 1-1000 µM concentrations of the drug was composed. These solutions were applied to the wells containing cultured chondrocyte samples within the well plates. Control groups were composed of pure chondrocyte culture and no solution was added into them. All groups were evaluated at 24, 48 and 72 h in order to determine the possible negative effects of the drug on the chondrocytes. The data were evaluated by Tukey's honestly significantly different test following analysis of variance. In the group where MPH was applied, it was found that viability, proliferation and stage-specific embryonic antigen-1 protein expression were decreased in comparison to the control group. It was emphasized that clinicians should not disregard the fact that this drug might suppress chondrocyte cell proliferation and chondrogenic differentiation.
+27837176	0	25	Chondrocyte proliferation	T043	C3271470
+27837176	27	36	viability	T043	C0007620
+27837176	41	56	differentiation	T043	C0007589
+27837176	60	68	declined	T081	C0205216
+27837176	79	93	administration	T061	C1533734
+27837176	97	112	methylphenidate	T109,T121	C0025810
+27837176	130	139	treatment	T061	C0087111
+27837176	143	183	attention-deficit/hyperactivity disorder	T048	C1263846
+27837176	184	216	Methylphenidate (MPH) derivative	T109	C1320172
+27837176	217	222	drugs	T121	C1254351
+27837176	243	259	psychostimulants	T121	C0304403
+27837176	260	267	effects	T080	C1280500
+27837176	271	311	attention-deficit hyperactivity disorder	T048	C1263846
+27837176	315	323	children	T100	C0008059
+27837176	328	334	adults	T100	C0001675
+27837176	355	360	toxic	T080	C1407029
+27837176	364	390	anti-proliferative effects	T033	C0243095
+27837176	394	397	MPH	T109,T121	C0025810
+27837176	406	422	cartilage tissue	T024	C0007301
+27837176	447	457	literature	T170	C0023866
+27837176	471	476	study	T062	C2603343
+27837176	496	507	investigate	T169	C1292732
+27837176	512	520	possible	T033	C0332149
+27837176	521	528	effects	T080	C1280500
+27837176	532	535	MPH	T109,T121	C0025810
+27837176	543	556	proliferation	T043	C3271470
+27837176	558	567	viability	T043	C0007620
+27837176	572	587	differentiation	T043	C0007589
+27837176	591	598	primary	T080	C0205225
+27837176	599	604	human	T016	C0086418
+27837176	605	617	chondrocytes	T025	C0225369
+27837176	619	627	in vitro	T080	C1533691
+27837176	639	646	primary	T080	C0205225
+27837176	647	658	chondrocyte	T025	C0225369
+27837176	659	667	cultures	T059	C1331092
+27837176	673	681	prepared	T033	C4082130
+27837176	688	701	osteochondral	T029	C2937247
+27837176	702	708	tissue	T024	C0040300
+27837176	709	717	obtained	T169	C1301820
+27837176	723	731	patients	T101	C0030705
+27837176	748	779	total knee prosthesis operation	T061	C0086511
+27837176	781	795	Stock solution	T122	C0525069
+27837176	799	802	MPH	T109,T121	C0025810
+27837176	807	815	prepared	T033	C4082130
+27837176	820	828	aliquots	T081	C1510844
+27837176	846	872	concentrations of the drug	T081	C0678756
+27837176	893	902	solutions	T122	C0525069
+27837176	908	915	applied	T169	C4048755
+27837176	923	928	wells	T082	C4283957
+27837176	929	939	containing	T169	C0332256
+27837176	940	960	cultured chondrocyte	T025	C0225369
+27837176	961	968	samples	T077	C2347026
+27837176	980	991	well plates	T074	C0180454
+27837176	993	1007	Control groups	T096	C0009932
+27837176	1030	1041	chondrocyte	T025	C0225369
+27837176	1042	1049	culture	T059	C1331092
+27837176	1054	1065	no solution	T033	C0243095
+27837176	1070	1075	added	T169	C1524062
+27837176	1091	1097	groups	T096	C0681850
+27837176	1144	1153	determine	T080	C0521095
+27837176	1158	1166	possible	T033	C0332149
+27837176	1167	1175	negative	T033	C0205160
+27837176	1176	1183	effects	T080	C1280500
+27837176	1191	1195	drug	T121	C1254351
+27837176	1203	1215	chondrocytes	T025	C0225369
+27837176	1221	1225	data	T078	C1511726
+27837176	1244	1289	Tukey's honestly significantly different test	T081	C0392762
+27837176	1300	1320	analysis of variance	T081	C0002780
+27837176	1329	1334	group	T096	C0681850
+27837176	1341	1344	MPH	T109,T121	C0025810
+27837176	1349	1356	applied	T169	C4048755
+27837176	1376	1385	viability	T043	C0007620
+27837176	1387	1400	proliferation	T043	C0596290
+27837176	1405	1439	stage-specific embryonic antigen-1	T109,T129	C0080188
+27837176	1440	1458	protein expression	T045	C1171362
+27837176	1464	1473	decreased	T081	C0205216
+27837176	1477	1487	comparison	T052	C1707455
+27837176	1495	1508	control group	T096	C0009932
+27837176	1533	1543	clinicians	T097	C0871685
+27837176	1584	1588	drug	T121	C1254351
+27837176	1595	1603	suppress	T169	C1260953
+27837176	1604	1634	chondrocyte cell proliferation	T043	C3271470
+27837176	1639	1667	chondrogenic differentiation	T043	C0007589

@@ -1,0 +1,104 @@
+28357505|t|Identification of Left Ventricle Failure on Pulmonary Artery CTA: Diagnostic Significance of Decreased Aortic & Left Ventricle Enhancement
+28357505|a|This study aimed to identify findings on non- ECG - gated CT pulmonary angiography (CTPA) indicating decreased left ventricle (LV) systolic function, later confirmed by echocardiogram. After obtaining institutional review board approval, review was performed of emergency department (ED) patients who had CTPA and follow-up echocardiogram within 48 h, over 18 months. Patients with pulmonary embolus, suboptimal CTPA, arrhythmias or pericardial tamponade were excluded. One hundred thirty-seven patients were identified and divided into cases (LVEF <40%, n = 52) and controls (LVEF >50%, n = 85). Two reviewers performed these analyses: measurement of enhancement in main pulmonary artery (MPA), LV, and aorta; subjective enhancement of LV and aorta (Ao) relative to MPA using a four-point Likert scale; contrast transit time (TD) to trigger CTPA and LV short & long axis dimensions. When available, the most recent N-terminal pro-B-type natriuretic peptide (NT-proBNP) level was recorded. Decreased aortic and LV subjective enhancement were the best predictors of LV systolic dysfunction. For Ao / MPA ratio, an optimal cutoff value of 0.20 resulted in a sensitivity of 0.54 and specificity of 0.93 (AUC = 0.83, 0.78-0.88 95% CI). A threshold of 86.7 HU for Ao enhancement resulted in a sensitivity of 0.68 and specificity of 0.90 (AUC = 0.82, 0.77-0.88 95% CI). A LV short axis diameter of more than 54.3 mm had a sensitivity of 0.62 and specificity of 0.98 (AUC = 0.88, 0.83-0.92 95% CI). For the LV long axis diameter, a cutoff of 87.5 mm resulted in a sensitivity of 0.66 and specificity of 0.84 (AUC = 0.78, 0.72-0.84 95% CI). With bolus timing, cases had a longer TD (13.4 vs. 10.4 s, p < 0.0001). Unsuspected LV systolic dysfunction can be recognized on a CTPA by identification of decreased aortic enhancement, LV enlargement and increased TD. This has important diagnostic implications for the patient presenting with shortness of breath, chest pain, or dyspnea.
+28357505	0	14	Identification	T080	C0205396
+28357505	18	40	Left Ventricle Failure	T047	C0023212
+28357505	44	60	Pulmonary Artery	T023	C0545747
+28357505	61	64	CTA	T060	C1536105
+28357505	66	76	Diagnostic	T169	C0348026
+28357505	77	89	Significance	T078	C0750502
+28357505	93	109	Decreased Aortic	T047	C0003504
+28357505	112	138	Left Ventricle Enhancement	T047	C0149721
+28357505	144	149	study	T062	C0008972
+28357505	150	155	aimed	T078	C1947946
+28357505	159	167	identify	T080	C0205396
+28357505	185	188	ECG	T033	C0013798
+28357505	191	196	gated	T033	C4266464
+28357505	197	221	CT pulmonary angiography	T060	C1641850
+28357505	223	227	CTPA	T060	C1641850
+28357505	240	249	decreased	T080	C0392756
+28357505	250	264	left ventricle	T023	C0225897
+28357505	266	268	LV	T023	C0225897
+28357505	270	287	systolic function	T033	C4025008
+28357505	308	322	echocardiogram	T170	C2243117
+28357505	340	375	institutional review board approval	T170	C2346499
+28357505	401	421	emergency department	T058	C0374899
+28357505	423	425	ED	T058	C0374899
+28357505	427	435	patients	T101	C0030705
+28357505	444	448	CTPA	T060	C1641850
+28357505	463	477	echocardiogram	T170	C2243117
+28357505	488	489	h	T079	C0439227
+28357505	499	505	months	T079	C0439231
+28357505	507	515	Patients	T101	C0030705
+28357505	521	538	pulmonary embolus	T047	C0034065
+28357505	540	550	suboptimal	T080	C2984009
+28357505	551	555	CTPA	T060	C1641850
+28357505	557	568	arrhythmias	T033	C0003811
+28357505	572	593	pericardial tamponade	T047	C0007177
+28357505	599	607	excluded	T052	C2828389
+28357505	634	642	patients	T101	C0030705
+28357505	648	658	identified	T080	C0205396
+28357505	676	681	cases	T077	C1706256
+28357505	683	687	LVEF	T201	C0428772
+28357505	706	714	controls	T096	C0009932
+28357505	716	720	LVEF	T201	C0428772
+28357505	740	749	reviewers	T098	C1882950
+28357505	766	774	analyses	T062	C0936012
+28357505	776	787	measurement	T169	C0242485
+28357505	806	827	main pulmonary artery	T023	C0489875
+28357505	829	832	MPA	T023	C0489875
+28357505	835	837	LV	T023	C0225897
+28357505	843	848	aorta	T023	C0003483
+28357505	861	878	enhancement of LV	T047	C0149721
+28357505	883	888	aorta	T047	C0003486
+28357505	890	892	Ao	T047	C0003486
+28357505	906	909	MPA	T023	C0489875
+28357505	929	941	Likert scale	T170	C0451267
+28357505	943	964	contrast transit time	T079	C0040223
+28357505	966	968	TD	T079	C0040223
+28357505	981	985	CTPA	T060	C1641850
+28357505	990	992	LV	T023	C0225897
+28357505	993	1021	short & long axis dimensions	T081	C0439534
+28357505	1055	1096	N-terminal pro-B-type natriuretic peptide	T116,T123	C0754710
+28357505	1098	1107	NT-proBNP	T116,T123	C0754710
+28357505	1109	1114	level	T080	C0441889
+28357505	1129	1145	Decreased aortic	T047	C0003504
+28357505	1150	1175	LV subjective enhancement	T047	C0149721
+28357505	1190	1200	predictors	T078	C2698872
+28357505	1204	1227	LV systolic dysfunction	T047	C1277187
+28357505	1233	1235	Ao	T047	C0003486
+28357505	1238	1241	MPA	T023	C0489875
+28357505	1242	1247	ratio	T081	C0456603
+28357505	1295	1306	sensitivity	T081	C0036668
+28357505	1319	1330	specificity	T081	C0036668
+28357505	1340	1343	AUC	T081	C0376690
+28357505	1366	1368	CI	T081	C0009667
+28357505	1373	1382	threshold	T080	C0449864
+28357505	1398	1400	Ao	T047	C0003486
+28357505	1427	1438	sensitivity	T081	C0036668
+28357505	1451	1462	specificity	T081	C0036668
+28357505	1472	1475	AUC	T081	C0376690
+28357505	1498	1500	CI	T081	C0009667
+28357505	1505	1527	LV short axis diameter	T034	C0455834
+28357505	1555	1566	sensitivity	T081	C0036668
+28357505	1579	1590	specificity	T081	C0036668
+28357505	1600	1603	AUC	T081	C0376690
+28357505	1626	1628	CI	T081	C0009667
+28357505	1639	1660	LV long axis diameter	T081	C1301886
+28357505	1696	1707	sensitivity	T081	C0036668
+28357505	1720	1731	specificity	T081	C0036668
+28357505	1741	1744	AUC	T081	C0376690
+28357505	1767	1769	CI	T081	C0009667
+28357505	1791	1796	cases	T077	C1706256
+28357505	1810	1812	TD	T079	C0040223
+28357505	1856	1879	LV systolic dysfunction	T047	C1277187
+28357505	1903	1907	CTPA	T060	C1641850
+28357505	1911	1925	identification	T080	C0205396
+28357505	1929	1957	decreased aortic enhancement	T047	C0003504
+28357505	1959	1973	LV enlargement	T047	C0149721
+28357505	1978	1987	increased	T169	C0442805
+28357505	1988	1990	TD	T079	C0040223
+28357505	2011	2021	diagnostic	T169	C0348026
+28357505	2043	2050	patient	T101	C0030705
+28357505	2067	2086	shortness of breath	T184	C0013404
+28357505	2088	2098	chest pain	T184	C0008031
+28357505	2103	2110	dyspnea	T184	C0013404

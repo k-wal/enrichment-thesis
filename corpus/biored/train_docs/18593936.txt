@@ -1,0 +1,103 @@
+18593936|t|Curcumin decreases specificity protein expression in bladder cancer cells.
+18593936|a|Curcumin is the active component of tumeric, and this polyphenolic compound has been extensively investigated as an anticancer drug that modulates multiple pathways and genes. In this study, 10 to 25 micromol/L curcumin inhibited 253JB-V and KU7 bladder cancer cell growth, and this was accompanied by induction of apoptosis and decreased expression of the proapoptotic protein survivin and the angiogenic proteins vascular endothelial growth factor (VEGF) and VEGF receptor 1 (VEGFR1). Because expression of survivin, VEGF, and VEGFR1 are dependent on specificity protein (Sp) transcription factors, we also investigated the effects of curcumin on Sp protein expression as an underlying mechanism for the apoptotic and antiangiogenic activity of this compound. The results show that curcumin induced proteasome-dependent down-regulation of Sp1, Sp3, and Sp4 in 253JB-V and KU7 cells. Moreover, using RNA interference with small inhibitory RNAs for Sp1, Sp3, and Sp4, we observed that curcumin-dependent inhibition of nuclear factor kappaB (NF-kappaB)-dependent genes, such as bcl-2, survivin, and cyclin D1, was also due, in part, to loss of Sp proteins. Curcumin also decreased bladder tumor growth in athymic nude mice bearing KU7 cells as xenografts and this was accompanied by decreased Sp1, Sp3, and Sp4 protein levels in tumors. These results show for the first time that one of the underlying mechanisms of action of curcumin as a cancer chemotherapeutic agent is due, in part, to decreased expression of Sp transcription factors in bladder cancer cells.
+18593936	0	8	Curcumin	ChemicalEntity	D003474
+18593936	19	38	specificity protein	GeneOrGeneProduct	6667,6670,6671
+18593936	53	67	bladder cancer	DiseaseOrPhenotypicFeature	D001749
+18593936	75	83	Curcumin	ChemicalEntity	D003474
+18593936	286	294	curcumin	ChemicalEntity	D003474
+18593936	305	312	253JB-V	CellLine	CVCL_7937
+18593936	317	320	KU7	CellLine	CVCL_4714
+18593936	321	335	bladder cancer	DiseaseOrPhenotypicFeature	D001749
+18593936	432	452	proapoptotic protein	GeneOrGeneProduct	332
+18593936	453	461	survivin	GeneOrGeneProduct	332
+18593936	470	489	angiogenic proteins	GeneOrGeneProduct	2321,7422
+18593936	490	524	vascular endothelial growth factor	GeneOrGeneProduct	7422
+18593936	526	530	VEGF	GeneOrGeneProduct	7422
+18593936	536	551	VEGF receptor 1	GeneOrGeneProduct	2321
+18593936	553	559	VEGFR1	GeneOrGeneProduct	2321
+18593936	584	592	survivin	GeneOrGeneProduct	332
+18593936	594	598	VEGF	GeneOrGeneProduct	7422
+18593936	604	610	VEGFR1	GeneOrGeneProduct	2321
+18593936	628	674	specificity protein (Sp) transcription factors	GeneOrGeneProduct	6667,6670,6671
+18593936	712	720	curcumin	ChemicalEntity	D003474
+18593936	724	726	Sp	GeneOrGeneProduct	6667,6670,6671
+18593936	859	867	curcumin	ChemicalEntity	D003474
+18593936	876	886	proteasome	GeneOrGeneProduct	5698
+18593936	916	919	Sp1	GeneOrGeneProduct	6667
+18593936	921	924	Sp3	GeneOrGeneProduct	6670
+18593936	930	933	Sp4	GeneOrGeneProduct	6671
+18593936	937	944	253JB-V	CellLine	CVCL_7937
+18593936	949	952	KU7	CellLine	CVCL_4714
+18593936	1024	1027	Sp1	GeneOrGeneProduct	6667
+18593936	1029	1032	Sp3	GeneOrGeneProduct	6670
+18593936	1038	1041	Sp4	GeneOrGeneProduct	6671
+18593936	1060	1068	curcumin	ChemicalEntity	D003474
+18593936	1093	1114	nuclear factor kappaB	GeneOrGeneProduct	4790
+18593936	1116	1125	NF-kappaB	GeneOrGeneProduct	4790
+18593936	1152	1157	bcl-2	GeneOrGeneProduct	596
+18593936	1159	1167	survivin	GeneOrGeneProduct	332
+18593936	1173	1182	cyclin D1	GeneOrGeneProduct	595
+18593936	1218	1220	Sp	GeneOrGeneProduct	6667,6670,6671
+18593936	1231	1239	Curcumin	ChemicalEntity	D003474
+18593936	1255	1268	bladder tumor	DiseaseOrPhenotypicFeature	D001749
+18593936	1292	1296	mice	OrganismTaxon	10090
+18593936	1305	1308	KU7	CellLine	CVCL_4714
+18593936	1367	1370	Sp1	GeneOrGeneProduct	20683
+18593936	1372	1375	Sp3	GeneOrGeneProduct	20687
+18593936	1381	1384	Sp4	GeneOrGeneProduct	20688
+18593936	1403	1409	tumors	DiseaseOrPhenotypicFeature	D009369
+18593936	1500	1508	curcumin	ChemicalEntity	D003474
+18593936	1514	1520	cancer	DiseaseOrPhenotypicFeature	D009369
+18593936	1588	1612	Sp transcription factors	GeneOrGeneProduct	6667,6670,6671
+18593936	1616	1630	bladder cancer	DiseaseOrPhenotypicFeature	D001749
+18593936	Negative_Correlation	D009369	D003474	Novel
+18593936	Association	20688	D009369	No
+18593936	Association	20687	D009369	No
+18593936	Association	20683	D009369	No
+18593936	Association	D001749	20688	Novel
+18593936	Association	D001749	20687	Novel
+18593936	Association	D001749	20683	Novel
+18593936	Association	D001749	332	Novel
+18593936	Association	D001749	2321	Novel
+18593936	Association	D001749	7422	Novel
+18593936	Association	4790	595	No
+18593936	Association	4790	596	No
+18593936	Association	4790	332	No
+18593936	Association	5698	6671	No
+18593936	Association	5698	6670	No
+18593936	Association	5698	6667	No
+18593936	Association	2321	6671	No
+18593936	Association	2321	6670	No
+18593936	Association	2321	6667	No
+18593936	Association	7422	6671	No
+18593936	Association	7422	6670	No
+18593936	Association	7422	6667	No
+18593936	Association	6671	D001749	No
+18593936	Association	6671	595	Novel
+18593936	Association	6671	596	Novel
+18593936	Association	6671	4790	Novel
+18593936	Association	6671	332	Novel
+18593936	Association	6670	D001749	No
+18593936	Association	6670	595	Novel
+18593936	Association	6670	596	Novel
+18593936	Association	6670	4790	Novel
+18593936	Association	6670	332	Novel
+18593936	Association	6667	D001749	No
+18593936	Association	6667	595	Novel
+18593936	Association	6667	596	Novel
+18593936	Association	6667	4790	Novel
+18593936	Association	6667	332	Novel
+18593936	Negative_Correlation	D003474	20688	Novel
+18593936	Negative_Correlation	D003474	20687	Novel
+18593936	Negative_Correlation	D003474	20683	Novel
+18593936	Negative_Correlation	D003474	D001749	Novel
+18593936	Negative_Correlation	D003474	595	Novel
+18593936	Negative_Correlation	D003474	596	Novel
+18593936	Association	D003474	4790	No
+18593936	Association	D003474	5698	Novel
+18593936	Negative_Correlation	D003474	332	Novel
+18593936	Negative_Correlation	D003474	2321	Novel
+18593936	Negative_Correlation	D003474	7422	Novel
+18593936	Negative_Correlation	D003474	6671	Novel
+18593936	Negative_Correlation	D003474	6670	Novel
+18593936	Negative_Correlation	D003474	6667	Novel

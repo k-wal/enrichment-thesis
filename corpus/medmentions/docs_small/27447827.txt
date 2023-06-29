@@ -1,0 +1,47 @@
+27447827|t|Effect of Low - Dose MDCT and Iterative Reconstruction on Trabecular Bone Microstructure Assessment
+27447827|a|We investigated the effects of low - dose multi detector computed tomography (MDCT) in combination with statistical iterative reconstruction algorithms on trabecular bone microstructure parameters. Twelve donated vertebrae were scanned with the routine radiation exposure used in our department (standard-dose) and a low - dose protocol. Reconstructions were performed with filtered backprojection (FBP) and maximum-likelihood based statistical iterative reconstruction (SIR). Trabecular bone microstructure parameters were assessed and statistically compared for each reconstruction. Moreover, fracture loads of the vertebrae were biomechanically determined and correlated to the assessed microstructure parameters. Trabecular bone microstructure parameters based on low - dose MDCT and SIR significantly correlated with vertebral bone strength. There was no significant difference between microstructure parameters calculated on low - dose SIR and standard - dose FBP images. However, the results revealed a strong dependency on the regularization strength applied during SIR. It was observed that stronger regularization might corrupt the microstructure analysis, because the trabecular structure is a very small detail that might get lost during the regularization process. As a consequence, the introduction of SIR for trabecular bone microstructure analysis requires a specific optimization of the regularization parameters. Moreover, in comparison to other approaches, superior noise - resolution trade-offs can be found with the proposed methods.
+27447827	21	25	MDCT	T058	UMLS:C0040405
+27447827	30	54	Iterative Reconstruction	T058	UMLS:C2986769
+27447827	58	73	Trabecular Bone	T017	UMLS:C0222660
+27447827	74	88	Microstructure	T082	UMLS:C0678594
+27447827	142	176	multi detector computed tomography	T058	UMLS:C0040405
+27447827	178	182	MDCT	T058	UMLS:C0040405
+27447827	204	240	statistical iterative reconstruction	T058	UMLS:C2986769
+27447827	241	251	algorithms	T170	UMLS:C0002045
+27447827	255	270	trabecular bone	T017	UMLS:C0222660
+27447827	271	285	microstructure	T082	UMLS:C0678594
+27447827	305	312	donated	T058	UMLS:C3854058
+27447827	313	322	vertebrae	T017	UMLS:C0549207
+27447827	328	335	scanned	T058	UMLS:C0441633
+27447827	353	371	radiation exposure	T058	UMLS:C1313941
+27447827	384	394	department	T092	UMLS:C1704729
+27447827	428	436	protocol	T058	UMLS:C0040808
+27447827	438	453	Reconstructions	T058	UMLS:C0524865
+27447827	474	497	filtered backprojection	T058	UMLS:C2986750
+27447827	499	502	FBP	T058	UMLS:C2986750
+27447827	533	569	statistical iterative reconstruction	T058	UMLS:C2986769
+27447827	571	574	SIR	T058	UMLS:C2986769
+27447827	577	592	Trabecular bone	T017	UMLS:C0222660
+27447827	593	607	microstructure	T082	UMLS:C0678594
+27447827	669	683	reconstruction	T058	UMLS:C0524865
+27447827	695	709	fracture loads	T037	UMLS:C0016658
+27447827	717	726	vertebrae	T017	UMLS:C0549207
+27447827	790	804	microstructure	T082	UMLS:C0678594
+27447827	817	832	Trabecular bone	T017	UMLS:C0222660
+27447827	833	847	microstructure	T082	UMLS:C0678594
+27447827	879	883	MDCT	T058	UMLS:C0040405
+27447827	888	891	SIR	T058	UMLS:C2986769
+27447827	922	936	vertebral bone	T017	UMLS:C0549207
+27447827	957	971	no significant	T033	UMLS:C0243095
+27447827	991	1005	microstructure	T082	UMLS:C0678594
+27447827	1042	1045	SIR	T058	UMLS:C2986769
+27447827	1066	1069	FBP	T058	UMLS:C2986750
+27447827	1070	1076	images	T170	UMLS:C1704254
+27447827	1174	1177	SIR	T058	UMLS:C2986769
+27447827	1242	1256	microstructure	T082	UMLS:C0678594
+27447827	1279	1289	trabecular	T017	UMLS:C0222660
+27447827	1290	1299	structure	T082	UMLS:C0678594
+27447827	1416	1419	SIR	T058	UMLS:C2986769
+27447827	1424	1439	trabecular bone	T017	UMLS:C0222660
+27447827	1440	1454	microstructure	T082	UMLS:C0678594
+27447827	1646	1653	methods	T170	UMLS:C0025663

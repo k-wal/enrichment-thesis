@@ -1,0 +1,98 @@
+28077898|t|Quality Improvement of Liver Ultrasound Images Using Fuzzy Techniques
+28077898|a|Liver ultrasound images are so common and are applied so often to diagnose diffuse liver diseases like fatty liver. However, the low quality of such images makes it difficult to analyze them and diagnose diseases. The purpose of this study, therefore, is to improve the contrast and quality of liver ultrasound images. In this study, a number of image contrast enhancement algorithms which are based on fuzzy logic were applied to liver ultrasound images - in which the view of kidney is observable - using Matlab2013b to improve the image contrast and quality which has a fuzzy definition; just like image contrast improvement algorithms using a fuzzy intensification operator, contrast improvement algorithms applying fuzzy image histogram hyperbolization, and contrast improvement algorithms by fuzzy IF-THEN rules. With the measurement of Mean Squared Error and Peak Signal to Noise Ratio obtained from different images, fuzzy methods provided better results, and their implementation - compared with histogram equalization method - led both to the improvement of contrast and visual quality of images and to the improvement of liver segmentation algorithms results in images. Comparison of the four algorithms revealed the power of fuzzy logic in improving image contrast compared with traditional image processing algorithms. Moreover, contrast improvement algorithm based on a fuzzy intensification operator was selected as the strongest algorithm considering the measured indicators. This method can also be used in future studies on other ultrasound images for quality improvement and other image processing and analysis applications.
+28077898	0	19	Quality Improvement	T057	C2936612
+28077898	23	28	Liver	T023	C0023884
+28077898	29	39	Ultrasound	T060	C0041618
+28077898	40	46	Images	T170	C1704922
+28077898	53	58	Fuzzy	T170	C0162586
+28077898	59	69	Techniques	T170	C0025663
+28077898	70	75	Liver	T023	C0023884
+28077898	76	86	ultrasound	T060	C0041618
+28077898	87	93	images	T170	C1704922
+28077898	136	144	diagnose	T033	C0011900
+28077898	145	167	diffuse liver diseases	T047	C0023895
+28077898	173	184	fatty liver	T047	C0015695
+28077898	199	202	low	T080	C0205251
+28077898	203	210	quality	T080	C0332306
+28077898	219	225	images	T170	C1704922
+28077898	248	255	analyze	T062	C0936012
+28077898	265	273	diagnose	T033	C0011900
+28077898	274	282	diseases	T047	C0012634
+28077898	304	309	study	T062	C2603343
+28077898	340	348	contrast	T080	C1979874
+28077898	353	360	quality	T080	C0332306
+28077898	364	369	liver	T023	C0023884
+28077898	370	380	ultrasound	T060	C0041618
+28077898	381	387	images	T170	C1704922
+28077898	397	402	study	T062	C2603343
+28077898	416	421	image	T170	C1704922
+28077898	422	430	contrast	T080	C1979874
+28077898	431	453	enhancement algorithms	T170	C0002045
+28077898	473	484	fuzzy logic	T170	C0162586
+28077898	501	506	liver	T023	C0023884
+28077898	507	517	ultrasound	T060	C0041618
+28077898	518	524	images	T170	C1704922
+28077898	548	554	kidney	T023	C0022646
+28077898	577	588	Matlab2013b	T073,T170	C0037585
+28077898	604	609	image	T170	C1704922
+28077898	610	618	contrast	T080	C1979874
+28077898	623	630	quality	T080	C0332306
+28077898	643	648	fuzzy	T170	C0162586
+28077898	649	659	definition	T170	C1704788
+28077898	671	676	image	T170	C1704922
+28077898	677	685	contrast	T080	C1979874
+28077898	686	697	improvement	T077	C2986411
+28077898	698	708	algorithms	T170	C0002045
+28077898	717	722	fuzzy	T170	C0162586
+28077898	723	747	intensification operator	T074	C0181273
+28077898	749	757	contrast	T080	C1979874
+28077898	758	769	improvement	T077	C2986411
+28077898	770	780	algorithms	T170	C0002045
+28077898	790	795	fuzzy	T170	C0162586
+28077898	796	801	image	T170	C1704922
+28077898	802	827	histogram hyperbolization	T170	C0025663
+28077898	833	841	contrast	T080	C1979874
+28077898	842	853	improvement	T077	C2986411
+28077898	854	864	algorithms	T170	C0002045
+28077898	868	873	fuzzy	T170	C0162586
+28077898	874	887	IF-THEN rules	T170	C0870077
+28077898	898	909	measurement	T169	C0242485
+28077898	913	931	Mean Squared Error	T080	C0743559
+28077898	936	940	Peak	T080	C0444505
+28077898	941	962	Signal to Noise Ratio	T081	C2986823
+28077898	987	993	images	T170	C1704922
+28077898	995	1000	fuzzy	T170	C0162586
+28077898	1001	1008	methods	T170	C0025663
+28077898	1025	1032	results	T169	C1274040
+28077898	1044	1058	implementation	T052	C1708476
+28077898	1061	1069	compared	T052	C1707455
+28077898	1075	1104	histogram equalization method	T170	C0025663
+28077898	1123	1134	improvement	T077	C2986411
+28077898	1138	1146	contrast	T080	C1979874
+28077898	1151	1165	visual quality	T033	C0422976
+28077898	1169	1175	images	T170	C1704922
+28077898	1187	1198	improvement	T077	C2986411
+28077898	1202	1207	liver	T023	C0023884
+28077898	1208	1231	segmentation algorithms	T170	C0002045
+28077898	1243	1249	images	T170	C1704922
+28077898	1251	1261	Comparison	T052	C1707455
+28077898	1274	1284	algorithms	T170	C0002045
+28077898	1307	1318	fuzzy logic	T170	C0162586
+28077898	1332	1337	image	T170	C1704922
+28077898	1338	1346	contrast	T080	C1979874
+28077898	1347	1355	compared	T052	C1707455
+28077898	1373	1389	image processing	T066	C0178706
+28077898	1390	1400	algorithms	T170	C0002045
+28077898	1412	1420	contrast	T080	C1979874
+28077898	1421	1432	improvement	T077	C2986411
+28077898	1454	1459	fuzzy	T170	C0162586
+28077898	1460	1484	intensification operator	T074	C0181273
+28077898	1515	1524	algorithm	T170	C0002045
+28077898	1567	1573	method	T170	C0025663
+28077898	1601	1608	studies	T062	C2603343
+28077898	1618	1628	ultrasound	T060	C0041618
+28077898	1629	1635	images	T170	C1704922
+28077898	1640	1659	quality improvement	T057	C2936612
+28077898	1670	1686	image processing	T066	C0178706
+28077898	1691	1699	analysis	T062	C0936012
+28077898	1700	1712	applications	T169	C4048755

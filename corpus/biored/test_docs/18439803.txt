@@ -1,0 +1,61 @@
+18439803|t|Acute effects of N-(2-propylpentanoyl)urea on hippocampal amino acid neurotransmitters in pilocarpine-induced seizure in rats.
+18439803|a|The present study aimed to investigate the anticonvulsant activity as well as the effects on the level of hippocampal amino acid neurotransmitters (glutamate, aspartate, glycine and GABA) of N-(2-propylpentanoyl)urea (VPU) in comparison to its parent compound, valproic acid (VPA). VPU was more potent than VPA, exhibiting the median effective dose (ED(50)) of 49 mg/kg in protecting rats against pilocarpine-induced seizure whereas the corresponding value for VPA was 322 mg/kg. In vivo microdialysis demonstrated that an intraperitoneal administration of pilocarpine induced a pronounced increment of hippocampal glutamate and aspartate whereas no significant change was observed on the level of glycine and GABA. Pretreatment with either VPU (50 and 100 mg/kg) or VPA (300 and 600 mg/kg) completely abolished pilocarpine-evoked increases in extracellular glutamate and aspartate. In addition, a statistically significant reduction was also observed on the level of GABA and glycine but less than a drastic reduction of glutamate and aspartate level. Based on the finding that VPU and VPA could protect the animals against pilocarpine-induced seizure it is suggested that the reduction of inhibitory amino acid neurotransmitters was comparatively minor and offset by a pronounced reduction of glutamate and aspartate. Therefore, like VPA, the finding that VPU could drastically reduce pilocarpine-induced increases in glutamate and aspartate should account, at least partly, for its anticonvulsant activity observed in pilocarpine-induced seizure in experimental animals. Some other mechanism than those being reported herein should be further investigated.
+18439803	17	42	N-(2-propylpentanoyl)urea	ChemicalEntity	C108761
+18439803	90	101	pilocarpine	ChemicalEntity	D010862
+18439803	110	117	seizure	DiseaseOrPhenotypicFeature	D012640
+18439803	121	125	rats	OrganismTaxon	10116
+18439803	275	284	glutamate	ChemicalEntity	D018698
+18439803	286	295	aspartate	ChemicalEntity	D001224
+18439803	297	304	glycine	ChemicalEntity	D005998
+18439803	309	313	GABA	ChemicalEntity	D005680
+18439803	318	343	N-(2-propylpentanoyl)urea	ChemicalEntity	C108761
+18439803	345	348	VPU	ChemicalEntity	C108761
+18439803	388	401	valproic acid	ChemicalEntity	D014635
+18439803	403	406	VPA	ChemicalEntity	D014635
+18439803	409	412	VPU	ChemicalEntity	C108761
+18439803	434	437	VPA	ChemicalEntity	D014635
+18439803	511	515	rats	OrganismTaxon	10116
+18439803	524	535	pilocarpine	ChemicalEntity	D010862
+18439803	544	551	seizure	DiseaseOrPhenotypicFeature	D012640
+18439803	588	591	VPA	ChemicalEntity	D014635
+18439803	684	695	pilocarpine	ChemicalEntity	D010862
+18439803	742	751	glutamate	ChemicalEntity	D018698
+18439803	756	765	aspartate	ChemicalEntity	D001224
+18439803	825	832	glycine	ChemicalEntity	D005998
+18439803	837	841	GABA	ChemicalEntity	D005680
+18439803	868	871	VPU	ChemicalEntity	C108761
+18439803	894	897	VPA	ChemicalEntity	D014635
+18439803	939	950	pilocarpine	ChemicalEntity	D010862
+18439803	985	994	glutamate	ChemicalEntity	D018698
+18439803	999	1008	aspartate	ChemicalEntity	D001224
+18439803	1095	1099	GABA	ChemicalEntity	D005680
+18439803	1104	1111	glycine	ChemicalEntity	D005998
+18439803	1149	1158	glutamate	ChemicalEntity	D018698
+18439803	1163	1172	aspartate	ChemicalEntity	D001224
+18439803	1206	1209	VPU	ChemicalEntity	C108761
+18439803	1214	1217	VPA	ChemicalEntity	D014635
+18439803	1252	1263	pilocarpine	ChemicalEntity	D010862
+18439803	1272	1279	seizure	DiseaseOrPhenotypicFeature	D012640
+18439803	1422	1431	glutamate	ChemicalEntity	D018698
+18439803	1436	1445	aspartate	ChemicalEntity	D001224
+18439803	1463	1466	VPA	ChemicalEntity	D014635
+18439803	1485	1488	VPU	ChemicalEntity	C108761
+18439803	1514	1525	pilocarpine	ChemicalEntity	D010862
+18439803	1547	1556	glutamate	ChemicalEntity	D018698
+18439803	1561	1570	aspartate	ChemicalEntity	D001224
+18439803	1648	1659	pilocarpine	ChemicalEntity	D010862
+18439803	1668	1675	seizure	DiseaseOrPhenotypicFeature	D012640
+18439803	Negative_Correlation	D014635	D001224	Novel
+18439803	Negative_Correlation	D014635	D018698	Novel
+18439803	Negative_Correlation	D014635	D010862	Novel
+18439803	Association	C108761	D005680	No
+18439803	Association	C108761	D005998	No
+18439803	Negative_Correlation	C108761	D001224	Novel
+18439803	Negative_Correlation	C108761	D018698	Novel
+18439803	Comparison	C108761	D014635	Novel
+18439803	Negative_Correlation	C108761	D012640	Novel
+18439803	Negative_Correlation	C108761	D010862	Novel
+18439803	Negative_Correlation	D012640	D014635	Novel
+18439803	Positive_Correlation	D010862	D001224	Novel
+18439803	Positive_Correlation	D010862	D018698	Novel
+18439803	Positive_Correlation	D010862	D012640	No

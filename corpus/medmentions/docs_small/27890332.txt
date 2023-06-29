@@ -1,0 +1,27 @@
+27890332|t|Impact of hospital transfer on surgical outcomes of intestinal atresia
+27890332|a|Examine effects of hospital transfer into a quaternary care center on surgical outcomes of intestinal atresia. Children <1 yo principally diagnosed with intestinal atresia were identified using the Kids' Inpatient Database (2012). Exposure variable was patient transfer status. Outcomes measured were inpatient mortality, hospital length of stay (LOS) and discharge status. Linearized standard errors, design-based F tests, and multivariable logistic regression were performed. 1672 weighted discharges represented a national cohort. The highest income group and those with private insurance had significantly lower odds of transfer (OR:0.53 and 0.74, p < 0.05). Rural patients had significantly higher transfer rates (OR: 2.73, p < 0.05). Multivariate analysis revealed no difference in mortality (OR:0.71, p = 0.464) or non-home discharge (OR: 0.79, p = 0.166), but showed prolonged LOS (OR:1.79, p < 0.05) amongst transferred patients. Significant differences in hospital LOS and treatment access reveal a potential healthcare gap. Post-acute care resources should be improved for transferred patients.
+27890332	31	48	surgical outcomes	T033	UMLS:C0544721
+27890332	52	70	intestinal atresia	T038	UMLS:C0021828
+27890332	115	137	quaternary care center	T092	UMLS:C3658282
+27890332	141	158	surgical outcomes	T033	UMLS:C0544721
+27890332	162	180	intestinal atresia	T038	UMLS:C0021828
+27890332	209	218	diagnosed	T033	UMLS:C0011900
+27890332	224	242	intestinal atresia	T038	UMLS:C0021828
+27890332	269	293	Kids' Inpatient Database	T170	UMLS:C0242356
+27890332	332	347	transfer status	T033	UMLS:C0586512
+27890332	427	443	discharge status	T033	UMLS:C0586514
+27890332	473	493	design-based F tests	T170	UMLS:C0870536
+27890332	499	532	multivariable logistic regression	T062	UMLS:C0206031
+27890332	554	573	weighted discharges	T058	UMLS:C0030685
+27890332	588	603	national cohort	T098	UMLS:C0599755
+27890332	609	623	highest income	T033	UMLS:C0948433
+27890332	624	629	group	T098	UMLS:C1257890
+27890332	645	662	private insurance	T058	UMLS:C2347682
+27890332	695	703	transfer	T058	UMLS:C0030704
+27890332	734	739	Rural	T033	UMLS:C0240919
+27890332	774	782	transfer	T058	UMLS:C0030704
+27890332	893	911	non-home discharge	T058	UMLS:C0030685
+27890332	1054	1063	treatment	T058	UMLS:C0087111
+27890332	1090	1100	healthcare	T058	UMLS:C0086388
+27890332	1106	1121	Post-acute care	T091	UMLS:C0376635
+27890332	1142	1150	improved	T033	UMLS:C0184511

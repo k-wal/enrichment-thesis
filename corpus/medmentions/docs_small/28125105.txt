@@ -1,0 +1,52 @@
+28125105|t|Conditional reprogramming and long-term expansion of normal and tumor cells from human biospecimens
+28125105|a|Historically, it has been difficult to propagate cells in vitro that are derived directly from human tumors or healthy tissue. However, in vitro preclinical models are essential tools for both the study of basic cancer biology and the promotion of translational research, including drug discovery and drug target identification. This protocol describes conditional reprogramming (CR), which involves coculture of irradiated mouse fibroblast feeder cells with normal and tumor human epithelial cells in the presence of a Rho kinase inhibitor (Y-27632). CR cells can be used for various applications, including regenerative medicine, drug sensitivity testing, gene expression profiling and xenograft studies. The method requires a pathologist to differentiate healthy tissue from tumor tissue, and basic tissue culture skills. The protocol can be used with cells derived from both fresh and cryopreserved tissue samples. As approximately 1 million cells can be generated in 7 d, the technique is directly applicable to diagnostic and predictive medicine. Moreover, the epithelial cells can be propagated indefinitely in vitro, yet retain the capacity to become fully differentiated when placed into conditions that mimic their natural environment.
+28125105	0	25	Conditional reprogramming	T058	UMLS:C4042857
+28125105	40	49	expansion	T038	UMLS:C0007595
+28125105	53	59	normal	T017	UMLS:C1268443
+28125105	64	75	tumor cells	T017	UMLS:C0431085
+28125105	81	86	human	T204	UMLS:C0086418
+28125105	149	154	cells	T017	UMLS:C0007634
+28125105	195	200	human	T204	UMLS:C0086418
+28125105	201	207	tumors	T038	UMLS:C0027651
+28125105	211	225	healthy tissue	T017	UMLS:C0040300
+28125105	245	263	preclinical models	T170	UMLS:C1514292
+28125105	297	326	study of basic cancer biology	T091	UMLS:C1516164
+28125105	348	370	translational research	T062	UMLS:C3494163
+28125105	382	396	drug discovery	T062	UMLS:C0920472
+28125105	401	427	drug target identification	T074	UMLS:C0085104
+28125105	434	442	protocol	T058	UMLS:C4042857
+28125105	453	478	conditional reprogramming	T038	UMLS:C3850096
+28125105	480	482	CR	T038	UMLS:C3850096
+28125105	500	509	coculture	T058	UMLS:C0282547
+28125105	524	529	mouse	T204	UMLS:C0025929
+28125105	530	553	fibroblast feeder cells	T017	UMLS:C3179110
+28125105	559	565	normal	T017	UMLS:C1268443
+28125105	570	575	tumor	T038	UMLS:C0027651
+28125105	576	581	human	T204	UMLS:C0086418
+28125105	582	598	epithelial cells	T017	UMLS:C0014597
+28125105	620	630	Rho kinase	T103	UMLS:C0389995
+28125105	631	640	inhibitor	T103	UMLS:C0014432
+28125105	642	649	Y-27632	T103	UMLS:C0667301
+28125105	652	654	CR	T058	UMLS:C4042857
+28125105	655	660	cells	T017	UMLS:C0007634
+28125105	709	730	regenerative medicine	T091	UMLS:C1257974
+28125105	732	756	drug sensitivity testing	T058	UMLS:C0013207
+28125105	758	783	gene expression profiling	T058	UMLS:C0752248
+28125105	788	805	xenograft studies	T058	UMLS:C0520484
+28125105	811	817	method	T058	UMLS:C4042857
+28125105	829	840	pathologist	T097	UMLS:C0334866
+28125105	858	872	healthy tissue	T017	UMLS:C0040300
+28125105	878	890	tumor tissue	T017	UMLS:C0475358
+28125105	896	916	basic tissue culture	T058	UMLS:C0040284
+28125105	929	937	protocol	T058	UMLS:C4042857
+28125105	955	960	cells	T017	UMLS:C0007634
+28125105	979	984	fresh	T017	UMLS:C1519521
+28125105	989	1017	cryopreserved tissue samples	T017	UMLS:C1511549
+28125105	1046	1051	cells	T017	UMLS:C0007634
+28125105	1081	1090	technique	T058	UMLS:C4042857
+28125105	1117	1127	diagnostic	T103	UMLS:C0358514
+28125105	1143	1151	medicine	T103	UMLS:C0013227
+28125105	1167	1183	epithelial cells	T017	UMLS:C0014597
+28125105	1265	1279	differentiated	T038	UMLS:C0007589
+28125105	1297	1307	conditions	T082	UMLS:C0014406
+28125105	1325	1344	natural environment	T082	UMLS:C0557745

@@ -1,0 +1,77 @@
+28518143|t|Calcium sensing receptor protects high glucose-induced energy metabolism disorder via blocking gp78-ubiquitin proteasome pathway.
+28518143|a|Diabetic cardiomyopathy (DCM) is a major complication and fatal cause of the patients with diabetes. The calcium sensing receptor (CaSR) is a G protein-coupled receptor, which is involved in maintaining calcium homeostasis, regulating cell proliferation and apoptosis, and so on. In our previous study, we found that CaSR expression, intracellular calcium levels and cardiac function were all significantly decreased in DCM rats; however, the exact mechanism are not clear yet. The present study revealed the protective role of CaSR in myocardial energy metabolism disorder induced by high glucose (HG) as well as the underlying mechanism. Here, we demonstrated that HG decreased the expression of CaSR, mitochondrial fusion proteins (Mfn1, Mfn2), cell gap junction related proteins (Cx43, beta-catenin, N-cadherin), and intracellular ATP concentration. In contrast, HG increased extracellular ATP concentration, the expression of gp78, mitochondrial fission proteins (Fis1, Drp1), and the ubiquitination levels of Mfn1, Mfn2 and Cx43. Moreover, CaSR agonist and gp78-siRNA significantly reduced the above changes. Taken together, these results suggest that HG induces myocardial energy metabolism disorder via decrease of CaSR expression, and activation of gp78-ubiquitin proteasome system. In turn, these effects disrupt the structure and function of the mitochondria and the cell gap junction, result in the reduced ATP synthesis and the increased ATP leakage. Stimulation of CaSR significantly attenuates HG-induced abnormal myocardial energy metabolism, suggesting CaSR would be a promising potential therapeutic target for DCM.
+28518143	0	24	Calcium sensing receptor	GeneOrGeneProduct	24247
+28518143	39	46	glucose	ChemicalEntity	D005947
+28518143	62	81	metabolism disorder	DiseaseOrPhenotypicFeature	D008659
+28518143	95	99	gp78	GeneOrGeneProduct	361367
+28518143	130	153	Diabetic cardiomyopathy	DiseaseOrPhenotypicFeature	D058065
+28518143	155	158	DCM	DiseaseOrPhenotypicFeature	D002311
+28518143	207	215	patients	OrganismTaxon	9606
+28518143	221	229	diabetes	DiseaseOrPhenotypicFeature	D003920
+28518143	235	259	calcium sensing receptor	GeneOrGeneProduct	24247
+28518143	261	265	CaSR	GeneOrGeneProduct	24247
+28518143	272	298	G protein-coupled receptor	GeneOrGeneProduct	24247
+28518143	333	340	calcium	ChemicalEntity	D002118
+28518143	447	451	CaSR	GeneOrGeneProduct	24247
+28518143	478	485	calcium	ChemicalEntity	D002118
+28518143	550	553	DCM	DiseaseOrPhenotypicFeature	D002311
+28518143	554	558	rats	OrganismTaxon	10116
+28518143	658	662	CaSR	GeneOrGeneProduct	24247
+28518143	666	703	myocardial energy metabolism disorder	DiseaseOrPhenotypicFeature	D009202
+28518143	720	727	glucose	ChemicalEntity	D005947
+28518143	828	832	CaSR	GeneOrGeneProduct	24247
+28518143	865	869	Mfn1	GeneOrGeneProduct	192647
+28518143	871	875	Mfn2	GeneOrGeneProduct	64476
+28518143	914	918	Cx43	GeneOrGeneProduct	24392
+28518143	920	932	beta-catenin	GeneOrGeneProduct	84353
+28518143	934	944	N-cadherin	GeneOrGeneProduct	83501
+28518143	965	968	ATP	ChemicalEntity	D000255
+28518143	1024	1027	ATP	ChemicalEntity	D000255
+28518143	1061	1065	gp78	GeneOrGeneProduct	361367
+28518143	1099	1103	Fis1	GeneOrGeneProduct	288584
+28518143	1105	1109	Drp1	GeneOrGeneProduct	114114
+28518143	1145	1149	Mfn1	GeneOrGeneProduct	192647
+28518143	1151	1155	Mfn2	GeneOrGeneProduct	64476
+28518143	1160	1164	Cx43	GeneOrGeneProduct	24392
+28518143	1176	1180	CaSR	GeneOrGeneProduct	24247
+28518143	1193	1197	gp78	GeneOrGeneProduct	361367
+28518143	1299	1336	myocardial energy metabolism disorder	DiseaseOrPhenotypicFeature	D009202
+28518143	1353	1357	CaSR	GeneOrGeneProduct	24247
+28518143	1388	1392	gp78	GeneOrGeneProduct	361367
+28518143	1549	1552	ATP	ChemicalEntity	D000255
+28518143	1581	1584	ATP	ChemicalEntity	D000255
+28518143	1609	1613	CaSR	GeneOrGeneProduct	24247
+28518143	1650	1687	abnormal myocardial energy metabolism	DiseaseOrPhenotypicFeature	D009202
+28518143	1700	1704	CaSR	GeneOrGeneProduct	24247
+28518143	1759	1762	DCM	DiseaseOrPhenotypicFeature	D002311
+28518143	Association	361367	114114	Novel
+28518143	Association	361367	288584	Novel
+28518143	Association	361367	D000255	Novel
+28518143	Association	361367	24392	Novel
+28518143	Association	361367	64476	Novel
+28518143	Association	361367	192647	Novel
+28518143	Association	361367	D009202	Novel
+28518143	Association	D000255	D009202	Novel
+28518143	Negative_Correlation	D002118	D002311	No
+28518143	Positive_Correlation	D005947	114114	Novel
+28518143	Positive_Correlation	D005947	288584	Novel
+28518143	Positive_Correlation	D005947	361367	Novel
+28518143	Association	D005947	D000255	Novel
+28518143	Negative_Correlation	D005947	83501	Novel
+28518143	Negative_Correlation	D005947	84353	Novel
+28518143	Negative_Correlation	D005947	24392	Novel
+28518143	Negative_Correlation	D005947	64476	Novel
+28518143	Negative_Correlation	D005947	192647	Novel
+28518143	Positive_Correlation	D005947	D009202	No
+28518143	Positive_Correlation	D005947	D008659	No
+28518143	Association	24247	114114	Novel
+28518143	Association	24247	288584	Novel
+28518143	Association	24247	D000255	Novel
+28518143	Association	24247	24392	Novel
+28518143	Association	24247	64476	Novel
+28518143	Association	24247	192647	Novel
+28518143	Association	24247	D009202	Novel
+28518143	Negative_Correlation	24247	D002311	No
+28518143	Association	24247	D002118	No
+28518143	Negative_Correlation	24247	D005947	Novel
+28518143	Association	24247	D008659	Novel

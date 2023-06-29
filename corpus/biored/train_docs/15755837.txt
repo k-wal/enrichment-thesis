@@ -1,0 +1,36 @@
+15755837|t|Common dihydrofolate reductase 19-base pair deletion allele: a novel risk factor for preterm delivery.
+15755837|a|BACKGROUND: Folate is critical for cell division, a major feature of in utero development. Dihydrofolate reductase (DHFR) is required to convert the folic acid used in supplements and for food fortification and the dihydrofolate produced by thymidylate synthase during DNA synthesis to the reduced folate forms used by the cell. OBJECTIVE: We aimed to determine whether a common, recently discovered deletion polymorphism in the DHFR gene is a risk factor for preterm delivery or low birth weight. DESIGN: We studied 324 pregnant women from Camden, NJ. Folate intake was computed from folate supplement intake plus the mean of two 24-h recalls completed during the course of pregnancy. Genomic DNA was extracted from the women's leukocytes and genotyped. RESULTS: Women with a deletion allele had a significantly greater risk of preterm delivery [adjusted odds ratio (AOR): 3.0; 95% CI: 1.0, 8.8; P < 0.05] than did those without a deletion allele. Women with both a DHFR deletion allele and low folate intake (<400 microg/d from diet plus supplements) had a significantly greater risk of preterm delivery (AOR: 5.5; 95% CI: 1.5, 20.4; P = 0.01) and a significantly greater risk of having an infant with a low birth weight (AOR: 8.3; 95% CI: 1.8, 38.6; P = 0.01) than did women without a deletion allele and with a folate intake >/=400 microg/d. CONCLUSIONS: The DHFR 19-base pair deletion allele may be a risk factor for preterm delivery. In the presence of low dietary folate, the allele may also be a risk factor for low birth weight. This may be a gene-environment interaction.
+15755837	7	30	dihydrofolate reductase	GeneOrGeneProduct	1719
+15755837	31	52	19-base pair deletion	SequenceVariant	c|DEL||19
+15755837	85	101	preterm delivery	DiseaseOrPhenotypicFeature	D047928
+15755837	115	121	Folate	ChemicalEntity	D005492
+15755837	194	217	Dihydrofolate reductase	GeneOrGeneProduct	1719
+15755837	219	223	DHFR	GeneOrGeneProduct	1719
+15755837	252	262	folic acid	ChemicalEntity	D005492
+15755837	318	331	dihydrofolate	ChemicalEntity	C010920
+15755837	344	364	thymidylate synthase	GeneOrGeneProduct	7298
+15755837	401	407	folate	ChemicalEntity	D005492
+15755837	532	536	DHFR	GeneOrGeneProduct	1719
+15755837	563	579	preterm delivery	DiseaseOrPhenotypicFeature	D047928
+15755837	633	638	women	OrganismTaxon	9606
+15755837	656	662	Folate	ChemicalEntity	D005492
+15755837	688	694	folate	ChemicalEntity	D005492
+15755837	824	829	women	OrganismTaxon	9606
+15755837	867	872	Women	OrganismTaxon	9606
+15755837	932	948	preterm delivery	DiseaseOrPhenotypicFeature	D047928
+15755837	1052	1057	Women	OrganismTaxon	9606
+15755837	1070	1074	DHFR	GeneOrGeneProduct	1719
+15755837	1099	1105	folate	ChemicalEntity	D005492
+15755837	1192	1208	preterm delivery	DiseaseOrPhenotypicFeature	D047928
+15755837	1375	1380	women	OrganismTaxon	9606
+15755837	1418	1424	folate	ChemicalEntity	D005492
+15755837	1466	1470	DHFR	GeneOrGeneProduct	1719
+15755837	1471	1492	19-base pair deletion	SequenceVariant	c|DEL||19
+15755837	1525	1541	preterm delivery	DiseaseOrPhenotypicFeature	D047928
+15755837	1574	1580	folate	ChemicalEntity	D005492
+15755837	Positive_Correlation	C010920	7298	No
+15755837	Negative_Correlation	D005492	D047928	Novel
+15755837	Positive_Correlation	c|DEL||19	D047928	Novel
+15755837	Association	1719	C010920	No
+15755837	Association	1719	D005492	No
+15755837	Association	1719	D047928	Novel

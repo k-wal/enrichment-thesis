@@ -1,0 +1,101 @@
+27371369|t|Difference-in-Differences Method in Comparative Effectiveness Research: Utility with Unbalanced Groups
+27371369|a|Comparative effectiveness research (CER) often includes observational studies utilizing administrative data. Multiple conditioning methods can be used for CER to adjust for group differences, including difference-in-differences (DiD) estimation. This study presents DiD and demonstrates how to apply this conditioning method to estimate treatment outcomes in the CER setting by utilizing the MarketScan® Databases for multiple sclerosis (MS) patients receiving different therapies. The sample included 6762 patients, with 363 in the Test Cohort [glatiramer acetate (GA) switched to fingolimod (FTY)] and 6399 in the Control Cohort (GA only, no switch) from a US administrative claims database. A trend analysis was conducted to rule out concerns regarding regression to the mean and to compare relapse rates among treatment cohorts. DiD analysis was used to enable comparisons among the Test and Control Cohorts. Logistic regression was used to estimate the probability of relapse after switching from GA to FTY, and to compare group differences in the pre - and post - index periods. Crude DiD analysis showed that in the pre - index period more patients in the Test Cohort experienced an MS relapse and had a higher mean number of relapses than in the Control Cohort. During the pre - index period, numeric and relative data for MS relapses in patients in the Test Cohort were significantly higher than in the Control Cohort, while no significant between- group differences emerged during the post - index period. Generalized linear modeling with DiD regression estimation showed that the mean number of MS relapses decreased significantly in the post - index period among patients in the Test Cohort compared with patients in the Control Cohort. In this study, an MS population was utilized to demonstrate how DiD can be applied to estimate treatment effects in a heterogeneous population, where the Test and Control Cohorts varied greatly. The results show that DiD offers a robust method for comparing diverse cohorts when other risk-adjustment methods may not be adequate.
+27371369	0	32	Difference-in-Differences Method	T062	C1710191
+27371369	36	70	Comparative Effectiveness Research	T062	C2718022
+27371369	85	102	Unbalanced Groups	UnknownType	C0681860
+27371369	103	137	Comparative effectiveness research	T062	C2718022
+27371369	139	142	CER	T062	C2718022
+27371369	159	180	observational studies	T170	C3658316
+27371369	191	210	administrative data	T033	C1320722
+27371369	258	261	CER	T062	C2718022
+27371369	276	281	group	UnknownType	C0681860
+27371369	282	293	differences	T080	C1705242
+27371369	305	347	difference-in-differences (DiD) estimation	T062	C1710191
+27371369	369	372	DiD	T062	C1710191
+27371369	421	427	method	T170	C0025663
+27371369	440	458	treatment outcomes	T080	C0085415
+27371369	466	469	CER	T062	C2718022
+27371369	495	516	MarketScan® Databases	T170	C0242356
+27371369	521	539	multiple sclerosis	T047	C0026769
+27371369	541	543	MS	T047	C0026769
+27371369	545	553	patients	T101	C0030705
+27371369	574	583	therapies	T061	C0087111
+27371369	610	618	patients	T101	C0030705
+27371369	636	647	Test Cohort	T098	C2348484
+27371369	649	667	glatiramer acetate	T116,T121	C0289884
+27371369	669	671	GA	T116,T121	C0289884
+27371369	673	681	switched	T058	C2936279
+27371369	685	695	fingolimod	T109,T121,T129	C1699926
+27371369	697	700	FTY	T109,T121,T129	C1699926
+27371369	719	733	Control Cohort	T096	C0009932
+27371369	735	737	GA	T116,T121	C0289884
+27371369	744	753	no switch	T033	C0243095
+27371369	762	795	US administrative claims database	T170	C0242356
+27371369	799	813	trend analysis	UnknownType	C0681702
+27371369	859	869	regression	T170	C0034980
+27371369	877	881	mean	T081	C0444504
+27371369	897	904	relapse	T067	C0035020
+27371369	917	934	treatment cohorts	T098	C2348484
+27371369	936	948	DiD analysis	T062	C1710191
+27371369	968	979	comparisons	T052	C1707455
+27371369	990	994	Test	T098	C2348484
+27371369	999	1014	Control Cohorts	T096	C0009932
+27371369	1016	1035	Logistic regression	T062	C0206031
+27371369	1061	1072	probability	T081	C0033204
+27371369	1076	1083	relapse	T067	C0035020
+27371369	1090	1099	switching	T058	C2936279
+27371369	1105	1107	GA	T116,T121	C0289884
+27371369	1111	1114	FTY	T109,T121,T129	C1699926
+27371369	1123	1130	compare	T052	C1707455
+27371369	1131	1136	group	UnknownType	C0681860
+27371369	1137	1148	differences	T080	C1705242
+27371369	1156	1159	pre	T079	C0332152
+27371369	1166	1170	post	T079	C0687676
+27371369	1173	1186	index periods	T079	C1948053
+27371369	1194	1206	DiD analysis	T062	C1710191
+27371369	1226	1229	pre	T079	C0332152
+27371369	1232	1244	index period	T079	C1948053
+27371369	1250	1258	patients	T101	C0030705
+27371369	1266	1277	Test Cohort	T098	C2348484
+27371369	1293	1295	MS	T047	C0026769
+27371369	1296	1303	relapse	T067	C0035020
+27371369	1321	1332	mean number	T081	C0444504
+27371369	1336	1344	relapses	T067	C0035020
+27371369	1357	1371	Control Cohort	T096	C0009932
+27371369	1384	1387	pre	T079	C0332152
+27371369	1390	1402	index period	T079	C1948053
+27371369	1404	1411	numeric	T080	C1704455
+27371369	1434	1436	MS	T047	C0026769
+27371369	1437	1445	relapses	T067	C0035020
+27371369	1449	1457	patients	T101	C0030705
+27371369	1465	1476	Test Cohort	T098	C2348484
+27371369	1515	1529	Control Cohort	T096	C0009932
+27371369	1537	1551	no significant	T033	C1273937
+27371369	1561	1566	group	UnknownType	C0681860
+27371369	1567	1578	differences	T080	C1705242
+27371369	1598	1602	post	T079	C0687676
+27371369	1605	1617	index period	T079	C1948053
+27371369	1631	1646	linear modeling	T081	C0023732
+27371369	1652	1655	DiD	T062	C1710191
+27371369	1656	1677	regression estimation	UnknownType	C0681925
+27371369	1709	1711	MS	T047	C0026769
+27371369	1712	1720	relapses	T067	C0035020
+27371369	1752	1756	post	T079	C0687676
+27371369	1759	1771	index period	T079	C1948053
+27371369	1778	1786	patients	T101	C0030705
+27371369	1794	1805	Test Cohort	T098	C2348484
+27371369	1820	1828	patients	T101	C0030705
+27371369	1836	1850	Control Cohort	T096	C0009932
+27371369	1870	1872	MS	T047	C0026769
+27371369	1873	1883	population	T098	C1257890
+27371369	1916	1919	DiD	T062	C1710191
+27371369	1947	1964	treatment effects	T033	C1518681
+27371369	1970	1983	heterogeneous	T080	C0019409
+27371369	1984	1994	population	T098	C1257890
+27371369	2006	2010	Test	T098	C2348484
+27371369	2015	2030	Control Cohorts	T096	C0009932
+27371369	2069	2072	DiD	T062	C1710191
+27371369	2100	2109	comparing	T052	C1707455
+27371369	2110	2117	diverse	T080	C1880371
+27371369	2118	2125	cohorts	T098	C0599755
+27371369	2137	2160	risk-adjustment methods	T081	C0600568

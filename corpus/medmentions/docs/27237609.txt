@@ -1,0 +1,59 @@
+27237609|t|Prospective study of dietary Non Enzymatic Antioxidant Capacity on the risk of hip fracture in the elderly
+27237609|a|Dietary antioxidants may play an important role in the prevention of bone loss and associated fractures by reducing levels of oxidative stress. We prospectively investigated the association between dietary Non Enzymatic Antioxidant Capacity (NEAC) and the risk of hip fracture and whether this effect was modified by smoking. In the Swedish National March Cohort 13,409 men and women over the age of 55 who had not experienced cancer, cardiovascular disease or hip fracture, were followed through record-linkages from 1997 through 2010. NEAC was assessed by a validated food frequency questionnaire collected at baseline. We categorized the distribution of NEAC into sex - specific quartiles and used multivariable adjusted Cox proportional hazards regression models to estimate hazard ratios (HRs) with 95% confidence intervals (95% CI). During a mean follow-up time of 12.4years, we identified 491 incident cases of first hip fracture. Subjects in the highest quartile of dietary NEAC had a 39% lower risk of incident hip fracture compared to those in the lowest quartile (HR: 0.61; 95% CI: 0.44-0.85). The association was non-linear (p for non-linearity: 0.004) with a potential threshold between the first and the second quartile and no further risk reduction at higher levels of dietary NEAC. Due to a low smoking prevalence in our study population, we had limited power to detect effect modification between dietary NEAC and smoking on a multiplicative or additive scale. Higher dietary NEAC intake is associated with lower risk of hip fracture in the elderly.
+27237609	21	28	dietary	T168	C0012155
+27237609	29	63	Non Enzymatic Antioxidant Capacity	T059	C4049177
+27237609	71	75	risk	T078	C0035647
+27237609	79	91	hip fracture	T037	C0019557
+27237609	99	106	elderly	T098	C0001792
+27237609	107	127	Dietary antioxidants	T168	C0729311
+27237609	176	185	bone loss	T047	C0029453
+27237609	201	210	fractures	T037	C0016658
+27237609	233	249	oxidative stress	T049	C0242606
+27237609	305	312	dietary	T168	C0012155
+27237609	313	347	Non Enzymatic Antioxidant Capacity	T059	C4049177
+27237609	349	353	NEAC	T059	C4049177
+27237609	363	367	risk	T078	C0035647
+27237609	371	383	hip fracture	T037	C0019557
+27237609	424	431	smoking	T055	C0037369
+27237609	440	469	Swedish National March Cohort	T098	C0599755
+27237609	477	480	men	T098	C0025266
+27237609	485	490	women	T098	C0043210
+27237609	534	540	cancer	T191	C0006826
+27237609	542	564	cardiovascular disease	T047	C0007222
+27237609	568	580	hip fracture	T037	C0019557
+27237609	604	619	record-linkages	T062,T078	C0025101
+27237609	644	648	NEAC	T059	C4049177
+27237609	677	705	food frequency questionnaire	T170	C2986698
+27237609	719	727	baseline	T081	C1442488
+27237609	764	768	NEAC	T059	C4049177
+27237609	774	777	sex	T032	C0079399
+27237609	780	788	specific	T080	C0205369
+27237609	789	798	quartiles	T080	C2828255
+27237609	808	873	multivariable adjusted Cox proportional hazards regression models	T081,T170	C0033489
+27237609	886	899	hazard ratios	T081	C2985465
+27237609	901	904	HRs	T081	C2985465
+27237609	915	935	confidence intervals	T081	C0009667
+27237609	941	943	CI	T081	C0009667
+27237609	960	969	follow-up	T058	C1522577
+27237609	970	974	time	T079	C0040223
+27237609	1031	1043	hip fracture	T037	C0019557
+27237609	1069	1077	quartile	T080	C2828255
+27237609	1081	1088	dietary	T168	C0012155
+27237609	1089	1093	NEAC	T059	C4049177
+27237609	1104	1114	lower risk	T033	C3843763
+27237609	1127	1139	hip fracture	T037	C0019557
+27237609	1172	1180	quartile	T080	C2828255
+27237609	1182	1184	HR	T081	C2985465
+27237609	1196	1198	CI	T081	C0009667
+27237609	1332	1340	quartile	T080	C2828255
+27237609	1356	1370	risk reduction	T055	C1137094
+27237609	1391	1398	dietary	T168	C0012155
+27237609	1399	1403	NEAC	T059	C4049177
+27237609	1521	1528	dietary	T168	C0012155
+27237609	1529	1533	NEAC	T059	C4049177
+27237609	1538	1545	smoking	T055	C0037369
+27237609	1551	1565	multiplicative	T081	C2911648
+27237609	1569	1583	additive scale	T081	C0392762
+27237609	1600	1604	NEAC	T059	C4049177
+27237609	1637	1641	risk	T078	C0035647
+27237609	1645	1657	hip fracture	T037	C0019557

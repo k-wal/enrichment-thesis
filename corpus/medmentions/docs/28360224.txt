@@ -1,0 +1,77 @@
+28360224|t|Ultrasound evaluation of diaphragm function in mechanically ventilated patients: comparison to phrenic stimulation and prognostic implications
+28360224|a|In intensive care unit (ICU) patients, diaphragm dysfunction is associated with adverse clinical outcomes. Ultrasound measurements of diaphragm thickness, excursion (EXdi) and thickening fraction (TFdi) are putative estimators of diaphragm function, but have never been compared with phrenic nerve stimulation. Our aim was to describe the relationship between these variables and diaphragm function evaluated using the change in endotracheal pressure after phrenic nerve stimulation (Ptr,stim), and to compare their prognostic value. Between November 2014 and June 2015, Ptr,stim and ultrasound variables were measured in mechanically ventilated patients <24 hours after intubation (' initiation of mechanical ventilation (MV)', under assist-control ventilation, ACV) and at the time of switch to pressure support ventilation ('switch to PSV '), and compared using Spearman's correlation and receiver operating characteristic curve analysis. Diaphragm dysfunction was defined as Ptr,stim <11 cm H2O. 112 patients were included. At initiation of MV, Ptr,stim was not correlated to diaphragm thickness (p=0.28), EXdi (p=0.66) or TFdi (p=0.80). At switch to PSV, TFdi and EXdi were respectively very strongly and moderately correlated to Ptr,stim, (r=0.87, p<0.001 and 0.45, p=0.001), but diaphragm thickness was not (p=0.45). A TFdi <29% could reliably identify diaphragm dysfunction (sensitivity and specificity of 85% and 88%), but diaphragm thickness and EXdi could not. This value was associated with increased duration of ICU stay and MV, and mortality. Under ACV, diaphragm thickness, EXdi and TFdi were uncorrelated to Ptr,stim. Under PSV, TFdi was strongly correlated to diaphragm strength and both were predictors of remaining length of MV and ICU and hospital death.
+28360224	0	10	Ultrasound	T060	C0041618
+28360224	11	21	evaluation	T058	C0220825
+28360224	25	43	diaphragm function	T042	C0678866
+28360224	47	70	mechanically ventilated	T061	C0199470
+28360224	71	79	patients	T101	C0030705
+28360224	95	114	phrenic stimulation	T061	C4291858
+28360224	119	129	prognostic	T170	C0220901
+28360224	146	180	intensive care unit (ICU) patients	T058	C0010337
+28360224	182	203	diaphragm dysfunction	T047	C0152097
+28360224	223	230	adverse	T046	C0879626
+28360224	231	248	clinical outcomes	T169	C1274040
+28360224	250	273	Ultrasound measurements	T060	C0430022
+28360224	277	286	diaphragm	T023	C0011980
+28360224	287	296	thickness	T080	C1280412
+28360224	298	307	excursion	T184	C0232086
+28360224	309	313	EXdi	T184	C0232086
+28360224	319	338	thickening fraction	T033	C0243095
+28360224	340	344	TFdi	T033	C0243095
+28360224	373	391	diaphragm function	T042	C0678866
+28360224	427	452	phrenic nerve stimulation	T061	C4291858
+28360224	523	541	diaphragm function	T042	C0678866
+28360224	572	593	endotracheal pressure	T033	C0243095
+28360224	600	625	phrenic nerve stimulation	T061	C4291858
+28360224	627	635	Ptr,stim	T061	C4291858
+28360224	659	675	prognostic value	T081	C0449821
+28360224	714	722	Ptr,stim	T061	C4291858
+28360224	727	737	ultrasound	T060	C0041618
+28360224	765	788	mechanically ventilated	T061	C0199470
+28360224	789	797	patients	T101	C0030705
+28360224	814	824	intubation	T061	C0021925
+28360224	828	864	initiation of mechanical ventilation	T061	C2065087
+28360224	866	868	MV	T061	C2065087
+28360224	878	904	assist-control ventilation	T061	C2223981
+28360224	906	909	ACV	T061	C2223981
+28360224	940	968	pressure support ventilation	T061	C2223980
+28360224	981	984	PSV	T061	C2223980
+28360224	1008	1030	Spearman's correlation	T170	C0282574
+28360224	1035	1083	receiver operating characteristic curve analysis	T081	C0035787
+28360224	1085	1106	Diaphragm dysfunction	T047	C0152097
+28360224	1122	1130	Ptr,stim	T061	C4291858
+28360224	1147	1155	patients	T101	C0030705
+28360224	1174	1190	initiation of MV	T061	C2065087
+28360224	1192	1200	Ptr,stim	T061	C4291858
+28360224	1223	1232	diaphragm	T023	C0011980
+28360224	1233	1242	thickness	T080	C1280412
+28360224	1253	1257	EXdi	T184	C0232086
+28360224	1270	1274	TFdi	T033	C0243095
+28360224	1298	1301	PSV	T061	C2223980
+28360224	1303	1307	TFdi	T033	C0243095
+28360224	1312	1316	EXdi	T184	C0232086
+28360224	1378	1386	Ptr,stim	T061	C4291858
+28360224	1429	1438	diaphragm	T023	C0011980
+28360224	1439	1448	thickness	T080	C1280412
+28360224	1469	1473	TFdi	T033	C0243095
+28360224	1503	1524	diaphragm dysfunction	T047	C0152097
+28360224	1575	1584	diaphragm	T023	C0011980
+28360224	1585	1594	thickness	T080	C1280412
+28360224	1599	1603	EXdi	T184	C0232086
+28360224	1668	1671	ICU	T073,T093	C0021708
+28360224	1672	1676	stay	T079	C3489408
+28360224	1681	1683	MV	T061	C0199470
+28360224	1689	1698	mortality	T081	C0205848
+28360224	1706	1709	ACV	T061	C2223981
+28360224	1711	1720	diaphragm	T023	C0011980
+28360224	1721	1730	thickness	T080	C1280412
+28360224	1732	1736	EXdi	T184	C0232086
+28360224	1741	1745	TFdi	T033	C0243095
+28360224	1767	1775	Ptr,stim	T061	C4291858
+28360224	1783	1786	PSV	T061	C2223980
+28360224	1788	1792	TFdi	T033	C0243095
+28360224	1820	1829	diaphragm	T023	C0011980
+28360224	1830	1838	strength	T042	C0517349
+28360224	1887	1889	MV	T061	C2065087
+28360224	1894	1897	ICU	T073,T093	C0021708
+28360224	1902	1916	hospital death	T033	C0277608

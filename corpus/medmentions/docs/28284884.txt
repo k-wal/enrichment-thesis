@@ -1,0 +1,107 @@
+28284884|t|Risk of advanced lesions at the first follow-up colonoscopy after polypectomy of diminutive versus small adenomatous polyps of low-grade dysplasia
+28284884|a|The current guidelines for surveillance after polypectomy do not distinguish between diminutive (1-5 mm) and small (6-9 mm) polyps with low-grade dysplasia (LGD). We aimed to evaluate the risk for advanced neoplasia on follow-up colonoscopy. We retrospectively analyzed 443 patients whose worst finding at index colonoscopy was polypectomy of 1 to 5 or 6 to 9 mm polyps with LGD and those who underwent a follow-up colonoscopy. During a mean follow-up of 32.0 months (interquartile range 13-48 months), advanced neoplasia was found in 26 patients (5.9%). Among all included patients (n = 443), advanced neoplasia was found in 13 of 310 patients (4.2%) of the 1- to 5-mm group versus 13 of 133 patients (9.8%) of the 6- to 9-mm group (hazard ratio [HR], 3.49; 95% confidence interval [CI], 1.6-7.6). Among the patients with 1 to 2 polyps resected (n = 313), advanced neoplasia was found in 8 of 231 patients (3.5%) of the 1- to 5-mm group versus 8 of 82 patients (9.8%) of the 6- to 9-mm group (HR 3.97; 95% CI, 1.47-10.7). Among the patients with ≥3 polyps resected (n = 130), advanced neoplasia was found in 5 of 79 patients (6.3%) of the 1- to 5-mm group versus 5 of 51 patients (9.8%) of the 6- to 9-mm group (HR 2.4; 95% CI, 0.7-8.36). Fair bowel preparation also was associated with the risk for advanced neoplasia at follow-up (HR 3.87, 95% CI, 1.70-8.82). Our findings suggest that among patients with up to 9-mm adenomatous polyps, a polyp size of 6 to 9 mm, >2 polyps, and fair bowel preparation are associated with advanced neoplasia.
+28284884	0	4	Risk	T078	C0035647
+28284884	8	16	advanced	T080	C0205179
+28284884	17	24	lesions	T033	C0221198
+28284884	32	37	first	T081	C0205435
+28284884	38	47	follow-up	T058	C1522577
+28284884	48	59	colonoscopy	T060	C0009378
+28284884	60	65	after	T079	C0687676
+28284884	66	77	polypectomy	T061	C0521210
+28284884	81	91	diminutive	T081	C1282918
+28284884	99	104	small	T081	C0700321
+28284884	105	123	adenomatous polyps	T191	C0206677
+28284884	127	136	low-grade	T080	C1282907
+28284884	137	146	dysplasia	T046	C0334044
+28284884	151	158	current	T079	C0521116
+28284884	159	169	guidelines	T170	C0162791
+28284884	174	186	surveillance	T058	C0733511
+28284884	187	192	after	T079	C0687676
+28284884	193	204	polypectomy	T061	C0521210
+28284884	232	242	diminutive	T081	C1282918
+28284884	256	261	small	T081	C0700321
+28284884	271	277	polyps	T190	C0032584
+28284884	283	292	low-grade	T080	C1282907
+28284884	293	302	dysplasia	T046	C0334044
+28284884	304	307	LGD	T046	C0334044
+28284884	322	330	evaluate	T058	C0220825
+28284884	335	339	risk	T078	C0035647
+28284884	344	352	advanced	T080	C0205179
+28284884	353	362	neoplasia	T191	C0027651
+28284884	366	375	follow-up	T058	C1522577
+28284884	376	387	colonoscopy	T060	C0009378
+28284884	392	416	retrospectively analyzed	T062	C0035363
+28284884	421	429	patients	T101	C0030705
+28284884	436	441	worst	T080	C1522166
+28284884	453	470	index colonoscopy	T058	C3274817
+28284884	475	486	polypectomy	T061	C0521210
+28284884	510	516	polyps	T190	C0032584
+28284884	522	525	LGD	T046	C0334044
+28284884	552	561	follow-up	T058	C1522577
+28284884	562	573	colonoscopy	T060	C0009378
+28284884	584	588	mean	T081	C0444504
+28284884	589	598	follow-up	T058	C1522577
+28284884	607	613	months	T079	C0439231
+28284884	615	634	interquartile range	T081	C1711350
+28284884	641	647	months	T079	C0439231
+28284884	650	658	advanced	T080	C0205179
+28284884	659	668	neoplasia	T191	C0027651
+28284884	673	678	found	T033	C0150312
+28284884	685	693	patients	T101	C0030705
+28284884	721	729	patients	T101	C0030705
+28284884	741	749	advanced	T080	C0205179
+28284884	750	759	neoplasia	T191	C0027651
+28284884	764	769	found	T033	C0150312
+28284884	783	791	patients	T101	C0030705
+28284884	817	822	group	T078	C0441833
+28284884	840	848	patients	T101	C0030705
+28284884	874	879	group	T078	C0441833
+28284884	881	893	hazard ratio	T081	C2985465
+28284884	895	897	HR	T081	C2985465
+28284884	910	929	confidence interval	T081	C0009667
+28284884	931	933	CI	T081	C0009667
+28284884	956	964	patients	T101	C0030705
+28284884	977	983	polyps	T190	C0032584
+28284884	984	992	resected	T061	C0015252
+28284884	1004	1012	advanced	T080	C0205179
+28284884	1013	1022	neoplasia	T191	C0027651
+28284884	1027	1032	found	T033	C0150312
+28284884	1045	1053	patients	T101	C0030705
+28284884	1079	1084	group	T078	C0441833
+28284884	1100	1108	patients	T101	C0030705
+28284884	1134	1139	group	T078	C0441833
+28284884	1141	1143	HR	T081	C2985465
+28284884	1154	1156	CI	T081	C0009667
+28284884	1180	1188	patients	T101	C0030705
+28284884	1197	1203	polyps	T190	C0032584
+28284884	1204	1212	resected	T061	C0015252
+28284884	1224	1232	advanced	T080	C0205179
+28284884	1233	1242	neoplasia	T191	C0027651
+28284884	1247	1252	found	T033	C0150312
+28284884	1264	1272	patients	T101	C0030705
+28284884	1298	1303	group	T078	C0441833
+28284884	1319	1327	patients	T101	C0030705
+28284884	1353	1358	group	T078	C0441833
+28284884	1360	1362	HR	T081	C2985465
+28284884	1372	1374	CI	T081	C0009667
+28284884	1387	1391	Fair	T080	C1548785
+28284884	1392	1397	bowel	T023	C0021853
+28284884	1398	1409	preparation	T052	C1521827
+28284884	1419	1434	associated with	T080	C0332281
+28284884	1439	1443	risk	T078	C0035647
+28284884	1448	1456	advanced	T080	C0205179
+28284884	1457	1466	neoplasia	T191	C0027651
+28284884	1470	1479	follow-up	T058	C1522577
+28284884	1481	1483	HR	T081	C2985465
+28284884	1494	1496	CI	T081	C0009667
+28284884	1514	1522	findings	T033	C0243095
+28284884	1542	1550	patients	T101	C0030705
+28284884	1567	1585	adenomatous polyps	T191	C0206677
+28284884	1589	1599	polyp size	T201	C1299212
+28284884	1617	1623	polyps	T190	C0032584
+28284884	1629	1633	fair	T080	C1548785
+28284884	1634	1639	bowel	T023	C0021853
+28284884	1640	1651	preparation	T052	C1521827
+28284884	1656	1671	associated with	T080	C0332281
+28284884	1672	1680	advanced	T080	C0205179
+28284884	1681	1690	neoplasia	T191	C0027651

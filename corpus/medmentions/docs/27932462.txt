@@ -1,0 +1,111 @@
+27932462|t|Salmonella Co-opts Host Cell Chaperone -mediated Autophagy for Intracellular Growth
+27932462|a|Salmonella enterica are invasive intracellular pathogens that replicate within a membrane - bound compartment inside infected host cells known as the Salmonella - containing vacuole. How Salmonella obtains nutrients for growth within this intracellular niche despite the apparent isolation is currently not known. Recent studies have indicated the importance of glucose and related carbon sources for tissue colonization and intracellular proliferation within host cells during Salmonella infections, although none have been found to be essential. We found that wild-type Salmonella are capable of replicating within infected host cells in the absence of both exogenous sugars and/or amino acids. Furthermore, mutants defective in glucose uptake or dependent upon peptides for growth also showed no significant loss in intracellular replication, suggesting host - derived peptides can supply both carbon units and amino acids. Here, we show that intracellular Salmonella recruit the host proteins LAMP-2A and Hsc73, key components of the host protein turnover pathway known as chaperone -mediated autophagy involved in transport of cytosolic proteins to the lysosome for degradation. Host- derived peptides are shown to provide a significant contribution toward the intracellular growth of Salmonella The results reveal a means whereby intracellular Salmonella gain access to the host cell cytosol from within its membrane - bound compartment to acquire nutrients. Furthermore, this study provides an explanation as to how Salmonella evades activation of autophagy mechanisms as part of the innate immune response.
+27932462	0	10	Salmonella	T007	C0036111
+27932462	19	28	Host Cell	T026	C1819995
+27932462	29	38	Chaperone	T116,T123	C0243041
+27932462	49	58	Autophagy	T043	C0004391
+27932462	63	76	Intracellular	T082	C0178719
+27932462	77	83	Growth	T040	C0178747
+27932462	84	103	Salmonella enterica	T007	C0445750
+27932462	108	116	invasive	T080	C0205281
+27932462	117	130	intracellular	T082	C0178719
+27932462	131	140	pathogens	T001	C0450254
+27932462	146	155	replicate	T080	C1883725
+27932462	165	173	membrane	T026	C0596901
+27932462	176	181	bound	T052	C1145667
+27932462	182	193	compartment	T082	C1948049
+27932462	201	209	infected	T033	C0439663
+27932462	210	220	host cells	T026	C1819995
+27932462	234	244	Salmonella	T007	C0036111
+27932462	247	257	containing	T169	C0332256
+27932462	258	265	vacuole	T026	C0042219
+27932462	271	281	Salmonella	T007	C0036111
+27932462	282	289	obtains	T169	C1301820
+27932462	290	299	nutrients	T168	C0678695
+27932462	304	310	growth	T040	C0178747
+27932462	323	342	intracellular niche	T082	C0178719
+27932462	355	363	apparent	T078	C0750489
+27932462	364	373	isolation	T059	C0220862
+27932462	405	412	studies	T062	C2603343
+27932462	418	427	indicated	T033	C1444656
+27932462	432	442	importance	T080	C3898777
+27932462	446	453	glucose	T109,T121,T123	C0017725
+27932462	458	465	related	T080	C0439849
+27932462	466	472	carbon	T196	C0007009
+27932462	473	480	sources	T033	C0449416
+27932462	485	491	tissue	T024	C0040300
+27932462	492	504	colonization	T033	C4289767
+27932462	509	522	intracellular	T082	C0178719
+27932462	523	536	proliferation	T169	C1514485
+27932462	544	554	host cells	T026	C1819995
+27932462	562	583	Salmonella infections	T047	C0036117
+27932462	621	630	essential	T080	C0205224
+27932462	646	655	wild-type	T028	C1883559
+27932462	656	666	Salmonella	T007	C0036111
+27932462	682	693	replicating	T080	C1883725
+27932462	701	709	infected	T033	C0439663
+27932462	710	720	host cells	T026	C1819995
+27932462	728	735	absence	T169	C0332197
+27932462	744	753	exogenous	T169	C0205228
+27932462	754	760	sugars	T109,T121	C0242209
+27932462	768	779	amino acids	T116,T121,T123	C0002520
+27932462	794	801	mutants	T049	C0596988
+27932462	802	811	defective	T169	C0332452
+27932462	815	829	glucose uptake	T043	C1159527
+27932462	833	842	dependent	T080	C1701901
+27932462	848	856	peptides	T116	C0030956
+27932462	861	867	growth	T040	C0178747
+27932462	883	894	significant	T078	C0750502
+27932462	895	899	loss	T081	C1517945
+27932462	903	916	intracellular	T082	C0178719
+27932462	917	928	replication	T080	C1883725
+27932462	941	945	host	T001	C1167395
+27932462	948	955	derived	T080	C1441547
+27932462	956	964	peptides	T116	C0030956
+27932462	981	987	carbon	T196	C0007009
+27932462	988	993	units	T081	C0439148
+27932462	998	1009	amino acids	T116,T121,T123	C0002520
+27932462	1030	1043	intracellular	T082	C0178719
+27932462	1044	1054	Salmonella	T007	C0036111
+27932462	1067	1071	host	T001	C1167395
+27932462	1072	1080	proteins	T116,T123	C0033684
+27932462	1081	1088	LAMP-2A	T116,T129	C0125272
+27932462	1093	1098	Hsc73	T116,T123	C1527505
+27932462	1100	1103	key	T077	C1706198
+27932462	1104	1114	components	T116,T123	C1179435
+27932462	1122	1126	host	T001	C1167395
+27932462	1127	1143	protein turnover	T044	C0597297
+27932462	1144	1151	pathway	T044	C1704259
+27932462	1161	1170	chaperone	T116,T123	C0243041
+27932462	1181	1190	autophagy	T043	C0004391
+27932462	1203	1212	transport	T043	C0599895
+27932462	1216	1234	cytosolic proteins	T116,T123	C1333198
+27932462	1242	1250	lysosome	T026	C0024369
+27932462	1255	1266	degradation	T044	C0597297
+27932462	1274	1281	derived	T080	C1441547
+27932462	1282	1290	peptides	T116	C0030956
+27932462	1314	1325	significant	T078	C0750502
+27932462	1326	1338	contribution	T052	C1880177
+27932462	1350	1363	intracellular	T082	C0178719
+27932462	1364	1370	growth	T040	C0178747
+27932462	1374	1384	Salmonella	T007	C0036111
+27932462	1389	1396	results	T033	C0683954
+27932462	1420	1433	intracellular	T082	C0178719
+27932462	1434	1444	Salmonella	T007	C0036111
+27932462	1445	1449	gain	T081	C1517378
+27932462	1450	1456	access	T082	C0444454
+27932462	1464	1481	host cell cytosol	T026	C2752457
+27932462	1498	1506	membrane	T026	C0596901
+27932462	1509	1514	bound	T052	C1145667
+27932462	1515	1526	compartment	T082	C1948049
+27932462	1530	1537	acquire	T052	C1706701
+27932462	1538	1547	nutrients	T168	C0678695
+27932462	1567	1572	study	T062	C2603343
+27932462	1573	1581	provides	T052	C1999230
+27932462	1585	1596	explanation	T170	C0681841
+27932462	1607	1617	Salmonella	T007	C0036111
+27932462	1618	1624	evades	T040	C1654934
+27932462	1625	1635	activation	T052	C1879547
+27932462	1639	1648	autophagy	T043	C0004391
+27932462	1649	1659	mechanisms	T169	C0441712
+27932462	1675	1697	innate immune response	T032	C0020969

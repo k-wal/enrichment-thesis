@@ -1,0 +1,89 @@
+28158316|t|Phishing suspiciousness in older and younger adults: The role of executive functioning
+28158316|a|Phishing is the spoofing of Internet websites or emails aimed at tricking users into entering sensitive information, with such goals as financial or identity theft. The current study sought to determine whether age is associated with increased susceptibility to phishing and whether tests of executive functioning can predict phishing susceptibility. A total of 193 cognitively intact participants, 91 younger adults and 102 older adults, were primarily recruited through a Psychology department undergraduate subject pool and a gerontology research registry, respectively. The Executive Functions Module from the Neuropsychological Assessment Battery and the Iowa Gambling Task were the primary cognitive predictors of reported phishing suspiciousness. Other predictors included age group (older vs. younger), sex, education, race, ethnicity, prior knowledge of phishing, prior susceptibility to phishing, and whether or not browsing behaviors were reportedly different in the laboratory setting versus at home. A logistic regression, which accounted for a 22.7% reduction in error variance compared to the null model and predicted phishing suspiciousness with 73.1% (95% CI [66.0, 80.3]) accuracy, revealed three statistically significant predictors: the main effect of education (b = 0.58, SE = 0.27) and the interactions of age group with prior awareness of phishing (b = 2.31, SE = 1.12) and performance on the Neuropsychological Assessment Battery Mazes test (b = 0.16, SE = 0.07). Whether or not older adults reported being suspicious of the phishing attacks used in this study was partially explained by educational history and prior phishing knowledge. This suggests that simple educational interventions may be effective in reducing phishing vulnerability. Although one test of executive functioning was found useful for identifying those at risk of phishing susceptibility, four tests were not found to be useful; these results speak to the need for more ecologically valid tools in clinical neuropsychology.
+28158316	0	8	Phishing	T055	C0679123
+28158316	9	23	suspiciousness	T033	C0233519
+28158316	27	32	older	T100	C0001675
+28158316	37	51	younger adults	T100	C0238598
+28158316	65	86	executive functioning	T041	C0935584
+28158316	87	95	Phishing	T055	C0679123
+28158316	115	123	Internet	T073	C0282111
+28158316	124	132	websites	T170	C2349146
+28158316	136	142	emails	T170	C0013849
+28158316	152	166	tricking users	T098	C1706077
+28158316	191	202	information	T078	C1533716
+28158316	223	232	financial	T081	C0376243
+28158316	236	250	identity theft	T054	C3658363
+28158316	264	269	study	T062	C2603343
+28158316	298	301	age	T032	C0001779
+28158316	305	320	associated with	T080	C0332281
+28158316	321	330	increased	T081	C0205217
+28158316	331	345	susceptibility	T033	C1821973
+28158316	349	357	phishing	T055	C0679123
+28158316	379	400	executive functioning	T041	C0935584
+28158316	413	421	phishing	T055	C0679123
+28158316	422	436	susceptibility	T033	C1821973
+28158316	453	464	cognitively	T169	C1516691
+28158316	465	484	intact participants	T098	C0679646
+28158316	489	503	younger adults	T100	C0238598
+28158316	512	524	older adults	T100	C0001675
+28158316	561	571	Psychology	T091	C0033909
+28158316	572	582	department	T092	C1704729
+28158316	583	609	undergraduate subject pool	T096	C3642472
+28158316	616	627	gerontology	T090	C0205767
+28158316	628	645	research registry	T170	C0282574
+28158316	665	691	Executive Functions Module	T077	C1709061
+28158316	701	738	Neuropsychological Assessment Battery	T170	C0451331
+28158316	747	765	Iowa Gambling Task	T170	C0282574
+28158316	783	792	cognitive	T169	C1516691
+28158316	793	803	predictors	T078	C2698872
+28158316	816	824	phishing	T055	C0679123
+28158316	825	839	suspiciousness	T033	C0233519
+28158316	847	857	predictors	T078	C2698872
+28158316	867	876	age group	T100	C0027362
+28158316	878	883	older	T100	C0001675
+28158316	888	895	younger	T100	C0238598
+28158316	898	901	sex	T032	C0079399
+28158316	903	912	education	T091	C1547143
+28158316	914	918	race	T098	C0034510
+28158316	920	929	ethnicity	T098	C0015031
+28158316	937	946	knowledge	T170	C0376554
+28158316	950	958	phishing	T055	C0679123
+28158316	966	980	susceptibility	T033	C1821973
+28158316	984	992	phishing	T055	C0679123
+28158316	1013	1021	browsing	T170	C3658317
+28158316	1022	1031	behaviors	T053	C0004927
+28158316	1065	1075	laboratory	T073,T093	C0022877
+28158316	1076	1083	setting	T082	C0162579
+28158316	1102	1121	logistic regression	T062	C0206031
+28158316	1151	1160	reduction	T080	C0392756
+28158316	1164	1178	error variance	T081	C0870508
+28158316	1195	1205	null model	T170	C3161035
+28158316	1220	1228	phishing	T055	C0679123
+28158316	1229	1243	suspiciousness	T033	C0233519
+28158316	1260	1262	CI	T081	C0009667
+28158316	1277	1285	accuracy	T080	C0443131
+28158316	1302	1327	statistically significant	T081	C0237881
+28158316	1328	1338	predictors	T078	C2698872
+28158316	1359	1368	education	T091	C1547143
+28158316	1415	1424	age group	T100	C0027362
+28158316	1436	1445	awareness	T041	C0004448
+28158316	1449	1457	phishing	T055	C0679123
+28158316	1503	1551	Neuropsychological Assessment Battery Mazes test	T060	C0027902
+28158316	1590	1602	older adults	T100	C0001675
+28158316	1618	1628	suspicious	T078	C0750493
+28158316	1636	1644	phishing	T055	C0679123
+28158316	1666	1671	study	T062	C2603343
+28158316	1699	1718	educational history	T033	C0013658
+28158316	1729	1737	phishing	T055	C0679123
+28158316	1738	1747	knowledge	T170	C0376554
+28158316	1775	1800	educational interventions	T061	C0281163
+28158316	1821	1829	reducing	T080	C0392756
+28158316	1830	1838	phishing	T055	C0679123
+28158316	1839	1852	vulnerability	T033	C1821973
+28158316	1875	1896	executive functioning	T041	C0935584
+28158316	1939	1943	risk	T078	C0035647
+28158316	1947	1955	phishing	T055	C0679123
+28158316	1956	1970	susceptibility	T033	C1821973
+28158316	2053	2077	ecologically valid tools	T170	C0037589
+28158316	2081	2089	clinical	T080	C0205210
+28158316	2090	2105	neuropsychology	T091	C0027903

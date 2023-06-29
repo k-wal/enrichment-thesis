@@ -1,0 +1,15 @@
+28348168|t|FGFR2 is required for airway basal cell self-renewal and terminal differentiation.
+28348168|a|Airway stem cells slowly self-renew and produce differentiated progeny to maintain homeostasis throughout the lifespan of an individual. Mutations in the molecular regulators of these processes may drive cancer or degenerative disease, but are also potential therapeutic targets. Conditionally deleting one copy of FGF receptor 2 (FGFR2) in adult mouse airway basal cells results in self-renewal and differentiation phenotypes. We show that FGFR2 signalling correlates with maintenance of expression of a key transcription factor for basal cell self-renewal and differentiation: SOX2. This heterozygous phenotype illustrates that subtle changes in receptor tyrosine kinase signalling can have significant effects, perhaps providing an explanation for the numerous changes seen in cancer.
+28348168	0	5	FGFR2	GeneOrGeneProduct	14183
+28348168	287	293	cancer	DiseaseOrPhenotypicFeature	D009369
+28348168	297	317	degenerative disease	DiseaseOrPhenotypicFeature	D019636
+28348168	398	412	FGF receptor 2	GeneOrGeneProduct	14183
+28348168	414	419	FGFR2	GeneOrGeneProduct	14183
+28348168	430	435	mouse	OrganismTaxon	10090
+28348168	524	529	FGFR2	GeneOrGeneProduct	14183
+28348168	662	666	SOX2	GeneOrGeneProduct	20674
+28348168	731	755	receptor tyrosine kinase	GeneOrGeneProduct	14183
+28348168	863	869	cancer	DiseaseOrPhenotypicFeature	D009369
+28348168	Association	14183	D009369	Novel
+28348168	Association	14183	20674	Novel
+28348168	Association	D019636	14183	Novel

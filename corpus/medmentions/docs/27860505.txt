@@ -1,0 +1,95 @@
+27860505|t|Evolution of Inbreeding Avoidance and Inbreeding Preference through Mate Choice among Interacting Relatives
+27860505|a|While extensive population genetic theory predicts conditions favoring evolution of self-fertilization versus outcrossing, there is no analogous theory that predicts conditions favoring evolution of inbreeding avoidance or inbreeding preference enacted through mate choice given obligate biparental reproduction. Multiple interacting processes complicate the dynamics of alleles underlying such inbreeding strategies, including sexual conflict, distributions of kinship, genetic drift, purging of mutation load, direct costs, and restricted kin discrimination. We incorporated these processes into an individual-based model to predict conditions where selection should increase or decrease frequencies of alleles causing inbreeding avoidance or inbreeding preference when females or males controlled mating. Selection for inbreeding avoidance occurred given strong inbreeding depression when either sex chose mates, while selection for inbreeding preference occurred given very weak inbreeding depression when females chose but never occurred when males chose. Selection for both strategies was constrained by direct costs and restricted kin discrimination. Purging was negligible, but allele frequencies were strongly affected by drift in small populations, while selection for inbreeding avoidance was weak in larger populations because inbreeding risk decreased. Therefore, while selection sometimes favored alleles underlying inbreeding avoidance or preference, evolution of such strategies may be much more restricted and stochastic than is commonly presumed.
+27860505	0	9	Evolution	T045	C0015219
+27860505	13	23	Inbreeding	T040	C0021144
+27860505	24	33	Avoidance	T080	C2700409
+27860505	38	48	Inbreeding	T040	C0021144
+27860505	49	59	Preference	T078	C0558295
+27860505	68	79	Mate Choice	T054	C0024909
+27860505	98	107	Relatives	T099	C0080103
+27860505	114	123	extensive	T080	C0205231
+27860505	124	142	population genetic	T090	C0017404
+27860505	143	149	theory	T078	C0871935
+27860505	179	188	evolution	T045	C0015219
+27860505	192	210	self-fertilization	T040	C0524618
+27860505	218	229	outcrossing	T045	C0010366
+27860505	243	259	analogous theory	T078	C0871935
+27860505	294	303	evolution	T045	C0015219
+27860505	307	317	inbreeding	T040	C0021144
+27860505	318	327	avoidance	T080	C2700409
+27860505	331	341	inbreeding	T040	C0021144
+27860505	342	352	preference	T078	C0558295
+27860505	369	380	mate choice	T054	C0024909
+27860505	396	419	biparental reproduction	T040	C0035150
+27860505	421	441	Multiple interacting	T169	C1704675
+27860505	452	462	complicate	T169	C0231242
+27860505	479	486	alleles	T028	C0002085
+27860505	503	513	inbreeding	T040	C0021144
+27860505	536	551	sexual conflict	T048	C1409687
+27860505	553	566	distributions	T169	C1704711
+27860505	570	577	kinship	T078	C0870772
+27860505	579	592	genetic drift	T045	C0917892
+27860505	605	618	mutation load	T081	C0524602
+27860505	620	632	direct costs	T081	C1511972
+27860505	638	648	restricted	T169	C0443288
+27860505	649	667	kin discrimination	T043	C3893608
+27860505	709	731	individual-based model	UnknownType	C0681948
+27860505	760	769	selection	T054	C0024909
+27860505	777	785	increase	T169	C0442805
+27860505	789	797	decrease	T081	C0547047
+27860505	798	820	frequencies of alleles	T081	C0017270
+27860505	829	839	inbreeding	T040	C0021144
+27860505	840	849	avoidance	T080	C2700409
+27860505	853	863	inbreeding	T040	C0021144
+27860505	864	874	preference	T078	C0558295
+27860505	880	887	females	T032	C0086287
+27860505	891	896	males	T032	C0086582
+27860505	897	907	controlled	T169	C2587213
+27860505	908	914	mating	T040	C1260875
+27860505	916	925	Selection	T054	C0024909
+27860505	930	940	inbreeding	T040	C0021144
+27860505	941	950	avoidance	T080	C2700409
+27860505	966	972	strong	T080	C0442821
+27860505	973	994	inbreeding depression	T070	C4277723
+27860505	1007	1010	sex	T032	C0079399
+27860505	1011	1022	chose mates	T054	C0024909
+27860505	1030	1039	selection	T054	C0024909
+27860505	1044	1054	inbreeding	T040	C0021144
+27860505	1055	1065	preference	T078	C0558295
+27860505	1086	1090	weak	T080	C1762617
+27860505	1091	1112	inbreeding depression	T070	C4277723
+27860505	1118	1125	females	T032	C0086287
+27860505	1126	1131	chose	T052	C1707391
+27860505	1136	1141	never	T033	C3843461
+27860505	1142	1150	occurred	T052	C1709305
+27860505	1156	1161	males	T032	C0086582
+27860505	1162	1167	chose	T052	C1707391
+27860505	1169	1178	Selection	T054	C0024909
+27860505	1203	1214	constrained	T077	C1707494
+27860505	1218	1230	direct costs	T081	C1511972
+27860505	1235	1245	restricted	T169	C0443288
+27860505	1246	1264	kin discrimination	T043	C3893608
+27860505	1278	1288	negligible	T080	C0332269
+27860505	1294	1312	allele frequencies	T081	C0017270
+27860505	1318	1326	strongly	T080	C0442821
+27860505	1327	1335	affected	T169	C0392760
+27860505	1339	1344	drift	T045	C0917892
+27860505	1348	1353	small	T081	C0700321
+27860505	1354	1365	populations	T081	C0032659
+27860505	1373	1382	selection	T054	C0024909
+27860505	1387	1397	inbreeding	T040	C0021144
+27860505	1398	1407	avoidance	T080	C2700409
+27860505	1412	1416	weak	T080	C1762617
+27860505	1420	1426	larger	T081	C0549177
+27860505	1427	1438	populations	T081	C0032659
+27860505	1447	1457	inbreeding	T040	C0021144
+27860505	1458	1462	risk	T078	C0035647
+27860505	1463	1472	decreased	T081	C0205216
+27860505	1491	1500	selection	T054	C0024909
+27860505	1519	1526	alleles	T028	C0002085
+27860505	1538	1548	inbreeding	T040	C0021144
+27860505	1549	1558	avoidance	T080	C2700409
+27860505	1562	1572	preference	T078	C0558295
+27860505	1574	1583	evolution	T045	C0015219
+27860505	1620	1630	restricted	T169	C0443288
+27860505	1635	1645	stochastic	T081	C0038347

@@ -1,0 +1,51 @@
+27504260|t|De novo assembly of the blunt snout bream (Megalobrama amblycephala) gill transcriptome to identify ammonia exposure associated microRNAs and their targets
+27504260|a|De novo transcriptome sequencing is a robust method for microRNA (miRNA) target gene prediction, especially for organisms without reference genomes. Following exposure of Megalobrama amblycephala to ammonia (0.1 or 20 mg L(-1)), two cDNA libraries were constructed from the fish gills and sequenced using Illumina HiSeq 2000. Over 90 million reads were generated and de novo assembled into 46, 615 unigenes, which were then extensively annotated by comparing to different protein databases, followed by biochemical pathway prediction. The expression of 2666 unigenes significantly differed; 1961 were up-regulated, while 975 were down-regulated. Among these, 250 unigenes were identified as the targets for 10 conserved and 4 putative novel miRNA families by miRNA target computational prediction. We examined expression of ssa-miRNA-21 and its target genes by real-time quantitative PCR and found agreement with the sequencing data. This study demonstrates the feasibility of identifying miRNA targets by transcriptome analysis. The transcriptome assembly data represent a substantial increase in the genomic resources available for Megalobrama amblycephala and will be useful for gene expression profile analysis and miRNA functional annotation.
+27504260	0	7	De novo	T078	C1515568
+27504260	8	16	assembly	T086	C3178810
+27504260	24	41	blunt snout bream	T013	C1031211
+27504260	43	67	Megalobrama amblycephala	T013	C1031211
+27504260	69	73	gill	T023	C0017558
+27504260	74	87	transcriptome	T086	C3178810
+27504260	100	116	ammonia exposure	T033	C0238623
+27504260	128	137	microRNAs	T114,T123	C1101610
+27504260	148	155	targets	T169	C1521840
+27504260	156	163	De novo	T078	C1515568
+27504260	164	177	transcriptome	T086	C3178810
+27504260	212	220	microRNA	T114,T123	C1101610
+27504260	222	227	miRNA	T114,T123	C1101610
+27504260	229	251	target gene prediction	T063	C2717881
+27504260	268	277	organisms	T001	C0029235
+27504260	296	303	genomes	T028	C0017428
+27504260	327	351	Megalobrama amblycephala	T013	C1031211
+27504260	355	362	ammonia	T033	C0238623
+27504260	389	403	cDNA libraries	T028,T114	C0751608
+27504260	430	440	fish gills	T023	C0017558
+27504260	461	480	Illumina HiSeq 2000	T170	C0282574
+27504260	523	530	de novo	T078	C1515568
+27504260	554	562	unigenes	T170	C1710539
+27504260	580	601	extensively annotated	T080	C1552720
+27504260	628	645	protein databases	T170	C0872249
+27504260	659	678	biochemical pathway	T044	C1704259
+27504260	679	689	prediction	T078	C0681842
+27504260	695	722	expression of 2666 unigenes	T045	C0017262
+27504260	757	769	up-regulated	T045	C0162493
+27504260	786	800	down-regulated	T045	C0920533
+27504260	819	827	unigenes	T170	C1710539
+27504260	851	858	targets	T169	C1521840
+27504260	897	911	miRNA families	T114,T123	C1101610
+27504260	915	927	miRNA target	T114,T123	C1101610
+27504260	928	952	computational prediction	T059	C4297010
+27504260	966	976	expression	T045	C0017262
+27504260	980	992	ssa-miRNA-21	T028	C1537719
+27504260	1001	1013	target genes	T028	C0017337
+27504260	1017	1043	real-time quantitative PCR	T063	C3179034
+27504260	1054	1063	agreement	T054	C0680240
+27504260	1073	1088	sequencing data	T170	C0026382
+27504260	1118	1144	feasibility of identifying	T062,T170	C0015730
+27504260	1145	1158	miRNA targets	T114,T123	C1101610
+27504260	1162	1184	transcriptome analysis	T059,T063	C0752248
+27504260	1190	1212	transcriptome assembly	T086	C3178810
+27504260	1258	1275	genomic resources	T078	C0035201
+27504260	1290	1314	Megalobrama amblycephala	T013	C1031211
+27504260	1338	1370	gene expression profile analysis	T059,T063	C0752248
+27504260	1375	1402	miRNA functional annotation	T063	C2936605

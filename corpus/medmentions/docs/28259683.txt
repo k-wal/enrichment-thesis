@@ -1,0 +1,113 @@
+28259683|t|Inhibition of Sebum Production with the Acetyl Coenzyme A Carboxylase Inhibitor Olumacostat Glasaretil
+28259683|a|Olumacostat glasaretil (OG) is a small molecule inhibitor of acetyl coenzyme A (CoA) carboxylase (ACC), the enzyme that controls the first rate-limiting step in fatty acid biosynthesis. Inhibition of ACC activity in the sebaceous glands is designed to substantially affect sebum production, because over 80% of human sebum components contain fatty acids. OG inhibits de novo lipid synthesis in primary and transformed human sebocytes. TrueMass Sebum Panel analyses showed a reduction in saturated and monounsaturated fatty acyl chains across lipid species, including di- and triacylglycerols, phospholipids, cholesteryl esters, and wax esters in OG - treated sebocytes. There was no shift to shorter acyl chain lengths observed, suggesting that the fatty acid chain elongation process was not affected. OG is a pro-drug of the ACC inhibitor 5-(tetradecyloxy)-2-furoic acid and was designed to enhance delivery in vivo. Topical application of OG but not 5-(tetradecyloxy)-2-furoic acid significantly reduced hamster ear sebaceous gland size, indicating that this pro-drug approach was critical to obtain the desired activity in vivo. High-performance liquid chromatography analyses of hamster ear extracts showed that OG treatment increased ACC levels and the ratio of acetyl-CoA to free CoA in these animals, indicating increased fatty acid oxidation. These changes are consistent with ACC inhibition. Matrix-assisted laser desorption/ionization imaging showed that OG applied onto Yorkshire pig ears accumulated in sebaceous glands relative to the surrounding dermis. Sebaceous gland ACC represents an attractive therapeutic target given its central role in formation of sebum, a key factor in acne pathogenesis.
+28259683	0	10	Inhibition	T052	C3463820
+28259683	14	19	Sebum	T031	C0036511
+28259683	20	30	Production	T169	C0005572
+28259683	40	69	Acetyl Coenzyme A Carboxylase	T116,T126	C0001022
+28259683	70	79	Inhibitor	T080	C1999216
+28259683	80	102	Olumacostat Glasaretil	T121	C1254351
+28259683	103	125	Olumacostat glasaretil	T121	C1254351
+28259683	127	129	OG	T121	C1254351
+28259683	151	160	inhibitor	T080	C1999216
+28259683	164	199	acetyl coenzyme A (CoA) carboxylase	T116,T126	C0001022
+28259683	201	204	ACC	T116,T126	C0001022
+28259683	211	217	enzyme	T116,T126	C0014442
+28259683	223	231	controls	T169	C2587213
+28259683	264	287	fatty acid biosynthesis	T044	C0596562
+28259683	289	299	Inhibition	T052	C3463820
+28259683	303	315	ACC activity	T044	C1150657
+28259683	323	339	sebaceous glands	T023	C0036505
+28259683	343	351	designed	T052	C1707689
+28259683	369	375	affect	T169	C0392760
+28259683	376	381	sebum	T031	C0036511
+28259683	382	392	production	T169	C0005572
+28259683	414	419	human	T016	C0086418
+28259683	420	436	sebum components	T031	C0036511
+28259683	445	456	fatty acids	T109	C0015684
+28259683	458	460	OG	T121	C1254351
+28259683	461	469	inhibits	T080	C0311403
+28259683	470	477	de novo	T078	C1515568
+28259683	478	493	lipid synthesis	T040	C1563744
+28259683	497	504	primary	T080	C0205225
+28259683	509	520	transformed	T081	C0443172
+28259683	521	526	human	T016	C0086418
+28259683	527	536	sebocytes	T025	C1710037
+28259683	538	567	TrueMass Sebum Panel analyses	T062	C0936012
+28259683	577	586	reduction	T070	C0301630
+28259683	590	599	saturated	T109,T123	C0443609
+28259683	604	637	monounsaturated fatty acyl chains	T109,T123	C0015687
+28259683	645	658	lipid species	T109	C0023779
+28259683	670	673	di-	T109,T121	C0012262
+28259683	678	694	triacylglycerols	T109,T123	C0041004
+28259683	696	709	phospholipids	T109,T123	C0031676
+28259683	711	729	cholesteryl esters	T109,T123	C0008387
+28259683	735	745	wax esters	T109	C0014898
+28259683	749	751	OG	T121	C1254351
+28259683	754	761	treated	T169	C1522326
+28259683	762	771	sebocytes	T025	C1710037
+28259683	795	802	shorter	T081	C1806781
+28259683	803	813	acyl chain	T104	C1254350
+28259683	814	821	lengths	T081	C1444754
+28259683	822	830	observed	T169	C1441672
+28259683	852	862	fatty acid	T109	C0015684
+28259683	863	887	chain elongation process	T067	C1522240
+28259683	892	895	not	T033	C1513916
+28259683	896	904	affected	T169	C0392760
+28259683	906	908	OG	T121	C1254351
+28259683	914	922	pro-drug	T120	C0033262
+28259683	930	933	ACC	T116,T126	C0001022
+28259683	934	943	inhibitor	T080	C1999216
+28259683	944	975	5-(tetradecyloxy)-2-furoic acid	T109,T121	C0146177
+28259683	984	992	designed	T052	C1707689
+28259683	996	1003	enhance	T052	C2349975
+28259683	1013	1020	in vivo	T082	C1515655
+28259683	1022	1041	Topical application	T061	C0683174
+28259683	1045	1047	OG	T121	C1254351
+28259683	1056	1087	5-(tetradecyloxy)-2-furoic acid	T109,T121	C0146177
+28259683	1102	1109	reduced	T080	C0392756
+28259683	1110	1117	hamster	T015	C0018557
+28259683	1118	1121	ear	T023	C0013443
+28259683	1122	1137	sebaceous gland	T023	C0036505
+28259683	1138	1142	size	T082	C0456389
+28259683	1165	1173	pro-drug	T120	C0033262
+28259683	1174	1182	approach	T082	C0449445
+28259683	1199	1205	obtain	T169	C1301820
+28259683	1218	1226	activity	T052	C0441655
+28259683	1227	1234	in vivo	T082	C1515655
+28259683	1236	1283	High-performance liquid chromatography analyses	T059	C1579831
+28259683	1287	1294	hamster	T015	C0018557
+28259683	1295	1298	ear	T023	C0013443
+28259683	1299	1307	extracts	T167	C2828366
+28259683	1320	1322	OG	T121	C1254351
+28259683	1323	1332	treatment	T061	C0087111
+28259683	1333	1342	increased	T081	C0205217
+28259683	1343	1346	ACC	T116,T126	C0001022
+28259683	1347	1353	levels	T080	C0441889
+28259683	1362	1367	ratio	T081	C0456603
+28259683	1371	1381	acetyl-CoA	T114,T123	C0001026
+28259683	1385	1393	free CoA	T114,T123	C0009226
+28259683	1403	1410	animals	T008	C0003062
+28259683	1423	1432	increased	T081	C0205217
+28259683	1433	1443	fatty acid	T109	C0015684
+28259683	1444	1453	oxidation	T044	C0030011
+28259683	1461	1468	changes	T169	C0392747
+28259683	1473	1488	consistent with	T078	C0332290
+28259683	1489	1492	ACC	T116,T126	C0001022
+28259683	1493	1503	inhibition	T052	C3463820
+28259683	1505	1548	Matrix-assisted laser desorption/ionization	T059	C0282597
+28259683	1549	1556	imaging	T060	C0079595
+28259683	1569	1571	OG	T121	C1254351
+28259683	1572	1579	applied	T169	C4048755
+28259683	1585	1598	Yorkshire pig	T015	C0324292
+28259683	1599	1603	ears	T023	C0013443
+28259683	1619	1635	sebaceous glands	T023	C0036505
+28259683	1636	1644	relative	T080	C0205345
+28259683	1664	1670	dermis	T024	C0011646
+28259683	1672	1687	Sebaceous gland	T023	C0036505
+28259683	1688	1691	ACC	T116,T126	C0001022
+28259683	1706	1716	attractive	T080	C2346874
+28259683	1717	1728	therapeutic	T169	C0302350
+28259683	1729	1735	target	T169	C1521840
+28259683	1775	1780	sebum	T031	C0036511
+28259683	1798	1802	acne	T047	C0702166
+28259683	1803	1815	pathogenesis	T046	C0699748

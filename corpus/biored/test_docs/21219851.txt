@@ -1,0 +1,34 @@
+21219851|t|A novel mutation screening system for Ehlers-Danlos Syndrome, vascular type by high-resolution melting curve analysis in combination with small amplicon genotyping using genomic DNA.
+21219851|a|Ehlers-Danlos syndrome, vascular type (vEDS) (MIM #130050) is an autosomal dominant disorder caused by type III procollagen gene (COL3A1) mutations. Most COL3A1 mutations are detected by using total RNA from patient-derived fibroblasts, which requires an invasive skin biopsy. High-resolution melting curve analysis (hrMCA) has recently been developed as a post-PCR mutation scanning method which enables simple, rapid, cost-effective, and highly sensitive mutation screening of large genes. We established a hrMCA method to screen for COL3A1 mutations using genomic DNA. PCR primers pairs for COL3A1 (52 amplicons) were designed to cover all coding regions of the 52 exons, including the splicing sites. We used 15 DNA samples (8 validation samples and 7 samples of clinically suspected vEDS patients) in this study. The eight known COL3A1 mutations in validation samples were all successfully detected by the hrMCA. In addition, we identified five novel COL3A1 mutations, including one deletion (c.2187delA) and one nonsense mutation (c.2992C>T) that could not be determined by the conventional total RNA method. Furthermore, we established a small amplicon genotyping (SAG) method for detecting three high frequency coding-region SNPs (rs1800255:G>A, rs1801184:T>C, and rs2271683:A>G) in COL3A1 to differentiate mutations before sequencing. The use of hrMCA in combination with SAG from genomic DNA enables rapid detection of COL3A1 mutations with high efficiency and specificity. A better understanding of the genotype-phenotype correlation in COL3A1 using this method will lead to improve in diagnosis and treatment.
+21219851	38	75	Ehlers-Danlos Syndrome, vascular type	DiseaseOrPhenotypicFeature	D004535
+21219851	183	220	Ehlers-Danlos syndrome, vascular type	DiseaseOrPhenotypicFeature	D004535
+21219851	222	226	vEDS	DiseaseOrPhenotypicFeature	D004535
+21219851	229	240	MIM #130050	DiseaseOrPhenotypicFeature	D004535
+21219851	248	275	autosomal dominant disorder	DiseaseOrPhenotypicFeature	D030342
+21219851	286	306	type III procollagen	GeneOrGeneProduct	1281
+21219851	313	319	COL3A1	GeneOrGeneProduct	1281
+21219851	337	343	COL3A1	GeneOrGeneProduct	1281
+21219851	391	398	patient	OrganismTaxon	9606
+21219851	719	725	COL3A1	GeneOrGeneProduct	1281
+21219851	777	783	COL3A1	GeneOrGeneProduct	1281
+21219851	971	975	vEDS	DiseaseOrPhenotypicFeature	D004535
+21219851	976	984	patients	OrganismTaxon	9606
+21219851	1017	1023	COL3A1	GeneOrGeneProduct	1281
+21219851	1139	1145	COL3A1	GeneOrGeneProduct	1281
+21219851	1181	1191	c.2187delA	SequenceVariant	c|DEL|2187|A
+21219851	1220	1229	c.2992C>T	SequenceVariant	c|SUB|C|2992|T
+21219851	1422	1431	rs1800255	SequenceVariant	rs1800255
+21219851	1432	1435	G>A	SequenceVariant	rs1800255
+21219851	1437	1446	rs1801184	SequenceVariant	rs1801184
+21219851	1447	1450	T>C	SequenceVariant	rs1801184
+21219851	1456	1465	rs2271683	SequenceVariant	rs2271683
+21219851	1466	1469	A>G	SequenceVariant	rs2271683
+21219851	1474	1480	COL3A1	GeneOrGeneProduct	1281
+21219851	1612	1618	COL3A1	GeneOrGeneProduct	1281
+21219851	1731	1737	COL3A1	GeneOrGeneProduct	1281
+21219851	Association	D004535	1281	No
+21219851	Positive_Correlation	D004535	rs2271683	No
+21219851	Positive_Correlation	D004535	rs1801184	No
+21219851	Positive_Correlation	D004535	rs1800255	No
+21219851	Positive_Correlation	D004535	c|SUB|C|2992|T	Novel
+21219851	Positive_Correlation	D004535	c|DEL|2187|A	Novel

@@ -1,0 +1,68 @@
+16112787|t|In vivo evidences suggesting the role of oxidative stress in pathogenesis of vancomycin-induced nephrotoxicity: protection by erdosteine.
+16112787|a|The aims of this study were to examine vancomycin (VCM)-induced oxidative stress that promotes production of reactive oxygen species (ROS) and to investigate the role of erdosteine, an expectorant agent, which has also antioxidant properties, on kidney tissue against the possible VCM-induced renal impairment in rats. Rats were divided into three groups: sham, VCM and VCM plus erdosteine. VCM was administrated intraperitoneally (i.p.) with 200mgkg(-1) twice daily for 7 days. Erdosteine was administered orally. VCM administration to control rats significantly increased renal malondialdehyde (MDA) and urinary N-acetyl-beta-d-glucosaminidase (NAG, a marker of renal tubular injury) excretion but decreased superoxide dismutase (SOD) and catalase (CAT) activities. Erdosteine administration with VCM injections caused significantly decreased renal MDA and urinary NAG excretion, and increased SOD activity, but not CAT activity in renal tissue when compared with VCM alone. Erdosteine showed histopathological protection against VCM-induced nephrotoxicity. There were a significant dilatation of tubular lumens, extensive epithelial cell vacuolization, atrophy, desquamation, and necrosis in VCM-treated rats more than those of the control and the erdosteine groups. Erdosteine caused a marked reduction in the extent of tubular damage. It is concluded that oxidative tubular damage plays an important role in the VCM-induced nephrotoxicity and the modulation of oxidative stress with erdosteine reduces the VCM-induced kidney damage both at the biochemical and histological levels.
+16112787	77	87	vancomycin	ChemicalEntity	D014640
+16112787	96	110	nephrotoxicity	DiseaseOrPhenotypicFeature	D007674
+16112787	126	136	erdosteine	ChemicalEntity	C048498
+16112787	177	187	vancomycin	ChemicalEntity	D014640
+16112787	189	192	VCM	ChemicalEntity	D014640
+16112787	247	270	reactive oxygen species	ChemicalEntity	D017382
+16112787	272	275	ROS	ChemicalEntity	D017382
+16112787	308	318	erdosteine	ChemicalEntity	C048498
+16112787	357	368	antioxidant	ChemicalEntity	D000975
+16112787	419	422	VCM	ChemicalEntity	D014640
+16112787	431	447	renal impairment	DiseaseOrPhenotypicFeature	D007674
+16112787	451	455	rats	OrganismTaxon	10116
+16112787	457	461	Rats	OrganismTaxon	10116
+16112787	500	503	VCM	ChemicalEntity	D014640
+16112787	508	511	VCM	ChemicalEntity	D014640
+16112787	517	527	erdosteine	ChemicalEntity	C048498
+16112787	529	532	VCM	ChemicalEntity	D014640
+16112787	617	627	Erdosteine	ChemicalEntity	C048498
+16112787	653	656	VCM	ChemicalEntity	D014640
+16112787	683	687	rats	OrganismTaxon	10116
+16112787	718	733	malondialdehyde	ChemicalEntity	D008315
+16112787	735	738	MDA	ChemicalEntity	D008315
+16112787	752	783	N-acetyl-beta-d-glucosaminidase	GeneOrGeneProduct	154968
+16112787	785	788	NAG	GeneOrGeneProduct	154968
+16112787	802	822	renal tubular injury	DiseaseOrPhenotypicFeature	D007674
+16112787	848	868	superoxide dismutase	ChemicalEntity	D013482
+16112787	870	873	SOD	ChemicalEntity	D013482
+16112787	879	887	catalase	GeneOrGeneProduct	24248
+16112787	889	892	CAT	GeneOrGeneProduct	24248
+16112787	906	916	Erdosteine	ChemicalEntity	C048498
+16112787	937	940	VCM	ChemicalEntity	D014640
+16112787	989	992	MDA	ChemicalEntity	D008315
+16112787	1005	1008	NAG	GeneOrGeneProduct	154968
+16112787	1034	1037	SOD	ChemicalEntity	D013482
+16112787	1056	1059	CAT	GeneOrGeneProduct	24248
+16112787	1104	1107	VCM	ChemicalEntity	D014640
+16112787	1115	1125	Erdosteine	ChemicalEntity	C048498
+16112787	1170	1173	VCM	ChemicalEntity	D014640
+16112787	1182	1196	nephrotoxicity	DiseaseOrPhenotypicFeature	D007674
+16112787	1294	1301	atrophy	DiseaseOrPhenotypicFeature	D001284
+16112787	1303	1315	desquamation	DiseaseOrPhenotypicFeature	D012871
+16112787	1321	1329	necrosis	DiseaseOrPhenotypicFeature	D009336
+16112787	1333	1336	VCM	ChemicalEntity	D014640
+16112787	1345	1349	rats	OrganismTaxon	10116
+16112787	1389	1399	erdosteine	ChemicalEntity	C048498
+16112787	1408	1418	Erdosteine	ChemicalEntity	C048498
+16112787	1555	1558	VCM	ChemicalEntity	D014640
+16112787	1567	1581	nephrotoxicity	DiseaseOrPhenotypicFeature	D007674
+16112787	1626	1636	erdosteine	ChemicalEntity	C048498
+16112787	1649	1652	VCM	ChemicalEntity	D014640
+16112787	1661	1674	kidney damage	DiseaseOrPhenotypicFeature	D007674
+16112787	Positive_Correlation	D013482	C048498	Novel
+16112787	Negative_Correlation	24248	D014640	Novel
+16112787	Association	154968	D007674	No
+16112787	Negative_Correlation	C048498	D007674	Novel
+16112787	Negative_Correlation	C048498	154968	Novel
+16112787	Negative_Correlation	C048498	D008315	Novel
+16112787	Association	D014640	D017382	No
+16112787	Positive_Correlation	D014640	D009336	Novel
+16112787	Positive_Correlation	D014640	D012871	Novel
+16112787	Positive_Correlation	D014640	D001284	Novel
+16112787	Positive_Correlation	D014640	D007674	No
+16112787	Negative_Correlation	D014640	D013482	Novel
+16112787	Positive_Correlation	D014640	154968	Novel
+16112787	Positive_Correlation	D014640	D008315	Novel
+16112787	Negative_Correlation	D014640	C048498	Novel

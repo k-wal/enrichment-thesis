@@ -1,0 +1,68 @@
+27234220|t|Safety of transradial diagnostic cardiac catheterization in patients under oral anticoagulant therapy
+27234220|a|Cardiac catheterization in anticoagulated patients is usually performed after the anticoagulation has been withdrawn, at least in the previous 48h, and sometimes bridging therapy with heparin is used. A prospective observational study including 489 patients undergoing transradial catheterization was conducted. A total of 140 patients were under acenocoumarol (group A) and they were compared with the remainder (group B) for complications after the procedure (bleeding and vascular access complications). Patients in group A were older (74±12 years vs. 68±17 years, p<0.01) and the main indication for anticoagulation was atrial fibrillation (58.6%). No complications occurred during the procedures. There were no acute bleedings just after the bandage removal. During the first 24h, only 3 (2.1%) radial occlusions in group A and 2 (0.6%) in group B (p=0.14) were recorded. Hematomas between 5 and 10cm appeared in 5% of the group A vs. 4.6% in group B. During the 1-month follow-up period, one more radial occlusion in each group was recorded and there were 4 (1.1%) additional mild hematomas in group B and none in group A (p=0.48). Performing a transradial diagnostic cardiac catheterization without removal of the oral chronic anticoagulation appears safe in patients under acenocumarol therapy.
+27234220	0	6	Safety	T062	C1705187
+27234220	10	56	transradial diagnostic cardiac catheterization	T060	C2041518
+27234220	60	68	patients	T101	C0030705
+27234220	75	79	oral	T082	C0442027
+27234220	80	101	anticoagulant therapy	T061	C0150457
+27234220	102	125	Cardiac catheterization	T058	C0018795
+27234220	129	143	anticoagulated	UnknownType	C0741134
+27234220	144	152	patients	T101	C0030705
+27234220	164	173	performed	T169	C0884358
+27234220	184	199	anticoagulation	T061	C0003281
+27234220	209	218	withdrawn	T061	C1707825
+27234220	264	293	bridging therapy with heparin	T061	C3873426
+27234220	317	336	observational study	T062	C1518527
+27234220	351	359	patients	T101	C0030705
+27234220	371	398	transradial catheterization	T058	C0018795
+27234220	429	437	patients	T101	C0030705
+27234220	449	462	acenocoumarol	T109,T121	C0000956
+27234220	464	471	group A	T185	C0441835
+27234220	487	495	compared	T052	C1707455
+27234220	505	514	remainder	T080	C1527428
+27234220	516	523	group B	T185	C0441836
+27234220	529	542	complications	T046	C0009566
+27234220	553	562	procedure	T058	C0018795
+27234220	564	572	bleeding	T046	C0019080
+27234220	577	606	vascular access complications	T046	C0920165
+27234220	609	617	Patients	T101	C0030705
+27234220	621	628	group A	T185	C0441835
+27234220	634	639	older	T098	C1518563
+27234220	691	701	indication	T078	C3146298
+27234220	706	721	anticoagulation	T061	C0003281
+27234220	726	745	atrial fibrillation	T047	C0004238
+27234220	755	757	No	T033	C1513916
+27234220	758	771	complications	T046	C0009566
+27234220	792	802	procedures	T058	C0018795
+27234220	815	817	no	T033	C1513916
+27234220	818	833	acute bleedings	T046	C0333276
+27234220	839	844	after	T079	C0687676
+27234220	849	856	bandage	T074	C0004726
+27234220	857	864	removal	T052	C1883720
+27234220	902	919	radial occlusions	T046	C1110554
+27234220	923	930	group A	T185	C0441835
+27234220	947	954	group B	T185	C0441836
+27234220	969	977	recorded	T080	C2355580
+27234220	979	988	Hematomas	T046	C0018944
+27234220	1030	1037	group A	T185	C0441835
+27234220	1050	1057	group B	T185	C0441836
+27234220	1070	1077	1-month	T079	C1442451
+27234220	1078	1087	follow-up	T058	C1522577
+27234220	1088	1094	period	T079	C1948053
+27234220	1105	1121	radial occlusion	T046	C1110554
+27234220	1130	1135	group	T078	C0441833
+27234220	1140	1148	recorded	T080	C2355580
+27234220	1184	1188	mild	T080	C2945599
+27234220	1189	1198	hematomas	T046	C0018944
+27234220	1202	1209	group B	T185	C0441836
+27234220	1222	1229	group A	T185	C0441835
+27234220	1240	1250	Performing	T169	C0884358
+27234220	1253	1299	transradial diagnostic cardiac catheterization	T060	C2041518
+27234220	1300	1307	without	T080	C0332288
+27234220	1308	1315	removal	T052	C1883720
+27234220	1323	1327	oral	T082	C0442027
+27234220	1328	1351	chronic anticoagulation	UnknownType	C0694554
+27234220	1360	1364	safe	T033	C3266157
+27234220	1368	1376	patients	T101	C0030705
+27234220	1383	1395	acenocumarol	T109,T121	C0000956
+27234220	1396	1403	therapy	T061	C0087111

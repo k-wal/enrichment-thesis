@@ -1,0 +1,187 @@
+27784277|t|Air pollution, neighbourhood and maternal - level factors modify the effect of smoking on birth weight: a multilevel analysis in British Columbia, Canada
+27784277|a|Maternal smoking during pregnancy negatively impacts fetal growth, but the effect is not homogenous across the population. We sought to determine how the relationship between cigarette use and fetal growth is modified by the social and physical environment. Birth records with covariates were obtained from the BC Perinatal Database Registry (N = 232,291). Maternal smoking status was self-reported as the number of cigarettes smoked per day usually at the first prenatal care visit. Census dissemination areas (DAs) were used as neighbourhood - level units and linked to individual births using residential postal codes to assign exposure to particulate air pollution (PM2.5) and neighbourhood - level attributes such as socioeconomic status (SES), proportion of post-secondary education, immigrant density and living in a rural place. Random coefficient models were used with cigarettes /day modeled with a random slope to estimate its between- DA variability and test cross-level interactions with the neighbourhood - level variables on continuous birth weight. A significant negative and non-linear association was found between maternal smoking and birth weight. There was significant between- DA intercept variability in birth weight as well as between- DA slope variability of maternal smoking on birth weight of which 68 and 30 % respectively was explained with the inclusion of DA - level variables and their cross-level interactions. High DA - level SES had a strong positive association with birth weight but the effect was moderated with increased cigarettes /day. Conversely, heavy smokers showed the largest increases in birth weight with rising neighbourhood education levels. Increased levels of PM2.5 and immigrant density were negatively associated with birth weight, but showed positive interactions with increased levels of smoking. Older maternal age and suspected drug or alcohol use both had negative interactions with increased levels of maternal smoking. Maternal smoking had a negative and non-linear dose-response association with birth weight which was highly variable between neighbourhood s and evidence of effect modification with neighbourhood - level factors. These results suggest that focusing exclusively on individual behaviours may have limited success in improving outcomes without addressing the contextual influences at the neighbourhood - level. Further studies are needed to corroborate our findings and to understand how neighbourhood - level attributes interact with smoking to affect birth outcomes.
+27784277	0	13	Air pollution	T069	C0001873
+27784277	15	28	neighbourhood	T082	C1254362
+27784277	33	41	maternal	T033	C1858460
+27784277	44	49	level	T080	C0441889
+27784277	50	57	factors	T169	C1521761
+27784277	58	64	modify	T169	C3242344
+27784277	69	75	effect	T080	C1280500
+27784277	79	86	smoking	T055	C0037369
+27784277	90	102	birth weight	T032	C0005612
+27784277	106	125	multilevel analysis	T062	C0814909
+27784277	129	145	British Columbia	T083	C0006193
+27784277	147	153	Canada	T083	C0006823
+27784277	154	162	Maternal	T033	C1858460
+27784277	163	170	smoking	T055	C0037369
+27784277	178	187	pregnancy	T040	C0032961
+27784277	188	198	negatively	T033	C0205160
+27784277	199	206	impacts	T080	C4049986
+27784277	207	219	fetal growth	T039	C0743925
+27784277	229	235	effect	T080	C1280500
+27784277	243	253	homogenous	T082	C0439713
+27784277	265	275	population	T081	C0032659
+27784277	308	320	relationship	T080	C0439849
+27784277	329	342	cigarette use	T055	C0694535
+27784277	347	359	fetal growth	T039	C0743925
+27784277	363	371	modified	T033	C3840684
+27784277	379	385	social	T078	C0037414
+27784277	390	410	physical environment	T082	C0557720
+27784277	412	425	Birth records	T073	C0005609
+27784277	465	495	BC Perinatal Database Registry	T170	C0242356
+27784277	511	519	Maternal	T033	C1858460
+27784277	520	534	smoking status	T201	C1519386
+27784277	539	552	self-reported	T062	C0681906
+27784277	560	566	number	T081	C0449788
+27784277	570	580	cigarettes	T073	C0677453
+27784277	581	587	smoked	T055	C0037369
+27784277	588	595	per day	T079	C0439505
+27784277	611	636	first prenatal care visit	T061	C1504204
+27784277	638	644	Census	T081	C0007663
+27784277	645	658	dissemination	T082	C0205221
+27784277	659	664	areas	T083	C0017446
+27784277	666	669	DAs	T083	C0017446
+27784277	684	697	neighbourhood	T082	C1254362
+27784277	700	705	level	T080	C0441889
+27784277	706	711	units	T081	C0439148
+27784277	726	736	individual	T098	C0237401
+27784277	737	743	births	T040	C0005615
+27784277	750	774	residential postal codes	T078	C1552677
+27784277	778	784	assign	T169	C1516050
+27784277	785	796	exposure to	T080	C0332157
+27784277	797	808	particulate	T131	C1510837
+27784277	809	822	air pollution	T069	C0001873
+27784277	835	848	neighbourhood	T082	C1254362
+27784277	851	856	level	T080	C0441889
+27784277	857	867	attributes	T078	C0449234
+27784277	876	896	socioeconomic status	T080	C0086996
+27784277	898	901	SES	T080	C0086996
+27784277	904	914	proportion	T081	C1709707
+27784277	918	942	post-secondary education	T170	C0683860
+27784277	944	953	immigrant	T098	C0282163
+27784277	954	961	density	T081	C0178587
+27784277	966	972	living	UnknownType	C0023913
+27784277	978	989	rural place	T082	C0178837
+27784277	991	997	Random	T080	C0439605
+27784277	998	1009	coefficient	T081	C1707429
+27784277	1010	1016	models	T170	C3161035
+27784277	1032	1042	cigarettes	T073	C0677453
+27784277	1043	1047	/day	T079	C0439505
+27784277	1048	1055	modeled	T170	C3161035
+27784277	1063	1069	random	T080	C0439605
+27784277	1070	1075	slope	T081	C0807955
+27784277	1079	1087	estimate	T081	C0750572
+27784277	1101	1103	DA	T083	C0017446
+27784277	1104	1115	variability	T077	C2827666
+27784277	1120	1124	test	T169	C0039593
+27784277	1125	1136	cross-level	T080	C0441889
+27784277	1137	1149	interactions	T169	C1704675
+27784277	1159	1172	neighbourhood	T082	C1254362
+27784277	1175	1180	level	T080	C0441889
+27784277	1181	1190	variables	T080	C0439828
+27784277	1194	1204	continuous	T078	C0549178
+27784277	1205	1217	birth weight	T032	C0005612
+27784277	1221	1232	significant	T078	C0750502
+27784277	1233	1241	negative	T033	C0205160
+27784277	1257	1268	association	T080	C0439849
+27784277	1287	1295	maternal	T033	C1858460
+27784277	1296	1303	smoking	T055	C0037369
+27784277	1308	1320	birth weight	T032	C0005612
+27784277	1332	1343	significant	T078	C0750502
+27784277	1353	1355	DA	T083	C0017446
+27784277	1356	1365	intercept	T081	C3146232
+27784277	1366	1377	variability	T077	C2827666
+27784277	1381	1393	birth weight	T032	C0005612
+27784277	1414	1416	DA	T083	C0017446
+27784277	1417	1422	slope	T081	C0807955
+27784277	1423	1434	variability	T077	C2827666
+27784277	1438	1446	maternal	T033	C1858460
+27784277	1447	1454	smoking	T055	C0037369
+27784277	1458	1470	birth weight	T032	C0005612
+27784277	1528	1537	inclusion	T080	C1512693
+27784277	1541	1543	DA	T083	C0017446
+27784277	1546	1551	level	T080	C0441889
+27784277	1552	1561	variables	T080	C0439828
+27784277	1572	1583	cross-level	T080	C0441889
+27784277	1584	1596	interactions	T169	C1704675
+27784277	1598	1602	High	T080	C0205250
+27784277	1603	1605	DA	T083	C0017446
+27784277	1608	1613	level	T080	C0441889
+27784277	1614	1617	SES	T080	C0086996
+27784277	1624	1630	strong	T080	C0442821
+27784277	1631	1639	positive	T033	C1446409
+27784277	1640	1651	association	T080	C0439849
+27784277	1657	1669	birth weight	T032	C0005612
+27784277	1678	1684	effect	T080	C1280500
+27784277	1689	1698	moderated	T080	C1881878
+27784277	1704	1713	increased	T169	C0442805
+27784277	1714	1724	cigarettes	T073	C0677453
+27784277	1725	1729	/day	T079	C0439505
+27784277	1743	1756	heavy smokers	T033	C0459847
+27784277	1768	1775	largest	T081	C0443228
+27784277	1776	1785	increases	T169	C0442805
+27784277	1789	1801	birth weight	T032	C0005612
+27784277	1807	1813	rising	T169	C0442805
+27784277	1814	1827	neighbourhood	T082	C1254362
+27784277	1828	1844	education levels	T033	C1553770
+27784277	1846	1855	Increased	T169	C0442805
+27784277	1856	1862	levels	T080	C0441889
+27784277	1866	1871	PM2.5	T131	C1510837
+27784277	1876	1885	immigrant	T098	C0282163
+27784277	1886	1893	density	T081	C0178587
+27784277	1899	1909	negatively	T033	C0205160
+27784277	1910	1925	associated with	T080	C0332281
+27784277	1926	1938	birth weight	T032	C0005612
+27784277	1951	1959	positive	T033	C1446409
+27784277	1960	1972	interactions	T169	C1704675
+27784277	1978	1987	increased	T169	C0442805
+27784277	1988	1994	levels	T080	C0441889
+27784277	1998	2005	smoking	T055	C0037369
+27784277	2013	2025	maternal age	T079	C0024915
+27784277	2030	2039	suspected	T078	C0750491
+27784277	2040	2044	drug	T048	C0242510
+27784277	2048	2059	alcohol use	T055	C0001948
+27784277	2069	2077	negative	T033	C0205160
+27784277	2078	2090	interactions	T169	C1704675
+27784277	2096	2105	increased	T169	C0442805
+27784277	2106	2112	levels	T080	C0441889
+27784277	2116	2124	maternal	T033	C1858460
+27784277	2125	2132	smoking	T055	C0037369
+27784277	2134	2142	Maternal	T033	C1858460
+27784277	2143	2150	smoking	T055	C0037369
+27784277	2157	2165	negative	T033	C0205160
+27784277	2181	2206	dose-response association	T038	C0678790
+27784277	2212	2224	birth weight	T032	C0005612
+27784277	2235	2241	highly	T080	C0205250
+27784277	2242	2250	variable	T080	C0439828
+27784277	2259	2272	neighbourhood	T082	C1254362
+27784277	2279	2287	evidence	T078	C3887511
+27784277	2291	2297	effect	T080	C1280500
+27784277	2298	2310	modification	T033	C3840684
+27784277	2316	2329	neighbourhood	T082	C1254362
+27784277	2332	2337	level	T080	C0441889
+27784277	2338	2345	factors	T169	C1521761
+27784277	2353	2360	results	T169	C1274040
+27784277	2361	2368	suggest	T078	C1705535
+27784277	2398	2408	individual	T098	C0237401
+27784277	2409	2419	behaviours	T053	C0004927
+27784277	2429	2436	limited	T169	C0439801
+27784277	2437	2444	success	T054	C0597535
+27784277	2448	2457	improving	T080	C1272745
+27784277	2458	2466	outcomes	T169	C1274040
+27784277	2467	2474	without	T080	C0332288
+27784277	2490	2500	contextual	T041	C0237482
+27784277	2501	2511	influences	T077	C4054723
+27784277	2519	2532	neighbourhood	T082	C1254362
+27784277	2535	2540	level	T080	C0441889
+27784277	2550	2557	studies	T062	C2603343
+27784277	2572	2583	corroborate	T080	C1456348
+27784277	2588	2596	findings	T033	C0243095
+27784277	2604	2614	understand	T041	C0162340
+27784277	2619	2632	neighbourhood	T082	C1254362
+27784277	2635	2640	level	T080	C0441889
+27784277	2641	2651	attributes	T078	C0449234
+27784277	2652	2660	interact	T169	C1704675
+27784277	2666	2673	smoking	T055	C0037369
+27784277	2677	2683	affect	T041	C0001721
+27784277	2684	2698	birth outcomes	T201	C1286282

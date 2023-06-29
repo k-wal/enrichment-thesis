@@ -1,0 +1,69 @@
+28103878|t|Synthetic circuits that process multiple light and chemical signal inputs
+28103878|a|Multi-signal processing circuits are essential for rational design of sophisticated synthetic systems with good controllability and modularity, therefore, enable construction of high-level networks. Moreover, light - inducible systems provide fast and reversible means for spatiotemporal control of gene expression. Here, in HEK 293 cells, we present combinatory genetic circuits responding to light and chemical signals, simultaneously. We first constructed a dual input circuit converting different light intensities into varying of the sensitivity of the promoter to a chemical inducer (doxycycline). Next, we generated a ternary input circuit, which responded to light, doxycycline and cumate. This circuit allowed us to use different combinations of blue light and the two chemical inducers to generate gradual output values over two orders of magnitude. Overall, in this study, we devise genetic circuits sensing and processing light and chemical inducers. Our work may provide insights into bio-computation and fine-tuning expression of the transgene.
+28103878	0	9	Synthetic	T080	C2004457
+28103878	10	18	circuits	T044	C1720951
+28103878	32	40	multiple	T081	C0439064
+28103878	41	46	light	T070	C0023693
+28103878	51	59	chemical	T103	C0220806
+28103878	60	66	signal	T067	C1710082
+28103878	67	73	inputs	T077	C1708517
+28103878	74	86	Multi-signal	T067	C1710082
+28103878	87	97	processing	T052	C1709694
+28103878	98	106	circuits	T044	C1720951
+28103878	134	140	design	T052	C1707689
+28103878	158	167	synthetic	T080	C2004457
+28103878	168	175	systems	T169	C0449913
+28103878	181	185	good	T080	C0205170
+28103878	186	201	controllability	T169	C2587213
+28103878	206	216	modularity	T077	C1709061
+28103878	236	248	construction	T169	C0205245
+28103878	252	271	high-level networks	T169	C1882071
+28103878	283	288	light	T070	C0023693
+28103878	291	300	inducible	T169	C0205263
+28103878	301	308	systems	T169	C0449913
+28103878	317	321	fast	T080	C0456962
+28103878	326	336	reversible	T169	C0205343
+28103878	337	342	means	T077	C1704970
+28103878	347	369	spatiotemporal control	T169	C2587213
+28103878	373	388	gene expression	T045	C0017262
+28103878	399	412	HEK 293 cells	T025	C2936239
+28103878	425	436	combinatory	T080	C0205195
+28103878	437	453	genetic circuits	T044	C1720951
+28103878	454	464	responding	T039	C1659608
+28103878	468	473	light	T070	C0023693
+28103878	478	486	chemical	T103	C0220806
+28103878	487	494	signals	T067	C1710082
+28103878	496	510	simultaneously	T079	C0521115
+28103878	521	532	constructed	T169	C0205245
+28103878	535	545	dual input	T077	C1708517
+28103878	546	553	circuit	T044	C1720951
+28103878	565	574	different	T080	C1705242
+28103878	575	592	light intensities	T070	C0596836
+28103878	613	624	sensitivity	T080	C2349185
+28103878	632	640	promoter	T114,T123	C0086860
+28103878	646	654	chemical	T103	C0220806
+28103878	655	662	inducer	T167	C3898767
+28103878	664	675	doxycycline	T109,T195	C0013090
+28103878	699	712	ternary input	T077	C1708517
+28103878	713	720	circuit	T044	C1720951
+28103878	728	737	responded	T039	C1659608
+28103878	741	746	light	T070	C0023693
+28103878	748	759	doxycycline	T109,T195	C0013090
+28103878	764	770	cumate	T109,T123	C0285770
+28103878	777	784	circuit	T044	C1720951
+28103878	813	825	combinations	T080	C0205195
+28103878	829	839	blue light	T070	C0303896
+28103878	852	860	chemical	T103	C0220806
+28103878	861	869	inducers	T167	C3898767
+28103878	890	903	output values	T170	C1285164
+28103878	923	932	magnitude	T081	C1704240
+28103878	951	956	study	T062	C2603343
+28103878	968	984	genetic circuits	T044	C1720951
+28103878	985	992	sensing	T044	C1655954
+28103878	997	1007	processing	T052	C1709694
+28103878	1008	1013	light	T070	C0023693
+28103878	1018	1026	chemical	T103	C0220806
+28103878	1027	1035	inducers	T167	C3898767
+28103878	1072	1087	bio-computation	T170	C1136291
+28103878	1104	1114	expression	T045	C0017262
+28103878	1122	1131	transgene	T028	C0282641

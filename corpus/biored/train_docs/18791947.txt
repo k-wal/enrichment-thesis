@@ -1,0 +1,26 @@
+18791947|t|A case of Bernard-Soulier Syndrome due to a homozygous four bases deletion (TGAG) of GPIbalpha gene: lack of GPIbalpha but absence of bleeding.
+18791947|a|More than 20 DNA mutations with different inheritance pattern have been described in patients with Bernard-Soulier Syndrome (BSS), leading to abnormal or absent synthesis and/or expression of GPIbalpha. Clinical phenotype shows considerable variation between individuals, such as bleeding, platelet count and the percentage of large platelets. We describe in a BSS patient the first case of homozygous four bases deletion (TGAG) in the gpIbalpha gene coding sequence, leading to a premature stop codon. In the propositus, blood smears revealed giant platelets (30 x 10(9) platelets/L), and platelet agglutination to ristocetin was absent. Propositus' parents are consanguineous. His father and paternal grandmother showed a mild thrombocytopenia (108 x 10(9)/L and 120 x 10(9)/L platelets respectively) while mothers and sister's referred normal platelet counts. The surface expression of GPIbalpha was practically undetectable by flow-cytometry and western blot in the patient and was reduced in the father. Proband's DNA analysis revealed a homozygous four-base-pair deletion (TGAG), starting from the last base of the codon for Ser39, leading to a coding frame shift with a new termination codon after 11 novel amino acids. The same mutation was seen in heterozygosis in both parents. This is the first report of GPIbalpha TGAG deletion in homozygous state even if the defect has already been described in a case of compound heterozygosis. Surprisingly, the propositus does not report any spontaneous bleeding tendency.
+18791947	10	34	Bernard-Soulier Syndrome	DiseaseOrPhenotypicFeature	D001606
+18791947	66	81	deletion (TGAG)	SequenceVariant	c|DEL||TGAG
+18791947	85	94	GPIbalpha	GeneOrGeneProduct	2811
+18791947	109	118	GPIbalpha	GeneOrGeneProduct	2811
+18791947	134	142	bleeding	DiseaseOrPhenotypicFeature	D006470
+18791947	229	237	patients	OrganismTaxon	9606
+18791947	243	267	Bernard-Soulier Syndrome	DiseaseOrPhenotypicFeature	D001606
+18791947	269	272	BSS	DiseaseOrPhenotypicFeature	D001606
+18791947	336	345	GPIbalpha	GeneOrGeneProduct	2811
+18791947	424	432	bleeding	DiseaseOrPhenotypicFeature	D006470
+18791947	505	508	BSS	DiseaseOrPhenotypicFeature	D001606
+18791947	509	516	patient	OrganismTaxon	9606
+18791947	557	572	deletion (TGAG)	SequenceVariant	c|DEL||TGAG
+18791947	580	589	gpIbalpha	GeneOrGeneProduct	2811
+18791947	760	770	ristocetin	ChemicalEntity	D012310
+18791947	873	889	thrombocytopenia	DiseaseOrPhenotypicFeature	D013921
+18791947	1033	1042	GPIbalpha	GeneOrGeneProduct	2811
+18791947	1114	1121	patient	OrganismTaxon	9606
+18791947	1213	1228	deletion (TGAG)	SequenceVariant	c|DEL||TGAG
+18791947	1460	1469	GPIbalpha	GeneOrGeneProduct	2811
+18791947	1470	1483	TGAG deletion	SequenceVariant	c|DEL||TGAG
+18791947	1648	1665	bleeding tendency	DiseaseOrPhenotypicFeature	D006470
+18791947	Negative_Correlation	D001606	2811	Novel
+18791947	Positive_Correlation	D001606	c|DEL||TGAG	Novel

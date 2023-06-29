@@ -1,0 +1,87 @@
+28249785|t|Identifying the presence of Parkinson's disease using low-frequency fluctuations in BOLD signals
+28249785|a|Parkinson's disease (PD) is a chronic, progressive, and degenerative neurological disorder that is characterized by the degeneration of dopamine neurons in the substantia nigra and the formation of intracellular Lewy inclusion bodies. Resting-state functional magnetic resonance imaging (RS-fMRI) has demonstrated evidence of changes in metabolic patterns in individuals with PD. The purpose of this study was to determine whether the presence of PD could be " predicted " based on resting fluctuations in the blood oxygenation level dependent signal. We utilized RS-fMRI to measure the amplitude of low-frequency fluctuation (ALFF) and the fractional ALFF (fALFF) in 51 patients with PD and 50 age - and sex -matched healthy controls. Compared with the healthy controls, the individuals with PD exhibited altered ALFFs in the bilateral lingual gyrus and left putamen and an altered fALFF in the right cerebellum posterior lobe. Support vector machines (SVMs), which comprise a supervised pattern recognition method that enables predictions at the individual level, were trained to separate individuals with PD from healthy controls based on the ALFF and fALFF. Using the leave-one-out cross-validation method to analyze our sample, we reliably distinguished the participants with PD from the controls with 92% sensitivity and 87% specificity. Overall, these findings suggest that the SVM - neuroimaging approach may be of particular clinical value because it enables the accurate identification of PD at the individual level. RS-fMRI should be considered for development as a biomarker and an analytical tool for the evaluation of PD.
+28249785	16	24	presence	T033	C0150312
+28249785	28	47	Parkinson's disease	T047	C0030567
+28249785	54	67	low-frequency	T079	C0205213
+28249785	68	80	fluctuations	T184	C0231239
+28249785	84	96	BOLD signals	T060	C1705491
+28249785	97	116	Parkinson's disease	T047	C0030567
+28249785	118	120	PD	T047	C0030567
+28249785	127	134	chronic	T079	C0205191
+28249785	136	147	progressive	T169	C0205329
+28249785	153	165	degenerative	T169	C1880269
+28249785	166	187	neurological disorder	T047	C0027765
+28249785	196	209	characterized	T052	C1880022
+28249785	217	229	degeneration	T169	C1880269
+28249785	233	249	dopamine neurons	T025	C1512035
+28249785	257	273	substantia nigra	T023	C0038590
+28249785	282	291	formation	T169	C1522492
+28249785	295	308	intracellular	T082	C0178719
+28249785	309	330	Lewy inclusion bodies	T026	C0085200
+28249785	332	383	Resting-state functional magnetic resonance imaging	T060	C4288291
+28249785	385	392	RS-fMRI	T060	C4288291
+28249785	411	419	evidence	T078	C3887511
+28249785	434	443	metabolic	T169	C0311400
+28249785	444	452	patterns	T082	C0449774
+28249785	456	467	individuals	T098	C0237401
+28249785	473	475	PD	T047	C0030567
+28249785	481	488	purpose	T169	C1285529
+28249785	497	502	study	T062	C2603343
+28249785	532	540	presence	T033	C0150312
+28249785	544	546	PD	T047	C0030567
+28249785	558	567	predicted	T078	C0681842
+28249785	587	599	fluctuations	T184	C0231239
+28249785	607	647	blood oxygenation level dependent signal	T042	C1655730
+28249785	661	668	RS-fMRI	T060	C4288291
+28249785	684	693	amplitude	T082	C2346753
+28249785	697	710	low-frequency	T079	C0205213
+28249785	711	722	fluctuation	T184	C0231239
+28249785	724	728	ALFF	T184	C0231239
+28249785	749	753	ALFF	T184	C0231239
+28249785	755	760	fALFF	T184	C0231239
+28249785	768	776	patients	T101	C0030705
+28249785	782	784	PD	T047	C0030567
+28249785	792	795	age	T032	C0001779
+28249785	802	805	sex	T032	C1522384
+28249785	815	831	healthy controls	T080	C2986479
+28249785	851	867	healthy controls	T080	C2986479
+28249785	873	884	individuals	T098	C0237401
+28249785	890	892	PD	T047	C0030567
+28249785	911	916	ALFFs	T184	C0231239
+28249785	924	933	bilateral	T082	C0238767
+28249785	934	947	lingual gyrus	T023	C0152308
+28249785	952	964	left putamen	T023	C2334169
+28249785	980	985	fALFF	T184	C0231239
+28249785	993	1024	right cerebellum posterior lobe	T029	C2953249
+28249785	1026	1049	Support vector machines	T081	C2699740
+28249785	1051	1055	SVMs	T081	C2699740
+28249785	1086	1105	pattern recognition	T041	C1518918
+28249785	1106	1112	method	T170	C0025663
+28249785	1126	1137	predictions	T078	C0681842
+28249785	1145	1155	individual	T098	C0237401
+28249785	1156	1161	level	T080	C0441889
+28249785	1188	1199	individuals	T098	C0237401
+28249785	1205	1207	PD	T047	C0030567
+28249785	1213	1229	healthy controls	T080	C2986479
+28249785	1243	1247	ALFF	T184	C0231239
+28249785	1252	1257	fALFF	T184	C0231239
+28249785	1283	1306	cross-validation method	T062	C0681935
+28249785	1310	1317	analyze	T062	C0936012
+28249785	1322	1328	sample	T167	C0370003
+28249785	1360	1372	participants	T098	C0679646
+28249785	1378	1380	PD	T047	C0030567
+28249785	1390	1398	controls	T096	C0009932
+28249785	1408	1419	sensitivity	T080	C2349185
+28249785	1428	1439	specificity	T081	C0037791
+28249785	1456	1464	findings	T169	C2607943
+28249785	1482	1485	SVM	T081	C2699740
+28249785	1488	1500	neuroimaging	T060	C0679575
+28249785	1531	1539	clinical	T080	C0205210
+28249785	1596	1598	PD	T047	C0030567
+28249785	1606	1616	individual	T098	C0237401
+28249785	1617	1622	level	T080	C0441889
+28249785	1624	1631	RS-fMRI	T060	C4288291
+28249785	1657	1668	development	T169	C1527148
+28249785	1674	1683	biomarker	T201	C0005516
+28249785	1715	1725	evaluation	T058	C0220825
+28249785	1729	1731	PD	T047	C0030567

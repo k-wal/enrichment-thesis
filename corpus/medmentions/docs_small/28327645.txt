@@ -1,0 +1,36 @@
+28327645|t|A Novel Point-of-Care Smartphone Based System for Monitoring the Cardiac and Respiratory Systems
+28327645|a|Cardio-respiratory monitoring is one of the most demanding areas in the rapidly growing, mobile-device, based health care delivery. We developed a 12-lead smartphone -based electrocardiogram (ECG) acquisition and monitoring system (called " cvrPhone "), and an application to assess underlying ischemia, and estimate the respiration rate (RR) and tidal volume (TV) from analysis of electrocardiographic (ECG) signals only. During in-vivo swine studies (n = 6), 12-lead ECG signals were recorded at baseline and following coronary artery occlusion. Ischemic indices calculated from each lead showed statistically significant (p < 0.05) increase within 2 min of occlusion compared to baseline. Following myocardial infarction, spontaneous ventricular tachycardia episodes (n = 3) were preceded by significant (p < 0.05) increase of the ischemic index ~1-4 min prior to the onset of the tachy-arrhythmias. In order to assess the respiratory status during apnea, the mechanical ventilator was paused for up to 2 min during normal breathing. We observed that the RR and TV estimation algorithms detected apnea within 7.9 ± 1.1 sec and 5.5 ± 2.2 sec, respectively, while the estimated RR and TV values were 0 breaths/min and less than 100 ml, respectively. In conclusion, the cvrPhone can be used to detect myocardial ischemia and periods of respiratory apnea using a readily available mobile platform.
+28327645	50	60	Monitoring	T058	UMLS:C3544157
+28327645	65	72	Cardiac	T022	UMLS:C0007226
+28327645	77	96	Respiratory Systems	T022	UMLS:C0035237
+28327645	97	126	Cardio-respiratory monitoring	T058	UMLS:C3544157
+28327645	207	227	health care delivery	T058	UMLS:C0011211
+28327645	270	287	electrocardiogram	T033	UMLS:C0013798
+28327645	289	292	ECG	T033	UMLS:C0013798
+28327645	391	399	ischemia	T038	UMLS:C0022116
+28327645	418	434	respiration rate	T201	UMLS:C0231832
+28327645	436	438	RR	T201	UMLS:C0231832
+28327645	444	456	tidal volume	T033	UMLS:C0040210
+28327645	458	460	TV	T033	UMLS:C0040210
+28327645	467	475	analysis	T062	UMLS:C0936012
+28327645	479	513	electrocardiographic (ECG) signals	T033	UMLS:C0428732
+28327645	527	534	in-vivo	T082	UMLS:C1515655
+28327645	535	548	swine studies	T062	UMLS:C2603343
+28327645	566	577	ECG signals	T033	UMLS:C0428732
+28327645	618	643	coronary artery occlusion	T038	UMLS:C0151814
+28327645	757	766	occlusion	T038	UMLS:C0151814
+28327645	799	820	myocardial infarction	T038	UMLS:C0027051
+28327645	834	866	ventricular tachycardia episodes	T033	UMLS:C0344428
+28327645	981	998	tachy-arrhythmias	T033	UMLS:C0080203
+28327645	1023	1041	respiratory status	T033	UMLS:C1998827
+28327645	1049	1054	apnea	T038	UMLS:C0003578
+28327645	1060	1081	mechanical ventilator	T074	UMLS:C0042497
+28327645	1116	1132	normal breathing	T038	UMLS:C0231795
+28327645	1155	1157	RR	T201	UMLS:C0231832
+28327645	1162	1164	TV	T033	UMLS:C0040210
+28327645	1176	1186	algorithms	T170	UMLS:C0002045
+28327645	1196	1201	apnea	T038	UMLS:C0003578
+28327645	1276	1278	RR	T201	UMLS:C0231832
+28327645	1283	1285	TV	T033	UMLS:C0040210
+28327645	1398	1417	myocardial ischemia	T038	UMLS:C0151744
+28327645	1433	1450	respiratory apnea	T038	UMLS:C0003578

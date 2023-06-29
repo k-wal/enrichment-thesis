@@ -1,0 +1,53 @@
+27503472|t|GH32 family activity: a topological approach through protein contact networks
+27503472|a|The application of Protein Contact Networks methodology allowed to highlight a novel response of border region between the two domains to substrate binding. Glycoside hydrolases (GH) are enzymes that mainly hydrolyze the glycosidic bond between two carbohydrates or a carbohydrate and a non-carbohydrate moiety. These enzymes are involved in many fundamental and diverse biological processes in plants. We have focused on the GH32 family, including enzymes very similar in both sequence and structure, each having however clear specificities of substrate preferences and kinetic properties. Structural and topological differences among proteins of the GH32 family have been here identified by means of an emerging approach (Protein Contact network, PCN) based on the formalization of 3D structures as contact networks among amino-acid residues. The PCN approach proved successful in both reconstructing the already known functional domains and in identifying the structural counterpart of the properties of GH32 enzymes, which remain uncertain, like their allosteric character. The main outcome of the study was the discovery of the activation upon binding of the border (cleft) region between the two domains. This reveals the allosteric nature of the enzymatic activity for all the analyzed forms in the GH32 family, a character yet to be highlighted in biochemical studies. Furthermore, we have been able to recognize a topological signature (graph energy) of the different affinity of the enzymes towards small and large substrates.
+27503472	0	11	GH32 family	T116,T121,T126	C0017976
+27503472	12	20	activity	T044	C0243102
+27503472	24	35	topological	T082	C0026377
+27503472	53	77	protein contact networks	T169	C3178902
+27503472	97	133	Protein Contact Networks methodology	T169	C3178902
+27503472	175	188	border region	T082	C1254362
+27503472	205	233	domains to substrate binding	T087	C0682969
+27503472	235	255	Glycoside hydrolases	T116,T121,T126	C0017976
+27503472	257	259	GH	T116,T121,T126	C0017976
+27503472	265	272	enzymes	T116,T126	C0014442
+27503472	285	294	hydrolyze	T070	C0020291
+27503472	299	314	glycosidic bond	T044	C0813982
+27503472	327	340	carbohydrates	T109	C0007004
+27503472	346	358	carbohydrate	T109	C0007004
+27503472	365	388	non-carbohydrate moiety	T104	C1254350
+27503472	396	403	enzymes	T116,T126	C0014442
+27503472	449	469	biological processes	T038	C3714634
+27503472	473	479	plants	T002	C0032098
+27503472	504	515	GH32 family	T116,T121,T126	C0017976
+27503472	527	534	enzymes	T116,T126	C0014442
+27503472	556	564	sequence	T087	C0002518
+27503472	569	578	structure	T116,T126	C0596527
+27503472	623	632	substrate	T120	C0178623
+27503472	633	644	preferences	T078	C0558295
+27503472	649	667	kinetic properties	T169	C0220865
+27503472	669	679	Structural	T116	C1510464
+27503472	684	695	topological	T082	C0026377
+27503472	714	722	proteins	T116,T123	C0033684
+27503472	730	741	GH32 family	T116,T121,T126	C0017976
+27503472	802	825	Protein Contact network	T169	C3178902
+27503472	827	830	PCN	T169	C3178902
+27503472	862	875	3D structures	T082	C0026377
+27503472	879	895	contact networks	T169	C3178902
+27503472	902	921	amino-acid residues	T087	C0002518
+27503472	927	930	PCN	T169	C3178902
+27503472	999	1009	functional	T169	C0205245
+27503472	1010	1017	domains	T087	C1514562
+27503472	1041	1051	structural	T116	C1510464
+27503472	1085	1097	GH32 enzymes	T116,T121,T126	C0017976
+27503472	1134	1144	allosteric	T169	C0002146
+27503472	1211	1221	activation	T044	C0014429
+27503472	1227	1263	binding of the border (cleft) region	T044	C1517880
+27503472	1280	1287	domains	T087	C1514562
+27503472	1306	1316	allosteric	T169	C0002146
+27503472	1331	1349	enzymatic activity	T044	C0243102
+27503472	1384	1395	GH32 family	T116,T121,T126	C0017976
+27503472	1434	1453	biochemical studies	T059	C0430027
+27503472	1501	1522	topological signature	T082	C0026377
+27503472	1555	1563	affinity	T070	C1510827
+27503472	1571	1578	enzymes	T116,T121,T126	C0017976
+27503472	1603	1613	substrates	T120	C0178623

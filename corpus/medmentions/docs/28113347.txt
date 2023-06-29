@@ -1,0 +1,60 @@
+28113347|t|NEMo: An Evolutionary Model With Modularity for PPI Networks
+28113347|a|Modeling the evolution of biological networks is a major challenge. Biological networks are usually represented as graphs; evolutionary events not only include addition and removal of vertices and edges but also duplication of vertices and their associated edges. Since duplication is viewed as a primary driver of genomic evolution, recent work has focused on duplication -based models. Missing from these models is any embodiment of modularity, a widely accepted attribute of biological networks. Some models spontaneously generate modular structures, but none is known to maintain and evolve them. We describe network evolution with modularity (NEMo), a new model that embodies modularity. NEMo allows modules to appear and disappear and to fission and to merge, all driven by the underlying edge-level events using a duplication -based process. We also introduce measures to compare biological networks in terms of their modular structure; we present comparisons between NEMo and existing duplication -based models and run our measuring tools on both generated and published networks.
+28113347	0	4	NEMo	T170	C0282574
+28113347	9	43	Evolutionary Model With Modularity	T170	C0282574
+28113347	48	60	PPI Networks	T169	C3178902
+28113347	61	69	Modeling	T062	C0870071
+28113347	74	83	evolution	T045	C0015219
+28113347	87	97	biological	T080	C0205460
+28113347	98	106	networks	T169	C1882071
+28113347	129	139	Biological	T080	C0205460
+28113347	140	148	networks	T169	C1882071
+28113347	176	182	graphs	T170	C0681493
+28113347	184	203	evolutionary events	T051	C0441471
+28113347	221	229	addition	T169	C1883712
+28113347	234	241	removal	T052	C1883720
+28113347	245	253	vertices	T077	C2697524
+28113347	258	263	edges	T082	C0205154
+28113347	273	284	duplication	T169	C0332597
+28113347	288	296	vertices	T077	C2697524
+28113347	307	317	associated	T080	C0332281
+28113347	318	323	edges	T082	C0205154
+28113347	331	342	duplication	T045	C0017261
+28113347	376	393	genomic evolution	T045	C0015219
+28113347	422	433	duplication	T045	C0017261
+28113347	441	447	models	T170	C3161035
+28113347	468	474	models	T170	C3161035
+28113347	496	506	modularity	T169	C0205245
+28113347	539	549	biological	T080	C0205460
+28113347	550	558	networks	T169	C1882071
+28113347	565	571	models	T170	C3161035
+28113347	572	585	spontaneously	T169	C0205359
+28113347	595	613	modular structures	T082	C0678594
+28113347	636	644	maintain	T052	C0024501
+28113347	649	655	evolve	T052	C0441655
+28113347	674	707	network evolution with modularity	T170	C0282574
+28113347	709	713	NEMo	T170	C0282574
+28113347	722	727	model	T170	C3161035
+28113347	742	752	modularity	T169	C0205245
+28113347	754	758	NEMo	T170	C0282574
+28113347	766	773	modules	T077	C1709061
+28113347	777	783	appear	T078	C1254370
+28113347	788	797	disappear	T078	C1254370
+28113347	805	812	fission	T052	C0441655
+28113347	820	825	merge	T052	C1881786
+28113347	856	873	edge-level events	T051	C0441471
+28113347	882	893	duplication	T045	C0017261
+28113347	901	908	process	T067	C1522240
+28113347	928	936	measures	T081	C0079809
+28113347	948	958	biological	T080	C0205460
+28113347	959	967	networks	T169	C1882071
+28113347	986	1003	modular structure	T082	C0678594
+28113347	1016	1027	comparisons	T052	C1707455
+28113347	1036	1040	NEMo	T170	C0282574
+28113347	1054	1065	duplication	T045	C0017261
+28113347	1073	1079	models	T170	C3161035
+28113347	1092	1101	measuring	T080	C0444706
+28113347	1102	1107	tools	T073	C0336791
+28113347	1116	1125	generated	T169	C0205245
+28113347	1130	1139	published	T169	C0205245
+28113347	1140	1148	networks	T169	C1882071

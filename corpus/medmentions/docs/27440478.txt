@@ -1,0 +1,66 @@
+27440478|t|Multiplexing Fluorescence Anisotropy Using Frequency Encoding
+27440478|a|In this report, a method to multiplex fluorescence anisotropy measurements is described using frequency encoding. As a demonstration of the method, simultaneous competitive immunoassays for insulin and glucagon were performed by measuring the ratio of bound and free Cy5-insulin and FITC-glucagon in the presence of their respective antibodies. A vertically polarized 635 nm laser was pulsed at 73 Hz and used to excite Cy5-insulin, while a vertically polarized 488 nm laser pulsed at 137 Hz excited FITC-glucagon. The total emission was split into parallel and perpendicular polarizations and collected onto separate photomultiplier tubes. The signals from each channel were demodulated using a fast Fourier transform, resolving the contributions from each fluorophore. Anisotropy calculations were carried out using the magnitude of the peaks in the frequency domain. The method produced the expected shape of the calibration curves with limits of detection of 0.6 and 5 nM for insulin and glucagon, respectively. This methodology could readily be expanded to other biological systems and further multiplexed to monitor increased numbers of analytes.
+27440478	0	36	Multiplexing Fluorescence Anisotropy	T070	C0085813
+27440478	37	42	Using	T169	C1524063
+27440478	43	61	Frequency Encoding	T059	C0022885
+27440478	90	123	multiplex fluorescence anisotropy	T070	C0085813
+27440478	124	136	measurements	T169	C0242485
+27440478	140	149	described	T078	C1552738
+27440478	156	174	frequency encoding	T059	C0022885
+27440478	210	222	simultaneous	T079	C0521115
+27440478	235	247	immunoassays	T059	C0020980
+27440478	252	259	insulin	T116,T121,T125	C0021641
+27440478	264	272	glucagon	T116,T121,T125	C0017687
+27440478	278	287	performed	T169	C0884358
+27440478	291	300	measuring	T169	C0242485
+27440478	305	310	ratio	T081	C0456603
+27440478	314	319	bound	T116,T121,T125	C1317461
+27440478	324	340	free Cy5-insulin	T116,T121,T125	C0487017
+27440478	345	358	FITC-glucagon	T116,T121,T125	C0017687
+27440478	395	405	antibodies	T116,T129	C0003241
+27440478	409	442	vertically polarized 635 nm laser	T068	C0599025
+27440478	447	453	pulsed	T067	C1947910
+27440478	467	471	used	T169	C1524063
+27440478	482	493	Cy5-insulin	T116,T121,T125	C0021641
+27440478	503	536	vertically polarized 488 nm laser	T068	C0599025
+27440478	537	543	pulsed	T067	C1947910
+27440478	562	575	FITC-glucagon	T116,T121,T125	C0017687
+27440478	581	586	total	T080	C0439810
+27440478	587	595	emission	T070	C0596835
+27440478	600	605	split	T169	C1534709
+27440478	611	619	parallel	T077	C1254372
+27440478	624	637	perpendicular	T077	C3272860
+27440478	638	651	polarizations	T059	C0016316
+27440478	656	665	collected	T169	C1516698
+27440478	671	679	separate	T080	C0443299
+27440478	680	701	photomultiplier tubes	T073	C1709530
+27440478	707	714	signals	T067	C1710082
+27440478	725	732	channel	T082	C0439799
+27440478	750	755	using	T169	C1524063
+27440478	758	780	fast Fourier transform	T170	C0002045
+27440478	796	809	contributions	T052	C1880177
+27440478	815	819	each	T081	C1457900
+27440478	820	831	fluorophore	T121,T130	C0598447
+27440478	833	843	Anisotropy	T070	C0085406
+27440478	844	856	calculations	T059	C0201805
+27440478	862	869	carried	T052	C0206243
+27440478	874	879	using	T169	C1524063
+27440478	884	893	magnitude	T081	C1704240
+27440478	914	923	frequency	T081	C0871396
+27440478	924	930	domain	T082	C0205147
+27440478	956	964	expected	T170	C1517001
+27440478	965	970	shape	T082	C0332479
+27440478	978	989	calibration	T081	C0006751
+27440478	990	996	curves	T082	C0205134
+27440478	1012	1021	detection	T033	C0442726
+27440478	1042	1049	insulin	T116,T121,T125	C0021641
+27440478	1054	1062	glucagon	T116,T121,T125	C0017687
+27440478	1083	1094	methodology	T078	C3266812
+27440478	1112	1120	expanded	T082	C0205229
+27440478	1124	1129	other	T080	C0205394
+27440478	1130	1148	biological systems	T022	C0460002
+27440478	1153	1160	further	T082	C1517331
+27440478	1161	1172	multiplexed	T080	C0205556
+27440478	1184	1193	increased	T081	C0205217
+27440478	1194	1201	numbers	T081	C0237753
+27440478	1205	1213	analytes	T167	C0443354

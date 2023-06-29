@@ -1,0 +1,50 @@
+27699251|t|Cell-type deconvolution with immune pathways identifies gene networks of host defense and immunopathology in leprosy
+27699251|a|Transcriptome profiles derived from the site of human disease have led to the identification of genes that contribute to pathogenesis, yet the complex mixture of cell types in these lesions has been an obstacle for defining specific mechanisms. Leprosy provides an outstanding model to study host defense and pathogenesis in a human infectious disease, given its clinical spectrum, which interrelates with the host immunologic and pathologic responses. Here, we investigated gene expression profiles derived from skin lesions for each clinical subtype of leprosy, analyzing gene coexpression modules by cell-type deconvolution. In lesions from tuberculoid leprosy patients, those with the self-limited form of the disease, dendritic cells were linked with MMP12 as part of a tissue remodeling network that contributes to granuloma formation. In lesions from lepromatous leprosy patients, those with disseminated disease, macrophages were linked with a gene network that programs phagocytosis. In erythema nodosum leprosum, neutrophil and endothelial cell gene networks were identified as part of the vasculitis that results in tissue injury. The present integrated computational approach provides a systems approach toward identifying cell -defined functional networks that contribute to host defense and immunopathology at the site of human infectious disease.
+27699251	0	9	Cell-type	T170	UMLS:C0449475
+27699251	56	69	gene networks	T038	UMLS:C1720950
+27699251	73	85	host defense	T038	UMLS:C0520990
+27699251	90	105	immunopathology	T038	UMLS:C1609432
+27699251	109	116	leprosy	T038	UMLS:C0023343
+27699251	165	170	human	T204	UMLS:C0086418
+27699251	171	178	disease	T038	UMLS:C0012634
+27699251	213	218	genes	T017	UMLS:C0017337
+27699251	238	250	pathogenesis	T038	UMLS:C0699748
+27699251	279	289	cell types	T017	UMLS:C0007634
+27699251	299	306	lesions	T033	UMLS:C0221198
+27699251	362	369	Leprosy	T038	UMLS:C0023343
+27699251	394	399	model	T038	UMLS:C0684309
+27699251	409	421	host defense	T038	UMLS:C0520990
+27699251	426	438	pathogenesis	T038	UMLS:C0699748
+27699251	444	449	human	T204	UMLS:C0086418
+27699251	450	468	infectious disease	T038	UMLS:C0009450
+27699251	559	568	responses	T038	UMLS:C0520990
+27699251	630	642	skin lesions	T038	UMLS:C0037284
+27699251	661	668	subtype	T170	UMLS:C0449560
+27699251	672	679	leprosy	T038	UMLS:C0023343
+27699251	720	729	cell-type	T170	UMLS:C0449475
+27699251	748	755	lesions	T038	UMLS:C0037284
+27699251	761	780	tuberculoid leprosy	T038	UMLS:C0023351
+27699251	806	818	self-limited	T082	UMLS:C0392752
+27699251	831	838	disease	T038	UMLS:C0023351
+27699251	840	855	dendritic cells	T017	UMLS:C0011306
+27699251	873	878	MMP12	T103	UMLS:C0285508
+27699251	892	909	tissue remodeling	T038	UMLS:C1820201
+27699251	938	957	granuloma formation	T038	UMLS:C1817882
+27699251	962	969	lesions	T038	UMLS:C0037284
+27699251	975	994	lepromatous leprosy	T038	UMLS:C0023348
+27699251	1016	1028	disseminated	T082	UMLS:C0205221
+27699251	1038	1049	macrophages	T017	UMLS:C0024432
+27699251	1069	1081	gene network	T038	UMLS:C1720950
+27699251	1096	1108	phagocytosis	T038	UMLS:C0031308
+27699251	1113	1138	erythema nodosum leprosum	T038	UMLS:C0343467
+27699251	1140	1150	neutrophil	T017	UMLS:C0027950
+27699251	1155	1171	endothelial cell	T017	UMLS:C0225336
+27699251	1172	1185	gene networks	T038	UMLS:C1720950
+27699251	1217	1227	vasculitis	T038	UMLS:C0042384
+27699251	1244	1257	tissue injury	T037	UMLS:C0037578
+27699251	1282	1304	computational approach	T062	UMLS:C1516769
+27699251	1352	1356	cell	T017	UMLS:C0007634
+27699251	1405	1417	host defense	T038	UMLS:C0520990
+27699251	1422	1437	immunopathology	T038	UMLS:C1609432
+27699251	1453	1458	human	T204	UMLS:C0086418
+27699251	1459	1477	infectious disease	T038	UMLS:C0009450

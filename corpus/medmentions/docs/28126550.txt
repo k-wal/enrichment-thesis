@@ -1,0 +1,48 @@
+28126550|t|Mapping how local perturbations influence systems-level brain dynamics
+28126550|a|The human brain exhibits a distinct spatiotemporal organization that supports brain function and can be manipulated via local brain stimulation. Such perturbations to local cortical dynamics are globally integrated by distinct neural systems. However, it remains unclear how local changes in neural activity affect large-scale system dynamics. Here, we briefly review empirical and computational studies addressing how localized perturbations affect brain activity. We then systematically analyze a model of large-scale brain dynamics, assessing how localized changes in brain activity at the different sites affect whole-brain dynamics. We find that local stimulation induces changes in brain activity that can be summarized by relatively smooth tuning curves, which relate a region's effectiveness as a stimulation site to its position within the cortical hierarchy. Our results also support the notion that brain hubs, operating in a slower regime, are more resilient to focal perturbations and critically contribute to maintain stability in global brain dynamics. In contrast, perturbations of peripheral regions, characterized by faster activity, have greater impact on functional connectivity. As a parallel with this region-level result, we also find that peripheral systems such as the visual and sensorimotor networks were more affected by local perturbations than high-level systems such as the cingulo-opercular network. Our findings highlight the importance of a periphery-to-core hierarchy to determine the effect of local stimulation on the brain network. This study also provides novel resources to orient empirical work aiming at manipulating functional connectivity using non-invasive brain stimulation.
+28126550	0	7	Mapping	T060	C0006117
+28126550	12	31	local perturbations	T169	C0332453
+28126550	32	41	influence	T077	C4054723
+28126550	42	70	systems-level brain dynamics	T039	C0443158
+28126550	75	80	human	T016	C0086418
+28126550	81	86	brain	T023	C0006104
+28126550	107	134	spatiotemporal organization	T039	C0029237
+28126550	149	163	brain function	T042	C0678908
+28126550	191	214	local brain stimulation	T061	C0870227
+28126550	221	234	perturbations	T169	C0332453
+28126550	238	261	local cortical dynamics	T039	C0443158
+28126550	298	312	neural systems	T022	C0027763
+28126550	363	378	neural activity	T039	C0443158
+28126550	386	413	large-scale system dynamics	T039	C0443158
+28126550	432	438	review	T080	C1709940
+28126550	439	448	empirical	T062	C0681812
+28126550	453	474	computational studies	T062	C1516769
+28126550	490	513	localized perturbations	T169	C0332453
+28126550	521	535	brain activity	T039	C0443158
+28126550	570	575	model	T170	C3161035
+28126550	579	605	large-scale brain dynamics	T039	C0443158
+28126550	642	656	brain activity	T039	C0443158
+28126550	674	679	sites	T082	C0205145
+28126550	687	707	whole-brain dynamics	T039	C0443158
+28126550	722	739	local stimulation	T061	C0870227
+28126550	759	773	brain activity	T039	C0443158
+28126550	811	831	smooth tuning curves	T081	C0392762
+28126550	876	892	stimulation site	T082	C0449708
+28126550	920	938	cortical hierarchy	T169	C0699032
+28126550	981	991	brain hubs	T023	C0006104
+28126550	1045	1064	focal perturbations	T169	C0332453
+28126550	1103	1112	stability	T080	C0205360
+28126550	1116	1137	global brain dynamics	T039	C0443158
+28126550	1152	1165	perturbations	T169	C0332453
+28126550	1169	1187	peripheral regions	T022	C1519003
+28126550	1213	1221	activity	T052	C0441655
+28126550	1236	1242	impact	T080	C4049986
+28126550	1334	1352	peripheral systems	T022	C0206417
+28126550	1365	1371	visual	T169	C0234621
+28126550	1376	1397	sensorimotor networks	T022	C0599408
+28126550	1420	1439	local perturbations	T169	C0332453
+28126550	1476	1501	cingulo-opercular network	T023	C0228262
+28126550	1546	1573	periphery-to-core hierarchy	T169	C0699032
+28126550	1601	1618	local stimulation	T061	C0870227
+28126550	1626	1639	brain network	T023	C0006104
+28126550	1760	1790	non-invasive brain stimulation	T061	C0870227

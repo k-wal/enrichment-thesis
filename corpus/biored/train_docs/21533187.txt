@@ -1,0 +1,46 @@
+21533187|t|Loss-of-function mutations in PTPN11 cause metachondromatosis, but not Ollier disease or Maffucci syndrome.
+21533187|a|Metachondromatosis (MC) is a rare, autosomal dominant, incompletely penetrant combined exostosis and enchondromatosis tumor syndrome. MC is clinically distinct from other multiple exostosis or multiple enchondromatosis syndromes and is unlinked to EXT1 and EXT2, the genes responsible for autosomal dominant multiple osteochondromas (MO). To identify a gene for MC, we performed linkage analysis with high-density SNP arrays in a single family, used a targeted array to capture exons and promoter sequences from the linked interval in 16 participants from 11 MC families, and sequenced the captured DNA using high-throughput parallel sequencing technologies. DNA capture and parallel sequencing identified heterozygous putative loss-of-function mutations in PTPN11 in 4 of the 11 families. Sanger sequence analysis of PTPN11 coding regions in a total of 17 MC families identified mutations in 10 of them (5 frameshift, 2 nonsense, and 3 splice-site mutations). Copy number analysis of sequencing reads from a second targeted capture that included the entire PTPN11 gene identified an additional family with a 15 kb deletion spanning exon 7 of PTPN11. Microdissected MC lesions from two patients with PTPN11 mutations demonstrated loss-of-heterozygosity for the wild-type allele. We next sequenced PTPN11 in DNA samples from 54 patients with the multiple enchondromatosis disorders Ollier disease or Maffucci syndrome, but found no coding sequence PTPN11 mutations. We conclude that heterozygous loss-of-function mutations in PTPN11 are a frequent cause of MC, that lesions in patients with MC appear to arise following a "second hit," that MC may be locus heterogeneous since 1 familial and 5 sporadically occurring cases lacked obvious disease-causing PTPN11 mutations, and that PTPN11 mutations are not a common cause of Ollier disease or Maffucci syndrome.
+21533187	30	36	PTPN11	GeneOrGeneProduct	5781
+21533187	43	61	metachondromatosis	DiseaseOrPhenotypicFeature	C562938
+21533187	71	85	Ollier disease	DiseaseOrPhenotypicFeature	D004687
+21533187	89	106	Maffucci syndrome	DiseaseOrPhenotypicFeature	D004687
+21533187	108	126	Metachondromatosis	DiseaseOrPhenotypicFeature	C562938
+21533187	128	130	MC	DiseaseOrPhenotypicFeature	C562938
+21533187	195	204	exostosis	DiseaseOrPhenotypicFeature	D005096
+21533187	209	240	enchondromatosis tumor syndrome	DiseaseOrPhenotypicFeature	D004687
+21533187	242	244	MC	DiseaseOrPhenotypicFeature	C562938
+21533187	279	297	multiple exostosis	DiseaseOrPhenotypicFeature	D005097
+21533187	301	336	multiple enchondromatosis syndromes	DiseaseOrPhenotypicFeature	D004687
+21533187	356	360	EXT1	GeneOrGeneProduct	2131
+21533187	365	369	EXT2	GeneOrGeneProduct	2132
+21533187	416	440	multiple osteochondromas	DiseaseOrPhenotypicFeature	D005097
+21533187	442	444	MO	DiseaseOrPhenotypicFeature	D005097
+21533187	470	472	MC	DiseaseOrPhenotypicFeature	C562938
+21533187	667	669	MC	DiseaseOrPhenotypicFeature	C562938
+21533187	866	872	PTPN11	GeneOrGeneProduct	5781
+21533187	926	932	PTPN11	GeneOrGeneProduct	5781
+21533187	965	967	MC	DiseaseOrPhenotypicFeature	C562938
+21533187	1166	1172	PTPN11	GeneOrGeneProduct	5781
+21533187	1217	1231	15 kb deletion	SequenceVariant	c|DEL||15K
+21533187	1251	1257	PTPN11	GeneOrGeneProduct	5781
+21533187	1274	1276	MC	DiseaseOrPhenotypicFeature	C562938
+21533187	1294	1302	patients	OrganismTaxon	9606
+21533187	1308	1314	PTPN11	GeneOrGeneProduct	5781
+21533187	1405	1411	PTPN11	GeneOrGeneProduct	5781
+21533187	1435	1443	patients	OrganismTaxon	9606
+21533187	1462	1503	enchondromatosis disorders Ollier disease	DiseaseOrPhenotypicFeature	D004687
+21533187	1507	1524	Maffucci syndrome	DiseaseOrPhenotypicFeature	D004687
+21533187	1555	1561	PTPN11	GeneOrGeneProduct	5781
+21533187	1633	1639	PTPN11	GeneOrGeneProduct	5781
+21533187	1664	1666	MC	DiseaseOrPhenotypicFeature	C562938
+21533187	1684	1692	patients	OrganismTaxon	9606
+21533187	1698	1700	MC	DiseaseOrPhenotypicFeature	C562938
+21533187	1748	1750	MC	DiseaseOrPhenotypicFeature	C562938
+21533187	1861	1867	PTPN11	GeneOrGeneProduct	5781
+21533187	1888	1894	PTPN11	GeneOrGeneProduct	5781
+21533187	1931	1945	Ollier disease	DiseaseOrPhenotypicFeature	D004687
+21533187	1949	1966	Maffucci syndrome	DiseaseOrPhenotypicFeature	D004687
+21533187	Association	c|DEL||15K	C562938	Novel
+21533187	Association	2132	D005097	No
+21533187	Association	2131	D005097	No
+21533187	Association	5781	C562938	Novel

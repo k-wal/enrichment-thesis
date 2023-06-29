@@ -1,0 +1,53 @@
+27823893|t|Sepsis Clinical Criteria in Emergency Department Patients Admitted to an Intensive Care Unit: An External Validation Study of Quick Sequential Organ Failure Assessment
+27823893|a|Quick Sequential Organ Failure Assessment (qSOFA) is a prognostic score for patients with sepsis. Our aim was to compare the area under the receiver operating curve (AUROC), sensitivity, specificity, and likelihood ratios of qSOFA vs. systemic inflammation response syndrome (SIRS) in predicting in-hospital mortality among emergency department (ED) patients with suspected infection admitted to intensive care units (ICUs). We conducted a retrospective cohort chart review study of ED patients admitted to an ICU with suspected infection from August 1, 2012 to February 28, 2015. We included all patients with body fluid cultures sampled either during their ED stay without antibiotic administration or within 24 h of antibiotics administered in the ED. Trained chart abstractors blinded to the study hypothesis double-entered data from each patient's electronic medical record including demographic characteristics, vital signs, laboratory study results, physical examination findings, and in-hospital mortality. We then calculated the AUROC, sensitivity, specificity, and likelihood ratios for qSOFA and SIRS for predicting in-hospital mortality. Of 214 patients admitted to an ICU with presumed sepsis, 39 (18.2%) died during hospitalization. The AUROC value was 0.65 (95% confidence interval [CI] 0.56-0.74) for SIRS vs. 0.66 (95% CI 0.57-0.76) for qSOFA; 2+ qSOFA criteria predicted in-hospital mortality with 89.7% sensitivity, 27.4% specificity, 1.2 positive likelihood ratio, and 0.4 negative likelihood ratio. Among ED patients admitted to an ICU, the SIRS and qSOFA criteria had comparable prognostic value for predicting in-hospital mortality. These prognostic values are similar to those reported by the Sepsis-3 guidelines for ICU encounters.
+27823893	0	6	Sepsis	T038	UMLS:C0243026
+27823893	28	48	Emergency Department	T092	UMLS:C0562508
+27823893	58	66	Admitted	T058	UMLS:C0184666
+27823893	73	92	Intensive Care Unit	T092	UMLS:C0021708
+27823893	97	122	External Validation Study	T062	UMLS:C0681836
+27823893	126	167	Quick Sequential Organ Failure Assessment	T033	UMLS:C3494459
+27823893	168	209	Quick Sequential Organ Failure Assessment	T033	UMLS:C3494459
+27823893	211	216	qSOFA	T033	UMLS:C3494459
+27823893	258	264	sepsis	T038	UMLS:C0243026
+27823893	393	398	qSOFA	T033	UMLS:C3494459
+27823893	403	442	systemic inflammation response syndrome	T038	UMLS:C0242966
+27823893	444	448	SIRS	T038	UMLS:C0242966
+27823893	492	512	emergency department	T092	UMLS:C0562508
+27823893	514	516	ED	T092	UMLS:C0562508
+27823893	532	551	suspected infection	T038	UMLS:C3714514
+27823893	552	560	admitted	T058	UMLS:C0184666
+27823893	564	584	intensive care units	T092	UMLS:C0021708
+27823893	586	590	ICUs	T092	UMLS:C0021708
+27823893	608	647	retrospective cohort chart review study	T062	UMLS:C2985505
+27823893	651	653	ED	T092	UMLS:C0562508
+27823893	663	671	admitted	T058	UMLS:C0184666
+27823893	678	681	ICU	T092	UMLS:C0021708
+27823893	687	706	suspected infection	T038	UMLS:C3714514
+27823893	779	806	body fluid cultures sampled	T031	UMLS:C1292527
+27823893	827	829	ED	T092	UMLS:C0562508
+27823893	843	868	antibiotic administration	T058	UMLS:C0199779
+27823893	887	911	antibiotics administered	T058	UMLS:C0199779
+27823893	919	921	ED	T092	UMLS:C0562508
+27823893	923	948	Trained chart abstractors	T097	UMLS:C1522486
+27823893	964	969	study	T062	UMLS:C2603343
+27823893	1021	1046	electronic medical record	T170	UMLS:C2362543
+27823893	1086	1097	vital signs	T201	UMLS:C0518766
+27823893	1099	1123	laboratory study results	T058	UMLS:C0681827
+27823893	1125	1145	physical examination	T058	UMLS:C0031809
+27823893	1146	1154	findings	T033	UMLS:C0243095
+27823893	1265	1270	qSOFA	T033	UMLS:C3494459
+27823893	1275	1279	SIRS	T038	UMLS:C0242966
+27823893	1334	1342	admitted	T058	UMLS:C0184666
+27823893	1349	1352	ICU	T092	UMLS:C0021708
+27823893	1358	1373	presumed sepsis	T038	UMLS:C0243026
+27823893	1485	1489	SIRS	T038	UMLS:C0242966
+27823893	1522	1527	qSOFA	T033	UMLS:C3494459
+27823893	1532	1537	qSOFA	T033	UMLS:C3494459
+27823893	1694	1696	ED	T092	UMLS:C0562508
+27823893	1706	1714	admitted	T058	UMLS:C0184666
+27823893	1721	1724	ICU	T092	UMLS:C0021708
+27823893	1730	1734	SIRS	T038	UMLS:C0242966
+27823893	1739	1744	qSOFA	T033	UMLS:C3494459
+27823893	1885	1904	Sepsis-3 guidelines	T170	UMLS:C0282451
+27823893	1909	1912	ICU	T092	UMLS:C0021708
+27823893	1913	1923	encounters	T170	UMLS:C3889614

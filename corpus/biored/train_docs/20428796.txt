@@ -1,0 +1,52 @@
+20428796|t|Effect of the abrogation of TGF-beta1 by antisense oligonucleotides on the expression of TGF-beta-isoforms and their receptors I and II in isolated fibroblasts from keloid scars.
+20428796|a|Disequilibrium of dermal wound repair can result in continued accumulation of ECM and excessive scar formation. In susceptible genetically predisposed individuals, keloid formation can be observed. Keloid disease represents a benign dermal fibroproliferative tumor that is unique to humans. TGF-beta is known to play a key role in the pathogenesis of this disease which is still not fully understood. The isoforms TGF-beta1 and TGF-beta2 have profibrotic properties, whereas TGF-beta3 may have antifibrotic functions. TGF-beta exerts its influence by binding to type I and type II TGF-beta receptors, thereby forming a complex and activating specific downstream effector molecules. The aim of this study was to investigate the effect of TGF-beta1 targeting by antisense oligonucleotides on the RNA synthesis and protein expression of TGF-beta isoforms and their receptors in keloid-derived fibroblasts. In tissue samples with normal fibroblasts (NFs) serving as control samples, expression of TGF-beta1 and -beta2 was decreased when compared to keloid fibroblasts (KFs), while expression of TGF-beta3 and of TGF-betaRII was significantly higher in NFs. In the ELISA assay, abrogation of TGF-beta1 led to a significant decrease in TGF-beta1 and -beta2 (p<0.05). Expression of TGF-beta2 mRNA was reduced. Expression of TGF-beta3 mRNA revealed contrary patterns in KFs from different patients while expression of TGF-betaRI was found to be equal during the measurement period. TGF-betaRII mRNA expression was increased after 48 and 72 h respectively. There is growing evidence for a regulatory mechanism between TGF-beta1 and its receptors. Our findings support this theory by suggesting interrelations between the different TGF-beta isoforms and their receptors. Abnormal response of KFs to TGF-betamight reflect a modification in the regulatory pathway that occurs at the receptor level or during intracellular trans-duction. Improving the understanding of TGF-beta in keloid disease could lead to the development of clinically useful therapeutic modalities for treatment of keloid disease or even allow identification of preventive strategies.
+20428796	28	37	TGF-beta1	GeneOrGeneProduct	4052
+20428796	51	67	oligonucleotides	ChemicalEntity	D009841
+20428796	89	135	TGF-beta-isoforms and their receptors I and II	GeneOrGeneProduct	7046,7048
+20428796	165	177	keloid scars	DiseaseOrPhenotypicFeature	D007627
+20428796	343	349	keloid	DiseaseOrPhenotypicFeature	D007627
+20428796	377	391	Keloid disease	DiseaseOrPhenotypicFeature	D007627
+20428796	438	443	tumor	DiseaseOrPhenotypicFeature	D009369
+20428796	462	468	humans	OrganismTaxon	9606
+20428796	470	478	TGF-beta	GeneOrGeneProduct	7040,7042,7043
+20428796	593	602	TGF-beta1	GeneOrGeneProduct	4052
+20428796	607	616	TGF-beta2	GeneOrGeneProduct	7042
+20428796	654	663	TGF-beta3	GeneOrGeneProduct	7043
+20428796	697	705	TGF-beta	GeneOrGeneProduct	7040,7042,7043
+20428796	741	778	type I and type II TGF-beta receptors	GeneOrGeneProduct	7046,7048
+20428796	916	925	TGF-beta1	GeneOrGeneProduct	4052
+20428796	949	965	oligonucleotides	ChemicalEntity	D009841
+20428796	1013	1021	TGF-beta	GeneOrGeneProduct	7040,7042,7043
+20428796	1054	1060	keloid	DiseaseOrPhenotypicFeature	D007627
+20428796	1172	1192	TGF-beta1 and -beta2	GeneOrGeneProduct	4052,7042
+20428796	1224	1230	keloid	DiseaseOrPhenotypicFeature	D007627
+20428796	1270	1279	TGF-beta3	GeneOrGeneProduct	7043
+20428796	1287	1298	TGF-betaRII	GeneOrGeneProduct	7048
+20428796	1366	1375	TGF-beta1	GeneOrGeneProduct	4052
+20428796	1409	1429	TGF-beta1 and -beta2	GeneOrGeneProduct	4052,7042
+20428796	1454	1463	TGF-beta2	GeneOrGeneProduct	7042
+20428796	1496	1505	TGF-beta3	GeneOrGeneProduct	7043
+20428796	1560	1568	patients	OrganismTaxon	9606
+20428796	1589	1599	TGF-betaRI	GeneOrGeneProduct	7046
+20428796	1653	1664	TGF-betaRII	GeneOrGeneProduct	7048
+20428796	1788	1797	TGF-beta1	GeneOrGeneProduct	4052
+20428796	1901	1909	TGF-beta	GeneOrGeneProduct	7040,7042,7043
+20428796	2135	2143	TGF-beta	GeneOrGeneProduct	7040,7042,7043
+20428796	2147	2161	keloid disease	DiseaseOrPhenotypicFeature	D007627
+20428796	2253	2267	keloid disease	DiseaseOrPhenotypicFeature	D007627
+20428796	Bind	7043	7048	No
+20428796	Bind	7043	7046	No
+20428796	Bind	7042	7048	No
+20428796	Bind	7042	7046	No
+20428796	Positive_Correlation	7042	D007627	Novel
+20428796	Bind	7040	7048	No
+20428796	Bind	7040	7046	No
+20428796	Association	7040	D007627	Novel
+20428796	Negative_Correlation	7048	D007627	Novel
+20428796	Association	7046	D007627	No
+20428796	Negative_Correlation	D007627	7043	Novel
+20428796	Positive_Correlation	4052	7042	Novel
+20428796	Bind	4052	7046	No
+20428796	Positive_Correlation	4052	D007627	Novel
+20428796	Association	4052	D009841	No
+20428796	Positive_Correlation	4052	4052	Novel

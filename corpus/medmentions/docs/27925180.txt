@@ -1,0 +1,104 @@
+27925180|t|A 16 Yin Yang gene expression ratio signature for ER+ / node- breast cancer
+27925180|a|Breast cancer is one of the leading causes of cancer death in women. It is a complex and heterogeneous disease with different clinical outcomes. Stratifying patients into subgroups with different outcomes could help guide clinical decision making. In this study, we used two opposing groups of genes, Yin and Yang, to develop a prognostic expression ratio signature. Using the METABRIC cohort we identified a16- gene signature capable of stratifying breast cancer patients into four risk levels with intention that low-risk patients would not undergo adjuvant systemic therapy, intermediate - low-risk patients will be treated with hormonal therapy only, and intermediate -high- and high-risk groups will be treated by chemotherapy in addition to the hormonal therapy. The 16- gene signature for four risk level stratifications of breast cancer patients has been validated using 14 independent datasets. Notably, the low-risk group (n = 51) of 205 estrogen receptor-positive and node negative (ER+ / node-) patients from three different datasets who had not had any systemic adjuvant therapy had 100% 15- year disease-specific survival rate. The Concordance Index of YMR for ER+ / node negative patients is close to the commercially available signatures. However, YMR showed more significance (HR = 3.7, p = 8.7e-12) in stratifying ER+ / node- subgroup than OncotypeDx (HR = 2.7, p = 1.3e-7), MammaPrint (HR = 2.5, p = 5.8e-7), rorS (HR = 2.4, p = 1.4e-6), and NPI (HR = 2.6, p = 1.2e-6). YMR signature may be developed as a clinical tool to select a subgroup of low-risk ER+ / node- patients who do not require any adjuvant hormonal therapy (AHT).
+27925180	5	13	Yin Yang	T028	C0017337
+27925180	14	29	gene expression	T045	C0017262
+27925180	30	35	ratio	T081	C0456603
+27925180	36	45	signature	T169	C1708225
+27925180	50	53	ER+	T191	C2938924
+27925180	56	75	node- breast cancer	T191	C3160889
+27925180	76	89	Breast cancer	T191	C0006142
+27925180	112	118	causes	T169	C0015127
+27925180	122	128	cancer	T191	C0006826
+27925180	129	134	death	T040	C0011065
+27925180	138	143	women	T098	C0043210
+27925180	153	160	complex	T080	C0439855
+27925180	165	178	heterogeneous	T080	C0019409
+27925180	179	186	disease	T047	C0012634
+27925180	202	210	clinical	T080	C0205210
+27925180	211	219	outcomes	T080	C0085415
+27925180	221	232	Stratifying	T080	C0205363
+27925180	233	241	patients	T101	C0030705
+27925180	247	256	subgroups	T185	C1515021
+27925180	272	280	outcomes	T080	C0085415
+27925180	298	322	clinical decision making	T060	C4042877
+27925180	332	337	study	T062	C0008972
+27925180	360	366	groups	T078	C0441833
+27925180	370	375	genes	T028	C0017337
+27925180	377	389	Yin and Yang	T028	C0017337
+27925180	404	414	prognostic	T201	C1511294
+27925180	415	425	expression	T045	C0017262
+27925180	426	431	ratio	T081	C0456603
+27925180	432	441	signature	T169	C1708225
+27925180	453	461	METABRIC	T170	C0242356
+27925180	462	468	cohort	T062	C0086027
+27925180	488	502	gene signature	T169	C1708225
+27925180	514	525	stratifying	T080	C0205363
+27925180	526	539	breast cancer	T191	C0006142
+27925180	540	548	patients	T101	C0030705
+27925180	559	570	risk levels	T080	C3166291
+27925180	591	599	low-risk	T081	C3538919
+27925180	600	608	patients	T101	C0030705
+27925180	627	635	adjuvant	T169	C1522673
+27925180	636	652	systemic therapy	T061	C1515119
+27925180	654	666	intermediate	T082	C0205103
+27925180	669	677	low-risk	T081	C3538919
+27925180	678	686	patients	T101	C0030705
+27925180	695	707	treated with	T061	C0332293
+27925180	708	724	hormonal therapy	T061	C0279025
+27925180	735	747	intermediate	T082	C0205103
+27925180	759	775	high-risk groups	T098	C0684030
+27925180	784	791	treated	T061	C0332293
+27925180	795	807	chemotherapy	T061	C3665472
+27925180	827	843	hormonal therapy	T061	C0279025
+27925180	853	867	gene signature	T169	C1708225
+27925180	877	887	risk level	T080	C3166291
+27925180	888	903	stratifications	T185	C0008902
+27925180	907	920	breast cancer	T191	C0006142
+27925180	921	929	patients	T101	C0030705
+27925180	939	948	validated	T062	C1519941
+27925180	970	978	datasets	T170	C0150098
+27925180	993	1001	low-risk	T081	C3538919
+27925180	1002	1007	group	T098	C1257890
+27925180	1024	1050	estrogen receptor-positive	T191	C2938924
+27925180	1055	1068	node negative	T191	C3160889
+27925180	1070	1073	ER+	T191	C2938924
+27925180	1076	1081	node-	T191	C3160889
+27925180	1083	1091	patients	T101	C0030705
+27925180	1113	1121	datasets	T170	C0150098
+27925180	1151	1167	adjuvant therapy	T061	C0677850
+27925180	1181	1185	year	T079	C0439234
+27925180	1186	1216	disease-specific survival rate	T081	C2986538
+27925180	1222	1239	Concordance Index	T170	C0918012
+27925180	1243	1246	YMR	T060	C2698560
+27925180	1251	1254	ER+	T191	C2938924
+27925180	1257	1270	node negative	T191	C3160889
+27925180	1271	1279	patients	T101	C0030705
+27925180	1296	1308	commercially	T170	C0680536
+27925180	1319	1329	signatures	T169	C1708225
+27925180	1340	1343	YMR	T060	C2698560
+27925180	1356	1368	significance	T078	C0750502
+27925180	1370	1372	HR	T081	C2985465
+27925180	1396	1407	stratifying	T080	C0205363
+27925180	1408	1411	ER+	T191	C2938924
+27925180	1414	1419	node-	T191	C3160889
+27925180	1420	1428	subgroup	T185	C1515021
+27925180	1434	1444	OncotypeDx	T060	C2698560
+27925180	1446	1448	HR	T081	C2985465
+27925180	1469	1479	MammaPrint	T059	C2827401
+27925180	1481	1483	HR	T081	C2985465
+27925180	1504	1508	rorS	T060	C2698560
+27925180	1510	1512	HR	T081	C2985465
+27925180	1537	1540	NPI	T060	C2698560
+27925180	1542	1544	HR	T081	C2985465
+27925180	1565	1568	YMR	T060	C2698560
+27925180	1569	1578	signature	T169	C1708225
+27925180	1601	1609	clinical	T080	C0205210
+27925180	1610	1614	tool	T170	C0037589
+27925180	1627	1635	subgroup	T185	C1515021
+27925180	1639	1647	low-risk	T081	C3538919
+27925180	1648	1651	ER+	T191	C2938924
+27925180	1654	1659	node-	T191	C3160889
+27925180	1660	1668	patients	T101	C0030705
+27925180	1692	1700	adjuvant	T169	C1522673
+27925180	1701	1717	hormonal therapy	T061	C0279025
+27925180	1719	1722	AHT	T061	C0279025

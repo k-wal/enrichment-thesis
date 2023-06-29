@@ -1,0 +1,107 @@
+27447421|t|The relationship between hemorheological parameters and mortality in critically ill patients with and without sepsis
+27447421|a|The prognostic scoring systems for mortality of intensive care patients estimate clinical outcome using several physiological and biochemical parameters. In altered hemodynamic conditions of critically ill patients, hemorheological variables may play a significant role in appropriate tissue perfusion. We investigated if hemorheological parameters are altered in critical status and if they could be markers of mortality. 112 patients (67.8 ± 12 years, 58 males, 54 females) treated in intensive care unit with different non-surgical diseases were investigated. Routine laboratory parameters and prognostic scores were determined and hemorheological variables (hematocrit, plasma and whole blood viscosity, red blood cell aggregation and deformability) were measured on the 1st and the 2nd day after admission. ICU scores predicted 35.2-41.3% mortality rate, real mortality in intensive care unit was 37.5%, while 30-day mortality was 46.6%. Whole blood viscosity (WBV) and red blood cell (RBC) deformability were lower, red blood cell aggregation was higher in septic than in nonseptic patients (p < 0.05). In septic patients calcium was increased, osmolality was decreased, while in nonseptic patients WBV and RBC aggregation were higher in nonsurvivors compared to survivors (p < 0.05). Worsening of RBC deformability from day 1 to day 2 predicted higher mortality (p < 0.05). Calcium and osmolality level were associated with outcome in sepsis. Whole blood viscosity, red blood cell aggregation and change in red blood cell deformability could predict mortality in nonseptic patients and they may add prognostic information over the ICU scores. Further investigations are needed to evaluate the benefit of our findings in clinical practice.
+27447421	4	16	relationship	T080	C0439849
+27447421	25	40	hemorheological	T039	C0206502
+27447421	41	51	parameters	T033	C0449381
+27447421	56	65	mortality	T081	C0178686
+27447421	69	83	critically ill	T047	C0010340
+27447421	84	92	patients	T101	C0030705
+27447421	110	116	sepsis	T047	C0243026
+27447421	121	131	prognostic	T058	C0033325
+27447421	132	147	scoring systems	T170	C0282574
+27447421	152	161	mortality	T081	C0178686
+27447421	165	179	intensive care	T058	C0085559
+27447421	180	188	patients	T101	C0030705
+27447421	189	197	estimate	T081	C0750572
+27447421	198	214	clinical outcome	T033	C0243095
+27447421	229	242	physiological	T169	C0205463
+27447421	247	258	biochemical	T169	C0205474
+27447421	259	269	parameters	T033	C0449381
+27447421	282	293	hemodynamic	T042	C0019010
+27447421	294	304	conditions	T080	C0348080
+27447421	308	322	critically ill	T047	C0010340
+27447421	323	331	patients	T101	C0030705
+27447421	333	348	hemorheological	T039	C0206502
+27447421	349	358	variables	T059	C1134627
+27447421	402	408	tissue	T024	C0040300
+27447421	409	418	perfusion	T061	C0031001
+27447421	423	435	investigated	T169	C1292732
+27447421	439	454	hemorheological	T039	C0206502
+27447421	455	465	parameters	T033	C0449381
+27447421	481	496	critical status	T033	C0184770
+27447421	518	525	markers	T201	C0005516
+27447421	529	538	mortality	T081	C0178686
+27447421	544	552	patients	T101	C0030705
+27447421	564	569	years	T079	C0439234
+27447421	574	579	males	T032	C0086582
+27447421	584	591	females	T032	C0086287
+27447421	593	600	treated	T169	C1522326
+27447421	604	623	intensive care unit	T073,T093	C0021708
+27447421	639	651	non-surgical	T169	C1518388
+27447421	652	660	diseases	T047	C0012634
+27447421	666	678	investigated	T169	C1292732
+27447421	688	709	laboratory parameters	T059	C0022885
+27447421	714	731	prognostic scores	T081	C0449821
+27447421	752	767	hemorheological	T039	C0206502
+27447421	768	777	variables	T059	C1134627
+27447421	779	789	hematocrit	T033	C0518014
+27447421	791	797	plasma	T031	C0032105
+27447421	802	813	whole blood	T031	C0370231
+27447421	814	823	viscosity	T070	C0042784
+27447421	825	839	red blood cell	T025	C0014792
+27447421	840	851	aggregation	T043	C0007580
+27447421	856	869	deformability	T043	C0014774
+27447421	876	884	measured	T080	C0444706
+27447421	918	927	admission	T058	C0184666
+27447421	929	939	ICU scores	T081	C0392762
+27447421	961	975	mortality rate	T081	C0205848
+27447421	982	991	mortality	T081	C0178686
+27447421	995	1014	intensive care unit	T073,T093	C0021708
+27447421	1039	1048	mortality	T081	C0178686
+27447421	1060	1081	Whole blood viscosity	T034	C1261453
+27447421	1083	1086	WBV	T034	C1261453
+27447421	1092	1126	red blood cell (RBC) deformability	T043	C0014774
+27447421	1139	1153	red blood cell	T025	C0014792
+27447421	1154	1165	aggregation	T043	C0007580
+27447421	1170	1176	higher	T080	C0205250
+27447421	1180	1186	septic	T169	C0333534
+27447421	1195	1204	nonseptic	T169	C3496294
+27447421	1205	1213	patients	T101	C0030705
+27447421	1229	1235	septic	T047	C0243026
+27447421	1236	1244	patients	T101	C0030705
+27447421	1245	1252	calcium	T121,T123,T196	C0006675
+27447421	1257	1266	increased	T081	C0205217
+27447421	1268	1278	osmolality	T201	C0086741
+27447421	1283	1292	decreased	T081	C0205216
+27447421	1313	1321	patients	T101	C0030705
+27447421	1322	1325	WBV	T034	C1261453
+27447421	1330	1333	RBC	T025	C0014792
+27447421	1334	1345	aggregation	T043	C0007580
+27447421	1351	1357	higher	T080	C0205250
+27447421	1361	1373	nonsurvivors	T098	C1257890
+27447421	1386	1395	survivors	T101	C0206194
+27447421	1408	1417	Worsening	T080	C0332271
+27447421	1421	1424	RBC	T025	C0014792
+27447421	1425	1438	deformability	T043	C0014774
+27447421	1469	1475	higher	T080	C0205250
+27447421	1476	1485	mortality	T081	C0178686
+27447421	1498	1505	Calcium	T059	C0201925
+27447421	1510	1526	osmolality level	T034	C0428311
+27447421	1532	1547	associated with	T080	C0332281
+27447421	1559	1565	sepsis	T047	C0243026
+27447421	1567	1578	Whole blood	T031	C0370231
+27447421	1579	1588	viscosity	T070	C0042784
+27447421	1590	1604	red blood cell	T025	C0014792
+27447421	1605	1616	aggregation	T043	C0007580
+27447421	1631	1645	red blood cell	T025	C0014792
+27447421	1646	1659	deformability	T043	C0014774
+27447421	1674	1683	mortality	T081	C0178686
+27447421	1687	1696	nonseptic	T169	C3496294
+27447421	1697	1705	patients	T101	C0030705
+27447421	1723	1733	prognostic	T058	C0033325
+27447421	1734	1745	information	T078	C1533716
+27447421	1755	1765	ICU scores	T081	C0392762
+27447421	1775	1789	investigations	T058	C0220825
+27447421	1804	1812	evaluate	T058	C0220825
+27447421	1832	1840	findings	T033	C0243095
+27447421	1844	1861	clinical practice	T057	C0205897

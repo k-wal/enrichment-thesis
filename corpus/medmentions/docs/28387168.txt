@@ -1,0 +1,74 @@
+28387168|t|Numerical simulation of motion and deformation of healthy and sick red blood cell through a constricted vessel using hybrid lattice Boltzmann-immersed boundary method
+28387168|a|In the present article, hybrid lattice Boltzmann-immersed boundary method is utilized to simulate two-dimensional incompressible viscous flow involving flexible immersed red blood cell (RBC) in a microchannel. The main focus of the present research is to study motion and deformation of both healthy and sick RBCs in a vessel with different sizes of stenosis. The presented computational results consent reasonably well with the available data in the literature. Two different channels i.e. a simple and a constricted channel are investigated in the present manuscript. The results show that the RBC transfer and deform without any lift force and rotation induced when it is located on the symmetry axis of the microchannel. However, when the RBC is located off the symmetry axis, the pressure difference produced in the flow around the RBC would apply lift forces on them and expel them towards the center of the channel. The healthy RBC always shows more deformation related to the sick one along the channel. Another important result of the present research is that for the ratio of [Formula: see text] a sick RBC cannot pass the stenosis, and it reasons serious difficulties for body. The present result s have been compared with the available experimental and numerical results which show good agreements.
+28387168	0	20	Numerical simulation	T062	C0679083
+28387168	24	30	motion	T070	C0026597
+28387168	35	46	deformation	T169	C0333067
+28387168	50	57	healthy	T080	C3898900
+28387168	62	81	sick red blood cell	T025	C0014793
+28387168	92	103	constricted	T080	C0333164
+28387168	104	110	vessel	T023	C0005847
+28387168	117	166	hybrid lattice Boltzmann-immersed boundary method	T170	C0025663
+28387168	191	240	hybrid lattice Boltzmann-immersed boundary method	T170	C0025663
+28387168	256	264	simulate	T062	C0679083
+28387168	265	280	two-dimensional	T082	C1705052
+28387168	281	303	incompressible viscous	T080	C0311419
+28387168	304	308	flow	T070	C0806140
+28387168	319	327	flexible	T080	C0443220
+28387168	328	336	immersed	T169	C0205245
+28387168	337	351	red blood cell	T025	C0014792
+28387168	353	356	RBC	T025	C0014792
+28387168	363	375	microchannel	T082	C0439799
+28387168	407	415	research	T062	C0035168
+28387168	422	427	study	T062	C2603343
+28387168	428	434	motion	T070	C0026597
+28387168	439	450	deformation	T169	C0333067
+28387168	459	466	healthy	T080	C3898900
+28387168	471	480	sick RBCs	T025	C0014793
+28387168	486	492	vessel	T023	C0005847
+28387168	508	513	sizes	T082	C0456389
+28387168	517	525	stenosis	T046	C1261287
+28387168	541	554	computational	T059	C4297010
+28387168	555	562	results	T169	C1274040
+28387168	606	610	data	T078	C1511726
+28387168	618	628	literature	T170	C0023866
+28387168	644	652	channels	T082	C0439799
+28387168	673	684	constricted	T080	C0333164
+28387168	685	692	channel	T082	C0439799
+28387168	697	709	investigated	T169	C1292732
+28387168	725	735	manuscript	T073,T170	C0600659
+28387168	741	748	results	T169	C1274040
+28387168	763	766	RBC	T025	C0014792
+28387168	767	775	transfer	T169	C0205245
+28387168	780	786	deform	T169	C0333067
+28387168	799	809	lift force	T067	C0441722
+28387168	814	822	rotation	T169	C0035868
+28387168	823	830	induced	T169	C0205263
+28387168	857	865	symmetry	T067	C2825575
+28387168	866	870	axis	T082	C1522496
+28387168	878	890	microchannel	T082	C0439799
+28387168	910	913	RBC	T025	C0014792
+28387168	933	941	symmetry	T067	C2825575
+28387168	942	946	axis	T082	C1522496
+28387168	952	960	pressure	T040	C0005823
+28387168	961	971	difference	T081	C1705241
+28387168	988	992	flow	T070	C0806140
+28387168	1004	1007	RBC	T025	C0014792
+28387168	1020	1031	lift forces	T067	C0441722
+28387168	1044	1049	expel	T169	C0205245
+28387168	1067	1073	center	T082	C0205099
+28387168	1081	1088	channel	T082	C0439799
+28387168	1094	1101	healthy	T080	C3898900
+28387168	1102	1105	RBC	T025	C0014792
+28387168	1124	1135	deformation	T169	C0333067
+28387168	1151	1155	sick	T025	C0014793
+28387168	1170	1177	channel	T082	C0439799
+28387168	1197	1203	result	T169	C1274040
+28387168	1219	1227	research	T062	C0035168
+28387168	1244	1249	ratio	T081	C0456603
+28387168	1275	1283	sick RBC	T025	C0014793
+28387168	1300	1308	stenosis	T046	C1261287
+28387168	1350	1354	body	T016	C0242821
+28387168	1368	1374	result	T169	C1274040
+28387168	1368	1376	result s	T169	C1274040
+28387168	1415	1427	experimental	T080	C1517586
+28387168	1432	1449	numerical results	T081	C0243174

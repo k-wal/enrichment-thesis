@@ -1,0 +1,95 @@
+27585843|t|Radiation risk of breast screening in England with digital mammography
+27585843|a|To estimate the risks and benefits of breast screening in terms of number of deaths due to radiation-induced cancers and the number of lives saved owing to modern screening in the National Health Service Breast Screening Programme (NHSBSP) in England. Radiation risk model, patient dose data and data from national screening statistics were used to estimate the number of deaths due to radiation-induced breast cancers in the NHSBSP in England. Dose and dose effectiveness factors (DDREFs) equal to one and two were assumed. The breast cancer mortality reduction in the invited population due to screening and the percentage of females diagnosed with symptomatic breast cancer, who die from breast cancer, were collated from the literature. The number of lives saved owing to screening was calculated. Assuming, a total of 1,770,436 females between the ages of 50-70 years were screened each year, and a breast cancer mortality reduction of 20% due to screening in the invited population, the number of screen-detected cancers were 14,872 annually, resulting in 1071 lives saved. Conversely, for the same mortality reduction, the number of radiation-induced cancer s was 36 and 18 for DDREFs of 1 and 2, respectively. This resulted in seven and three deaths due to radiation-induced cancers annually for DDREFs of 1 and 2, respectively. The ratios of lives saved owing to screening to radiation-induced cancers were 30: 1 and 60: 1 for DDREFs of 1 and 2. The ratios of lives saved owing to screening to deaths due to radiation-induced cancer s were 156: 1 and 312: 1 for DDREFs of 1 and 2. For the 1.8% of the screening population with very thick breasts, the latter ratios decrease to 94: 1 and 187: 1 for DDREFs of 1 and 2. The breast cancer mortality reduction due to screening greatly outweighs the risk of death due to radiation-induced cancer s. Advances in knowledge: Estimation of the radiation risk for modern breast screening in England using digital mammography.
+27585843	0	9	Radiation	T037	C0015333
+27585843	10	14	risk	T058	C0086930
+27585843	18	34	breast screening	T061	C0281182
+27585843	38	45	England	T083	C0014282
+27585843	51	70	digital mammography	T060	C0860950
+27585843	74	82	estimate	T081	C0750572
+27585843	87	92	risks	T058	C0086930
+27585843	97	105	benefits	T081	C0814225
+27585843	109	125	breast screening	T061	C0281182
+27585843	138	154	number of deaths	T033	C0243095
+27585843	155	161	due to	T169	C0678226
+27585843	162	187	radiation-induced cancers	T191	C0751366
+27585843	196	211	number of lives	T033	C0243095
+27585843	227	243	modern screening	T058	C1710032
+27585843	251	301	National Health Service Breast Screening Programme	T058	C1254363
+27585843	303	309	NHSBSP	T058	C1254363
+27585843	314	321	England	T083	C0014282
+27585843	323	332	Radiation	T037	C0015333
+27585843	333	343	risk model	T170	C1511297
+27585843	338	343	model	T170	C0282574
+27585843	345	362	patient dose data	T170	C0282574
+27585843	367	406	data from national screening statistics	T170	C0282574
+27585843	420	428	estimate	T081	C0750572
+27585843	433	449	number of deaths	T033	C0243095
+27585843	450	456	due to	T169	C0678226
+27585843	457	489	radiation-induced breast cancers	T191	C0751366
+27585843	497	503	NHSBSP	T058	C1254363
+27585843	507	514	England	T083	C0014282
+27585843	516	551	Dose and dose effectiveness factors	T061	C2169146
+27585843	553	559	DDREFs	T061	C2169146
+27585843	561	566	equal	T080	C0205163
+27585843	587	594	assumed	T170	C3242379
+27585843	600	613	breast cancer	T191	C0006142
+27585843	614	633	mortality reduction	T081	C0282251
+27585843	641	659	invited population	T098	C1257890
+27585843	660	666	due to	T169	C0678226
+27585843	667	676	screening	T058	C1710032
+27585843	685	695	percentage	T081	C0439165
+27585843	699	706	females	T032	C0086287
+27585843	707	716	diagnosed	T033	C0011900
+27585843	722	733	symptomatic	T169	C0231220
+27585843	734	747	breast cancer	T191	C0006142
+27585843	762	775	breast cancer	T191	C0006142
+27585843	800	810	literature	T170	C0023866
+27585843	816	831	number of lives	T033	C0243095
+27585843	847	856	screening	T058	C1710032
+27585843	861	871	calculated	T052	C1441506
+27585843	904	911	females	T032	C0086287
+27585843	924	943	ages of 50-70 years	T033	C1860866
+27585843	949	957	screened	T058	C1254363
+27585843	975	988	breast cancer	T191	C0006142
+27585843	989	1008	mortality reduction	T081	C0282251
+27585843	1023	1032	screening	T058	C1710032
+27585843	1040	1058	invited population	T098	C1257890
+27585843	1064	1097	number of screen-detected cancers	T033	C0243095
+27585843	1120	1132	resulting in	T169	C0332294
+27585843	1138	1149	lives saved	T033	C0243095
+27585843	1176	1195	mortality reduction	T081	C0282251
+27585843	1201	1237	number of radiation-induced cancer s	T033	C0243095
+27585843	1211	1235	radiation-induced cancer	T191	C0751366
+27585843	1211	1237	radiation-induced cancer s	T191	C0751366
+27585843	1256	1262	DDREFs	T061	C2169146
+27585843	1306	1311	seven	T081	C0392762
+27585843	1316	1328	three deaths	T081	C0392762
+27585843	1336	1361	radiation-induced cancers	T191	C0751366
+27585843	1362	1370	annually	T079	C0332181
+27585843	1375	1381	DDREFs	T061	C2169146
+27585843	1412	1418	ratios	T081	C0456603
+27585843	1443	1452	screening	T058	C1710032
+27585843	1456	1481	radiation-induced cancers	T191	C0751366
+27585843	1507	1513	DDREFs	T061	C2169146
+27585843	1588	1612	radiation-induced cancer	T191	C0751366
+27585843	1642	1648	DDREFs	T061	C2169146
+27585843	1681	1701	screening population	T033	C1822510
+27585843	1712	1717	thick	T080	C1280412
+27585843	1718	1725	breasts	T023	C0006141
+27585843	1738	1744	ratios	T081	C0456603
+27585843	1745	1753	decrease	T081	C0547047
+27585843	1778	1784	DDREFs	T061	C2169146
+27585843	1801	1814	breast cancer	T191	C0006142
+27585843	1815	1834	mortality reduction	T081	C0282251
+27585843	1835	1841	due to	T169	C0678226
+27585843	1842	1851	screening	T058	C1710032
+27585843	1852	1869	greatly outweighs	T033	C3840786
+27585843	1874	1887	risk of death	T033	C0243095
+27585843	1888	1894	due to	T169	C0678226
+27585843	1895	1919	radiation-induced cancer	T191	C0751366
+27585843	1946	1956	Estimation	T081	C0750572
+27585843	1964	1973	radiation	T037	C0015333
+27585843	1974	1978	risk	T058	C0086930
+27585843	1983	2006	modern breast screening	T061	C0281182
+27585843	2010	2017	England	T083	C0014282
+27585843	2024	2043	digital mammography	T060	C0860950

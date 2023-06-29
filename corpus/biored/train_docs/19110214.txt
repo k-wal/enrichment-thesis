@@ -1,0 +1,26 @@
+19110214|t|A recessive skeletal dysplasia, SEMD aggrecan type, results from a missense mutation affecting the C-type lectin domain of aggrecan.
+19110214|a|Analysis of a nuclear family with three affected offspring identified an autosomal-recessive form of spondyloepimetaphyseal dysplasia characterized by severe short stature and a unique constellation of radiographic findings. Homozygosity for a haplotype that was identical by descent between two of the affected individuals identified a locus for the disease gene within a 17.4 Mb interval on chromosome 15, a region containing 296 genes. These genes were assessed and ranked by cartilage selectivity with whole-genome microarray data, revealing only two genes, encoding aggrecan and chondroitin sulfate proteoglycan 4, that were selectively expressed in cartilage. Sequence analysis of aggrecan complementary DNA from an affected individual revealed homozygosity for a missense mutation (c.6799G --> A) that predicts a p.D2267N amino acid substitution in the C-type lectin domain within the G3 domain of aggrecan. The D2267 residue is predicted to coordinate binding of a calcium ion, which influences the conformational binding loops of the C-type lectin domain that mediate interactions with tenascins and other extracellular-matrix proteins. Expression of the normal and mutant G3 domains in mammalian cells showed that the mutation created a functional N-glycosylation site but did not adversely affect protein trafficking and secretion. Surface-plasmon-resonance studies showed that the mutation influenced the binding and kinetics of the interactions between the aggrecan G3 domain and tenascin-C. These findings identify an autosomal-recessive skeletal dysplasia and a significant role for the aggrecan C-type lectin domain in regulating endochondral ossification and, thereby, height.
+19110214	2	30	recessive skeletal dysplasia	DiseaseOrPhenotypicFeature	D010009
+19110214	32	36	SEMD	DiseaseOrPhenotypicFeature	D010009
+19110214	37	45	aggrecan	GeneOrGeneProduct	176
+19110214	123	131	aggrecan	GeneOrGeneProduct	176
+19110214	234	266	spondyloepimetaphyseal dysplasia	DiseaseOrPhenotypicFeature	D010009
+19110214	291	304	short stature	DiseaseOrPhenotypicFeature	D006130
+19110214	704	712	aggrecan	GeneOrGeneProduct	176
+19110214	717	751	chondroitin sulfate proteoglycan 4	GeneOrGeneProduct	1464
+19110214	820	828	aggrecan	GeneOrGeneProduct	176
+19110214	922	935	c.6799G --> A	SequenceVariant	rs545688154
+19110214	953	961	p.D2267N	SequenceVariant	rs545688154
+19110214	1038	1046	aggrecan	GeneOrGeneProduct	176
+19110214	1052	1057	D2267	SequenceVariant	rs545688154
+19110214	1106	1113	calcium	ChemicalEntity	D002118
+19110214	1603	1611	aggrecan	GeneOrGeneProduct	176
+19110214	1626	1636	tenascin-C	GeneOrGeneProduct	3371
+19110214	1665	1703	autosomal-recessive skeletal dysplasia	DiseaseOrPhenotypicFeature	D010009
+19110214	1735	1743	aggrecan	GeneOrGeneProduct	176
+19110214	Association	rs545688154	D002118	Novel
+19110214	Association	D010009	1464	Novel
+19110214	Association	D010009	3371	Novel
+19110214	Positive_Correlation	D010009	rs545688154	Novel
+19110214	Association	176	3371	Novel
+19110214	Association	176	D010009	Novel

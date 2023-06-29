@@ -1,0 +1,104 @@
+27400764|t|Predicting Risk of Suicide Attempt Using History of Physical Illnesses From Electronic Medical Records
+27400764|a|Although physical illnesses, routinely documented in electronic medical records (EMR), have been found to be a contributing factor to suicides, no automated systems use this information to predict suicide risk. The aim of this study is to quantify the impact of physical illnesses on suicide risk, and develop a predictive model that captures this relationship using EMR data. We used history of physical illnesses (except chapter V: Mental and behavioral disorders) from EMR data over different time-periods to build a lookup table that contains the probability of suicide risk for each chapter of the International Statistical Classification of Diseases and Related Health Problems, 10th Revision (ICD-10) codes. The lookup table was then used to predict the probability of suicide risk for any new assessment. Based on the different lengths of history of physical illnesses, we developed six different models to predict suicide risk. We tested the performance of developed models to predict 90-day risk using historical data over differing time-periods ranging from 3 to 48 months. A total of 16,858 assessments from 7399 mental health patients with at least one risk assessment was used for the validation of the developed model. The performance was measured using area under the receiver operating characteristic curve (AUC). The best predictive results were derived (AUC =0.71) using combined data across all time-periods, which significantly outperformed the clinical baseline derived from routine risk assessment (AUC =0.56). The proposed approach thus shows potential to be incorporated in the broader risk assessment processes used by clinicians. This study provides a novel approach to exploit the history of physical illnesses extracted from EMR (ICD-10 codes without chapter V-mental and behavioral disorders) to predict suicide risk, and this model outperforms existing clinical assessments of suicide risk.
+27400764	0	10	Predicting	T078	C0681842
+27400764	11	15	Risk	T078	C0035647
+27400764	19	34	Suicide Attempt	T033	C0038663
+27400764	41	48	History	T033	C0262926
+27400764	52	70	Physical Illnesses	T047	C0683323
+27400764	76	102	Electronic Medical Records	T170	C2362543
+27400764	112	130	physical illnesses	T047	C0683323
+27400764	142	152	documented	T058	C1301725
+27400764	156	182	electronic medical records	T170	C2362543
+27400764	184	187	EMR	T170	C2362543
+27400764	214	226	contributing	T052	C1880177
+27400764	227	233	factor	T169	C1521761
+27400764	237	245	suicides	T033	C0038661
+27400764	250	259	automated	T169	C0205554
+27400764	260	267	systems	T169	C0449913
+27400764	277	288	information	T078	C1533716
+27400764	292	299	predict	T078	C0681842
+27400764	300	312	suicide risk	T033	C0563664
+27400764	318	321	aim	T078	C1947946
+27400764	330	335	study	T062	C2603343
+27400764	342	350	quantify	T081	C1709793
+27400764	355	361	impact	T080	C4049986
+27400764	365	383	physical illnesses	T047	C0683323
+27400764	387	399	suicide risk	T033	C0563664
+27400764	415	431	predictive model	T075	C0026336
+27400764	451	463	relationship	T080	C0439849
+27400764	470	473	EMR	T170	C2362543
+27400764	474	478	data	T078	C1511726
+27400764	488	495	history	T033	C0262926
+27400764	499	517	physical illnesses	T047	C0683323
+27400764	519	568	except chapter V: Mental and behavioral disorders	T033	C0243095
+27400764	575	578	EMR	T170	C2362543
+27400764	579	583	data	T078	C1511726
+27400764	589	598	different	T080	C1705242
+27400764	599	611	time-periods	T079	C1948053
+27400764	623	635	lookup table	T170	C1706074
+27400764	654	665	probability	T081	C0033204
+27400764	669	681	suicide risk	T033	C0563664
+27400764	706	810	International Statistical Classification of Diseases and Related Health Problems, 10th Revision (ICD-10)	T170	C1137110
+27400764	811	816	codes	T170	C1550212
+27400764	822	834	lookup table	T170	C1706074
+27400764	852	859	predict	T078	C0681842
+27400764	864	875	probability	T081	C0033204
+27400764	879	891	suicide risk	T033	C0563664
+27400764	900	903	new	T080	C0205314
+27400764	904	914	assessment	T058	C0220825
+27400764	929	938	different	T080	C1705242
+27400764	939	946	lengths	T081	C1444754
+27400764	950	957	history	T033	C0262926
+27400764	961	979	physical illnesses	T047	C0683323
+27400764	998	1007	different	T080	C1705242
+27400764	1008	1014	models	T075	C0026336
+27400764	1018	1025	predict	T078	C0681842
+27400764	1026	1038	suicide risk	T033	C0563664
+27400764	1043	1049	tested	T169	C0039593
+27400764	1054	1065	performance	T055	C0597198
+27400764	1079	1085	models	T075	C0026336
+27400764	1089	1096	predict	T078	C0681842
+27400764	1104	1108	risk	T033	C0563664
+27400764	1115	1125	historical	T033	C0262926
+27400764	1126	1130	data	T078	C1511726
+27400764	1146	1158	time-periods	T079	C1948053
+27400764	1206	1217	assessments	T058	C0220825
+27400764	1228	1241	mental health	T041	C0025353
+27400764	1242	1250	patients	T101	C0030705
+27400764	1269	1273	risk	T033	C0563664
+27400764	1274	1284	assessment	T058	C0220825
+27400764	1302	1312	validation	T062	C1519941
+27400764	1330	1335	model	T075	C0026336
+27400764	1341	1352	performance	T055	C0597198
+27400764	1372	1426	area under the receiver operating characteristic curve	T081	C0376690
+27400764	1428	1431	AUC	T081	C0376690
+27400764	1443	1453	predictive	T080	C0681890
+27400764	1454	1461	results	T169	C1274040
+27400764	1476	1479	AUC	T081	C0376690
+27400764	1493	1501	combined	T080	C0205195
+27400764	1502	1506	data	T078	C1511726
+27400764	1518	1530	time-periods	T079	C1948053
+27400764	1538	1551	significantly	T078	C0750502
+27400764	1569	1577	clinical	T080	C0205210
+27400764	1578	1586	baseline	T081	C1442488
+27400764	1600	1607	routine	T080	C0205547
+27400764	1608	1623	risk assessment	T058	C0086930
+27400764	1625	1628	AUC	T081	C0376690
+27400764	1641	1649	proposed	T080	C1553874
+27400764	1670	1679	potential	T080	C3245505
+27400764	1714	1729	risk assessment	T058	C0086930
+27400764	1730	1739	processes	T067	C1522240
+27400764	1748	1758	clinicians	T097	C0871685
+27400764	1765	1770	study	T062	C2603343
+27400764	1782	1787	novel	T080	C0205314
+27400764	1812	1819	history	T033	C0262926
+27400764	1823	1841	physical illnesses	T047	C0683323
+27400764	1857	1860	EMR	T170	C2362543
+27400764	1862	1874	ICD-10 codes	T170	C1550212
+27400764	1875	1924	without chapter V-mental and behavioral disorders	T033	C0243095
+27400764	1929	1936	predict	T078	C0681842
+27400764	1937	1949	suicide risk	T033	C0563664
+27400764	1960	1965	model	T075	C0026336
+27400764	1987	1995	clinical	T080	C0205210
+27400764	1996	2007	assessments	T058	C0220825
+27400764	2011	2023	suicide risk	T033	C0563664

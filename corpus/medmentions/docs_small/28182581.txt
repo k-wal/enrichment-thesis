@@ -1,0 +1,62 @@
+28182581|t|Application of single - and dual-energy CT brain tissue segmentation to PET monitoring of proton therapy
+28182581|a|The purpose of this work was to evaluate the ability of single and dual energy computed tomography (SECT, DECT) to estimate tissue composition and density for usage in Monte Carlo (MC) simulations of irradiation induced β (+) activity distributions. This was done to assess the impact on positron emission tomography (PET) range verification in proton therapy. A DECT-based brain tissue segmentation method was developed for white matter (WM), grey matter (GM) and cerebrospinal fluid (CSF). The elemental composition of reference tissues was assigned to closest CT numbers in DECT space (DECTdist). The method was also applied to SECT data (SECTdist). In a validation experiment, the proton irradiation induced PET activity of three brain equivalent solutions (BES) was compared to simulations based on different tissue segmentations. Five patients scanned with a dual source DECT scanner were analyzed to compare the different segmentation methods. A single magnetic resonance (MR) scan was used for comparison with an established segmentation toolkit. Additionally, one patient with SECT and post-treatment PET scans was investigated. For BES, DECTdist and SECTdist reduced differences to the reference simulation by up to 62% when compared to the conventional stoichiometric segmentation (SECTSchneider). In comparison to MR brain segmentation, Dice similarity coefficients for WM, GM and CSF were 0.61, 0.67 and 0.66 for DECTdist and 0.54, 0.41 and 0.66 for SECTdist. MC simulations of PET treatment verification in patients showed important differences between DECTdist / SECTdist and SECTSchneider for patients with large CSF areas within the treatment field but not in WM and GM. Differences could be misinterpreted as PET derived range shifts of up to 4 mm. DECTdist and SECTdist yielded comparable activity distributions, and comparison of SECTdist to a measured patient PET scan showed improved agreement when compared to SECTSchneider. The agreement between predicted and measured PET activity distributions was improved by employing a brain specific segmentation applicable to both DECT and SECT data.
+28182581	15	21	single	T058	UMLS:C0040405
+28182581	28	42	dual-energy CT	T058	UMLS:C4055114
+28182581	43	55	brain tissue	T017	UMLS:C0459385
+28182581	72	75	PET	T058	UMLS:C0032743
+28182581	76	86	monitoring	T058	UMLS:C1283169
+28182581	90	104	proton therapy	T058	UMLS:C0436226
+28182581	137	145	evaluate	T058	UMLS:C0220825
+28182581	161	167	single	T058	UMLS:C0040405
+28182581	172	203	dual energy computed tomography	T058	UMLS:C4055114
+28182581	205	209	SECT	T058	UMLS:C0040405
+28182581	211	215	DECT	T058	UMLS:C4055114
+28182581	229	247	tissue composition	T017	UMLS:C0040300
+28182581	290	301	simulations	T062	UMLS:C0679083
+28182581	393	421	positron emission tomography	T058	UMLS:C0032743
+28182581	423	426	PET	T058	UMLS:C0032743
+28182581	450	464	proton therapy	T058	UMLS:C0436226
+28182581	468	478	DECT-based	T058	UMLS:C4055114
+28182581	479	491	brain tissue	T017	UMLS:C0459385
+28182581	530	542	white matter	T017	UMLS:C0682708
+28182581	544	546	WM	T017	UMLS:C0682708
+28182581	549	560	grey matter	T017	UMLS:C0018220
+28182581	562	564	GM	T017	UMLS:C0018220
+28182581	570	589	cerebrospinal fluid	T031	UMLS:C0007806
+28182581	591	594	CSF	T031	UMLS:C0007806
+28182581	636	643	tissues	T017	UMLS:C0040300
+28182581	682	686	DECT	T058	UMLS:C4055114
+28182581	736	740	SECT	T058	UMLS:C0040405
+28182581	763	773	validation	T062	UMLS:C1519941
+28182581	774	784	experiment	T062	UMLS:C0681814
+28182581	790	808	proton irradiation	T058	UMLS:C0436226
+28182581	817	820	PET	T058	UMLS:C0032743
+28182581	839	844	brain	T017	UMLS:C0006104
+28182581	888	899	simulations	T062	UMLS:C0679083
+28182581	919	925	tissue	T017	UMLS:C0040300
+28182581	955	962	scanned	T058	UMLS:C0441633
+28182581	975	981	source	T033	UMLS:C0449416
+28182581	982	986	DECT	T058	UMLS:C4055114
+28182581	987	994	scanner	T074	UMLS:C0183115
+28182581	1000	1008	analyzed	T062	UMLS:C0936012
+28182581	1065	1093	magnetic resonance (MR) scan	T058	UMLS:C0420570
+28182581	1191	1195	SECT	T058	UMLS:C0040405
+28182581	1215	1224	PET scans	T058	UMLS:C0032743
+28182581	1311	1321	simulation	T062	UMLS:C0679083
+28182581	1487	1489	WM	T017	UMLS:C0682708
+28182581	1491	1493	GM	T017	UMLS:C0018220
+28182581	1498	1501	CSF	T031	UMLS:C0007806
+28182581	1581	1592	simulations	T062	UMLS:C0679083
+28182581	1596	1599	PET	T058	UMLS:C0032743
+28182581	1734	1737	CSF	T031	UMLS:C0007806
+28182581	1738	1743	areas	T082	UMLS:C0205146
+28182581	1782	1784	WM	T017	UMLS:C0682708
+28182581	1789	1791	GM	T017	UMLS:C0018220
+28182581	1832	1835	PET	T058	UMLS:C0032743
+28182581	1986	1994	PET scan	T058	UMLS:C0032743
+28182581	2002	2010	improved	T033	UMLS:C0184511
+28182581	2098	2101	PET	T058	UMLS:C0032743
+28182581	2129	2137	improved	T033	UMLS:C0184511
+28182581	2153	2158	brain	T017	UMLS:C0006104
+28182581	2200	2204	DECT	T058	UMLS:C4055114
+28182581	2209	2213	SECT	T058	UMLS:C0040405

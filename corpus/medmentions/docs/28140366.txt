@@ -1,0 +1,37 @@
+28140366|t|Low-dose dynamic myocardial perfusion CT image reconstruction using pre-contrast normal-dose CT scan induced structure tensor total variation regularization
+28140366|a|Dynamic myocardial perfusion CT (DMP-CT) imaging provides quantitative functional information for diagnosis and risk stratification of coronary artery disease by calculating myocardial perfusion hemodynamic parameter (MPHP) maps. However, the level of radiation delivered by dynamic sequential scan protocol can be potentially high. The purpose of this work is to develop a pre-contrast normal-dose scan induced structure tensor total variation regularization based on the penalized weighted least-squares (PWLS) criteria to improve the image quality of DMP-CT with a low-mAs CT acquisition. For simplicity, the present approach was termed as ' PWLS-ndiSTV '. Specifically, the ndiSTV regularization takes into account the spatial-temporal structure information of DMP-CT data and further exploits the higher order derivatives of the objective images to enhance denoising performance. Subsequently, an effective optimization algorithm based on the split-Bregman approach was adopted to minimize the associative objective function. Evaluations with modified dynamic XCAT phantom and preclinical porcine datasets have demonstrated that the proposed PWLS-ndiSTV approach can achieve promising gains over other existing approaches in terms of noise-induced artifacts mitigation, edge details preservation, and accurate MPHP maps calculation.
+28140366	0	46	Low-dose dynamic myocardial perfusion CT image	T060	C1518002
+28140366	47	61	reconstruction	T066	C0020912
+28140366	68	100	pre-contrast normal-dose CT scan	T060	C0040405
+28140366	109	156	structure tensor total variation regularization	T060	C0430022
+28140366	157	188	Dynamic myocardial perfusion CT	T060	C2350390
+28140366	190	196	DMP-CT	T060	C2350390
+28140366	255	264	diagnosis	T033	C0011900
+28140366	269	288	risk stratification	T062	C1514983
+28140366	292	315	coronary artery disease	T047	C0010054
+28140366	331	373	myocardial perfusion hemodynamic parameter	T061	C0204901
+28140366	375	379	MPHP	T061	C0204901
+28140366	400	428	level of radiation delivered	T081	C1299361
+28140366	432	464	dynamic sequential scan protocol	T060	C0430022
+28140366	472	488	potentially high	T080	C0205556
+28140366	531	616	pre-contrast normal-dose scan induced structure tensor total variation regularization	T170	C3161035
+28140366	630	662	penalized weighted least-squares	T081	C0023189
+28140366	664	668	PWLS	T081	C0023189
+28140366	694	707	image quality	T080	C0806487
+28140366	711	717	DMP-CT	T060	C2350390
+28140366	725	747	low-mAs CT acquisition	T060	C0040405
+28140366	802	813	PWLS-ndiSTV	T170	C3161035
+28140366	835	856	ndiSTV regularization	T170	C3161035
+28140366	880	918	spatial-temporal structure information	T062	C3494293
+28140366	922	928	DMP-CT	T060	C2350390
+28140366	929	933	data	T078	C1511726
+28140366	1019	1040	denoising performance	T080	C0205556
+28140366	1069	1091	optimization algorithm	T170	C0002045
+28140366	1105	1127	split-Bregman approach	T170	C0178476
+28140366	1214	1234	dynamic XCAT phantom	T073	C0282611
+28140366	1239	1267	preclinical porcine datasets	T170	C0150098
+28140366	1304	1315	PWLS-ndiSTV	T170	C3161035
+28140366	1396	1419	noise-induced artifacts	T068	C0085089
+28140366	1420	1430	mitigation	T078	C1706602
+28140366	1432	1457	edge details preservation	T169	C0205245
+28140366	1472	1481	MPHP maps	T061	C0204901

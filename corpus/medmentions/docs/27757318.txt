@@ -1,0 +1,70 @@
+27757318|t|Adoptively transferred natural killer cells maintain long-term antitumor activity by epigenetic imprinting and CD4(+) T cell help
+27757318|a|Natural killer (NK) cell infusions can induce remissions in subsets of patients with different types of cancer. The optimal strategies for NK cell activation prior to infusion are still under debate. There is recent evidence that NK cells can acquire long-term functional competence by preactivation with the cytokines IL-12 / 15 / 18. The mechanisms supporting the maintenance of long-term NK cell antitumor activity are incompletely under-stood. Here, we show that NK cells preactivated in vitro with IL-12 / 15 / 18, but not with IL-15 alone, maintained high antitumor activity even 1 mo after transfer into lymphopenic RAG-2(-/-) γc(-/-) mice. The NK cell intrinsic ability for IFNγ production coincided with demethylation of the conserved non-coding sequence (CNS) 1 in the Ifng locus, previously shown to enhance transcription of Ifng. In a xenograft melanoma mouse model, human IL-12 / 15 / 18 -preactivated NK cells rejected tumors more efficiently. In RAG-2(-/-) γc(-/-) mice, co-transfer of CD4(+) T cells further improved the long-term competence of NK cells for IFNγ production that was dependent on IL-2. CD4(+) T cell activation during homeostatic proliferation required macrophages and further promoted the long-term NK cell antitumor activity. Thus, NK cells can "remember" a previous exposure to cytokines by epigenetic imprinting resulting in a remarkable stability of the IFNγ -producing phenotype after adoptive transfer. In addition, our results support combination of cytokine -preactivated NK cells with CD4(+) T cell activation upon lymphopenic conditioning to achieve long-term NK cell effector function for cancer immunotherapy.
+27757318	23	43	natural killer cells	T025	C0022688
+27757318	63	81	antitumor activity	T033	C0243095
+27757318	85	106	epigenetic imprinting	T045	C0242614
+27757318	111	124	CD4(+) T cell	T025	C0039215
+27757318	130	154	Natural killer (NK) cell	T025	C0022688
+27757318	155	164	infusions	T061	C0574032
+27757318	201	209	patients	T101	C0030705
+27757318	234	240	cancer	T191	C0006826
+27757318	269	276	NK cell	T025	C0022688
+27757318	277	287	activation	T043	C1326120
+27757318	297	305	infusion	T061	C0574032
+27757318	360	368	NK cells	T025	C0022688
+27757318	439	448	cytokines	T116,T129	C0079189
+27757318	449	454	IL-12	T116,T121,T129	C0123759
+27757318	457	459	15	T116,T129	C0254610
+27757318	462	464	18	T116,T129	C0383327
+27757318	521	528	NK cell	T025	C0022688
+27757318	529	547	antitumor activity	T033	C0243095
+27757318	597	605	NK cells	T025	C0022688
+27757318	619	627	in vitro	T059,T062	C3850137
+27757318	633	638	IL-12	T116,T121,T129	C0123759
+27757318	641	643	15	T116,T129	C0254610
+27757318	646	648	18	T116,T129	C0383327
+27757318	663	668	IL-15	T116,T129	C0254610
+27757318	692	710	antitumor activity	T033	C0243095
+27757318	716	720	1 mo	T079	C1254367
+27757318	741	752	lymphopenic	T047	C0024312
+27757318	753	763	RAG-2(-/-)	T028	C1419248
+27757318	772	776	mice	T015	C0026809
+27757318	782	789	NK cell	T025	C0022688
+27757318	812	816	IFNγ	T116,T121,T129	C0021745
+27757318	874	893	non-coding sequence	T114,T123	C0021920
+27757318	895	898	CNS	T114,T123	C0021920
+27757318	909	913	Ifng	T028	C1334085
+27757318	914	919	locus	T082	C1708726
+27757318	949	962	transcription	T045	C0040649
+27757318	966	970	Ifng	T028	C1334085
+27757318	977	1007	xenograft melanoma mouse model	T050	C0012644
+27757318	1009	1014	human	T016	C0086418
+27757318	1015	1020	IL-12	T116,T121,T129	C0123759
+27757318	1023	1025	15	T116,T129	C0254610
+27757318	1028	1030	18	T116,T129	C0383327
+27757318	1045	1053	NK cells	T025	C0022688
+27757318	1063	1069	tumors	T191	C0027651
+27757318	1091	1101	RAG-2(-/-)	T028	C1419248
+27757318	1110	1114	mice	T015	C0026809
+27757318	1131	1145	CD4(+) T cells	T025	C0039215
+27757318	1191	1199	NK cells	T025	C0022688
+27757318	1204	1208	IFNγ	T116,T121,T129	C0021745
+27757318	1242	1246	IL-2	T116,T129	C0021756
+27757318	1248	1261	CD4(+) T cell	T025	C0039215
+27757318	1262	1272	activation	T043	C1326120
+27757318	1280	1305	homeostatic proliferation	T043	C1326161
+27757318	1315	1326	macrophages	T025	C0024432
+27757318	1362	1369	NK cell	T025	C0022688
+27757318	1370	1388	antitumor activity	T033	C0243095
+27757318	1396	1404	NK cells	T025	C0022688
+27757318	1443	1452	cytokines	T116,T129	C0079189
+27757318	1456	1477	epigenetic imprinting	T045	C0242614
+27757318	1521	1525	IFNγ	T116,T121,T129	C0021745
+27757318	1537	1546	phenotype	T032	C0031437
+27757318	1620	1628	cytokine	T116,T129	C0079189
+27757318	1643	1651	NK cells	T025	C0022688
+27757318	1657	1670	CD4(+) T cell	T025	C0039215
+27757318	1671	1681	activation	T043	C1326120
+27757318	1687	1698	lymphopenic	T047	C0024312
+27757318	1733	1740	NK cell	T025	C0022688
+27757318	1763	1783	cancer immunotherapy	T061	C0278348

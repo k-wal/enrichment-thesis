@@ -1,0 +1,46 @@
+28481342|t|Recurrent noncoding regulatory mutations in pancreatic ductal adenocarcinoma
+28481342|a|The contributions of coding mutations to tumorigenesis are relatively well known; however, little is known about somatic alterations in noncoding DNA. Here we describe GECCO (Genomic Enrichment Computational Clustering Operation) to analyze somatic noncoding alterations in 308 pancreatic ductal adenocarcinomas (PDAs) and identify commonly mutated regulatory regions. We find recurrent noncoding mutations to be enriched in PDA pathways, including axon guidance and cell adhesion, and newly identified processes, including transcription and homeobox genes. We identified mutations in protein binding sites correlating with differential expression of proximal genes and experimentally validated effects of mutations on expression. We developed an expression modulation score that quantifies the strength of gene regulation imposed by each class of regulatory elements, and found the strongest elements were most frequently mutated, suggesting a selective advantage. Our detailed single-cancer analysis of noncoding alterations identifies regulatory mutations as candidates for diagnostic and prognostic markers, and suggests new mechanisms for tumor evolution.
+28481342	0	40	Recurrent noncoding regulatory mutations	T045	C0026882
+28481342	44	76	pancreatic ductal adenocarcinoma	T191	C1335302
+28481342	81	94	contributions	T052	C1880177
+28481342	98	114	coding mutations	T045	C0026882
+28481342	118	131	tumorigenesis	T191	C0007621
+28481342	190	209	somatic alterations	T049	C0544886
+28481342	213	226	noncoding DNA	T114,T123	C0021920
+28481342	318	347	somatic noncoding alterations	T049	C0544886
+28481342	355	388	pancreatic ductal adenocarcinomas	T191	C1335302
+28481342	390	394	PDAs	T191	C1335302
+28481342	418	444	mutated regulatory regions	T086	C0004793
+28481342	454	483	recurrent noncoding mutations	T045	C0026882
+28481342	502	505	PDA	T191	C1335302
+28481342	506	514	pathways	T044	C1704259
+28481342	526	539	axon guidance	T043	C2984268
+28481342	544	557	cell adhesion	T043	C0007577
+28481342	569	579	identified	T080	C0205396
+28481342	580	589	processes	T067	C1522240
+28481342	601	614	transcription	T045	C0040649
+28481342	619	633	homeobox genes	T028	C0017347
+28481342	638	648	identified	T080	C0205396
+28481342	649	658	mutations	T045	C0026882
+28481342	662	683	protein binding sites	T087	C1514535
+28481342	701	713	differential	T080	C0443199
+28481342	714	724	expression	T045	C0017262
+28481342	728	736	proximal	T082	C0205107
+28481342	737	742	genes	T028	C0017337
+28481342	772	782	effects of	T080	C1704420
+28481342	783	792	mutations	T045	C0026882
+28481342	796	806	expression	T045	C0017262
+28481342	824	851	expression modulation score	T081	C0392762
+28481342	857	867	quantifies	T081	C1709793
+28481342	872	880	strength	T078	C0808080
+28481342	884	899	gene regulation	T045	C0017263
+28481342	925	944	regulatory elements	T028	C0017362
+28481342	970	978	elements	T028	C0017362
+28481342	1056	1078	single-cancer analysis	T059	C0022885
+28481342	1082	1103	noncoding alterations	T045	C0026882
+28481342	1115	1135	regulatory mutations	T045	C0026882
+28481342	1139	1149	candidates	T080	C0205556
+28481342	1154	1164	diagnostic	T201	C1511876
+28481342	1169	1187	prognostic markers	T080	C1514475
+28481342	1206	1216	mechanisms	T169	C0441712
+28481342	1221	1236	tumor evolution	T191	C0007621

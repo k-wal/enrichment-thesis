@@ -1,0 +1,76 @@
+27798730|t|Cost-effectiveness analysis of apatinib treatment for chemotherapy - refractory advanced gastric cancer
+27798730|a|Apatinib, a third-line or later treatment for advanced gastric cancer (aGC), was shown to improve overall survival and progression-free survival (PFS) compared with placebo in the phase III trial. Given the modest benefit with high costs, we further evaluated the cost-effectiveness of apatinib for patients with chemotherapy - refractory aGC. A Markov model was developed to simulate the disease process of aGC (PFS, progressive disease, and death) and estimate the incremental cost-effectiveness ratio (ICER) of apatinib to placebo. The health outcomes and utility scores were derived from the phase III trial and previously published sources, respectively. Total costs were calculated from the perspective of the Chinese health-care payer. Sensitivity analysis was used to explore model uncertainties. Treatment with apatinib was estimated to provide an incremental 0.09 quality-adjusted life years (QALYs) at an incremental cost of $8113.86 compared with placebo, which resulted in an ICER of $90,154.00 per QALY. Sensitivity analysis showed that across the wide variation of parameters, the ICER exceeded the willingness-to-pay threshold of $23,700.00 per QALY which was three times the Gross Domestic Product per Capita in China. Apatinib is not a cost-effective option for patients with aGC who experienced failure of at least two lines chemotherapy in China. However, for its positive clinical value and subliminal demand, apatinib can provide a new therapeutic option.
+27798730	0	27	Cost-effectiveness analysis	T057	C1511536
+27798730	31	39	apatinib	T121	C2346836
+27798730	40	49	treatment	T061	C0087111
+27798730	54	66	chemotherapy	T061	C3665472
+27798730	69	79	refractory	T169	C0205269
+27798730	80	103	advanced gastric cancer	T191	C0699791
+27798730	104	112	Apatinib	T121	C2346836
+27798730	116	126	third-line	T061	C2986605
+27798730	136	145	treatment	T061	C0087111
+27798730	150	173	advanced gastric cancer	T191	C0699791
+27798730	175	178	aGC	T191	C0699791
+27798730	202	218	overall survival	T081	C4086681
+27798730	223	248	progression-free survival	T081	C0242792
+27798730	250	253	PFS	T081	C0242792
+27798730	269	276	placebo	T061	C0032042
+27798730	284	299	phase III trial	T062	C0282461
+27798730	336	341	costs	T081	C0010186
+27798730	354	363	evaluated	T058	C0220825
+27798730	368	386	cost-effectiveness	T081	C0010181
+27798730	390	398	apatinib	T121	C2346836
+27798730	403	411	patients	T101	C0030705
+27798730	417	429	chemotherapy	T061	C3665472
+27798730	432	442	refractory	T169	C0205269
+27798730	443	446	aGC	T191	C0699791
+27798730	450	462	Markov model	T066	C0009609
+27798730	480	488	simulate	T062	C0679083
+27798730	493	500	disease	T047	C0012634
+27798730	501	508	process	T067	C1522240
+27798730	512	515	aGC	T191	C0699791
+27798730	517	520	PFS	T081	C0242792
+27798730	522	541	progressive disease	T047	C1335499
+27798730	547	552	death	T040	C0011065
+27798730	571	582	incremental	T081	C1705117
+27798730	583	601	cost-effectiveness	T081	C0010181
+27798730	602	607	ratio	T081	C0456603
+27798730	609	613	ICER	T081	C0456603
+27798730	618	626	apatinib	T121	C2346836
+27798730	630	637	placebo	T061	C0032042
+27798730	643	658	health outcomes	T170	C1550208
+27798730	663	670	utility	T169	C3669222
+27798730	671	677	scores	T081	C0449820
+27798730	700	715	phase III trial	T062	C0282461
+27798730	731	748	published sources	T170	C1704324
+27798730	770	775	costs	T081	C0010186
+27798730	820	845	Chinese health-care payer	T092	C2348942
+27798730	859	867	analysis	T062	C0936012
+27798730	888	893	model	T066	C0009609
+27798730	894	907	uncertainties	T033	C0087130
+27798730	909	918	Treatment	T061	C0087111
+27798730	924	932	apatinib	T121	C2346836
+27798730	961	972	incremental	T081	C1705117
+27798730	978	1005	quality-adjusted life years	T079	C0080071
+27798730	1007	1012	QALYs	T079	C0080071
+27798730	1020	1031	incremental	T081	C1705117
+27798730	1032	1036	cost	T081	C0010186
+27798730	1063	1070	placebo	T061	C0032042
+27798730	1093	1097	ICER	T081	C0456603
+27798730	1116	1120	QALY	T079	C0080071
+27798730	1134	1142	analysis	T062	C0936012
+27798730	1200	1204	ICER	T081	C0456603
+27798730	1265	1269	QALY	T079	C0080071
+27798730	1296	1318	Gross Domestic Product	T081	C2936646
+27798730	1333	1338	China	T083	C0008115
+27798730	1340	1348	Apatinib	T121	C2346836
+27798730	1358	1372	cost-effective	T081	C0010181
+27798730	1384	1392	patients	T101	C0030705
+27798730	1398	1401	aGC	T191	C0699791
+27798730	1418	1425	failure	T169	C0231174
+27798730	1448	1460	chemotherapy	T061	C3665472
+27798730	1464	1469	China	T083	C0008115
+27798730	1497	1505	clinical	T080	C0205210
+27798730	1516	1526	subliminal	T080	C0443151
+27798730	1535	1543	apatinib	T121	C2346836
+27798730	1562	1573	therapeutic	T061	C0087111

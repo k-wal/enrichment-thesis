@@ -1,0 +1,31 @@
+15099351|t|Mutations in the PCSK9 gene in Norwegian subjects with autosomal dominant hypercholesterolemia.
+15099351|a|Proprotein convertase subtilisin/kexin type 9 (PCSK9) is at a locus for autosomal dominant hypercholesterolemia, and recent data indicate that the PCSK9 gene is involved in cholesterol biosynthesis. Mutations within this gene have previously been found to segregate with hypercholesterolemia. In this study, DNA sequencing of the 12 exons of the PCSK9 gene has been performed in 51 Norwegian subjects with a clinical diagnosis of familial hypercholesterolemia where mutations in the low-density lipoprotein receptor gene and mutation R3500Q in the apolipoprotein B-100 gene had been excluded. Two novel missense mutations were detected in the catalytic subdomain of the PCSK9 gene. Two patients were heterozygotes for D374Y, and one patient was a double heterozygote for D374Y and N157K. D374Y segregated with hypercholesterolemia in the two former families where family members were available for study. Our findings support the notion that mutations in the PCSK9 gene cause autosomal dominant hypercholesterolemia.
+15099351	17	22	PCSK9	GeneOrGeneProduct	255738
+15099351	55	94	autosomal dominant hypercholesterolemia	DiseaseOrPhenotypicFeature	D006938
+15099351	96	141	Proprotein convertase subtilisin/kexin type 9	GeneOrGeneProduct	255738
+15099351	143	148	PCSK9	GeneOrGeneProduct	255738
+15099351	168	207	autosomal dominant hypercholesterolemia	DiseaseOrPhenotypicFeature	D006938
+15099351	243	248	PCSK9	GeneOrGeneProduct	255738
+15099351	269	280	cholesterol	ChemicalEntity	D002784
+15099351	367	387	hypercholesterolemia	DiseaseOrPhenotypicFeature	D006937
+15099351	442	447	PCSK9	GeneOrGeneProduct	255738
+15099351	526	555	familial hypercholesterolemia	DiseaseOrPhenotypicFeature	D006937
+15099351	579	611	low-density lipoprotein receptor	GeneOrGeneProduct	3949
+15099351	630	636	R3500Q	SequenceVariant	rs5742904
+15099351	644	664	apolipoprotein B-100	GeneOrGeneProduct	338
+15099351	766	771	PCSK9	GeneOrGeneProduct	255738
+15099351	782	790	patients	OrganismTaxon	9606
+15099351	814	819	D374Y	SequenceVariant	rs137852912
+15099351	829	836	patient	OrganismTaxon	9606
+15099351	867	872	D374Y	SequenceVariant	rs137852912
+15099351	877	882	N157K	SequenceVariant	rs143117125
+15099351	884	889	D374Y	SequenceVariant	rs137852912
+15099351	906	926	hypercholesterolemia	DiseaseOrPhenotypicFeature	D006937
+15099351	1055	1060	PCSK9	GeneOrGeneProduct	255738
+15099351	1072	1111	autosomal dominant hypercholesterolemia	DiseaseOrPhenotypicFeature	D006938
+15099351	Positive_Correlation	rs143117125	D006938	Novel
+15099351	Association	D006938	255738	Novel
+15099351	Association	255738	D002784	No
+15099351	Association	255738	D006937	No
+15099351	Positive_Correlation	rs137852912	D006938	Novel
+15099351	Association	D006937	rs137852912	Novel

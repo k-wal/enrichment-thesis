@@ -1,0 +1,104 @@
+27485594|t|Systematic Quantification of GPCR / cAMP - Controlled Protein Kinase A Interactions
+27485594|a|The diffusible second messenger cyclic AMP (cAMP) originates from multiple G protein-coupled receptor (GPCR) cascades activating the intracellular key effector protein kinase A (PKA). Spatially and temporally restricted cAMP - fluxes are directly sensed by macromolecular PKA complexes. The consequences are alterations of molecular interactions, which lead to activation of compartmentalized PKA phosphotransferase activities, regulating a vast array of cellular functions. To decode cell-type and cell-compartment specific PKA functions, the spatio-temporal dynamics of small molecule:protein interactions, protein:protein interactions (PPIs), cAMP - mobilization, and phosphotransferase activities need to be determined directly in the appropriate cellular context. A collection of cell-based reporters has been developed to either visualize or quantitatively measure kinase activities or PKA complex formation / dissociation. In this review, we list a collection of unimolecular and bimolecular PKA biosensors, followed by the specification of the modular design of a Renilla luciferase based protein-fragment complementation assay (PCA) platform for measuring PKA network interactions. We discuss the application spectrum of the PCA reporter to identify, quantify, and dissect dynamic and transient PKA complexes downstream of specific GPCR activities. We specify the implementation of a PCA PKA platform to systematically quantify the concurrent involvement of receptor - cAMP signaling, post-translational modifications, and kinase subunit mutations / perturbations in PKA activation. The systematic quantification of transient PKA network interactions will contribute to a better understanding how GPCR -recognized input signals are streamlined through the compartmentalized and cAMP - interacting PKA signalosome.
+27485594	0	10	Systematic	T169	C0220922
+27485594	11	25	Quantification	T081	C1709793
+27485594	29	33	GPCR	T116,T192	C0682972
+27485594	36	40	cAMP	T114,T121,T123	C0001455
+27485594	43	53	Controlled	T169	C2587213
+27485594	54	70	Protein Kinase A	T116,T126	C0033640
+27485594	71	83	Interactions	T044	C1148560
+27485594	88	98	diffusible	T082	C0205219
+27485594	99	115	second messenger	T123	C1508748
+27485594	116	126	cyclic AMP	T114,T121,T123	C0001455
+27485594	128	132	cAMP	T114,T121,T123	C0001455
+27485594	159	185	G protein-coupled receptor	T116,T192	C0682972
+27485594	187	191	GPCR	T116,T192	C0682972
+27485594	202	212	activating	T052	C1879547
+27485594	217	230	intracellular	T082	C0178719
+27485594	244	260	protein kinase A	T116,T126	C0033640
+27485594	262	265	PKA	T116,T126	C0033640
+27485594	268	277	Spatially	T082	C1254362
+27485594	282	292	temporally	T079	C1254367
+27485594	293	303	restricted	T169	C0443288
+27485594	304	308	cAMP	T114,T121,T123	C0001455
+27485594	311	317	fluxes	T070	C2348693
+27485594	341	355	macromolecular	T104	C0178735
+27485594	356	369	PKA complexes	T026	C3823671
+27485594	375	387	consequences	T169	C0686907
+27485594	392	403	alterations	T078	C1515926
+27485594	407	429	molecular interactions	T044	C1148560
+27485594	445	455	activation	T052	C1879547
+27485594	477	510	PKA phosphotransferase activities	T044	C2261493
+27485594	539	557	cellular functions	T043	C0007613
+27485594	569	578	cell-type	T170	C0449475
+27485594	583	599	cell-compartment	T017	C2349967
+27485594	609	612	PKA	T116,T126	C0033640
+27485594	628	652	spatio-temporal dynamics	T062	C3494293
+27485594	656	691	small molecule:protein interactions	T044	C1148560
+27485594	693	721	protein:protein interactions	T044	C0872079
+27485594	723	727	PPIs	T044	C0872079
+27485594	730	734	cAMP	T114,T121,T123	C0001455
+27485594	737	749	mobilization	T044	C1148560
+27485594	755	784	phosphotransferase activities	T044	C2261493
+27485594	835	851	cellular context	T080	C0010820
+27485594	855	865	collection	T169	C1516698
+27485594	869	889	cell-based reporters	T130	C1522485
+27485594	919	928	visualize	T169	C0234621
+27485594	932	946	quantitatively	T081	C0392762
+27485594	947	954	measure	T081	C0079809
+27485594	955	972	kinase activities	T044	C2261493
+27485594	976	987	PKA complex	T026	C3823671
+27485594	988	997	formation	T044	C1148560
+27485594	1000	1012	dissociation	T044	C1148560
+27485594	1040	1050	collection	T169	C1516698
+27485594	1054	1066	unimolecular	T080	C1521991
+27485594	1071	1082	bimolecular	T080	C1521991
+27485594	1083	1086	PKA	T116,T126	C0033640
+27485594	1087	1097	biosensors	T075	C0600364
+27485594	1136	1150	modular design	T052	C1707689
+27485594	1156	1174	Renilla luciferase	T116,T126,T130	C1450145
+27485594	1181	1219	protein-fragment complementation assay	T059	C0005507
+27485594	1221	1224	PCA	T059	C0005507
+27485594	1239	1248	measuring	T081	C0079809
+27485594	1249	1252	PKA	T116,T126	C0033640
+27485594	1249	1252	PKA	T116,T126	C0033640
+27485594	1253	1273	network interactions	T044	C1148560
+27485594	1302	1310	spectrum	T059	C0037812
+27485594	1318	1321	PCA	T059	C0005507
+27485594	1322	1330	reporter	T130	C1522485
+27485594	1334	1342	identify	T033	C0243095
+27485594	1344	1352	quantify	T081	C1709793
+27485594	1358	1373	dissect dynamic	T169	C0729333
+27485594	1378	1387	transient	T079	C0205374
+27485594	1388	1391	PKA	T116,T126	C0033640
+27485594	1388	1401	PKA complexes	T026	C3823671
+27485594	1402	1412	downstream	T082	C0522506
+27485594	1425	1429	GPCR	T116,T192	C0682972
+27485594	1430	1440	activities	T052	C0441655
+27485594	1457	1471	implementation	T052	C1708476
+27485594	1477	1480	PCA	T059	C0005507
+27485594	1481	1484	PKA	T116,T126	C0033640
+27485594	1481	1484	PKA	T116,T126	C0033640
+27485594	1497	1511	systematically	T169	C0220922
+27485594	1512	1520	quantify	T081	C1709793
+27485594	1525	1535	concurrent	T079	C0205420
+27485594	1536	1547	involvement	T169	C1314939
+27485594	1551	1559	receptor	T116,T192	C0597357
+27485594	1562	1576	cAMP signaling	T044	C1155589
+27485594	1578	1610	post-translational modifications	T044	C0033666
+27485594	1616	1630	kinase subunit	T116,T126	C1956042
+27485594	1631	1640	mutations	T045	C0026882
+27485594	1643	1656	perturbations	T169	C0332453
+27485594	1660	1674	PKA activation	T043	C1819041
+27485594	1680	1690	systematic	T169	C0220922
+27485594	1691	1705	quantification	T081	C1709793
+27485594	1709	1718	transient	T079	C0205374
+27485594	1719	1722	PKA	T116,T126	C0033640
+27485594	1723	1730	network	T044	C1148560
+27485594	1731	1743	interactions	T169	C1704675
+27485594	1790	1794	GPCR	T116,T192	C0682972
+27485594	1813	1820	signals	T038	C3537152
+27485594	1871	1875	cAMP	T114,T121,T123	C0001455
+27485594	1878	1889	interacting	T169	C1704675
+27485594	1890	1893	PKA	T116,T126	C0033640
+27485594	1894	1905	signalosome	T026	C1167160

@@ -1,0 +1,61 @@
+27884960|t|Can inorganic phosphate explain sag during unfused tetanic contractions of skeletal muscle?
+27884960|a|We test the hypothesis that cytosolic inorganic phosphate (Pi) can account for the contraction - induced reductions in twitch duration which impair summation and cause force to decline (sag) during unfused tetanic contractions of fast-twitch muscle. A five-state model of crossbridge cycling was used to simulate twitch and unfused tetanic contractions. As Pi concentration ([Pi]) was increased from 0 to 30 mmol·L(-1), twitch duration decreased, with progressive reductions in sensitivity to Pi as [Pi] was increased. When unfused tetani were simulated with rising [Pi], sag was most pronounced when initial [Pi] was low, and when the magnitude of [Pi] increase was large. Fast-twitch extensor digitorum longus (EDL) muscles (sag-prone, typically low basal [Pi]) and slow-twitch soleus muscles (sag - resistant, typically high basal [Pi]) were isolated from 14 female C57BL/6 mice. Muscles were sequentially incubated in solutions containing either glucose or pyruvate to create typical and low Pi environments, respectively. Twitch duration was greater (P < 0.05) in pyruvate than glucose in both muscles. Stimuli applied at intervals approximately three times the time to peak twitch tension resulted in sag of 35.0 ± 3.7% in glucose and 50.5 ± 1.4% in pyruvate in the EDL (pyruvate > glucose; P < 0.05), and 3.9 ± 0.3% in glucose and 37.8 ± 2.7% in pyruvate in the soleus (pyruvate > glucose; P < 0.05). The influence of Pi on crossbridge cycling provides a tenable mechanism for sag. Moreover, the low basal [Pi] in fast-twitch relative to slow-twitch muscle has promise as an explanation for the fiber-type dependency of sag.
+27884960	4	23	inorganic phosphate	T103	UMLS:C0031603
+27884960	51	71	tetanic contractions	T038	UMLS:C0026820
+27884960	75	90	skeletal muscle	T017	UMLS:C0242692
+27884960	120	129	cytosolic	T017	UMLS:C1383501
+27884960	130	149	inorganic phosphate	T103	UMLS:C0031603
+27884960	151	153	Pi	T103	UMLS:C0031603
+27884960	175	186	contraction	T038	UMLS:C0026820
+27884960	211	217	twitch	T033	UMLS:C0231530
+27884960	298	318	tetanic contractions	T038	UMLS:C0026820
+27884960	322	340	fast-twitch muscle	T017	UMLS:C0242873
+27884960	364	383	crossbridge cycling	T038	UMLS:C2265877
+27884960	405	411	twitch	T033	UMLS:C0231530
+27884960	424	444	tetanic contractions	T038	UMLS:C0026820
+27884960	449	451	Pi	T103	UMLS:C0031603
+27884960	468	470	Pi	T103	UMLS:C0031603
+27884960	512	518	twitch	T033	UMLS:C0231530
+27884960	556	566	reductions	T058	UMLS:C0441610
+27884960	585	587	Pi	T103	UMLS:C0031603
+27884960	592	594	Pi	T103	UMLS:C0031603
+27884960	636	645	simulated	T062	UMLS:C0679083
+27884960	659	661	Pi	T103	UMLS:C0031603
+27884960	702	704	Pi	T103	UMLS:C0031603
+27884960	742	744	Pi	T103	UMLS:C0031603
+27884960	766	777	Fast-twitch	T033	UMLS:C0231530
+27884960	778	817	extensor digitorum longus (EDL) muscles	T017	UMLS:C0224464
+27884960	851	853	Pi	T103	UMLS:C0031603
+27884960	860	871	slow-twitch	T033	UMLS:C0231530
+27884960	872	886	soleus muscles	T017	UMLS:C0242694
+27884960	894	903	resistant	T038	UMLS:C1514892
+27884960	927	929	Pi	T103	UMLS:C0031603
+27884960	961	973	C57BL/6 mice	T204	UMLS:C1521751
+27884960	975	982	Muscles	T017	UMLS:C0026845
+27884960	1001	1010	incubated	T058	UMLS:C1439852
+27884960	1042	1049	glucose	T103	UMLS:C0017725
+27884960	1053	1061	pyruvate	T103	UMLS:C0244104
+27884960	1088	1090	Pi	T103	UMLS:C0031603
+27884960	1091	1103	environments	T082	UMLS:C0014406
+27884960	1119	1125	Twitch	T033	UMLS:C0231530
+27884960	1161	1169	pyruvate	T103	UMLS:C0244104
+27884960	1175	1182	glucose	T103	UMLS:C0017725
+27884960	1191	1198	muscles	T017	UMLS:C0026845
+27884960	1272	1278	twitch	T033	UMLS:C0231530
+27884960	1321	1328	glucose	T103	UMLS:C0017725
+27884960	1348	1356	pyruvate	T103	UMLS:C0244104
+27884960	1364	1367	EDL	T017	UMLS:C0224464
+27884960	1369	1377	pyruvate	T103	UMLS:C0244104
+27884960	1380	1387	glucose	T103	UMLS:C0017725
+27884960	1418	1425	glucose	T103	UMLS:C0017725
+27884960	1445	1453	pyruvate	T103	UMLS:C0244104
+27884960	1461	1467	soleus	T017	UMLS:C0242694
+27884960	1469	1477	pyruvate	T103	UMLS:C0244104
+27884960	1480	1487	glucose	T103	UMLS:C0017725
+27884960	1517	1519	Pi	T103	UMLS:C0031603
+27884960	1523	1542	crossbridge cycling	T038	UMLS:C2265877
+27884960	1606	1608	Pi	T103	UMLS:C0031603
+27884960	1613	1624	fast-twitch	T033	UMLS:C0231530
+27884960	1637	1655	slow-twitch muscle	T033	UMLS:C0231530
+27884960	1674	1685	explanation	T170	UMLS:C0681841
+27884960	1694	1704	fiber-type	T017	UMLS:C0242697

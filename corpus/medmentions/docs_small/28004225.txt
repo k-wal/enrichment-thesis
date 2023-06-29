@@ -1,0 +1,35 @@
+28004225|t|Modeling viscous dissipation during vocal fold contact: the influence of tissue viscosity and thickness with implications for hydration
+28004225|a|The mechanics of vocal fold contact during phonation is known to play a crucial role in both normal and pathological speech production, though the underlying physics is not well understood. Herein, a viscoelastic model of the stresses during vocal fold contact is developed. This model assumes the cover to be a poroelastic structure wherein interstitial fluid translocates in response to mechanical squeezing. The maximum interstitial fluid pressure is found to generally increase with decreasing viscous dissipation and/or decreasing tissue elasticity. A global minimum in the total contact stress, comprising interstitial fluid pressure and elastic stress in the tissue, is observed over the studied dimensionless parameter range. Interestingly, physiologically reasonable estimates for the governing parameters fall within this global minimum region. The model is validated against prior experimental and computational work, wherein the predicted contact stress magnitude and impact duration agree well with published results. Lastly, observations of the potential relationship between vocal fold hydration and increased risk of tissue damage are discussed based upon model predictions of stress as functions of cover layer thickness and viscosity.
+28004225	0	8	Modeling	T062	UMLS:C0870071
+28004225	9	28	viscous dissipation	T038	UMLS:C1662975
+28004225	36	46	vocal fold	T017	UMLS:C0042930
+28004225	73	79	tissue	T017	UMLS:C0040300
+28004225	126	135	hydration	T033	UMLS:C1321013
+28004225	153	163	vocal fold	T017	UMLS:C0042930
+28004225	179	188	phonation	T038	UMLS:C0031577
+28004225	253	270	speech production	T038	UMLS:C0037817
+28004225	336	354	viscoelastic model	T170	UMLS:C3161035
+28004225	362	370	stresses	T033	UMLS:C4270731
+28004225	378	388	vocal fold	T017	UMLS:C0042930
+28004225	416	421	model	T170	UMLS:C3161035
+28004225	434	439	cover	T017	UMLS:C0507777
+28004225	478	496	interstitial fluid	T031	UMLS:C0162367
+28004225	559	577	interstitial fluid	T031	UMLS:C0162367
+28004225	623	633	decreasing	T033	UMLS:C0442797
+28004225	634	653	viscous dissipation	T038	UMLS:C1662975
+28004225	661	671	decreasing	T033	UMLS:C0442797
+28004225	672	689	tissue elasticity	T033	UMLS:C1562328
+28004225	715	735	total contact stress	T033	UMLS:C4270731
+28004225	748	766	interstitial fluid	T031	UMLS:C0162367
+28004225	802	808	tissue	T017	UMLS:C0040300
+28004225	940	950	parameters	T033	UMLS:C0449381
+28004225	995	1000	model	T170	UMLS:C3161035
+28004225	1087	1101	contact stress	T033	UMLS:C4270731
+28004225	1175	1187	observations	T062	UMLS:C0302523
+28004225	1226	1236	vocal fold	T017	UMLS:C0042930
+28004225	1237	1246	hydration	T033	UMLS:C1321013
+28004225	1269	1282	tissue damage	T037	UMLS:C0010957
+28004225	1308	1313	model	T170	UMLS:C3161035
+28004225	1329	1335	stress	T033	UMLS:C4270731
+28004225	1352	1357	cover	T017	UMLS:C0507777
+28004225	1358	1363	layer	T017	UMLS:C0934502

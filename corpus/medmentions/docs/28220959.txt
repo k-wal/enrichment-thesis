@@ -1,0 +1,93 @@
+28220959|t|Evaluating clinical, dietary and psychological risk factors for relapse of ulcerative colitis in clinical, endoscopic and histological remission
+28220959|a|The literature on possible factors that could trigger a relapse in patients with ulcerative colitis (UC) in clinical, endoscopic and histological remission on long term follow up is scarce. To determine the relapse rate in patients with UC in clinical, endoscopic and histological remission and identify factors that may influence the risk of relapse. Patients with UC in clinical, endoscopic and histological remission were enrolled between January-July 2010 and followed up for 1 year to determine the effect of clinical, dietary and psychological factors on relapse. Information regarding factors that may affect relapse such as infection, antibiotic or NSAIDs use and any other factor which the patient felt important, and compliance with medications was obtained. 97 patients (59 males, mean age 39 + 11.9 years) were followed up for a mean duration of 9 + 2.3 months. 18(18.6%) relapsed with the median time to relapse being 3.5 months. On univariate analysis more relapsers had significantly higher NSAIDs use within 15 days of relapse, respiratory tract infection within 4 weeks, use of steroids more than once in past, higher consumption of calcium, riboflavin, vitamin A and lower consumption of sugars. On multivariate analysis, NSAIDs use [HR(95%CI):6.41(1.88-21.9)]and intake of Vitamin A [HR(95%CI):1.008(1.000-1.016)] were statistically significant predictors of relapse. With a relapse rate of 18.6% over a follow up of 9 months in patients with UC in clinical, endoscopic and histological remission, independent predictors of relapse were history of NSAIDs use within 15 days of relapse and higher intake of Vitamin A.
+28220959	11	19	clinical	T080	C0205210
+28220959	21	28	dietary	T168	C0012155
+28220959	33	46	psychological	T169	C0205486
+28220959	47	59	risk factors	T033	C0035648
+28220959	64	71	relapse	T067	C0035020
+28220959	75	93	ulcerative colitis	T047	C0009324
+28220959	97	105	clinical	T080	C0205210
+28220959	107	117	endoscopic	T082	C0442418
+28220959	122	134	histological	T169	C0205462
+28220959	135	144	remission	T046	C0597370
+28220959	201	208	relapse	T067	C0035020
+28220959	212	220	patients	T101	C0030705
+28220959	226	244	ulcerative colitis	T047	C0009324
+28220959	246	248	UC	T047	C0009324
+28220959	253	261	clinical	T080	C0205210
+28220959	263	273	endoscopic	T082	C0442418
+28220959	278	290	histological	T169	C0205462
+28220959	291	300	remission	T046	C0597370
+28220959	314	323	follow up	T058	C1522577
+28220959	352	359	relapse	T067	C0035020
+28220959	368	376	patients	T101	C0030705
+28220959	382	384	UC	T047	C0009324
+28220959	388	396	clinical	T080	C0205210
+28220959	398	408	endoscopic	T082	C0442418
+28220959	413	425	histological	T169	C0205462
+28220959	426	435	remission	T046	C0597370
+28220959	480	484	risk	T078	C0035647
+28220959	488	495	relapse	T067	C0035020
+28220959	497	505	Patients	T101	C0030705
+28220959	511	513	UC	T047	C0009324
+28220959	517	525	clinical	T080	C0205210
+28220959	527	537	endoscopic	T082	C0442418
+28220959	542	554	histological	T169	C0205462
+28220959	555	564	remission	T046	C0597370
+28220959	609	620	followed up	T058	C1522577
+28220959	627	631	year	T079	C0439234
+28220959	659	667	clinical	T080	C0205210
+28220959	669	676	dietary	T168	C0012155
+28220959	681	694	psychological	T169	C0205486
+28220959	695	702	factors	T033	C0035648
+28220959	706	713	relapse	T067	C0035020
+28220959	761	768	relapse	T067	C0035020
+28220959	777	786	infection	T046	C3714514
+28220959	788	798	antibiotic	T195	C0003232
+28220959	802	808	NSAIDs	T121	C0003211
+28220959	844	851	patient	T101	C0030705
+28220959	872	882	compliance	T055	C1321605
+28220959	888	899	medications	T058	C2081612
+28220959	917	925	patients	T101	C0030705
+28220959	930	935	males	T098	C0025266
+28220959	942	945	age	T032	C0001779
+28220959	956	961	years	T079	C0439234
+28220959	968	979	followed up	T058	C1522577
+28220959	1011	1017	months	T079	C0439231
+28220959	1029	1037	relapsed	T067	C0035020
+28220959	1062	1069	relapse	T067	C0035020
+28220959	1080	1086	months	T079	C0439231
+28220959	1091	1110	univariate analysis	T062	C0683962
+28220959	1151	1157	NSAIDs	T121	C0003211
+28220959	1172	1176	days	T079	C0439228
+28220959	1180	1187	relapse	T067	C0035020
+28220959	1189	1216	respiratory tract infection	T047	C0035243
+28220959	1226	1231	weeks	T079	C0439230
+28220959	1240	1248	steroids	T109	C0038317
+28220959	1280	1291	consumption	T039	C1947907
+28220959	1295	1302	calcium	T121,T123,T196	C0006675
+28220959	1304	1314	riboflavin	T109,T121,T127	C0035527
+28220959	1316	1325	vitamin A	T109,T121,T127	C0042839
+28220959	1336	1347	consumption	T039	C1947907
+28220959	1351	1357	sugars	T109,T121	C0242209
+28220959	1362	1383	multivariate analysis	T081	C0026777
+28220959	1385	1391	NSAIDs	T121	C0003211
+28220959	1427	1433	intake	T169	C1512806
+28220959	1437	1446	Vitamin A	T109,T121,T127	C0042839
+28220959	1509	1519	predictors	T078	C2698872
+28220959	1523	1530	relapse	T067	C0035020
+28220959	1539	1546	relapse	T067	C0035020
+28220959	1568	1577	follow up	T058	C1522577
+28220959	1583	1589	months	T079	C0439231
+28220959	1593	1601	patients	T101	C0030705
+28220959	1607	1609	UC	T047	C0009324
+28220959	1613	1621	clinical	T080	C0205210
+28220959	1623	1633	endoscopic	T082	C0442418
+28220959	1638	1650	histological	T169	C0205462
+28220959	1651	1660	remission	T046	C0597370
+28220959	1674	1684	predictors	T078	C2698872
+28220959	1688	1695	relapse	T067	C0035020
+28220959	1712	1718	NSAIDs	T121	C0003211
+28220959	1733	1737	days	T079	C0439228
+28220959	1741	1748	relapse	T067	C0035020
+28220959	1770	1779	Vitamin A	T109,T121,T127	C0042839

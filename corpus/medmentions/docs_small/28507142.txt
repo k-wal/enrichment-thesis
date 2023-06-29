@@ -1,0 +1,58 @@
+28507142|t|Quantitative assessment of passive electrical properties of the cardiac T-tubular system by FRAP microscopy
+28507142|a|Well-coordinated activation of all cardiomyocytes must occur on every heartbeat. At the cell level, a complex network of sarcolemmal invaginations, called the transverse-axial tubular system (TATS), propagates membrane potential changes to the cell core, ensuring synchronous and uniform excitation-contraction coupling. Although myocardial conduction of excitation has been widely described, the electrical properties of the TATS remain mostly unknown. Here, we exploit the formal analogy between diffusion and electrical conductivity to link the latter with the diffusional properties of TATS. Fluorescence recovery after photobleaching (FRAP) microscopy is used to probe the diffusion properties of TATS in isolated rat cardiomyocytes: A fluorescent dextran inside TATS lumen is photobleached, and signal recovery by diffusion of unbleached dextran from the extracellular space is monitored. We designed a mathematical model to correlate the time constant of fluorescence recovery with the apparent diffusion coefficient of the fluorescent molecules. Then, apparent diffusion is linked to electrical conductivity and used to evaluate the efficiency of the passive spread of membrane depolarization along TATS. The method is first validated in cells where most TATS elements are acutely detached by osmotic shock and then applied to probe TATS electrical conductivity in failing heart cells. We find that acute and pathological tubular remodeling significantly affect TATS electrical conductivity. This may explain the occurrence of defects in action potential propagation at the level of single T-tubules, recently observed in diseased cardiomyocytes.
+28507142	13	23	assessment	T058	UMLS:C0220825
+28507142	46	56	properties	T038	UMLS:C0231493
+28507142	64	88	cardiac T-tubular system	T022	UMLS:C0018796
+28507142	92	96	FRAP	T058	UMLS:C1138405
+28507142	97	107	microscopy	T058	UMLS:C0026018
+28507142	143	157	cardiomyocytes	T017	UMLS:C0225828
+28507142	178	187	heartbeat	T038	UMLS:C0425583
+28507142	196	200	cell	T017	UMLS:C0007634
+28507142	229	240	sarcolemmal	T017	UMLS:C0036208
+28507142	241	254	invaginations	T017	UMLS:C0221224
+28507142	267	298	transverse-axial tubular system	T017	UMLS:C1179122
+28507142	300	304	TATS	T017	UMLS:C1179122
+28507142	307	317	propagates	T038	UMLS:C4236672
+28507142	318	336	membrane potential	T038	UMLS:C0025251
+28507142	352	356	cell	T017	UMLS:C0007634
+28507142	357	361	core	T082	UMLS:C0444669
+28507142	396	427	excitation-contraction coupling	T038	UMLS:C2717948
+28507142	438	448	myocardial	T017	UMLS:C0027061
+28507142	449	459	conduction	T038	UMLS:C0232217
+28507142	516	526	properties	T038	UMLS:C0231493
+28507142	534	538	TATS	T017	UMLS:C1179122
+28507142	684	694	properties	T038	UMLS:C0231493
+28507142	698	702	TATS	T017	UMLS:C1179122
+28507142	704	746	Fluorescence recovery after photobleaching	T058	UMLS:C1138405
+28507142	748	752	FRAP	T058	UMLS:C1138405
+28507142	754	764	microscopy	T058	UMLS:C0026018
+28507142	776	781	probe	T062	UMLS:C0936012
+28507142	796	806	properties	T038	UMLS:C0231493
+28507142	810	814	TATS	T017	UMLS:C1179122
+28507142	827	830	rat	T204	UMLS:C0034693
+28507142	831	845	cardiomyocytes	T017	UMLS:C0225828
+28507142	849	868	fluorescent dextran	T103	UMLS:C0021212
+28507142	876	880	TATS	T017	UMLS:C1179122
+28507142	881	886	lumen	T082	UMLS:C0524461
+28507142	952	959	dextran	T103	UMLS:C0021212
+28507142	969	988	extracellular space	T082	UMLS:C0015352
+28507142	992	1001	monitored	T058	UMLS:C1283169
+28507142	1017	1035	mathematical model	T170	UMLS:C0876936
+28507142	1070	1091	fluorescence recovery	T058	UMLS:C1138405
+28507142	1139	1160	fluorescent molecules	T103	UMLS:C0016320
+28507142	1236	1244	evaluate	T058	UMLS:C0220825
+28507142	1285	1308	membrane depolarization	T038	UMLS:C1816453
+28507142	1315	1319	TATS	T017	UMLS:C1179122
+28507142	1354	1359	cells	T017	UMLS:C0007634
+28507142	1371	1375	TATS	T017	UMLS:C1179122
+28507142	1443	1448	probe	T103	UMLS:C2347609
+28507142	1449	1453	TATS	T017	UMLS:C1179122
+28507142	1489	1500	heart cells	T017	UMLS:C0920751
+28507142	1525	1537	pathological	T038	UMLS:C0030660
+28507142	1538	1545	tubular	T017	UMLS:C1179122
+28507142	1546	1556	remodeling	T038	UMLS:C1820201
+28507142	1578	1582	TATS	T017	UMLS:C1179122
+28507142	1654	1682	action potential propagation	T038	UMLS:C4236672
+28507142	1699	1715	single T-tubules	T017	UMLS:C1179122
+28507142	1738	1746	diseased	T038	UMLS:C0012634
+28507142	1747	1761	cardiomyocytes	T017	UMLS:C0225828

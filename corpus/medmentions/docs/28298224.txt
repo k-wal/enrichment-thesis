@@ -1,0 +1,79 @@
+28298224|t|Transcriptional reprogramming in yeast using dCas9 and combinatorial gRNA strategies
+28298224|a|Transcriptional reprogramming is a fundamental process of living cells in order to adapt to environmental and endogenous cues. In order to allow flexible and timely control over gene expression without the interference of native gene expression machinery, a large number of studies have focused on developing synthetic biology tools for orthogonal control of transcription. Most recently, the nuclease-deficient Cas9 (dCas9) has emerged as a flexible tool for controlling activation and repression of target genes, by the simple RNA-guided positioning of dCas9 in the vicinity of the target gene transcription start site. In this study we compared two different systems of dCas9 -mediated transcriptional reprogramming, and applied them to genes controlling two biosynthetic pathways for biobased production of isoprenoids and triacylglycerols (TAGs) in baker's yeast Saccharomyces cerevisiae. By testing 101 guide-RNA (gRNA) structures on a total of 14 different yeast promoters, we identified the best-performing combinations based on reporter assays. Though a larger number of gRNA - promoter combinations do not perturb gene expression, some gRNAs support expression perturbations up to ~threefold. The best-performing gRNAs were used for single and multiplex reprogramming strategies for redirecting flux related to isoprenoid production and optimization of TAG profiles. From these studies, we identified both constitutive and inducible multiplex reprogramming strategies enabling significant changes in isoprenoid production and increases in TAG. Taken together, we show similar performance for a constitutive and an inducible dCas9 approach, and identify multiplex gRNA designs that can significantly perturb isoprenoid production and TAG profiles in yeast without editing the genomic context of the target genes. We also identify a large number of gRNA positions in 14 native yeast target pomoters that do not affect expression, suggesting the need for further optimization of gRNA design tools and dCas9 engineering.
+28298224	0	29	Transcriptional reprogramming	T043	C3850096
+28298224	33	38	yeast	T004	C0043393
+28298224	45	50	dCas9	T116,T123	C0033684
+28298224	69	73	gRNA	T114,T123	C0082774
+28298224	85	114	Transcriptional reprogramming	T043	C3850096
+28298224	143	155	living cells	T025	C0007634
+28298224	177	190	environmental	T082	C0014406
+28298224	195	205	endogenous	T169	C0205227
+28298224	206	210	cues	T078	C0010439
+28298224	250	257	control	T169	C2587213
+28298224	263	278	gene expression	T045	C0017262
+28298224	291	303	interference	T169	C0521102
+28298224	307	339	native gene expression machinery	T045	C1517486
+28298224	394	411	synthetic biology	T090	C2936469
+28298224	412	417	tools	T169	C0449851
+28298224	433	440	control	T169	C2587213
+28298224	444	457	transcription	T045	C0040649
+28298224	478	501	nuclease-deficient Cas9	T116,T123	C0033684
+28298224	503	508	dCas9	T116,T123	C0033684
+28298224	545	556	controlling	T169	C2587213
+28298224	557	567	activation	T052	C1879547
+28298224	572	582	repression	T045	C0178656
+28298224	586	598	target genes	T028	C0017337
+28298224	614	624	RNA-guided	T114,T123	C0082774
+28298224	640	645	dCas9	T116,T123	C0033684
+28298224	669	705	target gene transcription start site	T114,T123	C0949639
+28298224	715	720	study	T062	C2603343
+28298224	758	763	dCas9	T116,T123	C0033684
+28298224	774	803	transcriptional reprogramming	T043	C3850096
+28298224	825	830	genes	T028	C0017337
+28298224	831	842	controlling	T169	C2587213
+28298224	847	868	biosynthetic pathways	T044	C1721101
+28298224	896	907	isoprenoids	T109	C0682996
+28298224	912	928	triacylglycerols	T109,T123	C0041004
+28298224	930	934	TAGs	T109,T123	C0041004
+28298224	939	952	baker's yeast	T004	C0036025
+28298224	953	977	Saccharomyces cerevisiae	T004	C0036025
+28298224	994	1003	guide-RNA	T114,T123	C0082774
+28298224	1005	1009	gRNA	T114,T123	C0082774
+28298224	1049	1054	yeast	T004	C0043393
+28298224	1055	1064	promoters	T114,T123	C0086860
+28298224	1100	1112	combinations	T080	C0205195
+28298224	1131	1137	assays	T059	C0005507
+28298224	1165	1169	gRNA	T114,T123	C0082774
+28298224	1172	1180	promoter	T114,T123	C0086860
+28298224	1181	1193	combinations	T080	C0205195
+28298224	1201	1208	perturb	T169	C0332453
+28298224	1209	1224	gene expression	T045	C0017262
+28298224	1231	1236	gRNAs	T114,T123	C0082774
+28298224	1245	1255	expression	T045	C0017262
+28298224	1256	1269	perturbations	T169	C0332453
+28298224	1308	1313	gRNAs	T114,T123	C0082774
+28298224	1328	1334	single	T043	C3850096
+28298224	1339	1362	multiplex reprogramming	T043	C3850096
+28298224	1390	1394	flux	T070	C2348693
+28298224	1406	1416	isoprenoid	T109	C0682996
+28298224	1432	1444	optimization	T052	C2698650
+28298224	1448	1451	TAG	T109,T123	C0041004
+28298224	1528	1551	multiplex reprogramming	T043	C3850096
+28298224	1595	1605	isoprenoid	T109	C0682996
+28298224	1634	1637	TAG	T109,T123	C0041004
+28298224	1671	1682	performance	T052	C1882330
+28298224	1719	1724	dCas9	T116,T123	C0033684
+28298224	1748	1762	multiplex gRNA	T114,T123	C0082774
+28298224	1794	1801	perturb	T169	C0332453
+28298224	1802	1812	isoprenoid	T109	C0682996
+28298224	1828	1831	TAG	T109,T123	C0041004
+28298224	1844	1849	yeast	T004	C0043393
+28298224	1870	1877	genomic	T028	C0017428
+28298224	1893	1905	target genes	T028	C0017337
+28298224	1942	1946	gRNA	T114,T123	C0082774
+28298224	1970	1975	yeast	T004	C0043393
+28298224	1983	1991	pomoters	T114,T123	C0086860
+28298224	2011	2021	expression	T045	C0017262
+28298224	2055	2067	optimization	T052	C2698650
+28298224	2071	2075	gRNA	T114,T123	C0082774
+28298224	2093	2110	dCas9 engineering	T063	C0017387

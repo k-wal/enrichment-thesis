@@ -1,0 +1,90 @@
+27321599|t|Antipsychotic Drugs and Risk of Hip Fracture in People Aged 60 and Older in Norway
+27321599|a|To examine associations between exposure to various subgroups of antipsychotic drugs and risk of hip fracture in older adults. Nationwide cohort study. Norway, 2005-2010. Everyone living in Norway born before 1945 (N = 906,422). Information was obtained on all prescriptions of antipsychotic drugs dispensed from 2004 to 2010 (Norwegian Prescription Database) and data on all primary hip fractures from 2005 to 2010 (Norwegian Hip Fracture Registry). Incidence rates of hip fracture during person-time exposed and unexposed to antipsychotic drugs were compared by calculating the standardized incidence ratio (SIR). Thirty-nine thousand nine hundred thirty-eight (4.4%) participants experienced a primary hip fracture. Greater risk of hip fracture was associated with exposure to any antipsychotic (SIR = 2.1, 95% confidence interval (CI) = 1.9-2.1), first-generation antipsychotics (SIR = 2.0, 95% CI = 1.8-2.2), second-generation antipsychotics (SIR = 2.2, 95% CI = 1.9-2.4), prolactin -sparing antipsychotics (SIR = 2.4, 95% CI = 1.8-3.1) and prolactin -elevating antipsychotics (SIR = 2.0, 95% CI = 1.9-2.2). In people aged 60 and older in Norway, those who took an antipsychotic drug had twice the risk of sustaining a hip fracture during exposure than during nonexposure. Although confounding by indication, comorbidity, or other drugs used cannot be excluded, this association is relevant for clinical practice because hip fracture and antipsychotic drug use are prevalent in vulnerable older individuals. Clinical studies examining mechanisms or causality of the observed association between antipsychotic drug use and excess risk of hip fracture are needed.
+27321599	0	19	Antipsychotic Drugs	T121	C0040615
+27321599	24	31	Risk of	T078	C0035647
+27321599	32	44	Hip Fracture	T037	C0019557
+27321599	48	54	People	T098	C0027361
+27321599	55	59	Aged	T032	C0001779
+27321599	67	72	Older	T098	C0001792
+27321599	76	82	Norway	T083	C0028423
+27321599	94	106	associations	T080	C0439849
+27321599	115	123	exposure	T080	C0332157
+27321599	148	167	antipsychotic drugs	T121	C0040615
+27321599	172	179	risk of	T078	C0035647
+27321599	180	192	hip fracture	T037	C0019557
+27321599	196	201	older	T098	C0001792
+27321599	202	208	adults	T100	C0001675
+27321599	221	233	cohort study	T081	C0009247
+27321599	235	241	Norway	T083	C0028423
+27321599	273	279	Norway	T083	C0028423
+27321599	312	323	Information	T078	C1533716
+27321599	344	357	prescriptions	T170	C0033081
+27321599	361	380	antipsychotic drugs	T121	C0040615
+27321599	410	441	Norwegian Prescription Database	T170	C0242356
+27321599	447	451	data	T078	C1511726
+27321599	459	466	primary	T080	C0205225
+27321599	467	480	hip fractures	T037	C0019557
+27321599	500	531	Norwegian Hip Fracture Registry	T170	C0282574
+27321599	534	549	Incidence rates	T081	C1708485
+27321599	553	565	hip fracture	T037	C0019557
+27321599	566	572	during	T079	C0347984
+27321599	585	592	exposed	T080	C0332157
+27321599	610	629	antipsychotic drugs	T121	C0040615
+27321599	635	643	compared	T052	C1707455
+27321599	647	658	calculating	T052	C1441506
+27321599	663	691	standardized incidence ratio	T081	C0456603
+27321599	693	696	SIR	T081	C0456603
+27321599	753	765	participants	T098	C0679646
+27321599	780	787	primary	T080	C0205225
+27321599	788	800	hip fracture	T037	C0019557
+27321599	810	817	risk of	T078	C0035647
+27321599	818	830	hip fracture	T037	C0019557
+27321599	835	850	associated with	T080	C0332281
+27321599	851	859	exposure	T080	C0332157
+27321599	867	880	antipsychotic	T121	C0040615
+27321599	882	885	SIR	T081	C0456603
+27321599	897	916	confidence interval	T081	C0009667
+27321599	918	920	CI	T081	C0009667
+27321599	934	950	first-generation	T185	C0008902
+27321599	951	965	antipsychotics	T121	C0040615
+27321599	967	970	SIR	T081	C0456603
+27321599	982	984	CI	T081	C0009667
+27321599	997	1014	second-generation	T185	C0008902
+27321599	1015	1029	antipsychotics	T121	C0040615
+27321599	1031	1034	SIR	T081	C0456603
+27321599	1046	1048	CI	T081	C0009667
+27321599	1061	1070	prolactin	T116,T121,T125	C0033371
+27321599	1080	1094	antipsychotics	T121	C0040615
+27321599	1096	1099	SIR	T081	C0456603
+27321599	1111	1113	CI	T081	C0009667
+27321599	1129	1138	prolactin	T116,T121,T125	C0033371
+27321599	1150	1164	antipsychotics	T121	C0040615
+27321599	1166	1169	SIR	T081	C0456603
+27321599	1181	1183	CI	T081	C0009667
+27321599	1199	1205	people	T098	C0027361
+27321599	1206	1210	aged	T032	C0001779
+27321599	1218	1223	older	T098	C0001792
+27321599	1227	1233	Norway	T083	C0028423
+27321599	1253	1271	antipsychotic drug	T121	C0040615
+27321599	1286	1293	risk of	T078	C0035647
+27321599	1307	1319	hip fracture	T037	C0019557
+27321599	1327	1335	exposure	T080	C0332157
+27321599	1370	1381	confounding	T169	C0009673
+27321599	1385	1395	indication	T078	C3146298
+27321599	1397	1408	comorbidity	T078	C0009488
+27321599	1419	1424	drugs	T121	C0013227
+27321599	1455	1466	association	T080	C0439849
+27321599	1483	1500	clinical practice	T057	C0205897
+27321599	1509	1521	hip fracture	T037	C0019557
+27321599	1526	1544	antipsychotic drug	T121	C0040615
+27321599	1545	1548	use	T048	C0242510
+27321599	1566	1576	vulnerable	T169	C0231204
+27321599	1577	1582	older	T098	C0001792
+27321599	1583	1594	individuals	T098	C0027361
+27321599	1596	1612	Clinical studies	T062	C0008972
+27321599	1623	1633	mechanisms	T169	C0441712
+27321599	1637	1646	causality	T169	C0015127
+27321599	1663	1674	association	T080	C0439849
+27321599	1683	1701	antipsychotic drug	T121	C0040615
+27321599	1717	1724	risk of	T078	C0035647
+27321599	1725	1737	hip fracture	T037	C0019557

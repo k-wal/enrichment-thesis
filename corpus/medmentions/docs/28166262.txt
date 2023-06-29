@@ -1,0 +1,89 @@
+28166262|t|L1 retrotransposon expression in circulating tumor cells
+28166262|a|Long interspersed nuclear element 1 (LINE-1 or L1) belongs to the non-long terminal repeat (non-LTR) retrotransposon family, which has been implicated in carcinogenesis and disease progression. Circulating tumor cells (CTCs) are also known to be involved in cancer progression. The present study aimed to compare the L1 expression between circulating tumor cells and non-cancerous samples. Blood samples were collected from 10 healthy individuals and 22 patients with different types of cancer. The whole blood cells were isolated using enrichment protocols and the DNA and RNA were extracted. RT-qPCR was performed for L1-ORF1 (open reading frame 1) and L1-ORF2, using 18S rRNA as the reference gene. The data were analyzed with the Livak method and statistical analyses were carried out with the Mann-Whitney and Kruskal-Wallis tests. In parallel with the above molecular biology experiments, FISH experiments were performed on the interphase nuclei of the cells for the detection of ORF2 RNA. DNA analysis revealed the presence of both ORF1 and ORF2 in all samples. RNA expression experiments demonstrated that ORF1 was not expressed in all samples, while ORF2 was expressed at varying levels in the non-cancer samples and the samples representing the different cancer types. A significant difference in ORF2 expression was observed between the CTCs and non-cancer samples (p = 0,00043), and significant differences were also observed between normal and lung (p = 0,034), pancreatic (p = 0,022), prostate (p = 0,014), and unknown primary of origin (p = 0,0039) cancer samples. Cytogenetic analysis revealed higher levels of ORF2 in the nuclei of CTCs than in normal samples. This study highlights the significant difference in L1-ORF2 expression between CTCs and normal samples. The increased expression levels observed for CTCs may be correlated with the characteristic features of these cells.
+28166262	0	18	L1 retrotransposon	T116,T123	C3657719
+28166262	19	29	expression	T045	C1171362
+28166262	33	56	circulating tumor cells	T025	C0027625
+28166262	57	92	Long interspersed nuclear element 1	T114,T123	C0600472
+28166262	94	100	LINE-1	T114,T123	C0600472
+28166262	104	106	L1	T114,T123	C0600472
+28166262	123	180	non-long terminal repeat (non-LTR) retrotransposon family	T114	C0600401
+28166262	211	225	carcinogenesis	T191	C0596263
+28166262	230	249	disease progression	T046	C0242656
+28166262	251	274	Circulating tumor cells	T025	C0027625
+28166262	276	280	CTCs	T025	C0027625
+28166262	315	333	cancer progression	T046	C1947901
+28166262	374	376	L1	T116,T123	C3657719
+28166262	377	387	expression	T045	C1171362
+28166262	396	419	circulating tumor cells	T025	C0027625
+28166262	424	437	non-cancerous	T025	C1268443
+28166262	438	445	samples	T167	C0370003
+28166262	447	460	Blood samples	T031	C0178913
+28166262	484	491	healthy	T080	C3898900
+28166262	492	503	individuals	T098	C0237401
+28166262	511	519	patients	T101	C0030705
+28166262	544	550	cancer	T191	C0006826
+28166262	556	573	whole blood cells	T025	C0005773
+28166262	579	587	isolated	T169	C0205409
+28166262	605	614	protocols	T170	C1507394
+28166262	623	626	DNA	T114,T123	C0012854
+28166262	631	634	RNA	T114	C0035668
+28166262	651	658	RT-qPCR	T063	C1514628
+28166262	677	684	L1-ORF1	T116,T123	C1530039
+28166262	712	719	L1-ORF2	T116,T126	C1530040
+28166262	727	735	18S rRNA	T028	C0017337
+28166262	753	757	gene	T028	C0017337
+28166262	763	767	data	T078	C1511726
+28166262	791	803	Livak method	T062	C3900047
+28166262	808	828	statistical analyses	T081	C0010998
+28166262	855	867	Mann-Whitney	T170	C1708930
+28166262	872	892	Kruskal-Wallis tests	T170	C1708614
+28166262	921	950	molecular biology experiments	T062	C0681814
+28166262	952	968	FISH experiments	T063	C0162789
+28166262	991	1008	interphase nuclei	T026	C0230528
+28166262	1016	1021	cells	T025	C0007634
+28166262	1030	1039	detection	T033	C0442726
+28166262	1043	1051	ORF2 RNA	T114	C1254348
+28166262	1053	1065	DNA analysis	T059	C0200898
+28166262	1079	1087	presence	T033	C0150312
+28166262	1096	1100	ORF1	T116,T123	C2604410
+28166262	1105	1109	ORF2	T116,T126	C2604420
+28166262	1117	1124	samples	T167	C0370003
+28166262	1126	1140	RNA expression	T045	C1171362
+28166262	1141	1152	experiments	T062	C0681814
+28166262	1171	1175	ORF1	T116,T123	C2604410
+28166262	1184	1193	expressed	T045	C1171362
+28166262	1201	1208	samples	T167	C0370003
+28166262	1216	1220	ORF2	T116,T126	C2604420
+28166262	1225	1234	expressed	T045	C1171362
+28166262	1238	1252	varying levels	T080	C0441889
+28166262	1260	1270	non-cancer	T025	C1268443
+28166262	1271	1278	samples	T167	C0370003
+28166262	1287	1294	samples	T167	C0370003
+28166262	1322	1328	cancer	T191	C0006826
+28166262	1364	1368	ORF2	T116,T126	C2604420
+28166262	1369	1379	expression	T045	C1171362
+28166262	1405	1409	CTCs	T025	C0027625
+28166262	1414	1424	non-cancer	T025	C1268443
+28166262	1425	1432	samples	T167	C0370003
+28166262	1503	1509	normal	T025	C1268443
+28166262	1514	1518	lung	T025	C0334227
+28166262	1532	1542	pancreatic	T025	C0334227
+28166262	1556	1564	prostate	T025	C0334227
+28166262	1582	1607	unknown primary of origin	T025	C0334227
+28166262	1621	1627	cancer	T191	C0006826
+28166262	1628	1635	samples	T167	C0370003
+28166262	1637	1657	Cytogenetic analysis	T063	C0752095
+28166262	1674	1680	levels	T080	C0441889
+28166262	1684	1688	ORF2	T116,T126	C2604420
+28166262	1696	1702	nuclei	T026	C0007610
+28166262	1706	1710	CTCs	T025	C0027625
+28166262	1719	1733	normal samples	T025	C1268443
+28166262	1787	1794	L1-ORF2	T116,T126	C1530040
+28166262	1795	1805	expression	T045	C1171362
+28166262	1814	1818	CTCs	T025	C0027625
+28166262	1823	1837	normal samples	T025	C1268443
+28166262	1853	1870	expression levels	T081	C3244092
+28166262	1884	1888	CTCs	T025	C0027625
+28166262	1896	1906	correlated	T080	C1707520
+28166262	1931	1939	features	T080	C2348519
+28166262	1949	1954	cells	T025	C0007634

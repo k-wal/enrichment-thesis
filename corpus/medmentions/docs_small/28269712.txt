@@ -1,0 +1,20 @@
+28269712|t|Heart rate variability as a biomarker for sedation depth estimation in ICU patients
+28269712|a|An automated patient-specific system to classify the level of sedation in ICU patients using heart rate variability signal is presented in this paper. ECG from 70 mechanically ventilated adult patients with administered sedatives in an ICU setting were used to develop a support vector machine based system for sedation depth monitoring using several heart rate variability measures. A leave-one-subject-out cross validation was used for classifier training and performance evaluations. The proposed patient-specific system provided a sensitivity, specificity and an AUC of 64%, 84.8% and 0.72, respectively. It is hoped that with the help of additional physiological signals the proposed patient - specific sedation level prediction system could lead to a fully automated multimodal system to assist clinical staff in ICUs to interpret the sedation level of the patient.
+28269712	0	10	Heart rate	T201	UMLS:C0018810
+28269712	28	37	biomarker	T201	UMLS:C0005516
+28269712	42	56	sedation depth	T033	UMLS:C0235195
+28269712	71	74	ICU	T092	UMLS:C0021708
+28269712	158	161	ICU	T092	UMLS:C0021708
+28269712	177	187	heart rate	T201	UMLS:C0018810
+28269712	228	233	paper	T170	UMLS:C0282420
+28269712	235	238	ECG	T033	UMLS:C0013798
+28269712	247	270	mechanically ventilated	T058	UMLS:C0199470
+28269712	304	313	sedatives	T103	UMLS:C0036557
+28269712	320	331	ICU setting	T092	UMLS:C0021708
+28269712	395	409	sedation depth	T033	UMLS:C0235195
+28269712	410	420	monitoring	T058	UMLS:C1283169
+28269712	435	445	heart rate	T201	UMLS:C0018810
+28269712	470	508	leave-one-subject-out cross validation	T062	UMLS:C0681935
+28269712	558	569	evaluations	T058	UMLS:C0220825
+28269712	894	899	staff	T097	UMLS:C0851286
+28269712	903	907	ICUs	T092	UMLS:C0021708

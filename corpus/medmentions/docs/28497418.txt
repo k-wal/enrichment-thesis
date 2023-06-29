@@ -1,0 +1,85 @@
+28497418|t|Assessing time-of-flight signal-to-noise ratio gains within the myocardium and subsequent reductions in administered activity in cardiac PET studies
+28497418|a|Time-of-flight (TOF) is known to increase signal-to-noise ratio (SNR) and facilitate reductions in administered activity. Established measures of SNR gain are derived from areas of uniform uptake, which is not applicable to the heterogeneous uptake in cardiac PET images using fluoro-deoxyglucose (FDG). This study aimed to develop a technique to quantify SNR gains within the myocardium due to TOF. Reference TOF SNR gains were measured in 88 FDG oncology patients. Phantom data were used to translate reference SNR gains and validate a method of quantifying SNR gains within the myocardium from parametric images produced from multiple replicate images. This technique was applied to 13 FDG cardiac viability patients. Reference TOF SNR gains of +23% ± 8.5% were measured in oncology patients. Measurements of SNR gain from the phantom data were in agreement and showed the parametric image technique to be sufficiently robust. SNR gains within the myocardium in the viability patients were +21% ± 2.8%. A method to quantify SNR gains from TOF within the myocardium has been developed and evaluated. SNR gains within the myocardium are comparable to those observed by established methods. This allows guidance for protocol optimization for TOF systems in cardiac PET.
+28497418	10	24	time-of-flight	T081	C2348791
+28497418	25	46	signal-to-noise ratio	T081	C2986823
+28497418	47	52	gains	T081	C1517378
+28497418	64	74	myocardium	T024	C0027061
+28497418	90	100	reductions	T080	C0392756
+28497418	104	116	administered	T169	C1521801
+28497418	117	125	activity	T052	C0441655
+28497418	129	136	cardiac	T023	C0018787
+28497418	137	140	PET	T060	C0032743
+28497418	141	148	studies	T062	C2603343
+28497418	149	163	Time-of-flight	T081	C2348791
+28497418	165	168	TOF	T081	C2348791
+28497418	191	212	signal-to-noise ratio	T081	C2986823
+28497418	214	217	SNR	T081	C2986823
+28497418	234	244	reductions	T080	C0392756
+28497418	248	260	administered	T169	C1521801
+28497418	261	269	activity	T052	C0441655
+28497418	295	298	SNR	T081	C2986823
+28497418	299	303	gain	T081	C1517378
+28497418	401	408	cardiac	T023	C0018787
+28497418	409	412	PET	T060	C0032743
+28497418	413	419	images	T170	C1704922
+28497418	426	445	fluoro-deoxyglucose	T109,T130	C0046056
+28497418	447	450	FDG	T109,T130	C0046056
+28497418	458	463	study	T062	C2603343
+28497418	483	492	technique	T169	C0449851
+28497418	496	504	quantify	T081	C1709793
+28497418	505	508	SNR	T081	C2986823
+28497418	509	514	gains	T081	C1517378
+28497418	526	536	myocardium	T024	C0027061
+28497418	544	547	TOF	T081	C2348791
+28497418	559	562	TOF	T081	C2348791
+28497418	563	566	SNR	T081	C2986823
+28497418	567	572	gains	T081	C1517378
+28497418	593	596	FDG	T109,T130	C0046056
+28497418	597	614	oncology patients	T101	C0030705
+28497418	616	623	Phantom	T073	C0282611
+28497418	624	628	data	T078	C1511726
+28497418	662	665	SNR	T081	C2986823
+28497418	666	671	gains	T081	C1517378
+28497418	697	708	quantifying	T081	C1709793
+28497418	709	712	SNR	T081	C2986823
+28497418	713	718	gains	T081	C1517378
+28497418	730	740	myocardium	T024	C0027061
+28497418	746	763	parametric images	T060	C2986793
+28497418	778	803	multiple replicate images	T170	C1704922
+28497418	810	819	technique	T169	C0449851
+28497418	838	841	FDG	T109,T130	C0046056
+28497418	842	849	cardiac	T023	C0018787
+28497418	850	859	viability	T080	C0443348
+28497418	860	868	patients	T101	C0030705
+28497418	880	883	TOF	T081	C2348791
+28497418	884	887	SNR	T081	C2986823
+28497418	888	893	gains	T081	C1517378
+28497418	926	943	oncology patients	T101	C0030705
+28497418	961	964	SNR	T081	C2986823
+28497418	965	969	gain	T081	C1517378
+28497418	979	986	phantom	T073	C0282611
+28497418	987	991	data	T078	C1511726
+28497418	1025	1041	parametric image	T060	C2986793
+28497418	1042	1051	technique	T169	C0449851
+28497418	1071	1077	robust	T080	C2986815
+28497418	1079	1082	SNR	T081	C2986823
+28497418	1083	1088	gains	T081	C1517378
+28497418	1100	1110	myocardium	T024	C0027061
+28497418	1118	1127	viability	T080	C0443348
+28497418	1128	1136	patients	T101	C0030705
+28497418	1167	1175	quantify	T081	C1709793
+28497418	1176	1179	SNR	T081	C2986823
+28497418	1180	1185	gains	T081	C1517378
+28497418	1191	1194	TOF	T081	C2348791
+28497418	1206	1216	myocardium	T024	C0027061
+28497418	1251	1254	SNR	T081	C2986823
+28497418	1255	1260	gains	T081	C1517378
+28497418	1272	1282	myocardium	T024	C0027061
+28497418	1287	1297	comparable	T052	C1707455
+28497418	1319	1330	established	T080	C0443211
+28497418	1331	1338	methods	T169	C0449851
+28497418	1365	1373	protocol	T170	C0442711
+28497418	1374	1386	optimization	T052	C2698650
+28497418	1391	1394	TOF	T081	C2348791
+28497418	1406	1413	cardiac	T023	C0018787
+28497418	1414	1417	PET	T060	C0032743

@@ -1,0 +1,74 @@
+27751698|t|Does the Use of Ibuprofen in Children with Extremity Fractures Increase their Risk for Bone Healing Complications?
+27751698|a|Despite being an effective analgesic for children with fractures, some clinicians may avoid prescribing ibuprofen due to its potentially harmful effect on bone healing. To determine if exposure to ibuprofen is associated with an increased risk of bone healing complications in children with fractures. We performed a retrospective study of children aged 6 months to 17 years who presented to the pediatric emergency department (PED) with a fracture of the tibia, femur, humerus, scaphoid, or fifth metatarsus and who followed up with the orthopedic service. We chose these fractures due to their higher risk for complications. We classified patients as exposed if they received ibuprofen in the PED or during hospitalization or were prescribed ibuprofen at discharge. The main outcome was a bone healing complication as evidenced by nonunion, delayed union, or re-displacement on follow-up radiographs. Of the 808 patients included in the final analysis, 338 (42%) were exposed to ibuprofen. Overall, 27 (3%) patients had a bone healing complication; 8 (1%) developed nonunion, 3 (0.4%) developed delayed union, and 16 (2%) developed re-displacement. Ten (3%) patients who were exposed to ibuprofen, and 17 (4%) who were not, developed a bone healing complication (odds ratio 0.8, 95% confidence interval 0.4-1.8; p = 0.61). There was no significant association between ibuprofen exposure and the development of a bone healing complication despite adjustment for potential confounders. Children with extremity fractures who are exposed to ibuprofen do not seem to be at increased risk for clinically important bone healing complications.
+27751698	16	25	Ibuprofen	T109,T121	C0020740
+27751698	29	37	Children	T100	C0008059
+27751698	43	62	Extremity Fractures	T033	C0518447
+27751698	78	82	Risk	T078	C0035647
+27751698	87	99	Bone Healing	T033	C1321023
+27751698	100	113	Complications	T046	C0009566
+27751698	142	151	analgesic	T109,T121,T131	C0002771
+27751698	156	164	children	T100	C0008059
+27751698	170	179	fractures	T037	C0016658
+27751698	186	196	clinicians	T097	C0871685
+27751698	207	218	prescribing	T058	C0278329
+27751698	219	228	ibuprofen	T109,T121	C0020740
+27751698	270	282	bone healing	T033	C1321023
+27751698	312	321	ibuprofen	T109,T121	C0020740
+27751698	354	358	risk	T078	C0035647
+27751698	362	374	bone healing	T033	C1321023
+27751698	375	388	complications	T046	C0009566
+27751698	392	400	children	T100	C0008059
+27751698	406	415	fractures	T037	C0016658
+27751698	432	451	retrospective study	T062	C0035363
+27751698	455	463	children	T100	C0008059
+27751698	471	477	months	T079	C0439231
+27751698	484	489	years	T079	C1510829
+27751698	511	541	pediatric emergency department	T073,T093	C4035225
+27751698	543	546	PED	T073,T093	C4035225
+27751698	555	563	fracture	T037	C0016658
+27751698	571	576	tibia	T023	C1279118
+27751698	578	583	femur	T023	C0015811
+27751698	585	592	humerus	T023	C0020164
+27751698	594	602	scaphoid	T023	C0223724
+27751698	607	623	fifth metatarsus	T023	C0025584
+27751698	653	671	orthopedic service	T093	C0587690
+27751698	688	697	fractures	T037	C0016658
+27751698	718	722	risk	T078	C0035647
+27751698	727	740	complications	T046	C0009566
+27751698	756	764	patients	T101	C0030705
+27751698	793	802	ibuprofen	T109,T121	C0020740
+27751698	810	813	PED	T073,T093	C4035225
+27751698	824	839	hospitalization	T058	C0019993
+27751698	848	858	prescribed	T058	C0278329
+27751698	859	868	ibuprofen	T109,T121	C0020740
+27751698	872	881	discharge	T058	C0030685
+27751698	892	899	outcome	T169	C1274040
+27751698	906	918	bone healing	T033	C1321023
+27751698	919	931	complication	T046	C0009566
+27751698	948	956	nonunion	T033	C3897107
+27751698	958	971	delayed union	T046	C0332743
+27751698	976	991	re-displacement	T061	C0407467
+27751698	1005	1016	radiographs	T060	C1306645
+27751698	1029	1037	patients	T101	C0030705
+27751698	1096	1105	ibuprofen	T109,T121	C0020740
+27751698	1124	1132	patients	T101	C0030705
+27751698	1139	1151	bone healing	T033	C1321023
+27751698	1152	1164	complication	T046	C0009566
+27751698	1183	1191	nonunion	T033	C3897107
+27751698	1212	1225	delayed union	T046	C0332743
+27751698	1249	1264	re-displacement	T061	C0407467
+27751698	1275	1283	patients	T101	C0030705
+27751698	1304	1313	ibuprofen	T109,T121	C0020740
+27751698	1353	1365	bone healing	T033	C1321023
+27751698	1366	1378	complication	T046	C0009566
+27751698	1400	1419	confidence interval	T081	C0009667
+27751698	1485	1494	ibuprofen	T109,T121	C0020740
+27751698	1529	1541	bone healing	T033	C1321023
+27751698	1542	1554	complication	T046	C0009566
+27751698	1563	1573	adjustment	T169	C0456081
+27751698	1601	1609	Children	T100	C0008059
+27751698	1615	1634	extremity fractures	T033	C0518447
+27751698	1654	1663	ibuprofen	T109,T121	C0020740
+27751698	1695	1699	risk	T078	C0035647
+27751698	1725	1737	bone healing	T033	C1321023
+27751698	1738	1751	complications	T046	C0009566

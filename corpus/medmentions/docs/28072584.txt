@@ -1,0 +1,90 @@
+28072584|t|Verification of respiratory-gated radiotherapy with new real-time tumour -tracking radiotherapy system using cine EPID images and a log file
+28072584|a|A combined system comprising the TrueBeam linear accelerator and a new real-time tumour -tracking radiotherapy system, SyncTraX, was installed at our institution. The objectives of this study are to develop a method for the verification of respiratory-gated radiotherapy with SyncTraX using cine electronic portal image device (EPID) images and a log file and to verify this treatment in clinical cases. Respiratory-gated radiotherapy was performed using TrueBeam and the SyncTraX system. Cine EPID images and a log file were acquired for a phantom and three patients during the course of the treatment. Digitally reconstructed radiographs (DRRs) were created for each treatment beam using a planning CT set. The cine EPID images, log file, and DRRs were analysed using a developed software. For the phantom case, the accuracy of the proposed method was evaluated to verify the respiratory-gated radiotherapy. For the clinical cases, the intra- and inter-fractional variations of the fiducial marker used as an internal surrogate were calculated to evaluate the gating accuracy and set-up uncertainty in the superior - inferior (SI), anterior-posterior (AP), and left-right (LR) directions. The proposed method achieved high accuracy for the phantom verification. For the clinical cases, the intra- and inter-fractional variations of the fiducial marker were ⩽3 mm and ±3 mm in the SI, AP, and LR directions. We proposed a method for the verification of respiratory-gated radiotherapy with SyncTraX using cine EPID images and a log file and showed that this treatment is performed with high accuracy in clinical cases.
+28072584	0	12	Verification	T169	C1711411
+28072584	16	46	respiratory-gated radiotherapy	T061	C1522449
+28072584	56	102	real-time tumour -tracking radiotherapy system	T074	C0302617
+28072584	66	72	tumour	T191	C0027651
+28072584	109	118	cine EPID	T074	C1512629
+28072584	119	125	images	T170	C1704254
+28072584	132	140	log file	T170	C0282574
+28072584	143	158	combined system	T074	C0302617
+28072584	174	201	TrueBeam linear accelerator	T074	C0023730
+28072584	212	258	real-time tumour -tracking radiotherapy system	T074	C0302617
+28072584	222	228	tumour	T191	C0027651
+28072584	260	268	SyncTraX	T074	C0302617
+28072584	291	302	institution	T093	C2607850
+28072584	327	332	study	T062	C2603343
+28072584	350	356	method	T170	C0025663
+28072584	365	377	verification	T169	C1711411
+28072584	381	411	respiratory-gated radiotherapy	T061	C1522449
+28072584	417	425	SyncTraX	T074	C0302617
+28072584	432	467	cine electronic portal image device	T074	C1512629
+28072584	469	473	EPID	T074	C1512629
+28072584	475	481	images	T170	C1704254
+28072584	488	496	log file	T170	C0282574
+28072584	504	510	verify	T169	C1711411
+28072584	516	525	treatment	T061	C0087111
+28072584	529	543	clinical cases	T077	C1706256
+28072584	545	575	Respiratory-gated radiotherapy	T061	C1522449
+28072584	596	604	TrueBeam	T074	C0023730
+28072584	613	628	SyncTraX system	T074	C0302617
+28072584	630	639	Cine EPID	T074	C1512629
+28072584	640	646	images	T170	C1704254
+28072584	653	661	log file	T170	C0282574
+28072584	682	689	phantom	T073	C0182239
+28072584	700	708	patients	T101	C0030705
+28072584	720	726	course	T079	C0750729
+28072584	734	743	treatment	T061	C0087111
+28072584	745	780	Digitally reconstructed radiographs	T170	C0681493
+28072584	782	786	DRRs	T170	C0681493
+28072584	810	819	treatment	T061	C0087111
+28072584	820	824	beam	T067	C2347880
+28072584	833	844	planning CT	T060	C2315395
+28072584	845	848	set	T170	C0150098
+28072584	854	863	cine EPID	T074	C1512629
+28072584	864	870	images	T170	C1704254
+28072584	872	880	log file	T170	C0282574
+28072584	886	890	DRRs	T170	C0681493
+28072584	923	931	software	T170	C3204069
+28072584	941	948	phantom	T073	C0182239
+28072584	949	953	case	T077	C1706256
+28072584	959	967	accuracy	T080	C0443131
+28072584	984	990	method	T170	C0025663
+28072584	1008	1014	verify	T169	C1711411
+28072584	1019	1049	respiratory-gated radiotherapy	T061	C1522449
+28072584	1059	1073	clinical cases	T077	C1706256
+28072584	1079	1117	intra- and inter-fractional variations	T033	C1846356
+28072584	1125	1140	fiducial marker	T074	C2826325
+28072584	1152	1160	internal	T082	C0205102
+28072584	1161	1170	surrogate	T078	C1254370
+28072584	1203	1218	gating accuracy	T080	C0443131
+28072584	1223	1241	set-up uncertainty	T033	C0087130
+28072584	1249	1257	superior	T082	C1282910
+28072584	1260	1268	inferior	T082	C0542339
+28072584	1270	1272	SI	T082	C1254362
+28072584	1275	1293	anterior-posterior	T082	C1999039
+28072584	1295	1297	AP	T082	C1999039
+28072584	1304	1314	left-right	T082	C0238767
+28072584	1316	1318	LR	T082	C0238767
+28072584	1320	1330	directions	T082	C0439755
+28072584	1345	1351	method	T170	C0025663
+28072584	1366	1374	accuracy	T080	C0443131
+28072584	1383	1390	phantom	T073	C0182239
+28072584	1391	1403	verification	T169	C1711411
+28072584	1413	1427	clinical cases	T077	C1706256
+28072584	1433	1471	intra- and inter-fractional variations	T033	C1846356
+28072584	1479	1494	fiducial marker	T074	C2826325
+28072584	1523	1525	SI	T082	C1254362
+28072584	1527	1529	AP	T082	C1999039
+28072584	1535	1537	LR	T082	C0238767
+28072584	1538	1548	directions	T082	C0439755
+28072584	1564	1570	method	T170	C0025663
+28072584	1579	1591	verification	T169	C1711411
+28072584	1595	1625	respiratory-gated radiotherapy	T061	C1522449
+28072584	1631	1639	SyncTraX	T074	C0302617
+28072584	1646	1655	cine EPID	T074	C1512629
+28072584	1656	1662	images	T170	C1704254
+28072584	1669	1677	log file	T170	C0282574
+28072584	1699	1708	treatment	T061	C0087111
+28072584	1732	1740	accuracy	T080	C0443131
+28072584	1744	1758	clinical cases	T077	C1706256

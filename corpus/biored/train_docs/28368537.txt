@@ -1,0 +1,47 @@
+28368537|t|Tissue-Specific Ablation of the LIF Receptor in the Murine Uterine Epithelium Results in Implantation Failure.
+28368537|a|The cytokine leukemia inhibitory factor (LIF) is essential for rendering the uterus receptive for blastocyst implantation. In mice, LIF receptor expression (LIFR) is largely restricted to the uterine luminal epithelium (LE). LIF, secreted from the endometrial glands (GEs), binds to the LIFR, activating the Janus kinase-signal transducer and activation of transcription (STAT) 3 (Jak-Stat3) signaling pathway in the LE. JAK-STAT activation converts the LE to a receptive state so that juxtaposed blastocysts begin to implant. To specifically delete the LIFR in the LE, we derived a line of mice in which Cre recombinase was inserted into the endogenous lactoferrin gene (Ltf-Cre). Lactoferrin expression in the LE is induced by E2, and we demonstrate that Cre recombinase activity is restricted to the LE and GE. To determine the requirement of the LIFR in implantation, we derived an additional mouse line carrying a conditional (floxed) Lifr flx/flx gene. Crossing Ltf-Cre mice with Lifr flx/flx mice generated Lifr flx/D:Ltf Cre/+ females that were overtly normal but infertile. Many of these females, despite repeated matings, did not become pregnant. Unimplanted blastocysts were recovered from the Lifr flx/D:Ltf Cre/+ uteri and, when transferred to wild-type recipients, implanted normally, indicating that uterine receptivity rather than the embryo's competency is compromised. The loss of Lifr results in both the failure for STAT3 to translocate to the LE nuclei and a reduction in the expression of the LIF regulated gene Msx1 that regulates uterine receptivity. These results reveal that uterine expression of the LIFR is essential for embryo implantation and further define the components of the LIF signaling pathway necessary for effective implantation.
+28368537	32	44	LIF Receptor	GeneOrGeneProduct	16880
+28368537	52	58	Murine	OrganismTaxon	10090
+28368537	124	150	leukemia inhibitory factor	GeneOrGeneProduct	16878
+28368537	152	155	LIF	GeneOrGeneProduct	16878
+28368537	237	241	mice	OrganismTaxon	10090
+28368537	243	255	LIF receptor	GeneOrGeneProduct	16880
+28368537	268	272	LIFR	GeneOrGeneProduct	16880
+28368537	336	339	LIF	GeneOrGeneProduct	16878
+28368537	398	402	LIFR	GeneOrGeneProduct	16880
+28368537	419	431	Janus kinase	GeneOrGeneProduct	16452
+28368537	432	490	signal transducer and activation of transcription (STAT) 3	GeneOrGeneProduct	20848
+28368537	492	495	Jak	GeneOrGeneProduct	16452
+28368537	496	501	Stat3	GeneOrGeneProduct	20848
+28368537	532	535	JAK	GeneOrGeneProduct	16452
+28368537	536	540	STAT	GeneOrGeneProduct	20848
+28368537	665	669	LIFR	GeneOrGeneProduct	16880
+28368537	702	706	mice	OrganismTaxon	10090
+28368537	765	776	lactoferrin	GeneOrGeneProduct	17002
+28368537	783	786	Ltf	GeneOrGeneProduct	16878
+28368537	793	804	Lactoferrin	GeneOrGeneProduct	17002
+28368537	961	965	LIFR	GeneOrGeneProduct	16880
+28368537	1008	1013	mouse	OrganismTaxon	10090
+28368537	1051	1055	Lifr	GeneOrGeneProduct	16880
+28368537	1079	1082	Ltf	GeneOrGeneProduct	16878
+28368537	1087	1091	mice	OrganismTaxon	10090
+28368537	1097	1101	Lifr	GeneOrGeneProduct	16880
+28368537	1110	1114	mice	OrganismTaxon	10090
+28368537	1125	1129	Lifr	GeneOrGeneProduct	16880
+28368537	1136	1139	Ltf	GeneOrGeneProduct	16878
+28368537	1316	1320	Lifr	GeneOrGeneProduct	16880
+28368537	1327	1330	Ltf	GeneOrGeneProduct	16878
+28368537	1510	1514	Lifr	GeneOrGeneProduct	16880
+28368537	1547	1552	STAT3	GeneOrGeneProduct	20848
+28368537	1626	1629	LIF	GeneOrGeneProduct	16878
+28368537	1645	1649	Msx1	GeneOrGeneProduct	17701
+28368537	1738	1742	LIFR	GeneOrGeneProduct	16880
+28368537	1821	1824	LIF	GeneOrGeneProduct	16878
+28368537	Positive_Correlation	16880	17701	Novel
+28368537	Association	16878	17701	No
+28368537	Bind	16878	16880	No
+28368537	Association	20848	16880	Novel
+28368537	Association	20848	16878	No
+28368537	Association	16452	16880	No
+28368537	Association	16452	16878	No
+28368537	Association	16452	20848	No

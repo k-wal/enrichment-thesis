@@ -1,0 +1,32 @@
+20579626|t|Identification of a frameshift mutation in Osterix in a patient with recessive osteogenesis imperfecta.
+20579626|a|Osteogenesis imperfecta, or "brittle bone disease," is a type I collagen-related condition associated with osteoporosis and increased risk of bone fractures. Using a combination of homozygosity mapping and candidate gene approach, we have identified a homozygous single base pair deletion (c.1052delA) in SP7/Osterix (OSX) in an Egyptian child with recessive osteogenesis imperfecta. The clinical findings from this patient include recurrent fractures, mild bone deformities, delayed tooth eruption, normal hearing, and white sclera. OSX encodes a transcription factor containing three Cys2-His2 zinc-finger DNA-binding domains at its C terminus, which, in mice, has been shown to be essential for bone formation. The frameshift caused by the c.1052delA deletion removes the last 81 amino acids of the protein, including the third zinc-finger motif. This finding adds another locus to the spectrum of genes associated with osteogenesis imperfecta and reveals that SP7/OSX also plays a key role in human bone development.
+20579626	43	50	Osterix	GeneOrGeneProduct	121340
+20579626	56	63	patient	OrganismTaxon	9606
+20579626	69	102	recessive osteogenesis imperfecta	DiseaseOrPhenotypicFeature	D010013
+20579626	104	127	Osteogenesis imperfecta	DiseaseOrPhenotypicFeature	D010013
+20579626	133	153	brittle bone disease	DiseaseOrPhenotypicFeature	D010013
+20579626	161	176	type I collagen	GeneOrGeneProduct	1278
+20579626	211	223	osteoporosis	DiseaseOrPhenotypicFeature	D010024
+20579626	246	260	bone fractures	DiseaseOrPhenotypicFeature	D050723
+20579626	367	392	single base pair deletion	SequenceVariant	rs137853893
+20579626	394	404	c.1052delA	SequenceVariant	rs137853893
+20579626	409	412	SP7	GeneOrGeneProduct	121340
+20579626	413	420	Osterix	GeneOrGeneProduct	121340
+20579626	422	425	OSX	GeneOrGeneProduct	121340
+20579626	453	486	recessive osteogenesis imperfecta	DiseaseOrPhenotypicFeature	D010013
+20579626	520	527	patient	OrganismTaxon	9606
+20579626	546	555	fractures	DiseaseOrPhenotypicFeature	D050723
+20579626	562	578	bone deformities	DiseaseOrPhenotypicFeature	D001847
+20579626	588	602	tooth eruption	DiseaseOrPhenotypicFeature	D014079
+20579626	638	641	OSX	GeneOrGeneProduct	121340
+20579626	761	765	mice	OrganismTaxon	10090
+20579626	847	857	c.1052delA	SequenceVariant	rs137853893
+20579626	1027	1050	osteogenesis imperfecta	DiseaseOrPhenotypicFeature	D010013
+20579626	1068	1071	SP7	GeneOrGeneProduct	121340
+20579626	1072	1075	OSX	GeneOrGeneProduct	121340
+20579626	1101	1106	human	OrganismTaxon	9606
+20579626	Association	1278	D050723	No
+20579626	Association	1278	D010024	No
+20579626	Association	rs137853893	D010013	Novel
+20579626	Association	D010013	1278	No
+20579626	Association	D010013	121340	Novel

@@ -1,0 +1,63 @@
+15859361|t|Safety of celecoxib in patients with adverse skin reactions to acetaminophen (paracetamol) and nimesulide associated or not with common non-steroidal anti-inflammatory drugs.
+15859361|a|BACKGROUND: Acetaminophen (paracetamol--P) and Nimesulide (N) are widely used analgesic-antipyretic/anti-inflammatory drugs. The rate of adverse hypersensitivity reactions to these agents is generally low. On the contrary non-steroidal anti-inflammatory drugs (NSAIDs) are commonly involved in such reactions. Celecoxib (CE) is a novel drug, with high selectivity and affinity for COX-2 enzyme. OBJECTIVE: We evaluated the tolerability of CE in a group of patients with documented history of adverse cutaneous reactions to P and N associated or not to classic NSAIDs. METHODS: We studied 9 patients with hypersensitivity to P and N with or without associated reactions to classic NSAIDs. The diagnosis of P and N-induced skin reactions was based in vivo challenge. The placebo was blindly administered at the beginning of each challenge. After three days, a cumulative dosage of 200 mg of CE in refracted doses were given. After 2-3 days, a single dose of 200 mg was administered. All patients were observed for 6 hours after each challenge, and controlled again after 24 hours to exclude delayed reactions. The challenge was considered positive if one or more of the following appeared: erythema, rush or urticaria-angioedema. RESULTS: No reaction was observed with placebo and eight patients (88.8%) tolerated CE. Only one patient developed a moderate angioedema of the lips. CONCLUSION: Only one hypersensitivity reaction to CE was documented among 9 P and N-highly NSAIDs intolerant patients. Thus, we conclude that CE is a reasonably safe alternative to be used in subjects who do not tolerate P and N.
+15859361	10	19	celecoxib	ChemicalEntity	C105934
+15859361	23	31	patients	OrganismTaxon	9606
+15859361	45	59	skin reactions	DiseaseOrPhenotypicFeature	D003875
+15859361	63	76	acetaminophen	ChemicalEntity	D000082
+15859361	78	89	paracetamol	ChemicalEntity	D000082
+15859361	95	105	nimesulide	ChemicalEntity	C012655
+15859361	136	173	non-steroidal anti-inflammatory drugs	ChemicalEntity	D000894
+15859361	187	200	Acetaminophen	ChemicalEntity	D000082
+15859361	202	213	paracetamol	ChemicalEntity	D000082
+15859361	215	216	P	ChemicalEntity	D000082
+15859361	222	232	Nimesulide	ChemicalEntity	C012655
+15859361	234	235	N	ChemicalEntity	C012655
+15859361	263	274	antipyretic	ChemicalEntity	D058633
+15859361	275	298	anti-inflammatory drugs	ChemicalEntity	D000893
+15859361	320	336	hypersensitivity	DiseaseOrPhenotypicFeature	D004342
+15859361	397	434	non-steroidal anti-inflammatory drugs	ChemicalEntity	D000894
+15859361	436	442	NSAIDs	ChemicalEntity	D000894
+15859361	485	494	Celecoxib	ChemicalEntity	C105934
+15859361	496	498	CE	ChemicalEntity	C105934
+15859361	556	561	COX-2	GeneOrGeneProduct	4513
+15859361	614	616	CE	ChemicalEntity	C105934
+15859361	631	639	patients	OrganismTaxon	9606
+15859361	675	694	cutaneous reactions	DiseaseOrPhenotypicFeature	D003875
+15859361	698	699	P	ChemicalEntity	D000082
+15859361	704	705	N	ChemicalEntity	C012655
+15859361	735	741	NSAIDs	ChemicalEntity	D000894
+15859361	765	773	patients	OrganismTaxon	9606
+15859361	779	795	hypersensitivity	DiseaseOrPhenotypicFeature	D004342
+15859361	799	800	P	ChemicalEntity	D000082
+15859361	805	806	N	ChemicalEntity	C012655
+15859361	855	861	NSAIDs	ChemicalEntity	D000894
+15859361	880	881	P	ChemicalEntity	D000082
+15859361	886	887	N	ChemicalEntity	C012655
+15859361	896	910	skin reactions	DiseaseOrPhenotypicFeature	D003875
+15859361	1064	1066	CE	ChemicalEntity	C105934
+15859361	1160	1168	patients	OrganismTaxon	9606
+15859361	1363	1371	erythema	DiseaseOrPhenotypicFeature	D004890
+15859361	1381	1390	urticaria	DiseaseOrPhenotypicFeature	D014581
+15859361	1391	1401	angioedema	DiseaseOrPhenotypicFeature	D000799
+15859361	1460	1468	patients	OrganismTaxon	9606
+15859361	1487	1489	CE	ChemicalEntity	C105934
+15859361	1500	1507	patient	OrganismTaxon	9606
+15859361	1529	1539	angioedema	DiseaseOrPhenotypicFeature	D000799
+15859361	1574	1590	hypersensitivity	DiseaseOrPhenotypicFeature	D004342
+15859361	1603	1605	CE	ChemicalEntity	C105934
+15859361	1629	1630	P	ChemicalEntity	D000082
+15859361	1635	1636	N	ChemicalEntity	C012655
+15859361	1644	1650	NSAIDs	ChemicalEntity	D000894
+15859361	1662	1670	patients	OrganismTaxon	9606
+15859361	1695	1697	CE	ChemicalEntity	C105934
+15859361	1774	1775	P	ChemicalEntity	D000082
+15859361	1780	1781	N	ChemicalEntity	C012655
+15859361	Positive_Correlation	C012655	D003875	Novel
+15859361	Positive_Correlation	C012655	D004342	Novel
+15859361	Positive_Correlation	D004342	D000894	Novel
+15859361	Positive_Correlation	D000082	D003875	Novel
+15859361	Positive_Correlation	D000082	D004342	Novel
+15859361	Positive_Correlation	C105934	D000799	Novel
+15859361	Comparison	C105934	C012655	Novel
+15859361	Comparison	C105934	D000082	Novel
+15859361	Positive_Correlation	C105934	4513	No

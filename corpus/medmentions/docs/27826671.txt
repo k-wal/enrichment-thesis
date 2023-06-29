@@ -1,0 +1,118 @@
+27826671|t|A Feasibility Study of Telementoring for Identifying the Appendix Using Smartphone -Based Telesonography
+27826671|a|We investigated the feasibility of the clinical application of novice - practitioner - performed / offsite - mentor -guided ultrasonography for identifying the appendix. A randomized crossover study was conducted using a telesonography system that can transmit the ultrasound images displayed on the ultrasound monitor (ultrasound sequence video) and images showing the practitioner's operations (background video) to a smartphone without any interruption in motion over a Long-Term Evolution (LTE) network. Thirty novice practitioners were randomly assigned to two groups. The subjects in group A (n = 15) performed ultrasonography for the identification of the appendix under mentoring by an onsite expert, whereas those in group B (n = 15) performed the same procedure under mentoring by an offsite expert. Each subject performed the procedure on three simulated patients. After a 4- week interval, they performed the procedure again under the other type of mentoring. A total of 90 ultrasound examinations were performed in each scenario. The primary outcomes were the success rate for identifying the appendix and the time required to identify the appendix. The success rates for identifying the appendix were 91.1 % (82/90) in onsite - mentored ultrasonography and 87.8 % (79/90) in offsite - mentored ultrasonography; both rates were high, and there was no significant difference (p = 0.468) between them. The time required in the case of offsite mentoring (median, 242.9 s; interquartile range (IQR), 238.2) was longer than that for onsite mentoring (median, 291.4 s; IQR, 200.9); however, the difference was not significant (p = 0.051). It appears that offsite mentoring can allow novice onsite practitioners to perform ultrasonography as effectively as they can under onsite mentoring, even for examinations that require proficiency in rather complex practices, such as identifying the appendix.
+27826671	2	19	Feasibility Study	T062,T170	C0015730
+27826671	23	36	Telementoring	T065	C0013652
+27826671	41	52	Identifying	T080	C0205396
+27826671	57	65	Appendix	T023	C0003617
+27826671	72	82	Smartphone	T073	C3204335
+27826671	90	104	Telesonography	T060	C0430022
+27826671	108	120	investigated	T169	C1292732
+27826671	125	136	feasibility	T080	C0205556
+27826671	144	152	clinical	T080	C0205210
+27826671	153	164	application	T058	C0185125
+27826671	168	174	novice	UnknownType	C0680250
+27826671	177	189	practitioner	T097	C1709627
+27826671	192	201	performed	T169	C0884358
+27826671	204	211	offsite	T082	C3828730
+27826671	214	220	mentor	T098	C0025369
+27826671	229	244	ultrasonography	T060	C0041618
+27826671	249	260	identifying	T080	C0205396
+27826671	265	273	appendix	T023	C0003617
+27826671	277	287	randomized	T062	C0034656
+27826671	288	303	crossover study	T062	C0150097
+27826671	326	347	telesonography system	T073	C3273359
+27826671	357	365	transmit	T169	C0332289
+27826671	370	380	ultrasound	T060	C0041618
+27826671	381	387	images	T078	C1551337
+27826671	405	423	ultrasound monitor	T074	C3688807
+27826671	425	450	ultrasound sequence video	T170	C3463807
+27826671	456	462	images	T078	C1551337
+27826671	475	489	practitioner's	T097	C1709627
+27826671	490	500	operations	T052	C3241922
+27826671	502	512	background	T077	C1706907
+27826671	513	518	video	T170	C3463807
+27826671	525	535	smartphone	T073	C3204335
+27826671	548	560	interruption	T079	C1512900
+27826671	564	570	motion	T070	C0026597
+27826671	578	611	Long-Term Evolution (LTE) network	T073	C0282112
+27826671	620	626	novice	UnknownType	C0680250
+27826671	627	640	practitioners	T097	C1709627
+27826671	655	663	assigned	T169	C1516050
+27826671	671	677	groups	UnknownType	C0681860
+27826671	683	691	subjects	T098	C2349001
+27826671	695	702	group A	UnknownType	C0681860
+27826671	712	721	performed	T169	C0884358
+27826671	722	737	ultrasonography	T060	C0041618
+27826671	746	760	identification	T080	C0205396
+27826671	768	776	appendix	T023	C0003617
+27826671	783	792	mentoring	T065	C4255266
+27826671	799	805	onsite	T082	C0205145
+27826671	806	812	expert	T097	C0009817
+27826671	831	838	group B	UnknownType	C0681860
+27826671	848	857	performed	T169	C0884358
+27826671	867	876	procedure	T060	C0430022
+27826671	883	892	mentoring	T065	C4255266
+27826671	899	906	offsite	T082	C3828730
+27826671	907	913	expert	T097	C0009817
+27826671	920	927	subject	T098	C2349001
+27826671	928	937	performed	T169	C0884358
+27826671	942	951	procedure	T060	C0430022
+27826671	961	979	simulated patients	T065	C3825675
+27826671	992	996	week	T079	C0439230
+27826671	997	1005	interval	T079	C1272706
+27826671	1012	1021	performed	T169	C0884358
+27826671	1026	1035	procedure	T060	C0430022
+27826671	1066	1075	mentoring	T065	C4255266
+27826671	1091	1101	ultrasound	T060	C0041618
+27826671	1102	1114	examinations	T058	C0582103
+27826671	1120	1129	performed	T169	C0884358
+27826671	1152	1168	primary outcomes	T080	C3274433
+27826671	1178	1190	success rate	T081	C1521828
+27826671	1195	1206	identifying	T080	C0205396
+27826671	1211	1219	appendix	T023	C0003617
+27826671	1228	1232	time	T079	C0040223
+27826671	1233	1241	required	T169	C1514873
+27826671	1245	1253	identify	T080	C0205396
+27826671	1258	1266	appendix	T023	C0003617
+27826671	1272	1285	success rates	T081	C1521828
+27826671	1290	1301	identifying	T080	C0205396
+27826671	1306	1314	appendix	T023	C0003617
+27826671	1338	1344	onsite	T082	C0205145
+27826671	1347	1355	mentored	T065	C4255266
+27826671	1356	1371	ultrasonography	T060	C0041618
+27826671	1394	1401	offsite	T082	C3828730
+27826671	1404	1412	mentored	T065	C4255266
+27826671	1413	1428	ultrasonography	T060	C0041618
+27826671	1435	1440	rates	T081	C1521828
+27826671	1466	1480	no significant	T033	C1273937
+27826671	1481	1491	difference	T081	C1705241
+27826671	1522	1526	time	T079	C0040223
+27826671	1527	1535	required	T169	C1514873
+27826671	1551	1558	offsite	T082	C3828730
+27826671	1551	1558	offsite	T082	C3828730
+27826671	1559	1568	mentoring	T065	C4255266
+27826671	1570	1576	median	T081	C0876920
+27826671	1587	1606	interquartile range	T081	C1711350
+27826671	1608	1611	IQR	T081	C1711350
+27826671	1625	1631	longer	T080	C0205166
+27826671	1646	1652	onsite	T082	C0205145
+27826671	1653	1662	mentoring	T065	C4255266
+27826671	1664	1670	median	T081	C0876920
+27826671	1681	1684	IQR	T081	C1711350
+27826671	1707	1717	difference	T081	C1705241
+27826671	1722	1737	not significant	T033	C1273937
+27826671	1767	1774	offsite	T082	C3828730
+27826671	1775	1784	mentoring	T065	C4255266
+27826671	1795	1801	novice	UnknownType	C0680250
+27826671	1802	1808	onsite	T082	C0205145
+27826671	1809	1822	practitioners	T097	C1709627
+27826671	1834	1849	ultrasonography	T060	C0041618
+27826671	1853	1864	effectively	T080	C1704419
+27826671	1883	1889	onsite	T082	C0205145
+27826671	1890	1899	mentoring	T065	C4255266
+27826671	1910	1922	examinations	T058	C0582103
+27826671	1936	1947	proficiency	T080	C0205556
+27826671	1958	1965	complex	T080	C0439855
+27826671	1966	1975	practices	T058	C1254363
+27826671	1985	1996	identifying	T080	C0205396
+27826671	2001	2009	appendix	T023	C0003617

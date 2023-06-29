@@ -1,0 +1,61 @@
+28269523|t|Hybrid automata models of cardiac ventricular electrophysiology for real-time computational applications
+28269523|a|Virtual heart models have been proposed for closed loop validation of safety - critical embedded medical devices, such as pacemakers. These models must react in real-time to off-the-shelf medical devices. Real-time performance can be obtained by implementing models in computer hardware, and methods of compiling classes of Hybrid Automata (HA) onto FPGA have been developed. Models of ventricular cardiac cell electrophysiology have been described using HA which capture the complex nonlinear behavior of biological systems. However, many models that have been used for closed-loop validation of pacemakers are highly abstract and do not capture important characteristics of the dynamic rate response. We developed a new HA model of cardiac cells which captures dynamic behavior and we implemented the model in hardware. This potentially enables modeling the heart with over 1 million dynamic cells, making the approach ideal for closed loop testing of medical devices.
+28269523	0	22	Hybrid automata models	T075	C0026339
+28269523	26	45	cardiac ventricular	T023	C0018827
+28269523	46	63	electrophysiology	T060	C0430467
+28269523	68	77	real-time	T079	C1550177
+28269523	78	104	computational applications	T169	C0205245
+28269523	113	125	heart models	T075	C0026339
+28269523	149	160	closed loop	T169	C0443183
+28269523	161	171	validation	T062	C1519941
+28269523	175	181	safety	T068	C0036043
+28269523	184	192	critical	T080	C1511545
+28269523	202	217	medical devices	T074	C0025080
+28269523	227	237	pacemakers	T074	C0810633
+28269523	245	251	models	T075	C0026339
+28269523	266	275	real-time	T079	C1550177
+28269523	293	308	medical devices	T074	C0025080
+28269523	310	319	Real-time	T079	C1550177
+28269523	320	331	performance	T052	C1882330
+28269523	339	347	obtained	T169	C1301820
+28269523	364	370	models	T075	C0026339
+28269523	374	391	computer hardware	T073	C0009602
+28269523	397	404	methods	T169	C0025664
+28269523	429	444	Hybrid Automata	T075	C0026339
+28269523	446	448	HA	T075	C0026339
+28269523	455	459	FPGA	T074	C0025080
+28269523	481	487	Models	T075	C0026339
+28269523	491	515	ventricular cardiac cell	T025	C2339371
+28269523	516	533	electrophysiology	T060	C0430467
+28269523	544	553	described	T078	C1552738
+28269523	560	562	HA	T075	C0026339
+28269523	569	576	capture	T067	C1254366
+28269523	599	607	behavior	T080	C1521970
+28269523	611	629	biological systems	T169	C0449913
+28269523	645	651	models	T075	C0026339
+28269523	676	687	closed-loop	T169	C0443183
+28269523	688	698	validation	T062	C1519941
+28269523	702	712	pacemakers	T074	C0810633
+28269523	724	732	abstract	T078	C1552863
+28269523	744	751	capture	T067	C1254366
+28269523	752	761	important	T080	C3898777
+28269523	762	777	characteristics	T080	C1521970
+28269523	785	792	dynamic	T169	C0729333
+28269523	793	806	rate response	T079	C0237629
+28269523	827	835	HA model	T075	C0026339
+28269523	839	852	cardiac cells	T025	C0225828
+28269523	859	867	captures	T067	C1254366
+28269523	868	875	dynamic	T169	C0729333
+28269523	876	884	behavior	T080	C1521970
+28269523	908	913	model	T075	C0026339
+28269523	917	925	hardware	T073	C0009602
+28269523	932	943	potentially	T080	C3245505
+28269523	952	960	modeling	T062	C0870071
+28269523	965	970	heart	T023	C0018787
+28269523	983	990	million	T081	C1881839
+28269523	991	998	dynamic	T169	C0729333
+28269523	999	1004	cells	T025	C0007634
+28269523	1026	1031	ideal	T080	C1512612
+28269523	1036	1047	closed loop	T169	C0443183
+28269523	1048	1055	testing	T169	C0039593
+28269523	1059	1074	medical devices	T074	C0025080

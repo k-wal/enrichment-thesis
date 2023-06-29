@@ -1,0 +1,26 @@
+28295177|t|A fast small-sample kernel independence test for microbiome community - level association analysis
+28295177|a|To fully understand the role of microbiome in human health and diseases, researchers are increasingly interested in assessing the relationship between microbiome composition and host genomic data. The dimensionality of the data as well as complex relationships between microbiota and host genomics pose considerable challenges for analysis. In this article, we apply a kernel RV coefficient (KRV) test to evaluate the overall association between host gene expression and microbiome composition. The KRV statistic can capture nonlinear correlations and complex relationships among the individual data types and between gene expression and microbiome composition through measuring general dependency. Testing proceeds via a similar route as existing tests of the generalized RV coefficients and allows for rapid p-value calculation. Strategies to allow adjustment for confounding effects, which is crucial for avoiding misleading results, and to alleviate the problem of selecting the most favorable kernel are considered. Simulation studies show that KRV is useful in testing statistical independence with finite samples given the kernels are appropriately chosen, and can powerfully identify existing associations between microbiome composition and host genomic data while protecting type I error. We apply the KRV to a microbiome study examining the relationship between host transcriptome and microbiome composition within the context of inflammatory bowel disease and are able to derive new biological insights and provide formal inference on prior qualitative observations.
+28295177	2	44	fast small-sample kernel independence test	T170	UMLS:C0237913
+28295177	72	98	level association analysis	T062	UMLS:C0242481
+28295177	145	150	human	T204	UMLS:C0086418
+28295177	162	170	diseases	T038	UMLS:C0012634
+28295177	172	183	researchers	T097	UMLS:C0035173
+28295177	282	289	genomic	T017	UMLS:C0017428
+28295177	300	314	dimensionality	T082	UMLS:C1707753
+28295177	388	396	genomics	T017	UMLS:C0017428
+28295177	415	425	challenges	T058	UMLS:C0805586
+28295177	430	438	analysis	T062	UMLS:C0936012
+28295177	468	500	kernel RV coefficient (KRV) test	T170	UMLS:C0237913
+28295177	550	565	gene expression	T038	UMLS:C0017262
+28295177	598	611	KRV statistic	T170	UMLS:C0237913
+28295177	717	732	gene expression	T038	UMLS:C0017262
+28295177	847	852	tests	T170	UMLS:C0392366
+28295177	1057	1064	problem	T033	UMLS:C0033213
+28295177	1097	1103	kernel	T170	UMLS:C1881303
+28295177	1120	1138	Simulation studies	T062	UMLS:C0679083
+28295177	1229	1236	kernels	T170	UMLS:C1881303
+28295177	1353	1360	genomic	T017	UMLS:C0017428
+28295177	1383	1389	type I	T170	UMLS:C0441729
+28295177	1430	1435	study	T062	UMLS:C2603343
+28295177	1476	1489	transcriptome	T082	UMLS:C3178810
+28295177	1539	1565	inflammatory bowel disease	T038	UMLS:C0021390

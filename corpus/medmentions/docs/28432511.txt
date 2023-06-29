@@ -1,0 +1,71 @@
+28432511|t|Environmental management zoning for coal mining in mainland China based on ecological and resources conditions
+28432511|a|The purpose of this research is to establish an environmental management zoning for coal mining industry which is served as a basis for making environmental management policies. Based on the specific impacts of coal mining and regional characteristics of environment and resources, the ecological impact, water resources impact, and arable land impact are chose as the zoning indexes to construct the index system. The ecological sensitivity is graded into three levels of low, medium, and high according to analytical hierarchy processes and gray fixed weight clustering analysis, and the water resources sensitivity is divided into five levels of lower, low, medium, high, and higher according to the weighted sum of sub-indexes, while only the arable land sensitive zone was extracted on the basis of the ratio of arable land to the county or city. By combining the ecological sensitivity zoning and the water resources sensitive zoning and then overlapping the arable-sensitive areas, the mainland China is classified into six types of environmental management zones for coal mining except to the forbidden exploitation areas.
+28432511	0	13	Environmental	T082	C0014406
+28432511	14	24	management	T057	C1273870
+28432511	25	31	zoning	UnknownType	C0680812
+28432511	36	47	coal mining	T057	C0009133
+28432511	51	65	mainland China	T083	C0008115
+28432511	75	85	ecological	T090	C0013546
+28432511	90	99	resources	T078	C0035201
+28432511	100	110	conditions	T080	C0348080
+28432511	159	172	environmental	T082	C0014406
+28432511	173	183	management	T057	C1273870
+28432511	184	190	zoning	UnknownType	C0680812
+28432511	195	206	coal mining	T057	C0009133
+28432511	207	215	industry	T057	C0021267
+28432511	254	267	environmental	T082	C0014406
+28432511	268	278	management	T057	C1273870
+28432511	279	287	policies	T170	C0242456
+28432511	311	318	impacts	T080	C4049986
+28432511	322	333	coal mining	T057	C0009133
+28432511	338	346	regional	T082	C0205147
+28432511	347	362	characteristics	T080	C1521970
+28432511	366	377	environment	T082	C0014406
+28432511	382	391	resources	T078	C0035201
+28432511	397	414	ecological impact	T067	C0282165
+28432511	416	431	water resources	T070	C3494255
+28432511	432	438	impact	T080	C4049986
+28432511	444	455	arable land	T073	C0557668
+28432511	456	462	impact	T080	C4049986
+28432511	480	486	zoning	UnknownType	C0680812
+28432511	487	494	indexes	T170	C0600653
+28432511	512	517	index	T170	C0918012
+28432511	518	524	system	T169	C0449913
+28432511	530	540	ecological	T090	C0013546
+28432511	541	552	sensitivity	T169	C0332324
+28432511	556	562	graded	T185	C0441800
+28432511	584	587	low	T080	C0205251
+28432511	589	595	medium	T081	C0439536
+28432511	601	605	high	T080	C0205250
+28432511	619	649	analytical hierarchy processes	T067	C1522240
+28432511	654	691	gray fixed weight clustering analysis	T062	C0936012
+28432511	701	716	water resources	T070	C3494255
+28432511	717	728	sensitivity	T169	C0332324
+28432511	760	765	lower	T080	C0205251
+28432511	767	770	low	T080	C0205251
+28432511	772	778	medium	T081	C0439536
+28432511	780	784	high	T080	C0205250
+28432511	790	796	higher	T080	C0205250
+28432511	814	822	weighted	T081	C0043100
+28432511	823	826	sum	T081	C1515051
+28432511	830	841	sub-indexes	T170	C0600653
+28432511	858	869	arable land	T073	C0557668
+28432511	870	879	sensitive	T169	C0332324
+28432511	880	884	zone	T082	C1710706
+28432511	919	924	ratio	T081	C0456603
+28432511	928	939	arable land	T073	C0557668
+28432511	947	953	county	T083	C0079170
+28432511	957	961	city	T083	C0008848
+28432511	980	990	ecological	T090	C0013546
+28432511	991	1002	sensitivity	T169	C0332324
+28432511	1003	1009	zoning	UnknownType	C0680812
+28432511	1018	1033	water resources	T070	C3494255
+28432511	1034	1043	sensitive	T169	C0332324
+28432511	1044	1050	zoning	UnknownType	C0680812
+28432511	1076	1098	arable-sensitive areas	T082	C0205146
+28432511	1104	1118	mainland China	T083	C0008115
+28432511	1151	1164	environmental	T082	C0014406
+28432511	1165	1175	management	T057	C1273870
+28432511	1176	1181	zones	T082	C1710706
+28432511	1186	1197	coal mining	T057	C0009133
+28432511	1212	1240	forbidden exploitation areas	T082	C0205146

@@ -1,0 +1,96 @@
+27765603|t|Different microRNA alterations contribute to diverse outcomes following EV71 and CA16 infections: Insights from high-throughput sequencing in rhesus monkey peripheral blood mononuclear cells
+27765603|a|Enterovirus 71 (EV71) and Coxsackievirus A16 (CA16) are the predominant pathogens of hand, foot, and mouth disease (HFMD). Although these viruses exhibit genetic homology, the clinical manifestations caused by the two viruses have some discrepancies. In addition, the underlying mechanisms leading to these differences remain unclear. microRNAs (miRNAs) participate in numerous biological or pathological processes, including host responses to viral infections. Here, we focused on differences in miRNA expression patterns in rhesus monkey peripheral blood mononuclear cells (PBMCs) infected with EV71 and CA16 at various time points using high-throughput sequencing. The results demonstrated that 106 known and 13 novel miRNAs exhibited significant differences, and 32 key miRNAs among them for target prediction presented opposite trends in the EV71 - and CA16 - infected samples. GO and pathway analysis of the predicted targets showed enrichment in 14 biological processes, 10 molecular functions, 8 cellular components and 104 pathways. Subsequently, regulatory networks of miRNA - transcription factors, miRNA - predicted targets, miRNA - GOs and miRNA - pathways were constructed to reveal the complex regulatory mechanisms of miRNAs during the infection phase. Ultimately, we analysed hierarchical GO categories of the predicted targets involved in immune system processes, which indicated that the innate and adaptive immunity following EV71 and CA16 infections may be remarkably distinct. In conclusion, this report is the first describing miRNA expression profiles in PBMCs with EV71 and CA16 infections using high-throughput sequencing. Our findings could provide a valuable basis for further studies on the regulatory roles of miRNAs related to the different immune responses caused by EV71 and CA16 infections.
+27765603	10	18	microRNA	T028	C2825314
+27765603	19	30	alterations	T078	C1515926
+27765603	45	61	diverse outcomes	T169	C1274040
+27765603	72	76	EV71	T047	C3853962
+27765603	81	85	CA16	T129	C1440505
+27765603	86	96	infections	T046	C3714514
+27765603	112	138	high-throughput sequencing	T063	C2936623
+27765603	142	155	rhesus monkey	T015	C0024400
+27765603	156	190	peripheral blood mononuclear cells	T025	C1321301
+27765603	191	205	Enterovirus 71	T005	C2963492
+27765603	207	211	EV71	T005	C2963492
+27765603	217	235	Coxsackievirus A16	T129	C1440505
+27765603	237	241	CA16	T129	C1440505
+27765603	251	272	predominant pathogens	T001	C0450254
+27765603	276	305	hand, foot, and mouth disease	T047	C0018572
+27765603	307	311	HFMD	T047	C0018572
+27765603	329	336	viruses	T005	C0042776
+27765603	345	361	genetic homology	T045	C0314643
+27765603	367	390	clinical manifestations	T080	C1280464
+27765603	409	416	viruses	T005	C0042776
+27765603	427	440	discrepancies	T033	C1290905
+27765603	459	480	underlying mechanisms	T169	C0441712
+27765603	526	535	microRNAs	T114,T123	C1101610
+27765603	537	543	miRNAs	T114,T123	C1101610
+27765603	569	579	biological	T038	C3714634
+27765603	583	605	pathological processes	T046	C0030660
+27765603	617	631	host responses	T042	C0301872
+27765603	635	651	viral infections	T047	C0042769
+27765603	688	693	miRNA	T028	C2825314
+27765603	694	704	expression	T045	C0017262
+27765603	705	713	patterns	T082	C0449774
+27765603	717	730	rhesus monkey	T015	C0024400
+27765603	731	765	peripheral blood mononuclear cells	T025	C1321301
+27765603	767	772	PBMCs	T025	C1321301
+27765603	774	782	infected	T033	C0439663
+27765603	788	792	EV71	T005	C2963492
+27765603	797	801	CA16	T129	C1440505
+27765603	831	857	high-throughput sequencing	T063	C2936623
+27765603	893	898	known	T080	C0205309
+27765603	906	911	novel	T080	C0205314
+27765603	912	918	miRNAs	T114,T123	C1101610
+27765603	965	971	miRNAs	T114,T123	C1101610
+27765603	987	993	target	T169	C1521840
+27765603	994	1004	prediction	T078	C0681842
+27765603	1038	1042	EV71	T047	C3853962
+27765603	1049	1053	CA16	T129	C1440505
+27765603	1056	1064	infected	T033	C0439663
+27765603	1074	1076	GO	T170	C1138831
+27765603	1081	1097	pathway analysis	T170	C0868995
+27765603	1105	1114	predicted	T078	C0681842
+27765603	1115	1122	targets	T169	C1521840
+27765603	1147	1167	biological processes	T038	C3714634
+27765603	1172	1191	molecular functions	T044	C1148560
+27765603	1195	1214	cellular components	T026	C1166607
+27765603	1223	1231	pathways	T077	C1705987
+27765603	1247	1266	regulatory networks	T044	C1720950
+27765603	1270	1275	miRNA	T114,T123	C1101610
+27765603	1278	1299	transcription factors	T116,T123	C0040648
+27765603	1301	1306	miRNA	T114,T123	C1101610
+27765603	1309	1318	predicted	T078	C0681842
+27765603	1319	1326	targets	T169	C1521840
+27765603	1328	1333	miRNA	T114,T123	C1101610
+27765603	1336	1339	GOs	T170	C1138831
+27765603	1344	1349	miRNA	T114,T123	C1101610
+27765603	1352	1360	pathways	T077	C1705987
+27765603	1392	1421	complex regulatory mechanisms	T169	C0441712
+27765603	1425	1431	miRNAs	T114,T123	C1101610
+27765603	1443	1458	infection phase	T047	C1321909
+27765603	1475	1483	analysed	T062	C0936012
+27765603	1484	1496	hierarchical	T169	C0699032
+27765603	1497	1499	GO	T170	C1138831
+27765603	1500	1510	categories	T170	C0683312
+27765603	1518	1527	predicted	T078	C0681842
+27765603	1528	1535	targets	T169	C1521840
+27765603	1548	1571	immune system processes	T042	C1817756
+27765603	1598	1604	innate	T032	C0020969
+27765603	1609	1626	adaptive immunity	T039	C0678209
+27765603	1637	1641	EV71	T047	C3853962
+27765603	1646	1650	CA16	T129	C1440505
+27765603	1651	1661	infections	T046	C3714514
+27765603	1710	1716	report	T170	C0684224
+27765603	1741	1746	miRNA	T028	C2825314
+27765603	1747	1766	expression profiles	T081	C1956267
+27765603	1770	1775	PBMCs	T025	C1321301
+27765603	1781	1785	EV71	T047	C3853962
+27765603	1790	1794	CA16	T129	C1440505
+27765603	1795	1805	infections	T046	C3714514
+27765603	1812	1838	high-throughput sequencing	T063	C2936623
+27765603	1896	1903	studies	T062	C2603343
+27765603	1931	1937	miRNAs	T114,T123	C1101610
+27765603	1963	1979	immune responses	T042	C0301872
+27765603	1990	1994	EV71	T047	C3853962
+27765603	1999	2003	CA16	T129	C1440505
+27765603	2004	2014	infections	T046	C3714514

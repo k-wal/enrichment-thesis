@@ -1,0 +1,49 @@
+27942475|t|Sinogram -based coil selection for streak artifact reduction in undersampled radial real-time magnetic resonance imaging
+27942475|a|Streak artifacts are a common problem in radial magnetic resonance imaging (MRI). We therefore developed a method for automatically excluding receiver coil elements which lead to these artifacts. The proposed coil selection relates to real-time MRI data based on highly undersampled radial acquisitions. It exploits differences between high- and low-resolution sinograms reconstructed from datasets acquired during preparatory scans. Apart from phantom validations, the performance was assessed for real-time MRI studies of different human organ systems in vivo. The algorithm greatly reduces streak artifact strength without compromising image quality in other parts of the image. It is robust with respect to different experimental settings and fast to be included in the online reconstruction pipeline for real-time MRI. The proposed method enables a fast reduction of streak artifacts in radial real-time MRI.
+27942475	0	8	Sinogram	T060	C0412195
+27942475	16	20	coil	T074	C1705946
+27942475	21	30	selection	T052	C1707391
+27942475	35	50	streak artifact	T033	C2828115
+27942475	51	60	reduction	T080	C0392756
+27942475	77	120	radial real-time magnetic resonance imaging	T060	C1135565
+27942475	121	137	Streak artifacts	T033	C2828115
+27942475	162	195	radial magnetic resonance imaging	T060	C0024485
+27942475	197	200	MRI	T060	C0024485
+27942475	228	234	method	T169	C0449851
+27942475	239	252	automatically	T033	C3842331
+27942475	253	262	excluding	T169	C0332196
+27942475	263	271	receiver	T073	C1706201
+27942475	272	276	coil	T074	C1705946
+27942475	277	285	elements	T077	C1705248
+27942475	306	315	artifacts	T033	C2828115
+27942475	330	334	coil	T074	C1705946
+27942475	335	344	selection	T052	C1707391
+27942475	356	369	real-time MRI	T060	C1135565
+27942475	404	410	radial	T077	C0442038
+27942475	411	423	acquisitions	T052	C1706701
+27942475	457	462	high-	T059	C1719039
+27942475	467	481	low-resolution	T033	C4038402
+27942475	482	491	sinograms	T060	C0412195
+27942475	511	519	datasets	T170	C0150098
+27942475	548	553	scans	T060	C0441633
+27942475	566	573	phantom	T073	C0282611
+27942475	591	602	performance	T052	C1882330
+27942475	607	615	assessed	T052	C1516048
+27942475	620	633	real-time MRI	T060	C1135565
+27942475	634	641	studies	T062	C2603343
+27942475	655	660	human	T016	C0086418
+27942475	661	674	organ systems	T022	C0460002
+27942475	675	682	in vivo	T082	C1515655
+27942475	688	697	algorithm	T170	C0002045
+27942475	706	713	reduces	T080	C0392756
+27942475	714	729	streak artifact	T033	C2828115
+27942475	730	738	strength	T078	C0808080
+27942475	760	773	image quality	T080	C0806487
+27942475	796	801	image	T170	C1704922
+27942475	842	863	experimental settings	T062	C0015320
+27942475	895	925	online reconstruction pipeline	T170	C0871840
+27942475	930	943	real-time MRI	T060	C1135565
+27942475	958	964	method	T169	C0449851
+27942475	980	989	reduction	T080	C0392756
+27942475	993	1009	streak artifacts	T033	C2828115
+27942475	1013	1033	radial real-time MRI	T060	C1135565

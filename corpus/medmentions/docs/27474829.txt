@@ -1,0 +1,53 @@
+27474829|t|Combination of diagnostic laparoscopy and intraoperative indocyanine green fluorescence angiography for the early detection of intestinal ischemia not detectable at CT scan
+27474829|a|Acute mesenteric ischemia is the most severe gastrointestinal complication of acute aortic dissection. The timing of diagnosis is of major importance, in fact the recognition of acute mesenteric ischemia often occurs too late due to the presence of unspecific symptoms and lack of reliable exams. Recently, indocyanine green fluorescence angiography has been adopted in order to measure blood perfusion and microcirculation. We decided to perform a diagnostic laparoscopy with the support of intra-operative near-infrared indocyanine green fluorescence angiography, in order to detect an initial intestinal ischemia in a 68-year-old patient previously treated with a TEVAR procedure for a type-B aortic dissection. The fluorescence system demonstrated an hypoperfused area in the ascending colon, therefore an ileocholic resection was thus performed. Opening the operatory specimen, the mucosa of the colon appeared totally ischemic, whilst the serosa was normal. When ischemia occurs, the oxygen supply is interrupted, hence the necrosis of the enteral mucosa occurs within 3h, whilst the necrosis of the full thickness of the bowel wall occurs within 6h. A diagnosis during these " golden hours " is of major importance for a successful treatment. The combination of laparoscopy and UV light and fluorescein dye should be considered as an invaluable diagnostic procedure for the diagnosis of early stage acute bowel ischemia which is not visible at instrumental examinations nor with diagnostic laparoscopy.
+27474829	15	37	diagnostic laparoscopy	T060	C1880304
+27474829	42	56	intraoperative	T079	C0456904
+27474829	57	99	indocyanine green fluorescence angiography	T060	C0430879
+27474829	108	123	early detection	T060	C0596473
+27474829	127	146	intestinal ischemia	T047	C0156149
+27474829	151	161	detectable	T201	C3830527
+27474829	165	172	CT scan	T060	C0040405
+27474829	173	198	Acute mesenteric ischemia	T047	C0001363
+27474829	218	247	gastrointestinal complication	T046	C0161819
+27474829	251	274	acute aortic dissection	T047	C0241868
+27474829	290	299	diagnosis	T033	C0011900
+27474829	351	376	acute mesenteric ischemia	T047	C0001363
+27474829	433	441	symptoms	T184	C1457887
+27474829	480	522	indocyanine green fluorescence angiography	T060	C0430879
+27474829	560	575	blood perfusion	T042	C0599705
+27474829	580	596	microcirculation	T042	C0025962
+27474829	622	644	diagnostic laparoscopy	T060	C1880304
+27474829	665	680	intra-operative	T079	C0456904
+27474829	695	737	indocyanine green fluorescence angiography	T060	C0430879
+27474829	769	788	intestinal ischemia	T047	C0156149
+27474829	806	813	patient	T101	C0030705
+27474829	825	837	treated with	T061	C0332293
+27474829	840	855	TEVAR procedure	T061	C0087111
+27474829	862	886	type-B aortic dissection	T190	C0340647
+27474829	892	911	fluorescence system	T060	C0430879
+27474829	928	945	hypoperfused area	T082	C1254362
+27474829	953	968	ascending colon	T023	C0227375
+27474829	983	1003	ileocholic resection	T061	C1280902
+27474829	1046	1054	specimen	T167	C0370003
+27474829	1060	1066	mucosa	T024	C0026724
+27474829	1074	1079	colon	UnknownType	C0391907
+27474829	1097	1106	ischemic,	T046	C0022116
+27474829	1118	1124	serosa	T024	C0036760
+27474829	1142	1150	ischemia	T046	C0022116
+27474829	1163	1176	oxygen supply	T201	C0429622
+27474829	1203	1211	necrosis	T042	C0027540
+27474829	1227	1233	mucosa	T024	C0026724
+27474829	1263	1271	necrosis	T042	C0027540
+27474829	1279	1311	full thickness of the bowel wall	T190	C1390881
+27474829	1332	1341	diagnosis	T033	C0011900
+27474829	1357	1369	golden hours	T079	C0439227
+27474829	1412	1421	treatment	T061	C0087111
+27474829	1442	1453	laparoscopy	T060	C0031150
+27474829	1458	1466	UV light	T061	C0041626
+27474829	1471	1486	fluorescein dye	T109,T130	C0060520
+27474829	1525	1545	diagnostic procedure	T060	C0430022
+27474829	1554	1563	diagnosis	T033	C0011900
+27474829	1567	1578	early stage	T079	C2363430
+27474829	1579	1599	acute bowel ischemia	T047	C2062315
+27474829	1624	1649	instrumental examinations	T058	C1254363
+27474829	1659	1681	diagnostic laparoscopy	T060	C1880304

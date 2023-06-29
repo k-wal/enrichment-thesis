@@ -1,0 +1,73 @@
+28295177|t|A fast small-sample kernel independence test for microbiome community - level association analysis
+28295177|a|To fully understand the role of microbiome in human health and diseases, researchers are increasingly interested in assessing the relationship between microbiome composition and host genomic data. The dimensionality of the data as well as complex relationships between microbiota and host genomics pose considerable challenges for analysis. In this article, we apply a kernel RV coefficient (KRV) test to evaluate the overall association between host gene expression and microbiome composition. The KRV statistic can capture nonlinear correlations and complex relationships among the individual data types and between gene expression and microbiome composition through measuring general dependency. Testing proceeds via a similar route as existing tests of the generalized RV coefficients and allows for rapid p-value calculation. Strategies to allow adjustment for confounding effects, which is crucial for avoiding misleading results, and to alleviate the problem of selecting the most favorable kernel are considered. Simulation studies show that KRV is useful in testing statistical independence with finite samples given the kernels are appropriately chosen, and can powerfully identify existing associations between microbiome composition and host genomic data while protecting type I error. We apply the KRV to a microbiome study examining the relationship between host transcriptome and microbiome composition within the context of inflammatory bowel disease and are able to derive new biological insights and provide formal inference on prior qualitative observations.
+28295177	2	44	fast small-sample kernel independence test	T170	C0237913
+28295177	49	59	microbiome	T001	C1956108
+28295177	60	69	community	T096	C0009462
+28295177	72	98	level association analysis	T062	C0242481
+28295177	123	127	role	T077	C1705810
+28295177	131	141	microbiome	T001	C1956108
+28295177	145	150	human	T016	C0086418
+28295177	151	157	health	T078	C0018684
+28295177	162	170	diseases	T047	C0012634
+28295177	172	183	researchers	T097	C0035173
+28295177	215	224	assessing	T052	C1516048
+28295177	229	241	relationship	T080	C0439849
+28295177	250	272	microbiome composition	T001	C1956108
+28295177	277	281	host	T001	C1167395
+28295177	282	289	genomic	T028	C0017428
+28295177	290	294	data	T078	C1511726
+28295177	300	314	dimensionality	T082	C1707753
+28295177	322	326	data	T078	C1511726
+28295177	338	345	complex	T080	C0439855
+28295177	346	359	relationships	T080	C0439849
+28295177	368	378	microbiota	T001	C3887843
+28295177	383	387	host	T001	C1167395
+28295177	388	396	genomics	T028	C0017428
+28295177	415	425	challenges	T058	C0805586
+28295177	430	438	analysis	T062	C0936012
+28295177	468	500	kernel RV coefficient (KRV) test	T170	C0237913
+28295177	517	524	overall	T080	C1561607
+28295177	525	536	association	T080	C0439849
+28295177	545	549	host	T001	C1167395
+28295177	550	565	gene expression	T045	C0017262
+28295177	570	592	microbiome composition	T001	C1956108
+28295177	598	611	KRV statistic	T170	C0237913
+28295177	624	646	nonlinear correlations	T080	C1707520
+28295177	651	658	complex	T080	C0439855
+28295177	659	672	relationships	T080	C0439849
+28295177	694	704	data types	T078	C1609081
+28295177	717	732	gene expression	T045	C0017262
+28295177	737	759	microbiome composition	T001	C1956108
+28295177	786	796	dependency	T078	C1254370
+28295177	798	805	Testing	T169	C0039593
+28295177	847	852	tests	T170	C0392366
+28295177	872	887	RV coefficients	T081	C1707429
+28295177	909	916	p-value	T081	C1709380
+28295177	917	928	calculation	T052	C1441506
+28295177	930	940	Strategies	T169	C0205245
+28295177	965	984	confounding effects	T169	C0009673
+28295177	1027	1034	results	T169	C1274040
+28295177	1057	1064	problem	T033	C0033213
+28295177	1097	1103	kernel	T170	C1881303
+28295177	1120	1138	Simulation studies	T062	C0679083
+28295177	1149	1152	KRV	T081	C1707429
+28295177	1166	1173	testing	T169	C0039593
+28295177	1174	1198	statistical independence	T078	C0085862
+28295177	1229	1236	kernels	T170	C1881303
+28295177	1300	1312	associations	T080	C0439849
+28295177	1321	1343	microbiome composition	T001	C1956108
+28295177	1348	1352	host	T001	C1167395
+28295177	1353	1360	genomic	T028	C0017428
+28295177	1361	1365	data	T078	C1511726
+28295177	1383	1389	type I	T185	C0441729
+28295177	1390	1395	error	T080	C0743559
+28295177	1410	1413	KRV	T081	C1707429
+28295177	1419	1429	microbiome	T001	C1956108
+28295177	1430	1435	study	T062	C2603343
+28295177	1450	1462	relationship	T080	C0439849
+28295177	1471	1475	host	T001	C1167395
+28295177	1476	1489	transcriptome	T086	C3178810
+28295177	1494	1516	microbiome composition	T001	C1956108
+28295177	1528	1535	context	T078	C0449255
+28295177	1539	1565	inflammatory bowel disease	T047	C0021390
+28295177	1651	1675	qualitative observations	T080	C0449576

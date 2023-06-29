@@ -1,0 +1,29 @@
+28480148|t|The use of informativity in the development of robust viromics -based examinations
+28480148|a|Metagenomics -based studies have provided insight into many of the complex microbial communities responsible for maintaining life on this planet. Sequencing efforts often uncover novel genetic content; this is most evident for phage communities, in which upwards of 90% of all sequences exhibit no similarity to any sequence in current data repositories. For the small fraction that can be identified, the top BLAST hit is generally posited as being representative of a viral taxon present in the sample of origin. Homology -based classification, however, can be misleading as sequence repositories capture but a small fraction of phage diversity. Furthermore, lateral gene transfer is pervasive within phage communities. As such, the presence of a particular gene may not be indicative of the presence of a particular viral species. Rather, it is just that: an indication of the presence of a specific gene. To circumvent this limitation, we have developed a new method for the analysis of viral metagenomic datasets. BLAST hits are weighted, integrating the sequence identity and length of alignments as well as a taxonomic signal, such that each gene is evaluated with respect to its information content. Through this quantifiable metric, predictions of viral community structure can be made with confidence. As a proof-of-concept, the approach presented here was implemented and applied to seven freshwater viral metagenomes. While providing a robust method for evaluating viral metagenomic data, the tool is versatile and can easily be customized to investigations of any environment or biome.
+28480148	47	62	robust viromics	T017	UMLS:C0042720
+28480148	70	82	examinations	T062	UMLS:C0242481
+28480148	196	227	maintaining life on this planet	T058	UMLS:C0184640
+28480148	229	239	Sequencing	T062	UMLS:C0487717
+28480148	268	283	genetic content	T017	UMLS:C0017272
+28480148	310	327	phage communities	T005	UMLS:C0004651
+28480148	360	369	sequences	T058	UMLS:C0162801
+28480148	399	407	sequence	T058	UMLS:C0162801
+28480148	493	498	BLAST	T170	UMLS:C2698333
+28480148	614	628	classification	T170	UMLS:C0008902
+28480148	660	681	sequence repositories	T170	UMLS:C0026382
+28480148	714	729	phage diversity	T005	UMLS:C0004651
+28480148	744	751	lateral	T082	UMLS:C0205093
+28480148	752	765	gene transfer	T062	UMLS:C1517499
+28480148	769	778	pervasive	T082	UMLS:C0205391
+28480148	786	803	phage communities	T005	UMLS:C0004651
+28480148	832	847	particular gene	T017	UMLS:C0017337
+28480148	891	915	particular viral species	T005	UMLS:C0042776
+28480148	977	990	specific gene	T017	UMLS:C0017337
+28480148	1062	1100	analysis of viral metagenomic datasets	T058	UMLS:C3854164
+28480148	1102	1107	BLAST	T170	UMLS:C2698333
+28480148	1165	1185	length of alignments	T062	UMLS:C0080143
+28480148	1227	1236	each gene	T017	UMLS:C0017337
+28480148	1483	1511	freshwater viral metagenomes	T017	UMLS:C2717745
+28480148	1588	1592	tool	T170	UMLS:C0037589
+28480148	1638	1652	investigations	T058	UMLS:C1261322
+28480148	1660	1671	environment	T082	UMLS:C0014406

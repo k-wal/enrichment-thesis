@@ -1,0 +1,62 @@
+22711886|t|TNFR-associated factor 2 deficiency in B lymphocytes predisposes to chronic lymphocytic leukemia/small lymphocytic lymphoma in mice.
+22711886|a|We have previously shown that transgenic (tg) mice expressing in B lymphocytes both BCL-2 and a TNFR-associated factor 2 (TRAF2) mutant lacking the really interesting new gene and zinc finger domains (TRAF2DN) develop small lymphocytic lymphoma and chronic lymphocytic leukemia with high incidence (Zapata et al. 2004. Proc. Nat. Acad. Sci. USA 101: 16600-16605). Further analysis of the expression of TRAF2 and TRAF2DN in purified B cells demonstrated that expression of both endogenous TRAF2 and tg TRAF2DN was negligible in Traf2DN-tg B cells compared with wild-type mice. This was the result of proteasome-dependent degradation, and rendered TRAF2DN B cells as bona fide TRAF2-deficient B cells. Similar to B cells with targeted Traf2 deletion, Traf2DN-tg mice show expanded marginal zone B cell population and have constitutive p100 NF-kappaB2 processing. Also, TRAF3, X-linked inhibitor of apoptosis, and Bcl-X(L) expression levels were increased, whereas cellular inhibitors of apoptosis 1 and 2 levels were drastically reduced compared with those found in wild-type B cells. Moreover, consistent with previous results, we also show that TRAF2 was required for efficient JNK and ERK activation in response to CD40 engagement. However, TRAF2 was deleterious for BCR-mediated activation of these kinases. In contrast, TRAF2 deficiency had no effect on CD40-mediated p38 MAPK activation but significantly reduced BCR-mediated p38 activation. Finally, we further confirm that TRAF2 was required for CD40-mediated proliferation, but its absence relieved B cells of the need for B cell activating factor for survival. Altogether, our results suggest that TRAF2 deficiency cooperates with BCL-2 in promoting chronic lymphocytic leukemia/small lymphocytic lymphoma in mice, possibly by specifically enforcing marginal zone B cell accumulation, increasing X-linked inhibitor of apoptosis expression, and rendering B cells independent of B cell activating factor for survival.
+22711886	0	24	TNFR-associated factor 2	GeneOrGeneProduct	22030
+22711886	68	96	chronic lymphocytic leukemia	DiseaseOrPhenotypicFeature	D015451
+22711886	97	123	small lymphocytic lymphoma	DiseaseOrPhenotypicFeature	D015451
+22711886	127	131	mice	OrganismTaxon	10090
+22711886	179	183	mice	OrganismTaxon	10090
+22711886	217	222	BCL-2	GeneOrGeneProduct	596
+22711886	229	253	TNFR-associated factor 2	GeneOrGeneProduct	22030
+22711886	255	260	TRAF2	GeneOrGeneProduct	22030
+22711886	351	377	small lymphocytic lymphoma	DiseaseOrPhenotypicFeature	D015451
+22711886	382	410	chronic lymphocytic leukemia	DiseaseOrPhenotypicFeature	D015451
+22711886	535	540	TRAF2	GeneOrGeneProduct	22030
+22711886	621	626	TRAF2	GeneOrGeneProduct	22030
+22711886	660	672	Traf2DN-tg B	CellLine	CVCL_TT54
+22711886	703	707	mice	OrganismTaxon	10090
+22711886	732	742	proteasome	GeneOrGeneProduct	16912
+22711886	808	813	TRAF2	GeneOrGeneProduct	22030
+22711886	866	871	Traf2	GeneOrGeneProduct	22030
+22711886	882	892	Traf2DN-tg	CellLine	CVCL_TT54
+22711886	893	897	mice	OrganismTaxon	10090
+22711886	966	981	p100 NF-kappaB2	GeneOrGeneProduct	18034
+22711886	1000	1005	TRAF3	GeneOrGeneProduct	22031
+22711886	1007	1038	X-linked inhibitor of apoptosis	GeneOrGeneProduct	11798
+22711886	1044	1052	Bcl-X(L)	GeneOrGeneProduct	12048
+22711886	1095	1135	cellular inhibitors of apoptosis 1 and 2	GeneOrGeneProduct	11796,11797
+22711886	1278	1283	TRAF2	GeneOrGeneProduct	22030
+22711886	1311	1314	JNK	GeneOrGeneProduct	26419
+22711886	1319	1322	ERK	GeneOrGeneProduct	26413
+22711886	1349	1353	CD40	GeneOrGeneProduct	21939
+22711886	1375	1380	TRAF2	GeneOrGeneProduct	22030
+22711886	1401	1404	BCR	GeneOrGeneProduct	12518
+22711886	1456	1461	TRAF2	GeneOrGeneProduct	22030
+22711886	1490	1494	CD40	GeneOrGeneProduct	21939
+22711886	1504	1512	p38 MAPK	GeneOrGeneProduct	26416
+22711886	1550	1553	BCR	GeneOrGeneProduct	12518
+22711886	1563	1566	p38	GeneOrGeneProduct	26416
+22711886	1612	1617	TRAF2	GeneOrGeneProduct	22030
+22711886	1635	1639	CD40	GeneOrGeneProduct	21939
+22711886	1713	1737	B cell activating factor	GeneOrGeneProduct	24099
+22711886	1789	1794	TRAF2	GeneOrGeneProduct	22030
+22711886	1822	1827	BCL-2	GeneOrGeneProduct	596
+22711886	1841	1869	chronic lymphocytic leukemia	DiseaseOrPhenotypicFeature	D015451
+22711886	1870	1896	small lymphocytic lymphoma	DiseaseOrPhenotypicFeature	D015451
+22711886	1900	1904	mice	OrganismTaxon	10090
+22711886	1987	2018	X-linked inhibitor of apoptosis	GeneOrGeneProduct	11798
+22711886	2068	2092	B cell activating factor	GeneOrGeneProduct	24099
+22711886	Association	596	11798	Novel
+22711886	Association	596	D015451	Novel
+22711886	Association	12518	26416	No
+22711886	Association	21939	26416	No
+22711886	Association	26413	21939	Novel
+22711886	Association	26419	21939	Novel
+22711886	Association	22030	24099	Novel
+22711886	Negative_Correlation	22030	11798	Novel
+22711886	Association	22030	596	Novel
+22711886	Positive_Correlation	22030	26416	Novel
+22711886	Association	22030	12518	Novel
+22711886	Association	22030	21939	Novel
+22711886	Positive_Correlation	22030	26413	Novel
+22711886	Positive_Correlation	22030	26419	Novel
+22711886	Negative_Correlation	22030	D015451	Novel

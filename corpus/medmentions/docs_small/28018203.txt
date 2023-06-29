@@ -1,0 +1,35 @@
+28018203|t|Computational Properties of the Hippocampus Increase the Efficiency of Goal-Directed Foraging through Hierarchical Reinforcement Learning
+28018203|a|The mammalian brain is thought to use a version of Model -based Reinforcement Learning (MBRL) to guide "goal-directed" behavior, wherein animals consider goals and make plans to acquire desired outcomes. However, conventional MBRL algorithms do not fully explain animals ' ability to rapidly adapt to environmental changes, or learn multiple complex tasks. They also require extensive computation, suggesting that goal-directed behavior is cognitively expensive. We propose here that key features of processing in the hippocampus support a flexible MBRL mechanism for spatial navigation that is computationally efficient and can adapt quickly to change. We investigate this idea by implementing a computational MBRL framework that incorporates features inspired by computational properties of the hippocampus: a hierarchical representation of space, "forward sweeps" through future spatial trajectories, and context -driven remapping of place cells. We find that a hierarchical abstraction of space greatly reduces the computational load (mental effort) required for adaptation to changing environmental conditions, and allows efficient scaling to large problems. It also allows abstract knowledge gained at high levels to guide adaptation to new obstacles. Moreover, a context -driven remapping mechanism allows learning and memory of multiple tasks. Simulating dorsal or ventral hippocampal lesions in our computational framework qualitatively reproduces behavioral deficits observed in rodents with analogous lesions. The framework may thus embody key features of how the brain organizes model -based RL to efficiently solve navigation and other difficult tasks.
+28018203	32	43	Hippocampus	T017	UMLS:C0019564
+28018203	142	151	mammalian	T204	UMLS:C0024660
+28018203	152	157	brain	T017	UMLS:C0006104
+28018203	178	185	version	T170	UMLS:C0333052
+28018203	189	194	Model	T170	UMLS:C3161035
+28018203	275	282	animals	T204	UMLS:C0003062
+28018203	292	297	goals	T170	UMLS:C0018017
+28018203	307	312	plans	T038	UMLS:C0025361
+28018203	369	379	algorithms	T170	UMLS:C0002045
+28018203	401	408	animals	T204	UMLS:C0003062
+28018203	465	470	learn	T038	UMLS:C0023185
+28018203	656	667	hippocampus	T017	UMLS:C0019564
+28018203	706	724	spatial navigation	T038	UMLS:C3850152
+28018203	935	946	hippocampus	T017	UMLS:C0019564
+28018203	981	986	space	T082	UMLS:C1883067
+28018203	1075	1086	place cells	T017	UMLS:C4277646
+28018203	1131	1136	space	T082	UMLS:C1883067
+28018203	1205	1215	adaptation	T038	UMLS:C0392673
+28018203	1228	1241	environmental	T082	UMLS:C0014406
+28018203	1292	1300	problems	T033	UMLS:C0033213
+28018203	1326	1335	knowledge	T038	UMLS:C0162340
+28018203	1367	1377	adaptation	T038	UMLS:C0392673
+28018203	1451	1459	learning	T038	UMLS:C0023185
+28018203	1464	1470	memory	T038	UMLS:C0025260
+28018203	1490	1500	Simulating	T062	UMLS:C0679083
+28018203	1501	1507	dorsal	T082	UMLS:C0205095
+28018203	1511	1518	ventral	T082	UMLS:C1704448
+28018203	1519	1530	hippocampal	T017	UMLS:C0019564
+28018203	1531	1538	lesions	T038	UMLS:C0221505
+28018203	1627	1634	rodents	T204	UMLS:C0035804
+28018203	1650	1657	lesions	T038	UMLS:C0221505
+28018203	1713	1718	brain	T017	UMLS:C0006104
+28018203	1729	1734	model	T170	UMLS:C3161035

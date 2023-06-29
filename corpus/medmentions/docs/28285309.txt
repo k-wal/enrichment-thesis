@@ -1,0 +1,100 @@
+28285309|t|Elevated Serum Uric Acid Level Predicts Rapid Decline in Kidney Function
+28285309|a|While elevated serum uric acid level (SUA) is a recognized risk factor for chronic kidney disease, it remains unclear whether change in SUA is independently associated with change in estimated glomerular filtration rate (eGFR) over time. Accordingly, we examined the longitudinal associations between change in SUA and change in eGFR over 5 years in a general Japanese population. This was a large, single-center, retrospective 5- year cohort study at St. Luke's International Hospital, Tokyo, Japan, between 2004 and 2009. We included 13,070 subjects (30-85 years) in our analyses whose data were available between 2004 and 2009. Of those, we excluded 492 subjects with eGFR <60 mL/min/1.73 m2 at baseline. In addition to examining the entire cohort (n = 12,578), we stratified our analyses by baseline eGFR groups: 60-90, 90-120, and ≥120 mL/min/1.73 m2. Linear and logistic regressions models were applied to examine the relationships between baseline and change in SUA, change in eGFR, and rapid eGFR decline (defined as the highest quartile of change in eGFR), adjusted for age, gender, body mass index, abdominal circumference, hypertension, dyslipidemia, and diabetes mellitus. After multivariable adjustments including baseline eGFR, 1 mg/dL increase in baseline SUA was associated with greater odds of developing rapid eGFR decline (OR 1.27, 95% CI 1.17-1.38), and 1 mg/dL increase in SUA over 5 years was associated with 3.77-fold greater odds of rapid eGFR decline (OR 3.77, 95% CI 3.35-4.26). Elevated baseline SUA and increasing SUA over time were independent risk factors for rapid eGFR decline over 5 years.
+28285309	0	30	Elevated Serum Uric Acid Level	T033	C3280219
+28285309	40	45	Rapid	T080	C0456962
+28285309	46	53	Decline	T081	C0547047
+28285309	57	72	Kidney Function	T042	C0232804
+28285309	79	109	elevated serum uric acid level	T033	C3280219
+28285309	111	114	SUA	T109,T123	C0041980
+28285309	132	143	risk factor	T033	C0035648
+28285309	148	170	chronic kidney disease	T047	C1561643
+28285309	199	205	change	T169	C0392747
+28285309	209	212	SUA	T109,T123	C0041980
+28285309	230	245	associated with	T080	C0332281
+28285309	246	252	change	T169	C0392747
+28285309	256	292	estimated glomerular filtration rate	T059	C3811844
+28285309	294	298	eGFR	T059	C3811844
+28285309	340	352	longitudinal	T082	C0205127
+28285309	353	365	associations	T080	C0439849
+28285309	374	380	change	T169	C0392747
+28285309	384	387	SUA	T109,T123	C0041980
+28285309	392	398	change	T169	C0392747
+28285309	402	406	eGFR	T059	C3811844
+28285309	414	419	years	T079	C0439234
+28285309	433	452	Japanese population	T098	C1556094
+28285309	465	470	large	T081	C0549177
+28285309	472	485	single-center	T073,T093	C0475309
+28285309	487	500	retrospective	T080	C1514923
+28285309	504	508	year	T079	C0439234
+28285309	509	521	cohort study	T081	C0009247
+28285309	525	558	St. Luke's International Hospital	T073,T093	C0019994
+28285309	560	565	Tokyo	T083	C0040371
+28285309	567	572	Japan	T083	C0022341
+28285309	616	624	subjects	T098	C0080105
+28285309	632	637	years	T079	C0439234
+28285309	646	654	analyses	T062	C0936012
+28285309	661	665	data	T078	C1511726
+28285309	717	725	excluded	T052	C2828389
+28285309	730	738	subjects	T098	C0080105
+28285309	744	748	eGFR	T059	C3811844
+28285309	771	779	baseline	T081	C1442488
+28285309	817	823	cohort	T098	C0599755
+28285309	856	864	analyses	T062	C0936012
+28285309	868	876	baseline	T081	C1442488
+28285309	877	881	eGFR	T059	C3811844
+28285309	882	888	groups	T078	C0441833
+28285309	930	936	Linear	T081	C0023733
+28285309	941	968	logistic regressions models	UnknownType	C0681925
+28285309	997	1010	relationships	T080	C0439849
+28285309	1019	1027	baseline	T081	C1442488
+28285309	1032	1038	change	T169	C0392747
+28285309	1042	1045	SUA	T109,T123	C0041980
+28285309	1047	1053	change	T169	C0392747
+28285309	1057	1061	eGFR	T059	C3811844
+28285309	1067	1072	rapid	T080	C0456962
+28285309	1073	1077	eGFR	T059	C3811844
+28285309	1078	1085	decline	T081	C0547047
+28285309	1110	1118	quartile	T080	C2828255
+28285309	1122	1128	change	T169	C0392747
+28285309	1132	1136	eGFR	T059	C3811844
+28285309	1152	1155	age	T032	C0001779
+28285309	1157	1163	gender	T032	C0079399
+28285309	1165	1180	body mass index	T201	C1305855
+28285309	1182	1205	abdominal circumference	T201	C1300813
+28285309	1207	1219	hypertension	T047	C0020538
+28285309	1221	1233	dyslipidemia	T047	C0242339
+28285309	1239	1256	diabetes mellitus	T047	C0011849
+28285309	1264	1289	multivariable adjustments	T169	C0456081
+28285309	1300	1308	baseline	T081	C1442488
+28285309	1309	1313	eGFR	T059	C3811844
+28285309	1323	1331	increase	T169	C0442805
+28285309	1335	1343	baseline	T081	C1442488
+28285309	1344	1347	SUA	T109,T123	C0041980
+28285309	1352	1367	associated with	T080	C0332281
+28285309	1376	1380	odds	T081	C0028873
+28285309	1395	1400	rapid	T080	C0456962
+28285309	1401	1405	eGFR	T059	C3811844
+28285309	1406	1413	decline	T081	C0547047
+28285309	1415	1417	OR	T081	C0028873
+28285309	1428	1430	CI	T081	C0009667
+28285309	1455	1463	increase	T169	C0442805
+28285309	1467	1470	SUA	T109,T123	C0041980
+28285309	1478	1483	years	T079	C0439234
+28285309	1488	1503	associated with	T080	C0332281
+28285309	1522	1526	odds	T081	C0028873
+28285309	1530	1535	rapid	T080	C0456962
+28285309	1536	1540	eGFR	T059	C3811844
+28285309	1541	1548	decline	T081	C0547047
+28285309	1550	1552	OR	T081	C0028873
+28285309	1563	1565	CI	T081	C0009667
+28285309	1578	1586	Elevated	T080	C3163633
+28285309	1587	1595	baseline	T081	C1442488
+28285309	1596	1599	SUA	T109,T123	C0041980
+28285309	1604	1614	increasing	T169	C0442808
+28285309	1615	1618	SUA	T109,T123	C0041980
+28285309	1624	1628	time	T079	C0040223
+28285309	1646	1658	risk factors	T033	C0035648
+28285309	1663	1668	rapid	T080	C0456962
+28285309	1669	1673	eGFR	T059	C3811844
+28285309	1674	1681	decline	T081	C0547047
+28285309	1689	1694	years	T079	C0439234

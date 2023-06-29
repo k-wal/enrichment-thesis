@@ -1,0 +1,47 @@
+17059986|t|A novel splicing mutation in SLC12A3 associated with Gitelman syndrome and idiopathic intracranial hypertension.
+17059986|a|We report a case of Gitelman syndrome (GS) in a dizygotic twin who presented at 12 years of age with growth delay, metabolic alkalosis, hypomagnesemia and hypokalemia with inappropriate kaliuresis, and idiopathic intracranial hypertension with bilateral papilledema (pseudotumor cerebri). The patient, her twin sister, and her mother also presented with cerebral cavernous malformations. Based on the early onset and normocalciuria, Bartter syndrome was diagnosed first. However, mutation analysis showed that the proband is a compound heterozygote for 2 mutations in SLC12A3: a substitution of serine by leucine at amino acid position 555 (p.Ser555Leu) and a novel guanine to cytosine transition at the 5' splice site of intron 22 (c.2633+1G>C), providing the molecular diagnosis of GS. These mutations were not detected in 200 normal chromosomes and cosegregated within the family. Analysis of complementary DNA showed that the heterozygous nucleotide change c.2633+1G>C caused the appearance of 2 RNA molecules, 1 normal transcript and 1 skipping the entire exon 22 (r.2521_2634del). Supplementation with potassium and magnesium improved clinical symptoms and resulted in catch-up growth, but vision remained impaired. Three similar associations of Bartter syndrome/GS with pseudotumor cerebri were found in the literature, suggesting that electrolyte abnormalities and secondary aldosteronism may have a role in idiopathic intracranial hypertension. This study provides further evidence for the phenotypical heterogeneity of GS and its association with severe manifestations in children. It also shows the independent segregation of familial cavernomatosis and GS.
+17059986	29	36	SLC12A3	GeneOrGeneProduct	6559
+17059986	53	70	Gitelman syndrome	DiseaseOrPhenotypicFeature	D053579
+17059986	75	111	idiopathic intracranial hypertension	DiseaseOrPhenotypicFeature	D011559
+17059986	133	150	Gitelman syndrome	DiseaseOrPhenotypicFeature	D053579
+17059986	152	154	GS	DiseaseOrPhenotypicFeature	D053579
+17059986	214	226	growth delay	DiseaseOrPhenotypicFeature	D006130
+17059986	228	247	metabolic alkalosis	DiseaseOrPhenotypicFeature	D000471
+17059986	249	263	hypomagnesemia	DiseaseOrPhenotypicFeature	C537153
+17059986	268	279	hypokalemia	DiseaseOrPhenotypicFeature	D007008
+17059986	315	351	idiopathic intracranial hypertension	DiseaseOrPhenotypicFeature	D011559
+17059986	357	378	bilateral papilledema	DiseaseOrPhenotypicFeature	D010211
+17059986	380	399	pseudotumor cerebri	DiseaseOrPhenotypicFeature	D011559
+17059986	406	413	patient	OrganismTaxon	9606
+17059986	467	499	cerebral cavernous malformations	DiseaseOrPhenotypicFeature	D002543
+17059986	546	562	Bartter syndrome	DiseaseOrPhenotypicFeature	D001477
+17059986	681	688	SLC12A3	GeneOrGeneProduct	6559
+17059986	708	752	serine by leucine at amino acid position 555	SequenceVariant	rs148038173
+17059986	754	765	p.Ser555Leu	SequenceVariant	rs148038173
+17059986	779	798	guanine to cytosine	SequenceVariant	c|SUB|G||C
+17059986	846	857	c.2633+1G>C	SequenceVariant	c|SUB|G|2633+1|C
+17059986	897	899	GS	DiseaseOrPhenotypicFeature	D053579
+17059986	1074	1085	c.2633+1G>C	SequenceVariant	c|SUB|G|2633+1|C
+17059986	1183	1197	r.2521_2634del	SequenceVariant	r|DEL|2521_2634|
+17059986	1221	1230	potassium	ChemicalEntity	D011188
+17059986	1235	1244	magnesium	ChemicalEntity	D008274
+17059986	1365	1381	Bartter syndrome	DiseaseOrPhenotypicFeature	D001477
+17059986	1382	1384	GS	DiseaseOrPhenotypicFeature	D053579
+17059986	1390	1409	pseudotumor cerebri	DiseaseOrPhenotypicFeature	D011559
+17059986	1456	1481	electrolyte abnormalities	DiseaseOrPhenotypicFeature	D014883
+17059986	1486	1509	secondary aldosteronism	DiseaseOrPhenotypicFeature	D001477
+17059986	1529	1565	idiopathic intracranial hypertension	DiseaseOrPhenotypicFeature	D011559
+17059986	1642	1644	GS	DiseaseOrPhenotypicFeature	D053579
+17059986	1750	1773	familial cavernomatosis	DiseaseOrPhenotypicFeature	D006392
+17059986	1778	1780	GS	DiseaseOrPhenotypicFeature	D053579
+17059986	Cotreatment	D011188	D008274	No
+17059986	Association	c|SUB|G|2633+1|C	D011559	Novel
+17059986	Association	c|SUB|G|2633+1|C	D053579	Novel
+17059986	Association	c|SUB|G||C	D011559	Novel
+17059986	Association	c|SUB|G||C	D053579	Novel
+17059986	Association	rs148038173	D053579	Novel
+17059986	Association	D011559	rs148038173	Novel
+17059986	Negative_Correlation	D053579	D008274	Novel
+17059986	Negative_Correlation	D053579	D011188	Novel
+17059986	Association	6559	D011559	Novel
+17059986	Association	6559	D053579	Novel

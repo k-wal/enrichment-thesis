@@ -1,0 +1,130 @@
+27909143|t|Interobserver and Intraobserver Reliability of Clinical Assessments in Knee Osteoarthritis
+27909143|a|Clinical examination of the knee is subject to measurement error. The aim of this analysis was to determine interobserver and intraobserver reliability of commonly used clinical tests in patients with knee osteoarthritis (OA). We studied subjects with symptomatic knee OA who were participants in an open-label clinical trial of intraarticular steroid therapy. Following standardization of the clinical test procedures, 2 clinicians assessed 25 subjects independently at the same visit, and the same clinician assessed 88 subjects over an interval period of 2-10 weeks; in both cases prior to the steroid intervention. Clinical examination included assessment of bony enlargement, crepitus, quadriceps wasting, knee effusion, joint-line and anserine tenderness, and knee range of movement (ROM). Intraclass correlation coefficients (ICC), estimated kappa (κ), weighted kappa (κω), and Bland-Altman plots were used to determine interobserver and intraobserver levels of agreement. Using Landis and Koch criteria, interobserver κ scores were moderate for patellofemoral joint (κ = 0.53) and anserine tenderness (κ = 0.48); good for bony enlargement (κ = 0.66), quadriceps wasting (κ = 0.78), crepitus (κ = 0.78), medial tibiofemoral joint tenderness (κ = 0.76), and effusion assessed by ballottement (κ = 0.73) and bulge sign (κω = 0.78); and excellent for lateral tibiofemoral joint tenderness (κ = 1.00), flexion (ICC = 0.97), and extension (ICC = 0.87) ROM. Intraobserver κ scores were moderate for lateral tibiofemoral joint tenderness (κ = 0.60); good for crepitus (κ = 0.78), effusion assessed by ballottement test (κ = 0.77), patellofemoral joint (κ = 0.66), medial tibiofemoral joint (κ = 0.64), and anserine tenderness (κ = 0.73); and excellent for effusion assessed by bulge sign (κω = 0.83), bony enlargement (κ = 0.98), quadriceps wasting (κ = 0.83), flexion (ICC = 0.99), and extension (ICC = 0.96) ROM. Among individuals with symptomatic knee OA, the reliability of clinical examination of the knee was at least good for the majority of clinical signs of knee OA.
+27909143	0	13	Interobserver	T170	C0870736
+27909143	18	31	Intraobserver	T096	C0870992
+27909143	32	43	Reliability	T081	C2347947
+27909143	47	67	Clinical Assessments	T033	C3845884
+27909143	71	90	Knee Osteoarthritis	T047	C0409959
+27909143	91	111	Clinical examination	T033	C1456356
+27909143	119	123	knee	T023	C0022742
+27909143	138	155	measurement error	T081	C0681899
+27909143	199	212	interobserver	T170	C0870736
+27909143	217	230	intraobserver	T096	C0870992
+27909143	231	242	reliability	T081	C2347947
+27909143	278	286	patients	T101	C0030705
+27909143	292	311	knee osteoarthritis	T047	C0409959
+27909143	313	315	OA	T047	C0409959
+27909143	329	337	subjects	T096	C0681850
+27909143	343	354	symptomatic	T169	C0231220
+27909143	355	362	knee OA	T047	C0409959
+27909143	372	384	participants	T098	C0679646
+27909143	391	416	open-label clinical trial	T062	C1709323
+27909143	420	450	intraarticular steroid therapy	T061	C0585373
+27909143	462	477	standardization	T062	C0038136
+27909143	485	509	clinical test procedures	T059	C0022885
+27909143	513	523	clinicians	T097	C0871685
+27909143	524	532	assessed	T058	C0220825
+27909143	536	544	subjects	T096	C0681850
+27909143	571	576	visit	T058	C1512346
+27909143	591	600	clinician	T097	C0871685
+27909143	601	609	assessed	T058	C0220825
+27909143	613	621	subjects	T096	C0681850
+27909143	630	645	interval period	T079	C1272706
+27909143	688	695	steroid	T061	C0149783
+27909143	696	708	intervention	T061	C0184661
+27909143	710	730	Clinical examination	T033	C1456356
+27909143	731	739	included	T169	C0332257
+27909143	740	750	assessment	T058	C0220825
+27909143	754	770	bony enlargement	UnknownType	C0221610
+27909143	772	780	crepitus	T046	C0277964
+27909143	782	800	quadriceps wasting	T033	C0555751
+27909143	802	815	knee effusion	T033	C0343166
+27909143	817	827	joint-line	T029	C0446569
+27909143	832	840	anserine	T023	C0224834
+27909143	841	851	tenderness	T184	C0240094
+27909143	857	879	knee range of movement	T033	C0576094
+27909143	881	884	ROM	T033	C0576094
+27909143	887	922	Intraclass correlation coefficients	T081	C0392762
+27909143	924	927	ICC	T081	C0392762
+27909143	930	945	estimated kappa	T081	C0392762
+27909143	947	948	κ	T081	C0392762
+27909143	951	965	weighted kappa	T081	C0392762
+27909143	967	969	κω	T081	C0392762
+27909143	976	994	Bland-Altman plots	T081	C0392762
+27909143	1018	1031	interobserver	T170	C0870736
+27909143	1036	1049	intraobserver	T096	C0870992
+27909143	1050	1056	levels	T080	C0441889
+27909143	1060	1069	agreement	T054	C0680240
+27909143	1077	1101	Landis and Koch criteria	T081	C0871425
+27909143	1103	1125	interobserver κ scores	T080	C0237855
+27909143	1131	1139	moderate	T080	C0205081
+27909143	1144	1164	patellofemoral joint	T030	C0447801
+27909143	1166	1167	κ	T081	C0392762
+27909143	1180	1188	anserine	T023	C0224834
+27909143	1189	1199	tenderness	T184	C0240094
+27909143	1201	1202	κ	T081	C0392762
+27909143	1212	1216	good	T080	C0205170
+27909143	1221	1237	bony enlargement	UnknownType	C0221610
+27909143	1239	1240	κ	T081	C0392762
+27909143	1250	1268	quadriceps wasting	T033	C0555751
+27909143	1270	1271	κ	T081	C0392762
+27909143	1281	1289	crepitus	T046	C0277964
+27909143	1291	1292	κ	T081	C0392762
+27909143	1302	1308	medial	T082	C0205098
+27909143	1309	1327	tibiofemoral joint	T030	C0447795
+27909143	1328	1338	tenderness	T184	C0240094
+27909143	1340	1341	κ	T081	C0392762
+27909143	1355	1363	effusion	T033	C0343166
+27909143	1376	1388	ballottement	T184	C0231756
+27909143	1390	1391	κ	T081	C0392762
+27909143	1404	1414	bulge sign	T060	C3696902
+27909143	1416	1418	κω	T081	C0392762
+27909143	1432	1441	excellent	T080	C1548784
+27909143	1446	1453	lateral	T082	C0205093
+27909143	1454	1472	tibiofemoral joint	T030	C0447795
+27909143	1473	1483	tenderness	T184	C0240094
+27909143	1485	1486	κ	T081	C0392762
+27909143	1496	1503	flexion	T042	C0231452
+27909143	1505	1508	ICC	T081	C0392762
+27909143	1522	1531	extension	T169	C0231448
+27909143	1533	1536	ICC	T081	C0392762
+27909143	1545	1548	ROM	T033	C0576094
+27909143	1550	1572	Intraobserver κ scores	T080	C0237855
+27909143	1578	1586	moderate	T080	C0205081
+27909143	1591	1598	lateral	T082	C0205093
+27909143	1599	1617	tibiofemoral joint	T030	C0447795
+27909143	1618	1628	tenderness	T184	C0234233
+27909143	1630	1631	κ	T081	C0392762
+27909143	1660	1661	κ	T081	C0392762
+27909143	1671	1679	effusion	T033	C0343166
+27909143	1692	1709	ballottement test	T184	C0231756
+27909143	1711	1712	κ	T081	C0392762
+27909143	1722	1742	patellofemoral joint	T030	C0447801
+27909143	1744	1745	κ	T081	C0392762
+27909143	1755	1761	medial	T082	C0205098
+27909143	1762	1780	tibiofemoral joint	T030	C0447795
+27909143	1782	1783	κ	T081	C0392762
+27909143	1797	1805	anserine	T023	C0224834
+27909143	1806	1816	tenderness	T184	C0234233
+27909143	1818	1819	κ	T081	C0392762
+27909143	1833	1842	excellent	T080	C1548784
+27909143	1847	1855	effusion	T033	C0343166
+27909143	1868	1878	bulge sign	T060	C3696902
+27909143	1880	1882	κω	T081	C0392762
+27909143	1892	1908	bony enlargement	UnknownType	C0221610
+27909143	1910	1911	κ	T081	C0392762
+27909143	1921	1939	quadriceps wasting	T033	C0555751
+27909143	1941	1942	κ	T081	C0392762
+27909143	1952	1959	flexion	T042	C0231452
+27909143	1961	1964	ICC	T081	C0392762
+27909143	1978	1987	extension	T169	C0231448
+27909143	1989	1992	ICC	T081	C0392762
+27909143	2001	2004	ROM	T033	C0576094
+27909143	2012	2023	individuals	T098	C0237401
+27909143	2029	2040	symptomatic	T169	C0231220
+27909143	2041	2048	knee OA	T047	C0409959
+27909143	2054	2065	reliability	T081	C2347947
+27909143	2069	2089	clinical examination	T033	C1456356
+27909143	2097	2101	knee	T023	C0022742
+27909143	2140	2154	clinical signs	T033	C3540840
+27909143	2158	2165	knee OA	T047	C0409959

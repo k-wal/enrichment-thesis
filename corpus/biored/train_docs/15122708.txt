@@ -1,0 +1,42 @@
+15122708|t|Desmin-related myopathy with Mallory body-like inclusions is caused by mutations of the selenoprotein N gene.
+15122708|a|Desmin-related myopathies (DRMs) are a heterogeneous group of muscle disorders, morphologically defined by intrasarcoplasmic aggregates of desmin. Mutations in the desmin and the alpha-B crystallin genes account for approximately one third of the DRM cases. The genetic basis of the other forms remain unknown, including the early-onset, recessive form with Mallory body-like inclusions (MB-DRMs), first described in five related German patients. Recently, we identified the selenoprotein N gene (SEPN1) as responsible for SEPN-related myopathy (SEPN-RM), a unique early-onset myopathy formerly divided in two different nosological categories: rigid spine muscular dystrophy and the severe form of classical multiminicore disease. The finding of Mallory body-like inclusions in two cases of genetically documented SEPN-RM led us to suspect a relationship between MB-DRM and SEPN1. In the original MB-DRM German family, we demonstrated a linkage of the disease to the SEPN1 locus (1p36), and subsequently a homozygous SEPN1 deletion (del 92 nucleotide -19/+73) in the affected patients. A comparative reevaluation showed that MB-DRM and SEPN-RM share identical clinical features. Therefore, we propose that MB-DRM should be categorized as SEPN-RM. These findings substantiate the molecular heterogeneity of DRM, expand the morphological spectrum of SEPN-RM, and implicate a necessary reassessment of the nosological boundaries in early-onset myopathies.
+15122708	0	23	Desmin-related myopathy	DiseaseOrPhenotypicFeature	C563319
+15122708	88	103	selenoprotein N	GeneOrGeneProduct	57190
+15122708	110	135	Desmin-related myopathies	DiseaseOrPhenotypicFeature	C563319
+15122708	137	141	DRMs	DiseaseOrPhenotypicFeature	C563319
+15122708	172	188	muscle disorders	DiseaseOrPhenotypicFeature	D009135
+15122708	249	255	desmin	GeneOrGeneProduct	1674
+15122708	274	280	desmin	GeneOrGeneProduct	1674
+15122708	289	307	alpha-B crystallin	GeneOrGeneProduct	1410
+15122708	357	360	DRM	DiseaseOrPhenotypicFeature	C563319
+15122708	501	505	DRMs	DiseaseOrPhenotypicFeature	C563319
+15122708	547	555	patients	OrganismTaxon	9606
+15122708	585	600	selenoprotein N	GeneOrGeneProduct	57190
+15122708	607	612	SEPN1	GeneOrGeneProduct	57190
+15122708	633	654	SEPN-related myopathy	DiseaseOrPhenotypicFeature	D009135
+15122708	656	663	SEPN-RM	DiseaseOrPhenotypicFeature	D009135
+15122708	687	695	myopathy	DiseaseOrPhenotypicFeature	D009135
+15122708	754	784	rigid spine muscular dystrophy	DiseaseOrPhenotypicFeature	C535683
+15122708	818	839	multiminicore disease	DiseaseOrPhenotypicFeature	C564969
+15122708	924	931	SEPN-RM	DiseaseOrPhenotypicFeature	D009135
+15122708	976	979	DRM	DiseaseOrPhenotypicFeature	C563319
+15122708	984	989	SEPN1	GeneOrGeneProduct	57190
+15122708	1010	1013	DRM	DiseaseOrPhenotypicFeature	C563319
+15122708	1077	1082	SEPN1	GeneOrGeneProduct	57190
+15122708	1127	1132	SEPN1	GeneOrGeneProduct	57190
+15122708	1143	1168	del 92 nucleotide -19/+73	SequenceVariant	c|DEL|-19_+73|92
+15122708	1186	1194	patients	OrganismTaxon	9606
+15122708	1238	1241	DRM	DiseaseOrPhenotypicFeature	C563319
+15122708	1246	1253	SEPN-RM	DiseaseOrPhenotypicFeature	D009135
+15122708	1319	1322	DRM	DiseaseOrPhenotypicFeature	C563319
+15122708	1348	1355	SEPN-RM	DiseaseOrPhenotypicFeature	D009135
+15122708	1416	1419	DRM	DiseaseOrPhenotypicFeature	C563319
+15122708	1458	1465	SEPN-RM	DiseaseOrPhenotypicFeature	D009135
+15122708	1551	1561	myopathies	DiseaseOrPhenotypicFeature	D009135
+15122708	Association	1410	C563319	No
+15122708	Association	1674	C563319	No
+15122708	Association	57190	C564969	No
+15122708	Association	57190	C535683	No
+15122708	Association	57190	D009135	No
+15122708	Positive_Correlation	C563319	c|DEL|-19_+73|92	Novel
+15122708	Association	C563319	57190	Novel

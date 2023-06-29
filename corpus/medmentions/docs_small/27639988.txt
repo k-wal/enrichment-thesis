@@ -1,0 +1,38 @@
+27639988|t|Pharmacogenetic reactivation of the original engram evokes an extinguished fear memory
+27639988|a|Fear memory extinction has several characteristic behavioral features, such as spontaneous recovery, renewal, and reinstatement, suggesting that extinction training does not erase the original association between the conditioned stimulus (CS) and the unconditioned stimulus (US). However, it is unclear whether reactivation of the original physical record of memory (i.e., memory trace) is sufficient to produce conditioned fear response after extinction. Here, we performed pharmacogenetic neuronal activation using transgenic mice expressing hM3Dq DREADD (designer receptor exclusively activated by designer drug) under the control of the activity - dependent c-fos gene promoter. Neuronal ensembles activated during fear - conditioned learning were tagged with hM3Dq and subsequently reactivated after extinction training. The mice exhibited significant freezing, even when the fear memory was no longer triggered by external CS, indicating that the artificial reactivation of a specific neuronal ensemble was sufficient to evoke the extinguished fear response. This freezing was not observed in non-fear-conditioned mice expressing hM3dq in the same brain areas. These results directly demonstrated that at least part of the original fear memory trace remains after extinction, and such residual plasticity might reflect the persistent memory.
+27639988	75	79	fear	T038	UMLS:C0015726
+27639988	80	86	memory	T038	UMLS:C0025260
+27639988	87	91	Fear	T038	UMLS:C0015726
+27639988	92	98	memory	T038	UMLS:C0025260
+27639988	99	109	extinction	T038	UMLS:C0015347
+27639988	232	242	extinction	T038	UMLS:C0015347
+27639988	499	510	conditioned	T038	UMLS:C0009647
+27639988	511	515	fear	T038	UMLS:C0015726
+27639988	531	541	extinction	T038	UMLS:C0015347
+27639988	562	597	pharmacogenetic neuronal activation	T038	UMLS:C0007613
+27639988	604	619	transgenic mice	T204	UMLS:C0025936
+27639988	620	630	expressing	T038	UMLS:C1171362
+27639988	631	643	hM3Dq DREADD	T103	UMLS:C0682972
+27639988	645	701	designer receptor exclusively activated by designer drug	T103	UMLS:C0682972
+27639988	749	759	c-fos gene	T017	UMLS:C0085940
+27639988	760	768	promoter	T017	UMLS:C0314621
+27639988	770	788	Neuronal ensembles	T017	UMLS:C0027882
+27639988	789	798	activated	T038	UMLS:C1326120
+27639988	806	810	fear	T038	UMLS:C0015726
+27639988	813	833	conditioned learning	T038	UMLS:C0023185
+27639988	851	856	hM3Dq	T103	UMLS:C0682972
+27639988	892	902	extinction	T038	UMLS:C0015347
+27639988	917	921	mice	T204	UMLS:C0025936
+27639988	968	972	fear	T038	UMLS:C0015726
+27639988	973	979	memory	T038	UMLS:C0025260
+27639988	1016	1018	CS	T038	UMLS:C0234404
+27639988	1078	1095	neuronal ensemble	T017	UMLS:C0027882
+27639988	1137	1141	fear	T038	UMLS:C0015726
+27639988	1186	1211	non-fear-conditioned mice	T204	UMLS:C0025936
+27639988	1212	1222	expressing	T038	UMLS:C1171362
+27639988	1223	1228	hM3dq	T103	UMLS:C0682972
+27639988	1241	1252	brain areas	T082	UMLS:C1273723
+27639988	1325	1329	fear	T038	UMLS:C0015726
+27639988	1357	1367	extinction	T038	UMLS:C0015347
+27639988	1387	1397	plasticity	T038	UMLS:C0027880
+27639988	1427	1433	memory	T038	UMLS:C0025260

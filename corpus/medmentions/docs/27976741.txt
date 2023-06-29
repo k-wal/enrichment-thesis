@@ -1,0 +1,65 @@
+27976741|t|Weighing Scale -Based Pulse Transit Time is a Superior Marker of Blood Pressure than Conventional Pulse Arrival Time
+27976741|a|Pulse transit time (PTT) is being widely pursued for cuff-less blood pressure (BP) monitoring. Most efforts have employed the time delay between ECG and finger photoplethysmography (PPG) waveforms as a convenient surrogate of PTT. However, these conventional pulse arrival time (PAT) measurements include the pre-ejection period (PEP) and the time delay through small, muscular arteries and may thus be an unreliable marker of BP. We assessed a bathroom weighing scale-like system for convenient measurement of ballistocardiography and foot PPG waveforms - and thus PTT through larger, more elastic arteries - in terms of its ability to improve tracking of BP in individual subjects. We measured " scale PTT ", conventional PAT, and cuff BP in humans during interventions that increased BP but changed PEP and smooth muscle contraction differently. Scale PTT tracked the diastolic BP changes well, with correlation coefficient of -0.80 ± 0.02 (mean ± SE) and root-mean-squared-error of 7.6 ± 0.5 mmHg after a best-case calibration. Conventional PAT was significantly inferior in tracking these changes, with correlation coefficien t of -0.60 ± 0.04 and root-mean-squared-error of 14.6 ± 1.5 mmHg (p < 0.05). Scale PTT also tracked the systolic BP changes better than conventional PAT but not to an acceptable level. With further development, scale PTT may permit reliable, convenient measurement of BP.
+27976741	0	14	Weighing Scale	T074	C0183106
+27976741	22	40	Pulse Transit Time	T081	C3494432
+27976741	55	61	Marker	T080	C0008963
+27976741	65	79	Blood Pressure	T040	C0005823
+27976741	98	116	Pulse Arrival Time	T081	C0392762
+27976741	117	135	Pulse transit time	T081	C3494432
+27976741	137	140	PTT	T081	C3494432
+27976741	170	210	cuff-less blood pressure (BP) monitoring	T058	C0026426
+27976741	243	253	time delay	T079	C0522486
+27976741	262	265	ECG	T060	C1623258
+27976741	270	276	finger	T023	C0016129
+27976741	277	297	photoplethysmography	T060	C0162599
+27976741	299	302	PPG	T060	C0162599
+27976741	304	313	waveforms	T033	C0428727
+27976741	343	346	PTT	T081	C3494432
+27976741	376	394	pulse arrival time	T081	C0392762
+27976741	396	399	PAT	T081	C0392762
+27976741	401	413	measurements	T169	C0242485
+27976741	426	445	pre-ejection period	T201	C0807477
+27976741	447	450	PEP	T201	C0807477
+27976741	460	470	time delay	T079	C0522486
+27976741	486	503	muscular arteries	T023	C0226002
+27976741	534	540	marker	T080	C0008963
+27976741	544	546	BP	T040	C0005823
+27976741	562	597	bathroom weighing scale-like system	T074	C0025080
+27976741	613	624	measurement	T169	C0242485
+27976741	628	648	ballistocardiography	T060	C0004700
+27976741	658	661	PPG	T060	C0162599
+27976741	662	671	waveforms	T033	C0428727
+27976741	683	686	PTT	T081	C3494432
+27976741	708	724	elastic arteries	T023	C0226008
+27976741	762	770	tracking	T082	C0546881
+27976741	774	776	BP	T040	C0005823
+27976741	780	799	individual subjects	UnknownType	C0681857
+27976741	815	820	scale	T074	C0025080
+27976741	821	824	PTT	T081	C3494432
+27976741	841	844	PAT	T081	C0392762
+27976741	850	854	cuff	T023	C1550244
+27976741	855	857	BP	T040	C0005823
+27976741	861	867	humans	T016	C0086418
+27976741	904	906	BP	T040	C0005823
+27976741	919	922	PEP	T201	C0807477
+27976741	927	952	smooth muscle contraction	T042	C1155937
+27976741	966	971	Scale	T074	C0025080
+27976741	972	975	PTT	T081	C3494432
+27976741	976	983	tracked	T082	C0546881
+27976741	988	1000	diastolic BP	T201	C0428883
+27976741	1020	1043	correlation coefficient	T081	C1707429
+27976741	1076	1099	root-mean-squared-error	T080	C0743559
+27976741	1113	1117	mmHg	T081	C0439475
+27976741	1162	1165	PAT	T081	C0392762
+27976741	1196	1204	tracking	T082	C0546881
+27976741	1225	1247	correlation coefficien	T081	C1707429
+27976741	1270	1293	root-mean-squared-error	T080	C0743559
+27976741	1308	1312	mmHg	T081	C0439475
+27976741	1325	1330	Scale	T074	C0025080
+27976741	1331	1334	PTT	T081	C3494432
+27976741	1352	1363	systolic BP	T201	C0871470
+27976741	1397	1400	PAT	T081	C0392762
+27976741	1459	1464	scale	T074	C0025080
+27976741	1465	1468	PTT	T081	C3494432
+27976741	1501	1512	measurement	T169	C0242485
+27976741	1516	1518	BP	T040	C0005823

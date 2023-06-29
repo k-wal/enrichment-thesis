@@ -1,0 +1,92 @@
+18768591|t|Serum- and glucocorticoid-inducible kinase 1 in doxorubicin-induced nephrotic syndrome.
+18768591|a|Doxorubicin-induced nephropathy leads to epithelial sodium channel (ENaC)-dependent volume retention and renal fibrosis. The aldosterone-sensitive serum- and glucocorticoid-inducible kinase SGK1 has been shown to participate in the stimulation of ENaC and to mediate renal fibrosis following mineralocorticoid and salt excess. The present study was performed to elucidate the role of SGK1 in the volume retention and fibrosis during nephrotic syndrome. To this end, doxorubicin (15 mug/g body wt) was injected intravenously into gene-targeted mice lacking SGK1 (sgk1(-/-)) and their wild-type littermates (sgk1(+/+)). Doxorubicin treatment resulted in heavy proteinuria (>100 mg protein/mg crea) in 15/44 of sgk1(+/+) and 15/44 of sgk1(-/-) mice leading to severe nephrotic syndrome with ascites, lipidemia, and hypoalbuminemia in both genotypes. Plasma aldosterone levels increased in nephrotic mice of both genotypes and was followed by increased SGK1 protein expression in sgk1(+/+) mice. Urinary sodium excretion reached signficantly lower values in sgk1(+/+) mice (15 +/- 5 mumol/mg crea) than in sgk1(-/-) mice (35 +/- 5 mumol/mg crea) and was associated with a significantly higher body weight gain in sgk1(+/+) compared with sgk1(-/-) mice (+6.6 +/- 0.7 vs. +4.1 +/- 0.8 g). During the course of nephrotic syndrome, serum urea concentrations increased significantly faster in sgk1(-/-) mice than in sgk1(+/+) mice leading to uremia and a reduced median survival in sgk1(-/-) mice (29 vs. 40 days in sgk1(+/+) mice). In conclusion, gene-targeted mice lacking SGK1 showed blunted volume retention, yet were not protected against renal fibrosis during experimental nephrotic syndrome.
+18768591	0	44	Serum- and glucocorticoid-inducible kinase 1	GeneOrGeneProduct	20393
+18768591	48	59	doxorubicin	ChemicalEntity	D004317
+18768591	68	86	nephrotic syndrome	DiseaseOrPhenotypicFeature	D009404
+18768591	88	99	Doxorubicin	ChemicalEntity	D004317
+18768591	108	119	nephropathy	DiseaseOrPhenotypicFeature	D007674
+18768591	140	146	sodium	ChemicalEntity	D012964
+18768591	172	188	volume retention	DiseaseOrPhenotypicFeature	D016055
+18768591	193	207	renal fibrosis	DiseaseOrPhenotypicFeature	D007674
+18768591	213	224	aldosterone	ChemicalEntity	D000450
+18768591	235	277	serum- and glucocorticoid-inducible kinase	GeneOrGeneProduct	20393
+18768591	278	282	SGK1	GeneOrGeneProduct	20393
+18768591	355	369	renal fibrosis	DiseaseOrPhenotypicFeature	D007674
+18768591	380	397	mineralocorticoid	ChemicalEntity	D008901
+18768591	402	406	salt	ChemicalEntity	D012492
+18768591	472	476	SGK1	GeneOrGeneProduct	20393
+18768591	484	500	volume retention	DiseaseOrPhenotypicFeature	D016055
+18768591	505	513	fibrosis	DiseaseOrPhenotypicFeature	D005355
+18768591	521	539	nephrotic syndrome	DiseaseOrPhenotypicFeature	D009404
+18768591	554	565	doxorubicin	ChemicalEntity	D004317
+18768591	631	635	mice	OrganismTaxon	10090
+18768591	644	648	SGK1	GeneOrGeneProduct	20393
+18768591	650	654	sgk1	GeneOrGeneProduct	20393
+18768591	694	698	sgk1	GeneOrGeneProduct	20393
+18768591	706	717	Doxorubicin	ChemicalEntity	D004317
+18768591	746	757	proteinuria	DiseaseOrPhenotypicFeature	D011507
+18768591	778	782	crea	ChemicalEntity	D003404
+18768591	796	800	sgk1	GeneOrGeneProduct	20393
+18768591	819	823	sgk1	GeneOrGeneProduct	20393
+18768591	829	833	mice	OrganismTaxon	10090
+18768591	852	870	nephrotic syndrome	DiseaseOrPhenotypicFeature	D009404
+18768591	876	883	ascites	DiseaseOrPhenotypicFeature	D001201
+18768591	885	894	lipidemia	DiseaseOrPhenotypicFeature	D006949
+18768591	900	915	hypoalbuminemia	DiseaseOrPhenotypicFeature	D034141
+18768591	942	953	aldosterone	ChemicalEntity	D000450
+18768591	974	983	nephrotic	DiseaseOrPhenotypicFeature	D009404
+18768591	984	988	mice	OrganismTaxon	10090
+18768591	1037	1041	SGK1	GeneOrGeneProduct	20393
+18768591	1064	1068	sgk1	GeneOrGeneProduct	20393
+18768591	1074	1078	mice	OrganismTaxon	10090
+18768591	1088	1094	sodium	ChemicalEntity	D012964
+18768591	1142	1146	sgk1	GeneOrGeneProduct	20393
+18768591	1152	1156	mice	OrganismTaxon	10090
+18768591	1176	1180	crea	ChemicalEntity	D003404
+18768591	1190	1194	sgk1	GeneOrGeneProduct	20393
+18768591	1200	1204	mice	OrganismTaxon	10090
+18768591	1224	1228	crea	ChemicalEntity	D003404
+18768591	1282	1293	weight gain	DiseaseOrPhenotypicFeature	D015430
+18768591	1297	1301	sgk1	GeneOrGeneProduct	20393
+18768591	1321	1325	sgk1	GeneOrGeneProduct	20393
+18768591	1331	1335	mice	OrganismTaxon	10090
+18768591	1392	1410	nephrotic syndrome	DiseaseOrPhenotypicFeature	D009404
+18768591	1418	1422	urea	ChemicalEntity	D014508
+18768591	1472	1476	sgk1	GeneOrGeneProduct	20393
+18768591	1482	1486	mice	OrganismTaxon	10090
+18768591	1495	1499	sgk1	GeneOrGeneProduct	20393
+18768591	1505	1509	mice	OrganismTaxon	10090
+18768591	1521	1527	uremia	DiseaseOrPhenotypicFeature	D014511
+18768591	1561	1565	sgk1	GeneOrGeneProduct	20393
+18768591	1571	1575	mice	OrganismTaxon	10090
+18768591	1595	1599	sgk1	GeneOrGeneProduct	20393
+18768591	1605	1609	mice	OrganismTaxon	10090
+18768591	1641	1645	mice	OrganismTaxon	10090
+18768591	1654	1658	SGK1	GeneOrGeneProduct	20393
+18768591	1674	1690	volume retention	DiseaseOrPhenotypicFeature	D016055
+18768591	1723	1737	renal fibrosis	DiseaseOrPhenotypicFeature	D007674
+18768591	1758	1776	nephrotic syndrome	DiseaseOrPhenotypicFeature	D009404
+18768591	Association	D014508	D014511	Novel
+18768591	Association	D014508	20393	Novel
+18768591	Association	D015430	20393	Novel
+18768591	Association	D012964	D015430	Novel
+18768591	Association	D012964	D007674	Novel
+18768591	Association	D012964	D016055	Novel
+18768591	Negative_Correlation	D012964	20393	Novel
+18768591	Association	D000450	D007674	Novel
+18768591	Positive_Correlation	D000450	20393	Novel
+18768591	Positive_Correlation	D000450	D009404	Novel
+18768591	Positive_Correlation	D007674	D012492	Novel
+18768591	Positive_Correlation	D007674	D008901	Novel
+18768591	Association	20393	D007674	Novel
+18768591	Association	20393	D016055	Novel
+18768591	Association	20393	D005355	Novel
+18768591	Association	20393	D009404	Novel
+18768591	Association	20393	D004317	Novel
+18768591	Positive_Correlation	D004317	D007674	Novel
+18768591	Positive_Correlation	D004317	D034141	Novel
+18768591	Positive_Correlation	D004317	D006949	Novel
+18768591	Positive_Correlation	D004317	D001201	Novel
+18768591	Positive_Correlation	D004317	D011507	Novel
+18768591	Positive_Correlation	D004317	D016055	Novel
+18768591	Positive_Correlation	D004317	D009404	Novel

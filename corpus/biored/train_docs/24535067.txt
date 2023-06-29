@@ -1,0 +1,38 @@
+24535067|t|Prevention of etomidate-induced myoclonus: which is superior: Fentanyl, midazolam, or a combination? A Retrospective comparative study.
+24535067|a|BACKGROUND: In this retrospective comparative study, we aimed to compare the effectiveness of fentanyl, midazolam, and a combination of fentanyl and midazolam to prevent etomidate-induced myoclonus. MATERIAL AND METHODS: This study was performed based on anesthesia records. Depending on the drugs that would be given before the induction of anesthesia with etomidate, the patients were separated into 4 groups: no pretreatment (Group NP), fentanyl 1 ug.kg-1 (Group F), midazolam 0.03 mg.kg-1 (Group M), and midazolam 0.015 mg.kg-1 + fentanyl 0.5 ug.kg-1 (Group FM). Patients who received the same anesthetic procedure were selected: 2 minutes after intravenous injections of the pretreatment drugs, anesthesia is induced with 0.3 mg.kg-1 etomidate injected intravenously over a period of 20-30 seconds. Myoclonic movements are evaluated, which were observed and graded according to clinical severity during the 2 minutes after etomidate injection. The severity of pain due to etomidate injection, mean arterial pressure, heart rate, and adverse effects were also evaluated. RESULTS: Study results showed that myoclonus incidence was 85%, 40%, 70%, and 25% in Group NP, Group F, Group M, and Group FM, respectively, and were significantly lower in Group F and Group FM. CONCLUSIONS: We conclude that pretreatment with fentanyl or combination of fentanyl and midazolam was effective in preventing etomidate-induced myoclonus.
+24535067	14	23	etomidate	ChemicalEntity	D005045
+24535067	32	41	myoclonus	DiseaseOrPhenotypicFeature	D009207
+24535067	62	70	Fentanyl	ChemicalEntity	D005283
+24535067	72	81	midazolam	ChemicalEntity	D008874
+24535067	230	238	fentanyl	ChemicalEntity	D005283
+24535067	240	249	midazolam	ChemicalEntity	D008874
+24535067	272	280	fentanyl	ChemicalEntity	D005283
+24535067	285	294	midazolam	ChemicalEntity	D008874
+24535067	306	315	etomidate	ChemicalEntity	D005045
+24535067	324	333	myoclonus	DiseaseOrPhenotypicFeature	D009207
+24535067	494	503	etomidate	ChemicalEntity	D005045
+24535067	509	517	patients	OrganismTaxon	9606
+24535067	576	584	fentanyl	ChemicalEntity	D005283
+24535067	606	615	midazolam	ChemicalEntity	D008874
+24535067	644	653	midazolam	ChemicalEntity	D008874
+24535067	670	678	fentanyl	ChemicalEntity	D005283
+24535067	703	711	Patients	OrganismTaxon	9606
+24535067	875	884	etomidate	ChemicalEntity	D005045
+24535067	940	959	Myoclonic movements	DiseaseOrPhenotypicFeature	D009069
+24535067	1064	1073	etomidate	ChemicalEntity	D005045
+24535067	1101	1105	pain	DiseaseOrPhenotypicFeature	D010146
+24535067	1113	1122	etomidate	ChemicalEntity	D005045
+24535067	1246	1255	myoclonus	DiseaseOrPhenotypicFeature	D009207
+24535067	1454	1462	fentanyl	ChemicalEntity	D005283
+24535067	1481	1489	fentanyl	ChemicalEntity	D005283
+24535067	1494	1503	midazolam	ChemicalEntity	D008874
+24535067	1532	1541	etomidate	ChemicalEntity	D005045
+24535067	1550	1559	myoclonus	DiseaseOrPhenotypicFeature	D009207
+24535067	Negative_Correlation	D008874	D009207	Novel
+24535067	Negative_Correlation	D008874	D005045	Novel
+24535067	Comparison	D005283	D008874	No
+24535067	Negative_Correlation	D005283	D009207	Novel
+24535067	Negative_Correlation	D005283	D005045	Novel
+24535067	Positive_Correlation	D010146	D005045	No
+24535067	Positive_Correlation	D009069	D005045	No
+24535067	Positive_Correlation	D005045	D009207	No

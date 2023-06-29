@@ -1,0 +1,48 @@
+28231785|t|MinorityReport, software for generalized analysis of causal genetic variants
+28231785|a|The widespread availability of next generation genome sequencing technologies has enabled a wide range of variant detection applications, especially in cancer and inborn genetic disorders. For model systems and microorganisms, the same technology may be used to discover the causative mutations for any phenotype, including those generated in response to chemical perturbation. In the case of pathogenic organisms, these approaches have allowed the determination of drug targets by means of resistance selection followed by genome sequencing. MinorityReport is open source software written in python that facilitates the comparison of any two sets of genome alignments for the purpose of rapidly identifying the spectrum of nonsynonymous changes, insertions or deletions, and copy number variations in a presumed mutant relative to its parent. Specifically, MinorityReport relates mapped sequence reads in SAM format output from any alignment tool for both the mutant and parent genome, relative to a reference genome, and produces the set of variants that distinguishes the mutant from the parent, all presented in an intuitive, straightforward report format. MinorityReport features tunable parameters for evaluating evidence and a scoring system that prioritizes reported variants based on relative proportions of read counts supporting the variant in the mutant versus parent data sets. The utility of MinorityReport is demonstrated using previously published publicly available data sets to find the determinants of resistance for novel anti-malarial drugs. MinorityReport is readily available (github: JeremyHorst/ MinorityReport) to identify the genetic mechanisms of drug resistance in Plasmodium, genotype-phenotype relationships in human diads, or genomic variations between any two related organisms.
+28231785	0	14	MinorityReport	T062	UMLS:C0242278
+28231785	60	76	genetic variants	T058	UMLS:C3263354
+28231785	81	91	widespread	T082	UMLS:C0205391
+28231785	183	200	variant detection	T058	UMLS:C1294200
+28231785	226	235	in cancer	T058	UMLS:C4051949
+28231785	240	264	inborn genetic disorders	T038	UMLS:C0019247
+28231785	352	371	causative mutations	T038	UMLS:C0596611
+28231785	380	389	phenotype	T058	UMLS:C1285572
+28231785	526	542	determination of	T058	UMLS:C1148554
+28231785	543	555	drug targets	T074	UMLS:C0085104
+28231785	568	588	resistance selection	T038	UMLS:C0036576
+28231785	620	634	MinorityReport	T062	UMLS:C0242278
+28231785	643	658	source software	T170	UMLS:C0037585
+28231785	670	676	python	T170	UMLS:C0033348
+28231785	801	822	nonsynonymous changes	T082	UMLS:C1709259
+28231785	824	834	insertions	T038	UMLS:C1955829
+28231785	838	847	deletions	T038	UMLS:C0017260
+28231785	853	875	copy number variations	T038	UMLS:C2717925
+28231785	890	896	mutant	T017	UMLS:C0678941
+28231785	913	919	parent	T017	UMLS:C0017337
+28231785	935	949	MinorityReport	T062	UMLS:C0242278
+28231785	958	973	mapped sequence	T062	UMLS:C1517491
+28231785	1010	1024	alignment tool	T170	UMLS:C0037589
+28231785	1038	1044	mutant	T017	UMLS:C0678941
+28231785	1049	1062	parent genome	T017	UMLS:C0017337
+28231785	1078	1094	reference genome	T017	UMLS:C0017428
+28231785	1120	1128	variants	T017	UMLS:C0678941
+28231785	1152	1158	mutant	T017	UMLS:C0678941
+28231785	1168	1174	parent	T017	UMLS:C0017337
+28231785	1223	1236	report format	T170	UMLS:C1301627
+28231785	1238	1252	MinorityReport	T062	UMLS:C0242278
+28231785	1285	1295	evaluating	T058	UMLS:C0220825
+28231785	1311	1325	scoring system	T062	UMLS:C0036449
+28231785	1352	1360	variants	T017	UMLS:C0678941
+28231785	1421	1428	variant	T017	UMLS:C0678941
+28231785	1436	1442	mutant	T017	UMLS:C0678941
+28231785	1450	1456	parent	T017	UMLS:C0017337
+28231785	1450	1466	parent data sets	T017	UMLS:C0017428
+28231785	1483	1497	MinorityReport	T062	UMLS:C0242278
+28231785	1531	1569	published publicly available data sets	T170	UMLS:C0993637
+28231785	1582	1608	determinants of resistance	T058	UMLS:C0877124
+28231785	1619	1638	anti-malarial drugs	T103	UMLS:C0003374
+28231785	1640	1654	MinorityReport	T062	UMLS:C0242278
+28231785	1698	1712	MinorityReport	T062	UMLS:C0242278
+28231785	1783	1815	genotype-phenotype relationships	T033	UMLS:C2717879
+28231785	1835	1853	genomic variations	T038	UMLS:C2717924

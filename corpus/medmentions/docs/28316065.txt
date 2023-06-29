@@ -1,0 +1,63 @@
+28316065|t|Identification of key genes and construction of microRNA-mRNA regulatory networks in multiple myeloma by integrated multiple GEO datasets using bioinformatics analysis
+28316065|a|Multiple myeloma (MM) is a common hematological malignancy. To identify key genes and microRNA s in MM, we downloaded two gene expression profiles (GSE16558 and GSE47552) and two microRNA expression profiles (GSE17498 and GSE16558) from the Gene Expression Omnibus (GEO) database. A total of 596 differentially expressed genes (DEGs) and 39 differentially expressed microRNAs (DEMs) were screened out. Pathway analysis showed that upregulated genes were mainly enriched in the " B cell receptor signaling pathway ", " Cell cycle " and " NF-kappa B signaling pathway ", whereas downregulated genes were mainly enriched in the " Ribosome ", " FoxO signaling pathway " and " p53 signaling pathway ". We subsequently constructed a protein-protein interaction network of DEGs consisting of 277 genes and 563 interactions. In addition, 32 genes with high degrees in the network were identified as hub genes in MM, e.g. HDAC2, RBBP4, CREB1, and RB1. Additionally, we constructed a microRNA-mRNA regulatory network depicting interactions between DEMs and their targets, including the miR-135b - GADD45A and miR-148a - USPL1 pairs. In conclusion, the results of this data mining and integration help reveal the molecular basis of MM pathogenesis as well as potential biomarkers and therapeutic targets for MM diagnosis and treatment.
+28316065	22	27	genes	T028	C0017337
+28316065	48	61	microRNA-mRNA	T114,T116,T123	C1099355
+28316065	62	81	regulatory networks	T044	C1720950
+28316065	85	101	multiple myeloma	T191	C0026764
+28316065	105	137	integrated multiple GEO datasets	T170	C0872179
+28316065	144	158	bioinformatics	T091	C1140694
+28316065	159	167	analysis	T062	C0936012
+28316065	168	184	Multiple myeloma	T191	C0026764
+28316065	186	188	MM	T191	C0026764
+28316065	202	226	hematological malignancy	T033	C1275350
+28316065	244	249	genes	T028	C0017337
+28316065	254	262	microRNA	T114,T123	C1101610
+28316065	268	270	MM	T191	C0026764
+28316065	290	314	gene expression profiles	T081	C1956267
+28316065	347	355	microRNA	T114,T123	C1101610
+28316065	356	375	expression profiles	T081	C1956267
+28316065	409	447	Gene Expression Omnibus (GEO) database	T170	C0872179
+28316065	464	494	differentially expressed genes	T028	C0017337
+28316065	496	500	DEGs	T028	C0017337
+28316065	509	543	differentially expressed microRNAs	T114,T123	C1101610
+28316065	545	549	DEMs	T114,T123	C1101610
+28316065	570	586	Pathway analysis	T170	C0868995
+28316065	599	616	upregulated genes	T028	C0017337
+28316065	647	680	B cell receptor signaling pathway	T044	C1325924
+28316065	686	696	Cell cycle	T043	C0007586
+28316065	705	733	NF-kappa B signaling pathway	T169	C2984341
+28316065	745	764	downregulated genes	T028	C0017337
+28316065	795	803	Ribosome	T026	C0035553
+28316065	809	831	FoxO signaling pathway	T169	C2984404
+28316065	840	861	p53 signaling pathway	T044	C2756034
+28316065	895	922	protein-protein interaction	T044	C0872079
+28316065	934	938	DEGs	T028	C0017337
+28316065	957	962	genes	T028	C0017337
+28316065	971	983	interactions	T169	C1704675
+28316065	1001	1006	genes	T028	C0017337
+28316065	1063	1068	genes	T028	C0017337
+28316065	1072	1074	MM	T191	C0026764
+28316065	1081	1086	HDAC2	T028	C1333892
+28316065	1088	1093	RBBP4	T028	C1419289
+28316065	1095	1100	CREB1	T028	C1413702
+28316065	1106	1109	RB1	T028	C0694889
+28316065	1142	1155	microRNA-mRNA	T114,T116,T123	C1099355
+28316065	1156	1174	regulatory network	T044	C1720950
+28316065	1185	1197	interactions	T169	C1704675
+28316065	1206	1210	DEMs	T114,T123	C1101610
+28316065	1221	1228	targets	T169	C1521840
+28316065	1244	1252	miR-135b	T028	C1537788
+28316065	1255	1262	GADD45A	T028	C1333655
+28316065	1267	1275	miR-148a	T028	C1537802
+28316065	1278	1283	USPL1	T028	C1823607
+28316065	1326	1337	data mining	T066	C1328866
+28316065	1342	1353	integration	T066	C1705422
+28316065	1370	1385	molecular basis	T078	C1853126
+28316065	1389	1391	MM	T191	C0026764
+28316065	1392	1404	pathogenesis	T046	C0699748
+28316065	1416	1425	potential	T080	C3245505
+28316065	1426	1436	biomarkers	T201	C0005516
+28316065	1441	1460	therapeutic targets	T169	C0302350
+28316065	1465	1467	MM	T191	C0026764
+28316065	1468	1477	diagnosis	T033	C0011900
+28316065	1482	1491	treatment	T061	C0087111

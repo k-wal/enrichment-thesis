@@ -1,0 +1,54 @@
+28067006|t|Addressing reverse inference in psychiatric neuroimaging: Meta-analyses of task -related brain activation in common mental disorders
+28067006|a|Functional magnetic resonance imaging (fMRI) studies in psychiatry use various tasks to identify case-control differences in the patterns of task -related brain activation. Differently activated regions are often ascribed disorder -specific functions in an attempt to link disease expression and brain function. We undertook a systematic meta-analysis of data from task - fMRI studies to examine the effect of diagnosis and study design on the spatial distribution and direction of case-control differences on brain activation. We mapped to atlas regions coordinates of case-control differences derived from 537 task - fMRI studies in schizophrenia, bipolar disorder, major depressive disorder, anxiety disorders, and obsessive compulsive disorder comprising observations derived from 21,427 participants. The fMRI tasks were classified according to the Research Domain Criteria (RDoC). We investigated whether diagnosis, RDoC domain or construct and use of regions-of-interest or whole-brain analyses influenced the neuroanatomical pattern of results. When considering all primary studies, we found an effect of diagnosis for the amygdala and caudate nucleus and an effect of RDoC domains and constructs for the amygdala, hippocampus, putamen and nucleus accumbens. In contrast, whole-brain studies did not identify any significant effect of diagnosis or RDoC domain or construct. These results resonate with prior reports of common brain structural and genetic underpinnings across these disorders and caution against attributing undue specificity to brain functional changes when forming explanatory models of psychiatric disorders. Hum Brain Mapp 38:1846-1864, 2017. © 2017 Wiley Periodicals, Inc.
+28067006	32	43	psychiatric	T038	UMLS:C0004936
+28067006	44	56	neuroimaging	T058	UMLS:C0679575
+28067006	58	71	Meta-analyses	T062	UMLS:C0920317
+28067006	89	94	brain	T017	UMLS:C0006104
+28067006	116	132	mental disorders	T038	UMLS:C0004936
+28067006	133	170	Functional magnetic resonance imaging	T058	UMLS:C0376335
+28067006	171	185	(fMRI) studies	T058	UMLS:C0376335
+28067006	189	199	psychiatry	T038	UMLS:C0004936
+28067006	230	242	case-control	T058	UMLS:C0872128
+28067006	288	293	brain	T017	UMLS:C0006104
+28067006	355	363	disorder	T038	UMLS:C0012634
+28067006	406	413	disease	T038	UMLS:C0012634
+28067006	460	484	systematic meta-analysis	T062	UMLS:C0920317
+28067006	505	517	fMRI studies	T058	UMLS:C0376335
+28067006	543	552	diagnosis	T062	UMLS:C1704656
+28067006	557	569	study design	T062	UMLS:C0035171
+28067006	577	597	spatial distribution	T082	UMLS:C0037775
+28067006	615	627	case-control	T058	UMLS:C0872128
+28067006	643	648	brain	T017	UMLS:C0006104
+28067006	703	715	case-control	T058	UMLS:C0872128
+28067006	752	764	fMRI studies	T058	UMLS:C0376335
+28067006	768	781	schizophrenia	T038	UMLS:C0036341
+28067006	783	799	bipolar disorder	T038	UMLS:C0005586
+28067006	801	826	major depressive disorder	T038	UMLS:C1269683
+28067006	828	845	anxiety disorders	T038	UMLS:C0003469
+28067006	851	880	obsessive compulsive disorder	T038	UMLS:C0028768
+28067006	925	937	participants	T098	UMLS:C0679646
+28067006	943	953	fMRI tasks	T058	UMLS:C0376335
+28067006	987	1018	Research Domain Criteria (RDoC)	T062	UMLS:C0242481
+28067006	1044	1053	diagnosis	T062	UMLS:C1704656
+28067006	1055	1066	RDoC domain	T062	UMLS:C0242481
+28067006	1091	1110	regions-of-interest	T082	UMLS:C0807727
+28067006	1114	1125	whole-brain	T017	UMLS:C0006104
+28067006	1126	1134	analyses	T062	UMLS:C0936012
+28067006	1150	1165	neuroanatomical	T091	UMLS:C0027816
+28067006	1166	1173	pattern	T082	UMLS:C0449774
+28067006	1215	1222	studies	T062	UMLS:C0936012
+28067006	1246	1255	diagnosis	T062	UMLS:C1704656
+28067006	1264	1272	amygdala	T017	UMLS:C0002708
+28067006	1277	1292	caudate nucleus	T017	UMLS:C0007461
+28067006	1310	1322	RDoC domains	T062	UMLS:C0242481
+28067006	1346	1354	amygdala	T017	UMLS:C0002708
+28067006	1356	1367	hippocampus	T017	UMLS:C0019564
+28067006	1369	1376	putamen	T017	UMLS:C0034169
+28067006	1381	1398	nucleus accumbens	T017	UMLS:C0028633
+28067006	1413	1424	whole-brain	T017	UMLS:C0006104
+28067006	1425	1432	studies	T062	UMLS:C0936012
+28067006	1476	1485	diagnosis	T062	UMLS:C1704656
+28067006	1489	1500	RDoC domain	T062	UMLS:C0242481
+28067006	1567	1583	brain structural	T017	UMLS:C0006104
+28067006	1623	1632	disorders	T038	UMLS:C0012634
+28067006	1746	1767	psychiatric disorders	T038	UMLS:C0004936

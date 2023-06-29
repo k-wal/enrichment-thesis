@@ -1,0 +1,128 @@
+27583176|t|Predictors of 30- day mortality in patients with spontaneous primary intracerebral hemorrhage
+27583176|a|Intracerebral hemorrhage (ICH) is a life threatening entity, and an early outcome assessment is mandatory for optimizing therapeutic efforts. We retrospectively analyzed data from 342 patients with spontaneous primary ICH to evaluate possible predictors of 30- day mortality considering clinical, radiological, and therapeutical parameters. We also applied three widely accepted outcome grading scoring systems [(ICH score, FUNC score and intracerebral hemorrhage grading scale (ICH-GS)] on our population to evaluate the correlation of these scores with the 30- day mortality in our study. We also applied three widely accepted outcome grading scoring systems [(ICH score, FUNC score and intracerebral hemorrhage grading scale (ICH-GS)] on our population to evaluate the correlation of these scores with the 30- day mortality in our study. From 342 patients (mean age: 67 years, mean Glasgow Coma Scale [GCS] on admission: 9, mean ICH volume: 62.19 ml, most common hematoma location: basal ganglia [43.9%]), 102 received surgical and 240 conservative treatment. The 30- day mortality was 25.15%. In a multivariate analysis, GCS (Odds ratio [OR] =0.726, 95% confidence interval [CI] =0.661-0.796, P < 0.001), bleeding volume (OR = 1.012 per ml, 95% CI = 1.007 - 1.017, P < 0.001), and infratentorial hematoma location (OR = 5.381, 95% CI = 2.166-13.356, P = 0.009) were significant predictors for the 30- day mortality. After receiver operating characteristics analysis, we defined a " high-risk group " for an unfavorable short-term outcome with GCS <11 and ICH volume >32 ml supratentorially or 21 ml infratentorially. Using Pearson correlation, we found a correlation of 0.986 between ICH score and 30- day mortality (P < 0.001), 0.853 between FUNC score and 30- day mortality (P = 0.001), and 0.924 between ICH-GS and 30- day mortality (P = 0.001). GCS score on admission together with the baseline volume and localization of the hemorrhage are strong predictors for 30- day mortality in patients with spontaneous primary intracerebral hemorrhage, and by relying on them it is possible to identify high-risk patients with poor short-term outcome. The ICH score and the ICH-GS accurately predict the 30- day mortality.
+27583176	0	10	Predictors	T078	C2698872
+27583176	18	21	day	T079	C0439228
+27583176	22	31	mortality	T081	C0205848
+27583176	35	43	patients	T101	C0030705
+27583176	49	60	spontaneous	T169	C0205359
+27583176	61	68	primary	T080	C0205225
+27583176	69	93	intracerebral hemorrhage	T033	C2937358
+27583176	94	118	Intracerebral hemorrhage	T033	C2937358
+27583176	120	123	ICH	T033	C2937358
+27583176	130	146	life threatening	T033	C2826244
+27583176	162	186	early outcome assessment	T058	C0029909
+27583176	215	234	therapeutic efforts	T061	C0087111
+27583176	239	254	retrospectively	T080	C1514923
+27583176	255	263	analyzed	T062	C0936012
+27583176	264	268	data	T078	C1511726
+27583176	278	286	patients	T101	C0030705
+27583176	292	303	spontaneous	T169	C0205359
+27583176	304	311	primary	T080	C0205225
+27583176	312	315	ICH	T033	C2937358
+27583176	337	347	predictors	T078	C2698872
+27583176	355	358	day	T079	C0439228
+27583176	359	368	mortality	T081	C0205848
+27583176	381	389	clinical	T080	C0205210
+27583176	391	403	radiological	T169	C0205483
+27583176	409	422	therapeutical	T169	C0302350
+27583176	423	433	parameters	T077	C0549193
+27583176	473	504	outcome grading scoring systems	T170	C0282574
+27583176	507	516	ICH score	T081	C0449820
+27583176	518	528	FUNC score	T081	C0449820
+27583176	533	571	intracerebral hemorrhage grading scale	T170	C0349674
+27583176	573	579	ICH-GS	T170	C0349674
+27583176	589	599	population	T098	C1257890
+27583176	616	627	correlation	T080	C1707520
+27583176	637	643	scores	T081	C0449820
+27583176	657	660	day	T079	C0439228
+27583176	661	670	mortality	T081	C0205848
+27583176	678	683	study	T062	C2603343
+27583176	723	754	outcome grading scoring systems	T170	C0282574
+27583176	757	766	ICH score	T081	C0449820
+27583176	768	778	FUNC score	T081	C0449820
+27583176	783	821	intracerebral hemorrhage grading scale	T170	C0349674
+27583176	823	829	ICH-GS	T170	C0349674
+27583176	839	849	population	T098	C1257890
+27583176	866	877	correlation	T080	C1707520
+27583176	887	893	scores	T081	C0449820
+27583176	907	910	day	T079	C0439228
+27583176	911	920	mortality	T081	C0205848
+27583176	928	933	study	T062	C2603343
+27583176	944	952	patients	T101	C0030705
+27583176	959	962	age	T032	C0001779
+27583176	967	972	years	T079	C0439234
+27583176	979	997	Glasgow Coma Scale	T170	C0017594
+27583176	999	1002	GCS	T170	C0017594
+27583176	1007	1016	admission	T058	C0184666
+27583176	1026	1029	ICH	T033	C2937358
+27583176	1030	1036	volume	T081	C0449468
+27583176	1060	1068	hematoma	T046	C0018944
+27583176	1069	1077	location	T029	C1515974
+27583176	1079	1092	basal ganglia	T023	C0004781
+27583176	1116	1124	surgical	T061	C0543467
+27583176	1133	1155	conservative treatment	T061	C0459914
+27583176	1165	1168	day	T079	C0439228
+27583176	1169	1178	mortality	T081	C0205848
+27583176	1196	1217	multivariate analysis	T081	C0026777
+27583176	1219	1222	GCS	T170	C0017594
+27583176	1224	1234	Odds ratio	T081	C0028873
+27583176	1236	1238	OR	T081	C0028873
+27583176	1252	1271	confidence interval	T081	C0009667
+27583176	1273	1275	CI	T081	C0009667
+27583176	1303	1311	bleeding	T046	C0019080
+27583176	1312	1318	volume	T081	C0449468
+27583176	1320	1322	OR	T081	C0028873
+27583176	1343	1345	CI	T081	C0009667
+27583176	1379	1393	infratentorial	T082	C0441939
+27583176	1394	1402	hematoma	T046	C0018944
+27583176	1403	1411	location	T029	C1515974
+27583176	1413	1415	OR	T081	C0028873
+27583176	1429	1431	CI	T081	C0009667
+27583176	1476	1486	predictors	T078	C2698872
+27583176	1499	1502	day	T079	C0439228
+27583176	1503	1512	mortality	T081	C0205848
+27583176	1520	1554	receiver operating characteristics	T081	C0034772
+27583176	1555	1563	analysis	T062	C0936012
+27583176	1580	1595	high-risk group	T098	C0684030
+27583176	1617	1627	short-term	T079	C0443303
+27583176	1628	1635	outcome	T169	C1274040
+27583176	1641	1644	GCS	T170	C0017594
+27583176	1653	1656	ICH	T033	C2937358
+27583176	1657	1663	volume	T081	C0449468
+27583176	1671	1687	supratentorially	T082	C0441938
+27583176	1697	1713	infratentorially	T082	C0441939
+27583176	1721	1740	Pearson correlation	T170	C1709490
+27583176	1753	1764	correlation	T080	C1707520
+27583176	1782	1791	ICH score	T081	C0449820
+27583176	1800	1803	day	T079	C0439228
+27583176	1804	1813	mortality	T081	C0205848
+27583176	1841	1851	FUNC score	T081	C0449820
+27583176	1860	1863	day	T079	C0439228
+27583176	1864	1873	mortality	T081	C0205848
+27583176	1905	1911	ICH-GS	T170	C0349674
+27583176	1920	1923	day	T079	C0439228
+27583176	1924	1933	mortality	T081	C0205848
+27583176	1947	1950	GCS	T170	C0017594
+27583176	1951	1956	score	T081	C0449820
+27583176	1960	1969	admission	T058	C0184666
+27583176	1988	1996	baseline	T081	C1442488
+27583176	1997	2003	volume	T081	C0449468
+27583176	2008	2020	localization	T169	C0475264
+27583176	2028	2038	hemorrhage	T046	C0019080
+27583176	2050	2060	predictors	T078	C2698872
+27583176	2069	2072	day	T079	C0439228
+27583176	2073	2082	mortality	T081	C0205848
+27583176	2086	2094	patients	T101	C0030705
+27583176	2100	2111	spontaneous	T169	C0205359
+27583176	2112	2119	primary	T080	C0205225
+27583176	2120	2144	intracerebral hemorrhage	T033	C2937358
+27583176	2196	2205	high-risk	T033	C0332167
+27583176	2206	2214	patients	T101	C0030705
+27583176	2225	2235	short-term	T079	C0443303
+27583176	2236	2243	outcome	T169	C1274040
+27583176	2249	2258	ICH score	T081	C0449820
+27583176	2267	2273	ICH-GS	T170	C0349674
+27583176	2274	2284	accurately	T080	C0443131
+27583176	2285	2292	predict	T078	C2698872
+27583176	2301	2304	day	T079	C0439228
+27583176	2305	2314	mortality	T081	C0205848

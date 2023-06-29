@@ -1,0 +1,32 @@
+28604678|t|Dynamic subunit turnover in ESCRT-III assemblies is regulated by Vps4 to mediate membrane remodelling during cytokinesis.
+28604678|a|The endosomal sorting complex required for transport (ESCRT)-III mediates membrane fission in fundamental cellular processes, including cytokinesis. ESCRT-III is thought to form persistent filaments that over time increase their curvature to constrict membranes. Unexpectedly, we found that ESCRT-III at the midbody of human cells rapidly turns over subunits with cytoplasmic pools while gradually forming larger assemblies. ESCRT-III turnover depended on the ATPase VPS4, which accumulated at the midbody simultaneously with ESCRT-III subunits, and was required for assembly of functional ESCRT-III structures. In vitro, the Vps2/Vps24 subunits of ESCRT-III formed side-by-side filaments with Snf7 and inhibited further polymerization, but the growth inhibition was alleviated by the addition of Vps4 and ATP. High-speed atomic force microscopy further revealed highly dynamic arrays of growing and shrinking ESCRT-III spirals in the presence of Vps4. Continuous ESCRT-III remodelling by subunit turnover might facilitate shape adaptions to variable membrane geometries, with broad implications for diverse cellular processes.
+28604678	28	37	ESCRT-III	GeneOrGeneProduct	128866,27243,51652
+28604678	65	69	Vps4	GeneOrGeneProduct	27183,9525
+28604678	126	186	endosomal sorting complex required for transport (ESCRT)-III	GeneOrGeneProduct	128866,27243,51652
+28604678	271	280	ESCRT-III	GeneOrGeneProduct	128866,27243,51652
+28604678	413	422	ESCRT-III	GeneOrGeneProduct	128866,27243,51652
+28604678	441	446	human	OrganismTaxon	9606
+28604678	547	556	ESCRT-III	GeneOrGeneProduct	128866,27243,51652
+28604678	582	588	ATPase	GeneOrGeneProduct	27183,9525
+28604678	589	593	VPS4	GeneOrGeneProduct	27183,9525
+28604678	648	657	ESCRT-III	GeneOrGeneProduct	128866,27243,51652
+28604678	712	721	ESCRT-III	GeneOrGeneProduct	128866,27243,51652
+28604678	748	752	Vps2	GeneOrGeneProduct	27243
+28604678	753	758	Vps24	GeneOrGeneProduct	51652
+28604678	771	780	ESCRT-III	GeneOrGeneProduct	128866,27243,51652
+28604678	816	820	Snf7	GeneOrGeneProduct	128866,29082
+28604678	919	923	Vps4	GeneOrGeneProduct	27183,9525
+28604678	928	931	ATP	ChemicalEntity	D000255
+28604678	1032	1041	ESCRT-III	GeneOrGeneProduct	128866,27243,51652
+28604678	1069	1073	Vps4	GeneOrGeneProduct	27183,9525
+28604678	1086	1095	ESCRT-III	GeneOrGeneProduct	128866,27243,51652
+28604678	Association	51652	29082	Novel
+28604678	Association	51652	9525	Novel
+28604678	Association	51652	27183	Novel
+28604678	Association	51652	128866	Novel
+28604678	Association	27243	29082	Novel
+28604678	Association	27243	9525	Novel
+28604678	Association	27243	27183	Novel
+28604678	Association	27243	128866	Novel
+28604678	Association	128866	9525	Novel
+28604678	Association	128866	27183	Novel

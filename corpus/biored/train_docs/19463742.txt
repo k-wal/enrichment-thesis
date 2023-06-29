@@ -1,0 +1,81 @@
+19463742|t|Melanocortin-4 receptor activation inhibits c-Jun N-terminal kinase activity and promotes insulin signaling.
+19463742|a|The melanocortin system is crucial to regulation of energy homeostasis. The melanocortin receptor type 4 (MC4R) modulates insulin signaling via effects on c-Jun N-terminal kinase (JNK). The melanocortin agonist NDP-MSH dose-dependently inhibited JNK activity in HEK293 cells stably expressing the human MC4R; effects were reversed by melanocortin receptor antagonist. NDP-MSH time- and dose-dependently inhibited IRS-1(ser307) phosphorylation, effects also reversed by a specific melanocortin receptor antagonist. NDP-MSH augmented insulin-stimulated AKT phosphorylation in vitro. The melanocortin agonist melanotan II increased insulin-stimulated AKT phosphorylation in the rat hypothalamus in vivo. NDP-MSH increased insulin-stimulated glucose uptake in hypothalamic GT1-1 cells. The current study shows that the melanocortinergic system interacts with insulin signaling via novel effects on JNK activity.
+19463742	0	23	Melanocortin-4 receptor	GeneOrGeneProduct	17202,25635,4160
+19463742	44	67	c-Jun N-terminal kinase	GeneOrGeneProduct	116554,26419,5599
+19463742	90	97	insulin	GeneOrGeneProduct	16333,24505,3630
+19463742	113	125	melanocortin	GeneOrGeneProduct	5443
+19463742	185	213	melanocortin receptor type 4	GeneOrGeneProduct	4160
+19463742	215	219	MC4R	GeneOrGeneProduct	4160
+19463742	231	238	insulin	GeneOrGeneProduct	3630
+19463742	264	287	c-Jun N-terminal kinase	GeneOrGeneProduct	5599
+19463742	289	292	JNK	GeneOrGeneProduct	5599
+19463742	299	311	melanocortin	GeneOrGeneProduct	5443
+19463742	320	327	NDP-MSH	ChemicalEntity	C027756
+19463742	355	358	JNK	GeneOrGeneProduct	5599
+19463742	371	377	HEK293	CellLine	CVCL_0045
+19463742	406	411	human	OrganismTaxon	9606
+19463742	412	416	MC4R	GeneOrGeneProduct	4160
+19463742	443	464	melanocortin receptor	GeneOrGeneProduct	4160
+19463742	477	484	NDP-MSH	ChemicalEntity	C027756
+19463742	522	527	IRS-1	GeneOrGeneProduct	3667
+19463742	589	610	melanocortin receptor	GeneOrGeneProduct	4160
+19463742	623	630	NDP-MSH	ChemicalEntity	C027756
+19463742	641	648	insulin	GeneOrGeneProduct	3630
+19463742	660	663	AKT	GeneOrGeneProduct	207
+19463742	694	706	melanocortin	GeneOrGeneProduct	5443
+19463742	715	727	melanotan II	ChemicalEntity	C079282
+19463742	738	745	insulin	GeneOrGeneProduct	24505
+19463742	757	760	AKT	GeneOrGeneProduct	24185
+19463742	784	787	rat	OrganismTaxon	10116
+19463742	810	817	NDP-MSH	ChemicalEntity	C027756
+19463742	828	835	insulin	GeneOrGeneProduct	16333
+19463742	847	854	glucose	ChemicalEntity	D005947
+19463742	878	883	GT1-1	CellLine	CVCL_6236
+19463742	964	971	insulin	GeneOrGeneProduct	16333,24505,3630
+19463742	1003	1006	JNK	GeneOrGeneProduct	116554,26419,5599
+19463742	Positive_Correlation	D005947	16333	No
+19463742	Association	C079282	24185	Novel
+19463742	Association	C079282	24505	Novel
+19463742	Association	3667	4160	Novel
+19463742	Positive_Correlation	5443	C079282	No
+19463742	Association	5443	24185	Novel
+19463742	Positive_Correlation	5443	C027756	No
+19463742	Association	5443	24505	Novel
+19463742	Bind	5443	4160	No
+19463742	Negative_Correlation	5443	5599	Novel
+19463742	Positive_Correlation	C027756	D005947	Novel
+19463742	Association	C027756	207	Novel
+19463742	Association	C027756	3667	Novel
+19463742	Association	C027756	3630	Novel
+19463742	Association	C027756	16333	Novel
+19463742	Association	C027756	4160	Novel
+19463742	Negative_Correlation	C027756	5599	Novel
+19463742	Association	3630	207	No
+19463742	Association	3630	5599	Novel
+19463742	Association	3630	26419	Novel
+19463742	Association	3630	116554	Novel
+19463742	Association	24505	24185	No
+19463742	Association	24505	5599	Novel
+19463742	Association	24505	26419	Novel
+19463742	Association	24505	116554	Novel
+19463742	Association	16333	5599	Novel
+19463742	Association	16333	26419	Novel
+19463742	Association	16333	116554	Novel
+19463742	Positive_Correlation	4160	3630	Novel
+19463742	Positive_Correlation	4160	24505	Novel
+19463742	Positive_Correlation	4160	16333	Novel
+19463742	Negative_Correlation	4160	5599	Novel
+19463742	Negative_Correlation	4160	26419	Novel
+19463742	Negative_Correlation	4160	116554	Novel
+19463742	Positive_Correlation	25635	3630	Novel
+19463742	Positive_Correlation	25635	24505	Novel
+19463742	Positive_Correlation	25635	16333	Novel
+19463742	Negative_Correlation	25635	5599	Novel
+19463742	Negative_Correlation	25635	26419	Novel
+19463742	Negative_Correlation	25635	116554	Novel
+19463742	Positive_Correlation	17202	3630	Novel
+19463742	Positive_Correlation	17202	24505	Novel
+19463742	Positive_Correlation	17202	16333	Novel
+19463742	Negative_Correlation	17202	5599	Novel
+19463742	Negative_Correlation	17202	26419	Novel
+19463742	Negative_Correlation	17202	116554	Novel

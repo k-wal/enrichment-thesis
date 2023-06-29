@@ -1,0 +1,32 @@
+28103546|t|Quantifying Net Synergy / Redundancy of Spontaneous Variability Regulation via Predictability and Transfer Entropy Decomposition Frameworks
+28103546|a|Indexes assessing the balance between redundancy and synergy were hypothesized to be helpful in characterizing cardiovascular control from spontaneous beat-to-beat variations of heart period (HP), systolic arterial pressure (SAP) and respiration (R). Net redundancy / synergy indexes were derived according to predictability and transfer entropy decomposition strategies via a multivariate linear regression approach. Indexes were tested in two protocols inducing modifications of the cardiovascular regulation via baroreflex loading / unloading (i.e. head-down tilt at -25° and graded head-up tilt at 15°, 30°, 45°, 60°, 75° and 90° respectively). The net redundancy / synergy of SAP and R to HP and of HP and R to SAP were estimated over stationary sequences of 256 successive values. We found that: i) regardless of the target (i.e. HP or SAP) redundancy was prevalent over synergy and this prevalence was independent of type and magnitude of the baroreflex challenge; ii) the prevalence of redundancy disappeared when decoupling inputs from output via surrogate approach; iii) net redundancy was under autonomic control given that it varied in proportion to the vagal withdrawal during graded head-up tilt; iv) conclusions held regardless of the decomposition strategy. Net redundancy indexes can monitor changes of cardiovascular control from a perspective completely different from that provided by more traditional univariate and multivariate methods. Net redundancy measures might provide a practical tool to quantify the reservoir of effective cardiovascular regulatory mechanisms sharing causal influences over a target variable.
+28103546	64	74	Regulation	T038	UMLS:C1327622
+28103546	115	139	Decomposition Frameworks	T062	UMLS:C0035171
+28103546	140	147	Indexes	T170	UMLS:C0600653
+28103546	251	265	cardiovascular	T082	UMLS:C3887460
+28103546	291	303	beat-to-beat	T038	UMLS:C0425583
+28103546	318	323	heart	T017	UMLS:C0018787
+28103546	337	363	systolic arterial pressure	T201	UMLS:C0871470
+28103546	365	368	SAP	T201	UMLS:C0871470
+28103546	374	385	respiration	T038	UMLS:C0035203
+28103546	387	388	R	T038	UMLS:C0035203
+28103546	416	423	indexes	T170	UMLS:C0600653
+28103546	558	565	Indexes	T170	UMLS:C0600653
+28103546	585	594	protocols	T170	UMLS:C2348563
+28103546	625	639	cardiovascular	T082	UMLS:C3887460
+28103546	640	650	regulation	T038	UMLS:C1327622
+28103546	655	665	baroreflex	T038	UMLS:C0206162
+28103546	692	706	head-down tilt	T082	UMLS:C0242683
+28103546	821	824	SAP	T201	UMLS:C0871470
+28103546	829	830	R	T038	UMLS:C0035203
+28103546	851	852	R	T038	UMLS:C0035203
+28103546	856	859	SAP	T201	UMLS:C0871470
+28103546	982	985	SAP	T201	UMLS:C0871470
+28103546	1090	1100	baroreflex	T038	UMLS:C0206162
+28103546	1306	1311	vagal	T017	UMLS:C1510461
+28103546	1390	1412	decomposition strategy	T062	UMLS:C0035171
+28103546	1429	1436	indexes	T170	UMLS:C0600653
+28103546	1441	1448	monitor	T058	UMLS:C1283169
+28103546	1460	1474	cardiovascular	T082	UMLS:C3887460
+28103546	1693	1707	cardiovascular	T082	UMLS:C3887460
+28103546	1708	1718	regulatory	T038	UMLS:C1327622

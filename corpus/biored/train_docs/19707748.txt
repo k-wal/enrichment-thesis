@@ -1,0 +1,20 @@
+19707748|t|Seizures associated with levofloxacin: case presentation and literature review.
+19707748|a|PURPOSE: We present a case of a patient who developed seizures shortly after initiating treatment with levofloxacin and to discuss the potential drug-drug interactions related to the inhibition of cytochrome P450 (CYP) 1A2 in this case, as well as in other cases, of levofloxacin-induced seizures. METHODS: Several biomedical databases were searched including MEDLINE, Cochrane and Ovid. The main search terms utilized were case report and levofloxacin. The search was limited to studies published in English. RESULTS: Six cases of levofloxacin-induced seizures have been reported in the literature. Drug-drug interactions related to the inhibition of CYP1A2 by levofloxacin are likely involved in the clinical outcome of these cases. CONCLUSIONS: Clinicians are exhorted to pay close attention when initiating levofloxacin therapy in patients taking medications with epileptogenic properties that are CYP1A2 substrates.
+19707748	0	8	Seizures	DiseaseOrPhenotypicFeature	D012640
+19707748	25	37	levofloxacin	ChemicalEntity	D064704
+19707748	112	119	patient	OrganismTaxon	9606
+19707748	134	142	seizures	DiseaseOrPhenotypicFeature	D012640
+19707748	183	195	levofloxacin	ChemicalEntity	D064704
+19707748	277	302	cytochrome P450 (CYP) 1A2	GeneOrGeneProduct	1544
+19707748	347	359	levofloxacin	ChemicalEntity	D064704
+19707748	368	376	seizures	DiseaseOrPhenotypicFeature	D012640
+19707748	520	532	levofloxacin	ChemicalEntity	D064704
+19707748	612	624	levofloxacin	ChemicalEntity	D064704
+19707748	633	641	seizures	DiseaseOrPhenotypicFeature	D012640
+19707748	732	738	CYP1A2	GeneOrGeneProduct	1544
+19707748	742	754	levofloxacin	ChemicalEntity	D064704
+19707748	891	903	levofloxacin	ChemicalEntity	D064704
+19707748	915	923	patients	OrganismTaxon	9606
+19707748	982	988	CYP1A2	GeneOrGeneProduct	1544
+19707748	Association	1544	D064704	Novel
+19707748	Positive_Correlation	D012640	D064704	Novel

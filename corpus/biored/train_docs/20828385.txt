@@ -1,0 +1,33 @@
+20828385|t|Cytostatic and anti-angiogenic effects of temsirolimus in refractory mantle cell lymphoma.
+20828385|a|Mantle cell lymphoma (MCL) is a rare and aggressive type of B-cell non-Hodgkin's lymphoma. Patients become progressively refractory to conventional chemotherapy, and their prognosis is poor. However, a 38% remission rate has been recently reported in refractory MCL treated with temsirolimus, a mTOR inhibitor.Here we had the opportunity to study a case of refractory MCL who had tumor regression two months after temsirolimus treatment, and a progression-free survival of 10 months. In this case, lymph node biopsies were performed before and six months after temsirolimus therapy. Comparison of the two biopsies showed that temsirolimus inhibited tumor cell proliferation through cell cycle arrest, but did not induce any change in the number of apoptotic tumor cells. Apart from this cytostatic effect, temsirolimus had an antiangiogenic effect with decrease of tumor microvessel density and of VEGF expression. Moreover, numerous patchy, well-limited fibrotic areas, compatible with post-necrotic tissue repair, were found after 6-month temsirolimus therapy. Thus, temsirolimus reduced tumor burden through associated cytostatic and anti-angiogenic effects.This dual effect of temsirolimus on tumor tissue could contribute to its recently reported efficiency in refractory MCL resistant to conventional chemotherapy.
+20828385	42	54	temsirolimus	ChemicalEntity	C401859
+20828385	69	89	mantle cell lymphoma	DiseaseOrPhenotypicFeature	D020522
+20828385	91	111	Mantle cell lymphoma	DiseaseOrPhenotypicFeature	D020522
+20828385	113	116	MCL	DiseaseOrPhenotypicFeature	D020522
+20828385	151	180	B-cell non-Hodgkin's lymphoma	DiseaseOrPhenotypicFeature	D008228
+20828385	182	190	Patients	OrganismTaxon	9606
+20828385	353	356	MCL	DiseaseOrPhenotypicFeature	D020522
+20828385	370	382	temsirolimus	ChemicalEntity	C401859
+20828385	386	390	mTOR	GeneOrGeneProduct	2475
+20828385	459	462	MCL	DiseaseOrPhenotypicFeature	D020522
+20828385	471	476	tumor	DiseaseOrPhenotypicFeature	D009369
+20828385	505	517	temsirolimus	ChemicalEntity	C401859
+20828385	652	664	temsirolimus	ChemicalEntity	C401859
+20828385	717	729	temsirolimus	ChemicalEntity	C401859
+20828385	740	745	tumor	DiseaseOrPhenotypicFeature	D009369
+20828385	849	854	tumor	DiseaseOrPhenotypicFeature	D009369
+20828385	897	909	temsirolimus	ChemicalEntity	C401859
+20828385	956	961	tumor	DiseaseOrPhenotypicFeature	D009369
+20828385	989	993	VEGF	GeneOrGeneProduct	7422
+20828385	1083	1091	necrotic	DiseaseOrPhenotypicFeature	D009336
+20828385	1132	1144	temsirolimus	ChemicalEntity	C401859
+20828385	1160	1172	temsirolimus	ChemicalEntity	C401859
+20828385	1181	1186	tumor	DiseaseOrPhenotypicFeature	D009369
+20828385	1272	1284	temsirolimus	ChemicalEntity	C401859
+20828385	1288	1293	tumor	DiseaseOrPhenotypicFeature	D009369
+20828385	1368	1371	MCL	DiseaseOrPhenotypicFeature	D020522
+20828385	Negative_Correlation	D009336	C401859	Novel
+20828385	Negative_Correlation	C401859	2475	No
+20828385	Negative_Correlation	C401859	7422	Novel
+20828385	Negative_Correlation	C401859	D009369	Novel
+20828385	Negative_Correlation	D020522	C401859	Novel

@@ -1,0 +1,84 @@
+27905097|t|Novel biomarkers in primary breast core biopsies to predict poor response to neoadjuvant chemotherapy and appearance of metastases
+27905097|a|Drug resistance has been one of the major obstacles limiting the success of cancer chemotherapy. In two thirds of breast cancer patients, large (>1cm) residual tumors are present after neoadjuvant chemotherapy (NCT). The residual tumor and involved nodes have been indicators of relapse and survival very important in breast cancer. The goal of this preliminary study was to assess the predictive significance of a panel of molecular biomarkers, related with the response to treatment or drug resistance to NCT, as determined on the diagnostic tumor. The expression of 22 proteins was examined using immunohistochemistry in tissue microarrays (TMA) from 115 patients of stage II - III breast cancer, treated with NCT. Among studied proteins, there are some that are anti-apoptotic, pro-proliferative, cancer stem cell markers and the Vitamin D Receptor. Other proteins are involved in the identification of molecular subtype, cell cycle regulation or DNA repair. Next, a predictive signature of poor response was generated from independent markers of predictive value. Tumors that expressed four or five conditions (biomarkers of chemoresistance with a determinated cutoff) were associated with a 9-fold increase in the chances of these patients of having a poor response to NCT. Additionally, we also found a worse prognostic signature, generated from independent markers of prognostic value. Tumors which expressed two or three conditions of worst prognostic, were associated with a 6-fold reduction in Distant Disease Free Survival. In conclusion, finding biomarkers of chemoresitance (ypTNM II-III) and metastases can become a stepping stone for future studies that will need to be assessed in a bigger scale.
+27905097	6	16	biomarkers	T123	C0041366
+27905097	20	27	primary	T080	C0205225
+27905097	28	48	breast core biopsies	T060	C0191853
+27905097	60	73	poor response	T033	C1320680
+27905097	77	101	neoadjuvant chemotherapy	T061	C4272610
+27905097	106	116	appearance	T080	C0205556
+27905097	120	130	metastases	T191	C0027627
+27905097	131	146	Drug resistance	T038	C0013203
+27905097	196	203	success	T080	C0679864
+27905097	207	213	cancer	T191	C0006826
+27905097	214	226	chemotherapy	T061	C3665472
+27905097	245	258	breast cancer	T191	C0006142
+27905097	259	267	patients	T101	C0030705
+27905097	282	297	residual tumors	T191	C0543478
+27905097	316	340	neoadjuvant chemotherapy	T061	C4272610
+27905097	342	345	NCT	T061	C4272610
+27905097	352	366	residual tumor	T191	C0543478
+27905097	380	385	nodes	T023	C0746922
+27905097	396	406	indicators	T130	C0021212
+27905097	410	417	relapse	T067	C0035020
+27905097	422	430	survival	T169	C0220921
+27905097	449	462	breast cancer	T191	C0006142
+27905097	506	512	assess	T058	C0184514
+27905097	517	527	predictive	T080	C0681890
+27905097	528	540	significance	T078	C0750502
+27905097	546	551	panel	T078	C0441833
+27905097	555	575	molecular biomarkers	T123	C0041366
+27905097	594	615	response to treatment	T201	C0521982
+27905097	619	634	drug resistance	T038	C0013203
+27905097	638	641	NCT	T061	C4272610
+27905097	664	674	diagnostic	T169	C0348026
+27905097	675	680	tumor	T191	C0027651
+27905097	686	696	expression	T045	C1171362
+27905097	703	711	proteins	T116,T123	C0033684
+27905097	731	751	immunohistochemistry	T060	C0021044
+27905097	755	773	tissue microarrays	T075	C1519522
+27905097	775	778	TMA	T075	C1519522
+27905097	789	797	patients	T101	C0030705
+27905097	801	809	stage II	T191	C0278486
+27905097	812	829	III breast cancer	T191	C0278487
+27905097	831	838	treated	T169	C1522326
+27905097	844	847	NCT	T061	C4272610
+27905097	863	871	proteins	T116,T123	C0033684
+27905097	897	911	anti-apoptotic	T123	C0574031
+27905097	913	930	pro-proliferative	T123	C0574031
+27905097	932	956	cancer stem cell markers	T123	C0574031
+27905097	965	983	Vitamin D Receptor	T116,T192	C0108082
+27905097	991	999	proteins	T116,T123	C0033684
+27905097	1038	1055	molecular subtype	T185	C0449560
+27905097	1057	1078	cell cycle regulation	T043	C1155872
+27905097	1082	1092	DNA repair	T045	C0012899
+27905097	1102	1112	predictive	T080	C0681890
+27905097	1113	1122	signature	T169	C1704864
+27905097	1131	1139	response	T044	C1148560
+27905097	1159	1170	independent	T078	C0085862
+27905097	1171	1178	markers	T123	C0041366
+27905097	1182	1198	predictive value	T080	C1514307
+27905097	1200	1206	Tumors	T191	C0027651
+27905097	1235	1245	conditions	T080	C0348080
+27905097	1247	1257	biomarkers	T123	C0041366
+27905097	1261	1276	chemoresistance	T169	C4281815
+27905097	1297	1303	cutoff	T169	C1442160
+27905097	1310	1325	associated with	T080	C0332281
+27905097	1335	1343	increase	T169	C0442805
+27905097	1368	1376	patients	T101	C0030705
+27905097	1389	1402	poor response	T033	C1320680
+27905097	1406	1409	NCT	T061	C4272610
+27905097	1447	1467	prognostic signature	T169	C1704864
+27905097	1484	1495	independent	T078	C0085862
+27905097	1496	1503	markers	T123	C0041366
+27905097	1507	1523	prognostic value	T080	C0205556
+27905097	1525	1531	Tumors	T191	C0027651
+27905097	1561	1571	conditions	T080	C0348080
+27905097	1581	1591	prognostic	T080	C0205556
+27905097	1598	1613	associated with	T080	C0332281
+27905097	1623	1632	reduction	T081	C0547047
+27905097	1636	1665	Distant Disease Free Survival	T081	C0242793
+27905097	1682	1689	finding	T033	C0243095
+27905097	1690	1700	biomarkers	T123	C0041366
+27905097	1704	1718	chemoresitance	T169	C4281815
+27905097	1720	1732	ypTNM II-III	T185	C0008902
+27905097	1738	1748	metastases	T191	C0027627

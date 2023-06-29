@@ -1,0 +1,50 @@
+17439425|t|Role of xanthine oxidase in dexamethasone-induced hypertension in rats.
+17439425|a|1. Glucocorticoid-induced hypertension (GC-HT) in the rat is associated with nitric oxide-redox imbalance. 2. We studied the role of xanthine oxidase (XO), which is implicated in the production of reactive oxygen species, in dexamethasone-induced hypertension (dex-HT). 3. Thirty male Sprague-Dawley rats were divided randomly into four treatment groups: saline, dexamethasone (dex), allopurinol plus saline, and allopurinol plus dex. 4. Systolic blood pressures (SBP) and bodyweights were recorded each alternate day. Thymus weight was used as a marker of glucocorticoid activity, and serum urate to assess XO inhibition. 5. Dex increased SBP (110 +/- 2-126 +/- 3 mmHg; P < 0.001) and decreased thymus (P < 0.001) and bodyweights (P" < 0.01). Allopurinol decreased serum urate from 76 +/- 5 to 30 +/- 3 micromol/L (P < 0.001) in saline and from 84 +/- 13 to 28 +/- 2 micromol/L in dex-treated (P < 0.01) groups. 6. Allopurinol did not prevent dex-HT. This, together with our previous findings that allopurinol failed to prevent adrenocorticotrophic hormone induced hypertension, suggests that XO activity is not a major determinant of GC-HT in the rat.
+17439425	8	24	xanthine oxidase	ChemicalEntity	D014969
+17439425	28	41	dexamethasone	ChemicalEntity	D003907
+17439425	50	62	hypertension	DiseaseOrPhenotypicFeature	D006973
+17439425	66	70	rats	OrganismTaxon	10116
+17439425	75	89	Glucocorticoid	ChemicalEntity	D005938
+17439425	98	110	hypertension	DiseaseOrPhenotypicFeature	D006973
+17439425	112	114	GC	ChemicalEntity	D005938
+17439425	115	117	HT	DiseaseOrPhenotypicFeature	D006973
+17439425	126	129	rat	OrganismTaxon	10116
+17439425	149	161	nitric oxide	ChemicalEntity	D009569
+17439425	205	221	xanthine oxidase	ChemicalEntity	D014969
+17439425	223	225	XO	ChemicalEntity	D014969
+17439425	269	292	reactive oxygen species	ChemicalEntity	D017382
+17439425	297	310	dexamethasone	ChemicalEntity	D003907
+17439425	319	331	hypertension	DiseaseOrPhenotypicFeature	D006973
+17439425	333	336	dex	ChemicalEntity	D003907
+17439425	337	339	HT	DiseaseOrPhenotypicFeature	D006973
+17439425	372	376	rats	OrganismTaxon	10116
+17439425	435	448	dexamethasone	ChemicalEntity	D003907
+17439425	450	453	dex	ChemicalEntity	D003907
+17439425	456	467	allopurinol	ChemicalEntity	D000493
+17439425	485	496	allopurinol	ChemicalEntity	D000493
+17439425	502	505	dex	ChemicalEntity	D003907
+17439425	629	643	glucocorticoid	ChemicalEntity	D005938
+17439425	664	669	urate	ChemicalEntity	D014527
+17439425	680	682	XO	ChemicalEntity	D014969
+17439425	698	701	Dex	ChemicalEntity	D003907
+17439425	816	827	Allopurinol	ChemicalEntity	D000493
+17439425	844	849	urate	ChemicalEntity	D014527
+17439425	954	957	dex	ChemicalEntity	D003907
+17439425	988	999	Allopurinol	ChemicalEntity	D000493
+17439425	1016	1019	dex	ChemicalEntity	D003907
+17439425	1020	1022	HT	DiseaseOrPhenotypicFeature	D006973
+17439425	1071	1082	allopurinol	ChemicalEntity	D000493
+17439425	1101	1129	adrenocorticotrophic hormone	GeneOrGeneProduct	5443
+17439425	1138	1150	hypertension	DiseaseOrPhenotypicFeature	D006973
+17439425	1166	1168	XO	ChemicalEntity	D014969
+17439425	1208	1210	GC	ChemicalEntity	D005938
+17439425	1211	1213	HT	DiseaseOrPhenotypicFeature	D006973
+17439425	1221	1224	rat	OrganismTaxon	10116
+17439425	Association	D005938	D009569	Novel
+17439425	Positive_Correlation	D005938	D006973	No
+17439425	Positive_Correlation	5443	D006973	No
+17439425	Negative_Correlation	D000493	D014527	Novel
+17439425	Association	D014969	D017382	No
+17439425	Association	D014527	D014969	Novel
+17439425	Association	D006973	D009569	No
+17439425	Positive_Correlation	D003907	D006973	No

@@ -1,0 +1,45 @@
+28062447|t|Cross-React: a new structural bioinformatics method for predicting allergen cross-reactivity
+28062447|a|The phenomenon of cross-reactivity between allergenic proteins plays an important role to understand how the immune system recognizes different antigen proteins. Allergen proteins are known to cross-react if their sequence comparison shows a high sequence identity which also implies that the proteins have a similar 3D fold. In such cases, linear sequence alignment methods are frequently used to predict cross-reactivity between allergenic proteins. However, the prediction of cross-reactivity between distantly related allergens continues to be a challenging task. To overcome this problem, we developed a new structure-based computational method, Cross-React, to predict cross-reactivity between allergenic proteins available in the Structural Database of Allergens (SDAP). Our method is based on the hypothesis that we can find surface patches on 3D structures of potential allergens with amino acid compositions similar to an epitope in a known allergen. We applied the Cross-React method to a diverse set of seven allergens, and successfully identified several cross-reactive allergens with high to moderate sequence identity which have also been experimentally shown to cross-react. Based on these findings, we suggest that Cross-React can be used as a predictive tool to assess protein allergenicity and cross-reactivity.: Cross-React is available at: http://curie.utmb.edu/Cross-React.html. ssnegi@utmb.edu.
+28062447	0	11	Cross-React	T170	UMLS:C0282574
+28062447	30	44	bioinformatics	T091	UMLS:C1140694
+28062447	45	51	method	T170	UMLS:C0025663
+28062447	67	75	allergen	T103	UMLS:C0002092
+28062447	76	92	cross-reactivity	T038	UMLS:C0010357
+28062447	111	127	cross-reactivity	T038	UMLS:C0010357
+28062447	147	155	proteins	T103	UMLS:C0033684
+28062447	202	215	immune system	T022	UMLS:C0020962
+28062447	237	244	antigen	T103	UMLS:C0003320
+28062447	245	253	proteins	T103	UMLS:C0033684
+28062447	255	263	Allergen	T103	UMLS:C0002092
+28062447	264	272	proteins	T103	UMLS:C0033684
+28062447	286	297	cross-react	T038	UMLS:C0010357
+28062447	307	315	sequence	T082	UMLS:C0002518
+28062447	340	348	sequence	T082	UMLS:C0002518
+28062447	386	394	proteins	T103	UMLS:C0033684
+28062447	410	417	3D fold	T082	UMLS:C0332462
+28062447	499	515	cross-reactivity	T038	UMLS:C0010357
+28062447	535	543	proteins	T103	UMLS:C0033684
+28062447	572	588	cross-reactivity	T038	UMLS:C0010357
+28062447	615	624	allergens	T103	UMLS:C0002092
+28062447	706	742	structure-based computational method	T170	UMLS:C0025663
+28062447	744	755	Cross-React	T170	UMLS:C0282574
+28062447	768	784	cross-reactivity	T038	UMLS:C0010357
+28062447	804	812	proteins	T103	UMLS:C0033684
+28062447	830	862	Structural Database of Allergens	T170	UMLS:C0282574
+28062447	864	868	SDAP	T170	UMLS:C0282574
+28062447	875	881	method	T170	UMLS:C0025663
+28062447	945	958	3D structures	T082	UMLS:C0026377
+28062447	972	981	allergens	T103	UMLS:C0002092
+28062447	987	997	amino acid	T103	UMLS:C0002520
+28062447	998	1010	compositions	T201	UMLS:C0486616
+28062447	1025	1032	epitope	T103	UMLS:C0003316
+28062447	1044	1052	allergen	T103	UMLS:C0002092
+28062447	1069	1080	Cross-React	T170	UMLS:C0282574
+28062447	1081	1087	method	T170	UMLS:C0025663
+28062447	1114	1123	allergens	T103	UMLS:C0002092
+28062447	1161	1175	cross-reactive	T038	UMLS:C0010357
+28062447	1176	1185	allergens	T103	UMLS:C0002092
+28062447	1208	1216	sequence	T082	UMLS:C0002518
+28062447	1325	1336	Cross-React	T170	UMLS:C0282574
+28062447	1354	1369	predictive tool	T170	UMLS:C0037589
+28062447	1406	1422	cross-reactivity	T038	UMLS:C0010357

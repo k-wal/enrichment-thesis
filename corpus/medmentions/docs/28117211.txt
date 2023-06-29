@@ -1,0 +1,82 @@
+28117211|t|Assessment of Vascular Stent Heating with Repetitive Transcranial Magnetic Stimulation
+28117211|a|A high proportion of patients with stroke do not qualify for repetitive transcranial magnetic stimulation (rTMS) clinical studies due to the presence of metallic stents. The ultimate concern is that any metal could become heated due to eddy currents. However, to date, no clinical safety data are available regarding the risk of metallic stents heating with rTMS. We tested the safety of common rTMS protocols (1 Hz and 10 Hz) with stents used commonly in stroke, nitinol and elgiloy. In our method, stents were tested in gelled saline at 2 different locations: at the center and at the lobe of the coil. In addition, at each location, stent heating was evaluated in 3 different orientations: parallel to the long axis of coil, parallel to the short axis of the coil, and perpendicular to the plane of the coil. We found that stents did not heat to more than 1°C with either 1 Hz rTMS or 10 Hz rTMS in any configuration or orientation. Heating in general was greater at the lobe when the stent was oriented perpendicularly. Our study represents a new method for ex vivo quantification of stent heating. We have found that heating of stents was well below the Food and Drug Administration standards of 2°C. Thus, our study paves the way for in vivo testing of rTMS (≤10 Hz) in the presence of implanted magnetic resonance imaging - compatible stents in animal studies. When planning human safety studies though, geometry, orientation, and location relative to the coil would be important to consider as well.
+28117211	0	10	Assessment	T058	C0220825
+28117211	14	28	Vascular Stent	T074	C0183521
+28117211	29	36	Heating	T070	C0018837
+28117211	42	86	Repetitive Transcranial Magnetic Stimulation	T061	C0872259
+28117211	108	116	patients	T101	C0030705
+28117211	122	128	stroke	T047	C0038454
+28117211	148	192	repetitive transcranial magnetic stimulation	T061	C0872259
+28117211	194	198	rTMS	T061	C0872259
+28117211	200	216	clinical studies	T062	C0008972
+28117211	240	255	metallic stents	T074	C0441290
+28117211	290	295	metal	T197	C0025552
+28117211	309	315	heated	T070	C0018837
+28117211	323	336	eddy currents	T070	C0013790
+28117211	359	379	clinical safety data	T170	C3899555
+28117211	408	412	risk	T078	C0035647
+28117211	416	431	metallic stents	T074	C0441290
+28117211	432	439	heating	T070	C0018837
+28117211	445	449	rTMS	T061	C0872259
+28117211	454	460	tested	T169	C0039593
+28117211	465	471	safety	T062	C1705187
+28117211	482	486	rTMS	T061	C0872259
+28117211	487	496	protocols	T170	C0442711
+28117211	519	525	stents	T074	C0183521
+28117211	543	549	stroke	T047	C0038454
+28117211	551	558	nitinol	T122,T197	C0068790
+28117211	563	570	elgiloy	T122,T197	C0002154
+28117211	587	593	stents	T074	C0183521
+28117211	599	605	tested	T170	C0392366
+28117211	609	615	gelled	T167	C1382104
+28117211	616	622	saline	T167	C0036082
+28117211	638	647	locations	T082	C0450429
+28117211	649	662	at the center	T082	C0205099
+28117211	674	678	lobe	T023	C0796494
+28117211	686	690	coil	T074	C1705946
+28117211	713	721	location	T082	C0450429
+28117211	723	728	stent	T074	C0441290
+28117211	729	736	heating	T070	C0018837
+28117211	741	750	evaluated	T058	C0220825
+28117211	766	778	orientations	T082	C1704322
+28117211	780	788	parallel	T082	C1254362
+28117211	796	805	long axis	T082	C0522487
+28117211	809	813	coil	T074	C1705946
+28117211	815	823	parallel	T082	C1254362
+28117211	831	841	short axis	T082	C0522488
+28117211	849	853	coil	T074	C1705946
+28117211	859	872	perpendicular	T082	C1295725
+28117211	893	897	coil	T074	C1705946
+28117211	913	919	stents	T074	C0183521
+28117211	928	932	heat	T070	C0018837
+28117211	967	971	rTMS	T061	C0872259
+28117211	981	985	rTMS	T061	C0872259
+28117211	1010	1021	orientation	T082	C1704322
+28117211	1023	1030	Heating	T070	C0018837
+28117211	1046	1053	greater	T081	C1704243
+28117211	1061	1065	lobe	T023	C0796494
+28117211	1075	1080	stent	T074	C0183521
+28117211	1085	1093	oriented	T082	C1704322
+28117211	1094	1109	perpendicularly	T082	C1295725
+28117211	1149	1156	ex vivo	T169	C2348480
+28117211	1157	1171	quantification	T081	C1709793
+28117211	1175	1180	stent	T074	C0441290
+28117211	1181	1188	heating	T070	C0018837
+28117211	1209	1216	heating	T070	C0018837
+28117211	1220	1226	stents	T074	C0183521
+28117211	1246	1274	Food and Drug Administration	T093	C1708333
+28117211	1275	1284	standards	T170	C0038137
+28117211	1327	1334	in vivo	T082	C1515655
+28117211	1335	1342	testing	T169	C0039593
+28117211	1346	1350	rTMS	T061	C0872259
+28117211	1379	1388	implanted	T074	C0021102
+28117211	1389	1415	magnetic resonance imaging	T060	C0024485
+28117211	1418	1428	compatible	T080	C1524057
+28117211	1429	1435	stents	T074	C0183521
+28117211	1439	1453	animal studies	T008	C0683949
+28117211	1469	1474	human	T016	C0086418
+28117211	1475	1489	safety studies	T062	C1705187
+28117211	1498	1506	geometry	T090	C0449829
+28117211	1508	1519	orientation	T082	C1704322
+28117211	1525	1533	location	T082	C0450429
+28117211	1550	1554	coil	T074	C1705946

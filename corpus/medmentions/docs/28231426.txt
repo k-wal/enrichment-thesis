@@ -1,0 +1,75 @@
+28231426|t|Engineering of Anti-CD133 Tri-Specific Molecule Capable of Inducing NK Expansion and Driving Antibody-Dependent Cell-Mediated Cytotoxicity (ADCC)
+28231426|a|The selective elimination of cancer stem cells (CSCs) in tumor patients is a crucial goal because CSCs cause drug refractory relapse. To improve the current conventional bispecific immune-engager platform, a 16133 BiKE, consisting of scFvs binding FcγRIII (CD16) on NK cells and CD133 on carcinoma cells, was first synthesized and a modified IL-15 crosslinker capable of stimulating NK effector cells was introduced. DNA shuffling and ligation techniques were used to assemble and synthesize the 1615133 trispecific NK cell engager (TriKE). The construct was tested for its specificity using flow cytometry, cytotoxic determinations using chromium release assays, and lytic degranulation. IL-15 -mediated expansion was measured using flow-based proliferation assays. The level of interferon (IFN)-γ release was measured because of its importance in the anti-cancer response. 1615133 TriKE induced NK cell mediated cytotoxicity and NK expansion far greater than that achieved with BiKE devoid of IL-15. The drug binding and induction of cytotoxic degranulation was CD133+ specific and the anti-cancer activity was improved by integrating the interleukin (IL)-15 cross linker. The NK cell -related cytokine release measured by IFN-γ detection was higher than that of BiKE. NK cytokine release studies showed that although the IFN-γ levels were elevated, they did not approach the levels achieved with IL-12 / IL-18, indicating that release was not at the supraphysiologic level. 1615133 TriKE enhances the NK cell anti-cancer activity and provides a self-sustaining mechanism via IL-15 signaling. By improving the NK cell performance, the new TriKE represents a highly active drug against drug refractory relapse mediated by CSCs.
+28231426	0	11	Engineering	T063	C0017387
+28231426	15	47	Anti-CD133 Tri-Specific Molecule	T121	C1254351
+28231426	68	70	NK	T025	C0022688
+28231426	71	80	Expansion	T043	C0007595
+28231426	93	138	Antibody-Dependent Cell-Mediated Cytotoxicity	T043	C0003272
+28231426	140	144	ADCC	T043	C0003272
+28231426	175	192	cancer stem cells	T025	C1956422
+28231426	194	198	CSCs	T025	C1956422
+28231426	203	208	tumor	T191	C0027651
+28231426	209	217	patients	T101	C0030705
+28231426	244	248	CSCs	T025	C1956422
+28231426	255	270	drug refractory	T038	C0013203
+28231426	271	278	relapse	T067	C0035020
+28231426	316	364	bispecific immune-engager platform, a 16133 BiKE	T121	C1254351
+28231426	380	385	scFvs	T129	C1883036
+28231426	394	408	FcγRIII (CD16)	T116,T129,T192	C0108747
+28231426	412	420	NK cells	T025	C0022688
+28231426	425	430	CD133	T116,T123	C0673026
+28231426	434	449	carcinoma cells	T025	C1518174
+28231426	488	493	IL-15	T116,T129	C0254610
+28231426	494	505	crosslinker	T026	C1511546
+28231426	529	546	NK effector cells	T025	C0022688
+28231426	563	576	DNA shuffling	T062	C1135931
+28231426	581	589	ligation	T045	C1155649
+28231426	590	600	techniques	T169	C0449851
+28231426	642	685	1615133 trispecific NK cell engager (TriKE)	T121	C1254351
+28231426	691	700	construct	T114	C0598279
+28231426	738	752	flow cytometry	T059	C0016263
+28231426	754	763	cytotoxic	T169	C1511636
+28231426	764	778	determinations	T059	C1148554
+28231426	785	808	chromium release assays	T059	C0201618
+28231426	814	819	lytic	T080	C0439680
+28231426	820	833	degranulation	T043	C0007588
+28231426	835	840	IL-15	T116,T129	C0254610
+28231426	851	860	expansion	T043	C0007595
+28231426	880	911	flow-based proliferation assays	T062	C3899698
+28231426	917	944	level of interferon (IFN)-γ	T059	C1168022
+28231426	999	1019	anti-cancer response	T032	C0871261
+28231426	1021	1034	1615133 TriKE	T121	C1254351
+28231426	1043	1050	NK cell	T025	C0022688
+28231426	1060	1072	cytotoxicity	T049	C0596402
+28231426	1077	1079	NK	T025	C0022688
+28231426	1080	1089	expansion	T043	C0007595
+28231426	1126	1130	BiKE	T121	C1254351
+28231426	1141	1146	IL-15	T116,T129	C0254610
+28231426	1152	1164	drug binding	T039	C0678749
+28231426	1169	1178	induction	T169	C0205263
+28231426	1182	1191	cytotoxic	T169	C1511636
+28231426	1192	1205	degranulation	T043	C0007588
+28231426	1210	1216	CD133+	T116,T129	C0673028
+28231426	1234	1254	anti-cancer activity	T033	C0243095
+28231426	1287	1306	interleukin (IL)-15	T116,T129	C0254610
+28231426	1325	1332	NK cell	T025	C0022688
+28231426	1342	1358	cytokine release	T043	C1327414
+28231426	1371	1376	IFN-γ	T116,T121,T129	C0021745
+28231426	1411	1415	BiKE	T121	C1254351
+28231426	1417	1419	NK	T025	C0022688
+28231426	1420	1436	cytokine release	T043	C1327414
+28231426	1470	1482	IFN-γ levels	T059	C1168022
+28231426	1545	1550	IL-12	T116,T121,T129	C0123759
+28231426	1553	1558	IL-18	T116,T129	C0383327
+28231426	1599	1615	supraphysiologic	T169	C0205463
+28231426	1616	1621	level	T080	C0441889
+28231426	1623	1636	1615133 TriKE	T121	C1254351
+28231426	1650	1657	NK cell	T025	C0022688
+28231426	1658	1678	anti-cancer activity	T033	C0243095
+28231426	1724	1729	IL-15	T116,T129	C0254610
+28231426	1730	1739	signaling	T038	C3537152
+28231426	1758	1765	NK cell	T025	C0022688
+28231426	1787	1792	TriKE	T121	C1254351
+28231426	1833	1848	drug refractory	T038	C0013203
+28231426	1849	1856	relapse	T067	C0035020
+28231426	1869	1873	CSCs	T025	C1956422

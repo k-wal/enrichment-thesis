@@ -1,0 +1,112 @@
+28282592|t|Development of an automaton model of rotational activity driving atrial fibrillation
+28282592|a|Atrial fibrillation (AF) is difficult to treat effectively, owing to uncertainty in where to best ablate to eliminate arrhythmogenic substrate. A model providing insight into the electrical activation events would be useful to guide catheter ablation strategy. Method A two-dimensional, 576×576 node automaton was developed to simulate atrial electrical activity. The substrate field was altered by the presence of differing refractory period at varying locations. Fibrosis was added in the form of short, randomly positioned lines of conduction block. Larger areas of block were used to simulate ablation lesions. Anisotropy was imposed in a 2:1 ratio. A premature electrical impulse from one of four grid corners was utilized to initiate activation. Rotational activity was uninducible when refractory patch dimensions were less than 20×20mm. For larger refractory regions, a single premature stimulus was capable of inducing an average of 1.19±1.10 rotors, which often formed near the patch edges. A maximum of 5 rotors formed when refractory patch dimensions approached the size of the entire left atrial virtual field. Rotors formed along a refractory patch edge, after wavefront arrival was delayed at turning points or due to the presence of a fiber cluster of sufficient size. However, rotational activity could also occur around a large fiber cluster without the need of spatially variable refractoriness. When obstacles to conduction were lacking in size, nascent rotors drifted and either extinguished, or stabilized upon anchoring at a sufficiently large fiber cluster elsewhere in the field. Transient rotors terminated when traversing a region with differing refractory periods, if no obstacle to conduction was present to sufficiently delay wavefront arrival beyond the longest refractory period. Other rotors were annihilated when a nearby rotor with faster spin rate gradually interrupted the activation pathway. Elimination of anchors by removal, or by simulated ablation over a sufficient region, prevented rotor onset at a particular location where it would otherwise form. The presence of obstacles to conduction and spatial differences in refractory period are important parameters for initiating and maintaining rotational activity in this simulation of an atrial substrate.
+28282592	0	11	Development	T039	C0243107
+28282592	18	33	automaton model	T075	C0026336
+28282592	37	56	rotational activity	T052	C0441655
+28282592	65	84	atrial fibrillation	T047	C0004238
+28282592	85	104	Atrial fibrillation	T047	C0004238
+28282592	106	108	AF	T047	C0004238
+28282592	126	131	treat	T061	C0087111
+28282592	132	143	effectively	T080	C1704419
+28282592	154	165	uncertainty	T033	C0087130
+28282592	183	189	ablate	T061	C0162563
+28282592	193	202	eliminate	T052	C0441655
+28282592	203	217	arrhythmogenic	T046	C0085611
+28282592	218	227	substrate	T167	C3891814
+28282592	231	236	model	T075	C0026336
+28282592	264	274	electrical	T169	C0442828
+28282592	275	285	activation	T052	C1879547
+28282592	286	292	events	T051	C0441471
+28282592	318	344	catheter ablation strategy	T061	C0162559
+28282592	355	370	two-dimensional	T082	C1705052
+28282592	372	394	576×576 node automaton	T073	C0336537
+28282592	412	420	simulate	T052	C0441655
+28282592	421	427	atrial	T023	C0018792
+28282592	421	447	atrial electrical activity	T042	C0596673
+28282592	453	462	substrate	T167	C3891814
+28282592	500	509	differing	T080	C1705242
+28282592	510	527	refractory period	T043	C0678839
+28282592	539	548	locations	T082	C0450429
+28282592	550	558	Fibrosis	T046	C0016059
+28282592	620	630	conduction	T042	C0232217
+28282592	631	636	block	T047	C0018794
+28282592	638	644	Larger	T081	C0549177
+28282592	645	650	areas	T082	C0205146
+28282592	654	659	block	T046	C0028778
+28282592	673	681	simulate	T052	C0441655
+28282592	682	698	ablation lesions	T033	C0221198
+28282592	700	710	Anisotropy	T070	C0085406
+28282592	732	737	ratio	T081	C0456603
+28282592	741	750	premature	T079	C1254367
+28282592	751	769	electrical impulse	T043	C1720744
+28282592	816	824	initiate	T078	C1548602
+28282592	825	835	activation	T052	C1879547
+28282592	837	856	Rotational activity	T052	C0441655
+28282592	878	905	refractory patch dimensions	T081	C0439534
+28282592	934	940	larger	T081	C0549177
+28282592	941	959	refractory regions	T082	C1254362
+28282592	970	979	premature	T079	C1254367
+28282592	980	988	stimulus	T067	C0234402
+28282592	1004	1012	inducing	T169	C0205263
+28282592	1016	1023	average	T081	C1510992
+28282592	1037	1043	rotors	T074	C0025080
+28282592	1073	1084	patch edges	T082	C1254362
+28282592	1088	1095	maximum	T081	C0806909
+28282592	1101	1107	rotors	T074	C0025080
+28282592	1120	1147	refractory patch dimensions	T081	C0439534
+28282592	1163	1167	size	T082	C0456389
+28282592	1182	1193	left atrial	T023	C0225860
+28282592	1194	1207	virtual field	T082	C1254362
+28282592	1209	1215	Rotors	T074	C0025080
+28282592	1231	1252	refractory patch edge	T082	C1254362
+28282592	1260	1289	wavefront arrival was delayed	T033	C0243095
+28282592	1336	1341	fiber	T024	C1304649
+28282592	1342	1349	cluster	T081	C1704332
+28282592	1364	1368	size	T082	C0456389
+28282592	1379	1398	rotational activity	T052	C0441655
+28282592	1425	1430	large	T081	C0549177
+28282592	1431	1436	fiber	T024	C1304649
+28282592	1437	1444	cluster	T081	C1704332
+28282592	1465	1498	spatially variable refractoriness	T080	C0205556
+28282592	1505	1514	obstacles	T080	C4045969
+28282592	1518	1528	conduction	T042	C0232217
+28282592	1534	1541	lacking	T080	C0332268
+28282592	1545	1549	size	T082	C0456389
+28282592	1551	1565	nascent rotors	T074	C0025080
+28282592	1602	1612	stabilized	T033	C0184512
+28282592	1618	1627	anchoring	T044	C1624581
+28282592	1646	1651	large	T081	C0549177
+28282592	1652	1657	fiber	T024	C1304649
+28282592	1658	1665	cluster	T081	C1704332
+28282592	1690	1699	Transient	T079	C0205374
+28282592	1700	1706	rotors	T074	C0025080
+28282592	1723	1733	traversing	T052	C0441655
+28282592	1736	1742	region	T082	C0205147
+28282592	1758	1776	refractory periods	T043	C0678839
+28282592	1784	1792	obstacle	T080	C4045969
+28282592	1796	1806	conduction	T042	C0232217
+28282592	1835	1858	delay wavefront arrival	T033	C0243095
+28282592	1870	1877	longest	T080	C1522425
+28282592	1878	1895	refractory period	T043	C0678839
+28282592	1903	1909	rotors	T074	C0025080
+28282592	1941	1946	rotor	T074	C0025080
+28282592	1959	1968	spin rate	T081	C0392762
+28282592	1995	2013	activation pathway	T044	C1148560
+28282592	2015	2026	Elimination	T052	C0441655
+28282592	2030	2037	anchors	T061	C1293132
+28282592	2041	2048	removal	T061	C0015252
+28282592	2066	2074	ablation	T061	C0162563
+28282592	2093	2099	region	T082	C0205147
+28282592	2111	2116	rotor	T074	C0025080
+28282592	2117	2122	onset	T080	C0332162
+28282592	2139	2147	location	T029	C1515974
+28282592	2195	2204	obstacles	T080	C4045969
+28282592	2208	2218	conduction	T042	C0232217
+28282592	2223	2242	spatial differences	T033	C0243095
+28282592	2246	2263	refractory period	T043	C0678839
+28282592	2278	2288	parameters	T078	C0237767
+28282592	2308	2319	maintaining	T169	C1314677
+28282592	2320	2339	rotational activity	T052	C0441655
+28282592	2348	2358	simulation	T062	C0679083
+28282592	2365	2371	atrial	T023	C0018792
+28282592	2372	2381	substrate	T167	C3891814

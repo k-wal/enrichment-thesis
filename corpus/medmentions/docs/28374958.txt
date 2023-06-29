@@ -1,0 +1,101 @@
+28374958|t|A height-for-age growth reference for children with achondroplasia: Expanded applications and comparison with original reference data
+28374958|a|The height-for-age (HA) reference currently used for children with achondroplasia is not adaptable for electronic records or calculation of HA Z-scores. We report new HA curves and tables of mean and standard deviation (SD) HA, for calculating Z-scores, from birth -16 years in achondroplasia. Mixed longitudinal data were abstracted from medical records of achondroplasia patients from a single clinical practice (CIS, 1967-2004). Gender-specific height percentiles (5, 25, 50, 75, 95th) were estimated across the age continuum, using a 2 month window per time point smoothed by a quadratic smoothing algorithm. HA curves were constructed for 0-36 months and 2-16 years to optimize resolution for younger children. Mean monthly height (SD) was tabulated. These novel HA curves were compared to reference data currently in use for children with achondroplasia. 293 subjects (162 male /131 female) contributed 1,005 and 932 height measures, with greater data paucity with age. Mean HA tracked with original achondroplasia norms, particularly through mid-childhood (2-9 years), but with no evidence of a pubertal growth spurt. Standard deviation of height at each month interval increased from birth through 16 years. Birth length was lower in achondroplasia than average stature and, as expected, height deficits increased with age. A new HA reference is available for longitudinal growth assessment in achondroplasia, taking advantage of statistical modeling techniques and allowing for Z-score calculations. This is an important contribution to clinical care and research endeavors for the achondroplasia population.
+28374958	2	16	height-for-age	T033	C2030323
+28374958	17	33	growth reference	T170	C2718057
+28374958	38	46	children	T100	C0008059
+28374958	52	66	achondroplasia	T019	C0001080
+28374958	77	89	applications	UnknownType	C0683936
+28374958	94	104	comparison	T052	C1707455
+28374958	110	118	original	T078	C0205313
+28374958	119	128	reference	T077	C1706462
+28374958	129	133	data	T078	C1511726
+28374958	138	152	height-for-age	T033	C2030323
+28374958	154	156	HA	T033	C2030323
+28374958	158	167	reference	T170	C2718057
+28374958	187	195	children	T100	C0008059
+28374958	201	215	achondroplasia	T019	C0001080
+28374958	237	255	electronic records	T170	C2362543
+28374958	259	270	calculation	T052	C1441506
+28374958	274	285	HA Z-scores	T081	C0871421
+28374958	301	310	HA curves	T170	C2718057
+28374958	315	321	tables	T170	C1706074
+28374958	325	329	mean	T033	C3533236
+28374958	334	352	standard deviation	T081	C0871420
+28374958	354	356	SD	T081	C0871420
+28374958	358	360	HA	T033	C2030323
+28374958	366	377	calculating	T052	C1441506
+28374958	378	386	Z-scores	T081	C0871421
+28374958	393	398	birth	T040	C0005615
+28374958	403	408	years	T079	C0439234
+28374958	412	426	achondroplasia	T019	C0001080
+28374958	428	446	Mixed longitudinal	T062	C0023981
+28374958	447	451	data	T078	C1511726
+28374958	473	488	medical records	T170	C0025102
+28374958	492	506	achondroplasia	T019	C0001080
+28374958	507	515	patients	T101	C0030705
+28374958	530	547	clinical practice	T170	C0282451
+28374958	549	552	CIS	T061	C0587575
+28374958	566	588	Gender-specific height	T080	C3476808
+28374958	589	600	percentiles	T081	C1264641
+28374958	628	637	estimated	T081	C0750572
+28374958	649	652	age	T032	C0001779
+28374958	653	662	continuum	T051	C2826258
+28374958	674	679	month	T079	C0439231
+28374958	680	686	window	T079	C1272706
+28374958	716	745	quadratic smoothing algorithm	T170	C0002045
+28374958	747	756	HA curves	T170	C2718057
+28374958	783	789	months	T079	C0439231
+28374958	799	804	years	T079	C0439234
+28374958	808	816	optimize	T052	C2698650
+28374958	817	827	resolution	T077	C2699488
+28374958	832	848	younger children	T099	C0337547
+28374958	850	869	Mean monthly height	T032	C0005890
+28374958	871	873	SD	T081	C0871420
+28374958	902	911	HA curves	T170	C2718057
+28374958	917	925	compared	T052	C1707455
+28374958	929	938	reference	T077	C1706462
+28374958	939	943	data	T078	C1511726
+28374958	965	973	children	T100	C0008059
+28374958	979	993	achondroplasia	T019	C0001080
+28374958	999	1007	subjects	T098	C0080105
+28374958	1013	1017	male	T032	C0086582
+28374958	1023	1029	female	T032	C0086287
+28374958	1057	1072	height measures	T033	C0578021
+28374958	1087	1091	data	T078	C1511726
+28374958	1105	1108	age	T032	C0001779
+28374958	1115	1117	HA	T033	C2030323
+28374958	1131	1139	original	T078	C0205313
+28374958	1140	1154	achondroplasia	T019	C0001080
+28374958	1183	1196	mid-childhood	T079	C0231335
+28374958	1202	1207	years	T079	C0439234
+28374958	1236	1244	pubertal	T039	C0034011
+28374958	1245	1257	growth spurt	T042	C0920879
+28374958	1259	1277	Standard deviation	T081	C0871420
+28374958	1281	1287	height	T032	C0005890
+28374958	1296	1301	month	T079	C0439231
+28374958	1302	1310	interval	T079	C1272706
+28374958	1311	1320	increased	T081	C0205217
+28374958	1326	1331	birth	T040	C0005615
+28374958	1343	1348	years	T079	C0439234
+28374958	1350	1362	Birth length	T033	C0419415
+28374958	1376	1390	achondroplasia	T019	C0001080
+28374958	1396	1411	average stature	T033	C1846844
+28374958	1430	1436	height	T032	C0005890
+28374958	1437	1445	deficits	T080	C2987487
+28374958	1446	1455	increased	T081	C0205217
+28374958	1461	1464	age	T032	C0001779
+28374958	1472	1474	HA	T033	C2030323
+28374958	1475	1484	reference	T170	C2718057
+28374958	1502	1514	longitudinal	T082	C0205127
+28374958	1515	1521	growth	T040	C0018270
+28374958	1522	1532	assessment	T058	C0220825
+28374958	1536	1550	achondroplasia	T019	C0001080
+28374958	1572	1592	statistical modeling	T081,T170	C0026348
+28374958	1593	1603	techniques	T169	C0449851
+28374958	1621	1628	Z-score	T081	C0871421
+28374958	1629	1641	calculations	T052	C1441506
+28374958	1680	1688	clinical	T080	C0205210
+28374958	1689	1693	care	T052	C1947933
+28374958	1698	1716	research endeavors	T062	C0242481
+28374958	1725	1739	achondroplasia	T019	C0001080
+28374958	1740	1750	population	T098	C1257890

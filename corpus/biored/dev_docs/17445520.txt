@@ -1,0 +1,50 @@
+17445520|t|Caffeine challenge test in panic disorder and depression with panic attacks.
+17445520|a|Our aim was to observe if patients with panic disorder (PD) and patients with major depression with panic attacks (MDP) (Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition criteria) respond in a similar way to the induction of panic attacks by an oral caffeine challenge test. We randomly selected 29 patients with PD, 27 with MDP, 25 with major depression without panic attacks (MD), and 28 healthy volunteers. The patients had no psychotropic drug for at least a 4-week period. In a randomized double-blind experiment performed in 2 occasions 7 days apart, 480 mg caffeine and a caffeine-free (placebo) solution were administered in a coffee form and anxiety scales were applied before and after each test. A total of 58.6% (n = 17) of patients with PD, 44.4% (n = 12) of patients with MDP, 12.0% (n = 3) of patients with MD, and 7.1% (n= 2) of control subjects had a panic attack after the 480-mg caffeine challenge test (chi(2)(3) = 16.22, P = .001). The patients with PD and MDP were more sensitive to caffeine than were patients with MD and healthy volunteers. No panic attack was observed after the caffeine-free solution intake. The patients with MD had a lower heart rate response to the test than all the other groups (2-way analysis of variance, group by time interaction with Greenhouse-Geisser correction: F(3,762) = 2.85, P = .026). Our data suggest that there is an association between panic attacks, no matter if associated with PD or MDP, and hyperreactivity to an oral caffeine challenge test.
+17445520	0	8	Caffeine	ChemicalEntity	D002110
+17445520	27	41	panic disorder	DiseaseOrPhenotypicFeature	D016584
+17445520	46	56	depression	DiseaseOrPhenotypicFeature	D003866
+17445520	62	75	panic attacks	DiseaseOrPhenotypicFeature	D016584
+17445520	103	111	patients	OrganismTaxon	9606
+17445520	117	131	panic disorder	DiseaseOrPhenotypicFeature	D016584
+17445520	133	135	PD	DiseaseOrPhenotypicFeature	D016584
+17445520	141	149	patients	OrganismTaxon	9606
+17445520	155	171	major depression	DiseaseOrPhenotypicFeature	D003865
+17445520	177	190	panic attacks	DiseaseOrPhenotypicFeature	D016584
+17445520	192	195	MDP	DiseaseOrPhenotypicFeature	D003865,D016584
+17445520	235	251	Mental Disorders	DiseaseOrPhenotypicFeature	D001523
+17445520	323	336	panic attacks	DiseaseOrPhenotypicFeature	D016584
+17445520	348	356	caffeine	ChemicalEntity	D002110
+17445520	397	405	patients	OrganismTaxon	9606
+17445520	411	413	PD	DiseaseOrPhenotypicFeature	D016584
+17445520	423	426	MDP	DiseaseOrPhenotypicFeature	D003865,D016584
+17445520	436	452	major depression	DiseaseOrPhenotypicFeature	D003865
+17445520	461	474	panic attacks	DiseaseOrPhenotypicFeature	D016584
+17445520	476	478	MD	DiseaseOrPhenotypicFeature	D003865
+17445520	512	520	patients	OrganismTaxon	9606
+17445520	662	670	caffeine	ChemicalEntity	D002110
+17445520	677	685	caffeine	ChemicalEntity	D002110
+17445520	749	756	anxiety	DiseaseOrPhenotypicFeature	D001008
+17445520	834	842	patients	OrganismTaxon	9606
+17445520	848	850	PD	DiseaseOrPhenotypicFeature	D016584
+17445520	870	878	patients	OrganismTaxon	9606
+17445520	884	887	MDP	DiseaseOrPhenotypicFeature	D003865,D016584
+17445520	906	914	patients	OrganismTaxon	9606
+17445520	920	922	MD	DiseaseOrPhenotypicFeature	D003865
+17445520	966	978	panic attack	DiseaseOrPhenotypicFeature	D016584
+17445520	996	1004	caffeine	ChemicalEntity	D002110
+17445520	1055	1063	patients	OrganismTaxon	9606
+17445520	1069	1071	PD	DiseaseOrPhenotypicFeature	D016584
+17445520	1076	1079	MDP	DiseaseOrPhenotypicFeature	D003865,D016584
+17445520	1103	1111	caffeine	ChemicalEntity	D002110
+17445520	1122	1130	patients	OrganismTaxon	9606
+17445520	1136	1138	MD	DiseaseOrPhenotypicFeature	D003865
+17445520	1166	1178	panic attack	DiseaseOrPhenotypicFeature	D016584
+17445520	1202	1210	caffeine	ChemicalEntity	D002110
+17445520	1237	1245	patients	OrganismTaxon	9606
+17445520	1251	1253	MD	DiseaseOrPhenotypicFeature	D003865
+17445520	1497	1510	panic attacks	DiseaseOrPhenotypicFeature	D016584
+17445520	1541	1543	PD	DiseaseOrPhenotypicFeature	D016584
+17445520	1547	1550	MDP	DiseaseOrPhenotypicFeature	D003865,D016584
+17445520	1583	1591	caffeine	ChemicalEntity	D002110
+17445520	Association	D016584	D002110	Novel
+17445520	Association	D003865	D002110	Novel

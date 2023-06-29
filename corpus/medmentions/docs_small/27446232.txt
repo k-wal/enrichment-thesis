@@ -1,0 +1,37 @@
+27446232|t|Perfusion Angiography in Acute Ischemic Stroke
+27446232|a|Visualization and quantification of blood flow are essential for the diagnosis and treatment evaluation of cerebrovascular diseases. For rapid imaging of the cerebrovasculature, digital subtraction angiography (DSA) remains the gold standard as it offers high spatial resolution. This paper lays out a methodological framework, named perfusion angiography, for the quantitative analysis and visualization of blood flow parameters from DSA images. The parameters, including cerebral blood flow (CBF) and cerebral blood volume (CBV), mean transit time (MTT), time-to-peak (TTP), and T max, are computed using a bolus tracking method based on the deconvolution of the time-density curve on a pixel-by-pixel basis. The method is tested on 66 acute ischemic stroke patients treated with thrombectomy and/or tissue plasminogen activator (tPA) and also evaluated on an estimation task with known ground truth. This novel imaging tool provides unique insights into flow mechanisms that cannot be observed directly in DSA sequences and might be used to evaluate the impact of endovascular interventions more precisely.
+27446232	0	9	Perfusion	T058	UMLS:C0031001
+27446232	10	21	Angiography	T058	UMLS:C0002978
+27446232	31	46	Ischemic Stroke	T038	UMLS:C0948008
+27446232	83	93	blood flow	T038	UMLS:C0232338
+27446232	116	125	diagnosis	T033	UMLS:C0011900
+27446232	130	150	treatment evaluation	T058	UMLS:C0557980
+27446232	154	178	cerebrovascular diseases	T038	UMLS:C0007820
+27446232	190	197	imaging	T058	UMLS:C0011923
+27446232	205	223	cerebrovasculature	T022	UMLS:C0225992
+27446232	225	256	digital subtraction angiography	T058	UMLS:C0002979
+27446232	258	261	DSA	T058	UMLS:C0002979
+27446232	381	390	perfusion	T058	UMLS:C0031001
+27446232	391	402	angiography	T058	UMLS:C0002978
+27446232	412	433	quantitative analysis	T058	UMLS:C0200767
+27446232	455	465	blood flow	T038	UMLS:C0232338
+27446232	466	476	parameters	T033	UMLS:C0449381
+27446232	482	485	DSA	T058	UMLS:C0002979
+27446232	486	492	images	T170	UMLS:C1704922
+27446232	498	508	parameters	T033	UMLS:C0449381
+27446232	520	539	cerebral blood flow	T033	UMLS:C0428714
+27446232	541	544	CBF	T033	UMLS:C0428714
+27446232	656	677	bolus tracking method	T058	UMLS:C1511237
+27446232	762	768	method	T170	UMLS:C0025663
+27446232	791	806	ischemic stroke	T038	UMLS:C0948008
+27446232	816	828	treated with	T058	UMLS:C0332293
+27446232	829	841	thrombectomy	T058	UMLS:C0162578
+27446232	849	877	tissue plasminogen activator	T103	UMLS:C0042145
+27446232	879	882	tPA	T103	UMLS:C0042145
+27446232	893	902	evaluated	T058	UMLS:C0220825
+27446232	909	919	estimation	T038	UMLS:C0680844
+27446232	961	973	imaging tool	T074	UMLS:C1512629
+27446232	990	998	insights	T038	UMLS:C0233820
+27446232	1056	1059	DSA	T058	UMLS:C0002979
+27446232	1091	1099	evaluate	T058	UMLS:C0220825
+27446232	1114	1140	endovascular interventions	T058	UMLS:C0411282

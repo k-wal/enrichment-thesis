@@ -1,0 +1,40 @@
+27373836|t|NBLAST: Rapid, Sensitive Comparison of Neuronal Structure and Construction of Neuron Family Databases
+27373836|a|Neural circuit mapping is generating datasets of tens of thousands of labeled neurons. New computational tools are needed to search and organize these data. We present NBLAST, a sensitive and rapid algorithm, for measuring pairwise neuronal similarity. NBLAST considers both position and local geometry, decomposing neurons into short segments; matched segments are scored using a probabilistic scoring matrix defined by statistics of matches and non-matches. We validated NBLAST on a published dataset of 16,129 single Drosophila neurons. NBLAST can distinguish neuronal types down to the finest level (single identified neurons) without a priori information. Cluster analysis of extensively studied neuronal classes identified new types and unreported topographical features. Fully automated clustering organized the validation dataset into 1,052 clusters, many of which map onto previously described neuronal types. NBLAST supports additional query types, including searching neurons against transgene expression patterns. Finally, we show that NBLAST is effective with data from other invertebrates and zebrafish.
+27373836	0	6	NBLAST	T170	UMLS:C2698333
+27373836	39	47	Neuronal	T017	UMLS:C0027882
+27373836	48	57	Structure	T082	UMLS:C0678594
+27373836	78	84	Neuron	T017	UMLS:C0027882
+27373836	85	101	Family Databases	T170	UMLS:C0242356
+27373836	139	147	datasets	T170	UMLS:C0150098
+27373836	180	187	neurons	T017	UMLS:C0027882
+27373836	207	212	tools	T170	UMLS:C0037589
+27373836	270	276	NBLAST	T170	UMLS:C2698333
+27373836	300	309	algorithm	T170	UMLS:C0002045
+27373836	355	361	NBLAST	T170	UMLS:C2698333
+27373836	377	385	position	T082	UMLS:C1550045
+27373836	390	395	local	T082	UMLS:C0205276
+27373836	418	425	neurons	T017	UMLS:C0027882
+27373836	437	445	segments	T082	UMLS:C0442059
+27373836	455	463	segments	T082	UMLS:C0442059
+27373836	575	581	NBLAST	T170	UMLS:C2698333
+27373836	597	604	dataset	T170	UMLS:C0150098
+27373836	622	632	Drosophila	T204	UMLS:C0013138
+27373836	633	640	neurons	T017	UMLS:C0027882
+27373836	642	648	NBLAST	T170	UMLS:C2698333
+27373836	665	673	neuronal	T017	UMLS:C0027882
+27373836	680	684	down	T082	UMLS:C0205104
+27373836	724	731	neurons	T017	UMLS:C0027882
+27373836	763	779	Cluster analysis	T062	UMLS:C0009085
+27373836	803	811	neuronal	T017	UMLS:C0027882
+27373836	812	819	classes	T170	UMLS:C0456387
+27373836	880	906	Fully automated clustering	T062	UMLS:C0009085
+27373836	921	931	validation	T062	UMLS:C1519941
+27373836	932	939	dataset	T170	UMLS:C0150098
+27373836	1005	1013	neuronal	T017	UMLS:C0027882
+27373836	1021	1027	NBLAST	T170	UMLS:C2698333
+27373836	1048	1053	query	T170	UMLS:C1522634
+27373836	1081	1088	neurons	T017	UMLS:C0027882
+27373836	1097	1126	transgene expression patterns	T082	UMLS:C0449774
+27373836	1150	1156	NBLAST	T170	UMLS:C2698333
+27373836	1191	1204	invertebrates	T204	UMLS:C0021948
+27373836	1209	1218	zebrafish	T204	UMLS:C0043457

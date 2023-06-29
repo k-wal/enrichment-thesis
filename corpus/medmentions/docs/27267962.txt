@@ -1,0 +1,97 @@
+27267962|t|Prediction of extravasation in pelvic fracture using coagulation biomarkers
+27267962|a|To evaluate the usefulness of coagulation biomarkers, which are easy and quick to analyze in emergency settings, for prediction of arterial extravasation due to pelvic fracture. The medical records of pelvic fracture patients transferred to the emergency department of Gunma University Hospital between December 2009 and May 2015 were reviewed. Patients were divided into two groups, those with (Extra(+)) and without (Extra(-)) arterial extravasation on enhanced CT or angiography. Levels of fibrin degradation products (FDP), D-dimer, fibrinogen, the ratio of FDP to fibrinogen, the ratio of D-dimer to fibrinogen, systolic blood pressure, heart rate, the Glasgow Coma Scale, pH, base excess, hemoglobin and lactate levels, the pattern of pelvic injury, and injury severity score were measured at hospital admission, and compared between the two groups. Parameters with a significant difference between the two groups were used to construct receiver operating characteristic (ROC) curves. The study included 29 patients with pelvic fracture. FDP, D-dimer, the ratio of FDP to fibrinogen and the ratio of D-dimer to fibrinogen were the most useful parameters for predicting arterial extravasation due to pelvic fracture. FDP, D-dimer, the ratio of FDP to fibrinogen, the ratio of D-dimer to fibrinogen, and hemoglobin and lactate levels were significantly higher in the Extra(+) group than in the Extra(-) group (FDP, 354.8μg/mL [median] versus 96.6μg/mL; D-dimer, 122.3μg/mL versus 42.1μg/mL; the ratio of FDP to fibrinogen, 3.39 versus 0.42; the ratio of D-dimer to fibrinogen, 1.14 versus 0.18; hemoglobin, 10.5g/dL versus 13.5g/dL; lactate, 3.5mmol/L versus 1.7mmol/L). The area under the ROC curves for FDP, D-dimer, the ratio of FDP to fibrinogen, the ratio of D-dimer to fibrinogen, hemoglobin and lactate levels were 0.900, 0.882, 0.918, 0.900, 0.815 and 0.765, respectively. Coagulation biomarkers, and hemoglobin and lactate levels could be useful to predict the existence of arterial extravasation due to pelvic fracture. The ratio of FDP to fibrinogen and the ratio of D-dimer to fibrinogen were the most accurate markers. Coagulation biomarkers may enable more rapid and specific treatment for pelvic fracture.
+27267962	0	10	Prediction	T078	C0681842
+27267962	14	27	extravasation	T046	C0015376
+27267962	31	46	pelvic fracture	T037	C0149531
+27267962	53	64	coagulation	T039	C1328723
+27267962	65	75	biomarkers	T201	C0005516
+27267962	92	102	usefulness	T080	C3827682
+27267962	106	117	coagulation	T039	C1328723
+27267962	118	128	biomarkers	T201	C0005516
+27267962	169	187	emergency settings	T067	C0013956
+27267962	193	203	prediction	T078	C0681842
+27267962	207	215	arterial	T023	C0003842
+27267962	216	229	extravasation	T046	C0015376
+27267962	237	252	pelvic fracture	T037	C0149531
+27267962	258	273	medical records	T170	C0025102
+27267962	277	292	pelvic fracture	T037	C0149531
+27267962	293	301	patients	T101	C0030705
+27267962	421	429	Patients	T101	C0030705
+27267962	448	458	two groups	T078	C0441833
+27267962	472	480	Extra(+)	T033	C1446409
+27267962	495	503	Extra(-)	T033	C0205160
+27267962	505	513	arterial	T023	C0003842
+27267962	514	527	extravasation	T046	C0015376
+27267962	540	542	CT	T060	C0040405
+27267962	546	557	angiography	T060	C0002978
+27267962	559	565	Levels	T080	C0441889
+27267962	569	596	fibrin degradation products	T059	C0200453
+27267962	598	601	FDP	T059	C0200453
+27267962	604	611	D-dimer	T059	C0200462
+27267962	613	623	fibrinogen	T059	C0337428
+27267962	629	655	ratio of FDP to fibrinogen	T059	C1261161
+27267962	661	691	ratio of D-dimer to fibrinogen	T059	C1261161
+27267962	693	716	systolic blood pressure	T201	C0871470
+27267962	718	728	heart rate	T201	C0018810
+27267962	734	752	Glasgow Coma Scale	T170	C0017594
+27267962	754	756	pH	T081	C0020283
+27267962	758	769	base excess	T059	C0201985
+27267962	771	781	hemoglobin	T059	C0518015
+27267962	786	793	lactate	T059	C0202115
+27267962	794	800	levels	T080	C0441889
+27267962	817	830	pelvic injury	T037	C0149531
+27267962	836	857	injury severity score	T170	C0021504
+27267962	875	893	hospital admission	T058	C0184666
+27267962	920	930	two groups	T078	C0441833
+27267962	985	995	two groups	T078	C0441833
+27267962	1019	1052	receiver operating characteristic	T081	C0034772
+27267962	1053	1065	(ROC) curves	T081	C0035787
+27267962	1089	1097	patients	T101	C0030705
+27267962	1103	1118	pelvic fracture	T037	C0149531
+27267962	1120	1123	FDP	T116,T123	C0163275
+27267962	1125	1132	D-dimer	T116,T123	C0060323
+27267962	1138	1164	ratio of FDP to fibrinogen	T081	C0456603
+27267962	1173	1203	ratio of D-dimer to fibrinogen	T081	C0456603
+27267962	1240	1250	predicting	T078	C0681842
+27267962	1251	1259	arterial	T023	C0003842
+27267962	1260	1273	extravasation	T046	C0015376
+27267962	1281	1296	pelvic fracture	T037	C0149531
+27267962	1298	1301	FDP	T116,T123	C0163275
+27267962	1303	1310	D-dimer	T116,T123	C0060323
+27267962	1316	1342	ratio of FDP to fibrinogen	T081	C0456603
+27267962	1348	1378	ratio of D-dimer to fibrinogen	T081	C0456603
+27267962	1384	1394	hemoglobin	T034	C0019029
+27267962	1399	1413	lactate levels	T034	C1304767
+27267962	1419	1439	significantly higher	T081	C4055637
+27267962	1447	1455	Extra(+)	T033	C1446409
+27267962	1474	1482	Extra(-)	T033	C0205160
+27267962	1490	1493	FDP	T116,T123	C0163275
+27267962	1533	1540	D-dimer	T116,T123	C0060323
+27267962	1575	1601	ratio of FDP to fibrinogen	T081	C0456603
+27267962	1625	1655	ratio of D-dimer to fibrinogen	T081	C0456603
+27267962	1675	1685	hemoglobin	T034	C0019029
+27267962	1713	1720	lactate	T034	C1304767
+27267962	1770	1780	ROC curves	T081	C0035787
+27267962	1785	1788	FDP	T116,T123	C0163275
+27267962	1790	1797	D-dimer	T116,T123	C0060323
+27267962	1803	1829	ratio of FDP to fibrinogen	T081	C0456603
+27267962	1835	1865	ratio of D-dimer to fibrinogen	T081	C0456603
+27267962	1867	1877	hemoglobin	T034	C0019029
+27267962	1882	1896	lactate levels	T034	C1304767
+27267962	1961	1972	Coagulation	T039	C1328723
+27267962	1973	1983	biomarkers	T201	C0005516
+27267962	1989	1999	hemoglobin	T034	C0019029
+27267962	2004	2018	lactate levels	T034	C1304767
+27267962	2028	2034	useful	T080	C3827682
+27267962	2038	2045	predict	T078	C0681842
+27267962	2050	2059	existence	T033	C0150312
+27267962	2063	2071	arterial	T023	C0003842
+27267962	2072	2085	extravasation	T046	C0015376
+27267962	2093	2108	pelvic fracture	T037	C0149531
+27267962	2114	2140	ratio of FDP to fibrinogen	T081	C0456603
+27267962	2149	2179	ratio of D-dimer to fibrinogen	T081	C0456603
+27267962	2194	2210	accurate markers	T074	C2745888
+27267962	2212	2223	Coagulation	T039	C1328723
+27267962	2224	2234	biomarkers	T201	C0005516
+27267962	2270	2279	treatment	T169	C1522326
+27267962	2284	2299	pelvic fracture	T037	C0149531

@@ -1,0 +1,42 @@
+27364994|t|Naphthoquinone glycosides for bioelectroanalytical enumeration of the faecal indicator Escherichia coli
+27364994|a|Microbial water quality monitoring for the presence of faecal indicator bacteria (FIB) is a mandatory activity in many countries and is key in public health protection. Despite technological advances and a need for methodological improvements, chromogenic and fluorogenic enzymatic techniques remain the mainstays of water quality monitoring for both public health agencies and regulated utilities. We demonstrated that bioelectroanalytical approaches to FIB enumeration are possible and can be achieved using commercially available enzyme - specific resorufin glycosides, although these are expensive, not widely available or designed for purpose. Following this, we designed two naphthoquinone glycosides which performed better, achieving Escherichia coli detection in the range 5.0 × 10(2) to 5.0 × 10(5) CFU ml(-1) 22-54% quicker than commercially available resorufin glycosides. The molecular design of the naphthoquinone glycosides requires fewer synthetic steps allowing them to be produced for as little as US$50 per kg. Tests with environmental samples demonstrated the low tendency for abiotic interference and that, despite specificity being maintained between β-glucuronidase and β-galactosidase, accurate enumeration of E. coli in environmental samples necessitates development of a selective medium. In comparison to a commercially available detection method, which has U.S. Environmental Protection Agency (EPA) approval, our approach performed better at high organism concentrations, detecting 500 organisms in 9 h compared with 13.5 h for the commercial method. Bioelectroanalytical detection is comparable to current approved methods and with further development could result in improved detection times. A recent trend for low-cost open-source hardware means that automated, potentiostatically controlled E. coli detection systems could be constructed for less than US$100 per channel.
+27364994	0	14	Naphthoquinone	T103	UMLS:C0027388
+27364994	15	25	glycosides	T103	UMLS:C0017977
+27364994	70	76	faecal	T031	UMLS:C0015733
+27364994	77	86	indicator	T103	UMLS:C0021212
+27364994	87	103	Escherichia coli	T007	UMLS:C0014834
+27364994	128	138	monitoring	T058	UMLS:C1283169
+27364994	159	184	faecal indicator bacteria	T007	UMLS:C0004611
+27364994	186	189	FIB	T007	UMLS:C0004611
+27364994	223	232	countries	T082	UMLS:C0454664
+27364994	247	271	public health protection	T058	UMLS:C0034020
+27364994	348	359	chromogenic	T058	UMLS:C3872799
+27364994	435	445	monitoring	T058	UMLS:C1283169
+27364994	455	501	public health agencies and regulated utilities	T092	UMLS:C1551248
+27364994	524	555	bioelectroanalytical approaches	T062	UMLS:C0936012
+27364994	559	562	FIB	T007	UMLS:C0004611
+27364994	637	643	enzyme	T103	UMLS:C0014442
+27364994	655	664	resorufin	T103	UMLS:C0073089
+27364994	665	675	glycosides	T103	UMLS:C0017977
+27364994	785	799	naphthoquinone	T103	UMLS:C0027388
+27364994	800	810	glycosides	T103	UMLS:C0017977
+27364994	845	871	Escherichia coli detection	T058	UMLS:C1294359
+27364994	966	975	resorufin	T103	UMLS:C0073089
+27364994	976	986	glycosides	T103	UMLS:C0017977
+27364994	1016	1030	naphthoquinone	T103	UMLS:C0027388
+27364994	1031	1041	glycosides	T103	UMLS:C0017977
+27364994	1144	1157	environmental	T082	UMLS:C0014406
+27364994	1276	1291	β-glucuronidase	T103	UMLS:C0017776
+27364994	1296	1311	β-galactosidase	T103	UMLS:C0005220
+27364994	1337	1344	E. coli	T007	UMLS:C0014834
+27364994	1348	1361	environmental	T082	UMLS:C0014406
+27364994	1460	1469	detection	T033	UMLS:C0442726
+27364994	1488	1524	U.S. Environmental Protection Agency	T092	UMLS:C0041712
+27364994	1526	1529	EPA	T092	UMLS:C0041712
+27364994	1531	1539	approval	T170	UMLS:C2346845
+27364994	1664	1681	commercial method	T058	UMLS:C0871511
+27364994	1683	1713	Bioelectroanalytical detection	T062	UMLS:C0936012
+27364994	1731	1755	current approved methods	T058	UMLS:C0871511
+27364994	1765	1784	further development	T038	UMLS:C0243107
+27364994	1810	1819	detection	T033	UMLS:C0442726
+27364994	1928	1945	E. coli detection	T058	UMLS:C1294359

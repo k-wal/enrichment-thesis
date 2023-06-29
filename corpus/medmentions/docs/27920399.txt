@@ -1,0 +1,58 @@
+27920399|t|Anticoagulation for stroke prevention in elderly patients with non-valvular atrial fibrillation: what are the obstacles?
+27920399|a|The elderly with atrial fibrillation are more prone to stroke. Oral anticoagulants such as warfarin are effective in the prevention of atrial fibrillation -associated stroke and systemic embolism. The CHADS2 or CHA2D2-VASc score and HAS-BLED score were developed to stratify stroke risk associated with atrial fibrillation and bleeding risk in a patient with atrial fibrillation, respectively, to facilitate the decision for and safe use of oral anticoagulant. Nonetheless, the decision for anticoagulation is not straightforward and the elderly with non-valvular atrial fibrillation are often precluded from anticoagulant prescription. Advanced age and disadvantages associated with the elderly such as fall, comorbidities, cognitive impairment, and polypharmacy contribute to the over-concern of physicians about bleeding risk. Various treatment options such as low-intensity warfarin and aspirin plus clopidogrel have been suggested but are inferior to dose-adjusted warfarin. Novel oral anticoagulants with promising efficacy and convenience hold great appeal. Optimal management of underlying medical conditions and modifiable stroke risk factors, together with intervention to improve the safe use of oral anticoagulants, are useful.
+27920399	0	15	Anticoagulation	T061	C0003281
+27920399	20	37	stroke prevention	T061	C1277289
+27920399	41	48	elderly	T098	C0001792
+27920399	49	57	patients	T101	C0030705
+27920399	63	75	non-valvular	T033	C0243095
+27920399	76	95	atrial fibrillation	T047	C0004238
+27920399	125	132	elderly	T098	C0001792
+27920399	138	157	atrial fibrillation	T047	C0004238
+27920399	176	182	stroke	T047	C0038454
+27920399	184	203	Oral anticoagulants	T109,T121	C0354604
+27920399	212	220	warfarin	T109,T121,T131	C0043031
+27920399	225	234	effective	T080	C1704419
+27920399	242	252	prevention	T061	C0199176
+27920399	256	275	atrial fibrillation	T047	C0004238
+27920399	288	294	stroke	T047	C0038454
+27920399	299	316	systemic embolism	UnknownType	C0149876
+27920399	322	328	CHADS2	T170	C2585876
+27920399	332	349	CHA2D2-VASc score	T170	C4049268
+27920399	354	368	HAS-BLED score	T170	C3875442
+27920399	396	402	stroke	T047	C0038454
+27920399	403	407	risk	T033	C0035648
+27920399	408	423	associated with	T080	C0332281
+27920399	424	443	atrial fibrillation	T047	C0004238
+27920399	448	461	bleeding risk	T033	C3251812
+27920399	467	474	patient	T101	C0030705
+27920399	480	499	atrial fibrillation	T047	C0004238
+27920399	550	558	safe use	T080	C0678800
+27920399	562	580	oral anticoagulant	T109,T121	C0354604
+27920399	612	627	anticoagulation	T061	C0003281
+27920399	659	666	elderly	T098	C0001792
+27920399	672	704	non-valvular atrial fibrillation	T047	C0004238
+27920399	730	756	anticoagulant prescription	T061	C0199242
+27920399	789	804	associated with	T080	C0332281
+27920399	809	816	elderly	T098	C0001792
+27920399	825	829	fall	T033	C0085639
+27920399	831	844	comorbidities	T078	C0009488
+27920399	846	866	cognitive impairment	T048	C0338656
+27920399	872	884	polypharmacy	T033	C2922974
+27920399	919	929	physicians	T097	C0031831
+27920399	936	949	bleeding risk	T033	C3251812
+27920399	959	968	treatment	T061	C0087111
+27920399	999	1007	warfarin	T109,T121,T131	C0043031
+27920399	1012	1019	aspirin	T109,T121	C0004057
+27920399	1020	1036	plus clopidogrel	T109,T121	C4255919
+27920399	1065	1073	inferior	T082	C0542339
+27920399	1077	1090	dose-adjusted	T081	C0178602
+27920399	1091	1099	warfarin	T109,T121,T131	C0043031
+27920399	1107	1126	oral anticoagulants	T109,T121	C0354604
+27920399	1132	1150	promising efficacy	T080	C1280519
+27920399	1186	1193	Optimal	T080	C2698651
+27920399	1219	1237	medical conditions	T058	C1254363
+27920399	1253	1259	stroke	T047	C0038454
+27920399	1260	1272	risk factors	T033	C0035648
+27920399	1288	1300	intervention	T061	C0184661
+27920399	1316	1324	safe use	T080	C0678800
+27920399	1328	1347	oral anticoagulants	T109,T121	C0354604

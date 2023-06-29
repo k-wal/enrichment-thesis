@@ -1,0 +1,94 @@
+27881519|t|Comparison of therapy persistence for fixed versus free combination antihypertensives: a retrospective cohort study
+27881519|a|The aim of the study was to compare therapy persistence among patients who started with one of three drug regimens: a monotherapy, or combination therapy either as a fixed combination (ie, 'single pill ') or as a free combination (ie, two separate antihypertensive agents). In a secondary data analysis, we used descriptive statistics and multivariate logistic regression to measure the effect of the three therapy regimens on therapy persistence over 4 years. Prescription data from a large German statutory health insurance provider. All patients who started with a new antihypertensive therapy in 2007 or 2008 (n=8032) were included and followed for 4 years. Therapy persistence, defined as receiving a refill prescription no later than within 180 days. The persistence rates after 4 years were nearly identical among patients who started with a monotherapy (40.3%) or a fixed combination of two drugs (39.8%). However, significantly more patients who started with free - drug combinations remained therapy persistent (56.4%), resulting in an OR of 2.00 (95% CI 1.6 to 2.5; p<0.0001) for free combinations versus fixed combinations. This trend was observed in all age groups and for men and women. At the end of the study period, the number of different antihypertensive agents was still similar between patients who started with a fixed combination (2.41) and patients who started with a free combination (2.28). While single- pill combination s make it easier to take different drugs at once, the risk is high that these several substances are stopped at once. Therapy persistence was significantly better for patients who started with a free - drug combination without taking much fewer different antihypertensive drugs as those with a fixed combination.
+27881519	0	10	Comparison	T052	C1707455
+27881519	14	21	therapy	T061	C0087111
+27881519	22	33	persistence	T079	C0205322
+27881519	38	43	fixed	T080	C0443218
+27881519	51	55	free	T169	C0332296
+27881519	56	67	combination	T080	C0205195
+27881519	68	85	antihypertensives	T121	C0003364
+27881519	89	115	retrospective cohort study	T062	C2985505
+27881519	120	123	aim	T078	C1947946
+27881519	131	136	study	T062	C2603343
+27881519	152	159	therapy	T061	C0087111
+27881519	160	171	persistence	T079	C0205322
+27881519	178	186	patients	T101	C0030705
+27881519	217	221	drug	T121	C0013227
+27881519	222	230	regimens	T061	C0040808
+27881519	234	245	monotherapy	T061	C0087111
+27881519	250	261	combination	T080	C0205195
+27881519	262	269	therapy	T061	C0087111
+27881519	282	287	fixed	T080	C0443218
+27881519	288	299	combination	T121	C0013162
+27881519	313	317	pill	T122	C0994475
+27881519	329	333	free	T169	C0332296
+27881519	334	345	combination	T121	C0013162
+27881519	364	387	antihypertensive agents	T121	C0003364
+27881519	405	418	data analysis	T057	C0010992
+27881519	428	450	descriptive statistics	T090	C1514962
+27881519	455	487	multivariate logistic regression	T062	C0206031
+27881519	491	498	measure	T081	C0079809
+27881519	503	509	effect	T080	C1280500
+27881519	523	530	therapy	T061	C0087111
+27881519	531	539	regimens	T061	C0040808
+27881519	543	550	therapy	T061	C0087111
+27881519	551	562	persistence	T079	C0205322
+27881519	570	575	years	T079	C0439234
+27881519	577	594	Prescription data	T170	C1521941
+27881519	608	650	German statutory health insurance provider	T093	C1708333
+27881519	656	664	patients	T101	C0030705
+27881519	669	681	started with	T080	C1272689
+27881519	669	681	started with	T080	C1272689
+27881519	688	704	antihypertensive	T121	C0003364
+27881519	705	712	therapy	T061	C0087111
+27881519	771	776	years	T079	C0439234
+27881519	778	785	Therapy	T061	C0087111
+27881519	786	797	persistence	T079	C0205322
+27881519	829	841	prescription	T170	C1521941
+27881519	877	888	persistence	T079	C0205322
+27881519	903	908	years	T079	C0439234
+27881519	937	945	patients	T101	C0030705
+27881519	950	962	started with	T080	C1272689
+27881519	965	976	monotherapy	T061	C0087111
+27881519	990	995	fixed	T080	C0443218
+27881519	996	1007	combination	T121	C0013162
+27881519	1015	1020	drugs	T121	C0013227
+27881519	1058	1066	patients	T101	C0030705
+27881519	1071	1083	started with	T080	C1272689
+27881519	1084	1088	free	T169	C0332296
+27881519	1091	1108	drug combinations	T121	C0013162
+27881519	1118	1125	therapy	T061	C0087111
+27881519	1207	1211	free	T169	C0332296
+27881519	1212	1224	combinations	T121	C0013162
+27881519	1232	1237	fixed	T080	C0443218
+27881519	1238	1250	combinations	T121	C0013162
+27881519	1257	1262	trend	T079	C1521798
+27881519	1283	1293	age groups	T100	C0027362
+27881519	1302	1305	men	T098	C0025266
+27881519	1310	1315	women	T098	C0043210
+27881519	1335	1340	study	T062	C2603343
+27881519	1373	1396	antihypertensive agents	T121	C0003364
+27881519	1423	1431	patients	T101	C0030705
+27881519	1436	1448	started with	T080	C1272689
+27881519	1451	1456	fixed	T080	C0443218
+27881519	1457	1468	combination	T121	C0013162
+27881519	1480	1488	patients	T101	C0030705
+27881519	1493	1505	started with	T080	C1272689
+27881519	1508	1512	free	T169	C0332296
+27881519	1513	1524	combination	T121	C0013162
+27881519	1547	1551	pill	T122	C0994475
+27881519	1552	1563	combination	T121	C0013162
+27881519	1599	1604	drugs	T121	C0013227
+27881519	1618	1622	risk	T078	C0035647
+27881519	1626	1630	high	T080	C0205250
+27881519	1650	1660	substances	T167	C0439861
+27881519	1665	1680	stopped at once	T080	C1272691
+27881519	1682	1689	Therapy	T061	C0087111
+27881519	1690	1701	persistence	T079	C0205322
+27881519	1731	1739	patients	T101	C0030705
+27881519	1744	1756	started with	T080	C1272689
+27881519	1759	1763	free	T169	C0332296
+27881519	1766	1782	drug combination	T121	C0013162
+27881519	1819	1841	antihypertensive drugs	T121	C0003364
+27881519	1858	1863	fixed	T080	C0443218
+27881519	1864	1875	combination	T121	C0013162

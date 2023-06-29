@@ -1,0 +1,75 @@
+28180235|t|Incidence rates and case fatality rates of portal vein thrombosis and Budd-Chiari Syndrome
+28180235|a|Little information is available on the incidence of splanchnic vein thrombosis and on mortality rates during the acute phase of the disease. We performed a large epidemiologic study on hospital admissions for portal vein thrombosis (PVT) and the Budd-Chiari syndrome (BCS) between 2002 and 2012 in Northwestern Italy. Primary and secondary discharge diagnoses of PVT and BCS were identified using the 9th edition International Classification of Diseases codes 453.0, 572.1 and 452. Hospitalisations for recurrent events were not included. Information was collected on age and gender, vital status at discharge, duration of hospitalisation, and up to five secondary discharge diagnoses. Comorbidity was evaluated using the Charlson comorbidity index (CCI). A total of 3535 patients with PVT and 287 with BCS were hospitalized. The overall gender-specific incidence rates for PVT were 3.78 per 100,000 inhabitants in males and 1.73 per 100,000 inhabitants in females; for BCS 2.0 and 2.2 per million inhabitants, respectively. In-hospital case fatality was 7.3 % in patients with PVT and 4.9 % in patients with BCS. Age, non-abdominal solid cancer, and CCI were independently associated with in-hospital mortality in both PVT and BCS after stepwise regression analysis, male gender and haematologic cancer were associated with mortality in BCS patients only. In this large study we confirmed the low incidence of BCS and we found an incidence of PVT higher than previously reported. This incidence was stable during the period of observation. In-hospital mortality is not negligible, in particular in PVT patients.
+28180235	0	15	Incidence rates	T081	C1708485
+28180235	20	39	case fatality rates	T081	C0282250
+28180235	43	65	portal vein thrombosis	T047	C0155773
+28180235	70	90	Budd-Chiari Syndrome	T047	C0856761
+28180235	98	109	information	T078	C1533716
+28180235	130	139	incidence	T081	C0021149
+28180235	143	169	splanchnic vein thrombosis	T047	C4022560
+28180235	177	192	mortality rates	T081	C0205848
+28180235	204	215	acute phase	T079	C0439557
+28180235	223	230	disease	T047	C0012634
+28180235	253	272	epidemiologic study	T062	C0002783
+28180235	276	295	hospital admissions	T058	C0184666
+28180235	300	322	portal vein thrombosis	T047	C0155773
+28180235	324	327	PVT	T047	C0856761
+28180235	337	357	Budd-Chiari syndrome	T047	C0856761
+28180235	359	362	BCS	T047	C0856761
+28180235	389	407	Northwestern Italy	T083	C0022277
+28180235	431	450	discharge diagnoses	T033	C1555319
+28180235	454	457	PVT	T047	C0856761
+28180235	462	465	BCS	T047	C0856761
+28180235	504	544	International Classification of Diseases	T170	C0870733
+28180235	545	550	codes	T170	C0805701
+28180235	573	589	Hospitalisations	T058	C0019993
+28180235	630	641	Information	T078	C1533716
+28180235	646	655	collected	T169	C1516698
+28180235	659	662	age	T032	C0001779
+28180235	667	673	gender	T032	C0079399
+28180235	675	700	vital status at discharge	T033	C3854160
+28180235	702	710	duration	T079	C0449238
+28180235	714	729	hospitalisation	T058	C0019993
+28180235	756	775	discharge diagnoses	T033	C1555319
+28180235	777	788	Comorbidity	T078	C0009488
+28180235	813	839	Charlson comorbidity index	T081	C1516737
+28180235	841	844	CCI	T081	C1516737
+28180235	863	871	patients	T101	C0030705
+28180235	877	880	PVT	T047	C0856761
+28180235	894	897	BCS	T047	C0856761
+28180235	903	915	hospitalized	T033	C0701159
+28180235	929	944	gender-specific	T032	C0079399
+28180235	945	960	incidence rates	T081	C1708485
+28180235	965	968	PVT	T047	C0856761
+28180235	991	1002	inhabitants	T098	C1257890
+28180235	1006	1011	males	T032	C0086582
+28180235	1033	1044	inhabitants	T098	C1257890
+28180235	1048	1055	females	T032	C0086287
+28180235	1061	1064	BCS	T047	C0856761
+28180235	1089	1100	inhabitants	T098	C1257890
+28180235	1116	1141	In-hospital case fatality	T081	C0282250
+28180235	1155	1163	patients	T101	C0030705
+28180235	1169	1172	PVT	T047	C0856761
+28180235	1186	1194	patients	T101	C0030705
+28180235	1200	1203	BCS	T047	C0856761
+28180235	1205	1208	Age	T032	C0001779
+28180235	1210	1236	non-abdominal solid cancer	T191	C0027651
+28180235	1242	1245	CCI	T081	C1516737
+28180235	1281	1302	in-hospital mortality	T080	C0085556
+28180235	1311	1314	PVT	T047	C0856761
+28180235	1319	1322	BCS	T047	C0856761
+28180235	1338	1357	regression analysis	T170	C0034980
+28180235	1359	1370	male gender	T032	C0086582
+28180235	1375	1394	haematologic cancer	T191	C0376545
+28180235	1416	1425	mortality	T033	C1306577
+28180235	1429	1432	BCS	T047	C0856761
+28180235	1433	1441	patients	T101	C0030705
+28180235	1462	1467	study	T062	C2603343
+28180235	1489	1498	incidence	T081	C0021149
+28180235	1502	1505	BCS	T047	C0856761
+28180235	1522	1531	incidence	T081	C0021149
+28180235	1535	1538	PVT	T047	C0856761
+28180235	1577	1586	incidence	T081	C0021149
+28180235	1632	1653	In-hospital mortality	T080	C0085556
+28180235	1690	1693	PVT	T047	C0856761
+28180235	1694	1702	patients	T101	C0030705

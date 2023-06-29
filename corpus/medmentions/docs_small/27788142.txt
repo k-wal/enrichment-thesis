@@ -1,0 +1,29 @@
+27788142|t|The Pre-Eclampsia Ontology: A Disease Ontology Representing the Domain Knowledge Specific to Pre-Eclampsia
+27788142|a|Pre-eclampsia (PE) is a clinical syndrome characterized by new-onset hypertension and proteinuria at ≥20 weeks of gestation, and is a leading cause of maternal and perinatal morbidity and mortality. Previous studies have gathered abundant data about PE such as risk factors and pathological findings. However, most of these data are not semantically structured. Clinical data on PE patients are often generated with semantic heterogeneity such as using disparate terminology to describe the same phenomena. In clinical studies, interoperability of heterogenic clinical data is required in various situations. In such a situation, it is necessary to develop an interoperable and standardized semantic framework to research the pathology of PE more comprehensively and to achieve interoperability of heterogenic clinical data of PE patients. In this study, we developed an ontology representing clinical features, treatments, genetic factors, environmental factors, and other aspects of the current knowledge in the domain of PE. We call this pre-eclampsia ontology " PEO ". To achieve interoperability with other ontologies, the core structure of PEO was compliant with the hierarchy of the Basic Formal Ontology (BFO). The PEO incorporates a wide range of key concepts and terms of PE from clinical and biomedical research in structuring the knowledge base that is specific to PE; therefore, PEO is expected to enhance PE -specific information retrieval and knowledge discovery in both clinical and biomedical research fields.
+27788142	4	17	Pre-Eclampsia	T038	UMLS:C0032914
+27788142	93	106	Pre-Eclampsia	T038	UMLS:C0032914
+27788142	107	120	Pre-eclampsia	T038	UMLS:C0032914
+27788142	122	124	PE	T038	UMLS:C0032914
+27788142	193	204	proteinuria	T033	UMLS:C0033687
+27788142	208	230	≥20 weeks of gestation	T033	UMLS:C1998040
+27788142	357	359	PE	T038	UMLS:C0032914
+27788142	368	380	risk factors	T033	UMLS:C0035648
+27788142	469	482	Clinical data	T170	UMLS:C1516606
+27788142	486	488	PE	T038	UMLS:C0032914
+27788142	560	581	disparate terminology	T170	UMLS:C0028275
+27788142	617	633	clinical studies	T062	UMLS:C0008972
+27788142	667	680	clinical data	T170	UMLS:C1516606
+27788142	820	828	research	T062	UMLS:C0035168
+27788142	846	848	PE	T038	UMLS:C0032914
+27788142	917	930	clinical data	T170	UMLS:C1516606
+27788142	934	936	PE	T038	UMLS:C0032914
+27788142	1019	1029	treatments	T058	UMLS:C0087111
+27788142	1131	1133	PE	T038	UMLS:C0032914
+27788142	1148	1161	pre-eclampsia	T038	UMLS:C0032914
+27788142	1389	1391	PE	T038	UMLS:C0032914
+27788142	1397	1405	clinical	T062	UMLS:C0008972
+27788142	1410	1429	biomedical research	T062	UMLS:C0005540
+27788142	1484	1486	PE	T038	UMLS:C0032914
+27788142	1526	1528	PE	T038	UMLS:C0032914
+27788142	1593	1601	clinical	T062	UMLS:C0008972
+27788142	1606	1625	biomedical research	T062	UMLS:C0005540

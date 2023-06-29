@@ -1,0 +1,14 @@
+28422693|t|Singularities of Three - Layered Complex-Valued Neural Networks With Split Activation Function
+28422693|a|There are three important concepts related to learning processes in neural networks: reducibility, nonminimality, and singularity. Although the definitions of these three concepts differ, they are equivalent in real-valued neural networks. This is also true of complex-valued neural networks (CVNNs) with hidden neurons not employing biases. The situation of CVNNs with hidden neurons employing biases, however, is very complicated. Exceptional reducibility was found, and it was shown that reducibility and nonminimality are not the same. Irreducibility consists of minimality and exceptional reducibility. The relationship between minimality and singularity has not yet been established. In this paper, we describe our surprising finding that minimality and singularity are independent. We also provide several examples based on exceptional reducibility.
+28422693	48	63	Neural Networks	T038	UMLS:C0598941
+28422693	141	149	learning	T038	UMLS:C0023185
+28422693	163	178	neural networks	T038	UMLS:C0598941
+28422693	239	250	definitions	T170	UMLS:C1704788
+28422693	318	333	neural networks	T038	UMLS:C0598941
+28422693	371	386	neural networks	T038	UMLS:C0598941
+28422693	388	393	CVNNs	T038	UMLS:C0598941
+28422693	407	414	neurons	T017	UMLS:C0027882
+28422693	454	459	CVNNs	T038	UMLS:C0598941
+28422693	472	479	neurons	T017	UMLS:C0027882
+28422693	557	562	found	T033	UMLS:C0150312
+28422693	827	834	finding	T033	UMLS:C0243095

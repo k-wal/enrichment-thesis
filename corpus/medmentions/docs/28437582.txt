@@ -1,0 +1,82 @@
+28437582|t|Modified frailty index predicts postoperative outcomes in older gastrointestinal cancer patients
+28437582|a|Frailty disproportionately impacts older patients with gastrointestinal cancer, rendering them at increased risk for poor outcomes. A frailty index may aid in preoperative risk stratification. We hypothesized that high modified frailty index (mFI) scores are associated with adverse outcomes after tumor resection in older, gastrointestinal cancer patients. Patients (60-90 years old) who underwent gastrointestinal tumor resection were identified in the 2005-2012 NSQIP Participant Use File. mFI was defined by 11 previously described, preoperative variables. Frailty was defined by an mFI score >0.27. The postoperative course was evaluated using univariate and multivariate analysis. 41 455 patients (mean age 72.4 years, 47.4% female) were identified. The most prevalent form of cancer was colorectal (69.3%, n = 28 708) and 2.8% of patients were frail (n = 1,164). Frail patients were significantly more likely to have increased length of stay (11.7 vs 9.0 days), major complications (29.1% vs 17.9%), and 30-day mortality (5.6% vs 2.5%), (all P < 0.001). Multivariate analysis identified mFI as an independent predictor of major complications (OR 1.52, 95%CI 1.39-1.65, P < 0.001) and 30-day mortality (OR 1.48, 95%CI 1.24-1.75, P < 0.001). mFI was associated with the incidence of postoperative complications and mortality in older surgical patients with gastrointestinal cancer.
+28437582	0	8	Modified	T169	C0392747
+28437582	9	22	frailty index	T170	C4075886
+28437582	23	31	predicts	T078	C0681842
+28437582	32	45	postoperative	T033	C0231287
+28437582	46	54	outcomes	T081	C0086749
+28437582	58	63	older	T098	C3826770
+28437582	64	87	gastrointestinal cancer	T191	C0685938
+28437582	88	96	patients	T101	C0030705
+28437582	97	104	Frailty	T033	C0424594
+28437582	105	123	disproportionately	T080	C0205556
+28437582	124	131	impacts	T080	C4049986
+28437582	132	137	older	T098	C3826770
+28437582	138	146	patients	T101	C0030705
+28437582	152	175	gastrointestinal cancer	T191	C0685938
+28437582	177	186	rendering	T169	C0205245
+28437582	195	227	increased risk for poor outcomes	T033	C3553618
+28437582	231	244	frailty index	T170	C4075886
+28437582	256	268	preoperative	T079	C0445204
+28437582	269	273	risk	T078	C0035647
+28437582	274	288	stratification	T062	C1514983
+28437582	293	305	hypothesized	T078	C1512571
+28437582	316	351	modified frailty index (mFI) scores	T033	C4075885
+28437582	356	371	associated with	T080	C0332281
+28437582	372	388	adverse outcomes	T033	C1705586
+28437582	395	400	tumor	T191	C0027651
+28437582	401	410	resection	T061	C0015252
+28437582	414	419	older	T098	C3826770
+28437582	421	444	gastrointestinal cancer	T191	C0685938
+28437582	445	453	patients	T101	C0030705
+28437582	455	463	Patients	T101	C0030705
+28437582	465	480	60-90 years old	T098	C3826770
+28437582	486	495	underwent	T169	C0205245
+28437582	496	528	gastrointestinal tumor resection	UnknownType	C0744337
+28437582	534	544	identified	T080	C0205396
+28437582	562	567	NSQIP	T033	C1532051
+28437582	568	579	Participant	T098	C0679646
+28437582	590	593	mFI	T033	C4075885
+28437582	612	622	previously	T079	C0205156
+28437582	623	632	described	T078	C1552738
+28437582	634	646	preoperative	T079	C0445204
+28437582	647	656	variables	T080	C0439828
+28437582	658	665	Frailty	T033	C0424594
+28437582	684	693	mFI score	T033	C4075885
+28437582	705	725	postoperative course	T058	C0032786
+28437582	730	739	evaluated	T058	C0220825
+28437582	746	756	univariate	T062	C0683962
+28437582	761	782	multivariate analysis	T081	C0026777
+28437582	791	799	patients	T101	C0030705
+28437582	828	834	female	T032	C0086287
+28437582	841	851	identified	T080	C0205396
+28437582	862	876	prevalent form	T082	C0205391
+28437582	880	886	cancer	T191	C0006826
+28437582	891	901	colorectal	T191	C1527249
+28437582	934	942	patients	T101	C0030705
+28437582	948	953	frail	T033	C0871754
+28437582	967	972	Frail	T033	C0871754
+28437582	973	981	patients	T101	C0030705
+28437582	987	1000	significantly	T078	C0750502
+28437582	1001	1012	more likely	T078	C0750501
+28437582	1021	1045	increased length of stay	T079	C3840528
+28437582	1066	1071	major	T080	C0205164
+28437582	1072	1085	complications	T046	C0009566
+28437582	1115	1124	mortality	T081	C0026565
+28437582	1158	1179	Multivariate analysis	T081	C0026777
+28437582	1180	1190	identified	T080	C0205396
+28437582	1191	1194	mFI	T033	C4075885
+28437582	1201	1212	independent	T078	C0085862
+28437582	1213	1222	predictor	T078	C2698872
+28437582	1226	1231	major	T080	C0205164
+28437582	1232	1245	complications	T046	C0009566
+28437582	1295	1304	mortality	T081	C0026565
+28437582	1344	1347	mFI	T033	C4075885
+28437582	1352	1367	associated with	T080	C0332281
+28437582	1372	1381	incidence	T081	C0021149
+28437582	1385	1398	postoperative	T033	C0231287
+28437582	1399	1412	complications	T046	C0009566
+28437582	1417	1426	mortality	T081	C0026565
+28437582	1430	1435	older	T098	C3826770
+28437582	1436	1453	surgical patients	T101	C0871463
+28437582	1459	1482	gastrointestinal cancer	T191	C0685938

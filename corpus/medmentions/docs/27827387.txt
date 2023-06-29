@@ -1,0 +1,53 @@
+27827387|t|DNA sequence diversity and the efficiency of natural selection in animal mitochondrial DNA
+27827387|a|Selection is expected to be more efficient in species that are more diverse because both the efficiency of natural selection and DNA sequence diversity are expected to depend upon the effective population size. We explore this relationship across a data set of 751 mammal species for which we have mitochondrial polymorphism data. We introduce a method by which we can examine the relationship between our measure of the efficiency of natural selection, the nonsynonymous relative to the synonymous nucleotide site diversity (πN / πS), and synonymous nucleotide diversity (πS), avoiding the statistical non-independence between the two quantities. We show that these two variables are strongly negatively and linearly correlated on a log scale. The slope is such that as πS doubles, πN / πS is reduced by 34%. We show that the slope of this relationship differs between the two phylogenetic groups for which we have the most data, rodents and bats, and that it also differs between species with high and low body mass, and between those with high and low mass -specific metabolic rate.
+27827387	0	12	DNA sequence	T086	C0162326
+27827387	13	22	diversity	T080	C1880371
+27827387	31	41	efficiency	T081	C0013682
+27827387	45	62	natural selection	T070	C0086685
+27827387	66	72	animal	T008	C0003062
+27827387	73	90	mitochondrial DNA	T114,T123	C0012929
+27827387	91	100	Selection	T070	C0086685
+27827387	137	144	species	T185	C1705920
+27827387	159	166	diverse	T080	C1880371
+27827387	184	194	efficiency	T081	C0013682
+27827387	198	215	natural selection	T070	C0086685
+27827387	220	232	DNA sequence	T086	C0162326
+27827387	233	242	diversity	T080	C1880371
+27827387	285	300	population size	T081	C0032683
+27827387	340	348	data set	T170	C0150098
+27827387	356	362	mammal	T015	C0024660
+27827387	363	370	species	T185	C1705920
+27827387	389	402	mitochondrial	T026	C0026237
+27827387	403	415	polymorphism	T045	C0032529
+27827387	416	420	data	T078	C1511726
+27827387	437	443	method	T170	C0025663
+27827387	512	522	efficiency	T081	C0013682
+27827387	526	543	natural selection	T070	C0086685
+27827387	549	562	nonsynonymous	T086	C1709259
+27827387	579	615	synonymous nucleotide site diversity	T086	C1710267
+27827387	617	619	πN	T086	C1709259
+27827387	622	624	πS	T086	C1710267
+27827387	631	662	synonymous nucleotide diversity	T086	C1710267
+27827387	664	666	πS	T086	C1710267
+27827387	682	693	statistical	T081	C0237751
+27827387	727	737	quantities	T081	C1265611
+27827387	762	771	variables	T080	C0439828
+27827387	825	834	log scale	T081	C2986775
+27827387	840	845	slope	T081	C0807955
+27827387	862	872	πS doubles	T086	C1710267
+27827387	874	876	πN	T086	C1709259
+27827387	879	881	πS	T086	C1710267
+27827387	918	923	slope	T081	C0807955
+27827387	969	981	phylogenetic	T080	C1519069
+27827387	982	988	groups	T078	C0441833
+27827387	1016	1020	data	T078	C1511726
+27827387	1022	1029	rodents	T015	C0035804
+27827387	1034	1038	bats	T015	C0008139
+27827387	1073	1080	species	T185	C1705920
+27827387	1086	1090	high	T080	C0205250
+27827387	1095	1098	low	T080	C0205251
+27827387	1099	1108	body mass	T033	C0518010
+27827387	1133	1137	high	T080	C0205250
+27827387	1142	1145	low	T080	C0205251
+27827387	1146	1150	mass	T033	C0518010
+27827387	1161	1175	metabolic rate	T039	C0870882

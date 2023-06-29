@@ -1,0 +1,28 @@
+27569827|t|Mechanisms of replacement of circulating viruses by seasonal and pandemic influenza A viruses
+27569827|a|Seasonal influenza causes annual epidemics by the accumulation of antigenic changes. Pandemic influenza occurs through a major antigenic change of the influenza A virus, which can originate from other hosts. Although new antigenic variants of the influenza A virus replace formerly circulating seasonal and pandemic viruses, replacement mechanisms remain poorly understood. A stochastic individual-based SEIR (susceptible-exposed-infectious-recovered) model with two viral strains (formerly circulating old strain and newly emerged strain) was developed for simulations to elucidate the replacement mechanisms. Factors and conditions of virus and host populations affecting the replacement were identified. Replacement is more likely to occur in tropical regions than temperate regions. The magnitude of the ongoing epidemic by the old strain, herd immunity against the old strain, and timing of appearance of the new strain are not that important for replacement. It is probable that the frequency of replacement by a pandemic virus is higher than a seasonal virus because of the high initial susceptibility and high basic reproductive number of the pandemic virus. The findings of this study on replacement mechanisms could lead to a better understanding of virus transmission dynamics and may possibly be helpful in establishing an effective strategy to mitigate the impact of seasonal and pandemic influenza.
+27569827	41	48	viruses	T005	UMLS:C0042776
+27569827	52	60	seasonal	T038	UMLS:C4304723
+27569827	65	93	pandemic influenza A viruses	T005	UMLS:C0029347
+27569827	94	112	Seasonal influenza	T038	UMLS:C4304723
+27569827	144	156	accumulation	T033	UMLS:C4055506
+27569827	160	177	antigenic changes	T038	UMLS:C0003319
+27569827	179	197	Pandemic influenza	T038	UMLS:C4304383
+27569827	221	237	antigenic change	T038	UMLS:C0003319
+27569827	245	262	influenza A virus	T005	UMLS:C0029347
+27569827	315	333	antigenic variants	T038	UMLS:C0003319
+27569827	341	358	influenza A virus	T005	UMLS:C0029347
+27569827	388	396	seasonal	T005	UMLS:C0042776
+27569827	401	417	pandemic viruses	T005	UMLS:C0042776
+27569827	470	551	stochastic individual-based SEIR (susceptible-exposed-infectious-recovered) model	T170	UMLS:C0282574
+27569827	652	663	simulations	T062	UMLS:C0679083
+27569827	731	736	virus	T005	UMLS:C0042776
+27569827	840	856	tropical regions	T082	UMLS:C0017446
+27569827	862	879	temperate regions	T082	UMLS:C0017446
+27569827	938	951	herd immunity	T038	UMLS:C1135927
+27569827	1113	1127	pandemic virus	T005	UMLS:C0042776
+27569827	1145	1159	seasonal virus	T005	UMLS:C0042776
+27569827	1218	1230	reproductive	T038	UMLS:C0035150
+27569827	1245	1259	pandemic virus	T005	UMLS:C0042776
+27569827	1354	1372	virus transmission	T038	UMLS:C1160716
+27569827	1474	1482	seasonal	T038	UMLS:C4304723
+27569827	1487	1505	pandemic influenza	T038	UMLS:C4304383

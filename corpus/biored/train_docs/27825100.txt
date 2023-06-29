@@ -1,0 +1,47 @@
+27825100|t|High glucose repatterns human podocyte energy metabolism during differentiation and diabetic nephropathy.
+27825100|a|Podocytes play a key role in diabetic nephropathy pathogenesis, but alteration of their metabolism remains unknown in human kidney. By using a conditionally differentiating human podocyte cell line, we addressed the functional and molecular changes in podocyte energetics during in vitro development or under high glucose conditions. In 5 mM glucose medium, we observed a stepwise activation of oxidative metabolism during cell differentiation that was characterized by peroxisome proliferator-activated receptor-g coactivator 1a (PGC-1a)-dependent stimulation of mitochondrial biogenesis and function, with concomitant reduction of the glycolytic enzyme content. Conversely, when podocytes were cultured in high glucose (20 mM), stepwise oxidative phosphorylation biogenesis was aborted, and a glycolytic switch occurred, with consecutive lactic acidosis. Expression of the master regulators of oxidative metabolism transcription factor A mitochondrial, PGC-1a, AMPK, and serine-threonine liver kinase B1 was altered by high glucose, as well as their downstream signaling networks. Focused transcriptomics revealed that myocyte-specific enhancer factor 2C (MEF2C) and myogenic factor 5 (MYF5) expression was inhibited by high glucose levels, and endoribonuclease-prepared small interfering RNA-mediated combined inhibition of those transcription factors phenocopied the glycolytic shift that was observed in high glucose conditions. Accordingly, a reduced expression of MEF2C, MYF5, and PGC-1a was found in kidney tissue sections that were obtained from patients with diabetic nephropathy. These findings obtained in human samples demonstrate that MEF2C-MYF5-dependent bioenergetic dedifferentiation occurs in podocytes that are confronted with a high-glucose milieu.-Imasawa, T., Obre, E., Bellance, N., Lavie, J., Imasawa, T., Rigothier, C., Delmas, Y., Combe, C., Lacombe, D., Benard, G., Claverol, S., Bonneu, M., Rossignol, R. High glucose repatterns human podocyte energy metabolism during differentiation and diabetic nephropathy.
+27825100	5	12	glucose	ChemicalEntity	D005947
+27825100	24	29	human	OrganismTaxon	9606
+27825100	84	104	diabetic nephropathy	DiseaseOrPhenotypicFeature	D003928
+27825100	135	155	diabetic nephropathy	DiseaseOrPhenotypicFeature	D003928
+27825100	224	229	human	OrganismTaxon	9606
+27825100	279	284	human	OrganismTaxon	9606
+27825100	420	427	glucose	ChemicalEntity	D005947
+27825100	448	455	glucose	ChemicalEntity	D005947
+27825100	576	635	peroxisome proliferator-activated receptor-g coactivator 1a	GeneOrGeneProduct	10891
+27825100	637	643	PGC-1a	GeneOrGeneProduct	10891
+27825100	819	826	glucose	ChemicalEntity	D005947
+27825100	946	961	lactic acidosis	DiseaseOrPhenotypicFeature	D000140
+27825100	981	1059	master regulators of oxidative metabolism transcription factor A mitochondrial	GeneOrGeneProduct	10891
+27825100	1061	1067	PGC-1a	GeneOrGeneProduct	10891
+27825100	1069	1073	AMPK	GeneOrGeneProduct	5562
+27825100	1079	1111	serine-threonine liver kinase B1	GeneOrGeneProduct	6794
+27825100	1132	1139	glucose	ChemicalEntity	D005947
+27825100	1227	1262	myocyte-specific enhancer factor 2C	GeneOrGeneProduct	4208
+27825100	1264	1269	MEF2C	GeneOrGeneProduct	4208
+27825100	1275	1292	myogenic factor 5	GeneOrGeneProduct	4617
+27825100	1294	1298	MYF5	GeneOrGeneProduct	4617
+27825100	1333	1340	glucose	ChemicalEntity	D005947
+27825100	1520	1527	glucose	ChemicalEntity	D005947
+27825100	1577	1582	MEF2C	GeneOrGeneProduct	4208
+27825100	1584	1588	MYF5	GeneOrGeneProduct	4617
+27825100	1594	1600	PGC-1a	GeneOrGeneProduct	10891
+27825100	1661	1669	patients	OrganismTaxon	9606
+27825100	1675	1695	diabetic nephropathy	DiseaseOrPhenotypicFeature	D003928
+27825100	1724	1729	human	OrganismTaxon	9606
+27825100	1755	1760	MEF2C	GeneOrGeneProduct	4208
+27825100	1761	1765	MYF5	GeneOrGeneProduct	4617
+27825100	1859	1866	glucose	ChemicalEntity	D005947
+27825100	2044	2051	glucose	ChemicalEntity	D005947
+27825100	2063	2068	human	OrganismTaxon	9606
+27825100	2123	2143	diabetic nephropathy	DiseaseOrPhenotypicFeature	D003928
+27825100	Negative_Correlation	4617	D003928	Novel
+27825100	Negative_Correlation	4617	D005947	Novel
+27825100	Negative_Correlation	4208	D003928	Novel
+27825100	Negative_Correlation	4208	D005947	Novel
+27825100	Association	6794	D005947	Novel
+27825100	Association	5562	D005947	Novel
+27825100	Negative_Correlation	10891	D003928	Novel
+27825100	Association	10891	D005947	Novel
+27825100	Association	D005947	D003928	Novel
+27825100	Positive_Correlation	D005947	D000140	Novel

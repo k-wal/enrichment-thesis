@@ -1,0 +1,14 @@
+27848238|t|A Tractable Method for Measuring Nanomaterial Risk Using Bayesian Networks
+27848238|a|While control banding has been identified as a suitable framework for the evaluation and the determination of potential human health risks associated with exposure to nanomaterials (NMs), the approach currently lacks any implementation that enjoys widespread support. Large inconsistencies in characterisation data, toxicological measurements and exposure scenarios make it difficult to map and compare the risk associated with NMs based on physicochemical data, concentration and exposure route. Here we demonstrate the use of Bayesian networks as a reliable tool for NM risk estimation. This tool is tractable, accessible and scalable. Most importantly, it captures a broad span of data types, from complete, high quality data sets through to data sets with missing data and/or values with a relatively high spread of probability distribution. The tool is able to learn iteratively in order to further refine forecasts as the quality of data available improves. We demonstrate how this risk measurement approach works on NMs with varying degrees of risk potential, namely, carbon nanotubes, silver and titanium dioxide. The results afford even non-experts an accurate picture of the occupational risk probabilities associated with these NMs and, in doing so, demonstrated how NM risk can be evaluated into a tractable, quantitative risk comparator.
+27848238	12	18	Method	T170	UMLS:C0025663
+27848238	57	74	Bayesian Networks	T170	UMLS:C3161035
+27848238	89	96	banding	T058	UMLS:C0185014
+27848238	195	200	human	T204	UMLS:C0086418
+27848238	391	404	toxicological	T038	UMLS:C4042799
+27848238	603	620	Bayesian networks	T170	UMLS:C3161035
+27848238	799	808	data sets	T170	UMLS:C0150098
+27848238	820	829	data sets	T170	UMLS:C0150098
+27848238	1150	1166	carbon nanotubes	T103	UMLS:C1138408
+27848238	1168	1174	silver	T103	UMLS:C0037125
+27848238	1179	1195	titanium dioxide	T103	UMLS:C0076733
+27848238	1221	1232	non-experts	T098	UMLS:C0027361

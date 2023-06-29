@@ -1,0 +1,94 @@
+27629431|t|Suppressed translation and ULK1 degradation as potential mechanisms of autophagy limitation under prolonged starvation
+27629431|a|Macroautophagy / autophagy is a well-organized process of intracellular degradation, which is rapidly activated under starvation conditions. Recent data demonstrate a transcriptional upregulation of several autophagy genes as a mechanism that controls autophagy in response to starvation. Here we report that despite the significant upregulation of mRNA of the essential autophagy initiation gene ULK1, its protein level is rapidly reduced under starvation. Although both autophagic and proteasomal systems contribute to the degradation of ULK1, under prolonged nitrogen deprivation, its level was still reduced in ATG7 knockout cells, and only initially stabilized in cells treated with the lysosomal or proteasomal inhibitors. We demonstrate that under starvation, protein translation is rapidly diminished and, similar to treatments with the proteosynthesis inhibitors cycloheximide or anisomycin, is associated with a significant reduction of ULK1. Furthermore, it was found that inhibition of the mitochondrial respiratory complexes or the mitochondrial ATP synthase function that could also take place in the absence of substrates, promote upregulation of ULK1 mRNA and protein expression in an AMPK - dependent manner in U1810 lung cancer cells growing in complete culture medium. These inhibitors could also drastically increase the ULK1 protein in U1810 cells with knockout of ATG13, where the ULK1 expression is significantly diminished. However, such upregulation of ULK1 protein is negligible under starvation conditions, further signifying the contribution of translation and suggesting that transcriptional upregulation of ULK1 protein will be diminished under such conditions. Thus, we propose a model where inhibition of protein translation, together with the degradation systems, limit autophagy during starvation.
+27629431	0	10	Suppressed	T169	C1260953
+27629431	11	22	translation	T044	C0597295
+27629431	27	31	ULK1	T116,T126	C1313678
+27629431	32	43	degradation	T044	C0597297
+27629431	47	56	potential	T080	C3245505
+27629431	57	67	mechanisms	T169	C0441712
+27629431	71	80	autophagy	T043	C0004391
+27629431	98	107	prolonged	T079	C0439590
+27629431	108	118	starvation	T033	C0038187
+27629431	119	133	Macroautophagy	T043	C1155604
+27629431	136	145	autophagy	T043	C0004391
+27629431	177	202	intracellular degradation	T043	C1523935
+27629431	221	230	activated	T052	C1879547
+27629431	237	247	starvation	T033	C0038187
+27629431	267	271	data	T078	C1511726
+27629431	286	301	transcriptional	T045	C0040649
+27629431	302	314	upregulation	T044	C0041904
+27629431	326	335	autophagy	T043	C0004391
+27629431	336	341	genes	T028	C0017337
+27629431	347	356	mechanism	T169	C0441712
+27629431	362	370	controls	T169	C2587213
+27629431	371	380	autophagy	T043	C0004391
+27629431	396	406	starvation	T033	C0038187
+27629431	452	464	upregulation	T044	C0041904
+27629431	468	472	mRNA	T114,T123	C0035696
+27629431	490	499	autophagy	T043	C0004391
+27629431	500	515	initiation gene	T028	C0017337
+27629431	516	520	ULK1	T028	C1421350
+27629431	526	533	protein	T116,T126	C1313678
+27629431	534	539	level	T080	C0441889
+27629431	551	558	reduced	T080	C0392756
+27629431	565	575	starvation	T033	C0038187
+27629431	591	601	autophagic	T043	C0004391
+27629431	606	625	proteasomal systems	T116,T123	C0033684
+27629431	644	655	degradation	T044	C0597297
+27629431	659	663	ULK1	T116,T126	C1313678
+27629431	671	680	prolonged	T079	C0439590
+27629431	681	689	nitrogen	T123,T196	C0028158
+27629431	690	701	deprivation	T080	C0871712
+27629431	707	712	level	T080	C0441889
+27629431	723	730	reduced	T080	C0392756
+27629431	734	738	ATG7	T028	C1825498
+27629431	739	753	knockout cells	T025	C0007634
+27629431	788	793	cells	T025	C0007634
+27629431	794	801	treated	T169	C1522326
+27629431	811	820	lysosomal	T026	C0024369
+27629431	824	846	proteasomal inhibitors	T121	C1443643
+27629431	874	884	starvation	T033	C0038187
+27629431	886	905	protein translation	T044	C0597295
+27629431	917	927	diminished	T081	C0205216
+27629431	944	954	treatments	T061	C0087111
+27629431	964	990	proteosynthesis inhibitors	T121	C0033671
+27629431	991	1004	cycloheximide	T109,T195	C0010572
+27629431	1008	1018	anisomycin	T109,T195	C0003082
+27629431	1053	1062	reduction	T080	C0392756
+27629431	1066	1070	ULK1	T116,T126	C1313678
+27629431	1103	1113	inhibition	T052	C3463820
+27629431	1121	1134	mitochondrial	T026	C0026237
+27629431	1135	1156	respiratory complexes	T026	C4235129
+27629431	1164	1177	mitochondrial	T026	C0026237
+27629431	1178	1199	ATP synthase function	T044	C2250396
+27629431	1234	1241	absence	T169	C0332197
+27629431	1245	1255	substrates	T167	C3891814
+27629431	1265	1277	upregulation	T044	C0041904
+27629431	1281	1290	ULK1 mRNA	T114,T123	C0035696
+27629431	1295	1313	protein expression	T045	C1171362
+27629431	1320	1324	AMPK	T116,T126	C2350345
+27629431	1327	1336	dependent	T169	C3244310
+27629431	1347	1370	U1810 lung cancer cells	T025	C0597032
+27629431	1391	1405	culture medium	T130	C0010454
+27629431	1413	1423	inhibitors	T080	C1999216
+27629431	1447	1455	increase	T169	C0442805
+27629431	1460	1472	ULK1 protein	T116,T126	C1313678
+27629431	1476	1487	U1810 cells	T025	C0597032
+27629431	1505	1510	ATG13	T028	C3146638
+27629431	1522	1526	ULK1	T116,T126	C1313678
+27629431	1527	1537	expression	T045	C1171362
+27629431	1555	1565	diminished	T081	C0205216
+27629431	1581	1593	upregulation	T044	C0041904
+27629431	1597	1609	ULK1 protein	T116,T126	C1313678
+27629431	1630	1640	starvation	T033	C0038187
+27629431	1692	1703	translation	T044	C0597295
+27629431	1724	1739	transcriptional	T045	C0040649
+27629431	1740	1752	upregulation	T044	C0041904
+27629431	1756	1768	ULK1 protein	T116,T126	C1313678
+27629431	1777	1787	diminished	T081	C0205216
+27629431	1830	1835	model	T075	C0026336
+27629431	1842	1852	inhibition	T052	C3463820
+27629431	1856	1875	protein translation	T044	C0597295
+27629431	1895	1906	degradation	T044	C0597297
+27629431	1922	1931	autophagy	T043	C0004391
+27629431	1939	1949	starvation	T033	C0038187

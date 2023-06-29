@@ -1,0 +1,104 @@
+28470753|t|Stalk versus base invasion in pT1 papillary cancers of the bladder: improved substaging system predicting risk of progression
+28470753|a|Pathologic stage T1 (pT1) bladder cancers are a clinically heterogeneous group. However, current staging guidelines for superficially invasive cancers do not acknowledge the variability in type and extent of lamina propria invasion in papillary urothelial carcinomas (PUC), and historically proposed substaging systems showed either high inter-observer variation or limited value in predicting patient outcomes. Herein we reappraise pT1 PUC substaging, aiming to identify a novel scheme which is reproducible and prognostically meaningful. Stage pT1 PUC diagnosed during years 1999-2015 were retrospectively reviewed and characterized as focal invasion confined to papillary stalk, focal invasion of tumor base, or extensive invasion of tumor base. Cases with concurrent flat carcinoma in-situ, angiolymphatic invasion, absent muscularis propria, or clinically advanced disease were excluded. We calculated cumulative incidence of recurrence, progression, and death by tumor subtype and evaluated differential risks using log-rank tests and Kaplan-Meier curves stratified by type and extent of invasion. Among 62 patients satisfying inclusion criteria, 22 of 29 patients with base extensive invasion progressed while 4 of 13 with base focal and 0 of 20 with stalk only invasion progressed. There was strong evidence that base extensive patients had higher risk of progression and death due to bladder cancer than base focal or stalk only counterparts (P<0.0001). However, tumor subtype was not significantly associated with risk of recurrence (P=0.21). We propose an innovative substaging approach for reporting site and extent of lamina propria invasion in patients with pT1 PUC allowing patient stratification for risk of progression. This article is protected by copyright. All rights reserved.
+28470753	0	5	Stalk	T017	C1947953
+28470753	13	17	base	T017	C0700276
+28470753	18	26	invasion	T033	C1269955
+28470753	30	33	pT1	T033	C0332391
+28470753	34	66	papillary cancers of the bladder	T191	C0699885
+28470753	106	110	risk	T078	C0035647
+28470753	114	125	progression	T046	C0242656
+28470753	126	145	Pathologic stage T1	T033	C0332391
+28470753	147	150	pT1	T033	C0332391
+28470753	152	167	bladder cancers	T191	C0699885
+28470753	174	184	clinically	T080	C0205210
+28470753	185	204	heterogeneous group	T080	C0019409
+28470753	223	230	staging	T185	C0178759
+28470753	246	259	superficially	T082	C0205124
+28470753	260	276	invasive cancers	T191	C0677898
+28470753	300	311	variability	T077	C2827666
+28470753	334	357	lamina propria invasion	T033	C1269980
+28470753	361	392	papillary urothelial carcinomas	T191	C1368911
+28470753	394	397	PUC	T191	C1368911
+28470753	464	488	inter-observer variation	T081	C0021713
+28470753	492	505	limited value	T169	C0439801
+28470753	520	536	patient outcomes	T058	C0030698
+28470753	548	558	reappraise	T058	C0184514
+28470753	559	562	pT1	T033	C0332391
+28470753	563	566	PUC	T191	C1368911
+28470753	579	585	aiming	T078	C1947946
+28470753	589	597	identify	T080	C0205396
+28470753	600	605	novel	T080	C0205314
+28470753	606	612	scheme	T170	C1519193
+28470753	622	634	reproducible	T080	C1524057
+28470753	639	653	prognostically	T170	C0220901
+28470753	666	675	Stage pT1	T033	C0332391
+28470753	676	679	PUC	T191	C1368911
+28470753	680	689	diagnosed	T033	C0011900
+28470753	697	702	years	T079	C0439234
+28470753	718	742	retrospectively reviewed	T062	C0035363
+28470753	747	760	characterized	T052	C1880022
+28470753	764	769	focal	T082	C0205234
+28470753	770	778	invasion	T046	C2699153
+28470753	791	806	papillary stalk	T017	C1947953
+28470753	808	813	focal	T082	C0205234
+28470753	814	822	invasion	T033	C1269955
+28470753	826	831	tumor	T191	C0027651
+28470753	832	836	base	T017	C0700276
+28470753	851	859	invasion	T033	C1269955
+28470753	863	868	tumor	T191	C0027651
+28470753	869	873	base	T017	C0700276
+28470753	875	880	Cases	T169	C0868928
+28470753	886	896	concurrent	T079	C0205420
+28470753	897	919	flat carcinoma in-situ	T033	C1300924
+28470753	921	944	angiolymphatic invasion	T033	C1708790
+28470753	946	952	absent	T169	C0332197
+28470753	953	971	muscularis propria	T024	C0225358
+28470753	976	986	clinically	T080	C0205210
+28470753	987	1003	advanced disease	UnknownType	C0679246
+28470753	1009	1017	excluded	T169	C0332196
+28470753	1033	1043	cumulative	T080	C1511559
+28470753	1044	1053	incidence	T081	C0021149
+28470753	1057	1067	recurrence	T033	C0679254
+28470753	1069	1080	progression	T046	C0242656
+28470753	1086	1091	death	T040	C0011065
+28470753	1095	1108	tumor subtype	T185	C1519691
+28470753	1113	1122	evaluated	T058	C0220825
+28470753	1123	1141	differential risks	T033	C0035648
+28470753	1148	1162	log-rank tests	T170	C0237913
+28470753	1167	1186	Kaplan-Meier curves	T081	C1720944
+28470753	1187	1197	stratified	T080	C0205363
+28470753	1201	1205	type	T080	C0332307
+28470753	1210	1228	extent of invasion	T201	C1269793
+28470753	1239	1247	patients	T101	C0030705
+28470753	1259	1268	inclusion	T080	C1512693
+28470753	1269	1277	criteria	T078	C0243161
+28470753	1288	1296	patients	T101	C0030705
+28470753	1302	1306	base	T017	C0700276
+28470753	1307	1316	extensive	T080	C0205231
+28470753	1317	1325	invasion	T033	C1269955
+28470753	1326	1336	progressed	T169	C1280477
+28470753	1356	1360	base	T017	C0700276
+28470753	1361	1366	focal	T082	C0205234
+28470753	1384	1389	stalk	T017	C1947953
+28470753	1395	1403	invasion	T033	C1269955
+28470753	1404	1414	progressed	T169	C1280477
+28470753	1447	1451	base	T017	C0700276
+28470753	1462	1470	patients	T101	C0030705
+28470753	1482	1486	risk	T078	C0035647
+28470753	1490	1501	progression	T046	C0242656
+28470753	1506	1511	death	T040	C0011065
+28470753	1519	1533	bladder cancer	T191	C0699885
+28470753	1539	1543	base	T017	C0700276
+28470753	1544	1549	focal	T082	C0205234
+28470753	1553	1558	stalk	T017	C1947953
+28470753	1598	1611	tumor subtype	T185	C1519691
+28470753	1650	1654	risk	T078	C0035647
+28470753	1658	1668	recurrence	T033	C0679254
+28470753	1757	1780	lamina propria invasion	T033	C1269980
+28470753	1784	1792	patients	T101	C0030705
+28470753	1798	1801	pT1	T033	C0332391
+28470753	1802	1805	PUC	T191	C1368911
+28470753	1815	1822	patient	T101	C0030705
+28470753	1823	1837	stratification	T080	C0205363
+28470753	1842	1846	risk	T078	C0035647
+28470753	1850	1861	progression	T046	C0242656

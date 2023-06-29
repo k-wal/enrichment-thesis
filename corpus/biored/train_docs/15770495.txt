@@ -1,0 +1,53 @@
+15770495|t|New mutations, hotspots, and founder effects in Brazilian patients with steroid 5alpha-reductase deficiency type 2.
+15770495|a|Mutations of the steroid 5alpha-reductase type 2 (SRD5A2) gene in 46,XY subjects cause masculinization defects of varying degrees, due to reduced or impaired enzymatic activity. In this study, sequence abnormalities of the SRD5A2 gene were assessed by polymerase chain reaction with specific primers and automated sequencing analysis in DNA samples from 20 patients with suspected steroid 5alpha-reductase type 2 deficiency from 18 Brazilian families. Eleven subjects presented SRD5A2 homozygous single-base mutations (two first cousins and four unrelated patients with G183S, two with R246W, one with del642T, one with G196S, and one with 217_218insC plus the A49T variant in heterozygosis), whereas four were compound heterozygotes (one with Q126R/IVS3+1G>A, one with Q126R/del418T, and two brothers with Q126R/G158R). Three patients were heterozygous for A207D, G196S, and R266W substitutions. The V89L polymorphism was found in heterozygosis in one of them (with A207D) and in one case with an otherwise normal gene sequence. The A49T variant was also detected in heterozygosis in the second case without other sequencing abnormalities. Four patients harbor yet non-described SRD5A2 gene mutations: a single nucleotide deletion (del642T), a G158R amino acid substitution, a splice junction mutation (IVS3+1G>A), and the insertion of a cytosine (217_218insC) occurring at a CCCC motif. This is the first report of a single-nucleotide insertion in the coding sequence of the SRD5A2 gene. In addition to these new mutations, this investigation reveals the prevalence of G183S substitution among a subset of African-Brazilian patients and presents evidences of the recurrence of already known mutations.
+15770495	58	66	patients	OrganismTaxon	9606
+15770495	72	114	steroid 5alpha-reductase deficiency type 2	DiseaseOrPhenotypicFeature	C535830
+15770495	133	164	steroid 5alpha-reductase type 2	GeneOrGeneProduct	6716
+15770495	166	172	SRD5A2	GeneOrGeneProduct	6716
+15770495	339	345	SRD5A2	GeneOrGeneProduct	6716
+15770495	473	481	patients	OrganismTaxon	9606
+15770495	497	539	steroid 5alpha-reductase type 2 deficiency	DiseaseOrPhenotypicFeature	C535830
+15770495	594	600	SRD5A2	GeneOrGeneProduct	6716
+15770495	672	680	patients	OrganismTaxon	9606
+15770495	686	691	G183S	SequenceVariant	rs121434247
+15770495	702	707	R246W	SequenceVariant	rs121434244
+15770495	718	725	del642T	SequenceVariant	c|DEL|642|T
+15770495	736	741	G196S	SequenceVariant	rs121434250
+15770495	756	767	217_218insC	SequenceVariant	c|INS|217_218|C
+15770495	777	781	A49T	SequenceVariant	rs9282858
+15770495	860	865	Q126R	SequenceVariant	rs368386747
+15770495	866	875	IVS3+1G>A	SequenceVariant	c|SUB|G|IVS3+1|A
+15770495	886	891	Q126R	SequenceVariant	rs368386747
+15770495	892	899	del418T	SequenceVariant	c|DEL|418|T
+15770495	923	928	Q126R	SequenceVariant	rs368386747
+15770495	929	934	G158R	SequenceVariant	p|SUB|G|158|R
+15770495	943	951	patients	OrganismTaxon	9606
+15770495	974	979	A207D	SequenceVariant	rs767564684
+15770495	981	986	G196S	SequenceVariant	rs121434250
+15770495	992	997	R266W	SequenceVariant	p|SUB|R|266|W
+15770495	1017	1021	V89L	SequenceVariant	rs523349
+15770495	1083	1088	A207D	SequenceVariant	rs767564684
+15770495	1150	1154	A49T	SequenceVariant	rs9282858
+15770495	1262	1270	patients	OrganismTaxon	9606
+15770495	1296	1302	SRD5A2	GeneOrGeneProduct	6716
+15770495	1349	1356	del642T	SequenceVariant	c|DEL|642|T
+15770495	1361	1366	G158R	SequenceVariant	p|SUB|G|158|R
+15770495	1420	1429	IVS3+1G>A	SequenceVariant	c|SUB|G|IVS3+1|A
+15770495	1465	1476	217_218insC	SequenceVariant	c|INS|217_218|C
+15770495	1593	1599	SRD5A2	GeneOrGeneProduct	6716
+15770495	1687	1692	G183S	SequenceVariant	rs121434247
+15770495	1742	1750	patients	OrganismTaxon	9606
+15770495	Association	6716	C535830	No
+15770495	Association	C535830	rs121434247	Novel
+15770495	Association	C535830	rs523349	Novel
+15770495	Association	C535830	p|SUB|R|266|W	Novel
+15770495	Association	C535830	rs767564684	Novel
+15770495	Association	C535830	p|SUB|G|158|R	Novel
+15770495	Association	C535830	c|DEL|418|T	Novel
+15770495	Association	C535830	c|SUB|G|IVS3+1|A	Novel
+15770495	Association	C535830	rs368386747	Novel
+15770495	Association	C535830	rs9282858	Novel
+15770495	Association	C535830	c|INS|217_218|C	Novel
+15770495	Association	C535830	rs121434250	Novel
+15770495	Association	C535830	c|DEL|642|T	Novel
+15770495	Association	C535830	rs121434244	Novel

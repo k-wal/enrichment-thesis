@@ -1,0 +1,46 @@
+16330669|t|Array-based comparative genomic hybridization analysis reveals recurrent chromosomal alterations and prognostic parameters in primary cutaneous large B-cell lymphoma.
+16330669|a|PURPOSE: To evaluate the clinical relevance of genomic aberrations in primary cutaneous large B-cell lymphoma (PCLBCL). PATIENTS AND METHODS: Skin biopsy samples of 31 patients with a PCLBCL classified as either primary cutaneous follicle center lymphoma (PCFCL; n = 19) or PCLBCL, leg type (n = 12), according to the WHO-European Organisation for Research and Treatment of Cancer (EORTC) classification, were investigated using array-based comparative genomic hybridization, fluorescence in situ hybridization (FISH), and examination of promoter hypermethylation. RESULTS: The most recurrent alterations in PCFCL were high-level DNA amplifications at 2p16.1 (63%) and deletion of chromosome 14q32.33 (68%). FISH analysis confirmed c-REL amplification in patients with gains at 2p16.1. In PCLBCL, leg type, most prominent aberrations were a high-level DNA amplification of 18q21.31-q21.33 (67%), including the BCL-2 and MALT1 genes as confirmed by FISH, and deletions of a small region within 9p21.3 containing the CDKN2A, CDKN2B, and NSG-x genes. Homozygous deletion of 9p21.3 was detected in five of 12 patients with PCLBCL, leg type, but in zero of 19 patients with PCFCL. Complete methylation of the promoter region of the CDKN2A gene was demonstrated in one PCLBCL, leg type, patient with hemizygous deletion, in one patient without deletion, but in zero of 19 patients with PCFCL. Seven of seven PCLBCL, leg type, patients with deletion of 9p21.3 and/or complete methylation of CDKN2A died as a result of their lymphoma. CONCLUSION: Our results demonstrate prominent differences in chromosomal alterations between PCFCL and PCLBCL, leg type, that support their classification as separate entities within the WHO-EORTC scheme. Inactivation of CDKN2A by either deletion or methylation of its promoter could be an important prognostic parameter for the group of PCLBCL, leg type.
+16330669	126	165	primary cutaneous large B-cell lymphoma	DiseaseOrPhenotypicFeature	D016403
+16330669	237	276	primary cutaneous large B-cell lymphoma	DiseaseOrPhenotypicFeature	D016403
+16330669	278	284	PCLBCL	DiseaseOrPhenotypicFeature	D016403
+16330669	287	295	PATIENTS	OrganismTaxon	9606
+16330669	335	343	patients	OrganismTaxon	9606
+16330669	351	357	PCLBCL	DiseaseOrPhenotypicFeature	D016403
+16330669	379	421	primary cutaneous follicle center lymphoma	DiseaseOrPhenotypicFeature	D008224
+16330669	423	428	PCFCL	DiseaseOrPhenotypicFeature	D008224
+16330669	441	447	PCLBCL	DiseaseOrPhenotypicFeature	D016403
+16330669	541	547	Cancer	DiseaseOrPhenotypicFeature	D009369
+16330669	775	780	PCFCL	DiseaseOrPhenotypicFeature	D008224
+16330669	899	904	c-REL	GeneOrGeneProduct	5966
+16330669	922	930	patients	OrganismTaxon	9606
+16330669	956	962	PCLBCL	DiseaseOrPhenotypicFeature	D016403
+16330669	1077	1082	BCL-2	GeneOrGeneProduct	596
+16330669	1087	1092	MALT1	GeneOrGeneProduct	10892
+16330669	1182	1188	CDKN2A	GeneOrGeneProduct	1029
+16330669	1190	1196	CDKN2B	GeneOrGeneProduct	1030
+16330669	1202	1207	NSG-x	GeneOrGeneProduct	27099
+16330669	1272	1280	patients	OrganismTaxon	9606
+16330669	1286	1292	PCLBCL	DiseaseOrPhenotypicFeature	D016403
+16330669	1322	1330	patients	OrganismTaxon	9606
+16330669	1336	1341	PCFCL	DiseaseOrPhenotypicFeature	D008224
+16330669	1394	1400	CDKN2A	GeneOrGeneProduct	1029
+16330669	1430	1436	PCLBCL	DiseaseOrPhenotypicFeature	D016403
+16330669	1448	1455	patient	OrganismTaxon	9606
+16330669	1489	1496	patient	OrganismTaxon	9606
+16330669	1533	1541	patients	OrganismTaxon	9606
+16330669	1547	1552	PCFCL	DiseaseOrPhenotypicFeature	D008224
+16330669	1569	1575	PCLBCL	DiseaseOrPhenotypicFeature	D016403
+16330669	1587	1595	patients	OrganismTaxon	9606
+16330669	1651	1657	CDKN2A	GeneOrGeneProduct	1029
+16330669	1684	1692	lymphoma	DiseaseOrPhenotypicFeature	D008223
+16330669	1787	1792	PCFCL	DiseaseOrPhenotypicFeature	D008224
+16330669	1797	1803	PCLBCL	DiseaseOrPhenotypicFeature	D016403
+16330669	1915	1921	CDKN2A	GeneOrGeneProduct	1029
+16330669	2032	2038	PCLBCL	DiseaseOrPhenotypicFeature	D016403
+16330669	Association	1029	D008223	Novel
+16330669	Association	D016403	27099	Novel
+16330669	Association	D016403	1030	Novel
+16330669	Association	D016403	1029	Novel
+16330669	Association	D016403	10892	Novel
+16330669	Association	D016403	596	Novel
+16330669	Association	D008224	5966	Novel

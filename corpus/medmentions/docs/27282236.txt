@@ -1,0 +1,66 @@
+27282236|t|Efficient patient modeling for visuo - haptic VR simulation using a generic patient atlas
+27282236|a|This work presents a new time-saving virtual patient modeling system by way of example for an existing visuo - haptic training and planning virtual reality (VR) system for percutaneous transhepatic cholangio-drainage (PTCD). Our modeling process is based on a generic patient atlas to start with. It is defined by organ - specific optimized models, method modules and parameters, i.e. mainly individual segmentation masks, transfer functions to fill the gaps between the masks and intensity image data. In this contribution, we show how generic patient atlases can be generalized to new patient data. The methodology consists of patient - specific, locally-adaptive transfer functions and dedicated modeling methods such as multi-atlas segmentation, vessel filtering and spline-modeling. Our full image volume segmentation algorithm yields median DICE coefficients of 0.98, 0.93, 0.82, 0.74, 0.51 and 0.48 regarding soft-tissue, liver, bone, skin, blood and bile vessels for ten test patients and three selected reference patients. Compared to standard slice-wise manual contouring time saving is remarkable. Our segmentation process shows out efficiency and robustness for upper abdominal puncture simulation systems. This marks a significant step toward establishing patient - specific training and hands-on planning systems in a clinical environment.
+27282236	10	17	patient	T101	C0030705
+27282236	18	26	modeling	T062	C0870071
+27282236	31	36	visuo	T169	C0234621
+27282236	39	45	haptic	T042	C0871762
+27282236	46	59	VR simulation	T066	C0871582
+27282236	76	83	patient	T101	C0030705
+27282236	84	89	atlas	T073,T170	C0004171
+27282236	127	134	virtual	T066	C0871582
+27282236	135	142	patient	T101	C0030705
+27282236	143	158	modeling system	T062	C0870071
+27282236	193	198	visuo	T169	C0234621
+27282236	201	207	haptic	T042	C0871762
+27282236	208	216	training	T065	C0220931
+27282236	230	257	virtual reality (VR) system	T066	C0871582
+27282236	262	306	percutaneous transhepatic cholangio-drainage	T061	C1504490
+27282236	308	312	PTCD	T061	C1504490
+27282236	319	335	modeling process	T062	C0870071
+27282236	358	365	patient	T101	C0030705
+27282236	366	371	atlas	T073,T170	C0004171
+27282236	404	409	organ	T023	C0178784
+27282236	412	420	specific	T080	C0205369
+27282236	421	430	optimized	T052	C2698650
+27282236	431	437	models	T170	C3161035
+27282236	439	453	method modules	T170	C0025663
+27282236	458	468	parameters	T077	C0549193
+27282236	493	505	segmentation	T066	C2697664
+27282236	506	511	masks	T080	C2346471
+27282236	513	531	transfer functions	T066	C0024931
+27282236	544	548	gaps	T082	C3887622
+27282236	561	566	masks	T080	C2346471
+27282236	571	586	intensity image	T080	C2346471
+27282236	587	591	data	T078	C1511726
+27282236	635	642	patient	T101	C0030705
+27282236	643	650	atlases	T073,T170	C0004171
+27282236	677	689	patient data	T170	C2707520
+27282236	719	726	patient	T101	C0030705
+27282236	729	737	specific	T080	C0205369
+27282236	756	774	transfer functions	T066	C0024931
+27282236	789	805	modeling methods	T062	C0870071
+27282236	814	838	multi-atlas segmentation	T066	C2697664
+27282236	840	856	vessel filtering	T170	C0025663
+27282236	861	876	spline-modeling	T170	C0025663
+27282236	887	912	image volume segmentation	T066	C2697664
+27282236	913	922	algorithm	T170	C0002045
+27282236	930	954	median DICE coefficients	T081	C0392762
+27282236	1006	1017	soft-tissue	T024	C0225317
+27282236	1019	1024	liver	T023	C0023884
+27282236	1026	1030	bone	T024	C0005931
+27282236	1032	1036	skin	T022	C1123023
+27282236	1038	1043	blood	T023	C0005847
+27282236	1048	1060	bile vessels	T031	C0005388
+27282236	1074	1082	patients	T101	C0030705
+27282236	1112	1120	patients	T101	C0030705
+27282236	1143	1171	slice-wise manual contouring	T066	C2697664
+27282236	1203	1223	segmentation process	T066	C2697664
+27282236	1234	1244	efficiency	T081	C0013682
+27282236	1249	1259	robustness	T080	C2986815
+27282236	1270	1288	abdominal puncture	T037	C2089285
+27282236	1289	1307	simulation systems	T066	C0009609
+27282236	1322	1333	significant	T078	C0750502
+27282236	1359	1366	patient	T101	C0030705
+27282236	1369	1377	specific	T080	C0205369
+27282236	1378	1386	training	T065	C0220931
+27282236	1422	1442	clinical environment	T061	C0008971

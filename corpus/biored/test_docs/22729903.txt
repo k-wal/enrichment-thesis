@@ -1,0 +1,36 @@
+22729903|t|Contribution of STAT4 gene single-nucleotide polymorphism to systemic lupus erythematosus in the Polish population.
+22729903|a|The STAT4 has been found to be a susceptible gene in the development of systemic lupus erythematosus (SLE) in various populations. There are evident population differences in the context of clinical manifestations of SLE, therefore we investigated the prevalence of the STAT4 G > C (rs7582694) polymorphism in patients with SLE (n = 253) and controls (n = 521) in a sample of the Polish population. We found that patients with the STAT4 C/G and CC genotypes exhibited a 1.583-fold increased risk of SLE incidence (95 % CI = 1.168-2.145, p = 0.003), with OR for the C/C versus C/G and G/G genotypes was 1.967 (95 % CI = 1.152-3.358, p = 0.0119). The OR for the STAT4 C allele frequency showed a 1.539-fold increased risk of SLE (95 % CI = 1.209-1.959, p = 0.0004). We also observed an increased frequency of STAT4 C/C and C/G genotypes in SLE patients with renal symptoms OR = 2.259 (1.365-3.738, p = 0.0014), (p (corr) = 0.0238) and in SLE patients with neurologic manifestations OR = 2.867 (1.467-5.604, p = 0.0016), (p (corr) = 0.0272). Moreover, we found a contribution of STAT4 C/C and C/G genotypes to the presence of the anti-snRNP Ab OR = 3.237 (1.667-6.288, p = 0.0003), (p (corr) = 0.0051) and the presence of the anti-Scl-70 Ab OR = 2.665 (1.380-5.147, p = 0.0028), (p (corr) = 0.0476). Our studies confirmed an association of the STAT4 C (rs7582694) variant with the development of SLE and occurrence of some clinical manifestations of the disease.
+22729903	16	21	STAT4	GeneOrGeneProduct	6775
+22729903	61	89	systemic lupus erythematosus	DiseaseOrPhenotypicFeature	D008180
+22729903	120	125	STAT4	GeneOrGeneProduct	6775
+22729903	188	216	systemic lupus erythematosus	DiseaseOrPhenotypicFeature	D008180
+22729903	218	221	SLE	DiseaseOrPhenotypicFeature	D008180
+22729903	333	336	SLE	DiseaseOrPhenotypicFeature	D008180
+22729903	386	391	STAT4	GeneOrGeneProduct	6775
+22729903	392	397	G > C	SequenceVariant	rs7582694
+22729903	399	408	rs7582694	SequenceVariant	rs7582694
+22729903	426	434	patients	OrganismTaxon	9606
+22729903	440	443	SLE	DiseaseOrPhenotypicFeature	D008180
+22729903	529	537	patients	OrganismTaxon	9606
+22729903	547	552	STAT4	GeneOrGeneProduct	6775
+22729903	615	618	SLE	DiseaseOrPhenotypicFeature	D008180
+22729903	776	781	STAT4	GeneOrGeneProduct	6775
+22729903	839	842	SLE	DiseaseOrPhenotypicFeature	D008180
+22729903	923	928	STAT4	GeneOrGeneProduct	6775
+22729903	954	957	SLE	DiseaseOrPhenotypicFeature	D008180
+22729903	958	966	patients	OrganismTaxon	9606
+22729903	972	986	renal symptoms	DiseaseOrPhenotypicFeature	D007674
+22729903	1052	1055	SLE	DiseaseOrPhenotypicFeature	D008180
+22729903	1056	1064	patients	OrganismTaxon	9606
+22729903	1192	1197	STAT4	GeneOrGeneProduct	6775
+22729903	1248	1253	snRNP	GeneOrGeneProduct	57819
+22729903	1344	1350	Scl-70	GeneOrGeneProduct	7150
+22729903	1457	1462	STAT4	GeneOrGeneProduct	6775
+22729903	1466	1475	rs7582694	SequenceVariant	rs7582694
+22729903	1509	1512	SLE	DiseaseOrPhenotypicFeature	D008180
+22729903	Association	7150	6775	Novel
+22729903	Association	6775	57819	Novel
+22729903	Association	6775	D007674	Novel
+22729903	Positive_Correlation	rs7582694	D007674	Novel
+22729903	Association	D008180	6775	No
+22729903	Positive_Correlation	D008180	rs7582694	Novel

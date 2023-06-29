@@ -1,0 +1,61 @@
+26110643|t|Protein-Trap Insertional Mutagenesis Uncovers New Genes Involved in Zebrafish Skin Development, Including a Neuregulin 2a-Based ErbB Signaling Pathway Required during Median Fin Fold Morphogenesis.
+26110643|a|Skin disorders are widespread, but available treatments are limited. A more comprehensive understanding of skin development mechanisms will drive identification of new treatment targets and modalities. Here we report the Zebrafish Integument Project (ZIP), an expression-driven platform for identifying new skin genes and phenotypes in the vertebrate model Danio rerio (zebrafish). In vivo selection for skin-specific expression of gene-break transposon (GBT) mutant lines identified eleven new, revertible GBT alleles of genes involved in skin development. Eight genes--fras1, grip1, hmcn1, msxc, col4a4, ahnak, capn12, and nrg2a--had been described in an integumentary context to varying degrees, while arhgef25b, fkbp10b, and megf6a emerged as novel skin genes. Embryos homozygous for a GBT insertion within neuregulin 2a (nrg2a) revealed a novel requirement for a Neuregulin 2a (Nrg2a)-ErbB2/3-AKT signaling pathway governing the apicobasal organization of a subset of epidermal cells during median fin fold (MFF) morphogenesis. In nrg2a mutant larvae, the basal keratinocytes within the apical MFF, known as ridge cells, displayed reduced pAKT levels as well as reduced apical domains and exaggerated basolateral domains. Those defects compromised proper ridge cell elongation into a flattened epithelial morphology, resulting in thickened MFF edges. Pharmacological inhibition verified that Nrg2a signals through the ErbB receptor tyrosine kinase network. Moreover, knockdown of the epithelial polarity regulator and tumor suppressor lgl2 ameliorated the nrg2a mutant phenotype. Identifying Lgl2 as an antagonist of Nrg2a-ErbB signaling revealed a significantly earlier role for Lgl2 during epidermal morphogenesis than has been described to date. Furthermore, our findings demonstrated that successive, coordinated ridge cell shape changes drive apical MFF development, making MFF ridge cells a valuable model for investigating how the coordinated regulation of cell polarity and cell shape changes serves as a crucial mechanism of epithelial morphogenesis.
+26110643	8	12	Trap	GeneOrGeneProduct	436725
+26110643	68	77	Zebrafish	OrganismTaxon	7955
+26110643	108	121	Neuregulin 2a	GeneOrGeneProduct	100006951
+26110643	128	132	ErbB	GeneOrGeneProduct	386635,386966
+26110643	198	212	Skin disorders	DiseaseOrPhenotypicFeature	D012871
+26110643	419	428	Zebrafish	OrganismTaxon	7955
+26110643	555	566	Danio rerio	OrganismTaxon	7955
+26110643	568	577	zebrafish	OrganismTaxon	7955
+26110643	769	774	fras1	GeneOrGeneProduct	563428
+26110643	776	781	grip1	GeneOrGeneProduct	558006
+26110643	783	788	hmcn1	GeneOrGeneProduct	559150
+26110643	790	794	msxc	GeneOrGeneProduct	30526
+26110643	796	802	col4a4	GeneOrGeneProduct	554270
+26110643	804	809	ahnak	GeneOrGeneProduct	559276
+26110643	811	817	capn12	GeneOrGeneProduct	799247
+26110643	823	828	nrg2a	GeneOrGeneProduct	100006951
+26110643	903	912	arhgef25b	GeneOrGeneProduct	569561
+26110643	914	921	fkbp10b	GeneOrGeneProduct	324381
+26110643	927	933	megf6a	GeneOrGeneProduct	565108
+26110643	1009	1022	neuregulin 2a	GeneOrGeneProduct	100006951
+26110643	1024	1029	nrg2a	GeneOrGeneProduct	100006951
+26110643	1066	1079	Neuregulin 2a	GeneOrGeneProduct	100006951
+26110643	1081	1086	Nrg2a	GeneOrGeneProduct	100006951
+26110643	1088	1095	ErbB2/3	GeneOrGeneProduct	386635,386966
+26110643	1096	1099	AKT	GeneOrGeneProduct	101910198
+26110643	1234	1239	nrg2a	GeneOrGeneProduct	100006951
+26110643	1343	1346	AKT	GeneOrGeneProduct	101910198
+26110643	1595	1600	Nrg2a	GeneOrGeneProduct	100006951
+26110643	1621	1650	ErbB receptor tyrosine kinase	GeneOrGeneProduct	386635,386966
+26110643	1721	1726	tumor	DiseaseOrPhenotypicFeature	D009369
+26110643	1738	1742	lgl2	GeneOrGeneProduct	795670
+26110643	1759	1764	nrg2a	GeneOrGeneProduct	100006951
+26110643	1795	1799	Lgl2	GeneOrGeneProduct	795670
+26110643	1820	1825	Nrg2a	GeneOrGeneProduct	100006951
+26110643	1826	1830	ErbB	GeneOrGeneProduct	386635,386966
+26110643	1883	1887	Lgl2	GeneOrGeneProduct	795670
+26110643	Negative_Correlation	795670	386966	Novel
+26110643	Negative_Correlation	795670	386635	Novel
+26110643	Negative_Correlation	795670	100006951	Novel
+26110643	Negative_Correlation	D009369	795670	No
+26110643	Association	D012871	558006	No
+26110643	Association	D012871	563428	No
+26110643	Association	D012871	565108	Novel
+26110643	Association	D012871	324381	Novel
+26110643	Association	D012871	569561	Novel
+26110643	Association	D012871	799247	No
+26110643	Association	D012871	559276	No
+26110643	Association	D012871	554270	No
+26110643	Association	D012871	30526	No
+26110643	Association	D012871	559150	No
+26110643	Association	D012871	100006951	No
+26110643	Association	386966	101910198	Novel
+26110643	Association	386635	101910198	Novel
+26110643	Association	100006951	101910198	Novel
+26110643	Association	100006951	386966	Novel
+26110643	Association	100006951	386635	Novel
+26110643	Association	436725	386966	No
+26110643	Association	436725	386635	No
+26110643	Association	436725	100006951	No

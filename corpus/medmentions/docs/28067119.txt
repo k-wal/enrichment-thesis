@@ -1,0 +1,110 @@
+28067119|t|Efficacy and safety of " unboosting " atazanavir in a randomized controlled trial among HIV-infected patients receiving tenofovir DF
+28067119|a|To assess safety and efficacy of a switch to unboosted atazanavir (ATV) among HIV-infected adults receiving ATV / ritonavir (r) and tenofovir disoproxil fumarate (TDF). HIV-infected adults with viral load (VL) <40 copies/mL at screening and <150 copies/mL consistently for ≥3 months while receiving a regimen including ATV /r and TDF were randomized to continue ATV / r 300/100 mg daily (control) or change to ATV 400 mg daily (switch), while maintaining their TDF backbone. The primary outcome was proportion of subjects without treatment failure (regimen switch or VL > 200 copies/mL twice consecutively) at 48 weeks. Fifty participants (46 male, median age 47 years) were randomized, 25 to each arm. At week 48, treatment success occurred in 76% in the control arm and 92% in the switch arm (ITT, p = 0.25). ATV trough levels at week 9 were higher in controls (median 438 ng/mL) than in the switch arm (median 124 ng/mL) (p = 0.003), as was total bilirubin at week 48 (median 38 μmol/L and 28 μmol/L, respectively; p = 0.02). Estimated glomerular filtration rate (eGFR) decreased in the control arm (p = 0.007), but did not change in the switch arm. At week 48, eGFR was higher in the switch arm (median 96 mL/min) than in the control arm (median 85 mL/min) (p = 0.035), but the arms were similar with respect to fasting glucose, C-reactive protein, and lipid parameters. Switching from ATV / r to unboosted ATV appears to be safe and effective in selected virologically suppressed patients receiving TDF -containing regimens, and may have favorable effects on bilirubin and renal function.
+28067119	0	8	Efficacy	T062	C1707887
+28067119	13	19	safety	T062	C1705187
+28067119	25	35	unboosting	T169	C0205245
+28067119	38	48	atazanavir	T109,T121	C1145759
+28067119	54	81	randomized controlled trial	T062	C0206035
+28067119	88	100	HIV-infected	T047	C0019693
+28067119	101	109	patients	T101	C0030705
+28067119	110	119	receiving	T080	C1514756
+28067119	120	132	tenofovir DF	T114,T121	C1099776
+28067119	136	142	assess	T052	C1516048
+28067119	143	149	safety	T068	C0036043
+28067119	154	162	efficacy	T080	C1280519
+28067119	168	174	switch	T169	C0392747
+28067119	178	187	unboosted	T169	C0205245
+28067119	188	198	atazanavir	T109,T121	C1145759
+28067119	200	203	ATV	T109,T121	C1145759
+28067119	211	223	HIV-infected	T047	C0019693
+28067119	224	230	adults	T100	C0001675
+28067119	231	240	receiving	T080	C1514756
+28067119	241	244	ATV	T109,T121	C1145759
+28067119	247	256	ritonavir	T109,T121	C0292818
+28067119	258	259	r	T109,T121	C0292818
+28067119	265	294	tenofovir disoproxil fumarate	T114,T121	C1099776
+28067119	296	299	TDF	T114,T121	C1099776
+28067119	302	314	HIV-infected	T047	C0019693
+28067119	315	321	adults	T100	C0001675
+28067119	327	337	viral load	T059	C1168369
+28067119	339	341	VL	T059	C1168369
+28067119	360	369	screening	T058	C0220908
+28067119	409	415	months	T079	C0439231
+28067119	422	431	receiving	T080	C1514756
+28067119	434	441	regimen	T061	C0040808
+28067119	452	455	ATV	T109,T121	C1145759
+28067119	463	466	TDF	T114,T121	C1099776
+28067119	472	482	randomized	T062	C0034656
+28067119	495	498	ATV	T109,T121	C1145759
+28067119	501	502	r	T109,T121	C0292818
+28067119	514	519	daily	T079	C0332173
+28067119	543	546	ATV	T109,T121	C1145759
+28067119	554	559	daily	T079	C0332173
+28067119	561	567	switch	T169	C0392747
+28067119	594	597	TDF	T114,T121	C1099776
+28067119	612	627	primary outcome	T080	C3274433
+28067119	632	642	proportion	T081	C1709707
+28067119	646	654	subjects	T098	C0080105
+28067119	655	662	without	T080	C0332288
+28067119	663	680	treatment failure	T033	C0162643
+28067119	682	689	regimen	T061	C0040808
+28067119	690	696	switch	T169	C0392747
+28067119	725	738	consecutively	T080	C1707491
+28067119	746	751	weeks	T079	C0439230
+28067119	759	771	participants	T098	C0679646
+28067119	776	780	male	T032	C0086582
+28067119	782	792	median age	T079	C0026062
+28067119	796	801	years	T079	C0439234
+28067119	808	818	randomized	T062	C0034656
+28067119	826	834	each arm	T078	C0441833
+28067119	839	843	week	T079	C0439230
+28067119	848	865	treatment success	T080	C0679864
+28067119	866	874	occurred	T052	C1709305
+28067119	889	900	control arm	T096	C0009932
+28067119	916	926	switch arm	T078	C0441833
+28067119	944	947	ATV	T109,T121	C1145759
+28067119	955	961	levels	T080	C0441889
+28067119	965	969	week	T079	C0439230
+28067119	977	983	higher	T080	C0205250
+28067119	987	995	controls	T096	C0009932
+28067119	997	1003	median	T082	C0549183
+28067119	1027	1037	switch arm	T078	C0441833
+28067119	1039	1045	median	T082	C0549183
+28067119	1083	1092	bilirubin	T109,T123	C0005437
+28067119	1096	1100	week	T079	C0439230
+28067119	1105	1111	median	T082	C0549183
+28067119	1162	1198	Estimated glomerular filtration rate	T059	C3811844
+28067119	1200	1204	eGFR	T059	C3811844
+28067119	1206	1215	decreased	T081	C0205216
+28067119	1223	1234	control arm	T096	C0009932
+28067119	1256	1266	not change	T033	C0442739
+28067119	1274	1284	switch arm	T078	C0441833
+28067119	1289	1293	week	T079	C0439230
+28067119	1298	1302	eGFR	T059	C3811844
+28067119	1307	1313	higher	T080	C0205250
+28067119	1321	1331	switch arm	T078	C0441833
+28067119	1333	1339	median	T082	C0549183
+28067119	1363	1374	control arm	T096	C0009932
+28067119	1376	1382	median	T082	C0549183
+28067119	1415	1419	arms	T078	C0441833
+28067119	1449	1464	fasting glucose	T059	C0202045
+28067119	1466	1484	C-reactive protein	T116,T129	C0006560
+28067119	1490	1495	lipid	T109	C0023779
+28067119	1496	1506	parameters	T077	C0549193
+28067119	1508	1517	Switching	T169	C0392747
+28067119	1523	1526	ATV	T109,T121	C1145759
+28067119	1529	1530	r	T109,T121	C0292818
+28067119	1534	1543	unboosted	T169	C0205245
+28067119	1544	1547	ATV	T109,T121	C1145759
+28067119	1548	1555	appears	T080	C0700364
+28067119	1562	1566	safe	T068	C0036043
+28067119	1571	1580	effective	T080	C1704419
+28067119	1593	1606	virologically	T169	C0205466
+28067119	1607	1617	suppressed	T169	C1260953
+28067119	1618	1626	patients	T101	C0030705
+28067119	1627	1636	receiving	T080	C1514756
+28067119	1637	1640	TDF	T114,T121	C1099776
+28067119	1653	1661	regimens	T061	C0040808
+28067119	1686	1693	effects	T080	C1280500
+28067119	1697	1706	bilirubin	T109,T123	C0005437
+28067119	1711	1725	renal function	T042	C0232804

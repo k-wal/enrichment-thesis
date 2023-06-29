@@ -1,0 +1,33 @@
+27723749|t|SF2312 is a natural phosphonate inhibitor of enolase
+27723749|a|Despite being crucial for energy generation in most forms of life, few if any microbial antibiotics specifically inhibit glycolysis. To develop a specific inhibitor of the glycolytic enzyme enolase 2 (ENO2) for the treatment of cancers with deletion of ENO1 (encoding enolase 1), we modeled the synthetic tool compound inhibitor phosphonoacetohydroxamate (PhAH) into the active site of human ENO2. A ring-stabilized analog of PhAH, in which the hydroxamic nitrogen is linked to Cα by an ethylene bridge, was predicted to increase binding affinity by stabilizing the inhibitor in a bound conformation. Unexpectedly, a structure-based search revealed that our hypothesized backbone-stabilized PhAH bears strong similarity to SF2312, a phosphonate antibiotic of unknown mode of action produced by the actinomycete Micromonospora, which is active under anaerobic conditions. Here, we present multiple lines of evidence, including a novel X-ray structure, that SF2312 is a highly potent, low - nanomolar inhibitor of enolase.
+27723749	0	6	SF2312	T103	UMLS:C0003232
+27723749	20	31	phosphonate	T103	UMLS:C0260127
+27723749	45	52	enolase	T103	UMLS:C0031691
+27723749	79	96	energy generation	T038	UMLS:C2263100
+27723749	141	152	antibiotics	T103	UMLS:C0003232
+27723749	174	184	glycolysis	T038	UMLS:C0017952
+27723749	225	235	glycolytic	T038	UMLS:C0017952
+27723749	236	252	enzyme enolase 2	T058	UMLS:C0202144
+27723749	254	258	ENO2	T058	UMLS:C0202144
+27723749	281	288	cancers	T038	UMLS:C0006826
+27723749	294	302	deletion	T038	UMLS:C0017260
+27723749	306	310	ENO1	T017	UMLS:C1414402
+27723749	321	330	enolase 1	T103	UMLS:C2364020
+27723749	382	407	phosphonoacetohydroxamate	T103	UMLS:C0255101
+27723749	409	413	PhAH	T103	UMLS:C0255101
+27723749	439	444	human	T204	UMLS:C0086418
+27723749	445	449	ENO2	T058	UMLS:C0202144
+27723749	453	475	ring-stabilized analog	T103	UMLS:C0243071
+27723749	479	483	PhAH	T103	UMLS:C0255101
+27723749	603	614	stabilizing	T033	UMLS:C0184512
+27723749	634	652	bound conformation	T082	UMLS:C0026377
+27723749	724	743	backbone-stabilized	T033	UMLS:C0184512
+27723749	744	748	PhAH	T103	UMLS:C0255101
+27723749	776	782	SF2312	T103	UMLS:C0003232
+27723749	786	797	phosphonate	T103	UMLS:C0260127
+27723749	798	808	antibiotic	T103	UMLS:C0003232
+27723749	851	863	actinomycete	T007	UMLS:C0600148
+27723749	864	878	Micromonospora	T007	UMLS:C0025996
+27723749	987	992	X-ray	T058	UMLS:C0206755
+27723749	1009	1015	SF2312	T103	UMLS:C0003232
+27723749	1065	1072	enolase	T103	UMLS:C0031691

@@ -1,0 +1,86 @@
+16786513|t|McArdle disease: the mutation spectrum of PYGM in a large Italian cohort.
+16786513|a|Deficiency of the muscle isozyme of glycogen phosphorylase is causative of McArdle disease or Glycogen storage disease type V (GSD-V), the most common autosomal recessive disorder of glycogen metabolism. The typical clinical presentation is characterized by exercise intolerance with cramps, and recurrent myoglobinuria. To date, 46 mutations in the PYGM gene have been detected in GSD-V patients. We report the mutational spectrum in 68 Italian patients. We identified 30 different mutations in the PYGM gene, including 19 mutations that have not been reported previously. The novel mutations include: eight missense mutations (c.475G>A, p.G159R; c.689C>G, p.P230R; c.1094C>T, p.A365E; c.1151C>A, p.A384D; c.1182C>T, p.R428C; c.1471C>T, p.R491C; c.2444A>C, p.D815A; c.2477G>C, p.W826S), two nonsense mutations (c.1475G>A, p.W492X; c.1627A>T, p.K543X), five splice site mutations (c.855 +1G>C; c.1092 +1G>A; c. 1093-1G>T; c.1239 +1G>A; c.2380 +1G>A), and four deletions (c.715_717delGTC, p.V239del; c.304delA, p.N102DfsX4; c.1970_2177del, p.V657_G726; c.2113_2114delGG, p.G705RfsX16). Whereas we confirmed lack of direct correlation between the clinical phenotype and the genotype, we also found that the so-called 'common mutation' (p.R50X) accounted for about 43% of alleles in our cohort and that no population-related mutations are clearly identified in Italian patients.
+16786513	0	15	McArdle disease	DiseaseOrPhenotypicFeature	D006012
+16786513	42	46	PYGM	GeneOrGeneProduct	5837
+16786513	74	132	Deficiency of the muscle isozyme of glycogen phosphorylase	DiseaseOrPhenotypicFeature	D006012
+16786513	149	164	McArdle disease	DiseaseOrPhenotypicFeature	D006012
+16786513	168	199	Glycogen storage disease type V	DiseaseOrPhenotypicFeature	D006012
+16786513	201	206	GSD-V	DiseaseOrPhenotypicFeature	D006012
+16786513	225	253	autosomal recessive disorder	DiseaseOrPhenotypicFeature	D030342
+16786513	257	265	glycogen	ChemicalEntity	D006003
+16786513	358	364	cramps	DiseaseOrPhenotypicFeature	D009120
+16786513	380	393	myoglobinuria	DiseaseOrPhenotypicFeature	D009212
+16786513	424	428	PYGM	GeneOrGeneProduct	5837
+16786513	456	461	GSD-V	DiseaseOrPhenotypicFeature	D006012
+16786513	462	470	patients	OrganismTaxon	9606
+16786513	520	528	patients	OrganismTaxon	9606
+16786513	574	578	PYGM	GeneOrGeneProduct	5837
+16786513	703	711	c.475G>A	SequenceVariant	rs760654579
+16786513	713	720	p.G159R	SequenceVariant	rs760654579
+16786513	722	730	c.689C>G	SequenceVariant	c|SUB|C|689|G
+16786513	732	739	p.P230R	SequenceVariant	p|SUB|P|230|R
+16786513	741	750	c.1094C>T	SequenceVariant	c|SUB|C|1094|T
+16786513	752	759	p.A365E	SequenceVariant	p|SUB|A|365|E
+16786513	761	770	c.1151C>A	SequenceVariant	c|SUB|C|1151|A
+16786513	772	779	p.A384D	SequenceVariant	p|SUB|A|384|D
+16786513	781	791	c.1182C>T,	SequenceVariant	rs750700202
+16786513	792	799	p.R428C	SequenceVariant	rs750700202
+16786513	801	810	c.1471C>T	SequenceVariant	rs759977194
+16786513	812	819	p.R491C	SequenceVariant	rs759977194
+16786513	821	830	c.2444A>C	SequenceVariant	c|SUB|A|2444|C
+16786513	832	839	p.D815A	SequenceVariant	p|SUB|D|815|A
+16786513	841	850	c.2477G>C	SequenceVariant	c|SUB|G|2477|C
+16786513	852	859	p.W826S	SequenceVariant	p|SUB|W|826|S
+16786513	886	895	c.1475G>A	SequenceVariant	c|SUB|G|1475|A
+16786513	897	904	p.W492X	SequenceVariant	p|SUB|W|492|X
+16786513	906	915	c.1627A>T	SequenceVariant	c|SUB|A|1627|T
+16786513	917	924	p.K543X	SequenceVariant	p|SUB|K|543|X
+16786513	955	966	c.855 +1G>C	SequenceVariant	c|SUB|C|855+1|C
+16786513	968	980	c.1092 +1G>A	SequenceVariant	c|SUB|G|1092+1|A
+16786513	982	994	c. 1093-1G>T	SequenceVariant	c|SUB|G|1093-1|T
+16786513	996	1008	c.1239 +1G>A	SequenceVariant	c|SUB|G|1239+1|A
+16786513	1010	1022	c.2380 +1G>A	SequenceVariant	c|SUB|G|2380+1|A
+16786513	1045	1060	c.715_717delGTC	SequenceVariant	c|DEL|715_717|GTC
+16786513	1062	1071	p.V239del	SequenceVariant	p|DEL|239|V
+16786513	1073	1082	c.304delA	SequenceVariant	c|DEL|304|A
+16786513	1084	1095	p.N102DfsX4	SequenceVariant	p|FS|N|102|D|4
+16786513	1097	1111	c.1970_2177del	SequenceVariant	c|DEL|1970_2177|
+16786513	1113	1124	p.V657_G726	SequenceVariant	p|DEL|657_726|
+16786513	1126	1142	c.2113_2114delGG	SequenceVariant	c|DEL|2113_2114|GG
+16786513	1144	1156	p.G705RfsX16	SequenceVariant	p|FS|G|705|R|16
+16786513	1308	1314	p.R50X	SequenceVariant	rs116987552
+16786513	1440	1448	patients	OrganismTaxon	9606
+16786513	Association	D030342	D006003	No
+16786513	Association	rs116987552	D006012	Novel
+16786513	Association	D006012	D006003	No
+16786513	Association	D006012	p|DEL|657_726|	Novel
+16786513	Association	D006012	c|SUB|A|1627|T	Novel
+16786513	Association	D006012	c|SUB|G|1475|A	Novel
+16786513	Association	D006012	c|SUB|A|2444|C	Novel
+16786513	Association	D006012	c|SUB|G|2477|C	Novel
+16786513	Association	D006012	c|SUB|G|2380+1|A	Novel
+16786513	Association	D006012	c|SUB|G|1239+1|A	Novel
+16786513	Association	D006012	c|SUB|G|1093-1|T	Novel
+16786513	Association	D006012	c|SUB|G|1092+1|A	Novel
+16786513	Association	D006012	c|SUB|C|855+1|C	Novel
+16786513	Association	D006012	c|SUB|C|1151|A	Novel
+16786513	Association	D006012	c|SUB|C|1094|T	Novel
+16786513	Association	D006012	c|SUB|C|689|G	Novel
+16786513	Association	D006012	p|FS|G|705|R|16	Novel
+16786513	Association	D006012	c|DEL|2113_2114|GG	Novel
+16786513	Association	D006012	c|DEL|1970_2177|	Novel
+16786513	Association	D006012	p|FS|N|102|D|4	Novel
+16786513	Association	D006012	c|DEL|304|A	Novel
+16786513	Association	D006012	p|DEL|239|V	Novel
+16786513	Association	D006012	c|DEL|715_717|GTC	Novel
+16786513	Association	D006012	p|SUB|K|543|X	Novel
+16786513	Association	D006012	p|SUB|W|492|X	Novel
+16786513	Association	D006012	p|SUB|W|826|S	Novel
+16786513	Association	D006012	p|SUB|D|815|A	Novel
+16786513	Association	D006012	rs759977194	Novel
+16786513	Association	D006012	rs750700202	Novel
+16786513	Association	D006012	p|SUB|A|384|D	Novel
+16786513	Association	D006012	p|SUB|A|365|E	Novel
+16786513	Association	D006012	p|SUB|P|230|R	Novel
+16786513	Association	D006012	rs760654579	Novel
+16786513	Association	5837	D006012	Novel

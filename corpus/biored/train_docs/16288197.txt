@@ -1,0 +1,51 @@
+16288197|t|Genetic homogeneity for inherited congenital microcoria loci in an Asian Indian pedigree.
+16288197|a|PURPOSE: Congenital microcoria is a rare autosomal dominant developmental disorder of the iris associated with myopia and juvenile open angle glaucoma. Linkage to the chromosomal locus 13q31-q32 has previously been reported in a large French family. In the current study, a three generation Asian Indian family with 15 congenital microcoria (pupils with a diameter <2 mm) affected members was studied for linkage to candidate microsatellite markers at the 13q31-q32 locus. METHODS: Twenty-four members of the family were clinically examined and genomic DNA was extracted. Microsatellite markers at 13q31-q32 were PCR amplified and run on an ABI Prism 310 genetic analyzer and genotyped with the GeneScan analysis. Two point and multipoint linkage analyses were performed using the MLINK and SUPERLINK programs. RESULTS: Peak two point LOD scores of 3.5, 4.7, and 5.3 were found co-incident with consecutive markers D13S154, DCT, and D13S1280. Multipoint analysis revealed a 4 cM region encompassing D13S1300 to D13S1280 where the LOD remains just over 6.0 Thus we confirm localization of the congenital microcoria locus to chromosomal locus 13q31-q32. In addition, eight individuals who had both microcoria and glaucoma were screened for glaucoma genes: myocilin (MYOC), optineurin (OPTN) and CYP1B1. Using direct sequencing a point mutation (144 G>A) resulting in a Q48H substitution in exon 1 of the MYOC gene was observed in five of the eight glaucoma patients, but not in unaffected family members and 100 unrelated controls. CONCLUSIONS: We have confirmed the localization of the congenital microcoria locus (MCOR) to 13q31-q32 in a large Asian Indian family and conclude that current information suggests this is a single locus disorder and genetically homogeneous. When combined with the initial linkage paper our haplotype and linkage data map the MCOR locus to a 6-7 cM region between D13S265 and D13S1280. The DCT locus, a member of the tyrosinase family involved in pigmentation, maps within this region. Data presented here supports the hypothesis that congenital microcoria is a potential risk factor for glaucoma, although this observation is complicated by the partial segregation of MYOC Q48H (1q24.3-q25.2), a mutation known to be associated with glaucoma in India. Fine mapping and candidate gene analysis continues with the hope that characterizing the micocoria gene will lead to a better understanding of microcoria and glaucoma causation. The relationship between microcoria, glaucoma, and the MYOC Q48H mutation in this family is discussed.
+16288197	34	55	congenital microcoria	DiseaseOrPhenotypicFeature	C537550
+16288197	99	120	Congenital microcoria	DiseaseOrPhenotypicFeature	C537550
+16288197	131	184	autosomal dominant developmental disorder of the iris	DiseaseOrPhenotypicFeature	D007499
+16288197	201	207	myopia	DiseaseOrPhenotypicFeature	D009216
+16288197	212	240	juvenile open angle glaucoma	DiseaseOrPhenotypicFeature	D005902
+16288197	409	430	congenital microcoria	DiseaseOrPhenotypicFeature	C537550
+16288197	1014	1017	DCT	GeneOrGeneProduct	1638
+16288197	1182	1203	congenital microcoria	DiseaseOrPhenotypicFeature	C537550
+16288197	1286	1296	microcoria	DiseaseOrPhenotypicFeature	C537550
+16288197	1301	1309	glaucoma	DiseaseOrPhenotypicFeature	D005901
+16288197	1328	1336	glaucoma	DiseaseOrPhenotypicFeature	D005901
+16288197	1344	1352	myocilin	GeneOrGeneProduct	4653
+16288197	1354	1358	MYOC	GeneOrGeneProduct	4653
+16288197	1361	1371	optineurin	GeneOrGeneProduct	10133
+16288197	1373	1377	OPTN	GeneOrGeneProduct	10133
+16288197	1383	1389	CYP1B1	GeneOrGeneProduct	1545
+16288197	1433	1440	144 G>A	SequenceVariant	rs74315339
+16288197	1457	1461	Q48H	SequenceVariant	rs74315339
+16288197	1492	1496	MYOC	GeneOrGeneProduct	4653
+16288197	1536	1544	glaucoma	DiseaseOrPhenotypicFeature	D005901
+16288197	1545	1553	patients	OrganismTaxon	9606
+16288197	1675	1696	congenital microcoria	DiseaseOrPhenotypicFeature	C537550
+16288197	1704	1708	MCOR	GeneOrGeneProduct	8104
+16288197	1946	1950	MCOR	GeneOrGeneProduct	8104
+16288197	2010	2013	DCT	GeneOrGeneProduct	1638
+16288197	2037	2047	tyrosinase	GeneOrGeneProduct	7299
+16288197	2067	2079	pigmentation	DiseaseOrPhenotypicFeature	D010859
+16288197	2155	2176	congenital microcoria	DiseaseOrPhenotypicFeature	C537550
+16288197	2208	2216	glaucoma	DiseaseOrPhenotypicFeature	D005901
+16288197	2289	2293	MYOC	GeneOrGeneProduct	4653
+16288197	2294	2298	Q48H	SequenceVariant	rs74315339
+16288197	2354	2362	glaucoma	DiseaseOrPhenotypicFeature	D005901
+16288197	2462	2471	micocoria	GeneOrGeneProduct	8104
+16288197	2516	2526	microcoria	DiseaseOrPhenotypicFeature	C537550
+16288197	2531	2539	glaucoma	DiseaseOrPhenotypicFeature	D005901
+16288197	2576	2586	microcoria	DiseaseOrPhenotypicFeature	C537550
+16288197	2588	2596	glaucoma	DiseaseOrPhenotypicFeature	D005901
+16288197	2606	2610	MYOC	GeneOrGeneProduct	4653
+16288197	2611	2615	Q48H	SequenceVariant	rs74315339
+16288197	Association	1638	D010859	No
+16288197	Positive_Correlation	rs74315339	D005901	Novel
+16288197	Association	1545	D005901	No
+16288197	Association	10133	D005901	No
+16288197	Association	C537550	8104	No
+16288197	Association	C537550	rs74315339	Novel
+16288197	Association	C537550	1545	No
+16288197	Association	C537550	10133	No
+16288197	Association	C537550	4653	Novel
+16288197	Association	4653	D005901	No

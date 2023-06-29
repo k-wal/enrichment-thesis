@@ -1,0 +1,39 @@
+28221018|t|Low Efficiency Upconversion Nanoparticles for High-Resolution Coalignment of Near-Infrared and Visible Light Paths on a Light Microscope
+28221018|a|The combination of near-infrared (NIR) and visible wavelengths in light microscopy for biological studies is increasingly common. For example, many fields of biology are developing the use of NIR for optogenetics, in which an NIR laser induces a change in gene expression and/or protein function. One major technical barrier in working with both NIR and visible light on an optical microscope is obtaining their precise coalignment at the imaging plane position. Photon upconverting particles (UCPs) can bridge this gap as they are excited by NIR light but emit in the visible range via an anti-Stokes luminescence mechanism. Here, two different UCPs have been identified, high- efficiency micro (540)- UCPs and lower efficiency nano (545)- UCPs, that respond to NIR light and emit visible light with high photostability even at very high NIR power densities (>25 000 Suns). Both of these UCPs can be rapidly and reversibly excited by visible and NIR light and emit light at visible wavelengths detectable with standard emission settings used for Green Fluorescent Protein (GFP), a commonly used genetically encoded fluorophore. However, the high efficiency micro (540)- UCPs were suboptimal for NIR and visible light coalignment, due to their larger size and spatial broadening from particle -to- particle energy transfer consistent with a long-lived excited state and saturated power dependence. In contrast, the lower efficiency nano - UCPs were superior for precise coalignment of the NIR beam with the visible light path (∼2 μm versus ∼8 μm beam broadening, respectively) consistent with limited particle -to- particle energy transfer, superlinear power dependence for emission, and much smaller particle size. Furthermore, the nano - UCPs were superior to a traditional two- camera method for NIR and visible light path alignment in an in vivo Infrared-Laser-Evoked Gene Operator (IR-LEGO) optogenetics assay in the budding yeast Saccharomyces cerevisiae. In summary, nano - UCPs are powerful new tools for coaligning NIR and visible light paths on a light microscope.
+28221018	120	136	Light Microscope	T074	UMLS:C0491970
+28221018	203	219	light microscopy	T058	UMLS:C0430389
+28221018	224	242	biological studies	T058	UMLS:C0005507
+28221018	295	302	biology	T091	UMLS:C0005532
+28221018	337	349	optogenetics	T062	UMLS:C3494301
+28221018	393	408	gene expression	T038	UMLS:C0017262
+28221018	416	432	protein function	T038	UMLS:C1527118
+28221018	511	529	optical microscope	T058	UMLS:C0026018
+28221018	607	629	upconverting particles	T103	UMLS:C0597177
+28221018	631	635	UCPs	T103	UMLS:C0597177
+28221018	653	656	gap	T082	UMLS:C3887622
+28221018	783	787	UCPs	T103	UMLS:C0597177
+28221018	840	844	UCPs	T103	UMLS:C0597177
+28221018	878	882	UCPs	T103	UMLS:C0597177
+28221018	1026	1030	UCPs	T103	UMLS:C0597177
+28221018	1184	1209	Green Fluorescent Protein	T103	UMLS:C0120285
+28221018	1211	1214	GFP	T103	UMLS:C0120285
+28221018	1233	1252	genetically encoded	T038	UMLS:C0314627
+28221018	1308	1312	UCPs	T103	UMLS:C0597177
+28221018	1388	1392	size	T082	UMLS:C0456389
+28221018	1397	1415	spatial broadening	T082	UMLS:C0332464
+28221018	1421	1429	particle	T103	UMLS:C0597177
+28221018	1435	1443	particle	T103	UMLS:C0597177
+28221018	1444	1459	energy transfer	T038	UMLS:C0014274
+28221018	1489	1502	excited state	T033	UMLS:C3833702
+28221018	1576	1580	UCPs	T103	UMLS:C0597177
+28221018	1688	1698	broadening	T082	UMLS:C0332464
+28221018	1738	1746	particle	T103	UMLS:C0597177
+28221018	1752	1760	particle	T103	UMLS:C0597177
+28221018	1761	1776	energy transfer	T038	UMLS:C0014274
+28221018	1877	1881	UCPs	T103	UMLS:C0597177
+28221018	1918	1924	camera	T074	UMLS:C0179533
+28221018	1979	1986	in vivo	T082	UMLS:C1515655
+28221018	1987	2051	Infrared-Laser-Evoked Gene Operator (IR-LEGO) optogenetics assay	T062	UMLS:C3494301
+28221018	2073	2097	Saccharomyces cerevisiae	T204	UMLS:C0036025
+28221018	2118	2122	UCPs	T103	UMLS:C0597177
+28221018	2194	2210	light microscope	T074	UMLS:C0491970

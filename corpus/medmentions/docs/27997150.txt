@@ -1,0 +1,110 @@
+27997150|t|Nutrient Recovery and Emissions of Ammonia, Nitrous Oxide, and Methane from Animal Manure in Europe: Effects of Manure Treatment Technologies
+27997150|a|Animal manure contributes considerably to ammonia (NH3) and greenhouse gas (GHG) emissions in Europe. Various treatment technologies have been implemented to reduce emissions and to facilitate its use as fertilizer, but a systematic analysis of these technologies has not yet been carried out. This study presents an integrated assessment of manure treatment effects on NH3, nitrous oxide (N2O) and methane (CH4) emissions from manure management chains in all countries of EU-27 in 2010 using the MITERRA-Europe model. Effects of implementing 12 treatment technologies on emissions and nutrient recovery were further explored through scenario analyses; the level of implementation corresponded to levels currently achieved by forerunner countries. Manure treatment decreased GHG emissions from manures in EU countries by 0-17% in 2010, with the largest contribution from anaerobic digestion; the effects on NH3 emissions were small. Scenario analyses indicate that increased use of slurry acidification, thermal drying, incineration and pyrolysis may decrease NH3 (9-11%) and GHG (11-18%) emissions; nitrification - denitrification treatment decreased NH3 emissions, but increased GHG emissions. The nitrogen recovery (% of nitrogen excreted in housings that is applied to land) would increase from a mean of 57% (in 2010) to 61% by acidification, but would decrease to 48% by incineration. Promoting optimized manure treatment technologies can greatly contribute to achieving NH3 and GHG emission targets set in EU environmental policies.
+27997150	0	8	Nutrient	T168	C0678695
+27997150	9	17	Recovery	T052	C0237820
+27997150	22	31	Emissions	T033	C0243095
+27997150	35	42	Ammonia	T121,T197	C0002607
+27997150	44	57	Nitrous Oxide	T121,T123,T197	C0028215
+27997150	63	70	Methane	T109	C0025617
+27997150	76	82	Animal	T008	C0003062
+27997150	83	89	Manure	T167	C0024765
+27997150	93	99	Europe	T083	C0015176
+27997150	101	111	Effects of	T080	C1704420
+27997150	112	118	Manure	T167	C0024765
+27997150	119	128	Treatment	T052	C1709694
+27997150	129	141	Technologies	T169	C0449851
+27997150	142	148	Animal	T008	C0003062
+27997150	149	155	manure	T167	C0024765
+27997150	184	191	ammonia	T121,T197	C0002607
+27997150	193	196	NH3	T121,T197	C0002607
+27997150	202	216	greenhouse gas	T104	C0017110
+27997150	218	221	GHG	T104	C0017110
+27997150	223	232	emissions	T033	C0243095
+27997150	236	242	Europe	T083	C0015176
+27997150	252	261	treatment	T052	C1709694
+27997150	262	274	technologies	T169	C0449851
+27997150	300	306	reduce	T081	C0547047
+27997150	307	316	emissions	T033	C0243095
+27997150	346	356	fertilizer	T073,T131	C0015919
+27997150	364	383	systematic analysis	T062	C0936012
+27997150	393	405	technologies	T169	C0449851
+27997150	459	480	integrated assessment	T033	C0243095
+27997150	484	490	manure	T167	C0024765
+27997150	491	500	treatment	T052	C1709694
+27997150	501	508	effects	T080	C1280500
+27997150	512	515	NH3	T121,T197	C0002607
+27997150	517	530	nitrous oxide	T121,T123,T197	C0028215
+27997150	532	535	N2O	T121,T123,T197	C0028215
+27997150	541	548	methane	T109	C0025617
+27997150	550	553	CH4	T109	C0025617
+27997150	555	564	emissions	T033	C0243095
+27997150	570	576	manure	T167	C0024765
+27997150	577	594	management chains	T057	C1273870
+27997150	602	611	countries	T083	C0454664
+27997150	615	620	EU-27	T083	C0015176
+27997150	639	659	MITERRA-Europe model	T170	C3161035
+27997150	661	671	Effects of	T080	C1704420
+27997150	688	697	treatment	T052	C1709694
+27997150	698	710	technologies	T169	C0449851
+27997150	714	723	emissions	T033	C0243095
+27997150	728	736	nutrient	T168	C0678695
+27997150	737	745	recovery	T052	C0237820
+27997150	776	793	scenario analyses	T062	C0936012
+27997150	799	804	level	T080	C0441889
+27997150	808	822	implementation	T052	C1708476
+27997150	839	845	levels	T080	C0441889
+27997150	879	888	countries	T083	C0454664
+27997150	890	896	Manure	T167	C0024765
+27997150	897	906	treatment	T052	C1709694
+27997150	907	916	decreased	T081	C0205216
+27997150	917	920	GHG	T104	C0017110
+27997150	921	930	emissions	T033	C0243095
+27997150	936	943	manures	T167	C0024765
+27997150	947	949	EU	T083	C0015176
+27997150	950	959	countries	T083	C0454664
+27997150	987	994	largest	T081	C0443228
+27997150	995	1007	contribution	T052	C1880177
+27997150	1013	1032	anaerobic digestion	T038	C3714634
+27997150	1038	1045	effects	T080	C1280500
+27997150	1049	1052	NH3	T121,T197	C0002607
+27997150	1053	1062	emissions	T033	C0243095
+27997150	1075	1092	Scenario analyses	T062	C0936012
+27997150	1107	1116	increased	T081	C0205217
+27997150	1117	1123	use of	T169	C1524063
+27997150	1124	1130	slurry	T167	C1883043
+27997150	1131	1144	acidification	T067	C2987513
+27997150	1146	1153	thermal	T070	C0018837
+27997150	1154	1160	drying	T070	C0011682
+27997150	1162	1174	incineration	T068	C0206206
+27997150	1179	1188	pyrolysis	T067	C1254366
+27997150	1193	1201	decrease	T081	C0547047
+27997150	1202	1205	NH3	T121,T197	C0002607
+27997150	1218	1221	GHG	T104	C0017110
+27997150	1231	1240	emissions	T033	C0243095
+27997150	1242	1255	nitrification	T038	C0597069
+27997150	1258	1273	denitrification	T067	C0598972
+27997150	1274	1283	treatment	T052	C1709694
+27997150	1284	1293	decreased	T081	C0205216
+27997150	1294	1297	NH3	T121,T197	C0002607
+27997150	1298	1307	emissions	T033	C0243095
+27997150	1313	1322	increased	T081	C0205217
+27997150	1323	1326	GHG	T104	C0017110
+27997150	1327	1336	emissions	T033	C0243095
+27997150	1342	1350	nitrogen	T123,T196	C0028158
+27997150	1351	1359	recovery	T052	C0237820
+27997150	1361	1362	%	T081	C0439165
+27997150	1366	1374	nitrogen	T123,T196	C0028158
+27997150	1387	1395	housings	T073	C0020056
+27997150	1415	1419	land	T082	C0205146
+27997150	1427	1435	increase	T169	C0442805
+27997150	1475	1488	acidification	T067	C2987513
+27997150	1500	1508	decrease	T081	C0547047
+27997150	1519	1531	incineration	T068	C0206206
+27997150	1553	1559	manure	T167	C0024765
+27997150	1560	1569	treatment	T052	C1709694
+27997150	1570	1582	technologies	T169	C0449851
+27997150	1619	1622	NH3	T121,T197	C0002607
+27997150	1627	1630	GHG	T104	C0017110
+27997150	1631	1647	emission targets	T033	C0243095
+27997150	1655	1657	EU	T083	C0015176
+27997150	1658	1680	environmental policies	T064	C0282166

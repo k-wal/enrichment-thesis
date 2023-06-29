@@ -1,0 +1,92 @@
+28548970|t|Rinsing paired-agent model (RPAM) to quantify cell-surface receptor concentrations in topical staining applications of thick tissues
+28548970|a|Conventional molecular assessment of tissue through histology, if adapted to fresh thicker samples, has the potential to enhance cancer detection in surgical margins and monitoring of 3D cell culture molecular environments. However, in thicker samples, substantial background staining is common despite repeated rinsing, which can significantly reduce image contrast. Recently, ' paired-agent' methods -which employ co-administration of a control (untargeted) imaging agent -have been applied to thick - sample staining applications to account for background staining. To date, these methods have included (1) a simple ratiometric method that is relatively insensitive to noise in the data but has accuracy that is dependent on the staining protocol and the characteristics of the sample; and (2) a complex paired-agent kinetic modeling method that is more accurate but is more noise-sensitive and requires a precise serial rinsing protocol. Here, a new simplified mathematical model-the rinsing paired-agent model (RPAM)-is derived and tested that offers a good balance between the previous models, is adaptable to arbitrary rinsing-imaging protocols, and does not require calibration of the imaging system. RPAM is evaluated against previous models and is validated by comparison to estimated concentrations of targeted biomarkers on the surface of 3D cell culture and tumor xenograft models. This work supports the use of RPAM as a preferable model to quantitatively analyze targeted biomarker concentrations in topically stained thick tissues, as it was found to match the accuracy of the complex paired-agent kinetic model while retaining the low noise-sensitivity characteristics of the ratiometric method.
+28548970	0	26	Rinsing paired-agent model	T170	C0876936
+28548970	28	32	RPAM	T170	C0876936
+28548970	37	45	quantify	T081	C1709793
+28548970	46	67	cell-surface receptor	T116,T192	C0034800
+28548970	68	82	concentrations	T081	C1446561
+28548970	86	93	topical	T082	C0332237
+28548970	94	102	staining	T059	C0487602
+28548970	119	124	thick	T080	C1280412
+28548970	125	132	tissues	T024	C0040300
+28548970	133	145	Conventional	T080	C0439858
+28548970	146	166	molecular assessment	T058	C2985397
+28548970	170	176	tissue	T024	C0040300
+28548970	177	184	through	T169	C0332273
+28548970	185	194	histology	T059	C0344441
+28548970	210	231	fresh thicker samples	T031	C2827486
+28548970	241	250	potential	T080	C3245505
+28548970	254	261	enhance	T052	C2349975
+28548970	262	278	cancer detection	T058	C1516193
+28548970	282	298	surgical margins	T023	C0229985
+28548970	303	313	monitoring	T058	C1283169
+28548970	317	332	3D cell culture	T059	C0007585
+28548970	369	384	thicker samples	T077	C2347026
+28548970	398	417	background staining	T130	C0805222
+28548970	421	427	common	T081	C0205214
+28548970	436	444	repeated	T169	C0205341
+28548970	445	452	rinsing	T052	C1882955
+28548970	464	477	significantly	T078	C0750502
+28548970	478	484	reduce	T080	C0392756
+28548970	485	490	image	T170	C1704254
+28548970	491	499	contrast	T080	C1979874
+28548970	513	534	paired-agent' methods	T059	C0022885
+28548970	542	548	employ	T169	C0457083
+28548970	572	606	control (untargeted) imaging agent	T130	C1512628
+28548970	618	625	applied	T169	C4048755
+28548970	629	634	thick	T080	C1280412
+28548970	637	652	sample staining	T059	C0487602
+28548970	681	700	background staining	T130	C0805222
+28548970	717	724	methods	T060	C0021044
+28548970	752	770	ratiometric method	T169	C0242485
+28548970	790	810	insensitive to noise	T033	C0424315
+28548970	831	839	accuracy	T080	C0443131
+28548970	865	873	staining	T059	C0487602
+28548970	874	882	protocol	T170	C0442711
+28548970	891	906	characteristics	T080	C1521970
+28548970	914	920	sample	T167	C0370003
+28548970	932	976	complex paired-agent kinetic modeling method	T170	C2986731
+28548970	985	989	more	T081	C0205172
+28548970	990	998	accurate	T080	C0443131
+28548970	1006	1010	more	T081	C0205172
+28548970	1011	1026	noise-sensitive	T033	C3843207
+28548970	1098	1147	mathematical model-the rinsing paired-agent model	T170	C0876936
+28548970	1149	1153	RPAM	T170	C0876936
+28548970	1170	1176	tested	T169	C0039593
+28548970	1216	1224	previous	T079	C0205156
+28548970	1225	1231	models	T170	C3161035
+28548970	1249	1258	arbitrary	T080	C1264693
+28548970	1259	1284	rinsing-imaging protocols	T060	C1537000
+28548970	1307	1318	calibration	T081	C0006751
+28548970	1326	1340	imaging system	T073	C2697665
+28548970	1342	1346	RPAM	T170	C0876936
+28548970	1368	1376	previous	T079	C0205156
+28548970	1377	1383	models	T170	C3161035
+28548970	1404	1414	comparison	T052	C1707455
+28548970	1418	1427	estimated	T081	C0750572
+28548970	1428	1442	concentrations	T081	C1446561
+28548970	1446	1454	targeted	T169	C1521840
+28548970	1455	1465	biomarkers	T201	C0005516
+28548970	1473	1480	surface	T082	C0205148
+28548970	1484	1499	3D cell culture	T059	C0007585
+28548970	1504	1509	tumor	T191	C0027651
+28548970	1510	1526	xenograft models	T050	C1520166
+28548970	1551	1557	use of	T169	C1524063
+28548970	1558	1562	RPAM	T170	C0876936
+28548970	1579	1584	model	T170	C0876936
+28548970	1588	1610	quantitatively analyze	T081	C0034384
+28548970	1611	1619	targeted	T169	C1521840
+28548970	1620	1629	biomarker	T201	C0005516
+28548970	1630	1644	concentrations	T081	C1446561
+28548970	1648	1657	topically	T082	C0332237
+28548970	1658	1665	stained	T059	C0487602
+28548970	1666	1671	thick	T080	C1280412
+28548970	1672	1679	tissues	T024	C0040300
+28548970	1700	1705	match	T080	C1708943
+28548970	1710	1718	accuracy	T080	C0443131
+28548970	1734	1760	paired-agent kinetic model	T170	C2986731
+28548970	1767	1776	retaining	T169	C0333118
+28548970	1781	1784	low	T080	C0205251
+28548970	1785	1802	noise-sensitivity	T033	C3843207
+28548970	1803	1818	characteristics	T080	C1521970
+28548970	1826	1844	ratiometric method	T169	C0242485

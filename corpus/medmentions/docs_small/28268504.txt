@@ -1,0 +1,39 @@
+28268504|t|Hip segmentation from MRI volumes in infants for DDH diagnosis and treatment planning
+28268504|a|Diagnosis and surgical management of Developmental Dysplasia of the Hip (DDH) relies on physical examination and 2D ultrasound scanning. Magnetic Resonance Imaging (MRI) can be used to complement existing techniques and could be advantageous in treatment planning due to its larger field of view. In this paper we propose a semi-automatic method to segment surface models of the acetabulum from MRI images. The method incorporates clinical knowledge in the form of intensity priors which are integrated into a Random Walker (RW) formulation. We use a modified RW framework which compensates for incomplete or blurred boundaries in the image by using information from neighboring slices in the sequence incorporated as node weights. We conducted a pilot study to evaluate the segmentation on a set of 10 infant hip MRI sequences using a 1.5 Tesla MR scanner. Contours obtained from the semi-automated segmentation were compared against manually segmented hip contours using Dice Ratio (DR), Hausdorff Distance (HD) and Root Mean Square (RMS) distance. The proposed method gave values of (DR = 0.84 ± 0.5, HD =3.0 ± 0.7, RMS =1.9 ± 0.3) and (DR =0.86 ± 0.2, HD =3.0 ± 0.1, RMS = 2.0 ± 0.6) for right and left acetabular contours respectively which was higher than the corresponding values obtained from conventional RW segmentation. The execution time of the segmentation algorithm was less than ~4 seconds on a 3.5 GHz CPU.
+28268504	0	3	Hip	T017	UMLS:C0019552
+28268504	22	25	MRI	T058	UMLS:C0024485
+28268504	49	52	DDH	T017	UMLS:C0019555
+28268504	53	62	diagnosis	T033	UMLS:C0011900
+28268504	67	85	treatment planning	T170	UMLS:C0599880
+28268504	86	95	Diagnosis	T033	UMLS:C0011900
+28268504	100	119	surgical management	T058	UMLS:C1515089
+28268504	123	157	Developmental Dysplasia of the Hip	T017	UMLS:C0019555
+28268504	159	162	DDH	T017	UMLS:C0019555
+28268504	174	194	physical examination	T058	UMLS:C0031809
+28268504	202	221	ultrasound scanning	T058	UMLS:C0041618
+28268504	223	249	Magnetic Resonance Imaging	T058	UMLS:C0024485
+28268504	251	254	MRI	T058	UMLS:C0024485
+28268504	331	349	treatment planning	T170	UMLS:C0599880
+28268504	425	431	method	T170	UMLS:C0025663
+28268504	435	457	segment surface models	T170	UMLS:C3161035
+28268504	465	475	acetabulum	T017	UMLS:C0000962
+28268504	481	484	MRI	T058	UMLS:C0024485
+28268504	497	503	method	T170	UMLS:C0025663
+28268504	526	535	knowledge	T170	UMLS:C0376554
+28268504	551	567	intensity priors	T170	UMLS:C0876936
+28268504	596	626	Random Walker (RW) formulation	T170	UMLS:C0002045
+28268504	646	648	RW	T170	UMLS:C0002045
+28268504	703	713	boundaries	T170	UMLS:C2828371
+28268504	833	844	pilot study	T062	UMLS:C0031928
+28268504	848	856	evaluate	T058	UMLS:C0220825
+28268504	896	899	hip	T017	UMLS:C0019552
+28268504	900	903	MRI	T058	UMLS:C0024485
+28268504	932	942	MR scanner	T074	UMLS:C0183115
+28268504	944	952	Contours	T082	UMLS:C0876954
+28268504	1040	1043	hip	T017	UMLS:C0019552
+28268504	1044	1052	contours	T082	UMLS:C0876954
+28268504	1150	1156	method	T170	UMLS:C0025663
+28268504	1278	1283	right	T082	UMLS:C0834313
+28268504	1288	1312	left acetabular contours	T082	UMLS:C0834314
+28268504	1400	1402	RW	T170	UMLS:C0002045
+28268504	1456	1465	algorithm	T170	UMLS:C0002045

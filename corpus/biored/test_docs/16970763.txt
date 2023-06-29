@@ -1,0 +1,48 @@
+16970763|t|Mutations in the NDP gene: contribution to Norrie disease, familial exudative vitreoretinopathy and retinopathy of prematurity.
+16970763|a|BACKGROUND: To examine the contribution of mutations within the Norrie disease (NDP) gene to the clinically similar retinal diseases Norrie disease, X-linked familial exudative vitreoretinopathy (FEVR), Coat's disease and retinopathy of prematurity (ROP). METHODS: A dataset comprising 13 Norrie-FEVR, one Coat's disease, 31 ROP patients and 90 ex-premature babies of <32 weeks' gestation underwent an ophthalmologic examination and were screened for mutations within the NDP gene by direct DNA sequencing, denaturing high-performance liquid chromatography or gel electrophoresis. Controls were only screened using denaturing high-performance liquid chromatography and gel electrophoresis. Confirmation of mutations identified was obtained by DNA sequencing. RESULTS: Evidence for two novel mutations in the NDP gene was presented: Leu103Val in one FEVR patient and His43Arg in monozygotic twin Norrie disease patients. Furthermore, a previously described 14-bp deletion located in the 5' unstranslated region of the NDP gene was detected in three cases of regressed ROP. A second heterozygotic 14-bp deletion was detected in an unaffected ex-premature girl. Only two of the 13 Norrie-FEVR index cases had the full features of Norrie disease with deafness and mental retardation. CONCLUSION: Two novel mutations within the coding region of the NDP gene were found, one associated with a severe disease phenotypes of Norrie disease and the other with FEVR. A deletion within the non-coding region was associated with only mild-regressed ROP, despite the presence of low birthweight, prematurity and exposure to oxygen. In full-term children with retinal detachment only 15% appear to have the full features of Norrie disease and this is important for counselling parents on the possible long-term outcome.
+16970763	17	20	NDP	GeneOrGeneProduct	4693
+16970763	43	57	Norrie disease	DiseaseOrPhenotypicFeature	C537849
+16970763	59	95	familial exudative vitreoretinopathy	DiseaseOrPhenotypicFeature	D000080345
+16970763	100	126	retinopathy of prematurity	DiseaseOrPhenotypicFeature	D012178
+16970763	192	206	Norrie disease	DiseaseOrPhenotypicFeature	C537849
+16970763	208	211	NDP	GeneOrGeneProduct	4693
+16970763	244	275	retinal diseases Norrie disease	DiseaseOrPhenotypicFeature	C537849
+16970763	277	322	X-linked familial exudative vitreoretinopathy	DiseaseOrPhenotypicFeature	D000080345
+16970763	324	328	FEVR	DiseaseOrPhenotypicFeature	D000080345
+16970763	331	345	Coat's disease	DiseaseOrPhenotypicFeature	D058456
+16970763	350	376	retinopathy of prematurity	DiseaseOrPhenotypicFeature	D012178
+16970763	378	381	ROP	DiseaseOrPhenotypicFeature	D012178
+16970763	417	428	Norrie-FEVR	DiseaseOrPhenotypicFeature	C537849
+16970763	434	448	Coat's disease	DiseaseOrPhenotypicFeature	D058456
+16970763	453	456	ROP	DiseaseOrPhenotypicFeature	D012178
+16970763	457	465	patients	OrganismTaxon	9606
+16970763	600	603	NDP	GeneOrGeneProduct	4693
+16970763	936	939	NDP	GeneOrGeneProduct	4693
+16970763	960	969	Leu103Val	SequenceVariant	p|SUB|L|103|V
+16970763	977	981	FEVR	DiseaseOrPhenotypicFeature	D000080345
+16970763	982	989	patient	OrganismTaxon	9606
+16970763	994	1002	His43Arg	SequenceVariant	p|SUB|H|43|R
+16970763	1023	1037	Norrie disease	DiseaseOrPhenotypicFeature	C537849
+16970763	1038	1046	patients	OrganismTaxon	9606
+16970763	1084	1098	14-bp deletion	SequenceVariant	c|DEL||14
+16970763	1145	1148	NDP	GeneOrGeneProduct	4693
+16970763	1195	1198	ROP	DiseaseOrPhenotypicFeature	D012178
+16970763	1223	1237	14-bp deletion	SequenceVariant	c|DEL||14
+16970763	1306	1317	Norrie-FEVR	DiseaseOrPhenotypicFeature	C537849
+16970763	1355	1369	Norrie disease	DiseaseOrPhenotypicFeature	C537849
+16970763	1375	1383	deafness	DiseaseOrPhenotypicFeature	D003638
+16970763	1388	1406	mental retardation	DiseaseOrPhenotypicFeature	D008607
+16970763	1472	1475	NDP	GeneOrGeneProduct	4693
+16970763	1544	1558	Norrie disease	DiseaseOrPhenotypicFeature	C537849
+16970763	1578	1582	FEVR	DiseaseOrPhenotypicFeature	D000080345
+16970763	1664	1667	ROP	DiseaseOrPhenotypicFeature	D012178
+16970763	1710	1721	prematurity	DiseaseOrPhenotypicFeature	D007235
+16970763	1738	1744	oxygen	ChemicalEntity	D010100
+16970763	1773	1791	retinal detachment	DiseaseOrPhenotypicFeature	D012163
+16970763	1837	1851	Norrie disease	DiseaseOrPhenotypicFeature	C537849
+16970763	Association	c|DEL||14	D012178	Novel
+16970763	Association	p|SUB|H|43|R	C537849	Novel
+16970763	Association	p|SUB|L|103|V	D000080345	Novel
+16970763	Association	4693	D012178	Novel
+16970763	Association	4693	D000080345	Novel
+16970763	Association	4693	C537849	Novel

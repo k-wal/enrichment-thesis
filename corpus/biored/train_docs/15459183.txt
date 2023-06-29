@@ -1,0 +1,46 @@
+15459183|t|CD72 polymorphisms associated with alternative splicing modify susceptibility to human systemic lupus erythematosus through epistatic interaction with FCGR2B.
+15459183|a|We previously reported association of FCGR2B-Ile232Thr with systemic lupus erythematosus (SLE) in three Asian populations. Because polymorphism of CD72, another inhibitory receptor of B cells, was associated with murine SLE, we identified human CD72 polymorphisms, tested their association with SLE and examined genetic interaction with FCGR2B in the Japanese (160 SLE, 277 controls), Thais (87 SLE, 187 controls) and Caucasians (94 families containing SLE members). Four polymorphisms and six rare variations were detected. The former constituted two major haplotypes that contained one or two repeats of 13 nucleotides in intron 8 (designated as *1 and *2, respectively). Although association with susceptibility to SLE was not detected, the *1 allele was significantly associated with nephritis among the Japanese patients (P=0.024). RT-PCR identified a novel alternatively spliced (AS) transcript that was expressed at the protein level in COS-7 transfectants. The ratio of AS/common isoforms was strikingly increased in individuals with *2/*2 genotype when compared with *1/*1 (P=0.000038) or *1/*2 (P=0.0085) genotypes. Using the two Asian cohorts, significant association of FCGR2B-232Thr/Thr with SLE was observed only in the presence of CD72-*1/*1 genotype (OR 4.63, 95% CI 1.47-14.6, P=0.009 versus FCGR2B-232Ile/Ile plus CD72-*2/*2). Minigene assays demonstrated that the 13-nucleotide repeat and 4 bp deletion within the same haplotype of intron 8 could regulate alternative splicing. The AS isoform lacks exon 8, and is deduced to contain 49 amino acid changes in the membrane-distal portion of the extracellular domain, where considerable amino acid changes are known in CD72(c) allele associated with murine SLE. These results indicated that the presence of CD72-*2 allele decreases risk for human SLE conferred by FCGR2B-232Thr, possibly by increasing the AS isoform of CD72.
+15459183	0	4	CD72	GeneOrGeneProduct	971
+15459183	81	86	human	OrganismTaxon	9606
+15459183	87	115	systemic lupus erythematosus	DiseaseOrPhenotypicFeature	D008180
+15459183	151	157	FCGR2B	GeneOrGeneProduct	2213
+15459183	197	203	FCGR2B	GeneOrGeneProduct	2213
+15459183	204	213	Ile232Thr	SequenceVariant	rs1050501
+15459183	219	247	systemic lupus erythematosus	DiseaseOrPhenotypicFeature	D008180
+15459183	249	252	SLE	DiseaseOrPhenotypicFeature	D008180
+15459183	306	310	CD72	GeneOrGeneProduct	12517
+15459183	372	378	murine	OrganismTaxon	10090
+15459183	379	382	SLE	DiseaseOrPhenotypicFeature	D008180
+15459183	398	403	human	OrganismTaxon	9606
+15459183	404	408	CD72	GeneOrGeneProduct	971
+15459183	454	457	SLE	DiseaseOrPhenotypicFeature	D008180
+15459183	496	502	FCGR2B	GeneOrGeneProduct	2213
+15459183	524	527	SLE	DiseaseOrPhenotypicFeature	D008180
+15459183	554	557	SLE	DiseaseOrPhenotypicFeature	D008180
+15459183	612	615	SLE	DiseaseOrPhenotypicFeature	D008180
+15459183	877	880	SLE	DiseaseOrPhenotypicFeature	D008180
+15459183	947	956	nephritis	DiseaseOrPhenotypicFeature	D009393
+15459183	976	984	patients	OrganismTaxon	9606
+15459183	1103	1108	COS-7	CellLine	CVCL_0224
+15459183	1341	1347	FCGR2B	GeneOrGeneProduct	2213
+15459183	1348	1354	232Thr	SequenceVariant	rs1050501
+15459183	1364	1367	SLE	DiseaseOrPhenotypicFeature	D008180
+15459183	1405	1409	CD72	GeneOrGeneProduct	971
+15459183	1468	1474	FCGR2B	GeneOrGeneProduct	2213
+15459183	1475	1481	232Ile	SequenceVariant	rs1050501
+15459183	1491	1495	CD72	GeneOrGeneProduct	971
+15459183	1844	1848	CD72	GeneOrGeneProduct	12517
+15459183	1875	1881	murine	OrganismTaxon	10090
+15459183	1882	1885	SLE	DiseaseOrPhenotypicFeature	D008180
+15459183	1932	1936	CD72	GeneOrGeneProduct	971
+15459183	1966	1971	human	OrganismTaxon	9606
+15459183	1972	1975	SLE	DiseaseOrPhenotypicFeature	D008180
+15459183	1989	1995	FCGR2B	GeneOrGeneProduct	2213
+15459183	1996	2002	232Thr	SequenceVariant	rs1050501
+15459183	2045	2049	CD72	GeneOrGeneProduct	971
+15459183	Positive_Correlation	rs1050501	D008180	Novel
+15459183	Association	D009393	971	Novel
+15459183	Association	2213	D008180	Novel
+15459183	Association	971	2213	Novel
+15459183	Association	D008180	971	Novel
+15459183	Association	12517	D008180	No

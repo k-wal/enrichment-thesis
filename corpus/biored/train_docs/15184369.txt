@@ -1,0 +1,45 @@
+15184369|t|Ca2+ dependence of the Ca2+-selective TRPV6 channel.
+15184369|a|Microfluorimetry and patch-clamp experiments were performed on TRPV6-expressing HEK cells to determine whether this Ca(2+)-sensing Ca(2+) channel is constitutively active. Intact cells loaded with fura-2 had an elevated intracellular free Ca(2+) concentration ((i)), which decreased to the same level such as in non-transfected cells if external Ca(2+) was chelated by EGTA. Whole cell recordings from non-transfected HEK cells and cells expressing human TRPV6 revealed the presence of a basal inward current in both types of cells when the internal solution contained 0.1 mm EGTA and 100 nm (i) or if the cytosolic Ca(2+) buffering remained undisturbed in perforated patch-clamp experiments. If recombinantly expressed TRPV6 forms open channels, one would expect Ca(2+)-induced current inhibition, because TRPV6 is negatively regulated by internal Ca(2+). However, dialyzing solutions with high  such as 1 microm into TRPV6-expressing cells did not block the basal inward current, which was not different from the recordings from non-transfected cells. In contrast, dialyzing 0.5 mm EGTA into TRPV6-expressing cells readily activated Ca(2+) inward currents, which were undetectable in non-transfected cells. Interestingly, monovalent cations permeated the TRPV6 channels under conditions where no Ca(2+) permeation was detectable, indicating that divalent cations block TRPV6 channels from the extracellular side. Like human TRPV6, the truncated human TRPV6(Delta695-725), which lacks the C-terminal domain required for Ca(2+)-calmodulin binding, does not form constitutive active channels, whereas the human TRPV6(D542A), carrying a point mutation in the presumed pore region, does not function as a channel. In summary, no constitutive open TRPV6 channels were detected in patch-clamp experiments from transfected HEK cells. However, channel activity is highly regulated by intracellular and extracellular divalent cations.
+15184369	0	4	Ca2+	ChemicalEntity	D002118
+15184369	23	27	Ca2+	ChemicalEntity	D002118
+15184369	38	43	TRPV6	GeneOrGeneProduct	55503
+15184369	116	121	TRPV6	GeneOrGeneProduct	55503
+15184369	133	136	HEK	CellLine	CVCL_M624
+15184369	169	175	Ca(2+)	ChemicalEntity	D002118
+15184369	184	190	Ca(2+)	ChemicalEntity	D002118
+15184369	250	256	fura-2	ChemicalEntity	D016257
+15184369	292	298	Ca(2+)	ChemicalEntity	D002118
+15184369	399	405	Ca(2+)	ChemicalEntity	D002118
+15184369	422	426	EGTA	ChemicalEntity	D004533
+15184369	471	474	HEK	CellLine	CVCL_M624
+15184369	502	507	human	OrganismTaxon	9606
+15184369	508	513	TRPV6	GeneOrGeneProduct	55503
+15184369	629	633	EGTA	ChemicalEntity	D004533
+15184369	669	675	Ca(2+)	ChemicalEntity	D002118
+15184369	773	778	TRPV6	GeneOrGeneProduct	55503
+15184369	817	823	Ca(2+)	ChemicalEntity	D002118
+15184369	860	865	TRPV6	GeneOrGeneProduct	55503
+15184369	902	908	Ca(2+)	ChemicalEntity	D002118
+15184369	972	977	TRPV6	GeneOrGeneProduct	55503
+15184369	1137	1141	EGTA	ChemicalEntity	D004533
+15184369	1147	1152	TRPV6	GeneOrGeneProduct	55503
+15184369	1188	1194	Ca(2+)	ChemicalEntity	D002118
+15184369	1310	1315	TRPV6	GeneOrGeneProduct	55503
+15184369	1351	1357	Ca(2+)	ChemicalEntity	D002118
+15184369	1424	1429	TRPV6	GeneOrGeneProduct	55503
+15184369	1473	1478	human	OrganismTaxon	9606
+15184369	1479	1484	TRPV6	GeneOrGeneProduct	55503
+15184369	1500	1505	human	OrganismTaxon	9606
+15184369	1506	1511	TRPV6	GeneOrGeneProduct	55503
+15184369	1512	1524	Delta695-725	SequenceVariant	p|DEL|695-725|
+15184369	1574	1580	Ca(2+)	ChemicalEntity	D002118
+15184369	1657	1662	human	OrganismTaxon	9606
+15184369	1663	1668	TRPV6	GeneOrGeneProduct	55503
+15184369	1669	1674	D542A	SequenceVariant	p|SUB|D|542|A
+15184369	1797	1802	TRPV6	GeneOrGeneProduct	55503
+15184369	1870	1873	HEK	CellLine	CVCL_M624
+15184369	Positive_Correlation	D016257	D002118	Novel
+15184369	Association	p|DEL|695-725|	D002118	Novel
+15184369	Association	D004533	D002118	Novel
+15184369	Association	D004533	55503	Novel
+15184369	Negative_Correlation	55503	D002118	Novel

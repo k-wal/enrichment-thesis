@@ -1,0 +1,24 @@
+17304550|t|Disruption of a synaptotagmin (SYT14) associated with neurodevelopmental abnormalities.
+17304550|a|We report cytogenetic and molecular studies of a de novo, apparently balanced t(1;3)(q32.1;q25.1) identified in a 12-year-old female (designated DGAP128) with cerebral atrophy, macrocephaly seizures, and developmental delay. A combination of fluorescence in situ hybridization (FISH) and Southern blot analysis demonstrated disruption of a synaptotagmin gene (SYT14) at the 1q32 breakpoint. Expression of SYT14 in human brain was confirmed using Northern analysis. Because members of the synaptotagmin family of proteins function as sensors that link changes in calcium levels with a variety of biological processes, including neurotransmission and hormone-responsiveness, SYT14 is an intriguing candidate gene for the abnormal development in this child. This is the first known constitutional rearrangement of SYT14, and further systematic genetic analysis and clinical studies of DGAP128 may offer unique insights into the role of SYT14 in neurodevelopment.
+17304550	16	29	synaptotagmin	GeneOrGeneProduct	255928
+17304550	31	36	SYT14	GeneOrGeneProduct	255928
+17304550	54	86	neurodevelopmental abnormalities	DiseaseOrPhenotypicFeature	D009421
+17304550	247	263	cerebral atrophy	DiseaseOrPhenotypicFeature	D001927
+17304550	265	277	macrocephaly	DiseaseOrPhenotypicFeature	D058627
+17304550	278	286	seizures	DiseaseOrPhenotypicFeature	D012640
+17304550	292	311	developmental delay	DiseaseOrPhenotypicFeature	D002658
+17304550	428	441	synaptotagmin	GeneOrGeneProduct	255928
+17304550	448	453	SYT14	GeneOrGeneProduct	255928
+17304550	493	498	SYT14	GeneOrGeneProduct	255928
+17304550	502	507	human	OrganismTaxon	9606
+17304550	576	589	synaptotagmin	GeneOrGeneProduct	255928
+17304550	650	657	calcium	ChemicalEntity	D002118
+17304550	761	766	SYT14	GeneOrGeneProduct	255928
+17304550	899	904	SYT14	GeneOrGeneProduct	255928
+17304550	1021	1026	SYT14	GeneOrGeneProduct	255928
+17304550	Association	D002658	255928	Novel
+17304550	Association	D001927	255928	Novel
+17304550	Association	D012640	255928	Novel
+17304550	Association	D058627	255928	Novel
+17304550	Association	255928	D002118	No
+17304550	Association	255928	D009421	Novel

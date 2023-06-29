@@ -1,0 +1,60 @@
+27804067|t|Consistent tracer administration profile improves test-retest repeatability of myocardial blood flow quantification with (82)Rb dynamic PET imaging
+27804067|a|Quantification of myocardial blood flow (MBF) and stress / rest flow reserve is used increasingly to diagnose multi-vessel coronary artery disease and micro-vascular disease with PET imaging. However, variability in the measurements may limit physician confidence to direct revascularization therapies based on specific threshold values. This study evaluated the effects of rubidium-82 ((82)Rb) tracer injection profile using a constant - activity-rate (CA) vs a constant - flow-rate (CF) infusion to improve test-retest repeatability of MBF measurements. 22 participants underwent single-session (82)Rb dynamic PET imaging during rest and dipyridamole stress using one of 2 test-retest infusion protocols: CA - CA (n = 12) or CA - CF (n = 10). MBF was quantified using a single-tissue-compartment model (1TCM) and a simplified retention model (SRM). Non-parametric test-retest repeatability coefficients (RPCnp) were compared between groups. Myocardium-to-blood contrast and signal-to-noise ratios of the late uptake images (2 to 6 minutes) were also compared to evaluate standard myocardial perfusion image (MPI) quality. MBF values in the CA - CA group were more repeatable (smaller RPCnp) than the CA - CF group using the 1TCM at rest alone, rest and stress combined, and stress / rest reserve (21% vs 36%, 16% vs 19%, and 20% vs 27%, P < 0.05, respectively), and using the SRM at Rest and Stress alone, Rest and Stress combined, and stress / rest reserve (21% vs 38%, 15% vs 25%, 22% vs 38%, and 23% vs 49%, P < 0.05, respectively). In terms of image quality, myocardium-to-blood contrast and signal-to-noise ratios were not significantly different between groups. Constant - activity-rate 'square-wave' infusion of (82)Rb produces more repeatable tracer injection profiles and decreases the test-retest variability of MBF measurements, when compared to a constant- flow-rate 'bolus' administration of (82)Rb, especially with SRM, and without compromising standard MPI quality.
+27804067	11	17	tracer	T103	UMLS:C1522485
+27804067	18	40	administration profile	T058	UMLS:C1533734
+27804067	50	75	test-retest repeatability	T062	UMLS:C0237828
+27804067	79	100	myocardial blood flow	T038	UMLS:C2986786
+27804067	121	127	(82)Rb	T103	UMLS:C0303554
+27804067	128	139	dynamic PET	T058	UMLS:C0032743
+27804067	140	147	imaging	T058	UMLS:C0011923
+27804067	166	187	myocardial blood flow	T038	UMLS:C2986786
+27804067	189	192	MBF	T038	UMLS:C2986786
+27804067	198	204	stress	T033	UMLS:C0038435
+27804067	212	224	flow reserve	T201	UMLS:C1721077
+27804067	249	257	diagnose	T033	UMLS:C0011900
+27804067	258	294	multi-vessel coronary artery disease	T038	UMLS:C1299432
+27804067	299	321	micro-vascular disease	T038	UMLS:C3495826
+27804067	327	330	PET	T058	UMLS:C0032743
+27804067	331	338	imaging	T058	UMLS:C0011923
+27804067	422	439	revascularization	T058	UMLS:C0027056
+27804067	440	449	therapies	T058	UMLS:C0087111
+27804067	491	496	study	T062	UMLS:C0008972
+27804067	497	506	evaluated	T058	UMLS:C0220825
+27804067	522	533	rubidium-82	T103	UMLS:C0303554
+27804067	535	541	(82)Rb	T103	UMLS:C0303554
+27804067	543	549	tracer	T103	UMLS:C1522485
+27804067	550	567	injection profile	T058	UMLS:C1533685
+27804067	637	645	infusion	T058	UMLS:C0574032
+27804067	657	682	test-retest repeatability	T062	UMLS:C0237828
+27804067	686	689	MBF	T038	UMLS:C2986786
+27804067	745	751	(82)Rb	T103	UMLS:C0303554
+27804067	752	763	dynamic PET	T058	UMLS:C0032743
+27804067	764	771	imaging	T058	UMLS:C0011923
+27804067	823	834	test-retest	T062	UMLS:C0237828
+27804067	835	853	infusion protocols	T058	UMLS:C0574032
+27804067	893	896	MBF	T038	UMLS:C2986786
+27804067	920	951	single-tissue-compartment model	T170	UMLS:C2986731
+27804067	953	957	1TCM	T170	UMLS:C2986731
+27804067	965	991	simplified retention model	T170	UMLS:C3161035
+27804067	993	996	SRM	T170	UMLS:C3161035
+27804067	1166	1172	images	T170	UMLS:C1704254
+27804067	1212	1220	evaluate	T058	UMLS:C0220825
+27804067	1230	1256	myocardial perfusion image	T170	UMLS:C1704254
+27804067	1258	1261	MPI	T170	UMLS:C1704254
+27804067	1272	1275	MBF	T038	UMLS:C2986786
+27804067	1374	1378	1TCM	T170	UMLS:C2986731
+27804067	1403	1409	stress	T033	UMLS:C0038435
+27804067	1424	1430	stress	T033	UMLS:C0038435
+27804067	1526	1529	SRM	T170	UMLS:C3161035
+27804067	1542	1548	Stress	T033	UMLS:C0038435
+27804067	1565	1571	Stress	T033	UMLS:C0038435
+27804067	1586	1592	stress	T033	UMLS:C0038435
+27804067	1857	1865	infusion	T058	UMLS:C0574032
+27804067	1869	1875	(82)Rb	T103	UMLS:C0303554
+27804067	1901	1907	tracer	T103	UMLS:C1522485
+27804067	1908	1926	injection profiles	T058	UMLS:C1533685
+27804067	1945	1956	test-retest	T062	UMLS:C0237828
+27804067	1972	1975	MBF	T038	UMLS:C2986786
+27804067	2029	2051	'bolus' administration	T058	UMLS:C1511237
+27804067	2055	2061	(82)Rb	T103	UMLS:C0303554
+27804067	2079	2082	SRM	T170	UMLS:C3161035

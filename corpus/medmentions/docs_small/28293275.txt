@@ -1,0 +1,36 @@
+28293275|t|Approximating the DCJ distance of balanced genomes in linear time
+28293275|a|Rearrangements are large-scale mutations in genomes, responsible for complex changes and structural variations. Most rearrangements that modify the organization of a genome can be represented by the double cut and join (DCJ) operation. Given two balanced genomes, i.e., two genomes that have exactly the same number of occurrences of each gene in each genome, we are interested in the problem of computing the rearrangement distance between them, i.e., finding the minimum number of DCJ operations that transform one genome into the other. This problem is known to be NP-hard. We propose a linear time approximation algorithm with approximation factor O(k) for the DCJ distance problem, where k is the maximum number of occurrences of any gene in the input genomes. Our algorithm works for linear and circular unichromosomal balanced genomes and uses as an intermediate step an O(k)-approximation for the minimum common string partition problem, which is closely related to the DCJ distance problem. Experiments on simulated data sets show that our approximation algorithm is very competitive both in efficiency and in quality of the solutions.
+28293275	43	50	genomes	T017	UMLS:C0017428
+28293275	66	80	Rearrangements	T038	UMLS:C0017287
+28293275	85	106	large-scale mutations	T038	UMLS:C0026882
+28293275	110	117	genomes	T017	UMLS:C0017428
+28293275	155	176	structural variations	T038	UMLS:C2717924
+28293275	183	197	rearrangements	T038	UMLS:C0017287
+28293275	203	209	modify	T033	UMLS:C3840684
+28293275	232	238	genome	T017	UMLS:C0017428
+28293275	321	328	genomes	T017	UMLS:C0017428
+28293275	340	347	genomes	T017	UMLS:C0017428
+28293275	405	409	gene	T017	UMLS:C0017337
+28293275	418	424	genome	T017	UMLS:C0017428
+28293275	451	458	problem	T033	UMLS:C0033213
+28293275	476	489	rearrangement	T038	UMLS:C0017287
+28293275	519	526	finding	T033	UMLS:C0243095
+28293275	569	578	transform	T038	UMLS:C3714584
+28293275	583	589	genome	T017	UMLS:C0017428
+28293275	611	618	problem	T033	UMLS:C0033213
+28293275	656	691	linear time approximation algorithm	T170	UMLS:C0002045
+28293275	744	751	problem	T033	UMLS:C0033213
+28293275	805	809	gene	T017	UMLS:C0017337
+28293275	823	830	genomes	T017	UMLS:C0017428
+28293275	836	845	algorithm	T170	UMLS:C0002045
+28293275	856	862	linear	T082	UMLS:C0205132
+28293275	867	875	circular	T082	UMLS:C1282913
+28293275	876	890	unichromosomal	T017	UMLS:C0008633
+28293275	900	907	genomes	T017	UMLS:C0017428
+28293275	1003	1010	problem	T033	UMLS:C0033213
+28293275	1057	1064	problem	T033	UMLS:C0033213
+28293275	1066	1077	Experiments	T062	UMLS:C0681814
+28293275	1081	1090	simulated	T062	UMLS:C0679083
+28293275	1091	1100	data sets	T170	UMLS:C0150098
+28293275	1115	1128	approximation	T058	UMLS:C1283102
+28293275	1129	1138	algorithm	T170	UMLS:C0002045

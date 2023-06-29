@@ -1,0 +1,62 @@
+27384243|t|Conditional ablation of myeloid TNF increases lesion volume after experimental stroke in mice, possibly via altered ERK1/2 signaling
+27384243|a|Microglia are activated following cerebral ischemia and increase their production of the neuro - and immunomodulatory cytokine tumor necrosis factor (TNF). To address the function of TNF from this cellular source in focal cerebral ischemia we used TNF conditional knock out mice (LysMcreTNF(fl/fl)) in which the TNF gene was deleted in cells of the myeloid lineage, including microglia. The deletion reduced secreted TNF levels in lipopolysaccharide -stimulated cultured primary microglia by ~93%. Furthermore, phosphorylated-ERK / ERK ratios were significantly decreased in naïve LysMcreTNF(fl/fl) mice demonstrating altered ERK signal transduction. Micro-PET using (18)[F]-fluorodeoxyglucose immediately after focal cerebral ischemia showed increased glucose uptake in LysMcreTNF(fl/fl) mice, representing significant metabolic changes, that translated into increased infarct volumes at 24 hours and 5 days compared to littermates (TNFfl/fl). In naïve LysMcreTNF(fl/fl) mice cytokine levels were low and comparable to littermates. At 6 hours, TNF producing microglia were reduced by 56% in the ischemic cortex in LysMcreTNF(fl/fl) mice compared to littermate mice, whereas no TNF(+) leukocytes were detected. At 24 hours, pro-inflammatory cytokine (TNF, IL-1β, IL-6, IL-5 and CXCL1) levels were significantly lower in LysMcreTNF(fl/fl) mice, despite comparable infiltrating leukocyte populations. Our results identify microglia l TNF as beneficial and neuroprotective in the acute phase and as a modulator of neuroinflammation at later time points after experimental ischemia, which may contribute to regenerative recovery.
+27384243	12	20	ablation	T058	UMLS:C0547070
+27384243	32	35	TNF	T103	UMLS:C0041368
+27384243	46	52	lesion	T033	UMLS:C0221198
+27384243	66	93	experimental stroke in mice	T038	UMLS:C0012644
+27384243	116	132	ERK1/2 signaling	T038	UMLS:C2611831
+27384243	133	142	Microglia	T017	UMLS:C0206116
+27384243	167	184	cerebral ischemia	T038	UMLS:C0917798
+27384243	222	227	neuro	T103	UMLS:C0949370
+27384243	234	250	immunomodulatory	T103	UMLS:C0005525
+27384243	251	259	cytokine	T103	UMLS:C0079189
+27384243	260	281	tumor necrosis factor	T103	UMLS:C0041368
+27384243	283	286	TNF	T103	UMLS:C0041368
+27384243	316	319	TNF	T103	UMLS:C0041368
+27384243	330	345	cellular source	T033	UMLS:C0449416
+27384243	349	372	focal cerebral ischemia	T038	UMLS:C0917798
+27384243	381	384	TNF	T103	UMLS:C0041368
+27384243	397	431	knock out mice (LysMcreTNF(fl/fl))	T204	UMLS:C0206745
+27384243	445	453	TNF gene	T017	UMLS:C0812246
+27384243	469	474	cells	T017	UMLS:C0007634
+27384243	509	518	microglia	T017	UMLS:C0206116
+27384243	524	532	deletion	T038	UMLS:C0017260
+27384243	550	553	TNF	T103	UMLS:C0041368
+27384243	564	582	lipopolysaccharide	T103	UMLS:C0023810
+27384243	595	621	cultured primary microglia	T017	UMLS:C0007635
+27384243	644	662	phosphorylated-ERK	T103	UMLS:C0752312
+27384243	665	668	ERK	T103	UMLS:C0752312
+27384243	708	736	naïve LysMcreTNF(fl/fl) mice	T204	UMLS:C0026809
+27384243	759	762	ERK	T103	UMLS:C0752312
+27384243	763	782	signal transduction	T038	UMLS:C0037083
+27384243	784	793	Micro-PET	T058	UMLS:C0032743
+27384243	800	826	(18)[F]-fluorodeoxyglucose	T103	UMLS:C0046056
+27384243	845	868	focal cerebral ischemia	T038	UMLS:C0917798
+27384243	886	900	glucose uptake	T038	UMLS:C1159527
+27384243	904	926	LysMcreTNF(fl/fl) mice	T204	UMLS:C0026809
+27384243	953	962	metabolic	T038	UMLS:C0025519
+27384243	1003	1010	infarct	T038	UMLS:C0021308
+27384243	1054	1076	littermates (TNFfl/fl)	T204	UMLS:C0026809
+27384243	1081	1109	naïve LysMcreTNF(fl/fl) mice	T204	UMLS:C0026809
+27384243	1110	1118	cytokine	T103	UMLS:C0079189
+27384243	1153	1164	littermates	T204	UMLS:C0026809
+27384243	1178	1181	TNF	T103	UMLS:C0041368
+27384243	1192	1201	microglia	T017	UMLS:C0206116
+27384243	1229	1244	ischemic cortex	T038	UMLS:C0022116
+27384243	1248	1270	LysMcreTNF(fl/fl) mice	T204	UMLS:C0026809
+27384243	1283	1298	littermate mice	T204	UMLS:C0026809
+27384243	1311	1317	TNF(+)	T017	UMLS:C0812246
+27384243	1318	1328	leukocytes	T017	UMLS:C0023516
+27384243	1357	1382	pro-inflammatory cytokine	T103	UMLS:C0079189
+27384243	1384	1387	TNF	T103	UMLS:C0041368
+27384243	1389	1394	IL-1β	T103	UMLS:C0021753
+27384243	1396	1400	IL-6	T103	UMLS:C0021760
+27384243	1402	1406	IL-5	T103	UMLS:C0021759
+27384243	1411	1416	CXCL1	T103	UMLS:C0635817
+27384243	1453	1475	LysMcreTNF(fl/fl) mice	T204	UMLS:C0026809
+27384243	1509	1530	leukocyte populations	T017	UMLS:C0023516
+27384243	1553	1562	microglia	T017	UMLS:C0206116
+27384243	1565	1568	TNF	T103	UMLS:C0041368
+27384243	1644	1661	neuroinflammation	T038	UMLS:C0021368
+27384243	1702	1710	ischemia	T038	UMLS:C0022116
+27384243	1736	1757	regenerative recovery	T038	UMLS:C2004454

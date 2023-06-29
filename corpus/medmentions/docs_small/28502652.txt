@@ -1,0 +1,72 @@
+28502652|t|Comparative and evolutionary analysis of an adapter molecule MyD88 in invertebrate metazoans
+28502652|a|The myeloid differentiation factor 88 (MyD88) is an essential adapter in Toll-like receptor (TLR) signalling pathways, with TLR the first pattern-recognition receptor (PRR) that was discovered in Drosophila. In the present study, a MyD88 gene was identified and characterized from a commercially important shellfish, Scapharca subcrenata, including a DEATH domain and TIR domain conserved within other molluscs. Furthermore, comparative genomic evidence revealed that MyD88 was of different lengths and contained quantitative exon and intron regions, which might be involved in specific mechanisms. To further explore the phylogenetic relationships of invertebrate metazoan MyD88, we applied MrBayes and PhyML software to construct phylogenetic trees using Bayesian and maximum likelihood approaches, respectively, which suggested that the MyD88 of Arthropoda was closely related to lower invertebrates, in contrast to morphological taxonomy. Finally, we investigated the evolutionary patterns and location of positive selection sites (PSSs) in the MyD88 gene from Arthropoda, Mollusca and Insecta using PAML software with the maximum likelihood method. The data showed that positive selection sites were detected in these groups, and partial sites were located in the TIR domain but were not found in the DEATH domain. To summarize, in this study, we report on the diversification of MyD88 in invertebrate metazoans, the specific evolutionary position of Arthropoda MyD88, and the positive selection pressures on MyD88 of Arthropoda, Mollusca and Insecta. These results are a valuable contribution to understand and clarify the evolutionary pattern of TLR / MyD88 signalling pathways in invertebrate and vertebrate taxa.
+28502652	16	37	evolutionary analysis	T062	UMLS:C0936012
+28502652	44	66	adapter molecule MyD88	T017	UMLS:C1417530
+28502652	70	82	invertebrate	T204	UMLS:C0021948
+28502652	83	92	metazoans	T204	UMLS:C2713498
+28502652	97	130	myeloid differentiation factor 88	T017	UMLS:C1417530
+28502652	132	137	MyD88	T017	UMLS:C1417530
+28502652	166	184	Toll-like receptor	T103	UMLS:C0670896
+28502652	186	189	TLR	T103	UMLS:C0670896
+28502652	191	210	signalling pathways	T038	UMLS:C0037083
+28502652	217	220	TLR	T103	UMLS:C0670896
+28502652	231	259	pattern-recognition receptor	T103	UMLS:C1564907
+28502652	261	264	PRR	T103	UMLS:C1564907
+28502652	289	299	Drosophila	T204	UMLS:C0013138
+28502652	316	321	study	T062	UMLS:C2603343
+28502652	325	335	MyD88 gene	T017	UMLS:C1417530
+28502652	399	408	shellfish	T204	UMLS:C1304606
+28502652	410	430	Scapharca subcrenata	T204	UMLS:C3346701
+28502652	444	456	DEATH domain	T082	UMLS:C1511738
+28502652	461	471	TIR domain	T082	UMLS:C1956034
+28502652	495	503	molluscs	T204	UMLS:C0026391
+28502652	518	546	comparative genomic evidence	T062	UMLS:C0796358
+28502652	561	566	MyD88	T017	UMLS:C1417530
+28502652	619	623	exon	T103	UMLS:C0015295
+28502652	628	642	intron regions	T103	UMLS:C0021920
+28502652	715	741	phylogenetic relationships	T062	UMLS:C1519068
+28502652	745	757	invertebrate	T204	UMLS:C0021948
+28502652	758	766	metazoan	T204	UMLS:C2713498
+28502652	767	772	MyD88	T017	UMLS:C1417530
+28502652	785	811	MrBayes and PhyML software	T170	UMLS:C0037589
+28502652	815	824	construct	T170	UMLS:C2827421
+28502652	863	892	maximum likelihood approaches	T170	UMLS:C0024970
+28502652	933	938	MyD88	T017	UMLS:C1417530
+28502652	942	952	Arthropoda	T204	UMLS:C0003903
+28502652	982	995	invertebrates	T204	UMLS:C0021948
+28502652	1012	1025	morphological	T082	UMLS:C0543482
+28502652	1065	1086	evolutionary patterns	T038	UMLS:C0015219
+28502652	1103	1127	positive selection sites	T017	UMLS:C0678933
+28502652	1129	1133	PSSs	T017	UMLS:C0678933
+28502652	1142	1152	MyD88 gene	T017	UMLS:C1417530
+28502652	1158	1168	Arthropoda	T204	UMLS:C0003903
+28502652	1170	1178	Mollusca	T204	UMLS:C0026391
+28502652	1183	1190	Insecta	T204	UMLS:C0021585
+28502652	1197	1210	PAML software	T170	UMLS:C0037589
+28502652	1220	1245	maximum likelihood method	T170	UMLS:C0025663
+28502652	1268	1292	positive selection sites	T017	UMLS:C0678933
+28502652	1298	1306	detected	T033	UMLS:C0442726
+28502652	1316	1322	groups	T098	UMLS:C1257890
+28502652	1328	1341	partial sites	T082	UMLS:C0002518
+28502652	1362	1372	TIR domain	T082	UMLS:C1956034
+28502652	1382	1391	not found	T033	UMLS:C0442737
+28502652	1399	1411	DEATH domain	T082	UMLS:C1511738
+28502652	1435	1440	study	T062	UMLS:C2603343
+28502652	1478	1483	MyD88	T017	UMLS:C1417530
+28502652	1487	1499	invertebrate	T204	UMLS:C0021948
+28502652	1500	1509	metazoans	T204	UMLS:C2713498
+28502652	1524	1545	evolutionary position	T038	UMLS:C0015219
+28502652	1549	1559	Arthropoda	T204	UMLS:C0003903
+28502652	1560	1565	MyD88	T017	UMLS:C1417530
+28502652	1575	1583	positive	T033	UMLS:C1446409
+28502652	1584	1603	selection pressures	T038	UMLS:C0036576
+28502652	1607	1612	MyD88	T017	UMLS:C1417530
+28502652	1616	1626	Arthropoda	T204	UMLS:C0003903
+28502652	1628	1636	Mollusca	T204	UMLS:C0026391
+28502652	1641	1648	Insecta	T204	UMLS:C0021585
+28502652	1722	1742	evolutionary pattern	T038	UMLS:C0015219
+28502652	1746	1749	TLR	T103	UMLS:C0670896
+28502652	1752	1757	MyD88	T017	UMLS:C1417530
+28502652	1758	1777	signalling pathways	T038	UMLS:C0037083
+28502652	1781	1793	invertebrate	T204	UMLS:C0021948
+28502652	1798	1813	vertebrate taxa	T204	UMLS:C0042567

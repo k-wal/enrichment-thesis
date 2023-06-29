@@ -1,0 +1,54 @@
+28370605|t|Metabolite mapping by consecutive nanostructure and silver-assisted mass spectrometry imaging on tissue sections
+28370605|a|Nanostructure-based mass spectrometry imaging (MSI) is a promising technology for molecular imaging of small molecules, without the complex chemical background typically encountered in matrix-assisted molecular imaging approaches. Here, we have enhanced these surfaces with silver (Ag) to provide a second tier of MSI data from a single sample. MSI data was acquired through the application of laser desorption/ionization mass spectrometry to biological samples imprinted onto desorption/ionization on silicon (DIOS) substrates. Following initial analysis, ultra-thin Ag layers were overlaid onto the followed by MSI analysis (Ag-DIOS MSI). This approach was first demonstrated for fingermark small molecules including environmental contaminants and sebum components. Subsequently, this bimodal method was translated to lipids and metabolites in fore-stomach sections from a 6-bromoisatin chemopreventative murine mouse model. DIOS MSI allowed mapping of common ions in fingermarks as well as 6-bromoisatin metabolites and lipids in murine fore-stomach. Furthermore, DIOS MSI was complemented by the Ag-DIOS MSI of Ag-adductable lipids such as wax esters in fingermarks and cholesterol in murine fore-stomach. Gastrointestinal acid condensation products of 6-bromoisatin, such as the 6,6'-dibromoindirubin mapped herein, are very challenging to isolate and characterize. By re-analyzing the same tissue imprints, this metabolite was readily detected by DIOS, placed in a tissue-specific spatial context, and subsequently overlaid with additional lipid distributions acquired using Ag-DIOS MSI. The ability to place metabolite and lipid classes in a tissue-specific context makes this novel method suited to MSI analyses where the collection of additional information from the same sample maximises resource use, and also maximises the number of annotated small molecules, in particular for metabolites that are typically undetectable with traditional platforms. Copyright © 2017 John Wiley & Sons, Ltd.
+28370605	0	10	Metabolite	T103	UMLS:C0870883
+28370605	52	93	silver-assisted mass spectrometry imaging	T058	UMLS:C0037813
+28370605	97	112	tissue sections	T017	UMLS:C2316368
+28370605	113	158	Nanostructure-based mass spectrometry imaging	T058	UMLS:C0037813
+28370605	160	163	MSI	T058	UMLS:C0037813
+28370605	195	212	molecular imaging	T058	UMLS:C1537028
+28370605	216	231	small molecules	T103	UMLS:C1328819
+28370605	298	331	matrix-assisted molecular imaging	T058	UMLS:C1537028
+28370605	373	381	surfaces	T082	UMLS:C0205148
+28370605	387	393	silver	T103	UMLS:C0037125
+28370605	395	397	Ag	T103	UMLS:C0037125
+28370605	427	435	MSI data	T170	UMLS:C0282574
+28370605	458	466	MSI data	T170	UMLS:C0282574
+28370605	507	552	laser desorption/ionization mass spectrometry	T058	UMLS:C0282597
+28370605	660	668	analysis	T062	UMLS:C0936012
+28370605	726	738	MSI analysis	T058	UMLS:C0037813
+28370605	740	751	Ag-DIOS MSI	T058	UMLS:C0282597
+28370605	806	821	small molecules	T103	UMLS:C1328819
+28370605	832	845	environmental	T082	UMLS:C0014406
+28370605	863	868	sebum	T031	UMLS:C0036511
+28370605	933	939	lipids	T103	UMLS:C0023779
+28370605	944	955	metabolites	T103	UMLS:C0870883
+28370605	959	980	fore-stomach sections	T017	UMLS:C1517295
+28370605	988	1001	6-bromoisatin	T103	UMLS:C3493005
+28370605	1020	1038	murine mouse model	T038	UMLS:C2986594
+28370605	1040	1048	DIOS MSI	T058	UMLS:C0037813
+28370605	1075	1079	ions	T103	UMLS:C0022023
+28370605	1106	1119	6-bromoisatin	T103	UMLS:C3493005
+28370605	1120	1131	metabolites	T103	UMLS:C0870883
+28370605	1136	1142	lipids	T103	UMLS:C0023779
+28370605	1146	1165	murine fore-stomach	T017	UMLS:C1517295
+28370605	1180	1188	DIOS MSI	T058	UMLS:C0037813
+28370605	1213	1224	Ag-DIOS MSI	T058	UMLS:C0282597
+28370605	1228	1248	Ag-adductable lipids	T103	UMLS:C0023779
+28370605	1257	1267	wax esters	T103	UMLS:C0014898
+28370605	1287	1298	cholesterol	T103	UMLS:C0008377
+28370605	1302	1321	murine fore-stomach	T017	UMLS:C1517295
+28370605	1323	1344	Gastrointestinal acid	T031	UMLS:C0017119
+28370605	1358	1366	products	T103	UMLS:C0566267
+28370605	1370	1383	6-bromoisatin	T103	UMLS:C3493005
+28370605	1397	1418	6,6'-dibromoindirubin	T103	UMLS:C0574031
+28370605	1458	1465	isolate	T058	UMLS:C0220862
+28370605	1509	1515	tissue	T017	UMLS:C0040300
+28370605	1531	1541	metabolite	T103	UMLS:C0870883
+28370605	1659	1678	lipid distributions	T038	UMLS:C0007613
+28370605	1694	1705	Ag-DIOS MSI	T058	UMLS:C0282597
+28370605	1728	1738	metabolite	T103	UMLS:C0870883
+28370605	1743	1748	lipid	T103	UMLS:C0023779
+28370605	1820	1832	MSI analyses	T058	UMLS:C0037813
+28370605	1968	1983	small molecules	T103	UMLS:C1328819
+28370605	2003	2014	metabolites	T103	UMLS:C0870883
+28370605	2034	2046	undetectable	T201	UMLS:C3827727

@@ -1,0 +1,92 @@
+28472611|t|Coexisting cortical atrophy plays a crucial role in cognitive impairment in moderate to severe cerebral small vessel disease patients
+28472611|a|Whether white matter lesion (WML) is associated with vascular cognitive impairment in cerebral small vessel disease (CSVD) remains controversial; some severe CSVD patients retain normal cognitive function, and cortical thinning associated with WMLs has also been recently reported. The contribution of cortical atrophy to vascular cognitive impairment in severe CSVD and whether WML affects cortical atrophy remain unknown. From November 2012 to January 2015, 50- to 80-year-old patients with moderate to severe WMLs or more than four lacunar infarctions and cognitive complaints, excluding those with large vascular diseases diagnosed by transcranial cerebral Doppler, were recruited. The patients were divided into CSVD groups with or without vascular cognitive impairment - no dementia (VCIND) according to scores on neuropsychological tests that evaluated five cognitive domains. Based on these results, 16 patients were included in the CSVD with VCIND group, and 12 were included in the CSVD without VCIND group. T1, T2, 3D-MPRAGE, and diffusion tensor imaging were performed, and gray matter volume and fractional anisotropy (FA) values were compared between the two groups. Gray matter volume, especially in the frontal cortex, bilateral calcarine sulcus, and fusiform gyrus, was considerably lower in the CSVD with VCIND patients, with 24,619 fewer voxels. In addition, the FA values of 1,583 voxels were lower in the CSVD patients with VCIND than in those without. In conclusion, cortical atrophy is associated with cognitive impairment in moderate to severe WML or lacunar infarction patients, suggesting that cortical atrophy might be secondary to white matter damage in vascular cognitive impairment caused by CSVD.
+28472611	0	10	Coexisting	T047	C0679225
+28472611	11	27	cortical atrophy	T047	C0235946
+28472611	52	72	cognitive impairment	T048	C0338656
+28472611	76	94	moderate to severe	T080	C1299393
+28472611	95	124	cerebral small vessel disease	T047	C2733158
+28472611	125	133	patients	T101	C0030705
+28472611	142	161	white matter lesion	T033	C2752009
+28472611	163	166	WML	T033	C2752009
+28472611	171	186	associated with	T080	C0332281
+28472611	187	216	vascular cognitive impairment	T047	C3805043
+28472611	220	249	cerebral small vessel disease	T047	C2733158
+28472611	251	255	CSVD	T047	C2733158
+28472611	285	291	severe	T080	C0205082
+28472611	292	296	CSVD	T047	C2733158
+28472611	297	305	patients	T101	C0030705
+28472611	313	338	normal cognitive function	T041	C0392335
+28472611	344	361	cortical thinning	T033	C3278126
+28472611	362	377	associated with	T080	C0332281
+28472611	378	382	WMLs	T033	C2752009
+28472611	397	414	recently reported	T170	C0684224
+28472611	436	452	cortical atrophy	T047	C0235946
+28472611	456	485	vascular cognitive impairment	T047	C3805043
+28472611	489	495	severe	T080	C0205082
+28472611	496	500	CSVD	T047	C2733158
+28472611	513	516	WML	T033	C2752009
+28472611	517	524	affects	T041	C0001721
+28472611	525	541	cortical atrophy	T047	C0235946
+28472611	563	571	November	T079	C3828767
+28472611	580	587	January	T080	C3829466
+28472611	613	621	patients	T101	C0030705
+28472611	627	645	moderate to severe	T080	C1299393
+28472611	646	650	WMLs	T033	C2752009
+28472611	669	688	lacunar infarctions	T047	C0333559
+28472611	693	713	cognitive complaints	T041	C0009240
+28472611	742	759	vascular diseases	T047	C0042373
+28472611	773	802	transcranial cerebral Doppler	T060	C0206077
+28472611	824	832	patients	T101	C0030705
+28472611	851	855	CSVD	T047	C2733158
+28472611	856	862	groups	T078	C0441833
+28472611	879	908	vascular cognitive impairment	T047	C3805043
+28472611	911	922	no dementia	T033	C1838634
+28472611	924	929	VCIND	T047	C3805043
+28472611	944	950	scores	T081	C0449820
+28472611	954	978	neuropsychological tests	T060	C0027902
+28472611	984	993	evaluated	T058	C0220825
+28472611	999	1016	cognitive domains	T041	C0009240
+28472611	1045	1053	patients	T101	C0030705
+28472611	1075	1079	CSVD	T047	C2733158
+28472611	1085	1090	VCIND	T047	C3805043
+28472611	1091	1096	group	T078	C0441833
+28472611	1126	1130	CSVD	T047	C2733158
+28472611	1139	1144	VCIND	T047	C3805043
+28472611	1145	1150	group	T078	C0441833
+28472611	1152	1154	T1	T060	C0430022
+28472611	1156	1158	T2	T060	C0430022
+28472611	1160	1169	3D-MPRAGE	T060	C0430022
+28472611	1175	1199	diffusion tensor imaging	T060	C1537007
+28472611	1220	1231	gray matter	T024	C0018220
+28472611	1232	1238	volume	T081	C0449468
+28472611	1243	1264	fractional anisotropy	T070	C0085406
+28472611	1266	1268	FA	T070	C0085406
+28472611	1270	1276	values	T080	C0042295
+28472611	1307	1313	groups	T078	C0441833
+28472611	1315	1326	Gray matter	T024	C0018220
+28472611	1327	1333	volume	T081	C0449468
+28472611	1353	1367	frontal cortex	T023	C0016733
+28472611	1369	1395	bilateral calcarine sulcus	T030	C0228224
+28472611	1401	1415	fusiform gyrus	T023	C0228243
+28472611	1447	1451	CSVD	T047	C2733158
+28472611	1457	1462	VCIND	T047	C3805043
+28472611	1463	1471	patients	T101	C0030705
+28472611	1491	1497	voxels	T077	C2700259
+28472611	1516	1518	FA	T070	C0085406
+28472611	1535	1541	voxels	T077	C2700259
+28472611	1560	1564	CSVD	T047	C2733158
+28472611	1565	1573	patients	T101	C0030705
+28472611	1579	1584	VCIND	T047	C3805043
+28472611	1623	1639	cortical atrophy	T047	C0235946
+28472611	1643	1658	associated with	T080	C0332281
+28472611	1659	1679	cognitive impairment	T048	C0338656
+28472611	1683	1701	moderate to severe	T080	C1299393
+28472611	1702	1705	WML	T033	C2752009
+28472611	1709	1727	lacunar infarction	T047	C0333559
+28472611	1728	1736	patients	T101	C0030705
+28472611	1754	1770	cortical atrophy	T047	C0235946
+28472611	1780	1792	secondary to	T080	C0175668
+28472611	1793	1805	white matter	T024	C0152295
+28472611	1806	1812	damage	T169	C1883709
+28472611	1816	1845	vascular cognitive impairment	T047	C3805043
+28472611	1856	1860	CSVD	T047	C2733158

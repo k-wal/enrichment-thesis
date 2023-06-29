@@ -1,0 +1,24 @@
+15649253|t|Primary malignant lymphoma of the brain: frequent abnormalities and inactivation of p14 tumor suppressor gene.
+15649253|a|Ten primary central nervous system lymphomas (PCNSL, brain lymphomas) were examined for p14 gene exon 1beta deletion, mutation and methylation by Southern blot analysis, nucleotide analysis of polymerase chain reaction clones and Southern blot-based methylation assay. In Southern blot analysis, from the signal densities of the hybridized bands and their similarities to those of exons 2 and 3 in our previous quantitative study, we found that exon 1beta was homozygously deleted in four cases, hemizygously deleted in five cases and not deleted in one case. Thus, the same deletion patterns covered the entire p14 gene for all cases except for one case, which suggested the hemizygous deletion of exons 1beta and 2 and homozygous deletion of exon 3. In addition, although exon 1beta mutation is rare in various tumors, we detected a missense mutation (L50R) in one case with a hemizygous deletion. Methylation of the 5'CpG island of the p14 gene was not suggested for any case without homozygous deletion. Our observation of frequent p14 gene abnormalities (90%) and inactivation (40-60%) was in striking contrast to the same pathological subtype of systemic lymphoma in which p14 gene abnormalities and inactivation were infrequent, suggesting a difference in carcinogenesis between PCNSL and systemic lymphoma.
+15649253	0	39	Primary malignant lymphoma of the brain	DiseaseOrPhenotypicFeature	D016543
+15649253	84	87	p14	GeneOrGeneProduct	11102
+15649253	88	93	tumor	DiseaseOrPhenotypicFeature	D009369
+15649253	115	155	primary central nervous system lymphomas	DiseaseOrPhenotypicFeature	D016543
+15649253	157	162	PCNSL	DiseaseOrPhenotypicFeature	D016543
+15649253	164	179	brain lymphomas	DiseaseOrPhenotypicFeature	D016543
+15649253	199	202	p14	GeneOrGeneProduct	11102
+15649253	723	726	p14	GeneOrGeneProduct	11102
+15649253	924	930	tumors	DiseaseOrPhenotypicFeature	D009369
+15649253	965	969	L50R	SequenceVariant	p|SUB|L|50|R
+15649253	1050	1053	p14	GeneOrGeneProduct	11102
+15649253	1147	1150	p14	GeneOrGeneProduct	11102
+15649253	1263	1280	systemic lymphoma	DiseaseOrPhenotypicFeature	D008223
+15649253	1290	1293	p14	GeneOrGeneProduct	11102
+15649253	1374	1388	carcinogenesis	DiseaseOrPhenotypicFeature	D063646
+15649253	1397	1402	PCNSL	DiseaseOrPhenotypicFeature	D016543
+15649253	1407	1424	systemic lymphoma	DiseaseOrPhenotypicFeature	D008223
+15649253	Association	D016543	p|SUB|L|50|R	Novel
+15649253	Association	D016543	11102	No
+15649253	Association	D008223	11102	No
+15649253	Association	11102	D063646	Novel
+15649253	Negative_Correlation	11102	D009369	No

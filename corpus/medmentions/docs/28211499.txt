@@ -1,0 +1,80 @@
+28211499|t|The prognostic value of cytotoxic T-lymphocyte antigen 4 in cancers: a systematic review and meta-analysis
+28211499|a|The outcomes of studies analyzing the prognostic role of CTLA-4 in cancers are controversial. Therefore, the aim of our meta-analysis was to clarify the correlation between CTLA-4 expression and OS in different cancer cases. Relevant literature was searched using PubMed, EMBASE, Web of Science, and the Cochrane Library. The clinicopathological features, hazard ratio (HR) and 95% confidence intervals (CI) were collected from these studies and were analyzed using Stata version 12.0 software. The pooled HR values showed no significant correlation between CTLA-4 expression levels and OS in relation to tumors (HR: 1.24, 95% CI: 0.98-1.56, I2 = 71.7%, P = 0.000). Further subgroup analyses were conducted and categorized by experimental methods, CTLA-4 sources and cancer types. The survey showed a significant correlation (HR: 1.47, 95% CI: 1.14-1.89) between high expression of CTLA-4 and OS in the SNP subgroup, and subgroups analyzing by PCR (HR: 1.50, 95% CI: 1.20-1.86) and flow cytometry (HR: 2.76, 95% CI: 1.49-5.14). In addition, our analysis observed significant differences between patients and controls in in CTLA-4+ CD4+ lymphocytes, sur CTLA-4+ CD4+ lymphocytes, in CTLA-4+ CD8+ lymphocytes, and sur CTLA-4+ CD8+ lymphocytes. Knowledge of the effects of CTLA-4 could potentially be used to effectively guide appropriate prognosis and therapeutic strategies in cancer patients.
+28211499	4	14	prognostic	T080	C1514475
+28211499	24	56	cytotoxic T-lymphocyte antigen 4	T116,T129	C0111208
+28211499	60	67	cancers	T191	C0006826
+28211499	71	88	systematic review	T170	C1955832
+28211499	93	106	meta-analysis	T062	C0920317
+28211499	111	119	outcomes	T062	C0543472
+28211499	131	140	analyzing	T062	C0936012
+28211499	145	155	prognostic	T080	C1514475
+28211499	164	170	CTLA-4	T116,T129	C0111208
+28211499	174	181	cancers	T191	C0006826
+28211499	227	240	meta-analysis	T062	C0920317
+28211499	260	271	correlation	T080	C1707520
+28211499	280	286	CTLA-4	T116,T129	C0111208
+28211499	302	304	OS	T081	C4086681
+28211499	318	324	cancer	T191	C0006826
+28211499	341	351	literature	T170	C0023866
+28211499	371	377	PubMed	T170	C1138432
+28211499	379	385	EMBASE	T170	C0282574
+28211499	387	401	Web of Science	T170	C0282574
+28211499	411	427	Cochrane Library	T170	C0282574
+28211499	433	461	clinicopathological features	T091	C0030667
+28211499	463	475	hazard ratio	T081	C2985465
+28211499	477	479	HR	T081	C2985465
+28211499	489	509	confidence intervals	T081	C0009667
+28211499	511	513	CI	T081	C0009667
+28211499	558	566	analyzed	T062	C0936012
+28211499	573	600	Stata version 12.0 software	T170	C0282574
+28211499	606	612	pooled	T169	C2349200
+28211499	613	615	HR	T081	C2985465
+28211499	645	656	correlation	T080	C1707520
+28211499	665	671	CTLA-4	T116,T129	C0111208
+28211499	672	689	expression levels	T081	C3244092
+28211499	694	696	OS	T081	C4086681
+28211499	712	718	tumors	T191	C0027651
+28211499	720	722	HR	T081	C2985465
+28211499	734	736	CI	T081	C0009667
+28211499	781	789	subgroup	T185	C1515021
+28211499	790	798	analyses	T062	C0936012
+28211499	833	853	experimental methods	T062	C0871738
+28211499	855	861	CTLA-4	T116,T129	C0111208
+28211499	874	886	cancer types	UnknownType	C0741888
+28211499	892	898	survey	T170	C0038951
+28211499	920	931	correlation	T080	C1707520
+28211499	933	935	HR	T081	C2985465
+28211499	947	949	CI	T081	C0009667
+28211499	989	995	CTLA-4	T116,T129	C0111208
+28211499	1000	1002	OS	T081	C4086681
+28211499	1010	1013	SNP	T086	C0752046
+28211499	1014	1022	subgroup	T185	C1515021
+28211499	1028	1037	subgroups	T185	C1515021
+28211499	1038	1047	analyzing	T062	C0936012
+28211499	1051	1054	PCR	T063	C0032520
+28211499	1056	1058	HR	T081	C2985465
+28211499	1070	1072	CI	T081	C0009667
+28211499	1089	1103	flow cytometry	T059	C0016263
+28211499	1105	1107	HR	T081	C2985465
+28211499	1119	1121	CI	T081	C0009667
+28211499	1152	1160	analysis	T062	C0936012
+28211499	1202	1210	patients	T101	C0030705
+28211499	1215	1223	controls	T096	C0009932
+28211499	1230	1237	CTLA-4+	T116,T129	C0111208
+28211499	1238	1242	CD4+	T116,T129,T192	C0003323
+28211499	1243	1254	lymphocytes	T025	C0024264
+28211499	1260	1267	CTLA-4+	T116,T129	C0111208
+28211499	1268	1272	CD4+	T116,T129,T192	C0003323
+28211499	1273	1284	lymphocytes	T025	C0024264
+28211499	1289	1296	CTLA-4+	T116,T129	C0111208
+28211499	1297	1301	CD8+	T129	C0085358
+28211499	1302	1313	lymphocytes	T025	C0024264
+28211499	1323	1330	CTLA-4+	T116,T129	C0111208
+28211499	1331	1335	CD8+	T129	C0085358
+28211499	1336	1347	lymphocytes	T025	C0024264
+28211499	1377	1383	CTLA-4	T116,T129	C0111208
+28211499	1431	1442	appropriate	T080	C1548787
+28211499	1443	1452	prognosis	T201	C3854082
+28211499	1457	1479	therapeutic strategies	T061	C0087111
+28211499	1483	1489	cancer	T191	C0006826
+28211499	1490	1498	patients	T101	C0030705

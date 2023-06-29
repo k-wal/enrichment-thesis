@@ -1,0 +1,24 @@
+16321363|t|Congenital disorder of glycosylation Ic due to a de novo deletion and an hALG-6 mutation.
+16321363|a|We describe a new cause of congenital disorder of glycosylation-Ic (CDG-Ic) in a young girl with a rather mild CDG phenotype. Her cells accumulated lipid-linked oligosaccharides lacking three glucose residues, and sequencing of the ALG6 gene showed what initially appeared to be a homozygous novel point mutation (338G>A). However, haplotype analysis showed that the patient does not carry any paternal DNA markers extending 33kb in the telomeric direction from the ALG6 region, and microsatellite analysis extended the abnormal region to at least 2.5Mb. We used high-resolution karyotyping to confirm a deletion (10-12Mb) [del(1)(p31.2p32.3)] and found no structural abnormalities in the father, suggesting a de novo event. Our findings extend the causes of CDG to larger DNA deletions and identify the first Japanese CDG-Ic mutation.
+16321363	0	39	Congenital disorder of glycosylation Ic	DiseaseOrPhenotypicFeature	C535741
+16321363	73	79	hALG-6	GeneOrGeneProduct	29929
+16321363	117	156	congenital disorder of glycosylation-Ic	DiseaseOrPhenotypicFeature	C535741
+16321363	158	164	CDG-Ic	DiseaseOrPhenotypicFeature	C535741
+16321363	201	204	CDG	DiseaseOrPhenotypicFeature	D018981
+16321363	238	267	lipid-linked oligosaccharides	ChemicalEntity	C023023
+16321363	282	289	glucose	ChemicalEntity	D005947
+16321363	322	326	ALG6	GeneOrGeneProduct	29929
+16321363	404	410	338G>A	SequenceVariant	rs768372697
+16321363	457	464	patient	OrganismTaxon	9606
+16321363	556	560	ALG6	GeneOrGeneProduct	29929
+16321363	694	712	deletion (10-12Mb)	SequenceVariant	c|DEL||10-12MB
+16321363	714	732	del(1)(p31.2p32.3)	SequenceVariant	c|DEL|p31.2_p32.3|
+16321363	849	852	CDG	DiseaseOrPhenotypicFeature	D018981
+16321363	909	915	CDG-Ic	DiseaseOrPhenotypicFeature	C535741
+16321363	Positive_Correlation	rs768372697	C535741	Novel
+16321363	Positive_Correlation	c|DEL|p31.2_p32.3|	D018981	Novel
+16321363	Positive_Correlation	c|DEL|p31.2_p32.3|	C535741	Novel
+16321363	Positive_Correlation	c|DEL||10-12MB	D018981	Novel
+16321363	Positive_Correlation	c|DEL||10-12MB	C535741	Novel
+16321363	Association	29929	D018981	Novel
+16321363	Association	29929	C535741	Novel

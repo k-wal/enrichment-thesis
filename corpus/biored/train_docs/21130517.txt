@@ -1,0 +1,51 @@
+21130517|t|Detection of EGFR mutations in plasma DNA from lung cancer patients by mass spectrometry genotyping is predictive of tumor EGFR status and response to EGFR inhibitors.
+21130517|a|AIMS: EGFR mutations now guide the clinical use of EGFR-targeted therapy in lung cancer. However, standard EGFR mutation analysis requires a minimum amount of tumor tissue, which may not be available in certain situations. In this study, we combined a mass spectrometry genotyping assay (Sequenom) with a mutant-enriched PCR (ME-PCR) to detect EGFR mutations in free plasma DNA from patients with lung cancer. METHOD: DNAs were extracted from 31 plasma samples from 31 patients and analyzed by both methods for EGFR Exon 19 deletion and EGFR L858R mutation. Results in plasma DNA samples were compared with EGFR mutation status obtained in tumor DNA (18/31 EGFR mutant). The relationship of EGFR mutation status in tumor and/or plasma samples to overall survival was assessed. RESULTS: The EGFR mutation status in plasma DNA was identical to the primary tumor in 61% of patients (19/31). By mass spectrometry genotyping, the plasma samples contained mutant DNA corresponding to 5/14 EGFR Exon 19 deletions and 3/4 EGFR L858R mutations previously diagnosed in the matched tumors. Two samples were positive in plasma DNA but negative in primary tumor tissue. Results were similar for samples studied by ME-PCR. For patients treated with erlotinib, overall survival was correlated with the presence of EGFR mutation in plasma and/or tumor tissue (p=0.002), with the two patients positive only in plasma DNA showing responses and favorable outcomes. CONCLUSION: The detection of EGFR mutations in plasma DNA samples by mass spectrometry genotyping and ME-PCR is feasible. A positive EGFR result in plasma DNA has a high predictive value for tumor EGFR status and for favorable clinical course on EGFR-targeted therapy and could therefore be useful in guiding clinical decisions in patients with insufficient or unavailable tumor specimens.
+21130517	13	17	EGFR	GeneOrGeneProduct	1956
+21130517	47	58	lung cancer	DiseaseOrPhenotypicFeature	D008175
+21130517	59	67	patients	OrganismTaxon	9606
+21130517	117	122	tumor	DiseaseOrPhenotypicFeature	D009369
+21130517	123	127	EGFR	GeneOrGeneProduct	1956
+21130517	151	155	EGFR	GeneOrGeneProduct	1956
+21130517	174	178	EGFR	GeneOrGeneProduct	1956
+21130517	219	223	EGFR	GeneOrGeneProduct	1956
+21130517	244	255	lung cancer	DiseaseOrPhenotypicFeature	D008175
+21130517	275	279	EGFR	GeneOrGeneProduct	1956
+21130517	327	332	tumor	DiseaseOrPhenotypicFeature	D009369
+21130517	512	516	EGFR	GeneOrGeneProduct	1956
+21130517	551	559	patients	OrganismTaxon	9606
+21130517	565	576	lung cancer	DiseaseOrPhenotypicFeature	D008175
+21130517	637	645	patients	OrganismTaxon	9606
+21130517	679	683	EGFR	GeneOrGeneProduct	1956
+21130517	705	709	EGFR	GeneOrGeneProduct	1956
+21130517	710	715	L858R	SequenceVariant	rs121434568
+21130517	775	779	EGFR	GeneOrGeneProduct	1956
+21130517	808	813	tumor	DiseaseOrPhenotypicFeature	D009369
+21130517	825	829	EGFR	GeneOrGeneProduct	1956
+21130517	859	863	EGFR	GeneOrGeneProduct	1956
+21130517	883	888	tumor	DiseaseOrPhenotypicFeature	D009369
+21130517	958	962	EGFR	GeneOrGeneProduct	1956
+21130517	1022	1027	tumor	DiseaseOrPhenotypicFeature	D009369
+21130517	1038	1046	patients	OrganismTaxon	9606
+21130517	1151	1155	EGFR	GeneOrGeneProduct	1956
+21130517	1182	1186	EGFR	GeneOrGeneProduct	1956
+21130517	1187	1192	L858R	SequenceVariant	rs121434568
+21130517	1239	1245	tumors	DiseaseOrPhenotypicFeature	D009369
+21130517	1311	1316	tumor	DiseaseOrPhenotypicFeature	D009369
+21130517	1381	1389	patients	OrganismTaxon	9606
+21130517	1403	1412	erlotinib	ChemicalEntity	D000069347
+21130517	1467	1471	EGFR	GeneOrGeneProduct	1956
+21130517	1498	1503	tumor	DiseaseOrPhenotypicFeature	D009369
+21130517	1535	1543	patients	OrganismTaxon	9606
+21130517	1643	1647	EGFR	GeneOrGeneProduct	1956
+21130517	1747	1751	EGFR	GeneOrGeneProduct	1956
+21130517	1805	1810	tumor	DiseaseOrPhenotypicFeature	D009369
+21130517	1811	1815	EGFR	GeneOrGeneProduct	1956
+21130517	1860	1864	EGFR	GeneOrGeneProduct	1956
+21130517	1945	1953	patients	OrganismTaxon	9606
+21130517	1987	1992	tumor	DiseaseOrPhenotypicFeature	D009369
+21130517	Association	rs121434568	D009369	No
+21130517	Association	D000069347	rs121434568	Novel
+21130517	Negative_Correlation	D000069347	D009369	No
+21130517	Association	D000069347	1956	Novel
+21130517	Association	1956	D008175	No
+21130517	Association	1956	D009369	No

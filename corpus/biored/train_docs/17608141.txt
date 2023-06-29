@@ -1,0 +1,48 @@
+17608141|t|Attenuation of methamphetamine-induced nigrostriatal dopaminergic neurotoxicity in mice by lipopolysaccharide pretreatment.
+17608141|a|Immunological activation has been proposed to play a role in methamphetamine-induced dopaminergic terminal damage. In this study, we examined the roles of lipopolysaccharide, a pro-inflammatory and inflammatory factor, treatment in modulating the methamphetamine-induced nigrostriatal dopamine neurotoxicity. Lipopolysaccharide pretreatment did not affect the basal body temperature or methamphetamine-elicited hyperthermia three days later. Such systemic lipopolysaccharide treatment mitigated methamphetamine-induced striatal dopamine and 3,4-dihydroxyphenylacetic acid depletions in a dose-dependent manner. As the most potent dose (1 mg/kg) of lipopolysaccharide was administered two weeks, one day before or after the methamphetamine dosing regimen, methamphetamine-induced striatal dopamine and 3,4-dihydroxyphenylacetic acid depletions remained unaltered. Moreover, systemic lipopolysaccharide pretreatment (1 mg/kg) attenuated local methamphetamine infusion-produced dopamine and 3,4-dihydroxyphenylacetic acid depletions in the striatum, indicating that the protective effect of lipopolysaccharide is less likely due to interrupted peripheral distribution or metabolism of methamphetamine. We concluded a critical time window for systemic lipopolysaccharide pretreatment in exerting effective protection against methamphetamine-induced nigrostriatal dopamine neurotoxicity.
+17608141	15	30	methamphetamine	ChemicalEntity	D008694
+17608141	53	65	dopaminergic	ChemicalEntity	D004298
+17608141	66	79	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+17608141	83	87	mice	OrganismTaxon	10090
+17608141	91	109	lipopolysaccharide	ChemicalEntity	D008070
+17608141	185	200	methamphetamine	ChemicalEntity	D008694
+17608141	209	237	dopaminergic terminal damage	DiseaseOrPhenotypicFeature	D009422
+17608141	279	297	lipopolysaccharide	ChemicalEntity	D008070
+17608141	305	317	inflammatory	DiseaseOrPhenotypicFeature	D007249
+17608141	322	334	inflammatory	DiseaseOrPhenotypicFeature	D007249
+17608141	371	386	methamphetamine	ChemicalEntity	D008694
+17608141	409	417	dopamine	ChemicalEntity	D004298
+17608141	418	431	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+17608141	433	451	Lipopolysaccharide	ChemicalEntity	D008070
+17608141	510	525	methamphetamine	ChemicalEntity	D008694
+17608141	535	547	hyperthermia	DiseaseOrPhenotypicFeature	D005334
+17608141	580	598	lipopolysaccharide	ChemicalEntity	D008070
+17608141	619	634	methamphetamine	ChemicalEntity	D008694
+17608141	652	660	dopamine	ChemicalEntity	D004298
+17608141	665	695	3,4-dihydroxyphenylacetic acid	ChemicalEntity	D015102
+17608141	772	790	lipopolysaccharide	ChemicalEntity	D008070
+17608141	847	862	methamphetamine	ChemicalEntity	D008694
+17608141	879	894	methamphetamine	ChemicalEntity	D008694
+17608141	912	920	dopamine	ChemicalEntity	D004298
+17608141	925	955	3,4-dihydroxyphenylacetic acid	ChemicalEntity	D015102
+17608141	1006	1024	lipopolysaccharide	ChemicalEntity	D008070
+17608141	1065	1080	methamphetamine	ChemicalEntity	D008694
+17608141	1099	1107	dopamine	ChemicalEntity	D004298
+17608141	1112	1142	3,4-dihydroxyphenylacetic acid	ChemicalEntity	D015102
+17608141	1212	1230	lipopolysaccharide	ChemicalEntity	D008070
+17608141	1306	1321	methamphetamine	ChemicalEntity	D008694
+17608141	1372	1390	lipopolysaccharide	ChemicalEntity	D008070
+17608141	1445	1460	methamphetamine	ChemicalEntity	D008694
+17608141	1483	1491	dopamine	ChemicalEntity	D004298
+17608141	1492	1505	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+17608141	Positive_Correlation	D004298	D020258	Novel
+17608141	Association	D008070	D007249	No
+17608141	Negative_Correlation	D008070	D020258	Novel
+17608141	Association	D008070	D015102	Novel
+17608141	Association	D008070	D004298	Novel
+17608141	Negative_Correlation	D008070	D008694	Novel
+17608141	Positive_Correlation	D008694	D009422	No
+17608141	Positive_Correlation	D008694	D020258	No
+17608141	Association	D008694	D015102	Novel
+17608141	Association	D008694	D004298	No
+17608141	Positive_Correlation	D008694	D005334	No

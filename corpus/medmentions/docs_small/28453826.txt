@@ -1,0 +1,43 @@
+28453826|t|Unplanned readmissions within 30 days after discharge: improving quality through easy prediction
+28453826|a|To propose an easy predictive model for the risk of rehospitalization, built from hospital administrative data, in order to prevent repeated admissions and to improve transitional care. Retrospective cohort study. Azienda Ospedaliero Universitaria Pisana (Pisa University Hospital). Patients residing in the territory of the province of Pisa (Tuscany Region) with at least one unplanned hospital admission leading to a medical Diagnosis-Related Group (DRG) in the calendar year 2012. We compared two groups of patients: patients coded as 'RA30' (readmitted within 30 days after the previous discharge) and patients coded as 'NRA30' (either admitted only once or readmitted after 30 days since the latest discharge). The effect of age, sex, length of stay, number of diagnoses, normalized number of admissions and presence of diseases on the probability of rehospitalization within 30 days after discharge was evaluated. The significant variables included in the predictive model were: age, odds ratio (OR) = 1.018, 95% confidence interval (CI) = 1.011-1.026; normalized number of admissions, OR = 1.257, CI = 1.225-1.290; number of diagnoses, OR = 1.306, CI = 1.174-1.452 and presence of cancer diagnosis, OR = 1.479, CI = 1.088-2.011. The model can be easily applied when discharging patients who have been hospitalized after an access to the Emergency Department to predict the risk of rehospitalization within 30 days. The prediction can be used to activate focused hospital-primary care transitional interventions. The model has to be validated first in order to be implemented in clinical practice.
+28453826	10	22	readmissions	T058	UMLS:C0030700
+28453826	44	53	discharge	T058	UMLS:C0030685
+28453826	116	132	predictive model	T170	UMLS:C0026348
+28453826	179	187	hospital	T092	UMLS:C0019994
+28453826	238	248	admissions	T058	UMLS:C0030673
+28453826	264	281	transitional care	T058	UMLS:C4019071
+28453826	283	309	Retrospective cohort study	T062	UMLS:C2985505
+28453826	311	351	Azienda Ospedaliero Universitaria Pisana	T092	UMLS:C0020028
+28453826	353	377	Pisa University Hospital	T092	UMLS:C0020028
+28453826	405	414	territory	T082	UMLS:C2983136
+28453826	422	430	province	T082	UMLS:C1514578
+28453826	434	438	Pisa	T082	UMLS:C0017446
+28453826	440	454	Tuscany Region	T082	UMLS:C0017446
+28453826	484	502	hospital admission	T058	UMLS:C0184666
+28453826	524	547	Diagnosis-Related Group	T170	UMLS:C0011928
+28453826	549	552	DRG	T170	UMLS:C0011928
+28453826	593	603	two groups	T098	UMLS:C1257890
+28453826	643	653	readmitted	T058	UMLS:C0184666
+28453826	688	697	discharge	T058	UMLS:C0030685
+28453826	737	745	admitted	T058	UMLS:C0184666
+28453826	759	769	readmitted	T058	UMLS:C0184666
+28453826	801	810	discharge	T058	UMLS:C0030685
+28453826	863	872	diagnoses	T062	UMLS:C1704656
+28453826	885	905	number of admissions	T033	UMLS:C0574846
+28453826	910	918	presence	T033	UMLS:C0150312
+28453826	922	930	diseases	T038	UMLS:C0012634
+28453826	953	970	rehospitalization	T058	UMLS:C0019993
+28453826	992	1001	discharge	T058	UMLS:C0030685
+28453826	1006	1015	evaluated	T058	UMLS:C0220825
+28453826	1059	1075	predictive model	T170	UMLS:C0026348
+28453826	1167	1187	number of admissions	T033	UMLS:C0574846
+28453826	1229	1238	diagnoses	T062	UMLS:C1704656
+28453826	1285	1301	cancer diagnosis	T058	UMLS:C0920688
+28453826	1337	1342	model	T170	UMLS:C0026348
+28453826	1370	1390	discharging patients	T058	UMLS:C0030685
+28453826	1405	1417	hospitalized	T058	UMLS:C0019993
+28453826	1441	1461	Emergency Department	T092	UMLS:C0562508
+28453826	1566	1587	hospital-primary care	T092	UMLS:C0337952
+28453826	1588	1600	transitional	T058	UMLS:C4019071
+28453826	1601	1614	interventions	T058	UMLS:C0184661
+28453826	1620	1625	model	T170	UMLS:C0026348

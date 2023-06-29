@@ -1,0 +1,60 @@
+28193730|t|Mismatch Repair Incompatibilities in Diverse Yeast Populations
+28193730|a|An elevated mutation rate can provide cells with a source of mutations to adapt to changing environments. We identified a negative epistatic interaction involving naturally occurring variants in the MLH1 and PMS1 mismatch repair (MMR) genes of Saccharomyces cerevisiae We hypothesized that this MMR incompatibility, created through mating between divergent S. cerevisiae, yields mutator progeny that can rapidly but transiently adapt to an environmental stress. Here we analyzed the MLH1 and PMS1 genes across 1010 S. cerevisiae natural isolates spanning a wide range of ecological sources (tree exudates, Drosophila, fruits, and various fermentation and clinical isolates) and geographical sources (Europe, America, Africa, and Asia). We identified one homozygous clinical isolate and 18 heterozygous isolates containing the incompatible MMR genotype. The MLH1 - PMS1 gene combination isolated from the homozygous clinical isolate conferred a mutator phenotype when expressed in the S288c laboratory background. Using a novel reporter to measure mutation rates, we showed that the overall mutation rate in the homozygous incompatible background was similar to that seen in compatible strains, indicating the presence of suppressor mutations in the clinical isolate that lowered its mutation rate. This observation and the identification of 18 heterozygous isolates, which can lead to MMR incompatible genotypes in the offspring, are consistent with an elevated mutation rate rapidly but transiently facilitating adaptation. To avoid long-term fitness costs, the incompatibility is apparently buffered by mating or by acquiring suppressors. These observations highlight effective strategies in eukaryotes to avoid long-term fitness costs associated with elevated mutation rates.
+28193730	0	15	Mismatch Repair	T038	UMLS:C1155661
+28193730	45	50	Yeast	T204	UMLS:C0036025
+28193730	101	106	cells	T017	UMLS:C0007634
+28193730	114	120	source	T033	UMLS:C0449416
+28193730	124	133	mutations	T038	UMLS:C0026882
+28193730	155	167	environments	T082	UMLS:C0014406
+28193730	185	193	negative	T033	UMLS:C0205160
+28193730	194	215	epistatic interaction	T038	UMLS:C0014589
+28193730	262	266	MLH1	T017	UMLS:C0879389
+28193730	271	275	PMS1	T017	UMLS:C0879390
+28193730	276	291	mismatch repair	T038	UMLS:C1155661
+28193730	293	296	MMR	T038	UMLS:C1155661
+28193730	298	303	genes	T017	UMLS:C0017337
+28193730	307	331	Saccharomyces cerevisiae	T204	UMLS:C0036025
+28193730	358	361	MMR	T038	UMLS:C1155661
+28193730	395	401	mating	T038	UMLS:C1260875
+28193730	420	433	S. cerevisiae	T204	UMLS:C0036025
+28193730	533	541	analyzed	T062	UMLS:C0936012
+28193730	546	550	MLH1	T017	UMLS:C0879389
+28193730	555	565	PMS1 genes	T017	UMLS:C0879390
+28193730	578	591	S. cerevisiae	T204	UMLS:C0036025
+28193730	600	608	isolates	T103	UMLS:C1764827
+28193730	645	652	sources	T033	UMLS:C0449416
+28193730	654	658	tree	T204	UMLS:C0040811
+28193730	659	667	exudates	T031	UMLS:C0015388
+28193730	669	679	Drosophila	T204	UMLS:C0013138
+28193730	681	687	fruits	T168	UMLS:C0016767
+28193730	701	713	fermentation	T038	UMLS:C0015852
+28193730	727	735	isolates	T103	UMLS:C1764827
+28193730	741	753	geographical	T082	UMLS:C0565935
+28193730	754	761	sources	T033	UMLS:C0449416
+28193730	763	769	Europe	T082	UMLS:C0015176
+28193730	771	778	America	T082	UMLS:C0002454
+28193730	780	786	Africa	T082	UMLS:C0001737
+28193730	792	796	Asia	T082	UMLS:C0003980
+28193730	837	844	isolate	T103	UMLS:C1764827
+28193730	865	873	isolates	T103	UMLS:C1764827
+28193730	902	905	MMR	T038	UMLS:C1155661
+28193730	920	924	MLH1	T017	UMLS:C0879389
+28193730	927	936	PMS1 gene	T017	UMLS:C0879390
+28193730	987	994	isolate	T103	UMLS:C1764827
+28193730	1030	1039	expressed	T038	UMLS:C0017262
+28193730	1053	1063	laboratory	T092	UMLS:C0022877
+28193730	1090	1098	reporter	T103	UMLS:C1522485
+28193730	1284	1304	suppressor mutations	T038	UMLS:C0038859
+28193730	1321	1328	isolate	T103	UMLS:C1764827
+28193730	1366	1377	observation	T062	UMLS:C0302523
+28193730	1420	1428	isolates	T103	UMLS:C1764827
+28193730	1420	1428	isolates	T103	UMLS:C1764827
+28193730	1448	1451	MMR	T038	UMLS:C1155661
+28193730	1576	1586	adaptation	T038	UMLS:C0392673
+28193730	1607	1614	fitness	T038	UMLS:C2717776
+28193730	1656	1664	buffered	T103	UMLS:C0006353
+28193730	1668	1674	mating	T038	UMLS:C1260875
+28193730	1691	1702	suppressors	T038	UMLS:C0038859
+28193730	1710	1722	observations	T062	UMLS:C0302523
+28193730	1757	1767	eukaryotes	T204	UMLS:C0684063
+28193730	1787	1794	fitness	T038	UMLS:C2717776

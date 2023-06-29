@@ -1,0 +1,36 @@
+15609295|t|Compound heterozygosity for a novel nine-nucleotide deletion and the Asn45Ser missense mutation in the glycoprotein IX gene in a patient with Bernard-Soulier syndrome.
+15609295|a|Bernard-Soulier syndrome (BSS) is a rare inherited bleeding disorder due to quantitative or qualitative abnormalities in the platelet glycoprotein (GP) Ib/IX/V complex, the major von Willebrand factor receptor. The complex comprises four subunits, each encoded by a separate gene. Several mutations have been described for each of the subunits, except for GPV, as a cause of BSS. We describe here the genetic basis of the disorder in a child with BSS. Flow-cytometric analysis of the patient's platelets showed a markedly reduced surface expression of all three glycoproteins of the GPIb/IX/V complex. DNA sequencing analysis showed the patient to be a compound heterozygote for two mutations in the GPIX gene, a novel nine-nucleotide deletion starting at position 1952 of the gene that changes asparagine 86 for alanine and eliminates amino acids 87, 88, and 89 (arginine, threonine, and proline) and a previously reported point mutation that changes the codon asparagine (AAC) for serine (AGC) at residue 45. Her mother was heterozygous for the Asn45Ser mutation, and her father, for the nine-nucleotide deletion. Our findings suggest that the additive effects of both mutations in the GPIX gene are responsible for the BSS phenotype of the patient.
+15609295	69	77	Asn45Ser	SequenceVariant	rs5030764
+15609295	103	118	glycoprotein IX	GeneOrGeneProduct	2815
+15609295	129	136	patient	OrganismTaxon	9606
+15609295	142	166	Bernard-Soulier syndrome	DiseaseOrPhenotypicFeature	D001606
+15609295	168	192	Bernard-Soulier syndrome	DiseaseOrPhenotypicFeature	D001606
+15609295	194	197	BSS	DiseaseOrPhenotypicFeature	D001606
+15609295	209	236	inherited bleeding disorder	DiseaseOrPhenotypicFeature	D025861
+15609295	302	327	glycoprotein (GP) Ib/IX/V	GeneOrGeneProduct	2811,2814,2815
+15609295	347	368	von Willebrand factor	GeneOrGeneProduct	7450
+15609295	524	527	GPV	GeneOrGeneProduct	2814
+15609295	543	546	BSS	DiseaseOrPhenotypicFeature	D001606
+15609295	615	618	BSS	DiseaseOrPhenotypicFeature	D001606
+15609295	652	659	patient	OrganismTaxon	9606
+15609295	730	743	glycoproteins	GeneOrGeneProduct	2811,2814,2815
+15609295	751	760	GPIb/IX/V	GeneOrGeneProduct	2811,2814,2815
+15609295	805	812	patient	OrganismTaxon	9606
+15609295	868	872	GPIX	GeneOrGeneProduct	2815
+15609295	887	937	nine-nucleotide deletion starting at position 1952	SequenceVariant	c|DEL|1952|9
+15609295	955	1065	changes asparagine 86 for alanine and eliminates amino acids 87, 88, and 89 (arginine, threonine, and proline)	SequenceVariant	p|SUB|NRTP|86_89|A
+15609295	1130	1177	asparagine (AAC) for serine (AGC) at residue 45	SequenceVariant	rs5030764
+15609295	1215	1223	Asn45Ser	SequenceVariant	rs5030764
+15609295	1356	1360	GPIX	GeneOrGeneProduct	2815
+15609295	1390	1393	BSS	DiseaseOrPhenotypicFeature	D001606
+15609295	1411	1418	patient	OrganismTaxon	9606
+15609295	Bind	2814	7450	No
+15609295	Association	2814	D001606	No
+15609295	Bind	2811	7450	No
+15609295	Association	2811	D001606	No
+15609295	Association	7450	D001606	No
+15609295	Bind	2815	7450	No
+15609295	Association	2815	D001606	Novel
+15609295	Positive_Correlation	rs5030764	D001606	Novel
+15609295	Positive_Correlation	p|SUB|NRTP|86_89|A	D001606	Novel
+15609295	Positive_Correlation	c|DEL|1952|9	D001606	Novel

@@ -1,0 +1,96 @@
+28487818|t|Modeling adsorption of brominated, chlorinated and mixed bromo / chloro-dibenzo-p-dioxins on C60 fullerene using Nano-QSPR
+28487818|a|Many technological implementations in the field of nanotechnology have involved carbon nanomaterials, including fullerenes such as the buckminsterfullerene, C60. The unprecedented properties of such organic nanomaterials (in particular their large surface area) gained extensive attention for their potential use as organic pollutant sorbents. Sorption interactions can be very hazardous and useful at the same time. This work investigates the influence of halogenation by bromine and/or chlorine in dibenzo-p-dioxins on their sorption ability on the C60 fullerene surface. Halogenated dibenzo-p-dioxins (PXDDs, where X = Br or Cl) are ever-present in the environment and accidently produced in many technological processes in only approximately known quantities. If all combinatorial Br and/or Cl dioxin substitution possibilities are present in the environment, the experimental characterization and investigation of sorbent effectiveness is more than difficult. In this work, we have developed a quantitative structure-property relationship (QSPR) model (R(2) = 0.998), predicting the adsorption energy [kcal/mol] for 1,701 PXDDs adsorbed on C60 (PXDD @ C60). Based on the QSPR model reported herein, we concluded that the lowest energy PXDD @ C60 complexes are those that the World Health Organization (WHO) considers to be less dangerous with respect to the aryl hydrocarbon receptor (AhR) toxicity mechanism. Therefore, the effectiveness of fullerenes as sorbent agents may be underestimated as sorption could be less effective for toxic congeners than previously believed.
+28487818	0	8	Modeling	T062	C0870071
+28487818	9	19	adsorption	T059	C0001674
+28487818	23	33	brominated	T109	C1723493
+28487818	35	46	chlorinated	T109,T131	C4277576
+28487818	57	62	bromo	T109	C1723493
+28487818	65	89	chloro-dibenzo-p-dioxins	T109,T131	C4277576
+28487818	93	106	C60 fullerene	T109,T121	C0118354
+28487818	113	122	Nano-QSPR	T081	C1564131
+28487818	128	141	technological	UnknownType	C0681539
+28487818	142	157	implementations	T052	C1708476
+28487818	174	188	nanotechnology	T090	C0872323
+28487818	203	209	carbon	T196	C0007009
+28487818	210	223	nanomaterials	T073	C1450053
+28487818	235	245	fullerenes	T104	C0302934
+28487818	258	278	buckminsterfullerene	T109	C3665327
+28487818	280	283	C60	T109	C3665327
+28487818	303	313	properties	T080	C0871161
+28487818	322	329	organic	T080	C0747055
+28487818	330	343	nanomaterials	T073	C1450053
+28487818	371	383	surface area	T082	C1254362
+28487818	392	401	extensive	T080	C0205231
+28487818	422	431	potential	T080	C3245505
+28487818	439	446	organic	T080	C0747055
+28487818	447	456	pollutant	T131	C0599786
+28487818	457	465	sorbents	T073	C3273359
+28487818	467	475	Sorption	T067	C1882365
+28487818	476	488	interactions	T169	C1704675
+28487818	501	510	hazardous	T080	C0337044
+28487818	515	521	useful	T080	C3827682
+28487818	550	562	investigates	T169	C1292732
+28487818	567	576	influence	T077	C4054723
+28487818	580	592	halogenation	T067	C0259913
+28487818	596	603	bromine	T131,T196	C0006223
+28487818	611	619	chlorine	T131,T196	C0008209
+28487818	623	640	dibenzo-p-dioxins	T109	C1723493
+28487818	650	666	sorption ability	T067	C1882365
+28487818	674	687	C60 fullerene	T109,T121	C0118354
+28487818	688	695	surface	T082	C0205148
+28487818	697	708	Halogenated	T080	C0205556
+28487818	709	726	dibenzo-p-dioxins	T109	C1723493
+28487818	728	733	PXDDs	T109	C1723493
+28487818	745	747	Br	T131,T196	C0006223
+28487818	751	753	Cl	T131,T196	C0008209
+28487818	779	790	environment	T082	C0014406
+28487818	795	805	accidently	T033	C0243095
+28487818	823	846	technological processes	UnknownType	C0681539
+28487818	855	868	approximately	T080	C0332232
+28487818	875	885	quantities	T081	C1265611
+28487818	894	907	combinatorial	T080	C0205556
+28487818	908	910	Br	T131,T196	C0006223
+28487818	918	920	Cl	T131,T196	C0008209
+28487818	921	927	dioxin	T109,T131	C0012503
+28487818	928	940	substitution	T044	C0596324
+28487818	959	966	present	T033	C0150312
+28487818	974	985	environment	T082	C0014406
+28487818	991	1003	experimental	T080	C1517586
+28487818	1004	1020	characterization	T185	C0243175
+28487818	1025	1038	investigation	T058	C0220825
+28487818	1042	1049	sorbent	T073	C3273359
+28487818	1050	1063	effectiveness	T080	C1280519
+28487818	1077	1086	difficult	T080	C0332218
+28487818	1122	1166	quantitative structure-property relationship	T081	C1564131
+28487818	1168	1172	QSPR	T081	C1564131
+28487818	1174	1179	model	T170	C3161035
+28487818	1211	1221	adsorption	T059	C0001674
+28487818	1222	1228	energy	T070	C0542479
+28487818	1250	1255	PXDDs	T109	C1723493
+28487818	1256	1264	adsorbed	T067	C1882365
+28487818	1268	1271	C60	T109	C3665327
+28487818	1273	1277	PXDD	T109	C1723493
+28487818	1280	1283	C60	T109	C3665327
+28487818	1299	1303	QSPR	T081	C1564131
+28487818	1304	1309	model	T170	C3161035
+28487818	1310	1318	reported	T170	C0684224
+28487818	1349	1355	lowest	T080	C1708760
+28487818	1356	1362	energy	T070	C0542479
+28487818	1363	1367	PXDD	T109	C1723493
+28487818	1370	1373	C60	T109	C3665327
+28487818	1374	1383	complexes	T104	C1704241
+28487818	1403	1428	World Health Organization	T093	C0043237
+28487818	1430	1433	WHO	T093	C0043237
+28487818	1435	1444	considers	T078	C0750591
+28487818	1486	1511	aryl hydrocarbon receptor	T116,T192	C0052441
+28487818	1513	1516	AhR	T116,T192	C0052441
+28487818	1518	1526	toxicity	T080	C0040539
+28487818	1527	1536	mechanism	T169	C0441712
+28487818	1553	1566	effectiveness	T080	C1280519
+28487818	1570	1580	fullerenes	T104	C0302934
+28487818	1584	1591	sorbent	T073	C3273359
+28487818	1592	1598	agents	T120	C0450442
+28487818	1624	1632	sorption	T067	C1882365
+28487818	1647	1656	effective	T080	C1704419
+28487818	1661	1666	toxic	T080	C1407029
+28487818	1667	1676	congeners	T104	C0678518

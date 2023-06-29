@@ -1,0 +1,23 @@
+27873364|t|Modelling the effect of hydration on skin conductivity
+27873364|a|Electrical signals are recorded from and sent into the body via the skin in a number of applications. In practice, skin is often hydrated with liquids having different conductivities so a model was produced in order to determine the relationship between skin impedance and conductivity. A model representing the skin was subjected to a variety of electrical signals. The parts of the model representing the stratum corneum were given different conductivities to represent different levels of hydration. The overall impedance and conductivity of the cells did not vary at frequencies below 40 kHz. Above 40 kHz, levels of increased conductivity caused the overall impedance to decrease. The variation in impedance with conductivity between 5 and 50 mSm(-1) can be modelled quadratically while variation in impedance with conductivity between 5 and 5000 mSm(-1) can be modelled with a double exponential decay.
+27873364	0	9	Modelling	T062	UMLS:C0870071
+27873364	24	33	hydration	T033	UMLS:C1321013
+27873364	37	54	skin conductivity	T038	UMLS:C0016989
+27873364	110	114	body	T017	UMLS:C1268086
+27873364	123	127	skin	T022	UMLS:C1123023
+27873364	170	174	skin	T022	UMLS:C1123023
+27873364	243	248	model	T170	UMLS:C3161035
+27873364	309	313	skin	T022	UMLS:C1123023
+27873364	314	323	impedance	T038	UMLS:C0162537
+27873364	344	349	model	T170	UMLS:C3161035
+27873364	367	371	skin	T022	UMLS:C1123023
+27873364	439	444	model	T170	UMLS:C3161035
+27873364	462	477	stratum corneum	T017	UMLS:C0221921
+27873364	537	556	levels of hydration	T033	UMLS:C1321013
+27873364	570	579	impedance	T038	UMLS:C0162537
+27873364	604	609	cells	T017	UMLS:C0007634
+27873364	718	727	impedance	T038	UMLS:C0162537
+27873364	758	767	impedance	T038	UMLS:C0162537
+27873364	818	826	modelled	T062	UMLS:C0870071
+27873364	860	869	impedance	T038	UMLS:C0162537
+27873364	922	930	modelled	T062	UMLS:C0870071

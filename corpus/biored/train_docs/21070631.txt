@@ -1,0 +1,54 @@
+21070631|t|The dopamine b-hydroxylase -1021C/T polymorphism is associated with the risk of Alzheimer's disease in the Epistasis Project.
+21070631|a|BACKGROUND: The loss of noradrenergic neurones of the locus coeruleus is a major feature of Alzheimer's disease (AD). Dopamine b-hydroxylase (DBH) catalyses the conversion of dopamine to noradrenaline. Interactions have been reported between the low-activity -1021T allele (rs1611115) of DBH and polymorphisms of the pro-inflammatory cytokine genes, IL1A and IL6, contributing to the risk of AD. We therefore examined the associations with AD of the DBH -1021T allele and of the above interactions in the Epistasis Project, with 1757 cases of AD and 6294 elderly controls. METHODS: We genotyped eight single nucleotide polymorphisms (SNPs) in the three genes, DBH, IL1A and IL6. We used logistic regression models and synergy factor analysis to examine potential interactions and associations with AD. RESULTS: We found that the presence of the -1021T allele was associated with AD: odds ratio = 1.2 (95% confidence interval: 1.06-1.4, p = 0.005). This association was nearly restricted to men < 75 years old: odds ratio = 2.2 (1.4-3.3, 0.0004). We also found an interaction between the presence of DBH -1021T and the -889TT genotype (rs1800587) of IL1A: synergy factor = 1.9 (1.2-3.1, 0.005). All these results were consistent between North Europe and North Spain. CONCLUSIONS: Extensive, previous evidence (reviewed here) indicates an important role for noradrenaline in the control of inflammation in the brain. Thus, the -1021T allele with presumed low activity may be associated with misregulation of inflammation, which could contribute to the onset of AD. We suggest that such misregulation is the predominant mechanism of the association we report here.
+21070631	4	26	dopamine b-hydroxylase	GeneOrGeneProduct	1621
+21070631	27	35	-1021C/T	SequenceVariant	rs1611115
+21070631	80	99	Alzheimer's disease	DiseaseOrPhenotypicFeature	D000544
+21070631	218	237	Alzheimer's disease	DiseaseOrPhenotypicFeature	D000544
+21070631	239	241	AD	DiseaseOrPhenotypicFeature	D000544
+21070631	244	266	Dopamine b-hydroxylase	GeneOrGeneProduct	1621
+21070631	268	271	DBH	GeneOrGeneProduct	1621
+21070631	301	309	dopamine	ChemicalEntity	D004298
+21070631	313	326	noradrenaline	ChemicalEntity	D009638
+21070631	385	391	-1021T	SequenceVariant	rs1611115
+21070631	400	409	rs1611115	SequenceVariant	rs1611115
+21070631	414	417	DBH	GeneOrGeneProduct	1621
+21070631	447	459	inflammatory	DiseaseOrPhenotypicFeature	D007249
+21070631	476	480	IL1A	GeneOrGeneProduct	3552
+21070631	485	488	IL6	GeneOrGeneProduct	3569
+21070631	518	520	AD	DiseaseOrPhenotypicFeature	D000544
+21070631	566	568	AD	DiseaseOrPhenotypicFeature	D000544
+21070631	576	579	DBH	GeneOrGeneProduct	1621
+21070631	580	586	-1021T	SequenceVariant	rs1611115
+21070631	669	671	AD	DiseaseOrPhenotypicFeature	D000544
+21070631	786	789	DBH	GeneOrGeneProduct	1621
+21070631	791	795	IL1A	GeneOrGeneProduct	3552
+21070631	800	803	IL6	GeneOrGeneProduct	3569
+21070631	924	926	AD	DiseaseOrPhenotypicFeature	D000544
+21070631	971	977	-1021T	SequenceVariant	rs1611115
+21070631	1005	1007	AD	DiseaseOrPhenotypicFeature	D000544
+21070631	1116	1119	men	OrganismTaxon	9606
+21070631	1225	1228	DBH	GeneOrGeneProduct	1621
+21070631	1229	1235	-1021T	SequenceVariant	rs1611115
+21070631	1244	1250	-889TT	SequenceVariant	rs1800587
+21070631	1261	1270	rs1800587	SequenceVariant	rs1800587
+21070631	1275	1279	IL1A	GeneOrGeneProduct	3552
+21070631	1482	1495	noradrenaline	ChemicalEntity	D009638
+21070631	1514	1526	inflammation	DiseaseOrPhenotypicFeature	D007249
+21070631	1551	1557	-1021T	SequenceVariant	rs1611115
+21070631	1632	1644	inflammation	DiseaseOrPhenotypicFeature	D007249
+21070631	1685	1687	AD	DiseaseOrPhenotypicFeature	D000544
+21070631	Conversion	D004298	D009638	No
+21070631	Negative_Correlation	D009638	D007249	No
+21070631	Association	3569	D000544	No
+21070631	Association	3552	D000544	No
+21070631	Association	D007249	3569	No
+21070631	Association	D007249	3552	No
+21070631	Association	rs1611115	D007249	No
+21070631	Positive_Correlation	rs1611115	D000544	Novel
+21070631	Association	D000544	D009638	No
+21070631	Association	1621	D004298	No
+21070631	Association	1621	D009638	No
+21070631	Association	1621	3569	No
+21070631	Association	1621	3552	Novel
+21070631	Association	1621	D007249	No
+21070631	Association	1621	D000544	Novel

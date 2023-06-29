@@ -1,0 +1,51 @@
+17065198|t|Analysis of skin cancer risk factors in immunosuppressed renal transplant patients shows high levels of UV-specific tandem CC to TT mutations of the p53 gene.
+17065198|a|Immunosuppressed renal transplant recipients (RTRs) are predisposed to non-melanoma skin cancers (NMSCs), predominantly squamous cell carcinomas (SCCs). We have analyzed skin lesions from RTRs with aggressive tumors for p53 gene modifications, the presence of Human Papillomas Virus (HPV) DNA in relation to the p53 codon 72 genotype and polymorphisms of the XPD repair gene. We detected 24 p53 mutations in 15/25 (60%) NMSCs, 1 deletion and 23 base substitutions, the majority (78%) being UV-specific C to T transitions at bipyrimidine sites. Importantly, 35% (6/17) are tandem mutations, including 4 UV signature CC to TT transitions possibly linked to modulated DNA repair caused by the immunosuppressive drug cyclosporin A (CsA). We found 8 p53 mutations in 7/17 (41%) precancerous actinic keratosis (AK), suggesting that p53 mutations are early events in RTR skin carcinogenesis. Immunohistochemical analysis shows a good correlation between p53 accumulation and mutations. HPV DNA was detected in 78% of skin lesions (60% Basal Cell Carcinomas, 82%AK and 79% SCCs). Thus, immunosuppression has increased the risk of infections by HPVs, predominantly epidermodysplasia verruciformis, speculated to play a role in skin cancer development. No association is found between HPV status and p53 mutation. Moreover, p53 codon 72 or frequencies of three XPD genotypes of RTRs are comparable with control populations. The p53 mutation spectrum, presenting a high level of CC to TT mutations, shows that the UV component of sunlight is the major risk factor and modulated DNA repair by immunosuppressive drug treatment may be significant in the skin carcinogenesis of RTRs.
+17065198	12	23	skin cancer	DiseaseOrPhenotypicFeature	D012878
+17065198	74	82	patients	OrganismTaxon	9606
+17065198	123	131	CC to TT	SequenceVariant	c|SUB|C||T
+17065198	149	152	p53	GeneOrGeneProduct	7157
+17065198	230	255	non-melanoma skin cancers	DiseaseOrPhenotypicFeature	D012878
+17065198	257	262	NMSCs	DiseaseOrPhenotypicFeature	D012878
+17065198	279	303	squamous cell carcinomas	DiseaseOrPhenotypicFeature	D002294
+17065198	305	309	SCCs	DiseaseOrPhenotypicFeature	D002294
+17065198	329	341	skin lesions	DiseaseOrPhenotypicFeature	D012871
+17065198	368	374	tumors	DiseaseOrPhenotypicFeature	D009369
+17065198	379	382	p53	GeneOrGeneProduct	7157
+17065198	419	441	Human Papillomas Virus	OrganismTaxon	10566
+17065198	443	446	HPV	OrganismTaxon	10566
+17065198	471	474	p53	GeneOrGeneProduct	7157
+17065198	518	521	XPD	GeneOrGeneProduct	2068
+17065198	550	553	p53	GeneOrGeneProduct	7157
+17065198	579	584	NMSCs	DiseaseOrPhenotypicFeature	D012878
+17065198	661	667	C to T	SequenceVariant	c|SUB|C||T
+17065198	774	782	CC to TT	SequenceVariant	c|SUB|C||T
+17065198	872	885	cyclosporin A	ChemicalEntity	D016572
+17065198	887	890	CsA	ChemicalEntity	D016572
+17065198	904	907	p53	GeneOrGeneProduct	7157
+17065198	932	944	precancerous	DiseaseOrPhenotypicFeature	D011230
+17065198	945	962	actinic keratosis	DiseaseOrPhenotypicFeature	D055623
+17065198	964	966	AK	DiseaseOrPhenotypicFeature	D055623
+17065198	985	988	p53	GeneOrGeneProduct	7157
+17065198	1023	1042	skin carcinogenesis	DiseaseOrPhenotypicFeature	D012878
+17065198	1106	1109	p53	GeneOrGeneProduct	7157
+17065198	1138	1141	HPV	OrganismTaxon	10566
+17065198	1169	1181	skin lesions	DiseaseOrPhenotypicFeature	D012871
+17065198	1187	1208	Basal Cell Carcinomas	DiseaseOrPhenotypicFeature	D002280
+17065198	1213	1215	AK	DiseaseOrPhenotypicFeature	D055623
+17065198	1224	1228	SCCs	DiseaseOrPhenotypicFeature	D002294
+17065198	1281	1291	infections	DiseaseOrPhenotypicFeature	D007239
+17065198	1295	1299	HPVs	OrganismTaxon	10566
+17065198	1315	1346	epidermodysplasia verruciformis	DiseaseOrPhenotypicFeature	D004819
+17065198	1377	1388	skin cancer	DiseaseOrPhenotypicFeature	D012878
+17065198	1434	1437	HPV	OrganismTaxon	10566
+17065198	1449	1452	p53	GeneOrGeneProduct	7157
+17065198	1473	1476	p53	GeneOrGeneProduct	7157
+17065198	1510	1513	XPD	GeneOrGeneProduct	2068
+17065198	1577	1580	p53	GeneOrGeneProduct	7157
+17065198	1627	1635	CC to TT	SequenceVariant	c|SUB|C||T
+17065198	1799	1818	skin carcinogenesis	DiseaseOrPhenotypicFeature	D012878
+17065198	Association	7157	D012878	Novel
+17065198	Association	7157	D055623	Novel
+17065198	Association	7157	D016572	Novel
+17065198	Positive_Correlation	c|SUB|C||T	D012878	Novel
+17065198	Association	c|SUB|C||T	D016572	Novel

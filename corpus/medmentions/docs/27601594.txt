@@ -1,0 +1,78 @@
+27601594|t|Neoadjuvant Chemotherapy of Ovarian Cancer Results in Three Patterns of Tumor-Infiltrating Lymphocyte Response with Distinct Implications for Immunotherapy
+27601594|a|Purpose: Some forms of chemotherapy can enhance antitumor immunity through immunogenic cell death, resulting in increased T-cell activation and tumor infiltration. Such effects could potentially sensitize tumors to immunotherapies, including checkpoint blockade. We investigated whether platinum - and taxane -based chemotherapy for ovarian cancer induces immunologic changes consistent with this possibility. Experimental Design: Matched pre - and post - neoadjuvant chemotherapy tumor samples from 26 high-grade serous carcinoma (HGSC) patients were analyzed by immunohistochemistry (IHC) for a large panel of immune cells and associated factors. The prognostic significance of post - chemotherapy TIL patterns was assessed in an expanded cohort (n = 90).Results: Neoadjuvant chemotherapy was associated with increased densities of CD3 (+), CD8 (+), CD8 (+) TIA-1 (+), PD-1 (+) and CD20 (+) TIL. Other immune subsets and factors were unchanged, including CD79a (+) CD138 (+) plasma cells, CD68 (+) macrophages, and MHC class I on tumor cells. Immunosuppressive cell types were also unchanged, including FoxP3 (+) PD-1 (+) cells (putative regulatory T cells), IDO-1 (+) cells, and PD-L1 (+) cells (both macrophages and tumor cells). Hierarchical clustering revealed three response patterns: (i) TIL (high) tumors showed increases in multiple immune markers after chemotherapy; (ii) TIL (low) tumors underwent similar increases, achieving patterns indistinguishable from the first group; and (iii) TIL (negative) cases generally remained negative. Despite the dramatic increases seen in the first two patterns, post- chemotherapy TIL showed limited prognostic significance.Conclusions: Chemotherapy augments pre-existing TIL responses but fails to relieve major immune-suppressive mechanisms or confer significant prognostic benefit. Our findings provide rationale for multipronged approaches to immunotherapy tailored to the baseline features of the tumor microenvironment. Clin Cancer Res; 23(4); 925-34. ©2016 AACR.
+27601594	0	24	Neoadjuvant Chemotherapy	T061	C4272610
+27601594	28	42	Ovarian Cancer	T191	C0029925
+27601594	72	101	Tumor-Infiltrating Lymphocyte	T025	C0079722
+27601594	102	110	Response	T039	C0301909
+27601594	142	155	Immunotherapy	T061	C0278348
+27601594	179	191	chemotherapy	T061	C0392920
+27601594	204	213	antitumor	T080	C2986475
+27601594	214	222	immunity	T039	C0020964
+27601594	231	242	immunogenic	T169	C0872192
+27601594	243	253	cell death	T043	C0007587
+27601594	278	295	T-cell activation	T043	C1155065
+27601594	300	318	tumor infiltration	T191	C4060690
+27601594	361	367	tumors	T191	C0027651
+27601594	371	386	immunotherapies	T061	C0278348
+27601594	398	417	checkpoint blockade	T043	C1155873
+27601594	443	451	platinum	T196	C0032207
+27601594	458	464	taxane	T109,T121	C0215136
+27601594	472	484	chemotherapy	T061	C0392920
+27601594	489	503	ovarian cancer	T191	C0029925
+27601594	512	523	immunologic	T169	C0205470
+27601594	566	585	Experimental Design	T062	C0015320
+27601594	595	598	pre	T079	C0332152
+27601594	605	609	post	T079	C0687676
+27601594	612	636	neoadjuvant chemotherapy	T061	C4272610
+27601594	637	650	tumor samples	T024	C0475358
+27601594	659	686	high-grade serous carcinoma	T191	C3839280
+27601594	688	692	HGSC	T191	C3839280
+27601594	720	740	immunohistochemistry	T060	C0021044
+27601594	742	745	IHC	T060	C0021044
+27601594	768	780	immune cells	T025	C0312740
+27601594	836	840	post	T079	C0687676
+27601594	843	855	chemotherapy	T061	C0392920
+27601594	856	859	TIL	T025	C0079722
+27601594	897	903	cohort	T098	C0599755
+27601594	922	946	Neoadjuvant chemotherapy	T061	C4272610
+27601594	990	993	CD3	T116,T129	C0108779
+27601594	999	1002	CD8	T129	C0085358
+27601594	1008	1011	CD8	T129	C0085358
+27601594	1016	1021	TIA-1	T116,T129	C1429678
+27601594	1027	1031	PD-1	T116,T129,T192	C2986635
+27601594	1040	1044	CD20	T116,T129	C0054946
+27601594	1049	1052	TIL	T025	C0079722
+27601594	1113	1118	CD79a	T116,T192	C0286618
+27601594	1123	1128	CD138	T116,T123	C1609943
+27601594	1133	1145	plasma cells	T025	C0032112
+27601594	1147	1151	CD68	T116,T129	C0108799
+27601594	1156	1167	macrophages	T025	C0024432
+27601594	1173	1184	MHC class I	T116,T129	C0019629
+27601594	1188	1199	tumor cells	T025	C0597032
+27601594	1201	1218	Immunosuppressive	T047	C4048329
+27601594	1219	1223	cell	T025	C0007634
+27601594	1261	1266	FoxP3	T116,T123	C4282118
+27601594	1271	1275	PD-1	T116,T129,T192	C2986635
+27601594	1280	1285	cells	T025	C0039198
+27601594	1296	1314	regulatory T cells	T025	C0039198
+27601594	1317	1322	IDO-1	T116,T126	C3529891
+27601594	1338	1343	PD-L1	T129	C4300350
+27601594	1360	1371	macrophages	T025	C0024432
+27601594	1376	1387	tumor cells	T025	C0597032
+27601594	1390	1413	Hierarchical clustering	T062	C1881045
+27601594	1452	1455	TIL	T025	C0079722
+27601594	1463	1469	tumors	T191	C0027651
+27601594	1499	1513	immune markers	T080	C0162489
+27601594	1520	1532	chemotherapy	T061	C4272610
+27601594	1539	1542	TIL	T025	C0079722
+27601594	1654	1657	TIL	T025	C0079722
+27601594	1659	1667	negative	T033	C0205160
+27601594	1694	1702	negative	T033	C0205160
+27601594	1773	1785	chemotherapy	T061	C0392920
+27601594	1786	1789	TIL	T025	C0079722
+27601594	1842	1854	Chemotherapy	T061	C4272610
+27601594	1877	1880	TIL	T025	C0079722
+27601594	1881	1890	responses	T039	C0301909
+27601594	1918	1947	immune-suppressive mechanisms	T047	C1840264
+27601594	2052	2065	immunotherapy	T061	C0278348
+27601594	2107	2129	tumor microenvironment	T070	C2936626

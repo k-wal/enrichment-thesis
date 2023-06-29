@@ -1,0 +1,82 @@
+28267199|t|Real-world impact of non-breast cancer-specific death on overall survival in resectable breast cancer
+28267199|a|The real-world occurrence rate of non-breast cancer-specific death (non-BCSD) and its impact on patients with breast cancer are poorly recognized. Women with resectable breast cancer from 1990 to 2007 in the Surveillance, Epidemiology, and End Results database (n = 199,963) were analyzed. The outcome events of breast cancer were classified as breast cancer-specific death (BCSD), non-BCSD, or survival. Binary logistics was used to estimate the occurrence rates of non-BCSD and BCSD with different clinicopathological factors. The Gray method was used to measure the cumulative incidence of non-BCSD and BCSD. The ratio of non-BCSDs to all causes of death and stacked cumulative incidence function plots were used to present the impact of non-BCSD on overall survival (OS). Models of Cox proportional hazards regression and competing risk regression were compared to highlight the suitable model. There were 12,879 non-BCSDs (6.44%) and 28,784 BCSDs (14.39%). The oldest age group (>62 years), black race, and a single or divorced marital status were associated with more non-BCSDs. With adjustments for age, a hormone receptor-positive (HoR+) status was no longer related to increased non-BCSD s. In patients with grade 1, stage I disease and an HoR+ status as well as the oldest subgroup, a great dilution of non-BCSD on all causes of death could be observed, and this led to incorrect interpretations. The inaccuracy, caused by the commonly used Cox proportional hazards model, could be corrected by a competing risk model. OS was largely impaired by non-BCSD during early breast cancer. For some future clinical trial planning, especially for the oldest patients and those with HoR+ breast cancer, non-BCSD should be considered a competing risk event. Cancer 2017. © 2017 American Cancer Society.
+28267199	0	17	Real-world impact	T080	C4049986
+28267199	21	53	non-breast cancer-specific death	T033	C1408354
+28267199	57	73	overall survival	T081	C4086681
+28267199	77	87	resectable	T080	C1514888
+28267199	88	101	breast cancer	T191	C0006142
+28267199	117	132	occurrence rate	T081	C1521828
+28267199	136	168	non-breast cancer-specific death	T033	C1408354
+28267199	170	178	non-BCSD	T033	C1408354
+28267199	188	194	impact	T080	C4049986
+28267199	198	206	patients	T101	C0030705
+28267199	212	225	breast cancer	T191	C0006142
+28267199	249	254	Women	T098	C0043210
+28267199	260	270	resectable	T080	C1514888
+28267199	271	284	breast cancer	T191	C0006142
+28267199	310	362	Surveillance, Epidemiology, and End Results database	T093	C0242638
+28267199	382	390	analyzed	T062	C0936012
+28267199	396	403	outcome	T169	C1274040
+28267199	404	410	events	T051	C0441471
+28267199	414	427	breast cancer	T191	C0006142
+28267199	447	475	breast cancer-specific death	T081	C1516192
+28267199	477	481	BCSD	T081	C1516192
+28267199	484	492	non-BCSD	T033	C1408354
+28267199	497	505	survival	T052	C0038952
+28267199	507	523	Binary logistics	T062	C0206031
+28267199	536	544	estimate	T081	C0750572
+28267199	549	565	occurrence rates	T081	C1521828
+28267199	569	577	non-BCSD	T033	C1408354
+28267199	582	586	BCSD	T081	C1516192
+28267199	602	629	clinicopathological factors	T169	C1521761
+28267199	635	646	Gray method	T170	C0282574
+28267199	659	666	measure	T081	C0079809
+28267199	671	691	cumulative incidence	T081	C0021149
+28267199	695	703	non-BCSD	T033	C1408354
+28267199	708	712	BCSD	T081	C1516192
+28267199	718	723	ratio	T081	C0456603
+28267199	727	736	non-BCSDs	T033	C1408354
+28267199	744	759	causes of death	T033	C0007465
+28267199	764	771	stacked	T082	C3272897
+28267199	772	792	cumulative incidence	T081	C0021149
+28267199	793	807	function plots	T170	C0681493
+28267199	833	839	impact	T080	C4049986
+28267199	843	851	non-BCSD	T033	C1408354
+28267199	855	871	overall survival	T081	C4086681
+28267199	873	875	OS	T081	C4086681
+28267199	878	923	Models of Cox proportional hazards regression	T081,T170	C0010235
+28267199	928	953	competing risk regression	T170	C0034980
+28267199	985	999	suitable model	T170	C3161035
+28267199	1019	1028	non-BCSDs	T033	C1408354
+28267199	1048	1053	BCSDs	T081	C1516192
+28267199	1068	1084	oldest age group	T100	C0027362
+28267199	1098	1108	black race	T098	C0005680
+28267199	1116	1149	single or divorced marital status	T033	C4060922
+28267199	1155	1170	associated with	T080	C0332281
+28267199	1176	1185	non-BCSDs	T033	C1408354
+28267199	1208	1211	age	T032	C0001779
+28267199	1215	1254	hormone receptor-positive (HoR+) status	T191	C1562029
+28267199	1280	1289	increased	T081	C0205217
+28267199	1290	1298	non-BCSD	T033	C1408354
+28267199	1305	1313	patients	T101	C0030705
+28267199	1319	1343	grade 1, stage I disease	T047	C0012634
+28267199	1351	1362	HoR+ status	T191	C1562029
+28267199	1415	1423	non-BCSD	T033	C1408354
+28267199	1431	1446	causes of death	T033	C0007465
+28267199	1482	1507	incorrect interpretations	T033	C3845771
+28267199	1513	1523	inaccuracy	T080	C0443236
+28267199	1553	1583	Cox proportional hazards model	T081,T170	C0010235
+28267199	1609	1629	competing risk model	T170	C0034980
+28267199	1631	1633	OS	T081	C4086681
+28267199	1646	1654	impaired	T169	C0221099
+28267199	1658	1666	non-BCSD	T033	C1408354
+28267199	1680	1693	breast cancer	T191	C0006142
+28267199	1711	1725	clinical trial	T062	C0008976
+28267199	1726	1734	planning	T058	C1254363
+28267199	1755	1761	oldest	T100	C0001795
+28267199	1762	1770	patients	T101	C0030705
+28267199	1786	1790	HoR+	T191	C1562029
+28267199	1791	1804	breast cancer	T191	C0006142
+28267199	1806	1814	non-BCSD	T033	C1408354
+28267199	1838	1858	competing risk event	UnknownType	C0814316
+28267199	1880	1903	American Cancer Society	T094	C0002455

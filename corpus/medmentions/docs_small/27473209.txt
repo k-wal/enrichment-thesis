@@ -1,0 +1,47 @@
+27473209|t|Derivation of a Predictive Score for Hemorrhagic Progression of Cerebral Contusions in Moderate and Severe Traumatic Brain Injury
+27473209|a|After traumatic brain injury (TBI), hemorrhagic progression of contusions (HPCs) occurs frequently. However, there is no established predictive score to identify high-risk patients for HPC. Consecutive patients who were hospitalized (2008-2013) with non-penetrating moderate or severe TBI were studied. The primary outcome was HPC, defined by both a relative increase in contusion volume by ≥30 % and an absolute increase by ≥10 mL on serial imaging. Logistic regression models were created to identify independent risk factors for HPC. The HPC Score was then derived based on the final model. Among a total of 286 eligible patients, 61 (21 %) patients developed HPC. On univariate analyses, HPC was associated with older age, higher initial blood pressure, antiplatelet medications, anticoagulants, subarachnoid hemorrhage (SAH) subdural hematoma (SDH), skull fracture, frontal contusion, larger contusion volume, and shorter interval from injury to initial CT. In the final model, SAH (OR 6.33, 95 % CI, 1.80-22.23), SDH (OR 3.46, 95 % CI, 1.39-8.63), and skull fracture (OR 2.67, 95 % CI, 1.28-5.58) were associated with HPC. Based on these factors, the HPC Score was derived (SAH = 2 points, SDH = 1 point, and skull fracture = 1 point). This score had an area under the receiver operating curve of 0.77. Patients with a score of 0-2 had a 4.0 % incidence of HPC, while patients with a score of 3-4 had a 34.6 % incidence of HPC. A simple HPC Score was developed for early risk stratification of HPC in patients with moderate or severe TBI.
+27473209	37	48	Hemorrhagic	T038	UMLS:C0019080
+27473209	64	83	Cerebral Contusions	T037	UMLS:C0750971
+27473209	136	158	traumatic brain injury	T037	UMLS:C0876926
+27473209	160	163	TBI	T037	UMLS:C0876926
+27473209	166	177	hemorrhagic	T038	UMLS:C0019080
+27473209	193	203	contusions	T037	UMLS:C0009938
+27473209	205	209	HPCs	T037	UMLS:C0009938
+27473209	292	301	high-risk	T033	UMLS:C0332167
+27473209	315	318	HPC	T037	UMLS:C0009938
+27473209	350	362	hospitalized	T033	UMLS:C0701159
+27473209	457	460	HPC	T037	UMLS:C0009938
+27473209	501	510	contusion	T037	UMLS:C0009938
+27473209	581	607	Logistic regression models	T170	UMLS:C0023965
+27473209	645	657	risk factors	T033	UMLS:C0035648
+27473209	662	665	HPC	T037	UMLS:C0009938
+27473209	671	674	HPC	T037	UMLS:C0009938
+27473209	711	722	final model	T170	UMLS:C3161035
+27473209	793	796	HPC	T037	UMLS:C0009938
+27473209	822	825	HPC	T037	UMLS:C0009938
+27473209	857	886	higher initial blood pressure	T033	UMLS:C0436789
+27473209	888	912	antiplatelet medications	T103	UMLS:C0085826
+27473209	914	928	anticoagulants	T103	UMLS:C0003280
+27473209	930	953	subarachnoid hemorrhage	T038	UMLS:C0038525
+27473209	955	958	SAH	T038	UMLS:C0038525
+27473209	960	977	subdural hematoma	T038	UMLS:C0018946
+27473209	979	982	SDH	T038	UMLS:C0018946
+27473209	985	999	skull fracture	T037	UMLS:C0037304
+27473209	1001	1008	frontal	T017	UMLS:C0016732
+27473209	1009	1018	contusion	T037	UMLS:C0009938
+27473209	1027	1036	contusion	T037	UMLS:C0009938
+27473209	1071	1077	injury	T037	UMLS:C0178314
+27473209	1081	1091	initial CT	T058	UMLS:C0040405
+27473209	1100	1111	final model	T170	UMLS:C3161035
+27473209	1113	1116	SAH	T038	UMLS:C0038525
+27473209	1149	1152	SDH	T038	UMLS:C0018946
+27473209	1188	1202	skull fracture	T037	UMLS:C0037304
+27473209	1254	1257	HPC	T037	UMLS:C0009938
+27473209	1287	1290	HPC	T037	UMLS:C0009938
+27473209	1310	1313	SAH	T038	UMLS:C0038525
+27473209	1326	1329	SDH	T038	UMLS:C0018946
+27473209	1345	1359	skull fracture	T037	UMLS:C0037304
+27473209	1493	1496	HPC	T037	UMLS:C0009938
+27473209	1559	1562	HPC	T037	UMLS:C0009938
+27473209	1573	1576	HPC	T037	UMLS:C0009938
+27473209	1630	1633	HPC	T037	UMLS:C0009938

@@ -1,0 +1,111 @@
+27928742|t|Implementation of infrared and Raman modalities for glycosaminoglycan characterization in complex systems
+27928742|a|Glycosaminoglycans (GAGs) are natural, linear and negatively charged heteropolysaccharides which are incident in every mammalian tissue. They consist of repeating disaccharide units, which are composed of either sulfated or non-sulfated monosaccharides. Depending on tissue types, GAGs exhibit structural heterogeneity such as the position and degree of sulfation or within their disaccharide units composition being heparin, heparan sulfate, chondroitine sulfate, dermatan sulfate, keratan sulfate, and hyaluronic acid. They are covalently linked to a core protein (proteoglycans) or as free chains (hyaluronan). GAGs affect cell properties and functions either by direct interaction with cell receptors or by sequestration of growth factors. These evidences of divert biological roles of GAGs make their characterization at cell and tissue levels of importance. Thus, non-invasive techniques are interesting to investigate, to qualitatively and quantitatively characterize GAGs in vitro in order to use them as diagnostic biomarkers and/or as therapeutic targets in several human diseases including cancer. Infrared and Raman microspectroscopies and imaging are sensitive enough to differentiate and classify GAG types and subtypes in spite of their close molecular structures. Spectroscopic markers characteristic of reference GAG molecules were identified. Beyond these investigations of the standard GAG spectral signature, infrared and Raman spectral signatures of GAG were searched in complex biological systems like cells. The aim of the present review is to describe the implementation of these complementary vibrational spectroscopy techniques, and to discuss their potentials, advantages and disadvantages for GAG analysis. In addition, this review presents new data as we show for the first time GAG infrared and Raman spectral signatures from conditioned media and live cells, respectively.
+27928742	0	14	Implementation	T052	C1708476
+27928742	18	26	infrared	T059	C0260249
+27928742	31	36	Raman	T059	C0037815
+27928742	37	47	modalities	T078	C0695347
+27928742	52	69	glycosaminoglycan	T109,T121,T123	C0017973
+27928742	70	86	characterization	T185	C0243175
+27928742	90	97	complex	T080	C0439855
+27928742	98	105	systems	T169	C0449913
+27928742	106	124	Glycosaminoglycans	T109,T121,T123	C0017973
+27928742	126	130	GAGs	T109,T121,T123	C0017973
+27928742	136	143	natural	T169	C0205296
+27928742	145	151	linear	T082	C0205132
+27928742	156	174	negatively charged	T196	C0003075
+27928742	175	196	heteropolysaccharides	T109,T121	C0032594
+27928742	207	215	incident	T067	C1551358
+27928742	225	234	mammalian	T015	C0024660
+27928742	235	241	tissue	T024	C0040300
+27928742	269	281	disaccharide	T109	C0012611
+27928742	282	287	units	T081	C0439148
+27928742	318	326	sulfated	T109	C1954876
+27928742	330	358	non-sulfated monosaccharides	T109	C0026492
+27928742	373	379	tissue	T024	C0040300
+27928742	380	385	types	T080	C0332307
+27928742	387	391	GAGs	T109,T121,T123	C0017973
+27928742	400	410	structural	T082	C0678594
+27928742	411	424	heterogeneity	T080	C0019409
+27928742	437	445	position	T082	C0733755
+27928742	450	456	degree	T081	C0449286
+27928742	460	469	sulfation	T067	C0597538
+27928742	486	498	disaccharide	T109	C0012611
+27928742	499	504	units	T081	C0439148
+27928742	505	516	composition	T080	C0205556
+27928742	523	530	heparin	T109,T121,T123	C0019134
+27928742	532	547	heparan sulfate	T109,T123	C0019143
+27928742	549	569	chondroitine sulfate	T109,T121,T123	C0008466
+27928742	571	587	dermatan sulfate	T109,T123	C0011602
+27928742	589	604	keratan sulfate	T109,T123	C0022563
+27928742	610	625	hyaluronic acid	T109,T121,T123	C0020196
+27928742	636	653	covalently linked	T044	C1511539
+27928742	659	663	core	T082	C0444669
+27928742	664	671	protein	T116,T123	C0033684
+27928742	673	686	proteoglycans	T116,T123	C0033692
+27928742	694	698	free	T080	C1996904
+27928742	699	705	chains	T078	C1524075
+27928742	707	717	hyaluronan	T109,T121,T123	C0813622
+27928742	720	724	GAGs	T109,T121,T123	C0017973
+27928742	732	736	cell	T025	C0007634
+27928742	737	747	properties	T080	C0871161
+27928742	752	761	functions	T043	C0007613
+27928742	772	778	direct	T080	C0439851
+27928742	779	790	interaction	T169	C1704675
+27928742	796	810	cell receptors	T116,T192	C0034800
+27928742	817	830	sequestration	T169	C0443301
+27928742	834	848	growth factors	T116,T123	C0018284
+27928742	856	868	evidences of	T169	C0332120
+27928742	869	875	divert	T080	C0743226
+27928742	876	886	biological	T080	C0205460
+27928742	887	892	roles	T077	C1705810
+27928742	896	900	GAGs	T109,T121,T123	C0017973
+27928742	912	928	characterization	T185	C0243175
+27928742	932	936	cell	T025	C0007634
+27928742	941	947	tissue	T024	C0040300
+27928742	948	954	levels	T080	C0441889
+27928742	976	988	non-invasive	T169	C0205303
+27928742	989	999	techniques	T169	C0449851
+27928742	1019	1030	investigate	T169	C1292732
+27928742	1035	1048	qualitatively	T080	C0205556
+27928742	1053	1067	quantitatively	T081	C0392762
+27928742	1081	1085	GAGs	T109,T121,T123	C0017973
+27928742	1086	1094	in vitro	T080	C1533691
+27928742	1119	1129	diagnostic	T169	C0348026
+27928742	1130	1140	biomarkers	T201	C0005516
+27928742	1151	1162	therapeutic	T169	C0302350
+27928742	1163	1170	targets	T074	C0085104
+27928742	1182	1187	human	T016	C0086418
+27928742	1188	1196	diseases	T047	C0012634
+27928742	1207	1213	cancer	T191	C0006826
+27928742	1215	1223	Infrared	T059	C0260249
+27928742	1228	1253	Raman microspectroscopies	T059	C0037815
+27928742	1258	1265	imaging	T060	C0079595
+27928742	1270	1279	sensitive	T169	C0332324
+27928742	1308	1316	classify	T185	C0008902
+27928742	1317	1320	GAG	T109,T121,T123	C0017973
+27928742	1321	1326	types	T080	C0332307
+27928742	1331	1339	subtypes	T185	C0449560
+27928742	1364	1384	molecular structures	T082	C0678594
+27928742	1386	1399	Spectroscopic	T059	C0037812
+27928742	1400	1407	markers	T080	C0206015
+27928742	1436	1439	GAG	T109,T121,T123	C0017973
+27928742	1440	1449	molecules	T167	C0567416
+27928742	1455	1465	identified	T080	C0205396
+27928742	1480	1494	investigations	T058	C1261322
+27928742	1511	1514	GAG	T109,T121,T123	C0017973
+27928742	1535	1543	infrared	T059	C0260249
+27928742	1548	1553	Raman	T059	C0037815
+27928742	1577	1580	GAG	T109,T121,T123	C0017973
+27928742	1598	1605	complex	T080	C0439855
+27928742	1606	1616	biological	T080	C0205460
+27928742	1617	1624	systems	T169	C0449913
+27928742	1630	1635	cells	T025	C0007634
+27928742	1686	1700	implementation	T052	C1708476
+27928742	1724	1759	vibrational spectroscopy techniques	T059	C0022885
+27928742	1827	1830	GAG	T109,T121,T123	C0017973
+27928742	1831	1839	analysis	T059	C0002778
+27928742	1914	1917	GAG	T109,T121,T123	C0017973
+27928742	1918	1926	infrared	T059	C0260249
+27928742	1931	1936	Raman	T059	C0037815
+27928742	1962	1979	conditioned media	T130	C0162518
+27928742	1984	1994	live cells	T025	C0007634

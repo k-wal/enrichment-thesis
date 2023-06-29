@@ -1,0 +1,51 @@
+24036311|t|CTR9/PAF1c regulates molecular lineage identity, histone H3K36 trimethylation and genomic imprinting during preimplantation development.
+24036311|a|Genome-wide epigenetic reprogramming is required for successful preimplantation development. Inappropriate or deficient chromatin regulation can result in defective lineage specification and loss of genomic imprinting, compromising normal development. Here we report that two members of the RNA polymerase II associated factor, homolog (Saccharomyces cerevisiae) complex (PAF1 complex) components, Ctr9 and Rtf1, are required during mammalian preimplantation development. We demonstrate that Ctr9-deficient embryos fail to correctly specify lineages at the blastocyst stage. Expression of some lineage specific factors is markedly reduced in Ctr9 knockdown embryos, including Eomes, Elf5 and Sox2, while others are inappropriately expressed (Oct4, Nanog, Gata6, Fgf4 and Sox17). We also show that several imprinted genes (Mest, Peg3, Snrpn and Meg3) are aberrantly expressed although allele specific DNA methylation is not altered. We document a loss of histone H3 lysine 36 trimethylation (H3K36me3) in Ctr9-deficient embryos and confirm that knockdown of either Setd2 or Rtf1 results in similar phenotypes. These findings show that the PAF1 complex is required for mammalian development, likely through regulation of H3K36me3, and indicate functional conservation of the PAF1 complex from yeast to mammals in vivo.
+24036311	0	4	CTR9	GeneOrGeneProduct	22083
+24036311	5	10	PAF1c	GeneOrGeneProduct	22083,54624,76246
+24036311	49	59	histone H3	GeneOrGeneProduct	260423
+24036311	428	507	RNA polymerase II associated factor, homolog (Saccharomyces cerevisiae) complex	GeneOrGeneProduct	22083,54624,76246
+24036311	509	521	PAF1 complex	GeneOrGeneProduct	22083,54624,76246
+24036311	535	539	Ctr9	GeneOrGeneProduct	22083
+24036311	544	548	Rtf1	GeneOrGeneProduct	76246
+24036311	629	633	Ctr9	GeneOrGeneProduct	22083
+24036311	779	783	Ctr9	GeneOrGeneProduct	22083
+24036311	813	818	Eomes	GeneOrGeneProduct	13813
+24036311	820	824	Elf5	GeneOrGeneProduct	13711
+24036311	829	833	Sox2	GeneOrGeneProduct	20674
+24036311	879	883	Oct4	GeneOrGeneProduct	18999
+24036311	885	890	Nanog	GeneOrGeneProduct	71950
+24036311	892	897	Gata6	GeneOrGeneProduct	14465
+24036311	899	903	Fgf4	GeneOrGeneProduct	14175
+24036311	908	913	Sox17	GeneOrGeneProduct	20671
+24036311	959	963	Mest	GeneOrGeneProduct	17294
+24036311	965	969	Peg3	GeneOrGeneProduct	18616
+24036311	971	976	Snrpn	GeneOrGeneProduct	20646
+24036311	981	985	Meg3	GeneOrGeneProduct	17263
+24036311	1091	1101	histone H3	GeneOrGeneProduct	260423
+24036311	1128	1130	H3	GeneOrGeneProduct	260423
+24036311	1141	1145	Ctr9	GeneOrGeneProduct	22083
+24036311	1201	1206	Setd2	GeneOrGeneProduct	235626
+24036311	1210	1214	Rtf1	GeneOrGeneProduct	76246
+24036311	1275	1287	PAF1 complex	GeneOrGeneProduct	22083,54624,76246
+24036311	1356	1358	H3	GeneOrGeneProduct	260423
+24036311	1410	1422	PAF1 complex	GeneOrGeneProduct	22083,54624,76246
+24036311	1428	1433	yeast	OrganismTaxon	4932
+24036311	Association	235626	260423	Novel
+24036311	Association	76246	260423	Novel
+24036311	Association	54624	260423	Novel
+24036311	Negative_Correlation	22083	17263	Novel
+24036311	Negative_Correlation	22083	20646	Novel
+24036311	Negative_Correlation	22083	18616	Novel
+24036311	Negative_Correlation	22083	17294	Novel
+24036311	Negative_Correlation	22083	20671	Novel
+24036311	Negative_Correlation	22083	14175	Novel
+24036311	Association	22083	14465	Novel
+24036311	Negative_Correlation	22083	71950	Novel
+24036311	Negative_Correlation	22083	18999	Novel
+24036311	Positive_Correlation	22083	20674	Novel
+24036311	Positive_Correlation	22083	13711	Novel
+24036311	Positive_Correlation	22083	13813	Novel
+24036311	Association	22083	260423	Novel
+24036311	Bind	22083	76246	No
+24036311	Bind	22083	54624	No
+24036311	Bind	22083	22083	No

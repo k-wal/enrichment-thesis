@@ -1,0 +1,113 @@
+27348285|t|Economic Burden of Illness Among Patients with Severe Asthma in a Managed Care Setting
+27348285|a|Despite intensive pharmacotherapy, a considerable number of patients with severe asthma have inadequate disease control. Patients with severe asthma who experience exacerbations consume significant health care resources. To assess health care resource utilization and associated costs among patients with persistent severe asthma who experienced exacerbations compared with patients with persistent but nonsevere asthma. This retrospective analysis of a national administrative claims database identified patients aged ≥ 12 years who had at least 1 medical claim with an asthma diagnosis in 2012 and had continuous medical and pharmacy coverage under a commercial or Medicare Advantage plan from January 1, 2012, to December 31, 2013. Patients were assigned to 1 of 2 mutually exclusive cohorts - persistent asthma (PA) or severe asthma (SA)-according to an established algorithm based on asthma -related health care resource use and pharmacy claims for controller medication. SA patients were required to meet PA criteria and also have evidence of ≥2 asthma exacerbations in 2012. Asthma -related health care resource utilization and costs were computed from asthma medication use (rescue and controller therapy) and medical claims with an asthma diagnosis in the primary position in 2012 and 2013. Adherence to controller therapy was assessed over 365 days by using the proportion of days covered (PDC), starting with the first claim for controller therapy in 2012. Differences between the PA and SA cohorts were analyzed by t-test for continuous variables and chi-square test for categorical variables. Asthma -related costs in 2013 were also analyzed using a generalized linear model with a gamma distribution and log link, adjusted for patient demographics (age, gender, region, and insurance type) and Quan-Charlson comorbidity score. A total of 65,359 patients were included: 63,597 (97.3%) PA patients and 1,762 SA patients (2.7%). Compared with the PA cohort, the SA cohort was older (mean age = 50.8 years vs. 46.5 years, P < 0.001) and had higher mean comorbidity score (1.47 vs. 1.31, P< 0.001). The mean count of all asthma medications fills was 2.2-fold (2012) and 2.1-fold (2013) higher in the SA cohort, compared with the PA cohort (P< 0.001). Mean PDC for all oral and inhaled controller therapy was also higher in the SA cohort compared with the PA cohort (0.80 vs. 0.65, P< 0.001). SA patients had a significantly greater mean count of asthma -related hospitalizations, emergency room visits, and ambulatory visits in 2012 and 2013 (P< 0.001). Unadjusted mean annual asthma -related costs in the SA versus PA cohorts were $6,496 versus $2,739 (P < 0.001) in 2012 and $5,174 versus $1,775 (P< 0.001) in 2013. Higher asthma -related costs were driven by greater mean annual asthma medication costs in 2012 ($4,545 vs. $1,738, P< 0.001) and 2013 ($4,068 vs. $1,348, P< 0.001). Adjusted mean annual asthma -related costs in 2013 were $3,336 greater (cost ratio =2.878, P< 0.001) in the SA cohort, and adjusted mean annual asthma medication costs were $2,672 higher (cost ratio=2.982, P< 0.001) in the SA cohort. Patients with SA who experienced 2 or more exacerbations had 2.1-fold greater use of controller medications across both study years and were more adherent to controller therapy than patients with PA. Despite more intensive pharmacotherapy, SA patients incurred 2.9-fold higher adjusted asthma -related costs and 3-fold higher adjusted asthma medication costs than PA patients. Patients with SA consistently demonstrated a higher rate of health care utilization. Funding for this study (HO-14-14443) was provided by GlaxoSmithKline (GSK). All listed authors meet the criteria for authorship set forth by the International Committee for Medical Journal Editors. Albers, Forshag, and Yancey are employees of GSK and hold stock in GSK. Dalal, Nagar, and Ortega were employees of GSK at the time this research was conducted. Chastek and Korrer are employees of Optum, which received consulting fees from GSK for research related to this study. Study concept and design were contributed by Chastek, Nagar, and Dalal. Korrer took the lead in data collection, along with Chastek, and data interpretation was performed by Chastek, Ortega, Forshag, and Dalal. The manuscript was written by Chastek and Dalal and revised by Albers and Yancy, assisted by the other authors.
+27348285	19	26	Illness	T033	UMLS:C0221423
+27348285	47	60	Severe Asthma	T033	UMLS:C0581126
+27348285	105	120	pharmacotherapy	T058	UMLS:C0013216
+27348285	161	174	severe asthma	T033	UMLS:C0581126
+27348285	191	198	disease	T038	UMLS:C0012634
+27348285	222	235	severe asthma	T033	UMLS:C0581126
+27348285	240	250	experience	T038	UMLS:C0596545
+27348285	251	264	exacerbations	T033	UMLS:C0349790
+27348285	403	416	severe asthma	T033	UMLS:C0581126
+27348285	421	432	experienced	T038	UMLS:C0596545
+27348285	433	446	exacerbations	T033	UMLS:C0349790
+27348285	500	506	asthma	T038	UMLS:C0004096
+27348285	527	535	analysis	T062	UMLS:C0936012
+27348285	541	580	national administrative claims database	T170	UMLS:C0242356
+27348285	658	664	asthma	T038	UMLS:C0004096
+27348285	665	674	diagnosis	T033	UMLS:C0011900
+27348285	740	750	commercial	T170	UMLS:C0680536
+27348285	874	881	cohorts	T098	UMLS:C0599755
+27348285	884	901	persistent asthma	T038	UMLS:C3266628
+27348285	903	905	PA	T038	UMLS:C3266628
+27348285	910	923	severe asthma	T033	UMLS:C0581126
+27348285	925	927	SA	T033	UMLS:C0581126
+27348285	957	966	algorithm	T170	UMLS:C0002045
+27348285	976	982	asthma	T038	UMLS:C0004096
+27348285	1041	1062	controller medication	T103	UMLS:C0013227
+27348285	1064	1066	SA	T033	UMLS:C0581126
+27348285	1098	1100	PA	T038	UMLS:C3266628
+27348285	1139	1159	asthma exacerbations	T033	UMLS:C0349790
+27348285	1169	1175	Asthma	T038	UMLS:C0004096
+27348285	1247	1253	asthma	T038	UMLS:C0004096
+27348285	1254	1264	medication	T058	UMLS:C2081612
+27348285	1328	1334	asthma	T038	UMLS:C0004096
+27348285	1335	1344	diagnosis	T033	UMLS:C0011900
+27348285	1352	1368	primary position	T082	UMLS:C0444508
+27348285	1579	1581	PA	T038	UMLS:C3266628
+27348285	1586	1588	SA	T033	UMLS:C0581126
+27348285	1589	1596	cohorts	T098	UMLS:C0599755
+27348285	1602	1610	analyzed	T062	UMLS:C0936012
+27348285	1614	1620	t-test	T170	UMLS:C0871472
+27348285	1650	1665	chi-square test	T170	UMLS:C0008041
+27348285	1693	1699	Asthma	T038	UMLS:C0004096
+27348285	1733	1741	analyzed	T062	UMLS:C0936012
+27348285	1805	1813	log link	T170	UMLS:C0026348
+27348285	1863	1869	region	T082	UMLS:C0017446
+27348285	1985	1987	PA	T038	UMLS:C3266628
+27348285	2007	2009	SA	T033	UMLS:C0581126
+27348285	2045	2047	PA	T038	UMLS:C3266628
+27348285	2048	2054	cohort	T098	UMLS:C0599755
+27348285	2060	2062	SA	T033	UMLS:C0581126
+27348285	2063	2069	cohort	T098	UMLS:C0599755
+27348285	2217	2223	asthma	T038	UMLS:C0004096
+27348285	2224	2235	medications	T058	UMLS:C2081612
+27348285	2296	2298	SA	T033	UMLS:C0581126
+27348285	2299	2306	cohort,	T098	UMLS:C0599755
+27348285	2325	2327	PA	T038	UMLS:C3266628
+27348285	2328	2334	cohort	T098	UMLS:C0599755
+27348285	2364	2368	oral	T103	UMLS:C1272919
+27348285	2373	2380	inhaled	T038	UMLS:C0004048
+27348285	2381	2399	controller therapy	T058	UMLS:C0087111
+27348285	2423	2425	SA	T033	UMLS:C0581126
+27348285	2426	2432	cohort	T098	UMLS:C0599755
+27348285	2451	2453	PA	T038	UMLS:C3266628
+27348285	2454	2460	cohort	T098	UMLS:C0599755
+27348285	2488	2490	SA	T033	UMLS:C0581126
+27348285	2542	2548	asthma	T038	UMLS:C0004096
+27348285	2558	2574	hospitalizations	T058	UMLS:C0019993
+27348285	2576	2597	emergency room visits	T058	UMLS:C0586082
+27348285	2673	2679	asthma	T038	UMLS:C0004096
+27348285	2702	2704	SA	T033	UMLS:C0581126
+27348285	2712	2714	PA	T038	UMLS:C3266628
+27348285	2715	2722	cohorts	T098	UMLS:C0599755
+27348285	2821	2827	asthma	T038	UMLS:C0004096
+27348285	2878	2884	asthma	T038	UMLS:C0004096
+27348285	2885	2895	medication	T058	UMLS:C2081612
+27348285	3001	3007	asthma	T038	UMLS:C0004096
+27348285	3088	3090	SA	T033	UMLS:C0581126
+27348285	3091	3097	cohort	T098	UMLS:C0599755
+27348285	3124	3130	asthma	T038	UMLS:C0004096
+27348285	3131	3141	medication	T058	UMLS:C2081612
+27348285	3203	3205	SA	T033	UMLS:C0581126
+27348285	3206	3212	cohort	T098	UMLS:C0599755
+27348285	3228	3230	SA	T033	UMLS:C0581126
+27348285	3235	3246	experienced	T038	UMLS:C0596545
+27348285	3257	3270	exacerbations	T033	UMLS:C0349790
+27348285	3299	3321	controller medications	T058	UMLS:C0087111
+27348285	3410	3412	PA	T038	UMLS:C3266628
+27348285	3437	3452	pharmacotherapy	T058	UMLS:C0013216
+27348285	3454	3456	SA	T033	UMLS:C0581126
+27348285	3500	3506	asthma	T038	UMLS:C0004096
+27348285	3549	3555	asthma	T038	UMLS:C0004096
+27348285	3556	3566	medication	T058	UMLS:C2081612
+27348285	3578	3580	PA	T038	UMLS:C3266628
+27348285	3605	3607	SA	T033	UMLS:C0581126
+27348285	3651	3662	health care	T058	UMLS:C0086388
+27348285	3693	3698	study	T062	UMLS:C2603343
+27348285	3729	3744	GlaxoSmithKline	T092	UMLS:C1552903
+27348285	3746	3749	GSK	T092	UMLS:C1552903
+27348285	3763	3770	authors	T097	UMLS:C3812881
+27348285	3906	3915	employees	T097	UMLS:C0599987
+27348285	3919	3922	GSK	T092	UMLS:C1552903
+27348285	3941	3944	GSK	T092	UMLS:C1552903
+27348285	3976	3985	employees	T097	UMLS:C0599987
+27348285	3989	3992	GSK	T092	UMLS:C1552903
+27348285	4010	4018	research	T062	UMLS:C0035168
+27348285	4057	4066	employees	T097	UMLS:C0599987
+27348285	4113	4116	GSK	T092	UMLS:C1552903
+27348285	4121	4129	research	T062	UMLS:C0035168
+27348285	4146	4151	study	T062	UMLS:C2603343
+27348285	4249	4264	data collection	T062	UMLS:C0010995
+27348285	4368	4378	manuscript	T170	UMLS:C0600659
+27348285	4467	4474	authors	T097	UMLS:C3812881

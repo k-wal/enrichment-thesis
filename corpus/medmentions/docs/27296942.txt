@@ -1,0 +1,121 @@
+27296942|t|Prediction of Clinically Significant Bleeding Following Wide-Field Endoscopic Resection of Large Sessile and Laterally Spreading Colorectal Lesions: A Clinical Risk Score
+27296942|a|Clinically significant bleeding (CSPEB) is the most frequent adverse event following wide-field endoscopic mucosal resection (WF-EMR) of large sessile and laterally spreading colorectal lesions (LSL). There is limited knowledge regarding accurate prediction of CSPEB. We aimed to derive a score to predict the risk of CSPEB. Data on patient and lesion characteristics and outcomes from WF-EMRs of LSL ≥20 mm at 8 referral hospitals were analyzed. The cohort was divided at random into equal sized training and test groups. Independent predictors of CSPEB in the training cohort were identified by multiple logistic regression analysis and used to develop a risk score. The performance of this score was assessed in the independent test cohort. Over 80 months to June 2015, 2,128 patients with 2,424 LSL were referred for WF-EMR. Two thousand and twelve patients were eligible for analysis. There were 135 cases of CSPEB (6.7%). In the training cohort of 1,006 patients, the independent predictors of CSPEB were lesion size >30 mm (odds ratio (OR) 2.5), proximal colonic location (OR 2.3), presence of a major comorbidity (OR 1.5), and epinephrine in injection solution (OR 0.57). The derived risk score comprised lesion size >30 mm (2 points), proximal colon (2 points), presence of major comorbidity (1 point), and absence of epinephrine use (1 point). The probabilities of CSPEB for scores of 0, 1, 2, 3, 4, and ≥5 in the training cohort were 1.5, 2.0, 5.6, 7.8, 9.1, and 17.5% and were 0.9, 6.7, 4.9, 6.2, 9.0, and 15.7% in the test cohort. The probabilities of CSPEB in those with low (score 0-1), medium (score 2-4), and elevated (score 5-6) risk levels were 1.7, 7.1, and 17.5% in the training cohort and 3.4, 6.2, and 15.7% in the cohort. Patients at elevated risk of CSPEB can be identified using four readily available variables. This knowledge may improve the management of those undergoing WF-EMR and assist in designing studies evaluating CSPEB.
+27296942	0	10	Prediction	T078	C0681842
+27296942	14	45	Clinically Significant Bleeding	T046	C0019080
+27296942	56	87	Wide-Field Endoscopic Resection	T061	C1700928
+27296942	91	96	Large	T081	C0549177
+27296942	97	104	Sessile	T080	C0205348
+27296942	109	118	Laterally	T082	C0205093
+27296942	119	128	Spreading	T080	C0332261
+27296942	129	147	Colorectal Lesions	T033	C4062636
+27296942	151	159	Clinical	T080	C0205210
+27296942	160	164	Risk	T078	C0035647
+27296942	165	170	Score	T081	C0449820
+27296942	171	202	Clinically significant bleeding	T046	C0019080
+27296942	204	209	CSPEB	T046	C0019080
+27296942	223	231	frequent	T079	C0332183
+27296942	232	245	adverse event	T046	C0877248
+27296942	256	295	wide-field endoscopic mucosal resection	T061	C1700928
+27296942	297	303	WF-EMR	T061	C1700928
+27296942	308	313	large	T081	C0549177
+27296942	314	321	sessile	T080	C0205348
+27296942	326	335	laterally	T082	C0205093
+27296942	336	345	spreading	T080	C0332261
+27296942	346	364	colorectal lesions	T033	C4062636
+27296942	366	369	LSL	T033	C4062636
+27296942	409	417	accurate	T080	C0443131
+27296942	418	428	prediction	T078	C0681842
+27296942	432	437	CSPEB	T046	C0019080
+27296942	460	465	score	T081	C0449820
+27296942	481	485	risk	T078	C0035647
+27296942	489	494	CSPEB	T046	C0019080
+27296942	496	500	Data	T078	C1511726
+27296942	504	511	patient	T101	C0030705
+27296942	516	522	lesion	T033	C0221198
+27296942	523	538	characteristics	T080	C1521970
+27296942	543	551	outcomes	T080	C0085415
+27296942	557	564	WF-EMRs	T061	C1700928
+27296942	568	571	LSL	T033	C4062636
+27296942	584	602	referral hospitals	T073,T093	C0019994
+27296942	608	616	analyzed	T062	C0936012
+27296942	622	628	cohort	T098	C0599755
+27296942	644	650	random	T080	C0439605
+27296942	656	667	equal sized	T080	C0205163
+27296942	668	692	training and test groups	T078	C0441833
+27296942	694	705	Independent	T078	C0085862
+27296942	706	716	predictors	T078	C2698872
+27296942	720	725	CSPEB	T046	C0019080
+27296942	733	748	training cohort	T098	C0599755
+27296942	754	764	identified	T080	C0205396
+27296942	768	805	multiple logistic regression analysis	UnknownType	C0681925
+27296942	828	832	risk	T078	C0035647
+27296942	833	838	score	T081	C0449820
+27296942	864	869	score	T081	C0449820
+27296942	874	882	assessed	T052	C1516048
+27296942	890	901	independent	T078	C0085862
+27296942	902	913	test cohort	T098	C0599755
+27296942	923	929	months	T079	C0439231
+27296942	933	937	June	T079	C3829443
+27296942	950	958	patients	T101	C0030705
+27296942	970	973	LSL	T033	C4062636
+27296942	992	998	WF-EMR	T061	C1700928
+27296942	1024	1032	patients	T101	C0030705
+27296942	1051	1059	analysis	T062	C0936012
+27296942	1076	1081	cases	T077	C1706256
+27296942	1085	1090	CSPEB	T046	C0019080
+27296942	1106	1121	training cohort	T098	C0599755
+27296942	1131	1139	patients	T101	C0030705
+27296942	1145	1156	independent	T078	C0085862
+27296942	1157	1167	predictors	T078	C2698872
+27296942	1171	1176	CSPEB	T046	C0019080
+27296942	1182	1193	lesion size	T082	C0449453
+27296942	1202	1212	odds ratio	T081	C0028873
+27296942	1214	1216	OR	T081	C0028873
+27296942	1224	1232	proximal	T082	C0205107
+27296942	1233	1249	colonic location	T082	C0450429
+27296942	1251	1253	OR	T081	C0028873
+27296942	1260	1268	presence	T080	C3854307
+27296942	1274	1279	major	T080	C0205164
+27296942	1280	1291	comorbidity	T078	C0009488
+27296942	1293	1295	OR	T081	C0028873
+27296942	1306	1317	epinephrine	T109,T121,T125	C0014563
+27296942	1321	1339	injection solution	T122	C0991511
+27296942	1341	1343	OR	T081	C0028873
+27296942	1363	1367	risk	T078	C0035647
+27296942	1368	1373	score	T081	C0449820
+27296942	1384	1395	lesion size	T082	C0449453
+27296942	1415	1423	proximal	T082	C0205107
+27296942	1424	1429	colon	T023	C1281569
+27296942	1442	1450	presence	T080	C3854307
+27296942	1454	1459	major	T080	C0205164
+27296942	1460	1471	comorbidity	T078	C0009488
+27296942	1487	1494	absence	T169	C0332197
+27296942	1498	1509	epinephrine	T109,T121,T125	C0014563
+27296942	1510	1513	use	T169	C0457083
+27296942	1529	1542	probabilities	T081	C0033204
+27296942	1546	1551	CSPEB	T046	C0019080
+27296942	1556	1562	scores	T081	C0449820
+27296942	1595	1610	training cohort	T098	C0599755
+27296942	1702	1713	test cohort	T098	C0599755
+27296942	1719	1732	probabilities	T081	C0033204
+27296942	1736	1741	CSPEB	T046	C0019080
+27296942	1756	1759	low	T080	C0205251
+27296942	1761	1766	score	T081	C0449820
+27296942	1773	1779	medium	T081	C0439536
+27296942	1781	1786	score	T081	C0449820
+27296942	1797	1805	elevated	T080	C3163633
+27296942	1807	1812	score	T081	C0449820
+27296942	1818	1829	risk levels	T033	C2923839
+27296942	1862	1877	training cohort	T098	C0599755
+27296942	1909	1915	cohort	T098	C0599755
+27296942	1917	1925	Patients	T101	C0030705
+27296942	1929	1937	elevated	T080	C3163633
+27296942	1938	1942	risk	T078	C0035647
+27296942	1946	1951	CSPEB	T046	C0019080
+27296942	1959	1969	identified	T080	C0205396
+27296942	1999	2008	variables	T080	C0439828
+27296942	2041	2051	management	T058	C0376636
+27296942	2072	2078	WF-EMR	T061	C1700928
+27296942	2093	2110	designing studies	T062	C0035171
+27296942	2111	2121	evaluating	T058	C0220825
+27296942	2122	2127	CSPEB	T046	C0019080

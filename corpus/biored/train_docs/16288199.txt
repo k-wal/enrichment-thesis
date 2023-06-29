@@ -1,0 +1,33 @@
+16288199|t|The promoter of inducible nitric oxide synthase implicated in glaucoma based on genetic analysis and nuclear factor binding.
+16288199|a|PURPOSE: Nitric oxide has many beneficial functions in the human body at the right amounts, but it can also be hazardous if it is produced in amounts more than needed and has therefore been studied in relation to several neurological and non-neurological disorders. In vitro and in vivo studies demonstrate a connection between the inducible form of Nitric Oxide Synthase, iNOS, and the neuropathological disorder glaucoma, one of the major causes of blindness in the world. In this study, we sought to establish the genetic association between iNOS and primary open angle glaucoma, POAG, and to find the functional element(s) connected with the pathogenesis of the disease. METHODS: Two microsatellites, 1 insertion/deletion, and 8 single nucleotide polymorphisms (SNPs) in the regulatory region of iNOS were genotyped in 200 POAG patients and 200 age-matched controls. Also, the CCTTT-microsatellite was examined for its protein-binding capability in an electrophoretic mobility shift assay, EMSA. RESULTS: There was a significant difference in allele distribution of the CCTTT-microsatellite, between patients and controls. (CCTTT)14, which has been reported to have a higher activity in a reporter-construct, was significantly more abundant in POAG patients, while (CCTTT)10 and (CCTTT)13 were less common. In EMSA, the (CCTTT)14 allele exhibited specific binding of nuclear proteins. CONCLUSIONS: These results, together with other studies on this gene and the CCTTT-microsatellite, establish, for the first time, a genetic association of iNOS with POAG and suggest a regulatory function for the microsatellite.
+16288199	26	47	nitric oxide synthase	GeneOrGeneProduct	4843
+16288199	62	70	glaucoma	DiseaseOrPhenotypicFeature	D005901
+16288199	134	146	Nitric oxide	ChemicalEntity	D009569
+16288199	184	189	human	OrganismTaxon	9606
+16288199	346	389	neurological and non-neurological disorders	DiseaseOrPhenotypicFeature	D009422
+16288199	475	496	Nitric Oxide Synthase	GeneOrGeneProduct	4843
+16288199	498	502	iNOS	GeneOrGeneProduct	4843
+16288199	512	547	neuropathological disorder glaucoma	DiseaseOrPhenotypicFeature	D005901
+16288199	576	585	blindness	DiseaseOrPhenotypicFeature	D001766
+16288199	670	674	iNOS	GeneOrGeneProduct	4843
+16288199	679	706	primary open angle glaucoma	DiseaseOrPhenotypicFeature	D005902
+16288199	708	712	POAG	DiseaseOrPhenotypicFeature	D005902
+16288199	925	929	iNOS	GeneOrGeneProduct	4843
+16288199	952	956	POAG	DiseaseOrPhenotypicFeature	D005902
+16288199	957	965	patients	OrganismTaxon	9606
+16288199	1229	1237	patients	OrganismTaxon	9606
+16288199	1252	1261	(CCTTT)14	SequenceVariant	c|DUP||CCTTT|14
+16288199	1373	1377	POAG	DiseaseOrPhenotypicFeature	D005902
+16288199	1378	1386	patients	OrganismTaxon	9606
+16288199	1394	1403	(CCTTT)10	SequenceVariant	c|DUP||CCTTT|10
+16288199	1408	1417	(CCTTT)13	SequenceVariant	c|DUP||CCTTT|13
+16288199	1449	1458	(CCTTT)14	SequenceVariant	c|DUP||CCTTT|14
+16288199	1669	1673	iNOS	GeneOrGeneProduct	4843
+16288199	1679	1683	POAG	DiseaseOrPhenotypicFeature	D005902
+16288199	Association	D009569	D009422	No
+16288199	Association	c|DUP||CCTTT|14	D005902	Novel
+16288199	Association	D005902	c|DUP||CCTTT|13	Novel
+16288199	Association	D005902	c|DUP||CCTTT|10	Novel
+16288199	Association	4843	D001766	No
+16288199	Association	4843	D005901	No
+16288199	Association	4843	D005902	No

@@ -1,0 +1,49 @@
+20415560|t|Vitamin E reduces cardiovascular disease in individuals with diabetes mellitus and the haptoglobin 2-2 genotype.
+20415560|a|AIMS: Individuals with both diabetes mellitus (DM) and the Haptoglobin (Hp) 2-2 genotype are at increased risk of cardiovascular disease. As the antioxidant function of the Hp 2-2 protein is impaired, we sought to test the pharmacogenomic hypothesis that antioxidant vitamin E supplementation would provide cardiovascular protection to Hp 2-2 DM individuals. MATERIALS & METHODS: We determined the Hp genotype on DM participants from two trials (HOPE and ICARE) and assessed the effect of vitamin E by Hp genotype on their common prespecified outcome, the composite of stroke, myocardial infarction and cardiovascular death. Data was analyzed with a fixed-effect model. These results were input into a simulation model, the Evidence Based Medicine Integrator, in order to estimate their long-term implications in a real-world population from Kaiser Permanente (CA, USA). RESULTS: Meta-analysis of the two trials demonstrated a significant overall reduction in the composite end point in Hp 2-2 DM individuals with vitamin E (odds ratio: 0.58; 95% CI: 0.40-0.86; p = 0.006). There was a statistically significant interaction between the Hp genotype and vitamin E on the composite end point. In these trials, Hp typing of 69 DM individuals and treating those with the Hp 2-2 with vitamin E prevented one myocardial infarct, stroke or cardiovascular death. Lifelong administration of vitamin E to Hp 2-2 DM individuals in the Kaiser population would increase their life expectancy by 3 years. CONCLUSION: A pharmacogenomic strategy of screening DM individuals for the Hp genotype and treating those with Hp 2-2 with vitamin E appears to be highly clinically effective.
+20415560	0	9	Vitamin E	ChemicalEntity	D014810
+20415560	18	40	cardiovascular disease	DiseaseOrPhenotypicFeature	D002318
+20415560	61	78	diabetes mellitus	DiseaseOrPhenotypicFeature	D003920
+20415560	87	98	haptoglobin	GeneOrGeneProduct	3240
+20415560	141	158	diabetes mellitus	DiseaseOrPhenotypicFeature	D003920
+20415560	160	162	DM	DiseaseOrPhenotypicFeature	D003920
+20415560	172	183	Haptoglobin	GeneOrGeneProduct	3240
+20415560	185	187	Hp	GeneOrGeneProduct	3240
+20415560	227	249	cardiovascular disease	DiseaseOrPhenotypicFeature	D002318
+20415560	286	288	Hp	GeneOrGeneProduct	3240
+20415560	368	379	antioxidant	ChemicalEntity	D000975
+20415560	380	389	vitamin E	ChemicalEntity	D014810
+20415560	449	451	Hp	GeneOrGeneProduct	3240
+20415560	456	458	DM	DiseaseOrPhenotypicFeature	D003920
+20415560	511	513	Hp	GeneOrGeneProduct	3240
+20415560	526	528	DM	DiseaseOrPhenotypicFeature	D003920
+20415560	602	611	vitamin E	ChemicalEntity	D014810
+20415560	615	617	Hp	GeneOrGeneProduct	3240
+20415560	682	688	stroke	DiseaseOrPhenotypicFeature	D020521
+20415560	690	711	myocardial infarction	DiseaseOrPhenotypicFeature	D009203
+20415560	716	736	cardiovascular death	DiseaseOrPhenotypicFeature	D002318
+20415560	1100	1102	Hp	GeneOrGeneProduct	3240
+20415560	1107	1109	DM	DiseaseOrPhenotypicFeature	D003920
+20415560	1127	1136	vitamin E	ChemicalEntity	D014810
+20415560	1249	1251	Hp	GeneOrGeneProduct	3240
+20415560	1265	1274	vitamin E	ChemicalEntity	D014810
+20415560	1320	1322	Hp	GeneOrGeneProduct	3240
+20415560	1336	1338	DM	DiseaseOrPhenotypicFeature	D003920
+20415560	1379	1381	Hp	GeneOrGeneProduct	3240
+20415560	1391	1400	vitamin E	ChemicalEntity	D014810
+20415560	1415	1433	myocardial infarct	DiseaseOrPhenotypicFeature	D009203
+20415560	1435	1441	stroke	DiseaseOrPhenotypicFeature	D020521
+20415560	1445	1465	cardiovascular death	DiseaseOrPhenotypicFeature	D002318
+20415560	1494	1503	vitamin E	ChemicalEntity	D014810
+20415560	1507	1509	Hp	GeneOrGeneProduct	3240
+20415560	1514	1516	DM	DiseaseOrPhenotypicFeature	D003920
+20415560	1655	1657	DM	DiseaseOrPhenotypicFeature	D003920
+20415560	1678	1680	Hp	GeneOrGeneProduct	3240
+20415560	1714	1716	Hp	GeneOrGeneProduct	3240
+20415560	1726	1735	vitamin E	ChemicalEntity	D014810
+20415560	Association	D003920	3240	Novel
+20415560	Association	3240	D002318	No
+20415560	Negative_Correlation	D014810	D020521	Novel
+20415560	Negative_Correlation	D014810	D009203	Novel
+20415560	Negative_Correlation	D014810	D003920	Novel
+20415560	Association	D014810	3240	Novel
+20415560	Negative_Correlation	D014810	D002318	Novel

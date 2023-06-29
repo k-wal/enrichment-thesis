@@ -1,0 +1,107 @@
+28534352|t|Tumor response and patient outcome after preoperative radiotherapy in locally advanced non-inflammatory breast cancer patients
+28534352|a|The purpose of this analysis was to assess the tumor response and long-term outcome in patients treated with preoperative radiotherapy (PRT) without systemic therapy. Between 1997 and 2000, 134 patients with non-inflammatory locally advanced breast cancer (LABC) were treated with PRT. The tumor dose was 45 Gy in 15 fractions to the breast and to regional lymph nodes over 6 weeks. Radical mastectomy was performed 6 weeks after PRT to all patients and adjuvant systemic therapy was administered as per protocol. The measures of disease outcome were overall survival (OS) and disease-free survival (DFS) which estimated using the Kaplan-Meier method. Median follow-up was 74 months (range 4-216). Objective clinical tumor response after PRT was observed in 77.6% of the patients. Clinical complete tumor response (cCR) was achieved in 21.6% of the patients. Pathological CR in the breast was achieved in 15% of the patients. The 5- and 10- year OS were 55.1 and 37.8%, respectively. The 5- and 10- year DFS were 39.2 and 27%, respectively. Patients who achieved cCR had significantly longer OS in comparison with patients achieving clinical partial response (cPR) and clinical stable disease (cSD). Similarly, DFS of patients in the cCR group was longer compared with patients with cPR and cSD, yet without statistical significance. Our results showed that local control in LABC patients achieved by primary PRT, followed by radical mastectomy was comparable with the results reported in the literature. Complete pathologic response to PRT identified a subgroup of patients with a trend toward better DFS and OS.
+28534352	0	14	Tumor response	T033	C4053910
+28534352	19	34	patient outcome	T078	C1547647
+28534352	41	66	preoperative radiotherapy	T061	C0436204
+28534352	70	117	locally advanced non-inflammatory breast cancer	T191	C3495949
+28534352	118	126	patients	T101	C0030705
+28534352	147	155	analysis	T062	C0936012
+28534352	163	169	assess	T052	C1516048
+28534352	174	188	tumor response	T033	C4053910
+28534352	193	202	long-term	T079	C0443252
+28534352	203	210	outcome	T169	C1274040
+28534352	214	222	patients	T101	C0030705
+28534352	223	230	treated	T169	C1522326
+28534352	236	261	preoperative radiotherapy	T061	C0436204
+28534352	263	266	PRT	T061	C0436204
+28534352	276	292	systemic therapy	T061	C1515119
+28534352	321	329	patients	T101	C0030705
+28534352	335	351	non-inflammatory	T033	C0442743
+28534352	352	382	locally advanced breast cancer	T191	C3495949
+28534352	384	388	LABC	T191	C3495949
+28534352	395	402	treated	T169	C1522326
+28534352	395	402	treated	T169	C1522326
+28534352	408	411	PRT	T061	C0436204
+28534352	417	422	tumor	T191	C0027651
+28534352	423	427	dose	T081	C0178602
+28534352	444	453	fractions	T081	C1264633
+28534352	461	467	breast	T023	C0006141
+28534352	475	495	regional lymph nodes	T023	C0729852
+28534352	503	508	weeks	T079	C0439230
+28534352	510	528	Radical mastectomy	T061	C0024884
+28534352	533	542	performed	T169	C0884358
+28534352	545	550	weeks	T079	C0439230
+28534352	557	560	PRT	T061	C0436204
+28534352	568	576	patients	T101	C0030705
+28534352	581	589	adjuvant	T169	C1522673
+28534352	590	606	systemic therapy	T061	C1515119
+28534352	611	623	administered	T169	C1521801
+28534352	631	639	protocol	T061	C0008971
+28534352	645	653	measures	T081	C0079809
+28534352	657	672	disease outcome	T033	C0679250
+28534352	678	694	overall survival	T081	C4086681
+28534352	696	698	OS	T081	C4086681
+28534352	704	725	disease-free survival	T081	C0242793
+28534352	727	730	DFS	T081	C0242793
+28534352	738	747	estimated	T081	C0750572
+28534352	758	777	Kaplan-Meier method	T062	C0038953
+28534352	779	795	Median follow-up	T058	C1522577
+28534352	803	809	months	T079	C0439231
+28534352	811	816	range	T081	C1514721
+28534352	825	834	Objective	T080	C1571702
+28534352	835	843	clinical	T080	C0205210
+28534352	844	858	tumor response	T033	C4053910
+28534352	865	868	PRT	T061	C0436204
+28534352	873	881	observed	T169	C1441672
+28534352	898	906	patients	T101	C0030705
+28534352	908	940	Clinical complete tumor response	T033	C4050094
+28534352	942	945	cCR	T033	C4050094
+28534352	951	959	achieved	T033	C0432600
+28534352	976	984	patients	T101	C0030705
+28534352	986	1001	Pathological CR	T033	C4050242
+28534352	1009	1015	breast	T023	C0006141
+28534352	1020	1028	achieved	T033	C0432600
+28534352	1043	1051	patients	T101	C0030705
+28534352	1068	1072	year	T079	C0439234
+28534352	1073	1075	OS	T081	C4086681
+28534352	1126	1130	year	T079	C0439234
+28534352	1131	1134	DFS	T081	C0242793
+28534352	1168	1176	Patients	T101	C0030705
+28534352	1181	1189	achieved	T033	C0432600
+28534352	1190	1193	cCR	T033	C4050094
+28534352	1198	1218	significantly longer	T081	C4055637
+28534352	1219	1221	OS	T081	C4086681
+28534352	1225	1235	comparison	T052	C1707455
+28534352	1241	1249	patients	T101	C0030705
+28534352	1260	1285	clinical partial response	T033	C4050019
+28534352	1287	1290	cPR	T033	C4050019
+28534352	1296	1319	clinical stable disease	T033	C0677946
+28534352	1321	1324	cSD	T033	C0677946
+28534352	1338	1341	DFS	T081	C0242793
+28534352	1345	1353	patients	T101	C0030705
+28534352	1361	1364	cCR	T033	C4050094
+28534352	1365	1370	group	T096	C0681850
+28534352	1382	1390	compared	T052	C1707455
+28534352	1396	1404	patients	T101	C0030705
+28534352	1410	1413	cPR	T033	C4050019
+28534352	1418	1421	cSD	T033	C0677946
+28534352	1435	1459	statistical significance	T081	C0237881
+28534352	1465	1472	results	T169	C1274040
+28534352	1485	1498	local control	T169	C2587213
+28534352	1502	1506	LABC	T191	C3495949
+28534352	1507	1515	patients	T101	C0030705
+28534352	1516	1524	achieved	T033	C0432600
+28534352	1536	1539	PRT	T061	C0436204
+28534352	1553	1571	radical mastectomy	T061	C0024884
+28534352	1576	1586	comparable	T052	C1707455
+28534352	1596	1603	results	T169	C1274040
+28534352	1604	1612	reported	T170	C0684224
+28534352	1620	1630	literature	T170	C0023866
+28534352	1632	1660	Complete pathologic response	T033	C4050242
+28534352	1664	1667	PRT	T061	C0436204
+28534352	1681	1689	subgroup	T185	C1515021
+28534352	1693	1701	patients	T101	C0030705
+28534352	1709	1714	trend	T079	C1521798
+28534352	1722	1728	better	T080	C0332272
+28534352	1729	1732	DFS	T081	C0242793
+28534352	1737	1739	OS	T081	C4086681

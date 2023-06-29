@@ -1,0 +1,23 @@
+16781314|t|Ectodermal dysplasia-skin fragility syndrome resulting from a new homozygous mutation, 888delC, in the desmosomal protein plakophilin 1.
+16781314|a|We report an unusual case of an inherited disorder of the desmosomal protein plakophilin 1, resulting in ectodermal dysplasia-skin fragility syndrome. The affected 6-year-old boy had red skin at birth and subsequently developed skin fragility, progressive plantar keratoderma, nail dystrophy, and alopecia. Skin biopsy revealed widening of intercellular spaces in the epidermis and a reduced number of small, poorly formed desmosomes. Mutation analysis of the plakophilin 1 gene PKP1 revealed a homozygous deletion of C at nucleotide 888 within exon 5. This mutation differs from the PKP1 gene pathology reported in 8 previously published individuals with this rare genodermatosis. However, all cases show similar clinical features, highlighting the importance of functional plakophilin 1 in maintaining desmosomal adhesion in skin, as well as the role of this protein in aspects of ectodermal development.
+16781314	0	44	Ectodermal dysplasia-skin fragility syndrome	DiseaseOrPhenotypicFeature	C536183
+16781314	87	94	888delC	SequenceVariant	c|DEL888|C
+16781314	122	135	plakophilin 1	GeneOrGeneProduct	5317
+16781314	169	187	inherited disorder	DiseaseOrPhenotypicFeature	D030342
+16781314	214	227	plakophilin 1	GeneOrGeneProduct	5317
+16781314	242	286	ectodermal dysplasia-skin fragility syndrome	DiseaseOrPhenotypicFeature	C536183
+16781314	365	379	skin fragility	DiseaseOrPhenotypicFeature	C536183
+16781314	393	412	plantar keratoderma	DiseaseOrPhenotypicFeature	D017499
+16781314	414	428	nail dystrophy	DiseaseOrPhenotypicFeature	D009260
+16781314	434	442	alopecia	DiseaseOrPhenotypicFeature	D000505
+16781314	597	610	plakophilin 1	GeneOrGeneProduct	5317
+16781314	616	620	PKP1	GeneOrGeneProduct	5317
+16781314	643	674	deletion of C at nucleotide 888	SequenceVariant	c|DEL888|C
+16781314	721	725	PKP1	GeneOrGeneProduct	5317
+16781314	803	817	genodermatosis	DiseaseOrPhenotypicFeature	D012873
+16781314	912	925	plakophilin 1	GeneOrGeneProduct	5317
+16781314	Association	D030342	5317	Novel
+16781314	Association	5317	D012873	No
+16781314	Association	c|DEL888|C	D012873	Novel
+16781314	Association	C536183	5317	Novel
+16781314	Positive_Correlation	C536183	c|DEL888|C	Novel

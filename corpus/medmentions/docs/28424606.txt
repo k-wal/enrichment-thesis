@@ -1,0 +1,93 @@
+28424606|t|Bifurcation Analysis on Phase-Amplitude Cross-Frequency Coupling in Neural Networks with Dynamic Synapses
+28424606|a|We investigate a discrete - time network model composed of excitatory and inhibitory neurons and dynamic synapses with the aim at revealing dynamical properties behind oscillatory phenomena possibly related to brain functions. We use a stochastic neural network model to derive the corresponding macroscopic mean field dynamics, and subsequently analyze the dynamical properties of the network. In addition to slow and fast oscillations arising from excitatory and inhibitory networks, respectively, we show that the interaction between these two networks generates phase-amplitude cross-frequency coupling (CFC), in which multiple different frequency components coexist and the amplitude of the fast oscillation is modulated by the phase of the slow oscillation. Furthermore, we clarify the detailed properties of the oscillatory phenomena by applying the bifurcation analysis to the mean field model, and accordingly show that the intermittent and the continuous CFCs can be characterized by an aperiodic orbit on a closed curve and one on a torus, respectively. These two CFC modes switch depending on the coupling strength from the excitatory to inhibitory networks, via the saddle-node cycle bifurcation of a one-dimensional torus in map (MT1SNC), and may be associated with the function of multi - item representation. We believe that the present model might have potential for studying possible functional roles of phase - amplitude CFC in the cerebral cortex.
+28424606	0	11	Bifurcation	T030	C3146289
+28424606	12	20	Analysis	T062	C0936012
+28424606	24	64	Phase-Amplitude Cross-Frequency Coupling	T044	C1148560
+28424606	68	83	Neural Networks	T023	C0242406
+28424606	89	96	Dynamic	T169	C0729333
+28424606	97	105	Synapses	T030	C0039062
+28424606	109	120	investigate	T169	C1292732
+28424606	123	131	discrete	T080	C0443299
+28424606	134	138	time	T079	C0040223
+28424606	139	152	network model	T170	C0870951
+28424606	165	175	excitatory	T042	C0234121
+28424606	180	190	inhibitory	T042	C0234122
+28424606	191	198	neurons	T025	C0027882
+28424606	203	210	dynamic	T169	C0729333
+28424606	211	219	synapses	T030	C0039062
+28424606	229	232	aim	T078	C1947946
+28424606	246	255	dynamical	T169	C0729333
+28424606	256	266	properties	T080	C0871161
+28424606	274	295	oscillatory phenomena	T042	C0678909
+28424606	316	331	brain functions	T042	C0678908
+28424606	342	352	stochastic	T081	C0038347
+28424606	353	373	neural network model	T170	C0870951
+28424606	402	433	macroscopic mean field dynamics	T070	C3826426
+28424606	439	451	subsequently	T079	C0332282
+28424606	452	459	analyze	T169	C1524024
+28424606	464	473	dynamical	T169	C0729333
+28424606	474	484	properties	T080	C0871161
+28424606	492	499	network	T023	C0242406
+28424606	516	520	slow	T080	C0439834
+28424606	525	529	fast	T080	C0456962
+28424606	530	542	oscillations	T042	C0678909
+28424606	556	566	excitatory	T042	C0234121
+28424606	571	581	inhibitory	T042	C0234122
+28424606	582	590	networks	T023	C0242406
+28424606	623	634	interaction	T169	C1704675
+28424606	653	661	networks	T023	C0242406
+28424606	672	712	phase-amplitude cross-frequency coupling	T044	C1148560
+28424606	714	717	CFC	T044	C1148560
+28424606	729	737	multiple	T081	C0439064
+28424606	738	747	different	T080	C1705242
+28424606	748	757	frequency	T079	C0376249
+28424606	758	768	components	T077	C1705248
+28424606	785	794	amplitude	T082	C2346753
+28424606	802	806	fast	T080	C0456962
+28424606	807	818	oscillation	T042	C0678909
+28424606	822	831	modulated	T082	C0443264
+28424606	839	844	phase	T079	C0205390
+28424606	852	856	slow	T080	C0439834
+28424606	857	868	oscillation	T042	C0678909
+28424606	898	906	detailed	T080	C1522508
+28424606	907	917	properties	T080	C0871161
+28424606	925	946	oscillatory phenomena	T042	C0678909
+28424606	950	958	applying	T169	C4048755
+28424606	963	974	bifurcation	T030	C3146289
+28424606	975	983	analysis	T062	C0936012
+28424606	991	1007	mean field model	T170	C0870951
+28424606	1039	1051	intermittent	T079	C0205267
+28424606	1060	1070	continuous	T078	C0549178
+28424606	1071	1075	CFCs	T044	C1148560
+28424606	1083	1096	characterized	T052	C1880022
+28424606	1103	1118	aperiodic orbit	T082	C1254362
+28424606	1124	1130	closed	T169	C0587267
+28424606	1131	1136	curve	T081	C0392762
+28424606	1150	1155	torus	T030	C0229984
+28424606	1181	1184	CFC	T044	C1148560
+28424606	1185	1190	modes	T169	C1513371
+28424606	1191	1197	switch	T169	C0392747
+28424606	1215	1232	coupling strength	T081	C0392762
+28424606	1242	1252	excitatory	T042	C0234121
+28424606	1256	1266	inhibitory	T042	C0234122
+28424606	1267	1275	networks	T023	C0242406
+28424606	1285	1314	saddle-node cycle bifurcation	T030	C3146289
+28424606	1320	1335	one-dimensional	T081	C0439534
+28424606	1336	1341	torus	T030	C0229984
+28424606	1345	1348	map	T073	C0024779
+28424606	1350	1356	MT1SNC	T073	C0024779
+28424606	1370	1385	associated with	T080	C0332281
+28424606	1390	1398	function	T169	C0542341
+28424606	1402	1407	multi	T081	C0439064
+28424606	1410	1414	item	T071	C1551338
+28424606	1415	1429	representation	T052	C1882932
+28424606	1459	1464	model	T170	C0870951
+28424606	1476	1485	potential	T080	C3245505
+28424606	1490	1498	studying	T062	C2603343
+28424606	1499	1507	possible	T033	C0332149
+28424606	1508	1518	functional	T169	C0205245
+28424606	1519	1524	roles	T077	C1705810
+28424606	1528	1533	phase	T079	C0205390
+28424606	1536	1545	amplitude	T082	C2346753
+28424606	1546	1549	CFC	T044	C1148560
+28424606	1557	1572	cerebral cortex	T023	C0007776

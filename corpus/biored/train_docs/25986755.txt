@@ -1,0 +1,49 @@
+25986755|t|Low functional programming of renal AT2R mediates the developmental origin of glomerulosclerosis in adult offspring induced by prenatal caffeine exposure.
+25986755|a|UNASSIGNED: Our previous study has indicated that prenatal caffeine exposure (PCE) could induce intrauterine growth retardation (IUGR) of offspring. Recent research suggested that IUGR is a risk factor for glomerulosclerosis. However, whether PCE could induce glomerulosclerosis and its underlying mechanisms remain unknown. This study aimed to demonstrate the induction to glomerulosclerosis in adult offspring by PCE and its intrauterine programming mechanisms. A rat model of IUGR was established by PCE, male fetuses and adult offspring at the age of postnatal week 24 were euthanized. The results revealed that the adult offspring kidneys in the PCE group exhibited glomerulosclerosis as well as interstitial fibrosis, accompanied by elevated levels of serum creatinine and urine protein. Renal angiotensin II receptor type 2 (AT2R) gene expression in adult offspring was reduced by PCE, whereas the renal angiotensin II receptor type 1a (AT1aR)/AT2R expression ratio was increased. The fetal kidneys in the PCE group displayed an enlarged Bowman's space and a shrunken glomerular tuft, accompanied by a reduced cortex width and an increase in the nephrogenic zone/cortical zone ratio. Observation by electronic microscope revealed structural damage of podocytes; the reduced expression level of podocyte marker genes, nephrin and podocin, was also detected by q-PCR. Moreover, AT2R gene and protein expressions in fetal kidneys were inhibited by PCE, associated with the repression of the gene expression of glial-cell-line-derived neurotrophic factor (GDNF)/tyrosine kinase receptor (c-Ret) signaling pathway. These results demonstrated that PCE could induce dysplasia of fetal kidneys as well as glomerulosclerosis of adult offspring, and the low functional programming of renal AT2R might mediate the developmental origin of adult glomerulosclerosis.
+25986755	36	40	AT2R	GeneOrGeneProduct	24182
+25986755	78	96	glomerulosclerosis	DiseaseOrPhenotypicFeature	D005921
+25986755	136	144	caffeine	ChemicalEntity	D002110
+25986755	214	222	caffeine	ChemicalEntity	D002110
+25986755	251	282	intrauterine growth retardation	DiseaseOrPhenotypicFeature	D005317
+25986755	284	288	IUGR	DiseaseOrPhenotypicFeature	D005317
+25986755	335	339	IUGR	DiseaseOrPhenotypicFeature	D005317
+25986755	361	379	glomerulosclerosis	DiseaseOrPhenotypicFeature	D005921
+25986755	415	433	glomerulosclerosis	DiseaseOrPhenotypicFeature	D005921
+25986755	529	547	glomerulosclerosis	DiseaseOrPhenotypicFeature	D005921
+25986755	621	624	rat	OrganismTaxon	10116
+25986755	634	638	IUGR	DiseaseOrPhenotypicFeature	D005317
+25986755	826	844	glomerulosclerosis	DiseaseOrPhenotypicFeature	D005921
+25986755	856	877	interstitial fibrosis	DiseaseOrPhenotypicFeature	D005355
+25986755	919	929	creatinine	ChemicalEntity	D003404
+25986755	955	985	angiotensin II receptor type 2	GeneOrGeneProduct	24182
+25986755	987	991	AT2R	GeneOrGeneProduct	24182
+25986755	1066	1097	angiotensin II receptor type 1a	GeneOrGeneProduct	24180
+25986755	1099	1104	AT1aR	GeneOrGeneProduct	24180
+25986755	1106	1110	AT2R	GeneOrGeneProduct	24182
+25986755	1479	1486	nephrin	GeneOrGeneProduct	64563
+25986755	1491	1498	podocin	GeneOrGeneProduct	170672
+25986755	1538	1542	AT2R	GeneOrGeneProduct	24182
+25986755	1669	1712	glial-cell-line-derived neurotrophic factor	GeneOrGeneProduct	25453
+25986755	1714	1718	GDNF	GeneOrGeneProduct	25453
+25986755	1720	1744	tyrosine kinase receptor	GeneOrGeneProduct	24716
+25986755	1746	1751	c-Ret	GeneOrGeneProduct	24716
+25986755	1821	1847	dysplasia of fetal kidneys	DiseaseOrPhenotypicFeature	D007674
+25986755	1859	1877	glomerulosclerosis	DiseaseOrPhenotypicFeature	D005921
+25986755	1942	1946	AT2R	GeneOrGeneProduct	24182
+25986755	1995	2013	glomerulosclerosis	DiseaseOrPhenotypicFeature	D005921
+25986755	Positive_Correlation	D005355	D003404	Novel
+25986755	Positive_Correlation	D005921	D003404	Novel
+25986755	Association	24182	D005921	Novel
+25986755	Association	24182	24716	Novel
+25986755	Association	24182	25453	Novel
+25986755	Negative_Correlation	24182	D002110	Novel
+25986755	Association	24180	D002110	Novel
+25986755	Negative_Correlation	D002110	170672	Novel
+25986755	Negative_Correlation	D002110	64563	Novel
+25986755	Positive_Correlation	D002110	D005355	Novel
+25986755	Positive_Correlation	D002110	D003404	Novel
+25986755	Positive_Correlation	D002110	D005921	No
+25986755	Positive_Correlation	D002110	D005317	No
+25986755	Association	D002110	24716	No
+25986755	Positive_Correlation	D002110	D007674	No
+25986755	Association	D002110	25453	No

@@ -1,0 +1,63 @@
+28422693|t|Singularities of Three - Layered Complex-Valued Neural Networks With Split Activation Function
+28422693|a|There are three important concepts related to learning processes in neural networks: reducibility, nonminimality, and singularity. Although the definitions of these three concepts differ, they are equivalent in real-valued neural networks. This is also true of complex-valued neural networks (CVNNs) with hidden neurons not employing biases. The situation of CVNNs with hidden neurons employing biases, however, is very complicated. Exceptional reducibility was found, and it was shown that reducibility and nonminimality are not the same. Irreducibility consists of minimality and exceptional reducibility. The relationship between minimality and singularity has not yet been established. In this paper, we describe our surprising finding that minimality and singularity are independent. We also provide several examples based on exceptional reducibility.
+28422693	0	13	Singularities	T081	C0205171
+28422693	17	22	Three	T081	C0205449
+28422693	25	32	Layered	T078	C1254370
+28422693	33	47	Complex-Valued	T080	C0439855
+28422693	48	63	Neural Networks	T040	C0598941
+28422693	69	74	Split	T169	C1534709
+28422693	75	85	Activation	T052	C1879547
+28422693	86	94	Function	T169	C0542341
+28422693	105	110	three	T081	C0205449
+28422693	111	120	important	T080	C3898777
+28422693	121	129	concepts	T078	C0178566
+28422693	141	149	learning	T041	C0023185
+28422693	150	159	processes	T067	C1522240
+28422693	163	178	neural networks	T040	C0598941
+28422693	180	192	reducibility	T080	C0392756
+28422693	194	207	nonminimality	T080	C0205556
+28422693	213	224	singularity	T081	C0205171
+28422693	239	250	definitions	T170	C1704788
+28422693	260	265	three	T081	C0205449
+28422693	266	274	concepts	T078	C0178566
+28422693	275	281	differ	T080	C1705242
+28422693	292	302	equivalent	T080	C0205163
+28422693	306	317	real-valued	T080	C0205238
+28422693	318	333	neural networks	T040	C0598941
+28422693	356	370	complex-valued	T080	C0439855
+28422693	371	386	neural networks	T040	C0598941
+28422693	388	393	CVNNs	T040	C0598941
+28422693	400	406	hidden	T080	C0205262
+28422693	407	414	neurons	T025	C0027882
+28422693	419	428	employing	T169	C0457083
+28422693	429	435	biases	T078	C0242568
+28422693	441	450	situation	T169	C1442792
+28422693	454	459	CVNNs	T040	C0598941
+28422693	465	471	hidden	T080	C0205262
+28422693	472	479	neurons	T025	C0027882
+28422693	480	489	employing	T169	C0457083
+28422693	490	496	biases	T078	C0242568
+28422693	515	526	complicated	T169	C0231242
+28422693	528	539	Exceptional	T077	C1705847
+28422693	540	552	reducibility	T080	C0392756
+28422693	557	562	found	T033	C0150312
+28422693	586	598	reducibility	T080	C0392756
+28422693	603	616	nonminimality	T080	C0205556
+28422693	635	649	Irreducibility	T169	C0205270
+28422693	662	672	minimality	T080	C0547040
+28422693	677	688	exceptional	T077	C1705847
+28422693	689	701	reducibility	T080	C0392756
+28422693	707	719	relationship	T080	C0439849
+28422693	728	738	minimality	T080	C0547040
+28422693	743	754	singularity	T081	C0205171
+28422693	772	783	established	T080	C0443211
+28422693	827	834	finding	T033	C0243095
+28422693	840	850	minimality	T080	C0547040
+28422693	855	866	singularity	T081	C0205171
+28422693	871	882	independent	T078	C0085862
+28422693	892	899	provide	T052	C1999230
+28422693	900	907	several	T081	C0443302
+28422693	908	916	examples	T077	C1707959
+28422693	917	922	based	T169	C1527178
+28422693	926	937	exceptional	T077	C1705847
+28422693	938	950	reducibility	T080	C0392756

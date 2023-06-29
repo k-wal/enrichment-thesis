@@ -1,0 +1,119 @@
+28391546|t|Association among prematurity (<30 weeks' gestational age), blood pressure, urinary albumin, calcium, and phosphate in early childhood
+28391546|a|There is a paucity of data on blood pressures (BP), urinary albumin, and mineral excretion in early childhood in contemporary cohorts of extremely low gestational age (GA) neonates. Our aim was to compare BPs and the urinary excretion of albumin, calcium, and phosphate in preterm and term-born cohorts in early childhood. This was a prospective observational study conducted at a single center, involving children <5 years age, born preterm (GA <30 weeks) or at term (≥37 weeks' GA). Urinary albumin (mg/L), calcium and phosphate levels indexed to creatinine (mg/dL), and BP were measured. The median (IQR) follow-up age of our cohort (n = 106) was 30 (16-48) months. Preterm-born children (n = 55) had a significantly lower mean GA and birth weight and higher mean systolic, diastolic, and mean BPs, compared with term (n = 51) controls. A significantly higher proportion of preterm-born children weighed <10th centile and had systolic BP >95th centile at follow-up. Albumin and calcium excretion did not differ between the groups; median urine-phosphate creatinine ratios were higher in the preterm group. On logistic regression, lower GA and younger age at follow-up were significantly associated with an increased risk of systolic and diastolic BP above the 95th centile; male gender was associated with decreased risk of diastolic hypertension. Even in early childhood, children born preterm had significantly elevated BP, compared with their term-born counterparts. Closer monitoring of BPs in this population may be warranted.
+28391546	0	11	Association	T080	C0439849
+28391546	18	29	prematurity	T047	C0021294
+28391546	31	57	<30 weeks' gestational age	T032	C0017504
+28391546	60	74	blood pressure	T040	C0005823
+28391546	76	83	urinary	T080	C1524119
+28391546	84	91	albumin	T116	C2362049
+28391546	93	100	calcium	T121,T123,T196	C0006675
+28391546	106	115	phosphate	T121,T197	C0031603
+28391546	119	134	early childhood	T079	C0599196
+28391546	157	161	data	T078	C1511726
+28391546	165	180	blood pressures	T040	C0005823
+28391546	182	184	BP	T040	C0005823
+28391546	187	194	urinary	T080	C1524119
+28391546	195	202	albumin	T116	C2362049
+28391546	208	215	mineral	T197	C0026162
+28391546	216	225	excretion	T039	C0221102
+28391546	229	244	early childhood	T079	C0599196
+28391546	248	260	contemporary	T079	C1254367
+28391546	261	268	cohorts	T098	C0599755
+28391546	272	281	extremely	T080	C0205403
+28391546	282	285	low	T080	C0205251
+28391546	286	301	gestational age	T032	C0017504
+28391546	303	305	GA	T032	C0017504
+28391546	307	315	neonates	T100	C0021289
+28391546	332	339	compare	T052	C1707455
+28391546	340	343	BPs	T040	C0005823
+28391546	352	359	urinary	T080	C1524119
+28391546	360	369	excretion	T039	C0221102
+28391546	373	380	albumin	T116	C2362049
+28391546	382	389	calcium	T121,T123,T196	C0006675
+28391546	395	404	phosphate	T121,T197	C0031603
+28391546	408	415	preterm	T079	C2964377
+28391546	420	429	term-born	T040	C0233324
+28391546	430	437	cohorts	T098	C0599755
+28391546	441	456	early childhood	T079	C0599196
+28391546	469	500	prospective observational study	T062	C0033522
+28391546	516	522	single	T081	C0205171
+28391546	523	529	center	T073,T093	C0475309
+28391546	531	540	involving	T169	C1314939
+28391546	541	549	children	T100	C0008059
+28391546	550	562	<5 years age	T032	C0001779
+28391546	564	576	born preterm	T033	C0151526
+28391546	578	590	GA <30 weeks	T033	C0460089
+28391546	595	602	at term	T040	C0233324
+28391546	604	617	≥37 weeks' GA	T033	C3536634
+28391546	620	635	Urinary albumin	T034	C0587185
+28391546	644	651	calcium	T034	C0428302
+28391546	656	672	phosphate levels	T034	C0428304
+28391546	673	680	indexed	T170	C0918012
+28391546	684	694	creatinine	T109,T123	C0010294
+28391546	708	710	BP	T040	C0005823
+28391546	716	724	measured	T080	C0444706
+28391546	730	736	median	T082	C2939193
+28391546	738	741	IQR	T081	C1711350
+28391546	743	752	follow-up	T058	C1522577
+28391546	753	756	age	T032	C0001779
+28391546	764	770	cohort	T098	C0599755
+28391546	796	802	months	T079	C0439231
+28391546	804	825	Preterm-born children	T100	C4048294
+28391546	841	860	significantly lower	T081	C4055638
+28391546	861	865	mean	T081	C0444504
+28391546	866	868	GA	T032	C0017504
+28391546	873	885	birth weight	T032	C0005612
+28391546	890	896	higher	T080	C0205250
+28391546	897	901	mean	T081	C0444504
+28391546	902	910	systolic	T201	C0871470
+28391546	912	921	diastolic	T201	C0428883
+28391546	927	935	mean BPs	T033	C0428886
+28391546	937	945	compared	T052	C1707455
+28391546	951	955	term	T040	C0233324
+28391546	965	973	controls	T096	C0009932
+28391546	977	997	significantly higher	T081	C4055637
+28391546	998	1008	proportion	T081	C1709707
+28391546	1012	1033	preterm-born children	T100	C4048294
+28391546	1034	1041	weighed	T032	C0005910
+28391546	1042	1055	<10th centile	T033	C3276033
+28391546	1064	1075	systolic BP	T201	C0871470
+28391546	1076	1089	>95th centile	T033	C0243095
+28391546	1093	1102	follow-up	T058	C1522577
+28391546	1104	1111	Albumin	T116	C2362049
+28391546	1116	1123	calcium	T121,T123,T196	C0006675
+28391546	1124	1133	excretion	T039	C0221102
+28391546	1138	1148	not differ	T033	C3842396
+28391546	1161	1167	groups	UnknownType	C0681860
+28391546	1169	1175	median	T081	C0876920
+28391546	1176	1209	urine-phosphate creatinine ratios	T201	C2735243
+28391546	1215	1221	higher	T080	C0205250
+28391546	1229	1242	preterm group	T100	C4048294
+28391546	1247	1266	logistic regression	T062	C0206031
+28391546	1268	1273	lower	T080	C0205251
+28391546	1274	1276	GA	T032	C0017504
+28391546	1281	1288	younger	T079	C0332239
+28391546	1289	1292	age	T032	C0001779
+28391546	1296	1305	follow-up	T058	C1522577
+28391546	1311	1324	significantly	T078	C0750502
+28391546	1325	1340	associated with	T080	C0332281
+28391546	1344	1353	increased	T081	C0205217
+28391546	1354	1358	risk	T078	C0035647
+28391546	1362	1370	systolic	T201	C0871470
+28391546	1375	1387	diastolic BP	T201	C0428883
+28391546	1398	1410	95th centile	T033	C0243095
+28391546	1412	1423	male gender	T032	C0086582
+28391546	1428	1443	associated with	T080	C0332281
+28391546	1444	1453	decreased	T081	C0205216
+28391546	1454	1458	risk	T078	C0035647
+28391546	1462	1484	diastolic hypertension	T047	C0235222
+28391546	1494	1509	early childhood	T079	C0599196
+28391546	1511	1532	children born preterm	T100	C4048294
+28391546	1537	1550	significantly	T078	C0750502
+28391546	1551	1559	elevated	T080	C3163633
+28391546	1560	1562	BP	T040	C0005823
+28391546	1564	1572	compared	T052	C1707455
+28391546	1584	1593	term-born	T040	C0233324
+28391546	1594	1606	counterparts	T096	C0009932
+28391546	1615	1625	monitoring	T058	C1283169
+28391546	1629	1632	BPs	T040	C0005823
+28391546	1641	1651	population	T098	C1257890

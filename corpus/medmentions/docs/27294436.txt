@@ -1,0 +1,101 @@
+27294436|t|Interpretation of verbal descriptors for response options commonly used in verbal rating scales in patient -reported outcome instruments
+27294436|a|To assess the variation in the interpretation of common verbal descriptors (VDs) used in response scales and examine factors associated with those interpretations. Subjects were recruited through MediGuard and they assigned interpretation scores (11-point scale; 0 = lowest possible, 10 = highest possible) to five common sets of VDs: set one (none, mild, moderate, severe, very severe); set two (never, rarely, sometimes, often, always); set three (poor, fair, good, very good, excellent); set four (not at all, a little bit, moderately, quite a bit, extremely); and set five (not at all, a little bit, somewhat, quite a bit, very much). One-sample test for proportions and T-tests examined equality of proportions (anchors) and means scores (non-anchors) with the fixed intervals (0.0, 2.5, 5.0, 7.5, and 10.0). Ordinal regression examined adjusted associations between demographic / clinical factors and VD scores. Of the 350 subjects, 68 % were females and mean (SD) age was 56.9 (12.1). Two sets had two VDs with mean (95 % CI) scores not different than the fixed intervals. Set one had mild = 2.50 (2.33; 2.66) and moderate = 5.01 (4.89; 5.13) with 98.8 % (97.3 %; 100 %) assigning none = 0. Set five had a little bit = 2.35 (2.17; 2.53) and quite a bit = 7.65 (7.43; 7.87) with 95.0 % (95 % CI 91.7; 98.2) assigning not at all = 0. Significant associations (p ≤ 0.05) included age and education with somewhat and income and comorbidities with very severe. Age, sex, and education showed associations with other VDs albeit in nonsignificant models. Sets one and five yielded data closest to the fixed intervals. Demographic and clinical factors are associated with the interpretation of some VDs and should be adjusted for in analyses of non-randomized data.
+27294436	0	14	Interpretation	T170	C0459471
+27294436	18	24	verbal	T080	C0439824
+27294436	18	36	verbal descriptors	T170	C0282354
+27294436	41	49	response	T041	C2911692
+27294436	50	57	options	T169	C1518601
+27294436	75	95	verbal rating scales	T170	C0458261
+27294436	99	106	patient	T101	C0030705
+27294436	140	146	assess	T058	C0184514
+27294436	151	160	variation	T080	C0205419
+27294436	168	182	interpretation	T170	C0459471
+27294436	193	199	verbal	T080	C0439824
+27294436	193	211	verbal descriptors	T170	C0282354
+27294436	213	216	VDs	T170	C0282354
+27294436	226	234	response	T041	C2911692
+27294436	226	241	response scales	T170	C0282574
+27294436	246	253	examine	T169	C1292732
+27294436	254	261	factors	T169	C1521761
+27294436	262	272	associated	T080	C0332281
+27294436	284	299	interpretations	T170	C0459471
+27294436	301	309	Subjects	T098	C0080105
+27294436	333	342	MediGuard	T170	C0282574
+27294436	361	375	interpretation	T170	C0459471
+27294436	376	382	scores	T081	C0449820
+27294436	467	470	VDs	T170	C0282354
+27294436	481	485	none	T081	C0549184
+27294436	487	491	mild	T080	C2945599
+27294436	493	501	moderate	T080	C0205081
+27294436	503	509	severe	T080	C0205082
+27294436	511	522	very severe	T080	C3641272
+27294436	534	539	never	T079	C2003901
+27294436	541	547	rarely	T080	C0522498
+27294436	549	558	sometimes	T079	C1998882
+27294436	560	565	often	T079	C0332183
+27294436	567	573	always	T079	C2003902
+27294436	587	591	poor	T080	C2700379
+27294436	593	597	fair	T080	C2911689
+27294436	599	603	good	T080	C0205170
+27294436	605	614	very good	T080	C3641222
+27294436	616	625	excellent	T080	C1961136
+27294436	638	648	not at all	T033	C2984077
+27294436	650	662	a little bit	T033	C2984078
+27294436	664	674	moderately	T080	C0205081
+27294436	676	687	quite a bit	T033	C2984080
+27294436	689	698	extremely	T080	C0205403
+27294436	715	725	not at all	T033	C2984077
+27294436	727	739	a little bit	T033	C2984078
+27294436	741	749	somewhat	T033	C2984079
+27294436	751	762	quite a bit	T033	C2984080
+27294436	764	773	very much	T080	C2984081
+27294436	776	791	One-sample test	T170	C1709321
+27294436	796	807	proportions	T081	C1709707
+27294436	812	819	T-tests	T170	C0871472
+27294436	829	837	equality	T080	C0205163
+27294436	841	852	proportions	T081	C1709707
+27294436	854	861	anchors	T098	C1257890
+27294436	867	879	means scores	T081	C0449820
+27294436	881	892	non-anchors	T098	C1257890
+27294436	909	918	intervals	T079	C1272706
+27294436	951	969	Ordinal regression	T170	C0034980
+27294436	988	1000	associations	T080	C0439849
+27294436	1009	1020	demographic	T078	C0011292
+27294436	1023	1031	clinical	T080	C0205210
+27294436	1032	1039	factors	T169	C1521761
+27294436	1044	1046	VD	T170	C0282354
+27294436	1047	1053	scores	T081	C0449820
+27294436	1066	1074	subjects	T098	C0080105
+27294436	1086	1093	females	T032	C0086287
+27294436	1104	1106	SD	T081	C0871420
+27294436	1108	1111	age	T032	C0001779
+27294436	1146	1149	VDs	T170	C0282354
+27294436	1166	1168	CI	T081	C0009667
+27294436	1170	1176	scores	T081	C0449820
+27294436	1206	1215	intervals	T079	C1272706
+27294436	1229	1233	mild	T080	C2945599
+27294436	1258	1266	moderate	T080	C0205081
+27294436	1348	1360	a little bit	T033	C2984078
+27294436	1385	1396	quite a bit	T033	C2984080
+27294436	1435	1437	CI	T081	C0009667
+27294436	1460	1470	not at all	T033	C2984077
+27294436	1521	1524	age	T032	C0001779
+27294436	1529	1538	education	T033	C0013658
+27294436	1557	1563	income	T081	C0021162
+27294436	1568	1581	comorbidities	T078	C0009488
+27294436	1600	1603	Age	T032	C0001779
+27294436	1605	1608	sex	T032	C0079399
+27294436	1614	1623	education	T033	C0013658
+27294436	1655	1658	VDs	T170	C0282354
+27294436	1669	1690	nonsignificant models	T170	C3161035
+27294436	1718	1722	data	T078	C1511726
+27294436	1744	1753	intervals	T079	C1272706
+27294436	1755	1766	Demographic	T078	C0011292
+27294436	1771	1779	clinical	T080	C0205210
+27294436	1780	1787	factors	T169	C1521761
+27294436	1792	1802	associated	T080	C0332281
+27294436	1812	1826	interpretation	T170	C0459471
+27294436	1835	1838	VDs	T170	C0282354
+27294436	1853	1861	adjusted	T169	C0456081
+27294436	1869	1877	analyses	T062	C0936012
+27294436	1881	1900	non-randomized data	T078	C1511726

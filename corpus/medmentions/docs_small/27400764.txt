@@ -1,0 +1,47 @@
+27400764|t|Predicting Risk of Suicide Attempt Using History of Physical Illnesses From Electronic Medical Records
+27400764|a|Although physical illnesses, routinely documented in electronic medical records (EMR), have been found to be a contributing factor to suicides, no automated systems use this information to predict suicide risk. The aim of this study is to quantify the impact of physical illnesses on suicide risk, and develop a predictive model that captures this relationship using EMR data. We used history of physical illnesses (except chapter V: Mental and behavioral disorders) from EMR data over different time-periods to build a lookup table that contains the probability of suicide risk for each chapter of the International Statistical Classification of Diseases and Related Health Problems, 10th Revision (ICD-10) codes. The lookup table was then used to predict the probability of suicide risk for any new assessment. Based on the different lengths of history of physical illnesses, we developed six different models to predict suicide risk. We tested the performance of developed models to predict 90-day risk using historical data over differing time-periods ranging from 3 to 48 months. A total of 16,858 assessments from 7399 mental health patients with at least one risk assessment was used for the validation of the developed model. The performance was measured using area under the receiver operating characteristic curve (AUC). The best predictive results were derived (AUC =0.71) using combined data across all time-periods, which significantly outperformed the clinical baseline derived from routine risk assessment (AUC =0.56). The proposed approach thus shows potential to be incorporated in the broader risk assessment processes used by clinicians. This study provides a novel approach to exploit the history of physical illnesses extracted from EMR (ICD-10 codes without chapter V-mental and behavioral disorders) to predict suicide risk, and this model outperforms existing clinical assessments of suicide risk.
+27400764	19	34	Suicide Attempt	T033	UMLS:C0038663
+27400764	41	48	History	T033	UMLS:C0262926
+27400764	52	70	Physical Illnesses	T038	UMLS:C0683323
+27400764	76	102	Electronic Medical Records	T170	UMLS:C2362543
+27400764	112	130	physical illnesses	T038	UMLS:C0683323
+27400764	142	152	documented	T058	UMLS:C1301725
+27400764	156	182	electronic medical records	T170	UMLS:C2362543
+27400764	184	187	EMR	T170	UMLS:C2362543
+27400764	237	245	suicides	T033	UMLS:C0038661
+27400764	300	312	suicide risk	T033	UMLS:C0563664
+27400764	330	335	study	T062	UMLS:C2603343
+27400764	365	383	physical illnesses	T038	UMLS:C0683323
+27400764	387	399	suicide risk	T033	UMLS:C0563664
+27400764	470	473	EMR	T170	UMLS:C2362543
+27400764	488	495	history	T033	UMLS:C0262926
+27400764	499	517	physical illnesses	T038	UMLS:C0683323
+27400764	519	568	except chapter V: Mental and behavioral disorders	T033	UMLS:C0243095
+27400764	575	578	EMR	T170	UMLS:C2362543
+27400764	623	635	lookup table	T170	UMLS:C1706074
+27400764	669	681	suicide risk	T033	UMLS:C0563664
+27400764	706	810	International Statistical Classification of Diseases and Related Health Problems, 10th Revision (ICD-10)	T170	UMLS:C1137110
+27400764	822	834	lookup table	T170	UMLS:C1706074
+27400764	879	891	suicide risk	T033	UMLS:C0563664
+27400764	904	914	assessment	T058	UMLS:C0220825
+27400764	950	957	history	T033	UMLS:C0262926
+27400764	961	979	physical illnesses	T038	UMLS:C0683323
+27400764	1026	1038	suicide risk	T033	UMLS:C0563664
+27400764	1104	1108	risk	T033	UMLS:C0563664
+27400764	1115	1125	historical	T033	UMLS:C0262926
+27400764	1206	1217	assessments	T058	UMLS:C0220825
+27400764	1228	1241	mental health	T038	UMLS:C0025353
+27400764	1269	1273	risk	T033	UMLS:C0563664
+27400764	1274	1284	assessment	T058	UMLS:C0220825
+27400764	1302	1312	validation	T062	UMLS:C1519941
+27400764	1608	1623	risk assessment	T058	UMLS:C0086930
+27400764	1714	1729	risk assessment	T058	UMLS:C0086930
+27400764	1748	1758	clinicians	T097	UMLS:C0871685
+27400764	1765	1770	study	T062	UMLS:C2603343
+27400764	1812	1819	history	T033	UMLS:C0262926
+27400764	1823	1841	physical illnesses	T038	UMLS:C0683323
+27400764	1857	1860	EMR	T170	UMLS:C2362543
+27400764	1875	1924	without chapter V-mental and behavioral disorders	T033	UMLS:C0243095
+27400764	1937	1949	suicide risk	T033	UMLS:C0563664
+27400764	1996	2007	assessments	T058	UMLS:C0220825
+27400764	2011	2023	suicide risk	T033	UMLS:C0563664

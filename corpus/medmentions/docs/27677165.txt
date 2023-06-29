@@ -1,0 +1,104 @@
+27677165|t|The association between HIV, antiretroviral therapy, and gestational diabetes mellitus
+27677165|a|The widespread, chronic use of antiretroviral therapy raises questions concerning the metabolic consequences of HIV infection and treatment. Antiretroviral therapy, and specifically protease inhibitors, has been associated with hyperglycemia. As pregnant women are vulnerable to development of hyperglycemia, the objective of this study was to explore existing literature on the relationship between HIV infection, HIV treatment, and gestational diabetes mellitus (GDM). A systematic search was conducted in six databases for articles providing data on HIV-positivity, protease inhibitor exposure, and GDM or glucose intolerance development in pregnancy. The quality of articles was evaluated using an adapted Cochrane Collaboration bias assessment tool. Risk ratios were generated from pooled data using meta-analysis by the Mantel-Haenszel method. Of 891 references screened, six studies on the role of HIV-positivity, 10 on protease inhibitor use, and two on both were included. Meta-analysis showed no significant relationship between HIV infection and the development of GDM [risk ratio 0.80, 95% confidence interval (CI): 0.47-1.37, I = 0%]. Meta-analysis of protease inhibitor exposure showed increased GDM in studies using first-generation protease inhibitors (risk ratio 2.29, 95% CI: 1.46-3.58) and studies using the strictest diagnosis criteria, the National Diabetes Data Group criteria for 3-h oral glucose tolerance test (risk ratio 3.81, 95% CI: 2.18-6.67). Meta-analysis showed no significant association between HIV-positivity and GDM. Significance of protease inhibitor use was limited to studies using the strictest diagnostic criteria for GDM. Results are limited by high risk of bias. Well designed prospective studies are needed to further clarify this relationship and its consequences for clinical practice.
+27677165	4	15	association	T080	C0439849
+27677165	24	27	HIV	T047	C0019693
+27677165	29	51	antiretroviral therapy	T061	C1963724
+27677165	57	86	gestational diabetes mellitus	T047	C0085207
+27677165	91	101	widespread	T082	C0205391
+27677165	103	110	chronic	T079	C0205191
+27677165	111	117	use of	T169	C1524063
+27677165	118	140	antiretroviral therapy	T061	C1963724
+27677165	148	157	questions	T170	C1522634
+27677165	173	182	metabolic	T169	C0025520
+27677165	183	195	consequences	T169	C0686907
+27677165	199	212	HIV infection	T047	C0019693
+27677165	217	226	treatment	T061	C0087111
+27677165	228	250	Antiretroviral therapy	T061	C1963724
+27677165	269	288	protease inhibitors	T121	C0033607
+27677165	299	314	associated with	T080	C0332281
+27677165	315	328	hyperglycemia	T047	C0020456
+27677165	333	347	pregnant women	T098	C0033011
+27677165	352	362	vulnerable	T169	C0231204
+27677165	366	377	development	T169	C1527148
+27677165	381	394	hyperglycemia	T047	C0020456
+27677165	400	409	objective	T170	C0018017
+27677165	418	423	study	T062	C2603343
+27677165	448	458	literature	T170	C0023866
+27677165	466	478	relationship	T080	C0439849
+27677165	487	500	HIV infection	T047	C0019693
+27677165	502	505	HIV	T047	C0019693
+27677165	506	515	treatment	T061	C0087111
+27677165	521	550	gestational diabetes mellitus	T047	C0085207
+27677165	552	555	GDM	T047	C0085207
+27677165	560	570	systematic	T169	C0220922
+27677165	571	577	search	T052	C1706202
+27677165	599	608	databases	T170	C0242356
+27677165	613	621	articles	T170	C1706852
+27677165	632	636	data	T078	C1511726
+27677165	640	654	HIV-positivity	T034	C0019699
+27677165	656	674	protease inhibitor	T121	C0033607
+27677165	675	683	exposure	T080	C0332157
+27677165	689	692	GDM	T047	C0085207
+27677165	696	740	glucose intolerance development in pregnancy	T047	C0342307
+27677165	746	753	quality	T080	C0332306
+27677165	757	765	articles	T170	C1706852
+27677165	770	779	evaluated	T058	C0220825
+27677165	797	840	Cochrane Collaboration bias assessment tool	T170	C0282574
+27677165	842	853	Risk ratios	T081	C0028873
+27677165	859	868	generated	T052	C3146294
+27677165	874	880	pooled	T169	C2349200
+27677165	881	885	data	T078	C1511726
+27677165	892	905	meta-analysis	T062	C0920317
+27677165	913	935	Mantel-Haenszel method	T062	C1710191
+27677165	944	954	references	T170	C1514811
+27677165	969	976	studies	T062	C2603343
+27677165	984	988	role	T077	C1705810
+27677165	992	1006	HIV-positivity	T034	C0019699
+27677165	1014	1032	protease inhibitor	T121	C0033607
+27677165	1033	1036	use	T169	C0457083
+27677165	1069	1082	Meta-analysis	T062	C0920317
+27677165	1090	1104	no significant	T033	C1273937
+27677165	1105	1117	relationship	T080	C0439849
+27677165	1126	1139	HIV infection	T047	C0019693
+27677165	1148	1159	development	T169	C1527148
+27677165	1163	1166	GDM	T047	C0085207
+27677165	1168	1178	risk ratio	T081	C0028873
+27677165	1189	1208	confidence interval	T081	C0009667
+27677165	1210	1212	CI	T081	C0009667
+27677165	1235	1248	Meta-analysis	T062	C0920317
+27677165	1252	1270	protease inhibitor	T121	C0033607
+27677165	1271	1279	exposure	T080	C0332157
+27677165	1287	1296	increased	T081	C0205217
+27677165	1297	1300	GDM	T047	C0085207
+27677165	1304	1311	studies	T062	C2603343
+27677165	1318	1354	first-generation protease inhibitors	T121	C0033607
+27677165	1356	1366	risk ratio	T081	C0028873
+27677165	1377	1379	CI	T081	C0009667
+27677165	1396	1403	studies	T062	C2603343
+27677165	1424	1442	diagnosis criteria	T170	C0679228
+27677165	1448	1485	National Diabetes Data Group criteria	T170	C0679228
+27677165	1494	1521	oral glucose tolerance test	T060	C0029161
+27677165	1523	1533	risk ratio	T081	C0028873
+27677165	1544	1546	CI	T081	C0009667
+27677165	1560	1573	Meta-analysis	T062	C0920317
+27677165	1581	1595	no significant	T033	C1273937
+27677165	1596	1607	association	T080	C0439849
+27677165	1616	1630	HIV-positivity	T034	C0019699
+27677165	1635	1638	GDM	T047	C0085207
+27677165	1640	1652	Significance	T078	C0750502
+27677165	1656	1674	protease inhibitor	T121	C0033607
+27677165	1675	1678	use	T169	C0457083
+27677165	1683	1690	limited	T169	C0439801
+27677165	1694	1701	studies	T062	C2603343
+27677165	1722	1741	diagnostic criteria	T170	C0679228
+27677165	1746	1749	GDM	T047	C0085207
+27677165	1751	1758	Results	T033	C0683954
+27677165	1763	1770	limited	T169	C0439801
+27677165	1774	1786	high risk of	T033	C0332167
+27677165	1787	1791	bias	T078	C0242568
+27677165	1807	1826	prospective studies	T062	C0033522
+27677165	1831	1837	needed	T080	C0027552
+27677165	1849	1856	clarify	T052	C2986669
+27677165	1862	1874	relationship	T080	C0439849
+27677165	1883	1895	consequences	T169	C0686907
+27677165	1900	1917	clinical practice	T058	C1254363

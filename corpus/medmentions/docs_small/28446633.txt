@@ -1,0 +1,64 @@
+28446633|t|Lactose Intolerance (LCT-13910C>T) Genotype Is Associated with Plasma 25-Hydroxyvitamin D Concentrations in Caucasians: A Mendelian Randomization Study
+28446633|a|Background: The LCT-13910C>T gene variant is associated with lactose intolerance (LI) in different ethnic groups. Individuals with LI often limit or avoid dairy consumption, a major dietary source of vitamin D in North America, which may lead to inadequate vitamin D intake. Objective: The objective was to determine the prevalence of genotypes predictive of LI in different ethnic groups living in Canada and to determine whether the LCT genotype is associated with plasma 25(OH)D concentrations .Methods: Blood samples were drawn from a total of 1495 men and women aged 20-29 y from the Toronto Nutrigenomics and Health Study for genotyping and plasma 25(OH)D analysis. Intakes of dairy were assessed by using a 196-item food frequency questionnaire. The prevalence of LCT-13910C>T genotypes was compared by using χ(2) analysis. Using a Mendelian randomization approach, we examined the association between LCT genotypes and 25(OH)D concentrations .Results: Approximately 32% of Caucasians, 99% of East Asians, 74% of South Asians, and 59% of those with other or mixed ethnicities had the CC genotype associated with LI. Compared with those with the TT genotype, those with the CC genotype had a lower mean ± SE total dairy intake (2.15 ± 0.09 compared with 2.67 ± 0.12 servings/d, P = 0.003), a lower skim-milk intake (0.20 ± 0.03 compared with 0.46 ± 0.06 servings/d, P = 0.0004), and a lower plasma 25(OH)D concentration (63 ± 1.9 compared with 75.8 ± 2.4 nmol/L, P < 0.0001). The CT and CC genotypes were associated with a 50% and a 2-fold increased risk, respectively, of a suboptimal plasma 25(OH)D concentration (<75 nmol/L).Conclusions: In Caucasians, the CC genotype that predicts LI is associated with a lower plasma 25(OH)D concentration, which is attributable at least in part to a lower intake of dairy, particularly skim milk. Increased risk of suboptimal concentrations of vitamin D was also observed among those with the CT genotype, suggesting an intermediate effect of the heterozygous genotype.
+28446633	0	19	Lactose Intolerance	T038	UMLS:C0022951
+28446633	21	33	LCT-13910C>T	T017	UMLS:C1416808
+28446633	63	69	Plasma	T031	UMLS:C0032105
+28446633	70	89	25-Hydroxyvitamin D	T103	UMLS:C0535968
+28446633	108	118	Caucasians	T098	UMLS:C0043157
+28446633	122	151	Mendelian Randomization Study	T062	UMLS:C2718019
+28446633	168	180	LCT-13910C>T	T017	UMLS:C1416808
+28446633	181	193	gene variant	T017	UMLS:C0678941
+28446633	213	232	lactose intolerance	T038	UMLS:C0022951
+28446633	234	236	LI	T038	UMLS:C0022951
+28446633	251	264	ethnic groups	T098	UMLS:C0015031
+28446633	266	277	Individuals	T098	UMLS:C0237401
+28446633	283	285	LI	T038	UMLS:C0022951
+28446633	307	312	dairy	T168	UMLS:C0010947
+28446633	334	341	dietary	T168	UMLS:C0012155
+28446633	342	348	source	T033	UMLS:C0449416
+28446633	352	361	vitamin D	T103	UMLS:C0042866
+28446633	365	378	North America	T082	UMLS:C0028405
+28446633	409	425	vitamin D intake	T033	UMLS:C0564439
+28446633	427	436	Objective	T170	UMLS:C0018017
+28446633	442	451	objective	T170	UMLS:C0018017
+28446633	511	513	LI	T038	UMLS:C0022951
+28446633	527	540	ethnic groups	T098	UMLS:C0015031
+28446633	551	557	Canada	T082	UMLS:C0006823
+28446633	587	590	LCT	T017	UMLS:C1416808
+28446633	619	625	plasma	T031	UMLS:C0032105
+28446633	626	633	25(OH)D	T103	UMLS:C0535968
+28446633	659	672	Blood samples	T031	UMLS:C0178913
+28446633	705	708	men	T098	UMLS:C0025266
+28446633	713	718	women	T098	UMLS:C0043210
+28446633	741	762	Toronto Nutrigenomics	T091	UMLS:C1956006
+28446633	767	779	Health Study	T062	UMLS:C0242481
+28446633	784	794	genotyping	T058	UMLS:C3178894
+28446633	799	805	plasma	T031	UMLS:C0032105
+28446633	806	813	25(OH)D	T103	UMLS:C0535968
+28446633	814	822	analysis	T062	UMLS:C0936012
+28446633	824	840	Intakes of dairy	T033	UMLS:C0559267
+28446633	866	903	196-item food frequency questionnaire	T170	UMLS:C2986698
+28446633	923	935	LCT-13910C>T	T017	UMLS:C1416808
+28446633	968	981	χ(2) analysis	T170	UMLS:C0008041
+28446633	991	1023	Mendelian randomization approach	T062	UMLS:C2718019
+28446633	1061	1064	LCT	T017	UMLS:C1416808
+28446633	1079	1086	25(OH)D	T103	UMLS:C0535968
+28446633	1133	1143	Caucasians	T098	UMLS:C0043157
+28446633	1152	1163	East Asians	T098	UMLS:C0078988
+28446633	1172	1184	South Asians	T098	UMLS:C1519427
+28446633	1223	1234	ethnicities	T098	UMLS:C0015031
+28446633	1271	1273	LI	T038	UMLS:C0022951
+28446633	1366	1384	total dairy intake	T033	UMLS:C0559267
+28446633	1450	1472	lower skim-milk intake	T033	UMLS:C0243095
+28446633	1549	1555	plasma	T031	UMLS:C0032105
+28446633	1556	1563	25(OH)D	T103	UMLS:C0535968
+28446633	1744	1750	plasma	T031	UMLS:C0032105
+28446633	1751	1758	25(OH)D	T103	UMLS:C0535968
+28446633	1802	1812	Caucasians	T098	UMLS:C0043157
+28446633	1844	1846	LI	T038	UMLS:C0022951
+28446633	1874	1880	plasma	T031	UMLS:C0032105
+28446633	1881	1888	25(OH)D	T103	UMLS:C0535968
+28446633	1954	1969	intake of dairy	T033	UMLS:C0559267
+28446633	1984	1993	skim milk	T033	UMLS:C0243095
+28446633	2042	2051	vitamin D	T103	UMLS:C0042866
+28446633	2118	2137	intermediate effect	T033	UMLS:C0243095

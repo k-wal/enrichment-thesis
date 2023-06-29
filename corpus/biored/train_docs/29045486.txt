@@ -1,0 +1,70 @@
+29045486|t|Thiamine deficiency activates hypoxia inducible factor-1a to facilitate pro-apoptotic responses in mouse primary astrocytes.
+29045486|a|Thiamine is an essential enzyme cofactor required for proper metabolic function and maintenance of metabolism and energy production in the brain. In developed countries, thiamine deficiency (TD) is most often manifested following chronic alcohol consumption leading to impaired mitochondrial function, oxidative stress, inflammation and excitotoxicity. These biochemical lesions result in apoptotic cell death in both neurons and astrocytes. Comparable histological injuries in patients with hypoxia/ischemia and TD have been described in the thalamus and mammillary bodies, suggesting a congruency between the cellular responses to these stresses. Consistent with hypoxia/ischemia, TD stabilizes and activates Hypoxia Inducible Factor-1a (HIF-1a) under physiological oxygen levels. However, the role of TD-induced HIF-1a in neurological injury is currently unknown. Using Western blot analysis and RT-PCR, we have demonstrated that TD induces HIF-1a expression and activity in primary mouse astrocytes. We observed a time-dependent increase in mRNA and protein expression of the pro-apoptotic and pro-inflammatory HIF-1a target genes MCP1, BNIP3, Nix and Noxa during TD. We also observed apoptotic cell death in TD as demonstrated by PI/Annexin V staining, TUNEL assay, and Cell Death ELISA. Pharmacological inhibition of HIF-1a activity using YC1 and thiamine repletion both reduced expression of pro-apoptotic HIF-1a target genes and apoptotic cell death in TD. These results demonstrate that induction of HIF-1a mediated transcriptional up-regulation of pro-apoptotic/inflammatory signaling contributes to astrocyte cell death during thiamine deficiency.
+29045486	0	19	Thiamine deficiency	DiseaseOrPhenotypicFeature	D013832
+29045486	30	57	hypoxia inducible factor-1a	GeneOrGeneProduct	15251
+29045486	99	104	mouse	OrganismTaxon	10090
+29045486	125	133	Thiamine	ChemicalEntity	D013831
+29045486	295	314	thiamine deficiency	DiseaseOrPhenotypicFeature	D013832
+29045486	316	318	TD	DiseaseOrPhenotypicFeature	D013832
+29045486	363	370	alcohol	ChemicalEntity	D000438
+29045486	394	425	impaired mitochondrial function	DiseaseOrPhenotypicFeature	D028361
+29045486	445	457	inflammation	DiseaseOrPhenotypicFeature	D007249
+29045486	462	476	excitotoxicity	DiseaseOrPhenotypicFeature	D064420
+29045486	603	611	patients	OrganismTaxon	9606
+29045486	617	624	hypoxia	DiseaseOrPhenotypicFeature	D000860
+29045486	625	633	ischemia	DiseaseOrPhenotypicFeature	D007511
+29045486	638	640	TD	DiseaseOrPhenotypicFeature	D013832
+29045486	790	797	hypoxia	DiseaseOrPhenotypicFeature	D000860
+29045486	798	806	ischemia	DiseaseOrPhenotypicFeature	D007511
+29045486	808	810	TD	DiseaseOrPhenotypicFeature	D013832
+29045486	836	863	Hypoxia Inducible Factor-1a	GeneOrGeneProduct	15251
+29045486	865	871	HIF-1a	GeneOrGeneProduct	15251
+29045486	893	899	oxygen	ChemicalEntity	D010100
+29045486	929	931	TD	DiseaseOrPhenotypicFeature	D013832
+29045486	940	946	HIF-1a	GeneOrGeneProduct	15251
+29045486	950	969	neurological injury	DiseaseOrPhenotypicFeature	D009422
+29045486	1058	1060	TD	DiseaseOrPhenotypicFeature	D013832
+29045486	1069	1075	HIF-1a	GeneOrGeneProduct	15251
+29045486	1111	1116	mouse	OrganismTaxon	10090
+29045486	1227	1239	inflammatory	DiseaseOrPhenotypicFeature	D007249
+29045486	1240	1246	HIF-1a	GeneOrGeneProduct	15251
+29045486	1260	1264	MCP1	GeneOrGeneProduct	20296
+29045486	1266	1271	BNIP3	GeneOrGeneProduct	12176
+29045486	1273	1276	Nix	GeneOrGeneProduct	12177
+29045486	1281	1285	Noxa	GeneOrGeneProduct	58801
+29045486	1293	1295	TD	DiseaseOrPhenotypicFeature	D013832
+29045486	1338	1340	TD	DiseaseOrPhenotypicFeature	D013832
+29045486	1363	1372	Annexin V	GeneOrGeneProduct	11747
+29045486	1448	1454	HIF-1a	GeneOrGeneProduct	15251
+29045486	1470	1473	YC1	GeneOrGeneProduct	56878
+29045486	1478	1486	thiamine	ChemicalEntity	D013831
+29045486	1538	1544	HIF-1a	GeneOrGeneProduct	15251
+29045486	1586	1588	TD	DiseaseOrPhenotypicFeature	D013832
+29045486	1634	1640	HIF-1a	GeneOrGeneProduct	15251
+29045486	1697	1709	inflammatory	DiseaseOrPhenotypicFeature	D007249
+29045486	1763	1782	thiamine deficiency	DiseaseOrPhenotypicFeature	D013832
+29045486	Positive_Correlation	D000438	D028361	No
+29045486	Positive_Correlation	D000438	D064420	No
+29045486	Positive_Correlation	D000438	D007249	No
+29045486	Negative_Correlation	D013831	15251	Novel
+29045486	Association	D013831	D013832	Novel
+29045486	Association	56878	D013832	Novel
+29045486	Association	D007249	58801	Novel
+29045486	Association	D007249	12177	Novel
+29045486	Association	D007249	12176	Novel
+29045486	Association	D007249	20296	Novel
+29045486	Association	D007511	15251	No
+29045486	Association	D000860	15251	No
+29045486	Negative_Correlation	15251	56878	Novel
+29045486	Association	15251	D007249	Novel
+29045486	Association	15251	58801	Novel
+29045486	Association	15251	12177	Novel
+29045486	Association	15251	12176	Novel
+29045486	Association	15251	20296	Novel
+29045486	Positive_Correlation	D013832	D000438	No
+29045486	Association	D013832	11747	Novel
+29045486	Association	D013832	58801	Novel
+29045486	Association	D013832	12177	Novel
+29045486	Association	D013832	12176	Novel
+29045486	Association	D013832	20296	Novel
+29045486	Positive_Correlation	D013832	15251	Novel

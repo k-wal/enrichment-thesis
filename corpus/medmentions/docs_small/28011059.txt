@@ -1,0 +1,70 @@
+28011059|t|Epigenome-wide analysis links SMAD3 methylation at birth to asthma in children of asthmatic mothers
+28011059|a|The timing and mechanisms of asthma inception remain imprecisely defined. Although epigenetic mechanisms likely contribute to asthma pathogenesis, little is known about their role in asthma inception. We sought to assess whether the trajectory to asthma begins already at birth and whether epigenetic mechanisms, specifically DNA methylation, contribute to asthma inception. We used the Methylated CpG Island Recovery Assay chip to survey DNA methylation in cord blood mononuclear cells from 36 children (18 nonasthmatic and 18 asthmatic subjects by age 9 years) from the Infant Immune Study (IIS), an unselected birth cohort closely monitored for asthma for a decade. SMAD3 methylation in IIS (n = 60) and in 2 replication cohorts (the Manchester Asthma and Allergy Study [n = 30] and the Childhood Origins of Asthma Study [n = 28]) was analyzed by using bisulfite sequencing or Illumina 450K arrays. Cord blood mononuclear cell -derived IL-1β levels were measured by means of ELISA. Neonatal immune cells harbored 589 differentially methylated regions that distinguished IIS children who did and did not have asthma by age 9 years. In all 3 cohorts methylation in SMAD3, the most connected node within the network of asthma - associated, differentially methylated regions, was selectively increased in asthmatic children of asthmatic mothers and was associated with childhood asthma risk. Moreover, SMAD3 methylation in IIS neonates with maternal asthma was strongly and positively associated with neonatal production of IL-1β, an innate inflammatory mediator. The trajectory to childhood asthma begins at birth and involves epigenetic modifications in immunoregulatory and proinflammatory pathways. Maternal asthma influences epigenetic mechanisms that contribute to the inception of this trajectory.
+28011059	0	23	Epigenome-wide analysis	T062	UMLS:C2350277
+28011059	30	35	SMAD3	T017	UMLS:C0919432
+28011059	36	47	methylation	T038	UMLS:C0376452
+28011059	51	56	birth	T038	UMLS:C0005615
+28011059	60	78	asthma in children	T038	UMLS:C0264408
+28011059	82	91	asthmatic	T038	UMLS:C0004096
+28011059	129	135	asthma	T038	UMLS:C0004096
+28011059	183	193	epigenetic	T038	UMLS:C1516924
+28011059	226	232	asthma	T038	UMLS:C0004096
+28011059	233	245	pathogenesis	T038	UMLS:C0699748
+28011059	283	289	asthma	T038	UMLS:C0004096
+28011059	347	353	asthma	T038	UMLS:C0004096
+28011059	372	377	birth	T038	UMLS:C0005615
+28011059	390	400	epigenetic	T038	UMLS:C1516924
+28011059	426	441	DNA methylation	T038	UMLS:C0376452
+28011059	457	463	asthma	T038	UMLS:C0004096
+28011059	487	528	Methylated CpG Island Recovery Assay chip	T058	UMLS:C1328856
+28011059	532	538	survey	T170	UMLS:C0038951
+28011059	539	554	DNA methylation	T038	UMLS:C0376452
+28011059	558	568	cord blood	T031	UMLS:C0162371
+28011059	608	620	nonasthmatic	T098	UMLS:C0080105
+28011059	628	637	asthmatic	T038	UMLS:C0004096
+28011059	638	646	subjects	T098	UMLS:C0080105
+28011059	686	691	Study	T062	UMLS:C2603343
+28011059	693	696	IIS	T062	UMLS:C2603343
+28011059	713	718	birth	T038	UMLS:C0005615
+28011059	719	725	cohort	T098	UMLS:C0599755
+28011059	748	754	asthma	T038	UMLS:C0004096
+28011059	769	774	SMAD3	T017	UMLS:C0919432
+28011059	775	786	methylation	T038	UMLS:C0376452
+28011059	790	793	IIS	T062	UMLS:C2603343
+28011059	812	823	replication	T038	UMLS:C0598312
+28011059	824	831	cohorts	T098	UMLS:C0599755
+28011059	848	854	Asthma	T038	UMLS:C0004096
+28011059	890	917	Childhood Origins of Asthma	T038	UMLS:C0264408
+28011059	918	923	Study	T062	UMLS:C2603343
+28011059	938	946	analyzed	T062	UMLS:C0936012
+28011059	956	976	bisulfite sequencing	T062	UMLS:C3831347
+28011059	980	1000	Illumina 450K arrays	T058	UMLS:C0022885
+28011059	1002	1012	Cord blood	T031	UMLS:C0162371
+28011059	1039	1044	IL-1β	T103	UMLS:C1702300
+28011059	1078	1083	ELISA	T058	UMLS:C0014441
+28011059	1101	1106	cells	T017	UMLS:C0007634
+28011059	1135	1153	methylated regions	T082	UMLS:C0004793
+28011059	1173	1176	IIS	T062	UMLS:C2603343
+28011059	1177	1185	children	T098	UMLS:C1257890
+28011059	1211	1217	asthma	T038	UMLS:C0004096
+28011059	1243	1250	cohorts	T098	UMLS:C0599755
+28011059	1251	1262	methylation	T038	UMLS:C0376452
+28011059	1266	1271	SMAD3	T017	UMLS:C0919432
+28011059	1319	1325	asthma	T038	UMLS:C0004096
+28011059	1355	1373	methylated regions	T082	UMLS:C0004793
+28011059	1404	1413	asthmatic	T038	UMLS:C0264408
+28011059	1426	1435	asthmatic	T038	UMLS:C0004096
+28011059	1468	1484	childhood asthma	T038	UMLS:C0264408
+28011059	1501	1506	SMAD3	T017	UMLS:C0919432
+28011059	1507	1518	methylation	T038	UMLS:C0376452
+28011059	1522	1525	IIS	T062	UMLS:C2603343
+28011059	1549	1555	asthma	T038	UMLS:C0004096
+28011059	1623	1628	IL-1β	T103	UMLS:C1702300
+28011059	1633	1661	innate inflammatory mediator	T103	UMLS:C0243042
+28011059	1681	1697	childhood asthma	T038	UMLS:C0264408
+28011059	1708	1713	birth	T038	UMLS:C0005615
+28011059	1727	1737	epigenetic	T038	UMLS:C1516924
+28011059	1755	1771	immunoregulatory	T038	UMLS:C0678889
+28011059	1792	1800	pathways	T038	UMLS:C1704259
+28011059	1811	1817	asthma	T038	UMLS:C0004096
+28011059	1829	1839	epigenetic	T038	UMLS:C1516924

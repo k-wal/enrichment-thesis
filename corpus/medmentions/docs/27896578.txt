@@ -1,0 +1,104 @@
+27896578|t|Is there evidence for a close connection between side of intravesical tumor location and ipsilateral lymphatic spread in lymph node-positive bladder cancer patients at radical cystectomy? Results of the PROMETRICS 2011 database
+27896578|a|To evaluate the possible association between bladder tumor location and the laterality of positive lymph nodes (LN) in a prospectively collected multi-institutional radical cystectomy (RC) series. The study population included 148 node-positive bladder cancer (BC) patients undergoing RC and pelvic lymph node dissection in 2011 without neoadjuvant chemotherapy and without distant metastasis. Tumor location was classified as right, left or bilateral and compared to the laterality of positive pelvic LN. A logistic regression model was used to identify predictors of ipsilaterality of lymphatic spread. Using multivariate Cox regression analyses (median follow-up: 25 months), the effect of the laterality of positive LN on cancer-specific mortality (CSM) was estimated. Overall, median 18.5 LN [interquartile range (IQR), 11-27] were removed and 3 LN (IQR 1-5) were positive. There was concordance of tumor location and laterality of positive LN in 82% [95% confidence interval (CI), 76-89]. Patients with unilateral tumors (n = 78) harbored exclusively ipsilateral positive LN in 67% (95% CI 56-77). No criteria were found to predict ipsilateral positive LN in patients with unilateral tumors. CSM after 3 years in patients with ipsilateral, contralateral, and bilateral LN metastasis was 41, 67, and 100%, respectively (p = 0.042). However, no significant effect of the laterality of positive pelvic LN on CSM could be confirmed in multivariate analyses. Our prospective cohort showed a concordance of tumor location and laterality of LN metastasis in BC at RC without any predictive criteria and without any influence on CSM. It is debatable, whether these findings may contribute to a more individualized patient management.
+27896578	9	17	evidence	T078	C3887511
+27896578	30	40	connection	T080	C0439849
+27896578	57	75	intravesical tumor	T191	C0005684
+27896578	76	84	location	T029	C1515974
+27896578	89	100	ipsilateral	T082	C0441989
+27896578	101	110	lymphatic	T022	C0024235
+27896578	111	117	spread	T033	C1334939
+27896578	121	140	lymph node-positive	T033	C0746319
+27896578	141	155	bladder cancer	T191	C0005684
+27896578	156	164	patients	T101	C0030705
+27896578	168	186	radical cystectomy	T061	C0194401
+27896578	188	195	Results	T169	C1274040
+27896578	203	227	PROMETRICS 2011 database	T170	C0242356
+27896578	253	264	association	T080	C0439849
+27896578	273	286	bladder tumor	T191	C0005684
+27896578	287	295	location	T029	C1515974
+27896578	304	314	laterality	T032	C1720777
+27896578	318	343	positive lymph nodes (LN)	T033	C0746319
+27896578	373	392	multi-institutional	T093	C0026738
+27896578	393	411	radical cystectomy	T061	C0194401
+27896578	413	415	RC	T061	C0194401
+27896578	429	445	study population	T098	C2348561
+27896578	459	472	node-positive	T033	C0746319
+27896578	473	487	bladder cancer	T191	C0005684
+27896578	489	491	BC	T191	C0005684
+27896578	493	501	patients	T101	C0030705
+27896578	513	515	RC	T061	C0194401
+27896578	520	548	pelvic lymph node dissection	T061	C0398429
+27896578	565	589	neoadjuvant chemotherapy	T061	C4272610
+27896578	594	620	without distant metastasis	T033	C0243095
+27896578	622	627	Tumor	T191	C0005684
+27896578	628	636	location	T029	C1515974
+27896578	655	660	right	T082	C0205090
+27896578	662	666	left	T082	C0205091
+27896578	670	679	bilateral	T082	C0238767
+27896578	684	692	compared	T052	C1707455
+27896578	700	710	laterality	T032	C1720777
+27896578	714	732	positive pelvic LN	T033	C0746319
+27896578	736	761	logistic regression model	UnknownType	C0681925
+27896578	783	793	predictors	T078	C2698872
+27896578	797	811	ipsilaterality	T082	C0441989
+27896578	815	824	lymphatic	T022	C0024235
+27896578	825	831	spread	T033	C1334939
+27896578	839	875	multivariate Cox regression analyses	T170	C0034980
+27896578	884	893	follow-up	T058	C1522577
+27896578	898	904	months	T079	C0439231
+27896578	911	917	effect	T080	C1280500
+27896578	925	935	laterality	T032	C1720777
+27896578	939	950	positive LN	T033	C0746319
+27896578	954	979	cancer-specific mortality	T081	C0205848
+27896578	981	984	CSM	T081	C0205848
+27896578	1022	1024	LN	T023	C0024204
+27896578	1026	1045	interquartile range	T081	C1711350
+27896578	1047	1050	IQR	T081	C1711350
+27896578	1079	1081	LN	T023	C0024204
+27896578	1083	1086	IQR	T081	C1711350
+27896578	1097	1105	positive	T033	C1446409
+27896578	1132	1137	tumor	T191	C0005684
+27896578	1138	1146	location	T029	C1515974
+27896578	1151	1161	laterality	T032	C1720777
+27896578	1165	1176	positive LN	T033	C0746319
+27896578	1189	1208	confidence interval	T081	C0009667
+27896578	1210	1212	CI	T081	C0009667
+27896578	1223	1231	Patients	T101	C0030705
+27896578	1237	1247	unilateral	T082	C0205092
+27896578	1248	1254	tumors	T191	C0005684
+27896578	1285	1296	ipsilateral	T082	C0441989
+27896578	1297	1308	positive LN	T033	C0746319
+27896578	1321	1323	CI	T081	C0009667
+27896578	1335	1343	criteria	T078	C0243161
+27896578	1366	1377	ipsilateral	T082	C0441989
+27896578	1378	1389	positive LN	T033	C0746319
+27896578	1393	1401	patients	T101	C0030705
+27896578	1407	1417	unilateral	T082	C0205092
+27896578	1418	1424	tumors	T191	C0005684
+27896578	1426	1429	CSM	T081	C0205848
+27896578	1438	1443	years	T079	C0439234
+27896578	1447	1455	patients	T101	C0030705
+27896578	1461	1472	ipsilateral	T082	C0441989
+27896578	1493	1502	bilateral	T082	C0238767
+27896578	1503	1505	LN	T023	C0024204
+27896578	1506	1516	metastasis	T191	C0027627
+27896578	1589	1595	effect	T080	C1280500
+27896578	1603	1613	laterality	T032	C1720777
+27896578	1617	1635	positive pelvic LN	T033	C0746319
+27896578	1639	1642	CSM	T081	C0205848
+27896578	1665	1686	multivariate analyses	T170	C0034980
+27896578	1692	1710	prospective cohort	T062	C1709709
+27896578	1735	1740	tumor	T191	C0005684
+27896578	1741	1749	location	T029	C1515974
+27896578	1754	1764	laterality	T032	C1720777
+27896578	1768	1770	LN	T023	C0024204
+27896578	1771	1781	metastasis	T191	C0027627
+27896578	1785	1787	BC	T191	C0005684
+27896578	1791	1793	RC	T061	C0194401
+27896578	1806	1816	predictive	T080	C0681890
+27896578	1817	1825	criteria	T078	C0243161
+27896578	1842	1851	influence	T077	C4054723
+27896578	1855	1858	CSM	T081	C0205848
+27896578	1891	1899	findings	T033	C0243095
+27896578	1925	1939	individualized	T080	C1881197
+27896578	1940	1958	patient management	T058	C1610129

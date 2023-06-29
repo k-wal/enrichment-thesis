@@ -1,0 +1,84 @@
+26027517|t|The autotaxin-LPA2 GPCR axis is modulated by gamma-irradiation and facilitates DNA damage repair.
+26027517|a|In this study we characterized the effects of radiation injury on the expression and function of the autotaxin (ATX)-LPA2 GPCR axis. In IEC-6 crypt cells and jejunum enteroids quantitative RT-PCR showed a time- and dose-dependent upregulation of lpa2 in response to gamma-irradiation that was abolished by mutation of the NF-kappaB site in the lpa2 promoter or by inhibition of ATM/ATR kinases with CGK-733, suggesting that lpa2 is a DNA damage response gene upregulated by ATM via NF-kappaB. The resolution kinetics of the DNA damage marker gamma-H2AX in LPA-treated IEC-6 cells exposed to gamma-irradiation was accelerated compared to vehicle, whereas pharmacological inhibition of LPA2 delayed the resolution of gamma-H2AX. In LPA2-reconstituted MEF cells lacking LPA1    '3 the levels of gamma-H2AX decreased rapidly, whereas in Vector MEF were high and remained sustained. Inhibition of ERK1    '2 or PI3K/AKT signaling axis by pertussis toxin or the C311A/C314A/L351A mutation in the C-terminus of LPA2 abrogated the effect of LPA on DNA repair. LPA2 transcripts in Lin(-)Sca-1(+)c-Kit(+) enriched for bone marrow stem cells were 27- and 5-fold higher than in common myeloid or lymphoid progenitors, respectively. Furthermore, after irradiation higher residual gamma-H2AX levels were detected in the bone marrow or jejunum of irradiated LPA2-KO mice compared to WT mice. We found that gamma-irradiation increases plasma ATX activity and LPA level that is in part due to the previously established radiation-induced upregulation of TNFalpha. These findings identify ATX and LPA2 as radiation-regulated genes that appear to play a physiological role in DNA repair. 
+26027517	4	13	autotaxin	GeneOrGeneProduct	84050
+26027517	14	18	LPA2	GeneOrGeneProduct	498609,53978
+26027517	19	23	GPCR	GeneOrGeneProduct	295589
+26027517	144	160	radiation injury	DiseaseOrPhenotypicFeature	D011832
+26027517	199	208	autotaxin	GeneOrGeneProduct	84050
+26027517	210	213	ATX	GeneOrGeneProduct	84050
+26027517	215	219	LPA2	GeneOrGeneProduct	498609
+26027517	220	224	GPCR	GeneOrGeneProduct	295589
+26027517	234	239	IEC-6	CellLine	CVCL_0343
+26027517	344	348	lpa2	GeneOrGeneProduct	498609
+26027517	420	429	NF-kappaB	GeneOrGeneProduct	81736
+26027517	442	446	lpa2	GeneOrGeneProduct	498609
+26027517	476	491	ATM/ATR kinases	GeneOrGeneProduct	300711,685055
+26027517	497	504	CGK-733	ChemicalEntity	C512273
+26027517	522	526	lpa2	GeneOrGeneProduct	498609
+26027517	572	575	ATM	GeneOrGeneProduct	300711
+26027517	580	589	NF-kappaB	GeneOrGeneProduct	81736
+26027517	640	650	gamma-H2AX	GeneOrGeneProduct	500987
+26027517	654	657	LPA	GeneOrGeneProduct	53978
+26027517	666	671	IEC-6	CellLine	CVCL_0343
+26027517	782	786	LPA2	GeneOrGeneProduct	498609
+26027517	813	823	gamma-H2AX	GeneOrGeneProduct	500987
+26027517	828	832	LPA2	GeneOrGeneProduct	53978
+26027517	847	850	MEF	CellLine	CVCL_9115
+26027517	865	875	LPA1    '3	GeneOrGeneProduct	14745,65086
+26027517	890	900	gamma-H2AX	GeneOrGeneProduct	15270
+26027517	938	941	MEF	CellLine	CVCL_9115
+26027517	990	1000	ERK1    '2	GeneOrGeneProduct	26413,26417
+26027517	1004	1008	PI3K	GeneOrGeneProduct	18708
+26027517	1009	1012	AKT	GeneOrGeneProduct	11651
+26027517	1054	1059	C311A	SequenceVariant	p|SUB|C|311|A
+26027517	1060	1065	C314A	SequenceVariant	p|SUB|C|314|A
+26027517	1066	1071	L351A	SequenceVariant	p|SUB|L|351|A
+26027517	1102	1106	LPA2	GeneOrGeneProduct	53978
+26027517	1131	1134	LPA	GeneOrGeneProduct	53978
+26027517	1150	1154	LPA2	GeneOrGeneProduct	53978
+26027517	1170	1173	Lin	GeneOrGeneProduct	83557
+26027517	1176	1181	Sca-1	GeneOrGeneProduct	110454
+26027517	1184	1189	c-Kit	GeneOrGeneProduct	16590
+26027517	1365	1375	gamma-H2AX	GeneOrGeneProduct	15270
+26027517	1441	1445	LPA2	GeneOrGeneProduct	53978
+26027517	1449	1453	mice	OrganismTaxon	10090
+26027517	1469	1473	mice	OrganismTaxon	10090
+26027517	1524	1527	ATX	GeneOrGeneProduct	84050
+26027517	1541	1544	LPA	GeneOrGeneProduct	53978
+26027517	1635	1643	TNFalpha	GeneOrGeneProduct	21926
+26027517	1669	1672	ATX	GeneOrGeneProduct	18606,84050
+26027517	1677	1681	LPA2	GeneOrGeneProduct	498609,53978
+26027517	Positive_Correlation	21926	84050	Novel
+26027517	Association	D011832	295589	Novel
+26027517	Association	D011832	498609	Novel
+26027517	Association	D011832	84050	Novel
+26027517	Association	p|SUB|C|311|A	p|SUB|L|351|A	No
+26027517	Association	p|SUB|C|311|A	p|SUB|C|314|A	Novel
+26027517	Association	p|SUB|C|314|A	p|SUB|L|351|A	Novel
+26027517	Association	11651	53978	Novel
+26027517	Association	18708	11651	No
+26027517	Association	18708	53978	Novel
+26027517	Association	26417	53978	Novel
+26027517	Association	26413	53978	Novel
+26027517	Association	65086	15270	Novel
+26027517	Association	14745	15270	Novel
+26027517	Association	500987	53978	No
+26027517	Negative_Correlation	685055	C512273	No
+26027517	Association	300711	81736	Novel
+26027517	Negative_Correlation	300711	C512273	No
+26027517	Positive_Correlation	53978	21926	Novel
+26027517	Association	53978	16590	No
+26027517	Association	53978	110454	No
+26027517	Association	53978	83557	No
+26027517	Association	53978	15270	Novel
+26027517	Association	53978	65086	No
+26027517	Association	53978	14745	No
+26027517	Association	53978	295589	No
+26027517	Association	498609	500987	Novel
+26027517	Association	498609	81736	Novel
+26027517	Negative_Correlation	498609	C512273	Novel
+26027517	Positive_Correlation	498609	300711	Novel
+26027517	Association	498609	295589	No
+26027517	Association	84050	295589	No
+26027517	Association	84050	53978	No
+26027517	Association	84050	498609	No

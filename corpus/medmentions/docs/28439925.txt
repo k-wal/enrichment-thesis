@@ -1,0 +1,114 @@
+28439925|t|Work-related psychosocial stress and the risk of type 2 diabetes in later life
+28439925|a|Although work-related psychosocial stress and type 2 diabetes mellitus (T2DM) have been investigated, the association between lifelong work stress and T2DM in later life remains unclear. This study examined whether high work stress increased the risk of T2DM risk in later life, accounting also for other sources of stress outside work, such as burden from household chores. From the population -based prospective study SNAC-K, 2719 diabetes-free participants aged ≥60 years were identified and followed up for 6 years. T2DM was ascertained by glycated haemoglobin level, self-report, hypoglycaemic medication use and clinical records. Levels of job control and demands over the whole working life were assessed by a validated matrix. Household chores load was assessed by hours spent on such chores. Multivariate logistic regression models were used to estimate the association between job strain and T2DM. During the 6- year follow-up, 154 incident cases of T2DM were identified. High job strain was associated with T2DM occurrence amongst the 60- year - old cohort (OR = 3.14, 95% CI: 1.27-7.77), and only amongst women (OR = 6.18, 95% CI: 1.22-31.26), but not in men. When taking into account household chores load, a more pronounced risk of T2DM was associated with high job strain in combination with heavy household chores load in women aged 60 years at baseline (OR = 9.45, 95% CI: 1.17-76.53). Work-related psychosocial stress may increase the risk of T2DM only amongst women in their early 60s. The risk can be amplified by high household chores load.
+28439925	0	12	Work-related	T033	C1698590
+28439925	13	32	psychosocial stress	UnknownType	C0679118
+28439925	41	45	risk	T078	C0035647
+28439925	49	64	type 2 diabetes	T047	C0011860
+28439925	68	73	later	T079	C0205087
+28439925	74	78	life	T078	C0376558
+28439925	88	100	work-related	T033	C1698590
+28439925	101	120	psychosocial stress	UnknownType	C0679118
+28439925	125	149	type 2 diabetes mellitus	T047	C0011860
+28439925	151	155	T2DM	T047	C0011860
+28439925	167	179	investigated	T169	C1292732
+28439925	185	196	association	T080	C0439849
+28439925	205	213	lifelong	T079	C4274169
+28439925	214	225	work stress	T033	C0344330
+28439925	230	234	T2DM	T047	C0011860
+28439925	238	243	later	T079	C0205087
+28439925	244	248	life	T078	C0376558
+28439925	257	264	unclear	T033	C3845108
+28439925	271	276	study	T062	C2603343
+28439925	277	285	examined	T033	C0332128
+28439925	294	298	high	T080	C0205250
+28439925	299	310	work stress	T033	C0344330
+28439925	311	320	increased	T081	C0205217
+28439925	325	329	risk	T078	C0035647
+28439925	333	337	T2DM	T047	C0011860
+28439925	338	342	risk	T078	C0035647
+28439925	346	351	later	T079	C0205087
+28439925	352	356	life	T078	C0376558
+28439925	384	391	sources	T033	C0449416
+28439925	395	401	stress	T033	C0038435
+28439925	410	414	work	T057	C0043227
+28439925	424	430	burden	T078	C2828008
+28439925	436	452	household chores	T056	C0001288
+28439925	463	473	population	T098	C1257890
+28439925	481	498	prospective study	T062	C2603343
+28439925	499	505	SNAC-K	T062	C0023981
+28439925	512	538	diabetes-free participants	T098	C0679646
+28439925	539	543	aged	T032	C0001779
+28439925	548	553	years	T079	C0439234
+28439925	559	569	identified	T080	C0205396
+28439925	574	585	followed up	T058	C1522577
+28439925	592	597	years	T079	C0439234
+28439925	599	603	T2DM	T047	C0011860
+28439925	608	622	ascertained by	T080	C0521093
+28439925	623	643	glycated haemoglobin	T116,T123	C0017853
+28439925	644	649	level	T080	C0441889
+28439925	651	662	self-report	T062	C2700446
+28439925	664	688	hypoglycaemic medication	T121	C0020616
+28439925	689	692	use	T169	C0457083
+28439925	697	713	clinical records	T170	C1299495
+28439925	715	721	Levels	T080	C0441889
+28439925	725	736	job control	T033	C0243095
+28439925	741	748	demands	T033	C4062503
+28439925	764	771	working	T057	C0043227
+28439925	772	776	life	T078	C0376558
+28439925	782	790	assessed	T052	C1516048
+28439925	796	812	validated matrix	T062,T170	C0681836
+28439925	814	830	Household chores	T056	C0001288
+28439925	831	835	load	T081	C0085122
+28439925	840	848	assessed	T052	C1516048
+28439925	852	857	hours	T079	C0439227
+28439925	872	878	chores	T056	C0026606
+28439925	880	919	Multivariate logistic regression models	T081,T170	C0023965
+28439925	933	941	estimate	T081	C0750572
+28439925	946	957	association	T080	C0439849
+28439925	966	976	job strain	T184	C2985217
+28439925	981	985	T2DM	T047	C0011860
+28439925	1001	1005	year	T079	C0439234
+28439925	1006	1015	follow-up	T058	C1522577
+28439925	1021	1029	incident	T067	C1551358
+28439925	1030	1035	cases	T169	C0868928
+28439925	1039	1043	T2DM	T047	C0011860
+28439925	1049	1059	identified	T080	C0205396
+28439925	1061	1065	High	T080	C0205250
+28439925	1066	1076	job strain	T184	C2985217
+28439925	1081	1096	associated with	T080	C0332281
+28439925	1097	1101	T2DM	T047	C0011860
+28439925	1102	1112	occurrence	T079	C2745955
+28439925	1129	1133	year	T079	C0439234
+28439925	1136	1146	old cohort	T098	C0599755
+28439925	1148	1150	OR	T081	C0028873
+28439925	1163	1165	CI	T081	C0009667
+28439925	1196	1201	women	T098	C0043210
+28439925	1203	1205	OR	T081	C0028873
+28439925	1218	1220	CI	T081	C0009667
+28439925	1246	1249	men	T098	C0025266
+28439925	1276	1292	household chores	T056	C0001288
+28439925	1293	1297	load	T081	C0085122
+28439925	1317	1321	risk	T078	C0035647
+28439925	1325	1329	T2DM	T047	C0011860
+28439925	1334	1349	associated with	T080	C0332281
+28439925	1350	1354	high	T080	C0205250
+28439925	1355	1365	job strain	T184	C2985217
+28439925	1369	1380	combination	T080	C0205195
+28439925	1392	1408	household chores	T056	C0001288
+28439925	1409	1413	load	T081	C0085122
+28439925	1417	1422	women	T098	C0043210
+28439925	1431	1436	years	T079	C0439234
+28439925	1440	1448	baseline	T081	C1442488
+28439925	1450	1452	OR	T081	C0028873
+28439925	1465	1467	CI	T081	C0009667
+28439925	1482	1494	Work-related	T033	C1698590
+28439925	1495	1514	psychosocial stress	UnknownType	C0679118
+28439925	1519	1527	increase	T169	C0442805
+28439925	1532	1536	risk	T078	C0035647
+28439925	1540	1544	T2DM	T047	C0011860
+28439925	1558	1563	women	T098	C0043210
+28439925	1588	1592	risk	T078	C0035647
+28439925	1600	1609	amplified	T169	C0442805
+28439925	1613	1617	high	T080	C0205250
+28439925	1618	1634	household chores	T056	C0001288
+28439925	1635	1639	load	T081	C0085122

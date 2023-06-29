@@ -1,0 +1,96 @@
+15630069|t|Glucose metabolism in patients with schizophrenia treated with atypical antipsychotic agents: a frequently sampled intravenous glucose tolerance test and minimal model analysis.
+15630069|a|BACKGROUND: While the incidence of new-onset diabetes mellitus may be increasing in patients with schizophrenia treated with certain atypical antipsychotic agents, it remains unclear whether atypical agents are directly affecting glucose metabolism or simply increasing known risk factors for diabetes. OBJECTIVE: To study the 2 drugs most clearly implicated (clozapine and olanzapine) and risperidone using a frequently sampled intravenous glucose tolerance test. DESIGN: A cross-sectional design in stable, treated patients with schizophrenia evaluated using a frequently sampled intravenous glucose tolerance test and the Bergman minimal model analysis. SETTING: Subjects were recruited from an urban community mental health clinic and were studied at a general clinical research center. Patients Fifty subjects signed informed consent and 41 underwent the frequently sampled intravenous glucose tolerance test. Thirty-six nonobese subjects with schizophrenia or schizoaffective disorder, matched by body mass index and treated with either clozapine, olanzapine, or risperidone, were included in the analysis. MAIN OUTCOME MEASURES: Fasting plasma glucose and fasting serum insulin levels, insulin sensitivity index, homeostasis model assessment of insulin resistance, and glucose effectiveness. RESULTS: The mean +/- SD duration of treatment with the identified atypical antipsychotic agent was 68.3 +/- 28.9 months (clozapine), 29.5 +/- 17.5 months (olanzapine), and 40.9 +/- 33.7 (risperidone). Fasting serum insulin concentrations differed among groups (F(33) = 3.35; P = .047) (clozapine>olanzapine>risperidone) with significant differences between clozapine and risperidone (t(33) = 2.32; P = .03) and olanzapine and risperidone (t(33) = 2.15; P = .04). There was a significant difference in insulin sensitivity index among groups (F(33) = 10.66; P<.001) (clozapine<olanzapine<risperidone), with subjects who received clozapine and olanzapine exhibiting significant insulin resistance compared with subjects who were treated with risperidone (clozapine vs risperidone, t(33) = -4.29; P<.001; olanzapine vs risperidone, t(33) = -3.62; P = .001 [P<.001]). The homeostasis model assessment of insulin resistance also differed significantly among groups (F(33) = 4.92; P = .01) (clozapine>olanzapine>risperidone) (clozapine vs risperidone, t(33) = 2.94; P = .006; olanzapine vs risperidone, t(33) = 2.42; P = .02). There was a significant difference among groups in glucose effectiveness (F(30) = 4.18; P = .02) (clozapine<olanzapine<risperidone) with significant differences between clozapine and risperidone (t(30) = -2.59; P = .02) and olanzapine and risperidone (t(30) = -2.34, P = .03). CONCLUSIONS: Both nonobese clozapine- and olanzapine-treated groups displayed significant insulin resistance and impairment of glucose effectiveness compared with risperidone-treated subjects. Patients taking clozapine and olanzapine must be examined for insulin resistance and its consequences.
+15630069	0	7	Glucose	ChemicalEntity	D005947
+15630069	22	30	patients	OrganismTaxon	9606
+15630069	36	49	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+15630069	72	92	antipsychotic agents	ChemicalEntity	D014150
+15630069	127	134	glucose	ChemicalEntity	D005947
+15630069	223	240	diabetes mellitus	DiseaseOrPhenotypicFeature	D003920
+15630069	262	270	patients	OrganismTaxon	9606
+15630069	276	289	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+15630069	320	340	antipsychotic agents	ChemicalEntity	D014150
+15630069	408	415	glucose	ChemicalEntity	D005947
+15630069	471	479	diabetes	DiseaseOrPhenotypicFeature	D003920
+15630069	538	547	clozapine	ChemicalEntity	D003024
+15630069	552	562	olanzapine	ChemicalEntity	C076029
+15630069	568	579	risperidone	ChemicalEntity	D018967
+15630069	619	626	glucose	ChemicalEntity	D005947
+15630069	695	703	patients	OrganismTaxon	9606
+15630069	709	722	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+15630069	772	779	glucose	ChemicalEntity	D005947
+15630069	969	977	Patients	OrganismTaxon	9606
+15630069	1069	1076	glucose	ChemicalEntity	D005947
+15630069	1127	1140	schizophrenia	DiseaseOrPhenotypicFeature	D012559
+15630069	1144	1168	schizoaffective disorder	DiseaseOrPhenotypicFeature	D011618
+15630069	1221	1230	clozapine	ChemicalEntity	D003024
+15630069	1232	1242	olanzapine	ChemicalEntity	C076029
+15630069	1247	1258	risperidone	ChemicalEntity	D018967
+15630069	1329	1336	glucose	ChemicalEntity	D005947
+15630069	1355	1362	insulin	ChemicalEntity	D007328
+15630069	1430	1448	insulin resistance	DiseaseOrPhenotypicFeature	D007333
+15630069	1454	1461	glucose	ChemicalEntity	D005947
+15630069	1553	1572	antipsychotic agent	ChemicalEntity	D014150
+15630069	1599	1608	clozapine	ChemicalEntity	D003024
+15630069	1633	1643	olanzapine	ChemicalEntity	C076029
+15630069	1665	1676	risperidone	ChemicalEntity	D018967
+15630069	1693	1700	insulin	ChemicalEntity	D007328
+15630069	1764	1773	clozapine	ChemicalEntity	D003024
+15630069	1774	1784	olanzapine	ChemicalEntity	C076029
+15630069	1785	1796	risperidone	ChemicalEntity	D018967
+15630069	1835	1844	clozapine	ChemicalEntity	D003024
+15630069	1849	1860	risperidone	ChemicalEntity	D018967
+15630069	1889	1899	olanzapine	ChemicalEntity	C076029
+15630069	1904	1915	risperidone	ChemicalEntity	D018967
+15630069	2043	2052	clozapine	ChemicalEntity	D003024
+15630069	2053	2063	olanzapine	ChemicalEntity	C076029
+15630069	2064	2075	risperidone	ChemicalEntity	D018967
+15630069	2105	2114	clozapine	ChemicalEntity	D003024
+15630069	2119	2129	olanzapine	ChemicalEntity	C076029
+15630069	2153	2171	insulin resistance	DiseaseOrPhenotypicFeature	D007333
+15630069	2217	2228	risperidone	ChemicalEntity	D018967
+15630069	2230	2239	clozapine	ChemicalEntity	D003024
+15630069	2243	2254	risperidone	ChemicalEntity	D018967
+15630069	2279	2289	olanzapine	ChemicalEntity	C076029
+15630069	2293	2304	risperidone	ChemicalEntity	D018967
+15630069	2377	2395	insulin resistance	DiseaseOrPhenotypicFeature	D007333
+15630069	2462	2471	clozapine	ChemicalEntity	D003024
+15630069	2472	2482	olanzapine	ChemicalEntity	C076029
+15630069	2483	2494	risperidone	ChemicalEntity	D018967
+15630069	2497	2506	clozapine	ChemicalEntity	D003024
+15630069	2510	2521	risperidone	ChemicalEntity	D018967
+15630069	2547	2557	olanzapine	ChemicalEntity	C076029
+15630069	2561	2572	risperidone	ChemicalEntity	D018967
+15630069	2649	2656	glucose	ChemicalEntity	D005947
+15630069	2696	2705	clozapine	ChemicalEntity	D003024
+15630069	2706	2716	olanzapine	ChemicalEntity	C076029
+15630069	2717	2728	risperidone	ChemicalEntity	D018967
+15630069	2767	2776	clozapine	ChemicalEntity	D003024
+15630069	2781	2792	risperidone	ChemicalEntity	D018967
+15630069	2822	2832	olanzapine	ChemicalEntity	C076029
+15630069	2837	2848	risperidone	ChemicalEntity	D018967
+15630069	2902	2911	clozapine	ChemicalEntity	D003024
+15630069	2917	2927	olanzapine	ChemicalEntity	C076029
+15630069	2965	2983	insulin resistance	DiseaseOrPhenotypicFeature	D007333
+15630069	3002	3009	glucose	ChemicalEntity	D005947
+15630069	3038	3049	risperidone	ChemicalEntity	D018967
+15630069	3068	3076	Patients	OrganismTaxon	9606
+15630069	3084	3093	clozapine	ChemicalEntity	D003024
+15630069	3098	3108	olanzapine	ChemicalEntity	C076029
+15630069	3130	3148	insulin resistance	DiseaseOrPhenotypicFeature	D007333
+15630069	Negative_Correlation	D011618	D018967	No
+15630069	Negative_Correlation	D011618	C076029	No
+15630069	Negative_Correlation	D011618	D003024	No
+15630069	Association	D018967	D005947	Novel
+15630069	Positive_Correlation	C076029	D007333	Novel
+15630069	Comparison	C076029	D018967	Novel
+15630069	Association	C076029	D005947	Novel
+15630069	Positive_Correlation	D003024	D007333	Novel
+15630069	Comparison	D003024	D018967	Novel
+15630069	Comparison	D003024	C076029	Novel
+15630069	Association	D003024	D005947	Novel
+15630069	Negative_Correlation	D012559	D018967	No
+15630069	Negative_Correlation	D012559	C076029	No
+15630069	Negative_Correlation	D012559	D003024	No
+15630069	Negative_Correlation	D012559	D014150	No
+15630069	Positive_Correlation	D014150	D003920	Novel
+15630069	Association	D005947	D014150	Novel

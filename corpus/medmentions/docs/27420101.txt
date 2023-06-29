@@ -1,0 +1,114 @@
+27420101|t|Bacterial Suppression of RNA Polymerase II - Dependent Host Gene Expression
+27420101|a|Asymptomatic bacteriuria (ABU) is a bacterial carrier state in the urinary tract that resembles commensalism at other mucosal sites. ABU strains often lack the virulence factors that characterize uropathogenic Escherichia coli (E. coli) strains and therefore elicit weak innate immune responses in the urinary tract. In addition, ABU strains are active modifiers of the host environment, which they influence by suppressing RNA polymerase II (Pol II)- dependent host gene expression. In patients inoculated with the ABU strain E. coli 83972, gene expression was markedly reduced after 24 h (>60% of all regulated genes). Specific repressors and activators of Pol II - dependent transcription were modified, and Pol II Serine 2 phosphorylation was significantly inhibited, indicating reduced activity of the polymerase. This active inhibition included disease -associated innate immune response pathways, defined by TLR4, IRF-3 and IRF-7, suggesting that ABU strains persist in human hosts by active suppression of the antibacterial defense. In a search for the mechanism of inhibition, we compared the whole genome sequences of E. coli 83972 and the uropathogenic strain E. coli CFT073. In addition to the known loss of virulence genes, we observed that the ABU strain has acquired several phages and identified the lytic Prophage 3 as a candidate Pol II inhibitor. Intact phage particles were released by ABU during in vitro growth in human urine. To address if Prophage 3 affects Pol II activity, we constructed a Prophage 3 negative deletion mutant in E. coli 83972 and compared the effect on Pol II phosphorylation between the mutant and the E. coli 83972 wild type (WT) strains. No difference was detected, suggesting that the Pol II inhibitor is not encoded by the phage. The review summarizes the evidence that the ABU strain E. coli 83972 modifies host gene expression by inhibition of Pol II phosphorylation, and discusses the ability of ABU strains to actively create an environment that enhances their persistence.
+27420101	0	9	Bacterial	T080	C0521009
+27420101	10	21	Suppression	T169	C1260953
+27420101	25	42	RNA Polymerase II	T116,T126	C0035679
+27420101	45	54	Dependent	T169	C3244310
+27420101	55	59	Host	T001	C1167395
+27420101	60	75	Gene Expression	T045	C0017262
+27420101	76	100	Asymptomatic bacteriuria	T047	C0262380
+27420101	102	105	ABU	T047	C0262380
+27420101	143	156	urinary tract	T023	C0042027
+27420101	172	184	commensalism	T070	C3536899
+27420101	194	201	mucosal	T024	C0026724
+27420101	202	207	sites	T082	C0205145
+27420101	209	212	ABU	T047	C0262380
+27420101	213	220	strains	T001	C1518614
+27420101	236	253	virulence factors	T109,T123,T131	C1136170
+27420101	272	320	uropathogenic Escherichia coli (E. coli) strains	T007	C2717874
+27420101	342	346	weak	T080	C1762617
+27420101	347	370	innate immune responses	T032	C0020969
+27420101	378	391	urinary tract	T023	C0042027
+27420101	406	409	ABU	T047	C0262380
+27420101	410	417	strains	T001	C1518614
+27420101	446	450	host	T001	C1167395
+27420101	451	462	environment	T082	C0014406
+27420101	475	484	influence	T077	C4054723
+27420101	488	499	suppressing	T169	C1260953
+27420101	500	517	RNA polymerase II	T116,T126	C0035679
+27420101	519	525	Pol II	T116,T126	C0035679
+27420101	528	537	dependent	T169	C3244310
+27420101	538	542	host	T001	C1167395
+27420101	543	558	gene expression	T045	C0017262
+27420101	563	571	patients	T101	C0030705
+27420101	592	595	ABU	T047	C0262380
+27420101	596	602	strain	T001	C1518614
+27420101	603	616	E. coli 83972	T007	C0014834
+27420101	618	633	gene expression	T045	C0017262
+27420101	647	654	reduced	T080	C0392756
+27420101	664	665	h	T079	C0439227
+27420101	689	694	genes	T028	C0017337
+27420101	706	716	repressors	T123	C0574031
+27420101	721	731	activators	T121,T123	C0751968
+27420101	735	741	Pol II	T116,T126	C0035679
+27420101	744	753	dependent	T169	C3244310
+27420101	754	767	transcription	T045	C0040649
+27420101	773	781	modified	T169	C0392747
+27420101	787	818	Pol II Serine 2 phosphorylation	T045	C2754824
+27420101	837	846	inhibited	T080	C0311403
+27420101	859	866	reduced	T080	C0392756
+27420101	867	875	activity	T044	C0243102
+27420101	883	893	polymerase	T116,T126	C0035679
+27420101	907	917	inhibition	T052	C3463820
+27420101	927	934	disease	T047	C0012634
+27420101	947	969	innate immune response	T032	C0020969
+27420101	970	978	pathways	T044	C1704259
+27420101	991	995	TLR4	T116,T192	C1321919
+27420101	997	1002	IRF-3	T116,T123	C0384768
+27420101	1007	1012	IRF-7	T116,T123	C1530281
+27420101	1030	1033	ABU	T047	C0262380
+27420101	1034	1041	strains	T001	C1518614
+27420101	1053	1058	human	T016	C0086418
+27420101	1059	1064	hosts	T001	C1167395
+27420101	1075	1086	suppression	T169	C1260953
+27420101	1094	1115	antibacterial defense	T039	C0020964
+27420101	1137	1146	mechanism	T169	C0441712
+27420101	1150	1160	inhibition	T052	C3463820
+27420101	1165	1173	compared	T052	C1707455
+27420101	1178	1200	whole genome sequences	T028	C0017428
+27420101	1204	1217	E. coli 83972	T007	C0014834
+27420101	1226	1261	uropathogenic strain E. coli CFT073	T007	C2717874
+27420101	1296	1305	virulence	T038	C0042765
+27420101	1306	1311	genes	T028	C0017337
+27420101	1334	1337	ABU	T047	C0262380
+27420101	1338	1344	strain	T001	C1518614
+27420101	1366	1372	phages	T005	C0004651
+27420101	1392	1408	lytic Prophage 3	T005	C1136253
+27420101	1424	1430	Pol II	T116,T126	C0035679
+27420101	1431	1440	inhibitor	T080	C1999216
+27420101	1449	1454	phage	T005	C0004651
+27420101	1482	1485	ABU	T047	C0262380
+27420101	1493	1501	in vitro	T080	C1533691
+27420101	1502	1508	growth	T040	C0178747
+27420101	1512	1517	human	T016	C0086418
+27420101	1518	1523	urine	T031	C0042036
+27420101	1539	1549	Prophage 3	T005	C1136253
+27420101	1558	1564	Pol II	T116,T126	C0035679
+27420101	1565	1573	activity	T044	C0243102
+27420101	1592	1602	Prophage 3	T005	C1136253
+27420101	1612	1627	deletion mutant	T045	C1511760
+27420101	1631	1644	E. coli 83972	T007	C0014834
+27420101	1649	1657	compared	T052	C1707455
+27420101	1662	1668	effect	T080	C1280500
+27420101	1672	1694	Pol II phosphorylation	T045	C2754824
+27420101	1707	1713	mutant	T028	C0678941
+27420101	1722	1735	E. coli 83972	T007	C0014834
+27420101	1736	1745	wild type	T028	C1883559
+27420101	1747	1749	WT	T028	C1883559
+27420101	1751	1758	strains	T001	C1518614
+27420101	1808	1814	Pol II	T116,T126	C0035679
+27420101	1815	1824	inhibitor	T080	C1999216
+27420101	1847	1852	phage	T005	C0004651
+27420101	1880	1888	evidence	T078	C3887511
+27420101	1898	1901	ABU	T047	C0262380
+27420101	1902	1908	strain	T001	C1518614
+27420101	1909	1922	E. coli 83972	T007	C0014834
+27420101	1932	1936	host	T001	C1167395
+27420101	1937	1952	gene expression	T045	C0017262
+27420101	1956	1966	inhibition	T052	C3463820
+27420101	1970	1992	Pol II phosphorylation	T045	C2754824
+27420101	2023	2026	ABU	T047	C0262380
+27420101	2027	2034	strains	T001	C1518614
+27420101	2057	2068	environment	T082	C0014406
+27420101	2074	2082	enhances	T052	C2349975
+27420101	2089	2100	persistence	T041	C0546816

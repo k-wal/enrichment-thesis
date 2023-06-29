@@ -1,0 +1,77 @@
+28243201|t|Identification of Predictive DNA Methylation Biomarkers for Chemotherapy Response in Colorectal Cancer
+28243201|a|Resistance to 5-Fluorouracil (5-FU) is a major obstacle to the successful treatment of colorectal cancer (CRC) and posed an increased risk of recurrence. DNA methylation has been suggested as one of the underlying mechanisms for recurrent disease and its contribution to the development of drug resistance remains to be clarified. This study aimed to determine the methylation phenotype in CRC for identification of predictive markers for chemotherapy response. We performed DNA methylation profiling on 43 non-recurrent and five recurrent CRC patients using the Illumina Infinium HumanMethylation450 Beadchip assay. In addition, CRC cells with different genetic backgrounds, response to 5-FU and global methylation levels (HT29 and SW48) were treated with 5-FU and DNA methylation inhibitor 5-aza-2'-deoxycytidine (5-azadC). The singular and combined effects of these two drug classes on cell viability and global methylation profiles were investigated. Our genome-wide methylation study on the clinical specimens showed that recurrent CRCs exhibited higher methylation levels compared to non-recurrent CRCs. We identified 4787 significantly differentially methylated genes (P < 0.05); 3112 genes were hyper - while 1675 genes were hypomethylated in the recurrent group compared to the non-recurrent. Fifty eight and 47 of the significantly hypermethylated and hypomethylated genes have an absolute recurrent / non-recurrent methylation difference of ≥20%. Most of the hypermethylated genes were involved in the MAPK signaling pathway which is a key regulator for apoptosis while the hypomethylated genes were involved in the PI3K-AKT signaling pathway and proliferation process. We also demonstrate that 5-azadC treatment enhanced response to 5-FU which resulted in significant growth inhibition compared to 5-FU alone in hypermethylated cell lines SW48. In conclusion, we found the evidence of five potentially biologically important genes in recurrent CRCs that could possibly serve as a new potential therapeutic targets for patients with chemoresistance. We postulate that aberrant methylation of CCNEI, CCNDBP1, PON3, DDX43, and CHL1 in CRC might be associated with the recurrence of CRC and 5-azadC -mediated restoration of 5-FU sensitivity is mediated at least in part by MAPK signaling pathway.
+28243201	29	44	DNA Methylation	T038	UMLS:C0376452
+28243201	45	55	Biomarkers	T103	UMLS:C0041366
+28243201	60	72	Chemotherapy	T058	UMLS:C3665472
+28243201	73	81	Response	T201	UMLS:C0521982
+28243201	85	102	Colorectal Cancer	T038	UMLS:C1527249
+28243201	103	113	Resistance	T038	UMLS:C0013203
+28243201	117	131	5-Fluorouracil	T103	UMLS:C0016360
+28243201	133	137	5-FU	T103	UMLS:C0016360
+28243201	190	207	colorectal cancer	T038	UMLS:C1527249
+28243201	209	212	CRC	T038	UMLS:C1527249
+28243201	257	272	DNA methylation	T038	UMLS:C0376452
+28243201	332	349	recurrent disease	T038	UMLS:C0277556
+28243201	393	408	drug resistance	T038	UMLS:C0013203
+28243201	439	444	study	T062	UMLS:C0008972
+28243201	468	479	methylation	T038	UMLS:C0376452
+28243201	493	496	CRC	T038	UMLS:C1527249
+28243201	530	537	markers	T103	UMLS:C0041366
+28243201	542	554	chemotherapy	T058	UMLS:C3665472
+28243201	555	563	response	T201	UMLS:C0521982
+28243201	578	593	DNA methylation	T038	UMLS:C0376452
+28243201	643	646	CRC	T038	UMLS:C1527249
+28243201	666	718	Illumina Infinium HumanMethylation450 Beadchip assay	T062	UMLS:C1880239
+28243201	733	736	CRC	T038	UMLS:C1527249
+28243201	737	742	cells	T017	UMLS:C0334227
+28243201	779	787	response	T201	UMLS:C0521982
+28243201	791	795	5-FU	T103	UMLS:C0016360
+28243201	800	818	global methylation	T038	UMLS:C0376452
+28243201	827	831	HT29	T017	UMLS:C0282639
+28243201	836	840	SW48	T017	UMLS:C0085983
+28243201	860	864	5-FU	T103	UMLS:C0016360
+28243201	869	884	DNA methylation	T038	UMLS:C0376452
+28243201	895	917	5-aza-2'-deoxycytidine	T103	UMLS:C0049065
+28243201	919	926	5-azadC	T103	UMLS:C0049065
+28243201	976	980	drug	T103	UMLS:C1254351
+28243201	981	988	classes	T170	UMLS:C0456387
+28243201	992	1006	cell viability	T038	UMLS:C0007620
+28243201	1011	1029	global methylation	T038	UMLS:C0376452
+28243201	1030	1038	profiles	T058	UMLS:C1979963
+28243201	1062	1091	genome-wide methylation study	T062	UMLS:C2350277
+28243201	1140	1144	CRCs	T038	UMLS:C1527249
+28243201	1162	1173	methylation	T038	UMLS:C0376452
+28243201	1207	1211	CRCs	T038	UMLS:C1527249
+28243201	1261	1277	methylated genes	T017	UMLS:C0017337
+28243201	1295	1300	genes	T017	UMLS:C0017337
+28243201	1306	1311	hyper	T033	UMLS:C0243095
+28243201	1325	1330	genes	T017	UMLS:C0017337
+28243201	1336	1350	hypomethylated	T033	UMLS:C0243095
+28243201	1445	1485	hypermethylated and hypomethylated genes	T017	UMLS:C0017337
+28243201	1529	1540	methylation	T038	UMLS:C0376452
+28243201	1573	1594	hypermethylated genes	T017	UMLS:C0017337
+28243201	1616	1638	MAPK signaling pathway	T038	UMLS:C1518102
+28243201	1668	1677	apoptosis	T038	UMLS:C0162638
+28243201	1688	1708	hypomethylated genes	T017	UMLS:C0017337
+28243201	1730	1756	PI3K-AKT signaling pathway	T038	UMLS:C0037080
+28243201	1809	1816	5-azadC	T103	UMLS:C0049065
+28243201	1836	1844	response	T201	UMLS:C0521982
+28243201	1848	1852	5-FU	T103	UMLS:C0016360
+28243201	1883	1900	growth inhibition	T038	UMLS:C1512773
+28243201	1913	1917	5-FU	T103	UMLS:C0016360
+28243201	1927	1958	hypermethylated cell lines SW48	T017	UMLS:C0085983
+28243201	2040	2045	genes	T017	UMLS:C0017337
+28243201	2059	2063	CRCs	T038	UMLS:C1527249
+28243201	2109	2120	therapeutic	T058	UMLS:C0087111
+28243201	2147	2162	chemoresistance	T038	UMLS:C0013203
+28243201	2191	2202	methylation	T038	UMLS:C0376452
+28243201	2206	2211	CCNEI	T017	UMLS:C0017337
+28243201	2213	2220	CCNDBP1	T017	UMLS:C1413177
+28243201	2222	2226	PON3	T017	UMLS:C1418756
+28243201	2228	2233	DDX43	T017	UMLS:C1425700
+28243201	2239	2243	CHL1	T017	UMLS:C1413393
+28243201	2247	2250	CRC	T038	UMLS:C1527249
+28243201	2294	2297	CRC	T038	UMLS:C1527249
+28243201	2302	2309	5-azadC	T103	UMLS:C0049065
+28243201	2335	2339	5-FU	T103	UMLS:C0016360
+28243201	2384	2406	MAPK signaling pathway	T038	UMLS:C1518102

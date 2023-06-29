@@ -1,0 +1,32 @@
+17549393|t|A novel IRF6 nonsense mutation (Y67X) in a German family with Van der Woude syndrome.
+17549393|a|Van der Woude syndrome (VWS) is the most common type of syndromic orofacial cleft, which accounts for approximately 2% of all cleft lip and palate cases. It is characterised by variable association of lower lip pits, cleft lip and cleft palate, and hypodontia. VWS arises as the result of mutations in the gene encoding interferon regulatory factor 6 (IRF6). The disorder is transmitted in an autosomal dominant manner, with high penetrance and variable expressivity. Very recently, mutations of the IRF6 gene in exons 2-9 have been found in VWS patients, suggesting that this gene plays an important role in orofacial development. We report a novel mutation of the IRF6 gene in a German family. Five out of the 12 persons affected were able to be investigated. The mutation produced a stop codon within exon 4 of the IRF6 gene. All 5 patients were heterozygous for a base substitution c.201C>A changing the tyrosine codon at amino acid position 67 into a stop codon (p.Y67X) in exon 4. The premature stop codon was responsible for a truncated protein lacking parts of the DNA- binding domain and the complete Smad-interferon regulatory factor-binding domain probably essential for interactions with the Smad transcription factors.
+17549393	8	12	IRF6	GeneOrGeneProduct	3664
+17549393	32	36	Y67X	SequenceVariant	p|SUB|Y|67|X
+17549393	62	84	Van der Woude syndrome	DiseaseOrPhenotypicFeature	C536528
+17549393	86	108	Van der Woude syndrome	DiseaseOrPhenotypicFeature	C536528
+17549393	110	113	VWS	DiseaseOrPhenotypicFeature	C536528
+17549393	142	167	syndromic orofacial cleft	DiseaseOrPhenotypicFeature	D002972
+17549393	212	232	cleft lip and palate	DiseaseOrPhenotypicFeature	D002971,D002972
+17549393	293	301	lip pits	DiseaseOrPhenotypicFeature	C536528
+17549393	303	312	cleft lip	DiseaseOrPhenotypicFeature	D002971
+17549393	317	329	cleft palate	DiseaseOrPhenotypicFeature	D002972
+17549393	335	345	hypodontia	DiseaseOrPhenotypicFeature	D000848
+17549393	347	350	VWS	DiseaseOrPhenotypicFeature	C536528
+17549393	406	436	interferon regulatory factor 6	GeneOrGeneProduct	3664
+17549393	438	442	IRF6	GeneOrGeneProduct	3664
+17549393	586	590	IRF6	GeneOrGeneProduct	3664
+17549393	628	631	VWS	DiseaseOrPhenotypicFeature	C536528
+17549393	632	640	patients	OrganismTaxon	9606
+17549393	752	756	IRF6	GeneOrGeneProduct	3664
+17549393	904	908	IRF6	GeneOrGeneProduct	3664
+17549393	921	929	patients	OrganismTaxon	9606
+17549393	972	980	c.201C>A	SequenceVariant	c|SUB|C|201|A
+17549393	994	1046	tyrosine codon at amino acid position 67 into a stop	SequenceVariant	p|SUB|Y|67|X
+17549393	1054	1060	p.Y67X	SequenceVariant	p|SUB|Y|67|X
+17549393	1196	1200	Smad	GeneOrGeneProduct	4086
+17549393	1201	1229	interferon regulatory factor	GeneOrGeneProduct	3664
+17549393	1290	1294	Smad	GeneOrGeneProduct	4086
+17549393	Bind	3664	4086	No
+17549393	Association	3664	C536528	No
+17549393	Positive_Correlation	C536528	c|SUB|C|201|A	Novel
+17549393	Positive_Correlation	p|SUB|Y|67|X	C536528	Novel

@@ -1,0 +1,59 @@
+16810074|t|Mechanisms of hypertension induced by nitric oxide (NO) deficiency: focus on venous function.
+16810074|a|Loss of endothelial cell-derived nitric oxide (NO) in hypertension is a hallmark of arterial dysfunction. Experimental hypertension created by the removal of NO, however, involves mechanisms in addition to decreased arterial vasodilator activity. These include augmented endothelin-1 (ET-1) release, increased sympathetic nervous system activity, and elevated tissue oxidative stress. We hypothesized that increased venous smooth muscle (venomotor) tone plays a role in Nomega-nitro-L-arginine (LNNA) hypertension through these mechanisms. Rats were treated with the NO synthase inhibitor LNNA (0.5 g/L in drinking water) for 2 weeks. Mean arterial pressure of conscious rats was 119 +/- 2 mm Hg in control and 194 +/- 5 mm Hg in LNNA rats (P<0.05). Carotid arteries and vena cava were removed for measurement of isometric contraction. Maximal contraction to norepinephrine was modestly reduced in arteries from LNNA compared with control rats whereas the maximum contraction to ET-1 was significantly reduced (54% control). Maximum contraction of vena cava to norepinephrine (37% control) also was reduced but no change in response to ET-1 was observed. Mean circulatory filling pressure, an in vivo measure of venomotor tone, was not elevated in LNNA hypertension at 1 or 2 weeks after LNNA. The superoxide scavenger tempol (30, 100, and 300 micromol kg(-1), IV) did not change arterial pressure in control rats but caused a dose-dependent decrease in LNNA rats (-18 +/- 8, -26 +/- 15, and -54 +/- 11 mm Hg). Similarly, ganglionic blockade with hexamethonium caused a significantly greater fall in LNNA hypertensive rats (76 +/- 9 mm Hg) compared with control rats (35 +/- 10 mm Hg). Carotid arteries, vena cava, and sympathetic ganglia from LNNA rats had higher basal levels of superoxide compared with those from control rats. These data suggest that while NO deficiency increases oxidative stress and sympathetic activity in both arterial and venous vessels, the impact on veins does not make a major contribution to this form of hypertension.
+16810074	14	26	hypertension	DiseaseOrPhenotypicFeature	D006973
+16810074	38	50	nitric oxide	ChemicalEntity	D009569
+16810074	52	54	NO	ChemicalEntity	D009569
+16810074	127	139	nitric oxide	ChemicalEntity	D009569
+16810074	141	143	NO	ChemicalEntity	D009569
+16810074	148	160	hypertension	DiseaseOrPhenotypicFeature	D006973
+16810074	178	198	arterial dysfunction	DiseaseOrPhenotypicFeature	D018754
+16810074	213	225	hypertension	DiseaseOrPhenotypicFeature	D006973
+16810074	252	254	NO	ChemicalEntity	D009569
+16810074	365	377	endothelin-1	GeneOrGeneProduct	24323
+16810074	379	383	ET-1	GeneOrGeneProduct	24323
+16810074	564	587	Nomega-nitro-L-arginine	ChemicalEntity	D019335
+16810074	589	593	LNNA	ChemicalEntity	D019335
+16810074	595	607	hypertension	DiseaseOrPhenotypicFeature	D006973
+16810074	634	638	Rats	OrganismTaxon	10116
+16810074	661	672	NO synthase	GeneOrGeneProduct	24598
+16810074	683	687	LNNA	ChemicalEntity	D019335
+16810074	765	769	rats	OrganismTaxon	10116
+16810074	824	828	LNNA	ChemicalEntity	D019335
+16810074	829	833	rats	OrganismTaxon	10116
+16810074	953	967	norepinephrine	ChemicalEntity	D009638
+16810074	1006	1010	LNNA	ChemicalEntity	D019335
+16810074	1033	1037	rats	OrganismTaxon	10116
+16810074	1073	1077	ET-1	GeneOrGeneProduct	24323
+16810074	1155	1169	norepinephrine	ChemicalEntity	D009638
+16810074	1230	1234	ET-1	GeneOrGeneProduct	24323
+16810074	1342	1346	LNNA	ChemicalEntity	D019335
+16810074	1347	1359	hypertension	DiseaseOrPhenotypicFeature	D006973
+16810074	1382	1386	LNNA	ChemicalEntity	D019335
+16810074	1392	1402	superoxide	ChemicalEntity	D013481
+16810074	1413	1419	tempol	ChemicalEntity	C001803
+16810074	1503	1507	rats	OrganismTaxon	10116
+16810074	1548	1552	LNNA	ChemicalEntity	D019335
+16810074	1553	1557	rats	OrganismTaxon	10116
+16810074	1641	1654	hexamethonium	ChemicalEntity	D018738
+16810074	1694	1698	LNNA	ChemicalEntity	D019335
+16810074	1699	1711	hypertensive	DiseaseOrPhenotypicFeature	D006973
+16810074	1712	1716	rats	OrganismTaxon	10116
+16810074	1756	1760	rats	OrganismTaxon	10116
+16810074	1838	1842	LNNA	ChemicalEntity	D019335
+16810074	1843	1847	rats	OrganismTaxon	10116
+16810074	1875	1885	superoxide	ChemicalEntity	D013481
+16810074	1919	1923	rats	OrganismTaxon	10116
+16810074	1955	1957	NO	ChemicalEntity	D009569
+16810074	2129	2141	hypertension	DiseaseOrPhenotypicFeature	D006973
+16810074	Association	D018738	D019335	Novel
+16810074	Association	D018738	D006973	Novel
+16810074	Negative_Correlation	C001803	D019335	Novel
+16810074	Negative_Correlation	D013481	C001803	No
+16810074	Negative_Correlation	D009638	D019335	Novel
+16810074	Negative_Correlation	24598	D019335	No
+16810074	Positive_Correlation	D019335	D013481	Novel
+16810074	Negative_Correlation	D019335	24323	Novel
+16810074	Positive_Correlation	D019335	D006973	No
+16810074	Negative_Correlation	D009569	D018754	No
+16810074	Association	D006973	24323	No
+16810074	Negative_Correlation	D006973	D009569	No

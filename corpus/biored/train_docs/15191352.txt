@@ -1,0 +1,44 @@
+15191352|t|Severe form of thyroid hormone resistance in a patient with homozygous/hemizygous mutation of T3 receptor gene.
+15191352|a|Resistance to thyroid hormone syndrome (RTH) is a rare disorder, usually inherited as an autosomal dominant trait. Patients with RTH are usually euthyroid but can occasionally present with signs and symptoms of thyrotoxicosis or rarely with hypothyroidism. Affected individuals are usually heterozygous for mutations in the thyroid hormone receptor beta gene (TR-beta). We present a patient with RTH found to be homo-/hemizygous for a mutation in the TR-beta gene. The single nucleotide substitution I280S (1123T-->G) was present either on both alleles or in a hemizygous form with complete deletion of the second allele. The I280S mutation was recently reported in a heterozygous patient. The severe phenotype with seriously impaired intellectual development, hyperkinetic behaviour, tachycardia, hearing and visual impairment is probably due to the dominant negative effect of the I280S mutant protein and the absence of any functional TR-beta.
+15191352	15	41	thyroid hormone resistance	DiseaseOrPhenotypicFeature	D018382
+15191352	47	54	patient	OrganismTaxon	9606
+15191352	94	105	T3 receptor	GeneOrGeneProduct	7068
+15191352	112	150	Resistance to thyroid hormone syndrome	DiseaseOrPhenotypicFeature	D018382
+15191352	152	155	RTH	DiseaseOrPhenotypicFeature	D018382
+15191352	227	235	Patients	OrganismTaxon	9606
+15191352	241	244	RTH	DiseaseOrPhenotypicFeature	D018382
+15191352	323	337	thyrotoxicosis	DiseaseOrPhenotypicFeature	D013971
+15191352	353	367	hypothyroidism	DiseaseOrPhenotypicFeature	D007037
+15191352	436	465	thyroid hormone receptor beta	GeneOrGeneProduct	7068
+15191352	472	479	TR-beta	GeneOrGeneProduct	7068
+15191352	495	502	patient	OrganismTaxon	9606
+15191352	508	511	RTH	DiseaseOrPhenotypicFeature	D018382
+15191352	563	570	TR-beta	GeneOrGeneProduct	7068
+15191352	612	617	I280S	SequenceVariant	p|SUB|I|280|S
+15191352	619	628	1123T-->G	SequenceVariant	g|SUB|T|1123|G
+15191352	738	743	I280S	SequenceVariant	p|SUB|I|280|S
+15191352	793	800	patient	OrganismTaxon	9606
+15191352	838	871	impaired intellectual development	DiseaseOrPhenotypicFeature	D008607
+15191352	873	885	hyperkinetic	DiseaseOrPhenotypicFeature	D006948
+15191352	897	908	tachycardia	DiseaseOrPhenotypicFeature	D013610
+15191352	910	939	hearing and visual impairment	DiseaseOrPhenotypicFeature	D006311,D014786
+15191352	995	1000	I280S	SequenceVariant	p|SUB|I|280|S
+15191352	1050	1057	TR-beta	GeneOrGeneProduct	7068
+15191352	Positive_Correlation	D008607	p|SUB|I|280|S	Novel
+15191352	Positive_Correlation	D014786	p|SUB|I|280|S	Novel
+15191352	Positive_Correlation	D006311	p|SUB|I|280|S	Novel
+15191352	Positive_Correlation	D013610	p|SUB|I|280|S	Novel
+15191352	Positive_Correlation	D006948	p|SUB|I|280|S	Novel
+15191352	Positive_Correlation	g|SUB|T|1123|G	D008607	Novel
+15191352	Positive_Correlation	g|SUB|T|1123|G	D014786	Novel
+15191352	Positive_Correlation	g|SUB|T|1123|G	D006311	Novel
+15191352	Positive_Correlation	g|SUB|T|1123|G	D013610	Novel
+15191352	Positive_Correlation	g|SUB|T|1123|G	D006948	Novel
+15191352	Association	7068	D008607	Novel
+15191352	Association	7068	D014786	Novel
+15191352	Association	7068	D006311	Novel
+15191352	Association	7068	D013610	Novel
+15191352	Association	7068	D006948	Novel
+15191352	Positive_Correlation	D018382	g|SUB|T|1123|G	Novel
+15191352	Positive_Correlation	D018382	p|SUB|I|280|S	Novel
+15191352	Association	D018382	7068	Novel

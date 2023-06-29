@@ -1,0 +1,94 @@
+27908689|t|PCSK9 genetic variants and risk of type 2 diabetes: a mendelian randomisation study
+27908689|a|Statin treatment and variants in the gene encoding HMG-CoA reductase are associated with reductions in both the concentration of LDL cholesterol and the risk of coronary heart disease, but also with modest hyperglycaemia, increased bodyweight, and modestly increased risk of type 2 diabetes, which in no way offsets their substantial benefits. We sought to investigate the associations of LDL cholesterol -lowering PCSK9 variants with type 2 diabetes and related biomarkers to gauge the likely effects of PCSK9 inhibitors on diabetes risk. In this mendelian randomisation study, we used data from cohort studies, randomised controlled trials, case control studies, and genetic consortia to estimate associations of PCSK9 genetic variants with LDL cholesterol, fasting blood glucose, HbA1c, fasting insulin, bodyweight, waist-to-hip ratio, BMI, and risk of type 2 diabetes, using a standardised analysis plan, meta-analyses, and weighted gene-centric scores. Data were available for more than 550 000 individuals and 51 623 cases of type 2 diabetes. Combined analyses of four independent PCSK9 variants (rs11583680, rs11591147, rs2479409, and rs11206510) scaled to 1 mmol/L lower LDL cholesterol showed associations with increased fasting glucose (0·09 mmol/L, 95% CI 0·02 to 0·15), bodyweight (1·03 kg, 0·24 to 1·82), waist-to-hip ratio (0·006, 0·003 to 0·010), and an odds ratio for type diabetes of 1·29 (1·11 to 1·50). Based on the collected data, we did not identify associations with HbA1c (0·03%, -0·01 to 0·08), fasting insulin (0·00%, -0·06 to 0·07), and BMI (0·11 kg/m(2), -0·09 to 0·30). PCSK9 variants associated with lower LDL cholesterol were also associated with circulating higher fasting glucose concentration, bodyweight, and waist-to-hip ratio, and an increased risk of type 2 diabetes. In trials of PCSK9 inhibitor drugs, investigators should carefully assess these safety outcomes and quantify the risks and benefits of PCSK9 inhibitor treatment, as was previously done for statins. British Heart Foundation, and University College London Hospitals NHS Foundation Trust (UCLH) National Institute for Health Research (NIHR) Biomedical Research Centre.
+27908689	0	5	PCSK9	T028	C1426592
+27908689	6	22	genetic variants	T028	C0678941
+27908689	27	31	risk	T078	C0035647
+27908689	35	50	type 2 diabetes	T047	C0011860
+27908689	54	83	mendelian randomisation study	T062	C2718019
+27908689	84	90	Statin	T109,T121	C0360714
+27908689	91	100	treatment	T061	C0087111
+27908689	105	125	variants in the gene	T028	C0678941
+27908689	135	152	HMG-CoA reductase	T116,T126	C0020374
+27908689	173	183	reductions	T080	C0392756
+27908689	196	209	concentration	T081	C1446561
+27908689	213	228	LDL cholesterol	T109,T123	C0023824
+27908689	237	241	risk	T078	C0035647
+27908689	245	267	coronary heart disease	T047	C0010068
+27908689	290	304	hyperglycaemia	T047	C0020456
+27908689	306	326	increased bodyweight	T033	C0043094
+27908689	341	350	increased	T081	C0205217
+27908689	351	355	risk	T078	C0035647
+27908689	359	374	type 2 diabetes	T047	C0011860
+27908689	441	452	investigate	T169	C1292732
+27908689	473	488	LDL cholesterol	T109,T123	C0023824
+27908689	499	504	PCSK9	T028	C1426592
+27908689	505	513	variants	T028	C0678941
+27908689	519	534	type 2 diabetes	T047	C0011860
+27908689	547	557	biomarkers	T201	C0005516
+27908689	589	605	PCSK9 inhibitors	T121	C4051515
+27908689	609	622	diabetes risk	T081	C1171304
+27908689	632	661	mendelian randomisation study	T062	C2718019
+27908689	671	675	data	T078	C1511726
+27908689	681	695	cohort studies	T081	C0009247
+27908689	697	725	randomised controlled trials	T062	C0206035
+27908689	727	747	case control studies	T062	C0007328
+27908689	799	804	PCSK9	T028	C1426592
+27908689	805	821	genetic variants	T028	C0678941
+27908689	827	842	LDL cholesterol	T109,T123	C0023824
+27908689	844	865	fasting blood glucose	T034	C1261430
+27908689	867	872	HbA1c	T116,T123	C0019018
+27908689	874	881	fasting	T033	C0015663
+27908689	882	889	insulin	T116,T121,T125	C0021641
+27908689	891	901	bodyweight	T032	C0005910
+27908689	903	921	waist-to-hip ratio	T032	C0205682
+27908689	923	926	BMI	T201	C1305855
+27908689	932	936	risk	T078	C0035647
+27908689	940	955	type 2 diabetes	T047	C0011860
+27908689	965	991	standardised analysis plan	T062	C0936012
+27908689	993	1006	meta-analyses	T062	C0920317
+27908689	1012	1040	weighted gene-centric scores	T081	C0449820
+27908689	1042	1046	Data	T078	C1511726
+27908689	1084	1095	individuals	T098	C0237401
+27908689	1116	1131	type 2 diabetes	T047	C0011860
+27908689	1133	1150	Combined analyses	T062	C0936012
+27908689	1171	1176	PCSK9	T028	C1426592
+27908689	1177	1185	variants	T028	C0678941
+27908689	1187	1197	rs11583680	T028	C0678941
+27908689	1199	1209	rs11591147	T028	C0678941
+27908689	1211	1220	rs2479409	T028	C0678941
+27908689	1226	1236	rs11206510	T028	C0678941
+27908689	1263	1278	LDL cholesterol	T109,T123	C0023824
+27908689	1304	1329	increased fasting glucose	T033	C0920108
+27908689	1366	1376	bodyweight	T032	C0005910
+27908689	1402	1420	waist-to-hip ratio	T032	C0205682
+27908689	1453	1463	odds ratio	T081	C0028873
+27908689	1473	1481	diabetes	T047	C0011847
+27908689	1519	1528	collected	T078	C1516695
+27908689	1529	1533	data	T078	C1511726
+27908689	1573	1578	HbA1c	T116,T123	C0019018
+27908689	1603	1610	fasting	T033	C0015663
+27908689	1611	1618	insulin	T116,T121,T125	C0021641
+27908689	1647	1650	BMI	T201	C1305855
+27908689	1682	1687	PCSK9	T028	C1426592
+27908689	1688	1696	variants	T028	C0678941
+27908689	1719	1734	LDL cholesterol	T109,T123	C0023824
+27908689	1773	1795	higher fasting glucose	T033	C0920108
+27908689	1796	1809	concentration	T081	C1446561
+27908689	1811	1821	bodyweight	T032	C0005910
+27908689	1827	1845	waist-to-hip ratio	T032	C0205682
+27908689	1864	1868	risk	T078	C0035647
+27908689	1872	1887	type 2 diabetes	T047	C0011860
+27908689	1892	1898	trials	T062	C0008976
+27908689	1902	1917	PCSK9 inhibitor	T121	C4051515
+27908689	1918	1923	drugs	T121	C0013227
+27908689	1925	1938	investigators	T097	C0035173
+27908689	1989	1997	quantify	T081	C1709793
+27908689	2002	2007	risks	T078	C0035647
+27908689	2012	2020	benefits	T081	C0814225
+27908689	2024	2039	PCSK9 inhibitor	T121	C4051515
+27908689	2040	2049	treatment	T061	C0087111
+27908689	2078	2085	statins	T109,T121	C0360714
+27908689	2087	2111	British Heart Foundation	T092	C0016617
+27908689	2117	2173	University College London Hospitals NHS Foundation Trust	T092	C0035172
+27908689	2175	2179	UCLH	T092	C0035172
+27908689	2181	2253	National Institute for Health Research (NIHR) Biomedical Research Centre	T092	C0035172

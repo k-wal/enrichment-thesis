@@ -1,0 +1,41 @@
+21684788|t|Large contiguous gene deletions in Sjogren-Larsson syndrome.
+21684788|a|Sjogren-Larsson syndrome (SLS) is an autosomal recessive disorder characterized by ichthyosis, mental retardation, spasticity and mutations in the ALDH3A2 gene for fatty aldehyde dehydrogenase, an enzyme that catalyzes the oxidation of fatty aldehyde to fatty acid. More than 70 mutations have been identified in SLS patients, including small deletions or insertions, missense mutations, splicing defects and complex nucleotide changes. We now describe 2 SLS patients whose disease is caused by large contiguous gene deletions of the ALDH3A2 locus on 17p11.2. The deletions were defined using long distance inverse PCR and microarray-based comparative genomic hybridization. A 24-year-old SLS female was homozygous for a 352-kb deletion involving ALDH3A2 and 4 contiguous genes including ALDH3A1, which codes for the major soluble protein in cornea. Although lacking corneal disease, she showed severe symptoms of SLS with uncommon deterioration in oral motor function and loss of ambulation. The other 19-month-old female patient was a compound heterozygote for a 1.44-Mb contiguous gene deletion and a missense mutation (c.407C>T, P136L) in ALDH3A2. These studies suggest that large gene deletions may account for up to 5% of the mutant alleles in SLS. Geneticists should consider the possibility of compound heterozygosity for large deletions in patients with SLS and other inborn errors of metabolism, which has implications for carrier testing and prenatal diagnosis.
+21684788	35	59	Sjogren-Larsson syndrome	DiseaseOrPhenotypicFeature	D016111
+21684788	61	85	Sjogren-Larsson syndrome	DiseaseOrPhenotypicFeature	D016111
+21684788	87	90	SLS	DiseaseOrPhenotypicFeature	D016111
+21684788	98	126	autosomal recessive disorder	DiseaseOrPhenotypicFeature	D030342
+21684788	144	154	ichthyosis	DiseaseOrPhenotypicFeature	D007057
+21684788	156	174	mental retardation	DiseaseOrPhenotypicFeature	D008607
+21684788	176	186	spasticity	DiseaseOrPhenotypicFeature	D009128
+21684788	208	215	ALDH3A2	GeneOrGeneProduct	224
+21684788	225	253	fatty aldehyde dehydrogenase	GeneOrGeneProduct	224
+21684788	297	311	fatty aldehyde	ChemicalEntity	C001634
+21684788	315	325	fatty acid	ChemicalEntity	D005227
+21684788	374	377	SLS	DiseaseOrPhenotypicFeature	D016111
+21684788	378	386	patients	OrganismTaxon	9606
+21684788	516	519	SLS	DiseaseOrPhenotypicFeature	D016111
+21684788	520	528	patients	OrganismTaxon	9606
+21684788	595	602	ALDH3A2	GeneOrGeneProduct	224
+21684788	750	753	SLS	DiseaseOrPhenotypicFeature	D016111
+21684788	782	797	352-kb deletion	SequenceVariant	c|DEL||352K
+21684788	808	821	ALDH3A2 and 4	GeneOrGeneProduct	223,224
+21684788	849	856	ALDH3A1	GeneOrGeneProduct	218
+21684788	928	943	corneal disease	DiseaseOrPhenotypicFeature	D003316
+21684788	975	978	SLS	DiseaseOrPhenotypicFeature	D016111
+21684788	1084	1091	patient	OrganismTaxon	9606
+21684788	1126	1158	1.44-Mb contiguous gene deletion	SequenceVariant	c|DEL||1.44M
+21684788	1184	1192	c.407C>T	SequenceVariant	c|SUB|C|407|T
+21684788	1194	1199	P136L	SequenceVariant	p|SUB|P|136|L
+21684788	1204	1211	ALDH3A2	GeneOrGeneProduct	224
+21684788	1311	1314	SLS	DiseaseOrPhenotypicFeature	D016111
+21684788	1410	1418	patients	OrganismTaxon	9606
+21684788	1424	1427	SLS	DiseaseOrPhenotypicFeature	D016111
+21684788	1438	1465	inborn errors of metabolism	DiseaseOrPhenotypicFeature	D008661
+21684788	Positive_Correlation	c|DEL||1.44M	D016111	Novel
+21684788	Association	p|SUB|P|136|L	D016111	Novel
+21684788	Association	c|SUB|C|407|T	D016111	Novel
+21684788	Association	218	D016111	Novel
+21684788	Association	c|DEL||352K	D016111	Novel
+21684788	Association	D016111	224	Novel
+21684788	Association	224	C001634	No
+21684788	Association	224	D005227	No

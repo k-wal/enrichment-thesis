@@ -1,0 +1,45 @@
+27927213|t|Living on the edge: substrate competition explains loss of robustness in mitochondrial fatty-acid oxidation disorders
+27927213|a|Defects in genes involved in mitochondrial fatty-acid oxidation (mFAO) reduce the ability of patients to cope with metabolic challenges. mFAO enzymes accept multiple substrates of different chain length, leading to molecular competition among the substrates. Here, we combined computational modeling with quantitative mouse and patient data to investigate whether substrate competition affects pathway robustness in mFAO disorders. First, we used comprehensive biochemical analyses of wild-type mice and mice deficient for medium-chain acyl-CoA dehydrogenase (MCAD) to parameterize a detailed computational model of mFAO. Model simulations predicted that MCAD deficiency would have no effect on the pathway flux at low concentrations of the mFAO substrate palmitoyl-CoA. However, high concentrations of palmitoyl-CoA would induce a decline in flux and an accumulation of intermediate metabolites. We proved computationally that the predicted overload behavior was due to substrate competition in the pathway. Second, to study the clinical relevance of this mechanism, we used patients ' metabolite profiles and generated a humanized version of the computational model. While molecular competition did not affect the plasma metabolite profiles during MCAD deficiency, it was a key factor in explaining the characteristic acylcarnitine profiles of multiple acyl-CoA dehydrogenase deficient patients. The patient-specific computational models allowed us to predict the severity of the disease phenotype, providing a proof of principle for the systems medicine approach. We conclude that substrate competition is at the basis of the physiology seen in patients with mFAO disorders, a finding that may explain why these patients run a risk of a life-threatening metabolic catastrophe.
+27927213	73	86	mitochondrial	T017	UMLS:C0026237
+27927213	87	117	fatty-acid oxidation disorders	T038	UMLS:C1456270
+27927213	129	134	genes	T017	UMLS:C0017337
+27927213	147	160	mitochondrial	T017	UMLS:C0026237
+27927213	161	181	fatty-acid oxidation	T038	UMLS:C1158366
+27927213	183	187	mFAO	T038	UMLS:C1158366
+27927213	255	259	mFAO	T038	UMLS:C1158366
+27927213	260	267	enzymes	T103	UMLS:C0014442
+27927213	436	441	mouse	T204	UMLS:C0026809
+27927213	534	548	mFAO disorders	T038	UMLS:C1456270
+27927213	591	599	analyses	T062	UMLS:C0936012
+27927213	603	612	wild-type	T017	UMLS:C1883559
+27927213	613	617	mice	T204	UMLS:C0025929
+27927213	622	636	mice deficient	T204	UMLS:C0206745
+27927213	641	676	medium-chain acyl-CoA dehydrogenase	T103	UMLS:C0050688
+27927213	678	682	MCAD	T103	UMLS:C0050688
+27927213	711	730	computational model	T170	UMLS:C3161035
+27927213	734	738	mFAO	T038	UMLS:C1158366
+27927213	740	745	Model	T170	UMLS:C3161035
+27927213	746	757	simulations	T062	UMLS:C0679083
+27927213	773	788	MCAD deficiency	T038	UMLS:C0220710
+27927213	817	824	pathway	T038	UMLS:C1704259
+27927213	859	863	mFAO	T038	UMLS:C1158366
+27927213	874	887	palmitoyl-CoA	T103	UMLS:C0030239
+27927213	921	934	palmitoyl-CoA	T103	UMLS:C0030239
+27927213	973	985	accumulation	T033	UMLS:C4055506
+27927213	989	1013	intermediate metabolites	T103	UMLS:C0870883
+27927213	1060	1077	overload behavior	T038	UMLS:C0030660
+27927213	1138	1143	study	T062	UMLS:C2603343
+27927213	1205	1224	metabolite profiles	T038	UMLS:C3853758
+27927213	1241	1258	humanized version	T204	UMLS:C0086418
+27927213	1266	1285	computational model	T170	UMLS:C3161035
+27927213	1334	1340	plasma	T031	UMLS:C0032105
+27927213	1341	1360	metabolite profiles	T038	UMLS:C3853758
+27927213	1368	1372	MCAD	T103	UMLS:C0050688
+27927213	1373	1383	deficiency	T038	UMLS:C0220710
+27927213	1464	1505	multiple acyl-CoA dehydrogenase deficient	T038	UMLS:C0268596
+27927213	1666	1683	medicine approach	T091	UMLS:C0025118
+27927213	1747	1757	physiology	T038	UMLS:C0031843
+27927213	1780	1784	mFAO	T038	UMLS:C1158366
+27927213	1780	1794	mFAO disorders	T038	UMLS:C1456270
+27927213	1798	1805	finding	T033	UMLS:C0243095
+27927213	1858	1896	life-threatening metabolic catastrophe	T033	UMLS:C1968665

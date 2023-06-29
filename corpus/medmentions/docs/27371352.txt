@@ -1,0 +1,96 @@
+27371352|t|Maternal dietary intake during pregnancy and offspring body composition: The Healthy Start Study
+27371352|a|Consistent evidence of an influence of maternal dietary intake during pregnancy on infant body size and composition in human populations is lacking, despite robust evidence in animal models. We sought to evaluate the influence of maternal macronutrient intake and balance during pregnancy on neonatal body size and composition, including fat mass and fat-free mass. The analysis was conducted among 1040 mother - offspring pairs enrolled in the prospective prebirth observational cohort: the Healthy Start Study. Diet during pregnancy was collected using repeated 24- hour dietary recalls (up to 8). Direct measures of body composition were obtained using air displacement plethysmography. The National Cancer Institute measurement error model was used to estimate usual dietary intake during pregnancy. Multivariable partition (nonisocaloric) and nutrient density (isocaloric) linear regression models were used to test the associations between maternal dietary intake and neonatal body composition. The median macronutrient composition during pregnancy was 32.2% from fat, 15.0% from protein, and 47.8% from carbohydrates. In the partition multivariate regression model, individual macronutrient intake values were not associated with birthweight or fat-free mass, but were associated with fat mass. Respectively, 418 kJ increases in total fat, saturated fat, unsaturated fat, and total carbohydrates were associated with 4.2-g (P = .03), 11.1-g (P = .003), 5.9-g (P = .04), and 2.9-g (P = .02) increases in neonatal fat mass, independent of prepregnancy body mass index. In the nutrient density multivariate regression model, macronutrient balance was not associated with fat mass, fat-free mass, or birthweight after adjustment for prepregnancy body mass index. Neonatal adiposity, but not birthweight, is independently associated with increased maternal intake of total fat, saturated fat, unsaturated fat, and total carbohydrates, but not protein, suggesting that most forms of increased caloric intake contribute to fetal fat accretion.
+27371352	0	8	Maternal	T099	C0026591
+27371352	9	23	dietary intake	T040	C1286104
+27371352	31	40	pregnancy	T040	C0032961
+27371352	45	54	offspring	T099	C0680063
+27371352	55	71	body composition	T032	C0005885
+27371352	77	96	Healthy Start Study	T062	C2603343
+27371352	108	116	evidence	T078	C3887511
+27371352	123	132	influence	T077	C4054723
+27371352	136	144	maternal	T099	C0026591
+27371352	145	159	dietary intake	T040	C1286104
+27371352	167	176	pregnancy	T040	C0032961
+27371352	180	186	infant	T100	C0021270
+27371352	187	196	body size	T032	C0005901
+27371352	201	212	composition	T032	C0005885
+27371352	216	221	human	T016	C0086418
+27371352	222	233	populations	T098	C1257890
+27371352	261	269	evidence	T078	C3887511
+27371352	273	286	animal models	T008	C0599779
+27371352	301	309	evaluate	T169	C1292732
+27371352	314	323	influence	T077	C4054723
+27371352	327	335	maternal	T099	C0026591
+27371352	336	349	macronutrient	T077	C2346926
+27371352	350	356	intake	T040	C1286104
+27371352	376	385	pregnancy	T040	C0032961
+27371352	389	397	neonatal	T100	C0021289
+27371352	398	407	body size	T032	C0005901
+27371352	412	423	composition	T032	C0005885
+27371352	435	443	fat mass	T032	C3656665
+27371352	448	461	fat-free mass	T033	C0518010
+27371352	467	475	analysis	T062	C0936012
+27371352	501	507	mother	T099	C0026591
+27371352	510	519	offspring	T099	C0680063
+27371352	520	525	pairs	T080	C1709450
+27371352	542	583	prospective prebirth observational cohort	T081	C0009247
+27371352	589	608	Healthy Start Study	T062	C2603343
+27371352	610	614	Diet	T168	C0012155
+27371352	622	631	pregnancy	T040	C0032961
+27371352	636	645	collected	T078	C1516695
+27371352	665	669	hour	T079	C0439227
+27371352	670	677	dietary	T168	C0012155
+27371352	697	703	Direct	T080	C1947931
+27371352	704	712	measures	T081	C0079809
+27371352	716	732	body composition	T032	C0005885
+27371352	753	785	air displacement plethysmography	T060	C0032224
+27371352	791	816	National Cancer Institute	T093	C1513882
+27371352	817	840	measurement error model	T170	C3161035
+27371352	868	882	dietary intake	T040	C1286104
+27371352	890	899	pregnancy	T040	C0032961
+27371352	901	940	Multivariable partition (nonisocaloric)	T170	C0034980
+27371352	945	999	nutrient density (isocaloric) linear regression models	T170	C0034980
+27371352	1043	1051	maternal	T099	C0026591
+27371352	1052	1066	dietary intake	T040	C1286104
+27371352	1071	1079	neonatal	T100	C0021289
+27371352	1080	1096	body composition	T032	C0005885
+27371352	1109	1134	macronutrient composition	T077	C2346926
+27371352	1142	1151	pregnancy	T040	C0032961
+27371352	1167	1170	fat	T109,T168	C0012171
+27371352	1183	1190	protein	T168	C0453858
+27371352	1207	1220	carbohydrates	T168	C0453802
+27371352	1229	1268	partition multivariate regression model	T170	C0034980
+27371352	1270	1280	individual	T098	C0237401
+27371352	1281	1294	macronutrient	T077	C2346926
+27371352	1295	1301	intake	T040	C1286104
+27371352	1302	1308	values	T080	C0042295
+27371352	1334	1345	birthweight	T032	C0005612
+27371352	1349	1362	fat-free mass	T033	C0518010
+27371352	1389	1397	fat mass	T032	C3656665
+27371352	1433	1442	total fat	T109,T168	C0012171
+27371352	1444	1457	saturated fat	UnknownType	C0682953
+27371352	1459	1474	unsaturated fat	T109,T168	C0012172
+27371352	1480	1499	total carbohydrates	T168	C0453802
+27371352	1607	1615	neonatal	T100	C0021289
+27371352	1616	1624	fat mass	T032	C3656665
+27371352	1641	1669	prepregnancy body mass index	T201	C1305855
+27371352	1678	1724	nutrient density multivariate regression model	T170	C0034980
+27371352	1726	1739	macronutrient	T077	C2346926
+27371352	1772	1780	fat mass	T032	C3656665
+27371352	1782	1795	fat-free mass	T033	C0518010
+27371352	1800	1811	birthweight	T032	C0005612
+27371352	1833	1861	prepregnancy body mass index	T201	C1305855
+27371352	1863	1871	Neonatal	T100	C0021289
+27371352	1872	1881	adiposity	T032	C1563743
+27371352	1891	1902	birthweight	T032	C0005612
+27371352	1947	1955	maternal	T099	C0026591
+27371352	1956	1962	intake	T040	C1286104
+27371352	1966	1975	total fat	T109,T168	C0012171
+27371352	1977	1990	saturated fat	UnknownType	C0682953
+27371352	1992	2007	unsaturated fat	T109,T168	C0012172
+27371352	2013	2032	total carbohydrates	T168	C0453802
+27371352	2042	2049	protein	T168	C0453858
+27371352	2081	2090	increased	T081	C0205217
+27371352	2091	2105	caloric intake	T081	C0006777
+27371352	2120	2125	fetal	T018	C0015965
+27371352	2126	2139	fat accretion	T033	C4055506

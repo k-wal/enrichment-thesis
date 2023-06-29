@@ -1,0 +1,66 @@
+27485594|t|Systematic Quantification of GPCR / cAMP - Controlled Protein Kinase A Interactions
+27485594|a|The diffusible second messenger cyclic AMP (cAMP) originates from multiple G protein-coupled receptor (GPCR) cascades activating the intracellular key effector protein kinase A (PKA). Spatially and temporally restricted cAMP - fluxes are directly sensed by macromolecular PKA complexes. The consequences are alterations of molecular interactions, which lead to activation of compartmentalized PKA phosphotransferase activities, regulating a vast array of cellular functions. To decode cell-type and cell-compartment specific PKA functions, the spatio-temporal dynamics of small molecule:protein interactions, protein:protein interactions (PPIs), cAMP - mobilization, and phosphotransferase activities need to be determined directly in the appropriate cellular context. A collection of cell-based reporters has been developed to either visualize or quantitatively measure kinase activities or PKA complex formation / dissociation. In this review, we list a collection of unimolecular and bimolecular PKA biosensors, followed by the specification of the modular design of a Renilla luciferase based protein-fragment complementation assay (PCA) platform for measuring PKA network interactions. We discuss the application spectrum of the PCA reporter to identify, quantify, and dissect dynamic and transient PKA complexes downstream of specific GPCR activities. We specify the implementation of a PCA PKA platform to systematically quantify the concurrent involvement of receptor - cAMP signaling, post-translational modifications, and kinase subunit mutations / perturbations in PKA activation. The systematic quantification of transient PKA network interactions will contribute to a better understanding how GPCR -recognized input signals are streamlined through the compartmentalized and cAMP - interacting PKA signalosome.
+27485594	29	33	GPCR	T103	UMLS:C0682972
+27485594	36	40	cAMP	T103	UMLS:C0001455
+27485594	54	70	Protein Kinase A	T103	UMLS:C0033640
+27485594	71	83	Interactions	T038	UMLS:C1148560
+27485594	88	98	diffusible	T082	UMLS:C0205219
+27485594	99	115	second messenger	T103	UMLS:C1508748
+27485594	116	126	cyclic AMP	T103	UMLS:C0001455
+27485594	128	132	cAMP	T103	UMLS:C0001455
+27485594	159	185	G protein-coupled receptor	T103	UMLS:C0682972
+27485594	187	191	GPCR	T103	UMLS:C0682972
+27485594	217	230	intracellular	T082	UMLS:C0178719
+27485594	244	260	protein kinase A	T103	UMLS:C0033640
+27485594	262	265	PKA	T103	UMLS:C0033640
+27485594	304	308	cAMP	T103	UMLS:C0001455
+27485594	356	369	PKA complexes	T017	UMLS:C3823671
+27485594	407	429	molecular interactions	T038	UMLS:C1148560
+27485594	477	510	PKA phosphotransferase activities	T038	UMLS:C2261493
+27485594	539	557	cellular functions	T038	UMLS:C0007613
+27485594	569	578	cell-type	T170	UMLS:C0449475
+27485594	583	599	cell-compartment	T017	UMLS:C2349967
+27485594	609	612	PKA	T103	UMLS:C0033640
+27485594	628	652	spatio-temporal dynamics	T062	UMLS:C3494293
+27485594	656	691	small molecule:protein interactions	T038	UMLS:C1148560
+27485594	693	721	protein:protein interactions	T038	UMLS:C0872079
+27485594	723	727	PPIs	T038	UMLS:C0872079
+27485594	730	734	cAMP	T103	UMLS:C0001455
+27485594	737	749	mobilization	T038	UMLS:C1148560
+27485594	755	784	phosphotransferase activities	T038	UMLS:C2261493
+27485594	869	889	cell-based reporters	T103	UMLS:C1522485
+27485594	955	972	kinase activities	T038	UMLS:C2261493
+27485594	976	987	PKA complex	T017	UMLS:C3823671
+27485594	988	997	formation	T038	UMLS:C1148560
+27485594	1000	1012	dissociation	T038	UMLS:C1148560
+27485594	1083	1086	PKA	T103	UMLS:C0033640
+27485594	1156	1174	Renilla luciferase	T103	UMLS:C1450145
+27485594	1181	1219	protein-fragment complementation assay	T058	UMLS:C0005507
+27485594	1221	1224	PCA	T058	UMLS:C0005507
+27485594	1249	1252	PKA	T103	UMLS:C0033640
+27485594	1249	1252	PKA	T103	UMLS:C0033640
+27485594	1253	1273	network interactions	T038	UMLS:C1148560
+27485594	1302	1310	spectrum	T058	UMLS:C0037812
+27485594	1318	1321	PCA	T058	UMLS:C0005507
+27485594	1322	1330	reporter	T103	UMLS:C1522485
+27485594	1334	1342	identify	T033	UMLS:C0243095
+27485594	1388	1391	PKA	T103	UMLS:C0033640
+27485594	1388	1401	PKA complexes	T017	UMLS:C3823671
+27485594	1402	1412	downstream	T082	UMLS:C0522506
+27485594	1425	1429	GPCR	T103	UMLS:C0682972
+27485594	1477	1480	PCA	T058	UMLS:C0005507
+27485594	1481	1484	PKA	T103	UMLS:C0033640
+27485594	1481	1484	PKA	T103	UMLS:C0033640
+27485594	1551	1559	receptor	T103	UMLS:C0597357
+27485594	1562	1576	cAMP signaling	T038	UMLS:C1155589
+27485594	1578	1610	post-translational modifications	T038	UMLS:C0033666
+27485594	1616	1630	kinase subunit	T103	UMLS:C1956042
+27485594	1631	1640	mutations	T038	UMLS:C0026882
+27485594	1660	1674	PKA activation	T038	UMLS:C1819041
+27485594	1719	1722	PKA	T103	UMLS:C0033640
+27485594	1723	1730	network	T038	UMLS:C1148560
+27485594	1790	1794	GPCR	T103	UMLS:C0682972
+27485594	1813	1820	signals	T038	UMLS:C3537152
+27485594	1871	1875	cAMP	T103	UMLS:C0001455
+27485594	1890	1893	PKA	T103	UMLS:C0033640
+27485594	1894	1905	signalosome	T017	UMLS:C1167160

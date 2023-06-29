@@ -1,0 +1,78 @@
+27364994|t|Naphthoquinone glycosides for bioelectroanalytical enumeration of the faecal indicator Escherichia coli
+27364994|a|Microbial water quality monitoring for the presence of faecal indicator bacteria (FIB) is a mandatory activity in many countries and is key in public health protection. Despite technological advances and a need for methodological improvements, chromogenic and fluorogenic enzymatic techniques remain the mainstays of water quality monitoring for both public health agencies and regulated utilities. We demonstrated that bioelectroanalytical approaches to FIB enumeration are possible and can be achieved using commercially available enzyme - specific resorufin glycosides, although these are expensive, not widely available or designed for purpose. Following this, we designed two naphthoquinone glycosides which performed better, achieving Escherichia coli detection in the range 5.0 × 10(2) to 5.0 × 10(5) CFU ml(-1) 22-54% quicker than commercially available resorufin glycosides. The molecular design of the naphthoquinone glycosides requires fewer synthetic steps allowing them to be produced for as little as US$50 per kg. Tests with environmental samples demonstrated the low tendency for abiotic interference and that, despite specificity being maintained between β-glucuronidase and β-galactosidase, accurate enumeration of E. coli in environmental samples necessitates development of a selective medium. In comparison to a commercially available detection method, which has U.S. Environmental Protection Agency (EPA) approval, our approach performed better at high organism concentrations, detecting 500 organisms in 9 h compared with 13.5 h for the commercial method. Bioelectroanalytical detection is comparable to current approved methods and with further development could result in improved detection times. A recent trend for low-cost open-source hardware means that automated, potentiostatically controlled E. coli detection systems could be constructed for less than US$100 per channel.
+27364994	0	14	Naphthoquinone	T109	C0027388
+27364994	15	25	glycosides	T109	C0017977
+27364994	30	62	bioelectroanalytical enumeration	T080	C1707927
+27364994	70	76	faecal	T031	C0015733
+27364994	77	86	indicator	T130	C0021212
+27364994	87	103	Escherichia coli	T007	C0014834
+27364994	104	113	Microbial	T001	C0599840
+27364994	114	127	water quality	T080	C0597680
+27364994	128	138	monitoring	T058	C1283169
+27364994	159	184	faecal indicator bacteria	T007	C0004611
+27364994	186	189	FIB	T007	C0004611
+27364994	196	214	mandatory activity	T064	C0242803
+27364994	223	232	countries	T083	C0454664
+27364994	247	271	public health protection	T058	C0034020
+27364994	281	303	technological advances	UnknownType	C0681539
+27364994	319	333	methodological	UnknownType	C0815254
+27364994	334	346	improvements	T077	C2986411
+27364994	348	359	chromogenic	T059	C3872799
+27364994	364	396	fluorogenic enzymatic techniques	T169	C0449851
+27364994	421	434	water quality	T080	C0597680
+27364994	435	445	monitoring	T058	C1283169
+27364994	455	501	public health agencies and regulated utilities	T093	C1551248
+27364994	524	555	bioelectroanalytical approaches	T062	C0936012
+27364994	559	562	FIB	T007	C0004611
+27364994	563	574	enumeration	T080	C1707927
+27364994	637	643	enzyme	T116,T126	C0014442
+27364994	646	654	specific	T080	C0205369
+27364994	655	664	resorufin	T109	C0073089
+27364994	665	675	glycosides	T109	C0017977
+27364994	785	799	naphthoquinone	T109	C0027388
+27364994	800	810	glycosides	T109	C0017977
+27364994	817	833	performed better	T080	C0332272
+27364994	845	871	Escherichia coli detection	T059	C1294359
+27364994	930	937	quicker	T080	C0456962
+27364994	966	975	resorufin	T109	C0073089
+27364994	976	986	glycosides	T109	C0017977
+27364994	992	1008	molecular design	T090	C0013171
+27364994	1016	1030	naphthoquinone	T109	C0027388
+27364994	1031	1041	glycosides	T109	C0017977
+27364994	1057	1072	synthetic steps	T052	C1883254
+27364994	1133	1138	Tests	T169	C0039593
+27364994	1144	1157	environmental	T082	C0014406
+27364994	1158	1165	samples	T167	C0370003
+27364994	1200	1207	abiotic	T169	C0205485
+27364994	1208	1220	interference	T169	C0521102
+27364994	1239	1250	specificity	T081	C0037791
+27364994	1276	1291	β-glucuronidase	T116,T126,T130	C0017776
+27364994	1296	1311	β-galactosidase	T116,T121,T126	C0005220
+27364994	1322	1333	enumeration	T080	C1707927
+27364994	1337	1344	E. coli	T007	C0014834
+27364994	1348	1361	environmental	T082	C0014406
+27364994	1362	1369	samples	T167	C0370003
+27364994	1400	1416	selective medium	T081	C0439536
+27364994	1421	1431	comparison	T052	C1707455
+27364994	1460	1469	detection	T033	C0442726
+27364994	1470	1476	method	T169	C0449851
+27364994	1488	1524	U.S. Environmental Protection Agency	T092	C0041712
+27364994	1526	1529	EPA	T092	C0041712
+27364994	1531	1539	approval	T170	C2346845
+27364994	1554	1570	performed better	T080	C0332272
+27364994	1579	1587	organism	T001	C0029235
+27364994	1588	1602	concentrations	T081	C1446561
+27364994	1618	1627	organisms	T001	C0029235
+27364994	1635	1643	compared	T052	C1707455
+27364994	1664	1681	commercial method	T059	C0871511
+27364994	1683	1713	Bioelectroanalytical detection	T062	C0936012
+27364994	1717	1727	comparable	T052	C1707455
+27364994	1731	1755	current approved methods	T059	C0871511
+27364994	1765	1784	further development	T039	C0243107
+27364994	1791	1797	result	T169	C1274040
+27364994	1810	1819	detection	T033	C0442726
+27364994	1820	1825	times	T081	C0449809
+27364994	1855	1875	open-source hardware	T073	C1523994
+27364994	1887	1896	automated	T169	C0205554
+27364994	1917	1927	controlled	T169	C2587213
+27364994	1928	1945	E. coli detection	T059	C1294359

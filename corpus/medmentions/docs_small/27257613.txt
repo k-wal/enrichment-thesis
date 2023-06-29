@@ -1,0 +1,39 @@
+27257613|t|Data set of interactomes and metabolic pathways of proteins differentially expressed in brains with Alzheimer׳s disease
+27257613|a|Alzheimer׳s disease is one of the main causes of dementia in the elderly and its frequency is on the rise worldwide. It is considered the result of complex interactions between genetic and environmental factors, being many of them unknown. Therefore, there is a dire necessity for the identification of novel molecular players for the understanding of this disease. In this data article we determined the protein expression profiles of whole protein extracts from cortex regions of brains from patients with Alzheimer׳s disease in comparison to a normal brain. We identified 721 iTRAQ-labeled polypeptides with more than 95% in confidence. We analyzed all proteins that changed in their expression level and located them in the KEGG metabolic pathways, as well as in the mitochondrial complexes of the electron transport chain and ATP synthase. In addition, we analyzed the over- and sub-expressed polypeptides through IPA software, specifically Core I and Biomarkers I modules. Data in this article is related to the research article "Identification of proteins that are differentially expressed in brains with Alzheimer's disease using iTRAQ labeling and tandem mass spectrometry " (Minjarez et al., 2016) [1].
+27257613	0	8	Data set	T170	UMLS:C0150098
+27257613	12	24	interactomes	T038	UMLS:C0872079
+27257613	51	59	proteins	T103	UMLS:C0033684
+27257613	75	84	expressed	T038	UMLS:C1171362
+27257613	88	94	brains	T017	UMLS:C0006104
+27257613	100	119	Alzheimer׳s disease	T038	UMLS:C0002395
+27257613	120	139	Alzheimer׳s disease	T038	UMLS:C0002395
+27257613	169	177	dementia	T038	UMLS:C0497327
+27257613	185	192	elderly	T098	UMLS:C0001792
+27257613	226	235	worldwide	T098	UMLS:C2700280
+27257613	429	446	molecular players	T103	UMLS:C0033684
+27257613	477	484	disease	T038	UMLS:C0002395
+27257613	499	506	article	T170	UMLS:C1706852
+27257613	525	543	protein expression	T038	UMLS:C1171362
+27257613	562	569	protein	T103	UMLS:C0033684
+27257613	584	608	cortex regions of brains	T082	UMLS:C0458324
+27257613	628	647	Alzheimer׳s disease	T038	UMLS:C0002395
+27257613	667	679	normal brain	T017	UMLS:C0006104
+27257613	699	712	iTRAQ-labeled	T103	UMLS:C2986808
+27257613	713	725	polypeptides	T103	UMLS:C1305923
+27257613	763	771	analyzed	T062	UMLS:C0936012
+27257613	776	784	proteins	T103	UMLS:C0033684
+27257613	891	946	mitochondrial complexes of the electron transport chain	T017	UMLS:C1325653
+27257613	951	963	ATP synthase	T103	UMLS:C0949692
+27257613	981	989	analyzed	T062	UMLS:C0936012
+27257613	994	1030	over- and sub-expressed polypeptides	T103	UMLS:C1305923
+27257613	1039	1051	IPA software	T170	UMLS:C0037585
+27257613	1066	1097	Core I and Biomarkers I modules	T170	UMLS:C0037589
+27257613	1112	1119	article	T170	UMLS:C1706852
+27257613	1138	1146	research	T062	UMLS:C0035168
+27257613	1147	1154	article	T170	UMLS:C1706852
+27257613	1174	1182	proteins	T103	UMLS:C0033684
+27257613	1207	1216	expressed	T038	UMLS:C1171362
+27257613	1220	1226	brains	T017	UMLS:C0006104
+27257613	1232	1251	Alzheimer's disease	T038	UMLS:C0002395
+27257613	1258	1272	iTRAQ labeling	T058	UMLS:C0022885
+27257613	1277	1301	tandem mass spectrometry	T062	UMLS:C0599748

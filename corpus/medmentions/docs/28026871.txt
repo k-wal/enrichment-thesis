@@ -1,0 +1,97 @@
+28026871|t|Radiation therapy dose is associated with improved survival for unresected anaplastic thyroid carcinoma: Outcomes from the National Cancer Data Base
+28026871|a|The outcomes of patients with unresected anaplastic thyroid carcinoma (ATC) from the National Cancer Data Base (NCDB) were assessed, and potential correlations were explored between radiation therapy (RT) dose and overall survival (OS). The study cohort was comprised of patients who underwent either no surgery or grossly incomplete resection. Correlates of OS were explored using univariate analysis and multivariable analysis (MVA). In total, 1288 patients were analyzed. The mean patient age was 70.2 years, 59.7% of patients were women, and 47.6% received neck RT. The median OS was 2.27 months, and 11% of patients remained alive at 1 year. A positive RT dose - survival correlation was observed for the entire study cohort, for those who received systemic therapy, and for those with stage IVA / IVB and IVC disease. On MVA, older age (hazard ratio [HR], 1.317; 95% confidence interval [CI], 1.137-1.526),�€‰�‰��€‰1 comorbidity (HR, 1.587; 95% CI, 1.379-1.827), distant metastasis (HR, 1.385; 95% CI, 1.216-1.578), receipt of systemic therapy (HR, 0.637; 95% CI, 0.547-0.742), and receipt of RT compared with no RT (<45 grays [Gy]: HR, 0.843; 95% CI, 0.718-0.988; 45-59.9 Gy: HR, 0.596; 95% CI, 0.479-0.743; 60-75 Gy: HR, 0.419; 95% CI, 0.339-0.517) correlated with OS. The RT dose - survival correlation for patients who received higher (60-75 Gy) versus lower (45-59.9 Gy) therapeutic doses was confirmed by propensity-score matching. Survival was poor in this cohort of patients with unresected ATC, and more effective therapies are needed. However, the association of RT dose with OS highlights the importance of identifying patients with unresected ATC who may still yet benefit from multimodal locoregional treatment that incorporates higher dose RT. Cancer 2017;123:1653-1661. © 2017 American Cancer Society.
+28026871	0	22	Radiation therapy dose	T081	C0034620
+28026871	26	41	associated with	T080	C0332281
+28026871	51	59	survival	T052	C0038952
+28026871	64	74	unresected	T185	C2986425
+28026871	75	103	anaplastic thyroid carcinoma	T191	C0238461
+28026871	105	113	Outcomes	T080	C0085415
+28026871	123	148	National Cancer Data Base	T170	C0242356
+28026871	165	173	patients	T101	C0030705
+28026871	179	189	unresected	T185	C2986425
+28026871	190	218	anaplastic thyroid carcinoma	T191	C0238461
+28026871	220	223	ATC	T191	C0238461
+28026871	234	259	National Cancer Data Base	T170	C0242356
+28026871	261	265	NCDB	T170	C0242356
+28026871	296	308	correlations	T080	C1707520
+28026871	331	358	radiation therapy (RT) dose	T081	C0034620
+28026871	363	379	overall survival	T081	C4086681
+28026871	381	383	OS	T081	C4086681
+28026871	390	402	study cohort	T081	C0009247
+28026871	420	428	patients	T101	C0030705
+28026871	472	482	incomplete	T080	C0205257
+28026871	483	492	resection	T061	C0728940
+28026871	508	510	OS	T081	C4086681
+28026871	531	550	univariate analysis	T062	C0683962
+28026871	555	577	multivariable analysis	T081	C0026777
+28026871	579	582	MVA	T081	C0026777
+28026871	600	608	patients	T101	C0030705
+28026871	633	640	patient	T101	C0030705
+28026871	641	644	age	T032	C0001779
+28026871	670	678	patients	T101	C0030705
+28026871	684	689	women	T098	C0043210
+28026871	710	717	neck RT	T061	C1997944
+28026871	723	729	median	T081	C0876920
+28026871	730	732	OS	T081	C4086681
+28026871	761	769	patients	T101	C0030705
+28026871	779	784	alive	T033	C2584946
+28026871	807	814	RT dose	T081	C0034620
+28026871	817	825	survival	T052	C0038952
+28026871	826	837	correlation	T080	C1707520
+28026871	866	878	study cohort	T081	C0009247
+28026871	903	919	systemic therapy	T061	C1515119
+28026871	940	949	stage IVA	T185	C0456600
+28026871	952	955	IVB	T185	C0456601
+28026871	960	963	IVC	T185	C0441774
+28026871	976	979	MVA	T081	C0026777
+28026871	981	990	older age	T098	C1999167
+28026871	992	1004	hazard ratio	T081	C2985465
+28026871	1006	1008	HR	T081	C2985465
+28026871	1022	1041	confidence interval	T081	C0009667
+28026871	1043	1045	CI	T081	C0009667
+28026871	1072	1083	comorbidity	T078	C0009488
+28026871	1085	1087	HR	T081	C2985465
+28026871	1100	1102	CI	T081	C0009667
+28026871	1118	1136	distant metastasis	T201	C1302548
+28026871	1138	1140	HR	T081	C2985465
+28026871	1153	1155	CI	T081	C0009667
+28026871	1182	1198	systemic therapy	T061	C1515119
+28026871	1200	1202	HR	T081	C2985465
+28026871	1215	1217	CI	T081	C0009667
+28026871	1248	1250	RT	T170	C0034619
+28026871	1265	1270	no RT	T033	C3846110
+28026871	1276	1281	grays	T081	C0556636
+28026871	1283	1285	Gy	T081	C0556636
+28026871	1288	1290	HR	T081	C2985465
+28026871	1303	1305	CI	T081	C0009667
+28026871	1328	1330	Gy	T081	C0556636
+28026871	1332	1334	HR	T081	C2985465
+28026871	1347	1349	CI	T081	C0009667
+28026871	1370	1372	Gy	T081	C0556636
+28026871	1374	1376	HR	T081	C2985465
+28026871	1389	1391	CI	T081	C0009667
+28026871	1422	1424	OS	T081	C4086681
+28026871	1430	1437	RT dose	T081	C0034620
+28026871	1440	1448	survival	T052	C0038952
+28026871	1449	1460	correlation	T080	C1707520
+28026871	1465	1473	patients	T101	C0030705
+28026871	1487	1493	higher	T080	C0205250
+28026871	1501	1503	Gy	T081	C0556636
+28026871	1512	1517	lower	T080	C0205251
+28026871	1527	1529	Gy	T081	C0556636
+28026871	1531	1548	therapeutic doses	T081	C0034620
+28026871	1566	1591	propensity-score matching	T081	C2718044
+28026871	1593	1601	Survival	T052	C0038952
+28026871	1619	1625	cohort	T098	C0599755
+28026871	1629	1637	patients	T101	C0030705
+28026871	1643	1653	unresected	T185	C2986425
+28026871	1654	1657	ATC	T191	C0238461
+28026871	1678	1687	therapies	T061	C0087111
+28026871	1728	1735	RT dose	T081	C0034620
+28026871	1741	1743	OS	T081	C4086681
+28026871	1773	1793	identifying patients	T058	C1269815
+28026871	1799	1809	unresected	T185	C2986425
+28026871	1810	1813	ATC	T191	C0238461
+28026871	1845	1878	multimodal locoregional treatment	T061	C0009429
+28026871	1897	1903	higher	T080	C0205250
+28026871	1904	1911	dose RT	T081	C0034620

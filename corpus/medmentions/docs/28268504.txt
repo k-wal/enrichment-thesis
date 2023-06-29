@@ -1,0 +1,82 @@
+28268504|t|Hip segmentation from MRI volumes in infants for DDH diagnosis and treatment planning
+28268504|a|Diagnosis and surgical management of Developmental Dysplasia of the Hip (DDH) relies on physical examination and 2D ultrasound scanning. Magnetic Resonance Imaging (MRI) can be used to complement existing techniques and could be advantageous in treatment planning due to its larger field of view. In this paper we propose a semi-automatic method to segment surface models of the acetabulum from MRI images. The method incorporates clinical knowledge in the form of intensity priors which are integrated into a Random Walker (RW) formulation. We use a modified RW framework which compensates for incomplete or blurred boundaries in the image by using information from neighboring slices in the sequence incorporated as node weights. We conducted a pilot study to evaluate the segmentation on a set of 10 infant hip MRI sequences using a 1.5 Tesla MR scanner. Contours obtained from the semi-automated segmentation were compared against manually segmented hip contours using Dice Ratio (DR), Hausdorff Distance (HD) and Root Mean Square (RMS) distance. The proposed method gave values of (DR = 0.84 ± 0.5, HD =3.0 ± 0.7, RMS =1.9 ± 0.3) and (DR =0.86 ± 0.2, HD =3.0 ± 0.1, RMS = 2.0 ± 0.6) for right and left acetabular contours respectively which was higher than the corresponding values obtained from conventional RW segmentation. The execution time of the segmentation algorithm was less than ~4 seconds on a 3.5 GHz CPU.
+28268504	0	3	Hip	T023	C0019552
+28268504	4	16	segmentation	T066	C2697664
+28268504	22	25	MRI	T060	C0024485
+28268504	37	44	infants	T100	C0021270
+28268504	49	52	DDH	T019	C0019555
+28268504	53	62	diagnosis	T033	C0011900
+28268504	67	85	treatment planning	T170	C0599880
+28268504	86	95	Diagnosis	T033	C0011900
+28268504	100	119	surgical management	T058	C1515089
+28268504	123	157	Developmental Dysplasia of the Hip	T019	C0019555
+28268504	159	162	DDH	T019	C0019555
+28268504	174	194	physical examination	T058	C0031809
+28268504	202	221	ultrasound scanning	T060	C0041618
+28268504	223	249	Magnetic Resonance Imaging	T060	C0024485
+28268504	251	254	MRI	T060	C0024485
+28268504	291	301	techniques	T169	C0449851
+28268504	331	349	treatment planning	T170	C0599880
+28268504	410	424	semi-automatic	T169	C0205554
+28268504	425	431	method	T170	C0025663
+28268504	435	457	segment surface models	T170	C3161035
+28268504	465	475	acetabulum	T023	C0000962
+28268504	481	484	MRI	T060	C0024485
+28268504	485	491	images	T078	C1551337
+28268504	497	503	method	T170	C0025663
+28268504	517	525	clinical	T080	C0205210
+28268504	526	535	knowledge	T170	C0376554
+28268504	551	567	intensity priors	T170	C0876936
+28268504	596	626	Random Walker (RW) formulation	T170	C0002045
+28268504	637	645	modified	T169	C0392747
+28268504	646	648	RW	T170	C0002045
+28268504	665	676	compensates	T080	C0205432
+28268504	681	691	incomplete	T080	C0205257
+28268504	695	702	blurred	T080	C0205556
+28268504	703	713	boundaries	T185	C2828371
+28268504	721	726	image	T078	C1551337
+28268504	736	747	information	T078	C1533716
+28268504	753	771	neighboring slices	T082	C1254362
+28268504	779	787	sequence	T169	C1519249
+28268504	804	816	node weights	T081	C0392762
+28268504	833	844	pilot study	T062	C0031928
+28268504	848	856	evaluate	T058	C0220825
+28268504	861	873	segmentation	T066	C2697664
+28268504	889	895	infant	T100	C0021270
+28268504	896	899	hip	T023	C0019552
+28268504	900	903	MRI	T060	C0024485
+28268504	904	913	sequences	T169	C1519249
+28268504	932	942	MR scanner	T074	C0183115
+28268504	944	952	Contours	T082	C0876954
+28268504	971	985	semi-automated	T169	C0205554
+28268504	986	998	segmentation	T066	C2697664
+28268504	1004	1012	compared	T052	C1707455
+28268504	1021	1029	manually	T033	C3842330
+28268504	1030	1039	segmented	T066	C2697664
+28268504	1040	1043	hip	T023	C0019552
+28268504	1044	1052	contours	T082	C0876954
+28268504	1059	1069	Dice Ratio	T081	C0456603
+28268504	1071	1073	DR	T081	C0456603
+28268504	1076	1094	Hausdorff Distance	T081	C0012751
+28268504	1096	1098	HD	T081	C0012751
+28268504	1104	1120	Root Mean Square	T081	C2347976
+28268504	1122	1125	RMS	T081	C2347976
+28268504	1150	1156	method	T170	C0025663
+28268504	1173	1175	DR	T081	C0456603
+28268504	1190	1192	HD	T081	C0012751
+28268504	1205	1208	RMS	T081	C2347976
+28268504	1226	1228	DR	T081	C0456603
+28268504	1242	1244	HD	T081	C0012751
+28268504	1257	1260	RMS	T081	C2347976
+28268504	1278	1283	right	T029	C0834313
+28268504	1288	1312	left acetabular contours	T029	C0834314
+28268504	1336	1342	higher	T080	C0205250
+28268504	1387	1399	conventional	T080	C0439858
+28268504	1400	1402	RW	T170	C0002045
+28268504	1403	1415	segmentation	T066	C2697664
+28268504	1421	1430	execution	T052	C1705848
+28268504	1431	1435	time	T079	C0040223
+28268504	1443	1455	segmentation	T066	C2697664
+28268504	1456	1465	algorithm	T170	C0002045
+28268504	1483	1490	seconds	T079	C0457385
+28268504	1504	1507	CPU	T073	C1707144

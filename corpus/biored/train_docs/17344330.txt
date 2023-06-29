@@ -1,0 +1,48 @@
+17344330|t|Syncope and QT prolongation among patients treated with methadone for heroin dependence in the city of Copenhagen.
+17344330|a|BACKGROUND: Methadone is prescribed to heroin addicts to decrease illicit opioid use. Prolongation of the QT interval in the ECG of patients with torsade de pointes (TdP) has been reported in methadone users. As heroin addicts sometimes faint while using illicit drugs, doctors might attribute too many episodes of syncope to illicit drug use and thereby underestimate the incidence of TdP in this special population, and the high mortality in this population may, in part, be caused by the proarrhythmic effect of methadone. METHODS: In this cross-sectional study interview, ECGs and blood samples were collected in a population of adult heroin addicts treated with methadone or buprenorphine on a daily basis. Of the patients at the Drug Addiction Service in the municipal of Copenhagen, 450 (approximately 52%) were included. The QT interval was estimated from 12 lead ECGs. All participants were interviewed about any experience of syncope. The association between opioid dose and QT, and methadone dose and reporting of syncope was assessed using multivariate linear regression and logistic regression, respectively. RESULTS: Methadone dose was associated with longer QT interval of 0.140 ms/mg (p = 0.002). No association between buprenorphine and QTc was found. Among the subjects treated with methadone, 28% men and 32% women had prolonged QTc interval. None of the subjects treated with buprenorphine had QTc interval >0.440 s((1/2)). A 50 mg higher methadone dose was associated with a 1.2 (95% CI 1.1 to 1.4) times higher odds for syncope. CONCLUSIONS: Methadone is associated with QT prolongation and higher reporting of syncope in a population of heroin addicts.
+17344330	0	7	Syncope	DiseaseOrPhenotypicFeature	D013575
+17344330	12	27	QT prolongation	DiseaseOrPhenotypicFeature	D008133
+17344330	34	42	patients	OrganismTaxon	9606
+17344330	56	65	methadone	ChemicalEntity	D008691
+17344330	70	87	heroin dependence	DiseaseOrPhenotypicFeature	D006556
+17344330	127	136	Methadone	ChemicalEntity	D008691
+17344330	154	168	heroin addicts	DiseaseOrPhenotypicFeature	D006556
+17344330	189	195	opioid	ChemicalEntity	D000701
+17344330	201	232	Prolongation of the QT interval	DiseaseOrPhenotypicFeature	D008133
+17344330	247	255	patients	OrganismTaxon	9606
+17344330	261	279	torsade de pointes	DiseaseOrPhenotypicFeature	D016171
+17344330	281	284	TdP	DiseaseOrPhenotypicFeature	D016171
+17344330	307	316	methadone	ChemicalEntity	D008691
+17344330	327	341	heroin addicts	DiseaseOrPhenotypicFeature	D006556
+17344330	430	437	syncope	DiseaseOrPhenotypicFeature	D013575
+17344330	501	504	TdP	DiseaseOrPhenotypicFeature	D016171
+17344330	630	639	methadone	ChemicalEntity	D008691
+17344330	754	768	heroin addicts	DiseaseOrPhenotypicFeature	D006556
+17344330	782	791	methadone	ChemicalEntity	D008691
+17344330	795	808	buprenorphine	ChemicalEntity	D002047
+17344330	834	842	patients	OrganismTaxon	9606
+17344330	1051	1058	syncope	DiseaseOrPhenotypicFeature	D013575
+17344330	1084	1090	opioid	ChemicalEntity	D000701
+17344330	1108	1117	methadone	ChemicalEntity	D008691
+17344330	1140	1147	syncope	DiseaseOrPhenotypicFeature	D013575
+17344330	1246	1255	Methadone	ChemicalEntity	D008691
+17344330	1281	1299	longer QT interval	DiseaseOrPhenotypicFeature	D008133
+17344330	1351	1364	buprenorphine	ChemicalEntity	D002047
+17344330	1416	1425	methadone	ChemicalEntity	D008691
+17344330	1431	1434	men	OrganismTaxon	9606
+17344330	1443	1448	women	OrganismTaxon	9606
+17344330	1453	1475	prolonged QTc interval	DiseaseOrPhenotypicFeature	D008133
+17344330	1511	1524	buprenorphine	ChemicalEntity	D002047
+17344330	1574	1583	methadone	ChemicalEntity	D008691
+17344330	1657	1664	syncope	DiseaseOrPhenotypicFeature	D013575
+17344330	1679	1688	Methadone	ChemicalEntity	D008691
+17344330	1708	1723	QT prolongation	DiseaseOrPhenotypicFeature	D008133
+17344330	1748	1755	syncope	DiseaseOrPhenotypicFeature	D013575
+17344330	1775	1789	heroin addicts	DiseaseOrPhenotypicFeature	D006556
+17344330	Positive_Correlation	D016171	D008691	No
+17344330	Negative_Correlation	D002047	D006556	No
+17344330	Comparison	D002047	D008691	No
+17344330	Association	D008691	D000701	No
+17344330	Negative_Correlation	D008691	D006556	No
+17344330	Positive_Correlation	D008691	D008133	Novel
+17344330	Positive_Correlation	D008691	D013575	Novel

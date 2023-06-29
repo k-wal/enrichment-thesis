@@ -1,0 +1,65 @@
+27486825|t|Prevalence of Psychoactive Substance Consumption in People With Obesity
+27486825|a|The aim of this study was to evaluate the prevalence and the kind of psychoactive substances consumed by people with obesity. Patients were included at their first visit for bariatric surgery. Socio-demographic characteristics, anxiety, depressive disorders and psychoactive substance consumption were assessed. The prevalence of psychoactive substance consumption was compared to that of the general population reported by the French National Institute of Prevention and Health Education. One hundred (100) patients were consecutively recruited: 60 women (mean age 41 ± 14 years) and 40 men (mean age 46 ± 13 years). Sixty-seven percent of subjects consumed alcohol. Consumption rates of cannabis (21% vs. 10%), cocaine (7.0% vs. 0.8%) and amphetamine (6.0% vs. 0.3%) were significantly (p < .0001) higher in people with obesity than in the general population. People with obesity have an excess risk of amphetamine, cocaine and cannabis consumption. This consumption may increase the risk of cardiovascular and psychiatric morbidity and should therefore be detected before surgery.
+27486825	0	10	Prevalence	T081	C0033105
+27486825	14	36	Psychoactive Substance	T121,T131	C0682880
+27486825	37	48	Consumption	UnknownType	C0678263
+27486825	52	58	People	T098	C0027361
+27486825	64	71	Obesity	T047	C0028754
+27486825	88	93	study	T062	C0008972
+27486825	101	109	evaluate	T058	C0220825
+27486825	114	124	prevalence	T081	C0033105
+27486825	141	164	psychoactive substances	T121,T131	C0682880
+27486825	165	173	consumed	UnknownType	C0678263
+27486825	177	183	people	T098	C0027361
+27486825	189	196	obesity	T047	C0028754
+27486825	198	206	Patients	T101	C0030705
+27486825	246	263	bariatric surgery	T061	C1456587
+27486825	265	282	Socio-demographic	T062	C0681818
+27486825	283	298	characteristics	T080	C1521970
+27486825	300	307	anxiety	T048	C0003469
+27486825	309	329	depressive disorders	T048	C0011581
+27486825	334	356	psychoactive substance	T121,T131	C0682880
+27486825	357	368	consumption	UnknownType	C0678263
+27486825	374	382	assessed	T058	C0184514
+27486825	388	398	prevalence	T081	C0033105
+27486825	402	424	psychoactive substance	T121,T131	C0682880
+27486825	425	436	consumption	UnknownType	C0678263
+27486825	441	449	compared	T052	C1707455
+27486825	465	483	general population	T098	C0683971
+27486825	484	492	reported	T058	C0700287
+27486825	500	560	French National Institute of Prevention and Health Education	T093	C1708333
+27486825	580	588	patients	T101	C0030705
+27486825	622	627	women	T098	C0043210
+27486825	634	637	age	T032	C0001779
+27486825	646	651	years	T079	C0439234
+27486825	660	663	men	T098	C0025266
+27486825	670	673	age	T032	C0001779
+27486825	682	687	years	T079	C0439234
+27486825	713	721	subjects	T098	C0080105
+27486825	722	738	consumed alcohol	T055	C0001948
+27486825	740	751	Consumption	UnknownType	C0678263
+27486825	752	757	rates	T081	C1521828
+27486825	761	769	cannabis	T109,T121	C0024808
+27486825	785	792	cocaine	T109,T131	C0009170
+27486825	813	824	amphetamine	T109,T121,T123	C0002658
+27486825	846	859	significantly	T078	C0750502
+27486825	872	878	higher	T080	C0205250
+27486825	882	888	people	T098	C0027361
+27486825	894	901	obesity	T047	C0028754
+27486825	914	932	general population	T098	C0683971
+27486825	934	940	People	T098	C0027361
+27486825	946	953	obesity	T047	C0028754
+27486825	962	968	excess	T080	C1979886
+27486825	969	973	risk	T078	C0035647
+27486825	977	988	amphetamine	T109,T121,T123	C0002658
+27486825	990	997	cocaine	T109,T131	C0009170
+27486825	1002	1010	cannabis	T109,T121	C0024808
+27486825	1011	1022	consumption	UnknownType	C0678263
+27486825	1029	1040	consumption	UnknownType	C0678263
+27486825	1045	1053	increase	T169	C0442805
+27486825	1058	1062	risk	T078	C0035647
+27486825	1066	1080	cardiovascular	T047	C1301700
+27486825	1085	1096	psychiatric	T169	C0205487
+27486825	1097	1106	morbidity	T081	C0026538
+27486825	1131	1139	detected	T061	C1511790
+27486825	1147	1154	surgery	T091	C0038894

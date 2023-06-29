@@ -1,0 +1,32 @@
+19521089|t|Serotonin transporter gene polymorphic element 5-HTTLPR increases the risk of sporadic Parkinson's disease in Italy.
+19521089|a|Parkinson's disease (PD) is a neurodegenerative disorder causing muscular rigidity, resting tremor and bradykinesia. We conducted an association study assessing how PD risk in Italy was influenced by the serotonin transporter gene (SLC6A4) polymorphic region 5-HTTLPR, consisting of an insertion/deletion (long allele-L/short allele-S) of 43 bp in the SLC6A4 promoter region. The SLC6A4 promoter single nucleotide polymorphism rs25531(A-->G) was evaluated too. We collected 837 independent subjects (393 PD, 444 controls). An association between the 5-HTTLPR polymorphism and risk of PD (S/S genotype OR [95% CI]: 1.7[1.2-2.5], p = 0.002) was found. The rs25531 and the haplotype 5-HTTLPR/rs25531 did not associate with risk of PD. Our data indicate that the 5-HTTLPR polymorphic element within the SLC6A4 promoter may govern the genetic risk of PD in Italians.
+19521089	0	21	Serotonin transporter	GeneOrGeneProduct	6532
+19521089	47	55	5-HTTLPR	GeneOrGeneProduct	6532
+19521089	87	106	Parkinson's disease	DiseaseOrPhenotypicFeature	D010300
+19521089	117	136	Parkinson's disease	DiseaseOrPhenotypicFeature	D010300
+19521089	138	140	PD	DiseaseOrPhenotypicFeature	D010300
+19521089	147	173	neurodegenerative disorder	DiseaseOrPhenotypicFeature	D019636
+19521089	182	199	muscular rigidity	DiseaseOrPhenotypicFeature	D009127
+19521089	201	215	resting tremor	DiseaseOrPhenotypicFeature	D014202
+19521089	220	232	bradykinesia	DiseaseOrPhenotypicFeature	D018476
+19521089	282	284	PD	DiseaseOrPhenotypicFeature	D010300
+19521089	321	342	serotonin transporter	GeneOrGeneProduct	6532
+19521089	349	355	SLC6A4	GeneOrGeneProduct	6532
+19521089	376	384	5-HTTLPR	GeneOrGeneProduct	6532
+19521089	403	461	insertion/deletion (long allele-L/short allele-S) of 43 bp	SequenceVariant	c|INDEL||43
+19521089	469	475	SLC6A4	GeneOrGeneProduct	6532
+19521089	497	503	SLC6A4	GeneOrGeneProduct	6532
+19521089	544	551	rs25531	SequenceVariant	rs25531
+19521089	552	557	A-->G	SequenceVariant	rs25531
+19521089	621	623	PD	DiseaseOrPhenotypicFeature	D010300
+19521089	667	675	5-HTTLPR	GeneOrGeneProduct	6532
+19521089	701	703	PD	DiseaseOrPhenotypicFeature	D010300
+19521089	771	778	rs25531	SequenceVariant	rs25531
+19521089	797	805	5-HTTLPR	GeneOrGeneProduct	6532
+19521089	806	813	rs25531	SequenceVariant	rs25531
+19521089	845	847	PD	DiseaseOrPhenotypicFeature	D010300
+19521089	876	884	5-HTTLPR	GeneOrGeneProduct	6532
+19521089	916	922	SLC6A4	GeneOrGeneProduct	6532
+19521089	963	965	PD	DiseaseOrPhenotypicFeature	D010300
+19521089	Positive_Correlation	D010300	c|INDEL||43	No
+19521089	Association	6532	D010300	Novel

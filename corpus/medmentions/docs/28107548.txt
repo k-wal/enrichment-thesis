@@ -1,0 +1,56 @@
+28107548|t|MRI -based prostate cancer detection with high-level representation and hierarchical classification
+28107548|a|Extracting the high-level feature representation by using deep neural networks for detection of prostate cancer, and then based on high-level feature representation constructing hierarchical classification to refine the detection results. High-level feature representation is first learned by a deep learning network, where multiparametric MR images are used as the input data. Then, based on the learned high-level features, a hierarchical classification method is developed, where multiple random forest classifiers are iteratively constructed to refine the detection results of prostate cancer. The experiments were carried on 21 real patient subjects, and the proposed method achieves an averaged section-based evaluation (SBE) of 89.90%, an averaged sensitivity of 91.51%, and an averaged specificity of 88.47%. The high-level features learned from our proposed method can achieve better performance than the conventional handcrafted features (e.g., LBP and Haar-like features) in detecting prostate cancer regions, also the context features obtained from the proposed hierarchical classification approach are effective in refining cancer detection result.
+28107548	0	3	MRI	T060	C0024485
+28107548	11	26	prostate cancer	T191	C0376358
+28107548	27	36	detection	T033	C0011900
+28107548	42	67	high-level representation	UnknownType	C0683878
+28107548	72	84	hierarchical	T169	C0699032
+28107548	85	99	classification	T185	C0008902
+28107548	115	148	high-level feature representation	UnknownType	C0683878
+28107548	158	178	deep neural networks	T170	C0870951
+28107548	183	192	detection	T033	C0011900
+28107548	196	211	prostate cancer	T191	C0376358
+28107548	231	264	high-level feature representation	UnknownType	C0683878
+28107548	278	290	hierarchical	T169	C0699032
+28107548	291	305	classification	T185	C0008902
+28107548	320	329	detection	T033	C0011900
+28107548	330	337	results	T169	C1274040
+28107548	339	372	High-level feature representation	UnknownType	C0683878
+28107548	395	416	deep learning network	T170	C0870951
+28107548	424	442	multiparametric MR	T060	C4304904
+28107548	443	449	images	T170	C1704922
+28107548	472	476	data	T078	C1511726
+28107548	505	524	high-level features	T080	C2346469
+28107548	528	540	hierarchical	T169	C0699032
+28107548	541	555	classification	T185	C0008902
+28107548	556	562	method	T170	C0025663
+28107548	583	617	multiple random forest classifiers	T170	C0282574
+28107548	622	645	iteratively constructed	T052	C1707689
+28107548	660	669	detection	T033	C0011900
+28107548	670	677	results	T169	C1274040
+28107548	681	696	prostate cancer	T191	C0376358
+28107548	702	713	experiments	T062	C0681814
+28107548	738	745	patient	T101	C0030705
+28107548	773	779	method	T170	C0025663
+28107548	801	825	section-based evaluation	T058	C0220825
+28107548	827	830	SBE	T058	C0220825
+28107548	855	866	sensitivity	T169	C0332324
+28107548	894	905	specificity	T081	C0037791
+28107548	921	940	high-level features	T080	C2346469
+28107548	967	973	method	T170	C0025663
+28107548	993	1004	performance	T052	C1882330
+28107548	1014	1026	conventional	T081	C0205214
+28107548	1027	1047	handcrafted features	T080	C2346469
+28107548	1055	1058	LBP	T080	C2346469
+28107548	1063	1081	Haar-like features	T080	C2346469
+28107548	1086	1095	detecting	T033	C0011900
+28107548	1096	1111	prostate cancer	T191	C0376358
+28107548	1112	1119	regions	T029	C0005898
+28107548	1130	1137	context	T078	C0449255
+28107548	1138	1146	features	T080	C2348519
+28107548	1174	1186	hierarchical	T169	C0699032
+28107548	1187	1201	classification	T185	C0008902
+28107548	1215	1224	effective	T080	C1704419
+28107548	1237	1243	cancer	T191	C0006826
+28107548	1244	1253	detection	T033	C0011900
+28107548	1254	1260	result	T169	C1274040

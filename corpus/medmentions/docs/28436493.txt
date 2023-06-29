@@ -1,0 +1,78 @@
+28436493|t|An attenuated Mycobacterium tuberculosis clinical strain with a defect in ESX-1 secretion induces minimal host immune responses and pathology
+28436493|a|Although Mycobacterium tuberculosis (M.tb) DK9897 is an attenuated strain, it was isolated from a patient with extrapulmonary tuberculosis and vaccination with a subunit vaccine (H56) induced poor protection against it. Both attenuation and lack of protection are because M.tb DK9897 cannot secrete the EsxA virulence factor nor induce a host response against it. Genome sequencing identified a frameshift mutation in the eccCa1 gene. Since the encoded EccCa1 protein provides energy for ESX-1 secretion, it suggested a defect in the ESX-1 type VII secretion system. Genetic complementation with a plasmid carrying the M.tb H37Rv sequence of eccCa1-eccCb1-pe35 re-established EsxA secretion, host specific EsxA T-cell responses, and increased strain virulence. The ESX-1 secretion defect prevents several virulence factors from being functional during infection and therefore attenuates M.tb. It precludes specific T-cell responses against strong antigens and we found very little in vivo cytokine production, gross pathology or granuloma formation in lungs from M.tb DK9897 infected animals. This coincides with M.tb DK9897 being unable to disrupt the phagosome membrane and make contact to the cytosol.
+28436493	3	13	attenuated	T052	C0599946
+28436493	14	40	Mycobacterium tuberculosis	T007	C0026926
+28436493	41	49	clinical	T080	C0205210
+28436493	50	56	strain	T001	C1518614
+28436493	64	70	defect	T169	C1457869
+28436493	74	79	ESX-1	T116,T129	C1744314
+28436493	80	89	secretion	T038	C0036536
+28436493	98	105	minimal	T080	C0547040
+28436493	106	110	host	T001	C1167395
+28436493	111	127	immune responses	T042	C0301872
+28436493	132	141	pathology	T091	C0030664
+28436493	151	191	Mycobacterium tuberculosis (M.tb) DK9897	T007	C0026926
+28436493	198	208	attenuated	T052	C0599946
+28436493	209	215	strain	T001	C1518614
+28436493	224	232	isolated	T169	C0205409
+28436493	240	247	patient	T101	C0030705
+28436493	253	280	extrapulmonary tuberculosis	T047	C0679362
+28436493	285	296	vaccination	T061	C0042196
+28436493	304	319	subunit vaccine	T121,T129	C0887892
+28436493	321	324	H56	T121,T129	C0887892
+28436493	326	333	induced	T169	C0205263
+28436493	334	338	poor	T080	C0542537
+28436493	339	349	protection	T033	C1545588
+28436493	367	378	attenuation	T052	C0599946
+28436493	383	387	lack	T080	C0332268
+28436493	391	401	protection	T033	C1545588
+28436493	414	425	M.tb DK9897	T007	C0026926
+28436493	433	440	secrete	T038	C0036536
+28436493	445	449	EsxA	T116,T129	C1744314
+28436493	450	466	virulence factor	T109,T123,T131	C1136170
+28436493	480	493	host response	T042	C0301872
+28436493	506	523	Genome sequencing	T063	C1328887
+28436493	537	556	frameshift mutation	T049	C0079380
+28436493	564	575	eccCa1 gene	T028	C0017337
+28436493	587	594	encoded	T052	C2700640
+28436493	595	609	EccCa1 protein	T116	C1254349
+28436493	619	625	energy	T081	C1442080
+28436493	630	635	ESX-1	T116,T129	C1744314
+28436493	636	645	secretion	T038	C0036536
+28436493	662	668	defect	T169	C1457869
+28436493	676	681	ESX-1	T116,T129	C1744314
+28436493	682	707	type VII secretion system	T043	C3159197
+28436493	709	732	Genetic complementation	T045	C0178654
+28436493	740	747	plasmid	T114,T123	C0032136
+28436493	761	771	M.tb H37Rv	T007	C0026926
+28436493	784	802	eccCa1-eccCb1-pe35	T114	C0012931
+28436493	818	822	EsxA	T116,T129	C1744314
+28436493	823	832	secretion	T038	C0036536
+28436493	834	838	host	T001	C1167395
+28436493	848	852	EsxA	T116,T129	C1744314
+28436493	853	859	T-cell	T025	C0039194
+28436493	860	869	responses	T042	C0301872
+28436493	875	884	increased	T081	C0205217
+28436493	885	891	strain	T001	C1518614
+28436493	892	901	virulence	T038	C0042765
+28436493	907	912	ESX-1	T116,T129	C1744314
+28436493	913	922	secretion	T038	C0036536
+28436493	923	929	defect	T169	C1457869
+28436493	930	938	prevents	T169	C1292733
+28436493	947	964	virulence factors	T109,T123,T131	C1136170
+28436493	994	1003	infection	T046	C3714514
+28436493	1018	1028	attenuates	T052	C0599946
+28436493	1029	1033	M.tb	T007	C0026926
+28436493	1057	1063	T-cell	T025	C0039194
+28436493	1064	1073	responses	T042	C0301872
+28436493	1089	1097	antigens	T129	C0003320
+28436493	1123	1130	in vivo	T082	C1515655
+28436493	1131	1150	cytokine production	T040	C1327413
+28436493	1152	1167	gross pathology	T034	C0428094
+28436493	1171	1190	granuloma formation	T038	C1817882
+28436493	1194	1199	lungs	T023	C0024109
+28436493	1205	1216	M.tb DK9897	T007	C0026926
+28436493	1217	1233	infected animals	T033	C0237158
+28436493	1255	1266	M.tb DK9897	T007	C0026926
+28436493	1295	1313	phagosome membrane	T026	C1166752
+28436493	1338	1345	cytosol	T026	C1383501

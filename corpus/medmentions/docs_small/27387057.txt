@@ -1,0 +1,54 @@
+27387057|t|Mono-sulfonated tetrazolium salt based NAD(P)H detection reagents suitable for dehydrogenase and real-time cell viability assays
+27387057|a|Glutamate dehydrogenase (GDH) catalyzes the oxidative deamination of L-glutamate and is important for several biological processes. For GDH inhibitor screening, we developed a novel mono-sulfonated tetrazolium salt (EZMTT), which can be synthesized using H2O2 oxidation and purified easily on silica gel in large quantities. The EZMTT detection method showed linear dose responses to NAD(P)H, dehydrogenase concentration and cell numbers. In E. coli GDH assay, the EZMTT method showed excellent assay reproducibility with a Z factor of 0.9 and caused no false positives in the presence of antioxidants (such as BME). Using the EZMTT - formazan - NAD(P)H system, we showed that EGCG is a potent E. coli GDH inhibitor (IC50 45 nM) and identified that Ebselen, a multifunctional thioredoxin reductase inhibitor, inactivated E. coli GDH (IC50 213 nM). In cell-based assays at 0.5 mM tetrazolium concentration, EZMTT showed essentially no toxicity after a 3-day incubation, whereas 40% of inhibition was observed for WST-8. In conclusion, EZMTT is a novel tetrazolium salt which provides improved features that are suitable for dehydrogenases and real-time cell-based high-throughput screening (HTS).
+27387057	0	32	Mono-sulfonated tetrazolium salt	T103	UMLS:C0039704
+27387057	39	46	NAD(P)H	T103	UMLS:C0027303
+27387057	47	56	detection	T058	UMLS:C1511790
+27387057	57	65	reagents	T103	UMLS:C0034760
+27387057	79	92	dehydrogenase	T103	UMLS:C0017786
+27387057	107	128	cell viability assays	T058	UMLS:C0430300
+27387057	129	152	Glutamate dehydrogenase	T103	UMLS:C0017786
+27387057	154	157	GDH	T103	UMLS:C0017786
+27387057	198	209	L-glutamate	T103	UMLS:C0220839
+27387057	239	259	biological processes	T038	UMLS:C3714634
+27387057	265	268	GDH	T103	UMLS:C0017786
+27387057	269	278	inhibitor	T103	UMLS:C0014432
+27387057	279	288	screening	T058	UMLS:C0373483
+27387057	311	343	mono-sulfonated tetrazolium salt	T103	UMLS:C0039704
+27387057	345	350	EZMTT	T103	UMLS:C0039704
+27387057	384	388	H2O2	T103	UMLS:C0020281
+27387057	389	398	oxidation	T038	UMLS:C0030011
+27387057	422	432	silica gel	T103	UMLS:C2936385
+27387057	458	463	EZMTT	T103	UMLS:C0039704
+27387057	464	480	detection method	T170	UMLS:C0449335
+27387057	513	520	NAD(P)H	T103	UMLS:C0027303
+27387057	522	535	dehydrogenase	T103	UMLS:C0017786
+27387057	554	566	cell numbers	T058	UMLS:C0007584
+27387057	571	578	E. coli	T007	UMLS:C0014834
+27387057	579	588	GDH assay	T058	UMLS:C0302273
+27387057	594	599	EZMTT	T103	UMLS:C0039704
+27387057	680	698	no false positives	T033	UMLS:C0205557
+27387057	718	730	antioxidants	T103	UMLS:C0003402
+27387057	740	743	BME	T103	UMLS:C0025402
+27387057	756	761	EZMTT	T103	UMLS:C0039704
+27387057	764	772	formazan	T103	UMLS:C0016575
+27387057	775	782	NAD(P)H	T103	UMLS:C0027303
+27387057	806	810	EGCG	T103	UMLS:C0059438
+27387057	823	830	E. coli	T007	UMLS:C0014834
+27387057	831	834	GDH	T103	UMLS:C0017786
+27387057	835	844	inhibitor	T103	UMLS:C0014432
+27387057	878	885	Ebselen	T103	UMLS:C0058903
+27387057	905	926	thioredoxin reductase	T103	UMLS:C0039941
+27387057	927	936	inhibitor	T103	UMLS:C0014432
+27387057	950	957	E. coli	T007	UMLS:C0014834
+27387057	958	961	GDH	T103	UMLS:C0017786
+27387057	980	997	cell-based assays	T062	UMLS:C1516365
+27387057	1008	1019	tetrazolium	T103	UMLS:C0039704
+27387057	1035	1040	EZMTT	T103	UMLS:C0039704
+27387057	1086	1096	incubation	T033	UMLS:C1320226
+27387057	1113	1123	inhibition	T038	UMLS:C1524081
+27387057	1141	1146	WST-8	T103	UMLS:C1310765
+27387057	1163	1168	EZMTT	T103	UMLS:C0039704
+27387057	1180	1196	tetrazolium salt	T103	UMLS:C0039704
+27387057	1252	1266	dehydrogenases	T103	UMLS:C0030016
+27387057	1281	1291	cell-based	T062	UMLS:C1516365
+27387057	1292	1317	high-throughput screening	T058	UMLS:C2718002

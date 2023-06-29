@@ -1,0 +1,42 @@
+27370179|t|A case based reflection on communicating end of life information in non-English speaking patients
+27370179|a|Mr X was a 56 year old Chinese man (non-English speaking), who presented to the emergency department with a range of non-specific symptoms. On full workup, he was diagnosed with an advanced cancer of the pancreas. It was an aggressive, highly treatment resistant cancer, with an alarmingly poor prognosis. Before the diagnosis had been made, the family had informed our team that we were not to discuss medical issues with Mr X directly, and that upon arriving on a diagnosis we were to come to them first and they would subsequently inform him. They reported that Mr X was in support of this arrangement. Eventually we told the family about Mr X's diagnosis, and they asserted their collective will to keep this information from him, reaffirming that all medical discussion go through them. However, the doctor in charge explained the diagnosis to Mr X using an interpreter while his family were away from his bed. In this discussion, I consider this case from the perspective of respecting patients' and families' preferences around medical treatment and care.
+27370179	2	6	case	T169	C0868928
+27370179	13	23	reflection	T033	C0243095
+27370179	27	44	communicating end	T169	C0205196
+27370179	48	52	life	T078	C0376558
+27370179	53	64	information	T078	C1533716
+27370179	68	88	non-English speaking	T033	C1546417
+27370179	89	97	patients	T101	C0030705
+27370179	112	120	year old	T079	C1510829
+27370179	121	128	Chinese	T098	C0152035
+27370179	129	132	man	T098	C0025266
+27370179	134	154	non-English speaking	T033	C1546417
+27370179	178	198	emergency department	T073,T093	C0562508
+27370179	215	227	non-specific	T080	C0205370
+27370179	228	236	symptoms	T184	C1457887
+27370179	261	270	diagnosed	T033	C0011900
+27370179	279	310	advanced cancer of the pancreas	T191	C0235974
+27370179	322	332	aggressive	T191	C2945759
+27370179	341	367	treatment resistant cancer	T047	C0871547
+27370179	388	402	poor prognosis	T033	C0278252
+27370179	415	424	diagnosis	T033	C0011900
+27370179	444	450	family	T099	C0015576
+27370179	468	472	team	T058	C0086390
+27370179	501	508	medical	T169	C0205476
+27370179	509	515	issues	T033	C0033213
+27370179	564	573	diagnosis	T033	C0011900
+27370179	675	682	support	T077	C1521721
+27370179	727	733	family	T099	C0015576
+27370179	747	756	diagnosis	T033	C0011900
+27370179	782	797	collective will	UnknownType	C0680341
+27370179	811	822	information	T078	C1533716
+27370179	854	861	medical	T169	C0205476
+27370179	862	872	discussion	T061	C0557061
+27370179	903	919	doctor in charge	T097	C0031831
+27370179	934	943	diagnosis	T033	C0011900
+27370179	961	972	interpreter	T097	C0150646
+27370179	983	989	family	T099	C0015576
+27370179	1009	1012	bed	T073	C0004916
+27370179	1050	1054	case	T169	C0868928
+27370179	1079	1125	respecting patients' and families' preferences	T061	C1279750
+27370179	1133	1159	medical treatment and care	T058	C0237726

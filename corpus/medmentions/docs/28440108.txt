@@ -1,0 +1,82 @@
+28440108|t|Microbiology of the Upper and Lower Airways in Pediatric Cystic Fibrosis Patients
+28440108|a|Objective To evaluate the microbiology of the upper and lower airways in pediatric cystic fibrosis (CF) patients who underwent sinus surgery. Study Design Retrospective case series with chart review. Setting Tertiary care children's hospital. Subjects and Methods A total of 201 paired sinus and pulmonary cultures from 105 CF patients were identified between 1996 and 2014. Demographics and culture results were analyzed. Results The mean age of patients was 11.2 ± 5.4 years (range, 1-27 years), and approximately one-half were female. Methicillin - sensitive Staphylococcus aureus was the most common pathogen overall. A significantly higher prevalence of Pseudomonas aeruginosa (32% for pulmonary and 37% for sinus cultures) was observed in older patients versus younger patients (P < .001). There was low to moderate agreement between sinus and pulmonary cultures (Kappa statistic range, 0.03-0.56). The prevalence of methicillin-resistant S aureus (MRSA) increased significantly for lower respiratory tract culture (from 5% to 16%) and sinus culture (from 5% to 27%) between 1996-2004 and 2010-2014 (P = .016 and P < .001, respectively). The prevalence of positive sinus cultures increased from 40% to 85% between 1996-2004 and 2010-2014 (P = .018). Patients with pulmonary MRSA were more likely to be coinfected with pulmonary P aeruginosa (risk ratio, 2.4; 95% CI, 1.2-4.8; P = .015) or Aspergillus fumigatus (risk ratio, 2.2; 95% CI, 1.2-4.8; P = .035). Conclusions There is low to moderate correlation between pulmonary and sinus pathogens in CF patients. This is important to consider when treating infections. The prevalence of MRSA in sinus cultures has increased over time and warrants further investigation.
+28440108	0	12	Microbiology	T059	C0085672
+28440108	20	25	Upper	T030	C0225377
+28440108	30	43	Lower Airways	T039	C0231989
+28440108	47	56	Pediatric	T080	C1521725
+28440108	57	72	Cystic Fibrosis	T047	C0010674
+28440108	73	81	Patients	T101	C0030705
+28440108	155	164	pediatric	T080	C1521725
+28440108	165	180	cystic fibrosis	T047	C0010674
+28440108	182	184	CF	T047	C0010674
+28440108	186	194	patients	T101	C0030705
+28440108	209	222	sinus surgery	T061	C0748725
+28440108	237	250	Retrospective	T062	C0035363
+28440108	290	303	Tertiary care	T073,T093	C0337954
+28440108	304	323	children's hospital	T093	C0020017
+28440108	368	373	sinus	T059	C2237356
+28440108	378	396	pulmonary cultures	T059	C2020984
+28440108	406	408	CF	T047	C0010674
+28440108	409	417	patients	T101	C0030705
+28440108	457	469	Demographics	T062	C0011289
+28440108	474	481	culture	T059	C0430400
+28440108	482	489	results	T169	C1274040
+28440108	495	503	analyzed	UnknownType	C0681874
+28440108	505	512	Results	T169	C1274040
+28440108	529	537	patients	T101	C0030705
+28440108	612	618	female	T098	C0043210
+28440108	620	631	Methicillin	T109,T195	C0025643
+28440108	634	643	sensitive	T169	C0332324
+28440108	644	665	Staphylococcus aureus	T007	C0038172
+28440108	686	694	pathogen	T001	C4267729
+28440108	727	737	prevalence	T081	C0683921
+28440108	741	763	Pseudomonas aeruginosa	T007	C0033809
+28440108	773	782	pulmonary	T059	C2020984
+28440108	795	809	sinus cultures	T059	C2237356
+28440108	827	832	older	T098	C1999167
+28440108	833	841	patients	T101	C0030705
+28440108	849	856	younger	T100	C0238598
+28440108	857	865	patients	T101	C0030705
+28440108	867	868	P	T081	C0033105
+28440108	895	903	moderate	T080	C1881878
+28440108	904	913	agreement	T080	C1707520
+28440108	922	927	sinus	T059	C2237356
+28440108	932	950	pulmonary cultures	T059	C2020984
+28440108	952	957	Kappa	T170	C0439099
+28440108	958	973	statistic range	T081	C0220900
+28440108	991	1001	prevalence	T081	C0220900
+28440108	1005	1035	methicillin-resistant S aureus	T007	C1265292
+28440108	1037	1041	MRSA	T007	C1265292
+28440108	1053	1066	significantly	T081	C0237881
+28440108	1071	1102	lower respiratory tract culture	T059	C2199769
+28440108	1124	1137	sinus culture	T059	C2237356
+28440108	1188	1189	P	T081	C0033105
+28440108	1201	1202	P	T081	C0033105
+28440108	1230	1240	prevalence	T081	C0220900
+28440108	1244	1252	positive	T033	C1514241
+28440108	1253	1267	sinus cultures	T059	C2237356
+28440108	1327	1328	P	T081	C0033105
+28440108	1338	1346	Patients	T101	C0030705
+28440108	1352	1361	pulmonary	T080	C2709248
+28440108	1362	1366	MRSA	T007	C1265292
+28440108	1390	1400	coinfected	T047	C0275524
+28440108	1406	1415	pulmonary	T080	C2709248
+28440108	1416	1428	P aeruginosa	T007	C0033809
+28440108	1430	1440	risk ratio	T081	C0242492
+28440108	1451	1453	CI	T081	C0009667
+28440108	1477	1498	Aspergillus fumigatus	T004	C0004037
+28440108	1500	1510	risk ratio	T081	C0242492
+28440108	1521	1523	CI	T081	C0009667
+28440108	1573	1581	moderate	T080	C1881878
+28440108	1582	1593	correlation	T080	C1707520
+28440108	1602	1611	pulmonary	T080	C2709248
+28440108	1616	1621	sinus	T030	C0030471
+28440108	1622	1631	pathogens	T001	C4267729
+28440108	1635	1637	CF	T047	C0010674
+28440108	1638	1646	patients	T101	C0030705
+28440108	1683	1691	treating	T061	C0087111
+28440108	1692	1702	infections	T046	C3714514
+28440108	1708	1718	prevalence	T081	C0220900
+28440108	1722	1726	MRSA	T007	C1265292
+28440108	1730	1744	sinus cultures	T059	C2237356
+28440108	1790	1803	investigation	T058	C0220825

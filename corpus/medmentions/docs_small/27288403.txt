@@ -1,0 +1,30 @@
+27288403|t|Transcription rate and transcript length drive formation of chromosomal interaction domain boundaries
+27288403|a|Chromosomes in all organisms are highly organized and divided into multiple chromosomal interaction domains, or topological domains. Regions of active, high transcription help establish and maintain domain boundaries, but precisely how this occurs remains unclear. Here, using fluorescence microscopy and chromosome conformation capture in conjunction with deep sequencing (Hi-C), we show that in Caulobacter crescentus, both transcription rate and transcript length, independent of concurrent translation, drive the formation of domain boundaries. We find that long, highly expressed genes do not form topological boundaries simply through the inhibition of supercoil diffusion. Instead, our results support a model in which long, active regions of transcription drive local decompaction of the chromosome, with these more open regions of the chromosome forming spatial gaps in vivo that diminish contacts between DNA in neighboring domains. These insights into the molecular forces responsible for domain formation in Caulobacter likely generalize to other bacteria and possibly eukaryotes.
+27288403	0	13	Transcription	T038	UMLS:C0040649
+27288403	23	33	transcript	T103	UMLS:C1519595
+27288403	60	101	chromosomal interaction domain boundaries	T017	UMLS:C1953345
+27288403	102	113	Chromosomes	T017	UMLS:C0008633
+27288403	178	209	chromosomal interaction domains	T017	UMLS:C1953345
+27288403	214	233	topological domains	T017	UMLS:C1953345
+27288403	259	272	transcription	T038	UMLS:C0040649
+27288403	301	318	domain boundaries	T017	UMLS:C1953345
+27288403	379	402	fluorescence microscopy	T058	UMLS:C0026022
+27288403	459	474	deep sequencing	T062	UMLS:C2936624
+27288403	499	521	Caulobacter crescentus	T007	UMLS:C0085449
+27288403	528	541	transcription	T038	UMLS:C0040649
+27288403	551	561	transcript	T103	UMLS:C1519595
+27288403	596	607	translation	T038	UMLS:C1519614
+27288403	632	649	domain boundaries	T017	UMLS:C1953345
+27288403	687	692	genes	T017	UMLS:C0017337
+27288403	705	727	topological boundaries	T017	UMLS:C1953345
+27288403	813	818	model	T170	UMLS:C0026343
+27288403	852	865	transcription	T038	UMLS:C0040649
+27288403	931	956	regions of the chromosome	T017	UMLS:C1953345
+27288403	965	977	spatial gaps	T082	UMLS:C3887622
+27288403	978	985	in vivo	T082	UMLS:C1515655
+27288403	1017	1020	DNA	T103	UMLS:C0012854
+27288403	1036	1043	domains	T017	UMLS:C1953345
+27288403	1102	1108	domain	T017	UMLS:C1953345
+27288403	1122	1133	Caulobacter	T007	UMLS:C0085448
+27288403	1161	1169	bacteria	T007	UMLS:C0004611
+27288403	1183	1193	eukaryotes	T204	UMLS:C0684063

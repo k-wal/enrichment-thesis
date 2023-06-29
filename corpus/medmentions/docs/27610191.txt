@@ -1,0 +1,95 @@
+27610191|t|Fully Automated Lipid Pool Detection Using Near Infrared Spectroscopy
+27610191|a|Background. Detecting and identifying vulnerable plaque, which is prone to rupture, is still a challenge for cardiologist. Such lipid core -containing plaque is still not identifiable by everyday angiography, thus triggering the need to develop a new tool where NIRS - IVUS can visualize plaque characterization in terms of its chemical and morphologic characteristic. The new tool can lead to the development of new methods of interpreting the newly obtained data. In this study, the algorithm to fully automated lipid pool detection on NIRS images is proposed. Method. Designed algorithm is divided into four stages: preprocessing (image enhancement), segmentation of artifacts, detection of lipid areas, and calculation of Lipid Core Burden Index. Results. A total of 31 NIRS chemograms were analyzed by two methods. The metrics, total LCBI, maximal LCBI in 4 mm blocks, and maximal LCBI in 2 mm blocks, were calculated to compare presented algorithm with commercial available system. Both intraclass correlation (ICC) and Bland-Altman plots showed good agreement and correlation between used methods. Conclusions. Proposed algorithm is fully automated lipid pool detection on near infrared spectroscopy images. It is a tool developed for offline data analysis, which could be easily augmented for newer functions and projects.
+27610191	6	15	Automated	T169	C0205554
+27610191	16	21	Lipid	T109	C0023779
+27610191	22	26	Pool	T169	C2349200
+27610191	27	36	Detection	T061	C1511790
+27610191	43	69	Near Infrared Spectroscopy	T059	C0376519
+27610191	82	91	Detecting	T033	C0442726
+27610191	96	107	identifying	T080	C0205396
+27610191	108	118	vulnerable	T169	C0231204
+27610191	119	125	plaque	T033	C0332461
+27610191	145	152	rupture	T037	C3203359
+27610191	165	174	challenge	T058	C0805586
+27610191	179	191	cardiologist	T097	C0175906
+27610191	198	203	lipid	T109	C0023779
+27610191	204	208	core	T082	C0444669
+27610191	221	227	plaque	T033	C0332461
+27610191	237	253	not identifiable	T080	C1709276
+27610191	257	265	everyday	T079	C0332173
+27610191	266	277	angiography	T060	C0002978
+27610191	284	294	triggering	T080	C1444748
+27610191	299	303	need	T080	C0027552
+27610191	307	314	develop	T169	C1527148
+27610191	332	336	NIRS	T059	C0376519
+27610191	339	343	IVUS	T060	C1456025
+27610191	358	364	plaque	T033	C0332461
+27610191	365	381	characterization	T052	C1880022
+27610191	398	406	chemical	T185	C0243175
+27610191	411	422	morphologic	T082	C0543482
+27610191	423	437	characteristic	T080	C1521970
+27610191	468	479	development	T169	C1527148
+27610191	487	494	methods	T170	C0025663
+27610191	498	510	interpreting	T169	C1285553
+27610191	530	534	data	T078	C1511726
+27610191	544	549	study	T062	C2603343
+27610191	555	564	algorithm	T170	C0002045
+27610191	574	583	automated	T169	C0205554
+27610191	584	589	lipid	T109	C0023779
+27610191	590	594	pool	T169	C2349200
+27610191	595	604	detection	T061	C1511790
+27610191	608	612	NIRS	T059	C0376519
+27610191	613	619	images	T170	C1704922
+27610191	623	631	proposed	T080	C1553874
+27610191	633	639	Method	T170	C0025663
+27610191	641	649	Designed	T052	C1707689
+27610191	650	659	algorithm	T170	C0002045
+27610191	681	687	stages	T079	C1306673
+27610191	689	702	preprocessing	T052	C1709694
+27610191	704	721	image enhancement	T066	C0020909
+27610191	724	736	segmentation	T058	C0700381
+27610191	740	749	artifacts	T068	C0085089
+27610191	751	760	detection	T061	C1511790
+27610191	764	769	lipid	T109	C0023779
+27610191	770	775	areas	T082	C0205146
+27610191	781	792	calculation	T052	C1441506
+27610191	796	801	Lipid	T109	C0023779
+27610191	802	806	Core	T082	C0444669
+27610191	807	813	Burden	T078	C2828008
+27610191	814	819	Index	T170	C0918012
+27610191	821	828	Results	T169	C1274040
+27610191	844	848	NIRS	T059	C0376519
+27610191	849	859	chemograms	T059	C0022885
+27610191	865	873	analyzed	T062	C0936012
+27610191	881	888	methods	T170	C0025663
+27610191	909	913	LCBI	T170	C0918012
+27610191	915	922	maximal	T080	C0205289
+27610191	923	927	LCBI	T170	C0918012
+27610191	936	942	blocks	T167	C1533157
+27610191	948	955	maximal	T080	C0205289
+27610191	956	960	LCBI	T170	C0918012
+27610191	969	975	blocks	T167	C1533157
+27610191	982	992	calculated	T169	C0444686
+27610191	1014	1023	algorithm	T170	C0002045
+27610191	1029	1039	commercial	T170	C0680536
+27610191	1040	1049	available	T169	C0470187
+27610191	1050	1056	system	T169	C0449913
+27610191	1063	1085	intraclass correlation	T080	C1707520
+27610191	1087	1090	ICC	T080	C1707520
+27610191	1096	1114	Bland-Altman plots	T081	C0392762
+27610191	1141	1152	correlation	T080	C1707520
+27610191	1166	1173	methods	T170	C0025663
+27610191	1175	1186	Conclusions	T078	C1707478
+27610191	1188	1196	Proposed	T080	C1553874
+27610191	1197	1206	algorithm	T170	C0002045
+27610191	1216	1225	automated	T169	C0205554
+27610191	1226	1231	lipid	T109	C0023779
+27610191	1232	1236	pool	T169	C2349200
+27610191	1237	1246	detection	T061	C1511790
+27610191	1250	1276	near infrared spectroscopy	T059	C0376519
+27610191	1277	1283	images	T170	C1704922
+27610191	1298	1307	developed	T169	C1527148
+27610191	1320	1333	data analysis	T057	C0010992
+27610191	1357	1366	augmented	T081	C0205217
+27610191	1377	1386	functions	T169	C0542341
+27610191	1391	1399	projects	T077	C1709701

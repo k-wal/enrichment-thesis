@@ -1,0 +1,47 @@
+20477932|t|Cocaine causes memory and learning impairments in rats: involvement of nuclear factor kappa B and oxidative stress, and prevention by topiramate.
+20477932|a|Different mechanisms have been suggested for cocaine toxicity including an increase in oxidative stress but the association between oxidative status in the brain and cocaine induced-behaviour is poorly understood. Nuclear factor kappa B (NFkappaB) is a sensor of oxidative stress and participates in memory formation that could be involved in drug toxicity and addiction mechanisms. Therefore NFkappaB activity, oxidative stress, neuronal nitric oxide synthase (nNOS) activity, spatial learning and memory as well as the effect of topiramate, a previously proposed therapy for cocaine addiction, were evaluated in an experimental model of cocaine administration in rats. NFkappaB activity was decreased in the frontal cortex of cocaine treated rats, as well as GSH concentration and glutathione peroxidase activity in the hippocampus, whereas nNOS activity in the hippocampus was increased. Memory retrieval of experiences acquired prior to cocaine administration was impaired and negatively correlated with NFkappaB activity in the frontal cortex. In contrast, learning of new tasks was enhanced and correlated with the increase of nNOS activity and the decrease of glutathione peroxidase. These results provide evidence for a possible mechanistic role of oxidative and nitrosative stress and NFkappaB in the alterations induced by cocaine. Topiramate prevented all the alterations observed, showing novel neuroprotective properties.
+20477932	0	7	Cocaine	ChemicalEntity	D003042
+20477932	15	46	memory and learning impairments	DiseaseOrPhenotypicFeature	D007859,D008569
+20477932	50	54	rats	OrganismTaxon	10116
+20477932	71	93	nuclear factor kappa B	GeneOrGeneProduct	81736
+20477932	134	144	topiramate	ChemicalEntity	D000077236
+20477932	191	198	cocaine	ChemicalEntity	D003042
+20477932	199	207	toxicity	DiseaseOrPhenotypicFeature	D064420
+20477932	312	319	cocaine	ChemicalEntity	D003042
+20477932	360	382	Nuclear factor kappa B	GeneOrGeneProduct	81736
+20477932	384	392	NFkappaB	GeneOrGeneProduct	81736
+20477932	494	502	toxicity	DiseaseOrPhenotypicFeature	D064420
+20477932	539	547	NFkappaB	GeneOrGeneProduct	81736
+20477932	576	606	neuronal nitric oxide synthase	GeneOrGeneProduct	24598
+20477932	608	612	nNOS	GeneOrGeneProduct	24598
+20477932	677	687	topiramate	ChemicalEntity	D000077236
+20477932	723	740	cocaine addiction	DiseaseOrPhenotypicFeature	D019970
+20477932	785	792	cocaine	ChemicalEntity	D003042
+20477932	811	815	rats	OrganismTaxon	10116
+20477932	817	825	NFkappaB	GeneOrGeneProduct	81736
+20477932	874	881	cocaine	ChemicalEntity	D003042
+20477932	890	894	rats	OrganismTaxon	10116
+20477932	907	910	GSH	ChemicalEntity	D005978
+20477932	929	951	glutathione peroxidase	GeneOrGeneProduct	2876
+20477932	989	993	nNOS	GeneOrGeneProduct	24598
+20477932	1087	1094	cocaine	ChemicalEntity	D003042
+20477932	1154	1162	NFkappaB	GeneOrGeneProduct	81736
+20477932	1279	1283	nNOS	GeneOrGeneProduct	24598
+20477932	1313	1335	glutathione peroxidase	GeneOrGeneProduct	2876
+20477932	1440	1448	NFkappaB	GeneOrGeneProduct	81736
+20477932	1479	1486	cocaine	ChemicalEntity	D003042
+20477932	1488	1498	Topiramate	ChemicalEntity	D000077236
+20477932	Association	D005978	81736	Novel
+20477932	Association	24598	D005978	Novel
+20477932	Association	24598	2876	Novel
+20477932	Positive_Correlation	24598	D003042	Novel
+20477932	Negative_Correlation	81736	24598	Novel
+20477932	Association	81736	2876	Novel
+20477932	Negative_Correlation	81736	D003042	Novel
+20477932	Negative_Correlation	D000077236	D019970	No
+20477932	Negative_Correlation	D000077236	D008569	Novel
+20477932	Negative_Correlation	D000077236	D007859	Novel
+20477932	Association	D003042	2876	Novel
+20477932	Negative_Correlation	D003042	D000077236	Novel
+20477932	Positive_Correlation	D003042	D008569	No
+20477932	Positive_Correlation	D003042	D007859	No

@@ -1,0 +1,50 @@
+27773722|t|Prediction of pharmacokinetic and toxicological parameters of a 4-phenylcoumarin isolated from geopropolis: In silico and in vitro approaches
+27773722|a|In silico and in vitro methodologies have been used as important tools in the drug discovery process, including from natural sources. The aim of this study was to predict pharmacokinetic and toxicity (ADME / Tox) properties of a coumarin isolated from geopropolis using in silico and in vitro approaches. Cinnamoyloxy-mammeisin (CNM) isolated from Brazilian M. scutellaris geopropolis was evaluated for its pharmacokinetic parameters by in silico models (ACD/Percepta™ and MetaDrug™ software). Genotoxicity was assessed by in vitro DNA damage signaling PCR array. CNM did not pass all parameters of Lipinski's rule of five, with a predicted low oral bioavailability and high plasma protein binding, but with good predicted blood brain barrier penetration. CNM was predicted to show low affinity to cytochrome P450 family members. Furthermore, the predicted Ames test indicated potential mutagenicity of CNM. Also, the probability of toxicity for organs and tissues was classified as moderate and high for liver and kidney, and moderate and low for skin and eye irritation, respectively. The PCR array analysis showed that CNM significantly upregulated about 7% of all DNA damage-related genes. By exploring the biological function of these genes, it was found that the predicted CNM genotoxicity is likely to be mediated by apoptosis. The predicted ADME / Tox profile suggests that external use of CNM may be preferable to systemic exposure, while its genotoxicity was characterized by the upregulation of apoptosis-related genes after treatment. The combined use of in silico and in vitro approaches to evaluate these parameters generated useful hypotheses to guide further preclinical studies.
+27773722	64	80	4-phenylcoumarin	T103	UMLS:C0299275
+27773722	95	106	geopropolis	T103	UMLS:C1254351
+27773722	220	234	drug discovery	T062	UMLS:C0920472
+27773722	259	274	natural sources	T033	UMLS:C0243095
+27773722	292	297	study	T062	UMLS:C2603343
+27773722	343	347	ADME	T062	UMLS:C1510686
+27773722	371	379	coumarin	T103	UMLS:C0010206
+27773722	394	405	geopropolis	T103	UMLS:C1254351
+27773722	447	469	Cinnamoyloxy-mammeisin	T103	UMLS:C1254351
+27773722	471	474	CNM	T103	UMLS:C1254351
+27773722	490	499	Brazilian	T082	UMLS:C0006137
+27773722	500	514	M. scutellaris	T204	UMLS:C1499394
+27773722	515	526	geopropolis	T103	UMLS:C1254351
+27773722	597	610	ACD/Percepta™	T170	UMLS:C0282574
+27773722	615	633	MetaDrug™ software	T170	UMLS:C0282574
+27773722	674	684	DNA damage	T038	UMLS:C0012860
+27773722	695	704	PCR array	T062	UMLS:C3899376
+27773722	706	709	CNM	T103	UMLS:C1254351
+27773722	727	737	parameters	T170	UMLS:C0282574
+27773722	741	764	Lipinski's rule of five	T170	UMLS:C0282574
+27773722	787	791	oral	T082	UMLS:C0442027
+27773722	817	839	plasma protein binding	T038	UMLS:C0032119
+27773722	898	901	CNM	T103	UMLS:C1254351
+27773722	940	962	cytochrome P450 family	T103	UMLS:C0010762
+27773722	1045	1048	CNM	T103	UMLS:C1254351
+27773722	1088	1094	organs	T017	UMLS:C0178784
+27773722	1099	1106	tissues	T017	UMLS:C0040300
+27773722	1147	1152	liver	T017	UMLS:C0023884
+27773722	1157	1163	kidney	T017	UMLS:C0022646
+27773722	1190	1194	skin	T033	UMLS:C0152030
+27773722	1199	1213	eye irritation	T033	UMLS:C0235266
+27773722	1233	1242	PCR array	T062	UMLS:C3899376
+27773722	1264	1267	CNM	T103	UMLS:C1254351
+27773722	1282	1293	upregulated	T038	UMLS:C0041904
+27773722	1310	1328	DNA damage-related	T038	UMLS:C0012860
+27773722	1329	1334	genes	T017	UMLS:C0017337
+27773722	1353	1372	biological function	T038	UMLS:C3714634
+27773722	1382	1387	genes	T017	UMLS:C0017337
+27773722	1421	1424	CNM	T103	UMLS:C1254351
+27773722	1466	1475	apoptosis	T038	UMLS:C0162638
+27773722	1491	1495	ADME	T062	UMLS:C1510686
+27773722	1540	1543	CNM	T103	UMLS:C1254351
+27773722	1632	1644	upregulation	T038	UMLS:C0041904
+27773722	1648	1665	apoptosis-related	T038	UMLS:C0162638
+27773722	1666	1671	genes	T017	UMLS:C0017337
+27773722	1678	1687	treatment	T058	UMLS:C0087111
+27773722	1761	1771	parameters	T170	UMLS:C0282574
+27773722	1817	1836	preclinical studies	T062	UMLS:C1709631

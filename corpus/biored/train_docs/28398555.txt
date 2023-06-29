@@ -1,0 +1,46 @@
+28398555|t|Biophysical and functional characterization of hippocalcin mutants responsible for human dystonia.
+28398555|a|Dystonia is a neurological movement disorder that forces the body into twisting, repetitive movements or sometimes painful abnormal postures. With the advent of next-generation sequencing technologies, the homozygous mutations T71N and A190T in the neuronal calcium sensor (NCS) hippocalcin were identified as the genetic cause of primary isolated dystonia (DYT2 dystonia). However, the effect of these mutations on the physiological role of hippocalcin has not yet been elucidated. Using a multidisciplinary approach, we demonstrated that hippocalcin oligomerises in a calcium-dependent manner and binds to voltage-gated calcium channels. Mutations T71N and A190T in hippocalcin did not affect stability, calcium-binding affinity or translocation to cellular membranes (Ca2+/myristoyl switch). We obtained the first crystal structure of hippocalcin and alignment with other NCS proteins showed significant variability in the orientation of the C-terminal part of the molecule, the region expected to be important for target binding. We demonstrated that the disease-causing mutations did not affect the structure of the protein, however both mutants showed a defect in oligomerisation. In addition, we observed an increased calcium influx in KCl-depolarised cells expressing mutated hippocalcin, mostly driven by N-type voltage-gated calcium channels. Our data demonstrate that the dystonia-causing mutations strongly affect hippocalcin cellular functions which suggest a central role for perturbed calcium signalling in DYT2 dystonia.
+28398555	47	58	hippocalcin	GeneOrGeneProduct	3208
+28398555	83	88	human	OrganismTaxon	9606
+28398555	89	97	dystonia	DiseaseOrPhenotypicFeature	D004421
+28398555	99	107	Dystonia	DiseaseOrPhenotypicFeature	D004421
+28398555	113	143	neurological movement disorder	DiseaseOrPhenotypicFeature	D009069
+28398555	326	330	T71N	SequenceVariant	rs775863165
+28398555	335	340	A190T	SequenceVariant	rs550921485
+28398555	348	371	neuronal calcium sensor	GeneOrGeneProduct	3208
+28398555	373	376	NCS	GeneOrGeneProduct	3208
+28398555	378	389	hippocalcin	GeneOrGeneProduct	3208
+28398555	430	455	primary isolated dystonia	DiseaseOrPhenotypicFeature	D004421
+28398555	457	461	DYT2	GeneOrGeneProduct	3208
+28398555	462	470	dystonia	DiseaseOrPhenotypicFeature	D004421
+28398555	541	552	hippocalcin	GeneOrGeneProduct	3208
+28398555	639	650	hippocalcin	GeneOrGeneProduct	3208
+28398555	669	676	calcium	ChemicalEntity	D002118
+28398555	707	737	voltage-gated calcium channels	GeneOrGeneProduct	783
+28398555	749	753	T71N	SequenceVariant	rs775863165
+28398555	758	763	A190T	SequenceVariant	rs550921485
+28398555	767	778	hippocalcin	GeneOrGeneProduct	3208
+28398555	805	812	calcium	ChemicalEntity	D002118
+28398555	870	874	Ca2+	ChemicalEntity	D000069285
+28398555	937	948	hippocalcin	GeneOrGeneProduct	3208
+28398555	974	977	NCS	GeneOrGeneProduct	3208
+28398555	1324	1331	calcium	ChemicalEntity	D002118
+28398555	1342	1345	KCl	ChemicalEntity	D011189
+28398555	1383	1394	hippocalcin	GeneOrGeneProduct	3208
+28398555	1413	1450	N-type voltage-gated calcium channels	GeneOrGeneProduct	774
+28398555	1482	1490	dystonia	DiseaseOrPhenotypicFeature	D004421
+28398555	1525	1536	hippocalcin	GeneOrGeneProduct	3208
+28398555	1599	1606	calcium	ChemicalEntity	D002118
+28398555	1621	1625	DYT2	GeneOrGeneProduct	3208
+28398555	1626	1634	dystonia	DiseaseOrPhenotypicFeature	D004421
+28398555	Positive_Correlation	774	D002118	Novel
+28398555	Association	D011189	774	No
+28398555	Association	D002118	D011189	Novel
+28398555	Association	D002118	D004421	Novel
+28398555	Positive_Correlation	D004421	rs550921485	No
+28398555	Positive_Correlation	D004421	rs775863165	No
+28398555	Association	3208	774	No
+28398555	Association	3208	D011189	No
+28398555	Positive_Correlation	3208	D002118	Novel
+28398555	Bind	3208	783	Novel
+28398555	Association	3208	D004421	Novel

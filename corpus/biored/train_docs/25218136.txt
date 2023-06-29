@@ -1,0 +1,79 @@
+25218136|t|Sepsis-induced changes in amino acid transporters and leucine signaling via mTOR in skeletal muscle.
+25218136|a|The present study tested the hypothesis that sepsis-induced leucine (Leu) resistance in skeletal muscle is associated with a down-regulation of amino acid transporters important in regulating Leu flux or an impairment in the formation of the Leu-sensitive mTOR-Ragulator complex. Sepsis in adult male rats decreased basal protein synthesis in gastrocnemius, associated with a reduction in mTOR activation as indicated by decreased 4E-BP1 and S6K1 phosphorylation. The ability of oral Leu to increase protein synthesis and mTOR kinase after 1 h was largely prevented in sepsis. Sepsis increased CAT1, LAT2 and SNAT2 mRNA content two- to fourfold, but only the protein content for CAT1 (20 % decrease) differed significantly. Conversely, sepsis decreased the proton-assisted amino acid transporter (PAT)-2 mRNA by 60 %, but without a coordinate change in PAT2 protein. There was no sepsis or Leu effect on the protein content for RagA-D, LAMTOR-1 and -2, raptor, Rheb or mTOR in muscle. The binding of mTOR, PRAS40 and RagC to raptor did not differ for control and septic muscle in the basal condition; however, the Leu-induced decrease in PRAS40 raptor and increase in RagC raptor seen in control muscle was absent in sepsis. The intracellular Leu concentration was increased in septic muscle, compared to basal control conditions, and oral Leu further increased the intracellular Leu concentration similarly in both control and septic rats. Hence, while alterations in select amino acid transporters are not associated with development of sepsis-induced Leu resistance, the Leu-stimulated binding of raptor with RagC and the recruitment of mTOR/raptor to the endosome-lysosomal compartment may partially explain the inability of Leu to fully activate mTOR and muscle protein synthesis.
+25218136	0	6	Sepsis	DiseaseOrPhenotypicFeature	D018805
+25218136	26	49	amino acid transporters	GeneOrGeneProduct	246235,25648,29642,84551
+25218136	54	61	leucine	ChemicalEntity	D007930
+25218136	76	80	mTOR	GeneOrGeneProduct	56718
+25218136	146	152	sepsis	DiseaseOrPhenotypicFeature	D018805
+25218136	161	168	leucine	ChemicalEntity	D007930
+25218136	170	173	Leu	ChemicalEntity	D007930
+25218136	245	268	amino acid transporters	GeneOrGeneProduct	246235,25648,29642,84551
+25218136	293	296	Leu	ChemicalEntity	D007930
+25218136	343	346	Leu	ChemicalEntity	D007930
+25218136	357	361	mTOR	GeneOrGeneProduct	56718
+25218136	362	379	Ragulator complex	GeneOrGeneProduct	295234,308869
+25218136	381	387	Sepsis	DiseaseOrPhenotypicFeature	D018805
+25218136	402	406	rats	OrganismTaxon	10116
+25218136	490	494	mTOR	GeneOrGeneProduct	56718
+25218136	532	538	4E-BP1	GeneOrGeneProduct	116636
+25218136	543	547	S6K1	GeneOrGeneProduct	83840
+25218136	585	588	Leu	ChemicalEntity	D007930
+25218136	623	627	mTOR	GeneOrGeneProduct	56718
+25218136	670	676	sepsis	DiseaseOrPhenotypicFeature	D018805
+25218136	678	684	Sepsis	DiseaseOrPhenotypicFeature	D018805
+25218136	695	699	CAT1	GeneOrGeneProduct	25648
+25218136	701	705	LAT2	GeneOrGeneProduct	84551
+25218136	710	715	SNAT2	GeneOrGeneProduct	29642
+25218136	780	784	CAT1	GeneOrGeneProduct	25648
+25218136	837	843	sepsis	DiseaseOrPhenotypicFeature	D018805
+25218136	858	904	proton-assisted amino acid transporter (PAT)-2	GeneOrGeneProduct	246235
+25218136	954	958	PAT2	GeneOrGeneProduct	246235
+25218136	981	987	sepsis	DiseaseOrPhenotypicFeature	D018805
+25218136	991	994	Leu	ChemicalEntity	D007930
+25218136	1029	1035	RagA-D	GeneOrGeneProduct	117043,117044,297960,298514
+25218136	1037	1052	LAMTOR-1 and -2	GeneOrGeneProduct	295234,308869
+25218136	1054	1060	raptor	GeneOrGeneProduct	287871
+25218136	1062	1066	Rheb	GeneOrGeneProduct	26954
+25218136	1070	1074	mTOR	GeneOrGeneProduct	56718
+25218136	1101	1105	mTOR	GeneOrGeneProduct	56718
+25218136	1107	1113	PRAS40	GeneOrGeneProduct	292887
+25218136	1118	1122	RagC	GeneOrGeneProduct	298514
+25218136	1126	1132	raptor	GeneOrGeneProduct	287871
+25218136	1215	1218	Leu	ChemicalEntity	D007930
+25218136	1239	1245	PRAS40	GeneOrGeneProduct	292887
+25218136	1246	1252	raptor	GeneOrGeneProduct	287871
+25218136	1269	1273	RagC	GeneOrGeneProduct	298514
+25218136	1274	1280	raptor	GeneOrGeneProduct	287871
+25218136	1318	1324	sepsis	DiseaseOrPhenotypicFeature	D018805
+25218136	1344	1347	Leu	ChemicalEntity	D007930
+25218136	1441	1444	Leu	ChemicalEntity	D007930
+25218136	1481	1484	Leu	ChemicalEntity	D007930
+25218136	1536	1540	rats	OrganismTaxon	10116
+25218136	1577	1600	amino acid transporters	GeneOrGeneProduct	246235,25648,29642,84551
+25218136	1640	1646	sepsis	DiseaseOrPhenotypicFeature	D018805
+25218136	1655	1658	Leu	ChemicalEntity	D007930
+25218136	1675	1678	Leu	ChemicalEntity	D007930
+25218136	1701	1707	raptor	GeneOrGeneProduct	287871
+25218136	1713	1717	RagC	GeneOrGeneProduct	298514
+25218136	1741	1745	mTOR	GeneOrGeneProduct	56718
+25218136	1746	1752	raptor	GeneOrGeneProduct	287871
+25218136	1830	1833	Leu	ChemicalEntity	D007930
+25218136	1852	1856	mTOR	GeneOrGeneProduct	56718
+25218136	Bind	292887	287871	No
+25218136	Bind	287871	298514	No
+25218136	Association	D007930	308869	No
+25218136	Association	D007930	295234	No
+25218136	Positive_Correlation	D007930	298514	Novel
+25218136	Negative_Correlation	D007930	292887	Novel
+25218136	Association	D007930	287871	Novel
+25218136	Association	D007930	D018805	Novel
+25218136	Positive_Correlation	D007930	56718	Novel
+25218136	Association	D018805	29642	Novel
+25218136	Association	D018805	84551	Novel
+25218136	Association	D018805	25648	Novel
+25218136	Negative_Correlation	D018805	56718	Novel
+25218136	Association	56718	308869	No
+25218136	Association	56718	295234	No
+25218136	Bind	56718	287871	No
+25218136	Association	56718	83840	Novel
+25218136	Association	56718	116636	Novel

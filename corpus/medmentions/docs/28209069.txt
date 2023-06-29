@@ -1,0 +1,94 @@
+28209069|t|Patterns of care and survival outcomes of palliative radiation for prostate cancer with bone metastases: comparison of ≤5 fractions to ≥10 fractions
+28209069|a|To review the palliative radiation fractionation regimens, trends and survival of men within the National Cancer Database (NCDB) diagnosed with prostate cancer and bony metastases. A total of 3,871 patients from the NCDB were included in the analysis (patients treated from 2004-2012). The following fractionation regimens were analyzed [8 Gy × 1, 4 Gy × 5 (short course radiation therapy)], were compared to 3 Gy × 10, 2.50 Gy × 14-15 and 2 Gy × 20-30 (long course radiation therapy). Descriptive statistics, multivariable logistic regression and multivariable cox regression analysis were utilized to assess the data. Longer fractionation schemes were used for 91.7% of patients. Treatment at an academic center (OR, 2.93), increasing distance from treatment center (OR, 1.48-1.59), treatment to the ribs (OR, 2.47), and year of diagnosis 2009 or later (OR, 2.31-3.26) were associated with an increased likelihood of receiving short course radiation, while treatment to the spine (OR, 0.34) was associated with a decreased likelihood of short course radiation. On multivariable analysis, longer course of radiation was associated with increased overall survival (HR =0.66; 95% CI: 0.56-0.78, P<0.001.). However, on landmark analysis this difference disappeared once limiting the survival analysis to men who survived ≥18 months [HR =0.83; 95% CI: 0.62-1.11, P=0.21]. Fractionation schemes of ≥10 treatments remain the dominant palliative course of radiation therapy offered for metastatic prostate cancer. However, utilization of ≤5 fractions is slowly increasing, particularly at academic centers.
+28209069	0	8	Patterns	T082	C0449774
+28209069	12	16	care	T052	C1947933
+28209069	21	29	survival	T052	C0038952
+28209069	30	38	outcomes	T169	C1274040
+28209069	42	62	palliative radiation	T061	C3898008
+28209069	67	82	prostate cancer	T191	C0376358
+28209069	88	103	bone metastases	T191	C0153690
+28209069	105	115	comparison	T052	C1707455
+28209069	122	131	fractions	T081	C1264633
+28209069	139	148	fractions	T081	C1264633
+28209069	152	158	review	T078	C1552617
+28209069	163	206	palliative radiation fractionation regimens	T061	C3641903
+28209069	208	214	trends	T079	C0040833
+28209069	219	227	survival	T052	C0038952
+28209069	231	234	men	T098	C0025266
+28209069	246	270	National Cancer Database	T170	C1140271
+28209069	272	276	NCDB	T170	C1140271
+28209069	278	287	diagnosed	T033	C0011900
+28209069	293	308	prostate cancer	T191	C0376358
+28209069	313	328	bony metastases	T191	C0153690
+28209069	332	337	total	T080	C0439810
+28209069	347	355	patients	T101	C0030705
+28209069	365	369	NCDB	T170	C1140271
+28209069	375	383	included	T169	C0332257
+28209069	391	399	analysis	T062	C0936012
+28209069	401	409	patients	T101	C0030705
+28209069	410	417	treated	T169	C1522326
+28209069	449	471	fractionation regimens	T061	C3161031
+28209069	477	485	analyzed	T062	C0936012
+28209069	507	519	short course	T079	C1827662
+28209069	520	537	radiation therapy	T061	C1522449
+28209069	546	554	compared	T052	C1707455
+28209069	603	614	long course	T079	C1254367
+28209069	615	632	radiation therapy	T061	C1522449
+28209069	635	657	Descriptive statistics	T062	C1710191
+28209069	659	692	multivariable logistic regression	T062	C0206031
+28209069	697	734	multivariable cox regression analysis	T170	C0034980
+28209069	752	758	assess	T052	C1516048
+28209069	763	767	data	T078	C1511726
+28209069	769	775	Longer	T080	C0205166
+28209069	776	797	fractionation schemes	T061	C3161031
+28209069	821	829	patients	T101	C0030705
+28209069	831	840	Treatment	T061	C0087111
+28209069	847	862	academic center	T073,T093	C0000872
+28209069	864	866	OR	T081	C0028873
+28209069	875	885	increasing	T169	C0442808
+28209069	886	894	distance	T081	C0012751
+28209069	900	916	treatment center	T073,T093	C0000872
+28209069	918	920	OR	T081	C0028873
+28209069	934	943	treatment	T061	C0087111
+28209069	951	955	ribs	T023	C0035561
+28209069	957	959	OR	T081	C0028873
+28209069	972	976	year	T079	C0439234
+28209069	980	989	diagnosis	T033	C0011900
+28209069	1005	1007	OR	T081	C0028873
+28209069	1025	1040	associated with	T080	C0332281
+28209069	1044	1053	increased	T081	C0205217
+28209069	1054	1064	likelihood	T081	C0033204
+28209069	1068	1077	receiving	T080	C1514756
+28209069	1078	1090	short course	T079	C1827662
+28209069	1091	1100	radiation	T070	C0851346
+28209069	1108	1117	treatment	T061	C0087111
+28209069	1132	1134	OR	T081	C0028873
+28209069	1146	1161	associated with	T080	C0332281
+28209069	1164	1173	decreased	T081	C0205216
+28209069	1174	1184	likelihood	T081	C0033204
+28209069	1188	1200	short course	T079	C1827662
+28209069	1201	1210	radiation	T070	C0851346
+28209069	1215	1237	multivariable analysis	T081	C0026777
+28209069	1239	1252	longer course	T079	C1254367
+28209069	1256	1265	radiation	T070	C0851346
+28209069	1270	1285	associated with	T080	C0332281
+28209069	1286	1295	increased	T081	C0205217
+28209069	1296	1312	overall survival	T081	C4086681
+28209069	1314	1316	HR	T081	C2985465
+28209069	1328	1330	CI	T081	C0009667
+28209069	1366	1383	landmark analysis	T062	C0936012
+28209069	1389	1399	difference	T081	C1705241
+28209069	1417	1425	limiting	T169	C0439801
+28209069	1430	1447	survival analysis	T062	C0038953
+28209069	1451	1454	men	T098	C0025266
+28209069	1472	1478	months	T079	C0439231
+28209069	1480	1482	HR	T081	C2985465
+28209069	1494	1496	CI	T081	C0009667
+28209069	1518	1539	Fractionation schemes	T061	C3161031
+28209069	1547	1557	treatments	T061	C0087111
+28209069	1569	1577	dominant	T169	C1527180
+28209069	1578	1616	palliative course of radiation therapy	T061	C0475092
+28209069	1629	1655	metastatic prostate cancer	T191	C0347001
+28209069	1684	1693	fractions	T081	C1264633
+28209069	1704	1714	increasing	T169	C0442808
+28209069	1732	1748	academic centers	T073,T093	C0000872

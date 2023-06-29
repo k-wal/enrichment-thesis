@@ -1,0 +1,27 @@
+27707793|t|MicroRNA deep sequencing in two adult stem cell populations identifies miR-501 as a novel regulator of myosin heavy chain during muscle regeneration.
+27707793|a|MicroRNAs (miRNAs) are important regulators of skeletal muscle regeneration, but the underlying mechanisms are still incompletely understood. Here, comparative miRNA sequencing analysis of myogenic progenitor cells (MPs) and non-myogenic fibroblast-adipocyte progenitors (FAPs) during cardiotoxin (CTX)-induced muscle injury uncovered miR-501 as a novel muscle-specific miRNA. miR-501 is an intronic miRNA and its expression levels in MPs correlated with its host gene, chloride channel, voltage-sensitive 5 (Clcn5). Pharmacological inhibition of miR-501 dramatically blunted the induction of embryonic myosin heavy chain (MYH3) and, to a lesser extent, adult myosin isoforms during muscle regeneration, and promoted small-diameter neofibers. An unbiased target identification approach in primary myoblasts validated gigaxonin as a target of miR-501 that mimicked the effect of miR-501 inhibition on MYH3 expression. In the mdx mouse model, which models a pathological disease state, not only was miR-501 induced in regenerating skeletal muscle, but also its serum levels were increased, which correlated with the disease state of the animals. Our results suggest that miR-501 plays a key role in adult muscle regeneration and might serve as a novel serum biomarker for the activation of adult muscle stem cells.
+27707793	71	78	miR-501	GeneOrGeneProduct	751560
+27707793	103	121	myosin heavy chain	GeneOrGeneProduct	17883
+27707793	435	446	cardiotoxin	ChemicalEntity	D054715
+27707793	448	451	CTX	ChemicalEntity	D054715
+27707793	461	474	muscle injury	DiseaseOrPhenotypicFeature	D009135
+27707793	485	492	miR-501	GeneOrGeneProduct	751560
+27707793	527	534	miR-501	GeneOrGeneProduct	751560
+27707793	620	657	chloride channel, voltage-sensitive 5	GeneOrGeneProduct	12728
+27707793	659	664	Clcn5	GeneOrGeneProduct	12728
+27707793	697	704	miR-501	GeneOrGeneProduct	751560
+27707793	753	771	myosin heavy chain	GeneOrGeneProduct	17883
+27707793	773	777	MYH3	GeneOrGeneProduct	17883
+27707793	804	825	adult myosin isoforms	GeneOrGeneProduct	17879
+27707793	967	976	gigaxonin	GeneOrGeneProduct	209239
+27707793	992	999	miR-501	GeneOrGeneProduct	751560
+27707793	1028	1035	miR-501	GeneOrGeneProduct	751560
+27707793	1050	1054	MYH3	GeneOrGeneProduct	17883
+27707793	1078	1083	mouse	OrganismTaxon	10090
+27707793	1147	1154	miR-501	GeneOrGeneProduct	751560
+27707793	1319	1326	miR-501	GeneOrGeneProduct	751560
+27707793	Positive_Correlation	D054715	D009135	No
+27707793	Association	751560	12728	No
+27707793	Association	751560	D009135	No
+27707793	Negative_Correlation	751560	17883	Novel
+27707793	Negative_Correlation	209239	751560	Novel

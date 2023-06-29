@@ -1,0 +1,42 @@
+27467249|t|Juicer Provides a One-Click System for Analyzing Loop-Resolution Hi-C Experiments
+27467249|a|Hi-C experiments explore the 3D structure of the genome, generating terabases of data to create high-resolution contact maps. Here, we introduce Juicer, an open-source tool for analyzing terabase-scale Hi-C datasets. Juicer allows users without a computational background to transform raw sequence data into normalized contact maps with one click. Juicer produces a hic file containing compressed contact matrices at many resolutions, facilitating visualization and analysis at multiple scales. Structural features, such as loops and domains, are automatically annotated. Juicer is available as open source software at http://aidenlab.org/juicer/.
+27467249	0	6	Juicer	T170	C0037589
+27467249	7	15	Provides	T052	C1999230
+27467249	39	48	Analyzing	T062	C0936012
+27467249	49	81	Loop-Resolution Hi-C Experiments	T059	C0200892
+27467249	82	98	Hi-C experiments	T059	C0200892
+27467249	111	123	3D structure	T082	C0026377
+27467249	131	137	genome	T028	C0017428
+27467249	139	149	generating	T052	C3146294
+27467249	150	167	terabases of data	T170	C0150098
+27467249	178	193	high-resolution	T059	C1719039
+27467249	194	206	contact maps	T170	C0814036
+27467249	227	233	Juicer	T170	C0037589
+27467249	238	254	open-source tool	T170	C0037589
+27467249	269	283	terabase-scale	T081	C0392762
+27467249	284	297	Hi-C datasets	T170	C0150098
+27467249	299	305	Juicer	T170	C0037589
+27467249	313	318	users	T098	C1706077
+27467249	319	326	without	T080	C0332288
+27467249	329	342	computational	T052	C1880157
+27467249	343	353	background	T077	C1706907
+27467249	357	366	transform	T062	C1705163
+27467249	367	384	raw sequence data	T170	C0026382
+27467249	401	413	contact maps	T170	C0814036
+27467249	430	436	Juicer	T170	C0037589
+27467249	448	456	hic file	T170	C0242193
+27467249	468	478	compressed	T169	C0332260
+27467249	479	495	contact matrices	T082	C1704640
+27467249	504	515	resolutions	T081	C1706463
+27467249	530	543	visualization	T041	C0175631
+27467249	548	556	analysis	T062	C0936012
+27467249	560	575	multiple scales	T081	C0392762
+27467249	577	596	Structural features	T082	C0026377
+27467249	606	611	loops	T026	C1516509
+27467249	616	623	domains	T044	C0599845
+27467249	629	642	automatically	T066	C0004374
+27467249	643	652	annotated	T080	C1552720
+27467249	654	660	Juicer	T170	C0037589
+27467249	677	681	open	T080	C1996904
+27467249	682	688	source	T081	C0011001
+27467249	689	697	software	T073,T170	C0037585

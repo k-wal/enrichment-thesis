@@ -1,0 +1,94 @@
+28195094|t|Association of interleukin-2, -4 and -10 with dengue severity
+28195094|a|Dengue is an arboviral disease caused by four distinct serotypes of dengue virus. The pathogenesis of dengue is not very clearly understood. Various pro- and anti-inflammatory cytokines are involved in the immune pathogenesis of dengue. Interleukin (IL)-2 / IL-2 receptor interaction is supposed to play a protective role, while IL-4 acts as pro-inflammatory whereas IL-10 acts as anti-inflammatory cytokines. So far, not much information is available regarding the established role of these cytokines with dengue infection and severity. our study aimed to show the association of IL-2, -4, and -10 with severity of dengue infection. This was a cross-sectional study. The study was conducted in the year 2015; 150 blood samples from suspected dengue cases were confirmed for dengue and then with an equal number of healthy control samples were tested for cytokines levels (IL-2, -4, and -10) by ELISA. Severity of the dengue infection was determined on the basis of clinical manifestations based on the WHO criteria. for statistical analysis, SPSS version 21 (IBM, New York, United States) was used. Out of 150 samples, 56 samples came to be dengue positive. Thirty-eight (67.85%) cases were classified as nonsevere dengue and 18 (32.15%) were severe dengue. The serum levels of IL-4 and -10 were significantly raised in severe dengue cases as compared to nonsevere dengue cases. No significant association was observed between serum IL-2 levels and the severity of dengue. IL-4 and -10 levels can be used as marker of severe dengue and help in early preparedness to start the treatment in the line of severe dengue.
+28195094	0	11	Association	T080	C0439849
+28195094	15	28	interleukin-2	T116,T129	C0021756
+28195094	30	32	-4	T116,T129	C0021758
+28195094	37	40	-10	T116,T129	C0085295
+28195094	46	52	dengue	T047	C0011311
+28195094	53	61	severity	T080	C0439793
+28195094	62	68	Dengue	T047	C0011311
+28195094	75	92	arboviral disease	T047	C0003723
+28195094	117	126	serotypes	T170	C0449943
+28195094	130	142	dengue virus	T005	C0011315
+28195094	148	160	pathogenesis	T046	C0699748
+28195094	164	170	dengue	T047	C0011311
+28195094	211	215	pro-	T116,T129	C0079189
+28195094	220	247	anti-inflammatory cytokines	T116,T129	C0079189
+28195094	268	287	immune pathogenesis	T046	C0699748
+28195094	291	297	dengue	T047	C0011311
+28195094	299	317	Interleukin (IL)-2	T116,T129	C0021756
+28195094	320	333	IL-2 receptor	T116,T129,T192	C0034819
+28195094	334	345	interaction	T169	C1704675
+28195094	391	395	IL-4	T116,T129	C0021758
+28195094	404	420	pro-inflammatory	T116,T129	C0079189
+28195094	429	434	IL-10	T116,T129	C0085295
+28195094	443	470	anti-inflammatory cytokines	T116,T129	C0079189
+28195094	554	563	cytokines	T116,T129	C0079189
+28195094	569	585	dengue infection	T047	C0011311
+28195094	590	598	severity	T080	C0439793
+28195094	604	609	study	T062	C2603343
+28195094	628	639	association	T080	C0439849
+28195094	643	647	IL-2	T116,T129	C0021756
+28195094	649	651	-4	T116,T129	C0021758
+28195094	657	660	-10	T116,T129	C0085295
+28195094	666	674	severity	T080	C0439793
+28195094	678	694	dengue infection	T047	C0011311
+28195094	707	728	cross-sectional study	T062	C0010362
+28195094	734	739	study	T062	C2603343
+28195094	761	765	year	T079	C0439234
+28195094	776	789	blood samples	T031	C0178913
+28195094	795	804	suspected	T078	C0750491
+28195094	805	811	dengue	T047	C0011311
+28195094	812	817	cases	T077	C1706256
+28195094	837	843	dengue	T047	C0011311
+28195094	877	892	healthy control	T080	C2986479
+28195094	893	900	samples	T167	C0370003
+28195094	906	912	tested	T169	C0039593
+28195094	917	933	cytokines levels	T059	C2699541
+28195094	935	939	IL-2	T116,T129	C0021756
+28195094	941	943	-4	T116,T129	C0021758
+28195094	949	952	-10	T116,T129	C0085295
+28195094	957	962	ELISA	T059	C0014441
+28195094	964	972	Severity	T080	C0439793
+28195094	980	996	dengue infection	T047	C0011311
+28195094	1028	1036	clinical	T080	C0205210
+28195094	1037	1051	manifestations	T080	C1280464
+28195094	1065	1068	WHO	T093	C0043237
+28195094	1069	1077	criteria	T078	C0243161
+28195094	1083	1103	statistical analysis	T062	C0871424
+28195094	1105	1120	SPSS version 21	T073,T170	C0037585
+28195094	1122	1125	IBM	T073,T092	C0683757
+28195094	1127	1135	New York	T083	C0027977
+28195094	1137	1150	United States	T083	C0041703
+28195094	1173	1180	samples	T167	C0370003
+28195094	1185	1192	samples	T167	C0370003
+28195094	1204	1210	dengue	T047	C0011311
+28195094	1211	1219	positive	T033	C1446409
+28195094	1243	1248	cases	T077	C1706256
+28195094	1268	1284	nonsevere dengue	T047	C0011311
+28195094	1306	1312	severe	T080	C0205082
+28195094	1313	1319	dengue	T047	C0011311
+28195094	1325	1330	serum	T031	C0229671
+28195094	1331	1345	levels of IL-4	T059	C2697785
+28195094	1350	1353	-10	T059	C2697758
+28195094	1383	1389	severe	T080	C0205082
+28195094	1390	1396	dengue	T047	C0011311
+28195094	1397	1402	cases	T077	C1706256
+28195094	1418	1434	nonsevere dengue	T047	C0011311
+28195094	1435	1440	cases	T077	C1706256
+28195094	1442	1456	No significant	T033	C3694175
+28195094	1457	1468	association	T080	C0439849
+28195094	1490	1495	serum	T031	C0229671
+28195094	1496	1507	IL-2 levels	T059	C2697779
+28195094	1516	1524	severity	T080	C0439793
+28195094	1528	1534	dengue	T047	C0011311
+28195094	1536	1540	IL-4	T059	C2697785
+28195094	1545	1555	-10 levels	T059	C2697758
+28195094	1571	1577	marker	T201	C0005516
+28195094	1581	1587	severe	T080	C0205082
+28195094	1588	1594	dengue	T047	C0011311
+28195094	1607	1612	early	T079	C1279919
+28195094	1613	1625	preparedness	T033	C1318963
+28195094	1639	1648	treatment	T061	C0087111
+28195094	1664	1670	severe	T080	C0205082
+28195094	1671	1677	dengue	T047	C0011311

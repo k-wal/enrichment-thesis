@@ -1,0 +1,43 @@
+16574713|t|Memory function and serotonin transporter promoter gene polymorphism in ecstasy (MDMA) users.
+16574713|a|Although 3,4-methylenedioxymethamphetamine (MDMA or ecstasy) has been shown to damage brain serotonin (5-HT) neurons in animals and possibly humans, little is known about the long-term consequences of MDMA-induced 5-HT neurotoxic lesions on functions in which 5-HT is involved, such as cognitive function. Because 5-HT transporters play a key element in the regulation of synaptic 5-HT transmission it may be important to control for the potential covariance effect of a polymorphism in the 5-HT transporter promoter gene region (5-HTTLPR) when studying the effects of MDMA as well as cognitive functioning. The aim of the study was to investigate the effects of moderate and heavy MDMA use on cognitive function, as well as the effects of long-term abstention from MDMA, in subjects genotyped for 5-HTTLPR. A second aim of the study was to determine whether these effects differ for females and males. Fifteen moderate MDMA users (<55 lifetime tablets), 22 heavy MDMA+ users (>55 lifetime tablets), 16 ex-MDMA+ users (last tablet > 1 year ago) and 13 controls were compared on a battery of neuropsychological tests. DNA from peripheral nuclear blood cells was genotyped for 5-HTTLPR using standard polymerase chain reaction methods.A significant group effect was observed only on memory function tasks (p = 0.04) but not on reaction times (p = 0.61) or attention/executive functioning (p = 0.59). Heavy and ex-MDMA+ users performed significantly poorer on memory tasks than controls. In contrast, no evidence of memory impairment was observed in moderate MDMA users. No significant effect of 5-HTTLPR or gender was observed. While the use of MDMA in quantities that may be considered "moderate" is not associated with impaired memory functioning, heavy use of MDMA use may lead to long lasting memory impairments. No effect of 5-HTTLPR or gender on memory function or MDMA use was observed.
+16574713	20	41	serotonin transporter	GeneOrGeneProduct	6532
+16574713	72	79	ecstasy	ChemicalEntity	D018817
+16574713	81	85	MDMA	ChemicalEntity	D018817
+16574713	103	136	3,4-methylenedioxymethamphetamine	ChemicalEntity	D018817
+16574713	138	142	MDMA	ChemicalEntity	D018817
+16574713	146	153	ecstasy	ChemicalEntity	D018817
+16574713	186	195	serotonin	ChemicalEntity	D012701
+16574713	197	201	5-HT	ChemicalEntity	D012701
+16574713	235	241	humans	OrganismTaxon	9606
+16574713	295	299	MDMA	ChemicalEntity	D018817
+16574713	308	312	5-HT	ChemicalEntity	D012701
+16574713	313	331	neurotoxic lesions	DiseaseOrPhenotypicFeature	D020258
+16574713	354	358	5-HT	ChemicalEntity	D012701
+16574713	408	412	5-HT	ChemicalEntity	D012701
+16574713	475	479	5-HT	ChemicalEntity	D012701
+16574713	585	622	5-HT transporter promoter gene region	GeneOrGeneProduct	6532
+16574713	624	632	5-HTTLPR	GeneOrGeneProduct	6532
+16574713	663	667	MDMA	ChemicalEntity	D018817
+16574713	776	780	MDMA	ChemicalEntity	D018817
+16574713	860	864	MDMA	ChemicalEntity	D018817
+16574713	892	900	5-HTTLPR	GeneOrGeneProduct	6532
+16574713	1014	1018	MDMA	ChemicalEntity	D018817
+16574713	1058	1062	MDMA	ChemicalEntity	D018817
+16574713	1100	1104	MDMA	ChemicalEntity	D018817
+16574713	1269	1277	5-HTTLPR	GeneOrGeneProduct	6532
+16574713	1505	1509	MDMA	ChemicalEntity	D018817
+16574713	1607	1624	memory impairment	DiseaseOrPhenotypicFeature	D008569
+16574713	1650	1654	MDMA	ChemicalEntity	D018817
+16574713	1687	1695	5-HTTLPR	GeneOrGeneProduct	6532
+16574713	1737	1741	MDMA	ChemicalEntity	D018817
+16574713	1813	1840	impaired memory functioning	DiseaseOrPhenotypicFeature	D008569
+16574713	1855	1859	MDMA	ChemicalEntity	D018817
+16574713	1889	1907	memory impairments	DiseaseOrPhenotypicFeature	D008569
+16574713	1922	1930	5-HTTLPR	GeneOrGeneProduct	6532
+16574713	1963	1967	MDMA	ChemicalEntity	D018817
+16574713	Association	6532	D018817	Novel
+16574713	Positive_Correlation	D018817	D008569	Novel
+16574713	Positive_Correlation	D018817	D020258	No
+16574713	Positive_Correlation	D018817	D012701	No
+16574713	Association	D012701	6532	No
+16574713	Positive_Correlation	D012701	D020258	No

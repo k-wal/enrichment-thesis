@@ -1,0 +1,99 @@
+28542952|t|Compensatory and decompensatory alterations in cardiomyocyte Ca(2+) dynamics in hearts with diastolic dysfunction following aortic banding
+28542952|a|At the cellular level cardiac hypertrophy causes remodelling, leading to changes in ionic channel, pump and exchanger densities and kinetics. Previous studies have focused on quantifying changes in channels, pump s and exchangers without quantitatively linking these changes with emergent cellular scale functionality. Two biophysical cardiac cell models were created, parameterized and validated and are able to simulate electrophysiology and calcium dynamics in myocytes from control sham operated rats and aortic - banded rats exhibiting diastolic dysfunction. The contribution of each ionic pathway to the calcium kinetics was calculated, identifying the L-type Ca(2+) channel and sarco/endoplasmic reticulum Ca(2+) ATPase as the principal regulators of systolic and diastolic Ca(2+), respectively. Results show that the ability to dynamically change systolic Ca(2+), through changes in expression of key Ca(2+) modelling protein densities, is drastically reduced following the aortic banding procedure; however the cells are able to compensate Ca(2+) homeostasis in an efficient way to minimize systolic dysfunction. Elevated left ventricular afterload leads to myocardial hypertrophy, diastolic dysfunction, cellular remodelling and compromised calcium dynamics. At the cellular scale this remodelling of the ionic channels, pumps and exchangers gives rise to changes in the Ca(2+) transient. However, the relative roles of the underlying subcellular processes and the positive or negative impact of each remodelling mechanism are not fully understood. Biophysical cardiac cell models were created to simulate electrophysiology and calcium dynamics in myocytes from control rats (SHAM) and aortic - banded rats exhibiting diastolic dysfunction. The model parameters and framework were validated and the fitted parameters demonstrated to be unique for explaining our experimental data. The contribution of each ionic pathway to the calcium kinetics was calculated, identifying the L-type Ca(2+) channel (LCC) and the sarco/endoplasmic reticulum Ca(2+) -ATPase (SERCA) as the principal regulators of systolic and diastolic Ca(2+), respectively. In the aortic banding model, the sensitivity of systolic Ca(2+) to LCC density and diastolic Ca(2+) to SERCA density decreased by 16-fold and increased by 23%, respectively, relative to the SHAM model. The energy cost of ionic homeostasis is maintained across the two models. The models predict that changes in ionic pathway densities in compensated aortic banding rats maintain Ca(2+) function and efficiency. The ability to dynamically alter systolic function is significantly diminished, while the capacity to maintain diastolic Ca(2+) is moderately increased.
+28542952	17	31	decompensatory	T033	UMLS:C0231187
+28542952	47	60	cardiomyocyte	T017	UMLS:C0225828
+28542952	61	67	Ca(2+)	T103	UMLS:C0596235
+28542952	80	86	hearts	T017	UMLS:C0018787
+28542952	92	113	diastolic dysfunction	T038	UMLS:C0520863
+28542952	124	130	aortic	T017	UMLS:C0003483
+28542952	131	138	banding	T058	UMLS:C0185014
+28542952	146	160	cellular level	T038	UMLS:C1155939
+28542952	161	180	cardiac hypertrophy	T038	UMLS:C1383860
+28542952	223	236	ionic channel	T103	UMLS:C0022009
+28542952	238	242	pump	T103	UMLS:C0085193
+28542952	290	297	studies	T062	UMLS:C2603343
+28542952	337	345	channels	T103	UMLS:C0022009
+28542952	347	351	pump	T103	UMLS:C0085193
+28542952	428	456	cellular scale functionality	T038	UMLS:C0007613
+28542952	474	486	cardiac cell	T017	UMLS:C0920751
+28542952	487	493	models	T170	UMLS:C0026344
+28542952	526	535	validated	T062	UMLS:C1519941
+28542952	552	560	simulate	T062	UMLS:C0679083
+28542952	561	578	electrophysiology	T091	UMLS:C0013865
+28542952	583	590	calcium	T103	UMLS:C0006675
+28542952	603	611	myocytes	T017	UMLS:C0596981
+28542952	617	643	control sham operated rats	T204	UMLS:C0086893
+28542952	648	654	aortic	T017	UMLS:C0003483
+28542952	657	663	banded	T058	UMLS:C0185014
+28542952	664	668	rats	T204	UMLS:C0034721
+28542952	680	701	diastolic dysfunction	T038	UMLS:C0520863
+28542952	728	741	ionic pathway	T038	UMLS:C0037080
+28542952	749	756	calcium	T103	UMLS:C0006675
+28542952	798	819	L-type Ca(2+) channel	T103	UMLS:C0288263
+28542952	824	865	sarco/endoplasmic reticulum Ca(2+) ATPase	T103	UMLS:C0916181
+28542952	910	919	diastolic	T201	UMLS:C0012000
+28542952	920	926	Ca(2+)	T103	UMLS:C0596235
+28542952	1003	1009	Ca(2+)	T103	UMLS:C0596235
+28542952	1030	1040	expression	T038	UMLS:C1171362
+28542952	1048	1054	Ca(2+)	T103	UMLS:C0596235
+28542952	1055	1064	modelling	T062	UMLS:C0600115
+28542952	1065	1072	protein	T103	UMLS:C0033684
+28542952	1121	1127	aortic	T017	UMLS:C0003483
+28542952	1128	1145	banding procedure	T058	UMLS:C0185014
+28542952	1159	1164	cells	T017	UMLS:C0920751
+28542952	1188	1194	Ca(2+)	T103	UMLS:C0596235
+28542952	1195	1206	homeostasis	T038	UMLS:C1326962
+28542952	1239	1259	systolic dysfunction	T038	UMLS:C0749225
+28542952	1261	1296	Elevated left ventricular afterload	T033	UMLS:C0919821
+28542952	1306	1328	myocardial hypertrophy	T038	UMLS:C3495916
+28542952	1330	1351	diastolic dysfunction	T038	UMLS:C0520863
+28542952	1353	1361	cellular	T017	UMLS:C0007634
+28542952	1390	1397	calcium	T103	UMLS:C0006675
+28542952	1415	1423	cellular	T017	UMLS:C0007634
+28542952	1454	1468	ionic channels	T103	UMLS:C0022009
+28542952	1470	1475	pumps	T103	UMLS:C0085193
+28542952	1520	1526	Ca(2+)	T103	UMLS:C0596235
+28542952	1584	1605	subcellular processes	T038	UMLS:C0007613
+28542952	1614	1622	positive	T033	UMLS:C1446409
+28542952	1626	1634	negative	T033	UMLS:C0205160
+28542952	1710	1722	cardiac cell	T017	UMLS:C0920751
+28542952	1746	1754	simulate	T062	UMLS:C0679083
+28542952	1755	1772	electrophysiology	T091	UMLS:C0013865
+28542952	1777	1784	calcium	T103	UMLS:C0006675
+28542952	1797	1805	myocytes	T017	UMLS:C0596981
+28542952	1811	1830	control rats (SHAM)	T204	UMLS:C0086893
+28542952	1835	1841	aortic	T017	UMLS:C0003483
+28542952	1844	1850	banded	T058	UMLS:C0185014
+28542952	1851	1855	rats	T204	UMLS:C0086893
+28542952	1867	1888	diastolic dysfunction	T038	UMLS:C0520863
+28542952	1894	1899	model	T170	UMLS:C0026344
+28542952	1930	1939	validated	T062	UMLS:C1519941
+28542952	2055	2068	ionic pathway	T038	UMLS:C0037080
+28542952	2076	2083	calcium	T103	UMLS:C0006675
+28542952	2125	2146	L-type Ca(2+) channel	T103	UMLS:C0288263
+28542952	2148	2151	LCC	T103	UMLS:C0288263
+28542952	2161	2203	sarco/endoplasmic reticulum Ca(2+) -ATPase	T103	UMLS:C0916181
+28542952	2205	2210	SERCA	T103	UMLS:C0916181
+28542952	2256	2265	diastolic	T201	UMLS:C0012000
+28542952	2266	2272	Ca(2+)	T103	UMLS:C0596235
+28542952	2295	2301	aortic	T017	UMLS:C0003483
+28542952	2302	2309	banding	T058	UMLS:C0185014
+28542952	2310	2315	model	T170	UMLS:C0026344
+28542952	2345	2351	Ca(2+)	T103	UMLS:C0596235
+28542952	2355	2358	LCC	T103	UMLS:C0288263
+28542952	2371	2380	diastolic	T201	UMLS:C0012000
+28542952	2381	2387	Ca(2+)	T103	UMLS:C0596235
+28542952	2391	2396	SERCA	T103	UMLS:C0916181
+28542952	2478	2488	SHAM model	T204	UMLS:C0086893
+28542952	2509	2526	ionic homeostasis	T038	UMLS:C1326962
+28542952	2556	2562	models	T170	UMLS:C0026344
+28542952	2568	2574	models	T170	UMLS:C0026344
+28542952	2599	2612	ionic pathway	T038	UMLS:C0037080
+28542952	2638	2644	aortic	T017	UMLS:C0003483
+28542952	2645	2652	banding	T058	UMLS:C0185014
+28542952	2653	2657	rats	T204	UMLS:C0034721
+28542952	2667	2673	Ca(2+)	T103	UMLS:C0596235
+28542952	2674	2682	function	T038	UMLS:C0031843
+28542952	2732	2749	systolic function	T038	UMLS:C0442710
+28542952	2810	2819	diastolic	T201	UMLS:C0012000
+28542952	2820	2826	Ca(2+)	T103	UMLS:C0596235

@@ -1,0 +1,68 @@
+28187885|t|Automated characterization and counting of Ki-67 protein for breast cancer prognosis: A quantitative immunohistochemistry approach
+28187885|a|Ki-67 protein expression plays an important role in predicting the proliferative status of tumour cell s and deciding the future course of therapy in breast cancer. Immunohistochemical (IHC) determination of Ki-67 score or labelling index, by estimating the fraction of Ki67 positively stained tumour cells, is the most widely practiced method to assess tumour proliferation (Dowsett et al. 2011). Accurate manual counting of these cells (specifically nuclei) due to complex and dense distribution of cells, therefore, becomes critical and presents a major challenge to pathologists. In this paper, we suggest a hybrid clustering algorithm to quantify the proliferative index of breast cancer cells based on automated counting of Ki-67 nuclei. The proposed methodology initially pre-processes the IHC images of Ki-67 stained slides of breast cancer. The RGB images are converted to grey, L*a*b*, HSI, YCbCr, YIQ and XYZ colour space. All the stained cells are then characterized by two stage segmentation process. Fuzzy C-means quantifies all the stained cells as one cluster. The blue channel of the first stage output is given as input to k-means algorithm, which provides separate cluster for Ki-67 positive and negative cells. The count of positive and negative nuclei is used to calculate the F-measure for each colour space. A comparative study of our work with the expert opinion is studied to evaluate the error rate. The positive and negative nuclei detection results for all colour space s are compared with the ground truth for validation and F-measure is calculated. The F-measure for L*a*b* colour space (0.8847) provides the best statistical result as compared to grey, HSI, YCbCr, YIQ and XYZ colour space. Further, a study is carried out to count nuclei manually and automatically from the proposed algorithm with an average error rate of 6.84% which is significant. The study provides an automated count of positive and negative nuclei using L*a*b* colour space and hybrid segmentation technique. Computerized evaluation of proliferation index can aid pathologist in assessing breast cancer severity. The proposed methodology, further, has the potential advantage of saving time and assisting in decision making over the present manual procedure and could evolve as an assistive pathological decision support system.
+28187885	43	56	Ki-67 protein	T103	UMLS:C0033684
+28187885	61	74	breast cancer	T038	UMLS:C0006142
+28187885	75	84	prognosis	T058	UMLS:C0033325
+28187885	101	121	immunohistochemistry	T058	UMLS:C0021044
+28187885	122	130	approach	T082	UMLS:C0449445
+28187885	131	144	Ki-67 protein	T103	UMLS:C0033684
+28187885	145	155	expression	T038	UMLS:C1171362
+28187885	222	233	tumour cell	T017	UMLS:C0431085
+28187885	270	277	therapy	T058	UMLS:C0087111
+28187885	281	294	breast cancer	T038	UMLS:C0006142
+28187885	296	335	Immunohistochemical (IHC) determination	T058	UMLS:C0021044
+28187885	339	350	Ki-67 score	T058	UMLS:C4049944
+28187885	354	369	labelling index	T058	UMLS:C0022885
+28187885	401	405	Ki67	T103	UMLS:C0033684
+28187885	406	416	positively	T033	UMLS:C1446409
+28187885	425	437	tumour cells	T017	UMLS:C0431085
+28187885	468	474	method	T058	UMLS:C0430022
+28187885	485	491	tumour	T038	UMLS:C0027651
+28187885	538	553	manual counting	T058	UMLS:C1441639
+28187885	563	568	cells	T017	UMLS:C0007634
+28187885	583	589	nuclei	T017	UMLS:C0007610
+28187885	632	637	cells	T017	UMLS:C0007634
+28187885	701	713	pathologists	T097	UMLS:C0334866
+28187885	743	770	hybrid clustering algorithm	T170	UMLS:C0002045
+28187885	810	829	breast cancer cells	T017	UMLS:C1512505
+28187885	839	857	automated counting	T058	UMLS:C1441489
+28187885	861	866	Ki-67	T103	UMLS:C0033684
+28187885	867	873	nuclei	T017	UMLS:C0007610
+28187885	888	899	methodology	T058	UMLS:C0430022
+28187885	928	931	IHC	T058	UMLS:C0021044
+28187885	932	938	images	T170	UMLS:C1704254
+28187885	942	947	Ki-67	T103	UMLS:C0033684
+28187885	966	979	breast cancer	T038	UMLS:C0006142
+28187885	1051	1063	colour space	T170	UMLS:C0876936
+28187885	1081	1086	cells	T017	UMLS:C0007634
+28187885	1113	1143	two stage segmentation process	T058	UMLS:C0200768
+28187885	1145	1158	Fuzzy C-means	T170	UMLS:C0002045
+28187885	1186	1191	cells	T017	UMLS:C0007634
+28187885	1232	1243	first stage	T170	UMLS:C0441766
+28187885	1272	1289	k-means algorithm	T062	UMLS:C0009085
+28187885	1327	1332	Ki-67	T103	UMLS:C0033684
+28187885	1355	1360	cells	T017	UMLS:C0007634
+28187885	1397	1403	nuclei	T017	UMLS:C0007610
+28187885	1415	1424	calculate	T058	UMLS:C1443182
+28187885	1448	1460	colour space	T170	UMLS:C0876936
+28187885	1464	1481	comparative study	T062	UMLS:C1579762
+28187885	1583	1589	nuclei	T017	UMLS:C0007610
+28187885	1590	1599	detection	T033	UMLS:C0442726
+28187885	1616	1628	colour space	T170	UMLS:C0876936
+28187885	1698	1708	calculated	T058	UMLS:C1443182
+28187885	1735	1747	colour space	T170	UMLS:C0876936
+28187885	1839	1851	colour space	T170	UMLS:C0876936
+28187885	1864	1869	study	T062	UMLS:C2603343
+28187885	1894	1900	nuclei	T017	UMLS:C0007610
+28187885	1901	1909	manually	T058	UMLS:C1441639
+28187885	1914	1927	automatically	T058	UMLS:C1441489
+28187885	1946	1955	algorithm	T170	UMLS:C0002045
+28187885	2018	2023	study	T062	UMLS:C2603343
+28187885	2077	2083	nuclei	T017	UMLS:C0007610
+28187885	2097	2109	colour space	T170	UMLS:C0876936
+28187885	2145	2168	Computerized evaluation	T058	UMLS:C1441489
+28187885	2200	2211	pathologist	T097	UMLS:C0334866
+28187885	2225	2238	breast cancer	T038	UMLS:C0006142
+28187885	2262	2273	methodology	T058	UMLS:C0430022
+28187885	2331	2340	assisting	T058	UMLS:C0557034
+28187885	2377	2393	manual procedure	T058	UMLS:C1441639

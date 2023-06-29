@@ -1,0 +1,57 @@
+28101574|t|NEK2 serves as a prognostic biomarker for hepatocellular carcinoma.
+28101574|a|Never in mitosis gene A (NIMA)-related kinase 2 (NEK2) is a microtubule-associated protein that regulates spindle assembly in human cells and is overexpressed in various malignancies. However, the role of NEK2 in hepatocellular carcinoma (HCC) remains undetermined. We performed RNA-seq of the HCC cell line SMMC-7721 and the normal liver cell line HL-7702 using the Ion Proton System. NEK2 expression was detected using quantitative reverse transcription polymerase chain reaction in two cell lines and 5 matched HCC and adjacent non-tumorous liver tissues. The correlation between survival and NEK2 expression was analyzed in 359 patients with HCC using RNASeqV2 data available from The Cancer Genome Atlas (TCGA) website (https://tcga-data.nci.nih.gov/tcga/). The expression of NEK2, phospho-AKT and MMP-2 was evaluated by immunohistochemistry in 63 cases of HCC and matched adjacent non-tumorous liver tissues. Relationships between protein expression and clinicopathological parameters were assessed, and the correlations between NEK2 with phospho-AKT and MMP-2 expressions were evaluated. A total of 610 differentially expressed genes (DEGs) were revealed in the transcriptome comparison, 297 of which were upregulated and 313 were downregulated in HCC. NEK2, as the most obviously different DEG in cells and tissues from the RNA-seq data, was listed as an HCC candidate biomarker for further verification. NEK2 was overexpressed in HCC cells and tissues (P=0.002, P=0.013) and HCC patients with a high expression of NEK2 had a poor prognosis (P=0.0145). Clinical analysis indicated that the overexpression of NEK2 in HCC was significantly correlated with diolame complete (P<0.001), tumor nodule number (P=0.012) and recurrence (P=0.004). NEK2 expression was positively correlated with the expression of phospho-AKT (r=0.883, P<0.01) and MMP-2 (r=0.781, P<0.01). Overexpression of NEK2 was associated with clinicopathological characteristics and poor patient outcomes, suggesting that NEK2 serves as a prognostic biomarker for HCC. Alteration of NEK2 protein levels may contribute to invasion and metastasis of HCC, which may occur through activation of AKT signaling and promotion of MMP-2 expression.
+28101574	0	4	NEK2	GeneOrGeneProduct	4751
+28101574	42	66	hepatocellular carcinoma	DiseaseOrPhenotypicFeature	D006528
+28101574	68	115	Never in mitosis gene A (NIMA)-related kinase 2	GeneOrGeneProduct	4751
+28101574	117	121	NEK2	GeneOrGeneProduct	4751
+28101574	128	158	microtubule-associated protein	GeneOrGeneProduct	4130
+28101574	194	199	human	OrganismTaxon	9606
+28101574	238	250	malignancies	DiseaseOrPhenotypicFeature	D009369
+28101574	273	277	NEK2	GeneOrGeneProduct	4751
+28101574	281	305	hepatocellular carcinoma	DiseaseOrPhenotypicFeature	D006528
+28101574	307	310	HCC	DiseaseOrPhenotypicFeature	D006528
+28101574	362	365	HCC	DiseaseOrPhenotypicFeature	D006528
+28101574	376	385	SMMC-7721	CellLine	CVCL_0534
+28101574	417	424	HL-7702	CellLine	CVCL_6926
+28101574	454	458	NEK2	GeneOrGeneProduct	4751
+28101574	582	585	HCC	DiseaseOrPhenotypicFeature	D006528
+28101574	664	668	NEK2	GeneOrGeneProduct	4751
+28101574	700	708	patients	OrganismTaxon	9606
+28101574	714	717	HCC	DiseaseOrPhenotypicFeature	D006528
+28101574	757	763	Cancer	DiseaseOrPhenotypicFeature	D009369
+28101574	849	853	NEK2	GeneOrGeneProduct	4751
+28101574	863	866	AKT	GeneOrGeneProduct	207
+28101574	871	876	MMP-2	GeneOrGeneProduct	4130
+28101574	930	933	HCC	DiseaseOrPhenotypicFeature	D006528
+28101574	1103	1107	NEK2	GeneOrGeneProduct	4751
+28101574	1121	1124	AKT	GeneOrGeneProduct	207
+28101574	1129	1134	MMP-2	GeneOrGeneProduct	4130
+28101574	1323	1326	HCC	DiseaseOrPhenotypicFeature	D006528
+28101574	1328	1332	NEK2	GeneOrGeneProduct	4751
+28101574	1431	1434	HCC	DiseaseOrPhenotypicFeature	D006528
+28101574	1481	1485	NEK2	GeneOrGeneProduct	4751
+28101574	1507	1510	HCC	DiseaseOrPhenotypicFeature	D006528
+28101574	1552	1555	HCC	DiseaseOrPhenotypicFeature	D006528
+28101574	1556	1564	patients	OrganismTaxon	9606
+28101574	1591	1595	NEK2	GeneOrGeneProduct	4751
+28101574	1684	1688	NEK2	GeneOrGeneProduct	4751
+28101574	1692	1695	HCC	DiseaseOrPhenotypicFeature	D006528
+28101574	1758	1763	tumor	DiseaseOrPhenotypicFeature	D009369
+28101574	1814	1818	NEK2	GeneOrGeneProduct	4751
+28101574	1887	1890	AKT	GeneOrGeneProduct	207
+28101574	1913	1918	MMP-2	GeneOrGeneProduct	4130
+28101574	1956	1960	NEK2	GeneOrGeneProduct	4751
+28101574	2026	2033	patient	OrganismTaxon	9606
+28101574	2060	2064	NEK2	GeneOrGeneProduct	4751
+28101574	2102	2105	HCC	DiseaseOrPhenotypicFeature	D006528
+28101574	2121	2125	NEK2	GeneOrGeneProduct	4751
+28101574	2172	2189	metastasis of HCC	DiseaseOrPhenotypicFeature	D006528,D009362
+28101574	2229	2232	AKT	GeneOrGeneProduct	207
+28101574	2260	2265	MMP-2	GeneOrGeneProduct	4130
+28101574	Association	4130	D006528	Novel
+28101574	Association	207	D006528	Novel
+28101574	Association	4751	D009362	Novel
+28101574	Association	4751	D009369	No
+28101574	Positive_Correlation	4751	4130	Novel
+28101574	Positive_Correlation	4751	207	Novel
+28101574	Association	4751	D006528	Novel

@@ -1,0 +1,54 @@
+20667451|t|Curcumin ameliorates cognitive dysfunction and oxidative damage in phenobarbitone and carbamazepine administered rats.
+20667451|a|The antiepileptic drugs, phenobarbitone and carbamazepine are well known to cause cognitive impairment on chronic use. The increase in free radical generation has been implicated as one of the important mechanisms of cognitive impairment by antiepileptic drugs. Curcumin has shown antioxidant, anti-inflammatory and neuro-protective properties. Therefore, the present study was carried out to investigate the effect of chronic curcumin administration on phenobarbitone- and carbamazepine-induced cognitive impairment and oxidative stress in rats. Pharmacokinetic interactions of curcumin with phenobarbitone and carbamazepine were also studied. Vehicle/drugs were administered daily for 21days to male Wistar rats. Passive avoidance paradigm and elevated plus maze test were used to assess cognitive function. At the end of study period, serum phenobarbitone and carbamazepine, whole brain malondialdehyde and reduced glutathione levels were estimated. The administration of phenobarbitone and carbamazepine for 21days caused a significant impairment of learning and memory as well as an increased oxidative stress. Concomitant curcumin administration prevented the cognitive impairment and decreased the increased oxidative stress induced by these antiepileptic drugs. Curcumin co-administration did not cause any significant alteration in the serum concentrations of both phenobarbitone as well as carbamazepine. These results show that curcumin has beneficial effect in mitigating the deterioration of cognitive functions and oxidative damage in rats treated with phenobarbitone and carbamazepine without significantly altering their serum concentrations. The findings suggest that curcumin can be considered as a potential safe and effective adjuvant to phenobarbitone and carbamazepine therapy in preventing cognitive impairment associated with these drugs.
+20667451	0	8	Curcumin	ChemicalEntity	D003474
+20667451	21	42	cognitive dysfunction	DiseaseOrPhenotypicFeature	D003072
+20667451	67	81	phenobarbitone	ChemicalEntity	D010634
+20667451	86	99	carbamazepine	ChemicalEntity	D002220
+20667451	113	117	rats	OrganismTaxon	10116
+20667451	123	142	antiepileptic drugs	ChemicalEntity	D000927
+20667451	144	158	phenobarbitone	ChemicalEntity	D010634
+20667451	163	176	carbamazepine	ChemicalEntity	D002220
+20667451	201	221	cognitive impairment	DiseaseOrPhenotypicFeature	D003072
+20667451	336	356	cognitive impairment	DiseaseOrPhenotypicFeature	D003072
+20667451	360	379	antiepileptic drugs	ChemicalEntity	D000927
+20667451	381	389	Curcumin	ChemicalEntity	D003474
+20667451	400	411	antioxidant	ChemicalEntity	D000975
+20667451	418	430	inflammatory	DiseaseOrPhenotypicFeature	D007249
+20667451	546	554	curcumin	ChemicalEntity	D003474
+20667451	573	587	phenobarbitone	ChemicalEntity	D010634
+20667451	593	606	carbamazepine	ChemicalEntity	D002220
+20667451	615	635	cognitive impairment	DiseaseOrPhenotypicFeature	D003072
+20667451	660	664	rats	OrganismTaxon	10116
+20667451	698	706	curcumin	ChemicalEntity	D003474
+20667451	712	726	phenobarbitone	ChemicalEntity	D010634
+20667451	731	744	carbamazepine	ChemicalEntity	D002220
+20667451	828	832	rats	OrganismTaxon	10116
+20667451	963	977	phenobarbitone	ChemicalEntity	D010634
+20667451	982	995	carbamazepine	ChemicalEntity	D002220
+20667451	1009	1024	malondialdehyde	ChemicalEntity	D008315
+20667451	1037	1048	glutathione	ChemicalEntity	D005978
+20667451	1094	1108	phenobarbitone	ChemicalEntity	D010634
+20667451	1113	1126	carbamazepine	ChemicalEntity	D002220
+20667451	1159	1192	impairment of learning and memory	DiseaseOrPhenotypicFeature	D003072
+20667451	1247	1255	curcumin	ChemicalEntity	D003474
+20667451	1285	1305	cognitive impairment	DiseaseOrPhenotypicFeature	D003072
+20667451	1368	1387	antiepileptic drugs	ChemicalEntity	D000927
+20667451	1389	1397	Curcumin	ChemicalEntity	D003474
+20667451	1493	1507	phenobarbitone	ChemicalEntity	D010634
+20667451	1519	1532	carbamazepine	ChemicalEntity	D002220
+20667451	1558	1566	curcumin	ChemicalEntity	D003474
+20667451	1607	1643	deterioration of cognitive functions	DiseaseOrPhenotypicFeature	D003072
+20667451	1668	1672	rats	OrganismTaxon	10116
+20667451	1686	1700	phenobarbitone	ChemicalEntity	D010634
+20667451	1705	1718	carbamazepine	ChemicalEntity	D002220
+20667451	1804	1812	curcumin	ChemicalEntity	D003474
+20667451	1877	1891	phenobarbitone	ChemicalEntity	D010634
+20667451	1896	1909	carbamazepine	ChemicalEntity	D002220
+20667451	1932	1952	cognitive impairment	DiseaseOrPhenotypicFeature	D003072
+20667451	Positive_Correlation	D003072	D000927	No
+20667451	Positive_Correlation	D003072	D002220	No
+20667451	Positive_Correlation	D003072	D010634	No
+20667451	Negative_Correlation	D003474	D007249	No
+20667451	Negative_Correlation	D003474	D002220	Novel
+20667451	Negative_Correlation	D003474	D010634	Novel
+20667451	Negative_Correlation	D003474	D003072	Novel

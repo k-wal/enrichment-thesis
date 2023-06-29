@@ -1,0 +1,77 @@
+27942049|t|Potassium depletion stimulates Na-Cl cotransporter via phosphorylation and inactivation of the ubiquitin ligase Kelch-like 3
+27942049|a|Kelch-like 3 (KLHL3) is a component of an E3 ubiquitin ligase complex that regulates blood pressure by targeting With-No-Lysine (WNK) kinases for degradation. Mutations in KLHL3 cause constitutively increased renal salt reabsorption and impaired K(+) secretion, resulting in hypertension and hyperkalemia. Although clinical studies have shown that dietary K(+) intake affects blood pressure, the mechanisms have been obscure. In this study, we demonstrate that the KLHL3 ubiquitin ligase complex is involved in the low- K(+) -mediated activation of Na-Cl cotransporter (NCC) in the kidney. In the distal convoluted tubules of mice eating a low-K(+) diet, we found increased KLHL3 phosphorylation at S433 (KLHL3(S433-P)), a modification that impairs WNK binding, and also reduced total KLHL3 levels. These changes are accompanied by the accumulation of the target substrate WNK4, and activation of the downstream kinases SPAK (STE20 / SPS1 -related proline-alanine-rich protein kinase) and OSR1 (oxidative stress-responsive 1), resulting in NCC phosphorylation and its accumulation at the plasma membrane. Increased phosphorylation of S433 was explained by increased levels of active, phosphorylated protein kinase C (but not protein kinase A), which directly phosphorylates S433. Moreover, in HEK cells expressing KLHL3 and WNK4, we showed that the activation of protein kinase C by phorbol 12-myristate 13-acetate induces KLHL3(S433-P) and increases WNK4 levels by abrogating its ubiquitination. These data demonstrate the role of KLHL3 in low- K(+) -mediated induction of NCC; this physiologic adaptation reduces distal electrogenic Na(+) reabsorption, preventing further renal K(+) loss but promoting increased blood pressure.
+27942049	0	19	Potassium depletion	T038	UMLS:C1971021
+27942049	31	50	Na-Cl cotransporter	T103	UMLS:C0074782
+27942049	55	70	phosphorylation	T038	UMLS:C0031715
+27942049	95	111	ubiquitin ligase	T103	UMLS:C0077678
+27942049	112	124	Kelch-like 3	T103	UMLS:C4042100
+27942049	125	137	Kelch-like 3	T103	UMLS:C4042100
+27942049	139	144	KLHL3	T103	UMLS:C4042100
+27942049	151	160	component	T103	UMLS:C1179435
+27942049	167	194	E3 ubiquitin ligase complex	T103	UMLS:C0077678
+27942049	200	209	regulates	T038	UMLS:C1327622
+27942049	210	224	blood pressure	T038	UMLS:C0005823
+27942049	238	266	With-No-Lysine (WNK) kinases	T103	UMLS:C0031727
+27942049	284	293	Mutations	T038	UMLS:C0026882
+27942049	297	302	KLHL3	T103	UMLS:C4042100
+27942049	324	357	increased renal salt reabsorption	T033	UMLS:C3278017
+27942049	371	375	K(+)	T103	UMLS:C0032821
+27942049	376	385	secretion	T038	UMLS:C0036536
+27942049	400	412	hypertension	T038	UMLS:C0020538
+27942049	417	429	hyperkalemia	T033	UMLS:C0020461
+27942049	440	456	clinical studies	T062	UMLS:C0008972
+27942049	473	485	dietary K(+)	T168	UMLS:C0162800
+27942049	501	515	blood pressure	T038	UMLS:C0005823
+27942049	590	595	KLHL3	T103	UMLS:C4042100
+27942049	596	612	ubiquitin ligase	T103	UMLS:C0077678
+27942049	613	620	complex	T103	UMLS:C1180347
+27942049	645	649	K(+)	T103	UMLS:C0032821
+27942049	674	693	Na-Cl cotransporter	T103	UMLS:C0074782
+27942049	695	698	NCC	T103	UMLS:C0074782
+27942049	707	713	kidney	T017	UMLS:C0022646
+27942049	722	747	distal convoluted tubules	T017	UMLS:C0022676
+27942049	751	755	mice	T204	UMLS:C0025929
+27942049	756	762	eating	T038	UMLS:C0013470
+27942049	765	778	low-K(+) diet	T058	UMLS:C0948941
+27942049	799	804	KLHL3	T103	UMLS:C4042100
+27942049	805	820	phosphorylation	T038	UMLS:C0031715
+27942049	829	844	(KLHL3(S433-P))	T103	UMLS:C4042100
+27942049	848	860	modification	T033	UMLS:C3840684
+27942049	874	877	WNK	T103	UMLS:C0031727
+27942049	910	915	KLHL3	T103	UMLS:C4042100
+27942049	961	973	accumulation	T033	UMLS:C4055506
+27942049	998	1002	WNK4	T103	UMLS:C1452813
+27942049	1026	1036	downstream	T082	UMLS:C0522506
+27942049	1037	1049	kinases SPAK	T103	UMLS:C1436950
+27942049	1051	1056	STE20	T103	UMLS:C4307920
+27942049	1059	1063	SPS1	T103	UMLS:C1436950
+27942049	1073	1108	proline-alanine-rich protein kinase	T103	UMLS:C1312482
+27942049	1114	1118	OSR1	T103	UMLS:C1438448
+27942049	1120	1149	oxidative stress-responsive 1	T103	UMLS:C1438448
+27942049	1165	1168	NCC	T103	UMLS:C0074782
+27942049	1169	1184	phosphorylation	T038	UMLS:C0031715
+27942049	1193	1205	accumulation	T033	UMLS:C4055506
+27942049	1213	1228	plasma membrane	T017	UMLS:C0007603
+27942049	1240	1255	phosphorylation	T038	UMLS:C0031715
+27942049	1324	1340	protein kinase C	T103	UMLS:C0033634
+27942049	1350	1366	protein kinase A	T103	UMLS:C0010531
+27942049	1384	1398	phosphorylates	T038	UMLS:C0031715
+27942049	1418	1427	HEK cells	T017	UMLS:C2936239
+27942049	1428	1438	expressing	T038	UMLS:C1171362
+27942049	1439	1444	KLHL3	T103	UMLS:C4042100
+27942049	1449	1453	WNK4	T103	UMLS:C1452813
+27942049	1488	1504	protein kinase C	T103	UMLS:C0033634
+27942049	1508	1539	phorbol 12-myristate 13-acetate	T103	UMLS:C0039654
+27942049	1548	1561	KLHL3(S433-P)	T103	UMLS:C4042100
+27942049	1576	1580	WNK4	T103	UMLS:C1452813
+27942049	1606	1620	ubiquitination	T038	UMLS:C1519751
+27942049	1657	1662	KLHL3	T103	UMLS:C4042100
+27942049	1671	1675	K(+)	T103	UMLS:C0032821
+27942049	1699	1702	NCC	T103	UMLS:C0074782
+27942049	1709	1731	physiologic adaptation	T038	UMLS:C0001400
+27942049	1740	1746	distal	T082	UMLS:C0205108
+27942049	1747	1759	electrogenic	T038	UMLS:C0232633
+27942049	1760	1778	Na(+) reabsorption	T038	UMLS:C2610987
+27942049	1799	1804	renal	T017	UMLS:C0022646
+27942049	1805	1809	K(+)	T103	UMLS:C0032821
+27942049	1839	1853	blood pressure	T038	UMLS:C0005823

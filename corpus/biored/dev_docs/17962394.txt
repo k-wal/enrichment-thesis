@@ -1,0 +1,22 @@
+17962394|t|Skewed X inactivation in an X linked nystagmus family resulted from a novel, p.R229G, missense mutation in the FRMD7 gene.
+17962394|a|AIMS: This study aimed to identify the underlying genetic defect of a large Turkish X linked nystagmus (NYS) family. METHODS: Both Xp11 and Xq26 loci were tested by linkage analysis. The 12 exons and intron-exon junctions of the FRMD7 gene were screened by direct sequencing. X chromosome inactivation analysis was performed by enzymatic predigestion of DNA with a methylation-sensitive enzyme, followed by PCR of the polymorphic CAG repeat of the androgen receptor gene. RESULTS: The family contained 162 individuals, among whom 28 had NYS. Linkage analysis confirmed the Xq26 locus. A novel missense c.686C>G mutation, which causes the substitution of a conserved arginine at amino acid position 229 by glycine (p.R229G) in exon 8 of the FRMD7 gene, was observed. This change was not documented in 120 control individuals. The clinical findings in a female who was homozygous for the mutation were not different from those of affected heterozygous females. Skewed X inactivation was remarkable in the affected females of the family. CONCLUSIONS: A novel p.R229G mutation in the FRMD7 gene causes the NYS phenotype, and skewed X inactivation influences the manifestation of the disease in X linked NYS females.
+17962394	28	46	X linked nystagmus	DiseaseOrPhenotypicFeature	C580539
+17962394	77	84	p.R229G	SequenceVariant	rs137852212
+17962394	111	116	FRMD7	GeneOrGeneProduct	90167
+17962394	173	187	genetic defect	DiseaseOrPhenotypicFeature	D030342
+17962394	207	225	X linked nystagmus	DiseaseOrPhenotypicFeature	C580539
+17962394	227	230	NYS	DiseaseOrPhenotypicFeature	C580539
+17962394	352	357	FRMD7	GeneOrGeneProduct	90167
+17962394	553	563	CAG repeat	SequenceVariant	c|DUP||CAG|
+17962394	571	588	androgen receptor	GeneOrGeneProduct	367
+17962394	660	663	NYS	DiseaseOrPhenotypicFeature	C580539
+17962394	725	733	c.686C>G	SequenceVariant	rs137852212
+17962394	789	835	arginine at amino acid position 229 by glycine	SequenceVariant	rs137852212
+17962394	837	844	p.R229G	SequenceVariant	rs137852212
+17962394	863	868	FRMD7	GeneOrGeneProduct	90167
+17962394	1179	1186	p.R229G	SequenceVariant	rs137852212
+17962394	1203	1208	FRMD7	GeneOrGeneProduct	90167
+17962394	1225	1228	NYS	DiseaseOrPhenotypicFeature	C580539
+17962394	1313	1325	X linked NYS	DiseaseOrPhenotypicFeature	C580539
+17962394	Association	C580539	90167	Novel
+17962394	Positive_Correlation	C580539	rs137852212	Novel

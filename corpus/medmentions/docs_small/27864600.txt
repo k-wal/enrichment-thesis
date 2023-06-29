@@ -1,0 +1,73 @@
+27864600|t|Comparison of true unenhanced and virtual unenhanced (VUE) attenuation values in abdominopelvic single-source rapid kilovoltage-switching spectral CT
+27864600|a|To assess the agreement between the true non-contrast (TNC) attenuation values of intra-abdominal structures and attenuation values obtained on virtual-unenhanced (VUE) images based on rapid kVp-switching dual-energy CT. The effects of contrast phase and patient characteristics (e.g., BMI, hematocrit, hemoglobin content) on VUE values were also investigated. Ninety four patients who underwent triphasic abdominal CT (liver mass protocol, n = 47; pancreas mass protocol, n = 47) between August 2014 and May 2015 were retrospectively reviewed. Unenhanced series was performed using conventional single-energy mode at 120 kVp. Late arterial and venous phase post-contrast series were obtained utilizing rapid kVp-switching dual-energy CT technique. VUE images were processed off of arterial (VUE-art) and venous (VUE-ven) phase series. Attenuation values of liver, pancreas, kidneys, adrenal glands, muscle, subcutaneous fat, aorta, IVC, and main portal vein were recorded on TNC and VUE sets of images. Attenuation values were compared using univariate linear regression and Student two-tailed paired t test. There was excellent correlation between TNC, VUE-art, and VUE-ven attenuation values across all organs (p < 0.0001). Paired Student t test, however, showed significant difference between TNC and VUE-art attenuation of kidneys, right adrenal gland, paraspinal muscle, and aorta. There was also significant difference between TNC and VUE-ven attenuation of left kidney. Percentage of cases which had >10 HU difference between VUE and TNC for an individual was calculated which ranged between 13% (right kidney) and 42% (right adrenal gland). Although the correlation between VUE and TNC attenuation values was excellent and mean difference between TNC and VUE attenuation values was negligible (ranging between -5.94 HU for paraspinal muscles to 6.2 HU in aorta), intra-patient analysis showed a considerable number of cases which had >10 HU difference between VUE and TNC. VUE-ven generally offered a better approximation of TNC values. Further optimization of post-processing algorithms might be necessary before complete replacement of TNC with VUE images.
+27864600	14	29	true unenhanced	T170	UMLS:C1704254
+27864600	34	52	virtual unenhanced	T170	UMLS:C1704254
+27864600	54	57	VUE	T170	UMLS:C1704254
+27864600	81	95	abdominopelvic	T082	UMLS:C1508499
+27864600	96	149	single-source rapid kilovoltage-switching spectral CT	T058	UMLS:C4055114
+27864600	186	203	true non-contrast	T170	UMLS:C1704254
+27864600	205	208	TNC	T170	UMLS:C1704254
+27864600	232	258	intra-abdominal structures	T082	UMLS:C1268217
+27864600	294	325	virtual-unenhanced (VUE) images	T170	UMLS:C1704254
+27864600	335	369	rapid kVp-switching dual-energy CT	T058	UMLS:C4055114
+27864600	386	400	contrast phase	T033	UMLS:C0243095
+27864600	436	439	BMI	T201	UMLS:C1305855
+27864600	441	451	hematocrit	T201	UMLS:C1542366
+27864600	453	463	hemoglobin	T103	UMLS:C0019046
+27864600	476	479	VUE	T170	UMLS:C1704254
+27864600	546	568	triphasic abdominal CT	T058	UMLS:C4055114
+27864600	669	693	retrospectively reviewed	T170	UMLS:C0282443
+27864600	695	705	Unenhanced	T033	UMLS:C0243095
+27864600	733	764	conventional single-energy mode	T058	UMLS:C0040405
+27864600	777	790	Late arterial	T082	UMLS:C0221464
+27864600	795	801	venous	T082	UMLS:C0348013
+27864600	808	821	post-contrast	T033	UMLS:C0243095
+27864600	853	897	rapid kVp-switching dual-energy CT technique	T058	UMLS:C4055114
+27864600	899	909	VUE images	T170	UMLS:C1704254
+27864600	932	950	arterial (VUE-art)	T170	UMLS:C1704254
+27864600	955	971	venous (VUE-ven)	T170	UMLS:C1704254
+27864600	1008	1013	liver	T017	UMLS:C0023884
+27864600	1015	1023	pancreas	T017	UMLS:C0030274
+27864600	1025	1032	kidneys	T017	UMLS:C0022646
+27864600	1034	1048	adrenal glands	T017	UMLS:C0001625
+27864600	1050	1056	muscle	T017	UMLS:C0026845
+27864600	1058	1074	subcutaneous fat	T017	UMLS:C0222331
+27864600	1076	1081	aorta	T017	UMLS:C0003483
+27864600	1083	1086	IVC	T017	UMLS:C0042458
+27864600	1092	1108	main portal vein	T017	UMLS:C1183135
+27864600	1126	1129	TNC	T170	UMLS:C1704254
+27864600	1134	1152	VUE sets of images	T170	UMLS:C1704254
+27864600	1226	1258	Student two-tailed paired t test	T170	UMLS:C1709451
+27864600	1300	1303	TNC	T170	UMLS:C1704254
+27864600	1305	1312	VUE-art	T170	UMLS:C1704254
+27864600	1318	1325	VUE-ven	T170	UMLS:C1704254
+27864600	1356	1362	organs	T017	UMLS:C0178784
+27864600	1377	1398	Paired Student t test	T170	UMLS:C1709451
+27864600	1447	1450	TNC	T170	UMLS:C1704254
+27864600	1455	1462	VUE-art	T170	UMLS:C1704254
+27864600	1478	1485	kidneys	T017	UMLS:C0022646
+27864600	1487	1506	right adrenal gland	T017	UMLS:C0229559
+27864600	1508	1525	paraspinal muscle	T017	UMLS:C0448353
+27864600	1531	1536	aorta	T017	UMLS:C0003483
+27864600	1584	1587	TNC	T170	UMLS:C1704254
+27864600	1592	1599	VUE-ven	T170	UMLS:C1704254
+27864600	1615	1626	left kidney	T017	UMLS:C0227614
+27864600	1684	1687	VUE	T170	UMLS:C1704254
+27864600	1692	1695	TNC	T170	UMLS:C1704254
+27864600	1703	1713	individual	T098	UMLS:C0237401
+27864600	1755	1767	right kidney	T017	UMLS:C0227613
+27864600	1778	1797	right adrenal gland	T017	UMLS:C0229559
+27864600	1833	1836	VUE	T170	UMLS:C1704254
+27864600	1841	1844	TNC	T170	UMLS:C1704254
+27864600	1906	1909	TNC	T170	UMLS:C1704254
+27864600	1914	1917	VUE	T170	UMLS:C1704254
+27864600	1982	2000	paraspinal muscles	T017	UMLS:C0448353
+27864600	2014	2019	aorta	T017	UMLS:C0003483
+27864600	2022	2044	intra-patient analysis	T062	UMLS:C0936012
+27864600	2119	2122	VUE	T170	UMLS:C1704254
+27864600	2127	2130	TNC	T170	UMLS:C1704254
+27864600	2132	2139	VUE-ven	T170	UMLS:C1704254
+27864600	2184	2187	TNC	T170	UMLS:C1704254
+27864600	2220	2246	post-processing algorithms	T170	UMLS:C0002045
+27864600	2297	2300	TNC	T170	UMLS:C1704254
+27864600	2306	2316	VUE images	T170	UMLS:C1704254

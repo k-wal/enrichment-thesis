@@ -1,0 +1,40 @@
+28684635|t|A Type 2 Diabetes-Associated Functional Regulatory Variant in a Pancreatic Islet Enhancer at the ADCY5 Locus.
+28684635|a|Molecular mechanisms remain unknown for most type 2 diabetes genome-wide association study identified loci. Variants associated with type 2 diabetes and fasting glucose levels reside in introns of ADCY5, a gene that encodes adenylate cyclase 5. Adenylate cyclase 5 catalyzes the production of cyclic AMP, which is a second messenger molecule involved in cell signaling and pancreatic b-cell insulin secretion. We demonstrated that type 2 diabetes risk alleles are associated with decreased ADCY5 expression in human islets and examined candidate variants for regulatory function. rs11708067 overlaps a predicted enhancer region in pancreatic islets. The type 2 diabetes risk rs11708067-A allele showed fewer H3K27ac ChIP-seq reads in human islets, lower transcriptional activity in reporter assays in rodent b-cells (rat 832/13 and mouse MIN6), and increased nuclear protein binding compared with the rs11708067-G allele. Homozygous deletion of the orthologous enhancer region in 832/13 cells resulted in a 64% reduction in expression level of Adcy5, but not adjacent gene Sec22a, and a 39% reduction in insulin secretion. Together, these data suggest that rs11708067-A risk allele contributes to type 2 diabetes by disrupting an islet enhancer, which results in reduced ADCY5 expression and impaired insulin secretion.
+28684635	2	17	Type 2 Diabetes	DiseaseOrPhenotypicFeature	D003924
+28684635	97	102	ADCY5	GeneOrGeneProduct	111
+28684635	155	170	type 2 diabetes	DiseaseOrPhenotypicFeature	D003924
+28684635	243	258	type 2 diabetes	DiseaseOrPhenotypicFeature	D003924
+28684635	271	278	glucose	ChemicalEntity	D005947
+28684635	307	312	ADCY5	GeneOrGeneProduct	111
+28684635	334	353	adenylate cyclase 5	GeneOrGeneProduct	111
+28684635	355	374	Adenylate cyclase 5	GeneOrGeneProduct	111
+28684635	403	413	cyclic AMP	ChemicalEntity	D000242
+28684635	501	508	insulin	GeneOrGeneProduct	3630
+28684635	541	556	type 2 diabetes	DiseaseOrPhenotypicFeature	D003924
+28684635	600	605	ADCY5	GeneOrGeneProduct	111
+28684635	620	625	human	OrganismTaxon	9606
+28684635	690	700	rs11708067	SequenceVariant	rs11708067
+28684635	764	779	type 2 diabetes	DiseaseOrPhenotypicFeature	D003924
+28684635	785	795	rs11708067	SequenceVariant	rs11708067
+28684635	844	849	human	OrganismTaxon	9606
+28684635	927	930	rat	OrganismTaxon	10116
+28684635	931	937	832/13	CellLine	CVCL_7226
+28684635	942	947	mouse	OrganismTaxon	10090
+28684635	948	952	MIN6	CellLine	CVCL_0431
+28684635	1011	1021	rs11708067	SequenceVariant	rs11708067
+28684635	1090	1096	832/13	CellLine	CVCL_7226
+28684635	1154	1159	Adcy5	GeneOrGeneProduct	64532
+28684635	1183	1189	Sec22a	GeneOrGeneProduct	117513
+28684635	1214	1221	insulin	GeneOrGeneProduct	24506
+28684635	1267	1277	rs11708067	SequenceVariant	rs11708067
+28684635	1307	1322	type 2 diabetes	DiseaseOrPhenotypicFeature	D003924
+28684635	1381	1386	ADCY5	GeneOrGeneProduct	111
+28684635	1402	1428	impaired insulin secretion	DiseaseOrPhenotypicFeature	D003920
+28684635	Association	D005947	111	No
+28684635	Positive_Correlation	rs11708067	D003920	Novel
+28684635	Association	D000242	3630	No
+28684635	Association	111	D003920	Novel
+28684635	Positive_Correlation	111	D000242	No
+28684635	Association	D003924	D005947	No
+28684635	Positive_Correlation	D003924	rs11708067	Novel
+28684635	Negative_Correlation	D003924	111	Novel

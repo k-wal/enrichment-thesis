@@ -1,0 +1,32 @@
+28335558|t|Modeling the Development of Audiovisual Cue Integration in Speech Perception
+28335558|a|Adult speech perception is generally enhanced when information is provided from multiple modalities. In contrast, infants do not appear to benefit from combining auditory and visual speech information early in development. This is true despite the fact that both modalities are important to speech comprehension even at early stages of language acquisition. How then do listeners learn how to process auditory and visual information as part of a unified signal? In the auditory domain, statistical learning processes provide an excellent mechanism for acquiring phonological categories. Is this also true for the more complex problem of acquiring audiovisual correspondences, which require the learner to integrate information from multiple modalities? In this paper, we present simulations using Gaussian mixture models (GMMs) that learn cue weights and combine cues on the basis of their distributional statistics. First, we simulate the developmental process of acquiring phonological categories from auditory and visual cues, asking whether simple statistical learning approaches are sufficient for learning multi-modal representations. Second, we use this time course information to explain audiovisual speech perception in adult perceivers, including cases where auditory and visual input are mismatched. Overall, we find that domain-general statistical learning techniques allow us to model the developmental trajectory of audiovisual cue integration in speech, and in turn, allow us to better understand the mechanisms that give rise to unified percepts based on multiple cues.
+28335558	0	8	Modeling	T062	UMLS:C0870071
+28335558	44	55	Integration	T038	UMLS:C0679019
+28335558	59	76	Speech Perception	T038	UMLS:C0037826
+28335558	83	100	speech perception	T038	UMLS:C0037826
+28335558	259	265	speech	T038	UMLS:C0037817
+28335558	368	374	speech	T038	UMLS:C0037817
+28335558	375	388	comprehension	T038	UMLS:C0162340
+28335558	413	433	language acquisition	T038	UMLS:C0023013
+28335558	447	456	listeners	T098	UMLS:C1257890
+28335558	457	462	learn	T038	UMLS:C0023185
+28335558	575	583	learning	T038	UMLS:C0023185
+28335558	652	662	categories	T170	UMLS:C0683312
+28335558	703	710	problem	T033	UMLS:C0033213
+28335558	771	778	learner	T098	UMLS:C1257890
+28335558	782	791	integrate	T038	UMLS:C0679019
+28335558	856	867	simulations	T062	UMLS:C0679083
+28335558	874	897	Gaussian mixture models	T170	UMLS:C3161035
+28335558	899	903	GMMs	T170	UMLS:C3161035
+28335558	1004	1012	simulate	T062	UMLS:C0679083
+28335558	1065	1075	categories	T170	UMLS:C0683312
+28335558	1141	1149	learning	T038	UMLS:C0023185
+28335558	1180	1188	learning	T038	UMLS:C0023185
+28335558	1285	1302	speech perception	T038	UMLS:C0037826
+28335558	1312	1322	perceivers	T098	UMLS:C1257890
+28335558	1437	1445	learning	T038	UMLS:C0023185
+28335558	1469	1474	model	T170	UMLS:C3161035
+28335558	1479	1503	developmental trajectory	T170	UMLS:C0282574
+28335558	1523	1534	integration	T038	UMLS:C0679019
+28335558	1538	1544	speech	T038	UMLS:C0037817
+28335558	1630	1638	percepts	T038	UMLS:C0030971

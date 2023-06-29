@@ -1,0 +1,57 @@
+27305688|t|Directed Functional Networks in Alzheimer's Disease: Disruption of Global and Local Connectivity Measures
+27305688|a|Techniques available in graph theory can be applied to signals recorded from human brain. In network analysis of EEG signals, the individual nodes are EEG sensor locations and the edges correspond to functional relations between them that are extracted from EEG time series. In this work, we study EEG -based directed functional networks in Alzheimer's disease (AD). To this end, directed connectivity matrices of 25 AD patients and 26 healthy subjects are processed and a number of neurophysiologically meaningful graph theory metrics are studied. Our data show that functional networks of AD brains have significantly reduced global connectivity in alpha and beta bands (P < 0.05). The AD brains have significantly higher local connectivity than healthy controls in alpha and beta bands. This decreased profile in global connectivity can be linked to compensatory increased local connectivity as a result of widespread decline in the long-range connections. We also study resiliency of brain networks against targeted attack to hub nodes and find that AD networks are less resilient than healthy brains in alpha and beta bands.
+27305688	0	28	Directed Functional Networks	T170	C0870951
+27305688	32	51	Alzheimer's Disease	T047	C0002395
+27305688	53	63	Disruption	T169	C0332453
+27305688	106	116	Techniques	T169	C0449851
+27305688	130	142	graph theory	T078	C0871935
+27305688	161	177	signals recorded	T067	C1710082
+27305688	183	194	human brain	T023	C0006104
+27305688	199	215	network analysis	T062	C4277638
+27305688	219	222	EEG	T060	C0013819
+27305688	223	230	signals	T067	C1710082
+27305688	236	252	individual nodes	T077	C2697524
+27305688	257	260	EEG	T060	C0013819
+27305688	261	267	sensor	T073	C0183210
+27305688	268	277	locations	T082	C0450429
+27305688	286	291	edges	T082	C0205154
+27305688	306	326	functional relations	T077	C2700217
+27305688	364	367	EEG	T060	C0013819
+27305688	368	379	time series	T079	C0871939
+27305688	404	407	EEG	T060	C0013819
+27305688	415	443	directed functional networks	T170	C0870951
+27305688	447	466	Alzheimer's disease	T047	C0002395
+27305688	468	470	AD	T047	C0002395
+27305688	486	516	directed connectivity matrices	T082	C1254362
+27305688	523	525	AD	T047	C0002395
+27305688	526	534	patients	T101	C0030705
+27305688	542	558	healthy subjects	T098	C1708335
+27305688	563	572	processed	T067	C1522240
+27305688	589	609	neurophysiologically	T039	C0700630
+27305688	621	641	graph theory metrics	T170	C0681493
+27305688	659	663	data	T078	C1511726
+27305688	674	693	functional networks	T169	C1882071
+27305688	697	699	AD	T047	C0002395
+27305688	700	706	brains	T023	C0006104
+27305688	712	733	significantly reduced	T081	C4055638
+27305688	757	762	alpha	T082	C0439645
+27305688	767	777	beta bands	T082	C0439645
+27305688	794	796	AD	T047	C0002395
+27305688	797	803	brains	T023	C0006104
+27305688	809	829	significantly higher	T081	C4055637
+27305688	854	870	healthy controls	T080	C2986479
+27305688	874	879	alpha	T082	C0439645
+27305688	884	894	beta bands	T082	C0439645
+27305688	901	918	decreased profile	T033	C0243095
+27305688	1016	1034	widespread decline	T081	C0282251
+27305688	1080	1090	resiliency	T055	C0679688
+27305688	1094	1108	brain networks	T023	C2951780
+27305688	1117	1132	targeted attack	T033	C0243095
+27305688	1136	1145	hub nodes	T077	C2697524
+27305688	1160	1162	AD	T047	C0002395
+27305688	1163	1171	networks	T023	C2951780
+27305688	1176	1190	less resilient	T033	C4061621
+27305688	1196	1203	healthy	T080	C3898900
+27305688	1204	1210	brains	T023	C0006104
+27305688	1214	1219	alpha	T082	C0439645
+27305688	1224	1234	beta bands	T082	C0439645

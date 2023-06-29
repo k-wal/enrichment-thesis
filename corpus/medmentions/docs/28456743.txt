@@ -1,0 +1,106 @@
+28456743|t|Does objective quality of physicians correlate with patient satisfaction measured by Hospital Compare metrics in New York State?
+28456743|a|It is unclear whether publicly reported benchmarks correlate with the quality of physicians and institutions. We investigated the association of patient satisfaction measures from a public reporting platform with the performance of neurosurgeons in New York State. We performed a cohort study involving patients undergoing neurosurgical operations from 2009-2013, who were registered in the Statewide Planning and Research Cooperative System (SPARCS) database. This cohort was merged with publicly available data from the CMS Hospital Compare website. A propensity adjusted regression analysis was used to investigate the association of patient satisfaction metrics with neurosurgeon quality, as measured by their individual rate of mortality and average length-of-stay (LOS). Overall, 166,365 patients underwent neurosurgical procedures during the study. Using a propensity adjusted multivariable regression analysis we demonstrated that undergoing neurosurgical operations in hospitals with a greater percentage of patient - assigned " high " score were associated with higher chance of being treated by a physician with superior performance in terms of mortality (OR 1.90; 95% CI, 1.86 to 1.95), and a higher chance of being treated by a physician with superior performance in terms of length-of-stay (LOS) (OR 1.24; 95% CI, 1.21 to 1.27). Similar associations were identified for hospitals with a higher percentage of patients, who claimed they would recommend these institutions to others. Merging a comprehensive all-payer cohort of neurosurgery patients in New York State with data from the CMS Hospital Compare website, we observed an association of superior hospital - level patient satisfaction measures with the objective performance of individual neurosurgeons in the corresponding hospitals.
+28456743	5	14	objective	T080	C1571702
+28456743	15	22	quality	T080	C0332306
+28456743	26	36	physicians	T097	C0031831
+28456743	37	46	correlate	T080	C1707520
+28456743	52	72	patient satisfaction	T080	C0030702
+28456743	73	81	measured	T080	C0444706
+28456743	85	109	Hospital Compare metrics	T170	C0282574
+28456743	113	127	New York State	T083	C0027977
+28456743	135	142	unclear	T033	C3845108
+28456743	169	179	benchmarks	T081	C0525063
+28456743	180	189	correlate	T080	C1707520
+28456743	199	206	quality	T080	C0332306
+28456743	210	220	physicians	T097	C0031831
+28456743	225	237	institutions	UnknownType	C0337951
+28456743	242	254	investigated	T169	C1292732
+28456743	259	270	association	T080	C0439849
+28456743	274	294	patient satisfaction	T080	C0030702
+28456743	295	303	measures	T081	C0079809
+28456743	346	357	performance	T055	C0597198
+28456743	361	374	neurosurgeons	T097	C0237427
+28456743	378	392	New York State	T083	C0027977
+28456743	397	406	performed	T169	C0884358
+28456743	409	421	cohort study	T081	C0009247
+28456743	422	431	involving	T169	C1314939
+28456743	432	440	patients	T101	C0030705
+28456743	452	476	neurosurgical operations	T061	C0524850
+28456743	502	512	registered	T058	C1514821
+28456743	520	588	Statewide Planning and Research Cooperative System (SPARCS) database	T170	C0242356
+28456743	595	601	cohort	T098	C0599755
+28456743	606	612	merged	T052	C1881786
+28456743	618	641	publicly available data	UnknownType	C0677295
+28456743	651	679	CMS Hospital Compare website	T170	C2349146
+28456743	703	722	regression analysis	T170	C0034980
+28456743	735	746	investigate	T169	C1292732
+28456743	751	762	association	T080	C0439849
+28456743	766	794	patient satisfaction metrics	T170	C0451370
+28456743	800	812	neurosurgeon	T097	C0237427
+28456743	813	820	quality	T080	C0332306
+28456743	825	833	measured	T080	C0444706
+28456743	843	853	individual	T098	C0237401
+28456743	854	871	rate of mortality	T081	C0026565
+28456743	876	883	average	T081	C1510992
+28456743	884	898	length-of-stay	T079	C0023303
+28456743	900	903	LOS	T079	C0023303
+28456743	906	913	Overall	T080	C1561607
+28456743	923	931	patients	T101	C0030705
+28456743	942	966	neurosurgical procedures	T061	C0524850
+28456743	978	983	study	T062	C2603343
+28456743	1013	1046	multivariable regression analysis	T170	C0034980
+28456743	1079	1103	neurosurgical operations	T061	C0524850
+28456743	1107	1116	hospitals	T073,T093	C0019994
+28456743	1124	1131	greater	T081	C1704243
+28456743	1132	1142	percentage	T081	C0439165
+28456743	1146	1153	patient	T101	C0030705
+28456743	1156	1164	assigned	T169	C1516050
+28456743	1167	1171	high	T080	C0205250
+28456743	1174	1179	score	T081	C0449820
+28456743	1185	1200	associated with	T080	C0332281
+28456743	1201	1207	higher	T080	C0205250
+28456743	1208	1214	chance	T080	C0237506
+28456743	1224	1231	treated	T169	C1522326
+28456743	1237	1246	physician	T097	C0031831
+28456743	1252	1260	superior	T080	C0205250
+28456743	1261	1272	performance	T055	C0597198
+28456743	1285	1294	mortality	T081	C0205848
+28456743	1296	1298	OR	T081	C0028873
+28456743	1309	1311	CI	T081	C0009667
+28456743	1334	1340	higher	T080	C0205250
+28456743	1341	1347	chance	T080	C0237506
+28456743	1357	1364	treated	T169	C1522326
+28456743	1370	1379	physician	T097	C0031831
+28456743	1385	1393	superior	T080	C0205250
+28456743	1394	1405	performance	T055	C0597198
+28456743	1418	1432	length-of-stay	T079	C0023303
+28456743	1434	1437	LOS	T079	C0023303
+28456743	1440	1442	OR	T081	C0028873
+28456743	1453	1455	CI	T081	C0009667
+28456743	1480	1492	associations	T080	C0439849
+28456743	1513	1522	hospitals	T073,T093	C0019994
+28456743	1530	1536	higher	T080	C0205250
+28456743	1537	1547	percentage	T081	C0439165
+28456743	1551	1559	patients	T101	C0030705
+28456743	1584	1593	recommend	T078	C0034866
+28456743	1600	1612	institutions	UnknownType	C0337951
+28456743	1624	1631	Merging	T052	C1881786
+28456743	1634	1647	comprehensive	T080	C1880156
+28456743	1648	1664	all-payer cohort	T098	C0599755
+28456743	1668	1680	neurosurgery	T061	C0524850
+28456743	1681	1689	patients	T101	C0030705
+28456743	1693	1707	New York State	T083	C0027977
+28456743	1713	1717	data	T078	C1511726
+28456743	1727	1755	CMS Hospital Compare website	T170	C2349146
+28456743	1760	1768	observed	T169	C1441672
+28456743	1772	1783	association	T080	C0439849
+28456743	1787	1795	superior	T080	C0205250
+28456743	1796	1804	hospital	T073,T093	C0019994
+28456743	1807	1812	level	T080	C0441889
+28456743	1813	1833	patient satisfaction	T080	C0030702
+28456743	1834	1842	measures	T081	C0079809
+28456743	1852	1861	objective	T080	C1571702
+28456743	1862	1873	performance	T055	C0597198
+28456743	1877	1887	individual	T098	C0237401
+28456743	1888	1901	neurosurgeons	T097	C0237427
+28456743	1923	1932	hospitals	T073,T093	C0019994

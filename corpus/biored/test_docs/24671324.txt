@@ -1,0 +1,36 @@
+24671324|t|Necrotising fasciitis after bortezomib and dexamethasone-containing regimen in an elderly patient of Waldenstrom macroglobulinaemia.
+24671324|a|Bortezomib and high-dose dexamethasone-containing regimens are considered to be generally tolerable with few severe bacterial infections in patients with B-cell malignancies. However, information is limited concerning the safety of the regimen in elderly patients. We report a case of a 76-year-old man with Waldenstrom macroglobulinaemia who suffered necrotising fasciitis without neutropenia after the combination treatment with bortezomib, high-dose dexamethasone and rituximab. Despite immediate intravenous antimicrobial therapy, he succumbed 23 h after the onset. Physicians should recognise the possibility of fatal bacterial infections related to bortezomib plus high-dose dexamethasone in elderly patients, and we believe this case warrants further investigation.
+24671324	0	21	Necrotising fasciitis	DiseaseOrPhenotypicFeature	D019115
+24671324	28	38	bortezomib	ChemicalEntity	D000069286
+24671324	43	56	dexamethasone	ChemicalEntity	D003907
+24671324	90	97	patient	OrganismTaxon	9606
+24671324	101	131	Waldenstrom macroglobulinaemia	DiseaseOrPhenotypicFeature	D008258
+24671324	133	143	Bortezomib	ChemicalEntity	D000069286
+24671324	158	171	dexamethasone	ChemicalEntity	D003907
+24671324	249	269	bacterial infections	DiseaseOrPhenotypicFeature	D001424
+24671324	273	281	patients	OrganismTaxon	9606
+24671324	294	306	malignancies	DiseaseOrPhenotypicFeature	D009369
+24671324	388	396	patients	OrganismTaxon	9606
+24671324	432	435	man	OrganismTaxon	9606
+24671324	441	471	Waldenstrom macroglobulinaemia	DiseaseOrPhenotypicFeature	D008258
+24671324	485	506	necrotising fasciitis	DiseaseOrPhenotypicFeature	D019115
+24671324	515	526	neutropenia	DiseaseOrPhenotypicFeature	D009503
+24671324	564	574	bortezomib	ChemicalEntity	D000069286
+24671324	586	599	dexamethasone	ChemicalEntity	D003907
+24671324	604	613	rituximab	ChemicalEntity	D000069283
+24671324	756	776	bacterial infections	DiseaseOrPhenotypicFeature	D001424
+24671324	788	798	bortezomib	ChemicalEntity	D000069286
+24671324	814	827	dexamethasone	ChemicalEntity	D003907
+24671324	839	847	patients	OrganismTaxon	9606
+24671324	Positive_Correlation	D001424	D003907	Novel
+24671324	Positive_Correlation	D001424	D000069286	Novel
+24671324	Negative_Correlation	D000069283	D008258	No
+24671324	Negative_Correlation	D003907	D009369	No
+24671324	Cotreatment	D003907	D000069283	No
+24671324	Negative_Correlation	D003907	D008258	No
+24671324	Negative_Correlation	D000069286	D009369	No
+24671324	Cotreatment	D000069286	D000069283	No
+24671324	Negative_Correlation	D000069286	D008258	No
+24671324	Cotreatment	D000069286	D003907	No
+24671324	Positive_Correlation	D019115	D003907	Novel
+24671324	Positive_Correlation	D019115	D000069286	Novel

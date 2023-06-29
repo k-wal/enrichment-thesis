@@ -1,0 +1,28 @@
+18356633|t|An evaluation of amikacin nephrotoxicity in the hematology/oncology population.
+18356633|a|Amikacin is an aminoglycoside commonly used to provide empirical double gram-negative treatment for febrile neutropenia and other suspected infections. Strategies of extended-interval and conventional dosing have been utilized extensively in the general medical population; however, data are lacking to support a dosing strategy in the hematology/oncology population. To evaluate amikacin-associated nephrotoxicity in an adult hematology/oncology population, a prospective, randomized, open-label trial was conducted at a university-affiliated medical center. Forty patients with a diagnosis consistent with a hematologic/oncologic disorder that required treatment with an aminoglycoside were randomized to either conventional or extended-interval amikacin. The occurrence of nephrotoxicity by means of an increase in serum creatinine and evaluation of efficacy via amikacin serum concentrations with respective pathogens were assessed. The occurrence of nephrotoxicity was similar between the conventional and extended-interval groups, at 10% and 5%, respectively (P = 1.00). Six patients in the conventional group had a positive culture, compared with none in the extended-interval group (P = 0.002). The occurrence of nephrotoxicity was similar between the two dosing regimens, but the distribution of risk factors was variable between the two groups. Efficacy could not be assessed.
+18356633	17	25	amikacin	ChemicalEntity	D000583
+18356633	26	40	nephrotoxicity	DiseaseOrPhenotypicFeature	D007674
+18356633	80	88	Amikacin	ChemicalEntity	D000583
+18356633	95	109	aminoglycoside	ChemicalEntity	D000617
+18356633	180	199	febrile neutropenia	DiseaseOrPhenotypicFeature	D009503
+18356633	220	230	infections	DiseaseOrPhenotypicFeature	D007239
+18356633	460	468	amikacin	ChemicalEntity	D000583
+18356633	480	494	nephrotoxicity	DiseaseOrPhenotypicFeature	D007674
+18356633	646	654	patients	OrganismTaxon	9606
+18356633	690	720	hematologic/oncologic disorder	DiseaseOrPhenotypicFeature	D006402,D009369
+18356633	753	767	aminoglycoside	ChemicalEntity	D000617
+18356633	828	836	amikacin	ChemicalEntity	D000583
+18356633	856	870	nephrotoxicity	DiseaseOrPhenotypicFeature	D007674
+18356633	904	914	creatinine	ChemicalEntity	D003404
+18356633	946	954	amikacin	ChemicalEntity	D000583
+18356633	1035	1049	nephrotoxicity	DiseaseOrPhenotypicFeature	D007674
+18356633	1161	1169	patients	OrganismTaxon	9606
+18356633	1301	1315	nephrotoxicity	DiseaseOrPhenotypicFeature	D007674
+18356633	Negative_Correlation	D009369	D000617	Novel
+18356633	Negative_Correlation	D009369	D000583	Novel
+18356633	Negative_Correlation	D006402	D000617	Novel
+18356633	Negative_Correlation	D006402	D000583	Novel
+18356633	Positive_Correlation	D007674	D003404	No
+18356633	Negative_Correlation	D000583	D007239	No
+18356633	Negative_Correlation	D000583	D009503	No
+18356633	Positive_Correlation	D000583	D007674	Novel

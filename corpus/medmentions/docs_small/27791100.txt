@@ -1,0 +1,55 @@
+27791100|t|F901318 represents a novel class of antifungal drug that inhibits dihydroorotate dehydrogenase
+27791100|a|There is an important medical need for new antifungal agents with novel mechanisms of action to treat the increasing number of patients with life-threatening systemic fungal disease and to overcome the growing problem of resistance to current therapies. F901318, the leading representative of a novel class of drug, the orotomides, is an antifungal drug in clinical development that demonstrates excellent potency against a broad range of dimorphic and filamentous fungi. In vitro susceptibility testing of F901318 against more than 100 strains from the four main pathogenic Aspergillus spp. revealed minimal inhibitory concentrations of ≤0.06 µg/mL- greater potency than the leading antifungal classes. An investigation into the mechanism of action of F901318 found that it acts via inhibition of the pyrimidine biosynthesis enzyme dihydroorotate dehydrogenase (DHODH) in a fungal - specific manner. Homology modeling of Aspergillus fumigatus DHODH has identified a predicted binding mode of the inhibitor and important interacting amino acid residues. In a murine pulmonary model of aspergillosis, F901318 displays in vivo efficacy against a strain of A. fumigatus sensitive to the azole class of antifungals and a strain displaying an azole - resistant phenotype. F901318 is currently in late Phase 1 clinical trials, offering hope that the antifungal armamentarium can be expanded to include a class of agent with a mechanism of action distinct from currently marketed antifungals.
+27791100	0	7	F901318	T103	UMLS:C3896862
+27791100	27	32	class	T170	UMLS:C0456387
+27791100	36	51	antifungal drug	T103	UMLS:C0003308
+27791100	66	94	dihydroorotate dehydrogenase	T103	UMLS:C0058099
+27791100	138	155	antifungal agents	T103	UMLS:C0003308
+27791100	191	196	treat	T058	UMLS:C0087111
+27791100	212	230	number of patients	T033	UMLS:C2360800
+27791100	236	252	life-threatening	T033	UMLS:C2826244
+27791100	253	276	systemic fungal disease	T038	UMLS:C0553576
+27791100	305	312	problem	T033	UMLS:C0033213
+27791100	316	326	resistance	T038	UMLS:C1514892
+27791100	330	347	current therapies	T058	UMLS:C2827774
+27791100	349	356	F901318	T103	UMLS:C3896862
+27791100	396	401	class	T170	UMLS:C0456387
+27791100	405	409	drug	T103	UMLS:C1254351
+27791100	415	425	orotomides	T103	UMLS:C1254351
+27791100	433	448	antifungal drug	T103	UMLS:C0003308
+27791100	452	472	clinical development	T062	UMLS:C1512068
+27791100	534	543	dimorphic	T204	UMLS:C1562222
+27791100	548	565	filamentous fungi	T204	UMLS:C0369241
+27791100	576	598	susceptibility testing	T058	UMLS:C0806957
+27791100	602	609	F901318	T103	UMLS:C3896862
+27791100	670	685	Aspergillus spp	T204	UMLS:C0004034
+27791100	696	729	minimal inhibitory concentrations	T033	UMLS:C1304747
+27791100	779	789	antifungal	T103	UMLS:C0003235
+27791100	790	797	classes	T170	UMLS:C0456387
+27791100	802	815	investigation	T058	UMLS:C0220825
+27791100	848	855	F901318	T103	UMLS:C3896862
+27791100	897	907	pyrimidine	T103	UMLS:C0034289
+27791100	921	956	enzyme dihydroorotate dehydrogenase	T103	UMLS:C0058099
+27791100	958	963	DHODH	T103	UMLS:C0058099
+27791100	970	976	fungal	T204	UMLS:C0016832
+27791100	996	1013	Homology modeling	T062	UMLS:C1512489
+27791100	1017	1038	Aspergillus fumigatus	T204	UMLS:C0004037
+27791100	1039	1044	DHODH	T103	UMLS:C0058099
+27791100	1128	1147	amino acid residues	T103	UMLS:C0002520
+27791100	1154	1160	murine	T204	UMLS:C0026809
+27791100	1161	1170	pulmonary	T017	UMLS:C0024109
+27791100	1180	1193	aspergillosis	T038	UMLS:C0004030
+27791100	1195	1202	F901318	T103	UMLS:C3896862
+27791100	1212	1219	in vivo	T082	UMLS:C1515655
+27791100	1249	1261	A. fumigatus	T204	UMLS:C0004037
+27791100	1279	1284	azole	T103	UMLS:C0004504
+27791100	1285	1290	class	T170	UMLS:C0456387
+27791100	1294	1305	antifungals	T103	UMLS:C0003235
+27791100	1333	1338	azole	T103	UMLS:C0004504
+27791100	1362	1369	F901318	T103	UMLS:C3896862
+27791100	1399	1414	clinical trials	T062	UMLS:C0008976
+27791100	1439	1449	antifungal	T103	UMLS:C0003235
+27791100	1471	1479	expanded	T082	UMLS:C0205229
+27791100	1493	1498	class	T170	UMLS:C0456387
+27791100	1502	1507	agent	T103	UMLS:C0003308
+27791100	1568	1579	antifungals	T103	UMLS:C0003235

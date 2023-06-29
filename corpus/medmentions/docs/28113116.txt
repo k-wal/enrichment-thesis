@@ -1,0 +1,97 @@
+28113116|t|Metabolic Interference of sod gene mutations on catalase activity in Escherichia coli exposed to Gramoxone ® (paraquat) herbicide
+28113116|a|Herbicides are continuously used to minimize the loss of crop productivity in agricultural environments. They can, however, cause damage by inhibiting the growth of microbiota via oxidative stress, due to the increased production of reactive oxygen species (ROS). Cellular responses to ROS involve the action of enzymes, including superoxide dismutase (SOD) and catalase (CAT). The objective of this study was to evaluate adaptive responses in Escherichia coli K-12 to paraquat, the active ingredient in the herbicide Gramoxone ®. Mutant bacterial strains carrying deletions in genes encoding Mn-SOD (sodA) and Fe-SOD (sodB) were used and resulted in distinct levels of hydrogen peroxide production, interference in malondialdehyde, and viability. Mutations also resulted in different levels of interference with the activity of CAT isoenzymes and in the inactivation of Cu/Zn-SOD activity. These mutations may be responsible for metabolic differences among the evaluated strains, resulting in different patterns of antioxidative responses, depending on mutation background. While damage to the Δ sodB strain was minor at late log phase, the reverse was true at mid log phase for the Δ sodA strain. These results demonstrate the important role of these genes in defense against oxidative stress in different periods of growth. Furthermore, the lack of Cu/Zn-SOD activity in both mutant strains indicated that common metal cofactors likely interfere in SOD activity regulation. These results also indicate that E. coli K-12, a classical non-environmental strain, constitutes a model of phenotypic plasticity for adaptation to a redox-cycling herbicide through redundancy of different isoforms of SOD and CAT enzymes.
+28113116	0	9	Metabolic	T169	C0311400
+28113116	10	22	Interference	T169	C0521102
+28113116	26	29	sod	T116,T121,T126	C0038838
+28113116	30	44	gene mutations	T045	C0596611
+28113116	48	65	catalase activity	T044	C1151515
+28113116	69	85	Escherichia coli	T007	C0014834
+28113116	86	96	exposed to	T080	C0332157
+28113116	97	106	Gramoxone	T109,T131	C0282285
+28113116	110	118	paraquat	T109,T131	C0030493
+28113116	120	129	herbicide	T131	C0019236
+28113116	130	140	Herbicides	T131	C0019236
+28113116	179	183	loss	T081	C1517945
+28113116	187	191	crop	T002	C0242775
+28113116	192	204	productivity	T081	C0033269
+28113116	208	233	agricultural environments	T082	C0562975
+28113116	260	266	damage	T169	C1883709
+28113116	270	280	inhibiting	T052	C3463820
+28113116	285	305	growth of microbiota	T040	C0597252
+28113116	310	326	oxidative stress	T049	C0242606
+28113116	349	359	production	T057	C0033268
+28113116	363	386	reactive oxygen species	T123,T196	C0162772
+28113116	388	391	ROS	T123,T196	C0162772
+28113116	394	419	Cellular responses to ROS	T043	C2612730
+28113116	432	438	action	T052	C3266814
+28113116	442	449	enzymes	T116,T126	C0014442
+28113116	461	481	superoxide dismutase	T116,T121,T126	C0038838
+28113116	483	486	SOD	T116,T121,T126	C0038838
+28113116	492	500	catalase	T116,T126	C0007367
+28113116	502	505	CAT	T116,T126	C0007367
+28113116	552	570	adaptive responses	T043	C2752209
+28113116	574	595	Escherichia coli K-12	T007	C0596533
+28113116	599	607	paraquat	T109,T131	C0030493
+28113116	613	630	active ingredient	T120	C1372955
+28113116	638	647	herbicide	T131	C0019236
+28113116	648	657	Gramoxone	T109,T131	C0282285
+28113116	661	667	Mutant	T049	C0596988
+28113116	668	685	bacterial strains	T007	C0004611
+28113116	695	704	deletions	T045	C0017260
+28113116	708	713	genes	T028	C0017337
+28113116	714	722	encoding	T052	C2700640
+28113116	723	729	Mn-SOD	T116,T126	C0024708
+28113116	731	735	sodA	T028	C1420307
+28113116	741	747	Fe-SOD	T116,T126	C0022091
+28113116	749	753	sodB	T028	C0017337
+28113116	769	780	resulted in	T169	C0332294
+28113116	800	817	hydrogen peroxide	T121,T130,T197	C0020281
+28113116	818	828	production	T057	C0033268
+28113116	830	842	interference	T169	C0521102
+28113116	846	861	malondialdehyde	T109,T123	C0024643
+28113116	867	876	viability	T080	C0443348
+28113116	878	887	Mutations	T045	C0026882
+28113116	893	904	resulted in	T169	C0332294
+28113116	925	942	interference with	T169	C0521102
+28113116	947	962	activity of CAT	T044	C1151515
+28113116	963	973	isoenzymes	T116,T126	C0022173
+28113116	985	997	inactivation	T169	C0544461
+28113116	1001	1010	Cu/Zn-SOD	T044	C2261927
+28113116	1011	1019	activity	T052	C0441655
+28113116	1027	1036	mutations	T045	C0026882
+28113116	1060	1069	metabolic	T169	C0311400
+28113116	1070	1081	differences	T080	C1705242
+28113116	1102	1109	strains	T007	C0004611
+28113116	1111	1123	resulting in	T169	C0332294
+28113116	1146	1159	antioxidative	T121	C0003402
+28113116	1160	1169	responses	T032	C0871261
+28113116	1184	1192	mutation	T045	C0026882
+28113116	1211	1217	damage	T169	C1883709
+28113116	1227	1231	sodB	T028	C0017337
+28113116	1232	1238	strain	T007	C0004611
+28113116	1316	1320	sodA	T028	C1420307
+28113116	1321	1327	strain	T007	C0004611
+28113116	1335	1342	results	T169	C1274040
+28113116	1383	1388	genes	T028	C0017337
+28113116	1392	1424	defense against oxidative stress	T043	C1155312
+28113116	1449	1455	growth	T040	C0018270
+28113116	1482	1491	Cu/Zn-SOD	T044	C2261927
+28113116	1492	1500	activity	T052	C0441655
+28113116	1509	1515	mutant	T049	C0596988
+28113116	1516	1523	strains	T007	C0004611
+28113116	1524	1533	indicated	T033	C1444656
+28113116	1546	1551	metal	T197	C0025552
+28113116	1552	1561	cofactors	T123	C0178555
+28113116	1582	1585	SOD	T116,T121,T126	C0038838
+28113116	1586	1605	activity regulation	T044	C1327623
+28113116	1613	1620	results	T169	C1274040
+28113116	1640	1652	E. coli K-12	T007	C0596533
+28113116	1684	1690	strain	T007	C0004611
+28113116	1715	1725	phenotypic	T032	C0031437
+28113116	1726	1736	plasticity	T070	C0678558
+28113116	1741	1751	adaptation	T038	C0392673
+28113116	1757	1770	redox-cycling	T044	C0030012
+28113116	1771	1780	herbicide	T131	C0019236
+28113116	1813	1821	isoforms	T116,T126	C0022173
+28113116	1825	1828	SOD	T116,T121,T126	C0038838
+28113116	1833	1844	CAT enzymes	T116,T126	C0007367

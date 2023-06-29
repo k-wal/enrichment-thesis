@@ -1,0 +1,64 @@
+24333387|t|Glial activation and post-synaptic neurotoxicity: the key events in Streptozotocin (ICV) induced memory impairment in rats.
+24333387|a|In the present study the role of glial activation and post synaptic toxicity in ICV Streptozotocin (STZ) induced memory impaired rats was explored. In experiment set up 1: Memory deficit was found in Morris water maze test on 14-16 days after STZ (ICV; 3mg/Kg) administration. STZ causes increased expression of GFAP, CD11b and TNF-a indicating glial activation and neuroinflammation. STZ also significantly increased the level of ROS, nitrite, Ca(2+) and reduced the mitochondrial activity in synaptosomal preparation illustrating free radical generation and excitotoxicity. Increased expression and activity of Caspase-3 was also observed in STZ treated rat which specify apoptotic cell death in hippocampus and cortex. STZ treatment showed decrease expression of post synaptic markers CaMKIIa and PSD-95, while, expression of pre synaptic markers (synaptophysin and SNAP-25) remains unaltered indicating selective post synaptic neurotoxicity. Oral treatment with Memantine (10mg/kg) and Ibuprofen (50 mg/kg) daily for 13 days attenuated STZ induced glial activation, apoptotic cell death and post synaptic neurotoxicity in rat brain. Further, in experiment set up 2: where memory function was not affected i.e. 7-9 days after STZ treatment. The level of GFAP, CD11b, TNF-a, ROS and nitrite levels were increased. On the other hand, apoptotic marker, synaptic markers, mitochondrial activity and Ca(2+) levels remained unaffected. Collective data indicates that neuroinflammatory process and oxidative stress occurs earlier to apoptosis and does not affect memory function. Present study clearly suggests that glial activation and post synaptic neurotoxicity are the key factors in STZ induced memory impairment and neuronal cell death.
+24333387	35	48	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+24333387	68	82	Streptozotocin	ChemicalEntity	D013311
+24333387	97	114	memory impairment	DiseaseOrPhenotypicFeature	D008569
+24333387	118	122	rats	OrganismTaxon	10116
+24333387	192	200	toxicity	DiseaseOrPhenotypicFeature	D064420
+24333387	208	222	Streptozotocin	ChemicalEntity	D013311
+24333387	224	227	STZ	ChemicalEntity	D013311
+24333387	237	252	memory impaired	DiseaseOrPhenotypicFeature	D008569
+24333387	253	257	rats	OrganismTaxon	10116
+24333387	296	310	Memory deficit	DiseaseOrPhenotypicFeature	D008569
+24333387	367	370	STZ	ChemicalEntity	D013311
+24333387	401	404	STZ	ChemicalEntity	D013311
+24333387	436	440	GFAP	GeneOrGeneProduct	24387
+24333387	442	447	CD11b	GeneOrGeneProduct	25021
+24333387	452	457	TNF-a	GeneOrGeneProduct	24835
+24333387	490	507	neuroinflammation	DiseaseOrPhenotypicFeature	D007249
+24333387	509	512	STZ	ChemicalEntity	D013311
+24333387	555	558	ROS	ChemicalEntity	D017382
+24333387	560	567	nitrite	ChemicalEntity	D009573
+24333387	569	575	Ca(2+)	ChemicalEntity	D002118
+24333387	684	698	excitotoxicity	DiseaseOrPhenotypicFeature	D064420
+24333387	737	746	Caspase-3	GeneOrGeneProduct	25402
+24333387	768	771	STZ	ChemicalEntity	D013311
+24333387	780	783	rat	OrganismTaxon	10116
+24333387	846	849	STZ	ChemicalEntity	D013311
+24333387	912	919	CaMKIIa	GeneOrGeneProduct	25400
+24333387	924	930	PSD-95	GeneOrGeneProduct	29495
+24333387	975	988	synaptophysin	GeneOrGeneProduct	24804
+24333387	993	1000	SNAP-25	GeneOrGeneProduct	25012
+24333387	1055	1068	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+24333387	1090	1099	Memantine	ChemicalEntity	D008559
+24333387	1114	1123	Ibuprofen	ChemicalEntity	D007052
+24333387	1164	1167	STZ	ChemicalEntity	D013311
+24333387	1233	1246	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+24333387	1250	1253	rat	OrganismTaxon	10116
+24333387	1353	1356	STZ	ChemicalEntity	D013311
+24333387	1381	1385	GFAP	GeneOrGeneProduct	24387
+24333387	1387	1392	CD11b	GeneOrGeneProduct	25021
+24333387	1394	1399	TNF-a	GeneOrGeneProduct	24835
+24333387	1401	1404	ROS	ChemicalEntity	D017382
+24333387	1409	1416	nitrite	ChemicalEntity	D009573
+24333387	1522	1528	Ca(2+)	ChemicalEntity	D002118
+24333387	1588	1605	neuroinflammatory	DiseaseOrPhenotypicFeature	D007249
+24333387	1771	1784	neurotoxicity	DiseaseOrPhenotypicFeature	D020258
+24333387	1808	1811	STZ	ChemicalEntity	D013311
+24333387	1820	1837	memory impairment	DiseaseOrPhenotypicFeature	D008569
+24333387	Negative_Correlation	D007052	D020258	Novel
+24333387	Negative_Correlation	D008559	D020258	Novel
+24333387	Negative_Correlation	D013311	D007052	Novel
+24333387	Positive_Correlation	D013311	D020258	No
+24333387	Negative_Correlation	D013311	D008559	Novel
+24333387	Negative_Correlation	D013311	25400	Novel
+24333387	Negative_Correlation	D013311	29495	Novel
+24333387	Positive_Correlation	D013311	25402	Novel
+24333387	Positive_Correlation	D013311	D002118	Novel
+24333387	Positive_Correlation	D013311	D017382	Novel
+24333387	Positive_Correlation	D013311	D009573	Novel
+24333387	Positive_Correlation	D013311	24835	Novel
+24333387	Positive_Correlation	D013311	D007249	Novel
+24333387	Positive_Correlation	D013311	25021	Novel
+24333387	Positive_Correlation	D013311	24387	Novel
+24333387	Positive_Correlation	D013311	D008569	Novel

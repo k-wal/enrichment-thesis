@@ -1,0 +1,32 @@
+27824066|t|A Novel Insulin/Glucose Model after a Mixed-Meal Test in Patients with Type 1 Diabetes on Insulin Pump Therapy
+27824066|a|Current closed-loop insulin delivery methods stem from sophisticated models of the glucose-insulin (G/I) system, mostly based on complex studies employing glucose tracer technology. We tested the performance of a new minimal model (GLUKINSLOOP 2.0) of the G/I system to characterize the glucose and insulin dynamics during multiple mixed meal tests (MMT) of different sizes in patients with type 1 diabetes (T1D) on insulin pump therapy (continuous subcutaneous insulin infusion, CSII). The GLUKINSLOOP 2.0 identified the G/I system, provided a close fit of the G/I time-courses and showed acceptable reproducibility of the G/I system parameters in repeated studies of identical and double-sized MMTs. This model can provide a fairly good and reproducible description of the G/I system in T1D patients on CSII, and it may be applied to create a bank of "virtual" patients. Our results might be relevant at improving the architecture of upcoming closed-loop CSII systems.
+27824066	24	29	Model	T170	UMLS:C3161035
+27824066	38	53	Mixed-Meal Test	T058	UMLS:C0202098
+27824066	71	86	Type 1 Diabetes	T038	UMLS:C0011854
+27824066	90	102	Insulin Pump	T074	UMLS:C1140609
+27824066	103	110	Therapy	T058	UMLS:C0087111
+27824066	119	155	closed-loop insulin delivery methods	T074	UMLS:C0181334
+27824066	248	255	studies	T062	UMLS:C0008972
+27824066	256	265	employing	T033	UMLS:C0557351
+27824066	328	341	minimal model	T170	UMLS:C3161035
+27824066	343	358	GLUKINSLOOP 2.0	T170	UMLS:C3161035
+27824066	443	459	mixed meal tests	T058	UMLS:C0202098
+27824066	461	464	MMT	T058	UMLS:C0202098
+27824066	479	484	sizes	T082	UMLS:C0456389
+27824066	502	517	type 1 diabetes	T038	UMLS:C0011854
+27824066	519	522	T1D	T038	UMLS:C0011854
+27824066	527	539	insulin pump	T074	UMLS:C1140609
+27824066	540	547	therapy	T058	UMLS:C0087111
+27824066	549	589	continuous subcutaneous insulin infusion	T058	UMLS:C0393124
+27824066	591	595	CSII	T058	UMLS:C0393124
+27824066	602	617	GLUKINSLOOP 2.0	T170	UMLS:C3161035
+27824066	746	756	parameters	T033	UMLS:C0449381
+27824066	769	776	studies	T062	UMLS:C0008972
+27824066	807	811	MMTs	T058	UMLS:C0202098
+27824066	818	823	model	T170	UMLS:C3161035
+27824066	867	878	description	T170	UMLS:C0678257
+27824066	900	903	T1D	T038	UMLS:C0011854
+27824066	916	920	CSII	T058	UMLS:C0393124
+27824066	964	982	"virtual" patients	T058	UMLS:C1553497
+27824066	988	995	results	T033	UMLS:C0456984
+27824066	1068	1072	CSII	T058	UMLS:C0393124

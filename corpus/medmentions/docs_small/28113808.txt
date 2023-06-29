@@ -1,0 +1,26 @@
+28113808|t|Face Aging Effect Simulation using Hidden Factor Analysis Joint Sparse Representation
+28113808|a|Face aging simulation has received rising investigations nowadays, whereas it still remains a challenge to generate convincing and natural age - progressed face images. In this paper, we present a novel approach to such an issue by using Hidden Factor Analysis joint Sparse Representation. In contrast to the majority of tasks in the literature that handle the facial texture integrally, the proposed aging approach separately models the person - specific facial properties that tend to be stable in a relatively long period and the age - specific clues that change gradually over time. It then transforms the age component to a target age group via Sparse Reconstruction, yielding aging effects, which is finally combined with the identity component to achieve the aged face. Experiments are carried out on three face aging databases, and the results achieved clearly demonstrate the effectiveness and robustness of the proposed method in rendering a face with aging effects. Additionally, a series of evaluations prove its validity with respect to identity preservation and aging effect generation.
+28113808	0	4	Face	T082	UMLS:C0015450
+28113808	5	10	Aging	T038	UMLS:C0001811
+28113808	86	90	Face	T082	UMLS:C0015450
+28113808	91	96	aging	T038	UMLS:C0001811
+28113808	242	246	face	T082	UMLS:C0015450
+28113808	247	253	images	T170	UMLS:C1704922
+28113808	263	268	paper	T170	UMLS:C1706852
+28113808	309	314	issue	T033	UMLS:C0033213
+28113808	420	430	literature	T170	UMLS:C0023866
+28113808	447	453	facial	T082	UMLS:C0015450
+28113808	487	492	aging	T038	UMLS:C0001811
+28113808	513	519	models	T170	UMLS:C3161035
+28113808	524	530	person	T098	UMLS:C0027361
+28113808	542	548	facial	T082	UMLS:C0015450
+28113808	768	773	aging	T038	UMLS:C0001811
+28113808	857	861	face	T082	UMLS:C0015450
+28113808	863	874	Experiments	T062	UMLS:C0681814
+28113808	900	904	face	T082	UMLS:C0015450
+28113808	905	910	aging	T038	UMLS:C0001811
+28113808	911	920	databases	T170	UMLS:C0242356
+28113808	938	946	achieved	T033	UMLS:C1272277
+28113808	1038	1042	face	T082	UMLS:C0015450
+28113808	1048	1053	aging	T038	UMLS:C0001811
+28113808	1162	1167	aging	T038	UMLS:C0001811

@@ -1,0 +1,75 @@
+27855988|t|Development of a platelet adhesion transport equation for a computational thrombosis model
+27855988|a|Thrombosis is a significant issue for cardiovascular device development and use. While thrombosis models are available, very few are device - related and none have been thoroughly validated experimentally. Here, we introduce a surface adherent platelet transport equation into a continuum model to account for the biomaterial interface/blood interaction. Using a rotating disc system and polyurethane-urea material, we characterize steady and pulsatile flow fields using laser Doppler velocimetry. In vitro measurements of platelet adhesion are used in combination with the LDV data to provide further experimental validation. The rotating disc system is computationally studied using the device - induced thrombosis model with the surface platelet adherent transport equation. The results indicate that the flow field is in excellent agreement to the experimental LDV data and that the platelet adhesion simulations are in good agreement with the in vitro platelet data. These results provide good evidence that this transport equation can be used to express the relationship between blood and a biomaterial if the correct platelet adhesion characteristics are known for the biomaterial. Further validation is necessary with other materials.
+27855988	0	11	Development	T169	C1527148
+27855988	17	34	platelet adhesion	T043	C0032174
+27855988	35	53	transport equation	T077	C0552449
+27855988	60	73	computational	T052	C1880157
+27855988	74	84	thrombosis	T046	C0040053
+27855988	85	90	model	T075	C0026339
+27855988	91	101	Thrombosis	T046	C0040053
+27855988	107	118	significant	T078	C0750502
+27855988	119	124	issue	T033	C0033213
+27855988	129	143	cardiovascular	T029	C3887460
+27855988	144	150	device	T074	C0025080
+27855988	151	162	development	T169	C1527148
+27855988	167	170	use	T169	C0457083
+27855988	178	188	thrombosis	T046	C0040053
+27855988	189	195	models	T075	C0026339
+27855988	200	209	available	T169	C0470187
+27855988	216	219	few	T081	C0205388
+27855988	224	230	device	T074	C0025080
+27855988	233	240	related	T080	C0439849
+27855988	271	280	validated	T062	C1519941
+27855988	281	295	experimentally	T080	C1517586
+27855988	318	325	surface	T082	C0205148
+27855988	326	334	adherent	T169	C0334154
+27855988	335	343	platelet	T025	C0005821
+27855988	344	362	transport equation	T077	C0552449
+27855988	370	385	continuum model	T062	C2699430
+27855988	405	444	biomaterial interface/blood interaction	T044	C0920352
+27855988	454	474	rotating disc system	T074	C0025080
+27855988	479	505	polyurethane-urea material	T109	C0164247
+27855988	510	522	characterize	T052	C1880022
+27855988	523	529	steady	T080	C0205361
+27855988	534	555	pulsatile flow fields	T067	C0034106
+27855988	562	587	laser Doppler velocimetry	T060	C0162519
+27855988	589	597	In vitro	T080	C1533691
+27855988	598	610	measurements	T169	C0242485
+27855988	614	631	platelet adhesion	T043	C0032174
+27855988	644	655	combination	T080	C0205195
+27855988	665	668	LDV	T060	C0162519
+27855988	669	673	data	T078	C1511726
+27855988	693	705	experimental	T080	C1517586
+27855988	706	716	validation	T062	C1519941
+27855988	722	742	rotating disc system	T074	C0025080
+27855988	746	761	computationally	T052	C1880157
+27855988	780	786	device	T074	C0025080
+27855988	789	796	induced	T169	C0205263
+27855988	797	807	thrombosis	T046	C0040053
+27855988	808	813	model	T075	C0026339
+27855988	823	830	surface	T082	C0205148
+27855988	831	839	platelet	T025	C0005821
+27855988	840	848	adherent	T169	C0334154
+27855988	849	867	transport equation	T077	C0552449
+27855988	873	880	results	T169	C1274040
+27855988	899	909	flow field	T070	C0806140
+27855988	916	925	excellent	T080	C1961136
+27855988	943	955	experimental	T080	C1517586
+27855988	956	959	LDV	T060	C0162519
+27855988	960	964	data	T078	C1511726
+27855988	978	995	platelet adhesion	T043	C0032174
+27855988	996	1007	simulations	T062	C0679083
+27855988	1039	1047	in vitro	T080	C1533691
+27855988	1048	1056	platelet	T025	C0005821
+27855988	1057	1061	data	T078	C1511726
+27855988	1069	1076	results	T169	C1274040
+27855988	1090	1098	evidence	T078	C3887511
+27855988	1109	1127	transport equation	T077	C0552449
+27855988	1155	1167	relationship	T080	C0439849
+27855988	1176	1181	blood	T031	C0005767
+27855988	1188	1199	biomaterial	T122	C0005479
+27855988	1215	1232	platelet adhesion	T043	C0032174
+27855988	1233	1248	characteristics	T080	C1521970
+27855988	1267	1278	biomaterial	T122	C0005479
+27855988	1288	1298	validation	T062	C1519941
+27855988	1323	1332	materials	T122	C0005479

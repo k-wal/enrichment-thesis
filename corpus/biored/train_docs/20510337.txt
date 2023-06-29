@@ -1,0 +1,64 @@
+20510337|t|Coenzyme Q10 treatment ameliorates acute cisplatin nephrotoxicity in mice.
+20510337|a|The nephroprotective effect of coenzyme Q10 was investigated in mice with acute renal injury induced by a single i.p. injection of cisplatin (5 mg/kg). Coenzyme Q10 treatment (10 mg/kg/day, i.p.) was applied for 6 consecutive days, starting 1 day before cisplatin administration. Coenzyme Q10 significantly reduced blood urea nitrogen and serum creatinine levels which were increased by cisplatin. Coenzyme Q10 significantly compensated deficits in the antioxidant defense mechanisms (reduced glutathione level and superoxide dismutase activity), suppressed lipid peroxidation, decreased the elevations of tumor necrosis factor-alpha, nitric oxide and platinum ion concentration, and attenuated the reductions of selenium and zinc ions in renal tissue resulted from cisplatin administration. Also, histopathological renal tissue damage mediated by cisplatin was ameliorated by coenzyme Q10 treatment. Immunohistochemical analysis revealed that coenzyme Q10 significantly decreased the cisplatin-induced overexpression of inducible nitric oxide synthase, nuclear factor-kappaB, caspase-3 and p53 in renal tissue. It was concluded that coenzyme Q10 represents a potential therapeutic option to protect against acute cisplatin nephrotoxicity commonly encountered in clinical practice.
+20510337	0	12	Coenzyme Q10	ChemicalEntity	C024989
+20510337	41	50	cisplatin	ChemicalEntity	D002945
+20510337	51	65	nephrotoxicity	DiseaseOrPhenotypicFeature	D007674
+20510337	69	73	mice	OrganismTaxon	10090
+20510337	106	118	coenzyme Q10	ChemicalEntity	C024989
+20510337	139	143	mice	OrganismTaxon	10090
+20510337	149	167	acute renal injury	DiseaseOrPhenotypicFeature	D058186
+20510337	206	215	cisplatin	ChemicalEntity	D002945
+20510337	227	239	Coenzyme Q10	ChemicalEntity	C024989
+20510337	329	338	cisplatin	ChemicalEntity	D002945
+20510337	355	367	Coenzyme Q10	ChemicalEntity	C024989
+20510337	390	409	blood urea nitrogen	ChemicalEntity	D001806
+20510337	420	430	creatinine	ChemicalEntity	D003404
+20510337	462	471	cisplatin	ChemicalEntity	D002945
+20510337	473	485	Coenzyme Q10	ChemicalEntity	C024989
+20510337	568	579	glutathione	ChemicalEntity	D005978
+20510337	590	610	superoxide dismutase	GeneOrGeneProduct	20655
+20510337	633	638	lipid	ChemicalEntity	D008055
+20510337	681	708	tumor necrosis factor-alpha	GeneOrGeneProduct	21926
+20510337	710	722	nitric oxide	ChemicalEntity	D009569
+20510337	727	735	platinum	ChemicalEntity	D010984
+20510337	788	796	selenium	ChemicalEntity	D012643
+20510337	801	805	zinc	ChemicalEntity	D015032
+20510337	841	850	cisplatin	ChemicalEntity	D002945
+20510337	891	910	renal tissue damage	DiseaseOrPhenotypicFeature	D007674
+20510337	923	932	cisplatin	ChemicalEntity	D002945
+20510337	952	964	coenzyme Q10	ChemicalEntity	C024989
+20510337	1019	1031	coenzyme Q10	ChemicalEntity	C024989
+20510337	1060	1069	cisplatin	ChemicalEntity	D002945
+20510337	1106	1127	nitric oxide synthase	GeneOrGeneProduct	18125
+20510337	1129	1150	nuclear factor-kappaB	GeneOrGeneProduct	18033
+20510337	1152	1161	caspase-3	GeneOrGeneProduct	12367
+20510337	1166	1169	p53	GeneOrGeneProduct	22060
+20510337	1209	1221	coenzyme Q10	ChemicalEntity	C024989
+20510337	1289	1298	cisplatin	ChemicalEntity	D002945
+20510337	1299	1313	nephrotoxicity	DiseaseOrPhenotypicFeature	D007674
+20510337	Negative_Correlation	D015032	D002945	Novel
+20510337	Negative_Correlation	D012643	D002945	Novel
+20510337	Positive_Correlation	D002945	D058186	No
+20510337	Positive_Correlation	D002945	18125	Novel
+20510337	Positive_Correlation	D002945	18033	Novel
+20510337	Positive_Correlation	D002945	22060	Novel
+20510337	Positive_Correlation	D002945	12367	Novel
+20510337	Positive_Correlation	D002945	D003404	Novel
+20510337	Positive_Correlation	D002945	D001806	No
+20510337	Positive_Correlation	D002945	D007674	No
+20510337	Negative_Correlation	C024989	18125	Novel
+20510337	Negative_Correlation	C024989	18033	Novel
+20510337	Negative_Correlation	C024989	22060	Novel
+20510337	Negative_Correlation	C024989	12367	Novel
+20510337	Negative_Correlation	C024989	D005978	Novel
+20510337	Negative_Correlation	C024989	20655	Novel
+20510337	Negative_Correlation	C024989	21926	Novel
+20510337	Positive_Correlation	C024989	D015032	Novel
+20510337	Positive_Correlation	C024989	D012643	Novel
+20510337	Negative_Correlation	C024989	D010984	Novel
+20510337	Negative_Correlation	C024989	D009569	Novel
+20510337	Negative_Correlation	C024989	D008055	Novel
+20510337	Negative_Correlation	C024989	D003404	Novel
+20510337	Negative_Correlation	C024989	D001806	Novel
+20510337	Negative_Correlation	C024989	D007674	Novel
+20510337	Negative_Correlation	C024989	D002945	Novel

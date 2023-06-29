@@ -1,0 +1,51 @@
+27364501|t|Increased RhoA Activity Predicts Worse Overall Survival in Patients Undergoing Surgical Resection for Lauren Diffuse-Type Gastric Adenocarcinoma
+27364501|a|Several studies have reported a high rate of RHOA mutations in the Lauren diffuse-type gastric adenocarcinoma (GA) but not in intestinal-type GA. The aim of this study was to determine if RhoA activity is prognostic for overall survival (OS) in patients with resectable GA. Retrospective review was performed on a prospective database of GA patients who underwent potentially curative resection between 2003 and 2012 at a single institution. Tissue microarrays were constructed from surgical specimens and analyzed for phosphorylated RhoA, a marker of inactive RhoA signaling. OS was estimated by the Kaplan-Meier method, and multivariate analysis was performed by Cox proportional hazards regression modeling. One hundred thirty-six patients with diffuse-type GA and 129 patients with intestinal-type GA were examined. Compared to intestinal-type GA, diffuse-type GA tumors were significantly associated with increased tumor size and advanced tumor, node, metastasis (TNM) classification system stage. In patients with diffuse-type GA, high RhoA activity was associated with significantly worse OS when compared to low RhoA activity (5-year OS 52.5 vs. 81.0 %, p = 0.017). This difference in OS was not observed in patients with intestinal-type GA (5-year OS 83.9 vs. 81.6 %, p = 0.766). On multivariate analysis of diffuse-type GA patients, high RhoA activity was an independent negative prognostic factor for OS (hazard ratio 2.38, 95 % confidence interval 1.07-5.28). Increased RhoA activity is predictive of worse OS in patients with diffuse-type GA who undergo potentially curative surgical resection. Along with findings from genomic studies, these results suggest RhoA may be a novel therapeutic target in diffuse-type GA.
+27364501	10	14	RhoA	T103	UMLS:C0643681
+27364501	33	38	Worse	T033	UMLS:C1457868
+27364501	79	97	Surgical Resection	T058	UMLS:C0015252
+27364501	102	108	Lauren	T170	UMLS:C3829311
+27364501	109	144	Diffuse-Type Gastric Adenocarcinoma	T038	UMLS:C0279635
+27364501	190	194	RHOA	T017	UMLS:C0812234
+27364501	195	204	mutations	T038	UMLS:C0596611
+27364501	212	218	Lauren	T170	UMLS:C3829311
+27364501	219	254	diffuse-type gastric adenocarcinoma	T038	UMLS:C0279635
+27364501	256	258	GA	T038	UMLS:C0278701
+27364501	271	289	intestinal-type GA	T038	UMLS:C0279633
+27364501	333	337	RhoA	T103	UMLS:C0643681
+27364501	350	360	prognostic	T201	UMLS:C1514474
+27364501	415	417	GA	T038	UMLS:C0278701
+27364501	419	439	Retrospective review	T062	UMLS:C0035363
+27364501	483	485	GA	T038	UMLS:C0278701
+27364501	521	539	curative resection	T058	UMLS:C1511562
+27364501	567	585	single institution	T092	UMLS:C2607850
+27364501	587	593	Tissue	T017	UMLS:C0040300
+27364501	664	678	phosphorylated	T103	UMLS:C1519061
+27364501	679	683	RhoA	T103	UMLS:C0643681
+27364501	687	693	marker	T201	UMLS:C0005516
+27364501	706	710	RhoA	T103	UMLS:C0643681
+27364501	711	720	signaling	T038	UMLS:C2611812
+27364501	746	765	Kaplan-Meier method	T062	UMLS:C2827659
+27364501	810	854	Cox proportional hazards regression modeling	T170	UMLS:C0010235
+27364501	893	908	diffuse-type GA	T038	UMLS:C0279635
+27364501	931	949	intestinal-type GA	T038	UMLS:C0279633
+27364501	977	995	intestinal-type GA	T038	UMLS:C0279633
+27364501	997	1012	diffuse-type GA	T038	UMLS:C0279635
+27364501	1013	1019	tumors	T038	UMLS:C0027651
+27364501	1065	1075	tumor size	T082	UMLS:C0475440
+27364501	1080	1146	advanced tumor, node, metastasis (TNM) classification system stage	T170	UMLS:C1515169
+27364501	1165	1180	diffuse-type GA	T038	UMLS:C0279635
+27364501	1187	1191	RhoA	T103	UMLS:C0643681
+27364501	1235	1240	worse	T033	UMLS:C1457868
+27364501	1265	1269	RhoA	T103	UMLS:C0643681
+27364501	1375	1393	intestinal-type GA	T038	UMLS:C0279633
+27364501	1462	1477	diffuse-type GA	T038	UMLS:C0279635
+27364501	1493	1497	RhoA	T103	UMLS:C0643681
+27364501	1535	1552	prognostic factor	T201	UMLS:C1514474
+27364501	1627	1631	RhoA	T103	UMLS:C0643681
+27364501	1658	1663	worse	T033	UMLS:C1457868
+27364501	1684	1699	diffuse-type GA	T038	UMLS:C0279635
+27364501	1724	1751	curative surgical resection	T058	UMLS:C1511562
+27364501	1778	1793	genomic studies	T091	UMLS:C0887950
+27364501	1817	1821	RhoA	T103	UMLS:C0643681
+27364501	1837	1848	therapeutic	T058	UMLS:C0087111
+27364501	1859	1874	diffuse-type GA	T038	UMLS:C0279635

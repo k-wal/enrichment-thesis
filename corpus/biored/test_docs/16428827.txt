@@ -1,0 +1,43 @@
+16428827|t|Daidzein activates choline acetyltransferase from MC-IXC cells and improves drug-induced amnesia.
+16428827|a|The choline acetyltransferase (ChAT) activator, which enhances cholinergic transmission via an augmentation of the enzymatic production of acetylcholine (ACh), is an important factor in the treatment of Alzheimer's disease (AD). Methanolic extracts from Pueraria thunbergiana exhibited an activation effect (46%) on ChAT in vitro. Via the sequential isolation of Pueraria thunbergiana, the active component was ultimately identified as daidzein (4',7-dihydroxy-isoflavone). In order to investigate the effects of daidzein from Pueraria thunbergiana on scopolamine-induced impairments of learning and memory, we conducted a series of in vivo tests. Administration of daidzein (4.5 mg/kg body weight) to mice was shown significantly to reverse scopolamine-induced amnesia, according to the results of a Y-maze test. Injections of scopolamine into mice resulted in impaired performance on Y-maze tests (a 37% decreases in alternation behavior). By way of contrast, mice treated with daidzein prior to the scopolamine injections were noticeably protected from this performance impairment (an approximately 12%-21% decrease in alternation behavior). These results indicate that daidzein might play a role in acetylcholine biosynthesis as a ChAT activator, and that it also ameliorates scopolamine-induced amnesia.
+16428827	0	8	Daidzein	ChemicalEntity	C004742
+16428827	19	44	choline acetyltransferase	GeneOrGeneProduct	1103
+16428827	50	56	MC-IXC	CellLine	CVCL_1398
+16428827	89	96	amnesia	DiseaseOrPhenotypicFeature	D000647
+16428827	102	127	choline acetyltransferase	GeneOrGeneProduct	1103
+16428827	129	133	ChAT	GeneOrGeneProduct	1103
+16428827	237	250	acetylcholine	ChemicalEntity	D000109
+16428827	252	255	ACh	ChemicalEntity	D000109
+16428827	301	320	Alzheimer's disease	DiseaseOrPhenotypicFeature	D000544
+16428827	322	324	AD	DiseaseOrPhenotypicFeature	D000544
+16428827	327	337	Methanolic	ChemicalEntity	D000432
+16428827	414	418	ChAT	GeneOrGeneProduct	1103
+16428827	534	542	daidzein	ChemicalEntity	C004742
+16428827	544	569	4',7-dihydroxy-isoflavone	ChemicalEntity	C004742
+16428827	611	619	daidzein	ChemicalEntity	C004742
+16428827	650	661	scopolamine	ChemicalEntity	D012601
+16428827	670	704	impairments of learning and memory	DiseaseOrPhenotypicFeature	D007859|D008569
+16428827	764	772	daidzein	ChemicalEntity	C004742
+16428827	800	804	mice	OrganismTaxon	10090
+16428827	840	851	scopolamine	ChemicalEntity	D012601
+16428827	860	867	amnesia	DiseaseOrPhenotypicFeature	D000647
+16428827	926	937	scopolamine	ChemicalEntity	D012601
+16428827	943	947	mice	OrganismTaxon	10090
+16428827	1060	1064	mice	OrganismTaxon	10090
+16428827	1078	1086	daidzein	ChemicalEntity	C004742
+16428827	1100	1111	scopolamine	ChemicalEntity	D012601
+16428827	1271	1279	daidzein	ChemicalEntity	C004742
+16428827	1301	1314	acetylcholine	ChemicalEntity	D000109
+16428827	1333	1337	ChAT	GeneOrGeneProduct	12647
+16428827	1378	1389	scopolamine	ChemicalEntity	D012601
+16428827	1398	1405	amnesia	DiseaseOrPhenotypicFeature	D000647
+16428827	Association	D000109	D000544	No
+16428827	Positive_Correlation	D012601	D000647	No
+16428827	Positive_Correlation	D012601	D007859|D008569	No
+16428827	Positive_Correlation	D000432	1103	Novel
+16428827	Association	1103	D000544	No
+16428827	Association	1103	D000109	No
+16428827	Association	C004742	D000109	Novel
+16428827	Negative_Correlation	C004742	D000647	Novel
+16428827	Negative_Correlation	C004742	D012601	Novel
+16428827	Positive_Correlation	C004742	1103	Novel

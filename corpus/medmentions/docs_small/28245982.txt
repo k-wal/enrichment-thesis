@@ -1,0 +1,66 @@
+28245982|t|Comparative analysis of microRNA and mRNA expression profiles in cells and exosomes under toluene exposure
+28245982|a|Recent studies have illustrated the growing importance of exosomes (small extracellular vesicles) and their constituent microRNA s (miRNAs) in the fields of toxicology and pathology. The mechanism of toxicity of toluene, a highly-prevalent and volatile organic compound, is largely unknown. To examine the role of miRNAs in toluene-induced toxicity, we investigated miRNAs and toluene-induced gene expression in HL-60 human promyelocytic leukemia cells and exosomes using microarrays. A total of 54 miRNAs were differentially expressed in HL-60 cell lines exposed to toluene and exosomes from the cells. Four out of the 54 miRNAs (hsa-miR-1290, hsa-miR-718, hsa-miR-3663-3p, and hsa-miR-320c) were subsequently validated by qRT-PCR. Integrated analysis of miRNA and mRNA expression profiles identified 8 miRNA - mRNA correlations. By performing Comparative Toxicogenomics Database analysis, we found that the eight putative target genes of the differentially expressed miRNAs under toluene exposure (EXOSC6, RHOH, GFER, HERC2, GOLGA4, SLC7A11, GCLM, and BACH1) are related to diverse disease categories such as nervous system disease, cancer, cardiovascular disease, and respiratory tract disease. In conclusion, our data demonstrated that miRNA - mRNA networks provide a better understanding of toxicological mechanism caused by environmental pollutants in vitro using HL-60 cells and exosomes.
+28245982	24	32	microRNA	T017	UMLS:C2825314
+28245982	37	41	mRNA	T103	UMLS:C0035696
+28245982	65	70	cells	T017	UMLS:C0007634
+28245982	75	83	exosomes	T017	UMLS:C2350332
+28245982	90	97	toluene	T103	UMLS:C0040383
+28245982	107	121	Recent studies	T062	UMLS:C2603343
+28245982	165	173	exosomes	T017	UMLS:C2350332
+28245982	175	203	small extracellular vesicles	T017	UMLS:C3894683
+28245982	227	235	microRNA	T103	UMLS:C1101610
+28245982	239	245	miRNAs	T103	UMLS:C1101610
+28245982	254	274	fields of toxicology	T091	UMLS:C0040541
+28245982	279	288	pathology	T091	UMLS:C0030664
+28245982	307	326	toxicity of toluene	T037	UMLS:C1516457
+28245982	360	376	organic compound	T103	UMLS:C0029224
+28245982	421	427	miRNAs	T103	UMLS:C1101610
+28245982	431	455	toluene-induced toxicity	T037	UMLS:C1516457
+28245982	473	479	miRNAs	T017	UMLS:C2825314
+28245982	484	499	toluene-induced	T038	UMLS:C0007994
+28245982	500	515	gene expression	T038	UMLS:C0017262
+28245982	519	524	HL-60	T017	UMLS:C1512310
+28245982	525	559	human promyelocytic leukemia cells	T017	UMLS:C0282549
+28245982	564	572	exosomes	T017	UMLS:C2350332
+28245982	606	612	miRNAs	T017	UMLS:C2825314
+28245982	618	642	differentially expressed	T038	UMLS:C0017262
+28245982	646	662	HL-60 cell lines	T017	UMLS:C0282549
+28245982	674	681	toluene	T103	UMLS:C0040383
+28245982	686	694	exosomes	T017	UMLS:C2350332
+28245982	704	709	cells	T017	UMLS:C0007634
+28245982	730	736	miRNAs	T017	UMLS:C2825314
+28245982	738	750	hsa-miR-1290	T017	UMLS:C2681774
+28245982	752	763	hsa-miR-718	T017	UMLS:C2829676
+28245982	765	780	hsa-miR-3663-3p	T017	UMLS:C3147923
+28245982	786	798	hsa-miR-320c	T017	UMLS:C2681673
+28245982	818	827	validated	T062	UMLS:C1519941
+28245982	831	838	qRT-PCR	T062	UMLS:C1514628
+28245982	840	859	Integrated analysis	T062	UMLS:C0936012
+28245982	863	868	miRNA	T103	UMLS:C1101610
+28245982	873	877	mRNA	T103	UMLS:C0035696
+28245982	911	916	miRNA	T103	UMLS:C1101610
+28245982	919	923	mRNA	T103	UMLS:C0035696
+28245982	952	987	Comparative Toxicogenomics Database	T170	UMLS:C0242356
+28245982	988	996	analysis	T062	UMLS:C0936012
+28245982	1022	1043	putative target genes	T017	UMLS:C0017337
+28245982	1051	1075	differentially expressed	T038	UMLS:C0017262
+28245982	1076	1082	miRNAs	T017	UMLS:C2825314
+28245982	1089	1096	toluene	T103	UMLS:C0040383
+28245982	1107	1113	EXOSC6	T017	UMLS:C1425980
+28245982	1115	1119	RHOH	T017	UMLS:C1332112
+28245982	1121	1125	GFER	T017	UMLS:C1415043
+28245982	1127	1132	HERC2	T017	UMLS:C1415512
+28245982	1134	1140	GOLGA4	T017	UMLS:C1415176
+28245982	1142	1149	SLC7A11	T017	UMLS:C1420222
+28245982	1151	1155	GCLM	T017	UMLS:C1415098
+28245982	1161	1166	BACH1	T017	UMLS:C1412729
+28245982	1218	1240	nervous system disease	T038	UMLS:C0027765
+28245982	1242	1248	cancer	T038	UMLS:C0006826
+28245982	1250	1272	cardiovascular disease	T038	UMLS:C0007222
+28245982	1278	1303	respiratory tract disease	T038	UMLS:C0035242
+28245982	1347	1352	miRNA	T103	UMLS:C1101610
+28245982	1355	1359	mRNA	T103	UMLS:C0035696
+28245982	1403	1426	toxicological mechanism	T038	UMLS:C4042799
+28245982	1437	1461	environmental pollutants	T103	UMLS:C0014417
+28245982	1477	1488	HL-60 cells	T017	UMLS:C0282549
+28245982	1493	1501	exosomes	T017	UMLS:C2350332

@@ -1,0 +1,57 @@
+27408908|t|Mass-spectrometry analysis of histone post-translational modifications in pathology tissue using the PAT-H-MS approach
+27408908|a|Aberrant histone post-translational modifications (hPTMs) have been implicated with various pathologies, including cancer, and may represent useful epigenetic biomarkers. The data described here provide a mass spectrometry -based quantitative analysis of hPTMs from formalin-fixed paraffin-embedded (FFPE) tissues, from which histones were extracted through the recently developed PAT-H-MS method. First, we analyzed FFPE samples from mouse spleen and liver or human breast cancer up to six years old, together with their corresponding fresh frozen tissue. We then combined the PAT-H-MS approach with a histone -focused version of the super-SILAC strategy -using a mix of histones from four breast cancer cell lines as a spike-in standard - to accurately quantify hPTMs from breast cancer specimens belonging to different subtypes. The data, which are associated with a recent publication (Pathology tissue - quantitative mass spectrometry analysis to profile histone post-translational modification patterns in patient samples (Noberini, 2015) [1]), are deposited at the ProteomeXchange Consortium via the PRIDE partner repository with the dataset identifier PXD002669.
+27408908	0	17	Mass-spectrometry	T059	C0037813
+27408908	18	26	analysis	T062	C0936012
+27408908	30	70	histone post-translational modifications	T044	C0033666
+27408908	74	90	pathology tissue	T024	C0040300
+27408908	101	109	PAT-H-MS	T059	C0037813
+27408908	119	127	Aberrant	T080	C0443127
+27408908	128	168	histone post-translational modifications	T044	C0033666
+27408908	170	175	hPTMs	T044	C0033666
+27408908	211	222	pathologies	T091	C0030664
+27408908	234	240	cancer	T191	C0006826
+27408908	267	288	epigenetic biomarkers	T201	C0005516
+27408908	294	298	data	T078	C1511726
+27408908	324	341	mass spectrometry	T059	C0037813
+27408908	349	361	quantitative	T081	C0392762
+27408908	362	370	analysis	T062	C0936012
+27408908	374	379	hPTMs	T044	C0033666
+27408908	385	432	formalin-fixed paraffin-embedded (FFPE) tissues	T024	C2711483
+27408908	445	453	histones	T116,T123	C0019652
+27408908	459	468	extracted	T061	C0185115
+27408908	500	515	PAT-H-MS method	T059	C0037813
+27408908	527	535	analyzed	T062	C0936012
+27408908	536	548	FFPE samples	T024	C2711483
+27408908	554	566	mouse spleen	T024	C1519474
+27408908	571	576	liver	T023	C0023884
+27408908	580	585	human	T016	C0086418
+27408908	586	599	breast cancer	T191	C0678222
+27408908	610	615	years	T079	C0439234
+27408908	655	660	fresh	T031	C2827486
+27408908	661	674	frozen tissue	T024	C4039816
+27408908	697	705	PAT-H-MS	T059	C0037813
+27408908	722	729	histone	T116,T123	C0019652
+27408908	754	774	super-SILAC strategy	T062	C1257948
+27408908	791	799	histones	T116,T123	C0019652
+27408908	810	834	breast cancer cell lines	T025	C1512505
+27408908	840	857	spike-in standard	T081	C0034925
+27408908	874	882	quantify	T081	C1709793
+27408908	883	888	hPTMs	T044	C0033666
+27408908	894	907	breast cancer	T191	C0678222
+27408908	908	917	specimens	T167	C0370003
+27408908	941	949	subtypes	T185	C0449560
+27408908	955	959	data	T078	C1511726
+27408908	971	986	associated with	T080	C0332281
+27408908	996	1007	publication	T073,T170	C0034036
+27408908	1009	1025	Pathology tissue	T024	C0040300
+27408908	1028	1058	quantitative mass spectrometry	T059	C3525763
+27408908	1059	1067	analysis	T062	C0936012
+27408908	1071	1078	profile	T059	C1979963
+27408908	1079	1086	histone	T116,T123	C0019652
+27408908	1087	1127	post-translational modification patterns	T044	C0033666
+27408908	1131	1138	patient	T101	C0030705
+27408908	1139	1146	samples	T167	C0370003
+27408908	1174	1183	deposited	T169	C0333562
+27408908	1191	1217	ProteomeXchange Consortium	T097	C1513822
+27408908	1240	1250	repository	T073	C3847505
+27408908	1260	1288	dataset identifier PXD002669	T170	C0282574

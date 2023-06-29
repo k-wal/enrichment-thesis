@@ -1,0 +1,20 @@
+18699851|t|Integrated genomic and expression profiling in mantle cell lymphoma: identification of gene-dosage regulated candidate genes.
+18699851|a|Mantle cell lymphoma (MCL) is characterized by the t(11;14)(q13;q32) translocation and several other cytogenetic aberrations, including heterozygous loss of chromosomal arms 1p, 6q, 11q and 13q and/or gains of 3q and 8q. The common intervals of chromosomal imbalance have been narrowed down using array-comparative genomic hybridization (CGH). However, the chromosomal intervals still contain many genes potentially involved in MCL pathogeny. Combined analysis of tiling-resolution array-CGH with gene expression profiling on 11 MCL tumours enabled the identification of genomic alterations and their corresponding gene expression profiles. Only subsets of genes located within given cytogenetic anomaly-intervals showed a concomitant change in mRNA expression level. The genes that showed consistent correlation between DNA copy number and RNA expression levels are likely to be important in MCL pathology. Besides several 'anonymous genes', we also identified various fully annotated genes, whose gene products are involved in cyclic adenosine monophosphate-regulated pathways (PRKACB), DNA damage repair, maintenance of chromosome stability and prevention of rereplication (ATM, ERCC5, FBXO5), energy metabolism (such as genes that are involved in the synthesis of proteins encoded by the mitochondrial genome) and signal transduction (ARHGAP29). Deregulation of these gene products may interfere with the signalling pathways that are involved in MCL tumour development and maintenance.
+18699851	47	67	mantle cell lymphoma	DiseaseOrPhenotypicFeature	D020522
+18699851	126	146	Mantle cell lymphoma	DiseaseOrPhenotypicFeature	D020522
+18699851	148	151	MCL	DiseaseOrPhenotypicFeature	D020522
+18699851	554	557	MCL	DiseaseOrPhenotypicFeature	D020522
+18699851	655	666	MCL tumours	DiseaseOrPhenotypicFeature	D020522
+18699851	1019	1022	MCL	DiseaseOrPhenotypicFeature	D020522
+18699851	1155	1185	cyclic adenosine monophosphate	ChemicalEntity	D000242
+18699851	1206	1212	PRKACB	GeneOrGeneProduct	5567
+18699851	1303	1306	ATM	GeneOrGeneProduct	472
+18699851	1308	1313	ERCC5	GeneOrGeneProduct	2073
+18699851	1315	1320	FBXO5	GeneOrGeneProduct	26271
+18699851	1465	1473	ARHGAP29	GeneOrGeneProduct	9411
+18699851	1576	1586	MCL tumour	DiseaseOrPhenotypicFeature	D020522
+18699851	Association	D020522	2073	Novel
+18699851	Association	D020522	472	Novel
+18699851	Association	D020522	5567	Novel
+18699851	Association	D020522	9411	Novel
+18699851	Association	D020522	26271	Novel

@@ -1,0 +1,85 @@
+27364501|t|Increased RhoA Activity Predicts Worse Overall Survival in Patients Undergoing Surgical Resection for Lauren Diffuse-Type Gastric Adenocarcinoma
+27364501|a|Several studies have reported a high rate of RHOA mutations in the Lauren diffuse-type gastric adenocarcinoma (GA) but not in intestinal-type GA. The aim of this study was to determine if RhoA activity is prognostic for overall survival (OS) in patients with resectable GA. Retrospective review was performed on a prospective database of GA patients who underwent potentially curative resection between 2003 and 2012 at a single institution. Tissue microarrays were constructed from surgical specimens and analyzed for phosphorylated RhoA, a marker of inactive RhoA signaling. OS was estimated by the Kaplan-Meier method, and multivariate analysis was performed by Cox proportional hazards regression modeling. One hundred thirty-six patients with diffuse-type GA and 129 patients with intestinal-type GA were examined. Compared to intestinal-type GA, diffuse-type GA tumors were significantly associated with increased tumor size and advanced tumor, node, metastasis (TNM) classification system stage. In patients with diffuse-type GA, high RhoA activity was associated with significantly worse OS when compared to low RhoA activity (5-year OS 52.5 vs. 81.0 %, p = 0.017). This difference in OS was not observed in patients with intestinal-type GA (5-year OS 83.9 vs. 81.6 %, p = 0.766). On multivariate analysis of diffuse-type GA patients, high RhoA activity was an independent negative prognostic factor for OS (hazard ratio 2.38, 95 % confidence interval 1.07-5.28). Increased RhoA activity is predictive of worse OS in patients with diffuse-type GA who undergo potentially curative surgical resection. Along with findings from genomic studies, these results suggest RhoA may be a novel therapeutic target in diffuse-type GA.
+27364501	10	14	RhoA	T116,T126	C0643681
+27364501	15	23	Activity	T044	C1537044
+27364501	33	38	Worse	T033	C1457868
+27364501	39	55	Overall Survival	T081	C4086681
+27364501	59	67	Patients	T101	C0030705
+27364501	79	97	Surgical Resection	T061	C0015252
+27364501	102	108	Lauren	T185	C3829311
+27364501	109	144	Diffuse-Type Gastric Adenocarcinoma	T191	C0279635
+27364501	190	194	RHOA	T028	C0812234
+27364501	195	204	mutations	T045	C0596611
+27364501	212	218	Lauren	T185	C3829311
+27364501	219	254	diffuse-type gastric adenocarcinoma	T191	C0279635
+27364501	256	258	GA	T191	C0278701
+27364501	271	289	intestinal-type GA	T191	C0279633
+27364501	333	337	RhoA	T116,T126	C0643681
+27364501	338	346	activity	T044	C1537044
+27364501	350	360	prognostic	T201	C1514474
+27364501	365	381	overall survival	T081	C4086681
+27364501	383	385	OS	T081	C4086681
+27364501	390	398	patients	T101	C0030705
+27364501	415	417	GA	T191	C0278701
+27364501	419	439	Retrospective review	T062	C0035363
+27364501	483	485	GA	T191	C0278701
+27364501	486	494	patients	T101	C0030705
+27364501	521	539	curative resection	T061	C1511562
+27364501	567	585	single institution	T093	C2607850
+27364501	587	593	Tissue	T024	C0040300
+27364501	594	605	microarrays	T073	C1709016
+27364501	628	646	surgical specimens	T059	C1254419
+27364501	664	678	phosphorylated	T116	C1519061
+27364501	679	683	RhoA	T116,T126	C0643681
+27364501	687	693	marker	T201	C0005516
+27364501	706	710	RhoA	T116,T126	C0643681
+27364501	711	720	signaling	T043	C2611812
+27364501	722	724	OS	T081	C4086681
+27364501	746	765	Kaplan-Meier method	T062	C2827659
+27364501	771	792	multivariate analysis	T081	C0026777
+27364501	810	854	Cox proportional hazards regression modeling	T081,T170	C0010235
+27364501	879	887	patients	T101	C0030705
+27364501	893	908	diffuse-type GA	T191	C0279635
+27364501	917	925	patients	T101	C0030705
+27364501	931	949	intestinal-type GA	T191	C0279633
+27364501	977	995	intestinal-type GA	T191	C0279633
+27364501	997	1012	diffuse-type GA	T191	C0279635
+27364501	1013	1019	tumors	T191	C0027651
+27364501	1039	1054	associated with	T080	C0332281
+27364501	1065	1075	tumor size	T082	C0475440
+27364501	1080	1146	advanced tumor, node, metastasis (TNM) classification system stage	T185	C1515169
+27364501	1151	1159	patients	T101	C0030705
+27364501	1165	1180	diffuse-type GA	T191	C0279635
+27364501	1187	1191	RhoA	T116,T126	C0643681
+27364501	1192	1200	activity	T044	C1537044
+27364501	1205	1220	associated with	T080	C0332281
+27364501	1235	1240	worse	T033	C1457868
+27364501	1241	1243	OS	T081	C4086681
+27364501	1265	1269	RhoA	T116,T126	C0643681
+27364501	1270	1278	activity	T044	C1537044
+27364501	1287	1289	OS	T081	C4086681
+27364501	1338	1340	OS	T081	C4086681
+27364501	1361	1369	patients	T101	C0030705
+27364501	1375	1393	intestinal-type GA	T191	C0279633
+27364501	1402	1404	OS	T081	C4086681
+27364501	1437	1458	multivariate analysis	T081	C0026777
+27364501	1462	1477	diffuse-type GA	T191	C0279635
+27364501	1478	1486	patients	T101	C0030705
+27364501	1493	1497	RhoA	T116,T126	C0643681
+27364501	1498	1506	activity	T044	C1537044
+27364501	1535	1552	prognostic factor	T201	C1514474
+27364501	1557	1559	OS	T081	C4086681
+27364501	1561	1573	hazard ratio	T081	C2985465
+27364501	1585	1604	confidence interval	T081	C0009667
+27364501	1627	1631	RhoA	T116,T126	C0643681
+27364501	1632	1640	activity	T044	C1537044
+27364501	1658	1663	worse	T033	C1457868
+27364501	1664	1666	OS	T081	C4086681
+27364501	1670	1678	patients	T101	C0030705
+27364501	1684	1699	diffuse-type GA	T191	C0279635
+27364501	1724	1751	curative surgical resection	T061	C1511562
+27364501	1778	1793	genomic studies	T091	C0887950
+27364501	1817	1821	RhoA	T116,T126	C0643681
+27364501	1837	1848	therapeutic	T061	C0087111
+27364501	1849	1855	target	T169	C1521840
+27364501	1859	1874	diffuse-type GA	T191	C0279635

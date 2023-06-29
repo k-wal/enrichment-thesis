@@ -1,0 +1,48 @@
+15811908|t|Pheochromocytoma unmasked by amisulpride and tiapride.
+15811908|a|OBJECTIVE: To describe the unmasking of pheochromocytoma in a patient treated with amisulpride and tiapride. CASE SUMMARY: A 42-year-old white man developed acute hypertension with severe headache and vomiting 2 hours after the first doses of amisulpride 100 mg and tiapride 100 mg. Both drugs were immediately discontinued, and the patient recovered after subsequent nicardipine and verapamil treatment. Abdominal ultrasound showed an adrenal mass, and postoperative histologic examination confirmed the diagnosis of pheochromocytoma. DISCUSSION: Drug-induced symptoms of pheochromocytoma are often associated with the use of substituted benzamide drugs, but the underlying mechanism is unknown. In our case, use of the Naranjo probability scale indicated a possible relationship between the hypertensive crisis and amisulpride and tiapride therapy. CONCLUSIONS: As of March 24, 2005, this is the first reported case of amisulpride- and tiapride-induced hypertensive crisis in a patient with pheochromocytoma. Physicians and other healthcare professionals should be aware of this potential adverse effect of tiapride and amisulpride.
+15811908	0	16	Pheochromocytoma	DiseaseOrPhenotypicFeature	D010673
+15811908	29	40	amisulpride	ChemicalEntity	D000077582
+15811908	45	53	tiapride	ChemicalEntity	D063325
+15811908	95	111	pheochromocytoma	DiseaseOrPhenotypicFeature	D010673
+15811908	117	124	patient	OrganismTaxon	9606
+15811908	138	149	amisulpride	ChemicalEntity	D000077582
+15811908	154	162	tiapride	ChemicalEntity	D063325
+15811908	198	201	man	OrganismTaxon	9606
+15811908	218	230	hypertension	DiseaseOrPhenotypicFeature	D006973
+15811908	243	251	headache	DiseaseOrPhenotypicFeature	D006261
+15811908	256	264	vomiting	DiseaseOrPhenotypicFeature	D014839
+15811908	298	309	amisulpride	ChemicalEntity	D000077582
+15811908	321	329	tiapride	ChemicalEntity	D063325
+15811908	388	395	patient	OrganismTaxon	9606
+15811908	423	434	nicardipine	ChemicalEntity	D009529
+15811908	439	448	verapamil	ChemicalEntity	D014700
+15811908	573	589	pheochromocytoma	DiseaseOrPhenotypicFeature	D010673
+15811908	628	644	pheochromocytoma	DiseaseOrPhenotypicFeature	D010673
+15811908	694	709	benzamide drugs	ChemicalEntity	D001549
+15811908	848	860	hypertensive	DiseaseOrPhenotypicFeature	D006973
+15811908	872	883	amisulpride	ChemicalEntity	D000077582
+15811908	888	896	tiapride	ChemicalEntity	D063325
+15811908	976	987	amisulpride	ChemicalEntity	D000077582
+15811908	993	1001	tiapride	ChemicalEntity	D063325
+15811908	1010	1022	hypertensive	DiseaseOrPhenotypicFeature	D006973
+15811908	1035	1042	patient	OrganismTaxon	9606
+15811908	1048	1064	pheochromocytoma	DiseaseOrPhenotypicFeature	D010673
+15811908	1164	1172	tiapride	ChemicalEntity	D063325
+15811908	1177	1188	amisulpride	ChemicalEntity	D000077582
+15811908	Drug_Interaction	D000077582	D063325	No
+15811908	Association	D010673	D000077582	Novel
+15811908	Association	D010673	D063325	Novel
+15811908	Association	D001549	D010673	No
+15811908	Negative_Correlation	D014700	D014839	No
+15811908	Negative_Correlation	D014700	D006261	No
+15811908	Negative_Correlation	D014700	D006973	No
+15811908	Cotreatment	D009529	D014700	No
+15811908	Negative_Correlation	D009529	D014839	No
+15811908	Negative_Correlation	D009529	D006261	No
+15811908	Negative_Correlation	D009529	D006973	No
+15811908	Positive_Correlation	D014839	D000077582	Novel
+15811908	Positive_Correlation	D014839	D063325	Novel
+15811908	Positive_Correlation	D006261	D000077582	Novel
+15811908	Positive_Correlation	D006261	D063325	Novel
+15811908	Positive_Correlation	D006973	D000077582	Novel
+15811908	Positive_Correlation	D006973	D063325	Novel
